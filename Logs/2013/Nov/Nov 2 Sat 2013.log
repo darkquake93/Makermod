@@ -1,0 +1,1672 @@
+[Sat Nov 02 04:55:55 2013]  ------------------------------------------------------------
+[Sat Nov 02 04:55:55 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 02 04:55:57 2013]  ClientConnect: 0
+[Sat Nov 02 04:55:57 2013]  ClientConnect: 1
+[Sat Nov 02 04:56:01 2013]  ClientBegin: 0
+[Sat Nov 02 04:56:13 2013]  ClientBegin: 1
+[Sat Nov 02 04:57:15 2013]  Kill: 1 0 31: Bens_192 killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sat Nov 02 04:57:40 2013]  Item: 1 ammo_all
+[Sat Nov 02 05:03:34 2013]  ClientConnect: 2
+[Sat Nov 02 05:03:34 2013]  mlog:Player ^3BorBorys^1), connected. With IP - 188.92.0.200:29070 
+[Sat Nov 02 05:03:35 2013]  Kill: 1 0 3: Bens_192 killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 05:03:47 2013]  ClientDisconnect: 1
+[Sat Nov 02 05:05:54 2013]  ClientConnect: 1
+[Sat Nov 02 05:05:54 2013]  mlog:Player Bens_192, connected. With IP - 46.174.248.17:29070 
+[Sat Nov 02 05:05:57 2013]  ClientBegin: 2
+[Sat Nov 02 05:06:15 2013]  ClientBegin: 1
+[Sat Nov 02 05:07:06 2013]  Kill: 1 0 31: Bens_192 killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sat Nov 02 05:07:21 2013]  Kill: 1 2 36: Bens_192 killed ^3BorBorys^1) by MOD_CRUSH
+[Sat Nov 02 05:10:50 2013]  Kill: 2 1 31: ^3BorBorys^1) killed Bens_192 by MOD_FORCE_DARK
+[Sat Nov 02 05:11:16 2013]  Item: 2 ammo_all
+[Sat Nov 02 05:12:30 2013]  Kill: 1 0 1: Bens_192 killed ^6Pinkie Bot^7 by MOD_STUN_BATON
+[Sat Nov 02 05:12:54 2013]  Kill: 2 1 5: ^3BorBorys^1) killed Bens_192 by MOD_BRYAR_PISTOL_ALT
+[Sat Nov 02 05:13:32 2013]  say: ^3BorBorys^1): ^8 shhhh shhh shh b00m
+[Sat Nov 02 05:13:32 2013]  Kill: 2 1 36: ^3BorBorys^1) killed Bens_192 by MOD_CRUSH
+[Sat Nov 02 05:13:46 2013]  Item: 1 weapon_bryar_pistol
+[Sat Nov 02 05:13:50 2013]  Kill: 2 1 5: ^3BorBorys^1) killed Bens_192 by MOD_BRYAR_PISTOL_ALT
+[Sat Nov 02 05:13:53 2013]  Item: 2 weapon_bryar_pistol
+[Sat Nov 02 05:14:16 2013]  Kill: 2 1 5: ^3BorBorys^1) killed Bens_192 by MOD_BRYAR_PISTOL_ALT
+[Sat Nov 02 05:14:17 2013]  Item: 0 weapon_bryar_pistol
+[Sat Nov 02 05:14:25 2013]  Kill: 2 0 23: ^3BorBorys^1) killed ^6Pinkie Bot^7 by MOD_THERMAL
+[Sat Nov 02 05:14:51 2013]  Kill: 2 1 29: ^3BorBorys^1) killed Bens_192 by MOD_CONC
+[Sat Nov 02 05:15:12 2013]  Kill: 2 1 5: ^3BorBorys^1) killed Bens_192 by MOD_BRYAR_PISTOL_ALT
+[Sat Nov 02 05:15:50 2013]  Kill: 2 0 5: ^3BorBorys^1) killed ^6Pinkie Bot^7 by MOD_BRYAR_PISTOL_ALT
+[Sat Nov 02 05:17:38 2013]  Kill: 2 0 14: ^3BorBorys^1) killed ^6Pinkie Bot^7 by MOD_REPEATER_ALT_SPLASH
+[Sat Nov 02 05:18:33 2013]  ClientDisconnect: 1
+[Sat Nov 02 05:18:54 2013]  Kill: 2 0 27: ^3BorBorys^1) killed ^6Pinkie Bot^7 by MOD_DET_PACK_SPLASH
+[Sat Nov 02 05:19:00 2013]  ClientDisconnect: 2
+[Sat Nov 02 05:20:01 2013]  ClientConnect: 1
+[Sat Nov 02 05:20:01 2013]  mlog:Player Bens_192, connected. With IP - 46.174.248.17:29070 
+[Sat Nov 02 05:20:24 2013]  ClientBegin: 1
+[Sat Nov 02 05:20:46 2013]  say: Bens_192: ^1artilerry storm
+[Sat Nov 02 05:20:54 2013]  Kill: 1 1 36: Bens_192 killed Bens_192 by MOD_CRUSH
+[Sat Nov 02 05:22:10 2013]  say: Bens_192: ^1artilerry storm
+[Sat Nov 02 05:22:30 2013]  say: Bens_192: ^1artilerry storm
+[Sat Nov 02 05:22:32 2013]  say: Bens_192: ^1artilerry storm
+[Sat Nov 02 05:22:33 2013]  say: Bens_192: ^1artilerry storm
+[Sat Nov 02 05:22:34 2013]  say: Bens_192: ^1artilerry storm
+[Sat Nov 02 05:22:34 2013]  say: Bens_192: ^1artilerry storm
+[Sat Nov 02 05:22:35 2013]  say: Bens_192: ^1artilerry storm
+[Sat Nov 02 05:22:35 2013]  say: Bens_192: ^1artilerry storm
+[Sat Nov 02 05:22:35 2013]  say: Bens_192: ^1artilerry storm
+[Sat Nov 02 05:22:35 2013]  ClientDisconnect: 1
+[Sat Nov 02 05:38:29 2013]  ClientConnect: 1
+[Sat Nov 02 05:38:29 2013]  mlog:Player Bens_192, connected. With IP - 46.174.248.17:29070 
+[Sat Nov 02 05:39:23 2013]  ClientDisconnect: 1
+[Sat Nov 02 06:54:58 2013]  ClientConnect: 1
+[Sat Nov 02 06:54:58 2013]  mlog:Player Padawan, connected. With IP - 159.255.234.38:29070 
+[Sat Nov 02 06:55:21 2013]  ClientBegin: 1
+[Sat Nov 02 06:55:46 2013]  Kill: 1 0 3: Padawan killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 06:55:50 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 06:55:50 2013]  setteam:  1 FREE SPECTATOR
+[Sat Nov 02 06:55:50 2013]  ClientBegin: 1
+[Sat Nov 02 06:55:54 2013]  Exit: Timelimit hit.
+[Sat Nov 02 06:55:54 2013]  score: 0  ping: 74  client: 0 ^6Pinkie Bot^7
+[Sat Nov 02 06:57:44 2013]  ShutdownGame:
+[Sat Nov 02 06:57:44 2013]  ------------------------------------------------------------
+[Sat Nov 02 06:57:44 2013]  ------------------------------------------------------------
+[Sat Nov 02 06:57:44 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 02 06:57:45 2013]  ClientConnect: 0
+[Sat Nov 02 06:57:45 2013]  ClientConnect: 1
+[Sat Nov 02 06:57:47 2013]  ClientBegin: 0
+[Sat Nov 02 06:57:56 2013]  ClientBegin: 1
+[Sat Nov 02 06:58:02 2013]  setteam:  1 SPECTATOR FREE
+[Sat Nov 02 06:58:02 2013]  ClientBegin: 1
+[Sat Nov 02 07:04:36 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 07:04:36 2013]  setteam:  1 FREE SPECTATOR
+[Sat Nov 02 07:04:36 2013]  ClientBegin: 1
+[Sat Nov 02 07:05:07 2013]  ClientDisconnect: 1
+[Sat Nov 02 07:36:37 2013]  ClientConnect: 1
+[Sat Nov 02 07:36:37 2013]  mlog:Player qweruoipäö', connected. With IP - 159.255.234.38:29070 
+[Sat Nov 02 07:36:48 2013]  ClientBegin: 1
+[Sat Nov 02 07:38:15 2013]  say: Padawan: pting not alIowed here
+[Sat Nov 02 07:38:19 2013]  say: Padawan: pting not alIowed here
+[Sat Nov 02 07:38:31 2013]  say: Padawan: pting not alIowed here
+[Sat Nov 02 07:38:49 2013]  say: Padawan: adsfkjl
+[Sat Nov 02 07:38:54 2013]  say: Padawan: adsfkjl
+[Sat Nov 02 07:39:48 2013]  say: Padawan: adafkn:
+[Sat Nov 02 07:40:03 2013]  say: Padawan: ^2or exampIe^7: ^3/interact 1
+[Sat Nov 02 07:40:13 2013]  say: Padawan: ^0OILO
+[Sat Nov 02 07:40:16 2013]  ClientConnect: 2
+[Sat Nov 02 07:40:16 2013]  mlog:Player Padawan, connected. With IP - 46.39.248.67:7477 
+[Sat Nov 02 07:40:36 2013]  ClientBegin: 2
+[Sat Nov 02 07:40:42 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 07:40:42 2013]  setteam:  1 FREE SPECTATOR
+[Sat Nov 02 07:40:42 2013]  ClientBegin: 1
+[Sat Nov 02 07:40:49 2013]  setteam:  1 SPECTATOR FREE
+[Sat Nov 02 07:40:49 2013]  ClientBegin: 1
+[Sat Nov 02 07:41:17 2013]  ClientDisconnect: 2
+[Sat Nov 02 07:45:51 2013]  Kill: 1022 1 2: <world> killed Padawan by MOD_MELEE
+[Sat Nov 02 07:46:21 2013]  Kill: 1 0 31: Padawan killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sat Nov 02 07:47:11 2013]  say: Padawan: oip
+[Sat Nov 02 07:47:20 2013]  say: Padawan: ^2E
+[Sat Nov 02 07:47:34 2013]  say: Padawan: ^2
+[Sat Nov 02 07:48:09 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 07:48:09 2013]  setteam:  1 FREE SPECTATOR
+[Sat Nov 02 07:48:09 2013]  ClientBegin: 1
+[Sat Nov 02 07:48:15 2013]  setteam:  1 SPECTATOR FREE
+[Sat Nov 02 07:48:15 2013]  ClientBegin: 1
+[Sat Nov 02 07:48:21 2013]  say: Padawan: ^2
+[Sat Nov 02 07:50:04 2013]  Kill: 1022 1 38: <world> killed Padawan by MOD_FALLING
+[Sat Nov 02 07:51:01 2013]  Kill: 1022 1 2: <world> killed Padawan by MOD_MELEE
+[Sat Nov 02 07:51:33 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 07:51:33 2013]  setteam:  1 FREE SPECTATOR
+[Sat Nov 02 07:51:33 2013]  ClientBegin: 1
+[Sat Nov 02 07:51:46 2013]  setteam:  1 SPECTATOR FREE
+[Sat Nov 02 07:51:46 2013]  ClientBegin: 1
+[Sat Nov 02 07:52:29 2013]  Kill: 1 0 31: Padawan killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sat Nov 02 07:53:24 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 07:53:24 2013]  setteam:  1 FREE SPECTATOR
+[Sat Nov 02 07:53:24 2013]  ClientBegin: 1
+[Sat Nov 02 07:53:38 2013]  setteam:  1 SPECTATOR FREE
+[Sat Nov 02 07:53:38 2013]  ClientBegin: 1
+[Sat Nov 02 07:54:26 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 07:54:26 2013]  setteam:  1 FREE SPECTATOR
+[Sat Nov 02 07:54:26 2013]  ClientBegin: 1
+[Sat Nov 02 07:54:32 2013]  setteam:  1 SPECTATOR FREE
+[Sat Nov 02 07:54:32 2013]  ClientBegin: 1
+[Sat Nov 02 07:55:13 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 07:55:13 2013]  setteam:  1 FREE SPECTATOR
+[Sat Nov 02 07:55:13 2013]  ClientBegin: 1
+[Sat Nov 02 07:55:19 2013]  setteam:  1 SPECTATOR FREE
+[Sat Nov 02 07:55:19 2013]  ClientBegin: 1
+[Sat Nov 02 07:56:21 2013]  Kill: 1 0 31: Padawan killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sat Nov 02 07:56:56 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 07:56:56 2013]  setteam:  1 FREE SPECTATOR
+[Sat Nov 02 07:56:56 2013]  ClientBegin: 1
+[Sat Nov 02 07:57:26 2013]  setteam:  1 SPECTATOR FREE
+[Sat Nov 02 07:57:26 2013]  ClientBegin: 1
+[Sat Nov 02 07:57:32 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 07:57:32 2013]  setteam:  1 FREE SPECTATOR
+[Sat Nov 02 07:57:32 2013]  ClientBegin: 1
+[Sat Nov 02 07:57:37 2013]  setteam:  1 SPECTATOR FREE
+[Sat Nov 02 07:57:37 2013]  ClientBegin: 1
+[Sat Nov 02 07:59:21 2013]  ClientDisconnect: 1
+[Sat Nov 02 08:57:43 2013]  Exit: Timelimit hit.
+[Sat Nov 02 08:57:43 2013]  score: 0  ping: 65  client: 0 ^6Pinkie Bot^7
+[Sat Nov 02 16:30:02 2013]  ClientConnect: 1
+[Sat Nov 02 16:30:02 2013]  mlog:Player ^4Hy^0Dro, connected. With IP - 108.193.102.55:29070 
+[Sat Nov 02 16:30:25 2013]  ClientBegin: 1
+[Sat Nov 02 16:30:31 2013]  setteam:  1 FREE SPECTATOR
+[Sat Nov 02 16:30:31 2013]  ClientBegin: 1
+[Sat Nov 02 16:30:33 2013]  ClientDisconnect: 1
+[Sat Nov 02 19:12:38 2013]  ClientConnect: 1
+[Sat Nov 02 19:12:38 2013]  mlog:Player ^1Jaden, connected. With IP - 50.129.4.82:29070 
+[Sat Nov 02 19:15:57 2013]  ClientDisconnect: 1
+[Sat Nov 02 19:15:57 2013]  ClientConnect: 1
+[Sat Nov 02 19:15:57 2013]  mlog:Player ^4Jaden, connected. With IP - 50.129.4.82:29070 
+[Sat Nov 02 19:16:43 2013]  ClientBegin: 1
+[Sat Nov 02 19:16:58 2013]  ShutdownGame:
+[Sat Nov 02 19:16:58 2013]  ------------------------------------------------------------
+[Sat Nov 02 19:16:58 2013]  ------------------------------------------------------------
+[Sat Nov 02 19:16:58 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 02 19:17:00 2013]  ClientConnect: 0
+[Sat Nov 02 19:17:00 2013]  ClientConnect: 1
+[Sat Nov 02 19:17:03 2013]  ClientBegin: 0
+[Sat Nov 02 19:17:35 2013]  ClientBegin: 1
+[Sat Nov 02 19:17:56 2013]  Kill: 1 0 5: ^1Jaden killed ^6Pinkie Bot^7 by MOD_BRYAR_PISTOL_ALT
+[Sat Nov 02 19:20:51 2013]  ClientConnect: 2
+[Sat Nov 02 19:20:51 2013]  mlog:Player 13245676ui, connected. With IP - 159.255.234.38:29070 
+[Sat Nov 02 19:21:00 2013]  ClientBegin: 2
+[Sat Nov 02 19:21:54 2013]  Kill: 2 0 3: Padawan killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 19:23:16 2013]  Kill: 2 0 3: Padawan killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 19:23:47 2013]  ClientDisconnect: 1
+[Sat Nov 02 19:23:47 2013]  ClientConnect: 1
+[Sat Nov 02 19:23:47 2013]  mlog:Player ^4Jaden, connected. With IP - 50.129.4.82:29070 
+[Sat Nov 02 19:24:36 2013]  ClientBegin: 1
+[Sat Nov 02 19:24:44 2013]  Kill: 2 0 31: Padawan killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sat Nov 02 19:26:38 2013]  Kill: 2 0 31: Padawan killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sat Nov 02 19:29:19 2013]  say: ^1Jaden: lol okay that's cool XD
+[Sat Nov 02 19:29:30 2013]  say: ^1Jaden: run jawa XD
+[Sat Nov 02 19:30:30 2013]  Kill: 2 0 31: Padawan killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sat Nov 02 19:31:44 2013]  say: ^1Jaden: don't touch it until i drop it
+[Sat Nov 02 19:32:00 2013]  say: ^1Jaden: ok
+[Sat Nov 02 19:32:33 2013]  say: ^1Jaden: lol
+[Sat Nov 02 19:33:01 2013]  Kill: 2 0 31: Padawan killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sat Nov 02 19:34:02 2013]  say: Padawan: WWE
+[Sat Nov 02 19:34:05 2013]  say: ^1Jaden: XD
+[Sat Nov 02 19:34:49 2013]  say: ^1Jaden: lol
+[Sat Nov 02 19:35:51 2013]  Kill: 2 0 31: Padawan killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sat Nov 02 19:36:12 2013]  say: ^1Jaden: lol
+[Sat Nov 02 19:37:25 2013]  Kill: 1 2 21: ^1Jaden killed Padawan by MOD_ROCKET_HOMING
+[Sat Nov 02 19:37:42 2013]  Kill: 2 0 31: Padawan killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sat Nov 02 19:37:42 2013]  say: ^1Jaden: lol
+[Sat Nov 02 19:40:14 2013]  Kill: 2 0 38: Padawan killed ^6Pinkie Bot^7 by MOD_FALLING
+[Sat Nov 02 19:43:20 2013]  Kill: 2 0 38: Padawan killed ^6Pinkie Bot^7 by MOD_FALLING
+[Sat Nov 02 19:43:28 2013]  say: Padawan: WWE
+[Sat Nov 02 19:43:32 2013]  say: Padawan: WWE
+[Sat Nov 02 19:43:37 2013]  say: ^1Jaden: lol
+[Sat Nov 02 19:43:58 2013]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 19:43:58 2013]  setteam:  2 FREE SPECTATOR
+[Sat Nov 02 19:43:58 2013]  ClientBegin: 2
+[Sat Nov 02 19:44:20 2013]  setteam:  2 SPECTATOR FREE
+[Sat Nov 02 19:44:20 2013]  ClientBegin: 2
+[Sat Nov 02 19:44:27 2013]  Kill: 2 0 3: Padawan killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 19:46:39 2013]  ClientConnect: 3
+[Sat Nov 02 19:46:39 2013]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 86.8.228.166:29071 
+[Sat Nov 02 19:46:54 2013]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 19:46:54 2013]  setteam:  2 FREE SPECTATOR
+[Sat Nov 02 19:46:54 2013]  ClientBegin: 2
+[Sat Nov 02 19:46:56 2013]  ClientBegin: 3
+[Sat Nov 02 19:46:57 2013]  say: ^1M^7r ^1Ð^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Nov 02 19:47:05 2013]  say: ^1M^7r ^1Ð^7innertime: God, I hate terrible first impressions, lol.
+[Sat Nov 02 19:47:10 2013]  setteam:  2 SPECTATOR FREE
+[Sat Nov 02 19:47:10 2013]  Kill: 2 3 37: Padawan killed ^1M^7r ^1Ð^7innertime by MOD_TELEFRAG
+[Sat Nov 02 19:47:10 2013]  ClientBegin: 2
+[Sat Nov 02 19:47:10 2013]  tell: ^1M^7r ^1Ð^7innertime to Padawan: Gf. You have caused 2 of my 109 deaths.
+[Sat Nov 02 19:47:13 2013]  say: ^1Jaden: hi
+[Sat Nov 02 19:47:14 2013]  say: ^1M^7r ^1Ð^7innertime: Windows update corrupted a few updates xD
+[Sat Nov 02 19:47:17 2013]  say: ^1M^7r ^1Ð^7innertime: Had to do chkdsk
+[Sat Nov 02 19:47:23 2013]  say: ^1M^7r ^1Ð^7innertime: a few records*
+[Sat Nov 02 19:47:27 2013]  Kill: 2 0 3: Padawan killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 19:47:44 2013]  Kill: 2 3 3: Padawan killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Sat Nov 02 19:47:44 2013]  tell: ^1M^7r ^1Ð^7innertime to Padawan: Gf. You have caused 3 of my 110 deaths.
+[Sat Nov 02 19:47:46 2013]  say: ^1M^7r ^1Ð^7innertime: brb door
+[Sat Nov 02 19:47:48 2013]  say: ^1Jaden: lol
+[Sat Nov 02 19:49:01 2013]  say: ^1Jaden: lol
+[Sat Nov 02 19:51:03 2013]  say: Padawan: YYYYYY
+[Sat Nov 02 19:51:09 2013]  say: ^1Jaden: lol
+[Sat Nov 02 19:51:47 2013]  ClientConnect: 4
+[Sat Nov 02 19:51:47 2013]  mlog:Player Carnage man, connected. With IP - 76.21.14.124:29070 
+[Sat Nov 02 19:52:16 2013]  Kill: 4 3 37: Darth Fear killed ^1M^7r ^1Ð^7innertime by MOD_TELEFRAG
+[Sat Nov 02 19:52:16 2013]  ClientBegin: 4
+[Sat Nov 02 19:52:17 2013]  tell: ^1M^7r ^1Ð^7innertime to Darth Fear: Gf. You have caused 1 of my 111 deaths.
+[Sat Nov 02 19:52:26 2013]  say: ^1Jaden: hi
+[Sat Nov 02 19:53:48 2013]  say: ^1M^7r ^1Ð^7innertime: 'kay back ;3
+[Sat Nov 02 19:53:50 2013]  say: ^1Jaden: wb
+[Sat Nov 02 19:53:54 2013]  say: ^1M^7r ^1Ð^7innertime: ty :]
+[Sat Nov 02 19:53:57 2013]  say: ^1Jaden: ^_^
+[Sat Nov 02 19:54:15 2013]  Kill: 4 0 3: Darth Fear killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 19:54:16 2013]  say: ^1M^7r ^1Ð^7innertime: Kinda scriptless atm ._.
+[Sat Nov 02 19:54:22 2013]  Kill: 4 3 3: Darth Fear killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Sat Nov 02 19:54:22 2013]  tell: ^1M^7r ^1Ð^7innertime to Darth Fear: Gf. You have caused 2 of my 112 deaths.
+[Sat Nov 02 19:54:26 2013]  say: ^1M^7r ^1Ð^7innertime: Trying my hand at developing with C by jumping straight into the deep end, lol
+[Sat Nov 02 19:54:30 2013]  say: ^1M^7r ^1Ð^7innertime: making my own version of makermodule xD
+[Sat Nov 02 19:54:44 2013]  say: ^1Jaden: cool :P
+[Sat Nov 02 19:54:46 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 19:54:57 2013]  say: ^1M^7r ^1Ð^7innertime: It's insane ;3
+[Sat Nov 02 19:55:07 2013]  say: ^1M^7r ^1Ð^7innertime: I'm used to Object Orientated programming
+[Sat Nov 02 19:55:11 2013]  say: ^1M^7r ^1Ð^7innertime: Procedural is so much different
+[Sat Nov 02 19:55:18 2013]  say: ^1Jaden: this is like my 8th attempt at stairs and I think i've failed again
+[Sat Nov 02 19:55:20 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 19:56:04 2013]  ClientDisconnect: 3
+[Sat Nov 02 19:56:04 2013]  ClientConnect: 3
+[Sat Nov 02 19:56:04 2013]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 86.8.228.166:29071 
+[Sat Nov 02 19:56:04 2013]  say: ^1Jaden: -.- well that just screwed up this building gerrr
+[Sat Nov 02 19:56:19 2013]  ClientBegin: 3
+[Sat Nov 02 19:56:19 2013]  say: ^1M^7r ^1Ð^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Nov 02 19:56:21 2013]  say: ^1M^7r ^1Ð^7innertime: wow ._.
+[Sat Nov 02 19:56:31 2013]  say: ^1M^7r ^1Ð^7innertime: That's the first time in years that I've overflowed from a script
+[Sat Nov 02 19:56:32 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 19:56:33 2013]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 19:56:33 2013]  setteam:  2 FREE SPECTATOR
+[Sat Nov 02 19:56:33 2013]  ClientBegin: 2
+[Sat Nov 02 19:56:44 2013]  setteam:  2 SPECTATOR FREE
+[Sat Nov 02 19:56:44 2013]  ClientBegin: 2
+[Sat Nov 02 19:56:52 2013]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 19:56:52 2013]  setteam:  2 FREE SPECTATOR
+[Sat Nov 02 19:56:52 2013]  ClientBegin: 2
+[Sat Nov 02 19:56:59 2013]  setteam:  2 SPECTATOR FREE
+[Sat Nov 02 19:56:59 2013]  ClientBegin: 2
+[Sat Nov 02 19:57:13 2013]  Kill: 2 0 3: Padawan killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 19:57:17 2013]  Kill: 2 3 3: Padawan killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Sat Nov 02 19:57:25 2013]  say: ^1Jaden: Well then that script is a naughty script :P
+[Sat Nov 02 19:57:29 2013]  Kill: 1022 4 3: <world> killed Darth Fear by MOD_SABER
+[Sat Nov 02 19:58:29 2013]  ClientDisconnect: 4
+[Sat Nov 02 20:00:16 2013]  say: ^1Jaden: -.- my music is messing up on me gerrr
+[Sat Nov 02 20:00:36 2013]  ClientDisconnect: 3
+[Sat Nov 02 20:00:45 2013]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 02 20:00:45 2013]  setteam:  2 FREE SPECTATOR
+[Sat Nov 02 20:00:45 2013]  ClientBegin: 2
+[Sat Nov 02 20:04:04 2013]  setteam:  2 SPECTATOR FREE
+[Sat Nov 02 20:04:04 2013]  ClientBegin: 2
+[Sat Nov 02 20:04:14 2013]  Kill: 2 0 3: Padawan killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 20:04:29 2013]  ClientDisconnect: 2
+[Sat Nov 02 20:18:32 2013]  ClientConnect: 2
+[Sat Nov 02 20:18:32 2013]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 86.8.228.166:29071 
+[Sat Nov 02 20:18:47 2013]  ClientBegin: 2
+[Sat Nov 02 20:18:48 2013]  say: ^1M^7r ^1Ð^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Nov 02 20:19:01 2013]  say: ^1Jaden: Welcome back Mr. DinnerTime ^_^
+[Sat Nov 02 20:19:05 2013]  say: ^1M^7r ^1Ð^7innertime: Thanks :)
+[Sat Nov 02 20:19:22 2013]  say: ^1M^7r ^1Ð^7innertime: Putting the mod on hold for now ;3 Using the regular makermodule
+[Sat Nov 02 20:19:23 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 20:20:06 2013]  say: ^1Jaden: :P
+[Sat Nov 02 20:20:12 2013]  say: ^1M^7r ^1Ð^7innertime: Did you make this? =o
+[Sat Nov 02 20:20:19 2013]  say: ^1Jaden: yep
+[Sat Nov 02 20:20:22 2013]  say: ^1M^7r ^1Ð^7innertime: Nice! :p
+[Sat Nov 02 20:20:25 2013]  say: ^1Jaden: ^_^
+[Sat Nov 02 20:20:41 2013]  say: ^1Jaden: know who I am? XD
+[Sat Nov 02 20:20:49 2013]  say: ^1M^7r ^1Ð^7innertime: Your voice pattern says Tusken King
+[Sat Nov 02 20:20:50 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:20:54 2013]  say: ^1Jaden: lol nope
+[Sat Nov 02 20:20:56 2013]  say: ^1M^7r ^1Ð^7innertime: =o
+[Sat Nov 02 20:21:02 2013]  say: ^1M^7r ^1Ð^7innertime: Then i...
+[Sat Nov 02 20:21:03 2013]  say: ^1M^7r ^1Ð^7innertime: uhh
+[Sat Nov 02 20:21:06 2013]  say: ^1Jaden: touch this chair
+[Sat Nov 02 20:21:10 2013]  say: ^1M^7r ^1Ð^7innertime: ._. Who else says ^_^
+[Sat Nov 02 20:21:16 2013]  say: ^1M^7r ^1Ð^7innertime: Oh, wendy xD
+[Sat Nov 02 20:21:17 2013]  say: ^1Jaden: XD
+[Sat Nov 02 20:21:18 2013]  say: ^1M^7r ^1Ð^7innertime: I remember now
+[Sat Nov 02 20:21:23 2013]  say: ^1Jaden: :P ^_^
+[Sat Nov 02 20:21:58 2013]  say: ^1Jaden: the crystals on the table I just finished -.- and dang it their not perfectly in the middle gerrrr
+[Sat Nov 02 20:22:01 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:22:09 2013]  say: ^1Jaden: :P
+[Sat Nov 02 20:22:43 2013]  say: ^1M^7r ^1Ð^7innertime: Have you seen my new Steam avatar? xD
+[Sat Nov 02 20:22:52 2013]  say: ^1Jaden: not yet
+[Sat Nov 02 20:22:57 2013]  say: ^1Jaden: touch chai
+[Sat Nov 02 20:22:57 2013]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sat Nov 02 20:22:59 2013]  say: ^1Jaden: chair(
+[Sat Nov 02 20:23:00 2013]  say: ^1M^7r ^1Ð^7innertime: =o
+[Sat Nov 02 20:23:01 2013]  say: ^1M^7r ^1Ð^7innertime: yay
+[Sat Nov 02 20:23:03 2013]  say: ^1M^7r ^1Ð^7innertime: ty xD
+[Sat Nov 02 20:23:18 2013]  say: ^1Jaden: gerr bad keyboard and you're welcome
+[Sat Nov 02 20:23:21 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:23:36 2013]  say: ^1Jaden: Second floor needs rooms XD
+[Sat Nov 02 20:24:25 2013]  say: ^1Jaden: lol close
+[Sat Nov 02 20:24:27 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:24:38 2013]  say: ^1Jaden: lol
+[Sat Nov 02 20:25:26 2013]  say: ^1Jaden: lol too high
+[Sat Nov 02 20:25:28 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 20:25:38 2013]  say: ^1M^7r ^1Ð^7innertime: It's roughly the same as mmove
+[Sat Nov 02 20:25:38 2013]  say: ^1M^7r ^1Ð^7innertime: * 10
+[Sat Nov 02 20:25:45 2013]  say: ^1M^7r ^1Ð^7innertime: catwalks are 12.8
+[Sat Nov 02 20:25:46 2013]  say: ^1M^7r ^1Ð^7innertime: so..
+[Sat Nov 02 20:25:48 2013]  say: ^1M^7r ^1Ð^7innertime: try 128
+[Sat Nov 02 20:26:05 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:26:10 2013]  say: ^1Jaden: lol just a twinge to high
+[Sat Nov 02 20:26:12 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 20:26:43 2013]  say: ^1Jaden: lol come back down -.-
+[Sat Nov 02 20:26:53 2013]  say: ^1M^7r ^1Ð^7innertime: Brb! food xD
+[Sat Nov 02 20:26:56 2013]  say: ^1Jaden: k
+[Sat Nov 02 20:27:20 2013]  say: ^1Jaden: 124 works
+[Sat Nov 02 20:27:25 2013]  say: ^1M^7r ^1Ð^7innertime: :E
+[Sat Nov 02 20:27:26 2013]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sat Nov 02 20:29:12 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:29:13 2013]  say: ^1M^7r ^1Ð^7innertime: got it
+[Sat Nov 02 20:29:20 2013]  say: ^1Jaden: lol now the door doesn't want to work
+[Sat Nov 02 20:29:23 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 20:30:22 2013]  say: ^1Jaden: bad door -.-
+[Sat Nov 02 20:30:27 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:30:29 2013]  say: ^1Jaden: XD
+[Sat Nov 02 20:30:37 2013]  say: ^1M^7r ^1Ð^7innertime: Oh, hey
+[Sat Nov 02 20:30:38 2013]  say: ^1M^7r ^1Ð^7innertime: Wendy
+[Sat Nov 02 20:30:40 2013]  say: ^1Jaden: ?
+[Sat Nov 02 20:30:43 2013]  say: ^1M^7r ^1Ð^7innertime: did I show you my OP script? xD
+[Sat Nov 02 20:30:52 2013]  say: ^1Jaden: Not that i know of
+[Sat Nov 02 20:30:58 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:31:17 2013]  say: ^1M^7r ^1Ð^7innertime: It just wipes out npcs in an OP as fudge radius xD
+[Sat Nov 02 20:31:27 2013]  say: ^1Jaden: lol
+[Sat Nov 02 20:31:51 2013]  say: ^1M^7r ^1Ð^7innertime: want to see it, later? xD
+[Sat Nov 02 20:31:56 2013]  say: ^1Jaden: yep
+[Sat Nov 02 20:32:10 2013]  say: ^1M^7r ^1Ð^7innertime: :D k
+[Sat Nov 02 20:32:21 2013]  say: ^1Jaden: lol damn bed
+[Sat Nov 02 20:36:55 2013]  say: ^1Jaden: not the best but they'll do :P
+[Sat Nov 02 20:37:29 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:38:29 2013]  say: ^1Jaden: :P
+[Sat Nov 02 20:39:44 2013]  say: ^1Jaden: lol 99 objects XD
+[Sat Nov 02 20:40:10 2013]  say: ^1Jaden: ^6Bubble Gum :P
+[Sat Nov 02 20:40:15 2013]  say: ^1Jaden: XD
+[Sat Nov 02 20:41:38 2013]  say: ^1Jaden: ^4O^1k^2a^5y ^5t^3h^2e ^7C^1o^2n^3s^6o^3l^4e ^1C^3h^2a^3n^7g^3e^4s ^1c^6o^2l^7o^0r ^1w^2h^3e^4n ^5y^6o^1u ^4t^3y^2p^3e
+[Sat Nov 02 20:41:45 2013]  say: ^1Jaden: XD
+[Sat Nov 02 20:41:52 2013]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Sat Nov 02 20:41:55 2013]  say: ^1M^7r ^1Ð^7innertime: some shaders are like that
+[Sat Nov 02 20:42:04 2013]  Kill: 1022 1 36: <world> killed ^1Jaden by MOD_CRUSH
+[Sat Nov 02 20:42:07 2013]  say: ^1M^7r ^1Ð^7innertime: oops xD
+[Sat Nov 02 20:42:08 2013]  say: ^1Jaden: RAINBOW WORDS XD
+[Sat Nov 02 20:42:08 2013]  say: ^1M^7r ^1Ð^7innertime: sorry
+[Sat Nov 02 20:42:12 2013]  say: ^1M^7r ^1Ð^7innertime: I thought you had shield on, lol
+[Sat Nov 02 20:42:17 2013]  say: ^1Jaden: lol i did
+[Sat Nov 02 20:42:18 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 20:42:56 2013]  say: ^1Jaden: :P
+[Sat Nov 02 20:42:57 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:43:12 2013]  say: ^1M^7r ^1Ð^7innertime: ear rape much?
+[Sat Nov 02 20:43:13 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:43:17 2013]  say: ^1Jaden: lol
+[Sat Nov 02 20:43:40 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:43:42 2013]  say: ^1Jaden: lol
+[Sat Nov 02 20:43:55 2013]  say: ^1M^7r ^1Ð^7innertime: You think that radius was big? I could have killed them if they were outside
+[Sat Nov 02 20:43:55 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:44:02 2013]  say: ^1Jaden: XD
+[Sat Nov 02 20:44:28 2013]  say: ^1Jaden: lol
+[Sat Nov 02 20:44:32 2013]  say: ^1M^7r ^1Ð^7innertime: Oh
+[Sat Nov 02 20:44:36 2013]  say: ^1M^7r ^1Ð^7innertime: that wasn't a pain one xD
+[Sat Nov 02 20:44:46 2013]  say: ^1M^7r ^1Ð^7innertime: that just boosted my health and armour to about 2,147,000,00
+[Sat Nov 02 20:44:49 2013]  say: ^1M^7r ^1Ð^7innertime: 000,000*&
+[Sat Nov 02 20:44:54 2013]  say: ^1Jaden: lol
+[Sat Nov 02 20:45:41 2013]  say: ^1Jaden: XD
+[Sat Nov 02 20:45:51 2013]  say: ^1Jaden: XD
+[Sat Nov 02 20:46:57 2013]  say: ^1Jaden: lol
+[Sat Nov 02 20:47:00 2013]  say: ^1M^7r ^1Ð^7innertime: xd
+[Sat Nov 02 20:47:03 2013]  say: ^1Jaden: XD
+[Sat Nov 02 20:47:04 2013]  say: ^1M^7r ^1Ð^7innertime: I think
+[Sat Nov 02 20:47:12 2013]  say: ^1M^7r ^1Ð^7innertime: I'm not as rusty as I was when I first came back anymore
+[Sat Nov 02 20:47:13 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:47:35 2013]  say: ^1Jaden: :P
+[Sat Nov 02 20:47:58 2013]  say: ^1M^7r ^1Ð^7innertime: eww
+[Sat Nov 02 20:48:01 2013]  say: ^1M^7r ^1Ð^7innertime: that z-fighting
+[Sat Nov 02 20:48:07 2013]  say: ^1Jaden: lol
+[Sat Nov 02 20:49:39 2013]  Kill: 2 0 3: ^1M^7r ^1Ð^7innertime killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 20:49:39 2013]  tell: ^1M^7r ^1Ð^7innertime to ^6Pinkie Bot^7: Gf. You make up 2 of my 128 kills.
+[Sat Nov 02 20:50:13 2013]  say: ^1Jaden: lol damn chairs
+[Sat Nov 02 20:50:15 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:50:50 2013]  say: ^1Jaden: lol
+[Sat Nov 02 20:50:52 2013]  tell: ^1M^7r ^1Ð^7innertime to ^1Jaden: Good luck ;3
+[Sat Nov 02 20:50:52 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:50:54 2013]  say: ^1Jaden: XD
+[Sat Nov 02 20:51:17 2013]  Kill: 2 1 3: ^1M^7r ^1Ð^7innertime killed ^1Jaden by MOD_SABER
+[Sat Nov 02 20:51:17 2013]  tell: ^1M^7r ^1Ð^7innertime to ^1Jaden: Gf. You make up 1 of my 20 successful duels.
+[Sat Nov 02 20:51:19 2013]  say: ^1Jaden: XD
+[Sat Nov 02 20:51:21 2013]  say: ^1M^7r ^1Ð^7innertime: stahp saber locking xD
+[Sat Nov 02 20:51:49 2013]  say: ^1Jaden: lol I don't know how i kept doing that (I suck at saber locking)
+[Sat Nov 02 20:51:52 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 20:51:52 2013]  say: ^1M^7r ^1Ð^7innertime: xd
+[Sat Nov 02 20:51:55 2013]  say: ^1M^7r ^1Ð^7innertime: so do I
+[Sat Nov 02 20:51:55 2013]  Kill: 1 0 3: ^1Jaden killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 20:52:00 2013]  say: ^1M^7r ^1Ð^7innertime: I use a script to do it for me xd
+[Sat Nov 02 20:52:05 2013]  say: ^1Jaden: XD Pinkie bot's just fun to mess with
+[Sat Nov 02 20:52:07 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:52:12 2013]  say: ^1M^7r ^1Ð^7innertime: Attacks 113 times in one second
+[Sat Nov 02 20:52:13 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 20:52:33 2013]  say: ^1Jaden: lol
+[Sat Nov 02 20:52:35 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:52:46 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:52:46 2013]  Kill: 1 2 3: ^1Jaden killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Sat Nov 02 20:52:46 2013]  tell: ^1M^7r ^1Ð^7innertime to ^1Jaden: Gf. You have caused 1 of my 113 deaths.
+[Sat Nov 02 20:52:49 2013]  say: ^1Jaden: XD
+[Sat Nov 02 20:52:54 2013]  say: ^1Jaden: Can't help it
+[Sat Nov 02 20:52:56 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:52:59 2013]  ClientConnect: 3
+[Sat Nov 02 20:52:59 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sat Nov 02 20:53:17 2013]  say: ^1M^7r ^1Ð^7innertime: lol.
+[Sat Nov 02 20:53:21 2013]  say: ^1Jaden: XD
+[Sat Nov 02 20:53:21 2013]  say: ^1M^7r ^1Ð^7innertime: saberlock factor 100 percent
+[Sat Nov 02 20:53:31 2013]  ClientBegin: 3
+[Sat Nov 02 20:53:42 2013]  say: ^1Jaden: XD
+[Sat Nov 02 20:53:44 2013]  Kill: 3 0 3: ^0ÐàrkQµàkè killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 20:53:45 2013]  say: ^1M^7r ^1Ð^7innertime: hi, quake :p
+[Sat Nov 02 20:53:48 2013]  say: ^0ÐàrkQµàkè: hey :)
+[Sat Nov 02 20:53:52 2013]  say: ^0ÐàrkQµàkè: just thought I'd drop by
+[Sat Nov 02 20:53:54 2013]  say: ^1M^7r ^1Ð^7innertime: Ah
+[Sat Nov 02 20:54:03 2013]  say: ^0ÐàrkQµàkè: gonna play l4d2 again later haha
+[Sat Nov 02 20:54:06 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:54:09 2013]  say: ^0ÐàrkQµàkè: but I wanna slowly improve Ev3
+[Sat Nov 02 20:54:12 2013]  say: ^1M^7r ^1Ð^7innertime: ah
+[Sat Nov 02 20:54:30 2013]  say: ^1M^7r ^1Ð^7innertime: I've been trying to learn C by making my own version of makermodule *_*
+[Sat Nov 02 20:54:32 2013]  say: ^1M^7r ^1Ð^7innertime: it's hard, lol
+[Sat Nov 02 20:54:41 2013]  say: ^0ÐàrkQµàkè: oh cool haha
+[Sat Nov 02 20:54:42 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:54:55 2013]  say: ^0ÐàrkQµàkè: i know some c++ :p
+[Sat Nov 02 20:54:58 2013]  say: ^1M^7r ^1Ð^7innertime: Nice xD
+[Sat Nov 02 20:55:02 2013]  say: ^1M^7r ^1Ð^7innertime: this isn't even c++
+[Sat Nov 02 20:55:04 2013]  say: ^1M^7r ^1Ð^7innertime: it's C.
+[Sat Nov 02 20:55:10 2013]  say: ^0ÐàrkQµàkè: I know they're different
+[Sat Nov 02 20:55:11 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:55:23 2013]  say: ^1M^7r ^1Ð^7innertime: Oh, Hey
+[Sat Nov 02 20:55:33 2013]  say: ^1M^7r ^1Ð^7innertime: Can I show you my completely ridiculously OP script? xD
+[Sat Nov 02 20:55:43 2013]  say: ^0ÐàrkQµàkè: sure :)
+[Sat Nov 02 20:55:45 2013]  Kill: 1022 3 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 20:55:45 2013]  Kill: 1022 0 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 20:55:47 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:55:51 2013]  say: ^1M^7r ^1Ð^7innertime: the radius is just OP
+[Sat Nov 02 20:55:53 2013]  say: ^0ÐàrkQµàkè: haha nice :D
+[Sat Nov 02 20:55:54 2013]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sat Nov 02 20:56:06 2013]  say: ^1M^7r ^1Ð^7innertime: it's awesome for clearing up npc spam xD
+[Sat Nov 02 20:56:14 2013]  say: ^0ÐàrkQµàkè: yeah definitely :)
+[Sat Nov 02 20:56:16 2013]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sat Nov 02 20:56:29 2013]  say: ^0ÐàrkQµàkè: which commands did you use? might give me some ideas for attacks :)
+[Sat Nov 02 20:56:34 2013]  say: ^0ÐàrkQµàkè: I'd love some new aoes
+[Sat Nov 02 20:56:56 2013]  say: ^1M^7r ^1Ð^7innertime: It's a falcon2 mscaled in a way that makes it tiny but with a boundary box the size of an mscale 10 falcon2 xd
+[Sat Nov 02 20:57:13 2013]  say: ^0ÐàrkQµàkè: lol sounds intense :p
+[Sat Nov 02 20:57:15 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 20:57:25 2013]  say: ^1M^7r ^1Ð^7innertime: that's the radius xD
+[Sat Nov 02 20:57:33 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 20:57:39 2013]  say: ^0ÐàrkQµàkè: :o wow
+[Sat Nov 02 20:57:40 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:57:49 2013]  say: ^1M^7r ^1Ð^7innertime: told you it was OP
+[Sat Nov 02 20:57:49 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:58:08 2013]  say: ^0ÐàrkQµàkè: could you actually send the code to my gmail if you don't mind? That radius would be so good for Ev3
+[Sat Nov 02 20:58:13 2013]  say: ^1M^7r ^1Ð^7innertime: Sure ._.
+[Sat Nov 02 20:58:14 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 20:58:16 2013]  say: ^0ÐàrkQµàkè: lol sorry
+[Sat Nov 02 20:58:17 2013]  say: ^1M^7r ^1Ð^7innertime: what is it/
+[Sat Nov 02 20:58:29 2013]  say: ^0ÐàrkQµàkè: but I haven't been on in a while so I'm not up to date with the tricks :p
+[Sat Nov 02 20:58:31 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 20:58:35 2013]  say: ^0ÐàrkQµàkè: it's here
+[Sat Nov 02 20:58:43 2013]  say: ^1M^7r ^1Ð^7innertime: xd
+[Sat Nov 02 20:58:59 2013]  say: ^1M^7r ^1Ð^7innertime: I have other tricks which are useful for server hosters :]
+[Sat Nov 02 20:59:07 2013]  say: ^0ÐàrkQµàkè: ooh interesting :)
+[Sat Nov 02 20:59:07 2013]  say: ^1M^7r ^1Ð^7innertime: Such as the ability to see any command entered xD
+[Sat Nov 02 20:59:21 2013]  say: ^1M^7r ^1Ð^7innertime: well
+[Sat Nov 02 20:59:23 2013]  say: ^0ÐàrkQµàkè: I saw some marm commands in the ded server console before lol
+[Sat Nov 02 20:59:25 2013]  say: ^1M^7r ^1Ð^7innertime: sent to the server, anyway xD
+[Sat Nov 02 20:59:28 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 20:59:31 2013]  say: ^0ÐàrkQµàkè: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0ÐàrkQµàkè
+[Sat Nov 02 20:59:31 2013]  say: ^1M^7r ^1Ð^7innertime: Ah
+[Sat Nov 02 20:59:31 2013]  say: ^0ÐàrkQµàkè: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Nov 02 20:59:36 2013]  say: ^1M^7r ^1Ð^7innertime: so you have /developer 1 enabled? xD
+[Sat Nov 02 20:59:52 2013]  say: ^0ÐàrkQµàkè: Nope never used that
+[Sat Nov 02 20:59:54 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 21:00:00 2013]  say: ^0ÐàrkQµàkè: so it's 0
+[Sat Nov 02 21:00:04 2013]  say: ^1M^7r ^1Ð^7innertime: Using it as a server cvar allows you to see commands entered xD
+[Sat Nov 02 21:00:12 2013]  say: ^0ÐàrkQµàkè: oh nice
+[Sat Nov 02 21:00:13 2013]  say: ^1M^7r ^1Ð^7innertime: it stores them in qconsole.log if you have logging set to 1
+[Sat Nov 02 21:00:24 2013]  say: ^0ÐàrkQµàkè: I'll add it to my startup cfg
+[Sat Nov 02 21:00:26 2013]  say: ^1M^7r ^1Ð^7innertime: but qconsole.log starts fresh whenever the server runs xd
+[Sat Nov 02 21:00:32 2013]  say: ^1M^7r ^1Ð^7innertime: i found a way around iot
+[Sat Nov 02 21:00:33 2013]  say: ^1M^7r ^1Ð^7innertime: it*
+[Sat Nov 02 21:00:54 2013]  say: ^1M^7r ^1Ð^7innertime: Just replace the code in your batch file with this
+[Sat Nov 02 21:00:55 2013]  say: ^1M^7r ^1Ð^7innertime: http://pastebin.com/NEzY4VK0
+[Sat Nov 02 21:01:00 2013]  say: ^1M^7r ^1Ð^7innertime: and put the batch file in your gamedata folder
+[Sat Nov 02 21:01:06 2013]  say: ^1M^7r ^1Ð^7innertime: xd
+[Sat Nov 02 21:01:29 2013]  say: ^1M^7r ^1Ð^7innertime: Ah, brb. Socialising with the party for a bit
+[Sat Nov 02 21:01:29 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 21:01:38 2013]  say: ^0ÐàrkQµàkè: ok np :)
+[Sat Nov 02 21:01:41 2013]  say: ^0ÐàrkQµàkè: and thx
+[Sat Nov 02 21:01:44 2013]  say: ^1M^7r ^1Ð^7innertime: np :P
+[Sat Nov 02 21:02:36 2013]  say: ^1Jaden: -.- I think the radio hates me (I've been waiting for this song for a while and Now it comes on and it's halfway through the song) -.-
+[Sat Nov 02 21:03:16 2013]  say: ^0ÐàrkQµàkè: lol damn :p
+[Sat Nov 02 21:11:23 2013]  say: ^1M^7r ^1Ð^7innertime: wait
+[Sat Nov 02 21:11:24 2013]  say: ^1M^7r ^1Ð^7innertime: sorry
+[Sat Nov 02 21:11:25 2013]  say: ^1M^7r ^1Ð^7innertime: logfile 1 
+[Sat Nov 02 21:11:25 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 21:11:48 2013]  tell: ^1Jaden to ^1M^7r ^1Ð^7innertime: Bad Dinnertime XD
+[Sat Nov 02 21:11:52 2013]  tell: ^1M^7r ^1Ð^7innertime to ^1Jaden: lol
+[Sat Nov 02 21:12:22 2013]  say: ^0ÐàrkQµàkè: right that seemed to do it
+[Sat Nov 02 21:12:30 2013]  say: ^1M^7r ^1Ð^7innertime: Admitedly, your logs will now be about 10x largr
+[Sat Nov 02 21:12:32 2013]  say: ^1M^7r ^1Ð^7innertime: larger*
+[Sat Nov 02 21:12:37 2013]  say: ^1M^7r ^1Ð^7innertime: but you can learn a lot from them xD
+[Sat Nov 02 21:12:48 2013]  say: ^1M^7r ^1Ð^7innertime: admittedly*
+[Sat Nov 02 21:12:50 2013]  say: ^1M^7r ^1Ð^7innertime: ..
+[Sat Nov 02 21:12:51 2013]  say: ^1M^7r ^1Ð^7innertime: brb
+[Sat Nov 02 21:12:59 2013]  say: ^0ÐàrkQµàkè: alright
+[Sat Nov 02 21:13:02 2013]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Sat Nov 02 21:13:04 2013]  say: ^1M^7r ^1Ð^7innertime: admittedly
+[Sat Nov 02 21:13:05 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 21:13:22 2013]  say: ^0ÐàrkQµàkè: so basically when anyone uses scripts here I can just see which commands were executed? That's epic :D
+[Sat Nov 02 21:13:27 2013]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Sat Nov 02 21:13:28 2013]  say: ^1M^7r ^1Ð^7innertime: but...
+[Sat Nov 02 21:13:34 2013]  say: ^1M^7r ^1Ð^7innertime: stuff like wait and ontimer, echo, etc
+[Sat Nov 02 21:13:42 2013]  say: ^1M^7r ^1Ð^7innertime: are all client-side commands and are never sent to the server
+[Sat Nov 02 21:13:42 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 21:13:50 2013]  say: ^0ÐàrkQµàkè: lol alright
+[Sat Nov 02 21:13:51 2013]  say: ^1M^7r ^1Ð^7innertime: so you can't see the delay between them
+[Sat Nov 02 21:13:52 2013]  say: ^1M^7r ^1Ð^7innertime: D
+[Sat Nov 02 21:13:56 2013]  say: ^0ÐàrkQµàkè: hm
+[Sat Nov 02 21:14:01 2013]  Kill: 1022 3 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 21:14:03 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 21:14:08 2013]  Kill: 1022 0 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 21:14:10 2013]  say: ^0ÐàrkQµàkè: well probly best to email your epic script :p I'd love that aoe
+[Sat Nov 02 21:14:12 2013]  say: ^1M^7r ^1Ð^7innertime: xd
+[Sat Nov 02 21:14:15 2013]  say: ^1M^7r ^1Ð^7innertime: 'kay
+[Sat Nov 02 21:14:23 2013]  say: ^1M^7r ^1Ð^7innertime: Oh, sec. I'm using the wrong sound file for the scream <_<
+[Sat Nov 02 21:14:37 2013]  say: ^0ÐàrkQµàkè: sorry I'm sure you spent a while on it but you'll be contributing to EV3 :p
+[Sat Nov 02 21:14:44 2013]  say: ^0ÐàrkQµàkè: I just don't have a lot of time here really
+[Sat Nov 02 21:14:49 2013]  say: ^0ÐàrkQµàkè: I'm much more into other games ^^
+[Sat Nov 02 21:15:08 2013]  say: ^0ÐàrkQµàkè: but I've got some great ideas that I want to bring into existance
+[Sat Nov 02 21:15:24 2013]  say: ^1M^7r ^1Ð^7innertime: It's no problem :p
+[Sat Nov 02 21:15:27 2013]  say: ^0ÐàrkQµàkè: like after EV3 I'm gonna make another cool move script which will involve rotating all the objects and also using the mouse :)
+[Sat Nov 02 21:15:33 2013]  say: ^1M^7r ^1Ð^7innertime: You seem like an independent guy, capable of doing it on your own
+[Sat Nov 02 21:15:33 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 21:15:38 2013]  ClientConnect: 4
+[Sat Nov 02 21:15:38 2013]  mlog:Player Padawan, connected. With IP - 82.137.60.81:-4353 
+[Sat Nov 02 21:15:38 2013]  say: ^0ÐàrkQµàkè: anyway contact is here on the switch :)
+[Sat Nov 02 21:15:43 2013]  say: ^0ÐàrkQµàkè: yeah I'm very independant :D
+[Sat Nov 02 21:15:45 2013]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sat Nov 02 21:15:47 2013]  say: ^0ÐàrkQµàkè: I just need ideas ^^
+[Sat Nov 02 21:15:59 2013]  say: ^0ÐàrkQµàkè: so here's my mail :)
+[Sat Nov 02 21:16:02 2013]  say: ^1M^7r ^1Ð^7innertime: <_<
+[Sat Nov 02 21:16:07 2013]  say: ^0ÐàrkQµàkè: ?
+[Sat Nov 02 21:16:12 2013]  say: ^1M^7r ^1Ð^7innertime: I can't remember the path of the sound file I wanted for the scream
+[Sat Nov 02 21:16:13 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 21:16:23 2013]  say: ^0ÐàrkQµàkè: oh damn haha
+[Sat Nov 02 21:16:28 2013]  say: ^0ÐàrkQµàkè: just put (insert scream here) :p
+[Sat Nov 02 21:16:31 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 21:16:38 2013]  say: ^1M^7r ^1Ð^7innertime: I thought it was chr_d/rax/misc/falling1
+[Sat Nov 02 21:16:38 2013]  say: ^1M^7r ^1Ð^7innertime: but
+[Sat Nov 02 21:16:39 2013]  say: ^1M^7r ^1Ð^7innertime: no
+[Sat Nov 02 21:16:40 2013]  ClientBegin: 4
+[Sat Nov 02 21:16:59 2013]  say: Padawan: HAI!
+[Sat Nov 02 21:17:02 2013]  say: ^0ÐàrkQµàkè: nvm I'm just interested in the aoe :)
+[Sat Nov 02 21:17:10 2013]  say: ^0ÐàrkQµàkè: hi there
+[Sat Nov 02 21:17:16 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 21:17:18 2013]  say: ^1M^7r ^1Ð^7innertime: hi, Pada
+[Sat Nov 02 21:17:20 2013]  say: Padawan: HAI
+[Sat Nov 02 21:17:33 2013]  say: ^1M^7r ^1Ð^7innertime: You wouldn't happen to be... elx or something ._.
+[Sat Nov 02 21:17:36 2013]  say: Padawan: Sup
+[Sat Nov 02 21:17:37 2013]  say: ^0ÐàrkQµàkè: so when you're ready go to this switch and mail me :)
+[Sat Nov 02 21:17:40 2013]  say: ^0ÐàrkQµàkè: brb
+[Sat Nov 02 21:17:48 2013]  Kill: 4 3 3: Padawan killed ^0ÐàrkQµàkè by MOD_SABER
+[Sat Nov 02 21:17:51 2013]  say: ^1M^7r ^1Ð^7innertime: someone came over to my server a few hours ago with the name 'Padawan' and raged at me when I was afk
+[Sat Nov 02 21:17:51 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 21:17:57 2013]  say: Padawan: damn
+[Sat Nov 02 21:18:01 2013]  say: Padawan: so rude
+[Sat Nov 02 21:18:05 2013]  say: ^1M^7r ^1Ð^7innertime: Wasn't my fault ;3 I was working on a mod, lol
+[Sat Nov 02 21:18:10 2013]  say: Padawan: oh well
+[Sat Nov 02 21:18:12 2013]  say: ^1M^7r ^1Ð^7innertime: I've never developed in C before xd
+[Sat Nov 02 21:18:18 2013]  Kill: 4 0 3: Padawan killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 21:18:24 2013]  say: Padawan: damn
+[Sat Nov 02 21:18:25 2013]  say: Padawan: sad story
+[Sat Nov 02 21:18:29 2013]  say: ^1M^7r ^1Ð^7innertime: Ah
+[Sat Nov 02 21:18:31 2013]  say: ^1M^7r ^1Ð^7innertime: so you are him
+[Sat Nov 02 21:18:33 2013]  Kill: 4 2 3: Padawan killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Sat Nov 02 21:18:33 2013]  Exit: Timelimit hit.
+[Sat Nov 02 21:18:33 2013]  score: 3  ping: 86  client: 4 Padawan
+[Sat Nov 02 21:18:33 2013]  score: 2  ping: 48  client: 2 ^1M^7r ^1Ð^7innertime
+[Sat Nov 02 21:18:33 2013]  score: 2  ping: 139  client: 1 ^1Jaden
+[Sat Nov 02 21:18:33 2013]  score: -1  ping: 3  client: 3 ^0ÐàrkQµàkè
+[Sat Nov 02 21:18:33 2013]  score: -2  ping: 66  client: 0 ^6Pinkie Bot^7
+[Sat Nov 02 21:18:33 2013]  tell: ^1M^7r ^1Ð^7innertime to Padawan: Gf. You have caused 4 of my 114 deaths.
+[Sat Nov 02 21:18:34 2013]  say: Padawan: who?
+[Sat Nov 02 21:18:37 2013]  say: ^1Jaden: lol
+[Sat Nov 02 21:18:39 2013]  say: ^1M^7r ^1Ð^7innertime: same guy as earlier
+[Sat Nov 02 21:18:42 2013]  say: Padawan: Nope
+[Sat Nov 02 21:18:49 2013]  ShutdownGame:
+[Sat Nov 02 21:18:49 2013]  ------------------------------------------------------------
+[Sat Nov 02 21:18:49 2013]  ------------------------------------------------------------
+[Sat Nov 02 21:18:49 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 02 21:18:50 2013]  ClientConnect: 0
+[Sat Nov 02 21:18:50 2013]  ClientConnect: 1
+[Sat Nov 02 21:18:50 2013]  ClientConnect: 2
+[Sat Nov 02 21:18:50 2013]  ClientConnect: 3
+[Sat Nov 02 21:18:50 2013]  ClientConnect: 4
+[Sat Nov 02 21:18:53 2013]  ClientBegin: 0
+[Sat Nov 02 21:18:58 2013]  ClientBegin: 2
+[Sat Nov 02 21:18:58 2013]  say: ^1M^7r ^1Ð^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Nov 02 21:19:00 2013]  say: Padawan: I just started this game, after 2 months
+[Sat Nov 02 21:19:00 2013]  ClientBegin: 4
+[Sat Nov 02 21:19:02 2013]  ClientBegin: 3
+[Sat Nov 02 21:19:03 2013]  say: ^1M^7r ^1Ð^7innertime: Oh.
+[Sat Nov 02 21:19:05 2013]  say: Padawan: I just started this game
+[Sat Nov 02 21:19:07 2013]  ClientBegin: 1
+[Sat Nov 02 21:19:09 2013]  say: Padawan: after a long break
+[Sat Nov 02 21:19:11 2013]  say: ^1M^7r ^1Ð^7innertime: I see
+[Sat Nov 02 21:19:16 2013]  say: Padawan: You might know me
+[Sat Nov 02 21:19:24 2013]  say: ^1M^7r ^1Ð^7innertime: I know plenty of padawans
+[Sat Nov 02 21:19:27 2013]  say: Padawan: really?
+[Sat Nov 02 21:19:29 2013]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Sat Nov 02 21:19:32 2013]  say: Padawan: I'm a speshul one
+[Sat Nov 02 21:19:34 2013]  say: ^1M^7r ^1Ð^7innertime: ;D
+[Sat Nov 02 21:19:42 2013]  say: Padawan: one of the most hated
+[Sat Nov 02 21:19:46 2013]  say: ^1M^7r ^1Ð^7innertime: Hmm
+[Sat Nov 02 21:19:48 2013]  say: ^1M^7r ^1Ð^7innertime: not tasmann? =o
+[Sat Nov 02 21:19:53 2013]  say: Padawan: nope
+[Sat Nov 02 21:19:55 2013]  say: ^1M^7r ^1Ð^7innertime: zero?
+[Sat Nov 02 21:19:58 2013]  say: Padawan: Nope
+[Sat Nov 02 21:20:02 2013]  say: ^1M^7r ^1Ð^7innertime: I give up =o tell meh
+[Sat Nov 02 21:20:10 2013]  say: Padawan: I'm older than those njub
+[Sat Nov 02 21:20:11 2013]  say: Padawan: njubs
+[Sat Nov 02 21:20:13 2013]  say: ^1M^7r ^1Ð^7innertime: Oh.
+[Sat Nov 02 21:20:16 2013]  say: ^1M^7r ^1Ð^7innertime: then I don't know you ;3
+[Sat Nov 02 21:20:21 2013]  say: Padawan: Dayum
+[Sat Nov 02 21:20:27 2013]  say: ^0ÐàrkQµàkè: you guys seen my website? I gave it an update :)
+[Sat Nov 02 21:20:30 2013]  say: Padawan: I became an annonymous :C
+[Sat Nov 02 21:20:39 2013]  say: ^1M^7r ^1Ð^7innertime: <_<
+[Sat Nov 02 21:20:44 2013]  say: ^1M^7r ^1Ð^7innertime: only 120 ping and I'm stuttering
+[Sat Nov 02 21:20:48 2013]  say: Padawan: C'mon
+[Sat Nov 02 21:20:52 2013]  say: Padawan: it starts with an S
+[Sat Nov 02 21:20:56 2013]  say: ^1M^7r ^1Ð^7innertime: Spior?
+[Sat Nov 02 21:20:58 2013]  say: Padawan: No
+[Sat Nov 02 21:21:01 2013]  say: ^1M^7r ^1Ð^7innertime: uhh
+[Sat Nov 02 21:21:03 2013]  say: ^1M^7r ^1Ð^7innertime: spyro/samus?
+[Sat Nov 02 21:21:06 2013]  say: Padawan: No
+[Sat Nov 02 21:21:07 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 21:21:10 2013]  say: ^1M^7r ^1Ð^7innertime: 'cause he was hated
+[Sat Nov 02 21:21:11 2013]  say: ^1M^7r ^1Ð^7innertime: a lot
+[Sat Nov 02 21:21:16 2013]  say: Padawan: I don't even know him
+[Sat Nov 02 21:21:17 2013]  say: ^1M^7r ^1Ð^7innertime: xd
+[Sat Nov 02 21:21:21 2013]  say: ^1M^7r ^1Ð^7innertime: Uhh
+[Sat Nov 02 21:21:26 2013]  say: ^1M^7r ^1Ð^7innertime: S... seroius sam?
+[Sat Nov 02 21:21:29 2013]  say: ^1M^7r ^1Ð^7innertime: serious*
+[Sat Nov 02 21:21:29 2013]  say: Padawan: No
+[Sat Nov 02 21:21:30 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 21:21:34 2013]  say: ^1M^7r ^1Ð^7innertime: uhh
+[Sat Nov 02 21:21:48 2013]  say: ^1M^7r ^1Ð^7innertime: scooper? O_- He wasn't hated
+[Sat Nov 02 21:21:51 2013]  say: Padawan: lol.
+[Sat Nov 02 21:22:13 2013]  say: Padawan: Hmmm
+[Sat Nov 02 21:22:13 2013]  say: ^1M^7r ^1Ð^7innertime: I don't really know many hated people
+[Sat Nov 02 21:22:22 2013]  say: ^1M^7r ^1Ð^7innertime: other than that ghost guy, zeratul, and unknown ninja
+[Sat Nov 02 21:22:25 2013]  say: Padawan: did you check the makermod forums lately?
+[Sat Nov 02 21:22:29 2013]  say: ^1M^7r ^1Ð^7innertime: No :o sec
+[Sat Nov 02 21:22:31 2013]  say: ^1M^7r ^1Ð^7innertime: WAIT
+[Sat Nov 02 21:22:32 2013]  say: ^1M^7r ^1Ð^7innertime: OMG
+[Sat Nov 02 21:22:33 2013]  say: Padawan: I'm permabanned there
+[Sat Nov 02 21:22:35 2013]  say: ^1M^7r ^1Ð^7innertime: not sicmah?
+[Sat Nov 02 21:22:39 2013]  say: Padawan: Not sicmah, ofc
+[Sat Nov 02 21:22:41 2013]  say: ^1M^7r ^1Ð^7innertime: oh lol
+[Sat Nov 02 21:22:45 2013]  say: ^1M^7r ^1Ð^7innertime: Was gonna say
+[Sat Nov 02 21:22:51 2013]  say: ^1M^7r ^1Ð^7innertime: he went anonymous after he ticked off jragonmaster
+[Sat Nov 02 21:22:53 2013]  say: Padawan: was gonna say what
+[Sat Nov 02 21:22:58 2013]  say: Padawan: who?
+[Sat Nov 02 21:23:02 2013]  tell: ^0ÐàrkQµàkè to ^1M^7r ^1Ð^7innertime: hey is this working? :)
+[Sat Nov 02 21:23:15 2013]  say: ^1M^7r ^1Ð^7innertime: Jragonmaster ._. he said something to his gf and she started to hate him
+[Sat Nov 02 21:23:16 2013]  say: ^1M^7r ^1Ð^7innertime: :p
+[Sat Nov 02 21:23:21 2013]  say: ^1M^7r ^1Ð^7innertime: sicmah said it, not jragon xd
+[Sat Nov 02 21:23:23 2013]  say: Padawan: Sijumah has a girlfriend?
+[Sat Nov 02 21:23:26 2013]  Kill: 4 2 3: Padawan killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Sat Nov 02 21:23:26 2013]  tell: ^1M^7r ^1Ð^7innertime to Padawan: Gf. You have caused 5 of my 115 deaths.
+[Sat Nov 02 21:23:32 2013]  say: ^1M^7r ^1Ð^7innertime: No :p Sicmah said something to Jragon's gf
+[Sat Nov 02 21:23:41 2013]  say: ^1M^7r ^1Ð^7innertime: and it put his gf off him
+[Sat Nov 02 21:24:01 2013]  say: Padawan: well?
+[Sat Nov 02 21:24:10 2013]  say: ^1M^7r ^1Ð^7innertime: shteff? O-o the forum mod?
+[Sat Nov 02 21:24:16 2013]  say: Padawan: Shteff is a forum mod?
+[Sat Nov 02 21:24:21 2013]  say: ^1M^7r ^1Ð^7innertime: I think so ._. sec
+[Sat Nov 02 21:24:23 2013]  say: Padawan: what?
+[Sat Nov 02 21:24:26 2013]  say: Padawan: I didn't know that
+[Sat Nov 02 21:24:30 2013]  say: ^1M^7r ^1Ð^7innertime: wai tno
+[Sat Nov 02 21:24:30 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 21:24:35 2013]  say: ^1M^7r ^1Ð^7innertime: I'm thinking of somebody else
+[Sat Nov 02 21:24:38 2013]  say: Padawan: wat
+[Sat Nov 02 21:24:56 2013]  say: ^1M^7r ^1Ð^7innertime: Idk ._. icewolf, maybe?
+[Sat Nov 02 21:25:05 2013]  say: Padawan: Yes, cos Icewolf starts with S
+[Sat Nov 02 21:25:09 2013]  say: ^1M^7r ^1Ð^7innertime: <_<
+[Sat Nov 02 21:25:15 2013]  say: ^1Jaden: lol
+[Sat Nov 02 21:25:17 2013]  say: ^1M^7r ^1Ð^7innertime: Well then I don't know you. 
+[Sat Nov 02 21:25:24 2013]  say: Padawan: okay
+[Sat Nov 02 21:25:29 2013]  say: ^1M^7r ^1Ð^7innertime: or at least if I was, I wouldn't have thought very much of you
+[Sat Nov 02 21:25:30 2013]  say: Padawan: I'll go cry in the swoer
+[Sat Nov 02 21:25:35 2013]  say: Padawan: with R
+[Sat Nov 02 21:25:47 2013]  Kill: 3 0 3: ^0ÐàrkQµàkè killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 21:25:48 2013]  say: Padawan: :C 
+[Sat Nov 02 21:25:49 2013]  ClientDisconnect: 4
+[Sat Nov 02 21:26:13 2013]  say: ^0ÐàrkQµàkè: lol
+[Sat Nov 02 21:26:20 2013]  say: ^0ÐàrkQµàkè: so you gonna mail me that aoe attack? :)
+[Sat Nov 02 21:26:21 2013]  say: ^1M^7r ^1Ð^7innertime: I didn't like the way he spoke to me ._.
+[Sat Nov 02 21:26:22 2013]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Sat Nov 02 21:26:33 2013]  say: ^0ÐàrkQµàkè: yeah shame :/
+[Sat Nov 02 21:27:07 2013]  say: ^0ÐàrkQµàkè: got my email? it's on the switch
+[Sat Nov 02 21:27:07 2013]  say: ^1M^7r ^1Ð^7innertime: Oh
+[Sat Nov 02 21:27:13 2013]  say: ^1M^7r ^1Ð^7innertime: switch?
+[Sat Nov 02 21:27:21 2013]  say: ^0ÐàrkQµàkè: My origin is: (-7908 -905 -315) - You can teleport here with /mtelelast
+
+[Sat Nov 02 21:27:26 2013]  say: ^1M^7r ^1Ð^7innertime: ah :p
+[Sat Nov 02 21:27:31 2013]  say: ^0ÐàrkQµàkè: sry
+[Sat Nov 02 21:28:00 2013]  say: ^1M^7r ^1Ð^7innertime: Want the source file or the one with added ontimers?
+[Sat Nov 02 21:28:01 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 21:28:14 2013]  say: ^0ÐàrkQµàkè: lol the source please :p
+[Sat Nov 02 21:28:16 2013]  say: ^1M^7r ^1Ð^7innertime: Source file has no waits xD
+[Sat Nov 02 21:28:31 2013]  say: ^1M^7r ^1Ð^7innertime: if I want to change the script, I just change the source file
+[Sat Nov 02 21:28:36 2013]  say: ^1M^7r ^1Ð^7innertime: and add ontimer with my program xD
+[Sat Nov 02 21:28:43 2013]  say: ^0ÐàrkQµàkè: lol nice :D
+[Sat Nov 02 21:28:49 2013]  say: ^0ÐàrkQµàkè: I dunno when I'll get into the ontimer stuff
+[Sat Nov 02 21:28:58 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 21:29:02 2013]  say: ^1M^7r ^1Ð^7innertime: Well
+[Sat Nov 02 21:29:11 2013]  say: ^1M^7r ^1Ð^7innertime: without it, you're forced to use waits which block any command input
+[Sat Nov 02 21:29:24 2013]  say: ^0ÐàrkQµàkè: oh right
+[Sat Nov 02 21:29:39 2013]  say: ^0ÐàrkQµàkè: does this version support ontimer then?
+[Sat Nov 02 21:29:57 2013]  say: ^1M^7r ^1Ð^7innertime: All makermodule versions support it, lol
+[Sat Nov 02 21:30:01 2013]  say: ^1M^7r ^1Ð^7innertime: did you pick it up from the forums?
+[Sat Nov 02 21:30:17 2013]  say: ^0ÐàrkQµàkè: nope.. I just saw it mentioned
+[Sat Nov 02 21:30:19 2013]  say: ^1M^7r ^1Ð^7innertime: ah
+[Sat Nov 02 21:30:24 2013]  say: ^1M^7r ^1Ð^7innertime: Without it, you can't use the ontimer command
+[Sat Nov 02 21:30:37 2013]  say: ^1M^7r ^1Ð^7innertime: nor can you use markoffset, markt, marktoffset, mdestt, etc
+[Sat Nov 02 21:30:37 2013]  say: ^1M^7r ^1Ð^7innertime: xd
+[Sat Nov 02 21:30:54 2013]  say: ^0ÐàrkQµàkè: well I'm very out of touch :/
+[Sat Nov 02 21:31:04 2013]  say: ^1M^7r ^1Ð^7innertime: want the script as an attachment or text only?
+[Sat Nov 02 21:31:14 2013]  say: ^0ÐàrkQµàkè: attachment pls
+[Sat Nov 02 21:31:21 2013]  say: ^1M^7r ^1Ð^7innertime: 'kay
+[Sat Nov 02 21:31:39 2013]  say: ^1M^7r ^1Ð^7innertime: Don't worry xD I add comments to all of my scripts
+[Sat Nov 02 21:31:46 2013]  say: ^0ÐàrkQµàkè: oh yeah that's right, tried to dl but Dropbox gave a 401 error
+[Sat Nov 02 21:32:00 2013]  say: ^0ÐàrkQµàkè: if you have it can you send that too pls? :)
+[Sat Nov 02 21:32:07 2013]  say: ^0ÐàrkQµàkè: I might as well start learning it
+[Sat Nov 02 21:32:21 2013]  say: ^1M^7r ^1Ð^7innertime: send :p
+[Sat Nov 02 21:32:22 2013]  say: ^1M^7r ^1Ð^7innertime: sent*
+[Sat Nov 02 21:32:29 2013]  say: ^0ÐàrkQµàkè: with the ontimer package?
+[Sat Nov 02 21:32:33 2013]  say: ^1M^7r ^1Ð^7innertime: Oh. no xD
+[Sat Nov 02 21:32:35 2013]  say: ^1M^7r ^1Ð^7innertime: Oh crud <_<
+[Sat Nov 02 21:32:38 2013]  say: ^1M^7r ^1Ð^7innertime: I sent it as text. Sec lol
+[Sat Nov 02 21:32:41 2013]  say: ^0ÐàrkQµàkè: lol dw :p Send another one with it :)
+[Sat Nov 02 21:33:25 2013]  say: ^1M^7r ^1Ð^7innertime: sent xD
+[Sat Nov 02 21:33:39 2013]  say: ^0ÐàrkQµàkè: nice :p thx
+[Sat Nov 02 21:33:43 2013]  say: ^1M^7r ^1Ð^7innertime: np :P
+[Sat Nov 02 21:33:57 2013]  Kill: 2 3 36: ^1M^7r ^1Ð^7innertime killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 21:33:57 2013]  tell: ^1M^7r ^1Ð^7innertime to ^0ÐàrkQµàkè: Gf. You make up 1 of my 130 kills.
+[Sat Nov 02 21:33:58 2013]  say: ^0ÐàrkQµàkè: I'll have it ready on next server restart
+[Sat Nov 02 21:34:00 2013]  say: ^1M^7r ^1Ð^7innertime: .-. oops
+[Sat Nov 02 21:34:01 2013]  say: ^0ÐàrkQµàkè: when noone's on
+[Sat Nov 02 21:34:01 2013]  say: ^1M^7r ^1Ð^7innertime: sorry xD
+[Sat Nov 02 21:34:02 2013]  say: ^1Jaden: lol Luke VS Rancor Luke's losing XD
+[Sat Nov 02 21:34:15 2013]  say: ^0ÐàrkQµàkè: haha
+[Sat Nov 02 21:34:26 2013]  say: ^1M^7r ^1Ð^7innertime: ofc luke's losing ._. rancor has an insta-kill attack
+[Sat Nov 02 21:34:59 2013]  ClientConnect: 4
+[Sat Nov 02 21:34:59 2013]  mlog:Player ^8*^7Bet^5e^8lg^5e^7use^8*, connected. With IP - 178.72.68.8:29070 
+[Sat Nov 02 21:35:08 2013]  say: ^1Jaden: lol
+[Sat Nov 02 21:35:10 2013]  say: ^0ÐàrkQµàkè: :p
+[Sat Nov 02 21:35:12 2013]  say: ^1Jaden: XD
+[Sat Nov 02 21:35:24 2013]  ClientBegin: 4
+[Sat Nov 02 21:35:28 2013]  say: ^1M^7r ^1Ð^7innertime: Hey, Betel :D
+[Sat Nov 02 21:35:28 2013]  say: ^0ÐàrkQµàkè: alright thx for the source :)
+[Sat Nov 02 21:35:32 2013]  say: ^1M^7r ^1Ð^7innertime: no problem :)
+[Sat Nov 02 21:35:38 2013]  say: ^0ÐàrkQµàkè: I'll study it and make a similar awesome aoe for EV3 :D
+[Sat Nov 02 21:35:40 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 21:35:41 2013]  say: ^8*^7Bet^5e^8lg^5e^7use^8*: Hai
+[Sat Nov 02 21:35:44 2013]  say: ^0ÐàrkQµàkè: hi
+[Sat Nov 02 21:36:38 2013]  say: ^1Jaden: lol
+[Sat Nov 02 21:37:50 2013]  Item: 4 weapon_blaster
+[Sat Nov 02 21:37:58 2013]  Kill: 1022 2 38: <world> killed ^1M^7r ^1Ð^7innertime by MOD_FALLING
+[Sat Nov 02 21:37:59 2013]  say: ^8*^7Bet^5e^8lg^5e^7use^8*: bb
+[Sat Nov 02 21:38:01 2013]  ClientDisconnect: 4
+[Sat Nov 02 21:38:03 2013]  say: ^1M^7r ^1Ð^7innertime: cya, bete..
+[Sat Nov 02 21:38:40 2013]  say: ^1M^7r ^1Ð^7innertime: Brb. Socialising O_- 
+[Sat Nov 02 21:38:44 2013]  say: ^0ÐàrkQµàkè: np
+[Sat Nov 02 21:38:56 2013]  say: ^1M^7r ^1Ð^7innertime: xD I'm not very sociable, at all. I'm terrible at house parties
+[Sat Nov 02 21:39:13 2013]  say: ^0ÐàrkQµàkè: I had an awesome Halloween party near Uni ^^
+[Sat Nov 02 21:39:16 2013]  say: ^0ÐàrkQµàkè: just drink :p
+[Sat Nov 02 21:43:20 2013]  say: ^1Jaden: Tavion and Desann hurt my hand when I saberlock with them -.-
+[Sat Nov 02 21:43:54 2013]  say: ^0ÐàrkQµàkè: click faster :p
+[Sat Nov 02 21:43:56 2013]  say: ^0ÐàrkQµàkè: you can do it
+[Sat Nov 02 21:44:06 2013]  say: ^0ÐàrkQµàkè: :)
+[Sat Nov 02 21:44:15 2013]  say: ^1Jaden: Clicking faster is what hurts my hand (Desann is painful)
+[Sat Nov 02 21:44:28 2013]  Kill: 1022 3 3: <world> killed ^0ÐàrkQµàkè by MOD_SABER
+[Sat Nov 02 21:44:31 2013]  say: ^0ÐàrkQµàkè: ah yeah :p
+[Sat Nov 02 21:44:43 2013]  Kill: 1022 3 3: <world> killed ^0ÐàrkQµàkè by MOD_SABER
+[Sat Nov 02 21:44:53 2013]  say: ^1Jaden: XD
+[Sat Nov 02 21:44:57 2013]  Kill: 1022 3 3: <world> killed ^0ÐàrkQµàkè by MOD_SABER
+[Sat Nov 02 21:45:18 2013]  Kill: 1022 3 3: <world> killed ^0ÐàrkQµàkè by MOD_SABER
+[Sat Nov 02 21:45:23 2013]  say: ^0ÐàrkQµàkè: almost :p
+[Sat Nov 02 21:45:43 2013]  Kill: 1022 3 3: <world> killed ^0ÐàrkQµàkè by MOD_SABER
+[Sat Nov 02 21:46:12 2013]  say: ^0ÐàrkQµàkè: got him :)
+[Sat Nov 02 21:46:16 2013]  say: ^1Jaden: I've got god and /give armor 99999 on XD
+[Sat Nov 02 21:48:26 2013]  say: ^1Jaden: XD
+[Sat Nov 02 21:48:28 2013]  say: ^0ÐàrkQµàkè: :)
+[Sat Nov 02 21:48:41 2013]  say: ^0ÐàrkQµàkè: I love the saber lock factor though haha
+[Sat Nov 02 21:48:47 2013]  say: ^1Jaden: :P
+[Sat Nov 02 21:49:37 2013]  say: ^1Jaden: LOL
+[Sat Nov 02 21:50:12 2013]  say: ^1Jaden: lol
+[Sat Nov 02 21:50:18 2013]  say: ^1Jaden: that's funny
+[Sat Nov 02 21:50:21 2013]  say: ^0ÐàrkQµàkè: I knocked desann over :po
+[Sat Nov 02 21:50:25 2013]  say: ^0ÐàrkQµàkè: getting faster haha
+[Sat Nov 02 21:51:16 2013]  say: ^1Jaden: XD
+[Sat Nov 02 21:51:18 2013]  say: ^0ÐàrkQµàkè: XD
+[Sat Nov 02 21:51:52 2013]  say: ^1Jaden: XD
+[Sat Nov 02 21:52:29 2013]  say: ^1Jaden: XD
+[Sat Nov 02 21:52:37 2013]  say: ^0ÐàrkQµàkè: alright that was good :p
+[Sat Nov 02 21:54:44 2013]  ClientConnect: 4
+[Sat Nov 02 21:54:44 2013]  mlog:Player ^7E^0itani, connected. With IP - 174.64.177.102:29070 
+[Sat Nov 02 21:55:20 2013]  ClientBegin: 4
+[Sat Nov 02 21:56:24 2013]  say: ^1Jaden: -.- well that plan failed
+[Sat Nov 02 21:56:36 2013]  say: ^1Jaden: or not
+[Sat Nov 02 21:56:38 2013]  Kill: 4 0 2: ^7E^0itani killed ^6Pinkie Bot^7 by MOD_MELEE
+[Sat Nov 02 21:57:05 2013]  say: ^1Jaden: there we go now it works -.-
+[Sat Nov 02 21:57:31 2013]  say: ^1Jaden: lol the Jedi are failing XD
+[Sat Nov 02 21:58:43 2013]  say: ^1Jaden: lol
+[Sat Nov 02 21:59:03 2013]  tell: ^1Jaden to ^7E^0itani: did you do that voice? do it again :P
+[Sat Nov 02 21:59:09 2013]  tell: ^1Jaden to ^7E^0itani: XD
+[Sat Nov 02 21:59:47 2013]  Kill: 1022 3 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 21:59:50 2013]  say: ^1Jaden: lol
+[Sat Nov 02 21:59:53 2013]  Kill: 1022 3 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 22:00:30 2013]  say: ^1Jaden: lol
+[Sat Nov 02 22:00:39 2013]  ClientConnect: 5
+[Sat Nov 02 22:00:39 2013]  mlog:Player Padawan, connected. With IP - 72.185.91.214:-1886 
+[Sat Nov 02 22:00:55 2013]  ClientBegin: 5
+[Sat Nov 02 22:01:11 2013]  say: ^1Jaden: lol
+[Sat Nov 02 22:01:33 2013]  Kill: 1022 2 36: <world> killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Sat Nov 02 22:01:44 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:01:56 2013]  Kill: 1022 3 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 22:02:11 2013]  say: ^1Jaden: Fist fight in the rancor arena
+[Sat Nov 02 22:02:22 2013]  say: weiner: +exec rconhack
+[Sat Nov 02 22:02:28 2013]  say: weiner: +delay off
+[Sat Nov 02 22:02:28 2013]  say: ^1M^7r ^1Ð^7innertime: 'kay back
+[Sat Nov 02 22:02:29 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 22:02:32 2013]  say: ^1Jaden: wb
+[Sat Nov 02 22:02:35 2013]  say: ^1M^7r ^1Ð^7innertime: ty :p
+[Sat Nov 02 22:02:36 2013]  say: ^7E^0itani: wb
+[Sat Nov 02 22:02:38 2013]  say: ^1M^7r ^1Ð^7innertime: Eitani!!1
+[Sat Nov 02 22:02:39 2013]  say: ^1M^7r ^1Ð^7innertime: hai :D
+[Sat Nov 02 22:02:45 2013]  say: ^7E^0itani: hiii
+[Sat Nov 02 22:02:48 2013]  say: ^1Jaden: XD Fist fight
+[Sat Nov 02 22:02:50 2013]  say: ^0ÐàrkQµàkè: studied the aoe attack, have a good idea :)
+[Sat Nov 02 22:02:52 2013]  say: ^1M^7r ^1Ð^7innertime: xD nice
+[Sat Nov 02 22:03:05 2013]  say: ^1Jaden: MUHAHA
+[Sat Nov 02 22:03:06 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:03:12 2013]  say: ^0ÐàrkQµàkè: I'll be coding for a few mins and testing stuff out :D Where did you learn the pendulum trick from? lol
+[Sat Nov 02 22:03:18 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon bug ^4injected.
+[Sat Nov 02 22:03:19 2013]  say: ^1M^7r ^1Ð^7innertime: minfo wip ._.
+[Sat Nov 02 22:03:27 2013]  say: ^0ÐàrkQµàkè: lol I know the command itself
+[Sat Nov 02 22:03:28 2013]  say: ^1M^7r ^1Ð^7innertime: I got the mscale trick from Zero xD
+[Sat Nov 02 22:03:36 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:03:41 2013]  say: ^0ÐàrkQµàkè: but the fact that it kills instantly haha
+[Sat Nov 02 22:03:44 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 22:03:49 2013]  say: ^0ÐàrkQµàkè: I guess with those values it would
+[Sat Nov 02 22:03:53 2013]  say: ^0ÐàrkQµàkè: just experimentation
+[Sat Nov 02 22:03:56 2013]  say: ^1M^7r ^1Ð^7innertime: it doesn't kill people with overshield or overhealth
+[Sat Nov 02 22:03:57 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:04:10 2013]  say: ^0ÐàrkQµàkè: ah lol
+[Sat Nov 02 22:04:18 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:04:21 2013]  say: ^0ÐàrkQµàkè: well I'll need to make use of tele to get those guys ^^
+[Sat Nov 02 22:04:28 2013]  say: weiner: +rcon info
+[Sat Nov 02 22:04:29 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:04:29 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:04:32 2013]  say: ^0ÐàrkQµàkè: but for now this aoe attack
+[Sat Nov 02 22:04:33 2013]  say: ^0ÐàrkQµàkè: so brb
+[Sat Nov 02 22:05:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:06 2013]  say: ^7E^0itani: ^7Rcon ^1denied!
+[Sat Nov 02 22:05:07 2013]  say: ^1M^7r ^1Ð^7innertime: it's already been accessed.
+[Sat Nov 02 22:05:10 2013]  say: ^1M^7r ^1Ð^7innertime: fail script, lolol
+[Sat Nov 02 22:05:30 2013]  Kill: 1 0 2: ^1Jaden killed ^6Pinkie Bot^7 by MOD_MELEE
+[Sat Nov 02 22:05:33 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:05:39 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:51 2013]  say: ^1M^7r ^1Ð^7innertime: D:
+[Sat Nov 02 22:05:53 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:53 2013]  say: ^1M^7r ^1Ð^7innertime: spawn point xD
+[Sat Nov 02 22:05:54 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:55 2013]  say: ^0ÐàrkQµàkè: where did you learn about mmove 0 0 0?
+[Sat Nov 02 22:05:55 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: ^7E^0itani: xD
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:56 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:57 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: ^1Jaden: lol it won't let me
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:58 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:59 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:59 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:59 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:05:59 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:00 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:01 2013]  say: ^0ÐàrkQµàkè: cause that's what really creates the boundaries
+[Sat Nov 02 22:06:04 2013]  say: ^1M^7r ^1Ð^7innertime: Experience, I guess ._.
+[Sat Nov 02 22:06:06 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 22:06:07 2013]  say: ^0ÐàrkQµàkè: right
+[Sat Nov 02 22:06:10 2013]  say: ^0ÐàrkQµàkè: it's a neat trick :)
+[Sat Nov 02 22:06:12 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:06:25 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:06:27 2013]  say: ^0ÐàrkQµàkè: so falcon is best? I tried with a cup just now :p
+[Sat Nov 02 22:06:28 2013]  Kill: 1022 5 36: <world> killed weiner by MOD_CRUSH
+[Sat Nov 02 22:06:30 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:31 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:32 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:32 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:32 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:32 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:32 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:32 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:32 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: Rcon ^2accessed.
+[Sat Nov 02 22:06:34 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:06:45 2013]  Kill: 1022 2 36: <world> killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Sat Nov 02 22:06:49 2013]  say: ^1Jaden: LOL
+[Sat Nov 02 22:06:52 2013]  say: ^1Jaden: I LIVE XD
+[Sat Nov 02 22:06:59 2013]  say: ^1M^7r ^1Ð^7innertime: Hey, Eitani
+[Sat Nov 02 22:07:03 2013]  say: ^7E^0itani: hmm
+[Sat Nov 02 22:07:07 2013]  say: ^0ÐàrkQµàkè: Lol did you just get rcon? :p
+[Sat Nov 02 22:07:11 2013]  say: ^1M^7r ^1Ð^7innertime: I lost the sound path for the scream D: was it chr_d/rax/misc/falling1?
+[Sat Nov 02 22:07:15 2013]  say: ^7E^0itani: no xD
+[Sat Nov 02 22:07:16 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:07:20 2013]  say: ^0ÐàrkQµàkè: it sounded impressive haha
+[Sat Nov 02 22:07:24 2013]  say: ^7E^0itani: yeah 
+[Sat Nov 02 22:07:27 2013]  say: ^1M^7r ^1Ð^7innertime: can you pm it to me, please? xD
+[Sat Nov 02 22:07:35 2013]  say: weiner: +injector off
+[Sat Nov 02 22:08:19 2013]  say: weiner: +injector off
+[Sat Nov 02 22:08:22 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: ^1OVERFLOW
+[Sat Nov 02 22:08:23 2013]  tell: ^7E^0itani to ^1M^7r ^1Ð^7innertime: chr_e/rax/misc/falling
+[Sat Nov 02 22:08:24 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: ^1OVERFLOW
+[Sat Nov 02 22:08:24 2013]  Kill: 2 5 3: ^1M^7r ^1Ð^7innertime killed weiner by MOD_SABER
+[Sat Nov 02 22:08:24 2013]  tell: ^1M^7r ^1Ð^7innertime to weiner: Gf. You make up 1 of my 131 kills.
+[Sat Nov 02 22:08:25 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: ^1OVERFLOW
+[Sat Nov 02 22:08:26 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: ^1OVERFLOW
+[Sat Nov 02 22:08:27 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: ^1OVERFLOW
+[Sat Nov 02 22:08:27 2013]  tell: ^7E^0itani to ^1M^7r ^1Ð^7innertime: chr_e/rax/misc/falling1*
+[Sat Nov 02 22:08:27 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: ^1OVERFLOW
+[Sat Nov 02 22:08:28 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: ^1OVERFLOW
+[Sat Nov 02 22:08:28 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: ^1OVERFLOW
+[Sat Nov 02 22:08:28 2013]  say: weiner: ^4[^7Ghost Utility^4]^7: ^1OVERFLOW
+[Sat Nov 02 22:08:30 2013]  say: ^1M^7r ^1Ð^7innertime: oh xd thanks
+[Sat Nov 02 22:08:31 2013]  say: weiner: +off
+[Sat Nov 02 22:08:37 2013]  ClientDisconnect: 5
+[Sat Nov 02 22:08:48 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:08:55 2013]  Kill: 1022 0 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 22:08:56 2013]  say: ^7E^0itani: hmm
+[Sat Nov 02 22:08:59 2013]  say: ^1M^7r ^1Ð^7innertime: wut
+[Sat Nov 02 22:09:01 2013]  say: ^1M^7r ^1Ð^7innertime: that's not it
+[Sat Nov 02 22:09:01 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 22:09:09 2013]  say: ^1M^7r ^1Ð^7innertime: what is it really, pls?xD
+[Sat Nov 02 22:09:12 2013]  Kill: 1022 3 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 22:09:16 2013]  say: ^7E^0itani: xD
+[Sat Nov 02 22:09:18 2013]  say: ^1Jaden: lol
+[Sat Nov 02 22:09:37 2013]  say: ^7E^0itani: u sure its not it?
+[Sat Nov 02 22:09:43 2013]  say: ^1M^7r ^1Ð^7innertime: That's the one with the coughing xD
+[Sat Nov 02 22:09:46 2013]  say: ^1M^7r ^1Ð^7innertime: I meant the goku one
+[Sat Nov 02 22:10:19 2013]  say: ^7E^0itani: u on xfire?
+[Sat Nov 02 22:10:22 2013]  say: ^1M^7r ^1Ð^7innertime: Sec
+[Sat Nov 02 22:10:56 2013]  say: ^1Jaden: XD JAWAS
+[Sat Nov 02 22:11:07 2013]  say: ^7E^0itani: come my children
+[Sat Nov 02 22:11:15 2013]  say: ^1M^7r ^1Ð^7innertime: I'm on
+[Sat Nov 02 22:11:15 2013]  say: ^1M^7r ^1Ð^7innertime: =o
+[Sat Nov 02 22:11:34 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:11:37 2013]  say: ^1Jaden: they came
+[Sat Nov 02 22:11:42 2013]  say: ^1M^7r ^1Ð^7innertime: i came too
+[Sat Nov 02 22:12:10 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:12:37 2013]  say: ^1Jaden: XD thanks Jawa i got a sneak attack
+[Sat Nov 02 22:12:39 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:12:43 2013]  Kill: 1022 0 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 22:12:47 2013]  say: ^1M^7r ^1Ð^7innertime: Thank you xD perfect
+[Sat Nov 02 22:12:52 2013]  say: ^7E^0itani: my son
+[Sat Nov 02 22:12:54 2013]  say: ^7E^0itani: i am proud
+[Sat Nov 02 22:12:56 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 22:13:12 2013]  Kill: 2 2 39: ^1M^7r ^1Ð^7innertime killed ^1M^7r ^1Ð^7innertime by MOD_SUICIDE
+[Sat Nov 02 22:13:12 2013]  setteam:  2 FREE SPECTATOR
+[Sat Nov 02 22:13:12 2013]  ClientBegin: 2
+[Sat Nov 02 22:13:21 2013]  setteam:  2 SPECTATOR FREE
+[Sat Nov 02 22:13:21 2013]  ClientBegin: 2
+[Sat Nov 02 22:13:21 2013]  say: ^1M^7r ^1Ð^7innertime: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Sat Nov 02 22:13:22 2013]  say: ^1Jaden: lol
+[Sat Nov 02 22:13:41 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:13:44 2013]  say: ^1Jaden: lol
+[Sat Nov 02 22:13:45 2013]  say: ^7E^0itani: o:
+[Sat Nov 02 22:14:02 2013]  say: ^1M^7r ^1Ð^7innertime: D:
+[Sat Nov 02 22:14:03 2013]  say: ^1Jaden: JAWAS XD
+[Sat Nov 02 22:14:03 2013]  say: ^1M^7r ^1Ð^7innertime: only 150 fps
+[Sat Nov 02 22:14:19 2013]  say: ^7E^0itani: NO
+[Sat Nov 02 22:14:23 2013]  say: ^7E^0itani: i was gonna keep that one alive
+[Sat Nov 02 22:14:27 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:14:36 2013]  say: ^1Jaden: DANCE JAWA DANCE!
+[Sat Nov 02 22:14:50 2013]  say: ^1Jaden: I can't stop laughing
+[Sat Nov 02 22:14:52 2013]  Kill: 1022 2 36: <world> killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Sat Nov 02 22:14:54 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:14:58 2013]  Kill: 2 0 3: ^1M^7r ^1Ð^7innertime killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 22:14:58 2013]  tell: ^1M^7r ^1Ð^7innertime to ^6Pinkie Bot^7: Gf. You make up 3 of my 132 kills.
+[Sat Nov 02 22:15:06 2013]  say: ^1Jaden: LOL
+[Sat Nov 02 22:15:09 2013]  say: ^1Jaden: wrong one
+[Sat Nov 02 22:15:25 2013]  say: ^1Jaden: I have two binds 1 for Jawa and the other for Luke XD
+[Sat Nov 02 22:15:31 2013]  say: ^1Jaden: I clicked Luke instead of Jawa
+[Sat Nov 02 22:16:01 2013]  say: ^1Jaden: LUKE ATTACK!
+[Sat Nov 02 22:16:01 2013]  say: ^1M^7r ^1Ð^7innertime: hacks
+[Sat Nov 02 22:16:02 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:16:21 2013]  say: ^1Jaden: LUKE ATTACK!
+[Sat Nov 02 22:16:22 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:16:40 2013]  say: ^1Jaden: This is funny You've gotta admit
+[Sat Nov 02 22:17:05 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:17:13 2013]  say: ^1Jaden: Jawa :P
+[Sat Nov 02 22:17:28 2013]  say: ^1Jaden: DANCE LITTLE JAWA DANCE!
+[Sat Nov 02 22:17:29 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:17:36 2013]  Kill: 1022 2 0: <world> killed ^1M^7r ^1Ð^7innertime by MOD_UNKNOWN
+[Sat Nov 02 22:18:04 2013]  say: ^1Jaden: It's following you XD
+[Sat Nov 02 22:19:25 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:19:26 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:19:42 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:20:32 2013]  say: ^1M^7r ^1Ð^7innertime: found it, eitani
+[Sat Nov 02 22:21:27 2013]  say: ^1M^7r ^1Ð^7innertime: ready, eit?
+[Sat Nov 02 22:21:31 2013]  say: ^7E^0itani: yeah
+[Sat Nov 02 22:21:46 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:21:47 2013]  say: ^7E^0itani: xD
+[Sat Nov 02 22:21:51 2013]  say: ^1M^7r ^1Ð^7innertime: it's a bit lon
+[Sat Nov 02 22:21:51 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 22:21:53 2013]  say: ^1M^7r ^1Ð^7innertime: long*
+[Sat Nov 02 22:23:22 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:23:56 2013]  say: ^1Jaden: lol
+[Sat Nov 02 22:26:14 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:26:26 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:26:45 2013]  ClientDisconnect: 3
+[Sat Nov 02 22:26:45 2013]  ClientConnect: 3
+[Sat Nov 02 22:26:45 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sat Nov 02 22:27:08 2013]  say: ^1M^7r ^1Ð^7innertime: LAG d:
+[Sat Nov 02 22:27:11 2013]  say: ^1Jaden: I can't stop laughing
+[Sat Nov 02 22:27:12 2013]  ClientBegin: 3
+[Sat Nov 02 22:27:37 2013]  say: ^1Jaden: lol
+[Sat Nov 02 22:27:38 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:27:45 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:27:53 2013]  say: ^1Jaden: I can't stop laughing
+[Sat Nov 02 22:27:53 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:27:54 2013]  Kill: 1022 2 0: <world> killed ^1M^7r ^1Ð^7innertime by MOD_UNKNOWN
+[Sat Nov 02 22:27:59 2013]  say: ^7E^0itani: roflmao
+[Sat Nov 02 22:28:26 2013]  tell: ^1Jaden to ^7E^0itani: XD
+[Sat Nov 02 22:28:37 2013]  say: ^0ÐàrkQµàkè: lol telet is included in makermodule? Only admins were supposed to have that :p
+[Sat Nov 02 22:28:43 2013]  say: ^7E^0itani: yeah
+[Sat Nov 02 22:28:45 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:28:51 2013]  say: ^7E^0itani: but now the whole community has it
+[Sat Nov 02 22:28:53 2013]  say: ^1M^7r ^1Ð^7innertime: telet isn't hard to make
+[Sat Nov 02 22:28:54 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 22:28:54 2013]  say: ^7E^0itani: blame didz
+[Sat Nov 02 22:28:56 2013]  say: ^0ÐàrkQµàkè: anyway with markoffset you can have insane ranges for your attacks
+[Sat Nov 02 22:29:01 2013]  say: ^0ÐàrkQµàkè: I've been away for a while :p
+[Sat Nov 02 22:29:04 2013]  say: ^1M^7r ^1Ð^7innertime: xd
+[Sat Nov 02 22:29:21 2013]  say: ^7E^0itani: i was battling a couple of guys this morning that were using it
+[Sat Nov 02 22:29:26 2013]  say: ^7E^0itani: they were bad
+[Sat Nov 02 22:29:28 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:29:35 2013]  say: ^7E^0itani: i made them rage hard
+[Sat Nov 02 22:29:46 2013]  say: ^7E^0itani: they were typing russian very angrily i presume
+[Sat Nov 02 22:29:51 2013]  say: ^0ÐàrkQµàkè: lol
+[Sat Nov 02 22:30:06 2013]  say: ^1Jaden: LOL MY FACE XD
+[Sat Nov 02 22:31:44 2013]  say: ^7E^0itani: does this server have proxymod?
+[Sat Nov 02 22:31:51 2013]  say: ^0ÐàrkQµàkè: no haven't got it yet
+[Sat Nov 02 22:31:55 2013]  say: ^7E^0itani: oh
+[Sat Nov 02 22:32:01 2013]  say: ^1M^7r ^1Ð^7innertime: Need scooper's permission to have it
+[Sat Nov 02 22:32:12 2013]  say: ^0ÐàrkQµàkè: yeah that too :p
+[Sat Nov 02 22:32:13 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:32:19 2013]  say: ^7E^0itani: SPIOR
+[Sat Nov 02 22:32:26 2013]  say: ^7E^0itani: THIS IS FOR NOT INCLUDING MARKOB IN THE PLUGIN
+[Sat Nov 02 22:32:29 2013]  Kill: 4 0 36: ^7E^0itani killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 22:34:00 2013]  say: ^7E^0itani: ah so you're the darkquake that made those element scripts
+[Sat Nov 02 22:34:06 2013]  say: ^0ÐàrkQµàkè: yeah :)
+[Sat Nov 02 22:34:19 2013]  say: ^0ÐàrkQµàkè: I'm trying to get ideas for V3 now but I've been away for a while
+[Sat Nov 02 22:34:24 2013]  say: ^0ÐàrkQµàkè: makermodule can really help
+[Sat Nov 02 22:34:32 2013]  say: ^0ÐàrkQµàkè: saves a lot of commands
+[Sat Nov 02 22:34:52 2013]  say: ^1M^7r ^1Ð^7innertime: brb xD
+[Sat Nov 02 22:34:53 2013]  say: ^0ÐàrkQµàkè: now I realise I can just look at someone and kill them :)
+[Sat Nov 02 22:34:56 2013]  say: ^0ÐàrkQµàkè: so brb
+[Sat Nov 02 22:35:03 2013]  say: ^1M^7r ^1Ð^7innertime: oh
+[Sat Nov 02 22:35:11 2013]  say: ^0ÐàrkQµàkè: I'll call the attack death stare or something haha
+[Sat Nov 02 22:35:12 2013]  say: ^1M^7r ^1Ð^7innertime: if you're interested, I can give you my ontimer converter ;3
+[Sat Nov 02 22:35:13 2013]  say: ^1M^7r ^1Ð^7innertime: brb xd
+[Sat Nov 02 22:37:38 2013]  say: ^0ÐàrkQµàkè: but wait I need to make my script non-makermodule friendly really
+[Sat Nov 02 22:37:42 2013]  say: ^0ÐàrkQµàkè: so I'll have 2 versions :)
+[Sat Nov 02 22:37:56 2013]  say: ^0ÐàrkQµàkè: makermodule version will have better attacks
+[Sat Nov 02 22:38:07 2013]  say: ^0ÐàrkQµàkè: this will take a while lol I'm so rusty at this
+[Sat Nov 02 22:38:12 2013]  say: ^0ÐàrkQµàkè: but I've still got great ideas
+[Sat Nov 02 22:38:20 2013]  say: ^0ÐàrkQµàkè: :)
+[Sat Nov 02 22:40:02 2013]  Kill: 1 2 27: ^1Jaden killed ^1M^7r ^1Ð^7innertime by MOD_DET_PACK_SPLASH
+[Sat Nov 02 22:40:02 2013]  tell: ^1M^7r ^1Ð^7innertime to ^1Jaden: Gf. You have caused 2 of my 116 deaths.
+[Sat Nov 02 22:40:41 2013]  Kill: 1 0 27: ^1Jaden killed ^6Pinkie Bot^7 by MOD_DET_PACK_SPLASH
+[Sat Nov 02 22:40:48 2013]  say: ^7E^0itani: can we go to t2_trip?
+[Sat Nov 02 22:42:01 2013]  Kill: 1 0 27: ^1Jaden killed ^6Pinkie Bot^7 by MOD_DET_PACK_SPLASH
+[Sat Nov 02 22:42:12 2013]  Kill: 1022 3 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 22:42:44 2013]  Kill: 1 2 2: ^1Jaden killed ^1M^7r ^1Ð^7innertime by MOD_MELEE
+[Sat Nov 02 22:42:44 2013]  tell: ^1M^7r ^1Ð^7innertime to ^1Jaden: Gf. You have caused 3 of my 117 deaths.
+[Sat Nov 02 22:43:02 2013]  Kill: 1022 0 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 22:43:45 2013]  say: ^0ÐàrkQµàkè: perfect :)
+[Sat Nov 02 22:43:47 2013]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sat Nov 02 22:43:50 2013]  say: ^1Jaden: lol
+[Sat Nov 02 22:43:52 2013]  Kill: 1022 3 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 22:43:55 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 22:44:01 2013]  say: ^0ÐàrkQµàkè: haha dat attack
+[Sat Nov 02 22:44:05 2013]  Kill: 1022 0 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 22:44:08 2013]  Kill: 4 2 36: ^7E^0itani killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Sat Nov 02 22:44:08 2013]  tell: ^1M^7r ^1Ð^7innertime to ^7E^0itani: Gf. You have caused 29 of my 118 deaths.
+[Sat Nov 02 22:44:10 2013]  say: ^1Jaden: XD
+[Sat Nov 02 22:44:13 2013]  say: ^7E^0itani: roflmao
+[Sat Nov 02 22:44:32 2013]  say: ^1M^7r ^1Ð^7innertime: brb
+[Sat Nov 02 22:45:37 2013]  say: ^0ÐàrkQµàkè: I have a very good idea now :) Makermodule has some pretty epic commands
+[Sat Nov 02 22:47:34 2013]  Kill: 1 2 27: ^1Jaden killed ^1M^7r ^1Ð^7innertime by MOD_DET_PACK_SPLASH
+[Sat Nov 02 22:47:34 2013]  Kill: 1 0 27: ^1Jaden killed ^6Pinkie Bot^7 by MOD_DET_PACK_SPLASH
+[Sat Nov 02 22:47:34 2013]  tell: ^1M^7r ^1Ð^7innertime to ^1Jaden: Gf. You have caused 4 of my 119 deaths.
+[Sat Nov 02 22:49:11 2013]  Kill: 1022 0 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 22:50:11 2013]  say: ^7E^0itani: brb making supper
+[Sat Nov 02 22:50:39 2013]  Kill: 1022 0 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 22:50:55 2013]  Kill: 1022 3 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 22:53:55 2013]  Kill: 1022 2 36: <world> killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Sat Nov 02 22:55:24 2013]  say: ^7E^0itani: back
+[Sat Nov 02 22:57:06 2013]  tell: ^1Jaden to ^7E^0itani: Wb
+[Sat Nov 02 22:57:16 2013]  Kill: 1 0 27: ^1Jaden killed ^6Pinkie Bot^7 by MOD_DET_PACK_SPLASH
+[Sat Nov 02 22:58:25 2013]  Kill: 1 2 27: ^1Jaden killed ^1M^7r ^1Ð^7innertime by MOD_DET_PACK_SPLASH
+[Sat Nov 02 22:58:26 2013]  tell: ^1M^7r ^1Ð^7innertime to ^1Jaden: Gf. You have caused 5 of my 120 deaths.
+[Sat Nov 02 22:58:38 2013]  Kill: 1 0 27: ^1Jaden killed ^6Pinkie Bot^7 by MOD_DET_PACK_SPLASH
+[Sat Nov 02 23:01:36 2013]  say: ^0ÐàrkQµàkè: is there a command to do a 180?
+[Sat Nov 02 23:01:56 2013]  Kill: 1 2 27: ^1Jaden killed ^1M^7r ^1Ð^7innertime by MOD_DET_PACK_SPLASH
+[Sat Nov 02 23:01:56 2013]  tell: ^1M^7r ^1Ð^7innertime to ^1Jaden: Gf. You have caused 6 of my 121 deaths.
+[Sat Nov 02 23:02:02 2013]  say: ^0ÐàrkQµàkè: nvm i have another idea
+[Sat Nov 02 23:02:13 2013]  Kill: 1 0 27: ^1Jaden killed ^6Pinkie Bot^7 by MOD_DET_PACK_SPLASH
+[Sat Nov 02 23:02:50 2013]  print "^0ÐàrkQµàkè^7 @@@PLRENAME cup
+"[Sat Nov 02 23:02:54 2013]  say: cup: oh whoops
+[Sat Nov 02 23:02:59 2013]  say: cup: /mname not /name :p
+[Sat Nov 02 23:03:00 2013]  say: cup: haha
+[Sat Nov 02 23:03:18 2013]  print "cup^7 @@@PLRENAME ^0ÐàrkQµàkè
+"[Sat Nov 02 23:03:26 2013]  say: ^1Jaden: I can't stop laughing (EASILY AMUSED)
+[Sat Nov 02 23:04:09 2013]  say: ^0ÐàrkQµàkè: ticket
+[Sat Nov 02 23:04:22 2013]  say: ^7E^0itani: lol
+[Sat Nov 02 23:04:27 2013]  say: ^0ÐàrkQµàkè: meant to be /ticker
+[Sat Nov 02 23:04:30 2013]  say: ^0ÐàrkQµàkè: oh that's cool
+[Sat Nov 02 23:05:00 2013]  say: ^7E^0itani: /ticker should made to communicate server wide
+[Sat Nov 02 23:05:05 2013]  say: ^7E^0itani: to different servers
+[Sat Nov 02 23:05:09 2013]  say: ^7E^0itani: would be aweosme
+[Sat Nov 02 23:05:14 2013]  say: ^0ÐàrkQµàkè: yeah that's be so cool
+[Sat Nov 02 23:05:27 2013]  say: ^0ÐàrkQµàkè: I reckon I'll use it in EV3 :) Fancy it up a bit
+[Sat Nov 02 23:06:14 2013]  Kill: 1022 3 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 23:07:13 2013]  Kill: 1 0 27: ^1Jaden killed ^6Pinkie Bot^7 by MOD_DET_PACK_SPLASH
+[Sat Nov 02 23:07:28 2013]  Kill: 1 2 27: ^1Jaden killed ^1M^7r ^1Ð^7innertime by MOD_DET_PACK_SPLASH
+[Sat Nov 02 23:07:28 2013]  tell: ^1M^7r ^1Ð^7innertime to ^1Jaden: Gf. You have caused 7 of my 122 deaths.
+[Sat Nov 02 23:09:47 2013]  Kill: 1022 2 36: <world> killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Sat Nov 02 23:10:13 2013]  say: ^7E^0itani: ^1CALL 911 NOW!
+[Sat Nov 02 23:10:24 2013]  say: ^1Jaden: lol
+[Sat Nov 02 23:10:28 2013]  Kill: 1022 0 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 23:14:02 2013]  Kill: 1 2 27: ^1Jaden killed ^1M^7r ^1Ð^7innertime by MOD_DET_PACK_SPLASH
+[Sat Nov 02 23:14:02 2013]  tell: ^1M^7r ^1Ð^7innertime to ^1Jaden: Gf. You have caused 8 of my 123 deaths.
+[Sat Nov 02 23:14:14 2013]  Kill: 1 0 27: ^1Jaden killed ^6Pinkie Bot^7 by MOD_DET_PACK_SPLASH
+[Sat Nov 02 23:15:03 2013]  say: ^1Jaden: XD
+[Sat Nov 02 23:15:03 2013]  Kill: 3 1 37: ^0ÐàrkQµàkè killed ^1Jaden by MOD_TELEFRAG
+[Sat Nov 02 23:15:08 2013]  say: ^7E^0itani: lol?
+[Sat Nov 02 23:15:11 2013]  say: ^0ÐàrkQµàkè: :p
+[Sat Nov 02 23:15:51 2013]  Kill: 1022 2 36: <world> killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Sat Nov 02 23:15:57 2013]  Kill: 1022 0 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 23:16:08 2013]  say: ^1Jaden: XD
+[Sat Nov 02 23:17:05 2013]  say: ^0ÐàrkQµàkè: nice moves :)
+[Sat Nov 02 23:17:18 2013]  say: ^7E^0itani: XD
+[Sat Nov 02 23:17:50 2013]  say: ^0ÐàrkQµàkè: lol how'd you get over there? :p
+[Sat Nov 02 23:18:48 2013]  Exit: Timelimit hit.
+[Sat Nov 02 23:18:48 2013]  score: 72  ping: 148  client: 1 ^1Jaden
+[Sat Nov 02 23:18:48 2013]  score: 24  ping: 151  client: 4 ^7E^0itani
+[Sat Nov 02 23:18:48 2013]  score: 1  ping: 50  client: 2 ^1M^7r ^1Ð^7innertime
+[Sat Nov 02 23:18:48 2013]  score: -1  ping: 6  client: 3 ^0ÐàrkQµàkè
+[Sat Nov 02 23:18:48 2013]  score: -8  ping: 68  client: 0 ^6Pinkie Bot^7
+[Sat Nov 02 23:19:04 2013]  ShutdownGame:
+[Sat Nov 02 23:19:04 2013]  ------------------------------------------------------------
+[Sat Nov 02 23:19:05 2013]  ------------------------------------------------------------
+[Sat Nov 02 23:19:05 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 02 23:19:07 2013]  ClientConnect: 0
+[Sat Nov 02 23:19:07 2013]  ClientConnect: 1
+[Sat Nov 02 23:19:07 2013]  ClientConnect: 2
+[Sat Nov 02 23:19:07 2013]  ClientConnect: 3
+[Sat Nov 02 23:19:07 2013]  ClientConnect: 4
+[Sat Nov 02 23:19:10 2013]  ClientBegin: 0
+[Sat Nov 02 23:19:13 2013]  ClientBegin: 2
+[Sat Nov 02 23:19:13 2013]  say: ^1M^7r ^1Ð^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Nov 02 23:19:19 2013]  Kill: 1 2 37: ^1Jaden killed ^1M^7r ^1Ð^7innertime by MOD_TELEFRAG
+[Sat Nov 02 23:19:19 2013]  ClientBegin: 1
+[Sat Nov 02 23:19:19 2013]  tell: ^1M^7r ^1Ð^7innertime to ^1Jaden: Gf. You have caused 9 of my 124 deaths.
+[Sat Nov 02 23:19:24 2013]  ClientBegin: 3
+[Sat Nov 02 23:19:29 2013]  Kill: 4 3 37: ^7E^0itani killed ^0ÐàrkQµàkè by MOD_TELEFRAG
+[Sat Nov 02 23:19:29 2013]  ClientBegin: 4
+[Sat Nov 02 23:19:30 2013]  Kill: 3 4 37: ^0ÐàrkQµàkè killed ^7E^0itani by MOD_TELEFRAG
+[Sat Nov 02 23:19:39 2013]  Kill: 3 0 37: ^0ÐàrkQµàkè killed ^6Pinkie Bot^7 by MOD_TELEFRAG
+[Sat Nov 02 23:19:39 2013]  Kill: 3 1 37: ^0ÐàrkQµàkè killed ^1Jaden by MOD_TELEFRAG
+[Sat Nov 02 23:19:41 2013]  say: ^7E^0itani: XD
+[Sat Nov 02 23:19:41 2013]  say: ^1Jaden: XD
+[Sat Nov 02 23:19:44 2013]  say: ^0ÐàrkQµàkè: haha
+[Sat Nov 02 23:20:07 2013]  ClientDisconnect: 4
+[Sat Nov 02 23:20:07 2013]  ClientDisconnect: 4
+[Sat Nov 02 23:20:07 2013]  ClientConnect: 4
+[Sat Nov 02 23:20:07 2013]  mlog:Player ^7E^0itani, connected. With IP - 174.64.177.102:29070 
+[Sat Nov 02 23:20:15 2013]  ClientBegin: 4
+[Sat Nov 02 23:20:36 2013]  say: ^1Jaden: XD
+[Sat Nov 02 23:20:39 2013]  say: ^0ÐàrkQµàkè: hahaha
+[Sat Nov 02 23:21:09 2013]  say: ^1Jaden: RUN JAWAS XD
+[Sat Nov 02 23:21:29 2013]  Kill: 1022 2 36: <world> killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Sat Nov 02 23:21:29 2013]  Kill: 1022 0 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 23:21:55 2013]  say: ^1Jaden: RUN JAWAS XD
+[Sat Nov 02 23:22:30 2013]  Kill: 2 0 37: ^1M^7r ^1Ð^7innertime killed ^6Pinkie Bot^7 by MOD_TELEFRAG
+[Sat Nov 02 23:22:30 2013]  tell: ^1M^7r ^1Ð^7innertime to ^6Pinkie Bot^7: Gf. You make up 4 of my 133 kills.
+[Sat Nov 02 23:22:53 2013]  say: ^0ÐàrkQµàkè: impressive :D
+[Sat Nov 02 23:23:03 2013]  say: ^1Jaden: JAWAS XD
+[Sat Nov 02 23:24:05 2013]  -8<------- Crash Information ------->8-
+[Sat Nov 02 23:24:05 2013]      Please forward to Scooper 
+[Sat Nov 02 23:24:05 2013]  ---------------------------------------
+[Sat Nov 02 23:24:05 2013]  Version: MakerMod Win32
+[Sat Nov 02 23:24:05 2013]  Build Date: Dec 27 2010[Sat Nov 02 23:24:05 2013]  Build Time: 23:45:02[Sat Nov 02 23:24:05 2013]  Map: t2_trip
+[Sat Nov 02 23:24:05 2013]  Exception: Access violation (0xc0000005)
+[Sat Nov 02 23:24:05 2013]  Exception Address: 0x200616df
+[Sat Nov 02 23:24:05 2013]  DLL Information:
+[Sat Nov 02 23:24:05 2013]  0x00400000	jampDed
+[Sat Nov 02 23:24:05 2013]  0x77b10000	ntdll
+[Sat Nov 02 23:24:05 2013]  0x768f0000	kernel32
+[Sat Nov 02 23:24:05 2013]  0x76b60000	KERNELBASE
+[Sat Nov 02 23:24:05 2013]  0x74f50000	WSOCK32
+[Sat Nov 02 23:24:05 2013]  0x76ee0000	WS2_32
+[Sat Nov 02 23:24:05 2013]  0x76a20000	msvcrt
+[Sat Nov 02 23:24:05 2013]  0x76bb0000	RPCRT4
+[Sat Nov 02 23:24:05 2013]  0x751f0000	SspiCli
+[Sat Nov 02 23:24:05 2013]  0x751e0000	CRYPTBASE
+[Sat Nov 02 23:24:05 2013]  0x76210000	sechost
+[Sat Nov 02 23:24:05 2013]  0x77ae0000	NSI
+[Sat Nov 02 23:24:05 2013]  0x73c10000	WINMM
+[Sat Nov 02 23:24:05 2013]  0x762d0000	USER32
+[Sat Nov 02 23:24:05 2013]  0x76180000	GDI32
+[Sat Nov 02 23:24:05 2013]  0x76ed0000	LPK
+[Sat Nov 02 23:24:05 2013]  0x76510000	USP10
+[Sat Nov 02 23:24:05 2013]  0x76400000	ADVAPI32
+[Sat Nov 02 23:24:05 2013]  0x77040000	IMM32
+[Sat Nov 02 23:24:05 2013]  0x76750000	MSCTF
+[Sat Nov 02 23:24:05 2013]  0x74ef0000	mswsock
+[Sat Nov 02 23:24:05 2013]  0x74ee0000	wshtcpip
+[Sat Nov 02 23:24:05 2013]  0x73b30000	NLAapi
+[Sat Nov 02 23:24:05 2013]  0x73b20000	napinsp
+[Sat Nov 02 23:24:05 2013]  0x71e80000	pnrpnsp
+[Sat Nov 02 23:24:05 2013]  0x72150000	DNSAPI
+[Sat Nov 02 23:24:05 2013]  0x71e70000	winrnr
+[Sat Nov 02 23:24:05 2013]  0x71e40000	WLIDNSP
+[Sat Nov 02 23:24:05 2013]  0x76ec0000	PSAPI
+[Sat Nov 02 23:24:05 2013]  0x771f0000	SHLWAPI
+[Sat Nov 02 23:24:05 2013]  0x71e30000	wshbth
+[Sat Nov 02 23:24:05 2013]  0x71e00000	mdnsNSP
+[Sat Nov 02 23:24:05 2013]  0x72250000	Iphlpapi
+[Sat Nov 02 23:24:05 2013]  0x72240000	WINNSI
+[Sat Nov 02 23:24:05 2013]  0x71dc0000	fwpuclnt
+[Sat Nov 02 23:24:05 2013]  0x71db0000	rasadhlp
+[Sat Nov 02 23:24:05 2013]  0x20000000	jampgamex86
+[Sat Nov 02 23:24:05 2013]  0x763d0000	IMAGEHLP
+[Sat Nov 02 23:24:05 2013]  0x6b540000	dbghelp
+[Sat Nov 02 23:24:05 2013]  Backtrace:
+[Sat Nov 02 23:24:05 2013]  (0) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x200616df]
+[Sat Nov 02 23:24:05 2013]  (1) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d987]
+[Sat Nov 02 23:24:05 2013]  (2) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20078587]
+[Sat Nov 02 23:24:05 2013]  (3) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20080a79]
+[Sat Nov 02 23:24:05 2013]  (4) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0xca) [0x2009f63a]
+[Sat Nov 02 23:24:05 2013]  (5) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Sat Nov 02 23:24:05 2013]  (6) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0043c45e]
+[Sat Nov 02 23:24:05 2013]  (7) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x00444213]
+[Sat Nov 02 23:24:05 2013]  (8) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0043c45e]
+[Sat Nov 02 23:24:05 2013]  (9) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x00444213]
+[Sat Nov 02 23:24:05 2013]  (10) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0043c1e0]
+[Sat Nov 02 23:24:05 2013]  (11) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0044c751]
+[Sat Nov 02 23:24:05 2013]  (12) Unknown [0x64656420]
+[Sat Nov 02 23:24:05 2013]  (13) Unknown [0x74616369]
+[Sat Nov 02 23:24:05 2013]  (14) Unknown [0x32206465]
+[Sat Nov 02 23:24:05 2013]  (15) Unknown [0x65730020]
+[Sat Nov 02 23:24:05 2013]  (16) Unknown [0x73662074]
+[Sat Nov 02 23:24:05 2013]  (17) Unknown [0x6d61675f]
+[Sat Nov 02 23:24:05 2013]  (18) Unknown [0x616d2065]
+[Sat Nov 02 23:24:05 2013]  (19) Unknown [0x6d72656b]
+[Sat Nov 02 23:24:05 2013]  (20) Unknown [0x0020646f]
+[Sat Nov 02 23:24:05 2013]  (21) Unknown [0x63657865]
+[Sat Nov 02 23:24:05 2013]  (22) C:\Windows\syswow64\dbghelp.dll(MiniDumpWriteDump+0x90fe8) [0x6b616d20]
+[Sat Nov 02 23:24:05 2013]  (23) Unknown [0x6f6d7265]
+[Sat Nov 02 23:24:05 2013]  (24) Unknown [0x66632e64]
+[Sat Nov 02 23:24:05 2013]  -8<--------------------------------->8-
+
+[Sat Nov 02 23:24:05 2013]  Attempting to clean up.
+[Sat Nov 02 23:24:05 2013]  ShutdownGame:
+[Sat Nov 02 23:24:05 2013]  ------------------------------------------------------------
+[Sat Nov 02 23:24:06 2013]  ------------------------------------------------------------
+[Sat Nov 02 23:24:06 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 02 23:24:17 2013]  ClientConnect: 0
+[Sat Nov 02 23:24:17 2013]  mlog:Player ^7E^0itani, connected. With IP - 174.64.177.102:29070 
+[Sat Nov 02 23:24:24 2013]  ClientBegin: 0
+[Sat Nov 02 23:24:34 2013]  ClientConnect: 1
+[Sat Nov 02 23:24:34 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sat Nov 02 23:24:40 2013]  ClientBegin: 1
+[Sat Nov 02 23:24:45 2013]  ClientConnect: 2
+[Sat Nov 02 23:24:45 2013]  mlog:Player ^1Jaden, connected. With IP - 50.129.4.82:29070 
+[Sat Nov 02 23:24:45 2013]  say: ^7E^0itani: um wut
+[Sat Nov 02 23:24:49 2013]  say: ^0ÐàrkQµàkè: lol I crashed :p
+[Sat Nov 02 23:24:53 2013]  say: ^7E^0itani: me too
+[Sat Nov 02 23:24:57 2013]  ClientBegin: 2
+[Sat Nov 02 23:25:27 2013]  ClientConnect: 3
+[Sat Nov 02 23:25:27 2013]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 86.8.228.166:29071 
+[Sat Nov 02 23:25:34 2013]  ClientBegin: 3
+[Sat Nov 02 23:25:34 2013]  say: ^1M^7r ^1Ð^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Nov 02 23:25:47 2013]  Kill: 2 1 6: ^1Jaden killed ^0ÐàrkQµàkè by MOD_BLASTER
+[Sat Nov 02 23:27:18 2013]  Item: 0 weapon_bryar_pistol
+[Sat Nov 02 23:27:18 2013]  Item: 2 weapon_blaster
+[Sat Nov 02 23:27:32 2013]  Kill: 1022 1 38: <world> killed ^0ÐàrkQµàkè by MOD_FALLING
+[Sat Nov 02 23:27:35 2013]  say: ^0ÐàrkQµàkè: haha
+[Sat Nov 02 23:29:24 2013]  say: ^0ÐàrkQµàkè: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sat Nov 02 23:30:45 2013]  say: ^0ÐàrkQµàkè: original fireball :)
+[Sat Nov 02 23:34:16 2013]  say: ^1M^7r ^1Ð^7innertime: I'm back :]
+[Sat Nov 02 23:34:20 2013]  say: ^1M^7r ^1Ð^7innertime: Party finished, lol
+[Sat Nov 02 23:34:21 2013]  say: ^0ÐàrkQµàkè: hey :)
+[Sat Nov 02 23:34:21 2013]  say: ^1Jaden: wb
+[Sat Nov 02 23:34:24 2013]  say: ^1M^7r ^1Ð^7innertime: thanks :p
+[Sat Nov 02 23:34:26 2013]  say: ^1M^7r ^1Ð^7innertime: and hey
+[Sat Nov 02 23:34:28 2013]  ClientConnect: 4
+[Sat Nov 02 23:34:28 2013]  mlog:Player ^6Pinkie Bot^7, connected. With IP - 79.100.96.163:29072 
+[Sat Nov 02 23:34:32 2013]  ClientBegin: 4
+[Sat Nov 02 23:34:35 2013]  Kill: 1022 4 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 23:34:35 2013]  Kill: 1022 3 36: <world> killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Sat Nov 02 23:34:41 2013]  Kill: 1022 3 36: <world> killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Sat Nov 02 23:34:43 2013]  say: ^1M^7r ^1Ð^7innertime: O_-
+[Sat Nov 02 23:34:48 2013]  say: ^0ÐàrkQµàkè: I can look at people and they die :)
+[Sat Nov 02 23:34:54 2013]  Kill: 1022 3 36: <world> killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Sat Nov 02 23:34:55 2013]  say: ^1M^7r ^1Ð^7innertime: <_<
+[Sat Nov 02 23:35:03 2013]  say: ^0ÐàrkQµàkè: with some side effects :p
+[Sat Nov 02 23:35:05 2013]  say: ^0ÐàrkQµàkè: working on it
+[Sat Nov 02 23:35:06 2013]  say: ^1Jaden: lol I don't die I just get thrown off the map
+[Sat Nov 02 23:35:08 2013]  say: ^1Jaden: XD
+[Sat Nov 02 23:35:12 2013]  say: ^0ÐàrkQµàkè: that too haha
+[Sat Nov 02 23:35:46 2013]  say: ^0ÐàrkQµàkè: hahahahaha
+[Sat Nov 02 23:35:55 2013]  Kill: 1022 3 0: <world> killed ^1M^7r ^1Ð^7innertime by MOD_UNKNOWN
+[Sat Nov 02 23:36:02 2013]  say: ^0ÐàrkQµàkè: how'd you print that to everyone?
+[Sat Nov 02 23:36:07 2013]  Kill: 1022 4 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 23:36:08 2013]  say: ^7E^0itani: just you*
+[Sat Nov 02 23:36:13 2013]  say: ^7E^0itani: xD
+[Sat Nov 02 23:36:14 2013]  say: ^0ÐàrkQµàkè: oh right
+[Sat Nov 02 23:36:15 2013]  say: ^0ÐàrkQµàkè: haha
+[Sat Nov 02 23:36:15 2013]  say: ^1M^7r ^1Ð^7innertime: D
+[Sat Nov 02 23:36:19 2013]  say: ^1M^7r ^1Ð^7innertime: right
+[Sat Nov 02 23:36:22 2013]  say: ^1M^7r ^1Ð^7innertime: party is over now, lol
+[Sat Nov 02 23:36:27 2013]  say: ^1M^7r ^1Ð^7innertime: I can focus on my scripts again
+[Sat Nov 02 23:36:28 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:36:34 2013]  say: ^7E^0itani: you had a party?
+[Sat Nov 02 23:36:39 2013]  say: ^7E^0itani: Y WASNT I INVITED?
+[Sat Nov 02 23:36:40 2013]  say: ^1M^7r ^1Ð^7innertime: Yeah ;o A halloween party
+[Sat Nov 02 23:36:41 2013]  say: ^1M^7r ^1Ð^7innertime: x
+[Sat Nov 02 23:36:42 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:36:46 2013]  say: ^0ÐàrkQµàkè: I had mine on Thursday :)
+[Sat Nov 02 23:36:48 2013]  say: ^0ÐàrkQµàkè: good times
+[Sat Nov 02 23:36:59 2013]  say: ^7E^0itani: i haven't went to a party in ages >_>
+[Sat Nov 02 23:37:10 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:37:13 2013]  say: ^7E^0itani: the parties where i live at quite frankly suck.
+[Sat Nov 02 23:37:14 2013]  say: ^0ÐàrkQµàkè: oh god
+[Sat Nov 02 23:37:15 2013]  say: ^1M^7r ^1Ð^7innertime: loll
+[Sat Nov 02 23:37:23 2013]  say: ^0ÐàrkQµàkè: what did you do that time? :p
+[Sat Nov 02 23:37:30 2013]  say: ^1M^7r ^1Ð^7innertime: quite a lot x
+[Sat Nov 02 23:37:32 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:37:42 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:37:46 2013]  say: ^0ÐàrkQµàkè: lol
+[Sat Nov 02 23:37:53 2013]  say: ^0ÐàrkQµàkè: mpain?
+[Sat Nov 02 23:37:57 2013]  say: ^1M^7r ^1Ð^7innertime: yesh xD
+[Sat Nov 02 23:37:58 2013]  say: ^7E^0itani: t-pain
+[Sat Nov 02 23:38:01 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:38:01 2013]  say: ^1Jaden: I gotta go (Dishwasher -.-) cya guys later
+[Sat Nov 02 23:38:04 2013]  say: ^1M^7r ^1Ð^7innertime: cya
+[Sat Nov 02 23:38:09 2013]  say: ^7E^0itani: later jaden
+[Sat Nov 02 23:38:11 2013]  say: ^1M^7r ^1Ð^7innertime: dishwasher!?!?
+[Sat Nov 02 23:38:17 2013]  ClientDisconnect: 2
+[Sat Nov 02 23:38:19 2013]  say: ^1M^7r ^1Ð^7innertime: we have to wash our dishes in the sink
+[Sat Nov 02 23:38:21 2013]  say: ^7E^0itani: stop that jaden
+[Sat Nov 02 23:38:25 2013]  say: ^1M^7r ^1Ð^7innertime: and you complain about a dishwasher!?!?!
+[Sat Nov 02 23:38:25 2013]  say: ^7E^0itani: i am your master!
+[Sat Nov 02 23:38:32 2013]  say: ^0ÐàrkQµàkè: sry master :p
+[Sat Nov 02 23:38:39 2013]  say: ^1M^7r ^1Ð^7innertime: Oh what I would give for a dishwasher!!
+[Sat Nov 02 23:38:42 2013]  say: ^0ÐàrkQµàkè: alright what's the max damage and radius for mpain? ^^
+[Sat Nov 02 23:38:50 2013]  say: ^7E^0itani: 9000
+[Sat Nov 02 23:38:50 2013]  say: ^1M^7r ^1Ð^7innertime: max damage is int.maxvalue
+[Sat Nov 02 23:38:52 2013]  say: ^1M^7r ^1Ð^7innertime: radius is 199
+[Sat Nov 02 23:38:52 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:39:13 2013]  Kill: 3 4 3: ^1M^7r ^1Ð^7innertime killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 23:39:13 2013]  tell: ^1M^7r ^1Ð^7innertime to ^6Pinkie Bot^7: Gf. You make up 5 of my 134 kills.
+[Sat Nov 02 23:39:44 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:40:09 2013]  say: ^1M^7r ^1Ð^7innertime: You know
+[Sat Nov 02 23:40:16 2013]  say: ^1M^7r ^1Ð^7innertime: your script reduces my fps from 250 to 80 *_*
+[Sat Nov 02 23:40:17 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 23:40:25 2013]  say: ^0ÐàrkQµàkè: lol bonus :p
+[Sat Nov 02 23:40:27 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:40:29 2013]  say: ^0ÐàrkQµàkè: disorientation haha
+[Sat Nov 02 23:40:40 2013]  say: ^0ÐàrkQµàkè: anyway I need a proper number
+[Sat Nov 02 23:40:43 2013]  say: ^0ÐàrkQµàkè: or is it 2,147,483,647
+[Sat Nov 02 23:40:45 2013]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Sat Nov 02 23:40:49 2013]  say: ^1M^7r ^1Ð^7innertime: max value of an integer xD
+[Sat Nov 02 23:40:49 2013]  say: ^0ÐàrkQµàkè: alright :)
+[Sat Nov 02 23:41:40 2013]  say: ^0ÐàrkQµàkè: I can't accept the duel for some reason
+[Sat Nov 02 23:41:45 2013]  say: ^7E^0itani: :/
+[Sat Nov 02 23:42:01 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 23:42:04 2013]  say: ^1M^7r ^1Ð^7innertime: you copied me xD
+[Sat Nov 02 23:42:19 2013]  say: ^0ÐàrkQµàkè: haha with what?
+[Sat Nov 02 23:42:22 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:42:23 2013]  say: ^0ÐàrkQµàkè: I'm experimenting :p
+[Sat Nov 02 23:42:53 2013]  say: ^0ÐàrkQµàkè: yeah can't saber challenge :(
+[Sat Nov 02 23:42:57 2013]  Kill: 3 4 3: ^1M^7r ^1Ð^7innertime killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 23:42:57 2013]  tell: ^1M^7r ^1Ð^7innertime to ^6Pinkie Bot^7: Gf. You make up 6 of my 135 kills.
+[Sat Nov 02 23:42:58 2013]  say: ^0ÐàrkQµàkè: ohhh
+[Sat Nov 02 23:43:00 2013]  tell: ^1M^7r ^1Ð^7innertime to ^0ÐàrkQµàkè: Good luck ;3
+[Sat Nov 02 23:43:00 2013]  say: ^0ÐàrkQµàkè: it was god mode
+[Sat Nov 02 23:43:01 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:43:05 2013]  say: ^7E^0itani: rofl
+[Sat Nov 02 23:43:24 2013]  Kill: 3 1 3: ^1M^7r ^1Ð^7innertime killed ^0ÐàrkQµàkè by MOD_SABER
+[Sat Nov 02 23:43:25 2013]  tell: ^1M^7r ^1Ð^7innertime to ^0ÐàrkQµàkè: Gf. You make up 1 of my 21 successful duels.
+[Sat Nov 02 23:43:25 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:43:26 2013]  say: ^0ÐàrkQµàkè: lol :p
+[Sat Nov 02 23:43:52 2013]  tell: ^1M^7r ^1Ð^7innertime to ^0ÐàrkQµàkè: Good luck ;3
+[Sat Nov 02 23:44:11 2013]  Kill: 3 1 3: ^1M^7r ^1Ð^7innertime killed ^0ÐàrkQµàkè by MOD_SABER
+[Sat Nov 02 23:44:12 2013]  tell: ^1M^7r ^1Ð^7innertime to ^0ÐàrkQµàkè: Gf. You make up 2 of my 22 successful duels.
+[Sat Nov 02 23:44:12 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:44:18 2013]  say: ^0ÐàrkQµàkè: how fast do you click haha
+[Sat Nov 02 23:44:19 2013]  Item: 0 weapon_saber
+[Sat Nov 02 23:44:22 2013]  say: ^1M^7r ^1Ð^7innertime: 113 times per second
+[Sat Nov 02 23:44:29 2013]  say: ^0ÐàrkQµàkè: script? :p
+[Sat Nov 02 23:44:31 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:45:12 2013]  say: ^1M^7r ^1Ð^7innertime: come on, eitani
+[Sat Nov 02 23:45:21 2013]  say: ^1M^7r ^1Ð^7innertime: I used to look up to you in saber skills D:
+[Sat Nov 02 23:45:22 2013]  say: ^1M^7r ^1Ð^7innertime: finish him
+[Sat Nov 02 23:45:31 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:45:32 2013]  Kill: 0 1 3: ^7E^0itani killed ^0ÐàrkQµàkè by MOD_SABER
+[Sat Nov 02 23:45:34 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 23:45:35 2013]  say: ^0ÐàrkQµàkè: ow :p
+[Sat Nov 02 23:45:46 2013]  tell: ^1M^7r ^1Ð^7innertime to ^7E^0itani: Good luck ;3
+[Sat Nov 02 23:46:08 2013]  say: ^0ÐàrkQµàkè: alright so with the 113 times per second script do you just repeat the attack command? :p
+[Sat Nov 02 23:46:13 2013]  say: ^1M^7r ^1Ð^7innertime: no
+[Sat Nov 02 23:46:19 2013]  say: ^1M^7r ^1Ð^7innertime: attack, alt attack and push
+[Sat Nov 02 23:46:21 2013]  say: ^1M^7r ^1Ð^7innertime: xd
+[Sat Nov 02 23:46:37 2013]  say: ^0ÐàrkQµàkè: why those 3?
+[Sat Nov 02 23:46:40 2013]  Kill: 3 0 3: ^1M^7r ^1Ð^7innertime killed ^7E^0itani by MOD_SABER
+[Sat Nov 02 23:46:40 2013]  tell: ^1M^7r ^1Ð^7innertime to ^7E^0itani: Gf. You make up 3 of my 23 successful duels.
+[Sat Nov 02 23:46:41 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:46:46 2013]  say: ^1M^7r ^1Ð^7innertime: all 3 help with saber lock
+[Sat Nov 02 23:46:51 2013]  say: ^0ÐàrkQµàkè: ah cool
+[Sat Nov 02 23:46:53 2013]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sat Nov 02 23:46:58 2013]  say: ^0ÐàrkQµàkè: but push gets rid of it doesn't it?
+[Sat Nov 02 23:47:03 2013]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Sat Nov 02 23:47:05 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 23:47:14 2013]  say: ^1M^7r ^1Ð^7innertime: Notice how I kill you and then push your corpse away? xD
+[Sat Nov 02 23:47:19 2013]  say: ^0ÐàrkQµàkè: yeah haha
+[Sat Nov 02 23:47:21 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 23:47:27 2013]  say: ^0ÐàrkQµàkè: alright gimme pls? :p
+[Sat Nov 02 23:47:30 2013]  say: ^1M^7r ^1Ð^7innertime: noes D;
+[Sat Nov 02 23:47:37 2013]  say: ^0ÐàrkQµàkè: haha alright
+[Sat Nov 02 23:47:39 2013]  say: ^1M^7r ^1Ð^7innertime: I don't like giving my scripts away
+[Sat Nov 02 23:47:39 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:47:49 2013]  say: ^0ÐàrkQµàkè: fair enough :)
+[Sat Nov 02 23:47:53 2013]  say: ^1M^7r ^1Ð^7innertime: that falcon was just to get you started again ;3
+[Sat Nov 02 23:47:54 2013]  Item: 0 weapon_saber
+[Sat Nov 02 23:48:05 2013]  say: ^0ÐàrkQµàkè: yeah alright :)
+[Sat Nov 02 23:48:11 2013]  say: ^0ÐàrkQµàkè: it definitely will haha
+[Sat Nov 02 23:48:11 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:48:16 2013]  Kill: 1 3 3: ^0ÐàrkQµàkè killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Sat Nov 02 23:48:16 2013]  tell: ^1M^7r ^1Ð^7innertime to ^0ÐàrkQµàkè: Gf. You have caused 2 of my 125 deaths.
+[Sat Nov 02 23:48:17 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:48:24 2013]  say: ^0ÐàrkQµàkè: ow
+[Sat Nov 02 23:48:24 2013]  Kill: 0 4 3: ^7E^0itani killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 23:48:25 2013]  say: ^0ÐàrkQµàkè: haha
+[Sat Nov 02 23:48:32 2013]  tell: ^1M^7r ^1Ð^7innertime to ^7E^0itani: Good luck ;3
+[Sat Nov 02 23:48:39 2013]  say: ^0ÐàrkQµàkè: I'll never win in a lock with you till I make my own saber locking script haha
+[Sat Nov 02 23:48:45 2013]  say: ^0ÐàrkQµàkè: too much time to spend on this game
+[Sat Nov 02 23:48:47 2013]  say: ^1M^7r ^1Ð^7innertime: or until you turn off saber locking
+[Sat Nov 02 23:48:48 2013]  say: ^1M^7r ^1Ð^7innertime: lol
+[Sat Nov 02 23:48:55 2013]  say: ^0ÐàrkQµàkè: no I like it :p
+[Sat Nov 02 23:49:00 2013]  Kill: 3 0 3: ^1M^7r ^1Ð^7innertime killed ^7E^0itani by MOD_SABER
+[Sat Nov 02 23:49:01 2013]  tell: ^1M^7r ^1Ð^7innertime to ^7E^0itani: Gf. You make up 4 of my 24 successful duels.
+[Sat Nov 02 23:49:02 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:49:18 2013]  Kill: 1 3 36: ^0ÐàrkQµàkè killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Sat Nov 02 23:49:19 2013]  tell: ^1M^7r ^1Ð^7innertime to ^0ÐàrkQµàkè: Gf. You have caused 3 of my 126 deaths.
+[Sat Nov 02 23:49:31 2013]  Kill: 3 1 36: ^1M^7r ^1Ð^7innertime killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 23:49:32 2013]  tell: ^1M^7r ^1Ð^7innertime to ^0ÐàrkQµàkè: Gf. You make up 4 of my 140 kills.
+[Sat Nov 02 23:49:33 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:50:17 2013]  Kill: 1 0 0: ^0ÐàrkQµàkè killed ^7E^0itani by MOD_UNKNOWN
+[Sat Nov 02 23:50:24 2013]  Kill: 3 1 36: ^1M^7r ^1Ð^7innertime killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 23:50:24 2013]  tell: ^1M^7r ^1Ð^7innertime to ^0ÐàrkQµàkè: Gf. You make up 5 of my 141 kills.
+[Sat Nov 02 23:50:41 2013]  Kill: 3 1 36: ^1M^7r ^1Ð^7innertime killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 23:50:41 2013]  tell: ^1M^7r ^1Ð^7innertime to ^0ÐàrkQµàkè: Gf. You make up 6 of my 142 kills.
+[Sat Nov 02 23:50:43 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:50:47 2013]  say: ^0ÐàrkQµàkè: lol
+[Sat Nov 02 23:50:51 2013]  Kill: 3 1 36: ^1M^7r ^1Ð^7innertime killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 23:50:51 2013]  tell: ^1M^7r ^1Ð^7innertime to ^0ÐàrkQµàkè: Gf. You make up 7 of my 143 kills.
+[Sat Nov 02 23:51:00 2013]  say: ^0ÐàrkQµàkè: god time :)
+[Sat Nov 02 23:51:04 2013]  say: ^1M^7r ^1Ð^7innertime: lol.
+[Sat Nov 02 23:51:22 2013]  say: ^0ÐàrkQµàkè: how come pinkie isn't moving?
+[Sat Nov 02 23:51:26 2013]  say: ^1M^7r ^1Ð^7innertime: he's a bot
+[Sat Nov 02 23:51:26 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:51:48 2013]  Kill: 3 4 3: ^1M^7r ^1Ð^7innertime killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 02 23:51:48 2013]  tell: ^1M^7r ^1Ð^7innertime to ^6Pinkie Bot^7: Gf. You make up 7 of my 144 kills.
+[Sat Nov 02 23:52:13 2013]  tell: ^1M^7r ^1Ð^7innertime to ^0ÐàrkQµàkè: Good luck ;3
+[Sat Nov 02 23:52:22 2013]  Kill: 3 1 3: ^1M^7r ^1Ð^7innertime killed ^0ÐàrkQµàkè by MOD_SABER
+[Sat Nov 02 23:52:22 2013]  tell: ^1M^7r ^1Ð^7innertime to ^0ÐàrkQµàkè: Gf. You make up 3 of my 25 successful duels.
+[Sat Nov 02 23:52:23 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:52:28 2013]  say: ^0ÐàrkQµàkè: haha no way I can win :p
+[Sat Nov 02 23:52:30 2013]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sat Nov 02 23:52:49 2013]  say: ^0ÐàrkQµàkè: alright time to finish off the night with some l4d2 :) thx for getting me started
+[Sat Nov 02 23:52:51 2013]  say: ^1M^7r ^1Ð^7innertime: it attacks 3 times every 1 millisecond ;3
+[Sat Nov 02 23:52:54 2013]  say: ^1M^7r ^1Ð^7innertime: no problem xD
+[Sat Nov 02 23:53:01 2013]  Item: 0 weapon_saber
+[Sat Nov 02 23:53:04 2013]  Kill: 1022 1 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sat Nov 02 23:53:04 2013]  Kill: 1022 4 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sat Nov 02 23:53:05 2013]  say: ^0ÐàrkQµàkè: that's a crazy aoe attack and makermodule has some great commands
+[Sat Nov 02 23:53:08 2013]  say: ^1M^7r ^1Ð^7innertime: xd
+[Sat Nov 02 23:53:11 2013]  tell: ^1M^7r ^1Ð^7innertime to ^7E^0itani: Good luck ;3
+[Sat Nov 02 23:53:15 2013]  say: ^0ÐàrkQµàkè: but it's gonna take me a while to learn everything haha
+[Sat Nov 02 23:53:19 2013]  say: ^0ÐàrkQµàkè: I've got uni in between :/
+[Sat Nov 02 23:53:20 2013]  say: ^1M^7r ^1Ð^7innertime: xd
+[Sat Nov 02 23:53:30 2013]  Kill: 3 0 3: ^1M^7r ^1Ð^7innertime killed ^7E^0itani by MOD_SABER
+[Sat Nov 02 23:53:31 2013]  tell: ^1M^7r ^1Ð^7innertime to ^7E^0itani: Gf. You make up 5 of my 26 successful duels.
+[Sat Nov 02 23:53:41 2013]  say: ^0ÐàrkQµàkè: ah well, cya round guys
+[Sat Nov 02 23:53:43 2013]  say: ^0ÐàrkQµàkè: hf
+[Sat Nov 02 23:53:43 2013]  say: ^1M^7r ^1Ð^7innertime: cya ;34
+[Sat Nov 02 23:53:48 2013]  ClientDisconnect: 1
+[Sat Nov 02 23:53:52 2013]  say: ^7E^0itani: im goin to your server 
+[Sat Nov 02 23:53:55 2013]  ClientDisconnect: 0
+[Sat Nov 02 23:53:55 2013]  say: ^1M^7r ^1Ð^7innertime: k xD
+[Sat Nov 02 23:53:59 2013]  ClientDisconnect: 3
+[Sun Nov 03 01:23:49 2013]  Exit: Timelimit hit.
+[Sun Nov 03 01:23:49 2013]  score: -3  ping: 58  client: 4 ^6Pinkie Bot^7
+[Sun Nov 03 09:01:32 2013]  ClientConnect: 0
+[Sun Nov 03 09:01:32 2013]  mlog:Player Padawan, connected. With IP - 159.255.234.38:29070 
+[Sun Nov 03 09:01:44 2013]  ClientBegin: 0
+[Sun Nov 03 09:01:57 2013]  ShutdownGame:
+[Sun Nov 03 09:01:57 2013]  ------------------------------------------------------------

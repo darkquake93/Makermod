@@ -1,0 +1,639 @@
+[Sun Jan 12 06:52:51 2014]  ------------------------------------------------------------
+[Sun Jan 12 06:52:51 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jan 12 06:52:53 2014]  ClientConnect: 0
+[Sun Jan 12 06:53:18 2014]  ClientBegin: 0
+[Sun Jan 12 06:53:25 2014]  ClientDisconnect: 0
+[Sun Jan 12 08:52:49 2014]  Exit: Timelimit hit.
+[Sun Jan 12 15:44:15 2014]  ClientConnect: 0
+[Sun Jan 12 15:44:15 2014]  mlog:Player Padawan, connected. With IP - 79.119.22.103:29070 
+[Sun Jan 12 15:44:46 2014]  ClientBegin: 0
+[Sun Jan 12 15:45:14 2014]  ClientDisconnect: 0
+[Sun Jan 12 15:49:00 2014]  ClientConnect: 0
+[Sun Jan 12 15:49:00 2014]  mlog:Player Padawan, connected. With IP - 79.119.22.103:29070 
+[Sun Jan 12 15:49:27 2014]  ClientBegin: 0
+[Sun Jan 12 15:49:32 2014]  ShutdownGame:
+[Sun Jan 12 15:49:32 2014]  ------------------------------------------------------------
+[Sun Jan 12 15:49:34 2014]  ------------------------------------------------------------
+[Sun Jan 12 15:49:34 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jan 12 15:49:35 2014]  ClientConnect: 0
+[Sun Jan 12 15:49:48 2014]  ClientBegin: 0
+[Sun Jan 12 15:49:59 2014]  print "^1Imperial Officer^7 @@@PLRENAME ^4Clone Trooper
+"[Sun Jan 12 15:50:28 2014]  Item: 0 ammo_all
+[Sun Jan 12 15:56:59 2014]  ClientConnect: 1
+[Sun Jan 12 15:56:59 2014]  mlog:Player Padawan, connected. With IP - 78.80.100.24:16331 
+[Sun Jan 12 15:57:40 2014]  ClientBegin: 1
+[Sun Jan 12 15:57:41 2014]  say: Hunty._cz_.: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 15 ^7- ^5U^7ltra^5U^7tility^5.^7net^5.^7tc
+[Sun Jan 12 15:57:52 2014]  say: Hunty._cz_.: here
+[Sun Jan 12 15:58:04 2014]  say: ^4Clone Trooper: press tab :D
+[Sun Jan 12 15:58:09 2014]  say: Hunty._cz_.: use the white clone
+[Sun Jan 12 15:58:18 2014]  say: Hunty._cz_.: cauze
+[Sun Jan 12 15:58:20 2014]  say: Hunty._cz_.: u starting
+[Sun Jan 12 15:58:25 2014]  say: ^4Clone Trooper: lest start firs
+[Sun Jan 12 15:58:30 2014]  say: ^4Clone Trooper: on kamino training
+[Sun Jan 12 15:58:35 2014]  say: ^4Clone Trooper: so 
+[Sun Jan 12 15:58:37 2014]  say: ^4Clone Trooper: 3
+[Sun Jan 12 15:58:39 2014]  say: ^4Clone Trooper: 2
+[Sun Jan 12 15:58:39 2014]  say: ^4Clone Trooper: 1
+[Sun Jan 12 15:58:45 2014]  say: Hunty._cz_.: lol
+[Sun Jan 12 15:58:48 2014]  say: ^4Clone Trooper: oah
+[Sun Jan 12 15:58:55 2014]  say: ^4Clone Trooper: i need go training
+[Sun Jan 12 15:59:11 2014]  say: ^4Clone Trooper: here
+[Sun Jan 12 15:59:17 2014]  say: ^4Clone Trooper: oh its locked
+[Sun Jan 12 15:59:23 2014]  say: ^4Clone Trooper: no weapons
+[Sun Jan 12 15:59:28 2014]  say: ^4Clone Trooper: ah security here
+[Sun Jan 12 16:00:04 2014]  say: ^4Clone Trooper: i must meet with officer
+[Sun Jan 12 16:00:08 2014]  say: Hunty._cz_.: i saved only this lol
+[Sun Jan 12 16:00:12 2014]  say: ^4Clone Trooper: officer
+[Sun Jan 12 16:00:21 2014]  say: ^4Clone Trooper: i am clone number 7676
+[Sun Jan 12 16:00:29 2014]  say: ^4Clone Trooper: im here for target training
+[Sun Jan 12 16:00:35 2014]  say: Hunty._cz_.: oh
+[Sun Jan 12 16:00:39 2014]  say: Hunty._cz_.: this
+[Sun Jan 12 16:00:41 2014]  say: Hunty._cz_.: is shot
+[Sun Jan 12 16:00:51 2014]  say: ^4Clone Trooper: can u give me weapon so i can train?
+[Sun Jan 12 16:01:29 2014]  say: Hunty._cz_.: press tab
+[Sun Jan 12 16:01:32 2014]  say: ^4Clone Trooper: i did
+[Sun Jan 12 16:01:33 2014]  say: Hunty._cz_.: i and u new clones
+[Sun Jan 12 16:01:36 2014]  say: Hunty._cz_.: so lets shot
+[Sun Jan 12 16:02:11 2014]  say: ^4Clone Trooper: wait
+[Sun Jan 12 16:02:14 2014]  say: ^4Clone Trooper: idee!!
+[Sun Jan 12 16:02:19 2014]  say: Hunty._cz_.: ok so now sniping
+[Sun Jan 12 16:03:07 2014]  say: Hunty._cz_.: NOW
+[Sun Jan 12 16:03:13 2014]  say: Hunty._cz_.: no
+[Sun Jan 12 16:03:15 2014]  say: Hunty._cz_.: shit
+[Sun Jan 12 16:03:20 2014]  say: Hunty._cz_.: training with real people
+[Sun Jan 12 16:03:21 2014]  Item: 1 weapon_bowcaster
+[Sun Jan 12 16:03:29 2014]  say: Hunty._cz_.: /notarget
+[Sun Jan 12 16:03:36 2014]  say: ^4Clone Trooper: done
+[Sun Jan 12 16:03:41 2014]  say: ^4Clone Trooper: ehm!!!!
+[Sun Jan 12 16:03:44 2014]  say: ^4Clone Trooper: rename
+[Sun Jan 12 16:03:54 2014]  print "Hunty._cz_.^7 @@@PLRENAME Commander_Brack
+"[Sun Jan 12 16:04:00 2014]  say: Commander_Brack: dont
+[Sun Jan 12 16:04:07 2014]  Item: 1 weapon_blaster
+[Sun Jan 12 16:04:58 2014]  say: Commander_Brack: NOW SNIPING
+[Sun Jan 12 16:05:03 2014]  say: ^4Clone Trooper: from here
+[Sun Jan 12 16:05:19 2014]  say: Commander_Brack: NOW
+[Sun Jan 12 16:05:37 2014]  say: Commander_Brack: VERY GUD
+[Sun Jan 12 16:05:44 2014]  say: ^4Clone Trooper: now
+[Sun Jan 12 16:05:46 2014]  say: ^4Clone Trooper: this
+[Sun Jan 12 16:05:55 2014]  say: Commander_Brack: im not boxer
+[Sun Jan 12 16:05:56 2014]  say: Commander_Brack: sec
+[Sun Jan 12 16:05:59 2014]  say: ^4Clone Trooper: i am xd
+[Sun Jan 12 16:06:02 2014]  say: Commander_Brack: i ask commander john
+[Sun Jan 12 16:06:12 2014]  say: Commander_Brack: press tab
+[Sun Jan 12 16:06:23 2014]  say: Commander_Brack: its cbrack
+[Sun Jan 12 16:06:26 2014]  tell: Commander_Brack to ^4Clone Trooper: ok :D?
+[Sun Jan 12 16:06:35 2014]  say: Commander_Brack: this is the new clone trooper
+[Sun Jan 12 16:06:38 2014]  say: Commander_Brack: yah and wat
+[Sun Jan 12 16:06:42 2014]  say: Commander_Brack: learn him box
+[Sun Jan 12 16:06:48 2014]  print "Commander_Brack^7 @@@PLRENAME Commander_Johny
+"[Sun Jan 12 16:06:49 2014]  say: Commander_Johny: sure
+[Sun Jan 12 16:06:51 2014]  say: Commander_Johny: come kid
+[Sun Jan 12 16:06:55 2014]  say: ^4Clone Trooper: um
+[Sun Jan 12 16:06:56 2014]  say: ^4Clone Trooper: sir
+[Sun Jan 12 16:07:01 2014]  say: ^4Clone Trooper: ik boxing xd
+[Sun Jan 12 16:07:07 2014]  say: Commander_Johny: NO U DONT KNOW BOXing
+[Sun Jan 12 16:07:11 2014]  say: Commander_Johny: so
+[Sun Jan 12 16:07:13 2014]  say: Commander_Johny: if u know boxing
+[Sun Jan 12 16:07:14 2014]  say: ^4Clone Trooper: let me show u :D
+[Sun Jan 12 16:07:32 2014]  say: Commander_Johny: off god mode
+[Sun Jan 12 16:07:42 2014]  say: ^4Clone Trooper: i did
+[Sun Jan 12 16:07:43 2014]  say: Commander_Johny: GO DIE
+[Sun Jan 12 16:07:47 2014]  Kill: 1 1 39: Commander_Johny killed Commander_Johny by MOD_SUICIDE
+[Sun Jan 12 16:07:50 2014]  say: Commander_Johny: suicide
+[Sun Jan 12 16:07:57 2014]  Kill: 0 0 39: ^4Clone Trooper killed ^4Clone Trooper by MOD_SUICIDE
+[Sun Jan 12 16:08:05 2014]  say: Commander_Johny: NOW BACK
+[Sun Jan 12 16:08:22 2014]  Kill: 0 0 39: ^4Clone Trooper killed ^4Clone Trooper by MOD_SUICIDE
+[Sun Jan 12 16:08:35 2014]  say: ^4Clone Trooper: fuck
+[Sun Jan 12 16:09:03 2014]  say: Commander_Johny: U MAD
+[Sun Jan 12 16:10:01 2014]  say: Commander_Johny: GOD OFF
+[Sun Jan 12 16:10:33 2014]  Kill: 0 1 2: ^4Clone Trooper killed Commander_Johny by MOD_MELEE
+[Sun Jan 12 16:10:34 2014]  say: Commander_Johny: ^0{^2™for u^0}
+[Sun Jan 12 16:10:37 2014]  say: Commander_Johny: u punching lol
+[Sun Jan 12 16:10:41 2014]  say: ^4Clone Trooper: and ?
+[Sun Jan 12 16:10:45 2014]  say: Commander_Johny: this is not box ._.
+[Sun Jan 12 16:10:48 2014]  say: ^4Clone Trooper: yes it is
+[Sun Jan 12 16:10:52 2014]  say: ^4Clone Trooper: punching is box
+[Sun Jan 12 16:10:54 2014]  say: ^4Clone Trooper: and kick
+[Sun Jan 12 16:10:56 2014]  say: ^4Clone Trooper: etx
+[Sun Jan 12 16:10:58 2014]  say: Commander_Johny: no
+[Sun Jan 12 16:10:58 2014]  say: ^4Clone Trooper: etc*
+[Sun Jan 12 16:11:00 2014]  say: ^4Clone Trooper: yes 
+[Sun Jan 12 16:11:16 2014]  say: Commander_Johny: u enemy is down
+[Sun Jan 12 16:11:18 2014]  say: Commander_Johny: u can punch
+[Sun Jan 12 16:11:22 2014]  say: Commander_Johny: u enemy is not in down u cant!
+[Sun Jan 12 16:11:25 2014]  say: ^4Clone Trooper: yes i cant
+[Sun Jan 12 16:11:29 2014]  say: ^4Clone Trooper: can*
+[Sun Jan 12 16:11:38 2014]  say: Commander_Johny: u cant
+[Sun Jan 12 16:11:42 2014]  say: ^4Clone Trooper: yes go google it
+[Sun Jan 12 16:14:23 2014]  say: Commander_Johny: this u cant
+[Sun Jan 12 16:15:06 2014]  say: Commander_Johny: wt
+[Sun Jan 12 16:15:09 2014]  say: ^4Clone Trooper: lo
+[Sun Jan 12 16:15:19 2014]  say: ^4Clone Trooper: no force
+[Sun Jan 12 16:16:09 2014]  say: ^4Clone Trooper: ok stop
+[Sun Jan 12 16:16:18 2014]  say: Commander_Johny: i win
+[Sun Jan 12 16:16:20 2014]  say: ^4Clone Trooper: nah
+[Sun Jan 12 16:16:22 2014]  say: Commander_Johny: u here for training
+[Sun Jan 12 16:16:22 2014]  say: ^4Clone Trooper: i didnt die
+[Sun Jan 12 16:16:30 2014]  say: ^4Clone Trooper: u died so
+[Sun Jan 12 16:16:30 2014]  say: Commander_Johny: U MUST LEARN BOX 
+[Sun Jan 12 16:16:31 2014]  say: ^4Clone Trooper: i win
+[Sun Jan 12 16:16:34 2014]  say: Commander_Johny: nop
+[Sun Jan 12 16:16:37 2014]  say: Commander_Johny: THIS
+[Sun Jan 12 16:16:41 2014]  say: Commander_Johny: WAT U DOING LOL
+[Sun Jan 12 16:16:43 2014]  say: ^4Clone Trooper: ik box better then u
+[Sun Jan 12 16:16:50 2014]  say: Commander_Johny: no u dont know box
+[Sun Jan 12 16:16:53 2014]  say: ^4Clone Trooper: yes i do
+[Sun Jan 12 16:17:00 2014]  say: Commander_Johny: u a new clone u dont know
+[Sun Jan 12 16:17:03 2014]  say: Commander_Johny: so
+[Sun Jan 12 16:17:04 2014]  say: ^4Clone Trooper: and if ik?
+[Sun Jan 12 16:17:09 2014]  say: Commander_Johny: stop
+[Sun Jan 12 16:17:11 2014]  say: ^4Clone Trooper: ok
+[Sun Jan 12 16:17:29 2014]  say: Commander_Johny: JOh: this is first box tacitc
+[Sun Jan 12 16:17:32 2014]  say: Commander_Johny: stay
+[Sun Jan 12 16:17:39 2014]  say: Commander_Johny: ._.
+[Sun Jan 12 16:17:46 2014]  say: Commander_Johny: now u
+[Sun Jan 12 16:17:58 2014]  say: Commander_Johny: bad
+[Sun Jan 12 16:18:04 2014]  say: Commander_Johny: u must cover time
+[Sun Jan 12 16:18:06 2014]  say: Commander_Johny: look
+[Sun Jan 12 16:18:12 2014]  say: Commander_Johny: ._.
+[Sun Jan 12 16:18:30 2014]  say: Commander_Johny: AND NOW
+[Sun Jan 12 16:18:34 2014]  say: Commander_Johny: YES
+[Sun Jan 12 16:18:37 2014]  say: Commander_Johny: very good
+[Sun Jan 12 16:18:52 2014]  say: ^4Clone Trooper: :D
+[Sun Jan 12 16:18:55 2014]  say: Commander_Johny: dauh
+[Sun Jan 12 16:19:15 2014]  say: Commander_Johny: Brack: ehm so
+[Sun Jan 12 16:19:23 2014]  say: Commander_Johny: next day will next training
+[Sun Jan 12 16:19:46 2014]  say: Commander_Johny: ok so
+[Sun Jan 12 16:19:50 2014]  say: ^4Clone Trooper: ehm!
+[Sun Jan 12 16:19:52 2014]  say: ^4Clone Trooper: name 
+[Sun Jan 12 16:19:58 2014]  print "Commander_Johny^7 @@@PLRENAME Commander_Brack
+"[Sun Jan 12 16:20:00 2014]  say: Commander_Brack: first
+[Sun Jan 12 16:20:06 2014]  say: Commander_Brack: combat training was nice
+[Sun Jan 12 16:20:25 2014]  say: ^4Clone Trooper: wanna box them
+[Sun Jan 12 16:20:27 2014]  say: Commander_Brack: blaster in hands
+[Sun Jan 12 16:20:35 2014]  say: Commander_Brack: u too clone
+[Sun Jan 12 16:20:36 2014]  say: Commander_Brack: so go
+[Sun Jan 12 16:20:42 2014]  Kill: 1 0 6: Commander_Brack killed ^4Clone Trooper by MOD_BLASTER
+[Sun Jan 12 16:20:43 2014]  say: Commander_Brack: ^0{^2€Z3Ð^0}
+[Sun Jan 12 16:20:46 2014]  say: ^4Clone Trooper: wtf man?
+[Sun Jan 12 16:20:46 2014]  Item: 1 weapon_blaster
+[Sun Jan 12 16:20:52 2014]  say: Commander_Brack: u killing u brothers?
+[Sun Jan 12 16:21:48 2014]  say: Commander_Brack: ok so
+[Sun Jan 12 16:21:55 2014]  say: Commander_Brack: this day was well
+[Sun Jan 12 16:21:56 2014]  say: Commander_Brack: and i think
+[Sun Jan 12 16:21:57 2014]  say: Commander_Brack: u all 
+[Sun Jan 12 16:22:11 2014]  say: Commander_Brack: now have new skills
+[Sun Jan 12 16:22:12 2014]  say: Commander_Brack: so
+[Sun Jan 12 16:22:18 2014]  say: Commander_Brack: u all can sleep now
+[Sun Jan 12 16:22:19 2014]  say: Commander_Brack: Bye
+[Sun Jan 12 16:22:21 2014]  say: Commander_Brack: next day
+[Sun Jan 12 16:22:30 2014]  say: Commander_Brack: bye next day?
+[Sun Jan 12 16:22:33 2014]  say: Commander_Brack: can u leave?
+[Sun Jan 12 16:22:37 2014]  say: ^4Clone Trooper: yes sir!
+[Sun Jan 12 16:22:47 2014]  Item: 0 weapon_blaster
+[Sun Jan 12 16:22:47 2014]  Item: 1 weapon_blaster
+[Sun Jan 12 16:24:10 2014]  say: Commander_Brack: press tab
+[Sun Jan 12 16:24:17 2014]  say: Commander_Brack: hi archie
+[Sun Jan 12 16:24:18 2014]  say: ^4Clone Trooper: hello there bro
+[Sun Jan 12 16:24:25 2014]  say: Commander_Brack: wanna come to my home?
+[Sun Jan 12 16:24:25 2014]  say: ^4Clone Trooper: ugh i hate training
+[Sun Jan 12 16:24:28 2014]  say: Commander_Brack: for foood?
+[Sun Jan 12 16:24:30 2014]  say: ^4Clone Trooper: k
+[Sun Jan 12 16:24:41 2014]  say: Commander_Brack: the traiing was today wery cool
+[Sun Jan 12 16:24:45 2014]  say: ^4Clone Trooper: nah
+[Sun Jan 12 16:24:49 2014]  say: ^4Clone Trooper: i hate brack
+[Sun Jan 12 16:24:55 2014]  print "Commander_Brack^7 @@@PLRENAME ^4Clone
+"[Sun Jan 12 16:25:03 2014]  print "^4Clone^7 @@@PLRENAME ^4Clone Trooper.
+"[Sun Jan 12 16:25:16 2014]  say: ^4Clone Trooper.: why brack
+[Sun Jan 12 16:25:19 2014]  say: ^4Clone Trooper: eh
+[Sun Jan 12 16:25:26 2014]  say: ^4Clone Trooper: hes boring
+[Sun Jan 12 16:25:34 2014]  say: ^4Clone Trooper.: and mr john?
+[Sun Jan 12 16:25:43 2014]  say: ^4Clone Trooper: omg hes an asshole
+[Sun Jan 12 16:25:50 2014]  say: ^4Clone Trooper: hes thinks hes the best
+[Sun Jan 12 16:25:52 2014]  say: ^4Clone Trooper: but hes not
+[Sun Jan 12 16:26:08 2014]  say: ^4Clone Trooper.: captain richi is very good teacher
+[Sun Jan 12 16:26:10 2014]  say: ^4Clone Trooper.: i like him
+[Sun Jan 12 16:26:14 2014]  say: ^4Clone Trooper: i dunno him
+[Sun Jan 12 16:26:28 2014]  say: ^4Clone Trooper: hes a what trainer?
+[Sun Jan 12 16:26:29 2014]  say: ^4Clone Trooper.: oh course
+[Sun Jan 12 16:26:32 2014]  say: ^4Clone Trooper.: u in first part
+[Sun Jan 12 16:26:36 2014]  say: ^4Clone Trooper: and u?
+[Sun Jan 12 16:26:41 2014]  say: ^4Clone Trooper.: 2
+[Sun Jan 12 16:26:43 2014]  Kill: 1 1 27: ^4Clone Trooper. killed ^4Clone Trooper. by MOD_DET_PACK_SPLASH
+[Sun Jan 12 16:26:54 2014]  Item: 1 weapon_det_pack
+[Sun Jan 12 16:27:08 2014]  say: ^4Clone Trooper: can we share this house i dont have
+[Sun Jan 12 16:27:13 2014]  say: ^4Clone Trooper.: sure
+[Sun Jan 12 16:27:15 2014]  say: ^4Clone Trooper: ;D
+[Sun Jan 12 16:27:24 2014]  say: ^4Clone Trooper.: help me?
+[Sun Jan 12 16:27:33 2014]  say: ^4Clone Trooper: well i have to build my room too
+[Sun Jan 12 16:27:42 2014]  say: ^4Clone Trooper.: OK SO there is u room
+[Sun Jan 12 16:27:48 2014]  say: ^4Clone Trooper: yes
+[Sun Jan 12 16:29:02 2014]  say: ^4Clone Trooper: lol
+[Sun Jan 12 16:31:04 2014]  say: ^4Clone Trooper: oh nice
+[Sun Jan 12 16:31:08 2014]  say: ^4Clone Trooper.: ITS Tv
+[Sun Jan 12 16:31:12 2014]  say: ^4Clone Trooper: wanna come to see mine?
+[Sun Jan 12 16:31:15 2014]  say: ^4Clone Trooper.: ye
+[Sun Jan 12 16:31:24 2014]  say: ^4Clone Trooper.: WOW
+[Sun Jan 12 16:31:34 2014]  say: ^4Clone Trooper.: Very Nice
+[Sun Jan 12 16:34:42 2014]  say: ^4Clone Trooper.: ehm
+[Sun Jan 12 16:34:46 2014]  say: ^4Clone Trooper: yes?
+[Sun Jan 12 16:34:48 2014]  say: ^4Clone Trooper.: this is only room ok?
+[Sun Jan 12 16:34:51 2014]  say: ^4Clone Trooper: yes
+[Sun Jan 12 16:34:58 2014]  say: ^4Clone Trooper.: there is main
+[Sun Jan 12 16:35:03 2014]  say: ^4Clone Trooper.: so there kithcen and more
+[Sun Jan 12 16:35:06 2014]  say: ^4Clone Trooper: ah
+[Sun Jan 12 16:35:22 2014]  say: ^4Clone Trooper.: there
+[Sun Jan 12 16:35:27 2014]  say: ^4Clone Trooper.: there creating food
+[Sun Jan 12 16:35:30 2014]  say: ^4Clone Trooper.: u know what is that no?
+[Sun Jan 12 16:35:34 2014]  say: ^4Clone Trooper: yes ik
+[Sun Jan 12 16:35:37 2014]  say: ^4Clone Trooper: to eat
+[Sun Jan 12 16:36:54 2014]  say: ^4Clone Trooper: bro
+[Sun Jan 12 16:37:00 2014]  say: ^4Clone Trooper: do /mplace mp/holo
+[Sun Jan 12 16:37:04 2014]  say: ^4Clone Trooper: for trainers contact us
+[Sun Jan 12 16:37:08 2014]  say: ^4Clone Trooper.: sec
+[Sun Jan 12 16:37:17 2014]  say: ^4Clone Trooper: i did
+[Sun Jan 12 16:37:20 2014]  say: ^4Clone Trooper: do it at ur room
+[Sun Jan 12 16:37:26 2014]  say: ^4Clone Trooper: to contact u
+[Sun Jan 12 16:38:38 2014]  say: ^4Clone Trooper: LOL
+[Sun Jan 12 16:38:40 2014]  say: ^4Clone Trooper: COME HER
+[Sun Jan 12 16:38:59 2014]  say: ^4Clone Trooper.: wat
+[Sun Jan 12 16:39:03 2014]  say: ^4Clone Trooper: our ship
+[Sun Jan 12 16:39:10 2014]  say: ^4Clone Trooper.: NOO
+[Sun Jan 12 16:39:14 2014]  say: ^4Clone Trooper: no?
+[Sun Jan 12 16:39:14 2014]  say: ^4Clone Trooper.: our
+[Sun Jan 12 16:39:18 2014]  say: ^4Clone Trooper: yes our
+[Sun Jan 12 16:39:20 2014]  say: ^4Clone Trooper: i sayd our
+[Sun Jan 12 16:39:21 2014]  say: ^4Clone Trooper.: you ship
+[Sun Jan 12 16:39:22 2014]  say: ^4Clone Trooper.: not mine
+[Sun Jan 12 16:39:24 2014]  say: ^4Clone Trooper: ah 
+[Sun Jan 12 16:39:25 2014]  say: ^4Clone Trooper: ok
+[Sun Jan 12 16:39:25 2014]  say: ^4Clone Trooper.: i dont have ship
+[Sun Jan 12 16:39:53 2014]  say: ^4Clone Trooper: TELL MEH!
+[Sun Jan 12 16:40:10 2014]  say: ^4Clone Trooper.: /mplace imperial/bunk
+[Sun Jan 12 16:40:14 2014]  say: ^4Clone Trooper: :D ty
+[Sun Jan 12 16:42:07 2014]  say: ^4Clone Trooper: and this is?
+[Sun Jan 12 16:42:14 2014]  say: ^4Clone Trooper.: this is alarm
+[Sun Jan 12 16:42:17 2014]  say: ^4Clone Trooper: ah
+[Sun Jan 12 16:42:23 2014]  say: ^4Clone Trooper: im hungry
+[Sun Jan 12 16:42:25 2014]  say: ^4Clone Trooper.: this is radio
+[Sun Jan 12 16:42:30 2014]  say: ^4Clone Trooper.: not now
+[Sun Jan 12 16:42:34 2014]  say: ^4Clone Trooper.: tommorow
+[Sun Jan 12 16:42:37 2014]  say: ^4Clone Trooper: wait
+[Sun Jan 12 16:42:40 2014]  say: ^4Clone Trooper: and our training 
+[Sun Jan 12 16:42:41 2014]  say: ^4Clone Trooper: !?
+[Sun Jan 12 16:42:48 2014]  say: ^4Clone Trooper: were late!
+[Sun Jan 12 16:42:50 2014]  say: ^4Clone Trooper.: is 0:00
+[Sun Jan 12 16:42:52 2014]  say: ^4Clone Trooper: oh
+[Sun Jan 12 16:42:59 2014]  say: ^4Clone Trooper: well i go sleep
+[Sun Jan 12 16:43:10 2014]  say: ^4Clone Trooper.: do this 
+[Sun Jan 12 16:43:26 2014]  say: ^4Clone Trooper.: ah
+[Sun Jan 12 16:43:27 2014]  say: ^4Clone Trooper: wait
+[Sun Jan 12 16:43:44 2014]  say: ^4Clone Trooper.: /mplace imperial/bunk_new
+[Sun Jan 12 16:44:12 2014]  say: ^4Clone Trooper.: good night
+[Sun Jan 12 16:44:14 2014]  say: ^4Clone Trooper: brb i get drink
+[Sun Jan 12 16:44:56 2014]  say: ^4Clone Trooper: back
+[Sun Jan 12 16:44:59 2014]  say: ^4Clone Trooper: oah
+[Sun Jan 12 16:45:00 2014]  say: ^4Clone Trooper: its
+[Sun Jan 12 16:45:05 2014]  say: ^4Clone Trooper: 6:00 
+[Sun Jan 12 16:45:08 2014]  say: ^4Clone Trooper.: no
+[Sun Jan 12 16:45:11 2014]  say: ^4Clone Trooper: xd
+[Sun Jan 12 16:45:13 2014]  say: ^4Clone Trooper.: 5 min and is 3:00
+[Sun Jan 12 16:45:17 2014]  say: ^4Clone Trooper: xd
+[Sun Jan 12 16:46:10 2014]  say: ^4Clone Trooper: lol
+[Sun Jan 12 16:46:15 2014]  say: ^4Clone Trooper: whats this?
+[Sun Jan 12 16:46:21 2014]  say: ^4Clone Trooper.: there i sleep
+[Sun Jan 12 16:46:26 2014]  say: ^4Clone Trooper: and this
+[Sun Jan 12 16:46:36 2014]  say: ^4Clone Trooper.: chlor
+[Sun Jan 12 16:46:39 2014]  say: ^4Clone Trooper: ah
+[Sun Jan 12 16:48:15 2014]  say: ^4Clone Trooper: this is for kitchen
+[Sun Jan 12 16:48:32 2014]  say: ^4Clone Trooper.: wat list
+[Sun Jan 12 16:48:35 2014]  say: ^4Clone Trooper: i did
+[Sun Jan 12 16:48:46 2014]  say: ^4Clone Trooper: /mplace nar_shadda/table01
+[Sun Jan 12 16:48:55 2014]  say: ^4Clone Trooper: nar_shaddar*
+[Sun Jan 12 16:49:36 2014]  say: ^4Clone Trooper: look
+[Sun Jan 12 16:49:38 2014]  say: ^4Clone Trooper: a book :D
+[Sun Jan 12 16:50:04 2014]  say: ^4Clone Trooper: a plant ;D
+[Sun Jan 12 16:50:21 2014]  say: ^4Clone Trooper: do u want this/?
+[Sun Jan 12 16:50:28 2014]  say: ^4Clone Trooper.: eh nu
+[Sun Jan 12 16:50:53 2014]  say: ^4Clone Trooper: :DDDDDD
+[Sun Jan 12 16:50:59 2014]  say: ^4Clone Trooper.: what the
+[Sun Jan 12 16:51:18 2014]  say: ^4Clone Trooper: it is ammo for my ship
+[Sun Jan 12 16:55:31 2014]  say: ^4Clone Trooper: k my house is done :D
+[Sun Jan 12 16:55:45 2014]  say: ^4Clone Trooper.: home?
+[Sun Jan 12 16:55:49 2014]  say: ^4Clone Trooper: oops
+[Sun Jan 12 16:55:52 2014]  say: ^4Clone Trooper: i mean room xd
+[Sun Jan 12 16:56:04 2014]  say: ^4Clone Trooper: okw
+[Sun Jan 12 16:56:07 2014]  say: ^4Clone Trooper: it is ?
+[Sun Jan 12 16:56:11 2014]  say: ^4Clone Trooper: 5;00?
+[Sun Jan 12 16:56:23 2014]  say: ^4Clone Trooper: at 7:00 we have go training
+[Sun Jan 12 16:56:35 2014]  say: ^4Clone Trooper: so what it is hour?
+[Sun Jan 12 16:56:43 2014]  say: ^4Clone Trooper.: 4:00
+[Sun Jan 12 16:56:48 2014]  say: ^4Clone Trooper.: and why u have this?
+[Sun Jan 12 16:56:49 2014]  say: ^4Clone Trooper: it cant be
+[Sun Jan 12 16:56:58 2014]  say: ^4Clone Trooper: it is 5:)0
+[Sun Jan 12 16:57:02 2014]  say: ^4Clone Trooper: 5:00*
+[Sun Jan 12 16:57:09 2014]  say: ^4Clone Trooper: 2 hours and we go training
+[Sun Jan 12 16:57:14 2014]  say: ^4Clone Trooper.: use normal class
+[Sun Jan 12 16:57:15 2014]  say: ^4Clone Trooper.: u can
+[Sun Jan 12 16:57:18 2014]  say: ^4Clone Trooper: i use
+[Sun Jan 12 16:57:21 2014]  say: ^4Clone Trooper.: NORMAL
+[Sun Jan 12 16:57:24 2014]  say: ^4Clone Trooper.: not clnoe
+[Sun Jan 12 16:57:25 2014]  say: ^4Clone Trooper.: u clone
+[Sun Jan 12 16:58:11 2014]  say: ^4Clone Trooper.: u too twilek lol?
+[Sun Jan 12 16:58:30 2014]  say: ^4Clone Trooper.: USE HUMAN COLOR
+[Sun Jan 12 17:00:19 2014]  say: ^4Clone Trooper.: :D
+[Sun Jan 12 17:00:28 2014]  say: ^4Clone Trooper.: lol
+[Sun Jan 12 17:00:31 2014]  say: ^4Clone Trooper.: dat tits
+[Sun Jan 12 17:00:53 2014]  say: ^4Clone Trooper: now
+[Sun Jan 12 17:00:54 2014]  say: ^4Clone Trooper: :D
+[Sun Jan 12 17:00:59 2014]  say: ^4Clone Trooper.: LOL
+[Sun Jan 12 17:01:09 2014]  say: ^4Clone Trooper.: yes
+[Sun Jan 12 17:01:10 2014]  say: ^4Clone Trooper.: in night
+[Sun Jan 12 17:01:13 2014]  say: ^4Clone Trooper.: for sleep
+[Sun Jan 12 17:01:21 2014]  say: ^4Clone Trooper.: if  u will gonna sleep use this :D
+[Sun Jan 12 17:01:26 2014]  say: ^4Clone Trooper: ik
+[Sun Jan 12 17:01:30 2014]  say: ^4Clone Trooper.: ok go sleep then
+[Sun Jan 12 17:01:43 2014]  say: ^4Clone Trooper.: dont use that
+[Sun Jan 12 17:01:47 2014]  say: ^4Clone Trooper.: i said dont use clone
+[Sun Jan 12 17:01:55 2014]  say: ^4Clone Trooper: why?
+[Sun Jan 12 17:01:59 2014]  say: ^4Clone Trooper.: u in my home
+[Sun Jan 12 17:02:05 2014]  say: ^4Clone Trooper.: policia will searching me
+[Sun Jan 12 17:02:19 2014]  say: ^4Clone Trooper.: is night
+[Sun Jan 12 17:02:21 2014]  say: ^4Clone Trooper.: go sleep
+[Sun Jan 12 17:02:27 2014]  say: ^4Clone Trooper.: me going too
+[Sun Jan 12 17:02:34 2014]  say: ^4Clone Trooper: good nigh
+[Sun Jan 12 17:02:38 2014]  say: ^4Clone Trooper: t
+[Sun Jan 12 17:04:15 2014]  say: ^4Clone Trooper.: ^1AAAAh)
+[Sun Jan 12 17:04:29 2014]  say: ^4Clone Trooper.: good day
+[Sun Jan 12 17:04:34 2014]  say: ^4Clone Trooper: ITS 6:00
+[Sun Jan 12 17:04:39 2014]  say: ^4Clone Trooper: we go at 7:00
+[Sun Jan 12 17:04:50 2014]  say: ^4Clone Trooper.: can i ?
+[Sun Jan 12 17:04:56 2014]  say: ^4Clone Trooper: what?
+[Sun Jan 12 17:05:03 2014]  say: ^4Clone Trooper.: i had fear
+[Sun Jan 12 17:05:07 2014]  say: ^4Clone Trooper.: lightnings
+[Sun Jan 12 17:05:09 2014]  say: ^4Clone Trooper: ok ^^
+[Sun Jan 12 17:05:20 2014]  say: ^4Clone Trooper: wanna sex
+[Sun Jan 12 17:05:20 2014]  say: ^4Clone Trooper.: xd
+[Sun Jan 12 17:05:21 2014]  say: ^4Clone Trooper: ?
+[Sun Jan 12 17:05:24 2014]  say: ^4Clone Trooper.: nah
+[Sun Jan 12 17:05:45 2014]  say: ^4Clone Trooper: oah its  7:00
+[Sun Jan 12 17:05:50 2014]  say: ^4Clone Trooper.: sec
+[Sun Jan 12 17:05:52 2014]  say: ^4Clone Trooper.: i want screensho thta
+[Sun Jan 12 17:05:54 2014]  say: ^4Clone Trooper.: go back
+[Sun Jan 12 17:05:57 2014]  say: ^4Clone Trooper.: to sleep
+[Sun Jan 12 17:06:42 2014]  say: ^4Clone Trooper.: lets go
+[Sun Jan 12 17:06:46 2014]  say: ^4Clone Trooper: ok lest go
+[Sun Jan 12 17:06:48 2014]  say: ^4Clone Trooper: put suit up
+[Sun Jan 12 17:07:01 2014]  say: ^4Clone Trooper.: hm
+[Sun Jan 12 17:07:02 2014]  say: ^4Clone Trooper.: finding
+[Sun Jan 12 17:07:12 2014]  say: ^4Clone Trooper.: lets go
+[Sun Jan 12 17:07:21 2014]  say: ^4Clone Trooper: we have hurry its late
+[Sun Jan 12 17:07:23 2014]  say: ^4Clone Trooper.: sec
+[Sun Jan 12 17:07:24 2014]  say: ^4Clone Trooper.: i have car
+[Sun Jan 12 17:07:28 2014]  say: ^4Clone Trooper: LD
+[Sun Jan 12 17:07:31 2014]  say: ^4Clone Trooper: ;D*
+[Sun Jan 12 17:07:41 2014]  say: ^4Clone Trooper: lagg
+[Sun Jan 12 17:07:43 2014]  say: ^4Clone Trooper.: how spawn vehicle
+[Sun Jan 12 17:07:55 2014]  say: ^4Clone Trooper: /npc spawn vehicle swoop
+[Sun Jan 12 17:08:13 2014]  say: ^4Clone Trooper.: /msleep
+[Sun Jan 12 17:08:20 2014]  say: ^4Clone Trooper.: or on
+[Sun Jan 12 17:08:23 2014]  say: ^4Clone Trooper.: just move
+[Sun Jan 12 17:08:28 2014]  say: ^4Clone Trooper.: i will ride slow
+[Sun Jan 12 17:08:29 2014]  say: ^4Clone Trooper.: come
+[Sun Jan 12 17:08:34 2014]  say: ^4Clone Trooper.: her
+[Sun Jan 12 17:08:48 2014]  say: ^4Clone Trooper.: just sit on my car
+[Sun Jan 12 17:08:50 2014]  say: ^4Clone Trooper.: xD
+[Sun Jan 12 17:08:57 2014]  say: ^4Clone Trooper.: xd
+[Sun Jan 12 17:08:57 2014]  say: ^4Clone Trooper: wait
+[Sun Jan 12 17:09:03 2014]  say: ^4Clone Trooper: i have car too in my ship
+[Sun Jan 12 17:09:04 2014]  say: ^4Clone Trooper: wait
+[Sun Jan 12 17:09:11 2014]  say: ^4Clone Trooper: there
+[Sun Jan 12 17:09:20 2014]  say: ^4Clone Trooper.: where o_o?
+[Sun Jan 12 17:09:48 2014]  say: ^4Clone Trooper: security code
+[Sun Jan 12 17:09:51 2014]  say: ^4Clone Trooper: done
+[Sun Jan 12 17:09:54 2014]  say: ^4Clone Trooper: now u
+[Sun Jan 12 17:10:09 2014]  say: ^4Clone Trooper.: done
+[Sun Jan 12 17:10:25 2014]  say: ^4Clone Trooper: brb 1 miin
+[Sun Jan 12 17:10:27 2014]  say: ^4Clone Trooper.: ok
+[Sun Jan 12 17:13:55 2014]  say: ^4Clone Trooper: back
+[Sun Jan 12 17:14:02 2014]  say: ^4Clone Trooper: so lest go bro
+[Sun Jan 12 17:14:08 2014]  say: ^4Clone Trooper: i wanna finish fast training
+[Sun Jan 12 17:14:14 2014]  say: ^4Clone Trooper: and fuck brack
+[Sun Jan 12 17:14:15 2014]  say: ^4Clone Trooper.: bro?
+[Sun Jan 12 17:14:17 2014]  say: ^4Clone Trooper: O
+[Sun Jan 12 17:14:18 2014]  say: ^4Clone Trooper: SHIT
+[Sun Jan 12 17:14:22 2014]  say: ^4Clone Trooper: BRACK SORRY
+[Sun Jan 12 17:14:28 2014]  say: ^4Clone Trooper.: eh
+[Sun Jan 12 17:14:32 2014]  say: ^4Clone Trooper.: im a girl
+[Sun Jan 12 17:14:34 2014]  say: ^4Clone Trooper: brack:HOW DARE U SAY ME FUCK
+[Sun Jan 12 17:14:41 2014]  say: ^4Clone Trooper.: lol
+[Sun Jan 12 17:14:45 2014]  say: ^4Clone Trooper: HELP!
+[Sun Jan 12 17:14:55 2014]  say: ^4Clone Trooper: hes gonna kill me
+[Sun Jan 12 17:15:11 2014]  say: ^4Clone Trooper: 0.0
+[Sun Jan 12 17:15:11 2014]  say: ^4Clone Trooper.: there is clear
+[Sun Jan 12 17:15:16 2014]  say: ^4Clone Trooper: not really
+[Sun Jan 12 17:15:23 2014]  say: ^4Clone Trooper: BRACK:GOTCHA
+[Sun Jan 12 17:15:29 2014]  say: ^4Clone Trooper: dont look back
+[Sun Jan 12 17:15:32 2014]  say: ^4Clone Trooper.: umm
+[Sun Jan 12 17:15:33 2014]  say: ^4Clone Trooper: SHIT
+[Sun Jan 12 17:15:36 2014]  say: ^4Clone Trooper: HES HIM
+[Sun Jan 12 17:15:44 2014]  say: ^4Clone Trooper.: OH OU
+[Sun Jan 12 17:15:45 2014]  say: ^4Clone Trooper: ur both dead
+[Sun Jan 12 17:15:47 2014]  say: ^4Clone Trooper.: hurry
+[Sun Jan 12 17:15:55 2014]  say: ^4Clone Trooper: shit
+[Sun Jan 12 17:16:02 2014]  say: ^4Clone Trooper: holy1
+[Sun Jan 12 17:16:17 2014]  say: ^4Clone Trooper: FUCK U BRACK
+[Sun Jan 12 17:16:23 2014]  say: ^4Clone Trooper: holy shit
+[Sun Jan 12 17:16:26 2014]  say: ^4Clone Trooper: i killed him
+[Sun Jan 12 17:16:27 2014]  say: ^4Clone Trooper.: FUCK U JOHN
+[Sun Jan 12 17:16:34 2014]  say: ^4Clone Trooper: UH OH
+[Sun Jan 12 17:16:39 2014]  say: ^4Clone Trooper: ALL TROOPERS ARE GONNA KILL US
+[Sun Jan 12 17:16:43 2014]  say: ^4Clone Trooper.: NOP
+[Sun Jan 12 17:16:45 2014]  say: ^4Clone Trooper: and there are 10000000
+[Sun Jan 12 17:16:53 2014]  say: ^4Clone Trooper.: lets use names
+[Sun Jan 12 17:17:05 2014]  say: ^4Clone Trooper: me brack and u john
+[Sun Jan 12 17:17:12 2014]  say: ^4Clone Trooper: so they cant see that they dead
+[Sun Jan 12 17:17:19 2014]  say: ^4Clone Trooper.: and there is the body
+[Sun Jan 12 17:17:21 2014]  say: ^4Clone Trooper.: so
+[Sun Jan 12 17:17:23 2014]  say: ^4Clone Trooper.: lets use that
+[Sun Jan 12 17:17:38 2014]  say: ^4Clone Trooper: we need rename
+[Sun Jan 12 17:17:49 2014]  print "^4Clone Trooper^7 @@@PLRENAME Commander_Brack
+"[Sun Jan 12 17:17:53 2014]  print "^4Clone Trooper.^7 @@@PLRENAME Commander_John
+"[Sun Jan 12 17:17:58 2014]  say: Commander_Brack: so lest go
+[Sun Jan 12 17:18:02 2014]  say: Commander_Brack: wait here
+[Sun Jan 12 17:18:25 2014]  say: Commander_John: Hello guys
+[Sun Jan 12 17:18:27 2014]  say: Commander_Brack: trooper:hello sir!
+[Sun Jan 12 17:18:32 2014]  say: Commander_Brack: wait a sec
+[Sun Jan 12 17:18:37 2014]  say: Commander_Brack: u forgot to train us
+[Sun Jan 12 17:18:47 2014]  say: Commander_Brack: uh come trooper 1
+[Sun Jan 12 17:18:55 2014]  say: Commander_Brack: SHIT
+[Sun Jan 12 17:18:59 2014]  say: Commander_Brack: COMMANDER IRL
+[Sun Jan 12 17:19:08 2014]  say: Commander_Brack: irl:hello there buddy
+[Sun Jan 12 17:19:14 2014]  say: Commander_Brack: are u ready to go geonosis
+[Sun Jan 12 17:19:17 2014]  say: Commander_Brack: uh...
+[Sun Jan 12 17:19:22 2014]  say: Commander_Brack: k
+[Sun Jan 12 17:19:34 2014]  say: Commander_Brack: WTF NOW XD HELP MEH
+[Sun Jan 12 17:19:51 2014]  say: Commander_Brack: ok come my ship and lest go
+[Sun Jan 12 17:20:07 2014]  say: Commander_Brack: trooper 2 : sir john help me boxing
+[Sun Jan 12 17:20:39 2014]  say: Commander_Brack: k we are ready to go
+[Sun Jan 12 17:20:51 2014]  say: Commander_Brack: meanwhile
+[Sun Jan 12 17:20:59 2014]  say: Commander_Brack: were at geonosis
+[Sun Jan 12 17:21:00 2014]  say: Commander_John: what the
+[Sun Jan 12 17:21:04 2014]  say: Commander_Brack: stay here john
+[Sun Jan 12 17:21:20 2014]  say: Commander_Brack: do /notarget off
+[Sun Jan 12 17:21:34 2014]  say: Commander_Brack: k take wep
+[Sun Jan 12 17:21:59 2014]  say: Commander_John: clear
+[Sun Jan 12 17:22:36 2014]  say: Commander_Brack: stay here
+[Sun Jan 12 17:22:40 2014]  say: Commander_John: there is gen
+[Sun Jan 12 17:23:02 2014]  say: Commander_Brack: GET BACK
+[Sun Jan 12 17:24:46 2014]  say: Commander_John: back
+[Sun Jan 12 17:24:49 2014]  say: Commander_Brack: come 
+[Sun Jan 12 17:24:54 2014]  say: Commander_John: sry im eatint chili chips
+[Sun Jan 12 17:25:04 2014]  say: Commander_Brack: clear
+[Sun Jan 12 17:25:09 2014]  say: Commander_John: roger that
+[Sun Jan 12 17:25:29 2014]  say: Commander_John: troopers
+[Sun Jan 12 17:25:55 2014]  say: Commander_John: cover me
+[Sun Jan 12 17:25:58 2014]  say: Commander_Brack: wiat
+[Sun Jan 12 17:26:01 2014]  say: Commander_Brack: it is ATST!
+[Sun Jan 12 17:26:05 2014]  say: Commander_John: IK
+[Sun Jan 12 17:26:28 2014]  say: Commander_Brack: do /notarget
+[Sun Jan 12 17:26:58 2014]  say: Commander_Brack: commander ALAN
+[Sun Jan 12 17:27:03 2014]  say: Commander_Brack: ur okay?
+[Sun Jan 12 17:27:16 2014]  say: Commander_Brack: alan:yes we have to get back ship TROOPERS ARE COMIN
+[Sun Jan 12 17:27:22 2014]  say: Commander_Brack: ok lest go
+[Sun Jan 12 17:27:32 2014]  say: Commander_Brack: do /notarget
+[Sun Jan 12 17:27:54 2014]  say: Commander_Brack: come 
+[Sun Jan 12 17:28:23 2014]  say: Commander_Brack: RUN RUN!!
+[Sun Jan 12 17:28:43 2014]  say: Commander_Brack: 10 SEC TO BOMB EXPLODE RUN!
+[Sun Jan 12 17:28:51 2014]  say: Commander_Brack: 4
+[Sun Jan 12 17:28:52 2014]  say: Commander_Brack: 3
+[Sun Jan 12 17:28:52 2014]  say: Commander_John: AAAA
+[Sun Jan 12 17:28:53 2014]  say: Commander_Brack: 2
+[Sun Jan 12 17:28:55 2014]  say: Commander_Brack: 1
+[Sun Jan 12 17:28:56 2014]  say: Commander_Brack: BOMB
+[Sun Jan 12 17:28:59 2014]  say: Commander_Brack: YES
+[Sun Jan 12 17:29:03 2014]  say: Commander_Brack: WE ESCAPED
+[Sun Jan 12 17:29:20 2014]  say: Commander_Brack: WE
+[Sun Jan 12 17:29:23 2014]  say: Commander_Brack: we done it
+[Sun Jan 12 17:29:25 2014]  say: Commander_Brack: come 
+[Sun Jan 12 17:29:45 2014]  say: Commander_John: EATING
+[Sun Jan 12 17:29:46 2014]  say: Commander_John: SEC
+[Sun Jan 12 17:31:07 2014]  Kill: 0 1 27: Commander_Brack killed Commander_John by MOD_DET_PACK_SPLASH
+[Sun Jan 12 17:31:08 2014]  say: Commander_John: ^0{^2™for u^0}
+[Sun Jan 12 17:31:24 2014]  say: Commander_John: BACK
+[Sun Jan 12 17:31:49 2014]  say: Commander_Brack: k come
+[Sun Jan 12 17:32:02 2014]  say: Commander_Brack: wait here
+[Sun Jan 12 17:32:08 2014]  say: Commander_John: WHY NO GO BACK TO HOME
+[Sun Jan 12 17:32:10 2014]  say: Commander_John: IN HOME IS NO DANGER
+[Sun Jan 12 17:32:14 2014]  say: Commander_Brack: wait
+[Sun Jan 12 17:32:21 2014]  say: Commander_Brack: WE NEED REPORT COMMANDER RL
+[Sun Jan 12 17:32:23 2014]  say: Commander_Brack: irl
+[Sun Jan 12 17:32:26 2014]  say: Commander_Brack: k come
+[Sun Jan 12 17:32:55 2014]  say: Commander_Brack: irl:guys i have to say something
+[Sun Jan 12 17:33:05 2014]  say: Commander_Brack: irl;gtfo from academy
+[Sun Jan 12 17:33:12 2014]  say: Commander_Brack: why
+[Sun Jan 12 17:33:33 2014]  say: Commander_Brack: ik u trooper s and killed brack with john
+[Sun Jan 12 17:33:51 2014]  say: Commander_Brack: *ALARM*
+[Sun Jan 12 17:33:55 2014]  say: Commander_Brack: SHIT RUN!
+[Sun Jan 12 17:34:00 2014]  say: Commander_Brack: DO NOTARGET
+[Sun Jan 12 17:34:12 2014]  say: Commander_Brack: RUN
+[Sun Jan 12 17:34:39 2014]  say: Commander_John: come hurry
+[Sun Jan 12 17:34:48 2014]  say: Commander_Brack: OMG
+[Sun Jan 12 17:35:04 2014]  say: Commander_John: that was amazing .,.
+[Sun Jan 12 17:35:16 2014]  say: Commander_Brack: WTF ARE WE DOING NOWW!? 100000 TROOPERS ARE GONNA KILL US
+[Sun Jan 12 17:35:26 2014]  say: Commander_Brack: we need to go yavin
+[Sun Jan 12 17:35:29 2014]  say: Commander_John: all troopers
+[Sun Jan 12 17:35:31 2014]  say: Commander_John: no
+[Sun Jan 12 17:35:32 2014]  say: Commander_Brack: become jedis
+[Sun Jan 12 17:35:32 2014]  say: Commander_Brack: and
+[Sun Jan 12 17:35:37 2014]  say: Commander_Brack: to kill clones
+[Sun Jan 12 17:35:39 2014]  say: Commander_John: the troopers dont know face
+[Sun Jan 12 17:35:44 2014]  say: Commander_Brack: ah
+[Sun Jan 12 17:35:46 2014]  say: Commander_John: so
+[Sun Jan 12 17:35:49 2014]  say: Commander_John: we must rename
+[Sun Jan 12 17:35:52 2014]  say: Commander_John: not 0646
+[Sun Jan 12 17:35:55 2014]  say: Commander_John: normal name
+[Sun Jan 12 17:36:00 2014]  say: Commander_John: cauze
+[Sun Jan 12 17:36:05 2014]  print "Commander_Brack^7 @@@PLRENAME Allan
+"[Sun Jan 12 17:36:06 2014]  say: Commander_John: this guys will think i and u is troopers
+[Sun Jan 12 17:36:09 2014]  say: Commander_John: alan lol
+[Sun Jan 12 17:36:10 2014]  say: Commander_John: u mad
+[Sun Jan 12 17:36:15 2014]  say: Commander_John: alan died
+[Sun Jan 12 17:36:18 2014]  print "Allan^7 @@@PLRENAME Alan
+"[Sun Jan 12 17:36:20 2014]  say: Alan: oh
+[Sun Jan 12 17:36:22 2014]  print "Commander_John^7 @@@PLRENAME Maria
+"[Sun Jan 12 17:36:32 2014]  print "Alan^7 @@@PLRENAME DoDo
+"[Sun Jan 12 17:36:35 2014]  print "Maria^7 @@@PLRENAME Marry
+"[Sun Jan 12 17:36:39 2014]  say: DoDo: xdd
+[Sun Jan 12 17:36:44 2014]  say: Marry: -_-
+[Sun Jan 12 17:36:59 2014]  print "DoDo^7 @@@PLRENAME Alex
+"[Sun Jan 12 17:37:07 2014]  say: Alex: NO WEPS
+[Sun Jan 12 17:37:17 2014]  say: Alex: ehm
+[Sun Jan 12 17:37:19 2014]  say: Alex: notarget
+[Sun Jan 12 17:37:27 2014]  say: Marry: NOTARGET ON
+[Sun Jan 12 17:38:01 2014]  say: Alex: trooper:HALT!
+[Sun Jan 12 17:38:01 2014]  say: Marry: Hi mr. trooper
+[Sun Jan 12 17:38:05 2014]  say: Marry: lol
+[Sun Jan 12 17:38:11 2014]  say: Alex: did u see it  2 troopers?
+[Sun Jan 12 17:38:17 2014]  say: Marry: yes
+[Sun Jan 12 17:38:17 2014]  say: Alex: uh
+[Sun Jan 12 17:38:18 2014]  say: Alex: no
+[Sun Jan 12 17:38:23 2014]  tell: Marry to Alex: --_
+[Sun Jan 12 17:38:25 2014]  say: Marry: yes
+[Sun Jan 12 17:38:26 2014]  say: Marry: hes goed there
+[Sun Jan 12 17:38:30 2014]  say: Marry: to falcon
+[Sun Jan 12 17:38:31 2014]  say: Alex: k ty
+[Sun Jan 12 17:38:38 2014]  say: Marry: np
+[Sun Jan 12 17:38:46 2014]  say: Alex: NOW GO SHIP
+[Sun Jan 12 17:39:10 2014]  say: Alex: k
+[Sun Jan 12 17:39:22 2014]  say: Marry: come
+[Sun Jan 12 17:39:26 2014]  say: Marry: come
+[Sun Jan 12 17:39:28 2014]  say: Alex: ok to academy!
+[Sun Jan 12 17:39:30 2014]  say: Marry: no
+[Sun Jan 12 17:39:32 2014]  say: Marry: come there
+[Sun Jan 12 17:39:43 2014]  say: Alex: lagg
+[Sun Jan 12 17:39:53 2014]  say: Marry: her
+[Sun Jan 12 17:40:09 2014]  say: Marry: her
+[Sun Jan 12 17:40:13 2014]  say: Marry: there no
+[Sun Jan 12 17:40:17 2014]  say: Marry: leave from falcon
+[Sun Jan 12 17:40:20 2014]  say: Marry: troopers is there
+[Sun Jan 12 17:40:25 2014]  say: Marry: HER
+[Sun Jan 12 17:40:45 2014]  say: Alex: wait
+[Sun Jan 12 17:40:47 2014]  say: Marry: OK THERE AFK
+[Sun Jan 12 17:40:53 2014]  say: Alex: wat?
+[Sun Jan 12 17:40:54 2014]  say: Marry: LITTLE MINUTES
+[Sun Jan 12 17:40:56 2014]  say: Marry: EAT
+[Sun Jan 12 17:41:01 2014]  say: Alex: I FOUND LIGHTSABER
+[Sun Jan 12 17:48:06 2014]  say: Marry: BACJC
+[Sun Jan 12 17:48:16 2014]  say: Alex: IVE FOUND LIGHTSABER BRO
+[Sun Jan 12 17:48:21 2014]  say: Marry: -_-
+[Sun Jan 12 17:48:24 2014]  say: Marry: IM GIRL
+[Sun Jan 12 17:48:29 2014]  say: Marry: bro is brother lool
+[Sun Jan 12 17:48:34 2014]  say: Alex: HERE IS FOR U 
+[Sun Jan 12 17:48:39 2014]  say: Alex: A YELLOW
+[Sun Jan 12 17:48:44 2014]  say: Marry: goign swtor
+[Sun Jan 12 17:48:47 2014]  say: Alex: ME TOO
+[Sun Jan 12 17:48:51 2014]  say: Marry: come red eclipse
+[Sun Jan 12 17:48:52 2014]  say: Alex:  1 LAST BATTLE
+[Sun Jan 12 17:48:59 2014]  say: Alex: no go
+[Sun Jan 12 17:49:00 2014]  say: Marry: ok?
+[Sun Jan 12 17:49:01 2014]  say: Alex: no god
+[Sun Jan 12 17:49:13 2014]  say: Alex: JOIN MEH
+[Sun Jan 12 17:49:13 2014]  say: Marry: You will die!
+[Sun Jan 12 17:49:31 2014]  Kill: 1 0 3: Marry killed Alex by MOD_SABER
+[Sun Jan 12 17:49:32 2014]  Exit: Timelimit hit.
+[Sun Jan 12 17:49:32 2014]  score: 44  ping: 59  client: 0 Alex
+[Sun Jan 12 17:49:32 2014]  score: 28  ping: 84  client: 1 Marry
+[Sun Jan 12 17:49:32 2014]  say: Marry: ^0{^2€Z3Ð^0}
+[Sun Jan 12 17:49:34 2014]  say: Marry: xd
+[Sun Jan 12 17:49:36 2014]  say: Marry: come xfire
+[Sun Jan 12 17:49:36 2014]  ClientDisconnect: 0
+[Sun Jan 12 17:49:37 2014]  ClientDisconnect: 1
+[Mon Jan 13 02:16:16 2014]  ClientConnect: 0
+[Mon Jan 13 02:16:16 2014]  mlog:Player Matthew, connected. With IP - 174.126.79.124:29070 
+[Mon Jan 13 02:16:26 2014]  ClientConnect: 1
+[Mon Jan 13 02:16:26 2014]  mlog:Player ^1T^2e^3r^4i^5n, connected. With IP - 174.107.83.102:29070 
+[Mon Jan 13 02:16:49 2014]  ClientBegin: 0
+[Mon Jan 13 02:16:53 2014]  ClientBegin: 1
+[Mon Jan 13 02:17:01 2014]  ShutdownGame:
+[Mon Jan 13 02:17:01 2014]  ------------------------------------------------------------

@@ -1,0 +1,1099 @@
+[Sun Dec 13 00:45:10 2015]  ------------------------------------------------------------
+[Sun Dec 13 00:45:10 2015]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Dec 13 22:01:46 2015]  ClientConnect: 0
+[Sun Dec 13 22:01:46 2015]  mlog:Player Greedo, connected. With IP - 99.9.85.201:29070 
+[Sun Dec 13 22:02:11 2015]  ClientBegin: 0
+[Sun Dec 13 22:04:55 2015]  say: Greedo: giveall
+[Sun Dec 13 22:05:41 2015]  say: Greedo: setforceall 3
+[Sun Dec 13 22:05:57 2015]  say: Greedo: setforceall 3
+[Sun Dec 13 22:06:25 2015]  say: Greedo: npc spawn stormtrooper
+[Sun Dec 13 22:06:43 2015]  say: Greedo: drive_atst
+[Sun Dec 13 22:07:32 2015]  Item: 0 ammo_all
+[Sun Dec 13 22:08:01 2015]  Item: 0 ammo_all
+[Sun Dec 13 22:08:39 2015]  Item: 0 ammo_all
+[Sun Dec 13 22:09:18 2015]  print "Greedo^7 @@@PLRENAME Padawan
+"[Sun Dec 13 22:15:10 2015]  ClientConnect: 1
+[Sun Dec 13 22:15:10 2015]  mlog:Player Padawan, connected. With IP - 176.63.37.23:29070 
+[Sun Dec 13 22:16:02 2015]  ClientBegin: 1
+[Sun Dec 13 22:16:23 2015]  say: ^0p^3ee^0t^3i: Hello
+[Sun Dec 13 22:16:39 2015]  say: Padawan: Hi
+[Sun Dec 13 22:17:01 2015]  say: ^0p^3ee^0t^3i: Are you new in this game?
+[Sun Dec 13 22:17:08 2015]  say: Padawan: Not really.
+[Sun Dec 13 22:17:16 2015]  say: ^0p^3ee^0t^3i: In this gamemode?
+[Sun Dec 13 22:17:28 2015]  Item: 1 weapon_melee
+[Sun Dec 13 22:17:28 2015]  say: Padawan: I am new in this gamemode, yes.
+[Sun Dec 13 22:17:42 2015]  say: ^0p^3ee^0t^3i: Here you can build if you want
+[Sun Dec 13 22:19:01 2015]  say: Padawan: Dude kill me real quick i need to change my blade
+[Sun Dec 13 22:19:15 2015]  say: ^0p^3ee^0t^3i: God mode?
+[Sun Dec 13 22:19:20 2015]  say: Padawan: Oh right
+[Sun Dec 13 22:19:22 2015]  say: Padawan: yep
+[Sun Dec 13 22:19:29 2015]  say: Padawan: whatever
+[Sun Dec 13 22:19:30 2015]  say: ^0p^3ee^0t^3i: Turn off xD
+[Sun Dec 13 22:19:48 2015]  say: ^0p^3ee^0t^3i: Type /hod
+[Sun Dec 13 22:19:49 2015]  say: Padawan: Its fine.
+[Sun Dec 13 22:19:50 2015]  say: ^0p^3ee^0t^3i: god*
+[Sun Dec 13 22:20:57 2015]  say: Padawan: hey my bro was playin
+[Sun Dec 13 22:21:03 2015]  say: Padawan: iam back now
+[Sun Dec 13 22:21:09 2015]  say: ^0p^3ee^0t^3i: Hello :D
+[Sun Dec 13 22:21:16 2015]  say: Padawan: hey
+[Sun Dec 13 22:21:24 2015]  say: ^0p^3ee^0t^3i: Try to get out with /noclip
+[Sun Dec 13 22:21:26 2015]  say: ^0p^3ee^0t^3i: xd
+[Sun Dec 13 22:21:41 2015]  say: Padawan: thx
+[Sun Dec 13 22:22:21 2015]  say: ^0p^3ee^0t^3i: So, you are new in this gamemode?
+[Sun Dec 13 22:22:37 2015]  say: Padawan: not quite but some of this is new
+[Sun Dec 13 22:23:16 2015]  say: ^0p^3ee^0t^3i: Where are you from?
+[Sun Dec 13 22:23:23 2015]  say: Padawan: texas
+[Sun Dec 13 22:24:13 2015]  say: ^0p^3ee^0t^3i: Btw, do you want to know how to build? 
+[Sun Dec 13 22:24:21 2015]  say: Padawan: yeah that be nice
+[Sun Dec 13 22:24:35 2015]  say: ^0p^3ee^0t^3i: First you need to write /mlist into console
+[Sun Dec 13 22:24:49 2015]  say: ^0p^3ee^0t^3i: That will list a tons of folders 
+[Sun Dec 13 22:25:00 2015]  say: Padawan: then
+[Sun Dec 13 22:25:06 2015]  say: ^0p^3ee^0t^3i: Then choose one
+[Sun Dec 13 22:25:17 2015]  say: Padawan: with mouse or type it
+[Sun Dec 13 22:25:20 2015]  say: ^0p^3ee^0t^3i: Then /mlist factory
+[Sun Dec 13 22:25:25 2015]  say: ^0p^3ee^0t^3i: Type
+[Sun Dec 13 22:25:29 2015]  say: Padawan: ok
+[Sun Dec 13 22:25:43 2015]  say: Padawan: ships/
+[Sun Dec 13 22:25:45 2015]  say: ^0p^3ee^0t^3i: Thats will lists the objects of the factory folder
+[Sun Dec 13 22:26:04 2015]  say: ^0p^3ee^0t^3i: Then place one of them with /mplace factory/<object name>
+[Sun Dec 13 22:26:13 2015]  say: ^0p^3ee^0t^3i: For example: /mplace factory/catw2_b
+[Sun Dec 13 22:26:18 2015]  say: Padawan: mlist factory
+[Sun Dec 13 22:26:23 2015]  say: ^0p^3ee^0t^3i: Thats the basic catwalk
+[Sun Dec 13 22:26:29 2015]  say: Padawan: ok
+[Sun Dec 13 22:27:09 2015]  say: Padawan: i just want a vehicle
+[Sun Dec 13 22:27:15 2015]  say: ^0p^3ee^0t^3i: Um
+[Sun Dec 13 22:27:23 2015]  say: ^0p^3ee^0t^3i: /npc spawn tie_fighter
+[Sun Dec 13 22:27:41 2015]  say: Padawan: npc spawn stormtrooper
+[Sun Dec 13 22:28:00 2015]  say: Padawan: npc _spawn_stormtrooper
+[Sun Dec 13 22:28:07 2015]  say: ^0p^3ee^0t^3i: Try with /
+[Sun Dec 13 22:28:09 2015]  say: ^0p^3ee^0t^3i: /npc spawn
+[Sun Dec 13 22:28:29 2015]  say: Padawan: unknown
+[Sun Dec 13 22:28:35 2015]  say: ^0p^3ee^0t^3i: /npc spawn stormtrooper
+[Sun Dec 13 22:29:51 2015]  say: Padawan: spawn [speeder]
+[Sun Dec 13 22:30:22 2015]  Item: 0 weapon_blaster
+[Sun Dec 13 22:30:46 2015]  say: Padawan: ru the stortrooper
+[Sun Dec 13 22:31:52 2015]  say: Padawan: watdid u typr
+[Sun Dec 13 22:32:01 2015]  say: ^0p^3ee^0t^3i: /npc spawn stormtrooper
+[Sun Dec 13 22:32:06 2015]  say: Padawan: ok
+[Sun Dec 13 22:32:34 2015]  Item: 0 weapon_blaster
+[Sun Dec 13 22:34:42 2015]  say: Padawan: wait could i 
+[Sun Dec 13 22:34:47 2015]  say: ^0p^3ee^0t^3i: Hm?
+[Sun Dec 13 22:34:58 2015]  say: Padawan: possibly spawn luke 
+[Sun Dec 13 22:35:04 2015]  say: ^0p^3ee^0t^3i: Yes
+[Sun Dec 13 22:35:08 2015]  say: ^0p^3ee^0t^3i: /npc spawn luke
+[Sun Dec 13 22:35:11 2015]  say: ^0p^3ee^0t^3i: /npc spawn kyle
+[Sun Dec 13 22:35:15 2015]  say: ^0p^3ee^0t^3i: /npc spawn rockettrooper
+[Sun Dec 13 22:35:17 2015]  say: Padawan: lol
+[Sun Dec 13 22:35:19 2015]  say: ^0p^3ee^0t^3i: /npc spawn swamptrooper
+[Sun Dec 13 22:35:22 2015]  say: ^0p^3ee^0t^3i: /npc spawn rebel
+[Sun Dec 13 22:35:27 2015]  say: ^0p^3ee^0t^3i: /npc spawn r2d2
+[Sun Dec 13 22:35:30 2015]  say: ^0p^3ee^0t^3i: /npc spawn protocol
+[Sun Dec 13 22:35:44 2015]  say: Padawan: got him
+[Sun Dec 13 22:36:25 2015]  say: ^0p^3ee^0t^3i: You can also spawn, <jedi> <jedi2> <jeditrainer> <jedimaster>
+[Sun Dec 13 22:37:18 2015]  say: Padawan: holy
+[Sun Dec 13 22:38:31 2015]  say: ^0p^3ee^0t^3i: Nah i gotta go
+[Sun Dec 13 22:38:32 2015]  say: ^0p^3ee^0t^3i: Cya
+[Sun Dec 13 22:38:38 2015]  ClientDisconnect: 1
+[Sun Dec 13 22:38:40 2015]  say: Padawan: bye
+[Sun Dec 13 22:39:38 2015]  print "Padawan^7 @@@PLRENAME ben
+"[Sun Dec 13 22:39:42 2015]  ClientConnect: 1
+[Sun Dec 13 22:39:42 2015]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.243.214:29070 
+[Sun Dec 13 22:40:05 2015]  say: ben: hey
+[Sun Dec 13 22:40:21 2015]  ClientBegin: 1
+[Sun Dec 13 22:40:21 2015]  print "ben^7 @@@PLRENAME quagmire007
+"[Sun Dec 13 22:41:28 2015]  say: quagmire007: how u do that
+[Sun Dec 13 22:41:34 2015]  say: ^7»^0Exo^1Ð^0us^7«: This is what makermod is
+[Sun Dec 13 22:41:48 2015]  say: ^7»^0Exo^1Ð^0us^7«: /minfo for information
+[Sun Dec 13 22:41:50 2015]  say: quagmire007: oh
+[Sun Dec 13 22:42:46 2015]  say: quagmire007: npc spawn vehicle atst
+[Sun Dec 13 22:42:54 2015]  say: quagmire007: npc spawn atst
+[Sun Dec 13 22:43:52 2015]  say: quagmire007: lol
+[Sun Dec 13 22:44:52 2015]  say: quagmire007: all ammo
+[Sun Dec 13 22:46:58 2015]  say: ^7»^0Exo^1Ð^0us^7«: Best part? I'm not an admin.
+[Sun Dec 13 22:47:12 2015]  say: quagmire007: XD
+[Sun Dec 13 22:48:04 2015]  say: quagmire007: how to spawn boba
+[Sun Dec 13 22:48:11 2015]  say: ^7»^0Exo^1Ð^0us^7«: I don't think you can.
+[Sun Dec 13 22:48:22 2015]  say: quagmire007: he is in the game
+[Sun Dec 13 22:48:29 2015]  say: quagmire007: somewhere
+[Sun Dec 13 22:48:41 2015]  say: ^7»^0Exo^1Ð^0us^7«: I wouldn't think he'd have a .npc file for botting though.
+[Sun Dec 13 22:48:52 2015]  say: quagmire007: true
+[Sun Dec 13 22:49:22 2015]  say: quagmire007: brb
+[Sun Dec 13 22:50:59 2015]  say: quagmire007: mmm k
+[Sun Dec 13 22:51:29 2015]  say: quagmire007: wtf
+[Sun Dec 13 22:51:38 2015]  say: quagmire007: ohur house
+[Sun Dec 13 22:51:41 2015]  say: ^7»^0Exo^1Ð^0us^7«: da.
+[Sun Dec 13 22:52:05 2015]  say: quagmire007: wtdf
+[Sun Dec 13 22:52:31 2015]  Kill: 1022 0 0: <world> killed quagmire007 by MOD_UNKNOWN
+[Sun Dec 13 22:52:45 2015]  Kill: 1022 0 0: <world> killed quagmire007 by MOD_UNKNOWN
+[Sun Dec 13 22:52:49 2015]  say: ^7»^0Exo^1Ð^0us^7«: The spikes are kill-switched
+[Sun Dec 13 22:52:56 2015]  say: quagmire007: brb
+[Sun Dec 13 22:55:28 2015]  say: quagmire007: u just sent him to oblivion 
+[Sun Dec 13 22:55:41 2015]  say: ^7»^0Exo^1Ð^0us^7«: I'll show you oblivion, spawn him again
+[Sun Dec 13 22:56:13 2015]  say: quagmire007: da hell
+[Sun Dec 13 22:56:18 2015]  say: ^7»^0Exo^1Ð^0us^7«: That is oblivion
+[Sun Dec 13 22:56:19 2015]  say: ^7»^0Exo^1Ð^0us^7«: lol.
+[Sun Dec 13 22:56:37 2015]  say: ^7»^0Exo^1Ð^0us^7«: My origin is: (9933 8727 1745) - You can teleport here with /mtelelast
+
+[Sun Dec 13 22:56:40 2015]  say: quagmire007: i see the world
+[Sun Dec 13 22:56:50 2015]  say: ^7»^0Exo^1Ð^0us^7«: Lol.
+[Sun Dec 13 22:56:54 2015]  say: quagmire007: using noclip
+[Sun Dec 13 22:57:02 2015]  say: ^7»^0Exo^1Ð^0us^7«: Funny thing is it is buggy, the further into oblivion you go, the more the server lags
+[Sun Dec 13 22:57:12 2015]  say: ^7»^0Exo^1Ð^0us^7«: reason being, it sends a lot of locational data to the serve.r
+[Sun Dec 13 22:57:19 2015]  Kill: 0 0 39: quagmire007 killed quagmire007 by MOD_SUICIDE
+[Sun Dec 13 22:57:39 2015]  say: quagmire007: giveall
+[Sun Dec 13 22:57:43 2015]  say: ^7»^0Exo^1Ð^0us^7«: Oh gods, the lag.
+[Sun Dec 13 22:58:05 2015]  say: quagmire007: its cool on mine
+[Sun Dec 13 22:58:11 2015]  say: ^7»^0Exo^1Ð^0us^7«: Mine's fixing.
+[Sun Dec 13 22:58:25 2015]  say: ^7»^0Exo^1Ð^0us^7«: check this out.
+[Sun Dec 13 22:58:28 2015]  say: quagmire007: could u spawn an atst
+[Sun Dec 13 22:58:47 2015]  say: quagmire007: lol
+[Sun Dec 13 22:58:47 2015]  say: ^7»^0Exo^1Ð^0us^7«: just observe
+[Sun Dec 13 22:59:02 2015]  say: ^7»^0Exo^1Ð^0us^7«: Massacre
+[Sun Dec 13 22:59:09 2015]  say: quagmire007: ear rape
+[Sun Dec 13 23:00:14 2015]  say: quagmire007: tie fighter
+[Sun Dec 13 23:00:17 2015]  say: quagmire007: ?
+[Sun Dec 13 23:01:15 2015]  say: ^7»^0Exo^1Ð^0us^7«: hmph, might be dis-allowed
+[Sun Dec 13 23:01:16 2015]  say: ^7»^0Exo^1Ð^0us^7«: hold.
+[Sun Dec 13 23:02:14 2015]  say: ^7»^0Exo^1Ð^0us^7«: yep, disallowed.
+[Sun Dec 13 23:02:20 2015]  say: quagmire007: dang
+[Sun Dec 13 23:03:20 2015]  say: quagmire007: what about ragnos
+[Sun Dec 13 23:03:29 2015]  say: ^7»^0Exo^1Ð^0us^7«: heh, yeah, go ahead, i dare you lol.
+[Sun Dec 13 23:03:39 2015]  say: quagmire007: its gonna crash
+[Sun Dec 13 23:03:41 2015]  say: ^7»^0Exo^1Ð^0us^7«: i've played jka for more than 6 years, it never works lol.
+[Sun Dec 13 23:03:50 2015]  say: quagmire007: isnt it
+[Sun Dec 13 23:03:55 2015]  say: ^7»^0Exo^1Ð^0us^7«: i once fixed his npc file, but no server owner wanted it.
+[Sun Dec 13 23:04:06 2015]  say: ^7»^0Exo^1Ð^0us^7«: it would, kinda
+[Sun Dec 13 23:04:13 2015]  say: ^7»^0Exo^1Ð^0us^7«: server would remain active, no one can connect.
+[Sun Dec 13 23:04:21 2015]  say: quagmire007: lol
+[Sun Dec 13 23:04:36 2015]  say: ^7»^0Exo^1Ð^0us^7«: makermod primarily blocks it, but sometimes it wont stop it.
+[Sun Dec 13 23:07:54 2015]  say: quagmire007: is it possibe to start the campaign with two people
+[Sun Dec 13 23:07:58 2015]  say: ^7»^0Exo^1Ð^0us^7«: Nej.
+[Sun Dec 13 23:08:09 2015]  say: quagmire007: ?
+[Sun Dec 13 23:08:12 2015]  say: ^7»^0Exo^1Ð^0us^7«: No.
+[Sun Dec 13 23:08:51 2015]  say: quagmire007: wat the hell
+[Sun Dec 13 23:08:59 2015]  say: ^7»^0Exo^1Ð^0us^7«: ysalimari
+[Sun Dec 13 23:09:02 2015]  say: ^7»^0Exo^1Ð^0us^7«: was in jko.
+[Sun Dec 13 23:09:07 2015]  say: quagmire007: oh
+[Sun Dec 13 23:09:21 2015]  Kill: 1 1 39: ^7»^0Exo^1Ð^0us^7« killed ^7»^0Exo^1Ð^0us^7« by MOD_SUICIDE
+[Sun Dec 13 23:09:33 2015]  say: ^7»^0Exo^1Ð^0us^7«: check this.
+[Sun Dec 13 23:09:39 2015]  say: ^7»^0Exo^1Ð^0us^7«: flight glitch.
+[Sun Dec 13 23:10:10 2015]  say: ^7»^0Exo^1Ð^0us^7«: check it, i messed up before.
+[Sun Dec 13 23:10:17 2015]  say: quagmire007: g_saberrealisticcombat 1
+[Sun Dec 13 23:10:49 2015]  Kill: 1 1 39: ^7»^0Exo^1Ð^0us^7« killed ^7»^0Exo^1Ð^0us^7« by MOD_SUICIDE
+[Sun Dec 13 23:11:11 2015]  say: ^7»^0Exo^1Ð^0us^7«: i can cause issues with the server with this glitch.
+[Sun Dec 13 23:11:13 2015]  say: ^7»^0Exo^1Ð^0us^7«: check it..
+[Sun Dec 13 23:11:34 2015]  say: ^7»^0Exo^1Ð^0us^7«: frack.
+[Sun Dec 13 23:11:43 2015]  say: quagmire007: u drob
+[Sun Dec 13 23:11:48 2015]  Kill: 1 1 39: ^7»^0Exo^1Ð^0us^7« killed ^7»^0Exo^1Ð^0us^7« by MOD_SUICIDE
+[Sun Dec 13 23:11:54 2015]  say: quagmire007: drop
+[Sun Dec 13 23:13:02 2015]  say: ^7»^0Exo^1Ð^0us^7«: here we go, i think it'll lag soon now.
+[Sun Dec 13 23:13:14 2015]  say: ^7»^0Exo^1Ð^0us^7«: wtf.
+[Sun Dec 13 23:13:28 2015]  say: ^7»^0Exo^1Ð^0us^7«: There we go.
+[Sun Dec 13 23:13:32 2015]  say: quagmire007: o fuck
+[Sun Dec 13 23:13:35 2015]  say: ^7»^0Exo^1Ð^0us^7«: watch.
+[Sun Dec 13 23:13:39 2015]  say: ^7»^0Exo^1Ð^0us^7«: after i swing... lag.
+[Sun Dec 13 23:13:53 2015]  say: quagmire007: chiiiit
+[Sun Dec 13 23:13:56 2015]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Sun Dec 13 23:14:16 2015]  say: ^7»^0Exo^1Ð^0us^7«: now watch what happens when i saber throw.
+[Sun Dec 13 23:14:22 2015]  say: quagmire007: dont
+[Sun Dec 13 23:14:24 2015]  say: ^7»^0Exo^1Ð^0us^7«: bye saber...
+[Sun Dec 13 23:14:28 2015]  say: quagmire007: oh
+[Sun Dec 13 23:14:29 2015]  say: ^7»^0Exo^1Ð^0us^7«: i'll never see you again x_x
+[Sun Dec 13 23:14:46 2015]  say: quagmire007: high five
+[Sun Dec 13 23:14:59 2015]  say: quagmire007: mmm
+[Sun Dec 13 23:15:38 2015]  say: ^7»^0Exo^1Ð^0us^7«: i then use this glitch to lose all my force, then jump spam everywhere
+[Sun Dec 13 23:15:38 2015]  Kill: 0 0 39: quagmire007 killed quagmire007 by MOD_SUICIDE
+[Sun Dec 13 23:16:31 2015]  say: ^7»^0Exo^1Ð^0us^7«: yay strafe jumping.
+[Sun Dec 13 23:17:28 2015]  say: quagmire007: i gotta go be on later steam name batguano
+[Sun Dec 13 23:17:34 2015]  ClientDisconnect: 0
+[Sun Dec 13 23:17:34 2015]  say: ^7»^0Exo^1Ð^0us^7«: aight.
+[Sun Dec 13 23:17:41 2015]  ClientDisconnect: 1
+[Mon Dec 14 02:06:44 2015]  ClientConnect: 0
+[Mon Dec 14 02:06:44 2015]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.243.214:29070 
+[Mon Dec 14 02:07:42 2015]  ClientBegin: 0
+[Mon Dec 14 02:07:46 2015]  ClientConnect: 1
+[Mon Dec 14 02:07:46 2015]  mlog:Player Padawan, connected. With IP - 76.174.129.95:29070 
+[Mon Dec 14 02:08:12 2015]  ClientBegin: 1
+[Mon Dec 14 02:08:18 2015]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Mon Dec 14 02:08:53 2015]  Kill: 0 1 36: ^7»^0Exo^1Ð^0us^7« killed Padawan by MOD_CRUSH
+[Mon Dec 14 02:09:27 2015]  ClientDisconnect: 1
+[Mon Dec 14 02:09:40 2015]  ClientConnect: 1
+[Mon Dec 14 02:09:40 2015]  mlog:Player Padawan, connected. With IP - 76.174.129.95:29070 
+[Mon Dec 14 02:09:55 2015]  ClientBegin: 1
+[Mon Dec 14 02:10:17 2015]  Kill: 1022 1 0: <world> killed Padawan by MOD_UNKNOWN
+[Mon Dec 14 02:10:53 2015]  Kill: 0 1 0: ^7»^0Exo^1Ð^0us^7« killed Padawan by MOD_UNKNOWN
+[Mon Dec 14 02:11:29 2015]  ClientDisconnect: 1
+[Mon Dec 14 02:11:45 2015]  ClientConnect: 1
+[Mon Dec 14 02:11:45 2015]  mlog:Player Padawan, connected. With IP - 76.174.129.95:29070 
+[Mon Dec 14 02:13:17 2015]  ClientDisconnect: 1
+[Mon Dec 14 02:13:17 2015]  ClientConnect: 1
+[Mon Dec 14 02:13:17 2015]  mlog:Player Padawan, connected. With IP - 76.174.129.95:29070 
+[Mon Dec 14 02:13:56 2015]  ClientBegin: 1
+[Mon Dec 14 02:14:04 2015]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Mon Dec 14 02:14:23 2015]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Mon Dec 14 02:15:34 2015]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Mon Dec 14 02:15:55 2015]  ClientDisconnect: 1
+[Mon Dec 14 02:18:20 2015]  ClientConnect: 1
+[Mon Dec 14 02:18:20 2015]  mlog:Player Padawan, connected. With IP - 76.174.129.95:29070 
+[Mon Dec 14 02:18:36 2015]  ClientBegin: 1
+[Mon Dec 14 02:19:42 2015]  ClientDisconnect: 0
+[Mon Dec 14 02:19:42 2015]  ClientConnect: 0
+[Mon Dec 14 02:19:42 2015]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.243.214:29070 
+[Mon Dec 14 02:20:08 2015]  ClientDisconnect: 1
+[Mon Dec 14 02:20:16 2015]  ClientBegin: 0
+[Mon Dec 14 02:20:19 2015]  ClientConnect: 1
+[Mon Dec 14 02:20:19 2015]  mlog:Player Padawan, connected. With IP - 76.174.129.95:29070 
+[Mon Dec 14 02:20:35 2015]  ClientBegin: 1
+[Mon Dec 14 02:21:00 2015]  ClientDisconnect: 1
+[Mon Dec 14 02:21:13 2015]  ClientConnect: 1
+[Mon Dec 14 02:21:13 2015]  mlog:Player Padawan, connected. With IP - 76.174.129.95:29070 
+[Mon Dec 14 02:21:29 2015]  ClientBegin: 1
+[Mon Dec 14 02:22:57 2015]  Kill: 0 1 36: ^7»^0Exo^1Ð^0us^7« killed Padawan by MOD_CRUSH
+[Mon Dec 14 02:23:32 2015]  say: ^7»^0Exo^1Ð^0us^7«: mkill
+[Mon Dec 14 02:26:31 2015]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Mon Dec 14 02:26:56 2015]  ClientDisconnect: 1
+[Mon Dec 14 02:28:53 2015]  ClientConnect: 1
+[Mon Dec 14 02:28:53 2015]  mlog:Player Padawan, connected. With IP - 76.174.129.95:29070 
+[Mon Dec 14 02:29:29 2015]  ClientBegin: 1
+[Mon Dec 14 02:30:26 2015]  Kill: 0 1 0: ^7»^0Exo^1Ð^0us^7« killed Padawan by MOD_UNKNOWN
+[Mon Dec 14 02:30:44 2015]  Kill: 0 1 0: ^7»^0Exo^1Ð^0us^7« killed Padawan by MOD_UNKNOWN
+[Mon Dec 14 02:31:36 2015]  Kill: 0 1 36: ^7»^0Exo^1Ð^0us^7« killed Padawan by MOD_CRUSH
+[Mon Dec 14 02:32:15 2015]  ClientDisconnect: 1
+[Mon Dec 14 02:32:36 2015]  ClientConnect: 1
+[Mon Dec 14 02:32:36 2015]  mlog:Player Padawan, connected. With IP - 76.174.129.95:29070 
+[Mon Dec 14 02:32:51 2015]  ClientBegin: 1
+[Mon Dec 14 02:33:43 2015]  ClientDisconnect: 1
+[Mon Dec 14 02:34:05 2015]  ClientDisconnect: 0
+[Mon Dec 14 13:55:16 2015]  ClientConnect: 0
+[Mon Dec 14 13:55:16 2015]  mlog:Player Knorra, connected. With IP - 109.48.17.100:29070 
+[Mon Dec 14 13:55:44 2015]  ClientBegin: 0
+[Mon Dec 14 13:56:09 2015]  ClientDisconnect: 0
+[Mon Dec 14 15:11:16 2015]  ClientConnect: 0
+[Mon Dec 14 15:11:16 2015]  mlog:Player Padawan, connected. With IP - 86.149.187.215:29070 
+[Mon Dec 14 15:11:31 2015]  ClientBegin: 0
+[Mon Dec 14 15:12:13 2015]  print "Padawan^7 @@@PLRENAME ^1^1J^7aiden
+"[Mon Dec 14 15:12:18 2015]  Kill: 0 0 39: ^1^1J^7aiden killed ^1^1J^7aiden by MOD_SUICIDE
+[Mon Dec 14 15:22:06 2015]  Kill: 0 0 39: ^1^1J^7aiden killed ^1^1J^7aiden by MOD_SUICIDE
+[Mon Dec 14 15:22:09 2015]  ClientDisconnect: 0
+[Mon Dec 14 18:48:59 2015]  ClientConnect: 0
+[Mon Dec 14 18:48:59 2015]  mlog:Player Darth Bridge, connected. With IP - 78.191.90.242:29070 
+[Mon Dec 14 18:49:13 2015]  ClientConnect: 1
+[Mon Dec 14 18:49:13 2015]  mlog:Player Farcell, connected. With IP - 5.187.244.231:29070 
+[Mon Dec 14 18:49:16 2015]  ClientBegin: 0
+[Mon Dec 14 18:49:37 2015]  ClientBegin: 1
+[Mon Dec 14 18:49:45 2015]  ClientConnect: 2
+[Mon Dec 14 18:49:45 2015]  mlog:Player ^0p^3ee^0t^3i, connected. With IP - 176.63.37.23:29070 
+[Mon Dec 14 18:50:08 2015]  ClientBegin: 2
+[Mon Dec 14 18:50:37 2015]  Item: 2 weapon_melee
+[Mon Dec 14 18:50:55 2015]  ClientDisconnect: 2
+[Mon Dec 14 18:51:03 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 18:51:57 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 18:53:07 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 18:54:03 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 18:55:21 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 18:55:35 2015]  Kill: 1 1 39: Farcell killed Farcell by MOD_SUICIDE
+[Mon Dec 14 18:55:35 2015]  setteam:  1 FREE SPECTATOR
+[Mon Dec 14 18:55:35 2015]  ClientBegin: 1
+[Mon Dec 14 18:56:07 2015]  setteam:  1 SPECTATOR FREE
+[Mon Dec 14 18:56:07 2015]  ClientBegin: 1
+[Mon Dec 14 18:57:04 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 18:57:35 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 18:58:22 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 18:58:42 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 18:59:08 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 18:59:27 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:01:12 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:02:03 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:02:22 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:02:44 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:03:43 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:04:20 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:04:43 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:06:14 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:06:20 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:06:33 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:07:04 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:07:16 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:08:05 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:09:20 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:10:15 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:10:31 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:10:46 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:11:11 2015]  Kill: 1 0 4: Farcell killed Master Bridge by MOD_BRYAR_PISTOL
+[Mon Dec 14 19:11:25 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:12:19 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:12:35 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:12:44 2015]  setteam:  1 FREE SPECTATOR
+[Mon Dec 14 19:12:44 2015]  ClientBegin: 1
+[Mon Dec 14 19:14:48 2015]  setteam:  1 SPECTATOR FREE
+[Mon Dec 14 19:14:48 2015]  ClientBegin: 1
+[Mon Dec 14 19:15:39 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:15:49 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:16:04 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:16:15 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:16:36 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:17:20 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:17:34 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:17:47 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:18:16 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:18:49 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:19:50 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:20:24 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:20:43 2015]  Kill: 1 0 31: Farcell killed Master Bridge by MOD_FORCE_DARK
+[Mon Dec 14 19:21:27 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:22:12 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:22:21 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:22:33 2015]  Kill: 1 0 31: Farcell killed Master Bridge by MOD_FORCE_DARK
+[Mon Dec 14 19:22:43 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:23:11 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:23:35 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:24:49 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:24:57 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:25:04 2015]  Kill: 1 1 39: Farcell killed Farcell by MOD_SUICIDE
+[Mon Dec 14 19:25:04 2015]  setteam:  1 FREE SPECTATOR
+[Mon Dec 14 19:25:04 2015]  ClientBegin: 1
+[Mon Dec 14 19:25:56 2015]  setteam:  1 SPECTATOR FREE
+[Mon Dec 14 19:25:56 2015]  ClientBegin: 1
+[Mon Dec 14 19:26:42 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:27:04 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:27:37 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:28:42 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:29:43 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:30:06 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:31:05 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:31:30 2015]  Kill: 1 0 5: Farcell killed Master Bridge by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:31:48 2015]  Kill: 1 0 5: Farcell killed Master Bridge by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:32:01 2015]  Kill: 0 1 5: Master Bridge killed Farcell by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:32:55 2015]  Kill: 1 0 5: Farcell killed Master Bridge by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:33:10 2015]  Kill: 1 0 5: Farcell killed Master Bridge by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:33:22 2015]  Kill: 1 0 5: Farcell killed Master Bridge by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:34:21 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:36:26 2015]  Kill: 1 0 5: Farcell killed Master Bridge by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:36:39 2015]  Kill: 1 0 5: Farcell killed Master Bridge by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:39:03 2015]  Kill: 1 0 5: Farcell killed Master Bridge by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:39:27 2015]  Kill: 1 0 5: Farcell killed Master Bridge by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:40:17 2015]  Kill: 0 1 5: Master Bridge killed Farcell by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:40:56 2015]  Kill: 1 0 2: Farcell killed Master Bridge by MOD_MELEE
+[Mon Dec 14 19:42:01 2015]  Kill: 1 0 2: Farcell killed Master Bridge by MOD_MELEE
+[Mon Dec 14 19:43:32 2015]  Kill: 0 1 2: Master Bridge killed Farcell by MOD_MELEE
+[Mon Dec 14 19:44:21 2015]  Kill: 1 0 2: Farcell killed Master Bridge by MOD_MELEE
+[Mon Dec 14 19:44:29 2015]  Kill: 1 1 39: Farcell killed Farcell by MOD_SUICIDE
+[Mon Dec 14 19:44:29 2015]  setteam:  1 FREE SPECTATOR
+[Mon Dec 14 19:44:29 2015]  ClientBegin: 1
+[Mon Dec 14 19:44:31 2015]  setteam:  0 FREE SPECTATOR
+[Mon Dec 14 19:44:31 2015]  ClientBegin: 0
+[Mon Dec 14 19:44:31 2015]  ClientBegin: 1
+[Mon Dec 14 19:45:12 2015]  setteam:  1 SPECTATOR FREE
+[Mon Dec 14 19:45:12 2015]  ClientBegin: 1
+[Mon Dec 14 19:45:16 2015]  setteam:  0 SPECTATOR FREE
+[Mon Dec 14 19:45:16 2015]  ClientBegin: 0
+[Mon Dec 14 19:45:37 2015]  Kill: 0 1 5: Master Bridge killed Farcell by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:45:52 2015]  Kill: 0 1 5: Master Bridge killed Farcell by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:46:03 2015]  Kill: 0 1 5: Master Bridge killed Farcell by MOD_BRYAR_PISTOL_ALT
+[Mon Dec 14 19:46:07 2015]  Kill: 1 1 39: Farcell killed Farcell by MOD_SUICIDE
+[Mon Dec 14 19:46:07 2015]  setteam:  1 FREE SPECTATOR
+[Mon Dec 14 19:46:07 2015]  ClientBegin: 1
+[Mon Dec 14 19:46:10 2015]  Kill: 0 0 39: Master Bridge killed Master Bridge by MOD_SUICIDE
+[Mon Dec 14 19:46:10 2015]  setteam:  0 FREE SPECTATOR
+[Mon Dec 14 19:46:10 2015]  ClientBegin: 0
+[Mon Dec 14 19:46:21 2015]  setteam:  1 SPECTATOR SPECTATOR
+[Mon Dec 14 19:46:21 2015]  ClientBegin: 1
+[Mon Dec 14 19:46:33 2015]  setteam:  1 SPECTATOR FREE
+[Mon Dec 14 19:46:33 2015]  ClientBegin: 1
+[Mon Dec 14 19:46:45 2015]  Kill: 1 1 39: Farcell killed Farcell by MOD_SUICIDE
+[Mon Dec 14 19:46:45 2015]  setteam:  1 FREE SPECTATOR
+[Mon Dec 14 19:46:45 2015]  ClientBegin: 1
+[Mon Dec 14 19:46:55 2015]  setteam:  0 SPECTATOR FREE
+[Mon Dec 14 19:46:55 2015]  ClientBegin: 0
+[Mon Dec 14 19:47:26 2015]  Kill: 0 0 39: Master Bridge killed Master Bridge by MOD_SUICIDE
+[Mon Dec 14 19:47:26 2015]  setteam:  0 FREE SPECTATOR
+[Mon Dec 14 19:47:26 2015]  ClientBegin: 0
+[Mon Dec 14 19:47:32 2015]  setteam:  0 SPECTATOR FREE
+[Mon Dec 14 19:47:32 2015]  ClientBegin: 0
+[Mon Dec 14 19:47:45 2015]  setteam:  1 SPECTATOR FREE
+[Mon Dec 14 19:47:45 2015]  ClientBegin: 1
+[Mon Dec 14 19:48:21 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:48:48 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:50:14 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:51:29 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:52:38 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:52:56 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:53:15 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:53:35 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:53:48 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:54:11 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:54:19 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:54:36 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:54:59 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 19:56:30 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:56:42 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:56:53 2015]  Kill: 0 1 31: Master Bridge killed Farcell by MOD_FORCE_DARK
+[Mon Dec 14 19:57:28 2015]  Kill: 1 0 3: Farcell killed Master Bridge by MOD_SABER
+[Mon Dec 14 19:57:44 2015]  Kill: 0 1 3: Master Bridge killed Farcell by MOD_SABER
+[Mon Dec 14 20:01:05 2015]  ClientDisconnect: 1
+[Mon Dec 14 20:01:08 2015]  ClientDisconnect: 0
+[Wed Dec 16 04:33:07 2015]  ClientConnect: 0
+[Wed Dec 16 04:33:07 2015]  mlog:Player Padawan, connected. With IP - 93.192.96.82:29071 
+[Wed Dec 16 04:33:22 2015]  ClientBegin: 0
+[Wed Dec 16 04:33:47 2015]  ClientDisconnect: 0
+[Wed Dec 16 19:58:51 2015]  ClientConnect: 0
+[Wed Dec 16 19:58:51 2015]  mlog:Player Lord Yarraksus, connected. With IP - 90.193.228.23:29070 
+[Wed Dec 16 19:59:36 2015]  ClientDisconnect: 0
+[Wed Dec 16 21:31:07 2015]  ClientConnect: 0
+[Wed Dec 16 21:31:07 2015]  mlog:Player Lord Yarraksus, connected. With IP - 90.193.228.23:29070 
+[Wed Dec 16 21:31:13 2015]  ClientDisconnect: 0
+[Wed Dec 16 23:26:06 2015]  ClientConnect: 0
+[Wed Dec 16 23:26:06 2015]  mlog:Player Razer, connected. With IP - 75.111.78.150:29070 
+[Wed Dec 16 23:26:06 2015]  ClientConnect: 1
+[Wed Dec 16 23:26:06 2015]  mlog:Player Akula, connected. With IP - 86.26.111.94:29070 
+[Wed Dec 16 23:26:23 2015]  ClientBegin: 1
+[Wed Dec 16 23:26:56 2015]  ClientBegin: 0
+[Wed Dec 16 23:27:08 2015]  Kill: 0 1 3: Razer killed Padawan by MOD_SABER
+[Wed Dec 16 23:27:46 2015]  Kill: 0 1 3: Razer killed Padawan by MOD_SABER
+[Wed Dec 16 23:27:54 2015]  ClientDisconnect: 1
+[Wed Dec 16 23:28:25 2015]  ClientDisconnect: 0
+[Thu Dec 17 03:16:01 2015]  ClientConnect: 0
+[Thu Dec 17 03:16:01 2015]  mlog:Player Padawan, connected. With IP - 108.83.82.237:29070 
+[Thu Dec 17 03:16:21 2015]  ClientBegin: 0
+[Thu Dec 17 03:17:32 2015]  ClientConnect: 1
+[Thu Dec 17 03:17:32 2015]  mlog:Player MadVad, connected. With IP - 65.34.158.49:29070 
+[Thu Dec 17 03:17:38 2015]  ClientDisconnect: 1
+[Thu Dec 17 03:18:08 2015]  ClientDisconnect: 0
+[Fri Dec 18 05:31:32 2015]  ClientConnect: 0
+[Fri Dec 18 05:31:32 2015]  mlog:Player ^3M^7ayoro^3v, connected. With IP - 24.202.222.172:29070 
+[Fri Dec 18 05:31:55 2015]  ClientBegin: 0
+[Fri Dec 18 05:32:38 2015]  ClientConnect: 1
+[Fri Dec 18 05:32:38 2015]  mlog:Player ^0DARTH ^1RODIAN, connected. With IP - 24.202.222.172:1175 
+[Fri Dec 18 05:32:48 2015]  ClientConnect: 2
+[Fri Dec 18 05:32:48 2015]  mlog:Player Mrkavok, connected. With IP - 24.202.222.172:1176 
+[Fri Dec 18 05:32:53 2015]  ClientBegin: 1
+[Fri Dec 18 05:33:05 2015]  ClientBegin: 2
+[Fri Dec 18 05:33:28 2015]  print "Padawan^7 @@@PLRENAME MrKavok
+"[Fri Dec 18 05:34:03 2015]  ClientDisconnect: 1
+[Fri Dec 18 05:34:09 2015]  say: MrKavok: moi avec mes controlle sont buggé :/
+[Fri Dec 18 05:34:20 2015]  say: MrKavok: faut j'ai change
+[Fri Dec 18 05:34:30 2015]  say: Padawan: fukc ste map la
+[Fri Dec 18 05:34:35 2015]  ClientDisconnect: 0
+[Fri Dec 18 05:34:44 2015]  ClientDisconnect: 2
+[Fri Dec 18 12:36:12 2015]  ClientConnect: 0
+[Fri Dec 18 12:36:12 2015]  mlog:Player ^1a^2^0S^1i^0D, connected. With IP - 46.39.34.153:23031 
+[Fri Dec 18 12:36:37 2015]  ClientBegin: 0
+[Fri Dec 18 12:41:23 2015]  ClientDisconnect: 0
+[Fri Dec 18 12:46:20 2015]  ClientConnect: 0
+[Fri Dec 18 12:46:20 2015]  mlog:Player ^1a^2^0S^1i^0D, connected. With IP - 46.39.34.153:25546 
+[Fri Dec 18 12:46:39 2015]  ClientBegin: 0
+[Fri Dec 18 12:48:35 2015]  ClientDisconnect: 0
+[Fri Dec 18 19:10:42 2015]  ClientConnect: 0
+[Fri Dec 18 19:10:42 2015]  mlog:Player Padawan, connected. With IP - 77.96.239.5:29070 
+[Fri Dec 18 19:11:05 2015]  ClientBegin: 0
+[Fri Dec 18 19:11:14 2015]  print "Padawan^7 @@@PLRENAME Healy
+"[Fri Dec 18 19:12:32 2015]  Kill: 0 0 39: Healy killed Healy by MOD_SUICIDE
+[Fri Dec 18 19:12:45 2015]  say: Healy: help
+[Fri Dec 18 19:16:36 2015]  say: Healy: /minfo
+[Fri Dec 18 19:19:37 2015]  Kill: 1022 0 38: <world> killed Healy by MOD_FALLING
+[Fri Dec 18 19:22:15 2015]  ClientDisconnect: 0
+[Fri Dec 18 20:57:07 2015]  ClientConnect: 0
+[Fri Dec 18 20:57:07 2015]  mlog:Player Ced, connected. With IP - 188.222.40.162:29070 
+[Fri Dec 18 20:57:19 2015]  ClientBegin: 0
+[Fri Dec 18 20:58:40 2015]  ClientDisconnect: 0
+[Sat Dec 19 01:40:21 2015]  ClientConnect: 0
+[Sat Dec 19 01:40:21 2015]  mlog:Player Cool Guy, connected. With IP - 108.197.24.215:29070 
+[Sat Dec 19 01:50:31 2015]  ClientDisconnect: 0
+[Sat Dec 19 03:14:42 2015]  ClientConnect: 0
+[Sat Dec 19 03:14:42 2015]  mlog:Player ^3(J.N.R)^6A^7ngela^0(^6J.C^0), connected. With IP - 190.172.111.168:29070 
+[Sat Dec 19 03:15:23 2015]  ClientBegin: 0
+[Sat Dec 19 03:15:30 2015]  print "^3(J.N.R)^1An^7ge^1la^0(^7J.C^0)^7 @@@PLRENAME Padawan
+"[Sat Dec 19 03:15:47 2015]  ClientConnect: 1
+[Sat Dec 19 03:15:47 2015]  mlog:Player Padawan, connected. With IP - 190.137.106.231:29071 
+[Sat Dec 19 03:17:53 2015]  ClientBegin: 1
+[Sat Dec 19 03:18:01 2015]  print "^3(J.N.R)^5J^1osé(^5J.C.L^1)^7 @@@PLRENAME Padawan2
+"[Sat Dec 19 03:18:13 2015]  say: Padawan2: xd
+[Sat Dec 19 03:18:16 2015]  say: Padawan: xd
+[Sat Dec 19 03:18:19 2015]  say: Padawan2: porfavor msayorigin
+[Sat Dec 19 03:18:23 2015]  print "Padawan2^7 @@@PLRENAME Padawan
+"[Sat Dec 19 03:18:37 2015]  say: Padawan: xd
+[Sat Dec 19 03:18:45 2015]  say: Padawan: ah xd
+[Sat Dec 19 03:18:49 2015]  say: Padawan: logeareel atst
+[Sat Dec 19 03:19:11 2015]  say: Padawan: My origin is: (3554 -12174 1472) - You can teleport here with /mtelelast
+
+[Sat Dec 19 03:19:31 2015]  say: Padawan: xd
+[Sat Dec 19 03:19:36 2015]  say: Padawan: xd
+[Sat Dec 19 03:19:54 2015]  print "Padawan^7 @@@PLRENAME Padawan(^52^7)
+"[Sat Dec 19 03:19:56 2015]  say: Padawan(^52^7): ta mejor xd
+[Sat Dec 19 03:20:01 2015]  say: Padawan: jamas supe entrar xd
+[Sat Dec 19 03:20:04 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:20:08 2015]  say: Padawan(^52^7): por la parte
+[Sat Dec 19 03:20:11 2015]  say: Padawan(^52^7): de atras de la cabeza
+[Sat Dec 19 03:20:24 2015]  say: Padawan: xddddddddddddddd
+[Sat Dec 19 03:20:28 2015]  say: Padawan(^52^7): xD
+[Sat Dec 19 03:20:39 2015]  say: Padawan(^52^7): estaba en korriban q.q
+[Sat Dec 19 03:20:42 2015]  say: Padawan: xd
+[Sat Dec 19 03:20:52 2015]  say: Padawan: perdon xd
+[Sat Dec 19 03:20:54 2015]  say: Padawan(^52^7): xd y estaba las tumbas siths 
+[Sat Dec 19 03:21:03 2015]  say: Padawan(^52^7): xd te arrodillaras ante mi jeday
+[Sat Dec 19 03:21:05 2015]  say: Padawan: xdd
+[Sat Dec 19 03:21:20 2015]  say: Padawan(^52^7): le dices
+[Sat Dec 19 03:21:21 2015]  say: Padawan(^52^7): a seba que
+[Sat Dec 19 03:21:25 2015]  say: Padawan(^52^7): no se interfiera en sao
+[Sat Dec 19 03:21:30 2015]  say: Padawan(^52^7): y va y le dice a hep para solucionar q.q
+[Sat Dec 19 03:21:30 2015]  say: Padawan: asaffafa
+[Sat Dec 19 03:21:35 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:21:40 2015]  say: Padawan: lo ves en consola?
+[Sat Dec 19 03:21:51 2015]  say: Padawan(^52^7): ta xd
+[Sat Dec 19 03:22:01 2015]  say: Padawan(^52^7): e.e poderes jef
+[Sat Dec 19 03:22:05 2015]  say: Padawan: lito
+[Sat Dec 19 03:22:08 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:22:41 2015]  say: Padawan(^52^7): veo a jnr triste 
+[Sat Dec 19 03:22:51 2015]  say: Padawan(^52^7): osea en el sentido de que no hay camino
+[Sat Dec 19 03:22:57 2015]  say: Padawan: si vine aqui xd
+[Sat Dec 19 03:23:02 2015]  say: Padawan: sino queria estar en jnr xd
+[Sat Dec 19 03:23:12 2015]  say: Padawan: es porque por solo una hora no quiero pensar en ellos xd
+[Sat Dec 19 03:23:17 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:23:22 2015]  say: Padawan(^52^7): pobre jnr
+[Sat Dec 19 03:23:37 2015]  say: Padawan(^52^7): lo raro es que fundamos un clan
+[Sat Dec 19 03:23:39 2015]  say: Padawan(^52^7): para jedis
+[Sat Dec 19 03:23:44 2015]  say: Padawan(^52^7): y ahora aceptamos a toDOS
+[Sat Dec 19 03:23:46 2015]  say: Padawan(^52^7): todos*
+[Sat Dec 19 03:23:54 2015]  say: Padawan(^52^7): pc de 10 fps y teclado feo q.q
+[Sat Dec 19 03:23:56 2015]  say: Padawan: xd
+[Sat Dec 19 03:24:20 2015]  say: Padawan(^52^7): estaba pensando y
+[Sat Dec 19 03:24:22 2015]  say: Padawan(^52^7): no queda otra xd
+[Sat Dec 19 03:24:27 2015]  say: Padawan(^52^7): debere echar a
+[Sat Dec 19 03:24:30 2015]  say: Padawan(^52^7): saurux
+[Sat Dec 19 03:24:31 2015]  say: Padawan(^52^7): zuzu
+[Sat Dec 19 03:24:39 2015]  say: Padawan(^52^7): no se si hay mas
+[Sat Dec 19 03:25:07 2015]  say: Padawan(^52^7): que es lo correcto me pregunto
+[Sat Dec 19 03:25:08 2015]  say: Padawan: xd
+[Sat Dec 19 03:25:17 2015]  say: Padawan: hoy hay nada correcto en este mundo
+[Sat Dec 19 03:25:28 2015]  say: Padawan: lo correcto es lo q tu creas q lo es
+[Sat Dec 19 03:25:44 2015]  say: Padawan(^52^7): xd contacte con seba 1 
+[Sat Dec 19 03:25:47 2015]  say: Padawan(^52^7): y esta vivo q.q
+[Sat Dec 19 03:26:06 2015]  say: Padawan: xd
+[Sat Dec 19 03:26:11 2015]  say: Padawan: vino como es eso? xd
+[Sat Dec 19 03:27:27 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:27:33 2015]  say: Padawan(^52^7): no se
+[Sat Dec 19 03:27:38 2015]  say: Padawan(^52^7): pero es esperanza xd
+[Sat Dec 19 03:27:53 2015]  say: Padawan(^52^7): seba 2 es muy 
+[Sat Dec 19 03:27:54 2015]  say: Padawan(^52^7): seba xd
+[Sat Dec 19 03:28:06 2015]  say: Padawan(^52^7): es muy de querer hacer todo
+[Sat Dec 19 03:28:12 2015]  say: Padawan(^52^7): para que le demos la medalla xd
+[Sat Dec 19 03:30:05 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:30:09 2015]  say: Padawan(^52^7): lo hice rapido
+[Sat Dec 19 03:30:15 2015]  say: Padawan(^52^7): para ser una estructura grande
+[Sat Dec 19 03:30:15 2015]  say: Padawan: xd
+[Sat Dec 19 03:30:29 2015]  say: Padawan: tu leiste lo que me dijo lki xd?
+[Sat Dec 19 03:30:34 2015]  say: Padawan(^52^7): no
+[Sat Dec 19 03:30:45 2015]  say: Padawan(^52^7): xd mataba
+[Sat Dec 19 03:30:47 2015]  say: Padawan(^52^7): npc reborn new
+[Sat Dec 19 03:30:50 2015]  say: Padawan: xd
+[Sat Dec 19 03:30:55 2015]  say: Padawan(^52^7): y tenia cg_draw2d 0
+[Sat Dec 19 03:30:59 2015]  say: Padawan(^52^7): porque ponian cada cosa q.q
+[Sat Dec 19 03:31:14 2015]  say: Padawan: xd
+[Sat Dec 19 03:31:16 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:31:20 2015]  say: Padawan(^52^7): y que dijo
+[Sat Dec 19 03:31:24 2015]  say: Padawan: xd
+[Sat Dec 19 03:31:30 2015]  say: Padawan: que no debia ser jnr xd
+[Sat Dec 19 03:31:41 2015]  say: Padawan(^52^7): <.<
+[Sat Dec 19 03:32:06 2015]  say: Padawan: que deberia ser sith
+[Sat Dec 19 03:32:12 2015]  say: Padawan: que jnr no va para mi
+[Sat Dec 19 03:32:15 2015]  say: Padawan(^52^7): y que piensas tu
+[Sat Dec 19 03:32:30 2015]  say: Padawan: me siento sumamente mal
+[Sat Dec 19 03:32:39 2015]  say: Padawan(^52^7): por
+[Sat Dec 19 03:33:02 2015]  say: Padawan: porque
+[Sat Dec 19 03:33:14 2015]  say: Padawan(^52^7): te cientes mal con lo que dijo?
+[Sat Dec 19 03:33:19 2015]  say: Padawan: si
+[Sat Dec 19 03:33:31 2015]  say: Padawan: queria pedirme mi amistad
+[Sat Dec 19 03:33:35 2015]  say: Padawan: y me preguntaba muchisimas cosas
+[Sat Dec 19 03:33:51 2015]  say: Padawan(^52^7): yo creo que cada uno decidimos que ser
+[Sat Dec 19 03:34:13 2015]  say: Padawan(^52^7): y yo aunque recuerde todo lo que paso
+[Sat Dec 19 03:34:17 2015]  say: Padawan(^52^7): y es dificil olvidar q.q
+[Sat Dec 19 03:34:39 2015]  say: Padawan(^52^7): bueno es que no se nisiquiera se que pasaria si existiera imperio aun
+[Sat Dec 19 03:34:39 2015]  say: Padawan: xd
+[Sat Dec 19 03:34:49 2015]  say: Padawan: si pero no dejas 
+[Sat Dec 19 03:34:54 2015]  say: Padawan: de sentirte mal
+[Sat Dec 19 03:35:04 2015]  say: Padawan(^52^7): xd me siento mal
+[Sat Dec 19 03:35:08 2015]  say: Padawan(^52^7): conmigo
+[Sat Dec 19 03:35:12 2015]  say: Padawan(^52^7): no con los demas jnr
+[Sat Dec 19 03:35:25 2015]  say: Padawan(^52^7): eso es positivo
+[Sat Dec 19 03:35:50 2015]  say: Padawan: xd
+[Sat Dec 19 03:35:56 2015]  say: Padawan: porq positivo?
+[Sat Dec 19 03:36:02 2015]  say: Padawan(^52^7): porque seria distinto
+[Sat Dec 19 03:36:27 2015]  say: Padawan(^52^7): sentirme mal con el pasado desde mi mismo que llevarcelo al clan
+[Sat Dec 19 03:36:30 2015]  say: Padawan(^52^7): ejemplo
+[Sat Dec 19 03:36:35 2015]  say: Padawan(^52^7): : pensar en fuzz
+[Sat Dec 19 03:36:37 2015]  say: Padawan(^52^7): que
+[Sat Dec 19 03:36:42 2015]  say: Padawan(^52^7): todos los demas piensen en fuzz
+[Sat Dec 19 03:37:31 2015]  say: Padawan(^52^7): sige tu corazon ese es el camino correcto
+[Sat Dec 19 03:37:44 2015]  say: Padawan: si pero xd
+[Sat Dec 19 03:37:50 2015]  say: Padawan: no dejo de sentirme tocadaxd
+[Sat Dec 19 03:37:56 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:38:00 2015]  say: Padawan(^52^7): haber
+[Sat Dec 19 03:38:10 2015]  say: Padawan(^52^7): enumeros lo que hiciste cuando llegaste
+[Sat Dec 19 03:38:21 2015]  say: Padawan(^52^7): ayudaste a seba
+[Sat Dec 19 03:38:26 2015]  say: Padawan(^52^7): me ayudaste
+[Sat Dec 19 03:38:31 2015]  say: Padawan(^52^7): ayudaste a los miembros
+[Sat Dec 19 03:38:34 2015]  say: Padawan(^52^7): ayudaste a tu pwn
+[Sat Dec 19 03:38:41 2015]  say: Padawan(^52^7): respetaste a los demas
+[Sat Dec 19 03:38:56 2015]  say: Padawan(^52^7): no creo que seas mala persona
+[Sat Dec 19 03:39:04 2015]  say: Padawan: mira las fotos de face xd
+[Sat Dec 19 03:39:17 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:39:20 2015]  say: Padawan(^52^7): morira esta pc
+[Sat Dec 19 03:39:42 2015]  say: Padawan(^52^7): haber
+[Sat Dec 19 03:39:54 2015]  say: Padawan: xD
+[Sat Dec 19 03:40:01 2015]  say: Padawan: deberias confiar mas en la pcxd
+[Sat Dec 19 03:42:13 2015]  say: Padawan(^52^7): xd ya
+[Sat Dec 19 03:42:16 2015]  say: Padawan(^52^7): haber
+[Sat Dec 19 03:42:52 2015]  say: Padawan(^52^7): lo unico que nos divide de lja sith es su forma de pensar
+[Sat Dec 19 03:43:00 2015]  say: Padawan(^52^7): por ejemplo
+[Sat Dec 19 03:43:19 2015]  say: Padawan(^52^7): nosotros pensamos en la paz antes de actuar
+[Sat Dec 19 03:43:35 2015]  say: Padawan(^52^7): compacion amor respeto autocontrol paciencia etc
+[Sat Dec 19 03:43:55 2015]  say: Padawan: xd
+[Sat Dec 19 03:43:57 2015]  say: Padawan(^52^7): pero los demas piensan en
+[Sat Dec 19 03:44:02 2015]  say: Padawan(^52^7): ser el mejor sin importar el resto
+[Sat Dec 19 03:44:03 2015]  say: Padawan: me saca de quisio que quieran sacarme de jnr
+[Sat Dec 19 03:44:13 2015]  say: Padawan(^52^7): se paciente
+[Sat Dec 19 03:44:25 2015]  say: Padawan(^52^7): xd el trato dice
+[Sat Dec 19 03:44:29 2015]  say: Padawan(^52^7): no banned no dice que no podemos luchar
+[Sat Dec 19 03:44:33 2015]  say: Padawan: no es la paciencia xd
+[Sat Dec 19 03:44:35 2015]  say: Padawan(^52^7): en otras palabras usa el sable y la force q.q
+[Sat Dec 19 03:44:41 2015]  say: Padawan: es el dolor que ya senti una vez d
+[Sat Dec 19 03:44:50 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:45:18 2015]  say: Padawan(^52^7): estube en 2 clanes siths y 1 mandalor y concordaban en que
+[Sat Dec 19 03:45:23 2015]  say: Padawan(^52^7): el resto no importa importas vos 
+[Sat Dec 19 03:45:34 2015]  say: Padawan(^52^7): solo mirate una cosa haber
+[Sat Dec 19 03:45:40 2015]  say: Padawan(^52^7): que mal has echo en jnr
+[Sat Dec 19 03:45:46 2015]  say: Padawan(^52^7): desde que regresaste la ultima ves
+[Sat Dec 19 03:46:05 2015]  say: Padawan: xd
+[Sat Dec 19 03:46:20 2015]  say: Padawan: decir que una perra es mas inteligente q carlos?xd
+[Sat Dec 19 03:46:25 2015]  say: Padawan(^52^7): xD
+[Sat Dec 19 03:46:30 2015]  say: Padawan(^52^7): eso no es ofensivo es verdad q.q
+[Sat Dec 19 03:46:32 2015]  say: Padawan(^52^7): ?
+[Sat Dec 19 03:46:38 2015]  say: Padawan(^52^7): la verdad no ofende e.e
+[Sat Dec 19 03:46:38 2015]  say: Padawan: si xddddddddd
+[Sat Dec 19 03:46:59 2015]  say: Padawan: desde que volvi no hice daños
+[Sat Dec 19 03:47:06 2015]  say: Padawan: pero me estoy haciendo daño a mi xd
+[Sat Dec 19 03:47:13 2015]  say: Padawan(^52^7): en que
+[Sat Dec 19 03:48:17 2015]  say: Padawan: en este momento xd
+[Sat Dec 19 03:48:25 2015]  say: Padawan: como quiero ayudar al resto
+[Sat Dec 19 03:48:36 2015]  say: Padawan: me torturo xd con todo lo que va a venir
+[Sat Dec 19 03:48:38 2015]  say: Padawan: de parte de lki xd
+[Sat Dec 19 03:49:24 2015]  say: Padawan(^52^7): lki es solo uno mas
+[Sat Dec 19 03:49:29 2015]  say: Padawan(^52^7): no creo que haga daños grandes
+[Sat Dec 19 03:49:39 2015]  say: Padawan(^52^7): ademas lja sith esta dividido en 500 partes
+[Sat Dec 19 03:49:41 2015]  say: Padawan: al clan no xd
+[Sat Dec 19 03:49:47 2015]  say: Padawan(^52^7): a ti?
+[Sat Dec 19 03:49:50 2015]  say: Padawan: si
+[Sat Dec 19 03:49:55 2015]  say: Padawan: lki es sumamente jodido
+[Sat Dec 19 03:49:58 2015]  say: Padawan: lo sabes
+[Sat Dec 19 03:50:10 2015]  say: Padawan(^52^7): yo lo quise entrenar 
+[Sat Dec 19 03:50:17 2015]  say: Padawan(^52^7): pero fue un error mio 
+[Sat Dec 19 03:50:31 2015]  say: Padawan(^52^7): porque lki queria solo poder
+[Sat Dec 19 03:50:38 2015]  say: Padawan(^52^7): queria acender 50 rangos en 1 dia
+[Sat Dec 19 03:51:15 2015]  say: Padawan(^52^7): y yo le dije tambien que si cambiaba actitud podria hacerlo
+[Sat Dec 19 03:51:30 2015]  say: Padawan(^52^7): el error fue que le dije que llegaria rapido seguro
+[Sat Dec 19 03:51:43 2015]  say: Padawan(^52^7): <.< y cuando vio que takao no lo acendia
+[Sat Dec 19 03:51:45 2015]  say: Padawan(^52^7): se fue
+[Sat Dec 19 03:51:56 2015]  say: Padawan(^52^7): y tenia a seba 1 por lo menos
+[Sat Dec 19 03:52:05 2015]  say: Padawan(^52^7): lki solo le importa
+[Sat Dec 19 03:52:07 2015]  say: Padawan(^52^7): que jnr muera
+[Sat Dec 19 03:52:18 2015]  say: Padawan(^52^7): si yo fuera el quiciera que te sintieras mal de esa forma
+[Sat Dec 19 03:52:24 2015]  say: Padawan(^52^7): si esta sola no serias una amenaza
+[Sat Dec 19 03:52:47 2015]  say: Padawan(^52^7): en todo caso
+[Sat Dec 19 03:52:50 2015]  say: Padawan(^52^7): angela fuera
+[Sat Dec 19 03:52:52 2015]  say: Padawan(^52^7): seba fuera
+[Sat Dec 19 03:53:05 2015]  say: Padawan(^52^7): jose crashed q.q
+[Sat Dec 19 03:53:09 2015]  say: Padawan(^52^7): jnr colapso
+[Sat Dec 19 03:53:31 2015]  say: Padawan: xd
+[Sat Dec 19 03:53:35 2015]  say: Padawan: como que colpaso?
+[Sat Dec 19 03:53:40 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:53:45 2015]  say: Padawan(^52^7): si tu dejaras por x motivo
+[Sat Dec 19 03:53:49 2015]  say: Padawan(^52^7): seba seguro dejaria
+[Sat Dec 19 03:53:56 2015]  say: Padawan(^52^7): o quedaria mal
+[Sat Dec 19 03:54:04 2015]  say: Padawan(^52^7): y mientras tanto jose crashed como marker
+[Sat Dec 19 03:54:11 2015]  say: Padawan(^52^7): y si yo estoy mal no puedo ver que pasa en jnr
+[Sat Dec 19 03:54:15 2015]  say: Padawan: xd
+[Sat Dec 19 03:54:18 2015]  say: Padawan(^52^7): xd y carlos y plo no podran solos
+[Sat Dec 19 03:54:32 2015]  say: Padawan(^52^7): lki siempre quiso dividir a jnr
+[Sat Dec 19 03:54:34 2015]  say: Padawan: decirme que jnr depende de mi no es buenc onsuelo xddddddd
+[Sat Dec 19 03:54:37 2015]  say: Padawan(^52^7): a nosotros no los confeso cuando lo interrogamos xd
+[Sat Dec 19 03:54:39 2015]  say: Padawan(^52^7): como 50 veces
+[Sat Dec 19 03:54:46 2015]  say: Padawan(^52^7): no dije que depende de ti
+[Sat Dec 19 03:54:50 2015]  say: Padawan: no xd
+[Sat Dec 19 03:54:52 2015]  say: Padawan(^52^7): digo lo que los otros piensan
+[Sat Dec 19 03:55:00 2015]  say: Padawan(^52^7): es vital es como decir
+[Sat Dec 19 03:55:02 2015]  say: Padawan(^52^7): mm
+[Sat Dec 19 03:55:06 2015]  say: Padawan(^52^7): se va shiva 
+[Sat Dec 19 03:55:09 2015]  say: Padawan(^52^7): iras es el pwn se va
+[Sat Dec 19 03:55:13 2015]  say: Padawan(^52^7): y el pwn de iras osea zuzu se va
+[Sat Dec 19 03:55:16 2015]  say: Padawan(^52^7): q.q 3 menos
+[Sat Dec 19 03:55:34 2015]  say: Padawan: pero yo no me quiero ir
+[Sat Dec 19 03:55:40 2015]  say: Padawan: es que es irritante
+[Sat Dec 19 03:55:47 2015]  say: Padawan(^52^7): xd lo dije como ejemplo
+[Sat Dec 19 03:55:54 2015]  say: Padawan: un sith de verdad lki no le llega ni a los talones
+[Sat Dec 19 03:55:59 2015]  say: Padawan: se parte de risa con solo verlo
+[Sat Dec 19 03:56:01 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:56:14 2015]  say: Padawan(^52^7): pero te jode
+[Sat Dec 19 03:56:15 2015]  say: Padawan: scripts
+[Sat Dec 19 03:56:20 2015]  say: Padawan(^52^7): como ami que carlos me diga x cosa
+[Sat Dec 19 03:56:22 2015]  say: Padawan: es como rlly xd
+[Sat Dec 19 03:56:45 2015]  say: Padawan(^52^7): solo importa lo que tu crees que sos 
+[Sat Dec 19 03:56:55 2015]  say: Padawan(^52^7): decile i am jeday
+[Sat Dec 19 03:57:00 2015]  say: Padawan(^52^7): for the republic
+[Sat Dec 19 03:57:02 2015]  say: Padawan(^52^7): <.<!
+[Sat Dec 19 03:57:11 2015]  say: Padawan: xd
+[Sat Dec 19 03:57:18 2015]  say: Padawan: podria decir tantas cosas xd
+[Sat Dec 19 03:57:37 2015]  say: Padawan: pero no queria ocacionar problemas
+[Sat Dec 19 03:57:42 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:57:51 2015]  say: Padawan(^52^7): Takao: los siths seguros nos pondran en contra
+[Sat Dec 19 03:57:58 2015]  say: Padawan(^52^7): Takao: no les daremos ban porque sino ellos les daran ban aca
+[Sat Dec 19 03:58:02 2015]  say: Padawan(^52^7): Takao: pero si combatiremos
+[Sat Dec 19 03:58:07 2015]  say: Padawan(^52^7): Jose: q.q
+[Sat Dec 19 03:58:09 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:58:13 2015]  say: Padawan: xd
+[Sat Dec 19 03:58:29 2015]  say: Padawan(^52^7): lki siempre esta al lado
+[Sat Dec 19 03:58:33 2015]  say: Padawan(^52^7): de los mas fuertes porque
+[Sat Dec 19 03:58:34 2015]  say: Padawan(^52^7): quiere poder q.q
+[Sat Dec 19 03:58:44 2015]  say: Padawan(^52^7): LKI: esta en nuestra naturaleza tirar clanes
+[Sat Dec 19 03:58:51 2015]  say: Padawan: y quienes son poder
+[Sat Dec 19 03:58:53 2015]  say: Padawan: el solo xd?
+[Sat Dec 19 03:58:53 2015]  say: Padawan(^52^7): Aos Skirata Sao 
+[Sat Dec 19 03:59:01 2015]  say: Padawan(^52^7): Nunca pudimos con JNR
+[Sat Dec 19 03:59:10 2015]  say: Padawan(^52^7): xd talvez porque somos familia
+[Sat Dec 19 03:59:18 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 03:59:21 2015]  say: Padawan(^52^7): imagina
+[Sat Dec 19 03:59:29 2015]  say: Padawan(^52^7): que sos amiga de la hija de macr
+[Sat Dec 19 03:59:30 2015]  say: Padawan(^52^7): macri q.q
+[Sat Dec 19 03:59:33 2015]  say: Padawan(^52^7): es lo mismo
+[Sat Dec 19 03:59:49 2015]  say: Padawan(^52^7): lki es amigo de seba que es pwn jg de carlos
+[Sat Dec 19 03:59:55 2015]  say: Padawan(^52^7): ejemplo:
+[Sat Dec 19 04:00:02 2015]  say: Padawan(^52^7): lki: fsansafsn 
+[Sat Dec 19 04:00:06 2015]  say: Padawan(^52^7): decile seguro te escuchan
+[Sat Dec 19 04:00:08 2015]  say: Padawan(^52^7): seba: fasnsfn
+[Sat Dec 19 04:00:19 2015]  say: Padawan(^52^7): carlos: mm de doNde sacaste eso
+[Sat Dec 19 04:00:23 2015]  say: Padawan(^52^7): carlos: xd
+[Sat Dec 19 04:00:29 2015]  say: Padawan: xd
+[Sat Dec 19 04:00:34 2015]  say: Padawan(^52^7): asi es lki
+[Sat Dec 19 04:00:40 2015]  say: Padawan(^52^7): porque crees que pasa todo el dia con takao
+[Sat Dec 19 04:00:42 2015]  say: Padawan(^52^7): porque devas no esta
+[Sat Dec 19 04:00:47 2015]  say: Padawan(^52^7): y takao no le da poder
+[Sat Dec 19 04:00:51 2015]  say: Padawan(^52^7): pero cuando venga devas seguro que si q.q
+[Sat Dec 19 04:00:56 2015]  say: Padawan: y porque yo esta vez xd!!
+[Sat Dec 19 04:00:58 2015]  say: Padawan(^52^7): y lugormod morira porque devas lo sacara
+[Sat Dec 19 04:01:05 2015]  say: Padawan(^52^7): no se lki es raro xd
+[Sat Dec 19 04:01:09 2015]  say: Padawan: porque no seba que seba es mas facil xd
+[Sat Dec 19 04:01:11 2015]  say: Padawan(^52^7): le gusta hacer sentir dolor
+[Sat Dec 19 04:01:19 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:01:25 2015]  say: Padawan(^52^7): pero tu debes saber quien eres
+[Sat Dec 19 04:01:26 2015]  say: Padawan: es como un dementor xd
+[Sat Dec 19 04:01:28 2015]  say: Padawan(^52^7): en mente y corazon
+[Sat Dec 19 04:01:33 2015]  say: Padawan(^52^7): xd si
+[Sat Dec 19 04:01:52 2015]  say: Padawan(^52^7): una ves cuando jose era jedi q.q
+[Sat Dec 19 04:02:08 2015]  say: Padawan(^52^7): fuzz le dijo a plokoon que tenia 2 opciones la primera o que lo torturara o que 
+[Sat Dec 19 04:02:12 2015]  say: Padawan(^52^7): fuera su aprendiz 
+[Sat Dec 19 04:02:23 2015]  say: Padawan(^52^7): xd plo: i am keldor jedi
+[Sat Dec 19 04:02:28 2015]  say: Padawan(^52^7): plo: yo defiendo la republica
+[Sat Dec 19 04:02:28 2015]  say: Padawan: xD 
+[Sat Dec 19 04:02:31 2015]  say: Padawan(^52^7): fuzz: die
+[Sat Dec 19 04:02:35 2015]  say: Padawan(^52^7): xd y ahi aparecimso nosotros
+[Sat Dec 19 04:02:45 2015]  say: Padawan(^52^7): xd morimos ese dia pero
+[Sat Dec 19 04:02:49 2015]  say: Padawan(^52^7): morimos juntos
+[Sat Dec 19 04:02:52 2015]  say: Padawan(^52^7): peleando por algo
+[Sat Dec 19 04:02:54 2015]  say: Padawan: es que yo fui sith xd y no fue por el poder eso es lo que me distingue xd de todos xd excepto de ti xd
+[Sat Dec 19 04:02:55 2015]  say: Padawan(^52^7): xd lindas eras
+[Sat Dec 19 04:03:11 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:03:41 2015]  say: Padawan(^52^7): debes elejir tu camino
+[Sat Dec 19 04:03:48 2015]  say: Padawan(^52^7): nadie dijo que jedi seria facil sin obstaculos
+[Sat Dec 19 04:04:12 2015]  say: Padawan(^52^7): yoda decia que el camino oscuro es tentador y que siempre estara
+[Sat Dec 19 04:04:19 2015]  say: Padawan(^52^7): y cuando yo era am2 ponele
+[Sat Dec 19 04:04:21 2015]  say: Padawan(^52^7): o 3 
+[Sat Dec 19 04:04:27 2015]  say: Padawan(^52^7): dijo gran equipo hacen
+[Sat Dec 19 04:04:41 2015]  say: Padawan(^52^7): y seras un jedi cuando el camino oscuro superes 
+[Sat Dec 19 04:04:46 2015]  say: Padawan(^52^7): y teoricamente lo supere
+[Sat Dec 19 04:04:49 2015]  say: Padawan(^52^7): teoricamente q.q
+[Sat Dec 19 04:04:57 2015]  say: Padawan(^52^7): y dijo yoda ahora sos un jedi
+[Sat Dec 19 04:05:13 2015]  say: Padawan(^52^7): pero no todos seran jedis
+[Sat Dec 19 04:05:16 2015]  say: Padawan(^52^7): no todos estan listos
+[Sat Dec 19 04:05:33 2015]  say: Padawan(^52^7): a lo que voy es que por ejemplo serias como un arbol
+[Sat Dec 19 04:05:34 2015]  say: Padawan: xd
+[Sat Dec 19 04:05:37 2015]  say: Padawan(^52^7): semilla
+[Sat Dec 19 04:05:40 2015]  say: Padawan(^52^7): tu en pwn
+[Sat Dec 19 04:05:47 2015]  say: Padawan(^52^7): empiezas a crecer pasas los rangos
+[Sat Dec 19 04:05:50 2015]  say: Padawan(^52^7): llega invierno
+[Sat Dec 19 04:05:54 2015]  say: Padawan(^52^7): sin hojas
+[Sat Dec 19 04:05:54 2015]  say: Padawan: 13 rangos xd
+[Sat Dec 19 04:06:02 2015]  say: Padawan(^52^7): tronco seco y pareces que no hay esperanza
+[Sat Dec 19 04:06:06 2015]  say: Padawan(^52^7): llega primavera y floreces
+[Sat Dec 19 04:06:08 2015]  say: Padawan(^52^7): es asi xd
+[Sat Dec 19 04:06:31 2015]  say: Padawan(^52^7): en todo caso
+[Sat Dec 19 04:06:33 2015]  say: Padawan(^52^7): semilla pwn
+[Sat Dec 19 04:06:36 2015]  say: Padawan(^52^7): creciste rangos
+[Sat Dec 19 04:06:43 2015]  say: Padawan(^52^7): invierno te fuiste primavera volviste invierno te fuiste
+[Sat Dec 19 04:06:48 2015]  say: Padawan(^52^7): xd y asi un par de veces
+[Sat Dec 19 04:06:54 2015]  say: Padawan(^52^7): y ahora estas en primavera y verano 
+[Sat Dec 19 04:07:06 2015]  say: Padawan(^52^7): y ahora otoño
+[Sat Dec 19 04:07:19 2015]  say: Padawan(^52^7): xd hay epocas duras muy duras
+[Sat Dec 19 04:07:43 2015]  say: Padawan: XD
+[Sat Dec 19 04:07:44 2015]  say: Padawan: xd
+[Sat Dec 19 04:07:46 2015]  say: Padawan(^52^7): sino crelleras en ti misma hubieras dicho
+[Sat Dec 19 04:08:00 2015]  say: Padawan(^52^7): para que me importa que jose se valla al exilio 
+[Sat Dec 19 04:08:11 2015]  say: Padawan(^52^7): xd o no me hubieras dicho
+[Sat Dec 19 04:08:14 2015]  say: Padawan(^52^7): nada de irte e.e
+[Sat Dec 19 04:08:22 2015]  say: Padawan: e,e?
+[Sat Dec 19 04:08:36 2015]  say: Padawan(^52^7): puedes decidir
+[Sat Dec 19 04:08:37 2015]  say: Padawan: como nada de irme xd?
+[Sat Dec 19 04:08:41 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:08:42 2015]  say: Padawan(^52^7): me dijiste
+[Sat Dec 19 04:08:54 2015]  say: Padawan(^52^7): kate: no evadas responsabilidades nada de dejar tu puesto e.e
+[Sat Dec 19 04:09:03 2015]  say: Padawan(^52^7): seba e.e
+[Sat Dec 19 04:09:17 2015]  say: Padawan: seba e,e,e,e,!
+[Sat Dec 19 04:09:20 2015]  say: Padawan: ._.
+[Sat Dec 19 04:09:23 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:09:27 2015]  say: Padawan(^52^7): entonces
+[Sat Dec 19 04:09:35 2015]  say: Padawan(^52^7): debes decidir
+[Sat Dec 19 04:09:48 2015]  say: Padawan(^52^7): si invernar y florecer o que tu arbol se queme por el invierno
+[Sat Dec 19 04:10:05 2015]  say: Padawan(^52^7): pase lo que pase
+[Sat Dec 19 04:10:21 2015]  say: Padawan(^52^7): siempre seras una buena persona
+[Sat Dec 19 04:10:26 2015]  say: Padawan(^52^7): y amiga
+[Sat Dec 19 04:10:29 2015]  say: Padawan(^52^7): y 1000 cosas mas 
+[Sat Dec 19 04:10:37 2015]  say: Padawan(^52^7): e.e pero no alcanza el chat para hablar todas
+[Sat Dec 19 04:11:10 2015]  say: Padawan(^52^7): que es lo que te aterra 
+[Sat Dec 19 04:11:16 2015]  say: Padawan(^52^7): o te hace sentir mal
+[Sat Dec 19 04:11:20 2015]  say: Padawan(^52^7): ademas de lo de lki
+[Sat Dec 19 04:12:05 2015]  say: Padawan: xd
+[Sat Dec 19 04:12:20 2015]  say: Padawan: me aterra xd
+[Sat Dec 19 04:12:43 2015]  say: Padawan: sentir un dolor no nuevo xd
+[Sat Dec 19 04:13:08 2015]  say: Padawan(^52^7): tu decides quien ser 
+[Sat Dec 19 04:13:18 2015]  say: Padawan(^52^7): si sabes que confio en ti igual 
+[Sat Dec 19 04:13:35 2015]  say: Padawan: quien esta en jnr?
+[Sat Dec 19 04:13:39 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:13:41 2015]  say: Padawan(^52^7): no se haber
+[Sat Dec 19 04:14:06 2015]  say: Padawan(^52^7): seba
+[Sat Dec 19 04:14:07 2015]  say: Padawan(^52^7): emi
+[Sat Dec 19 04:14:09 2015]  say: Padawan(^52^7): sdel
+[Sat Dec 19 04:14:34 2015]  say: Padawan(^52^7): erwin*
+[Sat Dec 19 04:14:47 2015]  say: Padawan: nadie mas? xd?
+[Sat Dec 19 04:15:02 2015]  say: Padawan(^52^7): wtf
+[Sat Dec 19 04:15:04 2015]  say: Padawan(^52^7): emi
+[Sat Dec 19 04:15:05 2015]  say: Padawan(^52^7): truchaso
+[Sat Dec 19 04:15:07 2015]  say: Padawan(^52^7): que hace emi hui
+[Sat Dec 19 04:15:09 2015]  say: Padawan: emi que xd?
+[Sat Dec 19 04:15:14 2015]  say: Padawan: emilio c? xd
+[Sat Dec 19 04:15:51 2015]  say: Padawan(^52^7): si
+[Sat Dec 19 04:15:53 2015]  say: Padawan(^52^7): el que nunca subio
+[Sat Dec 19 04:15:54 2015]  say: Padawan(^52^7): xD
+[Sat Dec 19 04:15:58 2015]  say: Padawan: como que..
+[Sat Dec 19 04:16:00 2015]  say: Padawan: deberiamos ir
+[Sat Dec 19 04:16:02 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:16:07 2015]  say: Padawan(^52^7): ya se esta por ir
+[Sat Dec 19 04:16:42 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:16:47 2015]  say: Padawan(^52^7): poders jef
+[Sat Dec 19 04:17:44 2015]  say: Padawan(^52^7): bueno
+[Sat Dec 19 04:18:54 2015]  say: Padawan(^52^7): entonces
+[Sat Dec 19 04:18:56 2015]  say: Padawan(^52^7): confia en ti
+[Sat Dec 19 04:20:07 2015]  say: Padawan: xd
+[Sat Dec 19 04:20:15 2015]  say: Padawan: recuerdo cuando emi me dijo
+[Sat Dec 19 04:20:19 2015]  say: Padawan: que me vaya de jnr
+[Sat Dec 19 04:20:24 2015]  say: Padawan: xd
+[Sat Dec 19 04:20:29 2015]  say: Padawan: hay cosas q no olvido
+[Sat Dec 19 04:20:34 2015]  say: Padawan: y que el dia de hoy siguen igual
+[Sat Dec 19 04:21:03 2015]  say: Padawan(^52^7): xD
+[Sat Dec 19 04:21:07 2015]  say: Padawan(^52^7): porque
+[Sat Dec 19 04:21:11 2015]  say: Padawan(^52^7): que te vayas truchaso
+[Sat Dec 19 04:21:17 2015]  say: Padawan: no aguantaba mas nada
+[Sat Dec 19 04:21:23 2015]  say: Padawan: queria q forme un clanxd
+[Sat Dec 19 04:21:54 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:21:56 2015]  say: Padawan(^52^7): : tengo uan amiga
+[Sat Dec 19 04:22:00 2015]  say: Padawan(^52^7): que talvez entre a jugar
+[Sat Dec 19 04:22:02 2015]  say: Padawan(^52^7): q.q
+[Sat Dec 19 04:22:09 2015]  say: Padawan: xd
+[Sat Dec 19 04:22:13 2015]  say: Padawan: en serio xd?
+[Sat Dec 19 04:22:29 2015]  say: Padawan(^52^7): si q.q
+[Sat Dec 19 04:22:34 2015]  say: Padawan(^52^7): no Soy racista
+[Sat Dec 19 04:22:36 2015]  say: Padawan(^52^7): ni machista pero
+[Sat Dec 19 04:22:45 2015]  say: Padawan(^52^7): no aconstumbro ver mas que angela en jnr e.e
+[Sat Dec 19 04:22:53 2015]  say: Padawan: xd
+[Sat Dec 19 04:22:57 2015]  say: Padawan: tan mala soy xd?
+[Sat Dec 19 04:24:05 2015]  say: Padawan(^52^7): xD
+[Sat Dec 19 04:24:07 2015]  say: Padawan(^52^7): no
+[Sat Dec 19 04:24:09 2015]  say: Padawan(^52^7): pero
+[Sat Dec 19 04:24:12 2015]  say: Padawan(^52^7): e visto 3 mujeres nomas
+[Sat Dec 19 04:24:15 2015]  say: Padawan(^52^7): en jnr hablo
+[Sat Dec 19 04:24:17 2015]  say: Padawan(^52^7): 4*
+[Sat Dec 19 04:24:23 2015]  say: Padawan(^52^7): xd la primera que no recuerdo name
+[Sat Dec 19 04:24:24 2015]  say: Padawan(^52^7): sofia
+[Sat Dec 19 04:24:27 2015]  say: Padawan(^52^7): kate
+[Sat Dec 19 04:24:28 2015]  say: Padawan(^52^7): karina
+[Sat Dec 19 04:24:30 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:24:45 2015]  say: Padawan: y esa que te gustaba xd
+[Sat Dec 19 04:25:09 2015]  say: Padawan(^52^7): e.e
+[Sat Dec 19 04:25:11 2015]  say: Padawan(^52^7): no me gustaba sino
+[Sat Dec 19 04:25:16 2015]  say: Padawan(^52^7): que era 
+[Sat Dec 19 04:25:23 2015]  say: Padawan(^52^7): xd como decirlo pacifista?
+[Sat Dec 19 04:25:31 2015]  say: Padawan: te gustaba
+[Sat Dec 19 04:25:33 2015]  say: Padawan: punto
+[Sat Dec 19 04:25:48 2015]  say: Padawan: y a que se debe que quiere jugar? xd
+[Sat Dec 19 04:25:58 2015]  say: Padawan(^52^7): xd no se
+[Sat Dec 19 04:26:00 2015]  say: Padawan(^52^7): es amiga de emi
+[Sat Dec 19 04:26:02 2015]  say: Padawan(^52^7): e.e
+[Sat Dec 19 04:26:04 2015]  say: Padawan(^52^7): que no me gustaba
+[Sat Dec 19 04:26:15 2015]  say: Padawan(^52^7): nisiquiera la conocia 
+[Sat Dec 19 04:26:26 2015]  say: Padawan: hay
+[Sat Dec 19 04:26:29 2015]  say: Padawan: RE POCAS
+[Sat Dec 19 04:26:32 2015]  say: Padawan: posibilidades
+[Sat Dec 19 04:26:34 2015]  say: Padawan: que una mujer
+[Sat Dec 19 04:26:37 2015]  say: Padawan: juegue a este juego
+[Sat Dec 19 04:26:40 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:26:45 2015]  say: Padawan(^52^7): ya vi 4 q.q
+[Sat Dec 19 04:26:50 2015]  say: Padawan(^52^7): 5 con la novia de war?
+[Sat Dec 19 04:27:04 2015]  say: Padawan(^52^7): e.e no cuento a daniela porque
+[Sat Dec 19 04:27:09 2015]  say: Padawan(^52^7): no se si es un robot
+[Sat Dec 19 04:27:14 2015]  say: Padawan: es lesbiana afafas
+[Sat Dec 19 04:27:18 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:27:26 2015]  say: Padawan: athenas
+[Sat Dec 19 04:27:30 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:27:30 2015]  say: Padawan: minnie
+[Sat Dec 19 04:27:31 2015]  say: Padawan(^52^7): si la conoci
+[Sat Dec 19 04:27:33 2015]  say: Padawan(^52^7): a athenas
+[Sat Dec 19 04:27:34 2015]  say: Padawan(^52^7): minnie
+[Sat Dec 19 04:27:37 2015]  say: Padawan(^52^7): tambien
+[Sat Dec 19 04:27:47 2015]  say: Padawan(^52^7): xd minnie y depre 
+[Sat Dec 19 04:28:02 2015]  say: Padawan: xD
+[Sat Dec 19 04:28:07 2015]  say: Padawan: buena historia
+[Sat Dec 19 04:28:09 2015]  say: Padawan: me la conto war
+[Sat Dec 19 04:28:11 2015]  say: Padawan: en secreto xdddddd
+[Sat Dec 19 04:28:12 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:28:39 2015]  say: Padawan(^52^7): e.e
+[Sat Dec 19 04:28:41 2015]  say: Padawan(^52^7): el mosquito
+[Sat Dec 19 04:28:42 2015]  say: Padawan(^52^7): me pico
+[Sat Dec 19 04:28:45 2015]  say: Padawan(^52^7): en la man
+[Sat Dec 19 04:28:57 2015]  say: Padawan(^52^7): mano
+[Sat Dec 19 04:29:04 2015]  say: Padawan: txd
+[Sat Dec 19 04:29:10 2015]  say: Padawan: recuerdas
+[Sat Dec 19 04:29:11 2015]  say: Padawan: cuando
+[Sat Dec 19 04:29:14 2015]  say: Padawan: no querias entrenar a nadie
+[Sat Dec 19 04:29:17 2015]  say: Padawan: porque no tenias 
+[Sat Dec 19 04:29:24 2015]  say: Padawan: el estado psicologico
+[Sat Dec 19 04:29:30 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:29:33 2015]  say: Padawan(^52^7): My origin is: (3870 -9354 1470) - You can teleport here with /mtelelast
+
+[Sat Dec 19 04:29:38 2015]  say: Padawan(^52^7): no es estado psicologico sino que
+[Sat Dec 19 04:29:42 2015]  say: Padawan(^52^7): es como
+[Sat Dec 19 04:29:45 2015]  say: Padawan(^52^7): si yo entreno a
+[Sat Dec 19 04:29:47 2015]  say: Padawan(^52^7): erwin
+[Sat Dec 19 04:29:51 2015]  say: Padawan(^52^7): y le enseño todo
+[Sat Dec 19 04:29:52 2015]  say: Padawan(^52^7): y el no lo usa
+[Sat Dec 19 04:29:55 2015]  say: Padawan(^52^7): para que se lo enseño q.q
+[Sat Dec 19 04:30:02 2015]  say: Padawan(^52^7): porque crees
+[Sat Dec 19 04:30:03 2015]  say: Padawan(^52^7): que no enseño esto
+[Sat Dec 19 04:30:06 2015]  say: Padawan: bueno en mi caso seria
+[Sat Dec 19 04:30:09 2015]  say: Padawan: por mi estado xd
+[Sat Dec 19 04:30:10 2015]  say: Padawan(^52^7): o estilo blue xd
+[Sat Dec 19 04:30:19 2015]  say: Padawan(^52^7): entonces
+[Sat Dec 19 04:30:22 2015]  say: Padawan(^52^7): jose se pone triste
+[Sat Dec 19 04:30:25 2015]  say: Padawan(^52^7): cuando los jnr son triste d:
+[Sat Dec 19 04:30:33 2015]  say: Padawan(^52^7): xd un portal
+[Sat Dec 19 04:30:35 2015]  say: Padawan: pon
+[Sat Dec 19 04:30:36 2015]  say: Padawan(^52^7): a la era kotf
+[Sat Dec 19 04:30:44 2015]  say: Padawan: esta roto x
+[Sat Dec 19 04:30:46 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:30:49 2015]  say: Padawan(^52^7): si
+[Sat Dec 19 04:30:52 2015]  say: Padawan: pon
+[Sat Dec 19 04:30:56 2015]  say: Padawan: cg_sabertrail 2
+[Sat Dec 19 04:31:03 2015]  say: Padawan: miraxd
+[Sat Dec 19 04:31:03 2015]  say: Padawan(^52^7): ya
+[Sat Dec 19 04:31:07 2015]  say: Padawan(^52^7): wtf
+[Sat Dec 19 04:31:10 2015]  say: Padawan(^52^7): POrque sale
+[Sat Dec 19 04:31:12 2015]  say: Padawan(^52^7): tipo encubridor
+[Sat Dec 19 04:31:13 2015]  say: Padawan: pon
+[Sat Dec 19 04:31:17 2015]  say: Padawan: 0
+[Sat Dec 19 04:31:21 2015]  say: Padawan(^52^7): dale
+[Sat Dec 19 04:31:24 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:31:26 2015]  say: Padawan(^52^7): eso es real
+[Sat Dec 19 04:31:31 2015]  say: Padawan: el uno es normak
+[Sat Dec 19 04:31:43 2015]  say: Padawan(^52^7): raRaSo
+[Sat Dec 19 04:31:45 2015]  say: Padawan(^52^7): saLe un espejo
+[Sat Dec 19 04:31:47 2015]  say: Padawan(^52^7): espejo xd
+[Sat Dec 19 04:31:48 2015]  say: Padawan: el dos lo usaba para entrenar
+[Sat Dec 19 04:31:53 2015]  say: Padawan: es muy bueno para hacer poke xd
+[Sat Dec 19 04:31:56 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:31:58 2015]  say: Padawan(^52^7): si
+[Sat Dec 19 04:32:01 2015]  say: Padawan(^52^7): Desde aca cada ves que lo hago
+[Sat Dec 19 04:32:04 2015]  say: Padawan(^52^7): me baja a 5 fps
+[Sat Dec 19 04:32:08 2015]  say: Padawan: lo descubri con aerender y quedamos que seria nuestro srcreto xd
+[Sat Dec 19 04:32:08 2015]  say: Padawan(^52^7): es como el encubridor
+[Sat Dec 19 04:32:13 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:32:16 2015]  say: Padawan(^52^7): yo se 
+[Sat Dec 19 04:32:18 2015]  say: Padawan: pero ya no esta xd
+[Sat Dec 19 04:32:19 2015]  say: Padawan(^52^7): 500 cosas
+[Sat Dec 19 04:32:21 2015]  say: Padawan: asi que no importa xd
+[Sat Dec 19 04:32:23 2015]  say: Padawan(^52^7): xd 
+[Sat Dec 19 04:32:26 2015]  say: Padawan(^52^7): no se
+[Sat Dec 19 04:32:30 2015]  say: Padawan(^52^7): secretos de armaS
+[Sat Dec 19 04:32:31 2015]  say: Padawan(^52^7): De sables
+[Sat Dec 19 04:32:33 2015]  say: Padawan(^52^7): de naves
+[Sat Dec 19 04:32:35 2015]  say: Padawan(^52^7): ni vehiculos
+[Sat Dec 19 04:32:36 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:32:39 2015]  say: Padawan: lo que me gusta del 2
+[Sat Dec 19 04:32:45 2015]  say: Padawan: es como si  el sable bailara
+[Sat Dec 19 04:32:48 2015]  say: Padawan(^52^7): de trucos para force +use e.e
+[Sat Dec 19 04:32:52 2015]  say: Padawan(^52^7): xD
+[Sat Dec 19 04:32:52 2015]  say: Padawan: porque forma como un retraso xd
+[Sat Dec 19 04:32:54 2015]  say: Padawan(^52^7): si
+[Sat Dec 19 04:33:01 2015]  say: Padawan(^52^7): eS un espejo e.e
+[Sat Dec 19 04:33:05 2015]  say: Padawan: ya se :C
+[Sat Dec 19 04:33:16 2015]  say: Padawan(^52^7): xd te enseñe
+[Sat Dec 19 04:33:18 2015]  say: Padawan(^52^7): el secreto de la nave?
+[Sat Dec 19 04:33:19 2015]  say: Padawan: secreto pada jg agragado xd?
+[Sat Dec 19 04:33:31 2015]  say: Padawan: cual xd?
+[Sat Dec 19 04:33:47 2015]  say: Padawan(^52^7): soy el unico
+[Sat Dec 19 04:33:53 2015]  say: Padawan(^52^7): que no puedo spawnear un vehiculo nave?
+[Sat Dec 19 04:34:01 2015]  say: Padawan: xd?
+[Sat Dec 19 04:34:05 2015]  say: Padawan(^52^7): pone una nave
+[Sat Dec 19 04:34:07 2015]  say: Padawan(^52^7): z-96
+[Sat Dec 19 04:34:09 2015]  say: Padawan(^52^7): 5*
+[Sat Dec 19 04:34:23 2015]  say: Padawan(^52^7): xd no te deja?
+[Sat Dec 19 04:34:31 2015]  say: Padawan: no existe
+[Sat Dec 19 04:34:35 2015]  say: Padawan(^52^7): xd
+[Sat Dec 19 04:34:37 2015]  say: Padawan(^52^7): no estan puestos
+[Sat Dec 19 04:34:39 2015]  say: Padawan(^52^7): bueno
+[Sat Dec 19 04:34:41 2015]  say: Padawan: nop xd
+[Sat Dec 19 04:34:44 2015]  say: Padawan(^52^7): secreto del speeder plokoon
+[Sat Dec 19 04:34:54 2015]  say: Padawan(^52^7): e.e tampoco
+[Sat Dec 19 04:35:02 2015]  say: Padawan(^52^7): no me deja q.q
+[Sat Dec 19 04:35:16 2015]  say: Padawan(^52^7): bueno
+[Sat Dec 19 04:35:20 2015]  say: Padawan(^52^7): xd en las naves hay una forma
+[Sat Dec 19 04:35:23 2015]  say: Padawan(^52^7): de cambiar el estilo de disparo
+[Sat Dec 19 04:35:24 2015]  say: Padawan(^52^7): ejemplo
+[Sat Dec 19 04:35:31 2015]  say: Padawan(^52^7): en ves de tirar de 1 disparo por ves
+[Sat Dec 19 04:35:34 2015]  say: Padawan(^52^7): tiras de a 4 por ves
+[Sat Dec 19 04:35:38 2015]  say: Padawan(^52^7): en caso de la x wing xd
+[Sat Dec 19 04:35:48 2015]  say: Padawan(^52^7): o tiras 2 misiles en ves de 1
+[Sat Dec 19 04:35:50 2015]  say: Padawan(^52^7): de un tiro q.q
+[Sat Dec 19 04:35:57 2015]  say: Padawan(^52^7): y el speeder de plo trepa montañas 
+[Sat Dec 19 04:36:01 2015]  say: Padawan(^52^7): xD
+[Sat Dec 19 04:36:06 2015]  say: Padawan: xddddddddddddd
+[Sat Dec 19 04:36:10 2015]  say: Padawan(^52^7): vamos al marker 1
+[Sat Dec 19 04:36:13 2015]  say: Padawan(^52^7): ya que no hay nadie
+[Sat Dec 19 04:36:17 2015]  say: Padawan(^52^7): y te muestro
+[Sat Dec 19 04:36:22 2015]  say: Padawan(^52^7): o al 2
+[Sat Dec 19 04:36:26 2015]  say: Padawan(^52^7): xd si es que hay alguien en el 1
+[Sat Dec 19 04:36:43 2015]  say: Padawan: dasda
+[Sat Dec 19 04:36:46 2015]  say: Padawan: vamos al 1 xd
+[Sat Dec 19 04:36:47 2015]  say: Padawan: finxd
+[Sat Dec 19 04:36:50 2015]  say: Padawan(^52^7): xd ok
+[Sat Dec 19 04:36:52 2015]  say: Padawan(^52^7): d.
+[Sat Dec 19 04:36:55 2015]  ClientDisconnect: 1
+[Sat Dec 19 04:37:00 2015]  ClientDisconnect: 0
+[Sat Dec 19 15:01:37 2015]  ClientConnect: 0
+[Sat Dec 19 15:01:37 2015]  mlog:Player ^0Darth^7_^1Pluton, connected. With IP - 46.61.91.23:29070 
+[Sat Dec 19 15:05:40 2015]  ClientDisconnect: 0
+[Sat Dec 19 15:05:40 2015]  ClientConnect: 0
+[Sat Dec 19 15:05:40 2015]  mlog:Player ^0Darth^7_^1Pluton, connected. With IP - 46.61.91.23:29070 
+[Sat Dec 19 15:06:34 2015]  ClientBegin: 0
+[Sat Dec 19 15:11:56 2015]  ClientDisconnect: 0
+[Sat Dec 19 21:26:45 2015]  ClientConnect: 0
+[Sat Dec 19 21:26:45 2015]  mlog:Player Lord Yarraksus, connected. With IP - 176.41.171.150:29070 
+[Sat Dec 19 21:26:52 2015]  ClientDisconnect: 0
+[Sat Dec 19 22:44:19 2015]  ClientConnect: 0
+[Sat Dec 19 22:44:19 2015]  mlog:Player Lord Yarraksus, connected. With IP - 176.41.171.150:29070 
+[Sat Dec 19 22:52:49 2015]  ClientDisconnect: 0

@@ -1,0 +1,666 @@
+[Tue Nov 15 18:38:00 2016]  ------------------------------------------------------------
+[Tue Nov 15 18:38:00 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Nov 15 18:59:33 2016]  ------------------------------------------------------------
+[Tue Nov 15 18:59:34 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\999\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Nov 17 20:21:41 2016]  ClientConnect: 0
+[Thu Nov 17 20:21:41 2016]  mlog:Player Nabelvo, connected. With IP - 188.172.155.200:-29156 
+[Thu Nov 17 20:21:53 2016]  ClientDisconnect: 0
+[Thu Nov 17 22:38:30 2016]  ClientConnect: 0
+[Thu Nov 17 22:38:30 2016]  mlog:Player Padawan, connected. With IP - 144.118.113.199:29070 
+[Thu Nov 17 22:38:43 2016]  ClientDisconnect: 0
+[Fri Nov 18 15:21:22 2016]  ClientConnect: 0
+[Fri Nov 18 15:21:22 2016]  mlog:Player Ivaklu13, connected. With IP - 81.25.53.174:29070 
+[Fri Nov 18 15:21:38 2016]  ClientConnect: 1
+[Fri Nov 18 15:21:38 2016]  mlog:Player Nikita_yug, connected. With IP - 81.5.120.34:29070 
+[Fri Nov 18 15:22:03 2016]  ClientBegin: 1
+[Fri Nov 18 15:22:04 2016]  Kill: 0 1 37: Ivaklu13 killed Nikita_yug by MOD_TELEFRAG
+[Fri Nov 18 15:22:04 2016]  ClientBegin: 0
+[Fri Nov 18 15:22:52 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:23:56 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:26:05 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:27:42 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:28:07 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:28:39 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:29:32 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:30:23 2016]  say: Ivaklu13: nrty bvwtsaw
+[Fri Nov 18 15:30:30 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:31:37 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:32:11 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:32:27 2016]  say: Nikita_yug: tttttw
+[Fri Nov 18 15:32:45 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:34:19 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:34:35 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:36:13 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:36:36 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:37:34 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:39:56 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:41:56 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:44:00 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:44:16 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:44:45 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:45:23 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:46:24 2016]  say: Ivaklu13:  htewrvwewasfassfff
+[Fri Nov 18 15:46:27 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:46:49 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:47:50 2016]  say: Ivaklu13: ,rrwewfwff
+[Fri Nov 18 15:48:54 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:49:47 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:50:33 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:51:49 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:53:11 2016]  ClientConnect: 2
+[Fri Nov 18 15:53:11 2016]  mlog:Player koko, connected. With IP - 80.55.76.218:29070 
+[Fri Nov 18 15:53:30 2016]  ClientBegin: 2
+[Fri Nov 18 15:53:36 2016]  Kill: 0 2 3: Ivaklu13 killed ^5Maker^7Mod by MOD_SABER
+[Fri Nov 18 15:54:29 2016]  Kill: 2 1 20: ^5Maker^7Mod killed Nikita_yug by MOD_ROCKET_SPLASH
+[Fri Nov 18 15:54:34 2016]  Kill: 2 0 19: ^5Maker^7Mod killed Ivaklu13 by MOD_ROCKET
+[Fri Nov 18 15:54:40 2016]  Kill: 2 1 3: ^5Maker^7Mod killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:55:09 2016]  Kill: 2 0 10: ^5Maker^7Mod killed Ivaklu13 by MOD_DISRUPTOR_SNIPER
+[Fri Nov 18 15:55:17 2016]  say: Nikita_yug: who are you?
+[Fri Nov 18 15:55:21 2016]  say: ^5Maker^7Mod: MakerMod!
+[Fri Nov 18 15:56:01 2016]  Kill: 2 0 25: ^5Maker^7Mod killed Ivaklu13 by MOD_TRIP_MINE_SPLASH
+[Fri Nov 18 15:56:09 2016]  Kill: 2 1 3: ^5Maker^7Mod killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:57:15 2016]  Kill: 2 0 25: ^5Maker^7Mod killed Ivaklu13 by MOD_TRIP_MINE_SPLASH
+[Fri Nov 18 15:57:21 2016]  Kill: 2 1 25: ^5Maker^7Mod killed Nikita_yug by MOD_TRIP_MINE_SPLASH
+[Fri Nov 18 15:57:56 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 15:58:08 2016]  Kill: 1022 1 6: <world> killed Nikita_yug by MOD_BLASTER
+[Fri Nov 18 15:58:49 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:59:07 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:59:13 2016]  Kill: 1022 0 3: <world> killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 15:59:27 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 15:59:45 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:00:45 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:01:07 2016]  say: Nikita_yug: are you a god?
+[Fri Nov 18 16:01:10 2016]  say: ^5Maker^7Mod: Yes
+[Fri Nov 18 16:01:26 2016]  say: ^5Maker^7Mod: I can give you everything you want
+[Fri Nov 18 16:01:30 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:01:55 2016]  say: Nikita_yug: I wont a girlfriand)
+[Fri Nov 18 16:02:00 2016]  say: ^5Maker^7Mod: )))))
+[Fri Nov 18 16:03:06 2016]  say: Nikita_yug: what are you doing here
+[Fri Nov 18 16:03:14 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:03:15 2016]  say: ^5Maker^7Mod: nothing
+[Fri Nov 18 16:03:35 2016]  say: Nikita_yug: spawn a boss
+[Fri Nov 18 16:03:43 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:03:44 2016]  say: ^5Maker^7Mod: your gf 
+[Fri Nov 18 16:03:56 2016]  say: Nikita_yug: noooo!
+[Fri Nov 18 16:04:03 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:04:08 2016]  Item: 0 weapon_blaster
+[Fri Nov 18 16:04:52 2016]  say: Nikita_yug: r2d2?
+[Fri Nov 18 16:05:01 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:05:20 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:06:07 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:06:29 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:06:41 2016]  Kill: 0 1 5: Ivaklu13 killed Nikita_yug by MOD_BRYAR_PISTOL_ALT
+[Fri Nov 18 16:06:43 2016]  say: Nikita_yug: a giant luck
+[Fri Nov 18 16:06:59 2016]  say: Nikita_yug: snx
+[Fri Nov 18 16:07:04 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:07:43 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:07:52 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:08:00 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:08:09 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:08:45 2016]  say: Nikita_yug: what can you more
+[Fri Nov 18 16:08:50 2016]  say: ^5Maker^7Mod: what do you want?
+[Fri Nov 18 16:09:03 2016]  say: Nikita_yug: giant pig?
+[Fri Nov 18 16:09:09 2016]  say: ^5Maker^7Mod: no pigs in game :D
+[Fri Nov 18 16:09:14 2016]  say: Nikita_yug: oh
+[Fri Nov 18 16:09:25 2016]  say: Nikita_yug: anything
+[Fri Nov 18 16:09:41 2016]  say: Nikita_yug: any amazing
+[Fri Nov 18 16:09:57 2016]  say: Nikita_yug: cengaroo
+[Fri Nov 18 16:10:00 2016]  say: ^5Maker^7Mod: xD
+[Fri Nov 18 16:10:11 2016]  say: Ivaklu13: can you fight us? One to One
+[Fri Nov 18 16:10:17 2016]  say: ^5Maker^7Mod: yes
+[Fri Nov 18 16:10:20 2016]  say: ^5Maker^7Mod: but I will win :p
+[Fri Nov 18 16:10:24 2016]  say: Nikita_yug: noooooooooo
+[Fri Nov 18 16:10:35 2016]  say: Ivaklu13: can you disable godmode?
+[Fri Nov 18 16:10:42 2016]  say: ^5Maker^7Mod: sure
+[Fri Nov 18 16:10:48 2016]  say: ^5Maker^7Mod: well okay
+[Fri Nov 18 16:10:54 2016]  say: ^5Maker^7Mod: want to fight me? :D
+[Fri Nov 18 16:10:59 2016]  say: ^5Maker^7Mod: just saber?
+[Fri Nov 18 16:11:06 2016]  tell: Ivaklu13 to ^5Maker^7Mod: yes
+[Fri Nov 18 16:11:07 2016]  say: Nikita_yug: ono for two 
+[Fri Nov 18 16:11:12 2016]  say: ^5Maker^7Mod: okay
+[Fri Nov 18 16:11:16 2016]  say: Nikita_yug: one for two
+[Fri Nov 18 16:11:20 2016]  say: Nikita_yug: 1
+[Fri Nov 18 16:11:22 2016]  say: Nikita_yug: 2
+[Fri Nov 18 16:11:26 2016]  say: ^5Maker^7Mod: ready
+[Fri Nov 18 16:11:27 2016]  say: Nikita_yug: 3
+[Fri Nov 18 16:11:29 2016]  say: ^5Maker^7Mod: im mortal now
+[Fri Nov 18 16:11:30 2016]  say: Nikita_yug: go
+[Fri Nov 18 16:11:58 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:12:02 2016]  Kill: 1 2 3: Nikita_yug killed ^5Maker^7Mod by MOD_SABER
+[Fri Nov 18 16:12:04 2016]  say: ^5Maker^7Mod: ow :D
+[Fri Nov 18 16:12:09 2016]  say: Ivaklu13: wow
+[Fri Nov 18 16:12:12 2016]  say: ^5Maker^7Mod: I dont get those blocks ^-^
+[Fri Nov 18 16:12:17 2016]  say: ^5Maker^7Mod: good fight
+[Fri Nov 18 16:12:24 2016]  say: Nikita_yug: wow
+[Fri Nov 18 16:12:26 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:12:46 2016]  say: Nikita_yug: make me and ivaklu giants
+[Fri Nov 18 16:12:54 2016]  say: ^5Maker^7Mod: you can do this yourself
+[Fri Nov 18 16:13:03 2016]  say: ^5Maker^7Mod: open your console and type /mscaleme 9
+[Fri Nov 18 16:13:08 2016]  say: Nikita_yug: how?
+[Fri Nov 18 16:13:32 2016]  say: Nikita_yug: how to open console
+[Fri Nov 18 16:13:36 2016]  say: Ivaklu13: how to open console?
+[Fri Nov 18 16:13:38 2016]  say: ^5Maker^7Mod: press Shift and Tilde
+[Fri Nov 18 16:13:54 2016]  say: ^5Maker^7Mod: tilde is above TAB
+[Fri Nov 18 16:14:13 2016]  say: ^5Maker^7Mod: :)
+[Fri Nov 18 16:14:20 2016]  say: ^5Maker^7Mod: if you want to be normal type /mscaleme 1
+[Fri Nov 18 16:14:29 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:14:53 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:15:29 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:15:43 2016]  say: Nikita_yug: I am microbe
+[Fri Nov 18 16:15:45 2016]  say: ^5Maker^7Mod: :D
+[Fri Nov 18 16:17:16 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:17:57 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:18:00 2016]  say: ^5Maker^7Mod: :d
+[Fri Nov 18 16:18:48 2016]  say: Ivaklu13: tp me pleese *
+[Fri Nov 18 16:18:59 2016]  say: ^5Maker^7Mod: My origin is: (-6800 -19883 1487) - You can teleport here with /mtelelast
+
+[Fri Nov 18 16:19:03 2016]  say: ^5Maker^7Mod: type /mtelelast
+[Fri Nov 18 16:19:32 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:20:00 2016]  say: ^5Maker^7Mod: wanna fly?
+[Fri Nov 18 16:20:00 2016]  say: Ivaklu13: godmode
+[Fri Nov 18 16:20:14 2016]  say: Ivaklu13: yes
+[Fri Nov 18 16:20:28 2016]  tell: Ivaklu13 to Nikita_yug: amm
+[Fri Nov 18 16:20:29 2016]  say: ^5Maker^7Mod: press Enter or R :)
+[Fri Nov 18 16:20:40 2016]  say: ^5Maker^7Mod: jump 
+[Fri Nov 18 16:20:44 2016]  say: ^5Maker^7Mod: xD
+[Fri Nov 18 16:20:47 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:20:52 2016]  say: Nikita_yug: bzzzzzzzzz
+[Fri Nov 18 16:20:54 2016]  say: ^5Maker^7Mod: ;D
+[Fri Nov 18 16:21:21 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:21:34 2016]  say: Nikita_yug: i cant...
+[Fri Nov 18 16:21:42 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:21:48 2016]  say: ^5Maker^7Mod: dont hold jump :D
+[Fri Nov 18 16:21:52 2016]  say: ^5Maker^7Mod: when you press it once
+[Fri Nov 18 16:21:54 2016]  say: ^5Maker^7Mod: just press W
+[Fri Nov 18 16:22:05 2016]  say: Ivaklu13: thanks =D
+[Fri Nov 18 16:22:08 2016]  say: ^5Maker^7Mod: np :)
+[Fri Nov 18 16:22:12 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:22:34 2016]  say: ^5Maker^7Mod: :D
+[Fri Nov 18 16:22:37 2016]  say: ^5Maker^7Mod: dont go too high
+[Fri Nov 18 16:22:41 2016]  say: ^5Maker^7Mod: when starting
+[Fri Nov 18 16:22:45 2016]  say: Nikita_yug: how tp?
+[Fri Nov 18 16:22:49 2016]  say: ^5Maker^7Mod: /mtelesp
+[Fri Nov 18 16:22:52 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:23:04 2016]  say: Nikita_yug: and,,,
+[Fri Nov 18 16:23:16 2016]  say: ^5Maker^7Mod: and it teleports you back to spawn
+[Fri Nov 18 16:23:41 2016]  say: ^5Maker^7Mod: Well I go
+[Fri Nov 18 16:23:49 2016]  say: Nikita_yug: bye
+[Fri Nov 18 16:23:59 2016]  say: ^5Maker^7Mod: ^0Bye bye ^5¦^0D
+[Fri Nov 18 16:23:59 2016]  say: Ivaklu13: god bye
+[Fri Nov 18 16:24:03 2016]  ClientDisconnect: 2
+[Fri Nov 18 16:24:05 2016]  say: Ivaklu13: good
+[Fri Nov 18 16:24:29 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:24:44 2016]  Kill: 1022 1 6: <world> killed Nikita_yug by MOD_BLASTER
+[Fri Nov 18 16:25:16 2016]  Kill: 1 1 39: Nikita_yug killed Nikita_yug by MOD_SUICIDE
+[Fri Nov 18 16:25:32 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:26:04 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:26:26 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:27:14 2016]  Kill: 1 1 39: Nikita_yug killed Nikita_yug by MOD_SUICIDE
+[Fri Nov 18 16:28:10 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:28:32 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:29:05 2016]  Kill: 1022 1 6: <world> killed Nikita_yug by MOD_BLASTER
+[Fri Nov 18 16:29:06 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:29:28 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:29:52 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:30:10 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:30:26 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:31:59 2016]  Kill: 1 1 39: Nikita_yug killed Nikita_yug by MOD_SUICIDE
+[Fri Nov 18 16:34:44 2016]  Kill: 1 1 39: Nikita_yug killed Nikita_yug by MOD_SUICIDE
+[Fri Nov 18 16:35:17 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:36:15 2016]  Kill: 1022 0 38: <world> killed Ivaklu13 by MOD_FALLING
+[Fri Nov 18 16:37:14 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:37:20 2016]  Kill: 1 1 39: Nikita_yug killed Nikita_yug by MOD_SUICIDE
+[Fri Nov 18 16:37:23 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:38:14 2016]  Kill: 1 1 39: Nikita_yug killed Nikita_yug by MOD_SUICIDE
+[Fri Nov 18 16:38:17 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:38:24 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:38:41 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:38:53 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:39:04 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:39:12 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:39:18 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:39:31 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:40:01 2016]  Kill: 0 1 3: Ivaklu13 killed Nikita_yug by MOD_SABER
+[Fri Nov 18 16:40:41 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:41:19 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:41:35 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:41:54 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:42:20 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:42:49 2016]  say: Nikita_yug: playermodel Probe
+[Fri Nov 18 16:43:27 2016]  Kill: 0 0 39: Ivaklu13 killed Ivaklu13 by MOD_SUICIDE
+[Fri Nov 18 16:44:24 2016]  Kill: 0 1 2: Ivaklu13 killed Nikita_yug by MOD_MELEE
+[Fri Nov 18 16:44:25 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:44:31 2016]  say: Nikita_yug: playermodel [Luke]
+[Fri Nov 18 16:45:48 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:45:48 2016]  Kill: 1022 1 39: <world> killed Nikita_yug by MOD_SUICIDE
+[Fri Nov 18 16:46:37 2016]  Kill: 1 0 5: Nikita_yug killed Ivaklu13 by MOD_BRYAR_PISTOL_ALT
+[Fri Nov 18 16:47:06 2016]  Kill: 0 1 5: Ivaklu13 killed Nikita_yug by MOD_BRYAR_PISTOL_ALT
+[Fri Nov 18 16:47:22 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:48:28 2016]  Kill: 1 0 4: Nikita_yug killed Ivaklu13 by MOD_BRYAR_PISTOL
+[Fri Nov 18 16:49:02 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:50:01 2016]  Kill: 0 1 5: Ivaklu13 killed Nikita_yug by MOD_BRYAR_PISTOL_ALT
+[Fri Nov 18 16:50:32 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:50:55 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:51:21 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:51:33 2016]  Kill: 1022 1 6: <world> killed Nikita_yug by MOD_BLASTER
+[Fri Nov 18 16:51:47 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:52:19 2016]  Kill: 1022 0 6: <world> killed Ivaklu13 by MOD_BLASTER
+[Fri Nov 18 16:52:22 2016]  Kill: 1022 1 6: <world> killed Nikita_yug by MOD_BLASTER
+[Fri Nov 18 16:52:49 2016]  Kill: 1022 1 6: <world> killed Nikita_yug by MOD_BLASTER
+[Fri Nov 18 16:53:42 2016]  Kill: 1 0 3: Nikita_yug killed Ivaklu13 by MOD_SABER
+[Fri Nov 18 16:53:48 2016]  ClientDisconnect: 1
+[Fri Nov 18 16:53:56 2016]  ClientDisconnect: 0
+[Fri Nov 18 18:48:51 2016]  ClientConnect: 0
+[Fri Nov 18 18:48:51 2016]  mlog:Player ^1(^7Magna^5), connected. With IP - 192.162.35.66:29070 
+[Fri Nov 18 18:49:45 2016]  ClientBegin: 0
+[Fri Nov 18 18:50:58 2016]  ClientDisconnect: 0
+[Fri Nov 18 21:34:08 2016]  ClientConnect: 0
+[Fri Nov 18 21:34:08 2016]  mlog:Player Cegun, connected. With IP - 192.162.35.66:29070 
+[Fri Nov 18 21:34:34 2016]  ClientBegin: 0
+[Fri Nov 18 21:35:56 2016]  print "Cegun^7 @@@PLRENAME ^1Magna
+"[Fri Nov 18 21:36:40 2016]  ClientConnect: 1
+[Fri Nov 18 21:36:40 2016]  mlog:Player Padawan, connected. With IP - 89.151.189.41:27174 
+[Fri Nov 18 21:37:11 2016]  ClientBegin: 1
+[Fri Nov 18 21:37:21 2016]  Kill: 1 0 3: Padawan killed ^1Magna by MOD_SABER
+[Fri Nov 18 21:37:33 2016]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Fri Nov 18 21:37:33 2016]  setteam:  1 FREE SPECTATOR
+[Fri Nov 18 21:37:33 2016]  ClientBegin: 1
+[Fri Nov 18 21:37:39 2016]  setteam:  1 SPECTATOR FREE
+[Fri Nov 18 21:37:39 2016]  ClientBegin: 1
+[Fri Nov 18 21:37:46 2016]  say: ^1Magna: dima ?
+[Fri Nov 18 21:37:51 2016]  say: Padawan: +
+[Fri Nov 18 21:37:51 2016]  ClientConnect: 2
+[Fri Nov 18 21:37:51 2016]  mlog:Player ^3(J.N.R)^4A^6^7nak^2^4in^7(^4C3^7), connected. With IP - 191.114.187.221:29070 
+[Fri Nov 18 21:38:09 2016]  say: Padawan: na pol ekrana igra
+[Fri Nov 18 21:38:27 2016]  say: Padawan: v norm rezhime net makera
+[Fri Nov 18 21:38:32 2016]  ClientBegin: 2
+[Fri Nov 18 21:38:38 2016]  say: ^1Magna: knopku makermoda postawit nado
+[Fri Nov 18 21:38:50 2016]  say: ^1Magna: stop dim
+[Fri Nov 18 21:39:15 2016]  say: ^1Magna: nastroyki
+[Fri Nov 18 21:39:16 2016]  Kill: 1 2 3: Padawan killed ^3(J.N.R)^4A^6^7nak^2^4in^7(^4C3^7) by MOD_SABER
+[Fri Nov 18 21:39:29 2016]  Kill: 1 2 3: Padawan killed ^3(J.N.R)^4A^6^7nak^2^4in^7(^4C3^7) by MOD_SABER
+[Fri Nov 18 21:39:39 2016]  say: ^1Magna: controls 
+[Fri Nov 18 21:39:48 2016]  say: ^3(J.N.R)^4A^6^7nak^2^4in^7(^4C3^7): again
+[Fri Nov 18 21:39:59 2016]  Kill: 2 1 3: ^3(J.N.R)^4A^6^7nak^2^4in^7(^4C3^7) killed Padawan by MOD_SABER
+[Fri Nov 18 21:40:15 2016]  ClientDisconnect: 1
+[Fri Nov 18 21:41:02 2016]  ClientDisconnect: 2
+[Fri Nov 18 21:41:20 2016]  ClientConnect: 1
+[Fri Nov 18 21:41:20 2016]  mlog:Player Padawan, connected. With IP - 89.151.189.41:27174 
+[Fri Nov 18 21:42:22 2016]  ClientDisconnect: 1
+[Fri Nov 18 21:42:22 2016]  ClientConnect: 1
+[Fri Nov 18 21:42:22 2016]  mlog:Player Padawan, connected. With IP - 89.151.189.41:27174 
+[Fri Nov 18 21:42:54 2016]  ClientBegin: 1
+[Fri Nov 18 21:43:21 2016]  say: Padawan: ce ya
+[Fri Nov 18 21:43:41 2016]  say: ^1Magna: YA TWOY SKIN NE WIJHU
+[Fri Nov 18 21:43:53 2016]  say: Padawan: blyat
+[Fri Nov 18 21:43:59 2016]  say: Padawan: ya feddi
+[Fri Nov 18 21:44:01 2016]  say: ^1Magna: tiper ti moy ne widesh
+[Fri Nov 18 21:44:08 2016]  say: Padawan: vizhu
+[Fri Nov 18 21:44:23 2016]  say: ^1Magna:  a ya mandolorec
+[Fri Nov 18 21:44:42 2016]  say: ^1Magna:  a teper Magna Guard
+[Fri Nov 18 21:45:14 2016]  Kill: 0 1 22: ^1Magna killed Padawan by MOD_ROCKET_HOMING_SPLASH
+[Fri Nov 18 21:45:21 2016]  say: Padawan: hujase
+[Fri Nov 18 21:45:52 2016]  say: ^1Magna: postawil cnopku ?
+[Fri Nov 18 21:45:58 2016]  say: ^1Magna: menu*?
+[Fri Nov 18 21:46:00 2016]  say: Padawan: kak
+[Fri Nov 18 21:46:20 2016]  say: ^1Magna: esc controls i w nizu
+[Fri Nov 18 21:46:37 2016]  say: ^1Magna: ludshe na cnopcu 3misha
+[Fri Nov 18 21:47:01 2016]  say: Padawan: doo
+[Fri Nov 18 21:48:50 2016]  say: ^1Magna: God mod X)
+[Fri Nov 18 21:50:10 2016]  Kill: 1 0 6: Padawan killed ^1Magna by MOD_BLASTER
+[Fri Nov 18 21:50:21 2016]  say: Padawan: hehe
+[Fri Nov 18 21:51:02 2016]  ClientConnect: 2
+[Fri Nov 18 21:51:02 2016]  mlog:Player kosher, connected. With IP - 91.230.25.125:29070 
+[Fri Nov 18 21:51:08 2016]  say: ^1Magna: idi suda
+[Fri Nov 18 21:51:32 2016]  ClientBegin: 2
+[Fri Nov 18 21:51:40 2016]  say: kosher: rus
+[Fri Nov 18 21:51:48 2016]  say: Padawan: taki da
+[Fri Nov 18 21:51:48 2016]  say: ^1Magna: idi w portal
+[Fri Nov 18 21:51:58 2016]  say: kosher: shadowseer?
+[Fri Nov 18 21:52:21 2016]  say: ^1Magna: Dima idi w portal
+[Fri Nov 18 21:52:35 2016]  say: kosher: kto dima
+[Fri Nov 18 21:52:40 2016]  say: Padawan: YA
+[Fri Nov 18 21:52:44 2016]  say: ^1Magna: On
+[Fri Nov 18 21:52:47 2016]  say: kosher: otkuda
+[Fri Nov 18 21:53:07 2016]  say: ^1Magna: otkuda wsmisle ?
+[Fri Nov 18 21:53:14 2016]  say: kosher: rasiya?
+[Fri Nov 18 21:53:17 2016]  say: Padawan: iz rossii
+[Fri Nov 18 21:53:22 2016]  say: kosher: a gorod
+[Fri Nov 18 21:53:25 2016]  say: ^1Magna: ukraina
+[Fri Nov 18 21:53:32 2016]  say: Padawan: poreckoe
+[Fri Nov 18 21:53:40 2016]  say: kosher: eto selo?
+[Fri Nov 18 21:53:43 2016]  say: ^1Magna: ylvov
+[Fri Nov 18 21:53:44 2016]  say: Padawan: da
+[Fri Nov 18 21:53:49 2016]  Item: 2 ammo_all
+[Fri Nov 18 21:53:49 2016]  say: ^1Magna: lvov*
+[Fri Nov 18 21:53:51 2016]  say: Padawan: v chuvashii
+[Fri Nov 18 21:54:20 2016]  Kill: 0 1 20: ^1Magna killed Padawan by MOD_ROCKET_SPLASH
+[Fri Nov 18 21:54:23 2016]  say: kosher: lvov znau
+[Fri Nov 18 21:54:37 2016]  say: kosher: ottuda izek azimov
+[Fri Nov 18 21:54:53 2016]  say: Padawan: ya zalagal po hodu
+[Fri Nov 18 21:55:05 2016]  say: Padawan: My origin is: (-6281 -21266 1520) - You can teleport here with /mtelelast
+
+[Fri Nov 18 21:55:17 2016]  say: kosher: tu student?
+[Fri Nov 18 21:55:30 2016]  say: Padawan: net
+[Fri Nov 18 21:55:36 2016]  say: kosher: shkolnik?
+[Fri Nov 18 21:55:53 2016]  say: Padawan: otucilsya uzhe v tehnare
+[Fri Nov 18 21:56:00 2016]  say: kosher: na kogo
+[Fri Nov 18 21:56:07 2016]  Kill: 1 0 6: Padawan killed ^1Magna by MOD_BLASTER
+[Fri Nov 18 21:56:17 2016]  Item: 2 weapon_concussion_rifle
+[Fri Nov 18 21:56:18 2016]  say: Padawan: svarshik
+[Fri Nov 18 21:56:19 2016]  Item: 2 ammo_all
+[Fri Nov 18 21:56:21 2016]  say: Padawan: ept
+[Fri Nov 18 21:56:42 2016]  say: kosher: che svarivaesh
+[Fri Nov 18 21:56:55 2016]  say: Padawan: truby
+[Fri Nov 18 21:57:41 2016]  say: kosher: putina lubish?
+[Fri Nov 18 21:57:51 2016]  say: Padawan: nikogo ne lublu
+[Fri Nov 18 21:57:59 2016]  say: Padawan: vse pidprasy
+[Fri Nov 18 21:58:01 2016]  say: ^1Magna: ya no
+[Fri Nov 18 21:58:08 2016]  say: ^1Magna: +
+[Fri Nov 18 21:58:15 2016]  say: kosher: a poroshenka
+[Fri Nov 18 21:58:23 2016]  say: Padawan: net
+[Fri Nov 18 21:58:24 2016]  say: ^1Magna: no
+[Fri Nov 18 21:58:32 2016]  say: kosher: a lyashko
+[Fri Nov 18 21:58:39 2016]  say: ^1Magna: no no no !!!
+[Fri Nov 18 21:58:42 2016]  say: Padawan: no
+[Fri Nov 18 21:58:50 2016]  say: Padawan: rukalico
+[Fri Nov 18 21:59:15 2016]  say: kosher: magna tu kto po profesii
+[Fri Nov 18 21:59:23 2016]  Kill: 1022 2 38: <world> killed kosher by MOD_FALLING
+[Fri Nov 18 21:59:26 2016]  say: ^1Magna: shkolnik
+[Fri Nov 18 21:59:35 2016]  say: kosher: kakoy klas
+[Fri Nov 18 21:59:40 2016]  say: ^1Magna: 11
+[Fri Nov 18 22:00:49 2016]  say: ^1Magna: ya nocotore upravleniya zabil
+[Fri Nov 18 22:01:59 2016]  say: kosher: padawan est druz'ya?
+[Fri Nov 18 22:02:05 2016]  say: Padawan: +
+[Fri Nov 18 22:02:13 2016]  say: kosher: a baba
+[Fri Nov 18 22:02:22 2016]  say: Padawan: a smys
+[Fri Nov 18 22:02:29 2016]  say: kosher: smysl?
+[Fri Nov 18 22:02:39 2016]  say: Padawan: vse baby vedmy
+[Fri Nov 18 22:02:39 2016]  Item: 2 ammo_all
+[Fri Nov 18 22:02:50 2016]  say: kosher: hz
+[Fri Nov 18 22:02:51 2016]  say: ^1Magna: pochemu tak mnogo ne dostupno /
+[Fri Nov 18 22:02:56 2016]  say: kosher: shto
+[Fri Nov 18 22:03:01 2016]  say: kosher: est rusifikator?
+[Fri Nov 18 22:03:04 2016]  say: Padawan: hz
+[Fri Nov 18 22:03:08 2016]  Item: 2 ammo_all
+[Fri Nov 18 22:03:12 2016]  say: Padawan: ya vpervye tut igray
+[Fri Nov 18 22:03:15 2016]  say: kosher: руский текст видишь
+[Fri Nov 18 22:03:38 2016]  say: kosher: hochesh postroit cerkov
+[Fri Nov 18 22:03:49 2016]  say: Padawan: sho
+[Fri Nov 18 22:03:53 2016]  say: kosher: cerkov
+[Fri Nov 18 22:03:58 2016]  say: Padawan: zachem
+[Fri Nov 18 22:04:04 2016]  say: kosher: budem molitsya
+[Fri Nov 18 22:04:12 2016]  say: Padawan: boga net
+[Fri Nov 18 22:04:18 2016]  say: kosher: pochemu
+[Fri Nov 18 22:04:23 2016]  say: ^1Magna: ya yewrey
+[Fri Nov 18 22:04:35 2016]  say: Padawan: ne kosherno
+[Fri Nov 18 22:04:44 2016]  say: kosher: postroim sinagogu
+[Fri Nov 18 22:04:51 2016]  say: Padawan: v majne
+[Fri Nov 18 22:05:28 2016]  say: Padawan: hotya na menya stroitelstv hvatit za eti 2 dnya
+[Fri Nov 18 22:05:44 2016]  say: kosher: stroish?
+[Fri Nov 18 22:06:03 2016]  say: Padawan: ya etot mod ne znay
+[Fri Nov 18 22:06:23 2016]  say: Padawan: tak shto sami
+[Fri Nov 18 22:06:27 2016]  say: Padawan: a ya pokuru
+[Fri Nov 18 22:06:57 2016]  say: ^1Magna: mojhe pozvat obzorshchika makermoda
+[Fri Nov 18 22:07:04 2016]  say: kosher: kogo
+[Fri Nov 18 22:07:10 2016]  say: ^1Magna: nauchit
+[Fri Nov 18 22:07:16 2016]  say: kosher: kto
+[Fri Nov 18 22:07:32 2016]  say: Padawan: kak y razmer pomenyal
+[Fri Nov 18 22:07:58 2016]  say: kosher: \mscaleme
+[Fri Nov 18 22:08:01 2016]  say: ^1Magna: Andrey Strogov
+[Fri Nov 18 22:08:10 2016]  say: kosher: kto eto
+[Fri Nov 18 22:08:15 2016]  say: Padawan: /,mscaleme
+[Fri Nov 18 22:08:24 2016]  say: Padawan: /mscaleme
+[Fri Nov 18 22:08:31 2016]  say: Padawan: \mscaleme
+[Fri Nov 18 22:08:31 2016]  say: kosher: v konsole
+[Fri Nov 18 22:08:40 2016]  say: Padawan: kak otkryt
+[Fri Nov 18 22:08:45 2016]  say: kosher: shift+ilda
+[Fri Nov 18 22:08:46 2016]  say: ^1Magna: ya ya youtube w pewee widel makermod
+[Fri Nov 18 22:09:06 2016]  say: Padawan: komandu povtori
+[Fri Nov 18 22:09:11 2016]  say: ^1Magna:  i nashol Vk iwo
+[Fri Nov 18 22:09:11 2016]  say: kosher: \mscaleme
+[Fri Nov 18 22:09:33 2016]  say: kosher: net vk
+[Fri Nov 18 22:10:33 2016]  say: Padawan: v pizdu
+[Fri Nov 18 22:10:40 2016]  say: kosher: shto
+[Fri Nov 18 22:10:50 2016]  say: Padawan: ne ponyal kak vvodit
+[Fri Nov 18 22:11:03 2016]  say: kosher: vvel
+[Fri Nov 18 22:11:09 2016]  say: Padawan: da
+[Fri Nov 18 22:11:25 2016]  say: ^1Magna: kak tam // ?
+[Fri Nov 18 22:11:32 2016]  say: kosher: shto
+[Fri Nov 18 22:11:36 2016]  Item: 2 ammo_all
+[Fri Nov 18 22:11:41 2016]  say: ^1Magna: komanda ?
+[Fri Nov 18 22:11:45 2016]  say: kosher: \mscaleme
+[Fri Nov 18 22:11:52 2016]  say: Padawan: da
+[Fri Nov 18 22:11:57 2016]  say: Padawan: unknown
+[Fri Nov 18 22:12:06 2016]  say: ^1Magna: dd
+[Fri Nov 18 22:12:07 2016]  say: ^1Magna: asdsad
+[Fri Nov 18 22:13:00 2016]  say: Padawan: oj
+[Fri Nov 18 22:13:27 2016]  say: Padawan: magna
+[Fri Nov 18 22:13:32 2016]  say: Padawan: ty tut
+[Fri Nov 18 22:13:35 2016]  say: Padawan: ?
+[Fri Nov 18 22:14:06 2016]  Kill: 2 1 6: kosher killed Padawan by MOD_BLASTER
+[Fri Nov 18 22:14:32 2016]  say: Padawan: blya
+[Fri Nov 18 22:14:46 2016]  say: Padawan: opyat dolo spawnitsya
+[Fri Nov 18 22:15:02 2016]  say: ^1Magna: npc spawn stormtrooper
+[Fri Nov 18 22:15:03 2016]  say: kosher: najhmi knopku mishi
+[Fri Nov 18 22:15:14 2016]  Kill: 2 1 27: kosher killed Padawan by MOD_DET_PACK_SPLASH
+[Fri Nov 18 22:16:46 2016]  Kill: 1022 0 2: <world> killed ^1Magna by MOD_MELEE
+[Fri Nov 18 22:16:46 2016]  Kill: 1022 1 2: <world> killed Padawan by MOD_MELEE
+[Fri Nov 18 22:16:48 2016]  Item: 2 weapon_blaster
+[Fri Nov 18 22:16:56 2016]  say: Padawan: nado izuchit etot mod
+[Fri Nov 18 22:17:06 2016]  say: kosher: est server?
+[Fri Nov 18 22:17:17 2016]  say: Padawan: no
+[Fri Nov 18 22:17:23 2016]  Kill: 1022 0 2: <world> killed ^1Magna by MOD_MELEE
+[Fri Nov 18 22:17:27 2016]  say: Padawan: tolko v mainkrafte
+[Fri Nov 18 22:17:30 2016]  say: ^1Magna: suka
+[Fri Nov 18 22:17:43 2016]  say: kosher: znachit jka mojhet zahostit
+[Fri Nov 18 22:17:56 2016]  say: kosher: mojhesh
+[Fri Nov 18 22:18:04 2016]  say: Padawan: hz
+[Fri Nov 18 22:18:15 2016]  say: kosher: mainkraft hamachi?
+[Fri Nov 18 22:18:20 2016]  say: Padawan: ne
+[Fri Nov 18 22:18:28 2016]  say: Padawan: ya na 24serv
+[Fri Nov 18 22:18:36 2016]  say: kosher: svoy serv?
+[Fri Nov 18 22:18:39 2016]  say: Padawan: da
+[Fri Nov 18 22:18:42 2016]  Kill: 1022 1 2: <world> killed Padawan by MOD_MELEE
+[Fri Nov 18 22:19:05 2016]  say: kosher: znachit server dlya luboi igri mojhesh zahostit
+[Fri Nov 18 22:19:13 2016]  say: kosher: u tebya linux ili windows
+[Fri Nov 18 22:19:17 2016]  say: Padawan: vozmojno
+[Fri Nov 18 22:19:21 2016]  say: Padawan: obe
+[Fri Nov 18 22:19:23 2016]  Kill: 1022 0 2: <world> killed ^1Magna by MOD_MELEE
+[Fri Nov 18 22:19:32 2016]  say: kosher: na servere?
+[Fri Nov 18 22:19:37 2016]  say: Padawan: gg
+[Fri Nov 18 22:19:41 2016]  say: Padawan: linux
+[Fri Nov 18 22:20:25 2016]  say: Padawan: blya
+[Fri Nov 18 22:20:29 2016]  say: kosher: mojesh zahostit makermod
+[Fri Nov 18 22:20:38 2016]  say: Padawan: ya privyk v mainsruft igrat
+[Fri Nov 18 22:20:45 2016]  say: kosher: on gavno
+[Fri Nov 18 22:20:46 2016]  say: Padawan: a tut takoe...
+[Fri Nov 18 22:21:00 2016]  say: Padawan: v sap eshe igraju
+[Fri Nov 18 22:21:11 2016]  Kill: 0 0 39: ^1Magna killed ^1Magna by MOD_SUICIDE
+[Fri Nov 18 22:21:16 2016]  say: kosher: tu svarshik?
+[Fri Nov 18 22:21:20 2016]  say: Padawan: da
+[Fri Nov 18 22:21:38 2016]  say: kosher: v samare bil?
+[Fri Nov 18 22:21:41 2016]  say: Padawan: i velikovozrastny zadrot
+[Fri Nov 18 22:21:44 2016]  say: Padawan: net
+[Fri Nov 18 22:21:47 2016]  say: Padawan: ne byl
+[Fri Nov 18 22:21:56 2016]  say: kosher: a magna tvoy drug?
+[Fri Nov 18 22:22:00 2016]  say: Padawan: ya redko kuda ezhu
+[Fri Nov 18 22:22:02 2016]  say: Padawan: da
+[Fri Nov 18 22:22:08 2016]  say: kosher: on jhe iz lvova
+[Fri Nov 18 22:22:16 2016]  say: Padawan: i shto
+[Fri Nov 18 22:22:48 2016]  say: Padawan: u menya mnogo druzeq iz uk
+[Fri Nov 18 22:23:08 2016]  say: Padawan: k stati
+[Fri Nov 18 22:23:11 2016]  say: Padawan: andrei
+[Fri Nov 18 22:23:16 2016]  say: Padawan: kak tam irka
+[Fri Nov 18 22:23:25 2016]  say: ^1Magna: hz
+[Fri Nov 18 22:23:37 2016]  say: Padawan: kak tak to
+[Fri Nov 18 22:23:42 2016]  say: ^1Magna: postaw cwetnoy nik
+[Fri Nov 18 22:23:51 2016]  say: kosher: kakaya irka
+[Fri Nov 18 22:23:59 2016]  print "Padawan^7 @@@PLRENAME Pezduk
+"[Fri Nov 18 22:24:05 2016]  say: Pezduk: ego sestra
+[Fri Nov 18 22:24:15 2016]  say: ^1Magna: ne sestra
+[Fri Nov 18 22:24:24 2016]  say: Pezduk: a kak?
+[Fri Nov 18 22:24:35 2016]  say: ^1Magna: podruga
+[Fri Nov 18 22:24:39 2016]  say: Pezduk: aa
+[Fri Nov 18 22:24:54 2016]  say: ^1Magna: nil cvetno ^ 1 2 3 4 5 6 7 8 9 
+[Fri Nov 18 22:25:08 2016]  say: ^1Magna: ^11 TAk
+[Fri Nov 18 22:25:19 2016]  say: ^1Magna: ^22
+[Fri Nov 18 22:25:29 2016]  say: Pezduk: kak v maine v obshem
+[Fri Nov 18 22:25:30 2016]  say: ^1Magna: ^33
+[Fri Nov 18 22:25:38 2016]  say: ^1Magna: da
+[Fri Nov 18 22:25:41 2016]  Kill: 1022 1 2: <world> killed Pezduk by MOD_MELEE
+[Fri Nov 18 22:25:44 2016]  say: ^1Magna: profil
+[Fri Nov 18 22:26:05 2016]  say: kosher: v mine ranshe nebilo cvetnih nikvo
+[Fri Nov 18 22:26:18 2016]  print "Pezduk^7 @@@PLRENAME ^4Pezduk
+"[Fri Nov 18 22:26:27 2016]  say: ^4Pezduk: tak
+[Fri Nov 18 22:26:36 2016]  say: ^1Magna: da kak nebud
+[Fri Nov 18 22:26:59 2016]  say: ^1Magna: tak srazu wijhu kto pishet
+[Fri Nov 18 22:28:00 2016]  print "^4Pezduk^7 @@@PLRENAME ^4 Kot Pisos
+"[Fri Nov 18 22:28:11 2016]  say: ^4 Kot Pisos: hehe
+[Fri Nov 18 22:28:22 2016]  say: ^1Magna: ^4Haha
+[Fri Nov 18 22:28:25 2016]  Kill: 1022 1 2: <world> killed ^4 Kot Pisos by MOD_MELEE
+[Fri Nov 18 22:28:42 2016]  Item: 0 weapon_blaster
+[Fri Nov 18 22:28:49 2016]  say: kosher: vi obzorsheki minekrafta?
+[Fri Nov 18 22:28:59 2016]  say: ^1Magna: da
+[Fri Nov 18 22:29:04 2016]  say: ^4 Kot Pisos: ya lublu stroit
+[Fri Nov 18 22:29:14 2016]  say: ^4 Kot Pisos: ya tak rasslablyajus
+[Fri Nov 18 22:29:21 2016]  say: ^1Magna: idi suda 
+[Fri Nov 18 22:29:58 2016]  say: ^1Magna: o bar
+[Fri Nov 18 22:30:02 2016]  say: ^4 Kot Pisos: provalilsa
+[Fri Nov 18 22:30:06 2016]  say: ^4 Kot Pisos: blya
+[Fri Nov 18 22:30:46 2016]  say: ^1Magna: i delayesh ?
+[Fri Nov 18 22:30:51 2016]  say: kosher: shto
+[Fri Nov 18 22:31:08 2016]  say: ^1Magna: smotri suweniry
+[Fri Nov 18 22:31:18 2016]  say: kosher: da
+[Fri Nov 18 22:31:26 2016]  say: ^1Magna: dim kupi mne suwenir
+[Fri Nov 18 22:31:35 2016]  say: kosher: tut nelzya
+[Fri Nov 18 22:31:46 2016]  say: ^1Magna: ya shuchu
+[Fri Nov 18 22:31:50 2016]  say: kosher: u vas popularniy kanal na youtube?
+[Fri Nov 18 22:32:01 2016]  say: ^1Magna: wot epu sobachku
+[Fri Nov 18 22:32:01 2016]  say: ^4 Kot Pisos: ne
+[Fri Nov 18 22:32:15 2016]  say: ^4 Kot Pisos: v pizdu youtube
+[Fri Nov 18 22:32:32 2016]  say: ^1Magna: dim smotri> bloki )(
+[Fri Nov 18 22:32:39 2016]  say: ^4 Kot Pisos: tam v osnovnom shkalniki i degeneraty
+[Fri Nov 18 22:33:06 2016]  say: ^4 Kot Pisos: tipa firamira
+[Fri Nov 18 22:33:13 2016]  say: kosher: kto eto
+[Fri Nov 18 22:33:19 2016]  say: ^4 Kot Pisos: debik
+[Fri Nov 18 22:33:20 2016]  say: ^1Magna: gandon
+[Fri Nov 18 22:33:33 2016]  say: kosher: pochemu
+[Fri Nov 18 22:33:35 2016]  say: ^4 Kot Pisos: kotory prosral vsu svoy publiku
+[Fri Nov 18 22:33:42 2016]  say: ^1Magna: sam posmotri
+[Fri Nov 18 22:33:45 2016]  say: ^4 Kot Pisos: +
+[Fri Nov 18 22:33:56 2016]  say: ^1Magna: i uznayesh
+[Fri Nov 18 22:34:07 2016]  say: ^4 Kot Pisos: serial hleshe santy barbary
+[Fri Nov 18 22:34:35 2016]  say: ^1Magna: waw diskoteka
+[Fri Nov 18 22:34:48 2016]  say: ^4 Kot Pisos: hej patimejker
+[Fri Nov 18 22:34:58 2016]  say: ^4 Kot Pisos: hej shejker shejker
+[Fri Nov 18 22:35:21 2016]  say: ^4 Kot Pisos: ne obrashayte vnimaniya
+[Fri Nov 18 22:35:27 2016]  say: ^4 Kot Pisos: ya obkurilsya
+[Fri Nov 18 22:35:42 2016]  say: ^1Magna: ya widel
+[Fri Nov 18 22:35:48 2016]  say: ^4 Kot Pisos: nu da
+[Fri Nov 18 22:35:54 2016]  say: ^4 Kot Pisos: na menya ne pohozhe
+[Fri Nov 18 22:35:56 2016]  say: ^1Magna: My origin is: (22256 -21935 2683) - You can teleport here with /mtelelast
+
+[Fri Nov 18 22:36:31 2016]  say: ^4 Kot Pisos: piva by eshe
+[Fri Nov 18 22:36:43 2016]  say: ^4 Kot Pisos: damagazy yzhe zakryt
+[Fri Nov 18 22:36:50 2016]  say: ^1Magna:  i barbaris
+[Fri Nov 18 22:36:56 2016]  say: ^4 Kot Pisos: ne
+[Fri Nov 18 22:37:08 2016]  say: ^4 Kot Pisos: luche pivo vishnevoe
+[Fri Nov 18 22:37:12 2016]  say: ^1Magna: beliy hleb
+[Fri Nov 18 22:38:49 2016]  say: ^4 Kot Pisos: wtf?
+[Fri Nov 18 22:39:00 2016]  say: ^1Magna: cho eto ?
+[Fri Nov 18 22:39:09 2016]  say: kosher: hz
+[Fri Nov 18 22:39:38 2016]  say: ^1Magna: kto eto stroil ?
+[Fri Nov 18 22:39:42 2016]  say: ^4 Kot Pisos: -
+[Fri Nov 18 22:39:44 2016]  say: kosher: shadowseer
+[Fri Nov 18 22:40:08 2016]  say: ^1Magna: ne zhayu iwo
+[Fri Nov 18 22:40:13 2016]  say: kosher: eto andrey
+[Fri Nov 18 22:40:25 2016]  say: ^1Magna: Strogow ?
+[Fri Nov 18 22:40:27 2016]  say: kosher: da
+[Fri Nov 18 22:40:48 2016]  say: ^4 Kot Pisos: nichego imya ne govorit
+[Fri Nov 18 22:41:12 2016]  say: ^1Magna: nado budet cogda nibud iwo priglasit 
+[Fri Nov 18 22:41:49 2016]  say: ^4 Kot Pisos: serv prodlevat? kak dumaete?
+[Fri Nov 18 22:41:58 2016]  say: kosher: kak prodlevat
+[Fri Nov 18 22:42:20 2016]  say: ^4 Kot Pisos: on zhe arendovany
+[Fri Nov 18 22:42:31 2016]  say: kosher: da
+[Fri Nov 18 22:42:55 2016]  say: kosher: tvoy server?
+[Fri Nov 18 22:43:00 2016]  say: ^4 Kot Pisos: da
+[Fri Nov 18 22:43:10 2016]  say: kosher: eto darkquake vrode
+[Fri Nov 18 22:43:33 2016]  say: ^4 Kot Pisos: karoch ya na vds perejdu luchr
+[Fri Nov 18 22:43:35 2016]  say: ^1Magna: Server Andreya ne robotaet ujhe 
+[Fri Nov 18 22:44:44 2016]  say: ^1Magna: uberi tuman
+[Fri Nov 18 22:47:16 2016]  say: ^4 Kot Pisos: lagaet izza tumana
+[Fri Nov 18 22:47:23 2016]  say: kosher: slabiy komp
+[Fri Nov 18 22:47:27 2016]  say: ^4 Kot Pisos: -
+[Fri Nov 18 22:47:35 2016]  say: ^4 Kot Pisos: net optimizacii
+[Fri Nov 18 22:47:48 2016]  say: ^1Magna: karoch ya idu
+[Fri Nov 18 22:47:48 2016]  Item: 1 ammo_all
+[Fri Nov 18 22:48:13 2016]  tell: ^1Magna to ^4 Kot Pisos: chu she w ^3CW 
+[Fri Nov 18 22:48:23 2016]  say: ^1Magna: poigrayu
+[Fri Nov 18 22:48:34 2016]  say: ^4 Kot Pisos: ya poidu spawn posmotry
+[Fri Nov 18 22:48:42 2016]  Kill: 0 0 39: ^1Magna killed ^1Magna by MOD_SUICIDE
+[Fri Nov 18 22:48:44 2016]  Kill: 2 2 39: kosher killed kosher by MOD_SUICIDE
+[Fri Nov 18 22:48:49 2016]  ClientDisconnect: 1
+[Fri Nov 18 22:49:06 2016]  say: ^1Magna: /kill kosher
+[Fri Nov 18 22:49:11 2016]  say: kosher: shyto
+[Fri Nov 18 22:49:13 2016]  say: kosher: shto
+[Fri Nov 18 22:49:19 2016]  say: ^1Magna: )
+[Fri Nov 18 22:49:24 2016]  ClientDisconnect: 0
+[Fri Nov 18 22:50:08 2016]  ClientDisconnect: 2
+[Sat Nov 19 01:32:10 2016]  ClientConnect: 0
+[Sat Nov 19 01:32:10 2016]  mlog:Player Cassidy, connected. With IP - 95.27.60.95:29070 
+[Sat Nov 19 01:32:56 2016]  ClientBegin: 0
+[Sat Nov 19 01:32:58 2016]  say: Padawan: ^5Hi everybody!
+[Sat Nov 19 01:33:13 2016]  say: Padawan: ^1Battle Wizard ^3script by ^0Shadow^5seer
+[Sat Nov 19 01:34:48 2016]  Item: 0 weapon_melee
+[Sat Nov 19 01:38:50 2016]  ClientDisconnect: 0
+[Sat Nov 19 10:40:29 2016]  ClientConnect: 0
+[Sat Nov 19 10:40:29 2016]  mlog:Player ^6jedi master carl kettle, connected. With IP - 151.228.93.17:29070 
+[Sat Nov 19 10:40:53 2016]  ClientBegin: 0
+[Sat Nov 19 10:43:40 2016]  Kill: 1022 0 6: <world> killed ^6jedi master carl kettle by MOD_BLASTER
+[Sat Nov 19 10:44:07 2016]  ClientDisconnect: 0
+[Sat Nov 19 22:11:41 2016]  ClientConnect: 0
+[Sat Nov 19 22:11:41 2016]  mlog:Player ^1(^7Magna^5), connected. With IP - 192.162.35.228:29070 
+[Sat Nov 19 22:12:23 2016]  ClientBegin: 0
+[Sat Nov 19 22:12:38 2016]  ClientConnect: 1
+[Sat Nov 19 22:12:38 2016]  mlog:Player Padawan, connected. With IP - 89.151.189.18:-1040 
+[Sat Nov 19 22:13:14 2016]  ClientBegin: 1
+[Sat Nov 19 22:13:44 2016]  print "^1Magna^7 @@@PLRENAME ^3Andery^5Norys
+"[Sat Nov 19 22:13:52 2016]  say: ^3Andery^5Norys: krasava
+[Sat Nov 19 22:13:58 2016]  say: ^4 Kot Pisos: kek
+[Sat Nov 19 22:14:12 2016]  Kill: 1 0 3: ^4 Kot Pisos killed ^3Andery^5Norys by MOD_SABER
+[Sat Nov 19 22:14:41 2016]  Kill: 0 1 31: ^3Andery^5Norys killed ^4 Kot Pisos by MOD_FORCE_DARK
+[Sat Nov 19 22:15:14 2016]  Kill: 0 1 5: ^3Andery^5Norys killed ^4 Kot Pisos by MOD_BRYAR_PISTOL_ALT
+[Sat Nov 19 22:16:18 2016]  Kill: 0 1 3: ^3Andery^5Norys killed ^4 Kot Pisos by MOD_SABER
+[Sat Nov 19 22:16:35 2016]  say: ^4 Kot Pisos: blya pizdec
+[Sat Nov 19 22:16:41 2016]  say: ^3Andery^5Norys: AHAHA
+[Sat Nov 19 22:17:07 2016]  say: ^4 Kot Pisos: po hody ya skoro off
+[Sat Nov 19 22:17:44 2016]  Kill: 0 1 14: ^3Andery^5Norys killed ^4 Kot Pisos by MOD_REPEATER_ALT_SPLASH
+[Sat Nov 19 22:18:02 2016]  Kill: 1 0 6: ^4 Kot Pisos killed ^3Andery^5Norys by MOD_BLASTER
+[Sat Nov 19 22:18:14 2016]  Item: 1 weapon_disruptor
+[Sat Nov 19 22:18:50 2016]  Kill: 0 1 22: ^3Andery^5Norys killed ^4 Kot Pisos by MOD_ROCKET_HOMING_SPLASH
+[Sat Nov 19 22:19:05 2016]  Kill: 0 1 21: ^3Andery^5Norys killed ^4 Kot Pisos by MOD_ROCKET_HOMING
+[Sat Nov 19 22:19:58 2016]  say: ^3Andery^5Norys: U TEBE ROBIt server Andreya ?
+[Sat Nov 19 22:20:08 2016]  say: ^4 Kot Pisos: eto kakoy
+[Sat Nov 19 22:20:35 2016]  say: ^3Andery^5Norys: gark furius wrode
+[Sat Nov 19 22:20:42 2016]  Item: 0 ammo_all
+[Sat Nov 19 22:20:45 2016]  say: ^4 Kot Pisos: hz ne zamecal
+[Sat Nov 19 22:21:23 2016]  Kill: 1 1 14: ^4 Kot Pisos killed ^4 Kot Pisos by MOD_REPEATER_ALT_SPLASH
+[Sat Nov 19 22:21:41 2016]  say: ^3Andery^5Norys: ^0D^33rd ...\
+[Sat Nov 19 22:22:06 2016]  say: ^3Andery^5Norys: pervaya litera chornaya
+[Sat Nov 19 22:22:15 2016]  say: ^4 Kot Pisos: pizdec
+[Sat Nov 19 22:22:42 2016]  Kill: 0 1 27: ^3Andery^5Norys killed ^4 Kot Pisos by MOD_DET_PACK_SPLASH
+[Sat Nov 19 22:22:49 2016]  say: ^3Andery^5Norys: 1 hp )
+[Sat Nov 19 22:22:55 2016]  Kill: 1 0 3: ^4 Kot Pisos killed ^3Andery^5Norys by MOD_SABER
+[Sat Nov 19 22:23:06 2016]  Kill: 0 1 5: ^3Andery^5Norys killed ^4 Kot Pisos by MOD_BRYAR_PISTOL_ALT
+[Sat Nov 19 22:23:58 2016]  say: ^3Andery^5Norys: blat
+[Sat Nov 19 22:26:13 2016]  say: ^4 Kot Pisos: ya svalivay
+[Sat Nov 19 22:26:14 2016]  ClientDisconnect: 1
+[Sat Nov 19 22:28:27 2016]  ClientDisconnect: 0
+[Sun Nov 20 20:43:28 2016]  ClientConnect: 0
+[Sun Nov 20 20:43:28 2016]  mlog:Player Bobo, connected. With IP - 86.0.174.226:29070 
+[Sun Nov 20 20:43:41 2016]  ClientDisconnect: 0
+[Mon Nov 21 15:16:46 2016]  ClientConnect: 0
+[Mon Nov 21 15:16:46 2016]  mlog:Player Padawan, connected. With IP - 79.133.147.109:29070 
+[Mon Nov 21 15:17:23 2016]  ClientBegin: 0
+[Mon Nov 21 15:19:27 2016]  ClientDisconnect: 0

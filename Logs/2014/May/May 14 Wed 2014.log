@@ -1,0 +1,35 @@
+[Wed May 14 09:22:09 2014]  ------------------------------------------------------------
+[Wed May 14 09:22:09 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 14 09:22:09 2014]  ClientConnect: 0
+[Wed May 14 09:22:18 2014]  ClientBegin: 0
+[Wed May 14 09:24:59 2014]  ClientDisconnect: 0
+[Wed May 14 11:22:08 2014]  Exit: Timelimit hit.
+[Wed May 14 16:16:39 2014]  ------------------------------------------------------------
+[Wed May 14 16:16:39 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 14 18:16:43 2014]  Exit: Timelimit hit.
+[Wed May 14 19:44:55 2014]  ClientConnect: 0
+[Wed May 14 19:44:55 2014]  mlog:Player Padawan, connected. With IP - 217.121.162.113:29070 
+[Wed May 14 19:45:12 2014]  ClientBegin: 0
+[Wed May 14 19:45:14 2014]  ClientConnect: 1
+[Wed May 14 19:45:14 2014]  mlog:Player Gluteus Maximus, connected. With IP - 83.81.223.207:-13988 
+[Wed May 14 19:45:29 2014]  ClientBegin: 1
+[Wed May 14 19:46:22 2014]  ShutdownGame:
+[Wed May 14 19:46:22 2014]  ------------------------------------------------------------
+[Wed May 14 19:46:23 2014]  ------------------------------------------------------------
+[Wed May 14 19:46:23 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 14 19:46:23 2014]  ClientConnect: 0
+[Wed May 14 19:46:23 2014]  ClientConnect: 1
+[Wed May 14 19:46:32 2014]  ClientBegin: 1
+[Wed May 14 19:46:33 2014]  ClientBegin: 0
+[Wed May 14 19:46:58 2014]  Kill: 0 1 3: Padawan killed Gluteus Maximus by MOD_SABER
+[Wed May 14 19:52:27 2014]  ClientDisconnect: 1
+[Wed May 14 19:53:47 2014]  ClientDisconnect: 0
+[Wed May 14 20:08:17 2014]  ClientConnect: 0
+[Wed May 14 20:08:17 2014]  mlog:Player Xiongmao, connected. With IP - 83.248.3.99:29070 
+[Wed May 14 20:11:41 2014]  ClientDisconnect: 0
+[Wed May 14 21:46:22 2014]  Exit: Timelimit hit.
+[Thu May 15 03:53:13 2014]  ClientConnect: 0
+[Thu May 15 03:53:13 2014]  mlog:Player Padawan, connected. With IP - 174.64.179.213:29070 
+[Thu May 15 03:53:23 2014]  ClientBegin: 0
+[Thu May 15 03:53:44 2014]  ShutdownGame:
+[Thu May 15 03:53:44 2014]  ------------------------------------------------------------

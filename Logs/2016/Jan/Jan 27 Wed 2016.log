@@ -1,0 +1,189 @@
+[Wed Jan 27 21:56:06 2016]  ------------------------------------------------------------
+[Wed Jan 27 21:56:06 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Jan 27 22:56:23 2016]  ClientConnect: 0
+[Wed Jan 27 22:56:23 2016]  mlog:Player Padawan, connected. With IP - 164.177.232.1:29070 
+[Wed Jan 27 22:57:15 2016]  ClientBegin: 0
+[Wed Jan 27 23:00:38 2016]  ClientDisconnect: 0
+[Thu Jan 28 13:01:36 2016]  ClientConnect: 0
+[Thu Jan 28 13:01:36 2016]  mlog:Player ^Mike_kernny, connected. With IP - 88.147.152.155:13064 
+[Thu Jan 28 13:01:50 2016]  ClientBegin: 0
+[Thu Jan 28 13:02:10 2016]  ClientDisconnect: 0
+[Thu Jan 28 13:02:31 2016]  ClientConnect: 0
+[Thu Jan 28 13:02:31 2016]  mlog:Player ^Mike_kernny, connected. With IP - 88.147.152.155:13064 
+[Thu Jan 28 13:02:40 2016]  ClientBegin: 0
+[Thu Jan 28 13:03:41 2016]  ClientConnect: 1
+[Thu Jan 28 13:03:41 2016]  mlog:Player Padawan, connected. With IP - 91.207.239.51:29070 
+[Thu Jan 28 13:04:06 2016]  ClientBegin: 1
+[Thu Jan 28 13:04:12 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:04:25 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:04:57 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:05:05 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:05:25 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:05:32 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:06:09 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:06:21 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:06:25 2016]  Kill: 0 1 31: ^Mike_kernny killed Padawan by MOD_FORCE_DARK
+[Thu Jan 28 13:06:42 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:07:03 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:07:13 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:07:57 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:08:17 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:08:31 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:08:52 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:09:13 2016]  Kill: 0 1 31: ^Mike_kernny killed Padawan by MOD_FORCE_DARK
+[Thu Jan 28 13:09:43 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:10:16 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:10:28 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:10:55 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:11:10 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:11:19 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:11:26 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:11:47 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:12:02 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:12:20 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:12:27 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:12:35 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:14:11 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:22:39 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:25:25 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:26:33 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:27:24 2016]  Kill: 1022 0 38: <world> killed ^Mike_kernny by MOD_FALLING
+[Thu Jan 28 13:27:32 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:27:52 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:27:57 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:28:51 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:29:08 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:29:29 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:30:33 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:30:52 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:31:08 2016]  Kill: 0 1 3: ^Mike_kernny killed Padawan by MOD_SABER
+[Thu Jan 28 13:31:21 2016]  Kill: 1 0 3: Padawan killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:36:12 2016]  print "Padawan^7 @@@PLRENAME Befol
+"[Thu Jan 28 13:36:42 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:36:59 2016]  Kill: 0 1 3: ^Mike_kernny killed Befol by MOD_SABER
+[Thu Jan 28 13:38:09 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:38:18 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:38:27 2016]  Kill: 0 1 3: ^Mike_kernny killed Befol by MOD_SABER
+[Thu Jan 28 13:38:44 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:38:55 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:39:05 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:39:15 2016]  Kill: 0 1 3: ^Mike_kernny killed Befol by MOD_SABER
+[Thu Jan 28 13:39:28 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:39:36 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:39:43 2016]  Kill: 0 1 3: ^Mike_kernny killed Befol by MOD_SABER
+[Thu Jan 28 13:40:07 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:40:25 2016]  Kill: 0 1 3: ^Mike_kernny killed Befol by MOD_SABER
+[Thu Jan 28 13:40:37 2016]  setteam:  1 FREE SPECTATOR
+[Thu Jan 28 13:40:37 2016]  ClientBegin: 1
+[Thu Jan 28 13:40:49 2016]  setteam:  1 SPECTATOR FREE
+[Thu Jan 28 13:40:49 2016]  ClientBegin: 1
+[Thu Jan 28 13:41:09 2016]  Kill: 0 1 3: ^Mike_kernny killed Befol by MOD_SABER
+[Thu Jan 28 13:41:18 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:41:34 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:41:40 2016]  Kill: 0 1 3: ^Mike_kernny killed Befol by MOD_SABER
+[Thu Jan 28 13:41:57 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:42:14 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:42:26 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:42:50 2016]  Kill: 0 1 3: ^Mike_kernny killed Befol by MOD_SABER
+[Thu Jan 28 13:43:43 2016]  Kill: 1 0 3: Befol killed ^Mike_kernny by MOD_SABER
+[Thu Jan 28 13:43:50 2016]  ClientDisconnect: 1
+[Thu Jan 28 13:43:54 2016]  ClientDisconnect: 0
+[Thu Jan 28 16:11:33 2016]  ClientConnect: 0
+[Thu Jan 28 16:11:33 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Jan 28 16:11:49 2016]  ClientBegin: 0
+[Thu Jan 28 16:11:56 2016]  Item: 0 weapon_melee
+[Thu Jan 28 16:13:01 2016]  ClientDisconnect: 0
+[Thu Jan 28 16:17:01 2016]  ClientConnect: 0
+[Thu Jan 28 16:17:01 2016]  mlog:Player ^Mike_kernny, connected. With IP - 88.147.152.155:3903 
+[Thu Jan 28 16:17:17 2016]  ClientBegin: 0
+[Thu Jan 28 16:18:35 2016]  ClientDisconnect: 0
+[Thu Jan 28 16:57:20 2016]  ClientConnect: 0
+[Thu Jan 28 16:57:20 2016]  mlog:Player ^8-_-Fe^9tt-_-, connected. With IP - 79.173.122.28:29070 
+[Thu Jan 28 16:57:31 2016]  ClientBegin: 0
+[Thu Jan 28 16:58:28 2016]  print "Padawan^7 @@@PLRENAME ^8-_-Fe^9tt-_-
+"[Thu Jan 28 17:01:00 2016]  Kill: 0 0 39: ^8-_-Fe^9tt-_- killed ^8-_-Fe^9tt-_- by MOD_SUICIDE
+[Thu Jan 28 17:01:42 2016]  ClientDisconnect: 0
+[Fri Jan 29 17:35:12 2016]  ClientConnect: 0
+[Fri Jan 29 17:35:12 2016]  mlog:Player Lars Skyballer, connected. With IP - 84.248.31.178:-166 
+[Fri Jan 29 17:35:31 2016]  ClientBegin: 0
+[Fri Jan 29 17:36:04 2016]  ClientConnect: 1
+[Fri Jan 29 17:36:04 2016]  mlog:Player Rog Boner, connected. With IP - 84.248.7.72:-10005 
+[Fri Jan 29 17:36:19 2016]  ClientBegin: 1
+[Fri Jan 29 17:37:30 2016]  Kill: 0 1 3: Lars Skyballer killed Rog Boner by MOD_SABER
+[Fri Jan 29 17:37:52 2016]  Kill: 1 0 3: Rog Boner killed Lars Skyballer by MOD_SABER
+[Fri Jan 29 17:39:04 2016]  Kill: 1 0 3: Rog Boner killed Lars Skyballer by MOD_SABER
+[Fri Jan 29 17:40:18 2016]  Kill: 0 1 3: Lars Skyballer killed Rog Boner by MOD_SABER
+[Fri Jan 29 17:40:41 2016]  Kill: 1 0 3: Rog Boner killed Lars Skyballer by MOD_SABER
+[Fri Jan 29 17:41:38 2016]  Kill: 0 1 3: Lars Skyballer killed Rog Boner by MOD_SABER
+[Fri Jan 29 17:41:56 2016]  Kill: 1 0 31: Rog Boner killed Lars Skyballer by MOD_FORCE_DARK
+[Fri Jan 29 17:43:24 2016]  Kill: 1 0 3: Rog Boner killed Lars Skyballer by MOD_SABER
+[Fri Jan 29 17:43:28 2016]  ClientConnect: 2
+[Fri Jan 29 17:43:28 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Fri Jan 29 17:43:45 2016]  ClientBegin: 2
+[Fri Jan 29 17:43:51 2016]  Item: 2 weapon_melee
+[Fri Jan 29 17:44:10 2016]  say: ^0Shadow^5seer: пон€€€тно...
+[Fri Jan 29 17:44:36 2016]  Kill: 0 1 3: Lars Skyballer killed Rog Boner by MOD_SABER
+[Fri Jan 29 17:44:37 2016]  say: ^0Shadow^5seer: speak... any language?
+[Fri Jan 29 17:44:55 2016]  say: ^0Shadow^5seer: doesnt seem so
+[Fri Jan 29 17:45:30 2016]  say: ^0Shadow^5seer: hello-o
+[Fri Jan 29 17:45:38 2016]  Kill: 0 1 3: Lars Skyballer killed Rog Boner by MOD_SABER
+[Fri Jan 29 17:45:41 2016]  say: ^0Shadow^5seer: ээй, говорить умеем?
+[Fri Jan 29 17:46:22 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Fri Jan 29 17:46:36 2016]  Kill: 1 0 5: Rog Boner killed Lars Skyballer by MOD_BRYAR_PISTOL_ALT
+[Fri Jan 29 17:46:50 2016]  Kill: 2 1 30: ^0Shadow^5seer killed Rog Boner by MOD_CONC_ALT
+[Fri Jan 29 17:47:07 2016]  say: ^0Shadow^5seer: думаю, мы друг друга пон€ли
+[Fri Jan 29 17:47:20 2016]  say: ^0Shadow^5seer: i think we understand each other now
+[Fri Jan 29 17:47:27 2016]  say: Rog Boner: ALLAHUAKBAR
+[Fri Jan 29 17:47:30 2016]  Kill: 2 1 36: ^0Shadow^5seer killed Rog Boner by MOD_CRUSH
+[Fri Jan 29 17:47:34 2016]  say: ^0Shadow^5seer: ерфеы кшпре
+[Fri Jan 29 17:47:37 2016]  say: ^0Shadow^5seer: thats right
+[Fri Jan 29 17:47:45 2016]  Kill: 2 0 36: ^0Shadow^5seer killed Lars Skyballer by MOD_CRUSH
+[Fri Jan 29 17:47:53 2016]  Kill: 2 1 36: ^0Shadow^5seer killed Rog Boner by MOD_CRUSH
+[Fri Jan 29 17:47:54 2016]  say: Lars Skyballer: what is this
+[Fri Jan 29 17:47:57 2016]  say: ^0Shadow^5seer: magic
+[Fri Jan 29 17:48:02 2016]  say: ^0Shadow^5seer: psyonic powers
+[Fri Jan 29 17:48:19 2016]  say: ^0Shadow^5seer: u are on makermod server
+[Fri Jan 29 17:48:26 2016]  say: ^0Shadow^5seer: everything is possible here
+[Fri Jan 29 17:48:27 2016]  Kill: 2 0 36: ^0Shadow^5seer killed Lars Skyballer by MOD_CRUSH
+[Fri Jan 29 17:48:28 2016]  say: Rog Boner: OH HELLO 
+[Fri Jan 29 17:48:39 2016]  say: Rog Boner: MY NAME IS BONER! ROGER BONER!
+[Fri Jan 29 17:48:43 2016]  say: Lars Skyballer: TTTT
+[Fri Jan 29 17:48:47 2016]  say: ^0Shadow^5seer: awesome...
+[Fri Jan 29 17:48:48 2016]  say: Rog Boner: HOW DO YOU SPEAK?
+[Fri Jan 29 17:48:49 2016]  say: Lars Skyballer: YYY
+[Fri Jan 29 17:48:56 2016]  say: Rog Boner: WHAT BUTTON TO SPEAK???
+[Fri Jan 29 17:49:05 2016]  say: ^0Shadow^5seer: u are doing it right now
+[Fri Jan 29 17:49:10 2016]  say: Rog Boner: DOING WHAT
+[Fri Jan 29 17:49:15 2016]  say: ^0Shadow^5seer: speaking
+[Fri Jan 29 17:49:21 2016]  say: Rog Boner: HOW DO YOU SPEAK?
+[Fri Jan 29 17:49:26 2016]  Kill: 1 0 3: Rog Boner killed Lars Skyballer by MOD_SABER
+[Fri Jan 29 17:49:27 2016]  say: ^0Shadow^5seer: just like u do...
+[Fri Jan 29 17:49:33 2016]  say: Rog Boner: whaty
+[Fri Jan 29 17:49:48 2016]  ClientDisconnect: 0
+[Fri Jan 29 17:49:52 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Fri Jan 29 17:50:03 2016]  say: Rog Boner: HI FACEPALM! MY NAME IS BONER
+[Fri Jan 29 17:50:11 2016]  say: Rog Boner: ROGER BONER!
+[Fri Jan 29 17:51:02 2016]  ClientDisconnect: 1
+[Fri Jan 29 17:51:23 2016]  ClientDisconnect: 2
+[Fri Jan 29 20:06:25 2016]  ClientConnect: 0
+[Fri Jan 29 20:06:25 2016]  mlog:Player Padawan, connected. With IP - 85.222.74.1:29070 
+[Fri Jan 29 20:06:44 2016]  ClientBegin: 0
+[Fri Jan 29 20:08:47 2016]  ClientDisconnect: 0
+[Fri Jan 29 21:46:49 2016]  ClientConnect: 0
+[Fri Jan 29 21:46:49 2016]  mlog:Player Padawan, connected. With IP - 85.222.74.1:29070 
+[Fri Jan 29 21:47:05 2016]  ClientBegin: 0
+[Fri Jan 29 21:51:59 2016]  ClientDisconnect: 0
+[Fri Jan 29 22:19:41 2016]  ClientConnect: 0
+[Fri Jan 29 22:19:41 2016]  mlog:Player ^0ex^3ses^0x, connected. With IP - 91.218.96.121:29070 
+[Fri Jan 29 22:20:05 2016]  ClientBegin: 0
+[Fri Jan 29 22:21:01 2016]  say: ^0ex^3ses^0x: mplace crystal_wall
+[Fri Jan 29 22:24:12 2016]  say: ^0ex^3ses^0x: My origin is: (-9283 -19837 1701) - You can teleport here with /mtelelast
+
+[Fri Jan 29 22:24:42 2016]  say: ^0ex^3ses^0x: My origin is: (-8737 -19709 1647) - You can teleport here with /mtelelast
+
+[Fri Jan 29 22:25:51 2016]  Kill: 0 0 39: ^0ex^3ses^0x killed ^0ex^3ses^0x by MOD_SUICIDE
+[Fri Jan 29 22:25:51 2016]  setteam:  0 FREE SPECTATOR
+[Fri Jan 29 22:25:51 2016]  ClientBegin: 0
+[Fri Jan 29 22:28:12 2016]  setteam:  0 SPECTATOR FREE
+[Fri Jan 29 22:28:12 2016]  ClientBegin: 0
+[Fri Jan 29 22:50:43 2016]  ClientDisconnect: 0

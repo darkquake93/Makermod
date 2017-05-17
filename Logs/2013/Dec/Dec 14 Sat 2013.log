@@ -1,0 +1,680 @@
+[Sat Dec 14 12:50:50 2013]  ------------------------------------------------------------
+[Sat Dec 14 12:50:50 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Dec 14 13:56:19 2013]  ClientConnect: 0
+[Sat Dec 14 13:56:19 2013]  mlog:Player Altair, connected. With IP - 89.145.152.30:29070 
+[Sat Dec 14 13:56:54 2013]  ClientBegin: 0
+[Sat Dec 14 13:57:21 2013]  Kill: 0 0 39: Altair killed Altair by MOD_SUICIDE
+[Sat Dec 14 13:57:21 2013]  setteam:  0 FREE SPECTATOR
+[Sat Dec 14 13:57:21 2013]  ClientBegin: 0
+[Sat Dec 14 13:57:28 2013]  setteam:  0 SPECTATOR FREE
+[Sat Dec 14 13:57:28 2013]  ClientBegin: 0
+[Sat Dec 14 13:57:39 2013]  say: Altair: helpusobi 1
+[Sat Dec 14 14:02:38 2013]  say: Altair: npc spawn alora
+[Sat Dec 14 14:02:52 2013]  say: Altair: npc spawn desann
+[Sat Dec 14 14:03:27 2013]  say: Altair: npc spawn desann noghri sand_creature
+[Sat Dec 14 14:03:53 2013]  say: Altair: npc spawn maddog
+[Sat Dec 14 14:04:02 2013]  say: Altair: npc spawn reborn
+[Sat Dec 14 14:04:12 2013]  say: Altair: npc spawn luke
+[Sat Dec 14 14:04:25 2013]  say: Altair: npc spawn maddog
+[Sat Dec 14 14:04:27 2013]  say: Altair: npc spawn luke
+[Sat Dec 14 14:08:49 2013]  say: Altair: npc spawn alora
+[Sat Dec 14 14:08:53 2013]  say: Altair: npc spawn alora
+[Sat Dec 14 14:09:59 2013]  say: Altair: npc spawn desann
+[Sat Dec 14 14:10:37 2013]  ClientDisconnect: 0
+[Sat Dec 14 14:51:00 2013]  Exit: Timelimit hit.
+[Sat Dec 14 15:27:52 2013]  ClientConnect: 0
+[Sat Dec 14 15:27:52 2013]  mlog:Player ^7Sc^4oo^7per, connected. With IP - 84.208.69.8:29070 
+[Sat Dec 14 15:28:09 2013]  ClientBegin: 0
+[Sat Dec 14 15:28:10 2013]  ShutdownGame:
+[Sat Dec 14 15:28:10 2013]  ------------------------------------------------------------
+[Sat Dec 14 15:28:11 2013]  ------------------------------------------------------------
+[Sat Dec 14 15:28:11 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Dec 14 15:28:12 2013]  ClientConnect: 0
+[Sat Dec 14 15:28:20 2013]  ClientBegin: 0
+[Sat Dec 14 15:33:35 2013]  ClientConnect: 1
+[Sat Dec 14 15:33:35 2013]  mlog:Player ^1V^0eran[ILLUMATI]{I}, connected. With IP - 31.180.154.67:29070 
+[Sat Dec 14 15:33:58 2013]  ClientBegin: 1
+[Sat Dec 14 15:35:41 2013]  say: ^7Sc^4oo^7per: hi
+[Sat Dec 14 15:35:42 2013]  ClientConnect: 2
+[Sat Dec 14 15:35:42 2013]  mlog:Player ^0[CO-Mandalore]^4Sev^0[Ordo], connected. With IP - 95.83.110.18:29070 
+[Sat Dec 14 15:35:57 2013]  ClientBegin: 2
+[Sat Dec 14 15:36:10 2013]  print "Dimas^7 @@@PLRENAME Heloween
+"[Sat Dec 14 15:36:24 2013]  say: Heloween: Sev
+[Sat Dec 14 15:36:30 2013]  say: Heloween: Пеиременуйся
+[Sat Dec 14 15:36:32 2013]  print "Padawan^7 @@@PLRENAME ^0SEv
+"[Sat Dec 14 15:36:36 2013]  say: ^7Sc^4oo^7per: aw, russians?
+[Sat Dec 14 15:36:39 2013]  say: Heloween: yes
+[Sat Dec 14 15:36:41 2013]  say: ^7Sc^4oo^7per: i can't even see those letters.
+[Sat Dec 14 15:36:46 2013]  print "^0SEv^7 @@@PLRENAME ^0Seva
+"[Sat Dec 14 15:37:03 2013]  say: Heloween: Сев,ЧЕ ТВОИ ДРУЖКИ НЕ ЗАХОДЯТ
+[Sat Dec 14 15:37:11 2013]  say: ^0Seva: хз
+[Sat Dec 14 15:37:34 2013]  say: ^0Seva: что за серв такой?
+[Sat Dec 14 15:38:06 2013]  say: ^7Sc^4oo^7per: So do you guys speak english? :p
+[Sat Dec 14 15:38:24 2013]  say: Heloween: Серв как серв
+[Sat Dec 14 15:38:40 2013]  say: ^0Seva: хахаха
+[Sat Dec 14 15:38:42 2013]  say: ^0Seva: читы
+[Sat Dec 14 15:38:44 2013]  say: ^7Sc^4oo^7per: Guess that's a no? :/
+[Sat Dec 14 15:38:59 2013]  say: Heloween: Читы?
+[Sat Dec 14 15:39:04 2013]  say: ^0Seva: да
+[Sat Dec 14 15:39:07 2013]  say: ^0Seva: Коды
+[Sat Dec 14 15:39:10 2013]  say: Heloween: Кикие читы?
+[Sat Dec 14 15:39:26 2013]  say: Heloween: Я через админку зашел
+[Sat Dec 14 15:39:40 2013]  print "^0Seva^7 @@@PLRENAME ^0Sev
+"[Sat Dec 14 15:39:42 2013]  Kill: 2 2 39: ^0Sev killed ^0Sev by MOD_SUICIDE
+[Sat Dec 14 15:39:54 2013]  say: ^0Sev: Ну введи в консоли /noclip
+[Sat Dec 14 15:40:03 2013]  say: Heloween: Ждем твоих дружков
+[Sat Dec 14 15:40:08 2013]  say: Heloween: Ой эта хрень
+[Sat Dec 14 15:40:12 2013]  say: ^0Sev: ща им в вк напишу
+[Sat Dec 14 15:41:25 2013]  ClientConnect: 3
+[Sat Dec 14 15:41:25 2013]  mlog:Player ^0[Emperor]^1Mavron^0[Ordo], connected. With IP - 46.242.119.238:29070 
+[Sat Dec 14 15:41:37 2013]  ClientConnect: 4
+[Sat Dec 14 15:41:37 2013]  mlog:Player Havok, connected. With IP - 92.243.182.122:4721 
+[Sat Dec 14 15:41:49 2013]  say: Havok: ^0UU ^1- ^0JA ^1Minimized
+[Sat Dec 14 15:41:49 2013]  ClientBegin: 4
+[Sat Dec 14 15:42:01 2013]  say: Padawan: ^0UU ^1- ^0JA ^1Restored
+[Sat Dec 14 15:42:09 2013]  say: ^0[Emperor]^1Mavron^0[Ordo]: ^3UU ^2- ^7JA ^2Minimized
+[Sat Dec 14 15:42:09 2013]  say: ^0[Emperor]^1Mavron^0[Ordo]: ^3UU ^2- ^7JA ^2Restored
+[Sat Dec 14 15:42:09 2013]  ClientBegin: 3
+[Sat Dec 14 15:42:20 2013]  say: ^0Sev: Ну вот
+[Sat Dec 14 15:42:22 2013]  say: Heloween: оп,я смотрю тут уже почти все в сборе
+[Sat Dec 14 15:42:22 2013]  say: ^0Sev: Позвал
+[Sat Dec 14 15:42:24 2013]  say: ^7Sc^4oo^7per: Are you guys anti-social russians as well?
+[Sat Dec 14 15:42:45 2013]  print "Nekit^7 @@@PLRENAME ^0[Mandalore]^4Mavron^0[Ordo]
+"[Sat Dec 14 15:42:48 2013]  say: ^0Sev: АХах
+[Sat Dec 14 15:42:52 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Мы тут..
+[Sat Dec 14 15:42:59 2013]  say: ^0Sev: Тут тавион
+[Sat Dec 14 15:43:00 2013]  say: Heloween: А где же Оут?
+[Sat Dec 14 15:43:04 2013]  say: ^0Sev: хэлп
+[Sat Dec 14 15:43:08 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Откуда я знаю?Г
+[Sat Dec 14 15:43:09 2013]  say: ^7Sc^4oo^7per: Alright so mavron is russian too
+[Sat Dec 14 15:43:13 2013]  say: ^7Sc^4oo^7per: how about padawan D:
+[Sat Dec 14 15:43:18 2013]  print "Padawan^7 @@@PLRENAME ^0[Geth Alpha^0]^1Legion
+"[Sat Dec 14 15:43:26 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Все мы тут
+[Sat Dec 14 15:43:27 2013]  Kill: 1022 3 3: <world> killed ^0[Mandalore]^4Mavron^0[Ordo] by MOD_SABER
+[Sat Dec 14 15:43:28 2013]  say: ^0[Geth Alpha^0]^1Legion: ^1Too
+[Sat Dec 14 15:43:31 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Что дальше?
+[Sat Dec 14 15:43:32 2013]  say: ^0[Geth Alpha^0]^1Legion: ^1Im Russian
+[Sat Dec 14 15:43:36 2013]  say: ^7Sc^4oo^7per: T.T
+[Sat Dec 14 15:43:36 2013]  ClientConnect: 5
+[Sat Dec 14 15:43:36 2013]  mlog:Player ^8Darth ^3Javimetal, connected. With IP - 85.219.4.121:29070 
+[Sat Dec 14 15:43:39 2013]  say: Heloween: XD
+[Sat Dec 14 15:43:40 2013]  say: ^7Sc^4oo^7per: So many russians that won't speak to me
+[Sat Dec 14 15:43:43 2013]  say: ^0Sev: О_ООО
+[Sat Dec 14 15:43:44 2013]  say: ^0[Geth Alpha^0]^1Legion: Lol
+[Sat Dec 14 15:43:47 2013]  say: ^0[Geth Alpha^0]^1Legion: I wanna
+[Sat Dec 14 15:43:47 2013]  say: ^0Sev: БЛЯ Я ОБОСРАЛСЯ
+[Sat Dec 14 15:43:52 2013]  say: ^7Sc^4oo^7per: yay
+[Sat Dec 14 15:43:54 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Хелоуин!
+[Sat Dec 14 15:43:54 2013]  say: ^7Sc^4oo^7per: sup :D?
+[Sat Dec 14 15:43:56 2013]  say: ^0[Geth Alpha^0]^1Legion: But Later
+[Sat Dec 14 15:44:00 2013]  say: ^7Sc^4oo^7per: aw
+[Sat Dec 14 15:44:00 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5ЧТо нам тут делатЬ?
+[Sat Dec 14 15:44:01 2013]  ClientBegin: 5
+[Sat Dec 14 15:44:05 2013]  say: ^0Sev: как ты таким стал?
+[Sat Dec 14 15:44:05 2013]  say: ^0[Geth Alpha^0]^1Legion: ^0UU ^1- ^0JA ^1Minimized
+[Sat Dec 14 15:44:06 2013]  say: ^8Darth ^3Javimetal: holaaa
+[Sat Dec 14 15:44:08 2013]  say: ^7Sc^4oo^7per: javimetal, are you russian too?!
+[Sat Dec 14 15:44:10 2013]  say: Heloween: Говорить
+[Sat Dec 14 15:44:14 2013]  say: ^8Darth ^3Javimetal: nop
+[Sat Dec 14 15:44:15 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5С кем?
+[Sat Dec 14 15:44:15 2013]  say: ^7Sc^4oo^7per: YAY
+[Sat Dec 14 15:44:16 2013]  say: ^0[Geth Alpha^0]^1Legion: ^0UU ^1- ^0JA ^1Restored
+[Sat Dec 14 15:44:17 2013]  say: Heloween: По поводу Иллюмов
+[Sat Dec 14 15:44:19 2013]  say: ^7Sc^4oo^7per: You're mine then
+[Sat Dec 14 15:44:19 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Аа.
+[Sat Dec 14 15:44:23 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5С тобой?
+[Sat Dec 14 15:44:32 2013]  say: Heloween: да\
+[Sat Dec 14 15:44:33 2013]  say: ^8Darth ^3Javimetal: XD
+[Sat Dec 14 15:44:34 2013]  say: ^0Sev: Как ты таким стал?
+[Sat Dec 14 15:44:41 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^3UU ^2- ^7JA ^2Restored
+[Sat Dec 14 15:44:41 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^3UU ^2- ^7JA ^2Minimized
+[Sat Dec 14 15:44:41 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^3UU ^2- ^7JA ^2Restored
+[Sat Dec 14 15:44:41 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^3UU ^2- ^7JA ^2Minimized
+[Sat Dec 14 15:44:41 2013]  say: Heloween: XD
+[Sat Dec 14 15:44:45 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ну давай поговорим
+[Sat Dec 14 15:44:53 2013]  tell: ^0[Mandalore]^4Mavron^0[Ordo] to ^0[Geth Alpha^0]^1Legion: Какой там чит на оруги?
+[Sat Dec 14 15:44:56 2013]  say: ^0Sev: Вы говорите пока что
+[Sat Dec 14 15:44:58 2013]  tell: ^0[Geth Alpha^0]^1Legion to ^0[Mandalore]^4Mavron^0[Ordo]: /Give all
+[Sat Dec 14 15:44:59 2013]  say: ^7Sc^4oo^7per: I'm a little surprised to see even this many playing makermod :p
+[Sat Dec 14 15:45:00 2013]  say: ^0Sev: Я тут подерусь
+[Sat Dec 14 15:45:07 2013]  say: Heloween: я МОГУ РАНКОРА ВАМ ПОДКИНУТЬ
+[Sat Dec 14 15:45:11 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Не надо
+[Sat Dec 14 15:45:11 2013]  say: ^0Sev: го чо
+[Sat Dec 14 15:45:15 2013]  say: ^0Sev: Я бессмертный
+[Sat Dec 14 15:45:18 2013]  say: ^8Darth ^3Javimetal: alguno habla espaсol? xD
+[Sat Dec 14 15:45:19 2013]  say: ^0Sev: О нет
+[Sat Dec 14 15:45:24 2013]  say: ^0Sev: Если сожрет
+[Sat Dec 14 15:45:25 2013]  say: Heloween: Кароче
+[Sat Dec 14 15:45:25 2013]  say: ^7Sc^4oo^7per: o.o
+[Sat Dec 14 15:45:27 2013]  say: ^7Sc^4oo^7per: You're kidding right?
+[Sat Dec 14 15:45:28 2013]  say: ^0Sev: То умрешь
+[Sat Dec 14 15:45:35 2013]  say: ^8Darth ^3Javimetal: eh?
+[Sat Dec 14 15:45:37 2013]  say: ^7Sc^4oo^7per: <.<
+[Sat Dec 14 15:45:41 2013]  say: Heloween: Почему вы объявили войну им
+[Sat Dec 14 15:45:48 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Они сами
+[Sat Dec 14 15:45:49 2013]  say: ^7Sc^4oo^7per: You're not pretending to only speak spanish or something are you?
+[Sat Dec 14 15:46:05 2013]  say: ^8Darth ^3Javimetal: why not?
+[Sat Dec 14 15:46:08 2013]  say: Heloween: Чем вас не устраивает этот орден?
+[Sat Dec 14 15:46:09 2013]  say: ^7Sc^4oo^7per: That would be mean
+[Sat Dec 14 15:46:14 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ты не понял
+[Sat Dec 14 15:46:15 2013]  say: ^7Sc^4oo^7per: None of the russians want to speak english
+[Sat Dec 14 15:46:16 2013]  say: ^0Sev: Они пришли и лупить стали
+[Sat Dec 14 15:46:17 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Они САМИ напали
+[Sat Dec 14 15:46:20 2013]  say: Heloween: Вася,ты давай по-русски говори
+[Sat Dec 14 15:46:25 2013]  say: Heloween: А не прячься
+[Sat Dec 14 15:46:30 2013]  say: ^7Sc^4oo^7per: And the only other non-russian will only speak spanish?!
+[Sat Dec 14 15:46:34 2013]  say: ^7Sc^4oo^7per: That's not fair!
+[Sat Dec 14 15:46:40 2013]  say: ^8Darth ^3Javimetal: any problem?
+[Sat Dec 14 15:46:46 2013]  say: ^7Sc^4oo^7per: Yes, i want to talk to people :(
+[Sat Dec 14 15:46:49 2013]  say: Heloween: yes
+[Sat Dec 14 15:46:55 2013]  Kill: 2 2 39: ^0Sev killed ^0Sev by MOD_SUICIDE
+[Sat Dec 14 15:46:56 2013]  say: ^7Sc^4oo^7per: And for that to happen it needs to be in a language i can understand :p
+[Sat Dec 14 15:46:58 2013]  say: ^8Darth ^3Javimetal: xD boy a friend xD
+[Sat Dec 14 15:47:09 2013]  say: ^7Sc^4oo^7per: boy a friend? did you mean to say buy?
+[Sat Dec 14 15:47:13 2013]  Kill: 1022 3 2: <world> killed ^0[Mandalore]^4Mavron^0[Ordo] by MOD_MELEE
+[Sat Dec 14 15:47:13 2013]  say: Heloween: Какой же трус Оут
+[Sat Dec 14 15:47:19 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Хелоуин
+[Sat Dec 14 15:47:20 2013]  say: ^0Sev: ХАхаха
+[Sat Dec 14 15:47:21 2013]  say: ^0[Geth Alpha^0]^1Legion: Эй
+[Sat Dec 14 15:47:23 2013]  say: ^0Sev: ахахах
+[Sat Dec 14 15:47:23 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Говори
+[Sat Dec 14 15:47:26 2013]  say: ^0[Geth Alpha^0]^1Legion: Я тут Ранкора мочил
+[Sat Dec 14 15:47:29 2013]  tell: ^0Sev to ^0[Geth Alpha^0]^1Legion: Сожрал
+[Sat Dec 14 15:47:31 2013]  say: Heloween: XD
+[Sat Dec 14 15:47:32 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Что надо этому Ордену
+[Sat Dec 14 15:47:33 2013]  tell: ^0Sev to ^0[Geth Alpha^0]^1Legion: xDDD
+[Sat Dec 14 15:47:36 2013]  Item: 2 weapon_det_pack
+[Sat Dec 14 15:47:40 2013]  say: Heloween: Ничего
+[Sat Dec 14 15:47:47 2013]  say: Heloween: Просто не надо нарываться
+[Sat Dec 14 15:47:52 2013]  say: Heloween: Живите мирно
+[Sat Dec 14 15:47:53 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Они первыеее
+[Sat Dec 14 15:48:11 2013]  say: ^0Sev: Ыыы
+[Sat Dec 14 15:48:12 2013]  say: Heloween: Первые....Напомни когда это было...
+[Sat Dec 14 15:48:17 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Пришли
+[Sat Dec 14 15:48:21 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5И начали пиздить нас
+[Sat Dec 14 15:48:23 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Мы их убили
+[Sat Dec 14 15:48:29 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5И кто-то сказал
+[Sat Dec 14 15:48:30 2013]  say: Heloween: Они вас не трогали
+[Sat Dec 14 15:48:37 2013]  say: ^7Sc^4oo^7per: What if i say i'm the coder that created makermod?
+[Sat Dec 14 15:48:37 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ну все сосунки,завтра мы придем вас иметьэ
+[Sat Dec 14 15:48:39 2013]  say: ^0Sev: ТРогали
+[Sat Dec 14 15:48:40 2013]  say: ^7Sc^4oo^7per: will anyone speak to me then D:?
+[Sat Dec 14 15:48:46 2013]  say: ^0Sev: Они нас убивали
+[Sat Dec 14 15:48:47 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Вот это они сказали
+[Sat Dec 14 15:48:49 2013]  say: Heloween: Ну вы же сами начали
+[Sat Dec 14 15:48:52 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5ОНИ НАЧАЛИ
+[Sat Dec 14 15:48:56 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Они пришли первые!
+[Sat Dec 14 15:49:00 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5И начали убивать ПЕРВЫЕ
+[Sat Dec 14 15:49:09 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5И обзыватся ТОЖЕ ОНИ
+[Sat Dec 14 15:49:23 2013]  say: Heloween: Вы хотели этот орден просто стереть
+[Sat Dec 14 15:49:28 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Что?
+[Sat Dec 14 15:49:31 2013]  say: Heloween: /Ну точнее Оут
+[Sat Dec 14 15:49:36 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Кто это сказал?
+[Sat Dec 14 15:49:37 2013]  say: ^0[Geth Alpha^0]^1Legion: Я то что?
+[Sat Dec 14 15:49:48 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ну скажи причем тут Ордо?
+[Sat Dec 14 15:49:52 2013]  say: Heloween: Ну Оут,зачем так делать?
+[Sat Dec 14 15:49:53 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Причем тут мы?
+[Sat Dec 14 15:49:59 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Если Оут виноват
+[Sat Dec 14 15:50:02 2013]  say: Heloween: Вы не причем,спросите Оута
+[Sat Dec 14 15:50:11 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ну тогда почему нас наказываете?
+[Sat Dec 14 15:50:28 2013]  say: Heloween: Вы же с ним,как говориться одни за всех,и все за одного!
+[Sat Dec 14 15:50:34 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Нет!
+[Sat Dec 14 15:50:37 2013]  say: Heloween: Один*
+[Sat Dec 14 15:50:38 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Он не с нами
+[Sat Dec 14 15:50:43 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Сам по себе
+[Sat Dec 14 15:50:47 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Наоборот даж
+[Sat Dec 14 15:50:50 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Война
+[Sat Dec 14 15:50:55 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Раз видишь
+[Sat Dec 14 15:51:01 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Титул Мандалора у него забрал
+[Sat Dec 14 15:51:08 2013]  Item: 3 ammo_all
+[Sat Dec 14 15:51:18 2013]  say: ^0Sev: мав
+[Sat Dec 14 15:51:20 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5?
+[Sat Dec 14 15:51:22 2013]  say: ^0Sev: Ns lt&
+[Sat Dec 14 15:51:24 2013]  say: ^0Sev: Ты де?
+[Sat Dec 14 15:51:25 2013]  say: Heloween: Да,забрал,подстроили план?
+[Sat Dec 14 15:51:31 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Революция была
+[Sat Dec 14 15:51:35 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5И я стал Главой
+[Sat Dec 14 15:51:37 2013]  say: ^0Sev: целых 2
+[Sat Dec 14 15:51:40 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ну да
+[Sat Dec 14 15:51:42 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Целых 2
+[Sat Dec 14 15:51:46 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^51) Мы его оставили
+[Sat Dec 14 15:51:50 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^52) Я забрал титул
+[Sat Dec 14 15:52:04 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5И еще
+[Sat Dec 14 15:52:06 2013]  say: Heloween: И он просто так его отдал?
+[Sat Dec 14 15:52:06 2013]  say: ^0Sev: Я бессмертный
+[Sat Dec 14 15:52:09 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Не
+[Sat Dec 14 15:52:14 2013]  ClientDisconnect: 0
+[Sat Dec 14 15:52:18 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Под словом *Забрал* 
+[Sat Dec 14 15:52:20 2013]  say: ^0Sev: ахаха
+[Sat Dec 14 15:52:22 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Я имею в виду ОТНЯЛ
+[Sat Dec 14 15:52:51 2013]  say: Heloween: mmmmmmmmmmmmmm
+[Sat Dec 14 15:52:55 2013]  Kill: 1022 1 2: <world> killed Heloween by MOD_MELEE
+[Sat Dec 14 15:52:57 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Так что
+[Sat Dec 14 15:53:01 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5И еще кстати
+[Sat Dec 14 15:53:06 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ты НЕ ЗНАЕШЬ
+[Sat Dec 14 15:53:09 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5С чего ВСЕ
+[Sat Dec 14 15:53:11 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Началось
+[Sat Dec 14 15:53:13 2013]  Kill: 2 2 39: ^0Sev killed ^0Sev by MOD_SUICIDE
+[Sat Dec 14 15:53:22 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ты думаешь он САМ ЗАХОТЕЛ уничтожить Орден?
+[Sat Dec 14 15:53:26 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Неет
+[Sat Dec 14 15:53:28 2013]  Kill: 2 2 39: ^0Sev killed ^0Sev by MOD_SUICIDE
+[Sat Dec 14 15:53:29 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Я расскажу тебе все
+[Sat Dec 14 15:53:31 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Кароче
+[Sat Dec 14 15:53:39 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Однажды были Ситхи или Ордо я уже не помню
+[Sat Dec 14 15:53:43 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Пришел Веран
+[Sat Dec 14 15:53:46 2013]  say: ^0[Geth Alpha^0]^1Legion: Ордо
+[Sat Dec 14 15:53:49 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Он ныл
+[Sat Dec 14 15:53:50 2013]  say: ^0[Geth Alpha^0]^1Legion: Было Ордо
+[Sat Dec 14 15:53:54 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Что его выгнали из Клана
+[Sat Dec 14 15:53:55 2013]  say: ^0[Geth Alpha^0]^1Legion: Я сам
+[Sat Dec 14 15:53:56 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ордена*
+[Sat Dec 14 15:54:03 2013]  say: ^0[Geth Alpha^0]^1Legion: Короче
+[Sat Dec 14 15:54:05 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5И сказал что ЗЛЫЕ ИЛЛЮМИНАТИ
+[Sat Dec 14 15:54:07 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Это сделали
+[Sat Dec 14 15:54:12 2013]  say: ^8Darth ^3Javimetal: novato
+[Sat Dec 14 15:54:13 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5И оут ОБЕЩАЛ отомстить за него
+[Sat Dec 14 15:54:21 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ну не сразу
+[Sat Dec 14 15:54:24 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Веран заставлял его
+[Sat Dec 14 15:54:27 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Отомстить
+[Sat Dec 14 15:54:31 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Так что виноват НЕ ОН
+[Sat Dec 14 15:54:37 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5А ВАШ ДОЛБАНЫЙ ВЕРАН!
+[Sat Dec 14 15:54:44 2013]  say: ^8Darth ^3Javimetal: :)
+[Sat Dec 14 15:54:50 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5ВСЕ ПРИТЕНЗИИ К НЕМУ!
+[Sat Dec 14 15:54:52 2013]  Kill: 5 2 3: ^8Darth ^3Javimetal killed ^0Sev by MOD_SABER
+[Sat Dec 14 15:54:54 2013]  say: ^8Darth ^3Javimetal: :)
+[Sat Dec 14 15:55:04 2013]  say: Heloween: Веран тут не причем,просто Веран только сегодня зашел в сеть
+[Sat Dec 14 15:55:15 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Еще давным давно все было!
+[Sat Dec 14 15:55:16 2013]  say: Heloween: его не было уже месяц в игре
+[Sat Dec 14 15:55:16 2013]  Kill: 2 2 39: ^0Sev killed ^0Sev by MOD_SUICIDE
+[Sat Dec 14 15:55:20 2013]  Item: 5 weapon_repeater
+[Sat Dec 14 15:55:25 2013]  say: Heloween: А вы про ИНсайдера
+[Sat Dec 14 15:55:26 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Было это 4-5 месяцов назад
+[Sat Dec 14 15:55:29 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5А то и больше
+[Sat Dec 14 15:55:33 2013]  say: Heloween: Который скрывался под ником Верана
+[Sat Dec 14 15:55:38 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Что?
+[Sat Dec 14 15:55:45 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ну блять заебись..
+[Sat Dec 14 15:55:58 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5ПРОСТО ЗАЕБИСЬ
+[Sat Dec 14 15:56:01 2013]  say: ^0[Geth Alpha^0]^1Legion: ...
+[Sat Dec 14 15:56:05 2013]  say: ^0[Geth Alpha^0]^1Legion: ....
+[Sat Dec 14 15:56:07 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5В общем делайте все что хотите
+[Sat Dec 14 15:56:10 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Оута не отдам
+[Sat Dec 14 15:56:18 2013]  say: ^8Darth ^3Javimetal: :)
+[Sat Dec 14 15:56:22 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Хоть блять серв в жопу сасуньте себе
+[Sat Dec 14 15:56:28 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Засуньте*
+[Sat Dec 14 15:56:39 2013]  say: Heloween: Инсайдер все провернул это,он сейчас прячется где-то,но мы скоро это выясним
+[Sat Dec 14 15:56:42 2013]  say: ^0Sev: Как ты стал мерком?
+[Sat Dec 14 15:56:48 2013]  say: Heloween: Хорошо,я вам поверю
+[Sat Dec 14 15:56:50 2013]  say: ^0[Geth Alpha^0]^1Legion: Хело
+[Sat Dec 14 15:56:50 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Кто такой инсайдер?
+[Sat Dec 14 15:56:56 2013]  say: ^0[Geth Alpha^0]^1Legion: Кайм
+[Sat Dec 14 15:56:58 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5?
+[Sat Dec 14 15:56:59 2013]  say: ^0[Geth Alpha^0]^1Legion: Я все обьяснгю.
+[Sat Dec 14 15:57:01 2013]  say: ^0[Geth Alpha^0]^1Legion: Потом
+[Sat Dec 14 15:57:03 2013]  say: ^8Darth ^3Javimetal: :)
+[Sat Dec 14 15:57:15 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Хелоуин кто такой инсайдер этот?
+[Sat Dec 14 15:57:20 2013]  say: ^0[Geth Alpha^0]^1Legion: Бывший
+[Sat Dec 14 15:57:20 2013]  say: Heloween: Бог
+[Sat Dec 14 15:57:22 2013]  say: ^0[Geth Alpha^0]^1Legion: Глава
+[Sat Dec 14 15:57:24 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Кто?
+[Sat Dec 14 15:57:26 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Бог?
+[Sat Dec 14 15:57:31 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Погодите
+[Sat Dec 14 15:57:31 2013]  Kill: 1022 2 2: <world> killed ^0Sev by MOD_MELEE
+[Sat Dec 14 15:57:34 2013]  say: Heloween: Да,Бог  Джа
+[Sat Dec 14 15:57:36 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Вы щас его ищите зачем?
+[Sat Dec 14 15:57:40 2013]  say: ^0Sev: .пщв
+[Sat Dec 14 15:58:00 2013]  tell: ^8Darth ^3Javimetal to ^0[Geth Alpha^0]^1Legion: back u...
+[Sat Dec 14 15:58:11 2013]  say: Heloween: Почти все сервера,основанный с помощью Инсайдера,ну большая часть
+[Sat Dec 14 15:58:13 2013]  Kill: 2 2 39: ^0Sev killed ^0Sev by MOD_SUICIDE
+[Sat Dec 14 15:58:21 2013]  Kill: 1022 5 2: <world> killed ^8Darth ^3Javimetal by MOD_MELEE
+[Sat Dec 14 15:58:21 2013]  say: ^8Darth ^3Javimetal: D:
+[Sat Dec 14 15:58:25 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5А зачем вы его ищите?:
+[Sat Dec 14 15:58:30 2013]  say: ^8Darth ^3Javimetal: :)
+[Sat Dec 14 15:58:37 2013]  say: Heloween: Он хотел разрушить все кланы и Ордены
+[Sat Dec 14 15:58:42 2013]  Kill: 1022 2 39: <world> killed ^0Sev by MOD_SUICIDE
+[Sat Dec 14 15:58:44 2013]  say: ^8Darth ^3Javimetal: use /q to force power
+[Sat Dec 14 15:58:45 2013]  say: ^0[Geth Alpha^0]^1Legion: ВАШУ МАТЬ
+[Sat Dec 14 15:58:45 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Вы против него?
+[Sat Dec 14 15:58:49 2013]  say: Heloween: В том числе анонимно был Вераном
+[Sat Dec 14 15:59:02 2013]  say: Heloween: И он втянул вас против Иллюминатов
+[Sat Dec 14 15:59:05 2013]  say: ^0[Geth Alpha^0]^1Legion: ТО ЕСТЬ Дмитрий Малахаткин - Веран?
+[Sat Dec 14 15:59:13 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Тоесть виноват он?
+[Sat Dec 14 15:59:13 2013]  say: Heloween: Да,это он
+[Sat Dec 14 15:59:17 2013]  say: Heloween: Нетц
+[Sat Dec 14 15:59:20 2013]  say: ^0[Geth Alpha^0]^1Legion: Ох я ему вставлю...
+[Sat Dec 14 15:59:21 2013]  say: ^0Sev: мав
+[Sat Dec 14 15:59:23 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5?
+[Sat Dec 14 15:59:23 2013]  say: ^0Sev: Ты где?
+[Sat Dec 14 15:59:26 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Где то
+[Sat Dec 14 15:59:31 2013]  Kill: 2 2 39: ^0Sev killed ^0Sev by MOD_SUICIDE
+[Sat Dec 14 15:59:31 2013]  setteam:  2 FREE SPECTATOR
+[Sat Dec 14 15:59:31 2013]  ClientBegin: 2
+[Sat Dec 14 15:59:32 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5А ты де?
+[Sat Dec 14 15:59:37 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ща погодь
+[Sat Dec 14 15:59:42 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Я тебя орлинкой найду
+[Sat Dec 14 15:59:47 2013]  say: Heloween: Веран вам помогал все время
+[Sat Dec 14 15:59:48 2013]  setteam:  2 SPECTATOR FREE
+[Sat Dec 14 15:59:48 2013]  ClientBegin: 2
+[Sat Dec 14 15:59:53 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5В каком смысле?
+[Sat Dec 14 16:00:01 2013]  say: Heloween: БУлат,помните такого?
+[Sat Dec 14 16:00:06 2013]  say: Heloween: Это он им был
+[Sat Dec 14 16:00:06 2013]  say: ^0[Geth Alpha^0]^1Legion: ТВОЮ МАТЬ!
+[Sat Dec 14 16:00:10 2013]  say: ^0[Geth Alpha^0]^1Legion: ТВОЮ МАТЬ!!!!!
+[Sat Dec 14 16:00:25 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5БУЛАТ?
+[Sat Dec 14 16:00:27 2013]  say: Heloween: А инсайдер,прятался за ником Верана
+[Sat Dec 14 16:00:30 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5СУКА ЕБАНЫЙ ОН МУДАК
+[Sat Dec 14 16:00:32 2013]  say: ^0Sev: xDD
+[Sat Dec 14 16:00:37 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Я ЕГО УЕБУ ЛИЧНО
+[Sat Dec 14 16:00:41 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5РАССКАЖИ БЛЯТЬ ГДЕ ОН!
+[Sat Dec 14 16:00:48 2013]  say: Heloween: Кто,Булат?
+[Sat Dec 14 16:00:49 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Я ЕГО ЛИЧНО УЕБУ!
+[Sat Dec 14 16:00:51 2013]  say: ^0Sev: Как джет достать?
+[Sat Dec 14 16:00:52 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Да!
+[Sat Dec 14 16:00:53 2013]  tell: ^8Darth ^3Javimetal to ^0Sev: back u
+[Sat Dec 14 16:00:57 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5/give all
+[Sat Dec 14 16:00:58 2013]  say: ^0[Geth Alpha^0]^1Legion: /Give all
+[Sat Dec 14 16:01:06 2013]  say: ^8Darth ^3Javimetal: /q
+[Sat Dec 14 16:01:10 2013]  say: ^0Sev: спасибо
+[Sat Dec 14 16:01:19 2013]  tell: ^8Darth ^3Javimetal to Heloween: back u
+[Sat Dec 14 16:01:24 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Хелоуин
+[Sat Dec 14 16:01:35 2013]  tell: ^8Darth ^3Javimetal to Heloween: :)
+[Sat Dec 14 16:01:40 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Я и мой клан готов помочь иллюмам
+[Sat Dec 14 16:01:43 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5В поиске его
+[Sat Dec 14 16:01:44 2013]  say: ^0Sev: w
+[Sat Dec 14 16:01:47 2013]  say: ^0[Geth Alpha^0]^1Legion: И я
+[Sat Dec 14 16:01:48 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Но одно услови
+[Sat Dec 14 16:01:50 2013]  say: ^0Sev: WHAT!?!?!?!
+[Sat Dec 14 16:01:52 2013]  say: ^0[Geth Alpha^0]^1Legion: Как бывший Мандалор
+[Sat Dec 14 16:01:55 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Условие*
+[Sat Dec 14 16:02:01 2013]  say: Heloween: ну
+[Sat Dec 14 16:02:01 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Я лично его прирежу
+[Sat Dec 14 16:02:10 2013]  tell: ^8Darth ^3Javimetal to ^0Sev: :)
+[Sat Dec 14 16:02:10 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5За все хорошее.
+[Sat Dec 14 16:02:12 2013]  say: Heloween: ок
+[Sat Dec 14 16:02:16 2013]  say: ^0Sev: А я буду во всем учавствовать
+[Sat Dec 14 16:02:18 2013]  say: ^0[Geth Alpha^0]^1Legion: Сервак то верните
+[Sat Dec 14 16:02:22 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5И еще
+[Sat Dec 14 16:02:28 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Как мне связатся с тобой в случае чего?
+[Sat Dec 14 16:02:29 2013]  say: Heloween: Извините,Ангел не в сети
+[Sat Dec 14 16:02:35 2013]  say: ^0[Geth Alpha^0]^1Legion: БЛ*ТЬ!!!
+[Sat Dec 14 16:02:45 2013]  say: Heloween: Я сам дам вам знать,если что,и всяжусь с вами сам
+[Sat Dec 14 16:02:48 2013]  say: ^0Sev: На swjko
+[Sat Dec 14 16:02:51 2013]  tell: ^8Darth ^3Javimetal to ^0Sev: back u
+[Sat Dec 14 16:02:54 2013]  say: Heloween: Нееееееее
+[Sat Dec 14 16:02:57 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ну если мы найдем его
+[Sat Dec 14 16:02:58 2013]  say: ^0Sev: Там посидим?
+[Sat Dec 14 16:03:03 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5То как вы узнаете?
+[Sat Dec 14 16:03:08 2013]  say: ^8Darth ^3Javimetal: :)
+[Sat Dec 14 16:03:17 2013]  say: Heloween: Небойся...
+[Sat Dec 14 16:03:20 2013]  say: Heloween: я найду вас
+[Sat Dec 14 16:03:33 2013]  Item: 5 weapon_rocket_launcher
+[Sat Dec 14 16:03:36 2013]  Item: 5 weapon_bryar_pistol
+[Sat Dec 14 16:03:44 2013]  Item: 5 weapon_concussion_rifle
+[Sat Dec 14 16:03:57 2013]  tell: ^8Darth ^3Javimetal to ^0Sev: :)
+[Sat Dec 14 16:03:57 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Я то надеялся потом Республику на булата оставить...
+[Sat Dec 14 16:04:02 2013]  tell: ^8Darth ^3Javimetal to ^0Sev: in ur back
+[Sat Dec 14 16:04:14 2013]  say: Heloween: Хахах,а что он сдела?
+[Sat Dec 14 16:04:17 2013]  say: Heloween: л
+[Sat Dec 14 16:04:19 2013]  say: ^0[Geth Alpha^0]^1Legion: Хел
+[Sat Dec 14 16:04:19 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Он был талантлив
+[Sat Dec 14 16:04:22 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Очень.
+[Sat Dec 14 16:04:59 2013]  say: Heloween: Оохохо,чел,просто Булат котрый талантлив-настоящий,кароче каша тут, за ВСЕМи вами уже маскировались
+[Sat Dec 14 16:05:16 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Понятно..
+[Sat Dec 14 16:05:17 2013]  tell: ^0[Geth Alpha^0]^1Legion to ^0[Mandalore]^4Mavron^0[Ordo]: Эй
+[Sat Dec 14 16:05:18 2013]  tell: ^8Darth ^3Javimetal to ^0Sev: :)
+[Sat Dec 14 16:05:24 2013]  say: Heloween: Так что доверяй ему
+[Sat Dec 14 16:05:28 2013]  tell: ^0[Geth Alpha^0]^1Legion to ^0[Mandalore]^4Mavron^0[Ordo]: Z xtn yt gjyzk
+[Sat Dec 14 16:05:32 2013]  say: Heloween: А ИНсайдера я отыщу
+[Sat Dec 14 16:05:33 2013]  tell: ^0[Geth Alpha^0]^1Legion to ^0[Mandalore]^4Mavron^0[Ordo]: Я чет не понял
+[Sat Dec 14 16:05:39 2013]  say: ^0[Geth Alpha^0]^1Legion: Хелр
+[Sat Dec 14 16:05:41 2013]  say: ^0[Geth Alpha^0]^1Legion: Хело
+[Sat Dec 14 16:05:42 2013]  say: Heloween: ?
+[Sat Dec 14 16:05:43 2013]  tell: ^8Darth ^3Javimetal to ^0Sev: :9
+[Sat Dec 14 16:05:45 2013]  say: ^0[Geth Alpha^0]^1Legion: Если что
+[Sat Dec 14 16:05:52 2013]  say: ^0[Geth Alpha^0]^1Legion: Мы на том серве всегда сидим
+[Sat Dec 14 16:06:06 2013]  say: Heloween: Ок,это еще вопрос пощадит ли его ДАрк
+[Sat Dec 14 16:06:17 2013]  say: ^0[Geth Alpha^0]^1Legion: Ты ему не можешь сказать?
+[Sat Dec 14 16:06:22 2013]  say: ^0[Geth Alpha^0]^1Legion: Что мы не знали?
+[Sat Dec 14 16:06:24 2013]  Item: 5 weapon_flechette
+[Sat Dec 14 16:06:28 2013]  say: Heloween: Он не всети пока...Если будет я скажу
+[Sat Dec 14 16:06:41 2013]  Item: 5 weapon_bryar_pistol
+[Sat Dec 14 16:06:57 2013]  tell: ^0[Mandalore]^4Mavron^0[Ordo] to ^0[Geth Alpha^0]^1Legion: Найдем его
+[Sat Dec 14 16:07:00 2013]  tell: ^0[Mandalore]^4Mavron^0[Ordo] to ^0[Geth Alpha^0]^1Legion: Пожалуй
+[Sat Dec 14 16:07:01 2013]  tell: ^0[Geth Alpha^0]^1Legion to ^0[Mandalore]^4Mavron^0[Ordo]: У меня план как вернуть клан.
+[Sat Dec 14 16:07:04 2013]  say: Heloween: Может,вам пока на другом Лугоре посидеть,могу посоветовать 1
+[Sat Dec 14 16:07:05 2013]  tell: ^0[Geth Alpha^0]^1Legion to ^0[Mandalore]^4Mavron^0[Ordo]: Мой
+[Sat Dec 14 16:07:11 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Какой?
+[Sat Dec 14 16:07:13 2013]  say: ^0[Geth Alpha^0]^1Legion: Надеюсь
+[Sat Dec 14 16:07:15 2013]  say: ^0[Geth Alpha^0]^1Legion: Он пустой
+[Sat Dec 14 16:07:15 2013]  say: ^8Darth ^3Javimetal: nothing can find me :)
+[Sat Dec 14 16:07:22 2013]  Kill: 2 2 39: ^0Sev killed ^0Sev by MOD_SUICIDE
+[Sat Dec 14 16:07:25 2013]  say: Heloween: Забыл айпи,щас я вернсь
+[Sat Dec 14 16:07:30 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Ок
+[Sat Dec 14 16:07:30 2013]  say: Heloween: Будте здесь
+[Sat Dec 14 16:07:35 2013]  say: Heloween: Будьте*
+[Sat Dec 14 16:07:36 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Хд
+[Sat Dec 14 16:07:40 2013]  ClientDisconnect: 1
+[Sat Dec 14 16:07:43 2013]  say: ^8Darth ^3Javimetal: im a ghost
+[Sat Dec 14 16:07:49 2013]  say: ^8Darth ^3Javimetal: in the night
+[Sat Dec 14 16:08:11 2013]  say: ^0Sev: ахахах
+[Sat Dec 14 16:08:18 2013]  ClientConnect: 0
+[Sat Dec 14 16:08:18 2013]  mlog:Player ^1^2-=AFL=-Caedus{^1RI^5}, connected. With IP - 83.135.241.43:29070 
+[Sat Dec 14 16:08:26 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Каедус? 
+[Sat Dec 14 16:08:26 2013]  say: ^0Sev: и что дальше?
+[Sat Dec 14 16:08:28 2013]  ClientBegin: 0
+[Sat Dec 14 16:08:30 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Гдето я его слышал
+[Sat Dec 14 16:08:34 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Мы найдем того чела
+[Sat Dec 14 16:08:36 2013]  say: ^8Darth ^3Javimetal: hola
+[Sat Dec 14 16:08:41 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5НО не сами
+[Sat Dec 14 16:08:44 2013]  say: ^0Sev: Эт прям симулятор какойто
+[Sat Dec 14 16:08:47 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5КОТР нам поможет
+[Sat Dec 14 16:08:53 2013]  say: ^0[Geth Alpha^0]^1Legion: Точнее
+[Sat Dec 14 16:08:55 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Надеюсь они что нибудь знают
+[Sat Dec 14 16:08:59 2013]  say: ^0[Geth Alpha^0]^1Legion: КОТР За нас все сделает
+[Sat Dec 14 16:09:03 2013]  Kill: 1022 4 2: <world> killed ^0[Geth Alpha^0]^1Legion by MOD_MELEE
+[Sat Dec 14 16:09:03 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Нет
+[Sat Dec 14 16:09:08 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Мы должны сами
+[Sat Dec 14 16:09:13 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Мы просто узнаем 
+[Sat Dec 14 16:09:20 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5А дальше все за нами
+[Sat Dec 14 16:09:22 2013]  say: ^0Sev: Чувак
+[Sat Dec 14 16:09:24 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5?
+[Sat Dec 14 16:09:27 2013]  tell: ^0Sev to ^0[Mandalore]^4Mavron^0[Ordo]: Это ужас
+[Sat Dec 14 16:09:36 2013]  tell: ^0Sev to ^0[Mandalore]^4Mavron^0[Ordo]: Видно?
+[Sat Dec 14 16:09:37 2013]  tell: ^0[Mandalore]^4Mavron^0[Ordo] to ^0Sev: Я знаю..
+[Sat Dec 14 16:09:43 2013]  tell: ^0[Mandalore]^4Mavron^0[Ordo] to ^0Sev: Неа
+[Sat Dec 14 16:09:50 2013]  tell: ^0Sev to ^0[Mandalore]^4Mavron^0[Ordo]: Видно нет?
+[Sat Dec 14 16:09:53 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Не
+[Sat Dec 14 16:10:00 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Оут
+[Sat Dec 14 16:10:04 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: XD
+[Sat Dec 14 16:10:13 2013]  Kill: 3 2 3: ^0[Mandalore]^4Mavron^0[Ordo] killed ^0Sev by MOD_SABER
+[Sat Dec 14 16:10:15 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: Too easy ))
+[Sat Dec 14 16:10:18 2013]  say: ^0Sev: ну нах
+[Sat Dec 14 16:10:18 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5ХД
+[Sat Dec 14 16:10:31 2013]  say: ^0Sev: идика сюда
+[Sat Dec 14 16:10:31 2013]  Item: 3 ammo_all
+[Sat Dec 14 16:10:40 2013]  Kill: 1022 0 39: <world> killed -=AFL=-^4Caedus^1{RI} by MOD_SUICIDE
+[Sat Dec 14 16:10:42 2013]  say: ^8Darth ^3Javimetal: nothing can find me :) im a ghost
+[Sat Dec 14 16:10:43 2013]  Kill: 2 2 39: ^0Sev killed ^0Sev by MOD_SUICIDE
+[Sat Dec 14 16:10:46 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Я тут
+[Sat Dec 14 16:10:51 2013]  Item: 3 ammo_all
+[Sat Dec 14 16:11:01 2013]  Item: 3 ammo_all
+[Sat Dec 14 16:11:11 2013]  Item: 3 ammo_all
+[Sat Dec 14 16:11:22 2013]  tell: ^0Sev to -=AFL=-^4Caedus^1{RI}: xD
+[Sat Dec 14 16:11:27 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Легион
+[Sat Dec 14 16:11:29 2013]  tell: -=AFL=-^4Caedus^1{RI} to ^0Sev: ^^
+[Sat Dec 14 16:11:33 2013]  say: ^0Sev: Ты де
+[Sat Dec 14 16:11:34 2013]  Kill: 1022 4 36: <world> killed ^0[Geth Alpha^0]^1Legion by MOD_CRUSH
+[Sat Dec 14 16:11:37 2013]  say: ^0[Geth Alpha^0]^1Legion: Спен-Мандалор
+[Sat Dec 14 16:11:50 2013]  tell: ^8Darth ^3Javimetal to ^0[Mandalore]^4Mavron^0[Ordo]: in ur back
+[Sat Dec 14 16:11:51 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: XD
+[Sat Dec 14 16:11:55 2013]  Kill: 2 3 3: ^0Sev killed ^0[Mandalore]^4Mavron^0[Ordo] by MOD_SABER
+[Sat Dec 14 16:11:58 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: Random
+[Sat Dec 14 16:12:00 2013]  say: ^0Sev: мри епт
+[Sat Dec 14 16:12:01 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Хд как рандом
+[Sat Dec 14 16:12:14 2013]  Kill: 2 2 39: ^0Sev killed ^0Sev by MOD_SUICIDE
+[Sat Dec 14 16:12:30 2013]  say: ^0Sev: Бля скоко ранкоров
+[Sat Dec 14 16:12:30 2013]  Kill: 4 0 21: ^0[Geth Alpha^0]^1Legion killed -=AFL=-^4Caedus^1{RI} by MOD_ROCKET_HOMING
+[Sat Dec 14 16:12:31 2013]  say: ^0[Geth Alpha^0]^1Legion: -=AFL=-Caedus{RI}^1
+[Sat Dec 14 16:12:33 2013]  ClientConnect: 1
+[Sat Dec 14 16:12:33 2013]  mlog:Player Padawan, connected. With IP - 31.180.154.67:29070 
+[Sat Dec 14 16:12:35 2013]  say: ^0Sev: Ща бобу позову
+[Sat Dec 14 16:12:38 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Легион
+[Sat Dec 14 16:12:43 2013]  say: ^0[Geth Alpha^0]^1Legion: Xnj&
+[Sat Dec 14 16:12:45 2013]  ClientBegin: 1
+[Sat Dec 14 16:12:51 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Какой у тя там план?
+[Sat Dec 14 16:12:52 2013]  say: ^0[Geth Alpha^0]^1Legion: Спен-Мандалор
+[Sat Dec 14 16:12:55 2013]  say: ^0[Geth Alpha^0]^1Legion: А
+[Sat Dec 14 16:12:59 2013]  Item: 2 weapon_rocket_launcher
+[Sat Dec 14 16:12:59 2013]  say: ^0[Geth Alpha^0]^1Legion: Надо встретиться
+[Sat Dec 14 16:13:05 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Где?
+[Sat Dec 14 16:13:25 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Орлинку
+[Sat Dec 14 16:13:34 2013]  say: Heloween: 188.116.156.208:29070
+[Sat Dec 14 16:13:37 2013]  say: Heloween: pi
+[Sat Dec 14 16:13:39 2013]  say: Heloween: ip
+[Sat Dec 14 16:13:44 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Дженова?
+[Sat Dec 14 16:13:58 2013]  Kill: 2 0 20: ^0Sev killed -=AFL=-^4Caedus^1{RI} by MOD_ROCKET_SPLASH
+[Sat Dec 14 16:14:03 2013]  Kill: 1022 2 2: <world> killed ^0Sev by MOD_MELEE
+[Sat Dec 14 16:14:05 2013]  say: Heloween: Кароче туда идите
+[Sat Dec 14 16:14:09 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Хорошо
+[Sat Dec 14 16:14:13 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Пошли парни
+[Sat Dec 14 16:14:22 2013]  tell: ^8Darth ^3Javimetal to ^0[Geth Alpha^0]^1Legion: back u
+[Sat Dec 14 16:14:27 2013]  ClientDisconnect: 2
+[Sat Dec 14 16:14:39 2013]  ClientDisconnect: 4
+[Sat Dec 14 16:14:39 2013]  Item: 5 weapon_det_pack
+[Sat Dec 14 16:14:41 2013]  say: ^8Darth ^3Javimetal: hahahah
+[Sat Dec 14 16:14:42 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Сек назови айпи еще раз
+[Sat Dec 14 16:14:47 2013]  say: ^0[Mandalore]^4Mavron^0[Ordo]: ^5Плиз
+[Sat Dec 14 16:14:56 2013]  say: Heloween: 188.116.56.208:29070
+[Sat Dec 14 16:15:12 2013]  say: ^8Darth ^3Javimetal: i see you :)
+[Sat Dec 14 16:15:15 2013]  ClientDisconnect: 3
+[Sat Dec 14 16:15:35 2013]  tell: ^8Darth ^3Javimetal to -=AFL=-^4Caedus^1{RI}: hola
+[Sat Dec 14 16:15:36 2013]  ClientDisconnect: 1
+[Sat Dec 14 16:15:50 2013]  say: ^8Darth ^3Javimetal: :)
+[Sat Dec 14 16:15:53 2013]  say: -=AFL=-^4Caedus^1{RI}: lol
+[Sat Dec 14 16:16:00 2013]  say: ^8Darth ^3Javimetal: :)
+[Sat Dec 14 16:16:20 2013]  say: ^8Darth ^3Javimetal: :)
+[Sat Dec 14 16:16:33 2013]  Kill: 5 0 3: ^8Darth ^3Javimetal killed -=AFL=-^4Caedus^1{RI} by MOD_SABER
+[Sat Dec 14 16:16:35 2013]  say: ^8Darth ^3Javimetal: :)
+[Sat Dec 14 16:17:06 2013]  say: ^8Darth ^3Javimetal: IM THE KING OF PIRATES,I HAV THE ONE PIECE!
+[Sat Dec 14 16:17:14 2013]  say: ^8Darth ^3Javimetal: HAVE*
+[Sat Dec 14 16:17:56 2013]  ClientDisconnect: 0
+[Sat Dec 14 16:18:00 2013]  ClientConnect: 0
+[Sat Dec 14 16:18:00 2013]  mlog:Player Padawan, connected. With IP - 31.180.154.67:29070 
+[Sat Dec 14 16:18:04 2013]  ClientDisconnect: 5
+[Sat Dec 14 16:18:12 2013]  ClientBegin: 0
+[Sat Dec 14 16:18:28 2013]  ClientDisconnect: 0
+[Sat Dec 14 16:22:08 2013]  ClientConnect: 0
+[Sat Dec 14 16:22:08 2013]  mlog:Player Heloween, connected. With IP - 31.180.154.67:29070 
+[Sat Dec 14 16:22:19 2013]  ClientBegin: 0
+[Sat Dec 14 16:26:33 2013]  ClientDisconnect: 0
+[Sat Dec 14 16:47:51 2013]  ClientConnect: 0
+[Sat Dec 14 16:47:51 2013]  mlog:Player MaZZ, connected. With IP - 178.36.48.205:29071 
+[Sat Dec 14 16:48:10 2013]  ClientDisconnect: 0
+[Sat Dec 14 17:28:10 2013]  Exit: Timelimit hit.
+[Sat Dec 14 19:12:57 2013]  ClientConnect: 0
+[Sat Dec 14 19:12:57 2013]  mlog:Player lol, connected. With IP - 178.76.204.255:29071 
+[Sat Dec 14 19:13:24 2013]  ClientBegin: 0
+[Sat Dec 14 19:13:31 2013]  ShutdownGame:
+[Sat Dec 14 19:13:31 2013]  ------------------------------------------------------------
+[Sat Dec 14 19:13:32 2013]  ------------------------------------------------------------
+[Sat Dec 14 19:13:32 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Dec 14 19:13:33 2013]  ClientConnect: 0
+[Sat Dec 14 19:13:54 2013]  ClientBegin: 0
+[Sat Dec 14 19:15:05 2013]  print "lol^7 @@@PLRENAME ^7*^0A^7h^0e^7l^0e^1.^0S^7*
+"[Sat Dec 14 19:33:06 2013]  ClientDisconnect: 0
+[Sat Dec 14 21:13:31 2013]  Exit: Timelimit hit.
+[Sat Dec 14 22:51:37 2013]  ClientConnect: 0
+[Sat Dec 14 22:51:37 2013]  mlog:Player ^5Super^4Sand^1les^2bian, connected. With IP - 24.94.132.83:29070 
+[Sat Dec 14 22:52:07 2013]  ClientBegin: 0
+[Sat Dec 14 22:52:13 2013]  ShutdownGame:
+[Sat Dec 14 22:52:13 2013]  ------------------------------------------------------------
+[Sat Dec 14 22:52:13 2013]  ------------------------------------------------------------
+[Sat Dec 14 22:52:13 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Dec 14 22:52:14 2013]  ClientConnect: 0
+[Sat Dec 14 22:52:31 2013]  ClientBegin: 0
+[Sat Dec 14 22:54:06 2013]  ClientDisconnect: 0
+[Sat Dec 14 23:00:57 2013]  ClientConnect: 0
+[Sat Dec 14 23:00:57 2013]  mlog:Player ^5Super^4Sand^1les^2bian, connected. With IP - 24.94.132.83:29070 
+[Sat Dec 14 23:01:08 2013]  ClientBegin: 0
+[Sat Dec 14 23:15:59 2013]  ClientConnect: 1
+[Sat Dec 14 23:15:59 2013]  mlog:Player Dr. Hans Jorgenson, connected. With IP - 24.96.241.29:29070 
+[Sat Dec 14 23:16:22 2013]  ClientBegin: 1
+[Sat Dec 14 23:19:16 2013]  say: ^5Super^4Sand^1les^2bian: My origin is: (5521 2518 277) - You can teleport here with /mtelelast
+
+[Sat Dec 14 23:20:46 2013]  ClientDisconnect: 1
+[Sat Dec 14 23:31:04 2013]  ClientConnect: 1
+[Sat Dec 14 23:31:04 2013]  mlog:Player ^4Hy^0Dro, connected. With IP - 108.193.103.168:29070 
+[Sat Dec 14 23:32:13 2013]  ClientBegin: 1
+[Sat Dec 14 23:32:18 2013]  Kill: 1 1 39: ^4Hy^0Dro killed ^4Hy^0Dro by MOD_SUICIDE
+[Sat Dec 14 23:32:18 2013]  setteam:  1 FREE SPECTATOR
+[Sat Dec 14 23:32:18 2013]  ClientBegin: 1
+[Sat Dec 14 23:32:23 2013]  say: ^4Hy^0Dro: XD
+[Sat Dec 14 23:32:28 2013]  say: ^5Super^4Sand^1les^2bian: lol
+[Sat Dec 14 23:32:30 2013]  say: ^4Hy^0Dro: sand lesbian
+[Sat Dec 14 23:32:32 2013]  setteam:  1 SPECTATOR FREE
+[Sat Dec 14 23:32:32 2013]  ClientBegin: 1
+[Sat Dec 14 23:32:34 2013]  say: ^5Super^4Sand^1les^2bian: yeah?
+[Sat Dec 14 23:32:39 2013]  say: ^4Hy^0Dro: cray
+[Sat Dec 14 23:32:46 2013]  say: ^4Hy^0Dro: nubclip xD
+[Sat Dec 14 23:33:23 2013]  say: ^4Hy^0Dro: XD
+[Sat Dec 14 23:33:39 2013]  say: ^4Hy^0Dro: o.o
+[Sat Dec 14 23:33:40 2013]  say: ^5Super^4Sand^1les^2bian: wth
+[Sat Dec 14 23:33:46 2013]  say: ^4Hy^0Dro: o.O
+[Sat Dec 14 23:33:54 2013]  say: ^4Hy^0Dro: :D
+[Sat Dec 14 23:33:57 2013]  say: ^5Super^4Sand^1les^2bian: nice
+[Sat Dec 14 23:34:11 2013]  say: ^5Super^4Sand^1les^2bian: VGBJKASLVBSD:VHI
+[Sat Dec 14 23:34:14 2013]  say: ^4Hy^0Dro: o.o
+[Sat Dec 14 23:34:21 2013]  say: ^4Hy^0Dro: laggy here
+[Sat Dec 14 23:34:22 2013]  say: ^4Hy^0Dro: :\
+[Sat Dec 14 23:34:38 2013]  say: ^4Hy^0Dro: o.O
+[Sat Dec 14 23:34:41 2013]  say: ^5Super^4Sand^1les^2bian: lol
+[Sat Dec 14 23:35:12 2013]  Kill: 1022 0 0: <world> killed ^5Super^4Sand^1les^2bian by MOD_UNKNOWN
+[Sat Dec 14 23:35:15 2013]  say: ^4Hy^0Dro: >:D
+[Sat Dec 14 23:35:24 2013]  say: ^5Super^4Sand^1les^2bian: that sounded painful
+[Sat Dec 14 23:35:53 2013]  say: ^5Super^4Sand^1les^2bian: My origin is: (11285 -1119 -59) - You can teleport here with /mtelelast
+
+[Sat Dec 14 23:35:54 2013]  say: ^4Hy^0Dro: XD
+[Sat Dec 14 23:36:11 2013]  say: ^4Hy^0Dro: welp
+[Sat Dec 14 23:36:16 2013]  say: ^4Hy^0Dro: off to ja+
+[Sat Dec 14 23:36:19 2013]  Kill: 1022 0 0: <world> killed ^5Super^4Sand^1les^2bian by MOD_UNKNOWN
+[Sat Dec 14 23:36:20 2013]  say: ^5Super^4Sand^1les^2bian: See ya
+[Sat Dec 14 23:36:22 2013]  ClientDisconnect: 1
+[Sat Dec 14 23:36:31 2013]  Kill: 1022 0 39: <world> killed ^5Super^4Sand^1les^2bian by MOD_SUICIDE
+[Sat Dec 14 23:36:47 2013]  Kill: 1022 0 29: <world> killed ^5Super^4Sand^1les^2bian by MOD_CONC
+[Sat Dec 14 23:36:53 2013]  say: ^5Super^4Sand^1les^2bian: god\
+[Sat Dec 14 23:42:55 2013]  ClientDisconnect: 0
+[Sun Dec 15 00:39:40 2013]  ClientConnect: 0
+[Sun Dec 15 00:39:40 2013]  mlog:Player Padawan, connected. With IP - 24.94.132.83:29070 
+[Sun Dec 15 00:40:28 2013]  ClientBegin: 0
+[Sun Dec 15 00:42:35 2013]  say: ^5Super^4Sand^1les^2bian: VGBJKASLVBSD:VHI
+[Sun Dec 15 00:42:45 2013]  say: ^5Super^4Sand^1les^2bian: Protect meh me homie dwag!!
+[Sun Dec 15 00:43:15 2013]  ClientConnect: 1
+[Sun Dec 15 00:43:15 2013]  mlog:Player Dr. Hans Jorgenson, connected. With IP - 24.96.241.29:29070 
+[Sun Dec 15 00:43:43 2013]  ClientBegin: 1
+[Sun Dec 15 00:44:42 2013]  say: Yellow Ninja over 90000000: My origin is: (-10392 -620 -487) - You can teleport here with /mtelelast
+
+[Sun Dec 15 00:44:47 2013]  say: ^5Super^4Sand^1les^2bian: mtelelast
+[Sun Dec 15 00:44:55 2013]  Kill: 0 1 37: ^5Super^4Sand^1les^2bian killed Yellow Ninja over 90000000 by MOD_TELEFRAG
+[Sun Dec 15 00:46:36 2013]  say: Yellow Ninja over 90000000: My origin is: (-10388 -577 -487) - You can teleport here with /mtelelast
+
+[Sun Dec 15 00:46:44 2013]  Kill: 0 1 37: ^5Super^4Sand^1les^2bian killed Yellow Ninja over 90000000 by MOD_TELEFRAG
+[Sun Dec 15 00:47:06 2013]  say: ^5Super^4Sand^1les^2bian: My origin is: (-6922 -670 900) - You can teleport here with /mtelelast
+
+[Sun Dec 15 00:47:29 2013]  say: ^5Super^4Sand^1les^2bian: My origin is: (-12110 -1047 35) - You can teleport here with /mtelelast
+
+[Sun Dec 15 00:49:22 2013]  ClientConnect: 2
+[Sun Dec 15 00:49:22 2013]  mlog:Player ghost, connected. With IP - 24.96.241.29:1024 
+[Sun Dec 15 00:49:57 2013]  ClientBegin: 2
+[Sun Dec 15 00:50:25 2013]  say: gatorboy: My origin is: (12128 8 -487) - You can teleport here with /mtelelast
+
+[Sun Dec 15 00:50:30 2013]  say: gatorboy: mtelelast
+[Sun Dec 15 00:50:49 2013]  say: gatorboy: ross do ur orgin
+[Sun Dec 15 00:50:55 2013]  say: ^5Super^4Sand^1les^2bian: My origin is: (-12180 -722 -1) - You can teleport here with /mtelelast
+
+[Sun Dec 15 00:51:02 2013]  say: gatorboy: mtelelast
+[Sun Dec 15 00:52:12 2013]  Exit: Timelimit hit.
+[Sun Dec 15 00:52:12 2013]  score: 5  ping: 189  client: 0 ^5Super^4Sand^1les^2bian
+[Sun Dec 15 00:52:12 2013]  score: 0  ping: 195  client: 2 gatorboy
+[Sun Dec 15 00:52:12 2013]  score: 0  ping: 196  client: 1 Yellow Ninja over 90000000
+[Sun Dec 15 00:52:12 2013]  say: Yellow Ninja over 90000000: +!god
+[Sun Dec 15 00:52:25 2013]  ShutdownGame:
+[Sun Dec 15 00:52:25 2013]  ------------------------------------------------------------

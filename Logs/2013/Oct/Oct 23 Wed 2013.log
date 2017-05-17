@@ -1,0 +1,53 @@
+[Wed Oct 23 17:25:08 2013]  ------------------------------------------------------------
+[Wed Oct 23 17:25:08 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 23 19:25:02 2013]  Exit: Timelimit hit.
+[Wed Oct 23 20:39:21 2013]  ClientConnect: 0
+[Wed Oct 23 20:39:21 2013]  mlog:Player ^7^7JYINX AKA SOUL EATER, connected. With IP - 65.27.168.17:29070 
+[Wed Oct 23 20:39:32 2013]  ClientBegin: 0
+[Wed Oct 23 20:39:36 2013]  ShutdownGame:
+[Wed Oct 23 20:39:36 2013]  ------------------------------------------------------------
+[Wed Oct 23 20:39:37 2013]  ------------------------------------------------------------
+[Wed Oct 23 20:39:37 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 23 20:39:38 2013]  ClientConnect: 0
+[Wed Oct 23 20:39:44 2013]  ClientBegin: 0
+[Wed Oct 23 20:39:50 2013]  print "^9krimzon^7 @@@PLRENAME ^7jyinx
+"[Wed Oct 23 20:40:59 2013]  say: ^7jyinx: jjnot
+[Wed Oct 23 20:42:47 2013]  Item: 0 ammo_all
+[Wed Oct 23 20:44:04 2013]  say: ^7jyinx: ?kikll
+[Wed Oct 23 20:44:06 2013]  say: ^7jyinx: ?kill
+[Wed Oct 23 20:44:09 2013]  Kill: 0 0 39: ^7jyinx killed ^7jyinx by MOD_SUICIDE
+[Wed Oct 23 20:46:22 2013]  Item: 0 ammo_all
+[Wed Oct 23 20:54:20 2013]  ClientDisconnect: 0
+[Wed Oct 23 21:58:13 2013]  ClientConnect: 0
+[Wed Oct 23 21:58:13 2013]  mlog:Player ^8SOUL EATER, connected. With IP - 65.27.168.17:29070 
+[Wed Oct 23 21:58:21 2013]  ClientBegin: 0
+[Wed Oct 23 22:00:26 2013]  Item: 0 weapon_bowcaster
+[Wed Oct 23 22:00:28 2013]  Item: 0 weapon_bowcaster
+[Wed Oct 23 22:01:35 2013]  Item: 0 weapon_blaster
+[Wed Oct 23 22:05:08 2013]  ClientDisconnect: 0
+[Wed Oct 23 22:39:36 2013]  Exit: Timelimit hit.
+[Wed Oct 23 22:58:24 2013]  ClientConnect: 0
+[Wed Oct 23 22:58:24 2013]  mlog:Player ^5»^0SK^5|||^0WØLF^5«^0™, connected. With IP - 189.78.67.232:12580 
+[Wed Oct 23 22:59:39 2013]  ClientBegin: 0
+[Wed Oct 23 22:59:39 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Wed Oct 23 22:59:44 2013]  ShutdownGame:
+[Wed Oct 23 22:59:44 2013]  ------------------------------------------------------------
+[Wed Oct 23 22:59:44 2013]  ------------------------------------------------------------
+[Wed Oct 23 22:59:44 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 23 22:59:46 2013]  ClientConnect: 0
+[Wed Oct 23 23:00:37 2013]  ClientBegin: 0
+[Wed Oct 23 23:00:38 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Wed Oct 23 23:01:21 2013]  Item: 0 weapon_melee
+[Wed Oct 23 23:02:28 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: i know tht sv?
+[Wed Oct 23 23:02:48 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: i know tht txd
+[Wed Oct 23 23:05:14 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: lol
+[Wed Oct 23 23:05:19 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: /q
+[Wed Oct 23 23:05:25 2013]  ClientDisconnect: 0
+[Thu Oct 24 00:59:43 2013]  Exit: Timelimit hit.
+[Thu Oct 24 14:19:07 2013]  ClientConnect: 0
+[Thu Oct 24 14:19:07 2013]  mlog:Player newcomer, connected. With IP - 37.204.210.18:29070 
+[Thu Oct 24 14:21:13 2013]  ClientBegin: 0
+[Thu Oct 24 14:22:51 2013]  ClientConnect: 1
+[Thu Oct 24 14:22:51 2013]  mlog:Player ^9FaN^3ToM^8]ILLUMINATI[, connected. With IP - 178.123.185.67:29070 
+[Thu Oct 24 14:23:37 2013]  ShutdownGame:
+[Thu Oct 24 14:23:37 2013]  ------------------------------------------------------------

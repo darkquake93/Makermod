@@ -1,0 +1,1230 @@
+[Tue Apr 22 13:38:23 2014]  ------------------------------------------------------------
+[Tue Apr 22 13:38:23 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Apr 22 15:38:19 2014]  Exit: Timelimit hit.
+[Tue Apr 22 20:55:29 2014]  ClientConnect: 0
+[Tue Apr 22 20:55:29 2014]  mlog:Player Padawan, connected. With IP - 74.4.57.111:29070 
+[Tue Apr 22 20:55:44 2014]  ClientBegin: 0
+[Tue Apr 22 20:55:46 2014]  ShutdownGame:
+[Tue Apr 22 20:55:46 2014]  ------------------------------------------------------------
+[Tue Apr 22 20:55:47 2014]  ------------------------------------------------------------
+[Tue Apr 22 20:55:47 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Apr 22 20:55:48 2014]  ClientConnect: 0
+[Tue Apr 22 20:55:52 2014]  ClientConnect: 1
+[Tue Apr 22 20:55:52 2014]  mlog:Player Padawan, connected. With IP - 74.4.57.111:1024 
+[Tue Apr 22 20:56:01 2014]  ClientBegin: 0
+[Tue Apr 22 20:56:32 2014]  ClientBegin: 1
+[Tue Apr 22 20:56:55 2014]  Kill: 1022 1 38: <world> killed Padawan by MOD_FALLING
+[Tue Apr 22 20:59:13 2014]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Apr 22 21:01:20 2014]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Apr 22 21:05:01 2014]  Kill: 1022 1 2: <world> killed Padawan by MOD_MELEE
+[Tue Apr 22 21:10:53 2014]  Kill: 0 1 20: Padawan killed Padawan by MOD_ROCKET_SPLASH
+[Tue Apr 22 21:14:23 2014]  Item: 1 ammo_all
+[Tue Apr 22 21:20:18 2014]  Item: 0 ammo_all
+[Tue Apr 22 21:27:08 2014]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Apr 22 21:30:33 2014]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Apr 22 21:32:56 2014]  Item: 1 ammo_all
+[Tue Apr 22 21:33:33 2014]  Kill: 1022 1 2: <world> killed Padawan by MOD_MELEE
+[Tue Apr 22 21:35:36 2014]  Kill: 0 1 25: Padawan killed Padawan by MOD_TRIP_MINE_SPLASH
+[Tue Apr 22 21:36:01 2014]  Item: 1 weapon_trip_mine
+[Tue Apr 22 21:36:45 2014]  Item: 1 ammo_all
+[Tue Apr 22 21:37:36 2014]  Item: 1 ammo_all
+[Tue Apr 22 21:46:35 2014]  ClientDisconnect: 1
+[Tue Apr 22 21:46:35 2014]  ClientDisconnect: 0
+[Tue Apr 22 21:47:09 2014]  ClientConnect: 0
+[Tue Apr 22 21:47:09 2014]  mlog:Player Padawan, connected. With IP - 74.4.57.111:29070 
+[Tue Apr 22 21:47:20 2014]  ClientBegin: 0
+[Tue Apr 22 21:47:28 2014]  ClientConnect: 1
+[Tue Apr 22 21:47:28 2014]  mlog:Player Padawan, connected. With IP - 74.4.57.111:1024 
+[Tue Apr 22 21:48:10 2014]  ClientBegin: 1
+[Tue Apr 22 21:49:12 2014]  ClientConnect: 2
+[Tue Apr 22 21:49:12 2014]  mlog:Player Padawan, connected. With IP - 217.120.131.109:29070 
+[Tue Apr 22 21:49:27 2014]  ClientBegin: 2
+[Tue Apr 22 21:49:38 2014]  say: Padawan: Greetings.
+[Tue Apr 22 21:49:44 2014]  say: Padawan: Hello
+[Tue Apr 22 21:49:47 2014]  say: Padawan: hey dudes
+[Tue Apr 22 21:49:55 2014]  say: Padawan: Yes, Hi
+[Tue Apr 22 21:50:15 2014]  say: Padawan: We are in the middle of a very important tournament.
+[Tue Apr 22 21:50:25 2014]  say: Padawan: You have interupted our fun.
+[Tue Apr 22 21:50:28 2014]  say: Padawan: Hn.
+[Tue Apr 22 21:50:41 2014]  say: Padawan: where are you all?
+[Tue Apr 22 21:50:48 2014]  print "Padawan^7 @@@PLRENAME ^0Agent Sam
+"[Tue Apr 22 21:50:51 2014]  say: ^0Agent Sam: We
+[Tue Apr 22 21:50:59 2014]  print "Padawan^7 @@@PLRENAME ^0Agent Joe
+"[Tue Apr 22 21:51:04 2014]  say: ^0Agent Sam: Are in a SPECIAL TOURNY
+[Tue Apr 22 21:51:10 2014]  say: ^0Agent Joe: Mmmm indeed.
+[Tue Apr 22 21:51:41 2014]  say: ^0Agent Sam: We love you
+[Tue Apr 22 21:51:45 2014]  say: ^0Agent Joe: Hn.
+[Tue Apr 22 21:51:48 2014]  say: Padawan: orly?
+[Tue Apr 22 21:51:55 2014]  say: ^0Agent Joe: No.
+[Tue Apr 22 21:52:00 2014]  say: Padawan: :<
+[Tue Apr 22 21:52:53 2014]  say: ^0Agent Sam: LET IT DIE
+[Tue Apr 22 21:52:55 2014]  say: ^0Agent Joe: Ok.
+[Tue Apr 22 21:53:03 2014]  say: ^0Agent Joe: It has died.
+[Tue Apr 22 21:53:15 2014]  say: ^0Agent Sam: Pada would you like to come to us, and join our fun?
+[Tue Apr 22 21:53:22 2014]  Item: 1 ammo_all
+[Tue Apr 22 21:53:22 2014]  Item: 1 ammo_all
+[Tue Apr 22 21:53:23 2014]  Item: 1 ammo_all
+[Tue Apr 22 21:53:28 2014]  say: Padawan: ye ofcourse
+[Tue Apr 22 21:53:32 2014]  say: ^0Agent Sam: Well
+[Tue Apr 22 21:53:38 2014]  say: ^0Agent Sam: First
+[Tue Apr 22 21:53:41 2014]  say: Padawan: give me a origin
+[Tue Apr 22 21:53:45 2014]  say: ^0Agent Sam: You must complete tasks
+[Tue Apr 22 21:53:53 2014]  say: Padawan: what tasks? :.
+[Tue Apr 22 21:54:02 2014]  say: ^0Agent Joe: The dark tournament.
+[Tue Apr 22 21:54:04 2014]  say: ^0Agent Joe: Duh.
+[Tue Apr 22 21:54:12 2014]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Apr 22 21:54:24 2014]  say: Padawan: uhm okaay
+[Tue Apr 22 21:54:29 2014]  say: ^0Agent Joe: Yes
+[Tue Apr 22 21:54:34 2014]  say: ^0Agent Joe: SPIRIT SWORD
+[Tue Apr 22 21:54:40 2014]  say: ^0Agent Sam: Well find the tv.
+[Tue Apr 22 21:54:53 2014]  say: ^0Agent Sam: Then stay there.
+[Tue Apr 22 21:55:01 2014]  say: Padawan: what kind if tv?
+[Tue Apr 22 21:55:04 2014]  say: Padawan: oO
+[Tue Apr 22 21:55:06 2014]  say: ^0Agent Sam: FIND IT
+[Tue Apr 22 21:55:11 2014]  say: Padawan: of*
+[Tue Apr 22 21:55:53 2014]  Kill: 0 0 39: ^0Agent Joe killed ^0Agent Joe by MOD_SUICIDE
+[Tue Apr 22 21:56:09 2014]  say: ^0Agent Joe: Come quickly.
+[Tue Apr 22 21:56:16 2014]  say: ^0Agent Sam: Sir, where are you?
+[Tue Apr 22 21:56:21 2014]  say: Padawan: i'm in teh middle
+[Tue Apr 22 21:56:25 2014]  say: ^0Agent Joe: Your first tast is to find the large TV.
+[Tue Apr 22 21:56:30 2014]  say: ^0Agent Joe: Task*
+[Tue Apr 22 21:56:35 2014]  say: ^0Agent Sam: Find it.
+[Tue Apr 22 21:56:53 2014]  say: Padawan: okay i'll try it :>
+[Tue Apr 22 21:57:00 2014]  say: ^0Agent Joe: Yes.
+[Tue Apr 22 21:58:21 2014]  print "^0Agent Sam^7 @@@PLRENAME ^0Sakyo
+"[Tue Apr 22 21:58:26 2014]  print "^0Agent Joe^7 @@@PLRENAME Toguro
+"[Tue Apr 22 21:58:36 2014]  say: Toguro: I'd like some orange juice over ice Sakyo.
+[Tue Apr 22 21:58:48 2014]  say: ^0Sakyo: Very well
+[Tue Apr 22 21:58:55 2014]  print "Toguro^7 @@@PLRENAME ^0Toguro
+"[Tue Apr 22 21:59:33 2014]  say: ^0Sakyo: Have you found the Tv?
+[Tue Apr 22 21:59:42 2014]  say: Padawan: not yet 
+[Tue Apr 22 21:59:53 2014]  say: ^0Toguro: Padawan, please hurry or you will be disqualified.
+[Tue Apr 22 22:00:17 2014]  say: Padawan: can you give me an advice?
+[Tue Apr 22 22:00:46 2014]  say: ^0Toguro: No.
+[Tue Apr 22 22:01:02 2014]  say: ^0Sakyo: Die
+[Tue Apr 22 22:01:11 2014]  say: ^0Sakyo: kill yourself a few times and look around.
+[Tue Apr 22 22:01:19 2014]  say: ^0Toguro: Mmmm yes.
+[Tue Apr 22 22:01:54 2014]  say: ^0Toguro: You have 2 minutes to find the TV.
+[Tue Apr 22 22:02:01 2014]  say: ^0Toguro: Any longer and you're out.
+[Tue Apr 22 22:02:13 2014]  say: Padawan: are you kiddin me?
+[Tue Apr 22 22:02:17 2014]  say: ^0Toguro: No.
+[Tue Apr 22 22:02:21 2014]  say: ^0Toguro: Hurry.
+[Tue Apr 22 22:02:27 2014]  say: ^0Sakyo: Do you want to be in the dark tournament?
+[Tue Apr 22 22:02:34 2014]  say: Padawan: i really have idea where it is
+[Tue Apr 22 22:02:41 2014]  say: Padawan: no idea*
+[Tue Apr 22 22:02:47 2014]  say: ^0Toguro: Keep looking.
+[Tue Apr 22 22:02:55 2014]  say: ^0Sakyo: Do /kill in your console
+[Tue Apr 22 22:02:57 2014]  say: ^0Toguro: One minute.
+[Tue Apr 22 22:03:03 2014]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Apr 22 22:03:28 2014]  say: ^0Toguro: Time's up.
+[Tue Apr 22 22:03:33 2014]  say: ^0Toguro: Thanks for playing.
+[Tue Apr 22 22:03:34 2014]  say: Padawan: i found it
+[Tue Apr 22 22:03:49 2014]  say: ^0Toguro: I don't see you.
+[Tue Apr 22 22:04:00 2014]  say: Padawan: i am here
+[Tue Apr 22 22:04:02 2014]  say: ^0Toguro: Now I do.
+[Tue Apr 22 22:04:05 2014]  say: Padawan: look
+[Tue Apr 22 22:04:15 2014]  say: Padawan: there it is
+[Tue Apr 22 22:04:17 2014]  say: ^0Toguro: No.
+[Tue Apr 22 22:04:19 2014]  say: ^0Toguro: Wrng.
+[Tue Apr 22 22:04:20 2014]  say: Padawan: ;<>
+[Tue Apr 22 22:04:21 2014]  say: ^0Toguro: Wrong*
+[Tue Apr 22 22:04:30 2014]  say: Padawan: why not?
+[Tue Apr 22 22:04:37 2014]  say: ^0Toguro: I don't have time for peasants like you.
+[Tue Apr 22 22:04:44 2014]  say: Padawan: please
+[Tue Apr 22 22:04:55 2014]  say: ^0Toguro: I told you to find the TV, do you know what a TV looks like?
+[Tue Apr 22 22:05:04 2014]  say: Padawan: not really
+[Tue Apr 22 22:05:07 2014]  say: ^0Toguro: Hn.
+[Tue Apr 22 22:05:22 2014]  say: ^0Toguro: \/
+[Tue Apr 22 22:05:38 2014]  say: Padawan: now can you show me the real tv?:)
+[Tue Apr 22 22:05:42 2014]  say: ^0Toguro: ....
+[Tue Apr 22 22:05:53 2014]  say: Padawan: where?
+[Tue Apr 22 22:06:00 2014]  say: ^0Toguro: Really.
+[Tue Apr 22 22:06:09 2014]  say: Padawan: this?
+[Tue Apr 22 22:06:19 2014]  say: ^0Toguro: Indeed.
+[Tue Apr 22 22:06:25 2014]  say: ^0Toguro: The only TV on this map.
+[Tue Apr 22 22:06:28 2014]  say: Padawan: well it'n a tv oO
+[Tue Apr 22 22:06:45 2014]  say: ^0Sakyo: Listen Toguro, Dark tournament is starting. You are either here or you arn't.
+[Tue Apr 22 22:06:57 2014]  say: Padawan: where is your friend then
+[Tue Apr 22 22:07:01 2014]  say: ^0Toguro: I see, I'll be there.
+[Tue Apr 22 22:07:03 2014]  say: ^0Toguro: Follow me.
+[Tue Apr 22 22:07:13 2014]  say: ^0Sakyo: Thank you.
+[Tue Apr 22 22:07:24 2014]  say: ^0Toguro: Walk.
+[Tue Apr 22 22:07:54 2014]  say: ^0Toguro: Greetings.
+[Tue Apr 22 22:07:58 2014]  say: ^0Sakyo: I see you've come.
+[Tue Apr 22 22:08:01 2014]  say: ^0Toguro: BOW DOWN YOU FOOL
+[Tue Apr 22 22:08:03 2014]  say: Padawan: hi
+[Tue Apr 22 22:08:08 2014]  say: ^0Toguro: DOWN PADA
+[Tue Apr 22 22:08:12 2014]  say: ^0Toguro: STAY DOWN
+[Tue Apr 22 22:08:17 2014]  say: ^0Toguro: Good.
+[Tue Apr 22 22:08:48 2014]  say: Padawan: i have never played on this map before
+[Tue Apr 22 22:08:58 2014]  say: Padawan: everthing is new for me
+[Tue Apr 22 22:09:13 2014]  say: ^0Toguro: You will fight some opponents here in the ring.
+[Tue Apr 22 22:09:27 2014]  say: Padawan: okay i'm prepared :>
+[Tue Apr 22 22:09:28 2014]  say: ^0Toguro: We'll start with simple ones, then increase in difficulty.
+[Tue Apr 22 22:09:32 2014]  say: ^0Toguro: No god mode.
+[Tue Apr 22 22:09:35 2014]  say: ^0Sakyo: Pada, Get off the stands and get in the ring.
+[Tue Apr 22 22:09:37 2014]  say: Padawan: okay
+[Tue Apr 22 22:10:21 2014]  say: ^0Sakyo: Up you fool
+[Tue Apr 22 22:10:32 2014]  say: ^0Toguro: we'll start you with a Tavion, then you will fight more and more difficult oppnents as you go.
+[Tue Apr 22 22:10:41 2014]  say: ^0Toguro: Are you ready?
+[Tue Apr 22 22:10:48 2014]  say: Padawan: i'm prepared for battle sir :>
+[Tue Apr 22 22:10:50 2014]  say: ^0Toguro: Saber up.
+[Tue Apr 22 22:11:00 2014]  say: ^0Toguro: Begin.
+[Tue Apr 22 22:11:09 2014]  say: ^0Sakyo: Bitch
+[Tue Apr 22 22:11:13 2014]  say: ^0Sakyo: STAY IN THE RING
+[Tue Apr 22 22:11:16 2014]  say: ^0Toguro: Hn.
+[Tue Apr 22 22:11:29 2014]  Item: 2 ammo_all
+[Tue Apr 22 22:11:29 2014]  Item: 2 ammo_all
+[Tue Apr 22 22:11:45 2014]  Kill: 1022 2 3: <world> killed Padawan by MOD_SABER
+[Tue Apr 22 22:11:49 2014]  say: ^0Sakyo: Fool
+[Tue Apr 22 22:11:55 2014]  say: ^0Sakyo: You have lost you get 3 chances
+[Tue Apr 22 22:12:03 2014]  say: Padawan: she was using a force
+[Tue Apr 22 22:12:06 2014]  say: ^0Toguro: Yes.
+[Tue Apr 22 22:12:11 2014]  say: ^0Toguro: This wont be easy.
+[Tue Apr 22 22:12:12 2014]  Item: 0 ammo_all
+[Tue Apr 22 22:12:19 2014]  say: Padawan: i cant do anything against this :(
+[Tue Apr 22 22:12:25 2014]  say: ^0Toguro: But you can.
+[Tue Apr 22 22:12:40 2014]  say: ^0Toguro: You must progress as a fighter and destroy your opponents.
+[Tue Apr 22 22:12:54 2014]  say: ^0Sakyo: Come back to the stadium
+[Tue Apr 22 22:12:56 2014]  say: Padawan: okay i'll try it
+[Tue Apr 22 22:13:07 2014]  say: ^0Toguro: You will fight a wampa this time.
+[Tue Apr 22 22:13:12 2014]  say: ^0Sakyo: Its more..
+[Tue Apr 22 22:13:18 2014]  say: ^0Sakyo: Low standard for you
+[Tue Apr 22 22:13:18 2014]  say: Padawan: i dunno where is the stadium
+[Tue Apr 22 22:13:23 2014]  say: ^0Toguro: Two more deaths and you're out.
+[Tue Apr 22 22:13:29 2014]  say: ^0Toguro: Fine, hold on.
+[Tue Apr 22 22:14:27 2014]  say: ^0Toguro: State your location so i may find you.
+[Tue Apr 22 22:14:29 2014]  say: Padawan: can you tell me a origin so i can teleport to you?
+[Tue Apr 22 22:14:44 2014]  say: Padawan: use*
+[Tue Apr 22 22:14:56 2014]  say: ^0Toguro: No.
+[Tue Apr 22 22:14:59 2014]  Kill: 0 0 39: ^0Toguro killed ^0Toguro by MOD_SUICIDE
+[Tue Apr 22 22:15:11 2014]  say: ^0Toguro: You must be able to reach the arena on your own.
+[Tue Apr 22 22:15:30 2014]  say: Padawan: okay i'll try to find a tv :>
+[Tue Apr 22 22:15:42 2014]  say: ^0Toguro: I'll be waiting at the TV then.
+[Tue Apr 22 22:16:04 2014]  say: Padawan: i found it
+[Tue Apr 22 22:16:32 2014]  say: ^0Toguro: Go on the roof.
+[Tue Apr 22 22:16:35 2014]  say: ^0Toguro: I don't see you.
+[Tue Apr 22 22:17:05 2014]  say: Padawan: i'm on teh stadium
+[Tue Apr 22 22:17:10 2014]  say: ^0Toguro: Ah ok.
+[Tue Apr 22 22:17:12 2014]  say: ^0Sakyo: Come 
+[Tue Apr 22 22:17:18 2014]  say: ^0Sakyo: PADA
+[Tue Apr 22 22:17:23 2014]  say: ^0Sakyo: COME TO SAKYO
+[Tue Apr 22 22:17:31 2014]  say: ^0Sakyo: Over here
+[Tue Apr 22 22:17:57 2014]  say: ^0Sakyo: Fool
+[Tue Apr 22 22:17:58 2014]  say: Padawan: jesus
+[Tue Apr 22 22:18:00 2014]  say: ^0Toguro: You will fight a new wampa.
+[Tue Apr 22 22:18:03 2014]  say: ^0Sakyo: I told you to come to me.
+[Tue Apr 22 22:18:06 2014]  say: ^0Toguro: Not that one.
+[Tue Apr 22 22:18:09 2014]  say: Padawan: where are you?
+[Tue Apr 22 22:18:15 2014]  say: ^0Sakyo: Sit
+[Tue Apr 22 22:18:21 2014]  say: ^0Sakyo: Sit
+[Tue Apr 22 22:18:35 2014]  say: ^0Sakyo: Good enough
+[Tue Apr 22 22:18:42 2014]  say: ^0Sakyo: Toguro
+[Tue Apr 22 22:18:45 2014]  say: ^0Toguro: Yes.
+[Tue Apr 22 22:18:51 2014]  Item: 0 ammo_all
+[Tue Apr 22 22:18:59 2014]  say: ^0Sakyo: Please spawn Wampa210
+[Tue Apr 22 22:19:04 2014]  say: ^0Sakyo: Come pada
+[Tue Apr 22 22:19:09 2014]  say: ^0Sakyo: Up up
+[Tue Apr 22 22:19:11 2014]  say: ^0Toguro: Are you sure 210 is ok?
+[Tue Apr 22 22:19:12 2014]  say: ^0Sakyo: Lets go
+[Tue Apr 22 22:19:14 2014]  Item: 0 ammo_all
+[Tue Apr 22 22:19:19 2014]  say: ^0Sakyo: Yes it will be fine
+[Tue Apr 22 22:19:23 2014]  say: ^0Toguro: Very well.
+[Tue Apr 22 22:19:33 2014]  say: Padawan: what should i do
+[Tue Apr 22 22:19:38 2014]  say: ^0Toguro: kill it.
+[Tue Apr 22 22:19:39 2014]  say: Padawan: ah ok
+[Tue Apr 22 22:19:45 2014]  say: Padawan: sec
+[Tue Apr 22 22:19:53 2014]  say: Padawan: may i use the force
+[Tue Apr 22 22:19:55 2014]  say: Padawan: ?
+[Tue Apr 22 22:19:56 2014]  say: ^0Toguro: Same rules as last time, stay in the ring, no god mode.
+[Tue Apr 22 22:19:58 2014]  say: ^0Toguro: Yes.
+[Tue Apr 22 22:20:02 2014]  say: Padawan: okay
+[Tue Apr 22 22:20:03 2014]  say: ^0Toguro: No noclip.
+[Tue Apr 22 22:20:04 2014]  say: ^0Sakyo: No guns.
+[Tue Apr 22 22:20:12 2014]  say: ^0Toguro: Begin.
+[Tue Apr 22 22:20:34 2014]  say: ^0Sakyo: Perfect.
+[Tue Apr 22 22:20:34 2014]  say: ^0Toguro: Splendid.
+[Tue Apr 22 22:20:46 2014]  say: ^0Toguro: Your next opponent shall be Desan.
+[Tue Apr 22 22:20:47 2014]  say: ^0Sakyo: Fill your health
+[Tue Apr 22 22:20:54 2014]  say: Padawan: its full
+[Tue Apr 22 22:20:57 2014]  say: ^0Sakyo: Good
+[Tue Apr 22 22:21:06 2014]  say: ^0Sakyo: Are you ready
+[Tue Apr 22 22:21:09 2014]  say: Padawan: yes
+[Tue Apr 22 22:21:12 2014]  say: ^0Sakyo: Good good
+[Tue Apr 22 22:21:36 2014]  say: ^0Toguro: Just a moment.
+[Tue Apr 22 22:21:41 2014]  say: ^0Toguro: Now Begin.
+[Tue Apr 22 22:21:45 2014]  say: ^0Sakyo: Good
+[Tue Apr 22 22:21:51 2014]  Kill: 1022 2 3: <world> killed Padawan by MOD_SABER
+[Tue Apr 22 22:21:54 2014]  say: ^0Sakyo: Hm
+[Tue Apr 22 22:21:56 2014]  say: ^0Sakyo: You failed
+[Tue Apr 22 22:21:57 2014]  say: ^0Toguro: 1 try left.
+[Tue Apr 22 22:22:13 2014]  say: Padawan: it was a bit difficult
+[Tue Apr 22 22:22:17 2014]  say: ^0Toguro: Indeed.
+[Tue Apr 22 22:22:24 2014]  say: ^0Sakyo: Hm we will try with wampa 2
+[Tue Apr 22 22:22:31 2014]  say: ^0Sakyo: Or 50?
+[Tue Apr 22 22:22:31 2014]  say: Padawan: yes
+[Tue Apr 22 22:22:36 2014]  say: Padawan: it would be better
+[Tue Apr 22 22:22:36 2014]  say: ^0Toguro: No, lets do a rancor.
+[Tue Apr 22 22:22:41 2014]  say: ^0Sakyo: Hm yes
+[Tue Apr 22 22:22:42 2014]  say: ^0Toguro: Wampas are too easy.
+[Tue Apr 22 22:22:48 2014]  say: Padawan: mempower
+[Tue Apr 22 22:22:51 2014]  say: ^0Sakyo: Come back to us please pada?
+[Tue Apr 22 22:22:51 2014]  say: ^0Toguro: Maybe a mutant rancor later.
+[Tue Apr 22 22:23:38 2014]  say: Padawan: moment
+[Tue Apr 22 22:23:45 2014]  say: ^0Toguro: Yes
+[Tue Apr 22 22:24:21 2014]  say: ^0Toguro: You will fight a rancor in this next round.
+[Tue Apr 22 22:24:30 2014]  say: ^0Sakyo: Indeed.
+[Tue Apr 22 22:24:37 2014]  say: ^0Toguro: Remember, you have one life. Use 100 percent of your strength.
+[Tue Apr 22 22:24:44 2014]  say: ^0Sakyo: Hn.
+[Tue Apr 22 22:24:45 2014]  say: Padawan: okay i'll try my best...
+[Tue Apr 22 22:24:48 2014]  say: Padawan: to do
+[Tue Apr 22 22:24:54 2014]  say: ^0Toguro: Ok 
+[Tue Apr 22 22:25:03 2014]  say: ^0Toguro: Begin.
+[Tue Apr 22 22:25:04 2014]  say: ^0Sakyo: Good luck my friend
+[Tue Apr 22 22:25:19 2014]  say: ^0Sakyo: FIGHT
+[Tue Apr 22 22:25:25 2014]  say: ^0Sakyo: 100 PERCENT POWA
+[Tue Apr 22 22:25:27 2014]  say: ^0Toguro: Ahahahaha
+[Tue Apr 22 22:25:30 2014]  say: ^0Sakyo: You have failed
+[Tue Apr 22 22:25:31 2014]  Kill: 1022 2 2: <world> killed Padawan by MOD_MELEE
+[Tue Apr 22 22:25:32 2014]  say: ^0Toguro: Delicious.
+[Tue Apr 22 22:25:39 2014]  say: ^0Sakyo: It was to late for you
+[Tue Apr 22 22:25:40 2014]  say: Padawan: he catched me
+[Tue Apr 22 22:25:43 2014]  say: ^0Sakyo: Duh
+[Tue Apr 22 22:25:50 2014]  say: ^0Sakyo: Learn the ways of the rancor.
+[Tue Apr 22 22:25:53 2014]  say: ^0Toguro: You are unworthy to continue.
+[Tue Apr 22 22:25:53 2014]  say: Padawan: i didnt knew 
+[Tue Apr 22 22:26:22 2014]  say: ^0Toguro: You may try again next year, if you live that long that is.
+[Tue Apr 22 22:26:35 2014]  say: ^0Sakyo: Come back
+[Tue Apr 22 22:27:08 2014]  say: Padawan: so
+[Tue Apr 22 22:27:16 2014]  say: Padawan: what should i do
+[Tue Apr 22 22:27:17 2014]  say: ^0Sakyo: Rancors are just simple minded creatures
+[Tue Apr 22 22:27:21 2014]  say: ^0Sakyo: Come watch
+[Tue Apr 22 22:27:25 2014]  say: ^0Sakyo: IN THE STANDS
+[Tue Apr 22 22:27:33 2014]  say: ^0Sakyo: you idiot
+[Tue Apr 22 22:27:37 2014]  say: ^0Sakyo: IN THE STANDS
+[Tue Apr 22 22:27:39 2014]  Kill: 1 2 25: ^0Sakyo killed Padawan by MOD_TRIP_MINE_SPLASH
+[Tue Apr 22 22:27:43 2014]  say: ^0Sakyo: hN
+[Tue Apr 22 22:27:44 2014]  say: Padawan: oops
+[Tue Apr 22 22:27:54 2014]  say: ^0Sakyo: Hn you must go to the stands
+[Tue Apr 22 22:27:55 2014]  say: ^0Toguro: We will show you the feeding ceramony if you'd like.
+[Tue Apr 22 22:27:56 2014]  say: Padawan: sorry
+[Tue Apr 22 22:28:03 2014]  Item: 0 ammo_all
+[Tue Apr 22 22:28:07 2014]  say: Padawan: i'm really sorry dudes
+[Tue Apr 22 22:28:12 2014]  say: ^0Toguro: For?
+[Tue Apr 22 22:28:21 2014]  say: ^0Sakyo: Look at them,
+[Tue Apr 22 22:28:25 2014]  say: Padawan: for exploding those mines
+[Tue Apr 22 22:28:27 2014]  say: ^0Sakyo: So simple
+[Tue Apr 22 22:28:36 2014]  say: ^0Toguro: Mindless creatures.....
+[Tue Apr 22 22:28:43 2014]  say: ^0Toguro: So easy to manipulate.
+[Tue Apr 22 22:28:45 2014]  Item: 0 ammo_all
+[Tue Apr 22 22:28:54 2014]  Kill: 1022 1 2: <world> killed ^0Sakyo by MOD_MELEE
+[Tue Apr 22 22:29:05 2014]  say: ^0Sakyo: YOU GOT ME KILLED BY MY OWN PET
+[Tue Apr 22 22:29:31 2014]  say: ^0Sakyo: gET UP IN THE STANDS IDIOT
+[Tue Apr 22 22:29:54 2014]  say: ^0Sakyo: See how simple!
+[Tue Apr 22 22:30:01 2014]  say: ^0Sakyo: They DO NOTHING
+[Tue Apr 22 22:30:07 2014]  Kill: 1022 1 36: <world> killed ^0Sakyo by MOD_CRUSH
+[Tue Apr 22 22:30:13 2014]  say: ^0Toguro: Sorry.
+[Tue Apr 22 22:30:16 2014]  say: Padawan: how??
+[Tue Apr 22 22:30:21 2014]  say: ^0Toguro: Didn't mean to let him crush you.
+[Tue Apr 22 22:30:22 2014]  say: Padawan: could it be..?
+[Tue Apr 22 22:30:25 2014]  say: ^0Toguro: How what?
+[Tue Apr 22 22:30:31 2014]  say: ^0Toguro: We are their masters.
+[Tue Apr 22 22:30:35 2014]  say: ^0Toguro: Simple as that.
+[Tue Apr 22 22:30:46 2014]  say: Padawan: dudes
+[Tue Apr 22 22:30:55 2014]  say: Padawan: may i fight with some jedis?
+[Tue Apr 22 22:30:57 2014]  say: ^0Sakyo: You sir, might die
+[Tue Apr 22 22:31:11 2014]  say: ^0Toguro: You are out of the tournament.
+[Tue Apr 22 22:31:12 2014]  say: ^0Sakyo: No
+[Tue Apr 22 22:31:26 2014]  say: ^0Sakyo: You must gain the rancors trust
+[Tue Apr 22 22:31:27 2014]  say: ^0Toguro: You must learn the ways of  the rancor.
+[Tue Apr 22 22:31:51 2014]  say: ^0Toguro: There
+[Tue Apr 22 22:31:52 2014]  say: ^0Sakyo: Hn
+[Tue Apr 22 22:31:54 2014]  say: ^0Sakyo: Poor
+[Tue Apr 22 22:32:08 2014]  say: ^0Sakyo: Learn the rancor
+[Tue Apr 22 22:32:21 2014]  say: ^0Sakyo: GET DOWN HERE
+[Tue Apr 22 22:32:23 2014]  say: ^0Toguro: Pathetic beasts, there lives never amounted to much. Do not pity their deaths Sakyo, my friend.
+[Tue Apr 22 22:32:28 2014]  say: ^0Sakyo: Learn them
+[Tue Apr 22 22:32:33 2014]  say: Padawan: hwo
+[Tue Apr 22 22:32:34 2014]  say: Padawan: how
+[Tue Apr 22 22:32:40 2014]  say: ^0Toguro: You'll figure it out.
+[Tue Apr 22 22:32:42 2014]  say: ^0Sakyo: I will not Toguro
+[Tue Apr 22 22:32:48 2014]  say: ^0Toguro: Good.
+[Tue Apr 22 22:33:00 2014]  say: ^0Sakyo: Get in the stands
+[Tue Apr 22 22:33:19 2014]  say: ^0Sakyo: Hn
+[Tue Apr 22 22:33:24 2014]  say: ^0Toguro: Don't you see, it's so simple.
+[Tue Apr 22 22:33:38 2014]  say: Padawan: this is really awesome
+[Tue Apr 22 22:33:41 2014]  say: ^0Toguro: Indeed.
+[Tue Apr 22 22:33:43 2014]  say: ^0Sakyo: What is?
+[Tue Apr 22 22:33:43 2014]  Item: 0 ammo_all
+[Tue Apr 22 22:34:19 2014]  say: ^0Sakyo: Hn these creatures are nothing more then pets to us.
+[Tue Apr 22 22:34:27 2014]  say: ^0Toguro: Not even pets really.
+[Tue Apr 22 22:34:35 2014]  say: ^0Toguro: Just beasts that we have obtained.
+[Tue Apr 22 22:34:36 2014]  Item: 0 ammo_all
+[Tue Apr 22 22:34:41 2014]  say: ^0Sakyo: Indeed.
+[Tue Apr 22 22:34:55 2014]  say: ^0Toguro: We have mastered their ways and now we control them.
+[Tue Apr 22 22:35:02 2014]  Kill: 1 2 21: ^0Sakyo killed Padawan by MOD_ROCKET_HOMING
+[Tue Apr 22 22:35:12 2014]  say: ^0Sakyo: YOU CANT LEARN LIKE THAT
+[Tue Apr 22 22:35:29 2014]  say: Padawan: so what's the problem
+[Tue Apr 22 22:36:00 2014]  say: Padawan: whay cant you learn?
+[Tue Apr 22 22:36:11 2014]  say: ^0Sakyo: Learn to spell child.
+[Tue Apr 22 22:36:33 2014]  say: ^0Toguro: You mustn't use cheats to conqour these beasts.
+[Tue Apr 22 22:36:50 2014]  say: Padawan: what kind of cheats?
+[Tue Apr 22 22:37:02 2014]  say: ^0Toguro: There are real ways of doing it, and no the internet will not help you with this ne.
+[Tue Apr 22 22:37:04 2014]  say: ^0Toguro: one*
+[Tue Apr 22 22:37:35 2014]  say: ^0Toguro: Come.
+[Tue Apr 22 22:37:44 2014]  say: ^0Toguro: Learn this new beast.
+[Tue Apr 22 22:38:06 2014]  Kill: 1022 0 2: <world> killed ^0Toguro by MOD_MELEE
+[Tue Apr 22 22:38:10 2014]  say: Padawan: oups
+[Tue Apr 22 22:38:12 2014]  say: ^0Toguro: Ahhahahaha splendid.
+[Tue Apr 22 22:38:22 2014]  Kill: 1022 1 2: <world> killed ^0Sakyo by MOD_MELEE
+[Tue Apr 22 22:38:52 2014]  say: Padawan: i found the solution
+[Tue Apr 22 22:38:58 2014]  say: ^0Toguro: What is it?
+[Tue Apr 22 22:39:20 2014]  say: Padawan: i am just using notarget
+[Tue Apr 22 22:39:24 2014]  say: ^0Toguro: Woah that rancor has some nice shades.
+[Tue Apr 22 22:39:30 2014]  say: ^0Toguro: No, you must not use that.
+[Tue Apr 22 22:39:36 2014]  say: ^0Toguro: There is another way.
+[Tue Apr 22 22:39:41 2014]  say: Padawan: what way
+[Tue Apr 22 22:39:45 2014]  say: ^0Toguro: Figure it out.
+[Tue Apr 22 22:40:04 2014]  say: Padawan: i have now notarget off
+[Tue Apr 22 22:40:06 2014]  say: ^0Toguro: You must be eaten by this beast just as Sakyo has.
+[Tue Apr 22 22:41:17 2014]  say: ^0Toguro: Padawan, tell me, how long have you been playing JKA?
+[Tue Apr 22 22:41:22 2014]  say: ^0Sakyo: I am curious as well.
+[Tue Apr 22 22:41:24 2014]  say: Padawan: not so long
+[Tue Apr 22 22:41:30 2014]  say: ^0Toguro: Tell me how long.
+[Tue Apr 22 22:41:36 2014]  say: Padawan: 1 week
+[Tue Apr 22 22:41:41 2014]  say: ^0Toguro: Ah, I see.
+[Tue Apr 22 22:41:53 2014]  say: ^0Toguro: Do you have any name that you use on here normally?
+[Tue Apr 22 22:41:59 2014]  say: Padawan: no
+[Tue Apr 22 22:42:03 2014]  say: ^0Toguro: Hm, ok.
+[Tue Apr 22 22:42:12 2014]  say: ^0Sakyo: Hn poor creature
+[Tue Apr 22 22:42:12 2014]  say: Padawan: i havnt used any name yet
+[Tue Apr 22 22:42:17 2014]  say: ^0Sakyo: ALSO
+[Tue Apr 22 22:42:20 2014]  say: ^0Toguro: Alright.
+[Tue Apr 22 22:42:20 2014]  say: ^0Sakyo: Padawan
+[Tue Apr 22 22:42:50 2014]  say: Padawan: guys do you have skype :>?
+[Tue Apr 22 22:42:58 2014]  say: ^0Sakyo: You must learn to control them without them wanting you to kill you or you using cheats
+[Tue Apr 22 22:43:05 2014]  say: ^0Toguro: No, we do not.
+[Tue Apr 22 22:43:30 2014]  say: Padawan: so what do you have then?
+[Tue Apr 22 22:43:44 2014]  say: Padawan: x-fire, steam?
+[Tue Apr 22 22:43:48 2014]  ClientConnect: 3
+[Tue Apr 22 22:43:48 2014]  mlog:Player ^4Ony^5sfx, connected. With IP - 74.15.9.124:29070 
+[Tue Apr 22 22:43:49 2014]  say: ^0Toguro: Yes.
+[Tue Apr 22 22:43:56 2014]  say: ^0Toguro: Look at Sakyo.
+[Tue Apr 22 22:44:00 2014]  say: ^0Toguro: Look what he has mastered.
+[Tue Apr 22 22:44:12 2014]  say: Padawan: who is onysfx
+[Tue Apr 22 22:44:12 2014]  say: ^0Toguro: Lovely isn't it?
+[Tue Apr 22 22:44:20 2014]  ClientBegin: 3
+[Tue Apr 22 22:44:21 2014]  say: ^0Toguro: Foul creatures.
+[Tue Apr 22 22:44:24 2014]  say: ^0Sakyo: Yes.
+[Tue Apr 22 22:44:37 2014]  say: ^0Toguro: I never did see them as good transportation.
+[Tue Apr 22 22:44:42 2014]  say: ^0Sakyo: Indeed they are Toguro
+[Tue Apr 22 22:44:57 2014]  Kill: 3 3 39: ^4Ony^5sfx killed ^4Ony^5sfx by MOD_SUICIDE
+[Tue Apr 22 22:44:57 2014]  setteam:  3 FREE SPECTATOR
+[Tue Apr 22 22:44:57 2014]  ClientBegin: 3
+[Tue Apr 22 22:45:02 2014]  say: ^0Sakyo: Greetings new commer
+[Tue Apr 22 22:45:04 2014]  setteam:  3 SPECTATOR FREE
+[Tue Apr 22 22:45:04 2014]  ClientBegin: 3
+[Tue Apr 22 22:45:05 2014]  say: ^4Ony^5sfx: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Tue Apr 22 22:45:06 2014]  say: ^4Ony^5sfx: hi
+[Tue Apr 22 22:45:13 2014]  say: ^0Toguro: A plesant good day to you, sir.
+[Tue Apr 22 22:45:42 2014]  say: ^4Ony^5sfx: just visiting, makermod is pretty much dead, but some people are here
+[Tue Apr 22 22:45:57 2014]  say: ^0Toguro: Hn.
+[Tue Apr 22 22:46:04 2014]  say: ^0Sakyo: Hn
+[Tue Apr 22 22:46:14 2014]  say: ^0Sakyo: Perfect!
+[Tue Apr 22 22:46:49 2014]  say: ^4Ony^5sfx: my work in progress ship
+[Tue Apr 22 22:46:55 2014]  say: ^0Toguro: I see.
+[Tue Apr 22 22:47:07 2014]  say: ^0Toguro: It's lovely.
+[Tue Apr 22 22:47:14 2014]  say: ^0Sakyo: very well done.
+[Tue Apr 22 22:47:51 2014]  say: ^4Ony^5sfx: this is the type of thing I did before makermod died, and nobody came to build anymore
+[Tue Apr 22 22:48:00 2014]  say: ^0Toguro: Hm, I see.
+[Tue Apr 22 22:48:18 2014]  say: ^4Ony^5sfx: I have other ships, but they are too big to fit on this map
+[Tue Apr 22 22:48:28 2014]  say: ^0Toguro: Hah.
+[Tue Apr 22 22:48:34 2014]  say: Padawan: ye but there are not much people playing jka this time
+[Tue Apr 22 22:48:50 2014]  say: ^4Ony^5sfx: true, jka hasn't been very active
+[Tue Apr 22 22:48:50 2014]  say: Padawan: it's too old for now
+[Tue Apr 22 22:48:52 2014]  say: Padawan: imo
+[Tue Apr 22 22:49:03 2014]  say: ^4Ony^5sfx: I'm just waiting for JKG to make progress
+[Tue Apr 22 22:49:05 2014]  say: ^0Sakyo: Hey Onysfx
+[Tue Apr 22 22:49:13 2014]  say: ^4Ony^5sfx: with the source code released it can. Tried the beta, it's nice
+[Tue Apr 22 22:49:16 2014]  say: ^4Ony^5sfx: and ya?
+[Tue Apr 22 22:49:20 2014]  say: ^0Toguro: Jk2 is better than jka to me still though.
+[Tue Apr 22 22:49:39 2014]  say: ^0Sakyo: I've never quite been able to learn how to build a ship, can you teach me?
+[Tue Apr 22 22:49:57 2014]  say: ^4Ony^5sfx: Well you know how to /mgrab build right?
+[Tue Apr 22 22:50:01 2014]  say: ^4Ony^5sfx: like just build normally?
+[Tue Apr 22 22:50:13 2014]  tell: ^0Sakyo to ^4Ony^5sfx: No
+[Tue Apr 22 22:50:22 2014]  tell: ^4Ony^5sfx to ^0Sakyo: oh dear
+[Tue Apr 22 22:50:30 2014]  tell: ^4Ony^5sfx to ^0Sakyo: well you must learn that
+[Tue Apr 22 22:50:32 2014]  tell: ^0Sakyo to ^4Ony^5sfx: That's why i have asked you.
+[Tue Apr 22 22:50:45 2014]  tell: ^4Ony^5sfx to ^0Sakyo: you can learn basic makermod commands using /minfo
+[Tue Apr 22 22:50:48 2014]  tell: ^0Sakyo to ^4Ony^5sfx: I did it once a long time ago but don't remeber anything on how to do it.
+[Tue Apr 22 22:50:54 2014]  tell: ^4Ony^5sfx to ^0Sakyo: but to build things
+[Tue Apr 22 22:51:05 2014]  tell: ^4Ony^5sfx to ^0Sakyo: basically, you'll want to do /mlist
+[Tue Apr 22 22:51:11 2014]  tell: ^0Sakyo to ^4Ony^5sfx: Okat
+[Tue Apr 22 22:51:12 2014]  tell: ^4Ony^5sfx to ^0Sakyo: then find the folder you want
+[Tue Apr 22 22:51:30 2014]  tell: ^4Ony^5sfx to ^0Sakyo: lets use factory. Then you type /mplace factory/catw2_b
+[Tue Apr 22 22:51:37 2014]  tell: ^4Ony^5sfx to ^0Sakyo: try that.
+[Tue Apr 22 22:51:59 2014]  say: ^4Ony^5sfx: now place it where you want it
+[Tue Apr 22 22:52:03 2014]  say: ^0Sakyo: How
+[Tue Apr 22 22:52:04 2014]  say: ^4Ony^5sfx: then do /mdrop
+[Tue Apr 22 22:52:17 2014]  say: ^0Sakyo: Hm
+[Tue Apr 22 22:52:20 2014]  say: ^0Sakyo: Okay
+[Tue Apr 22 22:52:29 2014]  say: ^0Sakyo: Thats pretty much all i wanted to know actuallu
+[Tue Apr 22 22:52:33 2014]  say: ^4Ony^5sfx: now you may be wondering how I built this ship so quickly
+[Tue Apr 22 22:52:33 2014]  say: ^0Sakyo: Actually
+[Tue Apr 22 22:52:38 2014]  say: ^0Sakyo: Sure
+[Tue Apr 22 22:52:45 2014]  say: ^4Ony^5sfx: basically, you can do mmove commands
+[Tue Apr 22 22:52:49 2014]  say: ^4Ony^5sfx: try /mmove 12 0 0
+[Tue Apr 22 22:53:11 2014]  say: ^0Sakyo: Wow cool
+[Tue Apr 22 22:53:16 2014]  say: ^4Ony^5sfx: so what I did for my ship is
+[Tue Apr 22 22:53:25 2014]  say: ^4Ony^5sfx: I made a notepad file on my computer
+[Tue Apr 22 22:53:30 2014]  say: ^0Sakyo: Alright
+[Tue Apr 22 22:53:40 2014]  say: ^4Ony^5sfx: then I typed out the object in the notepad I want to place
+[Tue Apr 22 22:53:53 2014]  say: ^4Ony^5sfx: then did a ; to separate the commmand, and did /mmove <x> <y> <z>
+[Tue Apr 22 22:54:07 2014]  say: ^4Ony^5sfx: so like, mplace factory/catw2_b;mscale 2;mmove 24 0 0
+[Tue Apr 22 22:54:15 2014]  say: ^4Ony^5sfx: And I did a bunch of those lines
+[Tue Apr 22 22:54:22 2014]  say: ^4Ony^5sfx: and it created this
+[Tue Apr 22 22:54:44 2014]  say: ^4Ony^5sfx: then you save it as a cfg file in your gamedata/base folder or makermod folder
+[Tue Apr 22 22:54:52 2014]  say: ^4Ony^5sfx: and then /exec <filename> and there ya go
+[Tue Apr 22 22:54:55 2014]  say: Padawan: swag
+[Tue Apr 22 22:55:05 2014]  say: ^4Ony^5sfx: simpler than it sounds
+[Tue Apr 22 22:55:16 2014]  say: ^0Sakyo: Oh cool
+[Tue Apr 22 22:55:38 2014]  say: ^0Sakyo: How do people get the objects such as like ive seen chairs ect ect
+[Tue Apr 22 22:55:45 2014]  say: ^4Ony^5sfx: oh well, with /mlist
+[Tue Apr 22 22:55:45 2014]  Exit: Timelimit hit.
+[Tue Apr 22 22:55:45 2014]  score: 15  ping: 286  client: 1 ^0Sakyo
+[Tue Apr 22 22:55:45 2014]  score: 0  ping: 136  client: 3 ^4Ony^5sfx
+[Tue Apr 22 22:55:45 2014]  score: -1  ping: 48  client: 2 Padawan
+[Tue Apr 22 22:55:45 2014]  score: -2  ping: 293  client: 0 ^0Toguro
+[Tue Apr 22 22:55:50 2014]  say: ^4Ony^5sfx: you can search the folders you want
+[Tue Apr 22 22:55:55 2014]  say: ^4Ony^5sfx: so like /mlist desert
+[Tue Apr 22 22:55:58 2014]  say: ^0Sakyo: Okat
+[Tue Apr 22 22:55:59 2014]  say: ^4Ony^5sfx: just do /mlist for a list of folders
+[Tue Apr 22 22:56:00 2014]  ShutdownGame:
+[Tue Apr 22 22:56:00 2014]  ------------------------------------------------------------
+[Tue Apr 22 22:56:01 2014]  ------------------------------------------------------------
+[Tue Apr 22 22:56:01 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Apr 22 22:56:02 2014]  ClientConnect: 0
+[Tue Apr 22 22:56:02 2014]  ClientConnect: 1
+[Tue Apr 22 22:56:02 2014]  ClientConnect: 2
+[Tue Apr 22 22:56:02 2014]  ClientConnect: 3
+[Tue Apr 22 22:56:11 2014]  ClientBegin: 0
+[Tue Apr 22 22:56:18 2014]  say: Padawan: and the mpain :>
+[Tue Apr 22 22:56:18 2014]  ClientBegin: 2
+[Tue Apr 22 22:56:22 2014]  say: ^4Ony^5sfx: next map
+[Tue Apr 22 22:56:22 2014]  Kill: 3 2 37: ^4Ony^5sfx killed Padawan by MOD_TELEFRAG
+[Tue Apr 22 22:56:22 2014]  ClientBegin: 3
+[Tue Apr 22 22:56:31 2014]  say: ^0Toguro: Aha, very good map indeed.
+[Tue Apr 22 22:56:37 2014]  say: ^4Ony^5sfx: most of it is memorization
+[Tue Apr 22 22:56:40 2014]  ClientBegin: 1
+[Tue Apr 22 22:56:41 2014]  say: ^4Ony^5sfx: for what objects you want
+[Tue Apr 22 22:56:46 2014]  say: ^4Ony^5sfx: so for a chair, there are several
+[Tue Apr 22 22:56:50 2014]  say: ^4Ony^5sfx: imperial/chair for instance
+[Tue Apr 22 22:56:52 2014]  say: ^0Sakyo: Like?
+[Tue Apr 22 22:56:59 2014]  say: ^0Sakyo: WHATS HAPPING
+[Tue Apr 22 22:57:05 2014]  say: Padawan: sorry mates :>
+[Tue Apr 22 22:57:09 2014]  say: ^0Sakyo: wTF
+[Tue Apr 22 22:57:12 2014]  say: ^4Ony^5sfx: script spam/test
+[Tue Apr 22 22:57:21 2014]  say: ^0Sakyo: Okay what was the chair ?
+[Tue Apr 22 22:57:24 2014]  say: ^4Ony^5sfx: imperial/chair
+[Tue Apr 22 22:57:34 2014]  say: ^4Ony^5sfx: you can do just /mlist imperial for a list of imperial objects
+[Tue Apr 22 22:57:44 2014]  say: ^4Ony^5sfx: ima load my hotel
+[Tue Apr 22 22:57:59 2014]  say: ^0Sakyo: Thanks man
+[Tue Apr 22 22:58:02 2014]  say: ^0Sakyo: :D
+[Tue Apr 22 22:58:21 2014]  say: Padawan: why i cant use mattachfx :<
+[Tue Apr 22 22:58:23 2014]  ClientDisconnect: 3
+[Tue Apr 22 22:58:23 2014]  ClientConnect: 3
+[Tue Apr 22 22:58:23 2014]  mlog:Player ^4Ony^5sfx, connected. With IP - 74.15.9.124:29070 
+[Tue Apr 22 22:58:31 2014]  say: Padawan: it says i hve no permission :<
+[Tue Apr 22 22:58:48 2014]  ClientBegin: 3
+[Tue Apr 22 22:58:54 2014]  say: ^4Ony^5sfx: client overflow
+[Tue Apr 22 22:58:58 2014]  Kill: 2 2 36: Padawan killed Padawan by MOD_CRUSH
+[Tue Apr 22 22:59:04 2014]  Kill: 2 2 36: Padawan killed Padawan by MOD_CRUSH
+[Tue Apr 22 22:59:04 2014]  say: ^0Toguro: Onward,
+[Tue Apr 22 22:59:06 2014]  say: ^4Ony^5sfx: it happens when you make a script, and execute to many things at once
+[Tue Apr 22 22:59:07 2014]  Kill: 1022 0 6: <world> killed ^0Toguro by MOD_BLASTER
+[Tue Apr 22 22:59:09 2014]  say: ^0Toguro: Ahaha
+[Tue Apr 22 22:59:11 2014]  Kill: 1022 1 6: <world> killed ^0Sakyo by MOD_BLASTER
+[Tue Apr 22 22:59:18 2014]  say: ^4Ony^5sfx: too many**
+[Tue Apr 22 22:59:22 2014]  say: ^4Ony^5sfx: my hotel crashed me
+[Tue Apr 22 22:59:28 2014]  Kill: 1022 1 6: <world> killed ^0Sakyo by MOD_BLASTER
+[Tue Apr 22 22:59:35 2014]  Kill: 1022 2 0: <world> killed Padawan by MOD_UNKNOWN
+[Tue Apr 22 22:59:49 2014]  Kill: 2 2 36: Padawan killed Padawan by MOD_CRUSH
+[Tue Apr 22 22:59:50 2014]  say: ^4Ony^5sfx: oh but I do have a WIP hotel I'm making
+[Tue Apr 22 23:00:00 2014]  Kill: 1022 2 0: <world> killed Padawan by MOD_UNKNOWN
+[Tue Apr 22 23:00:14 2014]  say: ^4Ony^5sfx: I'll try to load it
+[Tue Apr 22 23:00:23 2014]  Kill: 1022 0 6: <world> killed ^0Toguro by MOD_BLASTER
+[Tue Apr 22 23:00:36 2014]  say: ^4Ony^5sfx: there we go
+[Tue Apr 22 23:00:42 2014]  say: ^4Ony^5sfx: now for the switches...
+[Tue Apr 22 23:01:21 2014]  say: ^4Ony^5sfx: ya the catwalk walls need remaps
+[Tue Apr 22 23:01:25 2014]  say: ^4Ony^5sfx: you can see through them :(
+[Tue Apr 22 23:01:33 2014]  say: ^4Ony^5sfx: there
+[Tue Apr 22 23:01:49 2014]  say: ^0Sakyo: HOW Do you get the doors?
+[Tue Apr 22 23:01:57 2014]  say: ^4Ony^5sfx: haven't made a switch on this side yet
+[Tue Apr 22 23:01:59 2014]  say: ^4Ony^5sfx: ill show ya
+[Tue Apr 22 23:02:08 2014]  say: ^4Ony^5sfx: this blue switch
+[Tue Apr 22 23:02:11 2014]  say: ^4Ony^5sfx: right here
+[Tue Apr 22 23:02:22 2014]  say: ^4Ony^5sfx: blue one press it
+[Tue Apr 22 23:02:30 2014]  say: ^4Ony^5sfx: aim up a bit
+[Tue Apr 22 23:02:46 2014]  say: ^0Sakyo: How do you make it?>
+[Tue Apr 22 23:03:01 2014]  say: ^4Ony^5sfx: well basically the same way I built my ship, lots of /mmove commands on the objects
+[Tue Apr 22 23:03:05 2014]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Apr 22 23:03:12 2014]  say: ^0Sakyo: What command is this is mean haha
+[Tue Apr 22 23:03:14 2014]  say: ^4Ony^5sfx: but I had to make a separate script for connecting the switches and opening the doors
+[Tue Apr 22 23:03:20 2014]  say: ^4Ony^5sfx: because of makermods limitations
+[Tue Apr 22 23:03:30 2014]  say: ^0Sakyo: So?
+[Tue Apr 22 23:03:38 2014]  say: ^4Ony^5sfx: so..?
+[Tue Apr 22 23:03:45 2014]  say: ^0Sakyo: How do i make the doorsxDD
+[Tue Apr 22 23:04:01 2014]  say: ^4Ony^5sfx: oh well...some time to explain will need. I'll teach you how to make a simple one
+[Tue Apr 22 23:04:23 2014]  say: ^4Ony^5sfx: so basically
+[Tue Apr 22 23:04:29 2014]  say: ^4Ony^5sfx: you place an object
+[Tue Apr 22 23:04:33 2014]  say: ^0Sakyo: Mkm?
+[Tue Apr 22 23:04:39 2014]  say: ^0Sakyo: How do you turn them?
+[Tue Apr 22 23:04:46 2014]  say: ^4Ony^5sfx: ill tell you in a min
+[Tue Apr 22 23:04:50 2014]  say: ^4Ony^5sfx: so then basically
+[Tue Apr 22 23:04:57 2014]  say: ^4Ony^5sfx: you can make it /musable or /mtouchable
+[Tue Apr 22 23:05:07 2014]  say: ^4Ony^5sfx: usable means you'll have to use it, touchable means you just have to touch it
+[Tue Apr 22 23:05:12 2014]  say: ^4Ony^5sfx: so lets make it usable
+[Tue Apr 22 23:05:19 2014]  say: ^0Sakyo: alrighty
+[Tue Apr 22 23:05:25 2014]  say: ^4Ony^5sfx: then to actually make it move when you use it
+[Tue Apr 22 23:05:29 2014]  say: ^4Ony^5sfx: you use /mplatform
+[Tue Apr 22 23:05:45 2014]  say: ^4Ony^5sfx: first value is for how high it goes, second is for the time it takes
+[Tue Apr 22 23:05:54 2014]  say: ^4Ony^5sfx: so...just /mplatform 120 should do
+[Tue Apr 22 23:06:02 2014]  say: ^4Ony^5sfx: tada
+[Tue Apr 22 23:06:09 2014]  say: ^4Ony^5sfx: if you do /mplatform -120
+[Tue Apr 22 23:06:12 2014]  say: ^4Ony^5sfx: it will move down instead
+[Tue Apr 22 23:06:28 2014]  say: ^4Ony^5sfx: thats how I did those doors
+[Tue Apr 22 23:06:29 2014]  say: ^0Sakyo: Coolness
+[Tue Apr 22 23:06:33 2014]  say: ^4Ony^5sfx: but I added another value
+[Tue Apr 22 23:06:42 2014]  say: ^4Ony^5sfx: I think it was 60 or something after, so like /mplatform 120 60
+[Tue Apr 22 23:06:47 2014]  say: ^4Ony^5sfx: to make it take longer to opne
+[Tue Apr 22 23:06:50 2014]  say: ^4Ony^5sfx: to match the sound
+[Tue Apr 22 23:07:08 2014]  say: ^4Ony^5sfx: you can find a list of all the commands I just told you
+[Tue Apr 22 23:07:12 2014]  say: ^4Ony^5sfx: in /minfo
+[Tue Apr 22 23:07:16 2014]  say: ^0Sakyo: How do you get a differant kind of walls
+[Tue Apr 22 23:07:19 2014]  say: ^4Ony^5sfx: /minfo <catagory>
+[Tue Apr 22 23:07:35 2014]  say: ^4Ony^5sfx: oh those are factory/longpipe_new
+[Tue Apr 22 23:07:47 2014]  say: Padawan: waite
+[Tue Apr 22 23:08:00 2014]  say: Padawan: go
+[Tue Apr 22 23:08:03 2014]  say: Padawan: figh
+[Tue Apr 22 23:08:05 2014]  say: Padawan: t me
+[Tue Apr 22 23:08:13 2014]  say: ^4Ony^5sfx: now I'll show you something really cool
+[Tue Apr 22 23:08:16 2014]  say: ^0Sakyo: Okay so how do you turn them
+[Tue Apr 22 23:08:22 2014]  say: ^4Ony^5sfx: oh that's the /mrotate command
+[Tue Apr 22 23:08:31 2014]  say: ^4Ony^5sfx: /mrotate <x> <y> <z>
+[Tue Apr 22 23:08:37 2014]  say: ^4Ony^5sfx: x turns it like this
+[Tue Apr 22 23:08:41 2014]  say: ^4Ony^5sfx: /mrotate 90 0 0
+[Tue Apr 22 23:08:48 2014]  say: ^4Ony^5sfx: if I change y
+[Tue Apr 22 23:08:51 2014]  say: ^4Ony^5sfx: /mrotate 0 90 0
+[Tue Apr 22 23:08:53 2014]  ClientConnect: 4
+[Tue Apr 22 23:08:53 2014]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 151.227.122.200:29070 
+[Tue Apr 22 23:08:55 2014]  say: ^0Toguro: Hah it's too fast to figh tvery well
+[Tue Apr 22 23:09:01 2014]  say: ^4Ony^5sfx: this will happen, so ya
+[Tue Apr 22 23:09:07 2014]  say: ^0Toguro: xD
+[Tue Apr 22 23:09:14 2014]  say: Padawan: tauntaun is better
+[Tue Apr 22 23:09:17 2014]  say: ^0Toguro: Yes
+[Tue Apr 22 23:09:28 2014]  say: ^4Ony^5sfx: also
+[Tue Apr 22 23:09:33 2014]  ClientBegin: 4
+[Tue Apr 22 23:09:34 2014]  say: ^0Sakyo: Yes?
+[Tue Apr 22 23:09:35 2014]  say: ^4Ony^5sfx: you probably don't care about this but
+[Tue Apr 22 23:09:49 2014]  say: ^4Ony^5sfx: you can make objects
+[Tue Apr 22 23:09:51 2014]  say: ^4Ony^5sfx: breakable
+[Tue Apr 22 23:09:56 2014]  Kill: 0 2 3: ^0Toguro killed Padawan by MOD_SABER
+[Tue Apr 22 23:09:58 2014]  say: ^0Toguro: :D
+[Tue Apr 22 23:09:59 2014]  say: ^0Sakyo: xD
+[Tue Apr 22 23:10:01 2014]  say: Padawan: gottchh
+[Tue Apr 22 23:10:07 2014]  say: ^0Sakyo: xDD
+[Tue Apr 22 23:10:18 2014]  say: ^4Ony^5sfx: hi dinner
+[Tue Apr 22 23:10:20 2014]  say: ^1M^7r ^1Ð^7innertime: Hai
+[Tue Apr 22 23:10:20 2014]  say: ^0Sakyo: Cool haha
+[Tue Apr 22 23:10:26 2014]  say: ^0Sakyo: Greetings dinner
+[Tue Apr 22 23:10:31 2014]  say: ^4Ony^5sfx: just teaching some people makermod stuff
+[Tue Apr 22 23:10:32 2014]  say: ^1M^7r ^1Ð^7innertime: Salutations :}
+[Tue Apr 22 23:10:38 2014]  say: ^1M^7r ^1Ð^7innertime: Ah. Isn't it a bit late for that?
+[Tue Apr 22 23:10:41 2014]  say: ^4Ony^5sfx: but ya everything I just told you
+[Tue Apr 22 23:10:45 2014]  say: ^4Ony^5sfx: is in /minfo
+[Tue Apr 22 23:10:51 2014]  say: ^4Ony^5sfx: you can find all the commands there and more
+[Tue Apr 22 23:10:59 2014]  say: ^0Sakyo: Alrighty haha thanks man
+[Tue Apr 22 23:11:05 2014]  say: ^4Ony^5sfx: like /mtelep which allows you to make an object teleport you places
+[Tue Apr 22 23:11:11 2014]  say: ^1M^7r ^1Ð^7innertime: not a bad attempt ._.
+[Tue Apr 22 23:11:18 2014]  say: ^1M^7r ^1Ð^7innertime: why are there columns sticking out of the roof?
+[Tue Apr 22 23:11:22 2014]  say: ^0Sakyo: ?
+[Tue Apr 22 23:11:25 2014]  say: Padawan: DAMN
+[Tue Apr 22 23:11:28 2014]  say: ^4Ony^5sfx: it was meant to only be viewed from the inside
+[Tue Apr 22 23:11:28 2014]  say: ^0Toguro: Hah
+[Tue Apr 22 23:11:30 2014]  say: ^1M^7r ^1Ð^7innertime: Ah
+[Tue Apr 22 23:11:34 2014]  say: ^4Ony^5sfx: I don't care about the outside
+[Tue Apr 22 23:11:37 2014]  say: Padawan: i movin away
+[Tue Apr 22 23:11:39 2014]  say: ^1M^7r ^1Ð^7innertime: Well
+[Tue Apr 22 23:11:40 2014]  say: ^1M^7r ^1Ð^7innertime: Onys
+[Tue Apr 22 23:11:43 2014]  say: ^4Ony^5sfx: not for this one anyway
+[Tue Apr 22 23:11:49 2014]  say: ^1M^7r ^1Ð^7innertime: I'm going to redo all of my scripts again XD
+[Tue Apr 22 23:11:54 2014]  say: ^4Ony^5sfx: ah cool
+[Tue Apr 22 23:11:56 2014]  say: ^1M^7r ^1Ð^7innertime: D
+[Tue Apr 22 23:11:58 2014]  Kill: 1022 1 6: <world> killed ^0Sakyo by MOD_BLASTER
+[Tue Apr 22 23:12:05 2014]  say: ^1M^7r ^1Ð^7innertime: Last time, I made vegeta scripts :3
+[Tue Apr 22 23:12:08 2014]  say: ^0Toguro: Hah
+[Tue Apr 22 23:12:12 2014]  say: ^1M^7r ^1Ð^7innertime: Going to try Goku ones, this time
+[Tue Apr 22 23:12:13 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:12:28 2014]  say: ^4Ony^5sfx: your a DBZ fan like sora right?
+[Tue Apr 22 23:12:32 2014]  say: ^1M^7r ^1Ð^7innertime: Well
+[Tue Apr 22 23:12:41 2014]  say: ^1M^7r ^1Ð^7innertime: I used to be ._. dbz is just another cartoon now
+[Tue Apr 22 23:12:44 2014]  say: ^4Ony^5sfx: ok sakyo
+[Tue Apr 22 23:12:47 2014]  say: ^4Ony^5sfx: I'll show you something epic
+[Tue Apr 22 23:12:48 2014]  say: ^1M^7r ^1Ð^7innertime: I just know how popular it is
+[Tue Apr 22 23:12:51 2014]  say: Padawan: i ll spawn some dudes
+[Tue Apr 22 23:12:54 2014]  say: ^4Ony^5sfx: dinners already seen it of course
+[Tue Apr 22 23:12:54 2014]  say: ^0Toguro: Ok
+[Tue Apr 22 23:13:26 2014]  say: ^4Ony^5sfx: might give me a client overflow
+[Tue Apr 22 23:13:28 2014]  say: ^1M^7r ^1Ð^7innertime: That powerup script is just gay D:
+[Tue Apr 22 23:13:29 2014]  say: ^4Ony^5sfx: oh well
+[Tue Apr 22 23:13:31 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:13:41 2014]  say: ^1M^7r ^1Ð^7innertime: O-o
+[Tue Apr 22 23:13:43 2014]  say: ^1M^7r ^1Ð^7innertime: I've seen this?
+[Tue Apr 22 23:13:46 2014]  say: ^4Ony^5sfx: yes
+[Tue Apr 22 23:13:49 2014]  say: ^1M^7r ^1Ð^7innertime: O_O
+[Tue Apr 22 23:13:49 2014]  say: ^4Ony^5sfx: I'm showing the new player
+[Tue Apr 22 23:13:56 2014]  say: ^1M^7r ^1Ð^7innertime: Ohh
+[Tue Apr 22 23:13:57 2014]  say: ^1M^7r ^1Ð^7innertime: the tram XD
+[Tue Apr 22 23:13:59 2014]  say: ^0Sakyo: Im not new..
+[Tue Apr 22 23:14:04 2014]  say: Padawan: :>>>
+[Tue Apr 22 23:14:09 2014]  say: ^0Sakyo: I just didnt know how to build that.
+[Tue Apr 22 23:14:13 2014]  say: ^4Ony^5sfx: my bad, new to building...or rather forget how
+[Tue Apr 22 23:14:24 2014]  Kill: 1022 2 2: <world> killed Padawan by MOD_MELEE
+[Tue Apr 22 23:14:27 2014]  say: ^0Sakyo: Mixture of both really.
+[Tue Apr 22 23:14:28 2014]  say: Padawan: the hv eaten my tauntaun
+[Tue Apr 22 23:14:32 2014]  say: Padawan: :<
+[Tue Apr 22 23:14:33 2014]  say: ^0Toguro: Hahaha
+[Tue Apr 22 23:15:19 2014]  say: Padawan: ye your dead
+[Tue Apr 22 23:15:21 2014]  say: ^0Toguro: Nah
+[Tue Apr 22 23:15:24 2014]  say: ^4Ony^5sfx: ok sakyo
+[Tue Apr 22 23:15:28 2014]  say: ^4Ony^5sfx: do the command /mtelelast
+[Tue Apr 22 23:15:31 2014]  say: ^4Ony^5sfx: My origin is: (-17442 18705 2004) - You can teleport here with /mtelelast
+
+[Tue Apr 22 23:15:36 2014]  say: ^0Toguro: :D
+[Tue Apr 22 23:15:50 2014]  say: ^4Ony^5sfx: I know the z-fighting lol
+[Tue Apr 22 23:15:52 2014]  say: ^0Toguro: Wait
+[Tue Apr 22 23:15:53 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:15:57 2014]  say: ^4Ony^5sfx: I will say it's kinda annoying I shall fix it soon
+[Tue Apr 22 23:16:02 2014]  say: Padawan: the cant wait
+[Tue Apr 22 23:16:09 2014]  say: ^4Ony^5sfx: sakyo
+[Tue Apr 22 23:16:11 2014]  say: Padawan: they
+[Tue Apr 22 23:16:12 2014]  say: ^4Ony^5sfx: /mtelelast
+[Tue Apr 22 23:16:46 2014]  say: Padawan: hihihihohohuhuhuhahahha
+[Tue Apr 22 23:16:56 2014]  Kill: 3 3 39: ^4Ony^5sfx killed ^4Ony^5sfx by MOD_SUICIDE
+[Tue Apr 22 23:16:56 2014]  setteam:  3 FREE SPECTATOR
+[Tue Apr 22 23:16:56 2014]  ClientBegin: 3
+[Tue Apr 22 23:17:00 2014]  say: Padawan: rofl
+[Tue Apr 22 23:17:12 2014]  setteam:  3 SPECTATOR FREE
+[Tue Apr 22 23:17:12 2014]  ClientBegin: 3
+[Tue Apr 22 23:17:12 2014]  say: ^4Ony^5sfx: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Tue Apr 22 23:17:15 2014]  say: ^4Ony^5sfx: ah he's building
+[Tue Apr 22 23:17:18 2014]  say: ^4Ony^5sfx: very good
+[Tue Apr 22 23:17:26 2014]  say: Padawan: ok i ll help
+[Tue Apr 22 23:17:35 2014]  say: ^4Ony^5sfx: he is caught up in building
+[Tue Apr 22 23:17:40 2014]  say: ^1M^7r ^1Ð^7innertime: Afk
+[Tue Apr 22 23:17:41 2014]  say: ^1M^7r ^1Ð^7innertime: scripting
+[Tue Apr 22 23:17:44 2014]  say: ^4Ony^5sfx: very good, just likme me in the old days
+[Tue Apr 22 23:17:49 2014]  say: Padawan: mempower
+[Tue Apr 22 23:17:49 2014]  Kill: 1022 2 2: <world> killed Padawan by MOD_MELEE
+[Tue Apr 22 23:17:52 2014]  say: Padawan: damn
+[Tue Apr 22 23:17:56 2014]  say: ^4Ony^5sfx: /mempower xD
+[Tue Apr 22 23:18:05 2014]  say: ^0Sakyo: Hey onysfx how do you delete a platform?
+[Tue Apr 22 23:18:13 2014]  say: ^0Toguro: Got em.
+[Tue Apr 22 23:18:15 2014]  say: ^4Ony^5sfx: you look directly at it, then /mselect
+[Tue Apr 22 23:18:21 2014]  say: ^4Ony^5sfx: then /mkill
+[Tue Apr 22 23:18:26 2014]  say: ^0Sakyo: Thanks
+[Tue Apr 22 23:18:29 2014]  say: ^4Ony^5sfx: oh and sakyo
+[Tue Apr 22 23:18:29 2014]  say: ^1M^7r ^1Ð^7innertime: Onys
+[Tue Apr 22 23:18:30 2014]  say: ^1M^7r ^1Ð^7innertime: please
+[Tue Apr 22 23:18:32 2014]  say: ^4Ony^5sfx: do /mtelelast
+[Tue Apr 22 23:18:38 2014]  say: ^4Ony^5sfx: ya?
+[Tue Apr 22 23:18:39 2014]  say: ^1M^7r ^1Ð^7innertime: tell me you've been teaching them how to build the correct way
+[Tue Apr 22 23:18:50 2014]  say: ^4Ony^5sfx: I'm teaching them the basics of /mgrab first
+[Tue Apr 22 23:18:52 2014]  say: ^1M^7r ^1Ð^7innertime: NO
+[Tue Apr 22 23:18:53 2014]  say: ^1M^7r ^1Ð^7innertime: YOU FOOL
+[Tue Apr 22 23:19:00 2014]  Kill: 1022 0 2: <world> killed ^0Toguro by MOD_MELEE
+[Tue Apr 22 23:19:03 2014]  say: ^4Ony^5sfx: I remembering when I was being taught how to build, they wanted to teach me mmove and everything
+[Tue Apr 22 23:19:04 2014]  say: ^0Toguro: hahaha
+[Tue Apr 22 23:19:06 2014]  say: ^1M^7r ^1Ð^7innertime: D:
+[Tue Apr 22 23:19:06 2014]  say: ^4Ony^5sfx: it overwhelmed me
+[Tue Apr 22 23:19:13 2014]  say: ^1M^7r ^1Ð^7innertime: I remember starting off with mgrab
+[Tue Apr 22 23:19:14 2014]  say: ^4Ony^5sfx: I'm teaching them the basics
+[Tue Apr 22 23:19:15 2014]  say: ^1M^7r ^1Ð^7innertime: like
+[Tue Apr 22 23:19:19 2014]  say: ^1M^7r ^1Ð^7innertime: all of my buildings were awful
+[Tue Apr 22 23:19:22 2014]  say: ^4Ony^5sfx: true
+[Tue Apr 22 23:19:22 2014]  say: ^1M^7r ^1Ð^7innertime: truly awful
+[Tue Apr 22 23:19:29 2014]  say: ^4Ony^5sfx: but they don't even know/remember the lists of objects
+[Tue Apr 22 23:19:36 2014]  say: ^1M^7r ^1Ð^7innertime: D:
+[Tue Apr 22 23:19:37 2014]  say: ^4Ony^5sfx: they need to fiddle around first
+[Tue Apr 22 23:19:40 2014]  say: ^4Ony^5sfx: before they can be serious
+[Tue Apr 22 23:19:48 2014]  say: Padawan: jesus
+[Tue Apr 22 23:19:55 2014]  say: ^1M^7r ^1Ð^7innertime: yes?
+[Tue Apr 22 23:19:57 2014]  say: ^4Ony^5sfx: they don't know the basic commands
+[Tue Apr 22 23:20:00 2014]  say: ^4Ony^5sfx: I'm teaching them those
+[Tue Apr 22 23:20:02 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:20:08 2014]  say: ^1M^7r ^1Ð^7innertime: You're bad
+[Tue Apr 22 23:20:10 2014]  say: ^4Ony^5sfx: I'm not gonna throw everything at em
+[Tue Apr 22 23:20:12 2014]  say: ^1M^7r ^1Ð^7innertime: and you should feel bad
+[Tue Apr 22 23:20:22 2014]  say: ^4Ony^5sfx: YOU GOTTA PLACE EVERY OBJECT AT 90 DEGREE ANGLES BECAUSE OF MAKERMOD PHYSICS
+[Tue Apr 22 23:20:25 2014]  say: ^4Ony^5sfx: no
+[Tue Apr 22 23:20:27 2014]  say: ^1M^7r ^1Ð^7innertime: YES
+[Tue Apr 22 23:20:29 2014]  say: ^4Ony^5sfx: they don't need to know that yet
+[Tue Apr 22 23:20:32 2014]  Kill: 0 2 3: ^0Toguro killed Padawan by MOD_SABER
+[Tue Apr 22 23:20:33 2014]  say: ^4Ony^5sfx: patience
+[Tue Apr 22 23:20:34 2014]  say: ^1M^7r ^1Ð^7innertime: onys
+[Tue Apr 22 23:20:34 2014]  say: ^0Toguro: oOps
+[Tue Apr 22 23:20:44 2014]  say: ^1M^7r ^1Ð^7innertime: makermod is already dead XD we need all of the talented people we can get
+[Tue Apr 22 23:20:55 2014]  Kill: 1022 2 2: <world> killed Padawan by MOD_MELEE
+[Tue Apr 22 23:20:57 2014]  say: ^4Ony^5sfx: exactly
+[Tue Apr 22 23:21:01 2014]  say: ^1M^7r ^1Ð^7innertime: >_<
+[Tue Apr 22 23:21:03 2014]  say: ^4Ony^5sfx: which is why I'm not rushing it
+[Tue Apr 22 23:21:05 2014]  say: ^1M^7r ^1Ð^7innertime: bad
+[Tue Apr 22 23:21:10 2014]  say: ^4Ony^5sfx: I want them to enjoy it so they come back
+[Tue Apr 22 23:21:14 2014]  say: ^1M^7r ^1Ð^7innertime: You're teaching them to count with their fingers
+[Tue Apr 22 23:21:15 2014]  say: ^4Ony^5sfx: if they don't come back, it's ovah
+[Tue Apr 22 23:21:19 2014]  say: ^1M^7r ^1Ð^7innertime: they'll run out of fingers eventually
+[Tue Apr 22 23:21:30 2014]  say: ^4Ony^5sfx: and when they do, they can learn the stuff we do
+[Tue Apr 22 23:21:32 2014]  say: ^1M^7r ^1Ð^7innertime: D:L
+[Tue Apr 22 23:21:32 2014]  Kill: 1022 0 2: <world> killed ^0Toguro by MOD_MELEE
+[Tue Apr 22 23:21:33 2014]  say: ^1M^7r ^1Ð^7innertime: D:
+[Tue Apr 22 23:21:34 2014]  Kill: 1022 2 6: <world> killed Padawan by MOD_BLASTER
+[Tue Apr 22 23:21:38 2014]  Kill: 1022 2 2: <world> killed Padawan by MOD_MELEE
+[Tue Apr 22 23:21:44 2014]  say: ^4Ony^5sfx: You disappoint me!
+[Tue Apr 22 23:21:47 2014]  say: ^1M^7r ^1Ð^7innertime: xD 
+[Tue Apr 22 23:21:49 2014]  Kill: 1022 2 2: <world> killed Padawan by MOD_MELEE
+[Tue Apr 22 23:21:49 2014]  Kill: 1022 0 2: <world> killed ^0Toguro by MOD_MELEE
+[Tue Apr 22 23:21:51 2014]  Kill: 0 2 37: ^0Toguro killed Padawan by MOD_TELEFRAG
+[Tue Apr 22 23:21:52 2014]  say: ^4Ony^5sfx: so be it
+[Tue Apr 22 23:21:53 2014]  say: ^1M^7r ^1Ð^7innertime: your walls are blocking my vision
+[Tue Apr 22 23:21:56 2014]  say: ^4Ony^5sfx: you will die...
+[Tue Apr 22 23:22:16 2014]  Kill: 2 0 0: Padawan killed ^0Toguro by MOD_UNKNOWN
+[Tue Apr 22 23:22:20 2014]  say: Padawan: oops
+[Tue Apr 22 23:22:29 2014]  Kill: 1022 2 6: <world> killed Padawan by MOD_BLASTER
+[Tue Apr 22 23:22:35 2014]  Kill: 3 4 3: ^4Ony^5sfx killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Tue Apr 22 23:22:36 2014]  say: ^1M^7r ^1Ð^7innertime: D:
+[Tue Apr 22 23:22:39 2014]  say: ^4Ony^5sfx: stupid saber locks
+[Tue Apr 22 23:22:39 2014]  Kill: 1022 2 2: <world> killed Padawan by MOD_MELEE
+[Tue Apr 22 23:22:41 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:22:46 2014]  say: ^1M^7r ^1Ð^7innertime: I forgot which key I bound
+[Tue Apr 22 23:22:49 2014]  say: ^1M^7r ^1Ð^7innertime: to my script
+[Tue Apr 22 23:22:54 2014]  say: ^4Ony^5sfx: for your little saber block saver
+[Tue Apr 22 23:22:57 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:22:58 2014]  Kill: 1022 0 6: <world> killed ^0Toguro by MOD_BLASTER
+[Tue Apr 22 23:23:02 2014]  say: ^4Ony^5sfx: I tried out JKG by the way
+[Tue Apr 22 23:23:03 2014]  say: ^0Sakyo: xDD
+[Tue Apr 22 23:23:06 2014]  say: ^4Ony^5sfx: you tried it yet?
+[Tue Apr 22 23:23:06 2014]  print "^0Toguro^7 @@@PLRENAME Padawan
+"[Tue Apr 22 23:23:08 2014]  print "^0Sakyo^7 @@@PLRENAME Padawan
+"[Tue Apr 22 23:23:11 2014]  ClientDisconnect: 1
+[Tue Apr 22 23:23:13 2014]  say: Padawan: Peace out homedogs
+[Tue Apr 22 23:23:13 2014]  say: ^1M^7r ^1Ð^7innertime: Yes. Months ago. I didn't like i
+[Tue Apr 22 23:23:14 2014]  say: ^4Ony^5sfx: it's pretty sweet
+[Tue Apr 22 23:23:14 2014]  say: ^1M^7r ^1Ð^7innertime: it*
+[Tue Apr 22 23:23:16 2014]  ClientDisconnect: 0
+[Tue Apr 22 23:23:16 2014]  say: ^1M^7r ^1Ð^7innertime: cya
+[Tue Apr 22 23:23:30 2014]  say: ^4Ony^5sfx: ah, I tried the new one released in march
+[Tue Apr 22 23:23:35 2014]  Kill: 2 4 2: Padawan killed ^1M^7r ^1Ð^7innertime by MOD_MELEE
+[Tue Apr 22 23:23:37 2014]  say: ^1M^7r ^1Ð^7innertime: !?!?
+[Tue Apr 22 23:23:40 2014]  Kill: 1022 2 6: <world> killed Padawan by MOD_BLASTER
+[Tue Apr 22 23:23:43 2014]  say: ^1M^7r ^1Ð^7innertime: Fine. if that's how you want it D:
+[Tue Apr 22 23:23:46 2014]  say: ^4Ony^5sfx: you can customize inventory and what not, and even buy stormtrooper armor
+[Tue Apr 22 23:23:55 2014]  say: ^4Ony^5sfx: but like, when you buy it, you get individual pieces
+[Tue Apr 22 23:24:01 2014]  Kill: 1022 2 0: <world> killed Padawan by MOD_UNKNOWN
+[Tue Apr 22 23:24:02 2014]  say: ^4Ony^5sfx: so you can just wear stormtrooper gloves
+[Tue Apr 22 23:24:21 2014]  Kill: 1022 2 0: <world> killed Padawan by MOD_UNKNOWN
+[Tue Apr 22 23:24:24 2014]  say: ^1M^7r ^1Ð^7innertime: oh ._.
+[Tue Apr 22 23:24:25 2014]  say: ^1M^7r ^1Ð^7innertime: sorry
+[Tue Apr 22 23:24:32 2014]  say: ^1M^7r ^1Ð^7innertime: I didn't realise you were getting on D:
+[Tue Apr 22 23:24:33 2014]  say: ^4Ony^5sfx: where did sakoru go?
+[Tue Apr 22 23:24:33 2014]  say: ^1M^7r ^1Ð^7innertime: don't leave
+[Tue Apr 22 23:24:48 2014]  say: Padawan: can you do this on something else
+[Tue Apr 22 23:24:57 2014]  say: ^1M^7r ^1Ð^7innertime: Yes. Can you shoot something else with your x-wing?
+[Tue Apr 22 23:25:36 2014]  say: ^4Ony^5sfx: but ya dinner, JKG is pretty sweet
+[Tue Apr 22 23:25:38 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Apr 22 23:25:40 2014]  say: ^4Ony^5sfx: not much to do of course
+[Tue Apr 22 23:25:51 2014]  say: ^4Ony^5sfx: just kill eachother, and use the credits to buy new stuff
+[Tue Apr 22 23:25:55 2014]  say: ^4Ony^5sfx: but its cool
+[Tue Apr 22 23:26:14 2014]  say: ^4Ony^5sfx: I bought myself a rebel helmet, stormtrooper gloves, and smoke grenades, and a saber
+[Tue Apr 22 23:26:24 2014]  say: ^1M^7r ^1Ð^7innertime: I don't like it because nothing gets saved ._.
+[Tue Apr 22 23:26:30 2014]  say: ^1M^7r ^1Ð^7innertime: I prefer to work towards something
+[Tue Apr 22 23:26:38 2014]  say: Padawan: what cmd can i use to spawn some turrets
+[Tue Apr 22 23:26:40 2014]  say: ^4Ony^5sfx: ya...too early in alpha right now
+[Tue Apr 22 23:26:49 2014]  say: ^4Ony^5sfx: oh well first you have to make sure /mgrabbing is set to 0
+[Tue Apr 22 23:26:53 2014]  say: ^4Ony^5sfx: then you gotta /mmark
+[Tue Apr 22 23:26:55 2014]  say: ^4Ony^5sfx: AND THEN
+[Tue Apr 22 23:26:58 2014]  say: ^4Ony^5sfx: /mplace turret
+[Tue Apr 22 23:27:05 2014]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 22 23:27:13 2014]  Kill: 1022 3 7: <world> killed ^4Ony^5sfx by MOD_TURBLAST
+[Tue Apr 22 23:27:18 2014]  say: ^4Ony^5sfx: deathturrets are cheap
+[Tue Apr 22 23:27:19 2014]  Kill: 1022 3 7: <world> killed ^4Ony^5sfx by MOD_TURBLAST
+[Tue Apr 22 23:27:21 2014]  say: ^1M^7r ^1Ð^7innertime: yes
+[Tue Apr 22 23:27:23 2014]  say: ^4Ony^5sfx: kill that thing
+[Tue Apr 22 23:27:25 2014]  say: Padawan: please destroy that thing
+[Tue Apr 22 23:27:25 2014]  say: ^1M^7r ^1Ð^7innertime: just like your mother
+[Tue Apr 22 23:27:26 2014]  say: ^1M^7r ^1Ð^7innertime: >;o
+[Tue Apr 22 23:27:28 2014]  say: Padawan: i cant exit
+[Tue Apr 22 23:27:35 2014]  say: ^4Ony^5sfx: bugged xwing
+[Tue Apr 22 23:27:37 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:27:38 2014]  say: ^4Ony^5sfx: only one solution
+[Tue Apr 22 23:27:46 2014]  Kill: 3 2 6: ^4Ony^5sfx killed Padawan by MOD_BLASTER
+[Tue Apr 22 23:27:46 2014]  Kill: 1022 3 39: <world> killed ^4Ony^5sfx by MOD_SUICIDE
+[Tue Apr 22 23:27:48 2014]  say: ^1M^7r ^1Ð^7innertime: oops
+[Tue Apr 22 23:27:49 2014]  say: Padawan: XD
+[Tue Apr 22 23:28:12 2014]  Kill: 1022 2 0: <world> killed Padawan by MOD_UNKNOWN
+[Tue Apr 22 23:28:17 2014]  say: ^1M^7r ^1Ð^7innertime: Hey, Onys
+[Tue Apr 22 23:28:19 2014]  say: ^4Ony^5sfx: you have to make sure /mgrabbing is off
+[Tue Apr 22 23:28:22 2014]  say: ^4Ony^5sfx: and /mmark
+[Tue Apr 22 23:28:22 2014]  say: ^1M^7r ^1Ð^7innertime: My cannon vs your cannon
+[Tue Apr 22 23:28:23 2014]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 22 23:28:26 2014]  say: ^4Ony^5sfx: then place the turret
+[Tue Apr 22 23:28:37 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:28:38 2014]  say: ^4Ony^5sfx: I don't think either would win
+[Tue Apr 22 23:28:40 2014]  say: ^1M^7r ^1Ð^7innertime: wrong
+[Tue Apr 22 23:28:42 2014]  say: ^1M^7r ^1Ð^7innertime: mine wion
+[Tue Apr 22 23:28:43 2014]  say: ^1M^7r ^1Ð^7innertime: won*
+[Tue Apr 22 23:28:43 2014]  say: ^4Ony^5sfx: oh
+[Tue Apr 22 23:28:44 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:28:59 2014]  say: ^4Ony^5sfx: but ya, JKG is just in versus right now
+[Tue Apr 22 23:29:02 2014]  say: ^1M^7r ^1Ð^7innertime: oh
+[Tue Apr 22 23:29:04 2014]  say: ^4Ony^5sfx: nothing  really to do
+[Tue Apr 22 23:29:14 2014]  say: ^4Ony^5sfx: but you can buy stuff from a shop
+[Tue Apr 22 23:29:51 2014]  Kill: 3 4 3: ^4Ony^5sfx killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Tue Apr 22 23:29:52 2014]  say: ^1M^7r ^1Ð^7innertime: !?!?!?
+[Tue Apr 22 23:29:58 2014]  say: ^4Ony^5sfx: these duels are pointless
+[Tue Apr 22 23:29:59 2014]  say: ^1M^7r ^1Ð^7innertime: How'd you beat my 100 attacks per second
+[Tue Apr 22 23:30:04 2014]  say: ^1M^7r ^1Ð^7innertime: D:
+[Tue Apr 22 23:30:07 2014]  say: ^4Ony^5sfx: I dunno, I just clicked
+[Tue Apr 22 23:30:09 2014]  say: ^1M^7r ^1Ð^7innertime: D:
+[Tue Apr 22 23:30:11 2014]  say: ^4Ony^5sfx: lazily
+[Tue Apr 22 23:30:15 2014]  say: ^4Ony^5sfx: You disappoint me!
+[Tue Apr 22 23:30:18 2014]  say: ^1M^7r ^1Ð^7innertime: wow D:
+[Tue Apr 22 23:30:37 2014]  say: ^4Ony^5sfx: wait dinner
+[Tue Apr 22 23:30:39 2014]  say: ^1M^7r ^1Ð^7innertime: ?
+[Tue Apr 22 23:30:43 2014]  say: ^4Ony^5sfx: could you try the newest JKG with me?
+[Tue Apr 22 23:30:46 2014]  say: ^1M^7r ^1Ð^7innertime: <_<
+[Tue Apr 22 23:31:01 2014]  say: Padawan: whats jkg?
+[Tue Apr 22 23:31:02 2014]  say: ^1M^7r ^1Ð^7innertime: I'd rather just quit jka and play diablo 2
+[Tue Apr 22 23:31:04 2014]  say: ^1M^7r ^1Ð^7innertime: I like diablo 2 XD
+[Tue Apr 22 23:31:07 2014]  say: ^4Ony^5sfx: it's an easy download, you just download it, and copy over the base jka assets into its base folder, you can place it on y- oh
+[Tue Apr 22 23:31:16 2014]  Kill: 1022 4 40: <world> killed ^1M^7r ^1Ð^7innertime by MOD_TARGET_LASER
+[Tue Apr 22 23:31:18 2014]  say: ^1M^7r ^1Ð^7innertime: Hey, Onys
+[Tue Apr 22 23:31:24 2014]  say: ^1M^7r ^1Ð^7innertime: Mutant rancor vs my cannon
+[Tue Apr 22 23:31:27 2014]  say: ^4Ony^5sfx: oh JKG padawan, is basically jedi knight galaxies. Kinda like Star Wars Galaxies, but for JKA
+[Tue Apr 22 23:31:36 2014]  say: ^4Ony^5sfx: and much better, but it's still under development
+[Tue Apr 22 23:31:38 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:31:44 2014]  say: Padawan: modification?
+[Tue Apr 22 23:31:47 2014]  say: ^4Ony^5sfx: ya
+[Tue Apr 22 23:31:57 2014]  say: ^1M^7r ^1Ð^7innertime: YAY
+[Tue Apr 22 23:31:58 2014]  Kill: 1022 3 40: <world> killed ^4Ony^5sfx by MOD_TARGET_LASER
+[Tue Apr 22 23:32:00 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:32:01 2014]  say: ^4Ony^5sfx: oh
+[Tue Apr 22 23:32:11 2014]  say: ^4Ony^5sfx: I had notarget on though
+[Tue Apr 22 23:32:13 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:32:24 2014]  Kill: 1022 3 40: <world> killed ^4Ony^5sfx by MOD_TARGET_LASER
+[Tue Apr 22 23:32:43 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:32:46 2014]  Kill: 1022 2 0: <world> killed Padawan by MOD_UNKNOWN
+[Tue Apr 22 23:32:48 2014]  say: ^4Ony^5sfx: starbound has yet to recieve some major updates
+[Tue Apr 22 23:32:56 2014]  Kill: 1022 2 0: <world> killed Padawan by MOD_UNKNOWN
+[Tue Apr 22 23:32:57 2014]  say: ^4Ony^5sfx: lol look dinner
+[Tue Apr 22 23:32:59 2014]  say: Padawan: please
+[Tue Apr 22 23:32:59 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Apr 22 23:33:04 2014]  say: ^4Ony^5sfx: owned
+[Tue Apr 22 23:33:07 2014]  Kill: 1022 2 40: <world> killed Padawan by MOD_TARGET_LASER
+[Tue Apr 22 23:33:07 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:33:09 2014]  say: ^4Ony^5sfx: I'm deflecting all of em
+[Tue Apr 22 23:33:11 2014]  say: ^1M^7r ^1Ð^7innertime: He keeps trying to get in
+[Tue Apr 22 23:33:18 2014]  say: ^4Ony^5sfx: I can get in
+[Tue Apr 22 23:33:21 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:33:26 2014]  Kill: 1022 2 0: <world> killed Padawan by MOD_UNKNOWN
+[Tue Apr 22 23:33:28 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:33:31 2014]  say: Padawan: ou
+[Tue Apr 22 23:33:50 2014]  say: ^4Ony^5sfx: oh but your invincible
+[Tue Apr 22 23:33:52 2014]  Kill: 1022 2 40: <world> killed Padawan by MOD_TARGET_LASER
+[Tue Apr 22 23:33:52 2014]  say: ^1M^7r ^1Ð^7innertime: Yes
+[Tue Apr 22 23:33:54 2014]  say: ^1M^7r ^1Ð^7innertime: #shield
+[Tue Apr 22 23:33:58 2014]  say: ^1M^7r ^1Ð^7innertime: and
+[Tue Apr 22 23:34:03 2014]  say: ^1M^7r ^1Ð^7innertime: ''You're''
+[Tue Apr 22 23:34:06 2014]  say: ^1M^7r ^1Ð^7innertime: You are
+[Tue Apr 22 23:34:08 2014]  Kill: 1022 3 0: <world> killed ^4Ony^5sfx by MOD_UNKNOWN
+[Tue Apr 22 23:34:14 2014]  say: ^4Ony^5sfx: oh ya...*shoots himself*
+[Tue Apr 22 23:34:16 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:34:21 2014]  say: ^1M^7r ^1Ð^7innertime: You know
+[Tue Apr 22 23:34:21 2014]  say: ^4Ony^5sfx: I disappoint me!
+[Tue Apr 22 23:34:24 2014]  say: Padawan: we need more turrets
+[Tue Apr 22 23:34:30 2014]  say: ^4Ony^5sfx: oh by the way, I was banned from AOD
+[Tue Apr 22 23:34:33 2014]  say: ^1M^7r ^1Ð^7innertime: Exodus said this, earlier
+[Tue Apr 22 23:34:36 2014]  say: ^4Ony^5sfx: ?
+[Tue Apr 22 23:34:40 2014]  say: ^1M^7r ^1Ð^7innertime: Me and Tusken are getting The Hidden: Source, Age of CHivalry <hl2 mod>, and Synergy <hl2 mod>
+[Tue Apr 22 23:34:44 2014]  say: ^1M^7r ^1Ð^7innertime: So I said
+[Tue Apr 22 23:34:49 2014]  say: ^1M^7r ^1Ð^7innertime:  Me am going to play Diablo for a while
+[Tue Apr 22 23:34:54 2014]  say: ^1M^7r ^1Ð^7innertime: he didn't get it
+[Tue Apr 22 23:34:55 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Apr 22 23:35:05 2014]  say: ^4Ony^5sfx: is it supposed to be a joke?
+[Tue Apr 22 23:35:12 2014]  say: ^4Ony^5sfx: because if it is, I don't get it either
+[Tue Apr 22 23:35:17 2014]  say: ^1M^7r ^1Ð^7innertime: Yes <_< The correct form would be 'Tusken and I'
+[Tue Apr 22 23:35:25 2014]  say: ^1M^7r ^1Ð^7innertime: not 'me and Tusken'
+[Tue Apr 22 23:35:39 2014]  say: ^4Ony^5sfx: I've heard of all those mods xD
+[Tue Apr 22 23:35:41 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:35:43 2014]  say: ^4Ony^5sfx: never got em though
+[Tue Apr 22 23:35:48 2014]  say: ^1M^7r ^1Ð^7innertime: Uhm
+[Tue Apr 22 23:35:49 2014]  say: ^1M^7r ^1Ð^7innertime: Onys
+[Tue Apr 22 23:35:51 2014]  say: ^4Ony^5sfx: are they all for half life 2 and not episode 2?
+[Tue Apr 22 23:35:53 2014]  say: ^4Ony^5sfx: ya?
+[Tue Apr 22 23:35:56 2014]  say: ^1M^7r ^1Ð^7innertime: Can I please nuke the crud out of these turrets?
+[Tue Apr 22 23:35:59 2014]  say: ^1M^7r ^1Ð^7innertime: they're starting to lag
+[Tue Apr 22 23:36:01 2014]  say: ^4Ony^5sfx: go ahead
+[Tue Apr 22 23:36:03 2014]  say: ^1M^7r ^1Ð^7innertime: ty
+[Tue Apr 22 23:36:18 2014]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Tue Apr 22 23:36:28 2014]  Kill: 1022 3 40: <world> killed ^4Ony^5sfx by MOD_TARGET_LASER
+[Tue Apr 22 23:36:29 2014]  say: ^1M^7r ^1Ð^7innertime: prepare for more lag XD My cannon's nuke is pretty heavy
+[Tue Apr 22 23:36:32 2014]  say: Padawan: what is t?
+[Tue Apr 22 23:36:36 2014]  say: ^4Ony^5sfx: OPEN FIRE!
+[Tue Apr 22 23:36:39 2014]  say: ^1M^7r ^1Ð^7innertime: crud XD
+[Tue Apr 22 23:36:40 2014]  say: ^4Ony^5sfx: do it.
+[Tue Apr 22 23:36:41 2014]  say: ^1M^7r ^1Ð^7innertime: Wrong script
+[Tue Apr 22 23:36:46 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:36:49 2014]  say: ^4Ony^5sfx: Surely you can do bettah
+[Tue Apr 22 23:36:57 2014]  say: ^1M^7r ^1Ð^7innertime: FIRE
+[Tue Apr 22 23:37:12 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:37:29 2014]  say: ^1M^7r ^1Ð^7innertime: D: The turrets live
+[Tue Apr 22 23:37:38 2014]  say: Padawan: wow this is massive :>>
+[Tue Apr 22 23:37:39 2014]  say: ^1M^7r ^1Ð^7innertime: Hey, Onys
+[Tue Apr 22 23:37:41 2014]  say: ^1M^7r ^1Ð^7innertime: quick question
+[Tue Apr 22 23:37:50 2014]  say: ^1M^7r ^1Ð^7innertime: Do turrets get damaged by moving objects?
+[Tue Apr 22 23:38:02 2014]  say: Padawan:  i think not
+[Tue Apr 22 23:38:04 2014]  say: ^1M^7r ^1Ð^7innertime: D:
+[Tue Apr 22 23:38:09 2014]  Kill: 1022 2 36: <world> killed Padawan by MOD_CRUSH
+[Tue Apr 22 23:38:10 2014]  Kill: 1022 2 36: <world> killed Padawan by MOD_CRUSH
+[Tue Apr 22 23:38:11 2014]  Kill: 1022 2 36: <world> killed Padawan by MOD_CRUSH
+[Tue Apr 22 23:38:12 2014]  Kill: 1022 2 36: <world> killed Padawan by MOD_CRUSH
+[Tue Apr 22 23:38:13 2014]  Kill: 1022 2 36: <world> killed Padawan by MOD_CRUSH
+[Tue Apr 22 23:38:18 2014]  say: ^1M^7r ^1Ð^7innertime: nope XD
+[Tue Apr 22 23:38:21 2014]  say: ^1M^7r ^1Ð^7innertime: bah
+[Tue Apr 22 23:38:32 2014]  say: ^1M^7r ^1Ð^7innertime: <_<
+[Tue Apr 22 23:38:41 2014]  say: ^1M^7r ^1Ð^7innertime: if this was my server, I could easily ki blast the crud out of them
+[Tue Apr 22 23:38:42 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:38:44 2014]  say: ^4Ony^5sfx: went afk to get pie, back
+[Tue Apr 22 23:38:47 2014]  say: ^1M^7r ^1Ð^7innertime: welcome back
+[Tue Apr 22 23:38:49 2014]  say: ^4Ony^5sfx: ya indeed
+[Tue Apr 22 23:38:52 2014]  say: ^4Ony^5sfx: by the way
+[Tue Apr 22 23:38:53 2014]  say: ^1M^7r ^1Ð^7innertime: ?
+[Tue Apr 22 23:38:56 2014]  say: ^4Ony^5sfx: I played through republic commando
+[Tue Apr 22 23:38:59 2014]  say: ^1M^7r ^1Ð^7innertime: nice :D
+[Tue Apr 22 23:39:03 2014]  say: ^4Ony^5sfx: and I downloaded kotor
+[Tue Apr 22 23:39:07 2014]  say: ^1M^7r ^1Ð^7innertime: I once played RC
+[Tue Apr 22 23:39:09 2014]  say: ^4Ony^5sfx: and it failed to run AGAIN
+[Tue Apr 22 23:39:20 2014]  say: ^1M^7r ^1Ð^7innertime: My only regret is that I never completed it without cheats before I lost the disks
+[Tue Apr 22 23:39:21 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Apr 22 23:39:27 2014]  say: ^4Ony^5sfx: lol
+[Tue Apr 22 23:39:36 2014]  say: ^4Ony^5sfx: my second time completing it, I played it years ago too
+[Tue Apr 22 23:39:39 2014]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 22 23:39:44 2014]  say: ^4Ony^5sfx: I found it a bit repetitive
+[Tue Apr 22 23:39:47 2014]  say: ^4Ony^5sfx: the fights and what not
+[Tue Apr 22 23:40:05 2014]  say: ^1M^7r ^1Ð^7innertime: Hmm
+[Tue Apr 22 23:40:06 2014]  say: ^1M^7r ^1Ð^7innertime: Onys
+[Tue Apr 22 23:40:09 2014]  say: ^1M^7r ^1Ð^7innertime: I just had a thought
+[Tue Apr 22 23:40:09 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:40:14 2014]  say: ^4Ony^5sfx: and that one part where you had to try and kill palpatine and sev died was boring
+[Tue Apr 22 23:40:17 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:40:18 2014]  say: ^4Ony^5sfx: and ya?
+[Tue Apr 22 23:40:23 2014]  say: ^4Ony^5sfx: and jk, that never happened
+[Tue Apr 22 23:40:31 2014]  say: ^4Ony^5sfx: but sev does die *spoiler*
+[Tue Apr 22 23:40:34 2014]  say: ^1M^7r ^1Ð^7innertime: I could make a powerup script... but where I powerup over time
+[Tue Apr 22 23:40:37 2014]  say: ^1M^7r ^1Ð^7innertime: instead of all at once
+[Tue Apr 22 23:40:42 2014]  say: ^4Ony^5sfx: anyway, what is it?...oh
+[Tue Apr 22 23:40:42 2014]  say: ^1M^7r ^1Ð^7innertime: I could make my armour increase rapidly
+[Tue Apr 22 23:40:43 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:41:00 2014]  ClientDisconnect: 2
+[Tue Apr 22 23:41:23 2014]  say: ^1M^7r ^1Ð^7innertime: :3
+[Tue Apr 22 23:41:28 2014]  say: ^1M^7r ^1Ð^7innertime: Your reborns are puny XD
+[Tue Apr 22 23:41:38 2014]  say: ^4Ony^5sfx: well, still, when you downloaded JK galaxies, were your able to buy stuff from a shop?
+[Tue Apr 22 23:41:41 2014]  say: ^1M^7r ^1Ð^7innertime: Yep
+[Tue Apr 22 23:41:44 2014]  say: ^4Ony^5sfx: oh
+[Tue Apr 22 23:41:45 2014]  say: ^1M^7r ^1Ð^7innertime: it was still boring
+[Tue Apr 22 23:41:57 2014]  say: ^4Ony^5sfx: just nothing to do that's why
+[Tue Apr 22 23:42:01 2014]  say: ^4Ony^5sfx: same reason lugormod gets boring
+[Tue Apr 22 23:42:07 2014]  say: ^1M^7r ^1Ð^7innertime: JKG is an insult to the word 'galaxies'
+[Tue Apr 22 23:42:12 2014]  say: ^1M^7r ^1Ð^7innertime: they promised an open world
+[Tue Apr 22 23:42:15 2014]  say: ^1M^7r ^1Ð^7innertime: and gave us maps
+[Tue Apr 22 23:42:26 2014]  say: ^4Ony^5sfx: well ya, that was before the team couldn't huld on any longah
+[Tue Apr 22 23:42:28 2014]  Kill: 4 3 3: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_SABER
+[Tue Apr 22 23:42:32 2014]  say: ^4Ony^5sfx: and instead they went for the phase system
+[Tue Apr 22 23:42:34 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:42:40 2014]  say: ^4Ony^5sfx: at least they didn't let it die and open sourced it
+[Tue Apr 22 23:42:44 2014]  Kill: 3 4 3: ^4Ony^5sfx killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Tue Apr 22 23:42:55 2014]  say: ^4Ony^5sfx: maybe your script is too fast for the server
+[Tue Apr 22 23:42:57 2014]  say: ^1M^7r ^1Ð^7innertime: <_<
+[Tue Apr 22 23:42:58 2014]  say: ^4Ony^5sfx: lol
+[Tue Apr 22 23:42:59 2014]  say: ^1M^7r ^1Ð^7innertime: that's bullcrud
+[Tue Apr 22 23:43:15 2014]  Kill: 4 3 3: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_SABER
+[Tue Apr 22 23:43:26 2014]  say: ^4Ony^5sfx: I'm going to be downloading retro maps for JKA eventually, just to play again
+[Tue Apr 22 23:43:31 2014]  say: ^4Ony^5sfx: such as atlantica
+[Tue Apr 22 23:43:40 2014]  say: ^1M^7r ^1Ð^7innertime: Atlantica :(
+[Tue Apr 22 23:43:44 2014]  say: ^4Ony^5sfx: biggest map for JKA I thin
+[Tue Apr 22 23:43:46 2014]  say: ^1M^7r ^1Ð^7innertime: Brings me back to my youthier days
+[Tue Apr 22 23:43:48 2014]  say: ^4Ony^5sfx: also the longest loading
+[Tue Apr 22 23:44:03 2014]  say: ^1M^7r ^1Ð^7innertime: Playing on rpg continuum / resurrection rp / Inception rp 
+[Tue Apr 22 23:44:15 2014]  say: ^4Ony^5sfx: Ya well in my early days of RP
+[Tue Apr 22 23:44:19 2014]  say: ^4Ony^5sfx: I was excluded so hard
+[Tue Apr 22 23:44:21 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Apr 22 23:44:24 2014]  say: ^4Ony^5sfx: It began my trolling career
+[Tue Apr 22 23:44:31 2014]  say: ^1M^7r ^1Ð^7innertime: I used to spend weeks on my character bios
+[Tue Apr 22 23:44:32 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:44:42 2014]  Kill: 4 3 3: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_SABER
+[Tue Apr 22 23:44:48 2014]  say: ^4Ony^5sfx: rule number 1 of JKA rp: Don't get attached to your character
+[Tue Apr 22 23:44:52 2014]  say: ^1M^7r ^1Ð^7innertime: LOL
+[Tue Apr 22 23:44:56 2014]  say: ^1M^7r ^1Ð^7innertime: onys
+[Tue Apr 22 23:45:03 2014]  say: ^4Ony^5sfx: I used to be a mando most of the time. Sadly, I ended up on sith temples
+[Tue Apr 22 23:45:13 2014]  say: ^4Ony^5sfx: where I wanted bounties, and they would kill me
+[Tue Apr 22 23:45:15 2014]  say: ^1M^7r ^1Ð^7innertime: I sucked at saber combat. I'd be lucky if I so much as scratched my opponent
+[Tue Apr 22 23:45:23 2014]  say: ^4Ony^5sfx: they seriously acted like sith, showing no mercy
+[Tue Apr 22 23:45:24 2014]  say: ^1M^7r ^1Ð^7innertime: like
+[Tue Apr 22 23:45:29 2014]  say: ^1M^7r ^1Ð^7innertime: 8/10 times, a sith would capture me
+[Tue Apr 22 23:45:31 2014]  say: ^1M^7r ^1Ð^7innertime: and I'd be like
+[Tue Apr 22 23:45:32 2014]  say: ^1M^7r ^1Ð^7innertime: well
+[Tue Apr 22 23:45:35 2014]  say: ^1M^7r ^1Ð^7innertime: time to make a new bio
+[Tue Apr 22 23:45:43 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Apr 22 23:45:53 2014]  Kill: 4 3 3: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_SABER
+[Tue Apr 22 23:45:53 2014]  say: ^4Ony^5sfx: but the experienced RP jedi masters nevah die
+[Tue Apr 22 23:45:59 2014]  say: ^1M^7r ^1Ð^7innertime: Well
+[Tue Apr 22 23:46:08 2014]  say: ^1M^7r ^1Ð^7innertime: basically those servers were japlus
+[Tue Apr 22 23:46:12 2014]  say: ^1M^7r ^1Ð^7innertime: and poking was forbidden
+[Tue Apr 22 23:46:14 2014]  say: ^1M^7r ^1Ð^7innertime: so yeah...
+[Tue Apr 22 23:46:20 2014]  say: ^4Ony^5sfx: ya all the servers I played on were japlus too
+[Tue Apr 22 23:46:21 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:46:31 2014]  Kill: 4 3 3: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_SABER
+[Tue Apr 22 23:46:33 2014]  say: ^4Ony^5sfx: rarely was one for OJP/JKRP
+[Tue Apr 22 23:46:38 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:46:42 2014]  say: ^4Ony^5sfx: when there was, it died pretty quick
+[Tue Apr 22 23:46:48 2014]  say: ^1M^7r ^1Ð^7innertime: I remember when my rpg server switched to OJP for a brief while
+[Tue Apr 22 23:47:02 2014]  say: ^1M^7r ^1Ð^7innertime: we switched to forcemod after that
+[Tue Apr 22 23:47:04 2014]  say: ^1M^7r ^1Ð^7innertime: and then back to japlus
+[Tue Apr 22 23:47:16 2014]  say: ^4Ony^5sfx: pretty much every RP server was on either sith council or jedis home II
+[Tue Apr 22 23:47:19 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:47:21 2014]  say: ^4Ony^5sfx: or taris rp
+[Tue Apr 22 23:47:26 2014]  say: ^4Ony^5sfx: taris rp is good though
+[Tue Apr 22 23:47:28 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:47:30 2014]  say: ^1M^7r ^1Ð^7innertime: to be fair
+[Tue Apr 22 23:47:33 2014]  say: ^4Ony^5sfx: I'm not stuck in the jedi temple
+[Tue Apr 22 23:47:38 2014]  say: ^1M^7r ^1Ð^7innertime: almost everybody on my server wanted to be a jedi
+[Tue Apr 22 23:47:45 2014]  say: ^1M^7r ^1Ð^7innertime: and the republic were allies with the jedi
+[Tue Apr 22 23:47:49 2014]  say: ^1M^7r ^1Ð^7innertime: and hence had access to the temple
+[Tue Apr 22 23:47:58 2014]  say: ^1M^7r ^1Ð^7innertime: so there was never really any reason to not be on it
+[Tue Apr 22 23:48:08 2014]  say: ^4Ony^5sfx: or wait no, I ran into servers that used rpg_jedipyramidv2
+[Tue Apr 22 23:48:11 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:48:11 2014]  say: ^4Ony^5sfx: or w/e it was
+[Tue Apr 22 23:48:14 2014]  say: ^1M^7r ^1Ð^7innertime: I used to love that map
+[Tue Apr 22 23:48:19 2014]  say: ^4Ony^5sfx: the one with the city and jedi pyramid, and ya same
+[Tue Apr 22 23:48:21 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:48:29 2014]  say: ^4Ony^5sfx: I went into the jedi temple, and stole some crystals
+[Tue Apr 22 23:48:34 2014]  say: ^1M^7r ^1Ð^7innertime: My first rpg experince was on that map
+[Tue Apr 22 23:48:36 2014]  say: ^4Ony^5sfx: and the jedi got me
+[Tue Apr 22 23:48:37 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:48:42 2014]  say: ^4Ony^5sfx: then the sith came in and killed my character
+[Tue Apr 22 23:48:45 2014]  say: ^4Ony^5sfx: so sad :(
+[Tue Apr 22 23:48:54 2014]  say: ^1M^7r ^1Ð^7innertime: Did you ever play on rpg continuum / resurrection RP / inception RP?
+[Tue Apr 22 23:49:02 2014]  say: ^4Ony^5sfx: continuum
+[Tue Apr 22 23:49:04 2014]  say: ^1M^7r ^1Ð^7innertime: ah XD
+[Tue Apr 22 23:49:17 2014]  say: ^1M^7r ^1Ð^7innertime: I doubt you ever knew me but I had 3 characters that I remember
+[Tue Apr 22 23:49:18 2014]  say: ^4Ony^5sfx: I played when it was on taris_rp
+[Tue Apr 22 23:49:18 2014]  say: ^1M^7r ^1Ð^7innertime: well 2 <_<
+[Tue Apr 22 23:49:25 2014]  say: ^4Ony^5sfx: what were they? names
+[Tue Apr 22 23:49:28 2014]  say: ^1M^7r ^1Ð^7innertime: zeusii devine, Xanté and some other guy
+[Tue Apr 22 23:49:29 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:49:48 2014]  say: ^4Ony^5sfx: nope, doesn't ring a bell, cept for xante, might have heard it
+[Tue Apr 22 23:49:50 2014]  say: ^1M^7r ^1Ð^7innertime: ah XD
+[Tue Apr 22 23:49:58 2014]  say: ^1M^7r ^1Ð^7innertime: Xanté basically built his own ship
+[Tue Apr 22 23:50:07 2014]  say: ^1M^7r ^1Ð^7innertime: that's all I remember xD
+[Tue Apr 22 23:50:18 2014]  say: ^1M^7r ^1Ð^7innertime: I used to spend like 60 seconds roleplaying my landing sequence
+[Tue Apr 22 23:50:18 2014]  say: ^4Ony^5sfx: my characters were Renak, Zanak, and...ya
+[Tue Apr 22 23:50:19 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:50:25 2014]  say: ^4Ony^5sfx: both mando's, both died from sith
+[Tue Apr 22 23:50:31 2014]  say: ^4Ony^5sfx: one was burned to death at sith council
+[Tue Apr 22 23:50:34 2014]  say: ^1M^7r ^1Ð^7innertime: :(
+[Tue Apr 22 23:50:35 2014]  say: ^4Ony^5sfx: the other dismembered
+[Tue Apr 22 23:50:35 2014]  say: ^1M^7r ^1Ð^7innertime: Omg
+[Tue Apr 22 23:50:39 2014]  say: ^1M^7r ^1Ð^7innertime: remember Nekt?
+[Tue Apr 22 23:50:42 2014]  say: ^4Ony^5sfx: I think I had another character
+[Tue Apr 22 23:50:44 2014]  say: ^1M^7r ^1Ð^7innertime: or whatever he was calld
+[Tue Apr 22 23:50:47 2014]  say: ^1M^7r ^1Ð^7innertime: called*
+[Tue Apr 22 23:50:51 2014]  say: ^4Ony^5sfx: he was forced into the rancor chamber on sith council
+[Tue Apr 22 23:50:52 2014]  say: ^1M^7r ^1Ð^7innertime: Was it nekt?
+[Tue Apr 22 23:50:54 2014]  say: ^4Ony^5sfx: and eaten
+[Tue Apr 22 23:50:56 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:51:02 2014]  say: ^4Ony^5sfx: nope don't remember him
+[Tue Apr 22 23:51:04 2014]  say: ^1M^7r ^1Ð^7innertime: ah
+[Tue Apr 22 23:51:10 2014]  say: ^4Ony^5sfx: all my characters had sad deaths
+[Tue Apr 22 23:51:13 2014]  say: ^1M^7r ^1Ð^7innertime: he was basically a lord of the sith
+[Tue Apr 22 23:51:18 2014]  say: ^1M^7r ^1Ð^7innertime: basically
+[Tue Apr 22 23:51:25 2014]  say: ^1M^7r ^1Ð^7innertime: every time I was on the same map as him
+[Tue Apr 22 23:51:33 2014]  say: ^1M^7r ^1Ð^7innertime: I would make it a point to stay out of his way XD
+[Tue Apr 22 23:51:36 2014]  say: ^1M^7r ^1Ð^7innertime: since I was a jedi
+[Tue Apr 22 23:51:39 2014]  say: ^1M^7r ^1Ð^7innertime: and I knew he'd kill me
+[Tue Apr 22 23:51:45 2014]  say: ^4Ony^5sfx: only had one rp friend, a guy using a quilen vos model
+[Tue Apr 22 23:51:47 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:52:00 2014]  say: ^1M^7r ^1Ð^7innertime: I used a qua'ren model at the end
+[Tue Apr 22 23:52:02 2014]  say: ^1M^7r ^1Ð^7innertime: with zeusii
+[Tue Apr 22 23:52:19 2014]  say: ^1M^7r ^1Ð^7innertime: he had the power to teleport and (shamefully) the ability to kamehameha with force shockwave
+[Tue Apr 22 23:52:22 2014]  say: ^1M^7r ^1Ð^7innertime: <_< Lol
+[Tue Apr 22 23:52:28 2014]  say: ^4Ony^5sfx: my jedi model back then was the same I'm using now
+[Tue Apr 22 23:52:31 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:52:34 2014]  say: ^4Ony^5sfx: cept I had white arms
+[Tue Apr 22 23:52:37 2014]  say: ^4Ony^5sfx: instead of this blue I now have
+[Tue Apr 22 23:52:41 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:52:50 2014]  say: ^4Ony^5sfx: in fact, that's the reason I chose blue
+[Tue Apr 22 23:52:53 2014]  say: ^4Ony^5sfx: some guy was using the exact same model as me
+[Tue Apr 22 23:52:55 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:52:56 2014]  say: ^4Ony^5sfx: with white arms
+[Tue Apr 22 23:53:00 2014]  say: ^4Ony^5sfx: so I had to change it
+[Tue Apr 22 23:53:03 2014]  say: ^1M^7r ^1Ð^7innertime: I can't remember my other guy's name D:
+[Tue Apr 22 23:53:10 2014]  say: ^1M^7r ^1Ð^7innertime: He had a suit made of living metal
+[Tue Apr 22 23:53:16 2014]  say: ^1M^7r ^1Ð^7innertime: with hidden blades
+[Tue Apr 22 23:53:17 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:53:31 2014]  say: ^4Ony^5sfx: oh ya I remember this other time
+[Tue Apr 22 23:53:33 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:53:46 2014]  say: ^4Ony^5sfx: when on taris RP, the jedi were in the sewers, and there was a sith there
+[Tue Apr 22 23:53:52 2014]  say: ^4Ony^5sfx: I ran in ''Hey what's going on?''
+[Tue Apr 22 23:53:55 2014]  say: ^4Ony^5sfx: and he killed me
+[Tue Apr 22 23:53:57 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:54:03 2014]  say: ^1M^7r ^1Ð^7innertime: Oh god
+[Tue Apr 22 23:54:05 2014]  say: ^4Ony^5sfx: I kinda enhanced the story though
+[Tue Apr 22 23:54:11 2014]  say: ^4Ony^5sfx: made them scared xD
+[Tue Apr 22 23:54:17 2014]  say: ^1M^7r ^1Ð^7innertime: I remember this one time when a sith was rping torturing a character
+[Tue Apr 22 23:54:27 2014]  say: ^1M^7r ^1Ð^7innertime: and the sith dropped the pants of the torturee
+[Tue Apr 22 23:54:33 2014]  say: ^1M^7r ^1Ð^7innertime: so I pmed the guy to get an erection
+[Tue Apr 22 23:54:34 2014]  say: ^1M^7r ^1Ð^7innertime: and he did
+[Tue Apr 22 23:54:38 2014]  say: ^1M^7r ^1Ð^7innertime: so the sith pulled his balls off
+[Tue Apr 22 23:54:39 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:54:46 2014]  say: ^4Ony^5sfx: wtf lol
+[Tue Apr 22 23:54:48 2014]  say: ^1M^7r ^1Ð^7innertime: ikr XD
+[Tue Apr 22 23:54:57 2014]  say: ^1M^7r ^1Ð^7innertime: then he got a trandoshan to rape him afterwards
+[Tue Apr 22 23:55:00 2014]  say: ^4Ony^5sfx: then the sith looked at the erection and said ''You disappoint me...''
+[Tue Apr 22 23:55:02 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:55:14 2014]  say: ^1M^7r ^1Ð^7innertime: he was roleplaying it so well
+[Tue Apr 22 23:55:15 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:55:20 2014]  say: ^1M^7r ^1Ð^7innertime: all down to the barbed lizard penis
+[Tue Apr 22 23:55:28 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:55:42 2014]  say: ^4Ony^5sfx: but ya, as for JKG, I was always hoping we would have an open world like tatooine
+[Tue Apr 22 23:55:45 2014]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 22 23:55:47 2014]  say: ^4Ony^5sfx: and there would be lots of players and what not
+[Tue Apr 22 23:55:54 2014]  say: ^4Ony^5sfx: and we could form clans etc
+[Tue Apr 22 23:56:03 2014]  Kill: 4 3 3: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_SABER
+[Tue Apr 22 23:56:04 2014]  say: ^4Ony^5sfx: I don't think I would form one
+[Tue Apr 22 23:56:10 2014]  say: ^4Ony^5sfx: after being banned recently from AOD
+[Tue Apr 22 23:56:17 2014]  say: ^4Ony^5sfx: but then again
+[Tue Apr 22 23:56:21 2014]  say: ^4Ony^5sfx: AOD does have a lot of people that hate them
+[Tue Apr 22 23:56:25 2014]  say: ^4Ony^5sfx: and I can see why not
+[Tue Apr 22 23:56:28 2014]  say: ^4Ony^5sfx: now**
+[Tue Apr 22 23:56:36 2014]  say: ^4Ony^5sfx: they ban people for the stupidest reasons
+[Tue Apr 22 23:58:45 2014]  Kill: 3 4 3: ^4Ony^5sfx killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Tue Apr 22 23:59:04 2014]  ClientDisconnect: 3
+[Tue Apr 22 23:59:45 2014]  ClientDisconnect: 4
+[Wed Apr 23 00:55:59 2014]  Exit: Timelimit hit.
+[Wed Apr 23 01:18:28 2014]  ClientConnect: 0
+[Wed Apr 23 01:18:28 2014]  mlog:Player SamDiMan, connected. With IP - 151.230.173.45:29070 
+[Wed Apr 23 01:18:29 2014]  ClientConnect: 1
+[Wed Apr 23 01:18:29 2014]  mlog:Player BBQBones, connected. With IP - 87.242.129.163:29070 
+[Wed Apr 23 01:18:42 2014]  ClientBegin: 0
+[Wed Apr 23 01:18:46 2014]  ClientBegin: 1
+[Wed Apr 23 01:18:55 2014]  ShutdownGame:
+[Wed Apr 23 01:18:55 2014]  ------------------------------------------------------------

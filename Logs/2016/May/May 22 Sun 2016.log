@@ -1,0 +1,317 @@
+[Sun May 22 01:15:40 2016]  ------------------------------------------------------------
+[Sun May 22 01:15:40 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 10:28:38 2016]  ClientConnect: 0
+[Sun May 22 10:28:38 2016]  mlog:Player ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/, connected. With IP - 178.76.204.204:29070 
+[Sun May 22 10:28:56 2016]  ClientBegin: 0
+[Sun May 22 10:32:33 2016]  ShutdownGame:
+[Sun May 22 10:32:33 2016]  ------------------------------------------------------------
+[Sun May 22 10:32:34 2016]  ------------------------------------------------------------
+[Sun May 22 10:32:34 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\taspir1\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 10:32:38 2016]  ClientConnect: 0
+[Sun May 22 10:32:45 2016]  ClientBegin: 0
+[Sun May 22 10:33:52 2016]  Kill: 1022 0 38: <world> killed ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/ by MOD_FALLING
+[Sun May 22 10:41:43 2016]  say: ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/: ^5Facepalm..
+[Sun May 22 10:42:39 2016]  ClientDisconnect: 0
+[Sun May 22 10:42:39 2016]  ClientDisconnect: 0
+[Sun May 22 10:42:39 2016]  ClientConnect: 0
+[Sun May 22 10:42:39 2016]  mlog:Player ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/, connected. With IP - 178.76.204.204:29070 
+[Sun May 22 10:42:45 2016]  ClientBegin: 0
+[Sun May 22 10:42:48 2016]  ClientDisconnect: 0
+[Sun May 22 10:43:07 2016]  ClientConnect: 0
+[Sun May 22 10:43:07 2016]  mlog:Player ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/, connected. With IP - 178.76.204.204:29070 
+[Sun May 22 10:43:17 2016]  ClientBegin: 0
+[Sun May 22 10:46:58 2016]  ClientDisconnect: 0
+[Sun May 22 10:47:38 2016]  ClientConnect: 0
+[Sun May 22 10:47:38 2016]  mlog:Player ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/, connected. With IP - 178.76.204.204:29070 
+[Sun May 22 10:47:48 2016]  ClientBegin: 0
+[Sun May 22 10:48:55 2016]  ShutdownGame:
+[Sun May 22 10:48:55 2016]  ------------------------------------------------------------
+[Sun May 22 10:48:55 2016]  ------------------------------------------------------------
+[Sun May 22 10:48:55 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_rogue\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 10:48:57 2016]  ClientConnect: 0
+[Sun May 22 10:49:07 2016]  ClientBegin: 0
+[Sun May 22 10:51:56 2016]  ShutdownGame:
+[Sun May 22 10:51:56 2016]  ------------------------------------------------------------
+[Sun May 22 10:51:57 2016]  ------------------------------------------------------------
+[Sun May 22 10:51:57 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\vjun2\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 10:52:05 2016]  ClientConnect: 0
+[Sun May 22 10:52:16 2016]  ClientBegin: 0
+[Sun May 22 10:52:40 2016]  Item: 0 ammo_thermal
+[Sun May 22 10:53:19 2016]  ShutdownGame:
+[Sun May 22 10:53:19 2016]  ------------------------------------------------------------
+[Sun May 22 10:53:19 2016]  ------------------------------------------------------------
+[Sun May 22 10:53:19 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\vjun1\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 10:53:32 2016]  ClientConnect: 0
+[Sun May 22 10:53:40 2016]  ClientBegin: 0
+[Sun May 22 10:54:12 2016]  ShutdownGame:
+[Sun May 22 10:54:12 2016]  ------------------------------------------------------------
+[Sun May 22 10:54:13 2016]  ------------------------------------------------------------
+[Sun May 22 10:54:13 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\vjun3\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 10:54:20 2016]  ClientConnect: 0
+[Sun May 22 10:54:28 2016]  ClientBegin: 0
+[Sun May 22 10:55:58 2016]  ShutdownGame:
+[Sun May 22 10:55:58 2016]  ------------------------------------------------------------
+[Sun May 22 10:55:59 2016]  ------------------------------------------------------------
+[Sun May 22 10:55:59 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\Jedi'sHomeJL_II\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 10:56:00 2016]  ClientConnect: 0
+[Sun May 22 10:56:14 2016]  ClientBegin: 0
+[Sun May 22 10:56:42 2016]  Item: 0 ammo_metallic_bolts
+[Sun May 22 10:56:43 2016]  Item: 0 weapon_bryar_pistol
+[Sun May 22 10:59:04 2016]  Kill: 0 0 36: ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/ killed ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/ by MOD_CRUSH
+[Sun May 22 10:59:48 2016]  Kill: 0 0 36: ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/ killed ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/ by MOD_CRUSH
+[Sun May 22 11:04:37 2016]  Kill: 0 0 36: ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/ killed ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/ by MOD_CRUSH
+[Sun May 22 11:05:38 2016]  Item: 0 item_shield_sm_instant
+[Sun May 22 11:05:55 2016]  Item: 0 weapon_concussion_rifle
+[Sun May 22 11:07:04 2016]  Item: 0 weapon_rocket_launcher
+[Sun May 22 11:07:26 2016]  Kill: 0 0 38: ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/ killed ^0/^0[^7Ac^0]h^7i^0ll^7e^1.^0S/ by MOD_FALLING
+[Sun May 22 11:07:56 2016]  ShutdownGame:
+[Sun May 22 11:07:56 2016]  ------------------------------------------------------------
+[Sun May 22 11:07:57 2016]  ------------------------------------------------------------
+[Sun May 22 11:07:57 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\the_academy_v3\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 11:07:58 2016]  ClientConnect: 0
+[Sun May 22 11:08:10 2016]  ClientBegin: 0
+[Sun May 22 11:08:41 2016]  Item: 0 item_force_boon
+[Sun May 22 11:08:44 2016]  Item: 0 item_sentry_gun
+[Sun May 22 11:09:00 2016]  Item: 0 ammo_metallic_bolts
+[Sun May 22 11:09:00 2016]  Item: 0 ammo_powercell
+[Sun May 22 11:10:29 2016]  Item: 0 item_medpac
+[Sun May 22 11:11:21 2016]  Item: 0 weapon_trip_mine
+[Sun May 22 11:11:21 2016]  Item: 0 weapon_trip_mine
+[Sun May 22 11:12:10 2016]  ShutdownGame:
+[Sun May 22 11:12:10 2016]  ------------------------------------------------------------
+[Sun May 22 11:12:11 2016]  ------------------------------------------------------------
+[Sun May 22 11:12:11 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\taspir1\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 11:12:15 2016]  ClientConnect: 0
+[Sun May 22 11:12:20 2016]  ClientBegin: 0
+[Sun May 22 11:14:44 2016]  ClientDisconnect: 0
+[Sun May 22 12:07:55 2016]  ClientConnect: 0
+[Sun May 22 12:07:55 2016]  mlog:Player Tgraham5en, connected. With IP - 92.21.220.124:29070 
+[Sun May 22 12:08:10 2016]  ClientBegin: 0
+[Sun May 22 12:13:12 2016]  ClientDisconnect: 0
+[Sun May 22 17:38:01 2016]  ClientConnect: 0
+[Sun May 22 17:38:01 2016]  mlog:Player Tgraham5en, connected. With IP - 92.21.220.124:29070 
+[Sun May 22 17:38:15 2016]  ClientBegin: 0
+[Sun May 22 17:40:26 2016]  Kill: 0 0 39: Tgraham5en killed Tgraham5en by MOD_SUICIDE
+[Sun May 22 17:43:02 2016]  Kill: 1022 0 3: <world> killed Tgraham5en by MOD_SABER
+[Sun May 22 17:43:17 2016]  Kill: 1022 0 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 17:43:47 2016]  Item: 0 weapon_blaster
+[Sun May 22 17:47:26 2016]  Kill: 1022 0 6: <world> killed Tgraham5en by MOD_BLASTER
+[Sun May 22 17:48:07 2016]  Kill: 1022 0 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 17:49:17 2016]  Kill: 1022 0 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 17:53:19 2016]  ClientDisconnect: 0
+[Sun May 22 20:08:49 2016]  ClientConnect: 0
+[Sun May 22 20:08:49 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sun May 22 20:09:03 2016]  ClientBegin: 0
+[Sun May 22 20:34:23 2016]  ClientConnect: 1
+[Sun May 22 20:34:23 2016]  mlog:Player Tgraham5en, connected. With IP - 92.21.220.124:29070 
+[Sun May 22 20:34:39 2016]  ClientBegin: 1
+[Sun May 22 20:35:02 2016]  say: Tgraham5en: hi
+[Sun May 22 20:35:19 2016]  say: Tgraham5en: hello?
+[Sun May 22 20:35:26 2016]  ClientConnect: 2
+[Sun May 22 20:35:26 2016]  mlog:Player Montydog9, connected. With IP - 86.10.130.253:29070 
+[Sun May 22 20:35:40 2016]  ClientBegin: 2
+[Sun May 22 20:36:08 2016]  say: Montydog9: gof
+[Sun May 22 20:36:10 2016]  Kill: 1022 2 35: <world> killed Montydog9 by MOD_LAVA
+[Sun May 22 20:36:24 2016]  Kill: 1022 2 35: <world> killed Montydog9 by MOD_LAVA
+[Sun May 22 20:36:39 2016]  Kill: 1022 0 33: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_WATER
+[Sun May 22 20:38:16 2016]  Kill: 2 0 3: Montydog9 killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Sun May 22 20:39:47 2016]  Kill: 2 2 39: Montydog9 killed Montydog9 by MOD_SUICIDE
+[Sun May 22 20:39:47 2016]  Item: 1 weapon_flechette
+[Sun May 22 20:39:49 2016]  Kill: 2 0 37: Montydog9 killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 20:44:49 2016]  Kill: 1 0 10: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_DISRUPTOR_SNIPER
+[Sun May 22 20:48:12 2016]  Item: 2 ammo_all
+[Sun May 22 20:55:42 2016]  Kill: 1 0 10: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_DISRUPTOR_SNIPER
+[Sun May 22 20:59:56 2016]  ShutdownGame:
+[Sun May 22 20:59:56 2016]  ------------------------------------------------------------
+[Sun May 22 20:59:56 2016]  ------------------------------------------------------------
+[Sun May 22 20:59:56 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\taspir1\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 21:00:01 2016]  ClientConnect: 0
+[Sun May 22 21:00:01 2016]  ClientBegin: 0
+[Sun May 22 21:00:01 2016]  ClientConnect: 1
+[Sun May 22 21:00:01 2016]  Kill: 1 0 37: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:00:01 2016]  ClientBegin: 1
+[Sun May 22 21:00:01 2016]  ClientConnect: 2
+[Sun May 22 21:00:01 2016]  Kill: 2 1 37: Montydog9 killed Tgraham5en by MOD_TELEFRAG
+[Sun May 22 21:00:01 2016]  ClientBegin: 2
+[Sun May 22 21:00:38 2016]  Kill: 1 2 3: Tgraham5en killed Montydog9 by MOD_SABER
+[Sun May 22 21:01:03 2016]  Kill: 2 0 37: Montydog9 killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:01:04 2016]  Kill: 2 2 39: Montydog9 killed Montydog9 by MOD_SUICIDE
+[Sun May 22 21:01:55 2016]  Kill: 1022 1 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 21:02:24 2016]  Kill: 1 0 3: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Sun May 22 21:03:12 2016]  Kill: 1 1 39: Tgraham5en killed Tgraham5en by MOD_SUICIDE
+[Sun May 22 21:03:51 2016]  Kill: 1 0 3: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Sun May 22 21:05:00 2016]  Item: 1 weapon_disruptor
+[Sun May 22 21:05:16 2016]  Item: 1 weapon_blaster
+[Sun May 22 21:05:23 2016]  Item: 1 weapon_bowcaster
+[Sun May 22 21:05:30 2016]  Item: 1 weapon_blaster
+[Sun May 22 21:05:34 2016]  Item: 1 weapon_blaster
+[Sun May 22 21:06:30 2016]  Kill: 2 1 5: Montydog9 killed Tgraham5en by MOD_BRYAR_PISTOL_ALT
+[Sun May 22 21:06:31 2016]  Kill: 1 0 37: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:06:59 2016]  Kill: 2 1 10: Montydog9 killed Tgraham5en by MOD_DISRUPTOR_SNIPER
+[Sun May 22 21:07:15 2016]  Kill: 2 1 10: Montydog9 killed Tgraham5en by MOD_DISRUPTOR_SNIPER
+[Sun May 22 21:07:18 2016]  Item: 2 ammo_all
+[Sun May 22 21:07:18 2016]  Item: 2 weapon_blaster
+[Sun May 22 21:07:49 2016]  Item: 1 ammo_all
+[Sun May 22 21:07:49 2016]  Item: 1 ammo_all
+[Sun May 22 21:08:17 2016]  Kill: 1 0 28: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_VEHICLE
+[Sun May 22 21:08:43 2016]  Kill: 2 1 28: Montydog9 killed Tgraham5en by MOD_VEHICLE
+[Sun May 22 21:10:37 2016]  Kill: 1022 1 2: <world> killed Tgraham5en by MOD_MELEE
+[Sun May 22 21:10:43 2016]  Kill: 1 0 37: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:11:20 2016]  Kill: 1022 1 2: <world> killed Tgraham5en by MOD_MELEE
+[Sun May 22 21:11:37 2016]  Kill: 1022 2 2: <world> killed Montydog9 by MOD_MELEE
+[Sun May 22 21:12:43 2016]  Kill: 1022 2 2: <world> killed Montydog9 by MOD_MELEE
+[Sun May 22 21:12:47 2016]  Kill: 2 0 37: Montydog9 killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:12:47 2016]  Kill: 2 1 37: Montydog9 killed Tgraham5en by MOD_TELEFRAG
+[Sun May 22 21:13:47 2016]  Kill: 1022 1 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 21:13:48 2016]  Kill: 1 0 37: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:14:27 2016]  Kill: 2 2 39: Montydog9 killed Montydog9 by MOD_SUICIDE
+[Sun May 22 21:14:49 2016]  Kill: 0 1 37: ^0Ðàrk^2^1Qµàkè killed Tgraham5en by MOD_TELEFRAG
+[Sun May 22 21:14:49 2016]  Item: 0 weapon_repeater
+[Sun May 22 21:14:51 2016]  Kill: 1 0 37: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:15:14 2016]  Kill: 1022 1 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 21:16:08 2016]  Kill: 1022 0 2: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_MELEE
+[Sun May 22 21:16:36 2016]  Kill: 1022 2 35: <world> killed Montydog9 by MOD_LAVA
+[Sun May 22 21:16:40 2016]  say: Montydog9: gof
+[Sun May 22 21:17:02 2016]  Kill: 1022 1 38: <world> killed Tgraham5en by MOD_FALLING
+[Sun May 22 21:17:38 2016]  Kill: 1022 0 38: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_FALLING
+[Sun May 22 21:21:02 2016]  Kill: 1022 1 2: <world> killed Tgraham5en by MOD_MELEE
+[Sun May 22 21:21:04 2016]  Kill: 1 0 37: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:25:32 2016]  ClientDisconnect: 2
+[Sun May 22 21:25:32 2016]  ClientConnect: 2
+[Sun May 22 21:25:32 2016]  mlog:Player Montydog9, connected. With IP - 86.10.130.253:29070 
+[Sun May 22 21:25:42 2016]  Kill: 2 0 37: Montydog9 killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:25:42 2016]  ClientBegin: 2
+[Sun May 22 21:25:51 2016]  Kill: 1 2 3: Tgraham5en killed Montydog9 by MOD_SABER
+[Sun May 22 21:27:27 2016]  Kill: 1022 1 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 21:27:28 2016]  Kill: 1 0 37: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:27:36 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Sun May 22 21:28:39 2016]  Kill: 1022 1 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 21:28:40 2016]  Kill: 1 0 37: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:29:39 2016]  Kill: 1022 1 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 21:30:11 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Sun May 22 21:30:12 2016]  Kill: 1 0 37: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:31:20 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Sun May 22 21:31:21 2016]  Kill: 1 0 37: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:31:48 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Sun May 22 21:32:14 2016]  Kill: 1 2 6: Tgraham5en killed Montydog9 by MOD_BLASTER
+[Sun May 22 21:32:28 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Sun May 22 21:32:30 2016]  Kill: 1 0 37: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:32:35 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Sun May 22 21:33:06 2016]  Kill: 1 2 2: Tgraham5en killed Montydog9 by MOD_MELEE
+[Sun May 22 21:33:10 2016]  say: Montydog9: gpf
+[Sun May 22 21:33:13 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Sun May 22 21:33:14 2016]  say: Montydog9: gpf
+[Sun May 22 21:34:30 2016]  Kill: 1022 1 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 21:34:31 2016]  Kill: 1 0 37: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:34:42 2016]  ClientDisconnect: 2
+[Sun May 22 21:34:42 2016]  ClientConnect: 2
+[Sun May 22 21:34:42 2016]  mlog:Player Montydog9, connected. With IP - 86.10.130.253:29070 
+[Sun May 22 21:34:49 2016]  Kill: 1022 1 39: <world> killed Tgraham5en by MOD_SUICIDE
+[Sun May 22 21:34:55 2016]  ClientBegin: 2
+[Sun May 22 21:35:08 2016]  Kill: 1022 1 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 21:36:28 2016]  Kill: 1022 2 35: <world> killed Montydog9 by MOD_LAVA
+[Sun May 22 21:36:30 2016]  Kill: 2 0 37: Montydog9 killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:36:32 2016]  Kill: 1022 1 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 21:36:51 2016]  Kill: 1022 1 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 21:37:39 2016]  Kill: 1022 1 35: <world> killed Tgraham5en by MOD_LAVA
+[Sun May 22 21:37:41 2016]  Kill: 1 0 37: Tgraham5en killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:37:56 2016]  ClientDisconnect: 2
+[Sun May 22 21:37:56 2016]  ClientConnect: 2
+[Sun May 22 21:37:56 2016]  mlog:Player Montydog9, connected. With IP - 86.10.130.253:29070 
+[Sun May 22 21:38:09 2016]  ClientBegin: 2
+[Sun May 22 21:38:29 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Sun May 22 21:38:55 2016]  Kill: 1022 2 39: <world> killed Montydog9 by MOD_SUICIDE
+[Sun May 22 21:38:56 2016]  Kill: 2 0 37: Montydog9 killed ^0Ðàrk^2^1Qµàkè by MOD_TELEFRAG
+[Sun May 22 21:39:19 2016]  Kill: 2 1 2: Montydog9 killed Tgraham5en by MOD_MELEE
+[Sun May 22 21:39:20 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Sun May 22 21:39:28 2016]  Kill: 2 1 2: Montydog9 killed Tgraham5en by MOD_MELEE
+[Sun May 22 21:39:30 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Sun May 22 21:39:51 2016]  ClientDisconnect: 0
+[Sun May 22 21:40:25 2016]  Kill: 1 2 3: Tgraham5en killed Montydog9 by MOD_SABER
+[Sun May 22 21:40:35 2016]  ShutdownGame:
+[Sun May 22 21:40:35 2016]  ------------------------------------------------------------
+[Sun May 22 21:40:35 2016]  ------------------------------------------------------------
+[Sun May 22 21:40:35 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\taspir1\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 21:40:39 2016]  ClientConnect: 1
+[Sun May 22 21:40:39 2016]  ClientBegin: 1
+[Sun May 22 21:40:39 2016]  ClientConnect: 2
+[Sun May 22 21:40:39 2016]  Kill: 2 1 37: Montydog9 killed Tgraham5en by MOD_TELEFRAG
+[Sun May 22 21:40:39 2016]  ClientBegin: 2
+[Sun May 22 21:40:40 2016]  Kill: 1 2 37: Tgraham5en killed Montydog9 by MOD_TELEFRAG
+[Sun May 22 21:40:57 2016]  ShutdownGame:
+[Sun May 22 21:40:57 2016]  ------------------------------------------------------------
+[Sun May 22 21:40:57 2016]  ------------------------------------------------------------
+[Sun May 22 21:40:57 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\taspir1\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 21:41:02 2016]  ClientConnect: 1
+[Sun May 22 21:41:02 2016]  ClientBegin: 1
+[Sun May 22 21:41:02 2016]  ClientConnect: 2
+[Sun May 22 21:41:02 2016]  Kill: 2 1 37: Montydog9 killed Tgraham5en by MOD_TELEFRAG
+[Sun May 22 21:41:02 2016]  ClientBegin: 2
+[Sun May 22 21:41:03 2016]  Kill: 1 2 37: Tgraham5en killed Montydog9 by MOD_TELEFRAG
+[Sun May 22 21:41:30 2016]  ShutdownGame:
+[Sun May 22 21:41:30 2016]  ------------------------------------------------------------
+[Sun May 22 21:41:31 2016]  ------------------------------------------------------------
+[Sun May 22 21:41:31 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/duel5\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 21:41:31 2016]  ClientConnect: 1
+[Sun May 22 21:41:31 2016]  ClientConnect: 2
+[Sun May 22 21:41:35 2016]  ClientBegin: 2
+[Sun May 22 21:41:37 2016]  ClientBegin: 1
+[Sun May 22 21:41:54 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Sun May 22 21:42:03 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Sun May 22 21:42:10 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Sun May 22 21:42:50 2016]  ShutdownGame:
+[Sun May 22 21:42:50 2016]  ------------------------------------------------------------
+[Sun May 22 21:42:50 2016]  ------------------------------------------------------------
+[Sun May 22 21:42:50 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/duel5\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 21:42:51 2016]  ClientConnect: 1
+[Sun May 22 21:42:51 2016]  ClientBegin: 1
+[Sun May 22 21:42:51 2016]  ClientConnect: 2
+[Sun May 22 21:42:51 2016]  ClientBegin: 2
+[Sun May 22 21:43:12 2016]  ShutdownGame:
+[Sun May 22 21:43:12 2016]  ------------------------------------------------------------
+[Sun May 22 21:43:12 2016]  ------------------------------------------------------------
+[Sun May 22 21:43:12 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/duel10\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 21:43:13 2016]  ClientConnect: 1
+[Sun May 22 21:43:13 2016]  ClientConnect: 2
+[Sun May 22 21:43:18 2016]  ClientBegin: 2
+[Sun May 22 21:43:19 2016]  ClientBegin: 1
+[Sun May 22 21:43:46 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Sun May 22 21:44:02 2016]  ShutdownGame:
+[Sun May 22 21:44:02 2016]  ------------------------------------------------------------
+[Sun May 22 21:44:02 2016]  ------------------------------------------------------------
+[Sun May 22 21:44:02 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/duel1\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 21:44:02 2016]  ClientConnect: 1
+[Sun May 22 21:44:02 2016]  ClientConnect: 2
+[Sun May 22 21:44:07 2016]  ClientBegin: 2
+[Sun May 22 21:44:08 2016]  ClientBegin: 1
+[Sun May 22 21:44:35 2016]  ShutdownGame:
+[Sun May 22 21:44:35 2016]  ------------------------------------------------------------
+[Sun May 22 21:44:35 2016]  ------------------------------------------------------------
+[Sun May 22 21:44:35 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/duel2\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 21:44:35 2016]  ClientConnect: 1
+[Sun May 22 21:44:35 2016]  ClientConnect: 2
+[Sun May 22 21:44:39 2016]  ClientBegin: 2
+[Sun May 22 21:44:40 2016]  ClientBegin: 1
+[Sun May 22 21:45:06 2016]  Kill: 1 2 3: Tgraham5en killed Montydog9 by MOD_SABER
+[Sun May 22 21:45:35 2016]  ShutdownGame:
+[Sun May 22 21:45:35 2016]  ------------------------------------------------------------
+[Sun May 22 21:45:35 2016]  ------------------------------------------------------------
+[Sun May 22 21:45:35 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/duel7\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 21:45:35 2016]  ClientConnect: 1
+[Sun May 22 21:45:35 2016]  ClientConnect: 2
+[Sun May 22 21:45:40 2016]  ClientBegin: 2
+[Sun May 22 21:45:42 2016]  ClientBegin: 1
+[Sun May 22 21:48:06 2016]  ShutdownGame:
+[Sun May 22 21:48:06 2016]  ------------------------------------------------------------
+[Sun May 22 21:48:06 2016]  ------------------------------------------------------------
+[Sun May 22 21:48:06 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/duel7\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 21:48:06 2016]  ClientConnect: 1
+[Sun May 22 21:48:06 2016]  ClientBegin: 1
+[Sun May 22 21:48:06 2016]  ClientConnect: 2
+[Sun May 22 21:48:06 2016]  ClientBegin: 2
+[Sun May 22 21:48:56 2016]  ShutdownGame:
+[Sun May 22 21:48:56 2016]  ------------------------------------------------------------
+[Sun May 22 21:48:57 2016]  ------------------------------------------------------------
+[Sun May 22 21:48:57 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/ffa2\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 22 21:48:57 2016]  SpawnEntities: no entities[Sun May 22 21:48:57 2016]  ShutdownGame:
+[Sun May 22 21:48:57 2016]  ------------------------------------------------------------

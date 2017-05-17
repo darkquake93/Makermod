@@ -1,0 +1,9 @@
+[Tue Feb 28 22:36:22 2017]  ------------------------------------------------------------
+[Tue Feb 28 22:36:22 2017]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\999\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Mar 01 07:55:46 2017]  ClientConnect: 0
+[Wed Mar 01 07:55:46 2017]  mlog:Player sed, connected. With IP - 31.28.116.167:29070 
+[Wed Mar 01 07:56:20 2017]  ClientBegin: 0
+[Wed Mar 01 07:58:26 2017]  Kill: 0 0 39: sed killed sed by MOD_SUICIDE
+[Wed Mar 01 07:58:38 2017]  Item: 0 weapon_rocket_launcher
+[Wed Mar 01 08:22:59 2017]  Kill: 0 0 36: sed killed sed by MOD_CRUSH
+[Wed Mar 01 08:23:02 2017]  ClientDisconnect: 0

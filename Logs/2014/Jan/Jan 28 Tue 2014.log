@@ -1,0 +1,283 @@
+[Tue Jan 28 05:12:18 2014]  ------------------------------------------------------------
+[Tue Jan 28 05:12:18 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 28 05:12:19 2014]  ClientConnect: 0
+[Tue Jan 28 05:12:27 2014]  ClientBegin: 0
+[Tue Jan 28 05:14:19 2014]  Kill: 1022 0 6: <world> killed Jimmy by MOD_BLASTER
+[Tue Jan 28 05:15:50 2014]  ClientDisconnect: 0
+[Tue Jan 28 07:12:17 2014]  Exit: Timelimit hit.
+[Tue Jan 28 15:22:14 2014]  ClientConnect: 0
+[Tue Jan 28 15:22:14 2014]  mlog:Player ^0Darth ^1Javimetal, connected. With IP - 85.219.4.121:29070 
+[Tue Jan 28 15:22:38 2014]  ClientBegin: 0
+[Tue Jan 28 15:22:53 2014]  ShutdownGame:
+[Tue Jan 28 15:22:53 2014]  ------------------------------------------------------------
+[Tue Jan 28 15:22:55 2014]  ------------------------------------------------------------
+[Tue Jan 28 15:22:55 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 28 15:22:57 2014]  ClientConnect: 0
+[Tue Jan 28 15:23:19 2014]  ClientBegin: 0
+[Tue Jan 28 15:35:31 2014]  ClientConnect: 1
+[Tue Jan 28 15:35:31 2014]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 151.227.122.213:29070 
+[Tue Jan 28 15:36:07 2014]  ClientBegin: 1
+[Tue Jan 28 15:36:08 2014]  say: ^1M^7r ^1Ð^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Jan 28 15:36:12 2014]  say: ^0Darth ^1Javimetal: hola hi
+[Tue Jan 28 15:36:14 2014]  say: ^1M^7r ^1Ð^7innertime: Hi
+[Tue Jan 28 15:39:47 2014]  Kill: 1 1 39: ^1M^7r ^1Ð^7innertime killed ^1M^7r ^1Ð^7innertime by MOD_SUICIDE
+[Tue Jan 28 15:39:47 2014]  setteam:  1 FREE SPECTATOR
+[Tue Jan 28 15:39:47 2014]  ClientBegin: 1
+[Tue Jan 28 15:39:53 2014]  setteam:  1 SPECTATOR FREE
+[Tue Jan 28 15:39:53 2014]  ClientBegin: 1
+[Tue Jan 28 15:40:09 2014]  Kill: 1 1 39: ^1M^7r ^1Ð^7innertime killed ^1M^7r ^1Ð^7innertime by MOD_SUICIDE
+[Tue Jan 28 15:40:09 2014]  setteam:  1 FREE SPECTATOR
+[Tue Jan 28 15:40:09 2014]  ClientBegin: 1
+[Tue Jan 28 15:40:18 2014]  setteam:  1 SPECTATOR FREE
+[Tue Jan 28 15:40:18 2014]  ClientBegin: 1
+[Tue Jan 28 15:40:18 2014]  say: ^1M^7r ^1Ð^7innertime: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Tue Jan 28 15:41:18 2014]  say: ^0Darth ^1Javimetal: xD
+[Tue Jan 28 15:41:20 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 15:41:27 2014]  say: ^0Darth ^1Javimetal: im a noob scripter
+[Tue Jan 28 15:41:29 2014]  say: ^1M^7r ^1Ð^7innertime: ah
+[Tue Jan 28 15:41:29 2014]  say: ^0Darth ^1Javimetal: XD
+[Tue Jan 28 15:42:04 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Jan 28 15:42:43 2014]  say: ^1M^7r ^1Ð^7innertime: !play
+[Tue Jan 28 15:42:43 2014]  tell: ^1M^7r ^1Ð^7innertime to ^1M^7r ^1Ð^7innertime: ^3Media ^2- ^7Currently playing: ^206 Us and Them
+[Tue Jan 28 15:42:50 2014]  say: ^1M^7r ^1Ð^7innertime: <_<
+[Tue Jan 28 15:42:52 2014]  say: ^1M^7r ^1Ð^7innertime: !next
+[Tue Jan 28 15:42:52 2014]  tell: ^1M^7r ^1Ð^7innertime to ^1M^7r ^1Ð^7innertime: ^3Media ^2- ^7Currently playing: ^207 Any Colour You Like
+[Tue Jan 28 15:44:05 2014]  say: ^0Darth ^1Javimetal: da fuck?
+[Tue Jan 28 15:44:06 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 15:44:36 2014]  say: ^1M^7r ^1Ð^7innertime: not one of my best scripts... xD
+[Tue Jan 28 15:45:07 2014]  say: ^0Darth ^1Javimetal: u know scripts for kill?
+[Tue Jan 28 15:45:12 2014]  say: ^1M^7r ^1Ð^7innertime: Ofc ._.
+[Tue Jan 28 15:45:20 2014]  Kill: 1022 0 0: <world> killed ^0Darth ^1Javimetal by MOD_UNKNOWN
+[Tue Jan 28 15:45:22 2014]  say: ^0Darth ^1Javimetal: xD 
+[Tue Jan 28 15:45:39 2014]  say: ^0Darth ^1Javimetal: yes for example
+[Tue Jan 28 15:45:56 2014]  say: ^0Darth ^1Javimetal: xD how?
+[Tue Jan 28 15:45:57 2014]  say: ^0Darth ^1Javimetal: xD
+[Tue Jan 28 15:46:02 2014]  say: ^1M^7r ^1Ð^7innertime: I made it ._.
+[Tue Jan 28 15:46:14 2014]  say: ^1M^7r ^1Ð^7innertime: Well
+[Tue Jan 28 15:46:20 2014]  say: ^1M^7r ^1Ð^7innertime: Which part don't you get?
+[Tue Jan 28 15:46:35 2014]  say: ^0Darth ^1Javimetal: wow
+[Tue Jan 28 15:46:37 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 15:46:54 2014]  say: ^0Darth ^1Javimetal: xD teach me xD
+[Tue Jan 28 15:46:56 2014]  say: ^1M^7r ^1Ð^7innertime: ;o
+[Tue Jan 28 15:47:10 2014]  say: ^1M^7r ^1Ð^7innertime: I don't really do teaching ._. People misuse my teaching
+[Tue Jan 28 15:47:21 2014]  say: ^1M^7r ^1Ð^7innertime: They spam irritating effects
+[Tue Jan 28 15:47:25 2014]  say: ^0Darth ^1Javimetal: lol
+[Tue Jan 28 15:47:42 2014]  say: ^0Darth ^1Javimetal: i like know the kill scipts
+[Tue Jan 28 15:47:44 2014]  say: ^1M^7r ^1Ð^7innertime: ah
+[Tue Jan 28 15:47:45 2014]  say: ^0Darth ^1Javimetal: i like maker mod
+[Tue Jan 28 15:47:48 2014]  say: ^1M^7r ^1Ð^7innertime: :p
+[Tue Jan 28 15:47:52 2014]  say: ^1M^7r ^1Ð^7innertime: Well
+[Tue Jan 28 15:47:53 2014]  say: ^0Darth ^1Javimetal: an i promise not use vs u
+[Tue Jan 28 15:47:56 2014]  say: ^0Darth ^1Javimetal: and*
+[Tue Jan 28 15:47:57 2014]  say: ^1M^7r ^1Ð^7innertime: Which part do you struggle with?
+[Tue Jan 28 15:48:06 2014]  say: ^0Darth ^1Javimetal: hmmmm all? xD
+[Tue Jan 28 15:48:09 2014]  say: ^1M^7r ^1Ð^7innertime: ._.
+[Tue Jan 28 15:48:15 2014]  say: ^0Darth ^1Javimetal: xD i know : mtlist
+[Tue Jan 28 15:48:17 2014]  say: ^1M^7r ^1Ð^7innertime: ah
+[Tue Jan 28 15:48:20 2014]  say: ^0Darth ^1Javimetal: and mtlist effect
+[Tue Jan 28 15:48:26 2014]  say: ^0Darth ^1Javimetal: and fx 
+[Tue Jan 28 15:48:30 2014]  say: ^1M^7r ^1Ð^7innertime: Ah...
+[Tue Jan 28 15:48:32 2014]  say: ^0Darth ^1Javimetal: mplace and mplace fx
+[Tue Jan 28 15:48:37 2014]  say: ^1M^7r ^1Ð^7innertime: Well
+[Tue Jan 28 15:48:45 2014]  say: ^1M^7r ^1Ð^7innertime: We could start off with a basic pain script...
+[Tue Jan 28 15:48:47 2014]  say: ^0Darth ^1Javimetal: but i dont know the scripts to kill
+[Tue Jan 28 15:48:50 2014]  say: ^1M^7r ^1Ð^7innertime: ah
+[Tue Jan 28 15:48:52 2014]  say: ^0Darth ^1Javimetal: aha,okey
+[Tue Jan 28 15:48:57 2014]  say: ^1M^7r ^1Ð^7innertime: Well...
+[Tue Jan 28 15:48:59 2014]  say: ^1M^7r ^1Ð^7innertime: <_<
+[Tue Jan 28 15:49:07 2014]  say: ^0Darth ^1Javimetal: i promise dont use with u
+[Tue Jan 28 15:49:11 2014]  say: ^1M^7r ^1Ð^7innertime: Idc
+[Tue Jan 28 15:49:11 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Jan 28 15:49:32 2014]  say: ^1M^7r ^1Ð^7innertime: I doubt your scripts would kill me anyway xD
+[Tue Jan 28 15:49:38 2014]  say: ^0Darth ^1Javimetal: xD
+[Tue Jan 28 15:49:46 2014]  say: ^1M^7r ^1Ð^7innertime: Well...
+[Tue Jan 28 15:49:55 2014]  say: ^1M^7r ^1Ð^7innertime: Before you set the effects up
+[Tue Jan 28 15:50:01 2014]  say: ^1M^7r ^1Ð^7innertime: You'd want them to be a good enough distance from you
+[Tue Jan 28 15:50:07 2014]  say: ^1M^7r ^1Ð^7innertime: so they wouldn't backfire
+[Tue Jan 28 15:50:11 2014]  say: ^0Darth ^1Javimetal: aha
+[Tue Jan 28 15:50:19 2014]  say: ^1M^7r ^1Ð^7innertime: Try /marm 250 ._.
+[Tue Jan 28 15:50:25 2014]  say: ^1M^7r ^1Ð^7innertime: Since 199 is the maximum radius
+[Tue Jan 28 15:50:47 2014]  say: ^1M^7r ^1Ð^7innertime: done? ;o
+[Tue Jan 28 15:50:49 2014]  say: ^0Darth ^1Javimetal: i write /marm250?¿
+[Tue Jan 28 15:50:56 2014]  say: ^1M^7r ^1Ð^7innertime: /marm 250
+[Tue Jan 28 15:50:58 2014]  say: ^1M^7r ^1Ð^7innertime: with the space
+[Tue Jan 28 15:51:27 2014]  say: ^0Darth ^1Javimetal: ok how can i use? xD
+[Tue Jan 28 15:51:30 2014]  say: ^1M^7r ^1Ð^7innertime: Ah
+[Tue Jan 28 15:51:35 2014]  say: ^0Darth ^1Javimetal: press g? xD
+[Tue Jan 28 15:51:36 2014]  say: ^1M^7r ^1Ð^7innertime: Next, you'll want to find an effect
+[Tue Jan 28 15:52:10 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 15:53:20 2014]  say: ^0Darth ^1Javimetal: how can i use marm 250? the command screen say me:ur  grabbing arm length is 250
+[Tue Jan 28 15:53:25 2014]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Tue Jan 28 15:53:26 2014]  say: ^1M^7r ^1Ð^7innertime: that's good
+[Tue Jan 28 15:53:34 2014]  say: ^0Darth ^1Javimetal: the deaffult is 100
+[Tue Jan 28 15:53:41 2014]  say: ^1M^7r ^1Ð^7innertime: all marm does is control how far the effects are from you when you use /mgrab
+[Tue Jan 28 15:54:41 2014]  say: ^0Darth ^1Javimetal: lol i cant user xDDD
+[Tue Jan 28 15:54:44 2014]  say: ^0Darth ^1Javimetal: use*
+[Tue Jan 28 15:54:44 2014]  say: ^1M^7r ^1Ð^7innertime: O_o
+[Tue Jan 28 15:54:47 2014]  say: ^1M^7r ^1Ð^7innertime: Why?
+[Tue Jan 28 15:55:18 2014]  say: ^0Darth ^1Javimetal: i do no, i write /marm 250 and i press (g) the button12
+[Tue Jan 28 15:55:24 2014]  say: ^1M^7r ^1Ð^7innertime: Why g? ._.
+[Tue Jan 28 15:55:39 2014]  say: ^0Darth ^1Javimetal: i bind g to button12 xD
+[Tue Jan 28 15:55:43 2014]  say: ^1M^7r ^1Ð^7innertime: Oh ._.
+[Tue Jan 28 15:55:57 2014]  say: ^1M^7r ^1Ð^7innertime: what does +button12 have to do with effects?
+[Tue Jan 28 15:56:03 2014]  say: ^0Darth ^1Javimetal: and say me: u have not select...
+[Tue Jan 28 15:56:06 2014]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Tue Jan 28 15:56:12 2014]  say: ^1M^7r ^1Ð^7innertime: You need to place an effect first
+[Tue Jan 28 15:56:19 2014]  say: ^0Darth ^1Javimetal: sry im very noob in scrips
+[Tue Jan 28 15:56:21 2014]  say: ^1M^7r ^1Ð^7innertime: :)
+[Tue Jan 28 15:56:27 2014]  say: ^1M^7r ^1Ð^7innertime: Well O_-
+[Tue Jan 28 15:56:35 2014]  say: ^1M^7r ^1Ð^7innertime: You told me you knew how to place effects
+[Tue Jan 28 15:56:38 2014]  say: ^1M^7r ^1Ð^7innertime: so place one? ;o
+[Tue Jan 28 15:56:46 2014]  say: ^0Darth ^1Javimetal: okey
+[Tue Jan 28 15:57:03 2014]  say: ^0Darth ^1Javimetal: i like know the kill scripts xD
+[Tue Jan 28 15:57:06 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Jan 28 15:57:14 2014]  say: ^0Darth ^1Javimetal: but Makermod Eu
+[Tue Jan 28 15:57:21 2014]  say: ^0Darth ^1Javimetal: the people troll me
+[Tue Jan 28 15:57:24 2014]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Tue Jan 28 15:57:25 2014]  say: ^1M^7r ^1Ð^7innertime: they will
+[Tue Jan 28 15:57:36 2014]  say: ^0Darth ^1Javimetal: wow
+[Tue Jan 28 15:57:38 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 15:58:02 2014]  say: ^0Darth ^1Javimetal: how can i see this scrips? /mkillfx? xDDDDDDD
+[Tue Jan 28 15:58:09 2014]  say: ^1M^7r ^1Ð^7innertime: Which script?
+[Tue Jan 28 15:58:19 2014]  say: ^0Darth ^1Javimetal: all for kill
+[Tue Jan 28 15:58:26 2014]  say: ^1M^7r ^1Ð^7innertime: Oh... you'd have to make your own
+[Tue Jan 28 15:58:28 2014]  say: ^0Darth ^1Javimetal: for example the thunder killer
+[Tue Jan 28 15:59:14 2014]  say: ^0Darth ^1Javimetal: lol how?
+[Tue Jan 28 15:59:16 2014]  say: ^1M^7r ^1Ð^7innertime: ._.
+[Tue Jan 28 15:59:18 2014]  say: ^1M^7r ^1Ð^7innertime: Well...
+[Tue Jan 28 15:59:38 2014]  say: ^1M^7r ^1Ð^7innertime: You'd need to place a text file in your jedi academy folder (in base or makermod)
+[Tue Jan 28 15:59:44 2014]  say: ^0Darth ^1Javimetal: aha
+[Tue Jan 28 15:59:46 2014]  say: ^1M^7r ^1Ð^7innertime: and put commands into it
+[Tue Jan 28 15:59:50 2014]  say: ^1M^7r ^1Ð^7innertime: separated by a ; or a new line
+[Tue Jan 28 15:59:58 2014]  say: ^0Darth ^1Javimetal: aha
+[Tue Jan 28 16:00:08 2014]  say: ^0Darth ^1Javimetal: and i write /marm 250? xD
+[Tue Jan 28 16:00:12 2014]  say: ^1M^7r ^1Ð^7innertime: then you would execute it with /exec <script name>.txt
+[Tue Jan 28 16:00:14 2014]  say: ^1M^7r ^1Ð^7innertime: no
+[Tue Jan 28 16:00:24 2014]  say: ^1M^7r ^1Ð^7innertime: You'd put marm as one of the commands in the script
+[Tue Jan 28 16:00:58 2014]  say: ^0Darth ^1Javimetal: wow
+[Tue Jan 28 16:01:00 2014]  say: ^1M^7r ^1Ð^7innertime: ?
+[Tue Jan 28 16:01:28 2014]  say: ^0Darth ^1Javimetal: ok,i write in makermod.txt the sript?
+[Tue Jan 28 16:01:37 2014]  say: ^1M^7r ^1Ð^7innertime: Uhm ._.
+[Tue Jan 28 16:01:38 2014]  say: ^1M^7r ^1Ð^7innertime: Sure
+[Tue Jan 28 16:01:49 2014]  say: ^1M^7r ^1Ð^7innertime: if you called your script makermod.txt then you'd put your commands inside it
+[Tue Jan 28 16:02:18 2014]  say: ^0Darth ^1Javimetal: aham... and, i can kill with this scripts? xD
+[Tue Jan 28 16:02:28 2014]  say: ^1M^7r ^1Ð^7innertime: if that's what you told your script to do then sure
+[Tue Jan 28 16:02:54 2014]  say: ^0Darth ^1Javimetal: ufff its very difficult to me, i dont know commands xD
+[Tue Jan 28 16:02:57 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Jan 28 16:03:01 2014]  say: ^1M^7r ^1Ð^7innertime: well
+[Tue Jan 28 16:03:06 2014]  say: ^0Darth ^1Javimetal: to kill i say
+[Tue Jan 28 16:03:37 2014]  say: ^1M^7r ^1Ð^7innertime: A basic script would be mmark; mplacefx env/fire 500; mgrab; mpain 100 199; mdrop
+[Tue Jan 28 16:03:38 2014]  say: ^1M^7r ^1Ð^7innertime: ._.
+[Tue Jan 28 16:03:45 2014]  say: ^1M^7r ^1Ð^7innertime: and that would mark a location for your effect
+[Tue Jan 28 16:03:50 2014]  say: ^1M^7r ^1Ð^7innertime: it would place a fire effect 
+[Tue Jan 28 16:03:54 2014]  say: ^1M^7r ^1Ð^7innertime: make you grab it
+[Tue Jan 28 16:03:56 2014]  say: ^1M^7r ^1Ð^7innertime: give it pain
+[Tue Jan 28 16:03:59 2014]  say: ^1M^7r ^1Ð^7innertime: and drop it in front of you
+[Tue Jan 28 16:04:55 2014]  say: ^0Darth ^1Javimetal: aha,m okey
+[Tue Jan 28 16:04:59 2014]  say: ^0Darth ^1Javimetal: thx :D
+[Tue Jan 28 16:04:59 2014]  say: ^1M^7r ^1Ð^7innertime: ._.
+[Tue Jan 28 16:05:01 2014]  say: ^1M^7r ^1Ð^7innertime: m[
+[Tue Jan 28 16:05:02 2014]  say: ^1M^7r ^1Ð^7innertime: np*
+[Tue Jan 28 16:05:10 2014]  say: ^1M^7r ^1Ð^7innertime: Do you remember how to execute it?
+[Tue Jan 28 16:05:16 2014]  say: ^1M^7r ^1Ð^7innertime: ah
+[Tue Jan 28 16:05:18 2014]  say: ^1M^7r ^1Ð^7innertime: well done
+[Tue Jan 28 16:05:31 2014]  say: ^1M^7r ^1Ð^7innertime: it won't damage people until you drop it
+[Tue Jan 28 16:05:42 2014]  say: ^0Darth ^1Javimetal: aham
+[Tue Jan 28 16:05:45 2014]  say: ^1M^7r ^1Ð^7innertime: ?
+[Tue Jan 28 16:05:58 2014]  say: ^1M^7r ^1Ð^7innertime: mdrop? ;o
+[Tue Jan 28 16:06:01 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Jan 28 16:06:05 2014]  say: ^0Darth ^1Javimetal:  xD
+[Tue Jan 28 16:06:20 2014]  say: ^0Darth ^1Javimetal: no kill xD
+[Tue Jan 28 16:06:23 2014]  say: ^1M^7r ^1Ð^7innertime: Oh..
+[Tue Jan 28 16:06:30 2014]  say: ^1M^7r ^1Ð^7innertime: Can you copy and paste what you typed into your script?
+[Tue Jan 28 16:06:54 2014]  say: ^0Darth ^1Javimetal: i write mplacefx env/fire 500
+[Tue Jan 28 16:07:00 2014]  say: ^1M^7r ^1Ð^7innertime: and that was it?
+[Tue Jan 28 16:07:14 2014]  say: ^1M^7r ^1Ð^7innertime: You typed that?
+[Tue Jan 28 16:07:16 2014]  say: ^1M^7r ^1Ð^7innertime: and nothing else
+[Tue Jan 28 16:07:30 2014]  say: ^0Darth ^1Javimetal:  typed in the console
+[Tue Jan 28 16:07:33 2014]  say: ^1M^7r ^1Ð^7innertime: lol.
+[Tue Jan 28 16:08:07 2014]  say: ^0Darth ^1Javimetal: lol
+[Tue Jan 28 16:08:08 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 16:08:18 2014]  say: ^1M^7r ^1Ð^7innertime: nice
+[Tue Jan 28 16:08:31 2014]  say: ^1M^7r ^1Ð^7innertime: Try putting that into the script
+[Tue Jan 28 16:08:33 2014]  say: ^0Darth ^1Javimetal: whoaaaa
+[Tue Jan 28 16:08:35 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Jan 28 16:08:53 2014]  say: ^0Darth ^1Javimetal: and i can kill with all mplacefx?
+[Tue Jan 28 16:08:57 2014]  say: ^1M^7r ^1Ð^7innertime: Uhm
+[Tue Jan 28 16:09:03 2014]  say: ^1M^7r ^1Ð^7innertime: Sure ._. I guess
+[Tue Jan 28 16:09:04 2014]  say: ^0Darth ^1Javimetal: ups
+[Tue Jan 28 16:09:08 2014]  say: ^1M^7r ^1Ð^7innertime: Unless they're like me xD
+[Tue Jan 28 16:09:14 2014]  say: ^0Darth ^1Javimetal: xDD
+[Tue Jan 28 16:09:19 2014]  say: ^1M^7r ^1Ð^7innertime: You'd have a hard time killing somebody like me ;o
+[Tue Jan 28 16:10:15 2014]  say: ^0Darth ^1Javimetal: hmmm i can write someone mplacefx, but i write ;mpain 100 199;mdrop
+[Tue Jan 28 16:10:35 2014]  say: ^1M^7r ^1Ð^7innertime: k? ._.
+[Tue Jan 28 16:10:45 2014]  say: ^1M^7r ^1Ð^7innertime: What's the problem?
+[Tue Jan 28 16:10:51 2014]  say: ^0Darth ^1Javimetal: nothing
+[Tue Jan 28 16:10:53 2014]  say: ^1M^7r ^1Ð^7innertime: ah
+[Tue Jan 28 16:11:10 2014]  say: ^0Darth ^1Javimetal: i need remember more mplacefx xD
+[Tue Jan 28 16:11:12 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Jan 28 16:11:15 2014]  say: ^0Darth ^1Javimetal: xDDDDD
+[Tue Jan 28 16:11:25 2014]  say: ^1M^7r ^1Ð^7innertime: try /mlistfx to find more
+[Tue Jan 28 16:11:52 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 16:11:56 2014]  say: ^0Darth ^1Javimetal: da fuck!?
+[Tue Jan 28 16:11:58 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Jan 28 16:11:59 2014]  say: ^0Darth ^1Javimetal: wow
+[Tue Jan 28 16:12:11 2014]  say: ^0Darth ^1Javimetal: KAMEHAMEHA!
+[Tue Jan 28 16:12:12 2014]  say: ^0Darth ^1Javimetal: xD
+[Tue Jan 28 16:12:13 2014]  say: ^1M^7r ^1Ð^7innertime: xd
+[Tue Jan 28 16:12:51 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 16:12:57 2014]  say: ^0Darth ^1Javimetal: FUS RO DA!
+[Tue Jan 28 16:13:07 2014]  Kill: 1022 0 0: <world> killed ^0Darth ^1Javimetal by MOD_UNKNOWN
+[Tue Jan 28 16:14:00 2014]  say: ^0Darth ^1Javimetal: lol where are u?
+[Tue Jan 28 16:14:07 2014]  say: ^1M^7r ^1Ð^7innertime: My origin is: (-5444 -21994 1675) - You can teleport here with /mtelelast
+
+[Tue Jan 28 16:14:19 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 16:14:24 2014]  say: ^0Darth ^1Javimetal: hi
+[Tue Jan 28 16:14:25 2014]  say: ^1M^7r ^1Ð^7innertime: hi
+[Tue Jan 28 16:14:31 2014]  say: ^0Darth ^1Javimetal: wow
+[Tue Jan 28 16:14:52 2014]  say: ^0Darth ^1Javimetal: i train the kill scripts xD
+[Tue Jan 28 16:14:55 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 16:16:02 2014]  say: ^1M^7r ^1Ð^7innertime: !stop
+[Tue Jan 28 16:16:30 2014]  say: ^0Darth ^1Javimetal: no kill luke xD
+[Tue Jan 28 16:16:33 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 16:18:49 2014]  say: ^0Darth ^1Javimetal: almost
+[Tue Jan 28 16:18:50 2014]  say: ^0Darth ^1Javimetal: xD
+[Tue Jan 28 16:18:51 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 16:19:01 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Jan 28 16:19:22 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 16:19:42 2014]  say: ^0Darth ^1Javimetal: now no kill xD
+[Tue Jan 28 16:20:03 2014]  say: ^1M^7r ^1Ð^7innertime: yeah ;o You didn't stand a chance xD
+[Tue Jan 28 16:20:08 2014]  say: ^1M^7r ^1Ð^7innertime: They have over 2 billion health each
+[Tue Jan 28 16:20:18 2014]  say: ^0Darth ^1Javimetal: aaaaa uff xD
+[Tue Jan 28 16:20:19 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 16:21:44 2014]  say: ^1M^7r ^1Ð^7innertime: x
+[Tue Jan 28 16:21:45 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Jan 28 16:22:14 2014]  say: ^0Darth ^1Javimetal: GIA SECANO!
+[Tue Jan 28 16:22:16 2014]  say: ^0Darth ^1Javimetal: xD
+[Tue Jan 28 16:23:14 2014]  say: ^0Darth ^1Javimetal: wow
+[Tue Jan 28 16:23:23 2014]  say: ^0Darth ^1Javimetal: how u make? xD
+[Tue Jan 28 16:24:06 2014]  Kill: 1 0 36: ^1M^7r ^1Ð^7innertime killed ^0Darth ^1Javimetal by MOD_CRUSH
+[Tue Jan 28 16:25:54 2014]  ClientDisconnect: 1
+[Tue Jan 28 16:28:53 2014]  ClientDisconnect: 0
+[Tue Jan 28 17:22:53 2014]  Exit: Timelimit hit.
+[Tue Jan 28 22:04:36 2014]  ClientConnect: 0
+[Tue Jan 28 22:04:36 2014]  mlog:Player ^0Darth ^1Javimetal, connected. With IP - 85.219.4.121:29070 
+[Tue Jan 28 22:04:48 2014]  ClientBegin: 0
+[Tue Jan 28 22:04:51 2014]  ShutdownGame:
+[Tue Jan 28 22:04:51 2014]  ------------------------------------------------------------
+[Tue Jan 28 22:04:52 2014]  ------------------------------------------------------------
+[Tue Jan 28 22:04:52 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 28 22:04:53 2014]  ClientConnect: 0
+[Tue Jan 28 22:05:01 2014]  ClientBegin: 0
+[Tue Jan 28 22:15:43 2014]  ClientDisconnect: 0
+[Tue Jan 28 22:26:45 2014]  ClientConnect: 0
+[Tue Jan 28 22:26:45 2014]  mlog:Player ^0Darth ^1Javimetal, connected. With IP - 85.219.4.121:29070 
+[Tue Jan 28 22:27:04 2014]  ClientBegin: 0
+[Tue Jan 28 22:30:50 2014]  ClientDisconnect: 0
+[Wed Jan 29 00:03:39 2014]  ClientConnect: 0
+[Wed Jan 29 00:03:39 2014]  mlog:Player Jimmy, connected. With IP - 174.21.62.37:29070 
+[Wed Jan 29 00:03:53 2014]  ClientBegin: 0
+[Wed Jan 29 00:04:51 2014]  Exit: Timelimit hit.
+[Wed Jan 29 00:04:51 2014]  score: 1  ping: 225  client: 0 Jimmy
+[Wed Jan 29 00:04:57 2014]  ShutdownGame:
+[Wed Jan 29 00:04:57 2014]  ------------------------------------------------------------

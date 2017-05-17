@@ -1,0 +1,625 @@
+[Sat Apr 23 01:17:01 2016]  ------------------------------------------------------------
+[Sat Apr 23 01:17:01 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Apr 23 12:52:12 2016]  ------------------------------------------------------------
+[Sat Apr 23 12:52:12 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Apr 23 20:00:41 2016]  ClientConnect: 0
+[Sat Apr 23 20:00:41 2016]  mlog:Player Padawan, connected. With IP - 76.97.136.226:29070 
+[Sat Apr 23 20:01:08 2016]  ClientBegin: 0
+[Sat Apr 23 20:01:47 2016]  ClientDisconnect: 0
+[Sat Apr 23 22:50:55 2016]  ClientConnect: 0
+[Sat Apr 23 22:50:55 2016]  mlog:Player Padawan, connected. With IP - 190.31.29.59:29070 
+[Sat Apr 23 22:51:44 2016]  ClientBegin: 0
+[Sat Apr 23 22:53:04 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Sat Apr 23 22:57:49 2016]  ClientDisconnect: 0
+[Sat Apr 23 23:00:50 2016]  ------------------------------------------------------------
+[Sat Apr 23 23:00:50 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Apr 23 23:04:37 2016]  ------------------------------------------------------------
+[Sat Apr 23 23:04:37 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Apr 24 18:36:52 2016]  ClientConnect: 0
+[Sun Apr 24 18:36:52 2016]  mlog:Player Gyuri, connected. With IP - 212.96.40.29:29070 
+[Sun Apr 24 18:40:13 2016]  ClientDisconnect: 0
+[Sun Apr 24 23:55:36 2016]  ClientConnect: 0
+[Sun Apr 24 23:55:36 2016]  mlog:Player Starkiller, connected. With IP - 95.247.210.6:-9512 
+[Sun Apr 24 23:55:46 2016]  ClientConnect: 1
+[Sun Apr 24 23:55:46 2016]  mlog:Player Emporor Revvan, connected. With IP - 95.238.222.162:-2348 
+[Sun Apr 24 23:56:02 2016]  ClientBegin: 0
+[Sun Apr 24 23:56:09 2016]  ClientBegin: 1
+[Sun Apr 24 23:57:14 2016]  say: Kevlar: npc spawn luke
+[Sun Apr 24 23:58:35 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Sun Apr 24 23:59:52 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:00:28 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:00:59 2016]  Kill: 0 1 3: Starkiller killed Kevlar by MOD_SABER
+[Mon Apr 25 00:01:18 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:02:03 2016]  Kill: 1 1 39: Kevlar killed Kevlar by MOD_SUICIDE
+[Mon Apr 25 00:02:44 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:03:35 2016]  Kill: 0 1 3: Starkiller killed Kevlar by MOD_SABER
+[Mon Apr 25 00:04:19 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:04:37 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:04:52 2016]  Kill: 0 1 3: Starkiller killed Kevlar by MOD_SABER
+[Mon Apr 25 00:05:01 2016]  Kill: 0 1 3: Starkiller killed Kevlar by MOD_SABER
+[Mon Apr 25 00:06:02 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:07:37 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:08:52 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:10:07 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:11:07 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:11:29 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:12:36 2016]  Kill: 1022 0 3: <world> killed Starkiller by MOD_SABER
+[Mon Apr 25 00:12:39 2016]  Kill: 1022 1 3: <world> killed Kevlar by MOD_SABER
+[Mon Apr 25 00:13:30 2016]  Kill: 1022 0 3: <world> killed Starkiller by MOD_SABER
+[Mon Apr 25 00:13:55 2016]  Kill: 1022 1 3: <world> killed Kevlar by MOD_SABER
+[Mon Apr 25 00:14:46 2016]  Kill: 0 1 3: Starkiller killed Kevlar by MOD_SABER
+[Mon Apr 25 00:15:24 2016]  Kill: 1022 0 3: <world> killed Starkiller by MOD_SABER
+[Mon Apr 25 00:15:25 2016]  Kill: 1022 1 3: <world> killed Kevlar by MOD_SABER
+[Mon Apr 25 00:15:51 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:16:36 2016]  Kill: 1022 0 3: <world> killed Starkiller by MOD_SABER
+[Mon Apr 25 00:17:52 2016]  Kill: 1022 0 3: <world> killed Starkiller by MOD_SABER
+[Mon Apr 25 00:18:13 2016]  Kill: 1022 0 3: <world> killed Starkiller by MOD_SABER
+[Mon Apr 25 00:18:23 2016]  Kill: 1022 0 3: <world> killed Starkiller by MOD_SABER
+[Mon Apr 25 00:20:17 2016]  Kill: 1022 0 3: <world> killed Starkiller by MOD_SABER
+[Mon Apr 25 00:22:19 2016]  Kill: 1022 1 3: <world> killed Kevlar by MOD_SABER
+[Mon Apr 25 00:23:30 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:26:22 2016]  Kill: 1 0 5: Kevlar killed Starkiller by MOD_BRYAR_PISTOL_ALT
+[Mon Apr 25 00:26:30 2016]  Kill: 1 1 39: Kevlar killed Kevlar by MOD_SUICIDE
+[Mon Apr 25 00:28:09 2016]  Kill: 1 0 21: Kevlar killed Starkiller by MOD_ROCKET_HOMING
+[Mon Apr 25 00:29:50 2016]  Kill: 1 0 22: Kevlar killed Starkiller by MOD_ROCKET_HOMING_SPLASH
+[Mon Apr 25 00:31:29 2016]  Kill: 1 0 10: Kevlar killed Starkiller by MOD_DISRUPTOR_SNIPER
+[Mon Apr 25 00:32:16 2016]  Kill: 0 1 11: Starkiller killed Kevlar by MOD_BOWCASTER
+[Mon Apr 25 00:32:20 2016]  Item: 0 weapon_bowcaster
+[Mon Apr 25 00:33:17 2016]  Kill: 1 0 11: Kevlar killed Starkiller by MOD_BOWCASTER
+[Mon Apr 25 00:33:20 2016]  Item: 1 weapon_bowcaster
+[Mon Apr 25 00:33:49 2016]  Kill: 1 0 29: Kevlar killed Starkiller by MOD_CONC
+[Mon Apr 25 00:33:56 2016]  Item: 1 weapon_concussion_rifle
+[Mon Apr 25 00:34:21 2016]  Kill: 1 0 20: Kevlar killed Starkiller by MOD_ROCKET_SPLASH
+[Mon Apr 25 00:35:24 2016]  Kill: 0 1 21: Starkiller killed Kevlar by MOD_ROCKET_HOMING
+[Mon Apr 25 00:36:39 2016]  Kill: 0 1 19: Starkiller killed Kevlar by MOD_ROCKET
+[Mon Apr 25 00:38:11 2016]  Kill: 1 0 25: Kevlar killed Starkiller by MOD_TRIP_MINE_SPLASH
+[Mon Apr 25 00:38:11 2016]  Kill: 1 1 25: Kevlar killed Kevlar by MOD_TRIP_MINE_SPLASH
+[Mon Apr 25 00:39:09 2016]  Kill: 1 1 25: Kevlar killed Kevlar by MOD_TRIP_MINE_SPLASH
+[Mon Apr 25 00:41:11 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:41:11 2016]  Kill: 1 1 25: Kevlar killed Kevlar by MOD_TRIP_MINE_SPLASH
+[Mon Apr 25 00:41:32 2016]  Kill: 1 0 25: Kevlar killed Starkiller by MOD_TRIP_MINE_SPLASH
+[Mon Apr 25 00:41:32 2016]  Kill: 1 1 25: Kevlar killed Kevlar by MOD_TRIP_MINE_SPLASH
+[Mon Apr 25 00:42:05 2016]  Kill: 1 0 25: Kevlar killed Starkiller by MOD_TRIP_MINE_SPLASH
+[Mon Apr 25 00:42:05 2016]  Kill: 1 1 25: Kevlar killed Kevlar by MOD_TRIP_MINE_SPLASH
+[Mon Apr 25 00:42:10 2016]  Item: 0 weapon_det_pack
+[Mon Apr 25 00:42:19 2016]  Item: 1 weapon_concussion_rifle
+[Mon Apr 25 00:42:23 2016]  Kill: 1 0 25: Kevlar killed Starkiller by MOD_TRIP_MINE_SPLASH
+[Mon Apr 25 00:42:51 2016]  Item: 0 weapon_demp2
+[Mon Apr 25 00:43:10 2016]  Kill: 1 1 27: Kevlar killed Kevlar by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:43:51 2016]  Kill: 1 1 27: Kevlar killed Kevlar by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:44:21 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:44:27 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:44:32 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:44:56 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:44:56 2016]  Kill: 1 1 27: Kevlar killed Kevlar by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:45:23 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:45:27 2016]  Kill: 1 1 27: Kevlar killed Kevlar by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:46:05 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:46:28 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:46:28 2016]  Kill: 1 1 27: Kevlar killed Kevlar by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:47:28 2016]  Kill: 1 0 5: Kevlar killed Starkiller by MOD_BRYAR_PISTOL_ALT
+[Mon Apr 25 00:48:03 2016]  Kill: 1 0 3: Kevlar killed Starkiller by MOD_SABER
+[Mon Apr 25 00:48:13 2016]  Kill: 1 1 25: Kevlar killed Kevlar by MOD_TRIP_MINE_SPLASH
+[Mon Apr 25 00:48:44 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:49:04 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:49:31 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:49:42 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:49:52 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:50:01 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:50:13 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:50:34 2016]  Kill: 0 0 27: Starkiller killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:50:49 2016]  Kill: 0 1 27: Starkiller killed Kevlar by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:51:54 2016]  Kill: 0 1 27: Starkiller killed Kevlar by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:52:20 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:52:34 2016]  Item: 0 weapon_det_pack
+[Mon Apr 25 00:52:37 2016]  Kill: 1 0 27: Kevlar killed Starkiller by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:52:37 2016]  Kill: 1 1 27: Kevlar killed Kevlar by MOD_DET_PACK_SPLASH
+[Mon Apr 25 00:53:26 2016]  Kill: 1 0 24: Kevlar killed Starkiller by MOD_THERMAL_SPLASH
+[Mon Apr 25 00:54:08 2016]  Kill: 1 0 23: Kevlar killed Starkiller by MOD_THERMAL
+[Mon Apr 25 00:54:32 2016]  Kill: 0 1 23: Starkiller killed Kevlar by MOD_THERMAL
+[Mon Apr 25 00:55:27 2016]  Kill: 0 1 24: Starkiller killed Kevlar by MOD_THERMAL_SPLASH
+[Mon Apr 25 00:55:44 2016]  Kill: 0 1 23: Starkiller killed Kevlar by MOD_THERMAL
+[Mon Apr 25 00:55:54 2016]  Kill: 0 1 23: Starkiller killed Kevlar by MOD_THERMAL
+[Mon Apr 25 00:56:03 2016]  Kill: 1 0 10: Kevlar killed Starkiller by MOD_DISRUPTOR_SNIPER
+[Mon Apr 25 00:59:11 2016]  Kill: 1 0 10: Kevlar killed Starkiller by MOD_DISRUPTOR_SNIPER
+[Mon Apr 25 00:59:44 2016]  Kill: 1 0 10: Kevlar killed Starkiller by MOD_DISRUPTOR_SNIPER
+[Mon Apr 25 01:00:46 2016]  Kill: 0 1 10: Starkiller killed Kevlar by MOD_DISRUPTOR_SNIPER
+[Mon Apr 25 01:00:54 2016]  Item: 0 weapon_disruptor
+[Mon Apr 25 01:01:22 2016]  Kill: 1 0 10: Kevlar killed Starkiller by MOD_DISRUPTOR_SNIPER
+[Mon Apr 25 01:02:06 2016]  Kill: 1 0 10: Kevlar killed Starkiller by MOD_DISRUPTOR_SNIPER
+[Mon Apr 25 01:02:19 2016]  Kill: 1 0 10: Kevlar killed Starkiller by MOD_DISRUPTOR_SNIPER
+[Mon Apr 25 01:02:28 2016]  Kill: 0 1 8: Starkiller killed Kevlar by MOD_DISRUPTOR
+[Mon Apr 25 01:03:12 2016]  Kill: 1 0 8: Kevlar killed Starkiller by MOD_DISRUPTOR
+[Mon Apr 25 01:09:24 2016]  ClientDisconnect: 1
+[Mon Apr 25 01:09:34 2016]  ClientDisconnect: 0
+[Mon Apr 25 13:16:02 2016]  ClientConnect: 0
+[Mon Apr 25 13:16:02 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Mon Apr 25 13:16:20 2016]  ClientBegin: 0
+[Mon Apr 25 13:16:28 2016]  ClientDisconnect: 0
+[Mon Apr 25 23:21:16 2016]  ClientConnect: 0
+[Mon Apr 25 23:21:16 2016]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 109.154.169.107:29070 
+[Mon Apr 25 23:21:41 2016]  ClientConnect: 1
+[Mon Apr 25 23:21:41 2016]  mlog:Player Padawan, connected. With IP - 73.131.194.43:29070 
+[Mon Apr 25 23:21:44 2016]  ClientBegin: 0
+[Mon Apr 25 23:22:02 2016]  ClientBegin: 1
+[Mon Apr 25 23:22:05 2016]  say: ^1M^7r ^1Ð^7innertime: Hey :D
+[Mon Apr 25 23:22:18 2016]  print "^4TOTALLYNOTJEDIMUSTS^7 @@@PLRENAME jm
+"[Mon Apr 25 23:22:21 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon Apr 25 23:22:34 2016]  say: jm: rofl at this point i dont know if i should even use a real name
+[Mon Apr 25 23:22:38 2016]  say: ^1M^7r ^1Ð^7innertime: Hey. Did I ever show you my vegeta final atonement script? XD
+[Mon Apr 25 23:22:44 2016]  say: jm: no
+[Mon Apr 25 23:22:46 2016]  say: ^1M^7r ^1Ð^7innertime: :O
+[Mon Apr 25 23:22:51 2016]  say: ^1M^7r ^1Ð^7innertime: go into noclip and watch XD
+[Mon Apr 25 23:23:02 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon Apr 25 23:23:07 2016]  say: jm: o
+[Mon Apr 25 23:23:19 2016]  say: ^1M^7r ^1Ð^7innertime: It kills anybody without overshield in a huge radius XD
+[Mon Apr 25 23:23:28 2016]  say: ^1M^7r ^1Ð^7innertime: go to the spawn and see the radius for yourself :D :D
+[Mon Apr 25 23:23:41 2016]  say: ^1M^7r ^1Ð^7innertime: I think this is close enough
+[Mon Apr 25 23:23:47 2016]  Kill: 1022 1 36: <world> killed jm by MOD_CRUSH
+[Mon Apr 25 23:23:48 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon Apr 25 23:23:50 2016]  say: jm: WHOA
+[Mon Apr 25 23:23:51 2016]  Kill: 1022 1 36: <world> killed jm by MOD_CRUSH
+[Mon Apr 25 23:23:52 2016]  Kill: 1022 1 36: <world> killed jm by MOD_CRUSH
+[Mon Apr 25 23:23:52 2016]  say: ^1M^7r ^1Ð^7innertime: yeah XD
+[Mon Apr 25 23:23:53 2016]  Kill: 1022 1 36: <world> killed jm by MOD_CRUSH
+[Mon Apr 25 23:23:58 2016]  say: ^1M^7r ^1Ð^7innertime: insane, isn't it?
+[Mon Apr 25 23:24:02 2016]  say: jm: yep
+[Mon Apr 25 23:24:04 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon Apr 25 23:24:26 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon Apr 25 23:24:30 2016]  say: ^1M^7r ^1Ð^7innertime: I showed you that one, right?
+[Mon Apr 25 23:24:36 2016]  say: jm: i think
+[Mon Apr 25 23:24:37 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon Apr 25 23:24:56 2016]  say: jm: >can walk through trees
+[Mon Apr 25 23:24:58 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon Apr 25 23:25:04 2016]  say: jm: yep i  havent forgotten
+[Mon Apr 25 23:25:30 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon Apr 25 23:25:41 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon Apr 25 23:25:50 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon Apr 25 23:25:58 2016]  Item: 441 weapon_flechette
+[Mon Apr 25 23:26:00 2016]  say: ^1M^7r ^1Ð^7innertime: they're invincible to anybody without scripts
+[Mon Apr 25 23:26:12 2016]  say: jm: need to bind ctrl
+[Mon Apr 25 23:26:15 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon Apr 25 23:26:24 2016]  say: ^1M^7r ^1Ð^7innertime: wait
+[Mon Apr 25 23:26:29 2016]  say: ^1M^7r ^1Ð^7innertime: what do you use ctrl for?
+[Mon Apr 25 23:27:06 2016]  ClientDisconnect: 1
+[Mon Apr 25 23:27:06 2016]  ClientConnect: 1
+[Mon Apr 25 23:27:06 2016]  mlog:Player Padawan, connected. With IP - 73.131.194.43:29070 
+[Mon Apr 25 23:27:23 2016]  ClientBegin: 1
+[Mon Apr 25 23:31:02 2016]  ClientDisconnect: 1
+[Mon Apr 25 23:50:13 2016]  ClientConnect: 1
+[Mon Apr 25 23:50:13 2016]  mlog:Player Padawan, connected. With IP - 73.131.194.43:29070 
+[Mon Apr 25 23:51:02 2016]  ClientBegin: 1
+[Mon Apr 25 23:51:09 2016]  say: Padawan: f the name
+[Mon Apr 25 23:51:24 2016]  say: Padawan: ahh this r9 is so much better
+[Mon Apr 25 23:51:29 2016]  say: Padawan: easily grabbing 325  fps
+[Mon Apr 25 23:53:59 2016]  say: ^1M^7r ^1Ð^7innertime: wb
+[Mon Apr 25 23:54:05 2016]  say: Padawan: ye
+[Mon Apr 25 23:54:18 2016]  say: ^1M^7r ^1Ð^7innertime: this was my attempt at making an x-wing XD
+[Mon Apr 25 23:54:20 2016]  say: Padawan: its probably not save to just have a gpu laying on my  desk
+[Mon Apr 25 23:54:23 2016]  say: ^1M^7r ^1Ð^7innertime: until I found that rotating was bugged
+[Mon Apr 25 23:54:25 2016]  say: Padawan: lol
+[Mon Apr 25 23:54:58 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon Apr 25 23:55:02 2016]  say: Padawan: that was an overkill mkillall
+[Mon Apr 25 23:55:03 2016]  say: Padawan: lol
+[Mon Apr 25 23:55:05 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon Apr 25 23:55:16 2016]  say: ^1M^7r ^1Ð^7innertime: a
+[Mon Apr 25 23:55:20 2016]  say: ^1M^7r ^1Ð^7innertime: Want to see overkill?
+[Mon Apr 25 23:55:26 2016]  say: Padawan: yea
+[Mon Apr 25 23:55:32 2016]  say: Padawan: ffs
+[Mon Apr 25 23:55:32 2016]  say: ^1M^7r ^1Ð^7innertime: I have to warn you
+[Mon Apr 25 23:55:35 2016]  say: ^1M^7r ^1Ð^7innertime: it's quite overkill
+[Mon Apr 25 23:55:38 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon Apr 25 23:55:45 2016]  say: Padawan: its a rocke
+[Mon Apr 25 23:55:45 2016]  say: ^1M^7r ^1Ð^7innertime: let me know when you're ready. It's a bit spammy
+[Mon Apr 25 23:55:49 2016]  say: ^1M^7r ^1Ð^7innertime: I say a bit... LOL
+[Mon Apr 25 23:56:00 2016]  say: Padawan: turning down all of my gpu settings
+[Mon Apr 25 23:56:02 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon Apr 25 23:56:11 2016]  say: ^1M^7r ^1Ð^7innertime: wait. Let me make sure part 2 of the script works
+[Mon Apr 25 23:56:12 2016]  say: Padawan: this maymake the card really hot
+[Mon Apr 25 23:56:38 2016]  say: Padawan: going to watch from distance im too lazy to turn them down
+[Mon Apr 25 23:56:47 2016]  say: Padawan: i am ready
+[Mon Apr 25 23:57:24 2016]  say: ^1M^7r ^1Ð^7innertime: ok
+[Mon Apr 25 23:57:26 2016]  say: ^1M^7r ^1Ð^7innertime: and... compiling
+[Mon Apr 25 23:57:41 2016]  say: ^1M^7r ^1Ð^7innertime: FIRE
+[Mon Apr 25 23:57:42 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon Apr 25 23:57:47 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon Apr 25 23:57:50 2016]  say: Padawan: i love this music and how it goes perfectly with this
+[Mon Apr 25 23:57:54 2016]  say: Padawan: JESUS FUCKING CHRIST
+[Mon Apr 25 23:57:56 2016]  say: ^1M^7r ^1Ð^7innertime: xDXD
+[Mon Apr 25 23:58:01 2016]  say: ^1M^7r ^1Ð^7innertime: lmao
+[Mon Apr 25 23:58:03 2016]  say: Padawan: THE FANS ON THE CARD
+[Mon Apr 25 23:58:05 2016]  say: ^1M^7r ^1Ð^7innertime: XDXDXD
+[Mon Apr 25 23:58:27 2016]  say: ^1M^7r ^1Ð^7innertime: Wait. Let me just test something
+[Mon Apr 25 23:58:37 2016]  say: ^1M^7r ^1Ð^7innertime: I wonder if I can mname all of those bombs and then mselect them all at once
+[Mon Apr 25 23:58:40 2016]  say: ^1M^7r ^1Ð^7innertime: rather than mkillall
+[Mon Apr 25 23:59:18 2016]  say: ^1M^7r ^1Ð^7innertime: and mselect fire :D
+[Mon Apr 25 23:59:24 2016]  say: ^1M^7r ^1Ð^7innertime: aww
+[Mon Apr 25 23:59:28 2016]  say: Padawan: do you think scooper didz spior and toast are willing to make a plug in for gmod about MM
+[Mon Apr 25 23:59:30 2016]  say: ^1M^7r ^1Ð^7innertime: Yeah XD I need mkillall
+[Mon Apr 25 23:59:33 2016]  say: Padawan: lol
+[Mon Apr 25 23:59:34 2016]  say: ^1M^7r ^1Ð^7innertime: doubt it. lol
+[Mon Apr 25 23:59:41 2016]  say: Padawan: rofl
+[Mon Apr 25 23:59:58 2016]  say: ^1M^7r ^1Ð^7innertime: I think all gmod needs is scripts :D :D the ability to perform commands with delays
+[Tue Apr 26 00:00:05 2016]  say: Padawan: ea
+[Tue Apr 26 00:00:06 2016]  say: Padawan: yea
+[Tue Apr 26 00:00:26 2016]  say: Padawan: also MM needs to have a where are they now thing about the 20(few) people who were active here
+[Tue Apr 26 00:00:37 2016]  say: Padawan: it all started with joe
+[Tue Apr 26 00:02:41 2016]  say: Padawan: le catw
+[Tue Apr 26 00:03:05 2016]  say: Padawan: how do i make a object with a property of elevating?
+[Tue Apr 26 00:03:16 2016]  say: Padawan: oh
+[Tue Apr 26 00:03:18 2016]  say: Padawan: mplatform
+[Tue Apr 26 00:03:23 2016]  say: ^1M^7r ^1Ð^7innertime: sorry XD also playing roblox
+[Tue Apr 26 00:03:37 2016]  say: Padawan: yee
+[Tue Apr 26 00:03:44 2016]  say: ^1M^7r ^1Ð^7innertime: ;D
+[Tue Apr 26 00:03:49 2016]  say: ^1M^7r ^1Ð^7innertime: did you see my script switcher?
+[Tue Apr 26 00:03:53 2016]  say: Padawan: not yet
+[Tue Apr 26 00:03:54 2016]  say: ^1M^7r ^1Ð^7innertime: :O
+[Tue Apr 26 00:03:59 2016]  say: Padawan: also what is the model name for the 
+[Tue Apr 26 00:04:05 2016]  say: Padawan: switchy thing from factory/
+[Tue Apr 26 00:04:09 2016]  say: ^1M^7r ^1Ð^7innertime: uhh
+[Tue Apr 26 00:04:12 2016]  say: ^1M^7r ^1Ð^7innertime: factory/f_con
+[Tue Apr 26 00:04:13 2016]  say: ^1M^7r ^1Ð^7innertime: maybe
+[Tue Apr 26 00:04:15 2016]  say: Padawan: ah
+[Tue Apr 26 00:04:17 2016]  say: Padawan: yea
+[Tue Apr 26 00:04:18 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 26 00:04:41 2016]  say: Padawan: low budget mgrab
+[Tue Apr 26 00:05:57 2016]  say: Padawan: so forsome reason its mtouchable now
+[Tue Apr 26 00:05:59 2016]  say: Padawan: wtf
+[Tue Apr 26 00:06:06 2016]  say: Padawan: i only made it musable
+[Tue Apr 26 00:07:29 2016]  say: Padawan: perfect
+[Tue Apr 26 00:07:55 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:07:58 2016]  say: Padawan: wot
+[Tue Apr 26 00:08:03 2016]  say: ^1M^7r ^1Ð^7innertime: did you not hear the sound?
+[Tue Apr 26 00:08:10 2016]  say: Padawan: i hear music
+[Tue Apr 26 00:08:12 2016]  say: ^1M^7r ^1Ð^7innertime: Oh XD
+[Tue Apr 26 00:08:14 2016]  say: ^1M^7r ^1Ð^7innertime: wrong script
+[Tue Apr 26 00:08:46 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:08:51 2016]  say: Padawan: was that a HZ drop
+[Tue Apr 26 00:08:52 2016]  say: Padawan: rofl
+[Tue Apr 26 00:08:53 2016]  say: Padawan: Hz
+[Tue Apr 26 00:08:55 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 26 00:09:03 2016]  say: Padawan: bass in the cantina song
+[Tue Apr 26 00:09:17 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:09:24 2016]  say: Padawan: ffs select this fcon
+[Tue Apr 26 00:09:32 2016]  say: Padawan: probably shoulve named it
+[Tue Apr 26 00:09:40 2016]  say: ^1M^7r ^1Ð^7innertime: /mselect <id> also works
+[Tue Apr 26 00:09:49 2016]  say: Padawan: i dont know the id
+[Tue Apr 26 00:09:50 2016]  say: Padawan: wait
+[Tue Apr 26 00:10:04 2016]  say: Padawan: nope i dont
+[Tue Apr 26 00:10:37 2016]  say: Padawan: JK2 flashbacks
+[Tue Apr 26 00:10:41 2016]  say: Padawan: BARTENDER
+[Tue Apr 26 00:11:03 2016]  say: Padawan: yea
+[Tue Apr 26 00:11:33 2016]  say: Padawan: do you have a script thats 1 long, 1 wide and 3 up
+[Tue Apr 26 00:11:35 2016]  say: Padawan: a box
+[Tue Apr 26 00:12:14 2016]  say: ^1M^7r ^1Ð^7innertime: uhh
+[Tue Apr 26 00:12:20 2016]  say: ^1M^7r ^1Ð^7innertime: no
+[Tue Apr 26 00:12:21 2016]  say: ^1M^7r ^1Ð^7innertime: D:
+[Tue Apr 26 00:12:24 2016]  say: Padawan: rip
+[Tue Apr 26 00:12:47 2016]  say: ^1M^7r ^1Ð^7innertime: brb
+[Tue Apr 26 00:12:50 2016]  say: Padawan: ok
+[Tue Apr 26 00:14:12 2016]  say: ^1M^7r ^1Ð^7innertime: kk back
+[Tue Apr 26 00:14:13 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 26 00:14:16 2016]  say: Padawan: ok
+[Tue Apr 26 00:14:33 2016]  say: Padawan: agh
+[Tue Apr 26 00:15:09 2016]  say: Padawan: sicmah: z fighting
+[Tue Apr 26 00:15:23 2016]  say: Padawan: TURN AROUND JAN
+[Tue Apr 26 00:15:25 2016]  say: Padawan: FFS
+[Tue Apr 26 00:16:34 2016]  say: ^1M^7r ^1Ð^7innertime: that's not z fighting
+[Tue Apr 26 00:16:38 2016]  say: ^1M^7r ^1Ð^7innertime: want to see z fighting?
+[Tue Apr 26 00:16:42 2016]  say: Padawan: ok
+[Tue Apr 26 00:16:48 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:16:50 2016]  say: Padawan: rofl
+[Tue Apr 26 00:17:09 2016]  say: Padawan: luckily i had a spawner
+[Tue Apr 26 00:17:11 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:17:16 2016]  Kill: 0 0 36: ^1M^7r ^1Ð^7innertime killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Tue Apr 26 00:17:19 2016]  say: Padawan: NICE
+[Tue Apr 26 00:17:21 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:17:21 2016]  say: Padawan: FLAWED
+[Tue Apr 26 00:17:24 2016]  say: Padawan: DESIGN FLAW
+[Tue Apr 26 00:17:27 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:17:30 2016]  say: ^1M^7r ^1Ð^7innertime: naw
+[Tue Apr 26 00:17:33 2016]  say: Padawan: i think
+[Tue Apr 26 00:17:37 2016]  say: ^1M^7r ^1Ð^7innertime: I don't believe in scripts which noclip me
+[Tue Apr 26 00:17:40 2016]  say: ^1M^7r ^1Ð^7innertime: it's cheap
+[Tue Apr 26 00:17:48 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:17:49 2016]  say: Padawan: you can do the god glitch from exo
+[Tue Apr 26 00:17:55 2016]  say: Padawan: iffff you can get ahold of him
+[Tue Apr 26 00:17:57 2016]  say: ^1M^7r ^1Ð^7innertime: from exo?..
+[Tue Apr 26 00:18:00 2016]  say: Padawan: exodus
+[Tue Apr 26 00:18:03 2016]  say: ^1M^7r ^1Ð^7innertime: I know but 
+[Tue Apr 26 00:18:06 2016]  say: ^1M^7r ^1Ð^7innertime: which god glitch?
+[Tue Apr 26 00:18:16 2016]  say: Padawan: the one that requires mmodule
+[Tue Apr 26 00:18:19 2016]  say: ^1M^7r ^1Ð^7innertime: *_*
+[Tue Apr 26 00:18:24 2016]  say: Padawan: which i cant use
+[Tue Apr 26 00:18:26 2016]  say: Padawan: cause im on steam
+[Tue Apr 26 00:18:34 2016]  say: ^1M^7r ^1Ð^7innertime: I normally just do this if I really care about being hit
+[Tue Apr 26 00:18:38 2016]  say: Padawan: how do you put pain on objects?
+[Tue Apr 26 00:18:44 2016]  say: Padawan: mkillsw
+[Tue Apr 26 00:18:46 2016]  say: Padawan: i remeber now
+[Tue Apr 26 00:18:47 2016]  say: Padawan: lol
+[Tue Apr 26 00:18:49 2016]  say: ^1M^7r ^1Ð^7innertime: overshield + overhealth
+[Tue Apr 26 00:18:50 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Apr 26 00:19:11 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 26 00:19:34 2016]  say: Padawan: FFS
+[Tue Apr 26 00:19:36 2016]  Kill: 1022 1 0: <world> killed Padawan by MOD_UNKNOWN
+[Tue Apr 26 00:19:39 2016]  say: Padawan: oh there we go
+[Tue Apr 26 00:19:45 2016]  say: Padawan: it didnt printsw
+[Tue Apr 26 00:19:46 2016]  say: Padawan: ffs
+[Tue Apr 26 00:19:56 2016]  say: Padawan: oh well that wasnt the actual thing however
+[Tue Apr 26 00:20:20 2016]  say: Padawan: lol
+[Tue Apr 26 00:20:39 2016]  say: Padawan: OH I KNOW WHAT TO DO
+[Tue Apr 26 00:20:41 2016]  say: Padawan: RANCOR GLITCH
+[Tue Apr 26 00:20:48 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 26 00:20:54 2016]  say: ^1M^7r ^1Ð^7innertime: LET ME KILL IT
+[Tue Apr 26 00:20:56 2016]  say: Padawan: no
+[Tue Apr 26 00:20:58 2016]  say: Padawan: wait
+[Tue Apr 26 00:21:04 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:21:05 2016]  say: Padawan: aw it slapped me
+[Tue Apr 26 00:21:08 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:21:09 2016]  Kill: 1022 1 38: <world> killed Padawan by MOD_FALLING
+[Tue Apr 26 00:21:10 2016]  say: Padawan: EAT ME
+[Tue Apr 26 00:21:11 2016]  say: Padawan: OMFG
+[Tue Apr 26 00:21:12 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:21:25 2016]  Kill: 1022 1 38: <world> killed Padawan by MOD_FALLING
+[Tue Apr 26 00:21:27 2016]  say: Padawan: WTF
+[Tue Apr 26 00:21:41 2016]  say: Padawan: STOP SLAPPING ME
+[Tue Apr 26 00:21:42 2016]  say: Padawan: EAT ME
+[Tue Apr 26 00:21:44 2016]  say: ^1M^7r ^1Ð^7innertime: X
+[Tue Apr 26 00:21:45 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:21:50 2016]  say: ^1M^7r ^1Ð^7innertime: dead
+[Tue Apr 26 00:21:52 2016]  say: Padawan: rip
+[Tue Apr 26 00:22:03 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:22:04 2016]  say: Padawan: ffs
+[Tue Apr 26 00:22:07 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:22:08 2016]  say: Padawan: hstap
+[Tue Apr 26 00:22:13 2016]  say: ^1M^7r ^1Ð^7innertime: I love how range doesn't affect the speed of this thing
+[Tue Apr 26 00:22:23 2016]  say: Padawan: there we go
+[Tue Apr 26 00:22:26 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 26 00:22:41 2016]  say: ^1M^7r ^1Ð^7innertime: I doubt you're indestructable :p
+[Tue Apr 26 00:22:42 2016]  say: Padawan: im a ghost
+[Tue Apr 26 00:22:48 2016]  say: Padawan: no im not indestructable of course
+[Tue Apr 26 00:22:51 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:22:56 2016]  say: Padawan: thats where exo comes in handy
+[Tue Apr 26 00:22:56 2016]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Tue Apr 26 00:22:58 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:22:59 2016]  say: Padawan: rip
+[Tue Apr 26 00:23:00 2016]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Tue Apr 26 00:23:01 2016]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Tue Apr 26 00:23:04 2016]  say: Padawan: the radius
+[Tue Apr 26 00:23:06 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:23:17 2016]  say: ^1M^7r ^1Ð^7innertime: wait :D
+[Tue Apr 26 00:23:19 2016]  say: ^1M^7r ^1Ð^7innertime: try to get me
+[Tue Apr 26 00:23:23 2016]  say: ^1M^7r ^1Ð^7innertime: not you
+[Tue Apr 26 00:23:25 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:23:33 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:23:35 2016]  say: Padawan: invisibility 
+[Tue Apr 26 00:23:40 2016]  say: Padawan: im noclipped currently
+[Tue Apr 26 00:23:42 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 26 00:23:53 2016]  say: ^1M^7r ^1Ð^7innertime: try to shoot me from outside the dom
+[Tue Apr 26 00:23:54 2016]  say: ^1M^7r ^1Ð^7innertime: dome*
+[Tue Apr 26 00:24:00 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 26 00:24:11 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:24:14 2016]  say: Padawan: doesnt kill
+[Tue Apr 26 00:24:23 2016]  say: ^1M^7r ^1Ð^7innertime: can't touch this
+[Tue Apr 26 00:24:24 2016]  say: Padawan: it can move
+[Tue Apr 26 00:24:26 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Apr 26 00:24:27 2016]  say: Padawan: a little bit
+[Tue Apr 26 00:24:39 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:24:50 2016]  say: Padawan: there it goes
+[Tue Apr 26 00:25:07 2016]  say: Padawan: im right next to you
+[Tue Apr 26 00:25:19 2016]  say: Padawan: was
+[Tue Apr 26 00:26:05 2016]  say: ^1M^7r ^1Ð^7innertime: ;D
+[Tue Apr 26 00:26:10 2016]  say: Padawan: OH
+[Tue Apr 26 00:26:12 2016]  say: Padawan: GOTCHA
+[Tue Apr 26 00:26:12 2016]  say: ^1M^7r ^1Ð^7innertime: ow XD
+[Tue Apr 26 00:26:36 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:26:38 2016]  say: Padawan: betty
+[Tue Apr 26 00:26:48 2016]  say: ^1M^7r ^1Ð^7innertime: Well betty wasn't expecting that
+[Tue Apr 26 00:26:49 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:27:02 2016]  say: Padawan: rofl
+[Tue Apr 26 00:27:03 2016]  say: Padawan: tele
+[Tue Apr 26 00:27:04 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:27:16 2016]  say: Padawan: you actually hit me
+[Tue Apr 26 00:27:18 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 26 00:27:24 2016]  say: ^1M^7r ^1Ð^7innertime: I can see the dust cloud when you land
+[Tue Apr 26 00:27:36 2016]  say: Padawan: now you cant
+[Tue Apr 26 00:27:38 2016]  say: ^1M^7r ^1Ð^7innertime: wait
+[Tue Apr 26 00:27:45 2016]  say: ^1M^7r ^1Ð^7innertime: can we duel? XD I want to see if saber locking is still enabled
+[Tue Apr 26 00:27:51 2016]  say: Padawan: ok 
+[Tue Apr 26 00:27:54 2016]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Apr 26 00:28:01 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:28:06 2016]  say: Padawan: lets see how bad i am after all these years
+[Tue Apr 26 00:28:11 2016]  say: ^1M^7r ^1Ð^7innertime: aw
+[Tue Apr 26 00:28:11 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:28:12 2016]  say: Padawan: oh yeah
+[Tue Apr 26 00:28:14 2016]  say: ^1M^7r ^1Ð^7innertime: it's not enabled
+[Tue Apr 26 00:28:15 2016]  say: Padawan: that exists
+[Tue Apr 26 00:28:17 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 26 00:28:18 2016]  say: Padawan: oh
+[Tue Apr 26 00:28:21 2016]  say: Padawan: the aprrying?
+[Tue Apr 26 00:28:33 2016]  say: ^1M^7r ^1Ð^7innertime: YAY
+[Tue Apr 26 00:28:33 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:28:35 2016]  say: Padawan: kata at lock
+[Tue Apr 26 00:28:36 2016]  say: Padawan: rofl
+[Tue Apr 26 00:28:38 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:28:46 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Tue Apr 26 00:28:54 2016]  say: ^1M^7r ^1Ð^7innertime: I had fun with 2 russians the other day
+[Tue Apr 26 00:28:58 2016]  say: ^1M^7r ^1Ð^7innertime: beating them every time xD
+[Tue Apr 26 00:29:00 2016]  say: Padawan: ah russians
+[Tue Apr 26 00:29:08 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:29:09 2016]  say: Padawan: woops
+[Tue Apr 26 00:29:34 2016]  Kill: 0 1 3: ^1M^7r ^1Ð^7innertime killed Padawan by MOD_SABER
+[Tue Apr 26 00:29:36 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:29:37 2016]  say: Padawan: OLOL
+[Tue Apr 26 00:29:39 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:29:42 2016]  say: Padawan: hold on
+[Tue Apr 26 00:29:44 2016]  say: Padawan: im sens to 5
+[Tue Apr 26 00:30:09 2016]  say: Padawan: maybe i should hit and run troll with a staff
+[Tue Apr 26 00:30:11 2016]  say: Padawan: rofl
+[Tue Apr 26 00:30:12 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 26 00:30:18 2016]  Kill: 0 0 39: ^1M^7r ^1Ð^7innertime killed ^1M^7r ^1Ð^7innertime by MOD_SUICIDE
+[Tue Apr 26 00:30:23 2016]  say: Padawan: oh no
+[Tue Apr 26 00:30:24 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:30:35 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:30:40 2016]  say: Padawan: well it hit and run you dont swing your saber
+[Tue Apr 26 00:30:47 2016]  say: Padawan: you do that melee thing with it
+[Tue Apr 26 00:30:54 2016]  say: Padawan: and then run
+[Tue Apr 26 00:30:57 2016]  Kill: 0 1 3: ^1M^7r ^1Ð^7innertime killed Padawan by MOD_SABER
+[Tue Apr 26 00:30:58 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:30:59 2016]  say: Padawan: kik
+[Tue Apr 26 00:31:00 2016]  say: Padawan: ;p;
+[Tue Apr 26 00:31:01 2016]  say: Padawan: lol
+[Tue Apr 26 00:31:02 2016]  say: Padawan: ffs
+[Tue Apr 26 00:31:04 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:31:17 2016]  say: ^1M^7r ^1Ð^7innertime: saberlock break sucks with staff
+[Tue Apr 26 00:31:24 2016]  Kill: 0 1 3: ^1M^7r ^1Ð^7innertime killed Padawan by MOD_SABER
+[Tue Apr 26 00:31:26 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:31:38 2016]  Kill: 0 1 3: ^1M^7r ^1Ð^7innertime killed Padawan by MOD_SABER
+[Tue Apr 26 00:31:40 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:31:50 2016]  Kill: 0 0 39: ^1M^7r ^1Ð^7innertime killed ^1M^7r ^1Ð^7innertime by MOD_SUICIDE
+[Tue Apr 26 00:31:52 2016]  Kill: 1 0 37: Padawan killed ^1M^7r ^1Ð^7innertime by MOD_TELEFRAG
+[Tue Apr 26 00:31:56 2016]  say: Padawan: telefragged
+[Tue Apr 26 00:31:57 2016]  Kill: 0 1 3: ^1M^7r ^1Ð^7innertime killed Padawan by MOD_SABER
+[Tue Apr 26 00:31:59 2016]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Apr 26 00:31:59 2016]  say: Padawan: LOL
+[Tue Apr 26 00:32:02 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:32:04 2016]  Kill: 0 1 3: ^1M^7r ^1Ð^7innertime killed Padawan by MOD_SABER
+[Tue Apr 26 00:32:26 2016]  say: Padawan: bye
+[Tue Apr 26 00:32:27 2016]  say: Padawan: riofl
+[Tue Apr 26 00:32:28 2016]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Apr 26 00:32:38 2016]  say: Padawan: watch dinner telet to me
+[Tue Apr 26 00:33:06 2016]  say: ^1M^7r ^1Ð^7innertime: ok
+[Tue Apr 26 00:33:15 2016]  say: ^1M^7r ^1Ð^7innertime: Give me a minute. Stay in that exact position, k?
+[Tue Apr 26 00:33:20 2016]  say: Padawan: ok
+[Tue Apr 26 00:33:57 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:34:03 2016]  say: ^1M^7r ^1Ð^7innertime: wow
+[Tue Apr 26 00:34:04 2016]  say: ^1M^7r ^1Ð^7innertime: you moved
+[Tue Apr 26 00:34:04 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Tue Apr 26 00:34:10 2016]  say: Padawan: im in a bed over here
+[Tue Apr 26 00:34:13 2016]  say: Padawan: your not too far
+[Tue Apr 26 00:34:15 2016]  say: Padawan: actually
+[Tue Apr 26 00:34:16 2016]  say: ^1M^7r ^1Ð^7innertime: no
+[Tue Apr 26 00:34:17 2016]  say: ^1M^7r ^1Ð^7innertime: you moved xD
+[Tue Apr 26 00:34:23 2016]  say: Padawan: i was in there
+[Tue Apr 26 00:34:27 2016]  say: ^1M^7r ^1Ð^7innertime: lies
+[Tue Apr 26 00:34:29 2016]  say: Padawan: ye
+[Tue Apr 26 00:34:34 2016]  say: ^1M^7r ^1Ð^7innertime: I had your exact coordinates
+[Tue Apr 26 00:34:41 2016]  say: ^1M^7r ^1Ð^7innertime: they were different after I teled
+[Tue Apr 26 00:34:55 2016]  say: ^1M^7r ^1Ð^7innertime: ok :D
+[Tue Apr 26 00:34:56 2016]  say: ^1M^7r ^1Ð^7innertime: hide
+[Tue Apr 26 00:35:05 2016]  say: ^1M^7r ^1Ð^7innertime: 5
+[Tue Apr 26 00:35:07 2016]  say: ^1M^7r ^1Ð^7innertime: 4
+[Tue Apr 26 00:35:09 2016]  say: ^1M^7r ^1Ð^7innertime: 3
+[Tue Apr 26 00:35:11 2016]  say: ^1M^7r ^1Ð^7innertime: 2
+[Tue Apr 26 00:35:13 2016]  say: ^1M^7r ^1Ð^7innertime: 1
+[Tue Apr 26 00:35:25 2016]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Apr 26 00:35:27 2016]  say: Padawan: rofl
+[Tue Apr 26 00:35:39 2016]  say: ^1M^7r ^1Ð^7innertime: I don't even have admin tele XD
+[Tue Apr 26 00:35:44 2016]  say: Padawan: its magic
+[Tue Apr 26 00:35:46 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 26 00:36:15 2016]  say: Padawan: until next map load
+[Tue Apr 26 00:36:16 2016]  say: Padawan: rip
+[Tue Apr 26 00:36:34 2016]  say: Padawan: someone doesnt like spawning vehicles
+[Tue Apr 26 00:36:45 2016]  say: Padawan: voting not allowed
+[Tue Apr 26 00:36:50 2016]  say: Padawan: ffs i just want to restart map
+[Tue Apr 26 00:36:59 2016]  say: ^1M^7r ^1Ð^7innertime: xD
+[Tue Apr 26 00:37:11 2016]  Kill: 0 1 3: ^1M^7r ^1Ð^7innertime killed Padawan by MOD_SABER
+[Tue Apr 26 00:37:24 2016]  say: ^1M^7r ^1Ð^7innertime: duel D
+[Tue Apr 26 00:37:26 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:37:31 2016]  say: Padawan: ill die instantly rofl
+[Tue Apr 26 00:37:32 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:37:34 2016]  say: ^1M^7r ^1Ð^7innertime: Gl :>
+[Tue Apr 26 00:37:41 2016]  Kill: 0 1 3: ^1M^7r ^1Ð^7innertime killed Padawan by MOD_SABER
+[Tue Apr 26 00:37:41 2016]  say: ^1M^7r ^1Ð^7innertime: Gf :>
+[Tue Apr 26 00:37:43 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:37:43 2016]  say: Padawan: see xd
+[Tue Apr 26 00:37:45 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:38:04 2016]  say: Padawan: tea and jam
+[Tue Apr 26 00:38:06 2016]  say: ^1M^7r ^1Ð^7innertime: I have a script which guarantees a saber lock victory xD
+[Tue Apr 26 00:38:12 2016]  say: ^1M^7r ^1Ð^7innertime: I gave it to darthquake
+[Tue Apr 26 00:38:15 2016]  say: Padawan: le cheater
+[Tue Apr 26 00:38:16 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Tue Apr 26 00:38:17 2016]  say: Padawan: xD
+[Tue Apr 26 00:38:49 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Tue Apr 26 00:38:50 2016]  say: Padawan: gtg
+[Tue Apr 26 00:39:06 2016]  ClientDisconnect: 1
+[Tue Apr 26 00:39:25 2016]  ClientDisconnect: 0
+[Tue Apr 26 02:19:53 2016]  ClientConnect: 0
+[Tue Apr 26 02:19:53 2016]  mlog:Player Padawan, connected. With IP - 74.210.166.15:29070 
+[Tue Apr 26 02:20:10 2016]  ClientBegin: 0
+[Tue Apr 26 02:20:32 2016]  ClientConnect: 1
+[Tue Apr 26 02:20:32 2016]  mlog:Player Jean-guy, connected. With IP - 144.172.228.78:29070 
+[Tue Apr 26 02:20:51 2016]  ClientBegin: 1
+[Tue Apr 26 02:21:07 2016]  print "Padawan^7 @@@PLRENAME The Fat Bastard
+"[Tue Apr 26 02:22:09 2016]  Kill: 1 0 3: Jean-guy killed The Fat Bastard by MOD_SABER
+[Tue Apr 26 02:22:21 2016]  Kill: 0 1 5: The Fat Bastard killed Jean-guy by MOD_BRYAR_PISTOL_ALT
+[Tue Apr 26 02:22:49 2016]  Kill: 0 1 3: The Fat Bastard killed Jean-guy by MOD_SABER
+[Tue Apr 26 02:23:14 2016]  Kill: 0 1 3: The Fat Bastard killed Jean-guy by MOD_SABER
+[Tue Apr 26 02:23:30 2016]  Kill: 1 0 3: Jean-guy killed The Fat Bastard by MOD_SABER
+[Tue Apr 26 02:23:48 2016]  Kill: 0 1 3: The Fat Bastard killed Jean-guy by MOD_SABER
+[Tue Apr 26 02:25:15 2016]  Kill: 1 0 3: Jean-guy killed The Fat Bastard by MOD_SABER
+[Tue Apr 26 02:27:10 2016]  Kill: 0 1 3: The Fat Bastard killed Jean-guy by MOD_SABER
+[Tue Apr 26 02:27:50 2016]  say: The Fat Bastard: medic
+[Tue Apr 26 02:27:53 2016]  say: The Fat Bastard: t
+[Tue Apr 26 02:28:45 2016]  Kill: 1 0 31: Jean-guy killed The Fat Bastard by MOD_FORCE_DARK
+[Tue Apr 26 02:30:05 2016]  Kill: 0 1 3: The Fat Bastard killed Jean-guy by MOD_SABER
+[Tue Apr 26 02:30:24 2016]  ClientDisconnect: 0
+[Tue Apr 26 02:30:25 2016]  ClientDisconnect: 1
+[Tue Apr 26 15:09:09 2016]  ClientConnect: 0
+[Tue Apr 26 15:09:09 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Apr 26 15:09:29 2016]  ClientBegin: 0
+[Tue Apr 26 15:09:35 2016]  Item: 0 weapon_melee
+[Tue Apr 26 15:10:02 2016]  ClientDisconnect: 0
+[Tue Apr 26 15:10:11 2016]  ClientConnect: 0
+[Tue Apr 26 15:10:11 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Apr 26 15:10:21 2016]  ClientBegin: 0
+[Tue Apr 26 15:10:28 2016]  Item: 0 weapon_melee
+[Tue Apr 26 15:14:30 2016]  ClientDisconnect: 0
+[Tue Apr 26 15:17:19 2016]  ClientConnect: 0
+[Tue Apr 26 15:17:19 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Apr 26 15:17:36 2016]  ClientBegin: 0
+[Tue Apr 26 15:17:50 2016]  Item: 0 weapon_melee
+[Tue Apr 26 15:28:40 2016]  ClientDisconnect: 0
+[Wed Apr 27 12:47:25 2016]  ClientConnect: 0
+[Wed Apr 27 12:47:25 2016]  mlog:Player Padawan, connected. With IP - 213.87.103.139:15399 
+[Wed Apr 27 12:48:00 2016]  ClientBegin: 0
+[Wed Apr 27 12:49:56 2016]  print "Padawan^7 @@@PLRENAME ^0d^1i^0m^1o^0n
+"[Wed Apr 27 12:52:23 2016]  Kill: 0 0 39: ^0d^1i^0m^1o^0n killed ^0d^1i^0m^1o^0n by MOD_SUICIDE
+[Wed Apr 27 12:54:55 2016]  ClientDisconnect: 0
+[Thu Apr 28 14:26:42 2016]  ClientConnect: 0
+[Thu Apr 28 14:26:42 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Apr 28 14:27:01 2016]  ClientBegin: 0
+[Thu Apr 28 14:27:08 2016]  Item: 0 weapon_melee
+[Thu Apr 28 14:27:25 2016]  say: ^0Shadow^5seer: npc spawn howler
+[Thu Apr 28 14:28:21 2016]  ClientDisconnect: 0
+[Thu Apr 28 23:05:36 2016]  ClientConnect: 0
+[Thu Apr 28 23:05:36 2016]  mlog:Player ^3(J.N.R)^7Carlos(J.G.L), connected. With IP - 181.230.168.48:29070 
+[Thu Apr 28 23:09:03 2016]  ClientDisconnect: 0
+[Sat Apr 30 11:54:40 2016]  ClientConnect: 0
+[Sat Apr 30 11:54:40 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sat Apr 30 11:54:59 2016]  ClientBegin: 0
+[Sat Apr 30 11:55:05 2016]  Item: 0 weapon_melee
+[Sat Apr 30 11:57:27 2016]  ClientDisconnect: 0
+[Sat Apr 30 23:42:04 2016]  ClientConnect: 0
+[Sat Apr 30 23:42:04 2016]  mlog:Player Seter Feng, connected. With IP - 2.218.36.86:29070 
+[Sat Apr 30 23:42:08 2016]  ClientConnect: 1
+[Sat Apr 30 23:42:08 2016]  mlog:Player Padawan, connected. With IP - 2.218.36.86:29071 
+[Sat Apr 30 23:42:31 2016]  ClientBegin: 0
+[Sat Apr 30 23:42:56 2016]  ClientBegin: 1
+[Sat Apr 30 23:47:33 2016]  Kill: 1 0 3: Teh Keng killed Seter Feng by MOD_SABER
+[Sat Apr 30 23:48:40 2016]  Kill: 1 0 3: Teh Keng killed Seter Feng by MOD_SABER
+[Sat Apr 30 23:48:59 2016]  Kill: 0 1 3: Seter Feng killed Teh Keng by MOD_SABER
+[Sat Apr 30 23:50:29 2016]  Kill: 1 0 3: Teh Keng killed Seter Feng by MOD_SABER
+[Sat Apr 30 23:51:00 2016]  Kill: 1 0 3: Teh Keng killed Seter Feng by MOD_SABER
+[Sat Apr 30 23:51:45 2016]  Kill: 1 0 3: Teh Keng killed Seter Feng by MOD_SABER
+[Sat Apr 30 23:52:13 2016]  Kill: 0 1 3: Seter Feng killed Teh Keng by MOD_SABER
+[Sat Apr 30 23:52:36 2016]  Kill: 1 0 31: Teh Keng killed Seter Feng by MOD_FORCE_DARK
+[Sat Apr 30 23:52:51 2016]  Kill: 1 0 3: Teh Keng killed Seter Feng by MOD_SABER
+[Sat Apr 30 23:54:13 2016]  Kill: 0 1 3: Seter Feng killed Teh Keng by MOD_SABER
+[Sat Apr 30 23:54:19 2016]  Kill: 1 0 5: Teh Keng killed Seter Feng by MOD_BRYAR_PISTOL_ALT
+[Sat Apr 30 23:54:20 2016]  ClientDisconnect: 0
+[Sat Apr 30 23:54:25 2016]  ClientDisconnect: 1
+[Sun May 01 16:17:33 2016]  ClientConnect: 0
+[Sun May 01 16:17:33 2016]  mlog:Player Korinf Rongel, connected. With IP - 188.222.122.191:29070 
+[Sun May 01 16:17:49 2016]  ClientBegin: 0
+[Sun May 01 16:27:24 2016]  ClientDisconnect: 0

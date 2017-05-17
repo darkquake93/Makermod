@@ -1,0 +1,20 @@
+[Tue May 20 17:40:00 2014]  ------------------------------------------------------------
+[Tue May 20 17:40:00 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue May 20 17:40:00 2014]  ClientConnect: 0
+[Tue May 20 17:40:11 2014]  ClientBegin: 0
+[Tue May 20 17:40:25 2014]  ClientConnect: 1
+[Tue May 20 17:40:25 2014]  mlog:Player Padawan, connected. With IP - 77.11.81.48:29070 
+[Tue May 20 17:40:37 2014]  ClientBegin: 1
+[Tue May 20 17:40:44 2014]  say: Jan: /minfo
+[Tue May 20 17:40:50 2014]  say: Jan: /info
+[Tue May 20 17:40:53 2014]  say: Jan: minfo
+[Tue May 20 17:47:23 2014]  ClientDisconnect: 1
+[Tue May 20 17:47:24 2014]  ClientDisconnect: 0
+[Tue May 20 19:39:58 2014]  Exit: Timelimit hit.
+[Wed May 21 00:37:36 2014]  ClientConnect: 0
+[Wed May 21 00:37:36 2014]  mlog:Player ^7§^0am, connected. With IP - 172.14.26.250:29070 
+[Wed May 21 00:37:48 2014]  ClientConnect: 1
+[Wed May 21 00:37:48 2014]  mlog:Player Savage Opress, connected. With IP - 99.63.49.143:29070 
+[Wed May 21 00:37:53 2014]  ClientBegin: 0
+[Wed May 21 00:37:56 2014]  ShutdownGame:
+[Wed May 21 00:37:56 2014]  ------------------------------------------------------------

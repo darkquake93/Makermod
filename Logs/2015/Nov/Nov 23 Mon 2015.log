@@ -1,0 +1,541 @@
+[Mon Nov 23 22:44:05 2015]  ------------------------------------------------------------
+[Mon Nov 23 22:44:05 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Nov 23 22:44:07 2015]  ClientConnect: 0
+[Mon Nov 23 22:44:07 2015]  ClientBegin: 0
+[Mon Nov 23 22:44:25 2015]  ShutdownGame:
+[Mon Nov 23 22:44:25 2015]  ------------------------------------------------------------
+[Mon Nov 23 22:44:26 2015]  ------------------------------------------------------------
+[Mon Nov 23 22:44:26 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Nov 23 22:44:27 2015]  ClientConnect: 0
+[Mon Nov 23 22:44:32 2015]  ClientBegin: 0
+[Mon Nov 23 22:45:00 2015]  ShutdownGame:
+[Mon Nov 23 22:45:00 2015]  ------------------------------------------------------------
+[Mon Nov 23 22:45:00 2015]  ------------------------------------------------------------
+[Mon Nov 23 22:45:00 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Nov 23 22:45:02 2015]  ClientConnect: 0
+[Mon Nov 23 22:45:08 2015]  ClientBegin: 0
+[Mon Nov 23 22:45:22 2015]  say: ^0Ðàrk^2^1Qµàkè: ^6HALO SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Mon Nov 23 22:48:36 2015]  say: ^0Ðàrk^2^1Qµàkè: hi
+[Mon Nov 23 22:53:46 2015]  say: ^0Ðàrk^2^1Qµàkè: ^6HALO SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Mon Nov 23 22:59:06 2015]  say: ^0Ðàrk^2^1Qµàkè: ^7HYPER^0SPACE ^6script ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1Dbn²
+[Mon Nov 23 23:00:25 2015]  say: ^0Ðàrk^2^1Qµàkè: ^5Constructing ^5Ship...
+[Mon Nov 23 23:00:39 2015]  say: ^0Ðàrk^2^1Qµàkè: ^5Teleporting ^5To ^5Ship
+[Mon Nov 23 23:01:31 2015]  say: ^0Ðàrk^2^1Qµàkè: ^7HYPER^0SPACE ^1IN ^4:3
+[Mon Nov 23 23:01:32 2015]  say: ^0Ðàrk^2^1Qµàkè: ^7HYPER^0SPACE ^1IN ^4:2
+[Mon Nov 23 23:01:32 2015]  say: ^0Ðàrk^2^1Qµàkè: ^7HYPER^0SPACE ^1IN ^4:1
+[Mon Nov 23 23:01:33 2015]  say: ^0Ðàrk^2^1Qµàkè: ^7HYPER^0SPACE!
+[Mon Nov 23 23:05:06 2015]  say: ^0Ðàrk^2^1Qµàkè: ^7HYPER^0SPACE ^6script ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1Dbn²
+[Mon Nov 23 23:05:28 2015]  say: ^0Ðàrk^2^1Qµàkè: ^7HYPER^0SPACE ^6script ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1Dbn²
+[Mon Nov 23 23:06:10 2015]  say: ^0Ðàrk^2^1Qµàkè: ^4coming ^4back ^4to ^4starting ^4point!
+[Mon Nov 23 23:06:43 2015]  Kill: 1022 0 38: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_FALLING
+[Mon Nov 23 23:06:52 2015]  ClientDisconnect: 0
+[Tue Nov 24 11:51:55 2015]  ClientConnect: 0
+[Tue Nov 24 11:51:55 2015]  mlog:Player Padawan, connected. With IP - 181.1.106.19:29070 
+[Tue Nov 24 11:53:46 2015]  ClientBegin: 0
+[Tue Nov 24 12:17:47 2015]  ClientConnect: 1
+[Tue Nov 24 12:17:47 2015]  mlog:Player Sammi, connected. With IP - 91.205.236.255:7584 
+[Tue Nov 24 12:18:08 2015]  ClientDisconnect: 0
+[Tue Nov 24 12:18:25 2015]  ClientBegin: 1
+[Tue Nov 24 12:20:01 2015]  ClientDisconnect: 1
+[Tue Nov 24 12:44:30 2015]  ClientConnect: 0
+[Tue Nov 24 12:44:30 2015]  mlog:Player Master Kaxur, connected. With IP - 181.1.106.19:29070 
+[Tue Nov 24 12:45:06 2015]  ClientBegin: 0
+[Tue Nov 24 12:47:59 2015]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Nov 24 12:49:51 2015]  ClientDisconnect: 0
+[Tue Nov 24 16:42:11 2015]  ClientConnect: 0
+[Tue Nov 24 16:42:11 2015]  mlog:Player Master Kaxur, connected. With IP - 181.1.106.19:29070 
+[Tue Nov 24 16:42:51 2015]  ClientBegin: 0
+[Tue Nov 24 16:44:07 2015]  Kill: 1022 0 39: <world> killed Padawan by MOD_SUICIDE
+[Tue Nov 24 16:44:19 2015]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Nov 24 16:50:12 2015]  say: Padawan: My origin is: (3334 -9214 1470) - You can teleport here with /mtelelast
+
+[Tue Nov 24 16:50:15 2015]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Nov 24 16:51:33 2015]  say: Padawan: My origin is: (3633 -9180 1622) - You can teleport here with /mtelelast
+
+[Tue Nov 24 16:52:20 2015]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Nov 24 16:54:55 2015]  ClientDisconnect: 0
+[Tue Nov 24 22:24:20 2015]  ClientConnect: 0
+[Tue Nov 24 22:24:20 2015]  mlog:Player ^0P^7okerman, connected. With IP - 108.35.238.49:29070 
+[Tue Nov 24 22:24:26 2015]  ClientDisconnect: 0
+[Wed Nov 25 00:47:50 2015]  ClientConnect: 0
+[Wed Nov 25 00:47:50 2015]  mlog:Player Master Kaxur, connected. With IP - 181.1.106.19:1024 
+[Wed Nov 25 00:48:25 2015]  ClientBegin: 0
+[Wed Nov 25 00:48:45 2015]  print "Padawan^7 @@@PLRENAME ^5R^2yu!!!!
+"[Wed Nov 25 00:49:39 2015]  say: ^5R^2yu!!!!: My origin is: (3547 -9752 1661) - You can teleport here with /mtelelast
+
+[Wed Nov 25 00:50:29 2015]  print "^5R^2yu!!!!^7 @@@PLRENAME ^8!!!^1!!!!
+"[Wed Nov 25 00:51:35 2015]  ClientDisconnect: 0
+[Wed Nov 25 00:57:07 2015]  ClientConnect: 0
+[Wed Nov 25 00:57:07 2015]  mlog:Player Padawan, connected. With IP - 63.141.198.85:29070 
+[Wed Nov 25 01:00:39 2015]  ClientDisconnect: 0
+[Wed Nov 25 01:00:39 2015]  ClientConnect: 0
+[Wed Nov 25 01:00:39 2015]  mlog:Player Padawan, connected. With IP - 63.141.198.85:29070 
+[Wed Nov 25 01:04:21 2015]  ClientConnect: 1
+[Wed Nov 25 01:04:21 2015]  mlog:Player Padawan, connected. With IP - 181.1.106.19:1024 
+[Wed Nov 25 01:04:43 2015]  ClientBegin: 1
+[Wed Nov 25 01:06:10 2015]  ClientConnect: 2
+[Wed Nov 25 01:06:10 2015]  mlog:Player Padawan, connected. With IP - 190.138.233.16:29070 
+[Wed Nov 25 01:06:36 2015]  ClientDisconnect: 0
+[Wed Nov 25 01:07:00 2015]  ClientBegin: 2
+[Wed Nov 25 01:07:22 2015]  Kill: 1 2 3: ^8!!!^1!!!! killed Padawan by MOD_SABER
+[Wed Nov 25 01:07:43 2015]  say: ^8!!!^1!!!!: ! how are you
+[Wed Nov 25 01:07:53 2015]  say: Padawan: where are you from?
+[Wed Nov 25 01:08:23 2015]  say: ^8!!!^1!!!!: madrid
+[Wed Nov 25 01:08:29 2015]  say: ^8!!!^1!!!!: 1234
+[Wed Nov 25 01:08:30 2015]  say: ^8!!!^1!!!!: !
+[Wed Nov 25 01:08:31 2015]  say: Padawan: xD
+[Wed Nov 25 01:08:35 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:08:36 2015]  say: Padawan: exilio
+[Wed Nov 25 01:08:42 2015]  say: ^8!!!^1!!!!: tu ping no te ayuda
+[Wed Nov 25 01:08:45 2015]  say: ^8!!!^1!!!!: crei que eras un fake
+[Wed Nov 25 01:08:48 2015]  say: Padawan: tuvo q pone hothpso
+[Wed Nov 25 01:09:05 2015]  say: Padawan: deci que inventamos la clave
+[Wed Nov 25 01:09:14 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:09:19 2015]  say: ^8!!!^1!!!!: sabes
+[Wed Nov 25 01:09:21 2015]  say: ^8!!!^1!!!!: matti entro
+[Wed Nov 25 01:09:23 2015]  say: ^8!!!^1!!!!: por suerte
+[Wed Nov 25 01:09:28 2015]  say: ^8!!!^1!!!!: 2 horas hasta que te conectaras
+[Wed Nov 25 01:09:32 2015]  say: ^8!!!^1!!!!: puse JVM!!!
+[Wed Nov 25 01:09:34 2015]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Nov 25 01:09:34 2015]  say: ^8!!!^1!!!!: pude engañarlo
+[Wed Nov 25 01:09:35 2015]  say: ^8!!!^1!!!!: xd mamon
+[Wed Nov 25 01:09:39 2015]  say: Padawan: xD
+[Wed Nov 25 01:09:41 2015]  say: Padawan: si lo vi
+[Wed Nov 25 01:09:43 2015]  say: Padawan: puciste
+[Wed Nov 25 01:09:47 2015]  say: Padawan: DE apocalyse
+[Wed Nov 25 01:09:48 2015]  say: ^8!!!^1!!!!: dice el rolo si es bueno el metodo de estudiar
+[Wed Nov 25 01:09:52 2015]  say: ^8!!!^1!!!!: xD
+[Wed Nov 25 01:09:52 2015]  say: Padawan: xD
+[Wed Nov 25 01:10:01 2015]  say: Padawan: decile al rolo que por lo menos
+[Wed Nov 25 01:10:04 2015]  say: Padawan: yo llege a 4 año
+[Wed Nov 25 01:10:20 2015]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Nov 25 01:10:22 2015]  say: ^8!!!^1!!!!: dice el rolo
+[Wed Nov 25 01:10:31 2015]  say: Padawan: pone exploracion14
+[Wed Nov 25 01:10:32 2015]  say: ^8!!!^1!!!!: que llego a tercer año sin tener los elementos
+[Wed Nov 25 01:10:35 2015]  say: ^8!!!^1!!!!: asi que es como llegar a 6
+[Wed Nov 25 01:10:37 2015]  say: ^8!!!^1!!!!: sexto
+[Wed Nov 25 01:10:40 2015]  say: Padawan: xD
+[Wed Nov 25 01:10:40 2015]  say: ^8!!!^1!!!!: dice porque no vas a siria
+[Wed Nov 25 01:10:41 2015]  say: ^8!!!^1!!!!: a pelear
+[Wed Nov 25 01:10:49 2015]  say: Padawan: yo me animo
+[Wed Nov 25 01:11:06 2015]  say: ^8!!!^1!!!!: por suerte
+[Wed Nov 25 01:11:06 2015]  say: Padawan: truchaso
+[Wed Nov 25 01:11:10 2015]  say: Padawan: aca hay mucho block
+[Wed Nov 25 01:11:10 2015]  say: ^8!!!^1!!!!: xD seba me dijo que 
+[Wed Nov 25 01:11:12 2015]  say: ^8!!!^1!!!!: jvm iva a volver
+[Wed Nov 25 01:11:14 2015]  say: ^8!!!^1!!!!: ante de que me fuera
+[Wed Nov 25 01:11:16 2015]  say: ^8!!!^1!!!!: asi que
+[Wed Nov 25 01:11:17 2015]  say: Padawan: xD
+[Wed Nov 25 01:11:19 2015]  say: ^8!!!^1!!!!: por eso me puse jvm
+[Wed Nov 25 01:11:20 2015]  say: Padawan: q suerte
+[Wed Nov 25 01:11:20 2015]  say: ^8!!!^1!!!!: xDD
+[Wed Nov 25 01:11:22 2015]  say: Padawan: q 
+[Wed Nov 25 01:11:25 2015]  say: Padawan: dijo matti
+[Wed Nov 25 01:11:31 2015]  say: ^8!!!^1!!!!: pregunto
+[Wed Nov 25 01:11:33 2015]  say: ^8!!!^1!!!!: jose? 
+[Wed Nov 25 01:11:34 2015]  say: Padawan: se la creyo enterA? xd
+[Wed Nov 25 01:11:34 2015]  say: ^8!!!^1!!!!: y yo dije
+[Wed Nov 25 01:11:37 2015]  say: ^8!!!^1!!!!: MATTI :D
+[Wed Nov 25 01:11:42 2015]  say: ^8!!!^1!!!!: SOY EL CARLOSO
+[Wed Nov 25 01:11:44 2015]  say: ^8!!!^1!!!!: CARLOSJVM
+[Wed Nov 25 01:11:46 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:11:49 2015]  say: Padawan: Xd
+[Wed Nov 25 01:11:53 2015]  say: ^8!!!^1!!!!: y le empeze a decir mamon y eso
+[Wed Nov 25 01:12:00 2015]  say: ^8!!!^1!!!!: veni
+[Wed Nov 25 01:12:00 2015]  say: Padawan: mamon xd
+[Wed Nov 25 01:12:10 2015]  say: ^8!!!^1!!!!: dice el rolo
+[Wed Nov 25 01:12:12 2015]  say: ^8!!!^1!!!!: cuantas materias te quedan
+[Wed Nov 25 01:12:22 2015]  say: Padawan: tengo q sacar 4
+[Wed Nov 25 01:12:29 2015]  say: ^8!!!^1!!!!: My origin is: (3484 -9542 1865) - You can teleport here with /mtelelast
+
+[Wed Nov 25 01:12:37 2015]  say: ^8!!!^1!!!!: 4
+[Wed Nov 25 01:12:39 2015]  say: ^8!!!^1!!!!: sacaste 3?
+[Wed Nov 25 01:12:41 2015]  say: Padawan: yo voy en vehiculo
+[Wed Nov 25 01:12:44 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:12:48 2015]  say: Padawan: todavia no rindo xd
+[Wed Nov 25 01:12:59 2015]  say: Padawan: medio lag
+[Wed Nov 25 01:13:11 2015]  say: ^8!!!^1!!!!: mas 3 previas?
+[Wed Nov 25 01:13:12 2015]  say: Padawan: xD
+[Wed Nov 25 01:13:16 2015]  say: Padawan: no
+[Wed Nov 25 01:13:18 2015]  say: Padawan: 2}
+[Wed Nov 25 01:13:19 2015]  say: Padawan: 2
+[Wed Nov 25 01:14:06 2015]  say: Padawan: osea
+[Wed Nov 25 01:14:14 2015]  say: Padawan: te conectaste antes de q entrara el al sv
+[Wed Nov 25 01:14:35 2015]  say: Padawan: seguro
+[Wed Nov 25 01:14:41 2015]  say: Padawan: vio las ip
+[Wed Nov 25 01:14:49 2015]  say: Padawan: y hay sospecho
+[Wed Nov 25 01:15:01 2015]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Nov 25 01:15:07 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:15:10 2015]  say: ^8!!!^1!!!!: me conecte
+[Wed Nov 25 01:15:26 2015]  say: Padawan: xd lentaso
+[Wed Nov 25 01:15:26 2015]  say: ^8!!!^1!!!!: a
+[Wed Nov 25 01:15:33 2015]  say: ^8!!!^1!!!!: the academy pink 
+[Wed Nov 25 01:15:34 2015]  say: ^8!!!^1!!!!: porque crei que
+[Wed Nov 25 01:15:38 2015]  say: ^8!!!^1!!!!: tu estarias
+[Wed Nov 25 01:15:44 2015]  say: ^8!!!^1!!!!: ahi
+[Wed Nov 25 01:15:45 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:15:47 2015]  say: ^8!!!^1!!!!: y se conecto matti
+[Wed Nov 25 01:15:49 2015]  say: ^8!!!^1!!!!: y me puse DE
+[Wed Nov 25 01:15:51 2015]  say: ^8!!!^1!!!!: y luego
+[Wed Nov 25 01:15:54 2015]  say: ^8!!!^1!!!!: jvm!!!
+[Wed Nov 25 01:15:58 2015]  say: ^8!!!^1!!!!: y creo uqe lo engañe porque me dijo
+[Wed Nov 25 01:16:02 2015]  say: ^8!!!^1!!!!: ve a la pagina jnr
+[Wed Nov 25 01:16:04 2015]  say: ^8!!!^1!!!!: y de scargate el axon
+[Wed Nov 25 01:16:08 2015]  say: ^8!!!^1!!!!: porque el xfire no lo usamos mas xD
+[Wed Nov 25 01:16:14 2015]  say: Padawan: xd genial
+[Wed Nov 25 01:16:22 2015]  say: Padawan: safaste
+[Wed Nov 25 01:16:25 2015]  say: ^8!!!^1!!!!: debo buscar
+[Wed Nov 25 01:16:25 2015]  say: Padawan: yo me desconecte
+[Wed Nov 25 01:16:27 2015]  say: Padawan: al toque
+[Wed Nov 25 01:16:28 2015]  say: ^8!!!^1!!!!: otra casa xD
+[Wed Nov 25 01:16:37 2015]  say: Padawan: xD
+[Wed Nov 25 01:16:38 2015]  say: Padawan: se
+[Wed Nov 25 01:16:40 2015]  say: Padawan: ahora
+[Wed Nov 25 01:16:46 2015]  say: ^8!!!^1!!!!: xd buscaremos una casa
+[Wed Nov 25 01:16:46 2015]  say: Padawan: q haras con pink xd
+[Wed Nov 25 01:16:49 2015]  say: ^8!!!^1!!!!: no se
+[Wed Nov 25 01:16:55 2015]  say: ^8!!!^1!!!!: debo cambiar el name
+[Wed Nov 25 01:16:58 2015]  say: ^8!!!^1!!!!: a master 
+[Wed Nov 25 01:16:59 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:17:01 2015]  say: ^8!!!^1!!!!: no se que 
+[Wed Nov 25 01:17:14 2015]  say: Padawan: master dillon xd
+[Wed Nov 25 01:17:16 2015]  say: ^8!!!^1!!!!: xD
+[Wed Nov 25 01:17:18 2015]  say: ^8!!!^1!!!!: quien es ese
+[Wed Nov 25 01:17:23 2015]  say: Padawan: como te andaba contando
+[Wed Nov 25 01:17:28 2015]  say: Padawan: antes de q entrara matti
+[Wed Nov 25 01:17:33 2015]  say: ^8!!!^1!!!!: cuanto se lleba el gonzalo
+[Wed Nov 25 01:17:34 2015]  say: ^8!!!^1!!!!: ?
+[Wed Nov 25 01:17:41 2015]  say: Padawan: 5 creo
+[Wed Nov 25 01:17:46 2015]  say: ^8!!!^1!!!!: 5 chan
+[Wed Nov 25 01:17:47 2015]  say: ^8!!!^1!!!!: xDDD
+[Wed Nov 25 01:17:50 2015]  say: Padawan: xd
+[Wed Nov 25 01:17:55 2015]  say: ^8!!!^1!!!!: la vas a aprobar?
+[Wed Nov 25 01:18:03 2015]  say: Padawan: se
+[Wed Nov 25 01:18:04 2015]  say: ^8!!!^1!!!!: va a aprobar
+[Wed Nov 25 01:18:04 2015]  say: Padawan: facil
+[Wed Nov 25 01:18:17 2015]  say: Padawan: gonzalo saco 11 materias
+[Wed Nov 25 01:18:19 2015]  say: Padawan: y paso de año xd
+[Wed Nov 25 01:18:29 2015]  say: Padawan: eso seria tarea facil xd
+[Wed Nov 25 01:18:31 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:18:37 2015]  say: Padawan: q era lo q decia
+[Wed Nov 25 01:19:12 2015]  say: Padawan: enviando trasmision a plo
+[Wed Nov 25 01:19:15 2015]  say: ^8!!!^1!!!!: xD
+[Wed Nov 25 01:19:16 2015]  say: Padawan: xd
+[Wed Nov 25 01:19:17 2015]  say: ^8!!!^1!!!!: haber
+[Wed Nov 25 01:19:18 2015]  say: ^8!!!^1!!!!: buscare una casa
+[Wed Nov 25 01:19:20 2015]  say: ^8!!!^1!!!!: ya vengo
+[Wed Nov 25 01:19:22 2015]  say: ^8!!!^1!!!!: te paso el lugar
+[Wed Nov 25 01:19:26 2015]  say: Padawan: ya lo se xd
+[Wed Nov 25 01:19:31 2015]  say: ^8!!!^1!!!!: xd espera aca
+[Wed Nov 25 01:19:32 2015]  say: ^8!!!^1!!!!: fasnasfnsfak
+[Wed Nov 25 01:19:35 2015]  say: Padawan: se
+[Wed Nov 25 01:19:40 2015]  say: ^8!!!^1!!!!: si vien ematti
+[Wed Nov 25 01:19:43 2015]  say: ^8!!!^1!!!!: ponete
+[Wed Nov 25 01:19:46 2015]  say: ^8!!!^1!!!!: la explosion eas
+[Wed Nov 25 01:19:48 2015]  say: ^8!!!^1!!!!: XD 
+[Wed Nov 25 01:19:51 2015]  say: Padawan: xD
+[Wed Nov 25 01:19:52 2015]  ClientDisconnect: 1
+[Wed Nov 25 01:22:06 2015]  ClientConnect: 0
+[Wed Nov 25 01:22:06 2015]  mlog:Player ^8!!!^1!!!!, connected. With IP - 181.1.106.19:1024 
+[Wed Nov 25 01:22:25 2015]  ClientBegin: 0
+[Wed Nov 25 01:22:35 2015]  say: ^8!!!^1!!!!: che
+[Wed Nov 25 01:22:37 2015]  say: ^8!!!^1!!!!: encontre un mapa
+[Wed Nov 25 01:22:40 2015]  say: ^8!!!^1!!!!: un server*
+[Wed Nov 25 01:22:44 2015]  say: ^8!!!^1!!!!: con el mapa jedi homels JL
+[Wed Nov 25 01:22:46 2015]  say: ^8!!!^1!!!!: II
+[Wed Nov 25 01:22:47 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:22:49 2015]  say: Padawan: q nombre
+[Wed Nov 25 01:22:55 2015]  say: ^8!!!^1!!!!: JR
+[Wed Nov 25 01:22:58 2015]  say: ^8!!!^1!!!!: no se que xd
+[Wed Nov 25 01:23:00 2015]  say: Padawan: JR
+[Wed Nov 25 01:23:04 2015]  say: Padawan: no es un rleplay? xd
+[Wed Nov 25 01:23:08 2015]  say: ^8!!!^1!!!!: xd creo que si
+[Wed Nov 25 01:23:09 2015]  say: ^8!!!^1!!!!: vamos
+[Wed Nov 25 01:23:13 2015]  say: ^8!!!^1!!!!: ah no
+[Wed Nov 25 01:23:15 2015]  say: Padawan: no tengo el mapa xd
+[Wed Nov 25 01:23:15 2015]  say: ^8!!!^1!!!!: es un clan
+[Wed Nov 25 01:23:18 2015]  say: ^8!!!^1!!!!: dasnfA
+[Wed Nov 25 01:23:27 2015]  say: ^8!!!^1!!!!: haber
+[Wed Nov 25 01:23:31 2015]  say: Padawan: podrias usar
+[Wed Nov 25 01:23:45 2015]  say: Padawan: el del clan JEDI? XD
+[Wed Nov 25 01:25:10 2015]  say: ^8!!!^1!!!!: xD
+[Wed Nov 25 01:25:12 2015]  say: ^8!!!^1!!!!: no porque
+[Wed Nov 25 01:25:13 2015]  say: ^8!!!^1!!!!: me echarian
+[Wed Nov 25 01:25:16 2015]  say: ^8!!!^1!!!!: che
+[Wed Nov 25 01:25:17 2015]  say: Padawan: xD
+[Wed Nov 25 01:25:18 2015]  say: ^8!!!^1!!!!: tenes
+[Wed Nov 25 01:25:24 2015]  say: ^8!!!^1!!!!: sithcouncilv2?
+[Wed Nov 25 01:25:27 2015]  say: Padawan: se
+[Wed Nov 25 01:25:29 2015]  say: ^8!!!^1!!!!: xd anda a
+[Wed Nov 25 01:25:43 2015]  say: ^8!!!^1!!!!: lugormod server
+[Wed Nov 25 01:25:47 2015]  say: Padawan: xD
+[Wed Nov 25 01:25:49 2015]  say: Padawan: creo q no
+[Wed Nov 25 01:25:52 2015]  say: ^8!!!^1!!!!: ?
+[Wed Nov 25 01:25:56 2015]  say: ^8!!!^1!!!!: asfnsf
+[Wed Nov 25 01:25:59 2015]  say: Padawan: xd
+[Wed Nov 25 01:26:03 2015]  say: Padawan: se me borro todo
+[Wed Nov 25 01:26:07 2015]  say: Padawan: el juego
+[Wed Nov 25 01:26:18 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:26:23 2015]  say: Padawan: solo tengo los jnr
+[Wed Nov 25 01:26:44 2015]  say: ^8!!!^1!!!!: lpm
+[Wed Nov 25 01:26:47 2015]  say: ^8!!!^1!!!!: sin un lugar decente
+[Wed Nov 25 01:26:49 2015]  say: ^8!!!^1!!!!: mas que este xd
+[Wed Nov 25 01:26:50 2015]  say: Padawan: decile a los cis q te den alberge xd
+[Wed Nov 25 01:26:53 2015]  say: ^8!!!^1!!!!: xD
+[Wed Nov 25 01:26:56 2015]  say: ^8!!!^1!!!!: me van
+[Wed Nov 25 01:26:58 2015]  say: ^8!!!^1!!!!: a querer
+[Wed Nov 25 01:27:02 2015]  say: ^8!!!^1!!!!: poner como el cerdo de navidad
+[Wed Nov 25 01:27:06 2015]  say: ^8!!!^1!!!!: y grievous
+[Wed Nov 25 01:27:06 2015]  say: Padawan: xD
+[Wed Nov 25 01:27:11 2015]  say: ^8!!!^1!!!!: me va a poner como alfombra
+[Wed Nov 25 01:27:17 2015]  say: Padawan: xd
+[Wed Nov 25 01:27:21 2015]  say: Padawan: my makermod server?
+[Wed Nov 25 01:28:04 2015]  say: ^8!!!^1!!!!: xD
+[Wed Nov 25 01:28:06 2015]  say: ^8!!!^1!!!!: cual es ese
+[Wed Nov 25 01:28:22 2015]  say: Padawan: ese q puciste
+[Wed Nov 25 01:28:25 2015]  say: Padawan: creo
+[Wed Nov 25 01:28:30 2015]  say: Padawan: q sdel hiso un templo hay
+[Wed Nov 25 01:28:33 2015]  say: ^8!!!^1!!!!: ah
+[Wed Nov 25 01:28:36 2015]  say: ^8!!!^1!!!!: no esta mas creo
+[Wed Nov 25 01:28:37 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:28:40 2015]  say: Padawan: xD
+[Wed Nov 25 01:29:02 2015]  say: ^8!!!^1!!!!: si tubiera el mapa
+[Wed Nov 25 01:29:03 2015]  say: ^8!!!^1!!!!: archives2
+[Wed Nov 25 01:29:07 2015]  say: ^8!!!^1!!!!: estariamos en un server kotf
+[Wed Nov 25 01:29:09 2015]  say: Padawan: se xdD
+[Wed Nov 25 01:29:12 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:29:14 2015]  say: ^8!!!^1!!!!: fijate si
+[Wed Nov 25 01:29:19 2015]  say: ^8!!!^1!!!!: esta en jk hub
+[Wed Nov 25 01:29:20 2015]  say: Padawan: esta para descargar ese aparte del kotf
+[Wed Nov 25 01:29:20 2015]  say: ^8!!!^1!!!!: para descargar
+[Wed Nov 25 01:29:25 2015]  say: Padawan: xD
+[Wed Nov 25 01:29:26 2015]  say: ^8!!!^1!!!!: mortal
+[Wed Nov 25 01:29:26 2015]  say: Padawan: tengo
+[Wed Nov 25 01:29:27 2015]  say: ^8!!!^1!!!!: xd 
+[Wed Nov 25 01:29:31 2015]  say: Padawan: pantalla completa
+[Wed Nov 25 01:29:34 2015]  say: ^8!!!^1!!!!: haber
+[Wed Nov 25 01:29:35 2015]  say: ^8!!!^1!!!!: ahi me fijo
+[Wed Nov 25 01:29:44 2015]  say: Padawan: si npo
+[Wed Nov 25 01:29:45 2015]  say: Padawan: no
+[Wed Nov 25 01:29:47 2015]  say: Padawan: tambien fijate
+[Wed Nov 25 01:29:56 2015]  say: Padawan: en la pagina del Clan JEDI
+[Wed Nov 25 01:30:00 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:30:01 2015]  say: Padawan: hay tenian todo
+[Wed Nov 25 01:30:02 2015]  say: ^8!!!^1!!!!: ok
+[Wed Nov 25 01:30:32 2015]  say: ^8!!!^1!!!!: un navegador
+[Wed Nov 25 01:30:35 2015]  say: ^8!!!^1!!!!: peor que el otro
+[Wed Nov 25 01:30:41 2015]  say: Padawan: xD
+[Wed Nov 25 01:31:18 2015]  say: ^8!!!^1!!!!: por lo menos aca matti
+[Wed Nov 25 01:31:19 2015]  say: ^8!!!^1!!!!: no nos busco
+[Wed Nov 25 01:31:23 2015]  say: Padawan: xD
+[Wed Nov 25 01:31:26 2015]  say: Padawan: hay entraba matti
+[Wed Nov 25 01:31:36 2015]  say: ^8!!!^1!!!!: xD
+[Wed Nov 25 01:31:38 2015]  say: Padawan: buscan afuera en vez de adentro asfasf
+[Wed Nov 25 01:35:23 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:35:28 2015]  say: ^8!!!^1!!!!: estare aqui
+[Wed Nov 25 01:35:29 2015]  say: Padawan: y
+[Wed Nov 25 01:35:30 2015]  say: ^8!!!^1!!!!: entonces
+[Wed Nov 25 01:35:32 2015]  say: ^8!!!^1!!!!: hasta que
+[Wed Nov 25 01:35:35 2015]  say: ^8!!!^1!!!!: saque el mapa del kotf
+[Wed Nov 25 01:35:35 2015]  say: Padawan: xD
+[Wed Nov 25 01:35:36 2015]  say: ^8!!!^1!!!!: xD
+[Wed Nov 25 01:35:46 2015]  say: Padawan: te fijaste
+[Wed Nov 25 01:35:50 2015]  say: Padawan: en holo
+[Wed Nov 25 01:35:52 2015]  say: Padawan: no se q
+[Wed Nov 25 01:35:53 2015]  say: ^8!!!^1!!!!: si
+[Wed Nov 25 01:35:54 2015]  say: ^8!!!^1!!!!: no esta
+[Wed Nov 25 01:36:00 2015]  say: Padawan: xD
+[Wed Nov 25 01:36:07 2015]  say: Padawan: estamos pobres
+[Wed Nov 25 01:36:16 2015]  say: Padawan: minimizare la pantalla
+[Wed Nov 25 01:36:16 2015]  say: ^8!!!^1!!!!: xd estare aca
+[Wed Nov 25 01:36:19 2015]  say: ^8!!!^1!!!!: cualquier cosa
+[Wed Nov 25 01:36:21 2015]  say: ^8!!!^1!!!!: usare esto
+[Wed Nov 25 01:36:34 2015]  say: ^8!!!^1!!!!: D
+[Wed Nov 25 01:38:30 2015]  say: ^8!!!^1!!!!: ta usare esta
+[Wed Nov 25 01:38:36 2015]  say: ^8!!!^1!!!!: My origin is: (3667 -10315 1689) - You can teleport here with /mtelelast
+
+[Wed Nov 25 01:38:42 2015]  say: ^8!!!^1!!!!: mira
+[Wed Nov 25 01:38:49 2015]  say: ^8!!!^1!!!!: xD
+[Wed Nov 25 01:38:50 2015]  say: Padawan: xD
+[Wed Nov 25 01:39:00 2015]  say: Padawan: no me  carga la cancion
+[Wed Nov 25 01:39:01 2015]  say: ^8!!!^1!!!!: pero
+[Wed Nov 25 01:39:02 2015]  say: Padawan: vjun3 xd
+[Wed Nov 25 01:39:09 2015]  say: ^8!!!^1!!!!: hasta que me encuentren
+[Wed Nov 25 01:39:13 2015]  say: ^8!!!^1!!!!: xd
+[Wed Nov 25 01:39:18 2015]  say: ^8!!!^1!!!!: debo buscar
+[Wed Nov 25 01:39:19 2015]  say: ^8!!!^1!!!!: un servidor
+[Wed Nov 25 01:39:21 2015]  say: ^8!!!^1!!!!: para estar ahi
+[Wed Nov 25 01:39:24 2015]  say: Padawan: si
+[Wed Nov 25 01:39:26 2015]  say: ^8!!!^1!!!!: por lo menos ffa3
+[Wed Nov 25 01:39:26 2015]  say: Padawan: pero
+[Wed Nov 25 01:39:33 2015]  say: Padawan: los secretos guian asta pink xd
+[Wed Nov 25 01:39:37 2015]  say: ^8!!!^1!!!!: xD
+[Wed Nov 25 01:39:40 2015]  say: ^8!!!^1!!!!: debo cambiar eso
+[Wed Nov 25 01:43:02 2015]  ClientDisconnect: 0
+[Wed Nov 25 01:43:11 2015]  ClientConnect: 0
+[Wed Nov 25 01:43:11 2015]  mlog:Player Padawan, connected. With IP - 181.1.106.19:29070 
+[Wed Nov 25 01:44:01 2015]  ClientBegin: 0
+[Wed Nov 25 01:44:07 2015]  say: Padawan: xd
+[Wed Nov 25 01:44:13 2015]  say: Padawan: xD
+[Wed Nov 25 01:44:48 2015]  say: Padawan: che
+[Wed Nov 25 01:44:50 2015]  say: Padawan: buscare un server
+[Wed Nov 25 01:44:58 2015]  say: Padawan: o le dire a matti
+[Wed Nov 25 01:45:00 2015]  say: Padawan: y ya esta xd
+[Wed Nov 25 01:45:07 2015]  say: Padawan: q cosa
+[Wed Nov 25 01:45:08 2015]  say: Padawan: pero
+[Wed Nov 25 01:45:13 2015]  say: Padawan: no volvere
+[Wed Nov 25 01:45:22 2015]  say: Padawan: xd va no se
+[Wed Nov 25 01:45:25 2015]  say: Padawan: plo quiere hacer algo
+[Wed Nov 25 01:45:47 2015]  say: Padawan: q cosa
+[Wed Nov 25 01:45:51 2015]  say: Padawan: que se yo
+[Wed Nov 25 01:45:59 2015]  say: Padawan: dice algo
+[Wed Nov 25 01:46:38 2015]  say: Padawan: xd dice que ya vere
+[Wed Nov 25 01:46:45 2015]  say: Padawan: porque ni todabia sabe como hacerlo
+[Wed Nov 25 01:46:52 2015]  say: Padawan: igual
+[Wed Nov 25 01:46:53 2015]  say: Padawan: xd
+[Wed Nov 25 01:46:54 2015]  say: Padawan: le dire a matti que
+[Wed Nov 25 01:47:05 2015]  say: Padawan: aun no volvere
+[Wed Nov 25 01:47:12 2015]  say: Padawan: el tema es que matti
+[Wed Nov 25 01:47:15 2015]  say: Padawan: le dira a todos
+[Wed Nov 25 01:47:24 2015]  say: Padawan: matti
+[Wed Nov 25 01:47:30 2015]  say: Padawan: esta buscando como loco xd
+[Wed Nov 25 01:47:33 2015]  say: Padawan: xd
+[Wed Nov 25 01:47:40 2015]  say: Padawan: veni vamos al pink
+[Wed Nov 25 01:47:52 2015]  say: Padawan: sigen
+[Wed Nov 25 01:47:55 2015]  say: Padawan: estando
+[Wed Nov 25 01:47:59 2015]  say: Padawan: jnr?
+[Wed Nov 25 01:48:02 2015]  say: Padawan: no
+[Wed Nov 25 01:48:04 2015]  say: Padawan: lo apage
+[Wed Nov 25 01:48:08 2015]  say: Padawan: hay un server llamado
+[Wed Nov 25 01:48:09 2015]  say: Padawan: aca
+[Wed Nov 25 01:48:11 2015]  say: Padawan: ok
+[Wed Nov 25 01:48:12 2015]  say: Padawan: server latino
+[Wed Nov 25 01:48:15 2015]  say: Padawan: xD con nuestros colores
+[Wed Nov 25 01:48:20 2015]  say: Padawan: y jedicouncilgcx-2010
+[Wed Nov 25 01:48:23 2015]  say: Padawan: debe ser de matti
+[Wed Nov 25 01:48:25 2015]  say: Padawan: truchaso
+[Wed Nov 25 01:48:31 2015]  say: Padawan: vamos
+[Wed Nov 25 01:48:34 2015]  say: Padawan: ok
+[Wed Nov 25 01:48:37 2015]  say: Padawan: a pink3
+[Wed Nov 25 01:48:38 2015]  say: Padawan: xd
+[Wed Nov 25 01:48:40 2015]  ClientDisconnect: 0
+[Wed Nov 25 01:49:21 2015]  ClientDisconnect: 2
+[Wed Nov 25 02:27:09 2015]  ClientConnect: 0
+[Wed Nov 25 02:27:09 2015]  mlog:Player S, connected. With IP - 190.55.0.207:29070 
+[Wed Nov 25 02:27:34 2015]  ClientConnect: 1
+[Wed Nov 25 02:27:34 2015]  mlog:Player ^3(J.N.R)^7Matti^0(M), connected. With IP - 201.231.138.37:29070 
+[Wed Nov 25 02:27:47 2015]  ClientBegin: 0
+[Wed Nov 25 02:28:10 2015]  ClientBegin: 1
+[Wed Nov 25 02:28:10 2015]  say: ^3(J.N.R)^4Seba(AM2): toma
+[Wed Nov 25 02:28:12 2015]  say: ^3(J.N.R)^4Seba(AM2): le acerte
+[Wed Nov 25 02:28:20 2015]  say: ^3(J.N.R)^7Matti^8(M): que cosa? XD
+[Wed Nov 25 02:28:25 2015]  say: ^3(J.N.R)^4Seba(AM2): es este marker
+[Wed Nov 25 02:28:28 2015]  say: ^3(J.N.R)^4Seba(AM2): puso mloadobs
+[Wed Nov 25 02:28:28 2015]  say: ^3(J.N.R)^7Matti^8(M): xd
+[Wed Nov 25 02:28:30 2015]  say: ^3(J.N.R)^4Seba(AM2): exilio 1234
+[Wed Nov 25 02:28:32 2015]  say: ^3(J.N.R)^4Seba(AM2): y salio 
+[Wed Nov 25 02:28:37 2015]  say: ^3(J.N.R)^7Matti^8(M): y donde estas? XD
+[Wed Nov 25 02:28:46 2015]  say: ^3(J.N.R)^4Seba(AM2): My origin is: (11586 8519 1592) - You can teleport here with /mtelelast
+
+[Wed Nov 25 02:28:52 2015]  say: ^3(J.N.R)^7Matti^8(M): ahora
+[Wed Nov 25 02:29:01 2015]  say: ^3(J.N.R)^7Matti^8(M): veni
+[Wed Nov 25 02:29:08 2015]  say: ^3(J.N.R)^4Seba(AM2): hay que ver
+[Wed Nov 25 02:29:11 2015]  say: ^3(J.N.R)^4Seba(AM2): si hay algo importante
+[Wed Nov 25 02:29:15 2015]  say: ^3(J.N.R)^7Matti^8(M): en la piedra
+[Wed Nov 25 02:29:28 2015]  say: ^3(J.N.R)^7Matti^8(M): seba xd
+[Wed Nov 25 02:29:30 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Wed Nov 25 02:29:33 2015]  say: ^3(J.N.R)^7Matti^8(M): yo ya lo encontre xd
+[Wed Nov 25 02:29:37 2015]  say: ^3(J.N.R)^4Seba(AM2): a ver
+[Wed Nov 25 02:29:38 2015]  say: ^3(J.N.R)^7Matti^8(M): ya hable con el
+[Wed Nov 25 02:29:41 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Wed Nov 25 02:29:46 2015]  say: ^3(J.N.R)^4Seba(AM2): los 2 hablaron con jose
+[Wed Nov 25 02:29:49 2015]  say: ^3(J.N.R)^7Matti^8(M): xD
+[Wed Nov 25 02:29:51 2015]  say: ^3(J.N.R)^4Seba(AM2): y a mi me bloqueo hdp
+[Wed Nov 25 02:29:52 2015]  say: ^3(J.N.R)^7Matti^8(M): angela tambien?
+[Wed Nov 25 02:30:11 2015]  say: ^3(J.N.R)^4Seba(AM2): le mande
+[Wed Nov 25 02:30:15 2015]  say: ^3(J.N.R)^4Seba(AM2): flor de mensaje
+[Wed Nov 25 02:30:17 2015]  say: ^3(J.N.R)^4Seba(AM2): ni un gracias
+[Wed Nov 25 02:30:19 2015]  say: ^3(J.N.R)^4Seba(AM2): y me bloquea xd
+[Wed Nov 25 02:30:20 2015]  say: ^3(J.N.R)^7Matti^8(M): xd
+[Wed Nov 25 02:30:24 2015]  say: ^3(J.N.R)^7Matti^8(M): y angela tambien hablo?
+[Wed Nov 25 02:30:27 2015]  say: ^3(J.N.R)^4Seba(AM2): si
+[Wed Nov 25 02:30:31 2015]  say: ^3(J.N.R)^4Seba(AM2): pero a angela por lo menos le dio pistas
+[Wed Nov 25 02:30:44 2015]  say: ^3(J.N.R)^7Matti^8(M): yo lo encontre mucho ams facil que todos xd
+[Wed Nov 25 02:30:48 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Wed Nov 25 02:30:50 2015]  say: ^3(J.N.R)^4Seba(AM2): si
+[Wed Nov 25 02:30:56 2015]  say: ^3(J.N.R)^7Matti^8(M): escucha
+[Wed Nov 25 02:31:29 2015]  say: ^3(J.N.R)^7Matti^8(M): pone el mapa academy v3 xd
+[Wed Nov 25 02:31:33 2015]  say: ^3(J.N.R)^4Seba(AM2): aca no se puede
+[Wed Nov 25 02:31:37 2015]  say: ^3(J.N.R)^4Seba(AM2): tiene que ser el otro marker
+[Wed Nov 25 02:31:37 2015]  say: ^3(J.N.R)^7Matti^8(M): bueno escucha
+[Wed Nov 25 02:31:55 2015]  say: ^3(J.N.R)^7Matti^8(M): cualquier cosa vinimos aca y vimos una pass en la piedra ok?
+[Wed Nov 25 02:31:59 2015]  say: ^3(J.N.R)^4Seba(AM2): ok
+[Wed Nov 25 02:32:01 2015]  say: ^3(J.N.R)^7Matti^8(M): depsues fuiste a la pag
+[Wed Nov 25 02:32:11 2015]  say: ^3(J.N.R)^7Matti^8(M): y en members pusiste virtue ok?
+[Wed Nov 25 02:32:17 2015]  say: ^3(J.N.R)^4Seba(AM2): xd?
+[Wed Nov 25 02:32:18 2015]  say: ^3(J.N.R)^7Matti^8(M): y ahi te dijo donde estaba jose ok?
+[Wed Nov 25 02:32:21 2015]  say: ^3(J.N.R)^4Seba(AM2): ah 
+[Wed Nov 25 02:32:22 2015]  say: ^3(J.N.R)^4Seba(AM2): ok xd
+[Wed Nov 25 02:32:39 2015]  say: ^3(J.N.R)^7Matti^8(M): xd prque la verdad no entendi todos los paso que habian que seguir
+[Wed Nov 25 02:32:43 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Wed Nov 25 02:32:44 2015]  say: ^3(J.N.R)^7Matti^8(M): yo solo lo encontre muy facil xd
+[Wed Nov 25 02:32:53 2015]  say: ^3(J.N.R)^7Matti^8(M): no digas nada eh -.-
+[Wed Nov 25 02:32:56 2015]  say: ^3(J.N.R)^4Seba(AM2): tranquilo xd
+[Wed Nov 25 02:32:59 2015]  say: ^3(J.N.R)^7Matti^8(M): ok
+[Wed Nov 25 02:33:10 2015]  say: ^3(J.N.R)^7Matti^8(M): pone los servers por mapa
+[Wed Nov 25 02:33:10 2015]  say: ^3(J.N.R)^4Seba(AM2): igual esto no es el log
+[Wed Nov 25 02:33:18 2015]  say: ^3(J.N.R)^7Matti^8(M): y te va a aparecer academy v3
+[Wed Nov 25 02:33:22 2015]  say: ^3(J.N.R)^7Matti^8(M): ahie sta jose
+[Wed Nov 25 02:33:27 2015]  say: ^3(J.N.R)^7Matti^8(M): en pinky algo asi es el server xd
+[Wed Nov 25 02:33:30 2015]  say: ^3(J.N.R)^4Seba(AM2): ah
+[Wed Nov 25 02:33:32 2015]  say: ^3(J.N.R)^4Seba(AM2): si ya se cual xd
+[Wed Nov 25 02:33:36 2015]  say: ^3(J.N.R)^7Matti^8(M): vamos?
+[Wed Nov 25 02:33:36 2015]  say: ^3(J.N.R)^4Seba(AM2): que hace ahi?
+[Wed Nov 25 02:33:41 2015]  say: ^3(J.N.R)^7Matti^8(M): busca paz
+[Wed Nov 25 02:33:46 2015]  say: ^3(J.N.R)^7Matti^8(M): vamos?
+[Wed Nov 25 02:33:47 2015]  say: ^3(J.N.R)^4Seba(AM2): pero es muy obvio
+[Wed Nov 25 02:33:49 2015]  say: ^3(J.N.R)^4Seba(AM2): si
+[Wed Nov 25 02:33:50 2015]  say: ^3(J.N.R)^7Matti^8(M): xd
+[Wed Nov 25 02:33:52 2015]  say: ^3(J.N.R)^7Matti^8(M): el me dijo
+[Wed Nov 25 02:33:55 2015]  say: ^3(J.N.R)^7Matti^8(M): que te ayude
+[Wed Nov 25 02:33:58 2015]  say: ^3(J.N.R)^4Seba(AM2): lol
+[Wed Nov 25 02:34:00 2015]  say: ^3(J.N.R)^7Matti^8(M): vamos
+[Wed Nov 25 02:34:03 2015]  ClientDisconnect: 1
+[Wed Nov 25 02:34:06 2015]  ClientDisconnect: 0
+[Wed Nov 25 15:56:46 2015]  ClientConnect: 0
+[Wed Nov 25 15:56:46 2015]  mlog:Player ^3(J.N.R)^4Seba(AM2), connected. With IP - 190.55.0.207:29070 
+[Wed Nov 25 15:58:07 2015]  ClientBegin: 0
+[Wed Nov 25 15:58:24 2015]  print "^3(J.N.R)^4Seba(AM2)^7 @@@PLRENAME Padawan
+"[Wed Nov 25 16:06:21 2015]  ClientDisconnect: 0
+[Wed Nov 25 16:52:48 2015]  ClientConnect: 0
+[Wed Nov 25 16:52:48 2015]  mlog:Player ^3(J.N.R)^4Seba(AM2), connected. With IP - 190.55.0.207:29070 
+[Wed Nov 25 16:53:19 2015]  ClientConnect: 1
+[Wed Nov 25 16:53:19 2015]  mlog:Player Padawan, connected. With IP - 190.172.113.71:29070 
+[Wed Nov 25 16:54:05 2015]  ClientBegin: 1
+[Wed Nov 25 16:54:20 2015]  say: ^3(J.N.R)^1An^7ge^1la^0(^7AM3^0): aca vine condepre un a vez xd
+[Wed Nov 25 16:54:33 2015]  ClientBegin: 0
+[Wed Nov 25 16:54:58 2015]  say: ^3(J.N.R)^1An^7ge^1la^0(^7AM3^0): seba xd
+[Wed Nov 25 16:55:02 2015]  say: Padawan: que xd
+[Wed Nov 25 16:55:10 2015]  print "^3(J.N.R)^1An^7ge^1la^0(^7AM3^0)^7 @@@PLRENAME Padawan
+"[Wed Nov 25 16:55:12 2015]  say: Padawan: nada
+[Wed Nov 25 16:55:26 2015]  say: Padawan: ya lo pusiste?
+[Wed Nov 25 16:55:30 2015]  say: Padawan: so
+[Wed Nov 25 16:55:33 2015]  say: Padawan: so xD
+[Wed Nov 25 16:55:36 2015]  say: Padawan: si
+[Wed Nov 25 16:56:04 2015]  say: Padawan: piche seba ando con pad e.e
+[Wed Nov 25 16:56:07 2015]  say: Padawan: xD
+[Wed Nov 25 16:56:10 2015]  say: Padawan: mas lento e.e
+[Wed Nov 25 16:57:02 2015]  say: Padawan: seba :C! xd
+[Wed Nov 25 16:57:05 2015]  say: Padawan: que xd
+[Wed Nov 25 16:57:07 2015]  say: Padawan: so
+[Wed Nov 25 16:57:11 2015]  say: Padawan: e.e
+[Wed Nov 25 16:57:56 2015]  say: Padawan: donde estsAS?xd
+[Wed Nov 25 16:58:01 2015]  say: Padawan: msayorigin
+[Wed Nov 25 16:58:03 2015]  say: Padawan: afasf
+[Wed Nov 25 16:58:06 2015]  say: Padawan: My origin is: (13359 -3373 2863) - You can teleport here with /mtelelast
+
+[Wed Nov 25 16:58:17 2015]  say: Padawan: es q ir a pie me agota :C
+[Wed Nov 25 16:58:23 2015]  say: Padawan: xd
+[Wed Nov 25 16:58:37 2015]  say: Padawan: una nave de 6 por lo menos
+[Wed Nov 25 16:58:40 2015]  say: Padawan: xD
+[Wed Nov 25 16:58:43 2015]  say: Padawan: dame el comando

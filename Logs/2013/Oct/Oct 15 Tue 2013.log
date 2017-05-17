@@ -1,0 +1,747 @@
+[Tue Oct 15 10:02:45 2013]  ------------------------------------------------------------
+[Tue Oct 15 10:02:45 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Oct 15 10:02:46 2013]  ClientConnect: 0
+[Tue Oct 15 10:02:57 2013]  ClientBegin: 0
+[Tue Oct 15 10:07:37 2013]  ClientDisconnect: 0
+[Tue Oct 15 12:02:44 2013]  Exit: Timelimit hit.
+[Tue Oct 15 21:15:05 2013]  ClientConnect: 0
+[Tue Oct 15 21:15:05 2013]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.247.110:29070 
+[Tue Oct 15 21:16:10 2013]  ClientBegin: 0
+[Tue Oct 15 21:16:15 2013]  ShutdownGame:
+[Tue Oct 15 21:16:15 2013]  ------------------------------------------------------------
+[Tue Oct 15 21:16:17 2013]  ------------------------------------------------------------
+[Tue Oct 15 21:16:17 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Oct 15 21:16:18 2013]  ClientConnect: 0
+[Tue Oct 15 21:16:53 2013]  ClientBegin: 0
+[Tue Oct 15 21:17:48 2013]  ClientDisconnect: 0
+[Tue Oct 15 22:15:20 2013]  ClientConnect: 0
+[Tue Oct 15 22:15:20 2013]  mlog:Player Nalar, connected. With IP - 24.88.68.129:-1793 
+[Tue Oct 15 22:15:32 2013]  ClientBegin: 0
+[Tue Oct 15 22:23:38 2013]  Kill: 1022 0 39: <world> killed Nalar by MOD_SUICIDE
+[Tue Oct 15 22:33:09 2013]  Kill: 1022 0 6: <world> killed Nalar by MOD_BLASTER
+[Tue Oct 15 22:40:57 2013]  Kill: 1022 0 3: <world> killed Nalar by MOD_SABER
+[Tue Oct 15 22:41:14 2013]  Kill: 1022 0 3: <world> killed Nalar by MOD_SABER
+[Tue Oct 15 22:41:45 2013]  Kill: 1022 0 3: <world> killed Nalar by MOD_SABER
+[Tue Oct 15 22:42:58 2013]  Kill: 1022 0 3: <world> killed Nalar by MOD_SABER
+[Tue Oct 15 22:44:16 2013]  Kill: 1022 0 3: <world> killed Nalar by MOD_SABER
+[Tue Oct 15 22:44:56 2013]  Kill: 1022 0 3: <world> killed Nalar by MOD_SABER
+[Tue Oct 15 22:45:30 2013]  Kill: 1022 0 3: <world> killed Nalar by MOD_SABER
+[Tue Oct 15 22:45:56 2013]  Kill: 1022 0 3: <world> killed Nalar by MOD_SABER
+[Tue Oct 15 22:46:11 2013]  Kill: 1022 0 3: <world> killed Nalar by MOD_SABER
+[Tue Oct 15 22:47:33 2013]  Kill: 1022 0 3: <world> killed Nalar by MOD_SABER
+[Tue Oct 15 22:48:01 2013]  ClientConnect: 1
+[Tue Oct 15 22:48:01 2013]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.247.110:29070 
+[Tue Oct 15 22:48:42 2013]  ClientBegin: 1
+[Tue Oct 15 22:49:45 2013]  Kill: 1022 1 0: <world> killed ^7»^0Exo^1Ð^0us^7« by MOD_UNKNOWN
+[Tue Oct 15 22:49:49 2013]  Kill: 1022 0 3: <world> killed Nalar by MOD_SABER
+[Tue Oct 15 22:49:50 2013]  Kill: 0 1 37: Nalar killed ^7»^0Exo^1Ð^0us^7« by MOD_TELEFRAG
+[Tue Oct 15 22:50:44 2013]  Kill: 1 0 0: ^7»^0Exo^1Ð^0us^7« killed Nalar by MOD_UNKNOWN
+[Tue Oct 15 22:50:49 2013]  say: ^7»^0Exo^1Ð^0us^7«: Wrong one x.x
+[Tue Oct 15 22:50:53 2013]  say: Nalar: Ow
+[Tue Oct 15 22:50:55 2013]  say: ^7»^0Exo^1Ð^0us^7«: Meant to shoot him.
+[Tue Oct 15 22:51:04 2013]  say: Nalar: I believe you
+[Tue Oct 15 22:51:31 2013]  say: ^7»^0Exo^1Ð^0us^7«: brb
+[Tue Oct 15 22:54:39 2013]  say: ^7»^0Exo^1Ð^0us^7«: Back.
+[Tue Oct 15 22:54:44 2013]  say: Nalar: Welcome
+[Tue Oct 15 22:55:25 2013]  Kill: 1022 0 3: <world> killed Nalar by MOD_SABER
+[Tue Oct 15 22:55:52 2013]  say: Nalar: Did you kill the survivors?
+[Tue Oct 15 22:55:58 2013]  say: ^7»^0Exo^1Ð^0us^7«: One-shotted them
+[Tue Oct 15 22:56:03 2013]  say: ^7»^0Exo^1Ð^0us^7«: check this out
+[Tue Oct 15 22:56:06 2013]  say: Nalar: Just making sure they aren't running free
+[Tue Oct 15 22:56:15 2013]  say: ^7»^0Exo^1Ð^0us^7«: this is kyle_boss, 200 hp
+[Tue Oct 15 22:56:31 2013]  say: Nalar: Isn't that pretty standard for a disruptor?
+[Tue Oct 15 22:56:37 2013]  say: ^7»^0Exo^1Ð^0us^7«: Nope.
+[Tue Oct 15 22:56:43 2013]  say: Nalar: Oh, I see, you aren't charging it
+[Tue Oct 15 22:56:46 2013]  say: ^7»^0Exo^1Ð^0us^7«: mhm
+[Tue Oct 15 22:57:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: Desann has 500 hp
+[Tue Oct 15 22:58:37 2013]  say: Nalar: Hmm, appears to not want to take off here
+[Tue Oct 15 22:58:54 2013]  say: ^7»^0Exo^1Ð^0us^7«: You always spawn a ship while jumping or noclipping a bit into the air
+[Tue Oct 15 22:58:58 2013]  say: ^7»^0Exo^1Ð^0us^7«: or it'll stick.
+[Tue Oct 15 22:59:19 2013]  say: Nalar: It's worked with me just standing numerous times before. Just some spots seem less advantageous than others
+[Tue Oct 15 23:00:42 2013]  Kill: 1022 0 36: <world> killed Nalar by MOD_CRUSH
+[Tue Oct 15 23:00:47 2013]  say: Nalar: Ouch
+[Tue Oct 15 23:00:49 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Tue Oct 15 23:01:07 2013]  say: ^7»^0Exo^1Ð^0us^7«: try to shoot me
+[Tue Oct 15 23:01:25 2013]  say: ^7»^0Exo^1Ð^0us^7«: Forcefield lol
+[Tue Oct 15 23:02:04 2013]  say: ^7»^0Exo^1Ð^0us^7«: check it.
+[Tue Oct 15 23:02:30 2013]  say: Nalar: Admin tool?
+[Tue Oct 15 23:02:34 2013]  say: ^7»^0Exo^1Ð^0us^7«: Nope
+[Tue Oct 15 23:02:36 2013]  say: ^7»^0Exo^1Ð^0us^7«: model glitch
+[Tue Oct 15 23:02:48 2013]  say: ^7»^0Exo^1Ð^0us^7«: watch this.
+[Tue Oct 15 23:03:09 2013]  say: ^7»^0Exo^1Ð^0us^7«: lmfao
+[Tue Oct 15 23:03:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: I'm not actually dead
+[Tue Oct 15 23:03:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Tue Oct 15 23:03:48 2013]  say: ^7»^0Exo^1Ð^0us^7«: now THIS will kill me:
+[Tue Oct 15 23:03:50 2013]  Kill: 1 1 39: ^7»^0Exo^1Ð^0us^7« killed ^7»^0Exo^1Ð^0us^7« by MOD_SUICIDE
+[Tue Oct 15 23:04:10 2013]  say: Nalar: Reminds me of a time a friend of mine DC'd mid-air strike
+[Tue Oct 15 23:07:48 2013]  say: Nalar: Having fun
+[Tue Oct 15 23:07:50 2013]  say: Nalar: *?
+[Tue Oct 15 23:07:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: Yus
+[Tue Oct 15 23:08:52 2013]  say: Nalar: Thanks. Forgot the boost wasn't ready
+[Tue Oct 15 23:08:58 2013]  say: ^7»^0Exo^1Ð^0us^7«: i love that script
+[Tue Oct 15 23:09:05 2013]  say: ^7»^0Exo^1Ð^0us^7«: i call it ''Come to Me'' xD
+[Tue Oct 15 23:09:15 2013]  say: Nalar: Is it something you got from FileFront?
+[Tue Oct 15 23:09:18 2013]  say: ^7»^0Exo^1Ð^0us^7«: Nope
+[Tue Oct 15 23:09:20 2013]  say: ^7»^0Exo^1Ð^0us^7«: I make my scripts
+[Tue Oct 15 23:09:27 2013]  say: Nalar: Shiny
+[Tue Oct 15 23:09:52 2013]  say: ^7»^0Exo^1Ð^0us^7«: Ever play Portal and Portal 2?
+[Tue Oct 15 23:10:02 2013]  say: Nalar: No, but it's hard to say I've never heard of them
+[Tue Oct 15 23:10:07 2013]  say: ^7»^0Exo^1Ð^0us^7«: watch this:
+[Tue Oct 15 23:10:18 2013]  say: ^7»^0Exo^1Ð^0us^7«: Functional portals
+[Tue Oct 15 23:10:19 2013]  Kill: 1 0 37: ^7»^0Exo^1Ð^0us^7« killed Nalar by MOD_TELEFRAG
+[Tue Oct 15 23:10:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: OW.
+[Tue Oct 15 23:10:30 2013]  say: ^7»^0Exo^1Ð^0us^7«: My origin is: (4840 -19198 1328) - You can teleport here with /mtelelast
+
+[Tue Oct 15 23:10:40 2013]  say: Nalar: I'm guessing it doesn't work so well when two people use it
+[Tue Oct 15 23:10:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: Yeah x.x
+[Tue Oct 15 23:10:55 2013]  say: ^7»^0Exo^1Ð^0us^7«: jka doesnt have portal mechanics, so its buggy xD
+[Tue Oct 15 23:11:02 2013]  say: ^7»^0Exo^1Ð^0us^7«: AUGH
+[Tue Oct 15 23:11:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: HE DIDNT SET A TELE DELAY
+[Tue Oct 15 23:11:08 2013]  say: ^7»^0Exo^1Ð^0us^7«: X_X
+[Tue Oct 15 23:11:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: ffs.
+[Tue Oct 15 23:11:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: Damn it, Darkquake
+[Tue Oct 15 23:11:33 2013]  say: Nalar: I can see the issue
+[Tue Oct 15 23:11:42 2013]  say: ^7»^0Exo^1Ð^0us^7«: See, i tried /mtelesw before
+[Tue Oct 15 23:11:47 2013]  say: ^7»^0Exo^1Ð^0us^7«: cause mtelep does that
+[Tue Oct 15 23:11:53 2013]  say: ^7»^0Exo^1Ð^0us^7«: but its so buggy with mtelesw
+[Tue Oct 15 23:12:03 2013]  say: ^7»^0Exo^1Ð^0us^7«: but it relies on the server for a certian tele time limit
+[Tue Oct 15 23:12:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: he probably has it at default .00001
+[Tue Oct 15 23:12:12 2013]  say: ^7»^0Exo^1Ð^0us^7«: ._.
+[Tue Oct 15 23:12:23 2013]  say: ^7»^0Exo^1Ð^0us^7«: .00001 is not even a second
+[Tue Oct 15 23:12:25 2013]  say: ^7»^0Exo^1Ð^0us^7«: literally
+[Tue Oct 15 23:12:42 2013]  say: ^7»^0Exo^1Ð^0us^7«: It works better on Equestria makermod, but its down atm
+[Tue Oct 15 23:12:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: Equestria has a built-in portal plugin
+[Tue Oct 15 23:12:52 2013]  say: Nalar: A billionth of a second?
+[Tue Oct 15 23:12:55 2013]  say: ^7»^0Exo^1Ð^0us^7«: working portals and all
+[Tue Oct 15 23:13:03 2013]  say: ^7»^0Exo^1Ð^0us^7«: more like a thousands of a second
+[Tue Oct 15 23:13:18 2013]  say: ^7»^0Exo^1Ð^0us^7«: but Equestria Makermod has a portal mod built in
+[Tue Oct 15 23:13:21 2013]  say: ^7»^0Exo^1Ð^0us^7«: it works magically
+[Tue Oct 15 23:13:29 2013]  say: ^7»^0Exo^1Ð^0us^7«: but very unstable since it modifies jka mechanics
+[Tue Oct 15 23:13:40 2013]  say: ^7»^0Exo^1Ð^0us^7«: I actually beta-tested it for the guy who made proxymod
+[Tue Oct 15 23:13:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: lol
+[Tue Oct 15 23:13:52 2013]  say: ^7»^0Exo^1Ð^0us^7«: I found if you shoot a portal in a player
+[Tue Oct 15 23:13:54 2013]  say: ^7»^0Exo^1Ð^0us^7«: the server crashed
+[Tue Oct 15 23:13:57 2013]  say: ^7»^0Exo^1Ð^0us^7«: crashes*
+[Tue Oct 15 23:13:58 2013]  say: ^7»^0Exo^1Ð^0us^7«: lmfao
+[Tue Oct 15 23:14:10 2013]  say: Nalar: My friends and I mainly just jump from various servers, so we don't know too much about the more  out there  mods
+[Tue Oct 15 23:14:23 2013]  say: ^7»^0Exo^1Ð^0us^7«: Proxymod is an extension of this mod, Makermod
+[Tue Oct 15 23:14:24 2013]  say: Nalar: Looking for random challenges, although I prefer looking to see what maps people have made
+[Tue Oct 15 23:14:33 2013]  say: ^7»^0Exo^1Ð^0us^7«: makermod doesnt normally use customs
+[Tue Oct 15 23:14:37 2013]  say: ^7»^0Exo^1Ð^0us^7«: since its a building server
+[Tue Oct 15 23:14:38 2013]  say: ^7»^0Exo^1Ð^0us^7«: watch:
+[Tue Oct 15 23:14:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: its like...
+[Tue Oct 15 23:14:45 2013]  say: ^7»^0Exo^1Ð^0us^7«: gmod
+[Tue Oct 15 23:14:46 2013]  say: ^7»^0Exo^1Ð^0us^7«: kinda
+[Tue Oct 15 23:15:09 2013]  say: ^7»^0Exo^1Ð^0us^7«: Just not the Source game mechanics and engine xD
+[Tue Oct 15 23:15:28 2013]  say: Nalar: Shiny
+[Tue Oct 15 23:15:35 2013]  say: ^7»^0Exo^1Ð^0us^7«: My jail
+[Tue Oct 15 23:15:40 2013]  say: ^7»^0Exo^1Ð^0us^7«: took me 2 hours to script it
+[Tue Oct 15 23:15:49 2013]  say: ^7»^0Exo^1Ð^0us^7«: Doors arent functional
+[Tue Oct 15 23:15:55 2013]  say: Nalar: For RPs? Or for the hell of it?
+[Tue Oct 15 23:15:56 2013]  say: ^7»^0Exo^1Ð^0us^7«: its built for proxymod's jail command
+[Tue Oct 15 23:16:03 2013]  say: ^7»^0Exo^1Ð^0us^7«: for bad players, etc.
+[Tue Oct 15 23:16:10 2013]  say: ^7»^0Exo^1Ð^0us^7«: It works too xD
+[Tue Oct 15 23:16:14 2013]  Exit: Timelimit hit.
+[Tue Oct 15 23:16:14 2013]  score: 14  ping: 128  client: 0 Nalar
+[Tue Oct 15 23:16:14 2013]  score: 5  ping: 166  client: 1 ^7»^0Exo^1Ð^0us^7«
+[Tue Oct 15 23:16:20 2013]  ShutdownGame:
+[Tue Oct 15 23:16:20 2013]  ------------------------------------------------------------
+[Tue Oct 15 23:16:21 2013]  ------------------------------------------------------------
+[Tue Oct 15 23:16:21 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Oct 15 23:16:22 2013]  ClientConnect: 0
+[Tue Oct 15 23:16:22 2013]  ClientConnect: 1
+[Tue Oct 15 23:16:28 2013]  ClientBegin: 0
+[Tue Oct 15 23:16:36 2013]  ClientBegin: 1
+[Tue Oct 15 23:16:46 2013]  say: ^7»^0Exo^1Ð^0us^7«: I'm a 4 year veteran of this mod
+[Tue Oct 15 23:17:37 2013]  say: Nalar: I played JKA on the Xbox back when it first came out. Got the PC version during one of Steam's Jedi Knight series sales earlier in the year, and my f
+[Tue Oct 15 23:17:42 2013]  say: ^7»^0Exo^1Ð^0us^7«: mmm
+[Tue Oct 15 23:17:47 2013]  say: Nalar: year, and so my friends and I pop in at random intervals
+[Tue Oct 15 23:17:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: mmm, never been to makermod, i assume?
+[Tue Oct 15 23:18:33 2013]  say: ^7»^0Exo^1Ð^0us^7«: Its the... unpopulated but most loved version of lugormod
+[Tue Oct 15 23:18:40 2013]  say: ^7»^0Exo^1Ð^0us^7«: and its community was great when i came in
+[Tue Oct 15 23:18:53 2013]  say: ^7»^0Exo^1Ð^0us^7«: but as with all good mods it died, and i watched it burn xP
+[Tue Oct 15 23:18:57 2013]  say: Nalar: Never heard of it
+[Tue Oct 15 23:19:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: Yeah, not surprised tbh
+[Tue Oct 15 23:19:18 2013]  say: ^7»^0Exo^1Ð^0us^7«: brb
+[Tue Oct 15 23:19:21 2013]  say: Nalar: Only game-changing mods I really have are JKA+ and MovieBattles
+[Tue Oct 15 23:22:55 2013]  say: ^7»^0Exo^1Ð^0us^7«: I used to be proficient in MBII
+[Tue Oct 15 23:23:02 2013]  say: ^7»^0Exo^1Ð^0us^7«: but its community is unstable
+[Tue Oct 15 23:23:07 2013]  say: ^7»^0Exo^1Ð^0us^7«: just like this one's dead xP
+[Tue Oct 15 23:25:37 2013]  say: Nalar: Yeah, MB2 doesn't seem very lively
+[Tue Oct 15 23:29:42 2013]  say: Nalar: Ow
+[Tue Oct 15 23:29:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: I do question why you were halfway stuck in a roof, but that's not the oddest thing i've seen.
+[Tue Oct 15 23:30:08 2013]  say: ^7»^0Exo^1Ð^0us^7«: let me show you something.. strange
+[Tue Oct 15 23:30:21 2013]  say: Nalar: I was just sitting is all
+[Tue Oct 15 23:31:09 2013]  Kill: 1 0 12: ^7»^0Exo^1Ð^0us^7« killed Nalar by MOD_REPEATER
+[Tue Oct 15 23:31:14 2013]  say: Nalar: Ow
+[Tue Oct 15 23:31:41 2013]  say: Nalar: I appear to be in a different section
+[Tue Oct 15 23:31:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: Mhm
+[Tue Oct 15 23:32:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: Check this out:
+[Tue Oct 15 23:32:45 2013]  say: ^7»^0Exo^1Ð^0us^7«: now.
+[Tue Oct 15 23:32:47 2013]  say: ^7»^0Exo^1Ð^0us^7«: try and shoot me
+[Tue Oct 15 23:33:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: swing sideways this time
+[Tue Oct 15 23:33:11 2013]  say: Nalar: Got anything to bust down that wall?
+[Tue Oct 15 23:33:29 2013]  say: Nalar: -_-
+[Tue Oct 15 23:33:36 2013]  say: Nalar: There we go
+[Tue Oct 15 23:33:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: I'm mostly ghosted xD
+[Tue Oct 15 23:33:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: now watch this
+[Tue Oct 15 23:34:32 2013]  Kill: 1 1 39: ^7»^0Exo^1Ð^0us^7« killed ^7»^0Exo^1Ð^0us^7« by MOD_SUICIDE
+[Tue Oct 15 23:34:50 2013]  say: ^7»^0Exo^1Ð^0us^7«: You can use /noclip here.
+[Tue Oct 15 23:35:06 2013]  Kill: 1 1 39: ^7»^0Exo^1Ð^0us^7« killed ^7»^0Exo^1Ð^0us^7« by MOD_SUICIDE
+[Tue Oct 15 23:35:20 2013]  say: ^7»^0Exo^1Ð^0us^7«: Hmm.. this old bug
+[Tue Oct 15 23:35:23 2013]  say: ^7»^0Exo^1Ð^0us^7«: thought it was fixed
+[Tue Oct 15 23:35:27 2013]  say: ^7»^0Exo^1Ð^0us^7«: shit, have to reconnect
+[Tue Oct 15 23:35:30 2013]  ClientDisconnect: 1
+[Tue Oct 15 23:35:30 2013]  ClientDisconnect: 1
+[Tue Oct 15 23:35:30 2013]  ClientConnect: 1
+[Tue Oct 15 23:35:30 2013]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.247.110:29070 
+[Tue Oct 15 23:35:40 2013]  ClientBegin: 1
+[Tue Oct 15 23:36:40 2013]  Kill: 1 0 10: ^7»^0Exo^1Ð^0us^7« killed Nalar by MOD_DISRUPTOR_SNIPER
+[Tue Oct 15 23:36:53 2013]  say: ^7»^0Exo^1Ð^0us^7«: My origin is: (3635 -3223 -487) - You can teleport here with /mtelelast
+
+[Tue Oct 15 23:37:33 2013]  say: ^7»^0Exo^1Ð^0us^7«: Wanna ride on mah?
+[Tue Oct 15 23:37:39 2013]  say: Nalar: Sorry, shows you're wearing my skin and I wanted to get a good look
+[Tue Oct 15 23:38:02 2013]  say: ^7»^0Exo^1Ð^0us^7«: You cant see me, can you?
+[Tue Oct 15 23:38:06 2013]  say: Nalar: Not now
+[Tue Oct 15 23:38:08 2013]  say: ^7»^0Exo^1Ð^0us^7«: I'm the tauntaun, technically xD
+[Tue Oct 15 23:38:34 2013]  say: ^7»^0Exo^1Ð^0us^7«: a taun taun that can shoot guns.
+[Tue Oct 15 23:38:36 2013]  say: ^7»^0Exo^1Ð^0us^7«: odd.
+[Tue Oct 15 23:38:49 2013]  say: Nalar: And they say nature is peaceful
+[Tue Oct 15 23:38:55 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Tue Oct 15 23:39:03 2013]  say: ^7»^0Exo^1Ð^0us^7«: Ow.
+[Tue Oct 15 23:39:08 2013]  ClientConnect: 2
+[Tue Oct 15 23:39:08 2013]  mlog:Player ^4ì^7mper^0ì^7al ^4ç^7pt^0. ^7Re^0x, connected. With IP - 174.68.113.8:29070 
+[Tue Oct 15 23:39:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: Incoming unit.
+[Tue Oct 15 23:39:33 2013]  say: ^7»^0Exo^1Ð^0us^7«: Want to see something.. odd?
+[Tue Oct 15 23:39:42 2013]  ClientBegin: 2
+[Tue Oct 15 23:40:08 2013]  print "^5§^0had^50^0w^7 @@@PLRENAME ^1S^0y^7ß^0r^7Æ^1l
+"[Tue Oct 15 23:40:10 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Exodus?
+[Tue Oct 15 23:40:13 2013]  say: ^7»^0Exo^1Ð^0us^7«: Hi sith :P
+[Tue Oct 15 23:40:21 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Aye. Got a new 1920x1080 monitor
+[Tue Oct 15 23:40:24 2013]  say: ^7»^0Exo^1Ð^0us^7«: nice
+[Tue Oct 15 23:40:27 2013]  say: ^7»^0Exo^1Ð^0us^7«: now nalar..
+[Tue Oct 15 23:40:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: i'm a tauntaun again
+[Tue Oct 15 23:40:44 2013]  say: Nalar: Yes, a corpsified one
+[Tue Oct 15 23:40:54 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Corpsified...
+[Tue Oct 15 23:41:01 2013]  Kill: 1 0 21: ^7»^0Exo^1Ð^0us^7« killed Nalar by MOD_ROCKET_HOMING
+[Tue Oct 15 23:41:07 2013]  say: ^7»^0Exo^1Ð^0us^7«: A dead tauntaun
+[Tue Oct 15 23:41:10 2013]  say: ^7»^0Exo^1Ð^0us^7«: that can shoot rockets
+[Tue Oct 15 23:41:13 2013]  say: ^7»^0Exo^1Ð^0us^7«: in your face.
+[Tue Oct 15 23:41:27 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: What happened to Quantrum?
+[Tue Oct 15 23:41:38 2013]  say: ^7»^0Exo^1Ð^0us^7«: Gare shut it down due to lack of players
+[Tue Oct 15 23:41:40 2013]  say: ^7»^0Exo^1Ð^0us^7«: such as Joe's
+[Tue Oct 15 23:41:44 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Lack of players?
+[Tue Oct 15 23:41:48 2013]  say: ^7»^0Exo^1Ð^0us^7«: mhm
+[Tue Oct 15 23:41:50 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: The best of MM went there every week
+[Tue Oct 15 23:42:02 2013]  say: ^7»^0Exo^1Ð^0us^7«: after i had left again, ppl stopped coming
+[Tue Oct 15 23:42:10 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Damn u
+[Tue Oct 15 23:42:11 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Jk
+[Tue Oct 15 23:42:13 2013]  say: ^7»^0Exo^1Ð^0us^7«: You know how it is when i leave on short notice x.x
+[Tue Oct 15 23:42:22 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: You got a Steam
+[Tue Oct 15 23:42:24 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: ?
+[Tue Oct 15 23:42:25 2013]  say: ^7»^0Exo^1Ð^0us^7«: Yeah
+[Tue Oct 15 23:42:28 2013]  say: ^7»^0Exo^1Ð^0us^7«: exogod696
+[Tue Oct 15 23:42:32 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: 69.
+[Tue Oct 15 23:42:33 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: + 6
+[Tue Oct 15 23:42:36 2013]  say: ^7»^0Exo^1Ð^0us^7«: not on it atm
+[Tue Oct 15 23:42:54 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Sent
+[Tue Oct 15 23:43:09 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: You know DAJ?
+[Tue Oct 15 23:43:09 2013]  say: ^7»^0Exo^1Ð^0us^7«: NIOU
+[Tue Oct 15 23:43:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: DONT EAT ME
+[Tue Oct 15 23:43:12 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: The roleplaying clan?
+[Tue Oct 15 23:43:14 2013]  say: ^7»^0Exo^1Ð^0us^7«: no.
+[Tue Oct 15 23:43:19 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Oh.
+[Tue Oct 15 23:43:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: You know how i am with rps
+[Tue Oct 15 23:43:31 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Well, I tried to join them and some heavy shit with clan split had happened while I was unaware
+[Tue Oct 15 23:43:37 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: x.x
+[Tue Oct 15 23:43:43 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: It's so frustrating
+[Tue Oct 15 23:43:48 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Lol
+[Tue Oct 15 23:43:54 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: it looks like a GMod creation
+[Tue Oct 15 23:43:55 2013]  say: ^7»^0Exo^1Ð^0us^7«: I can shoot rockets out of mah mouth bish.
+[Tue Oct 15 23:44:23 2013]  say: ^7»^0Exo^1Ð^0us^7«: I shot mah rocket.
+[Tue Oct 15 23:44:26 2013]  say: ^7»^0Exo^1Ð^0us^7«: with mah rocket.
+[Tue Oct 15 23:44:27 2013]  say: ^7»^0Exo^1Ð^0us^7«: wtf.
+[Tue Oct 15 23:45:00 2013]  say: ^7»^0Exo^1Ð^0us^7«: Yeah bish, this tauntaun can fight
+[Tue Oct 15 23:45:03 2013]  say: ^7»^0Exo^1Ð^0us^7«: fuck you rancor
+[Tue Oct 15 23:45:11 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: I miss the days where JKA siege was popular
+[Tue Oct 15 23:45:20 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: We used to call the rancor a little slave dog named Peter
+[Tue Oct 15 23:45:31 2013]  ClientConnect: 3
+[Tue Oct 15 23:45:31 2013]  mlog:Player ^2asijfsjdujfjes, connected. With IP - 97.117.89.249:14305 
+[Tue Oct 15 23:45:52 2013]  ClientBegin: 3
+[Tue Oct 15 23:45:56 2013]  say: ^7»^0Exo^1Ð^0us^7«: Sup jedi
+[Tue Oct 15 23:46:02 2013]  say: ^5Jedimust: FUCK U EXO :D jk
+[Tue Oct 15 23:46:30 2013]  say: ^5Jedimust: makermod servers - pain in the ass to find ._.
+[Tue Oct 15 23:46:35 2013]  say: ^7»^0Exo^1Ð^0us^7«: not for me
+[Tue Oct 15 23:46:37 2013]  say: ^7»^0Exo^1Ð^0us^7«: i just filter them
+[Tue Oct 15 23:46:41 2013]  say: ^5Jedimust: o.o
+[Tue Oct 15 23:46:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: this is the only mm server up atm.
+[Tue Oct 15 23:46:57 2013]  say: ^7»^0Exo^1Ð^0us^7«: You can filter through game type
+[Tue Oct 15 23:46:58 2013]  say: ^5Jedimust: mm eu is on, but i wouldnt recommend it ;p
+[Tue Oct 15 23:47:02 2013]  say: ^7»^0Exo^1Ð^0us^7«: when it goes blank, thats makermod
+[Tue Oct 15 23:47:22 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: You guys know Deviance on JKHub?
+[Tue Oct 15 23:47:30 2013]  say: ^7»^0Exo^1Ð^0us^7«: Dont mind me, just shooting rockets out of my taun taun mouth.
+[Tue Oct 15 23:47:40 2013]  say: ^5Jedimust: i used to do that, but i recently updated my pc to a newer vision on 8, at ja made me get the update and i cant really filter it :P
+[Tue Oct 15 23:47:52 2013]  say: ^5Jedimust: holy shit
+[Tue Oct 15 23:47:56 2013]  say: ^5Jedimust: verson* and* 
+[Tue Oct 15 23:48:04 2013]  say: ^5Jedimust: version** >_<
+[Tue Oct 15 23:48:10 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Do. You. Guys. Know. Deviance. On. JKHub. ?.
+[Tue Oct 15 23:48:15 2013]  say: ^5Jedimust: MAYBE
+[Tue Oct 15 23:48:21 2013]  say: ^5Jedimust: srry caps
+[Tue Oct 15 23:48:35 2013]  say: ^7»^0Exo^1Ð^0us^7«: phone
+[Tue Oct 15 23:48:38 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: He made the Imperial Captain Rexc
+[Tue Oct 15 23:48:38 2013]  say: ^5Jedimust: k
+[Tue Oct 15 23:48:43 2013]  say: ^5Jedimust: now i do
+[Tue Oct 15 23:48:49 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: I am Deviance
+[Tue Oct 15 23:48:52 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: :P
+[Tue Oct 15 23:48:52 2013]  say: ^5Jedimust: O.O
+[Tue Oct 15 23:49:08 2013]  say: ^5Jedimust: speechless.
+[Tue Oct 15 23:49:21 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: :P
+[Tue Oct 15 23:49:25 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: I'm using my rex right now, too
+[Tue Oct 15 23:49:37 2013]  say: ^5Jedimust: :D
+[Tue Oct 15 23:49:38 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: I love it when the work I do is so good
+[Tue Oct 15 23:49:45 2013]  say: ^5Jedimust: idk where u are
+[Tue Oct 15 23:49:50 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: My origin is: (-9677 -7 -487) - You can teleport here with /mtelelast
+
+[Tue Oct 15 23:50:02 2013]  say: ^5Jedimust: yellow floor??
+[Tue Oct 15 23:50:10 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Huh?
+[Tue Oct 15 23:50:19 2013]  Kill: 1022 2 39: <world> killed ^1S^0y^7ß^0r^7Æ^1l by MOD_SUICIDE
+[Tue Oct 15 23:50:22 2013]  say: ^5Jedimust: or it might be a custom shader due to my mods :P
+[Tue Oct 15 23:50:25 2013]  say: ^7»^0Exo^1Ð^0us^7«: mhm
+[Tue Oct 15 23:50:31 2013]  say: ^5Jedimust: lol
+[Tue Oct 15 23:50:46 2013]  say: ^5Jedimust: lol exo is amputated rocket tauntuan
+[Tue Oct 15 23:50:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Tue Oct 15 23:50:58 2013]  Kill: 1 3 20: ^7»^0Exo^1Ð^0us^7« killed ^5Jedimust by MOD_ROCKET_SPLASH
+[Tue Oct 15 23:51:01 2013]  say: ^5Jedimust: O.O
+[Tue Oct 15 23:51:03 2013]  Kill: 2 0 5: ^1S^0y^7ß^0r^7Æ^1l killed Nalar by MOD_BRYAR_PISTOL_ALT
+[Tue Oct 15 23:51:07 2013]  say: ^7»^0Exo^1Ð^0us^7«: BS
+[Tue Oct 15 23:51:08 2013]  say: ^5Jedimust: i was invisible thogh D:
+[Tue Oct 15 23:51:09 2013]  say: ^7»^0Exo^1Ð^0us^7«: that was MY kill!
+[Tue Oct 15 23:51:13 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: What do you think o fmy idea for the Rise of the Empire mod?
+[Tue Oct 15 23:51:14 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Tue Oct 15 23:51:30 2013]  say: ^5Jedimust: wait is god mode enabled here?
+[Tue Oct 15 23:51:34 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: ye
+[Tue Oct 15 23:51:46 2013]  say: ^5Jedimust: then why do i have the fucking god glitch on me :P
+[Tue Oct 15 23:51:54 2013]  say: ^5Jedimust: or ehm
+[Tue Oct 15 23:51:55 2013]  say: ^5Jedimust: armor
+[Tue Oct 15 23:51:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: :P
+[Tue Oct 15 23:52:12 2013]  Kill: 1022 2 39: <world> killed ^1S^0y^7ß^0r^7Æ^1l by MOD_SUICIDE
+[Tue Oct 15 23:52:15 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: fucking..
+[Tue Oct 15 23:52:19 2013]  say: ^5Jedimust: lol
+[Tue Oct 15 23:52:27 2013]  Kill: 1 0 19: ^7»^0Exo^1Ð^0us^7« killed Nalar by MOD_ROCKET
+[Tue Oct 15 23:52:31 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Tue Oct 15 23:52:42 2013]  say: ^7»^0Exo^1Ð^0us^7«: I fucking love being a dead tauntaun lmfao
+[Tue Oct 15 23:52:47 2013]  say: ^5Jedimust: gotta bind e to medic, one sec ._.
+[Tue Oct 15 23:52:56 2013]  say: ^7»^0Exo^1Ð^0us^7«: medic?
+[Tue Oct 15 23:53:01 2013]  say: ^5Jedimust: tf2 habits
+[Tue Oct 15 23:53:03 2013]  say: ^7»^0Exo^1Ð^0us^7«: not a tf2 reference, right?
+[Tue Oct 15 23:53:05 2013]  say: ^7»^0Exo^1Ð^0us^7«: thought so.
+[Tue Oct 15 23:53:08 2013]  say: ^5Jedimust: lol
+[Tue Oct 15 23:53:13 2013]  say: ^7»^0Exo^1Ð^0us^7«: I HATE it
+[Tue Oct 15 23:53:22 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: The prop hunt is fun
+[Tue Oct 15 23:53:22 2013]  say: ^5Jedimust: *im stuck*
+[Tue Oct 15 23:53:23 2013]  say: ^7»^0Exo^1Ð^0us^7«: when ppl spam ''Medic! Hey doc! 
+
+[Tue Oct 15 23:53:24 2013]  say: ^7»^0Exo^1Ð^0us^7«: ._.
+[Tue Oct 15 23:53:39 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: We should make a MM prop hunt!
+[Tue Oct 15 23:53:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: Possible
+[Tue Oct 15 23:53:48 2013]  say: ^5Jedimust: ok
+[Tue Oct 15 23:53:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: you could use the models here
+[Tue Oct 15 23:53:51 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: lets do it
+[Tue Oct 15 23:53:53 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: XD
+[Tue Oct 15 23:53:58 2013]  say: ^5Jedimust: but we would have to use some cmd
+[Tue Oct 15 23:53:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: and use my tauntaun model glitch i'm using
+[Tue Oct 15 23:54:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: i use /marm 0;mscaleme -10.25;mscale -9.8
+[Tue Oct 15 23:54:25 2013]  say: ^5Jedimust: lol
+[Tue Oct 15 23:54:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: it scales the model and u to be untouchable except for damage
+[Tue Oct 15 23:54:39 2013]  say: ^7»^0Exo^1Ð^0us^7«: so you can move with the model attached
+[Tue Oct 15 23:54:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: like my taun taun here
+[Tue Oct 15 23:54:52 2013]  Kill: 1 0 19: ^7»^0Exo^1Ð^0us^7« killed Nalar by MOD_ROCKET
+[Tue Oct 15 23:54:59 2013]  say: ^5Jedimust: now i  place object?
+[Tue Oct 15 23:54:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: lol.
+[Tue Oct 15 23:55:03 2013]  say: ^5Jedimust: i want to be a crate
+[Tue Oct 15 23:55:04 2013]  say: ^5Jedimust: xDD
+[Tue Oct 15 23:55:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: mhm, then do the cmd string
+[Tue Oct 15 23:55:21 2013]  say: ^7»^0Exo^1Ð^0us^7«: the model has to be selected, then do the cmd
+[Tue Oct 15 23:55:26 2013]  say: ^5Jedimust: o
+[Tue Oct 15 23:55:26 2013]  say: ^7»^0Exo^1Ð^0us^7«: then, you can make a bind
+[Tue Oct 15 23:55:29 2013]  Kill: 3 3 39: ^5Jedimust killed ^5Jedimust by MOD_SUICIDE
+[Tue Oct 15 23:55:56 2013]  say: ^5Jedimust: i am crates
+[Tue Oct 15 23:55:58 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: // XD.
+[Tue Oct 15 23:55:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: then the bind you make removes hp every time you shoot.
+[Tue Oct 15 23:56:05 2013]  say: ^7»^0Exo^1Ð^0us^7«: by using:
+[Tue Oct 15 23:56:08 2013]  say: ^5Jedimust: I AM CRATES
+[Tue Oct 15 23:56:19 2013]  say: ^5Jedimust: OPEN ME WITH A KEY 
+[Tue Oct 15 23:56:25 2013]  say: ^5Jedimust: TO GET A SHITTY HAT
+[Tue Oct 15 23:56:29 2013]  say: ^5Jedimust: >_<
+[Tue Oct 15 23:56:41 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: // I still ned to
+[Tue Oct 15 23:56:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: +attack;mplace tripmine/glowbit 0;mpain 10 1;marm 0;mdrop;wait 15;-attack;wait 5;mkill
+[Tue Oct 15 23:56:45 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: meed to*
+[Tue Oct 15 23:56:53 2013]  say: ^5Jedimust: holy shit exo
+[Tue Oct 15 23:56:53 2013]  say: ^7»^0Exo^1Ð^0us^7«: do that with a bind
+[Tue Oct 15 23:56:56 2013]  say: ^7»^0Exo^1Ð^0us^7«: and it'll remove hp
+[Tue Oct 15 23:56:58 2013]  say: ^7»^0Exo^1Ð^0us^7«: thank you.
+[Tue Oct 15 23:57:06 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: // how do i list
+[Tue Oct 15 23:57:10 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: // useable objects like
+[Tue Oct 15 23:57:12 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: // ammo and shields
+[Tue Oct 15 23:57:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: /mlist items, i think.
+[Tue Oct 15 23:57:31 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: what bad avice
+[Tue Oct 15 23:57:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: now, nalar, do you play prop hunt?
+[Tue Oct 15 23:57:35 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: advice*
+[Tue Oct 15 23:57:36 2013]  say: ^5Jedimust: no work
+[Tue Oct 15 23:57:40 2013]  say: Nalar: Nope
+[Tue Oct 15 23:57:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: Its simple
+[Tue Oct 15 23:57:45 2013]  say: ^5Jedimust: IT NO WORK
+[Tue Oct 15 23:57:48 2013]  say: ^5Jedimust: FUCK XD
+[Tue Oct 15 23:57:49 2013]  say: ^7»^0Exo^1Ð^0us^7«: you select an object to spawn
+[Tue Oct 15 23:57:53 2013]  say: ^7»^0Exo^1Ð^0us^7«: then try to hide as it
+[Tue Oct 15 23:57:54 2013]  say: ^7»^0Exo^1Ð^0us^7«: in the map
+[Tue Oct 15 23:57:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: the hunter(s)
+[Tue Oct 15 23:58:01 2013]  say: ^7»^0Exo^1Ð^0us^7«: try to find you
+[Tue Oct 15 23:58:05 2013]  say: ^7»^0Exo^1Ð^0us^7«: every shot or attack they make
+[Tue Oct 15 23:58:07 2013]  say: ^5Jedimust: it no work
+[Tue Oct 15 23:58:08 2013]  say: ^7»^0Exo^1Ð^0us^7«: damages them
+[Tue Oct 15 23:58:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: what doesn.t
+[Tue Oct 15 23:58:19 2013]  say: ^5Jedimust: the no damage cmd
+[Tue Oct 15 23:58:23 2013]  say: ^7»^0Exo^1Ð^0us^7«: lemme see...
+[Tue Oct 15 23:58:43 2013]  Kill: 2 0 4: ^1S^0y^7ß^0r^7Æ^1l killed Nalar by MOD_BRYAR_PISTOL
+[Tue Oct 15 23:58:53 2013]  say: Nalar: I should not be able to Force Push blaster bolts
+[Tue Oct 15 23:58:58 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: // Ikr
+[Tue Oct 15 23:59:00 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: ikr*
+[Tue Oct 15 23:59:04 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: freaking RP habits
+[Tue Oct 15 23:59:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: hmm.
+[Tue Oct 15 23:59:23 2013]  say: ^5Jedimust: i am vent
+[Tue Oct 15 23:59:28 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: // What map is this
+[Tue Oct 15 23:59:33 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: what map is this* ffs
+[Tue Oct 15 23:59:35 2013]  say: ^5Jedimust: siege_desert
+[Tue Oct 15 23:59:36 2013]  say: ^7»^0Exo^1Ð^0us^7«: Odd.
+[Tue Oct 15 23:59:47 2013]  say: ^5Jedimust: i can just have god on?
+[Tue Oct 15 23:59:52 2013]  say: ^7»^0Exo^1Ð^0us^7«: nope
+[Tue Oct 15 23:59:55 2013]  say: ^7»^0Exo^1Ð^0us^7«: hmmm.
+[Tue Oct 15 23:59:56 2013]  say: ^5Jedimust: o
+[Tue Oct 15 23:59:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: jedi, have makermodule?
+[Wed Oct 16 00:00:03 2013]  say: ^5Jedimust: i think
+[Wed Oct 16 00:00:08 2013]  say: ^5Jedimust: yes
+[Wed Oct 16 00:00:08 2013]  say: ^7»^0Exo^1Ð^0us^7«: then you can probably use ontimer
+[Wed Oct 16 00:00:13 2013]  say: ^7»^0Exo^1Ð^0us^7«: lemme make a script that'll work
+[Wed Oct 16 00:00:16 2013]  say: ^5Jedimust: ok
+[Wed Oct 16 00:00:20 2013]  say: ^5Jedimust: dropbox file?
+[Wed Oct 16 00:00:54 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: what's the command sequence?
+[Wed Oct 16 00:00:59 2013]  say: ^5Jedimust: big
+[Wed Oct 16 00:01:03 2013]  say: ^5Jedimust: cmd
+[Wed Oct 16 00:01:05 2013]  say: ^5Jedimust: idk
+[Wed Oct 16 00:01:28 2013]  say: ^5Jedimust: there should be like a control point looking thing for heal
+[Wed Oct 16 00:01:42 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: exo?
+[Wed Oct 16 00:01:47 2013]  say: ^5Jedimust: but only for hunters
+[Wed Oct 16 00:01:50 2013]  say: ^7»^0Exo^1Ð^0us^7«: ?
+[Wed Oct 16 00:01:57 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: What's the command sequence
+[Wed Oct 16 00:01:59 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: to be an object
+[Wed Oct 16 00:02:03 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: With a life meter
+[Wed Oct 16 00:02:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: marm 0;mscaleme -10.25;mscale -<test>
+[Wed Oct 16 00:02:25 2013]  say: ^7»^0Exo^1Ð^0us^7«: the <test>
+[Wed Oct 16 00:02:29 2013]  say: ^7»^0Exo^1Ð^0us^7«: you do 9.8 for small
+[Wed Oct 16 00:02:31 2013]  say: ^5Jedimust: /ticker xD
+[Wed Oct 16 00:02:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: -9.8*
+[Wed Oct 16 00:02:38 2013]  say: ^7»^0Exo^1Ð^0us^7«: -7 for larger
+[Wed Oct 16 00:02:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: -5 for larger than -7
+[Wed Oct 16 00:02:44 2013]  say: ^5Jedimust: omg my health is on
+[Wed Oct 16 00:02:45 2013]  say: ^7»^0Exo^1Ð^0us^7«: etc.
+[Wed Oct 16 00:02:47 2013]  say: ^5Jedimust: WTF
+[Wed Oct 16 00:02:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: now one moment, testing
+[Wed Oct 16 00:02:53 2013]  say: ^7»^0Exo^1Ð^0us^7«: quit.
+[Wed Oct 16 00:03:01 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: // It's hard for me to move
+[Wed Oct 16 00:03:04 2013]  say: ^5Jedimust: exo
+[Wed Oct 16 00:03:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: do the cmd string AFTER you chose the object
+[Wed Oct 16 00:03:17 2013]  say: ^5Jedimust: what is that game called where me and zero and u play with 1 hp
+[Wed Oct 16 00:03:19 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: I did :P
+[Wed Oct 16 00:03:29 2013]  say: ^7»^0Exo^1Ð^0us^7«: its just a game wher eyou shoot each other with low hp
+[Wed Oct 16 00:03:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: simple as that :P
+[Wed Oct 16 00:03:43 2013]  say: ^5Jedimust: ill just call it a metaphor of instagib :P
+[Wed Oct 16 00:03:57 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: // ugh
+[Wed Oct 16 00:04:08 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Simply cant move
+[Wed Oct 16 00:04:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: Works now.
+[Wed Oct 16 00:04:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: and do the cmd again, sith
+[Wed Oct 16 00:04:19 2013]  say: ^7»^0Exo^1Ð^0us^7«: you're not doing it right
+[Wed Oct 16 00:04:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: jedi's got it working
+[Wed Oct 16 00:04:26 2013]  say: ^5Jedimust: i huge
+[Wed Oct 16 00:04:34 2013]  say: ^7»^0Exo^1Ð^0us^7«: now jedi, do /mscale -<test> to figure out its proper size
+[Wed Oct 16 00:04:44 2013]  say: ^5Jedimust: OO
+[Wed Oct 16 00:04:49 2013]  say: ^5Jedimust: I HUGER 
+[Wed Oct 16 00:05:01 2013]  Kill: 1022 1 0: <world> killed ^7»^0Exo^1Ð^0us^7« by MOD_UNKNOWN
+[Wed Oct 16 00:05:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: the pain for shot works
+[Wed Oct 16 00:05:12 2013]  Item: 3 weapon_blaster
+[Wed Oct 16 00:05:14 2013]  say: ^7»^0Exo^1Ð^0us^7«: just... overpowered.
+[Wed Oct 16 00:05:20 2013]  say: ^5Jedimust: ima gonna be datapad
+[Wed Oct 16 00:05:36 2013]  say: ^5Jedimust: uhm
+[Wed Oct 16 00:05:40 2013]  say: ^7»^0Exo^1Ð^0us^7«: Nothing sma- fuck it, you can be a cup in prophunt, so might as well.
+[Wed Oct 16 00:05:47 2013]  say: ^5Jedimust: lol cup!
+[Wed Oct 16 00:05:55 2013]  say: ^7»^0Exo^1Ð^0us^7«: hell, you can be a cup here too xD
+[Wed Oct 16 00:06:01 2013]  say: ^7»^0Exo^1Ð^0us^7«: narshaddar/cup xD
+[Wed Oct 16 00:06:04 2013]  say: ^5Jedimust: what is location for the datapad?
+[Wed Oct 16 00:06:07 2013]  say: ^7»^0Exo^1Ð^0us^7«: something like that, i think
+[Wed Oct 16 00:06:09 2013]  say: ^7»^0Exo^1Ð^0us^7«: i dont remember
+[Wed Oct 16 00:06:13 2013]  say: ^7»^0Exo^1Ð^0us^7«: somewhere in mp models
+[Wed Oct 16 00:06:36 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: // Still not working
+[Wed Oct 16 00:06:45 2013]  say: ^7»^0Exo^1Ð^0us^7«: cause you derp
+[Wed Oct 16 00:06:45 2013]  say: ^7»^0Exo^1Ð^0us^7«: lol
+[Wed Oct 16 00:06:49 2013]  say: ^5Jedimust: do mscaleme 1
+[Wed Oct 16 00:06:52 2013]  Kill: 1022 3 38: <world> killed ^5Jedimust by MOD_FALLING
+[Wed Oct 16 00:06:53 2013]  say: ^5Jedimust: and then do marm 0
+[Wed Oct 16 00:06:56 2013]  say: ^5Jedimust: then place cup
+[Wed Oct 16 00:07:02 2013]  say: ^5Jedimust: and mscaleme -2
+[Wed Oct 16 00:07:04 2013]  say: ^5Jedimust: uhm
+[Wed Oct 16 00:07:05 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: I want to use a different object
+[Wed Oct 16 00:07:05 2013]  say: ^5Jedimust: no
+[Wed Oct 16 00:07:07 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: a bigger ne
+[Wed Oct 16 00:07:07 2013]  say: ^5Jedimust: 8
+[Wed Oct 16 00:07:34 2013]  say: ^7»^0Exo^1Ð^0us^7«: still working on the dmg on shot
+[Wed Oct 16 00:08:00 2013]  tell: ^1S^0y^7ß^0r^7Æ^1l to ^5Jedimust: teleport to -6714 -368 -359
+[Wed Oct 16 00:08:00 2013]  say: ^7»^0Exo^1Ð^0us^7«: There
+[Wed Oct 16 00:08:02 2013]  say: ^7»^0Exo^1Ð^0us^7«: perfect.
+[Wed Oct 16 00:08:17 2013]  say: ^5Jedimust: o
+[Wed Oct 16 00:08:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: Now, we can only use these weapons:
+[Wed Oct 16 00:08:28 2013]  say: ^7»^0Exo^1Ð^0us^7«: pistol <either one>
+[Wed Oct 16 00:08:29 2013]  say: ^5Jedimust: dont drop it
+[Wed Oct 16 00:08:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: ONE shot for the demp2
+[Wed Oct 16 00:08:36 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Didn't
+[Wed Oct 16 00:08:36 2013]  say: ^7»^0Exo^1Ð^0us^7«: and ONE shot for the rocket
+[Wed Oct 16 00:08:39 2013]  say: ^7»^0Exo^1Ð^0us^7«: so use them wisely
+[Wed Oct 16 00:08:41 2013]  say: ^5Jedimust: O.O
+[Wed Oct 16 00:08:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: and you can use the fletchette
+[Wed Oct 16 00:08:52 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Okay
+[Wed Oct 16 00:08:53 2013]  say: ^5Jedimust: place object
+[Wed Oct 16 00:08:57 2013]  say: ^7»^0Exo^1Ð^0us^7«: so pistol, fletchette, demp2, and rocket.
+[Wed Oct 16 00:09:04 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: got eet
+[Wed Oct 16 00:09:17 2013]  say: ^5Jedimust: now do this: marm 0; mscaleme -10.25;mscaleme -9.8
+[Wed Oct 16 00:09:31 2013]  say: ^5Jedimust: working??
+[Wed Oct 16 00:09:35 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Nu
+[Wed Oct 16 00:09:36 2013]  say: ^5Jedimust: yeah there
+[Wed Oct 16 00:09:37 2013]  say: ^5Jedimust: wut
+[Wed Oct 16 00:09:41 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: I can't move
+[Wed Oct 16 00:09:44 2013]  say: ^5Jedimust: oh its cuz u need to be outside
+[Wed Oct 16 00:09:45 2013]  say: ^5Jedimust: noclip out
+[Wed Oct 16 00:09:53 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: nope
+[Wed Oct 16 00:09:56 2013]  say: ^5Jedimust: O.O
+[Wed Oct 16 00:10:00 2013]  say: ^5Jedimust: shit
+[Wed Oct 16 00:10:03 2013]  say: ^7»^0Exo^1Ð^0us^7«: no noclipping, either
+[Wed Oct 16 00:10:08 2013]  say: ^5Jedimust: he cant move xD
+[Wed Oct 16 00:10:21 2013]  say: ^5Jedimust: hmm
+[Wed Oct 16 00:10:24 2013]  say: ^7»^0Exo^1Ð^0us^7«: do a negative mscaleme and a negative mscale
+[Wed Oct 16 00:10:30 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: exo
+[Wed Oct 16 00:10:30 2013]  say: ^7»^0Exo^1Ð^0us^7«: for both you and the object of choise
+[Wed Oct 16 00:10:31 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: My origin is: (-7210 -1339 -487) - You can teleport here with /mtelelast
+
+[Wed Oct 16 00:10:33 2013]  say: ^7»^0Exo^1Ð^0us^7«: and an /marm 0
+[Wed Oct 16 00:10:40 2013]  say: ^7»^0Exo^1Ð^0us^7«: Okay.
+[Wed Oct 16 00:10:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: just.
+[Wed Oct 16 00:10:42 2013]  say: ^7»^0Exo^1Ð^0us^7«: wth
+[Wed Oct 16 00:10:52 2013]  say: ^7»^0Exo^1Ð^0us^7«: the object
+[Wed Oct 16 00:10:58 2013]  say: ^7»^0Exo^1Ð^0us^7«: isnt /mscale -<number>
+[Wed Oct 16 00:11:04 2013]  say: ^7»^0Exo^1Ð^0us^7«: it HAS to be negative
+[Wed Oct 16 00:11:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: or it wont work
+[Wed Oct 16 00:11:12 2013]  say: ^7»^0Exo^1Ð^0us^7«: Now- OMFG
+[Wed Oct 16 00:11:13 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: wtf
+[Wed Oct 16 00:11:15 2013]  say: ^7»^0Exo^1Ð^0us^7«: dude
+[Wed Oct 16 00:11:16 2013]  say: ^5Jedimust: O FUCK
+[Wed Oct 16 00:11:17 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: XD
+[Wed Oct 16 00:11:19 2013]  say: ^7»^0Exo^1Ð^0us^7«: -8 on that bish
+[Wed Oct 16 00:11:30 2013]  say: ^5Jedimust: what scale for me?
+[Wed Oct 16 00:11:35 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: too... big
+[Wed Oct 16 00:11:37 2013]  say: ^7»^0Exo^1Ð^0us^7«: uhh..
+[Wed Oct 16 00:11:39 2013]  say: ^7»^0Exo^1Ð^0us^7«: what are you now?
+[Wed Oct 16 00:11:43 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: FIXED
+[Wed Oct 16 00:11:44 2013]  say: ^5Jedimust: desert/vent
+[Wed Oct 16 00:11:46 2013]  say: ^7»^0Exo^1Ð^0us^7«: no
+[Wed Oct 16 00:11:47 2013]  say: ^7»^0Exo^1Ð^0us^7«: size
+[Wed Oct 16 00:11:48 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Hold on
+[Wed Oct 16 00:11:53 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: What if it doesnt touch the ground
+[Wed Oct 16 00:11:58 2013]  say: ^5Jedimust: doesnt matter
+[Wed Oct 16 00:11:59 2013]  say: ^5Jedimust: xD
+[Wed Oct 16 00:11:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: deal xD
+[Wed Oct 16 00:12:04 2013]  say: ^7»^0Exo^1Ð^0us^7«: wow.
+[Wed Oct 16 00:12:06 2013]  Kill: 2 1 5: ^1S^0y^7ß^0r^7Æ^1l killed ^7»^0Exo^1Ð^0us^7« by MOD_BRYAR_PISTOL_ALT
+[Wed Oct 16 00:12:06 2013]  Item: 2 weapon_blaster
+[Wed Oct 16 00:12:09 2013]  say: ^7»^0Exo^1Ð^0us^7«: try -9.8 on tha-
+[Wed Oct 16 00:12:09 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: WEAPON
+[Wed Oct 16 00:12:10 2013]  say: ^7»^0Exo^1Ð^0us^7«: Ow.
+[Wed Oct 16 00:12:11 2013]  say: ^5Jedimust: wut
+[Wed Oct 16 00:12:20 2013]  say: ^5Jedimust: -9.8
+[Wed Oct 16 00:12:21 2013]  say: ^7»^0Exo^1Ð^0us^7«: Now, props cant shoot back
+[Wed Oct 16 00:12:21 2013]  say: ^5Jedimust: ?
+[Wed Oct 16 00:12:24 2013]  say: ^7»^0Exo^1Ð^0us^7«: and they have 1 hp
+[Wed Oct 16 00:12:24 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: And this is the original size, exo
+[Wed Oct 16 00:12:27 2013]  say: ^7»^0Exo^1Ð^0us^7«: no matter what size object
+[Wed Oct 16 00:12:27 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: WHAT
+[Wed Oct 16 00:12:29 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: xD
+[Wed Oct 16 00:12:51 2013]  say: ^5Jedimust: i tiny vent
+[Wed Oct 16 00:12:53 2013]  say: ^7»^0Exo^1Ð^0us^7«: made a script where you lose hp on shot
+[Wed Oct 16 00:12:56 2013]  say: ^5Jedimust: ?mscale -5
+[Wed Oct 16 00:12:56 2013]  say: ^7»^0Exo^1Ð^0us^7«: but you cant spam it
+[Wed Oct 16 00:13:02 2013]  say: ^7»^0Exo^1Ð^0us^7«: thats why i chose the slower shooting weapons
+[Wed Oct 16 00:13:25 2013]  say: ^5Jedimust: i have 1 hp one armor
+[Wed Oct 16 00:13:25 2013]  say: ^7»^0Exo^1Ð^0us^7«: jesus sith
+[Wed Oct 16 00:13:30 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: XXD
+[Wed Oct 16 00:13:31 2013]  say: ^7»^0Exo^1Ð^0us^7«: do -9.8 on that xD
+[Wed Oct 16 00:13:36 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: I already did -9 D;
+[Wed Oct 16 00:13:41 2013]  say: ^5Jedimust: brb gonna trade with my friend
+[Wed Oct 16 00:13:45 2013]  say: ^7»^0Exo^1Ð^0us^7«: -9^1.8
+[Wed Oct 16 00:13:52 2013]  say: ^7»^0Exo^1Ð^0us^7«: and no weapons for props
+[Wed Oct 16 00:14:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: pretty much, nalar, its like a really fucked up version of hide-and-seek xD
+[Wed Oct 16 00:14:21 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: best trash ever
+[Wed Oct 16 00:14:23 2013]  say: ^7»^0Exo^1Ð^0us^7«: Sith.. lmfao
+[Wed Oct 16 00:15:05 2013]  Kill: 3 2 5: ^5Jedimust killed ^1S^0y^7ß^0r^7Æ^1l by MOD_BRYAR_PISTOL_ALT
+[Wed Oct 16 00:15:08 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: LOL
+[Wed Oct 16 00:15:11 2013]  say: ^5Jedimust: wut?
+[Wed Oct 16 00:15:21 2013]  say: ^7»^0Exo^1Ð^0us^7«: i dont even.
+[Wed Oct 16 00:15:33 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: okay i get the idea
+[Wed Oct 16 00:15:38 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Let me find
+[Wed Oct 16 00:15:41 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: A suitable object
+[Wed Oct 16 00:15:45 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: before we start
+[Wed Oct 16 00:16:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: well, i'll find a spot to hide, and you guys make yourselfs 1 hp and 0 armor
+[Wed Oct 16 00:16:09 2013]  say: ^7»^0Exo^1Ð^0us^7«: and choose your props
+[Wed Oct 16 00:16:16 2013]  say: ^7»^0Exo^1Ð^0us^7«: i'll hide in the spot until ya'll are ready
+[Wed Oct 16 00:16:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: I'll move my camera down, so if you want to hide in the place where i am, i wont see you
+[Wed Oct 16 00:16:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: and my headset's off, so i wont hear your steps
+[Wed Oct 16 00:17:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: You can however, use noclip to go through doors or openins that wont open
+[Wed Oct 16 00:17:12 2013]  say: ^7»^0Exo^1Ð^0us^7«: but dont use it to go above ground
+[Wed Oct 16 00:18:50 2013]  say: Nalar: Well, I just got in a saber lock with this random lightsaber
+[Wed Oct 16 00:19:12 2013]  say: ^7»^0Exo^1Ð^0us^7«: probably jedi xD
+[Wed Oct 16 00:19:14 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Can we noclip into the floors a little
+[Wed Oct 16 00:19:20 2013]  say: ^7»^0Exo^1Ð^0us^7«: nope
+[Wed Oct 16 00:19:21 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: So that our objects touch the floor
+[Wed Oct 16 00:19:24 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Pls
+[Wed Oct 16 00:19:25 2013]  say: ^7»^0Exo^1Ð^0us^7«: you have to be able to be shot
+[Wed Oct 16 00:19:26 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: XD
+[Wed Oct 16 00:19:34 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: What if
+[Wed Oct 16 00:19:38 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: you touch our objects
+[Wed Oct 16 00:19:41 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: And they make a noise
+[Wed Oct 16 00:19:47 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Indicating that they are a hunted prop
+[Wed Oct 16 00:19:53 2013]  say: ^7»^0Exo^1Ð^0us^7«: with the negative scaling and being held by /marm
+[Wed Oct 16 00:19:58 2013]  say: ^7»^0Exo^1Ð^0us^7«: it probably wouldnt work well
+[Wed Oct 16 00:20:08 2013]  say: ^7»^0Exo^1Ð^0us^7«: and youd still be touching it, so itd make sounds constantly lol
+[Wed Oct 16 00:20:37 2013]  say: ^7»^0Exo^1Ð^0us^7«: or, if i get close to your prop
+[Wed Oct 16 00:20:42 2013]  ClientDisconnect: 3
+[Wed Oct 16 00:20:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: and i think you're it, you can run
+[Wed Oct 16 00:20:52 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: k
+[Wed Oct 16 00:20:53 2013]  say: ^7»^0Exo^1Ð^0us^7«: and let it notify me that you're the prop
+[Wed Oct 16 00:21:08 2013]  say: ^7»^0Exo^1Ð^0us^7«: but, only run if ive stared right at you xD
+[Wed Oct 16 00:21:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: and for several seconds xD
+[Wed Oct 16 00:21:26 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Jedimust lef tD;
+[Wed Oct 16 00:21:31 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: And I am ready
+[Wed Oct 16 00:21:35 2013]  say: ^7»^0Exo^1Ð^0us^7«: its hard to type case gf's tickling me x_x
+[Wed Oct 16 00:22:26 2013]  say: ^7»^0Exo^1Ð^0us^7«: Only cause he was tickling me the other night
+[Wed Oct 16 00:22:32 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: HE?
+[Wed Oct 16 00:22:34 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Oh god
+[Wed Oct 16 00:22:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: she's taking my kb
+[Wed Oct 16 00:22:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: HELP
+[Wed Oct 16 00:23:23 2013]  say: ^7»^0Exo^1Ð^0us^7«: Muwahahahahah
+[Wed Oct 16 00:23:40 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: You will NEVER find me
+[Wed Oct 16 00:23:58 2013]  say: ^7»^0Exo^1Ð^0us^7«: alright, she's stopped x_x
+[Wed Oct 16 00:24:05 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: xD
+[Wed Oct 16 00:24:21 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: I wish JKA had a prop hunt mode to begin with
+[Wed Oct 16 00:24:28 2013]  say: ^7»^0Exo^1Ð^0us^7«: ikkr
+[Wed Oct 16 00:24:44 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: come @ me, noob.
+[Wed Oct 16 00:24:45 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Jk
+[Wed Oct 16 00:25:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: dont run if i take a while
+[Wed Oct 16 00:25:15 2013]  say: ^7»^0Exo^1Ð^0us^7«: huge ass fucking map.
+[Wed Oct 16 00:25:17 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: oops.
+[Wed Oct 16 00:25:19 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Jk
+[Wed Oct 16 00:25:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: remember, you got to be 1 hp
+[Wed Oct 16 00:25:38 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Remembered.
+[Wed Oct 16 00:26:10 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: brb bathroom
+[Wed Oct 16 00:26:14 2013]  say: ^7»^0Exo^1Ð^0us^7«: kk
+[Wed Oct 16 00:29:44 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Back
+[Wed Oct 16 00:29:48 2013]  say: ^7»^0Exo^1Ð^0us^7«: wb
+[Wed Oct 16 00:29:56 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Oh gosh
+[Wed Oct 16 00:29:59 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: I cannot stand this
+[Wed Oct 16 00:30:00 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: XD
+[Wed Oct 16 00:30:01 2013]  say: ^7»^0Exo^1Ð^0us^7«: stay.
+[Wed Oct 16 00:30:09 2013]  say: ^7»^0Exo^1Ð^0us^7«: huge as fuck map
+[Wed Oct 16 00:30:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: so. stay.
+[Wed Oct 16 00:30:21 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: My origin is: (2809 495 -487) - You can teleport here with /mtelelast
+
+[Wed Oct 16 00:30:29 2013]  say: ^7»^0Exo^1Ð^0us^7«: not going
+[Wed Oct 16 00:30:39 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: My origin is: (2676 498 -487) - You can teleport here with /mtelelast
+
+[Wed Oct 16 00:30:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: nop
+[Wed Oct 16 00:30:56 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: It will be easier...
+[Wed Oct 16 00:31:01 2013]  say: ^7»^0Exo^1Ð^0us^7«: nope.
+[Wed Oct 16 00:31:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: sith
+[Wed Oct 16 00:31:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: tyou cant do it in real prophunt
+[Wed Oct 16 00:31:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: you cant do it in thiis prophunt
+[Wed Oct 16 00:31:29 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: I want to ragequit
+[Wed Oct 16 00:31:34 2013]  say: ^7»^0Exo^1Ð^0us^7«: nope.
+[Wed Oct 16 00:31:39 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: ?q
+[Wed Oct 16 00:31:47 2013]  say: ^7»^0Exo^1Ð^0us^7«: ...
+[Wed Oct 16 00:31:52 2013]  say: ^7»^0Exo^1Ð^0us^7«: that gun better not be you
+[Wed Oct 16 00:32:10 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Its obv not me
+[Wed Oct 16 00:32:45 2013]  say: ^7»^0Exo^1Ð^0us^7«: ...
+[Wed Oct 16 00:32:47 2013]  say: ^7»^0Exo^1Ð^0us^7«: just..
+[Wed Oct 16 00:32:47 2013]  say: ^7»^0Exo^1Ð^0us^7«: ...
+[Wed Oct 16 00:32:55 2013]  say: ^7»^0Exo^1Ð^0us^7«: dude.
+[Wed Oct 16 00:32:56 2013]  say: ^7»^0Exo^1Ð^0us^7«: wtf.
+[Wed Oct 16 00:32:58 2013]  say: ^7»^0Exo^1Ð^0us^7«: you cant shoot
+[Wed Oct 16 00:33:04 2013]  say: ^7»^0Exo^1Ð^0us^7«: i said that hundreds ot time
+[Wed Oct 16 00:33:05 2013]  say: ^7»^0Exo^1Ð^0us^7«: ...
+[Wed Oct 16 00:33:13 2013]  Kill: 1 2 0: ^7»^0Exo^1Ð^0us^7« killed ^1S^0y^7ß^0r^7Æ^1l by MOD_UNKNOWN
+[Wed Oct 16 00:33:15 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: XD
+[Wed Oct 16 00:33:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: no.
+[Wed Oct 16 00:33:18 2013]  say: ^7»^0Exo^1Ð^0us^7«: cheating.
+[Wed Oct 16 00:33:26 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: You said props can use pistols
+[Wed Oct 16 00:33:30 2013]  say: ^7»^0Exo^1Ð^0us^7«: no i didnt
+[Wed Oct 16 00:33:37 2013]  say: ^7»^0Exo^1Ð^0us^7«: ti said props cannot use ANY weapons
+[Wed Oct 16 00:33:45 2013]  say: ^7»^0Exo^1Ð^0us^7«: hunters can use pistols, fletchette, demp2, or rocket
+[Wed Oct 16 00:34:50 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: no more
+[Wed Oct 16 00:34:51 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: XD
+[Wed Oct 16 00:35:00 2013]  say: ^7»^0Exo^1Ð^0us^7«: no more what?
+[Wed Oct 16 00:35:04 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Prop hunt
+[Wed Oct 16 00:35:14 2013]  say: ^7»^0Exo^1Ð^0us^7«: you havent even star- ugn.
+[Wed Oct 16 00:35:24 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: XD
+[Wed Oct 16 00:36:03 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: WTF
+[Wed Oct 16 00:36:11 2013]  say: Nalar: What up?
+[Wed Oct 16 00:36:13 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Sup.
+[Wed Oct 16 00:36:21 2013]  Kill: 1022 2 0: <world> killed ^1S^0y^7ß^0r^7Æ^1l by MOD_UNKNOWN
+[Wed Oct 16 00:36:23 2013]  say: Nalar: I didn't have another greeting prepared.
+[Wed Oct 16 00:37:17 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Nalar, you seem familiar.
+[Wed Oct 16 00:37:55 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: You ever been in DAJ, Nalar?
+[Wed Oct 16 00:38:07 2013]  say: Nalar: Depends, what's it stand for?
+[Wed Oct 16 00:38:13 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Dark Angels Jedi.
+[Wed Oct 16 00:38:16 2013]  say: Nalar: Nope
+[Wed Oct 16 00:38:19 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Surprising
+[Wed Oct 16 00:38:21 2013]  say: Nalar: I'm guessing they're a clan?
+[Wed Oct 16 00:38:24 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: Indeed
+[Wed Oct 16 00:38:27 2013]  say: ^7»^0Exo^1Ð^0us^7«: Sith.
+[Wed Oct 16 00:38:30 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: ?
+[Wed Oct 16 00:38:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: i've been here for 4 years
+[Wed Oct 16 00:38:36 2013]  say: ^7»^0Exo^1Ð^0us^7«: i havent even heard of it.
+[Wed Oct 16 00:38:42 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: It's been around for 10 years
+[Wed Oct 16 00:38:45 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: So
+[Wed Oct 16 00:38:50 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: You sure haven't been kept up-to-date
+[Wed Oct 16 00:38:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: so, i woulda heard of it lol
+[Wed Oct 16 00:39:00 2013]  say: Nalar: Yeah, I haven't been in a clan for JKA. Someone tried recruiting me yesterday, but I'm not sure if I can 
+[Wed Oct 16 00:39:07 2013]  say: Nalar: balance a clan and my EverQuest Next guild
+[Wed Oct 16 00:39:19 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: I see.
+[Wed Oct 16 00:39:25 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: You got a Steam?
+[Wed Oct 16 00:39:28 2013]  say: Nalar: Yes
+[Wed Oct 16 00:39:32 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: What is it?
+[Wed Oct 16 00:39:50 2013]  say: Nalar: thegreatinquisitor, going by the name  The Commissar 
+[Wed Oct 16 00:40:00 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: I'm gonn ahead off, I'll add you.
+[Wed Oct 16 00:40:03 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: See you later Exo
+[Wed Oct 16 00:40:05 2013]  say: Nalar: Have fun
+[Wed Oct 16 00:40:11 2013]  say: ^1S^0y^7ß^0r^7Æ^1l: thx
+[Wed Oct 16 00:40:12 2013]  ClientDisconnect: 2
+[Wed Oct 16 00:40:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: I think ive met you before, nalar, the name is the great inqquisitor and the commissar is very familiar.
+[Wed Oct 16 00:40:42 2013]  say: Nalar: I was big on the TOR RP scene for a while as Nithron Nalar
+[Wed Oct 16 00:40:50 2013]  say: ^7»^0Exo^1Ð^0us^7«: I hate rp'ing, so not that lol
+[Wed Oct 16 00:41:07 2013]  say: Nalar: We may have run into each other at some point in JKA, although I haven't given out my Steam name to anyone outside my friends before, I think
+[Wed Oct 16 00:41:11 2013]  say: Nalar: think
+[Wed Oct 16 00:41:15 2013]  say: ^7»^0Exo^1Ð^0us^7«: mmm
+[Wed Oct 16 00:41:30 2013]  say: ^7»^0Exo^1Ð^0us^7«: brb
+[Wed Oct 16 00:49:45 2013]  ClientDisconnect: 0
+[Wed Oct 16 00:59:58 2013]  ClientDisconnect: 1
+[Wed Oct 16 01:15:32 2013]  ClientConnect: 0
+[Wed Oct 16 01:15:32 2013]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.247.110:29070 
+[Wed Oct 16 01:16:05 2013]  ClientBegin: 0
+[Wed Oct 16 01:16:20 2013]  Exit: Timelimit hit.
+[Wed Oct 16 01:16:20 2013]  score: 0  ping: 221  client: 0 ^7»^0Exo^1Ð^0us^7«
+[Wed Oct 16 01:17:00 2013]  ShutdownGame:
+[Wed Oct 16 01:17:00 2013]  ------------------------------------------------------------

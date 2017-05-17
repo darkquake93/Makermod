@@ -1,0 +1,43 @@
+[Fri May 23 06:17:42 2014]  ------------------------------------------------------------
+[Fri May 23 06:17:42 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 23 06:17:44 2014]  ClientConnect: 0
+[Fri May 23 06:17:44 2014]  ClientConnect: 1
+[Fri May 23 06:17:52 2014]  ClientBegin: 1
+[Fri May 23 06:18:01 2014]  ClientBegin: 0
+[Fri May 23 06:18:02 2014]  print "Padawan^7 @@@PLRENAME Gorycory
+"[Fri May 23 06:18:22 2014]  Kill: 0 1 3: Codie killed Gorycory by MOD_SABER
+[Fri May 23 06:18:42 2014]  ClientConnect: 2
+[Fri May 23 06:18:42 2014]  mlog:Player Gorevourment, connected. With IP - 65.24.69.159:29070 
+[Fri May 23 06:19:01 2014]  ClientBegin: 2
+[Fri May 23 06:19:30 2014]  Kill: 1 2 3: Gorycory killed Gorevourment by MOD_SABER
+[Fri May 23 06:20:55 2014]  Kill: 0 2 3: Codie killed Gorevourment by MOD_SABER
+[Fri May 23 06:22:06 2014]  Kill: 2 1 3: Gorevourment killed Gorycory by MOD_SABER
+[Fri May 23 06:23:47 2014]  Kill: 0 1 3: Codie killed Gorycory by MOD_SABER
+[Fri May 23 06:24:33 2014]  Kill: 1 2 31: Gorycory killed Gorevourment by MOD_FORCE_DARK
+[Fri May 23 06:25:16 2014]  Kill: 2 0 3: Gorevourment killed Codie by MOD_SABER
+[Fri May 23 06:26:29 2014]  Kill: 0 1 3: Codie killed Gorycory by MOD_SABER
+[Fri May 23 06:26:52 2014]  Kill: 2 1 3: Gorevourment killed Gorycory by MOD_SABER
+[Fri May 23 06:27:24 2014]  Kill: 1022 0 39: <world> killed Codie by MOD_SUICIDE
+[Fri May 23 06:27:24 2014]  Kill: 1022 1 39: <world> killed Gorycory by MOD_SUICIDE
+[Fri May 23 06:27:31 2014]  ClientDisconnect: 0
+[Fri May 23 06:27:46 2014]  ClientDisconnect: 1
+[Fri May 23 06:27:49 2014]  ClientDisconnect: 2
+[Fri May 23 08:17:39 2014]  Exit: Timelimit hit.
+[Fri May 23 12:19:47 2014]  ------------------------------------------------------------
+[Fri May 23 12:19:47 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 23 12:42:22 2014]  ClientConnect: 0
+[Fri May 23 12:42:22 2014]  mlog:Player Padawan, connected. With IP - 93.143.142.134:-9263 
+[Fri May 23 12:42:46 2014]  ClientBegin: 0
+[Fri May 23 12:46:09 2014]  ClientDisconnect: 0
+[Fri May 23 13:49:29 2014]  ------------------------------------------------------------
+[Fri May 23 13:49:29 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 23 14:21:50 2014]  ------------------------------------------------------------
+[Fri May 23 14:21:50 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 23 15:40:02 2014]  ------------------------------------------------------------
+[Fri May 23 15:40:02 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 23 17:40:10 2014]  Exit: Timelimit hit.
+[Sat May 24 14:00:53 2014]  ClientConnect: 0
+[Sat May 24 14:00:53 2014]  mlog:Player ^1SITH, connected. With IP - 89.106.198.7:29070 
+[Sat May 24 14:01:05 2014]  ClientBegin: 0
+[Sat May 24 14:01:07 2014]  ShutdownGame:
+[Sat May 24 14:01:07 2014]  ------------------------------------------------------------

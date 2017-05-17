@@ -1,0 +1,1078 @@
+[Fri Aug 12 13:38:24 2016]  ------------------------------------------------------------
+[Fri Aug 12 13:38:24 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Aug 12 21:38:23 2016]  ClientConnect: 0
+[Fri Aug 12 21:38:23 2016]  mlog:Player luk skaimolker, connected. With IP - 90.157.13.119:29070 
+[Fri Aug 12 21:38:40 2016]  ClientBegin: 0
+[Fri Aug 12 21:39:29 2016]  Kill: 0 0 39: luk skaimolker killed luk skaimolker by MOD_SUICIDE
+[Fri Aug 12 21:39:29 2016]  setteam:  0 FREE SPECTATOR
+[Fri Aug 12 21:39:29 2016]  ClientBegin: 0
+[Fri Aug 12 21:39:35 2016]  setteam:  0 SPECTATOR FREE
+[Fri Aug 12 21:39:35 2016]  ClientBegin: 0
+[Fri Aug 12 21:44:03 2016]  ClientConnect: 1
+[Fri Aug 12 21:44:03 2016]  mlog:Player Yakiimo, connected. With IP - 93.28.89.195:29070 
+[Fri Aug 12 21:44:14 2016]  ClientDisconnect: 0
+[Fri Aug 12 21:44:18 2016]  ClientBegin: 1
+[Fri Aug 12 21:44:24 2016]  say: Yakiimo: Yop
+[Fri Aug 12 21:46:02 2016]  ClientDisconnect: 1
+[Sat Aug 13 00:22:40 2016]  ClientConnect: 0
+[Sat Aug 13 00:22:40 2016]  mlog:Player Sith Dickus, connected. With IP - 76.195.61.10:-15907 
+[Sat Aug 13 00:22:56 2016]  ClientBegin: 0
+[Sat Aug 13 00:25:09 2016]  ClientConnect: 1
+[Sat Aug 13 00:25:09 2016]  mlog:Player Stormtrooper Mike, connected. With IP - 76.195.61.10:29070 
+[Sat Aug 13 00:25:24 2016]  ClientBegin: 1
+[Sat Aug 13 00:25:30 2016]  ClientConnect: 2
+[Sat Aug 13 00:25:30 2016]  mlog:Player Sith Lord Kalbas, connected. With IP - 24.205.66.31:29070 
+[Sat Aug 13 00:25:33 2016]  Kill: 0 1 3: Sith Dickus killed Stormtrooper Mike by MOD_SABER
+[Sat Aug 13 00:25:52 2016]  ClientBegin: 2
+[Sat Aug 13 00:25:52 2016]  Kill: 1 0 3: Stormtrooper Mike killed Sith Dickus by MOD_SABER
+[Sat Aug 13 00:26:11 2016]  Kill: 1 2 3: Stormtrooper Mike killed Sith Lord Kalbas by MOD_SABER
+[Sat Aug 13 00:26:14 2016]  Kill: 0 1 3: Sith Dickus killed Stormtrooper Mike by MOD_SABER
+[Sat Aug 13 00:26:19 2016]  Kill: 0 2 3: Sith Dickus killed Sith Lord Kalbas by MOD_SABER
+[Sat Aug 13 00:26:20 2016]  Kill: 1 2 37: Stormtrooper Mike killed Sith Lord Kalbas by MOD_TELEFRAG
+[Sat Aug 13 00:26:40 2016]  Kill: 2 1 3: Sith Lord Kalbas killed Stormtrooper Mike by MOD_SABER
+[Sat Aug 13 00:26:42 2016]  Kill: 0 2 3: Sith Dickus killed Sith Lord Kalbas by MOD_SABER
+[Sat Aug 13 00:26:51 2016]  Kill: 1 0 3: Stormtrooper Mike killed Sith Dickus by MOD_SABER
+[Sat Aug 13 00:27:01 2016]  Kill: 0 2 3: Sith Dickus killed Sith Lord Kalbas by MOD_SABER
+[Sat Aug 13 00:27:08 2016]  Kill: 0 1 3: Sith Dickus killed Stormtrooper Mike by MOD_SABER
+[Sat Aug 13 00:27:13 2016]  Kill: 0 2 3: Sith Dickus killed Sith Lord Kalbas by MOD_SABER
+[Sat Aug 13 00:27:21 2016]  Kill: 0 1 3: Sith Dickus killed Stormtrooper Mike by MOD_SABER
+[Sat Aug 13 00:27:27 2016]  Kill: 0 2 3: Sith Dickus killed Sith Lord Kalbas by MOD_SABER
+[Sat Aug 13 00:27:34 2016]  Kill: 1 0 3: Stormtrooper Mike killed Sith Dickus by MOD_SABER
+[Sat Aug 13 00:27:36 2016]  Kill: 2 1 3: Sith Lord Kalbas killed Stormtrooper Mike by MOD_SABER
+[Sat Aug 13 00:27:44 2016]  Kill: 0 2 3: Sith Dickus killed Sith Lord Kalbas by MOD_SABER
+[Sat Aug 13 00:27:51 2016]  ClientDisconnect: 2
+[Sat Aug 13 00:27:55 2016]  Kill: 0 1 3: Sith Dickus killed Stormtrooper Mike by MOD_SABER
+[Sat Aug 13 00:27:59 2016]  ClientDisconnect: 1
+[Sat Aug 13 00:28:15 2016]  ClientDisconnect: 0
+[Sat Aug 13 07:33:18 2016]  ClientConnect: 0
+[Sat Aug 13 07:33:18 2016]  mlog:Player Padawan, connected. With IP - 71.200.168.149:29070 
+[Sat Aug 13 07:33:18 2016]  ClientConnect: 1
+[Sat Aug 13 07:33:18 2016]  mlog:Player Dante, connected. With IP - 190.6.235.210:29070 
+[Sat Aug 13 07:33:39 2016]  ClientBegin: 1
+[Sat Aug 13 07:33:42 2016]  ClientBegin: 0
+[Sat Aug 13 07:34:57 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 07:35:22 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:35:59 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 07:37:56 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 07:38:48 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:39:35 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:40:04 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 07:40:29 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:40:59 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 07:41:26 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:41:57 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:42:32 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:42:44 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 07:43:08 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:43:20 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:43:33 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:43:53 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:44:04 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:44:17 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 07:44:54 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:45:30 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:45:51 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 07:46:37 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:46:58 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 07:47:36 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:48:22 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 07:48:56 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 07:49:19 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 07:50:00 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 07:54:56 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 07:57:59 2016]  Kill: 1 0 4: Dante killed Padawan by MOD_BRYAR_PISTOL
+[Sat Aug 13 07:59:24 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 08:00:09 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:00:57 2016]  tell: Padawan to Dante: you stupid nigger
+[Sat Aug 13 08:01:14 2016]  Kill: 1 0 31: Dante killed Padawan by MOD_FORCE_DARK
+[Sat Aug 13 08:04:50 2016]  Kill: 1 0 31: Dante killed Padawan by MOD_FORCE_DARK
+[Sat Aug 13 08:05:02 2016]  Kill: 0 1 31: Padawan killed Dante by MOD_FORCE_DARK
+[Sat Aug 13 08:05:44 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 08:06:04 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:07:41 2016]  Kill: 1 0 31: Dante killed Padawan by MOD_FORCE_DARK
+[Sat Aug 13 08:07:49 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 08:09:03 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:09:15 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:09:26 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 08:10:09 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:10:17 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 08:10:52 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:11:10 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 08:11:57 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:12:27 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:13:03 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:13:20 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:13:37 2016]  Kill: 1 0 31: Dante killed Padawan by MOD_FORCE_DARK
+[Sat Aug 13 08:13:51 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 08:14:08 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:14:29 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:14:41 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 08:15:20 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:15:35 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 08:15:45 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:16:29 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:16:41 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 08:16:59 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:18:39 2016]  Kill: 1 0 31: Dante killed Padawan by MOD_FORCE_DARK
+[Sat Aug 13 08:19:09 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 08:19:26 2016]  Kill: 1 0 3: Dante killed Padawan by MOD_SABER
+[Sat Aug 13 08:19:34 2016]  Kill: 0 1 3: Padawan killed Dante by MOD_SABER
+[Sat Aug 13 08:19:44 2016]  ClientDisconnect: 1
+[Sat Aug 13 08:20:40 2016]  ClientDisconnect: 0
+[Sat Aug 13 12:46:30 2016]  ClientConnect: 0
+[Sat Aug 13 12:46:30 2016]  mlog:Player ^0loa^1.^0luc^1!^0fa, connected. With IP - 178.206.113.131:29070 
+[Sat Aug 13 12:46:36 2016]  ClientConnect: 1
+[Sat Aug 13 12:46:36 2016]  mlog:Player ^4/^7KOTR^4/^7Infasotka, connected. With IP - 46.227.24.61:29071 
+[Sat Aug 13 12:46:49 2016]  ClientBegin: 0
+[Sat Aug 13 12:46:52 2016]  ClientBegin: 1
+[Sat Aug 13 12:47:00 2016]  say: ^4/^7KOTR^4/^7Infasotka: AHUET YA TEKU
+[Sat Aug 13 12:47:27 2016]  say: ^0loa^1.^0lucifa: ya naigralsya vse bb
+[Sat Aug 13 12:47:30 2016]  say: ^4/^7KOTR^4/^7Infasotka: xdddd
+[Sat Aug 13 12:48:03 2016]  say: ^0loa^1.^0lucifa: ya uj zabil kak stroit'
+[Sat Aug 13 12:48:06 2016]  say: ^0loa^1.^0lucifa: napomni nahooy
+[Sat Aug 13 12:48:12 2016]  say: ^4/^7KOTR^4/^7Infasotka: esli bi ya pomnil
+[Sat Aug 13 12:48:19 2016]  say: ^0loa^1.^0lucifa: aa
+[Sat Aug 13 12:48:20 2016]  say: ^0loa^1.^0lucifa: /mhelp
+[Sat Aug 13 12:48:24 2016]  say: ^0loa^1.^0lucifa: minfo
+[Sat Aug 13 12:48:28 2016]  say: ^0loa^1.^0lucifa: da minfo
+[Sat Aug 13 12:50:00 2016]  say: ^4/^7KOTR^4/^7Infasotka: xdddd
+[Sat Aug 13 12:50:06 2016]  say: ^0loa^1.^0lucifa: a kak postavit' blyat syka
+[Sat Aug 13 12:50:10 2016]  say: ^0loa^1.^0lucifa: kurwa
+[Sat Aug 13 12:50:31 2016]  say: ^4/^7KOTR^4/^7Infasotka: mdrop
+[Sat Aug 13 12:50:34 2016]  say: ^4/^7KOTR^4/^7Infasotka: pomoemu
+[Sat Aug 13 12:50:36 2016]  say: ^0loa^1.^0lucifa: aaa
+[Sat Aug 13 12:50:37 2016]  say: ^0loa^1.^0lucifa: tovchno
+[Sat Aug 13 12:50:42 2016]  say: ^4/^7KOTR^4/^7Infasotka: AHAHAHHA
+[Sat Aug 13 12:50:46 2016]  say: ^4/^7KOTR^4/^7Infasotka: pamyat jivet!
+[Sat Aug 13 12:50:48 2016]  say: ^4/^7KOTR^4/^7Infasotka: suk!
+[Sat Aug 13 12:50:59 2016]  say: ^0loa^1.^0lucifa: IDEAL'NO NAHOOY
+[Sat Aug 13 12:51:10 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 12:51:11 2016]  say: ^0loa^1.^0lucifa: lol 
+[Sat Aug 13 12:51:14 2016]  say: ^0loa^1.^0lucifa: joongli?
+[Sat Aug 13 12:51:21 2016]  say: ^0loa^1.^0lucifa: blya nado tp kak to sdelat'
+[Sat Aug 13 12:51:56 2016]  say: ^0loa^1.^0lucifa: blya v minfo ne napisano
+[Sat Aug 13 12:52:10 2016]  say: ^0loa^1.^0lucifa: a vot
+[Sat Aug 13 12:52:14 2016]  say: ^0loa^1.^0lucifa: msaveobs
+[Sat Aug 13 12:52:18 2016]  say: ^0loa^1.^0lucifa: eto chto naxooy
+[Sat Aug 13 12:52:20 2016]  say: ^0loa^1.^0lucifa: aaaaa
+[Sat Aug 13 12:52:30 2016]  say: ^4/^7KOTR^4/^7Infasotka: ??
+[Sat Aug 13 12:53:01 2016]  say: ^0loa^1.^0lucifa: lan, esli tebe ne interesno mojesh idti, ya tebya ne derju okay?
+[Sat Aug 13 12:53:06 2016]  say: ^4/^7KOTR^4/^7Infasotka: CHE
+[Sat Aug 13 12:53:08 2016]  say: ^4/^7KOTR^4/^7Infasotka: KAGO
+[Sat Aug 13 12:53:12 2016]  say: ^4/^7KOTR^4/^7Infasotka: YA HOCHU
+[Sat Aug 13 12:54:16 2016]  say: ^0loa^1.^0lucifa: uiii
+[Sat Aug 13 12:55:11 2016]  say: ^0loa^1.^0lucifa: oookooo
+[Sat Aug 13 12:55:12 2016]  say: ^0loa^1.^0lucifa: oooooo
+[Sat Aug 13 12:55:18 2016]  say: ^0loa^1.^0lucifa: nashel tot site
+[Sat Aug 13 12:55:21 2016]  say: ^4/^7KOTR^4/^7Infasotka: a kak unichtoit?
+[Sat Aug 13 12:55:30 2016]  say: ^0loa^1.^0lucifa: gde bral cfg scripti
+[Sat Aug 13 12:55:42 2016]  say: ^4/^7KOTR^4/^7Infasotka: nice
+[Sat Aug 13 12:55:45 2016]  say: ^4/^7KOTR^4/^7Infasotka: a na che est?
+[Sat Aug 13 12:59:08 2016]  say: ^0loa^1.^0lucifa: nuk
+[Sat Aug 13 12:59:14 2016]  say: ^0loa^1.^0lucifa: WOWOWO
+[Sat Aug 13 13:00:02 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:03 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:03 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:03 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:03 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:03 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:04 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:00:05 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:01:08 2016]  say: ^4/^7KOTR^4/^7Infasotka: 0_O
+[Sat Aug 13 13:01:09 2016]  say: ^4/^7KOTR^4/^7Infasotka: WTF
+[Sat Aug 13 13:01:13 2016]  say: ^4/^7KOTR^4/^7Infasotka: WTFFFFFFFFFFFFFFFFFFFFFFFFFFf
+[Sat Aug 13 13:01:16 2016]  say: ^4/^7KOTR^4/^7Infasotka: CHE ETO
+[Sat Aug 13 13:01:22 2016]  say: ^0loa^1.^0lucifa: moi perviy script
+[Sat Aug 13 13:01:26 2016]  say: ^0loa^1.^0lucifa: v jizniy
+[Sat Aug 13 13:01:30 2016]  say: ^4/^7KOTR^4/^7Infasotka: 0_O
+[Sat Aug 13 13:01:34 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Sat Aug 13 13:01:37 2016]  say: ^4/^7KOTR^4/^7Infasotka: xdd
+[Sat Aug 13 13:01:44 2016]  say: ^0loa^1.^0lucifa: lan ya pomenaiu client
+[Sat Aug 13 13:01:46 2016]  ClientDisconnect: 0
+[Sat Aug 13 13:01:47 2016]  say: ^4/^7KOTR^4/^7Infasotka: ya tok
+[Sat Aug 13 13:01:50 2016]  ClientDisconnect: 1
+[Sat Aug 13 13:02:27 2016]  ClientConnect: 0
+[Sat Aug 13 13:02:27 2016]  mlog:Player ^1Eminem, connected. With IP - 178.206.113.131:29070 
+[Sat Aug 13 13:02:37 2016]  ClientConnect: 1
+[Sat Aug 13 13:02:37 2016]  mlog:Player ñåðê)0), connected. With IP - 46.227.24.61:29070 
+[Sat Aug 13 13:02:42 2016]  ClientBegin: 0
+[Sat Aug 13 13:02:59 2016]  ClientBegin: 1
+[Sat Aug 13 13:03:01 2016]  say: ^1Eminem: F{}FF{F{
+[Sat Aug 13 13:03:05 2016]  say: ñåðê)0): XDDDDDDDDd
+[Sat Aug 13 13:03:07 2016]  say: ^1Eminem: Òàê è çíàë ÷òî òû òîãäà ýòîò ñåðê áûë
+[Sat Aug 13 13:03:12 2016]  say: ñåðê)0): ahhaha
+[Sat Aug 13 13:03:41 2016]  say: ^1Eminem: ^5=^7D
+[Sat Aug 13 13:03:57 2016]  print "ñåðê)0)^7 @@@PLRENAME ^0^^7ASAV^0^Sendrogro
+"[Sat Aug 13 13:03:58 2016]  say: ^1Eminem: ^1loh sud'ba, sud'ba loh
+[Sat Aug 13 13:04:04 2016]  say: ^0^^7ASAV^0^Sendrogro: xdddd
+[Sat Aug 13 13:04:07 2016]  say: ^0^^7ASAV^0^Sendrogro: zaebis nik?
+[Sat Aug 13 13:04:12 2016]  say: ^1Eminem: dadaasd
+[Sat Aug 13 13:04:16 2016]  say: ^0^^7ASAV^0^Sendrogro: u menya
+[Sat Aug 13 13:04:20 2016]  say: ^0^^7ASAV^0^Sendrogro: mail znaesh kakoy?
+[Sat Aug 13 13:04:24 2016]  say: ^0^^7ASAV^0^Sendrogro: asdesengarder
+[Sat Aug 13 13:04:27 2016]  say: ^0^^7ASAV^0^Sendrogro: xdddd
+[Sat Aug 13 13:04:29 2016]  say: ^1Eminem: lol
+[Sat Aug 13 13:04:32 2016]  say: ^0^^7ASAV^0^Sendrogro: u menya togda prigorelo
+[Sat Aug 13 13:04:33 2016]  say: ^1Eminem: kak ti takoy zapomnil
+[Sat Aug 13 13:04:34 2016]  say: ^0^^7ASAV^0^Sendrogro: ya kak ebanul
+[Sat Aug 13 13:04:41 2016]  say: ^0^^7ASAV^0^Sendrogro: ASDSENGARDER
+[Sat Aug 13 13:04:46 2016]  say: ^1Eminem: xD
+[Sat Aug 13 13:04:49 2016]  say: ^0^^7ASAV^0^Sendrogro: tak
+[Sat Aug 13 13:04:50 2016]  say: ^0^^7ASAV^0^Sendrogro: sha ya
+[Sat Aug 13 13:04:54 2016]  say: ^0^^7ASAV^0^Sendrogro: namuchu s klientom
+[Sat Aug 13 13:04:58 2016]  say: ^0^^7ASAV^0^Sendrogro: bindi vsya huynya
+[Sat Aug 13 13:05:35 2016]  say: ^1Eminem: ya sdelal 1 bind
+[Sat Aug 13 13:05:40 2016]  say: ^0^^7ASAV^0^Sendrogro: mdrop?
+[Sat Aug 13 13:05:42 2016]  say: ^0^^7ASAV^0^Sendrogro: xddddd
+[Sat Aug 13 13:05:43 2016]  say: ^1Eminem: bind q mdorp
+[Sat Aug 13 13:05:45 2016]  say: ^1Eminem: D:D:D:D:D
+[Sat Aug 13 13:05:47 2016]  say: ^0^^7ASAV^0^Sendrogro: AHAHAHHA
+[Sat Aug 13 13:05:48 2016]  say: ^0^^7ASAV^0^Sendrogro: ya toje
+[Sat Aug 13 13:05:54 2016]  say: ^0^^7ASAV^0^Sendrogro: bratishki
+[Sat Aug 13 13:06:17 2016]  say: ^1Eminem: najmi
+[Sat Aug 13 13:06:26 2016]  say: ^1Eminem: :OO
+[Sat Aug 13 13:06:27 2016]  say: ^0^^7ASAV^0^Sendrogro: lelelele
+[Sat Aug 13 13:06:28 2016]  say: ^0^^7ASAV^0^Sendrogro: n1
+[Sat Aug 13 13:06:35 2016]  say: ^1Eminem: sps text dokumento
+[Sat Aug 13 13:06:36 2016]  say: ^1Eminem: u*
+[Sat Aug 13 13:06:39 2016]  say: ^0^^7ASAV^0^Sendrogro: da)
+[Sat Aug 13 13:06:41 2016]  say: ^1Eminem: a kak udalit'
+[Sat Aug 13 13:06:43 2016]  say: ^0^^7ASAV^0^Sendrogro: sha toje mutit budu
+[Sat Aug 13 13:06:46 2016]  say: ^0^^7ASAV^0^Sendrogro: /mkill
+[Sat Aug 13 13:06:53 2016]  say: ^0^^7ASAV^0^Sendrogro: snachala mselect
+[Sat Aug 13 13:06:55 2016]  say: ^0^^7ASAV^0^Sendrogro: potom mkill
+[Sat Aug 13 13:06:58 2016]  say: ^0^^7ASAV^0^Sendrogro: SUKA
+[Sat Aug 13 13:07:00 2016]  say: ^0^^7ASAV^0^Sendrogro: TAK KRUTO
+[Sat Aug 13 13:07:02 2016]  say: ^1Eminem: mgrab
+[Sat Aug 13 13:07:05 2016]  say: ^0^^7ASAV^0^Sendrogro: KOGDA CHE TO NOVOE
+[Sat Aug 13 13:07:07 2016]  say: ^0^^7ASAV^0^Sendrogro: v jedaike
+[Sat Aug 13 13:07:12 2016]  say: ^0^^7ASAV^0^Sendrogro: uhh
+[Sat Aug 13 13:07:15 2016]  say: ^1Eminem: )))
+[Sat Aug 13 13:07:17 2016]  say: ^0^^7ASAV^0^Sendrogro: srazu uchit eto zahotels
+[Sat Aug 13 13:07:24 2016]  say: ^1Eminem: yay
+[Sat Aug 13 13:07:31 2016]  say: ^1Eminem: teek
+[Sat Aug 13 13:07:39 2016]  say: ^1Eminem: mne nujen etot
+[Sat Aug 13 13:07:40 2016]  say: ^1Eminem: kake go
+[Sat Aug 13 13:07:42 2016]  say: ^1Eminem: pol
+[Sat Aug 13 13:07:44 2016]  say: ^1Eminem: kakoinit'
+[Sat Aug 13 13:08:14 2016]  say: ^0^^7ASAV^0^Sendrogro: mojno daje sohranyat
+[Sat Aug 13 13:08:16 2016]  say: ^0^^7ASAV^0^Sendrogro: ob'ekti
+[Sat Aug 13 13:08:20 2016]  say: ^0^^7ASAV^0^Sendrogro: eto budet nash serv
+[Sat Aug 13 13:08:22 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Sat Aug 13 13:08:33 2016]  say: ^0^^7ASAV^0^Sendrogro: kek
+[Sat Aug 13 13:08:37 2016]  say: ^0^^7ASAV^0^Sendrogro: nado sozdavat che
+[Sat Aug 13 13:08:48 2016]  say: ^1Eminem: msaveobs eto sohranit'
+[Sat Aug 13 13:09:37 2016]  say: ^1Eminem: lol
+[Sat Aug 13 13:09:38 2016]  say: ^0^^7ASAV^0^Sendrogro: xdd
+[Sat Aug 13 13:09:42 2016]  say: ^1Eminem: o noviy bind
+[Sat Aug 13 13:09:45 2016]  say: ^1Eminem: mkil
+[Sat Aug 13 13:09:46 2016]  say: ^1Eminem: l
+[Sat Aug 13 13:09:47 2016]  say: ^0^^7ASAV^0^Sendrogro: da
+[Sat Aug 13 13:09:49 2016]  say: ^0^^7ASAV^0^Sendrogro: toj vvel
+[Sat Aug 13 13:10:00 2016]  say: ^1Eminem: tak
+[Sat Aug 13 13:10:02 2016]  say: ^1Eminem: nado pol
+[Sat Aug 13 13:10:05 2016]  say: ^0^^7ASAV^0^Sendrogro: nado eshe
+[Sat Aug 13 13:10:06 2016]  say: ^1Eminem: ya zabil kak model'ka nazivaets
+[Sat Aug 13 13:10:09 2016]  say: ^0^^7ASAV^0^Sendrogro: mselect
+[Sat Aug 13 13:10:12 2016]  say: ^1Eminem: chto eto
+[Sat Aug 13 13:10:16 2016]  say: ^0^^7ASAV^0^Sendrogro: nu vibor
+[Sat Aug 13 13:10:22 2016]  say: ^0^^7ASAV^0^Sendrogro: modeli
+[Sat Aug 13 13:10:30 2016]  say: ^1Eminem: eto vrode /mgrab
+[Sat Aug 13 13:10:33 2016]  say: ^0^^7ASAV^0^Sendrogro: nene
+[Sat Aug 13 13:10:34 2016]  say: ^1Eminem: nuk
+[Sat Aug 13 13:10:35 2016]  say: ^0^^7ASAV^0^Sendrogro: eto toka na
+[Sat Aug 13 13:10:39 2016]  say: ^0^^7ASAV^0^Sendrogro: poslednee usaetsya
+[Sat Aug 13 13:10:42 2016]  say: ^1Eminem: aaa
+[Sat Aug 13 13:10:44 2016]  say: ^0^^7ASAV^0^Sendrogro: posvav ih dva
+[Sat Aug 13 13:10:51 2016]  say: ^0^^7ASAV^0^Sendrogro: u tebya posledniy zagrabitsya
+[Sat Aug 13 13:11:05 2016]  say: ^0^^7ASAV^0^Sendrogro: a mselect dlya vibora
+[Sat Aug 13 13:11:06 2016]  say: ^1Eminem: aaa
+[Sat Aug 13 13:11:13 2016]  say: ^1Eminem: nado snachalo mselect potom mgrab
+[Sat Aug 13 13:11:18 2016]  say: ^0^^7ASAV^0^Sendrogro: da
+[Sat Aug 13 13:12:27 2016]  say: ^1Eminem: ^1loh sud'ba, sud'ba loh
+[Sat Aug 13 13:12:48 2016]  say: ^0^^7ASAV^0^Sendrogro: hehe
+[Sat Aug 13 13:12:59 2016]  say: ^1Eminem: emm
+[Sat Aug 13 13:13:15 2016]  say: ^1Eminem: ti v kakoi papke?
+[Sat Aug 13 13:13:20 2016]  say: ^0^^7ASAV^0^Sendrogro: imperial
+[Sat Aug 13 13:13:22 2016]  say: ^1Eminem: hjkASHDKAWJKDA
+[Sat Aug 13 13:13:24 2016]  say: ^1Eminem: toje
+[Sat Aug 13 13:13:25 2016]  say: ^0^^7ASAV^0^Sendrogro: xDDDD
+[Sat Aug 13 13:13:30 2016]  say: ^1Eminem: uraaa
+[Sat Aug 13 13:13:34 2016]  say: ^1Eminem: nashel
+[Sat Aug 13 13:13:34 2016]  say: ^0^^7ASAV^0^Sendrogro: postav
+[Sat Aug 13 13:13:36 2016]  say: ^0^^7ASAV^0^Sendrogro: ego
+[Sat Aug 13 13:13:37 2016]  say: ^0^^7ASAV^0^Sendrogro: xDDD
+[Sat Aug 13 13:13:39 2016]  say: ^1Eminem: sec
+[Sat Aug 13 13:13:50 2016]  say: ^0^^7ASAV^0^Sendrogro: ahaha
+[Sat Aug 13 13:13:53 2016]  say: ^0^^7ASAV^0^Sendrogro: piki tochenie
+[Sat Aug 13 13:13:59 2016]  say: ^1Eminem: ahaah
+[Sat Aug 13 13:13:59 2016]  say: ^0^^7ASAV^0^Sendrogro: ahahahaha
+[Sat Aug 13 13:14:00 2016]  say: ^1Eminem: hAHAHAHAHAH
+[Sat Aug 13 13:14:02 2016]  say: ^1Eminem: blyat
+[Sat Aug 13 13:14:04 2016]  say: ^0^^7ASAV^0^Sendrogro: ORU
+[Sat Aug 13 13:14:27 2016]  say: ^1Eminem: emm lel
+[Sat Aug 13 13:14:29 2016]  say: ^1Eminem: mpost toje?
+[Sat Aug 13 13:14:35 2016]  say: ^1Eminem: fielpost
+[Sat Aug 13 13:14:41 2016]  say: ^0^^7ASAV^0^Sendrogro: da
+[Sat Aug 13 13:14:48 2016]  say: ^1Eminem: sovpadenie odni
+[Sat Aug 13 13:15:06 2016]  say: ^1Eminem: govori blyat
+[Sat Aug 13 13:15:08 2016]  say: ^1Eminem: gde den'gi
+[Sat Aug 13 13:15:18 2016]  say: ^0^^7ASAV^0^Sendrogro: nya
+[Sat Aug 13 13:15:24 2016]  say: ^0^^7ASAV^0^Sendrogro: kak razvernut?
+[Sat Aug 13 13:15:33 2016]  say: ^1Eminem: /mrotate 0 90 0
+[Sat Aug 13 13:16:44 2016]  say: ^0^^7ASAV^0^Sendrogro: BIG?
+[Sat Aug 13 13:16:47 2016]  say: ^0^^7ASAV^0^Sendrogro: XDDDDDD
+[Sat Aug 13 13:16:49 2016]  say: ^1Eminem: oo
+[Sat Aug 13 13:16:53 2016]  say: ^1Eminem: kak to ubol'shat
+[Sat Aug 13 13:16:55 2016]  say: ^1Eminem: mojno
+[Sat Aug 13 13:17:01 2016]  say: ^1Eminem: mscale
+[Sat Aug 13 13:17:05 2016]  say: ^1Eminem: da
+[Sat Aug 13 13:17:48 2016]  say: ^0^^7ASAV^0^Sendrogro: TAK
+[Sat Aug 13 13:17:50 2016]  say: ^0^^7ASAV^0^Sendrogro: NADO CHE TO
+[Sat Aug 13 13:17:52 2016]  say: ^0^^7ASAV^0^Sendrogro: SUKA AHUENNOE
+[Sat Aug 13 13:17:59 2016]  say: ^0^^7ASAV^0^Sendrogro: go dojd uberem
+[Sat Aug 13 13:18:01 2016]  say: ^0^^7ASAV^0^Sendrogro: a to zaebal
+[Sat Aug 13 13:18:02 2016]  say: ^1Eminem: go
+[Sat Aug 13 13:18:05 2016]  say: ^0^^7ASAV^0^Sendrogro: a kak?
+[Sat Aug 13 13:18:06 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Sat Aug 13 13:18:07 2016]  say: ^1Eminem: /amubrat'dojd'
+[Sat Aug 13 13:18:11 2016]  say: ^1Eminem: ne znaiu
+[Sat Aug 13 13:18:11 2016]  say: ^0^^7ASAV^0^Sendrogro: AHAHHAHAHA
+[Sat Aug 13 13:18:17 2016]  say: ^1Eminem: blya
+[Sat Aug 13 13:18:18 2016]  say: ^1Eminem: only admin
+[Sat Aug 13 13:18:22 2016]  say: ^0^^7ASAV^0^Sendrogro: ;c
+[Sat Aug 13 13:18:51 2016]  say: ^1Eminem: o
+[Sat Aug 13 13:18:52 2016]  say: ^0^^7ASAV^0^Sendrogro: WOWOWOW
+[Sat Aug 13 13:19:03 2016]  say: ^0^^7ASAV^0^Sendrogro: EBAT
+[Sat Aug 13 13:19:06 2016]  say: ^0^^7ASAV^0^Sendrogro: ne v tu storonu
+[Sat Aug 13 13:19:12 2016]  say: ^1Eminem: x
+[Sat Aug 13 13:19:45 2016]  say: ^1Eminem: lol
+[Sat Aug 13 13:19:55 2016]  say: ^0^^7ASAV^0^Sendrogro: ept
+[Sat Aug 13 13:19:59 2016]  say: ^1Eminem: mscale
+[Sat Aug 13 13:20:00 2016]  say: ^1Eminem: delai
+[Sat Aug 13 13:20:18 2016]  say: ^0^^7ASAV^0^Sendrogro: LOL
+[Sat Aug 13 13:20:24 2016]  say: ^1Eminem: /mplace vjun/globe
+[Sat Aug 13 13:21:03 2016]  say: ^1Eminem: o y
+[Sat Aug 13 13:21:05 2016]  say: ^0^^7ASAV^0^Sendrogro: ?
+[Sat Aug 13 13:21:06 2016]  say: ^1Eminem: ya krovat' nashel
+[Sat Aug 13 13:21:09 2016]  say: ^0^^7ASAV^0^Sendrogro: 0_O
+[Sat Aug 13 13:21:11 2016]  say: ^0^^7ASAV^0^Sendrogro: pokaji
+[Sat Aug 13 13:21:31 2016]  say: ^0^^7ASAV^0^Sendrogro: aha
+[Sat Aug 13 13:21:42 2016]  say: ^1Eminem: amslepe
+[Sat Aug 13 13:21:44 2016]  say: ^1Eminem: oi
+[Sat Aug 13 13:21:45 2016]  say: ^1Eminem: privichk
+[Sat Aug 13 13:21:47 2016]  say: ^0^^7ASAV^0^Sendrogro: xd
+[Sat Aug 13 13:22:00 2016]  say: ^0^^7ASAV^0^Sendrogro: stoit kak rodaya
+[Sat Aug 13 13:22:25 2016]  say: ^0^^7ASAV^0^Sendrogro: na tepe pufik
+[Sat Aug 13 13:22:27 2016]  say: ^0^^7ASAV^0^Sendrogro: xdd
+[Sat Aug 13 13:22:30 2016]  say: ^1Eminem: lol
+[Sat Aug 13 13:22:42 2016]  say: ^0^^7ASAV^0^Sendrogro: tak
+[Sat Aug 13 13:22:45 2016]  say: ^0^^7ASAV^0^Sendrogro: ya afk 3 min
+[Sat Aug 13 13:22:47 2016]  say: ^0^^7ASAV^0^Sendrogro: kurit
+[Sat Aug 13 13:22:54 2016]  say: ^1Eminem: davay
+[Sat Aug 13 13:24:53 2016]  say: ^0^^7ASAV^0^Sendrogro: tut
+[Sat Aug 13 13:24:55 2016]  say: ^1Eminem: aga
+[Sat Aug 13 13:25:01 2016]  say: ^0^^7ASAV^0^Sendrogro: :3
+[Sat Aug 13 13:25:16 2016]  say: ^0^^7ASAV^0^Sendrogro: zaebis
+[Sat Aug 13 13:25:19 2016]  say: ^0^^7ASAV^0^Sendrogro: nado domik delat
+[Sat Aug 13 13:25:27 2016]  say: ^0^^7ASAV^0^Sendrogro: vot gde moy rebenok prosnulsa
+[Sat Aug 13 13:25:27 2016]  say: ^1Eminem: a ya cho delaiu 
+[Sat Aug 13 13:25:28 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Sat Aug 13 13:25:30 2016]  say: ^1Eminem: lol
+[Sat Aug 13 13:26:28 2016]  say: ^1Eminem: o
+[Sat Aug 13 13:26:33 2016]  say: ^0^^7ASAV^0^Sendrogro: mplace imperial/control_panel
+[Sat Aug 13 13:26:49 2016]  say: ^1Eminem: stav' siuda
+[Sat Aug 13 13:27:04 2016]  say: ^0^^7ASAV^0^Sendrogro: xdd
+[Sat Aug 13 13:27:07 2016]  say: ^0^^7ASAV^0^Sendrogro: vbil ee
+[Sat Aug 13 13:27:12 2016]  say: ^1Eminem: navedi na nee i mtelesw
+[Sat Aug 13 13:27:35 2016]  say: ^0^^7ASAV^0^Sendrogro: aga
+[Sat Aug 13 13:27:36 2016]  say: ^1Eminem: teper' idi na verh i navedi na pol /mdest
+[Sat Aug 13 13:28:00 2016]  say: ^1Eminem: teper' na nee, i /musable
+[Sat Aug 13 13:28:01 2016]  say: ^0^^7ASAV^0^Sendrogro: wtf
+[Sat Aug 13 13:28:10 2016]  say: ^0^^7ASAV^0^Sendrogro: ugu
+[Sat Aug 13 13:28:27 2016]  say: ^0^^7ASAV^0^Sendrogro: a che krivo tak
+[Sat Aug 13 13:28:39 2016]  say: ^1Eminem: tak ti sam
+[Sat Aug 13 13:28:41 2016]  say: ^0^^7ASAV^0^Sendrogro: xdd
+[Sat Aug 13 13:28:42 2016]  say: ^1Eminem: ne ya je
+[Sat Aug 13 13:30:09 2016]  say: ^0^^7ASAV^0^Sendrogro: ahhahah
+[Sat Aug 13 13:30:17 2016]  say: ^1Eminem: xD
+[Sat Aug 13 13:30:19 2016]  say: ^1Eminem: kak to tak :D
+[Sat Aug 13 13:30:29 2016]  say: ^1Eminem: nee 
+[Sat Aug 13 13:30:30 2016]  say: ^1Eminem: govno
+[Sat Aug 13 13:31:51 2016]  say: ^0^^7ASAV^0^Sendrogro: cheyta
+[Sat Aug 13 13:32:06 2016]  say: ^1Eminem: wedge/holo_map
+[Sat Aug 13 13:32:49 2016]  say: ^1Eminem: blya
+[Sat Aug 13 13:33:41 2016]  say: ^0^^7ASAV^0^Sendrogro: hehehe
+[Sat Aug 13 13:34:09 2016]  say: ^1Eminem: tipa okno :D
+[Sat Aug 13 13:34:10 2016]  say: ^0^^7ASAV^0^Sendrogro: suka ebanie fanari
+[Sat Aug 13 13:34:13 2016]  say: ^0^^7ASAV^0^Sendrogro: rot ih ebal
+[Sat Aug 13 13:34:14 2016]  say: ^1Eminem: uberi ih
+[Sat Aug 13 13:34:43 2016]  say: ^1Eminem: kak udalit' bind?
+[Sat Aug 13 13:34:47 2016]  Kill: 0 0 39: ^1Eminem killed ^1Eminem by MOD_SUICIDE
+[Sat Aug 13 13:34:50 2016]  say: ^0^^7ASAV^0^Sendrogro: xddd
+[Sat Aug 13 13:34:55 2016]  say: ^0^^7ASAV^0^Sendrogro: /unbind
+[Sat Aug 13 13:34:57 2016]  say: ^1Eminem: aa
+[Sat Aug 13 13:35:22 2016]  say: ^0^^7ASAV^0^Sendrogro: POL NUJEN
+[Sat Aug 13 13:35:27 2016]  say: ^1Eminem: ya vot ishu
+[Sat Aug 13 13:35:30 2016]  say: ^0^^7ASAV^0^Sendrogro: toje
+[Sat Aug 13 13:35:36 2016]  say: ^0^^7ASAV^0^Sendrogro: suk mi dumaem odinakovo
+[Sat Aug 13 13:35:37 2016]  say: ^0^^7ASAV^0^Sendrogro: :D
+[Sat Aug 13 13:35:46 2016]  say: ^1Eminem: :D
+[Sat Aug 13 13:35:51 2016]  say: ^0^^7ASAV^0^Sendrogro: nado plutona suda
+[Sat Aug 13 13:35:56 2016]  say: ^1Eminem: tak zovi
+[Sat Aug 13 13:36:00 2016]  say: ^1Eminem: eshe bi skype
+[Sat Aug 13 13:36:07 2016]  say: ^0^^7ASAV^0^Sendrogro: shas ne poluchitsya
+[Sat Aug 13 13:36:10 2016]  say: ^0^^7ASAV^0^Sendrogro: batya buhuy
+[Sat Aug 13 13:36:12 2016]  say: ^0^^7ASAV^0^Sendrogro: huny neset
+[Sat Aug 13 13:36:31 2016]  say: ^1Eminem: horosho chto ya odin jivu
+[Sat Aug 13 13:37:32 2016]  say: ^0^^7ASAV^0^Sendrogro: hehehe
+[Sat Aug 13 13:37:44 2016]  say: ^1Eminem: ooo
+[Sat Aug 13 13:37:45 2016]  say: ^1Eminem: norm
+[Sat Aug 13 13:38:29 2016]  say: ^0^^7ASAV^0^Sendrogro: xDDDDDddd
+[Sat Aug 13 13:38:31 2016]  say: ^0^^7ASAV^0^Sendrogro: ahahahahahah
+[Sat Aug 13 13:38:36 2016]  say: ^1Eminem: ooo
+[Sat Aug 13 13:38:36 2016]  say: ^0^^7ASAV^0^Sendrogro: smoti
+[Sat Aug 13 13:38:39 2016]  say: ^1Eminem: ti v mp
+[Sat Aug 13 13:38:42 2016]  say: ^0^^7ASAV^0^Sendrogro: da
+[Sat Aug 13 13:39:33 2016]  say: ^1Eminem: ahah
+[Sat Aug 13 13:39:37 2016]  say: ^1Eminem: yaico dini?
+[Sat Aug 13 13:39:40 2016]  say: ^0^^7ASAV^0^Sendrogro: ahahahahah
+[Sat Aug 13 13:40:23 2016]  say: ^0^^7ASAV^0^Sendrogro: shikarno
+[Sat Aug 13 13:40:25 2016]  say: ^1Eminem: aga
+[Sat Aug 13 13:42:40 2016]  say: ^1Eminem: o
+[Sat Aug 13 13:42:42 2016]  say: ^1Eminem: lol
+[Sat Aug 13 13:42:58 2016]  say: ^0^^7ASAV^0^Sendrogro: lol
+[Sat Aug 13 13:43:01 2016]  say: ^0^^7ASAV^0^Sendrogro: eto moya krovat
+[Sat Aug 13 13:43:04 2016]  say: ^0^^7ASAV^0^Sendrogro: xDDDd
+[Sat Aug 13 13:43:07 2016]  say: ^1Eminem: ahaha
+[Sat Aug 13 13:43:09 2016]  say: ^0^^7ASAV^0^Sendrogro: zbs
+[Sat Aug 13 13:43:11 2016]  say: ^1Eminem: blyat eto polki xD
+[Sat Aug 13 13:43:30 2016]  say: ^1Eminem: ooo
+[Sat Aug 13 13:43:54 2016]  say: ^0^^7ASAV^0^Sendrogro: xddd
+[Sat Aug 13 13:44:03 2016]  say: ^1Eminem: nado pol epta
+[Sat Aug 13 13:44:19 2016]  say: ^0^^7ASAV^0^Sendrogro: aga
+[Sat Aug 13 13:44:22 2016]  say: ^1Eminem: o lol
+[Sat Aug 13 13:44:28 2016]  say: ^0^^7ASAV^0^Sendrogro: xDDDDDDDDDDDDd
+[Sat Aug 13 13:44:33 2016]  say: ^0^^7ASAV^0^Sendrogro: stav suda
+[Sat Aug 13 13:44:44 2016]  say: ^0^^7ASAV^0^Sendrogro: ebat pepelac
+[Sat Aug 13 13:46:14 2016]  say: ^0^^7ASAV^0^Sendrogro: pomnnu to chto factory
+[Sat Aug 13 13:46:17 2016]  say: ^0^^7ASAV^0^Sendrogro: v tom rzdele
+[Sat Aug 13 13:46:24 2016]  say: ^1Eminem: che?
+[Sat Aug 13 13:46:27 2016]  say: ^1Eminem: tam knopki 3
+[Sat Aug 13 13:46:33 2016]  say: ^1Eminem: f_con1
+[Sat Aug 13 13:46:36 2016]  say: ^1Eminem: i f_con2
+[Sat Aug 13 13:46:38 2016]  say: ^1Eminem: oi 2*
+[Sat Aug 13 13:47:12 2016]  say: ^0^^7ASAV^0^Sendrogro: AHAHAHAHAHAHAAHAHAH
+[Sat Aug 13 13:47:15 2016]  say: ^0^^7ASAV^0^Sendrogro: nashel suka
+[Sat Aug 13 13:47:20 2016]  say: ^1Eminem: URAA
+[Sat Aug 13 13:47:22 2016]  say: ^1Eminem: KAK NAZIVAETSA
+[Sat Aug 13 13:47:25 2016]  say: ^0^^7ASAV^0^Sendrogro: vspomnil
+[Sat Aug 13 13:47:30 2016]  say: ^0^^7ASAV^0^Sendrogro: mplace factory/catw2_b
+[Sat Aug 13 13:47:33 2016]  say: ^1Eminem: stoi
+[Sat Aug 13 13:47:34 2016]  say: ^1Eminem: go re
+[Sat Aug 13 13:47:37 2016]  say: ^1Eminem: udalai vse
+[Sat Aug 13 13:47:39 2016]  say: ^0^^7ASAV^0^Sendrogro: vsm
+[Sat Aug 13 13:47:44 2016]  say: ^1Eminem: go otdel'no
+[Sat Aug 13 13:47:49 2016]  say: ^1Eminem: a to sohranit' ne smojem
+[Sat Aug 13 13:48:02 2016]  say: ^0^^7ASAV^0^Sendrogro: mkill all?
+[Sat Aug 13 13:48:06 2016]  say: ^1Eminem: vrode
+[Sat Aug 13 13:48:37 2016]  say: ^1Eminem: kak?
+[Sat Aug 13 13:48:39 2016]  say: ^0^^7ASAV^0^Sendrogro: vsio
+[Sat Aug 13 13:48:43 2016]  say: ^0^^7ASAV^0^Sendrogro: /mkillall
+[Sat Aug 13 13:48:47 2016]  say: ^1Eminem: o
+[Sat Aug 13 13:48:56 2016]  say: ^1Eminem: kakoe tvoe mesto?
+[Sat Aug 13 13:49:09 2016]  say: ^0^^7ASAV^0^Sendrogro: centr
+[Sat Aug 13 13:49:12 2016]  say: ^0^^7ASAV^0^Sendrogro: karti
+[Sat Aug 13 13:49:17 2016]  say: ^0^^7ASAV^0^Sendrogro: s mestom gde voda
+[Sat Aug 13 13:49:33 2016]  say: ^1Eminem: kordinati skaji
+[Sat Aug 13 13:49:37 2016]  say: ^0^^7ASAV^0^Sendrogro: ept
+[Sat Aug 13 13:49:40 2016]  say: ^0^^7ASAV^0^Sendrogro: tut teleport
+[Sat Aug 13 13:49:45 2016]  say: ^0^^7ASAV^0^Sendrogro: i obustroenno vse
+[Sat Aug 13 13:49:50 2016]  Kill: 0 0 39: ^1Eminem killed ^1Eminem by MOD_SUICIDE
+[Sat Aug 13 13:49:58 2016]  say: ^1Eminem: kakoy teleport
+[Sat Aug 13 13:50:05 2016]  say: ^0^^7ASAV^0^Sendrogro: na resp idi
+[Sat Aug 13 13:50:07 2016]  say: ^1Eminem: leviy, pravit?
+[Sat Aug 13 13:50:19 2016]  say: ^0^^7ASAV^0^Sendrogro: eto moe
+[Sat Aug 13 13:50:21 2016]  say: ^0^^7ASAV^0^Sendrogro: )0))
+[Sat Aug 13 13:50:31 2016]  say: ^1Eminem: lol
+[Sat Aug 13 13:50:31 2016]  say: ^0^^7ASAV^0^Sendrogro: :3
+[Sat Aug 13 13:50:34 2016]  say: ^1Eminem: dlya bomjei
+[Sat Aug 13 13:50:37 2016]  say: ^0^^7ASAV^0^Sendrogro: aga
+[Sat Aug 13 13:50:38 2016]  say: ^1Eminem: bedrooms
+[Sat Aug 13 13:50:43 2016]  say: ^0^^7ASAV^0^Sendrogro: klanu kotr tut samoe mesto
+[Sat Aug 13 13:50:45 2016]  say: ^0^^7ASAV^0^Sendrogro: xDDDd
+[Sat Aug 13 13:50:53 2016]  say: ^1Eminem: nee
+[Sat Aug 13 13:50:57 2016]  say: ^1Eminem: go gdenit' v odnom meste
+[Sat Aug 13 13:51:05 2016]  say: ^0^^7ASAV^0^Sendrogro: tak nam vmeste ili net?
+[Sat Aug 13 13:51:15 2016]  say: ^1Eminem: otdel'no no ne daleko
+[Sat Aug 13 13:51:48 2016]  say: ^0^^7ASAV^0^Sendrogro: o go na resp
+[Sat Aug 13 13:51:53 2016]  say: ^0^^7ASAV^0^Sendrogro: tam est 2 mosta ne daleko
+[Sat Aug 13 13:51:54 2016]  Kill: 0 0 39: ^1Eminem killed ^1Eminem by MOD_SUICIDE
+[Sat Aug 13 13:51:57 2016]  Kill: 1 1 39: ^0^^7ASAV^0^Sendrogro killed ^0^^7ASAV^0^Sendrogro by MOD_SUICIDE
+[Sat Aug 13 13:51:58 2016]  say: ^1Eminem: za mnoiy
+[Sat Aug 13 13:52:07 2016]  say: ^1Eminem: ti gde
+[Sat Aug 13 13:52:09 2016]  say: ^0^^7ASAV^0^Sendrogro: suk
+[Sat Aug 13 13:52:10 2016]  say: ^0^^7ASAV^0^Sendrogro: -_-
+[Sat Aug 13 13:52:17 2016]  say: ^1Eminem: vot
+[Sat Aug 13 13:52:18 2016]  say: ^1Eminem: tut
+[Sat Aug 13 13:52:19 2016]  say: ^0^^7ASAV^0^Sendrogro: nu vot
+[Sat Aug 13 13:52:24 2016]  say: ^0^^7ASAV^0^Sendrogro: et moe
+[Sat Aug 13 13:52:24 2016]  say: ^1Eminem: chut'
+[Sat Aug 13 13:52:26 2016]  say: ^1Eminem: eto moe
+[Sat Aug 13 13:52:29 2016]  say: ^0^^7ASAV^0^Sendrogro: :C
+[Sat Aug 13 13:52:33 2016]  say: ^1Eminem: idi siuda
+[Sat Aug 13 13:52:38 2016]  say: ^0^^7ASAV^0^Sendrogro: kuda
+[Sat Aug 13 13:52:45 2016]  say: ^1Eminem: eto :D
+[Sat Aug 13 13:52:50 2016]  say: ^0^^7ASAV^0^Sendrogro: lachuga takaya
+[Sat Aug 13 13:52:55 2016]  say: ^0^^7ASAV^0^Sendrogro: ne goje caru tut jit
+[Sat Aug 13 13:53:06 2016]  say: ^0^^7ASAV^0^Sendrogro: daje krisha protekaet
+[Sat Aug 13 13:53:07 2016]  say: ^1Eminem: lan nachinaem
+[Sat Aug 13 13:53:08 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Sat Aug 13 13:53:11 2016]  say: ^1Eminem: xD
+[Sat Aug 13 13:53:19 2016]  say: ^0^^7ASAV^0^Sendrogro: mplace factory/catw2_b
+[Sat Aug 13 13:53:22 2016]  say: ^0^^7ASAV^0^Sendrogro: blet
+[Sat Aug 13 13:53:23 2016]  say: ^1Eminem: o
+[Sat Aug 13 13:53:25 2016]  say: ^1Eminem: sps
+[Sat Aug 13 13:53:28 2016]  say: ^1Eminem: kak raz zabil
+[Sat Aug 13 13:53:55 2016]  say: ^1Eminem: ee
+[Sat Aug 13 13:53:56 2016]  say: ^1Eminem: eto moe
+[Sat Aug 13 13:53:59 2016]  say: ^0^^7ASAV^0^Sendrogro: CHE
+[Sat Aug 13 13:54:00 2016]  say: ^0^^7ASAV^0^Sendrogro: SUKA
+[Sat Aug 13 13:54:04 2016]  say: ^1Eminem: ya je skazal eto moe
+[Sat Aug 13 13:54:05 2016]  say: ^0^^7ASAV^0^Sendrogro: opredelis
+[Sat Aug 13 13:54:15 2016]  say: ^1Eminem: uberi (9
+[Sat Aug 13 13:54:17 2016]  say: ^1Eminem: pls cart
+[Sat Aug 13 13:54:18 2016]  say: ^1Eminem: ((999
+[Sat Aug 13 13:54:22 2016]  say: ^1Eminem: mkillal
+[Sat Aug 13 13:54:25 2016]  say: ^1Eminem: thx :3
+[Sat Aug 13 13:56:04 2016]  say: ^1Eminem: ya v gosti epta
+[Sat Aug 13 13:56:06 2016]  say: ^0^^7ASAV^0^Sendrogro: ticheska
+[Sat Aug 13 13:56:07 2016]  say: ^1Eminem: tuk tuk tuk
+[Sat Aug 13 13:56:12 2016]  say: ^1Eminem: eba
+[Sat Aug 13 13:56:17 2016]  say: ^1Eminem: posmotri kak u menya :>
+[Sat Aug 13 13:59:52 2016]  say: ^0^^7ASAV^0^Sendrogro: xddd
+[Sat Aug 13 14:02:29 2016]  say: ^1Eminem: ADL:AW:ODK
+[Sat Aug 13 14:02:57 2016]  say: ^0^^7ASAV^0^Sendrogro: SUkA ORU
+[Sat Aug 13 14:02:59 2016]  say: ^1Eminem: ?
+[Sat Aug 13 14:03:02 2016]  say: ^0^^7ASAV^0^Sendrogro: ahhahah
+[Sat Aug 13 14:03:05 2016]  say: ^0^^7ASAV^0^Sendrogro: tolko ne smotri
+[Sat Aug 13 14:03:06 2016]  say: ^0^^7ASAV^0^Sendrogro: ahahah
+[Sat Aug 13 14:03:09 2016]  say: ^1Eminem: AAPAPAP
+[Sat Aug 13 14:03:10 2016]  say: ^1Eminem: AHAHAHAHAH
+[Sat Aug 13 14:03:11 2016]  say: ^1Eminem: HAHAAHHAHA
+[Sat Aug 13 14:03:12 2016]  say: ^1Eminem: HAHAHAhA
+[Sat Aug 13 14:03:13 2016]  say: ^1Eminem: HAHAHAHAH
+[Sat Aug 13 14:03:14 2016]  say: ^0^^7ASAV^0^Sendrogro: vorota takie
+[Sat Aug 13 14:03:14 2016]  say: ^1Eminem: HAHAHAAH
+[Sat Aug 13 14:03:15 2016]  say: ^1Eminem: HAHAHAHAh
+[Sat Aug 13 14:03:17 2016]  say: ^0^^7ASAV^0^Sendrogro: kalitka
+[Sat Aug 13 14:03:17 2016]  say: ^1Eminem: aa
+[Sat Aug 13 14:03:20 2016]  say: ^1Eminem: a ya pro pol
+[Sat Aug 13 14:03:24 2016]  say: ^0^^7ASAV^0^Sendrogro: a
+[Sat Aug 13 14:03:25 2016]  say: ^0^^7ASAV^0^Sendrogro: -_-
+[Sat Aug 13 14:03:28 2016]  say: ^0^^7ASAV^0^Sendrogro: mormas
+[Sat Aug 13 14:03:30 2016]  say: ^1Eminem: ti ne mog sdelat' amscale?
+[Sat Aug 13 14:03:35 2016]  say: ^1Eminem: mscale*
+[Sat Aug 13 14:03:36 2016]  say: ^0^^7ASAV^0^Sendrogro: ....
+[Sat Aug 13 14:03:39 2016]  say: ^0^^7ASAV^0^Sendrogro: zabil
+[Sat Aug 13 14:03:42 2016]  say: ^1Eminem: phphphphp
+[Sat Aug 13 14:05:05 2016]  say: ^1Eminem: sakdl;awdlw;ad
+[Sat Aug 13 14:05:10 2016]  say: ^1Eminem: ti eti uberi snachalo
+[Sat Aug 13 14:05:13 2016]  say: ^0^^7ASAV^0^Sendrogro: nea
+[Sat Aug 13 14:05:16 2016]  say: ^1Eminem: a nu ok
+[Sat Aug 13 14:05:17 2016]  say: ^0^^7ASAV^0^Sendrogro: ne poluchaetsya
+[Sat Aug 13 14:05:20 2016]  say: ^1Eminem: :O
+[Sat Aug 13 14:05:22 2016]  say: ^0^^7ASAV^0^Sendrogro: oni pod zemley
+[Sat Aug 13 14:05:27 2016]  say: ^1Eminem: aa
+[Sat Aug 13 14:05:43 2016]  say: ^0^^7ASAV^0^Sendrogro: nuka
+[Sat Aug 13 14:05:48 2016]  say: ^0^^7ASAV^0^Sendrogro: a kak ti vorota delal?
+[Sat Aug 13 14:05:52 2016]  say: ^0^^7ASAV^0^Sendrogro: okno eto ebanoe
+[Sat Aug 13 14:06:40 2016]  say: ^0^^7ASAV^0^Sendrogro: WORDEN
+[Sat Aug 13 14:06:44 2016]  say: ^0^^7ASAV^0^Sendrogro: kak vorota sdelat
+[Sat Aug 13 14:06:44 2016]  say: ^1Eminem: ûðù
+[Sat Aug 13 14:06:54 2016]  say: ^1Eminem: chtob otkrivalis'?
+[Sat Aug 13 14:07:05 2016]  say: ^0^^7ASAV^0^Sendrogro: a che i takie mojna
+[Sat Aug 13 14:07:07 2016]  say: ^0^^7ASAV^0^Sendrogro: ?
+[Sat Aug 13 14:07:09 2016]  say: ^1Eminem: AHAHAHAH
+[Sat Aug 13 14:07:10 2016]  say: ^1Eminem: tHAHAHAHAAHHA
+[Sat Aug 13 14:07:11 2016]  say: ^0^^7ASAV^0^Sendrogro: xddd
+[Sat Aug 13 14:07:11 2016]  say: ^1Eminem: YHhAHHAAHAH
+[Sat Aug 13 14:07:14 2016]  say: ^0^^7ASAV^0^Sendrogro: STOP IT
+[Sat Aug 13 14:07:15 2016]  say: ^0^^7ASAV^0^Sendrogro: SUKA
+[Sat Aug 13 14:07:17 2016]  say: ^0^^7ASAV^0^Sendrogro: tral'
+[Sat Aug 13 14:07:19 2016]  say: ^1Eminem: nu smotri
+[Sat Aug 13 14:07:25 2016]  say: ^0^^7ASAV^0^Sendrogro: ....
+[Sat Aug 13 14:07:34 2016]  say: ^0^^7ASAV^0^Sendrogro: i che
+[Sat Aug 13 14:07:37 2016]  say: ^0^^7ASAV^0^Sendrogro: po skriptu?
+[Sat Aug 13 14:07:41 2016]  say: ^1Eminem: net
+[Sat Aug 13 14:07:42 2016]  say: ^1Eminem: bindi
+[Sat Aug 13 14:07:48 2016]  say: ^0^^7ASAV^0^Sendrogro: ahahahah
+[Sat Aug 13 14:07:50 2016]  say: ^0^^7ASAV^0^Sendrogro: hitrec
+[Sat Aug 13 14:07:54 2016]  say: ^0^^7ASAV^0^Sendrogro: da ne
+[Sat Aug 13 14:07:57 2016]  say: ^1Eminem: smotriii
+[Sat Aug 13 14:08:42 2016]  say: ^1Eminem: blya
+[Sat Aug 13 14:08:43 2016]  say: ^0^^7ASAV^0^Sendrogro: BLET
+[Sat Aug 13 14:08:46 2016]  say: ^1Eminem: da hule oni krivie
+[Sat Aug 13 14:09:29 2016]  say: ^1Eminem: i tut dver'
+[Sat Aug 13 14:09:36 2016]  say: ^1Eminem: sdelat' chtob otkrivalas'
+[Sat Aug 13 14:09:39 2016]  say: ^1Eminem: i ggwp
+[Sat Aug 13 14:09:46 2016]  say: ^1Eminem: nu ya tol'ko pokazal
+[Sat Aug 13 14:09:52 2016]  say: ^0^^7ASAV^0^Sendrogro: del that
+[Sat Aug 13 14:09:57 2016]  say: ^0^^7ASAV^0^Sendrogro: mne drugie nado
+[Sat Aug 13 14:09:58 2016]  say: ^0^^7ASAV^0^Sendrogro: :D
+[Sat Aug 13 14:10:02 2016]  say: ^0^^7ASAV^0^Sendrogro: kotorie
+[Sat Aug 13 14:10:08 2016]  say: ^0^^7ASAV^0^Sendrogro: okno
+[Sat Aug 13 14:10:09 2016]  say: ^0^^7ASAV^0^Sendrogro: xdd
+[Sat Aug 13 14:10:29 2016]  say: ^0^^7ASAV^0^Sendrogro: SUKa
+[Sat Aug 13 14:10:33 2016]  say: ^1Eminem: ya videlit' ne mogu eto
+[Sat Aug 13 14:10:44 2016]  say: ^0^^7ASAV^0^Sendrogro: ne mogu
+[Sat Aug 13 14:10:47 2016]  say: ^0^^7ASAV^0^Sendrogro: udalit
+[Sat Aug 13 14:10:47 2016]  say: ^1Eminem: ya toje eto
+[Sat Aug 13 14:10:49 2016]  say: ^0^^7ASAV^0^Sendrogro: watafak
+[Sat Aug 13 14:11:00 2016]  say: ^1Eminem: wetefe
+[Sat Aug 13 14:11:14 2016]  say: ^1Eminem: bleeet
+[Sat Aug 13 14:11:31 2016]  say: ^1Eminem: syka bleet
+[Sat Aug 13 14:11:33 2016]  say: ^1Eminem: degin de
+[Sat Aug 13 14:11:52 2016]  say: ^1Eminem: lan
+[Sat Aug 13 14:12:00 2016]  say: ^0^^7ASAV^0^Sendrogro: soidet)))
+[Sat Aug 13 14:12:06 2016]  say: ^1Eminem: tochn?
+[Sat Aug 13 14:12:11 2016]  say: ^0^^7ASAV^0^Sendrogro: da
+[Sat Aug 13 14:12:15 2016]  say: ^1Eminem: lan ya potelet
+[Sat Aug 13 14:12:15 2016]  say: ^0^^7ASAV^0^Sendrogro: kristal vhuyaru
+[Sat Aug 13 14:12:16 2016]  say: ^1Eminem: VJUHH
+[Sat Aug 13 14:13:05 2016]  say: ^1Eminem: lol tut daje paroli na dver' mojno stavit'
+[Sat Aug 13 14:14:02 2016]  say: ^0^^7ASAV^0^Sendrogro: ebat
+[Sat Aug 13 14:16:26 2016]  say: ^1Eminem: cart idi siuda
+[Sat Aug 13 14:16:33 2016]  say: ^1Eminem: smotri
+[Sat Aug 13 14:16:44 2016]  say: ^0^^7ASAV^0^Sendrogro: LOOOOOL
+[Sat Aug 13 14:16:45 2016]  say: ^0^^7ASAV^0^Sendrogro: n1
+[Sat Aug 13 14:20:01 2016]  say: ^1Eminem: cart pomogi
+[Sat Aug 13 14:20:07 2016]  say: ^1Eminem: bistren'ki
+[Sat Aug 13 14:20:09 2016]  say: ^0^^7ASAV^0^Sendrogro: sha
+[Sat Aug 13 14:20:12 2016]  say: ^1Eminem: (9
+[Sat Aug 13 14:20:19 2016]  say: ^0^^7ASAV^0^Sendrogro: che tam
+[Sat Aug 13 14:20:25 2016]  say: ^1Eminem: stoi tut
+[Sat Aug 13 14:20:28 2016]  say: ^1Eminem: derji lift
+[Sat Aug 13 14:20:35 2016]  say: ^1Eminem: ajsdlwdjkawlj
+[Sat Aug 13 14:21:06 2016]  say: ^1Eminem: vse
+[Sat Aug 13 14:21:08 2016]  say: ^1Eminem: mojesh idti
+[Sat Aug 13 14:21:09 2016]  say: ^1Eminem: sps
+[Sat Aug 13 14:21:10 2016]  say: ^0^^7ASAV^0^Sendrogro: :#
+[Sat Aug 13 14:21:11 2016]  say: ^1Eminem: ASDPLAWODLWA
+[Sat Aug 13 14:21:14 2016]  say: ^0^^7ASAV^0^Sendrogro: ahhaha
+[Sat Aug 13 14:21:14 2016]  say: ^1Eminem: on zastryal
+[Sat Aug 13 14:23:27 2016]  say: ^1Eminem: DA HOOY S ETIM LIFTOM
+[Sat Aug 13 14:23:28 2016]  say: ^1Eminem: UEBA
+[Sat Aug 13 14:23:32 2016]  say: ^0^^7ASAV^0^Sendrogro: ahahah
+[Sat Aug 13 14:23:33 2016]  say: ^1Eminem: MKILL NAHOOY
+[Sat Aug 13 14:23:40 2016]  say: ^1Eminem: luche teleport sdelaiu
+[Sat Aug 13 14:25:45 2016]  say: ^0^^7ASAV^0^Sendrogro: word
+[Sat Aug 13 14:25:46 2016]  say: ^0^^7ASAV^0^Sendrogro: lel
+[Sat Aug 13 14:25:48 2016]  say: ^0^^7ASAV^0^Sendrogro: kek
+[Sat Aug 13 14:25:52 2016]  say: ^0^^7ASAV^0^Sendrogro: smare
+[Sat Aug 13 14:25:54 2016]  say: ^0^^7ASAV^0^Sendrogro: che nashel
+[Sat Aug 13 14:25:54 2016]  say: ^1Eminem: sha
+[Sat Aug 13 14:26:11 2016]  say: ^1Eminem: lo
+[Sat Aug 13 14:26:16 2016]  say: ^1Eminem: narm
+[Sat Aug 13 14:26:26 2016]  say: ^0^^7ASAV^0^Sendrogro: smare
+[Sat Aug 13 14:26:35 2016]  say: ^1Eminem: :O
+[Sat Aug 13 14:26:38 2016]  say: ^0^^7ASAV^0^Sendrogro: katarn priehal
+[Sat Aug 13 14:26:39 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Sat Aug 13 14:26:41 2016]  say: ^1Eminem: xDDDASDKLAWliawJD
+[Sat Aug 13 14:27:56 2016]  say: ^1Eminem: BLYAT
+[Sat Aug 13 14:28:03 2016]  say: ^1Eminem: HULE ONO NE SELECTITSYA
+[Sat Aug 13 14:28:11 2016]  say: ^0^^7ASAV^0^Sendrogro: takoe je est(
+[Sat Aug 13 14:28:24 2016]  say: ^1Eminem: hooy nahooy
+[Sat Aug 13 14:28:26 2016]  say: ^1Eminem: mkillall
+[Sat Aug 13 14:32:12 2016]  say: ^0^^7ASAV^0^Sendrogro: xDDD
+[Sat Aug 13 14:32:13 2016]  say: ^1Eminem: xD
+[Sat Aug 13 14:32:38 2016]  say: ^0^^7ASAV^0^Sendrogro: EBANUTSYA
+[Sat Aug 13 14:32:41 2016]  say: ^0^^7ASAV^0^Sendrogro: VOT ETO VOROTA
+[Sat Aug 13 14:32:44 2016]  say: ^1Eminem: xDD
+[Sat Aug 13 14:32:47 2016]  say: ^1Eminem: ebaaa
+[Sat Aug 13 14:34:49 2016]  say: ^0^^7ASAV^0^Sendrogro: LEL
+[Sat Aug 13 14:34:51 2016]  say: ^0^^7ASAV^0^Sendrogro: Go Tp
+[Sat Aug 13 14:35:05 2016]  say: ^1Eminem: vsm?
+[Sat Aug 13 14:35:09 2016]  say: ^0^^7ASAV^0^Sendrogro: go ko mne
+[Sat Aug 13 14:35:14 2016]  say: ^1Eminem: eba
+[Sat Aug 13 14:35:17 2016]  say: ^0^^7ASAV^0^Sendrogro: XD
+[Sat Aug 13 14:35:18 2016]  say: ^1Eminem: norm tak
+[Sat Aug 13 14:35:22 2016]  say: ^0^^7ASAV^0^Sendrogro: da)
+[Sat Aug 13 14:35:25 2016]  say: ^1Eminem: berloga carter >:D
+[Sat Aug 13 14:36:43 2016]  say: ^0^^7ASAV^0^Sendrogro: TICHE
+[Sat Aug 13 14:36:45 2016]  say: ^0^^7ASAV^0^Sendrogro: UBERI
+[Sat Aug 13 14:36:46 2016]  say: ^0^^7ASAV^0^Sendrogro: EBANA
+[Sat Aug 13 14:36:50 2016]  say: ^1Eminem: ya pokazat'
+[Sat Aug 13 14:36:52 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Sat Aug 13 14:36:55 2016]  say: ^0^^7ASAV^0^Sendrogro: ya uvidel
+[Sat Aug 13 14:36:56 2016]  say: ^0^^7ASAV^0^Sendrogro: i ahuel
+[Sat Aug 13 14:36:58 2016]  say: ^1Eminem: a ok xd
+[Sat Aug 13 14:37:25 2016]  say: ^1Eminem: eto budet banochka spermi
+[Sat Aug 13 14:37:28 2016]  say: ^1Eminem: moya
+[Sat Aug 13 14:37:31 2016]  say: ^0^^7ASAV^0^Sendrogro: ....
+[Sat Aug 13 14:37:42 2016]  say: ^0^^7ASAV^0^Sendrogro: tut kak be
+[Sat Aug 13 14:37:53 2016]  say: ^0^^7ASAV^0^Sendrogro: daje 300 spartancev za vsu jizn ne spravyatsya
+[Sat Aug 13 14:37:59 2016]  say: ^0^^7ASAV^0^Sendrogro: xdd
+[Sat Aug 13 14:38:07 2016]  say: ^1Eminem: XDHAHA
+[Sat Aug 13 14:42:04 2016]  say: ^1Eminem: cart go komne
+[Sat Aug 13 14:42:09 2016]  say: ^0^^7ASAV^0^Sendrogro: sha
+[Sat Aug 13 14:42:10 2016]  say: ^0^^7ASAV^0^Sendrogro: 5 sec
+[Sat Aug 13 14:42:12 2016]  say: ^1Eminem: 1
+[Sat Aug 13 14:42:14 2016]  say: ^1Eminem: 2
+[Sat Aug 13 14:42:15 2016]  say: ^1Eminem: 3
+[Sat Aug 13 14:42:17 2016]  say: ^1Eminem: 4
+[Sat Aug 13 14:42:25 2016]  say: ^1Eminem: 4.5
+[Sat Aug 13 14:42:29 2016]  say: ^1Eminem: 4.9
+[Sat Aug 13 14:42:40 2016]  say: ^1Eminem: 4.10,9
+[Sat Aug 13 14:42:41 2016]  say: ^0^^7ASAV^0^Sendrogro: tut ya
+[Sat Aug 13 14:42:43 2016]  say: ^1Eminem: 5
+[Sat Aug 13 14:42:46 2016]  say: ^1Eminem: vniz
+[Sat Aug 13 14:42:48 2016]  say: ^1Eminem: idi
+[Sat Aug 13 14:42:55 2016]  say: ^0^^7ASAV^0^Sendrogro: ugu
+[Sat Aug 13 14:42:57 2016]  say: ^1Eminem: ti gde
+[Sat Aug 13 14:43:02 2016]  say: ^0^^7ASAV^0^Sendrogro: vnizu
+[Sat Aug 13 14:43:06 2016]  say: ^1Eminem: ya ne viju
+[Sat Aug 13 14:43:21 2016]  say: ^1Eminem: znaesh kak popast' tuda?
+[Sat Aug 13 14:43:28 2016]  say: ^1Eminem: za mnoy
+[Sat Aug 13 14:43:28 2016]  say: ^0^^7ASAV^0^Sendrogro: nikak
+[Sat Aug 13 14:43:30 2016]  say: ^0^^7ASAV^0^Sendrogro: ))
+[Sat Aug 13 14:43:36 2016]  say: ^1Eminem: xd
+[Sat Aug 13 14:43:42 2016]  say: ^0^^7ASAV^0^Sendrogro: normas
+[Sat Aug 13 14:43:49 2016]  say: ^0^^7ASAV^0^Sendrogro: a ko mne poka toka cherez noclip
+[Sat Aug 13 14:43:53 2016]  say: ^0^^7ASAV^0^Sendrogro: go pokaju koe che
+[Sat Aug 13 14:44:04 2016]  say: ^1Eminem: AKLDAWDALKDJ
+[Sat Aug 13 14:44:05 2016]  say: ^1Eminem: nice
+[Sat Aug 13 14:44:08 2016]  say: ^0^^7ASAV^0^Sendrogro: milo
+[Sat Aug 13 14:44:11 2016]  say: ^0^^7ASAV^0^Sendrogro: posmotri na fonar
+[Sat Aug 13 14:44:13 2016]  say: ^1Eminem: blya mne aj zavidno
+[Sat Aug 13 14:44:16 2016]  say: ^1Eminem: OOOOASDIOAWDIO
+[Sat Aug 13 14:44:19 2016]  say: ^0^^7ASAV^0^Sendrogro: xdd
+[Sat Aug 13 14:44:23 2016]  say: ^1Eminem: blyaaaa
+[Sat Aug 13 14:44:23 2016]  say: ^0^^7ASAV^0^Sendrogro: elitarnaya
+[Sat Aug 13 14:44:24 2016]  say: ^1Eminem: nu blyaaa
+[Sat Aug 13 14:44:26 2016]  say: ^0^^7ASAV^0^Sendrogro: komnotka
+[Sat Aug 13 14:44:29 2016]  say: ^1Eminem: skaji model fonarya
+[Sat Aug 13 14:44:32 2016]  say: ^0^^7ASAV^0^Sendrogro: eto eshe ne vse
+[Sat Aug 13 14:44:34 2016]  say: ^0^^7ASAV^0^Sendrogro: )0))00
+[Sat Aug 13 14:44:38 2016]  say: ^0^^7ASAV^0^Sendrogro: nia
+[Sat Aug 13 14:44:40 2016]  say: ^1Eminem: bb
+[Sat Aug 13 14:44:41 2016]  say: ^0^^7ASAV^0^Sendrogro: dalan
+[Sat Aug 13 14:44:48 2016]  say: ^1Eminem: da? :>
+[Sat Aug 13 14:44:49 2016]  say: ^0^^7ASAV^0^Sendrogro: eshe bi vspomnit
+[Sat Aug 13 14:44:52 2016]  say: ^1Eminem: LSDJLKAWJD
+[Sat Aug 13 14:44:56 2016]  say: ^0^^7ASAV^0^Sendrogro: yvo vjune
+[Sat Aug 13 14:44:58 2016]  say: ^0^^7ASAV^0^Sendrogro: vjun
+[Sat Aug 13 14:45:03 2016]  say: ^0^^7ASAV^0^Sendrogro: akkoy to tam svet
+[Sat Aug 13 14:45:08 2016]  say: ^1Eminem: lan naidu
+[Sat Aug 13 14:45:10 2016]  say: ^1Eminem: che eshe
+[Sat Aug 13 14:45:14 2016]  say: ^0^^7ASAV^0^Sendrogro: tak poje
+[Sat Aug 13 14:45:17 2016]  say: ^0^^7ASAV^0^Sendrogro: eshe v razrabotke
+[Sat Aug 13 14:45:19 2016]  say: ^0^^7ASAV^0^Sendrogro: xd
+[Sat Aug 13 14:45:21 2016]  say: ^1Eminem: gpgpgpgp
+[Sat Aug 13 14:46:12 2016]  say: ^1Eminem: emmm
+[Sat Aug 13 14:46:48 2016]  Kill: 1022 1 38: <world> killed ^0^^7ASAV^0^Sendrogro by MOD_FALLING
+[Sat Aug 13 14:46:50 2016]  say: ^0^^7ASAV^0^Sendrogro: xDDd
+[Sat Aug 13 14:46:58 2016]  say: ^1Eminem: xd
+[Sat Aug 13 14:47:21 2016]  say: ^0^^7ASAV^0^Sendrogro: pizdec...
+[Sat Aug 13 14:51:44 2016]  say: ^1Eminem: cart 
+[Sat Aug 13 14:51:46 2016]  say: ^1Eminem: idi siuda
+[Sat Aug 13 14:51:49 2016]  say: ^0^^7ASAV^0^Sendrogro: sha
+[Sat Aug 13 14:52:02 2016]  say: ^1Eminem: tipa komp
+[Sat Aug 13 14:52:05 2016]  say: ^0^^7ASAV^0^Sendrogro: xdddddddddddddd
+[Sat Aug 13 14:52:07 2016]  say: ^1Eminem: xd
+[Sat Aug 13 14:52:09 2016]  say: ^0^^7ASAV^0^Sendrogro: ebat ti che sdelal
+[Sat Aug 13 14:52:11 2016]  say: ^0^^7ASAV^0^Sendrogro: YA ORU
+[Sat Aug 13 14:52:13 2016]  say: ^1Eminem: ?
+[Sat Aug 13 14:52:16 2016]  say: ^0^^7ASAV^0^Sendrogro: normas
+[Sat Aug 13 14:52:21 2016]  say: ^0^^7ASAV^0^Sendrogro: stul toka
+[Sat Aug 13 14:52:22 2016]  say: ^1Eminem: a orat' to zachem
+[Sat Aug 13 14:52:23 2016]  say: ^0^^7ASAV^0^Sendrogro: zahuyar
+[Sat Aug 13 14:52:25 2016]  say: ^0^^7ASAV^0^Sendrogro: jestkiy
+[Sat Aug 13 14:58:21 2016]  say: ^1Eminem: cart
+[Sat Aug 13 14:58:22 2016]  say: ^1Eminem: idi siuda
+[Sat Aug 13 14:58:24 2016]  say: ^0^^7ASAV^0^Sendrogro: da?
+[Sat Aug 13 14:58:26 2016]  say: ^0^^7ASAV^0^Sendrogro: shas
+[Sat Aug 13 14:58:35 2016]  say: ^0^^7ASAV^0^Sendrogro: hehe
+[Sat Aug 13 14:58:36 2016]  say: ^1Eminem: soidet?
+[Sat Aug 13 14:58:38 2016]  say: ^0^^7ASAV^0^Sendrogro: kull
+[Sat Aug 13 14:58:41 2016]  say: ^1Eminem: ili drugoy effect?
+[Sat Aug 13 14:58:41 2016]  say: ^0^^7ASAV^0^Sendrogro: really
+[Sat Aug 13 14:58:48 2016]  say: ^0^^7ASAV^0^Sendrogro: ne
+[Sat Aug 13 14:58:50 2016]  say: ^0^^7ASAV^0^Sendrogro: etot nice
+[Sat Aug 13 14:58:52 2016]  say: ^0^^7ASAV^0^Sendrogro: poide ko mne
+[Sat Aug 13 14:58:56 2016]  say: ^0^^7ASAV^0^Sendrogro: ya toje vremeni
+[Sat Aug 13 14:59:02 2016]  say: ^0^^7ASAV^0^Sendrogro: da ne tut
+[Sat Aug 13 14:59:04 2016]  say: ^0^^7ASAV^0^Sendrogro: vniz
+[Sat Aug 13 14:59:09 2016]  say: ^1Eminem: loo
+[Sat Aug 13 14:59:13 2016]  say: ^0^^7ASAV^0^Sendrogro: chetko da?)
+[Sat Aug 13 14:59:13 2016]  say: ^1Eminem: ti sam sdelal?
+[Sat Aug 13 14:59:15 2016]  say: ^0^^7ASAV^0^Sendrogro: da
+[Sat Aug 13 14:59:17 2016]  say: ^0^^7ASAV^0^Sendrogro: a kto eshe
+[Sat Aug 13 14:59:18 2016]  say: ^1Eminem: eba
+[Sat Aug 13 14:59:23 2016]  say: ^0^^7ASAV^0^Sendrogro: :3
+[Sat Aug 13 14:59:23 2016]  say: ^1Eminem: kak budto jka samo
+[Sat Aug 13 14:59:26 2016]  say: ^0^^7ASAV^0^Sendrogro: xdddd
+[Sat Aug 13 14:59:27 2016]  say: ^1Eminem: niceicen
+[Sat Aug 13 14:59:33 2016]  say: ^0^^7ASAV^0^Sendrogro: :3
+[Sat Aug 13 14:59:36 2016]  say: ^0^^7ASAV^0^Sendrogro: ya obajay prirodu
+[Sat Aug 13 14:59:49 2016]  say: ^0^^7ASAV^0^Sendrogro: ti na poleno ne posmotrel
+[Sat Aug 13 14:59:50 2016]  say: ^0^^7ASAV^0^Sendrogro: xdddd
+[Sat Aug 13 14:59:54 2016]  say: ^0^^7ASAV^0^Sendrogro: vo
+[Sat Aug 13 14:59:58 2016]  say: ^1Eminem: aga
+[Sat Aug 13 15:00:01 2016]  say: ^0^^7ASAV^0^Sendrogro: hehe
+[Sat Aug 13 15:00:05 2016]  say: ^0^^7ASAV^0^Sendrogro: budu dodelivat
+[Sat Aug 13 15:00:11 2016]  say: ^0^^7ASAV^0^Sendrogro: kak sohranit?
+[Sat Aug 13 15:00:23 2016]  say: ^1Eminem: ooo
+[Sat Aug 13 15:00:31 2016]  say: ^0^^7ASAV^0^Sendrogro: ?
+[Sat Aug 13 15:00:38 2016]  say: ^1Eminem: msaveobs <name> <password>
+[Sat Aug 13 15:00:51 2016]  say: ^1Eminem: ya luche effect nashel
+[Sat Aug 13 15:01:00 2016]  say: ^1Eminem: smotri
+[Sat Aug 13 15:01:05 2016]  say: ^0^^7ASAV^0^Sendrogro: zaseivilos
+[Sat Aug 13 15:01:06 2016]  say: ^0^^7ASAV^0^Sendrogro: :333
+[Sat Aug 13 15:01:10 2016]  say: ^1Eminem: )
+[Sat Aug 13 15:01:17 2016]  say: ^1Eminem: kakoy
+[Sat Aug 13 15:01:17 2016]  say: ^0^^7ASAV^0^Sendrogro: hehe
+[Sat Aug 13 15:01:20 2016]  say: ^1Eminem: leviy ili praviy
+[Sat Aug 13 15:01:23 2016]  say: ^0^^7ASAV^0^Sendrogro: praviy
+[Sat Aug 13 15:01:27 2016]  say: ^0^^7ASAV^0^Sendrogro: mne nra
+[Sat Aug 13 15:01:28 2016]  say: ^1Eminem: ya toje tak dumaiu
+[Sat Aug 13 15:01:29 2016]  say: ^0^^7ASAV^0^Sendrogro: bolshe praviy
+[Sat Aug 13 15:01:37 2016]  say: ^1Eminem: oo
+[Sat Aug 13 15:01:39 2016]  say: ^1Eminem: stoy xD
+[Sat Aug 13 15:01:43 2016]  say: ^0^^7ASAV^0^Sendrogro: che
+[Sat Aug 13 15:01:44 2016]  say: ^1Eminem: smotri
+[Sat Aug 13 15:01:51 2016]  say: ^0^^7ASAV^0^Sendrogro: epic
+[Sat Aug 13 15:01:53 2016]  say: ^1Eminem: nee eto perebor
+[Sat Aug 13 15:01:53 2016]  say: ^0^^7ASAV^0^Sendrogro: ept
+[Sat Aug 13 15:04:11 2016]  say: ^0^^7ASAV^0^Sendrogro: kek
+[Sat Aug 13 15:05:44 2016]  say: ^0^^7ASAV^0^Sendrogro: word
+[Sat Aug 13 15:05:45 2016]  say: ^0^^7ASAV^0^Sendrogro: ya jrat
+[Sat Aug 13 15:05:51 2016]  say: ^1Eminem: fuh
+[Sat Aug 13 15:05:55 2016]  say: ^0^^7ASAV^0^Sendrogro: ?
+[Sat Aug 13 15:05:58 2016]  say: ^1Eminem: ya dumal ti skajesh ''ya vse''
+[Sat Aug 13 15:06:01 2016]  say: ^0^^7ASAV^0^Sendrogro: nene
+[Sat Aug 13 15:06:02 2016]  say: ^0^^7ASAV^0^Sendrogro: ti che
+[Sat Aug 13 15:06:04 2016]  say: ^0^^7ASAV^0^Sendrogro: :D
+[Sat Aug 13 15:06:08 2016]  say: ^1Eminem: )
+[Sat Aug 13 15:06:10 2016]  say: ^0^^7ASAV^0^Sendrogro: vo mne interes prosnulsya)
+[Sat Aug 13 15:06:10 2016]  say: ^1Eminem: priyatnogo
+[Sat Aug 13 15:06:13 2016]  say: ^1Eminem: ASD:KLJWADKLWAJD
+[Sat Aug 13 15:06:13 2016]  say: ^0^^7ASAV^0^Sendrogro: th
+[Sat Aug 13 15:06:14 2016]  say: ^1Eminem: ya rad
+[Sat Aug 13 15:10:12 2016]  say: ^0^^7ASAV^0^Sendrogro: gretsya postavil
+[Sat Aug 13 15:10:14 2016]  say: ^0^^7ASAV^0^Sendrogro: xd
+[Sat Aug 13 15:10:17 2016]  say: ^1Eminem: xd
+[Sat Aug 13 15:10:34 2016]  say: ^1Eminem: BLYAA CARTER
+[Sat Aug 13 15:10:38 2016]  say: ^1Eminem: idi siuda
+[Sat Aug 13 15:10:55 2016]  say: ^1Eminem: ya sluchaino
+[Sat Aug 13 15:10:57 2016]  say: ^0^^7ASAV^0^Sendrogro: mda
+[Sat Aug 13 15:11:16 2016]  say: ^0^^7ASAV^0^Sendrogro: wat
+[Sat Aug 13 15:11:18 2016]  say: ^0^^7ASAV^0^Sendrogro: ahahhah
+[Sat Aug 13 15:11:38 2016]  say: ^1Eminem: !/mlight
+[Sat Aug 13 15:11:49 2016]  say: ^1Eminem: ebaaa
+[Sat Aug 13 15:11:52 2016]  say: ^1Eminem: cart
+[Sat Aug 13 15:12:03 2016]  say: ^1Eminem: tut daje svet po cvetam mojno nastroit'
+[Sat Aug 13 15:12:20 2016]  say: ^0^^7ASAV^0^Sendrogro: lol
+[Sat Aug 13 15:13:44 2016]  say: ^1Eminem: smotri :D
+[Sat Aug 13 15:13:46 2016]  say: ^1Eminem: idi k sebe
+[Sat Aug 13 15:13:50 2016]  say: ^1Eminem: verh
+[Sat Aug 13 15:13:57 2016]  say: ^1Eminem: siniy
+[Sat Aug 13 15:14:00 2016]  say: ^0^^7ASAV^0^Sendrogro: aga
+[Sat Aug 13 15:14:02 2016]  say: ^0^^7ASAV^0^Sendrogro: llol
+[Sat Aug 13 15:14:09 2016]  say: ^0^^7ASAV^0^Sendrogro: hehe
+[Sat Aug 13 15:14:20 2016]  say: ^0^^7ASAV^0^Sendrogro: xddd
+[Sat Aug 13 15:14:22 2016]  say: ^1Eminem: blya kruto
+[Sat Aug 13 15:14:23 2016]  say: ^0^^7ASAV^0^Sendrogro: diskateka
+[Sat Aug 13 15:14:59 2016]  say: ^1Eminem: ^1Watch Out!
+[Sat Aug 13 15:16:36 2016]  say: ^0^^7ASAV^0^Sendrogro: word
+[Sat Aug 13 15:16:39 2016]  say: ^0^^7ASAV^0^Sendrogro: go vniz ko mne
+[Sat Aug 13 15:16:41 2016]  say: ^0^^7ASAV^0^Sendrogro: krasota,,,
+[Sat Aug 13 15:16:47 2016]  say: ^1Eminem: ebaa
+[Sat Aug 13 15:16:48 2016]  say: ^1Eminem: rly
+[Sat Aug 13 15:16:53 2016]  say: ^1Eminem: kruuut;
+[Sat Aug 13 15:16:57 2016]  say: ^0^^7ASAV^0^Sendrogro: :333
+[Sat Aug 13 15:17:02 2016]  say: ^1Eminem: ya bi tut spal :D
+[Sat Aug 13 15:17:05 2016]  say: ^0^^7ASAV^0^Sendrogro: da
+[Sat Aug 13 15:17:10 2016]  say: ^0^^7ASAV^0^Sendrogro: ya bi tuu jil blet
+[Sat Aug 13 15:17:12 2016]  say: ^0^^7ASAV^0^Sendrogro: xddd
+[Sat Aug 13 15:17:14 2016]  say: ^1Eminem: ;DD
+[Sat Aug 13 15:17:35 2016]  say: ^1Eminem: slish kurtir
+[Sat Aug 13 15:17:38 2016]  say: ^0^^7ASAV^0^Sendrogro: a
+[Sat Aug 13 15:17:41 2016]  say: ^1Eminem: /mloadobs
+[Sat Aug 13 15:17:46 2016]  say: ^1Eminem: esli chto
+[Sat Aug 13 15:17:50 2016]  say: ^0^^7ASAV^0^Sendrogro: che et
+[Sat Aug 13 15:17:54 2016]  say: ^1Eminem: nu ti save sdelal
+[Sat Aug 13 15:17:57 2016]  say: ^1Eminem: load eto load
+[Sat Aug 13 15:17:58 2016]  say: ^0^^7ASAV^0^Sendrogro: a
+[Sat Aug 13 15:18:00 2016]  say: ^0^^7ASAV^0^Sendrogro: thx
+[Sat Aug 13 15:18:05 2016]  say: ^0^^7ASAV^0^Sendrogro: poidu kushat
+[Sat Aug 13 15:18:09 2016]  say: ^1Eminem: aga
+[Sat Aug 13 15:18:23 2016]  say: ^0^^7ASAV^0^Sendrogro: lol
+[Sat Aug 13 15:18:28 2016]  say: ^0^^7ASAV^0^Sendrogro: nado muvik pozje sdelalt
+[Sat Aug 13 15:18:30 2016]  say: ^0^^7ASAV^0^Sendrogro: ti hotel
+[Sat Aug 13 15:18:33 2016]  say: ^0^^7ASAV^0^Sendrogro: vot i poluchitsa
+[Sat Aug 13 15:18:35 2016]  say: ^0^^7ASAV^0^Sendrogro: :3
+[Sat Aug 13 15:18:36 2016]  say: ^1Eminem: TOCHNYAAK
+[Sat Aug 13 15:18:40 2016]  say: ^1Eminem: NA MAKERE NADO VSE DELAT'
+[Sat Aug 13 15:18:45 2016]  say: ^0^^7ASAV^0^Sendrogro: slish
+[Sat Aug 13 15:18:46 2016]  say: ^0^^7ASAV^0^Sendrogro: lol
+[Sat Aug 13 15:18:48 2016]  say: ^0^^7ASAV^0^Sendrogro: eto tipo
+[Sat Aug 13 15:18:52 2016]  say: ^0^^7ASAV^0^Sendrogro: osobnyak vordena
+[Sat Aug 13 15:18:56 2016]  say: ^1Eminem: gde?
+[Sat Aug 13 15:18:58 2016]  say: ^1Eminem: xDDD
+[Sat Aug 13 15:18:59 2016]  say: ^1Eminem: ahahahahah
+[Sat Aug 13 15:19:00 2016]  say: ^0^^7ASAV^0^Sendrogro: i skromnie vladeniya cartera
+[Sat Aug 13 15:19:02 2016]  say: ^1Eminem: ya eshe ne dodelal
+[Sat Aug 13 15:19:04 2016]  say: ^0^^7ASAV^0^Sendrogro: xDDDDDDDD
+[Sat Aug 13 15:19:08 2016]  say: ^0^^7ASAV^0^Sendrogro: SKUKA SKROMNIE
+[Sat Aug 13 15:19:11 2016]  say: ^1Eminem: sha teleport k tebe sdelaiu
+[Sat Aug 13 15:19:14 2016]  say: ^0^^7ASAV^0^Sendrogro: posmotri
+[Sat Aug 13 15:19:18 2016]  say: ^0^^7ASAV^0^Sendrogro: idi za mnoy
+[Sat Aug 13 15:19:21 2016]  say: ^0^^7ASAV^0^Sendrogro: ya u tebya
+[Sat Aug 13 15:19:32 2016]  say: ^0^^7ASAV^0^Sendrogro: skromnie vladeniya
+[Sat Aug 13 15:19:33 2016]  say: ^1Eminem: AHAHA
+[Sat Aug 13 15:19:34 2016]  say: ^1Eminem: AAHAHA
+[Sat Aug 13 15:19:35 2016]  say: ^0^^7ASAV^0^Sendrogro: xdddd
+[Sat Aug 13 15:19:35 2016]  say: ^1Eminem: HAHAHAHAHA
+[Sat Aug 13 15:19:47 2016]  say: ^1Eminem: blya
+[Sat Aug 13 15:19:48 2016]  say: ^0^^7ASAV^0^Sendrogro: poidu vse taki)
+[Sat Aug 13 15:19:49 2016]  say: ^1Eminem: carter
+[Sat Aug 13 15:19:51 2016]  say: ^1Eminem: stoy
+[Sat Aug 13 15:19:51 2016]  say: ^0^^7ASAV^0^Sendrogro: a
+[Sat Aug 13 15:19:54 2016]  say: ^1Eminem: siuda idi
+[Sat Aug 13 15:19:57 2016]  say: ^1Eminem: smotri
+[Sat Aug 13 15:20:02 2016]  say: ^1Eminem: k sebe
+[Sat Aug 13 15:20:13 2016]  say: ^1Eminem: za mnoy
+[Sat Aug 13 15:20:13 2016]  say: ^0^^7ASAV^0^Sendrogro: ya v sadu
+[Sat Aug 13 15:20:20 2016]  say: ^1Eminem: smotri
+[Sat Aug 13 15:20:26 2016]  say: ^0^^7ASAV^0^Sendrogro: ya znay
+[Sat Aug 13 15:20:29 2016]  say: ^0^^7ASAV^0^Sendrogro: eto zashita
+[Sat Aug 13 15:20:39 2016]  say: ^1Eminem: ya tut portal sdelaiu?
+[Sat Aug 13 15:20:41 2016]  say: ^1Eminem: k sosedu?
+[Sat Aug 13 15:20:42 2016]  say: ^0^^7ASAV^0^Sendrogro: ya sam)
+[Sat Aug 13 15:20:49 2016]  say: ^1Eminem: nu pls
+[Sat Aug 13 15:20:53 2016]  say: ^0^^7ASAV^0^Sendrogro: nu davay
+[Sat Aug 13 15:20:58 2016]  say: ^0^^7ASAV^0^Sendrogro: toka s obratnoy svyazy
+[Sat Aug 13 15:20:59 2016]  say: ^0^^7ASAV^0^Sendrogro: smotri
+[Sat Aug 13 15:21:01 2016]  say: ^1Eminem: +
+[Sat Aug 13 15:21:02 2016]  say: ^0^^7ASAV^0^Sendrogro: word
+[Sat Aug 13 15:21:04 2016]  say: ^0^^7ASAV^0^Sendrogro: idi suda
+[Sat Aug 13 15:21:05 2016]  say: ^1Eminem: chho
+[Sat Aug 13 15:21:07 2016]  say: ^1Eminem: a tot
+[Sat Aug 13 15:21:10 2016]  say: ^1Eminem: u tebya
+[Sat Aug 13 15:21:13 2016]  say: ^0^^7ASAV^0^Sendrogro: vot tut stav
+[Sat Aug 13 15:21:20 2016]  say: ^1Eminem: stop
+[Sat Aug 13 15:22:04 2016]  say: ^0^^7ASAV^0^Sendrogro: stoy stoy
+[Sat Aug 13 15:22:05 2016]  say: ^0^^7ASAV^0^Sendrogro: ut
+[Sat Aug 13 15:22:08 2016]  say: ^0^^7ASAV^0^Sendrogro: tut
+[Sat Aug 13 15:22:10 2016]  say: ^0^^7ASAV^0^Sendrogro: kak raz
+[Sat Aug 13 15:22:11 2016]  say: ^1Eminem: o
+[Sat Aug 13 15:22:14 2016]  say: ^0^^7ASAV^0^Sendrogro: mejdu nimi
+[Sat Aug 13 15:22:22 2016]  say: ^0^^7ASAV^0^Sendrogro: a ya tut sdelay
+[Sat Aug 13 15:22:23 2016]  say: ^0^^7ASAV^0^Sendrogro: krch
+[Sat Aug 13 15:22:25 2016]  say: ^0^^7ASAV^0^Sendrogro: tp naverh
+[Sat Aug 13 15:22:40 2016]  say: ^0^^7ASAV^0^Sendrogro: /mscale 0.3
+[Sat Aug 13 15:22:46 2016]  say: ^1Eminem: ne robit
+[Sat Aug 13 15:22:56 2016]  say: ^0^^7ASAV^0^Sendrogro: wtf
+[Sat Aug 13 15:23:02 2016]  say: ^1Eminem: wtf
+[Sat Aug 13 15:23:05 2016]  say: ^1Eminem: sam poprobuy
+[Sat Aug 13 15:23:18 2016]  say: ^1Eminem: /mplace factory/f_door_inside_b
+[Sat Aug 13 15:23:18 2016]  say: ^0^^7ASAV^0^Sendrogro: oni tut tak i budut stoyat?
+[Sat Aug 13 15:23:42 2016]  say: ^1Eminem: ak;djawkldjwad
+[Sat Aug 13 15:23:52 2016]  say: ^1Eminem: a che togda
+[Sat Aug 13 15:24:10 2016]  say: ^1Eminem: lolol
+[Sat Aug 13 15:24:18 2016]  say: ^1Eminem: ya pisal vmesto mscale mplcae
+[Sat Aug 13 15:24:22 2016]  say: ^1Eminem: place*
+[Sat Aug 13 15:24:30 2016]  say: ^1Eminem: uidi
+[Sat Aug 13 15:24:44 2016]  say: ^0^^7ASAV^0^Sendrogro: eto tp ko mne
+[Sat Aug 13 15:24:49 2016]  say: ^0^^7ASAV^0^Sendrogro: tvoi delay k sebe
+[Sat Aug 13 15:24:50 2016]  say: ^0^^7ASAV^0^Sendrogro: xddd
+[Sat Aug 13 15:24:56 2016]  say: ^1Eminem: neee
+[Sat Aug 13 15:24:57 2016]  say: ^0^^7ASAV^0^Sendrogro: s drugoy storoni
+[Sat Aug 13 15:24:59 2016]  say: ^1Eminem: ya i k sebe
+[Sat Aug 13 15:25:02 2016]  say: ^1Eminem: i k tebe
+[Sat Aug 13 15:25:05 2016]  say: ^1Eminem: vsm
+[Sat Aug 13 15:25:10 2016]  say: ^1Eminem: tp na verh chto le?
+[Sat Aug 13 15:25:18 2016]  say: ^0^^7ASAV^0^Sendrogro: tp na verh ya sam sdelay
+[Sat Aug 13 15:25:23 2016]  say: ^1Eminem: nu uidi
+[Sat Aug 13 15:25:24 2016]  say: ^0^^7ASAV^0^Sendrogro: ti je hochesh chto bi ti ko mne letal
+[Sat Aug 13 15:25:27 2016]  say: ^1Eminem: k sebe i tebe ya sam
+[Sat Aug 13 15:25:32 2016]  say: ^0^^7ASAV^0^Sendrogro: oke
+[Sat Aug 13 15:25:44 2016]  say: ^1Eminem: norm
+[Sat Aug 13 15:25:51 2016]  say: ^1Eminem: nado effecti
+[Sat Aug 13 15:25:54 2016]  say: ^0^^7ASAV^0^Sendrogro: da
+[Sat Aug 13 15:25:59 2016]  say: ^0^^7ASAV^0^Sendrogro: ya poka otoidu
+[Sat Aug 13 15:26:02 2016]  say: ^0^^7ASAV^0^Sendrogro: pohavat
+[Sat Aug 13 15:29:57 2016]  ClientConnect: 2
+[Sat Aug 13 15:29:57 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sat Aug 13 15:30:22 2016]  ClientBegin: 2
+[Sat Aug 13 15:30:25 2016]  say: ^1Eminem: yo
+[Sat Aug 13 15:30:29 2016]  say: ^0Ðàrk^2^1Qµàkè: hey :)
+[Sat Aug 13 15:30:34 2016]  say: ^0Ðàrk^2^1Qµàkè: did you see me message?
+[Sat Aug 13 15:30:37 2016]  say: ^0Ðàrk^2^1Qµàkè: my*
+[Sat Aug 13 15:30:42 2016]  say: ^1Eminem: yes!
+[Sat Aug 13 15:30:50 2016]  say: ^1Eminem: save ur stuff?
+[Sat Aug 13 15:30:51 2016]  say: ^0Ðàrk^2^1Qµàkè: gonna restart computer, this'll be up soon :) so save your stuff
+[Sat Aug 13 15:30:56 2016]  say: ^0Ðàrk^2^1Qµàkè: yeah :D cool
+[Sat Aug 13 15:30:56 2016]  say: ^1Eminem: stoop
+[Sat Aug 13 15:30:59 2016]  say: ^1Eminem: sec
+[Sat Aug 13 15:31:02 2016]  say: ^1Eminem: my firend is afk
+[Sat Aug 13 15:31:07 2016]  say: ^0Ðàrk^2^1Qµàkè: ok
+[Sat Aug 13 15:31:23 2016]  say: ^1Eminem: where u from?
+[Sat Aug 13 15:31:32 2016]  say: ^0Ðàrk^2^1Qµàkè: Aus, living in UK
+[Sat Aug 13 15:31:38 2016]  say: ^1Eminem: hm
+[Sat Aug 13 15:32:30 2016]  say: ^1Eminem: u admin?
+[Sat Aug 13 15:33:58 2016]  say: ^0Ðàrk^2^1Qµàkè: yeah
+[Sat Aug 13 15:34:08 2016]  say: ^0Ðàrk^2^1Qµàkè: ping 3 :)
+[Sat Aug 13 15:34:12 2016]  say: ^0Ðàrk^2^1Qµàkè: 0 XD
+[Sat Aug 13 15:34:15 2016]  say: ^1Eminem: :O
+[Sat Aug 13 15:34:22 2016]  say: ^1Eminem: its not hosting?
+[Sat Aug 13 15:34:33 2016]  say: ^0Ðàrk^2^1Qµàkè: no I run it on my computer I play on
+[Sat Aug 13 15:34:41 2016]  say: ^1Eminem: :c
+[Sat Aug 13 15:34:46 2016]  say: ^0Ðàrk^2^1Qµàkè: I just opened ports on my router, don't need to pay for hosting
+[Sat Aug 13 15:35:54 2016]  say: ^0Ðàrk^2^1Qµàkè: anyway doing Chrome stuff lol but tell your mate to save stuff if he has any, cause I gotta restart soon
+[Sat Aug 13 15:36:21 2016]  say: ^0^^7ASAV^0^Sendrogro: tut
+[Sat Aug 13 15:36:21 2016]  say: ^1Eminem: k
+[Sat Aug 13 15:36:22 2016]  say: ^0^^7ASAV^0^Sendrogro: savit?
+[Sat Aug 13 15:36:23 2016]  say: ^1Eminem: bro
+[Sat Aug 13 15:36:28 2016]  say: ^1Eminem: tut admin prishel
+[Sat Aug 13 15:36:30 2016]  say: ^1Eminem: hoster*
+[Sat Aug 13 15:36:30 2016]  say: ^0^^7ASAV^0^Sendrogro: viju
+[Sat Aug 13 15:36:33 2016]  say: ^0^^7ASAV^0^Sendrogro: che govorit?
+[Sat Aug 13 15:36:37 2016]  say: ^1Eminem: on govorit sohronyai vse
+[Sat Aug 13 15:36:43 2016]  say: ^1Eminem: sha restart budet
+[Sat Aug 13 15:36:47 2016]  say: ^0^^7ASAV^0^Sendrogro: napomni
+[Sat Aug 13 15:36:52 2016]  say: ^0^^7ASAV^0^Sendrogro: kak savit
+[Sat Aug 13 15:36:52 2016]  say: ^1Eminem: saveobs
+[Sat Aug 13 15:36:55 2016]  say: ^1Eminem: msaveobs
+[Sat Aug 13 15:37:08 2016]  say: ^0^^7ASAV^0^Sendrogro: ok
+[Sat Aug 13 15:37:10 2016]  say: ^0^^7ASAV^0^Sendrogro: rdy
+[Sat Aug 13 15:37:11 2016]  say: ^1Eminem: sec
+[Sat Aug 13 15:37:12 2016]  say: ^1Eminem: no
+[Sat Aug 13 15:37:16 2016]  say: ^1Eminem: sohranil?
+[Sat Aug 13 15:37:19 2016]  say: ^0^^7ASAV^0^Sendrogro: da
+[Sat Aug 13 15:37:21 2016]  say: ^1Eminem: yes rdy
+[Sat Aug 13 15:37:29 2016]  say: ^0Ðàrk^2^1Qµàkè: ok cool :D be up again soon, like 5 mins
+[Sat Aug 13 15:37:35 2016]  say: ^0Ðàrk^2^1Qµàkè: thx :)
+[Sat Aug 13 15:37:35 2016]  say: ^1Eminem: okay
+[Sat Aug 13 15:37:36 2016]  say: ^0^^7ASAV^0^Sendrogro: oke
+[Sat Aug 13 15:37:38 2016]  say: ^0^^7ASAV^0^Sendrogro: :)
+[Sat Aug 13 15:37:42 2016]  say: ^1Eminem: gl =)

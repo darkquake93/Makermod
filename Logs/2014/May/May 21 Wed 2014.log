@@ -1,0 +1,138 @@
+[Wed May 21 00:37:57 2014]  ------------------------------------------------------------
+[Wed May 21 00:37:57 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 21 00:37:59 2014]  ClientConnect: 0
+[Wed May 21 00:37:59 2014]  ClientConnect: 1
+[Wed May 21 00:38:15 2014]  ClientBegin: 0
+[Wed May 21 00:38:31 2014]  print "^0{^1AWP^0}^1§^0am{^1Element^0}^7 @@@PLRENAME ^7§^0am
+"[Wed May 21 00:39:16 2014]  ClientBegin: 1
+[Wed May 21 00:39:43 2014]  say: ^7§^0am: ^7Tip 1: press 1 to turn off sabers
+[Wed May 21 00:39:57 2014]  say: ^7§^0am: ^7do /give all in the console
+[Wed May 21 00:40:38 2014]  say: ^7§^0am: ^7oh
+[Wed May 21 00:40:41 2014]  say: ^7§^0am: ^7and y to talk
+[Wed May 21 00:40:49 2014]  say: ^7§^0am: ^7Road House!
+[Wed May 21 00:41:06 2014]  say: ^7§^0am: ^7yo
+[Wed May 21 00:41:08 2014]  say: ^7§^0am: ^7hit Y
+[Wed May 21 00:41:15 2014]  say: Savage Opress:    wwwww
+[Wed May 21 00:41:18 2014]  say: ^7§^0am: ^7there
+[Wed May 21 00:41:19 2014]  say: Savage Opress: Lol
+[Wed May 21 00:41:21 2014]  say: Savage Opress: xD
+[Wed May 21 00:41:25 2014]  say: ^7§^0am: ^7'tis how to talk
+[Wed May 21 00:41:48 2014]  say: Savage Opress: Brb
+[Wed May 21 00:41:51 2014]  say: ^7§^0am: ^7Ok
+[Wed May 21 00:42:22 2014]  Kill: 0 1 3: ^7§^0am killed Savage Opress by MOD_SABER
+[Wed May 21 00:42:29 2014]  say: ^7§^0am: ^7Saberlock FTW
+[Wed May 21 00:42:51 2014]  say: ^7§^0am: ^7stahp
+[Wed May 21 00:42:56 2014]  say: ^7§^0am: ^7lemme teach you some basics
+[Wed May 21 00:43:00 2014]  say: Savage Opress: K
+[Wed May 21 00:43:07 2014]  Kill: 0 0 39: ^7§^0am killed ^7§^0am by MOD_SUICIDE
+[Wed May 21 00:43:22 2014]  say: ^7§^0am: ^7C to crouch
+[Wed May 21 00:43:29 2014]  say: ^7§^0am: ^7shift to walk
+[Wed May 21 00:43:31 2014]  say: Savage Opress: Oh lol
+[Wed May 21 00:43:40 2014]  say: Savage Opress: I kinda changed a few
+[Wed May 21 00:43:44 2014]  say: ^7§^0am: ^7alright
+[Wed May 21 00:44:27 2014]  say: ^7§^0am: ^7yeah, familiarize yourself with force
+[Wed May 21 00:44:40 2014]  say: ^7§^0am: ^7drain will drain enemy force and give you health
+[Wed May 21 00:44:50 2014]  say: ^7§^0am: ^7lightning will do damage
+[Wed May 21 00:44:57 2014]  say: ^7§^0am: ^7grip will do this
+[Wed May 21 00:45:01 2014]  say: Savage Opress: I dont have those
+[Wed May 21 00:45:08 2014]  say: ^7§^0am: ^7do /mempower
+[Wed May 21 00:45:31 2014]  say: Savage Opress: LAG
+[Wed May 21 00:45:41 2014]  say: ^7§^0am: ^7fps? or network
+[Wed May 21 00:45:50 2014]  say: Savage Opress: NEtwork
+[Wed May 21 00:45:56 2014]  say: ^7§^0am: ^7o shit
+[Wed May 21 00:46:01 2014]  say: Savage Opress: TONS
+[Wed May 21 00:46:07 2014]  say: ^7§^0am: ^7its down now
+[Wed May 21 00:46:20 2014]  say: ^7§^0am: ^7Always disable sabers when you dont need them up
+[Wed May 21 00:46:30 2014]  say: ^7§^0am: ^7online others will invite themselves to kill you
+[Wed May 21 00:46:34 2014]  say: ^7§^0am: ^7when sabers are up
+[Wed May 21 00:46:56 2014]  say: ^7§^0am: ^7absorb blocks enemy force
+[Wed May 21 00:47:05 2014]  say: ^7§^0am: ^7and converts it to force points to use
+[Wed May 21 00:47:19 2014]  say: ^7§^0am: ^7protect protects against damage by using force points
+[Wed May 21 00:47:44 2014]  say: ^7§^0am: ^7I modded the sound for heal
+[Wed May 21 00:47:52 2014]  say: ^7§^0am: ^7im probably going to remove the mod later
+[Wed May 21 00:48:09 2014]  say: Savage Opress: What does mind trick do
+[Wed May 21 00:48:14 2014]  say: ^7§^0am: ^7makes you invisible
+[Wed May 21 00:48:31 2014]  Kill: 1 0 3: Savage Opress killed ^7§^0am by MOD_SABER
+[Wed May 21 00:48:39 2014]  say: ^7§^0am: ^7check this tip out
+[Wed May 21 00:48:54 2014]  say: ^7§^0am: ^7your attacks are different with direction
+[Wed May 21 00:49:14 2014]  say: Savage Opress: Woah
+[Wed May 21 00:49:17 2014]  say: ^7§^0am: ^1W^0UBBLE ^1B^0ITCH ^1W^0UBBLE
+[Wed May 21 00:49:19 2014]  say: ^7§^0am: ^7whoa
+[Wed May 21 00:49:21 2014]  say: ^7§^0am: ^7old bind
+[Wed May 21 00:49:33 2014]  say: Savage Opress: Do it again xD
+[Wed May 21 00:49:48 2014]  Kill: 1 0 3: Savage Opress killed ^7§^0am by MOD_SABER
+[Wed May 21 00:49:50 2014]  say: ^7§^0am: ^7oo
+[Wed May 21 00:49:57 2014]  say: ^7§^0am: ^7on most servers, saberlocking is disabled
+[Wed May 21 00:50:31 2014]  Kill: 0 0 36: ^7§^0am killed ^7§^0am by MOD_CRUSH
+[Wed May 21 00:50:31 2014]  Kill: 0 1 0: ^7§^0am killed Savage Opress by MOD_UNKNOWN
+[Wed May 21 00:50:38 2014]  say: ^7§^0am: ^7xD
+[Wed May 21 00:50:39 2014]  say: Savage Opress: The Fuck
+[Wed May 21 00:50:57 2014]  say: ^7§^0am: ^7do /noclip
+[Wed May 21 00:51:05 2014]  say: Savage Opress: Leg
+[Wed May 21 00:51:08 2014]  say: Savage Opress: Lag
+[Wed May 21 00:51:10 2014]  say: Savage Opress: Log
+[Wed May 21 00:51:13 2014]  say: Savage Opress: EEEH
+[Wed May 21 00:51:24 2014]  say: Savage Opress: Lets join a better server
+[Wed May 21 00:51:31 2014]  say: ^7§^0am: ^7Alright
+[Wed May 21 00:51:35 2014]  Kill: 0 0 36: ^7§^0am killed ^7§^0am by MOD_CRUSH
+[Wed May 21 00:51:35 2014]  Kill: 0 1 0: ^7§^0am killed Savage Opress by MOD_UNKNOWN
+[Wed May 21 00:51:42 2014]  say: Savage Opress: GODDAMMIT
+[Wed May 21 00:51:50 2014]  ClientDisconnect: 1
+[Wed May 21 00:51:56 2014]  ClientDisconnect: 0
+[Wed May 21 02:37:56 2014]  Exit: Timelimit hit.
+[Wed May 21 15:15:27 2014]  ------------------------------------------------------------
+[Wed May 21 15:15:27 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 21 15:32:32 2014]  ------------------------------------------------------------
+[Wed May 21 15:32:32 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 21 16:08:31 2014]  ------------------------------------------------------------
+[Wed May 21 16:08:31 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 21 16:39:46 2014]  ------------------------------------------------------------
+[Wed May 21 16:39:46 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 21 17:54:38 2014]  ClientConnect: 0
+[Wed May 21 17:54:38 2014]  mlog:Player Padawan, connected. With IP - 62.192.233.153:29070 
+[Wed May 21 17:55:14 2014]  ClientBegin: 0
+[Wed May 21 17:59:17 2014]  Kill: 0 0 39: ^1Gri^8LL killed ^1Gri^8LL by MOD_SUICIDE
+[Wed May 21 18:04:27 2014]  Kill: 1022 0 36: <world> killed ^1Gri^8LL by MOD_CRUSH
+[Wed May 21 18:04:55 2014]  Kill: 1022 0 36: <world> killed ^1Gri^8LL by MOD_CRUSH
+[Wed May 21 18:13:34 2014]  ClientDisconnect: 0
+[Wed May 21 18:39:49 2014]  Exit: Timelimit hit.
+[Wed May 21 20:55:46 2014]  ClientConnect: 0
+[Wed May 21 20:55:46 2014]  mlog:Player Evan Mouse, connected. With IP - 74.195.199.168:29071 
+[Wed May 21 20:56:02 2014]  ClientBegin: 0
+[Wed May 21 20:56:09 2014]  ShutdownGame:
+[Wed May 21 20:56:09 2014]  ------------------------------------------------------------
+[Wed May 21 20:56:10 2014]  ------------------------------------------------------------
+[Wed May 21 20:56:10 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 21 20:56:10 2014]  ClientConnect: 0
+[Wed May 21 20:56:19 2014]  ClientBegin: 0
+[Wed May 21 20:57:49 2014]  ClientDisconnect: 0
+[Wed May 21 22:56:09 2014]  Exit: Timelimit hit.
+[Wed May 21 23:56:30 2014]  ClientConnect: 0
+[Wed May 21 23:56:30 2014]  mlog:Player Padawan, connected. With IP - 65.130.137.153:29070 
+[Wed May 21 23:56:45 2014]  ClientBegin: 0
+[Wed May 21 23:56:51 2014]  ShutdownGame:
+[Wed May 21 23:56:51 2014]  ------------------------------------------------------------
+[Wed May 21 23:56:52 2014]  ------------------------------------------------------------
+[Wed May 21 23:56:52 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 21 23:56:55 2014]  ClientConnect: 0
+[Wed May 21 23:57:10 2014]  ClientBegin: 0
+[Wed May 21 23:57:22 2014]  ClientConnect: 1
+[Wed May 21 23:57:22 2014]  mlog:Player ^1Sonic, connected. With IP - 74.72.115.169:29070 
+[Wed May 21 23:57:50 2014]  ClientDisconnect: 1
+[Wed May 21 23:57:50 2014]  ClientConnect: 1
+[Wed May 21 23:57:50 2014]  mlog:Player ^1Sonic, connected. With IP - 74.72.115.169:29070 
+[Wed May 21 23:58:04 2014]  ClientBegin: 1
+[Wed May 21 23:59:17 2014]  ClientDisconnect: 0
+[Thu May 22 00:00:44 2014]  Kill: 1 1 39: ^1Sonic killed ^1Sonic by MOD_SUICIDE
+[Thu May 22 00:00:49 2014]  Kill: 1 1 39: ^1Sonic killed ^1Sonic by MOD_SUICIDE
+[Thu May 22 00:02:01 2014]  ClientDisconnect: 1
+[Thu May 22 00:13:57 2014]  ClientConnect: 0
+[Thu May 22 00:13:57 2014]  mlog:Player Padawan, connected. With IP - 74.72.115.169:29070 
+[Thu May 22 00:14:15 2014]  ClientBegin: 0
+[Thu May 22 00:17:46 2014]  ClientDisconnect: 0
+[Thu May 22 01:56:50 2014]  Exit: Timelimit hit.
+[Thu May 22 15:55:15 2014]  ClientConnect: 0
+[Thu May 22 15:55:15 2014]  mlog:Player Padawan, connected. With IP - 77.240.96.2:29070 
+[Thu May 22 15:55:30 2014]  ClientBegin: 0
+[Thu May 22 15:56:04 2014]  ShutdownGame:
+[Thu May 22 15:56:04 2014]  ------------------------------------------------------------

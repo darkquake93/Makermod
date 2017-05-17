@@ -1,0 +1,342 @@
+[Mon Apr 07 18:59:26 2014]  ------------------------------------------------------------
+[Mon Apr 07 18:59:26 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Apr 07 20:49:55 2014]  ClientConnect: 0
+[Mon Apr 07 20:49:55 2014]  mlog:Player ^7»^0Exo^1Р^0us^7«, connected. With IP - 156.110.42.66:29070 
+[Mon Apr 07 20:50:50 2014]  ClientBegin: 0
+[Mon Apr 07 20:53:42 2014]  ClientDisconnect: 0
+[Mon Apr 07 20:55:21 2014]  ClientConnect: 0
+[Mon Apr 07 20:55:21 2014]  mlog:Player ^7»^0Exo^1Р^0us^7«, connected. With IP - 156.110.42.66:29070 
+[Mon Apr 07 20:56:24 2014]  ClientBegin: 0
+[Mon Apr 07 20:59:16 2014]  Exit: Timelimit hit.
+[Mon Apr 07 20:59:16 2014]  score: 0  ping: 999  client: 0 ^7»^0Exo^1Р^0us^7«
+[Mon Apr 07 20:59:39 2014]  ShutdownGame:
+[Mon Apr 07 20:59:39 2014]  ------------------------------------------------------------
+[Mon Apr 07 20:59:40 2014]  ------------------------------------------------------------
+[Mon Apr 07 20:59:40 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Apr 07 20:59:40 2014]  ClientConnect: 0
+[Mon Apr 07 21:00:04 2014]  ClientBegin: 0
+[Mon Apr 07 21:00:11 2014]  ClientConnect: 1
+[Mon Apr 07 21:00:11 2014]  mlog:Player Padawan, connected. With IP - 24.98.147.217:29070 
+[Mon Apr 07 21:00:26 2014]  ClientBegin: 1
+[Mon Apr 07 21:00:36 2014]  say: Padawan: Hi exo. ^_^ -Tk\
+[Mon Apr 07 21:00:37 2014]  say: ^7»^0Exo^1Р^0us^7«: sup tusk :P
+[Mon Apr 07 21:00:42 2014]  say: ^7»^0Exo^1Р^0us^7«: Ik it was you lol.
+[Mon Apr 07 21:00:45 2014]  print "Padawan^7 @@@PLRENAME Tusken King
+"[Mon Apr 07 21:00:47 2014]  say: ^7»^0Exo^1Р^0us^7«: i saw your ingame overlay appear
+[Mon Apr 07 21:00:55 2014]  say: Tusken King: Ah dear, anim bug.. hrm
+[Mon Apr 07 21:00:55 2014]  say: ^7»^0Exo^1Р^0us^7«:  Playing JKa Multiplayer  lol.
+[Mon Apr 07 21:01:09 2014]  say: ^7»^0Exo^1Р^0us^7«: Probably mods, take the mbiibaseassets.pk3 out of base.
+[Mon Apr 07 21:01:19 2014]  say: ^7»^0Exo^1Р^0us^7«: If you have mbii installed.
+[Mon Apr 07 21:01:32 2014]  say: Tusken King: Ah, alright.
+[Mon Apr 07 21:01:36 2014]  say: Tusken King: Give a sec while i brb.
+[Mon Apr 07 21:01:39 2014]  ClientDisconnect: 1
+[Mon Apr 07 21:01:39 2014]  say: ^7»^0Exo^1Р^0us^7«: Kk
+[Mon Apr 07 21:03:20 2014]  ClientConnect: 1
+[Mon Apr 07 21:03:20 2014]  mlog:Player Padawan, connected. With IP - 24.98.147.217:29070 
+[Mon Apr 07 21:03:33 2014]  ClientBegin: 1
+[Mon Apr 07 21:03:34 2014]  say: ^7»^0Exo^1Р^0us^7«: It really is sad to know this is the only MM server up xP...
+[Mon Apr 07 21:03:46 2014]  say: Tusken King: Yeah, just aboud.
+[Mon Apr 07 21:04:05 2014]  say: ^7»^0Exo^1Р^0us^7«: HEY, my portal gun is fixed! :D
+[Mon Apr 07 21:04:10 2014]  say: Tusken King: Hrm. nice. ^_^
+[Mon Apr 07 21:04:16 2014]  say: ^7»^0Exo^1Р^0us^7«: Its not a black mess anymore xD
+[Mon Apr 07 21:04:20 2014]  say: Tusken King: Ah, good. ^_^
+[Mon Apr 07 21:04:32 2014]  say: ^7»^0Exo^1Р^0us^7«: I love this effects mod
+[Mon Apr 07 21:04:36 2014]  say: ^7»^0Exo^1Р^0us^7«: its so much better on this lp
+[Mon Apr 07 21:04:48 2014]  say: Tusken King: XD
+[Mon Apr 07 21:05:03 2014]  say: ^7»^0Exo^1Р^0us^7«: There should be a jarate mod lol
+[Mon Apr 07 21:05:05 2014]  say: Tusken King: XD
+[Mon Apr 07 21:05:08 2014]  say: ^7»^0Exo^1Р^0us^7«: or a model replacement for Det xD
+[Mon Apr 07 21:05:09 2014]  say: Tusken King: Probably over thermal.
+[Mon Apr 07 21:05:27 2014]  say: Tusken King: Too bad no server presently--
+[Mon Apr 07 21:05:27 2014]  say: ^7»^0Exo^1Р^0us^7«: You should use some of your modeling experience to do such a thing.
+[Mon Apr 07 21:05:29 2014]  say: Tusken King: hrm,...
+[Mon Apr 07 21:05:38 2014]  say: Tusken King: Had a string thought.
+[Mon Apr 07 21:05:46 2014]  say: Tusken King: i could probably bring up a jka server by this rate with evolve.
+[Mon Apr 07 21:05:53 2014]  say: ^7»^0Exo^1Р^0us^7«: Nah, i dont like evolve
+[Mon Apr 07 21:05:56 2014]  say: Tusken King: Hm.
+[Mon Apr 07 21:06:00 2014]  say: ^7»^0Exo^1Р^0us^7«: it causes too much network lag
+[Mon Apr 07 21:06:03 2014]  say: ^7»^0Exo^1Р^0us^7«: i'd rather stick with hamachi.
+[Mon Apr 07 21:06:03 2014]  say: Tusken King: sad thing too.
+[Mon Apr 07 21:06:11 2014]  say: Tusken King: I Dislike dealing with that thing, XD
+[Mon Apr 07 21:06:19 2014]  say: Tusken King: can be a strange thing for me to handle on numerous factors.
+[Mon Apr 07 21:06:23 2014]  say: ^7»^0Exo^1Р^0us^7«: 'cept hamachi requires actual server configs and shit lol.
+[Mon Apr 07 21:06:43 2014]  say: Tusken King: The idea there, is if i had my own server built.
+[Mon Apr 07 21:06:48 2014]  say: Tusken King: I'd be able to house things i build.
+[Mon Apr 07 21:06:53 2014]  say: Tusken King: Such as the tf2 npcs.
+[Mon Apr 07 21:06:53 2014]  say: ^7»^0Exo^1Р^0us^7«: Lol
+[Mon Apr 07 21:07:01 2014]  say: ^7»^0Exo^1Р^0us^7«: Which i updated again, btw.
+[Mon Apr 07 21:07:04 2014]  say: Tusken King: Ah, XD
+[Mon Apr 07 21:07:06 2014]  say: ^7»^0Exo^1Р^0us^7«: and i'm going to work on bots soon
+[Mon Apr 07 21:07:10 2014]  say: Tusken King: Neat, ^_^
+[Mon Apr 07 21:07:17 2014]  say: Tusken King: I Thought i already gave them MP bot support.
+[Mon Apr 07 21:07:20 2014]  say: ^7»^0Exo^1Р^0us^7«: Nope
+[Mon Apr 07 21:07:27 2014]  say: ^7»^0Exo^1Р^0us^7«: you only did npc
+[Mon Apr 07 21:07:31 2014]  say: ^7»^0Exo^1Р^0us^7«: there's a big difference.
+[Mon Apr 07 21:07:37 2014]  say: Tusken King: Could've sworn, unless we winded up bringing the wrong file.
+[Mon Apr 07 21:07:43 2014]  say: Tusken King: One of the ones i did had some template write ups.
+[Mon Apr 07 21:07:47 2014]  say: ^7»^0Exo^1Р^0us^7«: Did you make it a .jkb file?
+[Mon Apr 07 21:07:54 2014]  say: Tusken King: Hm. i'll check it's pk3.
+[Mon Apr 07 21:07:54 2014]  say: ^7»^0Exo^1Р^0us^7«: That's a bot file.
+[Mon Apr 07 21:08:22 2014]  say: Tusken King: Yeah, the one i use has some.
+[Mon Apr 07 21:08:38 2014]  say: ^7»^0Exo^1Р^0us^7«: hmm, you gave me the wrong thing then.
+[Mon Apr 07 21:08:42 2014]  say: Tusken King: Probably, shoot.
+[Mon Apr 07 21:08:48 2014]  say: Tusken King: and i did wind up removing it out of dropbox again.
+[Mon Apr 07 21:08:52 2014]  say: ^7»^0Exo^1Р^0us^7«: Cause the one you gave me never included a .jkb file.
+[Mon Apr 07 21:09:05 2014]  say: Tusken King: Basically all i did for them, is copy pasted default bot ai's.
+[Mon Apr 07 21:09:08 2014]  say: Tusken King: and edited it.
+[Mon Apr 07 21:09:14 2014]  say: Tusken King: Such like.. let's see...
+[Mon Apr 07 21:09:17 2014]  say: ^7»^0Exo^1Р^0us^7«: Your glasses are off-kelter
+[Mon Apr 07 21:09:25 2014]  say: ^7»^0Exo^1Р^0us^7«: the left one is angled above the eye
+[Mon Apr 07 21:09:26 2014]  say: Tusken King: Probably a bit. they are literally face drawn.
+[Mon Apr 07 21:09:42 2014]  say: Tusken King: Done in such a way, that the color shading is literally eyes for glass.
+[Mon Apr 07 21:09:46 2014]  say: Tusken King: this way they dont look as wrong.
+[Mon Apr 07 21:09:51 2014]  say: ^7»^0Exo^1Р^0us^7«: Lol
+[Mon Apr 07 21:09:56 2014]  say: Tusken King: Posistions though. that's a different bit.
+[Mon Apr 07 21:10:11 2014]  say: Tusken King: Not all of them were perfect, but they never were built on intentional release.
+[Mon Apr 07 21:10:16 2014]  say: Tusken King: Spy is about the worst of the batch.
+[Mon Apr 07 21:10:17 2014]  say: ^7»^0Exo^1Р^0us^7«: Lol
+[Mon Apr 07 21:10:21 2014]  say: ^7»^0Exo^1Р^0us^7«: I can see xD
+[Mon Apr 07 21:10:28 2014]  say: Tusken King: Strange face, neck collar. etc. :p
+[Mon Apr 07 21:10:36 2014]  say: ^7»^0Exo^1Р^0us^7«: the mask is a bit.. stringy
+[Mon Apr 07 21:10:39 2014]  say: Tusken King: My creations are none the less if anything, short and demonic.
+[Mon Apr 07 21:10:43 2014]  say: ^7»^0Exo^1Р^0us^7«: Lol
+[Mon Apr 07 21:10:55 2014]  say: Tusken King: Demoman was more of a miracle work with the face.
+[Mon Apr 07 21:10:57 2014]  say: Tusken King: i think.
+[Mon Apr 07 21:10:59 2014]  say: ^7»^0Exo^1Р^0us^7«: This one is good
+[Mon Apr 07 21:11:03 2014]  say: ^7»^0Exo^1Р^0us^7«: Really good
+[Mon Apr 07 21:11:06 2014]  say: ^7»^0Exo^1Р^0us^7«: perfectly balanced
+[Mon Apr 07 21:11:10 2014]  say: Tusken King: Due to the convience. the plastering worked out just fine.
+[Mon Apr 07 21:11:21 2014]  say: Tusken King: Thing with the robot's model files, is that they have a sort of overall wrap.
+[Mon Apr 07 21:11:25 2014]  say: Tusken King: like wrapping paper.
+[Mon Apr 07 21:11:39 2014]  say: Tusken King: You'd have to facehug the texture in such a way, that it works out fine. xD
+[Mon Apr 07 21:12:14 2014]  say: Tusken King: Then we have heavy's bald patterning case.
+[Mon Apr 07 21:12:19 2014]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Mon Apr 07 21:12:20 2014]  say: Tusken King: Due to the rax model, i couldnt clip his hairflesh.
+[Mon Apr 07 21:12:28 2014]  say: ^7»^0Exo^1Р^0us^7«: xD..............
+[Mon Apr 07 21:12:50 2014]  say: Tusken King: i figured also to go for a loss hair, due at the time, he had a sort of ''almost'' bald
+[Mon Apr 07 21:12:54 2014]  say: Tusken King: But with some hair still remaining.
+[Mon Apr 07 21:13:04 2014]  say: Tusken King: dang thisa cat--
+[Mon Apr 07 21:13:19 2014]  say: Tusken King: Sniper i did special case on.
+[Mon Apr 07 21:13:24 2014]  say: Tusken King: had to use a chuck norris model thing.
+[Mon Apr 07 21:13:33 2014]  say: ^7»^0Exo^1Р^0us^7«: I dont like one thing about this laptop, i have to hit  fn  and the  f<>  keys together to use the f keys.
+[Mon Apr 07 21:13:34 2014]  say: Tusken King: [same used for indiana jones at thecommunity at the time]
+[Mon Apr 07 21:13:39 2014]  say: Tusken King: hrm.
+[Mon Apr 07 21:13:52 2014]  say: Tusken King: Sniper shares the medic glasses scenario.
+[Mon Apr 07 21:13:57 2014]  say: ^7»^0Exo^1Р^0us^7«: THis one turned out fine, but it looks like he has lipstick on.
+[Mon Apr 07 21:14:00 2014]  say: Tusken King: XD
+[Mon Apr 07 21:14:07 2014]  say: ^7»^0Exo^1Р^0us^7«: Badly done, lipstick, i'd add
+[Mon Apr 07 21:14:09 2014]  say: Tusken King: Scout, bespin cop.
+[Mon Apr 07 21:14:18 2014]  say: Tusken King: Least i think.
+[Mon Apr 07 21:14:21 2014]  say: ^7»^0Exo^1Р^0us^7«: Mhm
+[Mon Apr 07 21:14:26 2014]  say: Tusken King: Though due to the model build, features went lacking.
+[Mon Apr 07 21:14:32 2014]  say: Tusken King: such as headphones probably, dogtags.
+[Mon Apr 07 21:14:44 2014]  say: ^7»^0Exo^1Р^0us^7«: Dog tags are on, not headphones, naturally
+[Mon Apr 07 21:14:47 2014]  say: Tusken King: Hm.
+[Mon Apr 07 21:14:58 2014]  say: Tusken King: Pyro was another monster to work with.
+[Mon Apr 07 21:15:05 2014]  say: Tusken King: Right down to the messed up text on the mask.
+[Mon Apr 07 21:15:10 2014]  say: Tusken King: uses swamptrooper as the model.
+[Mon Apr 07 21:15:26 2014]  say: Tusken King: Still visible problem with the legs too.
+[Mon Apr 07 21:15:30 2014]  say: Tusken King: where there's a bit of blackout.
+[Mon Apr 07 21:15:39 2014]  say: Tusken King: Not on the front, sadly XD
+[Mon Apr 07 21:15:47 2014]  say: Tusken King: But this is due to the work on the foot for the dirt.
+[Mon Apr 07 21:15:50 2014]  say: Tusken King: [probably]
+[Mon Apr 07 21:15:53 2014]  say: ^7»^0Exo^1Р^0us^7«: Lol
+[Mon Apr 07 21:15:59 2014]  say: Tusken King: Engineer.. hm.
+[Mon Apr 07 21:16:02 2014]  say: Tusken King: he had a history of this project.
+[Mon Apr 07 21:16:08 2014]  say: Tusken King: Blue one lost his foot in the npc files.
+[Mon Apr 07 21:16:25 2014]  say: ^7»^0Exo^1Р^0us^7«: It looks like he has a double chin lol.
+[Mon Apr 07 21:16:25 2014]  say: Tusken King: Due to the model problem. both hands had to be the same resolute.
+[Mon Apr 07 21:16:32 2014]  say: Tusken King: thank you human_merc model. 
+[Mon Apr 07 21:16:35 2014]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Mon Apr 07 21:16:36 2014]  say: Tusken King: :p
+[Mon Apr 07 21:16:43 2014]  say: Tusken King: was the only sample with goggles. XD
+[Mon Apr 07 21:16:47 2014]  say: Tusken King: and a hardhatish build.
+[Mon Apr 07 21:16:52 2014]  say: ^7»^0Exo^1Р^0us^7«: Lol
+[Mon Apr 07 21:17:17 2014]  say: Tusken King: From that all, i winded up picking the most of friendliest taunts to use. [Basically no foul language use]
+[Mon Apr 07 21:17:27 2014]  say: Tusken King: due to family use at the time. ^_^
+[Mon Apr 07 21:17:51 2014]  say: Tusken King: All from the aside. they turned out somewhat alright.
+[Mon Apr 07 21:17:56 2014]  say: ^7»^0Exo^1Р^0us^7«: Yeah lol
+[Mon Apr 07 21:18:16 2014]  say: Tusken King: Luckly this time, i have dropbox'es client with me.
+[Mon Apr 07 21:18:26 2014]  say: Tusken King: which should let me reupload my old one with bot files. and get it working.
+[Mon Apr 07 21:18:47 2014]  say: Tusken King: As for manual overlay, pakscaping the bot files where they should go on your side, can keep yours, as you made it.
+[Mon Apr 07 21:18:54 2014]  say: ^7»^0Exo^1Р^0us^7«: K, but after i dl them, i'm off jka, i am starting to remember why i left xD <lack of life>
+[Mon Apr 07 21:18:59 2014]  say: Tusken King: XD
+[Mon Apr 07 21:19:13 2014]  say: Tusken King: It probably wont be now for that. :p
+[Mon Apr 07 21:19:22 2014]  say: ^7»^0Exo^1Р^0us^7«: what do you mean?
+[Mon Apr 07 21:19:26 2014]  say: Tusken King: The dropbox folders take time to process. and then we have errors.
+[Mon Apr 07 21:19:33 2014]  say: Tusken King: I Have suckier upload, versus download.
+[Mon Apr 07 21:19:56 2014]  say: Tusken King: Ah--
+[Mon Apr 07 21:20:14 2014]  say: Tusken King: I Guess it didnt need to wait as long.
+[Mon Apr 07 21:20:22 2014]  say: ^7»^0Exo^1Р^0us^7«: Lol
+[Mon Apr 07 21:20:32 2014]  say: Tusken King: Usually this thing gives me a week of trouble to work with.
+[Mon Apr 07 21:20:36 2014]  say: Tusken King: it is oddly accepting it instantly.
+[Mon Apr 07 21:20:40 2014]  say: Tusken King: as if it never was erased...
+[Mon Apr 07 21:21:06 2014]  say: Tusken King: Once you wind up fetching it from your PM [steam] check it with a pakscape or something.
+[Mon Apr 07 21:21:11 2014]  say: Tusken King: It should have the usual jkb's included.
+[Mon Apr 07 21:21:19 2014]  say: ^7»^0Exo^1Р^0us^7«: Augh, my headphones are dying.
+[Mon Apr 07 21:21:26 2014]  say: Tusken King: Hm.
+[Mon Apr 07 21:21:55 2014]  say: ^7»^0Exo^1Р^0us^7«: payed $30 each for two of these, the wire's faulty on both, and breaking all sound
+[Mon Apr 07 21:22:03 2014]  say: Tusken King: Thing with the npcs, as you might've tried. they all have their own voice things. XD
+[Mon Apr 07 21:22:06 2014]  say: ^7»^0Exo^1Р^0us^7«: and the ones i had before were 15$, and lasted 2.5 years.
+[Mon Apr 07 21:22:08 2014]  say: Tusken King: Which is real fun in the most part.
+[Mon Apr 07 21:22:23 2014]  say: Tusken King: Eh yeah, most of the money boost is probably cosmetic.
+[Mon Apr 07 21:22:41 2014]  say: ^7»^0Exo^1Р^0us^7«: Had to boost volume all the way up to 100
+[Mon Apr 07 21:22:42 2014]  say: ^7»^0Exo^1Р^0us^7«: ._.
+[Mon Apr 07 21:22:54 2014]  say: Tusken King: Careful some sounds wont blow up your ears.
+[Mon Apr 07 21:23:02 2014]  say: Tusken King: Incase it surges power back to normal levels.
+[Mon Apr 07 21:23:09 2014]  say: Tusken King: Oh right soldier.
+[Mon Apr 07 21:23:18 2014]  say: Tusken King: Forgot to even redisplay him.
+[Mon Apr 07 21:23:27 2014]  say: Tusken King: Soldier uses the rebel pilot model for his.
+[Mon Apr 07 21:23:51 2014]  say: Tusken King: though with the visor painted helmet, to make the illusion of the missing eye bit.
+[Mon Apr 07 21:24:02 2014]  say: Tusken King: [it's usually difficult to angle and see the real eyes]
+[Mon Apr 07 21:24:13 2014]  say: Tusken King: But, canon wise. and probably ragdoll. blue eyed.
+[Mon Apr 07 21:24:19 2014]  say: Tusken King: So i probabl yhad that ticked too.
+[Mon Apr 07 21:24:38 2014]  say: Tusken King: Most of the taunts seem to be laughs.
+[Mon Apr 07 21:24:48 2014]  say: Tusken King: XD
+[Mon Apr 07 21:24:50 2014]  say: ^7»^0Exo^1Р^0us^7«: I love this anim bug lol
+[Mon Apr 07 21:24:57 2014]  say: Tusken King: hm.
+[Mon Apr 07 21:25:12 2014]  say: ^7»^0Exo^1Р^0us^7«: Watch
+[Mon Apr 07 21:25:16 2014]  say: ^7»^0Exo^1Р^0us^7«: Shit
+[Mon Apr 07 21:25:28 2014]  say: ^7»^0Exo^1Р^0us^7«: Kk, now watch
+[Mon Apr 07 21:25:33 2014]  say: Tusken King: XD
+[Mon Apr 07 21:25:35 2014]  say: ^7»^0Exo^1Р^0us^7«: Lol
+[Mon Apr 07 21:25:39 2014]  say: Tusken King: Sort of just autoairblasts.
+[Mon Apr 07 21:26:10 2014]  say: Tusken King: XD
+[Mon Apr 07 21:26:14 2014]  say: Tusken King: [Pyro playermode]
+[Mon Apr 07 21:26:27 2014]  say: ^7»^0Exo^1Р^0us^7«: I blow up the rockets with rockets lol
+[Mon Apr 07 21:26:29 2014]  say: Tusken King: XD
+[Mon Apr 07 21:26:51 2014]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Mon Apr 07 21:27:02 2014]  say: Tusken King: It rocketed to the moon.
+[Mon Apr 07 21:27:25 2014]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Mon Apr 07 21:27:46 2014]  say: Tusken King: Amusing.
+[Mon Apr 07 21:27:53 2014]  say: Tusken King: seems when knockdowns applie dfuring a backflip.
+[Mon Apr 07 21:27:57 2014]  say: Tusken King: it instead just sends you downwards.
+[Mon Apr 07 21:28:03 2014]  say: ^7»^0Exo^1Р^0us^7«: I was actually too far for the knockdown :P
+[Mon Apr 07 21:28:09 2014]  say: ^7»^0Exo^1Р^0us^7«: Oh, apparently so
+[Mon Apr 07 21:28:21 2014]  say: Tusken King: so during anim > hit with alt.
+[Mon Apr 07 21:28:26 2014]  say: Tusken King: causes cancelation in air control.
+[Mon Apr 07 21:28:29 2014]  say: Tusken King: but continue of anim.
+[Mon Apr 07 21:28:58 2014]  say: Tusken King: I Think it's due to the control of backflip's anim freezing.
+[Mon Apr 07 21:29:11 2014]  say: Tusken King: In backward frontflip, it doent act as such.
+[Mon Apr 07 21:29:13 2014]  say: Tusken King: or frontflip normal.
+[Mon Apr 07 21:29:17 2014]  say: ^7»^0Exo^1Р^0us^7«: mattach is bugged again.
+[Mon Apr 07 21:29:21 2014]  say: Tusken King: Hm.
+[Mon Apr 07 21:29:30 2014]  say: Tusken King: XD
+[Mon Apr 07 21:29:32 2014]  say: ^7»^0Exo^1Р^0us^7«: Wheeeee
+[Mon Apr 07 21:29:37 2014]  say: Tusken King: And now im viewbug/ghosted.
+[Mon Apr 07 21:29:41 2014]  say: ^7»^0Exo^1Р^0us^7«: THAT is a rocketjump
+[Mon Apr 07 21:29:42 2014]  say: ^7»^0Exo^1Р^0us^7«: and lol.
+[Mon Apr 07 21:29:43 2014]  say: Tusken King: Did'ja fetch the https://www.dropbox.com/s/ofngh0kfgouhhr9/TF2pack.pk3 model? :p
+[Mon Apr 07 21:29:47 2014]  say: ^7»^0Exo^1Р^0us^7«: Mhm
+[Mon Apr 07 21:29:50 2014]  say: Tusken King: Ah, righty.
+[Mon Apr 07 21:29:56 2014]  Kill: 1 1 39: Tusken King killed Tusken King by MOD_SUICIDE
+[Mon Apr 07 21:30:41 2014]  say: Tusken King: The one you have now, should contain the right elements in the pakscape.
+[Mon Apr 07 21:30:45 2014]  say: ^7»^0Exo^1Р^0us^7«: Well imma play some pokernight, and after 2 tries of failing, we can gmod or tf2 by your choice :P
+[Mon Apr 07 21:30:47 2014]  say: ^7»^0Exo^1Р^0us^7«: Kk
+[Mon Apr 07 21:30:51 2014]  say: Tusken King: Righty. :p
+[Mon Apr 07 21:31:00 2014]  say: Tusken King: had to reset my mods after a frightful visit to that pac3 server.
+[Mon Apr 07 21:31:00 2014]  ClientDisconnect: 0
+[Mon Apr 07 21:31:03 2014]  ClientDisconnect: 1
+[Mon Apr 07 22:20:04 2014]  ClientConnect: 0
+[Mon Apr 07 22:20:04 2014]  mlog:Player ^0Crusher^L[M.A.S.O.N], connected. With IP - 91.240.103.119:29070 
+[Mon Apr 07 22:20:25 2014]  ClientBegin: 0
+[Mon Apr 07 22:20:55 2014]  say: Riyzaki: ^0Battle ^4Sorcerer ^0V^42 by ^0D^3arth ^0F^3urious
+[Mon Apr 07 22:21:39 2014]  say: Riyzaki: mkillall
+[Mon Apr 07 22:24:48 2014]  print "Riyzaki^7 @@@PLRENAME ^C^4^0Cr^4u^0sh^4e^0r
+"[Mon Apr 07 22:25:02 2014]  ClientDisconnect: 0
+[Mon Apr 07 22:28:24 2014]  ClientConnect: 0
+[Mon Apr 07 22:28:24 2014]  mlog:Player ^0Crusher^L[M.A.S.O.N], connected. With IP - 91.240.103.119:29070 
+[Mon Apr 07 22:28:34 2014]  ClientBegin: 0
+[Mon Apr 07 22:28:44 2014]  Item: 0 weapon_melee
+[Mon Apr 07 22:30:49 2014]  ClientConnect: 1
+[Mon Apr 07 22:30:49 2014]  mlog:Player ^2^^8OSIRIS^2[^8M.A.S.O.N^2]:, connected. With IP - 2.94.10.240:29070 
+[Mon Apr 07 22:30:55 2014]  ClientDisconnect: 1
+[Mon Apr 07 22:33:52 2014]  ClientConnect: 1
+[Mon Apr 07 22:33:52 2014]  mlog:Player ^2O^8SIRIS/^2M.A.S.O.N^8/, connected. With IP - 2.94.10.240:29070 
+[Mon Apr 07 22:33:58 2014]  ClientDisconnect: 1
+[Mon Apr 07 22:39:15 2014]  ClientDisconnect: 0
+[Mon Apr 07 22:39:16 2014]  ClientConnect: 1
+[Mon Apr 07 22:39:16 2014]  mlog:Player ^0G^2raf ^0M^2aestro ^0/M.A.S.O.N/, connected. With IP - 178.165.56.66:29070 
+[Mon Apr 07 22:39:47 2014]  ClientBegin: 1
+[Mon Apr 07 22:40:07 2014]  ClientConnect: 0
+[Mon Apr 07 22:40:07 2014]  mlog:Player ^C^4^0Cr^4u^0sh^4e^0r, connected. With IP - 91.240.103.119:29070 
+[Mon Apr 07 22:40:18 2014]  ClientBegin: 0
+[Mon Apr 07 22:41:02 2014]  print "PadaWan^7 @@@PLRENAME ^0G^2raf ^0M^2aestro^0
+"[Mon Apr 07 22:41:09 2014]  ClientConnect: 2
+[Mon Apr 07 22:41:09 2014]  mlog:Player ^2O^8SIRIS/^2M.A.S.O.N^8/, connected. With IP - 2.94.10.240:29070 
+[Mon Apr 07 22:41:15 2014]  ClientDisconnect: 2
+[Mon Apr 07 22:42:07 2014]  Kill: 1 1 39: ^0G^2raf ^0M^2aestro^0 killed ^0G^2raf ^0M^2aestro^0 by MOD_SUICIDE
+[Mon Apr 07 22:42:07 2014]  setteam:  1 FREE SPECTATOR
+[Mon Apr 07 22:42:07 2014]  ClientBegin: 1
+[Mon Apr 07 22:42:14 2014]  setteam:  1 SPECTATOR FREE
+[Mon Apr 07 22:42:14 2014]  ClientBegin: 1
+[Mon Apr 07 22:45:46 2014]  ClientConnect: 2
+[Mon Apr 07 22:45:46 2014]  mlog:Player ^2O^8SIRIS/^2M.A.S.O.N^8/, connected. With IP - 2.94.10.240:29071 
+[Mon Apr 07 22:45:50 2014]  ClientDisconnect: 2
+[Mon Apr 07 22:47:13 2014]  say: ^0G^2raf ^0M^2aestro^0: крашер?
+[Mon Apr 07 22:47:20 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: ты где?
+[Mon Apr 07 22:47:28 2014]  say: ^0G^2raf ^0M^2aestro^0: я ПРОБИЛ СТЕНУ
+[Mon Apr 07 22:47:42 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: иди в середину
+[Mon Apr 07 22:48:08 2014]  say: ^0G^2raf ^0M^2aestro^0: АГА
+[Mon Apr 07 22:48:29 2014]  say: ^0G^2raf ^0M^2aestro^0: ОГО 
+[Mon Apr 07 22:48:35 2014]  say: ^0G^2raf ^0M^2aestro^0: да ты дьявол
+[Mon Apr 07 22:48:48 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: ага почти не кто так не может
+[Mon Apr 07 22:48:58 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: только 3-4 человека
+[Mon Apr 07 22:49:11 2014]  say: ^0G^2raf ^0M^2aestro^0: админы только)
+[Mon Apr 07 22:49:18 2014]  say: ^0G^2raf ^0M^2aestro^0: где Осирис
+[Mon Apr 07 22:49:20 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: нет
+[Mon Apr 07 22:49:29 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: он не может зайти
+[Mon Apr 07 22:49:32 2014]  Item: 0 weapon_melee
+[Mon Apr 07 22:49:32 2014]  say: ^0G^2raf ^0M^2aestro^0: а ну сек
+[Mon Apr 07 22:50:13 2014]  say: ^0G^2raf ^0M^2aestro^0: предлагает на другой мод идти
+[Mon Apr 07 22:50:20 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: +
+[Mon Apr 07 22:50:34 2014]  Kill: 0 1 36: ^C^4^0Cr^4u^0sh^4e^0r killed ^0G^2raf ^0M^2aestro^0 by MOD_CRUSH
+[Mon Apr 07 22:50:44 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: не делай так
+[Mon Apr 07 22:50:56 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: дамаг очень велик
+[Mon Apr 07 22:51:08 2014]  say: ^0G^2raf ^0M^2aestro^0: Я заметил
+[Mon Apr 07 22:51:44 2014]  say: ^0G^2raf ^0M^2aestro^0: тааак
+[Mon Apr 07 22:51:51 2014]  say: ^0G^2raf ^0M^2aestro^0: куда Я попал
+[Mon Apr 07 22:51:59 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: мекер мод
+[Mon Apr 07 22:52:07 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: тут можно все
+[Mon Apr 07 22:53:21 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: ns ГДЕ?
+[Mon Apr 07 22:53:24 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: ты
+[Mon Apr 07 22:53:26 2014]  say: ^0G^2raf ^0M^2aestro^0: хз
+[Mon Apr 07 22:53:40 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: иди туда же
+[Mon Apr 07 22:53:48 2014]  say: ^0G^2raf ^0M^2aestro^0: там где статуя ситха
+[Mon Apr 07 22:53:54 2014]  say: ^0G^2raf ^0M^2aestro^0: Я не знаю где это
+[Mon Apr 07 22:53:55 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: хз
+[Mon Apr 07 22:54:10 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: выйди на открытое пространство
+[Mon Apr 07 22:54:16 2014]  say: ^0G^2raf ^0M^2aestro^0: вышел
+[Mon Apr 07 22:55:19 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: смотри в небо
+[Mon Apr 07 22:55:39 2014]  say: ^0G^2raf ^0M^2aestro^0: ничего
+[Mon Apr 07 22:55:49 2014]  say: ^0G^2raf ^0M^2aestro^0: отсюда нет выхода
+[Mon Apr 07 22:55:52 2014]  say: ^0G^2raf ^0M^2aestro^0: ппц
+[Mon Apr 07 22:56:21 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: что во круг тебя?
+[Mon Apr 07 22:56:41 2014]  say: ^0G^2raf ^0M^2aestro^0: стены, посередине статуя 
+[Mon Apr 07 22:57:14 2014]  say: ^0G^2raf ^0M^2aestro^0: оо Я нашел звездолет
+[Mon Apr 07 22:57:20 2014]  say: ^0G^2raf ^0M^2aestro^0: сокол
+[Mon Apr 07 22:57:43 2014]  say: ^0G^2raf ^0M^2aestro^0: ага
+[Mon Apr 07 22:57:50 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: иди обратно
+[Mon Apr 07 22:57:50 2014]  say: ^0G^2raf ^0M^2aestro^0: а пройти не могу к нему
+[Mon Apr 07 22:58:32 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: ты видел меня?
+[Mon Apr 07 22:58:34 2014]  say: ^0G^2raf ^0M^2aestro^0: ты куда пропал
+[Mon Apr 07 22:58:36 2014]  say: ^0G^2raf ^0M^2aestro^0: да
+[Mon Apr 07 22:59:14 2014]  say: ^0G^2raf ^0M^2aestro^0: читер блин
+[Mon Apr 07 23:00:20 2014]  say: ^0G^2raf ^0M^2aestro^0: ну ваще
+[Mon Apr 07 23:00:36 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: Я бог
+[Mon Apr 07 23:00:45 2014]  say: ^0G^2raf ^0M^2aestro^0: да-да)
+[Mon Apr 07 23:01:41 2014]  say: ^0G^2raf ^0M^2aestro^0: мде
+[Mon Apr 07 23:02:52 2014]  say: ^C^4^0Cr^4u^0sh^4e^0r: ладно го на масон жди там я пока найду еще мод
+[Mon Apr 07 23:02:58 2014]  say: ^0G^2raf ^0M^2aestro^0: ок
+[Mon Apr 07 23:03:03 2014]  ClientDisconnect: 0
+[Mon Apr 07 23:03:03 2014]  Exit: Timelimit hit.
+[Mon Apr 07 23:03:03 2014]  score: 1  ping: 122  client: 1 ^0G^2raf ^0M^2aestro^0
+[Mon Apr 07 23:03:07 2014]  ClientDisconnect: 1
+[Tue Apr 08 00:30:48 2014]  ClientConnect: 0
+[Tue Apr 08 00:30:48 2014]  mlog:Player ^2O^8SIRIS/^2M.A.S.O.N^8/, connected. With IP - 2.94.10.240:29070 
+[Tue Apr 08 00:30:55 2014]  ClientDisconnect: 0
+[Tue Apr 08 18:33:03 2014]  ClientConnect: 0
+[Tue Apr 08 18:33:03 2014]  mlog:Player ^6{P}^0Fu^5l^0sy^6{A}, connected. With IP - 24.61.25.128:29070 
+[Tue Apr 08 18:33:29 2014]  ClientBegin: 0
+[Tue Apr 08 18:33:33 2014]  ShutdownGame:
+[Tue Apr 08 18:33:33 2014]  ------------------------------------------------------------

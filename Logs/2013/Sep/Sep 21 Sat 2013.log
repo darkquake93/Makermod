@@ -1,0 +1,706 @@
+[Sat Sep 21 20:00:09 2013]  ------------------------------------------------------------
+[Sat Sep 21 20:00:09 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 21 20:01:39 2013]  ClientConnect: 0
+[Sat Sep 21 20:01:39 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Sat Sep 21 20:01:59 2013]  ClientBegin: 0
+[Sat Sep 21 20:02:44 2013]  ClientDisconnect: 0
+[Sat Sep 21 20:02:44 2013]  ClientDisconnect: 0
+[Sat Sep 21 20:02:44 2013]  ClientConnect: 0
+[Sat Sep 21 20:02:44 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Sat Sep 21 20:02:47 2013]  ClientBegin: 0
+[Sat Sep 21 20:03:30 2013]  ShutdownGame:
+[Sat Sep 21 20:03:30 2013]  ------------------------------------------------------------
+[Sat Sep 21 20:03:30 2013]  ------------------------------------------------------------
+[Sat Sep 21 20:03:30 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 21 20:03:32 2013]  ClientConnect: 0
+[Sat Sep 21 20:03:35 2013]  ClientBegin: 0
+[Sat Sep 21 20:03:54 2013]  ShutdownGame:
+[Sat Sep 21 20:03:54 2013]  ------------------------------------------------------------
+[Sat Sep 21 20:03:55 2013]  ------------------------------------------------------------
+[Sat Sep 21 20:03:55 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 21 20:03:56 2013]  ClientConnect: 0
+[Sat Sep 21 20:04:00 2013]  ClientBegin: 0
+[Sat Sep 21 20:04:36 2013]  ShutdownGame:
+[Sat Sep 21 20:04:36 2013]  ------------------------------------------------------------
+[Sat Sep 21 20:04:36 2013]  ------------------------------------------------------------
+[Sat Sep 21 20:04:36 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 21 20:04:38 2013]  ClientConnect: 0
+[Sat Sep 21 20:04:41 2013]  ClientBegin: 0
+[Sat Sep 21 20:04:57 2013]  ClientDisconnect: 0
+[Sat Sep 21 20:04:57 2013]  ClientDisconnect: 0
+[Sat Sep 21 20:04:57 2013]  ClientConnect: 0
+[Sat Sep 21 20:04:57 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Sat Sep 21 20:05:01 2013]  ClientBegin: 0
+[Sat Sep 21 20:11:37 2013]  ClientDisconnect: 0
+[Sat Sep 21 20:16:06 2013]  ClientConnect: 0
+[Sat Sep 21 20:16:06 2013]  mlog:Player ^7Ghost^3True^7Capitalist, connected. With IP - 75.94.222.14:29070 
+[Sat Sep 21 20:17:57 2013]  ClientBegin: 0
+[Sat Sep 21 20:20:41 2013]  ClientConnect: 1
+[Sat Sep 21 20:20:41 2013]  mlog:Player ^0Lord^1Ethan, connected. With IP - 184.180.250.130:29070 
+[Sat Sep 21 20:20:53 2013]  ClientBegin: 1
+[Sat Sep 21 20:20:59 2013]  say: ^0Lord^1Ethan: hello
+[Sat Sep 21 20:21:08 2013]  say: ^7Ghost^3True^7Capitalist: Hi
+[Sat Sep 21 20:21:37 2013]  say: ^0Lord^1Ethan: trying to rember my bind for makermod
+[Sat Sep 21 20:21:42 2013]  say: ^0Lord^1Ethan: ^1SHUT UP SHUT UP SHUT UP SHUT UP
+[Sat Sep 21 20:21:53 2013]  say: ^0Lord^1Ethan: ^1SHUT UP SHUT UP SHUT UP SHUT UP
+[Sat Sep 21 20:22:08 2013]  say: ^7Ghost^3True^7Capitalist: lol
+[Sat Sep 21 20:22:21 2013]  say: ^7Ghost^3True^7Capitalist: Don't use scripts..lags the game on my toaster
+[Sat Sep 21 20:22:25 2013]  say: ^0Lord^1Ethan: ok dont know what button i clikc for these
+[Sat Sep 21 20:22:53 2013]  say: ^0Lord^1Ethan: this server is laggy
+[Sat Sep 21 20:23:05 2013]  say: ^7Ghost^3True^7Capitalist: Better then EU
+[Sat Sep 21 20:23:07 2013]  say: ^7Ghost^3True^7Capitalist: tleast for me
+[Sat Sep 21 20:23:15 2013]  say: ^0Lord^1Ethan: no EU was batter for me
+[Sat Sep 21 20:23:23 2013]  say: ^7Ghost^3True^7Capitalist: I live in america..
+[Sat Sep 21 20:23:25 2013]  say: ^0Lord^1Ethan: bit they all speak german
+[Sat Sep 21 20:23:26 2013]  say: ^7Ghost^3True^7Capitalist: ..
+[Sat Sep 21 20:23:30 2013]  say: ^0Lord^1Ethan: same here
+[Sat Sep 21 20:24:02 2013]  say: ^0Lord^1Ethan: ok up arrow gives me health
+[Sat Sep 21 20:26:28 2013]  Kill: 1 1 39: ^0Lord^1Ethan killed ^0Lord^1Ethan by MOD_SUICIDE
+[Sat Sep 21 20:26:32 2013]  say: ^0Lord^1Ethan: ^1SHUT UP SHUT UP SHUT UP SHUT UP
+[Sat Sep 21 20:27:04 2013]  ClientDisconnect: 1
+[Sat Sep 21 20:34:10 2013]  ClientConnect: 1
+[Sat Sep 21 20:34:10 2013]  mlog:Player NAMEHERE, connected. With IP - 81.155.187.195:29070 
+[Sat Sep 21 20:34:41 2013]  ClientBegin: 1
+[Sat Sep 21 20:34:53 2013]  say: ^4Ad^0min We^2st: hello
+[Sat Sep 21 20:35:29 2013]  say: ^4Ad^0min We^2st: is he lagging server
+[Sat Sep 21 20:36:08 2013]  ClientConnect: 2
+[Sat Sep 21 20:36:08 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Sat Sep 21 20:36:13 2013]  ClientBegin: 2
+[Sat Sep 21 20:36:23 2013]  say: ^0Darkquake is back!: seems fine for me
+[Sat Sep 21 20:36:25 2013]  say: ^4Ad^0min We^2st: cool how do u chat as the server
+[Sat Sep 21 20:36:28 2013]  say: ^0Darkquake is back!: he's the only one with 999 ping
+[Sat Sep 21 20:36:42 2013]  say: ^0Darkquake is back!: I run the jedi academy dedicated server
+[Sat Sep 21 20:36:44 2013]  say: ^4Ad^0min We^2st: hi server
+[Sat Sep 21 20:36:48 2013]  say: ^0Darkquake is back!: it's been part of it for a while :)
+[Sat Sep 21 20:37:07 2013]  say: ^4Ad^0min We^2st: i can be 2 people
+[Sat Sep 21 20:37:19 2013]  say: ^0Darkquake is back!: anyway playing SWTOR atm sry :p The server's not lagging though
+[Sat Sep 21 20:37:24 2013]  ClientDisconnect: 2
+[Sat Sep 21 20:37:29 2013]  say: ^4Ad^0min We^2st: oh not i  i mean u
+[Sat Sep 21 20:37:47 2013]  say: ^4Ad^0min We^2st: lol
+[Sat Sep 21 20:38:04 2013]  say: ^4Ad^0min We^2st: nice
+[Sat Sep 21 20:39:05 2013]  say: ^4Ad^0min We^2st: what level are u on 
+[Sat Sep 21 20:39:19 2013]  say: ^4Ad^0min We^2st: on Swtor
+[Sat Sep 21 20:39:58 2013]  say: ^4Ad^0min We^2st: nice 55
+[Sat Sep 21 20:40:24 2013]  say: ^4Ad^0min We^2st: i  wont bother u know im going to make a ahouse
+[Sat Sep 21 20:40:56 2013]  say: ^4Ad^0min We^2st: ok
+[Sat Sep 21 20:41:09 2013]  say: ^4Ad^0min We^2st: need to write it down before i forget
+[Sat Sep 21 20:43:21 2013]  say: ^4Ad^0min We^2st: by the way have u met maglus yet
+[Sat Sep 21 20:44:14 2013]  say: ^4Ad^0min We^2st: same as me
+[Sat Sep 21 20:44:59 2013]  say: ^4Ad^0min We^2st: how do i get a door
+[Sat Sep 21 20:48:06 2013]  say: ^4Ad^0min We^2st: i have
+[Sat Sep 21 20:48:35 2013]  say: ^4Ad^0min We^2st: im a bit fast becouse i have had this years
+[Sat Sep 21 20:49:06 2013]  say: ^4Ad^0min We^2st: some i can just do like /mplace nar_shaddar/reelosdesk
+[Sat Sep 21 20:50:36 2013]  say: ^4Ad^0min We^2st: oh nice i got the right bire panel
+[Sat Sep 21 20:51:54 2013]  say: ^4Ad^0min We^2st: ok
+[Sat Sep 21 20:53:05 2013]  say: ^4Ad^0min We^2st: thats house done
+[Sat Sep 21 20:53:37 2013]  say: ^4Ad^0min We^2st: hello little fishy lol
+[Sat Sep 21 20:56:20 2013]  ClientConnect: 2
+[Sat Sep 21 20:56:20 2013]  mlog:Player MadBob, connected. With IP - 82.46.74.207:29070 
+[Sat Sep 21 20:56:29 2013]  say: ^4Ad^0min We^2st: whoes that 
+[Sat Sep 21 20:56:59 2013]  say: ^4Ad^0min We^2st: ill see when he comes
+[Sat Sep 21 20:57:08 2013]  ClientBegin: 2
+[Sat Sep 21 20:57:16 2013]  say: ^4Ad^0min We^2st: hi dark jedi
+[Sat Sep 21 20:57:40 2013]  say: Dark_Jedi: hey i have not played this game in ages
+[Sat Sep 21 20:57:56 2013]  say: ^4Ad^0min We^2st: srsly
+[Sat Sep 21 20:58:33 2013]  say: ^4Ad^0min We^2st: the server is here dark jedi
+[Sat Sep 21 20:58:35 2013]  say: Dark_Jedi: no ive been away from the game for ages
+[Sat Sep 21 20:59:45 2013]  say: ^4Ad^0min We^2st: be back in a min im going to see your webside dark quake
+[Sat Sep 21 20:59:58 2013]  say: ^4Ad^0min We^2st: see u in a min
+[Sat Sep 21 21:00:00 2013]  ClientDisconnect: 0
+[Sat Sep 21 21:00:00 2013]  ClientDisconnect: 1
+[Sat Sep 21 21:00:03 2013]  Item: 2 weapon_demp2
+[Sat Sep 21 21:03:26 2013]  ClientConnect: 0
+[Sat Sep 21 21:03:26 2013]  mlog:Player NAMEHERE, connected. With IP - 81.155.187.195:29070 
+[Sat Sep 21 21:03:55 2013]  ClientBegin: 0
+[Sat Sep 21 21:04:01 2013]  say: ^4Ad^0min We^2st: back
+[Sat Sep 21 21:04:20 2013]  say: ^4Ad^0min We^2st: quake i got the element script
+[Sat Sep 21 21:04:21 2013]  say: ^4Ad^0min We^2st: v2
+[Sat Sep 21 21:04:30 2013]  say: ^4Ad^0min We^2st: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sat Sep 21 21:04:32 2013]  say: ^4Ad^0min We^2st: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 21 21:04:53 2013]  say: ^4Ad^0min We^2st: lets cheack these out
+[Sat Sep 21 21:05:02 2013]  say: ^4Ad^0min We^2st: ^2ACID ^3BLAST!
+[Sat Sep 21 21:05:07 2013]  say: ^4Ad^0min We^2st: ^1GRAVEL ^4SHOT!
+[Sat Sep 21 21:05:19 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:05:23 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:05:27 2013]  Kill: 0 2 0: ^4Ad^0min We^2st killed Dark_Jedi by MOD_UNKNOWN
+[Sat Sep 21 21:05:27 2013]  say: ^4Ad^0min We^2st: ^1FIRE ^5SURROUND!
+[Sat Sep 21 21:05:42 2013]  say: Dark_Jedi: y
+[Sat Sep 21 21:05:42 2013]  say: ^4Ad^0min We^2st: ^1FIRE ^5SURROUND!
+[Sat Sep 21 21:05:44 2013]  say: Dark_Jedi: nice
+[Sat Sep 21 21:06:01 2013]  say: ^4Ad^0min We^2st: v1 is a bit better but its still cool
+[Sat Sep 21 21:06:16 2013]  say: ^4Ad^0min We^2st: die darth maul
+[Sat Sep 21 21:06:28 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:06:32 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:06:38 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:06:40 2013]  Kill: 0 2 0: ^4Ad^0min We^2st killed Dark_Jedi by MOD_UNKNOWN
+[Sat Sep 21 21:06:51 2013]  say: Dark_Jedi: ow my britches are burnt
+[Sat Sep 21 21:07:03 2013]  say: ^4Ad^0min We^2st: my house welcome
+[Sat Sep 21 21:07:28 2013]  say: Dark_Jedi: nice
+[Sat Sep 21 21:07:37 2013]  say: ^4Ad^0min We^2st: just builed today
+[Sat Sep 21 21:07:43 2013]  say: Dark_Jedi: nice i done a few maps for sof2, jk3 and hl1
+[Sat Sep 21 21:07:59 2013]  say: Dark_Jedi: wats this ?
+[Sat Sep 21 21:08:06 2013]  say: ^4Ad^0min We^2st: fish tan
+[Sat Sep 21 21:08:07 2013]  say: ^4Ad^0min We^2st: k
+[Sat Sep 21 21:08:16 2013]  say: Dark_Jedi: i cant see it not got the model
+[Sat Sep 21 21:08:37 2013]  say: ^4Ad^0min We^2st: do /mplace nar_shaddar/fishtank
+[Sat Sep 21 21:08:41 2013]  say: ^4Ad^0min We^2st: and see
+[Sat Sep 21 21:09:05 2013]  say: ^4Ad^0min We^2st: its the same
+[Sat Sep 21 21:09:09 2013]  say: ^4Ad^0min We^2st: fish tank
+[Sat Sep 21 21:09:15 2013]  say: ^4Ad^0min We^2st: whats its like for u
+[Sat Sep 21 21:09:26 2013]  say: Dark_Jedi: still cant see it
+[Sat Sep 21 21:09:32 2013]  say: Dark_Jedi: odd
+[Sat Sep 21 21:09:33 2013]  say: ^4Ad^0min We^2st: ?
+[Sat Sep 21 21:09:42 2013]  say: ^4Ad^0min We^2st: i dont know whats wrong
+[Sat Sep 21 21:09:57 2013]  say: Dark_Jedi: i had to reload windows so i think some things are corrupt
+[Sat Sep 21 21:10:04 2013]  say: ^4Ad^0min We^2st: oh
+[Sat Sep 21 21:10:11 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:10:14 2013]  say: Dark_Jedi: ik it sucks
+[Sat Sep 21 21:10:14 2013]  say: ^4Ad^0min We^2st: ^1FIRE ^5SURROUND!
+[Sat Sep 21 21:10:33 2013]  say: ^4Ad^0min We^2st: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Sat Sep 21 21:10:33 2013]  say: Dark_Jedi: i made a map a
+[Sat Sep 21 21:10:37 2013]  say: ^4Ad^0min We^2st: ^3ELEMENTAL ^3C^4R^3E^4A^3T^4I^3O^4N!
+[Sat Sep 21 21:10:49 2013]  Kill: 1022 2 3: <world> killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:10:54 2013]  say: Dark_Jedi: i made a map called hoth1 and subway for this game
+[Sat Sep 21 21:10:59 2013]  say: ^4Ad^0min We^2st: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Sat Sep 21 21:11:04 2013]  say: ^4Ad^0min We^2st: ^3ELEMENTAL ^3C^4R^3E^4A^3T^4I^3O^4N!
+[Sat Sep 21 21:11:26 2013]  say: ^4Ad^0min We^2st: ^5AIR ^5WAVE!
+[Sat Sep 21 21:11:30 2013]  say: ^4Ad^0min We^2st: ^3SANDSTORM!
+[Sat Sep 21 21:11:32 2013]  say: Dark_Jedi: and a few different ones for sof2
+[Sat Sep 21 21:11:34 2013]  say: ^4Ad^0min We^2st: ^3SANDSTORM!
+[Sat Sep 21 21:11:45 2013]  say: Dark_Jedi: thats a cool fx
+[Sat Sep 21 21:11:47 2013]  say: ^4Ad^0min We^2st: ^2ACID ^3BLAST!
+[Sat Sep 21 21:11:48 2013]  Kill: 0 2 36: ^4Ad^0min We^2st killed Dark_Jedi by MOD_CRUSH
+[Sat Sep 21 21:11:56 2013]  say: ^4Ad^0min We^2st: ops sry
+[Sat Sep 21 21:11:58 2013]  say: ^4Ad^0min We^2st: ^1GRAVEL ^4SHOT!
+[Sat Sep 21 21:12:01 2013]  say: Dark_Jedi: np
+[Sat Sep 21 21:12:09 2013]  say: Dark_Jedi: /
+[Sat Sep 21 21:12:13 2013]  say: ^4Ad^0min We^2st: just got this script today just testing them
+[Sat Sep 21 21:12:20 2013]  say: ^4Ad^0min We^2st: ^1FIRE ^5SURROUND!
+[Sat Sep 21 21:12:39 2013]  say: ^4Ad^0min We^2st: if u want to kill it do /mkillall
+[Sat Sep 21 21:12:50 2013]  say: ^4Ad^0min We^2st: or /mkill
+[Sat Sep 21 21:12:50 2013]  say: Dark_Jedi: no am commands ?
+[Sat Sep 21 21:13:28 2013]  ClientConnect: 1
+[Sat Sep 21 21:13:28 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Sat Sep 21 21:13:32 2013]  say: Dark_Jedi: amsleep ?
+[Sat Sep 21 21:13:34 2013]  ClientBegin: 1
+[Sat Sep 21 21:13:35 2013]  say: ^4Ad^0min We^2st: its m then the emote this is /msleep
+[Sat Sep 21 21:13:47 2013]  say: ^4Ad^0min We^2st: hi server 
+[Sat Sep 21 21:13:50 2013]  say: ^0Darkquake is back!: hey :)
+[Sat Sep 21 21:14:06 2013]  say: ^0Darkquake is back!: :p
+[Sat Sep 21 21:14:11 2013]  say: ^4Ad^0min We^2st: ^5AIR ^5WAVE!
+[Sat Sep 21 21:14:15 2013]  say: ^4Ad^0min We^2st: ^5AIR ^5WAVE!
+[Sat Sep 21 21:14:26 2013]  say: ^4Ad^0min We^2st: your script is nice quake
+[Sat Sep 21 21:14:28 2013]  say: ^4Ad^0min We^2st: ^3SANDSTORM!
+[Sat Sep 21 21:14:32 2013]  say: ^0Darkquake is back!: Thx :)
+[Sat Sep 21 21:14:38 2013]  say: ^4Ad^0min We^2st: ^4WATERFALL!
+[Sat Sep 21 21:14:42 2013]  say: ^4Ad^0min We^2st: ^4WATER ^3PROTECTION!
+[Sat Sep 21 21:14:45 2013]  Kill: 1 2 0: ^0Darkquake is back! killed Dark_Jedi by MOD_UNKNOWN
+[Sat Sep 21 21:14:45 2013]  say: ^0Darkquake is back!: I've gotta put all the muted versions up though
+[Sat Sep 21 21:14:50 2013]  say: ^0Darkquake is back!: cause the chat gets annoying :p
+[Sat Sep 21 21:14:59 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:15:01 2013]  Kill: 0 2 0: ^4Ad^0min We^2st killed Dark_Jedi by MOD_UNKNOWN
+[Sat Sep 21 21:15:07 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:15:08 2013]  Kill: 0 1 36: ^4Ad^0min We^2st killed ^0Darkquake is back! by MOD_CRUSH
+[Sat Sep 21 21:15:10 2013]  say: Dark_Jedi: ahhhhh
+[Sat Sep 21 21:15:16 2013]  say: ^0Darkquake is back!: :p
+[Sat Sep 21 21:15:22 2013]  say: ^4Ad^0min We^2st: xD
+[Sat Sep 21 21:15:24 2013]  say: Dark_Jedi: /
+[Sat Sep 21 21:15:28 2013]  Kill: 0 2 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:15:30 2013]  say: ^0Darkquake is back!: check out my house :)
+[Sat Sep 21 21:15:34 2013]  say: ^0Darkquake is back!: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Sat Sep 21 21:15:34 2013]  say: ^4Ad^0min We^2st: ok
+[Sat Sep 21 21:15:36 2013]  say: ^4Ad^0min We^2st: were are u
+[Sat Sep 21 21:15:38 2013]  say: ^0Darkquake is back!: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Sat Sep 21 21:15:43 2013]  say: ^4Ad^0min We^2st: nice
+[Sat Sep 21 21:15:59 2013]  say: ^0Darkquake is back!: fishtank ^^
+[Sat Sep 21 21:16:00 2013]  say: ^4Ad^0min We^2st: your house is better than mine
+[Sat Sep 21 21:16:03 2013]  say: ^0Darkquake is back!: gotta have it
+[Sat Sep 21 21:16:03 2013]  say: Dark_Jedi: no npc commands ?
+[Sat Sep 21 21:16:15 2013]  say: ^0Darkquake is back!: huh?
+[Sat Sep 21 21:16:25 2013]  say: ^0Darkquake is back!: I may have restricted some things :p what's wrong?
+[Sat Sep 21 21:16:29 2013]  say: ^4Ad^0min We^2st: there is
+[Sat Sep 21 21:16:32 2013]  say: Dark_Jedi: what u use to build the houses
+[Sat Sep 21 21:16:35 2013]  ClientDisconnect: 2
+[Sat Sep 21 21:16:35 2013]  ClientDisconnect: 0
+[Sat Sep 21 21:16:49 2013]  ------------------------------------------------------------
+[Sat Sep 21 21:16:49 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 21 21:16:56 2013]  ClientConnect: 0
+[Sat Sep 21 21:16:56 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Sat Sep 21 21:16:59 2013]  ClientBegin: 0
+[Sat Sep 21 21:18:12 2013]  ClientConnect: 1
+[Sat Sep 21 21:18:12 2013]  mlog:Player MadBob, connected. With IP - 82.46.74.207:29070 
+[Sat Sep 21 21:18:40 2013]  ------------------------------------------------------------
+[Sat Sep 21 21:18:40 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 21 21:18:45 2013]  ClientConnect: 0
+[Sat Sep 21 21:18:45 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Sat Sep 21 21:18:49 2013]  ClientBegin: 0
+[Sat Sep 21 21:22:08 2013]  ClientConnect: 1
+[Sat Sep 21 21:22:08 2013]  mlog:Player MadBob, connected. With IP - 82.46.74.207:29070 
+[Sat Sep 21 21:22:55 2013]  ClientBegin: 1
+[Sat Sep 21 21:23:20 2013]  say: Dark_Jedi: darkquake
+[Sat Sep 21 21:23:30 2013]  say: ^0Darkquake is back!: yeah, sorry I spawned a custom vehicle by accident..
+[Sat Sep 21 21:23:35 2013]  say: ^0Darkquake is back!: I just unbinded the key
+[Sat Sep 21 21:23:43 2013]  ClientConnect: 2
+[Sat Sep 21 21:23:43 2013]  mlog:Player Padawan, connected. With IP - 79.114.202.85:29070 
+[Sat Sep 21 21:23:45 2013]  say: Dark_Jedi: does your server accept designed maps ?
+[Sat Sep 21 21:23:58 2013]  say: Dark_Jedi: i have a few i made for jk3
+[Sat Sep 21 21:24:04 2013]  say: ^0Darkquake is back!: Yeah it's able to run any custom map
+[Sat Sep 21 21:24:06 2013]  ClientBegin: 2
+[Sat Sep 21 21:24:15 2013]  say: Dark_Jedi: kool u wanna see some of mine
+[Sat Sep 21 21:24:34 2013]  say: ^0Darkquake is back!: But of course people would have to download the same map to play on it
+[Sat Sep 21 21:24:45 2013]  say: ^0Darkquake is back!: so for permanent ones I can put a link on my website
+[Sat Sep 21 21:24:50 2013]  say: Dark_Jedi: of course i have it cos i designed it
+[Sat Sep 21 21:24:57 2013]  say: ^0Darkquake is back!: yeah I know that
+[Sat Sep 21 21:25:00 2013]  say: Dark_Jedi: lol
+[Sat Sep 21 21:25:01 2013]  say: ^0Darkquake is back!: but I mean everyone else
+[Sat Sep 21 21:25:11 2013]  say: ^0Darkquake is back!: like everyone has t2_trip cause it's in the game
+[Sat Sep 21 21:25:18 2013]  say: Dark_Jedi: can i upload it to the website for u to try >?
+[Sat Sep 21 21:25:33 2013]  print "^7{^4LR^7}^^4R^7aziel^7 @@@PLRENAME panda
+"[Sat Sep 21 21:25:33 2013]  say: ^0Darkquake is back!: That's an idea actually
+[Sat Sep 21 21:25:37 2013]  say: ^0Darkquake is back!: I need a site uploader
+[Sat Sep 21 21:26:11 2013]  say: Dark_Jedi: all my maps were originally on megaiupload for people to link to but it went down
+[Sat Sep 21 21:26:19 2013]  say: ^0Darkquake is back!: oh right
+[Sat Sep 21 21:26:23 2013]  say: ^0Darkquake is back!: well how big is it?
+[Sat Sep 21 21:26:31 2013]  say: Dark_Jedi: and all my videos,,
+[Sat Sep 21 21:26:41 2013]  say: Dark_Jedi: urm ill see and log back in ??
+[Sat Sep 21 21:26:51 2013]  say: ^0Darkquake is back!: You can alt-tab out of the game
+[Sat Sep 21 21:26:54 2013]  say: ^0Darkquake is back!: to check
+[Sat Sep 21 21:27:03 2013]  say: Dark_Jedi: they r only amateur ones mind im no expert mapper
+[Sat Sep 21 21:27:13 2013]  say: ^0Darkquake is back!: alright
+[Sat Sep 21 21:27:15 2013]  say: Dark_Jedi: but not bad
+[Sat Sep 21 21:27:19 2013]  say: ^0Darkquake is back!: I have an idea though
+[Sat Sep 21 21:27:19 2013]  say: panda: ^1Welcome to Justin's buffet
+[Sat Sep 21 21:27:26 2013]  say: Dark_Jedi: i go and check the file size
+[Sat Sep 21 21:27:28 2013]  say: panda: lol
+[Sat Sep 21 21:27:30 2013]  say: ^0Darkquake is back!: I could try hosting a separate server on my laptop to use custom maps on
+[Sat Sep 21 21:27:40 2013]  say: Dark_Jedi: kool
+[Sat Sep 21 21:27:48 2013]  say: ^0Darkquake is back!: Not sure if it'll work though
+[Sat Sep 21 21:27:52 2013]  say: ^0Darkquake is back!: But it's worth a try
+[Sat Sep 21 21:27:57 2013]  say: ^0Darkquake is back!: I'll try to set that up now
+[Sat Sep 21 21:28:03 2013]  say: Dark_Jedi: i had my own website but it kept getting spawmed and infected so i gave up
+[Sat Sep 21 21:28:05 2013]  say: ^0Darkquake is back!: so I can still have this one up for others :)
+[Sat Sep 21 21:28:23 2013]  say: ^0Darkquake is back!: haha damn, yeah I hate spammers
+[Sat Sep 21 21:28:30 2013]  say: ^0Darkquake is back!: anyway check the file size
+[Sat Sep 21 21:28:35 2013]  say: Dark_Jedi: ok BRB
+[Sat Sep 21 21:28:39 2013]  say: ^0Darkquake is back!: and if it's small email it to me or something
+[Sat Sep 21 21:28:42 2013]  say: ^0Darkquake is back!: yeah cya soon
+[Sat Sep 21 21:28:45 2013]  ClientDisconnect: 1
+[Sat Sep 21 21:31:18 2013]  ClientConnect: 1
+[Sat Sep 21 21:31:18 2013]  mlog:Player MadBob, connected. With IP - 82.46.74.207:29070 
+[Sat Sep 21 21:32:07 2013]  ClientBegin: 1
+[Sat Sep 21 21:32:30 2013]  say: Dark_Jedi: im back i seen the .bsp files
+[Sat Sep 21 21:32:53 2013]  say: Dark_Jedi: are they in megs ?
+[Sat Sep 21 21:33:27 2013]  Kill: 2 2 36: panda killed panda by MOD_CRUSH
+[Sat Sep 21 21:34:04 2013]  say: Dark_Jedi: hey darkquake !!
+[Sat Sep 21 21:34:21 2013]  say: Dark_Jedi: r u afk 
+[Sat Sep 21 21:34:23 2013]  Kill: 2 2 36: panda killed panda by MOD_CRUSH
+[Sat Sep 21 21:34:48 2013]  Kill: 1 0 3: Dark_Jedi killed ^0Darkquake is back! by MOD_SABER
+[Sat Sep 21 21:35:18 2013]  Kill: 2 1 3: panda killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:35:23 2013]  say: Dark_Jedi: gf
+[Sat Sep 21 21:36:30 2013]  Kill: 1 2 3: Dark_Jedi killed panda by MOD_SABER
+[Sat Sep 21 21:36:34 2013]  say: Dark_Jedi: gf
+[Sat Sep 21 21:36:45 2013]  Kill: 2 1 3: panda killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:37:23 2013]  say: ^0Darkquake is back!: Hey sorry I'm in the middle of setting up the custom maps server :p
+[Sat Sep 21 21:37:38 2013]  say: ^0Darkquake is back!: so yeah how big were the whole pk3's for your maps?
+[Sat Sep 21 21:37:40 2013]  say: Dark_Jedi: ahh i seen the .bsp file
+[Sat Sep 21 21:38:05 2013]  say: Dark_Jedi: they were in megs right ?
+[Sat Sep 21 21:38:27 2013]  say: panda: ^6Raawr ^3gives ^3you ^3the ^0''Up^0Spell''
+[Sat Sep 21 21:38:29 2013]  say: ^0Darkquake is back!: yeah
+[Sat Sep 21 21:38:29 2013]  say: Dark_Jedi: prison-hell was 1.8meg
+[Sat Sep 21 21:38:32 2013]  say: panda: ^6Raawr ^3gives ^3you ^3the ^0''Up^0Spell''
+[Sat Sep 21 21:38:36 2013]  say: panda: ^6Raawr ^3gives ^3you ^3the ^0''Up^0Spell''
+[Sat Sep 21 21:38:38 2013]  say: ^0Darkquake is back!: alright that's not much at all
+[Sat Sep 21 21:38:39 2013]  say: Dark_Jedi: ??
+[Sat Sep 21 21:38:51 2013]  say: Dark_Jedi: hoth1 was 6.6m
+[Sat Sep 21 21:38:57 2013]  say: ^0Darkquake is back!: kk
+[Sat Sep 21 21:39:11 2013]  say: ^0Darkquake is back!: Do you have Skype?
+[Sat Sep 21 21:39:19 2013]  say: ^0Darkquake is back!: that'd probably be best to send a few megs over
+[Sat Sep 21 21:39:27 2013]  say: Dark_Jedi: my last map subway was 22.7m but its huge and lots of stuff
+[Sat Sep 21 21:39:31 2013]  say: ^0Darkquake is back!: in the future I'll have a site uploader working
+[Sat Sep 21 21:39:43 2013]  say: ^0Darkquake is back!: well through skype you can send me everything if you like
+[Sat Sep 21 21:39:49 2013]  say: ^0Darkquake is back!: do you have a good upload speed?
+[Sat Sep 21 21:39:51 2013]  say: Dark_Jedi: and has movint trains atec
+[Sat Sep 21 21:39:58 2013]  say: ^0Darkquake is back!: we're on Fibre-optic :D
+[Sat Sep 21 21:40:06 2013]  ClientConnect: 3
+[Sat Sep 21 21:40:06 2013]  mlog:Player NAMEHERE, connected. With IP - 81.155.187.195:29070 
+[Sat Sep 21 21:40:08 2013]  say: Dark_Jedi: 60meg broadband
+[Sat Sep 21 21:40:22 2013]  say: ^0Darkquake is back!: cool
+[Sat Sep 21 21:40:27 2013]  say: Dark_Jedi: thnx
+[Sat Sep 21 21:40:29 2013]  say: ^0Darkquake is back!: so 6mb/s down and up?
+[Sat Sep 21 21:40:36 2013]  ClientBegin: 3
+[Sat Sep 21 21:40:47 2013]  say: ^4Ad^0min We^2st: did the server crash
+[Sat Sep 21 21:40:57 2013]  say: ^0Darkquake is back!: yeah sorry I spawned a custom vehicle by accident
+[Sat Sep 21 21:41:05 2013]  say: ^0Darkquake is back!: I've unbinded the key now :p
+[Sat Sep 21 21:41:10 2013]  say: Dark_Jedi: dwn i think i never upload much
+[Sat Sep 21 21:41:17 2013]  say: ^0Darkquake is back!: alright
+[Sat Sep 21 21:41:31 2013]  say: Dark_Jedi: just played lan with my boys
+[Sat Sep 21 21:41:31 2013]  say: ^0Darkquake is back!: well would you like to add me on Skype? Then you can send me the files easily
+[Sat Sep 21 21:41:40 2013]  say: ^0Darkquake is back!: and I'll try to get em on the custom server
+[Sat Sep 21 21:41:58 2013]  say: Dark_Jedi: i had skpye but it doesnt like my dual vidoe card drivers and crahses the pc
+[Sat Sep 21 21:42:01 2013]  say: panda: about half way through script now...
+[Sat Sep 21 21:42:03 2013]  say: ^4Ad^0min We^2st: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sat Sep 21 21:42:04 2013]  say: ^4Ad^0min We^2st: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 21 21:42:16 2013]  say: panda: almost finished!
+[Sat Sep 21 21:42:28 2013]  say: panda: ^3Yay! my script has (finally) finished!!!!!!
+[Sat Sep 21 21:42:28 2013]  say: ^0Darkquake is back!: Oh that sucks for Skype haha
+[Sat Sep 21 21:42:38 2013]  say: Dark_Jedi: i have done lots of maps for other game too
+[Sat Sep 21 21:43:00 2013]  say: ^4Ad^0min We^2st: dark jedi your name is like a bot
+[Sat Sep 21 21:43:03 2013]  say: ^0Darkquake is back!: I'll see if I can quickly get a file uploader working on my site
+[Sat Sep 21 21:43:15 2013]  say: ^0Darkquake is back!: I'll be back soon, hopefully it won't take long
+[Sat Sep 21 21:43:16 2013]  say: Dark_Jedi: sof2, jk3, rtcw, ef2, and farcry2
+[Sat Sep 21 21:43:24 2013]  say: ^4Ad^0min We^2st: ok
+[Sat Sep 21 21:43:38 2013]  say: ^4Ad^0min We^2st: darkquake
+[Sat Sep 21 21:43:49 2013]  say: ^4Ad^0min We^2st: when will there be a next map
+[Sat Sep 21 21:44:03 2013]  say: ^4Ad^0min We^2st: ^5AIR ^5WAVE!
+[Sat Sep 21 21:44:28 2013]  say: ^4Ad^0min We^2st: ^5AIR ^5WAVE!
+[Sat Sep 21 21:44:48 2013]  say: ^4Ad^0min We^2st: ^5AIR ^5WAVE!
+[Sat Sep 21 21:45:02 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:45:08 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:45:11 2013]  say: panda: about half way through script now...
+[Sat Sep 21 21:45:12 2013]  say: Dark_Jedi: invisibility
+[Sat Sep 21 21:45:12 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:45:20 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:45:24 2013]  say: panda: almost finished!
+[Sat Sep 21 21:45:31 2013]  Kill: 3 1 36: ^4Ad^0min We^2st killed Dark_Jedi by MOD_CRUSH
+[Sat Sep 21 21:45:37 2013]  say: panda: ^3Yay! my script has (finally) finished!!!!!!
+[Sat Sep 21 21:45:43 2013]  say: ^4Ad^0min We^2st: lets see
+[Sat Sep 21 21:45:48 2013]  say: Dark_Jedi: script for wat
+[Sat Sep 21 21:45:56 2013]  Kill: 3 1 2: ^4Ad^0min We^2st killed Dark_Jedi by MOD_MELEE
+[Sat Sep 21 21:46:06 2013]  Kill: 3 0 2: ^4Ad^0min We^2st killed ^0Darkquake is back! by MOD_MELEE
+[Sat Sep 21 21:46:08 2013]  say: Dark_Jedi: how come i cant puinch
+[Sat Sep 21 21:46:12 2013]  say: panda: about half way through script now...
+[Sat Sep 21 21:46:27 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:46:40 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:46:53 2013]  Kill: 3 1 31: ^4Ad^0min We^2st killed Dark_Jedi by MOD_FORCE_DARK
+[Sat Sep 21 21:47:10 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:47:16 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:47:30 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:47:52 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 21:49:19 2013]  Kill: 3 1 6: ^4Ad^0min We^2st killed Dark_Jedi by MOD_BLASTER
+[Sat Sep 21 21:49:23 2013]  say: Dark_Jedi: oow
+[Sat Sep 21 21:49:35 2013]  Kill: 3 0 6: ^4Ad^0min We^2st killed ^0Darkquake is back! by MOD_BLASTER
+[Sat Sep 21 21:49:44 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:49:56 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:50:02 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:50:19 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:50:24 2013]  say: Dark_Jedi: nice
+[Sat Sep 21 21:50:40 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:51:08 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:51:20 2013]  say: ^4Ad^0min We^2st: want to have a duel area so we can fight
+[Sat Sep 21 21:51:35 2013]  Kill: 3 0 3: ^4Ad^0min We^2st killed ^0Darkquake is back! by MOD_SABER
+[Sat Sep 21 21:51:45 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:51:46 2013]  say: Dark_Jedi: lol
+[Sat Sep 21 21:52:20 2013]  say: ^4Ad^0min We^2st: hop on
+[Sat Sep 21 21:52:57 2013]  say: ^4Ad^0min We^2st: is it me or are u small
+[Sat Sep 21 21:53:18 2013]  say: ^4Ad^0min We^2st: rember this area
+[Sat Sep 21 21:53:28 2013]  say: ^4Ad^0min We^2st: we can fight here
+[Sat Sep 21 21:53:37 2013]  say: Dark_Jedi: urm not really i just reloaded this after yrs away
+[Sat Sep 21 21:53:54 2013]  say: Dark_Jedi: its like the bit in taspir
+[Sat Sep 21 21:54:49 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:54:52 2013]  say: Dark_Jedi: gg
+[Sat Sep 21 21:55:03 2013]  say: ^4Ad^0min We^2st: your head is choped off
+[Sat Sep 21 21:55:19 2013]  say: ^4Ad^0min We^2st: were are u
+[Sat Sep 21 21:55:21 2013]  say: Dark_Jedi: i cant the dismemberment mod to wor properly
+[Sat Sep 21 21:55:30 2013]  say: ^4Ad^0min We^2st: ^1KILL SELECTED OBJECT!
+[Sat Sep 21 21:55:33 2013]  say: ^4Ad^0min We^2st: My origin is: (-5970 -14248 4955) - You can teleport here with /mtelelast
+
+[Sat Sep 21 21:55:34 2013]  say: Dark_Jedi: by the entrance
+[Sat Sep 21 21:55:40 2013]  say: ^4Ad^0min We^2st: do this dark jedi
+[Sat Sep 21 21:56:02 2013]  say: Dark_Jedi: ok
+[Sat Sep 21 21:56:11 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:57:08 2013]  say: ^4Ad^0min We^2st: ^1KILL SELECTED OBJECT!
+[Sat Sep 21 21:57:45 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 21:58:00 2013]  say: Dark_Jedi: i wish i had the dissmember mod again
+[Sat Sep 21 21:58:33 2013]  say: Dark_Jedi: im playing this with ja_plus i found
+[Sat Sep 21 21:58:36 2013]  Kill: 1022 1 38: <world> killed Dark_Jedi by MOD_FALLING
+[Sat Sep 21 21:58:59 2013]  say: Dark_Jedi: i thought they were the am commands ?
+[Sat Sep 21 21:59:12 2013]  say: ^4Ad^0min We^2st: they are but on makermod u do like /msleep
+[Sat Sep 21 21:59:20 2013]  say: Dark_Jedi: /
+[Sat Sep 21 21:59:21 2013]  say: ^4Ad^0min We^2st: it doesent have the a
+[Sat Sep 21 21:59:54 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 22:00:16 2013]  say: Dark_Jedi: ah no breakdance
+[Sat Sep 21 22:00:22 2013]  Kill: 3 1 2: ^4Ad^0min We^2st killed Dark_Jedi by MOD_MELEE
+[Sat Sep 21 22:00:29 2013]  say: Dark_Jedi: i have no punch ?
+[Sat Sep 21 22:00:44 2013]  say: ^4Ad^0min We^2st: what computer are u on laptop
+[Sat Sep 21 22:00:54 2013]  say: Dark_Jedi: no desktop
+[Sat Sep 21 22:01:03 2013]  say: ^4Ad^0min We^2st: do /give weapons and /give ammo
+[Sat Sep 21 22:01:12 2013]  say: Dark_Jedi: /give weapons
+[Sat Sep 21 22:01:17 2013]  say: ^4Ad^0min We^2st: in console
+[Sat Sep 21 22:01:21 2013]  say: ^4Ad^0min We^2st: the cheat one
+[Sat Sep 21 22:01:34 2013]  say: ^4Ad^0min We^2st: see
+[Sat Sep 21 22:01:53 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 22:01:56 2013]  say: Dark_Jedi: ow
+[Sat Sep 21 22:02:10 2013]  say: ^4Ad^0min We^2st: ow
+[Sat Sep 21 22:02:17 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 22:02:27 2013]  say: ^4Ad^0min We^2st: ^1FIRE ^5SURROUND!
+[Sat Sep 21 22:02:49 2013]  say: ^4Ad^0min We^2st: kill him slaves
+[Sat Sep 21 22:02:51 2013]  say: ^4Ad^0min We^2st: ^3ELEMENTAL ^3C^4R^3E^4A^3T^4I^3O^4N!
+[Sat Sep 21 22:03:12 2013]  Kill: 1022 1 3: <world> killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 22:03:21 2013]  say: ^4Ad^0min We^2st: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Sat Sep 21 22:03:25 2013]  say: ^4Ad^0min We^2st: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Sat Sep 21 22:03:39 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 22:03:47 2013]  say: ^4Ad^0min We^2st: ^3ELEMENTAL ^3C^4R^3E^4A^3T^4I^3O^4N!
+[Sat Sep 21 22:03:57 2013]  Kill: 1022 1 3: <world> killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 22:04:05 2013]  say: ^4Ad^0min We^2st: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Sat Sep 21 22:04:32 2013]  Kill: 3 1 2: ^4Ad^0min We^2st killed Dark_Jedi by MOD_MELEE
+[Sat Sep 21 22:04:32 2013]  say: Dark_Jedi: wat the spawn command
+[Sat Sep 21 22:04:43 2013]  say: ^4Ad^0min We^2st: /npc spawn rebornboss
+[Sat Sep 21 22:04:52 2013]  say: ^4Ad^0min We^2st: theres a lot of npcs
+[Sat Sep 21 22:05:05 2013]  say: ^4Ad^0min We^2st: ah rancora
+[Sat Sep 21 22:05:09 2013]  say: ^4Ad^0min We^2st: rancor
+[Sat Sep 21 22:05:23 2013]  say: ^4Ad^0min We^2st: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Sat Sep 21 22:05:25 2013]  Kill: 1022 1 36: <world> killed Dark_Jedi by MOD_CRUSH
+[Sat Sep 21 22:05:31 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 22:05:34 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 22:05:40 2013]  say: ^4Ad^0min We^2st: die rancor
+[Sat Sep 21 22:05:41 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 22:05:45 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 22:05:55 2013]  say: ^4Ad^0min We^2st: fuck that one is strong
+[Sat Sep 21 22:05:57 2013]  say: Dark_Jedi: big daddy
+[Sat Sep 21 22:06:04 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 22:06:18 2013]  say: ^4Ad^0min We^2st: ^1FIRE BALL!
+[Sat Sep 21 22:06:19 2013]  say: Dark_Jedi: its watching me
+[Sat Sep 21 22:06:30 2013]  say: ^4Ad^0min We^2st: that will kill him
+[Sat Sep 21 22:06:38 2013]  say: ^4Ad^0min We^2st: but he is very strong
+[Sat Sep 21 22:06:43 2013]  say: Dark_Jedi: its ass is on fire
+[Sat Sep 21 22:06:57 2013]  say: Dark_Jedi: yeah the beast is slane
+[Sat Sep 21 22:07:09 2013]  say: Dark_Jedi: i love the map juranco park
+[Sat Sep 21 22:07:16 2013]  say: Dark_Jedi: jurancor
+[Sat Sep 21 22:07:17 2013]  say: ^4Ad^0min We^2st: it a nice map
+[Sat Sep 21 22:07:23 2013]  say: ^4Ad^0min We^2st: do u know artrix
+[Sat Sep 21 22:07:35 2013]  say: Dark_Jedi: most of the sjcull ones are cool
+[Sat Sep 21 22:07:47 2013]  say: Dark_Jedi: like mustafarr
+[Sat Sep 21 22:07:56 2013]  say: Dark_Jedi: anakins end
+[Sat Sep 21 22:08:08 2013]  Kill: 3 1 3: ^4Ad^0min We^2st killed Dark_Jedi by MOD_SABER
+[Sat Sep 21 22:08:33 2013]  say: Dark_Jedi: i fell
+[Sat Sep 21 22:09:13 2013]  say: ^4Ad^0min We^2st: wel come to my house
+[Sat Sep 21 22:09:24 2013]  ClientDisconnect: 2
+[Sat Sep 21 22:09:27 2013]  say: ^4Ad^0min We^2st: u can sleep here in the night
+[Sat Sep 21 22:10:03 2013]  say: ^4Ad^0min We^2st: do u have the sithcouncilv2 map
+[Sat Sep 21 22:10:12 2013]  say: Dark_Jedi: i think so
+[Sat Sep 21 22:10:25 2013]  say: ^4Ad^0min We^2st: shel we go on makermod eu
+[Sat Sep 21 22:10:29 2013]  say: ^4Ad^0min We^2st: to play on it
+[Sat Sep 21 22:10:35 2013]  say: Dark_Jedi: i had to move lots out it kept crashing
+[Sat Sep 21 22:10:44 2013]  say: ^4Ad^0min We^2st: if it dont work come back here
+[Sat Sep 21 22:10:47 2013]  say: ^4Ad^0min We^2st: shel we
+[Sat Sep 21 22:11:09 2013]  say: Dark_Jedi: makermod eu ?
+[Sat Sep 21 22:11:13 2013]  say: ^4Ad^0min We^2st: yes
+[Sat Sep 21 22:11:23 2013]  say: Dark_Jedi: a server
+[Sat Sep 21 22:11:26 2013]  say: ^4Ad^0min We^2st: yes makermod
+[Sat Sep 21 22:11:31 2013]  say: Dark_Jedi: i look
+[Sat Sep 21 22:11:33 2013]  say: ^4Ad^0min We^2st: just like this 
+[Sat Sep 21 22:11:34 2013]  say: ^4Ad^0min We^2st: ok 
+[Sat Sep 21 22:11:37 2013]  say: ^4Ad^0min We^2st: ill be there 
+[Sat Sep 21 22:11:40 2013]  ClientDisconnect: 1
+[Sat Sep 21 22:11:43 2013]  say: ^0Darkquake is back!: Hey thanks for staying here
+[Sat Sep 21 22:11:43 2013]  ClientDisconnect: 3
+[Sat Sep 21 22:11:55 2013]  say: ^0Darkquake is back!: having trouble setting up a file uploader, so I'll see to that tomorrow with dad :p
+[Sat Sep 21 22:11:59 2013]  ClientConnect: 1
+[Sat Sep 21 22:11:59 2013]  mlog:Player ^1M^7a^1®Z, connected. With IP - 174.68.113.8:29070 
+[Sat Sep 21 22:12:05 2013]  say: ^0Darkquake is back!: For now I'll get back to setting up the custom maps server
+[Sat Sep 21 22:12:19 2013]  ClientBegin: 1
+[Sat Sep 21 22:12:20 2013]  say: ^5§^0had^50^0w: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 21 22:12:35 2013]  say: ^5§^0had^50^0w: D:
+[Sat Sep 21 22:12:38 2013]  say: ^5§^0had^50^0w: It still wont glow
+[Sat Sep 21 22:12:44 2013]  say: ^0Darkquake is back!: Damn
+[Sat Sep 21 22:12:53 2013]  say: ^5§^0had^50^0w: I am sad
+[Sat Sep 21 22:12:55 2013]  say: ^5§^0had^50^0w: and depressed
+[Sat Sep 21 22:12:57 2013]  say: ^5§^0had^50^0w: D;
+[Sat Sep 21 22:13:05 2013]  ClientConnect: 2
+[Sat Sep 21 22:13:05 2013]  mlog:Player ^4Ad^0min We^2st, connected. With IP - 81.155.187.195:29070 
+[Sat Sep 21 22:13:18 2013]  ClientBegin: 2
+[Sat Sep 21 22:13:18 2013]  say: ^0Darkquake is back!: Been working on it long? Take a break maybe and look at it fresh
+[Sat Sep 21 22:13:32 2013]  say: ^4Ad^0min We^2st: HI SHADOW
+[Sat Sep 21 22:13:37 2013]  say: ^4Ad^0min We^2st: damn got caps
+[Sat Sep 21 22:13:44 2013]  say: ^4Ad^0min We^2st: wheres dark-jedi
+[Sat Sep 21 22:13:48 2013]  say: ^5§^0had^50^0w: Would you like a link to my WIP Shadowtrooper?
+[Sat Sep 21 22:13:49 2013]  say: ^5§^0had^50^0w: :
+[Sat Sep 21 22:13:51 2013]  say: ^5§^0had^50^0w: :D
+[Sat Sep 21 22:13:54 2013]  Kill: 2 0 3: ^4Ad^0min We^2st killed ^0Darkquake is back! by MOD_SABER
+[Sat Sep 21 22:14:05 2013]  Kill: 1022 2 0: <world> killed ^4Ad^0min We^2st by MOD_UNKNOWN
+[Sat Sep 21 22:14:15 2013]  say: ^4Ad^0min We^2st: i need to find him
+[Sat Sep 21 22:14:18 2013]  ClientDisconnect: 2
+[Sat Sep 21 22:14:23 2013]  say: ^5§^0had^50^0w: O.O
+[Sat Sep 21 22:14:46 2013]  say: ^5§^0had^50^0w: About that stormtrooper...
+[Sat Sep 21 22:14:47 2013]  say: ^5§^0had^50^0w: :P
+[Sat Sep 21 22:14:51 2013]  ClientDisconnect: 1
+[Sat Sep 21 22:14:51 2013]  ClientDisconnect: 1
+[Sat Sep 21 22:14:51 2013]  ClientConnect: 1
+[Sat Sep 21 22:14:51 2013]  mlog:Player ^5§^0had^50^0w, connected. With IP - 174.68.113.8:29070 
+[Sat Sep 21 22:14:57 2013]  ClientBegin: 1
+[Sat Sep 21 22:14:57 2013]  say: ^5§^0had^50^0w: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 21 22:15:04 2013]  say: ^5§^0had^50^0w: want it? :D
+[Sat Sep 21 22:16:17 2013]  say: ^5§^0had^50^0w: ...nvm
+[Sat Sep 21 22:16:40 2013]  Kill: 1 0 3: ^5§^0had^50^0w killed ^0Darkquake is back! by MOD_SABER
+[Sat Sep 21 22:16:41 2013]  tell: ^5§^0had^50^0w to ^0Darkquake is back!: ^2^7^0Darkquake is back!, ^7I killed 3 people in total
+[Sat Sep 21 22:16:57 2013]  ClientDisconnect: 1
+[Sat Sep 21 22:18:04 2013]  ClientConnect: 1
+[Sat Sep 21 22:18:04 2013]  mlog:Player MadBob, connected. With IP - 82.46.74.207:29070 
+[Sat Sep 21 22:18:39 2013]  ClientConnect: 2
+[Sat Sep 21 22:18:39 2013]  mlog:Player ^1M^7a^1®Z, connected. With IP - 174.68.113.8:29070 
+[Sat Sep 21 22:18:57 2013]  ClientBegin: 1
+[Sat Sep 21 22:19:00 2013]  ClientBegin: 2
+[Sat Sep 21 22:19:01 2013]  say: ^5§^0had^50^0w: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 21 22:19:18 2013]  say: ^0Darkquake is back!: Hey you guys having connection problems?
+[Sat Sep 21 22:19:24 2013]  say: Dark_Jedi: a bit
+[Sat Sep 21 22:19:24 2013]  say: ^5§^0had^50^0w: just bad ping
+[Sat Sep 21 22:19:30 2013]  say: ^0Darkquake is back!: alright
+[Sat Sep 21 22:19:44 2013]  say: ^0Darkquake is back!: Well I think I got my Custom maps server up :)
+[Sat Sep 21 22:19:50 2013]  say: ^5§^0had^50^0w: :P
+[Sat Sep 21 22:19:52 2013]  say: ^5§^0had^50^0w: btw
+[Sat Sep 21 22:19:53 2013]  say: ^0Darkquake is back!: Could you check if it's in the Makermod server list?
+[Sat Sep 21 22:19:55 2013]  say: ^5§^0had^50^0w: nvm
+[Sat Sep 21 22:19:58 2013]  say: ^5§^0had^50^0w: How to
+[Sat Sep 21 22:20:01 2013]  say: Dark_Jedi: i went to see makemod.eu but both dont allow me to download
+[Sat Sep 21 22:20:02 2013]  say: ^0Darkquake is back!: should be called Darkquake's Custom Maps Makermod Server
+[Sat Sep 21 22:20:11 2013]  say: ^5§^0had^50^0w: I'l lcheck
+[Sat Sep 21 22:20:13 2013]  ClientDisconnect: 2
+[Sat Sep 21 22:20:30 2013]  ClientConnect: 2
+[Sat Sep 21 22:20:30 2013]  mlog:Player ^5§^0had^50^0w, connected. With IP - 174.68.113.8:29070 
+[Sat Sep 21 22:20:35 2013]  ClientBegin: 2
+[Sat Sep 21 22:20:36 2013]  say: ^5§^0had^50^0w: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 21 22:20:40 2013]  say: ^5§^0had^50^0w: It's up
+[Sat Sep 21 22:20:40 2013]  say: ^0Darkquake is back!: Oh I can put up the Makermod packages on my site if you like
+[Sat Sep 21 22:20:45 2013]  say: ^0Darkquake is back!: ah that's awesome :D
+[Sat Sep 21 22:20:54 2013]  say: ^0Darkquake is back!: it's running on port 29070
+[Sat Sep 21 22:20:58 2013]  say: ^0Darkquake is back!: this one is port 29071
+[Sat Sep 21 22:21:02 2013]  say: Dark_Jedi: and the website ?
+[Sat Sep 21 22:21:06 2013]  say: ^0Darkquake is back!: yeah it's up
+[Sat Sep 21 22:21:09 2013]  say: ^0Darkquake is back!: darkquake.com/server
+[Sat Sep 21 22:21:15 2013]  say: ^5§^0had^50^0w: I'm gonna go back to skinning
+[Sat Sep 21 22:21:17 2013]  say: ^5§^0had^50^0w: x.x
+[Sat Sep 21 22:21:21 2013]  say: ^0Darkquake is back!: I can put the makermod server side plugin there now
+[Sat Sep 21 22:21:33 2013]  say: Dark_Jedi: nice
+[Sat Sep 21 22:21:39 2013]  say: Dark_Jedi: i go look now
+[Sat Sep 21 22:21:43 2013]  ClientDisconnect: 1
+[Sat Sep 21 22:21:54 2013]  say: ^5§^0had^50^0w: I'll be skinning
+[Sat Sep 21 22:22:01 2013]  say: ^5§^0had^50^0w: TALK 2 ME ON STEAM
+[Sat Sep 21 22:22:02 2013]  Kill: 2 0 3: ^5§^0had^50^0w killed ^0Darkquake is back! by MOD_SABER
+[Sat Sep 21 22:22:03 2013]  tell: ^5§^0had^50^0w to ^0Darkquake is back!: ^2^7^0Darkquake is back!, ^7I killed 4 people in total
+[Sat Sep 21 22:22:04 2013]  ClientDisconnect: 2
+[Sat Sep 21 22:24:31 2013]  ClientConnect: 1
+[Sat Sep 21 22:24:31 2013]  mlog:Player ^1M^7a^1®Z, connected. With IP - 174.68.113.8:29070 
+[Sat Sep 21 22:24:52 2013]  ClientBegin: 1
+[Sat Sep 21 22:24:53 2013]  say: ^5§^0had^50^0w: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 21 22:24:59 2013]  say: ^5§^0had^50^0w: UGH DAMNIT
+[Sat Sep 21 22:25:16 2013]  say: ^5§^0had^50^0w: SKINNING IS A BIIIIIIIIIIIIIIIIIIIIIIIITCH!
+[Sat Sep 21 22:25:42 2013]  ClientDisconnect: 1
+[Sat Sep 21 22:27:32 2013]  ClientConnect: 1
+[Sat Sep 21 22:27:32 2013]  mlog:Player MadBob, connected. With IP - 82.46.74.207:29070 
+[Sat Sep 21 22:28:24 2013]  ClientBegin: 1
+[Sat Sep 21 22:28:56 2013]  say: Dark_Jedi: hey daniel the link to the mmaker zip is broken
+[Sat Sep 21 22:29:00 2013]  say: ^0Darkquake is back!: Hey
+[Sat Sep 21 22:29:04 2013]  say: ^0Darkquake is back!: yeah just fixed it
+[Sat Sep 21 22:29:07 2013]  say: ^0Darkquake is back!: refresh the page
+[Sat Sep 21 22:29:07 2013]  say: Dark_Jedi: okz
+[Sat Sep 21 22:29:19 2013]  say: Dark_Jedi: is there a map upload page yet ?
+[Sat Sep 21 22:29:33 2013]  say: ^0Darkquake is back!: It didn't quite work :p
+[Sat Sep 21 22:29:40 2013]  say: ^0Darkquake is back!: I'll get dad to help me set that up tomorrow
+[Sat Sep 21 22:29:50 2013]  say: ^0Darkquake is back!: but I've got my custom map server up at least
+[Sat Sep 21 22:30:00 2013]  say: Dark_Jedi: shame.. mine linked to megaipload.. but the site went down for good
+[Sat Sep 21 22:30:01 2013]  say: ^0Darkquake is back!: you can see the status now in my  other servers  section of the site
+[Sat Sep 21 22:30:06 2013]  say: Dark_Jedi: yup
+[Sat Sep 21 22:30:31 2013]  say: Dark_Jedi: i see u got the st-st
+[Sat Sep 21 22:30:32 2013]  say: ^0Darkquake is back!: Yeah well I reckon I'll call it a night, sorry
+[Sat Sep 21 22:30:39 2013]  say: Dark_Jedi: okz.. see ya
+[Sat Sep 21 22:30:43 2013]  say: ^0Darkquake is back!: But email me at daniel.carnovale@gmail.com if you like
+[Sat Sep 21 22:30:52 2013]  say: Dark_Jedi: with the files ?
+[Sat Sep 21 22:30:56 2013]  say: ^0Darkquake is back!: Otherwise I'll cya tomorrow and hopefully the file uploader will be ready
+[Sat Sep 21 22:31:00 2013]  say: ^0Darkquake is back!: nah just if you wanna chat
+[Sat Sep 21 22:31:11 2013]  say: Dark_Jedi: okzz i can send u screenies
+[Sat Sep 21 22:31:25 2013]  say: ^0Darkquake is back!: sure :) Alright cya later
+[Sat Sep 21 22:31:29 2013]  say: ^0Darkquake is back!: hope you like my website :D
+[Sat Sep 21 22:31:31 2013]  say: Dark_Jedi: okz take care
+[Sat Sep 21 22:31:35 2013]  say: ^0Darkquake is back!: I'll keep changing it over time
+[Sat Sep 21 22:31:37 2013]  say: Dark_Jedi: yup
+[Sat Sep 21 22:31:45 2013]  say: ^0Darkquake is back!: it took a while to get music playing lol
+[Sat Sep 21 22:31:51 2013]  say: ^0Darkquake is back!: well yeh cya tomoz
+[Sat Sep 21 22:31:53 2013]  say: Dark_Jedi: mine did till it #got a bug
+[Sat Sep 21 22:32:02 2013]  say: Dark_Jedi: night
+[Sat Sep 21 22:32:05 2013]  ClientDisconnect: 0
+[Sat Sep 21 22:32:16 2013]  ClientDisconnect: 1
+[Sat Sep 21 22:35:41 2013]  ClientConnect: 0
+[Sat Sep 21 22:35:41 2013]  mlog:Player ^1M^7a^1®Z, connected. With IP - 174.68.113.8:29070 
+[Sat Sep 21 22:36:01 2013]  ClientBegin: 0
+[Sat Sep 21 22:36:02 2013]  say: ^5§^0had^50^0w: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 21 22:37:35 2013]  ClientDisconnect: 0
+[Sun Sep 22 02:51:43 2013]  ClientConnect: 0
+[Sun Sep 22 02:51:43 2013]  mlog:Player Padawan, connected. With IP - 90.198.7.130:29070 
+[Sun Sep 22 02:52:02 2013]  ClientBegin: 0
+[Sun Sep 22 02:54:58 2013]  say: ^1Tobi^0-^1San: ^1Naruto ^2script by:^1Cloud ^4Strife
+[Sun Sep 22 02:55:41 2013]  ClientDisconnect: 0
+[Sun Sep 22 02:58:15 2013]  ClientConnect: 0
+[Sun Sep 22 02:58:15 2013]  mlog:Player Padawan, connected. With IP - 90.198.7.130:29070 
+[Sun Sep 22 02:58:30 2013]  ClientBegin: 0
+[Sun Sep 22 02:58:51 2013]  say: ^1Tobi^0-^1San: ^3Aura Sphere!
+[Sun Sep 22 03:00:20 2013]  say: ^1Tobi^0-^1San: mlist factory
+[Sun Sep 22 03:45:51 2013]  ClientConnect: 1
+[Sun Sep 22 03:45:51 2013]  mlog:Player jedi, connected. With IP - 75.164.232.129:29070 
+[Sun Sep 22 03:46:01 2013]  ClientBegin: 1
+[Sun Sep 22 03:46:06 2013]  say: jedi: HELLO
+[Sun Sep 22 03:47:20 2013]  say: jedi: hello?
+[Sun Sep 22 03:52:36 2013]  ClientDisconnect: 1
+[Sun Sep 22 03:57:51 2013]  Kill: 0 0 39: ^1Tobi^0-^1San killed ^1Tobi^0-^1San by MOD_SUICIDE
+[Sun Sep 22 03:57:51 2013]  setteam:  0 FREE SPECTATOR
+[Sun Sep 22 03:57:51 2013]  ClientBegin: 0
+[Sun Sep 22 07:04:05 2013]  ClientConnect: 1
+[Sun Sep 22 07:04:05 2013]  mlog:Player Padawan, connected. With IP - 46.39.244.66:-9786 
+[Sun Sep 22 07:04:27 2013]  ClientBegin: 1
+[Sun Sep 22 07:04:45 2013]  say: maxim: hi
+[Sun Sep 22 07:12:09 2013]  say: maxim: hi
+[Sun Sep 22 07:18:27 2013]  Kill: 1022 1 2: <world> killed maxim by MOD_MELEE
+[Sun Sep 22 07:23:49 2013]  ClientDisconnect: 0
+[Sun Sep 22 07:25:04 2013]  ClientDisconnect: 1
+[Sun Sep 22 09:31:37 2013]  ClientConnect: 0
+[Sun Sep 22 09:31:37 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 81.155.187.195:29070 
+[Sun Sep 22 09:32:10 2013]  ClientBegin: 0
+[Sun Sep 22 09:32:36 2013]  print "^4Ad^0min We^2st^7 @@@PLRENAME ^0Krack ^13000
+"[Sun Sep 22 09:33:33 2013]  say: ^0Krack ^13000: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sun Sep 22 09:33:35 2013]  say: ^0Krack ^13000: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sun Sep 22 09:36:17 2013]  ClientDisconnect: 0
+[Sun Sep 22 09:36:17 2013]  ClientDisconnect: 0
+[Sun Sep 22 09:36:17 2013]  ClientConnect: 0
+[Sun Sep 22 09:36:17 2013]  mlog:Player ^0Krack ^13000, connected. With IP - 81.155.187.195:29070 
+[Sun Sep 22 09:36:26 2013]  ClientBegin: 0
+[Sun Sep 22 09:36:44 2013]  ClientConnect: 1
+[Sun Sep 22 09:36:44 2013]  mlog:Player ^4Anakin^9Skywalker, connected. With IP - 178.121.231.145:29070 
+[Sun Sep 22 09:37:26 2013]  ClientBegin: 1
+[Sun Sep 22 09:37:40 2013]  say: ^0Krack ^13000: hello
+[Sun Sep 22 09:37:44 2013]  say: ^5^4Anakin^9Skywalker: hi
+[Sun Sep 22 09:37:51 2013]  Item: 1 weapon_melee
+[Sun Sep 22 09:37:51 2013]  say: ^5^4Anakin^9Skywalker: ^0Battle ^4Sorcerer ^5script by ^0D^3arth ^0F^3urious
+[Sun Sep 22 09:38:25 2013]  say: ^0Krack ^13000: starting to builed a mech it wont be the best
+[Sun Sep 22 09:38:40 2013]  ClientDisconnect: 1
+[Sun Sep 22 09:39:16 2013]  ClientConnect: 1
+[Sun Sep 22 09:39:16 2013]  mlog:Player ^5^4Anakin^9Skywalker, connected. With IP - 178.121.231.145:29070 
+[Sun Sep 22 09:39:32 2013]  ClientBegin: 1
+[Sun Sep 22 09:39:36 2013]  say: ^0Krack ^13000: why did u go
+[Sun Sep 22 09:39:44 2013]  Item: 1 weapon_melee
+[Sun Sep 22 09:39:44 2013]  say: ^5^4Anakin^9Skywalker: ^0Battle ^4Sorcerer ^5script by ^0D^3arth ^0F^3urious
+[Sun Sep 22 09:41:20 2013]  say: ^0Krack ^13000: what is that
+[Sun Sep 22 09:43:45 2013]  say: ^0Krack ^13000: know im doing arms
+[Sun Sep 22 09:49:33 2013]  say: ^0Krack ^13000: ^2ACID ^3BLAST!
+[Sun Sep 22 09:49:39 2013]  say: ^0Krack ^13000: ^2ACID ^3BLAST!
+[Sun Sep 22 09:49:44 2013]  say: ^0Krack ^13000: ^2ACID ^3BLAST!
+[Sun Sep 22 09:49:59 2013]  say: ^0Krack ^13000: ^1FIRE BALL!
+[Sun Sep 22 09:50:05 2013]  say: ^0Krack ^13000: ^1FIRE BALL!
+[Sun Sep 22 09:50:34 2013]  say: ^0Krack ^13000: ^1KILL SELECTED OBJECT!
+[Sun Sep 22 09:51:13 2013]  ClientDisconnect: 1
+[Sun Sep 22 09:51:53 2013]  say: ^0Krack ^13000: ^1FIRE ^5SURROUND!
+[Sun Sep 22 09:52:01 2013]  say: ^0Krack ^13000: ^1FIRE BALL!
+[Sun Sep 22 09:52:25 2013]  say: ^0Krack ^13000: ^1FIRE BALL!
+[Sun Sep 22 09:52:42 2013]  say: ^0Krack ^13000: ^1FIRE BALL!
+[Sun Sep 22 09:52:51 2013]  say: ^0Krack ^13000: ^1FIRE BALL!
+[Sun Sep 22 09:53:05 2013]  say: ^0Krack ^13000: ^1FIRE BALL!
+[Sun Sep 22 09:53:13 2013]  say: ^0Krack ^13000: ^1FIRE BALL!
+[Sun Sep 22 09:53:36 2013]  say: ^0Krack ^13000: ^1FIRE BALL!
+[Sun Sep 22 09:54:00 2013]  say: ^0Krack ^13000: ^1KILL SELECTED OBJECT!
+[Sun Sep 22 09:55:56 2013]  ClientDisconnect: 0
+[Sun Sep 22 09:56:02 2013]  ClientConnect: 0
+[Sun Sep 22 09:56:02 2013]  mlog:Player max, connected. With IP - 46.39.244.66:-11356 
+[Sun Sep 22 09:56:11 2013]  ClientBegin: 0
+[Sun Sep 22 10:00:49 2013]  ClientDisconnect: 0
+[Sun Sep 22 12:12:48 2013]  ClientConnect: 0
+[Sun Sep 22 12:12:48 2013]  mlog:Player MadBob, connected. With IP - 82.46.74.207:29070 
+[Sun Sep 22 12:13:40 2013]  ClientBegin: 0
+[Sun Sep 22 12:16:35 2013]  ClientDisconnect: 0

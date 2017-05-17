@@ -1,0 +1,647 @@
+[Thu Feb 04 18:23:42 2016]  ------------------------------------------------------------
+[Thu Feb 04 18:23:42 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Feb 04 18:23:44 2016]  ClientConnect: 0
+[Thu Feb 04 18:23:52 2016]  ClientBegin: 0
+[Thu Feb 04 18:23:57 2016]  Item: 0 weapon_melee
+[Thu Feb 04 18:24:15 2016]  ClientDisconnect: 0
+[Thu Feb 04 19:55:44 2016]  ------------------------------------------------------------
+[Thu Feb 04 19:55:44 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Feb 04 21:54:11 2016]  ------------------------------------------------------------
+[Thu Feb 04 21:54:11 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Feb 05 11:52:30 2016]  ClientConnect: 0
+[Fri Feb 05 11:52:30 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Fri Feb 05 11:52:45 2016]  ClientBegin: 0
+[Fri Feb 05 11:52:51 2016]  Item: 0 weapon_melee
+[Fri Feb 05 11:54:22 2016]  ClientConnect: 1
+[Fri Feb 05 11:54:22 2016]  mlog:Player pisdek z krakowa, connected. With IP - 91.230.25.125:29070 
+[Fri Feb 05 11:54:36 2016]  ClientBegin: 1
+[Fri Feb 05 11:54:56 2016]  say: ^0Shadow^5seer:  i see
+[Fri Feb 05 11:55:32 2016]  say: ^0Shadow^5seer: its not allowed to attack people from noclip, u know?
+[Fri Feb 05 11:55:39 2016]  say: kosher: no
+[Fri Feb 05 11:55:45 2016]  say: ^0Shadow^5seer: well u do know now
+[Fri Feb 05 11:55:52 2016]  say: ^0Shadow^5seer: so dont please
+[Fri Feb 05 11:55:56 2016]  say: kosher: sori
+[Fri Feb 05 11:56:11 2016]  say: ^0Shadow^5seer: glad we figured it out so easily
+[Fri Feb 05 11:57:09 2016]  ClientDisconnect: 1
+[Fri Feb 05 11:59:15 2016]  ClientDisconnect: 0
+[Fri Feb 05 17:40:44 2016]  ClientConnect: 0
+[Fri Feb 05 17:40:44 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Fri Feb 05 17:40:58 2016]  ClientBegin: 0
+[Fri Feb 05 17:41:05 2016]  Item: 0 weapon_melee
+[Fri Feb 05 18:03:58 2016]  ClientDisconnect: 0
+[Fri Feb 05 19:10:42 2016]  ClientConnect: 0
+[Fri Feb 05 19:10:42 2016]  mlog:Player Padawan, connected. With IP - 91.245.79.114:29070 
+[Fri Feb 05 19:11:05 2016]  ClientBegin: 0
+[Fri Feb 05 19:12:07 2016]  ClientDisconnect: 0
+[Fri Feb 05 21:12:11 2016]  ClientConnect: 0
+[Fri Feb 05 21:12:11 2016]  mlog:Player Luke, connected. With IP - 93.105.181.189:-20562 
+[Fri Feb 05 21:12:26 2016]  ClientBegin: 0
+[Fri Feb 05 21:12:49 2016]  ClientDisconnect: 0
+[Fri Feb 05 21:26:43 2016]  ClientConnect: 0
+[Fri Feb 05 21:26:43 2016]  mlog:Player Luke, connected. With IP - 93.105.181.189:10204 
+[Fri Feb 05 21:28:14 2016]  ClientBegin: 0
+[Fri Feb 05 21:30:56 2016]  ClientDisconnect: 0
+[Fri Feb 05 21:32:03 2016]  ClientConnect: 0
+[Fri Feb 05 21:32:03 2016]  mlog:Player Luke, connected. With IP - 93.105.181.189:10204 
+[Fri Feb 05 21:32:20 2016]  ClientBegin: 0
+[Fri Feb 05 21:34:30 2016]  ClientDisconnect: 0
+[Fri Feb 05 21:38:47 2016]  ClientConnect: 0
+[Fri Feb 05 21:38:47 2016]  mlog:Player Luke, connected. With IP - 93.105.181.189:10204 
+[Fri Feb 05 21:39:03 2016]  ClientBegin: 0
+[Fri Feb 05 21:40:14 2016]  ClientDisconnect: 0
+[Sat Feb 06 10:10:16 2016]  ClientConnect: 0
+[Sat Feb 06 10:10:16 2016]  mlog:Player Padawan, connected. With IP - 76.189.8.81:29070 
+[Sat Feb 06 10:13:38 2016]  ClientDisconnect: 0
+[Sat Feb 06 10:43:06 2016]  ClientConnect: 0
+[Sat Feb 06 10:43:06 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sat Feb 06 10:43:22 2016]  ClientBegin: 0
+[Sat Feb 06 10:43:27 2016]  Item: 0 weapon_melee
+[Sat Feb 06 11:35:15 2016]  ClientDisconnect: 0
+[Sat Feb 06 11:35:21 2016]  ClientConnect: 0
+[Sat Feb 06 11:35:21 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sat Feb 06 11:35:30 2016]  ClientBegin: 0
+[Sat Feb 06 11:35:44 2016]  Item: 0 weapon_melee
+[Sat Feb 06 14:06:15 2016]  ClientDisconnect: 0
+[Sun Feb 07 10:00:34 2016]  ClientConnect: 0
+[Sun Feb 07 10:00:34 2016]  mlog:Player gettoro, connected. With IP - 188.113.183.115:29070 
+[Sun Feb 07 10:00:50 2016]  ClientBegin: 0
+[Sun Feb 07 10:03:13 2016]  ClientDisconnect: 0
+[Sun Feb 07 12:30:57 2016]  ClientConnect: 0
+[Sun Feb 07 12:30:57 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Feb 07 12:31:12 2016]  ClientBegin: 0
+[Sun Feb 07 12:31:27 2016]  Item: 0 weapon_melee
+[Sun Feb 07 13:29:19 2016]  ClientDisconnect: 0
+[Sun Feb 07 16:24:48 2016]  ClientConnect: 0
+[Sun Feb 07 16:24:48 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Feb 07 16:25:04 2016]  ClientBegin: 0
+[Sun Feb 07 16:25:10 2016]  Item: 0 weapon_melee
+[Sun Feb 07 16:26:57 2016]  ClientDisconnect: 0
+[Sun Feb 07 16:51:26 2016]  ClientConnect: 0
+[Sun Feb 07 16:51:26 2016]  mlog:Player B^1o^2b^3r^4o^5m^5^6y^7l, connected. With IP - 212.158.158.182:29070 
+[Sun Feb 07 16:51:37 2016]  ClientDisconnect: 0
+[Sun Feb 07 19:25:28 2016]  ClientConnect: 0
+[Sun Feb 07 19:25:28 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Feb 07 19:25:44 2016]  ClientBegin: 0
+[Sun Feb 07 19:25:52 2016]  Item: 0 weapon_melee
+[Sun Feb 07 19:27:09 2016]  ClientDisconnect: 0
+[Sun Feb 07 21:46:17 2016]  ClientConnect: 0
+[Sun Feb 07 21:46:17 2016]  mlog:Player Padawan, connected. With IP - 92.14.200.36:29070 
+[Sun Feb 07 21:46:24 2016]  ClientDisconnect: 0
+[Sun Feb 07 21:46:45 2016]  ClientConnect: 0
+[Sun Feb 07 21:46:45 2016]  mlog:Player Pl^2a^7nkt^2o^7n, connected. With IP - 92.14.200.36:29070 
+[Sun Feb 07 21:46:52 2016]  ClientDisconnect: 0
+[Sun Feb 07 22:15:09 2016]  ClientConnect: 0
+[Sun Feb 07 22:15:09 2016]  mlog:Player Padawan, connected. With IP - 66.227.188.19:29070 
+[Sun Feb 07 22:18:37 2016]  ClientDisconnect: 0
+[Mon Feb 08 16:16:55 2016]  ClientConnect: 0
+[Mon Feb 08 16:16:55 2016]  mlog:Player Padawan, connected. With IP - 5.80.50.137:29070 
+[Mon Feb 08 16:17:11 2016]  ClientBegin: 0
+[Mon Feb 08 16:17:48 2016]  ClientDisconnect: 0
+[Mon Feb 08 16:39:37 2016]  ClientConnect: 0
+[Mon Feb 08 16:39:37 2016]  mlog:Player Padawan, connected. With IP - 5.80.50.137:29070 
+[Mon Feb 08 16:39:53 2016]  ClientBegin: 0
+[Mon Feb 08 16:40:38 2016]  ClientDisconnect: 0
+[Tue Feb 09 10:20:06 2016]  ClientConnect: 0
+[Tue Feb 09 10:20:06 2016]  mlog:Player ^6Cron^0a, connected. With IP - 142.161.67.164:29070 
+[Tue Feb 09 10:20:18 2016]  ClientDisconnect: 0
+[Tue Feb 09 10:21:00 2016]  ClientConnect: 0
+[Tue Feb 09 10:21:00 2016]  mlog:Player ^6Cron^0a, connected. With IP - 142.161.67.164:29070 
+[Tue Feb 09 10:21:38 2016]  ClientBegin: 0
+[Tue Feb 09 10:21:42 2016]  ClientConnect: 1
+[Tue Feb 09 10:21:42 2016]  mlog:Player Ngao, connected. With IP - 24.76.227.232:29070 
+[Tue Feb 09 10:21:51 2016]  say: ^6Cron^0a: /minfo
+[Tue Feb 09 10:21:58 2016]  ClientBegin: 1
+[Tue Feb 09 10:22:12 2016]  ClientConnect: 2
+[Tue Feb 09 10:22:12 2016]  mlog:Player Coinneach, connected. With IP - 24.79.174.46:29070 
+[Tue Feb 09 10:22:25 2016]  ClientBegin: 2
+[Tue Feb 09 10:23:45 2016]  ClientDisconnect: 0
+[Tue Feb 09 10:24:02 2016]  ClientDisconnect: 2
+[Tue Feb 09 10:24:07 2016]  ClientDisconnect: 1
+[Tue Feb 09 18:55:06 2016]  ClientConnect: 0
+[Tue Feb 09 18:55:06 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Feb 09 18:55:22 2016]  ClientBegin: 0
+[Tue Feb 09 18:55:28 2016]  Item: 0 weapon_melee
+[Tue Feb 09 18:57:51 2016]  ClientDisconnect: 0
+[Tue Feb 09 18:57:57 2016]  ClientConnect: 0
+[Tue Feb 09 18:57:57 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Feb 09 18:58:06 2016]  ClientBegin: 0
+[Tue Feb 09 18:58:11 2016]  Item: 0 weapon_melee
+[Tue Feb 09 18:59:03 2016]  ClientDisconnect: 0
+[Tue Feb 09 22:43:02 2016]  ClientConnect: 0
+[Tue Feb 09 22:43:02 2016]  mlog:Player Harry, connected. With IP - 87.148.254.111:29070 
+[Tue Feb 09 22:43:16 2016]  ClientBegin: 0
+[Tue Feb 09 22:44:34 2016]  ClientDisconnect: 0
+[Tue Feb 09 23:06:59 2016]  ClientConnect: 0
+[Tue Feb 09 23:06:59 2016]  mlog:Player Padawan, connected. With IP - 188.96.234.41:29070 
+[Tue Feb 09 23:07:21 2016]  ClientBegin: 0
+[Tue Feb 09 23:08:24 2016]  ClientDisconnect: 0
+[Wed Feb 10 12:44:42 2016]  ClientConnect: 0
+[Wed Feb 10 12:44:42 2016]  mlog:Player Padawan, connected. With IP - 37.112.181.201:29070 
+[Wed Feb 10 12:45:00 2016]  ClientBegin: 0
+[Wed Feb 10 12:46:06 2016]  ClientConnect: 1
+[Wed Feb 10 12:46:06 2016]  mlog:Player Padawan, connected. With IP - 95.29.85.175:29070 
+[Wed Feb 10 12:46:37 2016]  ClientBegin: 1
+[Wed Feb 10 12:48:21 2016]  print "Padawan^7 @@@PLRENAME Padawan Maks
+"[Wed Feb 10 12:49:51 2016]  Kill: 1 0 3: Padawan Maks killed Padawan by MOD_SABER
+[Wed Feb 10 12:50:05 2016]  ClientDisconnect: 0
+[Wed Feb 10 12:50:41 2016]  ClientDisconnect: 1
+[Wed Feb 10 12:53:25 2016]  ClientConnect: 0
+[Wed Feb 10 12:53:25 2016]  mlog:Player Serenity^3'^7Glen, connected. With IP - 176.43.34.182:29070 
+[Wed Feb 10 12:54:04 2016]  ClientDisconnect: 0
+[Wed Feb 10 20:17:19 2016]  ClientConnect: 0
+[Wed Feb 10 20:17:19 2016]  mlog:Player Padawan, connected. With IP - 173.202.201.98:1024 
+[Wed Feb 10 20:17:31 2016]  ClientDisconnect: 0
+[Wed Feb 10 20:18:24 2016]  ClientConnect: 0
+[Wed Feb 10 20:18:24 2016]  mlog:Player Padawan, connected. With IP - 173.202.201.98:1024 
+[Wed Feb 10 20:18:32 2016]  ClientDisconnect: 0
+[Thu Feb 11 14:41:17 2016]  ClientConnect: 0
+[Thu Feb 11 14:41:17 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Feb 11 14:41:34 2016]  ClientBegin: 0
+[Thu Feb 11 14:41:41 2016]  Item: 0 weapon_melee
+[Thu Feb 11 14:42:34 2016]  ClientDisconnect: 0
+[Thu Feb 11 17:26:48 2016]  ClientConnect: 0
+[Thu Feb 11 17:26:48 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Feb 11 17:27:04 2016]  ClientBegin: 0
+[Thu Feb 11 17:27:10 2016]  Item: 0 weapon_melee
+[Thu Feb 11 17:29:32 2016]  ClientDisconnect: 0
+[Fri Feb 12 10:26:44 2016]  ClientConnect: 0
+[Fri Feb 12 10:26:44 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Fri Feb 12 10:27:01 2016]  ClientBegin: 0
+[Fri Feb 12 10:27:07 2016]  Item: 0 weapon_melee
+[Fri Feb 12 10:27:17 2016]  ClientDisconnect: 0
+[Fri Feb 12 14:24:32 2016]  ClientConnect: 0
+[Fri Feb 12 14:24:32 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Fri Feb 12 14:24:49 2016]  ClientBegin: 0
+[Fri Feb 12 14:24:55 2016]  Item: 0 weapon_melee
+[Fri Feb 12 14:42:07 2016]  ClientDisconnect: 0
+[Fri Feb 12 21:57:18 2016]  ClientConnect: 0
+[Fri Feb 12 21:57:18 2016]  mlog:Player Padawan, connected. With IP - 98.235.231.209:29363 
+[Fri Feb 12 21:57:39 2016]  ClientDisconnect: 0
+[Sat Feb 13 12:15:22 2016]  ClientConnect: 0
+[Sat Feb 13 12:15:22 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sat Feb 13 12:15:38 2016]  ClientBegin: 0
+[Sat Feb 13 12:15:44 2016]  Item: 0 weapon_melee
+[Sat Feb 13 12:16:53 2016]  ClientConnect: 1
+[Sat Feb 13 12:16:53 2016]  mlog:Player poweresturbo, connected. With IP - 90.150.93.120:29795 
+[Sat Feb 13 12:17:13 2016]  ClientBegin: 1
+[Sat Feb 13 12:19:35 2016]  say: ^0Shadow^5seer: wrong way
+[Sat Feb 13 12:19:58 2016]  say: ^0Shadow^5seer: again
+[Sat Feb 13 12:21:02 2016]  say: ^0Shadow^5seer: well.. u may kneel before me
+[Sat Feb 13 12:21:18 2016]  say: ^0Shadow^5seer: then ill not take your bones for my throne room
+[Sat Feb 13 12:21:44 2016]  say: poweresturbo: what I shold do there?
+[Sat Feb 13 12:21:56 2016]  say: ^0Shadow^5seer: have no idea
+[Sat Feb 13 12:22:07 2016]  say: ^0Shadow^5seer: u may promise to serve me, the lord of chaos
+[Sat Feb 13 12:22:15 2016]  say: poweresturbo: so big map
+[Sat Feb 13 12:22:19 2016]  say: ^0Shadow^5seer: right
+[Sat Feb 13 12:22:24 2016]  say: ^0Shadow^5seer: made for building
+[Sat Feb 13 12:22:31 2016]  say: ^0Shadow^5seer: things like u see right now
+[Sat Feb 13 12:22:38 2016]  say: poweresturbo: I am newbie in this game
+[Sat Feb 13 12:22:59 2016]  say: ^0Shadow^5seer: well this is makermod server
+[Sat Feb 13 12:23:08 2016]  say: ^0Shadow^5seer: and makermod is made for building
+[Sat Feb 13 12:23:22 2016]  say: ^0Shadow^5seer: placing objects and effects on map
+[Sat Feb 13 12:23:32 2016]  say: ^0Shadow^5seer: thats the way i teleport
+[Sat Feb 13 12:24:36 2016]  say: ^0Shadow^5seer: My origin is: (-16608 -7807 1476) - You can teleport here with /mtelelast
+
+[Sat Feb 13 12:24:41 2016]  say: ^0Shadow^5seer: /mtelelast in console
+[Sat Feb 13 12:26:01 2016]  ClientConnect: 2
+[Sat Feb 13 12:26:01 2016]  mlog:Player GarazH, connected. With IP - 176.210.57.184:29070 
+[Sat Feb 13 12:26:26 2016]  ClientBegin: 2
+[Sat Feb 13 12:27:13 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:27:57 2016]  ClientConnect: 3
+[Sat Feb 13 12:27:57 2016]  mlog:Player warimatas, connected. With IP - 217.118.79.24:-7131 
+[Sat Feb 13 12:28:19 2016]  ClientDisconnect: 0
+[Sat Feb 13 12:28:22 2016]  ClientBegin: 3
+[Sat Feb 13 12:28:32 2016]  Kill: 2 3 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:28:50 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:29:25 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:29:42 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:29:50 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:30:05 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:30:21 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:30:26 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:30:31 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:30:36 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:30:44 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:31:35 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:31:46 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:31:54 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:32:01 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:32:08 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:32:23 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:32:28 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:32:43 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:32:53 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:33:06 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:33:11 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:33:43 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:33:57 2016]  ClientDisconnect: 3
+[Sat Feb 13 12:33:59 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:34:11 2016]  ClientConnect: 0
+[Sat Feb 13 12:34:11 2016]  mlog:Player warimatas, connected. With IP - 217.118.79.24:-7131 
+[Sat Feb 13 12:34:17 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:34:22 2016]  ClientBegin: 0
+[Sat Feb 13 12:34:27 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:34:34 2016]  Kill: 0 1 3: warimatas killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:34:36 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:34:45 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:34:49 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:34:54 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:34:55 2016]  Kill: 2 0 37: GarazH killed warimatas by MOD_TELEFRAG
+[Sat Feb 13 12:34:59 2016]  Kill: 0 2 3: warimatas killed GarazH by MOD_SABER
+[Sat Feb 13 12:35:04 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:35:18 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:35:24 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:35:25 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:35:31 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:35:56 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:36:06 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:36:14 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:36:23 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:36:23 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:36:28 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:36:50 2016]  Kill: 2 0 4: GarazH killed warimatas by MOD_BRYAR_PISTOL
+[Sat Feb 13 12:38:12 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:38:16 2016]  Kill: 2 0 5: GarazH killed warimatas by MOD_BRYAR_PISTOL_ALT
+[Sat Feb 13 12:38:21 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:38:31 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:38:33 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:38:39 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:38:42 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:38:57 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:39:00 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:39:04 2016]  Kill: 0 1 3: warimatas killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:39:11 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:39:14 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:39:27 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:39:33 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:39:44 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:39:52 2016]  Kill: 0 2 4: warimatas killed GarazH by MOD_BRYAR_PISTOL
+[Sat Feb 13 12:40:07 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:40:18 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:40:24 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:40:31 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:40:51 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:41:17 2016]  Kill: 2 1 5: GarazH killed poweresturbo by MOD_BRYAR_PISTOL_ALT
+[Sat Feb 13 12:41:58 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:42:10 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:42:37 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:42:54 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:43:20 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:43:21 2016]  Kill: 2 1 5: GarazH killed poweresturbo by MOD_BRYAR_PISTOL_ALT
+[Sat Feb 13 12:43:36 2016]  Kill: 0 1 3: warimatas killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:43:36 2016]  Kill: 0 2 3: warimatas killed GarazH by MOD_SABER
+[Sat Feb 13 12:43:37 2016]  Kill: 2 1 37: GarazH killed poweresturbo by MOD_TELEFRAG
+[Sat Feb 13 12:43:48 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:43:58 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:44:15 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:44:20 2016]  Kill: 0 1 3: warimatas killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:44:28 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:44:31 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:44:40 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:44:42 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:44:54 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:44:54 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:44:56 2016]  Kill: 2 0 37: GarazH killed warimatas by MOD_TELEFRAG
+[Sat Feb 13 12:45:01 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:45:07 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:45:08 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:45:28 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:45:36 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:45:38 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:45:48 2016]  Kill: 0 1 3: warimatas killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:45:53 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:45:56 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:46:01 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:46:11 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:46:11 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:46:35 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:47:01 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:47:41 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:47:45 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:47:58 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:48:24 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:48:38 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:49:00 2016]  Kill: 0 2 3: warimatas killed GarazH by MOD_SABER
+[Sat Feb 13 12:49:07 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:49:11 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:49:18 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:49:24 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:49:27 2016]  Kill: 0 2 3: warimatas killed GarazH by MOD_SABER
+[Sat Feb 13 12:49:38 2016]  Kill: 0 2 3: warimatas killed GarazH by MOD_SABER
+[Sat Feb 13 12:49:44 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:50:10 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:50:15 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:50:20 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:50:28 2016]  Kill: 0 1 3: warimatas killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:50:30 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:50:41 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:50:50 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:50:54 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:51:04 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:51:38 2016]  Kill: 1 2 5: poweresturbo killed GarazH by MOD_BRYAR_PISTOL_ALT
+[Sat Feb 13 12:51:47 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:51:50 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:51:58 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:52:01 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:52:40 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:52:44 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:53:01 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:53:19 2016]  Kill: 2 1 4: GarazH killed poweresturbo by MOD_BRYAR_PISTOL
+[Sat Feb 13 12:53:24 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:53:27 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:53:34 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:53:47 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:53:49 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:53:56 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:53:56 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:54:17 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:54:27 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:54:35 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:54:40 2016]  Kill: 0 1 3: warimatas killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:54:44 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:54:51 2016]  Kill: 0 1 3: warimatas killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:54:58 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:55:01 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:55:14 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:55:22 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:55:22 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:55:34 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:55:34 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:55:40 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:55:48 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:55:53 2016]  Kill: 0 2 3: warimatas killed GarazH by MOD_SABER
+[Sat Feb 13 12:55:54 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:55:59 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:56:03 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:56:14 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 12:56:20 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:56:37 2016]  Kill: 0 1 3: warimatas killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:56:50 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:56:52 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:56:58 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 12:57:08 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:57:08 2016]  Kill: 0 1 5: warimatas killed poweresturbo by MOD_BRYAR_PISTOL_ALT
+[Sat Feb 13 12:57:20 2016]  Kill: 0 2 5: warimatas killed GarazH by MOD_BRYAR_PISTOL_ALT
+[Sat Feb 13 12:57:54 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 12:58:52 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:59:11 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:59:20 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:59:26 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 12:59:36 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 13:00:18 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 13:00:38 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 13:00:59 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 13:01:03 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 13:01:08 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:01:09 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 13:01:16 2016]  Kill: 0 2 3: warimatas killed GarazH by MOD_SABER
+[Sat Feb 13 13:01:29 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:01:33 2016]  Kill: 0 1 3: warimatas killed poweresturbo by MOD_SABER
+[Sat Feb 13 13:01:38 2016]  Kill: 0 2 3: warimatas killed GarazH by MOD_SABER
+[Sat Feb 13 13:01:41 2016]  Kill: 0 1 3: warimatas killed poweresturbo by MOD_SABER
+[Sat Feb 13 13:01:50 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 13:02:03 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 13:02:10 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:02:12 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 13:02:35 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 13:02:41 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 13:02:47 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 13:02:47 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:02:48 2016]  Kill: 0 2 37: warimatas killed GarazH by MOD_TELEFRAG
+[Sat Feb 13 13:02:56 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 13:03:09 2016]  Kill: 0 2 3: warimatas killed GarazH by MOD_SABER
+[Sat Feb 13 13:03:16 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:03:21 2016]  Kill: 0 1 3: warimatas killed poweresturbo by MOD_SABER
+[Sat Feb 13 13:03:42 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 13:03:48 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:03:52 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 13:04:00 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 13:04:08 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 13:04:19 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 13:04:21 2016]  Kill: 0 2 3: warimatas killed GarazH by MOD_SABER
+[Sat Feb 13 13:04:25 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 13:04:39 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:04:44 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:04:44 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 13:04:45 2016]  Kill: 1 0 37: poweresturbo killed warimatas by MOD_TELEFRAG
+[Sat Feb 13 13:04:51 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 13:05:00 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:05:02 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 13:05:09 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 13:05:19 2016]  Kill: 0 2 3: warimatas killed GarazH by MOD_SABER
+[Sat Feb 13 13:05:36 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:05:46 2016]  Kill: 2 0 3: GarazH killed warimatas by MOD_SABER
+[Sat Feb 13 13:05:49 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 13:05:54 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 13:06:03 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:06:14 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:06:17 2016]  Kill: 2 1 3: GarazH killed poweresturbo by MOD_SABER
+[Sat Feb 13 13:06:25 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:06:42 2016]  Kill: 1 2 3: poweresturbo killed GarazH by MOD_SABER
+[Sat Feb 13 13:06:59 2016]  Kill: 0 1 3: warimatas killed poweresturbo by MOD_SABER
+[Sat Feb 13 13:07:01 2016]  Kill: 0 2 3: warimatas killed GarazH by MOD_SABER
+[Sat Feb 13 13:07:05 2016]  ClientDisconnect: 2
+[Sat Feb 13 13:07:40 2016]  Kill: 1022 0 38: <world> killed warimatas by MOD_FALLING
+[Sat Feb 13 13:07:52 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:08:00 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:08:05 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:08:12 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:08:17 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:08:30 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:08:35 2016]  Kill: 1 0 3: poweresturbo killed warimatas by MOD_SABER
+[Sat Feb 13 13:08:40 2016]  ClientDisconnect: 0
+[Sat Feb 13 13:09:29 2016]  ClientDisconnect: 1
+[Sat Feb 13 19:40:45 2016]  ClientConnect: 0
+[Sat Feb 13 19:40:45 2016]  mlog:Player Padawan, connected. With IP - 92.233.74.50:29070 
+[Sat Feb 13 19:41:13 2016]  ClientBegin: 0
+[Sat Feb 13 19:44:25 2016]  ClientConnect: 1
+[Sat Feb 13 19:44:25 2016]  mlog:Player Padawan, connected. With IP - 92.233.74.50:1027 
+[Sat Feb 13 19:44:39 2016]  ClientBegin: 1
+[Sat Feb 13 19:45:55 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:46:37 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:48:29 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:49:16 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:49:40 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 19:50:11 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:50:32 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:51:10 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:51:43 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 19:52:36 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 19:52:54 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:53:04 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 19:53:17 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 19:53:21 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:53:36 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:54:55 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:55:16 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 19:55:28 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:55:40 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:55:56 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 19:56:40 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:57:19 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 19:57:37 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 19:59:13 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 19:59:43 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:00:31 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:01:07 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:01:22 2016]  Kill: 1 0 31: House Freeman killed Padawan by MOD_FORCE_DARK
+[Sat Feb 13 20:02:07 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:02:21 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:02:45 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:03:09 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:03:46 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:04:06 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:04:19 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:04:37 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:04:50 2016]  ClientConnect: 2
+[Sat Feb 13 20:04:50 2016]  mlog:Player Inf^1!N!^7tó, connected. With IP - 5.18.174.130:29070 
+[Sat Feb 13 20:05:04 2016]  ClientBegin: 2
+[Sat Feb 13 20:05:07 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:05:16 2016]  Kill: 1 2 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:05:25 2016]  Kill: 0 1 5: Padawan killed House Freeman by MOD_BRYAR_PISTOL_ALT
+[Sat Feb 13 20:05:53 2016]  Kill: 0 2 5: Padawan killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Sat Feb 13 20:06:09 2016]  Kill: 1 0 31: House Freeman killed Padawan by MOD_FORCE_DARK
+[Sat Feb 13 20:06:28 2016]  Kill: 1 2 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:06:49 2016]  Kill: 2 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:06:57 2016]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:07:05 2016]  Kill: 2 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:07:17 2016]  Kill: 1 2 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:07:17 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:07:22 2016]  Kill: 0 2 37: Padawan killed Padawan by MOD_TELEFRAG
+[Sat Feb 13 20:07:38 2016]  Kill: 2 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:07:52 2016]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:07:55 2016]  Kill: 2 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:08:00 2016]  Kill: 1 2 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:08:07 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:08:09 2016]  Kill: 1 2 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:08:17 2016]  Kill: 2 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:08:33 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:08:35 2016]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:08:36 2016]  Kill: 1 2 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:08:47 2016]  Kill: 1 2 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:08:55 2016]  Kill: 1 0 31: House Freeman killed Padawan by MOD_FORCE_DARK
+[Sat Feb 13 20:09:22 2016]  Kill: 2 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:09:30 2016]  Kill: 1 2 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:09:35 2016]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:09:41 2016]  Kill: 2 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:09:48 2016]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:09:58 2016]  Kill: 1 2 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:10:01 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:10:04 2016]  Kill: 2 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:10:20 2016]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:10:41 2016]  Kill: 1 2 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:10:47 2016]  Kill: 2 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:10:51 2016]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:11:00 2016]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:11:08 2016]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:11:16 2016]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:11:23 2016]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:11:36 2016]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:11:55 2016]  Kill: 1 2 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:11:57 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:11:58 2016]  Kill: 2 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:12:04 2016]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:12:14 2016]  Kill: 1 2 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:12:15 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:12:24 2016]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:12:31 2016]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:12:39 2016]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:12:47 2016]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Sat Feb 13 20:12:50 2016]  ClientDisconnect: 2
+[Sat Feb 13 20:12:52 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:13:41 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:14:39 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:14:49 2016]  ClientConnect: 2
+[Sat Feb 13 20:14:49 2016]  mlog:Player Mysty, connected. With IP - 213.220.198.165:29070 
+[Sat Feb 13 20:15:06 2016]  ClientBegin: 2
+[Sat Feb 13 20:15:39 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:16:48 2016]  ClientDisconnect: 2
+[Sat Feb 13 20:17:32 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:17:53 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:18:31 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:18:36 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:18:53 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:20:20 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:20:35 2016]  Kill: 0 1 3: Padawan killed House Freeman by MOD_SABER
+[Sat Feb 13 20:20:52 2016]  Kill: 1 0 3: House Freeman killed Padawan by MOD_SABER
+[Sat Feb 13 20:21:01 2016]  ClientDisconnect: 0
+[Sat Feb 13 20:21:05 2016]  ClientDisconnect: 1
+[Sat Feb 13 21:14:57 2016]  ClientConnect: 0
+[Sat Feb 13 21:14:57 2016]  mlog:Player Marian, connected. With IP - 31.130.96.179:29070 
+[Sat Feb 13 21:15:22 2016]  ClientBegin: 0
+[Sat Feb 13 21:15:57 2016]  ClientDisconnect: 0
+[Sun Feb 14 09:50:40 2016]  ClientConnect: 0
+[Sun Feb 14 09:50:40 2016]  mlog:Player ^Omapro^0*, connected. With IP - 188.242.195.109:29070 
+[Sun Feb 14 09:51:30 2016]  ClientBegin: 0
+[Sun Feb 14 09:51:53 2016]  ClientDisconnect: 0
+[Sun Feb 14 09:54:19 2016]  ClientConnect: 0
+[Sun Feb 14 09:54:19 2016]  mlog:Player ^Omapro^0*, connected. With IP - 188.242.195.109:29070 
+[Sun Feb 14 09:54:49 2016]  ClientBegin: 0
+[Sun Feb 14 10:05:01 2016]  Kill: 1022 0 38: <world> killed ^Omapro^0* by MOD_FALLING
+[Sun Feb 14 10:07:21 2016]  ClientDisconnect: 0
+[Sun Feb 14 12:41:05 2016]  ClientConnect: 0
+[Sun Feb 14 12:41:05 2016]  mlog:Player poweresturbo, connected. With IP - 90.150.93.120:14645 
+[Sun Feb 14 12:41:29 2016]  ClientBegin: 0
+[Sun Feb 14 12:43:09 2016]  ClientConnect: 1
+[Sun Feb 14 12:43:09 2016]  mlog:Player GarazH, connected. With IP - 176.210.103.237:29070 
+[Sun Feb 14 12:43:40 2016]  ClientBegin: 1
+[Sun Feb 14 12:44:32 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:44:47 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:44:52 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:45:12 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:45:26 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:45:47 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:45:52 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:46:06 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:46:25 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:46:46 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:46:49 2016]  ClientConnect: 2
+[Sun Feb 14 12:46:49 2016]  mlog:Player warimatas, connected. With IP - 217.118.79.42:23172 
+[Sun Feb 14 12:46:55 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:47:05 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:47:21 2016]  ClientBegin: 2
+[Sun Feb 14 12:47:23 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:47:31 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:47:35 2016]  Kill: 1 2 3: GarazH killed warimatas by MOD_SABER
+[Sun Feb 14 12:47:46 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:48:01 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:48:07 2016]  Kill: 1 2 3: GarazH killed warimatas by MOD_SABER
+[Sun Feb 14 12:48:07 2016]  say: poweresturbo: help
+[Sun Feb 14 12:48:28 2016]  Kill: 0 2 3: poweresturbo killed warimatas by MOD_SABER
+[Sun Feb 14 12:48:29 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:48:30 2016]  Kill: 0 2 37: poweresturbo killed warimatas by MOD_TELEFRAG
+[Sun Feb 14 12:48:39 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:48:57 2016]  Kill: 1 2 3: GarazH killed warimatas by MOD_SABER
+[Sun Feb 14 12:49:30 2016]  Kill: 2 1 3: warimatas killed GarazH by MOD_SABER
+[Sun Feb 14 12:49:57 2016]  Kill: 1 2 3: GarazH killed warimatas by MOD_SABER
+[Sun Feb 14 12:50:14 2016]  Kill: 1 2 3: GarazH killed warimatas by MOD_SABER
+[Sun Feb 14 12:50:22 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:50:31 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:50:36 2016]  Kill: 0 2 3: poweresturbo killed warimatas by MOD_SABER
+[Sun Feb 14 12:51:01 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:51:11 2016]  Kill: 1 2 3: GarazH killed warimatas by MOD_SABER
+[Sun Feb 14 12:51:14 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:51:23 2016]  Kill: 1 2 3: GarazH killed warimatas by MOD_SABER
+[Sun Feb 14 12:51:30 2016]  Kill: 1 2 3: GarazH killed warimatas by MOD_SABER
+[Sun Feb 14 12:51:41 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:51:56 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:52:45 2016]  Kill: 2 0 5: warimatas killed poweresturbo by MOD_BRYAR_PISTOL_ALT
+[Sun Feb 14 12:53:13 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:53:28 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:53:44 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:54:21 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:54:21 2016]  Kill: 1 2 3: GarazH killed warimatas by MOD_SABER
+[Sun Feb 14 12:54:47 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:55:13 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:55:28 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:55:56 2016]  Kill: 1 2 3: GarazH killed warimatas by MOD_SABER
+[Sun Feb 14 12:56:12 2016]  ClientDisconnect: 2
+[Sun Feb 14 12:56:18 2016]  Kill: 1 0 3: GarazH killed poweresturbo by MOD_SABER
+[Sun Feb 14 12:57:01 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:57:20 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:57:38 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:58:20 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:58:45 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:58:55 2016]  Kill: 0 1 3: poweresturbo killed GarazH by MOD_SABER
+[Sun Feb 14 12:58:59 2016]  ClientDisconnect: 1
+[Sun Feb 14 12:59:02 2016]  ClientDisconnect: 0

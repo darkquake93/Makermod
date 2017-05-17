@@ -1,0 +1,120 @@
+[Wed Sep 16 15:30:38 2015]  ------------------------------------------------------------
+[Wed Sep 16 15:30:38 2015]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Sep 16 15:30:39 2015]  ClientConnect: 0
+[Wed Sep 16 15:30:46 2015]  ClientBegin: 0
+[Wed Sep 16 15:30:51 2015]  Item: 0 weapon_melee
+[Wed Sep 16 15:32:15 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Wed Sep 16 15:32:19 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Wed Sep 16 15:46:18 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Wed Sep 16 15:46:23 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Wed Sep 16 15:46:27 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Wed Sep 16 15:46:31 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Wed Sep 16 15:46:36 2015]  ClientDisconnect: 0
+[Wed Sep 16 15:46:36 2015]  ClientDisconnect: 0
+[Wed Sep 16 15:46:36 2015]  ClientConnect: 0
+[Wed Sep 16 15:46:36 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Sep 16 15:46:42 2015]  ClientBegin: 0
+[Wed Sep 16 15:46:49 2015]  Item: 0 weapon_melee
+[Wed Sep 16 15:46:58 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Wed Sep 16 15:55:00 2015]  ClientDisconnect: 0
+[Wed Sep 16 17:30:37 2015]  Exit: Timelimit hit.
+[Wed Sep 16 17:31:32 2015]  ClientConnect: 0
+[Wed Sep 16 17:31:32 2015]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.2:29071 
+[Wed Sep 16 17:31:46 2015]  ClientBegin: 0
+[Wed Sep 16 17:31:50 2015]  ShutdownGame:
+[Wed Sep 16 17:31:50 2015]  ------------------------------------------------------------
+[Wed Sep 16 17:31:50 2015]  ------------------------------------------------------------
+[Wed Sep 16 17:31:50 2015]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Sep 16 17:31:52 2015]  ClientConnect: 0
+[Wed Sep 16 17:32:03 2015]  ClientBegin: 0
+[Wed Sep 16 17:35:40 2015]  print "^0Darkquake is back!^7 @@@PLRENAME ^0Ðàrk^2^1Qµàkè
+"[Wed Sep 16 17:35:45 2015]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Wed Sep 16 17:38:20 2015]  ClientDisconnect: 0
+[Wed Sep 16 17:48:35 2015]  ClientConnect: 0
+[Wed Sep 16 17:48:35 2015]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Wed Sep 16 17:48:41 2015]  ClientBegin: 0
+[Wed Sep 16 17:52:57 2015]  ------------------------------------------------------------
+[Wed Sep 16 17:52:57 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Sep 16 18:23:33 2015]  ClientConnect: 0
+[Wed Sep 16 18:23:33 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Sep 16 18:23:45 2015]  ClientBegin: 0
+[Wed Sep 16 18:23:50 2015]  Item: 0 weapon_melee
+[Wed Sep 16 18:40:50 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Wed Sep 16 18:45:27 2015]  ClientDisconnect: 0
+[Wed Sep 16 18:53:40 2015]  ClientConnect: 0
+[Wed Sep 16 18:53:40 2015]  mlog:Player Padawan, connected. With IP - 5.80.167.99:29070 
+[Wed Sep 16 18:53:51 2015]  ClientBegin: 0
+[Wed Sep 16 18:54:23 2015]  ClientConnect: 1
+[Wed Sep 16 18:54:23 2015]  mlog:Player Lamer, connected. With IP - 151.229.99.5:29070 
+[Wed Sep 16 18:54:35 2015]  ClientBegin: 1
+[Wed Sep 16 18:54:43 2015]  ClientConnect: 2
+[Wed Sep 16 18:54:43 2015]  mlog:Player Padawan, connected. With IP - 109.146.161.48:29070 
+[Wed Sep 16 18:54:56 2015]  ClientBegin: 2
+[Wed Sep 16 18:55:32 2015]  Kill: 1 0 4: Padawan killed Padawan by MOD_BRYAR_PISTOL
+[Wed Sep 16 18:56:45 2015]  Kill: 2 1 3: BigBryson killed Padawan by MOD_SABER
+[Wed Sep 16 18:57:50 2015]  Kill: 2 0 5: BigBryson killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Wed Sep 16 18:57:53 2015]  print "Padawan^7 @@@PLRENAME James Deen
+"[Wed Sep 16 18:58:30 2015]  Kill: 1 2 4: James Deen killed BigBryson by MOD_BRYAR_PISTOL
+[Wed Sep 16 18:58:54 2015]  Kill: 0 2 3: Padawan killed BigBryson by MOD_SABER
+[Wed Sep 16 18:59:38 2015]  Kill: 0 2 31: Padawan killed BigBryson by MOD_FORCE_DARK
+[Wed Sep 16 19:00:13 2015]  Kill: 2 0 3: BigBryson killed Padawan by MOD_SABER
+[Wed Sep 16 19:01:29 2015]  Kill: 1022 1 38: <world> killed James Deen by MOD_FALLING
+[Wed Sep 16 19:02:07 2015]  Kill: 0 2 31: Padawan killed BigBryson by MOD_FORCE_DARK
+[Wed Sep 16 19:02:26 2015]  Kill: 2 0 3: BigBryson killed Padawan by MOD_SABER
+[Wed Sep 16 19:02:34 2015]  Kill: 1 2 5: James Deen killed BigBryson by MOD_BRYAR_PISTOL_ALT
+[Wed Sep 16 19:03:29 2015]  Kill: 2 0 3: BigBryson killed Padawan by MOD_SABER
+[Wed Sep 16 19:03:32 2015]  Kill: 0 2 31: Padawan killed BigBryson by MOD_FORCE_DARK
+[Wed Sep 16 19:04:54 2015]  Kill: 1 0 5: James Deen killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Wed Sep 16 19:05:26 2015]  Kill: 2 1 3: BigBryson killed James Deen by MOD_SABER
+[Wed Sep 16 19:05:58 2015]  Kill: 1 2 3: James Deen killed BigBryson by MOD_SABER
+[Wed Sep 16 19:06:13 2015]  Kill: 1 0 3: James Deen killed Padawan by MOD_SABER
+[Wed Sep 16 19:06:24 2015]  Kill: 2 1 3: BigBryson killed James Deen by MOD_SABER
+[Wed Sep 16 19:06:39 2015]  Kill: 1 1 39: James Deen killed James Deen by MOD_SUICIDE
+[Wed Sep 16 19:06:39 2015]  setteam:  1 FREE SPECTATOR
+[Wed Sep 16 19:06:39 2015]  ClientBegin: 1
+[Wed Sep 16 19:06:45 2015]  setteam:  1 SPECTATOR FREE
+[Wed Sep 16 19:06:45 2015]  ClientBegin: 1
+[Wed Sep 16 19:07:13 2015]  Kill: 2 1 3: BigBryson killed James Deen by MOD_SABER
+[Wed Sep 16 19:07:32 2015]  Kill: 1 0 3: James Deen killed Padawan by MOD_SABER
+[Wed Sep 16 19:08:20 2015]  Kill: 2 0 3: BigBryson killed Padawan by MOD_SABER
+[Wed Sep 16 19:09:26 2015]  Kill: 1 2 31: James Deen killed BigBryson by MOD_FORCE_DARK
+[Wed Sep 16 19:10:03 2015]  Kill: 0 2 3: Padawan killed BigBryson by MOD_SABER
+[Wed Sep 16 19:10:03 2015]  Kill: 1 0 3: James Deen killed Padawan by MOD_SABER
+[Wed Sep 16 19:10:52 2015]  Kill: 0 1 31: Padawan killed James Deen by MOD_FORCE_DARK
+[Wed Sep 16 19:11:32 2015]  Kill: 0 1 3: Padawan killed James Deen by MOD_SABER
+[Wed Sep 16 19:11:38 2015]  Kill: 0 2 31: Padawan killed BigBryson by MOD_FORCE_DARK
+[Wed Sep 16 19:11:56 2015]  Kill: 2 0 3: BigBryson killed Padawan by MOD_SABER
+[Wed Sep 16 19:12:49 2015]  Kill: 2 1 3: BigBryson killed James Deen by MOD_SABER
+[Wed Sep 16 19:14:49 2015]  Kill: 1 0 31: James Deen killed Padawan by MOD_FORCE_DARK
+[Wed Sep 16 19:15:17 2015]  Kill: 1 2 31: James Deen killed BigBryson by MOD_FORCE_DARK
+[Wed Sep 16 19:15:41 2015]  Kill: 1 2 31: James Deen killed BigBryson by MOD_FORCE_DARK
+[Wed Sep 16 19:16:11 2015]  Kill: 2 1 31: BigBryson killed James Deen by MOD_FORCE_DARK
+[Wed Sep 16 19:16:21 2015]  Kill: 1 0 31: James Deen killed Padawan by MOD_FORCE_DARK
+[Wed Sep 16 19:18:02 2015]  Kill: 0 2 38: Padawan killed BigBryson by MOD_FALLING
+[Wed Sep 16 19:20:17 2015]  Kill: 2 0 3: BigBryson killed Padawan by MOD_SABER
+[Wed Sep 16 19:20:34 2015]  Kill: 2 0 5: BigBryson killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Wed Sep 16 19:21:18 2015]  Kill: 1 2 3: James Deen killed BigBryson by MOD_SABER
+[Wed Sep 16 19:21:42 2015]  Kill: 0 2 3: Padawan killed BigBryson by MOD_SABER
+[Wed Sep 16 19:21:48 2015]  Kill: 1 2 3: James Deen killed BigBryson by MOD_SABER
+[Wed Sep 16 19:21:59 2015]  Kill: 1 2 3: James Deen killed BigBryson by MOD_SABER
+[Wed Sep 16 19:23:01 2015]  Kill: 2 0 3: BigBryson killed Padawan by MOD_SABER
+[Wed Sep 16 19:23:12 2015]  Kill: 1 2 3: James Deen killed BigBryson by MOD_SABER
+[Wed Sep 16 19:23:49 2015]  Kill: 2 1 31: BigBryson killed James Deen by MOD_FORCE_DARK
+[Wed Sep 16 19:24:11 2015]  Kill: 0 1 31: Padawan killed James Deen by MOD_FORCE_DARK
+[Wed Sep 16 19:24:25 2015]  Kill: 1 0 31: James Deen killed Padawan by MOD_FORCE_DARK
+[Wed Sep 16 19:24:28 2015]  Kill: 1 2 31: James Deen killed BigBryson by MOD_FORCE_DARK
+[Wed Sep 16 19:24:53 2015]  Kill: 0 1 31: Padawan killed James Deen by MOD_FORCE_DARK
+[Wed Sep 16 19:25:09 2015]  Kill: 2 1 31: BigBryson killed James Deen by MOD_FORCE_DARK
+[Wed Sep 16 19:25:15 2015]  Kill: 0 2 31: Padawan killed BigBryson by MOD_FORCE_DARK
+[Wed Sep 16 19:25:17 2015]  Kill: 1 0 31: James Deen killed Padawan by MOD_FORCE_DARK
+[Wed Sep 16 19:26:41 2015]  Kill: 0 2 3: Padawan killed BigBryson by MOD_SABER
+[Wed Sep 16 19:26:56 2015]  Kill: 1 0 38: James Deen killed Padawan by MOD_FALLING
+[Wed Sep 16 19:27:07 2015]  ClientDisconnect: 2
+[Wed Sep 16 19:27:46 2015]  ClientDisconnect: 0
+[Wed Sep 16 19:27:49 2015]  ClientDisconnect: 1
+[Wed Sep 16 19:52:51 2015]  Exit: Timelimit hit.
+[Thu Sep 17 00:19:46 2015]  ClientConnect: 0
+[Thu Sep 17 00:19:46 2015]  mlog:Player BigBryson, connected. With IP - 109.146.161.48:29070 
+[Thu Sep 17 00:19:57 2015]  ClientBegin: 0
+[Thu Sep 17 00:20:00 2015]  ShutdownGame:
+[Thu Sep 17 00:20:00 2015]  ------------------------------------------------------------

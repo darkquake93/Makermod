@@ -1,0 +1,209 @@
+logfile opened on Sun Jan 17 18:12:12 2016
+
+...detecting CPU, found AMD w/ 3DNow!
+--- Common Initialization Complete ---
+Winsock Initialized
+Opening IP socket: localhost:29070
+Hostname: Mars
+IP: 192.168.1.2
+Working directory: E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData
+execing makermod.cfg
+running_makermod.cfg 
+sv_cheats is read only.
+------ Server Initialization ------
+Server: t2_trip
+Current search path:
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\zzzz_MakerModule_ClientPlugin_v061a_Public.pk3 (2 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\tmuconsole.pk3 (8 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\the_academy_v3.pk3 (121 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\subway.pk3 (15 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\sithcouncilv2.pk3 (285 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\s3_cloneblaster.pk3 (45 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\makerparav1.pk3 (15 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod Serverside v1.3b.pk3 (1 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod In-game menu.pk3 (14 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod Client Plugin.pk3 (2 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\hoverboard_if_extras.pk3 (4 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\hoverboard_if.pk3 (69 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\BlueIce Twilight.pk3 (159 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\BlueIce Nightfall.pk3 (248 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData/makermod
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\veh_dlls.pk3 (3 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\sjc_kashyyyk.pk3 (82 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\sithcouncilv2.pk3 (285 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\Makermod In-game menu Base.pk3 (9 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\Jedi'sHomeJL_II.pk3 (120 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\japlus_gla_anims.pk3 (6 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets3.pk3 (16 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets2.pk3 (62 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets1.pk3 (8320 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets0.pk3 (15346 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData/base
+
+handle 1: qconsole.log
+----------------------
+50474 files in pk3 files
+Loading dll file jampgame.
+ ------- Installing Engine Patches -------- 
+Finished
+------- Game Initialization -------
+gamename: MakerMod
+gameversion: 1.3beta
+gamedate: Dec 27 2010
+MakerMod is written to celebrate our ability
+to learn to make things that improve our lives
+and the life of the species as a whole.
+------------------------------------------------------------
+InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+Loading map objects for t2_trip
+Loaded 326 objects.
+^3Bot route data not found for t2_trip
+execing remaps/general
+Shader Remap: models/map_objects/desert/view_panel_screen_desert ^3-> ^7textures/video/raven
+Shader Remap: models/players/jawa/jawa ^3-> ^7textures/video/raven
+Shader Remap: textures/factory/cat_floor_B ^3-> ^7models/map_objects/factory/glass
+Shader Remap: textures/factory/basic2_Tiled_b ^3-> ^7textures/rbettenbergtest/glass2
+Shader Remap: console ^3-> ^7textures/kejim/stars_scroll
+Shader Remap: gfx/mp/chat_icon ^3-> ^7gfx/effects/stunpass
+Shader Remap: gfx/misc/csparks ^3-> ^7gfx/effects/greenfrontflash
+Shader Remap: gfx/effects/sabers/saberblur ^3-> ^7gfx/effects/fire4
+Shader Remap: gfx/effects/forcepush ^3-> ^7gfx/effects/flamejet
+Shader Remap: models/players/reborn_twin/torso ^3-> ^7gfx/effects/jet3
+Shader Remap: models/players/reborn_twin/head ^3-> ^7gfx/effects/fire4
+Shader Remap: models/players/reborn_twin/legs ^3-> ^7gfx/effects/jet3
+Shader Remap: models/players/reborn_twin/hands ^3-> ^7gfx/effects/jet3
+Shader Remap: models/players/reborn_twin/arms ^3-> ^7gfx/effects/jet3
+Shader Remap: models/players/reborn_twin/icon_default ^3-> ^7gfx/effects/jet4
+Shader Remap: models/players/alora2/alora2_head ^3-> ^7textures/danger/monitor
+Shader Remap: models/players/alora2/icon_default ^3-> ^7textures/danger/monitor
+Shader Remap: models/players/alora2/alora2_torso ^3-> ^7textures/danger/monitor
+Shader Remap: models/players/alora2/alora2_legs ^3-> ^7textures/danger/monitor
+Shader Remap: models/players/alora2/alora2_torso_arms ^3-> ^7textures/danger/monitor
+Shader Remap: models/players/alora2/alora2_torso_hands ^3-> ^7gfx/effects/stunpass
+Shader Remap: models/players/alora2/alora2_tentacles ^3-> ^7gfx/effects/stunpass
+Shader Remap: models/map_objects/factory/f_con1 ^3-> ^7textures/rift/carvedwall
+Shader Remap: models/map_objects/factory/f_con2 ^3-> ^7textures/rift/carvedwall
+Shader Remap: models/map_objects/factory/f_con1_screen ^3-> ^7textures/doomgiver/comm_panel2
+Shader Remap: models/map_objects/factory/f_con2_screen ^3-> ^7textures/doomgiver/comm_panel2
+execing remaps/trip
+Shader Remap: textures/skies/taspir1 ^3-> ^7textures/skies/byss
+Shader Remap: textures/quicktrip/desert_0 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/desert_1 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/desert_1to2 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/desert_2 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/desert_0to1 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/modern_qt_floor ^3-> ^7textures/yavin/obsidian_templebasic
+Shader Remap: textures/quicktrip/modern_qt_basestone ^3-> ^7textures/yavin/obsidian_templebasic2
+Shader Remap: textures/quicktrip/qt_Door_rough ^3-> ^7textures/kejim/stars_scroll
+Shader Remap: textures/quicktrip/qt_wall2_phong ^3-> ^7textures/vjun/floor3
+Shader Remap: textures/quicktrip/modern_qt_trim_top ^3-> ^7textures/quicktrip/qt_trim2
+Shader Remap: textures/quicktrip/qt_domebase ^3-> ^7textures/vjun/floor3
+Shader Remap: textures/quicktrip/new_qt_wall2_entrance ^3-> ^7textures/vjun/wall9
+Shader Remap: textures/quicktrip/pillar ^3-> ^7textures/vjun/walk_ceiling
+Shader Remap: textures/quicktrip/qt_pillarbase ^3-> ^7textures/vjun/wall8
+Shader Remap: textures/bounty/basic1_dark ^3-> ^7textures/vjun/wall9
+Shader Remap: textures/quicktrip/qt_stonefloor_phong ^3-> ^7textures/yavin/obsidian_templebasic
+Shader Remap: textures/quicktrip/qt_basestone_phong ^3-> ^7textures/yavin/obsidian_templebasic
+Cvar_Set2: logfile 1
+finishing_makermod.cfg 
+Cvar_Set2: net_port 29070
+Hitch warning: 99052 msec frame time
+broadcast: print "Server: g_forceRegenTime changed to 0\n"
+broadcast: print "Server: timelimit changed to 0\n"
+Resolving masterjk3.ravensoft.com
+masterjk3.ravensoft.com resolved to 104.40.23.123:29060
+Sending heartbeat to masterjk3.ravensoft.com
+Resolving master.jkhub.org
+master.jkhub.org resolved to 178.33.231.116:29060
+Sending heartbeat to master.jkhub.org
+Resolving 162.213.223.155
+162.213.223.155 resolved to 162.213.223.155:29060
+Sending heartbeat to 162.213.223.155
+SV packet 178.33.231.116:29060 : getinfo
+Hitch warning: 5179 msec frame time
+SV packet 178.27.156.75:29070 : getinfo
+SV packet 176.63.20.83:-21334 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 79.184.251.134:29070 : getinfo
+SV packet 91.228.196.224:-13130 : getstatus
+SV packet 92.23.54.231:29070 : getinfo
+Hitch warning: 621 msec frame time
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 79.64.67.148:12147 : getinfo
+SV packet 90.154.69.67:13504 : getinfo
+SV packet 37.44.65.238:12236 : getinfo
+SV packet 5.196.26.204:-13093 : getstatus
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 91.207.27.72:29070 : getinfo
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 46.188.125.107:12580 : getinfo
+SV packet 91.76.58.143:29070 : getinfo
+SV packet 79.64.67.148:12147 : getinfo
+SV packet 91.228.196.224:-19043 : getstatus
+SV packet 178.206.135.178:29071 : getinfo
+SV packet 79.184.251.134:29070 : getinfo
+SV packet 91.76.58.143:29070 : getinfo
+SV packet 46.188.125.107:12580 : getinfo
+SV packet 99.74.178.9:29070 : getinfo
+SV packet 5.166.45.74:29070 : getinfo
+SV packet 5.166.45.74:29070 : getinfo
+SV packet 5.196.26.204:-13093 : getstatus
+SV packet 5.166.45.74:29070 : getinfo
+SV packet 88.156.140.227:-2785 : getinfo
+SV packet 91.228.196.224:-16437 : getstatus
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 87.247.51.156:29070 : getinfo
+SV packet 83.252.201.139:29070 : getinfo
+SV packet 46.196.154.69:29070 : getinfo
+SV packet 37.35.233.187:29070 : getinfo
+SV packet 37.35.233.187:29070 : getinfo
+SV packet 86.171.156.117:29070 : getinfo
+SV packet 86.171.156.117:29070 : getinfo
+SV packet 91.207.27.72:29070 : getinfo
+SV packet 88.156.140.227:-2785 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 86.31.121.15:29070 : getinfo
+SV packet 37.35.233.187:29070 : getinfo
+SV packet 5.196.26.204:-13093 : getstatus
+SV packet 87.16.29.55:29070 : getinfo
+SV packet 37.35.233.187:29070 : getinfo
+SV packet 86.31.121.15:29070 : getinfo
+SV packet 73.155.219.13:29070 : getinfo
+SV packet 201.191.199.54:9732 : getinfo
+SV packet 37.35.233.187:29070 : getinfo
+SV packet 5.228.173.243:29070 : getinfo
+SV packet 5.228.173.243:29070 : getinfo
+SV packet 91.228.196.224:-11237 : getstatus
+SV packet 37.35.233.187:29070 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 92.221.220.177:29070 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 87.117.14.148:24229 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 4.30.115.102:-15740 : getinfo
+SV packet 5.196.26.204:-13093 : getstatus
+SV packet 84.236.112.59:29072 : getinfo
+SV packet 84.236.112.59:29072 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 91.228.196.224:-28531 : getstatus
+SV packet 65.191.203.131:29070 : getinfo
+SV packet 201.191.199.54:9732 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 65.191.203.131:29070 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 176.114.189.197:10833 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 176.63.20.83:-21280 : getinfo
+SV packet 4.30.115.102:-17272 : getinfo
+SV packet 109.186.162.140:29070 : getstatus
+SV packet 78.25.182.173:29070 : getinfo
+SV packet 78.25.182.173:29070 : getinfo
+SV packet 78.25.182.1

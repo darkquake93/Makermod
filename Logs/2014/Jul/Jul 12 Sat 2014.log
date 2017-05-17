@@ -1,0 +1,113 @@
+[Sat Jul 12 14:12:18 2014]  ------------------------------------------------------------
+[Sat Jul 12 14:12:18 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Jul 12 14:12:19 2014]  ClientConnect: 0
+[Sat Jul 12 14:12:36 2014]  ClientBegin: 0
+[Sat Jul 12 14:14:08 2014]  Kill: 0 0 39: ^4=NCN=PADAWAN killed ^4=NCN=PADAWAN by MOD_SUICIDE
+[Sat Jul 12 14:14:08 2014]  setteam:  0 FREE SPECTATOR
+[Sat Jul 12 14:14:08 2014]  ClientBegin: 0
+[Sat Jul 12 14:14:14 2014]  setteam:  0 SPECTATOR FREE
+[Sat Jul 12 14:14:14 2014]  ClientBegin: 0
+[Sat Jul 12 14:17:39 2014]  ClientConnect: 1
+[Sat Jul 12 14:17:39 2014]  mlog:Player 绝代天骄, connected. With IP - 113.81.215.145:29070 
+[Sat Jul 12 14:18:18 2014]  ClientBegin: 1
+[Sat Jul 12 14:18:56 2014]  say: ^4=NCN=PADAWAN: ?
+[Sat Jul 12 14:19:07 2014]  print "^4=NCN=PADAWAN^7 @@@PLRENAME edgar
+"[Sat Jul 12 14:20:07 2014]  say: edgar: 多少血？
+[Sat Jul 12 14:20:16 2014]  say: 绝代天骄: 89
+[Sat Jul 12 14:20:39 2014]  Kill: 0 1 31: edgar killed 绝代天骄 by MOD_FORCE_DARK
+[Sat Jul 12 14:20:41 2014]  say: edgar: ...
+[Sat Jul 12 14:21:37 2014]  say: edgar: 人呢？
+[Sat Jul 12 14:21:48 2014]  say: 绝代天骄: 不知道啊
+[Sat Jul 12 14:22:38 2014]  say: 绝代天骄: lx要来ja了
+[Sat Jul 12 14:22:40 2014]  say: edgar: en
+[Sat Jul 12 14:22:48 2014]  say: edgar: zou ba
+[Sat Jul 12 14:22:52 2014]  ClientDisconnect: 0
+[Sat Jul 12 14:22:52 2014]  ClientDisconnect: 1
+[Sat Jul 12 16:12:16 2014]  Exit: Timelimit hit.
+[Sat Jul 12 16:22:37 2014]  ClientConnect: 0
+[Sat Jul 12 16:22:37 2014]  mlog:Player Master Katarn, connected. With IP - 178.167.97.246:29070 
+[Sat Jul 12 16:22:49 2014]  ClientBegin: 0
+[Sat Jul 12 16:22:57 2014]  ShutdownGame:
+[Sat Jul 12 16:22:57 2014]  ------------------------------------------------------------
+[Sat Jul 12 16:22:58 2014]  ------------------------------------------------------------
+[Sat Jul 12 16:22:58 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Jul 12 16:23:00 2014]  ClientConnect: 0
+[Sat Jul 12 16:23:17 2014]  ClientBegin: 0
+[Sat Jul 12 16:29:10 2014]  Kill: 1022 0 11: <world> killed Master Katarn by MOD_BOWCASTER
+[Sat Jul 12 16:29:30 2014]  Kill: 1022 0 11: <world> killed Master Katarn by MOD_BOWCASTER
+[Sat Jul 12 16:29:50 2014]  Item: 0 weapon_rocket_launcher
+[Sat Jul 12 16:34:58 2014]  Kill: 1022 0 20: <world> killed Master Katarn by MOD_ROCKET_SPLASH
+[Sat Jul 12 16:37:53 2014]  -8<------- Crash Information ------->8-
+[Sat Jul 12 16:37:53 2014]      Please forward to Scooper 
+[Sat Jul 12 16:37:53 2014]  ---------------------------------------
+[Sat Jul 12 16:37:53 2014]  Version: MakerMod Win32
+[Sat Jul 12 16:37:53 2014]  Build Date: Dec 27 2010[Sat Jul 12 16:37:53 2014]  Build Time: 23:45:02[Sat Jul 12 16:37:53 2014]  Map: t2_trip
+[Sat Jul 12 16:37:53 2014]  Exception: Access violation (0xc0000005)
+[Sat Jul 12 16:37:53 2014]  Exception Address: 0x2010d07f
+[Sat Jul 12 16:37:53 2014]  DLL Information:
+[Sat Jul 12 16:37:53 2014]  0x00400000	jampDed
+[Sat Jul 12 16:37:53 2014]  0x773a0000	ntdll
+[Sat Jul 12 16:37:53 2014]  0x75240000	kernel32
+[Sat Jul 12 16:37:53 2014]  0x76900000	KERNELBASE
+[Sat Jul 12 16:37:53 2014]  0x72620000	WSOCK32
+[Sat Jul 12 16:37:53 2014]  0x764a0000	WS2_32
+[Sat Jul 12 16:37:53 2014]  0x76390000	msvcrt
+[Sat Jul 12 16:37:53 2014]  0x76700000	RPCRT4
+[Sat Jul 12 16:37:53 2014]  0x74a80000	SspiCli
+[Sat Jul 12 16:37:53 2014]  0x74a70000	CRYPTBASE
+[Sat Jul 12 16:37:53 2014]  0x76680000	sechost
+[Sat Jul 12 16:37:53 2014]  0x77370000	NSI
+[Sat Jul 12 16:37:53 2014]  0x71930000	WINMM
+[Sat Jul 12 16:37:53 2014]  0x76800000	USER32
+[Sat Jul 12 16:37:53 2014]  0x75060000	GDI32
+[Sat Jul 12 16:37:53 2014]  0x74cf0000	LPK
+[Sat Jul 12 16:37:53 2014]  0x751a0000	USP10
+[Sat Jul 12 16:37:53 2014]  0x74b30000	ADVAPI32
+[Sat Jul 12 16:37:53 2014]  0x76440000	IMM32
+[Sat Jul 12 16:37:53 2014]  0x75550000	MSCTF
+[Sat Jul 12 16:37:53 2014]  0x725c0000	mswsock
+[Sat Jul 12 16:37:53 2014]  0x725b0000	wshtcpip
+[Sat Jul 12 16:37:53 2014]  0x74820000	NLAapi
+[Sat Jul 12 16:37:53 2014]  0x73e20000	napinsp
+[Sat Jul 12 16:37:53 2014]  0x6d630000	pnrpnsp
+[Sat Jul 12 16:37:53 2014]  0x72190000	DNSAPI
+[Sat Jul 12 16:37:53 2014]  0x73470000	winrnr
+[Sat Jul 12 16:37:53 2014]  0x74220000	WLIDNSP
+[Sat Jul 12 16:37:53 2014]  0x767f0000	PSAPI
+[Sat Jul 12 16:37:53 2014]  0x766a0000	SHLWAPI
+[Sat Jul 12 16:37:53 2014]  0x741f0000	mdnsNSP
+[Sat Jul 12 16:37:53 2014]  0x72340000	Iphlpapi
+[Sat Jul 12 16:37:53 2014]  0x72330000	WINNSI
+[Sat Jul 12 16:37:53 2014]  0x70120000	wshbth
+[Sat Jul 12 16:37:53 2014]  0x741b0000	fwpuclnt
+[Sat Jul 12 16:37:53 2014]  0x745a0000	rasadhlp
+[Sat Jul 12 16:37:53 2014]  0x20000000	jampgamex86
+[Sat Jul 12 16:37:53 2014]  0x76950000	IMAGEHLP
+[Sat Jul 12 16:37:53 2014]  0x71970000	dbghelp
+[Sat Jul 12 16:37:53 2014]  Backtrace:
+[Sat Jul 12 16:37:53 2014]  (0) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x4b2af) [0x2010d07f]
+[Sat Jul 12 16:37:53 2014]  (1) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x4b696) [0x2010d466]
+[Sat Jul 12 16:37:53 2014]  (2) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x5aa0) [0x200a5010]
+[Sat Jul 12 16:37:53 2014]  (3) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0xdd) [0x2009f64d]
+[Sat Jul 12 16:37:53 2014]  (4) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Sat Jul 12 16:37:53 2014]  (5) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0044c751]
+[Sat Jul 12 16:37:53 2014]  (6) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x00411e0d]
+[Sat Jul 12 16:37:53 2014]  (7) C:\Windows\syswow64\kernel32.dll(BaseThreadInitThunk+0x12) [0x7525338a]
+[Sat Jul 12 16:37:53 2014]  (8) C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x773d9f72]
+[Sat Jul 12 16:37:53 2014]  (9) C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x773d9f45]
+[Sat Jul 12 16:37:53 2014]  -8<--------------------------------->8-
+
+[Sat Jul 12 16:37:53 2014]  Attempting to clean up.
+[Sat Jul 12 16:37:53 2014]  ShutdownGame:
+[Sat Jul 12 16:37:53 2014]  ------------------------------------------------------------
+[Sat Jul 12 16:37:54 2014]  ------------------------------------------------------------
+[Sat Jul 12 16:37:54 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Jul 12 16:38:12 2014]  ClientConnect: 0
+[Sat Jul 12 16:38:12 2014]  mlog:Player Master Katarn, connected. With IP - 178.167.97.246:29070 
+[Sat Jul 12 16:41:34 2014]  ClientDisconnect: 0
+[Sat Jul 12 18:38:46 2014]  Exit: Timelimit hit.
+[Sun Jul 13 12:03:54 2014]  ClientConnect: 0
+[Sun Jul 13 12:03:54 2014]  mlog:Player Nero 7, connected. With IP - 88.201.156.234:29070 
+[Sun Jul 13 12:04:34 2014]  ClientBegin: 0
+[Sun Jul 13 12:05:15 2014]  ShutdownGame:
+[Sun Jul 13 12:05:15 2014]  ------------------------------------------------------------

@@ -1,0 +1,392 @@
+[Fri Jan 15 15:06:50 2016]  ------------------------------------------------------------
+[Fri Jan 15 15:06:50 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Jan 15 15:07:38 2016]  ClientConnect: 0
+[Fri Jan 15 15:07:38 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Fri Jan 15 15:07:48 2016]  ClientBegin: 0
+[Fri Jan 15 15:11:33 2016]  ClientDisconnect: 0
+[Fri Jan 15 15:11:48 2016]  ClientConnect: 0
+[Fri Jan 15 15:11:48 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Fri Jan 15 15:12:08 2016]  ClientBegin: 0
+[Fri Jan 15 15:29:40 2016]  ClientConnect: 1
+[Fri Jan 15 15:29:40 2016]  mlog:Player lolz , connected. With IP -  
+[Fri Jan 15 15:29:40 2016]  FORCESTRING CRASH: Client num 0 tried to take incorrect forcestring ''.[Fri Jan 15 15:29:40 2016]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri Jan 15 15:29:40 2016]  ClientBegin: 1
+[Fri Jan 15 15:35:23 2016]  Kill: 1 0 3: lolz  killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Fri Jan 15 15:46:00 2016]  ClientDisconnect: 1
+[Fri Jan 15 16:07:55 2016]  ClientDisconnect: 0
+[Fri Jan 15 16:28:40 2016]  ClientConnect: 0
+[Fri Jan 15 16:28:40 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Fri Jan 15 16:28:49 2016]  ClientBegin: 0
+[Fri Jan 15 16:30:30 2016]  ClientDisconnect: 0
+[Fri Jan 15 17:41:18 2016]  ClientConnect: 0
+[Fri Jan 15 17:41:18 2016]  mlog:Player Padawan, connected. With IP - 92.144.213.167:1 
+[Fri Jan 15 17:41:24 2016]  ClientDisconnect: 0
+[Fri Jan 15 17:41:24 2016]  ClientConnect: 0
+[Fri Jan 15 17:41:24 2016]  mlog:Player Padawan, connected. With IP - 92.144.213.167:1 
+[Fri Jan 15 17:44:44 2016]  ClientDisconnect: 0
+[Fri Jan 15 19:21:49 2016]  ClientConnect: 0
+[Fri Jan 15 19:21:49 2016]  mlog:Player Jarobot, connected. With IP - 88.212.36.27:29070 
+[Fri Jan 15 19:21:57 2016]  ClientDisconnect: 0
+[Fri Jan 15 20:28:09 2016]  ClientConnect: 0
+[Fri Jan 15 20:28:09 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Fri Jan 15 20:28:25 2016]  ClientBegin: 0
+[Fri Jan 15 20:28:33 2016]  Item: 0 weapon_melee
+[Fri Jan 15 20:29:06 2016]  ClientDisconnect: 0
+[Fri Jan 15 20:52:23 2016]  ClientConnect: 0
+[Fri Jan 15 20:52:23 2016]  mlog:Player Jarobot, connected. With IP - 88.212.36.27:29070 
+[Fri Jan 15 20:52:32 2016]  ClientDisconnect: 0
+[Fri Jan 15 21:14:48 2016]  ClientConnect: 0
+[Fri Jan 15 21:14:48 2016]  mlog:Player TheGamerGuyGBR, connected. With IP - 82.11.115.108:29070 
+[Fri Jan 15 21:15:05 2016]  ClientBegin: 0
+[Fri Jan 15 21:16:35 2016]  ClientConnect: 1
+[Fri Jan 15 21:16:35 2016]  mlog:Player Padawan, connected. With IP - 82.12.111.143:29070 
+[Fri Jan 15 21:17:03 2016]  ClientBegin: 1
+[Fri Jan 15 21:21:38 2016]  Kill: 0 1 3: TheGamerGuyGBR killed Padawan by MOD_SABER
+[Fri Jan 15 21:22:18 2016]  Kill: 0 1 3: TheGamerGuyGBR killed Padawan by MOD_SABER
+[Fri Jan 15 21:22:39 2016]  Kill: 0 1 3: TheGamerGuyGBR killed Padawan by MOD_SABER
+[Fri Jan 15 21:22:46 2016]  ClientDisconnect: 0
+[Fri Jan 15 21:22:46 2016]  ClientDisconnect: 1
+[Fri Jan 15 21:47:57 2016]  ClientConnect: 0
+[Fri Jan 15 21:47:57 2016]  mlog:Player ^5{^2JoFA^5}F^2udg^5e{^2A^5}, connected. With IP - 62.194.185.153:29070 
+[Fri Jan 15 21:48:14 2016]  ClientBegin: 0
+[Fri Jan 15 22:06:22 2016]  ClientConnect: 1
+[Fri Jan 15 22:06:22 2016]  mlog:Player Padawan, connected. With IP - 98.142.77.229:29070 
+[Fri Jan 15 22:07:17 2016]  ClientDisconnect: 0
+[Fri Jan 15 22:09:51 2016]  ClientDisconnect: 1
+[Fri Jan 15 23:00:10 2016]  ClientConnect: 0
+[Fri Jan 15 23:00:10 2016]  mlog:Player ^1D^0arkys, connected. With IP - 93.91.151.44:29070 
+[Fri Jan 15 23:00:27 2016]  ClientBegin: 0
+[Fri Jan 15 23:01:35 2016]  ClientDisconnect: 0
+[Fri Jan 15 23:02:16 2016]  ClientConnect: 0
+[Fri Jan 15 23:02:16 2016]  mlog:Player ^1D^0arkys, connected. With IP - 93.91.151.44:29070 
+[Fri Jan 15 23:02:43 2016]  ClientBegin: 0
+[Fri Jan 15 23:03:10 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:13 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:16 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:17 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:17 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:17 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:17 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:17 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:17 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:17 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:17 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:17 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:17 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:17 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:17 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:19 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:20 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:22 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:24 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:26 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:27 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:28 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:29 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:30 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:31 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:34 2016]  say: ^1D^0arkys: ^1MANGEKYOU SHARINGAN!!
+[Fri Jan 15 23:03:38 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:42 2016]  say: ^1D^0arkys: ^1MANGEKYOU SHARINGAN!!
+[Fri Jan 15 23:03:45 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:47 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:47 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:47 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:47 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:47 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:48 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:49 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:49 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:49 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:49 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:03:51 2016]  say: ^1D^0arkys: ^5CHIDORI!!
+[Fri Jan 15 23:04:04 2016]  say: ^1D^0arkys: ^1KATON RYUKA NO JUTSU!!
+[Fri Jan 15 23:04:09 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:04:09 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:04:09 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:04:09 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:04:09 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:04:09 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:04:14 2016]  say: ^1D^0arkys: ^1KATON RYUKA NO JUTSU!!
+[Fri Jan 15 23:04:19 2016]  say: ^1D^0arkys: ^1KATON RYUKA NO JUTSU!!
+[Fri Jan 15 23:04:25 2016]  say: ^1D^0arkys: ^8Ahhhhh the Cursed Seal moves!!!!!
+[Fri Jan 15 23:04:32 2016]  say: ^1D^0arkys: ^8AAHH the Seal takes me over!!!!!
+[Fri Jan 15 23:04:38 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:04:43 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:04:44 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:04:46 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:04:47 2016]  say: ^1D^0arkys: ^1^0I haven't enough Chakra!
+[Fri Jan 15 23:04:50 2016]  say: ^1D^0arkys: ^1KATON GOKAKYU NO JUTSU!
+[Fri Jan 15 23:04:56 2016]  say: ^1D^0arkys: ^1KATON HOSENKA!!
+[Fri Jan 15 23:04:58 2016]  say: ^1D^0arkys: ^5CHIDORI!!
+[Fri Jan 15 23:04:59 2016]  say: ^1D^0arkys: ^5CHIDORI!!
+[Fri Jan 15 23:05:01 2016]  say: ^1D^0arkys: ^5CHIDORI!!
+[Fri Jan 15 23:05:02 2016]  say: ^1D^0arkys: ^5CHIDORI!!
+[Fri Jan 15 23:05:04 2016]  say: ^1D^0arkys: ^5CHIDORI!!
+[Fri Jan 15 23:05:05 2016]  say: ^1D^0arkys: ^5CHIDORI!!
+[Fri Jan 15 23:05:07 2016]  say: ^1D^0arkys: ^5CHIDORI!!
+[Fri Jan 15 23:05:09 2016]  say: ^1D^0arkys: ^5CHIDORI!!
+[Fri Jan 15 23:05:10 2016]  say: ^1D^0arkys: ^5CHIDORI!!
+[Fri Jan 15 23:05:12 2016]  say: ^1D^0arkys: ^5CHIDORI!!
+[Fri Jan 15 23:05:14 2016]  say: ^1D^0arkys: ^5CHIDORI!!
+[Fri Jan 15 23:05:16 2016]  say: ^1D^0arkys: ^5CHIDORI!!
+[Fri Jan 15 23:05:25 2016]  Kill: 0 0 39: ^1D^0arkys killed ^1D^0arkys by MOD_SUICIDE
+[Fri Jan 15 23:05:47 2016]  ClientDisconnect: 0
+[Fri Jan 15 23:11:07 2016]  ClientConnect: 0
+[Fri Jan 15 23:11:07 2016]  mlog:Player Darth Vader, connected. With IP - 70.29.93.98:29070 
+[Fri Jan 15 23:11:27 2016]  ClientBegin: 0
+[Fri Jan 15 23:11:30 2016]  ClientConnect: 1
+[Fri Jan 15 23:11:30 2016]  mlog:Player Hey guys its nicole, connected. With IP - 70.27.177.233:29070 
+[Fri Jan 15 23:11:48 2016]  ClientBegin: 1
+[Fri Jan 15 23:12:28 2016]  Kill: 0 1 3: Ali killed Macein Luther King by MOD_SABER
+[Fri Jan 15 23:12:34 2016]  ClientConnect: 2
+[Fri Jan 15 23:12:34 2016]  mlog:Player Heinrich Himmler, connected. With IP - 66.49.132.159:29070 
+[Fri Jan 15 23:12:43 2016]  Kill: 0 1 3: Ali killed Macein Luther King by MOD_SABER
+[Fri Jan 15 23:12:52 2016]  ClientBegin: 2
+[Fri Jan 15 23:12:54 2016]  Kill: 1 0 3: Macein Luther King killed Ali by MOD_SABER
+[Fri Jan 15 23:13:04 2016]  ClientConnect: 3
+[Fri Jan 15 23:13:04 2016]  mlog:Player Chupa, connected. With IP - 99.229.168.157:29070 
+[Fri Jan 15 23:13:14 2016]  ClientDisconnect: 3
+[Fri Jan 15 23:13:22 2016]  Kill: 1 0 3: Macein Luther King killed Ali by MOD_SABER
+[Fri Jan 15 23:13:25 2016]  Kill: 0 1 3: Ali killed Macein Luther King by MOD_SABER
+[Fri Jan 15 23:16:22 2016]  print "Heinrich Himmler^7 @@@PLRENAME Padawan
+"[Fri Jan 15 23:18:06 2016]  print "Padawan^7 @@@PLRENAME Jede Heinrich Himmler
+"[Fri Jan 15 23:19:13 2016]  ClientConnect: 3
+[Fri Jan 15 23:19:13 2016]  mlog:Player ^1D^0arkys, connected. With IP - 93.91.151.44:29070 
+[Fri Jan 15 23:19:22 2016]  Kill: 0 1 31: Ali killed Macein Luther King by MOD_FORCE_DARK
+[Fri Jan 15 23:19:29 2016]  ClientDisconnect: 1
+[Fri Jan 15 23:19:30 2016]  ClientDisconnect: 0
+[Fri Jan 15 23:19:40 2016]  ClientBegin: 3
+[Fri Jan 15 23:19:43 2016]  say: Jede Heinrich Himmler: y
+[Fri Jan 15 23:19:56 2016]  say: ^1D^0arkys: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Fri Jan 15 23:20:14 2016]  ClientDisconnect: 2
+[Fri Jan 15 23:21:16 2016]  ClientConnect: 0
+[Fri Jan 15 23:21:16 2016]  mlog:Player ^5F^2udg^5e, connected. With IP - 62.194.185.153:29070 
+[Fri Jan 15 23:21:32 2016]  ClientDisconnect: 0
+[Fri Jan 15 23:22:57 2016]  Kill: 1022 3 0: <world> killed ^1D^0arkys by MOD_UNKNOWN
+[Fri Jan 15 23:23:32 2016]  say: ^1D^0arkys: ^4Lightning ^5Powers off
+[Fri Jan 15 23:23:37 2016]  say: ^1D^0arkys: ^4Push!
+[Fri Jan 15 23:23:40 2016]  say: ^1D^0arkys: ^5Lightning Bolt!
+[Fri Jan 15 23:23:45 2016]  say: ^1D^0arkys: ^4Storm Portal!!
+[Fri Jan 15 23:23:49 2016]  say: ^1D^0arkys: ^4Storm Portal!!
+[Fri Jan 15 23:23:57 2016]  say: ^1D^0arkys: ^4Lightning ^5Powers off
+[Fri Jan 15 23:24:00 2016]  say: ^1D^0arkys: ^4Storm Portal!!
+[Fri Jan 15 23:24:11 2016]  say: ^1D^0arkys: ^5Meditation!
+[Fri Jan 15 23:24:16 2016]  say: ^1D^0arkys: ^4Lightning ^5Powers off
+[Fri Jan 15 23:24:19 2016]  say: ^1D^0arkys: ^4Raikiri!!
+[Fri Jan 15 23:24:38 2016]  say: ^1D^0arkys: ^4Lightning ^5Powers off
+[Fri Jan 15 23:24:38 2016]  say: ^1D^0arkys: ^5Shock!
+[Fri Jan 15 23:24:45 2016]  say: ^1D^0arkys: ^5Shock!
+[Fri Jan 15 23:24:46 2016]  say: ^1D^0arkys: ^5Shock!
+[Fri Jan 15 23:24:47 2016]  say: ^1D^0arkys: ^5Shock!
+[Fri Jan 15 23:24:48 2016]  say: ^1D^0arkys: ^5Shock!
+[Fri Jan 15 23:24:58 2016]  say: ^1D^0arkys: ^4Storm Portal!!
+[Fri Jan 15 23:25:02 2016]  say: ^1D^0arkys: ^4Lightning ^5Powers off
+[Fri Jan 15 23:25:05 2016]  say: ^1D^0arkys: ^4Lightning!
+[Fri Jan 15 23:25:36 2016]  say: ^1D^0arkys: ^4Push!
+[Fri Jan 15 23:25:45 2016]  say: ^1D^0arkys: ^5Shock!
+[Fri Jan 15 23:25:47 2016]  say: ^1D^0arkys: ^4Raikiri!!
+[Fri Jan 15 23:25:50 2016]  say: ^1D^0arkys: ^5Meditation!
+[Fri Jan 15 23:25:55 2016]  say: ^1D^0arkys: ^4Lightning ^5Powers off
+[Fri Jan 15 23:26:00 2016]  say: ^1D^0arkys: ^4Lightning!
+[Fri Jan 15 23:26:09 2016]  say: ^1D^0arkys: ^4Lightning ^5Powers off
+[Fri Jan 15 23:26:19 2016]  say: ^1D^0arkys: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Fri Jan 15 23:27:15 2016]  Kill: 3 3 36: ^1D^0arkys killed ^1D^0arkys by MOD_CRUSH
+[Fri Jan 15 23:27:19 2016]  ClientDisconnect: 3
+[Sat Jan 16 00:22:25 2016]  ClientConnect: 0
+[Sat Jan 16 00:22:25 2016]  mlog:Player ^1Sexy^8Tarantula, connected. With IP - 68.49.175.199:29070 
+[Sat Jan 16 00:22:43 2016]  ClientBegin: 0
+[Sat Jan 16 00:25:36 2016]  ClientDisconnect: 0
+[Sat Jan 16 00:26:11 2016]  ClientConnect: 0
+[Sat Jan 16 00:26:11 2016]  mlog:Player ^1Sexy^8Tarantula, connected. With IP - 68.49.175.199:29070 
+[Sat Jan 16 00:26:21 2016]  ClientBegin: 0
+[Sat Jan 16 00:27:51 2016]  Kill: 0 0 39: ^1Sexy^8Tarantula killed ^1Sexy^8Tarantula by MOD_SUICIDE
+[Sat Jan 16 00:37:05 2016]  Kill: 0 0 39: ^1Sexy^8Tarantula killed ^1Sexy^8Tarantula by MOD_SUICIDE
+[Sat Jan 16 00:44:50 2016]  ClientDisconnect: 0
+[Sat Jan 16 00:45:56 2016]  ClientConnect: 0
+[Sat Jan 16 00:45:56 2016]  mlog:Player ^1Sexy^8Tarantula, connected. With IP - 68.49.175.199:29070 
+[Sat Jan 16 00:46:14 2016]  ClientBegin: 0
+[Sat Jan 16 00:59:50 2016]  ClientDisconnect: 0
+[Sat Jan 16 11:53:36 2016]  ClientConnect: 0
+[Sat Jan 16 11:53:36 2016]  mlog:Player MEGYI, connected. With IP - 95.52.27.189:29070 
+[Sat Jan 16 11:53:45 2016]  ClientDisconnect: 0
+[Sat Jan 16 16:07:30 2016]  ClientConnect: 0
+[Sat Jan 16 16:07:30 2016]  mlog:Player Padawan, connected. With IP - 178.121.66.25:-24990 
+[Sat Jan 16 16:08:24 2016]  ClientBegin: 0
+[Sat Jan 16 16:10:11 2016]  say: Agent Mat[kyZ]: ^1Bar ^4SCRIPT ^2by ^4Frozen^7Sparky
+[Sat Jan 16 16:21:21 2016]  ClientDisconnect: 0
+[Sat Jan 16 16:53:31 2016]  ClientConnect: 0
+[Sat Jan 16 16:53:31 2016]  mlog:Player ^0[TK^1O^0R]Magn^1u^0s[^1WR^0], connected. With IP - 87.117.15.120:6726 
+[Sat Jan 16 16:54:41 2016]  ClientBegin: 0
+[Sat Jan 16 16:58:11 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: ^5:^3c
+[Sat Jan 16 17:07:12 2016]  ClientConnect: 1
+[Sat Jan 16 17:07:12 2016]  mlog:Player Padawan, connected. With IP - 178.121.66.25:-14144 
+[Sat Jan 16 17:08:21 2016]  ClientBegin: 1
+[Sat Jan 16 17:08:27 2016]  say: Agent Mat[kyZ]: привет
+[Sat Jan 16 17:08:31 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: Привет
+[Sat Jan 16 17:08:43 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: Я тебе на шею сяду
+[Sat Jan 16 17:08:46 2016]  say: Agent Mat[kyZ]: как у вас дела в клане?
+[Sat Jan 16 17:08:52 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: Я незнаю
+[Sat Jan 16 17:08:57 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: Я их не видул
+[Sat Jan 16 17:09:01 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: е*
+[Sat Jan 16 17:09:09 2016]  say: Agent Mat[kyZ]: у нас все не очень 
+[Sat Jan 16 17:09:21 2016]  say: Agent Mat[kyZ]: был переворот
+[Sat Jan 16 17:09:22 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: Всмысле?
+[Sat Jan 16 17:09:26 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: Воу
+[Sat Jan 16 17:09:39 2016]  say: Agent Mat[kyZ]: sra выдвинули с места лидера
+[Sat Jan 16 17:09:48 2016]  say: Agent Mat[kyZ]: я помогал нынешнему лидеру 
+[Sat Jan 16 17:09:51 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: Бунт?
+[Sat Jan 16 17:09:56 2016]  say: Agent Mat[kyZ]: переворот
+[Sat Jan 16 17:09:57 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: Референдум?
+[Sat Jan 16 17:10:14 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: А кто теперь лидер?
+[Sat Jan 16 17:10:22 2016]  say: Agent Mat[kyZ]: нынешний лидер сказал что sra ''безответственный разгельдяй'' в конце
+[Sat Jan 16 17:10:30 2016]  say: Agent Mat[kyZ]: я не знаю его ника
+[Sat Jan 16 17:10:40 2016]  say: Agent Mat[kyZ]: он всегда ходит под нашим псевданимом
+[Sat Jan 16 17:10:43 2016]  say: Agent Mat[kyZ]: Agent
+[Sat Jan 16 17:10:53 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: ^5:^3c
+[Sat Jan 16 17:10:56 2016]  say: Agent Mat[kyZ]: за помощь он повысил меня в звании
+[Sat Jan 16 17:11:08 2016]  say: Agent Mat[kyZ]: я специальный агент,предсидатель приемной комиссии
+[Sat Jan 16 17:11:10 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: Его ник случайно не Zyk?
+[Sat Jan 16 17:11:18 2016]  say: Agent Mat[kyZ]: zyk-не русский
+[Sat Jan 16 17:11:53 2016]  say: Agent Mat[kyZ]: я прошлого лидера принял на должность младшего агента
+[Sat Jan 16 17:12:10 2016]  say: Agent Mat[kyZ]: кстати,старший агент у нас уже закрыл дело по jnr
+[Sat Jan 16 17:12:15 2016]  say: Agent Mat[kyZ]: все что нужно мы узнали
+[Sat Jan 16 17:12:24 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: А где вы базируетесь?
+[Sat Jan 16 17:12:31 2016]  say: Agent Mat[kyZ]: это секрет
+[Sat Jan 16 17:12:36 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: Я может вступлу 
+[Sat Jan 16 17:12:40 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: ю*
+[Sat Jan 16 17:12:41 2016]  say: Agent Mat[kyZ]: ну ,вообще,у нас много баз
+[Sat Jan 16 17:12:46 2016]  say: Agent Mat[kyZ]: эта кстати 1 из них
+[Sat Jan 16 17:12:58 2016]  say: Agent Mat[kyZ]: вступить тоже не так просто
+[Sat Jan 16 17:13:04 2016]  ClientConnect: 2
+[Sat Jan 16 17:13:04 2016]  mlog:Player Padawan, connected. With IP - 79.173.121.93:29070 
+[Sat Jan 16 17:13:13 2016]  say: Agent Mat[kyZ]: мы опасаемся утечки информации очень
+[Sat Jan 16 17:13:17 2016]  say: Agent Mat[kyZ]: так как у нас ее очень много
+[Sat Jan 16 17:13:31 2016]  say: Agent Mat[kyZ]: я долго стажеровку проходил прежде чем агентом стать 
+[Sat Jan 16 17:13:34 2016]  ClientBegin: 2
+[Sat Jan 16 17:13:43 2016]  say: ^0[TK^1O^0R]Magn^1u^0s[^1WR^0]: Привет Фетт
+[Sat Jan 16 17:13:49 2016]  say: ^8-_-F^9e^8t^9t-_-: Прив
+[Sat Jan 16 17:13:49 2016]  say: Agent Mat[kyZ]: о
+[Sat Jan 16 17:14:07 2016]  print "^0[TK^1O^0R]Magn^1u^0s[^1WR^0]^7 @@@PLRENAME Pluton
+"[Sat Jan 16 17:14:18 2016]  say: Agent Mat[kyZ]: зачем ты снимаешь тег своего клана?
+[Sat Jan 16 17:14:27 2016]  say: ^8-_-F^9e^8t^9t-_-: ?
+[Sat Jan 16 17:14:32 2016]  say: Agent Mat[kyZ]: я ему
+[Sat Jan 16 17:14:40 2016]  say: Pluton: Так легче узнать меня моим друзьям
+[Sat Jan 16 17:14:50 2016]  say: ^8-_-F^9e^8t^9t-_-: ну теперь узнал)
+[Sat Jan 16 17:14:53 2016]  say: Agent Mat[kyZ]: почему бы не совместить ник и тег?
+[Sat Jan 16 17:14:57 2016]  say: ^8-_-F^9e^8t^9t-_-: хотя мог и так сказать)
+[Sat Jan 16 17:15:11 2016]  say: Pluton: Я наверное  покину ТКОР
+[Sat Jan 16 17:15:22 2016]  say: Agent Mat[kyZ]: зря 
+[Sat Jan 16 17:15:25 2016]  say: Pluton: ?
+[Sat Jan 16 17:15:35 2016]  say: Pluton: Я предпочту отшельничевство
+[Sat Jan 16 17:15:48 2016]  say: Agent Mat[kyZ]: ну,человек-существо социальное,ты врятли сможешь
+[Sat Jan 16 17:15:49 2016]  say: ^8-_-F^9e^8t^9t-_-: Люк Скайокер блин) актуальня тема прост)
+[Sat Jan 16 17:16:05 2016]  say: Pluton: )
+[Sat Jan 16 17:17:33 2016]  Kill: 0 0 0: Pluton killed Pluton by MOD_UNKNOWN
+[Sat Jan 16 17:17:43 2016]  tell: Agent Mat[kyZ] to ^8-_-F^9e^8t^9t-_-: ты знаешь кто я,отвечай в лс
+[Sat Jan 16 17:17:45 2016]  tell: Agent Mat[kyZ] to ^8-_-F^9e^8t^9t-_-: ?
+[Sat Jan 16 17:18:00 2016]  tell: ^8-_-F^9e^8t^9t-_- to Agent Mat[kyZ]: Хз,сан скорее всего.
+[Sat Jan 16 17:18:05 2016]  tell: Agent Mat[kyZ] to ^8-_-F^9e^8t^9t-_-: полякова знаешь?
+[Sat Jan 16 17:18:15 2016]  Item: 0 weapon_melee
+[Sat Jan 16 17:18:19 2016]  tell: ^8-_-F^9e^8t^9t-_- to Agent Mat[kyZ]: какого Полякова ?)
+[Sat Jan 16 17:18:25 2016]  tell: Agent Mat[kyZ] to ^8-_-F^9e^8t^9t-_-: илью
+[Sat Jan 16 17:18:41 2016]  tell: ^8-_-F^9e^8t^9t-_- to Agent Mat[kyZ]: Частично,в беседе видел
+[Sat Jan 16 17:18:45 2016]  say: ^8-_-F^9e^8t^9t-_-: тварь ты
+[Sat Jan 16 17:18:50 2016]  say: Pluton: Да
+[Sat Jan 16 17:18:58 2016]  Kill: 2 0 3: ^8-_-F^9e^8t^9t-_- killed Pluton by MOD_SABER
+[Sat Jan 16 17:18:58 2016]  tell: Agent Mat[kyZ] to ^8-_-F^9e^8t^9t-_-: Я-он
+[Sat Jan 16 17:18:59 2016]  say: Pluton: Ай
+[Sat Jan 16 17:19:07 2016]  Item: 0 weapon_melee
+[Sat Jan 16 17:19:11 2016]  tell: ^8-_-F^9e^8t^9t-_- to Agent Mat[kyZ]: хммм....ясно
+[Sat Jan 16 17:19:13 2016]  tell: Agent Mat[kyZ] to ^8-_-F^9e^8t^9t-_-: ты же дима хоменко ?
+[Sat Jan 16 17:19:17 2016]  tell: ^8-_-F^9e^8t^9t-_- to Agent Mat[kyZ]: Дам-с
+[Sat Jan 16 17:19:26 2016]  tell: ^8-_-F^9e^8t^9t-_- to Agent Mat[kyZ]: корочче да.
+[Sat Jan 16 17:19:33 2016]  tell: ^8-_-F^9e^8t^9t-_- to Agent Mat[kyZ]: короче*
+[Sat Jan 16 17:20:02 2016]  say: Pluton: Ай
+[Sat Jan 16 17:20:06 2016]  say: Agent Mat[kyZ]: А чего ты в kyZ не захотел
+[Sat Jan 16 17:20:15 2016]  say: ^8-_-F^9e^8t^9t-_-: z yt k.,k. igbjybnm/
+[Sat Jan 16 17:20:18 2016]  say: Pluton: Я такого не говорил
+[Sat Jan 16 17:20:22 2016]  say: ^8-_-F^9e^8t^9t-_-: я не люблю шпионить
+[Sat Jan 16 17:20:25 2016]  say: ^8-_-F^9e^8t^9t-_-: он мне
+[Sat Jan 16 17:20:29 2016]  say: Pluton: А
+[Sat Jan 16 17:20:52 2016]  say: Pluton: Stop
+[Sat Jan 16 17:20:54 2016]  say: Agent Mat[kyZ]: плохо 
+[Sat Jan 16 17:21:02 2016]  say: ^8-_-F^9e^8t^9t-_-: хорошо
+[Sat Jan 16 17:21:55 2016]  say: Agent Mat[kyZ]: я пойду на аврору,я должен помочь кое кому,если он там будет 
+[Sat Jan 16 17:22:04 2016]  say: Pluton: Маат
+[Sat Jan 16 17:22:06 2016]  say: ^8-_-F^9e^8t^9t-_-: джереку ?
+[Sat Jan 16 17:22:12 2016]  print "Agent Mat[kyZ]^7 @@@PLRENAME Skuns
+"[Sat Jan 16 17:22:16 2016]  say: Skuns: da
+[Sat Jan 16 17:22:18 2016]  say: Pluton: А можно к вам?
+[Sat Jan 16 17:22:27 2016]  say: ^8-_-F^9e^8t^9t-_-: я не с ними)
+[Sat Jan 16 17:22:27 2016]  say: Skuns: poidem na avrory
+[Sat Jan 16 17:22:38 2016]  say: Pluton: Фетт пойдем с нами
+[Sat Jan 16 17:22:42 2016]  say: Pluton: Без тебя скучно
+[Sat Jan 16 17:22:46 2016]  say: Pluton: Го
+[Sat Jan 16 17:22:48 2016]  ClientDisconnect: 0
+[Sat Jan 16 17:22:55 2016]  say: ^8-_-F^9e^8t^9t-_-: ,ну  лядно
+[Sat Jan 16 17:22:59 2016]  ClientDisconnect: 1
+[Sat Jan 16 17:23:03 2016]  ClientDisconnect: 2
+[Sun Jan 17 01:24:36 2016]  ClientConnect: 0
+[Sun Jan 17 01:24:36 2016]  mlog:Player Padawan, connected. With IP - 97.89.136.215:29070 
+[Sun Jan 17 01:24:58 2016]  ClientBegin: 0
+[Sun Jan 17 01:25:36 2016]  print "Padawan^7 @@@PLRENAME Tyler
+"[Sun Jan 17 01:25:44 2016]  ClientConnect: 1
+[Sun Jan 17 01:25:44 2016]  mlog:Player Padawan, connected. With IP - 66.191.213.7:29070 
+[Sun Jan 17 01:26:09 2016]  ClientBegin: 1
+[Sun Jan 17 01:26:54 2016]  Kill: 0 1 3: Tyler killed Padawan by MOD_SABER
+[Sun Jan 17 01:29:57 2016]  Kill: 0 1 3: Tyler killed Padawan by MOD_SABER
+[Sun Jan 17 01:32:52 2016]  Kill: 0 1 3: Tyler killed Padawan by MOD_SABER
+[Sun Jan 17 01:33:07 2016]  print "Padawan^7 @@@PLRENAME Phil
+"[Sun Jan 17 01:35:06 2016]  Kill: 0 1 3: Tyler killed Phil by MOD_SABER
+[Sun Jan 17 01:35:49 2016]  Kill: 0 1 3: Tyler killed Phil by MOD_SABER
+[Sun Jan 17 01:37:55 2016]  Kill: 0 1 3: Tyler killed Phil by MOD_SABER
+[Sun Jan 17 01:37:59 2016]  ClientDisconnect: 0
+[Sun Jan 17 01:38:18 2016]  ClientDisconnect: 1
+[Sun Jan 17 03:32:55 2016]  ClientConnect: 0
+[Sun Jan 17 03:32:55 2016]  mlog:Player boba fett, connected. With IP - 24.55.35.243:29070 
+[Sun Jan 17 03:35:23 2016]  ClientConnect: 1
+[Sun Jan 17 03:35:23 2016]  mlog:Player ^7»^0Exo^1Р^0us^7«, connected. With IP - 64.111.243.214:29070 
+[Sun Jan 17 03:36:17 2016]  ClientDisconnect: 0
+[Sun Jan 17 03:37:10 2016]  ClientDisconnect: 1
+[Sun Jan 17 03:37:10 2016]  ClientConnect: 1
+[Sun Jan 17 03:37:10 2016]  mlog:Player ^7»^0Exo^1Р^0us^7«, connected. With IP - 64.111.243.214:29070 
+[Sun Jan 17 03:39:08 2016]  ClientBegin: 1
+[Sun Jan 17 03:39:42 2016]  ClientDisconnect: 1
+[Sun Jan 17 14:52:57 2016]  ClientConnect: 0
+[Sun Jan 17 14:52:57 2016]  mlog:Player Padawan, connected. With IP - 84.3.56.221:29070 
+[Sun Jan 17 14:53:31 2016]  ClientBegin: 0
+[Sun Jan 17 14:56:26 2016]  ClientDisconnect: 0
+[Sun Jan 17 15:39:24 2016]  ClientConnect: 0
+[Sun Jan 17 15:39:24 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Jan 17 15:39:45 2016]  ClientBegin: 0
+[Sun Jan 17 15:39:52 2016]  Item: 0 weapon_melee
+[Sun Jan 17 15:40:52 2016]  ClientDisconnect: 0

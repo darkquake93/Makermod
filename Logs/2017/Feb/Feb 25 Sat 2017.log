@@ -1,0 +1,683 @@
+[Sat Feb 25 14:29:14 2017]  ------------------------------------------------------------
+[Sat Feb 25 14:29:14 2017]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Feb 25 15:33:11 2017]  ClientConnect: 0
+[Sat Feb 25 15:33:11 2017]  mlog:Player Redem, connected. With IP - 92.249.112.225:29070 
+[Sat Feb 25 15:33:42 2017]  ClientBegin: 0
+[Sat Feb 25 15:36:13 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:36:13 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:36:13 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:36:13 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:36:13 2017]  Item: 0 item_cloak
+[Sat Feb 25 15:36:13 2017]  Item: 0 ammo_detpack
+[Sat Feb 25 15:36:13 2017]  Item: 0 ammo_tripmine
+[Sat Feb 25 15:36:13 2017]  Item: 0 ammo_thermal
+[Sat Feb 25 15:36:13 2017]  Item: 0 item_medpac
+[Sat Feb 25 15:36:13 2017]  Item: 0 weapon_repeater
+[Sat Feb 25 15:36:13 2017]  Item: 0 weapon_flechette
+[Sat Feb 25 15:36:13 2017]  Item: 0 weapon_disruptor
+[Sat Feb 25 15:36:13 2017]  Item: 0 weapon_blaster
+[Sat Feb 25 15:36:13 2017]  Item: 0 item_medpac_big
+[Sat Feb 25 15:36:13 2017]  Item: 0 weapon_melee
+[Sat Feb 25 15:36:13 2017]  Item: 0 weapon_rocket_launcher
+[Sat Feb 25 15:36:13 2017]  Item: 0 weapon_concussion_rifle
+[Sat Feb 25 15:36:13 2017]  Item: 0 weapon_demp2
+[Sat Feb 25 15:36:13 2017]  Item: 0 item_eweb_holdable
+[Sat Feb 25 15:36:13 2017]  Item: 0 item_force_boon
+[Sat Feb 25 15:41:23 2017]  Kill: 0 0 39: Redem killed Redem by MOD_SUICIDE
+[Sat Feb 25 15:41:23 2017]  setteam:  0 FREE SPECTATOR
+[Sat Feb 25 15:41:23 2017]  ClientBegin: 0
+[Sat Feb 25 15:41:30 2017]  setteam:  0 SPECTATOR FREE
+[Sat Feb 25 15:41:30 2017]  ClientBegin: 0
+[Sat Feb 25 15:41:40 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:41:40 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:41:40 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:41:40 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:41:40 2017]  Item: 0 item_cloak
+[Sat Feb 25 15:41:40 2017]  Item: 0 ammo_detpack
+[Sat Feb 25 15:41:40 2017]  Item: 0 ammo_tripmine
+[Sat Feb 25 15:41:40 2017]  Item: 0 ammo_thermal
+[Sat Feb 25 15:41:40 2017]  Item: 0 item_medpac
+[Sat Feb 25 15:41:40 2017]  Item: 0 weapon_repeater
+[Sat Feb 25 15:41:40 2017]  Item: 0 weapon_flechette
+[Sat Feb 25 15:41:40 2017]  Item: 0 weapon_disruptor
+[Sat Feb 25 15:41:40 2017]  Item: 0 weapon_blaster
+[Sat Feb 25 15:41:40 2017]  Item: 0 item_medpac_big
+[Sat Feb 25 15:41:40 2017]  Item: 0 weapon_melee
+[Sat Feb 25 15:41:40 2017]  Item: 0 weapon_rocket_launcher
+[Sat Feb 25 15:41:40 2017]  Item: 0 weapon_concussion_rifle
+[Sat Feb 25 15:41:40 2017]  Item: 0 weapon_demp2
+[Sat Feb 25 15:41:40 2017]  Item: 0 item_eweb_holdable
+[Sat Feb 25 15:41:40 2017]  Item: 0 item_force_boon
+[Sat Feb 25 15:43:59 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:43:59 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:43:59 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:43:59 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:43:59 2017]  Item: 0 ammo_detpack
+[Sat Feb 25 15:43:59 2017]  Item: 0 ammo_tripmine
+[Sat Feb 25 15:43:59 2017]  Item: 0 ammo_thermal
+[Sat Feb 25 15:43:59 2017]  Item: 0 item_force_boon
+[Sat Feb 25 15:45:32 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:45:32 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:45:32 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:45:32 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:45:32 2017]  Item: 0 ammo_detpack
+[Sat Feb 25 15:45:32 2017]  Item: 0 ammo_tripmine
+[Sat Feb 25 15:45:32 2017]  Item: 0 ammo_thermal
+[Sat Feb 25 15:45:32 2017]  Item: 0 item_force_boon
+[Sat Feb 25 15:46:56 2017]  Item: 0 ammo_detpack
+[Sat Feb 25 15:46:56 2017]  Item: 0 ammo_tripmine
+[Sat Feb 25 15:46:56 2017]  Item: 0 item_force_boon
+[Sat Feb 25 15:46:56 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:46:56 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:46:56 2017]  Item: 0 ammo_all
+[Sat Feb 25 15:46:56 2017]  Item: 0 ammo_all
+[Sat Feb 25 16:01:20 2017]  ClientDisconnect: 0
+[Sat Feb 25 18:14:33 2017]  ClientConnect: 0
+[Sat Feb 25 18:14:33 2017]  mlog:Player Redem, connected. With IP - 92.249.112.225:29070 
+[Sat Feb 25 18:15:06 2017]  ClientBegin: 0
+[Sat Feb 25 18:15:53 2017]  Item: 0 item_cloak
+[Sat Feb 25 18:15:53 2017]  Item: 0 ammo_detpack
+[Sat Feb 25 18:15:53 2017]  Item: 0 ammo_tripmine
+[Sat Feb 25 18:15:53 2017]  Item: 0 ammo_thermal
+[Sat Feb 25 18:15:53 2017]  Item: 0 item_medpac
+[Sat Feb 25 18:15:53 2017]  Item: 0 weapon_repeater
+[Sat Feb 25 18:15:53 2017]  Item: 0 weapon_flechette
+[Sat Feb 25 18:15:53 2017]  Item: 0 weapon_disruptor
+[Sat Feb 25 18:15:53 2017]  Item: 0 weapon_blaster
+[Sat Feb 25 18:15:53 2017]  Item: 0 item_medpac_big
+[Sat Feb 25 18:15:53 2017]  Item: 0 weapon_melee
+[Sat Feb 25 18:15:53 2017]  Item: 0 weapon_rocket_launcher
+[Sat Feb 25 18:15:53 2017]  Item: 0 weapon_concussion_rifle
+[Sat Feb 25 18:15:53 2017]  Item: 0 weapon_demp2
+[Sat Feb 25 18:15:53 2017]  Item: 0 item_eweb_holdable
+[Sat Feb 25 18:15:53 2017]  Item: 0 item_force_boon
+[Sat Feb 25 18:15:53 2017]  Item: 0 ammo_all
+[Sat Feb 25 18:15:53 2017]  Item: 0 ammo_all
+[Sat Feb 25 18:15:53 2017]  Item: 0 ammo_all
+[Sat Feb 25 18:15:53 2017]  Item: 0 ammo_all
+[Sat Feb 25 18:30:11 2017]  Item: 0 ammo_detpack
+[Sat Feb 25 18:30:11 2017]  Item: 0 ammo_tripmine
+[Sat Feb 25 18:30:11 2017]  Item: 0 ammo_thermal
+[Sat Feb 25 18:30:11 2017]  Item: 0 item_medpak_instant
+[Sat Feb 25 18:30:11 2017]  Item: 0 item_force_boon
+[Sat Feb 25 18:30:11 2017]  Item: 0 ammo_all
+[Sat Feb 25 18:30:11 2017]  Item: 0 ammo_all
+[Sat Feb 25 18:30:11 2017]  Item: 0 ammo_all
+[Sat Feb 25 18:30:11 2017]  Item: 0 ammo_all
+[Sat Feb 25 18:35:49 2017]  ClientDisconnect: 0
+[Sat Feb 25 18:49:08 2017]  ClientConnect: 0
+[Sat Feb 25 18:49:08 2017]  mlog:Player Shesnok nahuy, connected. With IP - 178.120.102.110:-31409 
+[Sat Feb 25 18:49:43 2017]  ClientBegin: 0
+[Sat Feb 25 18:49:58 2017]  ClientConnect: 1
+[Sat Feb 25 18:49:58 2017]  mlog:Player ^5Pluton, connected. With IP - 46.61.58.84:29070 
+[Sat Feb 25 18:50:33 2017]  say: ^0[KOTR]^2Luk^0[O]: eba
+[Sat Feb 25 18:50:36 2017]  say: ^0[KOTR]^2Luk^0[O]: ti de?
+[Sat Feb 25 18:50:49 2017]  ClientBegin: 1
+[Sat Feb 25 18:51:05 2017]  print "^2xD^7 @@@PLRENAME ^5Hueton
+"[Sat Feb 25 18:51:05 2017]  Kill: 0 1 6: ^0[KOTR]^2Luk^0[O] killed ^5Hueton by MOD_BLASTER
+[Sat Feb 25 18:51:10 2017]  say: ^0[KOTR]^2Luk^0[O]: lol kek
+[Sat Feb 25 18:51:25 2017]  print "^5Hueton^7 @@@PLRENAME ^5Pluton
+"[Sat Feb 25 18:52:40 2017]  say: ^5Pluton: gde koter
+[Sat Feb 25 18:52:41 2017]  say: ^0[KOTR]^2Luk^0[O]: wiggle wiggle wiggle
+[Sat Feb 25 18:52:46 2017]  say: ^0[KOTR]^2Luk^0[O]: hz
+[Sat Feb 25 18:52:52 2017]  say: ^0[KOTR]^2Luk^0[O]: ebat
+[Sat Feb 25 18:52:55 2017]  say: ^0[KOTR]^2Luk^0[O]: gde ua
+[Sat Feb 25 18:52:59 2017]  say: ^0[KOTR]^2Luk^0[O]: vulkan nahuy
+[Sat Feb 25 18:53:13 2017]  Kill: 1 1 39: ^5Pluton killed ^5Pluton by MOD_SUICIDE
+[Sat Feb 25 18:53:18 2017]  say: ^0[KOTR]^2Luk^0[O]: nu naher
+[Sat Feb 25 18:53:26 2017]  say: ^0[KOTR]^2Luk^0[O]: eto ne sneg nahuy
+[Sat Feb 25 18:53:28 2017]  ClientConnect: 2
+[Sat Feb 25 18:53:28 2017]  mlog:Player Redem, connected. With IP - 92.249.112.225:29070 
+[Sat Feb 25 18:53:30 2017]  say: ^5Pluton: idi suda nahuy
+[Sat Feb 25 18:53:32 2017]  say: ^0[KOTR]^2Luk^0[O]: eto pepel ept
+[Sat Feb 25 18:53:44 2017]  say: ^5Pluton: morrowind nahuy
+[Sat Feb 25 18:53:56 2017]  ClientBegin: 2
+[Sat Feb 25 18:54:02 2017]  say: Redem: hi
+[Sat Feb 25 18:54:03 2017]  say: Redem: Hello there
+[Sat Feb 25 18:54:06 2017]  say: ^5Pluton: hi
+[Sat Feb 25 18:54:12 2017]  Item: 2 item_cloak
+[Sat Feb 25 18:54:12 2017]  Item: 2 ammo_detpack
+[Sat Feb 25 18:54:12 2017]  Item: 2 ammo_tripmine
+[Sat Feb 25 18:54:12 2017]  Item: 2 ammo_thermal
+[Sat Feb 25 18:54:12 2017]  Item: 2 item_medpac
+[Sat Feb 25 18:54:12 2017]  Item: 2 weapon_repeater
+[Sat Feb 25 18:54:12 2017]  Item: 2 weapon_flechette
+[Sat Feb 25 18:54:12 2017]  Item: 2 weapon_disruptor
+[Sat Feb 25 18:54:12 2017]  Item: 2 weapon_blaster
+[Sat Feb 25 18:54:12 2017]  Item: 2 item_medpac_big
+[Sat Feb 25 18:54:12 2017]  Item: 2 weapon_melee
+[Sat Feb 25 18:54:12 2017]  Item: 2 weapon_rocket_launcher
+[Sat Feb 25 18:54:12 2017]  Item: 2 weapon_concussion_rifle
+[Sat Feb 25 18:54:12 2017]  Item: 2 weapon_demp2
+[Sat Feb 25 18:54:12 2017]  Item: 2 item_eweb_holdable
+[Sat Feb 25 18:54:12 2017]  Item: 2 item_force_boon
+[Sat Feb 25 18:54:12 2017]  Item: 2 ammo_all
+[Sat Feb 25 18:54:12 2017]  Item: 2 ammo_all
+[Sat Feb 25 18:54:12 2017]  Item: 2 ammo_all
+[Sat Feb 25 18:54:12 2017]  Item: 2 ammo_all
+[Sat Feb 25 18:54:13 2017]  say: ^5Pluton: Zdarova
+[Sat Feb 25 18:54:13 2017]  say: ^0[KOTR]^2Luk^0[O]: kart, eto ti? =3
+[Sat Feb 25 18:54:19 2017]  say: ^5Pluton: net eto ne kart
+[Sat Feb 25 18:54:19 2017]  say: Redem: вряд ли
+[Sat Feb 25 18:55:28 2017]  Kill: 1022 0 6: <world> killed ^0[KOTR]^2Luk^0[O] by MOD_BLASTER
+[Sat Feb 25 18:55:56 2017]  say: ^5Pluton: luk
+[Sat Feb 25 18:56:00 2017]  say: ^0[KOTR]^2Luk^0[O]: ?
+[Sat Feb 25 18:56:13 2017]  say: ^5Pluton: cherez polchasa ti tut budesh?
+[Sat Feb 25 18:56:19 2017]  say: ^0[KOTR]^2Luk^0[O]: a shto?
+[Sat Feb 25 18:56:24 2017]  say: ^5Pluton: ya po delam
+[Sat Feb 25 18:56:29 2017]  say: ^5Pluton: da/net?
+[Sat Feb 25 18:56:29 2017]  say: ^0[KOTR]^2Luk^0[O]: da suka
+[Sat Feb 25 18:56:33 2017]  say: ^0[KOTR]^2Luk^0[O]: ne navern
+[Sat Feb 25 18:56:35 2017]  say: ^0[KOTR]^2Luk^0[O]: -___-
+[Sat Feb 25 18:56:36 2017]  say: ^5Pluton: tochno?
+[Sat Feb 25 18:56:39 2017]  say: ^0[KOTR]^2Luk^0[O]: nu hz
+[Sat Feb 25 18:56:46 2017]  say: ^0[KOTR]^2Luk^0[O]: tam kart pridti doljen
+[Sat Feb 25 18:56:51 2017]  say: ^0[KOTR]^2Luk^0[O]: tak sho vashe hz
+[Sat Feb 25 18:57:01 2017]  say: ^5Pluton: LAN
+[Sat Feb 25 18:58:00 2017]  say: Redem: строительством не увлекаетесь здесь?
+[Sat Feb 25 18:58:06 2017]  say: ^0[KOTR]^2Luk^0[O]: shut-shut =3
+[Sat Feb 25 18:58:59 2017]  say: Redem: hello there
+[Sat Feb 25 18:59:03 2017]  say: Redem: ф
+[Sat Feb 25 18:59:04 2017]  say: ^0[KOTR]^2Luk^0[O]: lol kek
+[Sat Feb 25 19:01:20 2017]  say: ^0[KOTR]^2Luk^0[O]: nu hule
+[Sat Feb 25 19:01:33 2017]  say: ^0[KOTR]^2Luk^0[O]: ya ne mogu v skripti =3
+[Sat Feb 25 19:01:48 2017]  say: Redem: та там просто на самом деле
+[Sat Feb 25 19:01:56 2017]  say: ^0[KOTR]^2Luk^0[O]: hz
+[Sat Feb 25 19:02:01 2017]  say: ^0[KOTR]^2Luk^0[O]: ya v nih ne sharu
+[Sat Feb 25 19:02:03 2017]  say: Redem: берешь текстовый файл .cfg
+[Sat Feb 25 19:02:16 2017]  say: Redem: пишешь туда команды из макера
+[Sat Feb 25 19:02:29 2017]  say: Redem: вроде mplace, mplacefx, mmove
+[Sat Feb 25 19:02:33 2017]  say: Redem: и т.д.
+[Sat Feb 25 19:02:38 2017]  say: ^0[KOTR]^2Luk^0[O]: sho potom?
+[Sat Feb 25 19:02:53 2017]  say: Redem: и пихаешь его в папку base
+[Sat Feb 25 19:03:26 2017]  say: Redem: затем здесь, в игре, вводишь 'exec имя <файла.cfg>'
+[Sat Feb 25 19:03:27 2017]  say: ^0[KOTR]^2Luk^0[O]: Potom ego sherez komandu zapuskat?
+[Sat Feb 25 19:03:36 2017]  say: Redem: черт
+[Sat Feb 25 19:03:44 2017]  say: ^0[KOTR]^2Luk^0[O]: nu sps navern
+[Sat Feb 25 19:03:50 2017]  say: Redem: exec <имя файла.cfg>
+[Sat Feb 25 19:03:54 2017]  say: Redem: вот так
+[Sat Feb 25 19:03:57 2017]  say: ^0[KOTR]^2Luk^0[O]: poprobuyu kak vremua buit
+[Sat Feb 25 19:04:07 2017]  say: Redem: можешь забиндить это дело на кнопки
+[Sat Feb 25 19:04:19 2017]  say: ^0[KOTR]^2Luk^0[O]: nu eto mojno
+[Sat Feb 25 19:04:37 2017]  say: ^0[KOTR]^2Luk^0[O]: a eto
+[Sat Feb 25 19:04:41 2017]  say: Redem: ?
+[Sat Feb 25 19:04:57 2017]  say: ^0[KOTR]^2Luk^0[O]: tam shisto v faile komandi s makera napisat i vse?
+[Sat Feb 25 19:05:23 2017]  say: ^0[KOTR]^2Luk^0[O]: nikakih tam komand dlua komand? xd
+[Sat Feb 25 19:05:34 2017]  say: Redem: давай, если хочешь я тебе скину один из своих скриптов, да они и в инете есть для скачивания
+[Sat Feb 25 19:06:01 2017]  say: ^0[KOTR]^2Luk^0[O]: ne, ya sam etim zaimus
+[Sat Feb 25 19:06:05 2017]  say: Redem: не, никаких доп команд писать не нужно
+[Sat Feb 25 19:06:06 2017]  say: ^0[KOTR]^2Luk^0[O]: potom
+[Sat Feb 25 19:06:08 2017]  say: ^0[KOTR]^2Luk^0[O]: =3
+[Sat Feb 25 19:06:32 2017]  say: ^0[KOTR]^2Luk^0[O]: lan, sps shto raskazal =3
+[Sat Feb 25 19:06:52 2017]  say: Redem: единственное правило, разделяй команды этой штукой: ';'
+[Sat Feb 25 19:07:01 2017]  say: ^0[KOTR]^2Luk^0[O]: skripti eti kstat gde naiti?
+[Sat Feb 25 19:07:05 2017]  say: Redem: хмм
+[Sat Feb 25 19:07:06 2017]  say: Redem: сек
+[Sat Feb 25 19:07:09 2017]  say: ^0[KOTR]^2Luk^0[O]: jkhub?
+[Sat Feb 25 19:08:48 2017]  say: ^0[KOTR]^2Luk^0[O]: lol kek sheburek
+[Sat Feb 25 19:08:59 2017]  say: Redem: так
+[Sat Feb 25 19:09:01 2017]  say: ^0[KOTR]^2Luk^0[O]: 000
+[Sat Feb 25 19:09:03 2017]  say: ^0[KOTR]^2Luk^0[O]: )
+[Sat Feb 25 19:09:26 2017]  say: Redem: ну в гугле введи 'makermod scripts'
+[Sat Feb 25 19:09:32 2017]  say: ^0[KOTR]^2Luk^0[O]: sps
+[Sat Feb 25 19:10:00 2017]  say: Redem: там тебе в одном из первых выдаст 'naruto бла бла skript'
+[Sat Feb 25 19:10:19 2017]  say: Redem: можешь покопаться в этом cfg
+[Sat Feb 25 19:10:29 2017]  say: Redem: станет понятно как оно работает
+[Sat Feb 25 19:10:40 2017]  say: ^0[KOTR]^2Luk^0[O]: nashel
+[Sat Feb 25 19:11:03 2017]  say: ^0[KOTR]^2Luk^0[O]: em
+[Sat Feb 25 19:11:06 2017]  say: ^0[KOTR]^2Luk^0[O]: wtf
+[Sat Feb 25 19:11:26 2017]  say: ^0[KOTR]^2Luk^0[O]: kak tam zapuskat napomni
+[Sat Feb 25 19:11:27 2017]  say: Redem: еще там revan's makermod script мне выдало
+[Sat Feb 25 19:11:36 2017]  say: Redem: тоже можешь посмотреть
+[Sat Feb 25 19:11:41 2017]  say: ^0[KOTR]^2Luk^0[O]: gluanu
+[Sat Feb 25 19:11:53 2017]  say: Redem: exec <имя файла.cfg>
+[Sat Feb 25 19:12:13 2017]  say: Redem: кинь .cfg в папку base сначала
+[Sat Feb 25 19:12:19 2017]  say: ^0[KOTR]^2Luk^0[O]: znauy
+[Sat Feb 25 19:12:49 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1^^0Sharingan-Script by ^0Revan and ^1^^0 Madara Uchiha
+[Sat Feb 25 19:12:58 2017]  say: ^0[KOTR]^2Luk^0[O]: lol kek
+[Sat Feb 25 19:13:00 2017]  say: Redem: да
+[Sat Feb 25 19:13:00 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1^^0Sharingan-Script by ^0Revan and ^1^^0 Madara Uchiha
+[Sat Feb 25 19:13:05 2017]  say: Redem: куда ж без рекламы
+[Sat Feb 25 19:13:20 2017]  say: ^0[KOTR]^2Luk^0[O]: i shot netu nihuya
+[Sat Feb 25 19:13:21 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1^^0Sharingan-Script by ^0Revan and ^1^^0 Madara Uchiha
+[Sat Feb 25 19:13:22 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1^^0Sharingan-Script by ^0Revan and ^1^^0 Madara Uchiha
+[Sat Feb 25 19:13:22 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1^^0Sharingan-Script by ^0Revan and ^1^^0 Madara Uchiha
+[Sat Feb 25 19:13:25 2017]  say: Redem: погодь
+[Sat Feb 25 19:13:49 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1^^0Sharingan-Script by ^0Revan and ^1^^0 Madara Uchiha
+[Sat Feb 25 19:13:52 2017]  say: Redem: так
+[Sat Feb 25 19:14:15 2017]  say: Redem: используй кнопки pageup, pagedown для выбора скриптов
+[Sat Feb 25 19:14:23 2017]  say: Redem: end для выполнения
+[Sat Feb 25 19:14:29 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1^^0Sharingan-Script by ^0Revan and ^1^^0 Madara Uchiha
+[Sat Feb 25 19:14:50 2017]  say: ^0[KOTR]^2Luk^0[O]: lolshto
+[Sat Feb 25 19:14:56 2017]  say: Redem: тебе в верхнем правом углу будет показывать что ты выбрал
+[Sat Feb 25 19:15:00 2017]  say: Redem: левом
+[Sat Feb 25 19:15:01 2017]  say: Redem: черт
+[Sat Feb 25 19:15:06 2017]  say: Redem: левом углу
+[Sat Feb 25 19:15:20 2017]  say: ^0[KOTR]^2Luk^0[O]: shot nihuua
+[Sat Feb 25 19:15:26 2017]  say: Redem: хм
+[Sat Feb 25 19:15:36 2017]  say: ^0[KOTR]^2Luk^0[O]: a vo
+[Sat Feb 25 19:15:39 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1^^0Sharingan-Script by ^0Revan and ^1^^0 Madara Uchiha
+[Sat Feb 25 19:15:52 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1^^0Sharingan-Script by ^0Revan and ^1^^0 Madara Uchiha
+[Sat Feb 25 19:15:59 2017]  say: ^0[KOTR]^2Luk^0[O]: pogodi ka
+[Sat Feb 25 19:16:27 2017]  say: ^0[KOTR]^2Luk^0[O]: nu visveshivaetsya
+[Sat Feb 25 19:16:29 2017]  say: ^0[KOTR]^2Luk^0[O]: i sho?
+[Sat Feb 25 19:16:33 2017]  say: Redem: хм
+[Sat Feb 25 19:16:39 2017]  say: Redem: странно, должно
+[Sat Feb 25 19:16:43 2017]  say: ^0[KOTR]^2Luk^0[O]: pogodi
+[Sat Feb 25 19:16:55 2017]  say: Redem: pageup, pagedown ничего не дает?
+[Sat Feb 25 19:17:20 2017]  Item: 2 ammo_detpack
+[Sat Feb 25 19:17:20 2017]  Item: 2 ammo_tripmine
+[Sat Feb 25 19:17:20 2017]  Item: 2 ammo_thermal
+[Sat Feb 25 19:17:20 2017]  Item: 2 item_force_boon
+[Sat Feb 25 19:17:20 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:17:20 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:17:20 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:17:20 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:17:30 2017]  say: ^0[KOTR]^2Luk^0[O]: daet
+[Sat Feb 25 19:17:42 2017]  say: ^0[KOTR]^2Luk^0[O]: visveshivaytsa scripti
+[Sat Feb 25 19:17:46 2017]  say: Redem: вот, теперь нажми end
+[Sat Feb 25 19:17:47 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:17:49 2017]  say: ^0[KOTR]^2Luk^0[O]: Eeee
+[Sat Feb 25 19:17:51 2017]  say: Redem: ага
+[Sat Feb 25 19:17:52 2017]  say: ^0[KOTR]^2Luk^0[O]: Sps
+[Sat Feb 25 19:17:56 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:17:58 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:00 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:02 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:04 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:06 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:08 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:10 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:12 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:14 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:16 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:18 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:20 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:22 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:24 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:26 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:27 2017]  say: Redem: упс
+[Sat Feb 25 19:18:28 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:30 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:32 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:34 2017]  say: Redem: заклинило?
+[Sat Feb 25 19:18:34 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:36 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:38 2017]  say: Redem: сек
+[Sat Feb 25 19:18:38 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:40 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:41 2017]  ClientConnect: 3
+[Sat Feb 25 19:18:41 2017]  mlog:Player ^4CBlueGamer, connected. With IP - 98.177.136.9:29070 
+[Sat Feb 25 19:18:42 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:42 2017]  say: Redem: перезайди
+[Sat Feb 25 19:18:44 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:46 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:48 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:51 2017]  say: ^0[KOTR]^2Luk^0[O]: ^8Ahhhhh the Cursed Seal moves!!!!!
+[Sat Feb 25 19:18:53 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:55 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON RYUKA NO JUTSU!!
+[Sat Feb 25 19:18:55 2017]  ClientDisconnect: 0
+[Sat Feb 25 19:18:55 2017]  say: Redem: открой консоль и введи /reconnect
+[Sat Feb 25 19:19:07 2017]  ClientConnect: 0
+[Sat Feb 25 19:19:07 2017]  mlog:Player ^0[KOTR]^2Luk^0[O], connected. With IP - 178.120.102.110:-31409 
+[Sat Feb 25 19:19:17 2017]  say: Redem: норм?
+[Sat Feb 25 19:19:18 2017]  ClientBegin: 3
+[Sat Feb 25 19:19:23 2017]  ClientBegin: 0
+[Sat Feb 25 19:19:33 2017]  say: Redem: что там, заклинил скрипт?
+[Sat Feb 25 19:19:34 2017]  say: ^0[KOTR]^2Luk^0[O]: ^8AAHH the Seal takes me over!!!!!
+[Sat Feb 25 19:19:37 2017]  say: ^0[KOTR]^2Luk^0[O]: da ne
+[Sat Feb 25 19:19:41 2017]  Kill: 3 3 39: CBlueGamer killed CBlueGamer by MOD_SUICIDE
+[Sat Feb 25 19:19:42 2017]  say: ^0[KOTR]^2Luk^0[O]: eto ya tupanu;
+[Sat Feb 25 19:19:46 2017]  say: Redem: а
+[Sat Feb 25 19:19:49 2017]  say: Redem: ну пофиг
+[Sat Feb 25 19:19:54 2017]  say: ^0[KOTR]^2Luk^0[O]: ^8AAHH the Seal takes me over!!!!!
+[Sat Feb 25 19:19:56 2017]  say: Redem: вообщем, так они и работают
+[Sat Feb 25 19:19:56 2017]  Kill: 3 3 39: CBlueGamer killed CBlueGamer by MOD_SUICIDE
+[Sat Feb 25 19:20:01 2017]  say: ^0[KOTR]^2Luk^0[O]: ^5Recover Chakra!!
+[Sat Feb 25 19:20:02 2017]  say: CBlueGamer: hello!
+[Sat Feb 25 19:20:09 2017]  Kill: 1 0 12: ^5Pluton killed ^0[KOTR]^2Luk^0[O] by MOD_REPEATER
+[Sat Feb 25 19:20:11 2017]  say: Redem: можешь глянуть в cfg как они выстроены
+[Sat Feb 25 19:20:12 2017]  say: ^0[KOTR]^2Luk^0[O]: sps shto raskaal
+[Sat Feb 25 19:20:13 2017]  say: Redem: Hello there
+[Sat Feb 25 19:20:15 2017]  print "CBlueGamer^7 @@@PLRENAME ^4CBlueGamer
+"[Sat Feb 25 19:20:19 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1SHARINGAN!!
+[Sat Feb 25 19:20:24 2017]  say: Redem: nz4t
+[Sat Feb 25 19:20:36 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1MANGEKYOU SHARINGAN!!
+[Sat Feb 25 19:20:40 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1^^0TSUKUYOMI!!!!!!
+[Sat Feb 25 19:20:44 2017]  Kill: 1 0 6: ^5Pluton killed ^0[KOTR]^2Luk^0[O] by MOD_BLASTER
+[Sat Feb 25 19:21:12 2017]  say: Redem: коментарии, конечно, раздражают :D
+[Sat Feb 25 19:21:16 2017]  say: ^5Pluton: ^1GUSY GAGAGA
+[Sat Feb 25 19:21:22 2017]  ClientDisconnect: 3
+[Sat Feb 25 19:21:28 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON HOSENKA!!
+[Sat Feb 25 19:21:44 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON HOSENKA!!
+[Sat Feb 25 19:21:51 2017]  say: ^5Pluton: ^1NESITE POROSHOK
+[Sat Feb 25 19:21:56 2017]  say: Redem: :D
+[Sat Feb 25 19:21:58 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON HOSENKA!!
+[Sat Feb 25 19:22:02 2017]  Kill: 1 0 12: ^5Pluton killed ^0[KOTR]^2Luk^0[O] by MOD_REPEATER
+[Sat Feb 25 19:22:03 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON HOSENKA!!
+[Sat Feb 25 19:22:08 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON HOSENKA!!
+[Sat Feb 25 19:22:13 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON HOSENKA!!
+[Sat Feb 25 19:22:18 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON HOSENKA!!
+[Sat Feb 25 19:22:19 2017]  say: Redem: :\
+[Sat Feb 25 19:22:22 2017]  say: ^0[KOTR]^2Luk^0[O]: norm
+[Sat Feb 25 19:22:29 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON HOSENKA!!
+[Sat Feb 25 19:22:39 2017]  say: ^0[KOTR]^2Luk^0[O]: ^8AAHH the Seal takes me over!!!!!
+[Sat Feb 25 19:23:00 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1^^0TSUKUYOMI!!!!!!
+[Sat Feb 25 19:23:05 2017]  say: Redem: ylf
+[Sat Feb 25 19:23:14 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1SHARINGAN!!
+[Sat Feb 25 19:23:36 2017]  say: Redem: ЖВ
+[Sat Feb 25 19:23:45 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1^^0TSUKUYOMI!!!!!!
+[Sat Feb 25 19:23:50 2017]  say: ^5Pluton: лук
+[Sat Feb 25 19:23:52 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1KATON HOSENKA!!
+[Sat Feb 25 19:23:53 2017]  say: ^5Pluton: скринь
+[Sat Feb 25 19:23:57 2017]  say: ^0[KOTR]^2Luk^0[O]: ne
+[Sat Feb 25 19:24:00 2017]  say: ^0[KOTR]^2Luk^0[O]: xd
+[Sat Feb 25 19:24:06 2017]  say: ^5Pluton: да
+[Sat Feb 25 19:24:09 2017]  say: Redem: ничего, здесь можно еще круче
+[Sat Feb 25 19:24:11 2017]  say: Redem: минуту
+[Sat Feb 25 19:24:15 2017]  Kill: 0 0 39: ^0[KOTR]^2Luk^0[O] killed ^0[KOTR]^2Luk^0[O] by MOD_SUICIDE
+[Sat Feb 25 19:24:18 2017]  say: ^5Pluton: ^7:D
+[Sat Feb 25 19:24:36 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1^^0TSUKUYOMI!!!!!!
+[Sat Feb 25 19:24:56 2017]  Kill: 0 0 39: ^0[KOTR]^2Luk^0[O] killed ^0[KOTR]^2Luk^0[O] by MOD_SUICIDE
+[Sat Feb 25 19:25:10 2017]  say: ^0[KOTR]^2Luk^0[O]: kek
+[Sat Feb 25 19:25:58 2017]  say: ^0[KOTR]^2Luk^0[O]: ^4Ninja-Script by ^0Revan
+[Sat Feb 25 19:26:05 2017]  say: Redem: блин
+[Sat Feb 25 19:26:08 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1Gokakyu!
+[Sat Feb 25 19:26:11 2017]  Kill: 0 0 39: ^0[KOTR]^2Luk^0[O] killed ^0[KOTR]^2Luk^0[O] by MOD_SUICIDE
+[Sat Feb 25 19:26:13 2017]  say: Redem: меню макера не биндится
+[Sat Feb 25 19:26:17 2017]  say: ^0[KOTR]^2Luk^0[O]: ^3Suna no Tate!
+[Sat Feb 25 19:26:31 2017]  say: Redem: вы можете открыть меню макера?
+[Sat Feb 25 19:26:36 2017]  say: ^0[KOTR]^2Luk^0[O]: da
+[Sat Feb 25 19:26:38 2017]  say: Redem: о
+[Sat Feb 25 19:26:40 2017]  say: ^0[KOTR]^2Luk^0[O]: na n
+[Sat Feb 25 19:26:41 2017]  say: ^5Pluton: Ccmd
+[Sat Feb 25 19:26:47 2017]  say: Redem: ага
+[Sat Feb 25 19:26:52 2017]  say: ^0[KOTR]^2Luk^0[O]: ^6Super Rasengan!!
+[Sat Feb 25 19:27:00 2017]  say: Redem: можете ввести в консоли /bind n?
+[Sat Feb 25 19:27:01 2017]  Kill: 0 0 36: ^0[KOTR]^2Luk^0[O] killed ^0[KOTR]^2Luk^0[O] by MOD_CRUSH
+[Sat Feb 25 19:27:03 2017]  say: Redem: /bind n
+[Sat Feb 25 19:27:06 2017]  Kill: 0 0 36: ^0[KOTR]^2Luk^0[O] killed ^0[KOTR]^2Luk^0[O] by MOD_CRUSH
+[Sat Feb 25 19:27:14 2017]  say: Redem: хочу глянуть какая команда там
+[Sat Feb 25 19:27:15 2017]  say: ^0[KOTR]^2Luk^0[O]: ebat
+[Sat Feb 25 19:27:22 2017]  Item: 2 ammo_detpack
+[Sat Feb 25 19:27:22 2017]  Item: 2 ammo_tripmine
+[Sat Feb 25 19:27:22 2017]  Item: 2 ammo_thermal
+[Sat Feb 25 19:27:22 2017]  Item: 2 item_force_boon
+[Sat Feb 25 19:27:22 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:27:22 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:27:22 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:27:22 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:27:38 2017]  say: ^0[KOTR]^2Luk^0[O]: vpisal
+[Sat Feb 25 19:27:42 2017]  Kill: 0 0 39: ^0[KOTR]^2Luk^0[O] killed ^0[KOTR]^2Luk^0[O] by MOD_SUICIDE
+[Sat Feb 25 19:27:46 2017]  say: Redem: и что вывело?
+[Sat Feb 25 19:27:55 2017]  say: Redem: там команда должна быть
+[Sat Feb 25 19:27:56 2017]  say: ^0[KOTR]^2Luk^0[O]: ingame makermod sho to tam 
+[Sat Feb 25 19:28:07 2017]  say: ^0[KOTR]^2Luk^0[O]: ^6Rasengan!!
+[Sat Feb 25 19:28:11 2017]  say: Redem: можешь точно написать, пожалуйста
+[Sat Feb 25 19:28:24 2017]  say: Redem: я себе тогда через консоль бинд сделаю
+[Sat Feb 25 19:28:34 2017]  say: Redem: через меню controls не выходит
+[Sat Feb 25 19:29:00 2017]  say: ^0[KOTR]^2Luk^0[O]: = ui_openmenu ingame_makermod
+[Sat Feb 25 19:29:08 2017]  say: Redem: о, спасибо
+[Sat Feb 25 19:29:12 2017]  say: Redem: ща опробую
+[Sat Feb 25 19:29:13 2017]  say: ^0[KOTR]^2Luk^0[O]: i tam n pere ravno
+[Sat Feb 25 19:29:16 2017]  say: ^5Pluton: ^7:D
+[Sat Feb 25 19:29:17 2017]  say: ^0[KOTR]^2Luk^0[O]: pered*
+[Sat Feb 25 19:29:20 2017]  say: Redem: da
+[Sat Feb 25 19:29:36 2017]  Kill: 0 0 36: ^0[KOTR]^2Luk^0[O] killed ^0[KOTR]^2Luk^0[O] by MOD_CRUSH
+[Sat Feb 25 19:29:48 2017]  say: Redem: есть, благодарю
+[Sat Feb 25 19:29:52 2017]  say: Redem: работает
+[Sat Feb 25 19:31:22 2017]  say: ^0[KOTR]^2Luk^0[O]: aeeeeee
+[Sat Feb 25 19:32:13 2017]  say: ^5Pluton: kek
+[Sat Feb 25 19:32:13 2017]  say: ^0[KOTR]^2Luk^0[O]: raduga ebat
+[Sat Feb 25 19:32:21 2017]  say: ^0[KOTR]^2Luk^0[O]: ^5Hakke Rokujuyon Sho!!
+[Sat Feb 25 19:32:45 2017]  say: Redem: во
+[Sat Feb 25 19:33:09 2017]  say: ^0[KOTR]^2Luk^0[O]: ^6Super Rasengan!!
+[Sat Feb 25 19:33:47 2017]  say: ^0[KOTR]^2Luk^0[O]: ^6Super Rasengan!!
+[Sat Feb 25 19:33:58 2017]  Item: 2 ammo_detpack
+[Sat Feb 25 19:33:58 2017]  Item: 2 ammo_tripmine
+[Sat Feb 25 19:33:58 2017]  Item: 2 item_force_boon
+[Sat Feb 25 19:33:58 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:33:58 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:33:58 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:33:58 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:34:37 2017]  say: ^5Pluton: ^7:D
+[Sat Feb 25 19:35:02 2017]  say: ^0[KOTR]^2Luk^0[O]: mne nelzua davat takie scripti)))
+[Sat Feb 25 19:35:07 2017]  say: Redem: та
+[Sat Feb 25 19:35:17 2017]  say: ^0[KOTR]^2Luk^0[O]: ^6Super Rasengan!!
+[Sat Feb 25 19:35:31 2017]  say: ^0[KOTR]^2Luk^0[O]: ^5Chidori!!
+[Sat Feb 25 19:36:49 2017]  say: ^0[KOTR]^2Luk^0[O]: ^6Super Rasengan!!
+[Sat Feb 25 19:37:19 2017]  Item: 2 item_force_boon
+[Sat Feb 25 19:37:19 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:37:19 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:37:19 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:37:19 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:37:26 2017]  say: ^5Pluton: stoy
+[Sat Feb 25 19:37:30 2017]  say: ^0[KOTR]^2Luk^0[O]: ^4Kagebunshin!!
+[Sat Feb 25 19:37:40 2017]  say: ^0[KOTR]^2Luk^0[O]: ^4Kagebunshin!!
+[Sat Feb 25 19:37:42 2017]  say: ^0[KOTR]^2Luk^0[O]: ^4Kagebunshin!!
+[Sat Feb 25 19:37:50 2017]  say: ^0[KOTR]^2Luk^0[O]: ^4Kagebunshin!!
+[Sat Feb 25 19:38:04 2017]  say: ^0[KOTR]^2Luk^0[O]: ^4Kagebunshin!!
+[Sat Feb 25 19:38:25 2017]  say: ^0[KOTR]^2Luk^0[O]: ^5Chidori!!
+[Sat Feb 25 19:38:52 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1Gokakyu!
+[Sat Feb 25 19:38:59 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1Gokakyu!
+[Sat Feb 25 19:39:05 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1Gokakyu!
+[Sat Feb 25 19:39:06 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1Gokakyu!
+[Sat Feb 25 19:39:07 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1Gokakyu!
+[Sat Feb 25 19:39:08 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1Gokakyu!
+[Sat Feb 25 19:39:22 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1Gokakyu!
+[Sat Feb 25 19:39:23 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1Gokakyu!
+[Sat Feb 25 19:39:24 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1Gokakyu!
+[Sat Feb 25 19:39:25 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1Gokakyu!
+[Sat Feb 25 19:39:45 2017]  say: ^0[KOTR]^2Luk^0[O]: ^1Gokakyu!
+[Sat Feb 25 19:40:02 2017]  say: ^0[KOTR]^2Luk^0[O]: lan
+[Sat Feb 25 19:40:07 2017]  say: ^0[KOTR]^2Luk^0[O]: ua zaebalsua
+[Sat Feb 25 19:40:12 2017]  say: ^5Pluton: stoy
+[Sat Feb 25 19:40:13 2017]  say: ^0[KOTR]^2Luk^0[O]: no mne ponravilos_
+[Sat Feb 25 19:40:17 2017]  say: Redem: aga
+[Sat Feb 25 19:40:33 2017]  say: ^0[KOTR]^2Luk^0[O]: ^4Lightning-^5Script by ^0Revan
+[Sat Feb 25 19:40:38 2017]  say: ^0[KOTR]^2Luk^0[O]: ^5Meditation!
+[Sat Feb 25 19:40:45 2017]  Kill: 0 0 39: ^0[KOTR]^2Luk^0[O] killed ^0[KOTR]^2Luk^0[O] by MOD_SUICIDE
+[Sat Feb 25 19:40:55 2017]  say: ^0[KOTR]^2Luk^0[O]: ^5Shock!
+[Sat Feb 25 19:41:01 2017]  say: ^0[KOTR]^2Luk^0[O]: ^5Shock!
+[Sat Feb 25 19:41:05 2017]  say: ^0[KOTR]^2Luk^0[O]: ^4Storm Portal!!
+[Sat Feb 25 19:41:08 2017]  say: ^5Pluton: luk
+[Sat Feb 25 19:41:11 2017]  say: ^0[KOTR]^2Luk^0[O]: m
+[Sat Feb 25 19:41:14 2017]  say: ^0[KOTR]^2Luk^0[O]: ^4Lightning!
+[Sat Feb 25 19:41:15 2017]  say: ^0[KOTR]^2Luk^0[O]: ^5Meditation!
+[Sat Feb 25 19:41:16 2017]  say: ^0[KOTR]^2Luk^0[O]: ^4Raikiri!!
+[Sat Feb 25 19:41:17 2017]  say: ^0[KOTR]^2Luk^0[O]: ^5Shock!
+[Sat Feb 25 19:41:18 2017]  say: ^5Pluton: skin mne scripty
+[Sat Feb 25 19:41:18 2017]  say: ^0[KOTR]^2Luk^0[O]: ^4Push!
+[Sat Feb 25 19:41:20 2017]  say: ^0[KOTR]^2Luk^0[O]: ^5Lightning Bolt!
+[Sat Feb 25 19:41:21 2017]  say: ^0[KOTR]^2Luk^0[O]: ^4Storm Portal!!
+[Sat Feb 25 19:41:21 2017]  Kill: 0 0 36: ^0[KOTR]^2Luk^0[O] killed ^0[KOTR]^2Luk^0[O] by MOD_CRUSH
+[Sat Feb 25 19:41:26 2017]  say: ^0[KOTR]^2Luk^0[O]: skinu
+[Sat Feb 25 19:41:31 2017]  Item: 2 item_force_boon
+[Sat Feb 25 19:41:32 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:41:32 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:41:32 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:41:32 2017]  Item: 2 ammo_all
+[Sat Feb 25 19:41:36 2017]  say: ^0[KOTR]^2Luk^0[O]: ua karosh poshel
+[Sat Feb 25 19:41:42 2017]  say: Redem: bb
+[Sat Feb 25 19:41:44 2017]  say: ^0[KOTR]^2Luk^0[O]: zavtra povtorim
+[Sat Feb 25 19:41:50 2017]  say: ^5Pluton: lan
+[Sat Feb 25 19:41:50 2017]  say: ^0[KOTR]^2Luk^0[O]: navernp
+[Sat Feb 25 19:41:52 2017]  say: ^5Pluton: davai
+[Sat Feb 25 19:41:56 2017]  say: ^0[KOTR]^2Luk^0[O]: scripti sha skinu
+[Sat Feb 25 19:42:04 2017]  ClientDisconnect: 0
+[Sat Feb 25 19:42:19 2017]  say: ^5Pluton: ya toje poidu
+[Sat Feb 25 19:42:23 2017]  say: ^5Pluton: bb
+[Sat Feb 25 19:42:24 2017]  say: Redem: ok
+[Sat Feb 25 19:42:24 2017]  say: Redem: bb
+[Sat Feb 25 19:42:27 2017]  ClientDisconnect: 1
+[Sat Feb 25 19:45:26 2017]  ClientDisconnect: 2
+[Sat Feb 25 19:53:28 2017]  ClientConnect: 0
+[Sat Feb 25 19:53:28 2017]  mlog:Player ^5Pluton, connected. With IP - 46.61.58.84:29070 
+[Sat Feb 25 19:53:33 2017]  ClientConnect: 1
+[Sat Feb 25 19:53:33 2017]  mlog:Player ^0Иxile ^4Predator ^1[J], connected. With IP - 85.140.4.53:25757 
+[Sat Feb 25 19:54:22 2017]  ClientBegin: 1
+[Sat Feb 25 19:54:53 2017]  ClientDisconnect: 0
+[Sat Feb 25 19:54:53 2017]  ClientConnect: 0
+[Sat Feb 25 19:54:53 2017]  mlog:Player ^5Pluton, connected. With IP - 46.61.58.84:29070 
+[Sat Feb 25 19:55:42 2017]  ClientBegin: 0
+[Sat Feb 25 19:55:47 2017]  say: ^5Pluton: ^7@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[Sat Feb 25 19:55:56 2017]  say: ^5Pluton: serega
+[Sat Feb 25 19:56:13 2017]  say: Lolskii Lol: ?
+[Sat Feb 25 19:56:19 2017]  say: ^5Pluton: zdarov
+[Sat Feb 25 19:56:28 2017]  say: Lolskii Lol: zdarob
+[Sat Feb 25 19:56:29 2017]  say: Lolskii Lol: v
+[Sat Feb 25 19:57:48 2017]  say: ^5Pluton: My origin is: (-6254 -21192 1504) - You can teleport here with /mtelelast
+
+[Sat Feb 25 19:58:00 2017]  say: ^5Pluton: pishi /msayorigin
+[Sat Feb 25 19:58:23 2017]  say: Lolskii Lol: My origin is: (-8032 7846 1470) - You can teleport here with /mtelelast
+
+[Sat Feb 25 20:00:22 2017]  Kill: 0 1 3: ^5Pluton killed Lolskii Lol by MOD_SABER
+[Sat Feb 25 20:00:27 2017]  say: Lolskii Lol: rak
+[Sat Feb 25 20:00:29 2017]  say: ^5Pluton: ^7:D
+[Sat Feb 25 20:01:20 2017]  Kill: 0 1 3: ^5Pluton killed Lolskii Lol by MOD_SABER
+[Sat Feb 25 20:01:36 2017]  say: ^5Pluton: My origin is: (13118 19454 1551) - You can teleport here with /mtelelast
+
+[Sat Feb 25 20:01:44 2017]  say: Lolskii Lol: ya ebal
+[Sat Feb 25 20:02:08 2017]  say: ^5Pluton: Kogo?
+[Sat Feb 25 20:02:32 2017]  say: ^5Pluton: lan
+[Sat Feb 25 20:02:32 2017]  say: Lolskii Lol: !tele origin 2
+[Sat Feb 25 20:02:43 2017]  say: ^5Pluton: tut ne base cfg
+[Sat Feb 25 20:02:53 2017]  say: ^5Pluton: tut vse cherez consol
+[Sat Feb 25 20:02:59 2017]  say: Lolskii Lol: da eto bind
+[Sat Feb 25 20:03:01 2017]  say: Lolskii Lol: bil
+[Sat Feb 25 20:03:03 2017]  say: ^5Pluton: ^7:D
+[Sat Feb 25 20:03:40 2017]  print "Lolskii Lol^7 @@@PLRENAME ^1God Khorn
+"[Sat Feb 25 20:04:12 2017]  print "^1God Khorn^7 @@@PLRENAME ^1God Khorne
+"[Sat Feb 25 20:04:17 2017]  print "^5Pluton^7 @@@PLRENAME ^1Dagot
+"[Sat Feb 25 20:04:24 2017]  print "^1Dagot^7 @@@PLRENAME ^1Dagot_Ihr
+"[Sat Feb 25 20:04:30 2017]  print "^1Dagot_Ihr^7 @@@PLRENAME ^1Dagot_Uhr
+"[Sat Feb 25 20:04:34 2017]  say: ^1God Khorne: gde etot pituh koter
+[Sat Feb 25 20:04:46 2017]  say: ^1Dagot_Uhr: oN OBESHAL ZAITI
+[Sat Feb 25 20:04:57 2017]  say: ^1Dagot_Uhr: Nopotom skazal chto umer
+[Sat Feb 25 20:04:59 2017]  say: ^1God Khorne: suka on
+[Sat Feb 25 20:05:05 2017]  say: ^1Dagot_Uhr: gandon
+[Sat Feb 25 20:05:18 2017]  say: ^1God Khorne: kidala kidal
+[Sat Feb 25 20:05:28 2017]  say: ^1Dagot_Uhr: huy na nego klal
+[Sat Feb 25 20:05:34 2017]  say: ^1God Khorne: :D
+[Sat Feb 25 20:05:35 2017]  say: ^1Dagot_Uhr: ^7:D
+[Sat Feb 25 20:05:46 2017]  say: ^1Dagot_Uhr: mojesh daje zaskrinit
+[Sat Feb 25 20:05:52 2017]  say: ^1God Khorne: da pox
+[Sat Feb 25 20:08:11 2017]  say: ^1Dagot_Uhr: Дом Хлаалу/Дом Редоран/Дом Телвани/Дом Дрес/Дом Дагот (Ты за кого?)
+[Sat Feb 25 20:08:32 2017]  say: ^1Dagot_Uhr: Еще Дом Индорил
+[Sat Feb 25 20:08:39 2017]  Kill: 0 0 39: ^1Dagot_Uhr killed ^1Dagot_Uhr by MOD_SUICIDE
+[Sat Feb 25 20:08:39 2017]  setteam:  0 FREE SPECTATOR
+[Sat Feb 25 20:08:39 2017]  ClientBegin: 0
+[Sat Feb 25 20:09:24 2017]  say: ^1God Khorne: ya sam za sebya
+[Sat Feb 25 20:09:30 2017]  say: ^1God Khorne: ya BOg
+[Sat Feb 25 20:09:34 2017]  say: ^1Dagot_Uhr: Ответ сука не принимается
+[Sat Feb 25 20:09:50 2017]  say: ^1God Khorne: Krov' krovavomu bogu! 4erepa tronu iz 4erepov
+[Sat Feb 25 20:09:52 2017]  say: ^1God Khorne: !
+[Sat Feb 25 20:10:08 2017]  say: ^1Dagot_Uhr: Говори какому Дому ты служишь?
+[Sat Feb 25 20:10:18 2017]  say: ^1God Khorne: Eto mne sluzhat
+[Sat Feb 25 20:10:23 2017]  say: ^1God Khorne: smatnie
+[Sat Feb 25 20:10:28 2017]  say: ^1God Khorne: smertnie
+[Sat Feb 25 20:10:36 2017]  say: ^1Dagot_Uhr: Не я серьезно
+[Sat Feb 25 20:10:46 2017]  say: ^1Dagot_Uhr: Кокому Дому Служишь?
+[Sat Feb 25 20:10:53 2017]  say: ^1God Khorne: nikakomu
+[Sat Feb 25 20:11:01 2017]  say: ^1God Khorne: ya ne ponimau o 4em ti
+[Sat Feb 25 20:11:05 2017]  say: ^1Dagot_Uhr: А какому служил бы?
+[Sat Feb 25 20:11:16 2017]  say: ^1God Khorne: никакому
+[Sat Feb 25 20:11:25 2017]  say: ^1God Khorne: я не врубаю че за дома
+[Sat Feb 25 20:11:35 2017]  say: ^1God Khorne: я сам себе хозяин
+[Sat Feb 25 20:11:40 2017]  say: ^1God Khorne: !tele origin 2
+[Sat Feb 25 20:11:44 2017]  say: ^1God Khorne: suk
+[Sat Feb 25 20:12:03 2017]  say: ^1Dagot_Uhr: А какой Дом выбрал бы?
+[Sat Feb 25 20:12:09 2017]  say: ^1God Khorne: nikakoi
+[Sat Feb 25 20:12:22 2017]  say: ^1God Khorne: nah mne vibirat hui znaet 4o
+[Sat Feb 25 20:12:46 2017]  say: ^1Dagot_Uhr: Это шесть великих Домов Морровинда
+[Sat Feb 25 20:13:02 2017]  say: ^1God Khorne: ne igral v morrovind
+[Sat Feb 25 20:13:27 2017]  say: ^1Dagot_Uhr: Назови любой изДомов
+[Sat Feb 25 20:13:39 2017]  say: ^1God Khorne: za43m
+[Sat Feb 25 20:13:43 2017]  say: ^1Dagot_Uhr: Просто
+[Sat Feb 25 20:13:59 2017]  say: ^1God Khorne: eti doma kakie-to stremnie
+[Sat Feb 25 20:14:08 2017]  say: ^1God Khorne: dazhe vibirat ne iz 4ego
+[Sat Feb 25 20:14:26 2017]  say: ^1Dagot_Uhr: Просто блять назови один из домов
+[Sat Feb 25 20:14:32 2017]  say: ^1God Khorne: nit :D
+[Sat Feb 25 20:14:41 2017]  say: ^1Dagot_Uhr: Ятя сука заставлю
+[Sat Feb 25 20:14:53 2017]  say: ^1God Khorne: ne dumau)
+[Sat Feb 25 20:15:07 2017]  say: ^1Dagot_Uhr: Не ну серьезно назови один из Них
+[Sat Feb 25 20:15:35 2017]  say: ^1God Khorne: za4em?)
+[Sat Feb 25 20:15:43 2017]  say: ^1Dagot_Uhr: Простоназови
+[Sat Feb 25 20:15:53 2017]  say: ^1God Khorne: rposto dazhe muxi ne ebuca)
+[Sat Feb 25 20:16:14 2017]  say: ^1Dagot_Uhr: Ну это для меня важно
+[Sat Feb 25 20:16:32 2017]  say: ^1Dagot_Uhr: какой Дом ты назовешь
+[Sat Feb 25 20:16:51 2017]  say: ^1God Khorne: a hz
+[Sat Feb 25 20:17:01 2017]  say: ^1God Khorne: voobshe v dushe ne ebu
+[Sat Feb 25 20:17:20 2017]  say: ^1Dagot_Uhr: ну назови пожалуста
+[Sat Feb 25 20:17:47 2017]  say: ^1God Khorne: ya ril hz)w
+[Sat Feb 25 20:18:23 2017]  say: ^1Dagot_Uhr: Дом Хлаалу/Дом Редоран/Дом Телвани/Дом Индорил/Дом Дрес/Дом Дагот
+[Sat Feb 25 20:18:44 2017]  say: ^1Dagot_Uhr: Назови
+[Sat Feb 25 20:18:52 2017]  say: ^1God Khorne: i 4em oni otli4autsa krome imeni?
+[Sat Feb 25 20:19:16 2017]  say: ^1Dagot_Uhr: Разные роды деятельности и тд
+[Sat Feb 25 20:19:51 2017]  say: ^1Dagot_Uhr: Ну назови и я пойду спать4
+[Sat Feb 25 20:20:13 2017]  say: ^1God Khorne: ya hz, kr4
+[Sat Feb 25 20:20:18 2017]  say: ^1God Khorne: sha random duait
+[Sat Feb 25 20:20:22 2017]  say: ^1God Khorne: budit
+[Sat Feb 25 20:20:26 2017]  say: ^1God Khorne: .....
+[Sat Feb 25 20:20:42 2017]  say: ^1God Khorne: dres, i pusti eti vse doma sostu jstka
+[Sat Feb 25 20:20:47 2017]  say: ^1God Khorne: sostu
+[Sat Feb 25 20:20:50 2017]  say: ^1God Khorne: sosut
+[Sat Feb 25 20:21:08 2017]  say: ^1Dagot_Uhr: Дрес это работорговцы)0
+[Sat Feb 25 20:21:14 2017]  say: ^1God Khorne: ))
+[Sat Feb 25 20:21:14 2017]  say: ^1Dagot_Uhr: азаз
+[Sat Feb 25 20:21:18 2017]  say: ^1Dagot_Uhr: бб
+[Sat Feb 25 20:21:24 2017]  say: ^1God Khorne: zbs je)
+[Sat Feb 25 20:21:26 2017]  say: ^1God Khorne: bb
+[Sat Feb 25 20:21:28 2017]  ClientDisconnect: 0
+[Sat Feb 25 20:21:38 2017]  ClientDisconnect: 1
+[Tue Feb 28 14:52:22 2017]  ClientConnect: 0
+[Tue Feb 28 14:52:22 2017]  mlog:Player Re^6s^7pi^6r^7at^6o^7r^6:*, connected. With IP - 176.8.68.98:29070 
+[Tue Feb 28 14:53:06 2017]  ClientBegin: 0
+[Tue Feb 28 14:53:28 2017]  say: ^6YA^0DAUNICH: ^1The ^5Spirit ^2Power!
+[Tue Feb 28 14:53:31 2017]  say: ^6YA^0DAUNICH: ^1Flame ^1Guard!
+[Tue Feb 28 14:53:35 2017]  say: ^6YA^0DAUNICH: ^1Ember ^1Strike
+[Tue Feb 28 14:53:39 2017]  say: ^6YA^0DAUNICH: ^1Flame ^1Chain
+[Tue Feb 28 14:53:43 2017]  say: ^6YA^0DAUNICH: ^1Fists!
+[Tue Feb 28 14:53:47 2017]  say: ^6YA^0DAUNICH: ^5Zzzzip!
+[Tue Feb 28 14:53:50 2017]  say: ^6YA^0DAUNICH: ^5Zzzzap!
+[Tue Feb 28 14:53:53 2017]  say: ^6YA^0DAUNICH: ^5Zzzzip!
+[Tue Feb 28 14:54:00 2017]  say: ^6YA^0DAUNICH: ^5Zzzzip!
+[Tue Feb 28 14:54:04 2017]  say: ^6YA^0DAUNICH: ^5Zzzzap!
+[Tue Feb 28 14:54:08 2017]  say: ^6YA^0DAUNICH: ^1Flame ^1Guard!
+[Tue Feb 28 14:54:20 2017]  say: ^6YA^0DAUNICH: ^1Zero ^0Mod ^1By ^0Peacemaker
+[Tue Feb 28 14:54:36 2017]  say: ^6YA^0DAUNICH: ^1ONE ^0PUNCH
+[Tue Feb 28 14:54:39 2017]  say: ^6YA^0DAUNICH: ^1Flux ^0Bullet
+[Tue Feb 28 14:54:41 2017]  say: ^6YA^0DAUNICH: ^1Flux ^0Bullet
+[Tue Feb 28 14:54:45 2017]  say: ^6YA^0DAUNICH: ^0Rage ^1Explosion
+[Tue Feb 28 14:54:48 2017]  Item: 0 weapon_melee
+[Tue Feb 28 14:57:50 2017]  ClientDisconnect: 0
+[Tue Feb 28 17:48:47 2017]  ClientConnect: 0
+[Tue Feb 28 17:48:47 2017]  mlog:Player sed, connected. With IP - 31.28.116.167:29070 
+[Tue Feb 28 17:49:27 2017]  ClientBegin: 0
+[Tue Feb 28 17:50:37 2017]  ClientDisconnect: 0
+[Tue Feb 28 18:07:04 2017]  ClientConnect: 0
+[Tue Feb 28 18:07:04 2017]  mlog:Player sed, connected. With IP - 31.28.116.167:29070 
+[Tue Feb 28 18:07:39 2017]  ClientBegin: 0
+[Tue Feb 28 18:08:52 2017]  ClientDisconnect: 0
+[Tue Feb 28 18:11:06 2017]  ClientConnect: 0
+[Tue Feb 28 18:11:06 2017]  mlog:Player sed, connected. With IP - 31.28.116.167:29070 
+[Tue Feb 28 18:11:42 2017]  ClientBegin: 0
+[Tue Feb 28 18:13:04 2017]  say: sed: npc spawn jedi
+[Tue Feb 28 18:15:28 2017]  ClientDisconnect: 0
+[Tue Feb 28 18:16:18 2017]  ClientConnect: 0
+[Tue Feb 28 18:16:18 2017]  mlog:Player sed, connected. With IP - 31.28.116.167:29070 
+[Tue Feb 28 18:16:52 2017]  ClientBegin: 0
+[Tue Feb 28 18:21:00 2017]  Kill: 0 0 20: sed killed sed by MOD_ROCKET_SPLASH
+[Tue Feb 28 18:21:02 2017]  ClientDisconnect: 0
+[Tue Feb 28 18:30:58 2017]  ClientConnect: 0
+[Tue Feb 28 18:30:58 2017]  mlog:Player sed, connected. With IP - 31.28.116.167:29070 
+[Tue Feb 28 18:31:33 2017]  ClientBegin: 0
+[Tue Feb 28 18:34:02 2017]  ClientDisconnect: 0
+[Tue Feb 28 18:34:57 2017]  ClientConnect: 0
+[Tue Feb 28 18:34:57 2017]  mlog:Player sed, connected. With IP - 31.28.116.167:29070 
+[Tue Feb 28 18:35:33 2017]  ClientBegin: 0
+[Tue Feb 28 18:36:19 2017]  ClientDisconnect: 0
+[Tue Feb 28 19:08:32 2017]  ClientConnect: 0
+[Tue Feb 28 19:08:32 2017]  mlog:Player sed, connected. With IP - 31.28.116.167:29070 
+[Tue Feb 28 19:09:07 2017]  ClientBegin: 0
+[Tue Feb 28 19:15:44 2017]  ClientDisconnect: 0

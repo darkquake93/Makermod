@@ -1,0 +1,38 @@
+[Sun Jun 01 03:45:19 2014]  ------------------------------------------------------------
+[Sun Jun 01 03:45:19 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jun 01 03:45:21 2014]  ClientConnect: 0
+[Sun Jun 01 03:45:21 2014]  ClientConnect: 1
+[Sun Jun 01 03:45:32 2014]  ClientBegin: 1
+[Sun Jun 01 03:45:46 2014]  ClientBegin: 0
+[Sun Jun 01 03:47:26 2014]  ClientConnect: 2
+[Sun Jun 01 03:47:26 2014]  mlog:Player Day Day, connected. With IP - 71.163.115.75:1025 
+[Sun Jun 01 03:47:27 2014]  ClientConnect: 3
+[Sun Jun 01 03:47:27 2014]  mlog:Player Day Day, connected. With IP - 71.163.115.75:1024 
+[Sun Jun 01 03:47:50 2014]  ClientBegin: 2
+[Sun Jun 01 03:47:52 2014]  ClientBegin: 3
+[Sun Jun 01 03:50:10 2014]  Kill: 0 1 3: THECRONAN killed THEJORY by MOD_SABER
+[Sun Jun 01 03:50:39 2014]  say: THECRONAN: all guns
+[Sun Jun 01 03:50:57 2014]  say: THEJORY: all guns
+[Sun Jun 01 03:51:05 2014]  say: Day Day: all guns
+[Sun Jun 01 03:51:30 2014]  Kill: 3 2 3: Day Day killed Day Day by MOD_SABER
+[Sun Jun 01 03:51:40 2014]  ClientDisconnect: 0
+[Sun Jun 01 03:51:52 2014]  ClientDisconnect: 3
+[Sun Jun 01 03:52:31 2014]  ClientDisconnect: 1
+[Sun Jun 01 03:54:48 2014]  ClientDisconnect: 2
+[Sun Jun 01 05:45:18 2014]  Exit: Timelimit hit.
+[Sun Jun 01 14:09:26 2014]  ClientConnect: 0
+[Sun Jun 01 14:09:26 2014]  mlog:Player ^6J^7an ^6S^7exy ^6T^7ech, connected. With IP - 31.61.129.122:3457 
+[Sun Jun 01 14:10:27 2014]  ClientBegin: 0
+[Sun Jun 01 14:10:31 2014]  ShutdownGame:
+[Sun Jun 01 14:10:31 2014]  ------------------------------------------------------------
+[Sun Jun 01 14:10:32 2014]  ------------------------------------------------------------
+[Sun Jun 01 14:10:32 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jun 01 14:10:33 2014]  ClientConnect: 0
+[Sun Jun 01 14:11:03 2014]  ClientBegin: 0
+[Sun Jun 01 14:11:29 2014]  ClientDisconnect: 0
+[Sun Jun 01 16:10:31 2014]  Exit: Timelimit hit.
+[Mon Jun 02 13:22:04 2014]  ClientConnect: 0
+[Mon Jun 02 13:22:04 2014]  mlog:Player ^2N^5ewcomer, connected. With IP - 178.140.39.182:29070 
+[Mon Jun 02 13:23:57 2014]  ClientBegin: 0
+[Mon Jun 02 13:24:22 2014]  ShutdownGame:
+[Mon Jun 02 13:24:22 2014]  ------------------------------------------------------------

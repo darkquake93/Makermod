@@ -1,0 +1,71 @@
+[Tue May 13 00:35:54 2014]  ------------------------------------------------------------
+[Tue May 13 00:35:54 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue May 13 02:35:55 2014]  Exit: Timelimit hit.
+[Tue May 13 10:12:09 2014]  ClientConnect: 0
+[Tue May 13 10:12:09 2014]  mlog:Player Padawan, connected. With IP - 95.78.200.77:29070 
+[Tue May 13 10:12:27 2014]  ClientBegin: 0
+[Tue May 13 10:12:33 2014]  ShutdownGame:
+[Tue May 13 10:12:33 2014]  ------------------------------------------------------------
+[Tue May 13 10:12:34 2014]  ------------------------------------------------------------
+[Tue May 13 10:12:34 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue May 13 10:12:35 2014]  ClientConnect: 0
+[Tue May 13 10:12:44 2014]  ClientBegin: 0
+[Tue May 13 10:13:00 2014]  ClientDisconnect: 0
+[Tue May 13 12:12:33 2014]  Exit: Timelimit hit.
+[Tue May 13 21:01:46 2014]  ClientConnect: 0
+[Tue May 13 21:01:46 2014]  mlog:Player Dryl, connected. With IP - 79.85.243.62:29070 
+[Tue May 13 21:01:57 2014]  ClientBegin: 0
+[Tue May 13 21:02:12 2014]  ClientConnect: 1
+[Tue May 13 21:02:12 2014]  mlog:Player Dreimon, connected. With IP - 79.85.243.116:29070 
+[Tue May 13 21:02:22 2014]  ShutdownGame:
+[Tue May 13 21:02:22 2014]  ------------------------------------------------------------
+[Tue May 13 21:02:23 2014]  ------------------------------------------------------------
+[Tue May 13 21:02:23 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue May 13 21:02:24 2014]  ClientConnect: 0
+[Tue May 13 21:02:24 2014]  ClientConnect: 1
+[Tue May 13 21:02:36 2014]  ClientBegin: 0
+[Tue May 13 21:02:45 2014]  ClientBegin: 1
+[Tue May 13 21:05:58 2014]  Kill: 0 1 3: Dryl killed Dreimon by MOD_SABER
+[Tue May 13 21:07:57 2014]  Kill: 1 0 3: Dreimon killed Dryl by MOD_SABER
+[Tue May 13 21:08:21 2014]  Kill: 1 0 3: Dreimon killed Dryl by MOD_SABER
+[Tue May 13 21:08:45 2014]  Kill: 0 1 3: Dryl killed Dreimon by MOD_SABER
+[Tue May 13 21:09:27 2014]  Kill: 1 0 3: Dreimon killed Dryl by MOD_SABER
+[Tue May 13 21:11:30 2014]  Kill: 0 1 3: Dryl killed Dreimon by MOD_SABER
+[Tue May 13 21:11:47 2014]  Kill: 1 0 3: Dreimon killed Dryl by MOD_SABER
+[Tue May 13 21:13:03 2014]  Kill: 1 0 3: Dreimon killed Dryl by MOD_SABER
+[Tue May 13 21:13:56 2014]  ClientDisconnect: 1
+[Tue May 13 21:17:41 2014]  ClientDisconnect: 0
+[Tue May 13 21:26:21 2014]  ClientConnect: 0
+[Tue May 13 21:26:21 2014]  mlog:Player Dryl, connected. With IP - 79.85.243.62:29070 
+[Tue May 13 21:26:36 2014]  ClientBegin: 0
+[Tue May 13 21:26:41 2014]  ClientConnect: 1
+[Tue May 13 21:26:41 2014]  mlog:Player Dreimon, connected. With IP - 79.85.243.116:29071 
+[Tue May 13 21:26:57 2014]  ClientBegin: 1
+[Tue May 13 21:28:32 2014]  Kill: 1 0 3: Padawan killed Dryl by MOD_SABER
+[Tue May 13 21:29:01 2014]  Kill: 0 1 3: Dryl killed Padawan by MOD_SABER
+[Tue May 13 21:29:23 2014]  Kill: 1 0 3: Padawan killed Dryl by MOD_SABER
+[Tue May 13 21:29:50 2014]  Kill: 0 1 3: Dryl killed Padawan by MOD_SABER
+[Tue May 13 21:30:02 2014]  Kill: 1 0 3: Padawan killed Dryl by MOD_SABER
+[Tue May 13 21:30:36 2014]  Kill: 0 1 3: Dryl killed Padawan by MOD_SABER
+[Tue May 13 21:31:38 2014]  Kill: 0 1 3: Dryl killed Padawan by MOD_SABER
+[Tue May 13 21:32:08 2014]  Kill: 0 1 3: Dryl killed Padawan by MOD_SABER
+[Tue May 13 21:32:34 2014]  Kill: 0 1 31: Dryl killed Padawan by MOD_FORCE_DARK
+[Tue May 13 21:33:11 2014]  Kill: 1 0 3: Padawan killed Dryl by MOD_SABER
+[Tue May 13 21:33:45 2014]  Kill: 0 1 3: Dryl killed Padawan by MOD_SABER
+[Tue May 13 21:33:58 2014]  print "Padawan^7 @@@PLRENAME Dreimon
+"[Tue May 13 21:34:29 2014]  Kill: 0 1 3: Dryl killed Dreimon by MOD_SABER
+[Tue May 13 21:35:26 2014]  Kill: 0 1 3: Dryl killed Dreimon by MOD_SABER
+[Tue May 13 21:35:56 2014]  Kill: 1 0 3: Dreimon killed Dryl by MOD_SABER
+[Tue May 13 21:37:10 2014]  Kill: 0 1 3: Dryl killed Dreimon by MOD_SABER
+[Tue May 13 21:37:26 2014]  Kill: 1 0 3: Dreimon killed Dryl by MOD_SABER
+[Tue May 13 21:37:30 2014]  ClientDisconnect: 0
+[Tue May 13 21:37:45 2014]  ClientDisconnect: 1
+[Tue May 13 23:02:22 2014]  Exit: Timelimit hit.
+[Tue May 13 23:54:26 2014]  ------------------------------------------------------------
+[Tue May 13 23:54:26 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 14 01:54:27 2014]  Exit: Timelimit hit.
+[Wed May 14 09:21:46 2014]  ClientConnect: 0
+[Wed May 14 09:21:46 2014]  mlog:Player Padawan, connected. With IP - 188.186.203.80:29070 
+[Wed May 14 09:21:57 2014]  ClientBegin: 0
+[Wed May 14 09:22:08 2014]  ShutdownGame:
+[Wed May 14 09:22:08 2014]  ------------------------------------------------------------

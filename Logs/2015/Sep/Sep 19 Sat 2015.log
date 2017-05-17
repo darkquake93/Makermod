@@ -1,0 +1,117 @@
+[Sat Sep 19 12:51:52 2015]  ------------------------------------------------------------
+[Sat Sep 19 12:51:52 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 19 12:51:54 2015]  ClientConnect: 0
+[Sat Sep 19 12:52:08 2015]  ClientBegin: 0
+[Sat Sep 19 12:52:09 2015]  say: ^1a^2^0S^1i^0D: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 19 12:54:04 2015]  say: ^1a^2^0S^1i^0D: ^3Media ^2- ^7Currently playing: ^2[Amatory] - 03 - Здесь и сейчас
+[Sat Sep 19 12:54:11 2015]  say: ^1a^2^0S^1i^0D: ^3Media ^2- ^7Currently playing: ^2[AMATORY] - 03 - Империя Зла
+[Sat Sep 19 13:00:59 2015]  Kill: 1022 0 38: <world> killed ^1a^2^0S^1i^0D by MOD_FALLING
+[Sat Sep 19 13:01:27 2015]  say: ^1a^2^0S^1i^0D: ^3UU ^2- ^7JA ^2Minimized
+[Sat Sep 19 13:03:08 2015]  ClientConnect: 1
+[Sat Sep 19 13:03:08 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sat Sep 19 13:03:22 2015]  ClientBegin: 1
+[Sat Sep 19 13:03:33 2015]  Item: 1 weapon_melee
+[Sat Sep 19 13:04:34 2015]  say: ^1a^2^0S^1i^0D: ^3UU ^2- ^7JA ^2Restored
+[Sat Sep 19 13:04:45 2015]  say: ^1a^2^0S^1i^0D: hello
+[Sat Sep 19 13:04:48 2015]  say: ^0Shadow^5seer: hi
+[Sat Sep 19 13:05:03 2015]  say: ^0Shadow^5seer: origin?
+[Sat Sep 19 13:05:10 2015]  say: ^1a^2^0S^1i^0D: spawn
+[Sat Sep 19 13:05:54 2015]  say: ^1a^2^0S^1i^0D: ia russkij
+[Sat Sep 19 13:05:58 2015]  say: ^0Shadow^5seer: ya tozhe
+[Sat Sep 19 13:06:03 2015]  say: ^1a^2^0S^1i^0D: :D
+[Sat Sep 19 13:06:10 2015]  say: ^0Shadow^5seer: да, я тебя помню
+[Sat Sep 19 13:06:38 2015]  say: ^1a^2^0S^1i^0D: ia vse zabil 
+[Sat Sep 19 13:06:41 2015]  say: ^1a^2^0S^1i^0D: kak stroiti
+[Sat Sep 19 13:06:44 2015]  say: ^1a^2^0S^1i^0D: vse komandi :(
+[Sat Sep 19 13:06:46 2015]  say: ^0Shadow^5seer: херово тебе
+[Sat Sep 19 13:06:56 2015]  ClientConnect: 2
+[Sat Sep 19 13:06:56 2015]  mlog:Player Agent Jones, connected. With IP - 93.35.1.222:29070 
+[Sat Sep 19 13:07:13 2015]  say: ^1a^2^0S^1i^0D: a ti kto? kakie niki u tebia bili
+[Sat Sep 19 13:07:17 2015]  say: ^1a^2^0S^1i^0D: esli znaesh menia
+[Sat Sep 19 13:07:18 2015]  say: ^0Shadow^5seer: фуриус
+[Sat Sep 19 13:07:21 2015]  ClientBegin: 2
+[Sat Sep 19 13:07:35 2015]  say: ^1a^2^0S^1i^0D: aaa pomnyou da
+[Sat Sep 19 13:07:47 2015]  say: ^1a^2^0S^1i^0D: ia wanderer
+[Sat Sep 19 13:08:10 2015]  say: ^1a^2^0S^1i^0D: ^3UU ^2- ^7JA ^2Minimized
+[Sat Sep 19 13:08:48 2015]  say: ^1a^2^0S^1i^0D: ^3UU ^2- ^7JA ^2Restored
+[Sat Sep 19 13:08:52 2015]  say: ^0Shadow^5seer: тебя только под твоим нынешним ником помню
+[Sat Sep 19 13:08:56 2015]  say: ^1a^2^0S^1i^0D: snake?
+[Sat Sep 19 13:09:01 2015]  say: ^0Shadow^5seer: asid
+[Sat Sep 19 13:09:07 2015]  say: ^1a^2^0S^1i^0D: a
+[Sat Sep 19 13:09:32 2015]  say: ^0Shadow^5seer: а снейку, как видишь, плохо
+[Sat Sep 19 13:09:39 2015]  say: ^0Shadow^5seer: было только что
+[Sat Sep 19 13:09:51 2015]  say: ^1a^2^0S^1i^0D: on russkij?
+[Sat Sep 19 13:09:54 2015]  say: ^0Shadow^5seer: а хз
+[Sat Sep 19 13:10:02 2015]  say: ^1a^2^0S^1i^0D: ^3UU ^2- ^7JA ^2Minimized
+[Sat Sep 19 13:10:21 2015]  say: ^1a^2^0S^1i^0D: ^3UU ^2- ^7JA ^2Restored
+[Sat Sep 19 13:10:34 2015]  say: ^1a^2^0S^1i^0D: u tebia scripti esti na doma?
+[Sat Sep 19 13:10:37 2015]  say: ^0Shadow^5seer: ага
+[Sat Sep 19 13:10:40 2015]  say: ^1a^2^0S^1i^0D: show me
+[Sat Sep 19 13:10:57 2015]  ClientDisconnect: 2
+[Sat Sep 19 13:10:57 2015]  say: ^0Shadow^5seer: My origin is: (20859 -13852 1474) - You can teleport here with /mtelelast
+
+[Sat Sep 19 13:11:19 2015]  say: ^1a^2^0S^1i^0D: sam delal?
+[Sat Sep 19 13:11:29 2015]  say: ^0Shadow^5seer: tcntcndtyyj
+[Sat Sep 19 13:11:32 2015]  say: ^0Shadow^5seer: естественно
+[Sat Sep 19 13:11:57 2015]  say: ^1a^2^0S^1i^0D: nu
+[Sat Sep 19 13:12:08 2015]  say: ^1a^2^0S^1i^0D: voobsheto nihuevij script
+[Sat Sep 19 13:12:13 2015]  say: ^0Shadow^5seer: а то
+[Sat Sep 19 13:12:27 2015]  say: ^0Shadow^5seer: у меня все скрипты только мои собственные
+[Sat Sep 19 13:12:40 2015]  say: ^0Shadow^5seer: просто потому что никто не делает лучше
+[Sat Sep 19 13:12:58 2015]  say: ^1a^2^0S^1i^0D: mne nravitsia
+[Sat Sep 19 13:13:03 2015]  say: ^0Shadow^5seer: рад слышать
+[Sat Sep 19 13:13:15 2015]  say: ^1a^2^0S^1i^0D: ^3UU ^2- ^7JA ^2Minimized
+[Sat Sep 19 13:13:52 2015]  say: ^1a^2^0S^1i^0D: ^3UU ^2- ^7JA ^2Restored
+[Sat Sep 19 13:13:54 2015]  say: ^0Shadow^5seer: My origin is: (-12734 17125 1574) - You can teleport here with /mtelelast
+
+[Sat Sep 19 13:14:18 2015]  say: ^1a^2^0S^1i^0D: da ti ebanulsia
+[Sat Sep 19 13:14:39 2015]  ClientConnect: 2
+[Sat Sep 19 13:14:39 2015]  mlog:Player Agent Jones, connected. With IP - 93.35.1.222:29070 
+[Sat Sep 19 13:14:54 2015]  say: ^1a^2^0S^1i^0D: slish
+[Sat Sep 19 13:14:59 2015]  say: ^0Shadow^5seer: а я наверху
+[Sat Sep 19 13:15:02 2015]  ClientBegin: 2
+[Sat Sep 19 13:15:09 2015]  say: ^1a^2^0S^1i^0D: esli ti tak kruto pishesh scripti
+[Sat Sep 19 13:15:17 2015]  say: ^1a^2^0S^1i^0D: kachaj dvijok quake 3
+[Sat Sep 19 13:15:24 2015]  say: ^1a^2^0S^1i^0D: na nem eta igra stoit
+[Sat Sep 19 13:15:36 2015]  say: ^0Shadow^5seer: и?
+[Sat Sep 19 13:15:45 2015]  say: ^1a^2^0S^1i^0D: samuti che nibudi
+[Sat Sep 19 13:15:50 2015]  say: ^0Shadow^5seer: например?
+[Sat Sep 19 13:15:59 2015]  say: ^0Shadow^5seer: я в программировании то не шарю
+[Sat Sep 19 13:16:02 2015]  Kill: 2 2 39: Agent Jones killed Agent Jones by MOD_SUICIDE
+[Sat Sep 19 13:16:04 2015]  say: ^1a^2^0S^1i^0D: kartu, makermod obnovi
+[Sat Sep 19 13:16:05 2015]  say: ^0Shadow^5seer: моделить тоже не умею
+[Sat Sep 19 13:16:05 2015]  say: Agent Jones: hi
+[Sat Sep 19 13:16:09 2015]  say: ^1a^2^0S^1i^0D: hi
+[Sat Sep 19 13:16:11 2015]  say: ^0Shadow^5seer: hi
+[Sat Sep 19 13:16:17 2015]  say: ^0Shadow^5seer: короче это разные вещи
+[Sat Sep 19 13:16:32 2015]  say: ^1a^2^0S^1i^0D: ladno menia zovut na ff
+[Sat Sep 19 13:16:34 2015]  say: ^1a^2^0S^1i^0D: 94.23.245.71:29050
+[Sat Sep 19 13:16:37 2015]  say: ^0Shadow^5seer: удачи
+[Sat Sep 19 13:16:48 2015]  say: ^1a^2^0S^1i^0D: go to fullforce server
+[Sat Sep 19 13:16:49 2015]  say: ^1a^2^0S^1i^0D: 94.23.245.71:29050
+[Sat Sep 19 13:16:56 2015]  ClientDisconnect: 0
+[Sat Sep 19 13:16:56 2015]  say: ^0Shadow^5seer: не интересно
+[Sat Sep 19 13:17:04 2015]  say: ^0Shadow^5seer: My origin is: (-19800 14528 1495) - You can teleport here with /mtelelast
+
+[Sat Sep 19 13:17:23 2015]  say: Agent Jones: hi
+[Sat Sep 19 13:17:42 2015]  say: Agent Jones: i saw onysfx's post on jkhub about your building skills
+[Sat Sep 19 13:17:51 2015]  say: ^0Shadow^5seer: glad to hear)
+[Sat Sep 19 13:17:59 2015]  say: Agent Jones: are you a modeler?
+[Sat Sep 19 13:18:02 2015]  say: ^0Shadow^5seer: nope
+[Sat Sep 19 13:18:08 2015]  say: ^0Shadow^5seer: just a makermod player
+[Sat Sep 19 13:18:55 2015]  say: ^0Shadow^5seer: and i have to go
+[Sat Sep 19 13:18:58 2015]  say: Agent Jones: bb
+[Sat Sep 19 13:18:59 2015]  say: ^0Shadow^5seer: bb
+[Sat Sep 19 13:19:02 2015]  ClientDisconnect: 1
+[Sat Sep 19 13:23:01 2015]  ClientDisconnect: 2
+[Sat Sep 19 13:55:07 2015]  ClientConnect: 0
+[Sat Sep 19 13:55:07 2015]  mlog:Player Padawan, connected. With IP - 91.218.29.87:29070 
+[Sat Sep 19 14:00:05 2015]  ClientDisconnect: 0
+[Sat Sep 19 14:51:52 2015]  Exit: Timelimit hit.
+[Sun Sep 20 09:17:31 2015]  ClientConnect: 0
+[Sun Sep 20 09:17:31 2015]  mlog:Player Kasme, connected. With IP - 89.166.56.251:-4536 
+[Sun Sep 20 09:17:36 2015]  ClientConnect: 1
+[Sun Sep 20 09:17:36 2015]  mlog:Player ^3RewXE, connected. With IP - 89.166.56.251:29070 
+[Sun Sep 20 09:17:48 2015]  ClientBegin: 0
+[Sun Sep 20 09:17:50 2015]  ShutdownGame:
+[Sun Sep 20 09:17:50 2015]  ------------------------------------------------------------

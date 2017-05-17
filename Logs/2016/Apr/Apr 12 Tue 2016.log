@@ -1,0 +1,762 @@
+[Tue Apr 12 21:01:07 2016]  ------------------------------------------------------------
+[Tue Apr 12 21:01:07 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Apr 12 21:01:36 2016]  ------------------------------------------------------------
+[Tue Apr 12 21:01:36 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Apr 12 21:47:11 2016]  ClientConnect: 0
+[Tue Apr 12 21:47:11 2016]  mlog:Player ^1M^7r ^1Р^7innertime, connected. With IP - 165.120.130.62:29070 
+[Tue Apr 12 21:47:45 2016]  ClientBegin: 0
+[Wed Apr 13 01:37:06 2016]  Kill: 1022 0 38: <world> killed ^1M^7r ^1Р^7innertime by MOD_FALLING
+[Wed Apr 13 01:56:09 2016]  ClientDisconnect: 0
+[Wed Apr 13 15:27:09 2016]  ClientConnect: 0
+[Wed Apr 13 15:27:09 2016]  mlog:Player ^1M^7r ^1Р^7innertime, connected. With IP - 165.120.130.62:29070 
+[Wed Apr 13 15:27:40 2016]  ClientBegin: 0
+[Wed Apr 13 15:27:41 2016]  say: ^1M^7r ^1Р^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Wed Apr 13 15:30:52 2016]  ClientConnect: 1
+[Wed Apr 13 15:30:52 2016]  mlog:Player Padawan, connected. With IP - 178.121.136.4:30766 
+[Wed Apr 13 15:31:53 2016]  ClientBegin: 1
+[Wed Apr 13 15:31:57 2016]  say: sd: ьк
+[Wed Apr 13 15:31:58 2016]  say: ^1M^7r ^1Р^7innertime: Hai
+[Wed Apr 13 15:31:58 2016]  say: sd: mr
+[Wed Apr 13 15:32:03 2016]  say: ^1M^7r ^1Р^7innertime: privjet
+[Wed Apr 13 15:32:06 2016]  say: sd: how make telescript
+[Wed Apr 13 15:32:10 2016]  say: ^1M^7r ^1Р^7innertime: uhm o.o...
+[Wed Apr 13 15:32:15 2016]  say: sd: effekt tele
+[Wed Apr 13 15:32:15 2016]  say: ^1M^7r ^1Р^7innertime: do you know how to make scripts?
+[Wed Apr 13 15:32:39 2016]  say: ^1M^7r ^1Р^7innertime: you already have a tele script
+[Wed Apr 13 15:32:39 2016]  say: sd: how make teleport
+[Wed Apr 13 15:32:48 2016]  say: sd: press and teleport
+[Wed Apr 13 15:32:51 2016]  say: ^1M^7r ^1Р^7innertime: like this?
+[Wed Apr 13 15:33:06 2016]  say: ^1M^7r ^1Р^7innertime: like that?
+[Wed Apr 13 15:33:09 2016]  say: sd: yes
+[Wed Apr 13 15:33:14 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Apr 13 15:33:22 2016]  say: sd: :)
+[Wed Apr 13 15:33:24 2016]  say: ^1M^7r ^1Р^7innertime: do you have makermodule?
+[Wed Apr 13 15:33:29 2016]  say: sd: no
+[Wed Apr 13 15:33:35 2016]  Kill: 1022 0 3: <world> killed ^1M^7r ^1Р^7innertime by MOD_SABER
+[Wed Apr 13 15:33:39 2016]  say: ^1M^7r ^1Р^7innertime: ah
+[Wed Apr 13 15:33:47 2016]  say: ^1M^7r ^1Р^7innertime: http://gbdeveloping.co.uk/makermodule.html
+[Wed Apr 13 15:33:51 2016]  say: ^1M^7r ^1Р^7innertime: you can find it there
+[Wed Apr 13 15:34:14 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Apr 13 15:34:48 2016]  say: sd: nice 
+[Wed Apr 13 15:35:14 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Apr 13 15:35:18 2016]  say: sd: ;d
+[Wed Apr 13 15:35:41 2016]  say: sd: press
+[Wed Apr 13 15:35:53 2016]  say: ^1M^7r ^1Р^7innertime: nice =]
+[Wed Apr 13 15:35:56 2016]  Kill: 1 0 37: sd killed ^1M^7r ^1Р^7innertime by MOD_TELEFRAG
+[Wed Apr 13 15:36:00 2016]  Kill: 1 1 39: sd killed sd by MOD_SUICIDE
+[Wed Apr 13 15:36:23 2016]  say: sd: Platform script devoleped by ^0Neo^1b^2o^3y^480 ^2 is ^3on
+[Wed Apr 13 15:36:33 2016]  say: ^1M^7r ^1Р^7innertime: did you get makermodule?
+[Wed Apr 13 15:36:43 2016]  say: sd: yes potom
+[Wed Apr 13 15:36:45 2016]  say: ^1M^7r ^1Р^7innertime: =]
+[Wed Apr 13 15:36:59 2016]  say: sd: dont know how english ''potom''
+[Wed Apr 13 15:37:20 2016]  say: sd: what mplace dver
+[Wed Apr 13 15:37:24 2016]  say: sd: door
+[Wed Apr 13 15:37:31 2016]  say: ^1M^7r ^1Р^7innertime: uhh
+[Wed Apr 13 15:37:38 2016]  say: ^1M^7r ^1Р^7innertime: mdoor?
+[Wed Apr 13 15:37:57 2016]  say: sd:  /mdoor ?0_0
+[Wed Apr 13 15:38:01 2016]  say: ^1M^7r ^1Р^7innertime: are you slovakian?
+[Wed Apr 13 15:38:07 2016]  say: sd: no bel
+[Wed Apr 13 15:38:13 2016]  say: ^1M^7r ^1Р^7innertime: oh belgian
+[Wed Apr 13 15:38:16 2016]  say: sd: no 
+[Wed Apr 13 15:38:18 2016]  say: sd: belarus 
+[Wed Apr 13 15:38:22 2016]  say: ^1M^7r ^1Р^7innertime: oh XD
+[Wed Apr 13 15:38:28 2016]  say: sd: mr help
+[Wed Apr 13 15:38:30 2016]  say: sd: what mdoor
+[Wed Apr 13 15:38:42 2016]  say: ^1M^7r ^1Р^7innertime: select this
+[Wed Apr 13 15:38:45 2016]  say: sd:  what x z y
+[Wed Apr 13 15:38:47 2016]  say: ^1M^7r ^1Р^7innertime: mdoor
+[Wed Apr 13 15:39:02 2016]  say: ^1M^7r ^1Р^7innertime: uhm
+[Wed Apr 13 15:39:07 2016]  say: ^1M^7r ^1Р^7innertime: x y z = the direction the door should go
+[Wed Apr 13 15:39:12 2016]  say: sd: say what 
+[Wed Apr 13 15:39:18 2016]  say: sd: 1 0 0 10?
+[Wed Apr 13 15:39:21 2016]  say: sd: 10*
+[Wed Apr 13 15:39:23 2016]  say: ^1M^7r ^1Р^7innertime: yeah
+[Wed Apr 13 15:39:34 2016]  say: sd: wtf
+[Wed Apr 13 15:39:46 2016]  say: ^1M^7r ^1Р^7innertime: hm
+[Wed Apr 13 15:40:26 2016]  say: sd: what x z y
+[Wed Apr 13 15:40:43 2016]  say: ^1M^7r ^1Р^7innertime: O-o
+[Wed Apr 13 15:41:26 2016]  say: ^1M^7r ^1Р^7innertime: *_*
+[Wed Apr 13 15:41:32 2016]  say: ^1M^7r ^1Р^7innertime: I haven't used makermod in a while
+[Wed Apr 13 15:41:33 2016]  say: ^1M^7r ^1Р^7innertime: let me look
+[Wed Apr 13 15:43:12 2016]  say: ^1M^7r ^1Р^7innertime: ok
+[Wed Apr 13 15:43:16 2016]  say: ^1M^7r ^1Р^7innertime: try mplatfor
+[Wed Apr 13 15:43:19 2016]  say: ^1M^7r ^1Р^7innertime: mplatform*
+[Wed Apr 13 15:44:25 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Apr 13 15:44:46 2016]  say: sd: ^1FLOATING PLATFORM SCRIPT ^4By ^5Aayla ^4Secura (my sister)
+[Wed Apr 13 15:44:57 2016]  say: sd: ^1FLOATING PLATFORM SCRIPT ^4By ^5Aayla ^4Secura (my sister)
+[Wed Apr 13 15:44:58 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Apr 13 15:45:01 2016]  say: ^1M^7r ^1Р^7innertime: my platform is better
+[Wed Apr 13 15:45:02 2016]  say: sd: ^1FLOATING PLATFORM SCRIPT ^4By ^1µ^2/Раrk^1Qµаkи^2/^1S
+[Wed Apr 13 15:45:06 2016]  say: sd: )
+[Wed Apr 13 15:46:40 2016]  say: sd: where mr 
+[Wed Apr 13 15:46:53 2016]  say: sd: mr where
+[Wed Apr 13 15:46:56 2016]  say: ^1M^7r ^1Р^7innertime: sec
+[Wed Apr 13 15:48:03 2016]  say: sd: where mr?(
+[Wed Apr 13 15:48:07 2016]  say: ^1M^7r ^1Р^7innertime: My origin is: (-7873 -21901 2062) - You can teleport here with /mtelelast
+
+[Wed Apr 13 15:48:19 2016]  say: ^1M^7r ^1Р^7innertime: ;o
+[Wed Apr 13 15:48:25 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Apr 13 15:48:26 2016]  say: ^1M^7r ^1Р^7innertime: better
+[Wed Apr 13 15:48:31 2016]  say: ^1M^7r ^1Р^7innertime: come here xD
+[Wed Apr 13 15:48:39 2016]  say: sd: wow
+[Wed Apr 13 15:48:49 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Apr 13 15:48:49 2016]  say: sd: wow nice
+[Wed Apr 13 15:49:00 2016]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Apr 13 15:49:38 2016]  say: sd: ^1FLOATING PLATFORM SCRIPT ^4By ^1µ^2/Раrk^1Qµаkи^2/^1S
+[Wed Apr 13 15:49:43 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Apr 13 15:50:51 2016]  say: ^1M^7r ^1Р^7innertime: *_*
+[Wed Apr 13 15:50:55 2016]  say: sd: nice
+[Wed Apr 13 15:51:03 2016]  say: ^1M^7r ^1Р^7innertime: it's not mine 
+[Wed Apr 13 15:51:04 2016]  say: ^1M^7r ^1Р^7innertime: lo
+[Wed Apr 13 15:52:30 2016]  Kill: 1022 1 2: <world> killed sd by MOD_MELEE
+[Wed Apr 13 15:53:04 2016]  say: sd: haha
+[Wed Apr 13 15:53:27 2016]  say: ^1M^7r ^1Р^7innertime: O-o
+[Wed Apr 13 15:53:29 2016]  say: ^1M^7r ^1Р^7innertime: sec
+[Wed Apr 13 15:53:49 2016]  Kill: 1022 1 36: <world> killed sd by MOD_CRUSH
+[Wed Apr 13 15:53:50 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Apr 13 15:53:58 2016]  say: sd: wow
+[Wed Apr 13 15:54:11 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Apr 13 15:54:17 2016]  say: sd: mr prinnertime
+[Wed Apr 13 15:54:19 2016]  say: ^1M^7r ^1Р^7innertime: ?
+[Wed Apr 13 15:54:27 2016]  say: sd: pls /msaveobs and say password pls 
+[Wed Apr 13 15:54:31 2016]  say: ^1M^7r ^1Р^7innertime: XD...
+[Wed Apr 13 15:54:35 2016]  say: sd: pls
+[Wed Apr 13 15:54:39 2016]  say: ^1M^7r ^1Р^7innertime: it doesn't work without the scripts which fire it
+[Wed Apr 13 15:54:48 2016]  say: sd: pls
+[Wed Apr 13 15:55:20 2016]  say: ^1M^7r ^1Р^7innertime: /mloadobs dinnerhavoccannon dinnerhavoccannon
+[Wed Apr 13 15:55:47 2016]  say: sd: falled
+[Wed Apr 13 15:55:49 2016]  say: sd: i
+[Wed Apr 13 15:56:06 2016]  say: ^1M^7r ^1Р^7innertime: O-o
+[Wed Apr 13 15:56:07 2016]  say: ^1M^7r ^1Р^7innertime: worked for me
+[Wed Apr 13 15:56:16 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Apr 13 15:56:18 2016]  say: sd: thanks
+[Wed Apr 13 15:56:21 2016]  say: ^1M^7r ^1Р^7innertime: ^^
+[Wed Apr 13 15:56:24 2016]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Apr 13 15:57:38 2016]  say: sd: ?mmoveall 0 0 100
+[Wed Apr 13 15:58:59 2016]  ClientDisconnect: 1
+[Wed Apr 13 16:02:02 2016]  ClientDisconnect: 0
+[Wed Apr 13 17:05:16 2016]  ClientConnect: 0
+[Wed Apr 13 17:05:16 2016]  mlog:Player ^0Ownage, connected. With IP - 86.24.226.150:29070 
+[Wed Apr 13 17:05:40 2016]  ClientBegin: 0
+[Wed Apr 13 17:05:53 2016]  ClientDisconnect: 0
+[Wed Apr 13 18:38:46 2016]  ClientConnect: 0
+[Wed Apr 13 18:38:46 2016]  mlog:Player ^1M^7r ^1Р^7innertime, connected. With IP - 165.120.130.62:29070 
+[Wed Apr 13 18:39:23 2016]  ClientBegin: 0
+[Wed Apr 13 18:39:23 2016]  say: ^1M^7r ^1Р^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Wed Apr 13 18:51:10 2016]  Kill: 1022 0 38: <world> killed ^1M^7r ^1Р^7innertime by MOD_FALLING
+[Wed Apr 13 18:51:32 2016]  Kill: 0 0 36: ^1M^7r ^1Р^7innertime killed ^1M^7r ^1Р^7innertime by MOD_CRUSH
+[Wed Apr 13 18:56:59 2016]  ClientDisconnect: 0
+[Thu Apr 14 12:49:45 2016]  ClientConnect: 0
+[Thu Apr 14 12:49:45 2016]  mlog:Player ^0I^5ndef!n!ty, connected. With IP - 62.182.80.11:29070 
+[Thu Apr 14 12:50:03 2016]  ClientBegin: 0
+[Thu Apr 14 12:50:15 2016]  print "^1Indefinite^7 @@@PLRENAME ^1Indefinitive
+"[Thu Apr 14 12:50:38 2016]  print "^1Indefinitive^7 @@@PLRENAME ^0I^5ndef!n!ty
+"[Thu Apr 14 13:34:51 2016]  ClientDisconnect: 0
+[Thu Apr 14 14:20:09 2016]  ClientConnect: 0
+[Thu Apr 14 14:20:09 2016]  mlog:Player ^0I^5ndef!n!ty, connected. With IP - 62.182.80.11:29070 
+[Thu Apr 14 14:20:18 2016]  ClientConnect: 1
+[Thu Apr 14 14:20:18 2016]  mlog:Player ^0E^1mperor^4*^3Kivi, connected. With IP - 178.121.56.11:5852 
+[Thu Apr 14 14:20:24 2016]  ClientBegin: 0
+[Thu Apr 14 14:21:05 2016]  ClientBegin: 1
+[Thu Apr 14 14:21:20 2016]  say: ^0I^5ndef!n!ty: smotri
+[Thu Apr 14 14:21:23 2016]  say: ^0I^5ndef!n!ty: idem
+[Thu Apr 14 14:21:37 2016]  print "sd^7 @@@PLRENAME ^0L^1ord^4*^3Sd
+"[Thu Apr 14 14:21:55 2016]  say: ^0I^5ndef!n!ty: tut stan'
+[Thu Apr 14 14:22:02 2016]  say: ^0I^5ndef!n!ty: net
+[Thu Apr 14 14:22:05 2016]  say: ^0I^5ndef!n!ty: tut
+[Thu Apr 14 14:22:20 2016]  say: ^0L^1ord^4*^3Sd: kruto
+[Thu Apr 14 14:22:31 2016]  say: ^0I^5ndef!n!ty: a kak text sdelat'?
+[Thu Apr 14 14:22:36 2016]  say: ^0L^1ord^4*^3Sd: ne pomnu
+[Thu Apr 14 14:22:40 2016]  say: ^0I^5ndef!n!ty: :(
+[Thu Apr 14 14:22:43 2016]  say: ^0I^5ndef!n!ty: admin room
+[Thu Apr 14 14:23:02 2016]  say: ^0L^1ord^4*^3Sd: mne sozdatel govoril vhera parol ot raketi
+[Thu Apr 14 14:23:08 2016]  say: ^0L^1ord^4*^3Sd: on dlinniy ochen' ya zabil(
+[Thu Apr 14 14:23:09 2016]  say: ^0I^5ndef!n!ty: ?
+[Thu Apr 14 14:23:15 2016]  say: ^0I^5ndef!n!ty: raketi?
+[Thu Apr 14 14:23:16 2016]  say: ^0L^1ord^4*^3Sd: da
+[Thu Apr 14 14:23:20 2016]  say: ^0L^1ord^4*^3Sd: y nego raketa est'
+[Thu Apr 14 14:23:21 2016]  say: ^0I^5ndef!n!ty: 4to eto?
+[Thu Apr 14 14:23:27 2016]  say: ^0L^1ord^4*^3Sd: postroennaya
+[Thu Apr 14 14:23:37 2016]  say: ^0I^5ndef!n!ty: ow
+[Thu Apr 14 14:23:39 2016]  say: ^0I^5ndef!n!ty: k
+[Thu Apr 14 14:23:45 2016]  say: ^0I^5ndef!n!ty: kak nick?
+[Thu Apr 14 14:23:53 2016]  say: ^0L^1ord^4*^3Sd: kakoi
+[Thu Apr 14 14:23:59 2016]  say: ^0I^5ndef!n!ty: moi lol
+[Thu Apr 14 14:24:03 2016]  say: ^0L^1ord^4*^3Sd: ok
+[Thu Apr 14 14:24:26 2016]  say: ^0I^5ndef!n!ty: ya sam sdelal dver'
+[Thu Apr 14 14:24:31 2016]  say: ^0L^1ord^4*^3Sd: aga
+[Thu Apr 14 14:25:07 2016]  say: ^0I^5ndef!n!ty: a kak parol postavit'/
+[Thu Apr 14 14:25:11 2016]  say: ^0I^5ndef!n!ty: mne nado
+[Thu Apr 14 14:25:13 2016]  say: ^0L^1ord^4*^3Sd: ya zabil(
+[Thu Apr 14 14:25:19 2016]  say: ^0I^5ndef!n!ty: REAL???
+[Thu Apr 14 14:25:20 2016]  say: ^0L^1ord^4*^3Sd: vrode /msetpassword
+[Thu Apr 14 14:25:24 2016]  say: ^0I^5ndef!n!ty: K
+[Thu Apr 14 14:27:15 2016]  say: ^0I^5ndef!n!ty: da
+[Thu Apr 14 14:27:17 2016]  say: ^0I^5ndef!n!ty: vse
+[Thu Apr 14 14:27:24 2016]  say: ^0I^5ndef!n!ty: lobster
+[Thu Apr 14 14:27:36 2016]  say: ^0I^5ndef!n!ty: kak???
+[Thu Apr 14 14:28:08 2016]  say: ^0I^5ndef!n!ty: :/
+[Thu Apr 14 14:28:14 2016]  say: ^0I^5ndef!n!ty: nu vot za4em?
+[Thu Apr 14 14:29:57 2016]  say: ^0I^5ndef!n!ty: parol' skazat'?
+[Thu Apr 14 14:30:08 2016]  say: ^0L^1ord^4*^3Sd: ne obyazatelno
+[Thu Apr 14 14:30:16 2016]  say: ^0I^5ndef!n!ty: tak da?
+[Thu Apr 14 14:30:21 2016]  say: ^0L^1ord^4*^3Sd: davai
+[Thu Apr 14 14:30:35 2016]  say: ^0I^5ndef!n!ty: adminroomlob
+[Thu Apr 14 14:30:40 2016]  say: ^0L^1ord^4*^3Sd: ok
+[Thu Apr 14 14:31:17 2016]  say: ^0I^5ndef!n!ty: adminroomlab
+[Thu Apr 14 14:31:30 2016]  say: ^0I^5ndef!n!ty: vse?
+[Thu Apr 14 14:31:42 2016]  say: ^0L^1ord^4*^3Sd: da
+[Thu Apr 14 14:32:23 2016]  say: ^0I^5ndef!n!ty: hm
+[Thu Apr 14 14:32:29 2016]  say: ^0I^5ndef!n!ty: ya ee uveli4u ...
+[Thu Apr 14 14:34:24 2016]  say: ^0I^5ndef!n!ty: 4to mojno tut sdelat'?
+[Thu Apr 14 14:34:27 2016]  say: ^0I^5ndef!n!ty: o
+[Thu Apr 14 14:34:33 2016]  say: ^0I^5ndef!n!ty: go vmeste stroit'?
+[Thu Apr 14 14:34:43 2016]  say: ^0I^5ndef!n!ty: go?
+[Thu Apr 14 14:34:54 2016]  say: ^0I^5ndef!n!ty: san
+[Thu Apr 14 14:34:55 2016]  say: ^0I^5ndef!n!ty: go???
+[Thu Apr 14 14:35:07 2016]  say: ^0L^1ord^4*^3Sd: ok
+[Thu Apr 14 14:35:19 2016]  say: ^0I^5ndef!n!ty: ti -dekor
+[Thu Apr 14 14:35:27 2016]  say: ^0I^5ndef!n!ty: ya plosh4ad'
+[Thu Apr 14 14:35:31 2016]  say: ^0L^1ord^4*^3Sd: /=
+[Thu Apr 14 14:35:45 2016]  say: ^0I^5ndef!n!ty: :D
+[Thu Apr 14 14:35:57 2016]  say: ^0I^5ndef!n!ty: net
+[Thu Apr 14 14:35:59 2016]  say: ^0I^5ndef!n!ty: ne to lol
+[Thu Apr 14 14:36:02 2016]  say: ^0I^5ndef!n!ty: aaa
+[Thu Apr 14 14:36:05 2016]  say: ^0I^5ndef!n!ty: tak da
+[Thu Apr 14 14:36:07 2016]  say: ^0I^5ndef!n!ty: :D
+[Thu Apr 14 14:37:17 2016]  say: ^0L^1ord^4*^3Sd: zachem tak mnogo
+[Thu Apr 14 14:37:25 2016]  say: ^0I^5ndef!n!ty: nado
+[Thu Apr 14 14:38:31 2016]  say: ^0L^1ord^4*^3Sd: oi
+[Thu Apr 14 14:38:42 2016]  say: ^0I^5ndef!n!ty: lol?
+[Thu Apr 14 14:39:58 2016]  say: ^0I^5ndef!n!ty: ?
+[Thu Apr 14 14:40:08 2016]  say: ^0L^1ord^4*^3Sd: slishkom mnogo
+[Thu Apr 14 14:40:31 2016]  say: ^0I^5ndef!n!ty: ya lagayu
+[Thu Apr 14 14:40:38 2016]  say: ^0I^5ndef!n!ty: ne mnogo
+[Thu Apr 14 14:42:04 2016]  say: ^0L^1ord^4*^3Sd: ^1FLOATING PLATFORM SCRIPT ^4By ^5Aayla ^4Secura (my sister)
+[Thu Apr 14 14:42:12 2016]  say: ^0L^1ord^4*^3Sd: ^1FLOATING PLATFORM SCRIPT ^4By ^5Aayla ^4Secura (my sister)
+[Thu Apr 14 14:43:22 2016]  say: ^0L^1ord^4*^3Sd: ^1FLOATING PLATFORM SCRIPT ^4By ^1µ^2/Раrk^1Qµаkи^2/^1S
+[Thu Apr 14 14:43:32 2016]  say: ^0I^5ndef!n!ty: 4to ti delaesh?
+[Thu Apr 14 14:44:16 2016]  say: ^0I^5ndef!n!ty: =/
+[Thu Apr 14 14:44:39 2016]  say: ^0I^5ndef!n!ty: idi suda
+[Thu Apr 14 14:44:42 2016]  say: ^0I^5ndef!n!ty: a
+[Thu Apr 14 14:44:43 2016]  say: ^0I^5ndef!n!ty: net
+[Thu Apr 14 14:47:40 2016]  say: ^0L^1ord^4*^3Sd: vot zachem eto
+[Thu Apr 14 14:48:04 2016]  say: ^0I^5ndef!n!ty: lol
+[Thu Apr 14 14:48:06 2016]  say: ^0I^5ndef!n!ty: blin
+[Thu Apr 14 14:48:11 2016]  say: ^0I^5ndef!n!ty: ya ne sohranil :/
+[Thu Apr 14 14:48:21 2016]  say: ^0I^5ndef!n!ty: A
+[Thu Apr 14 14:48:23 2016]  say: ^0I^5ndef!n!ty: huh
+[Thu Apr 14 14:49:11 2016]  say: ^0I^5ndef!n!ty: i za4em?
+[Thu Apr 14 14:49:16 2016]  say: ^0L^1ord^4*^3Sd: chto
+[Thu Apr 14 14:49:21 2016]  say: ^0I^5ndef!n!ty: nado bilo
+[Thu Apr 14 14:49:28 2016]  say: ^0L^1ord^4*^3Sd: chto nado bilo
+[Thu Apr 14 14:49:32 2016]  say: ^0I^5ndef!n!ty: to
+[Thu Apr 14 14:49:39 2016]  say: ^0I^5ndef!n!ty: platforma
+[Thu Apr 14 14:49:41 2016]  say: ^0L^1ord^4*^3Sd: ya hz sam postavil je
+[Thu Apr 14 14:49:49 2016]  say: ^0I^5ndef!n!ty: tvoya
+[Thu Apr 14 14:49:55 2016]  say: ^0L^1ord^4*^3Sd: y menya vse ob'ekti ydaleni
+[Thu Apr 14 14:50:03 2016]  say: ^0L^1ord^4*^3Sd: to tvoe
+[Thu Apr 14 14:50:15 2016]  say: ^0I^5ndef!n!ty: pomogai pj
+[Thu Apr 14 14:50:21 2016]  say: ^0L^1ord^4*^3Sd: eto besmislenno
+[Thu Apr 14 14:50:28 2016]  say: ^0I^5ndef!n!ty: po4emu?
+[Thu Apr 14 14:50:33 2016]  say: ^0L^1ord^4*^3Sd: zachem tak mnogo
+[Thu Apr 14 14:50:38 2016]  say: ^0I^5ndef!n!ty: nado!
+[Thu Apr 14 14:50:42 2016]  say: ^0I^5ndef!n!ty: blya
+[Thu Apr 14 14:50:47 2016]  say: ^0I^5ndef!n!ty: :/
+[Thu Apr 14 14:55:16 2016]  say: ^0I^5ndef!n!ty: lol
+[Thu Apr 14 14:55:23 2016]  say: ^0I^5ndef!n!ty: ya afk 30 sec
+[Thu Apr 14 14:57:42 2016]  say: ^0I^5ndef!n!ty: smotri
+[Thu Apr 14 14:59:31 2016]  ClientConnect: 2
+[Thu Apr 14 14:59:31 2016]  mlog:Player kosher, connected. With IP - 91.230.25.125:29070 
+[Thu Apr 14 15:00:01 2016]  ClientBegin: 2
+[Thu Apr 14 15:00:01 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Thu Apr 14 15:00:04 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Thu Apr 14 15:00:05 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Thu Apr 14 15:00:06 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Thu Apr 14 15:00:11 2016]  Kill: 2 2 39: kosher killed kosher by MOD_SUICIDE
+[Thu Apr 14 15:00:11 2016]  setteam:  2 FREE SPECTATOR
+[Thu Apr 14 15:00:11 2016]  ClientBegin: 2
+[Thu Apr 14 15:00:20 2016]  say: ^0L^1ord^4*^3Sd: eto chtobi ti ne meshal
+[Thu Apr 14 15:00:25 2016]  say: ^0I^5ndef!n!ty: lol
+[Thu Apr 14 15:00:26 2016]  say: ^0L^1ord^4*^3Sd: kosher
+[Thu Apr 14 15:00:52 2016]  say: kosher: che
+[Thu Apr 14 15:01:06 2016]  say: kosher: idi uroki viuchi
+[Thu Apr 14 15:01:15 2016]  say: kosher: shkolnik
+[Thu Apr 14 15:01:24 2016]  setteam:  2 SPECTATOR FREE
+[Thu Apr 14 15:01:24 2016]  ClientBegin: 2
+[Thu Apr 14 15:01:24 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Thu Apr 14 15:01:26 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Thu Apr 14 15:01:27 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Thu Apr 14 15:01:33 2016]  Kill: 2 2 39: kosher killed kosher by MOD_SUICIDE
+[Thu Apr 14 15:01:33 2016]  setteam:  2 FREE SPECTATOR
+[Thu Apr 14 15:01:33 2016]  ClientBegin: 2
+[Thu Apr 14 15:01:36 2016]  say: ^0I^5ndef!n!ty: lol
+[Thu Apr 14 15:01:38 2016]  setteam:  2 SPECTATOR FREE
+[Thu Apr 14 15:01:38 2016]  ClientBegin: 2
+[Thu Apr 14 15:01:38 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Thu Apr 14 15:01:39 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Thu Apr 14 15:01:41 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Thu Apr 14 15:01:47 2016]  say: ^0I^5ndef!n!ty: lololol
+[Thu Apr 14 15:01:59 2016]  say: kosher: ))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+[Thu Apr 14 15:02:04 2016]  say: kosher: )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+[Thu Apr 14 15:02:08 2016]  say: kosher: ))))))))))))))))))))))))))))))))))))))))))))))))))))))
+[Thu Apr 14 15:02:12 2016]  say: kosher: )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+[Thu Apr 14 15:02:19 2016]  say: ^0L^1ord^4*^3Sd: predsmertnaya ylibka
+[Thu Apr 14 15:02:42 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Thu Apr 14 15:02:58 2016]  say: ^0I^5ndef!n!ty: ^0-=L^5o^0L=-
+[Thu Apr 14 15:03:15 2016]  say: kosher: shyas lol budet)))))))))))))))))))))))))))))))))))))))))))))))))))))))0
+[Thu Apr 14 15:03:22 2016]  say: ^0I^5ndef!n!ty: ^0-=L^5o^0L=-
+[Thu Apr 14 15:03:44 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Thu Apr 14 15:03:56 2016]  say: ^0L^1ord^4*^3Sd: prikolno
+[Thu Apr 14 15:04:02 2016]  ClientDisconnect: 2
+[Thu Apr 14 15:04:07 2016]  say: ^0I^5ndef!n!ty: ^0-=L^5o^0L=-
+[Thu Apr 14 15:04:10 2016]  say: ^0L^1ord^4*^3Sd: tak to
+[Thu Apr 14 15:05:00 2016]  ClientConnect: 2
+[Thu Apr 14 15:05:00 2016]  mlog:Player kosher, connected. With IP - 91.230.25.125:29070 
+[Thu Apr 14 15:05:03 2016]  say: ^0I^5ndef!n!ty: ^0-=L^5o^0L=-
+[Thu Apr 14 15:05:40 2016]  ClientBegin: 2
+[Thu Apr 14 15:05:40 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Thu Apr 14 15:05:44 2016]  Kill: 2 2 39: kosher killed kosher by MOD_SUICIDE
+[Thu Apr 14 15:05:44 2016]  setteam:  2 FREE SPECTATOR
+[Thu Apr 14 15:05:44 2016]  ClientBegin: 2
+[Thu Apr 14 15:05:48 2016]  say: ^0I^5ndef!n!ty: ^0-=L^5o^0L=-
+[Thu Apr 14 15:06:46 2016]  say: ^0I^5ndef!n!ty: dsd
+[Thu Apr 14 15:06:48 2016]  say: ^0I^5ndef!n!ty: idi suda
+[Thu Apr 14 15:06:54 2016]  say: ^0I^5ndef!n!ty: eto ti stavil?
+[Thu Apr 14 15:06:56 2016]  say: ^0L^1ord^4*^3Sd: net
+[Thu Apr 14 15:07:22 2016]  say: ^0I^5ndef!n!ty: udali pj
+[Thu Apr 14 15:07:25 2016]  say: ^0L^1ord^4*^3Sd: eto ne moe
+[Thu Apr 14 15:07:27 2016]  say: ^0L^1ord^4*^3Sd: ya ne mogy
+[Thu Apr 14 15:07:30 2016]  tell: ^0I^5ndef!n!ty to ^0L^1ord^4*^3Sd: ars lobster
+[Thu Apr 14 15:07:36 2016]  say: ^0L^1ord^4*^3Sd: vse ravno nelzya
+[Thu Apr 14 15:07:47 2016]  say: ^0L^1ord^4*^3Sd: ydalyat ob'ekti mojet tolko sozdatel ili admin
+[Thu Apr 14 15:08:03 2016]  say: ^0L^1ord^4*^3Sd: pzds ars lag
+[Thu Apr 14 15:08:07 2016]  say: ^0L^1ord^4*^3Sd: a
+[Thu Apr 14 15:08:11 2016]  say: ^0L^1ord^4*^3Sd: slava bogy
+[Thu Apr 14 15:08:12 2016]  say: ^0I^5ndef!n!ty: aga
+[Thu Apr 14 15:08:15 2016]  say: ^0I^5ndef!n!ty: lol
+[Thu Apr 14 15:08:19 2016]  say: ^0I^5ndef!n!ty: ^0-=L^5o^0L=-
+[Thu Apr 14 15:08:35 2016]  say: ^0I^5ndef!n!ty: nu pj
+[Thu Apr 14 15:08:38 2016]  say: ^0I^5ndef!n!ty: poprobiy
+[Thu Apr 14 15:08:42 2016]  say: ^0L^1ord^4*^3Sd: ya nikak ne mogy
+[Thu Apr 14 15:08:42 2016]  say: ^0I^5ndef!n!ty: buy
+[Thu Apr 14 15:08:45 2016]  say: ^0I^5ndef!n!ty: pj
+[Thu Apr 14 15:08:52 2016]  say: ^0L^1ord^4*^3Sd: pishet chto ne imeu prava
+[Thu Apr 14 15:09:01 2016]  say: ^0I^5ndef!n!ty: davai
+[Thu Apr 14 15:09:08 2016]  say: ^0I^5ndef!n!ty: delai
+[Thu Apr 14 15:09:15 2016]  say: ^0L^1ord^4*^3Sd: ars
+[Thu Apr 14 15:09:20 2016]  say: ^0I^5ndef!n!ty: ?
+[Thu Apr 14 15:09:22 2016]  say: ^0L^1ord^4*^3Sd: esli ya eto sdelau pridetsya potom ydalit vse
+[Thu Apr 14 15:09:26 2016]  say: ^0L^1ord^4*^3Sd: i kamen' toje
+[Thu Apr 14 15:09:27 2016]  say: ^0I^5ndef!n!ty: po4?
+[Thu Apr 14 15:09:29 2016]  say: ^0L^1ord^4*^3Sd: i kosher zaidet
+[Thu Apr 14 15:09:51 2016]  say: ^0L^1ord^4*^3Sd: mojet na wsw poidem 
+[Thu Apr 14 15:09:55 2016]  say: ^0I^5ndef!n!ty: potom
+[Thu Apr 14 15:09:58 2016]  say: ^0L^1ord^4*^3Sd: ok
+[Thu Apr 14 15:10:11 2016]  say: ^0L^1ord^4*^3Sd: davai korabl tvoi sovershenstvovat'
+[Thu Apr 14 15:10:22 2016]  say: ^0I^5ndef!n!ty: ya ego udalil =/
+[Thu Apr 14 15:10:26 2016]  say: ^0L^1ord^4*^3Sd: pzds
+[Thu Apr 14 15:10:29 2016]  say: ^0I^5ndef!n!ty: o tupoi
+[Thu Apr 14 15:10:39 2016]  say: ^0I^5ndef!n!ty: on*
+[Thu Apr 14 15:11:33 2016]  say: ^0I^5ndef!n!ty: hm
+[Thu Apr 14 15:11:35 2016]  say: ^0I^5ndef!n!ty: o!
+[Thu Apr 14 15:11:37 2016]  say: ^0L^1ord^4*^3Sd: o
+[Thu Apr 14 15:11:41 2016]  say: ^0I^5ndef!n!ty: a ti ne udalyai
+[Thu Apr 14 15:11:51 2016]  say: ^0I^5ndef!n!ty: o
+[Thu Apr 14 15:11:54 2016]  say: ^0I^5ndef!n!ty: blya
+[Thu Apr 14 15:11:57 2016]  say: ^0I^5ndef!n!ty: laaaaaaaaaaaaaaaaag
+[Thu Apr 14 15:12:01 2016]  say: ^0L^1ord^4*^3Sd: on vizval
+[Thu Apr 14 15:12:03 2016]  say: ^0L^1ord^4*^3Sd: ybegaem
+[Thu Apr 14 15:12:05 2016]  say: ^0L^1ord^4*^3Sd: v norm mesto
+[Thu Apr 14 15:12:11 2016]  say: ^0L^1ord^4*^3Sd: My origin is: (7460 -20031 340) - You can teleport here with /mtelelast
+
+[Thu Apr 14 15:12:14 2016]  say: ^0L^1ord^4*^3Sd:  /mtelelast
+[Thu Apr 14 15:12:15 2016]  say: ^0I^5ndef!n!ty: na wsw
+[Thu Apr 14 15:12:18 2016]  say: ^0I^5ndef!n!ty: jdu tam
+[Thu Apr 14 15:12:19 2016]  say: ^0L^1ord^4*^3Sd:  /mtelelast
+[Thu Apr 14 15:12:26 2016]  say: ^0L^1ord^4*^3Sd: ars pj
+[Thu Apr 14 15:12:58 2016]  ClientDisconnect: 1
+[Thu Apr 14 15:13:19 2016]  ClientDisconnect: 2
+[Thu Apr 14 15:15:40 2016]  ClientDisconnect: 0
+[Fri Apr 15 01:39:17 2016]  ClientConnect: 0
+[Fri Apr 15 01:39:17 2016]  mlog:Player Anselmurren, connected. With IP - 217.217.177.122:29070 
+[Fri Apr 15 01:39:27 2016]  ClientConnect: 1
+[Fri Apr 15 01:39:27 2016]  mlog:Player Chrono, connected. With IP - 87.221.21.42:29070 
+[Fri Apr 15 01:39:48 2016]  ClientConnect: 2
+[Fri Apr 15 01:39:48 2016]  mlog:Player JANGEL, connected. With IP - 92.56.141.60:29070 
+[Fri Apr 15 01:39:49 2016]  ClientBegin: 0
+[Fri Apr 15 01:39:50 2016]  ClientBegin: 1
+[Fri Apr 15 01:39:55 2016]  Kill: 0 1 3: Anselmurren killed Chrono by MOD_SABER
+[Fri Apr 15 01:40:23 2016]  ClientBegin: 2
+[Fri Apr 15 01:40:27 2016]  Kill: 0 1 3: Anselmurren killed Chrono by MOD_SABER
+[Fri Apr 15 01:40:58 2016]  Kill: 0 2 3: Anselmurren killed JANGEL by MOD_SABER
+[Fri Apr 15 01:42:22 2016]  Kill: 2 1 4: JANGEL killed Chrono by MOD_BRYAR_PISTOL
+[Fri Apr 15 01:42:50 2016]  Kill: 1 0 3: Chrono killed Anselmurren by MOD_SABER
+[Fri Apr 15 01:43:10 2016]  say: Anselmurren: /msavebots
+[Fri Apr 15 01:43:23 2016]  say: Anselmurren: /msdaveobs
+[Fri Apr 15 01:43:27 2016]  Kill: 2 1 3: JANGEL killed Chrono by MOD_SABER
+[Fri Apr 15 01:43:35 2016]  say: Anselmurren: /msaveobs
+[Fri Apr 15 01:43:47 2016]  Kill: 2 0 3: JANGEL killed Anselmurren by MOD_SABER
+[Fri Apr 15 01:43:47 2016]  Kill: 2 1 3: JANGEL killed Chrono by MOD_SABER
+[Fri Apr 15 01:43:54 2016]  Kill: 0 2 5: Anselmurren killed JANGEL by MOD_BRYAR_PISTOL_ALT
+[Fri Apr 15 01:44:15 2016]  Kill: 0 1 3: Anselmurren killed Chrono by MOD_SABER
+[Fri Apr 15 01:44:43 2016]  Kill: 0 2 3: Anselmurren killed JANGEL by MOD_SABER
+[Fri Apr 15 01:45:27 2016]  ClientDisconnect: 0
+[Fri Apr 15 01:45:28 2016]  Kill: 2 1 3: JANGEL killed Chrono by MOD_SABER
+[Fri Apr 15 01:45:33 2016]  ClientDisconnect: 1
+[Fri Apr 15 01:46:07 2016]  ClientDisconnect: 2
+[Fri Apr 15 13:01:51 2016]  ClientConnect: 0
+[Fri Apr 15 13:01:51 2016]  mlog:Player Padawan, connected. With IP - 93.77.196.55:29070 
+[Fri Apr 15 13:02:20 2016]  ClientBegin: 0
+[Fri Apr 15 13:11:43 2016]  Item: 0 weapon_bowcaster
+[Fri Apr 15 13:11:43 2016]  Item: 0 weapon_bowcaster
+[Fri Apr 15 13:20:52 2016]  ClientDisconnect: 0
+[Fri Apr 15 13:20:52 2016]  ClientConnect: 0
+[Fri Apr 15 13:20:52 2016]  mlog:Player Padawan, connected. With IP - 93.77.196.55:29070 
+[Fri Apr 15 13:21:04 2016]  ClientBegin: 0
+[Fri Apr 15 13:21:31 2016]  say: Padawan: цу
+[Fri Apr 15 13:27:38 2016]  ClientDisconnect: 0
+[Fri Apr 15 14:44:24 2016]  ClientConnect: 0
+[Fri Apr 15 14:44:24 2016]  mlog:Player Starkiller35, connected. With IP - 67.71.44.170:29070 
+[Fri Apr 15 14:44:58 2016]  ClientBegin: 0
+[Fri Apr 15 14:45:14 2016]  say: Padawan: npc spawn stormtrooper
+[Fri Apr 15 14:45:33 2016]  ClientDisconnect: 0
+[Fri Apr 15 18:15:38 2016]  ClientConnect: 0
+[Fri Apr 15 18:15:38 2016]  mlog:Player Padawan, connected. With IP - 93.77.196.55:29070 
+[Fri Apr 15 18:16:10 2016]  ClientBegin: 0
+[Fri Apr 15 18:18:38 2016]  ClientConnect: 1
+[Fri Apr 15 18:18:38 2016]  mlog:Player ^0L^1ord:*:^4Kivi, connected. With IP - 37.45.142.149:14012 
+[Fri Apr 15 18:18:48 2016]  say: Padawan: прив
+[Fri Apr 15 18:19:20 2016]  ClientBegin: 1
+[Fri Apr 15 18:19:42 2016]  print "^0L^1ord^4*^3Sd^7 @@@PLRENAME ^0L^1ord:*:^4Kivi
+"[Fri Apr 15 18:19:49 2016]  say: Padawan: hi
+[Fri Apr 15 18:19:52 2016]  say: ^0L^1ord:*:^4Kivi: hi
+[Fri Apr 15 18:20:24 2016]  say: Padawan: magik
+[Fri Apr 15 18:21:45 2016]  say: Padawan: what
+[Fri Apr 15 18:22:32 2016]  say: Padawan: what
+[Fri Apr 15 18:22:35 2016]  say: ^0L^1ord:*:^4Kivi: what
+[Fri Apr 15 18:29:37 2016]  ClientConnect: 2
+[Fri Apr 15 18:29:37 2016]  mlog:Player Padawan, connected. With IP - 70.48.136.60:29070 
+[Fri Apr 15 18:30:39 2016]  ClientBegin: 2
+[Fri Apr 15 18:31:43 2016]  say: ^0L^1ord:*:^4Kivi: who
+[Fri Apr 15 18:31:54 2016]  say: ^0L^1ord:*:^4Kivi: english
+[Fri Apr 15 18:31:56 2016]  say: ^0L^1ord:*:^4Kivi: ?
+[Fri Apr 15 18:31:57 2016]  say: ^5J^7alus ^5K^7in: yes
+[Fri Apr 15 18:31:59 2016]  say: ^0L^1ord:*:^4Kivi: who
+[Fri Apr 15 18:32:02 2016]  say: ^5J^7alus ^5K^7in: who what
+[Fri Apr 15 18:32:27 2016]  say: Padawan: hi
+[Fri Apr 15 18:32:29 2016]  say: ^5J^7alus ^5K^7in: SUp
+[Fri Apr 15 18:32:31 2016]  say: ^0L^1ord:*:^4Kivi: hi
+[Fri Apr 15 18:33:04 2016]  say: Padawan: wath
+[Fri Apr 15 18:33:28 2016]  Kill: 1 2 36: ^0L^1ord:*:^4Kivi killed ^5J^7alus ^5K^7in by MOD_CRUSH
+[Fri Apr 15 18:34:15 2016]  Kill: 1022 2 3: <world> killed ^5J^7alus ^5K^7in by MOD_SABER
+[Fri Apr 15 18:36:14 2016]  say: Padawan: master
+[Fri Apr 15 18:37:33 2016]  Kill: 1022 2 2: <world> killed ^5J^7alus ^5K^7in by MOD_MELEE
+[Fri Apr 15 18:39:03 2016]  ClientDisconnect: 2
+[Fri Apr 15 18:39:10 2016]  say: Padawan: halp
+[Fri Apr 15 18:39:15 2016]  say: Padawan: help
+[Fri Apr 15 18:39:36 2016]  say: Padawan: playermodel revan
+[Fri Apr 15 18:39:55 2016]  say: Padawan: plyaermodel revan
+[Fri Apr 15 18:40:54 2016]  Kill: 1022 0 6: <world> killed Padawan by MOD_BLASTER
+[Fri Apr 15 18:41:09 2016]  say: Padawan: master
+[Fri Apr 15 18:41:49 2016]  Kill: 1 0 36: ^0L^1ord:*:^4Kivi killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:41:50 2016]  say: Padawan: wath magig
+[Fri Apr 15 18:46:34 2016]  say: Padawan: master no
+[Fri Apr 15 18:46:36 2016]  Kill: 1 0 6: ^0L^1ord:*:^4Kivi killed Padawan by MOD_BLASTER
+[Fri Apr 15 18:47:03 2016]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Fri Apr 15 18:48:21 2016]  say: ^0L^1ord:*:^4Kivi:  /kill
+[Fri Apr 15 18:48:27 2016]  say: ^0L^1ord:*:^4Kivi: pls master
+[Fri Apr 15 18:48:36 2016]  say: Padawan: ok
+[Fri Apr 15 18:49:31 2016]  say: ^0L^1ord:*:^4Kivi: pls look /kill
+[Fri Apr 15 18:49:36 2016]  Kill: 1022 0 6: <world> killed Padawan by MOD_BLASTER
+[Fri Apr 15 18:49:37 2016]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:49:38 2016]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:49:39 2016]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:49:41 2016]  say: ^0L^1ord:*:^4Kivi: HA
+[Fri Apr 15 18:49:43 2016]  say: Padawan: what
+[Fri Apr 15 18:49:46 2016]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:49:57 2016]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:50:00 2016]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:50:01 2016]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:50:04 2016]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:50:12 2016]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:50:16 2016]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:50:27 2016]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:50:28 2016]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:50:30 2016]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Fri Apr 15 18:50:53 2016]  say: Padawan: rha
+[Fri Apr 15 18:51:09 2016]  say: ^0L^1ord:*:^4Kivi: what
+[Fri Apr 15 18:51:18 2016]  say: Padawan: ha ah
+[Fri Apr 15 18:52:00 2016]  say: Padawan: pls wgat you did
+[Fri Apr 15 18:53:06 2016]  say: ^0L^1ord:*:^4Kivi: press K
+[Fri Apr 15 18:53:27 2016]  say: ^0L^1ord:*:^4Kivi: sith vs jedi
+[Fri Apr 15 18:53:55 2016]  say: Padawan: you god
+[Fri Apr 15 18:54:03 2016]  say: ^0L^1ord:*:^4Kivi: in duel god off
+[Fri Apr 15 18:54:32 2016]  say: ^0L^1ord:*:^4Kivi: pls
+[Fri Apr 15 18:54:46 2016]  say: ^0L^1ord:*:^4Kivi: you know what press
+[Fri Apr 15 18:55:06 2016]  say: ^0L^1ord:*:^4Kivi: off god
+[Fri Apr 15 18:55:10 2016]  say: ^0L^1ord:*:^4Kivi: i'm off
+[Fri Apr 15 18:55:44 2016]  ClientDisconnect: 1
+[Fri Apr 15 18:57:10 2016]  ClientDisconnect: 0
+[Fri Apr 15 19:51:23 2016]  ClientConnect: 0
+[Fri Apr 15 19:51:23 2016]  mlog:Player Nedomir, connected. With IP - 188.68.105.174:29070 
+[Fri Apr 15 19:51:51 2016]  ClientBegin: 0
+[Fri Apr 15 19:52:55 2016]  Kill: 0 0 39: Nedomir killed Nedomir by MOD_SUICIDE
+[Fri Apr 15 19:56:27 2016]  ClientConnect: 1
+[Fri Apr 15 19:56:27 2016]  mlog:Player smegul2000, connected. With IP - 95.24.132.187:29070 
+[Fri Apr 15 19:56:40 2016]  say: Nedomir: твое испытание
+[Fri Apr 15 19:56:57 2016]  ClientBegin: 1
+[Fri Apr 15 19:57:17 2016]  say: smegul2000: ахах
+[Fri Apr 15 19:57:24 2016]  say: smegul2000: у меня скин на этой карте сохранился
+[Fri Apr 15 19:58:30 2016]  Kill: 0 1 3: Nedomir killed smegul2000 by MOD_SABER
+[Fri Apr 15 19:58:34 2016]  say: smegul2000: карта гавно
+[Fri Apr 15 19:58:39 2016]  say: smegul2000: где вчерашняя?
+[Fri Apr 15 19:58:48 2016]  Kill: 1 0 3: smegul2000 killed Nedomir by MOD_SABER
+[Fri Apr 15 19:58:53 2016]  say: Nedomir: щас
+[Fri Apr 15 19:58:55 2016]  say: smegul2000: Блять ну этой пиздец
+[Fri Apr 15 19:58:59 2016]  say: Nedomir: вчерашней нет
+[Fri Apr 15 19:59:00 2016]  say: smegul2000: как так сражаться
+[Fri Apr 15 19:59:05 2016]  say: smegul2000: гавно 
+[Fri Apr 15 19:59:14 2016]  say: Nedomir: ща поищу
+[Fri Apr 15 19:59:14 2016]  say: smegul2000: постоянно сталкиваться
+[Fri Apr 15 19:59:30 2016]  say: smegul2000: сука
+[Fri Apr 15 19:59:32 2016]  say: smegul2000: ищи
+[Fri Apr 15 19:59:43 2016]  ClientDisconnect: 0
+[Fri Apr 15 20:00:06 2016]  ClientConnect: 0
+[Fri Apr 15 20:00:06 2016]  mlog:Player Nedomir, connected. With IP - 188.68.105.174:29070 
+[Fri Apr 15 20:00:17 2016]  ClientBegin: 0
+[Fri Apr 15 20:00:22 2016]  ClientDisconnect: 0
+[Fri Apr 15 20:01:45 2016]  ClientDisconnect: 1
+[Fri Apr 15 21:27:36 2016]  ClientConnect: 0
+[Fri Apr 15 21:27:36 2016]  mlog:Player Padawan, connected. With IP - 93.77.196.55:29070 
+[Fri Apr 15 21:28:08 2016]  ClientBegin: 0
+[Fri Apr 15 21:29:00 2016]  say: Padawan: help
+[Fri Apr 15 21:34:42 2016]  say: Padawan: addefects
+[Fri Apr 15 21:35:47 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Fri Apr 15 21:36:16 2016]  Kill: 1022 0 6: <world> killed Padawan by MOD_BLASTER
+[Fri Apr 15 21:37:18 2016]  ClientDisconnect: 0
+[Sat Apr 16 06:09:23 2016]  ClientConnect: 0
+[Sat Apr 16 06:09:23 2016]  mlog:Player Padawan, connected. With IP - 220.244.250.115:29070 
+[Sat Apr 16 06:09:49 2016]  ClientBegin: 0
+[Sat Apr 16 06:11:02 2016]  print "Padawan^7 @@@PLRENAME JackaL
+"[Sat Apr 16 06:20:31 2016]  Kill: 1022 0 6: <world> killed JackaL by MOD_BLASTER
+[Sat Apr 16 06:20:45 2016]  ClientDisconnect: 0
+[Sat Apr 16 10:12:55 2016]  ClientConnect: 0
+[Sat Apr 16 10:12:55 2016]  mlog:Player Padawan, connected. With IP - 93.77.196.55:29070 
+[Sat Apr 16 10:13:23 2016]  ClientBegin: 0
+[Sat Apr 16 10:14:10 2016]  say: Padawan: My origin is: (-6151 -21779 1629) - You can teleport here with /mtelelast
+
+[Sat Apr 16 10:15:32 2016]  ClientConnect: 1
+[Sat Apr 16 10:15:32 2016]  mlog:Player med, connected. With IP - 178.121.0.143:7876 
+[Sat Apr 16 10:15:39 2016]  say: Padawan: HI
+[Sat Apr 16 10:16:28 2016]  ClientBegin: 1
+[Sat Apr 16 10:16:33 2016]  Kill: 1 1 39: ^0L^1ord:*:^4Kivi killed ^0L^1ord:*:^4Kivi by MOD_SUICIDE
+[Sat Apr 16 10:16:33 2016]  setteam:  1 FREE SPECTATOR
+[Sat Apr 16 10:16:33 2016]  ClientBegin: 1
+[Sat Apr 16 10:16:33 2016]  say: Padawan: HI
+[Sat Apr 16 10:16:38 2016]  say: ^0L^1ord:*:^4Kivi: hi
+[Sat Apr 16 10:16:40 2016]  setteam:  1 SPECTATOR FREE
+[Sat Apr 16 10:16:40 2016]  ClientBegin: 1
+[Sat Apr 16 10:16:54 2016]  print "Padawan^7 @@@PLRENAME roma
+"[Sat Apr 16 10:16:59 2016]  say: ^0L^1ord:*:^4Kivi: roma rus?
+[Sat Apr 16 10:17:10 2016]  say: roma: yes
+[Sat Apr 16 10:17:16 2016]  say: ^0L^1ord:*:^4Kivi: ponimaesh menya??
+[Sat Apr 16 10:17:30 2016]  say: roma: немного
+[Sat Apr 16 10:17:33 2016]  say: ^0L^1ord:*:^4Kivi: а так?
+[Sat Apr 16 10:17:48 2016]  say: roma: а как ты так делаеш
+[Sat Apr 16 10:17:53 2016]  say: ^0L^1ord:*:^4Kivi: как
+[Sat Apr 16 10:17:57 2016]  say: roma: ну эфекты
+[Sat Apr 16 10:18:12 2016]  say: ^0L^1ord:*:^4Kivi:  /mpalcefx env/small_Fire_Red 1
+[Sat Apr 16 10:19:08 2016]  say: roma: несроботало
+[Sat Apr 16 10:19:18 2016]  ClientConnect: 2
+[Sat Apr 16 10:19:18 2016]  mlog:Player ^0I^5ndef!n!ty, connected. With IP - 62.182.80.11:29070 
+[Sat Apr 16 10:19:23 2016]  say: ^0L^1ord:*:^4Kivi: вот
+[Sat Apr 16 10:19:26 2016]  say: ^0L^1ord:*:^4Kivi: у меня получилось
+[Sat Apr 16 10:19:37 2016]  ClientBegin: 2
+[Sat Apr 16 10:19:44 2016]  say: ^0I^5ndef!n!ty: ou
+[Sat Apr 16 10:19:45 2016]  say: ^0I^5ndef!n!ty: san
+[Sat Apr 16 10:19:47 2016]  say: ^0I^5ndef!n!ty: ku :)
+[Sat Apr 16 10:19:52 2016]  say: ^0L^1ord:*:^4Kivi: ku
+[Sat Apr 16 10:20:05 2016]  say: ^0I^5ndef!n!ty: kto takoi roma?
+[Sat Apr 16 10:20:09 2016]  say: ^0L^1ord:*:^4Kivi: igrok
+[Sat Apr 16 10:20:15 2016]  say: ^0I^5ndef!n!ty: horoshiy?
+[Sat Apr 16 10:20:18 2016]  Kill: 2 0 3: ^0I^5ndef!n!ty killed roma by MOD_SABER
+[Sat Apr 16 10:20:21 2016]  say: ^0L^1ord:*:^4Kivi: da
+[Sat Apr 16 10:20:47 2016]  say: roma: е 
+[Sat Apr 16 10:20:53 2016]  say: ^0I^5ndef!n!ty: ku roma
+[Sat Apr 16 10:20:58 2016]  say: roma: ku
+[Sat Apr 16 10:21:23 2016]  say: roma: ну я вписал команду и нечего
+[Sat Apr 16 10:21:29 2016]  say: ^0I^5ndef!n!ty: ne viju rus
+[Sat Apr 16 10:21:29 2016]  say: ^0L^1ord:*:^4Kivi: попробуй вот это
+[Sat Apr 16 10:21:36 2016]  say: ^0L^1ord:*:^4Kivi:  /mplacefx mp/spawn 1
+[Sat Apr 16 10:22:15 2016]  say: roma: w
+[Sat Apr 16 10:22:23 2016]  say: roma: нет
+[Sat Apr 16 10:22:32 2016]  say: ^0L^1ord:*:^4Kivi: как ты написал
+[Sat Apr 16 10:22:43 2016]  say: ^0I^5ndef!n!ty: karo4
+[Sat Apr 16 10:22:49 2016]  say: roma: консоль включи 
+[Sat Apr 16 10:22:56 2016]  say: ^0I^5ndef!n!ty: vse ravno ni4ego ne ponimayu
+[Sat Apr 16 10:22:57 2016]  say: ^0L^1ord:*:^4Kivi: напиши в чат
+[Sat Apr 16 10:22:58 2016]  ClientDisconnect: 2
+[Sat Apr 16 10:23:30 2016]  say: ^0L^1ord:*:^4Kivi: мщт!
+[Sat Apr 16 10:23:32 2016]  say: ^0L^1ord:*:^4Kivi: смотри!
+[Sat Apr 16 10:23:36 2016]  say: ^0L^1ord:*:^4Kivi: вон получилось
+[Sat Apr 16 10:24:18 2016]  say: ^0L^1ord:*:^4Kivi: вот эффект
+[Sat Apr 16 10:24:42 2016]  say: roma: /mplacefx mp/spawn 1\
+[Sat Apr 16 10:24:46 2016]  say: ^0L^1ord:*:^4Kivi: вот
+[Sat Apr 16 10:24:50 2016]  say: ^0L^1ord:*:^4Kivi: получилось
+[Sat Apr 16 10:24:54 2016]  say: ^0L^1ord:*:^4Kivi: просто у тебя тут точка
+[Sat Apr 16 10:24:59 2016]  say: ^0L^1ord:*:^4Kivi: спавна объектов
+[Sat Apr 16 10:25:02 2016]  say: roma: f
+[Sat Apr 16 10:25:06 2016]  say: roma: а
+[Sat Apr 16 10:25:08 2016]  say: ^0L^1ord:*:^4Kivi:  /mgrabbing
+[Sat Apr 16 10:25:15 2016]  say: roma: я стобой вчера играл
+[Sat Apr 16 10:25:20 2016]  say: ^0L^1ord:*:^4Kivi: ага
+[Sat Apr 16 10:25:21 2016]  say: ^0L^1ord:*:^4Kivi: кстати
+[Sat Apr 16 10:25:27 2016]  say: ^0L^1ord:*:^4Kivi: давай потом пойдем на wsw сервер
+[Sat Apr 16 10:25:30 2016]  say: roma: я был в годе
+[Sat Apr 16 10:25:46 2016]  say: roma: ну всмысле god
+[Sat Apr 16 10:25:49 2016]  say: ^0L^1ord:*:^4Kivi: я понял
+[Sat Apr 16 10:26:19 2016]  say: ^0L^1ord:*:^4Kivi: чтобы эффекты наносили урон пиши /mpain 199999 199
+[Sat Apr 16 10:26:52 2016]  say: roma: а как сделать взрыф w
+[Sat Apr 16 10:27:00 2016]  say: ^0L^1ord:*:^4Kivi: удали сначало это все
+[Sat Apr 16 10:27:03 2016]  say: ^0L^1ord:*:^4Kivi:  /mkillall
+[Sat Apr 16 10:27:17 2016]  say: ^0L^1ord:*:^4Kivi: какой именно тебе взрыв
+[Sat Apr 16 10:27:23 2016]  say: ^0L^1ord:*:^4Kivi: их много просто
+[Sat Apr 16 10:28:01 2016]  say: roma: от пушки которая стриляет маленьними шарами супер атаки 
+[Sat Apr 16 10:28:13 2016]  say: ^0L^1ord:*:^4Kivi: я тебя не понял
+[Sat Apr 16 10:28:18 2016]  say: ^0L^1ord:*:^4Kivi: ааа
+[Sat Apr 16 10:28:21 2016]  say: ^0L^1ord:*:^4Kivi: вот этот?
+[Sat Apr 16 10:28:28 2016]  say: roma: да
+[Sat Apr 16 10:28:51 2016]  say: ^0L^1ord:*:^4Kivi:  /mplacefx scepter/slam 1
+[Sat Apr 16 10:30:39 2016]  Item: 0 ammo_all
+[Sat Apr 16 10:30:52 2016]  say: ^0L^1ord:*:^4Kivi: нажми
+[Sat Apr 16 10:30:54 2016]  Kill: 1022 0 0: <world> killed roma by MOD_UNKNOWN
+[Sat Apr 16 10:30:59 2016]  say: roma: ха
+[Sat Apr 16 10:31:00 2016]  say: ^0L^1ord:*:^4Kivi: убийственная панель
+[Sat Apr 16 10:31:06 2016]  say: roma: ага
+[Sat Apr 16 10:32:05 2016]  say: roma: а как сделать эфектсдамагом  который делается по твоему вилениию
+[Sat Apr 16 10:32:14 2016]  say: ^0L^1ord:*:^4Kivi: всмысле
+[Sat Apr 16 10:32:16 2016]  say: ^0L^1ord:*:^4Kivi: вот так?
+[Sat Apr 16 10:32:20 2016]  say: roma: да
+[Sat Apr 16 10:32:31 2016]  say: roma: вотакой
+[Sat Apr 16 10:32:34 2016]  say: ^0L^1ord:*:^4Kivi: это скрипт
+[Sat Apr 16 10:33:05 2016]  say: roma: ну как так сделать
+[Sat Apr 16 10:34:05 2016]  say: roma: ну кактак сднлать
+[Sat Apr 16 10:34:21 2016]  say: ^0L^1ord:*:^4Kivi: это надо скрипты делать
+[Sat Apr 16 10:34:27 2016]  say: roma: а ткак
+[Sat Apr 16 10:34:31 2016]  say: roma: а как
+[Sat Apr 16 10:34:43 2016]  say: ^0L^1ord:*:^4Kivi: ^1HOUSE SCRIPT ^4By ^1µ^2/Раrk^1Qµаkи^2/^1S - ^5PART 1
+[Sat Apr 16 10:34:52 2016]  say: ^0L^1ord:*:^4Kivi: ^1HOUSE SCRIPT ^4By ^1µ^2/Раrk^1Qµаkи^2/^1S - ^5PART 2
+[Sat Apr 16 10:35:38 2016]  say: roma: прикол
+[Sat Apr 16 10:35:52 2016]  say: ^0L^1ord:*:^4Kivi: домик
+[Sat Apr 16 10:36:03 2016]  say: ^0L^1ord:*:^4Kivi: он может летать
+[Sat Apr 16 10:36:11 2016]  say: roma: ого
+[Sat Apr 16 10:36:24 2016]  say: roma: а скоко тебе лет
+[Sat Apr 16 10:36:28 2016]  say: ^0L^1ord:*:^4Kivi: 11
+[Sat Apr 16 10:36:34 2016]  say: roma: а мне 10
+[Sat Apr 16 10:36:44 2016]  say: ^0L^1ord:*:^4Kivi: домик прикольно летает
+[Sat Apr 16 10:36:51 2016]  say: ^0L^1ord:*:^4Kivi: куда полетим
+[Sat Apr 16 10:37:00 2016]  say: roma: на конез карты
+[Sat Apr 16 10:37:13 2016]  say: ^0L^1ord:*:^4Kivi: где ты
+[Sat Apr 16 10:37:18 2016]  say: roma: тут
+[Sat Apr 16 10:37:29 2016]  say: roma: а как тебя зовут
+[Sat Apr 16 10:37:33 2016]  say: ^0L^1ord:*:^4Kivi: аааааа
+[Sat Apr 16 10:37:36 2016]  say: ^0L^1ord:*:^4Kivi: введи ноклип
+[Sat Apr 16 10:37:57 2016]  say: ^0L^1ord:*:^4Kivi: надо починить дом
+[Sat Apr 16 10:38:14 2016]  say: ^0L^1ord:*:^4Kivi: кстати
+[Sat Apr 16 10:38:26 2016]  say: ^0L^1ord:*:^4Kivi: сейчас поднимемся на верх
+[Sat Apr 16 10:38:37 2016]  say: ^0L^1ord:*:^4Kivi: сюда стань
+[Sat Apr 16 10:38:38 2016]  say: roma: а как тебя зовут
+[Sat Apr 16 10:38:52 2016]  say: ^0L^1ord:*:^4Kivi: никита
+[Sat Apr 16 10:38:57 2016]  say: roma: а меня рома
+[Sat Apr 16 10:39:10 2016]  say: ^0L^1ord:*:^4Kivi: пушка
+[Sat Apr 16 10:39:14 2016]  say: ^0L^1ord:*:^4Kivi: пушка атакует
+[Sat Apr 16 10:39:40 2016]  say: roma: ну научиш делать токие эфекты
+[Sat Apr 16 10:39:45 2016]  say: ^0L^1ord:*:^4Kivi: какие скажи
+[Sat Apr 16 10:39:59 2016]  say: roma: ну с пушкой
+[Sat Apr 16 10:40:08 2016]  say: ^0L^1ord:*:^4Kivi: покажи
+[Sat Apr 16 10:40:15 2016]  say: ^0L^1ord:*:^4Kivi:  /mplacefx scepter/slam 1
+[Sat Apr 16 10:40:25 2016]  say: roma: ну по велению
+[Sat Apr 16 10:40:27 2016]  Item: 0 ammo_all
+[Sat Apr 16 10:40:33 2016]  say: roma: еен
+[Sat Apr 16 10:40:39 2016]  say: ^0L^1ord:*:^4Kivi: это надо записывать в блокнот 
+[Sat Apr 16 10:40:45 2016]  say: ^0L^1ord:*:^4Kivi: рома
+[Sat Apr 16 10:40:51 2016]  say: roma: ладно
+[Sat Apr 16 10:40:53 2016]  say: roma: а
+[Sat Apr 16 10:40:55 2016]  say: ^0L^1ord:*:^4Kivi: пойдем на на рпг серв?
+[Sat Apr 16 10:41:03 2016]  say: roma: а кокой
+[Sat Apr 16 10:41:12 2016]  say: ^0L^1ord:*:^4Kivi: там короче надо будет класс выбрать
+[Sat Apr 16 10:41:16 2016]  say: ^0L^1ord:*:^4Kivi: боссов убивать
+[Sat Apr 16 10:41:18 2016]  say: ^0L^1ord:*:^4Kivi: и там магия
+[Sat Apr 16 10:41:20 2016]  say: ^0L^1ord:*:^4Kivi: по велению
+[Sat Apr 16 10:41:22 2016]  say: ^0L^1ord:*:^4Kivi: автоматом
+[Sat Apr 16 10:41:37 2016]  say: roma: ну а кокой серер
+[Sat Apr 16 10:41:42 2016]  say: ^0L^1ord:*:^4Kivi: подожди меня тут
+[Sat Apr 16 10:41:43 2016]  say: ^0L^1ord:*:^4Kivi: ок
+[Sat Apr 16 10:41:47 2016]  say: roma: ок
+[Sat Apr 16 10:41:48 2016]  ClientDisconnect: 1
+[Sat Apr 16 10:42:47 2016]  ClientConnect: 1
+[Sat Apr 16 10:42:47 2016]  mlog:Player ^0L^1ord:*:^4Kivi, connected. With IP - 178.121.0.143:7876 
+[Sat Apr 16 10:43:15 2016]  ClientBegin: 1
+[Sat Apr 16 10:43:20 2016]  say: ^0L^1ord:*:^4Kivi: рома
+[Sat Apr 16 10:43:23 2016]  say: roma: а
+[Sat Apr 16 10:43:25 2016]  say: ^0L^1ord:*:^4Kivi: только там не будет читов
+[Sat Apr 16 10:43:28 2016]  say: ^0L^1ord:*:^4Kivi: там все самому
+[Sat Apr 16 10:43:30 2016]  say: roma: ок
+[Sat Apr 16 10:43:44 2016]  ClientDisconnect: 1
+[Sat Apr 16 10:43:59 2016]  ClientConnect: 1
+[Sat Apr 16 10:43:59 2016]  mlog:Player ^0L^1ord:*:^4Kivi, connected. With IP - 178.121.0.143:7876 
+[Sat Apr 16 10:44:10 2016]  say: roma: а какой айди сервера
+[Sat Apr 16 10:44:15 2016]  say: roma: или айпи
+[Sat Apr 16 10:44:30 2016]  ClientBegin: 1
+[Sat Apr 16 10:44:34 2016]  say: ^0L^1ord:*:^4Kivi: щас напишу
+[Sat Apr 16 10:44:37 2016]  say: ^0L^1ord:*:^4Kivi: что писать в консоле
+[Sat Apr 16 10:44:51 2016]  say: roma: ну на название
+[Sat Apr 16 10:44:56 2016]  say: roma: снрвера
+[Sat Apr 16 10:44:59 2016]  say: ^0L^1ord:*:^4Kivi:  /connect 187.37.254.182:29072
+[Sat Apr 16 10:45:01 2016]  say: roma: и
+[Sat Apr 16 10:45:02 2016]  say: ^0L^1ord:*:^4Kivi: вот напиши
+[Sat Apr 16 10:45:05 2016]  say: ^0L^1ord:*:^4Kivi: и попадешь на сервер
+[Sat Apr 16 10:45:10 2016]  say: roma: ок
+[Sat Apr 16 10:45:14 2016]  say: roma: жди ок
+[Sat Apr 16 10:45:32 2016]  say: roma: а отступать надо
+[Sat Apr 16 10:45:34 2016]  Item: 0 ammo_all
+[Sat Apr 16 10:45:37 2016]  say: ^0L^1ord:*:^4Kivi: нет
+[Sat Apr 16 10:45:40 2016]  Item: 1 ammo_all
+[Sat Apr 16 10:46:58 2016]  ClientDisconnect: 0
+[Sat Apr 16 10:47:03 2016]  ClientDisconnect: 1
+[Sat Apr 16 10:47:40 2016]  ClientConnect: 0
+[Sat Apr 16 10:47:40 2016]  mlog:Player ^0L^1ord:*:^4Kivi, connected. With IP - 178.121.0.143:7876 
+[Sat Apr 16 10:48:07 2016]  ClientConnect: 1
+[Sat Apr 16 10:48:07 2016]  mlog:Player Padawan, connected. With IP - 93.77.196.55:29070 
+[Sat Apr 16 10:48:08 2016]  ClientBegin: 0
+[Sat Apr 16 10:48:37 2016]  ClientBegin: 1
+[Sat Apr 16 10:48:41 2016]  say: ^0L^1ord:*:^4Kivi: рома
+[Sat Apr 16 10:48:44 2016]  say: roma: а
+[Sat Apr 16 10:48:44 2016]  say: ^0L^1ord:*:^4Kivi: я нечайно не то айпи кинул
+[Sat Apr 16 10:48:58 2016]  say: roma: а я понял серый был экран
+[Sat Apr 16 10:49:14 2016]  say: ^0L^1ord:*:^4Kivi: /connect 187.37.254.182:29070
+[Sat Apr 16 10:49:16 2016]  say: ^0L^1ord:*:^4Kivi: вот так
+[Sat Apr 16 10:50:05 2016]  ClientDisconnect: 1
+[Sat Apr 16 10:50:09 2016]  ClientDisconnect: 0
+[Sat Apr 16 17:25:17 2016]  ClientConnect: 0
+[Sat Apr 16 17:25:17 2016]  mlog:Player Padawan, connected. With IP - 93.77.196.55:29070 
+[Sat Apr 16 17:25:55 2016]  ClientBegin: 0
+[Sat Apr 16 17:26:30 2016]  ClientDisconnect: 0
+[Sat Apr 16 20:54:10 2016]  ClientConnect: 0
+[Sat Apr 16 20:54:10 2016]  mlog:Player Konstantin, connected. With IP - 188.68.105.174:29070 
+[Sat Apr 16 20:54:44 2016]  ClientBegin: 0
+[Sat Apr 16 20:54:58 2016]  print "Nedomir^7 @@@PLRENAME Konstantin
+"[Sat Apr 16 20:55:17 2016]  ClientDisconnect: 0
+[Sun Apr 17 08:24:09 2016]  ClientConnect: 0
+[Sun Apr 17 08:24:09 2016]  mlog:Player Padawan, connected. With IP - 93.77.196.55:29070 
+[Sun Apr 17 08:24:43 2016]  ClientBegin: 0
+[Sun Apr 17 08:26:16 2016]  ClientDisconnect: 0
+[Sun Apr 17 12:29:47 2016]  ClientConnect: 0
+[Sun Apr 17 12:29:47 2016]  mlog:Player Padawan, connected. With IP - 31.132.177.203:1536 
+[Sun Apr 17 12:30:23 2016]  ClientDisconnect: 0
+[Sun Apr 17 19:24:06 2016]  ClientConnect: 0
+[Sun Apr 17 19:24:06 2016]  mlog:Player Padawan, connected. With IP - 93.77.196.55:29070 
+[Sun Apr 17 19:24:40 2016]  ClientBegin: 0
+[Sun Apr 17 19:25:27 2016]  Kill: 0 0 39: roma killed roma by MOD_SUICIDE
+[Sun Apr 17 19:25:53 2016]  ClientDisconnect: 0

@@ -1,0 +1,1068 @@
+[Wed Aug 17 21:42:35 2016]  ------------------------------------------------------------
+[Wed Aug 17 21:42:35 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Aug 17 23:09:29 2016]  ------------------------------------------------------------
+[Wed Aug 17 23:09:29 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Aug 18 12:07:59 2016]  ClientConnect: 0
+[Thu Aug 18 12:07:59 2016]  mlog:Player Worden, connected. With IP - 178.206.89.138:29070 
+[Thu Aug 18 12:08:22 2016]  ClientBegin: 0
+[Thu Aug 18 12:08:26 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:08:58 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:09:42 2016]  ClientConnect: 1
+[Thu Aug 18 12:09:42 2016]  mlog:Player ^7H^0asa^3gi, connected. With IP - 46.227.25.250:29070 
+[Thu Aug 18 12:10:10 2016]  ClientBegin: 1
+[Thu Aug 18 12:10:28 2016]  say: ^0^^7ASAV^0^Sendrogro: nbpltw
+[Thu Aug 18 12:10:30 2016]  say: ^0^^7ASAV^0^Sendrogro: пиздец
+[Thu Aug 18 12:10:33 2016]  say: ^1Eminem: what?
+[Thu Aug 18 12:10:34 2016]  say: ^0^^7ASAV^0^Sendrogro: меня ебашит
+[Thu Aug 18 12:10:35 2016]  say: ^0^^7ASAV^0^Sendrogro: АХХАХАХАХ
+[Thu Aug 18 12:10:37 2016]  say: ^1Eminem: AS:LDKAW:LKD
+[Thu Aug 18 12:10:37 2016]  say: ^0^^7ASAV^0^Sendrogro: я пьян
+[Thu Aug 18 12:10:39 2016]  say: ^0^^7ASAV^0^Sendrogro: бля
+[Thu Aug 18 12:10:40 2016]  say: ^0^^7ASAV^0^Sendrogro: xdd
+[Thu Aug 18 12:10:42 2016]  say: ^1Eminem: BLYA KRUTO
+[Thu Aug 18 12:10:46 2016]  say: ^1Eminem: smotri
+[Thu Aug 18 12:10:50 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:10:54 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:10:57 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:11:01 2016]  say: ^0^^7ASAV^0^Sendrogro: 0_o
+[Thu Aug 18 12:11:02 2016]  say: ^0^^7ASAV^0^Sendrogro: n1
+[Thu Aug 18 12:11:06 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:11:17 2016]  say: ^1Eminem: na igrokov ne rabotaet(9
+[Thu Aug 18 12:11:19 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:11:21 2016]  say: ^0^^7ASAV^0^Sendrogro: xd
+[Thu Aug 18 12:11:22 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:11:23 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:11:27 2016]  say: ^0^^7ASAV^0^Sendrogro: пацифист
+[Thu Aug 18 12:11:30 2016]  say: ^0^^7ASAV^0^Sendrogro: мне надо крч
+[Thu Aug 18 12:11:30 2016]  say: ^1Eminem: za to krasivo :>
+[Thu Aug 18 12:11:33 2016]  say: ^0^^7ASAV^0^Sendrogro: в мою святыню
+[Thu Aug 18 12:11:35 2016]  say: ^0^^7ASAV^0^Sendrogro: как там
+[Thu Aug 18 12:11:43 2016]  say: ^0^^7ASAV^0^Sendrogro: /loadorbs?
+[Thu Aug 18 12:11:56 2016]  say: ^1Eminem: m забыл добавить
+[Thu Aug 18 12:12:09 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:12:11 2016]  say: ^0^^7ASAV^0^Sendrogro: erlgs;dfgDfg
+[Thu Aug 18 12:12:13 2016]  say: ^0^^7ASAV^0^Sendrogro: net
+[Thu Aug 18 12:12:15 2016]  say: ^0^^7ASAV^0^Sendrogro: ne to
+[Thu Aug 18 12:12:17 2016]  say: ^1Eminem: /mloadobs
+[Thu Aug 18 12:12:44 2016]  say: ^0^^7ASAV^0^Sendrogro: :>>>>
+[Thu Aug 18 12:12:55 2016]  say: ^0^^7ASAV^0^Sendrogro: хуя я по трезвяняку отсроил
+[Thu Aug 18 12:12:59 2016]  say: ^0^^7ASAV^0^Sendrogro: аще шикарно
+[Thu Aug 18 12:13:08 2016]  say: ^1Eminem: xD carter s toboy vse norm? :D
+[Thu Aug 18 12:13:12 2016]  say: ^0^^7ASAV^0^Sendrogro: xddd
+[Thu Aug 18 12:13:15 2016]  say: ^0^^7ASAV^0^Sendrogro: немног нет
+[Thu Aug 18 12:13:19 2016]  say: ^0^^7ASAV^0^Sendrogro: я не тот кого ты знал
+[Thu Aug 18 12:13:20 2016]  say: ^1Eminem: nadeius' ne odin buhal
+[Thu Aug 18 12:13:20 2016]  say: ^0^^7ASAV^0^Sendrogro: если че
+[Thu Aug 18 12:13:23 2016]  say: ^0^^7ASAV^0^Sendrogro: я от души
+[Thu Aug 18 12:13:25 2016]  say: ^0^^7ASAV^0^Sendrogro: пишу
+[Thu Aug 18 12:13:27 2016]  say: ^0^^7ASAV^0^Sendrogro: :#
+[Thu Aug 18 12:13:31 2016]  say: ^1Eminem: obojaiu takogo carter'a
+[Thu Aug 18 12:13:36 2016]  say: ^0^^7ASAV^0^Sendrogro: odin
+[Thu Aug 18 12:13:39 2016]  say: ^0^^7ASAV^0^Sendrogro: все же за рулем
+[Thu Aug 18 12:13:40 2016]  say: ^1Eminem: (9
+[Thu Aug 18 12:13:41 2016]  say: ^0^^7ASAV^0^Sendrogro: суки
+[Thu Aug 18 12:13:43 2016]  say: ^1Eminem: :DDD
+[Thu Aug 18 12:13:45 2016]  say: ^1Eminem: :D:D:ADS:KDW:D
+[Thu Aug 18 12:13:47 2016]  say: ^0^^7ASAV^0^Sendrogro: да мне похуй на простой люд
+[Thu Aug 18 12:13:51 2016]  say: ^0^^7ASAV^0^Sendrogro: в рот их ебал
+[Thu Aug 18 12:13:53 2016]  say: ^1Eminem: >:D
+[Thu Aug 18 12:13:55 2016]  say: ^0^^7ASAV^0^Sendrogro: быдлари
+[Thu Aug 18 12:13:58 2016]  say: ^1Eminem: +
+[Thu Aug 18 12:13:58 2016]  say: ^0^^7ASAV^0^Sendrogro: :*
+[Thu Aug 18 12:14:16 2016]  say: ^0^^7ASAV^0^Sendrogro: чувствуб себя паком
+[Thu Aug 18 12:14:18 2016]  say: ^0^^7ASAV^0^Sendrogro: аХАХХАХАха
+[Thu Aug 18 12:14:22 2016]  say: ^1Eminem: nea
+[Thu Aug 18 12:14:35 2016]  say: ^0^^7ASAV^0^Sendrogro: че за 
+[Thu Aug 18 12:14:36 2016]  say: ^0^^7ASAV^0^Sendrogro: нахуй
+[Thu Aug 18 12:14:37 2016]  say: ^1Eminem: mb skype :D?
+[Thu Aug 18 12:14:39 2016]  say: ^0^^7ASAV^0^Sendrogro: шумит
+[Thu Aug 18 12:14:41 2016]  say: ^0^^7ASAV^0^Sendrogro: не
+[Thu Aug 18 12:14:43 2016]  say: ^0^^7ASAV^0^Sendrogro: я ебал
+[Thu Aug 18 12:14:47 2016]  say: ^0^^7ASAV^0^Sendrogro: спалюсь еще
+[Thu Aug 18 12:14:50 2016]  say: ^0^^7ASAV^0^Sendrogro: xddd
+[Thu Aug 18 12:15:03 2016]  say: ^1Eminem: u tebya skok vremya to
+[Thu Aug 18 12:15:04 2016]  say: ^1Eminem: ?
+[Thu Aug 18 12:15:08 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:15:10 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:15:10 2016]  say: ^0^^7ASAV^0^Sendrogro: 20:15
+[Thu Aug 18 12:15:14 2016]  say: ^1Eminem: :O
+[Thu Aug 18 12:15:21 2016]  say: ^1Eminem: u menya 14:15 xd
+[Thu Aug 18 12:15:24 2016]  say: ^0^^7ASAV^0^Sendrogro: темнота уже
+[Thu Aug 18 12:15:26 2016]  say: ^0^^7ASAV^0^Sendrogro: xd
+[Thu Aug 18 12:15:32 2016]  say: ^0^^7ASAV^0^Sendrogro: я еще сплю по твоему времени
+[Thu Aug 18 12:15:36 2016]  say: ^0^^7ASAV^0^Sendrogro: кстате сон снился
+[Thu Aug 18 12:15:39 2016]  say: ^0^^7ASAV^0^Sendrogro: ваще пиздос
+[Thu Aug 18 12:15:42 2016]  say: ^1Eminem: kakoy
+[Thu Aug 18 12:15:44 2016]  say: ^0^^7ASAV^0^Sendrogro: я аж прозрел
+[Thu Aug 18 12:15:45 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:15:47 2016]  say: ^0^^7ASAV^0^Sendrogro: крч нахуй
+[Thu Aug 18 12:15:50 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:15:50 2016]  say: ^0^^7ASAV^0^Sendrogro: чето
+[Thu Aug 18 12:15:53 2016]  say: ^0^^7ASAV^0^Sendrogro: про созидание
+[Thu Aug 18 12:15:53 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:15:58 2016]  say: ^0^^7ASAV^0^Sendrogro: а не разрушение
+[Thu Aug 18 12:16:07 2016]  say: ^0^^7ASAV^0^Sendrogro: сложно пока для тебя
+[Thu Aug 18 12:16:13 2016]  say: ^0^^7ASAV^0^Sendrogro: у мення свои джунгли
+[Thu Aug 18 12:16:18 2016]  say: ^0^^7ASAV^0^Sendrogro: мозговые
+[Thu Aug 18 12:16:20 2016]  say: ^0^^7ASAV^0^Sendrogro: xddd
+[Thu Aug 18 12:16:21 2016]  say: ^1Eminem: v golove ? :D
+[Thu Aug 18 12:16:25 2016]  say: ^0^^7ASAV^0^Sendrogro: aga
+[Thu Aug 18 12:16:45 2016]  say: ^0^^7ASAV^0^Sendrogro: надо достроить
+[Thu Aug 18 12:16:48 2016]  say: ^0^^7ASAV^0^Sendrogro: сука
+[Thu Aug 18 12:16:53 2016]  say: ^0^^7ASAV^0^Sendrogro: у меня коннект прирывается
+[Thu Aug 18 12:17:04 2016]  say: ^1Eminem: ya hochu svoiy server
+[Thu Aug 18 12:17:07 2016]  say: ^0^^7ASAV^0^Sendrogro: ты портал снес?
+[Thu Aug 18 12:17:07 2016]  say: ^1Eminem: bez lagov taki
+[Thu Aug 18 12:17:09 2016]  say: ^1Eminem: h
+[Thu Aug 18 12:17:14 2016]  say: ^0^^7ASAV^0^Sendrogro: у меня бомить будут 
+[Thu Aug 18 12:17:14 2016]  say: ^1Eminem: ya vse svoe snes
+[Thu Aug 18 12:17:19 2016]  say: ^1Eminem: ibo fps 30
+[Thu Aug 18 12:17:21 2016]  say: ^0^^7ASAV^0^Sendrogro: мол ты к лоа принадлежишь
+[Thu Aug 18 12:17:27 2016]  say: ^0^^7ASAV^0^Sendrogro: я заебусь из отговаривать
+[Thu Aug 18 12:17:32 2016]  say: ^0^^7ASAV^0^Sendrogro: го к нам
+[Thu Aug 18 12:17:35 2016]  say: ^0^^7ASAV^0^Sendrogro: вопросов не будет
+[Thu Aug 18 12:17:41 2016]  say: ^1Eminem: blya ya ne mogu
+[Thu Aug 18 12:17:44 2016]  say: ^1Eminem: ya s radost'iu
+[Thu Aug 18 12:17:46 2016]  say: ^0^^7ASAV^0^Sendrogro: поч?
+[Thu Aug 18 12:17:49 2016]  say: ^1Eminem: daje uje dumal ob etom
+[Thu Aug 18 12:17:56 2016]  say: ^1Eminem: ne mogu
+[Thu Aug 18 12:17:57 2016]  say: ^0^^7ASAV^0^Sendrogro: яура купила твою тушку?
+[Thu Aug 18 12:18:00 2016]  say: ^0^^7ASAV^0^Sendrogro: фура*
+[Thu Aug 18 12:18:04 2016]  say: ^1Eminem: menya srazu lika zabanit na rupabe
+[Thu Aug 18 12:18:06 2016]  say: ^0^^7ASAV^0^Sendrogro: почему
+[Thu Aug 18 12:18:13 2016]  say: ^0^^7ASAV^0^Sendrogro: да и в ипзду эту шлюшку
+[Thu Aug 18 12:18:22 2016]  say: ^0^^7ASAV^0^Sendrogro: она сама не знает что несет
+[Thu Aug 18 12:18:27 2016]  say: ^0^^7ASAV^0^Sendrogro: я с ней говорил
+[Thu Aug 18 12:18:35 2016]  say: ^0^^7ASAV^0^Sendrogro: она блять ваще даже не понимает что говорит
+[Thu Aug 18 12:18:42 2016]  say: ^1Eminem: u menya idea est
+[Thu Aug 18 12:18:45 2016]  say: ^0^^7ASAV^0^Sendrogro: ?
+[Thu Aug 18 12:18:58 2016]  say: ^1Eminem: ya uidu v inaktiv na god, pomenyaiu ip b nickname
+[Thu Aug 18 12:19:04 2016]  say: ^1Eminem: znat' tol'ko ti budesh
+[Thu Aug 18 12:19:04 2016]  say: ^0^^7ASAV^0^Sendrogro: опять хитравыебанные заплеты
+[Thu Aug 18 12:19:07 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Thu Aug 18 12:19:11 2016]  say: ^0^^7ASAV^0^Sendrogro: как и говорил
+[Thu Aug 18 12:19:14 2016]  say: ^1Eminem: xd
+[Thu Aug 18 12:19:17 2016]  say: ^0^^7ASAV^0^Sendrogro: ну а если тебе не понравится
+[Thu Aug 18 12:19:20 2016]  say: ^0^^7ASAV^0^Sendrogro: ты же знаешьн
+[Thu Aug 18 12:19:24 2016]  say: ^1Eminem: kogo
+[Thu Aug 18 12:19:31 2016]  say: ^0^^7ASAV^0^Sendrogro: я душа поэтиная
+[Thu Aug 18 12:19:48 2016]  say: ^1Eminem: mi sha pro svoiy server govorim
+[Thu Aug 18 12:19:49 2016]  say: ^1Eminem: ili cho
+[Thu Aug 18 12:20:53 2016]  say: ^1Eminem: cart ti tam ne zdoh?
+[Thu Aug 18 12:21:01 2016]  say: ^0^^7ASAV^0^Sendrogro: погодь)
+[Thu Aug 18 12:21:18 2016]  say: ^1Eminem: batya zapalil?
+[Thu Aug 18 12:21:20 2016]  say: ^0^^7ASAV^0^Sendrogro: фпс 1 
+[Thu Aug 18 12:21:21 2016]  say: ^0^^7ASAV^0^Sendrogro: зазазазаз
+[Thu Aug 18 12:21:25 2016]  say: ^0^^7ASAV^0^Sendrogro: ОР СУКА
+[Thu Aug 18 12:21:30 2016]  say: ^0^^7ASAV^0^Sendrogro: внатуре 1 фпс
+[Thu Aug 18 12:21:33 2016]  say: ^0^^7ASAV^0^Sendrogro: до нуля падает даже
+[Thu Aug 18 12:21:44 2016]  say: ^0^^7ASAV^0^Sendrogro: ну ты же знаешь
+[Thu Aug 18 12:21:47 2016]  say: ^0^^7ASAV^0^Sendrogro: я душа поэтичная
+[Thu Aug 18 12:21:53 2016]  say: ^0^^7ASAV^0^Sendrogro: у меня как только что то не так
+[Thu Aug 18 12:21:55 2016]  say: ^0^^7ASAV^0^Sendrogro: у меня бомбежка
+[Thu Aug 18 12:22:03 2016]  say: ^0^^7ASAV^0^Sendrogro: и головы с плеч летят
+[Thu Aug 18 12:22:05 2016]  say: ^0^^7ASAV^0^Sendrogro: xd
+[Thu Aug 18 12:22:11 2016]  say: ^1Eminem: nu
+[Thu Aug 18 12:22:34 2016]  Kill: 1022 0 38: <world> killed ^1Eminem by MOD_FALLING
+[Thu Aug 18 12:22:41 2016]  say: ^0^^7ASAV^0^Sendrogro: ну а вообще
+[Thu Aug 18 12:22:47 2016]  say: ^0^^7ASAV^0^Sendrogro: если ты хочешь понять почему
+[Thu Aug 18 12:22:50 2016]  say: ^0^^7ASAV^0^Sendrogro: мы ненавидим лоа
+[Thu Aug 18 12:22:58 2016]  say: ^0^^7ASAV^0^Sendrogro: просто побудь с нами
+[Thu Aug 18 12:22:59 2016]  say: ^1Eminem: tol'ko iz-za furii
+[Thu Aug 18 12:23:22 2016]  say: ^1Eminem: prosto v loa dark, mi vzaimno drug drugu pomogaem
+[Thu Aug 18 12:23:39 2016]  say: ^1Eminem: a esli ya udiu, sam ponimaesh chto budet
+[Thu Aug 18 12:24:23 2016]  say: ^1Eminem: mi voobshe govorili pro svoiy server
+[Thu Aug 18 12:24:26 2016]  say: ^1Eminem: makermod
+[Thu Aug 18 12:25:51 2016]  say: ^0^^7ASAV^0^Sendrogro: еге
+[Thu Aug 18 12:25:53 2016]  say: ^0^^7ASAV^0^Sendrogro: nen
+[Thu Aug 18 12:25:56 2016]  say: ^0^^7ASAV^0^Sendrogro: ТУТ БЛЕАТЬ
+[Thu Aug 18 12:26:08 2016]  say: ^0^^7ASAV^0^Sendrogro: мозги мне ебут
+[Thu Aug 18 12:26:09 2016]  say: ^1Eminem: :(
+[Thu Aug 18 12:26:10 2016]  say: ^0^^7ASAV^0^Sendrogro: ыплфыюпфыв
+[Thu Aug 18 12:26:16 2016]  say: ^0^^7ASAV^0^Sendrogro: песенку скачай
+[Thu Aug 18 12:26:20 2016]  say: ^0^^7ASAV^0^Sendrogro: кончой постреляй
+[Thu Aug 18 12:26:23 2016]  say: ^0^^7ASAV^0^Sendrogro: вся хуйня
+[Thu Aug 18 12:26:38 2016]  say: ^1Eminem: братуха кончаю в ухо
+[Thu Aug 18 12:26:55 2016]  say: ^1Eminem: ясно короче все..
+[Thu Aug 18 12:27:01 2016]  say: ^0^^7ASAV^0^Sendrogro: ?
+[Thu Aug 18 12:27:05 2016]  say: ^0^^7ASAV^0^Sendrogro: че ясно?
+[Thu Aug 18 12:27:13 2016]  say: ^1Eminem: то что нечего не ясно
+[Thu Aug 18 12:27:14 2016]  say: ^1Eminem: я устал
+[Thu Aug 18 12:27:29 2016]  say: ^0^^7ASAV^0^Sendrogro: адарк
+[Thu Aug 18 12:27:42 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:27:45 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:27:48 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:27:50 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:27:52 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:27:54 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:27:57 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:28:15 2016]  say: ^0^^7ASAV^0^Sendrogro: с чем он тебе помогает?
+[Thu Aug 18 12:28:35 2016]  say: ^1Eminem: со всем чем он знает
+[Thu Aug 18 12:28:40 2016]  say: ^1Eminem: он как мой будда
+[Thu Aug 18 12:28:45 2016]  say: ^1Eminem: или как их там
+[Thu Aug 18 12:28:45 2016]  say: ^0^^7ASAV^0^Sendrogro: ну так вытащи из нег все
+[Thu Aug 18 12:29:00 2016]  say: ^1Eminem: это будет подло
+[Thu Aug 18 12:29:07 2016]  say: ^1Eminem: А я человек добрый
+[Thu Aug 18 12:29:10 2016]  say: ^1Eminem: хоть и не видно
+[Thu Aug 18 12:29:15 2016]  say: ^0^^7ASAV^0^Sendrogro: да знаю я
+[Thu Aug 18 12:29:22 2016]  say: ^0^^7ASAV^0^Sendrogro: по этому хуйнб несу
+[Thu Aug 18 12:29:26 2016]  say: ^0^^7ASAV^0^Sendrogro: которую ты не воспримешь
+[Thu Aug 18 12:29:40 2016]  say: ^0^^7ASAV^0^Sendrogro: в конце концов
+[Thu Aug 18 12:29:44 2016]  say: ^0^^7ASAV^0^Sendrogro: лидер я или нет
+[Thu Aug 18 12:29:51 2016]  say: ^0^^7ASAV^0^Sendrogro: что не знаю своих подчиненых?
+[Thu Aug 18 12:30:22 2016]  say: ^0^^7ASAV^0^Sendrogro: амне меня пиздец убил своим отменным шпионажем
+[Thu Aug 18 12:30:28 2016]  say: ^0^^7ASAV^0^Sendrogro: и детективизмом
+[Thu Aug 18 12:30:30 2016]  say: ^1Eminem: +
+[Thu Aug 18 12:30:32 2016]  say: ^1Eminem: он изменился
+[Thu Aug 18 12:30:36 2016]  say: ^0^^7ASAV^0^Sendrogro: если он и дальше так будет шпионить
+[Thu Aug 18 12:30:41 2016]  say: ^1Eminem: в плохую сторону
+[Thu Aug 18 12:30:47 2016]  say: ^0^^7ASAV^0^Sendrogro: понятно что он будет сидеть на дизинфе
+[Thu Aug 18 12:30:49 2016]  say: ^0^^7ASAV^0^Sendrogro: да
+[Thu Aug 18 12:30:52 2016]  say: ^0^^7ASAV^0^Sendrogro: пока он один
+[Thu Aug 18 12:30:54 2016]  say: ^0^^7ASAV^0^Sendrogro: он няш
+[Thu Aug 18 12:30:57 2016]  say: ^0^^7ASAV^0^Sendrogro: когда с кем то
+[Thu Aug 18 12:30:59 2016]  say: ^0^^7ASAV^0^Sendrogro: говняш
+[Thu Aug 18 12:31:08 2016]  say: ^0^^7ASAV^0^Sendrogro: ну естественно когда он с говоном
+[Thu Aug 18 12:31:14 2016]  say: ^0^^7ASAV^0^Sendrogro: тогда он говно
+[Thu Aug 18 12:31:25 2016]  say: ^0^^7ASAV^0^Sendrogro: меня все мучал вопрос
+[Thu Aug 18 12:31:26 2016]  say: ^1Eminem: т.е я тоже говно?
+[Thu Aug 18 12:31:27 2016]  say: ^1Eminem: ммм
+[Thu Aug 18 12:31:29 2016]  say: ^0^^7ASAV^0^Sendrogro: я за 3 года
+[Thu Aug 18 12:31:30 2016]  say: ^0^^7ASAV^0^Sendrogro: не
+[Thu Aug 18 12:31:33 2016]  say: ^0^^7ASAV^0^Sendrogro: я про фурку
+[Thu Aug 18 12:31:41 2016]  say: ^0^^7ASAV^0^Sendrogro: зига ее хорошо изучил
+[Thu Aug 18 12:32:06 2016]  say: ^1Eminem: Хочешь по секрету скажу
+[Thu Aug 18 12:32:14 2016]  Kill: 1022 0 38: <world> killed ^1Eminem by MOD_FALLING
+[Thu Aug 18 12:32:14 2016]  say: ^0^^7ASAV^0^Sendrogro: твое право
+[Thu Aug 18 12:32:21 2016]  say: ^1Eminem: Лика нечего не делает в клане
+[Thu Aug 18 12:32:24 2016]  say: ^1Eminem: вообще нечего
+[Thu Aug 18 12:32:26 2016]  say: ^0^^7ASAV^0^Sendrogro: ...
+[Thu Aug 18 12:32:28 2016]  say: ^0^^7ASAV^0^Sendrogro: еще бы
+[Thu Aug 18 12:32:30 2016]  say: ^1Eminem: буквально
+[Thu Aug 18 12:32:31 2016]  say: ^0^^7ASAV^0^Sendrogro: она ток пиздит
+[Thu Aug 18 12:32:37 2016]  say: ^1Eminem: просто командует, и уходит бухать
+[Thu Aug 18 12:32:43 2016]  say: ^0^^7ASAV^0^Sendrogro: xd
+[Thu Aug 18 12:32:47 2016]  say: ^0^^7ASAV^0^Sendrogro: тимворк
+[Thu Aug 18 12:32:52 2016]  say: ^1Eminem: Нечего смешного нет.
+[Thu Aug 18 12:32:58 2016]  say: ^0^^7ASAV^0^Sendrogro: почему
+[Thu Aug 18 12:32:59 2016]  say: ^0^^7ASAV^0^Sendrogro: есть же
+[Thu Aug 18 12:33:04 2016]  say: ^0^^7ASAV^0^Sendrogro: она втирает такие речи
+[Thu Aug 18 12:33:06 2016]  say: ^0^^7ASAV^0^Sendrogro: про котр
+[Thu Aug 18 12:33:11 2016]  say: ^0^^7ASAV^0^Sendrogro: в итоге выясняется
+[Thu Aug 18 12:33:16 2016]  say: ^0^^7ASAV^0^Sendrogro: что она нихуя не делает
+[Thu Aug 18 12:33:19 2016]  say: ^0^^7ASAV^0^Sendrogro: да и не может
+[Thu Aug 18 12:33:24 2016]  say: ^0^^7ASAV^0^Sendrogro: зато мы
+[Thu Aug 18 12:33:28 2016]  say: ^0^^7ASAV^0^Sendrogro: МЫ СУКА ЗЛО
+[Thu Aug 18 12:33:36 2016]  say: ^0^^7ASAV^0^Sendrogro: тн кто портирует набов на бейс
+[Thu Aug 18 12:33:40 2016]  say: ^0^^7ASAV^0^Sendrogro: учит их
+[Thu Aug 18 12:33:48 2016]  say: ^0^^7ASAV^0^Sendrogro: делает блять людей
+[Thu Aug 18 12:33:50 2016]  say: ^0^^7ASAV^0^Sendrogro: мы никто
+[Thu Aug 18 12:33:52 2016]  say: ^0^^7ASAV^0^Sendrogro: а она все
+[Thu Aug 18 12:33:54 2016]  say: ^0^^7ASAV^0^Sendrogro: она вся джка
+[Thu Aug 18 12:33:59 2016]  say: ^0^^7ASAV^0^Sendrogro: да кто ты блять такая?
+[Thu Aug 18 12:34:06 2016]  say: ^0^^7ASAV^0^Sendrogro: я за 3 года игры тебя ни разу невидел
+[Thu Aug 18 12:34:09 2016]  say: ^0^^7ASAV^0^Sendrogro: что на пабе что на бейс
+[Thu Aug 18 12:34:11 2016]  say: ^1Eminem: ой ладно я пошел
+[Thu Aug 18 12:34:15 2016]  say: ^0^^7ASAV^0^Sendrogro: ?
+[Thu Aug 18 12:34:22 2016]  say: ^0^^7ASAV^0^Sendrogro: не в ту стопорну понесло
+[Thu Aug 18 12:34:24 2016]  say: ^0^^7ASAV^0^Sendrogro: :*
+[Thu Aug 18 12:34:25 2016]  say: ^0^^7ASAV^0^Sendrogro: прости
+[Thu Aug 18 12:34:27 2016]  say: ^0^^7ASAV^0^Sendrogro: пупся
+[Thu Aug 18 12:34:34 2016]  say: ^0^^7ASAV^0^Sendrogro: накипело
+[Thu Aug 18 12:34:35 2016]  say: ^0^^7ASAV^0^Sendrogro: прост
+[Thu Aug 18 12:34:50 2016]  say: ^1Eminem: мб реально уйти в инактив я начать с нового листа
+[Thu Aug 18 12:34:56 2016]  say: ^0^^7ASAV^0^Sendrogro: толку то?
+[Thu Aug 18 12:34:59 2016]  say: ^0^^7ASAV^0^Sendrogro: люди те же
+[Thu Aug 18 12:34:59 2016]  say: ^1Eminem: +
+[Thu Aug 18 12:35:02 2016]  say: ^0^^7ASAV^0^Sendrogro: есть только
+[Thu Aug 18 12:35:04 2016]  say: ^0^^7ASAV^0^Sendrogro: лугор
+[Thu Aug 18 12:35:05 2016]  say: ^1Eminem: ну я про котр
+[Thu Aug 18 12:35:06 2016]  say: ^0^^7ASAV^0^Sendrogro: там ребята
+[Thu Aug 18 12:35:14 2016]  say: ^0^^7ASAV^0^Sendrogro: лоу скиловые
+[Thu Aug 18 12:35:20 2016]  say: ^0^^7ASAV^0^Sendrogro: да как сам хочешь)
+[Thu Aug 18 12:35:32 2016]  say: ^0^^7ASAV^0^Sendrogro: от тебя я бы не отказался
+[Thu Aug 18 12:35:36 2016]  say: ^0^^7ASAV^0^Sendrogro: тыж пупс
+[Thu Aug 18 12:35:38 2016]  say: ^0^^7ASAV^0^Sendrogro: мо
+[Thu Aug 18 12:35:40 2016]  say: ^0^^7ASAV^0^Sendrogro: мой
+[Thu Aug 18 12:35:42 2016]  say: ^0^^7ASAV^0^Sendrogro: СУКА МОЙ
+[Thu Aug 18 12:36:05 2016]  say: ^0^^7ASAV^0^Sendrogro: у тебя нету джеавю?
+[Thu Aug 18 12:36:09 2016]  say: ^0^^7ASAV^0^Sendrogro: вспомни времена ская
+[Thu Aug 18 12:36:15 2016]  say: ^0^^7ASAV^0^Sendrogro: к чему все это привело?
+[Thu Aug 18 12:36:23 2016]  say: ^1Eminem: не помню уже
+[Thu Aug 18 12:36:24 2016]  say: ^0^^7ASAV^0^Sendrogro: к полной разрухе
+[Thu Aug 18 12:36:28 2016]  say: ^0^^7ASAV^0^Sendrogro: а теперь?
+[Thu Aug 18 12:36:33 2016]  say: ^0^^7ASAV^0^Sendrogro: думаешь что то изменилось?
+[Thu Aug 18 12:36:35 2016]  say: ^0^^7ASAV^0^Sendrogro: XDDDDDDD
+[Thu Aug 18 12:36:42 2016]  say: ^0^^7ASAV^0^Sendrogro: амне втирает с фурой такие речи
+[Thu Aug 18 12:36:44 2016]  say: ^0^^7ASAV^0^Sendrogro: без сути
+[Thu Aug 18 12:36:51 2016]  say: ^0^^7ASAV^0^Sendrogro: они ничего не изменили
+[Thu Aug 18 12:36:55 2016]  say: ^0^^7ASAV^0^Sendrogro: как говаривал фурон
+[Thu Aug 18 12:36:58 2016]  say: ^0^^7ASAV^0^Sendrogro: начинка та же
+[Thu Aug 18 12:37:11 2016]  say: ^1Eminem: джа вся таже джа
+[Thu Aug 18 12:37:13 2016]  say: ^1Eminem: а  ты чо думал
+[Thu Aug 18 12:37:17 2016]  say: ^0^^7ASAV^0^Sendrogro: неа)
+[Thu Aug 18 12:37:20 2016]  say: ^1Eminem: до сих пор думаешь что то изменится?
+[Thu Aug 18 12:37:23 2016]  say: ^0^^7ASAV^0^Sendrogro: думаешь почему котр живет?)
+[Thu Aug 18 12:37:31 2016]  say: ^0^^7ASAV^0^Sendrogro: потому что я?
+[Thu Aug 18 12:37:32 2016]  say: ^0^^7ASAV^0^Sendrogro: нет
+[Thu Aug 18 12:37:37 2016]  say: ^0^^7ASAV^0^Sendrogro: все от людей зависит
+[Thu Aug 18 12:37:45 2016]  say: ^0^^7ASAV^0^Sendrogro: я бы слился если бы мне не помогали
+[Thu Aug 18 12:37:48 2016]  say: ^0^^7ASAV^0^Sendrogro: сначала кларт
+[Thu Aug 18 12:37:50 2016]  say: ^0^^7ASAV^0^Sendrogro: потом моррис
+[Thu Aug 18 12:37:51 2016]  say: ^0^^7ASAV^0^Sendrogro: зига
+[Thu Aug 18 12:38:05 2016]  say: ^0^^7ASAV^0^Sendrogro: мадара тот же
+[Thu Aug 18 12:38:08 2016]  say: ^1Eminem: кстати где эта Доска?
+[Thu Aug 18 12:38:13 2016]  say: ^0^^7ASAV^0^Sendrogro: какая?
+[Thu Aug 18 12:38:15 2016]  say: ^1Eminem: Ну дерево
+[Thu Aug 18 12:38:21 2016]  say: ^0^^7ASAV^0^Sendrogro: так в армии же
+[Thu Aug 18 12:38:22 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Thu Aug 18 12:38:27 2016]  say: ^1Eminem: до сих пор шоле?
+[Thu Aug 18 12:38:30 2016]  say: ^0^^7ASAV^0^Sendrogro: в октябре вернется
+[Thu Aug 18 12:38:34 2016]  say: ^1Eminem: оо
+[Thu Aug 18 12:39:44 2016]  say: ^0^^7ASAV^0^Sendrogro: знаешь из за чего весь сыр бор?
+[Thu Aug 18 12:39:46 2016]  say: ^0^^7ASAV^0^Sendrogro: лоа с котром
+[Thu Aug 18 12:39:51 2016]  say: ^1Eminem: нэт
+[Thu Aug 18 12:39:54 2016]  say: ^0^^7ASAV^0^Sendrogro: фурия
+[Thu Aug 18 12:39:58 2016]  say: ^0^^7ASAV^0^Sendrogro: сидела в нашем клане
+[Thu Aug 18 12:40:01 2016]  say: ^0^^7ASAV^0^Sendrogro: говорила
+[Thu Aug 18 12:40:05 2016]  say: ^0^^7ASAV^0^Sendrogro:  
+
+[Thu Aug 18 12:40:10 2016]  say: ^0^^7ASAV^0^Sendrogro: ой у вас все заебись
+[Thu Aug 18 12:40:19 2016]  say: ^0^^7ASAV^0^Sendrogro: я бы у вас осталась
+[Thu Aug 18 12:40:21 2016]  say: ^0^^7ASAV^0^Sendrogro: потом ливает
+[Thu Aug 18 12:40:25 2016]  say: ^0^^7ASAV^0^Sendrogro: и делает лоа
+[Thu Aug 18 12:40:30 2016]  say: ^0^^7ASAV^0^Sendrogro: как это понмает?
+[Thu Aug 18 12:40:34 2016]  say: ^0^^7ASAV^0^Sendrogro: понимать*
+[Thu Aug 18 12:40:38 2016]  say: ^1Eminem: Зависть
+[Thu Aug 18 12:40:49 2016]  say: ^0^^7ASAV^0^Sendrogro: еще говорила мол я в инактив ухожу если проебу зиге в дуэлях на бейс
+[Thu Aug 18 12:40:50 2016]  say: ^0^^7ASAV^0^Sendrogro: проебала
+[Thu Aug 18 12:40:53 2016]  say: ^0^^7ASAV^0^Sendrogro: пошла в инактив
+[Thu Aug 18 12:40:56 2016]  say: ^0^^7ASAV^0^Sendrogro: написала амне
+[Thu Aug 18 12:41:00 2016]  say: ^0^^7ASAV^0^Sendrogro: создали клан
+[Thu Aug 18 12:41:04 2016]  say: ^0^^7ASAV^0^Sendrogro: подобие свджка
+[Thu Aug 18 12:41:07 2016]  say: ^0^^7ASAV^0^Sendrogro: назвались пабом
+[Thu Aug 18 12:41:11 2016]  say: ^0^^7ASAV^0^Sendrogro: взяли дарка
+[Thu Aug 18 12:41:15 2016]  say: ^0^^7ASAV^0^Sendrogro: думают что то изменит
+[Thu Aug 18 12:41:23 2016]  say: ^0^^7ASAV^0^Sendrogro: не знали кто тащил все время?
+[Thu Aug 18 12:41:27 2016]  say: ^0^^7ASAV^0^Sendrogro: хостер?
+[Thu Aug 18 12:41:29 2016]  say: ^0^^7ASAV^0^Sendrogro: ХАХАХАХ
+[Thu Aug 18 12:41:32 2016]  say: ^0^^7ASAV^0^Sendrogro: бля смешно
+[Thu Aug 18 12:41:39 2016]  say: ^0^^7ASAV^0^Sendrogro: вел все время все делал
+[Thu Aug 18 12:41:48 2016]  say: ^0^^7ASAV^0^Sendrogro: хоть и в своем репертуаре
+[Thu Aug 18 12:41:56 2016]  say: ^0^^7ASAV^0^Sendrogro: и еще
+[Thu Aug 18 12:42:01 2016]  say: ^0^^7ASAV^0^Sendrogro: самая глупая идея лоа
+[Thu Aug 18 12:42:06 2016]  say: ^0^^7ASAV^0^Sendrogro: это обьеденить все кланы
+[Thu Aug 18 12:42:19 2016]  say: ^0^^7ASAV^0^Sendrogro: это тоже самое что обьеденить семьи
+[Thu Aug 18 12:42:26 2016]  say: ^1Eminem: xD
+[Thu Aug 18 12:42:33 2016]  say: ^0^^7ASAV^0^Sendrogro: ну вот ты смеешься
+[Thu Aug 18 12:42:39 2016]  say: ^0^^7ASAV^0^Sendrogro: а все по сути так и есть :)
+[Thu Aug 18 12:42:42 2016]  say: ^1Eminem: Я просто представил
+[Thu Aug 18 12:43:09 2016]  say: ^1Eminem: Ты такой добренький когда выпьешь оказываетса
+[Thu Aug 18 12:43:16 2016]  say: ^0^^7ASAV^0^Sendrogro: )
+[Thu Aug 18 12:43:30 2016]  say: ^0^^7ASAV^0^Sendrogro: у человека всегда 2 стороны души)
+[Thu Aug 18 12:43:54 2016]  say: ^0^^7ASAV^0^Sendrogro: ну прост
+[Thu Aug 18 12:43:56 2016]  say: ^0^^7ASAV^0^Sendrogro: я зачастую
+[Thu Aug 18 12:44:01 2016]  say: ^0^^7ASAV^0^Sendrogro: на показуху добрый
+[Thu Aug 18 12:44:02 2016]  say: ^0^^7ASAV^0^Sendrogro: :*
+[Thu Aug 18 12:44:04 2016]  say: ^0^^7ASAV^0^Sendrogro: а так
+[Thu Aug 18 12:44:10 2016]  say: ^0^^7ASAV^0^Sendrogro: я прост за всеми вами слежу
+[Thu Aug 18 12:44:13 2016]  say: ^1Eminem: ну это уж понятно
+[Thu Aug 18 12:44:16 2016]  say: ^0^^7ASAV^0^Sendrogro: и запоминаю многое
+[Thu Aug 18 12:44:19 2016]  say: ^0^^7ASAV^0^Sendrogro: очень
+[Thu Aug 18 12:44:29 2016]  say: ^0^^7ASAV^0^Sendrogro: что бы знать кто чего стоит
+[Thu Aug 18 12:44:33 2016]  say: ^0^^7ASAV^0^Sendrogro: потенциал
+[Thu Aug 18 12:44:52 2016]  say: ^0^^7ASAV^0^Sendrogro: мне же придется работать
+[Thu Aug 18 12:44:59 2016]  say: ^0^^7ASAV^0^Sendrogro: явно не в таких условиях
+[Thu Aug 18 12:45:03 2016]  say: ^0^^7ASAV^0^Sendrogro: по этому джка
+[Thu Aug 18 12:45:05 2016]  say: ^0^^7ASAV^0^Sendrogro: это треня
+[Thu Aug 18 12:45:10 2016]  say: ^0^^7ASAV^0^Sendrogro: здесь я учусь
+[Thu Aug 18 12:45:14 2016]  say: ^0^^7ASAV^0^Sendrogro: я узнаю виды людей
+[Thu Aug 18 12:45:15 2016]  say: ^0^^7ASAV^0^Sendrogro: :#
+[Thu Aug 18 12:45:21 2016]  say: ^1Eminem: Ты же знаешь что я не хожу в школу да?
+[Thu Aug 18 12:45:26 2016]  say: ^0^^7ASAV^0^Sendrogro: ага
+[Thu Aug 18 12:45:28 2016]  say: ^0^^7ASAV^0^Sendrogro: помню
+[Thu Aug 18 12:45:28 2016]  say: ^1Eminem: вот
+[Thu Aug 18 12:45:33 2016]  say: ^1Eminem: я тут научился писать и читать
+[Thu Aug 18 12:45:41 2016]  say: ^0^^7ASAV^0^Sendrogro: всм тут
+[Thu Aug 18 12:45:44 2016]  say: ^1Eminem: ну тут
+[Thu Aug 18 12:45:44 2016]  say: ^0^^7ASAV^0^Sendrogro: в джка?
+[Thu Aug 18 12:45:47 2016]  say: ^1Eminem: дыа
+[Thu Aug 18 12:45:50 2016]  say: ^0^^7ASAV^0^Sendrogro: ахуеть
+[Thu Aug 18 12:45:54 2016]  say: ^0^^7ASAV^0^Sendrogro: вот реально
+[Thu Aug 18 12:45:56 2016]  say: ^1Eminem: я же с 7 лет в нее играю
+[Thu Aug 18 12:45:56 2016]  say: ^0^^7ASAV^0^Sendrogro: я ожидал всего
+[Thu Aug 18 12:45:59 2016]  say: ^0^^7ASAV^0^Sendrogro: но не такого
+[Thu Aug 18 12:46:08 2016]  say: ^0^^7ASAV^0^Sendrogro: я в 3 года уже вроде говорил
+[Thu Aug 18 12:46:10 2016]  say: ^0^^7ASAV^0^Sendrogro: точно не помню
+[Thu Aug 18 12:46:16 2016]  say: ^0^^7ASAV^0^Sendrogro: в  2 года первое слово
+[Thu Aug 18 12:46:17 2016]  say: ^0^^7ASAV^0^Sendrogro: сад
+[Thu Aug 18 12:46:19 2016]  say: ^0^^7ASAV^0^Sendrogro: ;xd
+[Thu Aug 18 12:46:21 2016]  say: ^1Eminem: сад xD
+[Thu Aug 18 12:46:24 2016]  say: ^0^^7ASAV^0^Sendrogro: да)
+[Thu Aug 18 12:46:25 2016]  say: ^1Eminem: вот у тебя сад стоит
+[Thu Aug 18 12:46:29 2016]  say: ^1Eminem: империя твоя
+[Thu Aug 18 12:46:30 2016]  say: ^0^^7ASAV^0^Sendrogro: ехех
+[Thu Aug 18 12:46:44 2016]  say: ^0^^7ASAV^0^Sendrogro: я оч люблю природу
+[Thu Aug 18 12:46:48 2016]  say: ^1Eminem: ну всмысле писать и читать
+[Thu Aug 18 12:46:49 2016]  say: ^0^^7ASAV^0^Sendrogro: обычно я не рассказываю о себе
+[Thu Aug 18 12:46:50 2016]  say: ^1Eminem: я и так умел
+[Thu Aug 18 12:46:54 2016]  say: ^1Eminem: с 4 - 5 лет
+[Thu Aug 18 12:46:56 2016]  say: ^0^^7ASAV^0^Sendrogro: опыт общения
+[Thu Aug 18 12:47:01 2016]  say: ^1Eminem: но ошибки я исправлял тут
+[Thu Aug 18 12:47:01 2016]  say: ^0^^7ASAV^0^Sendrogro: ты имеешь ввиду
+[Thu Aug 18 12:47:02 2016]  say: ^0^^7ASAV^0^Sendrogro: ?
+[Thu Aug 18 12:47:09 2016]  say: ^1Eminem: ну типа я писал ШТО
+[Thu Aug 18 12:47:12 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Thu Aug 18 12:47:15 2016]  say: ^0^^7ASAV^0^Sendrogro: нормас
+[Thu Aug 18 12:47:20 2016]  say: ^1Eminem: или жызн
+[Thu Aug 18 12:47:25 2016]  say: ^1Eminem: жызнь это супир
+[Thu Aug 18 12:47:26 2016]  say: ^1Eminem: вот так
+[Thu Aug 18 12:47:29 2016]  say: ^1Eminem: xd
+[Thu Aug 18 12:47:29 2016]  say: ^0^^7ASAV^0^Sendrogro: :)
+[Thu Aug 18 12:47:48 2016]  say: ^0^^7ASAV^0^Sendrogro: забавно
+[Thu Aug 18 12:47:52 2016]  say: ^0^^7ASAV^0^Sendrogro: авториет
+[Thu Aug 18 12:47:54 2016]  say: ^0^^7ASAV^0^Sendrogro: такая штука
+[Thu Aug 18 12:48:04 2016]  say: ^0^^7ASAV^0^Sendrogro: даже когда я перестал использовать
+[Thu Aug 18 12:48:09 2016]  say: ^0^^7ASAV^0^Sendrogro: и делать что то в клане
+[Thu Aug 18 12:48:10 2016]  say: ^0^^7ASAV^0^Sendrogro: он остался
+[Thu Aug 18 12:48:21 2016]  say: ^1Eminem: ога
+[Thu Aug 18 12:48:23 2016]  say: ^0^^7ASAV^0^Sendrogro: мб просто я сам не вижу собственных действий
+[Thu Aug 18 12:48:28 2016]  say: ^0^^7ASAV^0^Sendrogro: и не расцениваю их
+[Thu Aug 18 12:48:32 2016]  say: ^0^^7ASAV^0^Sendrogro: как что то стоящее
+[Thu Aug 18 12:48:39 2016]  say: ^0^^7ASAV^0^Sendrogro: эх
+[Thu Aug 18 12:48:42 2016]  say: ^0^^7ASAV^0^Sendrogro: хорошо выговорится
+[Thu Aug 18 12:48:46 2016]  say: ^0^^7ASAV^0^Sendrogro: за такой срок
+[Thu Aug 18 12:48:47 2016]  say: ^0^^7ASAV^0^Sendrogro: :#
+[Thu Aug 18 12:48:51 2016]  say: ^0^^7ASAV^0^Sendrogro: пасиб что слушаешь
+[Thu Aug 18 12:48:53 2016]  say: ^0^^7ASAV^0^Sendrogro: пупся
+[Thu Aug 18 12:48:53 2016]  say: ^1Eminem: )
+[Thu Aug 18 12:49:00 2016]  say: ^0^^7ASAV^0^Sendrogro: да
+[Thu Aug 18 12:49:05 2016]  say: ^0^^7ASAV^0^Sendrogro: совесем другой челвоек
+[Thu Aug 18 12:49:08 2016]  say: ^0^^7ASAV^0^Sendrogro: человек?
+[Thu Aug 18 12:49:09 2016]  say: ^0^^7ASAV^0^Sendrogro: *****
+[Thu Aug 18 12:49:25 2016]  say: ^0^^7ASAV^0^Sendrogro: чувство
+[Thu Aug 18 12:49:29 2016]  say: ^0^^7ASAV^0^Sendrogro: будто мозг дает разгрузку
+[Thu Aug 18 12:49:35 2016]  say: ^1Eminem: хах
+[Thu Aug 18 12:49:48 2016]  say: ^0^^7ASAV^0^Sendrogro: я сейчас могу написать стих
+[Thu Aug 18 12:49:51 2016]  say: ^0^^7ASAV^0^Sendrogro: даж
+[Thu Aug 18 12:49:52 2016]  say: ^1Eminem: не надо
+[Thu Aug 18 12:49:56 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Thu Aug 18 12:49:57 2016]  say: ^0^^7ASAV^0^Sendrogro: agahahah
+[Thu Aug 18 12:49:59 2016]  say: ^0^^7ASAV^0^Sendrogro: or
+[Thu Aug 18 12:50:05 2016]  say: ^1Eminem: агневий так же
+[Thu Aug 18 12:50:10 2016]  say: ^1Eminem: когда говорим о жизни
+[Thu Aug 18 12:50:17 2016]  say: ^1Eminem: он начинает уже гворить стихами
+[Thu Aug 18 12:50:22 2016]  say: ^1Eminem: и потом пишет его в чат
+[Thu Aug 18 12:50:28 2016]  say: ^1Eminem: стих про собак и кошек
+[Thu Aug 18 12:50:35 2016]  say: ^0^^7ASAV^0^Sendrogro: внутри меня живет дракон
+[Thu Aug 18 12:50:39 2016]  say: ^1Eminem: ВХАЗВЫЩХЫАХВАХАХАХАХА
+[Thu Aug 18 12:50:43 2016]  say: ^0^^7ASAV^0^Sendrogro: а все знаешь почему?
+[Thu Aug 18 12:50:45 2016]  say: ^1Eminem: нет
+[Thu Aug 18 12:50:50 2016]  say: ^0^^7ASAV^0^Sendrogro: потому что пьяный человек
+[Thu Aug 18 12:50:54 2016]  say: ^0^^7ASAV^0^Sendrogro: схож сживотным
+[Thu Aug 18 12:50:58 2016]  say: ^1Eminem: ммм
+[Thu Aug 18 12:50:59 2016]  say: ^0^^7ASAV^0^Sendrogro: с животным
+[Thu Aug 18 12:51:08 2016]  say: ^0^^7ASAV^0^Sendrogro: эт пока сложно
+[Thu Aug 18 12:51:12 2016]  say: ^0^^7ASAV^0^Sendrogro: пока не нахуяришься
+[Thu Aug 18 12:51:14 2016]  say: ^0^^7ASAV^0^Sendrogro: не поймешь
+[Thu Aug 18 12:51:17 2016]  say: ^0^^7ASAV^0^Sendrogro: насколько я прав
+[Thu Aug 18 12:51:18 2016]  say: ^0^^7ASAV^0^Sendrogro: :D
+[Thu Aug 18 12:51:22 2016]  say: ^1Eminem: хахахафах
+[Thu Aug 18 12:51:27 2016]  say: ^1Eminem: я нахуяривался один раз
+[Thu Aug 18 12:51:30 2016]  say: ^1Eminem: на мальчишник
+[Thu Aug 18 12:51:37 2016]  say: ^1Eminem: я просто не помню какой я был
+[Thu Aug 18 12:51:39 2016]  say: ^0^^7ASAV^0^Sendrogro: xtv&
+[Thu Aug 18 12:51:43 2016]  say: ^0^^7ASAV^0^Sendrogro: чем?
+[Thu Aug 18 12:51:46 2016]  say: ^1Eminem: у меня есть такая способность
+[Thu Aug 18 12:51:47 2016]  say: ^1Eminem: сек
+[Thu Aug 18 12:51:52 2016]  say: ^1Eminem: есть такая способность
+[Thu Aug 18 12:52:01 2016]  say: ^1Eminem: когда я бухой в стельку, на завтрашний день все помню
+[Thu Aug 18 12:52:04 2016]  say: ^1Eminem: а другие нет
+[Thu Aug 18 12:52:12 2016]  say: ^1Eminem: Тыкила, Водка, Мартини
+[Thu Aug 18 12:52:20 2016]  say: ^0^^7ASAV^0^Sendrogro: ебать ты убийца
+[Thu Aug 18 12:52:21 2016]  say: ^1Eminem: ну естестно я правильно по градусам пил
+[Thu Aug 18 12:52:22 2016]  say: ^0^^7ASAV^0^Sendrogro: xd
+[Thu Aug 18 12:52:33 2016]  say: ^1Eminem: брат мастре
+[Thu Aug 18 12:52:34 2016]  say: ^1Eminem: мастер
+[Thu Aug 18 12:52:40 2016]  say: ^1Eminem: ну так а че я барменом работал
+[Thu Aug 18 12:52:43 2016]  say: ^1Eminem: я уж знаю)00
+[Thu Aug 18 12:52:53 2016]  say: ^0^^7ASAV^0^Sendrogro: t,f
+[Thu Aug 18 12:52:54 2016]  say: ^0^^7ASAV^0^Sendrogro: ебать
+[Thu Aug 18 12:52:58 2016]  say: ^0^^7ASAV^0^Sendrogro: боковой срейф
+[Thu Aug 18 12:53:00 2016]  say: ^0^^7ASAV^0^Sendrogro: стрейф*
+[Thu Aug 18 12:53:10 2016]  say: ^0^^7ASAV^0^Sendrogro: я сегодня так душевно посрал за гороажми
+[Thu Aug 18 12:53:14 2016]  say: ^0^^7ASAV^0^Sendrogro: тьфу блять
+[Thu Aug 18 12:53:16 2016]  say: ^0^^7ASAV^0^Sendrogro: гаражами
+[Thu Aug 18 12:53:16 2016]  say: ^1Eminem: ХПАХАХХАПХЕЗЗЩЦЙУЦУЦРЙУРУ
+[Thu Aug 18 12:53:24 2016]  say: ^1Eminem: фух
+[Thu Aug 18 12:53:25 2016]  say: ^1Eminem: ор
+[Thu Aug 18 12:53:30 2016]  say: ^0^^7ASAV^0^Sendrogro: не ну а че
+[Thu Aug 18 12:53:36 2016]  say: ^0^^7ASAV^0^Sendrogro: оно так стихийно ебашит
+[Thu Aug 18 12:53:38 2016]  say: ^0^^7ASAV^0^Sendrogro: то охота 
+[Thu Aug 18 12:53:38 2016]  say: ^1Eminem: Так что на счет своего сервера Мейкера?
+[Thu Aug 18 12:53:40 2016]  say: ^0^^7ASAV^0^Sendrogro: то нет
+[Thu Aug 18 12:53:47 2016]  say: ^0^^7ASAV^0^Sendrogro: все зависит от тебя
+[Thu Aug 18 12:53:55 2016]  say: ^1Eminem: Т_Т
+[Thu Aug 18 12:54:00 2016]  say: ^1Eminem: уйду я из лоа или нет?
+[Thu Aug 18 12:54:09 2016]  say: ^0^^7ASAV^0^Sendrogro: вот знаешь
+[Thu Aug 18 12:54:13 2016]  say: ^0^^7ASAV^0^Sendrogro: мне лично похуй
+[Thu Aug 18 12:54:14 2016]  say: ^0^^7ASAV^0^Sendrogro: где ты
+[Thu Aug 18 12:54:17 2016]  say: ^0^^7ASAV^0^Sendrogro: хоть в тнг
+[Thu Aug 18 12:54:18 2016]  say: ^1Eminem: другим нет
+[Thu Aug 18 12:54:21 2016]  say: ^1Eminem: я знаю
+[Thu Aug 18 12:54:22 2016]  say: ^0^^7ASAV^0^Sendrogro: а вот моим сокланам
+[Thu Aug 18 12:54:27 2016]  say: ^0^^7ASAV^0^Sendrogro: они доебустя
+[Thu Aug 18 12:54:30 2016]  say: ^0^^7ASAV^0^Sendrogro: мадара особенно
+[Thu Aug 18 12:54:30 2016]  say: ^1Eminem: кста я был в тнг 3 месяца
+[Thu Aug 18 12:54:32 2016]  say: ^1Eminem: потом ушел
+[Thu Aug 18 12:54:34 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Thu Aug 18 12:54:37 2016]  say: ^0^^7ASAV^0^Sendrogro: и как там?
+[Thu Aug 18 12:54:43 2016]  say: ^1Eminem: ой хацкеры одни
+[Thu Aug 18 12:54:47 2016]  say: ^1Eminem: мы с Т_1000 там были
+[Thu Aug 18 12:54:54 2016]  say: ^0^^7ASAV^0^Sendrogro: кстати
+[Thu Aug 18 12:54:59 2016]  say: ^0^^7ASAV^0^Sendrogro: косарь щее жив?
+[Thu Aug 18 12:55:01 2016]  say: ^0^^7ASAV^0^Sendrogro: еще?
+[Thu Aug 18 12:55:03 2016]  say: ^0^^7ASAV^0^Sendrogro: *****
+[Thu Aug 18 12:55:06 2016]  say: ^1Eminem: Он не играет
+[Thu Aug 18 12:55:12 2016]  say: ^0^^7ASAV^0^Sendrogro: рип лай вел
+[Thu Aug 18 12:55:23 2016]  say: ^1Eminem: Заходил месяц назад
+[Thu Aug 18 12:55:31 2016]  say: ^0^^7ASAV^0^Sendrogro: го ко мне
+[Thu Aug 18 12:55:33 2016]  say: ^0^^7ASAV^0^Sendrogro: домой
+[Thu Aug 18 12:55:35 2016]  say: ^0^^7ASAV^0^Sendrogro: на ркшу
+[Thu Aug 18 12:55:35 2016]  say: ^1Eminem: лан проехали на счет косаря
+[Thu Aug 18 12:55:39 2016]  say: ^0^^7ASAV^0^Sendrogro: крышу*
+[Thu Aug 18 12:55:43 2016]  say: ^1Eminem: крч
+[Thu Aug 18 12:55:46 2016]  say: ^0^^7ASAV^0^Sendrogro: как сесть?
+[Thu Aug 18 12:55:47 2016]  say: ^1Eminem: давай сделаем так
+[Thu Aug 18 12:55:57 2016]  say: ^1Eminem: я создам сервер, и ты скажешь что это ты сделал
+[Thu Aug 18 12:56:03 2016]  say: ^1Eminem: админку ты не будешь тут мне выдавать
+[Thu Aug 18 12:56:04 2016]  say: ^1Eminem: все
+[Thu Aug 18 12:56:07 2016]  say: ^1Eminem: в чем проблемы
+[Thu Aug 18 12:56:30 2016]  say: ^0^^7ASAV^0^Sendrogro: а в чем проблема быть в клане скрыто?
+[Thu Aug 18 12:56:32 2016]  say: ^1Eminem: скажеь ''ПОЧАНЫ, Я ТУТ ЗАМУТИЛ ВАМ МЕЙКЕР МОД СЕРВЕР''
+[Thu Aug 18 12:56:44 2016]  say: ^1Eminem: не буду я скрытно мультикланить
+[Thu Aug 18 12:56:54 2016]  say: ^0^^7ASAV^0^Sendrogro: я ща отойду быстренько
+[Thu Aug 18 12:56:57 2016]  say: ^1Eminem: ...
+[Thu Aug 18 12:57:02 2016]  say: ^0^^7ASAV^0^Sendrogro: меня курение зовет
+[Thu Aug 18 12:57:04 2016]  say: ^0^^7ASAV^0^Sendrogro: :D
+[Thu Aug 18 12:57:07 2016]  say: ^1Eminem: Ты походу меня даже не слушаешь
+[Thu Aug 18 12:57:13 2016]  say: ^0^^7ASAV^0^Sendrogro: слушаю
+[Thu Aug 18 12:57:14 2016]  say: ^0^^7ASAV^0^Sendrogro: офывжфывфыв
+[Thu Aug 18 12:57:15 2016]  say: ^1Eminem: давай иди
+[Thu Aug 18 12:57:17 2016]  say: ^0^^7ASAV^0^Sendrogro: оке
+[Thu Aug 18 12:57:19 2016]  say: ^0^^7ASAV^0^Sendrogro: пасяб
+[Thu Aug 18 12:58:10 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:58:12 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:58:14 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:58:16 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:58:18 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:58:20 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:58:27 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:58:29 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:58:53 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:58:56 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:58:57 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:58:59 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:59:03 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:59:05 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:59:07 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:59:07 2016]  Kill: 1022 0 0: <world> killed ^1Eminem by MOD_UNKNOWN
+[Thu Aug 18 12:59:12 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:59:13 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:59:13 2016]  Kill: 1022 0 0: <world> killed ^1Eminem by MOD_UNKNOWN
+[Thu Aug 18 12:59:23 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:59:25 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:59:27 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:59:27 2016]  Kill: 1022 0 0: <world> killed ^1Eminem by MOD_UNKNOWN
+[Thu Aug 18 12:59:36 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:59:39 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:59:41 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 12:59:41 2016]  Kill: 1022 1 0: <world> killed ^0^^7ASAV^0^Sendrogro by MOD_UNKNOWN
+[Thu Aug 18 13:03:53 2016]  say: ^0^^7ASAV^0^Sendrogro: тут
+[Thu Aug 18 13:04:04 2016]  say: ^1Eminem: Говори
+[Thu Aug 18 13:04:09 2016]  say: ^1Eminem: делаем или нет свой мейкер
+[Thu Aug 18 13:04:27 2016]  say: ^0^^7ASAV^0^Sendrogro: о остановись мнгоновенье
+[Thu Aug 18 13:04:31 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Thu Aug 18 13:04:39 2016]  say: ^0^^7ASAV^0^Sendrogro: я не противе
+[Thu Aug 18 13:04:43 2016]  say: ^0^^7ASAV^0^Sendrogro: не против
+[Thu Aug 18 13:04:48 2016]  say: ^1Eminem: боже ты меня слушаешь или нет
+[Thu Aug 18 13:04:52 2016]  say: ^0^^7ASAV^0^Sendrogro: да
+[Thu Aug 18 13:04:56 2016]  say: ^1Eminem: так слушай
+[Thu Aug 18 13:04:58 2016]  say: ^0^^7ASAV^0^Sendrogro: я прост не на той волне
+[Thu Aug 18 13:05:01 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Thu Aug 18 13:05:12 2016]  say: ^0^^7ASAV^0^Sendrogro: мой альфа ритм головного мозга сместился
+[Thu Aug 18 13:05:16 2016]  say: ^1Eminem: Я не буду вступать в клан, ты мне дашь логин пароль от хоста, я поставлю мейкер, и ты скажешь что это ты поставил мейкер
+[Thu Aug 18 13:05:34 2016]  say: ^0^^7ASAV^0^Sendrogro: попахивает фурией
+[Thu Aug 18 13:05:36 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Thu Aug 18 13:05:38 2016]  say: ^1Eminem: всм?
+[Thu Aug 18 13:05:48 2016]  say: ^1Eminem: Типа я шпион?
+[Thu Aug 18 13:05:50 2016]  say: ^0^^7ASAV^0^Sendrogro: чет я это воспринял как приказ
+[Thu Aug 18 13:05:56 2016]  say: ^1Eminem: ооуу
+[Thu Aug 18 13:05:57 2016]  say: ^1Eminem: ясно
+[Thu Aug 18 13:06:04 2016]  say: ^1Eminem: давай отризвей потом тогда поговорим
+[Thu Aug 18 13:06:08 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Thu Aug 18 13:06:13 2016]  say: ^0^^7ASAV^0^Sendrogro: тогда будет поздно
+[Thu Aug 18 13:06:23 2016]  say: ^1Eminem: ну все, значит не делаем свой мейкер
+[Thu Aug 18 13:06:27 2016]  say: ^0^^7ASAV^0^Sendrogro: фплфэпф
+[Thu Aug 18 13:06:51 2016]  say: ^1Eminem: Ты походу помешен на фурии
+[Thu Aug 18 13:06:54 2016]  say: ^0^^7ASAV^0^Sendrogro: обещаешь что захуряим что то
+[Thu Aug 18 13:06:55 2016]  say: ^1Eminem: везде видишь ее
+[Thu Aug 18 13:07:01 2016]  say: ^0^^7ASAV^0^Sendrogro: что будет просто охуенно
+[Thu Aug 18 13:07:03 2016]  say: ^0^^7ASAV^0^Sendrogro: е
+[Thu Aug 18 13:07:10 2016]  say: ^0^^7ASAV^0^Sendrogro: зачем мне на ней мешаться?
+[Thu Aug 18 13:07:15 2016]  say: ^0^^7ASAV^0^Sendrogro: я ебу руки
+[Thu Aug 18 13:07:19 2016]  say: ^0^^7ASAV^0^Sendrogro: зачем мне фурия?
+[Thu Aug 18 13:07:21 2016]  say: ^1Eminem: красава
+[Thu Aug 18 13:07:23 2016]  say: ^1Eminem: xD
+[Thu Aug 18 13:07:26 2016]  say: ^0^^7ASAV^0^Sendrogro: xD
+[Thu Aug 18 13:07:41 2016]  say: ^0^^7ASAV^0^Sendrogro: тогда
+[Thu Aug 18 13:07:42 2016]  say: ^0^^7ASAV^0^Sendrogro: крч
+[Thu Aug 18 13:07:46 2016]  say: ^0^^7ASAV^0^Sendrogro: конфиг подправим
+[Thu Aug 18 13:07:49 2016]  say: ^0^^7ASAV^0^Sendrogro: на бейс сервере
+[Thu Aug 18 13:07:52 2016]  say: ^0^^7ASAV^0^Sendrogro: поможешь?
+[Thu Aug 18 13:07:59 2016]  say: ^1Eminem: ВЗАВАФАХАХХА
+[Thu Aug 18 13:08:03 2016]  say: ^0^^7ASAV^0^Sendrogro: ?
+[Thu Aug 18 13:08:03 2016]  say: ^1Eminem: ты хочешь из бейса сделать мейкер?
+[Thu Aug 18 13:08:07 2016]  say: ^0^^7ASAV^0^Sendrogro: нет
+[Thu Aug 18 13:08:10 2016]  say: ^1Eminem: аа
+[Thu Aug 18 13:08:11 2016]  say: ^0^^7ASAV^0^Sendrogro: просто попутно
+[Thu Aug 18 13:08:13 2016]  say: ^1Eminem: ну тогда да
+[Thu Aug 18 13:08:15 2016]  say: ^0^^7ASAV^0^Sendrogro: сделать нужные вещи
+[Thu Aug 18 13:08:21 2016]  say: ^1Eminem: охохо
+[Thu Aug 18 13:08:24 2016]  say: ^1Eminem: тоесть ты мне не доверяешь
+[Thu Aug 18 13:08:29 2016]  say: ^1Eminem: ааа 
+[Thu Aug 18 13:08:30 2016]  say: ^0^^7ASAV^0^Sendrogro: чево
+[Thu Aug 18 13:08:35 2016]  say: ^0^^7ASAV^0^Sendrogro: ты накуриля
+[Thu Aug 18 13:08:36 2016]  say: ^0^^7ASAV^0^Sendrogro: лся
+[Thu Aug 18 13:08:48 2016]  say: ^0^^7ASAV^0^Sendrogro: я тебе говорю план действий блять
+[Thu Aug 18 13:08:52 2016]  say: ^0^^7ASAV^0^Sendrogro: а не то чтон е доверяю
+[Thu Aug 18 13:08:59 2016]  say: ^1Eminem: ладно
+[Thu Aug 18 13:09:03 2016]  say: ^0^^7ASAV^0^Sendrogro: если бы не доверял
+[Thu Aug 18 13:09:07 2016]  say: ^0^^7ASAV^0^Sendrogro: яб тебе хуй че далц
+[Thu Aug 18 13:09:17 2016]  say: ^0^^7ASAV^0^Sendrogro: что тебе нужно?
+[Thu Aug 18 13:09:26 2016]  say: ^0^^7ASAV^0^Sendrogro: и ток давай без шуточек :D
+[Thu Aug 18 13:09:33 2016]  say: ^0^^7ASAV^0^Sendrogro: а то  я тебя знаю
+[Thu Aug 18 13:09:37 2016]  say: ^0^^7ASAV^0^Sendrogro: слишком долго
+[Thu Aug 18 13:09:38 2016]  say: ^0^^7ASAV^0^Sendrogro: :D
+[Thu Aug 18 13:09:50 2016]  say: ^1Eminem: всм что мне нужно?
+[Thu Aug 18 13:10:02 2016]  say: ^0^^7ASAV^0^Sendrogro: rcon вся хуйня
+[Thu Aug 18 13:10:11 2016]  say: ^1Eminem: каарт
+[Thu Aug 18 13:10:14 2016]  say: ^0^^7ASAV^0^Sendrogro: ?
+[Thu Aug 18 13:10:19 2016]  say: ^1Eminem: запомни, того вордена долбаеба больше нет
+[Thu Aug 18 13:10:27 2016]  say: ^0^^7ASAV^0^Sendrogro: о
+[Thu Aug 18 13:10:32 2016]  say: ^0^^7ASAV^0^Sendrogro: я до старости запомню
+[Thu Aug 18 13:10:35 2016]  say: ^0^^7ASAV^0^Sendrogro: точнее
+[Thu Aug 18 13:10:39 2016]  say: ^0^^7ASAV^0^Sendrogro: пока ты не сьебешь с джка
+[Thu Aug 18 13:10:51 2016]  say: ^1Eminem: бля нахуй я сказал это
+[Thu Aug 18 13:10:55 2016]  say: ^1Eminem: ':D
+[Thu Aug 18 13:10:55 2016]  say: ^0^^7ASAV^0^Sendrogro: )
+[Thu Aug 18 13:10:59 2016]  say: ^1Eminem: Да нет
+[Thu Aug 18 13:11:01 2016]  say: ^1Eminem: реально
+[Thu Aug 18 13:11:07 2016]  say: ^1Eminem: я сейчас мб чуть серьезнее
+[Thu Aug 18 13:11:22 2016]  say: ^0^^7ASAV^0^Sendrogro: тогда отлично хомчик
+[Thu Aug 18 13:11:23 2016]  say: ^1Eminem: Хотяб не вру тогда
+[Thu Aug 18 13:11:29 2016]  say: ^1Eminem: как тогда*
+[Thu Aug 18 13:11:32 2016]  say: ^0^^7ASAV^0^Sendrogro: кстати
+[Thu Aug 18 13:11:33 2016]  say: ^1Eminem: диджей и вся хуйня
+[Thu Aug 18 13:11:36 2016]  say: ^1Eminem: ась
+[Thu Aug 18 13:11:37 2016]  say: ^0^^7ASAV^0^Sendrogro: почему я тебе вею
+[Thu Aug 18 13:11:41 2016]  say: ^0^^7ASAV^0^Sendrogro: верю
+[Thu Aug 18 13:11:45 2016]  say: ^0^^7ASAV^0^Sendrogro: потому что сам был таким
+[Thu Aug 18 13:11:49 2016]  say: ^0^^7ASAV^0^Sendrogro: :#
+[Thu Aug 18 13:11:54 2016]  say: ^1Eminem: :>
+[Thu Aug 18 13:12:00 2016]  say: ^1Eminem: так на чем остановились
+[Thu Aug 18 13:12:04 2016]  say: ^0^^7ASAV^0^Sendrogro: rcon
+[Thu Aug 18 13:12:09 2016]  say: ^1Eminem: Не ркон надо
+[Thu Aug 18 13:12:12 2016]  say: ^0^^7ASAV^0^Sendrogro: фулл доступ к серву
+[Thu Aug 18 13:13:55 2016]  Kill: 1022 1 38: <world> killed ^0^^7ASAV^0^Sendrogro by MOD_FALLING
+[Thu Aug 18 13:15:36 2016]  ClientDisconnect: 0
+[Thu Aug 18 13:19:05 2016]  ClientConnect: 0
+[Thu Aug 18 13:19:05 2016]  mlog:Player Worden, connected. With IP - 178.206.56.72:29070 
+[Thu Aug 18 13:19:23 2016]  ClientBegin: 0
+[Thu Aug 18 13:19:27 2016]  say: ^1Eminem: тут?
+[Thu Aug 18 13:19:37 2016]  say: ^1Eminem: картир
+[Thu Aug 18 13:19:41 2016]  say: ^1Eminem: картэр
+[Thu Aug 18 13:19:46 2016]  say: ^1Eminem: картер
+[Thu Aug 18 13:19:52 2016]  say: ^0^^7ASAV^0^Sendrogro: da?
+[Thu Aug 18 13:19:53 2016]  say: ^1Eminem: ДЖОУН КАРТЕР
+[Thu Aug 18 13:19:55 2016]  say: ^1Eminem: а ты тут
+[Thu Aug 18 13:19:56 2016]  say: ^1Eminem: крч
+[Thu Aug 18 13:19:57 2016]  say: ^1Eminem: ^1Watch Out!
+[Thu Aug 18 13:20:16 2016]  say: ^1Eminem: надо пароль и логин от хоста, чтоб я мог зайти и поставить сервер
+[Thu Aug 18 13:20:31 2016]  say: ^1Eminem: еще скажи ты их не знаешь
+[Thu Aug 18 13:20:34 2016]  say: ^0^^7ASAV^0^Sendrogro: мп наебнул?????
+[Thu Aug 18 13:20:39 2016]  say: ^1Eminem: чо?
+[Thu Aug 18 13:20:56 2016]  say: ^0^^7ASAV^0^Sendrogro: тпфыжптфыжпфывп
+[Thu Aug 18 13:21:00 2016]  say: ^0^^7ASAV^0^Sendrogro: 1 фпс
+[Thu Aug 18 13:21:02 2016]  say: ^1Eminem: +
+[Thu Aug 18 13:21:15 2016]  say: ^1Eminem: го в вк лучше
+[Thu Aug 18 13:21:22 2016]  say: ^1Eminem: мне тут страшно
+[Thu Aug 18 13:21:23 2016]  say: ^0^^7ASAV^0^Sendrogro: 1 фпс был
+[Thu Aug 18 13:21:34 2016]  say: ^0^^7ASAV^0^Sendrogro: я тут думаю
+[Thu Aug 18 13:21:37 2016]  say: ^0^^7ASAV^0^Sendrogro: клан ренеймнуть
+[Thu Aug 18 13:21:43 2016]  say: ^0^^7ASAV^0^Sendrogro: от старого котра ничего не осталось
+[Thu Aug 18 13:21:50 2016]  say: ^0^^7ASAV^0^Sendrogro: AFR
+[Thu Aug 18 13:21:56 2016]  say: ^1Eminem: ой лучше не надо
+[Thu Aug 18 13:21:58 2016]  say: ^0^^7ASAV^0^Sendrogro: All For Russian
+[Thu Aug 18 13:22:14 2016]  say: ^0^^7ASAV^0^Sendrogro: че
+[Thu Aug 18 13:22:16 2016]  say: ^1Eminem: на LoA смахивает
+[Thu Aug 18 13:22:22 2016]  say: ^0^^7ASAV^0^Sendrogro: .-.
+[Thu Aug 18 13:22:29 2016]  say: ^1Eminem: Last of all
+[Thu Aug 18 13:22:39 2016]  say: ^0^^7ASAV^0^Sendrogro: нуок
+[Thu Aug 18 13:22:46 2016]  say: ^0^^7ASAV^0^Sendrogro: подожду пока они сдохнут
+[Thu Aug 18 13:22:51 2016]  say: ^0^^7ASAV^0^Sendrogro: тогда и сделаю
+[Thu Aug 18 13:22:52 2016]  say: ^1Eminem: ну та что
+[Thu Aug 18 13:22:55 2016]  say: ^0^^7ASAV^0^Sendrogro: так че
+[Thu Aug 18 13:22:56 2016]  say: ^1Eminem: я жрать хочу прост
+[Thu Aug 18 13:22:59 2016]  say: ^0^^7ASAV^0^Sendrogro: ща все скину
+[Thu Aug 18 13:23:02 2016]  say: ^1Eminem: стой
+[Thu Aug 18 13:23:05 2016]  say: ^1Eminem: не сюда главное
+[Thu Aug 18 13:23:27 2016]  Kill: 1022 0 38: <world> killed ^1Eminem by MOD_FALLING
+[Thu Aug 18 13:26:31 2016]  say: ^0^^7ASAV^0^Sendrogro: 0
+[Thu Aug 18 13:37:32 2016]  say: ^0^^7ASAV^0^Sendrogro:  
+[Thu Aug 18 13:39:00 2016]  ClientDisconnect: 1
+[Thu Aug 18 13:56:53 2016]  ClientConnect: 1
+[Thu Aug 18 13:56:53 2016]  mlog:Player ^6^^0Savage^1<3^6^^03sl, connected. With IP - 93.100.5.72:29070 
+[Thu Aug 18 13:57:14 2016]  ClientBegin: 1
+[Thu Aug 18 13:57:24 2016]  say: ^1T0PSKIY ^5PAVEL: preved
+[Thu Aug 18 13:57:28 2016]  say: ^1Eminem: o hi
+[Thu Aug 18 13:57:34 2016]  say: ^1Eminem: gde garter
+[Thu Aug 18 13:57:42 2016]  say: ^1T0PSKIY ^5PAVEL: ya che znayu
+[Thu Aug 18 13:57:49 2016]  say: ^1Eminem: blya on bil tut min 3 nazad
+[Thu Aug 18 13:57:54 2016]  say: ^1Eminem: mi naigralis' uje
+[Thu Aug 18 13:58:03 2016]  say: ^1Eminem: on poshel delat' svoy server
+[Thu Aug 18 13:58:05 2016]  say: ^1T0PSKIY ^5PAVEL: y tebya netu ego kontaktov?
+[Thu Aug 18 13:58:09 2016]  say: ^1T0PSKIY ^5PAVEL: aaa
+[Thu Aug 18 13:58:10 2016]  say: ^1Eminem: est
+[Thu Aug 18 13:58:11 2016]  say: ^1T0PSKIY ^5PAVEL: makermoda?
+[Thu Aug 18 13:58:13 2016]  say: ^1Eminem: da
+[Thu Aug 18 13:58:22 2016]  say: ^1T0PSKIY ^5PAVEL: ya emu kstati predlagal
+[Thu Aug 18 13:58:32 2016]  say: ^1Eminem: go pokaju svoy script
+[Thu Aug 18 13:58:38 2016]  say: ^1Eminem: vchera v 3 chasa nochi dodelal ego
+[Thu Aug 18 13:58:45 2016]  say: ^1T0PSKIY ^5PAVEL: dovaty
+[Thu Aug 18 13:58:49 2016]  say: ^1Eminem: napisih /msayorigin
+[Thu Aug 18 13:58:53 2016]  say: ^1T0PSKIY ^5PAVEL: My origin is: (-18198 -5362 1692) - You can teleport here with /mtelelast
+
+[Thu Aug 18 13:59:00 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:03 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:05 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:07 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:13 2016]  say: ^1Eminem: on gliuchit
+[Thu Aug 18 13:59:13 2016]  say: ^1T0PSKIY ^5PAVEL: no on ne domajet
+[Thu Aug 18 13:59:14 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:18 2016]  say: ^1Eminem: stoi na meste
+[Thu Aug 18 13:59:20 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:22 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:23 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:23 2016]  Kill: 1022 0 0: <world> killed ^1Eminem by MOD_UNKNOWN
+[Thu Aug 18 13:59:25 2016]  say: ^1Eminem: aahahah
+[Thu Aug 18 13:59:26 2016]  say: ^1Eminem: HAHSDJKWHJKDWA
+[Thu Aug 18 13:59:27 2016]  say: ^1T0PSKIY ^5PAVEL: :DD
+[Thu Aug 18 13:59:27 2016]  say: ^1Eminem: hAHAHAHA
+[Thu Aug 18 13:59:35 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:37 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:40 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:42 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:43 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:45 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:46 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:46 2016]  Kill: 1022 0 0: <world> killed ^1Eminem by MOD_UNKNOWN
+[Thu Aug 18 13:59:51 2016]  say: ^1Eminem: da ebaniy
+[Thu Aug 18 13:59:57 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 13:59:59 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:01 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:03 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:06 2016]  say: ^1Eminem: kakogo
+[Thu Aug 18 14:00:09 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:09 2016]  Kill: 1022 1 0: <world> killed ^1T0PSKIY ^5PAVEL by MOD_UNKNOWN
+[Thu Aug 18 14:00:10 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:11 2016]  say: ^1Eminem: o
+[Thu Aug 18 14:00:18 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:20 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:22 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:24 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:25 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:27 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:28 2016]  say: ^1T0PSKIY ^5PAVEL: battlefront
+[Thu Aug 18 14:00:28 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:29 2016]  say: ^1T0PSKIY ^5PAVEL: upal je
+[Thu Aug 18 14:00:30 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:31 2016]  say: ^1T0PSKIY ^5PAVEL: ?
+[Thu Aug 18 14:00:31 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:35 2016]  say: ^1Eminem: ne znaiu
+[Thu Aug 18 14:00:36 2016]  say: ^1T0PSKIY ^5PAVEL: god nazad
+[Thu Aug 18 14:00:37 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:39 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:00:39 2016]  Kill: 1022 0 0: <world> killed ^1Eminem by MOD_UNKNOWN
+[Thu Aug 18 14:00:40 2016]  say: ^1T0PSKIY ^5PAVEL: gde ta
+[Thu Aug 18 14:00:48 2016]  say: ^1Eminem: dai svoy vk
+[Thu Aug 18 14:00:55 2016]  say: ^1T0PSKIY ^5PAVEL: /fuckenmlg
+[Thu Aug 18 14:00:55 2016]  say: ^1Eminem: mi besedu sozdadim
+[Thu Aug 18 14:01:00 2016]  say: ^1Eminem: makermodik
+[Thu Aug 18 14:01:38 2016]  Kill: 1 0 3: ^1T0PSKIY ^5PAVEL killed ^1Eminem by MOD_SABER
+[Thu Aug 18 14:01:53 2016]  say: ^1Eminem: lan poidu pomogu carteru s serverom
+[Thu Aug 18 14:02:05 2016]  say: ^1T0PSKIY ^5PAVEL: ti sharish ? 
+
+[Thu Aug 18 14:04:09 2016]  say: ^1Eminem: вф
+[Thu Aug 18 14:04:10 2016]  say: ^1Eminem: da
+[Thu Aug 18 14:04:23 2016]  say: ^1Eminem: картера позвать тебе?
+[Thu Aug 18 14:04:28 2016]  say: ^1Eminem: kartera pozvat' tebe?
+[Thu Aug 18 14:04:28 2016]  say: ^1T0PSKIY ^5PAVEL: mojno
+[Thu Aug 18 14:04:39 2016]  say: ^1T0PSKIY ^5PAVEL: no ya hz
+[Thu Aug 18 14:04:46 2016]  say: ^1T0PSKIY ^5PAVEL: ya v principe nicho ne delayu
+[Thu Aug 18 14:05:00 2016]  say: ^1T0PSKIY ^5PAVEL: ehhh
+[Thu Aug 18 14:05:03 2016]  say: ^1T0PSKIY ^5PAVEL: shas bi 20 chelovek
+[Thu Aug 18 14:05:08 2016]  say: ^1Eminem: +
+[Thu Aug 18 14:05:13 2016]  say: ^1T0PSKIY ^5PAVEL: ti igral ranshe?
+[Thu Aug 18 14:05:14 2016]  say: ^1Eminem: он пьян в стельку
+[Thu Aug 18 14:05:19 2016]  say: ^1Eminem: ща плутона позовет
+[Thu Aug 18 14:05:19 2016]  say: ^1T0PSKIY ^5PAVEL: :DDD
+[Thu Aug 18 14:05:22 2016]  say: ^1Eminem: даа
+[Thu Aug 18 14:05:28 2016]  say: ^1Eminem: мы с фуриоусом начили играть
+[Thu Aug 18 14:05:43 2016]  Kill: 1 0 3: ^1T0PSKIY ^5PAVEL killed ^1Eminem by MOD_SABER
+[Thu Aug 18 14:13:05 2016]  ClientConnect: 2
+[Thu Aug 18 14:13:05 2016]  mlog:Player Lamer-Man, connected. With IP - 59.101.121.150:29070 
+[Thu Aug 18 14:13:56 2016]  ClientBegin: 2
+[Thu Aug 18 14:14:16 2016]  say: Tashy P: wow
+[Thu Aug 18 14:14:18 2016]  Kill: 2 0 3: Tashy P killed ^1Eminem by MOD_SABER
+[Thu Aug 18 14:15:14 2016]  say: Tashy P: :(
+[Thu Aug 18 14:15:27 2016]  say: Tashy P: yellow force :O
+[Thu Aug 18 14:15:45 2016]  say: Tashy P: very cooool
+[Thu Aug 18 14:16:34 2016]  Kill: 1 2 31: ^1T0PSKIY ^5PAVEL killed Tashy P by MOD_FORCE_DARK
+[Thu Aug 18 14:17:04 2016]  Kill: 1022 1 2: <world> killed ^1T0PSKIY ^5PAVEL by MOD_MELEE
+[Thu Aug 18 14:17:09 2016]  say: Tashy P: LOL
+[Thu Aug 18 14:17:49 2016]  Kill: 2 0 10: Tashy P killed ^1Eminem by MOD_DISRUPTOR_SNIPER
+[Thu Aug 18 14:20:52 2016]  say: ^1T0PSKIY ^5PAVEL: the fuck
+[Thu Aug 18 14:20:57 2016]  say: Tashy P: ahha
+[Thu Aug 18 14:22:04 2016]  say: ^1Eminem: Tashy ti hto?
+[Thu Aug 18 14:22:08 2016]  say: Tashy P: xD
+[Thu Aug 18 14:22:14 2016]  say: ^1T0PSKIY ^5PAVEL: anglichanin
+[Thu Aug 18 14:22:15 2016]  say: ^1Eminem: Nikita ti?
+[Thu Aug 18 14:22:20 2016]  say: ^1Eminem: aa
+[Thu Aug 18 14:22:25 2016]  say: Tashy P: nakiata pabloveski!
+[Thu Aug 18 14:22:27 2016]  say: ^1Eminem: Tashy privet 
+[Thu Aug 18 14:22:30 2016]  say: Tashy P: dis comrade quits!
+[Thu Aug 18 14:22:36 2016]  say: Tashy P: cyka blyat
+[Thu Aug 18 14:22:36 2016]  say: ^1Eminem: tashy 
+[Thu Aug 18 14:22:38 2016]  say: Tashy P: aioeaoieao 
+[Thu Aug 18 14:22:39 2016]  say: ^1Eminem: cyka blyat
+[Thu Aug 18 14:22:39 2016]  say: Tashy P: xD
+[Thu Aug 18 14:22:46 2016]  say: Tashy P: eminem
+[Thu Aug 18 14:22:46 2016]  say: ^1Eminem: pritvet = hi
+[Thu Aug 18 14:22:49 2016]  say: ^1Eminem: what
+[Thu Aug 18 14:22:52 2016]  say: Tashy P: cyka bylat haha
+[Thu Aug 18 14:22:52 2016]  say: ^1Eminem: privet*
+[Thu Aug 18 14:22:54 2016]  say: Tashy P: oh
+[Thu Aug 18 14:22:57 2016]  say: Tashy P: lol hi :)
+[Thu Aug 18 14:23:03 2016]  say: Tashy P: privet :)
+[Thu Aug 18 14:23:04 2016]  say: ^1Eminem: how are you?
+[Thu Aug 18 14:23:09 2016]  say: Tashy P: im good thanks :) you?
+[Thu Aug 18 14:23:14 2016]  say: ^1Eminem: super fine
+[Thu Aug 18 14:23:15 2016]  say: ^1Eminem: :>
+[Thu Aug 18 14:23:21 2016]  say: Tashy P: good man :D
+[Thu Aug 18 14:23:24 2016]  say: ^1Eminem: :D
+[Thu Aug 18 14:23:27 2016]  say: ^1Eminem: afk 10 min
+[Thu Aug 18 14:23:30 2016]  say: Tashy P: sure
+[Thu Aug 18 14:24:49 2016]  say: ^1T0PSKIY ^5PAVEL: ????????
+[Thu Aug 18 14:25:22 2016]  say: ^1Eminem: ya sha vernus'
+[Thu Aug 18 14:25:23 2016]  say: ^1Eminem: brb
+[Thu Aug 18 14:25:25 2016]  ClientDisconnect: 0
+[Thu Aug 18 14:26:31 2016]  say: ^1T0PSKIY ^5PAVEL: how to reset binds to default?
+[Thu Aug 18 14:26:42 2016]  tell: Tashy P to ^1T0PSKIY ^5PAVEL: /unbind all
+[Thu Aug 18 14:26:48 2016]  say: ^1T0PSKIY ^5PAVEL: to default
+[Thu Aug 18 14:26:51 2016]  say: Tashy P: /unbind all
+[Thu Aug 18 14:26:51 2016]  say: ^1T0PSKIY ^5PAVEL: not unbind all
+[Thu Aug 18 14:26:53 2016]  say: Tashy P: oh
+[Thu Aug 18 14:26:56 2016]  say: Tashy P: not sure sry
+[Thu Aug 18 14:27:52 2016]  say: ^1T0PSKIY ^5PAVEL: you know how to give all weapon without jetpack
+[Thu Aug 18 14:28:01 2016]  say: Tashy P: no
+[Thu Aug 18 14:29:00 2016]  say: ^1T0PSKIY ^5PAVEL: oawww
+[Thu Aug 18 14:29:07 2016]  say: ^1T0PSKIY ^5PAVEL: tell me command pleaase
+[Thu Aug 18 14:29:08 2016]  say: Tashy P: lol
+[Thu Aug 18 14:29:15 2016]  say: Tashy P: fir what?
+[Thu Aug 18 14:29:20 2016]  say: ^1T0PSKIY ^5PAVEL: for red swoop
+[Thu Aug 18 14:29:35 2016]  say: Tashy P: oh r_prim -5
+[Thu Aug 18 14:29:59 2016]  say: ^1T0PSKIY ^5PAVEL: ^6T^5arget low
+[Thu Aug 18 14:30:05 2016]  ClientDisconnect: 1
+[Thu Aug 18 14:30:27 2016]  ClientConnect: 0
+[Thu Aug 18 14:30:27 2016]  mlog:Player ^6^^0Savage^1<3^6^^03sl, connected. With IP - 93.100.5.72:29070 
+[Thu Aug 18 14:30:46 2016]  ClientBegin: 0
+[Thu Aug 18 14:30:55 2016]  ClientDisconnect: 0
+[Thu Aug 18 14:31:06 2016]  ClientConnect: 0
+[Thu Aug 18 14:31:06 2016]  mlog:Player ^1Eminem, connected. With IP - 178.206.56.72:29070 
+[Thu Aug 18 14:31:17 2016]  ClientBegin: 0
+[Thu Aug 18 14:31:21 2016]  Kill: 2 0 27: Tashy P killed ^1Eminem by MOD_DET_PACK_SPLASH
+[Thu Aug 18 14:31:24 2016]  say: Tashy P: LMAO
+[Thu Aug 18 14:31:26 2016]  say: ^1Eminem: srsly...
+[Thu Aug 18 14:31:35 2016]  say: Tashy P: yes xD
+[Thu Aug 18 14:31:46 2016]  say: ^1Eminem: look
+[Thu Aug 18 14:31:47 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:31:48 2016]  ClientConnect: 1
+[Thu Aug 18 14:31:48 2016]  mlog:Player ^6^^0Savage^1<3^6^^03sl, connected. With IP - 93.100.5.72:29070 
+[Thu Aug 18 14:31:52 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:31:52 2016]  say: Tashy P: what?
+[Thu Aug 18 14:31:54 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:31:55 2016]  say: Tashy P: whooooa
+[Thu Aug 18 14:31:58 2016]  say: Tashy P: very cool
+[Thu Aug 18 14:31:59 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:32:04 2016]  say: Tashy P: how you do that
+[Thu Aug 18 14:32:07 2016]  ClientBegin: 1
+[Thu Aug 18 14:32:08 2016]  say: Tashy P: yhang on
+[Thu Aug 18 14:32:08 2016]  say: ^1Eminem: its script
+[Thu Aug 18 14:32:10 2016]  say: ^1T0PSKIY ^5PAVEL: not funny
+[Thu Aug 18 14:32:13 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:32:13 2016]  say: Tashy P: let me record it pls? :)
+[Thu Aug 18 14:32:14 2016]  say: ^1T0PSKIY ^5PAVEL: ((
+[Thu Aug 18 14:32:19 2016]  say: ^1Eminem: go
+[Thu Aug 18 14:32:20 2016]  say: ^1T0PSKIY ^5PAVEL: retard
+[Thu Aug 18 14:32:20 2016]  say: Tashy P: wait
+[Thu Aug 18 14:32:22 2016]  say: ^1Eminem: rdy?
+[Thu Aug 18 14:32:33 2016]  say: ^1Eminem: ?
+[Thu Aug 18 14:32:35 2016]  tell: ^1T0PSKIY ^5PAVEL to ^1Eminem: on menya zatrolel((
+[Thu Aug 18 14:32:40 2016]  tell: ^1Eminem to ^1T0PSKIY ^5PAVEL: zazaza
+[Thu Aug 18 14:32:41 2016]  tell: ^1T0PSKIY ^5PAVEL to ^1Eminem: r_pri -5
+[Thu Aug 18 14:32:41 2016]  say: Tashy P: ok go
+[Thu Aug 18 14:32:48 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:32:50 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:32:52 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:32:53 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:32:55 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:32:57 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:32:59 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:33:01 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:33:02 2016]  say: Tashy P: haha sweet
+[Thu Aug 18 14:33:10 2016]  tell: Tashy P to ^1T0PSKIY ^5PAVEL: hahahah
+[Thu Aug 18 14:33:14 2016]  say: ^1T0PSKIY ^5PAVEL: ((((((((((((((((
+[Thu Aug 18 14:33:19 2016]  say: Tashy P: sorry :P
+[Thu Aug 18 14:33:23 2016]  say: Tashy P: i couldnt resist
+[Thu Aug 18 14:33:23 2016]  say: ^1T0PSKIY ^5PAVEL: fuk u
+[Thu Aug 18 14:33:27 2016]  say: Tashy P: xD
+[Thu Aug 18 14:33:30 2016]  say: Tashy P: no u!
+[Thu Aug 18 14:33:43 2016]  say: Tashy P: ok really
+[Thu Aug 18 14:33:47 2016]  say: Tashy P: yill tell you
+[Thu Aug 18 14:33:55 2016]  say: Tashy P: but first you tell me how to be empowered
+[Thu Aug 18 14:34:02 2016]  tell: ^1T0PSKIY ^5PAVEL to Tashy P: stop it
+[Thu Aug 18 14:34:08 2016]  tell: ^1T0PSKIY ^5PAVEL to Tashy P: mempower
+[Thu Aug 18 14:34:12 2016]  tell: Tashy P to ^1T0PSKIY ^5PAVEL: stop what?
+[Thu Aug 18 14:34:15 2016]  tell: ^1T0PSKIY ^5PAVEL to Tashy P: trolling
+[Thu Aug 18 14:34:21 2016]  tell: Tashy P to ^1T0PSKIY ^5PAVEL: hehe ok
+[Thu Aug 18 14:34:45 2016]  tell: Tashy P to ^1T0PSKIY ^5PAVEL: npc spawn vehicle swoop_mp
+[Thu Aug 18 14:34:56 2016]  say: Tashy P: but 1st 
+[Thu Aug 18 14:34:58 2016]  say: Tashy P: come here
+[Thu Aug 18 14:35:02 2016]  say: ^1T0PSKIY ^5PAVEL: ty
+[Thu Aug 18 14:35:05 2016]  say: Tashy P: lol 
+[Thu Aug 18 14:35:09 2016]  say: Tashy P: put absorb on
+[Thu Aug 18 14:35:20 2016]  say: Tashy P: now shoot lightning at me
+[Thu Aug 18 14:35:49 2016]  say: Tashy P: haha unlimited LIGHTNING
+[Thu Aug 18 14:36:05 2016]  say: ^1T0PSKIY ^5PAVEL: already unlimited
+[Thu Aug 18 14:36:14 2016]  say: Tashy P: oh wow it is lol
+[Thu Aug 18 14:36:33 2016]  say: Tashy P: look
+[Thu Aug 18 14:42:09 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:42:12 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:42:16 2016]  say: Tashy P: lol!
+[Thu Aug 18 14:42:32 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:42:35 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:42:41 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:42:43 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:42:44 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:42:47 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:42:47 2016]  say: Tashy P: pls teach me
+[Thu Aug 18 14:42:48 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:42:55 2016]  say: ^1Eminem: its so hard
+[Thu Aug 18 14:42:59 2016]  say: Tashy P: aww :(
+[Thu Aug 18 14:43:08 2016]  say: Tashy P: its cool you learnt how to do it tho :D
+[Thu Aug 18 14:44:48 2016]  say: ^1T0PSKIY ^5PAVEL: wtf explosives
+[Thu Aug 18 14:45:47 2016]  say: Tashy P: lol!
+[Thu Aug 18 14:48:58 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:49:00 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:49:01 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:49:04 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:49:06 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:49:08 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:49:10 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:49:11 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:49:12 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:49:12 2016]  Kill: 1022 0 0: <world> killed ^1Eminem by MOD_UNKNOWN
+[Thu Aug 18 14:49:14 2016]  say: ^1Eminem: ^0H^1@^0D^1oO^0KEN^1!
+[Thu Aug 18 14:49:16 2016]  say: Tashy P: haha
+[Thu Aug 18 14:49:19 2016]  say: ^1T0PSKIY ^5PAVEL: how to spawn imperial turret 
+[Thu Aug 18 14:49:21 2016]  say: Tashy P: eat them my pets
+[Thu Aug 18 14:49:21 2016]  Kill: 1022 1 2: <world> killed ^1T0PSKIY ^5PAVEL by MOD_MELEE
+[Thu Aug 18 14:49:44 2016]  say: Tashy P: 1st he will eat you
+[Thu Aug 18 14:49:46 2016]  Kill: 1022 1 2: <world> killed ^1T0PSKIY ^5PAVEL by MOD_MELEE
+[Thu Aug 18 14:49:48 2016]  say: Tashy P: hahaha
+[Thu Aug 18 14:50:16 2016]  Kill: 2 0 3: Tashy P killed ^1Eminem by MOD_SABER
+[Thu Aug 18 14:53:29 2016]  say: ^1T0PSKIY ^5PAVEL: blya mne nujna strelyayushaya pushka
+[Thu Aug 18 14:54:11 2016]  Kill: 2 2 39: Tashy P killed Tashy P by MOD_SUICIDE
+[Thu Aug 18 14:54:11 2016]  setteam:  2 FREE SPECTATOR
+[Thu Aug 18 14:54:11 2016]  ClientBegin: 2
+[Thu Aug 18 14:54:36 2016]  setteam:  2 SPECTATOR FREE
+[Thu Aug 18 14:54:36 2016]  ClientBegin: 2
+[Thu Aug 18 14:55:09 2016]  say: Tashy P: minfo admin
+[Thu Aug 18 14:56:20 2016]  say: ^1T0PSKIY ^5PAVEL: ?
+[Thu Aug 18 14:56:26 2016]  say: Tashy P: wondered where you were lol
+[Thu Aug 18 14:56:49 2016]  say: Tashy P: eat him eat him
+[Thu Aug 18 14:56:54 2016]  say: ^1T0PSKIY ^5PAVEL: i have notarger
+[Thu Aug 18 14:56:56 2016]  Kill: 1022 2 2: <world> killed Tashy P by MOD_MELEE
+[Thu Aug 18 14:56:56 2016]  say: ^1T0PSKIY ^5PAVEL: notarget
+[Thu Aug 18 14:57:01 2016]  say: Tashy P: noooooooo
+[Thu Aug 18 14:59:41 2016]  say: ^1T0PSKIY ^5PAVEL: ti tut?
+[Thu Aug 18 15:01:20 2016]  say: ^1T0PSKIY ^5PAVEL: ya poidu
+[Thu Aug 18 15:01:22 2016]  ClientDisconnect: 1
+[Thu Aug 18 15:02:53 2016]  say: Tashy P: farewell friend :)
+[Thu Aug 18 15:02:55 2016]  ClientDisconnect: 2
+[Thu Aug 18 15:35:28 2016]  ClientDisconnect: 0
+[Thu Aug 18 18:47:26 2016]  ClientConnect: 0
+[Thu Aug 18 18:47:26 2016]  mlog:Player jonas, connected. With IP - 78.1.94.73:29070 
+[Thu Aug 18 18:47:47 2016]  ClientBegin: 0
+[Thu Aug 18 18:47:54 2016]  ClientDisconnect: 0
+[Thu Aug 18 23:59:57 2016]  ClientConnect: 0
+[Thu Aug 18 23:59:57 2016]  mlog:Player Worden, connected. With IP - 178.206.164.79:29070 
+[Fri Aug 19 00:00:18 2016]  ClientBegin: 0
+[Fri Aug 19 00:00:47 2016]  ClientDisconnect: 0
+[Fri Aug 19 17:35:50 2016]  ClientConnect: 0
+[Fri Aug 19 17:35:50 2016]  mlog:Player ^1Kyle ^0Katarn, connected. With IP - 89.67.113.143:29070 
+[Fri Aug 19 17:36:27 2016]  ClientBegin: 0
+[Fri Aug 19 17:36:29 2016]  say: ^1Kyle ^0Katarn: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Fri Aug 19 17:40:02 2016]  ClientDisconnect: 0
+[Sat Aug 20 00:43:30 2016]  ClientConnect: 0
+[Sat Aug 20 00:43:30 2016]  mlog:Player ^1Lucifa, connected. With IP - 178.206.27.188:29070 
+[Sat Aug 20 00:43:46 2016]  ClientBegin: 0
+[Sat Aug 20 00:45:16 2016]  ClientDisconnect: 0
+[Sat Aug 20 04:07:33 2016]  ClientConnect: 0
+[Sat Aug 20 04:07:33 2016]  mlog:Player ^3(J.N.R)^4^0k^5a^0k^5a^0shi^7(pwn), connected. With IP - 186.151.63.21:-12976 
+[Sat Aug 20 04:07:49 2016]  ClientConnect: 1
+[Sat Aug 20 04:07:49 2016]  mlog:Player ^3(J.N.R)^7Nahuel^3(M), connected. With IP - 201.253.59.95:-14831 
+[Sat Aug 20 04:07:51 2016]  ClientBegin: 0
+[Sat Aug 20 04:08:01 2016]  say: ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): OMGGGGGGGGGG
+[Sat Aug 20 04:08:10 2016]  say: ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): QUE TV :D
+[Sat Aug 20 04:08:30 2016]  say: ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): OMGGGGGG :O
+[Sat Aug 20 04:08:32 2016]  say: ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): que hermoso
+[Sat Aug 20 04:08:58 2016]  ClientBegin: 1
+[Sat Aug 20 04:09:23 2016]  tell: ^3(J.N.R)^7Nahuel^3(M) to ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): bien 
+[Sat Aug 20 04:09:34 2016]  say: ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): bonito ecenario de pelea xD
+[Sat Aug 20 04:10:18 2016]  tell: ^3(J.N.R)^7Nahuel^3(M) to ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): ahora me fijare donde lo aremos
+[Sat Aug 20 04:10:41 2016]  tell: ^3(J.N.R)^7Nahuel^3(M) to ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): espera aka
+[Sat Aug 20 04:10:46 2016]  say: ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): vale
+[Sat Aug 20 04:11:05 2016]  say: ^3(J.N.R)^7Nahuel^3(M): venXD
+[Sat Aug 20 04:11:43 2016]  tell: ^3(J.N.R)^7Nahuel^3(M) to ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): pon kill y yo te llamare
+[Sat Aug 20 04:11:48 2016]  tell: ^3(J.N.R)^7Nahuel^3(M) to ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): espera ahi
+[Sat Aug 20 04:12:02 2016]  tell: ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn) to ^3(J.N.R)^7Nahuel^3(M): oki
+[Sat Aug 20 04:12:08 2016]  tell: ^3(J.N.R)^7Nahuel^3(M) to ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): ok
+[Sat Aug 20 04:12:34 2016]  tell: ^3(J.N.R)^7Nahuel^3(M) to ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): ?
+[Sat Aug 20 04:12:38 2016]  tell: ^3(J.N.R)^7Nahuel^3(M) to ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): XD
+[Sat Aug 20 04:12:41 2016]  tell: ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn) to ^3(J.N.R)^7Nahuel^3(M): xd ?
+[Sat Aug 20 04:12:47 2016]  tell: ^3(J.N.R)^7Nahuel^3(M) to ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): PON KILL
+[Sat Aug 20 04:12:48 2016]  tell: ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn) to ^3(J.N.R)^7Nahuel^3(M): a serito xd
+[Sat Aug 20 04:12:52 2016]  tell: ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn) to ^3(J.N.R)^7Nahuel^3(M): perdon xD
+[Sat Aug 20 04:12:55 2016]  tell: ^3(J.N.R)^7Nahuel^3(M) to ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): XD
+[Sat Aug 20 04:12:56 2016]  Kill: 0 0 39: ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn) killed ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn) by MOD_SUICIDE
+[Sat Aug 20 04:13:05 2016]  say: ^3(J.N.R)^7Nahuel^3(M): yo te llamo espera
+[Sat Aug 20 04:13:08 2016]  say: ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): oki
+[Sat Aug 20 04:13:15 2016]  say: ^3(J.N.R)^7Nahuel^3(M): medita
+[Sat Aug 20 04:14:47 2016]  say: ^3(J.N.R)^7Nahuel^3(M): vota si
+[Sat Aug 20 04:14:50 2016]  say: ^3(J.N.R)^0k^5a^0k^5a^0shi^7(pwn): oki
+[Sat Aug 20 04:14:51 2016]  say: ^3(J.N.R)^7Nahuel^3(M): reinisiaremos
+[Sat Aug 20 04:14:53 2016]  say: ^3(J.N.R)^7Nahuel^3(M): el mapa
+[Sat Aug 20 04:14:56 2016]  ShutdownGame:
+[Sat Aug 20 04:14:56 2016]  ------------------------------------------------------------

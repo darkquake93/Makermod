@@ -1,0 +1,528 @@
+[Fri Dec 13 13:42:56 2013]  ------------------------------------------------------------
+[Fri Dec 13 13:42:56 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Dec 13 13:42:57 2013]  ClientConnect: 0
+[Fri Dec 13 13:43:09 2013]  ClientBegin: 0
+[Fri Dec 13 13:43:20 2013]  say: Altair: helpusobi 1]
+[Fri Dec 13 13:43:23 2013]  say: Altair: helpusobi 1
+[Fri Dec 13 13:44:05 2013]  ClientConnect: 1
+[Fri Dec 13 13:44:05 2013]  mlog:Player ^4S^0H^4E^0T, connected. With IP - 213.251.207.113:-3722 
+[Fri Dec 13 13:44:24 2013]  ClientBegin: 1
+[Fri Dec 13 13:44:28 2013]  say: ^4S^0H^4E^0T: ку
+[Fri Dec 13 13:46:06 2013]  say: ^4S^0H^4E^0T: умеешь строить?
+[Fri Dec 13 13:46:17 2013]  say: Altair: njkmrj gthcjyf;tq cnfdbnm
+[Fri Dec 13 13:46:25 2013]  say: Altair: только персонажей ъ
+[Fri Dec 13 13:46:48 2013]  say: ^4S^0H^4E^0T: иди сюда
+[Fri Dec 13 13:47:39 2013]  say: Altair: setforceall
+[Fri Dec 13 13:47:41 2013]  say: Altair: setforceall 3
+[Fri Dec 13 13:48:27 2013]  say: ^4S^0H^4E^0T: dct nthm yfcnjzofz ,fpf
+[Fri Dec 13 13:48:32 2013]  say: ^4S^0H^4E^0T: терь щас база
+[Fri Dec 13 13:48:49 2013]  say: Altair: notarget
+[Fri Dec 13 13:49:17 2013]  say: ^4S^0H^4E^0T: готов к тренке
+[Fri Dec 13 13:49:45 2013]  tell: ^4S^0H^4E^0T to Altair: готов?
+[Fri Dec 13 13:49:56 2013]  tell: ^4S^0H^4E^0T to Altair: ответь
+[Fri Dec 13 13:50:12 2013]  tell: ^4S^0H^4E^0T to Altair: /notarget сними
+[Fri Dec 13 13:50:46 2013]  say: ^4S^0H^4E^0T: а ко 2
+[Fri Dec 13 13:50:52 2013]  say: ^4S^0H^4E^0T: готов?
+[Fri Dec 13 13:51:37 2013]  say: ^4S^0H^4E^0T: ты где?
+[Fri Dec 13 13:52:36 2013]  say: Altair: я ща мне перезагрузиться надо
+[Fri Dec 13 13:52:40 2013]  Kill: 0 0 39: Altair killed Altair by MOD_SUICIDE
+[Fri Dec 13 13:52:40 2013]  setteam:  0 FREE SPECTATOR
+[Fri Dec 13 13:52:40 2013]  ClientBegin: 0
+[Fri Dec 13 13:52:45 2013]  setteam:  0 SPECTATOR FREE
+[Fri Dec 13 13:52:45 2013]  ClientBegin: 0
+[Fri Dec 13 13:53:41 2013]  Kill: 0 0 39: Altair killed Altair by MOD_SUICIDE
+[Fri Dec 13 13:54:48 2013]  say: Altair: ты где?
+[Fri Dec 13 13:54:53 2013]  say: ^4S^0H^4E^0T: в базу
+[Fri Dec 13 13:54:55 2013]  say: ^4S^0H^4E^0T: е
+[Fri Dec 13 13:54:59 2013]  say: Altair: координаты
+[Fri Dec 13 13:55:27 2013]  say: ^4S^0H^4E^0T: ты щас где
+[Fri Dec 13 13:56:32 2013]  say: ^4S^0H^4E^0T: за мной
+[Fri Dec 13 13:58:05 2013]  say: Altair: поставь десана
+[Fri Dec 13 13:58:08 2013]  say: Altair: 1
+[Fri Dec 13 13:58:35 2013]  say: ^4S^0H^4E^0T: /notarget тока убери
+[Fri Dec 13 13:59:10 2013]  say: Altair: твою мать я просил одного
+[Fri Dec 13 13:59:27 2013]  say: ^4S^0H^4E^0T: ye ybxtuj cnhfiyjuj
+[Fri Dec 13 13:59:35 2013]  say: ^4S^0H^4E^0T: ну ничего страшного
+[Fri Dec 13 14:00:26 2013]  say: Altair: харе таких ставить
+[Fri Dec 13 14:02:10 2013]  say: ^4S^0H^4E^0T: /notarget убери
+[Fri Dec 13 14:02:16 2013]  say: Altair: e vtyz tuj ytn
+[Fri Dec 13 14:02:29 2013]  say: Altair: у меня стоит только год
+[Fri Dec 13 14:02:45 2013]  say: ^4S^0H^4E^0T: стой
+[Fri Dec 13 14:02:53 2013]  say: ^4S^0H^4E^0T: нен убивай ботов
+[Fri Dec 13 14:03:11 2013]  say: ^4S^0H^4E^0T: поверни теперь оружие
+[Fri Dec 13 14:03:25 2013]  say: ^4S^0H^4E^0T: во
+[Fri Dec 13 14:04:01 2013]  say: ^4S^0H^4E^0T: а терь /god убери
+[Fri Dec 13 14:04:06 2013]  say: Altair: нет
+[Fri Dec 13 14:04:14 2013]  say: Altair: меня загасят
+[Fri Dec 13 14:04:19 2013]  tell: ^4S^0H^4E^0T to Altair: я тебе тренировку устрою
+[Fri Dec 13 14:05:08 2013]  say: ^4S^0H^4E^0T: ну убери /god плиз
+[Fri Dec 13 14:05:36 2013]  say: ^4S^0H^4E^0T: убери плиз
+[Fri Dec 13 14:06:59 2013]  say: Altair: нет трошь он мой
+[Fri Dec 13 14:07:29 2013]  Kill: 1022 0 2: <world> killed Altair by MOD_MELEE
+[Fri Dec 13 14:07:31 2013]  say: ^4S^0H^4E^0T: он твой
+[Fri Dec 13 14:10:27 2013]  say: ^4S^0H^4E^0T: я щас
+[Fri Dec 13 14:10:30 2013]  ClientDisconnect: 1
+[Fri Dec 13 14:11:37 2013]  ClientConnect: 1
+[Fri Dec 13 14:11:37 2013]  mlog:Player ^4S^0H^4E^0T, connected. With IP - 213.251.207.113:-3722 
+[Fri Dec 13 14:11:53 2013]  ClientBegin: 1
+[Fri Dec 13 14:11:58 2013]  say: ^4S^0H^4E^0T: кукушка
+[Fri Dec 13 14:12:03 2013]  Kill: 1022 0 2: <world> killed Altair by MOD_MELEE
+[Fri Dec 13 14:12:45 2013]  say: ^4S^0H^4E^0T: давай во чтонибудь поиграем
+[Fri Dec 13 14:12:59 2013]  say: Altair:  я готовлюсь к экзамену
+[Fri Dec 13 14:13:21 2013]  say: ^4S^0H^4E^0T: к какому
+[Fri Dec 13 14:13:31 2013]  say: Altair: на повышение ранга
+[Fri Dec 13 14:13:46 2013]  Kill: 0 0 39: Altair killed Altair by MOD_SUICIDE
+[Fri Dec 13 14:13:49 2013]  say: ^4S^0H^4E^0T: а че тебе надо делать
+[Fri Dec 13 14:13:57 2013]  say: Altair: ранкора завалить
+[Fri Dec 13 14:14:34 2013]  Kill: 1022 0 2: <world> killed Altair by MOD_MELEE
+[Fri Dec 13 14:14:46 2013]  say: ^4S^0H^4E^0T: это же легко
+[Fri Dec 13 14:14:58 2013]  say: Altair:  ну так иди и попробу
+[Fri Dec 13 14:15:36 2013]  say: Altair: Ранкор!
+[Fri Dec 13 14:16:27 2013]  say: ^4S^0H^4E^0T: все
+[Fri Dec 13 14:16:33 2013]  say: ^4S^0H^4E^0T: со 1 попытки
+[Fri Dec 13 14:16:34 2013]  say: Altair: красава а теперь соз дай для меня
+[Fri Dec 13 14:16:43 2013]  say: Altair: плюс я его поколебал
+[Fri Dec 13 14:17:48 2013]  say: ^4S^0H^4E^0T: все
+[Fri Dec 13 14:17:55 2013]  say: ^4S^0H^4E^0T: с богом
+[Fri Dec 13 14:18:07 2013]  Kill: 1022 0 2: <world> killed Altair by MOD_MELEE
+[Fri Dec 13 14:18:08 2013]  say: ^4S^0H^4E^0T: опс
+[Fri Dec 13 14:18:37 2013]  say: Altair: че за нах?
+[Fri Dec 13 14:19:33 2013]  say: ^4S^0H^4E^0T: не понял ты его за 4 удара завалил
+[Fri Dec 13 14:19:43 2013]  say: Altair: это ты его завалил
+[Fri Dec 13 14:19:49 2013]  say: ^4S^0H^4E^0T: нет
+[Fri Dec 13 14:20:03 2013]  say: Altair: тогда ставь другого и в наблюдение
+[Fri Dec 13 14:20:16 2013]  say: Altair: если это првда завалю еще раз
+[Fri Dec 13 14:20:32 2013]  Kill: 1 1 39: ^4S^0H^4E^0T killed ^4S^0H^4E^0T by MOD_SUICIDE
+[Fri Dec 13 14:20:32 2013]  setteam:  1 FREE SPECTATOR
+[Fri Dec 13 14:20:32 2013]  ClientBegin: 1
+[Fri Dec 13 14:20:46 2013]  say: Altair: двух та нахера?
+[Fri Dec 13 14:20:53 2013]  say: ^4S^0H^4E^0T: просто
+[Fri Dec 13 14:21:05 2013]  say: Altair: я буду сражать ся с одним
+[Fri Dec 13 14:21:21 2013]  say: ^4S^0H^4E^0T: и че это было
+[Fri Dec 13 14:21:25 2013]  say: Altair: молнии
+[Fri Dec 13 14:21:47 2013]  say: ^4S^0H^4E^0T: не что они со 2раза от молнии сдохли
+[Fri Dec 13 14:22:00 2013]  say: Altair: похоже на то
+[Fri Dec 13 14:22:02 2013]  ClientConnect: 2
+[Fri Dec 13 14:22:02 2013]  mlog:Player ^1max^8im, connected. With IP - 46.39.248.67:-10729 
+[Fri Dec 13 14:22:04 2013]  setteam:  1 SPECTATOR FREE
+[Fri Dec 13 14:22:04 2013]  ClientBegin: 1
+[Fri Dec 13 14:22:14 2013]  say: ^4S^0H^4E^0T: максим он урод
+[Fri Dec 13 14:22:23 2013]  say: Altair: дай ка еще одного но  я его без года завалю
+[Fri Dec 13 14:22:30 2013]  ClientBegin: 2
+[Fri Dec 13 14:22:34 2013]  say: Altair: макс!
+[Fri Dec 13 14:22:37 2013]  say: ^8Ki^4as: ehf
+[Fri Dec 13 14:22:40 2013]  say: ^8Ki^4as: алта
+[Fri Dec 13 14:22:43 2013]  say: ^8Ki^4as: щет!
+[Fri Dec 13 14:22:44 2013]  say: ^4S^0H^4E^0T: который под падавана скрывался
+[Fri Dec 13 14:22:48 2013]  say: ^8Ki^4as: здаров ребята!
+[Fri Dec 13 14:22:54 2013]  say: Altair: хай
+[Fri Dec 13 14:22:56 2013]  say: ^4S^0H^4E^0T: ку
+[Fri Dec 13 14:22:57 2013]  say: ^8Ki^4as: не это я maxim
+[Fri Dec 13 14:23:06 2013]  say: ^8Ki^4as: идиту суда
+[Fri Dec 13 14:23:07 2013]  say: Altair: где мой ранкор?
+[Fri Dec 13 14:23:32 2013]  say: ^8Ki^4as: идите суда и охринейте
+[Fri Dec 13 14:23:39 2013]  say: Altair: сейчас
+[Fri Dec 13 14:23:42 2013]  say: ^8Ki^4as: My origin is: (10826 -1097 88) - You can teleport here with /mtelelast
+
+[Fri Dec 13 14:23:57 2013]  tell: ^4S^0H^4E^0T to Altair: /mtelelast набери
+[Fri Dec 13 14:24:07 2013]  say: ^8Ki^4as: .пщв
+[Fri Dec 13 14:24:22 2013]  say: ^8Ki^4as: гну
+[Fri Dec 13 14:24:26 2013]  say: ^8Ki^4as: смари
+[Fri Dec 13 14:24:34 2013]  say: ^8Ki^4as: иди сд
+[Fri Dec 13 14:24:47 2013]  say: ^8Ki^4as: умееш владеть огнем?
+[Fri Dec 13 14:24:52 2013]  say: Altair: ytn(
+[Fri Dec 13 14:24:56 2013]  say: Altair: нет(
+[Fri Dec 13 14:24:58 2013]  say: ^8Ki^4as: я да
+[Fri Dec 13 14:25:02 2013]  say: ^8Ki^4as: и я научу тебя
+[Fri Dec 13 14:25:03 2013]  say: Altair: как?
+[Fri Dec 13 14:25:08 2013]  tell: ^4S^0H^4E^0T to Altair: 'nj crhbgn jy crfxfk
+[Fri Dec 13 14:25:17 2013]  tell: ^4S^0H^4E^0T to Altair: это скрипт он скачал
+[Fri Dec 13 14:25:22 2013]  say: ^8Ki^4as: а теперь смотрите 2 маггии огня которые я придумал
+[Fri Dec 13 14:25:27 2013]  say: ^8Ki^4as: 1
+[Fri Dec 13 14:25:37 2013]  say: ^8Ki^4as: uyf vtyz
+[Fri Dec 13 14:25:39 2013]  say: ^8Ki^4as: на меня
+[Fri Dec 13 14:25:48 2013]  tell: ^4S^0H^4E^0T to Altair: точна скрипт
+[Fri Dec 13 14:25:50 2013]  say: Altair: кульно
+[Fri Dec 13 14:25:51 2013]  say: ^8Ki^4as: и вторая
+[Fri Dec 13 14:26:03 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: это все скрипты
+[Fri Dec 13 14:26:06 2013]  say: Altair: а вот моя магия
+[Fri Dec 13 14:26:11 2013]  say: ^8Ki^4as: лол
+[Fri Dec 13 14:26:12 2013]  say: ^8Ki^4as: =)
+[Fri Dec 13 14:26:23 2013]  say: ^8Ki^4as: во молния
+[Fri Dec 13 14:26:23 2013]  say: Altair: Гром Титана
+[Fri Dec 13 14:26:34 2013]  say: ^8Ki^4as: гром  титана вот
+[Fri Dec 13 14:26:46 2013]  say: Altair: не кради мои названгия
+[Fri Dec 13 14:27:19 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: это не магия это скрипт
+[Fri Dec 13 14:27:42 2013]  say: ^8Ki^4as: ты не уммешь так делать 
+[Fri Dec 13 14:27:44 2013]  say: ^8Ki^4as: щет
+[Fri Dec 13 14:28:05 2013]  say: ^8Ki^4as: короч алтаир
+[Fri Dec 13 14:28:07 2013]  say: ^8Ki^4as: слух
+[Fri Dec 13 14:28:12 2013]  say: ^4S^0H^4E^0T: я не умею скрипты писать!
+[Fri Dec 13 14:28:13 2013]  say: ^8Ki^4as: теперь играй тут чаще
+[Fri Dec 13 14:28:18 2013]  say: ^8Ki^4as: ок?
+[Fri Dec 13 14:28:21 2013]  say: ^8Ki^4as: намного
+[Fri Dec 13 14:28:24 2013]  say: Altair: не обещаю
+[Fri Dec 13 14:28:35 2013]  say: ^8Ki^4as: когда сможешь
+[Fri Dec 13 14:28:41 2013]  say: Altair: другое дело
+[Fri Dec 13 14:29:17 2013]  say: ^4S^0H^4E^0T: парнушка
+[Fri Dec 13 14:29:20 2013]  say: ^8Ki^4as: ага
+[Fri Dec 13 14:29:22 2013]  say: ^8Ki^4as: =)
+[Fri Dec 13 14:29:37 2013]  say: ^4S^0H^4E^0T: +
+[Fri Dec 13 14:29:39 2013]  say: ^8Ki^4as: ешераз так скажешь убью xD
+[Fri Dec 13 14:29:46 2013]  say: ^4S^0H^4E^0T: скажу
+[Fri Dec 13 14:29:57 2013]  tell: Altair to ^4S^0H^4E^0T: что ты там сказал?
+[Fri Dec 13 14:30:07 2013]  tell: ^4S^0H^4E^0T to Altair: парнушка
+[Fri Dec 13 14:30:16 2013]  say: Altair: я пошел
+[Fri Dec 13 14:30:50 2013]  say: ^4S^0H^4E^0T: меня приследует гей
+[Fri Dec 13 14:30:54 2013]  say: ^8Ki^4as: куда?
+[Fri Dec 13 14:31:00 2013]  say: ^8Ki^4as: я не ГЕЙ ИДИОТ
+[Fri Dec 13 14:31:05 2013]  say: ^4S^0H^4E^0T: гей
+[Fri Dec 13 14:31:07 2013]  say: ^8Ki^4as: ЭТО ТЫ ПИДОР
+[Fri Dec 13 14:31:12 2013]  say: ^8Ki^4as: САМ ТЫ ГЕЙ
+[Fri Dec 13 14:31:14 2013]  say: ^4S^0H^4E^0T: нихрена
+[Fri Dec 13 14:31:23 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: sasai
+[Fri Dec 13 14:32:19 2013]  say: ^8Ki^4as: Я ИЗДЕВАЛся  над
+[Fri Dec 13 14:32:21 2013]  say: ^8Ki^4as: ним
+[Fri Dec 13 14:32:25 2013]  say: ^8Ki^4as: я не гей
+[Fri Dec 13 14:32:28 2013]  say: ^8Ki^4as: идиот
+[Fri Dec 13 14:32:41 2013]  say: ^4S^0H^4E^0T: b dctnfrb ns utq
+[Fri Dec 13 14:32:43 2013]  say: ^8Ki^4as: о кстати
+[Fri Dec 13 14:32:51 2013]  say: ^4S^0H^4E^0T: и все таки ты гей
+[Fri Dec 13 14:33:04 2013]  say: ^8Ki^4as: тогда ты голубой
+[Fri Dec 13 14:33:27 2013]  say: ^4S^0H^4E^0T: я тебя в рот е**л
+[Fri Dec 13 14:33:40 2013]  say: ^8Ki^4as: ладно хватит ругаться
+[Fri Dec 13 14:33:47 2013]  say: Altair: npc spawn vehicle rancor_vehicle template*yt-1300*
+[Fri Dec 13 14:33:57 2013]  say: ^8Ki^4as: я не держу зла на тебя =)
+[Fri Dec 13 14:34:16 2013]  say: ^8Ki^4as: и помни я не гей =)
+[Fri Dec 13 14:34:20 2013]  say: ^4S^0H^4E^0T: ^3ПИПЕЦИОННА
+[Fri Dec 13 14:34:44 2013]  say: Altair: npc spawn luke
+[Fri Dec 13 14:35:04 2013]  say: ^4S^0H^4E^0T: это все в консоль писать нада а не в чат
+[Fri Dec 13 14:35:29 2013]  say: ^8Ki^4as: о идея
+[Fri Dec 13 14:35:34 2013]  say: ^8Ki^4as: моя база
+[Fri Dec 13 14:36:16 2013]  say: ^8Ki^4as: идите все к статуэтке рагноса!!!
+[Fri Dec 13 14:36:45 2013]  say: ^8Ki^4as: лад
+[Fri Dec 13 14:36:47 2013]  say: ^8Ki^4as: иди суда
+[Fri Dec 13 14:36:49 2013]  say: ^8Ki^4as: за мной
+[Fri Dec 13 14:36:50 2013]  say: Altair: Гром Титана!
+[Fri Dec 13 14:37:07 2013]  say: ^8Ki^4as: суда
+[Fri Dec 13 14:37:16 2013]  say: ^8Ki^4as: я не до конца сделал
+[Fri Dec 13 14:37:22 2013]  say: ^8Ki^4as: токо 2 окна
+[Fri Dec 13 14:37:44 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: а нафига ты это сделал
+[Fri Dec 13 14:37:53 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: неудобна
+[Fri Dec 13 14:38:03 2013]  Kill: 1022 0 2: <world> killed Altair by MOD_MELEE
+[Fri Dec 13 14:38:18 2013]  say: ^4S^0H^4E^0T: My origin is: (9205 2441 -359) - You can teleport here with /mtelelast
+
+[Fri Dec 13 14:38:55 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: для чего это ты сделал?
+[Fri Dec 13 14:39:04 2013]  say: ^8Ki^4as: чтлбы защищать окна
+[Fri Dec 13 14:39:08 2013]  say: ^4S^0H^4E^0T: ^3ПИПЕЦИОННА
+[Fri Dec 13 14:39:10 2013]  say: ^8Ki^4as: попробуй стрельни
+[Fri Dec 13 14:39:17 2013]  say: ^8Ki^4as: в окно
+[Fri Dec 13 14:39:27 2013]  say: ^8Ki^4as: бля
+[Fri Dec 13 14:39:32 2013]  say: ^8Ki^4as: это пробивает
+[Fri Dec 13 14:39:32 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: насквозь проходит
+[Fri Dec 13 14:39:36 2013]  say: ^8Ki^4as: токо 1
+[Fri Dec 13 14:39:41 2013]  say: ^8Ki^4as: а теерь нет
+[Fri Dec 13 14:39:45 2013]  say: ^8Ki^4as: а да
+[Fri Dec 13 14:39:53 2013]  say: ^8Ki^4as: это нет
+[Fri Dec 13 14:40:36 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: о идея я тут тебе помогу
+[Fri Dec 13 14:40:58 2013]  Item: 0 weapon_blaster
+[Fri Dec 13 14:40:58 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: смотри
+[Fri Dec 13 14:41:03 2013]  say: ^8Ki^4as: хмм
+[Fri Dec 13 14:41:09 2013]  say: ^8Ki^4as: как ты это сделал?
+[Fri Dec 13 14:41:10 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: во круто
+[Fri Dec 13 14:41:11 2013]  Item: 2 weapon_blaster
+[Fri Dec 13 14:41:14 2013]  say: ^8Ki^4as: ы?
+[Fri Dec 13 14:41:35 2013]  Item: 0 weapon_rocket_launcher
+[Fri Dec 13 14:41:38 2013]  say: ^8Ki^4as: все
+[Fri Dec 13 14:41:40 2013]  say: ^8Ki^4as: ненадо
+[Fri Dec 13 14:41:42 2013]  say: ^8Ki^4as: более
+[Fri Dec 13 14:41:44 2013]  Item: 2 weapon_rocket_launcher
+[Fri Dec 13 14:41:55 2013]  say: ^8Ki^4as: не ракету убери поставь гранату
+[Fri Dec 13 14:42:02 2013]  say: Altair: дай еще стоукер
+[Fri Dec 13 14:42:22 2013]  say: ^8Ki^4as: какая команда?
+[Fri Dec 13 14:42:23 2013]  say: ^8Ki^4as: а?
+[Fri Dec 13 14:42:24 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: давай я снапу сделаю
+[Fri Dec 13 14:42:30 2013]  say: ^8Ki^4as: скажи
+[Fri Dec 13 14:42:32 2013]  say: ^8Ki^4as: км
+[Fri Dec 13 14:42:38 2013]  say: ^8Ki^4as: не ненадо
+[Fri Dec 13 14:42:40 2013]  say: ^8Ki^4as: убери все
+[Fri Dec 13 14:42:49 2013]  say: ^8Ki^4as: я тут центр управления делаю
+[Fri Dec 13 14:43:21 2013]  say: ^8Ki^4as: убери
+[Fri Dec 13 14:43:22 2013]  say: ^8Ki^4as: плз
+[Fri Dec 13 14:43:23 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: ye cnhjq
+[Fri Dec 13 14:43:26 2013]  say: ^8Ki^4as: я тут ц упр
+[Fri Dec 13 14:43:31 2013]  say: ^8Ki^4as: сделаю
+[Fri Dec 13 14:43:39 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: со временем уберется
+[Fri Dec 13 14:43:54 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: это тебе не помешает
+[Fri Dec 13 14:44:31 2013]  say: ^8Ki^4as: ненадо
+[Fri Dec 13 14:44:35 2013]  say: ^8Ki^4as: шалить сдезь
+[Fri Dec 13 14:44:39 2013]  say: ^8Ki^4as: я базу делаю
+[Fri Dec 13 14:44:59 2013]  Item: 1 ammo_all
+[Fri Dec 13 14:45:06 2013]  say: ^8Ki^4as: я же сказал
+[Fri Dec 13 14:45:22 2013]  Item: 1 ammo_all
+[Fri Dec 13 14:45:27 2013]  Item: 0 ammo_all
+[Fri Dec 13 14:45:32 2013]  Item: 0 ammo_all
+[Fri Dec 13 14:45:37 2013]  Item: 1 ammo_all
+[Fri Dec 13 14:45:42 2013]  Item: 0 ammo_all
+[Fri Dec 13 14:45:50 2013]  Item: 0 ammo_all
+[Fri Dec 13 14:45:56 2013]  Item: 0 ammo_all
+[Fri Dec 13 14:46:04 2013]  Item: 1 ammo_all
+[Fri Dec 13 14:46:09 2013]  Item: 1 ammo_all
+[Fri Dec 13 14:46:15 2013]  Item: 1 ammo_all
+[Fri Dec 13 14:47:03 2013]  say: ^8Ki^4as: cлушай я не понятно говорю не я конечно могу и скрипты применить
+[Fri Dec 13 14:47:38 2013]  say: Altair: Тук Тук
+[Fri Dec 13 14:47:57 2013]  tell: ^4S^0H^4E^0T to Altair: алтаер посмотри kotr не включилось
+[Fri Dec 13 14:47:59 2013]  say: Altair: отркройте
+[Fri Dec 13 14:48:12 2013]  say: Altair: одну минуту
+[Fri Dec 13 14:48:16 2013]  ClientDisconnect: 0
+[Fri Dec 13 14:48:31 2013]  say: ^8Ki^4as: rhenm
+[Fri Dec 13 14:48:34 2013]  say: ^8Ki^4as: круть
+[Fri Dec 13 14:48:35 2013]  say: ^8Ki^4as: воше
+[Fri Dec 13 14:48:39 2013]  say: ^4S^0H^4E^0T: че за белая херня
+[Fri Dec 13 14:48:55 2013]  ClientConnect: 0
+[Fri Dec 13 14:48:55 2013]  mlog:Player Altair, connected. With IP - 89.145.152.30:29070 
+[Fri Dec 13 14:49:04 2013]  ClientBegin: 0
+[Fri Dec 13 14:49:26 2013]  tell: Altair to ^4S^0H^4E^0T: нет
+[Fri Dec 13 14:49:29 2013]  Item: 0 weapon_rocket_launcher
+[Fri Dec 13 14:49:29 2013]  Item: 0 weapon_blaster
+[Fri Dec 13 14:49:57 2013]  tell: Altair to ^8Ki^4as: ну какой план
+[Fri Dec 13 14:49:58 2013]  tell: ^4S^0H^4E^0T to Altair: они включаться будут
+[Fri Dec 13 14:50:04 2013]  tell: ^4S^0H^4E^0T to Altair: ваще
+[Fri Dec 13 14:50:08 2013]  say: ^8Ki^4as: щя
+[Fri Dec 13 14:50:10 2013]  say: Altair: не знаю
+[Fri Dec 13 14:50:25 2013]  tell: ^4S^0H^4E^0T to Altair: те давали скайп их ней
+[Fri Dec 13 14:50:29 2013]  say: Altair: нет
+[Fri Dec 13 14:50:58 2013]  tell: ^4S^0H^4E^0T to Altair: а как ты вступил тогда в клан
+[Fri Dec 13 14:51:08 2013]  say: ^4S^0H^4E^0T: ^3ПИПЕЦИОННА
+[Fri Dec 13 14:51:18 2013]  say: ^4S^0H^4E^0T: ^3ПИПЕЦИОННА
+[Fri Dec 13 14:51:31 2013]  say: ^4S^0H^4E^0T: ^3ПИПЕЦИОННА
+[Fri Dec 13 14:51:39 2013]  say: ^4S^0H^4E^0T: ^3ПИПЕЦИОННА
+[Fri Dec 13 14:51:40 2013]  say: Altair: гпришель на сервер спросил оставил заявку и ушел проснулся на следущее утро и я котровец
+[Fri Dec 13 14:51:57 2013]  tell: ^4S^0H^4E^0T to Altair: ок
+[Fri Dec 13 14:52:06 2013]  say: ^8Ki^4as: ровно?
+[Fri Dec 13 14:52:10 2013]  say: ^4S^0H^4E^0T: да
+[Fri Dec 13 14:52:11 2013]  say: Altair: да
+[Fri Dec 13 14:52:44 2013]  tell: ^4S^0H^4E^0T to Altair: терь ты рыцарь прямоугольного стола ALTAIR
+[Fri Dec 13 14:53:22 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: круглый стол поставь
+[Fri Dec 13 14:53:34 2013]  say: ^8Ki^4as: сука
+[Fri Dec 13 14:53:37 2013]  say: ^8Ki^4as: не надо
+[Fri Dec 13 14:54:03 2013]  tell: ^4S^0H^4E^0T to Altair: ну иди рыцарь сядь за прямоугольный стол
+[Fri Dec 13 14:54:25 2013]  tell: ^4S^0H^4E^0T to Altair: вот тебе трон делают
+[Fri Dec 13 14:54:28 2013]  say: ^8Ki^4as: как?
+[Fri Dec 13 14:54:38 2013]  say: ^8Ki^4as: ровно?
+[Fri Dec 13 14:54:39 2013]  say: Altair: мягко
+[Fri Dec 13 14:54:43 2013]  say: ^8Ki^4as: да сука
+[Fri Dec 13 14:54:49 2013]  say: ^8Ki^4as: ты охуел?
+[Fri Dec 13 14:54:59 2013]  say: Altair: Тук тук тук
+[Fri Dec 13 14:55:22 2013]  say: Altair: окно откройе
+[Fri Dec 13 14:56:18 2013]  Kill: 2 1 37: ^8Ki^4as killed ^4S^0H^4E^0T by MOD_TELEFRAG
+[Fri Dec 13 14:56:27 2013]  say: Altair: Этот прием стоит назвать 2012
+[Fri Dec 13 14:56:35 2013]  say: ^8Ki^4as: угу
+[Fri Dec 13 14:56:48 2013]  say: ^8Ki^4as: My origin is: (14865 4767 -1154) - You can teleport here with /mtelelast
+
+[Fri Dec 13 14:57:21 2013]  Kill: 1 1 39: ^4S^0H^4E^0T killed ^4S^0H^4E^0T by MOD_SUICIDE
+[Fri Dec 13 14:57:21 2013]  setteam:  1 FREE SPECTATOR
+[Fri Dec 13 14:57:21 2013]  ClientBegin: 1
+[Fri Dec 13 14:57:26 2013]  say: ^4S^0H^4E^0T: вот мудак
+[Fri Dec 13 14:57:32 2013]  say: ^8Ki^4as: lf
+[Fri Dec 13 14:57:33 2013]  setteam:  1 SPECTATOR FREE
+[Fri Dec 13 14:57:33 2013]  ClientBegin: 1
+[Fri Dec 13 14:58:15 2013]  say: ^4S^0H^4E^0T: терь ты lolka
+[Fri Dec 13 14:58:17 2013]  say: ^8Ki^4as: я предупреждал
+[Fri Dec 13 14:58:54 2013]  say: ^4S^0H^4E^0T: My origin is: (2233 161 -269) - You can teleport here with /mtelelast
+
+[Fri Dec 13 14:59:26 2013]  say: ^8Ki^4as: kjk
+[Fri Dec 13 14:59:28 2013]  say: ^8Ki^4as: лол
+[Fri Dec 13 14:59:36 2013]  tell: ^4S^0H^4E^0T to Altair: ку
+[Fri Dec 13 14:59:55 2013]  tell: ^4S^0H^4E^0T to Altair: ку
+[Fri Dec 13 15:00:57 2013]  say: ^4S^0H^4E^0T: гей
+[Fri Dec 13 15:01:00 2013]  say: ^8Ki^4as: ну может еше поиграем?
+[Fri Dec 13 15:01:08 2013]  tell: ^4S^0H^4E^0T to Altair: не ты
+[Fri Dec 13 15:01:19 2013]  say: ^4S^0H^4E^0T: е
+[Fri Dec 13 15:01:24 2013]  say: ^4S^0H^4E^0T: е
+[Fri Dec 13 15:02:59 2013]  say: Altair: макс видишь залпы вверху
+[Fri Dec 13 15:03:11 2013]  say: ^8Ki^4as: ты лузер мне 11 лет я знаю как делать скрипты щет
+[Fri Dec 13 15:03:33 2013]  say: ^4S^0H^4E^0T: нахрен мне скрипты школота
+[Fri Dec 13 15:04:24 2013]  say: ^8Ki^4as: я сделал перерыв потомучто откусил мороженку xD
+[Fri Dec 13 15:05:00 2013]  say: Altair: макс гоу сюда
+[Fri Dec 13 15:05:03 2013]  say: ^8Ki^4as: ок
+[Fri Dec 13 15:05:03 2013]  say: Altair: и шет
+[Fri Dec 13 15:05:21 2013]  say: ^8Ki^4as: ты ге?
+[Fri Dec 13 15:05:27 2013]  say: Altair: тут
+[Fri Dec 13 15:05:40 2013]  say: Altair: на крыше одного из зданий
+[Fri Dec 13 15:06:17 2013]  tell: Altair to ^8Ki^4as: я нашел отличное место для наземного бункера
+[Fri Dec 13 15:07:10 2013]  say: Altair: если что я в убежище под вами
+[Fri Dec 13 15:08:08 2013]  say: ^4S^0H^4E^0T: косажопый
+[Fri Dec 13 15:08:34 2013]  say: ^8Ki^4as: да ладно щет ну правда хватит уже плз , извини =)
+[Fri Dec 13 15:08:49 2013]  say: ^4S^0H^4E^0T: +
+[Fri Dec 13 15:09:01 2013]  say: ^8Ki^4as: ок
+[Fri Dec 13 15:09:08 2013]  say: ^4S^0H^4E^0T: нехрен делать
+[Fri Dec 13 15:09:21 2013]  say: ^8Ki^4as: дава
+[Fri Dec 13 15:09:21 2013]  Item: 1 weapon_flechette
+[Fri Dec 13 15:09:32 2013]  say: ^8Ki^4as: молодец
+[Fri Dec 13 15:09:41 2013]  say: Altair: pf vyjq
+[Fri Dec 13 15:09:47 2013]  say: Altair: за мной
+[Fri Dec 13 15:10:04 2013]  say: ^8Ki^4as: хмм
+[Fri Dec 13 15:10:12 2013]  say: Altair: не плохое место для бункера
+[Fri Dec 13 15:10:28 2013]  say: Altair: правильно мыслиш
+[Fri Dec 13 15:12:18 2013]  say: ^8Ki^4as: тут
+[Fri Dec 13 15:12:20 2013]  say: ^8Ki^4as: кнопка
+[Fri Dec 13 15:12:23 2013]  say: ^8Ki^4as: неет
+[Fri Dec 13 15:12:25 2013]  say: ^8Ki^4as: ну зачем
+[Fri Dec 13 15:12:27 2013]  say: ^8Ki^4as: так?
+[Fri Dec 13 15:12:32 2013]  say: ^8Ki^4as: неннадо
+[Fri Dec 13 15:12:36 2013]  say: ^4S^0H^4E^0T: jr
+[Fri Dec 13 15:12:38 2013]  say: ^4S^0H^4E^0T: ок
+[Fri Dec 13 15:12:41 2013]  say: ^8Ki^4as: во
+[Fri Dec 13 15:12:51 2013]  say: ^8Ki^4as: да блин
+[Fri Dec 13 15:12:54 2013]  say: ^8Ki^4as: убер
+[Fri Dec 13 15:12:56 2013]  say: ^8Ki^4as: плз
+[Fri Dec 13 15:13:06 2013]  say: ^8Ki^4as: /mkillall
+[Fri Dec 13 15:13:10 2013]  say: ^4S^0H^4E^0T: dct
+[Fri Dec 13 15:13:13 2013]  say: ^4S^0H^4E^0T: всЕ
+[Fri Dec 13 15:13:17 2013]  say: ^8Ki^4as: ок
+[Fri Dec 13 15:13:26 2013]  say: ^8Ki^4as: короч
+[Fri Dec 13 15:13:28 2013]  say: ^8Ki^4as: здесь
+[Fri Dec 13 15:13:32 2013]  say: ^8Ki^4as: снаружи
+[Fri Dec 13 15:13:35 2013]  say: ^8Ki^4as: будет звонок
+[Fri Dec 13 15:13:38 2013]  say: Altair: охрана
+[Fri Dec 13 15:13:42 2013]  say: ^8Ki^4as: в дверь
+[Fri Dec 13 15:14:27 2013]  say: ^8Ki^4as: я сам охрану сделаю
+[Fri Dec 13 15:14:38 2013]  say: Altair: а мне что делать?
+[Fri Dec 13 15:14:44 2013]  say: ^8Ki^4as: все !!! /notarget
+[Fri Dec 13 15:14:58 2013]  say: Altair: я только персонажей могу
+[Fri Dec 13 15:15:34 2013]  tell: ^4S^0H^4E^0T to Altair: зырь на меня
+[Fri Dec 13 15:15:37 2013]  say: ^8Ki^4as: в
+[Fri Dec 13 15:15:48 2013]  say: ^8Ki^4as: смарите
+[Fri Dec 13 15:15:55 2013]  say: Altair: куул
+[Fri Dec 13 15:16:31 2013]  say: ^8Ki^4as: хехеех
+[Fri Dec 13 15:16:35 2013]  say: Altair: большой палец
+[Fri Dec 13 15:16:37 2013]  say: ^8Ki^4as: надежная =)
+[Fri Dec 13 15:16:47 2013]  say: Altair: 2
+[Fri Dec 13 15:16:49 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: скажи как ставить турелт
+[Fri Dec 13 15:16:50 2013]  say: ^8Ki^4as: все в крови
+[Fri Dec 13 15:16:53 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: и
+[Fri Dec 13 15:16:58 2013]  say: ^8Ki^4as: /mplace miniturret
+[Fri Dec 13 15:17:03 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: спс
+[Fri Dec 13 15:17:19 2013]  say: ^8Ki^4as: токо прозьба
+[Fri Dec 13 15:17:21 2013]  tell: ^4S^0H^4E^0T to ^8Ki^4as: а как мы внутрь попадем
+[Fri Dec 13 15:17:26 2013]  say: ^8Ki^4as: на базу не ставить!!!
+[Fri Dec 13 15:17:30 2013]  say: ^8Ki^4as: я же сказал
+[Fri Dec 13 15:17:33 2013]  say: ^8Ki^4as: щя звонок
+[Fri Dec 13 15:17:50 2013]  say: Altair: как отпустиь
+[Fri Dec 13 15:17:57 2013]  say: ^8Ki^4as: /mdrop
+[Fri Dec 13 15:18:00 2013]  say: ^8Ki^4as: поставить
+[Fri Dec 13 15:18:37 2013]  say: ^8Ki^4as: ты не так поставил
+[Fri Dec 13 15:18:56 2013]  say: ^8Ki^4as: ебанный 
+[Fri Dec 13 15:21:08 2013]  say: ^8Ki^4as: о придумал
+[Fri Dec 13 15:22:19 2013]  say: ^8Ki^4as: j oz
+[Fri Dec 13 15:22:20 2013]  say: ^8Ki^4as: о щя
+[Fri Dec 13 15:22:32 2013]  say: Altair: да пусть стоит он никому не мешает
+[Fri Dec 13 15:22:33 2013]  say: ^8Ki^4as: я зайду через 1 мин ок?
+[Fri Dec 13 15:22:39 2013]  say: Altair: ок
+[Fri Dec 13 15:22:46 2013]  ClientDisconnect: 2
+[Fri Dec 13 15:24:57 2013]  Kill: 0 0 39: Altair killed Altair by MOD_SUICIDE
+[Fri Dec 13 15:24:57 2013]  setteam:  0 FREE SPECTATOR
+[Fri Dec 13 15:24:57 2013]  ClientBegin: 0
+[Fri Dec 13 15:25:04 2013]  setteam:  0 SPECTATOR FREE
+[Fri Dec 13 15:25:04 2013]  ClientBegin: 0
+[Fri Dec 13 15:25:50 2013]  Item: 1 ammo_all
+[Fri Dec 13 15:25:52 2013]  say: ^4S^0H^4E^0T: re
+[Fri Dec 13 15:25:55 2013]  Item: 1 ammo_all
+[Fri Dec 13 15:26:15 2013]  ClientConnect: 2
+[Fri Dec 13 15:26:15 2013]  mlog:Player ^1max^8im, connected. With IP - 46.39.248.67:10352 
+[Fri Dec 13 15:26:39 2013]  ClientBegin: 2
+[Fri Dec 13 15:27:52 2013]  say: ^8Ki^4as: cvfhb
+[Fri Dec 13 15:27:59 2013]  say: ^8Ki^4as: смари маленький скриптик
+[Fri Dec 13 15:28:51 2013]  say: ^8Ki^4as: эй
+[Fri Dec 13 15:28:53 2013]  say: ^8Ki^4as: алле
+[Fri Dec 13 15:28:54 2013]  say: ^8Ki^4as: смарите
+[Fri Dec 13 15:28:58 2013]  say: Altair: что?
+[Fri Dec 13 15:29:04 2013]  say: ^8Ki^4as: иди суда
+[Fri Dec 13 15:29:15 2013]  say: ^8Ki^4as: я сделал новый классный скрипт
+[Fri Dec 13 15:29:30 2013]  say: Altair: ты где?
+[Fri Dec 13 15:29:36 2013]  say: ^8Ki^4as: иди суда
+[Fri Dec 13 15:29:47 2013]  say: ^8Ki^4as: смари рыво
+[Fri Dec 13 15:29:48 2013]  say: ^8Ki^4as: к
+[Fri Dec 13 15:30:02 2013]  say: ^8Ki^4as: круть?
+[Fri Dec 13 15:30:06 2013]  say: Altair: норм
+[Fri Dec 13 15:30:56 2013]  Kill: 2 0 5: ^8Ki^4as killed Altair by MOD_BRYAR_PISTOL_ALT
+[Fri Dec 13 15:30:58 2013]  say: Altair: lf yt yflj
+[Fri Dec 13 15:31:10 2013]  say: Altair: Да не надо
+[Fri Dec 13 15:31:24 2013]  say: ^8Ki^4as: ой
+[Fri Dec 13 15:31:25 2013]  say: ^8Ki^4as: бла
+[Fri Dec 13 15:32:29 2013]  say: ^8Ki^4as: я щя приду
+[Fri Dec 13 15:32:31 2013]  ClientDisconnect: 2
+[Fri Dec 13 15:33:10 2013]  say: ^4S^0H^4E^0T: ALTAIR иди на верх и оцени
+[Fri Dec 13 15:33:40 2013]  tell: ^4S^0H^4E^0T to Altair: иди за мной
+[Fri Dec 13 15:33:45 2013]  Item: 1 ammo_all
+[Fri Dec 13 15:33:51 2013]  Item: 1 ammo_all
+[Fri Dec 13 15:33:58 2013]  tell: ^4S^0H^4E^0T to Altair: иди за мной
+[Fri Dec 13 15:34:03 2013]  say: Altair: oz
+[Fri Dec 13 15:34:27 2013]  say: ^4S^0H^4E^0T: оцени
+[Fri Dec 13 15:34:28 2013]  ClientConnect: 2
+[Fri Dec 13 15:34:28 2013]  mlog:Player ^1max^8im, connected. With IP - 46.39.248.67:19814 
+[Fri Dec 13 15:34:33 2013]  say: Altair: rekmyj
+[Fri Dec 13 15:34:38 2013]  say: Altair: кульно
+[Fri Dec 13 15:34:53 2013]  ClientBegin: 2
+[Fri Dec 13 15:35:08 2013]  ClientDisconnect: 2
+[Fri Dec 13 15:35:31 2013]  ClientConnect: 2
+[Fri Dec 13 15:35:31 2013]  mlog:Player ^1max^8im, connected. With IP - 46.39.248.67:19814 
+[Fri Dec 13 15:35:56 2013]  ClientBegin: 2
+[Fri Dec 13 15:36:50 2013]  say: ^8Ki^4as: го строить корабл
+[Fri Dec 13 15:36:54 2013]  say: ^8Ki^4as: хотя нет
+[Fri Dec 13 15:37:03 2013]  say: ^8Ki^4as: пажите плз 10 мин ок меня
+[Fri Dec 13 15:37:13 2013]  say: Altair: я уже ухожу
+[Fri Dec 13 15:39:19 2013]  Item: 0 weapon_disruptor
+[Fri Dec 13 15:39:19 2013]  Item: 0 weapon_stun_baton
+[Fri Dec 13 15:39:19 2013]  Item: 0 weapon_flechette
+[Fri Dec 13 15:39:19 2013]  Item: 0 weapon_bowcaster
+[Fri Dec 13 15:39:19 2013]  Item: 0 weapon_concussion_rifle
+[Fri Dec 13 15:39:19 2013]  Item: 0 weapon_demp2
+[Fri Dec 13 15:39:19 2013]  Item: 0 weapon_repeater
+[Fri Dec 13 15:39:19 2013]  Item: 0 weapon_melee
+[Fri Dec 13 15:39:19 2013]  Item: 0 weapon_rocket_launcher
+[Fri Dec 13 15:39:20 2013]  Item: 0 weapon_blaster
+[Fri Dec 13 15:39:46 2013]  say: ^4S^0H^4E^0T: все крутяк
+[Fri Dec 13 15:39:55 2013]  say: ^8Ki^4as: я щя
+[Fri Dec 13 15:40:03 2013]  tell: ^4S^0H^4E^0T to Altair: оцени
+[Fri Dec 13 15:40:08 2013]  say: Altair: куул
+[Fri Dec 13 15:40:20 2013]  tell: ^4S^0H^4E^0T to Altair: и внутри что
+[Fri Dec 13 15:40:21 2013]  say: Altair: стражники
+[Fri Dec 13 15:41:02 2013]  say: Altair: только не мочи их
+[Fri Dec 13 15:41:13 2013]  tell: ^4S^0H^4E^0T to Altair: jr
+[Fri Dec 13 15:41:16 2013]  tell: ^4S^0H^4E^0T to Altair: ок
+[Fri Dec 13 15:41:55 2013]  Kill: 1 0 2: ^4S^0H^4E^0T killed Altair by MOD_MELEE
+[Fri Dec 13 15:42:00 2013]  ClientDisconnect: 0
+[Fri Dec 13 15:42:22 2013]  ClientDisconnect: 1
+[Fri Dec 13 15:42:54 2013]  Exit: Timelimit hit.
+[Fri Dec 13 15:42:54 2013]  score: 0  ping: 140  client: 2 ^8Ki^4as
+[Fri Dec 13 15:43:04 2013]  ShutdownGame:
+[Fri Dec 13 15:43:04 2013]  ------------------------------------------------------------
+[Fri Dec 13 15:43:04 2013]  ------------------------------------------------------------
+[Fri Dec 13 15:43:04 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Dec 13 15:43:06 2013]  ClientConnect: 2
+[Fri Dec 13 15:43:22 2013]  ClientBegin: 2
+[Fri Dec 13 15:43:33 2013]  ClientDisconnect: 2
+[Fri Dec 13 15:47:50 2013]  ClientConnect: 0
+[Fri Dec 13 15:47:50 2013]  mlog:Player ^4S^0H^4E^0T, connected. With IP - 213.251.207.113:-3942 
+[Fri Dec 13 15:48:03 2013]  ClientBegin: 0
+[Fri Dec 13 15:48:12 2013]  ClientDisconnect: 0
+[Fri Dec 13 16:07:16 2013]  ClientConnect: 0
+[Fri Dec 13 16:07:16 2013]  mlog:Player ^4Ony^5sfx, connected. With IP - 70.53.25.169:29070 
+[Fri Dec 13 16:07:30 2013]  ClientDisconnect: 0
+[Fri Dec 13 16:07:40 2013]  ClientConnect: 0
+[Fri Dec 13 16:07:40 2013]  mlog:Player :, connected. With IP - 70.53.25.169:29070 
+[Fri Dec 13 16:08:06 2013]  ClientBegin: 0
+[Fri Dec 13 16:08:14 2013]  print ":^7 @@@PLRENAME ^4Ony^5sfx
+"[Fri Dec 13 16:09:24 2013]  Kill: 0 0 39: ^4Ony^5sfx killed ^4Ony^5sfx by MOD_SUICIDE
+[Fri Dec 13 16:09:28 2013]  say: ^4Ony^5sfx: just testing out this server
+[Fri Dec 13 16:09:50 2013]  say: ^4Ony^5sfx: shows makermod isn't dead yet!
+[Fri Dec 13 16:13:13 2013]  say: ^4Ony^5sfx: MAKERMOD RULES!...but it's nearly dead
+[Fri Dec 13 16:13:20 2013]  say: ^4Ony^5sfx: We need to reboot it somehow
+[Fri Dec 13 16:13:27 2013]  say: ^4Ony^5sfx: one makermod update on JKHub should do the trick
+[Fri Dec 13 16:13:32 2013]  say: ^4Ony^5sfx: as well as a youtube trailer...
+[Fri Dec 13 16:13:49 2013]  say: ^4Ony^5sfx: well then
+[Fri Dec 13 16:13:52 2013]  say: ^4Ony^5sfx: I'm off
+[Fri Dec 13 16:13:58 2013]  ClientDisconnect: 0
+[Fri Dec 13 17:44:12 2013]  Exit: Timelimit hit.

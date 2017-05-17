@@ -1,0 +1,40 @@
+[Sun Sep 15 17:26:06 2013]  ------------------------------------------------------------
+[Sun Sep 15 17:26:06 2013]  InitGame: \capturelimit\8\g_siegeTeamSwitch\1\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\Darkness\dmflags\0\fraglimit\20\timelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\1\sv_maxclients\8\g_maxGameClients\0\g_jediVmerc\0\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\g_siegeRespawn\20\g_siegeTeam1\none\g_siegeTeam2\none\version\JAmp: v1.0.1.0 win-x86 Oct 24 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\blueice_twilight\sv_privateClients\0\sv_allowDownload\1\g_debugMelee\0\g_stepSlideFix\1\g_noSpecMove\0\gamename\MakerMod\g_allowNPC\1\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 15 17:26:09 2013]  ClientConnect: 0
+[Sun Sep 15 17:26:09 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - localhost 
+[Sun Sep 15 17:27:08 2013]  ClientBegin: 0
+[Sun Sep 15 17:28:45 2013]  ShutdownGame:
+[Sun Sep 15 17:28:45 2013]  ------------------------------------------------------------
+[Sun Sep 15 17:28:46 2013]  ------------------------------------------------------------
+[Sun Sep 15 17:28:46 2013]  InitGame: \capturelimit\8\g_siegeTeamSwitch\1\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\Darkness\dmflags\0\fraglimit\20\timelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\1\sv_maxclients\8\g_maxGameClients\0\g_jediVmerc\0\g_forceRegenTime\200\g_forcePowerDisable\0\g_weaponDisable\0\g_siegeRespawn\20\g_siegeTeam1\none\g_siegeTeam2\none\version\JAmp: v1.0.1.0 win-x86 Oct 24 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\blueice_twilight\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\g_debugMelee\0\g_stepSlideFix\1\g_noSpecMove\0\gamename\MakerMod\g_allowNPC\1\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 15 17:28:49 2013]  ClientConnect: 0
+[Sun Sep 15 17:28:59 2013]  ClientBegin: 0
+[Sun Sep 15 17:34:17 2013]  ClientConnect: 1
+[Sun Sep 15 17:34:17 2013]  mlog:Player Padawan, connected. With IP - 192.168.1.19:29070 
+[Sun Sep 15 17:38:49 2013]  ClientDisconnect: 1
+[Sun Sep 15 17:39:54 2013]  ShutdownGame:
+[Sun Sep 15 17:39:54 2013]  ------------------------------------------------------------
+[Sun Sep 15 17:40:01 2013]  ------------------------------------------------------------
+[Sun Sep 15 17:40:01 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 15 17:43:53 2013]  ClientConnect: 0
+[Sun Sep 15 17:43:53 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.137.100:29070 
+[Sun Sep 15 17:44:12 2013]  ClientBegin: 0
+[Sun Sep 15 17:45:18 2013]  ClientDisconnect: 0
+[Sun Sep 15 23:29:56 2013]  ClientConnect: 0
+[Sun Sep 15 23:29:56 2013]  mlog:Player Padawan, connected. With IP - 71.93.41.2:29070 
+[Sun Sep 15 23:29:58 2013]  ClientDisconnect: 0
+[Sun Sep 15 23:32:37 2013]  ClientConnect: 0
+[Sun Sep 15 23:32:37 2013]  mlog:Player Padawan, connected. With IP - 71.93.41.2:29070 
+[Sun Sep 15 23:55:28 2013]  ClientDisconnect: 0
+[Mon Sep 16 11:15:05 2013]  ClientConnect: 0
+[Mon Sep 16 11:15:05 2013]  mlog:Player alex, connected. With IP - 5.12.193.111:29070 
+[Mon Sep 16 11:15:14 2013]  ClientBegin: 0
+[Mon Sep 16 11:17:03 2013]  ClientDisconnect: 0
+[Mon Sep 16 11:20:42 2013]  ClientConnect: 0
+[Mon Sep 16 11:20:42 2013]  mlog:Player alex, connected. With IP - 5.12.193.111:29070 
+[Mon Sep 16 11:20:51 2013]  ClientBegin: 0
+[Mon Sep 16 11:21:20 2013]  ClientDisconnect: 0
+[Mon Sep 16 15:52:20 2013]  ClientConnect: 0
+[Mon Sep 16 15:52:20 2013]  mlog:Player Padawan, connected. With IP - 213.251.210.41:-13285 
+[Mon Sep 16 15:52:32 2013]  ClientBegin: 0
+[Mon Sep 16 15:52:53 2013]  ClientDisconnect: 0

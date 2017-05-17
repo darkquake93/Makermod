@@ -1,0 +1,109 @@
+[Tue Dec 06 16:03:30 2016]  ------------------------------------------------------------
+[Tue Dec 06 16:03:30 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Dec 06 19:09:35 2016]  ------------------------------------------------------------
+[Tue Dec 06 19:09:35 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\999\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Dec 06 21:42:11 2016]  ClientConnect: 0
+[Tue Dec 06 21:42:11 2016]  mlog:Player awful, connected. With IP - 70.196.80.1:12177 
+[Tue Dec 06 21:42:47 2016]  ClientBegin: 0
+[Tue Dec 06 21:42:47 2016]  ClientDisconnect: 0
+[Tue Dec 06 21:54:07 2016]  ClientConnect: 0
+[Tue Dec 06 21:54:07 2016]  mlog:Player Padawan, connected. With IP - 217.208.104.133:29070 
+[Tue Dec 06 21:54:18 2016]  ClientConnect: 1
+[Tue Dec 06 21:54:18 2016]  mlog:Player Olli576, connected. With IP - 81.225.199.199:29070 
+[Tue Dec 06 21:54:28 2016]  ClientDisconnect: 1
+[Tue Dec 06 21:54:29 2016]  ClientBegin: 0
+[Tue Dec 06 21:55:05 2016]  ClientConnect: 1
+[Tue Dec 06 21:55:05 2016]  mlog:Player Olli576, connected. With IP - 81.225.199.199:29070 
+[Tue Dec 06 21:55:15 2016]  ClientDisconnect: 1
+[Tue Dec 06 21:55:48 2016]  ClientConnect: 1
+[Tue Dec 06 21:55:48 2016]  mlog:Player Olli576, connected. With IP - 81.225.199.199:29070 
+[Tue Dec 06 21:56:11 2016]  ClientBegin: 1
+[Tue Dec 06 21:57:13 2016]  Kill: 1 0 3: Olli576 killed Padawan by MOD_SABER
+[Tue Dec 06 21:57:37 2016]  say: Padawan:  
+[Tue Dec 06 21:58:36 2016]  Kill: 1 0 31: Olli576 killed Padawan by MOD_FORCE_DARK
+[Tue Dec 06 21:59:04 2016]  Kill: 1 0 3: Olli576 killed Padawan by MOD_SABER
+[Tue Dec 06 21:59:39 2016]  ClientDisconnect: 0
+[Tue Dec 06 22:00:01 2016]  ClientDisconnect: 1
+[Wed Dec 07 05:18:55 2016]  ClientConnect: 0
+[Wed Dec 07 05:18:55 2016]  mlog:Player Legendary Pato, connected. With IP - 186.19.233.134:29070 
+[Wed Dec 07 05:19:22 2016]  ClientBegin: 0
+[Wed Dec 07 05:22:32 2016]  ClientDisconnect: 0
+[Wed Dec 07 12:57:56 2016]  ClientConnect: 0
+[Wed Dec 07 12:57:56 2016]  mlog:Player ^0J^1u^0r^1a, connected. With IP - 85.132.196.210:29070 
+[Wed Dec 07 12:58:25 2016]  ClientBegin: 0
+[Wed Dec 07 13:03:09 2016]  Kill: 1022 0 6: <world> killed Jura by MOD_BLASTER
+[Wed Dec 07 13:11:03 2016]  -8<------- Crash Information ------->8-
+[Wed Dec 07 13:11:03 2016]      Please forward to Scooper 
+[Wed Dec 07 13:11:03 2016]  ---------------------------------------
+[Wed Dec 07 13:11:03 2016]  Version: MakerMod Win32
+[Wed Dec 07 13:11:03 2016]  Build Date: Dec 27 2010[Wed Dec 07 13:11:03 2016]  Build Time: 23:45:02[Wed Dec 07 13:11:03 2016]  Map: t2_trip
+[Wed Dec 07 13:11:03 2016]  Exception: Access violation (0xc0000005)
+[Wed Dec 07 13:11:03 2016]  Exception Address: 0x201299d8
+[Wed Dec 07 13:11:03 2016]  DLL Information:
+[Wed Dec 07 13:11:03 2016]  0x00400000	jampDed
+[Wed Dec 07 13:11:03 2016]  0x77450000	ntdll
+[Wed Dec 07 13:11:03 2016]  0x752b0000	kernel32
+[Wed Dec 07 13:11:03 2016]  0x76710000	KERNELBASE
+[Wed Dec 07 13:11:03 2016]  0x727e0000	WSOCK32
+[Wed Dec 07 13:11:03 2016]  0x76fb0000	WS2_32
+[Wed Dec 07 13:11:03 2016]  0x76380000	msvcrt
+[Wed Dec 07 13:11:03 2016]  0x75130000	RPCRT4
+[Wed Dec 07 13:11:03 2016]  0x74f40000	SspiCli
+[Wed Dec 07 13:11:03 2016]  0x74f30000	CRYPTBASE
+[Wed Dec 07 13:11:03 2016]  0x75490000	sechost
+[Wed Dec 07 13:11:03 2016]  0x76920000	NSI
+[Wed Dec 07 13:11:03 2016]  0x6f880000	WINMM
+[Wed Dec 07 13:11:03 2016]  0x76940000	USER32
+[Wed Dec 07 13:11:03 2016]  0x761f0000	GDI32
+[Wed Dec 07 13:11:03 2016]  0x76840000	LPK
+[Wed Dec 07 13:11:03 2016]  0x753f0000	USP10
+[Wed Dec 07 13:11:03 2016]  0x75080000	ADVAPI32
+[Wed Dec 07 13:11:03 2016]  0x76ff0000	IMM32
+[Wed Dec 07 13:11:03 2016]  0x754b0000	MSCTF
+[Wed Dec 07 13:11:03 2016]  0x72780000	mswsock
+[Wed Dec 07 13:11:03 2016]  0x72770000	wshtcpip
+[Wed Dec 07 13:11:03 2016]  0x6e430000	NLAapi
+[Wed Dec 07 13:11:03 2016]  0x6e110000	napinsp
+[Wed Dec 07 13:11:03 2016]  0x6e0f0000	pnrpnsp
+[Wed Dec 07 13:11:03 2016]  0x72580000	DNSAPI
+[Wed Dec 07 13:11:03 2016]  0x6e0e0000	winrnr
+[Wed Dec 07 13:11:03 2016]  0x6e0d0000	wshbth
+[Wed Dec 07 13:11:03 2016]  0x16080000	mdnsNSP
+[Wed Dec 07 13:11:03 2016]  0x72670000	Iphlpapi
+[Wed Dec 07 13:11:03 2016]  0x72660000	WINNSI
+[Wed Dec 07 13:11:03 2016]  0x6e090000	fwpuclnt
+[Wed Dec 07 13:11:03 2016]  0x6e080000	rasadhlp
+[Wed Dec 07 13:11:03 2016]  0x20000000	jampgamex86
+[Wed Dec 07 13:11:03 2016]  0x766e0000	IMAGEHLP
+[Wed Dec 07 13:11:03 2016]  0x6eb80000	dbghelp
+[Wed Dec 07 13:11:03 2016]  Backtrace:
+[Wed Dec 07 13:11:03 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x67c08) [0x201299d8]
+[Wed Dec 07 13:11:03 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x67d32) [0x20129b02]
+[Wed Dec 07 13:11:03 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20043eab]
+[Wed Dec 07 13:11:03 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20044d48]
+[Wed Dec 07 13:11:03 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20044679]
+[Wed Dec 07 13:11:03 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x200450b2]
+[Wed Dec 07 13:11:03 2016]  (6) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20045225]
+[Wed Dec 07 13:11:03 2016]  (7) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20045988]
+[Wed Dec 07 13:11:03 2016]  (8) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x5fbe1) [0x201219b1]
+[Wed Dec 07 13:11:03 2016]  (9) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x5dbc4) [0x2011f994]
+[Wed Dec 07 13:11:03 2016]  (10) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x5e59b) [0x2012036b]
+[Wed Dec 07 13:11:03 2016]  (11) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x5f03f) [0x20120e0f]
+[Wed Dec 07 13:11:03 2016]  (12) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20081fd7]
+[Wed Dec 07 13:11:03 2016]  (13) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0xca) [0x2009f63a]
+[Wed Dec 07 13:11:03 2016]  (14) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Wed Dec 07 13:11:03 2016]  (15) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0043c45e]
+[Wed Dec 07 13:11:03 2016]  (16) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x00444213]
+[Wed Dec 07 13:11:03 2016]  (17) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0043c45e]
+[Wed Dec 07 13:11:03 2016]  (18) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x00444213]
+[Wed Dec 07 13:11:03 2016]  (19) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0043c1e0]
+[Wed Dec 07 13:11:03 2016]  (20) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0044c751]
+[Wed Dec 07 13:11:03 2016]  (21) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x00411e0d]
+[Wed Dec 07 13:11:03 2016]  (22) C:\Windows\syswow64\kernel32.dll(BaseThreadInitThunk+0x12) [0x752c336a]
+[Wed Dec 07 13:11:03 2016]  (23) C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x77489902]
+[Wed Dec 07 13:11:03 2016]  (24) C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x774898d5]
+[Wed Dec 07 13:11:03 2016]  -8<--------------------------------->8-
+
+[Wed Dec 07 13:11:03 2016]  Attempting to clean up.
+[Wed Dec 07 13:11:03 2016]  ShutdownGame:
+[Wed Dec 07 13:11:03 2016]  ------------------------------------------------------------

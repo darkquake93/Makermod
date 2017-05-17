@@ -1,0 +1,1983 @@
+[Sat Nov 14 15:33:46 2015]  ------------------------------------------------------------
+[Sat Nov 14 15:33:46 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Nov 15 11:44:49 2015]  ClientConnect: 0
+[Sun Nov 15 11:44:49 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Nov 15 11:45:27 2015]  ClientBegin: 0
+[Sun Nov 15 11:45:33 2015]  Item: 0 weapon_melee
+[Sun Nov 15 11:49:12 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Nov 15 11:53:49 2015]  ClientDisconnect: 0
+[Mon Nov 16 21:25:06 2015]  ClientConnect: 0
+[Mon Nov 16 21:25:06 2015]  mlog:Player Bendis, connected. With IP - 90.231.20.153:-9702 
+[Mon Nov 16 21:25:18 2015]  ClientBegin: 0
+[Mon Nov 16 21:25:29 2015]  ClientConnect: 1
+[Mon Nov 16 21:25:29 2015]  mlog:Player Kvartsfinne, connected. With IP - 85.229.167.226:29070 
+[Mon Nov 16 21:25:44 2015]  ClientBegin: 1
+[Mon Nov 16 21:26:49 2015]  Kill: 1 0 3: Kvartsfinne killed Padawan by MOD_SABER
+[Mon Nov 16 21:27:10 2015]  print "Padawan^7 @@@PLRENAME Bendis
+"[Mon Nov 16 21:27:54 2015]  Kill: 1 0 3: Kvartsfinne killed Bendis by MOD_SABER
+[Mon Nov 16 21:28:07 2015]  say: Kvartsfinne: /spawn speeder
+[Mon Nov 16 21:28:25 2015]  Kill: 1 0 5: Kvartsfinne killed Bendis by MOD_BRYAR_PISTOL_ALT
+[Mon Nov 16 21:30:11 2015]  Kill: 1 0 3: Kvartsfinne killed Bendis by MOD_SABER
+[Mon Nov 16 21:31:33 2015]  Kill: 0 1 4: Bendis killed Kvartsfinne by MOD_BRYAR_PISTOL
+[Mon Nov 16 21:32:35 2015]  Kill: 0 1 3: Bendis killed Kvartsfinne by MOD_SABER
+[Mon Nov 16 21:33:02 2015]  Kill: 1 0 3: Kvartsfinne killed Bendis by MOD_SABER
+[Mon Nov 16 21:33:12 2015]  Kill: 1 0 3: Kvartsfinne killed Bendis by MOD_SABER
+[Mon Nov 16 21:33:46 2015]  say: Kvartsfinne: /build speeder
+[Mon Nov 16 21:35:57 2015]  Kill: 1 0 4: Kvartsfinne killed Bendis by MOD_BRYAR_PISTOL
+[Mon Nov 16 21:37:29 2015]  say: Kvartsfinne: npc_spawn speeder
+[Mon Nov 16 21:37:38 2015]  say: Kvartsfinne: /npc_spawn speeder
+[Mon Nov 16 21:38:37 2015]  Kill: 1 0 3: Kvartsfinne killed Bendis by MOD_SABER
+[Mon Nov 16 21:42:50 2015]  Kill: 1 1 39: Kvartsfinne killed Kvartsfinne by MOD_SUICIDE
+[Mon Nov 16 21:44:25 2015]  ClientConnect: 2
+[Mon Nov 16 21:44:25 2015]  mlog:Player ^7§VÌr^1µ^7$§^1–A§C^7[^1O^7¯^1F^7], connected. With IP - 93.35.106.205:29070 
+[Mon Nov 16 21:45:55 2015]  ClientBegin: 2
+[Mon Nov 16 21:45:56 2015]  say: Katsumo7o: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon Nov 16 21:46:08 2015]  say: Katsumo7o: Hello
+[Mon Nov 16 21:46:38 2015]  Kill: 1 2 3: Kvartsfinne killed Katsumo7o by MOD_SABER
+[Mon Nov 16 21:46:39 2015]  tell: Katsumo7o to Kvartsfinne: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Kvartsfinne!
+[Mon Nov 16 21:47:00 2015]  Kill: 2 1 3: Katsumo7o killed Kvartsfinne by MOD_SABER
+[Mon Nov 16 21:47:00 2015]  tell: Katsumo7o to Kvartsfinne: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Kvartsfinne!
+[Mon Nov 16 21:47:04 2015]  Kill: 2 0 3: Katsumo7o killed Bendis by MOD_SABER
+[Mon Nov 16 21:47:45 2015]  Kill: 2 0 3: Katsumo7o killed Bendis by MOD_SABER
+[Mon Nov 16 21:47:45 2015]  tell: Katsumo7o to Bendis: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Bendis!
+[Mon Nov 16 21:48:03 2015]  Kill: 1 0 3: Kvartsfinne killed Bendis by MOD_SABER
+[Mon Nov 16 21:49:23 2015]  Kill: 2 2 39: Katsumo7o killed Katsumo7o by MOD_SUICIDE
+[Mon Nov 16 21:50:00 2015]  say: Katsumo7o: npc spawn jawa
+[Mon Nov 16 21:51:58 2015]  Kill: 0 1 3: Bendis killed Kvartsfinne by MOD_SABER
+[Mon Nov 16 21:52:10 2015]  Kill: 1022 0 39: <world> killed Bendis by MOD_SUICIDE
+[Mon Nov 16 21:52:16 2015]  Kill: 2 1 3: Katsumo7o killed Kvartsfinne by MOD_SABER
+[Mon Nov 16 21:52:17 2015]  tell: Katsumo7o to Kvartsfinne: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Kvartsfinne!
+[Mon Nov 16 21:52:44 2015]  Kill: 2 1 3: Katsumo7o killed Kvartsfinne by MOD_SABER
+[Mon Nov 16 21:52:45 2015]  tell: Katsumo7o to Kvartsfinne: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Kvartsfinne!
+[Mon Nov 16 21:53:04 2015]  Kill: 2 0 3: Katsumo7o killed Bendis by MOD_SABER
+[Mon Nov 16 21:53:04 2015]  tell: Katsumo7o to Bendis: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Bendis!
+[Mon Nov 16 21:53:16 2015]  Kill: 1 0 3: Kvartsfinne killed Bendis by MOD_SABER
+[Mon Nov 16 21:53:33 2015]  Kill: 2 1 3: Katsumo7o killed Kvartsfinne by MOD_SABER
+[Mon Nov 16 21:53:34 2015]  tell: Katsumo7o to Kvartsfinne: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Kvartsfinne!
+[Mon Nov 16 21:53:35 2015]  tell: Katsumo7o to Kvartsfinne: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Kvartsfinne!
+[Mon Nov 16 21:53:42 2015]  Kill: 2 0 3: Katsumo7o killed Bendis by MOD_SABER
+[Mon Nov 16 21:53:42 2015]  tell: Katsumo7o to Bendis: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Bendis!
+[Mon Nov 16 21:53:49 2015]  Kill: 2 0 3: Katsumo7o killed Bendis by MOD_SABER
+[Mon Nov 16 21:53:50 2015]  tell: Katsumo7o to Bendis: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Bendis!
+[Mon Nov 16 21:53:59 2015]  Kill: 2 1 3: Katsumo7o killed Kvartsfinne by MOD_SABER
+[Mon Nov 16 21:53:59 2015]  tell: Katsumo7o to Kvartsfinne: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Kvartsfinne!
+[Mon Nov 16 21:54:10 2015]  Kill: 1022 0 2: <world> killed Bendis by MOD_MELEE
+[Mon Nov 16 21:54:25 2015]  say: Katsumo7o: npc kill all
+[Mon Nov 16 21:54:28 2015]  Kill: 1022 2 2: <world> killed Katsumo7o by MOD_MELEE
+[Mon Nov 16 21:55:00 2015]  Kill: 1 2 3: Kvartsfinne killed Katsumo7o by MOD_SABER
+[Mon Nov 16 21:55:00 2015]  tell: Katsumo7o to Kvartsfinne: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Kvartsfinne!
+[Mon Nov 16 21:55:11 2015]  Kill: 1 0 3: Kvartsfinne killed Bendis by MOD_SABER
+[Mon Nov 16 21:55:38 2015]  Kill: 2 1 3: Katsumo7o killed Kvartsfinne by MOD_SABER
+[Mon Nov 16 21:55:39 2015]  tell: Katsumo7o to Kvartsfinne: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Kvartsfinne!
+[Mon Nov 16 21:55:41 2015]  Kill: 2 0 3: Katsumo7o killed Bendis by MOD_SABER
+[Mon Nov 16 21:55:41 2015]  tell: Katsumo7o to Bendis: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Bendis!
+[Mon Nov 16 21:55:46 2015]  Kill: 2 1 3: Katsumo7o killed Kvartsfinne by MOD_SABER
+[Mon Nov 16 21:55:47 2015]  tell: Katsumo7o to Kvartsfinne: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Kvartsfinne!
+[Mon Nov 16 21:56:48 2015]  Kill: 0 1 3: Bendis killed Kvartsfinne by MOD_SABER
+[Mon Nov 16 21:56:50 2015]  Kill: 2 0 3: Katsumo7o killed Bendis by MOD_SABER
+[Mon Nov 16 21:56:51 2015]  tell: Katsumo7o to Bendis: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Bendis!
+[Mon Nov 16 21:57:00 2015]  say: Kvartsfinne: give_item all
+[Mon Nov 16 21:57:12 2015]  Kill: 2 0 3: Katsumo7o killed Bendis by MOD_SABER
+[Mon Nov 16 21:57:12 2015]  tell: Katsumo7o to Bendis: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Bendis!
+[Mon Nov 16 21:57:30 2015]  say: Kvartsfinne: Stop god moding katsumo
+[Mon Nov 16 21:57:41 2015]  Kill: 2 1 3: Katsumo7o killed Kvartsfinne by MOD_SABER
+[Mon Nov 16 21:57:42 2015]  tell: Katsumo7o to Kvartsfinne: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Kvartsfinne!
+[Mon Nov 16 21:57:53 2015]  say: Katsumo7o: i am god xD
+[Mon Nov 16 21:59:31 2015]  Kill: 1022 0 2: <world> killed Bendis by MOD_MELEE
+[Mon Nov 16 22:00:33 2015]  Kill: 2 0 3: Katsumo7o killed Bendis by MOD_SABER
+[Mon Nov 16 22:00:34 2015]  tell: Katsumo7o to Bendis: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Bendis!
+[Mon Nov 16 22:01:21 2015]  Kill: 1022 0 39: <world> killed Bendis by MOD_SUICIDE
+[Mon Nov 16 22:02:42 2015]  Kill: 2 1 3: Katsumo7o killed Kvartsfinne by MOD_SABER
+[Mon Nov 16 22:02:43 2015]  tell: Katsumo7o to Kvartsfinne: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Kvartsfinne!
+[Mon Nov 16 22:03:07 2015]  say: Katsumo7o: where are you from guys?
+[Mon Nov 16 22:03:56 2015]  Kill: 2 0 3: Katsumo7o killed Bendis by MOD_SABER
+[Mon Nov 16 22:03:57 2015]  tell: Katsumo7o to Bendis: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Bendis!
+[Mon Nov 16 22:05:54 2015]  Kill: 2 0 3: Katsumo7o killed Bendis by MOD_SABER
+[Mon Nov 16 22:05:54 2015]  tell: Katsumo7o to Bendis: ^1§^7g^1g ^7& ^1w^7p^1§ ^7Bendis!
+[Mon Nov 16 22:06:04 2015]  ClientDisconnect: 2
+[Mon Nov 16 22:07:27 2015]  Kill: 1 0 3: Kvartsfinne killed Bendis by MOD_SABER
+[Mon Nov 16 22:09:55 2015]  Kill: 1022 0 39: <world> killed Bendis by MOD_SUICIDE
+[Mon Nov 16 22:12:02 2015]  Kill: 1022 0 39: <world> killed Bendis by MOD_SUICIDE
+[Mon Nov 16 22:12:20 2015]  Kill: 1022 1 39: <world> killed Kvartsfinne by MOD_SUICIDE
+[Mon Nov 16 22:12:55 2015]  Kill: 1022 1 39: <world> killed Kvartsfinne by MOD_SUICIDE
+[Mon Nov 16 22:13:17 2015]  Kill: 1022 0 39: <world> killed Bendis by MOD_SUICIDE
+[Mon Nov 16 22:13:30 2015]  Kill: 1022 1 39: <world> killed Kvartsfinne by MOD_SUICIDE
+[Mon Nov 16 22:13:47 2015]  Kill: 1022 1 39: <world> killed Kvartsfinne by MOD_SUICIDE
+[Mon Nov 16 22:14:21 2015]  Kill: 1022 1 39: <world> killed Kvartsfinne by MOD_SUICIDE
+[Mon Nov 16 22:14:37 2015]  Kill: 1022 1 39: <world> killed Kvartsfinne by MOD_SUICIDE
+[Mon Nov 16 22:14:37 2015]  Kill: 1022 0 39: <world> killed Bendis by MOD_SUICIDE
+[Mon Nov 16 22:15:02 2015]  Kill: 1022 1 39: <world> killed Kvartsfinne by MOD_SUICIDE
+[Mon Nov 16 22:15:13 2015]  Kill: 1 0 3: Kvartsfinne killed Bendis by MOD_SABER
+[Mon Nov 16 22:15:55 2015]  Kill: 1 0 28: Kvartsfinne killed Bendis by MOD_VEHICLE
+[Mon Nov 16 22:17:23 2015]  Kill: 1022 0 39: <world> killed Bendis by MOD_SUICIDE
+[Mon Nov 16 22:18:16 2015]  Kill: 1 0 5: Kvartsfinne killed Bendis by MOD_BRYAR_PISTOL_ALT
+[Mon Nov 16 22:18:39 2015]  Kill: 1 0 5: Kvartsfinne killed Bendis by MOD_BRYAR_PISTOL_ALT
+[Mon Nov 16 22:19:53 2015]  Kill: 1 0 3: Kvartsfinne killed Bendis by MOD_SABER
+[Mon Nov 16 22:20:25 2015]  say: Kvartsfinne: npc spawn vehicle wampa_vehicle
+[Mon Nov 16 22:21:40 2015]  Kill: 1 0 5: Kvartsfinne killed Bendis by MOD_BRYAR_PISTOL_ALT
+[Mon Nov 16 22:24:31 2015]  Kill: 1022 1 2: <world> killed Kvartsfinne by MOD_MELEE
+[Mon Nov 16 22:25:17 2015]  ClientDisconnect: 0
+[Mon Nov 16 22:25:17 2015]  ClientDisconnect: 1
+[Tue Nov 17 22:05:03 2015]  ClientConnect: 0
+[Tue Nov 17 22:05:03 2015]  mlog:Player Padawan, connected. With IP - 190.137.62.181:29071 
+[Tue Nov 17 22:05:43 2015]  ClientBegin: 0
+[Tue Nov 17 22:05:49 2015]  print "^3(J.N.R)^1JosÈ^5(J.C.L)^7 @@@PLRENAME Padawan
+"[Tue Nov 17 22:11:50 2015]  ClientDisconnect: 0
+[Wed Nov 18 17:41:46 2015]  ClientConnect: 0
+[Wed Nov 18 17:41:46 2015]  mlog:Player ^1<^3RO^1>^2MA^4ST^5ER, connected. With IP - 5.14.163.47:29070 
+[Wed Nov 18 17:42:12 2015]  ClientBegin: 0
+[Wed Nov 18 17:44:11 2015]  ClientConnect: 1
+[Wed Nov 18 17:44:11 2015]  mlog:Player NighTcoreistu, connected. With IP - 5.14.230.41:29070 
+[Wed Nov 18 17:44:25 2015]  Kill: 0 0 39: ^1<^3RO^1>^2MA^4ST^5ER killed ^1<^3RO^1>^2MA^4ST^5ER by MOD_SUICIDE
+[Wed Nov 18 17:44:33 2015]  ClientBegin: 1
+[Wed Nov 18 17:45:05 2015]  Kill: 1 0 3: NighTcoreistu killed ^1<^3RO^1>^2MA^4ST^5ER by MOD_SABER
+[Wed Nov 18 17:47:24 2015]  Kill: 1022 1 2: <world> killed NighTcoreistu by MOD_MELEE
+[Wed Nov 18 17:48:19 2015]  Kill: 1022 1 2: <world> killed NighTcoreistu by MOD_MELEE
+[Wed Nov 18 17:49:46 2015]  Kill: 1 1 39: NighTcoreistu killed NighTcoreistu by MOD_SUICIDE
+[Wed Nov 18 18:02:39 2015]  ClientDisconnect: 0
+[Wed Nov 18 18:02:47 2015]  ClientDisconnect: 1
+[Wed Nov 18 22:53:00 2015]  ClientConnect: 0
+[Wed Nov 18 22:53:00 2015]  mlog:Player Padawan, connected. With IP - 86.17.64.163:29070 
+[Wed Nov 18 22:53:41 2015]  ClientBegin: 0
+[Wed Nov 18 22:54:03 2015]  print "Padawan^7 @@@PLRENAME ^1{^0LR^1}^1B^0andana^1B^0enji
+"[Wed Nov 18 22:58:42 2015]  ClientDisconnect: 0
+[Thu Nov 19 16:02:59 2015]  ClientConnect: 0
+[Thu Nov 19 16:02:59 2015]  mlog:Player LedSet, connected. With IP - 109.240.6.8:2862 
+[Thu Nov 19 16:03:35 2015]  ClientBegin: 0
+[Thu Nov 19 16:05:06 2015]  ClientDisconnect: 0
+[Thu Nov 19 16:20:49 2015]  ClientConnect: 0
+[Thu Nov 19 16:20:49 2015]  mlog:Player ^7[^0H^7}^7^0Gloshaty^7{^0PRL^7], connected. With IP - 87.117.37.20:11843 
+[Thu Nov 19 16:21:41 2015]  ClientBegin: 0
+[Thu Nov 19 16:22:24 2015]  Kill: 1022 0 7: <world> killed ^5Nevol^3ya^5shka by MOD_TURBLAST
+[Thu Nov 19 16:24:10 2015]  ClientDisconnect: 0
+[Thu Nov 19 17:57:33 2015]  ClientConnect: 0
+[Thu Nov 19 17:57:33 2015]  mlog:Player gobrCZ, connected. With IP - 85.71.33.251:29070 
+[Thu Nov 19 17:57:46 2015]  ClientConnect: 1
+[Thu Nov 19 17:57:46 2015]  mlog:Player Muudys, connected. With IP - 78.157.167.69:-32695 
+[Thu Nov 19 17:58:05 2015]  ClientBegin: 0
+[Thu Nov 19 17:58:08 2015]  ClientBegin: 1
+[Thu Nov 19 17:58:53 2015]  Kill: 1 0 3: Muudys killed gobrCZ by MOD_SABER
+[Thu Nov 19 17:59:00 2015]  Kill: 1 0 3: Muudys killed gobrCZ by MOD_SABER
+[Thu Nov 19 17:59:13 2015]  Kill: 1 0 3: Muudys killed gobrCZ by MOD_SABER
+[Thu Nov 19 17:59:34 2015]  Kill: 1 0 3: Muudys killed gobrCZ by MOD_SABER
+[Thu Nov 19 18:00:10 2015]  Kill: 1 0 3: Muudys killed gobrCZ by MOD_SABER
+[Thu Nov 19 18:00:15 2015]  ClientDisconnect: 1
+[Thu Nov 19 18:01:20 2015]  ClientConnect: 1
+[Thu Nov 19 18:01:20 2015]  mlog:Player Muudys, connected. With IP - 78.157.167.69:-32695 
+[Thu Nov 19 18:01:48 2015]  ClientBegin: 1
+[Thu Nov 19 18:01:49 2015]  ClientConnect: 2
+[Thu Nov 19 18:01:49 2015]  mlog:Player Freel, connected. With IP - 78.157.167.69:-32252 
+[Thu Nov 19 18:02:05 2015]  Kill: 1 0 3: Muudys killed gobrCZ by MOD_SABER
+[Thu Nov 19 18:02:09 2015]  ClientBegin: 2
+[Thu Nov 19 18:02:20 2015]  Kill: 0 2 3: gobrCZ killed Freel by MOD_SABER
+[Thu Nov 19 18:02:23 2015]  Kill: 0 1 3: gobrCZ killed Muudys by MOD_SABER
+[Thu Nov 19 18:02:24 2015]  Kill: 2 0 3: Freel killed gobrCZ by MOD_SABER
+[Thu Nov 19 18:02:32 2015]  Kill: 0 1 3: gobrCZ killed Muudys by MOD_SABER
+[Thu Nov 19 18:02:41 2015]  Kill: 1 0 3: Muudys killed gobrCZ by MOD_SABER
+[Thu Nov 19 18:03:14 2015]  Kill: 0 2 3: gobrCZ killed Freel by MOD_SABER
+[Thu Nov 19 18:03:38 2015]  Kill: 2 0 3: Freel killed gobrCZ by MOD_SABER
+[Thu Nov 19 18:04:13 2015]  Kill: 2 1 3: Freel killed Muudys by MOD_SABER
+[Thu Nov 19 18:04:26 2015]  Kill: 1 0 3: Muudys killed gobrCZ by MOD_SABER
+[Thu Nov 19 18:04:31 2015]  Kill: 2 1 3: Freel killed Muudys by MOD_SABER
+[Thu Nov 19 18:04:42 2015]  Kill: 2 1 3: Freel killed Muudys by MOD_SABER
+[Thu Nov 19 18:04:51 2015]  Kill: 0 2 3: gobrCZ killed Freel by MOD_SABER
+[Thu Nov 19 18:05:02 2015]  Kill: 1 0 3: Muudys killed gobrCZ by MOD_SABER
+[Thu Nov 19 18:05:19 2015]  Kill: 2 0 31: Freel killed gobrCZ by MOD_FORCE_DARK
+[Thu Nov 19 18:05:26 2015]  Kill: 2 1 3: Freel killed Muudys by MOD_SABER
+[Thu Nov 19 18:05:33 2015]  Kill: 1 0 31: Muudys killed gobrCZ by MOD_FORCE_DARK
+[Thu Nov 19 18:05:40 2015]  Kill: 1 2 3: Muudys killed Freel by MOD_SABER
+[Thu Nov 19 18:05:48 2015]  Kill: 2 1 3: Freel killed Muudys by MOD_SABER
+[Thu Nov 19 18:06:11 2015]  Kill: 2 1 3: Freel killed Muudys by MOD_SABER
+[Thu Nov 19 18:06:39 2015]  ClientDisconnect: 0
+[Thu Nov 19 18:07:18 2015]  Kill: 1022 1 2: <world> killed Muudys by MOD_MELEE
+[Thu Nov 19 18:07:41 2015]  Kill: 1022 2 38: <world> killed Freel by MOD_FALLING
+[Thu Nov 19 18:07:48 2015]  ClientDisconnect: 2
+[Thu Nov 19 18:07:58 2015]  ClientDisconnect: 1
+[Fri Nov 20 00:20:37 2015]  ClientConnect: 0
+[Fri Nov 20 00:20:37 2015]  mlog:Player ^3(J.N.R)^0S^7–^0elt^77^0(^7M3^0), connected. With IP - 190.72.158.34:2817 
+[Fri Nov 20 00:21:00 2015]  ClientBegin: 0
+[Fri Nov 20 00:21:55 2015]  ClientDisconnect: 0
+[Fri Nov 20 13:45:04 2015]  ClientConnect: 0
+[Fri Nov 20 13:45:04 2015]  mlog:Player ^3(J.N.R)^0S^7–^0elt^77^0(^7M3^0), connected. With IP - 190.72.158.34:-14687 
+[Fri Nov 20 13:45:44 2015]  ClientBegin: 0
+[Fri Nov 20 13:46:59 2015]  ClientDisconnect: 0
+[Fri Nov 20 23:15:25 2015]  ClientConnect: 0
+[Fri Nov 20 23:15:25 2015]  mlog:Player Padawan, connected. With IP - 190.136.185.227:29070 
+[Fri Nov 20 23:16:56 2015]  ClientBegin: 0
+[Fri Nov 20 23:17:44 2015]  ClientDisconnect: 0
+[Sat Nov 21 10:56:13 2015]  ClientConnect: 0
+[Sat Nov 21 10:56:13 2015]  mlog:Player Padawan, connected. With IP - 190.136.185.227:29070 
+[Sat Nov 21 10:57:13 2015]  ClientBegin: 0
+[Sat Nov 21 10:57:19 2015]  print "^3(J.N.R)^1Plokoon^4(J.S.L)^7 @@@PLRENAME Padawam
+"[Sat Nov 21 10:57:25 2015]  print "Padawam^7 @@@PLRENAME Padawan
+"[Sat Nov 21 11:32:44 2015]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 21 11:59:09 2015]  ClientDisconnect: 0
+[Sat Nov 21 15:14:35 2015]  ClientConnect: 0
+[Sat Nov 21 15:14:35 2015]  mlog:Player Padawan, connected. With IP - 200.117.29.252:29071 
+[Sat Nov 21 15:16:43 2015]  ClientBegin: 0
+[Sat Nov 21 15:16:56 2015]  print "^3(J.N.R)^1JosÈ^5(J.C.L)^7 @@@PLRENAME Padawan
+"[Sat Nov 21 15:26:51 2015]  ClientDisconnect: 0
+[Sat Nov 21 19:19:17 2015]  ClientConnect: 0
+[Sat Nov 21 19:19:17 2015]  mlog:Player Bergel, connected. With IP - 92.226.4.34:29070 
+[Sat Nov 21 19:19:21 2015]  ClientConnect: 1
+[Sat Nov 21 19:19:21 2015]  mlog:Player Ariktor, connected. With IP - 88.134.145.239:29070 
+[Sat Nov 21 19:19:31 2015]  ClientBegin: 0
+[Sat Nov 21 19:19:49 2015]  ClientBegin: 1
+[Sat Nov 21 19:21:39 2015]  Kill: 0 1 3: Bergel killed Ariktor by MOD_SABER
+[Sat Nov 21 19:26:01 2015]  Kill: 1 0 5: Ariktor killed Bergel by MOD_BRYAR_PISTOL_ALT
+[Sat Nov 21 19:26:42 2015]  ClientDisconnect: 0
+[Sat Nov 21 19:26:45 2015]  ClientDisconnect: 1
+[Sat Nov 21 23:37:01 2015]  ClientConnect: 0
+[Sat Nov 21 23:37:01 2015]  mlog:Player ^3(J.N.R)^1JosÈ^5(J.C.L), connected. With IP - 181.95.14.187:29071 
+[Sat Nov 21 23:39:02 2015]  ClientBegin: 0
+[Sat Nov 21 23:40:50 2015]  ClientConnect: 1
+[Sat Nov 21 23:40:50 2015]  mlog:Player ryder sucks, connected. With IP - 91.230.25.125:29070 
+[Sat Nov 21 23:41:30 2015]  ClientBegin: 1
+[Sat Nov 21 23:41:36 2015]  Kill: 1 1 39: kosher killed kosher by MOD_SUICIDE
+[Sat Nov 21 23:41:36 2015]  setteam:  1 FREE SPECTATOR
+[Sat Nov 21 23:41:36 2015]  ClientBegin: 1
+[Sat Nov 21 23:41:48 2015]  setteam:  1 SPECTATOR FREE
+[Sat Nov 21 23:41:48 2015]  ClientBegin: 1
+[Sat Nov 21 23:52:04 2015]  ClientDisconnect: 1
+[Sat Nov 21 23:53:10 2015]  ClientConnect: 1
+[Sat Nov 21 23:53:10 2015]  mlog:Player ^3(J.N.R)^0S^7–^0elt^77^0(^7M3^0), connected. With IP - 190.206.206.204:21345 
+[Sat Nov 21 23:53:27 2015]  ClientDisconnect: 0
+[Sat Nov 21 23:53:35 2015]  ClientBegin: 1
+[Sat Nov 21 23:55:47 2015]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Nov 22 00:02:43 2015]  say: Padawan: mkill
+[Sun Nov 22 00:17:40 2015]  print "Padawan^7 @@@PLRENAME ^3(J.N.R)^1Sdel^7(M3)
+"[Sun Nov 22 00:18:51 2015]  Kill: 1022 1 38: <world> killed ^3(J.N.R)^1Sdel^7(M3) by MOD_FALLING
+[Sun Nov 22 00:28:04 2015]  ClientDisconnect: 1
+[Sun Nov 22 13:29:03 2015]  ClientConnect: 0
+[Sun Nov 22 13:29:03 2015]  mlog:Player Padawan, connected. With IP - 86.17.64.163:29070 
+[Sun Nov 22 13:29:52 2015]  ClientBegin: 0
+[Sun Nov 22 13:30:22 2015]  say: ^1{^0LR^1}^1B^0andana^1B^0enji: ^0{^1LR^0}^1P^0assenger ^1C^0ruiser ^3WIP ^2built by ^1B^0andana^1B^0enji
+[Sun Nov 22 13:31:13 2015]  ClientDisconnect: 0
+[Sun Nov 22 14:13:37 2015]  ClientConnect: 0
+[Sun Nov 22 14:13:37 2015]  mlog:Player ^3(J.N.R)^4S^7d^4el^1(^7M3^1), connected. With IP - 190.206.206.204:19009 
+[Sun Nov 22 14:13:51 2015]  ClientConnect: 1
+[Sun Nov 22 14:13:51 2015]  mlog:Player ^3(J.N.R)^4Seba(AM2), connected. With IP - 190.55.0.207:29070 
+[Sun Nov 22 14:14:07 2015]  ClientBegin: 0
+[Sun Nov 22 14:14:26 2015]  ClientBegin: 1
+[Sun Nov 22 14:14:37 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): re sith la cosa
+[Sun Nov 22 14:14:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): veni
+[Sun Nov 22 14:14:42 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:14:54 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aun
+[Sun Nov 22 14:14:57 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): esta en construccion
+[Sun Nov 22 14:15:00 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:15:02 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): fue lo ultimo que jose me dijo que hiciera
+[Sun Nov 22 14:15:03 2015]  say: ^3(J.N.R)^4Seba(AM2): jose armo esto?
+[Sun Nov 22 14:15:08 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): me lo dijo a mi que lo armara
+[Sun Nov 22 14:15:16 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mira
+[Sun Nov 22 14:15:21 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:15:23 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): veni
+[Sun Nov 22 14:15:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): R
+[Sun Nov 22 14:15:36 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:15:39 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ven
+[Sun Nov 22 14:15:52 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Nose que mas ponerle
+[Sun Nov 22 14:15:55 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): asi quedo
+[Sun Nov 22 14:15:57 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ven
+[Sun Nov 22 14:16:23 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Decime 
+[Sun Nov 22 14:16:25 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): que mas le pongo
+[Sun Nov 22 14:16:31 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): quiero hacer algo asi como
+[Sun Nov 22 14:16:33 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): un refugio
+[Sun Nov 22 14:16:37 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:16:40 2015]  say: ^3(J.N.R)^4Seba(AM2): mm
+[Sun Nov 22 14:16:54 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): esta feo las cosa aca
+[Sun Nov 22 14:16:56 2015]  say: ^3(J.N.R)^4Seba(AM2): no se xd
+[Sun Nov 22 14:16:57 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): para entrenar
+[Sun Nov 22 14:17:00 2015]  say: ^3(J.N.R)^4Seba(AM2): si
+[Sun Nov 22 14:17:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): esta mas bugeado
+[Sun Nov 22 14:17:03 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): que maker 1
+[Sun Nov 22 14:17:03 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:17:07 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): no lo tocas bldo
+[Sun Nov 22 14:17:08 2015]  say: ^3(J.N.R)^4Seba(AM2): pero te lo dijo ayer esto?=
+[Sun Nov 22 14:17:14 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): cuando
+[Sun Nov 22 14:17:15 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): lol
+[Sun Nov 22 14:17:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xddd
+[Sun Nov 22 14:17:20 2015]  Kill: 1 0 3: ^3(J.N.R)^4Seba(AM2) killed ^3(J.N.R)^4S^7d^4el^1(^7M3^1) by MOD_SABER
+[Sun Nov 22 14:17:21 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:17:25 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): feo
+[Sun Nov 22 14:17:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): esto aca
+[Sun Nov 22 14:17:28 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): me lo dijo
+[Sun Nov 22 14:17:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): cuando cayo latino
+[Sun Nov 22 14:17:35 2015]  say: ^3(J.N.R)^4Seba(AM2): a entonces
+[Sun Nov 22 14:17:38 2015]  say: ^3(J.N.R)^4Seba(AM2): sabias que se iba xd
+[Sun Nov 22 14:17:41 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se
+[Sun Nov 22 14:18:00 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): av er
+[Sun Nov 22 14:18:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): saco eso
+[Sun Nov 22 14:18:12 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mierda
+[Sun Nov 22 14:18:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): esta tan bug
+[Sun Nov 22 14:18:17 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): que no lo puedo seleccionar
+[Sun Nov 22 14:18:21 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 14:18:34 2015]  Kill: 1 1 39: ^3(J.N.R)^4Seba(AM2) killed ^3(J.N.R)^4Seba(AM2) by MOD_SUICIDE
+[Sun Nov 22 14:18:44 2015]  Kill: 1 1 39: ^3(J.N.R)^4Seba(AM2) killed ^3(J.N.R)^4Seba(AM2) by MOD_SUICIDE
+[Sun Nov 22 14:18:48 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y bueno
+[Sun Nov 22 14:18:51 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): no lo puedo agarrar
+[Sun Nov 22 14:18:54 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:19:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): anda a cagar dejemoslo ahi xd
+[Sun Nov 22 14:19:04 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a ver
+[Sun Nov 22 14:19:05 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:19:08 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): que le podemos poner
+[Sun Nov 22 14:19:10 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): el consejo
+[Sun Nov 22 14:19:15 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:19:18 2015]  say: ^3(J.N.R)^4Seba(AM2): para que el consejo
+[Sun Nov 22 14:19:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): necesitamos un lugar para eso
+[Sun Nov 22 14:19:24 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:19:25 2015]  say: ^3(J.N.R)^4Seba(AM2): no creo 
+[Sun Nov 22 14:19:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): para que lo pusieron en maker 1 entocnes
+[Sun Nov 22 14:19:28 2015]  say: ^3(J.N.R)^4Seba(AM2): que utilizemos tanto
+[Sun Nov 22 14:19:32 2015]  say: ^3(J.N.R)^4Seba(AM2): el sv este
+[Sun Nov 22 14:19:34 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): me cagas d:
+[Sun Nov 22 14:19:36 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:19:37 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ponete 
+[Sun Nov 22 14:19:42 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): que no se pueda mas el sv de jnr
+[Sun Nov 22 14:19:44 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): o se lagea
+[Sun Nov 22 14:19:45 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): o que se yo
+[Sun Nov 22 14:19:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y somo
+[Sun Nov 22 14:19:48 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 20
+[Sun Nov 22 14:19:49 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:19:50 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a donde vamos
+[Sun Nov 22 14:19:58 2015]  say: ^3(J.N.R)^4Seba(AM2): si pero todos diran
+[Sun Nov 22 14:20:03 2015]  say: ^3(J.N.R)^4Seba(AM2): da el block es una mierda vamos a otro sv
+[Sun Nov 22 14:20:06 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Es esto o nada
+[Sun Nov 22 14:20:08 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ademas
+[Sun Nov 22 14:20:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es mejor tenerlo que no tenerlo d:
+[Sun Nov 22 14:20:16 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:20:35 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): re hd el jka lo tengo
+[Sun Nov 22 14:20:39 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:20:42 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mira cuantos fps
+[Sun Nov 22 14:20:50 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): quien te conoce bajon de pfs
+[Sun Nov 22 14:20:53 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:20:53 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pfs
+[Sun Nov 22 14:20:54 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xddd
+[Sun Nov 22 14:20:58 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Dios viste el 
+[Sun Nov 22 14:21:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): barca vs madrid=
+[Sun Nov 22 14:21:02 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): _
+[Sun Nov 22 14:21:05 2015]  say: ^3(J.N.R)^4Seba(AM2): si xd
+[Sun Nov 22 14:21:09 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 4-0 d:
+[Sun Nov 22 14:21:12 2015]  say: ^3(J.N.R)^4Seba(AM2): se lo violo
+[Sun Nov 22 14:21:14 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se
+[Sun Nov 22 14:21:22 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y todos los barcelonistas con 
+[Sun Nov 22 14:21:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): OFM
+[Sun Nov 22 14:21:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): OMFG
+[Sun Nov 22 14:21:27 2015]  say: ^3(J.N.R)^4Seba(AM2): xDDD
+[Sun Nov 22 14:21:28 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): TE AMO MESSI
+[Sun Nov 22 14:21:31 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): HACEME 4 HIJOS
+[Sun Nov 22 14:21:36 2015]  say: ^3(J.N.R)^4Seba(AM2): arre que messi jugo re poco xd
+[Sun Nov 22 14:21:42 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pero asi son ellos xd
+[Sun Nov 22 14:21:44 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:21:56 2015]  say: ^3(J.N.R)^4Seba(AM2): si esta el sable
+[Sun Nov 22 14:21:59 2015]  say: ^3(J.N.R)^4Seba(AM2): de the academy v3
+[Sun Nov 22 14:22:02 2015]  say: ^3(J.N.R)^4Seba(AM2): lo tiene el sv xd
+[Sun Nov 22 14:22:07 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): arre
+[Sun Nov 22 14:22:11 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): lo malo es que en esta gilada
+[Sun Nov 22 14:22:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): no se cambia los mapas
+[Sun Nov 22 14:22:16 2015]  say: ^3(J.N.R)^4Seba(AM2): lol xd
+[Sun Nov 22 14:22:32 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): nose puede lpm xd
+[Sun Nov 22 14:22:36 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): bueno
+[Sun Nov 22 14:22:37 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:22:37 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): creo que
+[Sun Nov 22 14:22:40 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): puedo montar un maker yo
+[Sun Nov 22 14:22:49 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): le pongo blocks buenos
+[Sun Nov 22 14:22:52 2015]  say: ^3(J.N.R)^4Seba(AM2): despues de lo que paso xd
+[Sun Nov 22 14:22:53 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y pass al sv
+[Sun Nov 22 14:23:18 2015]  say: ^3(J.N.R)^4Seba(AM2): pero
+[Sun Nov 22 14:23:19 2015]  say: ^3(J.N.R)^4Seba(AM2): que sea 
+[Sun Nov 22 14:23:21 2015]  say: ^3(J.N.R)^4Seba(AM2): tu host 
+[Sun Nov 22 14:23:27 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): estaras
+[Sun Nov 22 14:23:29 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 5000
+[Sun Nov 22 14:23:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): de ping
+[Sun Nov 22 14:23:31 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:23:32 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y solo es 999
+[Sun Nov 22 14:23:39 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Pero no creas que
+[Sun Nov 22 14:23:41 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): fue culpa de drack
+[Sun Nov 22 14:23:45 2015]  say: ^3(J.N.R)^4Seba(AM2): no si ya se xd
+[Sun Nov 22 14:23:49 2015]  say: ^3(J.N.R)^4Seba(AM2): drack no tuvo la culpa
+[Sun Nov 22 14:23:51 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): fue culpa mia en gran parte xd pero
+[Sun Nov 22 14:23:56 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): No sabia que la 
+[Sun Nov 22 14:23:58 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): como se llama
+[Sun Nov 22 14:23:59 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): rcon
+[Sun Nov 22 14:24:01 2015]  say: ^3(J.N.R)^4Seba(AM2): rcon
+[Sun Nov 22 14:24:03 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): lo usaban los sao
+[Sun Nov 22 14:24:04 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): asi que
+[Sun Nov 22 14:24:05 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): puse otra
+[Sun Nov 22 14:24:23 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): queria
+[Sun Nov 22 14:24:25 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): montarlo
+[Sun Nov 22 14:24:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pero con
+[Sun Nov 22 14:24:28 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): atlantica
+[Sun Nov 22 14:24:31 2015]  say: ^3(J.N.R)^4Seba(AM2): uff xd
+[Sun Nov 22 14:24:33 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): re bonito el mapa xd
+[Sun Nov 22 14:24:35 2015]  say: ^3(J.N.R)^4Seba(AM2): mapa gigante
+[Sun Nov 22 14:24:43 2015]  say: ^3(J.N.R)^4Seba(AM2): me tardaba
+[Sun Nov 22 14:24:46 2015]  say: ^3(J.N.R)^4Seba(AM2): 30 min
+[Sun Nov 22 14:24:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 14:24:48 2015]  say: ^3(J.N.R)^4Seba(AM2): en bajarse xd
+[Sun Nov 22 14:24:56 2015]  say: ^3(J.N.R)^4Seba(AM2): y nunca lo baje
+[Sun Nov 22 14:24:59 2015]  say: ^3(J.N.R)^4Seba(AM2): ni tampoco lo vi xd
+[Sun Nov 22 14:25:05 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): yo lo iba a bajar
+[Sun Nov 22 14:25:07 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pero no podia
+[Sun Nov 22 14:25:10 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tenia que apagar el pc
+[Sun Nov 22 14:25:12 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): por el regulador
+[Sun Nov 22 14:25:13 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:25:17 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se recalienta la mierda esa
+[Sun Nov 22 14:25:20 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y un regulador aca
+[Sun Nov 22 14:25:23 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): esta costando 
+[Sun Nov 22 14:25:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 6.000 mil
+[Sun Nov 22 14:25:28 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 14:25:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): lo cual es mucho
+[Sun Nov 22 14:25:32 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y yo dije
+[Sun Nov 22 14:25:35 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Me are millonario
+[Sun Nov 22 14:25:37 2015]  say: ^3(J.N.R)^4Seba(AM2): son re chorro alla
+[Sun Nov 22 14:25:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): me unire a los isis
+[Sun Nov 22 14:25:41 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 14:25:41 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y dire
+[Sun Nov 22 14:25:43 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): maten a maduro
+[Sun Nov 22 14:25:46 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a los chavistas
+[Sun Nov 22 14:25:49 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tomen a sus mujeres
+[Sun Nov 22 14:25:53 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): violenlas d:<
+[Sun Nov 22 14:25:54 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y pongan
+[Sun Nov 22 14:25:55 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 14:25:56 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a un tipo que
+[Sun Nov 22 14:26:00 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): sea presidente guarron
+[Sun Nov 22 14:26:05 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y pum
+[Sun Nov 22 14:26:07 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): un regulador baja a
+[Sun Nov 22 14:26:11 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 20 bsf
+[Sun Nov 22 14:26:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): lo cual
+[Sun Nov 22 14:26:14 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): no es nada
+[Sun Nov 22 14:26:17 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:26:20 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y me comprare mi regulador
+[Sun Nov 22 14:26:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): dejare de ser millonario
+[Sun Nov 22 14:26:28 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y vivire dcomo antes
+[Sun Nov 22 14:26:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y dian
+[Sun Nov 22 14:26:31 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): diran
+[Sun Nov 22 14:26:33 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mira es sdel
+[Sun Nov 22 14:26:37 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): el que mando a matar a maduro
+[Sun Nov 22 14:26:39 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): por un regulador 
+[Sun Nov 22 14:26:39 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:26:40 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): d:
+[Sun Nov 22 14:26:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es que es gil ese xd
+[Sun Nov 22 14:27:03 2015]  say: ^3(J.N.R)^4Seba(AM2): hoy hay votacion xd
+[Sun Nov 22 14:27:06 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): arre
+[Sun Nov 22 14:27:16 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): que dijo
+[Sun Nov 22 14:27:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): matti sobre lo de jho
+[Sun Nov 22 14:27:25 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:27:28 2015]  say: ^3(J.N.R)^4Seba(AM2): nada
+[Sun Nov 22 14:27:39 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y de haberme insultado a mis espaldas?
+[Sun Nov 22 14:27:45 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:27:47 2015]  say: ^3(J.N.R)^4Seba(AM2): tampoco nada
+[Sun Nov 22 14:27:56 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y bueno
+[Sun Nov 22 14:28:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mirqa
+[Sun Nov 22 14:28:03 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tengo una corneta
+[Sun Nov 22 14:28:10 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): donde tas
+[Sun Nov 22 14:28:15 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:28:15 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): escucha
+[Sun Nov 22 14:28:21 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): esta son las musicas de la radio
+[Sun Nov 22 14:28:27 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): la cuales son reggetaon
+[Sun Nov 22 14:28:33 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): te pone
+[Sun Nov 22 14:28:34 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): electrico
+[Sun Nov 22 14:28:37 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y te hace vomitar
+[Sun Nov 22 14:28:37 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:28:46 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): quien es
+[Sun Nov 22 14:28:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ese macri
+[Sun Nov 22 14:28:50 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:28:52 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): creo que asi se llamaba
+[Sun Nov 22 14:28:54 2015]  say: ^3(J.N.R)^4Seba(AM2): si
+[Sun Nov 22 14:28:59 2015]  say: ^3(J.N.R)^4Seba(AM2): candidato para presidente
+[Sun Nov 22 14:29:05 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y porque le hacen tanto bullyng xd
+[Sun Nov 22 14:29:07 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:29:10 2015]  say: ^3(J.N.R)^4Seba(AM2): lo joden nomas
+[Sun Nov 22 14:29:15 2015]  say: ^3(J.N.R)^4Seba(AM2): por lo que dicen los otros
+[Sun Nov 22 14:29:25 2015]  say: ^3(J.N.R)^4Seba(AM2): que son los K que esos estuvieron con chavez
+[Sun Nov 22 14:29:31 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): lolxd
+[Sun Nov 22 14:29:39 2015]  say: ^3(J.N.R)^4Seba(AM2): quieren hacer
+[Sun Nov 22 14:29:44 2015]  say: ^3(J.N.R)^4Seba(AM2): un venezuela pero modo argentino
+[Sun Nov 22 14:29:48 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): que giles xd
+[Sun Nov 22 14:29:50 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:29:54 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y quien
+[Sun Nov 22 14:29:58 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): crees que sea buen presidente para arg
+[Sun Nov 22 14:30:02 2015]  say: ^3(J.N.R)^4Seba(AM2): macri xd
+[Sun Nov 22 14:30:04 2015]  say: ^3(J.N.R)^4Seba(AM2): porque el otro
+[Sun Nov 22 14:30:05 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd!
+[Sun Nov 22 14:30:09 2015]  say: ^3(J.N.R)^4Seba(AM2): dice un monton de cosas
+[Sun Nov 22 14:30:12 2015]  say: ^3(J.N.R)^4Seba(AM2): para que lo voten
+[Sun Nov 22 14:30:15 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): jaja
+[Sun Nov 22 14:30:16 2015]  say: ^3(J.N.R)^4Seba(AM2): dice 
+[Sun Nov 22 14:30:30 2015]  say: ^3(J.N.R)^4Seba(AM2): el otro es de plata y yo siempre fui un trabajador
+[Sun Nov 22 14:30:33 2015]  say: ^3(J.N.R)^4Seba(AM2): lo cual le ves la casa
+[Sun Nov 22 14:30:39 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se se
+[Sun Nov 22 14:30:40 2015]  say: ^3(J.N.R)^4Seba(AM2): y es una mansion practicamente
+[Sun Nov 22 14:30:41 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): dicen lo mismo aca
+[Sun Nov 22 14:30:46 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): son re giles
+[Sun Nov 22 14:30:52 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:30:53 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y que paso con la pelotuda que tenian de presidente
+[Sun Nov 22 14:30:56 2015]  say: ^3(J.N.R)^4Seba(AM2): sigue 
+[Sun Nov 22 14:31:00 2015]  say: ^3(J.N.R)^4Seba(AM2): pero hay elecciones hoy
+[Sun Nov 22 14:31:05 2015]  say: ^3(J.N.R)^4Seba(AM2): dentro de 2 semanas se va la hdp
+[Sun Nov 22 14:31:06 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y la sigue cagando xd?
+[Sun Nov 22 14:31:09 2015]  say: ^3(J.N.R)^4Seba(AM2): si xd
+[Sun Nov 22 14:31:11 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xdddd
+[Sun Nov 22 14:31:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aca
+[Sun Nov 22 14:31:22 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): elecciones el 6D
+[Sun Nov 22 14:31:25 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tpero no recuerdo de qu
+[Sun Nov 22 14:31:29 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): creo que era
+[Sun Nov 22 14:31:32 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): de la asamblea nacional
+[Sun Nov 22 14:31:34 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:31:37 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): maduro dijo
+[Sun Nov 22 14:31:42 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): no vamos a entregar la patria
+[Sun Nov 22 14:31:43 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y yo como wtf
+[Sun Nov 22 14:31:44 2015]  say: ^3(J.N.R)^4Seba(AM2): xDD
+[Sun Nov 22 14:31:45 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): putos locos
+[Sun Nov 22 14:31:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): por ahi ves
+[Sun Nov 22 14:31:49 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a un pibe
+[Sun Nov 22 14:31:51 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): diciendo
+[Sun Nov 22 14:31:56 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mi pito lo tengo gracias a maduro
+[Sun Nov 22 14:32:00 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y vive en una casa
+[Sun Nov 22 14:32:02 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): de carton
+[Sun Nov 22 14:32:05 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mientras maduro
+[Sun Nov 22 14:32:07 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 14:32:14 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se mete los dolares para limpiarse el ano
+[Sun Nov 22 14:32:21 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): dejame que busco mis empanadas xd
+[Sun Nov 22 14:32:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ;D
+[Sun Nov 22 14:32:25 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 14:33:36 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): volvi
+[Sun Nov 22 14:33:40 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): asd
+[Sun Nov 22 14:33:50 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): cuanto cuesta una empanada en arg ? xd
+[Sun Nov 22 14:33:53 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:34:01 2015]  say: ^3(J.N.R)^4Seba(AM2): si las haces vos
+[Sun Nov 22 14:34:07 2015]  say: ^3(J.N.R)^4Seba(AM2): compras la tapa de empanadas
+[Sun Nov 22 14:34:11 2015]  say: ^3(J.N.R)^4Seba(AM2): que sale 12
+[Sun Nov 22 14:34:13 2015]  say: ^3(J.N.R)^4Seba(AM2): es barato
+[Sun Nov 22 14:34:16 2015]  say: ^3(J.N.R)^4Seba(AM2): y si las pedis
+[Sun Nov 22 14:34:27 2015]  say: ^3(J.N.R)^4Seba(AM2): por telefono a un lugar que hacen empanadas y pizzas
+[Sun Nov 22 14:34:36 2015]  say: ^3(J.N.R)^4Seba(AM2): depende a que lugar llames y cuanto pedis 
+[Sun Nov 22 14:34:40 2015]  say: ^3(J.N.R)^4Seba(AM2): 2 docenas
+[Sun Nov 22 14:34:41 2015]  say: ^3(J.N.R)^4Seba(AM2): 311
+[Sun Nov 22 14:34:43 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:34:45 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): verga
+[Sun Nov 22 14:34:49 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y si vas a un local
+[Sun Nov 22 14:34:50 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y pedis 1 ?
+[Sun Nov 22 14:34:54 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:34:59 2015]  say: ^3(J.N.R)^4Seba(AM2): nose nunca pedi asi pero
+[Sun Nov 22 14:35:01 2015]  say: ^3(J.N.R)^4Seba(AM2): ponele que 
+[Sun Nov 22 14:35:03 2015]  say: ^3(J.N.R)^4Seba(AM2): 10 pesos
+[Sun Nov 22 14:35:07 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): buenop
+[Sun Nov 22 14:35:08 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aca 1
+[Sun Nov 22 14:35:12 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): si vas a un local
+[Sun Nov 22 14:35:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): te dicen
+[Sun Nov 22 14:35:15 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 100 
+[Sun Nov 22 14:35:16 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): D:
+[Sun Nov 22 14:35:17 2015]  say: ^3(J.N.R)^4Seba(AM2): XDD
+[Sun Nov 22 14:35:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pera
+[Sun Nov 22 14:36:18 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): bueno
+[Sun Nov 22 14:36:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y lpm
+[Sun Nov 22 14:36:25 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): si pedis
+[Sun Nov 22 14:36:27 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): un jugo
+[Sun Nov 22 14:36:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 200 
+[Sun Nov 22 14:36:34 2015]  say: ^3(J.N.R)^4Seba(AM2): bue que chorros d
+[Sun Nov 22 14:36:36 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mas la empanada
+[Sun Nov 22 14:36:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 300
+[Sun Nov 22 14:36:39 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 14:36:46 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y si le pedis la mitad
+[Sun Nov 22 14:36:47 2015]  say: ^3(J.N.R)^4Seba(AM2): un jugo 100 xdddd
+[Sun Nov 22 14:36:48 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): de la empanada
+[Sun Nov 22 14:36:50 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 99
+[Sun Nov 22 14:36:52 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:36:57 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): no para
+[Sun Nov 22 14:37:00 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): un jugo a 200
+[Sun Nov 22 14:37:02 2015]  say: ^3(J.N.R)^4Seba(AM2): XD
+[Sun Nov 22 14:37:03 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a 100 la empanada
+[Sun Nov 22 14:37:06 2015]  say: ^3(J.N.R)^4Seba(AM2): re chorros
+[Sun Nov 22 14:37:12 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y si la haces vos
+[Sun Nov 22 14:37:16 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aca hay masa lista que venden
+[Sun Nov 22 14:37:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): en los super mercados
+[Sun Nov 22 14:37:20 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): te sale a
+[Sun Nov 22 14:37:22 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 400 creo
+[Sun Nov 22 14:37:25 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:37:28 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): te trae
+[Sun Nov 22 14:37:30 2015]  say: ^3(J.N.R)^4Seba(AM2): es bastante en tu pais eso?
+[Sun Nov 22 14:37:33 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): como 60
+[Sun Nov 22 14:37:34 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se
+[Sun Nov 22 14:37:35 2015]  say: ^3(J.N.R)^4Seba(AM2): D
+[Sun Nov 22 14:37:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 60 masas
+[Sun Nov 22 14:37:40 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): de las empandas
+[Sun Nov 22 14:37:42 2015]  say: ^3(J.N.R)^4Seba(AM2): ah bueno xd
+[Sun Nov 22 14:37:42 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): n omas le pones
+[Sun Nov 22 14:37:44 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): lo que queres comer
+[Sun Nov 22 14:37:45 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y listo
+[Sun Nov 22 14:37:48 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): la cocinas xd
+[Sun Nov 22 14:37:50 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:38:02 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a ver
+[Sun Nov 22 14:38:07 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): vos sabes la coca cola de lata ?x d
+[Sun Nov 22 14:38:10 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:38:15 2015]  say: ^3(J.N.R)^4Seba(AM2): si la tome
+[Sun Nov 22 14:38:19 2015]  say: ^3(J.N.R)^4Seba(AM2): sale 10 aca
+[Sun Nov 22 14:38:20 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a cuanto la venden aya?
+[Sun Nov 22 14:38:21 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ah
+[Sun Nov 22 14:38:23 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aca sale
+[Sun Nov 22 14:38:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a 145
+[Sun Nov 22 14:38:28 2015]  say: ^3(J.N.R)^4Seba(AM2): xddd
+[Sun Nov 22 14:38:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd 
+[Sun Nov 22 14:38:35 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): en otros lugares
+[Sun Nov 22 14:38:36 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): como 200
+[Sun Nov 22 14:38:39 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y lo mas descarado
+[Sun Nov 22 14:38:42 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es que la de 2 litros 
+[Sun Nov 22 14:38:45 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): cuesta 180 xd
+[Sun Nov 22 14:38:48 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:38:52 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): re feos
+[Sun Nov 22 14:38:55 2015]  say: ^3(J.N.R)^4Seba(AM2): entonces las de 3 cuanto sale
+[Sun Nov 22 14:38:59 2015]  say: ^3(J.N.R)^4Seba(AM2): 500 xd
+[Sun Nov 22 14:39:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xddd
+[Sun Nov 22 14:39:08 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aca no sevende la de 3 creo
+[Sun Nov 22 14:39:13 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:39:18 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): bueno nunca la he comprado
+[Sun Nov 22 14:39:21 2015]  say: ^3(J.N.R)^4Seba(AM2): estan echos mierda economicamente
+[Sun Nov 22 14:39:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se
+[Sun Nov 22 14:39:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): un chicle
+[Sun Nov 22 14:39:33 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): cuesta
+[Sun Nov 22 14:39:37 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 10
+[Sun Nov 22 14:39:43 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:39:45 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 1 chicle d:
+[Sun Nov 22 14:39:46 2015]  say: ^3(J.N.R)^4Seba(AM2): aca cuesta 15 
+[Sun Nov 22 14:39:48 2015]  say: ^3(J.N.R)^4Seba(AM2): ah
+[Sun Nov 22 14:39:49 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xddd
+[Sun Nov 22 14:39:50 2015]  say: ^3(J.N.R)^4Seba(AM2): 1 solo xd?
+[Sun Nov 22 14:39:51 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): osea
+[Sun Nov 22 14:39:53 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): de esos pequeÒos
+[Sun Nov 22 14:40:02 2015]  say: ^3(J.N.R)^4Seba(AM2): aca 15 pero el paquete
+[Sun Nov 22 14:40:05 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ah
+[Sun Nov 22 14:40:09 2015]  say: ^3(J.N.R)^4Seba(AM2): y si elegis de los buenos
+[Sun Nov 22 14:40:17 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aca
+[Sun Nov 22 14:40:20 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): el paquete
+[Sun Nov 22 14:40:22 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ponete gomitas
+[Sun Nov 22 14:40:23 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): te sale
+[Sun Nov 22 14:40:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 500
+[Sun Nov 22 14:40:27 2015]  say: ^3(J.N.R)^4Seba(AM2): XD
+[Sun Nov 22 14:40:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y una sola
+[Sun Nov 22 14:40:32 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): te sale
+[Sun Nov 22 14:40:34 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 20
+[Sun Nov 22 14:40:37 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:40:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y yo les digo
+[Sun Nov 22 14:40:39 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): anda a cagar
+[Sun Nov 22 14:40:45 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ahorita le quiero comprar
+[Sun Nov 22 14:40:49 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): un peluche
+[Sun Nov 22 14:40:51 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a la que me gusta
+[Sun Nov 22 14:40:55 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): uno pequeÒo
+[Sun Nov 22 14:40:58 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): cuanto cuesta en arg xd
+[Sun Nov 22 14:41:02 2015]  say: ^3(J.N.R)^4Seba(AM2): 50 mangos
+[Sun Nov 22 14:41:07 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es mucho xd?
+[Sun Nov 22 14:41:09 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:41:17 2015]  say: ^3(J.N.R)^4Seba(AM2): por un peluche pedorro mas o menos
+[Sun Nov 22 14:41:20 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xDDDD
+[Sun Nov 22 14:41:21 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aca
+[Sun Nov 22 14:41:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): vi un
+[Sun Nov 22 14:41:25 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): uno
+[Sun Nov 22 14:41:27 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): de jerry
+[Sun Nov 22 14:41:31 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pequeÒo de esos
+[Sun Nov 22 14:41:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 1.290
+[Sun Nov 22 14:41:41 2015]  say: ^3(J.N.R)^4Seba(AM2): weeee
+[Sun Nov 22 14:41:43 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xDD
+[Sun Nov 22 14:41:48 2015]  say: ^3(J.N.R)^4Seba(AM2): yo le quemo
+[Sun Nov 22 14:41:48 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): vi uno de garfield
+[Sun Nov 22 14:41:51 2015]  say: ^3(J.N.R)^4Seba(AM2): el local
+[Sun Nov 22 14:41:54 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): de los grandes xD
+[Sun Nov 22 14:41:56 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:41:57 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): adivina a cuanto
+[Sun Nov 22 14:41:59 2015]  say: ^3(J.N.R)^4Seba(AM2): 5000
+[Sun Nov 22 14:42:03 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 13.000
+[Sun Nov 22 14:42:06 2015]  say: ^3(J.N.R)^4Seba(AM2): XDDD
+[Sun Nov 22 14:42:08 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xdddd
+[Sun Nov 22 14:42:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): un amigo andaba conmigo
+[Sun Nov 22 14:42:14 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): le dije
+[Sun Nov 22 14:42:16 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): anda a cagar
+[Sun Nov 22 14:42:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): le regalo un chocolate xd
+[Sun Nov 22 14:42:22 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 14:42:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xdd
+[Sun Nov 22 14:42:27 2015]  say: ^3(J.N.R)^4Seba(AM2): cuanto sale un chocolate alla?
+[Sun Nov 22 14:42:31 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aver
+[Sun Nov 22 14:42:34 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): de los medianos
+[Sun Nov 22 14:42:36 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): como
+[Sun Nov 22 14:42:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 70
+[Sun Nov 22 14:42:40 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 14:42:42 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): no pera
+[Sun Nov 22 14:42:45 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 70 los pequeÒos
+[Sun Nov 22 14:42:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 100 los medianos
+[Sun Nov 22 14:42:48 2015]  say: ^3(J.N.R)^4Seba(AM2): we xD
+[Sun Nov 22 14:42:51 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 300 los grandes
+[Sun Nov 22 14:42:53 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:42:55 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): las tabletas esas de chocolates xd
+[Sun Nov 22 14:43:02 2015]  say: ^3(J.N.R)^4Seba(AM2): aca el grande
+[Sun Nov 22 14:43:04 2015]  say: ^3(J.N.R)^4Seba(AM2): sale 100
+[Sun Nov 22 14:43:07 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 14:43:11 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ustedes estan jodidos
+[Sun Nov 22 14:43:13 2015]  say: ^3(J.N.R)^4Seba(AM2): el chico debe salir 30
+[Sun Nov 22 14:43:14 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pero no en economia
+[Sun Nov 22 14:43:15 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 14:43:17 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:43:20 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aya eran peso ?
+[Sun Nov 22 14:43:22 2015]  say: ^3(J.N.R)^4Seba(AM2): esta todo re caro igual
+[Sun Nov 22 14:43:23 2015]  say: ^3(J.N.R)^4Seba(AM2): si
+[Sun Nov 22 14:43:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 14:43:27 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Sabias que
+[Sun Nov 22 14:43:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): antes la mejor moneda fue
+[Sun Nov 22 14:43:33 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Los bolivares xd?
+[Sun Nov 22 14:43:35 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:43:36 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): todos la querian
+[Sun Nov 22 14:43:36 2015]  say: ^3(J.N.R)^4Seba(AM2): no
+[Sun Nov 22 14:43:43 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ahora
+[Sun Nov 22 14:43:46 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): nadie la quieren
+[Sun Nov 22 14:43:49 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:43:49 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): cuando la ven
+[Sun Nov 22 14:43:52 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): dicen
+[Sun Nov 22 14:43:57 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mira lismosna para los pobres
+[Sun Nov 22 14:44:01 2015]  say: ^3(J.N.R)^4Seba(AM2): xddd
+[Sun Nov 22 14:44:03 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 14:44:14 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): nose
+[Sun Nov 22 14:44:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): porque le gusta a algunos
+[Sun Nov 22 14:44:19 2015]  say: ^3(J.N.R)^4Seba(AM2): aca hay llenos de pobres
+[Sun Nov 22 14:44:21 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tanto el fifa xd
+[Sun Nov 22 14:44:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): osea
+[Sun Nov 22 14:44:25 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:44:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es un buen juego
+[Sun Nov 22 14:44:27 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pero
+[Sun Nov 22 14:44:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): son todos iguales
+[Sun Nov 22 14:44:33 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 14:44:35 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): no mas le ponen mas calidad xd
+[Sun Nov 22 14:44:36 2015]  say: ^3(J.N.R)^4Seba(AM2): se
+[Sun Nov 22 14:44:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): yo le pongo de titulo
+[Sun Nov 22 14:44:41 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Pendejos corriendo tras una pelota
+[Sun Nov 22 14:44:44 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 14:44:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xddd
+[Sun Nov 22 14:44:58 2015]  say: ^3(J.N.R)^4Seba(AM2): yo lo juego pero 
+[Sun Nov 22 14:45:00 2015]  say: ^3(J.N.R)^4Seba(AM2): cada tanto
+[Sun Nov 22 14:45:08 2015]  say: ^3(J.N.R)^4Seba(AM2): hay algunos
+[Sun Nov 22 14:45:09 2015]  say: ^3(J.N.R)^4Seba(AM2): que juegan
+[Sun Nov 22 14:45:13 2015]  say: ^3(J.N.R)^4Seba(AM2): las 24 horas a eso xd
+[Sun Nov 22 14:45:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xdd
+[Sun Nov 22 14:45:29 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Tengo proyecto
+[Sun Nov 22 14:45:32 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): la semana que viene
+[Sun Nov 22 14:45:33 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y es la ultima
+[Sun Nov 22 14:45:34 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mierda
+[Sun Nov 22 14:45:35 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:45:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y aun no me le declaro a la piba d.
+[Sun Nov 22 14:45:51 2015]  say: ^3(J.N.R)^4Seba(AM2): pero ya sospecha?
+[Sun Nov 22 14:45:52 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): yo no te pase una foto de ella no xd?
+[Sun Nov 22 14:45:54 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): bldfo
+[Sun Nov 22 14:45:56 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): un amigo 
+[Sun Nov 22 14:45:58 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): bueno ponete
+[Sun Nov 22 14:46:03 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): estabamos un grupo de amigos
+[Sun Nov 22 14:46:06 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y viene un gil
+[Sun Nov 22 14:46:08 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): de mi aigo
+[Sun Nov 22 14:46:09 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): amigo
+[Sun Nov 22 14:46:11 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): encima que era negro
+[Sun Nov 22 14:46:14 2015]  say: ^3(J.N.R)^4Seba(AM2): XDD
+[Sun Nov 22 14:46:14 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y me pregunta
+[Sun Nov 22 14:46:18 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ya te le declaraste
+[Sun Nov 22 14:46:20 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y yo le digo no
+[Sun Nov 22 14:46:22 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y me dice
+[Sun Nov 22 14:46:27 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): PERO TU ERES MARICO MUCHACHO
+[Sun Nov 22 14:46:31 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): LA TIENES AHI AL LADO
+[Sun Nov 22 14:46:33 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): MALDITO PENDEJO
+[Sun Nov 22 14:46:34 2015]  say: ^3(J.N.R)^4Seba(AM2): xddd
+[Sun Nov 22 14:46:35 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): DECLARATELE
+[Sun Nov 22 14:46:39 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y la piba mirando como
+[Sun Nov 22 14:46:41 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): e.e
+[Sun Nov 22 14:46:44 2015]  say: ^3(J.N.R)^4Seba(AM2): jaja
+[Sun Nov 22 14:46:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pero
+[Sun Nov 22 14:46:49 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es linda xd
+[Sun Nov 22 14:46:51 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:46:53 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): luego te paso una foto para que la veas
+[Sun Nov 22 14:46:55 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): encima que
+[Sun Nov 22 14:47:00 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): no es asi putonga
+[Sun Nov 22 14:47:04 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:47:07 2015]  say: ^3(J.N.R)^4Seba(AM2): tienes suerte
+[Sun Nov 22 14:47:10 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se d:
+[Sun Nov 22 14:47:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): las otras
+[Sun Nov 22 14:47:15 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): le dices hola
+[Sun Nov 22 14:47:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y te dice
+[Sun Nov 22 14:47:23 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tenes el pito de 1cm
+[Sun Nov 22 14:47:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): andate
+[Sun Nov 22 14:47:26 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 14:47:27 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y vos como : we xd
+[Sun Nov 22 14:47:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a ver
+[Sun Nov 22 14:47:41 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): te paso una foto de ella xd
+[Sun Nov 22 14:47:43 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:47:45 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ya tenes la de panda (?
+[Sun Nov 22 14:47:52 2015]  say: ^3(J.N.R)^4Seba(AM2): ni el skype me das hdp xdd
+[Sun Nov 22 14:47:59 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xddd
+[Sun Nov 22 14:48:05 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): El skype 
+[Sun Nov 22 14:48:08 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es una boludes loca
+[Sun Nov 22 14:48:15 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:48:43 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mia
+[Sun Nov 22 14:48:44 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mira
+[Sun Nov 22 14:48:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): nacio en el 2000
+[Sun Nov 22 14:48:50 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y yo en 99
+[Sun Nov 22 14:48:51 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:48:52 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xdd
+[Sun Nov 22 14:48:55 2015]  say: ^3(J.N.R)^4Seba(AM2): 15 tiene 
+[Sun Nov 22 14:48:58 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se
+[Sun Nov 22 14:49:00 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 17 de enero d
+[Sun Nov 22 14:49:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 14:49:03 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:49:05 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): yo en diciembre
+[Sun Nov 22 14:49:09 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tendre 16
+[Sun Nov 22 14:49:10 2015]  say: ^3(J.N.R)^4Seba(AM2): ah apenas
+[Sun Nov 22 14:49:15 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se
+[Sun Nov 22 14:49:16 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): osea
+[Sun Nov 22 14:49:18 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): esta bien porque
+[Sun Nov 22 14:49:21 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tenemos la misma edad xd
+[Sun Nov 22 14:49:24 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:50:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): andate a face
+[Sun Nov 22 14:50:23 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y mira lo que te pase xd
+[Sun Nov 22 14:53:03 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): viste?
+[Sun Nov 22 14:53:29 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:53:31 2015]  say: ^3(J.N.R)^4Seba(AM2): ahi me fijo
+[Sun Nov 22 14:54:28 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:54:33 2015]  say: ^3(J.N.R)^4Seba(AM2): es linda 
+[Sun Nov 22 14:54:35 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se
+[Sun Nov 22 14:54:41 2015]  Kill: 1022 0 38: <world> killed ^3(J.N.R)^4S^7d^4el^1(^7M3^1) by MOD_FALLING
+[Sun Nov 22 14:54:43 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): asd
+[Sun Nov 22 14:54:44 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): encima
+[Sun Nov 22 14:54:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): estoy cagado porque
+[Sun Nov 22 14:54:49 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es re timida
+[Sun Nov 22 14:54:55 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:55:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y yo con ella tambien x
+[Sun Nov 22 14:55:03 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 14:55:11 2015]  say: ^3(J.N.R)^4Seba(AM2): pero le hablas?
+[Sun Nov 22 14:55:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ses
+[Sun Nov 22 14:55:14 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se
+[Sun Nov 22 14:55:25 2015]  say: ^3(J.N.R)^4Seba(AM2): hace cuanto mas o menos?
+[Sun Nov 22 14:55:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a ver
+[Sun Nov 22 14:55:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): el jueves
+[Sun Nov 22 14:55:41 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:55:49 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): encima
+[Sun Nov 22 14:55:52 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ando en un trabajo con ella
+[Sun Nov 22 14:55:53 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): D:
+[Sun Nov 22 14:55:55 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 14:56:03 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es que nunca has sentido que
+[Sun Nov 22 14:56:04 2015]  say: ^3(J.N.R)^4Seba(AM2): ya me paso el aÒo pasado
+[Sun Nov 22 14:56:08 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): cuando volteas xd
+[Sun Nov 22 14:56:12 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): te mira la que te gusta
+[Sun Nov 22 14:56:14 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y vos hace lo mismo
+[Sun Nov 22 14:56:15 2015]  say: ^3(J.N.R)^4Seba(AM2): se xD
+[Sun Nov 22 14:56:17 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y ella lo mismo
+[Sun Nov 22 14:56:18 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): DDDD:
+[Sun Nov 22 14:56:25 2015]  say: ^3(J.N.R)^4Seba(AM2): lo peor es que
+[Sun Nov 22 14:56:34 2015]  say: ^3(J.N.R)^4Seba(AM2): vos decis bueno la miro total no se dara cuenta
+[Sun Nov 22 14:56:35 2015]  say: ^3(J.N.R)^4Seba(AM2): la miras
+[Sun Nov 22 14:56:42 2015]  say: ^3(J.N.R)^4Seba(AM2): y al segundo te mira
+[Sun Nov 22 14:56:43 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 14:56:45 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 14:56:46 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): encima
+[Sun Nov 22 14:56:49 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tiene los ojos re bonitos
+[Sun Nov 22 14:56:53 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y el cuerpo
+[Sun Nov 22 14:56:55 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): bueno xd
+[Sun Nov 22 14:56:57 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): cuando la miras
+[Sun Nov 22 14:57:00 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): te quedas como
+[Sun Nov 22 14:57:02 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 7u7
+[Sun Nov 22 14:58:27 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): la cosa es
+[Sun Nov 22 14:58:37 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): que es super exelente en el colegio xd
+[Sun Nov 22 15:00:21 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:00:24 2015]  say: ^3(J.N.R)^4Seba(AM2): es buena con las notas?
+[Sun Nov 22 15:00:28 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se
+[Sun Nov 22 15:00:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): perop
+[Sun Nov 22 15:00:32 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ptm
+[Sun Nov 22 15:00:35 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mirale el cabello
+[Sun Nov 22 15:00:36 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xdd
+[Sun Nov 22 15:00:38 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 15:00:40 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): lo tiene re lindo
+[Sun Nov 22 15:00:43 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y esa cara *-*
+[Sun Nov 22 15:00:45 2015]  say: ^3(J.N.R)^4Seba(AM2): XD
+[Sun Nov 22 15:00:48 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): estoy muy pendejo por ella bldo xd
+[Sun Nov 22 15:00:54 2015]  say: ^3(J.N.R)^4Seba(AM2): pero
+[Sun Nov 22 15:01:02 2015]  say: ^3(J.N.R)^4Seba(AM2): estas enamorado o solo te gusta xd?
+[Sun Nov 22 15:01:08 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): enamorado xd
+[Sun Nov 22 15:01:12 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:01:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): la cosa es
+[Sun Nov 22 15:01:21 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): que siempre me busca
+[Sun Nov 22 15:01:23 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): por algo xd
+[Sun Nov 22 15:01:28 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:01:31 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y nunca le digo que nio
+[Sun Nov 22 15:01:33 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): no xd
+[Sun Nov 22 15:01:34 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 15:01:40 2015]  say: ^3(J.N.R)^4Seba(AM2): por ejemplo que te dice?
+[Sun Nov 22 15:01:44 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mmm
+[Sun Nov 22 15:01:46 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Lo mas frecuente
+[Sun Nov 22 15:01:57 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es si le puedo dar dinero xd y casi siempre me lo compenza ella
+[Sun Nov 22 15:02:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pero
+[Sun Nov 22 15:02:06 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Luego nos ponemos haber
+[Sun Nov 22 15:02:09 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): hablar
+[Sun Nov 22 15:02:11 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 15:02:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y decimos giladas
+[Sun Nov 22 15:02:21 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y yo le dije
+[Sun Nov 22 15:02:23 2015]  say: ^3(J.N.R)^4Seba(AM2): sdel:mira el mamaguevo ese
+[Sun Nov 22 15:02:26 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 15:02:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xDDD
+[Sun Nov 22 15:02:31 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): le dije 
+[Sun Nov 22 15:02:32 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): en una
+[Sun Nov 22 15:02:35 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tengo un amigo argentino
+[Sun Nov 22 15:02:37 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): que dijo
+[Sun Nov 22 15:02:39 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Soy marico
+[Sun Nov 22 15:02:40 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y le dje
+[Sun Nov 22 15:02:40 2015]  say: ^3(J.N.R)^4Seba(AM2): XD
+[Sun Nov 22 15:02:46 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Marico es feliz en venezolano
+[Sun Nov 22 15:02:48 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y se la creyo
+[Sun Nov 22 15:02:51 2015]  say: ^3(J.N.R)^4Seba(AM2): jaja
+[Sun Nov 22 15:02:54 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xD
+[Sun Nov 22 15:02:56 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es como
+[Sun Nov 22 15:02:57 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): la del gringo
+[Sun Nov 22 15:03:02 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Puto is happy in english
+[Sun Nov 22 15:03:05 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:03:11 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se re cago de la ris axd
+[Sun Nov 22 15:03:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y lo 
+[Sun Nov 22 15:03:13 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 15:03:15 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): epicamente
+[Sun Nov 22 15:03:17 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): JDOIDAMENTE
+[Sun Nov 22 15:03:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): epica xd
+[Sun Nov 22 15:03:21 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:03:23 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es bajita xd
+[Sun Nov 22 15:03:29 2015]  say: ^3(J.N.R)^4Seba(AM2): te gustan las bajas a vos
+[Sun Nov 22 15:03:31 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se
+[Sun Nov 22 15:03:33 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ponete
+[Sun Nov 22 15:03:36 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): vos te gusta una mina
+[Sun Nov 22 15:03:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y la mina 
+[Sun Nov 22 15:03:39 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es una
+[Sun Nov 22 15:03:41 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): torre gemela
+[Sun Nov 22 15:03:43 2015]  say: ^3(J.N.R)^4Seba(AM2): XDD
+[Sun Nov 22 15:03:44 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): que no se la chingo el isis
+[Sun Nov 22 15:03:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 15:03:49 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:03:54 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a ver
+[Sun Nov 22 15:04:00 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Te iba a pasar otra foto
+[Sun Nov 22 15:04:02 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pero mi hermano me dijo
+[Sun Nov 22 15:04:08 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): deja de stalkear becerro
+[Sun Nov 22 15:04:10 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 15:04:12 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 15:04:23 2015]  say: ^3(J.N.R)^4Seba(AM2): tenes hermano mayor?
+[Sun Nov 22 15:04:25 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se
+[Sun Nov 22 15:04:27 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): 24 tiene el gil
+[Sun Nov 22 15:04:29 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 15:04:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 15:04:36 2015]  say: ^3(J.N.R)^4Seba(AM2): te saca como 8 aÒos 
+[Sun Nov 22 15:04:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se
+[Sun Nov 22 15:04:54 2015]  say: ^3(J.N.R)^4Seba(AM2): no le gusta star wars xd?
+[Sun Nov 22 15:04:58 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): le gusta las pelis
+[Sun Nov 22 15:05:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pero no es asi de fanj xd
+[Sun Nov 22 15:05:04 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:05:12 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tenes el cel aun
+[Sun Nov 22 15:05:14 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ?
+[Sun Nov 22 15:05:18 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:05:22 2015]  say: ^3(J.N.R)^4Seba(AM2): si
+[Sun Nov 22 15:05:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tenes instagram xd?
+[Sun Nov 22 15:05:29 2015]  say: ^3(J.N.R)^4Seba(AM2): no xd
+[Sun Nov 22 15:05:31 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 15:05:43 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Subi una foto
+[Sun Nov 22 15:05:44 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): diciendo
+[Sun Nov 22 15:05:50 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): un fifaso con mi amigo
+[Sun Nov 22 15:05:53 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): cuando estabamos jugando
+[Sun Nov 22 15:05:54 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): le dije
+[Sun Nov 22 15:06:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): PORQUE MEIRDA JUGAMOS ESTO
+[Sun Nov 22 15:06:03 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ES LO MISMO QUE
+[Sun Nov 22 15:06:05 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): FIFA 15
+[Sun Nov 22 15:06:07 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): d:
+[Sun Nov 22 15:06:17 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tengo el fifa 16
+[Sun Nov 22 15:06:23 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y es la misma mierda
+[Sun Nov 22 15:06:42 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 15:06:49 2015]  say: ^3(J.N.R)^4Seba(AM2): es lo mismo
+[Sun Nov 22 15:06:52 2015]  say: ^3(J.N.R)^4Seba(AM2): pero con mas graficos
+[Sun Nov 22 15:06:55 2015]  say: ^3(J.N.R)^4Seba(AM2): y algunos equipos mas xd
+[Sun Nov 22 15:07:02 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): se
+[Sun Nov 22 15:07:03 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): encima
+[Sun Nov 22 15:07:03 2015]  say: ^3(J.N.R)^4Seba(AM2): o jugadores actualizados
+[Sun Nov 22 15:07:05 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): con mujeres que
+[Sun Nov 22 15:07:08 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): les viene la regla
+[Sun Nov 22 15:07:10 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): cada vez 
+[Sun Nov 22 15:07:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): que le hacen gol xd
+[Sun Nov 22 15:07:15 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 15:07:21 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): nojoda
+[Sun Nov 22 15:07:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tengo el face abierto
+[Sun Nov 22 15:07:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y no paro de ver la foto xd
+[Sun Nov 22 15:07:31 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): dios
+[Sun Nov 22 15:07:31 2015]  say: ^3(J.N.R)^4Seba(AM2): xddd
+[Sun Nov 22 15:07:32 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xddd
+[Sun Nov 22 15:07:43 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): creo que no a visto mis indirectas
+[Sun Nov 22 15:07:46 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): porque encima tengo 
+[Sun Nov 22 15:07:48 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): el face
+[Sun Nov 22 15:07:52 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): lleno de su color favorito
+[Sun Nov 22 15:07:55 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:07:55 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y muchas indirectas
+[Sun Nov 22 15:08:00 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y ella me tiene de amigo xd
+[Sun Nov 22 15:08:06 2015]  say: ^3(J.N.R)^4Seba(AM2): aca una indirecta
+[Sun Nov 22 15:08:08 2015]  say: ^3(J.N.R)^4Seba(AM2): de una mina es
+[Sun Nov 22 15:08:20 2015]  say: ^3(J.N.R)^4Seba(AM2): chica:te doy el orto
+[Sun Nov 22 15:08:22 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 15:08:25 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xD
+[Sun Nov 22 15:08:27 2015]  say: ^3(J.N.R)^4Seba(AM2): o
+[Sun Nov 22 15:08:38 2015]  say: ^3(J.N.R)^4Seba(AM2): chica:te re chapo (chapar es besar en argentina)
+[Sun Nov 22 15:08:46 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xD
+[Sun Nov 22 15:08:49 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): dios
+[Sun Nov 22 15:08:52 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aca 
+[Sun Nov 22 15:08:53 2015]  say: ^3(J.N.R)^4Seba(AM2): en ves de indirectas
+[Sun Nov 22 15:08:55 2015]  say: ^3(J.N.R)^4Seba(AM2): son directas xdd
+[Sun Nov 22 15:08:57 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 15:09:00 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aca una indirecta
+[Sun Nov 22 15:09:04 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): de una chica a un chico es
+[Sun Nov 22 15:09:07 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): te mamo el guebo
+[Sun Nov 22 15:09:09 2015]  say: ^3(J.N.R)^4Seba(AM2): XD
+[Sun Nov 22 15:09:09 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y tu como wtf
+[Sun Nov 22 15:09:12 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): D:
+[Sun Nov 22 15:09:18 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Bueno
+[Sun Nov 22 15:09:21 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): la mina que te pase
+[Sun Nov 22 15:09:27 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): no es asi almenos xd
+[Sun Nov 22 15:09:29 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:09:31 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pero
+[Sun Nov 22 15:09:35 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): si me hago novio de ella
+[Sun Nov 22 15:09:37 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): el papa
+[Sun Nov 22 15:09:37 2015]  say: ^3(J.N.R)^4Seba(AM2): la que a mi me gustaba tampoco era asi
+[Sun Nov 22 15:09:39 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): adivina como es xd
+[Sun Nov 22 15:09:41 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:09:44 2015]  say: ^3(J.N.R)^4Seba(AM2): sobreprotector
+[Sun Nov 22 15:09:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): no no x
+[Sun Nov 22 15:09:50 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Un puto calvo xd
+[Sun Nov 22 15:09:52 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): que parece
+[Sun Nov 22 15:09:52 2015]  say: ^3(J.N.R)^4Seba(AM2): xddd
+[Sun Nov 22 15:09:54 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): bin disel
+[Sun Nov 22 15:09:56 2015]  say: ^3(J.N.R)^4Seba(AM2): jaja
+[Sun Nov 22 15:09:57 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): D:
+[Sun Nov 22 15:09:59 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): me caga
+[Sun Nov 22 15:10:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xddd
+[Sun Nov 22 15:10:03 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 15:10:20 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): encima
+[Sun Nov 22 15:10:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): todo lo del colegio
+[Sun Nov 22 15:10:27 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es morado
+[Sun Nov 22 15:10:29 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): su morral
+[Sun Nov 22 15:10:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): su cuaqderno
+[Sun Nov 22 15:10:33 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): su saca puntas
+[Sun Nov 22 15:10:34 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 15:10:35 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:10:37 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y mi teleofono
+[Sun Nov 22 15:10:39 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): es morado
+[Sun Nov 22 15:10:41 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y siempre me lo pide
+[Sun Nov 22 15:10:43 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xdd
+[Sun Nov 22 15:10:45 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 15:10:51 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tiene cel pero creo que no lo lleva
+[Sun Nov 22 15:10:56 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): bueno
+[Sun Nov 22 15:10:58 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): porque
+[Sun Nov 22 15:11:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): lo he visto pero
+[Sun Nov 22 15:11:06 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): parece que no lo va a seguir llevando mucho xd
+[Sun Nov 22 15:11:11 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:11:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ponete
+[Sun Nov 22 15:11:20 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aca sales
+[Sun Nov 22 15:11:21 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y dices
+[Sun Nov 22 15:11:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tengo un Xperia S
+[Sun Nov 22 15:11:25 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y te dicenb
+[Sun Nov 22 15:11:29 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): la vida o el telefono
+[Sun Nov 22 15:11:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): D:
+[Sun Nov 22 15:11:31 2015]  say: ^3(J.N.R)^4Seba(AM2): XDDw
+[Sun Nov 22 15:11:34 2015]  say: ^3(J.N.R)^4Seba(AM2): aca tambien es asi
+[Sun Nov 22 15:11:38 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 15:11:41 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pero aca
+[Sun Nov 22 15:11:43 2015]  say: ^3(J.N.R)^4Seba(AM2): pero es depende donde vallas
+[Sun Nov 22 15:11:46 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): te re amenazan
+[Sun Nov 22 15:11:47 2015]  say: ^3(J.N.R)^4Seba(AM2): si te vas a la provincia
+[Sun Nov 22 15:11:52 2015]  say: ^3(J.N.R)^4Seba(AM2): donde estan
+[Sun Nov 22 15:11:54 2015]  say: ^3(J.N.R)^4Seba(AM2): todos los negros
+[Sun Nov 22 15:11:56 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xdd
+[Sun Nov 22 15:12:02 2015]  say: ^3(J.N.R)^4Seba(AM2): no te podes ir vestido bien que te dicen
+[Sun Nov 22 15:12:13 2015]  say: ^3(J.N.R)^4Seba(AM2): negros:a mira este chetito vamos a robarle las zapatillas
+[Sun Nov 22 15:12:16 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xddd
+[Sun Nov 22 15:12:18 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:12:21 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): eran los villeros esos ?
+[Sun Nov 22 15:12:24 2015]  say: ^3(J.N.R)^4Seba(AM2): si
+[Sun Nov 22 15:12:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): jajaj
+[Sun Nov 22 15:12:28 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aca si
+[Sun Nov 22 15:12:30 2015]  say: ^3(J.N.R)^4Seba(AM2): te ven zapatillas
+[Sun Nov 22 15:12:32 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): conoces las chaquetas largas?
+[Sun Nov 22 15:12:34 2015]  say: ^3(J.N.R)^4Seba(AM2): nike o adidas
+[Sun Nov 22 15:12:40 2015]  say: ^3(J.N.R)^4Seba(AM2): y te van a robar
+[Sun Nov 22 15:12:41 2015]  say: ^3(J.N.R)^4Seba(AM2): a lo loco
+[Sun Nov 22 15:12:42 2015]  say: ^3(J.N.R)^4Seba(AM2): si d
+[Sun Nov 22 15:12:43 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xD
+[Sun Nov 22 15:12:45 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): buieno
+[Sun Nov 22 15:12:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): las chaquetas largas
+[Sun Nov 22 15:12:49 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): si vos sales
+[Sun Nov 22 15:12:51 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): con una negra
+[Sun Nov 22 15:12:53 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): asi com oyo
+[Sun Nov 22 15:12:56 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): porque soy metalero :D
+[Sun Nov 22 15:12:57 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): te dicen
+[Sun Nov 22 15:12:58 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 15:12:58 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mira
+[Sun Nov 22 15:13:00 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): un come gatos
+[Sun Nov 22 15:13:02 2015]  say: ^3(J.N.R)^4Seba(AM2): XDDD
+[Sun Nov 22 15:13:06 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): pobre chica no sabe con quien esta D:
+[Sun Nov 22 15:13:07 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y yo como
+[Sun Nov 22 15:13:08 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 15:13:09 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): PUTA MADRE
+[Sun Nov 22 15:13:10 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): D:<
+[Sun Nov 22 15:13:16 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): hasta que hago como superman
+[Sun Nov 22 15:13:20 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): tengo la camisa roja :d
+[Sun Nov 22 15:13:23 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:13:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): con SdeltroomT
+[Sun Nov 22 15:13:28 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): en todo el jodido centro
+[Sun Nov 22 15:13:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ;D
+[Sun Nov 22 15:13:31 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 15:13:41 2015]  say: ^3(J.N.R)^4Seba(AM2): si vas a la capital no pasa nada 
+[Sun Nov 22 15:13:45 2015]  say: ^3(J.N.R)^4Seba(AM2): si vos compara un chorro
+[Sun Nov 22 15:13:46 2015]  say: ^3(J.N.R)^4Seba(AM2): de capital
+[Sun Nov 22 15:13:49 2015]  say: ^3(J.N.R)^4Seba(AM2): con uno de provincia
+[Sun Nov 22 15:13:54 2015]  say: ^3(J.N.R)^4Seba(AM2): es como que me estes comparando
+[Sun Nov 22 15:13:59 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 15:14:02 2015]  say: ^3(J.N.R)^4Seba(AM2): alemania con barbados
+[Sun Nov 22 15:14:03 2015]  say: ^3(J.N.R)^4Seba(AM2): o cuba
+[Sun Nov 22 15:14:10 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xdd
+[Sun Nov 22 15:14:12 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aca
+[Sun Nov 22 15:14:14 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): vas a donde sea
+[Sun Nov 22 15:14:17 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y te dicen
+[Sun Nov 22 15:14:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): dame mas gasolina
+[Sun Nov 22 15:14:26 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): o si no
+[Sun Nov 22 15:14:27 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 15:14:30 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): Si quiere reggaeton dale
+[Sun Nov 22 15:14:32 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): con una cara de
+[Sun Nov 22 15:14:33 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 15:14:33 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): :D
+[Sun Nov 22 15:14:34 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): :DD
+[Sun Nov 22 15:14:36 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): :DDDDDDDDDDDD
+[Sun Nov 22 15:14:38 2015]  say: ^3(J.N.R)^4Seba(AM2): aca es re facil
+[Sun Nov 22 15:14:39 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): :DDDDDDDDDDDDDDDDDDD HOLA
+[Sun Nov 22 15:14:40 2015]  say: ^3(J.N.R)^4Seba(AM2): identificar
+[Sun Nov 22 15:14:42 2015]  say: ^3(J.N.R)^4Seba(AM2): a un chorro
+[Sun Nov 22 15:14:45 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): aca tambien
+[Sun Nov 22 15:14:47 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ponete
+[Sun Nov 22 15:15:03 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): a ver
+[Sun Nov 22 15:15:05 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): mira a osh
+[Sun Nov 22 15:15:06 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): rosh
+[Sun Nov 22 15:15:07 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ahora
+[Sun Nov 22 15:15:10 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ponele una camisa que diga
+[Sun Nov 22 15:15:12 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): I love anal
+[Sun Nov 22 15:15:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y
+[Sun Nov 22 15:15:14 2015]  say: ^3(J.N.R)^4Seba(AM2): xdd
+[Sun Nov 22 15:15:16 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): unos blue jeans
+[Sun Nov 22 15:15:20 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): con el pelo amarillo
+[Sun Nov 22 15:15:22 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): y bigote
+[Sun Nov 22 15:15:23 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 15:15:24 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 15:15:27 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ese aca se llama tuky
+[Sun Nov 22 15:15:27 2015]  say: ^3(J.N.R)^4Seba(AM2): aca es peor todavia
+[Sun Nov 22 15:15:34 2015]  say: ^3(J.N.R)^4Seba(AM2): aca es 
+[Sun Nov 22 15:15:40 2015]  say: ^3(J.N.R)^4Seba(AM2): si tiene una gorra de nba para atras
+[Sun Nov 22 15:15:47 2015]  say: ^3(J.N.R)^4Seba(AM2): una remera de futbol
+[Sun Nov 22 15:15:50 2015]  say: ^3(J.N.R)^4Seba(AM2): pantalo deportivo
+[Sun Nov 22 15:15:57 2015]  say: ^3(J.N.R)^4Seba(AM2): zapatillas deportivas nike o adidas
+[Sun Nov 22 15:16:00 2015]  say: ^3(J.N.R)^4Seba(AM2): y una campera 
+[Sun Nov 22 15:16:01 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 15:16:05 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): ya es un bldo d:
+[Sun Nov 22 15:16:08 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): bueno
+[Sun Nov 22 15:16:09 2015]  say: ^3(J.N.R)^4Seba(AM2): de una marca
+[Sun Nov 22 15:16:10 2015]  say: ^3(J.N.R)^4Seba(AM2): xd
+[Sun Nov 22 15:16:11 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): xd
+[Sun Nov 22 15:16:13 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): debo hacer
+[Sun Nov 22 15:16:17 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): la pendejada esta del cole
+[Sun Nov 22 15:16:19 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): cxon unos amigos
+[Sun Nov 22 15:16:19 2015]  say: ^3(J.N.R)^4Seba(AM2): xD
+[Sun Nov 22 15:16:20 2015]  say: ^3(J.N.R)^4Seba(AM2): ok 
+[Sun Nov 22 15:16:21 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): luego me ocnecto xd
+[Sun Nov 22 15:16:23 2015]  say: ^3(J.N.R)^4S^7d^4el^1(^7M3^1): bb
+[Sun Nov 22 15:16:24 2015]  say: ^3(J.N.R)^4Seba(AM2): bb
+[Sun Nov 22 15:16:26 2015]  ClientDisconnect: 0
+[Sun Nov 22 15:17:04 2015]  ClientDisconnect: 1
+[Sun Nov 22 17:42:44 2015]  ClientConnect: 0
+[Sun Nov 22 17:42:44 2015]  mlog:Player ^0^7[^3KOTR^7}^0Pluton^7{^3JK^7|^3S, connected. With IP - 87.117.13.148:26662 
+[Sun Nov 22 17:43:37 2015]  ClientBegin: 0
+[Sun Nov 22 17:43:41 2015]  ClientConnect: 1
+[Sun Nov 22 17:43:41 2015]  mlog:Player ^5[KOTR]^1Prosto^2Luk^5[JPL:C], connected. With IP - 178.120.184.84:-27843 
+[Sun Nov 22 17:44:11 2015]  ClientBegin: 1
+[Sun Nov 22 17:44:28 2015]  say: ^5Nevol^3ya^5shka: Luk suka Kartoshku sobral?
+[Sun Nov 22 17:44:29 2015]  say: Luk: ≈·‡Ú¸ ÏÓÈ ÍÓÏÔ œËÁ‰Âˆ ÏÓË Î‡„Ë
+[Sun Nov 22 17:44:52 2015]  say: ^5Nevol^3ya^5shka: À‡„Ë?
+[Sun Nov 22 17:45:00 2015]  say: Luk: ¬ËÌ‰Û ÔÂÂÛÒÚ‡ÌÓ‚ËÎ
+[Sun Nov 22 17:45:05 2015]  say: Luk: ¬ÓÚ ˘‡Ò ‚Ó‰Â ÌÓÏ
+[Sun Nov 22 17:45:21 2015]  say: ^5Nevol^3ya^5shka: √Ó ·‡ËÍ‡‰˚ ‰ÂÎ‡Ú¸ Ë ÔÓÚÓÏ Ó·ÒÚÂÎË‚‡Ú¸Òˇ
+[Sun Nov 22 17:45:26 2015]  say: Luk: ¡Àﬂﬂﬂﬂﬂ
+[Sun Nov 22 17:45:31 2015]  say: ^5Nevol^3ya^5shka: ?
+[Sun Nov 22 17:46:57 2015]  ClientConnect: 2
+[Sun Nov 22 17:46:57 2015]  mlog:Player Luk, connected. With IP - 178.120.101.237:15887 
+[Sun Nov 22 17:47:06 2015]  ClientBegin: 2
+[Sun Nov 22 17:47:12 2015]  say: Luk: “≈À≈‘ŒÕ — ¿
+[Sun Nov 22 17:47:29 2015]  say: ^5Nevol^3ya^5shka: Lol u tebya ‡Á‰‚ÓÂÌËÂ ÎË˜ÌÓÒÚË
+[Sun Nov 22 17:47:39 2015]  say: Luk: ◊ÚÓ Á‡....
+[Sun Nov 22 17:47:46 2015]  say: Luk: ÕËÌ‡‰
+[Sun Nov 22 17:47:56 2015]  say: ^5Nevol^3ya^5shka: ’Ô ÓÚÌËÏ‡ÂÚ7
+[Sun Nov 22 17:48:14 2015]  say: Luk: ≈·‡‡‡‡‡¿‡‡‡Ú¸
+[Sun Nov 22 17:48:18 2015]  say: ^5Nevol^3ya^5shka: √Ó ·‡ËÍ‡‰˚  ‰ÂÎ‡Ú¸ Ì‡ÔÓÚË‚ ‰Û„ ‰Û„‡
+[Sun Nov 22 17:48:26 2015]  say: ^5Nevol^3ya^5shka: ◊“Œ ¡Àﬂ“‹ À¿√»?
+[Sun Nov 22 17:48:40 2015]  say: Luk: ÕÛ „Ó ıÛÎÂ
+[Sun Nov 22 17:48:47 2015]  ClientDisconnect: 1
+[Sun Nov 22 17:49:05 2015]  say: Luk: ƒ¿ —” ¿
+[Sun Nov 22 17:49:15 2015]  say: ^5Nevol^3ya^5shka: ƒ¿ “€ «¿≈¡¿À
+[Sun Nov 22 17:49:33 2015]  say: Luk: ﬂ ÌÂ ÏÓ„Û ÒÏÂÌËÚ¸ ˇÁ˚Í ÍÓÏ·ËÌ‡ˆËÂÈ ÍÎ‡‚Ë¯
+[Sun Nov 22 17:49:36 2015]  say: Luk: —ÛÍ‡
+[Sun Nov 22 17:49:39 2015]  say: ^5Nevol^3ya^5shka: XD
+[Sun Nov 22 17:49:40 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:40 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:40 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:40 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:40 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:40 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:40 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:40 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:40 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:40 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:40 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:40 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:49:41 2015]  say: ^5Nevol^3ya^5shka: ^3x^5D
+[Sun Nov 22 17:50:11 2015]  say: Luk: √Ó Ú‡Í
+[Sun Nov 22 17:50:17 2015]  say: ^5Nevol^3ya^5shka: Kak?
+[Sun Nov 22 17:50:34 2015]  say: Luk: ÕËıÂ‡ ÒÚÓËÚ¸ ÌÂ ·Û‰ÂÏ. œŒÕ≈—À¿— Õ¿’”…
+[Sun Nov 22 17:50:45 2015]  say: ^5Nevol^3ya^5shka: god off
+[Sun Nov 22 17:50:52 2015]  say: Luk: ÛÒÂ
+[Sun Nov 22 17:52:56 2015]  Kill: 2 0 19: Luk killed ^5Nevol^3ya^5shka by MOD_ROCKET
+[Sun Nov 22 17:53:01 2015]  Item: 2 weapon_rocket_launcher
+[Sun Nov 22 17:53:11 2015]  say: Luk: √Ó ÔÓÒÚ ‰Û˝Î¸
+[Sun Nov 22 17:53:20 2015]  say: ^5Nevol^3ya^5shka: ÃÂ˜Ë?
+[Sun Nov 22 17:53:28 2015]  say: Luk: ƒ‡
+[Sun Nov 22 17:53:31 2015]  say: ^5Nevol^3ya^5shka: (
+[Sun Nov 22 17:53:43 2015]  say: ^5Nevol^3ya^5shka: —ÍÛ˜ÌÓ ‚ÓÁ‰Ûı ÂÁ‡Ú¸
+[Sun Nov 22 17:53:54 2015]  Kill: 0 2 3: ^5Nevol^3ya^5shka killed Luk by MOD_SABER
+[Sun Nov 22 17:53:57 2015]  ClientDisconnect: 2
+[Sun Nov 22 17:54:56 2015]  ClientConnect: 1
+[Sun Nov 22 17:54:56 2015]  mlog:Player Luk, connected. With IP - 37.45.30.64:14733 
+[Sun Nov 22 17:55:04 2015]  ClientBegin: 1
+[Sun Nov 22 17:55:42 2015]  Kill: 0 1 29: ^5Nevol^3ya^5shka killed Luk by MOD_CONC
+[Sun Nov 22 17:55:53 2015]  Kill: 0 1 29: ^5Nevol^3ya^5shka killed Luk by MOD_CONC
+[Sun Nov 22 17:57:11 2015]  Kill: 1 0 29: Luk killed ^5Nevol^3ya^5shka by MOD_CONC
+[Sun Nov 22 17:57:32 2015]  say: ^5Nevol^3ya^5shka: ÃÓÈ ·ÛÌÍÂ ÒÛÍ‡
+[Sun Nov 22 17:58:25 2015]  Kill: 0 1 38: ^5Nevol^3ya^5shka killed Luk by MOD_FALLING
+[Sun Nov 22 17:58:28 2015]  say: ^5Nevol^3ya^5shka: ƒ«»Õ¿
+[Sun Nov 22 17:58:54 2015]  Item: 1 weapon_concussion_rifle
+[Sun Nov 22 17:58:57 2015]  Item: 1 weapon_det_pack
+[Sun Nov 22 17:58:58 2015]  Item: 1 weapon_det_pack
+[Sun Nov 22 17:59:08 2015]  Kill: 0 1 19: ^5Nevol^3ya^5shka killed Luk by MOD_ROCKET
+[Sun Nov 22 17:59:35 2015]  say: Luk: ≈¡¿“‹ ﬂ ƒ»ÕŒ«¿¬–
+[Sun Nov 22 17:59:40 2015]  say: Luk: „◊”“‹ ◊”“‹ —” ¿
+[Sun Nov 22 18:00:30 2015]  say: ^5Nevol^3ya^5shka: Delay bunker
+[Sun Nov 22 18:00:44 2015]  say: Luk: ”È‰Ë
+[Sun Nov 22 18:00:46 2015]  say: Luk: ŒÚÚÛ‰‡
+[Sun Nov 22 18:00:51 2015]  say: Luk: ÕÂ ÒÚ‡‚¸
+[Sun Nov 22 18:00:53 2015]  say: Luk: ¡ˇÎˇˇˇ
+[Sun Nov 22 18:01:18 2015]  Kill: 1 0 28: Luk killed ^5Nevol^3ya^5shka by MOD_VEHICLE
+[Sun Nov 22 18:01:26 2015]  Kill: 1 0 28: Luk killed ^5Nevol^3ya^5shka by MOD_VEHICLE
+[Sun Nov 22 18:01:38 2015]  say: ^5Nevol^3ya^5shka: STOY
+[Sun Nov 22 18:01:55 2015]  Kill: 1022 1 6: <world> killed Luk by MOD_BLASTER
+[Sun Nov 22 18:02:01 2015]  say: ^5Nevol^3ya^5shka: VO NAHUY
+[Sun Nov 22 18:02:18 2015]  say: ^5Nevol^3ya^5shka: A YA?
+[Sun Nov 22 18:02:56 2015]  say: ^5Nevol^3ya^5shka: Atakuy
+[Sun Nov 22 18:03:16 2015]  Kill: 0 0 39: ^5Nevol^3ya^5shka killed ^5Nevol^3ya^5shka by MOD_SUICIDE
+[Sun Nov 22 18:03:18 2015]  Kill: 1022 1 6: <world> killed Luk by MOD_BLASTER
+[Sun Nov 22 18:03:45 2015]  say: ^5Nevol^3ya^5shka: KAK?
+[Sun Nov 22 18:03:59 2015]  Kill: 1022 0 39: <world> killed ^5Nevol^3ya^5shka by MOD_SUICIDE
+[Sun Nov 22 18:04:04 2015]  say: Luk: ƒÁËÌ‡ Ì‡ÒÚÓÎ¸ÍÓ ÒÛÓ‚...
+[Sun Nov 22 18:04:16 2015]  say: Luk: ÃÓÊÂ¯¸ ˝ÚÓ Á‡ÒÍËÌËÚ¸?
+[Sun Nov 22 18:04:19 2015]  say: Luk: —‰ÂÎ‡˛ ÏÂÏ
+[Sun Nov 22 18:04:22 2015]  say: ^5Nevol^3ya^5shka: +
+[Sun Nov 22 18:04:30 2015]  say: ^5Nevol^3ya^5shka: Vse
+[Sun Nov 22 18:04:32 2015]  say: Luk: ÒÔÒ
+[Sun Nov 22 18:04:40 2015]  say: Luk:  ‡Ú‡ÈÒˇ ıÛÎÂ
+[Sun Nov 22 18:05:06 2015]  say: ^5Nevol^3ya^5shka: A pluton eshe surovee
+[Sun Nov 22 18:05:28 2015]  print "Luk^7 @@@PLRENAME ƒ«»Õ¿
+"[Sun Nov 22 18:05:30 2015]  say: ƒ«»Õ¿: ı‰‰‰
+[Sun Nov 22 18:05:43 2015]  print "^5Nevol^3ya^5shka^7 @@@PLRENAME Pluton
+"[Sun Nov 22 18:05:49 2015]  Item: 1 ammo_all
+[Sun Nov 22 18:07:38 2015]  say: ƒ«»Õ¿: œÓ„Ó‰Ë Í‡.
+[Sun Nov 22 18:07:45 2015]  say: ƒ«»Õ¿: ¡Î...
+[Sun Nov 22 18:08:07 2015]  Kill: 0 1 29: Pluton killed ƒ«»Õ¿ by MOD_CONC
+[Sun Nov 22 18:09:21 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:22 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:42 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:43 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:43 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:09:43 2015]  say: Pluton: ^3x^5D
+[Sun Nov 22 18:11:21 2015]  say: ƒ«»Õ¿: √ŒÀŒ—Œ¬¿“‹
+[Sun Nov 22 18:11:23 2015]  say: ƒ«»Õ¿: Õ≈À‹«ﬂ
+[Sun Nov 22 18:11:26 2015]  say: ƒ«»Õ¿: —”””” ¿¿¿¿¿
+[Sun Nov 22 18:11:32 2015]  say: Pluton: bb
+[Sun Nov 22 18:11:35 2015]  say: Pluton: Do zavtra
+[Sun Nov 22 18:11:38 2015]  say: ƒ«»Õ¿: ÕÛ ÌËÚ
+[Sun Nov 22 18:11:42 2015]  say: ƒ«»Õ¿: Õ˛ ·ÎËÌ¸
+[Sun Nov 22 18:11:49 2015]  say: ƒ«»Õ¿: ≈·‡Ú¸
+[Sun Nov 22 18:11:54 2015]  say: Pluton: bb
+[Sun Nov 22 18:11:56 2015]  ClientConnect: 2
+[Sun Nov 22 18:11:56 2015]  mlog:Player padawan, connected. With IP - 190.138.233.16:29070 
+[Sun Nov 22 18:11:56 2015]  ClientDisconnect: 0
+[Sun Nov 22 18:12:27 2015]  ClientDisconnect: 1
+[Sun Nov 22 18:12:50 2015]  ClientBegin: 2
+[Sun Nov 22 18:13:45 2015]  print "^3(J.N.R)^7Carlos(J.G.L)^7 @@@PLRENAME Padawan
+"[Sun Nov 22 18:14:15 2015]  ClientDisconnect: 2
+[Sun Nov 22 18:15:47 2015]  ClientConnect: 0
+[Sun Nov 22 18:15:47 2015]  mlog:Player padawan, connected. With IP - 190.138.233.16:29070 
+[Sun Nov 22 18:16:30 2015]  ClientBegin: 0
+[Sun Nov 22 18:17:53 2015]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Nov 22 18:28:13 2015]  Kill: 1022 0 6: <world> killed Padawan by MOD_BLASTER
+[Sun Nov 22 18:34:40 2015]  ClientDisconnect: 0
+[Sun Nov 22 18:59:12 2015]  ClientConnect: 0
+[Sun Nov 22 18:59:12 2015]  mlog:Player Raven, connected. With IP - 173.170.39.165:29070 
+[Sun Nov 22 18:59:35 2015]  ClientBegin: 0
+[Sun Nov 22 18:59:56 2015]  ClientDisconnect: 0
+[Sun Nov 22 20:40:47 2015]  ClientConnect: 0
+[Sun Nov 22 20:40:47 2015]  mlog:Player Padawan, connected. With IP - 181.1.106.19:29070 
+[Sun Nov 22 20:41:00 2015]  ClientDisconnect: 0
+[Sun Nov 22 23:40:21 2015]  ClientConnect: 0
+[Sun Nov 22 23:40:21 2015]  mlog:Player Padawan, connected. With IP - 181.1.106.19:1024 
+[Sun Nov 22 23:41:58 2015]  ClientBegin: 0
+[Mon Nov 23 00:18:37 2015]  ClientConnect: 1
+[Mon Nov 23 00:18:37 2015]  mlog:Player padawan, connected. With IP - 181.230.147.242:29070 
+[Mon Nov 23 00:19:30 2015]  ClientBegin: 1
+[Mon Nov 23 00:20:11 2015]  say: Padawan: exile?
+[Mon Nov 23 00:20:15 2015]  say: padawan: 1234 xd
+[Mon Nov 23 00:20:17 2015]  say: Padawan: xd
+[Mon Nov 23 00:20:18 2015]  say: Padawan: veni
+[Mon Nov 23 00:20:20 2015]  say: Padawan: My origin is: (2354 -7168 1472) - You can teleport here with /mtelelast
+
+[Mon Nov 23 00:20:52 2015]  say: padawan: xD
+[Mon Nov 23 00:21:06 2015]  say: padawan: chan
+[Mon Nov 23 00:21:06 2015]  say: Padawan: xd
+[Mon Nov 23 00:21:10 2015]  say: padawan: aca vivis xd
+[Mon Nov 23 00:21:16 2015]  say: Padawan: xd
+[Mon Nov 23 00:21:19 2015]  say: Padawan: es algo imperial
+[Mon Nov 23 00:21:19 2015]  say: padawan: xD
+[Mon Nov 23 00:21:30 2015]  say: padawan: tu viejo se feu a festejar?
+[Mon Nov 23 00:21:34 2015]  say: Padawan: si
+[Mon Nov 23 00:21:46 2015]  say: padawan: xD mi vieja va para aya
+[Mon Nov 23 00:21:54 2015]  say: Padawan: esta la sole
+[Mon Nov 23 00:21:56 2015]  say: Padawan: m iviejo
+[Mon Nov 23 00:21:59 2015]  say: Padawan: y el rolo tambien va a ir
+[Mon Nov 23 00:22:04 2015]  say: padawan: xd
+[Mon Nov 23 00:22:09 2015]  say: padawan: rolo votando a sciolio
+[Mon Nov 23 00:22:11 2015]  say: padawan: xD
+[Mon Nov 23 00:22:31 2015]  say: Padawan: xd no queda
+[Mon Nov 23 00:22:39 2015]  say: padawan: queda raro
+[Mon Nov 23 00:23:00 2015]  say: padawan: a jose
+[Mon Nov 23 00:23:02 2015]  say: padawan: como carajo
+[Mon Nov 23 00:23:06 2015]  say: padawan: entrenamos a los soldado xd
+[Mon Nov 23 00:23:08 2015]  say: Padawan: xD
+[Mon Nov 23 00:23:14 2015]  say: Padawan: no sabes?
+[Mon Nov 23 00:23:22 2015]  say: padawan: yo y seba
+[Mon Nov 23 00:23:25 2015]  say: padawan: organizamos
+[Mon Nov 23 00:23:29 2015]  say: padawan: con que empezar y eso
+[Mon Nov 23 00:23:45 2015]  say: padawan: pero
+[Mon Nov 23 00:23:54 2015]  say: padawan: vos sabes todos los secretos
+[Mon Nov 23 00:24:12 2015]  say: padawan: music music 
+[Mon Nov 23 00:24:13 2015]  say: Padawan: sec
+[Mon Nov 23 00:24:24 2015]  say: Padawan: xd
+[Mon Nov 23 00:24:25 2015]  say: Padawan: no se fijate
+[Mon Nov 23 00:24:26 2015]  say: Padawan: la imperial
+[Mon Nov 23 00:24:41 2015]  say: padawan: exploracion8 chan
+[Mon Nov 23 00:25:02 2015]  say: padawan: xd truchaso traspasa
+[Mon Nov 23 00:25:09 2015]  say: Padawan: xd
+[Mon Nov 23 00:25:12 2015]  say: Padawan: es una obra de arte
+[Mon Nov 23 00:25:18 2015]  say: padawan: xD
+[Mon Nov 23 00:25:24 2015]  say: padawan: un atst gigante
+[Mon Nov 23 00:25:32 2015]  say: padawan: chan
+[Mon Nov 23 00:25:42 2015]  say: Padawan: xd
+[Mon Nov 23 00:25:46 2015]  say: Padawan: la primera casaque tube
+[Mon Nov 23 00:25:46 2015]  say: padawan: me hace acordar al tanque gigante q quisieron crear los nazi
+[Mon Nov 23 00:25:47 2015]  say: Padawan: era algo asi
+[Mon Nov 23 00:26:09 2015]  say: padawan: super caÒones
+[Mon Nov 23 00:26:25 2015]  say: Padawan: chan
+[Mon Nov 23 00:26:36 2015]  say: Padawan: mira esto
+[Mon Nov 23 00:26:38 2015]  say: Padawan: xd el boton
+[Mon Nov 23 00:26:40 2015]  say: Padawan: tiene el logi mperial
+[Mon Nov 23 00:26:42 2015]  say: Padawan: logo imperial
+[Mon Nov 23 00:26:45 2015]  say: padawan: se
+[Mon Nov 23 00:26:54 2015]  say: padawan: es re imperial este maker
+[Mon Nov 23 00:26:57 2015]  say: Padawan: xd
+[Mon Nov 23 00:26:59 2015]  say: Padawan: es de fuzz
+[Mon Nov 23 00:27:04 2015]  say: padawan: se parece vjun xd
+[Mon Nov 23 00:27:10 2015]  say: Padawan: bueno
+[Mon Nov 23 00:27:10 2015]  say: padawan: todo rocoso
+[Mon Nov 23 00:27:13 2015]  say: Padawan: xd
+[Mon Nov 23 00:27:16 2015]  say: Padawan: para entrenar a los soldados
+[Mon Nov 23 00:27:19 2015]  say: Padawan: no es tan dificil
+[Mon Nov 23 00:27:21 2015]  say: Padawan: tenes que enseÒarle
+[Mon Nov 23 00:27:23 2015]  say: Padawan: el punto debil
+[Mon Nov 23 00:27:24 2015]  say: Padawan: de los jedis
+[Mon Nov 23 00:27:27 2015]  say: Padawan: xd lo sabes?
+[Mon Nov 23 00:27:31 2015]  say: padawan: siths xd
+[Mon Nov 23 00:27:35 2015]  say: Padawan: xd
+[Mon Nov 23 00:27:36 2015]  say: padawan: la rodilla
+[Mon Nov 23 00:27:39 2015]  say: padawan: mano y pie?
+[Mon Nov 23 00:27:41 2015]  say: Padawan: xd
+[Mon Nov 23 00:27:42 2015]  say: Padawan: si
+[Mon Nov 23 00:27:46 2015]  say: Padawan: despues
+[Mon Nov 23 00:27:48 2015]  say: Padawan: que pratiquen
+[Mon Nov 23 00:27:50 2015]  say: Padawan: saltando el disparo
+[Mon Nov 23 00:27:52 2015]  say: Padawan: el sniper
+[Mon Nov 23 00:27:56 2015]  say: Padawan: no deben recargarlo nunca a menos que
+[Mon Nov 23 00:27:59 2015]  say: Padawan: el oponente este escondido
+[Mon Nov 23 00:28:01 2015]  say: Padawan: entonces cuando sale
+[Mon Nov 23 00:28:03 2015]  say: Padawan: le dan con ese
+[Mon Nov 23 00:28:07 2015]  say: Padawan: despues el tiro comun
+[Mon Nov 23 00:28:08 2015]  say: padawan: xd
+[Mon Nov 23 00:28:11 2015]  say: Padawan: se usa siempre el con mira
+[Mon Nov 23 00:28:13 2015]  say: Padawan: a larga distancia
+[Mon Nov 23 00:28:17 2015]  say: Padawan: sin mira a corta distancia xd
+[Mon Nov 23 00:28:25 2015]  say: Padawan: la pistola ya lo sabes
+[Mon Nov 23 00:28:30 2015]  say: padawan: yo y seba
+[Mon Nov 23 00:28:43 2015]  say: Padawan: chan
+[Mon Nov 23 00:28:46 2015]  say: Padawan: estaba pensando en
+[Mon Nov 23 00:28:51 2015]  say: Padawan: xd
+[Mon Nov 23 00:28:54 2015]  say: Padawan: no volver hasta que
+[Mon Nov 23 00:29:00 2015]  say: Padawan: en el nuevo mapa
+[Mon Nov 23 00:29:11 2015]  say: padawan: era asi
+[Mon Nov 23 00:29:12 2015]  say: Padawan: ponga algo asi lo descubre
+[Mon Nov 23 00:29:14 2015]  say: Padawan: algun jnr
+[Mon Nov 23 00:29:15 2015]  say: padawan: en cadete
+[Mon Nov 23 00:29:16 2015]  say: Padawan: y me encuentre
+[Mon Nov 23 00:29:18 2015]  say: padawan: enseÒabamos
+[Mon Nov 23 00:29:25 2015]  say: padawan: las 2 pistolas
+[Mon Nov 23 00:29:27 2015]  say: padawan: mas 
+[Mon Nov 23 00:29:31 2015]  say: padawan: el coso 
+[Mon Nov 23 00:29:34 2015]  say: padawan: electrico xd
+[Mon Nov 23 00:29:36 2015]  say: Padawan: xd no
+[Mon Nov 23 00:29:39 2015]  say: Padawan: debe ser
+[Mon Nov 23 00:29:41 2015]  say: Padawan: por tipos de armas
+[Mon Nov 23 00:29:46 2015]  say: padawan: como xd
+[Mon Nov 23 00:29:57 2015]  say: Padawan: mira
+[Mon Nov 23 00:29:59 2015]  say: Padawan: cadete
+[Mon Nov 23 00:30:08 2015]  say: Padawan: esas
+[Mon Nov 23 00:30:13 2015]  say: Padawan: sargento
+[Mon Nov 23 00:30:20 2015]  say: Padawan: capitan
+[Mon Nov 23 00:30:31 2015]  say: Padawan: xd cuantos rangos faltan
+[Mon Nov 23 00:30:34 2015]  say: padawan: xd
+[Mon Nov 23 00:30:36 2015]  say: padawan: era asi
+[Mon Nov 23 00:30:42 2015]  say: padawan: cadete
+[Mon Nov 23 00:30:44 2015]  say: Padawan: decime que rangos hay
+[Mon Nov 23 00:30:51 2015]  say: padawan: mas trompadas mas las 2 pistolas xd
+[Mon Nov 23 00:30:56 2015]  say: padawan: era
+[Mon Nov 23 00:30:58 2015]  say: padawan: cadete 
+[Mon Nov 23 00:31:00 2015]  say: padawan: soldado
+[Mon Nov 23 00:31:01 2015]  say: padawan: sargento
+[Mon Nov 23 00:31:03 2015]  say: padawan: comando
+[Mon Nov 23 00:31:06 2015]  say: Padawan: capitan?=
+[Mon Nov 23 00:31:12 2015]  say: padawan: capitan comando
+[Mon Nov 23 00:31:17 2015]  say: Padawan: y despues
+[Mon Nov 23 00:31:20 2015]  say: padawan: luego las especialidades
+[Mon Nov 23 00:31:24 2015]  say: Padawan: ah ok
+[Mon Nov 23 00:31:26 2015]  say: Padawan: entonces es asi
+[Mon Nov 23 00:31:27 2015]  say: Padawan: cadete
+[Mon Nov 23 00:31:28 2015]  say: padawan: y al ultimo comandante
+[Mon Nov 23 00:31:39 2015]  say: Padawan: todas esas
+[Mon Nov 23 00:31:41 2015]  say: Padawan: soldado
+[Mon Nov 23 00:31:48 2015]  say: Padawan: sargento
+[Mon Nov 23 00:31:58 2015]  say: Padawan: con esta tambien
+[Mon Nov 23 00:32:03 2015]  say: Padawan: capitan
+[Mon Nov 23 00:32:10 2015]  say: Padawan: comando
+[Mon Nov 23 00:32:17 2015]  say: Padawan: y todas las demas
+[Mon Nov 23 00:32:23 2015]  say: Padawan: atendiste?
+[Mon Nov 23 00:32:26 2015]  say: padawan: se
+[Mon Nov 23 00:32:29 2015]  say: Padawan: ok
+[Mon Nov 23 00:32:30 2015]  say: padawan: tambien agregamos
+[Mon Nov 23 00:32:36 2015]  say: padawan: vehiculos historia
+[Mon Nov 23 00:32:39 2015]  say: Padawan: xd
+[Mon Nov 23 00:32:39 2015]  say: padawan: trabajo en equipo
+[Mon Nov 23 00:32:44 2015]  say: Padawan: vehiculos
+[Mon Nov 23 00:32:45 2015]  say: padawan: items
+[Mon Nov 23 00:32:46 2015]  say: Padawan: se enseÒa
+[Mon Nov 23 00:32:48 2015]  say: Padawan: en comando
+[Mon Nov 23 00:32:52 2015]  say: padawan: items
+[Mon Nov 23 00:32:55 2015]  say: padawan: y
+[Mon Nov 23 00:32:56 2015]  say: Padawan: los items
+[Mon Nov 23 00:32:57 2015]  say: padawan: me falta 1 xd
+[Mon Nov 23 00:33:02 2015]  say: Padawan: xd
+[Mon Nov 23 00:33:05 2015]  say: padawan: era
+[Mon Nov 23 00:33:24 2015]  say: padawan: items historia vehiculos trabajo en equipo
+[Mon Nov 23 00:33:26 2015]  say: padawan: me falta uno
+[Mon Nov 23 00:33:36 2015]  say: padawan: xd
+[Mon Nov 23 00:33:37 2015]  say: Padawan: armaS?
+[Mon Nov 23 00:33:42 2015]  say: padawan: no
+[Mon Nov 23 00:33:51 2015]  say: Padawan: xd
+[Mon Nov 23 00:33:52 2015]  say: padawan: a si
+[Mon Nov 23 00:33:57 2015]  say: padawan: tecnicas de combate
+[Mon Nov 23 00:34:00 2015]  say: Padawan: ok
+[Mon Nov 23 00:34:02 2015]  say: Padawan: haber
+[Mon Nov 23 00:34:04 2015]  say: Padawan: mira
+[Mon Nov 23 00:34:07 2015]  say: Padawan: las armas ya te di
+[Mon Nov 23 00:34:10 2015]  say: Padawan: como se distribuyen
+[Mon Nov 23 00:34:14 2015]  say: Padawan: ahora
+[Mon Nov 23 00:34:21 2015]  say: Padawan: veni afuera
+[Mon Nov 23 00:34:26 2015]  say: Padawan: items
+[Mon Nov 23 00:34:31 2015]  say: Padawan: en soldado
+[Mon Nov 23 00:34:37 2015]  say: Padawan: digo
+[Mon Nov 23 00:34:38 2015]  say: Padawan: cadete
+[Mon Nov 23 00:34:49 2015]  say: Padawan: que se enseÒe
+[Mon Nov 23 00:34:52 2015]  say: Padawan: a apuntar con el binocular
+[Mon Nov 23 00:34:57 2015]  say: Padawan: osea el prismatico
+[Mon Nov 23 00:35:06 2015]  say: Padawan: porcierto el prismatico sirve para ver campos de fuerza invicibles
+[Mon Nov 23 00:35:10 2015]  say: Padawan: lo des cubri en the academy v3 xd
+[Mon Nov 23 00:35:22 2015]  say: Padawan: que se use el prismatico
+[Mon Nov 23 00:35:24 2015]  say: Padawan: y el campo de fuerza
+[Mon Nov 23 00:35:29 2015]  say: Padawan: y repare mi pc
+[Mon Nov 23 00:35:30 2015]  say: Padawan: xD
+[Mon Nov 23 00:35:40 2015]  say: Padawan: despues
+[Mon Nov 23 00:35:45 2015]  say: Padawan: soldado
+[Mon Nov 23 00:35:46 2015]  say: padawan: campos de fuerza invicibles? xd
+[Mon Nov 23 00:35:52 2015]  say: Padawan: xD
+[Mon Nov 23 00:35:53 2015]  say: Padawan: si
+[Mon Nov 23 00:35:59 2015]  say: Padawan: son las cosas que no te dejan pasar
+[Mon Nov 23 00:36:00 2015]  say: Padawan: al otro lado
+[Mon Nov 23 00:36:04 2015]  say: Padawan: o las puertas cerradas
+[Mon Nov 23 00:36:06 2015]  say: Padawan: como la
+[Mon Nov 23 00:36:09 2015]  say: Padawan: de the academy v3
+[Mon Nov 23 00:36:12 2015]  say: padawan: xd
+[Mon Nov 23 00:36:15 2015]  say: Padawan: despues
+[Mon Nov 23 00:36:27 2015]  say: Padawan: cadete
+[Mon Nov 23 00:36:33 2015]  say: Padawan: perdon
+[Mon Nov 23 00:36:35 2015]  say: Padawan: eso es soldado
+[Mon Nov 23 00:36:45 2015]  say: Padawan: sargento
+[Mon Nov 23 00:36:59 2015]  say: Padawan: capitan
+[Mon Nov 23 00:37:06 2015]  say: Padawan: y
+[Mon Nov 23 00:37:08 2015]  say: Padawan: comando
+[Mon Nov 23 00:37:12 2015]  say: Padawan: bueno encubridor sxd
+[Mon Nov 23 00:37:14 2015]  say: Padawan: no anda acaa
+[Mon Nov 23 00:37:15 2015]  say: padawan: xd
+[Mon Nov 23 00:37:20 2015]  say: Padawan: y el jetpack
+[Mon Nov 23 00:37:22 2015]  say: Padawan: dejalo para 
+[Mon Nov 23 00:37:26 2015]  say: Padawan: soldados
+[Mon Nov 23 00:37:35 2015]  say: Padawan: las bactas
+[Mon Nov 23 00:37:35 2015]  say: padawan: ok
+[Mon Nov 23 00:37:37 2015]  say: Padawan: no se ense;an
+[Mon Nov 23 00:37:39 2015]  say: Padawan: es para curarce
+[Mon Nov 23 00:37:40 2015]  say: Padawan: xD
+[Mon Nov 23 00:37:42 2015]  say: padawan: xd
+[Mon Nov 23 00:37:46 2015]  say: Padawan: despues
+[Mon Nov 23 00:37:52 2015]  say: padawan: vehiculos para comando
+[Mon Nov 23 00:37:52 2015]  say: Padawan: historia
+[Mon Nov 23 00:37:56 2015]  say: Padawan: bueno ya sabes
+[Mon Nov 23 00:37:57 2015]  say: Padawan: los vehiculos
+[Mon Nov 23 00:37:59 2015]  say: Padawan: hay un secreto
+[Mon Nov 23 00:38:00 2015]  say: Padawan: xD
+[Mon Nov 23 00:38:04 2015]  say: Padawan: mira
+[Mon Nov 23 00:38:09 2015]  say: Padawan: My origin is: (4098 -9482 1712) - You can teleport here with /mtelelast
+
+[Mon Nov 23 00:38:25 2015]  say: Padawan: mira como disparo
+[Mon Nov 23 00:38:38 2015]  say: Padawan: xd fracaso
+[Mon Nov 23 00:38:39 2015]  say: padawan: xD
+[Mon Nov 23 00:38:43 2015]  say: Padawan: ta ves
+[Mon Nov 23 00:38:46 2015]  say: padawan: se
+[Mon Nov 23 00:38:46 2015]  say: Padawan: 50 tiros
+[Mon Nov 23 00:38:47 2015]  say: Padawan: o sino
+[Mon Nov 23 00:38:53 2015]  say: padawan: xD como es
+[Mon Nov 23 00:38:53 2015]  say: Padawan: a lo rogue escuadron
+[Mon Nov 23 00:38:59 2015]  say: Padawan: xD
+[Mon Nov 23 00:39:09 2015]  say: Padawan: mira otra nave
+[Mon Nov 23 00:39:17 2015]  say: Padawan: xd cual
+[Mon Nov 23 00:39:22 2015]  say: padawan: xd
+[Mon Nov 23 00:39:24 2015]  say: Padawan: xd
+[Mon Nov 23 00:39:26 2015]  say: Padawan: esta bueno
+[Mon Nov 23 00:39:35 2015]  say: Padawan: xD
+[Mon Nov 23 00:39:36 2015]  say: Padawan: eso lo aprendi
+[Mon Nov 23 00:39:37 2015]  say: Padawan: en kotf
+[Mon Nov 23 00:39:40 2015]  say: Padawan: con las tropas de fuzz
+[Mon Nov 23 00:39:42 2015]  say: Padawan: con los soldados
+[Mon Nov 23 00:39:46 2015]  say: Padawan: xd por eso 
+[Mon Nov 23 00:39:50 2015]  say: Padawan: los pilotos disparaban mejor
+[Mon Nov 23 00:40:13 2015]  say: Padawan: bueno
+[Mon Nov 23 00:40:26 2015]  say: Padawan: tiras
+[Mon Nov 23 00:40:28 2015]  say: Padawan: de a 2 misiles
+[Mon Nov 23 00:40:29 2015]  say: Padawan: con esto
+[Mon Nov 23 00:40:33 2015]  say: padawan: ok
+[Mon Nov 23 00:40:34 2015]  say: Padawan: y asi de a uno
+[Mon Nov 23 00:40:40 2015]  say: Padawan: xd
+[Mon Nov 23 00:40:46 2015]  say: Padawan: gastas mas municion
+[Mon Nov 23 00:40:48 2015]  say: Padawan: con los 4 disparos
+[Mon Nov 23 00:40:56 2015]  say: Padawan: ok
+[Mon Nov 23 00:41:02 2015]  say: Padawan: despues
+[Mon Nov 23 00:41:07 2015]  say: Padawan: que falta_
+[Mon Nov 23 00:41:18 2015]  say: padawan: las tacticas
+[Mon Nov 23 00:41:50 2015]  say: padawan: xd
+[Mon Nov 23 00:41:52 2015]  say: Padawan: xd el lag
+[Mon Nov 23 00:41:54 2015]  say: Padawan: no ayuda
+[Mon Nov 23 00:42:33 2015]  Kill: 1 0 5: padawan killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Mon Nov 23 00:42:35 2015]  say: Padawan: xd
+[Mon Nov 23 00:42:37 2015]  say: padawan: xD
+[Mon Nov 23 00:42:39 2015]  Item: 1 weapon_disruptor
+[Mon Nov 23 00:42:44 2015]  say: padawan: las tacticas donde
+[Mon Nov 23 00:42:44 2015]  say: Padawan: bueno
+[Mon Nov 23 00:42:46 2015]  say: Padawan: tenicas
+[Mon Nov 23 00:42:49 2015]  say: Padawan: xd
+[Mon Nov 23 00:42:52 2015]  say: Padawan: en la ciudadela de marker
+[Mon Nov 23 00:42:54 2015]  say: Padawan: es la mejor opcion
+[Mon Nov 23 00:42:58 2015]  say: padawan: ok
+[Mon Nov 23 00:43:06 2015]  say: padawan: y el trabjao en equipo
+[Mon Nov 23 00:43:08 2015]  say: Padawan: xd
+[Mon Nov 23 00:43:09 2015]  say: padawan: para q no maten al jdi xd
+[Mon Nov 23 00:43:10 2015]  say: Padawan: ciudadela
+[Mon Nov 23 00:43:16 2015]  say: padawan: en q rango
+[Mon Nov 23 00:43:19 2015]  say: Padawan: ah
+[Mon Nov 23 00:43:21 2015]  say: Padawan: en
+[Mon Nov 23 00:43:25 2015]  say: Padawan: anda viendo
+[Mon Nov 23 00:43:27 2015]  say: Padawan: mira en cadete no
+[Mon Nov 23 00:43:30 2015]  say: Padawan: en soldado y en sargento
+[Mon Nov 23 00:43:32 2015]  say: padawan: obvio q no xd
+[Mon Nov 23 00:43:33 2015]  say: Padawan: la ciudadela comun
+[Mon Nov 23 00:43:36 2015]  say: Padawan: capitan
+[Mon Nov 23 00:43:40 2015]  say: Padawan: ahi empezas con npc de sable
+[Mon Nov 23 00:43:42 2015]  say: Padawan: y en comando
+[Mon Nov 23 00:43:44 2015]  say: Padawan: contra los jedis
+[Mon Nov 23 00:43:46 2015]  say: Padawan: tipos xd
+[Mon Nov 23 00:43:56 2015]  say: padawan: ok
+[Mon Nov 23 00:43:57 2015]  say: Padawan: y bueno
+[Mon Nov 23 00:44:01 2015]  say: Padawan: la clase soldado es corta
+[Mon Nov 23 00:44:08 2015]  say: Padawan: ensena a manejar
+[Mon Nov 23 00:44:09 2015]  say: Padawan: primero
+[Mon Nov 23 00:44:12 2015]  say: Padawan: y luego
+[Mon Nov 23 00:44:14 2015]  say: Padawan: a disparar xd
+[Mon Nov 23 00:44:20 2015]  say: Padawan: enseÒa cuando usar
+[Mon Nov 23 00:44:22 2015]  say: Padawan: hiper propilsor
+[Mon Nov 23 00:44:26 2015]  say: Padawan: como despegar
+[Mon Nov 23 00:44:31 2015]  say: Padawan: y como aterrizar
+[Mon Nov 23 00:44:33 2015]  say: Padawan: y luego a disparar xd
+[Mon Nov 23 00:44:37 2015]  say: Padawan: disparos comunes primero
+[Mon Nov 23 00:44:40 2015]  say: Padawan: y finalmente los elite xd
+[Mon Nov 23 00:44:50 2015]  say: Padawan: en tu nave
+[Mon Nov 23 00:44:54 2015]  say: Padawan: esta mortal disparar
+[Mon Nov 23 00:44:58 2015]  say: Padawan: de a 4 disparos
+[Mon Nov 23 00:45:03 2015]  say: padawan: xd
+[Mon Nov 23 00:45:04 2015]  say: Padawan: xd pone
+[Mon Nov 23 00:45:06 2015]  say: Padawan: 4 disparos
+[Mon Nov 23 00:45:14 2015]  say: Padawan: xd
+[Mon Nov 23 00:45:16 2015]  say: Padawan: apreta 
+[Mon Nov 23 00:45:16 2015]  say: padawan: xd q
+[Mon Nov 23 00:45:18 2015]  say: Padawan: el que usas para
+[Mon Nov 23 00:45:20 2015]  say: Padawan: poner objetos
+[Mon Nov 23 00:45:26 2015]  say: Padawan: xD
+[Mon Nov 23 00:45:34 2015]  say: Padawan: nada mL_
+[Mon Nov 23 00:45:35 2015]  say: padawan: a para eso
+[Mon Nov 23 00:45:36 2015]  say: Padawan: nada mal
+[Mon Nov 23 00:45:39 2015]  say: padawan: serbia el 
+[Mon Nov 23 00:45:45 2015]  say: padawan: el coso de la derecha xd
+[Mon Nov 23 00:45:47 2015]  say: Padawan: xD si
+[Mon Nov 23 00:45:58 2015]  say: Padawan: lo descubri
+[Mon Nov 23 00:45:58 2015]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Mon Nov 23 00:46:00 2015]  say: Padawan: cuando peleamos en
+[Mon Nov 23 00:46:01 2015]  say: padawan: xD
+[Mon Nov 23 00:46:02 2015]  say: Padawan: el mapa de endor
+[Mon Nov 23 00:46:04 2015]  say: Padawan: del espacio
+[Mon Nov 23 00:46:04 2015]  Kill: 1022 1 2: <world> killed padawan by MOD_MELEE
+[Mon Nov 23 00:46:08 2015]  say: padawan: xd
+[Mon Nov 23 00:46:12 2015]  say: Padawan: un stormpilot dijo
+[Mon Nov 23 00:46:16 2015]  say: Padawan: veni hay un secreto xd
+[Mon Nov 23 00:46:25 2015]  say: Padawan: para poder ganarle a los clones contra la gunship
+[Mon Nov 23 00:46:26 2015]  say: Padawan: y usaba eso xD
+[Mon Nov 23 00:46:29 2015]  say: padawan: xd
+[Mon Nov 23 00:46:37 2015]  say: Padawan: bueno
+[Mon Nov 23 00:46:42 2015]  say: Padawan: como decia
+[Mon Nov 23 00:46:47 2015]  say: Padawan: estare por ahi
+[Mon Nov 23 00:46:49 2015]  say: Padawan: un tiempo
+[Mon Nov 23 00:46:53 2015]  say: Padawan: si me nesecitan
+[Mon Nov 23 00:46:57 2015]  say: Padawan: para encontrarme a los jnr decile
+[Mon Nov 23 00:47:02 2015]  say: Padawan: xd vos ya sabes donde estoy
+[Mon Nov 23 00:47:04 2015]  say: Padawan: en pink academia
+[Mon Nov 23 00:47:05 2015]  say: Padawan: ho aca
+[Mon Nov 23 00:47:08 2015]  say: Padawan: dejare
+[Mon Nov 23 00:47:15 2015]  say: Padawan: alguna pista
+[Mon Nov 23 00:47:20 2015]  say: Padawan: en el mapa jedi council
+[Mon Nov 23 00:47:24 2015]  say: Padawan: pero no le digas
+[Mon Nov 23 00:47:27 2015]  say: Padawan: qaue hay una pista decile
+[Mon Nov 23 00:47:32 2015]  say: Padawan: que jose volvera cuando
+[Mon Nov 23 00:47:36 2015]  say: Padawan: un secreto descubran
+[Mon Nov 23 00:47:39 2015]  say: Padawan: xd
+[Mon Nov 23 00:47:45 2015]  say: Padawan: veni
+[Mon Nov 23 00:47:45 2015]  say: padawan: xd quedara genial
+[Mon Nov 23 00:47:55 2015]  say: Padawan: veni
+[Mon Nov 23 00:48:17 2015]  say: Padawan: en mi cuadro
+[Mon Nov 23 00:48:18 2015]  say: Padawan: de mi cuarto
+[Mon Nov 23 00:48:20 2015]  say: Padawan: no le digas a los demas
+[Mon Nov 23 00:48:22 2015]  say: Padawan: habra 
+[Mon Nov 23 00:48:24 2015]  say: Padawan: 2 frases
+[Mon Nov 23 00:48:28 2015]  say: Padawan: t2_trip
+[Mon Nov 23 00:48:32 2015]  say: Padawan: y Exilio 1234
+[Mon Nov 23 00:48:35 2015]  say: Padawan: xd es el salvado este
+[Mon Nov 23 00:48:37 2015]  say: Padawan: y aca deberan buscar
+[Mon Nov 23 00:48:40 2015]  say: Padawan: esto
+[Mon Nov 23 00:48:42 2015]  say: Padawan: toca
+[Mon Nov 23 00:48:43 2015]  say: padawan: se xd
+[Mon Nov 23 00:48:51 2015]  say: padawan: xD
+[Mon Nov 23 00:48:52 2015]  say: Padawan: toca aca
+[Mon Nov 23 00:49:26 2015]  say: Padawan: xd
+[Mon Nov 23 00:49:29 2015]  say: Padawan: diran wtf
+[Mon Nov 23 00:49:30 2015]  say: padawan: xd genial
+[Mon Nov 23 00:49:31 2015]  say: Padawan: que significa eso
+[Mon Nov 23 00:49:34 2015]  say: Padawan: xd la clave es
+[Mon Nov 23 00:49:40 2015]  say: Padawan: obiamente que lo descubran ellos
+[Mon Nov 23 00:49:42 2015]  say: Padawan: en la pagina
+[Mon Nov 23 00:49:50 2015]  say: Padawan: en la sala de miembros jnr
+[Mon Nov 23 00:49:52 2015]  say: Padawan: habra un boton
+[Mon Nov 23 00:49:54 2015]  say: Padawan: con clave
+[Mon Nov 23 00:49:55 2015]  say: Padawan: que dira
+[Mon Nov 23 00:50:03 2015]  say: Padawan: E
+[Mon Nov 23 00:50:04 2015]  say: Padawan: de exilio
+[Mon Nov 23 00:50:11 2015]  say: Padawan: cuando
+[Mon Nov 23 00:50:16 2015]  say: Padawan: vayan a the academy v3
+[Mon Nov 23 00:50:20 2015]  say: Padawan: y busquen la palabra clave
+[Mon Nov 23 00:50:23 2015]  say: Padawan: que esta oculta 
+[Mon Nov 23 00:50:26 2015]  say: Padawan: que dice Virtue
+[Mon Nov 23 00:50:31 2015]  say: Padawan: porque esta en piedra
+[Mon Nov 23 00:50:36 2015]  say: Padawan: deberan ponerla en
+[Mon Nov 23 00:50:37 2015]  say: Padawan: la pagina
+[Mon Nov 23 00:50:41 2015]  say: Padawan: donde esta la E
+[Mon Nov 23 00:50:45 2015]  say: Padawan: y entraran y dira
+[Mon Nov 23 00:50:47 2015]  say: Padawan: mi ubicacion
+[Mon Nov 23 00:50:50 2015]  say: Padawan: pink academi xd
+[Mon Nov 23 00:50:53 2015]  say: padawan: xd
+[Mon Nov 23 00:50:54 2015]  say: Padawan: y ahi van a buscarme
+[Mon Nov 23 00:50:58 2015]  say: Padawan: obiamente
+[Mon Nov 23 00:51:01 2015]  say: Padawan: no le digas
+[Mon Nov 23 00:51:06 2015]  say: Padawan: entonces
+[Mon Nov 23 00:51:07 2015]  say: Padawan: repasando
+[Mon Nov 23 00:51:10 2015]  say: Padawan: deberas decir
+[Mon Nov 23 00:51:16 2015]  say: Padawan: que jose vendra cuando des cubran un misterio oculto
+[Mon Nov 23 00:51:23 2015]  say: Padawan: dentro de jnr
+[Mon Nov 23 00:51:25 2015]  say: Padawan: y diran que cosa
+[Mon Nov 23 00:51:28 2015]  say: Padawan: y tu que se yo xd
+[Mon Nov 23 00:51:30 2015]  say: padawan: xD
+[Mon Nov 23 00:51:32 2015]  say: Padawan: y cuando uno vea el cuadro mio
+[Mon Nov 23 00:51:34 2015]  say: Padawan: abajo dira
+[Mon Nov 23 00:51:35 2015]  say: Padawan: t2 trip
+[Mon Nov 23 00:51:39 2015]  say: Padawan: Exilio 1234
+[Mon Nov 23 00:51:43 2015]  say: Padawan: pondran eso en el markermod
+[Mon Nov 23 00:51:50 2015]  say: Padawan: y 
+[Mon Nov 23 00:51:54 2015]  say: Padawan: vendran aca
+[Mon Nov 23 00:51:56 2015]  say: Padawan: cuando lo descubran
+[Mon Nov 23 00:52:02 2015]  say: Padawan: a todo esto
+[Mon Nov 23 00:52:05 2015]  say: Padawan: van a ir a donde todo comenzo
+[Mon Nov 23 00:52:07 2015]  say: Padawan: the academy v3
+[Mon Nov 23 00:52:11 2015]  say: Padawan: ademas dice jedi enforcer una lapida
+[Mon Nov 23 00:52:16 2015]  say: Padawan: y buscaran la frase en piedra
+[Mon Nov 23 00:52:17 2015]  say: Padawan: virtue
+[Mon Nov 23 00:52:23 2015]  say: Padawan: y la pondran en el boton E
+[Mon Nov 23 00:52:27 2015]  say: Padawan: de la pag
+[Mon Nov 23 00:52:29 2015]  say: Padawan: y dira mi ubicacion xd
+[Mon Nov 23 00:52:32 2015]  say: Padawan: nada mal_
+[Mon Nov 23 00:52:36 2015]  say: padawan: xd
+[Mon Nov 23 00:52:43 2015]  say: padawan: la cabeza de enstain
+[Mon Nov 23 00:52:46 2015]  say: Padawan: xD
+[Mon Nov 23 00:52:47 2015]  say: padawan: xD
+[Mon Nov 23 00:52:49 2015]  say: Padawan: bueon
+[Mon Nov 23 00:52:50 2015]  say: Padawan: y eso
+[Mon Nov 23 00:52:54 2015]  say: padawan: xD
+[Mon Nov 23 00:52:55 2015]  say: Padawan: cuando me busquen
+[Mon Nov 23 00:52:57 2015]  say: Padawan: regresare xd
+[Mon Nov 23 00:52:58 2015]  say: padawan: no hay cucarachas aca?
+[Mon Nov 23 00:53:03 2015]  say: Padawan: xd no
+[Mon Nov 23 00:53:07 2015]  say: Padawan: hay un vidrio
+[Mon Nov 23 00:53:07 2015]  say: padawan: xD
+[Mon Nov 23 00:53:09 2015]  say: Padawan: con rai
+[Mon Nov 23 00:53:16 2015]  say: Padawan: bueno y
+[Mon Nov 23 00:53:20 2015]  say: Padawan: entonces ahi 
+[Mon Nov 23 00:53:24 2015]  say: Padawan: volvere xd
+[Mon Nov 23 00:53:28 2015]  say: Padawan: pero debo
+[Mon Nov 23 00:53:33 2015]  say: Padawan: de terminar de editar el mapa
+[Mon Nov 23 00:53:36 2015]  say: Padawan: decile a iras
+[Mon Nov 23 00:53:40 2015]  say: Padawan: que plo editara el mapa
+[Mon Nov 23 00:53:41 2015]  say: Padawan: xd
+[Mon Nov 23 00:53:43 2015]  say: Padawan: la parte final
+[Mon Nov 23 00:53:47 2015]  say: Padawan: y que le de las fotos para su cuarto
+[Mon Nov 23 00:53:54 2015]  say: padawan: ok
+[Mon Nov 23 00:53:56 2015]  say: Padawan: estara
+[Mon Nov 23 00:53:58 2015]  say: Padawan: al lado de raku
+[Mon Nov 23 00:53:59 2015]  say: padawan: iras estara con raku?
+[Mon Nov 23 00:54:01 2015]  say: Padawan: y el de abajo
+[Mon Nov 23 00:54:03 2015]  say: Padawan: de plo sera perez
+[Mon Nov 23 00:54:07 2015]  say: padawan: xD
+[Mon Nov 23 00:54:10 2015]  say: padawan: ok
+[Mon Nov 23 00:54:13 2015]  say: Padawan: son los primeros C3 en llegar
+[Mon Nov 23 00:54:14 2015]  say: Padawan: xd
+[Mon Nov 23 00:54:15 2015]  say: padawan: pero asta q asciendan
+[Mon Nov 23 00:54:19 2015]  say: Padawan: si
+[Mon Nov 23 00:54:24 2015]  say: Padawan: dales el cuarto
+[Mon Nov 23 00:54:27 2015]  say: Padawan: adelantadamente xd
+[Mon Nov 23 00:54:28 2015]  say: padawan: spooky se esta volviendo un jho
+[Mon Nov 23 00:54:34 2015]  say: Padawan: y volvere
+[Mon Nov 23 00:54:40 2015]  say: Padawan: cuando descubran eso en la actualizacion
+[Mon Nov 23 00:54:41 2015]  say: Padawan: y diran wtf
+[Mon Nov 23 00:54:44 2015]  say: padawan: xD
+[Mon Nov 23 00:54:50 2015]  say: padawan: bueno me tengo q ir
+[Mon Nov 23 00:54:51 2015]  say: Padawan: xd
+[Mon Nov 23 00:54:52 2015]  say: Padawan: ok
+[Mon Nov 23 00:54:54 2015]  say: padawan: chan el sable de revan
+[Mon Nov 23 00:54:54 2015]  say: Padawan: estare en
+[Mon Nov 23 00:54:58 2015]  say: Padawan: pink academy
+[Mon Nov 23 00:55:08 2015]  say: padawan: q no te coman las cucarachas
+[Mon Nov 23 00:55:09 2015]  say: padawan: wwe
+[Mon Nov 23 00:55:10 2015]  say: Padawan: xD
+[Mon Nov 23 00:55:12 2015]  say: Padawan: ok
+[Mon Nov 23 00:55:14 2015]  say: Padawan: te vere ahi
+[Mon Nov 23 00:55:16 2015]  say: Padawan: cualquier cosa
+[Mon Nov 23 00:55:20 2015]  say: padawan: ok
+[Mon Nov 23 00:55:23 2015]  say: padawan: bb
+[Mon Nov 23 00:55:23 2015]  say: Padawan: ah son las 10 xd
+[Mon Nov 23 00:55:27 2015]  say: padawan: xD
+[Mon Nov 23 00:55:27 2015]  say: Padawan: debo irme
+[Mon Nov 23 00:55:31 2015]  say: padawan: xD
+[Mon Nov 23 00:55:33 2015]  say: padawan: entonces adios
+[Mon Nov 23 00:55:34 2015]  say: Padawan: bueno
+[Mon Nov 23 00:55:37 2015]  say: Padawan: bbs
+[Mon Nov 23 00:55:37 2015]  say: padawan: maÒana vas a l coler?
+[Mon Nov 23 00:55:45 2015]  say: padawan: colegiio
+[Mon Nov 23 00:55:48 2015]  say: Padawan: xd tengo la prueba de musica
+[Mon Nov 23 00:55:51 2015]  say: Padawan: despues el jueves
+[Mon Nov 23 00:55:52 2015]  say: padawan: x
+[Mon Nov 23 00:55:55 2015]  say: Padawan: tnego de fisica y historia
+[Mon Nov 23 00:55:59 2015]  say: Padawan: y finalmente el lunes
+[Mon Nov 23 00:56:00 2015]  say: Padawan: de lengua
+[Mon Nov 23 00:56:04 2015]  say: Padawan: xd faltare el
+[Mon Nov 23 00:56:06 2015]  say: padawan: ok
+[Mon Nov 23 00:56:06 2015]  say: Padawan: viernes martes
+[Mon Nov 23 00:56:08 2015]  say: Padawan: miercoles
+[Mon Nov 23 00:56:11 2015]  say: Padawan: xD
+[Mon Nov 23 00:56:13 2015]  say: padawan: xD
+[Mon Nov 23 00:56:14 2015]  say: Padawan: bbs
+[Mon Nov 23 00:56:15 2015]  say: padawan: bb
+[Mon Nov 23 00:56:19 2015]  ClientDisconnect: 0
+[Mon Nov 23 00:56:22 2015]  ClientDisconnect: 1
+[Mon Nov 23 05:31:20 2015]  ClientConnect: 0
+[Mon Nov 23 05:31:20 2015]  mlog:Player dickface, connected. With IP - 98.214.240.178:29070 
+[Mon Nov 23 05:31:39 2015]  ClientBegin: 0
+[Mon Nov 23 05:32:55 2015]  ClientDisconnect: 0
+[Mon Nov 23 15:52:49 2015]  ClientConnect: 0
+[Mon Nov 23 15:52:49 2015]  mlog:Player ^0^7[^3KOTR^7}^0Pluton^7{^3JK^7|^3S, connected. With IP - 87.117.14.2:-24006 
+[Mon Nov 23 15:53:43 2015]  ClientBegin: 0
+[Mon Nov 23 15:53:57 2015]  ClientConnect: 1
+[Mon Nov 23 15:53:57 2015]  mlog:Player KOTR Luk, connected. With IP - 178.120.60.254:-31586 
+[Mon Nov 23 15:54:18 2015]  ClientBegin: 1
+[Mon Nov 23 15:55:28 2015]  say: Pluton: Tyi gde suka?
+[Mon Nov 23 15:55:53 2015]  say: Pluton: AAAAAAAAA YA TEBYA NE VIZHU
+[Mon Nov 23 15:55:57 2015]  say: ƒ«»Õ¿: ÎÓÎ
+[Mon Nov 23 15:56:14 2015]  Kill: 0 0 39: Pluton killed Pluton by MOD_SUICIDE
+[Mon Nov 23 15:56:20 2015]  Item: 1 weapon_repeater
+[Mon Nov 23 15:56:33 2015]  say: Pluton: YA TEBYA NE VIZHU
+[Mon Nov 23 15:56:56 2015]  say: Pluton: /amslay
+[Mon Nov 23 15:56:58 2015]  say: Pluton: /mslay
+[Mon Nov 23 15:57:03 2015]  say: ƒ«»Õ¿: ÕËÏ‡„Û
+[Mon Nov 23 15:57:06 2015]  say: ƒ«»Õ¿: ¡ÎË‡
+[Mon Nov 23 15:57:12 2015]  say: Pluton: ﬂ ÚÂ·ˇ ÌÂ ‚ËÊÛ
+[Mon Nov 23 15:57:39 2015]  say: Pluton: œÂÂÁ‡È‰Ë
+[Mon Nov 23 15:58:02 2015]  Kill: 0 1 27: Pluton killed ƒ«»Õ¿ by MOD_DET_PACK_SPLASH
+[Mon Nov 23 15:58:17 2015]  say: ƒ«»Õ¿: ÎÓÎ
+[Mon Nov 23 15:58:17 2015]  Kill: 0 1 27: Pluton killed ƒ«»Õ¿ by MOD_DET_PACK_SPLASH
+[Mon Nov 23 15:58:20 2015]  say: ƒ«»Õ¿: ¡ÛÍÓ‚ÍË
+[Mon Nov 23 15:58:22 2015]  say: Pluton: ﬂ ÚÂ·ˇ ÌÂ ‚ËÊÛ
+[Mon Nov 23 15:58:26 2015]  say: ƒ«»Õ¿: œÓı00)
+[Mon Nov 23 15:59:09 2015]  say: Pluton: ” ÏÂÌˇ ‰‡ÊÂ ÌËÍ Ú‚ÓÈ ÌÂ ÔÓÍ‡Á‡Ì ÔÂÂÁ‡È‰Ë
+[Mon Nov 23 15:59:25 2015]  ClientDisconnect: 1
+[Mon Nov 23 15:59:36 2015]  ClientConnect: 1
+[Mon Nov 23 15:59:36 2015]  mlog:Player ƒ«»Õ¿, connected. With IP - 178.120.60.254:-31586 
+[Mon Nov 23 15:59:46 2015]  ClientBegin: 1
+[Mon Nov 23 15:59:53 2015]  say: ƒ«»Õ¿: ÿŒ
+[Mon Nov 23 15:59:53 2015]  say: Pluton: ¬Œ “≈œ≈–‹ ¬»∆”
+[Mon Nov 23 16:00:01 2015]  Kill: 0 1 29: Pluton killed ƒ«»Õ¿ by MOD_CONC
+[Mon Nov 23 16:00:21 2015]  say: Pluton: √Ó ·‡ËÍ‡‰˚ ÒÚÓËÚ¸
+[Mon Nov 23 16:00:53 2015]  say: ƒ«»Õ¿: —” ¿ Õ” Õ»Ã¿√”
+[Mon Nov 23 16:01:28 2015]  say: ƒ«»Õ¿: ÔÓ„Ó‰Ë
+[Mon Nov 23 16:01:42 2015]  say: ƒ«»Õ¿: ÔÔ‡‡Ë‡ÔÚÂÌÔË
+[Mon Nov 23 16:01:56 2015]  say: ƒ«»Õ¿: ˇ ÔÂÂÁ‡Èˆ‰Û
+[Mon Nov 23 16:01:58 2015]  ClientDisconnect: 1
+[Mon Nov 23 16:03:03 2015]  ClientConnect: 1
+[Mon Nov 23 16:03:03 2015]  mlog:Player KOTR Luk, connected. With IP - 178.120.60.254:-31586 
+[Mon Nov 23 16:03:21 2015]  ClientBegin: 1
+[Mon Nov 23 16:04:26 2015]  say: Pluton: /mplace imperial/crate
+[Mon Nov 23 16:04:34 2015]  say: ƒ«»Õ¿: nit
+[Mon Nov 23 16:07:47 2015]  say: ƒ«»Õ¿: lol
+[Mon Nov 23 16:07:50 2015]  say: Pluton: ?
+[Mon Nov 23 16:07:53 2015]  say: ƒ«»Õ¿: norm tak viglyadit
+[Mon Nov 23 16:08:21 2015]  say: ƒ«»Õ¿: go
+[Mon Nov 23 16:08:27 2015]  say: Pluton: Nit stoy
+[Mon Nov 23 16:11:37 2015]  say: Pluton: Tipo minnoe pole
+[Mon Nov 23 16:15:07 2015]  say: ƒ«»Õ¿: Tak
+[Mon Nov 23 16:15:11 2015]  say: ƒ«»Õ¿: Gotov?
+[Mon Nov 23 16:15:14 2015]  say: Pluton: +
+[Mon Nov 23 16:15:17 2015]  say: ƒ«»Õ¿: 3
+[Mon Nov 23 16:15:20 2015]  say: ƒ«»Õ¿: 2
+[Mon Nov 23 16:15:21 2015]  say: ƒ«»Õ¿: 1
+[Mon Nov 23 16:15:23 2015]  say: ƒ«»Õ¿: GOGOG
+[Mon Nov 23 16:16:25 2015]  say: Pluton: STOY
+[Mon Nov 23 16:16:27 2015]  say: Pluton: Zabil
+[Mon Nov 23 16:16:36 2015]  say: ƒ«»Õ¿: xDDD
+[Mon Nov 23 16:16:50 2015]  say: ƒ«»Õ¿: Mne vihodit nado =(
+[Mon Nov 23 16:16:56 2015]  say: Pluton: BLYAT
+[Mon Nov 23 16:16:59 2015]  say: ƒ«»Õ¿: Go zakonshim bistree
+[Mon Nov 23 16:16:59 2015]  say: Pluton: SUKA
+[Mon Nov 23 16:17:36 2015]  ClientDisconnect: 1
+[Mon Nov 23 16:17:42 2015]  say: Pluton: XDD GOD ZABIL VIKLUCHIT
+[Mon Nov 23 16:35:45 2015]  ClientDisconnect: 0
+[Mon Nov 23 20:15:13 2015]  ClientConnect: 0
+[Mon Nov 23 20:15:13 2015]  mlog:Player padawan, connected. With IP - 190.138.233.16:29071 
+[Mon Nov 23 20:15:21 2015]  ClientDisconnect: 0
+[Mon Nov 23 20:16:13 2015]  ClientConnect: 0
+[Mon Nov 23 20:16:13 2015]  mlog:Player ^3(J.N.R)^7Carlos(J.G.L), connected. With IP - 190.138.233.16:29071 
+[Mon Nov 23 20:16:21 2015]  ClientDisconnect: 0
+[Mon Nov 23 20:21:17 2015]  ClientConnect: 0
+[Mon Nov 23 20:21:17 2015]  mlog:Player padawan, connected. With IP - 190.138.233.16:29071 
+[Mon Nov 23 20:21:25 2015]  ClientDisconnect: 0
+[Mon Nov 23 20:22:50 2015]  ClientConnect: 0
+[Mon Nov 23 20:22:50 2015]  mlog:Player ^3(J.N.R)^7Carlos(J.G.L), connected. With IP - 190.138.233.16:29071 
+[Mon Nov 23 20:22:58 2015]  ClientDisconnect: 0
+[Mon Nov 23 20:24:07 2015]  ClientConnect: 0
+[Mon Nov 23 20:24:07 2015]  mlog:Player ^3(J.N.R)^7Carlos(J.G.L), connected. With IP - 190.138.233.16:29071 
+[Mon Nov 23 20:24:16 2015]  ClientDisconnect: 0
+[Mon Nov 23 20:39:10 2015]  ClientConnect: 0
+[Mon Nov 23 20:39:10 2015]  mlog:Player Padawan, connected. With IP - 190.138.233.16:29070 
+[Mon Nov 23 20:40:05 2015]  ClientBegin: 0
+[Mon Nov 23 20:40:14 2015]  print "^3(J.N.R)^7Carlos(J.G.L)^7 @@@PLRENAME Padawan
+"[Mon Nov 23 21:11:03 2015]  Kill: 1022 0 6: <world> killed Padawan by MOD_BLASTER
+[Mon Nov 23 21:11:10 2015]  say: Padawan: My origin is: (2872 -9336 2339) - You can teleport here with /mtelelast
+
+[Mon Nov 23 21:15:58 2015]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Mon Nov 23 21:17:02 2015]  Kill: 1022 0 6: <world> killed Padawan by MOD_BLASTER
+[Mon Nov 23 21:28:15 2015]  ClientDisconnect: 0
+[Mon Nov 23 21:28:16 2015]  ClientDisconnect: 0
+[Mon Nov 23 21:28:16 2015]  ClientConnect: 0
+[Mon Nov 23 21:28:16 2015]  mlog:Player Padawan, connected. With IP - 190.138.233.16:29070 
+[Mon Nov 23 21:28:32 2015]  ClientBegin: 0
+[Mon Nov 23 21:29:52 2015]  Kill: 1022 0 6: <world> killed Padawan by MOD_BLASTER
+[Mon Nov 23 21:42:29 2015]  ClientDisconnect: 0
+[Mon Nov 23 22:40:18 2015]  ClientConnect: 0
+[Mon Nov 23 22:40:18 2015]  mlog:Player ^0–‡rk^2^1Qµ‡kË, connected. With IP - 192.168.1.2:29071 
+[Mon Nov 23 22:40:52 2015]  ClientBegin: 0
+[Mon Nov 23 22:42:49 2015]  Kill: 1022 0 0: <world> killed ^0–‡rk^2^1Qµ‡kË by MOD_UNKNOWN
+[Mon Nov 23 22:44:05 2015]  ShutdownGame:
+[Mon Nov 23 22:44:05 2015]  ------------------------------------------------------------

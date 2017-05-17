@@ -1,0 +1,704 @@
+[Fri Jan 29 23:24:33 2016]  ------------------------------------------------------------
+[Fri Jan 29 23:24:33 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Jan 30 18:09:15 2016]  ClientConnect: 0
+[Sat Jan 30 18:09:15 2016]  mlog:Player ^0ENSER^2U^0NE, connected. With IP - 87.91.194.86:29070 
+[Sat Jan 30 18:09:35 2016]  ClientBegin: 0
+[Sat Jan 30 18:10:08 2016]  print "^0ENSER^2U^0NE^7 @@@PLRENAME ^1RAGHNARD
+"[Sat Jan 30 18:13:34 2016]  ClientDisconnect: 0
+[Sat Jan 30 18:13:39 2016]  ClientConnect: 0
+[Sat Jan 30 18:13:39 2016]  mlog:Player ^1RAGHNARD, connected. With IP - 87.91.194.86:29070 
+[Sat Jan 30 18:13:58 2016]  ClientBegin: 0
+[Sat Jan 30 18:14:43 2016]  ClientDisconnect: 0
+[Sat Jan 30 18:14:43 2016]  ClientConnect: 0
+[Sat Jan 30 18:14:43 2016]  mlog:Player ^1RAGHNARD, connected. With IP - 87.91.194.86:29070 
+[Sat Jan 30 18:15:02 2016]  ClientBegin: 0
+[Sat Jan 30 18:18:42 2016]  say: ^1RAGHNARD: ^0prot^1e^0ct lo^1s^0e
+[Sat Jan 30 18:18:59 2016]  say: ^1RAGHNARD: ^1Bomb ^3p^1lacement !
+[Sat Jan 30 18:19:00 2016]  say: ^1RAGHNARD: ^1Bomb ^3p^1laced !
+[Sat Jan 30 18:19:00 2016]  say: ^1RAGHNARD: ^75
+[Sat Jan 30 18:19:00 2016]  say: ^1RAGHNARD: ^54
+[Sat Jan 30 18:19:00 2016]  say: ^1RAGHNARD: ^43
+[Sat Jan 30 18:19:00 2016]  say: ^1RAGHNARD: ^02
+[Sat Jan 30 18:19:00 2016]  say: ^1RAGHNARD: ^61
+[Sat Jan 30 18:19:00 2016]  say: ^1RAGHNARD: ^1STARTED !
+[Sat Jan 30 18:19:01 2016]  say: ^1RAGHNARD: ^7ßy : ^0WARW^2Ø^0LF
+[Sat Jan 30 18:20:56 2016]  ClientConnect: 1
+[Sat Jan 30 18:20:56 2016]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.243.214:29070 
+[Sat Jan 30 18:21:32 2016]  ClientBegin: 1
+[Sat Jan 30 18:22:26 2016]  say: ^1RAGHNARD: hi
+[Sat Jan 30 18:22:42 2016]  say: ^7»^0Exo^1Ð^0us^7«: oh god, element v2? really?
+[Sat Jan 30 18:22:44 2016]  say: ^7»^0Exo^1Ð^0us^7«: augh.
+[Sat Jan 30 18:23:21 2016]  say: ^1RAGHNARD: ^0prot^1e^0ct lo^1s^0e
+[Sat Jan 30 18:25:00 2016]  Kill: 1 0 0: ^7»^0Exo^1Ð^0us^7« killed ^1RAGHNARD by MOD_UNKNOWN
+[Sat Jan 30 18:28:03 2016]  say: ^1RAGHNARD: ^0d^4a^5n^7c^5e^4-^0 ^2v_^31^0 by ^0WARW^2Ø^0LF
+[Sat Jan 30 18:28:14 2016]  say: ^7»^0Exo^1Ð^0us^7«: oh god, really?
+[Sat Jan 30 18:28:37 2016]  Kill: 1 0 0: ^7»^0Exo^1Ð^0us^7« killed ^1RAGHNARD by MOD_UNKNOWN
+[Sat Jan 30 18:30:25 2016]  say: ^1RAGHNARD: wow
+[Sat Jan 30 18:30:31 2016]  say: ^7»^0Exo^1Ð^0us^7«: that's oblivion
+[Sat Jan 30 18:30:34 2016]  say: ^7»^0Exo^1Ð^0us^7«: :P
+[Sat Jan 30 18:30:51 2016]  say: ^1RAGHNARD: lol I'm so far
+[Sat Jan 30 18:30:52 2016]  say: ^7»^0Exo^1Ð^0us^7«: camera fuck-up glitch.
+[Sat Jan 30 18:30:56 2016]  say: ^7»^0Exo^1Ð^0us^7«: loves it
+[Sat Jan 30 18:31:13 2016]  Kill: 0 0 39: ^1RAGHNARD killed ^1RAGHNARD by MOD_SUICIDE
+[Sat Jan 30 18:32:31 2016]  Kill: 0 0 36: ^1RAGHNARD killed ^1RAGHNARD by MOD_CRUSH
+[Sat Jan 30 18:32:52 2016]  Kill: 1022 0 0: <world> killed ^1RAGHNARD by MOD_UNKNOWN
+[Sat Jan 30 18:33:34 2016]  Kill: 1 0 36: ^7»^0Exo^1Ð^0us^7« killed ^1RAGHNARD by MOD_CRUSH
+[Sat Jan 30 18:33:43 2016]  say: ^7»^0Exo^1Ð^0us^7«: spider-web glitch :P
+[Sat Jan 30 18:33:50 2016]  Kill: 1 0 36: ^7»^0Exo^1Ð^0us^7« killed ^1RAGHNARD by MOD_CRUSH
+[Sat Jan 30 18:34:01 2016]  say: ^7»^0Exo^1Ð^0us^7«: try to shoot me.
+[Sat Jan 30 18:34:08 2016]  say: ^7»^0Exo^1Ð^0us^7«: with a gun.
+[Sat Jan 30 18:34:23 2016]  say: ^7»^0Exo^1Ð^0us^7«: do /give all
+[Sat Jan 30 18:34:23 2016]  say: ^1RAGHNARD: I can't for the moment
+[Sat Jan 30 18:34:56 2016]  say: ^7»^0Exo^1Ð^0us^7«: weapon switch :P
+[Sat Jan 30 18:35:18 2016]  say: ^1RAGHNARD: mmh yep I remake my binds xD
+[Sat Jan 30 18:36:03 2016]  say: ^7»^0Exo^1Ð^0us^7«: try other weapons to see how solid it is
+[Sat Jan 30 18:36:52 2016]  say: ^1RAGHNARD: nice ;)
+[Sat Jan 30 18:37:07 2016]  say: ^7»^0Exo^1Ð^0us^7«: check this out
+[Sat Jan 30 18:37:24 2016]  Kill: 1022 0 36: <world> killed ^1RAGHNARD by MOD_CRUSH
+[Sat Jan 30 18:37:31 2016]  say: ^7»^0Exo^1Ð^0us^7«: dat range.
+[Sat Jan 30 18:37:33 2016]  say: ^1RAGHNARD: Me toot x)
+[Sat Jan 30 18:37:47 2016]  say: ^1RAGHNARD: Yes it's awesome
+[Sat Jan 30 18:38:17 2016]  say: ^7»^0Exo^1Ð^0us^7«: check it.
+[Sat Jan 30 18:38:23 2016]  say: ^7»^0Exo^1Ð^0us^7«: do /notarget
+[Sat Jan 30 18:38:34 2016]  say: ^1RAGHNARD: done
+[Sat Jan 30 18:38:38 2016]  say: ^7»^0Exo^1Ð^0us^7«: desann has 500 hp
+[Sat Jan 30 18:38:45 2016]  say: ^7»^0Exo^1Ð^0us^7«: a regular gun doesnt do shit, right?
+[Sat Jan 30 18:38:52 2016]  say: ^1RAGHNARD: yes
+[Sat Jan 30 18:38:55 2016]  say: ^7»^0Exo^1Ð^0us^7«: watch.
+[Sat Jan 30 18:39:00 2016]  say: ^7»^0Exo^1Ð^0us^7«: same gun.
+[Sat Jan 30 18:39:19 2016]  say: ^1RAGHNARD: oO augmented  rate ?
+[Sat Jan 30 18:39:29 2016]  say: ^7»^0Exo^1Ð^0us^7«: basically, but more like a makermod trick
+[Sat Jan 30 18:39:40 2016]  say: ^1RAGHNARD: okay
+[Sat Jan 30 18:39:40 2016]  say: ^7»^0Exo^1Ð^0us^7«: or kyle_boss
+[Sat Jan 30 18:39:47 2016]  say: ^7»^0Exo^1Ð^0us^7«: 200 hp
+[Sat Jan 30 18:39:55 2016]  say: ^7»^0Exo^1Ð^0us^7«: no charging
+[Sat Jan 30 18:39:56 2016]  say: ^7»^0Exo^1Ð^0us^7«: lol
+[Sat Jan 30 18:39:57 2016]  Kill: 1022 0 0: <world> killed ^1RAGHNARD by MOD_UNKNOWN
+[Sat Jan 30 18:40:06 2016]  say: ^1RAGHNARD: Yep x)
+[Sat Jan 30 18:40:23 2016]  say: ^7»^0Exo^1Ð^0us^7«: ever get tired of ppl spawning rancors?
+[Sat Jan 30 18:40:41 2016]  say: ^7»^0Exo^1Ð^0us^7«: get tired of 'em easily?
+[Sat Jan 30 18:41:02 2016]  say: ^7»^0Exo^1Ð^0us^7«: kk, this trick does the job fast.
+[Sat Jan 30 18:41:28 2016]  say: ^7»^0Exo^1Ð^0us^7«: why it no work
+[Sat Jan 30 18:41:29 2016]  say: ^7»^0Exo^1Ð^0us^7«: wtf.
+[Sat Jan 30 18:41:33 2016]  say: ^7»^0Exo^1Ð^0us^7«: lemme rebind it
+[Sat Jan 30 18:41:41 2016]  say: ^1RAGHNARD: okay
+[Sat Jan 30 18:41:50 2016]  say: ^7»^0Exo^1Ð^0us^7«: kk.
+[Sat Jan 30 18:42:02 2016]  say: ^7»^0Exo^1Ð^0us^7«: killed it with 2 catwalks
+[Sat Jan 30 18:42:25 2016]  say: ^1RAGHNARD: fast
+[Sat Jan 30 18:42:52 2016]  say: ^7»^0Exo^1Ð^0us^7«: lel.
+[Sat Jan 30 18:42:57 2016]  say: ^7»^0Exo^1Ð^0us^7«: but when youre on it, no dmg
+[Sat Jan 30 18:43:25 2016]  say: ^1RAGHNARD: okay
+[Sat Jan 30 18:43:36 2016]  say: ^7»^0Exo^1Ð^0us^7«: love this one.
+[Sat Jan 30 18:43:50 2016]  say: ^7»^0Exo^1Ð^0us^7«: house in a pocket.
+[Sat Jan 30 18:44:10 2016]  say: ^1RAGHNARD: nice 
+[Sat Jan 30 18:44:12 2016]  say: ^7»^0Exo^1Ð^0us^7«: it's all breakable now.
+[Sat Jan 30 18:45:08 2016]  say: ^1RAGHNARD: I'll check my old scripts x)
+[Sat Jan 30 18:45:08 2016]  say: ^7»^0Exo^1Ð^0us^7«: personal fave here.
+[Sat Jan 30 18:45:35 2016]  say: ^7»^0Exo^1Ð^0us^7«: pew.
+[Sat Jan 30 18:45:52 2016]  say: ^1RAGHNARD: awesome :o
+[Sat Jan 30 18:46:32 2016]  say: ^7»^0Exo^1Ð^0us^7«: or this one
+[Sat Jan 30 18:46:34 2016]  say: ^7»^0Exo^1Ð^0us^7«: hilarious
+[Sat Jan 30 18:46:43 2016]  say: ^7»^0Exo^1Ð^0us^7«: not noclipping
+[Sat Jan 30 18:46:45 2016]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Sat Jan 30 18:46:59 2016]  say: ^7»^0Exo^1Ð^0us^7«: and can go through walls
+[Sat Jan 30 18:47:00 2016]  say: ^7»^0Exo^1Ð^0us^7«: watch.
+[Sat Jan 30 18:47:21 2016]  say: ^7»^0Exo^1Ð^0us^7«: and if i do this a certain way
+[Sat Jan 30 18:47:26 2016]  say: ^7»^0Exo^1Ð^0us^7«: it'll cause server wide havok
+[Sat Jan 30 18:47:28 2016]  say: ^7»^0Exo^1Ð^0us^7«: observe
+[Sat Jan 30 18:47:47 2016]  say: ^7»^0Exo^1Ð^0us^7«: lags xD
+[Sat Jan 30 18:48:03 2016]  say: ^1RAGHNARD: Yes big lag for me xD
+[Sat Jan 30 18:48:10 2016]  say: ^7»^0Exo^1Ð^0us^7«: the saber's doing it too
+[Sat Jan 30 18:48:23 2016]  say: ^1RAGHNARD: That's strange
+[Sat Jan 30 18:48:24 2016]  say: ^7»^0Exo^1Ð^0us^7«: it acts like a ddos
+[Sat Jan 30 18:48:58 2016]  say: ^7»^0Exo^1Ð^0us^7«: if i had admin here, i'd be able to show off so many more hilarious bugs.
+[Sat Jan 30 18:49:24 2016]  say: ^7»^0Exo^1Ð^0us^7«: how long have you been playing in general?
+[Sat Jan 30 18:49:40 2016]  say: ^1RAGHNARD: You had a server long time ago right ?
+[Sat Jan 30 18:49:47 2016]  say: ^7»^0Exo^1Ð^0us^7«: nej, i helped run one
+[Sat Jan 30 18:49:49 2016]  say: ^7»^0Exo^1Ð^0us^7«: under this name:
+[Sat Jan 30 18:49:52 2016]  print "^7»^0Exo^1Ð^0us^7«^7 @@@PLRENAME ^3§^1MÄstër^5miñd!^3§
+"[Sat Jan 30 18:49:53 2016]  say: ^3§^1MÄstër^5miñd!^3§: ;D
+[Sat Jan 30 18:50:09 2016]  say: ^3§^1MÄstër^5miñd!^3§: ^5*^3Eats a ^2Potato Chip^5*
+[Sat Jan 30 18:50:29 2016]  say: ^1RAGHNARD: Okay I think I was in this one the 4 or 5 past years
+[Sat Jan 30 18:50:29 2016]  print "^3§^1MÄstër^5miñd!^3§^7 @@@PLRENAME ^7»^0Exo^1Ð^0us^7«
+"[Sat Jan 30 18:50:37 2016]  say: ^7»^0Exo^1Ð^0us^7«: i've been playing for 6
+[Sat Jan 30 18:50:56 2016]  say: ^7»^0Exo^1Ð^0us^7«: i helped co-lead joe's makermod
+[Sat Jan 30 18:51:05 2016]  say: ^7»^0Exo^1Ð^0us^7«: along with spior, scooper, didz, and joe himself.
+[Sat Jan 30 18:51:39 2016]  say: ^1RAGHNARD: aprroximativly me too be I had long period without PC
+[Sat Jan 30 18:52:11 2016]  Kill: 1022 0 36: <world> killed ^1RAGHNARD by MOD_CRUSH
+[Sat Jan 30 18:52:21 2016]  say: ^1RAGHNARD: it's the first time since 4 years I play on it again ;)
+[Sat Jan 30 18:52:25 2016]  say: ^7»^0Exo^1Ð^0us^7«: Lol.
+[Sat Jan 30 18:52:32 2016]  say: ^7»^0Exo^1Ð^0us^7«: venom's makermod is trying to come back
+[Sat Jan 30 18:52:38 2016]  say: ^7»^0Exo^1Ð^0us^7«: so perhaps the community will return
+[Sat Jan 30 18:52:44 2016]  say: ^7»^0Exo^1Ð^0us^7«: specially when we get makermod 2.5 going.
+[Sat Jan 30 18:53:03 2016]  say: ^7»^0Exo^1Ð^0us^7«: i've got 3 ppl working on the code right now, and i'm the idea lead
+[Sat Jan 30 18:53:11 2016]  say: ^7»^0Exo^1Ð^0us^7«: i'm giving them ideas to put in, they code it
+[Sat Jan 30 18:53:21 2016]  say: ^7»^0Exo^1Ð^0us^7«: like a buddha mode
+[Sat Jan 30 18:53:25 2016]  say: ^1RAGHNARD: Oh okay 
+[Sat Jan 30 18:53:30 2016]  say: ^7»^0Exo^1Ð^0us^7«: building without worrying about being killed
+[Sat Jan 30 18:53:42 2016]  say: ^1RAGHNARD: I have the 1.3 ;/
+[Sat Jan 30 18:53:43 2016]  say: ^7»^0Exo^1Ð^0us^7«: build boxes, or areas to build in without interruption
+[Sat Jan 30 18:53:44 2016]  say: ^7»^0Exo^1Ð^0us^7«: etc.
+[Sat Jan 30 18:53:49 2016]  say: ^7»^0Exo^1Ð^0us^7«: makermod 2 was never finished
+[Sat Jan 30 18:54:01 2016]  say: ^7»^0Exo^1Ð^0us^7«: but we're using part of it's code and proxymod to better the system.
+[Sat Jan 30 18:54:05 2016]  say: ^1RAGHNARD: okay that's why x)
+[Sat Jan 30 18:54:21 2016]  say: ^7»^0Exo^1Ð^0us^7«: proxymod was made by spior and he's leading the current development
+[Sat Jan 30 18:54:27 2016]  say: ^7»^0Exo^1Ð^0us^7«: so we may just have a chance to rule once again
+[Sat Jan 30 18:54:30 2016]  say: ^7»^0Exo^1Ð^0us^7«: over that damned lugormod
+[Sat Jan 30 18:54:52 2016]  say: ^1RAGHNARD: xD Yes I prefer makermod
+[Sat Jan 30 18:55:06 2016]  say: ^7»^0Exo^1Ð^0us^7«: lugormod is just to hang around, talk about shit, then get bored
+[Sat Jan 30 18:55:14 2016]  say: ^7»^0Exo^1Ð^0us^7«: unless you're an admin, then something's worth it out of there
+[Sat Jan 30 18:55:17 2016]  say: ^7»^0Exo^1Ð^0us^7«: but otherwise fuck that.
+[Sat Jan 30 18:55:32 2016]  say: ^1RAGHNARD: sorry I type so slowly English isn't my mother tongue
+[Sat Jan 30 18:55:38 2016]  say: ^7»^0Exo^1Ð^0us^7«: i figured.
+[Sat Jan 30 18:56:04 2016]  say: ^1RAGHNARD: I think so because of many of my mistakes xD
+[Sat Jan 30 18:56:19 2016]  say: ^7»^0Exo^1Ð^0us^7«: i don't care, you're 80 percent better than most that come in these days.
+[Sat Jan 30 18:56:23 2016]  say: ^7»^0Exo^1Ð^0us^7«: ffs.
+[Sat Jan 30 18:56:50 2016]  say: ^1RAGHNARD: why the other don't stay a minute ?
+[Sat Jan 30 18:57:04 2016]  say: ^7»^0Exo^1Ð^0us^7«: cause they're more into the newer games, or the community is too dead
+[Sat Jan 30 18:57:16 2016]  say: ^7»^0Exo^1Ð^0us^7«: or they're just arrogant, come in to fight, get blown up by superpowers, and rq
+[Sat Jan 30 18:57:31 2016]  say: ^7»^0Exo^1Ð^0us^7«: 'cause unlike our generation, they don't want to know that they can
+[Sat Jan 30 18:57:34 2016]  say: ^7»^0Exo^1Ð^0us^7«: make powers too
+[Sat Jan 30 18:57:39 2016]  say: ^1RAGHNARD: okay they are not really fairplay
+[Sat Jan 30 18:57:42 2016]  say: ^7»^0Exo^1Ð^0us^7«: yeah
+[Sat Jan 30 18:57:49 2016]  say: ^7»^0Exo^1Ð^0us^7«: cause all the noobs i've seen come in
+[Sat Jan 30 18:57:51 2016]  say: ^7»^0Exo^1Ð^0us^7«: swing a saber
+[Sat Jan 30 18:57:56 2016]  say: ^7»^0Exo^1Ð^0us^7«: call us veterans noobs
+[Sat Jan 30 18:58:02 2016]  say: ^7»^0Exo^1Ð^0us^7«: and leave when we start lightning them
+[Sat Jan 30 18:58:03 2016]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Sat Jan 30 18:58:26 2016]  say: ^1RAGHNARD: xD you show them how to rule ;)
+[Sat Jan 30 18:58:33 2016]  say: ^7»^0Exo^1Ð^0us^7«: specially with this one
+[Sat Jan 30 18:58:54 2016]  say: ^1RAGHNARD: this one is painful x)
+[Sat Jan 30 18:59:31 2016]  say: ^7»^0Exo^1Ð^0us^7«: you may also know me from this script, which i released publicly
+[Sat Jan 30 18:59:33 2016]  say: ^7»^0Exo^1Ð^0us^7«: ^0Black^1dragon^3 ^7Beginning ^3script by ^1THE ^7»^0Exo^1Ð^0us^7«^3!!
+[Sat Jan 30 19:00:04 2016]  say: ^1RAGHNARD: I had this one before reinstalling the game
+[Sat Jan 30 19:00:21 2016]  Kill: 1022 1 3: <world> killed ^7»^0Exo^1Ð^0us^7« by MOD_SABER
+[Sat Jan 30 19:00:24 2016]  say: ^7»^0Exo^1Ð^0us^7«: LOL
+[Sat Jan 30 19:00:42 2016]  Kill: 1 1 39: ^7»^0Exo^1Ð^0us^7« killed ^7»^0Exo^1Ð^0us^7« by MOD_SUICIDE
+[Sat Jan 30 19:01:02 2016]  say: ^7»^0Exo^1Ð^0us^7«: heh, loved this one back then.
+[Sat Jan 30 19:01:11 2016]  say: ^1RAGHNARD: my old scripts are dead xD
+[Sat Jan 30 19:01:32 2016]  Kill: 1 0 36: ^7»^0Exo^1Ð^0us^7« killed ^1RAGHNARD by MOD_CRUSH
+[Sat Jan 30 19:02:52 2016]  say: ^1RAGHNARD: ^1^^0Sharingan-Script by ^0Revan and ^1^^0 Madara Uchiha
+[Sat Jan 30 19:02:55 2016]  say: ^7»^0Exo^1Ð^0us^7«: oh god
+[Sat Jan 30 19:02:57 2016]  say: ^7»^0Exo^1Ð^0us^7«: you get that out of here
+[Sat Jan 30 19:03:00 2016]  say: ^7»^0Exo^1Ð^0us^7«: naruto script X_X
+[Sat Jan 30 19:03:01 2016]  Kill: 1 1 36: ^7»^0Exo^1Ð^0us^7« killed ^7»^0Exo^1Ð^0us^7« by MOD_CRUSH
+[Sat Jan 30 19:03:07 2016]  say: ^1RAGHNARD: very old xD
+[Sat Jan 30 19:03:13 2016]  say: ^7»^0Exo^1Ð^0us^7«: I killed myself to get away from it x_x
+[Sat Jan 30 19:03:31 2016]  say: ^7»^0Exo^1Ð^0us^7«: do you know the immortality glitch?
+[Sat Jan 30 19:03:36 2016]  say: ^1RAGHNARD: nop
+[Sat Jan 30 19:03:43 2016]  say: ^7»^0Exo^1Ð^0us^7«: do /give armor -999999999999
+[Sat Jan 30 19:04:02 2016]  say: ^7»^0Exo^1Ð^0us^7«: now jump on that cw
+[Sat Jan 30 19:04:04 2016]  say: ^7»^0Exo^1Ð^0us^7«: there
+[Sat Jan 30 19:04:06 2016]  say: ^7»^0Exo^1Ð^0us^7«: your hp
+[Sat Jan 30 19:04:30 2016]  say: ^7»^0Exo^1Ð^0us^7«: neat, huh?
+[Sat Jan 30 19:04:40 2016]  say: ^1RAGHNARD: I'd a lag
+[Sat Jan 30 19:04:46 2016]  say: ^7»^0Exo^1Ð^0us^7«: to do it, spawn an object, make it mtouchable, then mkillsw
+[Sat Jan 30 19:04:51 2016]  say: ^1RAGHNARD: I have 999 HP
+[Sat Jan 30 19:04:59 2016]  say: ^7»^0Exo^1Ð^0us^7«: then when you touch, you get 99999 hp
+[Sat Jan 30 19:05:04 2016]  say: ^7»^0Exo^1Ð^0us^7«: the rest of it doesn't show
+[Sat Jan 30 19:05:16 2016]  say: ^1RAGHNARD: wow that a lot of health ;)
+[Sat Jan 30 19:05:17 2016]  say: ^7»^0Exo^1Ð^0us^7«: and you're remarkably difficult to kill
+[Sat Jan 30 19:05:26 2016]  say: ^7»^0Exo^1Ð^0us^7«: it takes a script with the power of a nuke to kill you
+[Sat Jan 30 19:05:28 2016]  say: ^7»^0Exo^1Ð^0us^7«: observe:
+[Sat Jan 30 19:05:37 2016]  say: ^7»^0Exo^1Ð^0us^7«: see?
+[Sat Jan 30 19:05:39 2016]  say: ^7»^0Exo^1Ð^0us^7«: nothing
+[Sat Jan 30 19:05:41 2016]  say: ^1RAGHNARD: yes
+[Sat Jan 30 19:06:00 2016]  say: ^7»^0Exo^1Ð^0us^7«: its like /god, but much more excusable tna less nooby
+[Sat Jan 30 19:06:01 2016]  say: ^1RAGHNARD: but I can't move x)
+[Sat Jan 30 19:06:06 2016]  say: ^7»^0Exo^1Ð^0us^7«: stay still
+[Sat Jan 30 19:06:18 2016]  say: ^7»^0Exo^1Ð^0us^7«: fixed?
+[Sat Jan 30 19:06:20 2016]  say: ^1RAGHNARD: thx
+[Sat Jan 30 19:06:22 2016]  say: ^7»^0Exo^1Ð^0us^7«: mhm
+[Sat Jan 30 19:06:23 2016]  say: ^7»^0Exo^1Ð^0us^7«: lol
+[Sat Jan 30 19:06:24 2016]  say: ^1RAGHNARD: yes
+[Sat Jan 30 19:06:41 2016]  say: ^1RAGHNARD: that's strange
+[Sat Jan 30 19:06:48 2016]  say: ^7»^0Exo^1Ð^0us^7«: the camera thing? ik
+[Sat Jan 30 19:06:51 2016]  say: ^7»^0Exo^1Ð^0us^7«: it's very odd
+[Sat Jan 30 19:06:52 2016]  say: ^1RAGHNARD: yep
+[Sat Jan 30 19:06:58 2016]  say: ^7»^0Exo^1Ð^0us^7«: but it happens when you get hit by a LOT of dmg
+[Sat Jan 30 19:07:01 2016]  say: ^7»^0Exo^1Ð^0us^7«: you're supposed to be dead
+[Sat Jan 30 19:07:03 2016]  say: ^7»^0Exo^1Ð^0us^7«: but you arent xD
+[Sat Jan 30 19:07:11 2016]  say: ^7»^0Exo^1Ð^0us^7«: i have only a few abilities that can kill you in this form
+[Sat Jan 30 19:07:16 2016]  say: ^7»^0Exo^1Ð^0us^7«: like this one
+[Sat Jan 30 19:07:19 2016]  Kill: 1 0 0: ^7»^0Exo^1Ð^0us^7« killed ^1RAGHNARD by MOD_UNKNOWN
+[Sat Jan 30 19:07:32 2016]  say: ^7»^0Exo^1Ð^0us^7«: op shit
+[Sat Jan 30 19:07:42 2016]  say: ^1RAGHNARD: We can call that a punch x)
+[Sat Jan 30 19:07:51 2016]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Sat Jan 30 19:08:10 2016]  say: ^7»^0Exo^1Ð^0us^7«: want the glitch again?
+[Sat Jan 30 19:08:24 2016]  say: ^7»^0Exo^1Ð^0us^7«: you can do it yourself by this point
+[Sat Jan 30 19:08:24 2016]  say: ^1RAGHNARD: okay why mot :)
+[Sat Jan 30 19:08:28 2016]  say: ^7»^0Exo^1Ð^0us^7«: do /give armor -99999999999
+[Sat Jan 30 19:08:40 2016]  say: ^1RAGHNARD: ok
+[Sat Jan 30 19:08:46 2016]  say: ^7»^0Exo^1Ð^0us^7«: do /mplace factory/catw2_b;mtouchable;mkillsw;mdrop
+[Sat Jan 30 19:08:50 2016]  say: ^7»^0Exo^1Ð^0us^7«: do that in console, there ye got
+[Sat Jan 30 19:08:57 2016]  say: ^7»^0Exo^1Ð^0us^7«: touch once, and then delete
+[Sat Jan 30 19:09:40 2016]  say: ^7»^0Exo^1Ð^0us^7«: where is it? xD
+[Sat Jan 30 19:09:52 2016]  say: ^1RAGHNARD: good question I dunno x)
+[Sat Jan 30 19:09:55 2016]  say: ^7»^0Exo^1Ð^0us^7«: lel
+[Sat Jan 30 19:10:05 2016]  say: ^7»^0Exo^1Ð^0us^7«: there
+[Sat Jan 30 19:10:08 2016]  say: ^7»^0Exo^1Ð^0us^7«: made it for ye
+[Sat Jan 30 19:10:11 2016]  say: ^1RAGHNARD: thx
+[Sat Jan 30 19:10:23 2016]  say: ^7»^0Exo^1Ð^0us^7«: now you're semi-immortal xD
+[Sat Jan 30 19:10:31 2016]  say: ^7»^0Exo^1Ð^0us^7«: for full immortality you have to /god
+[Sat Jan 30 19:10:33 2016]  say: ^7»^0Exo^1Ð^0us^7«: but that's boring
+[Sat Jan 30 19:10:38 2016]  say: ^7»^0Exo^1Ð^0us^7«: then you can't die ._.
+[Sat Jan 30 19:10:45 2016]  say: ^1RAGHNARD: yes but nt in front of your punch
+[Sat Jan 30 19:10:49 2016]  say: ^7»^0Exo^1Ð^0us^7«: lel
+[Sat Jan 30 19:10:57 2016]  say: ^7»^0Exo^1Ð^0us^7«: i call it a proton mine
+[Sat Jan 30 19:11:00 2016]  say: ^7»^0Exo^1Ð^0us^7«: just sits there
+[Sat Jan 30 19:11:02 2016]  say: ^7»^0Exo^1Ð^0us^7«: doesnt do anything
+[Sat Jan 30 19:11:04 2016]  say: ^7»^0Exo^1Ð^0us^7«: but deadly
+[Sat Jan 30 19:11:17 2016]  say: ^7»^0Exo^1Ð^0us^7«: there lel
+[Sat Jan 30 19:11:29 2016]  say: ^7»^0Exo^1Ð^0us^7«: but the mine has to be on top of you lol
+[Sat Jan 30 19:11:35 2016]  say: ^7»^0Exo^1Ð^0us^7«: otherwise it'll do only so much
+[Sat Jan 30 19:11:39 2016]  say: ^7»^0Exo^1Ð^0us^7«: watch, im immortal
+[Sat Jan 30 19:11:47 2016]  say: ^7»^0Exo^1Ð^0us^7«: but observe how quickly i die to it
+[Sat Jan 30 19:11:54 2016]  Kill: 1022 1 0: <world> killed ^7»^0Exo^1Ð^0us^7« by MOD_UNKNOWN
+[Sat Jan 30 19:12:06 2016]  say: ^1RAGHNARD: oh god
+[Sat Jan 30 19:12:08 2016]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Sat Jan 30 19:12:20 2016]  say: ^7»^0Exo^1Ð^0us^7«: i made a cage around me, then made one appear above
+[Sat Jan 30 19:12:30 2016]  say: ^7»^0Exo^1Ð^0us^7«: so that way, itd knock me out, but the others would kill me in the process
+[Sat Jan 30 19:12:34 2016]  say: ^7»^0Exo^1Ð^0us^7«: it takes more than one to do it
+[Sat Jan 30 19:12:39 2016]  say: ^7»^0Exo^1Ð^0us^7«: see?
+[Sat Jan 30 19:12:43 2016]  say: ^1RAGHNARD: yep
+[Sat Jan 30 19:13:01 2016]  Kill: 0 0 39: ^1RAGHNARD killed ^1RAGHNARD by MOD_SUICIDE
+[Sat Jan 30 19:13:18 2016]  say: ^7»^0Exo^1Ð^0us^7«: to get rid of the camera bug, just touch a /mkillsw'd catwalk or object again
+[Sat Jan 30 19:13:22 2016]  say: ^7»^0Exo^1Ð^0us^7«: it fixes the camera
+[Sat Jan 30 19:13:34 2016]  say: ^1RAGHNARD: okay
+[Sat Jan 30 19:13:34 2016]  say: ^7»^0Exo^1Ð^0us^7«: it works with fx's too
+[Sat Jan 30 19:13:42 2016]  say: ^7»^0Exo^1Ð^0us^7«: so you can make a script or bind to do the cheat
+[Sat Jan 30 19:13:46 2016]  say: ^7»^0Exo^1Ð^0us^7«: like i do
+[Sat Jan 30 19:13:53 2016]  say: ^7»^0Exo^1Ð^0us^7«: my ''r'' button is the immortality bug
+[Sat Jan 30 19:14:37 2016]  say: ^1RAGHNARD: oh I understand why I can't do this
+[Sat Jan 30 19:14:48 2016]  say: ^7»^0Exo^1Ð^0us^7«: have a location mmarked?
+[Sat Jan 30 19:14:55 2016]  say: ^1RAGHNARD: It seems I'm not the owner of my objects
+[Sat Jan 30 19:14:59 2016]  say: ^7»^0Exo^1Ð^0us^7«: whuuut
+[Sat Jan 30 19:15:02 2016]  say: ^7»^0Exo^1Ð^0us^7«: oh, i see
+[Sat Jan 30 19:15:09 2016]  say: ^7»^0Exo^1Ð^0us^7«: you dont have any atm, so there's nothing to apply it to
+[Sat Jan 30 19:15:13 2016]  say: ^7»^0Exo^1Ð^0us^7«: so you have no ability to use it
+[Sat Jan 30 19:15:22 2016]  say: ^7»^0Exo^1Ð^0us^7«: do /mgrabbing, to make sure it's on
+[Sat Jan 30 19:15:24 2016]  say: ^7»^0Exo^1Ð^0us^7«: then spawn an object
+[Sat Jan 30 19:16:43 2016]  say: ^1RAGHNARD: Its says You're not the owner of this object. Please mplace or mselect another one.
+[Sat Jan 30 19:17:44 2016]  say: ^7»^0Exo^1Ð^0us^7«: wtf
+[Sat Jan 30 19:17:46 2016]  say: ^7»^0Exo^1Ð^0us^7«: how odd
+[Sat Jan 30 19:18:15 2016]  say: ^1RAGHNARD: I dont know thats strange
+[Sat Jan 30 19:18:23 2016]  say: ^7»^0Exo^1Ð^0us^7«: do /mkillall
+[Sat Jan 30 19:18:29 2016]  say: ^7»^0Exo^1Ð^0us^7«: then make sure /mgrabbing is on
+[Sat Jan 30 19:18:30 2016]  say: ^1RAGHNARD: I need to register myself on the server ?
+[Sat Jan 30 19:18:35 2016]  say: ^7»^0Exo^1Ð^0us^7«: shouldnt
+[Sat Jan 30 19:18:45 2016]  say: ^1RAGHNARD: okay
+[Sat Jan 30 19:19:02 2016]  say: ^1RAGHNARD: mgrabbing is on
+[Sat Jan 30 19:19:11 2016]  say: ^7»^0Exo^1Ð^0us^7«: now do /mplace factory/catw2_b
+[Sat Jan 30 19:19:31 2016]  say: ^7»^0Exo^1Ð^0us^7«: wth then
+[Sat Jan 30 19:19:47 2016]  say: ^1RAGHNARD: the object doesnt appears
+[Sat Jan 30 19:20:54 2016]  say: ^7»^0Exo^1Ð^0us^7«: i have no clue then
+[Sat Jan 30 19:21:21 2016]  say: ^1RAGHNARD: I'll check if I can fix this x)
+[Sat Jan 30 19:21:31 2016]  say: ^7»^0Exo^1Ð^0us^7«: kk lol
+[Sat Jan 30 19:21:39 2016]  say: ^7»^0Exo^1Ð^0us^7«: btw, v'smakermod is up, but he's gotta do some stuff first
+[Sat Jan 30 19:22:13 2016]  say: ^1RAGHNARD: okay
+[Sat Jan 30 19:22:37 2016]  say: ^1RAGHNARD: but the makermod servers have a lot of people generaly ?
+[Sat Jan 30 19:23:19 2016]  say: ^7»^0Exo^1Ð^0us^7«: depends lol
+[Sat Jan 30 19:23:26 2016]  say: ^7»^0Exo^1Ð^0us^7«: btw, his server's up
+[Sat Jan 30 19:23:27 2016]  say: ^7»^0Exo^1Ð^0us^7«: 98.198.112.44:26
+[Sat Jan 30 19:23:31 2016]  ClientDisconnect: 1
+[Sat Jan 30 19:23:32 2016]  say: ^1RAGHNARD: okay 
+[Sat Jan 30 19:23:57 2016]  ClientDisconnect: 0
+[Sat Jan 30 19:25:43 2016]  ClientConnect: 0
+[Sat Jan 30 19:25:43 2016]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.243.214:29070 
+[Sat Jan 30 19:25:56 2016]  ClientBegin: 0
+[Sat Jan 30 19:30:32 2016]  ClientDisconnect: 0
+[Sat Jan 30 19:57:49 2016]  ClientConnect: 0
+[Sat Jan 30 19:57:49 2016]  mlog:Player Padawan, connected. With IP - 87.91.194.86:29070 
+[Sat Jan 30 19:58:04 2016]  ClientBegin: 0
+[Sat Jan 30 20:00:03 2016]  ClientDisconnect: 0
+[Sat Jan 30 20:00:03 2016]  ClientConnect: 0
+[Sat Jan 30 20:00:03 2016]  mlog:Player Padawan, connected. With IP - 87.91.194.86:29070 
+[Sat Jan 30 20:00:19 2016]  ClientBegin: 0
+[Sat Jan 30 20:05:44 2016]  ClientDisconnect: 0
+[Sat Jan 30 20:05:56 2016]  ClientConnect: 0
+[Sat Jan 30 20:05:56 2016]  mlog:Player Padawan, connected. With IP - 87.91.194.86:29070 
+[Sat Jan 30 20:06:06 2016]  ClientDisconnect: 0
+[Sat Jan 30 20:06:06 2016]  ClientConnect: 0
+[Sat Jan 30 20:06:06 2016]  mlog:Player Padawan, connected. With IP - 87.91.194.86:29070 
+[Sat Jan 30 20:06:22 2016]  ClientBegin: 0
+[Sat Jan 30 20:09:31 2016]  say: ^1RAGHNARD: ^4water ^5pro^4tec^0tion ^7: ^1--> ^7on
+[Sat Jan 30 20:09:48 2016]  Kill: 1022 0 0: <world> killed ^1RAGHNARD by MOD_UNKNOWN
+[Sat Jan 30 20:11:01 2016]  say: ^1RAGHNARD: ^0CAR ^0by ^0WARW^2Ø^0LF
+[Sat Jan 30 20:12:46 2016]  say: ^1RAGHNARD: ^0portect ^3line
+[Sat Jan 30 20:12:46 2016]  Kill: 0 0 36: ^1RAGHNARD killed ^1RAGHNARD by MOD_CRUSH
+[Sat Jan 30 20:13:26 2016]  say: ^1RAGHNARD: ^0SANCTUAIRE ^0DES ^5FLAMMES
+[Sat Jan 30 20:14:44 2016]  say: ^1RAGHNARD: ^0in^4vi^5si^7bi^5li^4té^0!!
+[Sat Jan 30 20:15:07 2016]  say: ^1RAGHNARD: ^4water ^5pro^4tec^0tion ^7: ^1--> ^7off
+[Sat Jan 30 20:15:42 2016]  say: ^1RAGHNARD: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sat Jan 30 20:15:42 2016]  say: ^1RAGHNARD: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Jan 30 20:16:08 2016]  say: ^1RAGHNARD: ^1FIRE BALL!
+[Sat Jan 30 20:16:16 2016]  say: ^1RAGHNARD: ^1FIRE BALL!
+[Sat Jan 30 20:16:20 2016]  say: ^1RAGHNARD: ^1FIRE BALL!
+[Sat Jan 30 20:16:22 2016]  say: ^1RAGHNARD: ^1FIRE BALL!
+[Sat Jan 30 20:16:41 2016]  say: ^1RAGHNARD: ^4WATER ^3PROTECTION!
+[Sat Jan 30 20:16:54 2016]  say: ^1RAGHNARD: ^4WATERFALL!
+[Sat Jan 30 20:17:12 2016]  say: ^1RAGHNARD: ^5AIR ^5WAVE!
+[Sat Jan 30 20:17:20 2016]  say: ^1RAGHNARD: ^3SANDSTORM!
+[Sat Jan 30 20:17:24 2016]  say: ^1RAGHNARD: ^3SANDSTORM!
+[Sat Jan 30 20:17:33 2016]  say: ^1RAGHNARD: ^5AIR ^5WAVE!
+[Sat Jan 30 20:17:41 2016]  say: ^1RAGHNARD: ^2ACID ^3BLAST!
+[Sat Jan 30 20:17:44 2016]  say: ^1RAGHNARD: ^2ACID ^3BLAST!
+[Sat Jan 30 20:17:47 2016]  say: ^1RAGHNARD: ^2ACID ^3BLAST!
+[Sat Jan 30 20:17:53 2016]  say: ^1RAGHNARD: ^2ACID ^3BLAST!
+[Sat Jan 30 20:17:57 2016]  say: ^1RAGHNARD: ^2ACID ^3BLAST!
+[Sat Jan 30 20:18:00 2016]  say: ^1RAGHNARD: ^2ACID ^3BLAST!
+[Sat Jan 30 20:18:05 2016]  say: ^1RAGHNARD: ^1GRAVEL ^4SHOT!
+[Sat Jan 30 20:18:08 2016]  say: ^1RAGHNARD: ^1GRAVEL ^4SHOT!
+[Sat Jan 30 20:18:19 2016]  say: ^1RAGHNARD: ^3ELEMENTAL ^3C^4R^3E^4A^3T^4I^3O^4N!
+[Sat Jan 30 20:18:35 2016]  Kill: 1022 0 3: <world> killed ^1RAGHNARD by MOD_SABER
+[Sat Jan 30 20:18:47 2016]  say: ^1RAGHNARD: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Sat Jan 30 20:19:02 2016]  say: ^1RAGHNARD: ^2ACID ^3BLAST!
+[Sat Jan 30 20:19:03 2016]  say: ^1RAGHNARD: ^2ACID ^3BLAST!
+[Sat Jan 30 20:19:10 2016]  say: ^1RAGHNARD: ^2ACID ^3BLAST!
+[Sat Jan 30 20:19:20 2016]  Kill: 1022 0 3: <world> killed ^1RAGHNARD by MOD_SABER
+[Sat Jan 30 20:19:29 2016]  say: ^1RAGHNARD: ^2ACID ^3BLAST!
+[Sat Jan 30 20:19:33 2016]  say: ^1RAGHNARD: ^2ACID ^3BLAST!
+[Sat Jan 30 20:21:01 2016]  say: ^1RAGHNARD: ^2Jawa's ^3Ship Script!! (please note, this may lag a little, or alot
+[Sat Jan 30 20:21:01 2016]  say: ^1RAGHNARD: this may take a while to load so i wont be talking as my script has a lot ot 'wait' cmd's in it...
+[Sat Jan 30 20:21:19 2016]  say: ^1RAGHNARD: about half way through script now...
+[Sat Jan 30 20:21:32 2016]  say: ^1RAGHNARD: almost finished!
+[Sat Jan 30 20:21:45 2016]  say: ^1RAGHNARD: ^3Yay! my script has (finally) finished!!!!!!
+[Sat Jan 30 20:21:45 2016]  ClientDisconnect: 0
+[Sat Jan 30 20:44:51 2016]  ClientConnect: 0
+[Sat Jan 30 20:44:51 2016]  mlog:Player pffenix, connected. With IP - 92.115.95.55:29070 
+[Sat Jan 30 20:45:11 2016]  ClientBegin: 0
+[Sat Jan 30 20:46:09 2016]  ClientDisconnect: 0
+[Sun Jan 31 03:31:46 2016]  ClientConnect: 0
+[Sun Jan 31 03:31:46 2016]  mlog:Player piku, connected. With IP - 50.157.126.203:29070 
+[Sun Jan 31 03:32:03 2016]  ClientBegin: 0
+[Sun Jan 31 03:37:13 2016]  ClientConnect: 1
+[Sun Jan 31 03:37:13 2016]  mlog:Player Thom, connected. With IP - 66.41.123.52:-21245 
+[Sun Jan 31 03:37:42 2016]  ClientBegin: 1
+[Sun Jan 31 03:37:51 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:37:58 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:38:27 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:38:46 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:39:44 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:40:29 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:40:43 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:40:57 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:41:15 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:41:38 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:42:42 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:43:31 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:44:51 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:45:21 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:45:30 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:45:47 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:46:15 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:46:31 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:47:27 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:48:00 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:48:49 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:49:06 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:49:16 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:49:31 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:50:18 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:51:56 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:52:14 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:53:31 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:53:41 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:53:50 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:54:39 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:55:09 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:55:41 2016]  Kill: 0 1 5: Jedi Knight Lachlann killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Sun Jan 31 03:56:14 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:56:22 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:56:37 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:56:47 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:57:12 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:57:41 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 03:58:44 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 03:59:28 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 04:00:10 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 04:00:25 2016]  Kill: 0 1 5: Jedi Knight Lachlann killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Sun Jan 31 04:00:50 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 04:00:55 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 04:00:59 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 04:01:10 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 04:02:21 2016]  Kill: 1 0 5: Padawan killed Jedi Knight Lachlann by MOD_BRYAR_PISTOL_ALT
+[Sun Jan 31 04:02:47 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 04:03:08 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 04:03:50 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 04:04:42 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 04:05:12 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 04:05:44 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 04:06:33 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 04:07:05 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 04:07:36 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 04:08:29 2016]  Kill: 0 1 3: Jedi Knight Lachlann killed Padawan by MOD_SABER
+[Sun Jan 31 04:08:55 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 04:10:12 2016]  Kill: 1 0 3: Padawan killed Jedi Knight Lachlann by MOD_SABER
+[Sun Jan 31 04:10:37 2016]  ClientDisconnect: 1
+[Sun Jan 31 04:12:54 2016]  ClientDisconnect: 0
+[Sun Jan 31 05:18:04 2016]  ClientConnect: 0
+[Sun Jan 31 05:18:04 2016]  mlog:Player Fi-ona, connected. With IP - 190.44.64.139:29070 
+[Sun Jan 31 05:21:25 2016]  ClientDisconnect: 0
+[Sun Jan 31 17:58:24 2016]  ClientConnect: 0
+[Sun Jan 31 17:58:24 2016]  mlog:Player Luck Skheil walker, connected. With IP - 78.245.104.167:29070 
+[Sun Jan 31 17:58:38 2016]  ClientBegin: 0
+[Sun Jan 31 17:58:41 2016]  ClientConnect: 1
+[Sun Jan 31 17:58:41 2016]  mlog:Player Luke_aint_dead, connected. With IP - 78.245.89.14:29070 
+[Sun Jan 31 17:59:00 2016]  ClientBegin: 1
+[Sun Jan 31 17:59:54 2016]  Kill: 0 1 4: Luck Skheil walker killed Luke_aint_dead by MOD_BRYAR_PISTOL
+[Sun Jan 31 18:01:19 2016]  Kill: 1 0 3: Luke_aint_dead killed Luck Skheil walker by MOD_SABER
+[Sun Jan 31 18:02:20 2016]  Kill: 1 0 3: Luke_aint_dead killed Luck Skheil walker by MOD_SABER
+[Sun Jan 31 18:05:29 2016]  Kill: 0 1 4: Luck Skheil walker killed Luke_aint_dead by MOD_BRYAR_PISTOL
+[Sun Jan 31 18:07:08 2016]  ClientConnect: 2
+[Sun Jan 31 18:07:08 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Jan 31 18:07:26 2016]  ClientBegin: 2
+[Sun Jan 31 18:07:27 2016]  Kill: 1022 0 38: <world> killed Luck Skheil walker by MOD_FALLING
+[Sun Jan 31 18:07:32 2016]  Item: 2 weapon_melee
+[Sun Jan 31 18:07:59 2016]  say: ^0Shadow^5seer: nonono dont hurt me
+[Sun Jan 31 18:08:20 2016]  say: Luke_aint_dead: ARE YOU A MODDER ?
+[Sun Jan 31 18:08:23 2016]  say: ^0Shadow^5seer: nope
+[Sun Jan 31 18:08:32 2016]  say: Luke_aint_dead: who are you ?
+[Sun Jan 31 18:08:39 2016]  say: ^0Shadow^5seer: a player...
+[Sun Jan 31 18:08:44 2016]  say: Luck Skheil walker: duelM
+[Sun Jan 31 18:08:54 2016]  say: Luck Skheil walker: ?
+[Sun Jan 31 18:09:31 2016]  Kill: 2 1 36: ^0Shadow^5seer killed Luke_aint_dead by MOD_CRUSH
+[Sun Jan 31 18:09:38 2016]  say: Luke_aint_dead: you fucking modder
+[Sun Jan 31 18:09:42 2016]  say: ^0Shadow^5seer: nope
+[Sun Jan 31 18:10:00 2016]  say: ^0Shadow^5seer: now step aside please
+[Sun Jan 31 18:10:08 2016]  say: ^0Shadow^5seer: or u may get hurt
+[Sun Jan 31 18:10:11 2016]  say: Luke_aint_dead: you happy to cheat ?
+[Sun Jan 31 18:10:17 2016]  say: Luck Skheil walker: Can you spawn speeder?
+[Sun Jan 31 18:10:18 2016]  say: ^0Shadow^5seer: i dont cheat
+[Sun Jan 31 18:10:31 2016]  say: Luke_aint_dead: i cant
+[Sun Jan 31 18:10:32 2016]  say: ^0Shadow^5seer: everything i do is allowed here
+[Sun Jan 31 18:10:38 2016]  say: ^0Shadow^5seer: move from there please
+[Sun Jan 31 18:10:42 2016]  say: ^0Shadow^5seer: cmhere
+[Sun Jan 31 18:10:48 2016]  say: Luke_aint_dead: how do you sit like that ?
+[Sun Jan 31 18:11:18 2016]  ClientDisconnect: 2
+[Sun Jan 31 18:11:18 2016]  ClientConnect: 2
+[Sun Jan 31 18:11:18 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Jan 31 18:11:35 2016]  ClientBegin: 2
+[Sun Jan 31 18:11:39 2016]  say: Luke_aint_dead: spawn a bike
+[Sun Jan 31 18:11:39 2016]  Item: 2 weapon_melee
+[Sun Jan 31 18:11:48 2016]  say: ^0Shadow^5seer: ok, it was a wrong one
+[Sun Jan 31 18:11:58 2016]  say: ^0Shadow^5seer: /npc spawn vehicle swoop_mp
+[Sun Jan 31 18:12:03 2016]  say: ^0Shadow^5seer: spawn it yourself
+[Sun Jan 31 18:12:19 2016]  say: Luke_aint_dead: npc get vehicle
+[Sun Jan 31 18:12:27 2016]  say: ^0Shadow^5seer: now dont touch THIS please
+[Sun Jan 31 18:12:34 2016]  say: Luke_aint_dead: what was that ?
+[Sun Jan 31 18:13:19 2016]  say: ^0Shadow^5seer: ok, u may now
+[Sun Jan 31 18:13:23 2016]  say: Luke_aint_dead: how the fuck do you do that ?N
+[Sun Jan 31 18:13:34 2016]  say: ^0Shadow^5seer: i use makermod cmds
+[Sun Jan 31 18:13:44 2016]  say: Luke_aint_dead: ow i see
+[Sun Jan 31 18:14:01 2016]  say: Luke_aint_dead: that s big
+[Sun Jan 31 18:14:06 2016]  say: ^0Shadow^5seer: its not cheating and i didnt create those cmds so im not a modder
+[Sun Jan 31 18:14:22 2016]  say: Luke_aint_dead: ok then
+[Sun Jan 31 18:14:23 2016]  say: ^0Shadow^5seer: im just a makermod player
+[Sun Jan 31 18:14:39 2016]  say: Luke_aint_dead: you wanna fight ?
+[Sun Jan 31 18:14:49 2016]  say: Luke_aint_dead: without the god mod
+[Sun Jan 31 18:14:50 2016]  say: ^0Shadow^5seer: u cant even hurt me
+[Sun Jan 31 18:14:56 2016]  say: ^0Shadow^5seer: even without it
+[Sun Jan 31 18:15:06 2016]  say: Luke_aint_dead: let s do it
+[Sun Jan 31 18:15:11 2016]  say: ^0Shadow^5seer: i can kill u from right here without even aiming u
+[Sun Jan 31 18:15:22 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Jan 31 18:15:22 2016]  Kill: 1022 0 36: <world> killed Luck Skheil walker by MOD_CRUSH
+[Sun Jan 31 18:15:22 2016]  Kill: 1022 1 36: <world> killed Luke_aint_dead by MOD_CRUSH
+[Sun Jan 31 18:15:43 2016]  say: ^0Shadow^5seer: didnt even watch in ur direction
+[Sun Jan 31 18:15:44 2016]  say: Luke_aint_dead: ok now with your lightsaber
+[Sun Jan 31 18:15:49 2016]  say: ^0Shadow^5seer: i dont have it
+[Sun Jan 31 18:15:58 2016]  Kill: 2 1 36: ^0Shadow^5seer killed Luke_aint_dead by MOD_CRUSH
+[Sun Jan 31 18:16:13 2016]  say: ^0Shadow^5seer: this place is not for lightsaber fightning
+[Sun Jan 31 18:16:23 2016]  say: Luke_aint_dead: cheating isn't fighing
+[Sun Jan 31 18:16:30 2016]  say: ^0Shadow^5seer: its not cheating
+[Sun Jan 31 18:16:34 2016]  say: ^0Shadow^5seer: u can do the same
+[Sun Jan 31 18:16:35 2016]  say: Luke_aint_dead: yes it is
+[Sun Jan 31 18:16:41 2016]  say: ^0Shadow^5seer: u just dont know how to
+[Sun Jan 31 18:16:52 2016]  say: Luke_aint_dead: i don't want to know
+[Sun Jan 31 18:16:55 2016]  say: ^0Shadow^5seer: it is allowed here, so its not cheating
+[Sun Jan 31 18:17:09 2016]  say: Luke_aint_dead: that s why u re here
+[Sun Jan 31 18:17:25 2016]  say: ^0Shadow^5seer: yes, this place is for those who know how to play makermod
+[Sun Jan 31 18:17:35 2016]  say: Luke_aint_dead: ok
+[Sun Jan 31 18:17:58 2016]  say: ^0Shadow^5seer: how to build amazing things and make unbelivable powers
+[Sun Jan 31 18:18:13 2016]  say: Luke_aint_dead: godmod
+[Sun Jan 31 18:18:17 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Sun Jan 31 18:18:50 2016]  say: Luke_aint_dead: let s fight again
+[Sun Jan 31 18:18:59 2016]  say: ^0Shadow^5seer: im not here to fight
+[Sun Jan 31 18:19:07 2016]  say: ^0Shadow^5seer: and this place is not for fightning
+[Sun Jan 31 18:19:22 2016]  say: ^0Shadow^5seer: should have spawned it a lil higher
+[Sun Jan 31 18:19:30 2016]  say: ^0Shadow^5seer: ist stuck in the ground
+[Sun Jan 31 18:19:33 2016]  say: ^0Shadow^5seer: its*
+[Sun Jan 31 18:19:44 2016]  say: ^0Shadow^5seer: u cant move it
+[Sun Jan 31 18:19:48 2016]  say: Luke_aint_dead: nope
+[Sun Jan 31 18:19:51 2016]  say: ^0Shadow^5seer: spawn another one, but higher
+[Sun Jan 31 18:19:53 2016]  say: Luke_aint_dead: its bugged
+[Sun Jan 31 18:22:49 2016]  say: ^0Shadow^5seer: too. low.
+[Sun Jan 31 18:23:27 2016]  Item: 0 ammo_all
+[Sun Jan 31 18:24:37 2016]  Kill: 0 0 25: Luck Skheil walker killed Luck Skheil walker by MOD_TRIP_MINE_SPLASH
+[Sun Jan 31 18:25:09 2016]  Kill: 0 1 11: Luck Skheil walker killed Luke_aint_dead by MOD_BOWCASTER
+[Sun Jan 31 18:25:12 2016]  Item: 0 weapon_rocket_launcher
+[Sun Jan 31 18:25:24 2016]  Kill: 2 0 36: ^0Shadow^5seer killed Luck Skheil walker by MOD_CRUSH
+[Sun Jan 31 18:25:35 2016]  say: ^0Shadow^5seer: dont touch it when it constructs
+[Sun Jan 31 18:25:38 2016]  say: ^0Shadow^5seer: u block it
+[Sun Jan 31 18:25:49 2016]  Kill: 1 0 3: Luke_aint_dead killed Luck Skheil walker by MOD_SABER
+[Sun Jan 31 18:26:03 2016]  Kill: 0 1 31: Luck Skheil walker killed Luke_aint_dead by MOD_FORCE_DARK
+[Sun Jan 31 18:26:12 2016]  ClientDisconnect: 1
+[Sun Jan 31 18:26:18 2016]  ClientDisconnect: 0
+[Sun Jan 31 18:26:25 2016]  ClientDisconnect: 2
+[Sun Jan 31 20:24:10 2016]  ClientConnect: 0
+[Sun Jan 31 20:24:10 2016]  mlog:Player charlespeterzzz, connected. With IP - 90.192.44.9:29070 
+[Sun Jan 31 20:24:20 2016]  ClientDisconnect: 0
+[Sun Jan 31 20:59:19 2016]  ClientConnect: 0
+[Sun Jan 31 20:59:19 2016]  mlog:Player Padawan, connected. With IP - 87.91.194.86:29070 
+[Sun Jan 31 20:59:41 2016]  ClientBegin: 0
+[Sun Jan 31 21:02:23 2016]  ClientDisconnect: 0
+[Sun Jan 31 22:26:05 2016]  ClientConnect: 0
+[Sun Jan 31 22:26:05 2016]  mlog:Player Jack, connected. With IP - 66.41.123.52:-27969 
+[Sun Jan 31 22:26:39 2016]  ClientBegin: 0
+[Sun Jan 31 22:27:52 2016]  ClientConnect: 1
+[Sun Jan 31 22:27:52 2016]  mlog:Player Jedi Knight Lachlann, connected. With IP - 50.157.126.203:29070 
+[Sun Jan 31 22:28:15 2016]  ClientBegin: 1
+[Sun Jan 31 22:28:43 2016]  Kill: 0 1 4: Padawan killed Jedi Knight Lachlann by MOD_BRYAR_PISTOL
+[Sun Jan 31 22:29:37 2016]  say: Jedi Knight Lachlann: fly_xwing
+[Sun Jan 31 22:30:15 2016]  say: Jedi Knight Lachlann: swoop_mp
+[Sun Jan 31 22:30:28 2016]  ClientDisconnect: 0
+[Sun Jan 31 22:31:04 2016]  say: Jedi Knight Lachlann: helpusobi 1
+[Sun Jan 31 22:31:15 2016]  say: Jedi Knight Lachlann: swoop_mp
+[Sun Jan 31 22:42:38 2016]  ClientDisconnect: 1
+[Sun Jan 31 23:10:19 2016]  ClientConnect: 0
+[Sun Jan 31 23:10:19 2016]  mlog:Player hawkster1011, connected. With IP - 162.204.241.22:29070 
+[Sun Jan 31 23:10:22 2016]  ClientConnect: 1
+[Sun Jan 31 23:10:22 2016]  mlog:Player ^0S^7tamp, connected. With IP - 173.16.6.89:-31487 
+[Sun Jan 31 23:10:44 2016]  ClientBegin: 1
+[Sun Jan 31 23:11:14 2016]  ClientDisconnect: 0
+[Sun Jan 31 23:11:54 2016]  ClientDisconnect: 1
+[Sun Jan 31 23:40:58 2016]  ClientConnect: 0
+[Sun Jan 31 23:40:58 2016]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 109.153.78.62:29070 
+[Sun Jan 31 23:41:35 2016]  ClientBegin: 0
+[Sun Jan 31 23:41:45 2016]  ClientDisconnect: 0
+[Mon Feb 01 00:24:48 2016]  ClientConnect: 0
+[Mon Feb 01 00:24:48 2016]  mlog:Player Alren, connected. With IP - 99.8.133.63:29070 
+[Mon Feb 01 00:25:12 2016]  ClientBegin: 0
+[Mon Feb 01 00:26:09 2016]  ClientDisconnect: 0
+[Tue Feb 02 11:09:11 2016]  ClientConnect: 0
+[Tue Feb 02 11:09:11 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Feb 02 11:09:31 2016]  ClientBegin: 0
+[Tue Feb 02 11:09:36 2016]  Item: 0 weapon_melee
+[Tue Feb 02 11:10:32 2016]  ClientDisconnect: 0
+[Tue Feb 02 16:30:25 2016]  ClientConnect: 0
+[Tue Feb 02 16:30:25 2016]  mlog:Player Padawan, connected. With IP - 46.72.13.198:29071 
+[Tue Feb 02 16:30:50 2016]  ClientBegin: 0
+[Tue Feb 02 16:32:03 2016]  ClientConnect: 1
+[Tue Feb 02 16:32:03 2016]  mlog:Player Padawan, connected. With IP - 79.111.40.199:29070 
+[Tue Feb 02 16:32:23 2016]  ClientBegin: 1
+[Tue Feb 02 16:33:24 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:44:27 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:45:44 2016]  Kill: 0 1 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Tue Feb 02 16:46:10 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:46:37 2016]  Kill: 0 1 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Tue Feb 02 16:48:14 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:48:30 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:49:26 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:49:42 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:50:00 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:50:14 2016]  Kill: 0 1 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Tue Feb 02 16:50:40 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:51:21 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:51:26 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:51:47 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:51:57 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:52:04 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:52:26 2016]  Kill: 0 1 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Tue Feb 02 16:52:31 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:52:42 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:52:46 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:52:53 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:53:06 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:53:19 2016]  Kill: 0 1 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Tue Feb 02 16:53:34 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:53:44 2016]  Kill: 1 0 5: Padawan killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Tue Feb 02 16:53:55 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:54:22 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:54:28 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:54:31 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:54:54 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:54:59 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:55:04 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:55:11 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:55:18 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:55:26 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:55:31 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:55:47 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:55:58 2016]  Kill: 1 0 5: Padawan killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Tue Feb 02 16:56:16 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:56:23 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:56:37 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:56:46 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:56:56 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:57:01 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:57:08 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:57:32 2016]  Kill: 0 1 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Tue Feb 02 16:57:41 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:58:28 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:59:44 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 16:59:51 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:00:12 2016]  Kill: 0 1 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Tue Feb 02 17:01:57 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:02:05 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:02:16 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:02:38 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:02:52 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:03:23 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:03:35 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:04:17 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:04:42 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:04:47 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:04:54 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:05:08 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:05:22 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:05:29 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:05:34 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:05:40 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:05:45 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:05:51 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:06:02 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:06:09 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:06:18 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:06:22 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:06:28 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:06:32 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:06:36 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:06:45 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:06:54 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:07:03 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:07:37 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:07:44 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:07:49 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:08:01 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:08:05 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:08:15 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:08:22 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:08:26 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:08:36 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:08:44 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:09:24 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:09:31 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Feb 02 17:09:38 2016]  ClientDisconnect: 1
+[Tue Feb 02 17:10:48 2016]  ClientDisconnect: 0
+[Wed Feb 03 10:14:41 2016]  ClientConnect: 0
+[Wed Feb 03 10:14:41 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Feb 03 10:15:00 2016]  ClientBegin: 0
+[Wed Feb 03 10:15:06 2016]  Item: 0 weapon_melee
+[Wed Feb 03 10:15:28 2016]  Kill: 0 0 39: ^0Shadow^5seer killed ^0Shadow^5seer by MOD_SUICIDE
+[Wed Feb 03 10:15:41 2016]  Item: 0 weapon_melee
+[Wed Feb 03 10:21:33 2016]  ClientDisconnect: 0
+[Thu Feb 04 18:05:33 2016]  ClientConnect: 0
+[Thu Feb 04 18:05:33 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Feb 04 18:05:51 2016]  ClientBegin: 0
+[Thu Feb 04 18:05:58 2016]  Item: 0 weapon_melee
+[Thu Feb 04 18:14:45 2016]  ClientDisconnect: 0
+[Thu Feb 04 18:22:58 2016]  ClientConnect: 0
+[Thu Feb 04 18:22:58 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Feb 04 18:23:15 2016]  ClientBegin: 0
+[Thu Feb 04 18:23:21 2016]  Item: 0 weapon_melee
+[Thu Feb 04 18:23:41 2016]  ShutdownGame:
+[Thu Feb 04 18:23:41 2016]  ------------------------------------------------------------

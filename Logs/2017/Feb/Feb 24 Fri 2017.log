@@ -1,0 +1,745 @@
+[Fri Feb 24 18:49:00 2017]  ------------------------------------------------------------
+[Fri Feb 24 18:49:00 2017]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Feb 24 19:30:08 2017]  ClientConnect: 0
+[Fri Feb 24 19:30:08 2017]  mlog:Player Redem, connected. With IP - 92.249.112.225:29070 
+[Fri Feb 24 19:30:39 2017]  ClientBegin: 0
+[Fri Feb 24 19:35:25 2017]  Item: 0 item_cloak
+[Fri Feb 24 19:35:25 2017]  Item: 0 ammo_detpack
+[Fri Feb 24 19:35:25 2017]  Item: 0 ammo_tripmine
+[Fri Feb 24 19:35:25 2017]  Item: 0 ammo_thermal
+[Fri Feb 24 19:35:25 2017]  Item: 0 item_medpac
+[Fri Feb 24 19:35:25 2017]  Item: 0 weapon_repeater
+[Fri Feb 24 19:35:25 2017]  Item: 0 weapon_flechette
+[Fri Feb 24 19:35:25 2017]  Item: 0 weapon_disruptor
+[Fri Feb 24 19:35:25 2017]  Item: 0 weapon_blaster
+[Fri Feb 24 19:35:25 2017]  Item: 0 item_medpac_big
+[Fri Feb 24 19:35:25 2017]  Item: 0 weapon_melee
+[Fri Feb 24 19:35:25 2017]  Item: 0 weapon_rocket_launcher
+[Fri Feb 24 19:35:25 2017]  Item: 0 weapon_concussion_rifle
+[Fri Feb 24 19:35:25 2017]  Item: 0 weapon_demp2
+[Fri Feb 24 19:35:25 2017]  Item: 0 item_eweb_holdable
+[Fri Feb 24 19:35:25 2017]  Item: 0 item_force_boon
+[Fri Feb 24 19:35:25 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:35:25 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:35:25 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:35:25 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:35:57 2017]  Item: 0 ammo_detpack
+[Fri Feb 24 19:35:57 2017]  Item: 0 ammo_tripmine
+[Fri Feb 24 19:35:57 2017]  Item: 0 ammo_thermal
+[Fri Feb 24 19:35:57 2017]  Item: 0 item_force_boon
+[Fri Feb 24 19:35:57 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:35:57 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:35:57 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:35:57 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:38:22 2017]  Item: 0 ammo_detpack
+[Fri Feb 24 19:38:22 2017]  Item: 0 ammo_tripmine
+[Fri Feb 24 19:38:22 2017]  Item: 0 ammo_thermal
+[Fri Feb 24 19:38:22 2017]  Item: 0 item_force_boon
+[Fri Feb 24 19:38:22 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:38:22 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:38:22 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:38:22 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:44:29 2017]  ClientConnect: 1
+[Fri Feb 24 19:44:29 2017]  mlog:Player [sexuality]Putij, connected. With IP - 91.230.25.125:29070 
+[Fri Feb 24 19:45:04 2017]  ClientBegin: 1
+[Fri Feb 24 19:45:17 2017]  Kill: 1 1 39: kosher killed kosher by MOD_SUICIDE
+[Fri Feb 24 19:45:17 2017]  setteam:  1 FREE SPECTATOR
+[Fri Feb 24 19:45:17 2017]  ClientBegin: 1
+[Fri Feb 24 19:45:20 2017]  say: kosher: englin
+[Fri Feb 24 19:45:23 2017]  say: kosher: english
+[Fri Feb 24 19:45:25 2017]  say: Redem: ?
+[Fri Feb 24 19:45:28 2017]  say: kosher: russ
+[Fri Feb 24 19:45:36 2017]  say: Redem: engl
+[Fri Feb 24 19:45:41 2017]  say: Redem: why?
+[Fri Feb 24 19:45:55 2017]  say: kosher: what why
+[Fri Feb 24 19:46:03 2017]  say: Redem: never mind
+[Fri Feb 24 19:46:13 2017]  say: kosher: where are u from
+[Fri Feb 24 19:46:20 2017]  say: Redem: ukraine
+[Fri Feb 24 19:46:29 2017]  say: kosher: rus?
+[Fri Feb 24 19:46:36 2017]  setteam:  1 SPECTATOR FREE
+[Fri Feb 24 19:46:36 2017]  ClientBegin: 1
+[Fri Feb 24 19:46:39 2017]  say: Redem: almost
+[Fri Feb 24 19:46:47 2017]  say: kosher: rusifikator est?
+[Fri Feb 24 19:47:11 2017]  say: Redem: нету
+[Fri Feb 24 19:47:15 2017]  say: Redem: наверно
+[Fri Feb 24 19:47:20 2017]  say: kosher: а русский видно?
+[Fri Feb 24 19:47:22 2017]  say: Redem: да
+[Fri Feb 24 19:47:27 2017]  say: kosher: значит есть
+[Fri Feb 24 19:47:48 2017]  say: kosher: че тут играеш
+[Fri Feb 24 19:47:48 2017]  say: Redem: видимо, встроено было
+[Fri Feb 24 19:48:12 2017]  say: Redem: да так, смотрю что здесь можно делать
+[Fri Feb 24 19:48:30 2017]  say: kosher: скока лет
+[Fri Feb 24 19:48:53 2017]  say: Redem: 24
+[Fri Feb 24 19:49:10 2017]  say: kosher: лугормод играешь?
+[Fri Feb 24 19:49:13 2017]  say: Redem: нет\
+[Fri Feb 24 19:49:19 2017]  say: kosher: играл?
+[Fri Feb 24 19:49:36 2017]  say: Redem: да, было раз, не понравился совсем
+[Fri Feb 24 19:50:05 2017]  say: Redem: мейкер больше по нраву
+[Fri Feb 24 19:50:17 2017]  Item: 0 ammo_detpack
+[Fri Feb 24 19:50:17 2017]  Item: 0 ammo_tripmine
+[Fri Feb 24 19:50:17 2017]  Item: 0 item_force_boon
+[Fri Feb 24 19:50:17 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:50:17 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:50:17 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:50:17 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:50:33 2017]  say: kosher: откуда про мейкер узнал
+[Fri Feb 24 19:50:52 2017]  say: Redem: да не помню уже
+[Fri Feb 24 19:51:10 2017]  say: Redem: просто смотрел что за сервера и моды есть
+[Fri Feb 24 19:51:21 2017]  say: kosher: и че понравилось
+[Fri Feb 24 19:51:25 2017]  say: Redem: да
+[Fri Feb 24 19:51:39 2017]  say: Redem: потом было поднадоело
+[Fri Feb 24 19:51:50 2017]  say: Redem: на года 4 жтак
+[Fri Feb 24 19:52:08 2017]  say: kosher: и как жизнь изменилась
+[Fri Feb 24 19:52:51 2017]  say: Redem: да не осталось игроков уже
+[Fri Feb 24 19:52:55 2017]  say: Redem: почти
+[Fri Feb 24 19:53:37 2017]  say: kosher: жизнь такая
+[Fri Feb 24 19:53:44 2017]  Kill: 1 1 39: kosher killed kosher by MOD_SUICIDE
+[Fri Feb 24 19:53:49 2017]  say: kosher: камера дрожт
+[Fri Feb 24 19:54:01 2017]  say: Redem: лаг портит жизнь здесь
+[Fri Feb 24 19:54:02 2017]  ClientConnect: 2
+[Fri Feb 24 19:54:02 2017]  mlog:Player ^3/^4^5KOTR^3/^5Pluton, connected. With IP - 109.165.48.71:29070 
+[Fri Feb 24 19:54:14 2017]  say: kosher: нет камера из за свупа
+[Fri Feb 24 19:54:18 2017]  say: Redem: а
+[Fri Feb 24 19:54:24 2017]  say: Redem: это из-за воды
+[Fri Feb 24 19:54:34 2017]  Kill: 1 1 39: kosher killed kosher by MOD_SUICIDE
+[Fri Feb 24 19:54:48 2017]  ClientBegin: 2
+[Fri Feb 24 19:54:54 2017]  say: kosher: пРИВЕТ
+[Fri Feb 24 19:55:00 2017]  say: Pluton: Опа
+[Fri Feb 24 19:55:02 2017]  say: Pluton: Привет
+[Fri Feb 24 19:55:09 2017]  say: kosher: как дела
+[Fri Feb 24 19:55:15 2017]  say: Pluton: Нормально
+[Fri Feb 24 19:55:19 2017]  say: kosher: как брат
+[Fri Feb 24 19:55:21 2017]  say: Pluton: сам как поживаешь?
+[Fri Feb 24 19:55:26 2017]  say: Redem: привет
+[Fri Feb 24 19:55:31 2017]  Item: 0 item_force_boon
+[Fri Feb 24 19:55:31 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:55:31 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:55:31 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:55:31 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:55:34 2017]  say: kosher: зашел вот поиграть
+[Fri Feb 24 19:55:39 2017]  say: kosher: просто
+[Fri Feb 24 19:56:03 2017]  say: kosher: плутон го на мой сервер
+[Fri Feb 24 19:56:12 2017]  say: Pluton: ip
+[Fri Feb 24 19:56:24 2017]  say: kosher: я думал ты не согласишься
+[Fri Feb 24 19:56:27 2017]  say: Pluton: ^7:D
+[Fri Feb 24 19:56:39 2017]  say: kosher: ты че в котр вступил
+[Fri Feb 24 19:56:49 2017]  Item: 0 item_medpak_instant
+[Fri Feb 24 19:56:49 2017]  Item: 0 item_medpak_instant
+[Fri Feb 24 19:56:49 2017]  Item: 0 item_force_boon
+[Fri Feb 24 19:56:49 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:56:49 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:56:49 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:56:49 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:57:05 2017]  say: Pluton: Я ам уже 1.5 года .-.
+[Fri Feb 24 19:57:13 2017]  say: Pluton: там*
+[Fri Feb 24 19:57:23 2017]  say: kosher: так тебя забанили
+[Fri Feb 24 19:57:38 2017]  say: Pluton: Ты о чем?
+[Fri Feb 24 19:57:45 2017]  say: kosher: кикнули тогда
+[Fri Feb 24 19:57:54 2017]  Item: 0 item_force_boon
+[Fri Feb 24 19:57:54 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:57:54 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:57:54 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:57:54 2017]  Item: 0 ammo_all
+[Fri Feb 24 19:58:21 2017]  say: Pluton: Ты 
+[Fri Feb 24 19:58:57 2017]  say: kosher: редем ты гд
+[Fri Feb 24 19:58:59 2017]  say: kosher: где
+[Fri Feb 24 19:58:59 2017]  say: Pluton: Ты от куда все знаеь?
+[Fri Feb 24 19:59:05 2017]  say: Redem: ?
+[Fri Feb 24 19:59:05 2017]  say: kosher: хз
+[Fri Feb 24 19:59:11 2017]  say: kosher: My origin is: (-5777 -21894 1654) - You can teleport here with /mtelelast
+
+[Fri Feb 24 19:59:15 2017]  say: Redem: да здесь я
+[Fri Feb 24 19:59:27 2017]  say: kosher: ну че нико не играет
+[Fri Feb 24 19:59:30 2017]  say: kosher: никто
+[Fri Feb 24 19:59:38 2017]  say: Pluton: Ктоименно?
+[Fri Feb 24 19:59:47 2017]  say: kosher: людей мало в выходные
+[Fri Feb 24 20:00:08 2017]  Kill: 2 1 12: Pluton killed kosher by MOD_REPEATER
+[Fri Feb 24 20:00:11 2017]  say: kosher: надо чето придумать
+[Fri Feb 24 20:00:48 2017]  say: Pluton: Ясейчас
+[Fri Feb 24 20:00:53 2017]  ClientDisconnect: 2
+[Fri Feb 24 20:01:21 2017]  Kill: 1022 1 36: <world> killed kosher by MOD_CRUSH
+[Fri Feb 24 20:02:24 2017]  say: kosher: кароче чсе делать
+[Fri Feb 24 20:02:29 2017]  say: kosher: в жизни
+[Fri Feb 24 20:02:53 2017]  say: Redem: та, я здесь чтобы отдохнуть от жизни :)
+[Fri Feb 24 20:03:15 2017]  say: kosher: жена есть?
+[Fri Feb 24 20:03:21 2017]  say: Redem: нет
+[Fri Feb 24 20:03:26 2017]  say: kosher: f ,eltn
+[Fri Feb 24 20:03:30 2017]  say: kosher: а будет
+[Fri Feb 24 20:03:38 2017]  say: Redem: ха
+[Fri Feb 24 20:03:42 2017]  say: Redem: да, мб
+[Fri Feb 24 20:03:50 2017]  Kill: 1022 1 36: <world> killed kosher by MOD_CRUSH
+[Fri Feb 24 20:03:52 2017]  say: kosher: а кем работаешь
+[Fri Feb 24 20:03:54 2017]  say: Redem: аа
+[Fri Feb 24 20:03:56 2017]  say: Redem: черт
+[Fri Feb 24 20:04:00 2017]  say: Redem: извиняюсь
+[Fri Feb 24 20:04:10 2017]  say: Redem: учусь
+[Fri Feb 24 20:04:12 2017]  say: Redem: пока
+[Fri Feb 24 20:04:18 2017]  say: kosher: на кого
+[Fri Feb 24 20:04:25 2017]  say: Redem: физик
+[Fri Feb 24 20:04:27 2017]  say: Redem: ты?
+[Fri Feb 24 20:04:31 2017]  say: kosher: механик
+[Fri Feb 24 20:04:44 2017]  say: Redem: близко
+[Fri Feb 24 20:04:56 2017]  say: kosher: ты програмист?
+[Fri Feb 24 20:05:00 2017]  say: Redem: нет
+[Fri Feb 24 20:05:03 2017]  say: Redem: ну,
+[Fri Feb 24 20:05:11 2017]  say: Redem: не по специальность
+[Fri Feb 24 20:05:13 2017]  say: Redem: и
+[Fri Feb 24 20:05:23 2017]  ClientConnect: 2
+[Fri Feb 24 20:05:23 2017]  mlog:Player ^3/^4^5KOTR^3/^5Pluton, connected. With IP - 109.165.48.71:29070 
+[Fri Feb 24 20:05:32 2017]  say: kosher: какой язык
+[Fri Feb 24 20:05:32 2017]  say: Redem: так то приходится писать простые проги
+[Fri Feb 24 20:05:35 2017]  say: Redem: с++
+[Fri Feb 24 20:05:40 2017]  say: kosher: для чего
+[Fri Feb 24 20:05:44 2017]  say: Redem: расчеты
+[Fri Feb 24 20:05:50 2017]  say: Redem: кучи расчетов
+[Fri Feb 24 20:05:55 2017]  say: kosher: задают?
+[Fri Feb 24 20:06:07 2017]  ClientBegin: 2
+[Fri Feb 24 20:06:11 2017]  say: Redem: и задают, и дипломная этого требует
+[Fri Feb 24 20:06:21 2017]  say: Redem: афк минуту
+[Fri Feb 24 20:06:32 2017]  say: kosher: плутон ты кто по специалности
+[Fri Feb 24 20:06:43 2017]  say: Pluton: Всмысле?
+[Fri Feb 24 20:06:54 2017]  say: kosher: профессия какая
+[Fri Feb 24 20:07:16 2017]  say: Pluton: Я еще не работаю
+[Fri Feb 24 20:07:23 2017]  say: kosher: ты говорил что паботаешь
+[Fri Feb 24 20:07:41 2017]  say: Redem: здесь
+[Fri Feb 24 20:07:43 2017]  say: Pluton: Работаю
+[Fri Feb 24 20:07:47 2017]  say: Pluton: тал*
+[Fri Feb 24 20:07:51 2017]  say: kosher: кем
+[Fri Feb 24 20:08:04 2017]  say: Pluton: Тебе зачем знать?
+[Fri Feb 24 20:08:11 2017]  say: kosher: чтобы тоже поработать
+[Fri Feb 24 20:08:57 2017]  say: kosher: так какие вычесления у тебя
+[Fri Feb 24 20:09:11 2017]  say: Redem: так интересно? :)
+[Fri Feb 24 20:09:14 2017]  say: kosher: да
+[Fri Feb 24 20:09:31 2017]  say: Redem: образцы считать на прочность
+[Fri Feb 24 20:09:50 2017]  say: Redem: когда выдержат нагрузку когда нет
+[Fri Feb 24 20:09:51 2017]  Kill: 1022 2 0: <world> killed Pluton by MOD_UNKNOWN
+[Fri Feb 24 20:09:51 2017]  Item: 0 weapon_bowcaster
+[Fri Feb 24 20:09:54 2017]  Kill: 1022 1 0: <world> killed kosher by MOD_UNKNOWN
+[Fri Feb 24 20:09:55 2017]  Item: 0 weapon_repeater
+[Fri Feb 24 20:09:58 2017]  Item: 0 item_medpak_instant
+[Fri Feb 24 20:09:58 2017]  Item: 0 item_medpak_instant
+[Fri Feb 24 20:09:58 2017]  Item: 0 item_medpak_instant
+[Fri Feb 24 20:09:58 2017]  Item: 0 item_medpak_instant
+[Fri Feb 24 20:09:58 2017]  Item: 0 item_force_boon
+[Fri Feb 24 20:09:59 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:09:59 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:09:59 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:09:59 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:10:09 2017]  say: kosher: для кого
+[Fri Feb 24 20:10:19 2017]  say: Pluton: У меня пак какойто стоит и короче вместо бластера ипулемета оружие из войн клонов
+[Fri Feb 24 20:10:23 2017]  say: Redem: диплом, пишу же :)
+[Fri Feb 24 20:10:34 2017]  say: kosher: будешь делать танки?
+[Fri Feb 24 20:10:41 2017]  say: Redem: хмм
+[Fri Feb 24 20:10:52 2017]  Kill: 1022 2 0: <world> killed Pluton by MOD_UNKNOWN
+[Fri Feb 24 20:10:53 2017]  Item: 0 weapon_repeater
+[Fri Feb 24 20:10:59 2017]  say: Redem: лично - вряд ли
+[Fri Feb 24 20:11:05 2017]  Kill: 1022 2 0: <world> killed Pluton by MOD_UNKNOWN
+[Fri Feb 24 20:11:15 2017]  Item: 2 weapon_blaster
+[Fri Feb 24 20:11:21 2017]  say: Redem: и хватит меня стрелять
+[Fri Feb 24 20:11:24 2017]  say: Redem: что за люди
+[Fri Feb 24 20:11:27 2017]  say: Pluton: Кошер
+[Fri Feb 24 20:11:33 2017]  say: Pluton: ты кто 
+[Fri Feb 24 20:11:43 2017]  say: kosher: тоесть
+[Fri Feb 24 20:11:59 2017]  say: Pluton: Откуда ты знаешь то что я рассказывалтолько одному человеку?
+[Fri Feb 24 20:12:05 2017]  say: kosher: что
+[Fri Feb 24 20:12:29 2017]  say: Pluton: Например что меня временно отчислилы из клана
+[Fri Feb 24 20:13:50 2017]  ------------------------------------------------------------
+[Fri Feb 24 20:13:50 2017]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\999\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Feb 24 20:14:26 2017]  ClientConnect: 0
+[Fri Feb 24 20:14:26 2017]  mlog:Player Redem, connected. With IP - 92.249.112.225:29070 
+[Fri Feb 24 20:14:39 2017]  ClientBegin: 0
+[Fri Feb 24 20:14:49 2017]  Item: 0 item_cloak
+[Fri Feb 24 20:14:49 2017]  Item: 0 ammo_detpack
+[Fri Feb 24 20:14:49 2017]  Item: 0 ammo_tripmine
+[Fri Feb 24 20:14:49 2017]  Item: 0 ammo_thermal
+[Fri Feb 24 20:14:49 2017]  Item: 0 item_medpac
+[Fri Feb 24 20:14:49 2017]  Item: 0 weapon_repeater
+[Fri Feb 24 20:14:49 2017]  Item: 0 weapon_flechette
+[Fri Feb 24 20:14:49 2017]  Item: 0 weapon_disruptor
+[Fri Feb 24 20:14:49 2017]  Item: 0 weapon_blaster
+[Fri Feb 24 20:14:49 2017]  Item: 0 item_medpac_big
+[Fri Feb 24 20:14:49 2017]  Item: 0 weapon_melee
+[Fri Feb 24 20:14:49 2017]  Item: 0 weapon_rocket_launcher
+[Fri Feb 24 20:14:49 2017]  Item: 0 weapon_concussion_rifle
+[Fri Feb 24 20:14:49 2017]  Item: 0 weapon_demp2
+[Fri Feb 24 20:14:49 2017]  Item: 0 item_eweb_holdable
+[Fri Feb 24 20:14:49 2017]  Item: 0 item_force_boon
+[Fri Feb 24 20:14:49 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:14:49 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:14:49 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:14:49 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:15:34 2017]  ClientConnect: 1
+[Fri Feb 24 20:15:34 2017]  mlog:Player Pluton, connected. With IP - 109.165.48.71:29070 
+[Fri Feb 24 20:15:53 2017]  ClientBegin: 1
+[Fri Feb 24 20:16:18 2017]  say: Pluton: Где он?
+[Fri Feb 24 20:16:23 2017]  say: Redem: кто?
+[Fri Feb 24 20:16:27 2017]  say: Pluton: Кошер
+[Fri Feb 24 20:16:34 2017]  say: Redem: не было
+[Fri Feb 24 20:16:41 2017]  say: Redem: сервер перегрузился
+[Fri Feb 24 20:16:49 2017]  say: Redem: может зайдет
+[Fri Feb 24 20:17:16 2017]  say: Pluton: Откудо он знает то что знаЮ ТОЛЬКо я?
+[Fri Feb 24 20:17:41 2017]  say: Redem: угадывает мб
+[Fri Feb 24 20:17:50 2017]  ClientConnect: 2
+[Fri Feb 24 20:17:50 2017]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.56.1:29071 
+[Fri Feb 24 20:17:53 2017]  say: Pluton: Слишком много совпадений
+[Fri Feb 24 20:18:18 2017]  ClientConnect: 3
+[Fri Feb 24 20:18:18 2017]  mlog:Player kosher, connected. With IP - 91.230.25.125:29070 
+[Fri Feb 24 20:18:18 2017]  ClientBegin: 2
+[Fri Feb 24 20:18:38 2017]  ClientBegin: 3
+[Fri Feb 24 20:18:39 2017]  say: ^0Раrk^2^1Qµаkи: Hey guys :) Sorry had to log off and on a few times due to an infinite loop on a game exe haha
+[Fri Feb 24 20:18:46 2017]  say: Pluton: hi
+[Fri Feb 24 20:18:48 2017]  say: Redem: hi
+[Fri Feb 24 20:18:52 2017]  say: Pluton: Кошер
+[Fri Feb 24 20:18:54 2017]  say: kosher: hi
+[Fri Feb 24 20:18:56 2017]  say: kosher: че
+[Fri Feb 24 20:18:59 2017]  say: Pluton: Откуда ты все знаешь?
+[Fri Feb 24 20:18:59 2017]  say: ^0Раrk^2^1Qµаkи: never had this many people at once for a while, it's sad :(
+[Fri Feb 24 20:19:07 2017]  say: ^0Раrk^2^1Qµаkи: not that I've seen anyway
+[Fri Feb 24 20:19:09 2017]  say: kosher: это секрет
+[Fri Feb 24 20:19:23 2017]  Kill: 1022 1 39: <world> killed Pluton by MOD_SUICIDE
+[Fri Feb 24 20:19:30 2017]  say: ^0Раrk^2^1Qµаkи: I have to fix the npc limit somehow, it's very limited again for some reason
+[Fri Feb 24 20:19:39 2017]  say: Pluton: У меня два варианта кто ты
+[Fri Feb 24 20:19:47 2017]  say: kosher: ну и кто
+[Fri Feb 24 20:19:49 2017]  say: Redem: so this map's appearance is your creation?
+[Fri Feb 24 20:19:58 2017]  say: ^0Раrk^2^1Qµаkи: A friend helped
+[Fri Feb 24 20:20:00 2017]  say: Pluton: 1)sonik_xx
+[Fri Feb 24 20:20:06 2017]  say: Redem: nice
+[Fri Feb 24 20:20:07 2017]  say: kosher: дальше
+[Fri Feb 24 20:20:07 2017]  say: ^0Раrk^2^1Qµаkи: no one presses these switches haha
+[Fri Feb 24 20:20:11 2017]  say: Pluton: Furon
+[Fri Feb 24 20:20:21 2017]  say: Redem: but why soil textures are default?
+[Fri Feb 24 20:20:28 2017]  say: kosher: знаешь соника?
+[Fri Feb 24 20:20:31 2017]  say: Redem: or it's me who's lacking them?
+[Fri Feb 24 20:20:39 2017]  say: ^0Раrk^2^1Qµаkи: Shadowseer helped, and Darth Furios I think too
+[Fri Feb 24 20:20:47 2017]  say: Pluton: Ну знаю
+[Fri Feb 24 20:20:54 2017]  say: Redem: Furios, sounds familiar
+[Fri Feb 24 20:20:56 2017]  say: ^0Раrk^2^1Qµаkи: it's not default, noclip up here. should be lava
+[Fri Feb 24 20:20:57 2017]  say: kosher: он играет?
+[Fri Feb 24 20:21:02 2017]  say: Pluton: НЕ ЗНАЮ
+[Fri Feb 24 20:21:08 2017]  say: ^0Раrk^2^1Qµаkи: My origin is: (-5054 -13967 4957) - You can teleport here with /mtelelast
+
+[Fri Feb 24 20:21:09 2017]  say: kosher: а когда играл
+[Fri Feb 24 20:21:18 2017]  say: Pluton: davno
+[Fri Feb 24 20:21:24 2017]  say: Redem: yeah
+[Fri Feb 24 20:21:29 2017]  say: Redem: sweet
+[Fri Feb 24 20:21:37 2017]  say: Redem: but what about down here
+[Fri Feb 24 20:21:38 2017]  say: kosher: и че он твой друг
+[Fri Feb 24 20:21:38 2017]  say: Redem: ?
+[Fri Feb 24 20:21:39 2017]  say: ^0Раrk^2^1Qµаkи: yeh shame it doesn't reflect down here
+[Fri Feb 24 20:21:46 2017]  say: Redem: I see
+[Fri Feb 24 20:21:54 2017]  Kill: 3 1 5: kosher killed Pluton by MOD_BRYAR_PISTOL_ALT
+[Fri Feb 24 20:21:54 2017]  say: ^0Раrk^2^1Qµаkи: I can change it, haven't textured for a while though so need to refresh my memory
+[Fri Feb 24 20:22:01 2017]  say: Redem: :D
+[Fri Feb 24 20:22:09 2017]  say: Pluton: kosher
+[Fri Feb 24 20:22:10 2017]  say: ^0Раrk^2^1Qµаkи: lots of experimentation and knowledge of the crazy named parts of the ground haha
+[Fri Feb 24 20:22:15 2017]  say: Pluton: ты фурон?
+[Fri Feb 24 20:22:15 2017]  say: Redem: yeah
+[Fri Feb 24 20:22:16 2017]  say: ^0Раrk^2^1Qµаkи: it's like split into 2 or 3 sections
+[Fri Feb 24 20:22:20 2017]  say: kosher: нет
+[Fri Feb 24 20:22:30 2017]  say: Pluton: А кто жеж ты блять?
+[Fri Feb 24 20:22:34 2017]  say: Redem: I tried remapping too, it's quite boring and long business
+[Fri Feb 24 20:22:46 2017]  print "Pluton^7 @@@PLRENAME ^2xD
+"[Fri Feb 24 20:22:48 2017]  say: kosher: не ругайся
+[Fri Feb 24 20:22:55 2017]  say: ^2xD: Не ну серьезно
+[Fri Feb 24 20:23:06 2017]  say: ^2xD: Откуда ты так много знаешь?
+[Fri Feb 24 20:23:08 2017]  say: ^0Раrk^2^1Qµаkи: ah I remember, looking at the remap list
+[Fri Feb 24 20:23:14 2017]  say: ^0Раrk^2^1Qµаkи: it's desert 0, 0 to 1 etc
+[Fri Feb 24 20:23:19 2017]  say: ^0Раrk^2^1Qµаkи: so can have a play around
+[Fri Feb 24 20:23:20 2017]  say: kosher: я не знаю ниче
+[Fri Feb 24 20:23:28 2017]  ClientDisconnect: 1
+[Fri Feb 24 20:23:32 2017]  Item: 0 ammo_detpack
+[Fri Feb 24 20:23:32 2017]  Item: 0 ammo_tripmine
+[Fri Feb 24 20:23:32 2017]  Item: 0 ammo_thermal
+[Fri Feb 24 20:23:32 2017]  Item: 0 item_force_boon
+[Fri Feb 24 20:23:33 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:23:33 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:23:33 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:23:33 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:23:42 2017]  say: ^0Раrk^2^1Qµаkи: what should I make it?
+[Fri Feb 24 20:23:52 2017]  say: kosher: слыш откуда знаешь английский
+[Fri Feb 24 20:23:59 2017]  say: ^0Раrk^2^1Qµаkи: haha Ragnos sounds, nice
+[Fri Feb 24 20:24:07 2017]  say: Redem: oh
+[Fri Feb 24 20:24:08 2017]  say: Redem: wait?
+[Fri Feb 24 20:24:11 2017]  say: Redem: what?
+[Fri Feb 24 20:24:17 2017]  say: ^0Раrk^2^1Qµаkи: alright hang on, gonna test cool textures
+[Fri Feb 24 20:24:17 2017]  say: Redem: you hear them?
+[Fri Feb 24 20:24:20 2017]  say: ^0Раrk^2^1Qµаkи: yeah
+[Fri Feb 24 20:24:20 2017]  say: Redem: crap
+[Fri Feb 24 20:24:25 2017]  say: Redem: I don't!
+[Fri Feb 24 20:24:29 2017]  say: ^0Раrk^2^1Qµаkи: :/
+[Fri Feb 24 20:24:35 2017]  say: Redem: and I wonder wth
+[Fri Feb 24 20:24:44 2017]  say: ^0Раrk^2^1Qµаkи: do you hear any taunts or player voice?
+[Fri Feb 24 20:24:50 2017]  say: Redem: um
+[Fri Feb 24 20:24:51 2017]  say: Redem: sec
+[Fri Feb 24 20:24:57 2017]  say: Redem: yeah
+[Fri Feb 24 20:25:12 2017]  say: ^0Раrk^2^1Qµаkи: I heard that roar lol
+[Fri Feb 24 20:25:16 2017]  say: Redem: but my own script - no
+[Fri Feb 24 20:25:22 2017]  say: Redem: I can't hear it
+[Fri Feb 24 20:25:28 2017]  say: ^0Раrk^2^1Qµаkи: weird
+[Fri Feb 24 20:25:31 2017]  say: Redem: yeah
+[Fri Feb 24 20:25:39 2017]  say: ^0Раrk^2^1Qµаkи: maybe it's a ping issue, try converting it to ontimer
+[Fri Feb 24 20:25:43 2017]  say: kosher: откуда английский знаешь
+[Fri Feb 24 20:26:00 2017]  say: Redem: блин, люблю игры без перевода играть
+[Fri Feb 24 20:26:03 2017]  say: ^0Раrk^2^1Qµаkи: I've started that for an attack, google it. My mate mrdinnertime made it, he knows a lot of Makermod stuff so we chat usually
+[Fri Feb 24 20:26:16 2017]  say: ^0Раrk^2^1Qµаkи: check this out :)
+[Fri Feb 24 20:26:19 2017]  say: Redem: yeah
+[Fri Feb 24 20:26:23 2017]  say: Redem: just a moment
+[Fri Feb 24 20:26:35 2017]  say: ^0Раrk^2^1Qµаkи: when you're ready
+[Fri Feb 24 20:26:38 2017]  say: Redem: I've been to long out of makermod to catch up so fast
+[Fri Feb 24 20:26:42 2017]  say: Redem: too*
+[Fri Feb 24 20:27:06 2017]  say: Redem: though I heard of ontimer
+[Fri Feb 24 20:27:13 2017]  say: Redem: but didn't get to use it
+[Fri Feb 24 20:27:16 2017]  say: kosher: is this in cfg
+[Fri Feb 24 20:27:28 2017]  say: ^0Раrk^2^1Qµаkи: nah it's a converter you use outside of JA
+[Fri Feb 24 20:27:30 2017]  say: Redem: I use old fashioned 'wait'
+[Fri Feb 24 20:27:34 2017]  Kill: 3 2 11: kosher killed ^0Раrk^2^1Qµаkи by MOD_BOWCASTER
+[Fri Feb 24 20:27:38 2017]  say: ^0Раrk^2^1Qµаkи: and then you exec the new script like normal
+[Fri Feb 24 20:27:48 2017]  say: ^0Раrk^2^1Qµаkи: yeah same, I've only done it for repulse and noticed the difference
+[Fri Feb 24 20:27:56 2017]  say: kosher: makermod client module?
+[Fri Feb 24 20:28:02 2017]  say: ^0Раrk^2^1Qµаkи: yeah
+[Fri Feb 24 20:28:12 2017]  say: Redem: ha
+[Fri Feb 24 20:28:29 2017]  say: ^0Раrk^2^1Qµаkи: haha those items bring back memories
+[Fri Feb 24 20:28:29 2017]  Kill: 3 2 6: kosher killed ^0Раrk^2^1Qµаkи by MOD_BLASTER
+[Fri Feb 24 20:28:36 2017]  say: ^0Раrk^2^1Qµаkи: and the red forcefield in JO
+[Fri Feb 24 20:28:40 2017]  say: ^0Раrk^2^1Qµаkи: infinite XD
+[Fri Feb 24 20:28:52 2017]  say: Redem: now let me show off :p
+[Fri Feb 24 20:29:12 2017]  say: Redem: if I won't be dropped ofc
+[Fri Feb 24 20:29:26 2017]  say: ^0Раrk^2^1Qµаkи: nice :D
+[Fri Feb 24 20:29:33 2017]  Kill: 2 3 0: ^0Раrk^2^1Qµаkи killed kosher by MOD_UNKNOWN
+[Fri Feb 24 20:29:35 2017]  Item: 2 weapon_repeater
+[Fri Feb 24 20:29:58 2017]  say: Redem: now this probably is gonna get me dropped, ok? :D
+[Fri Feb 24 20:30:08 2017]  say: Redem: a lot of cmds
+[Fri Feb 24 20:30:10 2017]  say: ^0Раrk^2^1Qµаkи: for overflow?
+[Fri Feb 24 20:30:13 2017]  say: Redem: yeah
+[Fri Feb 24 20:30:14 2017]  say: ^0Раrk^2^1Qµаkи: split the script up
+[Fri Feb 24 20:30:17 2017]  say: Redem: I did
+[Fri Feb 24 20:30:19 2017]  say: ^0Раrk^2^1Qµаkи: like script1.cfg, script2.cfg
+[Fri Feb 24 20:30:26 2017]  say: Redem: I did that
+[Fri Feb 24 20:30:27 2017]  say: ^0Раrk^2^1Qµаkи: then put exec at the bottom
+[Fri Feb 24 20:30:42 2017]  say: Redem: there're like 20 files :D
+[Fri Feb 24 20:30:56 2017]  say: Redem: ok, here goes
+[Fri Feb 24 20:30:59 2017]  say: ^0Раrk^2^1Qµаkи: haha well if it worked for you locally without overflow
+[Fri Feb 24 20:31:03 2017]  say: ^0Раrk^2^1Qµаkи: then should be fine here
+[Fri Feb 24 20:31:46 2017]  say: ^0Раrk^2^1Qµаkи: ^6HALO SCRIPT ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Fri Feb 24 20:31:55 2017]  ClientDisconnect: 0
+[Fri Feb 24 20:31:55 2017]  ClientConnect: 0
+[Fri Feb 24 20:31:55 2017]  mlog:Player Redem, connected. With IP - 92.249.112.225:29070 
+[Fri Feb 24 20:32:07 2017]  say: ^0Раrk^2^1Qµаkи: :p never did the inside
+[Fri Feb 24 20:32:19 2017]  Kill: 1022 3 0: <world> killed kosher by MOD_UNKNOWN
+[Fri Feb 24 20:32:25 2017]  ClientBegin: 0
+[Fri Feb 24 20:32:32 2017]  say: Redem: hahaha
+[Fri Feb 24 20:32:41 2017]  say: Redem: well, that was to be expected
+[Fri Feb 24 20:32:46 2017]  Item: 0 item_cloak
+[Fri Feb 24 20:32:46 2017]  Item: 0 ammo_detpack
+[Fri Feb 24 20:32:46 2017]  Item: 0 ammo_tripmine
+[Fri Feb 24 20:32:46 2017]  Item: 0 ammo_thermal
+[Fri Feb 24 20:32:46 2017]  Item: 0 item_medpac
+[Fri Feb 24 20:32:46 2017]  Item: 0 weapon_repeater
+[Fri Feb 24 20:32:46 2017]  Item: 0 weapon_flechette
+[Fri Feb 24 20:32:46 2017]  Item: 0 weapon_disruptor
+[Fri Feb 24 20:32:46 2017]  Item: 0 weapon_blaster
+[Fri Feb 24 20:32:46 2017]  Item: 0 item_medpac_big
+[Fri Feb 24 20:32:46 2017]  Item: 0 weapon_melee
+[Fri Feb 24 20:32:46 2017]  Item: 0 weapon_rocket_launcher
+[Fri Feb 24 20:32:46 2017]  Item: 0 weapon_concussion_rifle
+[Fri Feb 24 20:32:46 2017]  Item: 0 weapon_demp2
+[Fri Feb 24 20:32:46 2017]  Item: 0 item_eweb_holdable
+[Fri Feb 24 20:32:46 2017]  Item: 0 item_force_boon
+[Fri Feb 24 20:32:46 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:32:46 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:32:46 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:32:46 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:32:48 2017]  Kill: 1022 3 0: <world> killed kosher by MOD_UNKNOWN
+[Fri Feb 24 20:33:00 2017]  say: Redem: damn, old times...
+[Fri Feb 24 20:33:19 2017]  say: Redem: do u use makermodule?
+[Fri Feb 24 20:33:22 2017]  say: ^0Раrk^2^1Qµаkи: yeah
+[Fri Feb 24 20:33:28 2017]  say: ^0Раrk^2^1Qµаkи: very handy
+[Fri Feb 24 20:33:30 2017]  say: Redem: sweet
+[Fri Feb 24 20:33:34 2017]  say: Redem: yeah
+[Fri Feb 24 20:33:46 2017]  say: Redem: I know, I'm just too lazy to dl it myself :D
+[Fri Feb 24 20:34:04 2017]  say: Redem: I remember it being a close guarded secret back in a years :D
+[Fri Feb 24 20:34:22 2017]  say: Redem: and now the entire code is free for downloading :D
+[Fri Feb 24 20:34:26 2017]  Item: 0 ammo_detpack
+[Fri Feb 24 20:34:26 2017]  Item: 0 ammo_tripmine
+[Fri Feb 24 20:34:26 2017]  Item: 0 ammo_thermal
+[Fri Feb 24 20:34:26 2017]  Item: 0 item_medpak_instant
+[Fri Feb 24 20:34:26 2017]  Item: 0 item_force_boon
+[Fri Feb 24 20:34:26 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:34:26 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:34:26 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:34:26 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:34:28 2017]  say: ^0Раrk^2^1Qµаkи: yeh haha! I remember a guy named Proxy
+[Fri Feb 24 20:34:33 2017]  say: ^0Раrk^2^1Qµаkи: hacked all servers to gain admin
+[Fri Feb 24 20:34:39 2017]  say: Redem: sweet :D
+[Fri Feb 24 20:35:07 2017]  say: Redem: saber locking always looks so epic :p
+[Fri Feb 24 20:35:09 2017]  say: ^0Раrk^2^1Qµаkи: that's me manually clicking :p
+[Fri Feb 24 20:35:31 2017]  say: Redem: ook
+[Fri Feb 24 20:35:44 2017]  say: ^0Раrk^2^1Qµаkи: um brb, sorry. Uni stuff
+[Fri Feb 24 20:35:49 2017]  say: Redem: ah
+[Fri Feb 24 20:35:49 2017]  say: Redem: ok
+[Fri Feb 24 20:35:55 2017]  say: Redem: bb, I guess?
+[Fri Feb 24 20:36:01 2017]  say: ^0Раrk^2^1Qµаkи: nah
+[Fri Feb 24 20:36:05 2017]  say: ^0Раrk^2^1Qµаkи: just messaging a friend
+[Fri Feb 24 20:36:08 2017]  say: Redem: ah
+[Fri Feb 24 20:36:09 2017]  say: Redem: ok
+[Fri Feb 24 20:37:10 2017]  say: kosher: ты за кого за украину или донецк
+[Fri Feb 24 20:37:59 2017]  say: Redem: я за мир во всем миру
+[Fri Feb 24 20:38:04 2017]  say: Redem: мире*
+[Fri Feb 24 20:38:15 2017]  say: kosher: а че танки будешь делать
+[Fri Feb 24 20:38:31 2017]  say: Redem: танки? нет
+[Fri Feb 24 20:38:43 2017]  say: Redem: с чего это
+[Fri Feb 24 20:39:04 2017]  say: kosher: а какая работа на эту специальность
+[Fri Feb 24 20:39:32 2017]  say: Redem: устойчивость конструкций, я же писал
+[Fri Feb 24 20:39:40 2017]  say: kosher: мосты?
+[Fri Feb 24 20:39:43 2017]  say: Redem: для зданий, преимущественно
+[Fri Feb 24 20:39:55 2017]  say: Redem: возможно, но вряд ли
+[Fri Feb 24 20:40:11 2017]  say: kosher: укрепленные бункеры для хунты?
+[Fri Feb 24 20:40:13 2017]  Item: 0 ammo_detpack
+[Fri Feb 24 20:40:13 2017]  Item: 0 ammo_tripmine
+[Fri Feb 24 20:40:13 2017]  Item: 0 ammo_thermal
+[Fri Feb 24 20:40:13 2017]  Item: 0 item_force_boon
+[Fri Feb 24 20:40:13 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:40:13 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:40:13 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:40:13 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:40:20 2017]  say: Redem: ага
+[Fri Feb 24 20:40:33 2017]  say: kosher: небось посольство сша укреплять будешь
+[Fri Feb 24 20:41:04 2017]  say: ^0Раrk^2^1Qµаkи: I built some cool stuff, some got lost :(
+[Fri Feb 24 20:41:10 2017]  say: Redem: неплохо было бы
+[Fri Feb 24 20:41:10 2017]  say: ^0Раrk^2^1Qµаkи: but I still have my motorbkike
+[Fri Feb 24 20:41:14 2017]  say: ^0Раrk^2^1Qµаkи: bike*
+[Fri Feb 24 20:41:17 2017]  say: Redem: но слишком роскошно
+[Fri Feb 24 20:41:24 2017]  say: Redem: here?
+[Fri Feb 24 20:41:32 2017]  say: Redem: hah
+[Fri Feb 24 20:41:36 2017]  say: kosher: тебе не позволять в сша лучшие люди работают они сами его укрепляют
+[Fri Feb 24 20:41:44 2017]  say: Redem: именно
+[Fri Feb 24 20:41:46 2017]  say: ^0Раrk^2^1Qµаkи: haha
+[Fri Feb 24 20:41:50 2017]  say: Redem: sweet
+[Fri Feb 24 20:42:10 2017]  say: Redem: how many horses?
+[Fri Feb 24 20:42:13 2017]  say: Redem: :p
+[Fri Feb 24 20:42:19 2017]  say: kosher: 2
+[Fri Feb 24 20:42:21 2017]  say: ^0Раrk^2^1Qµаkи: I can't believe I actually started a move script too.. then makermodule had a move to location thing
+[Fri Feb 24 20:42:28 2017]  say: ^0Раrk^2^1Qµаkи: over 9000
+[Fri Feb 24 20:42:28 2017]  say: Redem: oh btw
+[Fri Feb 24 20:42:32 2017]  say: Redem: follow me
+[Fri Feb 24 20:42:47 2017]  say: Redem: gonna show you my own grotesque
+[Fri Feb 24 20:42:56 2017]  say: Redem: just outside the obs 
+[Fri Feb 24 20:43:19 2017]  say: Redem: ah nvm
+[Fri Feb 24 20:43:23 2017]  say: ^0Раrk^2^1Qµаkи: haha
+[Fri Feb 24 20:43:27 2017]  say: Redem: I'll tell u the coords
+[Fri Feb 24 20:43:33 2017]  say: ^0Раrk^2^1Qµаkи: yeh
+[Fri Feb 24 20:43:34 2017]  say: Redem: hello there
+[Fri Feb 24 20:43:37 2017]  say: Redem: oops
+[Fri Feb 24 20:44:02 2017]  say: Redem: yeah
+[Fri Feb 24 20:44:09 2017]  say: Redem: crap
+[Fri Feb 24 20:44:18 2017]  say: Redem: what is cmd for origin?
+[Fri Feb 24 20:44:25 2017]  say: kosher: \msayorigin
+[Fri Feb 24 20:44:27 2017]  say: ^0Раrk^2^1Qµаkи: say /msayorigin
+[Fri Feb 24 20:44:28 2017]  say: Redem: My origin is: (-17220 -7941 1470) - You can teleport here with /mtelelast
+
+[Fri Feb 24 20:44:31 2017]  say: Redem: right
+[Fri Feb 24 20:44:53 2017]  Item: 2 ammo_all
+[Fri Feb 24 20:45:06 2017]  say: ^0Раrk^2^1Qµаkи: cool haha
+[Fri Feb 24 20:45:11 2017]  say: ^0Раrk^2^1Qµаkи: don't know what to make of it
+[Fri Feb 24 20:45:19 2017]  say: Redem: ha
+[Fri Feb 24 20:45:27 2017]  say: ^0Раrk^2^1Qµаkи: :o
+[Fri Feb 24 20:45:29 2017]  say: ^0Раrk^2^1Qµаkи: no way
+[Fri Feb 24 20:45:36 2017]  say: Redem: ,aan xD
+[Fri Feb 24 20:45:46 2017]  say: Redem: legs are broken again
+[Fri Feb 24 20:45:47 2017]  say: Redem: xD
+[Fri Feb 24 20:45:53 2017]  say: ^0Раrk^2^1Qµаkи: how did you do that?
+[Fri Feb 24 20:46:06 2017]  say: kosher: lag
+[Fri Feb 24 20:46:11 2017]  Item: 0 ammo_detpack
+[Fri Feb 24 20:46:11 2017]  Item: 0 ammo_tripmine
+[Fri Feb 24 20:46:11 2017]  Item: 0 item_force_boon
+[Fri Feb 24 20:46:12 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:46:12 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:46:12 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:46:12 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:46:13 2017]  say: Redem: yeah
+[Fri Feb 24 20:46:20 2017]  say: Redem: sec
+[Fri Feb 24 20:46:27 2017]  say: Redem: the controls are just masohistic
+[Fri Feb 24 20:46:37 2017]  Kill: 1022 3 0: <world> killed kosher by MOD_UNKNOWN
+[Fri Feb 24 20:47:01 2017]  say: Redem: finally
+[Fri Feb 24 20:47:06 2017]  say: Redem: huh
+[Fri Feb 24 20:47:09 2017]  say: Redem: well
+[Fri Feb 24 20:47:30 2017]  say: ^0Раrk^2^1Qµаkи: let's see what else I've got
+[Fri Feb 24 20:48:01 2017]  ClientDisconnect: 0
+[Fri Feb 24 20:48:01 2017]  ClientConnect: 0
+[Fri Feb 24 20:48:01 2017]  mlog:Player Redem, connected. With IP - 92.249.112.225:29070 
+[Fri Feb 24 20:48:14 2017]  Kill: 3 2 38: kosher killed ^0Раrk^2^1Qµаkи by MOD_FALLING
+[Fri Feb 24 20:48:33 2017]  ClientBegin: 0
+[Fri Feb 24 20:48:33 2017]  Kill: 2 0 37: ^0Раrk^2^1Qµаkи killed Redem by MOD_TELEFRAG
+[Fri Feb 24 20:48:36 2017]  say: ^0Раrk^2^1Qµаkи: :p
+[Fri Feb 24 20:48:39 2017]  say: Redem: :p
+[Fri Feb 24 20:48:41 2017]  say: Redem: crap
+[Fri Feb 24 20:48:47 2017]  say: Redem: OF, again
+[Fri Feb 24 20:48:49 2017]  Item: 0 item_cloak
+[Fri Feb 24 20:48:49 2017]  Item: 0 ammo_detpack
+[Fri Feb 24 20:48:49 2017]  Item: 0 ammo_tripmine
+[Fri Feb 24 20:48:49 2017]  Item: 0 ammo_thermal
+[Fri Feb 24 20:48:49 2017]  Item: 0 item_medpac
+[Fri Feb 24 20:48:49 2017]  Item: 0 weapon_repeater
+[Fri Feb 24 20:48:49 2017]  Item: 0 weapon_flechette
+[Fri Feb 24 20:48:49 2017]  Item: 0 weapon_disruptor
+[Fri Feb 24 20:48:49 2017]  Item: 0 weapon_blaster
+[Fri Feb 24 20:48:49 2017]  Item: 0 item_medpac_big
+[Fri Feb 24 20:48:49 2017]  Item: 0 weapon_melee
+[Fri Feb 24 20:48:49 2017]  Item: 0 weapon_rocket_launcher
+[Fri Feb 24 20:48:49 2017]  Item: 0 weapon_concussion_rifle
+[Fri Feb 24 20:48:49 2017]  Item: 0 weapon_demp2
+[Fri Feb 24 20:48:49 2017]  Item: 0 item_eweb_holdable
+[Fri Feb 24 20:48:49 2017]  Item: 0 item_force_boon
+[Fri Feb 24 20:48:50 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:48:50 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:48:50 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:48:50 2017]  Item: 0 ammo_all
+[Fri Feb 24 20:48:51 2017]  say: ^0Раrk^2^1Qµаkи: ^1HOUSE SCRIPT ^4By ^1µ^2/Раrk^1Qµаkи^2/^1S - ^5PART 1
+[Fri Feb 24 20:48:56 2017]  say: ^0Раrk^2^1Qµаkи: ^1HOUSE SCRIPT ^4By ^1µ^2/Раrk^1Qµаkи^2/^1S - ^5PART 2
+[Fri Feb 24 20:48:58 2017]  say: Redem: overflow, i mean
+[Fri Feb 24 20:49:01 2017]  say: kosher: never liked makermod
+[Fri Feb 24 20:49:10 2017]  say: ^0Раrk^2^1Qµаkи: this was before fancy commands
+[Fri Feb 24 20:49:15 2017]  say: Redem: да ладно, прикольная же штука
+[Fri Feb 24 20:49:18 2017]  say: ^0Раrk^2^1Qµаkи: so had to place each part of the beam haha
+[Fri Feb 24 20:49:19 2017]  say: Redem: sweet
+[Fri Feb 24 20:49:25 2017]  say: ^0Раrk^2^1Qµаkи: instead of using new mturret stuff
+[Fri Feb 24 20:49:28 2017]  say: kosher: прикольно но кнопки не работают
+[Fri Feb 24 20:49:45 2017]  say: kosher: ниче не работает только модельки
+[Fri Feb 24 20:49:51 2017]  say: Redem: nice
+[Fri Feb 24 20:49:52 2017]  say: ^0Раrk^2^1Qµаkи: cosy :3
+[Fri Feb 24 20:49:57 2017]  say: Redem: sec
+[Fri Feb 24 20:50:09 2017]  say: Redem: you didn't see mine :p
+[Fri Feb 24 20:50:21 2017]  say: ^0Раrk^2^1Qµаkи: lol
+[Fri Feb 24 20:50:24 2017]  say: ^0Раrk^2^1Qµаkи: wats all that haha
+[Fri Feb 24 20:50:30 2017]  say: Redem: I hope I won't be kicked again
+[Fri Feb 24 20:50:33 2017]  say: Redem: though
+[Fri Feb 24 20:50:45 2017]  say: ^0Раrk^2^1Qµаkи: yeh ontimer really helps
+[Fri Feb 24 20:51:06 2017]  say: ^0Раrk^2^1Qµаkи: because it does some special thing where it doesn't count itself as a new 'wait' command
+[Fri Feb 24 20:51:14 2017]  say: ^0Раrk^2^1Qµаkи: so you can fit more into a script
+[Fri Feb 24 20:51:15 2017]  say: Redem: whosh
+[Fri Feb 24 20:51:23 2017]  say: ^0Раrk^2^1Qµаkи: whosh?
+[Fri Feb 24 20:51:26 2017]  say: Redem: sec
+[Fri Feb 24 20:51:34 2017]  say: Redem: well
+[Fri Feb 24 20:51:36 2017]  say: Redem: almost ok
+[Fri Feb 24 20:51:43 2017]  say: ^0Раrk^2^1Qµаkи: still epic!
+[Fri Feb 24 20:51:51 2017]  say: Redem: except the dish is halfway down
+[Fri Feb 24 20:52:18 2017]  say: ^0Раrk^2^1Qµаkи: lmao
+[Fri Feb 24 20:52:18 2017]  say: Redem: sec
+[Fri Feb 24 20:52:20 2017]  say: ^0Раrk^2^1Qµаkи: dat small tv
+[Fri Feb 24 20:52:26 2017]  say: Redem: lemme try again
+[Fri Feb 24 20:52:35 2017]  say: Redem: just keep clear, ok?
+[Fri Feb 24 20:53:17 2017]  say: ^0Раrk^2^1Qµаkи: it's a shame the rotate all thing doesn't go around a central axis (afaik)
+[Fri Feb 24 20:53:24 2017]  say: ^0Раrk^2^1Qµаkи: it rotates each individually
+[Fri Feb 24 20:53:24 2017]  say: Redem: um
+[Fri Feb 24 20:53:29 2017]  say: Redem: actually you can
+[Fri Feb 24 20:53:40 2017]  say: ^0Раrk^2^1Qµаkи: haven't used it much, how?
+[Fri Feb 24 20:53:41 2017]  say: Redem: mrotateall does that
+[Fri Feb 24 20:53:46 2017]  say: ^0Раrk^2^1Qµаkи: yeh but
+[Fri Feb 24 20:53:51 2017]  say: ^0Раrk^2^1Qµаkи: the effect is weird for me
+[Fri Feb 24 20:54:00 2017]  say: Redem: yeah it's buggy
+[Fri Feb 24 20:54:10 2017]  say: Redem: and it doesn't rotate collision properly
+[Fri Feb 24 20:54:15 2017]  say: Redem: but still
+[Fri Feb 24 20:54:19 2017]  say: ^0Раrk^2^1Qµаkи: like look
+[Fri Feb 24 20:54:22 2017]  say: Redem: visually, it does the thing
+[Fri Feb 24 20:54:39 2017]  say: Redem: there're some features I included too :D
+[Fri Feb 24 20:54:52 2017]  say: ^0Раrk^2^1Qµаkи: oh you contributed to the command?
+[Fri Feb 24 20:54:53 2017]  say: Redem: look
+[Fri Feb 24 20:55:13 2017]  Kill: 1022 2 7: <world> killed ^0Раrk^2^1Qµаkи by MOD_TURBLAST
+[Fri Feb 24 20:55:16 2017]  say: Redem: :p
+[Fri Feb 24 20:55:16 2017]  say: ^0Раrk^2^1Qµаkи: haha
+[Fri Feb 24 20:55:27 2017]  Kill: 1022 2 7: <world> killed ^0Раrk^2^1Qµаkи by MOD_TURBLAST
+[Fri Feb 24 20:55:31 2017]  say: ^0Раrk^2^1Qµаkи: oh yeah
+[Fri Feb 24 20:55:33 2017]  say: ^0Раrk^2^1Qµаkи: that happened
+[Fri Feb 24 20:55:42 2017]  say: Redem: now for shut down
+[Fri Feb 24 20:55:53 2017]  say: Redem: yeah
+[Fri Feb 24 20:56:01 2017]  say: Redem: there
+[Fri Feb 24 20:56:06 2017]  say: ^0Раrk^2^1Qµаkи: so other rotateall stuff?
+[Fri Feb 24 20:56:10 2017]  say: Redem: well
+[Fri Feb 24 20:56:11 2017]  say: ^0Раrk^2^1Qµаkи: like for this whole ship
+[Fri Feb 24 20:56:12 2017]  say: Redem: look
+[Fri Feb 24 20:56:15 2017]  say: ^0Раrk^2^1Qµаkи: can it look good rotating
+[Fri Feb 24 20:56:25 2017]  say: ^0Раrk^2^1Qµаkи: perfect!
+[Fri Feb 24 20:56:34 2017]  say: Redem: yeah
+[Fri Feb 24 20:56:41 2017]  say: Redem: but collisions are now messed up
+[Fri Feb 24 20:56:55 2017]  say: Redem: you can move through walls etc
+[Fri Feb 24 20:56:58 2017]  say: ^0Раrk^2^1Qµаkи: yeh howd you do that without things going weird?
+[Fri Feb 24 20:57:05 2017]  say: Redem: I can't :)
+[Fri Feb 24 20:57:18 2017]  say: Redem: I'm afraid that the flaw of the code itself
+[Fri Feb 24 20:57:18 2017]  say: ^0Раrk^2^1Qµаkи: no I mean what you did was amazing
+[Fri Feb 24 20:57:24 2017]  say: Redem: can't be helped
+[Fri Feb 24 20:57:26 2017]  say: ^0Раrk^2^1Qµаkи: but with my objects it's not as good, I'll show you
+[Fri Feb 24 20:57:28 2017]  say: Redem: thanks
+[Fri Feb 24 20:57:30 2017]  say: ^0Раrk^2^1Qµаkи: with the motorbike
+[Fri Feb 24 20:58:03 2017]  say: Redem: hmm
+[Fri Feb 24 20:58:03 2017]  say: ^0Раrk^2^1Qµаkи: I mean wtf is that haha
+[Fri Feb 24 20:58:14 2017]  say: Redem: i dunn:d
+[Fri Feb 24 20:58:21 2017]  say: Redem: well
+[Fri Feb 24 20:58:39 2017]  say: Redem: hmm
+[Fri Feb 24 20:59:11 2017]  say: ^0Раrk^2^1Qµаkи: I should add sounds to this lol, but another time
+[Fri Feb 24 20:59:16 2017]  say: Redem: a minute, I'll look in ship code, mb will dig something out
+[Fri Feb 24 20:59:29 2017]  say: ^0Раrk^2^1Qµаkи: alright but
+[Fri Feb 24 20:59:33 2017]  say: ^0Раrk^2^1Qµаkи: I gotta go now actually
+[Fri Feb 24 21:00:00 2017]  say: ^0Раrk^2^1Qµаkи: but I'll be back a bit later if  you're still here, you can contact me on the switches at start point :) my email's there
+[Fri Feb 24 21:00:04 2017]  say: ^0Раrk^2^1Qµаkи: but website's down atm
+[Fri Feb 24 21:00:32 2017]  say: Redem: aha
+[Fri Feb 24 21:00:45 2017]  say: ^0Раrk^2^1Qµаkи: soooo much more I wanna do on Makermod but it's not my main game anymore, and pretty dead :(
+[Fri Feb 24 21:00:50 2017]  say: ^0Раrk^2^1Qµаkи: I'm just nostalgic though
+[Fri Feb 24 21:00:56 2017]  say: Redem: me too
+[Fri Feb 24 21:00:57 2017]  say: kosher: whats ur main gmae
+[Fri Feb 24 21:01:04 2017]  say: ^0Раrk^2^1Qµаkи: Titanfall 2 haha and SWTOR
+[Fri Feb 24 21:01:11 2017]  say: Redem: btw
+[Fri Feb 24 21:01:19 2017]  say: Redem: the switches, I can't use them
+[Fri Feb 24 21:01:35 2017]  say: ^0Раrk^2^1Qµаkи: I just did
+[Fri Feb 24 21:01:40 2017]  say: ^0Раrk^2^1Qµаkи: press use button
+[Fri Feb 24 21:01:41 2017]  say: Redem: these?
+[Fri Feb 24 21:01:54 2017]  say: Redem: no response
+[Fri Feb 24 21:01:57 2017]  say: kosher: тут текст тока
+[Fri Feb 24 21:02:01 2017]  say: ^0Раrk^2^1Qµаkи: but look I'm pressing it
+[Fri Feb 24 21:02:09 2017]  say: Redem: ah
+[Fri Feb 24 21:02:14 2017]  say: Redem: it's mscaleme mb
+[Fri Feb 24 21:02:31 2017]  say: ^0Раrk^2^1Qµаkи: mb?
+[Fri Feb 24 21:02:32 2017]  say: Redem: yeah
+[Fri Feb 24 21:02:32 2017]  say: kosher: dl kotor 2
+[Fri Feb 24 21:02:34 2017]  say: Redem: got it
+[Fri Feb 24 21:02:39 2017]  say: kosher: download kotro
+[Fri Feb 24 21:02:43 2017]  say: kosher: download kotor 2
+[Fri Feb 24 21:02:48 2017]  say: kosher: tor shit
+[Fri Feb 24 21:02:56 2017]  say: kosher: swtor shit
+[Fri Feb 24 21:02:58 2017]  say: ^0Раrk^2^1Qµаkи: huh?
+[Fri Feb 24 21:03:00 2017]  say: ^0Раrk^2^1Qµаkи: what about it?
+[Fri Feb 24 21:03:06 2017]  say: ^0Раrk^2^1Qµаkи: I've played kotor
+[Fri Feb 24 21:03:07 2017]  say: kosher: kotor 3 was great
+[Fri Feb 24 21:03:13 2017]  say: ^0Раrk^2^1Qµаkи: not 2, cause was pumped for tor
+[Fri Feb 24 21:03:28 2017]  say: ^0Раrk^2^1Qµаkи: what's this mscaleme mb about?
+[Fri Feb 24 21:03:32 2017]  say: Redem: ah
+[Fri Feb 24 21:03:41 2017]  say: kosher: megabyte
+[Fri Feb 24 21:03:46 2017]  say: Redem: I thought it prevented me from using the ob
+[Fri Feb 24 21:04:01 2017]  say: Redem: have to get on it to read :D
+[Fri Feb 24 21:04:05 2017]  say: ^0Раrk^2^1Qµаkи: yeh can't use at this height
+[Fri Feb 24 21:04:08 2017]  Kill: 1022 3 0: <world> killed kosher by MOD_UNKNOWN
+[Fri Feb 24 21:04:26 2017]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Fri Feb 24 21:04:40 2017]  Kill: 3 3 36: kosher killed kosher by MOD_CRUSH
+[Fri Feb 24 21:04:42 2017]  say: ^0Раrk^2^1Qµаkи: yeh um I'll have to fix the switches sometime
+[Fri Feb 24 21:04:48 2017]  say: ^0Раrk^2^1Qµаkи: to be solely the panels
+[Fri Feb 24 21:04:53 2017]  say: ^0Раrk^2^1Qµаkи: anyway cya l8r guys
+[Fri Feb 24 21:04:56 2017]  say: ^0Раrk^2^1Qµаkи: was fun :)
+[Fri Feb 24 21:04:59 2017]  say: Redem: yea bb
+[Fri Feb 24 21:05:00 2017]  say: Redem: same
+[Fri Feb 24 21:05:05 2017]  say: ^0Раrk^2^1Qµаkи: hopefully we'll work out the rotateall bug
+[Fri Feb 24 21:05:16 2017]  say: kosher: whats bug
+[Fri Feb 24 21:05:17 2017]  say: ^0Раrk^2^1Qµаkи: but yeah, daniel.carnovale@gmail.com if you wanna chat
+[Fri Feb 24 21:05:23 2017]  say: Redem: wait
+[Fri Feb 24 21:05:24 2017]  say: kosher: makermod bug
+[Fri Feb 24 21:05:24 2017]  say: Redem: ah
+[Fri Feb 24 21:05:37 2017]  say: Redem: I'll mail you the solution, it's simple really
+[Fri Feb 24 21:05:41 2017]  Kill: 2 3 5: ^0Раrk^2^1Qµаkи killed kosher by MOD_BRYAR_PISTOL_ALT
+[Fri Feb 24 21:05:43 2017]  say: kosher: whats
+[Fri Feb 24 21:05:44 2017]  say: ^0Раrk^2^1Qµаkи: oh awesome :D thx
+[Fri Feb 24 21:05:48 2017]  say: Redem: np
+[Fri Feb 24 21:05:51 2017]  say: ^0Раrk^2^1Qµаkи: cya then
+[Fri Feb 24 21:05:55 2017]  say: Redem: bb
+[Fri Feb 24 21:05:56 2017]  Kill: 2 3 3: ^0Раrk^2^1Qµаkи killed kosher by MOD_SABER
+[Fri Feb 24 21:06:01 2017]  ClientDisconnect: 0
+[Fri Feb 24 21:06:01 2017]  Kill: 2 3 3: ^0Раrk^2^1Qµаkи killed kosher by MOD_SABER
+[Fri Feb 24 21:06:04 2017]  ClientDisconnect: 2
+[Fri Feb 24 21:06:53 2017]  ClientDisconnect: 3

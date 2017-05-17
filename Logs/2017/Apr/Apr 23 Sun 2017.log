@@ -1,0 +1,74 @@
+[Sun Apr 23 09:04:44 2017]  ------------------------------------------------------------
+[Sun Apr 23 09:04:44 2017]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Apr 25 20:44:06 2017]  ClientConnect: 0
+[Tue Apr 25 20:44:06 2017]  mlog:Player JUST A NIGGA WITH A RPG, connected. With IP - 80.5.122.211:29070 
+[Tue Apr 25 20:44:28 2017]  ClientBegin: 0
+[Tue Apr 25 20:45:48 2017]  ClientDisconnect: 0
+[Wed Apr 26 05:03:02 2017]  ClientConnect: 0
+[Wed Apr 26 05:03:02 2017]  mlog:Player Jayden , connected. With IP - 172.89.226.231:29070 
+[Wed Apr 26 05:03:51 2017]  ClientBegin: 0
+[Wed Apr 26 05:04:02 2017]  print "Jayden^7 @@@PLRENAME Ark
+"[Wed Apr 26 05:04:49 2017]  ClientConnect: 1
+[Wed Apr 26 05:04:49 2017]  mlog:Player Padawan, connected. With IP - 172.88.217.211:29070 
+[Wed Apr 26 05:05:13 2017]  ClientBegin: 1
+[Wed Apr 26 05:05:37 2017]  print "Padawan^7 @@@PLRENAME Cyan
+"[Wed Apr 26 05:07:19 2017]  Kill: 0 1 3: Ark killed Cyan by MOD_SABER
+[Wed Apr 26 05:09:13 2017]  Kill: 1 0 3: Cyan killed Ark by MOD_SABER
+[Wed Apr 26 05:10:59 2017]  Kill: 1 0 3: Cyan killed Ark by MOD_SABER
+[Wed Apr 26 05:12:04 2017]  Kill: 1 0 3: Cyan killed Ark by MOD_SABER
+[Wed Apr 26 05:13:14 2017]  Kill: 0 1 31: Ark killed Cyan by MOD_FORCE_DARK
+[Wed Apr 26 05:14:34 2017]  Kill: 1022 0 38: <world> killed Ark by MOD_FALLING
+[Wed Apr 26 05:15:19 2017]  Kill: 1 0 3: Cyan killed Ark by MOD_SABER
+[Wed Apr 26 05:16:56 2017]  Kill: 1 0 3: Cyan killed Ark by MOD_SABER
+[Wed Apr 26 05:18:10 2017]  Kill: 0 1 31: Ark killed Cyan by MOD_FORCE_DARK
+[Wed Apr 26 05:23:20 2017]  Kill: 1 0 3: Cyan killed Ark by MOD_SABER
+[Wed Apr 26 05:23:53 2017]  Kill: 1 0 3: Cyan killed Ark by MOD_SABER
+[Wed Apr 26 05:24:20 2017]  Kill: 0 1 2: Ark killed Cyan by MOD_MELEE
+[Wed Apr 26 05:24:53 2017]  Kill: 1 0 3: Cyan killed Ark by MOD_SABER
+[Wed Apr 26 05:25:52 2017]  Kill: 1 0 3: Cyan killed Ark by MOD_SABER
+[Wed Apr 26 05:29:02 2017]  Kill: 1 0 3: Cyan killed Ark by MOD_SABER
+[Wed Apr 26 05:31:29 2017]  Kill: 1 0 3: Cyan killed Ark by MOD_SABER
+[Wed Apr 26 05:33:33 2017]  Kill: 1 0 3: Cyan killed Ark by MOD_SABER
+[Wed Apr 26 05:34:26 2017]  Kill: 1 0 3: Cyan killed Ark by MOD_SABER
+[Wed Apr 26 05:34:37 2017]  ClientDisconnect: 0
+[Wed Apr 26 05:34:42 2017]  ClientDisconnect: 1
+[Wed Apr 26 18:02:51 2017]  ClientConnect: 0
+[Wed Apr 26 18:02:51 2017]  mlog:Player ^0Shadow^5seer, connected. With IP - 93.185.17.247:-24662 
+[Wed Apr 26 18:03:12 2017]  ClientBegin: 0
+[Wed Apr 26 18:03:19 2017]  Item: 0 weapon_melee
+[Wed Apr 26 18:03:37 2017]  ClientDisconnect: 0
+[Wed Apr 26 18:10:10 2017]  ClientConnect: 0
+[Wed Apr 26 18:10:10 2017]  mlog:Player ^0Shadow^5seer, connected. With IP - 93.185.17.247:-24662 
+[Wed Apr 26 18:10:29 2017]  ClientBegin: 0
+[Wed Apr 26 18:10:42 2017]  Kill: 0 0 39: ^0Shadow^5seer killed ^0Shadow^5seer by MOD_SUICIDE
+[Wed Apr 26 18:10:53 2017]  Item: 0 weapon_melee
+[Wed Apr 26 18:11:11 2017]  ClientDisconnect: 0
+[Wed Apr 26 18:13:34 2017]  ClientConnect: 0
+[Wed Apr 26 18:13:34 2017]  mlog:Player ^0Shadow^5seer, connected. With IP - 93.185.17.247:-24662 
+[Wed Apr 26 18:13:53 2017]  ClientBegin: 0
+[Wed Apr 26 18:14:03 2017]  Kill: 0 0 39: ^0Shadow^5seer killed ^0Shadow^5seer by MOD_SUICIDE
+[Wed Apr 26 18:14:09 2017]  Item: 0 weapon_melee
+[Wed Apr 26 18:14:28 2017]  ClientDisconnect: 0
+[Wed Apr 26 18:16:21 2017]  ClientConnect: 0
+[Wed Apr 26 18:16:21 2017]  mlog:Player ^0Shadow^5seer, connected. With IP - 93.185.17.247:-24662 
+[Wed Apr 26 18:16:40 2017]  ClientBegin: 0
+[Wed Apr 26 18:16:46 2017]  Item: 0 weapon_melee
+[Wed Apr 26 18:16:59 2017]  ClientDisconnect: 0
+[Fri Apr 28 02:20:11 2017]  ClientConnect: 0
+[Fri Apr 28 02:20:11 2017]  mlog:Player Aark, connected. With IP - 172.89.226.231:29070 
+[Fri Apr 28 02:20:38 2017]  ClientBegin: 0
+[Fri Apr 28 02:23:51 2017]  ClientDisconnect: 0
+[Sat Apr 29 18:19:32 2017]  ClientConnect: 0
+[Sat Apr 29 18:19:32 2017]  mlog:Player FARIT, connected. With IP - 185.13.112.116:23682 
+[Sat Apr 29 18:20:02 2017]  ClientBegin: 0
+[Sat Apr 29 18:20:34 2017]  print "FARIT^7 @@@PLRENAME clover
+"[Sat Apr 29 18:21:59 2017]  ClientConnect: 1
+[Sat Apr 29 18:21:59 2017]  mlog:Player Bratishka, connected. With IP - 95.73.250.242:29070 
+[Sat Apr 29 18:22:26 2017]  ClientBegin: 1
+[Sat Apr 29 18:26:42 2017]  Kill: 1022 0 38: <world> killed clover by MOD_FALLING
+[Sat Apr 29 18:35:16 2017]  Kill: 1 0 3: Bratishka killed clover by MOD_SABER
+[Sat Apr 29 18:36:07 2017]  Kill: 0 1 3: clover killed Bratishka by MOD_SABER
+[Sat Apr 29 18:37:20 2017]  Kill: 1 0 3: Bratishka killed clover by MOD_SABER
+[Sat Apr 29 18:39:32 2017]  Kill: 1 0 3: Bratishka killed clover by MOD_SABER
+[Sat Apr 29 18:39:50 2017]  ClientDisconnect: 0
+[Sat Apr 29 18:40:13 2017]  ClientDisconnect: 1

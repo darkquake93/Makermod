@@ -1,0 +1,164 @@
+[Mon Jan 16 02:57:34 2017]  ------------------------------------------------------------
+[Mon Jan 16 02:57:34 2017]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Jan 16 02:57:36 2017]  ClientConnect: 0
+[Mon Jan 16 02:58:02 2017]  ClientBegin: 0
+[Mon Jan 16 02:59:05 2017]  ClientDisconnect: 0
+[Mon Jan 16 03:39:53 2017]  ClientConnect: 0
+[Mon Jan 16 03:39:53 2017]  mlog:Player Wagon, connected. With IP - 73.19.155.125:29070 
+[Mon Jan 16 03:40:14 2017]  ClientBegin: 0
+[Mon Jan 16 03:40:27 2017]  ClientDisconnect: 0
+[Wed Jan 18 18:10:39 2017]  ClientConnect: 0
+[Wed Jan 18 18:10:39 2017]  mlog:Player ^0Solsth, connected. With IP - 176.157.83.232:29070 
+[Wed Jan 18 18:10:59 2017]  ClientConnect: 1
+[Wed Jan 18 18:10:59 2017]  mlog:Player Elemiah11, connected. With IP - 109.31.199.146:29070 
+[Wed Jan 18 18:11:10 2017]  ClientBegin: 0
+[Wed Jan 18 18:11:14 2017]  ClientBegin: 1
+[Wed Jan 18 18:11:27 2017]  Kill: 0 1 3: ^0Solsth killed Elemiah11 by MOD_SABER
+[Wed Jan 18 18:11:50 2017]  print "^0Solsth^7 @@@PLRENAME ^0SWORN
+"[Wed Jan 18 18:12:45 2017]  Kill: 0 1 3: ^0SWORN killed Elemiah11 by MOD_SABER
+[Wed Jan 18 18:13:00 2017]  say: Elemiah11: npc_spawn reborn
+[Wed Jan 18 18:13:45 2017]  Kill: 1 0 3: Elemiah11 killed ^0SWORN by MOD_SABER
+[Wed Jan 18 18:14:01 2017]  Kill: 1 0 3: Elemiah11 killed ^0SWORN by MOD_SABER
+[Wed Jan 18 18:16:15 2017]  Kill: 0 1 3: ^0SWORN killed Elemiah11 by MOD_SABER
+[Wed Jan 18 18:16:45 2017]  ClientDisconnect: 1
+[Wed Jan 18 18:16:46 2017]  ClientDisconnect: 0
+[Thu Jan 19 04:13:35 2017]  ClientConnect: 0
+[Thu Jan 19 04:13:35 2017]  mlog:Player TuckerUP, connected. With IP - 73.39.20.244:29070 
+[Thu Jan 19 04:13:46 2017]  ClientDisconnect: 0
+[Thu Jan 19 14:43:07 2017]  ClientConnect: 0
+[Thu Jan 19 14:43:07 2017]  mlog:Player 167-671, connected. With IP - 86.52.77.52:29070 
+[Thu Jan 19 14:43:19 2017]  ClientDisconnect: 0
+[Thu Jan 19 23:03:45 2017]  ClientConnect: 0
+[Thu Jan 19 23:03:45 2017]  mlog:Player Padawan, connected. With IP - 69.73.112.33:29070 
+[Thu Jan 19 23:04:11 2017]  ClientBegin: 0
+[Thu Jan 19 23:06:01 2017]  print "Padawan^7 @@@PLRENAME Darez
+"[Thu Jan 19 23:06:57 2017]  ClientDisconnect: 0
+[Fri Jan 20 01:31:44 2017]  ClientConnect: 0
+[Fri Jan 20 01:31:44 2017]  mlog:Player lg(spec), connected. With IP - 169.235.229.196:-2461 
+[Fri Jan 20 01:32:05 2017]  ClientBegin: 0
+[Fri Jan 20 01:33:18 2017]  ClientConnect: 1
+[Fri Jan 20 01:33:18 2017]  mlog:Player ^4C^7or, connected. With IP - 173.176.1.114:29071 
+[Fri Jan 20 01:33:35 2017]  ClientBegin: 1
+[Fri Jan 20 01:33:36 2017]  say: Padawan: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Fri Jan 20 01:33:59 2017]  say: ^0З^7reeD: cheats are enabled
+[Fri Jan 20 01:34:06 2017]  say: ^0З^7reeD: observe!
+[Fri Jan 20 01:34:08 2017]  say: ^0З^7reeD: ^3SANDSTORM!
+[Fri Jan 20 01:34:11 2017]  say: ^0З^7reeD: um
+[Fri Jan 20 01:34:15 2017]  say: ^0З^7reeD: one sec
+[Fri Jan 20 01:34:20 2017]  say: ^0З^7reeD: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Fri Jan 20 01:34:21 2017]  say: ^0З^7reeD: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Fri Jan 20 01:34:24 2017]  say: ^0З^7reeD: uhh
+[Fri Jan 20 01:34:31 2017]  say: ^0З^7reeD: ^2ACID ^3BLAST!
+[Fri Jan 20 01:34:42 2017]  say: ^0З^7reeD: um
+[Fri Jan 20 01:34:49 2017]  say: ^0З^7reeD: idk why it's not working
+[Fri Jan 20 01:35:13 2017]  say: ^0З^7reeD: wtf
+[Fri Jan 20 01:35:16 2017]  say: ^0З^7reeD: one sec
+[Fri Jan 20 01:35:22 2017]  ClientDisconnect: 0
+[Fri Jan 20 01:36:48 2017]  say: Padawan: !entcount
+[Fri Jan 20 01:36:48 2017]  say: Padawan: ^3Ents ^2- ^7Entities in snapshot: 207
+[Fri Jan 20 01:37:32 2017]  ClientConnect: 0
+[Fri Jan 20 01:37:32 2017]  mlog:Player lg(spec), connected. With IP - 169.235.229.196:-2461 
+[Fri Jan 20 01:37:46 2017]  ClientBegin: 0
+[Fri Jan 20 01:37:50 2017]  say: ^0З^7reeD: Good sir
+[Fri Jan 20 01:37:56 2017]  say: ^0З^7reeD: sorry for wasting your time
+[Fri Jan 20 01:38:14 2017]  say: ^0З^7reeD: the servers i visited did not use the script correctly
+[Fri Jan 20 01:38:21 2017]  say: Padawan: Hmmm
+[Fri Jan 20 01:38:28 2017]  say: ^0З^7reeD: which is odd since this is a makermod server
+[Fri Jan 20 01:38:36 2017]  say: ^0З^7reeD: btw makermod is similar to lugormod in that you can build
+[Fri Jan 20 01:38:46 2017]  say: Padawan: I'm familiar with it
+[Fri Jan 20 01:38:49 2017]  say: ^0З^7reeD: !
+[Fri Jan 20 01:38:58 2017]  say: ^0З^7reeD: woah
+[Fri Jan 20 01:39:00 2017]  say: Padawan: Oh I've never built anything
+[Fri Jan 20 01:39:05 2017]  Kill: 1 0 37: Padawan killed ^0З^7reeD by MOD_TELEFRAG
+[Fri Jan 20 01:39:08 2017]  say: ^0З^7reeD: ow
+[Fri Jan 20 01:39:08 2017]  say: Padawan: Hi
+[Fri Jan 20 01:39:13 2017]  say: Padawan: Wow.
+[Fri Jan 20 01:39:17 2017]  say: ^0З^7reeD: this is pretty sick
+[Fri Jan 20 01:39:45 2017]  say: Padawan: Yes it is
+[Fri Jan 20 01:39:55 2017]  say: Padawan: There are some nice building ideas here.
+[Fri Jan 20 01:40:08 2017]  say: ^0З^7reeD: This
+[Fri Jan 20 01:40:11 2017]  say: ^0З^7reeD: I must admit
+[Fri Jan 20 01:40:15 2017]  say: ^0З^7reeD: is rly sick
+[Fri Jan 20 01:40:19 2017]  say: ^0З^7reeD: aseigmsimh
+[Fri Jan 20 01:40:28 2017]  say: ^0З^7reeD: Can you do this?!
+[Fri Jan 20 01:40:34 2017]  say: Padawan: The only thing missing is a few remaps on some objects
+[Fri Jan 20 01:40:39 2017]  say: Padawan: So that it fits together better
+[Fri Jan 20 01:40:52 2017]  say: Padawan: Yea it's possible in lugormod for sure
+[Fri Jan 20 01:41:05 2017]  say: Padawan: This is a well done throne.
+[Fri Jan 20 01:41:17 2017]  say: Padawan: This would also be a good visual for a video.
+[Fri Jan 20 01:41:23 2017]  say: ^0З^7reeD: Yes indeed
+[Fri Jan 20 01:41:35 2017]  say: ^0З^7reeD: anyway i wanted to show you this 'elemental' script i downloaded years ago
+[Fri Jan 20 01:41:39 2017]  say: Padawan: Hats off to the builder!
+[Fri Jan 20 01:41:50 2017]  say: ^0З^7reeD: it will look good if i made it into a video
+[Fri Jan 20 01:41:57 2017]  say: ^0З^7reeD: i already have a demo of it I just need to capture it
+[Fri Jan 20 01:42:37 2017]  say: ^0З^7reeD: a cage
+[Fri Jan 20 01:42:42 2017]  say: ^0З^7reeD: right where you belong
+[Fri Jan 20 01:43:04 2017]  say: Padawan: Did you see the sanctuary?
+[Fri Jan 20 01:43:07 2017]  say: ^0З^7reeD: no
+[Fri Jan 20 01:43:35 2017]  say: Padawan: I like the simple entrance. 
+[Fri Jan 20 01:43:45 2017]  say: ^0З^7reeD: wow
+[Fri Jan 20 01:43:46 2017]  say: Padawan: Would be better if it led to a cavern but it's nice
+[Fri Jan 20 01:44:06 2017]  say: ^0З^7reeD: ME LIKEY
+[Fri Jan 20 01:44:20 2017]  say: ^0З^7reeD: This is like a tavern
+[Fri Jan 20 01:44:25 2017]  say: Padawan: There's a ton of stuff in here
+[Fri Jan 20 01:44:26 2017]  say: Padawan: !entcount
+[Fri Jan 20 01:44:26 2017]  say: Padawan: ^3Ents ^2- ^7Entities in snapshot: 208
+[Fri Jan 20 01:44:47 2017]  say: ^0З^7reeD: Seems like Pika and Soap weren't the only great builders
+[Fri Jan 20 01:45:01 2017]  say: ^0З^7reeD: I really like these builders' ideas
+[Fri Jan 20 01:45:23 2017]  say: Padawan: There's a ton of builders who can create nice environnements. Pika and Soap's maps were a lot of fun though.
+[Fri Jan 20 01:45:29 2017]  say: ^0З^7reeD: These texture collisions tho
+[Fri Jan 20 01:45:35 2017]  say: Padawan: Haha
+[Fri Jan 20 01:45:42 2017]  say: ^0З^7reeD: i dont think they will look good on film xd
+[Fri Jan 20 01:45:48 2017]  say: ^0З^7reeD: yo
+[Fri Jan 20 01:45:56 2017]  say: ^0З^7reeD: this has some lord of the rings elf elements in it
+[Fri Jan 20 01:46:06 2017]  say: Padawan: If you want environnements like that for your movies man, or if you have ideas, just ask. I'm happy to build new environnements
+[Fri Jan 20 01:46:13 2017]  say: ^0З^7reeD: :D
+[Fri Jan 20 01:46:36 2017]  say: ^0З^7reeD: i race u!
+[Fri Jan 20 01:46:39 2017]  say: ^0З^7reeD: to
+[Fri Jan 20 01:46:40 2017]  say: ^0З^7reeD: um...
+[Fri Jan 20 01:46:50 2017]  say: ^0З^7reeD: to the large gap
+[Fri Jan 20 01:46:53 2017]  say: Padawan: I don't lower myself to contesting with blues.
+[Fri Jan 20 01:47:08 2017]  say: Padawan: na'vi scum
+[Fri Jan 20 01:47:10 2017]  say: ^0З^7reeD: Well maybe I can higher myself
+[Fri Jan 20 01:47:17 2017]  say: ^0З^7reeD: Rodian scum
+[Fri Jan 20 01:47:32 2017]  say: ^0З^7reeD: You don't want to do this.
+[Fri Jan 20 01:47:55 2017]  Kill: 1 0 3: Padawan killed ^0З^7reeD by MOD_SABER
+[Fri Jan 20 01:48:03 2017]  say: ^0З^7reeD: lol
+[Fri Jan 20 01:48:07 2017]  say: ^0З^7reeD: makes a nice short vid
+[Fri Jan 20 01:48:10 2017]  say: Padawan: Haha
+[Fri Jan 20 01:48:33 2017]  say: Padawan: Just a question
+[Fri Jan 20 01:48:40 2017]  say: Padawan: Do you like the look of siege_desert?
+[Fri Jan 20 01:48:49 2017]  say: Padawan: My siege_desert I mean though.
+[Fri Jan 20 01:49:05 2017]  say: ^0З^7reeD: yes
+[Fri Jan 20 01:49:25 2017]  say: Padawan: Ok. I sometimes think this is the least ''visual'' map I made
+[Fri Jan 20 01:49:29 2017]  say: ^0З^7reeD: wel lactually i take that back
+[Fri Jan 20 01:49:36 2017]  say: ^0З^7reeD: coz idk what else you're gonna change
+[Fri Jan 20 01:49:41 2017]  say: ^0З^7reeD: but so far it looks good
+[Fri Jan 20 01:49:51 2017]  say: ^0З^7reeD: it has a mysterious kind of feel to it
+[Fri Jan 20 01:49:57 2017]  say: Padawan: Nah but I just mean the remaps, the abandoned city feeling, the sky, etc.
+[Fri Jan 20 01:50:00 2017]  say: Padawan: Oh nice
+[Fri Jan 20 01:50:08 2017]  say: ^0З^7reeD: If i were a new player i would definitely wonder 'what happened here?'
+[Fri Jan 20 01:50:14 2017]  say: Padawan: Nice...
+[Fri Jan 20 01:50:19 2017]  say: ^0З^7reeD: UR FACE IS NICE
+[Fri Jan 20 01:50:22 2017]  say: Padawan: :O
+[Fri Jan 20 01:50:28 2017]  say: ^0З^7reeD: UR FACE IS NICE
+[Fri Jan 20 01:50:31 2017]  say: ^0З^7reeD: UP MY ASS
+[Fri Jan 20 01:50:54 2017]  say: ^0З^7reeD: alrighty good sir
+[Fri Jan 20 01:50:57 2017]  say: ^0З^7reeD: got class soon
+[Fri Jan 20 01:51:09 2017]  say: Padawan: !time
+[Fri Jan 20 01:51:09 2017]  say: Padawan: ^3Time ^2- ^7Current time: ^22017-01-19 8:51:01 PM
+[Fri Jan 20 01:51:09 2017]  say: ^0З^7reeD: thanks for letting me use ur time
+[Fri Jan 20 01:51:17 2017]  say: ^0З^7reeD: actually
+[Fri Jan 20 01:51:24 2017]  say: Padawan: Thx for showing me, even if you didn't show me the scripts
+[Fri Jan 20 01:51:28 2017]  say: ^0З^7reeD: thx for taking the time to let me show u something (which failed)
+[Fri Jan 20 01:51:46 2017]  say: ^0З^7reeD: i honestly wasn't intending to tour the map lol
+[Fri Jan 20 01:51:50 2017]  say: ^0З^7reeD: but overall
+[Fri Jan 20 01:51:50 2017]  say: Padawan: Lol
+[Fri Jan 20 01:51:55 2017]  say: ^0З^7reeD: this is a very scenic map
+[Fri Jan 20 01:52:16 2017]  Kill: 1022 1 38: <world> killed Padawan by MOD_FALLING
+[Fri Jan 20 01:52:18 2017]  Kill: 1022 0 38: <world> killed ^0З^7reeD by MOD_FALLING
+[Fri Jan 20 01:52:46 2017]  say: ^0З^7reeD: btw i dont have mouse
+[Fri Jan 20 01:53:08 2017]  Kill: 0 1 3: ^0З^7reeD killed Padawan by MOD_SABER
+[Fri Jan 20 01:53:31 2017]  say: ^0З^7reeD: bb
+[Fri Jan 20 01:53:46 2017]  ClientDisconnect: 0
+[Fri Jan 20 01:53:49 2017]  ClientDisconnect: 1

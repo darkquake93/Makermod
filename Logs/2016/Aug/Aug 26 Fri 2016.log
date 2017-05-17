@@ -1,0 +1,1768 @@
+[Fri Aug 26 15:56:46 2016]  ------------------------------------------------------------
+[Fri Aug 26 15:56:46 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Aug 26 16:00:18 2016]  ClientConnect: 0
+[Fri Aug 26 16:00:18 2016]  mlog:Player ^0–аrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Fri Aug 26 16:00:41 2016]  ClientBegin: 0
+[Fri Aug 26 16:01:04 2016]  Kill: 0 0 39: ^0–аrk^2^1Qµаkи killed ^0–аrk^2^1Qµаkи by MOD_SUICIDE
+[Fri Aug 26 16:01:04 2016]  setteam:  0 FREE SPECTATOR
+[Fri Aug 26 16:01:04 2016]  ClientBegin: 0
+[Fri Aug 26 16:01:12 2016]  setteam:  0 SPECTATOR FREE
+[Fri Aug 26 16:01:12 2016]  ClientBegin: 0
+[Fri Aug 26 16:01:12 2016]  say: ^0–аrk^2^1Qµаkи: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Fri Aug 26 16:01:57 2016]  say: ^0–аrk^2^1Qµаkи: ^6HALO SCRIPT ^5by ^1µ^2/^0–аrk^1Qµаkи^2/^1S
+[Fri Aug 26 16:02:52 2016]  ClientDisconnect: 0
+[Fri Aug 26 16:52:22 2016]  ClientConnect: 0
+[Fri Aug 26 16:52:22 2016]  mlog:Player ^3(^7Magna^5), connected. With IP - 192.162.35.166:29070 
+[Fri Aug 26 16:53:01 2016]  ClientBegin: 0
+[Fri Aug 26 16:55:40 2016]  Kill: 1022 0 38: <world> killed ^3(^7Magna^5) by MOD_FALLING
+[Fri Aug 26 17:02:11 2016]  Kill: 1022 0 6: <world> killed ^3(^7Magna^5) by MOD_BLASTER
+[Fri Aug 26 17:02:47 2016]  Kill: 1022 0 2: <world> killed ^3(^7Magna^5) by MOD_MELEE
+[Fri Aug 26 17:03:18 2016]  Kill: 1022 0 3: <world> killed ^3(^7Magna^5) by MOD_SABER
+[Fri Aug 26 17:04:03 2016]  Kill: 1022 0 6: <world> killed ^3(^7Magna^5) by MOD_BLASTER
+[Fri Aug 26 17:13:04 2016]  Kill: 0 0 39: ^3(^7Magna^5) killed ^3(^7Magna^5) by MOD_SUICIDE
+[Fri Aug 26 17:13:04 2016]  setteam:  0 FREE SPECTATOR
+[Fri Aug 26 17:13:04 2016]  ClientBegin: 0
+[Fri Aug 26 17:13:11 2016]  setteam:  0 SPECTATOR FREE
+[Fri Aug 26 17:13:11 2016]  ClientBegin: 0
+[Fri Aug 26 17:20:15 2016]  ClientDisconnect: 0
+[Sat Aug 27 11:43:18 2016]  ClientConnect: 0
+[Sat Aug 27 11:43:18 2016]  mlog:Player IG, connected. With IP - 37.45.153.42:-18192 
+[Sat Aug 27 11:43:54 2016]  ClientBegin: 0
+[Sat Aug 27 11:44:05 2016]  print "Padawan^7 @@@PLRENAME starkiller
+"[Sat Aug 27 11:44:11 2016]  ClientDisconnect: 0
+[Sat Aug 27 12:01:26 2016]  ClientConnect: 0
+[Sat Aug 27 12:01:26 2016]  mlog:Player Padawan, connected. With IP - 91.137.205.92:29070 
+[Sat Aug 27 12:01:50 2016]  ClientBegin: 0
+[Sat Aug 27 12:03:20 2016]  say: Padawan: /help
+[Sat Aug 27 12:03:41 2016]  ClientConnect: 1
+[Sat Aug 27 12:03:41 2016]  mlog:Player Szerzetes, connected. With IP - 217.111.59.134:-3602 
+[Sat Aug 27 12:03:41 2016]  ClientDisconnect: 0
+[Sat Aug 27 12:04:04 2016]  ClientBegin: 1
+[Sat Aug 27 12:04:13 2016]  ClientDisconnect: 1
+[Sun Aug 28 09:18:19 2016]  ClientConnect: 0
+[Sun Aug 28 09:18:19 2016]  mlog:Player ^8n!k^9^4!ta, connected. With IP - 37.147.62.249:29070 
+[Sun Aug 28 09:18:32 2016]  ClientConnect: 1
+[Sun Aug 28 09:18:32 2016]  mlog:Player IG, connected. With IP - 178.121.24.167:-9632 
+[Sun Aug 28 09:19:08 2016]  ClientBegin: 0
+[Sun Aug 28 09:19:26 2016]  ClientBegin: 1
+[Sun Aug 28 09:19:30 2016]  say: hnknta [WD]: оо
+[Sun Aug 28 09:19:30 2016]  say: IG: это €
+[Sun Aug 28 09:19:38 2016]  say: hnknta [WD]: класный у мен€ перс)
+[Sun Aug 28 09:19:41 2016]  say: hnknta [WD]: л€н
+[Sun Aug 28 09:20:03 2016]  say: IG: тут есть читы
+[Sun Aug 28 09:20:04 2016]  say: hnknta [WD]: как
+[Sun Aug 28 09:20:11 2016]  say: hnknta [WD]: как
+[Sun Aug 28 09:20:14 2016]  say: IG: это легко
+[Sun Aug 28 09:20:28 2016]  say: IG:  /mplace factory/catw2_B
+[Sun Aug 28 09:20:30 2016]  say: hnknta [WD]: уго
+[Sun Aug 28 09:20:38 2016]  Kill: 0 1 3: hnknta [WD] killed IG by MOD_SABER
+[Sun Aug 28 09:20:41 2016]  say: hnknta [WD]: ухты
+[Sun Aug 28 09:20:49 2016]  say: hnknta [WD]: опана
+[Sun Aug 28 09:20:50 2016]  say: hnknta [WD]: как
+[Sun Aug 28 09:20:53 2016]  say: IG:  /noclip
+[Sun Aug 28 09:21:07 2016]  say: hnknta [WD]: /noclin
+[Sun Aug 28 09:21:11 2016]  say: IG:  /noclip
+[Sun Aug 28 09:21:28 2016]  say: hnknta [WD]: /noliip
+[Sun Aug 28 09:21:31 2016]  say: hnknta [WD]: да блин
+[Sun Aug 28 09:21:33 2016]  say: IG:  /noclip
+[Sun Aug 28 09:21:46 2016]  say: hnknta [WD]: /noclip
+[Sun Aug 28 09:21:53 2016]  say: hnknta [WD]: ”’“џ
+[Sun Aug 28 09:22:12 2016]  say: hnknta [WD]: а где карабл твой
+[Sun Aug 28 09:22:24 2016]  say: IG: он сохранен на которе сервере блин
+[Sun Aug 28 09:22:44 2016]  say: IG: щас
+[Sun Aug 28 09:22:46 2016]  say: hnknta [WD]: о
+[Sun Aug 28 09:22:50 2016]  say: hnknta [WD]: а ета че
+[Sun Aug 28 09:22:58 2016]  say: IG: команды дл€ сохранени€ обектов
+[Sun Aug 28 09:23:00 2016]  say: hnknta [WD]: иди сюда
+[Sun Aug 28 09:23:57 2016]  Kill: 1 0 3: IG killed hnknta [WD] by MOD_SABER
+[Sun Aug 28 09:24:12 2016]  say: hnknta [WD]: иди сюда
+[Sun Aug 28 09:24:26 2016]  say: hnknta [WD]: пашли
+[Sun Aug 28 09:24:38 2016]  say: IG: :D
+[Sun Aug 28 09:24:38 2016]  say: hnknta [WD]: э выпусти
+[Sun Aug 28 09:24:47 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:25:04 2016]  say: hnknta [WD]: как летать
+[Sun Aug 28 09:25:08 2016]  say: IG: смотри
+[Sun Aug 28 09:25:15 2016]  say: IG: напиши /mplace factory/catw2_b
+[Sun Aug 28 09:25:47 2016]  say: hnknta [WD]: и
+[Sun Aug 28 09:25:49 2016]  say: hnknta [WD]: ухты
+[Sun Aug 28 09:25:54 2016]  say: hnknta [WD]: а как ставить
+[Sun Aug 28 09:25:58 2016]  say: IG:  /mdrop
+[Sun Aug 28 09:26:42 2016]  say: hnknta [WD]: ой
+[Sun Aug 28 09:26:47 2016]  say: hnknta [WD]: блин
+[Sun Aug 28 09:26:59 2016]  say: hnknta [WD]: ну хоть не балит
+[Sun Aug 28 09:27:06 2016]  say: hnknta [WD]: э
+[Sun Aug 28 09:27:11 2016]  say: IG: сюда иди
+[Sun Aug 28 09:27:13 2016]  say: hnknta [WD]: выпусти
+[Sun Aug 28 09:27:16 2016]  say: hnknta [WD]: Ќ≈ ћј√”
+[Sun Aug 28 09:27:32 2016]  say: IG: смотри еще прикол
+[Sun Aug 28 09:27:37 2016]  say: hnknta [WD]: го
+[Sun Aug 28 09:27:42 2016]  say: hnknta [WD]: иди сюда
+[Sun Aug 28 09:27:50 2016]  say: hnknta [WD]: памаги иди сюда
+[Sun Aug 28 09:28:02 2016]  say: hnknta [WD]:  јјјјјјјјјјјј 
+[Sun Aug 28 09:28:16 2016]  say: hnknta [WD]: как
+[Sun Aug 28 09:28:17 2016]  say: hnknta [WD]: —ѕј—»
+[Sun Aug 28 09:28:21 2016]  say: IG: увеличение нпс
+[Sun Aug 28 09:28:33 2016]  say: hnknta [WD]: —ѕј—»
+[Sun Aug 28 09:28:42 2016]  say: hnknta [WD]: ааааа
+[Sun Aug 28 09:28:50 2016]  say: hnknta [WD]: ааааааааааааааајјјјјјјјјјјјјјјјјјјјјјјјјјј
+[Sun Aug 28 09:29:03 2016]  say: hnknta [WD]: как ранкора
+[Sun Aug 28 09:29:07 2016]  say: IG:  /npc spawn rancor
+[Sun Aug 28 09:29:31 2016]  say: IG:  /notraget
+[Sun Aug 28 09:29:34 2016]  say: IG: чтобы был за теб€
+[Sun Aug 28 09:29:45 2016]  say: IG: напиши /not
+[Sun Aug 28 09:29:48 2016]  say: IG: ?not
+[Sun Aug 28 09:29:55 2016]  say: IG: быстрее
+[Sun Aug 28 09:29:56 2016]  say: hnknta [WD]: /
+[Sun Aug 28 09:30:15 2016]  say: IG: подойди к ранкору
+[Sun Aug 28 09:30:21 2016]  say: IG:  /mscalet 1-10
+[Sun Aug 28 09:30:22 2016]  say: IG: размер
+[Sun Aug 28 09:31:11 2016]  say: hnknta [WD]: как
+[Sun Aug 28 09:31:18 2016]  say: IG:  /mscalet
+[Sun Aug 28 09:31:22 2016]  say: IG: наведи на ранкра
+[Sun Aug 28 09:31:42 2016]  say: hnknta [WD]: не хочет
+[Sun Aug 28 09:31:52 2016]  say: hnknta [WD]: а он там патамушта
+[Sun Aug 28 09:31:55 2016]  say: hnknta [WD]:  ј 
+[Sun Aug 28 09:32:28 2016]  say: IG: заспавнь нового
+[Sun Aug 28 09:32:33 2016]  say: hnknta [WD]: ок
+[Sun Aug 28 09:33:16 2016]  say: hnknta [WD]: ухты
+[Sun Aug 28 09:33:38 2016]  say: hnknta [WD]: а как увелицеть
+[Sun Aug 28 09:33:46 2016]  say: hnknta [WD]: иди сюда
+[Sun Aug 28 09:33:48 2016]  ClientConnect: 2
+[Sun Aug 28 09:33:48 2016]  mlog:Player ^1Section^8Eight, connected. With IP - 59.101.121.150:29070 
+[Sun Aug 28 09:33:55 2016]  say: hnknta [WD]: о ктото входит
+[Sun Aug 28 09:34:03 2016]  say: IG: смотри
+[Sun Aug 28 09:34:10 2016]  say: hnknta [WD]: где €?
+[Sun Aug 28 09:34:15 2016]  say: hnknta [WD]: ааааааааааааааааааа спасси
+[Sun Aug 28 09:34:21 2016]  ClientBegin: 2
+[Sun Aug 28 09:34:23 2016]  say: IG: My origin is: (-7842 -20871 1474) - You can teleport here with /mtelelast
+
+[Sun Aug 28 09:34:26 2016]  say: IG:  /mtelelast
+[Sun Aug 28 09:34:36 2016]  say: hnknta [WD]: че за хрен тут
+[Sun Aug 28 09:34:38 2016]  print "Tashy P^7 @@@PLRENAME The Lamer-Man
+"[Sun Aug 28 09:34:41 2016]  say: hnknta [WD]: э
+[Sun Aug 28 09:34:42 2016]  Kill: 1 1 39: IG killed IG by MOD_SUICIDE
+[Sun Aug 28 09:34:52 2016]  say: hnknta [WD]: тут двер паднимаеца
+[Sun Aug 28 09:34:59 2016]  say: IG: где
+[Sun Aug 28 09:35:06 2016]  say: hnknta [WD]: арена
+[Sun Aug 28 09:35:26 2016]  say: hnknta [WD]: “”“ ƒј∆≈  –џЎј ≈—“№
+[Sun Aug 28 09:35:30 2016]  say: hnknta [WD]: а тут
+[Sun Aug 28 09:36:01 2016]  say: hnknta [WD]: стой
+[Sun Aug 28 09:36:15 2016]  Kill: 2 0 3: The Lamer-Man killed hnknta [WD] by MOD_SABER
+[Sun Aug 28 09:36:17 2016]  say: The Lamer-Man: lol
+[Sun Aug 28 09:36:41 2016]  Kill: 2 0 3: The Lamer-Man killed hnknta [WD] by MOD_SABER
+[Sun Aug 28 09:36:46 2016]  say: The Lamer-Man: ahaxDD
+[Sun Aug 28 09:36:52 2016]  Kill: 0 1 37: hnknta [WD] killed IG by MOD_TELEFRAG
+[Sun Aug 28 09:36:54 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 09:36:55 2016]  Kill: 2 0 37: The Lamer-Man killed hnknta [WD] by MOD_TELEFRAG
+[Sun Aug 28 09:37:00 2016]  say: IG: это € сделал телепорт
+[Sun Aug 28 09:37:01 2016]  say: The Lamer-Man: xDD
+[Sun Aug 28 09:37:05 2016]  say: hnknta [WD]: € сюда
+[Sun Aug 28 09:37:14 2016]  say: hnknta [WD]: ЋќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќЋ
+[Sun Aug 28 09:37:25 2016]  say: hnknta [WD]:  ЋјƒЅ»Ў≈  ј ќ≈“ќ
+[Sun Aug 28 09:37:27 2016]  say: The Lamer-Man: xD
+[Sun Aug 28 09:37:30 2016]  Kill: 2 2 39: The Lamer-Man killed The Lamer-Man by MOD_SUICIDE
+[Sun Aug 28 09:37:31 2016]  say: hnknta [WD]: —  ј—“ћ»
+[Sun Aug 28 09:37:35 2016]  say: hnknta [WD]: фу
+[Sun Aug 28 09:37:35 2016]  say: The Lamer-Man: AEIAEIOAEIAOEIAEOIAEI
+[Sun Aug 28 09:37:43 2016]  say: IG: это тронный зал
+[Sun Aug 28 09:37:45 2016]  say: hnknta [WD]: € ахерею шас
+[Sun Aug 28 09:37:46 2016]  say: IG: корол€ майкермода
+[Sun Aug 28 09:37:56 2016]  say: IG:  /god
+[Sun Aug 28 09:37:59 2016]  say: IG: введи
+[Sun Aug 28 09:38:01 2016]  say: IG: и ты бесмертный
+[Sun Aug 28 09:38:26 2016]  say: hnknta [WD]: как делать
+[Sun Aug 28 09:38:30 2016]  say: IG:  /god
+[Sun Aug 28 09:38:32 2016]  say: hnknta [WD]: ак летать
+[Sun Aug 28 09:38:41 2016]  say: IG:  /noclip
+[Sun Aug 28 09:38:53 2016]  say: IG:  /not введи
+[Sun Aug 28 09:39:01 2016]  say: hnknta [WD]: вел
+[Sun Aug 28 09:39:04 2016]  say: hnknta [WD]: о
+[Sun Aug 28 09:39:06 2016]  say: The Lamer-Man: xDDDD
+[Sun Aug 28 09:39:10 2016]  say: IG: My origin is: (-13010 -11197 1491) - You can teleport here with /mtelelast
+
+[Sun Aug 28 09:39:14 2016]  say: hnknta [WD]: € летаю по карте
+[Sun Aug 28 09:39:20 2016]  say: IG:  /mtelest
+[Sun Aug 28 09:39:26 2016]  say: hnknta [WD]: че ета
+[Sun Aug 28 09:40:20 2016]  say: hnknta [WD]: ъаъаъаъаъаъаъаахахахаххааххаахаахаха
+[Sun Aug 28 09:40:24 2016]  say: hnknta [WD]: я ¬ –јЌ ќ–≈
+[Sun Aug 28 09:40:29 2016]  say: The Lamer-Man: auauauauauauauauauauauauauauu
+[Sun Aug 28 09:40:34 2016]  say: hnknta [WD]: эм тут митиарит
+[Sun Aug 28 09:40:38 2016]  say: IG: vjq
+[Sun Aug 28 09:40:39 2016]  say: IG: мой
+[Sun Aug 28 09:40:41 2016]  say: hnknta [WD]: а где сам €?
+[Sun Aug 28 09:40:41 2016]  say: The Lamer-Man: xDDD
+[Sun Aug 28 09:40:46 2016]  say: hnknta [WD]: я »Ў≈—
+[Sun Aug 28 09:40:51 2016]  say: hnknta [WD]: √ƒ≈ я
+[Sun Aug 28 09:40:53 2016]  say: The Lamer-Man: AEIEOEU russian aiaoeiaeoaie
+[Sun Aug 28 09:40:58 2016]  say: hnknta [WD]: ћј≈¬ќ “≈Ћј Ќ≈“”
+[Sun Aug 28 09:41:07 2016]  say: The Lamer-Man: AIAIE AIEIAI AIAIAOO
+[Sun Aug 28 09:41:08 2016]  say: hnknta [WD]: спаси
+[Sun Aug 28 09:41:15 2016]  say: hnknta [WD]: ааааааааааааааааааааа
+[Sun Aug 28 09:41:23 2016]  say: hnknta [WD]: я «ј—“–яЋ
+[Sun Aug 28 09:41:24 2016]  say: The Lamer-Man: aaaaaaaaaaaaaaaaaaaaaaaa
+[Sun Aug 28 09:41:24 2016]  say: IG: ты использовал баг невидимости
+[Sun Aug 28 09:41:28 2016]  say: The Lamer-Man: aioeoiaeo
+[Sun Aug 28 09:41:33 2016]  say: hnknta [WD]: нет
+[Sun Aug 28 09:41:34 2016]  Kill: 2 2 39: The Lamer-Man killed The Lamer-Man by MOD_SUICIDE
+[Sun Aug 28 09:41:34 2016]  setteam:  2 FREE SPECTATOR
+[Sun Aug 28 09:41:34 2016]  ClientBegin: 2
+[Sun Aug 28 09:41:37 2016]  say: hnknta [WD]: € нече не вадим
+[Sun Aug 28 09:41:42 2016]  say: IG: невидимый
+[Sun Aug 28 09:41:48 2016]  setteam:  2 SPECTATOR FREE
+[Sun Aug 28 09:41:48 2016]  ClientBegin: 2
+[Sun Aug 28 09:41:48 2016]  Kill: 1022 2 36: <world> killed The Lamer-Man by MOD_CRUSH
+[Sun Aug 28 09:41:50 2016]  Kill: 1022 2 36: <world> killed The Lamer-Man by MOD_CRUSH
+[Sun Aug 28 09:41:51 2016]  say: IG: все
+[Sun Aug 28 09:41:51 2016]  say: hnknta [WD]: да мен€ ранкора сажрал
+[Sun Aug 28 09:42:00 2016]  say: IG: главное не умерай
+[Sun Aug 28 09:42:01 2016]  say: hnknta [WD]: тепер маево тела нет на свете
+[Sun Aug 28 09:42:14 2016]  say: hnknta [WD]: где €
+[Sun Aug 28 09:42:22 2016]  Kill: 2 2 39: The Lamer-Man killed The Lamer-Man by MOD_SUICIDE
+[Sun Aug 28 09:42:22 2016]  setteam:  2 FREE SPECTATOR
+[Sun Aug 28 09:42:22 2016]  ClientBegin: 2
+[Sun Aug 28 09:42:24 2016]  say: IG: где
+[Sun Aug 28 09:42:35 2016]  say: hnknta [WD]: скажи как зделать разрушител империи
+[Sun Aug 28 09:42:37 2016]  say: The Lamer-Man: aeiaoeaieo
+[Sun Aug 28 09:42:42 2016]  say: IG: всмысле
+[Sun Aug 28 09:42:43 2016]  say: hnknta [WD]: \kill
+[Sun Aug 28 09:42:47 2016]  say: IG: не вводи
+[Sun Aug 28 09:42:52 2016]  say: The Lamer-Man: /r_prim -5
+[Sun Aug 28 09:42:53 2016]  say: hnknta [WD]: Ќј ћј»Ќ≈
+[Sun Aug 28 09:42:54 2016]  say: IG: € поставил ловушку
+[Sun Aug 28 09:42:56 2016]  say: The Lamer-Man: AEIAEOIA
+[Sun Aug 28 09:43:03 2016]  say: hnknta [WD]: “џ Ќ≈ “јћ ≈≈ ѕј—“ј¬»Ћ
+[Sun Aug 28 09:43:09 2016]  say: The Lamer-Man: AEIEOAEI IAOEIAEOAI AAII
+[Sun Aug 28 09:43:09 2016]  say: IG: да пусть
+[Sun Aug 28 09:43:12 2016]  say: IG: он умерает
+[Sun Aug 28 09:43:13 2016]  say: The Lamer-Man: yAOEOAEPOA AEOAEAOEPAEOAIAEOAIE
+[Sun Aug 28 09:43:15 2016]  say: IG: и не сможет зайти
+[Sun Aug 28 09:43:17 2016]  say: IG: если что
+[Sun Aug 28 09:43:20 2016]  say: IG:  /ignore lamer
+[Sun Aug 28 09:43:28 2016]  say: The Lamer-Man: /ignore russian
+[Sun Aug 28 09:43:47 2016]  say: hnknta [WD]: спаси
+[Sun Aug 28 09:44:05 2016]  say: hnknta [WD]: я —Ќќ¬ј ∆џ¬””””””””””
+[Sun Aug 28 09:44:15 2016]  say: hnknta [WD]: ты где
+[Sun Aug 28 09:44:38 2016]  say: hnknta [WD]: как код штоп мен€ не трогали?
+[Sun Aug 28 09:45:01 2016]  Kill: 1022 0 2: <world> killed hnknta [WD] by MOD_MELEE
+[Sun Aug 28 09:45:04 2016]  say: The Lamer-Man: xDD
+[Sun Aug 28 09:45:06 2016]  ClientConnect: 3
+[Sun Aug 28 09:45:06 2016]  mlog:Player Padawan, connected. With IP - 178.121.65.222:-17594 
+[Sun Aug 28 09:45:09 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:10 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:11 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:12 2016]  say: The Lamer-Man: hahahahahaahaha
+[Sun Aug 28 09:45:13 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:14 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 09:45:15 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:15 2016]  say: The Lamer-Man: hahaha
+[Sun Aug 28 09:45:16 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:17 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:18 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:20 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:21 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:22 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:23 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:24 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:26 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:27 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:28 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:29 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:30 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:31 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:32 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:34 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:35 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:36 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:37 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:41 2016]  say: hnknta [WD]: харе убери лавушку
+[Sun Aug 28 09:45:42 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:43 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:44 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:45 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:47 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:48 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:49 2016]  say: The Lamer-Man: XDDDDDDDDDDDDDD
+[Sun Aug 28 09:45:49 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:50 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:51 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:53 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:45:54 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:00 2016]  say: hnknta [WD]: килер харе издиваца
+[Sun Aug 28 09:46:01 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:10 2016]  say: The Lamer-Man: AEIAEOIAEOI hahahahahaahahahahaahahahahahahaha
+[Sun Aug 28 09:46:19 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:20 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:21 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:22 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:26 2016]  say: hnknta [WD]:  »Ћ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈–
+[Sun Aug 28 09:46:27 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:28 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:29 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:30 2016]  say: The Lamer-Man: hahahahhahahahaah
+[Sun Aug 28 09:46:31 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:32 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:33 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:34 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:35 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 09:46:38 2016]  setteam:  0 FREE SPECTATOR
+[Sun Aug 28 09:46:38 2016]  ClientBegin: 0
+[Sun Aug 28 09:46:38 2016]  ClientBegin: 3
+[Sun Aug 28 09:46:38 2016]  Kill: 1022 3 36: <world> killed IG by MOD_CRUSH
+[Sun Aug 28 09:46:45 2016]  say: IG: € попалс€ в свою же ловушку
+[Sun Aug 28 09:46:47 2016]  Kill: 1022 3 36: <world> killed IG by MOD_CRUSH
+[Sun Aug 28 09:46:57 2016]  say: hnknta [WD]: так убери ее
+[Sun Aug 28 09:46:57 2016]  ClientDisconnect: 1
+[Sun Aug 28 09:47:01 2016]  say: hnknta [WD]: чего ты
+[Sun Aug 28 09:47:01 2016]  setteam:  2 SPECTATOR FREE
+[Sun Aug 28 09:47:01 2016]  ClientBegin: 2
+[Sun Aug 28 09:47:01 2016]  say: IG: все
+[Sun Aug 28 09:47:03 2016]  setteam:  0 SPECTATOR FREE
+[Sun Aug 28 09:47:03 2016]  ClientBegin: 0
+[Sun Aug 28 09:47:07 2016]  say: hnknta [WD]: бл€ € ахерею
+[Sun Aug 28 09:47:13 2016]  say: IG:  /not
+[Sun Aug 28 09:47:23 2016]  say: hnknta [WD]: все
+[Sun Aug 28 09:47:24 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 09:47:24 2016]  say: The Lamer-Man: hahahaha
+[Sun Aug 28 09:47:36 2016]  Kill: 0 0 39: hnknta [WD] killed hnknta [WD] by MOD_SUICIDE
+[Sun Aug 28 09:47:36 2016]  setteam:  0 FREE SPECTATOR
+[Sun Aug 28 09:47:36 2016]  ClientBegin: 0
+[Sun Aug 28 09:47:41 2016]  say: hnknta [WD]: скажи 
+[Sun Aug 28 09:47:50 2016]  say: IG: что
+[Sun Aug 28 09:47:51 2016]  say: hnknta [WD]: как зделать крейсер
+[Sun Aug 28 09:47:55 2016]  say: hnknta [WD]: любой
+[Sun Aug 28 09:47:57 2016]  setteam:  0 SPECTATOR FREE
+[Sun Aug 28 09:47:57 2016]  ClientBegin: 0
+[Sun Aug 28 09:47:58 2016]  say: IG: )
+[Sun Aug 28 09:48:02 2016]  say: IG: щас попробую
+[Sun Aug 28 09:48:21 2016]  say: hnknta [WD]: /int а
+[Sun Aug 28 09:48:25 2016]  Kill: 2 0 25: The Lamer-Man killed hnknta [WD] by MOD_TRIP_MINE_SPLASH
+[Sun Aug 28 09:48:26 2016]  say: hnknta [WD]: че есть
+[Sun Aug 28 09:48:29 2016]  say: The Lamer-Man: hahahahahah
+[Sun Aug 28 09:48:41 2016]  say: hnknta [WD]: бесмертным как
+[Sun Aug 28 09:48:45 2016]  say: IG:  /god
+[Sun Aug 28 09:48:46 2016]  say: hnknta [WD]: а вр
+[Sun Aug 28 09:48:51 2016]  Kill: 2 0 27: The Lamer-Man killed hnknta [WD] by MOD_DET_PACK_SPLASH
+[Sun Aug 28 09:49:45 2016]  say: The Lamer-Man: r_prim -5
+[Sun Aug 28 09:49:47 2016]  say: IG: ох
+[Sun Aug 28 09:49:51 2016]  say: The Lamer-Man: xDD
+[Sun Aug 28 09:49:52 2016]  say: IG: у мен€ нету креатива
+[Sun Aug 28 09:49:58 2016]  say: IG: ну щас
+[Sun Aug 28 09:50:07 2016]  say: hnknta [WD]: как ставить блоки?
+[Sun Aug 28 09:50:18 2016]  say: hnknta [WD]: скажи как ты эта делаеш
+[Sun Aug 28 09:50:27 2016]  tell: IG to hnknta [WD]: /mplace factory/catw2_b
+[Sun Aug 28 09:50:39 2016]  say: hnknta [WD]: аткуда стока ранкораф?
+[Sun Aug 28 09:50:43 2016]  say: IG: € сейчас разберусь
+[Sun Aug 28 09:50:45 2016]  say: hnknta [WD]: их была всеголиш 2
+[Sun Aug 28 09:51:10 2016]  say: hnknta [WD]: эта че
+[Sun Aug 28 09:51:16 2016]  say: IG: они умрут
+[Sun Aug 28 09:52:02 2016]  say: IG: cnjq
+[Sun Aug 28 09:52:04 2016]  say: IG: стой
+[Sun Aug 28 09:52:07 2016]  say: IG: € щас 1 блок поставлю
+[Sun Aug 28 09:52:09 2016]  say: hnknta [WD]: как переварацивать
+[Sun Aug 28 09:52:17 2016]  say: IG:  /mrotate 90 0 0
+[Sun Aug 28 09:52:23 2016]  say: IG: или другие числа
+[Sun Aug 28 09:52:54 2016]  say: hnknta [WD]: ствавить как?
+[Sun Aug 28 09:52:58 2016]  say: IG:  /mdrop
+[Sun Aug 28 09:53:06 2016]  say: IG: поближе надо было
+[Sun Aug 28 09:53:50 2016]  say: IG: какой построим такой построим)
+[Sun Aug 28 09:53:58 2016]  say: IG: это наш первый будет корабль
+[Sun Aug 28 09:54:40 2016]  say: hnknta [WD]: а как ты так ведеш их?
+[Sun Aug 28 09:54:46 2016]  say: IG: манипул€ци€
+[Sun Aug 28 09:54:46 2016]  say: hnknta [WD]: ани сами как
+[Sun Aug 28 09:54:49 2016]  say: IG: иди сюда
+[Sun Aug 28 09:54:55 2016]  say: IG: ставь платформу
+[Sun Aug 28 09:55:05 2016]  say: IG: ставь
+[Sun Aug 28 09:55:10 2016]  say: hnknta [WD]: все
+[Sun Aug 28 09:55:13 2016]  say: IG:  /mmove 12 0 0
+[Sun Aug 28 09:55:39 2016]  say: IG: 12 это расто€ние между платформами
+[Sun Aug 28 09:55:39 2016]  say: hnknta [WD]: иииииииииииии
+[Sun Aug 28 09:55:41 2016]  say: IG: вот
+[Sun Aug 28 09:55:43 2016]  say: IG: они идут
+[Sun Aug 28 09:55:48 2016]  say: IG: ты ими манипулируешь
+[Sun Aug 28 09:55:52 2016]  say: IG: можно быстро ее отправить
+[Sun Aug 28 09:55:57 2016]  say: IG: смотри
+[Sun Aug 28 09:56:12 2016]  say: hnknta [WD]: а вверх как
+[Sun Aug 28 09:56:28 2016]  say: IG:  /mmove 0 0 и третье число отвечает за верх
+[Sun Aug 28 09:56:30 2016]  say: hnknta [WD]: верх как
+[Sun Aug 28 09:56:37 2016]  say: IG: например /mmove 0 0 12
+[Sun Aug 28 09:57:27 2016]  say: hnknta [WD]: € улетаю
+[Sun Aug 28 09:57:30 2016]  say: IG: есть много разных объектов
+[Sun Aug 28 09:57:46 2016]  say: IG: прикольно
+[Sun Aug 28 09:57:56 2016]  say: IG: есть кстати проще
+[Sun Aug 28 09:57:58 2016]  say: IG: управление
+[Sun Aug 28 09:58:01 2016]  say: IG: смотри
+[Sun Aug 28 09:58:08 2016]  say: IG: наведи камеру на место куда хочешь отправитьс€
+[Sun Aug 28 09:58:17 2016]  say: IG: а теперь просто пиши /mmove и скорость
+[Sun Aug 28 09:58:18 2016]  say: IG: 1 число
+[Sun Aug 28 09:58:23 2016]  say: IG:  /mmove 100
+[Sun Aug 28 09:59:32 2016]  say: hnknta [WD]: да харе
+[Sun Aug 28 10:00:49 2016]  say: The Lamer-Man: hahaa
+[Sun Aug 28 10:01:27 2016]  say: hnknta [WD]: HARE
+[Sun Aug 28 10:02:41 2016]  ClientDisconnect: 3
+[Sun Aug 28 10:03:18 2016]  ClientConnect: 1
+[Sun Aug 28 10:03:18 2016]  mlog:Player Padawan, connected. With IP - 178.121.22.229:6572 
+[Sun Aug 28 10:03:36 2016]  say: hnknta [WD]: килер
+[Sun Aug 28 10:03:39 2016]  say: The Lamer-Man: xDDD
+[Sun Aug 28 10:04:49 2016]  ClientBegin: 1
+[Sun Aug 28 10:04:53 2016]  say: hnknta [WD]: килер
+[Sun Aug 28 10:05:00 2016]  say: hnknta [WD]: этат чувак мен€ заалбал
+[Sun Aug 28 10:05:05 2016]  say: IG: это michael
+[Sun Aug 28 10:05:09 2016]  say: hnknta [WD]: он мешает мне катаца
+[Sun Aug 28 10:05:09 2016]  say: The Lamer-Man: xDDD
+[Sun Aug 28 10:05:15 2016]  say: The Lamer-Man: d
+[Sun Aug 28 10:05:20 2016]  say: IG: € поставлю ловушку
+[Sun Aug 28 10:05:27 2016]  say: hnknta [WD]: у-у
+[Sun Aug 28 10:05:43 2016]  say: hnknta [WD]: вот опть
+[Sun Aug 28 10:05:56 2016]  say: hnknta [WD]: аааааааааааа
+[Sun Aug 28 10:06:03 2016]  say: IG: € сейчас поставлю платформу и ты на нее не становись
+[Sun Aug 28 10:06:26 2016]  say: hnknta [WD]: памаги
+[Sun Aug 28 10:06:39 2016]  say: IG: а
+[Sun Aug 28 10:06:44 2016]  say: hnknta [WD]: да памаги
+[Sun Aug 28 10:06:49 2016]  say: IG: ты где
+[Sun Aug 28 10:06:55 2016]  say: IG: все
+[Sun Aug 28 10:06:58 2016]  say: IG:  /noclip
+[Sun Aug 28 10:07:20 2016]  say: The Lamer-Man: mtele
+[Sun Aug 28 10:07:31 2016]  say: The Lamer-Man: haha you sneaky fucking russian haha
+[Sun Aug 28 10:07:37 2016]  ClientDisconnect: 2
+[Sun Aug 28 10:07:42 2016]  say: IG: все
+[Sun Aug 28 10:07:48 2016]  say: hnknta [WD]: ты где
+[Sun Aug 28 10:07:54 2016]  say: hnknta [WD]: иди на арену
+[Sun Aug 28 10:07:56 2016]  say: IG: cпавн
+[Sun Aug 28 10:08:00 2016]  say: hnknta [WD]: и € там
+[Sun Aug 28 10:08:36 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 10:08:44 2016]  say: hnknta [WD]: го зделаем базу
+[Sun Aug 28 10:08:47 2016]  say: hnknta [WD]: сваю
+[Sun Aug 28 10:08:50 2016]  say: IG: давай
+[Sun Aug 28 10:08:50 2016]  say: hnknta [WD]: тут
+[Sun Aug 28 10:08:51 2016]  say: IG: где
+[Sun Aug 28 10:08:55 2016]  say: hnknta [WD]: здес
+[Sun Aug 28 10:09:29 2016]  say: hnknta [WD]: ой
+[Sun Aug 28 10:09:39 2016]  say: hnknta [WD]: да как ты так выдвигаеш их
+[Sun Aug 28 10:09:48 2016]  say: IG: щас покажу
+[Sun Aug 28 10:09:55 2016]  say: IG:  /mkillall напиши
+[Sun Aug 28 10:10:15 2016]  say: hnknta [WD]: балин
+[Sun Aug 28 10:10:23 2016]  say: hnknta [WD]: как ствит
+[Sun Aug 28 10:10:32 2016]  say: IG: сто йты
+[Sun Aug 28 10:10:36 2016]  say: IG:  /mmark пиши и стой на месте
+[Sun Aug 28 10:10:52 2016]  say: hnknta [WD]: и
+[Sun Aug 28 10:10:59 2016]  say: IG:  /mkillall теперь
+[Sun Aug 28 10:11:20 2016]  say: hnknta [WD]: и
+[Sun Aug 28 10:11:21 2016]  say: IG: сюда иди
+[Sun Aug 28 10:11:27 2016]  say: IG: ставь платформу
+[Sun Aug 28 10:11:34 2016]  say: IG: еще одну ставь
+[Sun Aug 28 10:11:42 2016]  say: IG:  /mmove 12 0 0
+[Sun Aug 28 10:12:02 2016]  say: hnknta [WD]: j
+[Sun Aug 28 10:12:04 2016]  say: IG: cтавь еще
+[Sun Aug 28 10:12:04 2016]  say: hnknta [WD]: о
+[Sun Aug 28 10:12:07 2016]  say: IG: одну платформу
+[Sun Aug 28 10:12:11 2016]  say: IG: эм
+[Sun Aug 28 10:12:14 2016]  say: IG: ты не то написал
+[Sun Aug 28 10:12:19 2016]  say: IG: у теб€ не ровно
+[Sun Aug 28 10:12:25 2016]  say: IG:  /mmove 12 0 0
+[Sun Aug 28 10:12:41 2016]  say: IG: это мо€
+[Sun Aug 28 10:12:48 2016]  say: IG:  ставь платформу
+[Sun Aug 28 10:12:56 2016]  say: IG:  /mmove -12 0 0
+[Sun Aug 28 10:12:59 2016]  say: hnknta [WD]: унечтож ее
+[Sun Aug 28 10:13:20 2016]  say: IG: ты поставь новую платформу!!!!!!!
+[Sun Aug 28 10:13:29 2016]  say: hnknta [WD]: где
+[Sun Aug 28 10:13:40 2016]  say: IG: просто введи команду /mplace factory/catw2_b
+[Sun Aug 28 10:13:46 2016]  say: IG: у теб€ автоматом будут по€вл€тс€ тут
+[Sun Aug 28 10:13:55 2016]  say: IG:  /mmove -12 0 0
+[Sun Aug 28 10:14:02 2016]  say: hnknta [WD]: о
+[Sun Aug 28 10:14:08 2016]  say: IG: еще ставь
+[Sun Aug 28 10:14:14 2016]  say: hnknta [WD]: э
+[Sun Aug 28 10:14:14 2016]  say: IG: € про платформу
+[Sun Aug 28 10:14:23 2016]  say: hnknta [WD]: и
+[Sun Aug 28 10:14:29 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 10:14:34 2016]  say: IG:  /mmove 24 0 0
+[Sun Aug 28 10:14:35 2016]  say: hnknta [WD]: ну пус так
+[Sun Aug 28 10:15:28 2016]  say: hnknta [WD]: лол
+[Sun Aug 28 10:16:24 2016]  say: hnknta [WD]: а крышу как
+[Sun Aug 28 10:16:44 2016]  say: IG: /mmove 0 0 0 первый ноль двигает вперед,второй вбок,третий вверх
+[Sun Aug 28 10:17:41 2016]  say: hnknta [WD]: как паставить верх?
+[Sun Aug 28 10:17:48 2016]  say: IG:  /mmove 0 0 12
+[Sun Aug 28 10:18:45 2016]  say: hnknta [WD]: € пака ранкораф заспавну штоп ахрон€ли
+[Sun Aug 28 10:18:52 2016]  say: hnknta [WD]: еше предет
+[Sun Aug 28 10:19:25 2016]  say: hnknta [WD]: как его спавнить
+[Sun Aug 28 10:19:29 2016]  say: hnknta [WD]: 1
+[Sun Aug 28 10:19:34 2016]  say: hnknta [WD]: не там
+[Sun Aug 28 10:19:36 2016]  say: IG: € сделал чтобы они автоматом по€вл€лись
+[Sun Aug 28 10:19:44 2016]  say: hnknta [WD]: ок
+[Sun Aug 28 10:19:50 2016]  say: IG: тут место спавна
+[Sun Aug 28 10:20:09 2016]  say: IG: пошли строить
+[Sun Aug 28 10:20:25 2016]  say: hnknta [WD]: и как 
+[Sun Aug 28 10:20:40 2016]  say: hnknta [WD]: как строить
+[Sun Aug 28 10:21:12 2016]  say: hnknta [WD]: как строить
+[Sun Aug 28 10:21:19 2016]  say: IG: € же сказал
+[Sun Aug 28 10:21:50 2016]  say: hnknta [WD]: не делает
+[Sun Aug 28 10:22:03 2016]  say: hnknta [WD]: о делает
+[Sun Aug 28 10:22:20 2016]  say: IG: смотри
+[Sun Aug 28 10:22:32 2016]  say: hnknta [WD]: как
+[Sun Aug 28 10:22:38 2016]  say: IG: дверь
+[Sun Aug 28 10:22:48 2016]  say: hnknta [WD]: скажи как
+[Sun Aug 28 10:22:56 2016]  say: hnknta [WD]: нам нужен еше сарай
+[Sun Aug 28 10:23:05 2016]  say: hnknta [WD]: как
+[Sun Aug 28 10:23:13 2016]  say: IG: ставь платформу
+[Sun Aug 28 10:23:20 2016]  say: IG:  /mgrabbing
+[Sun Aug 28 10:23:42 2016]  say: IG:  /mdrop
+[Sun Aug 28 10:23:52 2016]  say: IG:  /mplatform 100
+[Sun Aug 28 10:24:27 2016]  say: hnknta [WD]: b
+[Sun Aug 28 10:24:30 2016]  say: hnknta [WD]: b
+[Sun Aug 28 10:24:31 2016]  say: IG:  /mtouchable
+[Sun Aug 28 10:25:00 2016]  say: hnknta [WD]: b
+[Sun Aug 28 10:25:05 2016]  say: IG: прыгай на нее
+[Sun Aug 28 10:25:06 2016]  say: hnknta [WD]: и
+[Sun Aug 28 10:25:17 2016]  say: IG: сломалась
+[Sun Aug 28 10:25:32 2016]  say: hnknta [WD]: как паварацевать детали
+[Sun Aug 28 10:25:39 2016]  say: IG:  /mrotate 0 0 0
+[Sun Aug 28 10:26:30 2016]  say: hnknta [WD]: во
+[Sun Aug 28 10:27:31 2016]  say: IG: нажми
+[Sun Aug 28 10:27:34 2016]  say: IG: иди сюда
+[Sun Aug 28 10:27:44 2016]  say: hnknta [WD]: как
+[Sun Aug 28 10:27:50 2016]  say: IG: прикольно
+[Sun Aug 28 10:27:54 2016]  say: hnknta [WD]: как так
+[Sun Aug 28 10:28:02 2016]  say: IG: это нужно соеденить предметы
+[Sun Aug 28 10:28:05 2016]  say: IG: смотри
+[Sun Aug 28 10:28:08 2016]  say: IG: иди сюда
+[Sun Aug 28 10:28:23 2016]  say: IG: создай платформу
+[Sun Aug 28 10:28:28 2016]  say: hnknta [WD]: и
+[Sun Aug 28 10:28:39 2016]  say: IG: /mrotate 90 180
+[Sun Aug 28 10:28:42 2016]  say: IG:  /mrotate 90 180 0
+[Sun Aug 28 10:28:58 2016]  say: IG: ставь
+[Sun Aug 28 10:29:01 2016]  say: IG:  /mdrop
+[Sun Aug 28 10:29:21 2016]  say: IG:  /mname dor
+[Sun Aug 28 10:29:33 2016]  say: IG:  /mplatform 120
+[Sun Aug 28 10:29:53 2016]  say: hnknta [WD]: mplatform 120
+[Sun Aug 28 10:30:15 2016]  say: IG:  /mplace imperial/control_panel
+[Sun Aug 28 10:30:51 2016]  say: hnknta [WD]: и
+[Sun Aug 28 10:30:57 2016]  say: IG: ты не так написал
+[Sun Aug 28 10:32:01 2016]  say: IG:  /mdrop
+[Sun Aug 28 10:32:08 2016]  say: IG: /mname dor2
+[Sun Aug 28 10:32:21 2016]  say: hnknta [WD]: и
+[Sun Aug 28 10:32:22 2016]  say: IG:  /musable
+[Sun Aug 28 10:32:30 2016]  say: hnknta [WD]: го зделаем сюрприз
+[Sun Aug 28 10:32:33 2016]  say: IG: стой
+[Sun Aug 28 10:32:35 2016]  say: IG: доконца
+[Sun Aug 28 10:32:40 2016]  say: IG:  /musable
+[Sun Aug 28 10:32:58 2016]  say: IG:  /mconnectto dor2
+[Sun Aug 28 10:33:02 2016]  say: IG: последн€€
+[Sun Aug 28 10:33:06 2016]  say: IG: ой
+[Sun Aug 28 10:33:07 2016]  say: IG: стой
+[Sun Aug 28 10:33:13 2016]  say: IG: /mconnectto dor
+[Sun Aug 28 10:33:15 2016]  say: IG: ¬ќ“
+[Sun Aug 28 10:33:16 2016]  say: IG: ¬ќ“
+[Sun Aug 28 10:33:20 2016]  say: IG: без 2
+[Sun Aug 28 10:33:39 2016]  say: IG:  /mconnectto dor!
+[Sun Aug 28 10:33:41 2016]  say: IG: вот так
+[Sun Aug 28 10:33:42 2016]  say: IG: без 2
+[Sun Aug 28 10:33:45 2016]  say: IG: ты не так написал
+[Sun Aug 28 10:34:07 2016]  say: hnknta [WD]: пус
+[Sun Aug 28 10:34:08 2016]  say: IG: ну почти
+[Sun Aug 28 10:34:12 2016]  say: hnknta [WD]: иди сюда
+[Sun Aug 28 10:34:20 2016]  say: hnknta [WD]: нажымай ту
+[Sun Aug 28 10:34:26 2016]  say: hnknta [WD]: го
+[Sun Aug 28 10:34:27 2016]  say: IG: как
+[Sun Aug 28 10:34:38 2016]  say: IG: это не нажимаетс€
+[Sun Aug 28 10:34:41 2016]  say: hnknta [WD]: так накланис
+[Sun Aug 28 10:34:57 2016]  say: hnknta [WD]: ну
+[Sun Aug 28 10:35:01 2016]  say: IG: не нажимаетс€
+[Sun Aug 28 10:35:07 2016]  say: hnknta [WD]: вадим пака ненажмеца
+[Sun Aug 28 10:35:21 2016]  say: IG: тут просто текст
+[Sun Aug 28 10:35:31 2016]  say: hnknta [WD]: а телек тут зачем?
+[Sun Aug 28 10:35:45 2016]  say: IG: дл€ красоты
+[Sun Aug 28 10:36:16 2016]  say: hnknta [WD]: уго
+[Sun Aug 28 10:36:28 2016]  say: hnknta [WD]: эту карту ты создал?
+[Sun Aug 28 10:36:32 2016]  say: IG: нет
+[Sun Aug 28 10:36:37 2016]  say: IG: € помогал
+[Sun Aug 28 10:36:38 2016]  say: IG: только
+[Sun Aug 28 10:37:08 2016]  say: hnknta [WD]: класна€ карта
+[Sun Aug 28 10:37:27 2016]  say: hnknta [WD]: а как зделать истрибител
+[Sun Aug 28 10:37:31 2016]  say: hnknta [WD]: о у ме€ идет€
+[Sun Aug 28 10:38:15 2016]  say: IG: хз
+[Sun Aug 28 10:38:17 2016]  say: hnknta [WD]: го зделаем зону пасадки дл€ истрибителей?
+[Sun Aug 28 10:38:22 2016]  say: IG: щас
+[Sun Aug 28 10:38:54 2016]  say: hnknta [WD]: лоооооооооооооооооооооооооооол
+[Sun Aug 28 10:38:58 2016]  say: hnknta [WD]: как
+[Sun Aug 28 10:39:01 2016]  Kill: 1022 1 6: <world> killed IG by MOD_BLASTER
+[Sun Aug 28 10:39:06 2016]  say: hnknta [WD]: эмч
+[Sun Aug 28 10:39:10 2016]  say: IG: он по€витс€
+[Sun Aug 28 10:39:24 2016]  say: hnknta [WD]: и как
+[Sun Aug 28 10:39:29 2016]  say: hnknta [WD]: как
+[Sun Aug 28 10:39:35 2016]  Kill: 1022 1 6: <world> killed IG by MOD_BLASTER
+[Sun Aug 28 10:39:38 2016]  say: hnknta [WD]: как скажи
+[Sun Aug 28 10:39:43 2016]  say: IG: /npc spawn vehicle tie-bomber
+[Sun Aug 28 10:40:23 2016]  say: IG: смотри
+[Sun Aug 28 10:40:24 2016]  say: hnknta [WD]: как
+[Sun Aug 28 10:41:25 2016]  say: hnknta [WD]: как
+[Sun Aug 28 10:41:38 2016]  say: hnknta [WD]: как ты так зделал
+[Sun Aug 28 10:41:39 2016]  Kill: 1022 1 6: <world> killed IG by MOD_BLASTER
+[Sun Aug 28 10:41:54 2016]  say: IG:  /npc spawn vehicle tie-bomber
+[Sun Aug 28 10:42:45 2016]  say: hnknta [WD]: а у велицить как
+[Sun Aug 28 10:42:52 2016]  say: IG: наведи на него
+[Sun Aug 28 10:42:56 2016]  say: hnknta [WD]: ну
+[Sun Aug 28 10:42:58 2016]  say: IG: и пиши /mscalet 1-10
+[Sun Aug 28 10:43:09 2016]  say: IG: от 1 до 10
+[Sun Aug 28 10:43:30 2016]  say: IG: что ты пишешь
+[Sun Aug 28 10:43:37 2016]  say: IG: ой
+[Sun Aug 28 10:43:46 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 10:43:51 2016]  Kill: 0 0 6: hnknta [WD] killed hnknta [WD] by MOD_BLASTER
+[Sun Aug 28 10:43:57 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 10:44:05 2016]  say: hnknta [WD]: как
+[Sun Aug 28 10:44:06 2016]  say: hnknta [WD]: јјјјј
+[Sun Aug 28 10:44:11 2016]  say: hnknta [WD]: спаси
+[Sun Aug 28 10:44:28 2016]  say: hnknta [WD]: как
+[Sun Aug 28 10:44:36 2016]  say: hnknta [WD]: —ѕј—»
+[Sun Aug 28 10:44:46 2016]  say: hnknta [WD]: аааааааааааааааааааааааа
+[Sun Aug 28 10:45:00 2016]  say: hnknta [WD]: хух
+[Sun Aug 28 10:45:13 2016]  say: hnknta [WD]: лол
+[Sun Aug 28 10:45:19 2016]  say: hnknta [WD]: как их спавнить
+[Sun Aug 28 10:45:32 2016]  say: hnknta [WD]: € хачу сваево
+[Sun Aug 28 10:45:35 2016]  say: hnknta [WD]: скажи как
+[Sun Aug 28 10:45:44 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 10:45:45 2016]  say: IG:  /npc spawn vehicle rancor_vehicle
+[Sun Aug 28 10:46:26 2016]  say: IG: прыгай на него
+[Sun Aug 28 10:46:35 2016]  say: IG: пр€м на шею
+[Sun Aug 28 10:46:37 2016]  say: IG: высоко
+[Sun Aug 28 10:46:41 2016]  say: hnknta [WD]: убей
+[Sun Aug 28 10:46:43 2016]  say: hnknta [WD]: мен€
+[Sun Aug 28 10:46:47 2016]  Kill: 1 0 3: IG killed hnknta [WD] by MOD_SABER
+[Sun Aug 28 10:46:48 2016]  say: hnknta [WD]: спс
+[Sun Aug 28 10:47:12 2016]  say: hnknta [WD]: а он не бует лапай?
+[Sun Aug 28 10:47:24 2016]  say: IG: наверное нет
+[Sun Aug 28 10:47:57 2016]  say: hnknta [WD]: как тут хилить хп
+[Sun Aug 28 10:48:08 2016]  say: IG:  /give health 100
+[Sun Aug 28 10:48:17 2016]  say: IG:  /give armor 999999
+[Sun Aug 28 10:49:02 2016]  say: hnknta [WD]: эта шит
+[Sun Aug 28 10:49:23 2016]  say: hnknta [WD]: как балшой
+[Sun Aug 28 10:50:46 2016]  say: IG: заморожен
+[Sun Aug 28 10:51:08 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 10:52:09 2016]  say: IG: иди в заморозку
+[Sun Aug 28 10:52:18 2016]  say: hnknta [WD]: и
+[Sun Aug 28 10:52:24 2016]  Kill: 1022 0 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 10:52:43 2016]  say: IG:  /npc kill all
+[Sun Aug 28 10:53:08 2016]  say: hnknta [WD]: л€н
+[Sun Aug 28 10:53:08 2016]  say: IG: € пошел пока
+[Sun Aug 28 10:53:12 2016]  say: hnknta [WD]: пока
+[Sun Aug 28 10:53:13 2016]  say: IG: на лугормоде встретимс€
+[Sun Aug 28 10:53:20 2016]  ClientDisconnect: 1
+[Sun Aug 28 10:53:20 2016]  say: hnknta [WD]: угу
+[Sun Aug 28 10:53:51 2016]  Kill: 0 0 39: hnknta [WD] killed hnknta [WD] by MOD_SUICIDE
+[Sun Aug 28 10:53:51 2016]  setteam:  0 FREE SPECTATOR
+[Sun Aug 28 10:53:51 2016]  ClientBegin: 0
+[Sun Aug 28 10:54:04 2016]  setteam:  0 SPECTATOR FREE
+[Sun Aug 28 10:54:04 2016]  ClientBegin: 0
+[Sun Aug 28 10:57:34 2016]  Kill: 1022 0 38: <world> killed hnknta [WD] by MOD_FALLING
+[Sun Aug 28 11:00:25 2016]  Kill: 1022 0 38: <world> killed hnknta [WD] by MOD_FALLING
+[Sun Aug 28 11:05:20 2016]  Kill: 1022 0 38: <world> killed hnknta [WD] by MOD_FALLING
+[Sun Aug 28 11:41:29 2016]  Kill: 1022 0 38: <world> killed hnknta [WD] by MOD_FALLING
+[Sun Aug 28 12:05:24 2016]  say: hnknta [WD]: no
+[Sun Aug 28 12:05:29 2016]  say: hnknta [WD]: no
+[Sun Aug 28 12:14:53 2016]  say: hnknta [WD]: хэлп
+[Sun Aug 28 12:14:58 2016]  say: hnknta [WD]: хэлпппппппп
+[Sun Aug 28 12:15:19 2016]  say: hnknta [WD]: дабро пажалывать в сервер абелиска!
+[Sun Aug 28 12:27:12 2016]  ClientConnect: 1
+[Sun Aug 28 12:27:12 2016]  mlog:Player Padawan, connected. With IP - 178.121.22.229:9400 
+[Sun Aug 28 12:28:52 2016]  ClientBegin: 1
+[Sun Aug 28 12:29:00 2016]  Kill: 1 1 39: IG killed IG by MOD_SUICIDE
+[Sun Aug 28 12:29:00 2016]  setteam:  1 FREE SPECTATOR
+[Sun Aug 28 12:29:00 2016]  ClientBegin: 1
+[Sun Aug 28 12:29:06 2016]  say: IG: никита
+[Sun Aug 28 12:29:21 2016]  setteam:  1 SPECTATOR FREE
+[Sun Aug 28 12:29:21 2016]  ClientBegin: 1
+[Sun Aug 28 12:30:22 2016]  say: hnknta [WD]: дабро пажалывать в горот абелиска!!! зделан спецална дл€ бездомных людей)
+[Sun Aug 28 12:30:32 2016]  say: hnknta [WD]: хахахахахахахахаххаххахахахахаахахахаххахахахаха
+[Sun Aug 28 12:30:34 2016]  say: IG: € думал ты будешь на лугормоде
+[Sun Aug 28 12:30:53 2016]  print "IG^7 @@@PLRENAME Starkiller[WD]
+"[Sun Aug 28 12:30:58 2016]  say: hnknta [WD]: класную башенку € пастроил да?
+[Sun Aug 28 12:31:01 2016]  say: Starkiller[WD]: ага
+[Sun Aug 28 12:31:05 2016]  say: Starkiller[WD]: только лагало
+[Sun Aug 28 12:31:06 2016]  say: hnknta [WD]: дл€ теб€
+[Sun Aug 28 12:31:12 2016]  say: hnknta [WD]: и у мен€)
+[Sun Aug 28 12:31:24 2016]  say: Starkiller[WD]: € сейчас наверное буду строить
+[Sun Aug 28 12:31:29 2016]  say: hnknta [WD]: и €
+[Sun Aug 28 12:31:40 2016]  say: Starkiller[WD]: давай дом строить?
+[Sun Aug 28 12:31:42 2016]  say: hnknta [WD]: толка € все каманды позабывал)
+[Sun Aug 28 12:31:45 2016]  say: hnknta [WD]: го
+[Sun Aug 28 12:31:59 2016]  say: Starkiller[WD]: напиши /bind h mplace factory/catw2_b
+[Sun Aug 28 12:32:26 2016]  say: hnknta [WD]: все
+[Sun Aug 28 12:32:33 2016]  say: Starkiller[WD]: жми H
+[Sun Aug 28 12:32:35 2016]  say: hnknta [WD]: о
+[Sun Aug 28 12:32:42 2016]  say: hnknta [WD]: сматри вон еше башенка
+[Sun Aug 28 12:33:20 2016]  say: hnknta [WD]: кстати
+[Sun Aug 28 12:33:30 2016]  say: hnknta [WD]: € научилс€ увелицать)
+[Sun Aug 28 12:33:38 2016]  say: hnknta [WD]: € научилс€ делать болше
+[Sun Aug 28 12:33:58 2016]  say: hnknta [WD]: скажи как увелицать болше делать
+[Sun Aug 28 12:34:05 2016]  say: Starkiller[WD]:  /mscalet
+[Sun Aug 28 12:34:06 2016]  say: hnknta [WD]: € научилс€ так делать
+[Sun Aug 28 12:34:22 2016]  say: hnknta [WD]: зделай 1 ранкора
+[Sun Aug 28 12:34:31 2016]  say: Starkiller[WD]: ты только своих можешь
+[Sun Aug 28 12:34:37 2016]  say: hnknta [WD]: блин
+[Sun Aug 28 12:34:46 2016]  say: Starkiller[WD]: напиши /mkillall
+[Sun Aug 28 12:34:50 2016]  say: Starkiller[WD]: это все уберет
+[Sun Aug 28 12:34:52 2016]  say: hnknta [WD]: сматри
+[Sun Aug 28 12:34:59 2016]  say: Starkiller[WD]: хах
+[Sun Aug 28 12:35:10 2016]  say: hnknta [WD]: толка как тепер на него сесть?
+[Sun Aug 28 12:35:19 2016]  say: hnknta [WD]: эту праблему € не решил
+[Sun Aug 28 12:35:24 2016]  say: Starkiller[WD]: иди ко мне
+[Sun Aug 28 12:35:24 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 12:35:29 2016]  say: Starkiller[WD]: My origin is: (-10745 -20866 2439) - You can teleport here with /mtelelast
+
+[Sun Aug 28 12:35:33 2016]  say: Starkiller[WD]:  /mtelelast
+[Sun Aug 28 12:35:48 2016]  say: hnknta [WD]: делай еше
+[Sun Aug 28 12:36:21 2016]  say: hnknta [WD]: сматри как € ипицна палецу
+[Sun Aug 28 12:36:27 2016]  say: hnknta [WD]: в низ
+[Sun Aug 28 12:36:28 2016]  say: Starkiller[WD]: отойди
+[Sun Aug 28 12:36:34 2016]  say: hnknta [WD]: эмц
+[Sun Aug 28 12:36:39 2016]  say: hnknta [WD]: я Ќ≈ Ћ≈„” ¬Ќ»«
+[Sun Aug 28 12:36:47 2016]  say: hnknta [WD]: блин
+[Sun Aug 28 12:37:04 2016]  say: hnknta [WD]: еше
+[Sun Aug 28 12:37:32 2016]  say: hnknta [WD]: хорошо что € научилс€
+[Sun Aug 28 12:37:44 2016]  say: Starkiller[WD]: ага
+[Sun Aug 28 12:37:46 2016]  say: hnknta [WD]: 12 хп асталас
+[Sun Aug 28 12:37:54 2016]  say: hnknta [WD]: посли падени€
+[Sun Aug 28 12:38:02 2016]  say: Starkiller[WD]:  /god
+[Sun Aug 28 12:38:14 2016]  say: hnknta [WD]: ты где
+[Sun Aug 28 12:38:33 2016]  say: hnknta [WD]: чвак ты где?
+[Sun Aug 28 12:38:42 2016]  say: hnknta [WD]: а вон
+[Sun Aug 28 12:38:42 2016]  say: Starkiller[WD]: на спавне
+[Sun Aug 28 12:38:51 2016]  say: hnknta [WD]: убей
+[Sun Aug 28 12:39:11 2016]  say: hnknta [WD]: а ето че
+[Sun Aug 28 12:39:21 2016]  say: hnknta [WD]: ухты
+[Sun Aug 28 12:39:23 2016]  Kill: 1022 0 38: <world> killed hnknta [WD] by MOD_FALLING
+[Sun Aug 28 12:39:58 2016]  say: hnknta [WD]: а ето че?
+[Sun Aug 28 12:40:14 2016]  say: hnknta [WD]: дай €
+[Sun Aug 28 12:40:24 2016]  say: Starkiller[WD]: стой
+[Sun Aug 28 12:40:34 2016]  say: Starkiller[WD]: ты будешь в кубе
+[Sun Aug 28 12:40:43 2016]  say: hnknta [WD]: а че тут делать
+[Sun Aug 28 12:40:46 2016]  say: Starkiller[WD]: щас
+[Sun Aug 28 12:40:50 2016]  say: Starkiller[WD]: залазь в куб
+[Sun Aug 28 12:41:18 2016]  say: Starkiller[WD]: отойди
+[Sun Aug 28 12:41:29 2016]  say: hnknta [WD]: € ша залезу
+[Sun Aug 28 12:41:33 2016]  say: Starkiller[WD]: залазь
+[Sun Aug 28 12:41:49 2016]  say: hnknta [WD]: эта че лифт?
+[Sun Aug 28 12:41:52 2016]  say: Starkiller[WD]: стой
+[Sun Aug 28 12:42:09 2016]  say: Starkiller[WD]: из-за теб€
+[Sun Aug 28 12:42:16 2016]  say: Starkiller[WD]: о
+[Sun Aug 28 12:42:16 2016]  say: hnknta [WD]: че
+[Sun Aug 28 12:42:21 2016]  say: Starkiller[WD]: стой
+[Sun Aug 28 12:42:34 2016]  say: hnknta [WD]: че мы делаем?
+[Sun Aug 28 12:42:45 2016]  say: Starkiller[WD]: лифт в куб
+[Sun Aug 28 12:42:53 2016]  say: Starkiller[WD]: так можно сделать корабль
+[Sun Aug 28 12:42:56 2016]  say: Starkiller[WD]: и такой лифт там
+[Sun Aug 28 12:43:04 2016]  say: hnknta [WD]: сматри как € умею
+[Sun Aug 28 12:43:11 2016]  say: Starkiller[WD]: )
+[Sun Aug 28 12:43:21 2016]  say: hnknta [WD]: видал
+[Sun Aug 28 12:43:24 2016]  say: Starkiller[WD]: да
+[Sun Aug 28 12:43:28 2016]  say: Starkiller[WD]: щас € кое что покажу
+[Sun Aug 28 12:43:31 2016]  say: Starkiller[WD]: когда спустимс€
+[Sun Aug 28 12:43:59 2016]  say: hnknta [WD]: лол
+[Sun Aug 28 12:44:08 2016]  say: hnknta [WD]: € тоже такой хаче
+[Sun Aug 28 12:44:12 2016]  say: hnknta [WD]: хачу
+[Sun Aug 28 12:44:18 2016]  say: Starkiller[WD]: иди сюда
+[Sun Aug 28 12:44:25 2016]  say: Starkiller[WD]: смотри на куб
+[Sun Aug 28 12:44:38 2016]  say: hnknta [WD]: ЋќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќќЋ
+[Sun Aug 28 12:44:51 2016]  say: hnknta [WD]: че ты делаеш
+[Sun Aug 28 12:44:59 2016]  say: hnknta [WD]: кавбута джедай из лега
+[Sun Aug 28 12:45:01 2016]  say: Starkiller[WD]: идем сюда
+[Sun Aug 28 12:45:06 2016]  say: Starkiller[WD]: пиши
+[Sun Aug 28 12:45:09 2016]  say: hnknta [WD]: как детал
+[Sun Aug 28 12:45:13 2016]  say: Starkiller[WD]:  /mrotateall 99999 999999 999999
+[Sun Aug 28 12:45:38 2016]  say: hnknta [WD]: b
+[Sun Aug 28 12:45:39 2016]  say: hnknta [WD]: и
+[Sun Aug 28 12:45:42 2016]  say: Starkiller[WD]: охх
+[Sun Aug 28 12:45:46 2016]  say: Starkiller[WD]: удали объекты
+[Sun Aug 28 12:45:49 2016]  say: Starkiller[WD]:  /mkillall
+[Sun Aug 28 12:46:00 2016]  say: Starkiller[WD]: а € сделаю платформу дл€ корабл€
+[Sun Aug 28 12:46:03 2016]  say: Starkiller[WD]: а ты лифт
+[Sun Aug 28 12:46:06 2016]  say: Starkiller[WD]: ок?
+[Sun Aug 28 12:46:17 2016]  say: hnknta [WD]: ок
+[Sun Aug 28 12:46:29 2016]  say: Starkiller[WD]: стой
+[Sun Aug 28 12:46:31 2016]  say: hnknta [WD]: и как лифт
+[Sun Aug 28 12:46:31 2016]  say: Starkiller[WD]: еще не делай
+[Sun Aug 28 12:46:45 2016]  say: hnknta [WD]: а мы палетим
+[Sun Aug 28 12:46:49 2016]  say: Starkiller[WD]: да
+[Sun Aug 28 12:47:05 2016]  say: hnknta [WD]: € пока палетаю по карте
+[Sun Aug 28 12:47:30 2016]  say: hnknta [WD]: плоха что этат сервер некто не саздавал ранше
+[Sun Aug 28 12:47:37 2016]  say: hnknta [WD]: он крутой
+[Sun Aug 28 12:47:47 2016]  say: hnknta [WD]: вот сагласис
+[Sun Aug 28 12:48:04 2016]  say: hnknta [WD]: мэ
+[Sun Aug 28 12:48:08 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 12:48:31 2016]  say: hnknta [WD]: ана за карта€
+[Sun Aug 28 12:48:41 2016]  say: hnknta [WD]: че ета такое?
+[Sun Aug 28 12:48:55 2016]  say: Starkiller[WD]: ох
+[Sun Aug 28 12:48:58 2016]  say: Starkiller[WD]: € просто искал предметы
+[Sun Aug 28 12:49:23 2016]  say: hnknta [WD]: ухты
+[Sun Aug 28 12:49:30 2016]  say: hnknta [WD]: как
+[Sun Aug 28 12:49:40 2016]  say: Starkiller[WD]:  /mplace rail/view_Panel
+[Sun Aug 28 12:50:34 2016]  say: Starkiller[WD]: cюда ставь
+[Sun Aug 28 12:50:45 2016]  say: Starkiller[WD]: да
+[Sun Aug 28 12:50:46 2016]  say: hnknta [WD]: так
+[Sun Aug 28 12:50:51 2016]  say: hnknta [WD]: ак ставить
+[Sun Aug 28 12:50:55 2016]  say: Starkiller[WD]:  /mdrop
+[Sun Aug 28 12:51:06 2016]  say: Starkiller[WD]:  /musable
+[Sun Aug 28 12:51:07 2016]  say: Starkiller[WD]: пиши
+[Sun Aug 28 12:51:10 2016]  say: hnknta [WD]: эта инструкци€ карабл€
+[Sun Aug 28 12:51:23 2016]  say: hnknta [WD]: и
+[Sun Aug 28 12:51:32 2016]  say: Starkiller[WD]: просто можно нажимать теперь
+[Sun Aug 28 12:51:38 2016]  say: hnknta [WD]: ок
+[Sun Aug 28 12:51:50 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 12:51:53 2016]  say: Starkiller[WD]: пиши /mmove 0 0 100
+[Sun Aug 28 12:52:02 2016]  say: hnknta [WD]: а мен€ забыл
+[Sun Aug 28 12:52:05 2016]  say: hnknta [WD]: ок далецу
+[Sun Aug 28 12:52:12 2016]  say: hnknta [WD]: )
+[Sun Aug 28 12:52:23 2016]  say: Starkiller[WD]: пиши /mmove 0 0 100
+[Sun Aug 28 12:52:46 2016]  say: Starkiller[WD]: летим разведывать карту
+[Sun Aug 28 12:52:50 2016]  say: Starkiller[WD]: стоп
+[Sun Aug 28 12:52:54 2016]  say: Starkiller[WD]: давай € поставлю панель?
+[Sun Aug 28 12:52:59 2016]  say: hnknta [WD]: го
+[Sun Aug 28 12:53:01 2016]  say: Starkiller[WD]: /mkill
+[Sun Aug 28 12:53:24 2016]  say: hnknta [WD]: нет
+[Sun Aug 28 12:53:33 2016]  say: hnknta [WD]: правее
+[Sun Aug 28 12:53:40 2016]  say: hnknta [WD]: еше чучуть
+[Sun Aug 28 12:53:59 2016]  say: hnknta [WD]: кароч паверни ее и атсюда стаф
+[Sun Aug 28 12:54:11 2016]  say: hnknta [WD]: да так
+[Sun Aug 28 12:54:30 2016]  say: hnknta [WD]: Ёћ
+[Sun Aug 28 12:54:30 2016]  say: Starkiller[WD]: ахаххахах
+[Sun Aug 28 12:54:34 2016]  say: hnknta [WD]: ј’ј’ј’’ј’ј’ј’ј’ј’ј’ј’јј’
+[Sun Aug 28 12:54:42 2016]  say: Starkiller[WD]: не медитируй тут
+[Sun Aug 28 12:54:59 2016]  say: Starkiller[WD]: атакавать ранкора!
+[Sun Aug 28 12:55:04 2016]  say: hnknta [WD]: есть
+[Sun Aug 28 12:55:10 2016]  say: Starkiller[WD]:  /not
+[Sun Aug 28 12:55:10 2016]  say: hnknta [WD]: как
+[Sun Aug 28 12:55:12 2016]  say: Starkiller[WD]: пиши
+[Sun Aug 28 12:55:17 2016]  say: hnknta [WD]: /not
+[Sun Aug 28 12:55:18 2016]  say: hnknta [WD]: как
+[Sun Aug 28 12:55:21 2016]  say: Starkiller[WD]: в консоле
+[Sun Aug 28 12:55:22 2016]  say: hnknta [WD]: ты их зделал
+[Sun Aug 28 12:55:23 2016]  say: Starkiller[WD]:  /not
+[Sun Aug 28 12:55:30 2016]  say: hnknta [WD]: как ты их зделал
+[Sun Aug 28 12:55:36 2016]  say: Starkiller[WD]:  /npc spawn stormtrooper
+[Sun Aug 28 12:56:15 2016]  say: hnknta [WD]: ј’’ј’ј’ј
+[Sun Aug 28 12:56:32 2016]  say: Starkiller[WD]: развиваю скорость до 50
+[Sun Aug 28 12:56:44 2016]  say: Starkiller[WD]: до 100
+[Sun Aug 28 12:56:56 2016]  say: Starkiller[WD]: 200
+[Sun Aug 28 12:57:05 2016]  say: Starkiller[WD]: 300
+[Sun Aug 28 12:57:13 2016]  say: Starkiller[WD]: 400
+[Sun Aug 28 12:57:23 2016]  say: Starkiller[WD]: 500
+[Sun Aug 28 12:57:34 2016]  say: Starkiller[WD]: cтоп
+[Sun Aug 28 12:57:34 2016]  say: hnknta [WD]: Ёћ 1 Ў“”–ћј¬»  ”ѕјЋ
+[Sun Aug 28 12:57:45 2016]  say: Starkiller[WD]: нужно разведать территорию
+[Sun Aug 28 12:57:50 2016]  say: Starkiller[WD]: ты со мной?
+[Sun Aug 28 12:57:57 2016]  say: hnknta [WD]: да
+[Sun Aug 28 12:57:59 2016]  say: Starkiller[WD]: жди на корабле лучше
+[Sun Aug 28 12:58:02 2016]  say: Starkiller[WD]: за ними следи
+[Sun Aug 28 12:58:08 2016]  say: Starkiller[WD]: ок?
+[Sun Aug 28 12:58:15 2016]  say: hnknta [WD]: садимс€ на пасадку
+[Sun Aug 28 12:58:31 2016]  say: Starkiller[WD]: ко мне подойди
+[Sun Aug 28 12:58:33 2016]  say: Starkiller[WD]: если ты со мной
+[Sun Aug 28 12:58:36 2016]  say: Starkiller[WD]: аааа
+[Sun Aug 28 12:58:39 2016]  say: hnknta [WD]: садис
+[Sun Aug 28 12:58:41 2016]  say: hnknta [WD]: вниз
+[Sun Aug 28 12:58:46 2016]  say: hnknta [WD]: € толка ахрану паставлю
+[Sun Aug 28 12:59:22 2016]  say: hnknta [WD]: стой
+[Sun Aug 28 12:59:59 2016]  say: Starkiller[WD]: тут была бы у нас хороша€ база
+[Sun Aug 28 13:00:01 2016]  say: hnknta [WD]: база наша
+[Sun Aug 28 13:00:08 2016]  say: hnknta [WD]: тепер эта база
+[Sun Aug 28 13:00:11 2016]  say: hnknta [WD]: и ана наша
+[Sun Aug 28 13:01:26 2016]  say: hnknta [WD]: лоллл
+[Sun Aug 28 13:01:48 2016]  say: Starkiller[WD]: мда
+[Sun Aug 28 13:01:56 2016]  say: hnknta [WD]: а карабл чел
+[Sun Aug 28 13:02:05 2016]  say: Starkiller[WD]: щас
+[Sun Aug 28 13:02:20 2016]  say: hnknta [WD]: а логин тут работает?
+[Sun Aug 28 13:02:22 2016]  say: hnknta [WD]: э
+[Sun Aug 28 13:02:34 2016]  say: hnknta [WD]: левее
+[Sun Aug 28 13:02:37 2016]  say: hnknta [WD]: о
+[Sun Aug 28 13:02:38 2016]  say: hnknta [WD]: к
+[Sun Aug 28 13:02:56 2016]  say: hnknta [WD]: пашли
+[Sun Aug 28 13:03:16 2016]  say: hnknta [WD]: пошли
+[Sun Aug 28 13:03:30 2016]  say: hnknta [WD]: че ета нам пишит
+[Sun Aug 28 13:03:42 2016]  say: Starkiller[WD]: ааа
+[Sun Aug 28 13:03:43 2016]  say: hnknta [WD]: далеко
+[Sun Aug 28 13:04:26 2016]  say: hnknta [WD]: на 2
+[Sun Aug 28 13:04:30 2016]  say: hnknta [WD]: стоп
+[Sun Aug 28 13:04:37 2016]  say: hnknta [WD]: на 3
+[Sun Aug 28 13:04:41 2016]  say: hnknta [WD]: все
+[Sun Aug 28 13:04:46 2016]  say: hnknta [WD]: сто
+[Sun Aug 28 13:05:00 2016]  say: Starkiller[WD]: летим?
+[Sun Aug 28 13:05:05 2016]  say: hnknta [WD]: да
+[Sun Aug 28 13:05:14 2016]  say: hnknta [WD]: хахахахаххаахахаххахахахахахахахаахах
+[Sun Aug 28 13:05:31 2016]  say: Starkiller[WD]: € лифт спущу
+[Sun Aug 28 13:06:10 2016]  say: hnknta [WD]: ниже
+[Sun Aug 28 13:06:18 2016]  say: hnknta [WD]: все паднимай
+[Sun Aug 28 13:07:19 2016]  say: hnknta [WD]: разганйс€ до 1000 сразу 1000
+[Sun Aug 28 13:07:25 2016]  say: Starkiller[WD]: уверен
+[Sun Aug 28 13:07:28 2016]  say: hnknta [WD]: да
+[Sun Aug 28 13:07:49 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 13:07:55 2016]  say: hnknta [WD]: лол
+[Sun Aug 28 13:07:59 2016]  say: hnknta [WD]: € упил
+[Sun Aug 28 13:08:00 2016]  say: Starkiller[WD]: а € говорил
+[Sun Aug 28 13:08:02 2016]  say: Starkiller[WD]: стой
+[Sun Aug 28 13:08:09 2016]  say: hnknta [WD]: ты где
+[Sun Aug 28 13:08:32 2016]  say: hnknta [WD]: ты знал что ты двери сламал нащы?
+[Sun Aug 28 13:08:46 2016]  say: hnknta [WD]: а все € пацинил 1
+[Sun Aug 28 13:08:46 2016]  say: Starkiller[WD]: My origin is: (-17112 -1630 1470) - You can teleport here with /mtelelast
+
+[Sun Aug 28 13:08:49 2016]  say: Starkiller[WD]:  /mtelelast
+[Sun Aug 28 13:09:16 2016]  say: Starkiller[WD]: корабль ломаетс€
+[Sun Aug 28 13:09:19 2016]  say: hnknta [WD]: эм ты его разрушаеш
+[Sun Aug 28 13:09:31 2016]  say: Starkiller[WD]: после такой скорости он взрываетс€
+[Sun Aug 28 13:09:52 2016]  say: hnknta [WD]: лол
+[Sun Aug 28 13:09:58 2016]  say: Starkiller[WD]: красиво взорвалс€
+[Sun Aug 28 13:09:59 2016]  say: hnknta [WD]: го еше зделаем а € памагу
+[Sun Aug 28 13:10:02 2016]  say: hnknta [WD]: да
+[Sun Aug 28 13:10:18 2016]  say: Starkiller[WD]: тут
+[Sun Aug 28 13:10:31 2016]  say: hnknta [WD]: € памагаю
+[Sun Aug 28 13:10:33 2016]  say: Starkiller[WD]: нажми H
+[Sun Aug 28 13:10:39 2016]  say: hnknta [WD]: и
+[Sun Aug 28 13:10:41 2016]  say: hnknta [WD]: и че
+[Sun Aug 28 13:10:45 2016]  say: Starkiller[WD]:  /mgrabbing
+[Sun Aug 28 13:10:59 2016]  say: hnknta [WD]: и
+[Sun Aug 28 13:10:59 2016]  say: Starkiller[WD]: жми H
+[Sun Aug 28 13:11:03 2016]  say: hnknta [WD]: нажал
+[Sun Aug 28 13:11:06 2016]  say: hnknta [WD]: и че
+[Sun Aug 28 13:11:06 2016]  say: Starkiller[WD]: блин
+[Sun Aug 28 13:11:11 2016]  say: Starkiller[WD]: снова вводи /mgrabbing
+[Sun Aug 28 13:11:17 2016]  say: hnknta [WD]: и
+[Sun Aug 28 13:11:20 2016]  say: hnknta [WD]: нажал н
+[Sun Aug 28 13:11:22 2016]  say: Starkiller[WD]: уже ничего
+[Sun Aug 28 13:11:29 2016]  say: Starkiller[WD]: € думал ты забиндил
+[Sun Aug 28 13:11:39 2016]  say: Starkiller[WD]: и если бы нажимал H по€вл€лась бы платформа
+[Sun Aug 28 13:11:40 2016]  say: hnknta [WD]: как ставить лудше скажи
+[Sun Aug 28 13:11:57 2016]  say: hnknta [WD]: как ее делать
+[Sun Aug 28 13:12:02 2016]  say: Starkiller[WD]: напиши /bind h mplace factory/catw2_B
+[Sun Aug 28 13:12:32 2016]  say: hnknta [WD]: и
+[Sun Aug 28 13:12:34 2016]  say: Starkiller[WD]: о
+[Sun Aug 28 13:12:35 2016]  say: hnknta [WD]: ќ ѕјЌј
+[Sun Aug 28 13:12:38 2016]  say: Starkiller[WD]: теперь
+[Sun Aug 28 13:12:42 2016]  say: Starkiller[WD]:  /bind j mdrop
+[Sun Aug 28 13:12:57 2016]  say: hnknta [WD]: и
+[Sun Aug 28 13:13:00 2016]  say: Starkiller[WD]: жми J
+[Sun Aug 28 13:13:08 2016]  say: hnknta [WD]: о спасиба
+[Sun Aug 28 13:13:20 2016]  say: Starkiller[WD]: ты свой корабль построй
+[Sun Aug 28 13:14:01 2016]  say: hnknta [WD]: как перевернуть
+[Sun Aug 28 13:14:09 2016]  say: Starkiller[WD]:  /mrotate 90 0 0
+[Sun Aug 28 13:14:43 2016]  say: hnknta [WD]: таблица
+[Sun Aug 28 13:14:49 2016]  say: Starkiller[WD]: что
+[Sun Aug 28 13:15:19 2016]  say: Starkiller[WD]: теперь взлет
+[Sun Aug 28 13:15:27 2016]  say: hnknta [WD]: как
+[Sun Aug 28 13:15:29 2016]  say: Starkiller[WD]:  /mmoveall 0 0 100
+[Sun Aug 28 13:15:59 2016]  say: Starkiller[WD]: cnjq
+[Sun Aug 28 13:16:03 2016]  say: Starkiller[WD]: /mmoveall 400
+[Sun Aug 28 13:16:07 2016]  say: Starkiller[WD]: пиши
+[Sun Aug 28 13:16:15 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 13:16:19 2016]  say: hnknta [WD]: јЏј’ј’ј’ј’’ј’ј’ј’јј’ј’’ј’ј
+[Sun Aug 28 13:16:26 2016]  say: Starkiller[WD]: лучше 300
+[Sun Aug 28 13:16:27 2016]  say: hnknta [WD]: кто мне сламал карабл
+[Sun Aug 28 13:16:38 2016]  say: hnknta [WD]: 500
+[Sun Aug 28 13:16:43 2016]  say: Starkiller[WD]: ааа
+[Sun Aug 28 13:16:47 2016]  say: hnknta [WD]: а сейцас будет супер
+[Sun Aug 28 13:16:52 2016]  say: Starkiller[WD]: мы умрем
+[Sun Aug 28 13:16:55 2016]  say: Starkiller[WD]: стой
+[Sun Aug 28 13:16:57 2016]  say: Starkiller[WD]: стоййй!
+[Sun Aug 28 13:16:59 2016]  say: Starkiller[WD]: —“ќ…
+[Sun Aug 28 13:17:08 2016]  say: Starkiller[WD]: ну вот
+[Sun Aug 28 13:17:15 2016]  say: Starkiller[WD]: строй еще
+[Sun Aug 28 13:17:16 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 13:17:28 2016]  say: hnknta [WD]: вон Ўј“јЋ –≈–јЌј
+[Sun Aug 28 13:17:34 2016]  say: hnknta [WD]: јјјјјјјјјјјјјјјјјјјјјјјјј
+[Sun Aug 28 13:17:41 2016]  say: hnknta [WD]: ¬ќЌ
+[Sun Aug 28 13:18:04 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 13:18:16 2016]  say: hnknta [WD]: ой
+[Sun Aug 28 13:18:22 2016]  say: hnknta [WD]: € их нах паслал
+[Sun Aug 28 13:19:07 2016]  say: hnknta [WD]: € делаю двайной блок
+[Sun Aug 28 13:19:50 2016]  say: Starkiller[WD]: напиши
+[Sun Aug 28 13:19:51 2016]  say: hnknta [WD]: € делаю
+[Sun Aug 28 13:19:56 2016]  say: hnknta [WD]: 1 блок
+[Sun Aug 28 13:19:59 2016]  say: hnknta [WD]: 2 блок
+[Sun Aug 28 13:20:20 2016]  say: hnknta [WD]: на он мне не нужен)
+[Sun Aug 28 13:21:15 2016]  say: Starkiller[WD]:  /mbreakableall 200
+[Sun Aug 28 13:21:17 2016]  say: Starkiller[WD]: напиши
+[Sun Aug 28 13:21:22 2016]  say: hnknta [WD]: все
+[Sun Aug 28 13:21:32 2016]  say: Starkiller[WD]: написал?
+[Sun Aug 28 13:21:35 2016]  say: hnknta [WD]: нет
+[Sun Aug 28 13:21:39 2016]  say: hnknta [WD]: € делаю карабл
+[Sun Aug 28 13:21:40 2016]  say: Starkiller[WD]: напиши
+[Sun Aug 28 13:21:42 2016]  say: Starkiller[WD]: ладно
+[Sun Aug 28 13:21:44 2016]  say: hnknta [WD]: шас
+[Sun Aug 28 13:21:54 2016]  say: hnknta [WD]: € стол зделал
+[Sun Aug 28 13:22:08 2016]  say: Starkiller[WD]:  /mbreakableall 200
+[Sun Aug 28 13:22:50 2016]  say: hnknta [WD]: и
+[Sun Aug 28 13:23:00 2016]  say: hnknta [WD]: э
+[Sun Aug 28 13:23:08 2016]  say: hnknta [WD]: не ламай(
+[Sun Aug 28 13:23:10 2016]  say: Starkiller[WD]: можно рушить теперь
+[Sun Aug 28 13:23:22 2016]  say: Starkiller[WD]: ты дал объектам 200 хп
+[Sun Aug 28 13:23:36 2016]  say: hnknta [WD]: тепер у них 10000000000000 хп
+[Sun Aug 28 13:23:55 2016]  say: Starkiller[WD]: взлет
+[Sun Aug 28 13:23:57 2016]  say: hnknta [WD]: палетели
+[Sun Aug 28 13:23:59 2016]  say: Starkiller[WD]: ¬«Ћ≈“
+[Sun Aug 28 13:24:14 2016]  say: hnknta [WD]: взлетаю
+[Sun Aug 28 13:24:17 2016]  say: hnknta [WD]: а эта
+[Sun Aug 28 13:24:19 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 13:24:22 2016]  say: hnknta [WD]: „„≈ «ј 
+[Sun Aug 28 13:24:28 2016]  say: hnknta [WD]: ѕј »Ќ”“№  ј–јЅЋ
+[Sun Aug 28 13:24:39 2016]  say: hnknta [WD]: ѕј »Ќ”“№  ј–јЅЋ!!!!!!!!!
+[Sun Aug 28 13:25:16 2016]  say: hnknta [WD]: а как зделат чтоп ани были не разрушаемые
+[Sun Aug 28 13:25:24 2016]  say: Starkiller[WD]: уже никак
+[Sun Aug 28 13:25:28 2016]  say: Starkiller[WD]: надо это не писать
+[Sun Aug 28 13:25:50 2016]  say: hnknta [WD]: хахахахахаххаххахахахахахахаахахах
+[Sun Aug 28 13:25:55 2016]  say: hnknta [WD]: как ты такой
+[Sun Aug 28 13:26:01 2016]  say: Starkiller[WD]: это дает все силы
+[Sun Aug 28 13:26:03 2016]  say: Starkiller[WD]:  /mempower
+[Sun Aug 28 13:27:43 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 13:28:00 2016]  say: hnknta [WD]: так
+[Sun Aug 28 13:28:02 2016]  say: Starkiller[WD]: он сверху
+[Sun Aug 28 13:28:03 2016]  say: hnknta [WD]: иди сматри
+[Sun Aug 28 13:28:25 2016]  say: hnknta [WD]: как сламать эта
+[Sun Aug 28 13:28:34 2016]  say: hnknta [WD]: как эта атменить
+[Sun Aug 28 13:28:39 2016]  say: Starkiller[WD]:  /mkillall
+[Sun Aug 28 13:28:53 2016]  say: hnknta [WD]: э
+[Sun Aug 28 13:32:17 2016]  say: hnknta [WD]: все
+[Sun Aug 28 13:32:20 2016]  say: hnknta [WD]: эта куб
+[Sun Aug 28 13:32:25 2016]  say: hnknta [WD]: залас
+[Sun Aug 28 13:32:46 2016]  say: Starkiller[WD]:  /mmoveall 0 0 100
+[Sun Aug 28 13:32:47 2016]  say: hnknta [WD]: как аткрыть
+[Sun Aug 28 13:33:06 2016]  say: hnknta [WD]: аткрытть как
+[Sun Aug 28 13:33:10 2016]  say: hnknta [WD]: мой куб
+[Sun Aug 28 13:33:11 2016]  say: Starkiller[WD]:  /mmove 0 0 12
+[Sun Aug 28 13:33:44 2016]  say: hnknta [WD]: как паехать
+[Sun Aug 28 13:33:50 2016]  say: Starkiller[WD]:  /mmoveall 0 0 100
+[Sun Aug 28 13:34:58 2016]  say: Starkiller[WD]:  /mpendulum 199999 19999 19999
+[Sun Aug 28 13:34:58 2016]  say: hnknta [WD]: а внис как закрыть
+[Sun Aug 28 13:35:30 2016]  say: Starkiller[WD]: закрыть /mmove 0 0 -12
+[Sun Aug 28 13:36:18 2016]  say: Starkiller[WD]: € придумал супер куб
+[Sun Aug 28 13:36:25 2016]  say: hnknta [WD]: € памагу
+[Sun Aug 28 13:36:32 2016]  say: Starkiller[WD]: мне одному нужно
+[Sun Aug 28 13:36:38 2016]  say: hnknta [WD]: ок
+[Sun Aug 28 13:36:50 2016]  say: hnknta [WD]: € ранкора спавн
+[Sun Aug 28 13:37:30 2016]  say: hnknta [WD]: как болше его
+[Sun Aug 28 13:37:37 2016]  say: Starkiller[WD]:  /mscalet
+[Sun Aug 28 13:37:52 2016]  say: hnknta [WD]: хаххахахахахахахаххахахааха
+[Sun Aug 28 13:37:54 2016]  say: Starkiller[WD]: cделай меньше
+[Sun Aug 28 13:37:56 2016]  say: hnknta [WD]: шас убера
+[Sun Aug 28 13:38:04 2016]  say: hnknta [WD]: как заагрить его
+[Sun Aug 28 13:38:10 2016]  say: Starkiller[WD]:  /npc kill all
+[Sun Aug 28 13:38:15 2016]  say: hnknta [WD]: э
+[Sun Aug 28 13:38:27 2016]  say: hnknta [WD]: заагрить как
+[Sun Aug 28 13:38:34 2016]  say: hnknta [WD]: чтоп он атакавал
+[Sun Aug 28 13:38:37 2016]  say: hnknta [WD]: мен€
+[Sun Aug 28 13:38:44 2016]  say: Starkiller[WD]:  /not
+[Sun Aug 28 13:39:16 2016]  say: hnknta [WD]: агромный такой
+[Sun Aug 28 13:39:23 2016]  say: Starkiller[WD]: € в кубе спр€талс€
+[Sun Aug 28 13:39:30 2016]  say: hnknta [WD]: аткрой
+[Sun Aug 28 13:39:34 2016]  say: hnknta [WD]: впусти
+[Sun Aug 28 13:39:50 2016]  say: hnknta [WD]: ша
+[Sun Aug 28 13:40:18 2016]  say: hnknta [WD]: а как залесть
+[Sun Aug 28 13:40:38 2016]  say: Starkiller[WD]: закрытие через 10 секунд
+[Sun Aug 28 13:41:09 2016]  say: hnknta [WD]: атадвинс€
+[Sun Aug 28 13:41:14 2016]  say: Starkiller[WD]: выруби ноклип тут
+[Sun Aug 28 13:41:21 2016]  say: hnknta [WD]: вырубил
+[Sun Aug 28 13:41:24 2016]  say: Starkiller[WD]: надо увеличить куб
+[Sun Aug 28 13:41:42 2016]  say: hnknta [WD]: нах пашол)
+[Sun Aug 28 13:42:05 2016]  say: Starkiller[WD]: короче никак
+[Sun Aug 28 13:42:10 2016]  say: Starkiller[WD]: но зато
+[Sun Aug 28 13:42:13 2016]  say: Starkiller[WD]: смотри
+[Sun Aug 28 13:42:36 2016]  say: hnknta [WD]: как
+[Sun Aug 28 13:43:19 2016]  say: hnknta [WD]: жопа
+[Sun Aug 28 13:43:29 2016]  say: hnknta [WD]: ¬јЌя —ѕј—ј…
+[Sun Aug 28 13:44:09 2016]  say: hnknta [WD]:  ты тамм зделал
+[Sun Aug 28 13:44:15 2016]  say: hnknta [WD]: че
+[Sun Aug 28 13:44:16 2016]  say: Starkiller[WD]: да
+[Sun Aug 28 13:44:55 2016]  say: hnknta [WD]: аааа
+[Sun Aug 28 13:45:36 2016]  say: Starkiller[WD]: где ты
+[Sun Aug 28 13:45:45 2016]  say: hnknta [WD]: у ранкораф
+[Sun Aug 28 13:45:50 2016]  say: hnknta [WD]: каторыйе эрать хат€ть
+[Sun Aug 28 13:46:33 2016]  say: Starkiller[WD]: где ты
+[Sun Aug 28 13:46:35 2016]  say: hnknta [WD]: спаси
+[Sun Aug 28 13:46:44 2016]  say: hnknta [WD]: там где 2 ранкор
+[Sun Aug 28 13:46:55 2016]  say: hnknta [WD]: вы мен€ трел€ют
+[Sun Aug 28 13:46:56 2016]  say: Starkiller[WD]: труперы начать стрельбу!
+[Sun Aug 28 13:46:58 2016]  say: hnknta [WD]: опана
+[Sun Aug 28 13:47:15 2016]  say: Starkiller[WD]: атака!
+[Sun Aug 28 13:47:41 2016]  say: Starkiller[WD]: т€жела€ артилери€
+[Sun Aug 28 13:48:18 2016]  say: hnknta [WD]: € зделаю истрибител
+[Sun Aug 28 13:48:21 2016]  say: hnknta [WD]: и улечу
+[Sun Aug 28 13:48:33 2016]  say: hnknta [WD]: как лететь
+[Sun Aug 28 13:48:46 2016]  say: Starkiller[WD]: cпускаю трандошанов на бой!
+[Sun Aug 28 13:48:53 2016]  say: Starkiller[WD]: никита
+[Sun Aug 28 13:48:55 2016]  say: Starkiller[WD]: ты вообще где
+[Sun Aug 28 13:48:55 2016]  say: hnknta [WD]: че
+[Sun Aug 28 13:49:01 2016]  say: Starkiller[WD]: My origin is: (-6601 21845 2285) - You can teleport here with /mtelelast
+
+[Sun Aug 28 13:49:15 2016]  say: hnknta [WD]: куда сматрит балшой ранкора € там
+[Sun Aug 28 13:49:26 2016]  say: Starkiller[WD]: хорошо
+[Sun Aug 28 13:49:28 2016]  say: Starkiller[WD]: жди
+[Sun Aug 28 13:49:34 2016]  say: hnknta [WD]: как лететь 
+[Sun Aug 28 13:49:38 2016]  say: Starkiller[WD]: щас
+[Sun Aug 28 13:49:45 2016]  say: hnknta [WD]: скажи как лететь
+[Sun Aug 28 13:49:49 2016]  say: hnknta [WD]: ааааааааааааа
+[Sun Aug 28 13:49:53 2016]  say: hnknta [WD]: Ѕџ—“–≈≈≈
+[Sun Aug 28 13:50:01 2016]  say: Starkiller[WD]:  /mmoveall 0 0 100
+[Sun Aug 28 13:50:18 2016]  say: Starkiller[WD]: ооо
+[Sun Aug 28 13:50:20 2016]  say: hnknta [WD]: а вперед как
+[Sun Aug 28 13:50:23 2016]  say: Starkiller[WD]: спускаю трандошанов!
+[Sun Aug 28 13:50:40 2016]  say: hnknta [WD]: аткуда гранатамоты
+[Sun Aug 28 13:50:46 2016]  say: hnknta [WD]:  ј  Ћ≈“≈“№ ¬ѕ≈–≈“
+[Sun Aug 28 13:50:48 2016]  say: Starkiller[WD]: cолдаты
+[Sun Aug 28 13:50:54 2016]  say: Starkiller[WD]:  /mmoveall 100
+[Sun Aug 28 13:51:21 2016]  say: hnknta [WD]: —ёƒј
+[Sun Aug 28 13:51:24 2016]  say: hnknta [WD]: Ќј ћќ…  ј–јЅЋ
+[Sun Aug 28 13:52:17 2016]  say: Starkiller[WD]: твой корабль
+[Sun Aug 28 13:52:20 2016]  say: Starkiller[WD]: опусти немного
+[Sun Aug 28 13:52:27 2016]  say: Starkiller[WD]: или ранкора убей
+[Sun Aug 28 13:52:33 2016]  say: hnknta [WD]: блин
+[Sun Aug 28 13:52:44 2016]  say: hnknta [WD]: внис
+[Sun Aug 28 13:52:49 2016]  say: hnknta [WD]: как апустить
+[Sun Aug 28 13:53:01 2016]  say: Starkiller[WD]:  /mmoveall 0 0 -100
+[Sun Aug 28 13:53:16 2016]  say: hnknta [WD]: а че по мне
+[Sun Aug 28 13:53:33 2016]  say: hnknta [WD]: верх как
+[Sun Aug 28 13:53:57 2016]  say: hnknta [WD]: взлететь как
+[Sun Aug 28 13:54:10 2016]  say: Starkiller[WD]:  /mmoveall 0 0 100
+[Sun Aug 28 13:54:10 2016]  say: hnknta [WD]: во
+[Sun Aug 28 13:54:24 2016]  say: hnknta [WD]: мы улетаем
+[Sun Aug 28 13:54:56 2016]  say: hnknta [WD]: атступаем
+[Sun Aug 28 13:54:58 2016]  say: Starkiller[WD]: огонь!!!
+[Sun Aug 28 13:55:53 2016]  say: Starkiller[WD]: ты где
+[Sun Aug 28 13:56:00 2016]  say: hnknta [WD]: пытаюс улететь
+[Sun Aug 28 13:56:27 2016]  say: hnknta [WD]: как убрать все блоки
+[Sun Aug 28 13:56:31 2016]  say: Starkiller[WD]:  /mkillall
+[Sun Aug 28 13:57:12 2016]  say: hnknta [WD]: € улетаю
+[Sun Aug 28 13:57:20 2016]  say: Starkiller[WD]: а трандошаны
+[Sun Aug 28 13:57:27 2016]  say: Starkiller[WD]: € тебе охрану хотел дать
+[Sun Aug 28 13:57:35 2016]  say: hnknta [WD]: лечу
+[Sun Aug 28 13:57:41 2016]  say: Starkiller[WD]: € их тебе передам
+[Sun Aug 28 13:57:52 2016]  say: Starkiller[WD]:  /not
+[Sun Aug 28 13:57:54 2016]  say: Starkiller[WD]: введи
+[Sun Aug 28 13:58:56 2016]  say: Starkiller[WD]: отлично
+[Sun Aug 28 13:59:10 2016]  say: hnknta [WD]: ой
+[Sun Aug 28 13:59:22 2016]  say: Starkiller[WD]: сто€ть!
+[Sun Aug 28 13:59:48 2016]  say: Starkiller[WD]: € сказал сто€ть!
+[Sun Aug 28 13:59:51 2016]  say: Starkiller[WD]: ты арестован
+[Sun Aug 28 13:59:58 2016]  say: Starkiller[WD]: сдавайс€
+[Sun Aug 28 14:00:20 2016]  say: Starkiller[WD]: ты гдле
+[Sun Aug 28 14:00:57 2016]  say: hnknta [WD]: мы улетаем
+[Sun Aug 28 14:01:52 2016]  say: Starkiller[WD]: вернись
+[Sun Aug 28 14:01:57 2016]  say: Starkiller[WD]: ты же арестован!
+[Sun Aug 28 14:02:08 2016]  say: hnknta [WD]: шас
+[Sun Aug 28 14:02:21 2016]  say: Starkiller[WD]: My origin is: (-3746 -688 2961) - You can teleport here with /mtelelast
+
+[Sun Aug 28 14:02:25 2016]  say: Starkiller[WD]: напиши /mtelelast
+[Sun Aug 28 14:03:06 2016]  say: Starkiller[WD]: сюда
+[Sun Aug 28 14:03:16 2016]  say: Starkiller[WD]: стой
+[Sun Aug 28 14:03:37 2016]  say: Starkiller[WD]: ты арестован
+[Sun Aug 28 14:03:58 2016]  say: Starkiller[WD]: ааа
+[Sun Aug 28 14:04:33 2016]  say: Starkiller[WD]: туда иди
+[Sun Aug 28 14:04:39 2016]  say: hnknta [WD]: не магу
+[Sun Aug 28 14:04:40 2016]  say: Starkiller[WD]: € доставлю теб€ на базу
+[Sun Aug 28 14:04:44 2016]  say: hnknta [WD]: как
+[Sun Aug 28 14:05:12 2016]  say: Starkiller[WD]: € тогда сам полечу на базу
+[Sun Aug 28 14:05:21 2016]  say: Starkiller[WD]: вернись
+[Sun Aug 28 14:06:12 2016]  say: hnknta [WD]: € не магу туда вайти
+[Sun Aug 28 14:06:38 2016]  say: Starkiller[WD]: именем аль€нс€
+[Sun Aug 28 14:06:41 2016]  say: Starkiller[WD]: аль€нса
+[Sun Aug 28 14:06:43 2016]  say: Starkiller[WD]: ты арестован
+[Sun Aug 28 14:06:51 2016]  say: Starkiller[WD]: убери
+[Sun Aug 28 14:06:59 2016]  say: Starkiller[WD]: теперь летим на базу
+[Sun Aug 28 14:07:16 2016]  say: Starkiller[WD]: аааа
+[Sun Aug 28 14:07:30 2016]  say: Starkiller[WD]: ты что устроил
+[Sun Aug 28 14:07:37 2016]  say: Starkiller[WD]: убери
+[Sun Aug 28 14:07:53 2016]  say: hnknta [WD]: € палечу с табой на блоке
+[Sun Aug 28 14:11:32 2016]  say: Starkiller[WD]: cдавайс€
+[Sun Aug 28 14:11:37 2016]  say: hnknta [WD]: хдаюс
+[Sun Aug 28 14:11:45 2016]  say: hnknta [WD]: не магу вайти
+[Sun Aug 28 14:11:50 2016]  say: Starkiller[WD]:  /mempower
+[Sun Aug 28 14:12:13 2016]  say: hnknta [WD]: у-у
+[Sun Aug 28 14:12:15 2016]  say: Starkiller[WD]: вот че ты не можешь зайти
+[Sun Aug 28 14:12:21 2016]  say: hnknta [WD]: не знаб
+[Sun Aug 28 14:12:36 2016]  say: hnknta [WD]: € на этам пале€у
+[Sun Aug 28 14:12:40 2016]  say: hnknta [WD]: палечу*
+[Sun Aug 28 14:12:46 2016]  say: Starkiller[WD]: € на базу!
+[Sun Aug 28 14:14:14 2016]  say: hnknta [WD]: падажди
+[Sun Aug 28 14:15:07 2016]  say: Starkiller[WD]: где ты
+[Sun Aug 28 14:15:10 2016]  say: hnknta [WD]: как убрать детали
+[Sun Aug 28 14:15:22 2016]  say: Starkiller[WD]:  /mkillall
+[Sun Aug 28 14:15:23 2016]  say: hnknta [WD]: € с другой стараны
+[Sun Aug 28 14:15:46 2016]  say: hnknta [WD]: как клона зделать
+[Sun Aug 28 14:16:15 2016]  say: hnknta [WD]: аткрой € с другой стараны
+[Sun Aug 28 14:16:21 2016]  say: Starkiller[WD]: ff
+[Sun Aug 28 14:16:33 2016]  say: hnknta [WD]: аткрой
+[Sun Aug 28 14:16:45 2016]  Item: 0 weapon_flechette
+[Sun Aug 28 14:16:47 2016]  Item: 0 weapon_bryar_pistol
+[Sun Aug 28 14:16:49 2016]  Item: 0 weapon_concussion_rifle
+[Sun Aug 28 14:17:00 2016]  say: hnknta [WD]: /dropwp
+[Sun Aug 28 14:17:43 2016]  say: hnknta [WD]: эм турел?
+[Sun Aug 28 14:18:07 2016]  say: hnknta [WD]: как
+[Sun Aug 28 14:18:35 2016]  say: hnknta [WD]: аааааааааааааааа
+[Sun Aug 28 14:19:32 2016]  say: hnknta [WD]: впусти
+[Sun Aug 28 14:20:29 2016]  say: Starkiller[WD]: расстрел€ть!
+[Sun Aug 28 14:22:21 2016]  say: hnknta [WD]: лалдошруерушеп
+[Sun Aug 28 14:22:26 2016]  say: hnknta [WD]: € магу асвабадить нас
+[Sun Aug 28 14:23:09 2016]  say: hnknta [WD]: а кагда мен€ выпуст€ть
+[Sun Aug 28 14:23:36 2016]  say: hnknta [WD]: мне можна ити
+[Sun Aug 28 14:27:11 2016]  say: hnknta [WD]: как перевернуть
+[Sun Aug 28 14:27:19 2016]  say: Starkiller[WD]:  /mrotateall 100
+[Sun Aug 28 14:27:20 2016]  say: hnknta [WD]: го снова будем друз€ми убери пушки
+[Sun Aug 28 14:28:10 2016]  say: hnknta [WD]: kill
+[Sun Aug 28 14:28:16 2016]  say: hnknta [WD]: зделай кил
+[Sun Aug 28 14:30:00 2016]  say: hnknta [WD]: харе
+[Sun Aug 28 14:30:03 2016]  tell: Starkiller[WD] to hnknta [WD]: ок
+[Sun Aug 28 14:30:45 2016]  say: hnknta [WD]: как убрать детали
+[Sun Aug 28 14:30:55 2016]  say: Starkiller[WD]:  /mkillall
+[Sun Aug 28 14:31:13 2016]  say: hnknta [WD]: го в ту зону
+[Sun Aug 28 14:31:18 2016]  say: Starkiller[WD]: в какую
+[Sun Aug 28 14:31:20 2016]  say: hnknta [WD]: там где дерев€?
+[Sun Aug 28 14:31:29 2016]  say: Starkiller[WD]: ну ок
+[Sun Aug 28 14:31:30 2016]  say: hnknta [WD]: на этам
+[Sun Aug 28 14:31:36 2016]  say: Starkiller[WD]: у мен€ там корабль
+[Sun Aug 28 14:31:36 2016]  say: hnknta [WD]: дабавить
+[Sun Aug 28 14:31:37 2016]  say: Starkiller[WD]: есть
+[Sun Aug 28 14:32:26 2016]  say: hnknta [WD]: ой
+[Sun Aug 28 14:32:43 2016]  say: hnknta [WD]: как арудие зделать
+[Sun Aug 28 14:32:49 2016]  say: Starkiller[WD]:  /give all
+[Sun Aug 28 14:33:01 2016]  say: hnknta [WD]: спс
+[Sun Aug 28 14:33:28 2016]  say: hnknta [WD]: как двигать верх низ
+[Sun Aug 28 14:33:38 2016]  say: Starkiller[WD]:  /mmove 0 0 12-веерх
+[Sun Aug 28 14:33:43 2016]  say: Starkiller[WD]:  /mmove 0 0 -12 низ
+[Sun Aug 28 14:34:10 2016]  say: hnknta [WD]: да блин
+[Sun Aug 28 14:34:15 2016]  say: hnknta [WD]: го так
+[Sun Aug 28 14:34:33 2016]  say: hnknta [WD]: памагай
+[Sun Aug 28 14:35:01 2016]  say: hnknta [WD]: € ша ранкора  падарву
+[Sun Aug 28 14:35:04 2016]  say: hnknta [WD]: агромнава
+[Sun Aug 28 14:35:47 2016]  Kill: 0 0 39: hnknta [WD] killed hnknta [WD] by MOD_SUICIDE
+[Sun Aug 28 14:35:50 2016]  say: hnknta [WD]: € кил
+[Sun Aug 28 14:36:01 2016]  say: Starkiller[WD]: ты хочешь на лугормод?
+[Sun Aug 28 14:36:12 2016]  say: hnknta [WD]: ну тут он и ест
+[Sun Aug 28 14:36:19 2016]  say: Starkiller[WD]: это майкермод
+[Sun Aug 28 14:36:26 2016]  say: hnknta [WD]: а ну го
+[Sun Aug 28 14:36:29 2016]  say: hnknta [WD]: кил дела
+[Sun Aug 28 14:36:33 2016]  Kill: 1 1 39: Starkiller[WD] killed Starkiller[WD] by MOD_SUICIDE
+[Sun Aug 28 14:37:11 2016]  say: hnknta [WD]: ты че
+[Sun Aug 28 14:37:15 2016]  Kill: 1 0 36: Starkiller[WD] killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 14:37:26 2016]  say: Starkiller[WD]: € думал ты балуешьс€
+[Sun Aug 28 14:37:54 2016]  say: hnknta [WD]: € делаю паркур
+[Sun Aug 28 14:38:00 2016]  say: hnknta [WD]: очен трудный
+[Sun Aug 28 14:38:45 2016]  say: hnknta [WD]: паробуй прайди еше
+[Sun Aug 28 14:39:50 2016]  say: hnknta [WD]: памагай
+[Sun Aug 28 14:40:01 2016]  say: hnknta [WD]: как зделать там автамать денег ну 
+[Sun Aug 28 14:40:07 2016]  say: hnknta [WD]: типа приз
+[Sun Aug 28 14:40:10 2016]  say: hnknta [WD]: cr
+[Sun Aug 28 14:40:23 2016]  say: hnknta [WD]: ты знаеш как
+[Sun Aug 28 14:40:32 2016]  say: hnknta [WD]: о да
+[Sun Aug 28 14:40:43 2016]  say: hnknta [WD]: памагай
+[Sun Aug 28 14:40:46 2016]  say: hnknta [WD]: килер
+[Sun Aug 28 14:40:57 2016]  say: hnknta [WD]: ак зделать там cr в канче
+[Sun Aug 28 14:41:06 2016]  say: Starkiller[WD]: что
+[Sun Aug 28 14:41:13 2016]  say: hnknta [WD]: как зделать приз в канче?
+[Sun Aug 28 14:41:23 2016]  say: Starkiller[WD]: щас
+[Sun Aug 28 14:42:11 2016]  say: hnknta [WD]: бл€
+[Sun Aug 28 14:42:16 2016]  Kill: 1022 0 38: <world> killed hnknta [WD] by MOD_FALLING
+[Sun Aug 28 14:42:52 2016]  say: Starkiller[WD]: прыгай по паркуру до конца
+[Sun Aug 28 14:43:03 2016]  say: hnknta [WD]: как зделать воду
+[Sun Aug 28 14:44:56 2016]  say: hnknta [WD]: а здес внизу далжна быть вада
+[Sun Aug 28 14:45:03 2016]  say: Starkiller[WD]: неет
+[Sun Aug 28 14:45:07 2016]  say: Starkiller[WD]: это ее сделали
+[Sun Aug 28 14:45:10 2016]  say: Starkiller[WD]: а так ее не должно быть
+[Sun Aug 28 14:45:27 2016]  say: hnknta [WD]: тогда
+[Sun Aug 28 14:45:36 2016]  say: hnknta [WD]: бой с монстрами
+[Sun Aug 28 14:45:47 2016]  say: hnknta [WD]: памагай спавнить их там
+[Sun Aug 28 14:46:11 2016]  say: hnknta [WD]: € их убил
+[Sun Aug 28 14:46:15 2016]  say: Starkiller[WD]: давай сходим на лугормод немного поиграем?
+[Sun Aug 28 14:46:21 2016]  say: hnknta [WD]: ну го
+[Sun Aug 28 14:46:23 2016]  say: Starkiller[WD]: стой
+[Sun Aug 28 14:46:29 2016]  say: Starkiller[WD]: может восстоновим клан WD?
+[Sun Aug 28 14:46:35 2016]  say: hnknta [WD]: ну го
+[Sun Aug 28 14:46:41 2016]  say: Starkiller[WD]: будет твой клан снова
+[Sun Aug 28 14:46:43 2016]  say: Starkiller[WD]: ну пошли
+[Sun Aug 28 14:46:59 2016]  say: hnknta [WD]: хочеш прайдем снацала паркур 
+[Sun Aug 28 14:47:03 2016]  say: Starkiller[WD]: давай
+[Sun Aug 28 14:47:22 2016]  say: hnknta [WD]: ак спавнит монстраф любых
+[Sun Aug 28 14:47:24 2016]  say: Starkiller[WD]: напиши /msaveobs 123 123
+[Sun Aug 28 14:47:43 2016]  say: hnknta [WD]: и
+[Sun Aug 28 14:47:51 2016]  say: hnknta [WD]: и че
+[Sun Aug 28 14:47:53 2016]  say: Starkiller[WD]: удали теперь все
+[Sun Aug 28 14:47:59 2016]  say: Starkiller[WD]: ты их сохранил
+[Sun Aug 28 14:48:16 2016]  say: Starkiller[WD]:  /mkillall
+[Sun Aug 28 14:48:41 2016]  say: hnknta [WD]: удалил
+[Sun Aug 28 14:48:45 2016]  say: Starkiller[WD]:  /mloadobs 123 123
+[Sun Aug 28 14:49:29 2016]  say: hnknta [WD]: j
+[Sun Aug 28 14:49:32 2016]  say: hnknta [WD]: о
+[Sun Aug 28 14:49:37 2016]  say: hnknta [WD]: все пашли
+[Sun Aug 28 14:49:44 2016]  say: Starkiller[WD]: на лугормод
+[Sun Aug 28 14:49:47 2016]  say: hnknta [WD]: да
+[Sun Aug 28 14:49:49 2016]  say: Starkiller[WD]: ок идем
+[Sun Aug 28 14:49:51 2016]  ClientDisconnect: 1
+[Sun Aug 28 14:50:22 2016]  ClientConnect: 1
+[Sun Aug 28 14:50:22 2016]  mlog:Player Starkiller[WD], connected. With IP - 178.121.22.229:9400 
+[Sun Aug 28 14:50:45 2016]  ClientBegin: 1
+[Sun Aug 28 14:50:50 2016]  say: Starkiller[WD]: а ты айпи запомнил??
+[Sun Aug 28 14:50:51 2016]  say: hnknta [WD]: чувак а название
+[Sun Aug 28 14:50:59 2016]  say: Starkiller[WD]: айпи этого сервера
+[Sun Aug 28 14:51:00 2016]  say: hnknta [WD]: скажи 
+[Sun Aug 28 14:51:05 2016]  say: hnknta [WD]: нет
+[Sun Aug 28 14:51:12 2016]  say: Starkiller[WD]: 51.9.127.201.29070
+[Sun Aug 28 14:51:18 2016]  say: hnknta [WD]: кароче там скажи но какой на тот
+[Sun Aug 28 14:51:24 2016]  say: Starkiller[WD]: cnjq
+[Sun Aug 28 14:51:26 2016]  say: Starkiller[WD]: стой
+[Sun Aug 28 14:51:38 2016]  say: Starkiller[WD]:  ты можешь писать /connect 51.9.127.201.29070
+[Sun Aug 28 14:51:41 2016]  say: Starkiller[WD]: запиши на листочке
+[Sun Aug 28 14:51:44 2016]  say: Starkiller[WD]: это этот сервер
+[Sun Aug 28 14:51:54 2016]  say: hnknta [WD]: ок
+[Sun Aug 28 14:54:05 2016]  say: Starkiller[WD]: ну
+[Sun Aug 28 14:54:38 2016]  say: hnknta [WD]: все
+[Sun Aug 28 14:54:38 2016]  say: Starkiller[WD]: записал
+[Sun Aug 28 14:54:40 2016]  say: hnknta [WD]: да
+[Sun Aug 28 14:54:42 2016]  say: hnknta [WD]: а тот 
+[Sun Aug 28 14:54:44 2016]  say: Starkiller[WD]: пошли на лугор ?
+[Sun Aug 28 14:54:47 2016]  say: Starkiller[WD]: какой тот
+[Sun Aug 28 14:54:47 2016]  say: hnknta [WD]: стой
+[Sun Aug 28 14:54:54 2016]  say: Starkiller[WD]: ну там где мы обычно играем
+[Sun Aug 28 14:54:56 2016]  say: hnknta [WD]: а на лугормод какой
+[Sun Aug 28 14:55:03 2016]  say: Starkiller[WD]: там где все врем€ играем
+[Sun Aug 28 14:55:09 2016]  say: hnknta [WD]: а туда
+[Sun Aug 28 14:55:14 2016]  say: hnknta [WD]: ну ок пашли
+[Sun Aug 28 14:55:21 2016]  say: hnknta [WD]: здес интереснее канешна
+[Sun Aug 28 14:55:27 2016]  say: Starkiller[WD]: мы потом придем
+[Sun Aug 28 14:56:02 2016]  say: hnknta [WD]: пагади снова будем строить паркур € слуцайна удалик
+[Sun Aug 28 14:56:07 2016]  say: hnknta [WD]: лан пашли
+[Sun Aug 28 14:56:11 2016]  say: hnknta [WD]: толка
+[Sun Aug 28 14:56:19 2016]  say: hnknta [WD]: пастроим твой недастроенай крабл
+[Sun Aug 28 14:56:23 2016]  say: hnknta [WD]: кагда придем
+[Sun Aug 28 14:56:23 2016]  say: Starkiller[WD]: да
+[Sun Aug 28 14:56:26 2016]  say: hnknta [WD]: го
+[Sun Aug 28 14:56:41 2016]  say: hnknta [WD]: здес там астаемс€ или идем
+[Sun Aug 28 14:56:46 2016]  say: Starkiller[WD]: идем
+[Sun Aug 28 14:56:48 2016]  say: Starkiller[WD]: мы немного
+[Sun Aug 28 14:56:55 2016]  say: Starkiller[WD]: поиграем там и сюда
+[Sun Aug 28 14:56:56 2016]  say: hnknta [WD]: чего немнога
+[Sun Aug 28 14:57:01 2016]  say: hnknta [WD]: ок пашли
+[Sun Aug 28 14:57:03 2016]  ClientDisconnect: 0
+[Sun Aug 28 14:57:05 2016]  ClientDisconnect: 1
+[Sun Aug 28 15:02:42 2016]  ClientConnect: 0
+[Sun Aug 28 15:02:42 2016]  mlog:Player ^1-^0INV^1- ^0Raven^1[War], connected. With IP - 37.214.244.151:-32736 
+[Sun Aug 28 15:03:07 2016]  ClientBegin: 0
+[Sun Aug 28 15:04:17 2016]  ClientDisconnect: 0
+[Sun Aug 28 15:08:08 2016]  ClientConnect: 0
+[Sun Aug 28 15:08:08 2016]  mlog:Player IG, connected. With IP - 178.121.22.229:9400 
+[Sun Aug 28 15:08:10 2016]  ClientConnect: 1
+[Sun Aug 28 15:08:10 2016]  mlog:Player ^1-^0INV^1- ^0Raven^1[War], connected. With IP - 37.214.244.151:-32736 
+[Sun Aug 28 15:08:23 2016]  ClientBegin: 1
+[Sun Aug 28 15:08:32 2016]  ClientBegin: 0
+[Sun Aug 28 15:08:36 2016]  say: ^0§^1INVADER^0§ Darth Raven: )
+[Sun Aug 28 15:08:41 2016]  say: ^0§^1INVADER^0§ Darth Raven: мой старый ник
+[Sun Aug 28 15:08:53 2016]  say: Starkiller[WD]: есть майкермод где не пинг меньше
+[Sun Aug 28 15:09:03 2016]  say: ^0§^1INVADER^0§ Darth Raven: а в чем прикол 
+[Sun Aug 28 15:09:18 2016]  say: Starkiller[WD]: j[[
+[Sun Aug 28 15:09:19 2016]  say: Starkiller[WD]: охх
+[Sun Aug 28 15:09:22 2016]  say: ^0§^1INVADER^0§ Darth Raven: тут типо всем все можно или что?
+[Sun Aug 28 15:09:25 2016]  ClientConnect: 2
+[Sun Aug 28 15:09:25 2016]  mlog:Player ^8n!k^9^4!ta, connected. With IP - 37.147.62.249:29070 
+[Sun Aug 28 15:09:28 2016]  say: Starkiller[WD]: никита удалил свой паркур
+[Sun Aug 28 15:09:45 2016]  ClientBegin: 2
+[Sun Aug 28 15:09:50 2016]  say: ^0§^1INVADER^0§ Darth Raven: так
+[Sun Aug 28 15:09:51 2016]  say: hnknta [WD]: я “”“
+[Sun Aug 28 15:09:55 2016]  say: ^0§^1INVADER^0§ Darth Raven: € чутка не догнал
+[Sun Aug 28 15:10:07 2016]  say: hnknta [WD]: вот мой ранкор
+[Sun Aug 28 15:10:12 2016]  say: Starkiller[WD]: это строительный сервер
+[Sun Aug 28 15:10:20 2016]  say: Starkiller[WD]: есть все объекты из академии
+[Sun Aug 28 15:10:24 2016]  say: Starkiller[WD]: и эффекты
+[Sun Aug 28 15:10:29 2016]  say: hnknta [WD]: хахахахахахахахахахахха
+[Sun Aug 28 15:10:51 2016]  say: Starkiller[WD]: тут можно еще скрипты делать
+[Sun Aug 28 15:10:59 2016]  say: Starkiller[WD]: € сейчас сделаю скрипт интересный
+[Sun Aug 28 15:11:03 2016]  say: hnknta [WD]: равен палетели
+[Sun Aug 28 15:11:05 2016]  say: Starkiller[WD]: а вы пока играйте 
+[Sun Aug 28 15:11:08 2016]  say: Starkiller[WD]: € 10 мин
+[Sun Aug 28 15:11:11 2016]  say: hnknta [WD]: ок
+[Sun Aug 28 15:11:19 2016]  say: hnknta [WD]: € летат умею
+[Sun Aug 28 15:11:44 2016]  say: hnknta [WD]: о павстанец
+[Sun Aug 28 15:11:51 2016]  say: hnknta [WD]: убит
+[Sun Aug 28 15:12:12 2016]  say: hnknta [WD]: равен
+[Sun Aug 28 15:12:21 2016]  say: ^0§^1INVADER^0§ Darth Raven: что?
+[Sun Aug 28 15:12:22 2016]  say: hnknta [WD]: пашли катаца
+[Sun Aug 28 15:12:25 2016]  say: hnknta [WD]: залезай
+[Sun Aug 28 15:12:43 2016]  say: hnknta [WD]: такс
+[Sun Aug 28 15:13:10 2016]  say: hnknta [WD]: бл€ € каманду не нахаж
+[Sun Aug 28 15:13:19 2016]  say: hnknta [WD]: у
+[Sun Aug 28 15:14:00 2016]  say: hnknta [WD]: киилер
+[Sun Aug 28 15:14:05 2016]  say: hnknta [WD]: опана что ет
+[Sun Aug 28 15:14:24 2016]  say: hnknta [WD]: € убил ранкора
+[Sun Aug 28 15:14:34 2016]  say: hnknta [WD]: хочеш пабица с ранкорам?
+[Sun Aug 28 15:15:07 2016]  say: ^0§^1INVADER^0§ Darth Raven: погоди ка
+[Sun Aug 28 15:15:38 2016]  say: ^0§^1INVADER^0§ Darth Raven: зырь
+[Sun Aug 28 15:15:47 2016]  say: ^0§^1INVADER^0§ Darth Raven: видно мен€?)
+[Sun Aug 28 15:15:50 2016]  say: hnknta [WD]: да
+[Sun Aug 28 15:15:57 2016]  say: ^0§^1INVADER^0§ Darth Raven: а € думал нет)
+[Sun Aug 28 15:16:31 2016]  say: hnknta [WD]: бл€
+[Sun Aug 28 15:16:52 2016]  say: hnknta [WD]: ЋќќќќќќќќЋ
+[Sun Aug 28 15:17:07 2016]  say: hnknta [WD]: лоооооооооооооооол
+[Sun Aug 28 15:17:09 2016]  say: hnknta [WD]: как килер
+[Sun Aug 28 15:17:13 2016]  say: hnknta [WD]: килер
+[Sun Aug 28 15:17:32 2016]  say: hnknta [WD]: как там ранкор спавнилс€ на каторам катаюца?
+[Sun Aug 28 15:17:41 2016]  say: hnknta [WD]: кстати иди замной
+[Sun Aug 28 15:17:50 2016]  say: hnknta [WD]: пашли
+[Sun Aug 28 15:18:12 2016]  say: hnknta [WD]: сматри
+[Sun Aug 28 15:18:22 2016]  say: ^0§^1INVADER^0§ Darth Raven: и?
+[Sun Aug 28 15:18:23 2016]  say: Starkiller[WD]: где вы
+[Sun Aug 28 15:18:26 2016]  say: hnknta [WD]: арена 
+[Sun Aug 28 15:18:38 2016]  say: Starkiller[WD]:  /msayorigin
+[Sun Aug 28 15:18:43 2016]  ClientConnect: 3
+[Sun Aug 28 15:18:43 2016]  mlog:Player kosher, connected. With IP - 91.230.25.125:29070 
+[Sun Aug 28 15:19:12 2016]  say: hnknta [WD]: лол
+[Sun Aug 28 15:19:19 2016]  say: hnknta [WD]: го
+[Sun Aug 28 15:19:30 2016]  say: hnknta [WD]: My origin is: (10485 8526 1592) - You can teleport here with /mtelelast
+
+[Sun Aug 28 15:19:33 2016]  ClientBegin: 3
+[Sun Aug 28 15:19:33 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:19:34 2016]  say: Starkiller[WD]: не умерайте
+[Sun Aug 28 15:19:34 2016]  say: hnknta [WD]: и
+[Sun Aug 28 15:19:38 2016]  say: Starkiller[WD]: € поставил ловушку
+[Sun Aug 28 15:19:44 2016]  say: hnknta [WD]: замной
+[Sun Aug 28 15:19:46 2016]  say: Starkiller[WD]: My origin is: (-7575 -20469 1473) - You can teleport here with /mtelelast
+
+[Sun Aug 28 15:19:51 2016]  say: hnknta [WD]: килер
+[Sun Aug 28 15:19:51 2016]  say: Starkiller[WD]: ой
+[Sun Aug 28 15:19:52 2016]  say: Starkiller[WD]: еще раз
+[Sun Aug 28 15:19:53 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:19:55 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:19:55 2016]  say: Starkiller[WD]: напиши
+[Sun Aug 28 15:19:56 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:20:01 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:20:05 2016]  say: hnknta [WD]: ЋќЋ
+[Sun Aug 28 15:20:11 2016]  say: hnknta [WD]: как
+[Sun Aug 28 15:20:14 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:20:14 2016]  say: Starkiller[WD]: зачем
+[Sun Aug 28 15:20:16 2016]  say: Starkiller[WD]: ты написал
+[Sun Aug 28 15:20:23 2016]  say: hnknta [WD]: эта не €
+[Sun Aug 28 15:20:28 2016]  say: Starkiller[WD]: ааа
+[Sun Aug 28 15:20:30 2016]  say: Starkiller[WD]: ты где
+[Sun Aug 28 15:20:32 2016]  say: hnknta [WD]: эта равен заспавнил ранкора
+[Sun Aug 28 15:20:34 2016]  say: hnknta [WD]: арена
+[Sun Aug 28 15:20:37 2016]  Kill: 1022 0 36: <world> killed Starkiller[WD] by MOD_CRUSH
+[Sun Aug 28 15:20:39 2016]  say: hnknta [WD]: My origin is: (11036 9356 1592) - You can teleport here with /mtelelast
+
+[Sun Aug 28 15:20:41 2016]  say: Starkiller[WD]: это где
+[Sun Aug 28 15:20:45 2016]  Kill: 1022 0 36: <world> killed Starkiller[WD] by MOD_CRUSH
+[Sun Aug 28 15:20:49 2016]  say: hnknta [WD]: ј–≈Ќј √ƒ≈ ћџ —ѕј¬Ќ»Ћ» –јЌ ќ–ј
+[Sun Aug 28 15:20:50 2016]  say: Starkiller[WD]: блин
+[Sun Aug 28 15:20:55 2016]  Kill: 1022 0 36: <world> killed Starkiller[WD] by MOD_CRUSH
+[Sun Aug 28 15:20:58 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:20:59 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:20:59 2016]  Kill: 1022 0 36: <world> killed Starkiller[WD] by MOD_CRUSH
+[Sun Aug 28 15:21:00 2016]  Kill: 1022 0 36: <world> killed Starkiller[WD] by MOD_CRUSH
+[Sun Aug 28 15:21:02 2016]  Kill: 1022 0 36: <world> killed Starkiller[WD] by MOD_CRUSH
+[Sun Aug 28 15:21:03 2016]  Kill: 1022 0 36: <world> killed Starkiller[WD] by MOD_CRUSH
+[Sun Aug 28 15:21:04 2016]  Kill: 1022 2 2: <world> killed hnknta [WD] by MOD_MELEE
+[Sun Aug 28 15:21:06 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:21:09 2016]  say: Starkiller[WD]: видишь что творитс€
+[Sun Aug 28 15:21:11 2016]  Kill: 1022 2 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 15:21:12 2016]  Kill: 1022 2 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 15:21:13 2016]  Kill: 1022 2 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 15:21:14 2016]  Kill: 1022 2 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 15:21:15 2016]  Kill: 1022 2 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 15:21:16 2016]  Kill: 1022 2 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 15:21:17 2016]  say: Starkiller[WD]: € предупреждал
+[Sun Aug 28 15:21:18 2016]  Kill: 1022 2 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 15:21:19 2016]  Kill: 1022 2 36: <world> killed hnknta [WD] by MOD_CRUSH
+[Sun Aug 28 15:21:22 2016]  say: kosher: скока вам лет
+[Sun Aug 28 15:21:23 2016]  say: hnknta [WD]: о
+[Sun Aug 28 15:21:26 2016]  Kill: 2 2 39: hnknta [WD] killed hnknta [WD] by MOD_SUICIDE
+[Sun Aug 28 15:21:26 2016]  setteam:  2 FREE SPECTATOR
+[Sun Aug 28 15:21:26 2016]  ClientBegin: 2
+[Sun Aug 28 15:21:28 2016]  say: hnknta [WD]: заткнис
+[Sun Aug 28 15:21:34 2016]  say: kosher: че
+[Sun Aug 28 15:21:42 2016]  say: hnknta [WD]: реб€т кто он?
+[Sun Aug 28 15:21:54 2016]  say: Starkiller[WD]: это дурачек € его на лугоре видел
+[Sun Aug 28 15:21:56 2016]  say: kosher: € взрослый
+[Sun Aug 28 15:21:59 2016]  say: Starkiller[WD]: он убивает и ругаетс€ только
+[Sun Aug 28 15:22:05 2016]  setteam:  2 SPECTATOR FREE
+[Sun Aug 28 15:22:05 2016]  ClientBegin: 2
+[Sun Aug 28 15:22:06 2016]  say: hnknta [WD]: ааааааааааааааааа
+[Sun Aug 28 15:22:12 2016]  say: hnknta [WD]: занцит ол слабее нас
+[Sun Aug 28 15:22:21 2016]  say: hnknta [WD]: лќќќќќќќќќќќќќќќќќќќќќќЋ
+[Sun Aug 28 15:23:13 2016]  say: hnknta [WD]: го зделаем базу?
+[Sun Aug 28 15:23:19 2016]  say: hnknta [WD]: и килерэ
+[Sun Aug 28 15:23:22 2016]  say: hnknta [WD]: килер
+[Sun Aug 28 15:23:26 2016]  say: kosher: да
+[Sun Aug 28 15:23:28 2016]  say: hnknta [WD]: как вепер лететь
+[Sun Aug 28 15:23:35 2016]  say: hnknta [WD]: € не у теб€
+[Sun Aug 28 15:23:39 2016]  tell: hnknta [WD] to Starkiller[WD]: килер
+[Sun Aug 28 15:23:43 2016]  say: ^0§^1INVADER^0§ Darth Raven: блин
+[Sun Aug 28 15:23:45 2016]  say: kosher: вам кскоа лет
+[Sun Aug 28 15:23:45 2016]  say: hnknta [WD]: как лететь
+[Sun Aug 28 15:23:48 2016]  say: ^0§^1INVADER^0§ Darth Raven: чет форсы вообще нет
+[Sun Aug 28 15:23:51 2016]  say: hnknta [WD]: замалци
+[Sun Aug 28 15:23:53 2016]  say: Starkiller[WD]:  /mempower
+[Sun Aug 28 15:23:56 2016]  say: Starkiller[WD]: и вс€ сила
+[Sun Aug 28 15:24:14 2016]  say: kosher: привет
+[Sun Aug 28 15:24:39 2016]  say: kosher: будем делать дом
+[Sun Aug 28 15:24:55 2016]  say: hnknta [WD]: да толка дл€ нас ани дл€ теб€
+[Sun Aug 28 15:25:00 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:25:18 2016]  say: hnknta [WD]: напиши /not 
+[Sun Aug 28 15:25:23 2016]  say: ^0§^1INVADER^0§ Darth Raven: и?
+[Sun Aug 28 15:25:28 2016]  say: hnknta [WD]: он не будет теб€ бить
+[Sun Aug 28 15:25:44 2016]  say: hnknta [WD]: ты слушаеш чем?
+[Sun Aug 28 15:25:45 2016]  Kill: 1022 1 2: <world> killed ^0§^1INVADER^0§ Darth Raven by MOD_MELEE
+[Sun Aug 28 15:25:51 2016]  Item: 2 weapon_bryar_pistol
+[Sun Aug 28 15:25:55 2016]  say: kosher: делаим дом
+[Sun Aug 28 15:26:19 2016]  say: hnknta [WD]: килер
+[Sun Aug 28 15:26:22 2016]  say: Starkiller[WD]: а
+[Sun Aug 28 15:26:27 2016]  say: hnknta [WD]: как летать
+[Sun Aug 28 15:26:37 2016]  say: Starkiller[WD]: куда
+[Sun Aug 28 15:26:45 2016]  say: hnknta [WD]: на платформах
+[Sun Aug 28 15:26:52 2016]  say: kosher: так
+[Sun Aug 28 15:26:54 2016]  say: Starkiller[WD]:  /mmoveall 0 0 100 вверх
+[Sun Aug 28 15:26:55 2016]  say: hnknta [WD]: да сука атвали
+[Sun Aug 28 15:27:37 2016]  tell: Starkiller[WD] to hnknta [WD]:  /mscaleme 10.25
+[Sun Aug 28 15:27:52 2016]  say: Starkiller[WD]: введи
+[Sun Aug 28 15:27:59 2016]  say: hnknta [WD]: »ƒ»ќ“
+[Sun Aug 28 15:28:07 2016]  say: Starkiller[WD]: да,поэтому € не хотел его пускать
+[Sun Aug 28 15:28:13 2016]  say: hnknta [WD]: ЅЋя“№ „“ќ “џ “”“ ѕј—“–ќ»Ћ ƒ≈–ћќ
+[Sun Aug 28 15:28:14 2016]  say: Starkiller[WD]: это ребенок который просто любит мешать
+[Sun Aug 28 15:28:26 2016]  say: kosher: чтоо
+[Sun Aug 28 15:28:33 2016]  say: kosher: € сам спросил скока вам лет
+[Sun Aug 28 15:28:33 2016]  say: hnknta [WD]: в . килер
+[Sun Aug 28 15:28:45 2016]  say: Starkiller[WD]: что
+[Sun Aug 28 15:28:46 2016]  say: hnknta [WD]: моежт ты заткнешс€
+[Sun Aug 28 15:28:52 2016]  say: kosher: да
+[Sun Aug 28 15:28:54 2016]  say: hnknta [WD]: ането € натравлю на теб€ ранкора
+[Sun Aug 28 15:28:56 2016]  say: Starkiller[WD]: если он тебе мешает /ignore kosher
+[Sun Aug 28 15:29:52 2016]  say: ^0§^1INVADER^0§ Darth Raven: а как ездовых животных сделать?
+[Sun Aug 28 15:29:53 2016]  say: hnknta [WD]: ахуеть
+[Sun Aug 28 15:29:59 2016]  say: hnknta [WD]: „≈√ќ “џ “”“ ѕјЌј—“–ќ»Ћ
+[Sun Aug 28 15:30:02 2016]  say: hnknta [WD]: дибилина
+[Sun Aug 28 15:30:05 2016]  say: hnknta [WD]: безмозгла€
+[Sun Aug 28 15:30:06 2016]  say: Starkiller[WD]:  /npc spawn vehicle rancor_vehicle
+[Sun Aug 28 15:30:14 2016]  say: hnknta [WD]: /buddy Star
+[Sun Aug 28 15:30:28 2016]  say: kosher: /buddy kosher
+[Sun Aug 28 15:30:55 2016]  say: hnknta [WD]: нах пашол
+[Sun Aug 28 15:31:16 2016]  say: hnknta [WD]: вы гле
+[Sun Aug 28 15:31:57 2016]  say: hnknta [WD]: как лететь вперед
+[Sun Aug 28 15:32:01 2016]  say: hnknta [WD]: а во
+[Sun Aug 28 15:33:00 2016]  say: hnknta [WD]: кто ситхав зделал
+[Sun Aug 28 15:33:01 2016]  tell: Starkiller[WD] to hnknta [WD]: ne stanovis na platformy kotoraya y spavna
+[Sun Aug 28 15:33:17 2016]  tell: Starkiller[WD] to ^0§^1INVADER^0§ Darth Raven: ne stanovis na platformy kotoraya y spavna
+[Sun Aug 28 15:33:44 2016]  Item: 1 ammo_all
+[Sun Aug 28 15:33:45 2016]  say: hnknta [WD]: реб€т
+[Sun Aug 28 15:33:50 2016]  say: kosher: что
+[Sun Aug 28 15:33:55 2016]  say: hnknta [WD]: замалци
+[Sun Aug 28 15:34:07 2016]  say: kosher: скока тебе лет
+[Sun Aug 28 15:34:11 2016]  Kill: 1022 1 36: <world> killed ^0§^1INVADER^0§ Darth Raven by MOD_CRUSH
+[Sun Aug 28 15:34:13 2016]  Kill: 1022 1 36: <world> killed ^0§^1INVADER^0§ Darth Raven by MOD_CRUSH
+[Sun Aug 28 15:34:16 2016]  Kill: 1022 1 36: <world> killed ^0§^1INVADER^0§ Darth Raven by MOD_CRUSH
+[Sun Aug 28 15:34:17 2016]  say: hnknta [WD]: не скажу 
+[Sun Aug 28 15:34:19 2016]  say: ^0§^1INVADER^0§ Darth Raven: эй
+[Sun Aug 28 15:34:20 2016]  say: Starkiller[WD]: равен...
+[Sun Aug 28 15:34:21 2016]  say: ^0§^1INVADER^0§ Darth Raven: уберите
+[Sun Aug 28 15:34:25 2016]  say: Starkiller[WD]: € же говорил не умерать
+[Sun Aug 28 15:34:26 2016]  say: hnknta [WD]: ¬џ √ƒ≈
+[Sun Aug 28 15:34:28 2016]  say: Starkiller[WD]: это дл€ него ловушка
+[Sun Aug 28 15:34:39 2016]  say: ^0§^1INVADER^0§ Darth Raven: как € заспавнюсь если € пройти не могу
+[Sun Aug 28 15:34:50 2016]  Kill: 1022 1 36: <world> killed ^0§^1INVADER^0§ Darth Raven by MOD_CRUSH
+[Sun Aug 28 15:34:51 2016]  say: hnknta [WD]: вы где
+[Sun Aug 28 15:34:55 2016]  say: kosher: ахахххаххахах
+[Sun Aug 28 15:35:15 2016]  say: ^0§^1INVADER^0§ Darth Raven: уберите эту фигню
+[Sun Aug 28 15:35:16 2016]  say: hnknta [WD]: харе ржать слабак
+[Sun Aug 28 15:35:24 2016]  say: Starkiller[WD]: не умерай
+[Sun Aug 28 15:35:25 2016]  say: kosher: не уберем
+[Sun Aug 28 15:35:48 2016]  Kill: 3 1 36: kosher killed ^0§^1INVADER^0§ Darth Raven by MOD_CRUSH
+[Sun Aug 28 15:35:54 2016]  say: ^0§^1INVADER^0§ Darth Raven: бл€
+[Sun Aug 28 15:35:56 2016]  say: Starkiller[WD]: введи /god
+[Sun Aug 28 15:35:58 2016]  say: ^0§^1INVADER^0§ Darth Raven: а сейчас что?
+[Sun Aug 28 15:36:08 2016]  say: Starkiller[WD]:  /god введи
+[Sun Aug 28 15:36:09 2016]  say: hnknta [WD]: килер вы где
+[Sun Aug 28 15:36:11 2016]  say: Starkiller[WD]: кстати
+[Sun Aug 28 15:36:19 2016]  say: Starkiller[WD]: против этой фигни ослепл€ющей есть кое кака€ штука
+[Sun Aug 28 15:36:31 2016]  say: Starkiller[WD]: вы где
+[Sun Aug 28 15:36:36 2016]  say: hnknta [WD]: € спаун
+[Sun Aug 28 15:36:40 2016]  say: hnknta [WD]: иуд
+[Sun Aug 28 15:36:43 2016]  say: Starkiller[WD]: эм
+[Sun Aug 28 15:36:46 2016]  say: hnknta [WD]: че
+[Sun Aug 28 15:37:04 2016]  Kill: 1 1 39: ^0§^1INVADER^0§ Darth Raven killed ^0§^1INVADER^0§ Darth Raven by MOD_SUICIDE
+[Sun Aug 28 15:37:15 2016]  say: hnknta [WD]: сука задалбал
+[Sun Aug 28 15:37:24 2016]  say: hnknta [WD]: киер харе ишезат
+[Sun Aug 28 15:37:34 2016]  say: Starkiller[WD]: если исчезать он не будет знать где вы
+[Sun Aug 28 15:37:35 2016]  Kill: 3 1 36: kosher killed ^0§^1INVADER^0§ Darth Raven by MOD_CRUSH
+[Sun Aug 28 15:37:39 2016]  say: Starkiller[WD]: € тебе сказал как исчезнуть
+[Sun Aug 28 15:37:46 2016]  tell: Starkiller[WD] to ^0§^1INVADER^0§ Darth Raven: /mscaleme 10.25
+[Sun Aug 28 15:37:56 2016]  tell: Starkiller[WD] to hnknta [WD]: /mscaleme 10.25
+[Sun Aug 28 15:37:59 2016]  say: hnknta [WD]: спс
+[Sun Aug 28 15:38:03 2016]  say: Starkiller[WD]: так можете бегать в ноклипе
+[Sun Aug 28 15:38:07 2016]  say: Starkiller[WD]: и он вас не заметит
+[Sun Aug 28 15:38:34 2016]  say: Starkiller[WD]: € скоро вернусь
+[Sun Aug 28 15:38:36 2016]  Kill: 0 0 39: Starkiller[WD] killed Starkiller[WD] by MOD_SUICIDE
+[Sun Aug 28 15:38:36 2016]  setteam:  0 FREE SPECTATOR
+[Sun Aug 28 15:38:36 2016]  ClientBegin: 0
+[Sun Aug 28 15:39:16 2016]  say: hnknta [WD]: уъты
+[Sun Aug 28 15:39:19 2016]  say: hnknta [WD]: ухты
+[Sun Aug 28 15:39:25 2016]  say: hnknta [WD]: клас
+[Sun Aug 28 15:39:49 2016]  say: hnknta [WD]: а как зделать абратна 
+[Sun Aug 28 15:40:03 2016]  say: hnknta [WD]: абратна как зделать
+[Sun Aug 28 15:40:09 2016]  say: hnknta [WD]: дибилина
+[Sun Aug 28 15:40:11 2016]  say: kosher: ни знаю
+[Sun Aug 28 15:40:23 2016]  say: kosher: ты школьник
+[Sun Aug 28 15:40:37 2016]  say: hnknta [WD]: сука ты задабал вон из сервера пашол сука
+[Sun Aug 28 15:41:11 2016]  say: hnknta [WD]: равен как абратна из неведимки
+[Sun Aug 28 15:41:25 2016]  say: ^0§^1INVADER^0§ Darth Raven: это не неведимка
+[Sun Aug 28 15:41:32 2016]  say: ^0§^1INVADER^0§ Darth Raven: ты просто уменьшил себ€
+[Sun Aug 28 15:41:35 2016]  say: hnknta [WD]: как абратна паевица
+[Sun Aug 28 15:41:43 2016]  say: ^0§^1INVADER^0§ Darth Raven: mscaleme 1
+[Sun Aug 28 15:41:50 2016]  say: hnknta [WD]: а вон вижу себ€
+[Sun Aug 28 15:42:09 2016]  say: ^0§^1INVADER^0§ Darth Raven: mscaleme5
+[Sun Aug 28 15:42:23 2016]  say: hnknta [WD]: ЋќќќќќќќќќќќќќќќќќќќќќќќЋ
+[Sun Aug 28 15:44:05 2016]  say: hnknta [WD]: € баба аграмена€
+[Sun Aug 28 15:46:16 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:47:09 2016]  say: hnknta [WD]: дибил
+[Sun Aug 28 15:47:14 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:47:36 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:47:41 2016]  Kill: 2 2 39: hnknta [WD] killed hnknta [WD] by MOD_SUICIDE
+[Sun Aug 28 15:48:00 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:48:03 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:48:49 2016]  say: hnknta [WD]: ты дибил вот скажи мне?
+[Sun Aug 28 15:49:01 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:49:10 2016]  say: hnknta [WD]: уууууууууууууууууууу дибил
+[Sun Aug 28 15:49:14 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:49:24 2016]  say: hnknta [WD]: равне
+[Sun Aug 28 15:49:27 2016]  say: hnknta [WD]: равен
+[Sun Aug 28 15:49:35 2016]  Kill: 1 3 31: ^0§^1INVADER^0§ Darth Raven killed kosher by MOD_FORCE_DARK
+[Sun Aug 28 15:49:40 2016]  say: ^0§^1INVADER^0§ Darth Raven: ?
+[Sun Aug 28 15:49:46 2016]  say: hnknta [WD]: как зделать лавушку любую
+[Sun Aug 28 15:49:47 2016]  Kill: 1 3 31: ^0§^1INVADER^0§ Darth Raven killed kosher by MOD_FORCE_DARK
+[Sun Aug 28 15:50:08 2016]  say: ^0§^1INVADER^0§ Darth Raven: € сдесь несколько мин откуда € знаю)
+[Sun Aug 28 15:50:21 2016]  Kill: 1 2 31: ^0§^1INVADER^0§ Darth Raven killed hnknta [WD] by MOD_FORCE_DARK
+[Sun Aug 28 15:50:24 2016]  say: hnknta [WD]: дибилц
+[Sun Aug 28 15:50:28 2016]  say: ^0§^1INVADER^0§ Darth Raven: лол
+[Sun Aug 28 15:50:51 2016]  say: hnknta [WD]: как
+[Sun Aug 28 15:50:54 2016]  say: ^0§^1INVADER^0§ Darth Raven: ?
+[Sun Aug 28 15:51:00 2016]  say: kosher: дибил
+[Sun Aug 28 15:51:01 2016]  say: hnknta [WD]: так долга молнии
+[Sun Aug 28 15:51:10 2016]  say: ^0§^1INVADER^0§ Darth Raven: матрица
+[Sun Aug 28 15:51:49 2016]  say: hnknta [WD]: а ета пукан твой?
+[Sun Aug 28 15:51:59 2016]  say: hnknta [WD]: красивый пукан у те€
+[Sun Aug 28 15:52:11 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:52:15 2016]  say: ^0§^1INVADER^0§ Darth Raven: xaxaax
+[Sun Aug 28 15:52:18 2016]  say: ^0§^1INVADER^0§ Darth Raven: lol
+[Sun Aug 28 15:52:57 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:53:38 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:55:14 2016]  say: hnknta [WD]: килер че будет так всю игру?
+[Sun Aug 28 15:57:10 2016]  print "^0§^1INVADER^0§ Darth Raven^7 @@@PLRENAME ^1-^0INV^1- ^0Raven^1[War]
+"[Sun Aug 28 15:57:37 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:58:00 2016]  say: hnknta [WD]: сокол тысеции лети€?
+[Sun Aug 28 15:58:25 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:58:26 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:58:27 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:58:28 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:59:18 2016]  Kill: 3 3 39: kosher killed kosher by MOD_SUICIDE
+[Sun Aug 28 15:59:19 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:59:20 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 15:59:23 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 16:00:44 2016]  say: hnknta [WD]: ƒј ’ј–≈ –ј¬≈Ќ
+[Sun Aug 28 16:01:00 2016]  say: hnknta [WD]: ты дибил
+[Sun Aug 28 16:01:04 2016]  say: kosher: дерево
+[Sun Aug 28 16:01:27 2016]  say: hnknta [WD]: атвали лох
+[Sun Aug 28 16:06:40 2016]  say: kosher: где вы
+[Sun Aug 28 16:06:45 2016]  say: hnknta [WD]: не гавари
+[Sun Aug 28 16:06:49 2016]  say: kosher: да
+[Sun Aug 28 16:06:58 2016]  say: kosher: ты дибил
+[Sun Aug 28 16:07:03 2016]  say: hnknta [WD]: ты 
+[Sun Aug 28 16:07:05 2016]  say: hnknta [WD]: ты дибил?
+[Sun Aug 28 16:07:06 2016]  say: kosher: ты
+[Sun Aug 28 16:07:09 2016]  say: kosher: нет
+[Sun Aug 28 16:07:14 2016]  say: hnknta [WD]: € не тебе
+[Sun Aug 28 16:07:21 2016]  say: hnknta [WD]: сматри как € магу
+[Sun Aug 28 16:07:28 2016]  say: kosher: как
+[Sun Aug 28 16:07:32 2016]  say: hnknta [WD]: «ј“ Ќ»—
+[Sun Aug 28 16:07:54 2016]  say: kosher: ну и че
+[Sun Aug 28 16:08:04 2016]  say: hnknta [WD]: нахер пашол
+[Sun Aug 28 16:09:14 2016]  say: kosher: ви где
+[Sun Aug 28 16:09:58 2016]  say: hnknta [WD]: ƒј ѕ≈–≈—“јЌ
+[Sun Aug 28 16:10:03 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: а как вы эти вещи спавните?
+[Sun Aug 28 16:10:09 2016]  say: kosher: тебе скока лет
+[Sun Aug 28 16:10:17 2016]  say: hnknta [WD]: сука
+[Sun Aug 28 16:10:28 2016]  say: kosher: € не сука а кабель
+[Sun Aug 28 16:10:35 2016]  say: hnknta [WD]: ты сука
+[Sun Aug 28 16:10:43 2016]  say: kosher: ти
+[Sun Aug 28 16:10:46 2016]  say: hnknta [WD]: ты
+[Sun Aug 28 16:10:59 2016]  say: kosher: ти где
+[Sun Aug 28 16:11:07 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: ник
+[Sun Aug 28 16:11:12 2016]  say: kosher: что
+[Sun Aug 28 16:11:30 2016]  say: kosher: ч“ќ Ќ» 
+[Sun Aug 28 16:11:40 2016]  say: kosher: My origin is: (-5556 -21779 1951) - You can teleport here with /mtelelast
+
+[Sun Aug 28 16:11:47 2016]  say: kosher: My origin is: (-5600 -21978 1748) - You can teleport here with /mtelelast
+
+[Sun Aug 28 16:12:02 2016]  say: kosher: ви где
+[Sun Aug 28 16:12:11 2016]  say: hnknta [WD]: если € скажу сколка лет ты адстанеш?
+[Sun Aug 28 16:12:14 2016]  say: kosher: да
+[Sun Aug 28 16:12:24 2016]  say: hnknta [WD]: 10000000000000
+[Sun Aug 28 16:12:54 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: hnh как ты вещи спавнишь?
+[Sun Aug 28 16:13:13 2016]  say: hnknta [WD]: веши € магу сказать
+[Sun Aug 28 16:13:19 2016]  say: kosher: тебе не 100000000000
+[Sun Aug 28 16:13:25 2016]  say: hnknta [WD]: да ты праф
+[Sun Aug 28 16:13:31 2016]  say: kosher: тебе 10
+[Sun Aug 28 16:13:31 2016]  say: hnknta [WD]: мне 9090909090909090909090909090
+[Sun Aug 28 16:13:34 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: ну там дерево платформу
+[Sun Aug 28 16:13:50 2016]  say: hnknta [WD]: € не помню
+[Sun Aug 28 16:13:55 2016]  say: kosher: mplace models/map_objects/yavin/trunk_log
+[Sun Aug 28 16:13:56 2016]  say: hnknta [WD]: € на букву спавню
+[Sun Aug 28 16:14:01 2016]  say: kosher: /mplace models/map_objects/yavin/trunk_log
+[Sun Aug 28 16:14:19 2016]  say: kosher: /mdrop
+[Sun Aug 28 16:14:23 2016]  say: kosher:  патом /mdrop
+[Sun Aug 28 16:15:01 2016]  say: hnknta [WD]: снацала адстан от мен€ и тагда € скажу сколка лет мне
+[Sun Aug 28 16:15:12 2016]  say: kosher: ok
+[Sun Aug 28 16:16:14 2016]  Item: 1 ammo_all
+[Sun Aug 28 16:16:18 2016]  Item: 1 ammo_all
+[Sun Aug 28 16:16:22 2016]  Item: 1 ammo_all
+[Sun Aug 28 16:17:43 2016]  say: kosher: raven скока лет
+[Sun Aug 28 16:18:14 2016]  say: kosher: скока
+[Sun Aug 28 16:18:19 2016]  say: kosher: че малчиш
+[Sun Aug 28 16:18:26 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: а сколько надо?
+[Sun Aug 28 16:18:35 2016]  say: kosher: скольлко на самом деле
+[Sun Aug 28 16:18:48 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: 16
+[Sun Aug 28 16:18:55 2016]  say: kosher: мало
+[Sun Aug 28 16:20:28 2016]  say: hnknta [WD]: идите на спаун
+[Sun Aug 28 16:20:33 2016]  say: hnknta [WD]: € пакатаю вас
+[Sun Aug 28 16:22:28 2016]  say: hnknta [WD]: вы где
+[Sun Aug 28 16:22:40 2016]  say: hnknta [WD]: о
+[Sun Aug 28 16:22:52 2016]  say: hnknta [WD]: о вот и ты
+[Sun Aug 28 16:23:08 2016]  say: hnknta [WD]: дибил слес с него
+[Sun Aug 28 16:23:18 2016]  say: hnknta [WD]: у мен€ т€нет экран на него
+[Sun Aug 28 16:23:23 2016]  say: hnknta [WD]: да дибил слес
+[Sun Aug 28 16:23:32 2016]  say: hnknta [WD]: –ј¬≈Ќ “џ √Ћ”’ќ…
+[Sun Aug 28 16:23:44 2016]  say: hnknta [WD]: наканец
+[Sun Aug 28 16:24:33 2016]  say: hnknta [WD]: с какой скорастю
+[Sun Aug 28 16:24:57 2016]  say: hnknta [WD]: с какой скораст. палетим
+[Sun Aug 28 16:25:05 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: с любой
+[Sun Aug 28 16:25:14 2016]  Kill: 1 3 27: ^1-^0INV^1- ^0Raven^1[War] killed kosher by MOD_DET_PACK_SPLASH
+[Sun Aug 28 16:25:14 2016]  say: hnknta [WD]: взлетаем
+[Sun Aug 28 16:25:16 2016]  say: hnknta [WD]: Ёћ
+[Sun Aug 28 16:25:17 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 16:25:18 2016]  say: hnknta [WD]: Ё
+[Sun Aug 28 16:25:18 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 16:25:19 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 16:25:21 2016]  Kill: 1022 3 36: <world> killed kosher by MOD_CRUSH
+[Sun Aug 28 16:25:24 2016]  say: hnknta [WD]: “џ ћќ…  ј–јЅЋ —јЋћјЋ
+[Sun Aug 28 16:25:28 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: летим
+[Sun Aug 28 16:25:33 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: збс пошло
+[Sun Aug 28 16:25:48 2016]  say: hnknta [WD]: чувак ты где
+[Sun Aug 28 16:26:02 2016]  say: hnknta [WD]: да равен харе шас не буду теб€ катать
+[Sun Aug 28 16:26:38 2016]  say: hnknta [WD]: хахахахахахахахахахаххаахахахаххахаа
+[Sun Aug 28 16:27:24 2016]  say: hnknta [WD]: ты дибил?
+[Sun Aug 28 16:27:39 2016]  say: hnknta [WD]: да атайдите
+[Sun Aug 28 16:27:56 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: cамалет
+[Sun Aug 28 16:28:13 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: заззаз
+[Sun Aug 28 16:28:14 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: лол
+[Sun Aug 28 16:28:25 2016]  say: hnknta [WD]: € им управл€ю 
+[Sun Aug 28 16:30:03 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: хахаха
+[Sun Aug 28 16:30:05 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: лол
+[Sun Aug 28 16:30:32 2016]  say: hnknta [WD]: дураки
+[Sun Aug 28 16:30:46 2016]  say: hnknta [WD]: хахахахахахаахахахахахах
+[Sun Aug 28 16:31:18 2016]  say: hnknta [WD]: эм
+[Sun Aug 28 16:31:22 2016]  say: hnknta [WD]: пасаиба
+[Sun Aug 28 16:32:04 2016]  say: hnknta [WD]: ƒ»Ѕ»Ћ Ќ≈ ѕјƒ–џ¬ј…
+[Sun Aug 28 16:32:14 2016]  say: hnknta [WD]: ѕ–ќ—“ј Ќјѕ»Ў» /not
+[Sun Aug 28 16:32:23 2016]  say: hnknta [WD]: ты дибил глухой
+[Sun Aug 28 16:33:25 2016]  say: hnknta [WD]: ƒј –ј¬¬≈Ќ
+[Sun Aug 28 16:34:13 2016]  say: hnknta [WD]: дибил
+[Sun Aug 28 16:34:50 2016]  say: hnknta [WD]: равен харе
+[Sun Aug 28 16:35:25 2016]  say: hnknta [WD]: равен тупой скот
+[Sun Aug 28 16:36:00 2016]  say: hnknta [WD]: равен болше не будем теб€ приглашать
+[Sun Aug 28 16:36:40 2016]  ShutdownGame:
+[Sun Aug 28 16:36:40 2016]  ------------------------------------------------------------

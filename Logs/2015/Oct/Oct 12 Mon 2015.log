@@ -1,0 +1,119 @@
+[Mon Oct 12 23:09:55 2015]  ------------------------------------------------------------
+[Mon Oct 12 23:09:55 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Oct 13 12:28:00 2015]  ClientConnect: 0
+[Tue Oct 13 12:28:00 2015]  mlog:Player ^2Chameleon, connected. With IP - 45.21.166.73:29070 
+[Tue Oct 13 12:28:22 2015]  ClientBegin: 0
+[Tue Oct 13 12:30:13 2015]  print "^7Padawan^7 @@@PLRENAME ^2Dew^7^^0.
+"[Tue Oct 13 12:32:02 2015]  say: ^2Dew^7^^0.: watchout
+[Tue Oct 13 12:32:03 2015]  say: ^2Dew^7^^0.: watchout
+[Tue Oct 13 12:32:04 2015]  say: ^2Dew^7^^0.: watchout
+[Tue Oct 13 12:32:04 2015]  say: ^2Dew^7^^0.: watchout
+[Tue Oct 13 12:32:04 2015]  say: ^2Dew^7^^0.: watchout
+[Tue Oct 13 12:32:05 2015]  say: ^2Dew^7^^0.: watchout
+[Tue Oct 13 12:32:05 2015]  say: ^2Dew^7^^0.: watchout
+[Tue Oct 13 12:32:19 2015]  say: ^2Dew^7^^0.: watchout
+[Tue Oct 13 12:35:53 2015]  ClientDisconnect: 0
+[Wed Oct 14 12:35:50 2015]  ClientConnect: 0
+[Wed Oct 14 12:35:50 2015]  mlog:Player Topha, connected. With IP - 78.50.25.109:29217 
+[Wed Oct 14 12:36:04 2015]  ClientBegin: 0
+[Wed Oct 14 12:36:54 2015]  ClientConnect: 1
+[Wed Oct 14 12:36:54 2015]  mlog:Player Wingel, connected. With IP - 87.123.195.133:-10522 
+[Wed Oct 14 12:37:07 2015]  ClientBegin: 1
+[Wed Oct 14 12:38:41 2015]  Kill: 0 1 3: Topha killed Wingel by MOD_SABER
+[Wed Oct 14 12:38:55 2015]  Kill: 0 0 39: Topha killed Topha by MOD_SUICIDE
+[Wed Oct 14 12:38:55 2015]  setteam:  0 FREE SPECTATOR
+[Wed Oct 14 12:38:55 2015]  ClientBegin: 0
+[Wed Oct 14 12:38:56 2015]  ClientConnect: 2
+[Wed Oct 14 12:38:56 2015]  mlog:Player pissbirne, connected. With IP - 88.152.66.223:-30328 
+[Wed Oct 14 12:39:04 2015]  setteam:  0 SPECTATOR FREE
+[Wed Oct 14 12:39:04 2015]  ClientBegin: 0
+[Wed Oct 14 12:39:16 2015]  ClientBegin: 2
+[Wed Oct 14 12:40:10 2015]  Kill: 0 2 3: Topha killed pissbirne by MOD_SABER
+[Wed Oct 14 12:41:37 2015]  Kill: 1 0 3: Wingel killed Topha by MOD_SABER
+[Wed Oct 14 12:41:52 2015]  Kill: 0 2 3: Topha killed pissbirne by MOD_SABER
+[Wed Oct 14 12:41:55 2015]  Kill: 0 1 3: Topha killed Wingel by MOD_SABER
+[Wed Oct 14 12:42:00 2015]  Kill: 0 2 3: Topha killed pissbirne by MOD_SABER
+[Wed Oct 14 12:42:09 2015]  Kill: 0 2 3: Topha killed pissbirne by MOD_SABER
+[Wed Oct 14 12:42:13 2015]  Kill: 2 0 3: pissbirne killed Topha by MOD_SABER
+[Wed Oct 14 12:43:00 2015]  Kill: 0 2 3: Topha killed pissbirne by MOD_SABER
+[Wed Oct 14 12:43:24 2015]  Kill: 1 2 3: Wingel killed pissbirne by MOD_SABER
+[Wed Oct 14 12:43:36 2015]  Kill: 2 0 3: pissbirne killed Topha by MOD_SABER
+[Wed Oct 14 12:43:47 2015]  Kill: 2 0 3: pissbirne killed Topha by MOD_SABER
+[Wed Oct 14 12:44:14 2015]  Kill: 2 0 3: pissbirne killed Topha by MOD_SABER
+[Wed Oct 14 12:44:44 2015]  ClientDisconnect: 0
+[Wed Oct 14 12:45:09 2015]  Kill: 1 2 3: Wingel killed pissbirne by MOD_SABER
+[Wed Oct 14 12:45:28 2015]  Kill: 2 1 3: pissbirne killed Wingel by MOD_SABER
+[Wed Oct 14 12:45:48 2015]  ClientDisconnect: 2
+[Wed Oct 14 12:46:21 2015]  ClientDisconnect: 1
+[Wed Oct 14 16:46:47 2015]  ClientConnect: 0
+[Wed Oct 14 16:46:47 2015]  mlog:Player postal445, connected. With IP - 89.68.62.139:29070 
+[Wed Oct 14 16:47:17 2015]  ClientBegin: 0
+[Wed Oct 14 16:48:45 2015]  ClientConnect: 1
+[Wed Oct 14 16:48:45 2015]  mlog:Player padawanbeziomisiaczek, connected. With IP - 95.160.177.178:29070 
+[Wed Oct 14 16:49:03 2015]  ClientBegin: 1
+[Wed Oct 14 16:49:08 2015]  say: postal445: hahaha
+[Wed Oct 14 16:49:10 2015]  say: postal445: jaki nick xD
+[Wed Oct 14 16:49:23 2015]  say: padawanbeziomisiaczek: witam
+[Wed Oct 14 16:49:23 2015]  say: postal445: y sie pisze
+[Wed Oct 14 16:49:25 2015]  say: padawanbeziomisiaczek: halo
+[Wed Oct 14 16:49:27 2015]  say: padawanbeziomisiaczek: o 
+[Wed Oct 14 16:49:27 2015]  say: postal445: og xD
+[Wed Oct 14 16:49:33 2015]  say: padawanbeziomisiaczek: co tera
+[Wed Oct 14 16:49:37 2015]  say: postal445: no naucz sie
+[Wed Oct 14 16:49:39 2015]  say: postal445: czegokolwiek
+[Wed Oct 14 16:49:39 2015]  say: padawanbeziomisiaczek: jak robic fikolasy?
+[Wed Oct 14 16:49:44 2015]  say: postal445: spacja
+[Wed Oct 14 16:49:46 2015]  say: postal445: i wasd
+[Wed Oct 14 16:49:52 2015]  say: postal445: albo odwrotnie
+[Wed Oct 14 16:49:53 2015]  say: postal445: wasd
+[Wed Oct 14 16:49:55 2015]  say: postal445: i spacja
+[Wed Oct 14 16:49:56 2015]  say: padawanbeziomisiaczek: gin
+[Wed Oct 14 16:50:18 2015]  say: postal445: o ty szmato
+[Wed Oct 14 16:50:22 2015]  Kill: 0 1 3: postal445 killed padawanbeziomisiaczek by MOD_SABER
+[Wed Oct 14 16:50:24 2015]  say: padawanbeziomisiaczek: omg
+[Wed Oct 14 16:50:25 2015]  say: padawanbeziomisiaczek: xD
+[Wed Oct 14 16:50:26 2015]  say: postal445: jak sie zrobi cos takiego
+[Wed Oct 14 16:50:30 2015]  say: postal445: to to jest lightsaber duel
+[Wed Oct 14 16:50:33 2015]  say: postal445: i musisz lpm napierdalac
+[Wed Oct 14 16:50:34 2015]  say: padawanbeziomisiaczek: i jak wygrac
+[Wed Oct 14 16:50:34 2015]  say: postal445: XDD
+[Wed Oct 14 16:50:35 2015]  say: padawanbeziomisiaczek: aha
+[Wed Oct 14 16:51:03 2015]  Kill: 1 0 3: padawanbeziomisiaczek killed postal445 by MOD_SABER
+[Wed Oct 14 16:51:04 2015]  say: padawanbeziomisiaczek: xD
+[Wed Oct 14 16:51:08 2015]  say: postal445: ej kurwa tu sa same duele xD
+[Wed Oct 14 16:51:12 2015]  say: postal445: nie da sie normalnie killnac
+[Wed Oct 14 16:51:14 2015]  say: padawanbeziomisiaczek: kurwa
+[Wed Oct 14 16:51:15 2015]  say: postal445: no ale i tak mozemy sie pobawic
+[Wed Oct 14 16:51:27 2015]  Kill: 0 1 3: postal445 killed padawanbeziomisiaczek by MOD_SABER
+[Wed Oct 14 16:52:04 2015]  say: postal445: patrzh
+[Wed Oct 14 16:52:18 2015]  say: postal445: mozna wbiegac
+[Wed Oct 14 16:52:26 2015]  say: padawanbeziomisiaczek: dobra zdychaj
+[Wed Oct 14 16:52:35 2015]  Kill: 0 1 3: postal445 killed padawanbeziomisiaczek by MOD_SABER
+[Wed Oct 14 16:52:37 2015]  say: padawanbeziomisiaczek: omg
+[Wed Oct 14 16:52:38 2015]  say: padawanbeziomisiaczek: xD
+[Wed Oct 14 16:52:45 2015]  say: postal445: za wolno klikasz szmato
+[Wed Oct 14 16:52:46 2015]  say: postal445: xD
+[Wed Oct 14 16:53:16 2015]  Kill: 1 0 3: padawanbeziomisiaczek killed postal445 by MOD_SABER
+[Wed Oct 14 16:53:18 2015]  say: postal445: kurwa
+[Wed Oct 14 16:53:19 2015]  say: postal445: xD
+[Wed Oct 14 16:53:20 2015]  say: padawanbeziomisiaczek: xD
+[Wed Oct 14 16:53:58 2015]  Kill: 0 1 3: postal445 killed padawanbeziomisiaczek by MOD_SABER
+[Wed Oct 14 16:54:02 2015]  say: postal445: co ja ci zrobilem?
+[Wed Oct 14 16:54:06 2015]  say: postal445: bo miales mindtricka
+[Wed Oct 14 16:54:09 2015]  say: postal445: i nie wiem co to dalo xD
+[Wed Oct 14 16:54:11 2015]  say: padawanbeziomisiaczek: sam nie wiem
+[Wed Oct 14 16:54:48 2015]  Kill: 0 1 3: postal445 killed padawanbeziomisiaczek by MOD_SABER
+[Wed Oct 14 16:54:51 2015]  say: padawanbeziomisiaczek: fuzckckkk
+[Wed Oct 14 16:54:53 2015]  say: postal445: lecim gdzie indziej? xD
+[Wed Oct 14 16:54:57 2015]  say: postal445: zeby sie dalo normalnie killac?
+[Wed Oct 14 16:54:57 2015]  say: padawanbeziomisiaczek: dawaj serwe y normalna walka
+[Wed Oct 14 16:55:02 2015]  say: postal445: og
+[Wed Oct 14 16:55:04 2015]  say: postal445: zaraz znajde xD
+[Wed Oct 14 16:55:05 2015]  ClientDisconnect: 1
+[Wed Oct 14 16:55:10 2015]  ClientDisconnect: 0
+[Wed Oct 14 20:22:51 2015]  ClientConnect: 0
+[Wed Oct 14 20:22:51 2015]  mlog:Player Lord Dale, connected. With IP - 83.253.107.72:29070 
+[Wed Oct 14 20:22:51 2015]  ClientConnect: 1
+[Wed Oct 14 20:22:51 2015]  mlog:Player Darth Tim , connected. With IP - 213.89.120.36:29071 
+[Wed Oct 14 20:22:56 2015]  ClientDisconnect: 0
+[Wed Oct 14 20:22:58 2015]  ClientDisconnect: 1

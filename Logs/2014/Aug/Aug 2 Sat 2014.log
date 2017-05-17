@@ -1,0 +1,63 @@
+[Sat Aug 02 01:03:11 2014]  ------------------------------------------------------------
+[Sat Aug 02 01:03:11 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Aug 02 01:05:36 2014]  ClientConnect: 0
+[Sat Aug 02 01:07:37 2014]  ClientBegin: 0
+[Sat Aug 02 04:21:49 2014]  ClientConnect: 1
+[Sat Aug 02 04:21:49 2014]  mlog:Player ^2Dinkleberg, connected. With IP - 98.242.28.167:29070 
+[Sat Aug 02 04:22:06 2014]  ClientBegin: 1
+[Sat Aug 02 04:22:21 2014]  say: ^2Dinkleberg: npc spawn npc rancor
+[Sat Aug 02 04:22:27 2014]  ClientDisconnect: 1
+[Sat Aug 02 06:48:49 2014]  ClientDisconnect: 0
+[Sat Aug 02 06:51:09 2014]  ------------------------------------------------------------
+[Sat Aug 02 06:51:09 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Aug 02 07:03:46 2014]  ClientConnect: 0
+[Sat Aug 02 07:03:46 2014]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sat Aug 02 07:04:03 2014]  ClientBegin: 0
+[Sat Aug 02 07:27:11 2014]  ClientDisconnect: 0
+[Sat Aug 02 07:27:30 2014]  ClientConnect: 0
+[Sat Aug 02 07:27:30 2014]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sat Aug 02 07:28:03 2014]  ClientBegin: 0
+[Sat Aug 02 07:28:25 2014]  ClientDisconnect: 0
+[Sat Aug 02 07:47:22 2014]  ------------------------------------------------------------
+[Sat Aug 02 07:47:22 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Aug 02 09:47:16 2014]  Exit: Timelimit hit.
+[Sat Aug 02 15:08:06 2014]  ClientConnect: 0
+[Sat Aug 02 15:08:07 2014]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sat Aug 02 15:10:24 2014]  ClientBegin: 0
+[Sat Aug 02 15:10:51 2014]  ShutdownGame:
+[Sat Aug 02 15:10:51 2014]  ------------------------------------------------------------
+[Sat Aug 02 15:10:52 2014]  ------------------------------------------------------------
+[Sat Aug 02 15:10:52 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Aug 02 15:10:56 2014]  ClientConnect: 0
+[Sat Aug 02 15:11:02 2014]  ClientBegin: 0
+[Sat Aug 02 15:12:13 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Sat Aug 02 15:16:11 2014]  ClientDisconnect: 0
+[Sat Aug 02 16:08:52 2014]  ClientConnect: 0
+[Sat Aug 02 16:08:54 2014]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sat Aug 02 16:12:20 2014]  ClientDisconnect: 0
+[Sat Aug 02 17:10:59 2014]  Exit: Timelimit hit.
+[Sat Aug 02 19:18:27 2014]  ClientConnect: 0
+[Sat Aug 02 19:18:27 2014]  mlog:Player ^5»^0SK^5|||^0WØLF^5«^0™, connected. With IP - 177.9.247.77:29070 
+[Sat Aug 02 19:18:50 2014]  ClientBegin: 0
+[Sat Aug 02 19:18:53 2014]  ShutdownGame:
+[Sat Aug 02 19:18:53 2014]  ------------------------------------------------------------
+[Sat Aug 02 19:18:54 2014]  ------------------------------------------------------------
+[Sat Aug 02 19:18:54 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Aug 02 19:18:55 2014]  ClientConnect: 0
+[Sat Aug 02 19:19:04 2014]  ClientBegin: 0
+[Sat Aug 02 19:23:51 2014]  ClientDisconnect: 0
+[Sat Aug 02 19:57:12 2014]  ClientConnect: 0
+[Sat Aug 02 19:57:12 2014]  mlog:Player ^5»^0SK^5|||^0WØLF^5«^0™, connected. With IP - 177.9.247.77:29070 
+[Sat Aug 02 19:57:27 2014]  ClientBegin: 0
+[Sat Aug 02 19:58:04 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: !mine
+[Sat Aug 02 19:58:11 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: !mine
+[Sat Aug 02 19:58:26 2014]  ClientDisconnect: 0
+[Sat Aug 02 21:18:52 2014]  Exit: Timelimit hit.
+[Sat Aug 02 23:29:24 2014]  ClientConnect: 0
+[Sat Aug 02 23:29:24 2014]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sat Aug 02 23:32:46 2014]  ClientDisconnect: 0
+[Sun Aug 03 02:19:48 2014]  ClientConnect: 0
+[Sun Aug 03 02:19:48 2014]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sun Aug 03 02:20:11 2014]  ClientBegin: 0
+[Sun Aug 03 02:22:45 2014]  ShutdownGame:
+[Sun Aug 03 02:22:45 2014]  ------------------------------------------------------------

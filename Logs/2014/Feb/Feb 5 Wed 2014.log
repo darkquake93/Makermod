@@ -1,0 +1,394 @@
+[Wed Feb 05 15:19:39 2014]  ------------------------------------------------------------
+[Wed Feb 05 15:19:39 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Feb 05 15:19:41 2014]  ClientConnect: 0
+[Wed Feb 05 15:19:41 2014]  ClientConnect: 1
+[Wed Feb 05 15:20:03 2014]  ClientBegin: 1
+[Wed Feb 05 15:20:58 2014]  ClientDisconnect: 0
+[Wed Feb 05 15:23:03 2014]  ClientConnect: 0
+[Wed Feb 05 15:23:03 2014]  mlog:Player Padawan, connected. With IP - 95.73.165.14:29070 
+[Wed Feb 05 15:23:39 2014]  ClientDisconnect: 0
+[Wed Feb 05 15:24:57 2014]  ClientDisconnect: 1
+[Wed Feb 05 15:38:47 2014]  ClientConnect: 0
+[Wed Feb 05 15:38:47 2014]  mlog:Player ^0Darth ^1Javimetal, connected. With IP - 85.219.4.121:29070 
+[Wed Feb 05 15:38:58 2014]  ClientBegin: 0
+[Wed Feb 05 16:00:59 2014]  say: ^0Darth ^1Javimetal: hola
+[Wed Feb 05 16:01:06 2014]  say: ^0Darth ^1Javimetal: xD
+[Wed Feb 05 16:29:21 2014]  Kill: 0 0 36: ^0Darth ^1Javimetal killed ^0Darth ^1Javimetal by MOD_CRUSH
+[Wed Feb 05 16:33:56 2014]  ClientDisconnect: 0
+[Wed Feb 05 17:19:37 2014]  Exit: Timelimit hit.
+[Wed Feb 05 20:54:49 2014]  ClientConnect: 0
+[Wed Feb 05 20:54:49 2014]  mlog:Player ^4Ony^5sfx, connected. With IP - 69.157.21.8:29070 
+[Wed Feb 05 20:55:20 2014]  ClientBegin: 0
+[Wed Feb 05 20:55:26 2014]  ShutdownGame:
+[Wed Feb 05 20:55:26 2014]  ------------------------------------------------------------
+[Wed Feb 05 20:55:26 2014]  ------------------------------------------------------------
+[Wed Feb 05 20:55:26 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Feb 05 20:55:27 2014]  ClientConnect: 0
+[Wed Feb 05 20:55:31 2014]  ClientConnect: 1
+[Wed Feb 05 20:55:31 2014]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 151.227.122.213:29070 
+[Wed Feb 05 20:55:41 2014]  ClientBegin: 0
+[Wed Feb 05 20:55:51 2014]  ClientBegin: 1
+[Wed Feb 05 20:56:04 2014]  say: ^1M^7r ^1Ð^7innertime: You're welcome ;o
+[Wed Feb 05 20:56:32 2014]  say: ^4Ony^5sfx: dammit
+[Wed Feb 05 20:56:34 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 20:56:35 2014]  say: ^4Ony^5sfx: why this map
+[Wed Feb 05 20:56:38 2014]  say: ^4Ony^5sfx: well I'll show you
+[Wed Feb 05 20:56:40 2014]  say: ^4Ony^5sfx: what I got so far
+[Wed Feb 05 20:56:42 2014]  say: ^1M^7r ^1Ð^7innertime: k
+[Wed Feb 05 20:56:49 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 20:56:51 2014]  say: ^4Ony^5sfx: oh uh
+[Wed Feb 05 20:56:58 2014]  say: ^4Ony^5sfx: not at spawn
+[Wed Feb 05 20:57:08 2014]  say: ^4Ony^5sfx: oh darn
+[Wed Feb 05 20:57:12 2014]  say: ^4Ony^5sfx: just remembered
+[Wed Feb 05 20:57:19 2014]  say: ^4Ony^5sfx: I have the script set up
+[Wed Feb 05 20:57:24 2014]  say: ^4Ony^5sfx: to mark a certain location
+[Wed Feb 05 20:57:26 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 20:57:28 2014]  say: ^4Ony^5sfx: in a seperate txt file
+[Wed Feb 05 20:57:37 2014]  say: ^4Ony^5sfx: so I can exec it in all the other txt files that use it
+[Wed Feb 05 20:57:59 2014]  say: ^4Ony^5sfx: so I can set up multiple things in the same location in appropriate proximity to one another
+[Wed Feb 05 20:58:19 2014]  say: ^1M^7r ^1Ð^7innertime: So did you like any of my scripts? ._. Other than the huge one which took forever which had one bug?
+[Wed Feb 05 20:58:29 2014]  say: ^4Ony^5sfx: wasn't the huge one specifically
+[Wed Feb 05 20:58:32 2014]  say: ^4Ony^5sfx: it was the menu
+[Wed Feb 05 20:58:35 2014]  say: ^4Ony^5sfx: but ya
+[Wed Feb 05 20:58:35 2014]  say: ^1M^7r ^1Ð^7innertime: Lol
+[Wed Feb 05 20:58:41 2014]  say: ^4Ony^5sfx: Hold on, I'll show you
+[Wed Feb 05 20:58:43 2014]  say: ^4Ony^5sfx: my favourite one of yours
+[Wed Feb 05 20:58:45 2014]  say: ^1M^7r ^1Ð^7innertime: k
+[Wed Feb 05 20:58:46 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 20:59:01 2014]  say: ^1M^7r ^1Ð^7innertime: was it the Havoc Cannon?
+[Wed Feb 05 20:59:12 2014]  say: ^4Ony^5sfx: nope
+[Wed Feb 05 20:59:14 2014]  say: ^1M^7r ^1Ð^7innertime: ah
+[Wed Feb 05 20:59:15 2014]  say: ^4Ony^5sfx: but that was awesome too
+[Wed Feb 05 20:59:17 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 20:59:21 2014]  say: ^4Ony^5sfx: uh one sec
+[Wed Feb 05 21:00:04 2014]  say: ^1M^7r ^1Ð^7innertime: Why don't you use the menu to find it?
+[Wed Feb 05 21:00:05 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:00:08 2014]  say: ^4Ony^5sfx: I am
+[Wed Feb 05 21:00:09 2014]  say: ^1M^7r ^1Ð^7innertime: o
+[Wed Feb 05 21:00:11 2014]  say: ^1M^7r ^1Ð^7innertime: oh*
+[Wed Feb 05 21:00:25 2014]  say: ^4Ony^5sfx: k it must be
+[Wed Feb 05 21:00:27 2014]  say: ^4Ony^5sfx: in destruction
+[Wed Feb 05 21:00:30 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:00:35 2014]  say: ^4Ony^5sfx: oops
+[Wed Feb 05 21:00:36 2014]  say: ^1M^7r ^1Ð^7innertime: LOL
+[Wed Feb 05 21:00:37 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:00:48 2014]  say: ^4Ony^5sfx: I'll bet you weren't expecting that
+[Wed Feb 05 21:00:50 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:00:57 2014]  say: ^1M^7r ^1Ð^7innertime: what did it do?
+[Wed Feb 05 21:00:57 2014]  say: ^4Ony^5sfx: this might be it
+[Wed Feb 05 21:01:01 2014]  say: ^1M^7r ^1Ð^7innertime: ah xD
+[Wed Feb 05 21:01:45 2014]  ClientDisconnect: 0
+[Wed Feb 05 21:01:45 2014]  ClientConnect: 0
+[Wed Feb 05 21:01:45 2014]  mlog:Player ^4Ony^5sfx, connected. With IP - 69.157.21.8:29070 
+[Wed Feb 05 21:02:05 2014]  ClientBegin: 0
+[Wed Feb 05 21:02:56 2014]  say: ^4Ony^5sfx: go to rancor arena
+[Wed Feb 05 21:03:31 2014]  say: ^4Ony^5sfx: hello?
+[Wed Feb 05 21:03:35 2014]  say: ^1M^7r ^1Ð^7innertime: trying to find it
+[Wed Feb 05 21:03:39 2014]  say: ^4Ony^5sfx: My origin is: (-1575 -1003 -471) - You can teleport here with /mtelelast
+
+[Wed Feb 05 21:03:43 2014]  say: ^1M^7r ^1Ð^7innertime: ty xD
+[Wed Feb 05 21:03:47 2014]  say: ^4Ony^5sfx: ok press this
+[Wed Feb 05 21:03:51 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:03:52 2014]  say: ^4Ony^5sfx: so basically
+[Wed Feb 05 21:03:56 2014]  say: ^4Ony^5sfx: the gametype is defend the crystal
+[Wed Feb 05 21:04:01 2014]  say: ^4Ony^5sfx: dont hit it
+[Wed Feb 05 21:04:04 2014]  say: ^4Ony^5sfx: pleeee
+[Wed Feb 05 21:04:04 2014]  say: ^1M^7r ^1Ð^7innertime: D:
+[Wed Feb 05 21:04:06 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:04:10 2014]  say: ^4Ony^5sfx: so ya defend the crystal
+[Wed Feb 05 21:04:17 2014]  say: ^4Ony^5sfx: basically I'll have an invincible npc inside
+[Wed Feb 05 21:04:19 2014]  say: ^4Ony^5sfx: scaled down
+[Wed Feb 05 21:04:26 2014]  say: ^4Ony^5sfx: and i'll use mattack so the other npcs attack the crystal
+[Wed Feb 05 21:04:36 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:04:39 2014]  say: ^4Ony^5sfx: also
+[Wed Feb 05 21:04:43 2014]  say: ^4Ony^5sfx: there is an added bonus
+[Wed Feb 05 21:04:52 2014]  say: ^1M^7r ^1Ð^7innertime: Did you like my final atonement script? ;o
+[Wed Feb 05 21:05:01 2014]  say: ^4Ony^5sfx: you can buy stuff to defend your base and crystal, and ya I liked it
+[Wed Feb 05 21:05:04 2014]  say: ^1M^7r ^1Ð^7innertime: :D
+[Wed Feb 05 21:05:10 2014]  say: ^4Ony^5sfx: such as walls to protect the crystal
+[Wed Feb 05 21:05:12 2014]  say: ^1M^7r ^1Ð^7innertime: oh
+[Wed Feb 05 21:05:17 2014]  say: ^1M^7r ^1Ð^7innertime: wow xD
+[Wed Feb 05 21:05:18 2014]  say: ^1M^7r ^1Ð^7innertime: nice
+[Wed Feb 05 21:05:26 2014]  say: ^4Ony^5sfx: I originally only had 2
+[Wed Feb 05 21:05:28 2014]  say: ^4Ony^5sfx: press it
+[Wed Feb 05 21:05:34 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:05:48 2014]  say: ^4Ony^5sfx: but when I only had 2 of the walls
+[Wed Feb 05 21:05:51 2014]  say: ^1M^7r ^1Ð^7innertime: I learnt how to yellow poke. btw
+[Wed Feb 05 21:05:52 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:05:58 2014]  say: ^4Ony^5sfx: shots would pass through, and hit the crystal
+[Wed Feb 05 21:06:00 2014]  say: ^4Ony^5sfx: so I had to make 4
+[Wed Feb 05 21:06:02 2014]  say: ^1M^7r ^1Ð^7innertime: oh
+[Wed Feb 05 21:06:07 2014]  say: ^4Ony^5sfx: oh and press and read it
+[Wed Feb 05 21:06:16 2014]  say: ^1M^7r ^1Ð^7innertime: ik
+[Wed Feb 05 21:06:24 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:06:34 2014]  say: ^4Ony^5sfx: now lets do a test
+[Wed Feb 05 21:06:41 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:06:43 2014]  say: ^4Ony^5sfx: I'm gonna spawn the crystal at 1 hp
+[Wed Feb 05 21:06:47 2014]  say: ^1M^7r ^1Ð^7innertime: oh
+[Wed Feb 05 21:06:49 2014]  say: ^4Ony^5sfx: and see if your saber reachs in
+[Wed Feb 05 21:06:53 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:07:00 2014]  say: ^4Ony^5sfx: one sec
+[Wed Feb 05 21:07:05 2014]  Kill: 1 0 0: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_UNKNOWN
+[Wed Feb 05 21:07:06 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:07:12 2014]  say: ^4Ony^5sfx: dammmit
+[Wed Feb 05 21:07:14 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:07:15 2014]  say: ^4Ony^5sfx: you killed it
+[Wed Feb 05 21:07:21 2014]  say: ^4Ony^5sfx: oh by the way
+[Wed Feb 05 21:07:23 2014]  say: ^1M^7r ^1Ð^7innertime: ?
+[Wed Feb 05 21:07:24 2014]  say: ^4Ony^5sfx: I scale it big like that a first
+[Wed Feb 05 21:07:27 2014]  say: ^1M^7r ^1Ð^7innertime: oh
+[Wed Feb 05 21:07:30 2014]  say: ^4Ony^5sfx: so the npc can fit inside
+[Wed Feb 05 21:07:31 2014]  say: ^4Ony^5sfx: wait
+[Wed Feb 05 21:07:33 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:07:40 2014]  say: ^4Ony^5sfx: dont hit it yet
+[Wed Feb 05 21:07:42 2014]  say: ^1M^7r ^1Ð^7innertime: D:
+[Wed Feb 05 21:07:57 2014]  say: ^4Ony^5sfx: ok now
+[Wed Feb 05 21:07:59 2014]  say: ^4Ony^5sfx: just one slice
+[Wed Feb 05 21:08:07 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:08:11 2014]  say: ^4Ony^5sfx: its dead
+[Wed Feb 05 21:08:13 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:08:19 2014]  say: ^4Ony^5sfx: now get a blaster rifle
+[Wed Feb 05 21:08:23 2014]  say: ^1M^7r ^1Ð^7innertime: D:
+[Wed Feb 05 21:08:24 2014]  say: ^1M^7r ^1Ð^7innertime: but
+[Wed Feb 05 21:08:28 2014]  Item: 0 weapon_blaster
+[Wed Feb 05 21:08:28 2014]  say: ^1M^7r ^1Ð^7innertime: people can still saber it
+[Wed Feb 05 21:08:38 2014]  Kill: 1 0 3: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_SABER
+[Wed Feb 05 21:08:40 2014]  say: ^4Ony^5sfx: ya, didn't you read the description?
+[Wed Feb 05 21:08:42 2014]  say: ^1M^7r ^1Ð^7innertime: no
+[Wed Feb 05 21:08:48 2014]  Kill: 1 0 3: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_SABER
+[Wed Feb 05 21:08:54 2014]  say: ^4Ony^5sfx: let me show you
+[Wed Feb 05 21:09:03 2014]  say: ^4Ony^5sfx: press it
+[Wed Feb 05 21:09:06 2014]  say: ^4Ony^5sfx: read
+[Wed Feb 05 21:09:10 2014]  say: ^4Ony^5sfx: allows sabers
+[Wed Feb 05 21:09:11 2014]  say: ^1M^7r ^1Ð^7innertime: oh..
+[Wed Feb 05 21:09:12 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:09:19 2014]  say: ^4Ony^5sfx: still alive though
+[Wed Feb 05 21:09:21 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:09:23 2014]  say: ^4Ony^5sfx: didn't get it yet
+[Wed Feb 05 21:09:31 2014]  say: ^1M^7r ^1Ð^7innertime: dead?
+[Wed Feb 05 21:09:32 2014]  say: ^4Ony^5sfx: nope
+[Wed Feb 05 21:09:35 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:09:44 2014]  say: ^1M^7r ^1Ð^7innertime: wow
+[Wed Feb 05 21:09:51 2014]  say: ^4Ony^5sfx: now it is
+[Wed Feb 05 21:09:52 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:09:55 2014]  say: ^4Ony^5sfx: oh I know why
+[Wed Feb 05 21:09:55 2014]  say: ^1M^7r ^1Ð^7innertime: I broke the walls
+[Wed Feb 05 21:09:58 2014]  say: ^4Ony^5sfx: I didn't set it to 1 hp
+[Wed Feb 05 21:10:01 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:10:17 2014]  say: ^4Ony^5sfx: k it is now
+[Wed Feb 05 21:10:31 2014]  say: ^4Ony^5sfx: sec
+[Wed Feb 05 21:10:34 2014]  say: ^4Ony^5sfx: oh daer
+[Wed Feb 05 21:10:36 2014]  say: ^4Ony^5sfx: look
+[Wed Feb 05 21:10:43 2014]  say: ^4Ony^5sfx: :(
+[Wed Feb 05 21:10:53 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:10:54 2014]  say: ^4Ony^5sfx: gotta let it all spawn out first
+[Wed Feb 05 21:10:56 2014]  say: ^1M^7r ^1Ð^7innertime: oh
+[Wed Feb 05 21:11:06 2014]  say: ^4Ony^5sfx: just saved it
+[Wed Feb 05 21:11:10 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:11:17 2014]  say: ^4Ony^5sfx: ok now
+[Wed Feb 05 21:11:21 2014]  say: ^4Ony^5sfx: get out
+[Wed Feb 05 21:11:23 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:11:24 2014]  say: ^4Ony^5sfx: and try to saber through it
+[Wed Feb 05 21:11:36 2014]  say: ^4Ony^5sfx: again
+[Wed Feb 05 21:11:38 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:11:38 2014]  say: ^4Ony^5sfx: not dead yet
+[Wed Feb 05 21:11:54 2014]  say: ^4Ony^5sfx: still alive
+[Wed Feb 05 21:11:59 2014]  say: ^1M^7r ^1Ð^7innertime: !?!?
+[Wed Feb 05 21:11:59 2014]  say: ^4Ony^5sfx: you got it
+[Wed Feb 05 21:12:01 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:12:04 2014]  say: ^4Ony^5sfx: broke the wall
+[Wed Feb 05 21:12:10 2014]  say: ^4Ony^5sfx: so it does protect sabers...nice
+[Wed Feb 05 21:12:13 2014]  say: ^1M^7r ^1Ð^7innertime: :D
+[Wed Feb 05 21:12:23 2014]  say: ^4Ony^5sfx: now
+[Wed Feb 05 21:12:25 2014]  say: ^4Ony^5sfx: use a blaster
+[Wed Feb 05 21:12:30 2014]  say: ^4Ony^5sfx: blaster
+[Wed Feb 05 21:12:31 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:12:37 2014]  say: ^4Ony^5sfx: /give weapon_blaster
+[Wed Feb 05 21:12:57 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:12:59 2014]  say: ^4Ony^5sfx: broke the wall
+[Wed Feb 05 21:13:04 2014]  say: ^4Ony^5sfx: but it stayed alive before you did
+[Wed Feb 05 21:13:08 2014]  say: ^1M^7r ^1Ð^7innertime: I broke the fourth wall :o
+[Wed Feb 05 21:13:12 2014]  say: ^4Ony^5sfx: lol
+[Wed Feb 05 21:13:23 2014]  say: ^4Ony^5sfx: now
+[Wed Feb 05 21:13:26 2014]  say: ^4Ony^5sfx: try a rocket launcher
+[Wed Feb 05 21:13:26 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:13:29 2014]  say: ^4Ony^5sfx: ddah
+[Wed Feb 05 21:13:30 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:13:37 2014]  say: ^4Ony^5sfx: you fu
+[Wed Feb 05 21:13:39 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:13:50 2014]  say: ^4Ony^5sfx: kil it
+[Wed Feb 05 21:13:52 2014]  say: ^4Ony^5sfx: killed it
+[Wed Feb 05 21:14:01 2014]  say: ^4Ony^5sfx: before you even broke the wall
+[Wed Feb 05 21:14:03 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:14:03 2014]  say: ^4Ony^5sfx: it died
+[Wed Feb 05 21:14:09 2014]  say: ^4Ony^5sfx: so ya my theory was right
+[Wed Feb 05 21:14:22 2014]  say: ^4Ony^5sfx: I noticed in your script
+[Wed Feb 05 21:14:28 2014]  say: ^4Ony^5sfx: you had a re-enforcement script
+[Wed Feb 05 21:14:33 2014]  say: ^1M^7r ^1Ð^7innertime: Yeah lol
+[Wed Feb 05 21:14:39 2014]  say: ^4Ony^5sfx: I liked the use of the shuttle coming in and out
+[Wed Feb 05 21:14:41 2014]  say: ^1M^7r ^1Ð^7innertime: :D
+[Wed Feb 05 21:14:42 2014]  say: ^4Ony^5sfx: and with ontimer
+[Wed Feb 05 21:14:43 2014]  say: ^4Ony^5sfx: you could move
+[Wed Feb 05 21:14:46 2014]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Wed Feb 05 21:14:48 2014]  say: ^4Ony^5sfx: AND
+[Wed Feb 05 21:14:50 2014]  say: ^4Ony^5sfx: the uh
+[Wed Feb 05 21:14:54 2014]  say: ^4Ony^5sfx: what's the command
+[Wed Feb 05 21:14:55 2014]  say: ^4Ony^5sfx: oh ya
+[Wed Feb 05 21:14:57 2014]  say: ^4Ony^5sfx: markoffset
+[Wed Feb 05 21:14:59 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:15:10 2014]  say: ^4Ony^5sfx: Which can be annoying sometimes, cause it changes the mmark location
+[Wed Feb 05 21:15:10 2014]  say: ^1M^7r ^1Ð^7innertime: I tried marktoffset but it bugged out
+[Wed Feb 05 21:15:27 2014]  say: ^4Ony^5sfx: but...I plan on using it, since I have the seperate txt file with the original origin
+[Wed Feb 05 21:15:30 2014]  say: ^1M^7r ^1Ð^7innertime: :D
+[Wed Feb 05 21:15:34 2014]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Wed Feb 05 21:15:37 2014]  say: ^1M^7r ^1Ð^7innertime: I included those
+[Wed Feb 05 21:15:41 2014]  say: ^1M^7r ^1Ð^7innertime: they're in the archive folder
+[Wed Feb 05 21:15:41 2014]  say: ^4Ony^5sfx: so ill be using mmarkt where I want the shuttle to land
+[Wed Feb 05 21:15:49 2014]  say: ^4Ony^5sfx: ya I used them
+[Wed Feb 05 21:15:51 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:15:56 2014]  say: ^1M^7r ^1Ð^7innertime: Did you use my ontimer converter?
+[Wed Feb 05 21:16:06 2014]  say: ^4Ony^5sfx: so ya, ill use offset to make it farther away, then know the exact units to get it to land
+[Wed Feb 05 21:16:08 2014]  say: ^4Ony^5sfx: and not yet
+[Wed Feb 05 21:16:09 2014]  say: ^1M^7r ^1Ð^7innertime: ;o
+[Wed Feb 05 21:16:17 2014]  say: ^4Ony^5sfx: I'm using ontimer from now on though
+[Wed Feb 05 21:16:20 2014]  say: ^1M^7r ^1Ð^7innertime: ah okay
+[Wed Feb 05 21:16:26 2014]  say: ^4Ony^5sfx: its kinda strange, it's different from a wait command
+[Wed Feb 05 21:16:28 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:16:34 2014]  say: ^4Ony^5sfx: you gotta use it for every command, even if they're in the same line
+[Wed Feb 05 21:16:36 2014]  say: ^4Ony^5sfx: for it to work
+[Wed Feb 05 21:16:39 2014]  say: ^4Ony^5sfx: for some things
+[Wed Feb 05 21:16:42 2014]  say: ^1M^7r ^1Ð^7innertime: ah
+[Wed Feb 05 21:16:47 2014]  say: ^1M^7r ^1Ð^7innertime: Well... you don't have to
+[Wed Feb 05 21:20:08 2014]  ClientDisconnect: 0
+[Wed Feb 05 21:20:48 2014]  ClientConnect: 0
+[Wed Feb 05 21:20:48 2014]  mlog:Player ^4Ony^5sfx, connected. With IP - 69.157.21.8:29070 
+[Wed Feb 05 21:21:09 2014]  ClientBegin: 0
+[Wed Feb 05 21:21:15 2014]  say: ^4Ony^5sfx: I shall test it
+[Wed Feb 05 21:21:18 2014]  say: ^1M^7r ^1Ð^7innertime: k ;o
+[Wed Feb 05 21:21:44 2014]  say: ^4Ony^5sfx: worked
+[Wed Feb 05 21:21:45 2014]  say: ^1M^7r ^1Ð^7innertime: :D
+[Wed Feb 05 21:21:47 2014]  say: ^4Ony^5sfx: i think
+[Wed Feb 05 21:21:49 2014]  say: ^4Ony^5sfx: hold on
+[Wed Feb 05 21:21:49 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:21:57 2014]  say: ^4Ony^5sfx: bit weird how I have it set up
+[Wed Feb 05 21:22:19 2014]  say: ^4Ony^5sfx: yes it works good
+[Wed Feb 05 21:22:21 2014]  say: ^1M^7r ^1Ð^7innertime: :P
+[Wed Feb 05 21:22:43 2014]  say: ^4Ony^5sfx: So I'm gonna make a firefight type build
+[Wed Feb 05 21:22:48 2014]  say: ^4Ony^5sfx: waves of enemies that land in dropships
+[Wed Feb 05 21:22:53 2014]  say: ^1M^7r ^1Ð^7innertime: oh
+[Wed Feb 05 21:22:55 2014]  say: ^1M^7r ^1Ð^7innertime: nice
+[Wed Feb 05 21:23:01 2014]  say: ^4Ony^5sfx: each wave you earn BP (build points) and credits
+[Wed Feb 05 21:23:03 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:23:13 2014]  say: ^1M^7r ^1Ð^7innertime: What if somebody did this... ? xD
+[Wed Feb 05 21:23:20 2014]  say: ^4Ony^5sfx: credits can get your re-enforcments
+[Wed Feb 05 21:23:20 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:23:25 2014]  say: ^4Ony^5sfx: xD
+[Wed Feb 05 21:23:34 2014]  say: ^1M^7r ^1Ð^7innertime: FIRE
+[Wed Feb 05 21:23:36 2014]  say: ^4Ony^5sfx: but you need a satellite dish to call for re-enforcements
+[Wed Feb 05 21:23:37 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:23:40 2014]  Kill: 1 0 36: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_CRUSH
+[Wed Feb 05 21:23:41 2014]  say: ^4Ony^5sfx: which costs build points and lol
+[Wed Feb 05 21:23:57 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:24:03 2014]  say: ^1M^7r ^1Ð^7innertime: !!
+[Wed Feb 05 21:24:04 2014]  say: ^1M^7r ^1Ð^7innertime: it lived
+[Wed Feb 05 21:24:05 2014]  say: ^4Ony^5sfx: the jedi are taking ovah!
+[Wed Feb 05 21:24:13 2014]  say: ^4Ony^5sfx: ya its not all destructable
+[Wed Feb 05 21:24:16 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:24:23 2014]  say: ^1M^7r ^1Ð^7innertime: too bad the reinforcements wouldn't have
+[Wed Feb 05 21:24:50 2014]  say: ^4Ony^5sfx: I was almost thinking of asking you if you wanted to help with the script, but I still remember last time :(
+[Wed Feb 05 21:24:55 2014]  say: ^1M^7r ^1Ð^7innertime: oh
+[Wed Feb 05 21:24:55 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:24:59 2014]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Wed Feb 05 21:25:03 2014]  say: ^4Ony^5sfx: I won't ask unless I'm certain it won't cause conflict
+[Wed Feb 05 21:25:04 2014]  say: ^1M^7r ^1Ð^7innertime: I pretty much don't play Makermod anymore
+[Wed Feb 05 21:25:05 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:25:14 2014]  say: ^4Ony^5sfx: Ya me neither
+[Wed Feb 05 21:25:16 2014]  say: ^1M^7r ^1Ð^7innertime: xd
+[Wed Feb 05 21:25:20 2014]  say: ^4Ony^5sfx: I just visited the makermod forums to old times sake
+[Wed Feb 05 21:25:22 2014]  say: ^1M^7r ^1Ð^7innertime: ah
+[Wed Feb 05 21:25:30 2014]  say: ^4Ony^5sfx: found your scripts, downloaded them, got inspiration
+[Wed Feb 05 21:25:32 2014]  say: ^1M^7r ^1Ð^7innertime: xd
+[Wed Feb 05 21:25:32 2014]  say: ^4Ony^5sfx: and starting building
+[Wed Feb 05 21:25:37 2014]  say: ^1M^7r ^1Ð^7innertime: gl
+[Wed Feb 05 21:25:41 2014]  say: ^1M^7r ^1Ð^7innertime: !?!?
+[Wed Feb 05 21:25:43 2014]  say: ^4Ony^5sfx: heheheh
+[Wed Feb 05 21:25:54 2014]  say: ^1M^7r ^1Ð^7innertime: LOL
+[Wed Feb 05 21:25:54 2014]  say: ^4Ony^5sfx: OH FU
+[Wed Feb 05 21:26:17 2014]  ClientDisconnect: 0
+[Wed Feb 05 21:26:17 2014]  ClientConnect: 0
+[Wed Feb 05 21:26:17 2014]  mlog:Player ^4Ony^5sfx, connected. With IP - 69.157.21.8:29070 
+[Wed Feb 05 21:26:39 2014]  ClientBegin: 0
+[Wed Feb 05 21:27:12 2014]  Item: 0 weapon_blaster
+[Wed Feb 05 21:27:20 2014]  say: ^4Ony^5sfx: ok ready
+[Wed Feb 05 21:27:46 2014]  say: ^1M^7r ^1Ð^7innertime: nope
+[Wed Feb 05 21:27:47 2014]  say: ^1M^7r ^1Ð^7innertime: I win
+[Wed Feb 05 21:27:50 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:27:55 2014]  say: ^1M^7r ^1Ð^7innertime: gl
+[Wed Feb 05 21:27:58 2014]  say: ^4Ony^5sfx: gl
+[Wed Feb 05 21:28:07 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:28:10 2014]  say: ^4Ony^5sfx: why the saber lock :(
+[Wed Feb 05 21:28:13 2014]  say: ^1M^7r ^1Ð^7innertime: idk
+[Wed Feb 05 21:28:28 2014]  Kill: 1 0 3: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_SABER
+[Wed Feb 05 21:28:29 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:28:33 2014]  say: ^4Ony^5sfx: I always lose saber locks
+[Wed Feb 05 21:28:35 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:28:50 2014]  say: ^1M^7r ^1Ð^7innertime: Don't you know there's a saber lock beating script in the bin folder?
+[Wed Feb 05 21:28:51 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:28:54 2014]  say: ^4Ony^5sfx: ya
+[Wed Feb 05 21:28:55 2014]  say: ^4Ony^5sfx: course
+[Wed Feb 05 21:28:56 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:28:56 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:29:00 2014]  say: ^1M^7r ^1Ð^7innertime: It attacks like..
+[Wed Feb 05 21:29:05 2014]  say: ^1M^7r ^1Ð^7innertime: 110 times in one second
+[Wed Feb 05 21:29:09 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:29:13 2014]  say: ^1M^7r ^1Ð^7innertime: gl
+[Wed Feb 05 21:29:14 2014]  say: ^4Ony^5sfx: gl
+[Wed Feb 05 21:29:20 2014]  say: ^1M^7r ^1Ð^7innertime: !!
+[Wed Feb 05 21:29:36 2014]  Kill: 1 0 3: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_SABER
+[Wed Feb 05 21:29:37 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:29:41 2014]  say: ^4Ony^5sfx: those saber locks...
+[Wed Feb 05 21:29:42 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:29:44 2014]  say: ^1M^7r ^1Ð^7innertime: ikr
+[Wed Feb 05 21:29:46 2014]  say: ^4Ony^5sfx: and not even as good as SP either
+[Wed Feb 05 21:29:48 2014]  say: ^1M^7r ^1Ð^7innertime: xd
+[Wed Feb 05 21:29:56 2014]  say: ^4Ony^5sfx: neither is grip...I mean...why do they do that?
+[Wed Feb 05 21:29:58 2014]  say: ^1M^7r ^1Ð^7innertime: idk
+[Wed Feb 05 21:30:11 2014]  Kill: 1 0 3: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_SABER
+[Wed Feb 05 21:30:12 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:30:18 2014]  say: ^4Ony^5sfx: bah xd
+[Wed Feb 05 21:30:32 2014]  say: ^1M^7r ^1Ð^7innertime: again! ;o
+[Wed Feb 05 21:30:36 2014]  say: ^4Ony^5sfx: I still play MBII
+[Wed Feb 05 21:30:41 2014]  Kill: 1 1 39: ^1M^7r ^1Ð^7innertime killed ^1M^7r ^1Ð^7innertime by MOD_SUICIDE
+[Wed Feb 05 21:30:42 2014]  say: ^1M^7r ^1Ð^7innertime: oh
+[Wed Feb 05 21:30:48 2014]  say: ^1M^7r ^1Ð^7innertime: I suck at duals xD
+[Wed Feb 05 21:31:15 2014]  say: ^4Ony^5sfx: the saber staffs version of medium is super weak, and has bad hit detection
+[Wed Feb 05 21:31:20 2014]  say: ^4Ony^5sfx: but its quick
+[Wed Feb 05 21:31:46 2014]  say: ^1M^7r ^1Ð^7innertime: origin? D:
+[Wed Feb 05 21:31:50 2014]  say: ^4Ony^5sfx: My origin is: (10120 63 -487) - You can teleport here with /mtelelast
+
+[Wed Feb 05 21:31:54 2014]  say: ^1M^7r ^1Ð^7innertime: ty :p
+[Wed Feb 05 21:32:07 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:32:24 2014]  Kill: 0 1 3: ^4Ony^5sfx killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Wed Feb 05 21:32:25 2014]  say: ^1M^7r ^1Ð^7innertime: D:
+[Wed Feb 05 21:32:28 2014]  say: ^4Ony^5sfx: such cheapness
+[Wed Feb 05 21:32:30 2014]  say: ^1M^7r ^1Ð^7innertime: xD
+[Wed Feb 05 21:32:39 2014]  say: ^1M^7r ^1Ð^7innertime: I think the server is at like
+[Wed Feb 05 21:32:43 2014]  say: ^1M^7r ^1Ð^7innertime: 100 percent saber lock factor
+[Wed Feb 05 21:32:46 2014]  say: ^1M^7r ^1Ð^7innertime: lol
+[Wed Feb 05 21:32:53 2014]  say: ^4Ony^5sfx: lets go to
+[Wed Feb 05 21:32:55 2014]  say: ^4Ony^5sfx: another server
+[Wed Feb 05 21:32:56 2014]  Kill: 1 0 3: ^1M^7r ^1Ð^7innertime killed ^4Ony^5sfx by MOD_SABER
+[Wed Feb 05 21:32:56 2014]  say: ^1M^7r ^1Ð^7innertime: k ;o
+[Wed Feb 05 21:32:59 2014]  ClientDisconnect: 1
+[Wed Feb 05 21:33:08 2014]  say: ^4Ony^5sfx: ingame server list ftw
+[Wed Feb 05 21:33:29 2014]  say: ^4Ony^5sfx: dah just start up yours
+[Wed Feb 05 21:34:10 2014]  ClientDisconnect: 0
+[Wed Feb 05 22:55:25 2014]  Exit: Timelimit hit.
+[Thu Feb 06 13:40:11 2014]  ClientConnect: 0
+[Thu Feb 06 13:40:11 2014]  mlog:Player Karo, connected. With IP - 87.164.232.49:29070 
+[Thu Feb 06 13:40:14 2014]  ClientConnect: 1
+[Thu Feb 06 13:40:14 2014]  mlog:Player I<3Karo, connected. With IP - 84.180.115.90:29070 
+[Thu Feb 06 13:40:40 2014]  ClientBegin: 0
+[Thu Feb 06 13:40:40 2014]  ClientBegin: 1
+[Thu Feb 06 13:40:49 2014]  ShutdownGame:
+[Thu Feb 06 13:40:49 2014]  ------------------------------------------------------------

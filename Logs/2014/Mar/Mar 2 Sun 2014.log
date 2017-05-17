@@ -1,0 +1,77 @@
+[Sun Mar 02 12:32:25 2014]  ------------------------------------------------------------
+[Sun Mar 02 12:32:25 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Mar 02 12:32:27 2014]  ClientConnect: 0
+[Sun Mar 02 12:32:37 2014]  ClientBegin: 0
+[Sun Mar 02 12:33:51 2014]  ClientDisconnect: 0
+[Sun Mar 02 14:32:22 2014]  Exit: Timelimit hit.
+[Sun Mar 02 17:51:07 2014]  ClientConnect: 0
+[Sun Mar 02 17:51:07 2014]  mlog:Player ^5E^3lectro^5S^3talin, connected. With IP - 109.195.127.80:29070 
+[Sun Mar 02 17:51:22 2014]  ClientBegin: 0
+[Sun Mar 02 17:51:26 2014]  ShutdownGame:
+[Sun Mar 02 17:51:26 2014]  ------------------------------------------------------------
+[Sun Mar 02 17:51:28 2014]  ------------------------------------------------------------
+[Sun Mar 02 17:51:28 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Mar 02 17:51:30 2014]  ClientConnect: 0
+[Sun Mar 02 17:51:41 2014]  ClientBegin: 0
+[Sun Mar 02 17:52:44 2014]  ClientConnect: 1
+[Sun Mar 02 17:52:44 2014]  mlog:Player ^5Flash^1Napalm, connected. With IP - 5.18.42.6:29070 
+[Sun Mar 02 17:53:11 2014]  ClientBegin: 1
+[Sun Mar 02 18:05:30 2014]  Kill: 1022 0 6: <world> killed ^5E^3lectro^5S^3talin by MOD_BLASTER
+[Sun Mar 02 18:06:10 2014]  Kill: 0 0 6: ^5E^3lectro^5S^3talin killed ^5E^3lectro^5S^3talin by MOD_BLASTER
+[Sun Mar 02 18:07:19 2014]  Item: 1 ammo_all
+[Sun Mar 02 18:07:21 2014]  Item: 0 ammo_all
+[Sun Mar 02 18:09:46 2014]  Item: 0 weapon_rocket_launcher
+[Sun Mar 02 18:09:47 2014]  Item: 0 weapon_bryar_pistol
+[Sun Mar 02 18:11:23 2014]  say: ^5E^3lectro^5S^3talin: ^5-=^7/mscale 1^5=-
+[Sun Mar 02 18:11:54 2014]  say: ^5E^3lectro^5S^3talin: ^5-=^7/mscaleme 1^5=-
+[Sun Mar 02 18:12:09 2014]  Kill: 0 1 31: ^5E^3lectro^5S^3talin killed Flashnapalm by MOD_FORCE_DARK
+[Sun Mar 02 18:12:09 2014]  tell: ^5E^3lectro^5S^3talin to Flashnapalm: ^2^7Flashnapalm, ^7I killed 28 people in total
+[Sun Mar 02 18:12:09 2014]  tell: Flashnapalm to ^5E^3lectro^5S^3talin: ^2^7^5E^3lectro^5S^3talin, ^7you killed me
+[Sun Mar 02 18:12:27 2014]  Kill: 0 0 39: ^5E^3lectro^5S^3talin killed ^5E^3lectro^5S^3talin by MOD_SUICIDE
+[Sun Mar 02 18:13:43 2014]  tell: ^5E^3lectro^5S^3talin to ^5E^3lectro^5S^3talin: ^3UU ^2- ^7JA ^2Minimized
+[Sun Mar 02 18:14:09 2014]  Kill: 1022 1 39: <world> killed Flashnapalm by MOD_SUICIDE
+[Sun Mar 02 18:14:34 2014]  tell: ^5E^3lectro^5S^3talin to ^5E^3lectro^5S^3talin: ^3UU ^2- ^7JA ^2Restored
+[Sun Mar 02 18:15:37 2014]  Kill: 1022 1 36: <world> killed Flashnapalm by MOD_CRUSH
+[Sun Mar 02 18:15:56 2014]  tell: ^5E^3lectro^5S^3talin to Flashnapalm: ^7Good luck, ^2^7Flashnapalm, ^7may the force be with you
+[Sun Mar 02 18:15:56 2014]  tell: Flashnapalm to ^5E^3lectro^5S^3talin: ^7Good luck, ^2^7^5E^3lectro^5S^3talin, ^7may the force be with you
+[Sun Mar 02 18:16:06 2014]  Kill: 0 1 3: ^5E^3lectro^5S^3talin killed Flashnapalm by MOD_SABER
+[Sun Mar 02 18:16:06 2014]  tell: Flashnapalm to ^5E^3lectro^5S^3talin: ^7Good Fight, ^2^7^5E^3lectro^5S^3talin, ^7you have defeated me
+[Sun Mar 02 18:16:06 2014]  tell: ^5E^3lectro^5S^3talin to Flashnapalm: ^7Good Fight, ^2^7Flashnapalm, ^7but you're no match for me
+[Sun Mar 02 18:16:14 2014]  tell: ^5E^3lectro^5S^3talin to Flashnapalm: ^7Good luck, ^2^7Flashnapalm, ^7may the force be with you
+[Sun Mar 02 18:16:14 2014]  tell: Flashnapalm to ^5E^3lectro^5S^3talin: ^7Good luck, ^2^7^5E^3lectro^5S^3talin, ^7may the force be with you
+[Sun Mar 02 18:16:19 2014]  Kill: 0 1 3: ^5E^3lectro^5S^3talin killed Flashnapalm by MOD_SABER
+[Sun Mar 02 18:16:19 2014]  tell: ^5E^3lectro^5S^3talin to Flashnapalm: ^7Good Fight, ^2^7Flashnapalm, ^7but you're no match for me
+[Sun Mar 02 18:16:19 2014]  tell: Flashnapalm to ^5E^3lectro^5S^3talin: ^7Good Fight, ^2^7^5E^3lectro^5S^3talin, ^7you have defeated me
+[Sun Mar 02 18:16:25 2014]  tell: ^5E^3lectro^5S^3talin to Flashnapalm: ^7Good luck, ^2^7Flashnapalm, ^7may the force be with you
+[Sun Mar 02 18:16:25 2014]  tell: Flashnapalm to ^5E^3lectro^5S^3talin: ^7Good luck, ^2^7^5E^3lectro^5S^3talin, ^7may the force be with you
+[Sun Mar 02 18:16:33 2014]  Kill: 1 0 3: Flashnapalm killed ^5E^3lectro^5S^3talin by MOD_SABER
+[Sun Mar 02 18:16:33 2014]  tell: ^5E^3lectro^5S^3talin to Flashnapalm: ^7Good Fight, ^2^7Flashnapalm, ^7you have defeated me
+[Sun Mar 02 18:16:33 2014]  tell: Flashnapalm to ^5E^3lectro^5S^3talin: ^7Good Fight, ^2^7^5E^3lectro^5S^3talin, ^7but you're no match for me
+[Sun Mar 02 18:16:42 2014]  tell: ^5E^3lectro^5S^3talin to Flashnapalm: ^7Good luck, ^2^7Flashnapalm, ^7may the force be with you
+[Sun Mar 02 18:16:42 2014]  tell: Flashnapalm to ^5E^3lectro^5S^3talin: ^7Good luck, ^2^7^5E^3lectro^5S^3talin, ^7may the force be with you
+[Sun Mar 02 18:16:47 2014]  Kill: 0 1 3: ^5E^3lectro^5S^3talin killed Flashnapalm by MOD_SABER
+[Sun Mar 02 18:16:47 2014]  tell: ^5E^3lectro^5S^3talin to Flashnapalm: ^7Good Fight, ^2^7Flashnapalm, ^7but you're no match for me
+[Sun Mar 02 18:16:47 2014]  tell: Flashnapalm to ^5E^3lectro^5S^3talin: ^7Good Fight, ^2^7^5E^3lectro^5S^3talin, ^7you have defeated me
+[Sun Mar 02 18:16:55 2014]  tell: Flashnapalm to ^5E^3lectro^5S^3talin: ^7Good luck, ^2^7^5E^3lectro^5S^3talin, ^7may the force be with you
+[Sun Mar 02 18:16:55 2014]  tell: ^5E^3lectro^5S^3talin to Flashnapalm: ^7Good luck, ^2^7Flashnapalm, ^7may the force be with you
+[Sun Mar 02 18:17:03 2014]  Kill: 0 1 3: ^5E^3lectro^5S^3talin killed Flashnapalm by MOD_SABER
+[Sun Mar 02 18:17:03 2014]  tell: Flashnapalm to ^5E^3lectro^5S^3talin: ^7Good Fight, ^2^7^5E^3lectro^5S^3talin, ^7you have defeated me
+[Sun Mar 02 18:17:03 2014]  tell: ^5E^3lectro^5S^3talin to Flashnapalm: ^7Good Fight, ^2^7Flashnapalm, ^7but you're no match for me
+[Sun Mar 02 18:17:32 2014]  Kill: 1 0 3: Flashnapalm killed ^5E^3lectro^5S^3talin by MOD_SABER
+[Sun Mar 02 18:17:32 2014]  tell: Flashnapalm to ^5E^3lectro^5S^3talin: ^2^7^5E^3lectro^5S^3talin, ^7I killed 28 people in total
+[Sun Mar 02 18:17:32 2014]  tell: ^5E^3lectro^5S^3talin to Flashnapalm: ^2^7Flashnapalm, ^7you killed me
+[Sun Mar 02 18:17:40 2014]  Kill: 1022 1 36: <world> killed Flashnapalm by MOD_CRUSH
+[Sun Mar 02 18:17:47 2014]  Kill: 1022 1 36: <world> killed Flashnapalm by MOD_CRUSH
+[Sun Mar 02 18:17:50 2014]  Kill: 1022 1 36: <world> killed Flashnapalm by MOD_CRUSH
+[Sun Mar 02 18:17:55 2014]  Kill: 1022 1 36: <world> killed Flashnapalm by MOD_CRUSH
+[Sun Mar 02 18:18:00 2014]  Kill: 1022 1 36: <world> killed Flashnapalm by MOD_CRUSH
+[Sun Mar 02 18:18:05 2014]  Kill: 1022 1 36: <world> killed Flashnapalm by MOD_CRUSH
+[Sun Mar 02 18:18:12 2014]  Kill: 1022 1 36: <world> killed Flashnapalm by MOD_CRUSH
+[Sun Mar 02 18:18:28 2014]  ClientDisconnect: 1
+[Sun Mar 02 18:21:32 2014]  ClientDisconnect: 0
+[Sun Mar 02 19:51:25 2014]  Exit: Timelimit hit.
+[Mon Mar 03 06:26:01 2014]  ClientConnect: 0
+[Mon Mar 03 06:26:01 2014]  mlog:Player ^5E^3lectro^5S^3talin, connected. With IP - 109.195.127.80:29070 
+[Mon Mar 03 06:26:22 2014]  ClientBegin: 0
+[Mon Mar 03 06:26:25 2014]  ShutdownGame:
+[Mon Mar 03 06:26:25 2014]  ------------------------------------------------------------

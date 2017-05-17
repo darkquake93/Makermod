@@ -1,0 +1,46 @@
+[Fri May 09 13:24:39 2014]  ------------------------------------------------------------
+[Fri May 09 13:24:39 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 09 13:24:53 2014]  ClientConnect: 0
+[Fri May 09 13:24:53 2014]  mlog:Player Lord_Rains, connected. With IP - 188.234.187.121:29070 
+[Fri May 09 13:25:13 2014]  ClientBegin: 0
+[Fri May 09 13:45:48 2014]  ClientDisconnect: 0
+[Fri May 09 13:48:10 2014]  ClientConnect: 0
+[Fri May 09 13:48:10 2014]  mlog:Player Lord_Rains, connected. With IP - 188.234.187.121:29070 
+[Fri May 09 13:48:17 2014]  ClientConnect: 1
+[Fri May 09 13:48:17 2014]  mlog:Player Bokser*, connected. With IP - 78.106.151.131:29070 
+[Fri May 09 13:48:36 2014]  ClientBegin: 0
+[Fri May 09 13:48:46 2014]  ClientBegin: 1
+[Fri May 09 13:48:56 2014]  print "Padawan^7 @@@PLRENAME Lord_Rain
+"[Fri May 09 13:49:08 2014]  print "Padawan^7 @@@PLRENAME Bokser*
+"[Fri May 09 13:49:18 2014]  say: Lord_Rain: g_saberrealisticcombat 1
+[Fri May 09 13:49:24 2014]  Kill: 0 1 3: Lord_Rain killed Bokser* by MOD_SABER
+[Fri May 09 13:50:00 2014]  Kill: 0 1 3: Lord_Rain killed Bokser* by MOD_SABER
+[Fri May 09 13:50:37 2014]  say: Lord_Rain: spawn
+[Fri May 09 13:52:00 2014]  ClientDisconnect: 0
+[Fri May 09 13:52:51 2014]  ClientConnect: 0
+[Fri May 09 13:52:51 2014]  mlog:Player Lord_Rains, connected. With IP - 188.234.187.121:29070 
+[Fri May 09 13:53:11 2014]  ClientBegin: 0
+[Fri May 09 13:53:16 2014]  say: Lord_Rain: g_saberAnimSpeed
+[Fri May 09 13:54:50 2014]  Kill: 0 1 3: Lord_Rain killed Bokser* by MOD_SABER
+[Fri May 09 13:55:02 2014]  ClientDisconnect: 0
+[Fri May 09 13:55:05 2014]  ClientDisconnect: 1
+[Fri May 09 15:24:43 2014]  Exit: Timelimit hit.
+[Fri May 09 20:03:54 2014]  ClientConnect: 0
+[Fri May 09 20:03:54 2014]  mlog:Player ^1Sgt. ^2Jawa, connected. With IP - 71.104.144.91:29070 
+[Fri May 09 20:04:10 2014]  ClientBegin: 0
+[Fri May 09 20:04:22 2014]  ShutdownGame:
+[Fri May 09 20:04:22 2014]  ------------------------------------------------------------
+[Fri May 09 20:04:23 2014]  ------------------------------------------------------------
+[Fri May 09 20:04:23 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 09 20:04:24 2014]  ClientConnect: 0
+[Fri May 09 20:04:32 2014]  ClientBegin: 0
+[Fri May 09 20:05:39 2014]  say: ^1Sgt. ^2Jawa: help
+[Fri May 09 20:05:42 2014]  say: ^1Sgt. ^2Jawa: whoops
+[Fri May 09 20:12:21 2014]  Kill: 1022 0 2: <world> killed ^1Sgt. ^2Jawa by MOD_MELEE
+[Fri May 09 20:12:33 2014]  ClientDisconnect: 0
+[Fri May 09 22:04:22 2014]  Exit: Timelimit hit.
+[Sat May 10 06:31:16 2014]  ClientConnect: 0
+[Sat May 10 06:31:16 2014]  mlog:Player Lord_Rains, connected. With IP - 5.164.14.136:29070 
+[Sat May 10 06:31:37 2014]  ClientBegin: 0
+[Sat May 10 06:31:40 2014]  ShutdownGame:
+[Sat May 10 06:31:40 2014]  ------------------------------------------------------------

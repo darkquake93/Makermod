@@ -1,0 +1,2115 @@
+[Wed Jan 06 12:28:56 2016]  ------------------------------------------------------------
+[Wed Jan 06 12:28:56 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Jan 06 12:36:27 2016]  ClientConnect: 0
+[Wed Jan 06 12:36:27 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Jan 06 12:36:38 2016]  ClientBegin: 0
+[Wed Jan 06 12:36:46 2016]  Item: 0 weapon_melee
+[Wed Jan 06 12:59:10 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 13:00:36 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 13:01:50 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 13:02:10 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 13:02:40 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 13:04:14 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 13:06:47 2016]  ClientConnect: 1
+[Wed Jan 06 13:06:47 2016]  mlog:Player koklon, connected. With IP - 109.174.112.136:11222 
+[Wed Jan 06 13:06:54 2016]  ClientDisconnect: 1
+[Wed Jan 06 13:08:02 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 13:08:35 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 13:09:51 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 13:10:15 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 13:29:37 2016]  ClientConnect: 1
+[Wed Jan 06 13:29:37 2016]  mlog:Player Padawan, connected. With IP - 37.45.166.116:24282 
+[Wed Jan 06 13:30:56 2016]  ClientBegin: 1
+[Wed Jan 06 13:31:19 2016]  say: Padawan: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Wed Jan 06 13:31:25 2016]  say: Padawan: ^5FORCE ^5BLAST!
+[Wed Jan 06 13:31:40 2016]  say: Padawan: ^5FORCE ^5BLAST!
+[Wed Jan 06 13:31:53 2016]  say: Padawan: ^1FORCE DESTRUCTION!
+[Wed Jan 06 13:32:16 2016]  say: Padawan: ^1FORCE DESTRUCTION!
+[Wed Jan 06 13:32:24 2016]  say: Padawan: ^7SILVER ^7SUIT!
+[Wed Jan 06 13:32:35 2016]  say: Padawan: ^3SUPER ^3LIGHTNING!
+[Wed Jan 06 13:32:50 2016]  say: Padawan: ^0SITH ^0APPRENTICE ^0CLOTHES!
+[Wed Jan 06 13:33:01 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Wed Jan 06 13:33:10 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Wed Jan 06 13:33:18 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 13:33:30 2016]  say: Padawan: ^7ICE ^7BARRIER!
+[Wed Jan 06 13:33:46 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 13:34:15 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Wed Jan 06 13:34:24 2016]  say: Padawan: ^0BOMB ^3SET!
+[Wed Jan 06 13:34:28 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Wed Jan 06 13:34:48 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Wed Jan 06 13:34:55 2016]  say: Padawan: ^0BOMB ^3SET!
+[Wed Jan 06 13:35:00 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Wed Jan 06 13:35:15 2016]  say: Padawan: ^0THROWING ^0HAND ^0GRENADE...
+[Wed Jan 06 13:35:36 2016]  say: Padawan: ^0HAND ^0GRENADE ^0THROWN!
+[Wed Jan 06 13:35:42 2016]  say: Padawan: ^0THROWING ^0HAND ^0GRENADE...
+[Wed Jan 06 13:36:02 2016]  say: Padawan: ^0HAND ^0GRENADE ^0THROWN!
+[Wed Jan 06 13:36:05 2016]  say: Padawan: ^1FIRE BALL!
+[Wed Jan 06 13:36:14 2016]  say: Padawan: POISON ^0BALL!
+[Wed Jan 06 13:36:27 2016]  say: Padawan: ^1RAGE ^3BLAST!
+[Wed Jan 06 13:36:46 2016]  say: Padawan: ^5JEDI ^3FAITH!
+[Wed Jan 06 13:37:04 2016]  say: Padawan: ^1Fire ^5Heal!
+[Wed Jan 06 13:37:05 2016]  say: Padawan: ^5Charging ^1Health...
+[Wed Jan 06 13:37:12 2016]  say: Padawan: ^1Health ^5Charged!
+[Wed Jan 06 13:37:13 2016]  say: Padawan: ^5Charging ^2Armor...
+[Wed Jan 06 13:37:23 2016]  say: Padawan: ^2Armor ^5Charged!
+[Wed Jan 06 13:37:24 2016]  say: Padawan: ^5Healed!
+[Wed Jan 06 13:37:27 2016]  say: Padawan: ^6MEGA ^7PUNCH!
+[Wed Jan 06 13:37:36 2016]  say: Padawan: ^0ROCK ^6SMASH!
+[Wed Jan 06 13:38:06 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 13:38:12 2016]  say: Padawan: ^6WHIRLWIND!
+[Wed Jan 06 13:38:22 2016]  say: Padawan: ^4RESSURECT ^0THE ^1DEAD!
+[Wed Jan 06 13:38:40 2016]  say: Padawan: ты тут?
+[Wed Jan 06 13:38:51 2016]  say: Padawan: офигеть
+[Wed Jan 06 13:39:03 2016]  say: Padawan: ^3SUPER ^1JETPACK!
+[Wed Jan 06 13:39:32 2016]  say: Padawan: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Wed Jan 06 13:39:36 2016]  say: Padawan: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Wed Jan 06 13:39:44 2016]  say: Padawan: ^1FIRE BALL!
+[Wed Jan 06 13:42:10 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 13:42:39 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 13:51:53 2016]  say: Padawan: круто
+[Wed Jan 06 13:52:15 2016]  say: ^0Shadow^5seer: спасибо
+[Wed Jan 06 13:52:30 2016]  say: ^0Shadow^5seer: только я еще не закончил
+[Wed Jan 06 13:54:01 2016]  say: Padawan: а кто придумал майкермод
+[Wed Jan 06 13:54:13 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 13:54:56 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 13:55:17 2016]  say: Padawan: а кто придумал майкермод
+[Wed Jan 06 13:55:39 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 13:57:37 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 13:58:04 2016]  say: Padawan: а кто придумал майкермод
+[Wed Jan 06 14:03:14 2016]  say: Padawan: ha
+[Wed Jan 06 14:03:19 2016]  say: Padawan: фуриус
+[Wed Jan 06 14:03:31 2016]  say: Padawan: ты тут
+[Wed Jan 06 14:04:33 2016]  ClientDisconnect: 0
+[Wed Jan 06 14:07:17 2016]  ClientDisconnect: 1
+[Wed Jan 06 14:12:30 2016]  ClientConnect: 0
+[Wed Jan 06 14:12:30 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Jan 06 14:12:43 2016]  ClientBegin: 0
+[Wed Jan 06 14:12:50 2016]  Item: 0 weapon_melee
+[Wed Jan 06 14:12:57 2016]  ClientConnect: 1
+[Wed Jan 06 14:12:57 2016]  mlog:Player Padawan, connected. With IP - 37.45.166.116:14720 
+[Wed Jan 06 14:14:25 2016]  ClientBegin: 1
+[Wed Jan 06 14:15:09 2016]  say: Padawan: кто придумал майкермод?
+[Wed Jan 06 14:16:06 2016]  say: Padawan: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Wed Jan 06 14:16:16 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:16:22 2016]  say: Padawan: ^0ROCK ^6SMASH!
+[Wed Jan 06 14:16:22 2016]  ClientConnect: 2
+[Wed Jan 06 14:16:22 2016]  mlog:Player Padawan, connected. With IP - 93.72.96.235:29070 
+[Wed Jan 06 14:16:49 2016]  say: Padawan: я нечайно
+[Wed Jan 06 14:17:00 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:17:08 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:17:13 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:17:18 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:17:23 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:17:27 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:17:32 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:17:34 2016]  ClientBegin: 2
+[Wed Jan 06 14:17:36 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:17:49 2016]  say: Padawan: привет
+[Wed Jan 06 14:18:35 2016]  ClientConnect: 3
+[Wed Jan 06 14:18:35 2016]  mlog:Player ^0F^4o^0x, connected. With IP - 80.55.76.218:29070 
+[Wed Jan 06 14:18:44 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:18:46 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:18:50 2016]  say: Padawan: ^6WHIRLWIND!
+[Wed Jan 06 14:18:50 2016]  ClientDisconnect: 2
+[Wed Jan 06 14:19:02 2016]  ClientBegin: 3
+[Wed Jan 06 14:19:03 2016]  say: Padawan: ^6WHIRLWIND!
+[Wed Jan 06 14:19:16 2016]  say: Padawan: ^6WHIRLWIND!
+[Wed Jan 06 14:19:28 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:19:33 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:20:05 2016]  say: Padawan: это ангар?
+[Wed Jan 06 14:20:44 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:20:55 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:20:58 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:22:30 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:22:39 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:22:57 2016]  say: Padawan: фокс
+[Wed Jan 06 14:22:58 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:23:02 2016]  say: Padawan: давай дуэль
+[Wed Jan 06 14:23:34 2016]  ClientDisconnect: 3
+[Wed Jan 06 14:23:36 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:23:44 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:23:47 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:24:26 2016]  ClientConnect: 2
+[Wed Jan 06 14:24:26 2016]  mlog:Player ^0F^4o^0x, connected. With IP - 80.55.76.218:29070 
+[Wed Jan 06 14:24:34 2016]  ClientBegin: 2
+[Wed Jan 06 14:24:48 2016]  Kill: 1 2 3: Padawan killed ^0F^4o^0x by MOD_SABER
+[Wed Jan 06 14:25:44 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:26:02 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:26:14 2016]  say: Padawan: какое название у платформы
+[Wed Jan 06 14:26:33 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:27:12 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:27:15 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:27:16 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:27:30 2016]  say: Padawan: а какое название у платформы
+[Wed Jan 06 14:28:29 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:28:50 2016]  ClientConnect: 3
+[Wed Jan 06 14:28:50 2016]  mlog:Player Inariel, connected. With IP - 5.18.54.91:29070 
+[Wed Jan 06 14:29:28 2016]  ClientBegin: 3
+[Wed Jan 06 14:29:36 2016]  say: Padawan: привет
+[Wed Jan 06 14:29:56 2016]  Kill: 2 3 27: ^0F^4o^0x killed Inariel by MOD_DET_PACK_SPLASH
+[Wed Jan 06 14:30:11 2016]  Item: 3 weapon_melee
+[Wed Jan 06 14:31:32 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:31:38 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:31:45 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:31:49 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 14:31:52 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:31:54 2016]  say: Inariel: тьфу на тебя
+[Wed Jan 06 14:31:57 2016]  say: ^0Shadow^5seer: а?
+[Wed Jan 06 14:32:10 2016]  say: Inariel: а скааайп? х)
+[Wed Jan 06 14:32:14 2016]  say: ^0Shadow^5seer: а ну давай
+[Wed Jan 06 14:32:15 2016]  say: Inariel: я тебя не узнала сначала х)
+[Wed Jan 06 14:32:24 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:32:29 2016]  say: Inariel: дай перезайду, а то не сворачиваюсь же
+[Wed Jan 06 14:32:37 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:32:40 2016]  ClientDisconnect: 3
+[Wed Jan 06 14:32:47 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:32:53 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:33:13 2016]  ClientDisconnect: 2
+[Wed Jan 06 14:33:24 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 14:33:24 2016]  ClientConnect: 2
+[Wed Jan 06 14:33:24 2016]  mlog:Player Inariel, connected. With IP - 5.18.54.91:29070 
+[Wed Jan 06 14:33:56 2016]  ClientBegin: 2
+[Wed Jan 06 14:34:04 2016]  Item: 2 weapon_melee
+[Wed Jan 06 14:34:04 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Wed Jan 06 14:34:12 2016]  say: Padawan: ^0BOMB ^3SET!
+[Wed Jan 06 14:34:17 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Wed Jan 06 14:34:37 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 14:35:20 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 14:36:27 2016]  say: Padawan: ^1RAGE ^3BLAST!
+[Wed Jan 06 14:36:46 2016]  say: Padawan: а рагноса можно спавнить?
+[Wed Jan 06 14:36:50 2016]  say: Padawan: ^5JEDI ^3FAITH!
+[Wed Jan 06 14:37:19 2016]  say: Padawan: ^0ROCK ^6SMASH!
+[Wed Jan 06 14:37:55 2016]  say: Padawan: POISON ^0BALL!
+[Wed Jan 06 14:38:22 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 14:38:27 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 14:39:20 2016]  say: Padawan: убери свой огонь
+[Wed Jan 06 14:39:43 2016]  say: Padawan: убери свой огонь
+[Wed Jan 06 14:39:43 2016]  say: Inariel: what?
+[Wed Jan 06 14:39:50 2016]  say: Padawan:  /mkillall введи
+[Wed Jan 06 14:40:01 2016]  say: Inariel: what?
+[Wed Jan 06 14:40:04 2016]  say: Padawan: дуру не строй
+[Wed Jan 06 14:40:06 2016]  say: Padawan: а удаляй
+[Wed Jan 06 14:40:22 2016]  say: Padawan: спс
+[Wed Jan 06 14:40:36 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 14:41:16 2016]  say: Padawan: какое название у платформы
+[Wed Jan 06 14:41:28 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Wed Jan 06 14:41:34 2016]  say: Padawan: ^0BOMB ^3SET!
+[Wed Jan 06 14:41:50 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Wed Jan 06 14:42:14 2016]  say: Padawan: выходи
+[Wed Jan 06 14:42:28 2016]  say: Padawan: ^3SUPER ^1JETPACK!
+[Wed Jan 06 14:42:54 2016]  say: Padawan: ^5FORCE ^5BLAST!
+[Wed Jan 06 14:43:08 2016]  say: Padawan: ^0SITH ^0APPRENTICE ^0CLOTHES!
+[Wed Jan 06 14:43:20 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 14:44:04 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:44:16 2016]  say: Padawan: ^7ICE ^7BARRIER!
+[Wed Jan 06 14:44:38 2016]  say: Padawan: ^1FIRE BALL!
+[Wed Jan 06 14:44:48 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:45:02 2016]  say: Padawan: где ты
+[Wed Jan 06 14:45:36 2016]  say: Padawan: ^1RAGE ^3BLAST!
+[Wed Jan 06 14:45:47 2016]  say: Padawan: ^1RAGE ^3BLAST!
+[Wed Jan 06 14:46:01 2016]  say: Padawan: ^5JEDI ^3FAITH!
+[Wed Jan 06 14:46:31 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:48:15 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 14:48:22 2016]  ClientDisconnect: 1
+[Wed Jan 06 14:49:57 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:50:26 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:51:18 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:51:27 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:51:27 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:51:29 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:51:36 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:52:22 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:52:23 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:52:24 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:52:50 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:53:16 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:53:33 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:53:54 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:54:04 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:55:16 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 14:57:26 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 14:58:28 2016]  say: ^0Shadow^5seer: /mmove 10 0 0
+[Wed Jan 06 14:59:52 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 15:00:52 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 15:03:32 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 15:03:43 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 15:04:19 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 15:05:23 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 15:07:22 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 15:07:58 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 15:16:18 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 15:16:35 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 15:16:42 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 15:18:01 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 15:18:17 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 15:19:03 2016]  ClientConnect: 1
+[Wed Jan 06 15:19:03 2016]  mlog:Player HDK, connected. With IP - 37.45.166.116:-1228 
+[Wed Jan 06 15:20:04 2016]  ClientBegin: 1
+[Wed Jan 06 15:20:10 2016]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Jan 06 15:20:10 2016]  setteam:  1 FREE SPECTATOR
+[Wed Jan 06 15:20:10 2016]  ClientBegin: 1
+[Wed Jan 06 15:20:21 2016]  setteam:  1 SPECTATOR FREE
+[Wed Jan 06 15:20:21 2016]  ClientBegin: 1
+[Wed Jan 06 15:20:43 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 15:22:04 2016]  say: Padawan: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Wed Jan 06 15:22:06 2016]  say: Padawan: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Wed Jan 06 15:23:05 2016]  say: Padawan: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Wed Jan 06 15:23:16 2016]  say: Padawan: ^3SUPER ^1JETPACK!
+[Wed Jan 06 15:23:51 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 15:24:28 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 15:25:41 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Wed Jan 06 15:25:46 2016]  say: Padawan: ^0BOMB ^3SET!
+[Wed Jan 06 15:26:17 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Wed Jan 06 15:26:42 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 15:27:03 2016]  say: Padawan: ха
+[Wed Jan 06 15:27:14 2016]  say: Padawan: не будешь так стоять
+[Wed Jan 06 15:28:01 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:28:40 2016]  say: Padawan: ^5FORCE ^5BLAST!
+[Wed Jan 06 15:29:03 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 15:29:43 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:30:05 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:30:18 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 15:30:50 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Wed Jan 06 15:30:55 2016]  say: Padawan: ^0BOMB ^3SET!
+[Wed Jan 06 15:31:16 2016]  say: Padawan: вот так
+[Wed Jan 06 15:31:33 2016]  say: Inariel: mmove -24 0 24
+[Wed Jan 06 15:32:01 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:32:09 2016]  ClientConnect: 3
+[Wed Jan 06 15:32:09 2016]  mlog:Player Ibrahim Tatlises, connected. With IP - 88.253.240.226:1024 
+[Wed Jan 06 15:32:19 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:32:21 2016]  ClientBegin: 3
+[Wed Jan 06 15:32:28 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:32:38 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:32:40 2016]  say: ^0Shadow^5seer: из ноклипа скриптить запрещено
+[Wed Jan 06 15:32:47 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:32:49 2016]  say: Padawan: hi guys. Do you have any idea how to play this game from macbook
+[Wed Jan 06 15:32:52 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:33:00 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:33:00 2016]  say: ^0Shadow^5seer: dont have macbooks
+[Wed Jan 06 15:33:05 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:33:10 2016]  say: ^0Shadow^5seer: so no
+[Wed Jan 06 15:33:10 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:33:10 2016]  say: Padawan: my friend cannot connect to servers
+[Wed Jan 06 15:33:16 2016]  say: Padawan: ok :( thank you
+[Wed Jan 06 15:33:19 2016]  say: Padawan: ^2ELEMENT ^5POWERS OFF
+[Wed Jan 06 15:33:22 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:33:26 2016]  ClientDisconnect: 3
+[Wed Jan 06 15:33:26 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:33:30 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:33:33 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:33:35 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Wed Jan 06 15:33:40 2016]  say: Padawan: ха
+[Wed Jan 06 15:33:46 2016]  say: Padawan: попался 1 раз
+[Wed Jan 06 15:33:50 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:33:54 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:33:56 2016]  say: ^0Shadow^5seer: из ноклипа скриптить запрещено
+[Wed Jan 06 15:34:02 2016]  say: Padawan: как так
+[Wed Jan 06 15:34:06 2016]  say: ^0Shadow^5seer: вот так
+[Wed Jan 06 15:34:10 2016]  say: Padawan: ок
+[Wed Jan 06 15:34:15 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:34:19 2016]  ClientDisconnect: 0
+[Wed Jan 06 15:34:41 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:36:36 2016]  ClientDisconnect: 1
+[Wed Jan 06 15:37:02 2016]  ClientConnect: 0
+[Wed Jan 06 15:37:02 2016]  mlog:Player Padawan, connected. With IP - 37.45.166.116:-1228 
+[Wed Jan 06 15:37:22 2016]  ClientBegin: 0
+[Wed Jan 06 15:39:22 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Wed Jan 06 15:39:28 2016]  say: Padawan: ^0BOMB ^3SET!
+[Wed Jan 06 15:39:41 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Wed Jan 06 15:40:15 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Wed Jan 06 15:40:26 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:40:30 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:40:34 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:40:38 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:40:41 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:40:44 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:40:47 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 15:42:26 2016]  say: Inariel: свали в варп
+[Wed Jan 06 15:42:32 2016]  say: Padawan: что?
+[Wed Jan 06 15:42:40 2016]  say: Inariel: сгинь с постройки
+[Wed Jan 06 15:42:50 2016]  say: Padawan: какое название платформы
+[Wed Jan 06 15:43:15 2016]  say: Inariel: уйди
+[Wed Jan 06 15:43:20 2016]  say: Padawan: какое название платформы
+[Wed Jan 06 15:43:27 2016]  say: Inariel: не знаю, уйди
+[Wed Jan 06 15:43:30 2016]  say: Padawan: знаешь
+[Wed Jan 06 15:43:34 2016]  say: Padawan: ты строить умеешь
+[Wed Jan 06 15:43:36 2016]  say: Inariel: без понятия
+[Wed Jan 06 15:43:39 2016]  say: Padawan: не ври мне!
+[Wed Jan 06 15:43:49 2016]  say: Inariel: и что?
+[Wed Jan 06 15:44:52 2016]  say: Inariel: lt,bk
+[Wed Jan 06 15:44:56 2016]  say: Inariel: дебил
+[Wed Jan 06 15:45:00 2016]  say: Padawan: какое название платформы
+[Wed Jan 06 15:45:06 2016]  say: Padawan: и удалю
+[Wed Jan 06 15:45:11 2016]  say: Inariel: не знаю
+[Wed Jan 06 15:45:13 2016]  say: Padawan: на 2 вопроса ответь
+[Wed Jan 06 15:45:19 2016]  say: Padawan: ты знаешь!
+[Wed Jan 06 15:45:22 2016]  say: Inariel: я просто жму на все подряд
+[Wed Jan 06 15:45:27 2016]  say: Inariel: я на названия не смотрю
+[Wed Jan 06 15:45:30 2016]  say: Padawan: не надо мне врять
+[Wed Jan 06 15:45:45 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 15:45:54 2016]  say: Padawan: я удалил
+[Wed Jan 06 15:45:55 2016]  say: Padawan: скажи
+[Wed Jan 06 15:46:27 2016]  say: Padawan: вот почему ты не хочешь просто сказать?
+[Wed Jan 06 15:46:41 2016]  say: Padawan: надо именно нантажировать
+[Wed Jan 06 15:49:15 2016]  say: Padawan: ^3This duel platform was made by ^1P^4etz^1I
+[Wed Jan 06 15:51:33 2016]  say: Padawan: скажи
+[Wed Jan 06 15:55:18 2016]  ClientConnect: 1
+[Wed Jan 06 15:55:18 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Jan 06 15:55:32 2016]  ClientBegin: 1
+[Wed Jan 06 15:55:39 2016]  Item: 1 weapon_melee
+[Wed Jan 06 15:55:53 2016]  say: ^0Shadow^5seer: чувак
+[Wed Jan 06 15:55:58 2016]  say: ^0Shadow^5seer: не мешай людям строить
+[Wed Jan 06 15:56:06 2016]  say: Padawan: он не говорит
+[Wed Jan 06 15:56:11 2016]  say: ^0Shadow^5seer: и не должен
+[Wed Jan 06 15:56:19 2016]  say: Padawan: а почему я должен не мешать?
+[Wed Jan 06 15:56:19 2016]  say: ^0Shadow^5seer: не думай, что тебе кто-то что-то должен
+[Wed Jan 06 15:56:30 2016]  say: ^0Shadow^5seer: если тебе не отвечают, оставь человека в покое
+[Wed Jan 06 15:56:34 2016]  say: ^0Shadow^5seer: не быть говном
+[Wed Jan 06 15:56:38 2016]  say: ^0Shadow^5seer: не будь*
+[Wed Jan 06 15:56:43 2016]  say: Padawan: не надо указывать кем мне быть
+[Wed Jan 06 15:56:47 2016]  say: Padawan: хочу быть говном может
+[Wed Jan 06 15:56:51 2016]  say: ^0Shadow^5seer: а, ладно, тогда будь говном
+[Wed Jan 06 15:56:55 2016]  say: Padawan: нормально когда спрашивают не отвечают
+[Wed Jan 06 15:56:58 2016]  say: ^0Shadow^5seer: да
+[Wed Jan 06 15:57:14 2016]  say: Padawan: подумай почему люди говном становятся
+[Wed Jan 06 16:01:18 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Jan 06 16:01:18 2016]  setteam:  0 FREE SPECTATOR
+[Wed Jan 06 16:01:18 2016]  ClientBegin: 0
+[Wed Jan 06 16:01:25 2016]  setteam:  0 SPECTATOR FREE
+[Wed Jan 06 16:01:25 2016]  ClientBegin: 0
+[Wed Jan 06 16:04:30 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Jan 06 16:04:30 2016]  setteam:  0 FREE SPECTATOR
+[Wed Jan 06 16:04:30 2016]  ClientBegin: 0
+[Wed Jan 06 16:04:36 2016]  setteam:  0 SPECTATOR FREE
+[Wed Jan 06 16:04:36 2016]  ClientBegin: 0
+[Wed Jan 06 16:05:54 2016]  say: Padawan: будете отвечать?
+[Wed Jan 06 16:06:16 2016]  say: ^0Shadow^5seer: ничего тебе не скажем, гнида фашистская
+[Wed Jan 06 16:08:24 2016]  ClientDisconnect: 1
+[Wed Jan 06 16:09:01 2016]  say: Padawan: будешь говорить?
+[Wed Jan 06 16:09:27 2016]  say: Padawan: в партизана играешь
+[Wed Jan 06 16:09:39 2016]  say: Padawan: а знаешь что с такими партизанами было?
+[Wed Jan 06 16:12:06 2016]  say: Inariel: ты строй, строй
+[Wed Jan 06 16:12:11 2016]  say: Inariel: я пока чаю попью
+[Wed Jan 06 16:13:19 2016]  say: Inariel: ты так мило агришься
+[Wed Jan 06 16:15:15 2016]  say: Padawan: ^3This duel platform was made by ^1P^4etz^1I
+[Wed Jan 06 16:15:15 2016]  ClientDisconnect: 0
+[Wed Jan 06 16:15:22 2016]  ClientConnect: 0
+[Wed Jan 06 16:15:22 2016]  mlog:Player Padawan, connected. With IP - 37.45.166.116:-1228 
+[Wed Jan 06 16:15:44 2016]  ClientBegin: 0
+[Wed Jan 06 16:21:49 2016]  say: Padawan: ага
+[Wed Jan 06 16:24:37 2016]  say: Padawan: ладно,я буду смотреть паутину
+[Wed Jan 06 16:25:46 2016]  say: Inariel: не мужское 
+[Wed Jan 06 16:25:51 2016]  say: Inariel:  это дело
+[Wed Jan 06 16:25:55 2016]  say: Inariel: скриптами пользоваться
+[Wed Jan 06 16:26:00 2016]  say: Inariel: бросай, позоришься же хд
+[Wed Jan 06 16:26:05 2016]  say: Padawan: я девочка 
+[Wed Jan 06 16:26:12 2016]  say: Inariel: долбоебочка
+[Wed Jan 06 16:26:33 2016]  say: Inariel: тем более, руки явно не из того места растут
+[Wed Jan 06 16:29:35 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Jan 06 16:29:35 2016]  setteam:  0 FREE SPECTATOR
+[Wed Jan 06 16:29:35 2016]  ClientBegin: 0
+[Wed Jan 06 16:29:45 2016]  say: Padawan: (
+[Wed Jan 06 16:29:47 2016]  setteam:  0 SPECTATOR FREE
+[Wed Jan 06 16:29:47 2016]  ClientBegin: 0
+[Wed Jan 06 16:30:26 2016]  say: Inariel: и почему я раньше не догадалась? типичная бабская логика ж
+[Wed Jan 06 16:30:44 2016]  say: Padawan: такие уж мы бабы
+[Wed Jan 06 16:31:27 2016]  say: Inariel: соболезную хд
+[Wed Jan 06 16:31:39 2016]  say: Padawan: чему?
+[Wed Jan 06 16:31:48 2016]  say: Inariel: такому горю хд
+[Wed Jan 06 16:32:15 2016]  say: Padawan: у меня нет никакого горя которое ты мне придумал и пытаешься убедить меня и себя что оно есть
+[Wed Jan 06 16:32:27 2016]  say: Inariel: у тебя оно явно имеется :D
+[Wed Jan 06 16:32:46 2016]  say: Inariel: женские дни, все дела, психоз, нервы, депрессия
+[Wed Jan 06 16:32:57 2016]  say: Padawan: я всегда мечтал стать цветоводом
+[Wed Jan 06 16:33:04 2016]  say: Padawan: но из-за носа я не могу им стать
+[Wed Jan 06 16:33:06 2016]  say: Padawan: :(
+[Wed Jan 06 16:33:21 2016]  say: Padawan: мечтала
+[Wed Jan 06 16:33:27 2016]  say: Inariel: с чем тебя и поздравляю
+[Wed Jan 06 16:34:07 2016]  say: Padawan: (
+[Wed Jan 06 16:34:13 2016]  say: Inariel: а теперь может ты покажешь свои женские дни в другом месте?
+[Wed Jan 06 16:34:30 2016]  say: Padawan: я в тебя влюбилась
+[Wed Jan 06 16:34:41 2016]  say: Inariel: прости, бабами не интересуюсь
+[Wed Jan 06 16:34:52 2016]  say: Padawan: как так
+[Wed Jan 06 16:35:01 2016]  say: Inariel: я гей
+[Wed Jan 06 16:35:02 2016]  say: Padawan: ты должна попробовать со мной
+[Wed Jan 06 16:35:16 2016]  say: Padawan: ты не знаешь всех моих возможностей
+[Wed Jan 06 16:35:23 2016]  say: Padawan: так у меня есть писька
+[Wed Jan 06 16:35:31 2016]  say: Inariel: не интересуюсь подобными шлюшками
+[Wed Jan 06 16:35:40 2016]  say: Padawan: ну плз
+[Wed Jan 06 16:35:42 2016]  say: Padawan: давай разок
+[Wed Jan 06 16:35:45 2016]  say: Padawan: у тебя
+[Wed Jan 06 16:35:51 2016]  say: Padawan: а то у меня мама дома 
+[Wed Jan 06 16:35:56 2016]  say: Inariel: неа, предлагайся лучше вон тому чуваку
+[Wed Jan 06 16:36:04 2016]  say: Inariel: хотя да,он же сбежал
+[Wed Jan 06 16:36:06 2016]  say: Inariel: от тебя
+[Wed Jan 06 16:36:11 2016]  say: Padawan: да он лох
+[Wed Jan 06 16:36:16 2016]  say: Padawan: а ты секси 
+[Wed Jan 06 16:36:24 2016]  say: Inariel: не трожь котика, он хороший
+[Wed Jan 06 16:36:33 2016]  say: Padawan: давайте групповушку?
+[Wed Jan 06 16:36:36 2016]  say: Inariel: неа
+[Wed Jan 06 16:36:40 2016]  say: Inariel: ты мне не нравишься
+[Wed Jan 06 16:36:47 2016]  say: Padawan: в постели понравлюсь
+[Wed Jan 06 16:37:01 2016]  say: Inariel: твои проблемы
+[Wed Jan 06 16:37:15 2016]  say: Padawan: в чем?
+[Wed Jan 06 16:37:25 2016]  say: Inariel: во всей твоей жизни
+[Wed Jan 06 16:37:32 2016]  say: Padawan: как так
+[Wed Jan 06 16:37:42 2016]  say: Padawan: я хочу тебя
+[Wed Jan 06 16:37:51 2016]  say: Inariel: тем более твои проблемы
+[Wed Jan 06 16:37:57 2016]  say: Padawan: я могу родить ребенка
+[Wed Jan 06 16:38:08 2016]  say: Padawan: или зачать
+[Wed Jan 06 16:38:08 2016]  say: Inariel: искренне соболезную
+[Wed Jan 06 16:38:21 2016]  say: Padawan: чему
+[Wed Jan 06 16:38:44 2016]  say: Inariel: такому ужасному повороту событий в твоей жизни
+[Wed Jan 06 16:38:57 2016]  say: Padawan: давай ты в мою жизнь вступишь и будем вместе
+[Wed Jan 06 16:39:01 2016]  say: Padawan: педиков ебать
+[Wed Jan 06 16:39:11 2016]  say: Inariel: мужик, успокой свою фантазию, а
+[Wed Jan 06 16:39:18 2016]  say: Padawan: я девочка
+[Wed Jan 06 16:39:24 2016]  say: Inariel: не похож х)
+[Wed Jan 06 16:39:25 2016]  say: Padawan: а ты не умеешь троллить 
+[Wed Jan 06 16:39:33 2016]  say: Inariel: мне лень просто
+[Wed Jan 06 16:39:38 2016]  say: Padawan: может быть
+[Wed Jan 06 16:39:57 2016]  say: Inariel: у меня тут вообще перекус и зрелища
+[Wed Jan 06 16:40:19 2016]  say: Padawan: у меня телевизор есть и чипсы 
+[Wed Jan 06 16:40:30 2016]  say: Padawan: там туманов
+[Wed Jan 06 16:40:32 2016]  say: Padawan: по нтв
+[Wed Jan 06 16:40:35 2016]  say: Inariel: с чем я тебя и поздравляю
+[Wed Jan 06 16:40:42 2016]  say: Inariel: деградируй дальше
+[Wed Jan 06 16:40:48 2016]  say: Padawan: там какие-то педики
+[Wed Jan 06 16:40:53 2016]  say: Padawan: твои родители походу
+[Wed Jan 06 16:41:01 2016]  say: Padawan: ищуч тебя
+[Wed Jan 06 16:41:13 2016]  say: Inariel: с чем я тебя и поздравляю, мой маленький тролль х)
+[Wed Jan 06 16:41:22 2016]  say: Padawan: аззазаза
+[Wed Jan 06 16:41:28 2016]  say: Inariel: пусик, недоебали тебя что ли
+[Wed Jan 06 16:41:40 2016]  say: Padawan: может ты доебешь?)0)
+[Wed Jan 06 16:41:51 2016]  say: Inariel: не, ты не в моем вкусе
+[Wed Jan 06 16:41:58 2016]  say: Padawan: как так
+[Wed Jan 06 16:42:03 2016]  say: Inariel: слишком нытик и тряпочка
+[Wed Jan 06 16:42:06 2016]  say: Padawan: (((
+[Wed Jan 06 16:42:13 2016]  say: Padawan: я ради тебя в армию схожу
+[Wed Jan 06 16:42:34 2016]  say: Inariel: горбатого сам знаешь что исправит
+[Wed Jan 06 16:42:42 2016]  say: Padawan: я там был
+[Wed Jan 06 16:42:45 2016]  say: Padawan: не помогает(
+[Wed Jan 06 16:42:55 2016]  say: Inariel: ну ты сам знаешь, что я сейчас скажу
+[Wed Jan 06 16:43:02 2016]  say: Padawan: не знаю
+[Wed Jan 06 16:43:17 2016]  say: Inariel: деградация и разложение
+[Wed Jan 06 16:43:27 2016]  say: Padawan: (
+[Wed Jan 06 16:43:43 2016]  say: Padawan: как же вы меня достали
+[Wed Jan 06 16:43:50 2016]  say: Inariel: мимими
+[Wed Jan 06 16:43:56 2016]  say: Padawan: со всеми надо как с быдло
+[Wed Jan 06 16:44:28 2016]  say: Inariel: пусик, не нервничай ^3:3
+[Wed Jan 06 16:44:50 2016]  say: Padawan: я хочу от тебя сына
+[Wed Jan 06 16:44:57 2016]  say: Inariel: с чем я тебя и поздравляю
+[Wed Jan 06 16:45:02 2016]  say: Padawan: ы
+[Wed Jan 06 16:45:30 2016]  say: Padawan: хах
+[Wed Jan 06 16:46:24 2016]  say: Padawan: почему мой друг не может зайти на сервер?
+[Wed Jan 06 16:47:43 2016]  say: Padawan: ну что
+[Wed Jan 06 16:47:47 2016]  say: Padawan: ты согласна?
+[Wed Jan 06 16:48:21 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Jan 06 16:48:21 2016]  setteam:  0 FREE SPECTATOR
+[Wed Jan 06 16:48:21 2016]  ClientBegin: 0
+[Wed Jan 06 16:55:29 2016]  say: Padawan: ты готова?
+[Wed Jan 06 16:58:00 2016]  say: Padawan: cкоро мой друг будет играть
+[Wed Jan 06 16:58:02 2016]  say: Padawan: и нас будет двое
+[Wed Jan 06 16:58:21 2016]  say: Padawan: он кстати тоже как ты
+[Wed Jan 06 16:59:31 2016]  say: Padawan: гуньсики гуньсики гуньсики ня 
+[Wed Jan 06 16:59:46 2016]  say: Padawan: нюсики нюсики ня ня ня ня
+[Wed Jan 06 17:00:35 2016]  say: Padawan: пизда едет на кобыле 
+[Wed Jan 06 17:00:40 2016]  say: Padawan: хуй на скорой помощи
+[Wed Jan 06 17:01:28 2016]  ClientConnect: 1
+[Wed Jan 06 17:01:28 2016]  mlog:Player ^1M^7r ^1Р^7innertime, connected. With IP - 109.153.79.14:29070 
+[Wed Jan 06 17:02:47 2016]  ClientBegin: 1
+[Wed Jan 06 17:02:51 2016]  say: ^1M^7r ^1Р^7innertime: hai
+[Wed Jan 06 17:02:59 2016]  say: Padawan: hai 
+[Wed Jan 06 17:05:06 2016]  say: ^1M^7r ^1Р^7innertime: !openmenu
+[Wed Jan 06 17:07:54 2016]  say: ^1M^7r ^1Р^7innertime: come back :D
+[Wed Jan 06 17:08:26 2016]  say: Padawan: гунь
+[Wed Jan 06 17:08:37 2016]  say: ^1M^7r ^1Р^7innertime: aoaiaoaannaoaa
+[Wed Jan 06 17:08:44 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Jan 06 17:08:47 2016]  say: ^1M^7r ^1Р^7innertime: privjet
+[Wed Jan 06 17:08:57 2016]  say: Padawan: привет
+[Wed Jan 06 17:10:01 2016]  say: Padawan: mr
+[Wed Jan 06 17:10:03 2016]  say: ^1M^7r ^1Р^7innertime: Hai
+[Wed Jan 06 17:10:09 2016]  say: Padawan: skaji nazvanie platformi 
+[Wed Jan 06 17:10:13 2016]  say: ^1M^7r ^1Р^7innertime: o.o
+[Wed Jan 06 17:10:20 2016]  say: ^1M^7r ^1Р^7innertime: I don't speak russian / ukranian
+[Wed Jan 06 17:10:29 2016]  say: Padawan: bad
+[Wed Jan 06 17:10:31 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Jan 06 17:10:37 2016]  setteam:  0 SPECTATOR FREE
+[Wed Jan 06 17:10:37 2016]  ClientBegin: 0
+[Wed Jan 06 17:10:55 2016]  say: Padawan: lags
+[Wed Jan 06 17:11:56 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 17:12:21 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Jan 06 17:12:30 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 17:12:33 2016]  say: ^1M^7r ^1Р^7innertime: have to do better than that
+[Wed Jan 06 17:12:35 2016]  say: ^1M^7r ^1Р^7innertime: ;D
+[Wed Jan 06 17:12:42 2016]  Kill: 0 0 36: Padawan killed Padawan by MOD_CRUSH
+[Wed Jan 06 17:12:55 2016]  say: Padawan: nice
+[Wed Jan 06 17:12:57 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Jan 06 17:12:59 2016]  Kill: 1022 0 0: <world> killed Padawan by MOD_UNKNOWN
+[Wed Jan 06 17:13:02 2016]  say: Padawan: :(
+[Wed Jan 06 17:13:11 2016]  say: ^1M^7r ^1Р^7innertime: o
+[Wed Jan 06 17:13:16 2016]  say: ^1M^7r ^1Р^7innertime: it wasn't you attacking me?
+[Wed Jan 06 17:13:18 2016]  say: ^1M^7r ^1Р^7innertime: sorry
+[Wed Jan 06 17:13:18 2016]  say: Padawan: ^5JEDI ^3FAITH!
+[Wed Jan 06 17:13:32 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Jan 06 17:13:44 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 17:13:46 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 17:13:52 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 17:13:56 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 17:13:59 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Wed Jan 06 17:14:05 2016]  Kill: 1022 0 0: <world> killed Padawan by MOD_UNKNOWN
+[Wed Jan 06 17:14:08 2016]  say: Padawan: :(
+[Wed Jan 06 17:14:10 2016]  say: ^1M^7r ^1Р^7innertime: ;3
+[Wed Jan 06 17:14:26 2016]  say: Padawan: ^6MEGA ^7PUNCH!
+[Wed Jan 06 17:14:37 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Jan 06 17:14:57 2016]  say: ^1M^7r ^1Р^7innertime: eh
+[Wed Jan 06 17:15:01 2016]  say: ^1M^7r ^1Р^7innertime: where'd you go?
+[Wed Jan 06 17:15:02 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Jan 06 17:15:04 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Wed Jan 06 17:15:11 2016]  say: Padawan: ^0BOMB ^3SET!
+[Wed Jan 06 17:15:18 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Wed Jan 06 17:15:20 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Jan 06 17:15:47 2016]  Kill: 1 1 36: ^1M^7r ^1Р^7innertime killed ^1M^7r ^1Р^7innertime by MOD_CRUSH
+[Wed Jan 06 17:15:50 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Jan 06 17:15:53 2016]  say: Padawan: ;
+[Wed Jan 06 17:15:57 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 17:15:59 2016]  Kill: 0 1 0: Padawan killed ^1M^7r ^1Р^7innertime by MOD_UNKNOWN
+[Wed Jan 06 17:16:01 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Jan 06 17:16:04 2016]  say: Padawan: ;
+[Wed Jan 06 17:16:20 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Jan 06 17:16:22 2016]  say: Padawan: ;d
+[Wed Jan 06 17:16:34 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 17:16:40 2016]  say: ^1M^7r ^1Р^7innertime: that's fire o.o
+[Wed Jan 06 17:16:41 2016]  say: ^1M^7r ^1Р^7innertime: not ice
+[Wed Jan 06 17:16:41 2016]  say: Padawan: :(
+[Wed Jan 06 17:16:45 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 17:16:47 2016]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Jan 06 17:17:03 2016]  say: Padawan: wow
+[Wed Jan 06 17:17:08 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Jan 06 17:17:11 2016]  say: Padawan: nice
+[Wed Jan 06 17:17:14 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Jan 06 17:17:19 2016]  say: Padawan: ^5FORCE ^5BLAST!
+[Wed Jan 06 17:17:35 2016]  say: ^1M^7r ^1Р^7innertime: gosh XD those downloaded scripts are so spammy
+[Wed Jan 06 17:17:41 2016]  say: Padawan: yes
+[Wed Jan 06 17:18:27 2016]  say: ^1M^7r ^1Р^7innertime: brb
+[Wed Jan 06 17:18:31 2016]  say: Padawan: :(
+[Wed Jan 06 17:18:34 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Jan 06 17:18:50 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 17:19:00 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 17:19:09 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 17:19:14 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Wed Jan 06 17:19:33 2016]  say: Padawan: ^0TRAP!
+[Wed Jan 06 17:20:30 2016]  say: ^1M^7r ^1Р^7innertime: back
+[Wed Jan 06 17:21:11 2016]  ClientDisconnect: 1
+[Wed Jan 06 17:22:41 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Wed Jan 06 17:22:45 2016]  say: Padawan: ^0BOMB ^3SET!
+[Wed Jan 06 17:22:50 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Wed Jan 06 17:22:58 2016]  say: Padawan: ^0BOMB ^3SET!
+[Wed Jan 06 17:23:01 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Wed Jan 06 17:23:12 2016]  say: Padawan: POISON ^0BALL!
+[Wed Jan 06 17:23:21 2016]  say: Padawan: ^1RAGE ^3BLAST!
+[Wed Jan 06 17:23:35 2016]  say: Padawan: ^1Fire ^5Heal!
+[Wed Jan 06 17:23:36 2016]  say: Padawan: ^5Charging ^1Health...
+[Wed Jan 06 17:23:40 2016]  say: Padawan: ^1Health ^5Charged!
+[Wed Jan 06 17:23:40 2016]  say: Padawan: ^5Charging ^2Armor...
+[Wed Jan 06 17:23:45 2016]  say: Padawan: ^2Armor ^5Charged!
+[Wed Jan 06 17:23:45 2016]  say: Padawan: ^5Healed!
+[Wed Jan 06 17:23:52 2016]  say: Padawan: ^0ROCK ^6SMASH!
+[Wed Jan 06 17:24:07 2016]  say: Padawan: ^4RESSURECT ^0THE ^1DEAD!
+[Wed Jan 06 17:24:16 2016]  say: Padawan: ^4RESSURECT ^0THE ^1DEAD!
+[Wed Jan 06 17:24:29 2016]  say: Padawan: ^4RESSURECT ^0THE ^1DEAD!
+[Wed Jan 06 17:24:39 2016]  say: Padawan: ^4RESSURECT ^0THE ^1DEAD!
+[Wed Jan 06 17:24:46 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Jan 06 17:24:46 2016]  setteam:  0 FREE SPECTATOR
+[Wed Jan 06 17:24:46 2016]  ClientBegin: 0
+[Wed Jan 06 17:24:57 2016]  ClientDisconnect: 0
+[Wed Jan 06 17:51:40 2016]  Kill: 2 2 39: Inariel killed Inariel by MOD_SUICIDE
+[Wed Jan 06 17:51:51 2016]  Item: 2 weapon_melee
+[Wed Jan 06 17:53:09 2016]  Kill: 1022 2 2: <world> killed Inariel by MOD_MELEE
+[Wed Jan 06 17:56:22 2016]  ClientDisconnect: 2
+[Wed Jan 06 17:56:34 2016]  ClientConnect: 0
+[Wed Jan 06 17:56:34 2016]  mlog:Player Inariel, connected. With IP - 5.18.54.91:29070 
+[Wed Jan 06 17:56:45 2016]  ClientBegin: 0
+[Wed Jan 06 17:57:43 2016]  Item: 0 weapon_melee
+[Wed Jan 06 18:09:37 2016]  ClientDisconnect: 0
+[Wed Jan 06 18:12:56 2016]  ClientConnect: 0
+[Wed Jan 06 18:12:56 2016]  mlog:Player ^5Dorak Teringar, connected. With IP - 93.194.4.35:29070 
+[Wed Jan 06 18:13:41 2016]  ClientBegin: 0
+[Wed Jan 06 18:13:55 2016]  print "^1Boba Fett^7 @@@PLRENAME ^5Dorak Teringa
+"[Wed Jan 06 18:14:12 2016]  Kill: 0 0 39: ^5Dorak Teringa killed ^5Dorak Teringa by MOD_SUICIDE
+[Wed Jan 06 18:14:18 2016]  print "^5Dorak Teringa^7 @@@PLRENAME ^5Dorak Teringar
+"[Wed Jan 06 18:14:49 2016]  ClientDisconnect: 0
+[Wed Jan 06 18:26:12 2016]  ClientConnect: 0
+[Wed Jan 06 18:26:12 2016]  mlog:Player Deadlar, connected. With IP - 188.186.119.148:29070 
+[Wed Jan 06 18:26:42 2016]  ClientBegin: 0
+[Wed Jan 06 18:27:11 2016]  ClientDisconnect: 0
+[Wed Jan 06 21:26:15 2016]  ------------------------------------------------------------
+[Wed Jan 06 21:26:15 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Jan 06 22:31:49 2016]  ClientConnect: 0
+[Wed Jan 06 22:31:49 2016]  mlog:Player DARTH ANUS, connected. With IP - 71.101.250.213:29070 
+[Wed Jan 06 22:35:11 2016]  ClientDisconnect: 0
+[Wed Jan 06 23:26:21 2016]  ClientConnect: 0
+[Wed Jan 06 23:26:21 2016]  mlog:Player Ki-Adi-Mundane, connected. With IP - 92.28.166.116:29070 
+[Wed Jan 06 23:26:23 2016]  ClientConnect: 1
+[Wed Jan 06 23:26:23 2016]  mlog:Player Big Willie the Poofter, connected. With IP - 109.152.45.2:29070 
+[Wed Jan 06 23:26:34 2016]  ClientBegin: 0
+[Wed Jan 06 23:26:38 2016]  ClientBegin: 1
+[Wed Jan 06 23:28:48 2016]  Kill: 1 0 3: Big Willie the Poofter killed Ki-Adi-Mundane by MOD_SABER
+[Wed Jan 06 23:29:32 2016]  Kill: 1 0 3: Big Willie the Poofter killed Ki-Adi-Mundane by MOD_SABER
+[Wed Jan 06 23:30:25 2016]  Kill: 0 1 3: Ki-Adi-Mundane killed Big Willie the Poofter by MOD_SABER
+[Wed Jan 06 23:34:15 2016]  ClientDisconnect: 0
+[Wed Jan 06 23:35:13 2016]  ClientConnect: 0
+[Wed Jan 06 23:35:13 2016]  mlog:Player Ki-Adi-Mundane, connected. With IP - 92.28.166.116:29070 
+[Wed Jan 06 23:35:24 2016]  ClientBegin: 0
+[Wed Jan 06 23:38:06 2016]  Kill: 0 1 3: Ki-Adi-Mundane killed Big Willie the Poofter by MOD_SABER
+[Wed Jan 06 23:40:07 2016]  Kill: 1 0 3: Big Willie the Poofter killed Ki-Adi-Mundane by MOD_SABER
+[Wed Jan 06 23:40:48 2016]  Kill: 1 0 3: Big Willie the Poofter killed Ki-Adi-Mundane by MOD_SABER
+[Wed Jan 06 23:41:27 2016]  Kill: 0 1 3: Ki-Adi-Mundane killed Big Willie the Poofter by MOD_SABER
+[Wed Jan 06 23:42:32 2016]  Kill: 1 0 3: Big Willie the Poofter killed Ki-Adi-Mundane by MOD_SABER
+[Wed Jan 06 23:43:03 2016]  Kill: 0 1 5: Ki-Adi-Mundane killed Big Willie the Poofter by MOD_BRYAR_PISTOL_ALT
+[Wed Jan 06 23:43:28 2016]  Kill: 1 0 3: Big Willie the Poofter killed Ki-Adi-Mundane by MOD_SABER
+[Wed Jan 06 23:43:38 2016]  ClientDisconnect: 1
+[Wed Jan 06 23:43:39 2016]  ClientDisconnect: 0
+[Thu Jan 07 00:04:34 2016]  ClientConnect: 0
+[Thu Jan 07 00:04:34 2016]  mlog:Player Padawan, connected. With IP - 190.153.75.111:29070 
+[Thu Jan 07 00:05:03 2016]  ClientBegin: 0
+[Thu Jan 07 00:08:11 2016]  ClientDisconnect: 0
+[Thu Jan 07 03:15:57 2016]  ClientConnect: 0
+[Thu Jan 07 03:15:57 2016]  mlog:Player Venom, connected. With IP - 98.198.112.44:29070 
+[Thu Jan 07 03:16:23 2016]  ClientBegin: 0
+[Thu Jan 07 03:18:37 2016]  ClientDisconnect: 0
+[Thu Jan 07 06:43:28 2016]  ClientConnect: 0
+[Thu Jan 07 06:43:28 2016]  mlog:Player Padawan, connected. With IP - 178.121.163.34:26866 
+[Thu Jan 07 06:44:50 2016]  ClientBegin: 0
+[Thu Jan 07 06:46:45 2016]  ClientDisconnect: 0
+[Thu Jan 07 06:51:57 2016]  ClientConnect: 0
+[Thu Jan 07 06:51:57 2016]  mlog:Player Padawan, connected. With IP - 178.121.163.34:-8358 
+[Thu Jan 07 06:53:16 2016]  ClientBegin: 0
+[Thu Jan 07 06:53:34 2016]  ClientDisconnect: 0
+[Thu Jan 07 06:56:10 2016]  ClientConnect: 0
+[Thu Jan 07 06:56:10 2016]  mlog:Player Padawan, connected. With IP - 178.121.163.34:-8358 
+[Thu Jan 07 06:56:32 2016]  ClientBegin: 0
+[Thu Jan 07 06:57:23 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Thu Jan 07 06:57:40 2016]  say: Padawan: ^0TRAP!
+[Thu Jan 07 06:58:07 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Thu Jan 07 06:58:17 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Thu Jan 07 06:58:30 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Thu Jan 07 06:58:32 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Thu Jan 07 06:58:38 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Thu Jan 07 06:58:44 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Thu Jan 07 06:58:55 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Thu Jan 07 06:59:02 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Thu Jan 07 06:59:08 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Thu Jan 07 06:59:18 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Thu Jan 07 06:59:40 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Thu Jan 07 06:59:47 2016]  say: Padawan: ^0BOMB ^3SET!
+[Thu Jan 07 06:59:55 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Thu Jan 07 07:02:26 2016]  ClientDisconnect: 0
+[Thu Jan 07 07:10:47 2016]  ClientConnect: 0
+[Thu Jan 07 07:10:48 2016]  mlog:Player Padawan, connected. With IP - 178.121.163.34:-13856 
+[Thu Jan 07 07:12:09 2016]  ClientBegin: 0
+[Thu Jan 07 07:12:42 2016]  say: Padawan: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Jan 07 07:12:49 2016]  say: Padawan: ^5FORCE ^5BLAST!
+[Thu Jan 07 07:13:00 2016]  say: Padawan: ^1FORCE DESTRUCTION!
+[Thu Jan 07 07:13:07 2016]  say: Padawan: ^7SILVER ^7SUIT!
+[Thu Jan 07 07:13:14 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 07:13:19 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 07:13:23 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Thu Jan 07 07:13:26 2016]  say: Padawan: ^7ICE ^7BARRIER!
+[Thu Jan 07 07:17:56 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 07:18:04 2016]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Thu Jan 07 07:19:46 2016]  say: Padawan: ships/heavydmg
+[Thu Jan 07 07:22:02 2016]  say: Padawan: c/
+[Thu Jan 07 07:22:05 2016]  say: Padawan: v/
+[Thu Jan 07 07:22:08 2016]  say: Padawan: n/
+[Thu Jan 07 07:22:46 2016]  say: Padawan: BOTH_MINDTRICK1
+[Thu Jan 07 07:24:54 2016]  say: Padawan: ^3SUPER ^3LIGHTNING!
+[Thu Jan 07 07:25:09 2016]  say: Padawan: ^3SUPER ^3LIGHTNING!
+[Thu Jan 07 07:25:25 2016]  say: Padawan: ^3SUPER ^3LIGHTNING!
+[Thu Jan 07 07:25:38 2016]  Kill: 1022 0 0: <world> killed Padawan by MOD_UNKNOWN
+[Thu Jan 07 07:30:23 2016]  say: Padawan: ^7ICE ^7BARRIER!
+[Thu Jan 07 07:39:26 2016]  say: Padawan: ^0TRAP!
+[Thu Jan 07 07:42:13 2016]  say: Padawan: ^0THROWING ^0HAND ^0GRENADE...
+[Thu Jan 07 07:42:27 2016]  say: Padawan: ^0HAND ^0GRENADE ^0THROWN!
+[Thu Jan 07 07:47:53 2016]  say: Padawan: ^1FIRE BALL!
+[Thu Jan 07 07:48:00 2016]  say: Padawan: ^1RAGE ^3BLAST!
+[Thu Jan 07 07:53:21 2016]  say: Padawan: ^0TRAP!
+[Thu Jan 07 07:53:36 2016]  say: Padawan: ^0TRAP!
+[Thu Jan 07 08:02:27 2016]  ClientConnect: 1
+[Thu Jan 07 08:02:27 2016]  mlog:Player Padawan, connected. With IP - 79.173.123.124:29070 
+[Thu Jan 07 08:02:51 2016]  ClientBegin: 1
+[Thu Jan 07 08:03:16 2016]  say: Padawan: р
+[Thu Jan 07 08:03:24 2016]  say: Padawan: о
+[Thu Jan 07 08:03:36 2016]  say: Padawan: ты где
+[Thu Jan 07 08:03:45 2016]  say: ^9Fet^8tus: хз)
+[Thu Jan 07 08:03:49 2016]  say: Padawan: умри
+[Thu Jan 07 08:03:54 2016]  Kill: 1 1 39: ^9Fet^8tus killed ^9Fet^8tus by MOD_SUICIDE
+[Thu Jan 07 08:04:04 2016]  say: Padawan: я тут пока делаю скрипты из кристаллов
+[Thu Jan 07 08:04:08 2016]  say: Padawan: могу потом тебе кинуть
+[Thu Jan 07 08:04:17 2016]  say: ^9Fet^8tus: Не плохо
+[Thu Jan 07 08:04:33 2016]  say: Padawan: не очень
+[Thu Jan 07 08:04:39 2016]  say: Padawan: вот этот
+[Thu Jan 07 08:04:49 2016]  say: Padawan: он только нпс наверное толкает
+[Thu Jan 07 08:04:57 2016]  say: Padawan: у меня есть еще скаченные
+[Thu Jan 07 08:04:59 2016]  say: Padawan: хорошие
+[Thu Jan 07 08:05:01 2016]  say: ^9Fet^8tus: давно тут играешь ?
+[Thu Jan 07 08:05:03 2016]  say: Padawan: да
+[Thu Jan 07 08:05:06 2016]  say: Padawan: тут интересно
+[Thu Jan 07 08:05:08 2016]  say: Padawan: если понимать
+[Thu Jan 07 08:05:11 2016]  say: Padawan: ^1FIRE BALL!
+[Thu Jan 07 08:05:16 2016]  Kill: 0 1 36: Padawan killed ^9Fet^8tus by MOD_CRUSH
+[Thu Jan 07 08:05:16 2016]  say: ^9Fet^8tus: хех)
+[Thu Jan 07 08:05:27 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 08:05:33 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 08:05:40 2016]  say: Padawan: ^3SUPER ^1JETPACK!
+[Thu Jan 07 08:06:11 2016]  say: Padawan: тебе может кинтуь скрипты?
+[Thu Jan 07 08:06:17 2016]  say: ^9Fet^8tus: ну кинь)
+[Thu Jan 07 08:06:19 2016]  say: Padawan: они мало весят
+[Thu Jan 07 08:06:26 2016]  say: Padawan: тебе скаченные?
+[Thu Jan 07 08:06:30 2016]  say: ^9Fet^8tus: да
+[Thu Jan 07 08:06:36 2016]  say: Padawan: щас покажу
+[Thu Jan 07 08:06:46 2016]  say: Padawan: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Jan 07 08:06:49 2016]  say: Padawan: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Thu Jan 07 08:06:54 2016]  say: Padawan: вот этот могу
+[Thu Jan 07 08:06:58 2016]  say: Padawan: ^1FIRE BALL!
+[Thu Jan 07 08:07:06 2016]  say: Padawan: ^1FIRE ^5SURROUND!
+[Thu Jan 07 08:07:18 2016]  say: Padawan: ^5AIR ^5WAVE!
+[Thu Jan 07 08:07:27 2016]  say: Padawan: ^3SANDSTORM!
+[Thu Jan 07 08:07:37 2016]  say: Padawan: ^4WATERFALL!
+[Thu Jan 07 08:07:50 2016]  say: Padawan: ^2ACID ^3BLAST!
+[Thu Jan 07 08:07:58 2016]  say: Padawan: ^1GRAVEL ^4SHOT!
+[Thu Jan 07 08:08:07 2016]  say: Padawan: этот тебе надо?
+[Thu Jan 07 08:08:10 2016]  say: ^9Fet^8tus: да
+[Thu Jan 07 08:08:35 2016]  say: Padawan: щас
+[Thu Jan 07 08:08:36 2016]  say: Padawan: жди
+[Thu Jan 07 08:08:41 2016]  say: Padawan: их надо в базу кидать
+[Thu Jan 07 08:08:45 2016]  say: Padawan: кстати
+[Thu Jan 07 08:08:49 2016]  say: ^9Fet^8tus: ну как обычно
+[Thu Jan 07 08:08:51 2016]  say: Padawan: тут вот что
+[Thu Jan 07 08:08:59 2016]  say: Padawan: ударь
+[Thu Jan 07 08:09:02 2016]  say: Padawan: вот
+[Thu Jan 07 08:09:04 2016]  say: Padawan: оно часто
+[Thu Jan 07 08:09:11 2016]  Kill: 0 1 3: Padawan killed ^9Fet^8tus by MOD_SABER
+[Thu Jan 07 08:09:17 2016]  say: Padawan: тут кстати читы есть
+[Thu Jan 07 08:09:18 2016]  say: Padawan:  /god
+[Thu Jan 07 08:09:24 2016]  say: Padawan: я щас кину
+[Thu Jan 07 08:10:58 2016]  say: ^9Fet^8tus: щас вернусь
+[Thu Jan 07 08:11:33 2016]  say: Padawan: кинул
+[Thu Jan 07 08:11:41 2016]  say: Padawan: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Jan 07 08:11:48 2016]  say: ^9Fet^8tus: просмотрю и вернусь сюда.
+[Thu Jan 07 08:11:51 2016]  say: Padawan: ^5FORCE ^5BLAST!
+[Thu Jan 07 08:11:55 2016]  ClientDisconnect: 1
+[Thu Jan 07 08:12:04 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 08:12:11 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Thu Jan 07 08:12:21 2016]  say: Padawan: ^0TRAP!
+[Thu Jan 07 08:12:28 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Thu Jan 07 08:12:35 2016]  say: Padawan: ^0BOMB ^3SET!
+[Thu Jan 07 08:14:45 2016]  ClientConnect: 1
+[Thu Jan 07 08:14:45 2016]  mlog:Player Padawan, connected. With IP - 79.173.123.124:29070 
+[Thu Jan 07 08:15:06 2016]  ClientBegin: 1
+[Thu Jan 07 08:15:30 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Thu Jan 07 08:15:40 2016]  say: ^9Fet^8tus: Лол
+[Thu Jan 07 08:15:45 2016]  say: Padawan: о
+[Thu Jan 07 08:15:47 2016]  say: Padawan: ну что
+[Thu Jan 07 08:15:50 2016]  say: ^9Fet^8tus: все
+[Thu Jan 07 08:15:54 2016]  say: Padawan:  /exec elements
+[Thu Jan 07 08:16:30 2016]  say: Padawan: ой блин
+[Thu Jan 07 08:16:37 2016]  say: Padawan: я тебе не то кинул
+[Thu Jan 07 08:16:43 2016]  say: ^9Fet^8tus: УЖЕ И ПОНЯЛ)
+[Thu Jan 07 08:16:57 2016]  say: Padawan: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Jan 07 08:17:00 2016]  say: Padawan: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Thu Jan 07 08:17:12 2016]  say: Padawan: перепутал elements с element
+[Thu Jan 07 08:17:24 2016]  say: ^9Fet^8tus: бывает.
+[Thu Jan 07 08:17:43 2016]  say: Padawan: все
+[Thu Jan 07 08:17:45 2016]  say: Padawan: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Jan 07 08:17:53 2016]  say: ^9Fet^8tus: ладно,сейчас переделаю.
+[Thu Jan 07 08:17:57 2016]  ClientDisconnect: 1
+[Thu Jan 07 08:18:39 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 08:18:44 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 08:18:47 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 08:18:58 2016]  say: Padawan: ^1FIRE BALL!
+[Thu Jan 07 08:19:05 2016]  say: Padawan: POISON ^0BALL!
+[Thu Jan 07 08:19:14 2016]  say: Padawan: ^1RAGE ^3BLAST!
+[Thu Jan 07 08:19:27 2016]  say: Padawan: ^6MEGA ^7PUNCH!
+[Thu Jan 07 08:19:33 2016]  say: Padawan: ^0ROCK ^6SMASH!
+[Thu Jan 07 08:19:48 2016]  ClientConnect: 1
+[Thu Jan 07 08:19:48 2016]  mlog:Player Padawan, connected. With IP - 79.173.123.124:29070 
+[Thu Jan 07 08:19:54 2016]  say: Padawan: ^6WHIRLWIND!
+[Thu Jan 07 08:20:02 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 08:20:07 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 08:20:10 2016]  ClientBegin: 1
+[Thu Jan 07 08:20:11 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 08:20:17 2016]  say: Padawan:  /exec element
+[Thu Jan 07 08:20:40 2016]  say: ^9Fet^8tus: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Jan 07 08:20:40 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 08:20:42 2016]  say: ^9Fet^8tus: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Thu Jan 07 08:20:46 2016]  say: Padawan: так
+[Thu Jan 07 08:20:58 2016]  say: Padawan: знаешь где page up?
+[Thu Jan 07 08:21:03 2016]  say: ^9Fet^8tus: неа
+[Thu Jan 07 08:21:08 2016]  say: Padawan: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Jan 07 08:21:12 2016]  say: Padawan: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Thu Jan 07 08:21:15 2016]  say: Padawan: как так
+[Thu Jan 07 08:21:21 2016]  say: Padawan: там где стрелочки
+[Thu Jan 07 08:21:24 2016]  say: ^9Fet^8tus: да вот так)
+[Thu Jan 07 08:22:28 2016]  say: ^9Fet^8tus: неа,не знаю)) Я ЕСЛИ ПО JA+ ТОЛЬКО ВСЕ ЗНАЮ)
+[Thu Jan 07 08:22:36 2016]  say: ^9Fet^8tus: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Jan 07 08:22:39 2016]  say: ^9Fet^8tus: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Thu Jan 07 08:22:51 2016]  say: Padawan: так
+[Thu Jan 07 08:23:04 2016]  say: Padawan: page up кнопку нашел?
+[Thu Jan 07 08:23:08 2016]  say: ^9Fet^8tus: неа
+[Thu Jan 07 08:23:14 2016]  say: Padawan: на клаве где стрелочки
+[Thu Jan 07 08:23:16 2016]  say: Padawan: сверху
+[Thu Jan 07 08:23:22 2016]  say: ^9Fet^8tus: а все
+[Thu Jan 07 08:23:23 2016]  say: Padawan: вот стрелки и сверху
+[Thu Jan 07 08:23:28 2016]  say: Padawan: нажми на page u
+[Thu Jan 07 08:23:35 2016]  say: ^9Fet^8tus: нажал
+[Thu Jan 07 08:23:40 2016]  say: Padawan: там рядом видешь end?
+[Thu Jan 07 08:23:42 2016]  say: Padawan: кнопку
+[Thu Jan 07 08:23:47 2016]  say: ^9Fet^8tus: да
+[Thu Jan 07 08:23:51 2016]  say: Padawan: нажми на end
+[Thu Jan 07 08:24:00 2016]  say: ^9Fet^8tus: все
+[Thu Jan 07 08:24:06 2016]  say: Padawan: page up
+[Thu Jan 07 08:24:14 2016]  say: Padawan: это чтобы гартать магию
+[Thu Jan 07 08:24:14 2016]  say: ^9Fet^8tus: ^1FIRE BALL!
+[Thu Jan 07 08:24:17 2016]  say: Padawan: вр
+[Thu Jan 07 08:24:18 2016]  say: Padawan: вот
+[Thu Jan 07 08:24:22 2016]  say: Padawan: только надо наводить
+[Thu Jan 07 08:24:27 2016]  say: ^9Fet^8tus: ^1FIRE ^5SURROUND!
+[Thu Jan 07 08:24:36 2016]  say: Padawan:  /mkillall
+[Thu Jan 07 08:24:40 2016]  say: Padawan: чтобы удалить
+[Thu Jan 07 08:25:07 2016]  say: ^9Fet^8tus: прикольно)
+[Thu Jan 07 08:25:22 2016]  say: Padawan: просмотри все
+[Thu Jan 07 08:25:26 2016]  say: Padawan: там больше
+[Thu Jan 07 08:25:42 2016]  ClientDisconnect: 0
+[Thu Jan 07 08:25:43 2016]  ClientDisconnect: 0
+[Thu Jan 07 08:25:43 2016]  ClientConnect: 0
+[Thu Jan 07 08:25:43 2016]  mlog:Player Padawan, connected. With IP - 178.121.163.34:-13856 
+[Thu Jan 07 08:26:03 2016]  ClientBegin: 0
+[Thu Jan 07 08:27:16 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Thu Jan 07 08:28:28 2016]  say: Padawan: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Jan 07 08:28:36 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 08:28:39 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 08:28:39 2016]  ClientDisconnect: 1
+[Thu Jan 07 08:33:44 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 08:33:47 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 08:40:02 2016]  say: Padawan: ^5JEDI ^3FAITH!
+[Thu Jan 07 08:57:21 2016]  ClientConnect: 1
+[Thu Jan 07 08:57:21 2016]  mlog:Player HeroMC, connected. With IP - 95.190.111.71:29070 
+[Thu Jan 07 08:57:28 2016]  ClientDisconnect: 1
+[Thu Jan 07 09:02:10 2016]  ClientDisconnect: 0
+[Thu Jan 07 09:02:38 2016]  ClientConnect: 0
+[Thu Jan 07 09:02:38 2016]  mlog:Player Padawan, connected. With IP - 178.121.163.34:-13856 
+[Thu Jan 07 09:02:59 2016]  ClientBegin: 0
+[Thu Jan 07 09:03:32 2016]  say: Padawan: ^5JEDI ^3FAITH!
+[Thu Jan 07 09:03:41 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Thu Jan 07 09:03:58 2016]  say: Padawan: ^1Fire ^5Heal!
+[Thu Jan 07 09:03:59 2016]  say: Padawan: ^5Charging ^1Health...
+[Thu Jan 07 09:04:04 2016]  say: Padawan: ^1Health ^5Charged!
+[Thu Jan 07 09:04:04 2016]  say: Padawan: ^5Charging ^2Armor...
+[Thu Jan 07 09:04:11 2016]  say: Padawan: ^2Armor ^5Charged!
+[Thu Jan 07 09:04:11 2016]  say: Padawan: ^5Healed!
+[Thu Jan 07 09:04:14 2016]  say: Padawan: ^1Fire ^5Heal!
+[Thu Jan 07 09:04:15 2016]  say: Padawan: ^5Charging ^1Health...
+[Thu Jan 07 09:04:20 2016]  say: Padawan: ^1Health ^5Charged!
+[Thu Jan 07 09:04:20 2016]  say: Padawan: ^5Charging ^2Armor...
+[Thu Jan 07 09:04:26 2016]  say: Padawan: ^2Armor ^5Charged!
+[Thu Jan 07 09:04:27 2016]  say: Padawan: ^5Healed!
+[Thu Jan 07 09:04:30 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Thu Jan 07 09:04:42 2016]  say: Padawan: ^3SUPER ^1JETPACK!
+[Thu Jan 07 09:05:15 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 09:05:20 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Thu Jan 07 09:05:27 2016]  say: Padawan: ^7ICE ^7BEAM!
+[Thu Jan 07 09:05:43 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Thu Jan 07 09:06:23 2016]  Kill: 1022 0 31: <world> killed Padawan by MOD_FORCE_DARK
+[Thu Jan 07 09:07:13 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Thu Jan 07 09:08:31 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Thu Jan 07 09:08:56 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Thu Jan 07 09:09:13 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Thu Jan 07 09:09:48 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Thu Jan 07 09:14:51 2016]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Thu Jan 07 09:22:46 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Thu Jan 07 09:23:05 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Thu Jan 07 09:23:17 2016]  say: Padawan: ^0BOMB ^3SET!
+[Thu Jan 07 09:23:22 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Thu Jan 07 09:23:40 2016]  say: Padawan: ^0THROWING ^0HAND ^0GRENADE...
+[Thu Jan 07 09:23:56 2016]  say: Padawan: ^0HAND ^0GRENADE ^0THROWN!
+[Thu Jan 07 09:23:58 2016]  say: Padawan: ^1FIRE BALL!
+[Thu Jan 07 09:24:07 2016]  say: Padawan: ^1RAGE ^3BLAST!
+[Thu Jan 07 09:24:19 2016]  say: Padawan: ^5JEDI ^3FAITH!
+[Thu Jan 07 09:24:37 2016]  say: Padawan: ^0ROCK ^6SMASH!
+[Thu Jan 07 09:25:06 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 09:25:08 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 09:25:11 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 09:25:14 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 09:25:16 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 09:25:19 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 09:25:25 2016]  say: Padawan: ^4RESSURECT ^0THE ^1DEAD!
+[Thu Jan 07 09:25:42 2016]  say: Padawan: ^1FORCE DESTRUCTION!
+[Thu Jan 07 09:25:49 2016]  say: Padawan: ^1FORCE DESTRUCTION!
+[Thu Jan 07 09:25:58 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 09:26:04 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 09:26:11 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 09:28:03 2016]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Thu Jan 07 09:28:28 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Thu Jan 07 09:28:33 2016]  Kill: 1022 0 38: <world> killed Padawan by MOD_FALLING
+[Thu Jan 07 09:28:34 2016]  say: Padawan: ^0BOMB ^3SET!
+[Thu Jan 07 09:28:54 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Thu Jan 07 09:29:00 2016]  say: Padawan: ^0BOMB ^3SET!
+[Thu Jan 07 09:29:10 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Thu Jan 07 09:29:17 2016]  say: Padawan: ^0BOMB ^3SET!
+[Thu Jan 07 09:34:05 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Thu Jan 07 09:38:19 2016]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Thu Jan 07 09:52:29 2016]  Kill: 1022 0 31: <world> killed Padawan by MOD_FORCE_DARK
+[Thu Jan 07 09:52:42 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Thu Jan 07 09:52:47 2016]  say: Padawan: ^0BOMB ^3SET!
+[Thu Jan 07 09:52:58 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Thu Jan 07 09:53:05 2016]  say: Padawan: ^0BOMB ^3SET!
+[Thu Jan 07 09:53:28 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Thu Jan 07 09:53:47 2016]  say: Padawan: ^1FIRE BALL!
+[Thu Jan 07 09:53:53 2016]  say: Padawan: ^1FIRE BALL!
+[Thu Jan 07 09:54:01 2016]  say: Padawan: ^1FIRE BALL!
+[Thu Jan 07 09:54:05 2016]  say: Padawan: ^1FIRE BALL!
+[Thu Jan 07 09:54:09 2016]  say: Padawan: ^1FIRE BALL!
+[Thu Jan 07 09:54:15 2016]  say: Padawan: ^1RAGE ^3BLAST!
+[Thu Jan 07 09:59:59 2016]  say: Padawan: ^0TRAP!
+[Thu Jan 07 10:01:16 2016]  Kill: 1022 0 0: <world> killed Padawan by MOD_UNKNOWN
+[Thu Jan 07 10:23:07 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:10 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:14 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:14 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:14 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:14 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:14 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:15 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:15 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:15 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:15 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:15 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:15 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:15 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:15 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:15 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:15 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:15 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:23:15 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 10:25:29 2016]  ClientConnect: 1
+[Thu Jan 07 10:25:29 2016]  mlog:Player Inariel, connected. With IP - 5.18.54.91:29070 
+[Thu Jan 07 10:26:03 2016]  ClientBegin: 1
+[Thu Jan 07 10:26:42 2016]  Item: 1 weapon_melee
+[Thu Jan 07 10:27:00 2016]  say: Padawan: привет
+[Thu Jan 07 10:27:43 2016]  say: Padawan: о
+[Thu Jan 07 10:27:53 2016]  say: Padawan: cкажи привет
+[Thu Jan 07 10:27:56 2016]  say: Padawan: или мешать буду
+[Thu Jan 07 10:37:34 2016]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Thu Jan 07 10:41:34 2016]  ClientDisconnect: 1
+[Thu Jan 07 10:42:30 2016]  ClientDisconnect: 0
+[Thu Jan 07 10:52:03 2016]  ClientConnect: 0
+[Thu Jan 07 10:52:03 2016]  mlog:Player Rian, connected. With IP - 5.18.54.91:29070 
+[Thu Jan 07 10:52:31 2016]  ClientBegin: 0
+[Thu Jan 07 10:52:43 2016]  Item: 0 weapon_melee
+[Thu Jan 07 10:59:17 2016]  ClientConnect: 1
+[Thu Jan 07 10:59:17 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Jan 07 10:59:32 2016]  ClientBegin: 1
+[Thu Jan 07 10:59:39 2016]  Item: 1 weapon_melee
+[Thu Jan 07 11:00:13 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 11:00:27 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 11:04:57 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 11:05:09 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 11:18:30 2016]  say: Rian: чот меня упороло х)
+[Thu Jan 07 11:18:38 2016]  say: ^0Shadow^5seer: херово тебе
+[Thu Jan 07 11:18:50 2016]  say: Rian: ага х)
+[Thu Jan 07 11:19:25 2016]  say: Rian: ф ты где летаешь?
+[Thu Jan 07 11:19:34 2016]  say: ^0Shadow^5seer: я продолжаю ангар строить
+[Thu Jan 07 11:19:56 2016]  say: Rian: а, точно
+[Thu Jan 07 11:22:44 2016]  ClientConnect: 2
+[Thu Jan 07 11:22:44 2016]  mlog:Player Padawan, connected. With IP - 178.121.163.34:-13856 
+[Thu Jan 07 11:22:51 2016]  say: ^0Shadow^5seer: бегите, глупцы
+[Thu Jan 07 11:23:13 2016]  say: Rian: .-.
+[Thu Jan 07 11:23:23 2016]  say: ^0Shadow^5seer: я к слову админу написал, жду ответа
+[Thu Jan 07 11:23:29 2016]  say: ^0Shadow^5seer: вполне возможно он мне права выдаст
+[Thu Jan 07 11:23:46 2016]  ClientBegin: 2
+[Thu Jan 07 11:23:50 2016]  say: Rian: выкинешь криволапого? х)
+[Thu Jan 07 11:24:04 2016]  say: ^0Shadow^5seer: смогу просто удалять его объекты
+[Thu Jan 07 11:24:13 2016]  say: Rian: а, шикарно
+[Thu Jan 07 11:24:14 2016]  say: Padawan: (
+[Thu Jan 07 11:25:34 2016]  say: ^0Shadow^5seer: ну, по крайней мере я успел остеклить диспетчерскую
+[Thu Jan 07 11:25:48 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 11:25:53 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 11:26:03 2016]  say: ^0Shadow^5seer: вау)
+[Thu Jan 07 11:26:04 2016]  say: Rian: ну, я спряталась х)
+[Thu Jan 07 11:26:08 2016]  say: ^0Shadow^5seer: миленько
+[Thu Jan 07 11:26:13 2016]  say: Rian: )
+[Thu Jan 07 11:26:21 2016]  say: Rian: иди к черту х)
+[Thu Jan 07 11:26:25 2016]  say: ^0Shadow^5seer: я серьезно
+[Thu Jan 07 11:26:46 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 11:26:59 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 11:28:01 2016]  say: ^0Shadow^5seer: у меня тут есть не только трон)
+[Thu Jan 07 11:28:32 2016]  say: Rian: пристанище злодея х)
+[Thu Jan 07 11:28:38 2016]  say: ^0Shadow^5seer: трон зла)
+[Thu Jan 07 11:28:44 2016]  say: ^0Shadow^5seer: если бы тут было два кота...
+[Thu Jan 07 11:28:49 2016]  say: Rian: только зверушка н коленях должна быть хд
+[Thu Jan 07 11:29:00 2016]  say: ^0Shadow^5seer: я пойду поем
+[Thu Jan 07 11:29:04 2016]  ClientDisconnect: 1
+[Thu Jan 07 11:29:11 2016]  say: Rian: приятного
+[Thu Jan 07 11:29:22 2016]  say: Rian: ох, ну серьезо
+[Thu Jan 07 11:30:13 2016]  say: Rian: сам блин ничего не умеешь и до других докапываешься
+[Thu Jan 07 11:30:19 2016]  say: Rian: иди делай уроки
+[Thu Jan 07 11:31:12 2016]  say: Padawan: у миня каникулы)0)
+[Thu Jan 07 11:31:35 2016]  say: Rian: на каникулы уроки задают, так что не отлынивай
+[Thu Jan 07 11:31:41 2016]  say: Padawan: нам нет
+[Thu Jan 07 11:31:52 2016]  say: Padawan: только прочитать пару книжек
+[Thu Jan 07 11:31:52 2016]  say: Rian: не ври, а иди делай уроки
+[Thu Jan 07 11:31:59 2016]  say: Padawan: по себе не суди
+[Thu Jan 07 11:32:01 2016]  say: Padawan: :)
+[Thu Jan 07 11:32:16 2016]  say: Rian: билеты к экзаменам у меня уже готовы
+[Thu Jan 07 11:32:26 2016]  say: Padawan: да
+[Thu Jan 07 11:40:03 2016]  say: Rian: mmove 20 0 0
+[Thu Jan 07 11:53:58 2016]  say: Padawan: ^3This duel platform was made by ^1P^4etz^1I
+[Thu Jan 07 11:58:31 2016]  ClientConnect: 1
+[Thu Jan 07 11:58:31 2016]  mlog:Player Padawan, connected. With IP - 93.100.4.38:29070 
+[Thu Jan 07 11:58:57 2016]  ClientBegin: 1
+[Thu Jan 07 11:59:15 2016]  Kill: 1 1 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Thu Jan 07 11:59:15 2016]  setteam:  1 FREE SPECTATOR
+[Thu Jan 07 11:59:15 2016]  ClientBegin: 1
+[Thu Jan 07 11:59:21 2016]  setteam:  1 SPECTATOR FREE
+[Thu Jan 07 11:59:21 2016]  ClientBegin: 1
+[Thu Jan 07 11:59:46 2016]  ClientConnect: 3
+[Thu Jan 07 11:59:46 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Jan 07 12:00:00 2016]  ClientBegin: 3
+[Thu Jan 07 12:00:05 2016]  Item: 3 weapon_melee
+[Thu Jan 07 12:00:17 2016]  say: ^0Shadow^5seer: здарова
+[Thu Jan 07 12:00:21 2016]  say: ^6b00ty^5sw4ggty: priv
+[Thu Jan 07 12:00:28 2016]  say: ^0Shadow^5seer: займи этого уебка падавана, играть мешает
+[Thu Jan 07 12:00:31 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:00:34 2016]  say: Rian: plhfcndeqnt
+[Thu Jan 07 12:00:39 2016]  say: Rian: здраствуйте
+[Thu Jan 07 12:00:48 2016]  say: ^6b00ty^5sw4ggty: ya hz chem
+[Thu Jan 07 12:00:54 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:01:00 2016]  say: Padawan: просто развлекай меня
+[Thu Jan 07 12:01:05 2016]  say: ^0Shadow^5seer: :D
+[Thu Jan 07 12:01:12 2016]  say: ^0Shadow^5seer: ну ты понял, с кем имеешь дело
+[Thu Jan 07 12:01:29 2016]  say: ^0Shadow^5seer: о, ты его нашел?
+[Thu Jan 07 12:01:34 2016]  say: ^6b00ty^5sw4ggty: da
+[Thu Jan 07 12:01:37 2016]  say: ^0Shadow^5seer: круто
+[Thu Jan 07 12:01:42 2016]  say: Rian: тролль с низким уровнем интеллекта х)
+[Thu Jan 07 12:01:44 2016]  say: ^6b00ty^5sw4ggty: ti pro skript?
+[Thu Jan 07 12:01:45 2016]  say: ^0Shadow^5seer: удалять только не забывай
+[Thu Jan 07 12:01:48 2016]  say: ^6b00ty^5sw4ggty: ofc
+[Thu Jan 07 12:01:49 2016]  say: ^0Shadow^5seer: да, про скрипт
+[Thu Jan 07 12:01:58 2016]  say: ^6b00ty^5sw4ggty: eto drugoy
+[Thu Jan 07 12:02:05 2016]  say: ^6b00ty^5sw4ggty: s jarms skachal ya etot
+[Thu Jan 07 12:02:08 2016]  say: ^0Shadow^5seer: ну такой написать сходу не трудно
+[Thu Jan 07 12:02:10 2016]  say: ^0Shadow^5seer: а
+[Thu Jan 07 12:02:25 2016]  say: ^0Shadow^5seer: я тут кое что вспомнил...
+[Thu Jan 07 12:02:37 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:02:37 2016]  say: ^6b00ty^5sw4ggty: cho
+[Thu Jan 07 12:03:48 2016]  say: Padawan: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Jan 07 12:03:52 2016]  say: ^6b00ty^5sw4ggty: govno
+[Thu Jan 07 12:03:54 2016]  say: ^6b00ty^5sw4ggty: vikluchai
+[Thu Jan 07 12:04:03 2016]  say: Padawan: ^7ICE ^7BARRIER!
+[Thu Jan 07 12:04:22 2016]  say: Padawan: ^0TRAP!
+[Thu Jan 07 12:04:34 2016]  say: Padawan: ^1FIRE BALL!
+[Thu Jan 07 12:04:40 2016]  say: ^6b00ty^5sw4ggty: gde ya blyat
+[Thu Jan 07 12:04:43 2016]  Kill: 1 1 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Thu Jan 07 12:04:43 2016]  setteam:  1 FREE SPECTATOR
+[Thu Jan 07 12:04:43 2016]  ClientBegin: 1
+[Thu Jan 07 12:04:46 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:04:48 2016]  setteam:  1 SPECTATOR FREE
+[Thu Jan 07 12:04:48 2016]  ClientBegin: 1
+[Thu Jan 07 12:04:57 2016]  say: Padawan: я не буду мешать
+[Thu Jan 07 12:05:15 2016]  say: Padawan: почем у меня не работает програ
+[Thu Jan 07 12:05:22 2016]  say: Padawan: ну я не могу поставить на бинд
+[Thu Jan 07 12:05:28 2016]  say: ^6b00ty^5sw4ggty: proga?
+[Thu Jan 07 12:05:35 2016]  say: Padawan: makermod client 
+[Thu Jan 07 12:05:36 2016]  say: ^0Shadow^5seer: не отвечай, он не заслужил)
+[Thu Jan 07 12:05:50 2016]  say: Padawan: всегда надо шантажировать(
+[Thu Jan 07 12:05:50 2016]  say: ^6b00ty^5sw4ggty: ya ne ponimayu
+[Thu Jan 07 12:06:18 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:06:32 2016]  say: ^6b00ty^5sw4ggty: a kakoy topoviy effect est
+[Thu Jan 07 12:06:36 2016]  say: ^6b00ty^5sw4ggty: dlya meteora
+[Thu Jan 07 12:06:39 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:06:55 2016]  say: ^0Shadow^5seer: да хз, взрыв какой нибудь, что нибудь огненное
+[Thu Jan 07 12:07:00 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:07:02 2016]  say: Rian: уберите кто-нибудь этого чувака х-х
+[Thu Jan 07 12:07:32 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:08:01 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:08:12 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:08:14 2016]  say: ^6b00ty^5sw4ggty: a effect ot pluhi repeatera kak nazivaetsya?
+[Thu Jan 07 12:08:26 2016]  say: ^0Shadow^5seer: взрыв?
+[Thu Jan 07 12:08:29 2016]  say: ^6b00ty^5sw4ggty: da
+[Thu Jan 07 12:08:34 2016]  say: ^0Shadow^5seer: repeater/concussion
+[Thu Jan 07 12:08:38 2016]  say: ^6b00ty^5sw4ggty: sps
+[Thu Jan 07 12:08:42 2016]  say: ^0Shadow^5seer: частоту советую не меньше 100
+[Thu Jan 07 12:08:51 2016]  say: ^0Shadow^5seer: :D
+[Thu Jan 07 12:09:05 2016]  say: ^6b00ty^5sw4ggty: ok
+[Thu Jan 07 12:09:09 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:09:57 2016]  say: ^6b00ty^5sw4ggty: lol
+[Thu Jan 07 12:09:59 2016]  say: ^6b00ty^5sw4ggty: smotri
+[Thu Jan 07 12:10:22 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:10:26 2016]  say: ^6b00ty^5sw4ggty: smari
+[Thu Jan 07 12:10:27 2016]  say: ^6b00ty^5sw4ggty: idi sud
+[Thu Jan 07 12:10:36 2016]  say: ^0Shadow^5seer: давай чуть позже, я занят
+[Thu Jan 07 12:10:40 2016]  say: ^6b00ty^5sw4ggty: kk
+[Thu Jan 07 12:10:42 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:10:43 2016]  say: Rian: схожу тоже поем
+[Thu Jan 07 12:11:28 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:11:37 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:11:42 2016]  say: ^6b00ty^5sw4ggty: debil
+[Thu Jan 07 12:11:48 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:11:54 2016]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Thu Jan 07 12:11:54 2016]  setteam:  2 FREE SPECTATOR
+[Thu Jan 07 12:11:54 2016]  ClientBegin: 2
+[Thu Jan 07 12:12:04 2016]  setteam:  2 SPECTATOR FREE
+[Thu Jan 07 12:12:04 2016]  ClientBegin: 2
+[Thu Jan 07 12:12:29 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:12:37 2016]  ClientConnect: 4
+[Thu Jan 07 12:12:37 2016]  mlog:Player ^1M^7r ^1Р^7innertime, connected. With IP - 109.153.79.14:29070 
+[Thu Jan 07 12:12:39 2016]  say: ^6b00ty^5sw4ggty: livai s servera
+[Thu Jan 07 12:12:45 2016]  say: ^6b00ty^5sw4ggty: padawan
+[Thu Jan 07 12:12:45 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:12:46 2016]  say: Padawan: ответь на вопрос
+[Thu Jan 07 12:12:55 2016]  say: ^6b00ty^5sw4ggty: kakoy
+[Thu Jan 07 12:12:59 2016]  ClientBegin: 4
+[Thu Jan 07 12:13:00 2016]  say: ^1M^7r ^1Р^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Jan 07 12:13:04 2016]  say: ^0Shadow^5seer: heyyy
+[Thu Jan 07 12:13:06 2016]  say: ^1M^7r ^1Р^7innertime: Hai :D
+[Thu Jan 07 12:13:12 2016]  say: Padawan: я не могу забиндить эту програ для макермода
+[Thu Jan 07 12:13:18 2016]  say: Padawan: и я все уберу
+[Thu Jan 07 12:13:26 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:13:27 2016]  say: Padawan: и никогда мешать не буду
+[Thu Jan 07 12:13:52 2016]  Kill: 1 4 36: ^6b00ty^5sw4ggty killed ^1M^7r ^1Р^7innertime by MOD_CRUSH
+[Thu Jan 07 12:13:54 2016]  say: ^6b00ty^5sw4ggty: oops
+[Thu Jan 07 12:13:55 2016]  say: ^1M^7r ^1Р^7innertime: o
+[Thu Jan 07 12:13:55 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:13:55 2016]  say: ^6b00ty^5sw4ggty: sry
+[Thu Jan 07 12:13:58 2016]  say: ^6b00ty^5sw4ggty: wrong button
+[Thu Jan 07 12:13:59 2016]  say: ^1M^7r ^1Р^7innertime: np
+[Thu Jan 07 12:13:59 2016]  say: ^6b00ty^5sw4ggty: lol
+[Thu Jan 07 12:14:01 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Thu Jan 07 12:14:04 2016]  say: ^1M^7r ^1Р^7innertime: lol
+[Thu Jan 07 12:14:08 2016]  say: ^1M^7r ^1Р^7innertime: I'll kill it xD np
+[Thu Jan 07 12:14:16 2016]  say: ^1M^7r ^1Р^7innertime: you probably can't
+[Thu Jan 07 12:14:23 2016]  say: ^1M^7r ^1Р^7innertime: ;D
+[Thu Jan 07 12:15:00 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Thu Jan 07 12:15:02 2016]  say: ^6b00ty^5sw4ggty: what happens
+[Thu Jan 07 12:15:03 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:15:13 2016]  say: ^6b00ty^5sw4ggty: lol
+[Thu Jan 07 12:15:16 2016]  ClientConnect: 5
+[Thu Jan 07 12:15:16 2016]  mlog:Player Padawan, connected. With IP - 95.73.139.212:29070 
+[Thu Jan 07 12:15:16 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:15:26 2016]  say: ^6b00ty^5sw4ggty: you know cool effect for meteor?
+[Thu Jan 07 12:15:28 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Thu Jan 07 12:15:31 2016]  say: ^1M^7r ^1Р^7innertime: meteor?
+[Thu Jan 07 12:15:33 2016]  say: ^1M^7r ^1Р^7innertime: uhm
+[Thu Jan 07 12:15:42 2016]  say: ^1M^7r ^1Р^7innertime: are we talking lazy and spammy or proper and neat?
+[Thu Jan 07 12:15:49 2016]  ClientBegin: 5
+[Thu Jan 07 12:15:51 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:15:51 2016]  say: ^6b00ty^5sw4ggty: yeas
+[Thu Jan 07 12:15:56 2016]  say: ^1M^7r ^1Р^7innertime: which? lol
+[Thu Jan 07 12:15:56 2016]  say: ^6b00ty^5sw4ggty: maybe
+[Thu Jan 07 12:16:12 2016]  say: ^6b00ty^5sw4ggty: i dont know
+[Thu Jan 07 12:16:14 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Thu Jan 07 12:16:16 2016]  say: ^6b00ty^5sw4ggty: cool
+[Thu Jan 07 12:16:17 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 12:16:21 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:16:31 2016]  ClientDisconnect: 5
+[Thu Jan 07 12:16:36 2016]  say: ^1M^7r ^1Р^7innertime: o.o
+[Thu Jan 07 12:16:37 2016]  say: ^1M^7r ^1Р^7innertime: oh
+[Thu Jan 07 12:16:39 2016]  say: ^1M^7r ^1Р^7innertime: so lazy and spammy
+[Thu Jan 07 12:16:40 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Thu Jan 07 12:16:44 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:16:55 2016]  say: ^1M^7r ^1Р^7innertime: hmm o.o
+[Thu Jan 07 12:17:03 2016]  say: ^1M^7r ^1Р^7innertime: it takes me a while to make my scripts :D I like them to be neat
+[Thu Jan 07 12:17:10 2016]  say: ^1M^7r ^1Р^7innertime: let me find a good effect for you
+[Thu Jan 07 12:17:14 2016]  say: ^6b00ty^5sw4ggty: kk
+[Thu Jan 07 12:17:40 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:17:58 2016]  say: ^1M^7r ^1Р^7innertime: o.o just taking precautions
+[Thu Jan 07 12:18:06 2016]  say: ^1M^7r ^1Р^7innertime: lol
+[Thu Jan 07 12:18:08 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:18:22 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:18:29 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:18:33 2016]  say: Rian: что я пропустила?
+[Thu Jan 07 12:18:36 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:18:45 2016]  say: ^6b00ty^5sw4ggty: you found?
+[Thu Jan 07 12:18:50 2016]  say: ^1M^7r ^1Р^7innertime: not found
+[Thu Jan 07 12:18:51 2016]  say: ^1M^7r ^1Р^7innertime: looking
+[Thu Jan 07 12:18:52 2016]  say: ^1M^7r ^1Р^7innertime: :>
+[Thu Jan 07 12:18:58 2016]  say: ^6b00ty^5sw4ggty: ?
+[Thu Jan 07 12:19:01 2016]  say: Padawan: ну скажите
+[Thu Jan 07 12:19:02 2016]  say: ^0Shadow^5seer: :D
+[Thu Jan 07 12:19:04 2016]  Kill: 1022 2 0: <world> killed Padawan by MOD_UNKNOWN
+[Thu Jan 07 12:19:17 2016]  say: Rian: ясно, ничего
+[Thu Jan 07 12:19:29 2016]  say: ^6b00ty^5sw4ggty: cool effect
+[Thu Jan 07 12:19:30 2016]  say: ^0Shadow^5seer: я пытаюсь сделать скрипт падающего истребителя
+[Thu Jan 07 12:19:31 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 12:19:32 2016]  say: ^1M^7r ^1Р^7innertime: ^^
+[Thu Jan 07 12:19:35 2016]  say: ^1M^7r ^1Р^7innertime: ice meteor
+[Thu Jan 07 12:19:40 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 12:19:47 2016]  say: Rian: a? nfr 'nj ns hzljv gflfk
+[Thu Jan 07 12:19:48 2016]  say: ^6b00ty^5sw4ggty: aaaaaaaaaaaaaaaa wtf
+[Thu Jan 07 12:19:54 2016]  say: Rian: а, так это ты рядом падаешь
+[Thu Jan 07 12:20:06 2016]  say: ^0Shadow^5seer: но выходит хрень
+[Thu Jan 07 12:20:19 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:20:24 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:20:24 2016]  say: ^1M^7r ^1Р^7innertime: hmm
+[Thu Jan 07 12:20:33 2016]  say: ^6b00ty^5sw4ggty: effect
+[Thu Jan 07 12:20:41 2016]  say: ^1M^7r ^1Р^7innertime: maybe rock....
+[Thu Jan 07 12:20:46 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 12:20:54 2016]  say: ^1M^7r ^1Р^7innertime: ooh
+[Thu Jan 07 12:21:02 2016]  say: ^1M^7r ^1Р^7innertime: that's nice
+[Thu Jan 07 12:21:09 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:21:18 2016]  say: ^6b00ty^5sw4ggty: padaway
+[Thu Jan 07 12:21:19 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:21:22 2016]  say: ^6b00ty^5sw4ggty: padawan uspokoisya
+[Thu Jan 07 12:21:26 2016]  say: ^0Shadow^5seer: о
+[Thu Jan 07 12:21:35 2016]  say: ^0Shadow^5seer: уже лучше
+[Thu Jan 07 12:21:39 2016]  say: Rian: светошоооу х)
+[Thu Jan 07 12:21:47 2016]  say: Rian: круто х)
+[Thu Jan 07 12:21:48 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:21:58 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:22:04 2016]  say: ^0Shadow^5seer: вот так
+[Thu Jan 07 12:22:11 2016]  say: ^1M^7r ^1Р^7innertime: ooh
+[Thu Jan 07 12:22:14 2016]  say: ^1M^7r ^1Р^7innertime: but discoloured....
+[Thu Jan 07 12:22:22 2016]  say: ^6b00ty^5sw4ggty: fxfxfx
+[Thu Jan 07 12:22:32 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:22:41 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:22:48 2016]  say: ^0Shadow^5seer: во, идеально
+[Thu Jan 07 12:22:58 2016]  say: ^6b00ty^5sw4ggty: nahuy on tebe?
+[Thu Jan 07 12:23:02 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:23:25 2016]  say: ^1M^7r ^1Р^7innertime: ?mkill
+[Thu Jan 07 12:23:26 2016]  say: ^1M^7r ^1Р^7innertime: ew
+[Thu Jan 07 12:24:08 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:24:26 2016]  say: Rian: блин, теперь нижний лепесток не выделить х-х
+[Thu Jan 07 12:24:29 2016]  say: ^0Shadow^5seer: анимацию что ли добавить
+[Thu Jan 07 12:24:58 2016]  say: ^0Shadow^5seer: i made it)
+[Thu Jan 07 12:25:13 2016]  say: ^6b00ty^5sw4ggty: pokazhi
+[Thu Jan 07 12:25:30 2016]  say: ^6b00ty^5sw4ggty: lol
+[Thu Jan 07 12:25:36 2016]  say: ^6b00ty^5sw4ggty: XD
+[Thu Jan 07 12:25:48 2016]  say: ^0Shadow^5seer: мне тоже нравится)
+[Thu Jan 07 12:26:08 2016]  say: ^6b00ty^5sw4ggty: a est skript kotoriy v godmode ubivaet?
+[Thu Jan 07 12:26:08 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:26:09 2016]  say: ^1M^7r ^1Р^7innertime: ooh
+[Thu Jan 07 12:26:33 2016]  say: ^1M^7r ^1Р^7innertime: ? :D
+[Thu Jan 07 12:26:38 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 12:26:47 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:27:03 2016]  say: ^0Shadow^5seer: есть, но только по краям зоны
+[Thu Jan 07 12:27:09 2016]  say: ^0Shadow^5seer: крик баньши
+[Thu Jan 07 12:27:19 2016]  say: ^0Shadow^5seer: oh, i remember this one)
+[Thu Jan 07 12:27:21 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Thu Jan 07 12:29:00 2016]  say: ^0Shadow^5seer: ok ok, enough)
+[Thu Jan 07 12:29:08 2016]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Thu Jan 07 12:29:10 2016]  say: ^1M^7r ^1Р^7innertime: oh
+[Thu Jan 07 12:29:15 2016]  say: ^1M^7r ^1Р^7innertime: those were your tie fighters?
+[Thu Jan 07 12:29:18 2016]  say: ^0Shadow^5seer: yes
+[Thu Jan 07 12:29:20 2016]  say: ^1M^7r ^1Р^7innertime: lmao
+[Thu Jan 07 12:29:23 2016]  say: ^0Shadow^5seer: just made it
+[Thu Jan 07 12:29:24 2016]  say: ^1M^7r ^1Р^7innertime: sorry, padawan
+[Thu Jan 07 12:29:30 2016]  say: ^1M^7r ^1Р^7innertime: I thought he was hiding in noclip spamming them XD
+[Thu Jan 07 12:29:42 2016]  say: ^0Shadow^5seer: well i wasnt hidding
+[Thu Jan 07 12:29:44 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Thu Jan 07 12:30:14 2016]  say: ^1M^7r ^1Р^7innertime: nice :D
+[Thu Jan 07 12:30:25 2016]  say: ^6b00ty^5sw4ggty: eto tip warhammer?
+[Thu Jan 07 12:30:27 2016]  say: ^0Shadow^5seer: u should remember this one too
+[Thu Jan 07 12:30:30 2016]  say: ^0Shadow^5seer: нет
+[Thu Jan 07 12:30:32 2016]  say: ^1M^7r ^1Р^7innertime: no
+[Thu Jan 07 12:30:37 2016]  say: ^1M^7r ^1Р^7innertime: I remember your skyrim dragon, though LD
+[Thu Jan 07 12:30:41 2016]  say: ^1M^7r ^1Р^7innertime: ;D*
+[Thu Jan 07 12:31:03 2016]  say: ^6b00ty^5sw4ggty: kruta kruta
+[Thu Jan 07 12:32:23 2016]  say: ^0Shadow^5seer: отойдите
+[Thu Jan 07 12:32:26 2016]  say: ^0Shadow^5seer: step aside
+[Thu Jan 07 12:32:32 2016]  say: ^0Shadow^5seer: ^5Behold the Stormbringer!
+[Thu Jan 07 12:32:53 2016]  say: ^1M^7r ^1Р^7innertime: wow :p
+[Thu Jan 07 12:32:56 2016]  say: ^1M^7r ^1Р^7innertime: now that one I think I remember
+[Thu Jan 07 12:33:07 2016]  say: ^6b00ty^5sw4ggty: bayan koroch
+[Thu Jan 07 12:33:08 2016]  say: ^0Shadow^5seer: this one was made later
+[Thu Jan 07 12:33:10 2016]  say: ^1M^7r ^1Р^7innertime: oh
+[Thu Jan 07 12:33:11 2016]  say: ^6b00ty^5sw4ggty: go next
+[Thu Jan 07 12:33:23 2016]  say: ^0Shadow^5seer: ноклип
+[Thu Jan 07 12:33:41 2016]  say: Rian: ...я тут не при чем ^^
+[Thu Jan 07 12:33:44 2016]  say: ^0Shadow^5seer: ага)
+[Thu Jan 07 12:33:50 2016]  say: Rian: :3
+[Thu Jan 07 12:33:58 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Thu Jan 07 12:34:58 2016]  say: ^6b00ty^5sw4ggty: lol
+[Thu Jan 07 12:35:01 2016]  say: Padawan: вау
+[Thu Jan 07 12:35:08 2016]  say: Padawan: ой
+[Thu Jan 07 12:35:48 2016]  say: ^0Shadow^5seer: :D
+[Thu Jan 07 12:36:03 2016]  say: ^0Shadow^5seer: бунт на корабле?!
+[Thu Jan 07 12:36:11 2016]  say: ^0Shadow^5seer: вот и лежи
+[Thu Jan 07 12:36:15 2016]  say: Rian: зайцы на корабле хд
+[Thu Jan 07 12:37:08 2016]  say: ^0Shadow^5seer: :D
+[Thu Jan 07 12:37:08 2016]  say: ^6b00ty^5sw4ggty: lol
+[Thu Jan 07 12:37:16 2016]  say: Rian: я не ту клавишу нажала хд
+[Thu Jan 07 12:37:21 2016]  say: ^0Shadow^5seer: аага, дважды
+[Thu Jan 07 12:37:22 2016]  say: Rian: а вы сразу драааться хд
+[Thu Jan 07 12:37:31 2016]  say: Rian: я сесть пыталась. тут темно хл
+[Thu Jan 07 12:37:32 2016]  say: ^0Shadow^5seer: ты себя снесла своим же метеоритом)
+[Thu Jan 07 12:37:55 2016]  say: ^0Shadow^5seer: :P
+[Thu Jan 07 12:38:05 2016]  say: Rian: этот робот, когда падает - что то говорит
+[Thu Jan 07 12:38:10 2016]  say: ^1M^7r ^1Р^7innertime: o.o
+[Thu Jan 07 12:38:18 2016]  say: ^1M^7r ^1Р^7innertime: could not spawn x-wing, it does not exist
+[Thu Jan 07 12:38:19 2016]  say: ^1M^7r ^1Р^7innertime: lol
+[Thu Jan 07 12:38:29 2016]  say: Rian: юппи хд
+[Thu Jan 07 12:39:09 2016]  say: ^6b00ty^5sw4ggty: allahu akbar
+[Thu Jan 07 12:39:12 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Thu Jan 07 12:39:27 2016]  say: ^0Shadow^5seer: ну вот, взорвал
+[Thu Jan 07 12:39:32 2016]  say: ^6b00ty^5sw4ggty: vse ya bandit
+[Thu Jan 07 12:39:57 2016]  say: ^0Shadow^5seer: My origin is: (-12008 -14117 1898) - You can teleport here with /mtelelast
+
+[Thu Jan 07 12:40:04 2016]  ClientConnect: 5
+[Thu Jan 07 12:40:04 2016]  mlog:Player 420, connected. With IP - 128.72.208.237:29070 
+[Thu Jan 07 12:40:11 2016]  ClientDisconnect: 5
+[Thu Jan 07 12:40:12 2016]  say: ^6b00ty^5sw4ggty: ooooo
+[Thu Jan 07 12:40:22 2016]  say: ^6b00ty^5sw4ggty: ya pomnu
+[Thu Jan 07 12:40:27 2016]  say: ^6b00ty^5sw4ggty: kak mi stroili
+[Thu Jan 07 12:40:30 2016]  say: ^6b00ty^5sw4ggty: no menya zaebalo
+[Thu Jan 07 12:40:33 2016]  say: ^0Shadow^5seer: вот, воссоздал
+[Thu Jan 07 12:40:40 2016]  ClientConnect: 5
+[Thu Jan 07 12:40:40 2016]  mlog:Player Padawan, connected. With IP - 128.72.208.237:29070 
+[Thu Jan 07 12:40:46 2016]  ClientDisconnect: 5
+[Thu Jan 07 12:42:08 2016]  say: ^6b00ty^5sw4ggty: kak mne tak blinkatsya kak vi
+[Thu Jan 07 12:42:18 2016]  say: ^0Shadow^5seer: напиши скрипт
+[Thu Jan 07 12:42:34 2016]  say: ^6b00ty^5sw4ggty: i kak on viglyadit bez effectov?
+[Thu Jan 07 12:42:38 2016]  say: Rian: телепорт что ли?
+[Thu Jan 07 12:42:40 2016]  say: ^6b00ty^5sw4ggty: da
+[Thu Jan 07 12:42:43 2016]  say: ^0Shadow^5seer: ноклип и инвиз
+[Thu Jan 07 12:42:53 2016]  say: ^6b00ty^5sw4ggty: invis?
+[Thu Jan 07 12:42:58 2016]  say: ^0Shadow^5seer: невидимость
+[Thu Jan 07 12:43:01 2016]  say: ^6b00ty^5sw4ggty: ya ponyal
+[Thu Jan 07 12:43:04 2016]  say: ^6b00ty^5sw4ggty: a vsmisle
+[Thu Jan 07 12:43:07 2016]  say: ^6b00ty^5sw4ggty: mscale?
+[Thu Jan 07 12:43:09 2016]  say: ^0Shadow^5seer: ну вот думай
+[Thu Jan 07 12:43:55 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:44:09 2016]  say: Padawan: ^1FORCE DESTRUCTION!
+[Thu Jan 07 12:44:15 2016]  say: ^6b00ty^5sw4ggty: seriozhno chtoli noclip?
+[Thu Jan 07 12:44:29 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:45:00 2016]  say: ^6b00ty^5sw4ggty: ya pozhe zaidu
+[Thu Jan 07 12:45:05 2016]  ClientDisconnect: 1
+[Thu Jan 07 12:45:15 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:45:29 2016]  say: Padawan: ^0TRAP!
+[Thu Jan 07 12:45:52 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 12:46:04 2016]  say: Padawan: ^5JEDI ^3FAITH!
+[Thu Jan 07 12:46:44 2016]  say: Padawan: ^1FORCE DESTRUCTION!
+[Thu Jan 07 12:46:58 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Thu Jan 07 12:47:00 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:47:04 2016]  say: Padawan: ^0BOMB ^3SET!
+[Thu Jan 07 12:47:13 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Thu Jan 07 12:47:33 2016]  say: Padawan: ^0THROWING ^0HAND ^0GRENADE...
+[Thu Jan 07 12:47:41 2016]  say: ^1M^7r ^1Р^7innertime: ^0OK
+[Thu Jan 07 12:47:47 2016]  say: Padawan: ^0HAND ^0GRENADE ^0THROWN!
+[Thu Jan 07 12:47:52 2016]  say: ^1M^7r ^1Р^7innertime: ^0THAT'S NICE
+[Thu Jan 07 12:47:53 2016]  say: Padawan: ^1FIRE BALL!
+[Thu Jan 07 12:47:58 2016]  say: ^1M^7r ^1Р^7innertime: ^1*DOJ*
+[Thu Jan 07 12:48:01 2016]  say: Padawan: POISON ^0BALL!
+[Thu Jan 07 12:48:11 2016]  say: ^1M^7r ^1Р^7innertime: *^2GAS ^0MASK
+[Thu Jan 07 12:48:19 2016]  say: Padawan: ^1RAGE ^3BLAST!
+[Thu Jan 07 12:48:24 2016]  say: ^1M^7r ^1Р^7innertime: fudge
+[Thu Jan 07 12:48:28 2016]  say: ^1M^7r ^1Р^7innertime: what even is a rage blast
+[Thu Jan 07 12:48:29 2016]  say: ^1M^7r ^1Р^7innertime: lmao
+[Thu Jan 07 12:48:35 2016]  say: ^1M^7r ^1Р^7innertime: hai
+[Thu Jan 07 12:48:37 2016]  say: Padawan: ^3SUPER ^1JETPACK!
+[Thu Jan 07 12:48:47 2016]  say: ^0Shadow^5seer: dont even ask
+[Thu Jan 07 12:48:48 2016]  say: ^1M^7r ^1Р^7innertime: this is my pathetic landing strut XD I decided to give making stuff a go
+[Thu Jan 07 12:49:08 2016]  say: Padawan: ^5FORCE ^5BLAST!
+[Thu Jan 07 12:49:34 2016]  say: ^1M^7r ^1Р^7innertime: oops
+[Thu Jan 07 12:49:35 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 12:49:39 2016]  say: ^1M^7r ^1Р^7innertime: didn't bind it
+[Thu Jan 07 12:49:52 2016]  say: Rian: блин, оно теперь не то выделяет
+[Thu Jan 07 12:52:38 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 12:52:54 2016]  say: ^0Shadow^5seer: ты уже сохранила?
+[Thu Jan 07 12:53:11 2016]  say: Rian: да, убрала пока
+[Thu Jan 07 12:53:22 2016]  say: ^0Shadow^5seer: сохранила вместе с последним лепестком?
+[Thu Jan 07 12:53:31 2016]  say: Rian: иии я не могу призвать леталки
+[Thu Jan 07 12:53:37 2016]  say: Rian: в смысле?
+[Thu Jan 07 12:53:56 2016]  say: ^0Shadow^5seer: ну всмысле ты сохранила вообще вме, вместе с той штукой, которую не можешь выделить?
+[Thu Jan 07 12:54:00 2016]  say: ^0Shadow^5seer: все*
+[Thu Jan 07 12:54:16 2016]  say: Rian: ну. да
+[Thu Jan 07 12:54:20 2016]  say: ^0Shadow^5seer: нахерааа...
+[Thu Jan 07 12:54:23 2016]  say: Rian: оно изначально было сохрнено
+[Thu Jan 07 12:54:30 2016]  say: Rian: когда мне тут мудяй начал мешать
+[Thu Jan 07 12:54:36 2016]  say: ^0Shadow^5seer: ясно
+[Thu Jan 07 12:54:45 2016]  say: Rian: потом я вытащила и мне теперь не выделить
+[Thu Jan 07 12:55:03 2016]  ClientDisconnect: 3
+[Thu Jan 07 12:55:03 2016]  say: Rian: может, скайп?
+[Thu Jan 07 12:55:29 2016]  say: ^1M^7r ^1Р^7innertime: ooh
+[Thu Jan 07 12:55:31 2016]  say: ^1M^7r ^1Р^7innertime: I like this
+[Thu Jan 07 12:55:56 2016]  say: Rian: тьфу, свалил
+[Thu Jan 07 12:56:05 2016]  ClientDisconnect: 0
+[Thu Jan 07 12:56:06 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: what mplace
+[Thu Jan 07 12:56:15 2016]  ClientConnect: 0
+[Thu Jan 07 12:56:15 2016]  mlog:Player Rian, connected. With IP - 5.18.54.91:29070 
+[Thu Jan 07 12:56:17 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: which part?
+[Thu Jan 07 12:56:26 2016]  ClientBegin: 0
+[Thu Jan 07 12:56:31 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: models/items/datapad
+[Thu Jan 07 12:56:38 2016]  Item: 0 weapon_melee
+[Thu Jan 07 12:57:01 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: mp/models/items/datapad no
+[Thu Jan 07 12:57:11 2016]  say: ^1M^7r ^1Р^7innertime: oops
+[Thu Jan 07 12:57:12 2016]  say: ^1M^7r ^1Р^7innertime: lol
+[Thu Jan 07 12:57:16 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: no
+[Thu Jan 07 12:57:20 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: models/items/datapad
+[Thu Jan 07 12:57:46 2016]  say: ^1M^7r ^1Р^7innertime: :D :D
+[Thu Jan 07 12:58:21 2016]  say: Padawan: nice
+[Thu Jan 07 12:58:24 2016]  say: ^1M^7r ^1Р^7innertime: :>
+[Thu Jan 07 12:58:25 2016]  say: ^1M^7r ^1Р^7innertime: ty
+[Thu Jan 07 12:58:29 2016]  say: ^1M^7r ^1Р^7innertime: It's work in progress. lol
+[Thu Jan 07 12:59:55 2016]  say: ^1M^7r ^1Р^7innertime: ooh
+[Thu Jan 07 12:59:56 2016]  say: ^1M^7r ^1Р^7innertime: that was it
+[Thu Jan 07 13:00:00 2016]  say: ^1M^7r ^1Р^7innertime: byss/tractor_base
+[Thu Jan 07 13:00:12 2016]  say: ^1M^7r ^1Р^7innertime: lmao
+[Thu Jan 07 13:00:15 2016]  say: ^1M^7r ^1Р^7innertime: although....
+[Thu Jan 07 13:01:02 2016]  say: ^1M^7r ^1Р^7innertime: ah
+[Thu Jan 07 13:01:08 2016]  say: ^1M^7r ^1Р^7innertime: this has to be rotated. I forgot
+[Thu Jan 07 13:01:52 2016]  say: ^1M^7r ^1Р^7innertime: >_<
+[Thu Jan 07 13:01:56 2016]  say: ^1M^7r ^1Р^7innertime: wrong way. lol
+[Thu Jan 07 13:02:11 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Thu Jan 07 13:02:16 2016]  say: ^1M^7r ^1Р^7innertime: hmm
+[Thu Jan 07 13:02:41 2016]  Item: 0 weapon_bowcaster
+[Thu Jan 07 13:02:48 2016]  say: ^1M^7r ^1Р^7innertime: ^^
+[Thu Jan 07 13:02:53 2016]  say: ^1M^7r ^1Р^7innertime: it's quite boring watching people build xD sorry
+[Thu Jan 07 13:03:12 2016]  say: ^1M^7r ^1Р^7innertime: >_<
+[Thu Jan 07 13:03:18 2016]  say: ^1M^7r ^1Р^7innertime: stupid thing
+[Thu Jan 07 13:03:29 2016]  say: ^1M^7r ^1Р^7innertime: perfect :D
+[Thu Jan 07 13:03:32 2016]  say: ^1M^7r ^1Р^7innertime: now to add that
+[Thu Jan 07 13:04:51 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Thu Jan 07 13:04:53 2016]  say: ^1M^7r ^1Р^7innertime: oh. lol
+[Thu Jan 07 13:05:31 2016]  say: ^1M^7r ^1Р^7innertime: perfect
+[Thu Jan 07 13:05:40 2016]  say: ^1M^7r ^1Р^7innertime: hmm
+[Thu Jan 07 13:07:17 2016]  say: ^1M^7r ^1Р^7innertime: better
+[Thu Jan 07 13:07:33 2016]  say: ^1M^7r ^1Р^7innertime: hmm o.o
+[Thu Jan 07 13:08:25 2016]  say: ^1M^7r ^1Р^7innertime: too thin o.o
+[Thu Jan 07 13:09:17 2016]  say: ^1M^7r ^1Р^7innertime: OOH
+[Thu Jan 07 13:09:18 2016]  say: ^1M^7r ^1Р^7innertime: IDEA
+[Thu Jan 07 13:09:19 2016]  say: ^1M^7r ^1Р^7innertime: IDE
+[Thu Jan 07 13:10:21 2016]  say: ^1M^7r ^1Р^7innertime: >_<
+[Thu Jan 07 13:10:41 2016]  say: ^1M^7r ^1Р^7innertime: hmm
+[Thu Jan 07 13:12:19 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: /mplacefx word/ no
+[Thu Jan 07 13:12:21 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: why
+[Thu Jan 07 13:12:27 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: which object?
+[Thu Jan 07 13:12:28 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: world*
+[Thu Jan 07 13:12:36 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: /milistfx
+[Thu Jan 07 13:12:45 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: /mlistfx
+[Thu Jan 07 13:12:47 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: yeah. you can use that
+[Thu Jan 07 13:12:52 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: no
+[Thu Jan 07 13:13:12 2016]  say: Padawan: effect unavailable on server
+[Thu Jan 07 13:13:21 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: world/
+[Thu Jan 07 13:13:22 2016]  say: ^1M^7r ^1Р^7innertime: what is?
+[Thu Jan 07 13:13:27 2016]  say: ^1M^7r ^1Р^7innertime: what's unavailable?
+[Thu Jan 07 13:13:39 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: /mplacefx world/ 0
+[Thu Jan 07 13:13:43 2016]  say: ^1M^7r ^1Р^7innertime: O-o
+[Thu Jan 07 13:14:15 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: /mlistfx world gives acid_fizz and waterfall3
+[Thu Jan 07 13:14:30 2016]  say: Padawan: oh
+[Thu Jan 07 13:14:30 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: so you'd do mplacefx world/acid_fizz 100
+[Thu Jan 07 13:14:35 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: or something like that
+[Thu Jan 07 13:17:17 2016]  say: ^1M^7r ^1Р^7innertime: hmm
+[Thu Jan 07 13:19:39 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: how mscale effects
+[Thu Jan 07 13:19:51 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: not possible
+[Thu Jan 07 13:23:24 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: how mpain to objects
+[Thu Jan 07 13:23:32 2016]  say: ^1M^7r ^1Р^7innertime: uhm
+[Thu Jan 07 13:23:52 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: you can't o.o mpain is applied, for objects, with stuff like mpendulum
+[Thu Jan 07 13:24:11 2016]  say: Padawan: pain set
+[Thu Jan 07 13:24:32 2016]  say: ^1M^7r ^1Р^7innertime: lol
+[Thu Jan 07 13:25:05 2016]  say: Padawan: wow
+[Thu Jan 07 13:25:16 2016]  say: ^1M^7r ^1Р^7innertime: now if I move it towards you...
+[Thu Jan 07 13:25:27 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Thu Jan 07 13:25:35 2016]  say: ^1M^7r ^1Р^7innertime: it'll do nothing... but it should damage you
+[Thu Jan 07 13:26:23 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Thu Jan 07 13:26:41 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Thu Jan 07 13:26:43 2016]  say: Padawan: how
+[Thu Jan 07 13:26:48 2016]  say: ^1M^7r ^1Р^7innertime: mpendulum
+[Thu Jan 07 13:28:21 2016]  say: Padawan: (
+[Thu Jan 07 13:28:38 2016]  say: Padawan: nice
+[Thu Jan 07 13:28:40 2016]  say: Rian: mmove 0 0 0.2
+[Thu Jan 07 13:35:13 2016]  say: ^1M^7r ^1Р^7innertime: .mkill
+[Thu Jan 07 13:36:45 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Thu Jan 07 13:36:46 2016]  say: ^1M^7r ^1Р^7innertime: nice
+[Thu Jan 07 13:36:49 2016]  say: Padawan: )
+[Thu Jan 07 13:37:27 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Thu Jan 07 13:37:31 2016]  say: Padawan: ;d
+[Thu Jan 07 13:37:50 2016]  say: ^1M^7r ^1Р^7innertime: XD
+[Thu Jan 07 13:38:09 2016]  say: Padawan: :D
+[Thu Jan 07 13:38:10 2016]  say: ^1M^7r ^1Р^7innertime: :D
+[Thu Jan 07 13:39:39 2016]  ClientConnect: 1
+[Thu Jan 07 13:39:39 2016]  mlog:Player Padawan, connected. With IP - 93.100.4.38:29070 
+[Thu Jan 07 13:40:04 2016]  ClientBegin: 1
+[Thu Jan 07 13:40:12 2016]  say: ^1M^7r ^1Р^7innertime: hai
+[Thu Jan 07 13:40:15 2016]  say: ^6b00ty^5sw4ggty: a gde fura
+[Thu Jan 07 13:40:17 2016]  say: ^6b00ty^5sw4ggty: hello
+[Thu Jan 07 13:40:23 2016]  say: Padawan: pinnertime
+[Thu Jan 07 13:40:24 2016]  say: Rian: свалил куда-то
+[Thu Jan 07 13:40:34 2016]  say: ^1M^7r ^1Р^7innertime: ?
+[Thu Jan 07 13:40:42 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: where are you
+[Thu Jan 07 13:40:49 2016]  say: ^1M^7r ^1Р^7innertime: I moved o.o your fx were annoying
+[Thu Jan 07 13:40:54 2016]  Kill: 1 1 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Thu Jan 07 13:40:54 2016]  setteam:  1 FREE SPECTATOR
+[Thu Jan 07 13:40:54 2016]  ClientBegin: 1
+[Thu Jan 07 13:41:02 2016]  say: Padawan: ^0SITH ^0APPRENTICE ^0CLOTHES!
+[Thu Jan 07 13:41:06 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 13:41:14 2016]  setteam:  1 SPECTATOR FREE
+[Thu Jan 07 13:41:14 2016]  ClientBegin: 1
+[Thu Jan 07 13:41:17 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: where?
+[Thu Jan 07 13:41:31 2016]  say: ^1M^7r ^1Р^7innertime: if I told you where, you'd just come near me and spam effects again
+[Thu Jan 07 13:41:32 2016]  say: ^1M^7r ^1Р^7innertime: lol
+[Thu Jan 07 13:41:38 2016]  say: Padawan: no
+[Thu Jan 07 13:41:52 2016]  say: ^1M^7r ^1Р^7innertime: ...
+[Thu Jan 07 13:41:57 2016]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Thu Jan 07 13:41:57 2016]  setteam:  2 FREE SPECTATOR
+[Thu Jan 07 13:41:57 2016]  ClientBegin: 2
+[Thu Jan 07 13:42:01 2016]  say: ^1M^7r ^1Р^7innertime: I know for a fact, I didn't raise that
+[Thu Jan 07 13:42:07 2016]  setteam:  2 SPECTATOR FREE
+[Thu Jan 07 13:42:07 2016]  ClientBegin: 2
+[Thu Jan 07 13:42:12 2016]  say: ^1M^7r ^1Р^7innertime: o.o
+[Thu Jan 07 13:42:15 2016]  say: ^1M^7r ^1Р^7innertime: are you darthquake?
+[Thu Jan 07 13:42:19 2016]  say: ^6b00ty^5sw4ggty: no
+[Thu Jan 07 13:42:20 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 13:42:24 2016]  say: ^1M^7r ^1Р^7innertime: then stop ruining my stuff >:(
+[Thu Jan 07 13:42:29 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: what anim
+[Thu Jan 07 13:42:30 2016]  say: ^6b00ty^5sw4ggty: ruining?
+[Thu Jan 07 13:42:34 2016]  say: ^1M^7r ^1Р^7innertime: moving it about
+[Thu Jan 07 13:42:38 2016]  say: ^6b00ty^5sw4ggty: lool
+[Thu Jan 07 13:42:39 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 13:42:44 2016]  say: Padawan: what?
+[Thu Jan 07 13:42:51 2016]  tell: Padawan to ^1M^7r ^1Р^7innertime: say anim pls
+[Thu Jan 07 13:42:54 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 13:42:56 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: anim for what?
+[Thu Jan 07 13:43:00 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 13:43:07 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: Idk. Something to do with raising arms
+[Thu Jan 07 13:43:17 2016]  tell: ^1M^7r ^1Р^7innertime to Padawan: I'm trying to do my own thing. Figure some stuff out for yourself
+[Thu Jan 07 13:43:26 2016]  ClientDisconnect: 4
+[Thu Jan 07 13:43:48 2016]  say: ^6b00ty^5sw4ggty: on nadolgo ushel?
+[Thu Jan 07 13:44:06 2016]  say: Rian: хрен знает, я даже хз куда он
+[Thu Jan 07 13:47:11 2016]  say: ^6b00ty^5sw4ggty: a kak sdelat nevidimost
+[Thu Jan 07 13:47:17 2016]  say: ^6b00ty^5sw4ggty: nu dlya teleporta
+[Thu Jan 07 13:47:30 2016]  say: Rian: ээээ... если честно - без понятия
+[Thu Jan 07 13:47:37 2016]  say: ^6b00ty^5sw4ggty: nu y tebya zhe est
+[Thu Jan 07 13:47:43 2016]  say: Rian: у него лучше спрашивай
+[Thu Jan 07 13:47:50 2016]  say: ^6b00ty^5sw4ggty: y tebya est skript
+[Thu Jan 07 13:48:03 2016]  say: Rian: есть, обходными путями, я пока не знаю, как это все работает
+[Thu Jan 07 13:48:11 2016]  say: Rian: честно
+[Thu Jan 07 13:50:45 2016]  say: Padawan: почему у меня не появляется второй эффект?
+[Thu Jan 07 13:52:31 2016]  Kill: 2 2 36: Padawan killed Padawan by MOD_CRUSH
+[Thu Jan 07 13:53:56 2016]  Kill: 2 2 36: Padawan killed Padawan by MOD_CRUSH
+[Thu Jan 07 13:55:26 2016]  say: Padawan: cами нарушаете правила,а на меня потом говорите
+[Thu Jan 07 13:55:30 2016]  say: ^6b00ty^5sw4ggty: ?
+[Thu Jan 07 13:55:41 2016]  say: Padawan: используют скрипты в невидимости
+[Thu Jan 07 13:55:52 2016]  say: Rian: все равно потом по шее получу
+[Thu Jan 07 13:55:58 2016]  say: Rian: по шее больше
+[Thu Jan 07 13:56:02 2016]  say: Rian: по шее меньше
+[Thu Jan 07 13:56:07 2016]  say: Rian: какая разница? хд
+[Thu Jan 07 13:56:24 2016]  say: Padawan: просто не говори ничего когда я нарушаю
+[Thu Jan 07 13:56:33 2016]  say: Rian: я и не говорю
+[Thu Jan 07 13:56:44 2016]  say: Rian: правила его
+[Thu Jan 07 13:56:55 2016]  say: Rian: мне потом все равно от него прилетит
+[Thu Jan 07 13:57:04 2016]  say: Rian: и тебе тоже хд
+[Thu Jan 07 13:57:31 2016]  say: Padawan: я пытаюсь скрипты делать
+[Thu Jan 07 13:58:08 2016]  say: ^6b00ty^5sw4ggty: jedi_tf/head_a2/torso_g1/lower_e1
+[Thu Jan 07 13:58:12 2016]  say: ^6b00ty^5sw4ggty: oi
+[Thu Jan 07 13:58:18 2016]  say: ^6b00ty^5sw4ggty: lol
+[Thu Jan 07 13:59:22 2016]  say: Rian: почему блин в объете постоянно выделяется не та часть, которая нужна ><
+[Thu Jan 07 14:03:12 2016]  Kill: 1 1 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Thu Jan 07 14:03:12 2016]  setteam:  1 FREE SPECTATOR
+[Thu Jan 07 14:03:12 2016]  ClientBegin: 1
+[Thu Jan 07 14:03:18 2016]  setteam:  1 SPECTATOR FREE
+[Thu Jan 07 14:03:18 2016]  ClientBegin: 1
+[Thu Jan 07 14:04:03 2016]  Kill: 1022 1 36: <world> killed ^6b00ty^5sw4ggty by MOD_CRUSH
+[Thu Jan 07 14:04:05 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 14:04:09 2016]  say: ^6b00ty^5sw4ggty: AAAAAAAAAAAAAAAAA
+[Thu Jan 07 14:04:11 2016]  say: ^6b00ty^5sw4ggty: eto
+[Thu Jan 07 14:04:15 2016]  say: ^6b00ty^5sw4ggty: furi
+[Thu Jan 07 14:04:16 2016]  say: ^6b00ty^5sw4ggty: skript
+[Thu Jan 07 14:04:18 2016]  say: Rian: упс
+[Thu Jan 07 14:04:20 2016]  say: ^6b00ty^5sw4ggty: on tebe chtoli dal
+[Thu Jan 07 14:04:28 2016]  say: ^6b00ty^5sw4ggty: lol
+[Thu Jan 07 14:04:41 2016]  say: Rian: я ничего не скажу, спрашивай все у него хд
+[Thu Jan 07 14:04:58 2016]  Kill: 1022 1 36: <world> killed ^6b00ty^5sw4ggty by MOD_CRUSH
+[Thu Jan 07 14:06:52 2016]  say: ^6b00ty^5sw4ggty: a
+[Thu Jan 07 14:06:55 2016]  say: ^6b00ty^5sw4ggty: eto mscale
+[Thu Jan 07 14:06:57 2016]  say: ^6b00ty^5sw4ggty: verno?
+[Thu Jan 07 14:07:56 2016]  say: ^6b00ty^5sw4ggty: nu otvet'
+[Thu Jan 07 14:08:00 2016]  say: ^6b00ty^5sw4ggty: mscale?
+[Thu Jan 07 14:08:02 2016]  say: Rian: не знаю
+[Thu Jan 07 14:08:05 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 14:09:19 2016]  say: ^6b00ty^5sw4ggty: allahu akbar
+[Thu Jan 07 14:09:28 2016]  say: Rian: >D
+[Thu Jan 07 14:09:34 2016]  say: ^6b00ty^5sw4ggty: AAAAAAAAAAAAAAAAAAAAAAAA
+[Thu Jan 07 14:09:36 2016]  say: ^6b00ty^5sw4ggty: TEBYA NE VIDNO
+[Thu Jan 07 14:09:40 2016]  say: ^6b00ty^5sw4ggty: POCHEMU
+[Thu Jan 07 14:09:49 2016]  say: Rian: без понятия хд
+[Thu Jan 07 14:10:21 2016]  ClientConnect: 3
+[Thu Jan 07 14:10:21 2016]  mlog:Player Padawan, connected. With IP - 5.143.56.244:29070 
+[Thu Jan 07 14:11:27 2016]  ClientBegin: 3
+[Thu Jan 07 14:11:36 2016]  Kill: 1 3 27: ^6b00ty^5sw4ggty killed Padawan by MOD_DET_PACK_SPLASH
+[Thu Jan 07 14:11:45 2016]  Kill: 1022 3 36: <world> killed Padawan by MOD_CRUSH
+[Thu Jan 07 14:11:50 2016]  say: Padawan: fuu
+[Thu Jan 07 14:11:51 2016]  say: Padawan: lox
+[Thu Jan 07 14:11:52 2016]  say: Rian: а где этот чувак хд
+[Thu Jan 07 14:11:55 2016]  say: ^6b00ty^5sw4ggty: baza
+[Thu Jan 07 14:11:58 2016]  say: ^6b00ty^5sw4ggty: oi
+[Thu Jan 07 14:11:59 2016]  say: ^6b00ty^5sw4ggty: spawn
+[Thu Jan 07 14:11:59 2016]  say: Rian: он далеко улетел? хд
+[Thu Jan 07 14:12:05 2016]  say: ^6b00ty^5sw4ggty: net
+[Thu Jan 07 14:12:12 2016]  say: Rian: жааааль хд
+[Thu Jan 07 14:12:20 2016]  say: Rian: меня то вообе унесло
+[Thu Jan 07 14:12:22 2016]  say: ^6b00ty^5sw4ggty: mda chiter
+[Thu Jan 07 14:12:52 2016]  say: ^6b00ty^5sw4ggty: AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[Thu Jan 07 14:13:14 2016]  say: Rian: я лечууууу
+[Thu Jan 07 14:14:52 2016]  ClientDisconnect: 1
+[Thu Jan 07 14:14:52 2016]  ClientConnect: 1
+[Thu Jan 07 14:14:52 2016]  mlog:Player Padawan, connected. With IP - 93.100.4.38:29070 
+[Thu Jan 07 14:14:59 2016]  ClientDisconnect: 3
+[Thu Jan 07 14:15:17 2016]  ClientBegin: 1
+[Thu Jan 07 14:15:42 2016]  Kill: 0 1 27: Rian killed ^6b00ty^5sw4ggty by MOD_DET_PACK_SPLASH
+[Thu Jan 07 14:15:45 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 14:15:56 2016]  say: ^6b00ty^5sw4ggty: podgorel?
+[Thu Jan 07 14:15:59 2016]  say: ^6b00ty^5sw4ggty: a eto ti
+[Thu Jan 07 14:16:04 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 14:16:24 2016]  say: ^6b00ty^5sw4ggty: pokaji mne tu fignu
+[Thu Jan 07 14:16:28 2016]  say: ^6b00ty^5sw4ggty: s dimom
+[Thu Jan 07 14:16:30 2016]  say: ^6b00ty^5sw4ggty: kotoraya letit
+[Thu Jan 07 14:16:37 2016]  say: Rian: что?
+[Thu Jan 07 14:16:45 2016]  say: ^6b00ty^5sw4ggty: kak eto letit
+[Thu Jan 07 14:16:53 2016]  say: Rian: вот так и летит
+[Thu Jan 07 14:16:57 2016]  say: Rian:  хд
+[Thu Jan 07 14:17:01 2016]  say: ^6b00ty^5sw4ggty: ya effect
+[Thu Jan 07 14:17:03 2016]  say: ^6b00ty^5sw4ggty: hochu uznat
+[Thu Jan 07 14:17:46 2016]  say: ^6b00ty^5sw4ggty: gde ti
+[Thu Jan 07 14:19:07 2016]  say: ^6b00ty^5sw4ggty: mda yasno
+[Thu Jan 07 14:19:43 2016]  say: ^6b00ty^5sw4ggty: nais letaesh
+[Thu Jan 07 14:19:49 2016]  say: ^6b00ty^5sw4ggty: prizrak xd
+[Thu Jan 07 14:19:50 2016]  say: Rian: что тут за зеленая ересь?
+[Thu Jan 07 14:19:58 2016]  say: ^6b00ty^5sw4ggty: eto ne moya
+[Thu Jan 07 14:20:07 2016]  say: Rian: но падаван ж отключился
+[Thu Jan 07 14:20:12 2016]  say: ^6b00ty^5sw4ggty: net
+[Thu Jan 07 14:20:27 2016]  Kill: 1 1 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Thu Jan 07 14:20:27 2016]  setteam:  1 FREE SPECTATOR
+[Thu Jan 07 14:20:27 2016]  ClientBegin: 1
+[Thu Jan 07 14:20:31 2016]  say: ^6b00ty^5sw4ggty: on afk
+[Thu Jan 07 14:20:33 2016]  setteam:  1 SPECTATOR FREE
+[Thu Jan 07 14:20:33 2016]  ClientBegin: 1
+[Thu Jan 07 14:20:35 2016]  Item: 1 weapon_disruptor
+[Thu Jan 07 14:20:42 2016]  say: Rian: наркомань
+[Thu Jan 07 14:24:13 2016]  say: ^6b00ty^5sw4ggty: a kakoy transport mojno spawnit
+[Thu Jan 07 14:24:25 2016]  say: ^6b00ty^5sw4ggty: ??????
+[Thu Jan 07 14:24:36 2016]  say: Rian: корабли, зверушки
+[Thu Jan 07 14:24:38 2016]  say: ^6b00ty^5sw4ggty: tut
+[Thu Jan 07 14:24:41 2016]  say: ^6b00ty^5sw4ggty: lol
+[Thu Jan 07 14:25:18 2016]  Kill: 1 1 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Thu Jan 07 14:25:18 2016]  setteam:  1 FREE SPECTATOR
+[Thu Jan 07 14:25:18 2016]  ClientBegin: 1
+[Thu Jan 07 14:25:24 2016]  setteam:  1 SPECTATOR FREE
+[Thu Jan 07 14:25:24 2016]  ClientBegin: 1
+[Thu Jan 07 14:28:51 2016]  say: ^6b00ty^5sw4ggty: davai raketi
+[Thu Jan 07 14:30:56 2016]  say: ^6b00ty^5sw4ggty: cho za huinya
+[Thu Jan 07 14:31:02 2016]  say: Rian: м?
+[Thu Jan 07 14:33:22 2016]  say: ^6b00ty^5sw4ggty: NE BEI
+[Thu Jan 07 14:33:36 2016]  say: ^6b00ty^5sw4ggty: nihuya swag
+[Thu Jan 07 14:33:46 2016]  say: ^6b00ty^5sw4ggty: INSUUULT
+[Thu Jan 07 14:34:08 2016]  say: Padawan: ^1FIRE BALL!
+[Thu Jan 07 14:34:16 2016]  say: ^6b00ty^5sw4ggty: ???????
+[Thu Jan 07 14:34:59 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 14:36:01 2016]  say: ^6b00ty^5sw4ggty: mb stope huiney zanimatsya?
+[Thu Jan 07 14:36:28 2016]  say: Padawan: ^0ELECTRICITY ^0ATTACK!
+[Thu Jan 07 14:36:36 2016]  say: Rian: что сейчас произошло о-о
+[Thu Jan 07 14:36:44 2016]  say: ^6b00ty^5sw4ggty: MEME ATTACK
+[Thu Jan 07 14:36:49 2016]  say: Padawan: почему у меня не добавляется второй эффект
+[Thu Jan 07 14:37:03 2016]  say: ^6b00ty^5sw4ggty: chto ti hochesh sdelat?
+[Thu Jan 07 14:37:16 2016]  say: Padawan: добавить к той атаке еще 1 эффект
+[Thu Jan 07 14:37:27 2016]  Kill: 1 1 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Thu Jan 07 14:37:27 2016]  setteam:  1 FREE SPECTATOR
+[Thu Jan 07 14:37:27 2016]  ClientBegin: 1
+[Thu Jan 07 14:37:34 2016]  setteam:  1 SPECTATOR FREE
+[Thu Jan 07 14:37:34 2016]  ClientBegin: 1
+[Thu Jan 07 14:38:49 2016]  say: ^6b00ty^5sw4ggty: swag kamen
+[Thu Jan 07 14:39:38 2016]  say: ^6b00ty^5sw4ggty: kakoy krasiviy prop est chtobi kidat ? 
+
+[Thu Jan 07 14:39:42 2016]  say: ^6b00ty^5sw4ggty: ego kidat
+[Thu Jan 07 14:40:04 2016]  say: ^6b00ty^5sw4ggty: ?
+[Thu Jan 07 14:40:06 2016]  say: ^6b00ty^5sw4ggty: alo
+[Thu Jan 07 14:40:11 2016]  say: Padawan: я не знаю
+[Thu Jan 07 14:40:14 2016]  say: ^6b00ty^5sw4ggty: rian
+[Thu Jan 07 14:40:32 2016]  say: Rian: сь
+[Thu Jan 07 14:40:48 2016]  say: ^6b00ty^5sw4ggty: kakoy
+[Thu Jan 07 14:40:54 2016]  say: Rian: что какой?
+[Thu Jan 07 14:41:01 2016]  say: ^6b00ty^5sw4ggty: konsol' otkroi
+[Thu Jan 07 14:41:11 2016]  say: Padawan: mplacefx repeater/cuncussion 100
+[Thu Jan 07 14:41:21 2016]  say: ^6b00ty^5sw4ggty: PROP?
+[Thu Jan 07 14:41:22 2016]  say: Padawan: ох
+[Thu Jan 07 14:41:28 2016]  say: Padawan: я не тебе
+[Thu Jan 07 14:41:51 2016]  say: ^6b00ty^5sw4ggty: rian
+[Thu Jan 07 14:41:56 2016]  say: ^6b00ty^5sw4ggty: ti ignorshik
+[Thu Jan 07 14:42:04 2016]  say: Rian: что
+[Thu Jan 07 14:42:07 2016]  say: Rian: я не понимаю
+[Thu Jan 07 14:42:17 2016]  say: ^6b00ty^5sw4ggty: vesh kakuyu postavit mne vmesto meteorita
+[Thu Jan 07 14:42:20 2016]  say: ^6b00ty^5sw4ggty: chtobi luche smotrelos
+[Thu Jan 07 14:42:30 2016]  say: Rian: без понятия о_о
+[Thu Jan 07 14:42:35 2016]  say: Rian:  кидайся зверьем
+[Thu Jan 07 14:46:19 2016]  Kill: 1 1 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Thu Jan 07 14:46:19 2016]  setteam:  1 FREE SPECTATOR
+[Thu Jan 07 14:46:19 2016]  ClientBegin: 1
+[Thu Jan 07 14:46:24 2016]  setteam:  1 SPECTATOR FREE
+[Thu Jan 07 14:46:24 2016]  ClientBegin: 1
+[Thu Jan 07 14:46:30 2016]  Kill: 2 1 36: Padawan killed ^6b00ty^5sw4ggty by MOD_CRUSH
+[Thu Jan 07 14:46:38 2016]  Kill: 1 1 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Thu Jan 07 14:46:45 2016]  Kill: 1022 1 36: <world> killed ^6b00ty^5sw4ggty by MOD_CRUSH
+[Thu Jan 07 14:46:54 2016]  say: ^6b00ty^5sw4ggty: nauchi igrat pls
+[Thu Jan 07 14:46:56 2016]  ClientConnect: 3
+[Thu Jan 07 14:46:56 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Jan 07 14:47:04 2016]  say: Padawan: я нуб на мече
+[Thu Jan 07 14:47:12 2016]  ClientBegin: 3
+[Thu Jan 07 14:47:13 2016]  say: ^6b00ty^5sw4ggty: v makermod
+[Thu Jan 07 14:47:16 2016]  say: ^6b00ty^5sw4ggty: nauchi girat pls
+[Thu Jan 07 14:47:17 2016]  Item: 3 weapon_melee
+[Thu Jan 07 14:47:20 2016]  say: Padawan: пусть он учит
+[Thu Jan 07 14:47:22 2016]  say: Padawan:  тоже нуб
+[Thu Jan 07 14:47:23 2016]  say: ^6b00ty^5sw4ggty: darova
+[Thu Jan 07 14:47:28 2016]  say: Padawan: я стандартное пытаюсь делать
+[Thu Jan 07 14:47:32 2016]  say: Padawan: ну легкое
+[Thu Jan 07 14:47:42 2016]  say: ^6b00ty^5sw4ggty: darova alooo
+[Thu Jan 07 14:47:47 2016]  say: ^0Shadow^5seer: да виделись уже
+[Thu Jan 07 14:48:00 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 14:48:11 2016]  say: ^6b00ty^5sw4ggty: ti debil?
+[Thu Jan 07 14:48:15 2016]  say: Padawan: да
+[Thu Jan 07 14:48:18 2016]  say: ^6b00ty^5sw4ggty: ok
+[Thu Jan 07 14:48:24 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 14:48:31 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 14:48:49 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 14:49:02 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 14:49:05 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 14:50:05 2016]  say: Padawan: надо эффект добавить 
+[Thu Jan 07 14:50:16 2016]  say: Padawan: ты сам это делал?
+[Thu Jan 07 14:50:19 2016]  say: ^6b00ty^5sw4ggty: net
+[Thu Jan 07 14:50:21 2016]  say: Padawan: скажи название метеорита
+[Thu Jan 07 14:50:25 2016]  say: Padawan: (
+[Thu Jan 07 14:50:39 2016]  say: ^6b00ty^5sw4ggty: desert/dome
+[Thu Jan 07 14:50:47 2016]  say: ^0Shadow^5seer: это не метеорит, лол
+[Thu Jan 07 14:50:49 2016]  say: Padawan: не то
+[Thu Jan 07 14:50:54 2016]  say: ^6b00ty^5sw4ggty: HMHMHMH
+[Thu Jan 07 14:50:54 2016]  say: ^0Shadow^5seer: это купол
+[Thu Jan 07 14:50:56 2016]  say: ^6b00ty^5sw4ggty: STRANNO
+[Thu Jan 07 14:50:59 2016]  say: ^6b00ty^5sw4ggty: ya roflu
+[Thu Jan 07 14:51:01 2016]  say: ^6b00ty^5sw4ggty: lol
+[Thu Jan 07 14:51:14 2016]  say: ^6b00ty^5sw4ggty: ti cho ne ponyal ?
+[Thu Jan 07 14:51:23 2016]  say: ^6b00ty^5sw4ggty: chto ya prikalivaus
+[Thu Jan 07 14:54:22 2016]  Kill: 1 1 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Thu Jan 07 14:54:22 2016]  setteam:  1 FREE SPECTATOR
+[Thu Jan 07 14:54:22 2016]  ClientBegin: 1
+[Thu Jan 07 14:54:44 2016]  setteam:  1 SPECTATOR FREE
+[Thu Jan 07 14:54:44 2016]  ClientBegin: 1
+[Thu Jan 07 14:54:47 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 14:54:54 2016]  say: Padawan: ^1CRITICAL ^4ATTACK!
+[Thu Jan 07 14:55:17 2016]  say: Padawan: ^0TRAP!
+[Thu Jan 07 14:55:25 2016]  Kill: 1022 2 2: <world> killed Padawan by MOD_MELEE
+[Thu Jan 07 14:55:50 2016]  say: ^6b00ty^5sw4ggty: ya vas vicheslil
+[Thu Jan 07 14:55:56 2016]  say: ^0Shadow^5seer: по айпи, ага
+[Thu Jan 07 14:56:06 2016]  say: Padawan: а ранкора возможно сделать с бесконечным хп?
+[Thu Jan 07 14:56:09 2016]  say: ^0Shadow^5seer: нет
+[Thu Jan 07 14:56:19 2016]  say: Padawan: а с очень много?
+[Thu Jan 07 14:56:31 2016]  say: ^0Shadow^5seer: нельзя неписям задавать хп через команды мэйкера
+[Thu Jan 07 14:56:44 2016]  say: Padawan: ясно
+[Thu Jan 07 14:56:50 2016]  say: Padawan: ^0TRAP!
+[Thu Jan 07 14:56:53 2016]  say: ^0Shadow^5seer: у него и так хп достаточно
+[Thu Jan 07 14:56:55 2016]  say: Padawan: ^0TRAP!
+[Thu Jan 07 14:57:08 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 14:57:33 2016]  say: ^6b00ty^5sw4ggty: WTF
+[Thu Jan 07 14:58:21 2016]  say: Padawan: а какое название метеорита
+[Thu Jan 07 14:58:32 2016]  say: ^6b00ty^5sw4ggty: meteorit
+[Thu Jan 07 15:01:07 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 15:01:10 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 15:01:14 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 15:01:37 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 15:01:47 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 15:02:00 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 15:02:04 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 15:02:57 2016]  say: Padawan: какое название у скипетра
+[Thu Jan 07 15:03:02 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 15:03:29 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 15:04:29 2016]  say: ^0Shadow^5seer: My origin is: (-17147 16072 1478) - You can teleport here with /mtelelast
+
+[Thu Jan 07 15:04:46 2016]  say: ^0Shadow^5seer: пора вспомнить армагеддон
+[Thu Jan 07 15:04:50 2016]  say: ^6b00ty^5sw4ggty: net
+[Thu Jan 07 15:05:00 2016]  say: ^6b00ty^5sw4ggty: nais zvuki
+[Thu Jan 07 15:05:45 2016]  ClientDisconnect: 3
+[Thu Jan 07 15:05:45 2016]  ClientConnect: 3
+[Thu Jan 07 15:05:45 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Jan 07 15:06:00 2016]  ClientBegin: 3
+[Thu Jan 07 15:06:05 2016]  Item: 3 weapon_melee
+[Thu Jan 07 15:06:16 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 15:06:26 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 15:07:22 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 15:09:14 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 15:09:38 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 15:09:52 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 15:10:28 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 15:10:34 2016]  say: ^6b00ty^5sw4ggty: tut vashe est bolee krutie kamni?
+[Thu Jan 07 15:10:49 2016]  say: ^6b00ty^5sw4ggty: krome kak s deserta
+[Thu Jan 07 15:11:58 2016]  ClientDisconnect: 1
+[Thu Jan 07 15:12:07 2016]  ClientConnect: 1
+[Thu Jan 07 15:12:07 2016]  mlog:Player ^6b00ty^5sw4ggty, connected. With IP - 93.100.4.38:29070 
+[Thu Jan 07 15:12:09 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 15:12:16 2016]  say: Padawan: помогите
+[Thu Jan 07 15:12:20 2016]  ClientBegin: 1
+[Thu Jan 07 15:12:27 2016]  say: ^0Shadow^5seer: нету более крутых камней
+[Thu Jan 07 15:12:41 2016]  say: Padawan: как можно сразу одни разом в сторону
+[Thu Jan 07 15:12:46 2016]  say: Padawan: сюда
+[Thu Jan 07 15:12:51 2016]  say: ^0Shadow^5seer: чего?
+[Thu Jan 07 15:12:52 2016]  say: ^6b00ty^5sw4ggty: hotel zaspawnit texturku a menya s serva vikinulo
+[Thu Jan 07 15:12:53 2016]  say: Padawan: я только за 2 умею
+[Thu Jan 07 15:13:02 2016]  say: Padawan: ну чтобы платформу сюда
+[Thu Jan 07 15:13:02 2016]  say: ^0Shadow^5seer: я тебя не понимаю
+[Thu Jan 07 15:13:11 2016]  say: Padawan: за 1 /mmove 
+[Thu Jan 07 15:13:22 2016]  say: ^0Shadow^5seer: хз, учись считать координаты
+[Thu Jan 07 15:14:13 2016]  say: ^6b00ty^5sw4ggty: zbs
+[Thu Jan 07 15:14:32 2016]  say: ^0Shadow^5seer: factory/catw2_b
+[Thu Jan 07 15:14:36 2016]  say: ^6b00ty^5sw4ggty: i cho
+[Thu Jan 07 15:14:41 2016]  say: ^0Shadow^5seer: это не тебе
+[Thu Jan 07 15:15:03 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 15:15:07 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 15:16:52 2016]  say: Padawan: а какое название у книги
+[Thu Jan 07 15:17:37 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 15:18:05 2016]  say: ^0Shadow^5seer: лучше отойди
+[Thu Jan 07 15:18:27 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 15:20:30 2016]  say: Rian: My origin is: (-7519 -23078 2898) - You can teleport here with /mtelelast
+
+[Thu Jan 07 15:20:39 2016]  Kill: 3 1 37: ^0Shadow^5seer killed ^6b00ty^5sw4ggty by MOD_TELEFRAG
+[Thu Jan 07 15:20:41 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 15:21:07 2016]  say: Padawan: помогите
+[Thu Jan 07 15:23:01 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Thu Jan 07 15:30:01 2016]  say: ^0Shadow^5seer: да возьми ты ships/swoop explosion, поставь на него mrotating 1000 1000 1000 0
+[Thu Jan 07 15:30:03 2016]  say: ^0Shadow^5seer: и все
+[Thu Jan 07 15:30:11 2016]  say: ^6b00ty^5sw4ggty: cho eto
+[Thu Jan 07 15:30:19 2016]  say: ^0Shadow^5seer: это тебе эффект для метеорита
+[Thu Jan 07 15:30:29 2016]  say: ^0Shadow^5seer: вот, смотри
+[Thu Jan 07 15:30:48 2016]  say: ^6b00ty^5sw4ggty: ya ne dlya meteorita
+[Thu Jan 07 15:30:52 2016]  say: ^0Shadow^5seer: а, ладно
+[Thu Jan 07 15:30:56 2016]  say: ^6b00ty^5sw4ggty: no postavlu sps
+[Thu Jan 07 15:31:02 2016]  say: ^0Shadow^5seer: частота 100
+[Thu Jan 07 15:31:03 2016]  say: ^6b00ty^5sw4ggty: iskal ne dlya nego
+[Thu Jan 07 15:31:10 2016]  say: ^0Shadow^5seer: ships/swoop_explosion 100
+[Thu Jan 07 15:31:15 2016]  say: ^6b00ty^5sw4ggty: vse ya ponyal
+[Thu Jan 07 15:31:31 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 15:31:51 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 15:31:56 2016]  say: ^0Shadow^5seer: ну как?
+[Thu Jan 07 15:34:46 2016]  ClientDisconnect: 1
+[Thu Jan 07 15:35:03 2016]  ClientConnect: 1
+[Thu Jan 07 15:35:03 2016]  mlog:Player ^6b00ty^5sw4ggty, connected. With IP - 93.100.4.38:29070 
+[Thu Jan 07 15:35:16 2016]  ClientBegin: 1
+[Thu Jan 07 15:35:24 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Thu Jan 07 15:35:28 2016]  say: ^6b00ty^5sw4ggty: vtoroi raz uje kiknulo
+[Thu Jan 07 15:35:29 2016]  say: ^6b00ty^5sw4ggty: (
+[Thu Jan 07 15:35:46 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Thu Jan 07 15:37:24 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 15:37:30 2016]  say: ^6b00ty^5sw4ggty: ya v vozduh kinul a vi ispugalis
+[Thu Jan 07 15:41:23 2016]  say: Padawan: как сохранить объекты
+[Thu Jan 07 15:41:59 2016]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Thu Jan 07 15:41:59 2016]  setteam:  2 FREE SPECTATOR
+[Thu Jan 07 15:41:59 2016]  ClientBegin: 2
+[Thu Jan 07 15:42:05 2016]  setteam:  2 SPECTATOR FREE
+[Thu Jan 07 15:42:05 2016]  ClientBegin: 2
+[Thu Jan 07 15:42:15 2016]  say: Padawan: как сохранить объекты
+[Thu Jan 07 15:42:29 2016]  say: Padawan: .рудз
+[Thu Jan 07 15:44:00 2016]  say: Padawan: как сохранить объекты
+[Thu Jan 07 15:45:28 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Thu Jan 07 15:45:51 2016]  say: ^0Shadow^5seer: о нет, я заточен тут навечно
+[Thu Jan 07 15:45:57 2016]  say: ^0Shadow^5seer: это криптонит, он убьет меня
+[Thu Jan 07 15:45:59 2016]  say: ^0Shadow^5seer: неееееееет
+[Thu Jan 07 15:46:06 2016]  say: ^0Shadow^5seer: фух
+[Thu Jan 07 15:46:06 2016]  say: ^6b00ty^5sw4ggty: ti kak han solo
+[Thu Jan 07 15:46:34 2016]  say: ^0Shadow^5seer: да не мешай ты
+[Thu Jan 07 15:46:46 2016]  say: Padawan: скажите как сохранить объекты плз
+[Thu Jan 07 15:46:58 2016]  say: ^6b00ty^5sw4ggty: nikak
+[Thu Jan 07 15:47:32 2016]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Thu Jan 07 15:47:32 2016]  setteam:  2 FREE SPECTATOR
+[Thu Jan 07 15:47:32 2016]  ClientBegin: 2
+[Thu Jan 07 15:47:39 2016]  setteam:  2 SPECTATOR FREE
+[Thu Jan 07 15:47:39 2016]  ClientBegin: 2
+[Thu Jan 07 15:48:00 2016]  say: ^6b00ty^5sw4ggty: davaite
+[Thu Jan 07 15:48:09 2016]  say: ^6b00ty^5sw4ggty: padawan uhodi
+[Thu Jan 07 15:48:10 2016]  say: ^0Shadow^5seer: ты следующий
+[Thu Jan 07 15:48:13 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 15:48:14 2016]  say: ^6b00ty^5sw4ggty: net
+[Thu Jan 07 15:48:22 2016]  say: ^6b00ty^5sw4ggty: umniy takoy
+[Thu Jan 07 15:48:25 2016]  say: ^6b00ty^5sw4ggty: po ebalu na
+[Thu Jan 07 15:48:34 2016]  say: ^0Shadow^5seer: ну ты его пока отвлеки
+[Thu Jan 07 15:48:37 2016]  say: Padawan: ./god
+[Thu Jan 07 15:48:37 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 15:48:53 2016]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Thu Jan 07 15:48:53 2016]  setteam:  2 FREE SPECTATOR
+[Thu Jan 07 15:48:53 2016]  ClientBegin: 2
+[Thu Jan 07 15:48:56 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 15:48:59 2016]  setteam:  2 SPECTATOR FREE
+[Thu Jan 07 15:48:59 2016]  ClientBegin: 2
+[Thu Jan 07 15:49:19 2016]  say: ^6b00ty^5sw4ggty: prosto vas nahodit
+[Thu Jan 07 15:49:20 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 15:49:25 2016]  say: ^6b00ty^5sw4ggty: vicheslyaet
+[Thu Jan 07 15:50:01 2016]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Thu Jan 07 15:50:01 2016]  setteam:  2 FREE SPECTATOR
+[Thu Jan 07 15:50:01 2016]  ClientBegin: 2
+[Thu Jan 07 15:50:40 2016]  setteam:  2 SPECTATOR FREE
+[Thu Jan 07 15:50:40 2016]  ClientBegin: 2
+[Thu Jan 07 15:50:49 2016]  say: ^6b00ty^5sw4ggty: mda
+[Thu Jan 07 15:50:58 2016]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Thu Jan 07 15:50:58 2016]  setteam:  2 FREE SPECTATOR
+[Thu Jan 07 15:50:58 2016]  ClientBegin: 2
+[Thu Jan 07 15:51:03 2016]  say: ^6b00ty^5sw4ggty: na drugoy krai
+[Thu Jan 07 15:51:03 2016]  setteam:  2 SPECTATOR FREE
+[Thu Jan 07 15:51:03 2016]  ClientBegin: 2
+[Thu Jan 07 15:51:20 2016]  say: ^6b00ty^5sw4ggty: ehhh shas bi na drugoy krai karti uletet
+[Thu Jan 07 15:51:23 2016]  say: ^0Shadow^5seer: падаваан
+[Thu Jan 07 15:51:29 2016]  say: ^0Shadow^5seer: кодекс скриптера
+[Thu Jan 07 15:51:36 2016]  say: Padawan: я только защищаюсь
+[Thu Jan 07 15:51:36 2016]  say: ^6b00ty^5sw4ggty: xd
+[Thu Jan 07 15:51:37 2016]  say: Padawan: этим
+[Thu Jan 07 15:51:38 2016]  say: ^0Shadow^5seer: нет
+[Thu Jan 07 15:51:40 2016]  say: ^6b00ty^5sw4ggty: XD
+[Thu Jan 07 15:51:41 2016]  say: ^0Shadow^5seer: ты атакуешь
+[Thu Jan 07 15:51:43 2016]  say: ^0Shadow^5seer: из ноклипа
+[Thu Jan 07 15:51:53 2016]  say: Padawan: я не атакую с ноклипом
+[Thu Jan 07 15:51:58 2016]  say: ^0Shadow^5seer: атакуешь
+[Thu Jan 07 15:52:00 2016]  say: Padawan: я после включаю
+[Thu Jan 07 15:52:10 2016]  say: Padawan: а этот с ноклипом меня бил
+[Thu Jan 07 15:52:13 2016]  say: Padawan: rian
+[Thu Jan 07 15:52:35 2016]  say: ^0Shadow^5seer: больше не будет, с ним провели разъяснительную беседу
+[Thu Jan 07 15:52:51 2016]  say: Padawan: а чего вы не хотите мне помогать
+[Thu Jan 07 15:52:54 2016]  say: Rian: нуну х)
+[Thu Jan 07 15:53:01 2016]  say: ^0Shadow^5seer: предпочитаем просто играть
+[Thu Jan 07 15:53:08 2016]  say: Padawan: так мне просто команду сказать
+[Thu Jan 07 15:53:15 2016]  say: ^0Shadow^5seer: не знаем значит
+[Thu Jan 07 15:53:18 2016]  ClientConnect: 4
+[Thu Jan 07 15:53:18 2016]  mlog:Player Padawan, connected. With IP - 79.173.123.124:29070 
+[Thu Jan 07 15:53:20 2016]  say: Padawan: ну ты же врешь
+[Thu Jan 07 15:53:24 2016]  say: ^0Shadow^5seer: уверен?
+[Thu Jan 07 15:53:27 2016]  say: Padawan: да
+[Thu Jan 07 15:53:30 2016]  say: ^0Shadow^5seer: зря
+[Thu Jan 07 15:53:30 2016]  say: Padawan: ты свое сохраняешь
+[Thu Jan 07 15:53:32 2016]  tell: ^6b00ty^5sw4ggty to ^0Shadow^5seer: nice
+[Thu Jan 07 15:53:37 2016]  say: ^0Shadow^5seer: я свое записываю в скрипты
+[Thu Jan 07 15:53:43 2016]  say: Padawan: а
+[Thu Jan 07 15:53:44 2016]  ClientBegin: 4
+[Thu Jan 07 15:53:48 2016]  say: Padawan: но ты все равно знаешь
+[Thu Jan 07 15:53:52 2016]  say: Padawan: о
+[Thu Jan 07 15:53:55 2016]  say: Padawan: дима
+[Thu Jan 07 15:53:57 2016]  say: Padawan: привет
+[Thu Jan 07 15:54:02 2016]  say: ^9Fet^8tus: прив)
+[Thu Jan 07 15:54:22 2016]  say: ^6b00ty^5sw4ggty: go arenu ne?
+[Thu Jan 07 15:54:25 2016]  say: ^0Shadow^5seer: ну го
+[Thu Jan 07 15:54:36 2016]  say: Rian: над пропастью
+[Thu Jan 07 15:54:39 2016]  say: Padawan: отойди
+[Thu Jan 07 15:54:40 2016]  say: ^6b00ty^5sw4ggty: gde
+[Thu Jan 07 15:54:47 2016]  say: ^0Shadow^5seer: да тут рядом
+[Thu Jan 07 15:55:22 2016]  Kill: 1022 2 2: <world> killed Padawan by MOD_MELEE
+[Thu Jan 07 15:55:57 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Thu Jan 07 15:56:06 2016]  Kill: 1022 2 2: <world> killed Padawan by MOD_MELEE
+[Thu Jan 07 15:56:09 2016]  say: Padawan: ^0BOMB ^3SET!
+[Thu Jan 07 15:56:23 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Thu Jan 07 15:56:43 2016]  ClientConnect: 5
+[Thu Jan 07 15:56:43 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Thu Jan 07 15:56:44 2016]  say: Padawan: ^1RAGE ^3BLAST!
+[Thu Jan 07 15:57:09 2016]  ClientBegin: 5
+[Thu Jan 07 15:57:15 2016]  Kill: 4 2 3: ^9Fet^8tus killed Padawan by MOD_SABER
+[Thu Jan 07 15:57:20 2016]  say: Padawan: )
+[Thu Jan 07 15:57:23 2016]  say: ^9Fet^8tus: лол
+[Thu Jan 07 15:57:23 2016]  say: ^6b00ty^5sw4ggty: SEC
+[Thu Jan 07 15:57:26 2016]  say: ^0Shadow^5seer: hello
+[Thu Jan 07 15:57:36 2016]  say: ^9Fet^8tus: я и забыл что тут не так все))
+[Thu Jan 07 15:57:39 2016]  say: ^0Раrk^2^1Qµаkи: hey :)
+[Thu Jan 07 15:57:44 2016]  say: ^6b00ty^5sw4ggty: tiho
+[Thu Jan 07 15:57:50 2016]  say: ^0Shadow^5seer: well all it fine for now
+[Thu Jan 07 15:57:55 2016]  say: ^0Раrk^2^1Qµаkи: just here for a bit cause I have the Uni work to do :p
+[Thu Jan 07 15:58:17 2016]  say: ^6b00ty^5sw4ggty: go war3
+[Thu Jan 07 15:58:24 2016]  say: ^6b00ty^5sw4ggty: ?
+[Thu Jan 07 15:58:58 2016]  say: ^0Shadow^5seer: so when can u place that account into the server and restart it?
+[Thu Jan 07 15:59:01 2016]  say: ^9Fet^8tus: лол
+[Thu Jan 07 15:59:02 2016]  say: Padawan: ^3SETTING ^0BOMB...
+[Thu Jan 07 15:59:07 2016]  say: Padawan: ^0BOMB ^3SET!
+[Thu Jan 07 15:59:11 2016]  say: Padawan: ты где
+[Thu Jan 07 15:59:20 2016]  say: ^9Fet^8tus: вылез)
+[Thu Jan 07 15:59:20 2016]  say: Padawan: блин
+[Thu Jan 07 15:59:32 2016]  say: ^0Раrk^2^1Qµаkи: Shadow haven't restarted server but I put the file in, try logging in
+[Thu Jan 07 15:59:44 2016]  say: ^0Shadow^5seer: oh, ok
+[Thu Jan 07 15:59:47 2016]  say: Padawan: ^3DETONATING ^0BOMB...
+[Thu Jan 07 16:00:49 2016]  say: ^6b00ty^5sw4ggty: pedik
+[Thu Jan 07 16:00:58 2016]  Kill: 1022 4 6: <world> killed ^9Fet^8tus by MOD_BLASTER
+[Thu Jan 07 16:01:33 2016]  say: Padawan: что будем делать
+[Thu Jan 07 16:01:34 2016]  say: ^0Shadow^5seer: победа
+[Thu Jan 07 16:01:56 2016]  say: ^9Fet^8tus: пойдем посмотрим что другие делают)
+[Thu Jan 07 16:02:05 2016]  say: ^0Раrk^2^1Qµаkи: gotta go :/ I'll b back
+[Thu Jan 07 16:02:13 2016]  say: Rian: ненене, дэвид блейн
+[Thu Jan 07 16:02:18 2016]  say: ^6b00ty^5sw4ggty: NU PIZDETS
+[Thu Jan 07 16:02:19 2016]  ClientDisconnect: 5
+[Thu Jan 07 16:02:20 2016]  say: ^6b00ty^5sw4ggty: IDI NAHUY
+[Thu Jan 07 16:02:23 2016]  say: ^0Shadow^5seer: :D
+[Thu Jan 07 16:02:40 2016]  say: ^9Fet^8tus: 0_0
+[Thu Jan 07 16:02:46 2016]  say: Rian: сколько тут блейнов
+[Thu Jan 07 16:04:13 2016]  say: ^0Shadow^5seer: эээ
+[Thu Jan 07 16:06:26 2016]  say: ^9Fet^8tus: XD
+[Thu Jan 07 16:07:27 2016]  ClientDisconnect: 3
+[Thu Jan 07 16:07:42 2016]  Kill: 1022 4 36: <world> killed ^9Fet^8tus by MOD_CRUSH
+[Thu Jan 07 16:07:49 2016]  say: ^9Fet^8tus: 0_0
+[Thu Jan 07 16:07:56 2016]  say: Rian: мааагия
+[Thu Jan 07 16:08:03 2016]  say: Padawan: ^3This duel platform was made by ^1P^4etz^1I
+[Thu Jan 07 16:08:22 2016]  ClientConnect: 3
+[Thu Jan 07 16:08:22 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Jan 07 16:08:25 2016]  say: ^9Fet^8tus: Да я понял) но получилось НОРМ)
+[Thu Jan 07 16:08:26 2016]  say: ^6b00ty^5sw4ggty: otkroi cfg i udali tam say
+[Thu Jan 07 16:08:37 2016]  ClientBegin: 3
+[Thu Jan 07 16:08:43 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 16:08:56 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 16:09:02 2016]  Item: 3 weapon_melee
+[Thu Jan 07 16:09:52 2016]  ClientDisconnect: 1
+[Thu Jan 07 16:10:05 2016]  ClientDisconnect: 3
+[Thu Jan 07 16:10:55 2016]  say: Padawan: ^3This duel platform was made by ^1P^4etz^1I
+[Thu Jan 07 16:11:53 2016]  say: Padawan: где вы
+[Thu Jan 07 16:12:08 2016]  say: Padawan: включи тот скрипт
+[Thu Jan 07 16:13:12 2016]  say: Padawan: ты опять
+[Thu Jan 07 16:13:39 2016]  say: Padawan: вот дура...
+[Thu Jan 07 16:13:58 2016]  say: Rian: просто надо внимательней смотреть х)
+[Thu Jan 07 16:14:09 2016]  say: Padawan: мозги надо иметь просто
+[Thu Jan 07 16:14:25 2016]  say: Rian: о, неужели ты это для себя осознал? охринеть, как долго доходило
+[Thu Jan 07 16:14:45 2016]  say: Padawan: еще и непонятливая
+[Thu Jan 07 16:15:03 2016]  say: Rian: как ты много о себе неожиданно осознал. решил поделиться?
+[Thu Jan 07 16:15:06 2016]  say: Rian: как это мило
+[Thu Jan 07 16:15:15 2016]  say: Rian: но вряд ли это кого-то интересует
+[Thu Jan 07 16:15:25 2016]  say: Padawan: если бы тебя это не интересовало
+[Thu Jan 07 16:15:28 2016]  say: Padawan: ты бы игнорила
+[Thu Jan 07 16:15:48 2016]  say: Rian: я просто тебя предупреждаю заранее
+[Thu Jan 07 16:15:56 2016]  say: Rian: чтоб потом вопросов не было
+[Thu Jan 07 16:16:03 2016]  say: Padawan: а что будет потом ты не знаешь
+[Thu Jan 07 16:16:06 2016]  ClientDisconnect: 4
+[Thu Jan 07 16:16:08 2016]  say: Padawan: поэтому заранее не предупреждай
+[Thu Jan 07 16:16:11 2016]  say: Padawan: дурочка:)
+[Thu Jan 07 16:16:13 2016]  ClientDisconnect: 2
+[Thu Jan 07 16:16:28 2016]  say: Rian: и вот снова ты говоришь про себя никому здесь ненужныевещи
+[Thu Jan 07 16:16:33 2016]  say: Rian: фу таким быть
+[Thu Jan 07 16:18:50 2016]  ClientConnect: 1
+[Thu Jan 07 16:18:50 2016]  mlog:Player Padawan, connected. With IP - 79.173.123.124:29070 
+[Thu Jan 07 16:22:16 2016]  ClientDisconnect: 1
+[Thu Jan 07 16:28:46 2016]  ClientConnect: 1
+[Thu Jan 07 16:28:46 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Jan 07 16:29:01 2016]  ClientBegin: 1
+[Thu Jan 07 16:29:08 2016]  Item: 1 weapon_melee
+[Thu Jan 07 16:31:17 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 16:31:22 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 16:31:31 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 16:32:20 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 16:33:45 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 16:33:46 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 16:33:49 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 16:40:43 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 16:42:54 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 16:43:08 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 16:43:13 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Thu Jan 07 16:44:01 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Thu Jan 07 16:44:08 2016]  ClientDisconnect: 1
+[Thu Jan 07 16:47:01 2016]  ClientConnect: 1
+[Thu Jan 07 16:47:01 2016]  mlog:Player Padawan, connected. With IP - 93.100.4.38:29070 
+[Thu Jan 07 16:47:25 2016]  ClientBegin: 1
+[Thu Jan 07 16:47:50 2016]  Kill: 1 1 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Thu Jan 07 16:47:50 2016]  setteam:  1 FREE SPECTATOR
+[Thu Jan 07 16:47:50 2016]  ClientBegin: 1
+[Thu Jan 07 16:48:30 2016]  setteam:  1 SPECTATOR FREE
+[Thu Jan 07 16:48:30 2016]  ClientBegin: 1
+[Thu Jan 07 16:48:44 2016]  say: ^6b00ty^5sw4ggty: ppc ti tut dolgo igraesh
+[Thu Jan 07 16:48:54 2016]  say: Rian: я?
+[Thu Jan 07 16:48:59 2016]  say: Rian: я строю
+[Thu Jan 07 16:48:59 2016]  say: ^6b00ty^5sw4ggty: nu ne ya je
+[Thu Jan 07 16:51:32 2016]  ClientDisconnect: 0
+[Thu Jan 07 16:52:36 2016]  say: ^6b00ty^5sw4ggty: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1DbnІ
+[Thu Jan 07 16:52:36 2016]  say: ^6b00ty^5sw4ggty: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Thu Jan 07 16:53:41 2016]  ClientDisconnect: 1

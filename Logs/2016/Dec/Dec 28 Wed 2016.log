@@ -1,0 +1,31 @@
+[Wed Dec 28 12:41:18 2016]  ------------------------------------------------------------
+[Wed Dec 28 12:41:18 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\999\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Dec 30 19:04:47 2016]  ClientConnect: 0
+[Fri Dec 30 19:04:47 2016]  mlog:Player Padawan, connected. With IP - 91.215.123.92:29070 
+[Fri Dec 30 19:05:13 2016]  ClientBegin: 0
+[Fri Dec 30 19:06:38 2016]  ClientConnect: 1
+[Fri Dec 30 19:06:38 2016]  mlog:Player Padawan, connected. With IP - 78.30.239.247:29070 
+[Fri Dec 30 19:07:15 2016]  ClientBegin: 1
+[Fri Dec 30 19:08:25 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:08:45 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:08:54 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:09:06 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:10:12 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:10:20 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:11:21 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:11:50 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:11:59 2016]  Kill: 0 1 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Fri Dec 30 19:12:46 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:13:11 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:13:38 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:13:50 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:14:06 2016]  Kill: 0 1 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Fri Dec 30 19:14:13 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:15:19 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:15:52 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:16:07 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:16:23 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:16:28 2016]  Kill: 0 1 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Fri Dec 30 19:17:28 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Dec 30 19:20:03 2016]  ClientDisconnect: 1
+[Fri Dec 30 19:20:20 2016]  ClientDisconnect: 0

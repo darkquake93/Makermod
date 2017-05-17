@@ -1,0 +1,207 @@
+[Tue Apr 29 12:18:56 2014]  ------------------------------------------------------------
+[Tue Apr 29 12:18:56 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Apr 29 13:55:40 2014]  ClientConnect: 0
+[Tue Apr 29 13:55:40 2014]  mlog:Player ^3GoF''^7Toshiro, connected. With IP - 213.192.68.50:29070 
+[Tue Apr 29 13:55:46 2014]  ClientDisconnect: 0
+[Tue Apr 29 14:02:34 2014]  ClientConnect: 0
+[Tue Apr 29 14:02:34 2014]  mlog:Player Toshiro, connected. With IP - 213.192.68.50:29070 
+[Tue Apr 29 14:02:46 2014]  ClientBegin: 0
+[Tue Apr 29 14:03:36 2014]  say: Toshiro: ^1Shadow^3Cloud
+[Tue Apr 29 14:19:00 2014]  Exit: Timelimit hit.
+[Tue Apr 29 14:19:00 2014]  score: 0  ping: 53  client: 0 Toshiro
+[Tue Apr 29 14:19:06 2014]  ShutdownGame:
+[Tue Apr 29 14:19:06 2014]  ------------------------------------------------------------
+[Tue Apr 29 14:19:06 2014]  ------------------------------------------------------------
+[Tue Apr 29 14:19:06 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Apr 29 14:19:07 2014]  ClientConnect: 0
+[Tue Apr 29 14:19:14 2014]  ClientBegin: 0
+[Tue Apr 29 14:19:54 2014]  ClientDisconnect: 0
+[Tue Apr 29 16:19:06 2014]  Exit: Timelimit hit.
+[Tue Apr 29 20:09:05 2014]  ClientConnect: 0
+[Tue Apr 29 20:09:05 2014]  mlog:Player ^4Jedi Knight Thanaton, connected. With IP - 24.181.236.49:29070 
+[Tue Apr 29 20:09:22 2014]  ClientBegin: 0
+[Tue Apr 29 20:09:25 2014]  ShutdownGame:
+[Tue Apr 29 20:09:25 2014]  ------------------------------------------------------------
+[Tue Apr 29 20:09:26 2014]  ------------------------------------------------------------
+[Tue Apr 29 20:09:26 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Apr 29 20:09:28 2014]  ClientConnect: 0
+[Tue Apr 29 20:09:42 2014]  ClientDisconnect: 0
+[Tue Apr 29 20:10:17 2014]  ClientConnect: 0
+[Tue Apr 29 20:10:17 2014]  mlog:Player ^4Jedi Knight ^3Katana, connected. With IP - 24.181.236.49:29070 
+[Tue Apr 29 20:10:24 2014]  ClientBegin: 0
+[Tue Apr 29 20:11:37 2014]  ClientDisconnect: 0
+[Tue Apr 29 20:11:59 2014]  ClientConnect: 0
+[Tue Apr 29 20:11:59 2014]  mlog:Player ^4Jedi Knight ^3Katana, connected. With IP - 24.181.236.49:29070 
+[Tue Apr 29 20:12:17 2014]  ClientBegin: 0
+[Tue Apr 29 20:13:35 2014]  ClientConnect: 1
+[Tue Apr 29 20:13:35 2014]  mlog:Player Padawan, connected. With IP - 68.189.241.16:29070 
+[Tue Apr 29 20:15:01 2014]  ClientBegin: 1
+[Tue Apr 29 20:15:52 2014]  Kill: 0 0 39: ^4Jedi Knight ^3Katana killed ^4Jedi Knight ^3Katana by MOD_SUICIDE
+[Tue Apr 29 20:16:38 2014]  say: ^4Jedi Knight ^3Katana: tp
+[Tue Apr 29 20:16:55 2014]  say: ^4Jedi Knight ^3Katana: ragnos
+[Tue Apr 29 20:17:49 2014]  print "^9Emperor Zaeleon^7 @@@PLRENAME Issac Skywalker
+"[Tue Apr 29 20:18:21 2014]  Kill: 0 0 39: ^4Jedi Knight ^3Katana killed ^4Jedi Knight ^3Katana by MOD_SUICIDE
+[Tue Apr 29 20:18:40 2014]  Kill: 1 0 3: Issac Skywalker killed ^4Jedi Knight ^3Katana by MOD_SABER
+[Tue Apr 29 20:19:21 2014]  Kill: 1 1 39: Issac Skywalker killed Issac Skywalker by MOD_SUICIDE
+[Tue Apr 29 20:20:55 2014]  Kill: 1 1 39: Issac Skywalker killed Issac Skywalker by MOD_SUICIDE
+[Tue Apr 29 20:22:25 2014]  ClientConnect: 2
+[Tue Apr 29 20:22:25 2014]  mlog:Player ^9N^3O^5O^2B, connected. With IP - 93.91.151.44:29070 
+[Tue Apr 29 20:22:27 2014]  ClientConnect: 3
+[Tue Apr 29 20:22:27 2014]  mlog:Player Padawan, connected. With IP - 217.75.218.211:29070 
+[Tue Apr 29 20:22:41 2014]  ClientBegin: 2
+[Tue Apr 29 20:22:44 2014]  ClientBegin: 3
+[Tue Apr 29 20:23:14 2014]  say: Ðark: ^3Power of Light Script activated.
+[Tue Apr 29 20:23:22 2014]  say: Ðark: ^3I Pray for the Power of Light!
+[Tue Apr 29 20:23:22 2014]  say: Ðark: ^3My prayers have been answered!I am now uber Powerful!!!
+[Tue Apr 29 20:23:24 2014]  Kill: 1 1 39: Issac Skywalker killed Issac Skywalker by MOD_SUICIDE
+[Tue Apr 29 20:23:28 2014]  print "Yoda je kokot^7 @@@PLRENAME KAKALAMAKALA ? 
+"[Tue Apr 29 20:23:40 2014]  say: Ðark:  /exec power of light
+[Tue Apr 29 20:23:47 2014]  say: Ðark:  /exec poweroflight
+[Tue Apr 29 20:23:52 2014]  Kill: 0 0 39: ^4Jedi Knight ^3Katana killed ^4Jedi Knight ^3Katana by MOD_SUICIDE
+[Tue Apr 29 20:24:00 2014]  Kill: 1 0 3: Issac Skywalker killed ^4Jedi Knight ^3Katana by MOD_SABER
+[Tue Apr 29 20:24:09 2014]  say: KAKALAMAKALA ? : ^3Power of Light Script activated.
+[Tue Apr 29 20:24:28 2014]  say: KAKALAMAKALA ? : ^3Help me fellow Protector of Light!
+[Tue Apr 29 20:24:45 2014]  say: Ðark: ^3I must Sacrifice myself for the cause!
+[Tue Apr 29 20:24:46 2014]  Kill: 2 2 39: Ðark killed Ðark by MOD_SUICIDE
+[Tue Apr 29 20:24:46 2014]  say: Ðark: ^3*He Dies*
+[Tue Apr 29 20:24:51 2014]  say: Ðark: ^3Take me to the point of spawning!
+[Tue Apr 29 20:24:54 2014]  say: Ðark: ^3PLASMIC SHIELD!!!!
+[Tue Apr 29 20:25:01 2014]  Kill: 0 2 3: ^4Jedi Knight ^3Katana killed Ðark by MOD_SABER
+[Tue Apr 29 20:25:07 2014]  say: Ðark: ^3I Pray for the Power of Light!
+[Tue Apr 29 20:25:07 2014]  say: Ðark: ^3My prayers have been answered!I am now uber Powerful!!!
+[Tue Apr 29 20:25:11 2014]  say: Ðark: ^3I Pray for the Power of Light!
+[Tue Apr 29 20:25:11 2014]  say: Ðark: ^3My prayers have been answered!I am now uber Powerful!!!
+[Tue Apr 29 20:25:17 2014]  say: Ðark: ^3I Pray for the Power of Light!
+[Tue Apr 29 20:25:18 2014]  say: Ðark: ^3My prayers have been answered!I am now uber Powerful!!!
+[Tue Apr 29 20:25:22 2014]  Kill: 1 3 3: Issac Skywalker killed KAKALAMAKALA ?  by MOD_SABER
+[Tue Apr 29 20:25:36 2014]  say: KAKALAMAKALA ? : cky
+[Tue Apr 29 20:25:44 2014]  Kill: 0 3 3: ^4Jedi Knight ^3Katana killed KAKALAMAKALA ?  by MOD_SABER
+[Tue Apr 29 20:25:55 2014]  say: KAKALAMAKALA ? : ^3I Pray for the Power of Light!
+[Tue Apr 29 20:25:56 2014]  say: KAKALAMAKALA ? : ^3My prayers have been answered!I am now uber Powerful!!!
+[Tue Apr 29 20:26:03 2014]  say: KAKALAMAKALA ? : ^3I Pray for the Power of Light!
+[Tue Apr 29 20:26:04 2014]  say: KAKALAMAKALA ? : ^3My prayers have been answered!I am now uber Powerful!!!
+[Tue Apr 29 20:26:06 2014]  say: KAKALAMAKALA ? : ^3I Pray for the Power of Light!
+[Tue Apr 29 20:26:06 2014]  Kill: 1 1 39: Issac Skywalker killed Issac Skywalker by MOD_SUICIDE
+[Tue Apr 29 20:26:06 2014]  say: KAKALAMAKALA ? : ^3My prayers have been answered!I am now uber Powerful!!!
+[Tue Apr 29 20:26:07 2014]  say: KAKALAMAKALA ? : ^3I Pray for the Power of Light!
+[Tue Apr 29 20:26:07 2014]  say: KAKALAMAKALA ? : ^3My prayers have been answered!I am now uber Powerful!!!
+[Tue Apr 29 20:26:07 2014]  say: KAKALAMAKALA ? : ^3I Pray for the Power of Light!
+[Tue Apr 29 20:26:08 2014]  say: KAKALAMAKALA ? : ^3My prayers have been answered!I am now uber Powerful!!!
+[Tue Apr 29 20:26:13 2014]  say: ^4Jedi Knight ^3Katana: WTF
+[Tue Apr 29 20:26:17 2014]  say: ^4Jedi Knight ^3Katana: HOW
+[Tue Apr 29 20:26:20 2014]  say: ^4Jedi Knight ^3Katana: SHOW me
+[Tue Apr 29 20:26:21 2014]  say: ^4Jedi Knight ^3Katana: how
+[Tue Apr 29 20:26:24 2014]  say: ^4Jedi Knight ^3Katana: pls
+[Tue Apr 29 20:27:12 2014]  say: Ðark: sorry i dont speak english
+[Tue Apr 29 20:27:26 2014]  ClientDisconnect: 3
+[Tue Apr 29 20:27:29 2014]  say: Ðark: i speak little english
+[Tue Apr 29 20:27:43 2014]  say: ^4Jedi Knight ^3Katana: lightning
+[Tue Apr 29 20:28:15 2014]  say: Ðark: you must download scripts..
+[Tue Apr 29 20:28:47 2014]  Kill: 0 0 39: ^4Jedi Knight ^3Katana killed ^4Jedi Knight ^3Katana by MOD_SUICIDE
+[Tue Apr 29 20:28:53 2014]  say: Ðark: ^4Uchiha ^1Clan-^5Script ^2by ^0Revan
+[Tue Apr 29 20:29:00 2014]  tell: ^4Jedi Knight ^3Katana to Ðark: how
+[Tue Apr 29 20:29:00 2014]  say: Ðark: ^1Hosenka no jutsu!!
+[Tue Apr 29 20:29:01 2014]  say: ^4Jedi Knight ^3Katana: do i
+[Tue Apr 29 20:29:04 2014]  say: ^4Jedi Knight ^3Katana: HOW DO I
+[Tue Apr 29 20:29:04 2014]  say: Ðark: ^5Chidori!!
+[Tue Apr 29 20:29:17 2014]  say: ^4Jedi Knight ^3Katana: USE THAt BLOWUP THING
+[Tue Apr 29 20:29:43 2014]  say: ^4Jedi Knight ^3Katana: nolclip
+[Tue Apr 29 20:29:49 2014]  say: ^4Jedi Knight ^3Katana: npc spaewn jan
+[Tue Apr 29 20:29:52 2014]  ClientDisconnect: 2
+[Tue Apr 29 20:29:59 2014]  say: ^4Jedi Knight ^3Katana: npc spawn jedi
+[Tue Apr 29 20:30:37 2014]  say: Issac Skywalker: npc spawn jan
+[Tue Apr 29 20:30:42 2014]  ClientConnect: 2
+[Tue Apr 29 20:30:42 2014]  mlog:Player ^9N^3O^5O^2B, connected. With IP - 93.91.151.44:29070 
+[Tue Apr 29 20:30:57 2014]  ClientBegin: 2
+[Tue Apr 29 20:31:03 2014]  Kill: 0 0 39: ^4Jedi Knight ^3Katana killed ^4Jedi Knight ^3Katana by MOD_SUICIDE
+[Tue Apr 29 20:31:11 2014]  say: Ðark: ^3Power of Light Script activated.
+[Tue Apr 29 20:31:18 2014]  Kill: 0 0 39: ^4Jedi Knight ^3Katana killed ^4Jedi Knight ^3Katana by MOD_SUICIDE
+[Tue Apr 29 20:31:22 2014]  say: Ðark: ^3I Pray for the Power of Light!
+[Tue Apr 29 20:31:22 2014]  say: Ðark: ^3My prayers have been answered!I am now uber Powerful!!!
+[Tue Apr 29 20:31:26 2014]  say: ^4Jedi Knight ^3Katana: wait
+[Tue Apr 29 20:31:30 2014]  say: ^4Jedi Knight ^3Katana: how do i do that
+[Tue Apr 29 20:31:48 2014]  say: Ðark: must download script
+[Tue Apr 29 20:32:14 2014]  say: Ðark: downloaded script -->/gamedata/base
+[Tue Apr 29 20:32:16 2014]  print "Issac Skywalker^7 @@@PLRENAME ^9Emperor Zaeleon
+"[Tue Apr 29 20:33:00 2014]  print "^4Jedi Knight ^3Katana^7 @@@PLRENAME ^9Darth Thanaton
+"[Tue Apr 29 20:33:30 2014]  Kill: 0 0 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Tue Apr 29 20:33:46 2014]  say: Ðark: ^3I must Sacrifice myself for the cause!
+[Tue Apr 29 20:33:47 2014]  Kill: 2 2 39: Ðark killed Ðark by MOD_SUICIDE
+[Tue Apr 29 20:33:48 2014]  say: Ðark: ^3*He Dies*
+[Tue Apr 29 20:33:51 2014]  say: Ðark: ^3Take me to the point of spawning!
+[Tue Apr 29 20:34:01 2014]  say: Ðark: ^3PLASMIC SHIELD!!!!
+[Tue Apr 29 20:34:04 2014]  say: Ðark: ^3Green crystal!!!
+[Tue Apr 29 20:34:06 2014]  say: Ðark: ^3Help me fellow Protector of Light!
+[Tue Apr 29 20:34:08 2014]  say: Ðark: ^3I Pray for the Power of Light!
+[Tue Apr 29 20:34:09 2014]  say: Ðark: ^3My prayers have been answered!I am now uber Powerful!!!
+[Tue Apr 29 20:34:38 2014]  say: Ðark: ^3Help me fellow Protector of Light!
+[Tue Apr 29 20:34:41 2014]  say: Ðark: ^3Help me fellow Protector of Light!
+[Tue Apr 29 20:34:41 2014]  say: Ðark: ^3Help me fellow Protector of Light!
+[Tue Apr 29 20:35:04 2014]  Kill: 0 0 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Tue Apr 29 20:35:20 2014]  say: Ðark: ^3I Pray for the Power of Light!
+[Tue Apr 29 20:35:20 2014]  say: Ðark: ^3My prayers have been answered!I am now uber Powerful!!!
+[Tue Apr 29 20:35:46 2014]  say: Ðark: ^3I Pray for the Power of Light!
+[Tue Apr 29 20:35:46 2014]  say: Ðark: ^3My prayers have been answered!I am now uber Powerful!!!
+[Tue Apr 29 20:39:02 2014]  ClientDisconnect: 2
+[Tue Apr 29 20:42:00 2014]  say: ^9Emperor Zaeleon: G_saberRealisticCombat1
+[Tue Apr 29 20:44:31 2014]  print "^9Emperor Zaeleon^7 @@@PLRENAME A.I.
+"[Tue Apr 29 20:45:18 2014]  Kill: 0 0 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Tue Apr 29 20:48:02 2014]  say: ^9Darth Thanaton: 25m
+[Tue Apr 29 20:49:33 2014]  say: ^9Darth Thanaton: rdm'
+[Tue Apr 29 20:50:48 2014]  say: ^9Darth Thanaton: 500 to 1k to even 2k extra
+[Tue Apr 29 20:54:43 2014]  Kill: 0 0 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Tue Apr 29 20:55:20 2014]  Kill: 1 0 3: A.I. killed ^9Darth Thanaton by MOD_SABER
+[Tue Apr 29 20:55:42 2014]  Kill: 1 0 3: A.I. killed ^9Darth Thanaton by MOD_SABER
+[Tue Apr 29 20:56:14 2014]  Kill: 0 0 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Tue Apr 29 20:56:33 2014]  Kill: 1 1 39: A.I. killed A.I. by MOD_SUICIDE
+[Tue Apr 29 20:56:49 2014]  Kill: 1 0 3: A.I. killed ^9Darth Thanaton by MOD_SABER
+[Tue Apr 29 20:58:47 2014]  Kill: 1 0 3: A.I. killed ^9Darth Thanaton by MOD_SABER
+[Tue Apr 29 20:58:55 2014]  Kill: 1 0 3: A.I. killed ^9Darth Thanaton by MOD_SABER
+[Tue Apr 29 20:59:03 2014]  Kill: 1 0 3: A.I. killed ^9Darth Thanaton by MOD_SABER
+[Tue Apr 29 20:59:53 2014]  print "A.I.^7 @@@PLRENAME ^9Emperor Zaeleon
+"[Tue Apr 29 21:01:16 2014]  Kill: 1 0 3: ^9Emperor Zaeleon killed ^9Darth Thanaton by MOD_SABER
+[Tue Apr 29 21:01:24 2014]  Kill: 0 0 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Tue Apr 29 21:02:03 2014]  ClientDisconnect: 1
+[Tue Apr 29 21:04:10 2014]  ClientDisconnect: 0
+[Tue Apr 29 22:08:01 2014]  ClientConnect: 0
+[Tue Apr 29 22:08:01 2014]  mlog:Player Cmdr Brannick, connected. With IP - 84.13.116.64:29070 
+[Tue Apr 29 22:08:27 2014]  ClientBegin: 0
+[Tue Apr 29 22:09:25 2014]  Exit: Timelimit hit.
+[Tue Apr 29 22:09:25 2014]  score: 0  ping: 36  client: 0 Cmdr Brannick
+[Tue Apr 29 22:09:35 2014]  ShutdownGame:
+[Tue Apr 29 22:09:35 2014]  ------------------------------------------------------------
+[Tue Apr 29 22:09:36 2014]  ------------------------------------------------------------
+[Tue Apr 29 22:09:36 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Apr 29 22:09:37 2014]  ClientConnect: 0
+[Tue Apr 29 22:09:46 2014]  ClientBegin: 0
+[Tue Apr 29 22:09:58 2014]  Kill: 1022 0 39: <world> killed Cmdr Brannick by MOD_SUICIDE
+[Tue Apr 29 22:10:20 2014]  ClientConnect: 1
+[Tue Apr 29 22:10:20 2014]  mlog:Player Felix, connected. With IP - 92.16.41.23:29070 
+[Tue Apr 29 22:10:38 2014]  ClientBegin: 1
+[Tue Apr 29 22:18:35 2014]  Kill: 1022 1 39: <world> killed Felix by MOD_SUICIDE
+[Tue Apr 29 22:19:02 2014]  Kill: 0 1 3: Cmdr Brannick killed Felix by MOD_SABER
+[Tue Apr 29 22:19:29 2014]  Kill: 1022 1 39: <world> killed Felix by MOD_SUICIDE
+[Tue Apr 29 22:19:56 2014]  Kill: 0 1 3: Cmdr Brannick killed Felix by MOD_SABER
+[Tue Apr 29 22:20:07 2014]  Kill: 1022 1 39: <world> killed Felix by MOD_SUICIDE
+[Tue Apr 29 22:20:21 2014]  Kill: 0 1 3: Cmdr Brannick killed Felix by MOD_SABER
+[Tue Apr 29 22:20:35 2014]  Kill: 1022 1 39: <world> killed Felix by MOD_SUICIDE
+[Tue Apr 29 22:22:16 2014]  Kill: 0 1 3: Cmdr Brannick killed Felix by MOD_SABER
+[Tue Apr 29 22:22:36 2014]  Kill: 1022 1 39: <world> killed Felix by MOD_SUICIDE
+[Tue Apr 29 22:23:16 2014]  Kill: 0 1 3: Cmdr Brannick killed Felix by MOD_SABER
+[Tue Apr 29 22:23:33 2014]  ClientDisconnect: 0
+[Tue Apr 29 22:23:33 2014]  Kill: 1022 1 39: <world> killed Felix by MOD_SUICIDE
+[Tue Apr 29 22:24:23 2014]  ClientDisconnect: 1
+[Tue Apr 29 23:01:29 2014]  ClientConnect: 0
+[Tue Apr 29 23:01:29 2014]  mlog:Player Padawan, connected. With IP - 68.189.241.16:29070 
+[Tue Apr 29 23:02:32 2014]  ClientBegin: 0
+[Tue Apr 29 23:03:59 2014]  print "^9Emperor Zaeleon^7 @@@PLRENAME A.I.
+"[Tue Apr 29 23:04:05 2014]  ClientConnect: 1
+[Tue Apr 29 23:04:05 2014]  mlog:Player ^8Darth ^9Thanaton, connected. With IP - 24.181.236.49:29070 
+[Tue Apr 29 23:04:14 2014]  ClientBegin: 1
+[Tue Apr 29 23:04:56 2014]  Kill: 1 1 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Tue Apr 29 23:10:55 2014]  ClientDisconnect: 1
+[Tue Apr 29 23:11:05 2014]  ClientDisconnect: 0
+[Wed Apr 30 00:09:35 2014]  Exit: Timelimit hit.
+[Wed Apr 30 11:35:11 2014]  ClientConnect: 0
+[Wed Apr 30 11:35:11 2014]  mlog:Player WhiteMagicRaven, connected. With IP - 46.200.145.41:29070 
+[Wed Apr 30 11:35:20 2014]  ClientDisconnect: 0

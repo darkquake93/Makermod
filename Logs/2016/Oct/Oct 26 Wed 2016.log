@@ -1,0 +1,1003 @@
+[Wed Oct 26 01:56:42 2016]  ------------------------------------------------------------
+[Wed Oct 26 01:56:42 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Oct 28 15:31:05 2016]  ClientConnect: 0
+[Fri Oct 28 15:31:05 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 93.185.29.194:6092 
+[Fri Oct 28 15:31:23 2016]  ClientBegin: 0
+[Fri Oct 28 15:31:30 2016]  Item: 0 weapon_melee
+[Fri Oct 28 15:34:42 2016]  ClientDisconnect: 0
+[Sat Oct 29 19:55:15 2016]  ClientConnect: 0
+[Sat Oct 29 19:55:15 2016]  mlog:Player Starkiller, connected. With IP - 186.95.188.183:29070 
+[Sat Oct 29 19:55:58 2016]  ClientDisconnect: 0
+[Tue Nov 01 19:04:29 2016]  ClientConnect: 0
+[Tue Nov 01 19:04:29 2016]  mlog:Player Mix911, connected. With IP - 185.11.149.56:29070 
+[Tue Nov 01 19:04:46 2016]  ClientConnect: 1
+[Tue Nov 01 19:04:46 2016]  mlog:Player Padawan, connected. With IP - 5.138.69.86:22772 
+[Tue Nov 01 19:04:54 2016]  ClientBegin: 0
+[Tue Nov 01 19:05:12 2016]  ClientBegin: 1
+[Tue Nov 01 19:06:37 2016]  Kill: 0 1 3: Mix911 killed Padawan by MOD_SABER
+[Tue Nov 01 19:07:13 2016]  Kill: 0 1 3: Mix911 killed Padawan by MOD_SABER
+[Tue Nov 01 19:08:23 2016]  print "Padawan^7 @@@PLRENAME MulayTrap
+"[Tue Nov 01 19:09:34 2016]  Kill: 0 1 3: Mix911 killed MulayTrap by MOD_SABER
+[Tue Nov 01 19:10:01 2016]  Kill: 1 0 3: MulayTrap killed Mix911 by MOD_SABER
+[Tue Nov 01 19:10:18 2016]  Kill: 1 0 3: MulayTrap killed Mix911 by MOD_SABER
+[Tue Nov 01 19:11:03 2016]  Kill: 1 0 3: MulayTrap killed Mix911 by MOD_SABER
+[Tue Nov 01 19:11:14 2016]  Kill: 0 1 3: Mix911 killed MulayTrap by MOD_SABER
+[Tue Nov 01 19:11:50 2016]  Kill: 1 0 3: MulayTrap killed Mix911 by MOD_SABER
+[Tue Nov 01 19:12:10 2016]  Kill: 0 1 3: Mix911 killed MulayTrap by MOD_SABER
+[Tue Nov 01 19:12:41 2016]  Kill: 0 1 3: Mix911 killed MulayTrap by MOD_SABER
+[Tue Nov 01 19:12:52 2016]  Kill: 0 1 3: Mix911 killed MulayTrap by MOD_SABER
+[Tue Nov 01 19:13:27 2016]  Kill: 1 0 3: MulayTrap killed Mix911 by MOD_SABER
+[Tue Nov 01 19:13:54 2016]  Kill: 0 1 3: Mix911 killed MulayTrap by MOD_SABER
+[Tue Nov 01 19:14:25 2016]  Kill: 1 0 3: MulayTrap killed Mix911 by MOD_SABER
+[Tue Nov 01 19:15:27 2016]  Kill: 0 1 3: Mix911 killed MulayTrap by MOD_SABER
+[Tue Nov 01 19:15:46 2016]  Kill: 1 0 3: MulayTrap killed Mix911 by MOD_SABER
+[Tue Nov 01 19:15:56 2016]  Kill: 0 1 3: Mix911 killed MulayTrap by MOD_SABER
+[Tue Nov 01 19:17:33 2016]  Kill: 0 1 3: Mix911 killed MulayTrap by MOD_SABER
+[Tue Nov 01 19:20:40 2016]  ClientDisconnect: 1
+[Tue Nov 01 19:20:42 2016]  ClientDisconnect: 0
+[Tue Nov 01 20:23:57 2016]  ClientConnect: 0
+[Tue Nov 01 20:23:57 2016]  mlog:Player Reaven, connected. With IP - 87.206.180.234:29070 
+[Tue Nov 01 20:24:23 2016]  ClientConnect: 1
+[Tue Nov 01 20:24:23 2016]  mlog:Player Krishnak, connected. With IP - 87.206.80.9:29070 
+[Tue Nov 01 20:24:30 2016]  ClientConnect: 2
+[Tue Nov 01 20:24:30 2016]  mlog:Player Vizzardable, connected. With IP - 89.64.46.37:29132 
+[Tue Nov 01 20:24:31 2016]  ClientBegin: 0
+[Tue Nov 01 20:24:50 2016]  ClientBegin: 1
+[Tue Nov 01 20:24:53 2016]  ClientBegin: 2
+[Tue Nov 01 20:25:03 2016]  Kill: 1 2 3: Krishnak killed Vizzardable by MOD_SABER
+[Tue Nov 01 20:26:04 2016]  Kill: 0 1 31: Reaven killed Krishnak by MOD_FORCE_DARK
+[Tue Nov 01 20:26:05 2016]  setteam:  1 FREE SPECTATOR
+[Tue Nov 01 20:26:05 2016]  ClientBegin: 1
+[Tue Nov 01 20:26:10 2016]  setteam:  1 SPECTATOR FREE
+[Tue Nov 01 20:26:10 2016]  ClientBegin: 1
+[Tue Nov 01 20:26:14 2016]  Kill: 0 2 3: Reaven killed Vizzardable by MOD_SABER
+[Tue Nov 01 20:26:46 2016]  Kill: 1 1 39: Krishnak killed Krishnak by MOD_SUICIDE
+[Tue Nov 01 20:26:46 2016]  setteam:  1 FREE SPECTATOR
+[Tue Nov 01 20:26:46 2016]  ClientBegin: 1
+[Tue Nov 01 20:27:37 2016]  setteam:  1 SPECTATOR FREE
+[Tue Nov 01 20:27:37 2016]  ClientBegin: 1
+[Tue Nov 01 20:27:40 2016]  Kill: 1 2 31: Krishnak killed Vizzardable by MOD_FORCE_DARK
+[Tue Nov 01 20:28:15 2016]  Kill: 1 2 3: Krishnak killed Vizzardable by MOD_SABER
+[Tue Nov 01 20:28:19 2016]  Kill: 2 0 3: Vizzardable killed Reaven by MOD_SABER
+[Tue Nov 01 20:28:21 2016]  Kill: 2 1 3: Vizzardable killed Krishnak by MOD_SABER
+[Tue Nov 01 20:28:37 2016]  Kill: 2 1 3: Vizzardable killed Krishnak by MOD_SABER
+[Tue Nov 01 20:28:40 2016]  ClientDisconnect: 1
+[Tue Nov 01 20:28:41 2016]  Kill: 2 0 3: Vizzardable killed Reaven by MOD_SABER
+[Tue Nov 01 20:28:57 2016]  ClientConnect: 1
+[Tue Nov 01 20:28:57 2016]  mlog:Player Krishnak, connected. With IP - 87.206.80.9:29070 
+[Tue Nov 01 20:29:02 2016]  Kill: 2 0 3: Vizzardable killed Reaven by MOD_SABER
+[Tue Nov 01 20:29:11 2016]  ClientBegin: 1
+[Tue Nov 01 20:29:25 2016]  Kill: 0 2 3: Reaven killed Vizzardable by MOD_SABER
+[Tue Nov 01 20:29:48 2016]  Kill: 1 0 3: Krishnak killed Reaven by MOD_SABER
+[Tue Nov 01 20:29:53 2016]  Kill: 1 2 3: Krishnak killed Vizzardable by MOD_SABER
+[Tue Nov 01 20:30:17 2016]  Kill: 0 1 5: Reaven killed Krishnak by MOD_BRYAR_PISTOL_ALT
+[Tue Nov 01 20:30:52 2016]  ClientDisconnect: 2
+[Tue Nov 01 20:31:28 2016]  ClientDisconnect: 0
+[Tue Nov 01 20:31:32 2016]  ClientDisconnect: 1
+[Tue Nov 01 22:54:42 2016]  ClientConnect: 0
+[Tue Nov 01 22:54:42 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 93.185.26.95:5276 
+[Tue Nov 01 22:55:11 2016]  ClientBegin: 0
+[Tue Nov 01 22:55:31 2016]  Item: 0 weapon_melee
+[Tue Nov 01 23:12:35 2016]  ClientDisconnect: 0
+[Wed Nov 02 08:45:23 2016]  ClientConnect: 0
+[Wed Nov 02 08:45:23 2016]  mlog:Player Darth Revan, connected. With IP - 31.13.144.10:5827 
+[Wed Nov 02 08:45:51 2016]  ClientBegin: 0
+[Wed Nov 02 08:47:59 2016]  Item: 0 ammo_all
+[Wed Nov 02 08:48:04 2016]  Item: 0 ammo_all
+[Wed Nov 02 08:51:32 2016]  ClientDisconnect: 0
+[Wed Nov 02 10:27:15 2016]  ClientConnect: 0
+[Wed Nov 02 10:27:15 2016]  mlog:Player GreyJedi, connected. With IP - 46.0.121.143:29070 
+[Wed Nov 02 10:27:46 2016]  ClientBegin: 0
+[Wed Nov 02 10:29:12 2016]  say: GreyJedi: ^3ELEMENTAL ^3C^4R^3E^4A^3T^4I^3O^4N!
+[Wed Nov 02 10:29:16 2016]  Kill: 1022 0 3: <world> killed GreyJedi by MOD_SABER
+[Wed Nov 02 10:35:01 2016]  ClientDisconnect: 0
+[Wed Nov 02 10:35:53 2016]  ClientConnect: 0
+[Wed Nov 02 10:35:53 2016]  mlog:Player GreyJedi, connected. With IP - 46.0.121.143:29070 
+[Wed Nov 02 10:36:23 2016]  ClientBegin: 0
+[Wed Nov 02 10:38:07 2016]  say: GreyJedi: ^1FIRE BALL!
+[Wed Nov 02 10:38:11 2016]  say: GreyJedi: ^1FIRE BALL!
+[Wed Nov 02 10:38:19 2016]  say: GreyJedi: ^1FIRE BALL!
+[Wed Nov 02 10:38:26 2016]  say: GreyJedi: ^1FIRE ^5SURROUND!
+[Wed Nov 02 10:38:37 2016]  Kill: 1022 0 0: <world> killed GreyJedi by MOD_UNKNOWN
+[Wed Nov 02 10:38:53 2016]  say: GreyJedi: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Wed Nov 02 10:39:09 2016]  say: GreyJedi: ^1GRAVEL ^4SHOT!
+[Wed Nov 02 10:39:13 2016]  say: GreyJedi: ^2ACID ^3BLAST!
+[Wed Nov 02 10:39:20 2016]  say: GreyJedi: ^4WATER ^3PROTECTION!
+[Wed Nov 02 10:39:33 2016]  say: GreyJedi: ^4WATER ^3PROTECTION!
+[Wed Nov 02 10:40:29 2016]  say: GreyJedi: ^4WATERFALL!
+[Wed Nov 02 10:41:17 2016]  ClientDisconnect: 0
+[Wed Nov 02 10:46:50 2016]  ClientConnect: 0
+[Wed Nov 02 10:46:50 2016]  mlog:Player GreyJedi, connected. With IP - 46.0.121.143:29070 
+[Wed Nov 02 10:47:20 2016]  ClientBegin: 0
+[Wed Nov 02 10:50:13 2016]  ClientDisconnect: 0
+[Wed Nov 02 10:50:55 2016]  ClientConnect: 0
+[Wed Nov 02 10:50:55 2016]  mlog:Player GreyJedi, connected. With IP - 46.0.121.143:29070 
+[Wed Nov 02 10:51:25 2016]  ClientBegin: 0
+[Wed Nov 02 10:53:39 2016]  ClientDisconnect: 0
+[Wed Nov 02 12:33:32 2016]  ClientConnect: 0
+[Wed Nov 02 12:33:32 2016]  mlog:Player Padawan, connected. With IP - 46.0.121.143:29070 
+[Wed Nov 02 12:34:02 2016]  ClientBegin: 0
+[Wed Nov 02 12:41:36 2016]  ClientConnect: 1
+[Wed Nov 02 12:41:36 2016]  mlog:Player Padawan, connected. With IP - 91.105.161.207:29070 
+[Wed Nov 02 12:41:47 2016]  ClientDisconnect: 1
+[Wed Nov 02 12:41:47 2016]  ClientConnect: 1
+[Wed Nov 02 12:41:47 2016]  mlog:Player Padawan, connected. With IP - 91.105.161.207:29070 
+[Wed Nov 02 12:42:32 2016]  ClientBegin: 1
+[Wed Nov 02 12:43:33 2016]  say: ^1Dekka^2_^4Fade: Мда
+[Wed Nov 02 12:43:39 2016]  say: ^1Dekka^2_^4Fade: Игра хер клала на конфиг
+[Wed Nov 02 12:43:45 2016]  say: ^1Dekka^2_^4Fade: Где я установил разрешение
+[Wed Nov 02 12:43:48 2016]  say: Padawan: xD
+[Wed Nov 02 12:43:52 2016]  say: ^1Dekka^2_^4Fade: Да что уж там
+[Wed Nov 02 12:43:59 2016]  say: ^1Dekka^2_^4Fade: Я даже в меню изменил разрешение экрана
+[Wed Nov 02 12:44:02 2016]  say: Padawan: как нашел? ах да...
+[Wed Nov 02 12:44:04 2016]  say: ^1Dekka^2_^4Fade: Она и на это хер клала
+[Wed Nov 02 12:44:17 2016]  say: Padawan: я в автоконфиг прописал
+[Wed Nov 02 12:44:26 2016]  say: Padawan: но теперь у меня упоротый шрифт местами
+[Wed Nov 02 12:44:44 2016]  say: Padawan: можешь помочь найти эффект с исчезалки ;D
+[Wed Nov 02 12:44:57 2016]  print "Padawan^7 @@@PLRENAME GreyJedi
+"[Wed Nov 02 12:45:33 2016]  say: GreyJedi: збс, сгодится
+[Wed Nov 02 12:46:00 2016]  say: GreyJedi: ажтрисет
+[Wed Nov 02 12:46:50 2016]  say: ^1Dekka^2_^4Fade: йа афк был
+[Wed Nov 02 12:48:26 2016]  say: ^1Dekka^2_^4Fade: ЛОЛ
+[Wed Nov 02 12:48:28 2016]  say: GreyJedi: и этот сгодится
+[Wed Nov 02 12:48:36 2016]  say: ^1Dekka^2_^4Fade: Я понял почему игра клала хер на конфиг
+[Wed Nov 02 12:48:40 2016]  say: ^1Dekka^2_^4Fade: Ну ка
+[Wed Nov 02 12:48:40 2016]  say: GreyJedi: думаю запилить скрипт
+[Wed Nov 02 12:49:04 2016]  say: GreyJedi: с кораблем, прилетающим к надголовью и   ништяки
+[Wed Nov 02 12:49:09 2016]  say: ^1Dekka^2_^4Fade: Чет нихуя
+[Wed Nov 02 12:49:11 2016]  say: GreyJedi: кавычки
+[Wed Nov 02 12:49:13 2016]  say: GreyJedi: черт
+[Wed Nov 02 12:51:20 2016]  ClientDisconnect: 1
+[Wed Nov 02 12:51:20 2016]  ClientConnect: 1
+[Wed Nov 02 12:51:20 2016]  mlog:Player Padawan, connected. With IP - 91.105.161.207:29070 
+[Wed Nov 02 12:51:57 2016]  ClientBegin: 1
+[Wed Nov 02 12:52:06 2016]  say: ^1Dekka^2_^4Fade: Вороо
+[Wed Nov 02 12:52:08 2016]  say: ^1Dekka^2_^4Fade: Вооо
+[Wed Nov 02 12:52:10 2016]  say: ^1Dekka^2_^4Fade: Теперь норм
+[Wed Nov 02 12:52:25 2016]  say: GreyJedi: сойдет пока
+[Wed Nov 02 12:52:44 2016]  say: ^1Dekka^2_^4Fade: Ы
+[Wed Nov 02 12:52:51 2016]  say: ^1Dekka^2_^4Fade: Я и забыл про эту хуиту
+[Wed Nov 02 12:54:29 2016]  say: GreyJedi: так
+[Wed Nov 02 12:54:35 2016]  say: GreyJedi: я забыл как биндить на нампад
+[Wed Nov 02 12:54:54 2016]  say: ^1Dekka^2_^4Fade: А я и не знал
+[Wed Nov 02 12:54:55 2016]  say: GreyJedi: mplaceme?
+[Wed Nov 02 12:54:56 2016]  say: ^1Dekka^2_^4Fade: xD
+[Wed Nov 02 12:55:03 2016]  say: ^1Dekka^2_^4Fade: Да вроде
+[Wed Nov 02 12:55:06 2016]  say: ^1Dekka^2_^4Fade: точно не помню
+[Wed Nov 02 12:55:07 2016]  say: ^1Dekka^2_^4Fade: :D
+[Wed Nov 02 12:55:28 2016]  say: ^1Dekka^2_^4Fade: лол
+[Wed Nov 02 13:02:21 2016]  say: GreyJedi: теперь я человек-муравей ***
+[Wed Nov 02 13:04:06 2016]  say: GreyJedi: так
+[Wed Nov 02 13:04:15 2016]  say: GreyJedi: сейчас либо разрешите обратиться
+[Wed Nov 02 13:04:21 2016]  say: GreyJedi: либо доставка оружия
+[Wed Nov 02 13:04:28 2016]  say: ^1Dekka^2_^4Fade: DFN
+[Wed Nov 02 13:04:30 2016]  say: ^1Dekka^2_^4Fade: WAT
+[Wed Nov 02 13:04:35 2016]  say: GreyJedi: идеи скриптов
+[Wed Nov 02 13:04:48 2016]  say: GreyJedi: во втором случае надо запилить так, чтобы прилетел корабль
+[Wed Nov 02 13:04:52 2016]  say: GreyJedi: и дал ништяков
+[Wed Nov 02 13:04:54 2016]  say: GreyJedi: xD
+[Wed Nov 02 13:05:43 2016]  say: ^1Dekka^2_^4Fade: пропиши /not
+[Wed Nov 02 13:05:48 2016]  say: GreyJedi: зачем?
+[Wed Nov 02 13:05:59 2016]  say: ^1Dekka^2_^4Fade: НПЦ спавнить буду
+[Wed Nov 02 13:06:23 2016]  say: GreyJedi: +
+[Wed Nov 02 13:06:55 2016]  say: ^1Dekka^2_^4Fade: gkz
+[Wed Nov 02 13:06:57 2016]  say: ^1Dekka^2_^4Fade: yПля
+[Wed Nov 02 13:07:00 2016]  say: ^1Dekka^2_^4Fade: Ты в прицел залез
+[Wed Nov 02 13:07:01 2016]  say: GreyJedi: xD
+[Wed Nov 02 13:07:21 2016]  say: GreyJedi: мб призыв зеркальных копий запилить...
+[Wed Nov 02 13:07:30 2016]  say: GreyJedi: не только же марвел косплеить
+[Wed Nov 02 13:11:24 2016]  say: GreyJedi: рандом..
+[Wed Nov 02 13:11:35 2016]  say: GreyJedi: ...в таймере
+[Wed Nov 02 13:13:20 2016]  Kill: 1 0 37: ^1Dekka^2_^4Fade killed GreyJedi by MOD_TELEFRAG
+[Wed Nov 02 13:13:23 2016]  say: ^1Dekka^2_^4Fade: lol
+[Wed Nov 02 13:13:29 2016]  say: GreyJedi: pidr
+[Wed Nov 02 13:13:30 2016]  say: ^1Dekka^2_^4Fade: ты не врубил god?
+[Wed Nov 02 13:13:33 2016]  say: GreyJedi: vrubil
+[Wed Nov 02 13:13:36 2016]  say: ^1Dekka^2_^4Fade: WAT
+[Wed Nov 02 13:13:57 2016]  say: GreyJedi: huh
+[Wed Nov 02 13:13:59 2016]  Kill: 1 0 37: ^1Dekka^2_^4Fade killed GreyJedi by MOD_TELEFRAG
+[Wed Nov 02 13:14:07 2016]  say: GreyJedi: nah idi
+[Wed Nov 02 13:14:10 2016]  say: ^1Dekka^2_^4Fade: чВ
+[Wed Nov 02 13:14:12 2016]  say: ^1Dekka^2_^4Fade: xD
+[Wed Nov 02 13:14:14 2016]  say: ^1Dekka^2_^4Fade: Все
+[Wed Nov 02 13:14:18 2016]  say: ^1Dekka^2_^4Fade: Не буду больше
+[Wed Nov 02 13:14:39 2016]  say: GreyJedi: я тут пытаюсь спаун ранкора наладить...
+[Wed Nov 02 13:14:46 2016]  say: GreyJedi: что-то пошло не так
+[Wed Nov 02 13:14:50 2016]  say: GreyJedi: ранкор не умирает
+[Wed Nov 02 13:15:13 2016]  say: GreyJedi: и надо больше газа
+[Wed Nov 02 13:15:56 2016]  Kill: 0 0 39: GreyJedi killed GreyJedi by MOD_SUICIDE
+[Wed Nov 02 13:16:03 2016]  say: ^1Dekka^2_^4Fade: Тут уж ты сам себы
+[Wed Nov 02 13:16:04 2016]  say: ^1Dekka^2_^4Fade: xD
+[Wed Nov 02 13:16:07 2016]  say: GreyJedi: кек
+[Wed Nov 02 13:16:07 2016]  say: ^1Dekka^2_^4Fade: себя
+[Wed Nov 02 13:16:13 2016]  say: GreyJedi: kill npc rankor
+[Wed Nov 02 13:16:17 2016]  say: GreyJedi: suk
+[Wed Nov 02 13:16:28 2016]  say: ^1Dekka^2_^4Fade: Kaef
+[Wed Nov 02 13:16:40 2016]  say: GreyJedi: 5 min
+[Wed Nov 02 13:22:20 2016]  say: GreyJedi: так... нужно большое облако газа
+[Wed Nov 02 13:22:27 2016]  say: GreyJedi: бзднуть можешь?
+[Wed Nov 02 13:22:40 2016]  say: ^1Dekka^2_^4Fade: Тогда тут будет непроходимый туман
+[Wed Nov 02 13:23:56 2016]  say: GreyJedi: 'gbxyfz [htym
+[Wed Nov 02 13:24:00 2016]  say: GreyJedi: эпичная хрень
+[Wed Nov 02 13:24:06 2016]  say: GreyJedi: куда ее применить пока хз
+[Wed Nov 02 13:24:33 2016]  say: GreyJedi: хотяяя...
+[Wed Nov 02 13:25:28 2016]  say: GreyJedi: сейчас бы камеру отдалить
+[Wed Nov 02 13:25:36 2016]  say: GreyJedi: когда моделька увеличивается нифига не видно
+[Wed Nov 02 13:29:00 2016]  say: GreyJedi: че, только килл алл?
+[Wed Nov 02 13:29:04 2016]  say: GreyJedi: ..
+[Wed Nov 02 13:29:16 2016]  say: GreyJedi: Ок, тогда если че будет массовое жертвоприношение
+[Wed Nov 02 13:30:02 2016]  say: ^1Dekka^2_^4Fade: ...
+[Wed Nov 02 13:31:14 2016]  say: GreyJedi: да какого..
+[Wed Nov 02 13:32:53 2016]  say: GreyJedi: я застрял, спс ранкору
+[Wed Nov 02 13:33:02 2016]  say: GreyJedi: а все
+[Wed Nov 02 13:35:32 2016]  say: GreyJedi: ..
+[Wed Nov 02 13:37:04 2016]  say: GreyJedi: че он со скрипта не умирает xD
+[Wed Nov 02 13:39:12 2016]  say: GreyJedi: нельзя просто так заспаунить и убить непися одним и тем же скриптом?? ну нафиг
+[Wed Nov 02 13:39:23 2016]  say: ^1Dekka^2_^4Fade: твой скрипт не дамажит
+[Wed Nov 02 13:39:32 2016]  say: GreyJedi: он и не должен
+[Wed Nov 02 13:39:43 2016]  say: GreyJedi: он превращает в ранкора
+[Wed Nov 02 13:39:45 2016]  say: GreyJedi:  
+[Wed Nov 02 13:39:56 2016]  say: GreyJedi: а ранкора - в мутант ранкора
+[Wed Nov 02 13:40:03 2016]  say: GreyJedi: но ранкор сук не хочет умирать
+[Wed Nov 02 13:40:15 2016]  say: GreyJedi: чтобы освободить место мутанту
+[Wed Nov 02 13:40:22 2016]  say: ^1Dekka^2_^4Fade: от пидар
+[Wed Nov 02 13:40:30 2016]  say: ^1Dekka^2_^4Fade: Поставь дамаг на свой эффейкт
+[Wed Nov 02 13:40:32 2016]  say: ^1Dekka^2_^4Fade: эффект
+[Wed Nov 02 13:40:44 2016]  say: GreyJedi: проще наверное корабль с ништяками запилить
+[Wed Nov 02 13:40:58 2016]  say: ^1Dekka^2_^4Fade: Не проще
+[Wed Nov 02 13:41:01 2016]  say: GreyJedi: нуу
+[Wed Nov 02 13:41:08 2016]  say: GreyJedi: он должен спауниться в ебенях
+[Wed Nov 02 13:41:12 2016]  say: GreyJedi: лететь ко мне
+[Wed Nov 02 13:41:17 2016]  say: GreyJedi: спаунить ништяки
+[Wed Nov 02 13:41:19 2016]  say: GreyJedi: улетать
+[Wed Nov 02 13:41:26 2016]  say: ^1Dekka^2_^4Fade: ВОт именно
+[Wed Nov 02 13:41:34 2016]  say: ^1Dekka^2_^4Fade: Как ты заставишь его из ебеней к тебе лететь?
+[Wed Nov 02 13:41:45 2016]  say: GreyJedi: можно же заставить заспауниться там
+[Wed Nov 02 13:41:50 2016]  say: GreyJedi: а потом замувить
+[Wed Nov 02 13:41:56 2016]  say: ^1Dekka^2_^4Fade: Там это где?
+[Wed Nov 02 13:42:01 2016]  say: ^1Dekka^2_^4Fade: Смотри
+[Wed Nov 02 13:42:07 2016]  say: ^1Dekka^2_^4Fade: Заставить заспавниться ты можешь в точке
+[Wed Nov 02 13:42:11 2016]  say: ^1Dekka^2_^4Fade: В которой ммарк
+[Wed Nov 02 13:42:17 2016]  say: ^1Dekka^2_^4Fade: Ммарк можно сделать в любой точке
+[Wed Nov 02 13:42:22 2016]  say: ^1Dekka^2_^4Fade: НО
+[Wed Nov 02 13:42:37 2016]  say: ^1Dekka^2_^4Fade: Ты не сможешь заставить из этой точки
+[Wed Nov 02 13:42:41 2016]  say: ^1Dekka^2_^4Fade: лететь в РАЗНЫЕ точки
+[Wed Nov 02 13:42:48 2016]  say: ^1Dekka^2_^4Fade: только в одну через ммув
+[Wed Nov 02 13:42:55 2016]  say: ^1Dekka^2_^4Fade: Так что единственный вариант
+[Wed Nov 02 13:43:01 2016]  say: ^1Dekka^2_^4Fade: СДелать таке чтоб он прилетал в одну точку
+[Wed Nov 02 13:43:08 2016]  say: ^1Dekka^2_^4Fade: заранее определенную
+[Wed Nov 02 13:43:19 2016]  say: ^1Dekka^2_^4Fade: ^7легкий ^7транспортник Epsilon ^7скрЫпт ^7сделан ^1|T^4F^1R|^4X^2E^1N^4O^1N^2{JAd}
+[Wed Nov 02 13:43:22 2016]  say: ^1Dekka^2_^4Fade: ^7Нижний ^7корпус
+[Wed Nov 02 13:43:28 2016]  say: ^1Dekka^2_^4Fade: ^7окна
+[Wed Nov 02 13:43:33 2016]  say: ^1Dekka^2_^4Fade: ^7генераторы
+[Wed Nov 02 13:43:36 2016]  say: ^1Dekka^2_^4Fade: ^7Обшивка
+[Wed Nov 02 13:43:46 2016]  say: ^1Dekka^2_^4Fade: ^7панели ^7управления
+[Wed Nov 02 13:43:49 2016]  say: ^1Dekka^2_^4Fade: ^7двигатели
+[Wed Nov 02 13:43:52 2016]  say: ^1Dekka^2_^4Fade: ^7сиденья
+[Wed Nov 02 13:44:08 2016]  say: ^1Dekka^2_^4Fade: My origin is: (-15768 17689 1481) - You can teleport here with /mtelelast
+
+[Wed Nov 02 13:44:25 2016]  say: ^1Dekka^2_^4Fade: Это мой самый мелкий шип
+[Wed Nov 02 13:44:32 2016]  say: ^1Dekka^2_^4Fade: Смотри что будет, если его двигаться заставить
+[Wed Nov 02 13:44:45 2016]  say: GreyJedi: дум
+[Wed Nov 02 13:44:55 2016]  say: GreyJedi: думал взять что-то с  объектом
+[Wed Nov 02 13:45:00 2016]  say: GreyJedi: 1
+[Wed Nov 02 13:45:18 2016]  say: GreyJedi: как же серв лагает
+[Wed Nov 02 13:45:55 2016]  say: GreyJedi: можно сделать разбивающуюся капсулу с амуницией
+[Wed Nov 02 13:45:58 2016]  say: ^1Dekka^2_^4Fade: lol
+[Wed Nov 02 13:45:59 2016]  say: GreyJedi: как в DoW
+[Wed Nov 02 13:46:02 2016]  say: ^1Dekka^2_^4Fade: Красиво выглядит
+[Wed Nov 02 13:46:05 2016]  Item: 1 ammo_all
+[Wed Nov 02 13:46:13 2016]  say: GreyJedi: ?
+[Wed Nov 02 13:46:19 2016]  say: ^1Dekka^2_^4Fade: Пали на мой корабль
+[Wed Nov 02 13:46:31 2016]  say: GreyJedi: каждый раз кода непонятно что-то скукоживается Дока вспоминаю
+[Wed Nov 02 13:46:52 2016]  say: GreyJedi: лаги епт
+[Wed Nov 02 13:47:10 2016]  say: ^1Dekka^2_^4Fade:  nj z 
+
+[Wed Nov 02 13:47:16 2016]  say: ^1Dekka^2_^4Fade: Это я корабль разворачиваю
+[Wed Nov 02 13:47:17 2016]  say: ^1Dekka^2_^4Fade: лол
+[Wed Nov 02 13:47:22 2016]  say: GreyJedi: чВ
+[Wed Nov 02 13:47:38 2016]  say: GreyJedi: поэтому предпочитаю скрипты с миним. кол-во объектов
+[Wed Nov 02 13:47:49 2016]  say: GreyJedi: эм
+[Wed Nov 02 13:47:50 2016]  say: ^1Dekka^2_^4Fade: Это самый мелкий
+[Wed Nov 02 13:47:52 2016]  Item: 1 ammo_all
+[Wed Nov 02 13:47:52 2016]  ClientConnect: 2
+[Wed Nov 02 13:47:52 2016]  mlog:Player ^2delete, connected. With IP - 213.110.62.130:29070 
+[Wed Nov 02 13:48:01 2016]  say: ^1Dekka^2_^4Fade: Хммм
+[Wed Nov 02 13:48:01 2016]  say: GreyJedi: че он лагает
+[Wed Nov 02 13:48:02 2016]  say: ^1Dekka^2_^4Fade: Делет
+[Wed Nov 02 13:48:06 2016]  say: GreyJedi: блять
+[Wed Nov 02 13:48:12 2016]  say: GreyJedi: xD
+[Wed Nov 02 13:48:12 2016]  Kill: 1 1 39: ^1Dekka^2_^4Fade killed ^1Dekka^2_^4Fade by MOD_SUICIDE
+[Wed Nov 02 13:48:45 2016]  ClientDisconnect: 2
+[Wed Nov 02 13:48:45 2016]  ClientConnect: 2
+[Wed Nov 02 13:48:45 2016]  mlog:Player ^2delete, connected. With IP - 213.110.62.130:29070 
+[Wed Nov 02 13:49:48 2016]  ClientBegin: 2
+[Wed Nov 02 13:50:42 2016]  say: ^1Dekka^2_^4Fade: Мой последний скрипт\
+[Wed Nov 02 13:51:08 2016]  say: ^1Dekka^2_^4Fade: Жалко так и не смог доделать его
+[Wed Nov 02 13:51:42 2016]  say: ^1Dekka^2_^4Fade: Как тебе корабль?
+[Wed Nov 02 13:51:48 2016]  say: GreyJedi: ранкору плевать на все
+[Wed Nov 02 13:53:42 2016]  say: ^1Dekka^2_^4Fade: смысл в том
+[Wed Nov 02 13:53:49 2016]  say: ^1Dekka^2_^4Fade: Что мне не хватило лимита объектов
+[Wed Nov 02 13:53:56 2016]  say: ^1Dekka^2_^4Fade: Чтоб сделать все что хотел
+[Wed Nov 02 13:53:57 2016]  say: ^1Dekka^2_^4Fade: :С
+[Wed Nov 02 13:54:50 2016]  say: GreyJedi: mde
+[Wed Nov 02 13:55:21 2016]  say: GreyJedi: я пришел договориться
+[Wed Nov 02 13:56:31 2016]  say: ^1Dekka^2_^4Fade: ^2Average ^2frigate ^1Giperion ^2by ^4X^2E^1N^4O^1N^2
+[Wed Nov 02 13:59:01 2016]  say: ^1Dekka^2_^4Fade: ^2Heavy ^2Corvette ^1Albion ^8by ^1X^4E^2N^1O^2N
+[Wed Nov 02 14:02:31 2016]  say: GreyJedi: даже с дамагом ему плевать
+[Wed Nov 02 14:02:46 2016]  say: ^1Dekka^2_^4Fade: лол
+[Wed Nov 02 14:02:51 2016]  say: ^1Dekka^2_^4Fade: Этот же корабль но без пушек
+[Wed Nov 02 14:02:53 2016]  say: ^1Dekka^2_^4Fade: xD
+[Wed Nov 02 14:02:56 2016]  say: GreyJedi: мб ограничиться одним ранкором? х)
+[Wed Nov 02 14:03:02 2016]  say: ^1Dekka^2_^4Fade: Я уже забыл все скрипты свои
+[Wed Nov 02 14:03:07 2016]  say: GreyJedi: +
+[Wed Nov 02 14:03:35 2016]  say: ^1Dekka^2_^4Fade: ^2лаги ^2лаги ^2лаги
+[Wed Nov 02 14:03:37 2016]  say: ^1Dekka^2_^4Fade: :D
+[Wed Nov 02 14:03:42 2016]  say: ^1Dekka^2_^4Fade: ^2лаги ^2лаги ^2лаги
+[Wed Nov 02 14:03:43 2016]  say: ^1Dekka^2_^4Fade: ^2лаги ^2лаги ^2лаги
+[Wed Nov 02 14:03:43 2016]  say: ^1Dekka^2_^4Fade: ^2лаги ^2лаги ^2лаги
+[Wed Nov 02 14:03:44 2016]  say: ^1Dekka^2_^4Fade: ^2лаги ^2лаги ^2лаги
+[Wed Nov 02 14:03:44 2016]  say: ^1Dekka^2_^4Fade: ^2лаги ^2лаги ^2лаги
+[Wed Nov 02 14:03:44 2016]  say: ^1Dekka^2_^4Fade: ^2лаги ^2лаги ^2лаги
+[Wed Nov 02 14:04:39 2016]  say: ^1Dekka^2_^4Fade: lol
+[Wed Nov 02 14:04:42 2016]  say: ^1Dekka^2_^4Fade: пали че нашел у себя
+[Wed Nov 02 14:04:50 2016]  say: ^1Dekka^2_^4Fade: ты кде?
+[Wed Nov 02 14:06:45 2016]  say: GreyJedi: ssssssssssssssss
+[Wed Nov 02 14:07:02 2016]  say: GreyJedi: четко
+[Wed Nov 02 14:07:07 2016]  say: GreyJedi: только я жестко залагал
+[Wed Nov 02 14:07:25 2016]  say: GreyJedi: мб *** с ним с этим обращением
+[Wed Nov 02 14:07:36 2016]  say: ^1Dekka^2_^4Fade: nТак
+[Wed Nov 02 14:07:38 2016]  say: ^1Dekka^2_^4Fade: Усе
+[Wed Nov 02 14:07:44 2016]  say: ^1Dekka^2_^4Fade: Я пошел жрать готовить
+[Wed Nov 02 14:07:49 2016]  say: ^1Dekka^2_^4Fade: А потом в дотан xD
+[Wed Nov 02 14:07:51 2016]  say: ^1Dekka^2_^4Fade: bb
+[Wed Nov 02 14:07:56 2016]  say: GreyJedi: бб
+[Wed Nov 02 14:07:57 2016]  ClientDisconnect: 1
+[Wed Nov 02 14:08:18 2016]  say: GreyJedi: надо что-то попроще х)
+[Wed Nov 02 14:08:49 2016]  say: GreyJedi: впрочем... можно это сделать газовой атакой
+[Wed Nov 02 14:08:51 2016]  say: GreyJedi: х)
+[Wed Nov 02 14:09:14 2016]  say: GreyJedi: осталось найти эффект побольше
+[Wed Nov 02 14:09:31 2016]  say: ^2delete: Ты эт сам с собой говоришь ?
+[Wed Nov 02 14:09:37 2016]  say: ^2delete: :D
+[Wed Nov 02 14:09:43 2016]  say: GreyJedi: ну, вдруг помогать решишь х)
+[Wed Nov 02 14:09:56 2016]  say: GreyJedi: точнее найти
+[Wed Nov 02 14:12:27 2016]  say: GreyJedi: помнишь как постоянное вращение сделать? х)
+[Wed Nov 02 14:12:59 2016]  say: ^2delete: Поняния не имею
+[Wed Nov 02 14:13:05 2016]  say: GreyJedi: поняния?
+[Wed Nov 02 14:13:07 2016]  say: GreyJedi: х)
+[Wed Nov 02 14:14:56 2016]  ClientDisconnect: 2
+[Wed Nov 02 14:19:56 2016]  ClientConnect: 1
+[Wed Nov 02 14:19:56 2016]  mlog:Player kosher, connected. With IP - 91.230.25.125:29070 
+[Wed Nov 02 14:20:25 2016]  ClientBegin: 1
+[Wed Nov 02 14:21:22 2016]  Kill: 1 1 39: kosher killed kosher by MOD_SUICIDE
+[Wed Nov 02 14:21:22 2016]  setteam:  1 FREE SPECTATOR
+[Wed Nov 02 14:21:22 2016]  ClientBegin: 1
+[Wed Nov 02 14:21:33 2016]  say: kosher: rus
+[Wed Nov 02 14:21:41 2016]  say: GreyJedi: so what?
+[Wed Nov 02 14:21:48 2016]  say: kosher: u rus?
+[Wed Nov 02 14:21:59 2016]  say: GreyJedi: ya ya
+[Wed Nov 02 14:22:10 2016]  say: kosher: ya toje
+[Wed Nov 02 14:22:10 2016]  say: GreyJedi: what's wrong?
+[Wed Nov 02 14:22:12 2016]  say: GreyJedi: xD
+[Wed Nov 02 14:22:32 2016]  say: kosher: skoka let
+[Wed Nov 02 14:22:50 2016]  say: GreyJedi: po4ti 20
+[Wed Nov 02 14:22:55 2016]  say: GreyJedi: TFR
+[Wed Nov 02 14:23:00 2016]  say: kosher: server est
+[Wed Nov 02 14:23:04 2016]  say: GreyJedi: был
+[Wed Nov 02 14:23:26 2016]  say: GreyJedi: давно не заходил никто из клана
+[Wed Nov 02 14:23:32 2016]  say: GreyJedi: сейчас чет вспомнили
+[Wed Nov 02 14:24:30 2016]  say: GreyJedi: bez rusika 4tol'?
+[Wed Nov 02 14:24:34 2016]  say: kosher: нет
+[Wed Nov 02 14:24:46 2016]  say: kosher: я тоже из тфр был
+[Wed Nov 02 14:24:52 2016]  say: kosher: давно
+[Wed Nov 02 14:25:17 2016]  say: GreyJedi: в кф есть?
+[Wed Nov 02 14:25:32 2016]  say: kosher: кф?
+[Wed Nov 02 14:25:35 2016]  say: GreyJedi: ну
+[Wed Nov 02 14:25:47 2016]  say: GreyJedi: некоторые соклановцы сгруппировались в конфе в вк
+[Wed Nov 02 14:26:03 2016]  say: GreyJedi: ск, декка, варкус, альт
+[Wed Nov 02 14:26:12 2016]  say: kosher: нет
+[Wed Nov 02 14:33:34 2016]  ClientDisconnect: 1
+[Wed Nov 02 14:43:15 2016]  Item: 0 ammo_all
+[Wed Nov 02 14:43:15 2016]  Item: 0 ammo_rockets
+[Wed Nov 02 14:43:15 2016]  Item: 0 ammo_metallic_bolts
+[Wed Nov 02 14:43:15 2016]  Item: 0 ammo_powercell
+[Wed Nov 02 14:43:15 2016]  Item: 0 ammo_blaster
+[Wed Nov 02 14:43:15 2016]  Item: 0 ammo_force
+[Wed Nov 02 14:43:15 2016]  Item: 0 ammo_detpack
+[Wed Nov 02 14:43:15 2016]  Item: 0 ammo_tripmine
+[Wed Nov 02 14:43:15 2016]  Item: 0 ammo_thermal
+[Wed Nov 02 14:43:15 2016]  Item: 0 item_ysalimari
+[Wed Nov 02 14:43:15 2016]  Item: 0 item_cloak
+[Wed Nov 02 14:43:15 2016]  Item: 0 item_eweb_holdable
+[Wed Nov 02 14:43:15 2016]  Item: 0 item_ammodisp
+[Wed Nov 02 14:43:15 2016]  Item: 0 item_healthdisp
+[Wed Nov 02 14:43:15 2016]  Item: 0 item_jetpack
+[Wed Nov 02 14:43:15 2016]  Item: 0 item_sentry_gun
+[Wed Nov 02 14:43:15 2016]  Item: 0 item_binoculars
+[Wed Nov 02 14:43:15 2016]  Item: 0 item_medpac_big
+[Wed Nov 02 14:43:15 2016]  Item: 0 item_medpac
+[Wed Nov 02 14:43:15 2016]  Item: 0 item_shield
+[Wed Nov 02 14:43:15 2016]  Item: 0 item_seeker
+[Wed Nov 02 14:43:15 2016]  Item: 0 weapon_demp2
+[Wed Nov 02 14:43:15 2016]  Item: 0 weapon_flechette
+[Wed Nov 02 14:43:15 2016]  Item: 0 weapon_rocket_launcher
+[Wed Nov 02 14:43:15 2016]  Item: 0 weapon_repeater
+[Wed Nov 02 14:43:15 2016]  Item: 0 weapon_bowcaster
+[Wed Nov 02 14:43:15 2016]  Item: 0 weapon_disruptor
+[Wed Nov 02 14:43:15 2016]  Item: 0 weapon_blaster
+[Wed Nov 02 14:43:15 2016]  Item: 0 weapon_concussion_rifle
+[Wed Nov 02 14:43:15 2016]  Item: 0 weapon_bryar_pistol
+[Wed Nov 02 14:43:15 2016]  Item: 0 weapon_melee
+[Wed Nov 02 14:43:15 2016]  Item: 0 weapon_stun_baton
+[Wed Nov 02 14:43:44 2016]  Item: 0 item_force_boon
+[Wed Nov 02 14:43:44 2016]  Item: 0 item_force_enlighten_light
+[Wed Nov 02 14:43:53 2016]  Item: 0 ammo_all
+[Wed Nov 02 14:43:53 2016]  Item: 0 ammo_rockets
+[Wed Nov 02 14:43:53 2016]  Item: 0 ammo_blaster
+[Wed Nov 02 14:43:53 2016]  Item: 0 ammo_detpack
+[Wed Nov 02 14:43:53 2016]  Item: 0 ammo_tripmine
+[Wed Nov 02 14:43:53 2016]  Item: 0 ammo_thermal
+[Wed Nov 02 14:43:53 2016]  Item: 0 item_ysalimari
+[Wed Nov 02 14:45:06 2016]  say: GreyJedi: mplacefx concussion/explosion 1
+[Wed Nov 02 14:46:34 2016]  say: GreyJedi: mmark
+[Wed Nov 02 15:01:45 2016]  say: GreyJedi: ^8 shhhh shhh shh b00m
+[Wed Nov 02 15:02:54 2016]  say: GreyJedi: ^1particle cannon
+[Wed Nov 02 15:03:33 2016]  say: GreyJedi: ^7atmospheric lens is activated
+[Wed Nov 02 15:04:43 2016]  say: GreyJedi: ^8reset elite stormtroopers
+[Wed Nov 02 15:05:24 2016]  say: GreyJedi: ^8reset elite stormtroopers
+[Wed Nov 02 15:06:26 2016]  say: GreyJedi: ^8plazma
+[Wed Nov 02 15:07:06 2016]  say: GreyJedi: ^1artilerry storm
+[Wed Nov 02 15:07:13 2016]  say: GreyJedi: ^1artilerry storm
+[Wed Nov 02 15:10:05 2016]  say: GreyJedi: ^0good^7Attack^5By^0Blackxxx^7Dragon
+[Wed Nov 02 15:10:50 2016]  say: GreyJedi: ^0good^7Attack^5By^0Blackxxx^7Dragon
+[Wed Nov 02 15:11:06 2016]  say: GreyJedi: ^0good^7Attack^5By^0Blackxxx^7Dragon
+[Wed Nov 02 15:11:11 2016]  say: GreyJedi: ^0good^7Attack^5By^0Blackxxx^7Dragon
+[Wed Nov 02 15:11:15 2016]  say: GreyJedi: ^0good^7Attack^5By^0Blackxxx^7Dragon
+[Wed Nov 02 15:35:46 2016]  say: GreyJedi: npc spawn rankor
+[Wed Nov 02 15:49:26 2016]  ClientDisconnect: 0
+[Wed Nov 02 15:49:49 2016]  ClientConnect: 0
+[Wed Nov 02 15:49:49 2016]  mlog:Player GreyJedi, connected. With IP - 46.0.121.143:29070 
+[Wed Nov 02 15:50:04 2016]  ClientBegin: 0
+[Wed Nov 02 15:52:19 2016]  Item: 0 ammo_all
+[Wed Nov 02 15:52:19 2016]  Item: 0 ammo_rockets
+[Wed Nov 02 15:52:19 2016]  Item: 0 ammo_metallic_bolts
+[Wed Nov 02 15:52:19 2016]  Item: 0 ammo_powercell
+[Wed Nov 02 15:52:19 2016]  Item: 0 ammo_blaster
+[Wed Nov 02 15:52:19 2016]  Item: 0 ammo_force
+[Wed Nov 02 15:52:19 2016]  Item: 0 ammo_detpack
+[Wed Nov 02 15:52:19 2016]  Item: 0 ammo_tripmine
+[Wed Nov 02 15:52:19 2016]  Item: 0 ammo_thermal
+[Wed Nov 02 15:52:19 2016]  Item: 0 item_ysalimari
+[Wed Nov 02 15:52:19 2016]  Item: 0 item_cloak
+[Wed Nov 02 15:52:19 2016]  Item: 0 item_eweb_holdable
+[Wed Nov 02 15:52:19 2016]  Item: 0 item_ammodisp
+[Wed Nov 02 15:52:19 2016]  Item: 0 item_healthdisp
+[Wed Nov 02 15:52:19 2016]  Item: 0 item_jetpack
+[Wed Nov 02 15:52:19 2016]  Item: 0 item_sentry_gun
+[Wed Nov 02 15:52:19 2016]  Item: 0 item_binoculars
+[Wed Nov 02 15:52:19 2016]  Item: 0 item_medpac_big
+[Wed Nov 02 15:52:19 2016]  Item: 0 item_medpac
+[Wed Nov 02 15:52:19 2016]  Item: 0 item_shield
+[Wed Nov 02 15:52:19 2016]  Item: 0 item_seeker
+[Wed Nov 02 15:52:19 2016]  Item: 0 weapon_demp2
+[Wed Nov 02 15:52:19 2016]  Item: 0 weapon_flechette
+[Wed Nov 02 15:52:19 2016]  Item: 0 weapon_rocket_launcher
+[Wed Nov 02 15:52:19 2016]  Item: 0 weapon_repeater
+[Wed Nov 02 15:52:19 2016]  Item: 0 weapon_bowcaster
+[Wed Nov 02 15:52:19 2016]  Item: 0 weapon_disruptor
+[Wed Nov 02 15:52:19 2016]  Item: 0 weapon_blaster
+[Wed Nov 02 15:52:19 2016]  Item: 0 weapon_concussion_rifle
+[Wed Nov 02 15:52:19 2016]  Item: 0 weapon_bryar_pistol
+[Wed Nov 02 15:52:19 2016]  Item: 0 weapon_melee
+[Wed Nov 02 15:52:19 2016]  Item: 0 weapon_stun_baton
+[Wed Nov 02 15:57:42 2016]  Item: 0 ammo_all
+[Wed Nov 02 15:57:42 2016]  Item: 0 ammo_rockets
+[Wed Nov 02 15:57:42 2016]  Item: 0 ammo_detpack
+[Wed Nov 02 15:57:42 2016]  Item: 0 ammo_tripmine
+[Wed Nov 02 15:57:42 2016]  Item: 0 ammo_thermal
+[Wed Nov 02 15:57:42 2016]  Item: 0 item_ysalimari
+[Wed Nov 02 15:58:14 2016]  Item: 0 ammo_all
+[Wed Nov 02 15:58:14 2016]  Item: 0 ammo_rockets
+[Wed Nov 02 15:58:14 2016]  Item: 0 ammo_detpack
+[Wed Nov 02 15:58:14 2016]  Item: 0 ammo_tripmine
+[Wed Nov 02 15:58:14 2016]  Item: 0 ammo_thermal
+[Wed Nov 02 15:58:14 2016]  Item: 0 item_ysalimari
+[Wed Nov 02 15:58:36 2016]  Item: 0 ammo_all
+[Wed Nov 02 15:58:36 2016]  Item: 0 ammo_rockets
+[Wed Nov 02 15:58:36 2016]  Item: 0 ammo_detpack
+[Wed Nov 02 15:58:36 2016]  Item: 0 ammo_tripmine
+[Wed Nov 02 15:58:36 2016]  Item: 0 item_ysalimari
+[Wed Nov 02 15:58:54 2016]  Item: 0 ammo_all
+[Wed Nov 02 15:58:54 2016]  Item: 0 item_ysalimari
+[Wed Nov 02 15:58:58 2016]  Item: 0 ammo_all
+[Wed Nov 02 15:58:58 2016]  Item: 0 item_ysalimari
+[Wed Nov 02 16:09:15 2016]  Item: 0 ammo_all
+[Wed Nov 02 16:28:48 2016]  Kill: 0 0 36: GreyJedi killed GreyJedi by MOD_CRUSH
+[Wed Nov 02 16:29:01 2016]  Item: 0 ammo_all
+[Wed Nov 02 16:29:01 2016]  Item: 0 ammo_rockets
+[Wed Nov 02 16:29:01 2016]  Item: 0 ammo_metallic_bolts
+[Wed Nov 02 16:29:01 2016]  Item: 0 ammo_powercell
+[Wed Nov 02 16:29:01 2016]  Item: 0 ammo_blaster
+[Wed Nov 02 16:29:01 2016]  Item: 0 ammo_force
+[Wed Nov 02 16:29:01 2016]  Item: 0 ammo_detpack
+[Wed Nov 02 16:29:01 2016]  Item: 0 ammo_tripmine
+[Wed Nov 02 16:29:01 2016]  Item: 0 ammo_thermal
+[Wed Nov 02 16:29:01 2016]  Item: 0 item_ysalimari
+[Wed Nov 02 16:29:01 2016]  Item: 0 item_cloak
+[Wed Nov 02 16:29:01 2016]  Item: 0 item_eweb_holdable
+[Wed Nov 02 16:29:01 2016]  Item: 0 item_ammodisp
+[Wed Nov 02 16:29:01 2016]  Item: 0 item_healthdisp
+[Wed Nov 02 16:29:01 2016]  Item: 0 item_jetpack
+[Wed Nov 02 16:29:01 2016]  Item: 0 item_sentry_gun
+[Wed Nov 02 16:29:01 2016]  Item: 0 item_binoculars
+[Wed Nov 02 16:29:01 2016]  Item: 0 item_medpac_big
+[Wed Nov 02 16:29:01 2016]  Item: 0 item_medpac
+[Wed Nov 02 16:29:01 2016]  Item: 0 item_shield
+[Wed Nov 02 16:29:01 2016]  Item: 0 item_seeker
+[Wed Nov 02 16:29:01 2016]  Item: 0 weapon_demp2
+[Wed Nov 02 16:29:01 2016]  Item: 0 weapon_flechette
+[Wed Nov 02 16:29:01 2016]  Item: 0 weapon_rocket_launcher
+[Wed Nov 02 16:29:01 2016]  Item: 0 weapon_repeater
+[Wed Nov 02 16:29:01 2016]  Item: 0 weapon_bowcaster
+[Wed Nov 02 16:29:01 2016]  Item: 0 weapon_disruptor
+[Wed Nov 02 16:29:01 2016]  Item: 0 weapon_blaster
+[Wed Nov 02 16:29:01 2016]  Item: 0 weapon_concussion_rifle
+[Wed Nov 02 16:29:01 2016]  Item: 0 weapon_bryar_pistol
+[Wed Nov 02 16:29:01 2016]  Item: 0 weapon_melee
+[Wed Nov 02 16:29:01 2016]  Item: 0 weapon_stun_baton
+[Wed Nov 02 16:29:59 2016]  Item: 0 ammo_all
+[Wed Nov 02 16:29:59 2016]  Item: 0 ammo_rockets
+[Wed Nov 02 16:29:59 2016]  Item: 0 ammo_detpack
+[Wed Nov 02 16:29:59 2016]  Item: 0 ammo_tripmine
+[Wed Nov 02 16:29:59 2016]  Item: 0 ammo_thermal
+[Wed Nov 02 16:29:59 2016]  Item: 0 item_ysalimari
+[Wed Nov 02 16:32:40 2016]  Item: 0 ammo_all
+[Wed Nov 02 16:32:40 2016]  Item: 0 ammo_rockets
+[Wed Nov 02 16:32:40 2016]  Item: 0 ammo_detpack
+[Wed Nov 02 16:32:40 2016]  Item: 0 ammo_tripmine
+[Wed Nov 02 16:32:40 2016]  Item: 0 ammo_thermal
+[Wed Nov 02 16:32:40 2016]  Item: 0 item_ysalimari
+[Wed Nov 02 16:34:06 2016]  ClientConnect: 1
+[Wed Nov 02 16:34:06 2016]  mlog:Player Darth Revan, connected. With IP - 31.13.144.10:17784 
+[Wed Nov 02 16:34:38 2016]  ClientBegin: 1
+[Wed Nov 02 16:35:13 2016]  say: PACKAC: mm
+[Wed Nov 02 16:35:14 2016]  Kill: 1 1 39: PACKAC killed PACKAC by MOD_SUICIDE
+[Wed Nov 02 16:35:29 2016]  say: GreyJedi: b,j ytabu [)
+[Wed Nov 02 16:35:36 2016]  say: GreyJedi: ибо нефиг х)
+[Wed Nov 02 16:35:44 2016]  say: PACKAC: ?
+[Wed Nov 02 16:36:14 2016]  say: PACKAC: скрипты
+[Wed Nov 02 16:36:14 2016]  say: GreyJedi: U ask'd  this huh x)
+[Wed Nov 02 16:36:22 2016]  say: GreyJedi: ага
+[Wed Nov 02 16:36:32 2016]  say: PACKAC: иди в бар
+[Wed Nov 02 16:36:48 2016]  say: GreyJedi: бар уже не тот
+[Wed Nov 02 16:36:54 2016]  say: PACKAC: лол
+[Wed Nov 02 16:37:08 2016]  Item: 1 ammo_all
+[Wed Nov 02 16:37:08 2016]  Item: 1 item_ysalimari
+[Wed Nov 02 16:37:08 2016]  Item: 0 ammo_rockets
+[Wed Nov 02 16:37:08 2016]  Item: 0 ammo_detpack
+[Wed Nov 02 16:37:08 2016]  Item: 0 ammo_tripmine
+[Wed Nov 02 16:37:08 2016]  Item: 0 item_force_boon
+[Wed Nov 02 16:37:08 2016]  Item: 0 item_force_enlighten_light
+[Wed Nov 02 16:37:20 2016]  say: PACKAC: ysalamiri
+[Wed Nov 02 16:38:00 2016]  say: GreyJedi: уже лучше, хотя...)
+[Wed Nov 02 16:38:35 2016]  say: PACKAC: таракан щас раздовлю)
+[Wed Nov 02 16:39:38 2016]  say: PACKAC: ладно я пойду) оту лаги
+[Wed Nov 02 16:39:53 2016]  say: PACKAC: довай пока
+[Wed Nov 02 16:39:55 2016]  ClientDisconnect: 1
+[Wed Nov 02 16:39:57 2016]  say: GreyJedi: bb
+[Wed Nov 02 17:30:50 2016]  Item: 0 ammo_all
+[Wed Nov 02 17:30:50 2016]  Item: 0 item_ysalimari
+[Wed Nov 02 17:30:50 2016]  Item: 0 item_medpak_instant
+[Wed Nov 02 17:31:57 2016]  ClientDisconnect: 0
+[Wed Nov 02 17:32:15 2016]  ClientConnect: 0
+[Wed Nov 02 17:32:15 2016]  mlog:Player GreyJedi, connected. With IP - 46.0.121.143:29070 
+[Wed Nov 02 17:32:30 2016]  ClientBegin: 0
+[Wed Nov 02 17:33:02 2016]  Item: 0 ammo_all
+[Wed Nov 02 17:33:02 2016]  Item: 0 ammo_rockets
+[Wed Nov 02 17:33:02 2016]  Item: 0 ammo_metallic_bolts
+[Wed Nov 02 17:33:02 2016]  Item: 0 ammo_powercell
+[Wed Nov 02 17:33:02 2016]  Item: 0 ammo_blaster
+[Wed Nov 02 17:33:02 2016]  Item: 0 ammo_force
+[Wed Nov 02 17:33:02 2016]  Item: 0 ammo_detpack
+[Wed Nov 02 17:33:02 2016]  Item: 0 ammo_tripmine
+[Wed Nov 02 17:33:02 2016]  Item: 0 ammo_thermal
+[Wed Nov 02 17:33:02 2016]  Item: 0 item_ysalimari
+[Wed Nov 02 17:33:02 2016]  Item: 0 item_cloak
+[Wed Nov 02 17:33:02 2016]  Item: 0 item_eweb_holdable
+[Wed Nov 02 17:33:02 2016]  Item: 0 item_ammodisp
+[Wed Nov 02 17:33:02 2016]  Item: 0 item_healthdisp
+[Wed Nov 02 17:33:02 2016]  Item: 0 item_jetpack
+[Wed Nov 02 17:33:02 2016]  Item: 0 item_sentry_gun
+[Wed Nov 02 17:33:02 2016]  Item: 0 item_binoculars
+[Wed Nov 02 17:33:02 2016]  Item: 0 item_medpac_big
+[Wed Nov 02 17:33:02 2016]  Item: 0 item_medpac
+[Wed Nov 02 17:33:02 2016]  Item: 0 item_shield
+[Wed Nov 02 17:33:02 2016]  Item: 0 item_seeker
+[Wed Nov 02 17:33:02 2016]  Item: 0 item_shield_lrg_instant
+[Wed Nov 02 17:33:02 2016]  Item: 0 weapon_demp2
+[Wed Nov 02 17:33:02 2016]  Item: 0 weapon_flechette
+[Wed Nov 02 17:33:02 2016]  Item: 0 weapon_rocket_launcher
+[Wed Nov 02 17:33:02 2016]  Item: 0 weapon_repeater
+[Wed Nov 02 17:33:02 2016]  Item: 0 weapon_bowcaster
+[Wed Nov 02 17:33:02 2016]  Item: 0 weapon_disruptor
+[Wed Nov 02 17:33:02 2016]  Item: 0 weapon_blaster
+[Wed Nov 02 17:33:02 2016]  Item: 0 weapon_concussion_rifle
+[Wed Nov 02 17:33:02 2016]  Item: 0 weapon_bryar_pistol
+[Wed Nov 02 17:33:02 2016]  Item: 0 weapon_melee
+[Wed Nov 02 17:33:02 2016]  Item: 0 weapon_stun_baton
+[Wed Nov 02 17:40:28 2016]  ClientDisconnect: 0
+[Wed Nov 02 17:53:01 2016]  ClientConnect: 0
+[Wed Nov 02 17:53:01 2016]  mlog:Player GreyJedi, connected. With IP - 46.0.121.143:29070 
+[Wed Nov 02 17:53:33 2016]  ClientBegin: 0
+[Wed Nov 02 18:05:55 2016]  print "GreyJedi^7 @@@PLRENAME Greyjedi
+"[Wed Nov 02 18:12:03 2016]  say: Greyjedi: mempower
+[Wed Nov 02 18:32:06 2016]  ClientDisconnect: 0
+[Thu Nov 03 11:14:41 2016]  ClientConnect: 0
+[Thu Nov 03 11:14:41 2016]  mlog:Player Greyjedi, connected. With IP - 5.164.175.226:29070 
+[Thu Nov 03 11:15:18 2016]  ClientBegin: 0
+[Thu Nov 03 11:34:21 2016]  Kill: 0 0 39: Greyjedi killed Greyjedi by MOD_SUICIDE
+[Thu Nov 03 11:34:41 2016]  Kill: 0 0 39: Greyjedi killed Greyjedi by MOD_SUICIDE
+[Thu Nov 03 11:35:12 2016]  Kill: 0 0 39: Greyjedi killed Greyjedi by MOD_SUICIDE
+[Thu Nov 03 11:36:23 2016]  Kill: 0 0 39: Greyjedi killed Greyjedi by MOD_SUICIDE
+[Thu Nov 03 11:36:31 2016]  Item: 0 ammo_all
+[Thu Nov 03 11:36:31 2016]  Item: 0 ammo_rockets
+[Thu Nov 03 11:36:31 2016]  Item: 0 ammo_metallic_bolts
+[Thu Nov 03 11:36:31 2016]  Item: 0 ammo_powercell
+[Thu Nov 03 11:36:31 2016]  Item: 0 ammo_blaster
+[Thu Nov 03 11:36:31 2016]  Item: 0 ammo_force
+[Thu Nov 03 11:36:31 2016]  Item: 0 ammo_detpack
+[Thu Nov 03 11:36:31 2016]  Item: 0 ammo_tripmine
+[Thu Nov 03 11:36:31 2016]  Item: 0 ammo_thermal
+[Thu Nov 03 11:36:31 2016]  Item: 0 item_ysalimari
+[Thu Nov 03 11:36:31 2016]  Item: 0 item_cloak
+[Thu Nov 03 11:36:31 2016]  Item: 0 item_eweb_holdable
+[Thu Nov 03 11:36:31 2016]  Item: 0 item_ammodisp
+[Thu Nov 03 11:36:31 2016]  Item: 0 item_healthdisp
+[Thu Nov 03 11:36:31 2016]  Item: 0 item_jetpack
+[Thu Nov 03 11:36:31 2016]  Item: 0 item_sentry_gun
+[Thu Nov 03 11:36:31 2016]  Item: 0 item_binoculars
+[Thu Nov 03 11:36:31 2016]  Item: 0 item_medpac_big
+[Thu Nov 03 11:36:31 2016]  Item: 0 item_medpac
+[Thu Nov 03 11:36:31 2016]  Item: 0 item_shield
+[Thu Nov 03 11:36:31 2016]  Item: 0 item_seeker
+[Thu Nov 03 11:36:31 2016]  Item: 0 item_shield_lrg_instant
+[Thu Nov 03 11:36:31 2016]  Item: 0 weapon_demp2
+[Thu Nov 03 11:36:31 2016]  Item: 0 weapon_flechette
+[Thu Nov 03 11:36:31 2016]  Item: 0 weapon_rocket_launcher
+[Thu Nov 03 11:36:31 2016]  Item: 0 weapon_repeater
+[Thu Nov 03 11:36:31 2016]  Item: 0 weapon_bowcaster
+[Thu Nov 03 11:36:31 2016]  Item: 0 weapon_disruptor
+[Thu Nov 03 11:36:31 2016]  Item: 0 weapon_blaster
+[Thu Nov 03 11:36:31 2016]  Item: 0 weapon_concussion_rifle
+[Thu Nov 03 11:36:31 2016]  Item: 0 weapon_bryar_pistol
+[Thu Nov 03 11:36:31 2016]  Item: 0 weapon_melee
+[Thu Nov 03 11:36:31 2016]  Item: 0 weapon_stun_baton
+[Thu Nov 03 11:40:05 2016]  say: Greyjedi: (rand())
+[Thu Nov 03 11:54:20 2016]  print "Greyjedi^7 @@@PLRENAME GreyJedi
+"[Thu Nov 03 11:55:32 2016]  Kill: 0 0 39: GreyJedi killed GreyJedi by MOD_SUICIDE
+[Thu Nov 03 12:09:55 2016]  ClientDisconnect: 0
+[Thu Nov 03 12:11:29 2016]  ClientConnect: 0
+[Thu Nov 03 12:11:29 2016]  mlog:Player GreyJedi, connected. With IP - 5.164.175.226:29070 
+[Thu Nov 03 12:12:00 2016]  ClientBegin: 0
+[Thu Nov 03 12:12:12 2016]  Kill: 1022 0 3: <world> killed GreyJedi by MOD_SABER
+[Thu Nov 03 12:14:38 2016]  ClientDisconnect: 0
+[Thu Nov 03 12:15:24 2016]  ClientConnect: 0
+[Thu Nov 03 12:15:24 2016]  mlog:Player GreyJedi, connected. With IP - 5.164.175.226:29070 
+[Thu Nov 03 12:15:55 2016]  ClientBegin: 0
+[Thu Nov 03 12:33:50 2016]  Item: 0 ammo_all
+[Thu Nov 03 12:53:09 2016]  Item: 0 ammo_all
+[Thu Nov 03 13:18:44 2016]  Kill: 1022 0 0: <world> killed GreyJedi by MOD_UNKNOWN
+[Thu Nov 03 13:19:00 2016]  Kill: 0 0 36: GreyJedi killed GreyJedi by MOD_CRUSH
+[Thu Nov 03 13:20:24 2016]  say: GreyJedi: .
+[Thu Nov 03 13:21:28 2016]  say: GreyJedi: WARNING: ORBITAL KILLER DRONE DETECTED!
+[Thu Nov 03 13:21:54 2016]  say: GreyJedi: WARNING: ORBITAL KILLER DRONE DETECTED!
+[Thu Nov 03 13:23:55 2016]  say: GreyJedi: WARNING: ORBITAL KILLER DRONE DETECTED!
+[Thu Nov 03 13:24:11 2016]  say: GreyJedi: WARNING: ORBITAL KILLER DRONE DETECTED!
+[Thu Nov 03 13:27:29 2016]  Kill: 1022 0 38: <world> killed GreyJedi by MOD_FALLING
+[Thu Nov 03 13:33:46 2016]  say: GreyJedi: ^1particle cannon
+[Thu Nov 03 13:34:05 2016]  say: GreyJedi: ^1particle cannon
+[Thu Nov 03 14:05:36 2016]  say: GreyJedi: WARNING: ORBITAL KILLER DRONE DETECTED!
+[Thu Nov 03 14:05:59 2016]  say: GreyJedi: WARNING: ORBITAL KILLER DRONE DETECTED!
+[Thu Nov 03 14:08:15 2016]  ClientConnect: 1
+[Thu Nov 03 14:08:15 2016]  mlog:Player ^2Republic_^4Scum, connected. With IP - 92.243.167.169:-18634 
+[Thu Nov 03 14:09:20 2016]  ClientBegin: 1
+[Thu Nov 03 14:12:07 2016]  ClientDisconnect: 0
+[Thu Nov 03 14:12:07 2016]  ClientDisconnect: 1
+[Thu Nov 03 14:12:18 2016]  ClientConnect: 0
+[Thu Nov 03 14:12:18 2016]  mlog:Player GreyJedi, connected. With IP - 5.164.175.226:29070 
+[Thu Nov 03 14:12:34 2016]  ClientBegin: 0
+[Thu Nov 03 14:12:43 2016]  Item: 0 ammo_all
+[Thu Nov 03 14:12:43 2016]  Item: 0 ammo_rockets
+[Thu Nov 03 14:12:43 2016]  Item: 0 ammo_metallic_bolts
+[Thu Nov 03 14:12:43 2016]  Item: 0 ammo_powercell
+[Thu Nov 03 14:12:43 2016]  Item: 0 ammo_blaster
+[Thu Nov 03 14:12:43 2016]  Item: 0 ammo_force
+[Thu Nov 03 14:12:43 2016]  Item: 0 ammo_detpack
+[Thu Nov 03 14:12:43 2016]  Item: 0 ammo_tripmine
+[Thu Nov 03 14:12:43 2016]  Item: 0 ammo_thermal
+[Thu Nov 03 14:12:43 2016]  Item: 0 item_ysalimari
+[Thu Nov 03 14:12:43 2016]  Item: 0 item_cloak
+[Thu Nov 03 14:12:43 2016]  Item: 0 item_eweb_holdable
+[Thu Nov 03 14:12:43 2016]  Item: 0 item_ammodisp
+[Thu Nov 03 14:12:43 2016]  Item: 0 item_healthdisp
+[Thu Nov 03 14:12:43 2016]  Item: 0 item_jetpack
+[Thu Nov 03 14:12:43 2016]  Item: 0 item_sentry_gun
+[Thu Nov 03 14:12:43 2016]  Item: 0 item_binoculars
+[Thu Nov 03 14:12:43 2016]  Item: 0 item_medpac_big
+[Thu Nov 03 14:12:43 2016]  Item: 0 item_medpac
+[Thu Nov 03 14:12:43 2016]  Item: 0 item_shield
+[Thu Nov 03 14:12:43 2016]  Item: 0 item_seeker
+[Thu Nov 03 14:12:43 2016]  Item: 0 item_shield_lrg_instant
+[Thu Nov 03 14:12:43 2016]  Item: 0 weapon_demp2
+[Thu Nov 03 14:12:43 2016]  Item: 0 weapon_flechette
+[Thu Nov 03 14:12:43 2016]  Item: 0 weapon_rocket_launcher
+[Thu Nov 03 14:12:43 2016]  Item: 0 weapon_repeater
+[Thu Nov 03 14:12:43 2016]  Item: 0 weapon_bowcaster
+[Thu Nov 03 14:12:43 2016]  Item: 0 weapon_disruptor
+[Thu Nov 03 14:12:43 2016]  Item: 0 weapon_blaster
+[Thu Nov 03 14:12:43 2016]  Item: 0 weapon_concussion_rifle
+[Thu Nov 03 14:12:43 2016]  Item: 0 weapon_bryar_pistol
+[Thu Nov 03 14:12:43 2016]  Item: 0 weapon_melee
+[Thu Nov 03 14:12:43 2016]  Item: 0 weapon_stun_baton
+[Thu Nov 03 14:20:49 2016]  ClientConnect: 1
+[Thu Nov 03 14:20:49 2016]  mlog:Player ^2Republic_^4Scum, connected. With IP - 92.243.167.169:-7169 
+[Thu Nov 03 14:21:58 2016]  ClientBegin: 1
+[Thu Nov 03 14:22:23 2016]  ClientDisconnect: 0
+[Thu Nov 03 14:29:35 2016]  print "^2Republic_^4Scum^7 @@@PLRENAME ^0|^3TFR^0|^3'WaR^0KuS^3
+"[Thu Nov 03 14:29:57 2016]  print "^0|^3TFR^0|^3'WaR^0KuS^3^7 @@@PLRENAME ^2Republic_^4Scum
+"[Thu Nov 03 14:34:33 2016]  say: ^2Republic_^4Scum: ^1Chaos rewards those who... kill in it's name.
+[Thu Nov 03 14:34:34 2016]  Item: 1 weapon_melee
+[Thu Nov 03 14:34:34 2016]  say: ^2Republic_^4Scum: ^1Chaos Sorcerer ^0script by ^0D^3arth ^0F^3urious
+[Thu Nov 03 14:35:55 2016]  say: ^2Republic_^4Scum: ^0Battle ^4Sorcerer ^0V^42 by ^0D^3arth ^0F^3urious
+[Thu Nov 03 14:38:44 2016]  print "^2Republic_^4Scum^7 @@@PLRENAME ^0Darth ^1Slayer
+"[Thu Nov 03 14:39:09 2016]  ClientDisconnect: 1
+[Thu Nov 03 14:48:30 2016]  ClientConnect: 0
+[Thu Nov 03 14:48:30 2016]  mlog:Player Padawan, connected. With IP - 31.173.243.119:6197 
+[Thu Nov 03 14:51:52 2016]  ClientDisconnect: 0
+[Thu Nov 03 14:51:52 2016]  ClientConnect: 0
+[Thu Nov 03 14:51:52 2016]  mlog:Player Padawan, connected. With IP - 77.43.219.2:29070 
+[Thu Nov 03 14:52:24 2016]  ClientBegin: 0
+[Thu Nov 03 14:54:10 2016]  ClientDisconnect: 0
+[Thu Nov 03 17:27:02 2016]  ClientConnect: 0
+[Thu Nov 03 17:27:02 2016]  mlog:Player GreyJedi, connected. With IP - 5.164.175.226:29070 
+[Thu Nov 03 17:27:18 2016]  ClientBegin: 0
+[Thu Nov 03 17:27:54 2016]  ClientDisconnect: 0
+[Thu Nov 03 17:55:32 2016]  ClientConnect: 0
+[Thu Nov 03 17:55:32 2016]  mlog:Player ^2^2^2^9^9|EK|^3LordW[App], connected. With IP - 217.21.26.119:29070 
+[Thu Nov 03 17:56:48 2016]  ClientBegin: 0
+[Thu Nov 03 17:57:13 2016]  print "^2^2^2^9^9|EK|^3LordW[App]^7 @@@PLRENAME ^2Jawa Paradicsom
+"[Thu Nov 03 17:59:29 2016]  ClientDisconnect: 0
+[Thu Nov 03 20:27:04 2016]  ClientConnect: 0
+[Thu Nov 03 20:27:04 2016]  mlog:Player [TFR]DarthMalak[JK], connected. With IP - 77.43.219.2:29070 
+[Thu Nov 03 20:27:24 2016]  ClientBegin: 0
+[Thu Nov 03 20:27:36 2016]  say: [TFR]DarthMalak[JK]: ^9S^8W^6OO^4P ^1by [TFR] ^8Darth ^9Malak
+[Thu Nov 03 20:27:39 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:27:46 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:27:48 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:27:51 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:27:56 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:27:58 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:28:02 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:28:03 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:28:07 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:28:09 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:28:11 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:28:13 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:28:15 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:28:20 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:28:41 2016]  Kill: 1022 0 2: <world> killed [TFR]DarthMalak[JK] by MOD_MELEE
+[Thu Nov 03 20:30:19 2016]  say: [TFR]DarthMalak[JK]: ^9S^8W^6OO^4P ^1by [TFR] ^8Darth ^9Malak
+[Thu Nov 03 20:30:21 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:30:23 2016]  say: [TFR]DarthMalak[JK]: ^9X^8-^6w^4i^5n^3g ^1by [TFR] ^8Darth ^9Malak
+[Thu Nov 03 20:30:24 2016]  say: [TFR]DarthMalak[JK]: ^9X^8-^6w^4i^5n^3g ^1by [TFR] ^8Darth ^9Malak
+[Thu Nov 03 20:30:32 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:30:36 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:30:38 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:30:39 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:30:41 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:30:43 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:30:44 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:30:47 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:30:49 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:30:52 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:31:02 2016]  say: [TFR]DarthMalak[JK]: ^1Он ^8сам ^9умер ^4не ^9трогайте ^5суки^3!!!!
+[Thu Nov 03 20:31:15 2016]  ClientDisconnect: 0
+[Fri Nov 04 21:40:20 2016]  ClientConnect: 0
+[Fri Nov 04 21:40:20 2016]  mlog:Player ^1M^7r. ^1D^7innertime, connected. With IP - 109.159.187.205:29070 
+[Fri Nov 04 21:40:53 2016]  ClientBegin: 0
+[Fri Nov 04 21:44:11 2016]  ClientDisconnect: 0
+[Sat Nov 05 09:01:40 2016]  ClientConnect: 0
+[Sat Nov 05 09:01:40 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 93.185.30.179:10472 
+[Sat Nov 05 09:02:03 2016]  ClientBegin: 0
+[Sat Nov 05 09:02:09 2016]  Item: 0 weapon_melee
+[Sat Nov 05 09:02:28 2016]  ClientDisconnect: 0
+[Sun Nov 06 11:09:20 2016]  ClientConnect: 0
+[Sun Nov 06 11:09:20 2016]  mlog:Player ^1Dark^3Sorceress, connected. With IP - 46.0.21.231:29070 
+[Sun Nov 06 11:09:45 2016]  ClientBegin: 0
+[Sun Nov 06 11:10:11 2016]  ClientDisconnect: 0
+[Sun Nov 06 13:16:50 2016]  ClientConnect: 0
+[Sun Nov 06 13:16:50 2016]  mlog:Player Padawan, connected. With IP - 31.173.241.81:-14689 
+[Sun Nov 06 13:17:51 2016]  ClientBegin: 0
+[Sun Nov 06 13:18:51 2016]  print "^1Dekka^2_^4Fade^7 @@@PLRENAME ^1Lich
+"[Sun Nov 06 13:18:59 2016]  Kill: 0 0 39: ^1Lich killed ^1Lich by MOD_SUICIDE
+[Sun Nov 06 13:19:28 2016]  ClientDisconnect: 0
+[Sun Nov 06 13:19:50 2016]  ClientConnect: 0
+[Sun Nov 06 13:19:50 2016]  mlog:Player ^1Lich, connected. With IP - 31.173.241.81:-14689 
+[Sun Nov 06 13:20:12 2016]  ClientBegin: 0
+[Sun Nov 06 13:23:57 2016]  ClientDisconnect: 0
+[Sun Nov 06 21:11:37 2016]  ClientConnect: 0
+[Sun Nov 06 21:11:37 2016]  mlog:Player ^1(^2JAWA^1)^3CounciI^7Helena Revan, connected. With IP - 176.14.50.55:29070 
+[Sun Nov 06 21:12:15 2016]  ClientBegin: 0
+[Sun Nov 06 21:12:37 2016]  say: Destroyed: 2 slow
+[Sun Nov 06 21:12:38 2016]  say: Destroyed: toro
+[Sun Nov 06 21:14:08 2016]  say: Destroyed: toro
+[Sun Nov 06 21:14:08 2016]  say: Destroyed: toro
+[Sun Nov 06 21:14:12 2016]  ClientDisconnect: 0
+[Sun Nov 06 21:58:25 2016]  ClientConnect: 0
+[Sun Nov 06 21:58:25 2016]  mlog:Player Padawan, connected. With IP - 68.4.90.67:29070 
+[Sun Nov 06 21:58:52 2016]  ClientBegin: 0
+[Sun Nov 06 21:59:05 2016]  print "Padawan^7 @@@PLRENAME ^1DewElr
+"[Sun Nov 06 22:03:19 2016]  ClientDisconnect: 0
+[Sun Nov 06 22:05:38 2016]  ClientConnect: 0
+[Sun Nov 06 22:05:38 2016]  mlog:Player Padawan, connected. With IP - 68.4.90.67:29070 
+[Sun Nov 06 22:06:05 2016]  ClientBegin: 0
+[Sun Nov 06 22:06:40 2016]  ClientDisconnect: 0
+[Sun Nov 06 22:06:53 2016]  ClientConnect: 0
+[Sun Nov 06 22:06:53 2016]  mlog:Player ^1DewElr, connected. With IP - 68.4.90.67:29070 
+[Sun Nov 06 22:07:18 2016]  ClientBegin: 0
+[Sun Nov 06 22:20:28 2016]  say: ^1DewElr: mgrab
+[Sun Nov 06 22:26:04 2016]  ClientConnect: 1
+[Sun Nov 06 22:26:04 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 93.185.30.135:-17128 
+[Sun Nov 06 22:26:44 2016]  ClientBegin: 1
+[Sun Nov 06 22:26:47 2016]  say: ^1DewElr: hello
+[Sun Nov 06 22:26:53 2016]  Item: 1 weapon_melee
+[Sun Nov 06 22:26:53 2016]  say: ^1DewElr: hello
+[Sun Nov 06 22:26:59 2016]  say: ^0Shadow^5seer: hi
+[Sun Nov 06 22:27:09 2016]  say: ^0Shadow^5seer: couldnt answer that fast
+[Sun Nov 06 22:27:21 2016]  say: ^1DewElr: its been a very very long time since i last play this game
+[Sun Nov 06 22:27:44 2016]  say: ^0Shadow^5seer: and this mod too i guess
+[Sun Nov 06 22:28:17 2016]  say: ^1DewElr: areu the owner?
+[Sun Nov 06 22:28:21 2016]  say: ^0Shadow^5seer: no
+[Sun Nov 06 22:28:30 2016]  say: ^1DewElr: oh
+[Sun Nov 06 22:28:41 2016]  say: ^0Shadow^5seer: did u see the letters on the spawn?
+[Sun Nov 06 22:28:50 2016]  say: ^1DewElr: um I think so
+[Sun Nov 06 22:28:54 2016]  say: ^0Shadow^5seer: Darkquake is the owner
+[Sun Nov 06 22:28:57 2016]  say: ^1DewElr: oh
+[Sun Nov 06 22:29:03 2016]  say: ^0Shadow^5seer: i just made mapobs for him
+[Sun Nov 06 22:29:09 2016]  say: ^1DewElr: oh
+[Sun Nov 06 22:29:14 2016]  say: ^1DewElr: come find me
+[Sun Nov 06 22:29:15 2016]  say: ^0Shadow^5seer: well most of them
+[Sun Nov 06 22:29:47 2016]  say: ^0Shadow^5seer: its gonna be hard if youre in noclip
+[Sun Nov 06 22:30:05 2016]  say: ^1DewElr: im at the place where the guy died by a sniper
+[Sun Nov 06 22:30:19 2016]  say: ^0Shadow^5seer: dunno where it is
+[Sun Nov 06 22:30:29 2016]  say: ^1DewElr: go back to entracne ill take you there
+[Sun Nov 06 22:30:40 2016]  say: ^1DewElr: lets gi
+[Sun Nov 06 22:30:53 2016]  say: ^0Shadow^5seer: you could just give me the origin
+[Sun Nov 06 22:31:00 2016]  say: ^1DewElr: i forgot how to do that command 
+[Sun Nov 06 22:31:08 2016]  say: ^0Shadow^5seer: /msayorigin
+[Sun Nov 06 22:31:12 2016]  say: ^1DewElr: thx
+[Sun Nov 06 22:31:20 2016]  say: ^1DewElr: /msayorigin
+[Sun Nov 06 22:31:23 2016]  say: ^1DewElr: My origin is: (-18252 -5647 1692) - You can teleport here with /mtelelast
+
+[Sun Nov 06 22:31:35 2016]  say: ^1DewElr: i always come here to make bars
+[Sun Nov 06 22:31:41 2016]  say: ^0Shadow^5seer: nice)
+[Sun Nov 06 22:31:44 2016]  say: ^1DewElr: how do i spin this
+[Sun Nov 06 22:31:54 2016]  say: ^0Shadow^5seer: i remember the times most of servers had them
+[Sun Nov 06 22:32:03 2016]  say: ^0Shadow^5seer: /mrotating
+[Sun Nov 06 22:32:08 2016]  say: ^1DewElr: oh yeah
+[Sun Nov 06 22:32:24 2016]  say: ^0Shadow^5seer: by the way i still have a bar on my own server
+[Sun Nov 06 22:32:38 2016]  say: ^0Shadow^5seer: a wrong object)
+[Sun Nov 06 22:32:44 2016]  say: ^1DewElr: lol yup
+[Sun Nov 06 22:32:53 2016]  say: ^1DewElr: is it /mmark
+[Sun Nov 06 22:33:04 2016]  say: ^0Shadow^5seer: /mselect
+[Sun Nov 06 22:33:23 2016]  say: ^0Shadow^5seer: 0 number 0
+[Sun Nov 06 22:33:32 2016]  say: ^1DewElr: thx
+[Sun Nov 06 22:33:48 2016]  say: ^1DewElr: how do i turn this thing to a door
+[Sun Nov 06 22:34:01 2016]  say: ^0Shadow^5seer: /mplatform 
+[Sun Nov 06 22:34:08 2016]  say: ^0Shadow^5seer: and a number
+[Sun Nov 06 22:34:19 2016]  say: ^0Shadow^5seer: 100 or 200
+[Sun Nov 06 22:34:25 2016]  say: ^0Shadow^5seer: or smth between
+[Sun Nov 06 22:34:35 2016]  say: ^0Shadow^5seer: and musable ofcourse
+[Sun Nov 06 22:34:37 2016]  say: ^1DewElr: ok but i want to use like a use button to open it
+[Sun Nov 06 22:34:48 2016]  say: ^0Shadow^5seer: then /manme
+[Sun Nov 06 22:34:53 2016]  say: ^0Shadow^5seer: on the door
+[Sun Nov 06 22:34:59 2016]  say: ^1DewElr: ok
+[Sun Nov 06 22:35:01 2016]  say: ^0Shadow^5seer: /mname anything
+[Sun Nov 06 22:35:05 2016]  say: ^1DewElr: /msayorigin
+[Sun Nov 06 22:35:08 2016]  say: ^1DewElr: poops
+[Sun Nov 06 22:35:10 2016]  say: ^0Shadow^5seer: and then place a button
+[Sun Nov 06 22:35:32 2016]  say: ^1DewElr: crap
+[Sun Nov 06 22:35:44 2016]  say: ^0Shadow^5seer: /mgrabing
+[Sun Nov 06 22:35:51 2016]  say: ^0Shadow^5seer: /mgrabbing*
+[Sun Nov 06 22:36:14 2016]  say: ^0Shadow^5seer: doesnt seem like a button but ok
+[Sun Nov 06 22:36:21 2016]  say: ^1DewElr: its just an example
+[Sun Nov 06 22:36:23 2016]  say: ^0Shadow^5seer: /musable
+[Sun Nov 06 22:36:40 2016]  say: ^1DewElr: i thin its mwire
+[Sun Nov 06 22:36:40 2016]  say: ^0Shadow^5seer: and /mconnectto the name you gave to the door
+[Sun Nov 06 22:37:00 2016]  say: ^1DewElr: kool
+[Sun Nov 06 22:37:17 2016]  say: ^0Shadow^5seer: i suspect u do speak russian
+[Sun Nov 06 22:37:22 2016]  say: ^1DewElr: no
+[Sun Nov 06 22:37:27 2016]  say: ^1DewElr: i only speak englihs
+[Sun Nov 06 22:37:28 2016]  say: ^0Shadow^5seer: oh, ok
+[Sun Nov 06 22:37:37 2016]  say: ^1DewElr: its just my keyboard is shit
+[Sun Nov 06 22:38:10 2016]  say: ^0Shadow^5seer: you cant connect another button to the same door
+[Sun Nov 06 22:38:28 2016]  say: ^1DewElr: crap
+[Sun Nov 06 22:38:41 2016]  say: ^0Shadow^5seer: thats why it would be better without a button at all
+[Sun Nov 06 22:38:53 2016]  say: ^1DewElr: how about teleportation
+[Sun Nov 06 22:38:59 2016]  say: ^0Shadow^5seer: and id make it move higher
+[Sun Nov 06 22:39:13 2016]  say: ^0Shadow^5seer: how about just a door without a button
+[Sun Nov 06 22:39:17 2016]  say: ^1DewElr: ok
+[Sun Nov 06 22:39:23 2016]  say: ^0Shadow^5seer: make a door /musable
+[Sun Nov 06 22:39:50 2016]  say: ^1DewElr: is there /mcopy
+[Sun Nov 06 22:39:55 2016]  say: ^0Shadow^5seer: no
+[Sun Nov 06 22:39:59 2016]  say: ^1DewElr: they should add that
+[Sun Nov 06 22:40:07 2016]  say: ^0Shadow^5seer: they wont now
+[Sun Nov 06 22:40:12 2016]  say: ^1DewElr: in future updates
+[Sun Nov 06 22:40:20 2016]  say: ^0Shadow^5seer: there wont be any
+[Sun Nov 06 22:40:23 2016]  say: ^1DewElr: ahh
+[Sun Nov 06 22:40:32 2016]  say: ^1DewElr: but anyways how long you played this game
+[Sun Nov 06 22:40:56 2016]  say: ^0Shadow^5seer: this game? since 2008. this mod? since 2010
+[Sun Nov 06 22:41:16 2016]  say: ^1DewElr: i played the game since 2004 and i was only a kid. I was more into the story mode
+[Sun Nov 06 22:41:42 2016]  say: ^0Shadow^5seer: i meaned multiplayer
+[Sun Nov 06 22:41:46 2016]  say: ^1DewElr: oh
+[Sun Nov 06 22:41:59 2016]  say: ^0Shadow^5seer: i first played singleplayr when it was just out
+[Sun Nov 06 22:42:04 2016]  say: ^1DewElr: i remeber you can add NPC's through this mod is it ?mspawn
+[Sun Nov 06 22:42:13 2016]  say: ^0Shadow^5seer: place an object
+[Sun Nov 06 22:42:20 2016]  say: ^0Shadow^5seer: and make it /mspawner
+[Sun Nov 06 22:42:29 2016]  say: ^0Shadow^5seer: /mspawner npc alora
+[Sun Nov 06 22:42:43 2016]  say: ^0Shadow^5seer: or /mspawner vehicle tie_fighter
+[Sun Nov 06 22:42:51 2016]  say: ^0Shadow^5seer: tie-fighter*
+[Sun Nov 06 22:43:03 2016]  say: ^1DewElr: I wanted to put bartender
+[Sun Nov 06 22:43:09 2016]  say: ^0Shadow^5seer: then do it
+[Sun Nov 06 22:43:22 2016]  say: ^0Shadow^5seer: but he shall run all the time)
+[Sun Nov 06 22:43:28 2016]  say: ^1DewElr: crap
+[Sun Nov 06 22:43:39 2016]  say: ^0Shadow^5seer: a have jedi in my bar as bartenders
+[Sun Nov 06 22:43:49 2016]  say: ^1DewElr: ok
+[Sun Nov 06 22:43:54 2016]  say: ^0Shadow^5seer: also
+[Sun Nov 06 22:44:17 2016]  say: ^0Shadow^5seer: you can place that platform under ground and then change spawning destination
+[Sun Nov 06 22:44:22 2016]  say: ^1DewElr: ok
+[Sun Nov 06 22:44:36 2016]  say: ^0Shadow^5seer: and they look in the direction u looked when placed the platform
+[Sun Nov 06 22:44:50 2016]  say: ^0Shadow^5seer: step aside
+[Sun Nov 06 22:44:58 2016]  say: ^1DewElr: nice
+[Sun Nov 06 22:45:08 2016]  say: ^1DewElr: crap
+[Sun Nov 06 22:45:19 2016]  say: ^0Shadow^5seer: just remove the platform
+[Sun Nov 06 22:45:42 2016]  say: ^1DewElr: is that admin commands
+[Sun Nov 06 22:45:46 2016]  say: ^0Shadow^5seer: no
+[Sun Nov 06 22:45:56 2016]  say: ^1DewElr: how did u do it?
+[Sun Nov 06 22:46:01 2016]  say: ^1DewElr: plugins mod
+[Sun Nov 06 22:46:01 2016]  say: ^0Shadow^5seer: scripts made of simple makermod cmds
+[Sun Nov 06 22:46:04 2016]  say: ^1DewElr: oh
+[Sun Nov 06 22:46:31 2016]  say: ^1DewElr: fucl
+[Sun Nov 06 22:46:34 2016]  say: ^0Shadow^5seer: i just place fxs with /mpain and then remove them after some /wait
+[Sun Nov 06 22:46:45 2016]  ClientDisconnect: 1
+[Sun Nov 06 22:46:45 2016]  ClientDisconnect: 0
+[Sun Nov 06 22:46:51 2016]  ClientConnect: 0
+[Sun Nov 06 22:46:51 2016]  mlog:Player ^1DewElr, connected. With IP - 68.4.90.67:29070 
+[Sun Nov 06 22:46:56 2016]  ClientConnect: 1
+[Sun Nov 06 22:46:56 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 93.185.30.135:-17128 
+[Sun Nov 06 22:47:07 2016]  ClientBegin: 0
+[Sun Nov 06 22:47:12 2016]  ClientBegin: 1
+[Sun Nov 06 22:47:18 2016]  say: ^1DewElr: did u get an error
+[Sun Nov 06 22:47:19 2016]  Item: 1 weapon_melee
+[Sun Nov 06 22:47:25 2016]  say: ^0Shadow^5seer: ерфе цфы цушкв
+[Sun Nov 06 22:47:30 2016]  say: ^0Shadow^5seer: that was weird
+[Sun Nov 06 22:47:39 2016]  say: ^1DewElr: i got an error said something about MX exceeded
+[Sun Nov 06 22:47:43 2016]  ClientDisconnect: 1
+[Sun Nov 06 22:47:43 2016]  ClientDisconnect: 0
+[Sun Nov 06 22:47:47 2016]  ClientConnect: 0
+[Sun Nov 06 22:47:47 2016]  mlog:Player ^1DewElr, connected. With IP - 68.4.90.67:29070 
+[Sun Nov 06 22:47:52 2016]  ClientConnect: 1
+[Sun Nov 06 22:47:52 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 93.185.30.135:-17128 
+[Sun Nov 06 22:48:02 2016]  ClientBegin: 0
+[Sun Nov 06 22:48:09 2016]  ClientBegin: 1
+[Sun Nov 06 22:48:15 2016]  Item: 1 weapon_melee
+[Sun Nov 06 22:48:25 2016]  say: ^0Shadow^5seer: what. the. fuck.
+[Sun Nov 06 22:48:31 2016]  say: ^1DewElr: WTF
+[Sun Nov 06 22:48:33 2016]  say: ^0Shadow^5seer: my script crahes it
+[Sun Nov 06 22:48:37 2016]  say: ^1DewElr: oh
+[Sun Nov 06 22:48:41 2016]  say: ^0Shadow^5seer: it never did before
+[Sun Nov 06 22:48:44 2016]  say: ^1DewElr: uh oh
+[Sun Nov 06 22:48:51 2016]  say: ^0Shadow^5seer: lets try to restart
+[Sun Nov 06 22:48:57 2016]  say: ^1DewElr: restart?
+[Sun Nov 06 22:49:13 2016]  ShutdownGame:
+[Sun Nov 06 22:49:13 2016]  ------------------------------------------------------------

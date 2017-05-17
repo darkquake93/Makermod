@@ -1,0 +1,225 @@
+[Sun Feb 02 07:51:08 2014]  ------------------------------------------------------------
+[Sun Feb 02 07:51:08 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Feb 02 07:51:09 2014]  ClientConnect: 0
+[Sun Feb 02 07:51:26 2014]  ClientBegin: 0
+[Sun Feb 02 07:51:26 2014]  say: ^1U^0nDea^7D: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Feb 02 07:51:29 2014]  ClientDisconnect: 0
+[Sun Feb 02 07:51:29 2014]  ClientDisconnect: 0
+[Sun Feb 02 07:51:29 2014]  ClientConnect: 0
+[Sun Feb 02 07:51:29 2014]  mlog:Player ^1U^0nDea^7D, connected. With IP - 88.132.148.168:29070 
+[Sun Feb 02 07:51:38 2014]  ClientBegin: 0
+[Sun Feb 02 07:51:39 2014]  say: ^1U^0nDea^7D: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Feb 02 08:45:50 2014]  Kill: 1022 0 0: <world> killed ^1U^0nDea^7D by MOD_UNKNOWN
+[Sun Feb 02 08:56:30 2014]  Kill: 1022 0 0: <world> killed ^1U^0nDea^7D by MOD_UNKNOWN
+[Sun Feb 02 08:59:26 2014]  Kill: 1022 0 0: <world> killed ^1U^0nDea^7D by MOD_UNKNOWN
+[Sun Feb 02 09:00:19 2014]  Kill: 0 0 36: ^1U^0nDea^7D killed ^1U^0nDea^7D by MOD_CRUSH
+[Sun Feb 02 09:01:58 2014]  print "^1U^0nDea^7D^7 @@@PLRENAME ^4U^0nDea^5D
+"[Sun Feb 02 09:02:58 2014]  ClientDisconnect: 0
+[Sun Feb 02 09:51:06 2014]  Exit: Timelimit hit.
+[Sun Feb 02 16:13:42 2014]  ClientConnect: 0
+[Sun Feb 02 16:13:43 2014]  mlog:Player elgrito, connected. With IP - 85.55.171.198:29070 
+[Sun Feb 02 16:13:53 2014]  ClientBegin: 0
+[Sun Feb 02 16:14:04 2014]  ShutdownGame:
+[Sun Feb 02 16:14:04 2014]  ------------------------------------------------------------
+[Sun Feb 02 16:14:06 2014]  ------------------------------------------------------------
+[Sun Feb 02 16:14:06 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Feb 02 16:14:08 2014]  ClientConnect: 0
+[Sun Feb 02 16:14:14 2014]  ClientConnect: 1
+[Sun Feb 02 16:14:14 2014]  mlog:Player jandemor, connected. With IP - 87.221.63.89:29070 
+[Sun Feb 02 16:14:17 2014]  ClientDisconnect: 0
+[Sun Feb 02 16:14:27 2014]  ClientBegin: 1
+[Sun Feb 02 16:14:37 2014]  ClientConnect: 0
+[Sun Feb 02 16:14:37 2014]  mlog:Player Padawan, connected. With IP - 85.55.171.198:29070 
+[Sun Feb 02 16:14:43 2014]  ClientBegin: 0
+[Sun Feb 02 16:14:59 2014]  print "Padawan^7 @@@PLRENAME elgrito
+"[Sun Feb 02 16:16:16 2014]  print "Padawan^7 @@@PLRENAME Manuvikingoo
+"[Sun Feb 02 16:18:13 2014]  ClientConnect: 2
+[Sun Feb 02 16:18:13 2014]  mlog:Player Darth Mason, connected. With IP - 85.136.216.119:29070 
+[Sun Feb 02 16:18:20 2014]  Kill: 0 0 39: elgrito killed elgrito by MOD_SUICIDE
+[Sun Feb 02 16:18:20 2014]  setteam:  0 FREE SPECTATOR
+[Sun Feb 02 16:18:20 2014]  ClientBegin: 0
+[Sun Feb 02 16:18:26 2014]  setteam:  0 SPECTATOR FREE
+[Sun Feb 02 16:18:26 2014]  ClientBegin: 0
+[Sun Feb 02 16:18:35 2014]  ClientBegin: 2
+[Sun Feb 02 16:19:40 2014]  ClientConnect: 3
+[Sun Feb 02 16:19:40 2014]  mlog:Player ^0Darth ^1Javimetal, connected. With IP - 85.219.4.121:29070 
+[Sun Feb 02 16:20:07 2014]  ClientBegin: 3
+[Sun Feb 02 16:20:26 2014]  say: ^0Darth ^1Javimetal: que copjones?
+[Sun Feb 02 16:20:30 2014]  Kill: 2 0 3: Darth Mason killed elgrito by MOD_SABER
+[Sun Feb 02 16:20:46 2014]  Kill: 0 2 3: elgrito killed Darth Mason by MOD_SABER
+[Sun Feb 02 16:21:11 2014]  Kill: 3 1 36: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_CRUSH
+[Sun Feb 02 16:21:11 2014]  Kill: 3 0 36: ^0Darth ^1Javimetal killed elgrito by MOD_CRUSH
+[Sun Feb 02 16:21:12 2014]  Kill: 1 0 37: Manuvikingoo killed elgrito by MOD_TELEFRAG
+[Sun Feb 02 16:21:36 2014]  Kill: 3 0 3: ^0Darth ^1Javimetal killed elgrito by MOD_SABER
+[Sun Feb 02 16:21:46 2014]  Kill: 3 2 36: ^0Darth ^1Javimetal killed Darth Mason by MOD_CRUSH
+[Sun Feb 02 16:21:49 2014]  Kill: 3 1 36: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_CRUSH
+[Sun Feb 02 16:21:52 2014]  Kill: 3 0 36: ^0Darth ^1Javimetal killed elgrito by MOD_CRUSH
+[Sun Feb 02 16:21:55 2014]  say: ^0Darth ^1Javimetal: muahahahahah
+[Sun Feb 02 16:22:03 2014]  say: Darth Mason: ?¿
+[Sun Feb 02 16:22:07 2014]  say: ^0Darth ^1Javimetal: magia ;D
+[Sun Feb 02 16:22:09 2014]  Kill: 3 1 36: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_CRUSH
+[Sun Feb 02 16:22:16 2014]  say: Darth Mason: en mi tierra se llama lag
+[Sun Feb 02 16:22:22 2014]  say: ^0Darth ^1Javimetal: pues vas mal
+[Sun Feb 02 16:22:27 2014]  say: ^0Darth ^1Javimetal: porque eso no es lag
+[Sun Feb 02 16:22:30 2014]  say: ^0Darth ^1Javimetal: eso mata chaval
+[Sun Feb 02 16:22:33 2014]  Kill: 3 1 0: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_UNKNOWN
+[Sun Feb 02 16:22:34 2014]  Kill: 3 0 0: ^0Darth ^1Javimetal killed elgrito by MOD_UNKNOWN
+[Sun Feb 02 16:22:36 2014]  say: ^0Darth ^1Javimetal: xD
+[Sun Feb 02 16:22:37 2014]  say: Darth Mason: el q el hack?
+[Sun Feb 02 16:22:42 2014]  Kill: 3 0 0: ^0Darth ^1Javimetal killed elgrito by MOD_UNKNOWN
+[Sun Feb 02 16:22:44 2014]  say: ^0Darth ^1Javimetal: si tio
+[Sun Feb 02 16:22:50 2014]  say: ^0Darth ^1Javimetal: eres de españa?
+[Sun Feb 02 16:22:53 2014]  say: Darth Mason: osea q tienes hack
+[Sun Feb 02 16:23:00 2014]  say: ^0Darth ^1Javimetal: son sripts
+[Sun Feb 02 16:23:01 2014]  say: Darth Mason: hombre si me entiendes pues claro
+[Sun Feb 02 16:23:08 2014]  say: ^0Darth ^1Javimetal: tio podias ser panchi
+[Sun Feb 02 16:23:10 2014]  say: ^0Darth ^1Javimetal: xD
+[Sun Feb 02 16:23:14 2014]  say: Darth Mason: ya pero no xd
+[Sun Feb 02 16:23:27 2014]  Kill: 1 0 3: Manuvikingoo killed elgrito by MOD_SABER
+[Sun Feb 02 16:23:32 2014]  say: ^0Darth ^1Javimetal: pues me vienes al pelo,porque estoy intentando hacer un clan de españoles
+[Sun Feb 02 16:23:41 2014]  Kill: 0 1 3: elgrito killed Manuvikingoo by MOD_SABER
+[Sun Feb 02 16:23:41 2014]  say: Darth Mason: pues aqi lo somos todos
+[Sun Feb 02 16:23:44 2014]  Kill: 3 0 36: ^0Darth ^1Javimetal killed elgrito by MOD_CRUSH
+[Sun Feb 02 16:23:59 2014]  Kill: 1 0 3: Manuvikingoo killed elgrito by MOD_SABER
+[Sun Feb 02 16:24:01 2014]  say: ^0Darth ^1Javimetal: joder jajaja yo soy de la rioja
+[Sun Feb 02 16:24:06 2014]  Kill: 1 0 3: Manuvikingoo killed elgrito by MOD_SABER
+[Sun Feb 02 16:24:07 2014]  say: Darth Mason: nosotros de andalucia
+[Sun Feb 02 16:24:07 2014]  Kill: 3 1 36: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_CRUSH
+[Sun Feb 02 16:24:20 2014]  say: ^0Darth ^1Javimetal: mlistfx
+[Sun Feb 02 16:24:26 2014]  say: ^0Darth ^1Javimetal: xD mierda
+[Sun Feb 02 16:24:45 2014]  Kill: 0 2 3: elgrito killed Darth Mason by MOD_SABER
+[Sun Feb 02 16:25:13 2014]  Kill: 3 1 36: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_CRUSH
+[Sun Feb 02 16:25:13 2014]  Kill: 3 0 36: ^0Darth ^1Javimetal killed elgrito by MOD_CRUSH
+[Sun Feb 02 16:25:52 2014]  Kill: 3 0 0: ^0Darth ^1Javimetal killed elgrito by MOD_UNKNOWN
+[Sun Feb 02 16:25:57 2014]  Kill: 3 1 36: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_CRUSH
+[Sun Feb 02 16:26:02 2014]  say: Darth Mason: joe xd
+[Sun Feb 02 16:26:05 2014]  say: ^0Darth ^1Javimetal: xDDDD
+[Sun Feb 02 16:26:14 2014]  say: ^0Darth ^1Javimetal: pues el clan es sobre Darth
+[Sun Feb 02 16:26:15 2014]  say: Manuvikingoo: nos puedes dejar pelear normal 
+[Sun Feb 02 16:26:25 2014]  say: elgrito: SI VAS A JUGAR DE ESA MANERA VETE JAVI
+[Sun Feb 02 16:26:38 2014]  say: ^0Darth ^1Javimetal: -.- esto es makermod
+[Sun Feb 02 16:26:39 2014]  Kill: 0 2 3: elgrito killed Darth Mason by MOD_SABER
+[Sun Feb 02 16:26:43 2014]  Kill: 1 0 3: Manuvikingoo killed elgrito by MOD_SABER
+[Sun Feb 02 16:26:44 2014]  say: ^0Darth ^1Javimetal: de esto va este server
+[Sun Feb 02 16:26:51 2014]  say: ^0Darth ^1Javimetal: no vale para nada mas que no sea esto
+[Sun Feb 02 16:26:58 2014]  say: ^0Darth ^1Javimetal: los duelos son pesimos aqui jajajaj
+[Sun Feb 02 16:27:01 2014]  say: ^0Darth ^1Javimetal: para eso tienes FFa
+[Sun Feb 02 16:27:10 2014]  Kill: 1 0 3: Manuvikingoo killed elgrito by MOD_SABER
+[Sun Feb 02 16:27:14 2014]  Kill: 1 2 3: Manuvikingoo killed Darth Mason by MOD_SABER
+[Sun Feb 02 16:27:24 2014]  say: ^0Darth ^1Javimetal: dale a K
+[Sun Feb 02 16:27:26 2014]  Kill: 1 0 3: Manuvikingoo killed elgrito by MOD_SABER
+[Sun Feb 02 16:27:39 2014]  Kill: 3 1 3: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_SABER
+[Sun Feb 02 16:27:50 2014]  Kill: 3 2 3: ^0Darth ^1Javimetal killed Darth Mason by MOD_SABER
+[Sun Feb 02 16:28:11 2014]  Kill: 3 1 3: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_SABER
+[Sun Feb 02 16:28:16 2014]  Kill: 2 0 5: Darth Mason killed elgrito by MOD_BRYAR_PISTOL_ALT
+[Sun Feb 02 16:28:23 2014]  say: elgrito: NIÑO RATA
+[Sun Feb 02 16:28:29 2014]  say: ^0Darth ^1Javimetal: ala chaval
+[Sun Feb 02 16:28:34 2014]  say: ^0Darth ^1Javimetal: deja de ver tanto you tube
+[Sun Feb 02 16:28:36 2014]  say: ^0Darth ^1Javimetal: XD
+[Sun Feb 02 16:28:38 2014]  say: elgrito: SOLO JUEGAS AL COD VENGA ANDA VEYTE AL COD
+[Sun Feb 02 16:28:47 2014]  say: ^0Darth ^1Javimetal: jajajajajajaj que dices niño
+[Sun Feb 02 16:28:52 2014]  say: elgrito: NIÑO?
+[Sun Feb 02 16:29:02 2014]  Kill: 3 0 36: ^0Darth ^1Javimetal killed elgrito by MOD_CRUSH
+[Sun Feb 02 16:29:05 2014]  say: ^0Darth ^1Javimetal: si niño
+[Sun Feb 02 16:29:12 2014]  say: Darth Mason: no niña xd
+[Sun Feb 02 16:29:41 2014]  Kill: 3 2 36: ^0Darth ^1Javimetal killed Darth Mason by MOD_CRUSH
+[Sun Feb 02 16:30:04 2014]  Kill: 2 1 5: Darth Mason killed Manuvikingoo by MOD_BRYAR_PISTOL_ALT
+[Sun Feb 02 16:30:04 2014]  say: ^0Darth ^1Javimetal: es inutil
+[Sun Feb 02 16:30:26 2014]  say: elgrito: ESTAMOS EN PARTIDA PRIVADA VETE JAVI
+[Sun Feb 02 16:30:39 2014]  Kill: 1 0 3: Manuvikingoo killed elgrito by MOD_SABER
+[Sun Feb 02 16:30:43 2014]  say: ^0Darth ^1Javimetal: obligame
+[Sun Feb 02 16:30:48 2014]  say: ^0Darth ^1Javimetal: encima
+[Sun Feb 02 16:30:49 2014]  say: elgrito: VETE JAVIELA
+[Sun Feb 02 16:30:59 2014]  say: ^0Darth ^1Javimetal: si hubieses sido respetuoso me habria ido
+[Sun Feb 02 16:31:04 2014]  say: ^0Darth ^1Javimetal: ahora te jodes chaval
+[Sun Feb 02 16:31:24 2014]  Kill: 1022 2 38: <world> killed Darth Mason by MOD_FALLING
+[Sun Feb 02 16:31:26 2014]  Kill: 1 0 3: Manuvikingoo killed elgrito by MOD_SABER
+[Sun Feb 02 16:32:15 2014]  say: ^0Darth ^1Javimetal: os he cerrado los portales xD
+[Sun Feb 02 16:32:23 2014]  say: elgrito: ANDA MIRAK E MIEDO
+[Sun Feb 02 16:32:32 2014]  say: ^0Darth ^1Javimetal: aprende a escribir anda
+[Sun Feb 02 16:32:38 2014]  say: elgrito: APRENDE A RELACIONARTE
+[Sun Feb 02 16:32:50 2014]  say: ^0Darth ^1Javimetal: xD le dijo la sarten al cazo
+[Sun Feb 02 16:33:18 2014]  Kill: 0 2 3: elgrito killed Darth Mason by MOD_SABER
+[Sun Feb 02 16:33:29 2014]  Kill: 1 2 38: Manuvikingoo killed Darth Mason by MOD_FALLING
+[Sun Feb 02 16:33:45 2014]  Kill: 0 1 3: elgrito killed Manuvikingoo by MOD_SABER
+[Sun Feb 02 16:34:06 2014]  Kill: 2 0 3: Darth Mason killed elgrito by MOD_SABER
+[Sun Feb 02 16:34:42 2014]  Kill: 0 2 3: elgrito killed Darth Mason by MOD_SABER
+[Sun Feb 02 16:34:45 2014]  Kill: 3 1 36: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_CRUSH
+[Sun Feb 02 16:34:47 2014]  Kill: 3 0 0: ^0Darth ^1Javimetal killed elgrito by MOD_UNKNOWN
+[Sun Feb 02 16:34:54 2014]  Kill: 3 1 36: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_CRUSH
+[Sun Feb 02 16:34:56 2014]  say: elgrito: GENTE COMO TU SE CARGAN LOS JUEGOS
+[Sun Feb 02 16:35:07 2014]  say: ^0Darth ^1Javimetal: no se enoje nomas
+[Sun Feb 02 16:35:13 2014]  Kill: 3 1 3: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_SABER
+[Sun Feb 02 16:35:22 2014]  say: elgrito: ANDA SI NOS PONEMOS HACK TU TE PONES A LLORAR
+[Sun Feb 02 16:35:31 2014]  say: ^0Darth ^1Javimetal: no puedes matarme
+[Sun Feb 02 16:35:35 2014]  say: ^0Darth ^1Javimetal: osea que...
+[Sun Feb 02 16:35:41 2014]  say: elgrito: LOS QUE SE PONEN HACK ES PORQUE NO SABEN JUGAR
+[Sun Feb 02 16:36:02 2014]  Kill: 3 0 31: ^0Darth ^1Javimetal killed elgrito by MOD_FORCE_DARK
+[Sun Feb 02 16:36:07 2014]  say: ^0Darth ^1Javimetal: animo champion
+[Sun Feb 02 16:36:30 2014]  Kill: 3 1 3: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_SABER
+[Sun Feb 02 16:36:32 2014]  say: ^0Darth ^1Javimetal: uy
+[Sun Feb 02 16:37:03 2014]  Kill: 3 0 0: ^0Darth ^1Javimetal killed elgrito by MOD_UNKNOWN
+[Sun Feb 02 16:37:10 2014]  Kill: 3 0 0: ^0Darth ^1Javimetal killed elgrito by MOD_UNKNOWN
+[Sun Feb 02 16:37:15 2014]  say: ^0Darth ^1Javimetal: y voló
+[Sun Feb 02 16:37:30 2014]  say: elgrito: EA MIRA KE BIEN
+[Sun Feb 02 16:37:54 2014]  say: ^0Darth ^1Javimetal: me sangran los ojos con tu caligrafía tio,y luego vas diciendo tu niño a los demas?
+[Sun Feb 02 16:37:58 2014]  say: ^0Darth ^1Javimetal: eres un grande
+[Sun Feb 02 16:38:03 2014]  Kill: 3 0 36: ^0Darth ^1Javimetal killed elgrito by MOD_CRUSH
+[Sun Feb 02 16:38:06 2014]  Kill: 3 1 36: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_CRUSH
+[Sun Feb 02 16:38:12 2014]  say: elgrito: NO TIENES OTRO SERVER A KE MOLESTAR A OTRO KE NO SEA ESTE?
+[Sun Feb 02 16:38:19 2014]  Kill: 3 2 36: ^0Darth ^1Javimetal killed Darth Mason by MOD_CRUSH
+[Sun Feb 02 16:38:23 2014]  Kill: 1 2 37: Manuvikingoo killed Darth Mason by MOD_TELEFRAG
+[Sun Feb 02 16:38:28 2014]  say: Darth Mason: joder he salido volando
+[Sun Feb 02 16:38:29 2014]  say: elgrito: TU DICES KE YO ESCRIBA BIEN PERO ESKE YO TE DIGO KE APRENDAS A JUGAR BIEN
+[Sun Feb 02 16:38:33 2014]  say: ^0Darth ^1Javimetal: jajajaj
+[Sun Feb 02 16:38:41 2014]  say: elgrito: DICES JAJA PORK ES VERDAD
+[Sun Feb 02 16:38:41 2014]  say: ^0Darth ^1Javimetal: si te gano con elñ rabo jajajaja
+[Sun Feb 02 16:38:50 2014]  say: ^0Darth ^1Javimetal: el*
+[Sun Feb 02 16:38:52 2014]  Kill: 3 0 3: ^0Darth ^1Javimetal killed elgrito by MOD_SABER
+[Sun Feb 02 16:38:52 2014]  say: elgrito: YO CON LA MIRADA
+[Sun Feb 02 16:38:57 2014]  say: ^0Darth ^1Javimetal: si?
+[Sun Feb 02 16:39:03 2014]  say: ^0Darth ^1Javimetal: pues menos pajas que te veo cegato
+[Sun Feb 02 16:39:05 2014]  Kill: 3 1 0: ^0Darth ^1Javimetal killed Manuvikingoo by MOD_UNKNOWN
+[Sun Feb 02 16:39:12 2014]  say: ^0Darth ^1Javimetal: ja ja es grasioso
+[Sun Feb 02 16:39:15 2014]  say: elgrito: Y TU MENOS DEDILLOS
+[Sun Feb 02 16:39:27 2014]  say: Darth Mason: se nota q os llevais bien
+[Sun Feb 02 16:39:39 2014]  say: ^0Darth ^1Javimetal: si verdad?
+[Sun Feb 02 16:39:43 2014]  say: Darth Mason: tela xd
+[Sun Feb 02 16:39:47 2014]  say: ^0Darth ^1Javimetal: ahora en serio
+[Sun Feb 02 16:39:56 2014]  say: Darth Mason: vale, pues no xd
+[Sun Feb 02 16:39:58 2014]  say: ^0Darth ^1Javimetal: chicos,hay mejores servers que estros
+[Sun Feb 02 16:40:02 2014]  say: ^0Darth ^1Javimetal: este*
+[Sun Feb 02 16:40:11 2014]  say: ^0Darth ^1Javimetal: los maker son para construir
+[Sun Feb 02 16:40:13 2014]  say: ^0Darth ^1Javimetal: mirad
+[Sun Feb 02 16:40:27 2014]  Kill: 1 0 3: Manuvikingoo killed elgrito by MOD_SABER
+[Sun Feb 02 16:40:35 2014]  say: ^0Darth ^1Javimetal: mirad
+[Sun Feb 02 16:40:38 2014]  say: elgrito: VAMOS A VER TU NO TE ABURRES?
+[Sun Feb 02 16:40:56 2014]  Kill: 0 1 3: elgrito killed Manuvikingoo by MOD_SABER
+[Sun Feb 02 16:40:56 2014]  say: ^0Darth ^1Javimetal: eh,que estoy hablando con ellos
+[Sun Feb 02 16:41:29 2014]  say: elgrito: CLARO COMO NO SALES PUES SOLO SABES HACER LO UNICO QUE SABES HACER BIEN OSEA JODER A LOS DEMAS
+[Sun Feb 02 16:41:50 2014]  say: ^0Darth ^1Javimetal: xD ahora eres experto en vidas? que grande eres
+[Sun Feb 02 16:42:36 2014]  Kill: 3 0 36: ^0Darth ^1Javimetal killed elgrito by MOD_CRUSH
+[Sun Feb 02 16:42:56 2014]  Kill: 3 0 3: ^0Darth ^1Javimetal killed elgrito by MOD_SABER
+[Sun Feb 02 16:43:18 2014]  say: ^0Darth ^1Javimetal: lol las bolasexplosiones no se han ido
+[Sun Feb 02 16:43:23 2014]  say: ^0Darth ^1Javimetal: las explosiones*
+[Sun Feb 02 16:43:24 2014]  say: elgrito: NI TY
+[Sun Feb 02 16:43:27 2014]  say: elgrito: TU
+[Sun Feb 02 16:43:32 2014]  say: ^0Darth ^1Javimetal: tranquilo que no me voy
+[Sun Feb 02 16:43:34 2014]  ClientDisconnect: 2
+[Sun Feb 02 16:43:41 2014]  ClientDisconnect: 1
+[Sun Feb 02 16:43:45 2014]  say: ^0Darth ^1Javimetal: buena id
+[Sun Feb 02 16:43:46 2014]  ClientDisconnect: 0
+[Sun Feb 02 16:43:50 2014]  ClientDisconnect: 3
+[Sun Feb 02 17:35:19 2014]  ClientConnect: 0
+[Sun Feb 02 17:35:19 2014]  mlog:Player ^0Darth ^1Javimetal, connected. With IP - 85.219.4.121:29070 
+[Sun Feb 02 17:35:30 2014]  ClientBegin: 0
+[Sun Feb 02 17:36:11 2014]  ClientDisconnect: 0
+[Sun Feb 02 18:14:04 2014]  Exit: Timelimit hit.
+[Mon Feb 03 17:27:37 2014]  ClientConnect: 0
+[Mon Feb 03 17:27:37 2014]  mlog:Player ^3K^2astor^6^7, connected. With IP - 88.132.34.229:29070 
+[Mon Feb 03 17:27:39 2014]  ClientConnect: 1
+[Mon Feb 03 17:27:39 2014]  mlog:Player ^9Éjjáfjátlálökûll, connected. With IP - 87.242.14.89:29070 
+[Mon Feb 03 17:28:00 2014]  ClientBegin: 1
+[Mon Feb 03 17:28:08 2014]  ClientBegin: 0
+[Mon Feb 03 17:28:26 2014]  ShutdownGame:
+[Mon Feb 03 17:28:26 2014]  ------------------------------------------------------------

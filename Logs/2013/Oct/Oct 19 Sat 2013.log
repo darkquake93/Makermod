@@ -1,0 +1,344 @@
+[Sat Oct 19 17:23:43 2013]  ------------------------------------------------------------
+[Sat Oct 19 17:23:43 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Oct 19 17:24:00 2013]  ClientConnect: 0
+[Sat Oct 19 17:24:00 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sat Oct 19 17:24:28 2013]  ClientBegin: 0
+[Sat Oct 19 17:25:08 2013]  ShutdownGame:
+[Sat Oct 19 17:25:08 2013]  ------------------------------------------------------------
+[Sat Oct 19 17:25:08 2013]  ------------------------------------------------------------
+[Sat Oct 19 17:25:08 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Oct 19 17:25:10 2013]  ClientConnect: 0
+[Sat Oct 19 17:25:16 2013]  ClientBegin: 0
+[Sat Oct 19 17:25:20 2013]  ClientConnect: 1
+[Sat Oct 19 17:25:20 2013]  mlog:Player Padawan, connected. With IP - 109.47.3.250:-21613 
+[Sat Oct 19 17:25:42 2013]  say: ^0ÐàrkQµàkè: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0ÐàrkQµàkè
+[Sat Oct 19 17:25:42 2013]  say: ^0ÐàrkQµàkè: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Oct 19 17:26:07 2013]  ClientBegin: 1
+[Sat Oct 19 17:26:12 2013]  say: ^1Z^0eratul: hi
+[Sat Oct 19 17:26:16 2013]  say: ^0ÐàrkQµàkè: hi
+[Sat Oct 19 17:26:22 2013]  say: ^1Z^0eratul: u are the owner
+[Sat Oct 19 17:26:23 2013]  say: ^1Z^0eratul: right?
+[Sat Oct 19 17:26:26 2013]  say: ^0ÐàrkQµàkè: yeah :)
+[Sat Oct 19 17:26:29 2013]  say: ^1Z^0eratul: .d
+[Sat Oct 19 17:26:30 2013]  say: ^1Z^0eratul: :D
+[Sat Oct 19 17:26:32 2013]  say: ^1Z^0eratul: nice to meet u
+[Sat Oct 19 17:26:33 2013]  say: ^0ÐàrkQµàkè: :D
+[Sat Oct 19 17:26:36 2013]  say: ^0ÐàrkQµàkè: you too ^^
+[Sat Oct 19 17:26:42 2013]  say: ^1Z^0eratul: but was not the first time :P
+[Sat Oct 19 17:26:42 2013]  say: ^0ÐàrkQµàkè: sorry for the server being down occasionally
+[Sat Oct 19 17:26:49 2013]  say: ^1Z^0eratul: i know why
+[Sat Oct 19 17:26:55 2013]  say: ^1Z^0eratul: did u banned
+[Sat Oct 19 17:26:59 2013]  say: ^1Z^0eratul: the npc ragnos?
+[Sat Oct 19 17:27:24 2013]  say: ^0ÐàrkQµàkè: well I haven't tested ragnos
+[Sat Oct 19 17:27:29 2013]  say: ^1Z^0eratul: ragnos
+[Sat Oct 19 17:27:31 2013]  say: ^0ÐàrkQµàkè: maybe that's why it was in the forbidden list :p
+[Sat Oct 19 17:27:32 2013]  say: ^1Z^0eratul: =crash server
+[Sat Oct 19 17:27:43 2013]  say: ^0ÐàrkQµàkè: anyway server was down just cause I haven't left it up haha
+[Sat Oct 19 17:27:49 2013]  say: ^1Z^0eratul: lol
+[Sat Oct 19 17:27:50 2013]  say: ^0ÐàrkQµàkè: I've restarted comp a few times etc
+[Sat Oct 19 17:27:52 2013]  say: ^1Z^0eratul: hey dark
+[Sat Oct 19 17:27:58 2013]  say: ^1Z^0eratul: 1 question
+[Sat Oct 19 17:28:00 2013]  say: ^0ÐàrkQµàkè: but I should put him back in forbidden npcs
+[Sat Oct 19 17:28:03 2013]  say: ^0ÐàrkQµàkè: yeah sure
+[Sat Oct 19 17:28:05 2013]  say: ^1Z^0eratul: can i have admin? xD?
+[Sat Oct 19 17:28:16 2013]  say: ^0ÐàrkQµàkè: hm I dunno :p
+[Sat Oct 19 17:28:50 2013]  say: ^1Z^0eratul: im a good scripter :P
+[Sat Oct 19 17:29:16 2013]  say: ^0ÐàrkQµàkè: cool but I don't wanna have too many admins here
+[Sat Oct 19 17:29:22 2013]  say: ^0ÐàrkQµàkè: and I don't just give it out :p
+[Sat Oct 19 17:29:35 2013]  say: ^1Z^0eratul: lol how many
+[Sat Oct 19 17:29:36 2013]  say: ^1Z^0eratul: u have=
+[Sat Oct 19 17:29:42 2013]  say: ^0ÐàrkQµàkè: I'd give it out to people who are good with shader remapping and know a lot of Makermod code
+[Sat Oct 19 17:29:42 2013]  say: ^1Z^0eratul: i never saw a adin
+[Sat Oct 19 17:29:44 2013]  say: ^1Z^0eratul: admin here
+[Sat Oct 19 17:30:00 2013]  say: ^1Z^0eratul: i know every shader
+[Sat Oct 19 17:30:01 2013]  say: ^1Z^0eratul: of jka
+[Sat Oct 19 17:30:01 2013]  say: ^0ÐàrkQµàkè: A guy named Visage pops by every now and then to test out shaders
+[Sat Oct 19 17:30:28 2013]  say: ^1Z^0eratul: and some ppl
+[Sat Oct 19 17:30:32 2013]  say: ^1Z^0eratul: are spamming npcs
+[Sat Oct 19 17:31:41 2013]  say: ^0ÐàrkQµàkè: hm well I don't really spend a lot of time here, so if you know every shader then that sounds good :) I just don't wanna manage everyone's permission
+[Sat Oct 19 17:31:48 2013]  say: ^0ÐàrkQµàkè: everyone's permissions etc lol
+[Sat Oct 19 17:32:02 2013]  say: ^1Z^0eratul: i want just 2 permissions lol to kill npcs and remap 
+[Sat Oct 19 17:32:10 2013]  say: ^1Z^0eratul: i wont this spamming
+[Sat Oct 19 17:32:12 2013]  say: ^1Z^0eratul: anymore
+[Sat Oct 19 17:32:26 2013]  say: ^0ÐàrkQµàkè: alright fair enough, I'll give you those :)
+[Sat Oct 19 17:32:31 2013]  say: ^1Z^0eratul: :)
+[Sat Oct 19 17:32:37 2013]  say: ^1Z^0eratul: i dont need slay 
+[Sat Oct 19 17:32:40 2013]  say: ^1Z^0eratul: or something like that
+[Sat Oct 19 17:32:46 2013]  say: ^1Z^0eratul: my scripts can kill god and noclip
+[Sat Oct 19 17:32:50 2013]  say: ^1Z^0eratul: :P
+[Sat Oct 19 17:33:27 2013]  say: ^0ÐàrkQµàkè: alright cool :p I'm mainly here to work on Elementv3 slowly, so it's probably best to have a few admins who know shaders :)
+[Sat Oct 19 17:35:13 2013]  say: ^0ÐàrkQµàkè: alright type /mlogin zeratul zeratul
+[Sat Oct 19 17:35:25 2013]  say: ^0ÐàrkQµàkè: then /mchangepass zeratul (new) (new)
+[Sat Oct 19 17:35:53 2013]  say: ^1Z^0eratul: kk
+[Sat Oct 19 17:36:07 2013]  say: ^1Z^0eratul: tele i dont need lol
+[Sat Oct 19 17:36:25 2013]  say: ^0ÐàrkQµàkè: it's default with new user :p
+[Sat Oct 19 17:36:29 2013]  say: ^0ÐàrkQµàkè: I can remove if you like
+[Sat Oct 19 17:36:40 2013]  say: ^1Z^0eratul: u dont need
+[Sat Oct 19 17:36:41 2013]  say: ^1Z^0eratul: :
+[Sat Oct 19 17:36:42 2013]  say: ^1Z^0eratul: :P
+[Sat Oct 19 17:36:46 2013]  say: ^1Z^0eratul: i dont need noclip lol
+[Sat Oct 19 17:36:47 2013]  say: ^1Z^0eratul: look
+[Sat Oct 19 17:37:06 2013]  say: ^0ÐàrkQµàkè: well you might in the future
+[Sat Oct 19 17:37:10 2013]  say: ^0ÐàrkQµàkè: but I can remove if you want
+[Sat Oct 19 17:37:14 2013]  say: ^1Z^0eratul: no :P
+[Sat Oct 19 17:37:26 2013]  say: ^0ÐàrkQµàkè: so remove or keep?
+[Sat Oct 19 17:37:30 2013]  say: ^1Z^0eratul: keep :P
+[Sat Oct 19 17:37:34 2013]  say: ^0ÐàrkQµàkè: alright :)
+[Sat Oct 19 17:37:34 2013]  say: ^1Z^0eratul: sometimes
+[Sat Oct 19 17:37:37 2013]  say: ^1Z^0eratul: removes
+[Sat Oct 19 17:37:38 2013]  say: ^1Z^0eratul: my binds
+[Sat Oct 19 17:37:39 2013]  say: ^1Z^0eratul: :P
+[Sat Oct 19 17:37:42 2013]  say: ^1Z^0eratul: xD
+[Sat Oct 19 17:37:43 2013]  say: ^0ÐàrkQµàkè: lol
+[Sat Oct 19 17:37:45 2013]  say: ^0ÐàrkQµàkè: sry brb
+[Sat Oct 19 17:37:48 2013]  say: ^1Z^0eratul: k
+[Sat Oct 19 17:37:49 2013]  say: ^0ÐàrkQµàkè: gotta help sum1 else
+[Sat Oct 19 17:37:54 2013]  say: ^0ÐàrkQµàkè: I don't have much time on this game lol
+[Sat Oct 19 17:37:58 2013]  say: ^1Z^0eratul: kk
+[Sat Oct 19 17:46:02 2013]  say: ^0ÐàrkQµàkè: sry gotta go, enjoy yourself :) 
+[Sat Oct 19 17:46:06 2013]  say: ^1Z^0eratul: kk
+[Sat Oct 19 17:46:10 2013]  say: ^0ÐàrkQµàkè: nice glows :p
+[Sat Oct 19 17:46:10 2013]  say: ^1Z^0eratul: i will do it
+[Sat Oct 19 17:46:24 2013]  say: ^0ÐàrkQµàkè: email me if you need to, the address is here
+[Sat Oct 19 17:46:33 2013]  say: ^1Z^0eratul: kk
+[Sat Oct 19 17:46:39 2013]  say: ^0ÐàrkQµàkè: :) bye
+[Sat Oct 19 17:46:41 2013]  say: ^1Z^0eratul: bb
+[Sat Oct 19 17:46:41 2013]  ClientDisconnect: 0
+[Sat Oct 19 17:51:27 2013]  ClientDisconnect: 1
+[Sat Oct 19 18:15:32 2013]  ClientConnect: 0
+[Sat Oct 19 18:15:32 2013]  mlog:Player Padawan, connected. With IP - 65.27.168.17:29070 
+[Sat Oct 19 18:15:41 2013]  ClientBegin: 0
+[Sat Oct 19 18:19:59 2013]  Item: 0 ammo_all
+[Sat Oct 19 18:20:47 2013]  Item: 0 weapon_blaster
+[Sat Oct 19 18:25:58 2013]  ClientDisconnect: 0
+[Sat Oct 19 18:34:48 2013]  ClientConnect: 0
+[Sat Oct 19 18:34:48 2013]  mlog:Player Padawan, connected. With IP - 65.27.168.17:29070 
+[Sat Oct 19 18:35:02 2013]  ClientBegin: 0
+[Sat Oct 19 18:52:42 2013]  Item: 0 ammo_all
+[Sat Oct 19 19:00:39 2013]  say: ^9krimzon: mplace wall_tank_tall
+[Sat Oct 19 19:01:12 2013]  ClientDisconnect: 0
+[Sat Oct 19 19:25:07 2013]  Exit: Timelimit hit.
+[Sat Oct 19 20:50:09 2013]  ClientConnect: 0
+[Sat Oct 19 20:50:09 2013]  mlog:Player Padawan, connected. With IP - 109.47.3.250:-14655 
+[Sat Oct 19 20:50:52 2013]  ClientBegin: 0
+[Sat Oct 19 20:51:02 2013]  ShutdownGame:
+[Sat Oct 19 20:51:02 2013]  ------------------------------------------------------------
+[Sat Oct 19 20:51:02 2013]  ------------------------------------------------------------
+[Sat Oct 19 20:51:02 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Oct 19 20:51:03 2013]  ClientConnect: 0
+[Sat Oct 19 20:51:27 2013]  ClientBegin: 0
+[Sat Oct 19 20:53:57 2013]  ClientConnect: 1
+[Sat Oct 19 20:53:57 2013]  mlog:Player Maestro Hispano ^3Amras, connected. With IP - 85.219.4.121:29071 
+[Sat Oct 19 20:54:26 2013]  ClientBegin: 1
+[Sat Oct 19 20:54:36 2013]  say: Maestro Hispano ^3Amras: hola hi
+[Sat Oct 19 20:54:41 2013]  say: ^1Z^0eratul: hi
+[Sat Oct 19 20:55:38 2013]  say: ^1Z^0eratul: rules
+[Sat Oct 19 20:55:45 2013]  say: ^1Z^0eratul: no npc spamming
+[Sat Oct 19 20:55:51 2013]  say: Maestro Hispano ^3Amras: i know
+[Sat Oct 19 20:56:50 2013]  say: ^1Z^0eratul: bah i hate cheats
+[Sat Oct 19 20:57:09 2013]  say: Maestro Hispano ^3Amras: enhorabuena
+[Sat Oct 19 20:57:17 2013]  say: ^1Z^0eratul: wut?
+[Sat Oct 19 20:58:09 2013]  say: Maestro Hispano ^3Amras: xD how u can teleport? xD is a type?
+[Sat Oct 19 20:58:18 2013]  say: ^1Z^0eratul: yep
+[Sat Oct 19 20:58:22 2013]  say: ^1Z^0eratul: i dont use admin tele
+[Sat Oct 19 20:58:23 2013]  say: ^1Z^0eratul: lol
+[Sat Oct 19 20:58:29 2013]  say: ^1Z^0eratul: im a admin here
+[Sat Oct 19 20:58:30 2013]  say: ^1Z^0eratul: but 
+[Sat Oct 19 20:58:33 2013]  say: ^1Z^0eratul: i dont have admin tele
+[Sat Oct 19 20:58:41 2013]  say: Maestro Hispano ^3Amras: u are the admin? 
+[Sat Oct 19 20:58:49 2013]  Kill: 1022 0 0: <world> killed ^1Z^0eratul by MOD_UNKNOWN
+[Sat Oct 19 20:58:59 2013]  say: ^1Z^0eratul: just for
+[Sat Oct 19 20:59:01 2013]  say: ^1Z^0eratul: lol
+[Sat Oct 19 20:59:03 2013]  say: ^1Z^0eratul: EPIC FAIL
+[Sat Oct 19 20:59:05 2013]  say: Maestro Hispano ^3Amras: xD
+[Sat Oct 19 20:59:12 2013]  say: ^1Z^0eratul: i typed 5x the same cmd
+[Sat Oct 19 20:59:26 2013]  say: ^1Z^0eratul: i have just /mremap and npc admin
+[Sat Oct 19 20:59:49 2013]  say: Maestro Hispano ^3Amras: oh
+[Sat Oct 19 21:00:01 2013]  ClientConnect: 2
+[Sat Oct 19 21:00:01 2013]  mlog:Player Padawan, connected. With IP - 79.116.7.52:29070 
+[Sat Oct 19 21:00:06 2013]  say: ^1Z^0eratul: but im a good scriper
+[Sat Oct 19 21:00:08 2013]  say: ^1Z^0eratul: scripter
+[Sat Oct 19 21:00:21 2013]  say: ^1Z^0eratul: my scripts
+[Sat Oct 19 21:00:22 2013]  ClientBegin: 2
+[Sat Oct 19 21:00:25 2013]  say: ^1Z^0eratul: can break god
+[Sat Oct 19 21:00:27 2013]  say: ^1Z^0eratul: hi
+[Sat Oct 19 21:00:31 2013]  say: Maestro Hispano ^3Amras: hi hola
+[Sat Oct 19 21:00:45 2013]  say: ^1Z^0eratul: i can make myself invisible
+[Sat Oct 19 21:00:48 2013]  say: ^1Z^0eratul: without cheats
+[Sat Oct 19 21:01:17 2013]  print "Padawan^7 @@@PLRENAME Farien{E.Wolves}*J
+"[Sat Oct 19 21:01:21 2013]  say: ^1Z^0eratul: xD,
+[Sat Oct 19 21:02:43 2013]  say: ^1Z^0eratul: farien
+[Sat Oct 19 21:02:46 2013]  say: ^1Z^0eratul: this is makermod
+[Sat Oct 19 21:02:46 2013]  say: Farien{E.Wolves}*J: ya?
+[Sat Oct 19 21:02:47 2013]  say: ^1Z^0eratul: not lugormod
+[Sat Oct 19 21:02:50 2013]  say: ^1Z^0eratul: here are other rules
+[Sat Oct 19 21:03:28 2013]  say: Maestro Hispano ^3Amras: u stay on-fire
+[Sat Oct 19 21:03:33 2013]  say: ^1Z^0eratul: mhm
+[Sat Oct 19 21:03:34 2013]  say: Maestro Hispano ^3Amras: ba dum tsss
+[Sat Oct 19 21:03:47 2013]  say: Farien{E.Wolves}*J: ghost rider xD
+[Sat Oct 19 21:03:52 2013]  say: Maestro Hispano ^3Amras: ha haaaa xD
+[Sat Oct 19 21:03:53 2013]  say: ^1Z^0eratul: lol...
+[Sat Oct 19 21:04:00 2013]  say: Farien{E.Wolves}*J: yep
+[Sat Oct 19 21:04:03 2013]  say: Farien{E.Wolves}*J: thats you
+[Sat Oct 19 21:04:08 2013]  say: Farien{E.Wolves}*J: not anymore
+[Sat Oct 19 21:04:31 2013]  say: ^1Z^0eratul: i jail u lol
+[Sat Oct 19 21:04:37 2013]  Kill: 2 2 39: Farien{E.Wolves}*J killed Farien{E.Wolves}*J by MOD_SUICIDE
+[Sat Oct 19 21:04:43 2013]  say: Farien{E.Wolves}*J: fail xD
+[Sat Oct 19 21:05:00 2013]  tell: Maestro Hispano ^3Amras to ^1Z^0eratul: he not learn /noclip..
+[Sat Oct 19 21:05:07 2013]  say: ^1Z^0eratul: yes lol
+[Sat Oct 19 21:05:12 2013]  say: ^1Z^0eratul: amras
+[Sat Oct 19 21:05:13 2013]  say: ^1Z^0eratul: look
+[Sat Oct 19 21:05:18 2013]  say: ^1Z^0eratul: i dont need cheats
+[Sat Oct 19 21:05:24 2013]  say: Maestro Hispano ^3Amras: xDDD :P
+[Sat Oct 19 21:05:33 2013]  say: ^1Z^0eratul: look lol
+[Sat Oct 19 21:05:37 2013]  say: Maestro Hispano ^3Amras: scrips in CMD?
+[Sat Oct 19 21:05:53 2013]  say: ^1Z^0eratul: farien
+[Sat Oct 19 21:05:55 2013]  say: ^1Z^0eratul: where are u
+[Sat Oct 19 21:06:11 2013]  say: Farien{E.Wolves}*J: wont tell you
+[Sat Oct 19 21:06:12 2013]  say: Farien{E.Wolves}*J: xD
+[Sat Oct 19 21:06:16 2013]  say: ^1Z^0eratul: dude
+[Sat Oct 19 21:06:20 2013]  say: ^1Z^0eratul: i can find everything
+[Sat Oct 19 21:06:56 2013]  say: ^1Z^0eratul: hunter eyes :P
+[Sat Oct 19 21:06:57 2013]  say: Maestro Hispano ^3Amras: taraaaaa
+[Sat Oct 19 21:07:14 2013]  say: ^1Z^0eratul: hehe
+[Sat Oct 19 21:07:16 2013]  say: Maestro Hispano ^3Amras: xDDDD
+[Sat Oct 19 21:07:20 2013]  Kill: 0 0 39: ^1Z^0eratul killed ^1Z^0eratul by MOD_SUICIDE
+[Sat Oct 19 21:08:04 2013]  say: ^1Z^0eratul: hehe
+[Sat Oct 19 21:08:14 2013]  say: ^1Z^0eratul: did u think
+[Sat Oct 19 21:08:19 2013]  say: ^1Z^0eratul: im a good scripter?
+[Sat Oct 19 21:08:23 2013]  say: Maestro Hispano ^3Amras: xDDD
+[Sat Oct 19 21:08:29 2013]  say: ^1Z^0eratul: yes or no lol
+[Sat Oct 19 21:08:34 2013]  say: Maestro Hispano ^3Amras: yes yes
+[Sat Oct 19 21:09:20 2013]  say: Maestro Hispano ^3Amras: what is the type for reborn master black?
+[Sat Oct 19 21:09:29 2013]  say: ^1Z^0eratul: model reborn/boss
+[Sat Oct 19 21:09:59 2013]  say: ^1Z^0eratul: wb
+[Sat Oct 19 21:10:00 2013]  say: ^1Z^0eratul: look
+[Sat Oct 19 21:10:14 2013]  say: ^1Z^0eratul: thats not nice
+[Sat Oct 19 21:10:30 2013]  say: ^1Z^0eratul: nice eh?
+[Sat Oct 19 21:10:53 2013]  say: ^1Z^0eratul: wait
+[Sat Oct 19 21:10:55 2013]  say: ^1Z^0eratul: i can break god
+[Sat Oct 19 21:10:58 2013]  Kill: 0 1 37: ^1Z^0eratul killed Maestro Hispano ^3Amras by MOD_TELEFRAG
+[Sat Oct 19 21:11:01 2013]  say: Maestro Hispano ^3Amras: xDDD
+[Sat Oct 19 21:11:31 2013]  Kill: 0 2 37: ^1Z^0eratul killed Farien{E.Wolves}*J by MOD_TELEFRAG
+[Sat Oct 19 21:11:34 2013]  say: ^1Z^0eratul: lol
+[Sat Oct 19 21:11:38 2013]  say: ^1Z^0eratul: sry
+[Sat Oct 19 21:11:41 2013]  say: Farien{E.Wolves}*J: np
+[Sat Oct 19 21:12:00 2013]  say: ^1Z^0eratul: hehe
+[Sat Oct 19 21:12:03 2013]  say: ^1Z^0eratul: look at the icon
+[Sat Oct 19 21:12:04 2013]  say: ^1Z^0eratul: lol
+[Sat Oct 19 21:12:33 2013]  say: Farien{E.Wolves}*J: >:P
+[Sat Oct 19 21:12:38 2013]  say: ^1Z^0eratul: stay back
+[Sat Oct 19 21:12:39 2013]  say: ^1Z^0eratul: lol
+[Sat Oct 19 21:13:13 2013]  say: Maestro Hispano ^3Amras: xD find me
+[Sat Oct 19 21:14:21 2013]  say: Maestro Hispano ^3Amras: Xddd
+[Sat Oct 19 21:14:23 2013]  say: ^1Z^0eratul: found u
+[Sat Oct 19 21:14:24 2013]  say: Farien{E.Wolves}*J: well im off
+[Sat Oct 19 21:14:26 2013]  say: ^1Z^0eratul: bb
+[Sat Oct 19 21:14:31 2013]  say: Farien{E.Wolves}*J: bye
+[Sat Oct 19 21:14:32 2013]  say: Maestro Hispano ^3Amras: byeee
+[Sat Oct 19 21:14:36 2013]  ClientDisconnect: 2
+[Sat Oct 19 21:15:25 2013]  say: Maestro Hispano ^3Amras: this skin.. has broken xD
+[Sat Oct 19 21:15:33 2013]  say: ^1Z^0eratul: nah not rly
+[Sat Oct 19 21:15:41 2013]  say: ^1Z^0eratul: its a remap
+[Sat Oct 19 21:16:00 2013]  say: Maestro Hispano ^3Amras: how is the typo for this skin in black?
+[Sat Oct 19 21:16:09 2013]  say: ^1Z^0eratul: idk lol
+[Sat Oct 19 21:17:16 2013]  Kill: 0 1 3: ^1Z^0eratul killed Maestro Hispano ^3Amras by MOD_SABER
+[Sat Oct 19 21:17:18 2013]  say: Maestro Hispano ^3Amras: gf
+[Sat Oct 19 21:17:20 2013]  say: ^1Z^0eratul: gf
+[Sat Oct 19 21:18:30 2013]  say: ^1Z^0eratul: amras
+[Sat Oct 19 21:18:32 2013]  say: ^1Z^0eratul: spawn a npc
+[Sat Oct 19 21:18:33 2013]  say: Maestro Hispano ^3Amras: yes?
+[Sat Oct 19 21:18:55 2013]  say: Maestro Hispano ^3Amras: who npc
+[Sat Oct 19 21:19:05 2013]  say: Maestro Hispano ^3Amras: a big rancor?
+[Sat Oct 19 21:19:11 2013]  say: ^1Z^0eratul: come to em
+[Sat Oct 19 21:19:34 2013]  say: ^1Z^0eratul: lol...
+[Sat Oct 19 21:19:35 2013]  say: Maestro Hispano ^3Amras: xD
+[Sat Oct 19 21:19:40 2013]  say: ^1Z^0eratul: the moonwalk
+[Sat Oct 19 21:19:43 2013]  say: Maestro Hispano ^3Amras: is my dog/r2d2
+[Sat Oct 19 21:20:03 2013]  say: Maestro Hispano ^3Amras: i can spawn a npc?
+[Sat Oct 19 21:20:08 2013]  say: ^1Z^0eratul: yes lol
+[Sat Oct 19 21:20:13 2013]  say: ^1Z^0eratul: ?LOL
+[Sat Oct 19 21:20:28 2013]  say: Maestro Hispano ^3Amras: wtf?
+[Sat Oct 19 21:20:37 2013]  say: ^1Z^0eratul: lol where is Wookie with 7 iq when we need him
+[Sat Oct 19 21:20:39 2013]  say: Maestro Hispano ^3Amras: xD textures.. .xD
+[Sat Oct 19 21:20:47 2013]  say: ^1Z^0eratul: he can fix every droid
+[Sat Oct 19 21:20:53 2013]  say: ^1Z^0eratul: with hes 7 iq
+[Sat Oct 19 21:20:55 2013]  say: ^1Z^0eratul: lol
+[Sat Oct 19 21:21:32 2013]  say: ^1Z^0eratul: ups
+[Sat Oct 19 21:21:33 2013]  say: ^1Z^0eratul: xD
+[Sat Oct 19 21:21:44 2013]  say: ^1Z^0eratul: xD
+[Sat Oct 19 21:22:05 2013]  say: ^1Z^0eratul: wait
+[Sat Oct 19 21:22:09 2013]  say: ^1Z^0eratul: xD
+[Sat Oct 19 21:22:31 2013]  say: ^1Z^0eratul: they love you <3
+[Sat Oct 19 21:22:34 2013]  say: Maestro Hispano ^3Amras: noooo they can kill meee!
+[Sat Oct 19 21:22:41 2013]  say: ^1Z^0eratul: they love u!
+[Sat Oct 19 21:22:49 2013]  say: Maestro Hispano ^3Amras: noooo xD love is pain
+[Sat Oct 19 21:22:55 2013]  say: Maestro Hispano ^3Amras: xDDD
+[Sat Oct 19 21:23:06 2013]  say: Maestro Hispano ^3Amras: aaaaaaaaaaaaaaaaaahhh
+[Sat Oct 19 21:23:20 2013]  say: ^1Z^0eratul: dont run D:
+[Sat Oct 19 21:23:33 2013]  say: ^1Z^0eratul: OMG
+[Sat Oct 19 21:23:37 2013]  say: ^1Z^0eratul: THEY WILL KILL US
+[Sat Oct 19 21:23:45 2013]  say: Maestro Hispano ^3Amras: aaaaaaaaaaaaah
+[Sat Oct 19 21:24:03 2013]  say: Maestro Hispano ^3Amras: ok i have the solution
+[Sat Oct 19 21:24:07 2013]  say: ^1Z^0eratul: lol  they are slower than zombies
+[Sat Oct 19 21:24:30 2013]  say: ^1Z^0eratul: RUN
+[Sat Oct 19 21:24:51 2013]  say: ^1Z^0eratul: lol
+[Sat Oct 19 21:24:54 2013]  say: ^1Z^0eratul: we are safe
+[Sat Oct 19 21:24:57 2013]  say: Maestro Hispano ^3Amras: bb
+[Sat Oct 19 21:25:00 2013]  say: ^1Z^0eratul: bb
+[Sat Oct 19 21:25:00 2013]  say: Maestro Hispano ^3Amras: xD
+[Sat Oct 19 21:25:35 2013]  say: ^1Z^0eratul: stupid droids lol
+[Sat Oct 19 21:26:12 2013]  say: ^1Z^0eratul: OMG
+[Sat Oct 19 21:26:18 2013]  say: ^1Z^0eratul: ARE U CRAZY?!
+[Sat Oct 19 21:26:38 2013]  say: Maestro Hispano ^3Amras: this is Zombieland
+[Sat Oct 19 21:26:42 2013]  say: ^1Z^0eratul: epic fail lol
+[Sat Oct 19 21:26:58 2013]  say: ^1Z^0eratul: wait
+[Sat Oct 19 21:27:00 2013]  say: ^1Z^0eratul: use it
+[Sat Oct 19 21:27:08 2013]  say: ^1Z^0eratul: use it
+[Sat Oct 19 21:27:09 2013]  say: ^1Z^0eratul: pls
+[Sat Oct 19 21:27:12 2013]  say: ^1Z^0eratul: press R
+[Sat Oct 19 21:27:22 2013]  say: ^1Z^0eratul: lol XD
+[Sat Oct 19 21:27:37 2013]  say: ^1Z^0eratul: lol...
+[Sat Oct 19 21:27:38 2013]  say: Maestro Hispano ^3Amras: hahahahah
+[Sat Oct 19 21:27:39 2013]  say: ^1Z^0eratul: epic fail
+[Sat Oct 19 21:28:10 2013]  say: ^1Z^0eratul: LOL
+[Sat Oct 19 21:28:18 2013]  say: ^1Z^0eratul: fixed
+[Sat Oct 19 21:28:21 2013]  say: Maestro Hispano ^3Amras: xD
+[Sat Oct 19 21:28:41 2013]  say: ^1Z^0eratul: lol
+[Sat Oct 19 21:28:52 2013]  say: ^1Z^0eratul: !
+[Sat Oct 19 21:28:59 2013]  say: Maestro Hispano ^3Amras: 2 dildos?
+[Sat Oct 19 21:29:03 2013]  say: Maestro Hispano ^3Amras: xD
+[Sat Oct 19 21:29:14 2013]  say: ^1Z^0eratul: DIE
+[Sat Oct 19 21:29:16 2013]  say: Maestro Hispano ^3Amras: xDDDDDDDDD
+[Sat Oct 19 21:29:36 2013]  say: ^1Z^0eratul: lol....
+[Sat Oct 19 21:29:53 2013]  say: ^1Z^0eratul: wait lol
+[Sat Oct 19 21:30:14 2013]  say: ^1Z^0eratul: lol....
+[Sat Oct 19 21:30:26 2013]  say: ^1Z^0eratul: look lol
+[Sat Oct 19 21:30:35 2013]  say: Maestro Hispano ^3Amras: xD
+[Sat Oct 19 21:30:46 2013]  say: ^1Z^0eratul: 2 dildo
+[Sat Oct 19 21:30:48 2013]  say: ^1Z^0eratul: want use it?
+[Sat Oct 19 21:31:00 2013]  say: ^1Z^0eratul: lol
+[Sat Oct 19 21:31:01 2013]  say: ^1Z^0eratul: use it
+[Sat Oct 19 21:31:21 2013]  say: ^1Z^0eratul: BSSS
+[Sat Oct 19 21:31:32 2013]  say: ^1Z^0eratul: look up
+[Sat Oct 19 21:31:33 2013]  say: ^1Z^0eratul: lol
+[Sat Oct 19 21:32:28 2013]  say: ^1Z^0eratul: fixed
+[Sat Oct 19 21:32:29 2013]  say: ^1Z^0eratul: xD
+[Sat Oct 19 21:32:40 2013]  say: Maestro Hispano ^3Amras: sry
+[Sat Oct 19 21:32:59 2013]  say: ^1Z^0eratul: FIXED
+[Sat Oct 19 21:33:09 2013]  say: Maestro Hispano ^3Amras: looool
+[Sat Oct 19 21:33:19 2013]  say: ^1Z^0eratul: LOL
+[Sat Oct 19 21:34:12 2013]  say: Maestro Hispano ^3Amras: oh,im going,take care ^^
+[Sat Oct 19 21:34:26 2013]  say: Maestro Hispano ^3Amras: byee
+[Sat Oct 19 21:34:29 2013]  ClientDisconnect: 1
+[Sat Oct 19 21:34:34 2013]  say: ^1Z^0eratul: bb
+[Sat Oct 19 21:34:39 2013]  ClientDisconnect: 0
+[Sat Oct 19 22:19:38 2013]  ------------------------------------------------------------
+[Sat Oct 19 22:19:38 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Oct 20 00:19:32 2013]  Exit: Timelimit hit.
+[Sun Oct 20 14:09:57 2013]  ClientConnect: 0
+[Sun Oct 20 14:09:57 2013]  mlog:Player C^0lack^7 H^0Q, connected. With IP - 86.183.115.249:29070 
+[Sun Oct 20 14:10:22 2013]  ClientBegin: 0
+[Sun Oct 20 14:11:14 2013]  print "^2Nathan^7 @@@PLRENAME ^3^0Darth^8 ^7Clac^8k
+"[Sun Oct 20 14:11:25 2013]  ShutdownGame:
+[Sun Oct 20 14:11:25 2013]  ------------------------------------------------------------

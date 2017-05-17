@@ -1,0 +1,80 @@
+[Wed Apr 30 12:44:53 2014]  ------------------------------------------------------------
+[Wed Apr 30 12:44:53 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Apr 30 14:44:53 2014]  Exit: Timelimit hit.
+[Wed Apr 30 19:48:33 2014]  ------------------------------------------------------------
+[Wed Apr 30 19:48:33 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Apr 30 21:22:28 2014]  ClientConnect: 0
+[Wed Apr 30 21:22:28 2014]  mlog:Player Padawan, connected. With IP - 68.189.241.16:29070 
+[Wed Apr 30 21:22:35 2014]  ClientConnect: 1
+[Wed Apr 30 21:22:35 2014]  mlog:Player ^4Jedi Knight Thanaton, connected. With IP - 24.181.236.49:29070 
+[Wed Apr 30 21:22:57 2014]  ClientBegin: 1
+[Wed Apr 30 21:23:19 2014]  Kill: 1 1 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Wed Apr 30 21:23:32 2014]  Kill: 1 1 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Wed Apr 30 21:23:44 2014]  ClientBegin: 0
+[Wed Apr 30 21:23:55 2014]  Kill: 1 0 3: ^9Darth Thanaton killed A.I. by MOD_SABER
+[Wed Apr 30 21:23:56 2014]  say: A.I.: gof
+[Wed Apr 30 21:25:42 2014]  Kill: 1 1 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Wed Apr 30 21:26:02 2014]  Kill: 0 0 39: A.I. killed A.I. by MOD_SUICIDE
+[Wed Apr 30 21:26:03 2014]  Kill: 1 1 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Wed Apr 30 21:26:18 2014]  Kill: 0 1 3: A.I. killed ^9Darth Thanaton by MOD_SABER
+[Wed Apr 30 21:27:54 2014]  print "A.I.^7 @@@PLRENAME ^9Emperor Zaeleon
+"[Wed Apr 30 21:30:21 2014]  Kill: 0 0 39: ^9Emperor Zaeleon killed ^9Emperor Zaeleon by MOD_SUICIDE
+[Wed Apr 30 21:32:44 2014]  Kill: 1 1 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Wed Apr 30 21:35:52 2014]  Kill: 1022 0 2: <world> killed ^9Emperor Zaeleon by MOD_MELEE
+[Wed Apr 30 21:36:10 2014]  say: ^9Emperor Zaeleon: killall
+[Wed Apr 30 21:36:37 2014]  Kill: 1 1 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Wed Apr 30 21:37:40 2014]  Item: 1 weapon_blaster
+[Wed Apr 30 21:41:50 2014]  say: ^9Emperor Zaeleon: npc kill all
+[Wed Apr 30 21:44:36 2014]  Kill: 0 0 39: ^9Emperor Zaeleon killed ^9Emperor Zaeleon by MOD_SUICIDE
+[Wed Apr 30 21:44:51 2014]  Kill: 1 1 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Wed Apr 30 21:45:22 2014]  say: ^9Darth Thanaton: kill]
+[Wed Apr 30 21:45:24 2014]  Kill: 1 1 39: ^9Darth Thanaton killed ^9Darth Thanaton by MOD_SUICIDE
+[Wed Apr 30 21:46:37 2014]  say: ^9Darth Thanaton: gof
+[Wed Apr 30 21:47:18 2014]  Kill: 0 1 3: ^9Emperor Zaeleon killed ^9Darth Thanaton by MOD_SABER
+[Wed Apr 30 21:47:45 2014]  Kill: 0 1 3: ^9Emperor Zaeleon killed ^9Darth Thanaton by MOD_SABER
+[Wed Apr 30 21:48:00 2014]  Kill: 0 1 3: ^9Emperor Zaeleon killed ^9Darth Thanaton by MOD_SABER
+[Wed Apr 30 21:48:35 2014]  Exit: Timelimit hit.
+[Wed Apr 30 21:48:35 2014]  score: 8  ping: 120  client: 0 ^9Emperor Zaeleon
+[Wed Apr 30 21:48:35 2014]  score: 6  ping: 106  client: 1 ^9Darth Thanaton
+[Wed Apr 30 21:48:41 2014]  ShutdownGame:
+[Wed Apr 30 21:48:41 2014]  ------------------------------------------------------------
+[Wed Apr 30 21:48:42 2014]  ------------------------------------------------------------
+[Wed Apr 30 21:48:42 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Apr 30 21:48:42 2014]  ClientConnect: 0
+[Wed Apr 30 21:48:42 2014]  ClientConnect: 1
+[Wed Apr 30 21:48:51 2014]  ClientBegin: 1
+[Wed Apr 30 21:49:12 2014]  ClientBegin: 0
+[Wed Apr 30 21:49:29 2014]  print "^9Darth Thanaton^7 @@@PLRENAME ^3Boba Fett
+"[Wed Apr 30 21:49:31 2014]  say: ^3Boba Fett: Wkill
+[Wed Apr 30 21:49:32 2014]  Kill: 1 1 39: ^3Boba Fett killed ^3Boba Fett by MOD_SUICIDE
+[Wed Apr 30 21:50:30 2014]  Kill: 1 1 39: ^3Boba Fett killed ^3Boba Fett by MOD_SUICIDE
+[Wed Apr 30 21:50:31 2014]  print "^9Emperor Zaeleon^7 @@@PLRENAME Master  Makolie
+"[Wed Apr 30 21:50:43 2014]  Kill: 1 1 39: ^3Boba Fett killed ^3Boba Fett by MOD_SUICIDE
+[Wed Apr 30 21:51:21 2014]  Kill: 0 0 39: Master  Makolie killed Master  Makolie by MOD_SUICIDE
+[Wed Apr 30 21:55:13 2014]  Item: 0 ammo_all
+[Wed Apr 30 21:58:31 2014]  Item: 1 ammo_all
+[Wed Apr 30 21:58:35 2014]  Item: 0 ammo_all
+[Wed Apr 30 21:58:45 2014]  Item: 1 ammo_all
+[Wed Apr 30 21:58:46 2014]  Item: 1 ammo_all
+[Wed Apr 30 22:00:45 2014]  Item: 1 ammo_all
+[Wed Apr 30 22:01:24 2014]  Item: 0 ammo_all
+[Wed Apr 30 22:01:32 2014]  Item: 1 ammo_all
+[Wed Apr 30 22:01:37 2014]  Item: 1 ammo_all
+[Wed Apr 30 22:01:41 2014]  Item: 1 ammo_all
+[Wed Apr 30 22:01:45 2014]  Item: 1 ammo_all
+[Wed Apr 30 22:01:58 2014]  Item: 1 ammo_all
+[Wed Apr 30 22:01:59 2014]  Item: 1 ammo_all
+[Wed Apr 30 22:02:23 2014]  Item: 1 ammo_all
+[Wed Apr 30 22:05:46 2014]  Item: 1 ammo_all
+[Wed Apr 30 22:10:51 2014]  Kill: 1 1 39: ^3Boba Fett killed ^3Boba Fett by MOD_SUICIDE
+[Wed Apr 30 22:11:23 2014]  ClientDisconnect: 1
+[Wed Apr 30 22:13:02 2014]  ClientDisconnect: 0
+[Wed Apr 30 23:48:41 2014]  Exit: Timelimit hit.
+[Thu May 01 12:16:31 2014]  ClientConnect: 0
+[Thu May 01 12:16:31 2014]  mlog:Player WhiteMagicRaven, connected. With IP - 92.113.210.129:29070 
+[Thu May 01 12:16:41 2014]  ClientDisconnect: 0
+[Thu May 01 18:16:13 2014]  ClientConnect: 0
+[Thu May 01 18:16:13 2014]  mlog:Player ^5T^0asma^7n^5n^7!^0¹, connected. With IP - 75.150.172.57:29070 
+[Thu May 01 18:16:32 2014]  ClientBegin: 0
+[Thu May 01 18:16:39 2014]  ShutdownGame:
+[Thu May 01 18:16:39 2014]  ------------------------------------------------------------

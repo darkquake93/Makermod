@@ -1,0 +1,2805 @@
+[Mon Dec 28 13:38:57 2015]  ------------------------------------------------------------
+[Mon Dec 28 13:38:57 2015]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Dec 28 17:47:45 2015]  ------------------------------------------------------------
+[Mon Dec 28 17:47:45 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Dec 28 17:56:51 2015]  ------------------------------------------------------------
+[Mon Dec 28 17:56:51 2015]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Dec 29 10:46:42 2015]  ClientConnect: 0
+[Tue Dec 29 10:46:42 2015]  mlog:Player kasme, connected. With IP - 89.166.56.251:-3060 
+[Tue Dec 29 10:46:57 2015]  ClientBegin: 0
+[Tue Dec 29 10:47:50 2015]  ClientDisconnect: 0
+[Tue Dec 29 14:09:58 2015]  ClientConnect: 0
+[Tue Dec 29 14:09:58 2015]  mlog:Player ^2N^0izzle, connected. With IP - 84.132.92.232:-3172 
+[Tue Dec 29 14:10:18 2015]  ClientBegin: 0
+[Tue Dec 29 14:12:58 2015]  ClientDisconnect: 0
+[Tue Dec 29 19:14:18 2015]  ClientConnect: 0
+[Tue Dec 29 19:14:18 2015]  mlog:Player Anakin, connected. With IP - 209.99.196.33:29070 
+[Tue Dec 29 19:14:33 2015]  ClientBegin: 0
+[Tue Dec 29 19:18:02 2015]  ClientDisconnect: 0
+[Tue Dec 29 19:39:36 2015]  ClientConnect: 0
+[Tue Dec 29 19:39:36 2015]  mlog:Player Padawan, connected. With IP - 91.20.145.170:-9941 
+[Tue Dec 29 19:39:52 2015]  ClientBegin: 0
+[Tue Dec 29 19:40:01 2015]  ClientDisconnect: 0
+[Tue Dec 29 20:08:29 2015]  ClientConnect: 0
+[Tue Dec 29 20:08:29 2015]  mlog:Player jony, connected. With IP - 109.165.119.31:29070 
+[Tue Dec 29 20:09:00 2015]  ClientBegin: 0
+[Tue Dec 29 20:25:42 2015]  Kill: 1022 0 38: <world> killed Padawan by MOD_FALLING
+[Tue Dec 29 20:27:00 2015]  ClientDisconnect: 0
+[Tue Dec 29 20:27:57 2015]  ClientConnect: 0
+[Tue Dec 29 20:27:57 2015]  mlog:Player ^0 Dorak Teringar, connected. With IP - 87.142.242.200:29070 
+[Tue Dec 29 20:28:26 2015]  ClientBegin: 0
+[Tue Dec 29 20:29:40 2015]  Kill: 0 0 39: ^0 Dorak Teringar killed ^0 Dorak Teringar by MOD_SUICIDE
+[Tue Dec 29 20:36:03 2015]  ClientDisconnect: 0
+[Tue Dec 29 21:13:08 2015]  ClientConnect: 0
+[Tue Dec 29 21:13:08 2015]  mlog:Player Nejvíc pán, connected. With IP - 109.81.210.218:-5171 
+[Tue Dec 29 21:13:32 2015]  ClientBegin: 0
+[Tue Dec 29 21:13:32 2015]  ClientDisconnect: 0
+[Tue Dec 29 21:13:32 2015]  ClientDisconnect: 0
+[Tue Dec 29 21:13:32 2015]  ClientConnect: 0
+[Tue Dec 29 21:13:32 2015]  mlog:Player Nejvíc pán, connected. With IP - 109.81.210.218:-5171 
+[Tue Dec 29 21:13:42 2015]  ClientBegin: 0
+[Tue Dec 29 21:13:47 2015]  ClientConnect: 1
+[Tue Dec 29 21:13:47 2015]  mlog:Player Malík , connected. With IP - 193.165.95.34:29070 
+[Tue Dec 29 21:13:49 2015]  ClientConnect: 2
+[Tue Dec 29 21:13:49 2015]  mlog:Player Slavik, connected. With IP - 77.48.243.18:-21032 
+[Tue Dec 29 21:14:00 2015]  ClientBegin: 2
+[Tue Dec 29 21:14:00 2015]  ClientDisconnect: 2
+[Tue Dec 29 21:14:00 2015]  ClientDisconnect: 2
+[Tue Dec 29 21:14:00 2015]  ClientConnect: 2
+[Tue Dec 29 21:14:00 2015]  mlog:Player Padawan, connected. With IP - 77.48.243.18:-21032 
+[Tue Dec 29 21:14:06 2015]  ClientBegin: 1
+[Tue Dec 29 21:14:06 2015]  ClientDisconnect: 1
+[Tue Dec 29 21:14:06 2015]  ClientDisconnect: 1
+[Tue Dec 29 21:14:06 2015]  ClientConnect: 1
+[Tue Dec 29 21:14:06 2015]  mlog:Player Malík , connected. With IP - 193.165.95.34:29070 
+[Tue Dec 29 21:14:07 2015]  ClientBegin: 2
+[Tue Dec 29 21:14:14 2015]  ClientBegin: 1
+[Tue Dec 29 21:14:32 2015]  print "Padawan^7 @@@PLRENAME Han Solo
+"[Tue Dec 29 21:14:58 2015]  Kill: 0 2 3: Nejvíc pán killed Han Solo by MOD_SABER
+[Tue Dec 29 21:15:14 2015]  Kill: 2 0 5: Han Solo killed Nejvíc pán by MOD_BRYAR_PISTOL_ALT
+[Tue Dec 29 21:17:09 2015]  Kill: 0 1 3: Nejvíc pán killed Malík  by MOD_SABER
+[Tue Dec 29 21:18:52 2015]  Kill: 1022 0 38: <world> killed Nejvíc pán by MOD_FALLING
+[Tue Dec 29 21:20:56 2015]  Kill: 2 1 3: Han Solo killed Malík  by MOD_SABER
+[Tue Dec 29 21:22:09 2015]  Kill: 2 0 5: Han Solo killed Nejvíc pán by MOD_BRYAR_PISTOL_ALT
+[Tue Dec 29 21:22:33 2015]  Kill: 1 2 3: Malík  killed Han Solo by MOD_SABER
+[Tue Dec 29 21:22:39 2015]  Kill: 0 2 37: Nejvíc pán killed Han Solo by MOD_TELEFRAG
+[Tue Dec 29 21:26:07 2015]  Kill: 1022 1 39: <world> killed Malík  by MOD_SUICIDE
+[Tue Dec 29 21:28:20 2015]  print "Malík ^7 @@@PLRENAME Lokout
+"[Tue Dec 29 21:31:00 2015]  Kill: 1022 0 38: <world> killed Nejvíc pán by MOD_FALLING
+[Tue Dec 29 21:31:16 2015]  ClientDisconnect: 0
+[Tue Dec 29 21:31:42 2015]  ClientDisconnect: 1
+[Tue Dec 29 21:31:46 2015]  Kill: 1022 2 38: <world> killed Han Solo by MOD_FALLING
+[Tue Dec 29 21:32:08 2015]  ClientDisconnect: 2
+[Tue Dec 29 22:39:43 2015]  ClientConnect: 0
+[Tue Dec 29 22:39:43 2015]  mlog:Player Padawan, connected. With IP - 81.236.221.205:-6140 
+[Tue Dec 29 22:40:06 2015]  ClientBegin: 0
+[Tue Dec 29 22:40:30 2015]  print "Padawan^7 @@@PLRENAME Itzak
+"[Tue Dec 29 22:41:08 2015]  ClientConnect: 1
+[Tue Dec 29 22:41:08 2015]  mlog:Player Blomster, connected. With IP - 81.236.221.205:-5383 
+[Tue Dec 29 22:41:20 2015]  ClientBegin: 1
+[Tue Dec 29 22:41:53 2015]  Kill: 1 0 3: Padawan killed Itzak by MOD_SABER
+[Tue Dec 29 22:42:13 2015]  Kill: 1 0 3: Padawan killed Itzak by MOD_SABER
+[Tue Dec 29 22:42:39 2015]  Kill: 1 0 3: Padawan killed Itzak by MOD_SABER
+[Tue Dec 29 22:43:49 2015]  ClientDisconnect: 0
+[Tue Dec 29 22:43:53 2015]  ClientDisconnect: 1
+[Wed Dec 30 00:00:50 2015]  ClientConnect: 0
+[Wed Dec 30 00:00:50 2015]  mlog:Player Padawan, connected. With IP - 79.71.77.190:29070 
+[Wed Dec 30 00:01:06 2015]  ClientBegin: 0
+[Wed Dec 30 00:01:58 2015]  ClientConnect: 1
+[Wed Dec 30 00:01:58 2015]  mlog:Player Grey Jedi Samli, connected. With IP - 92.26.135.26:29070 
+[Wed Dec 30 00:02:17 2015]  ClientBegin: 1
+[Wed Dec 30 00:04:21 2015]  Kill: 1 0 3: Grey Jedi Samli killed Stoney by MOD_SABER
+[Wed Dec 30 00:06:49 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:07:06 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:07:48 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:08:55 2015]  Kill: 1 0 3: Grey Jedi Samli killed Stoney by MOD_SABER
+[Wed Dec 30 00:09:26 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:10:27 2015]  Kill: 1 0 3: Grey Jedi Samli killed Stoney by MOD_SABER
+[Wed Dec 30 00:10:42 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:10:59 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:11:29 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:12:31 2015]  Kill: 1 0 3: Grey Jedi Samli killed Stoney by MOD_SABER
+[Wed Dec 30 00:12:48 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:13:19 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:13:36 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:14:33 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:14:45 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:15:01 2015]  Kill: 1 0 3: Grey Jedi Samli killed Stoney by MOD_SABER
+[Wed Dec 30 00:15:28 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:15:49 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:16:09 2015]  Kill: 0 1 3: Stoney killed Grey Jedi Samli by MOD_SABER
+[Wed Dec 30 00:16:12 2015]  ClientDisconnect: 0
+[Wed Dec 30 00:16:38 2015]  ClientDisconnect: 1
+[Wed Dec 30 00:17:52 2015]  ClientConnect: 0
+[Wed Dec 30 00:17:52 2015]  mlog:Player BIGLY, connected. With IP - 173.184.32.159:-4385 
+[Wed Dec 30 00:18:12 2015]  ClientBegin: 0
+[Wed Dec 30 00:19:07 2015]  ClientDisconnect: 0
+[Wed Dec 30 02:33:28 2015]  ClientConnect: 0
+[Wed Dec 30 02:33:28 2015]  mlog:Player Vesterian, connected. With IP - 107.217.33.2:29070 
+[Wed Dec 30 02:33:48 2015]  ClientBegin: 0
+[Wed Dec 30 02:35:11 2015]  ClientDisconnect: 0
+[Wed Dec 30 14:05:45 2015]  ClientConnect: 0
+[Wed Dec 30 14:05:45 2015]  mlog:Player Padawan, connected. With IP - 83.24.4.1:29070 
+[Wed Dec 30 14:05:58 2015]  ClientBegin: 0
+[Wed Dec 30 14:09:59 2015]  ClientDisconnect: 0
+[Wed Dec 30 14:16:29 2015]  ClientConnect: 0
+[Wed Dec 30 14:16:29 2015]  mlog:Player S_A_P_P_Y, connected. With IP - 176.102.167.202:29070 
+[Wed Dec 30 14:16:30 2015]  ClientConnect: 1
+[Wed Dec 30 14:16:30 2015]  mlog:Player Padawan, connected. With IP - 176.102.162.234:29070 
+[Wed Dec 30 14:16:49 2015]  ClientBegin: 1
+[Wed Dec 30 14:16:52 2015]  ClientBegin: 0
+[Wed Dec 30 14:16:52 2015]  ClientDisconnect: 0
+[Wed Dec 30 14:16:52 2015]  ClientDisconnect: 0
+[Wed Dec 30 14:16:52 2015]  ClientConnect: 0
+[Wed Dec 30 14:16:52 2015]  mlog:Player S_A_P_P_Y, connected. With IP - 176.102.167.202:29070 
+[Wed Dec 30 14:17:01 2015]  ClientBegin: 0
+[Wed Dec 30 14:20:05 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:20:36 2015]  Kill: 0 1 5: S_A_P_P_Y killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Wed Dec 30 14:22:06 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:23:08 2015]  ClientDisconnect: 1
+[Wed Dec 30 14:24:17 2015]  ClientConnect: 1
+[Wed Dec 30 14:24:18 2015]  mlog:Player Padawan, connected. With IP - 176.102.162.234:29070 
+[Wed Dec 30 14:24:21 2015]  ClientDisconnect: 1
+[Wed Dec 30 14:24:21 2015]  ClientConnect: 1
+[Wed Dec 30 14:24:21 2015]  mlog:Player Padawan, connected. With IP - 176.102.162.234:29070 
+[Wed Dec 30 14:24:42 2015]  ClientBegin: 1
+[Wed Dec 30 14:24:50 2015]  ClientConnect: 2
+[Wed Dec 30 14:24:50 2015]  mlog:Player Anonymous, connected. With IP - 193.160.224.47:29071 
+[Wed Dec 30 14:24:57 2015]  ClientDisconnect: 2
+[Wed Dec 30 14:25:53 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:26:06 2015]  Kill: 0 1 31: S_A_P_P_Y killed Padawan by MOD_FORCE_DARK
+[Wed Dec 30 14:26:33 2015]  Kill: 1022 1 2: <world> killed Padawan by MOD_MELEE
+[Wed Dec 30 14:27:31 2015]  Kill: 0 1 31: S_A_P_P_Y killed Padawan by MOD_FORCE_DARK
+[Wed Dec 30 14:28:28 2015]  Kill: 1022 0 38: <world> killed S_A_P_P_Y by MOD_FALLING
+[Wed Dec 30 14:28:54 2015]  Kill: 0 1 31: S_A_P_P_Y killed Padawan by MOD_FORCE_DARK
+[Wed Dec 30 14:30:16 2015]  Kill: 0 1 31: S_A_P_P_Y killed Padawan by MOD_FORCE_DARK
+[Wed Dec 30 14:30:39 2015]  Kill: 1 0 31: Padawan killed S_A_P_P_Y by MOD_FORCE_DARK
+[Wed Dec 30 14:31:15 2015]  Kill: 0 1 31: S_A_P_P_Y killed Padawan by MOD_FORCE_DARK
+[Wed Dec 30 14:31:58 2015]  ClientConnect: 2
+[Wed Dec 30 14:31:58 2015]  mlog:Player Cultris, connected. With IP - 84.248.200.18:29070 
+[Wed Dec 30 14:32:15 2015]  ClientBegin: 2
+[Wed Dec 30 14:32:21 2015]  ClientDisconnect: 2
+[Wed Dec 30 14:33:16 2015]  Kill: 1 0 31: Padawan killed S_A_P_P_Y by MOD_FORCE_DARK
+[Wed Dec 30 14:33:55 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:34:07 2015]  Kill: 0 1 31: S_A_P_P_Y killed Padawan by MOD_FORCE_DARK
+[Wed Dec 30 14:34:26 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:35:03 2015]  Kill: 0 1 4: S_A_P_P_Y killed Padawan by MOD_BRYAR_PISTOL
+[Wed Dec 30 14:36:45 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:37:26 2015]  Kill: 1 0 31: Padawan killed S_A_P_P_Y by MOD_FORCE_DARK
+[Wed Dec 30 14:38:15 2015]  Kill: 0 1 31: S_A_P_P_Y killed Padawan by MOD_FORCE_DARK
+[Wed Dec 30 14:38:27 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:38:47 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:40:29 2015]  Kill: 1 0 5: Padawan killed S_A_P_P_Y by MOD_BRYAR_PISTOL_ALT
+[Wed Dec 30 14:40:44 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:40:57 2015]  Kill: 1 0 31: Padawan killed S_A_P_P_Y by MOD_FORCE_DARK
+[Wed Dec 30 14:41:49 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:41:56 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:42:14 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:42:57 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:43:13 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:43:23 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:43:41 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:44:02 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:44:44 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:45:16 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:45:38 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:45:56 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:46:22 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:46:31 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:46:51 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:47:17 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:47:28 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:47:43 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:48:02 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:48:10 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:48:28 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:48:39 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:49:01 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:49:55 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:50:08 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:50:26 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:50:37 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:50:45 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:50:57 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:51:06 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:51:37 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:51:53 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:52:05 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:52:15 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:52:23 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:52:30 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:53:15 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:53:36 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:53:55 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:54:06 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:54:18 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:54:32 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:54:40 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:55:04 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:55:13 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:55:36 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:55:46 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:56:12 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:56:23 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:56:44 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:56:59 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:57:20 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:57:35 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:57:48 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:58:02 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:58:22 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:59:11 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 14:59:15 2015]  say: Padawan: we fe wfsddsadw   
+[Wed Dec 30 14:59:44 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 14:59:51 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 15:00:57 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 15:01:39 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 15:02:12 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 15:02:25 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 15:02:43 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 15:03:00 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 15:03:07 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 15:03:30 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 15:03:40 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 15:03:56 2015]  Kill: 0 1 3: S_A_P_P_Y killed Padawan by MOD_SABER
+[Wed Dec 30 15:04:24 2015]  Kill: 1 0 3: Padawan killed S_A_P_P_Y by MOD_SABER
+[Wed Dec 30 15:04:37 2015]  ClientDisconnect: 0
+[Wed Dec 30 15:04:48 2015]  ClientDisconnect: 1
+[Wed Dec 30 16:15:08 2015]  ClientConnect: 0
+[Wed Dec 30 16:15:08 2015]  mlog:Player ^1idiot!?&^.@, connected. With IP - 93.100.4.38:29070 
+[Wed Dec 30 16:15:26 2015]  ClientBegin: 0
+[Wed Dec 30 16:18:42 2015]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Dec 30 16:19:24 2015]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Dec 30 16:19:57 2015]  ClientDisconnect: 0
+[Wed Dec 30 16:26:45 2015]  ClientConnect: 0
+[Wed Dec 30 16:26:45 2015]  mlog:Player mulcher, connected. With IP - 87.159.37.195:29070 
+[Wed Dec 30 16:27:01 2015]  ClientDisconnect: 0
+[Wed Dec 30 18:33:05 2015]  ClientConnect: 0
+[Wed Dec 30 18:33:05 2015]  mlog:Player Red Ravefale, connected. With IP - 109.227.122.107:29070 
+[Wed Dec 30 18:33:39 2015]  ClientBegin: 0
+[Wed Dec 30 18:33:55 2015]  Kill: 0 0 39: Red Ravefale killed Red Ravefale by MOD_SUICIDE
+[Wed Dec 30 18:33:55 2015]  setteam:  0 FREE SPECTATOR
+[Wed Dec 30 18:33:55 2015]  ClientBegin: 0
+[Wed Dec 30 18:34:07 2015]  setteam:  0 SPECTATOR FREE
+[Wed Dec 30 18:34:07 2015]  ClientBegin: 0
+[Wed Dec 30 18:34:49 2015]  ClientDisconnect: 0
+[Wed Dec 30 18:37:15 2015]  ClientConnect: 0
+[Wed Dec 30 18:37:15 2015]  mlog:Player Padawan, connected. With IP - 77.222.103.107:29070 
+[Wed Dec 30 18:37:21 2015]  ClientConnect: 1
+[Wed Dec 30 18:37:21 2015]  mlog:Player Padawan, connected. With IP - 77.222.107.241:29071 
+[Wed Dec 30 18:37:39 2015]  ClientBegin: 0
+[Wed Dec 30 18:37:53 2015]  ClientBegin: 1
+[Wed Dec 30 18:38:16 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:43:31 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:43:41 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:43:50 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:44:05 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:44:10 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:44:29 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:44:38 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:45:13 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:45:28 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:46:04 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:46:27 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:46:37 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:46:47 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:47:10 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:47:16 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:47:32 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:47:44 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:47:50 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:48:14 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:48:29 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:48:39 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:48:58 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:49:08 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:49:40 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:49:55 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:50:04 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:50:31 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:51:20 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:51:34 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:51:43 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:51:50 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:51:54 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:52:03 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:52:20 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 18:52:32 2015]  ClientDisconnect: 0
+[Wed Dec 30 18:52:37 2015]  ClientDisconnect: 1
+[Wed Dec 30 19:39:54 2015]  ClientConnect: 0
+[Wed Dec 30 19:39:54 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Wed Dec 30 19:44:37 2015]  ClientDisconnect: 0
+[Wed Dec 30 19:46:14 2015]  ClientConnect: 0
+[Wed Dec 30 19:46:14 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Wed Dec 30 19:46:39 2015]  ClientDisconnect: 0
+[Wed Dec 30 19:50:33 2015]  ClientConnect: 0
+[Wed Dec 30 19:50:33 2015]  mlog:Player RUSS, connected. With IP - 192.166.117.252:29070 
+[Wed Dec 30 19:50:34 2015]  ClientConnect: 1
+[Wed Dec 30 19:50:34 2015]  mlog:Player Valera, connected. With IP - 192.166.117.252:1026 
+[Wed Dec 30 19:50:49 2015]  ClientBegin: 0
+[Wed Dec 30 19:50:54 2015]  ClientBegin: 1
+[Wed Dec 30 19:52:00 2015]  Kill: 1022 0 6: <world> killed RUSS by MOD_BLASTER
+[Wed Dec 30 19:53:41 2015]  say: RUSS: /msaveobs
+[Wed Dec 30 19:58:38 2015]  say: Valera: /msaveobs
+[Wed Dec 30 20:00:13 2015]  Kill: 1022 1 38: <world> killed Valera by MOD_FALLING
+[Wed Dec 30 20:01:54 2015]  ClientDisconnect: 0
+[Wed Dec 30 20:02:01 2015]  ClientDisconnect: 1
+[Wed Dec 30 20:05:07 2015]  ClientConnect: 0
+[Wed Dec 30 20:05:07 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Wed Dec 30 20:05:13 2015]  ClientDisconnect: 0
+[Wed Dec 30 20:05:33 2015]  ClientConnect: 0
+[Wed Dec 30 20:05:33 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Wed Dec 30 20:06:39 2015]  ClientDisconnect: 0
+[Wed Dec 30 20:24:13 2015]  ClientConnect: 0
+[Wed Dec 30 20:24:13 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Wed Dec 30 20:29:28 2015]  ClientDisconnect: 0
+[Wed Dec 30 21:05:04 2015]  ClientConnect: 0
+[Wed Dec 30 21:05:04 2015]  mlog:Player Korolevsky, connected. With IP - 130.255.140.88:29070 
+[Wed Dec 30 21:05:25 2015]  ClientBegin: 0
+[Wed Dec 30 21:05:48 2015]  ClientConnect: 1
+[Wed Dec 30 21:05:48 2015]  mlog:Player Azot671, connected. With IP - 109.95.75.121:28876 
+[Wed Dec 30 21:06:07 2015]  ClientBegin: 1
+[Wed Dec 30 21:06:53 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:07:01 2015]  Kill: 1 0 3: Azot671 killed Padawan by MOD_SABER
+[Wed Dec 30 21:07:35 2015]  Kill: 1 0 3: Azot671 killed Padawan by MOD_SABER
+[Wed Dec 30 21:07:52 2015]  Kill: 0 1 31: Padawan killed Azot671 by MOD_FORCE_DARK
+[Wed Dec 30 21:08:36 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:09:55 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:10:02 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:10:11 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:10:16 2015]  Kill: 1 0 3: Azot671 killed Padawan by MOD_SABER
+[Wed Dec 30 21:10:34 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:11:12 2015]  Kill: 1 0 31: Azot671 killed Padawan by MOD_FORCE_DARK
+[Wed Dec 30 21:11:18 2015]  Kill: 0 1 31: Padawan killed Azot671 by MOD_FORCE_DARK
+[Wed Dec 30 21:11:38 2015]  ClientConnect: 2
+[Wed Dec 30 21:11:38 2015]  mlog:Player Padawan, connected. With IP - 89.70.145.241:29070 
+[Wed Dec 30 21:12:02 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:12:23 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:12:42 2015]  ClientDisconnect: 2
+[Wed Dec 30 21:12:58 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:13:05 2015]  Kill: 1 0 3: Azot671 killed Padawan by MOD_SABER
+[Wed Dec 30 21:13:17 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:13:24 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:13:54 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:14:07 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:14:28 2015]  Kill: 1 0 3: Azot671 killed Padawan by MOD_SABER
+[Wed Dec 30 21:14:45 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:15:02 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:15:16 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:15:53 2015]  Kill: 1 0 3: Azot671 killed Padawan by MOD_SABER
+[Wed Dec 30 21:16:08 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:16:14 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:16:23 2015]  Kill: 1 0 3: Azot671 killed Padawan by MOD_SABER
+[Wed Dec 30 21:16:32 2015]  Kill: 1 0 3: Azot671 killed Padawan by MOD_SABER
+[Wed Dec 30 21:16:53 2015]  Kill: 1 0 3: Azot671 killed Padawan by MOD_SABER
+[Wed Dec 30 21:17:29 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:17:54 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:18:22 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:18:39 2015]  Kill: 0 1 3: Padawan killed Azot671 by MOD_SABER
+[Wed Dec 30 21:19:09 2015]  Kill: 1 0 3: Azot671 killed Padawan by MOD_SABER
+[Wed Dec 30 21:19:28 2015]  Kill: 1 0 3: Azot671 killed Padawan by MOD_SABER
+[Wed Dec 30 21:19:44 2015]  Kill: 1 0 3: Azot671 killed Padawan by MOD_SABER
+[Wed Dec 30 21:20:04 2015]  print "Padawan^7 @@@PLRENAME Korolevsky
+"[Wed Dec 30 21:20:26 2015]  Kill: 0 1 3: Korolevsky killed Azot671 by MOD_SABER
+[Wed Dec 30 21:20:43 2015]  Kill: 1 0 3: Azot671 killed Korolevsky by MOD_SABER
+[Wed Dec 30 21:20:53 2015]  Kill: 1 0 3: Azot671 killed Korolevsky by MOD_SABER
+[Wed Dec 30 21:20:54 2015]  ClientDisconnect: 0
+[Wed Dec 30 21:21:00 2015]  ClientDisconnect: 1
+[Wed Dec 30 21:38:03 2015]  ClientConnect: 0
+[Wed Dec 30 21:38:03 2015]  mlog:Player Draco, connected. With IP - 217.129.119.30:29070 
+[Wed Dec 30 21:38:21 2015]  ClientConnect: 1
+[Wed Dec 30 21:38:21 2015]  mlog:Player Andrew, connected. With IP - 85.138.209.218:29070 
+[Wed Dec 30 21:38:25 2015]  ClientBegin: 0
+[Wed Dec 30 21:38:34 2015]  ClientBegin: 1
+[Wed Dec 30 21:40:04 2015]  Kill: 0 1 3: Draco killed Andrew by MOD_SABER
+[Wed Dec 30 21:40:23 2015]  Kill: 1 0 3: Andrew killed Draco by MOD_SABER
+[Wed Dec 30 21:42:32 2015]  Kill: 0 1 3: Draco killed Andrew by MOD_SABER
+[Wed Dec 30 21:43:27 2015]  Kill: 1 0 3: Andrew killed Draco by MOD_SABER
+[Wed Dec 30 21:43:52 2015]  Kill: 0 1 3: Draco killed Andrew by MOD_SABER
+[Wed Dec 30 21:44:16 2015]  Kill: 0 1 3: Draco killed Andrew by MOD_SABER
+[Wed Dec 30 21:44:28 2015]  Kill: 1 0 3: Andrew killed Draco by MOD_SABER
+[Wed Dec 30 21:45:03 2015]  Kill: 1 0 3: Andrew killed Draco by MOD_SABER
+[Wed Dec 30 21:45:29 2015]  Kill: 0 1 3: Draco killed Andrew by MOD_SABER
+[Wed Dec 30 21:46:28 2015]  Kill: 1 0 3: Andrew killed Draco by MOD_SABER
+[Wed Dec 30 21:46:51 2015]  Kill: 1 0 3: Andrew killed Draco by MOD_SABER
+[Wed Dec 30 21:47:35 2015]  Kill: 1 0 3: Andrew killed Draco by MOD_SABER
+[Wed Dec 30 21:49:02 2015]  Kill: 0 1 3: Draco killed Andrew by MOD_SABER
+[Wed Dec 30 21:49:39 2015]  Kill: 0 1 3: Draco killed Andrew by MOD_SABER
+[Wed Dec 30 21:50:20 2015]  Kill: 1 0 3: Andrew killed Draco by MOD_SABER
+[Wed Dec 30 21:50:55 2015]  Kill: 1 0 3: Andrew killed Draco by MOD_SABER
+[Wed Dec 30 21:51:46 2015]  Kill: 1 0 3: Andrew killed Draco by MOD_SABER
+[Wed Dec 30 21:52:01 2015]  Kill: 1 0 3: Andrew killed Draco by MOD_SABER
+[Wed Dec 30 21:52:34 2015]  Kill: 0 1 3: Draco killed Andrew by MOD_SABER
+[Wed Dec 30 21:53:01 2015]  Kill: 0 1 3: Draco killed Andrew by MOD_SABER
+[Wed Dec 30 21:53:59 2015]  Kill: 0 1 3: Draco killed Andrew by MOD_SABER
+[Wed Dec 30 21:54:39 2015]  Kill: 0 1 3: Draco killed Andrew by MOD_SABER
+[Wed Dec 30 21:56:25 2015]  Kill: 1 0 3: Andrew killed Draco by MOD_SABER
+[Wed Dec 30 21:57:02 2015]  Kill: 0 1 3: Draco killed Andrew by MOD_SABER
+[Wed Dec 30 21:57:09 2015]  ClientDisconnect: 1
+[Wed Dec 30 21:57:16 2015]  ClientDisconnect: 0
+[Wed Dec 30 22:19:41 2015]  ClientConnect: 0
+[Wed Dec 30 22:19:41 2015]  mlog:Player Ryg, connected. With IP - 91.158.73.55:29070 
+[Wed Dec 30 22:20:02 2015]  ClientBegin: 0
+[Wed Dec 30 22:21:01 2015]  ClientConnect: 1
+[Wed Dec 30 22:21:01 2015]  mlog:Player JasoNity, connected. With IP - 109.204.148.229:29070 
+[Wed Dec 30 22:21:17 2015]  ClientBegin: 1
+[Wed Dec 30 22:21:49 2015]  Kill: 1 0 3: JasoNity killed Ryg by MOD_SABER
+[Wed Dec 30 22:22:34 2015]  say: Ryg: daguq
+[Wed Dec 30 22:22:40 2015]  Kill: 0 1 3: Ryg killed JasoNity by MOD_SABER
+[Wed Dec 30 22:22:53 2015]  say: JasoNity: lul
+[Wed Dec 30 22:22:54 2015]  say: Ryg: mikset tappanu mua ekoilla :D
+[Wed Dec 30 22:23:15 2015]  Kill: 1 0 3: JasoNity killed Ryg by MOD_SABER
+[Wed Dec 30 22:23:26 2015]  say: JasoNity: hirveetä sohimista tää
+[Wed Dec 30 22:23:47 2015]  Kill: 0 1 3: Ryg killed JasoNity by MOD_SABER
+[Wed Dec 30 22:24:24 2015]  Kill: 1 0 3: JasoNity killed Ryg by MOD_SABER
+[Wed Dec 30 22:24:34 2015]  say: JasoNity: i have no idea how that even happened
+[Wed Dec 30 22:24:41 2015]  say: Ryg: jotenkin blokkasit ton mun hypyn :D
+[Wed Dec 30 22:25:16 2015]  Kill: 1 0 3: JasoNity killed Ryg by MOD_SABER
+[Wed Dec 30 22:26:21 2015]  Kill: 1 0 3: JasoNity killed Ryg by MOD_SABER
+[Wed Dec 30 22:26:37 2015]  say: Ryg: bugaaks sulla tää modeli
+[Wed Dec 30 22:26:46 2015]  say: Ryg: hirveetä nykimistä
+[Wed Dec 30 22:27:04 2015]  say: JasoNity: seei kai
+[Wed Dec 30 22:27:46 2015]  Kill: 0 1 3: Ryg killed JasoNity by MOD_SABER
+[Wed Dec 30 22:27:53 2015]  say: JasoNity: mitä tos lockis ees tehdään
+[Wed Dec 30 22:27:57 2015]  say: Ryg: en tiiä
+[Wed Dec 30 22:28:01 2015]  say: Ryg: ite rämppään vitusti
+[Wed Dec 30 22:28:05 2015]  say: JasoNity: click like hell vai swing ja click vai
+[Wed Dec 30 22:28:26 2015]  say: Ryg: mitähän kaikkee tääl mapis on
+[Wed Dec 30 22:30:16 2015]  say: Ryg: wait
+[Wed Dec 30 22:30:18 2015]  say: Ryg: i know this map
+[Wed Dec 30 22:30:28 2015]  say: Ryg: tää on se vitun race
+[Wed Dec 30 22:30:35 2015]  say: JasoNity: varmaan se speederi joo
+[Wed Dec 30 22:31:25 2015]  say: JasoNity: vois mennä haastaan randomei :D
+[Wed Dec 30 22:31:46 2015]  Kill: 0 1 3: Ryg killed JasoNity by MOD_SABER
+[Wed Dec 30 22:32:15 2015]  say: Ryg: mennääks
+[Wed Dec 30 22:32:34 2015]  ClientDisconnect: 1
+[Wed Dec 30 22:32:40 2015]  ClientDisconnect: 0
+[Wed Dec 30 22:36:09 2015]  ClientConnect: 0
+[Wed Dec 30 22:36:09 2015]  mlog:Player Padawan, connected. With IP - 188.79.229.240:29070 
+[Wed Dec 30 22:36:11 2015]  ClientConnect: 1
+[Wed Dec 30 22:36:11 2015]  mlog:Player Padawan, connected. With IP - 62.57.212.210:29070 
+[Wed Dec 30 22:36:27 2015]  ClientBegin: 1
+[Wed Dec 30 22:36:29 2015]  ClientBegin: 0
+[Wed Dec 30 22:38:52 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:43:08 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:43:21 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:43:30 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:43:38 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:43:44 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:44:20 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:44:57 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:45:16 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:45:29 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:45:38 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:46:42 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:46:51 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:47:16 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:47:30 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:47:41 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:49:54 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 22:51:00 2015]  ClientConnect: 2
+[Wed Dec 30 22:51:00 2015]  mlog:Player plastic donosaur, connected. With IP - 82.37.117.76:29070 
+[Wed Dec 30 22:51:10 2015]  ClientBegin: 2
+[Wed Dec 30 22:51:16 2015]  ClientDisconnect: 2
+[Wed Dec 30 22:51:58 2015]  ClientDisconnect: 1
+[Wed Dec 30 22:52:08 2015]  ClientDisconnect: 0
+[Wed Dec 30 23:21:12 2015]  ClientConnect: 0
+[Wed Dec 30 23:21:12 2015]  mlog:Player Padawan, connected. With IP - 79.146.207.230:29070 
+[Wed Dec 30 23:21:13 2015]  ClientConnect: 1
+[Wed Dec 30 23:21:13 2015]  mlog:Player Padawan, connected. With IP - 77.228.214.74:29070 
+[Wed Dec 30 23:21:32 2015]  ClientBegin: 0
+[Wed Dec 30 23:21:37 2015]  ClientBegin: 1
+[Wed Dec 30 23:21:50 2015]  ClientConnect: 2
+[Wed Dec 30 23:21:50 2015]  mlog:Player Padawan, connected. With IP - 95.17.188.13:29070 
+[Wed Dec 30 23:22:11 2015]  ClientBegin: 2
+[Wed Dec 30 23:23:12 2015]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 23:23:33 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 23:23:48 2015]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 23:24:27 2015]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 23:24:58 2015]  print "Padawan^7 @@@PLRENAME marramew
+"[Wed Dec 30 23:24:59 2015]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Wed Dec 30 23:25:12 2015]  print "Padawan^7 @@@PLRENAME Siegmeyer
+"[Wed Dec 30 23:26:03 2015]  Kill: 1 2 3: marramew killed Padawan by MOD_SABER
+[Wed Dec 30 23:26:25 2015]  Kill: 0 2 3: Siegmeyer killed Padawan by MOD_SABER
+[Wed Dec 30 23:26:55 2015]  Kill: 0 2 3: Siegmeyer killed Padawan by MOD_SABER
+[Wed Dec 30 23:27:59 2015]  Kill: 2 0 5: Padawan killed Siegmeyer by MOD_BRYAR_PISTOL_ALT
+[Wed Dec 30 23:28:43 2015]  Kill: 0 2 4: Siegmeyer killed Padawan by MOD_BRYAR_PISTOL
+[Wed Dec 30 23:28:51 2015]  Kill: 1 0 3: marramew killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:29:05 2015]  Kill: 2 1 3: Padawan killed marramew by MOD_SABER
+[Wed Dec 30 23:29:08 2015]  Kill: 2 0 3: Padawan killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:29:15 2015]  Kill: 0 2 3: Siegmeyer killed Padawan by MOD_SABER
+[Wed Dec 30 23:29:44 2015]  Kill: 0 1 3: Siegmeyer killed marramew by MOD_SABER
+[Wed Dec 30 23:29:47 2015]  Kill: 2 0 3: Padawan killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:30:05 2015]  Kill: 2 0 3: Padawan killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:30:17 2015]  Kill: 0 2 3: Siegmeyer killed Padawan by MOD_SABER
+[Wed Dec 30 23:30:24 2015]  Kill: 1 0 3: marramew killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:30:35 2015]  Kill: 2 0 3: Padawan killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:30:46 2015]  Kill: 0 2 3: Siegmeyer killed Padawan by MOD_SABER
+[Wed Dec 30 23:31:05 2015]  Kill: 1 0 3: marramew killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:31:16 2015]  Kill: 2 0 3: Padawan killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:31:30 2015]  Kill: 1 2 3: marramew killed Padawan by MOD_SABER
+[Wed Dec 30 23:31:45 2015]  Kill: 2 0 3: Padawan killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:32:35 2015]  Kill: 1 2 31: marramew killed Padawan by MOD_FORCE_DARK
+[Wed Dec 30 23:32:47 2015]  Kill: 1 0 3: marramew killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:32:52 2015]  Kill: 1 2 3: marramew killed Padawan by MOD_SABER
+[Wed Dec 30 23:33:11 2015]  Kill: 1 0 3: marramew killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:33:16 2015]  Kill: 0 1 5: Siegmeyer killed marramew by MOD_BRYAR_PISTOL_ALT
+[Wed Dec 30 23:33:43 2015]  Kill: 2 0 3: Padawan killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:33:48 2015]  Kill: 1 2 3: marramew killed Padawan by MOD_SABER
+[Wed Dec 30 23:34:18 2015]  Kill: 2 1 3: Padawan killed marramew by MOD_SABER
+[Wed Dec 30 23:34:23 2015]  Kill: 0 2 3: Siegmeyer killed Padawan by MOD_SABER
+[Wed Dec 30 23:34:37 2015]  Kill: 1 0 3: marramew killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:35:21 2015]  Kill: 1 2 3: marramew killed Padawan by MOD_SABER
+[Wed Dec 30 23:36:22 2015]  Kill: 1 0 3: marramew killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:36:33 2015]  Kill: 2 1 3: Padawan killed marramew by MOD_SABER
+[Wed Dec 30 23:36:58 2015]  Kill: 1 2 31: marramew killed Padawan by MOD_FORCE_DARK
+[Wed Dec 30 23:37:06 2015]  Kill: 2 0 3: Padawan killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:37:29 2015]  Kill: 2 1 3: Padawan killed marramew by MOD_SABER
+[Wed Dec 30 23:37:40 2015]  Kill: 1 2 3: marramew killed Padawan by MOD_SABER
+[Wed Dec 30 23:37:46 2015]  Kill: 2 0 3: Padawan killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:37:49 2015]  Kill: 2 1 3: Padawan killed marramew by MOD_SABER
+[Wed Dec 30 23:38:06 2015]  Kill: 0 2 4: Siegmeyer killed Padawan by MOD_BRYAR_PISTOL
+[Wed Dec 30 23:38:15 2015]  Kill: 1 0 3: marramew killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:38:34 2015]  Kill: 1 0 3: marramew killed Siegmeyer by MOD_SABER
+[Wed Dec 30 23:38:42 2015]  ClientDisconnect: 0
+[Wed Dec 30 23:38:45 2015]  ClientDisconnect: 1
+[Wed Dec 30 23:38:59 2015]  ClientDisconnect: 2
+[Thu Dec 31 00:34:19 2015]  ClientConnect: 0
+[Thu Dec 31 00:34:19 2015]  mlog:Player Padawan, connected. With IP - 85.228.74.209:29070 
+[Thu Dec 31 00:34:35 2015]  ClientBegin: 0
+[Thu Dec 31 00:36:18 2015]  print "Padawan^7 @@@PLRENAME felixfin
+"[Thu Dec 31 00:37:16 2015]  ClientConnect: 1
+[Thu Dec 31 00:37:16 2015]  mlog:Player Axelsfitta, connected. With IP - 78.70.116.118:-9350 
+[Thu Dec 31 00:37:26 2015]  ClientBegin: 1
+[Thu Dec 31 00:38:15 2015]  Kill: 0 1 3: felixfin killed Padawan by MOD_SABER
+[Thu Dec 31 00:38:24 2015]  Kill: 1 0 3: Padawan killed felixfin by MOD_SABER
+[Thu Dec 31 00:38:56 2015]  Kill: 0 1 3: felixfin killed Padawan by MOD_SABER
+[Thu Dec 31 00:40:15 2015]  Kill: 0 1 3: felixfin killed Padawan by MOD_SABER
+[Thu Dec 31 00:40:24 2015]  Kill: 1 0 3: Padawan killed felixfin by MOD_SABER
+[Thu Dec 31 00:41:08 2015]  Kill: 0 1 3: felixfin killed Padawan by MOD_SABER
+[Thu Dec 31 00:41:14 2015]  Kill: 1 0 3: Padawan killed felixfin by MOD_SABER
+[Thu Dec 31 00:41:49 2015]  Kill: 0 1 3: felixfin killed Padawan by MOD_SABER
+[Thu Dec 31 00:42:00 2015]  Kill: 0 1 3: felixfin killed Padawan by MOD_SABER
+[Thu Dec 31 00:42:26 2015]  Kill: 0 1 3: felixfin killed Padawan by MOD_SABER
+[Thu Dec 31 00:42:49 2015]  Kill: 1 0 3: Padawan killed felixfin by MOD_SABER
+[Thu Dec 31 00:44:15 2015]  print "Padawan^7 @@@PLRENAME Axelsfitta
+"[Thu Dec 31 00:44:26 2015]  Kill: 0 1 3: felixfin killed Axelsfitta by MOD_SABER
+[Thu Dec 31 00:45:19 2015]  Kill: 1 0 3: Axelsfitta killed felixfin by MOD_SABER
+[Thu Dec 31 00:46:15 2015]  Kill: 1 0 3: Axelsfitta killed felixfin by MOD_SABER
+[Thu Dec 31 00:46:29 2015]  Kill: 0 1 3: felixfin killed Axelsfitta by MOD_SABER
+[Thu Dec 31 00:46:41 2015]  Kill: 1 0 3: Axelsfitta killed felixfin by MOD_SABER
+[Thu Dec 31 00:46:56 2015]  Kill: 1 0 3: Axelsfitta killed felixfin by MOD_SABER
+[Thu Dec 31 00:47:13 2015]  Kill: 1 0 3: Axelsfitta killed felixfin by MOD_SABER
+[Thu Dec 31 00:47:36 2015]  Kill: 1 0 3: Axelsfitta killed felixfin by MOD_SABER
+[Thu Dec 31 00:47:50 2015]  Kill: 1 0 3: Axelsfitta killed felixfin by MOD_SABER
+[Thu Dec 31 00:47:57 2015]  Kill: 1 0 3: Axelsfitta killed felixfin by MOD_SABER
+[Thu Dec 31 00:49:41 2015]  Kill: 1 0 3: Axelsfitta killed felixfin by MOD_SABER
+[Thu Dec 31 00:50:07 2015]  Kill: 0 1 3: felixfin killed Axelsfitta by MOD_SABER
+[Thu Dec 31 00:51:26 2015]  Kill: 1 0 3: Axelsfitta killed felixfin by MOD_SABER
+[Thu Dec 31 00:52:05 2015]  Kill: 1 0 3: Axelsfitta killed felixfin by MOD_SABER
+[Thu Dec 31 00:52:14 2015]  ClientDisconnect: 0
+[Thu Dec 31 00:54:47 2015]  ClientDisconnect: 1
+[Thu Dec 31 02:56:53 2015]  ClientConnect: 0
+[Thu Dec 31 02:56:53 2015]  mlog:Player Padawan, connected. With IP - 93.100.144.53:29070 
+[Thu Dec 31 02:57:03 2015]  ClientBegin: 0
+[Thu Dec 31 02:59:29 2015]  ClientDisconnect: 0
+[Thu Dec 31 03:21:35 2015]  ClientConnect: 0
+[Thu Dec 31 03:21:35 2015]  mlog:Player Padawan, connected. With IP - 67.180.146.14:29070 
+[Thu Dec 31 03:21:57 2015]  ClientBegin: 0
+[Thu Dec 31 03:22:25 2015]  ClientDisconnect: 0
+[Thu Dec 31 04:04:57 2015]  ClientConnect: 0
+[Thu Dec 31 04:04:57 2015]  mlog:Player Padawan, connected. With IP - 68.112.76.112:-4051 
+[Thu Dec 31 04:10:05 2015]  ClientDisconnect: 0
+[Thu Dec 31 04:12:21 2015]  ClientConnect: 0
+[Thu Dec 31 04:12:21 2015]  mlog:Player Padawan, connected. With IP - 68.112.76.112:-4051 
+[Thu Dec 31 04:12:30 2015]  ClientDisconnect: 0
+[Thu Dec 31 06:52:38 2015]  ClientConnect: 0
+[Thu Dec 31 06:52:38 2015]  mlog:Player Padawan, connected. With IP - 37.60.68.75:29070 
+[Thu Dec 31 06:52:41 2015]  ClientConnect: 1
+[Thu Dec 31 06:52:41 2015]  mlog:Player Padawan, connected. With IP - 37.60.68.75:8815 
+[Thu Dec 31 06:52:56 2015]  ClientBegin: 1
+[Thu Dec 31 06:52:57 2015]  ClientBegin: 0
+[Thu Dec 31 06:54:12 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 06:54:25 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 06:54:42 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 06:54:57 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 06:57:09 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 06:57:44 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 06:59:59 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 07:00:42 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 07:01:11 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 07:01:22 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 07:01:35 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 07:02:32 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 07:02:46 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 07:03:41 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 07:03:58 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 07:04:35 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 07:06:31 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 07:07:05 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 07:08:02 2015]  print "Padawan^7 @@@PLRENAME smeg
+"[Thu Dec 31 07:08:26 2015]  Kill: 0 1 3: smeg killed Padawan by MOD_SABER
+[Thu Dec 31 07:08:32 2015]  print "Padawan^7 @@@PLRENAME NOVA
+"[Thu Dec 31 07:08:56 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:11:30 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:12:26 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:13:00 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:13:33 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:14:37 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:15:00 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:15:23 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:16:49 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:17:59 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:18:38 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:19:17 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:19:43 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:20:29 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:20:35 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:21:08 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:21:23 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:21:37 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:22:11 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:22:51 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:23:41 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:24:18 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:24:32 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:24:47 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:25:08 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:26:12 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:26:19 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:26:25 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:26:34 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:26:44 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:26:54 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:27:05 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:27:35 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:27:46 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:28:00 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:28:14 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:29:08 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:29:22 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:29:32 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:29:42 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:30:04 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:30:14 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:30:19 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:30:23 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:30:31 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:30:55 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:31:19 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:31:34 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:32:14 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:32:22 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:32:44 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:33:07 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:33:17 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:33:24 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:34:02 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:36:06 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:37:36 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:37:57 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:38:34 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:40:04 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:41:36 2015]  Kill: 0 1 4: smeg killed NOVA by MOD_BRYAR_PISTOL
+[Thu Dec 31 07:43:14 2015]  Kill: 0 1 4: smeg killed NOVA by MOD_BRYAR_PISTOL
+[Thu Dec 31 07:43:25 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:44:07 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:44:31 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:45:04 2015]  Kill: 1 0 31: NOVA killed smeg by MOD_FORCE_DARK
+[Thu Dec 31 07:45:17 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:45:24 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:45:33 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:45:40 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:45:54 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:45:59 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:46:06 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:46:11 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:46:20 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:46:37 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:46:41 2015]  Kill: 1 0 31: NOVA killed smeg by MOD_FORCE_DARK
+[Thu Dec 31 07:47:06 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:47:14 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:47:21 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:47:30 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:47:51 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:47:57 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:48:03 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:48:13 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:48:25 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:48:30 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:48:52 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:49:09 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:49:26 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:49:41 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:50:07 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:50:23 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:50:32 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:50:51 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:51:19 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:51:32 2015]  Kill: 1 0 3: NOVA killed smeg by MOD_SABER
+[Thu Dec 31 07:51:44 2015]  Kill: 0 1 3: smeg killed NOVA by MOD_SABER
+[Thu Dec 31 07:51:52 2015]  ClientDisconnect: 0
+[Thu Dec 31 07:51:58 2015]  ClientDisconnect: 1
+[Thu Dec 31 09:43:02 2015]  ClientConnect: 0
+[Thu Dec 31 09:43:02 2015]  mlog:Player Padawan, connected. With IP - 77.121.40.231:29070 
+[Thu Dec 31 09:43:32 2015]  ClientBegin: 0
+[Thu Dec 31 09:48:06 2015]  ClientDisconnect: 0
+[Thu Dec 31 11:40:59 2015]  ClientConnect: 0
+[Thu Dec 31 11:40:59 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Thu Dec 31 11:41:04 2015]  ClientDisconnect: 0
+[Thu Dec 31 11:41:14 2015]  ClientConnect: 0
+[Thu Dec 31 11:41:14 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Thu Dec 31 11:50:24 2015]  ClientDisconnect: 0
+[Thu Dec 31 11:50:24 2015]  ClientConnect: 0
+[Thu Dec 31 11:50:24 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Thu Dec 31 11:50:29 2015]  ClientDisconnect: 0
+[Thu Dec 31 11:50:40 2015]  ClientConnect: 0
+[Thu Dec 31 11:50:40 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Thu Dec 31 11:57:03 2015]  ClientDisconnect: 0
+[Thu Dec 31 12:15:14 2015]  ClientConnect: 0
+[Thu Dec 31 12:15:14 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Thu Dec 31 12:15:20 2015]  ClientDisconnect: 0
+[Thu Dec 31 12:16:22 2015]  ClientConnect: 0
+[Thu Dec 31 12:16:22 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Thu Dec 31 12:16:28 2015]  ClientDisconnect: 0
+[Thu Dec 31 12:16:54 2015]  ClientConnect: 0
+[Thu Dec 31 12:16:54 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Thu Dec 31 12:20:07 2015]  ClientDisconnect: 0
+[Thu Dec 31 12:43:34 2015]  ClientConnect: 0
+[Thu Dec 31 12:43:34 2015]  mlog:Player Dart Rondo, connected. With IP - 5.18.225.201:29070 
+[Thu Dec 31 12:47:12 2015]  ClientDisconnect: 0
+[Thu Dec 31 13:06:51 2015]  ClientConnect: 0
+[Thu Dec 31 13:06:51 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Thu Dec 31 13:14:38 2015]  ClientDisconnect: 0
+[Thu Dec 31 13:14:38 2015]  ClientDisconnect: 0
+[Thu Dec 31 13:14:38 2015]  ClientConnect: 0
+[Thu Dec 31 13:14:38 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Thu Dec 31 13:15:01 2015]  ClientDisconnect: 0
+[Thu Dec 31 13:15:44 2015]  ClientConnect: 0
+[Thu Dec 31 13:15:44 2015]  mlog:Player Ragnard, connected. With IP - 85.171.116.128:29070 
+[Thu Dec 31 13:28:11 2015]  ClientConnect: 1
+[Thu Dec 31 13:28:11 2015]  mlog:Player Master Sealion, connected. With IP - 81.96.155.114:29070 
+[Thu Dec 31 13:28:25 2015]  ClientBegin: 1
+[Thu Dec 31 13:29:57 2015]  say: Padawan: TSFED
+[Thu Dec 31 13:30:02 2015]  say: Padawan: DASWE\FGGfdsegasdg
+[Thu Dec 31 13:30:07 2015]  ClientDisconnect: 1
+[Thu Dec 31 13:40:46 2015]  ClientDisconnect: 0
+[Thu Dec 31 13:51:05 2015]  ClientConnect: 0
+[Thu Dec 31 13:51:05 2015]  mlog:Player DarthYorke, connected. With IP - 179.176.198.53:1040 
+[Thu Dec 31 13:51:49 2015]  ClientBegin: 0
+[Thu Dec 31 13:52:38 2015]  ClientDisconnect: 0
+[Thu Dec 31 14:07:11 2015]  ClientConnect: 0
+[Thu Dec 31 14:07:11 2015]  mlog:Player Naire, connected. With IP - 78.45.46.133:29070 
+[Thu Dec 31 14:07:34 2015]  ClientBegin: 0
+[Thu Dec 31 14:07:43 2015]  ClientDisconnect: 0
+[Thu Dec 31 14:39:26 2015]  ClientConnect: 0
+[Thu Dec 31 14:39:26 2015]  mlog:Player ^1ORK228, connected. With IP - 46.160.22.13:29070 
+[Thu Dec 31 14:39:53 2015]  ClientBegin: 0
+[Thu Dec 31 14:40:35 2015]  ClientConnect: 1
+[Thu Dec 31 14:40:35 2015]  mlog:Player ORK 228, connected. With IP - 81.162.0.159:8169 
+[Thu Dec 31 14:40:39 2015]  ClientConnect: 2
+[Thu Dec 31 14:40:39 2015]  mlog:Player Darth Veider, connected. With IP - 81.162.0.140:20181 
+[Thu Dec 31 14:40:51 2015]  ClientBegin: 2
+[Thu Dec 31 14:42:07 2015]  Kill: 2 0 3: Darth Veider killed Darth Skoworodker by MOD_SABER
+[Thu Dec 31 14:42:17 2015]  Kill: 2 0 3: Darth Veider killed Darth Skoworodker by MOD_SABER
+[Thu Dec 31 14:42:23 2015]  Kill: 0 2 3: Darth Skoworodker killed Darth Veider by MOD_SABER
+[Thu Dec 31 14:43:08 2015]  Kill: 2 0 3: Darth Veider killed Darth Skoworodker by MOD_SABER
+[Thu Dec 31 14:44:45 2015]  ClientDisconnect: 1
+[Thu Dec 31 14:45:06 2015]  ClientDisconnect: 0
+[Thu Dec 31 14:45:12 2015]  ClientDisconnect: 2
+[Thu Dec 31 14:52:11 2015]  ClientConnect: 0
+[Thu Dec 31 14:52:11 2015]  mlog:Player Padawan, connected. With IP - 213.149.5.237:29070 
+[Thu Dec 31 14:52:12 2015]  ClientConnect: 1
+[Thu Dec 31 14:52:12 2015]  mlog:Player Padawan, connected. With IP - 91.212.68.234:29070 
+[Thu Dec 31 14:52:25 2015]  ClientBegin: 0
+[Thu Dec 31 14:52:33 2015]  ClientBegin: 1
+[Thu Dec 31 14:52:55 2015]  print "Padawan^7 @@@PLRENAME Ghost239
+"[Thu Dec 31 14:53:17 2015]  print "Padawan^7 @@@PLRENAME Soviet
+"[Thu Dec 31 14:53:56 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 14:54:02 2015]  ClientConnect: 2
+[Thu Dec 31 14:54:02 2015]  mlog:Player Padawan, connected. With IP - 109.252.119.30:29070 
+[Thu Dec 31 14:54:20 2015]  ClientBegin: 2
+[Thu Dec 31 14:54:36 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 14:54:56 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 14:54:56 2015]  Kill: 2 1 3: Padawan killed Soviet by MOD_SABER
+[Thu Dec 31 14:55:21 2015]  Kill: 1 2 3: Soviet killed Padawan by MOD_SABER
+[Thu Dec 31 14:55:21 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 14:55:49 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 14:56:04 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 14:56:20 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 14:56:46 2015]  Kill: 1 2 3: Soviet killed Padawan by MOD_SABER
+[Thu Dec 31 14:56:48 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 14:57:26 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 14:57:32 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 14:57:52 2015]  Kill: 2 1 3: Padawan killed Soviet by MOD_SABER
+[Thu Dec 31 14:58:17 2015]  Kill: 0 2 3: Ghost239 killed Padawan by MOD_SABER
+[Thu Dec 31 14:58:37 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 14:59:06 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 14:59:14 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 14:59:20 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 14:59:28 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 14:59:32 2015]  Kill: 2 1 3: Padawan killed Soviet by MOD_SABER
+[Thu Dec 31 14:59:54 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:00:06 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:00:09 2015]  Kill: 2 1 3: Padawan killed Soviet by MOD_SABER
+[Thu Dec 31 15:00:27 2015]  Kill: 0 2 3: Ghost239 killed Padawan by MOD_SABER
+[Thu Dec 31 15:00:40 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:01:11 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:01:18 2015]  Kill: 2 1 3: Padawan killed Soviet by MOD_SABER
+[Thu Dec 31 15:01:33 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:01:47 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:01:59 2015]  Kill: 0 2 3: Ghost239 killed Padawan by MOD_SABER
+[Thu Dec 31 15:02:09 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:02:18 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:02:46 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:03:02 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:03:25 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:03:49 2015]  Kill: 2 1 3: Padawan killed Soviet by MOD_SABER
+[Thu Dec 31 15:03:53 2015]  Kill: 0 2 3: Ghost239 killed Padawan by MOD_SABER
+[Thu Dec 31 15:04:22 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:04:31 2015]  Kill: 0 2 3: Ghost239 killed Padawan by MOD_SABER
+[Thu Dec 31 15:04:40 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:04:54 2015]  Kill: 2 1 3: Padawan killed Soviet by MOD_SABER
+[Thu Dec 31 15:05:04 2015]  Kill: 1 2 5: Soviet killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 15:05:10 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:05:25 2015]  Kill: 0 2 3: Ghost239 killed Padawan by MOD_SABER
+[Thu Dec 31 15:05:27 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:05:37 2015]  Kill: 2 1 3: Padawan killed Soviet by MOD_SABER
+[Thu Dec 31 15:05:45 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:05:52 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:05:57 2015]  Kill: 1 2 3: Soviet killed Padawan by MOD_SABER
+[Thu Dec 31 15:06:07 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:06:19 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:06:38 2015]  Kill: 1 2 3: Soviet killed Padawan by MOD_SABER
+[Thu Dec 31 15:06:41 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:06:48 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:06:56 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:07:02 2015]  Kill: 2 1 5: Padawan killed Soviet by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 15:07:09 2015]  Kill: 0 2 3: Ghost239 killed Padawan by MOD_SABER
+[Thu Dec 31 15:07:27 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:07:28 2015]  ClientDisconnect: 2
+[Thu Dec 31 15:07:37 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:07:45 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:07:51 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:07:55 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:08:16 2015]  ClientConnect: 2
+[Thu Dec 31 15:08:16 2015]  mlog:Player Padawan, connected. With IP - 109.252.119.30:29070 
+[Thu Dec 31 15:08:23 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:08:30 2015]  ClientBegin: 2
+[Thu Dec 31 15:08:49 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:08:53 2015]  ClientDisconnect: 2
+[Thu Dec 31 15:09:04 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:09:12 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:09:19 2015]  ClientConnect: 2
+[Thu Dec 31 15:09:19 2015]  mlog:Player Padawan, connected. With IP - 109.252.119.30:29070 
+[Thu Dec 31 15:09:19 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:09:32 2015]  ClientBegin: 2
+[Thu Dec 31 15:09:36 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:09:44 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:09:47 2015]  Kill: 1 2 3: Soviet killed Padawan by MOD_SABER
+[Thu Dec 31 15:10:04 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:10:28 2015]  Kill: 0 2 3: Ghost239 killed Padawan by MOD_SABER
+[Thu Dec 31 15:10:43 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:10:51 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:10:59 2015]  Kill: 2 1 3: Padawan killed Soviet by MOD_SABER
+[Thu Dec 31 15:11:03 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:11:20 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:11:35 2015]  Kill: 1 2 3: Soviet killed Padawan by MOD_SABER
+[Thu Dec 31 15:12:02 2015]  Kill: 2 1 3: Padawan killed Soviet by MOD_SABER
+[Thu Dec 31 15:12:25 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:12:37 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:12:49 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:13:17 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:13:17 2015]  Kill: 0 2 3: Ghost239 killed Padawan by MOD_SABER
+[Thu Dec 31 15:13:18 2015]  Kill: 2 1 37: Padawan killed Soviet by MOD_TELEFRAG
+[Thu Dec 31 15:13:28 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:13:32 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:13:39 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:13:45 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:13:56 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:14:32 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:14:37 2015]  Kill: 0 2 3: Ghost239 killed Padawan by MOD_SABER
+[Thu Dec 31 15:14:50 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:15:15 2015]  Kill: 2 1 3: Padawan killed Soviet by MOD_SABER
+[Thu Dec 31 15:15:25 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:15:38 2015]  Kill: 0 2 3: Ghost239 killed Padawan by MOD_SABER
+[Thu Dec 31 15:15:49 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:15:58 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:16:08 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:16:14 2015]  Kill: 2 1 3: Padawan killed Soviet by MOD_SABER
+[Thu Dec 31 15:16:46 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:16:47 2015]  Kill: 1 2 31: Soviet killed Padawan by MOD_FORCE_DARK
+[Thu Dec 31 15:17:02 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:17:11 2015]  Kill: 2 1 3: Padawan killed Soviet by MOD_SABER
+[Thu Dec 31 15:17:28 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:17:40 2015]  Kill: 1 2 3: Soviet killed Padawan by MOD_SABER
+[Thu Dec 31 15:18:07 2015]  Kill: 1 2 3: Soviet killed Padawan by MOD_SABER
+[Thu Dec 31 15:18:12 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:18:40 2015]  Kill: 1 0 3: Soviet killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:19:03 2015]  Kill: 0 1 3: Ghost239 killed Soviet by MOD_SABER
+[Thu Dec 31 15:19:18 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:19:24 2015]  ClientConnect: 3
+[Thu Dec 31 15:19:24 2015]  mlog:Player ^0F^4o^0x, connected. With IP - 80.55.76.218:29070 
+[Thu Dec 31 15:19:26 2015]  ClientConnect: 4
+[Thu Dec 31 15:19:26 2015]  mlog:Player ^4M@^7X1^1ME, connected. With IP - 82.234.106.170:29070 
+[Thu Dec 31 15:19:39 2015]  ClientBegin: 3
+[Thu Dec 31 15:19:40 2015]  Kill: 2 0 3: Padawan killed Ghost239 by MOD_SABER
+[Thu Dec 31 15:19:44 2015]  ClientBegin: 4
+[Thu Dec 31 15:19:44 2015]  say: ^0F^4o^0x^4In^0Shad^4o^0w: JOJOJOJOJOJOJOJ
+[Thu Dec 31 15:19:51 2015]  say: ^4M@^7X1^1ME: salut / hi
+[Thu Dec 31 15:19:53 2015]  Kill: 0 3 3: Ghost239 killed ^0F^4o^0x^4In^0Shad^4o^0w by MOD_SABER
+[Thu Dec 31 15:19:55 2015]  say: ^0F^4o^0x^4In^0Shad^4o^0w: hi
+[Thu Dec 31 15:20:24 2015]  Kill: 1022 4 38: <world> killed ^4M@^7X1^1ME by MOD_FALLING
+[Thu Dec 31 15:20:26 2015]  Kill: 1022 0 38: <world> killed Ghost239 by MOD_FALLING
+[Thu Dec 31 15:20:28 2015]  ClientDisconnect: 4
+[Thu Dec 31 15:20:44 2015]  ClientDisconnect: 0
+[Thu Dec 31 15:20:54 2015]  ClientDisconnect: 2
+[Thu Dec 31 15:20:54 2015]  ClientDisconnect: 3
+[Thu Dec 31 15:21:07 2015]  ClientDisconnect: 1
+[Thu Dec 31 15:42:50 2015]  ClientConnect: 0
+[Thu Dec 31 15:42:50 2015]  mlog:Player Padawan, connected. With IP - 95.86.219.217:29070 
+[Thu Dec 31 15:42:59 2015]  ClientBegin: 0
+[Thu Dec 31 15:43:23 2015]  ClientConnect: 1
+[Thu Dec 31 15:43:23 2015]  mlog:Player moms spaghetti, connected. With IP - 95.180.38.205:-9377 
+[Thu Dec 31 15:45:46 2015]  ClientConnect: 2
+[Thu Dec 31 15:45:46 2015]  mlog:Player ZAJKACHANNEL, connected. With IP - 92.242.107.6:29070 
+[Thu Dec 31 15:46:17 2015]  ClientBegin: 2
+[Thu Dec 31 15:46:43 2015]  ClientDisconnect: 1
+[Thu Dec 31 15:46:46 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:47:11 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:47:23 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:47:45 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:48:11 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:48:24 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:48:42 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:49:09 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:50:24 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:50:45 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:51:00 2015]  Kill: 2 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 15:51:07 2015]  Kill: 2 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 15:51:32 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:51:39 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:51:51 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:52:11 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:52:33 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:52:55 2015]  Kill: 2 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 15:53:05 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:53:19 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:53:24 2015]  Kill: 2 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 15:53:37 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:53:42 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:54:01 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:54:05 2015]  Kill: 2 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 15:54:19 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:54:23 2015]  Kill: 2 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 15:54:37 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:54:53 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:55:08 2015]  Kill: 0 2 5: Padawan killed ZAJKACHANNEL by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 15:55:15 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:55:45 2015]  Kill: 0 2 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 15:55:59 2015]  Kill: 2 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 15:56:53 2015]  ClientDisconnect: 2
+[Thu Dec 31 15:59:15 2015]  ClientConnect: 1
+[Thu Dec 31 15:59:15 2015]  mlog:Player ZAJKACHANNEL, connected. With IP - 92.242.107.6:29070 
+[Thu Dec 31 15:59:43 2015]  ClientBegin: 1
+[Thu Dec 31 16:01:02 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:01:55 2015]  ClientConnect: 2
+[Thu Dec 31 16:01:55 2015]  mlog:Player Padawan, connected. With IP - 195.140.222.201:29070 
+[Thu Dec 31 16:02:18 2015]  ClientBegin: 2
+[Thu Dec 31 16:02:44 2015]  Kill: 0 2 5: Padawan killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 16:03:19 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:03:33 2015]  Kill: 0 1 4: Padawan killed ZAJKACHANNEL by MOD_BRYAR_PISTOL
+[Thu Dec 31 16:04:06 2015]  Kill: 2 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:04:24 2015]  Kill: 0 2 5: Padawan killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 16:04:31 2015]  say: Padawan: hi
+[Thu Dec 31 16:04:39 2015]  say: ZAJKACHANNEL: privet
+[Thu Dec 31 16:04:41 2015]  Kill: 0 2 5: Padawan killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 16:04:44 2015]  say: Padawan: wot ?
+[Thu Dec 31 16:04:53 2015]  say: ZAJKACHANNEL: rassian
+[Thu Dec 31 16:05:08 2015]  setteam:  2 FREE SPECTATOR
+[Thu Dec 31 16:05:08 2015]  ClientBegin: 2
+[Thu Dec 31 16:05:12 2015]  say: Padawan: OH
+[Thu Dec 31 16:05:15 2015]  setteam:  2 SPECTATOR FREE
+[Thu Dec 31 16:05:15 2015]  ClientBegin: 2
+[Thu Dec 31 16:05:35 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:05:56 2015]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 16:06:02 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:06:07 2015]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 16:06:22 2015]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 16:06:25 2015]  ClientDisconnect: 2
+[Thu Dec 31 16:06:26 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:06:35 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:07:00 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:07:08 2015]  say: ZAJKACHANNEL: wtra
+[Thu Dec 31 16:07:17 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:07:26 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:07:29 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:07:44 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:07:53 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:07:58 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:08:04 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:08:14 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:09:05 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:09:21 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:09:25 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:09:35 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:09:52 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:10:02 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:10:19 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:10:26 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:10:44 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:10:52 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:11:09 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:11:26 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:11:35 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:11:41 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:11:57 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:12:21 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:13:02 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:13:43 2015]  ClientConnect: 2
+[Thu Dec 31 16:13:43 2015]  mlog:Player Raghnard, connected. With IP - 85.171.116.128:29070 
+[Thu Dec 31 16:13:47 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:14:10 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:14:19 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:14:32 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:15:00 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:15:26 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:15:33 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:15:42 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:15:59 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:16:13 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:16:29 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:16:43 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:16:53 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:16:58 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:17:25 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:17:33 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:17:41 2015]  ClientDisconnect: 2
+[Thu Dec 31 16:18:13 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:19:00 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:19:28 2015]  Kill: 1 0 5: ZAJKACHANNEL killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 16:19:37 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:19:59 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:20:04 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:20:25 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:20:34 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:20:44 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:21:05 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:21:10 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:21:32 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:22:10 2015]  Kill: 1 0 5: ZAJKACHANNEL killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 16:23:03 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:23:18 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:33:30 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:33:47 2015]  Kill: 1 0 3: ZAJKACHANNEL killed Padawan by MOD_SABER
+[Thu Dec 31 16:34:05 2015]  Kill: 0 1 3: Padawan killed ZAJKACHANNEL by MOD_SABER
+[Thu Dec 31 16:34:10 2015]  ClientDisconnect: 1
+[Thu Dec 31 16:34:12 2015]  ClientDisconnect: 0
+[Thu Dec 31 16:38:17 2015]  ClientConnect: 0
+[Thu Dec 31 16:38:17 2015]  mlog:Player Dac, connected. With IP - 37.233.17.38:29070 
+[Thu Dec 31 16:38:44 2015]  ClientBegin: 0
+[Thu Dec 31 16:40:08 2015]  ClientDisconnect: 0
+[Thu Dec 31 16:40:53 2015]  ClientConnect: 0
+[Thu Dec 31 16:40:53 2015]  mlog:Player Monw, connected. With IP - 31.173.243.32:-30787 
+[Thu Dec 31 16:41:09 2015]  ClientBegin: 0
+[Thu Dec 31 16:41:25 2015]  ClientConnect: 1
+[Thu Dec 31 16:41:25 2015]  mlog:Player Ben, connected. With IP - 2.61.187.142:29070 
+[Thu Dec 31 16:41:44 2015]  ClientBegin: 1
+[Thu Dec 31 16:41:53 2015]  Kill: 0 1 3: Monw killed Ben by MOD_SABER
+[Thu Dec 31 16:42:27 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:43:06 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:44:07 2015]  Kill: 0 1 3: Monw killed Ben by MOD_SABER
+[Thu Dec 31 16:44:33 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:44:56 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:45:13 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:45:33 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:46:11 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:46:18 2015]  ClientConnect: 2
+[Thu Dec 31 16:46:18 2015]  mlog:Player dart lexa3317, connected. With IP - 89.250.167.176:19236 
+[Thu Dec 31 16:46:36 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:47:01 2015]  ClientBegin: 2
+[Thu Dec 31 16:47:03 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:47:58 2015]  ClientDisconnect: 2
+[Thu Dec 31 16:48:06 2015]  Kill: 0 1 3: Monw killed Ben by MOD_SABER
+[Thu Dec 31 16:48:43 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:48:56 2015]  Kill: 0 1 3: Monw killed Ben by MOD_SABER
+[Thu Dec 31 16:49:19 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:49:30 2015]  Kill: 0 1 3: Monw killed Ben by MOD_SABER
+[Thu Dec 31 16:50:01 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:50:12 2015]  Kill: 0 1 3: Monw killed Ben by MOD_SABER
+[Thu Dec 31 16:51:08 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:51:52 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:52:02 2015]  Kill: 0 1 3: Monw killed Ben by MOD_SABER
+[Thu Dec 31 16:52:29 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:52:49 2015]  Kill: 0 1 3: Monw killed Ben by MOD_SABER
+[Thu Dec 31 16:53:33 2015]  Kill: 1 0 3: Ben killed Monw by MOD_SABER
+[Thu Dec 31 16:54:08 2015]  Kill: 1022 1 38: <world> killed Ben by MOD_FALLING
+[Thu Dec 31 16:54:17 2015]  ClientDisconnect: 1
+[Thu Dec 31 16:54:20 2015]  ClientDisconnect: 0
+[Thu Dec 31 17:03:12 2015]  ClientConnect: 0
+[Thu Dec 31 17:03:12 2015]  mlog:Player Dac, connected. With IP - 37.233.17.38:29070 
+[Thu Dec 31 17:03:40 2015]  ClientBegin: 0
+[Thu Dec 31 17:04:07 2015]  ClientDisconnect: 0
+[Thu Dec 31 17:14:33 2015]  ClientConnect: 0
+[Thu Dec 31 17:14:33 2015]  mlog:Player Padawan, connected. With IP - 71.70.245.118:29070 
+[Thu Dec 31 17:14:35 2015]  ClientConnect: 1
+[Thu Dec 31 17:14:35 2015]  mlog:Player THEJORY, connected. With IP - 76.111.31.134:29070 
+[Thu Dec 31 17:15:03 2015]  ClientBegin: 1
+[Thu Dec 31 17:15:17 2015]  ClientBegin: 0
+[Thu Dec 31 17:15:40 2015]  print "Padawan^7 @@@PLRENAME Darth Dwinko
+"[Thu Dec 31 17:16:11 2015]  ClientConnect: 2
+[Thu Dec 31 17:16:11 2015]  mlog:Player ^1*NorthKorea*, connected. With IP - 80.55.76.218:29070 
+[Thu Dec 31 17:16:22 2015]  print "Darth Dwinko^7 @@@PLRENAME Chewbacca the Jedi
+"[Thu Dec 31 17:16:28 2015]  ClientBegin: 2
+[Thu Dec 31 17:16:34 2015]  say: ^0F^4o^0x^4In^0Shad^4o^0w: JOJOJOJOJOJJOJOJOJOJOOJJ
+[Thu Dec 31 17:17:20 2015]  Kill: 0 2 5: Chewbacca the Jedi killed ^0F^4o^0x^4In^0Shad^4o^0w by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 17:17:24 2015]  say: ^0F^4o^0x^4In^0Shad^4o^0w: A
+[Thu Dec 31 17:17:26 2015]  Kill: 2 0 4: ^0F^4o^0x^4In^0Shad^4o^0w killed Chewbacca the Jedi by MOD_BRYAR_PISTOL
+[Thu Dec 31 17:17:37 2015]  ClientDisconnect: 2
+[Thu Dec 31 17:18:00 2015]  say: THEJORY: Hi._.
+[Thu Dec 31 17:18:16 2015]  Kill: 1 1 39: THEJORY killed THEJORY by MOD_SUICIDE
+[Thu Dec 31 17:18:16 2015]  setteam:  1 FREE SPECTATOR
+[Thu Dec 31 17:18:16 2015]  ClientBegin: 1
+[Thu Dec 31 17:18:23 2015]  setteam:  1 SPECTATOR FREE
+[Thu Dec 31 17:18:23 2015]  ClientBegin: 1
+[Thu Dec 31 17:19:05 2015]  Kill: 1 0 3: THEJORY killed Chewbacca the Jedi by MOD_SABER
+[Thu Dec 31 17:19:40 2015]  ClientDisconnect: 1
+[Thu Dec 31 17:20:04 2015]  ClientConnect: 1
+[Thu Dec 31 17:20:04 2015]  mlog:Player THEJORY, connected. With IP - 76.111.31.134:29070 
+[Thu Dec 31 17:20:14 2015]  ClientBegin: 1
+[Thu Dec 31 17:28:53 2015]  Kill: 1 1 39: THEJORY killed THEJORY by MOD_SUICIDE
+[Thu Dec 31 17:28:53 2015]  setteam:  1 FREE SPECTATOR
+[Thu Dec 31 17:28:53 2015]  ClientBegin: 1
+[Thu Dec 31 17:28:59 2015]  setteam:  1 SPECTATOR FREE
+[Thu Dec 31 17:28:59 2015]  ClientBegin: 1
+[Thu Dec 31 17:29:27 2015]  Kill: 1 0 3: THEJORY killed Chewbacca the Jedi by MOD_SABER
+[Thu Dec 31 17:33:31 2015]  ClientDisconnect: 1
+[Thu Dec 31 17:33:36 2015]  ClientDisconnect: 0
+[Thu Dec 31 17:45:27 2015]  ClientConnect: 0
+[Thu Dec 31 17:45:27 2015]  mlog:Player Padawan, connected. With IP - 5.18.156.173:29070 
+[Thu Dec 31 17:45:29 2015]  ClientConnect: 1
+[Thu Dec 31 17:45:29 2015]  mlog:Player Padawan, connected. With IP - 213.21.33.8:29070 
+[Thu Dec 31 17:45:40 2015]  ClientBegin: 0
+[Thu Dec 31 17:45:46 2015]  ClientBegin: 1
+[Thu Dec 31 17:46:20 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:47:33 2015]  ClientDisconnect: 1
+[Thu Dec 31 17:47:38 2015]  ClientDisconnect: 0
+[Thu Dec 31 17:48:01 2015]  ClientConnect: 0
+[Thu Dec 31 17:48:01 2015]  mlog:Player Padawan, connected. With IP - 5.18.156.173:29070 
+[Thu Dec 31 17:48:08 2015]  ClientBegin: 0
+[Thu Dec 31 17:48:10 2015]  ClientConnect: 1
+[Thu Dec 31 17:48:10 2015]  mlog:Player Padawan, connected. With IP - 91.122.21.43:29070 
+[Thu Dec 31 17:48:10 2015]  ClientConnect: 2
+[Thu Dec 31 17:48:10 2015]  mlog:Player Padawan, connected. With IP - 213.21.33.8:29070 
+[Thu Dec 31 17:48:18 2015]  ClientBegin: 2
+[Thu Dec 31 17:48:33 2015]  ClientBegin: 1
+[Thu Dec 31 17:49:50 2015]  Kill: 2 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:50:03 2015]  Kill: 1 2 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:50:12 2015]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:50:23 2015]  Kill: 2 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:51:40 2015]  Kill: 2 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:51:46 2015]  Kill: 1 2 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:52:13 2015]  Kill: 2 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:52:19 2015]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:52:39 2015]  Kill: 1 2 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:53:08 2015]  Kill: 2 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:53:21 2015]  Kill: 2 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:53:22 2015]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:54:00 2015]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:55:30 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:55:32 2015]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:56:33 2015]  Kill: 1 2 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:57:35 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:58:23 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 17:58:45 2015]  Kill: 2 1 5: Padawan killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 17:59:05 2015]  Kill: 0 2 5: Padawan killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 18:00:19 2015]  Kill: 2 1 5: Padawan killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 18:01:26 2015]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 18:01:47 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 18:01:56 2015]  Kill: 0 2 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 18:01:59 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 18:02:15 2015]  Kill: 2 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 18:02:17 2015]  ClientDisconnect: 1
+[Thu Dec 31 18:02:22 2015]  ClientDisconnect: 2
+[Thu Dec 31 18:02:26 2015]  ClientDisconnect: 0
+[Thu Dec 31 18:02:36 2015]  ClientConnect: 0
+[Thu Dec 31 18:02:36 2015]  mlog:Player Snake, connected. With IP - 178.141.244.251:29070 
+[Thu Dec 31 18:02:56 2015]  ClientDisconnect: 0
+[Thu Dec 31 19:33:44 2015]  ClientConnect: 0
+[Thu Dec 31 19:33:44 2015]  mlog:Player THEJORY, connected. With IP - 76.111.31.134:29070 
+[Thu Dec 31 19:34:07 2015]  ClientBegin: 0
+[Thu Dec 31 19:34:48 2015]  ClientDisconnect: 0
+[Thu Dec 31 20:07:25 2015]  ClientConnect: 0
+[Thu Dec 31 20:07:25 2015]  mlog:Player Padawan, connected. With IP - 74.102.34.224:29070 
+[Thu Dec 31 20:07:38 2015]  ClientBegin: 0
+[Thu Dec 31 20:08:50 2015]  ClientConnect: 1
+[Thu Dec 31 20:08:50 2015]  mlog:Player Padawan, connected. With IP - 96.242.220.100:29070 
+[Thu Dec 31 20:09:09 2015]  ClientBegin: 1
+[Thu Dec 31 20:09:17 2015]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 20:09:33 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 20:10:10 2015]  ClientConnect: 2
+[Thu Dec 31 20:10:10 2015]  mlog:Player ^4Jragonmaster, connected. With IP - 98.142.76.162:29070 
+[Thu Dec 31 20:10:10 2015]  ClientConnect: 3
+[Thu Dec 31 20:10:10 2015]  mlog:Player Padawan, connected. With IP - 173.63.123.159:29070 
+[Thu Dec 31 20:10:27 2015]  ClientBegin: 2
+[Thu Dec 31 20:10:32 2015]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 20:10:38 2015]  ClientConnect: 4
+[Thu Dec 31 20:10:38 2015]  mlog:Player Padawan, connected. With IP - 108.35.80.27:29070 
+[Thu Dec 31 20:10:41 2015]  ClientBegin: 3
+[Thu Dec 31 20:10:44 2015]  ClientDisconnect: 4
+[Thu Dec 31 20:11:05 2015]  ClientConnect: 4
+[Thu Dec 31 20:11:05 2015]  mlog:Player Padawan, connected. With IP - 108.35.80.27:29070 
+[Thu Dec 31 20:11:11 2015]  ClientDisconnect: 4
+[Thu Dec 31 20:11:58 2015]  Kill: 3 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 20:12:28 2015]  ClientConnect: 4
+[Thu Dec 31 20:12:28 2015]  mlog:Player Padawan, connected. With IP - 108.35.80.27:29070 
+[Thu Dec 31 20:12:32 2015]  say: ^4Jragonmaster: are u guys all bots?
+[Thu Dec 31 20:12:35 2015]  Kill: 0 3 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 20:12:43 2015]  say: Padawan: sawno
+[Thu Dec 31 20:12:48 2015]  say: Padawan: no
+[Thu Dec 31 20:12:53 2015]  ClientConnect: 5
+[Thu Dec 31 20:12:53 2015]  mlog:Player Padawan, connected. With IP - 71.163.231.208:29070 
+[Thu Dec 31 20:12:57 2015]  Kill: 3 1 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 20:12:58 2015]  say: ^4Jragonmaster: ah cool
+[Thu Dec 31 20:13:00 2015]  Kill: 3 0 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 20:13:07 2015]  say: ^4Jragonmaster: why not change your name tho lol
+[Thu Dec 31 20:13:18 2015]  Kill: 1 3 3: Padawan killed Padawan by MOD_SABER
+[Thu Dec 31 20:13:22 2015]  ClientBegin: 5
+[Thu Dec 31 20:13:38 2015]  say: ^7§^0î^7ç^0m^7Äh.~: hey look.
+[Thu Dec 31 20:13:41 2015]  say: ^7§^0î^7ç^0m^7Äh.~: it uses my old remap
+[Thu Dec 31 20:13:41 2015]  print "Padawan^7 @@@PLRENAME Aws811
+"[Thu Dec 31 20:13:43 2015]  say: ^7§^0î^7ç^0m^7Äh.~: ocr_a for the win.
+[Thu Dec 31 20:13:54 2015]  Kill: 1 0 3: Padawan killed Aws811 by MOD_SABER
+[Thu Dec 31 20:14:04 2015]  Kill: 5 1 36: ^7§^0î^7ç^0m^7Äh.~ killed Padawan by MOD_CRUSH
+[Thu Dec 31 20:14:07 2015]  say: ^4Jragonmaster: yeah darkquake uses a lot of other ppls stuff
+[Thu Dec 31 20:14:15 2015]  say: ^7§^0î^7ç^0m^7Äh.~: this is the old joes makermod
+[Thu Dec 31 20:14:18 2015]  say: ^7§^0î^7ç^0m^7Äh.~: uh
+[Thu Dec 31 20:14:19 2015]  say: ^7§^0î^7ç^0m^7Äh.~: tree
+[Thu Dec 31 20:14:21 2015]  say: ^7§^0î^7ç^0m^7Äh.~: stuff.
+[Thu Dec 31 20:14:22 2015]  say: ^7§^0î^7ç^0m^7Äh.~: as well
+[Thu Dec 31 20:14:33 2015]  Kill: 3 0 3: Padawan killed Aws811 by MOD_SABER
+[Thu Dec 31 20:14:34 2015]  say: ^4Jragonmaster: mhm
+[Thu Dec 31 20:14:37 2015]  say: Padawan: how do u change your name
+[Thu Dec 31 20:14:50 2015]  say: ^4Jragonmaster: press escape and click profile
+[Thu Dec 31 20:14:53 2015]  Kill: 0 3 3: Aws811 killed Padawan by MOD_SABER
+[Thu Dec 31 20:14:55 2015]  Kill: 0 1 3: Aws811 killed Padawan by MOD_SABER
+[Thu Dec 31 20:14:56 2015]  print "Padawan^7 @@@PLRENAME DickHead
+"[Thu Dec 31 20:15:11 2015]  Kill: 3 1 3: Padawan killed DickHead by MOD_SABER
+[Thu Dec 31 20:15:19 2015]  Kill: 1 3 31: DickHead killed Padawan by MOD_FORCE_DARK
+[Thu Dec 31 20:15:22 2015]  say: ^4Jragonmaster: that saberlocking doe
+[Thu Dec 31 20:15:29 2015]  Kill: 1 0 3: DickHead killed Aws811 by MOD_SABER
+[Thu Dec 31 20:15:34 2015]  say: ^7§^0î^7ç^0m^7Äh.~: goodness this is a memory anda half
+[Thu Dec 31 20:15:39 2015]  say: ^4Jragonmaster: XD
+[Thu Dec 31 20:15:55 2015]  Kill: 0 1 3: Aws811 killed DickHead by MOD_SABER
+[Thu Dec 31 20:16:03 2015]  say: ^4Jragonmaster: unfortunately i dont think i have any of my old scripts
+[Thu Dec 31 20:16:09 2015]  say: ^7§^0î^7ç^0m^7Äh.~: rip
+[Thu Dec 31 20:16:26 2015]  Kill: 1 0 3: DickHead killed Aws811 by MOD_SABER
+[Thu Dec 31 20:16:36 2015]  Kill: 2 1 3: ^4Jragonmaster killed DickHead by MOD_SABER
+[Thu Dec 31 20:16:43 2015]  Kill: 3 0 3: Padawan killed Aws811 by MOD_SABER
+[Thu Dec 31 20:16:50 2015]  ClientDisconnect: 4
+[Thu Dec 31 20:16:52 2015]  Kill: 5 3 36: ^7§^0î^7ç^0m^7Äh.~ killed Padawan by MOD_CRUSH
+[Thu Dec 31 20:16:54 2015]  Kill: 2 1 3: ^4Jragonmaster killed DickHead by MOD_SABER
+[Thu Dec 31 20:17:02 2015]  say: ^7§^0î^7ç^0m^7Äh.~: i still remember all of my binds
+[Thu Dec 31 20:17:06 2015]  ClientConnect: 4
+[Thu Dec 31 20:17:06 2015]  mlog:Player Padawan, connected. With IP - 108.35.80.27:29070 
+[Thu Dec 31 20:17:12 2015]  Kill: 3 0 3: Padawan killed Aws811 by MOD_SABER
+[Thu Dec 31 20:17:16 2015]  say: ^4Jragonmaster: nice
+[Thu Dec 31 20:17:20 2015]  ClientDisconnect: 4
+[Thu Dec 31 20:17:34 2015]  Kill: 3 0 3: Padawan killed Aws811 by MOD_SABER
+[Thu Dec 31 20:17:38 2015]  say: ^7§^0î^7ç^0m^7Äh.~: huh
+[Thu Dec 31 20:17:41 2015]  Kill: 3 2 5: Padawan killed ^4Jragonmaster by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 20:17:41 2015]  say: ^7§^0î^7ç^0m^7Äh.~: he also uses my old gravity 
+[Thu Dec 31 20:17:43 2015]  say: ^7§^0î^7ç^0m^7Äh.~: uh 
+[Thu Dec 31 20:17:44 2015]  say: ^7§^0î^7ç^0m^7Äh.~: setting
+[Thu Dec 31 20:17:49 2015]  say: ^4Jragonmaster: maybe if exo has internet today he can hop on
+[Thu Dec 31 20:17:51 2015]  Kill: 3 0 3: Padawan killed Aws811 by MOD_SABER
+[Thu Dec 31 20:17:53 2015]  say: ^7§^0î^7ç^0m^7Äh.~: shrug
+[Thu Dec 31 20:18:01 2015]  Kill: 3 0 3: Padawan killed Aws811 by MOD_SABER
+[Thu Dec 31 20:18:09 2015]  say: ^7§^0î^7ç^0m^7Äh.~: brb
+[Thu Dec 31 20:18:13 2015]  say: ^4Jragonmaster: tyt
+[Thu Dec 31 20:18:14 2015]  Kill: 3 2 3: Padawan killed ^4Jragonmaster by MOD_SABER
+[Thu Dec 31 20:18:18 2015]  Kill: 0 3 3: Aws811 killed Padawan by MOD_SABER
+[Thu Dec 31 20:18:49 2015]  ClientDisconnect: 1
+[Thu Dec 31 20:18:50 2015]  Kill: 0 3 3: Aws811 killed Padawan by MOD_SABER
+[Thu Dec 31 20:18:52 2015]  Kill: 2 0 3: ^4Jragonmaster killed Aws811 by MOD_SABER
+[Thu Dec 31 20:19:23 2015]  Kill: 3 0 3: Padawan killed Aws811 by MOD_SABER
+[Thu Dec 31 20:19:32 2015]  Kill: 3 0 3: Padawan killed Aws811 by MOD_SABER
+[Thu Dec 31 20:19:39 2015]  Kill: 3 2 3: Padawan killed ^4Jragonmaster by MOD_SABER
+[Thu Dec 31 20:19:51 2015]  say: ^7§^0î^7ç^0m^7Äh.~: back
+[Thu Dec 31 20:19:53 2015]  say: ^4Jragonmaster: wb
+[Thu Dec 31 20:20:22 2015]  Kill: 3 0 3: Padawan killed Aws811 by MOD_SABER
+[Thu Dec 31 20:20:29 2015]  ClientDisconnect: 0
+[Thu Dec 31 20:20:32 2015]  say: ^4Jragonmaster: of course my dynamicglow still doesnt work :\
+[Thu Dec 31 20:20:35 2015]  say: ^7§^0î^7ç^0m^7Äh.~: rip
+[Thu Dec 31 20:20:37 2015]  say: ^7§^0î^7ç^0m^7Äh.~: i use r_fullbright 1
+[Thu Dec 31 20:20:41 2015]  ClientDisconnect: 3
+[Thu Dec 31 20:20:47 2015]  say: ^4Jragonmaster: eww
+[Thu Dec 31 20:20:53 2015]  say: ^7§^0î^7ç^0m^7Äh.~: no one likes it but me
+[Thu Dec 31 20:20:55 2015]  say: ^7§^0î^7ç^0m^7Äh.~: x.x
+[Thu Dec 31 20:21:07 2015]  say: ^4Jragonmaster: why would you like such a shadless world
+[Thu Dec 31 20:21:11 2015]  say: ^7§^0î^7ç^0m^7Äh.~: dunno
+[Thu Dec 31 20:21:18 2015]  say: ^7§^0î^7ç^0m^7Äh.~: i think its cuz i really like to see my objects
+[Thu Dec 31 20:21:35 2015]  say: ^4Jragonmaster: maybe the rest of us like at least a little immersion
+[Thu Dec 31 20:21:39 2015]  say: ^7§^0î^7ç^0m^7Äh.~: shrug
+[Thu Dec 31 20:21:43 2015]  say: ^7§^0î^7ç^0m^7Äh.~: meanwhile they all left
+[Thu Dec 31 20:21:53 2015]  say: ^7§^0î^7ç^0m^7Äh.~: i guess its cuz
+[Thu Dec 31 20:21:55 2015]  say: ^7§^0î^7ç^0m^7Äh.~: im not here in star wars
+[Thu Dec 31 20:21:58 2015]  say: ^7§^0î^7ç^0m^7Äh.~: im here fucking aroudn with my friends
+[Thu Dec 31 20:22:00 2015]  say: ^7§^0î^7ç^0m^7Äh.~: with powers and shite
+[Thu Dec 31 20:22:09 2015]  say: ^7§^0î^7ç^0m^7Äh.~: on the subject of immersion that is.
+[Thu Dec 31 20:22:17 2015]  say: ^4Jragonmaster: ._. maybe more mexicans
+[Thu Dec 31 20:22:54 2015]  say: ^4Jragonmaster: even without scripts i kicked their asses so its more than obvious they were
+[Thu Dec 31 20:23:00 2015]  say: ^7§^0î^7ç^0m^7Äh.~: well yes
+[Thu Dec 31 20:23:07 2015]  say: ^7§^0î^7ç^0m^7Äh.~: i was considering going to one of those jk+ servers
+[Thu Dec 31 20:23:09 2015]  say: ^7§^0î^7ç^0m^7Äh.~: just to duel some blokes
+[Thu Dec 31 20:23:35 2015]  say: ^4Jragonmaster: sounds good to me
+[Thu Dec 31 20:23:53 2015]  say: ^4Jragonmaster: brb
+[Thu Dec 31 20:32:31 2015]  ClientDisconnect: 5
+[Thu Dec 31 20:32:41 2015]  ClientConnect: 0
+[Thu Dec 31 20:32:41 2015]  mlog:Player NeepSheep, connected. With IP - 109.149.59.60:29070 
+[Thu Dec 31 20:32:57 2015]  ClientBegin: 0
+[Thu Dec 31 20:33:49 2015]  ClientConnect: 1
+[Thu Dec 31 20:33:49 2015]  mlog:Player Padawan, connected. With IP - 91.125.213.188:29070 
+[Thu Dec 31 20:34:04 2015]  ClientBegin: 1
+[Thu Dec 31 20:34:32 2015]  print "Padawan^7 @@@PLRENAME rmac
+"[Thu Dec 31 20:34:32 2015]  Kill: 0 0 39: NeepSheep killed NeepSheep by MOD_SUICIDE
+[Thu Dec 31 20:34:37 2015]  Kill: 1 1 39: rmac killed rmac by MOD_SUICIDE
+[Thu Dec 31 20:37:44 2015]  Kill: 1 2 28: rmac killed ^4Jragonmaster by MOD_VEHICLE
+[Thu Dec 31 20:38:17 2015]  say: ^4Jragonmaster: hmm
+[Thu Dec 31 20:38:34 2015]  say: ^4Jragonmaster: npc spawn vehicle x-wing
+[Thu Dec 31 20:38:58 2015]  Kill: 1022 2 6: <world> killed ^4Jragonmaster by MOD_BLASTER
+[Thu Dec 31 20:39:03 2015]  say: NeepSheep: NPC SPAWN MUTANT_RANCOR
+[Thu Dec 31 20:42:11 2015]  Kill: 1 2 28: rmac killed ^4Jragonmaster by MOD_VEHICLE
+[Thu Dec 31 20:46:07 2015]  Kill: 1022 0 6: <world> killed NeepSheep by MOD_BLASTER
+[Thu Dec 31 20:47:16 2015]  Kill: 1022 0 36: <world> killed NeepSheep by MOD_CRUSH
+[Thu Dec 31 20:47:21 2015]  ClientDisconnect: 2
+[Thu Dec 31 20:49:10 2015]  Kill: 1022 1 38: <world> killed rmac by MOD_FALLING
+[Thu Dec 31 20:51:23 2015]  Kill: 0 1 28: NeepSheep killed rmac by MOD_VEHICLE
+[Thu Dec 31 20:52:11 2015]  Kill: 0 1 28: NeepSheep killed rmac by MOD_VEHICLE
+[Thu Dec 31 20:56:13 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 20:59:16 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 20:59:36 2015]  Kill: 0 0 39: NeepSheep killed NeepSheep by MOD_SUICIDE
+[Thu Dec 31 21:00:52 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:01:14 2015]  Kill: 1022 1 39: <world> killed rmac by MOD_SUICIDE
+[Thu Dec 31 21:01:26 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:01:35 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:01:41 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:01:52 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:01:58 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:02:06 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:02:18 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:03:04 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:03:23 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:03:39 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:03:45 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:04:00 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:04:22 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:04:42 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:04:47 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:05:01 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:05:08 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:05:17 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:05:26 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:06:12 2015]  Kill: 1 0 31: rmac killed NeepSheep by MOD_FORCE_DARK
+[Thu Dec 31 21:06:33 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:06:41 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:06:45 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:07:06 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:07:18 2015]  Kill: 1 0 31: rmac killed NeepSheep by MOD_FORCE_DARK
+[Thu Dec 31 21:07:53 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:08:39 2015]  Kill: 1 0 28: rmac killed NeepSheep by MOD_VEHICLE
+[Thu Dec 31 21:09:11 2015]  Kill: 1 0 28: rmac killed NeepSheep by MOD_VEHICLE
+[Thu Dec 31 21:11:26 2015]  Kill: 1 0 28: rmac killed NeepSheep by MOD_VEHICLE
+[Thu Dec 31 21:12:01 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:12:22 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:12:30 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:12:38 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:12:45 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:13:51 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:13:57 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:15:41 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:16:00 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:17:01 2015]  say: rmac: yy
+[Thu Dec 31 21:17:49 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:18:37 2015]  Kill: 1 0 31: rmac killed NeepSheep by MOD_FORCE_DARK
+[Thu Dec 31 21:19:13 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:19:17 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:19:23 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:19:55 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:20:09 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:20:35 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:21:05 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:21:45 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:22:14 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:22:25 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:22:38 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:22:50 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:23:51 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:24:07 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:24:21 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:24:40 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:24:48 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:25:04 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:25:16 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:25:17 2015]  say: rmac: ffffffffafsAF
+[Thu Dec 31 21:26:05 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:26:32 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:26:39 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:27:11 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:27:17 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:27:40 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:27:55 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:28:02 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:28:25 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:28:40 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:28:51 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:29:09 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:29:36 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:30:11 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:30:56 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:31:21 2015]  Kill: 1 0 5: rmac killed NeepSheep by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 21:31:37 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:31:51 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:32:05 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:33:03 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:33:23 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:33:28 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:34:20 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:35:03 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:35:25 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:35:30 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:36:00 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:36:13 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:36:30 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:36:50 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:36:58 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:37:26 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:38:31 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:39:34 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:39:45 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:40:41 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:41:43 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:42:57 2015]  Kill: 0 1 5: NeepSheep killed rmac by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 21:43:13 2015]  Kill: 1 0 5: rmac killed NeepSheep by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 21:44:29 2015]  Kill: 1 0 5: rmac killed NeepSheep by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 21:44:38 2015]  Kill: 0 1 5: NeepSheep killed rmac by MOD_BRYAR_PISTOL_ALT
+[Thu Dec 31 21:45:27 2015]  Kill: 0 1 3: NeepSheep killed rmac by MOD_SABER
+[Thu Dec 31 21:45:43 2015]  Kill: 1 0 3: rmac killed NeepSheep by MOD_SABER
+[Thu Dec 31 21:48:00 2015]  ClientDisconnect: 0
+[Thu Dec 31 21:48:02 2015]  ClientDisconnect: 1
+[Thu Dec 31 23:21:26 2015]  ClientConnect: 0
+[Thu Dec 31 23:21:26 2015]  mlog:Player handsomeweener, connected. With IP - 69.145.169.227:29070 
+[Thu Dec 31 23:21:44 2015]  ClientBegin: 0
+[Thu Dec 31 23:24:28 2015]  ClientDisconnect: 0
+[Fri Jan 01 00:38:01 2016]  ClientConnect: 0
+[Fri Jan 01 00:38:01 2016]  mlog:Player Ass'head, connected. With IP - 82.8.9.246:29070 
+[Fri Jan 01 00:38:02 2016]  ClientConnect: 1
+[Fri Jan 01 00:38:02 2016]  mlog:Player Bill, connected. With IP - 37.228.237.3:19034 
+[Fri Jan 01 00:38:17 2016]  ClientConnect: 2
+[Fri Jan 01 00:38:17 2016]  mlog:Player Lizzie, connected. With IP - 37.228.237.3:19124 
+[Fri Jan 01 00:38:17 2016]  ClientBegin: 0
+[Fri Jan 01 00:38:31 2016]  ClientBegin: 1
+[Fri Jan 01 00:38:34 2016]  ClientBegin: 2
+[Fri Jan 01 00:40:24 2016]  Kill: 0 2 3: Ass'head killed Lizzie by MOD_SABER
+[Fri Jan 01 00:44:04 2016]  Kill: 0 2 3: Ass'head killed Lizzie by MOD_SABER
+[Fri Jan 01 00:44:30 2016]  Kill: 2 0 3: Lizzie killed Ass'head by MOD_SABER
+[Fri Jan 01 00:44:46 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 00:45:36 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 00:45:47 2016]  Kill: 0 2 3: Ass'head killed Lizzie by MOD_SABER
+[Fri Jan 01 00:47:14 2016]  Kill: 2 0 3: Lizzie killed Ass'head by MOD_SABER
+[Fri Jan 01 00:48:05 2016]  Kill: 1 2 3: Bill killed Lizzie by MOD_SABER
+[Fri Jan 01 00:48:12 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 00:48:50 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 00:49:18 2016]  Kill: 2 0 3: Lizzie killed Ass'head by MOD_SABER
+[Fri Jan 01 00:49:24 2016]  Kill: 1 2 3: Bill killed Lizzie by MOD_SABER
+[Fri Jan 01 00:49:39 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 00:49:48 2016]  Kill: 2 0 3: Lizzie killed Ass'head by MOD_SABER
+[Fri Jan 01 00:49:55 2016]  Kill: 1 0 37: Bill killed Ass'head by MOD_TELEFRAG
+[Fri Jan 01 00:50:40 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 00:50:53 2016]  Kill: 0 2 3: Ass'head killed Lizzie by MOD_SABER
+[Fri Jan 01 00:51:25 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 00:51:52 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 00:52:06 2016]  Kill: 0 2 3: Ass'head killed Lizzie by MOD_SABER
+[Fri Jan 01 00:52:17 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 00:52:45 2016]  Kill: 0 2 3: Ass'head killed Lizzie by MOD_SABER
+[Fri Jan 01 00:52:46 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 00:53:20 2016]  Kill: 1 2 3: Bill killed Lizzie by MOD_SABER
+[Fri Jan 01 00:53:39 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 00:54:02 2016]  Kill: 2 0 3: Lizzie killed Ass'head by MOD_SABER
+[Fri Jan 01 00:54:49 2016]  Kill: 0 2 3: Ass'head killed Lizzie by MOD_SABER
+[Fri Jan 01 00:55:12 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 00:55:29 2016]  Kill: 0 2 3: Ass'head killed Lizzie by MOD_SABER
+[Fri Jan 01 00:55:56 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 00:56:35 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 00:56:52 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 00:57:04 2016]  Kill: 1 2 3: Bill killed Lizzie by MOD_SABER
+[Fri Jan 01 00:57:18 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 00:57:49 2016]  Kill: 0 2 3: Ass'head killed Lizzie by MOD_SABER
+[Fri Jan 01 00:57:53 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 00:58:37 2016]  Kill: 1 2 4: Bill killed Lizzie by MOD_BRYAR_PISTOL
+[Fri Jan 01 00:58:57 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 01:00:35 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 01:01:04 2016]  Kill: 2 0 3: Lizzie killed Ass'head by MOD_SABER
+[Fri Jan 01 01:01:17 2016]  Kill: 1 2 3: Bill killed Lizzie by MOD_SABER
+[Fri Jan 01 01:01:35 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 01:02:51 2016]  Kill: 1 2 3: Bill killed Lizzie by MOD_SABER
+[Fri Jan 01 01:03:06 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 01:03:32 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 01:03:42 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 01:04:17 2016]  Kill: 1 2 4: Bill killed Lizzie by MOD_BRYAR_PISTOL
+[Fri Jan 01 01:04:29 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 01:05:23 2016]  Kill: 1 2 3: Bill killed Lizzie by MOD_SABER
+[Fri Jan 01 01:05:42 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 01:06:08 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 01:06:39 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 01:07:21 2016]  Kill: 2 0 3: Lizzie killed Ass'head by MOD_SABER
+[Fri Jan 01 01:08:32 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 01:09:25 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 01:10:44 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 01:11:14 2016]  Kill: 1022 2 38: <world> killed Lizzie by MOD_FALLING
+[Fri Jan 01 01:12:03 2016]  Kill: 1 2 3: Bill killed Lizzie by MOD_SABER
+[Fri Jan 01 01:12:49 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 01:13:37 2016]  Kill: 2 0 3: Lizzie killed Ass'head by MOD_SABER
+[Fri Jan 01 01:14:12 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 01:14:19 2016]  Kill: 2 0 3: Lizzie killed Ass'head by MOD_SABER
+[Fri Jan 01 01:14:55 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 01:16:18 2016]  Kill: 2 0 3: Lizzie killed Ass'head by MOD_SABER
+[Fri Jan 01 01:16:30 2016]  Kill: 1 2 3: Bill killed Lizzie by MOD_SABER
+[Fri Jan 01 01:17:32 2016]  Kill: 0 1 31: Ass'head killed Bill by MOD_FORCE_DARK
+[Fri Jan 01 01:18:01 2016]  Kill: 0 2 31: Ass'head killed Lizzie by MOD_FORCE_DARK
+[Fri Jan 01 01:19:37 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 01:20:06 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 01:20:28 2016]  Kill: 0 1 31: Ass'head killed Bill by MOD_FORCE_DARK
+[Fri Jan 01 01:21:00 2016]  Kill: 0 2 31: Ass'head killed Lizzie by MOD_FORCE_DARK
+[Fri Jan 01 01:21:37 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 01:21:54 2016]  Kill: 0 1 31: Ass'head killed Bill by MOD_FORCE_DARK
+[Fri Jan 01 01:22:27 2016]  Kill: 0 1 31: Ass'head killed Bill by MOD_FORCE_DARK
+[Fri Jan 01 01:22:44 2016]  Kill: 0 2 31: Ass'head killed Lizzie by MOD_FORCE_DARK
+[Fri Jan 01 01:22:59 2016]  Kill: 1 0 31: Bill killed Ass'head by MOD_FORCE_DARK
+[Fri Jan 01 01:23:04 2016]  Kill: 2 1 31: Lizzie killed Bill by MOD_FORCE_DARK
+[Fri Jan 01 01:24:26 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 01:25:51 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 01:26:58 2016]  Kill: 0 2 3: Ass'head killed Lizzie by MOD_SABER
+[Fri Jan 01 01:27:32 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 01:29:10 2016]  Kill: 1 2 31: Bill killed Lizzie by MOD_FORCE_DARK
+[Fri Jan 01 01:29:24 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 01:29:57 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 01:30:50 2016]  Kill: 1 0 31: Bill killed Ass'head by MOD_FORCE_DARK
+[Fri Jan 01 01:31:24 2016]  Kill: 1 2 3: Bill killed Lizzie by MOD_SABER
+[Fri Jan 01 01:32:07 2016]  Kill: 1 2 3: Bill killed Lizzie by MOD_SABER
+[Fri Jan 01 01:32:23 2016]  Kill: 0 1 3: Ass'head killed Bill by MOD_SABER
+[Fri Jan 01 01:33:56 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 01:34:49 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 01:36:03 2016]  Kill: 0 2 3: Ass'head killed Lizzie by MOD_SABER
+[Fri Jan 01 01:36:32 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 01:38:34 2016]  Kill: 1 0 3: Bill killed Ass'head by MOD_SABER
+[Fri Jan 01 01:38:43 2016]  ClientDisconnect: 0
+[Fri Jan 01 01:39:02 2016]  Kill: 2 1 3: Lizzie killed Bill by MOD_SABER
+[Fri Jan 01 01:39:09 2016]  ClientDisconnect: 1
+[Fri Jan 01 01:39:43 2016]  ClientDisconnect: 2
+[Fri Jan 01 03:18:33 2016]  ClientConnect: 0
+[Fri Jan 01 03:18:33 2016]  mlog:Player Padawan, connected. With IP - 98.255.117.6:29070 
+[Fri Jan 01 03:19:03 2016]  ClientBegin: 0
+[Fri Jan 01 03:23:32 2016]  Kill: 1022 0 39: <world> killed Padawan by MOD_SUICIDE
+[Fri Jan 01 03:26:17 2016]  ClientDisconnect: 0
+[Fri Jan 01 12:24:56 2016]  ClientConnect: 0
+[Fri Jan 01 12:24:56 2016]  mlog:Player Snake, connected. With IP - 178.141.72.194:29070 
+[Fri Jan 01 12:25:15 2016]  ClientBegin: 0
+[Fri Jan 01 12:26:03 2016]  ClientDisconnect: 0
+[Fri Jan 01 12:26:40 2016]  ClientConnect: 0
+[Fri Jan 01 12:26:40 2016]  mlog:Player RAZYEBASHIVATEL, connected. With IP - 94.181.205.89:29070 
+[Fri Jan 01 12:26:41 2016]  ClientConnect: 1
+[Fri Jan 01 12:26:41 2016]  mlog:Player Snake, connected. With IP - 178.141.72.194:29070 
+[Fri Jan 01 12:26:50 2016]  ClientBegin: 1
+[Fri Jan 01 12:26:56 2016]  ClientBegin: 0
+[Fri Jan 01 12:27:24 2016]  Kill: 0 1 3: Padawan killed Snake by MOD_SABER
+[Fri Jan 01 12:27:58 2016]  Kill: 0 1 3: Padawan killed Snake by MOD_SABER
+[Fri Jan 01 12:28:40 2016]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Fri Jan 01 12:28:44 2016]  Kill: 1022 1 36: <world> killed Snake by MOD_CRUSH
+[Fri Jan 01 12:29:36 2016]  Kill: 0 1 3: Padawan killed Snake by MOD_SABER
+[Fri Jan 01 12:30:04 2016]  Kill: 0 1 3: Padawan killed Snake by MOD_SABER
+[Fri Jan 01 12:30:09 2016]  ClientDisconnect: 1
+[Fri Jan 01 12:31:37 2016]  ClientDisconnect: 0
+[Fri Jan 01 13:21:00 2016]  ClientConnect: 0
+[Fri Jan 01 13:21:00 2016]  mlog:Player /connect  jk4files.tk, connected. With IP - 31.186.251.201:-12210 
+[Fri Jan 01 13:24:21 2016]  ClientDisconnect: 0
+[Fri Jan 01 14:40:51 2016]  ClientConnect: 0
+[Fri Jan 01 14:40:51 2016]  mlog:Player Padawan, connected. With IP - 94.61.38.31:29070 
+[Fri Jan 01 14:41:49 2016]  ClientConnect: 1
+[Fri Jan 01 14:41:49 2016]  mlog:Player Padawan, connected. With IP - 94.61.225.35:-7910 
+[Fri Jan 01 14:42:06 2016]  ClientBegin: 1
+[Fri Jan 01 14:42:52 2016]  say: Padawan: tt
+[Fri Jan 01 14:45:19 2016]  ClientDisconnect: 0
+[Fri Jan 01 14:45:47 2016]  ClientConnect: 0
+[Fri Jan 01 14:45:47 2016]  mlog:Player Padawan, connected. With IP - 94.61.38.31:29070 
+[Fri Jan 01 14:45:53 2016]  ClientDisconnect: 0
+[Fri Jan 01 14:46:48 2016]  ClientDisconnect: 1
+[Fri Jan 01 15:21:40 2016]  ClientConnect: 0
+[Fri Jan 01 15:21:40 2016]  mlog:Player Lolych, connected. With IP - 37.21.100.49:29070 
+[Fri Jan 01 15:22:16 2016]  ClientBegin: 0
+[Fri Jan 01 15:22:21 2016]  Kill: 0 0 39: Lolych killed Lolych by MOD_SUICIDE
+[Fri Jan 01 15:22:21 2016]  setteam:  0 FREE SPECTATOR
+[Fri Jan 01 15:22:21 2016]  ClientBegin: 0
+[Fri Jan 01 15:22:25 2016]  ClientDisconnect: 0
+[Fri Jan 01 16:06:46 2016]  ClientConnect: 0
+[Fri Jan 01 16:06:46 2016]  mlog:Player Padawan, connected. With IP - 46.241.99.185:29070 
+[Fri Jan 01 16:07:18 2016]  ClientBegin: 0
+[Fri Jan 01 16:08:52 2016]  ClientDisconnect: 0
+[Fri Jan 01 16:13:24 2016]  ClientConnect: 0
+[Fri Jan 01 16:13:24 2016]  mlog:Player Padawan, connected. With IP - 87.103.201.237:29070 
+[Fri Jan 01 16:13:40 2016]  ClientBegin: 0
+[Fri Jan 01 16:15:46 2016]  ClientConnect: 1
+[Fri Jan 01 16:15:46 2016]  mlog:Player Padawan, connected. With IP - 46.241.99.185:29070 
+[Fri Jan 01 16:15:58 2016]  ClientBegin: 1
+[Fri Jan 01 16:17:52 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:20:30 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:21:04 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:22:12 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:23:04 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:23:53 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:25:26 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:25:44 2016]  ClientConnect: 2
+[Fri Jan 01 16:25:44 2016]  mlog:Player StarrAnnika, connected. With IP - 173.65.123.229:1026 
+[Fri Jan 01 16:25:58 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:26:56 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:27:53 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:29:01 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:29:06 2016]  ClientDisconnect: 2
+[Fri Jan 01 16:29:53 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:30:33 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:30:59 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:31:48 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:32:50 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:32:59 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:33:14 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:33:17 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:34:01 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:34:20 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:34:29 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:34:54 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:36:04 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:36:32 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:36:44 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:36:58 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:37:08 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:37:24 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:37:40 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:38:21 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:41:38 2016]  Kill: 1022 1 2: <world> killed Padawan by MOD_MELEE
+[Fri Jan 01 16:41:47 2016]  Kill: 1022 0 38: <world> killed Padawan by MOD_FALLING
+[Fri Jan 01 16:41:55 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:43:31 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:43:54 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:44:08 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:44:20 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:45:03 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:45:18 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:45:37 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:47:58 2016]  Kill: 0 1 5: Padawan killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Fri Jan 01 16:50:11 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:52:46 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:53:33 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:53:44 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:55:32 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:55:46 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:55:58 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:56:34 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:56:42 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:57:02 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 16:58:18 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 17:01:30 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 17:02:03 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 17:03:38 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 17:03:56 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Fri Jan 01 17:04:01 2016]  ClientDisconnect: 0
+[Fri Jan 01 17:05:07 2016]  ClientDisconnect: 1
+[Fri Jan 01 17:28:18 2016]  ClientConnect: 0
+[Fri Jan 01 17:28:18 2016]  mlog:Player nosok92, connected. With IP - 188.186.47.161:29070 
+[Fri Jan 01 17:28:44 2016]  ClientBegin: 0
+[Fri Jan 01 17:32:47 2016]  Kill: 0 0 39: nosok92 killed nosok92 by MOD_SUICIDE
+[Fri Jan 01 17:33:38 2016]  Kill: 1022 0 2: <world> killed nosok92 by MOD_MELEE
+[Fri Jan 01 17:36:01 2016]  ClientConnect: 1
+[Fri Jan 01 17:36:01 2016]  mlog:Player Quixotic, connected. With IP - 188.186.111.4:29070 
+[Fri Jan 01 17:36:19 2016]  ClientBegin: 1
+[Fri Jan 01 17:37:02 2016]  Kill: 1 1 39: Quixotic killed Quixotic by MOD_SUICIDE
+[Fri Jan 01 17:37:02 2016]  setteam:  1 FREE SPECTATOR
+[Fri Jan 01 17:37:02 2016]  ClientBegin: 1
+[Fri Jan 01 17:37:08 2016]  setteam:  1 SPECTATOR FREE
+[Fri Jan 01 17:37:08 2016]  ClientBegin: 1
+[Fri Jan 01 17:38:01 2016]  Kill: 1 1 39: Quixotic killed Quixotic by MOD_SUICIDE
+[Fri Jan 01 17:38:01 2016]  setteam:  1 FREE SPECTATOR
+[Fri Jan 01 17:38:01 2016]  ClientBegin: 1
+[Fri Jan 01 17:38:08 2016]  setteam:  1 SPECTATOR FREE
+[Fri Jan 01 17:38:08 2016]  ClientBegin: 1
+[Fri Jan 01 17:40:29 2016]  Kill: 1 0 3: Quixotic killed nosok92 by MOD_SABER
+[Fri Jan 01 17:41:21 2016]  Kill: 0 1 2: nosok92 killed Quixotic by MOD_MELEE
+[Fri Jan 01 17:43:02 2016]  Kill: 0 1 2: nosok92 killed Quixotic by MOD_MELEE
+[Fri Jan 01 17:43:13 2016]  ClientDisconnect: 1
+[Fri Jan 01 17:43:25 2016]  ClientDisconnect: 0
+[Fri Jan 01 18:20:09 2016]  ClientConnect: 0
+[Fri Jan 01 18:20:09 2016]  mlog:Player Padawan, connected. With IP - 95.86.219.217:29070 
+[Fri Jan 01 18:20:32 2016]  ClientBegin: 0
+[Fri Jan 01 18:20:41 2016]  ClientDisconnect: 0
+[Fri Jan 01 19:20:27 2016]  ClientConnect: 0
+[Fri Jan 01 19:20:27 2016]  mlog:Player Jaden, connected. With IP - 85.171.116.128:29070 
+[Fri Jan 01 19:25:18 2016]  ClientDisconnect: 0
+[Fri Jan 01 19:28:28 2016]  ClientConnect: 0
+[Fri Jan 01 19:28:28 2016]  mlog:Player Raghnard, connected. With IP - 85.171.116.128:29070 
+[Fri Jan 01 19:30:30 2016]  ClientDisconnect: 0
+[Fri Jan 01 19:30:33 2016]  ClientConnect: 0
+[Fri Jan 01 19:30:33 2016]  mlog:Player Raghnard, connected. With IP - 85.171.116.128:29070 
+[Fri Jan 01 19:30:52 2016]  ClientDisconnect: 0
+[Fri Jan 01 19:36:30 2016]  ClientConnect: 0
+[Fri Jan 01 19:36:30 2016]  mlog:Player Raghnard, connected. With IP - 85.171.116.128:29070 
+[Fri Jan 01 19:36:36 2016]  ClientDisconnect: 0
+[Fri Jan 01 19:37:04 2016]  ClientConnect: 0
+[Fri Jan 01 19:37:04 2016]  mlog:Player Raghnard, connected. With IP - 85.171.116.128:29070 
+[Fri Jan 01 19:37:12 2016]  ClientDisconnect: 0
+[Fri Jan 01 19:56:18 2016]  ClientConnect: 0
+[Fri Jan 01 19:56:18 2016]  mlog:Player Padawan, connected. With IP - 178.172.228.138:29070 
+[Fri Jan 01 19:56:32 2016]  ClientConnect: 1
+[Fri Jan 01 19:56:32 2016]  mlog:Player DjaJa, connected. With IP - 128.70.201.173:29070 
+[Fri Jan 01 19:56:41 2016]  ClientBegin: 0
+[Fri Jan 01 19:57:03 2016]  ClientBegin: 1
+[Fri Jan 01 19:57:40 2016]  Kill: 0 1 3: Padawan killed DjaJa by MOD_SABER
+[Fri Jan 01 19:59:05 2016]  Kill: 1 0 31: DjaJa killed Padawan by MOD_FORCE_DARK
+[Fri Jan 01 19:59:20 2016]  print "Padawan^7 @@@PLRENAME 113
+"[Fri Jan 01 20:00:27 2016]  Kill: 0 1 3: 113 killed DjaJa by MOD_SABER
+[Fri Jan 01 20:00:53 2016]  Kill: 0 1 3: 113 killed DjaJa by MOD_SABER
+[Fri Jan 01 20:01:16 2016]  Kill: 0 1 3: 113 killed DjaJa by MOD_SABER
+[Fri Jan 01 20:01:52 2016]  Kill: 1 0 3: DjaJa killed 113 by MOD_SABER
+[Fri Jan 01 20:02:09 2016]  Kill: 1 0 3: DjaJa killed 113 by MOD_SABER
+[Fri Jan 01 20:02:49 2016]  Kill: 0 1 3: 113 killed DjaJa by MOD_SABER
+[Fri Jan 01 20:03:24 2016]  Kill: 1 0 3: DjaJa killed 113 by MOD_SABER
+[Fri Jan 01 20:04:37 2016]  Kill: 0 1 3: 113 killed DjaJa by MOD_SABER
+[Fri Jan 01 20:05:22 2016]  Kill: 1 0 31: DjaJa killed 113 by MOD_FORCE_DARK
+[Fri Jan 01 20:05:47 2016]  ClientConnect: 2
+[Fri Jan 01 20:05:47 2016]  mlog:Player Padawan, connected. With IP - 178.37.5.185:25163 
+[Fri Jan 01 20:05:54 2016]  Kill: 0 1 3: 113 killed DjaJa by MOD_SABER
+[Fri Jan 01 20:06:12 2016]  ClientBegin: 2
+[Fri Jan 01 20:06:13 2016]  Kill: 0 1 3: 113 killed DjaJa by MOD_SABER
+[Fri Jan 01 20:06:28 2016]  print "Padawan^7 @@@PLRENAME Kylo Ren
+"[Fri Jan 01 20:06:35 2016]  Kill: 0 1 3: 113 killed DjaJa by MOD_SABER
+[Fri Jan 01 20:06:46 2016]  Kill: 1 0 3: DjaJa killed 113 by MOD_SABER
+[Fri Jan 01 20:06:48 2016]  Kill: 1 2 3: DjaJa killed Kylo Ren by MOD_SABER
+[Fri Jan 01 20:06:53 2016]  Kill: 0 1 3: 113 killed DjaJa by MOD_SABER
+[Fri Jan 01 20:06:58 2016]  Kill: 1 0 3: DjaJa killed 113 by MOD_SABER
+[Fri Jan 01 20:07:10 2016]  Kill: 0 2 3: 113 killed Kylo Ren by MOD_SABER
+[Fri Jan 01 20:07:12 2016]  Kill: 1 0 3: DjaJa killed 113 by MOD_SABER
+[Fri Jan 01 20:07:15 2016]  Kill: 2 1 31: Kylo Ren killed DjaJa by MOD_FORCE_DARK
+[Fri Jan 01 20:07:36 2016]  Kill: 2 0 31: Kylo Ren killed 113 by MOD_FORCE_DARK
+[Fri Jan 01 20:07:36 2016]  Kill: 2 1 31: Kylo Ren killed DjaJa by MOD_FORCE_DARK
+[Fri Jan 01 20:07:44 2016]  Kill: 1 0 3: DjaJa killed 113 by MOD_SABER
+[Fri Jan 01 20:07:55 2016]  Kill: 2 1 3: Kylo Ren killed DjaJa by MOD_SABER
+[Fri Jan 01 20:08:09 2016]  Kill: 2 0 3: Kylo Ren killed 113 by MOD_SABER
+[Fri Jan 01 20:09:32 2016]  Kill: 2 0 3: Kylo Ren killed 113 by MOD_SABER
+[Fri Jan 01 20:09:52 2016]  Kill: 2 1 31: Kylo Ren killed DjaJa by MOD_FORCE_DARK
+[Fri Jan 01 20:10:03 2016]  Kill: 2 0 3: Kylo Ren killed 113 by MOD_SABER
+[Fri Jan 01 20:10:16 2016]  Kill: 2 1 3: Kylo Ren killed DjaJa by MOD_SABER
+[Fri Jan 01 20:10:16 2016]  ClientConnect: 3
+[Fri Jan 01 20:10:16 2016]  mlog:Player Padawan, connected. With IP - 37.14.217.179:29070 
+[Fri Jan 01 20:10:29 2016]  ClientBegin: 3
+[Fri Jan 01 20:10:46 2016]  print "Padawan^7 @@@PLRENAME Ikarus
+"[Fri Jan 01 20:11:02 2016]  Kill: 1 2 3: DjaJa killed Kylo Ren by MOD_SABER
+[Fri Jan 01 20:11:16 2016]  say: Ikarus: so much time
+[Fri Jan 01 20:11:17 2016]  ClientDisconnect: 1
+[Fri Jan 01 20:11:23 2016]  Kill: 0 2 3: 113 killed Kylo Ren by MOD_SABER
+[Fri Jan 01 20:11:47 2016]  Kill: 3 0 3: Ikarus killed 113 by MOD_SABER
+[Fri Jan 01 20:11:55 2016]  Kill: 0 3 3: 113 killed Ikarus by MOD_SABER
+[Fri Jan 01 20:12:13 2016]  Kill: 3 0 3: Ikarus killed 113 by MOD_SABER
+[Fri Jan 01 20:12:32 2016]  Kill: 0 3 3: 113 killed Ikarus by MOD_SABER
+[Fri Jan 01 20:12:38 2016]  ClientDisconnect: 3
+[Fri Jan 01 20:15:22 2016]  Kill: 0 0 39: 113 killed 113 by MOD_SUICIDE
+[Fri Jan 01 20:15:22 2016]  setteam:  0 FREE SPECTATOR
+[Fri Jan 01 20:15:22 2016]  ClientBegin: 0
+[Fri Jan 01 20:15:28 2016]  setteam:  0 SPECTATOR FREE
+[Fri Jan 01 20:15:28 2016]  ClientBegin: 0
+[Fri Jan 01 20:15:50 2016]  say: Kylo Ren: i waiting for U
+[Fri Jan 01 20:15:53 2016]  say: Kylo Ren: jedi...
+[Fri Jan 01 20:16:05 2016]  say: 113: WHERE ARE U
+[Fri Jan 01 20:16:10 2016]  say: Kylo Ren: i dont know xDD
+[Fri Jan 01 20:16:17 2016]  say: Kylo Ren: i lost ;p
+[Fri Jan 01 20:16:27 2016]  say: 113: GO BASE I KILL U SITH!
+[Fri Jan 01 20:16:32 2016]  say: Kylo Ren: i comming
+[Fri Jan 01 20:17:14 2016]  say: Kylo Ren: ready fool?
+[Fri Jan 01 20:17:19 2016]  say: 113: ya stal ly4he posle nashey posledniy vstre4i
+[Fri Jan 01 20:17:38 2016]  Kill: 0 2 3: 113 killed Kylo Ren by MOD_SABER
+[Fri Jan 01 20:17:43 2016]  ClientDisconnect: 2
+[Fri Jan 01 20:18:10 2016]  say: 113: yea
+[Fri Jan 01 20:18:14 2016]  ClientDisconnect: 0
+[Fri Jan 01 23:11:20 2016]  ClientConnect: 0
+[Fri Jan 01 23:11:20 2016]  mlog:Player General Grievous, connected. With IP - 178.204.196.160:29070 
+[Fri Jan 01 23:11:58 2016]  ClientBegin: 0
+[Fri Jan 01 23:17:24 2016]  ClientConnect: 1
+[Fri Jan 01 23:17:24 2016]  mlog:Player Completely Retarded, connected. With IP - 109.161.112.2:29070 
+[Fri Jan 01 23:17:44 2016]  ClientBegin: 1
+[Fri Jan 01 23:17:48 2016]  say: General Grievous: ne eby 4e za serv
+[Fri Jan 01 23:18:08 2016]  say: General Grievous: ho oh pizdec bolshoy
+[Fri Jan 01 23:18:19 2016]  say: General Grievous: i ya vishy tvoi skini
+[Fri Jan 01 23:18:31 2016]  say: Completely Retarded: hde moya sila
+[Fri Jan 01 23:18:44 2016]  say: General Grievous: tyt ona zapreshena vrode
+[Fri Jan 01 23:18:47 2016]  say: Completely Retarded: ok
+[Fri Jan 01 23:18:53 2016]  say: General Grievous: only mechi
+[Fri Jan 01 23:18:59 2016]  say: Completely Retarded: AAAAAAAAAAAAAAAAAAAA KRUCHUUUUS
+[Fri Jan 01 23:19:01 2016]  say: General Grievous: hde ti syk
+[Fri Jan 01 23:19:09 2016]  say: General Grievous: solys
+[Fri Jan 01 23:19:29 2016]  say: Completely Retarded: che
+[Fri Jan 01 23:19:43 2016]  say: General Grievous: aaaa slojna iskat
+[Fri Jan 01 23:20:12 2016]  say: General Grievous: ya na baike
+[Fri Jan 01 23:20:24 2016]  say: General Grievous: teper net
+[Fri Jan 01 23:20:37 2016]  say: General Grievous: syka poteralsa
+[Fri Jan 01 23:20:45 2016]  say: General Grievous: naxya takaa bolshaa mapa
+[Fri Jan 01 23:21:05 2016]  say: Completely Retarded: luk ya tvoi drug
+[Fri Jan 01 23:21:26 2016]  Kill: 0 0 39: General Grievous killed General Grievous by MOD_SUICIDE
+[Fri Jan 01 23:21:26 2016]  setteam:  0 FREE SPECTATOR
+[Fri Jan 01 23:21:26 2016]  ClientBegin: 0
+[Fri Jan 01 23:21:33 2016]  setteam:  0 SPECTATOR FREE
+[Fri Jan 01 23:21:33 2016]  ClientBegin: 0
+[Fri Jan 01 23:21:48 2016]  say: Completely Retarded: che
+[Fri Jan 01 23:21:53 2016]  say: Completely Retarded: ya videl kak monstr dvigalsya
+[Fri Jan 01 23:21:57 2016]  say: General Grievous: ybeysa ili perezaidi za timy
+[Fri Jan 01 23:22:06 2016]  say: General Grievous: ya na spawne
+[Fri Jan 01 23:22:22 2016]  say: Completely Retarded: ya na dne
+[Fri Jan 01 23:22:33 2016]  say: General Grievous: na dneeeeeeeee
+[Fri Jan 01 23:22:44 2016]  say: Completely Retarded: naidi dno
+[Fri Jan 01 23:22:45 2016]  say: General Grievous: vot ti
+[Fri Jan 01 23:23:09 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:23:11 2016]  say: Completely Retarded: CHE
+[Fri Jan 01 23:23:12 2016]  say: General Grievous: che
+[Fri Jan 01 23:23:13 2016]  say: Completely Retarded: CHE
+[Fri Jan 01 23:23:22 2016]  say: Completely Retarded: YA SDELAL
+[Fri Jan 01 23:23:22 2016]  say: General Grievous: mena iznasilovali
+[Fri Jan 01 23:23:30 2016]  say: Completely Retarded: HAAHAHAHAHHAHAHAHA
+[Fri Jan 01 23:23:42 2016]  say: General Grievous: 4to ti najal
+[Fri Jan 01 23:23:48 2016]  say: Completely Retarded: ya bil typo tebya
+[Fri Jan 01 23:23:56 2016]  say: Completely Retarded: eto svoistvo odnogo mecha naverno
+[Fri Jan 01 23:24:03 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:24:06 2016]  say: Completely Retarded: AHHAHAHAHA
+[Fri Jan 01 23:24:14 2016]  say: General Grievous: sha pomenay me4
+[Fri Jan 01 23:24:26 2016]  say: Completely Retarded: nyjno nonstopom jat' na levyy knopky mishi
+[Fri Jan 01 23:24:38 2016]  say: Completely Retarded: kogda takoe proishodit
+[Fri Jan 01 23:24:51 2016]  say: General Grievous: pizda tebe
+[Fri Jan 01 23:24:59 2016]  say: Completely Retarded: a kak na baik sest'?
+[Fri Jan 01 23:25:02 2016]  say: General Grievous: r
+[Fri Jan 01 23:25:05 2016]  say: General Grievous: r jmi
+[Fri Jan 01 23:25:17 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:25:22 2016]  say: Completely Retarded: ya yderjal silnee
+[Fri Jan 01 23:25:23 2016]  say: Completely Retarded: kek
+[Fri Jan 01 23:25:42 2016]  say: Completely Retarded: blyad
+[Fri Jan 01 23:25:50 2016]  say: General Grievous: ya videl yjasi
+[Fri Jan 01 23:25:56 2016]  say: General Grievous: snova videl
+[Fri Jan 01 23:25:59 2016]  say: Completely Retarded: che
+[Fri Jan 01 23:26:00 2016]  say: Completely Retarded: vsimle
+[Fri Jan 01 23:26:07 2016]  Kill: 1022 1 2: <world> killed Completely Retarded by MOD_MELEE
+[Fri Jan 01 23:26:09 2016]  say: Completely Retarded: BLYAD
+[Fri Jan 01 23:26:11 2016]  say: Completely Retarded: SYKA
+[Fri Jan 01 23:26:16 2016]  say: General Grievous: v tekstyrki paday vzgladom
+[Fri Jan 01 23:26:26 2016]  say: Completely Retarded: podlii demon
+[Fri Jan 01 23:26:28 2016]  say: Completely Retarded: gde ti
+[Fri Jan 01 23:26:40 2016]  say: General Grievous: na dne
+[Fri Jan 01 23:27:16 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:27:31 2016]  say: General Grievous: 4iter report gg wp
+[Fri Jan 01 23:27:42 2016]  say: General Grievous: aaaaaaaaa syka
+[Fri Jan 01 23:27:48 2016]  say: Completely Retarded: che
+[Fri Jan 01 23:27:50 2016]  say: General Grievous: mapa s glykami
+[Fri Jan 01 23:28:47 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:28:57 2016]  say: General Grievous: blya slojna
+[Fri Jan 01 23:29:06 2016]  say: General Grievous: hyli ya tak ne mogy
+[Fri Jan 01 23:29:29 2016]  say: General Grievous: vstan radom
+[Fri Jan 01 23:29:31 2016]  say: General Grievous: so mnoy
+[Fri Jan 01 23:29:35 2016]  say: General Grievous: syda
+[Fri Jan 01 23:29:40 2016]  say: General Grievous: padaidi
+[Fri Jan 01 23:29:44 2016]  say: Completely Retarded: che
+[Fri Jan 01 23:29:45 2016]  say: Completely Retarded: hde
+[Fri Jan 01 23:29:53 2016]  say: General Grievous: stoy
+[Fri Jan 01 23:30:02 2016]  say: General Grievous: popitays
+[Fri Jan 01 23:30:08 2016]  say: General Grievous: syka
+[Fri Jan 01 23:30:17 2016]  Kill: 0 1 3: General Grievous killed Completely Retarded by MOD_SABER
+[Fri Jan 01 23:30:23 2016]  say: General Grievous: ya smog
+[Fri Jan 01 23:30:27 2016]  say: General Grievous: ya jal kak eblan
+[Fri Jan 01 23:31:32 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:31:39 2016]  say: General Grievous: da kak syka
+[Fri Jan 01 23:31:42 2016]  say: Completely Retarded: eto pryam kak duel
+[Fri Jan 01 23:31:44 2016]  say: Completely Retarded: legionki
+[Fri Jan 01 23:31:45 2016]  say: Completely Retarded: libo ti
+[Fri Jan 01 23:31:47 2016]  say: Completely Retarded: libo teby
+[Fri Jan 01 23:31:49 2016]  say: Completely Retarded: libo tebya...
+[Fri Jan 01 23:32:40 2016]  say: Completely Retarded: slojnota
+[Fri Jan 01 23:32:44 2016]  say: General Grievous: sha kak masky snimy
+[Fri Jan 01 23:33:00 2016]  say: Completely Retarded: blyad ne nado
+[Fri Jan 01 23:33:12 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:33:14 2016]  say: Completely Retarded: che
+[Fri Jan 01 23:33:15 2016]  say: Completely Retarded: blyad
+[Fri Jan 01 23:33:23 2016]  say: General Grievous: da kak tak syka
+[Fri Jan 01 23:33:30 2016]  say: General Grievous: kak ti zaxvativaesh
+[Fri Jan 01 23:33:32 2016]  say: Completely Retarded: ya sha
+[Fri Jan 01 23:34:01 2016]  say: Completely Retarded: syka
+[Fri Jan 01 23:34:16 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:35:57 2016]  Kill: 0 1 2: General Grievous killed Completely Retarded by MOD_MELEE
+[Fri Jan 01 23:36:24 2016]  say: Completely Retarded: syka
+[Fri Jan 01 23:36:26 2016]  say: Completely Retarded: ya bil afk
+[Fri Jan 01 23:37:09 2016]  Kill: 0 1 3: General Grievous killed Completely Retarded by MOD_SABER
+[Fri Jan 01 23:37:12 2016]  say: Completely Retarded: SYK
+[Fri Jan 01 23:37:51 2016]  say: Completely Retarded: BLYAD
+[Fri Jan 01 23:38:37 2016]  Kill: 0 1 2: General Grievous killed Completely Retarded by MOD_MELEE
+[Fri Jan 01 23:39:18 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:40:23 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:40:27 2016]  say: Completely Retarded: praigral
+[Fri Jan 01 23:40:28 2016]  say: Completely Retarded: zloi
+[Fri Jan 01 23:40:50 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:41:00 2016]  say: General Grievous: aaaaaaaaa syka
+[Fri Jan 01 23:41:08 2016]  say: Completely Retarded: ory
+[Fri Jan 01 23:41:22 2016]  Kill: 0 1 3: General Grievous killed Completely Retarded by MOD_SABER
+[Fri Jan 01 23:42:16 2016]  say: General Grievous: pizda tebe
+[Fri Jan 01 23:43:57 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:44:04 2016]  say: Completely Retarded: P R A I G R A L
+[Fri Jan 01 23:44:25 2016]  Kill: 0 1 5: General Grievous killed Completely Retarded by MOD_BRYAR_PISTOL_ALT
+[Fri Jan 01 23:44:29 2016]  say: Completely Retarded: SYKA
+[Fri Jan 01 23:44:32 2016]  say: General Grievous: praigral
+[Fri Jan 01 23:44:39 2016]  say: General Grievous: s boboi fettom dela ploxi
+[Fri Jan 01 23:45:10 2016]  Kill: 0 1 5: General Grievous killed Completely Retarded by MOD_BRYAR_PISTOL_ALT
+[Fri Jan 01 23:45:12 2016]  say: Completely Retarded: WAT
+[Fri Jan 01 23:46:11 2016]  Kill: 0 1 5: General Grievous killed Completely Retarded by MOD_BRYAR_PISTOL_ALT
+[Fri Jan 01 23:46:32 2016]  say: General Grievous: praigral
+[Fri Jan 01 23:47:31 2016]  Kill: 0 1 5: General Grievous killed Completely Retarded by MOD_BRYAR_PISTOL_ALT
+[Fri Jan 01 23:47:37 2016]  say: Completely Retarded: TI BLYAD SHUTISH
+[Fri Jan 01 23:47:43 2016]  say: General Grievous: ahahahahha
+[Fri Jan 01 23:48:08 2016]  say: General Grievous: rjy pizda
+[Fri Jan 01 23:49:04 2016]  Kill: 0 1 5: General Grievous killed Completely Retarded by MOD_BRYAR_PISTOL_ALT
+[Fri Jan 01 23:49:07 2016]  say: Completely Retarded: CHTO
+[Fri Jan 01 23:49:08 2016]  say: Completely Retarded: CHTO
+[Fri Jan 01 23:49:11 2016]  say: Completely Retarded: WANSHOT BLYAD?
+[Fri Jan 01 23:49:17 2016]  say: Completely Retarded: SERIOZNA?
+[Fri Jan 01 23:49:32 2016]  say: General Grievous: zaradil blaster na vsy i vistrelil
+[Fri Jan 01 23:49:37 2016]  say: General Grievous: blaster imba
+[Fri Jan 01 23:50:19 2016]  Kill: 1 0 5: Completely Retarded killed General Grievous by MOD_BRYAR_PISTOL_ALT
+[Fri Jan 01 23:50:24 2016]  say: Completely Retarded: NA NAXYYYYYYYYYYYYYYYU
+[Fri Jan 01 23:50:28 2016]  say: Completely Retarded: SYKA
+[Fri Jan 01 23:50:32 2016]  say: Completely Retarded: SVINOPAS EBANNI
+[Fri Jan 01 23:50:39 2016]  say: General Grievous: ahahahhah
+[Fri Jan 01 23:51:03 2016]  say: Completely Retarded: AI BLYAD
+[Fri Jan 01 23:51:34 2016]  Kill: 0 1 5: General Grievous killed Completely Retarded by MOD_BRYAR_PISTOL_ALT
+[Fri Jan 01 23:51:36 2016]  say: Completely Retarded: BLYADSGHHGSDF
+[Fri Jan 01 23:51:37 2016]  say: Completely Retarded: SHFHGSDFSDHGSDFH
+[Fri Jan 01 23:51:39 2016]  say: Completely Retarded: SDHGFGSHHDSFSDFSHGDHGSFD
+[Fri Jan 01 23:52:18 2016]  say: General Grievous: raz ne mogy pobedit na me4ax togda blastera
+[Fri Jan 01 23:54:09 2016]  Kill: 0 1 5: General Grievous killed Completely Retarded by MOD_BRYAR_PISTOL_ALT
+[Fri Jan 01 23:54:17 2016]  say: General Grievous: 6 hp
+[Fri Jan 01 23:54:28 2016]  say: Completely Retarded: YA
+[Fri Jan 01 23:54:33 2016]  say: Completely Retarded: NENAVIJY TEBYA
+[Fri Jan 01 23:54:37 2016]  say: Completely Retarded: SIN SVINOPASA BLYAD
+[Fri Jan 01 23:54:49 2016]  say: General Grievous: ti tolko delaesh mena silnee tak
+[Fri Jan 01 23:55:31 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:55:54 2016]  say: General Grievous: ya smogy otrazit ataki s blastera atvichay
+[Fri Jan 01 23:57:55 2016]  say: General Grievous: ne pitaysa
+[Fri Jan 01 23:58:18 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Fri Jan 01 23:58:27 2016]  say: Completely Retarded: Pitaus.
+[Fri Jan 01 23:58:36 2016]  say: General Grievous: aaaaaaaaaa monstri
+[Fri Jan 01 23:58:41 2016]  say: Completely Retarded: che
+[Fri Jan 01 23:58:43 2016]  say: General Grievous: aaaaaaaaaaaa
+[Fri Jan 01 23:59:01 2016]  say: General Grievous: palychi
+[Fri Jan 01 23:59:30 2016]  say: General Grievous: ya naezdnik
+[Fri Jan 01 23:59:32 2016]  say: General Grievous: ahahahah
+[Fri Jan 01 23:59:33 2016]  say: General Grievous: syka
+[Fri Jan 01 23:59:35 2016]  say: General Grievous: pizda
+[Fri Jan 01 23:59:42 2016]  say: General Grievous: vpered syka
+[Fri Jan 01 23:59:53 2016]  say: General Grievous: ya bog
+[Fri Jan 01 23:59:59 2016]  say: Completely Retarded: gde ti
+[Sat Jan 02 00:00:01 2016]  say: General Grievous: ai
+[Sat Jan 02 00:00:07 2016]  say: General Grievous: na spawn
+[Sat Jan 02 00:00:48 2016]  say: General Grievous: hde ti
+[Sat Jan 02 00:00:49 2016]  Kill: 1 1 6: Completely Retarded killed Completely Retarded by MOD_BLASTER
+[Sat Jan 02 00:00:51 2016]  say: Completely Retarded: syka
+[Sat Jan 02 00:00:53 2016]  say: General Grievous: w
+[Sat Jan 02 00:01:06 2016]  say: Completely Retarded: HDE YA
+[Sat Jan 02 00:01:14 2016]  say: General Grievous: ne syda
+[Sat Jan 02 00:02:17 2016]  say: General Grievous: ono bessmertno
+[Sat Jan 02 00:02:34 2016]  say: Completely Retarded: BLYAD ZASTRYAL
+[Sat Jan 02 00:02:36 2016]  say: Completely Retarded: NET
+[Sat Jan 02 00:02:37 2016]  say: Completely Retarded: SYKA
+[Sat Jan 02 00:02:40 2016]  say: Completely Retarded: TOLKO NE ETO
+[Sat Jan 02 00:02:45 2016]  say: General Grievous: ahahahhah
+[Sat Jan 02 00:02:47 2016]  say: General Grievous: ahahahahahha
+[Sat Jan 02 00:02:50 2016]  say: General Grievous: XAXAXAXAXAXA
+[Sat Jan 02 00:02:58 2016]  say: Completely Retarded: NEEEEEEEEEEEEEEEEEEET
+[Sat Jan 02 00:03:07 2016]  say: General Grievous: SPAS
+[Sat Jan 02 00:04:06 2016]  say: General Grievous: hde ti
+[Sat Jan 02 00:04:23 2016]  say: Completely Retarded: HDE TI
+[Sat Jan 02 00:04:28 2016]  say: General Grievous: spawn
+[Sat Jan 02 00:04:36 2016]  say: Completely Retarded: YA NE HOCHU OSTAVATSA S ETIM MONSTROM ODIN
+[Sat Jan 02 00:04:57 2016]  say: Completely Retarded: ZBS
+[Sat Jan 02 00:05:07 2016]  say: General Grievous: ya bog
+[Sat Jan 02 00:05:49 2016]  say: General Grievous: hahaha
+[Sat Jan 02 00:06:06 2016]  say: General Grievous: hahahah
+[Sat Jan 02 00:06:43 2016]  say: Completely Retarded: BLHAD
+[Sat Jan 02 00:06:51 2016]  say: Completely Retarded: HADI
+[Sat Jan 02 00:06:55 2016]  say: Completely Retarded: YHADI
+[Sat Jan 02 00:07:14 2016]  say: General Grievous: kypi mena
+[Sat Jan 02 00:07:18 2016]  say: Completely Retarded: NET
+[Sat Jan 02 00:07:23 2016]  say: General Grievous: =(
+[Sat Jan 02 00:07:36 2016]  say: Completely Retarded: KYPI KOTA
+[Sat Jan 02 00:07:46 2016]  say: Completely Retarded: WTF
+[Sat Jan 02 00:09:25 2016]  say: General Grievous: syka
+[Sat Jan 02 00:09:48 2016]  say: General Grievous: dabai ya otbivat blaster bydy
+[Sat Jan 02 00:09:51 2016]  say: General Grievous: ryletka
+[Sat Jan 02 00:10:09 2016]  say: Completely Retarded: da pashel ti, ya luche etomy monstry blyad otdamsya
+[Sat Jan 02 00:10:26 2016]  say: Completely Retarded: blyad
+[Sat Jan 02 00:10:28 2016]  say: Completely Retarded: ebat ego
+[Sat Jan 02 00:10:30 2016]  say: Completely Retarded: pidarasi
+[Sat Jan 02 00:10:31 2016]  Kill: 0 1 5: General Grievous killed Completely Retarded by MOD_BRYAR_PISTOL_ALT
+[Sat Jan 02 00:10:31 2016]  say: Completely Retarded: a
+[Sat Jan 02 00:10:32 2016]  say: Completely Retarded: syka
+[Sat Jan 02 00:10:35 2016]  say: Completely Retarded: ubludok
+[Sat Jan 02 00:10:56 2016]  say: General Grievous: o myjik
+[Sat Jan 02 00:11:01 2016]  say: General Grievous: sdarova
+[Sat Jan 02 00:11:15 2016]  say: General Grievous: ymri
+[Sat Jan 02 00:11:26 2016]  say: Completely Retarded: che
+[Sat Jan 02 00:11:45 2016]  say: Completely Retarded: ÍÀÊÐÎÉÒÅ ÍÀ ÑÒË
+[Sat Jan 02 00:11:48 2016]  say: Completely Retarded: ×Å ÁËßÒÜ ß ÏÈØÓ
+[Sat Jan 02 00:11:53 2016]  say: Completely Retarded: ×ÒÎ ß ÏÈØÓ?
+[Sat Jan 02 00:11:56 2016]  say: General Grievous: ÿ âèæó òâîè ñîîáùåíèÿ
+[Sat Jan 02 00:12:00 2016]  say: Completely Retarded: CHTO
+[Sat Jan 02 00:12:01 2016]  say: General Grievous: nakroite na stol
+[Sat Jan 02 00:12:05 2016]  say: Completely Retarded: ÎÊ
+[Sat Jan 02 00:12:08 2016]  say: Completely Retarded: ÍÀÊÐÎÉÒÅ ÍÀ ÑÒÎË
+[Sat Jan 02 00:12:12 2016]  say: Completely Retarded: ÑÂÅÄÅÅ ÌßÑÎ
+[Sat Jan 02 00:12:16 2016]  say: Completely Retarded: ÁÓÒÅÐÁÐÎÄÛ
+[Sat Jan 02 00:12:19 2016]  say: Completely Retarded: ÊÎÍÑÅÐÂÛ
+[Sat Jan 02 00:12:33 2016]  Kill: 1 0 3: Completely Retarded killed General Grievous by MOD_SABER
+[Sat Jan 02 00:12:38 2016]  say: Completely Retarded: ëîë áëÿòü
+[Sat Jan 02 00:12:41 2016]  say: General Grievous: syka
+[Sat Jan 02 00:12:53 2016]  say: General Grievous: pachimy ya doljen tak pisat
+[Sat Jan 02 00:13:03 2016]  say: General Grievous: hde tvoi rysifikator
+[Sat Jan 02 00:13:07 2016]  say: Completely Retarded: vlom kachat
+[Sat Jan 02 00:13:15 2016]  say: Completely Retarded: no esli nado zamenit' faili tolko
+[Sat Jan 02 00:13:17 2016]  say: Completely Retarded: to ok
+[Sat Jan 02 00:13:18 2016]  say: General Grievous: zavtra kachni
+[Sat Jan 02 00:13:23 2016]  say: Completely Retarded: slish
+[Sat Jan 02 00:13:25 2016]  say: Completely Retarded: idi suda
+[Sat Jan 02 00:13:31 2016]  say: General Grievous: typo kinyt fail nada
+[Sat Jan 02 00:13:33 2016]  say: Completely Retarded: eee
+[Sat Jan 02 00:13:36 2016]  say: Completely Retarded: pidec
+[Sat Jan 02 00:13:50 2016]  say: Completely Retarded: s takim kolvo modelek
+[Sat Jan 02 00:13:57 2016]  say: Completely Retarded: doljni bili davnim davno yje porno snyat'
+[Sat Jan 02 00:14:05 2016]  say: General Grievous: 4e
+[Sat Jan 02 00:14:09 2016]  say: Completely Retarded: ?
+[Sat Jan 02 00:14:14 2016]  say: General Grievous: kakoe porno
+[Sat Jan 02 00:14:19 2016]  say: Completely Retarded: obichnoe
+[Sat Jan 02 00:14:24 2016]  say: General Grievous: tyt chtoli
+[Sat Jan 02 00:14:25 2016]  say: Completely Retarded: dlya semeinogo prosmotra
+[Sat Jan 02 00:14:27 2016]  say: Completely Retarded: aga
+[Sat Jan 02 00:14:31 2016]  say: General Grievous: pizdec
+[Sat Jan 02 00:14:38 2016]  say: Completely Retarded: semeinii prosmotr ept
+[Sat Jan 02 00:14:39 2016]  say: Completely Retarded: hahahahhaha
+[Sat Jan 02 00:14:41 2016]  say: Completely Retarded: ahhaahahahaa
+[Sat Jan 02 00:14:43 2016]  say: Completely Retarded: eto ne gmod
+[Sat Jan 02 00:14:58 2016]  say: Completely Retarded: manyak huev
+[Sat Jan 02 00:15:00 2016]  say: Completely Retarded: kek
+[Sat Jan 02 00:15:11 2016]  say: General Grievous: stoi
+[Sat Jan 02 00:15:14 2016]  say: Completely Retarded: net
+[Sat Jan 02 00:15:23 2016]  say: Completely Retarded: ebat ti hodish
+[Sat Jan 02 00:15:30 2016]  ClientConnect: 2
+[Sat Jan 02 00:15:30 2016]  mlog:Player ^7-^4+^7-^4NATO^7-^4+^7-, connected. With IP - 80.55.76.218:29070 
+[Sat Jan 02 00:15:30 2016]  say: Completely Retarded: ne bei
+[Sat Jan 02 00:15:54 2016]  ClientBegin: 2
+[Sat Jan 02 00:15:59 2016]  say: ^0F^4o^0x^4In^0Shad^4o^0w: JOJOJOJOJOJJOJO
+[Sat Jan 02 00:17:05 2016]  Item: 1 ammo_all
+[Sat Jan 02 00:17:08 2016]  Kill: 2 0 10: ^0F^4o^0x^4In^0Shad^4o^0w killed General Grievous by MOD_DISRUPTOR_SNIPER
+[Sat Jan 02 00:17:26 2016]  say: ^0F^4o^0x^4In^0Shad^4o^0w: what about /give all
+[Sat Jan 02 00:18:51 2016]  say: ^0F^4o^0x^4In^0Shad^4o^0w: cmon take  it
+[Sat Jan 02 00:19:37 2016]  say: ^0F^4o^0x^4In^0Shad^4o^0w: ...
+[Sat Jan 02 00:21:23 2016]  ClientDisconnect: 1
+[Sat Jan 02 00:21:48 2016]  ClientDisconnect: 0
+[Sat Jan 02 00:23:16 2016]  print "^0F^4o^0x^4In^0Shad^4o^0w^7 @@@PLRENAME ^0F^4o^0x
+"[Sat Jan 02 00:25:18 2016]  say: ^0F^4o^0x: ^2Flashbang!
+[Sat Jan 02 00:26:08 2016]  say: ^0F^4o^0x: ^2Flashbang! ^7
+[Sat Jan 02 00:33:40 2016]  ClientDisconnect: 2
+[Sat Jan 02 01:02:20 2016]  ClientConnect: 0
+[Sat Jan 02 01:02:20 2016]  mlog:Player ^7-^4+^7-^4NATO^7-^4+^7-, connected. With IP - 80.55.76.218:29070 
+[Sat Jan 02 01:02:43 2016]  ClientBegin: 0
+[Sat Jan 02 01:04:20 2016]  ClientConnect: 1
+[Sat Jan 02 01:04:20 2016]  mlog:Player Padawan, connected. With IP - 71.163.231.208:29070 
+[Sat Jan 02 01:04:45 2016]  ClientBegin: 1
+[Sat Jan 02 01:05:24 2016]  say: ^0F^4o^0x: cmn let me see you
+[Sat Jan 02 01:05:35 2016]  say: ^0F^4o^0x: :/
+[Sat Jan 02 01:05:40 2016]  say: ^7§^0î^7ç^0m^7Äh.~: hai
+[Sat Jan 02 01:05:43 2016]  say: ^0F^4o^0x: hai
+[Sat Jan 02 01:06:32 2016]  say: ^0F^4o^0x: P:
+[Sat Jan 02 01:06:33 2016]  say: ^7§^0î^7ç^0m^7Äh.~: what are you doing here?
+[Sat Jan 02 01:06:43 2016]  say: ^0F^4o^0x: playing :d
+[Sat Jan 02 01:06:45 2016]  say: ^7§^0î^7ç^0m^7Äh.~: i see
+[Sat Jan 02 01:06:49 2016]  say: ^0F^4o^0x: o!
+[Sat Jan 02 01:06:52 2016]  say: ^7§^0î^7ç^0m^7Äh.~: i saw someone on and wanted to see if this mod was dead
+[Sat Jan 02 01:06:59 2016]  say: ^0F^4o^0x: yes it is
+[Sat Jan 02 01:07:01 2016]  say: ^7§^0î^7ç^0m^7Äh.~: ype.
+[Sat Jan 02 01:07:03 2016]  say: ^7§^0î^7ç^0m^7Äh.~: yep*
+[Sat Jan 02 01:07:19 2016]  say: ^0F^4o^0x: how do u teleporing? P:
+[Sat Jan 02 01:07:25 2016]  say: ^7§^0î^7ç^0m^7Äh.~: i have an old plugin
+[Sat Jan 02 01:07:27 2016]  say: ^0F^4o^0x: ah
+[Sat Jan 02 01:07:27 2016]  say: ^7§^0î^7ç^0m^7Äh.~: from the mods creator
+[Sat Jan 02 01:07:33 2016]  say: ^0F^4o^0x: ye
+[Sat Jan 02 01:07:38 2016]  say: ^0F^4o^0x: but its unable to download
+[Sat Jan 02 01:07:40 2016]  say: ^0F^4o^0x: nao
+[Sat Jan 02 01:07:42 2016]  say: ^7§^0î^7ç^0m^7Äh.~: orly
+[Sat Jan 02 01:07:46 2016]  say: ^0F^4o^0x: yes rly
+[Sat Jan 02 01:07:55 2016]  say: ^7§^0î^7ç^0m^7Äh.~: well there you go then 
+[Sat Jan 02 01:07:59 2016]  say: ^7§^0î^7ç^0m^7Äh.~: i remember when I helped set up this server x.x
+[Sat Jan 02 01:08:03 2016]  say: ^7§^0î^7ç^0m^7Äh.~: i wonder why its still up
+[Sat Jan 02 01:08:13 2016]  say: ^0F^4o^0x: D:
+[Sat Jan 02 01:08:37 2016]  say: ^7§^0î^7ç^0m^7Äh.~: did you have any other names that you went by?
+[Sat Jan 02 01:08:41 2016]  say: ^0F^4o^0x: yes
+[Sat Jan 02 01:08:44 2016]  say: ^7§^0î^7ç^0m^7Äh.~: like what?
+[Sat Jan 02 01:08:52 2016]  say: ^0F^4o^0x: apple
+[Sat Jan 02 01:09:04 2016]  say: ^7§^0î^7ç^0m^7Äh.~: so why are you here then
+[Sat Jan 02 01:09:06 2016]  say: ^7§^0î^7ç^0m^7Äh.~: if the mods dead
+[Sat Jan 02 01:09:17 2016]  say: ^0F^4o^0x: for fun
+[Sat Jan 02 01:09:20 2016]  say: ^7§^0î^7ç^0m^7Äh.~: golly
+[Sat Jan 02 01:09:58 2016]  say: ^0F^4o^0x: P:
+[Sat Jan 02 01:10:00 2016]  ClientDisconnect: 0
+[Sat Jan 02 01:10:29 2016]  ClientDisconnect: 1
+[Sat Jan 02 01:13:09 2016]  ClientConnect: 0
+[Sat Jan 02 01:13:09 2016]  mlog:Player Silus, connected. With IP - 92.30.197.146:22992 
+[Sat Jan 02 01:13:25 2016]  ClientBegin: 0
+[Sat Jan 02 01:15:18 2016]  ClientDisconnect: 0
+[Sat Jan 02 01:18:18 2016]  ClientConnect: 0
+[Sat Jan 02 01:18:18 2016]  mlog:Player Silus, connected. With IP - 92.30.197.146:22992 
+[Sat Jan 02 01:18:26 2016]  ClientBegin: 0
+[Sat Jan 02 01:19:22 2016]  ClientConnect: 1
+[Sat Jan 02 01:19:22 2016]  mlog:Player Callum, connected. With IP - 86.16.116.186:29070 
+[Sat Jan 02 01:19:36 2016]  ClientBegin: 1
+[Sat Jan 02 01:20:52 2016]  ClientConnect: 2
+[Sat Jan 02 01:20:52 2016]  mlog:Player Davawan, connected. With IP - 92.237.221.18:29070 
+[Sat Jan 02 01:21:18 2016]  ClientBegin: 2
+[Sat Jan 02 01:21:56 2016]  Kill: 0 2 3: Silus killed Davawan by MOD_SABER
+[Sat Jan 02 01:22:44 2016]  Kill: 1 2 3: Callum killed Davawan by MOD_SABER
+[Sat Jan 02 01:23:35 2016]  Kill: 0 1 3: Silus killed Callum by MOD_SABER
+[Sat Jan 02 01:23:43 2016]  print "Callum^7 @@@PLRENAME Darth 
+"[Sat Jan 02 01:23:50 2016]  Kill: 0 2 3: Silus killed Davawan by MOD_SABER
+[Sat Jan 02 01:23:54 2016]  ClientConnect: 3
+[Sat Jan 02 01:23:54 2016]  mlog:Player ^7§^0î^7ç^0m^7Äh.~, connected. With IP - 71.163.231.208:29070 
+[Sat Jan 02 01:24:10 2016]  ClientBegin: 3
+[Sat Jan 02 01:24:38 2016]  Kill: 1 3 3: Darth  killed ^7§^0î^7ç^0m^7Äh.~ by MOD_SABER
+[Sat Jan 02 01:25:06 2016]  Kill: 0 2 3: Silus killed Davawan by MOD_SABER
+[Sat Jan 02 01:25:24 2016]  Kill: 1 0 2: Darth  killed Silus by MOD_MELEE
+[Sat Jan 02 01:26:05 2016]  Kill: 3 1 36: ^7§^0î^7ç^0m^7Äh.~ killed Darth  by MOD_CRUSH
+[Sat Jan 02 01:26:26 2016]  Kill: 3 2 3: ^7§^0î^7ç^0m^7Äh.~ killed Davawan by MOD_SABER
+[Sat Jan 02 01:26:26 2016]  Kill: 3 1 3: ^7§^0î^7ç^0m^7Äh.~ killed Darth  by MOD_SABER
+[Sat Jan 02 01:27:01 2016]  Kill: 0 2 3: Silus killed Davawan by MOD_SABER
+[Sat Jan 02 01:27:08 2016]  setteam:  2 FREE SPECTATOR
+[Sat Jan 02 01:27:08 2016]  ClientBegin: 2
+[Sat Jan 02 01:27:31 2016]  setteam:  2 SPECTATOR FREE
+[Sat Jan 02 01:27:31 2016]  ClientBegin: 2
+[Sat Jan 02 01:27:33 2016]  say: Darth : can you not
+[Sat Jan 02 01:27:42 2016]  say: Darth : we are just trying to fight the 3 of us 
+[Sat Jan 02 01:27:45 2016]  say: Darth : so stop
+[Sat Jan 02 01:27:53 2016]  say: ^7§^0î^7ç^0m^7Äh.~: lel
+[Sat Jan 02 01:28:00 2016]  Kill: 0 2 3: Silus killed Davawan by MOD_SABER
+[Sat Jan 02 01:28:02 2016]  say: Darth : nice meme
+[Sat Jan 02 01:28:49 2016]  say: ^7§^0î^7ç^0m^7Äh.~: why do it in this server?
+[Sat Jan 02 01:28:54 2016]  say: ^7§^0î^7ç^0m^7Äh.~: this server is made for building stuff
+[Sat Jan 02 01:29:07 2016]  say: ^7§^0î^7ç^0m^7Äh.~: fighting is pretty buggy here
+[Sat Jan 02 01:29:35 2016]  Kill: 2 0 3: Davawan killed Silus by MOD_SABER
+[Sat Jan 02 01:29:54 2016]  Kill: 0 2 3: Silus killed Davawan by MOD_SABER
+[Sat Jan 02 01:29:59 2016]  Kill: 0 1 3: Silus killed Darth  by MOD_SABER
+[Sat Jan 02 01:30:07 2016]  Kill: 3 3 36: ^7§^0î^7ç^0m^7Äh.~ killed ^7§^0î^7ç^0m^7Äh.~ by MOD_CRUSH
+[Sat Jan 02 01:30:08 2016]  ClientDisconnect: 1
+[Sat Jan 02 01:30:08 2016]  ClientDisconnect: 0
+[Sat Jan 02 01:30:39 2016]  ClientDisconnect: 2
+[Sat Jan 02 01:30:43 2016]  say: ^7§^0î^7ç^0m^7Äh.~: rip game
+[Sat Jan 02 01:31:30 2016]  ClientDisconnect: 3
+[Sat Jan 02 04:41:59 2016]  ClientConnect: 0
+[Sat Jan 02 04:41:59 2016]  mlog:Player ^7§^0î^7ç^0m^7Äh.~, connected. With IP - 71.163.231.208:29070 
+[Sat Jan 02 04:42:15 2016]  ClientBegin: 0
+[Sat Jan 02 04:42:19 2016]  ClientDisconnect: 0
+[Sat Jan 02 04:43:51 2016]  ClientConnect: 0
+[Sat Jan 02 04:43:51 2016]  mlog:Player ^7§^0î^7ç^0m^7Äh.~, connected. With IP - 71.163.231.208:29070 
+[Sat Jan 02 04:44:00 2016]  ClientBegin: 0
+[Sat Jan 02 04:44:58 2016]  ClientDisconnect: 0
+[Sat Jan 02 09:57:04 2016]  ClientConnect: 0
+[Sat Jan 02 09:57:04 2016]  mlog:Player MuRziLkA, connected. With IP - 188.162.166.144:29070 
+[Sat Jan 02 09:57:38 2016]  ClientBegin: 0
+[Sat Jan 02 09:57:39 2016]  ClientConnect: 1
+[Sat Jan 02 09:57:39 2016]  mlog:Player Warha, connected. With IP - 46.42.33.16:29070 
+[Sat Jan 02 09:57:41 2016]  Kill: 0 0 39: MuRziLkA killed MuRziLkA by MOD_SUICIDE
+[Sat Jan 02 09:57:41 2016]  setteam:  0 FREE SPECTATOR
+[Sat Jan 02 09:57:41 2016]  ClientBegin: 0
+[Sat Jan 02 09:57:49 2016]  setteam:  0 SPECTATOR FREE
+[Sat Jan 02 09:57:49 2016]  ClientBegin: 0
+[Sat Jan 02 09:58:10 2016]  ClientBegin: 1
+[Sat Jan 02 09:58:49 2016]  Kill: 0 1 3: MuRziLkA killed Warha by MOD_SABER
+[Sat Jan 02 09:58:50 2016]  say: Warha: /vsameobs
+[Sat Jan 02 09:59:15 2016]  say: Warha: /msaveobs
+[Sat Jan 02 09:59:31 2016]  say: Warha: /msaveobs
+[Sat Jan 02 10:11:20 2016]  Kill: 1022 0 2: <world> killed MuRziLkA by MOD_MELEE
+[Sat Jan 02 10:12:57 2016]  Kill: 1 0 37: Warha killed MuRziLkA by MOD_TELEFRAG
+[Sat Jan 02 10:13:22 2016]  ClientConnect: 2
+[Sat Jan 02 10:13:22 2016]  mlog:Player Padawan, connected. With IP - 37.45.174.101:-24252 
+[Sat Jan 02 10:13:32 2016]  Kill: 1022 0 2: <world> killed MuRziLkA by MOD_MELEE
+[Sat Jan 02 10:14:33 2016]  Kill: 0 1 5: MuRziLkA killed Warha by MOD_BRYAR_PISTOL_ALT
+[Sat Jan 02 10:14:42 2016]  ClientBegin: 2
+[Sat Jan 02 10:15:45 2016]  say: Padawan: ^4Lightning-^5Script by ^0Revan
+[Sat Jan 02 10:15:54 2016]  say: Padawan: ïðèâåò
+[Sat Jan 02 10:15:57 2016]  say: Padawan: ^4Lightning!
+[Sat Jan 02 10:16:02 2016]  Kill: 0 1 3: MuRziLkA killed Warha by MOD_SABER
+[Sat Jan 02 10:16:36 2016]  Kill: 1 0 3: Warha killed MuRziLkA by MOD_SABER
+[Sat Jan 02 10:16:47 2016]  Kill: 0 1 5: MuRziLkA killed Warha by MOD_BRYAR_PISTOL_ALT
+[Sat Jan 02 10:16:51 2016]  say: Padawan: ^5Meditation!
+[Sat Jan 02 10:17:01 2016]  say: Padawan: ^4Raikiri!!
+[Sat Jan 02 10:17:08 2016]  say: Padawan: ^5Shock!
+[Sat Jan 02 10:17:16 2016]  say: Padawan: ^4Push!
+[Sat Jan 02 10:17:19 2016]  say: Warha: shock
+[Sat Jan 02 10:17:24 2016]  say: Padawan: ^4Push!
+[Sat Jan 02 10:17:54 2016]  say: Padawan: vi kto
+[Sat Jan 02 10:17:59 2016]  say: Padawan: ^4Storm Portal!!
+[Sat Jan 02 10:18:14 2016]  tell: Warha to MuRziLkA: mi russkie
+[Sat Jan 02 10:18:28 2016]  say: Padawan: ^5Lightning Bolt!
+[Sat Jan 02 10:18:50 2016]  say: Padawan: ^5Lightning Bolt!
+[Sat Jan 02 10:19:01 2016]  say: Padawan: ?mkillall
+[Sat Jan 02 10:19:15 2016]  say: Padawan: ^4Ninja-Script by ^0Revan
+[Sat Jan 02 10:19:23 2016]  say: Padawan: ^4Kagebunshin!!
+[Sat Jan 02 10:19:39 2016]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Jan 02 10:19:39 2016]  setteam:  2 FREE SPECTATOR
+[Sat Jan 02 10:19:39 2016]  ClientBegin: 2
+[Sat Jan 02 10:19:45 2016]  setteam:  2 SPECTATOR FREE
+[Sat Jan 02 10:19:45 2016]  ClientBegin: 2
+[Sat Jan 02 10:20:09 2016]  say: Padawan: ^4Kagebunshin!!
+[Sat Jan 02 10:20:18 2016]  say: Padawan: ^4Kagebunshin!!
+[Sat Jan 02 10:20:27 2016]  Kill: 1022 1 3: <world> killed Warha by MOD_SABER
+[Sat Jan 02 10:20:44 2016]  say: Padawan: ^5Chidori!!
+[Sat Jan 02 10:20:52 2016]  say: Padawan: ^6Rasengan!!
+[Sat Jan 02 10:20:58 2016]  say: Padawan: ^1Gokakyu!
+[Sat Jan 02 10:21:04 2016]  say: Padawan: ^5Hakke Rokujuyon Sho!!
+[Sat Jan 02 10:21:38 2016]  Kill: 2 0 3: Padawan killed MuRziLkA by MOD_SABER
+[Sat Jan 02 10:21:41 2016]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Jan 02 10:22:39 2016]  ClientConnect: 3
+[Sat Jan 02 10:22:39 2016]  mlog:Player Arex_exe, connected. With IP - 178.140.184.30:29070 
+[Sat Jan 02 10:22:52 2016]  Kill: 2 0 3: Padawan killed MuRziLkA by MOD_SABER
+[Sat Jan 02 10:22:54 2016]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Jan 02 10:23:06 2016]  say: Padawan: ^5Hakke Rokujuyon Sho!!
+[Sat Jan 02 10:23:06 2016]  ClientBegin: 3
+[Sat Jan 02 10:23:40 2016]  Kill: 2 3 3: Padawan killed Arex_exe by MOD_SABER
+[Sat Jan 02 10:23:45 2016]  say: Padawan: ïðèâåò
+[Sat Jan 02 10:24:22 2016]  Kill: 2 3 3: Padawan killed Arex_exe by MOD_SABER
+[Sat Jan 02 10:24:33 2016]  Kill: 2 0 3: Padawan killed MuRziLkA by MOD_SABER
+[Sat Jan 02 10:24:38 2016]  ClientDisconnect: 3
+[Sat Jan 02 10:25:05 2016]  Kill: 2 0 3: Padawan killed MuRziLkA by MOD_SABER
+[Sat Jan 02 10:25:11 2016]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Jan 02 10:25:13 2016]  Kill: 2 0 37: Padawan killed MuRziLkA by MOD_TELEFRAG
+[Sat Jan 02 10:25:46 2016]  say: MuRziLkA: TA ZAEAL
+[Sat Jan 02 10:25:46 2016]  Kill: 2 0 3: Padawan killed MuRziLkA by MOD_SABER
+[Sat Jan 02 10:26:58 2016]  Kill: 2 0 3: Padawan killed MuRziLkA by MOD_SABER
+[Sat Jan 02 10:27:30 2016]  say: Padawan: YMERI
+[Sat Jan 02 10:27:34 2016]  Kill: 2 0 3: Padawan killed MuRziLkA by MOD_SABER
+[Sat Jan 02 10:27:49 2016]  Kill: 2 0 3: Padawan killed MuRziLkA by MOD_SABER
+[Sat Jan 02 10:28:19 2016]  Kill: 2 0 3: Padawan killed MuRziLkA by MOD_SABER
+[Sat Jan 02 10:28:28 2016]  Kill: 2 0 3: Padawan killed MuRziLkA by MOD_SABER
+[Sat Jan 02 10:29:19 2016]  Kill: 2 0 3: Padawan killed MuRziLkA by MOD_SABER
+[Sat Jan 02 10:30:35 2016]  Kill: 2 0 3: Padawan killed MuRziLkA by MOD_SABER
+[Sat Jan 02 10:31:45 2016]  Kill: 2 0 31: Padawan killed MuRziLkA by MOD_FORCE_DARK
+[Sat Jan 02 10:31:50 2016]  ClientDisconnect: 0
+[Sat Jan 02 10:31:55 2016]  ClientDisconnect: 2
+[Sat Jan 02 10:32:52 2016]  ClientDisconnect: 1
+[Sat Jan 02 10:43:54 2016]  ClientConnect: 0
+[Sat Jan 02 10:43:54 2016]  mlog:Player Padawan, connected. With IP - 188.25.227.177:29070 
+[Sat Jan 02 10:44:01 2016]  ClientDisconnect: 0
+[Sat Jan 02 10:44:18 2016]  ClientConnect: 0
+[Sat Jan 02 10:44:18 2016]  mlog:Player Padawan, connected. With IP - 188.25.227.177:29070 
+[Sat Jan 02 10:44:24 2016]  ClientDisconnect: 0
+[Sat Jan 02 10:45:46 2016]  ClientConnect: 0
+[Sat Jan 02 10:45:46 2016]  mlog:Player Padawan, connected. With IP - 188.25.227.177:29070 
+[Sat Jan 02 10:46:07 2016]  ClientBegin: 0
+[Sat Jan 02 10:46:48 2016]  print "Padawan^7 @@@PLRENAME ^1C^0rowbar
+"[Sat Jan 02 10:50:23 2016]  Kill: 0 0 39: ^1C^0rowbar killed ^1C^0rowbar by MOD_SUICIDE
+[Sat Jan 02 10:51:07 2016]  ClientDisconnect: 0
+[Sat Jan 02 10:59:57 2016]  ClientConnect: 0
+[Sat Jan 02 10:59:57 2016]  mlog:Player Kentuki, connected. With IP - 81.200.152.140:29070 
+[Sat Jan 02 11:00:18 2016]  ClientBegin: 0
+[Sat Jan 02 11:06:16 2016]  ClientDisconnect: 0
+[Sat Jan 02 12:37:02 2016]  ClientConnect: 0
+[Sat Jan 02 12:37:02 2016]  mlog:Player DARTH CHEWIE, connected. With IP - 81.162.0.195:10484 
+[Sat Jan 02 12:37:25 2016]  ClientBegin: 0
+[Sat Jan 02 12:40:12 2016]  ClientDisconnect: 0
+[Sat Jan 02 17:42:17 2016]  ClientConnect: 0
+[Sat Jan 02 17:42:17 2016]  mlog:Player Maddzi, connected. With IP - 46.242.65.20:29070 
+[Sat Jan 02 17:42:37 2016]  ClientBegin: 0
+[Sat Jan 02 17:42:51 2016]  ClientConnect: 1
+[Sat Jan 02 17:42:51 2016]  mlog:Player MrStas_220890, connected. With IP - 46.172.232.115:29070 
+[Sat Jan 02 17:42:58 2016]  ClientDisconnect: 1
+[Sat Jan 02 17:43:30 2016]  ClientConnect: 1
+[Sat Jan 02 17:43:30 2016]  mlog:Player MrStas_220890, connected. With IP - 46.172.232.115:29070 
+[Sat Jan 02 17:44:07 2016]  ClientBegin: 1
+[Sat Jan 02 17:45:40 2016]  Kill: 0 1 3: Maddzi killed MrStas_220890 by MOD_SABER
+[Sat Jan 02 17:45:56 2016]  Kill: 1 0 3: MrStas_220890 killed Maddzi by MOD_SABER
+[Sat Jan 02 17:46:46 2016]  Kill: 0 1 3: Maddzi killed MrStas_220890 by MOD_SABER
+[Sat Jan 02 17:46:57 2016]  ClientDisconnect: 0
+[Sat Jan 02 17:47:48 2016]  ClientDisconnect: 1
+[Sat Jan 02 17:56:16 2016]  ClientConnect: 0
+[Sat Jan 02 17:56:16 2016]  mlog:Player Maddzi, connected. With IP - 46.242.65.20:29070 
+[Sat Jan 02 17:56:23 2016]  ClientBegin: 0
+[Sat Jan 02 17:56:34 2016]  ClientConnect: 1
+[Sat Jan 02 17:56:34 2016]  mlog:Player MrStas_220890, connected. With IP - 46.172.232.115:29070 
+[Sat Jan 02 17:56:41 2016]  ClientDisconnect: 1
+[Sat Jan 02 17:56:53 2016]  ClientConnect: 1
+[Sat Jan 02 17:56:53 2016]  mlog:Player MrStas_220890, connected. With IP - 46.172.232.115:29070 
+[Sat Jan 02 17:56:59 2016]  ClientDisconnect: 1
+[Sat Jan 02 17:57:45 2016]  ClientConnect: 1
+[Sat Jan 02 17:57:45 2016]  mlog:Player MrStas_220890, connected. With IP - 46.172.232.115:29070 
+[Sat Jan 02 17:58:21 2016]  ClientBegin: 1
+[Sat Jan 02 18:00:38 2016]  Kill: 0 1 3: Maddzi killed MrStas_220890 by MOD_SABER
+[Sat Jan 02 18:01:09 2016]  Kill: 0 1 3: Maddzi killed MrStas_220890 by MOD_SABER
+[Sat Jan 02 18:01:28 2016]  Kill: 0 1 3: Maddzi killed MrStas_220890 by MOD_SABER
+[Sat Jan 02 18:01:56 2016]  Kill: 1 0 3: MrStas_220890 killed Maddzi by MOD_SABER
+[Sat Jan 02 18:02:35 2016]  Kill: 0 1 3: Maddzi killed MrStas_220890 by MOD_SABER
+[Sat Jan 02 18:03:01 2016]  Kill: 0 1 3: Maddzi killed MrStas_220890 by MOD_SABER
+[Sat Jan 02 18:03:30 2016]  Kill: 0 1 3: Maddzi killed MrStas_220890 by MOD_SABER
+[Sat Jan 02 18:05:52 2016]  Kill: 0 1 3: Maddzi killed MrStas_220890 by MOD_SABER
+[Sat Jan 02 18:06:40 2016]  Kill: 1 0 3: MrStas_220890 killed Maddzi by MOD_SABER
+[Sat Jan 02 18:08:24 2016]  Kill: 1 0 3: MrStas_220890 killed Maddzi by MOD_SABER
+[Sat Jan 02 18:10:51 2016]  Kill: 0 1 31: Maddzi killed MrStas_220890 by MOD_FORCE_DARK
+[Sat Jan 02 18:11:53 2016]  Kill: 1 0 3: MrStas_220890 killed Maddzi by MOD_SABER
+[Sat Jan 02 18:13:50 2016]  Kill: 0 1 3: Maddzi killed MrStas_220890 by MOD_SABER
+[Sat Jan 02 18:14:22 2016]  Kill: 0 1 3: Maddzi killed MrStas_220890 by MOD_SABER
+[Sat Jan 02 18:20:16 2016]  ClientDisconnect: 1
+[Sat Jan 02 18:20:25 2016]  ClientDisconnect: 0
+[Sat Jan 02 18:35:06 2016]  ClientConnect: 0
+[Sat Jan 02 18:35:06 2016]  mlog:Player emilek, connected. With IP - 77.236.206.197:29070 
+[Sat Jan 02 18:35:33 2016]  ClientBegin: 0
+[Sat Jan 02 18:36:35 2016]  ClientDisconnect: 0
+[Sat Jan 02 18:37:17 2016]  ClientConnect: 0
+[Sat Jan 02 18:37:17 2016]  mlog:Player emilek, connected. With IP - 77.236.206.197:29070 
+[Sat Jan 02 18:37:29 2016]  ClientBegin: 0
+[Sat Jan 02 18:39:15 2016]  Kill: 1022 0 38: <world> killed emilek by MOD_FALLING
+[Sat Jan 02 18:40:55 2016]  Kill: 1022 0 38: <world> killed emilek by MOD_FALLING
+[Sat Jan 02 18:44:33 2016]  ClientDisconnect: 0
+[Sat Jan 02 19:24:19 2016]  ClientConnect: 0
+[Sat Jan 02 19:24:19 2016]  mlog:Player ^7-^4+^7-^4NATO^7-^4+^7-, connected. With IP - 80.55.76.218:29070 
+[Sat Jan 02 19:24:44 2016]  ClientBegin: 0
+[Sat Jan 02 19:37:56 2016]  ClientDisconnect: 0
+[Sat Jan 02 22:15:17 2016]  ClientConnect: 0
+[Sat Jan 02 22:15:17 2016]  mlog:Player Padawan, connected. With IP - 5.53.21.248:29070 
+[Sat Jan 02 22:15:43 2016]  ClientBegin: 0
+[Sat Jan 02 22:16:45 2016]  ClientConnect: 1
+[Sat Jan 02 22:16:45 2016]  mlog:Player SUPER LS, connected. With IP - 178.184.83.80:29070 
+[Sat Jan 02 22:17:26 2016]  ClientConnect: 2
+[Sat Jan 02 22:17:26 2016]  mlog:Player HighTower, connected. With IP - 5.141.208.155:-6472 
+[Sat Jan 02 22:17:30 2016]  ClientBegin: 1
+[Sat Jan 02 22:17:51 2016]  ClientBegin: 2
+[Sat Jan 02 22:19:07 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:19:18 2016]  Kill: 2 1 3: HighTower killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:19:21 2016]  Kill: 0 2 3: Hera<3 killed HighTower by MOD_SABER
+[Sat Jan 02 22:19:33 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:20:07 2016]  Kill: 0 1 3: Hera<3 killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:20:28 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:20:31 2016]  Kill: 2 1 3: HighTower killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:20:43 2016]  Kill: 2 1 3: HighTower killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:21:16 2016]  Kill: 1 2 3: SUPER LS killed HighTower by MOD_SABER
+[Sat Jan 02 22:21:24 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:21:28 2016]  Kill: 1 2 3: SUPER LS killed HighTower by MOD_SABER
+[Sat Jan 02 22:21:47 2016]  Kill: 1 2 3: SUPER LS killed HighTower by MOD_SABER
+[Sat Jan 02 22:21:51 2016]  Kill: 2 1 3: HighTower killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:22:11 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:22:12 2016]  Kill: 2 1 3: HighTower killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:22:19 2016]  Kill: 0 2 3: Hera<3 killed HighTower by MOD_SABER
+[Sat Jan 02 22:22:20 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:22:21 2016]  Kill: 0 2 37: Hera<3 killed HighTower by MOD_TELEFRAG
+[Sat Jan 02 22:22:23 2016]  ClientDisconnect: 2
+[Sat Jan 02 22:22:36 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:22:50 2016]  Kill: 0 1 3: Hera<3 killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:23:08 2016]  ClientConnect: 2
+[Sat Jan 02 22:23:08 2016]  mlog:Player HighTower, connected. With IP - 5.141.208.155:-6472 
+[Sat Jan 02 22:23:16 2016]  ClientBegin: 2
+[Sat Jan 02 22:23:23 2016]  Kill: 1 0 31: SUPER LS killed Hera<3 by MOD_FORCE_DARK
+[Sat Jan 02 22:23:33 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:23:49 2016]  Kill: 2 1 3: HighTower killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:23:54 2016]  Kill: 1 2 3: SUPER LS killed HighTower by MOD_SABER
+[Sat Jan 02 22:24:02 2016]  Kill: 1 0 31: SUPER LS killed Hera<3 by MOD_FORCE_DARK
+[Sat Jan 02 22:24:08 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:24:09 2016]  Kill: 0 2 37: Hera<3 killed HighTower by MOD_TELEFRAG
+[Sat Jan 02 22:24:15 2016]  ClientDisconnect: 2
+[Sat Jan 02 22:24:38 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:24:46 2016]  Kill: 0 1 3: Hera<3 killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:24:58 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:25:09 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:25:14 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:26:04 2016]  Kill: 0 1 3: Hera<3 killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:26:21 2016]  Kill: 0 1 3: Hera<3 killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:26:38 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:26:59 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:27:46 2016]  Kill: 0 1 3: Hera<3 killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:28:00 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:28:23 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:28:30 2016]  Kill: 0 1 3: Hera<3 killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:28:35 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:28:46 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:28:55 2016]  Kill: 0 1 3: Hera<3 killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:29:11 2016]  Kill: 0 1 3: Hera<3 killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:29:18 2016]  Kill: 0 1 3: Hera<3 killed SUPER LS by MOD_SABER
+[Sat Jan 02 22:29:27 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:29:37 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:29:50 2016]  Kill: 1 0 3: SUPER LS killed Hera<3 by MOD_SABER
+[Sat Jan 02 22:29:59 2016]  ClientDisconnect: 0
+[Sat Jan 02 22:30:01 2016]  ClientDisconnect: 1
+[Sun Jan 03 00:57:16 2016]  ClientConnect: 0
+[Sun Jan 03 00:57:16 2016]  mlog:Player DARTH PLAQEUIS, connected. With IP - 73.72.10.173:29070 
+[Sun Jan 03 00:58:21 2016]  ClientBegin: 0
+[Sun Jan 03 00:59:13 2016]  ClientDisconnect: 0
+[Sun Jan 03 10:10:01 2016]  ClientConnect: 0
+[Sun Jan 03 10:10:01 2016]  mlog:Player Padawan, connected. With IP - 83.66.146.237:10503 
+[Sun Jan 03 10:10:21 2016]  ClientBegin: 0
+[Sun Jan 03 10:10:59 2016]  ClientConnect: 1
+[Sun Jan 03 10:10:59 2016]  mlog:Player Padawan, connected. With IP - 95.15.67.30:29070 
+[Sun Jan 03 10:11:14 2016]  ClientBegin: 1
+[Sun Jan 03 10:11:42 2016]  print "Padawan^7 @@@PLRENAME AKADO
+"[Sun Jan 03 10:13:14 2016]  Kill: 1 0 3: AKADO killed Padawan by MOD_SABER
+[Sun Jan 03 10:14:05 2016]  Kill: 0 1 3: Padawan killed AKADO by MOD_SABER
+[Sun Jan 03 10:14:20 2016]  Kill: 0 1 3: Padawan killed AKADO by MOD_SABER
+[Sun Jan 03 10:14:39 2016]  Kill: 0 1 3: Padawan killed AKADO by MOD_SABER
+[Sun Jan 03 10:14:57 2016]  Kill: 0 1 3: Padawan killed AKADO by MOD_SABER
+[Sun Jan 03 10:15:16 2016]  Kill: 0 1 3: Padawan killed AKADO by MOD_SABER
+[Sun Jan 03 10:15:25 2016]  Kill: 0 1 3: Padawan killed AKADO by MOD_SABER
+[Sun Jan 03 10:15:35 2016]  ClientDisconnect: 0
+[Sun Jan 03 10:16:12 2016]  ClientDisconnect: 1
+[Sun Jan 03 10:38:21 2016]  ClientConnect: 0
+[Sun Jan 03 10:38:21 2016]  mlog:Player MaxCrack, connected. With IP - 95.31.122.106:29070 
+[Sun Jan 03 10:38:41 2016]  ClientBegin: 0
+[Sun Jan 03 10:39:05 2016]  ClientDisconnect: 0
+[Sun Jan 03 10:40:00 2016]  ClientConnect: 0
+[Sun Jan 03 10:40:00 2016]  mlog:Player MaxCrack, connected. With IP - 95.31.122.106:29070 
+[Sun Jan 03 10:40:09 2016]  ClientBegin: 0
+[Sun Jan 03 10:40:15 2016]  ClientConnect: 1
+[Sun Jan 03 10:40:15 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Jan 03 10:40:30 2016]  ClientDisconnect: 0
+[Sun Jan 03 10:40:33 2016]  ClientBegin: 1
+[Sun Jan 03 10:40:38 2016]  Item: 1 weapon_melee
+[Sun Jan 03 10:40:47 2016]  say: ^0Shadow^5seer: hello?
+[Sun Jan 03 10:41:01 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Sun Jan 03 10:41:31 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Sun Jan 03 10:43:30 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Sun Jan 03 10:43:39 2016]  ClientDisconnect: 1
+[Sun Jan 03 10:44:48 2016]  ClientConnect: 0
+[Sun Jan 03 10:44:48 2016]  mlog:Player Padawan, connected. With IP - 79.191.241.144:29070 
+[Sun Jan 03 10:48:12 2016]  ClientDisconnect: 0
+[Sun Jan 03 12:18:07 2016]  ClientConnect: 0
+[Sun Jan 03 12:18:07 2016]  mlog:Player Padawan, connected. With IP - 77.100.23.246:29070 
+[Sun Jan 03 12:18:33 2016]  ClientBegin: 0
+[Sun Jan 03 12:20:54 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Jan 03 12:20:54 2016]  setteam:  0 FREE SPECTATOR
+[Sun Jan 03 12:20:54 2016]  ClientBegin: 0
+[Sun Jan 03 12:21:01 2016]  setteam:  0 SPECTATOR FREE
+[Sun Jan 03 12:21:01 2016]  ClientBegin: 0
+[Sun Jan 03 12:22:08 2016]  ClientConnect: 1
+[Sun Jan 03 12:22:08 2016]  mlog:Player Raiden, connected. With IP - 82.71.24.114:-1152 
+[Sun Jan 03 12:22:54 2016]  ClientBegin: 1
+[Sun Jan 03 12:23:15 2016]  Kill: 1 0 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:23:30 2016]  Kill: 1 0 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:24:03 2016]  Kill: 1 0 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:24:26 2016]  Kill: 0 1 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:25:11 2016]  Kill: 1 0 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:25:55 2016]  Kill: 1 0 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:26:44 2016]  Kill: 0 1 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:27:16 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Jan 03 12:27:16 2016]  setteam:  0 FREE SPECTATOR
+[Sun Jan 03 12:27:16 2016]  ClientBegin: 0
+[Sun Jan 03 12:27:24 2016]  setteam:  0 SPECTATOR FREE
+[Sun Jan 03 12:27:24 2016]  ClientBegin: 0
+[Sun Jan 03 12:28:55 2016]  Kill: 0 1 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:30:23 2016]  Kill: 1 0 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:30:54 2016]  Kill: 0 1 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:31:33 2016]  Kill: 0 1 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:31:54 2016]  Kill: 0 1 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:33:03 2016]  Kill: 0 1 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:33:34 2016]  Kill: 0 1 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:33:34 2016]  ClientDisconnect: 1
+[Sun Jan 03 12:33:44 2016]  ClientDisconnect: 0
+[Sun Jan 03 12:36:55 2016]  ClientConnect: 0
+[Sun Jan 03 12:36:55 2016]  mlog:Player Raiden, connected. With IP - 82.71.24.114:-492 
+[Sun Jan 03 12:37:15 2016]  ClientBegin: 0
+[Sun Jan 03 12:37:32 2016]  ClientConnect: 1
+[Sun Jan 03 12:37:32 2016]  mlog:Player Padawan, connected. With IP - 77.100.23.246:29070 
+[Sun Jan 03 12:37:56 2016]  ClientBegin: 1
+[Sun Jan 03 12:38:12 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:38:35 2016]  Kill: 1 0 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:38:43 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:39:20 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:39:38 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:40:06 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:40:19 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:40:28 2016]  Kill: 1 0 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:41:43 2016]  Kill: 1 0 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:42:01 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:42:24 2016]  Kill: 1 0 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:42:34 2016]  Kill: 1 0 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:42:44 2016]  say: Padawan: /taunt
+[Sun Jan 03 12:42:57 2016]  Kill: 1 0 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:43:13 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:43:29 2016]  Kill: 1 0 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:43:43 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:43:49 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:43:57 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:44:31 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:45:14 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:46:14 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:47:13 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:47:37 2016]  Kill: 1 0 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:48:00 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:48:11 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:48:21 2016]  Kill: 1 0 3: Padawan killed Raiden by MOD_SABER
+[Sun Jan 03 12:48:35 2016]  Kill: 0 1 3: Raiden killed Padawan by MOD_SABER
+[Sun Jan 03 12:49:15 2016]  print "Padawan^7 @@@PLRENAME Kek
+"[Sun Jan 03 12:49:31 2016]  Kill: 1 0 3: Kek killed Raiden by MOD_SABER
+[Sun Jan 03 12:50:17 2016]  Kill: 0 1 3: Raiden killed Kek by MOD_SABER
+[Sun Jan 03 12:50:31 2016]  Kill: 0 1 3: Raiden killed Kek by MOD_SABER
+[Sun Jan 03 12:50:56 2016]  Kill: 1 0 3: Kek killed Raiden by MOD_SABER
+[Sun Jan 03 12:51:31 2016]  Kill: 0 1 3: Raiden killed Kek by MOD_SABER
+[Sun Jan 03 12:52:38 2016]  Kill: 0 1 3: Raiden killed Kek by MOD_SABER
+[Sun Jan 03 12:52:59 2016]  Kill: 1 0 3: Kek killed Raiden by MOD_SABER
+[Sun Jan 03 12:53:28 2016]  Kill: 1 0 3: Kek killed Raiden by MOD_SABER
+[Sun Jan 03 12:53:39 2016]  Kill: 1 0 3: Kek killed Raiden by MOD_SABER
+[Sun Jan 03 12:53:55 2016]  Kill: 1 0 3: Kek killed Raiden by MOD_SABER
+[Sun Jan 03 12:54:13 2016]  Kill: 0 1 3: Raiden killed Kek by MOD_SABER
+[Sun Jan 03 12:54:29 2016]  Kill: 1 0 3: Kek killed Raiden by MOD_SABER
+[Sun Jan 03 12:54:47 2016]  Kill: 1 0 3: Kek killed Raiden by MOD_SABER
+[Sun Jan 03 12:55:38 2016]  Kill: 0 1 3: Raiden killed Kek by MOD_SABER
+[Sun Jan 03 12:56:23 2016]  ClientDisconnect: 1
+[Sun Jan 03 12:56:33 2016]  ClientConnect: 1
+[Sun Jan 03 12:56:33 2016]  mlog:Player Kek, connected. With IP - 77.100.23.246:29070 
+[Sun Jan 03 12:56:41 2016]  ClientBegin: 1
+[Sun Jan 03 12:56:46 2016]  Kill: 0 1 3: Raiden killed Kek by MOD_SABER
+[Sun Jan 03 12:57:12 2016]  tell: Kek to Raiden: kgvunsuijdfhnuisdfhuisdfhisdfhuisdhfiushdf
+[Sun Jan 03 12:57:14 2016]  tell: Kek to Raiden: osdjfoisdfjiosdfjiosdjfsdfsfd
+[Sun Jan 03 12:57:17 2016]  tell: Kek to Raiden: sdjfisdjfoiljfoisdjfiosjdfsdiofjsdf
+[Sun Jan 03 12:58:45 2016]  Kill: 0 1 3: Raiden killed Kek by MOD_SABER
+[Sun Jan 03 12:59:12 2016]  Kill: 1 0 3: Kek killed Raiden by MOD_SABER
+[Sun Jan 03 12:59:36 2016]  Kill: 0 1 3: Raiden killed Kek by MOD_SABER
+[Sun Jan 03 13:00:30 2016]  Kill: 0 1 3: Raiden killed Kek by MOD_SABER
+[Sun Jan 03 13:00:54 2016]  Kill: 1 0 3: Kek killed Raiden by MOD_SABER
+[Sun Jan 03 13:01:27 2016]  say: Raiden: noclip
+[Sun Jan 03 13:01:45 2016]  Kill: 0 1 3: Raiden killed Kek by MOD_SABER
+[Sun Jan 03 13:01:52 2016]  say: Raiden: /noclip
+[Sun Jan 03 13:01:57 2016]  say: Raiden: /noclip
+[Sun Jan 03 13:02:28 2016]  say: Raiden: !noclip
+[Sun Jan 03 13:03:30 2016]  Kill: 0 0 39: Raiden killed Raiden by MOD_SUICIDE
+[Sun Jan 03 13:03:38 2016]  Kill: 1 1 39: Kek killed Kek by MOD_SUICIDE
+[Sun Jan 03 13:03:43 2016]  Kill: 1 0 37: Kek killed Raiden by MOD_TELEFRAG
+[Sun Jan 03 13:04:20 2016]  ClientDisconnect: 0
+[Sun Jan 03 13:04:28 2016]  Kill: 1 1 39: Kek killed Kek by MOD_SUICIDE
+[Sun Jan 03 13:04:49 2016]  ClientDisconnect: 1
+[Sun Jan 03 14:15:19 2016]  ClientConnect: 0
+[Sun Jan 03 14:15:19 2016]  mlog:Player GRAND MASTER, connected. With IP - 212.220.204.55:29070 
+[Sun Jan 03 14:18:45 2016]  ClientDisconnect: 0
+[Sun Jan 03 14:24:47 2016]  ClientConnect: 0
+[Sun Jan 03 14:24:47 2016]  mlog:Player Gandon 228, connected. With IP - 46.180.163.22:29070 
+[Sun Jan 03 14:25:07 2016]  ClientDisconnect: 0
+[Sun Jan 03 15:43:05 2016]  ClientConnect: 0
+[Sun Jan 03 15:43:05 2016]  mlog:Player Will, connected. With IP - 208.103.232.251:29070 
+[Sun Jan 03 15:43:28 2016]  ClientBegin: 0
+[Sun Jan 03 15:43:44 2016]  ClientConnect: 1
+[Sun Jan 03 15:43:44 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Jan 03 15:44:00 2016]  ClientBegin: 1
+[Sun Jan 03 15:44:06 2016]  Item: 1 weapon_melee
+[Sun Jan 03 15:45:17 2016]  say: ^0Shadow^5seer: welcome
+[Sun Jan 03 15:46:14 2016]  ClientConnect: 2
+[Sun Jan 03 15:46:14 2016]  mlog:Player Padawan, connected. With IP - 99.192.74.223:29070 
+[Sun Jan 03 15:46:39 2016]  ClientBegin: 2
+[Sun Jan 03 15:47:14 2016]  say: ^0Shadow^5seer: :D
+[Sun Jan 03 15:47:24 2016]  Kill: 0 2 3: Will killed Padawan by MOD_SABER
+[Sun Jan 03 15:47:41 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Sun Jan 03 15:47:51 2016]  Kill: 2 0 3: Padawan killed Will by MOD_SABER
+[Sun Jan 03 15:48:03 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Sun Jan 03 15:48:06 2016]  Kill: 1 2 0: ^0Shadow^5seer killed Padawan by MOD_UNKNOWN
+[Sun Jan 03 15:48:12 2016]  say: ^0Shadow^5seer: oh, sorry
+[Sun Jan 03 15:48:17 2016]  say: ^0Shadow^5seer: wrong key
+[Sun Jan 03 15:49:03 2016]  say: ^0Shadow^5seer: kneel before your lord
+[Sun Jan 03 15:49:20 2016]  Kill: 0 2 3: Will killed Padawan by MOD_SABER
+[Sun Jan 03 15:50:39 2016]  say: ^0Shadow^5seer: ^5Behold the Stormbringer!
+[Sun Jan 03 15:50:40 2016]  Kill: 2 0 3: Padawan killed Will by MOD_SABER
+[Sun Jan 03 15:52:56 2016]  Kill: 2 0 3: Padawan killed Will by MOD_SABER
+[Sun Jan 03 15:53:48 2016]  print "Padawan^7 @@@PLRENAME Cameron
+"[Sun Jan 03 15:53:56 2016]  say: ^0Shadow^5seer: :D
+[Sun Jan 03 15:55:56 2016]  say: ^0Shadow^5seer: i am allpowerful
+[Sun Jan 03 15:58:04 2016]  Kill: 1022 0 2: <world> killed Will by MOD_MELEE
+[Sun Jan 03 15:58:18 2016]  say: ^0Shadow^5seer: well done
+[Sun Jan 03 15:58:50 2016]  Kill: 1 0 14: ^0Shadow^5seer killed Will by MOD_REPEATER_ALT_SPLASH
+[Sun Jan 03 15:59:47 2016]  say: ^0Shadow^5seer: :D
+[Sun Jan 03 16:00:01 2016]  Kill: 1022 2 38: <world> killed Cameron by MOD_FALLING
+[Sun Jan 03 16:01:15 2016]  say: ^0Shadow^5seer: :D
+[Sun Jan 03 16:01:31 2016]  Kill: 0 2 3: Will killed Cameron by MOD_SABER
+[Sun Jan 03 16:01:34 2016]  say: ^0Shadow^5seer: :D
+[Sun Jan 03 16:02:12 2016]  ClientConnect: 3
+[Sun Jan 03 16:02:12 2016]  mlog:Player Padawan, connected. With IP - 93.100.4.38:29070 
+[Sun Jan 03 16:02:29 2016]  say: ^0Shadow^5seer: its so small and cute
+[Sun Jan 03 16:02:34 2016]  say: ^0Shadow^5seer: it cant be dangerous
+[Sun Jan 03 16:02:39 2016]  ClientBegin: 3
+[Sun Jan 03 16:02:52 2016]  say: ^0Shadow^5seer: or can it? >:D
+[Sun Jan 03 16:03:11 2016]  say: ^0Shadow^5seer: yes, it can
+[Sun Jan 03 16:03:18 2016]  Kill: 1022 3 2: <world> killed Padawan by MOD_MELEE
+[Sun Jan 03 16:03:33 2016]  say: ^0Shadow^5seer: omg did u see this?
+[Sun Jan 03 16:03:58 2016]  say: ^0Shadow^5seer: lol
+[Sun Jan 03 16:03:59 2016]  Kill: 1022 0 2: <world> killed Will by MOD_MELEE
+[Sun Jan 03 16:04:08 2016]  say: ^0Shadow^5seer: :DDD
+[Sun Jan 03 16:04:12 2016]  Kill: 1022 3 2: <world> killed Padawan by MOD_MELEE
+[Sun Jan 03 16:04:12 2016]  say: Padawan: aaaaaaaaaaaa
+[Sun Jan 03 16:04:19 2016]  Kill: 1022 2 38: <world> killed Cameron by MOD_FALLING
+[Sun Jan 03 16:04:19 2016]  say: Padawan: i fkd up
+[Sun Jan 03 16:04:29 2016]  say: ^0Shadow^5seer: totally
+[Sun Jan 03 16:04:45 2016]  say: Padawan: which command?
+[Sun Jan 03 16:04:45 2016]  say: ^0Shadow^5seer: this small cutie shall eat u all
+[Sun Jan 03 16:04:56 2016]  say: Padawan: for mob dont see
+[Sun Jan 03 16:05:05 2016]  say: ^0Shadow^5seer: notarget
+[Sun Jan 03 16:05:07 2016]  say: Padawan: i played this mod 3 years ago
+[Sun Jan 03 16:05:08 2016]  say: Padawan: thx
+[Sun Jan 03 16:05:13 2016]  Kill: 2 0 3: Cameron killed Will by MOD_SABER
+[Sun Jan 03 16:05:25 2016]  say: ^0Shadow^5seer: but i wish he woult keep following u)
+[Sun Jan 03 16:05:30 2016]  say: ^0Shadow^5seer: would
+[Sun Jan 03 16:05:35 2016]  say: Padawan: he is dead
+[Sun Jan 03 16:05:38 2016]  say: Padawan: mod
+[Sun Jan 03 16:05:39 2016]  Kill: 2 0 3: Cameron killed Will by MOD_SABER
+[Sun Jan 03 16:05:47 2016]  say: Padawan: nobody playing
+[Sun Jan 03 16:05:51 2016]  say: ^0Shadow^5seer: thare are 4 players here right now
+[Sun Jan 03 16:05:57 2016]  say: ^0Shadow^5seer: there*
+[Sun Jan 03 16:06:10 2016]  say: Padawan: 3 years ago i played with 15+ players
+[Sun Jan 03 16:06:13 2016]  say: ^0Shadow^5seer: and i have all my scripts till now
+[Sun Jan 03 16:06:18 2016]  say: Padawan: wow
+[Sun Jan 03 16:06:21 2016]  say: Padawan: can you show me
+[Sun Jan 03 16:06:25 2016]  say: ^0Shadow^5seer: and its over 150
+[Sun Jan 03 16:06:40 2016]  say: Padawan: i lost my swag meteorite
+[Sun Jan 03 16:06:46 2016]  say: ^0Shadow^5seer: or u mean building ones?
+[Sun Jan 03 16:06:52 2016]  say: Padawan: yeah
+[Sun Jan 03 16:06:53 2016]  say: Padawan: go
+[Sun Jan 03 16:06:58 2016]  say: Padawan: show
+[Sun Jan 03 16:07:05 2016]  say: ^0Shadow^5seer: ^5Behold the Stormbringer!
+[Sun Jan 03 16:07:23 2016]  say: Padawan: cool
+[Sun Jan 03 16:07:27 2016]  Kill: 0 2 5: Will killed Cameron by MOD_BRYAR_PISTOL_ALT
+[Sun Jan 03 16:07:30 2016]  say: ^0Shadow^5seer: :D
+[Sun Jan 03 16:07:57 2016]  say: ^0Shadow^5seer: wanna see the last one i made half a year ago?
+[Sun Jan 03 16:08:06 2016]  say: Padawan: yea
+[Sun Jan 03 16:08:06 2016]  say: ^0Shadow^5seer: watch the pillar
+[Sun Jan 03 16:08:36 2016]  say: Padawan: wow
+[Sun Jan 03 16:08:51 2016]  say: Padawan: you pro
+[Sun Jan 03 16:08:54 2016]  say: ^0Shadow^5seer: :)
+[Sun Jan 03 16:08:57 2016]  Kill: 0 2 3: Will killed Cameron by MOD_SABER
+[Sun Jan 03 16:09:05 2016]  ClientDisconnect: 2
+[Sun Jan 03 16:09:10 2016]  ClientDisconnect: 0
+[Sun Jan 03 16:09:26 2016]  say: Padawan: tell me command for all forces
+[Sun Jan 03 16:09:27 2016]  say: Padawan: pls
+[Sun Jan 03 16:09:31 2016]  say: ^0Shadow^5seer: mempower
+[Sun Jan 03 16:09:44 2016]  say: Padawan: there dont works empower
+[Sun Jan 03 16:09:50 2016]  say: ^0Shadow^5seer: /mempower
+[Sun Jan 03 16:09:50 2016]  say: Padawan: oops
+[Sun Jan 03 16:09:52 2016]  say: Padawan: a
+[Sun Jan 03 16:09:54 2016]  say: Padawan: lol
+[Sun Jan 03 16:10:20 2016]  say: ^0Shadow^5seer: and what nickname you had 3 years ago?
+[Sun Jan 03 16:10:25 2016]  say: Padawan: yeah
+[Sun Jan 03 16:10:28 2016]  say: Padawan: vovan74
+[Sun Jan 03 16:10:33 2016]  say: ^0Shadow^5seer: à, íó ïðèâåò
+[Sun Jan 03 16:10:36 2016]  say: Padawan: lol
+[Sun Jan 03 16:10:37 2016]  say: ^0Shadow^5seer: ÿ ôóðèóñ
+[Sun Jan 03 16:10:39 2016]  say: Padawan: aa
+[Sun Jan 03 16:10:42 2016]  say: Padawan: xd
+[Sun Jan 03 16:10:53 2016]  say: ^0Shadow^5seer: îò êîãî æå åùå îæèäàòü òàêóþ øòóêó, êàê ýòîò äðàêîí
+[Sun Jan 03 16:11:08 2016]  say: Padawan: a pochemu mempower
+[Sun Jan 03 16:11:09 2016]  say: Padawan: teper
+[Sun Jan 03 16:11:13 2016]  say: ^0Shadow^5seer: òàê âñåãäà áûëî
+[Sun Jan 03 16:11:39 2016]  say: Padawan: ti vse eto vremya igral tut?
+[Sun Jan 03 16:11:44 2016]  say: ^0Shadow^5seer: íåò êîíå÷íî
+[Sun Jan 03 16:11:51 2016]  say: ^0Shadow^5seer: ÿ ïðîñòî íè÷åãî íå çàáûë
+[Sun Jan 03 16:11:57 2016]  say: ^0Shadow^5seer: è ìíå íàäî èäòè
+[Sun Jan 03 16:12:12 2016]  say: ^0Shadow^5seer: çàãëÿäûâàé åñëè ÷òî, ÿ òóò ñêîðåå âñåãî òåïåòü áóäó âðåìÿ îò âðåìåíè ïîÿâëÿòüñÿ
+[Sun Jan 03 16:12:17 2016]  say: ^0Shadow^5seer: âîçìîæíî äàæå íå îäèí
+[Sun Jan 03 16:12:20 2016]  say: Padawan: ok
+[Sun Jan 03 16:12:21 2016]  say: Padawan: bb
+[Sun Jan 03 16:12:23 2016]  ClientDisconnect: 1
+[Sun Jan 03 16:15:44 2016]  Kill: 3 3 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Jan 03 16:18:49 2016]  print "Padawan^7 @@@PLRENAME ^6b00ty^2swag^3gity
+"[Sun Jan 03 16:21:23 2016]  ClientDisconnect: 3
+[Sun Jan 03 16:34:24 2016]  ClientConnect: 0
+[Sun Jan 03 16:34:24 2016]  mlog:Player Crazydamo109, connected. With IP - 178.167.254.125:-30521 
+[Sun Jan 03 16:35:17 2016]  ClientBegin: 0
+[Sun Jan 03 16:36:08 2016]  ClientDisconnect: 0
+[Sun Jan 03 16:40:14 2016]  ClientConnect: 0
+[Sun Jan 03 16:40:14 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Jan 03 16:40:29 2016]  ClientBegin: 0
+[Sun Jan 03 16:40:31 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Sun Jan 03 16:40:36 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Sun Jan 03 16:40:42 2016]  Item: 0 weapon_melee
+[Sun Jan 03 16:42:51 2016]  ClientConnect: 1
+[Sun Jan 03 16:42:51 2016]  mlog:Player Padawan, connected. With IP - 5.18.54.92:29070 
+[Sun Jan 03 16:43:29 2016]  ClientBegin: 1
+[Sun Jan 03 16:45:48 2016]  print "Padawan^7 @@@PLRENAME Inariel
+"[Sun Jan 03 16:46:08 2016]  Kill: 0 1 36: ^0Shadow^5seer killed Inariel by MOD_CRUSH
+[Sun Jan 03 16:49:22 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Jan 03 16:49:23 2016]  Kill: 1022 1 36: <world> killed Inariel by MOD_CRUSH
+[Sun Jan 03 16:49:42 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Sun Jan 03 16:49:46 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Sun Jan 03 16:50:47 2016]  say: ^0Shadow^5seer: /mempower
+[Sun Jan 03 16:53:31 2016]  Kill: 1022 1 2: <world> killed Inariel by MOD_MELEE
+[Sun Jan 03 16:55:09 2016]  Kill: 0 1 36: ^0Shadow^5seer killed Inariel by MOD_CRUSH
+[Sun Jan 03 16:57:46 2016]  say: ^0Shadow^5seer: ^5Behold the Stormbringer!
+[Sun Jan 03 16:59:05 2016]  ClientConnect: 2
+[Sun Jan 03 16:59:05 2016]  mlog:Player Hera<3, connected. With IP - 5.53.21.248:29070 
+[Sun Jan 03 16:59:32 2016]  ClientBegin: 2
+[Sun Jan 03 17:00:11 2016]  Kill: 1022 2 36: <world> killed Hera<3 by MOD_CRUSH
+[Sun Jan 03 17:00:19 2016]  ClientDisconnect: 2
+[Sun Jan 03 17:03:47 2016]  Kill: 1022 1 36: <world> killed Inariel by MOD_CRUSH
+[Sun Jan 03 17:07:27 2016]  ClientConnect: 2
+[Sun Jan 03 17:07:27 2016]  mlog:Player Padawan, connected. With IP - 82.1.138.42:29070 
+[Sun Jan 03 17:07:48 2016]  ClientBegin: 2
+[Sun Jan 03 17:08:05 2016]  say: ^1Awec: yo
+[Sun Jan 03 17:08:07 2016]  say: ^0Shadow^5seer: hi
+[Sun Jan 03 17:08:30 2016]  say: Inariel: noclep
+[Sun Jan 03 17:08:57 2016]  say: ^0Shadow^5seer: /noclip
+[Sun Jan 03 17:10:55 2016]  say: ^1Awec: wtf is wrong with the saberlocks
+[Sun Jan 03 17:11:03 2016]  Kill: 1022 1 6: <world> killed Inariel by MOD_BLASTER
+[Sun Jan 03 17:11:20 2016]  say: ^0Shadow^5seer: My origin is: (-14376 -14726 1470) - You can teleport here with /mtelelast
+
+[Sun Jan 03 17:11:25 2016]  say: ^0Shadow^5seer: /mtelelast
+[Sun Jan 03 17:12:30 2016]  Kill: 1022 1 6: <world> killed Inariel by MOD_BLASTER
+[Sun Jan 03 17:13:11 2016]  Kill: 1022 1 6: <world> killed Inariel by MOD_BLASTER
+[Sun Jan 03 17:14:00 2016]  Kill: 1022 1 6: <world> killed Inariel by MOD_BLASTER
+[Sun Jan 03 17:17:17 2016]  ClientConnect: 3
+[Sun Jan 03 17:17:17 2016]  mlog:Player Padawan, connected. With IP - 93.100.4.38:29070 
+[Sun Jan 03 17:17:52 2016]  ClientDisconnect: 3
+[Sun Jan 03 17:17:52 2016]  ClientConnect: 3
+[Sun Jan 03 17:17:52 2016]  mlog:Player Padawan, connected. With IP - 93.100.4.38:29070 
+[Sun Jan 03 17:18:17 2016]  ClientBegin: 3
+[Sun Jan 03 17:18:32 2016]  say: Padawan: pochemu y menya nastroiki sbilis
+[Sun Jan 03 17:18:38 2016]  say: ^0Shadow^5seer: õðåí òåáÿ çíàåò
+[Sun Jan 03 17:18:39 2016]  say: Padawan: darova
+[Sun Jan 03 17:18:53 2016]  say: Inariel: âå÷åðà
+[Sun Jan 03 17:19:07 2016]  say: Padawan: eto ya
+[Sun Jan 03 17:19:10 2016]  say: ^0Shadow^5seer: ÿ ïîíÿë
+[Sun Jan 03 17:19:33 2016]  say: Padawan: eto tvoy drug?
+[Sun Jan 03 17:19:37 2016]  say: ^0Shadow^5seer: ïîäðóãà
+[Sun Jan 03 17:19:39 2016]  say: Padawan: a
+[Sun Jan 03 17:20:13 2016]  say: ^1Awec: argh
+[Sun Jan 03 17:20:17 2016]  say: ^0Shadow^5seer: sorry
+[Sun Jan 03 17:20:28 2016]  Kill: 3 3 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Jan 03 17:20:28 2016]  setteam:  3 FREE SPECTATOR
+[Sun Jan 03 17:20:28 2016]  ClientBegin: 3
+[Sun Jan 03 17:20:43 2016]  say: ^0Shadow^5seer: My origin is: (5439 -19960 1328) - You can teleport here with /mtelelast
+
+[Sun Jan 03 17:20:59 2016]  setteam:  3 SPECTATOR FREE
+[Sun Jan 03 17:20:59 2016]  ClientBegin: 3
+[Sun Jan 03 17:22:05 2016]  say: ^1Awec: neat
+[Sun Jan 03 17:23:20 2016]  say: Padawan: sha
+[Sun Jan 03 17:23:24 2016]  ClientDisconnect: 3
+[Sun Jan 03 17:24:44 2016]  Kill: 2 2 39: ^1Awec killed ^1Awec by MOD_SUICIDE
+[Sun Jan 03 17:25:00 2016]  say: ^0Shadow^5seer: My origin is: (8483 -18476 2393) - You can teleport here with /mtelelast
+
+[Sun Jan 03 17:25:15 2016]  ClientDisconnect: 2
+[Sun Jan 03 17:25:38 2016]  ClientConnect: 2
+[Sun Jan 03 17:25:38 2016]  mlog:Player Padawan, connected. With IP - 93.100.4.38:29070 
+[Sun Jan 03 17:26:05 2016]  ClientBegin: 2
+[Sun Jan 03 17:26:30 2016]  say: Padawan: ya kajetsya teper ponimayu kak proebal vse bindi
+[Sun Jan 03 17:27:02 2016]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Jan 03 17:27:02 2016]  setteam:  2 FREE SPECTATOR
+[Sun Jan 03 17:27:02 2016]  ClientBegin: 2
+[Sun Jan 03 17:27:22 2016]  print "Padawan^7 @@@PLRENAME ^6booty^5swaggity
+"[Sun Jan 03 17:27:35 2016]  say: ^6booty^5swaggity: mtelelast pls
+[Sun Jan 03 17:27:37 2016]  setteam:  2 SPECTATOR FREE
+[Sun Jan 03 17:27:37 2016]  ClientBegin: 2
+[Sun Jan 03 17:27:47 2016]  say: ^0Shadow^5seer: My origin is: (19763 -15187 1555) - You can teleport here with /mtelelast
+
+[Sun Jan 03 17:30:19 2016]  print "^6booty^5swaggity^7 @@@PLRENAME ^6b00ty^5sw4ggty
+"[Sun Jan 03 17:32:24 2016]  say: ^6b00ty^5sw4ggty: y tebya est skript na orujie?
+[Sun Jan 03 17:32:28 2016]  say: ^0Shadow^5seer: àãà
+[Sun Jan 03 17:32:30 2016]  say: ^6b00ty^5sw4ggty: nu vsmisle vse daet krome jetpacka
+[Sun Jan 03 17:32:34 2016]  say: ^6b00ty^5sw4ggty: pokaji
+[Sun Jan 03 17:32:34 2016]  say: ^0Shadow^5seer: åñòü
+[Sun Jan 03 17:32:50 2016]  say: ^6b00ty^5sw4ggty: net ya pomnu s effectami
+[Sun Jan 03 17:32:56 2016]  say: ^0Shadow^5seer: íàôèã òóò ýôôåêòû
+[Sun Jan 03 17:33:03 2016]  say: ^6b00ty^5sw4ggty: ti zhe delal lol
+[Sun Jan 03 17:33:08 2016]  say: ^0Shadow^5seer: ïðîñòî äàåò îðóæèå, êàê áóäòî îíî ó òåáÿ åñòü èçíà÷àëüíî
+[Sun Jan 03 17:33:14 2016]  say: ^0Shadow^5seer: íå íóæíû òóò ýôôåêòû
+[Sun Jan 03 17:35:15 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Sun Jan 03 17:35:47 2016]  say: ^6b00ty^5sw4ggty: chot vse skripti v inete neochen
+[Sun Jan 03 17:35:55 2016]  say: ^0Shadow^5seer: ïôô, åñòåñòâåííî
+[Sun Jan 03 17:36:41 2016]  ClientDisconnect: 2
+[Sun Jan 03 17:36:41 2016]  ClientConnect: 2
+[Sun Jan 03 17:36:41 2016]  mlog:Player Padawan, connected. With IP - 93.100.4.38:29070 
+[Sun Jan 03 17:37:07 2016]  ClientDisconnect: 0
+[Sun Jan 03 17:37:07 2016]  ClientConnect: 0
+[Sun Jan 03 17:37:07 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Jan 03 17:38:00 2016]  ClientDisconnect: 2
+[Sun Jan 03 17:38:00 2016]  ClientConnect: 2
+[Sun Jan 03 17:38:00 2016]  mlog:Player ^6b00ty^5sw4ggty, connected. With IP - 93.100.4.38:29070 

@@ -1,0 +1,236 @@
+[Thu Jan 12 02:21:33 2017]  ------------------------------------------------------------
+[Thu Jan 12 02:21:33 2017]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\999\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Jan 12 03:55:55 2017]  ClientConnect: 0
+[Thu Jan 12 03:55:55 2017]  mlog:Player ^7W^2e^6n^5d^7y, connected. With IP - 73.146.177.214:29070 
+[Thu Jan 12 03:56:18 2017]  ClientBegin: 0
+[Thu Jan 12 03:57:44 2017]  ClientDisconnect: 0
+[Thu Jan 12 16:30:42 2017]  ------------------------------------------------------------
+[Thu Jan 12 16:30:42 2017]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Jan 12 19:01:18 2017]  ClientConnect: 0
+[Thu Jan 12 19:01:18 2017]  mlog:Player Padawan, connected. With IP - 108.52.0.112:29070 
+[Thu Jan 12 19:01:47 2017]  ClientBegin: 0
+[Thu Jan 12 19:02:08 2017]  ClientDisconnect: 0
+[Fri Jan 13 23:36:14 2017]  ClientConnect: 0
+[Fri Jan 13 23:36:14 2017]  mlog:Player Telp, connected. With IP - 73.19.166.208:29070 
+[Fri Jan 13 23:36:41 2017]  ClientBegin: 0
+[Fri Jan 13 23:40:08 2017]  ClientConnect: 1
+[Fri Jan 13 23:40:08 2017]  mlog:Player Wagon, connected. With IP - 73.19.155.125:29070 
+[Fri Jan 13 23:40:17 2017]  ClientConnect: 2
+[Fri Jan 13 23:40:17 2017]  mlog:Player ^3kosher, connected. With IP - 91.230.25.125:29070 
+[Fri Jan 13 23:40:31 2017]  ClientBegin: 1
+[Fri Jan 13 23:40:46 2017]  ClientBegin: 2
+[Fri Jan 13 23:40:55 2017]  say: kosher: rus?
+[Fri Jan 13 23:41:19 2017]  say: kosher: telp rus?
+[Fri Jan 13 23:41:32 2017]  say: Telp: i am the U.S
+[Fri Jan 13 23:41:41 2017]  Kill: 1 0 3: Wagon killed Telp by MOD_SABER
+[Fri Jan 13 23:41:42 2017]  say: kosher: want rape?
+[Fri Jan 13 23:41:48 2017]  say: Wagon: yes
+[Fri Jan 13 23:42:05 2017]  Kill: 1022 1 7: <world> killed Wagon by MOD_TURBLAST
+[Fri Jan 13 23:42:17 2017]  Kill: 1022 1 7: <world> killed Wagon by MOD_TURBLAST
+[Fri Jan 13 23:42:21 2017]  say: Wagon: no more pls
+[Fri Jan 13 23:42:38 2017]  Kill: 1022 0 7: <world> killed Telp by MOD_TURBLAST
+[Fri Jan 13 23:45:38 2017]  Kill: 0 1 3: Telp killed Wagon by MOD_SABER
+[Fri Jan 13 23:45:42 2017]  say: kosher: lol
+[Fri Jan 13 23:46:02 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Fri Jan 13 23:46:02 2017]  setteam:  0 FREE SPECTATOR
+[Fri Jan 13 23:46:02 2017]  ClientBegin: 0
+[Fri Jan 13 23:46:29 2017]  setteam:  0 SPECTATOR FREE
+[Fri Jan 13 23:46:29 2017]  ClientBegin: 0
+[Fri Jan 13 23:47:50 2017]  Kill: 1022 0 7: <world> killed Telp by MOD_TURBLAST
+[Fri Jan 13 23:47:53 2017]  Kill: 1022 1 29: <world> killed Wagon by MOD_CONC
+[Fri Jan 13 23:48:16 2017]  Kill: 2 2 39: kosher killed kosher by MOD_SUICIDE
+[Fri Jan 13 23:48:58 2017]  Kill: 1 2 31: Wagon killed kosher by MOD_FORCE_DARK
+[Fri Jan 13 23:49:01 2017]  say: kosher: no attack me
+[Fri Jan 13 23:49:05 2017]  say: Wagon: oh
+[Fri Jan 13 23:49:08 2017]  say: Wagon: okie dae
+[Fri Jan 13 23:50:07 2017]  say: kosher: want to play anims?
+[Fri Jan 13 23:50:13 2017]  say: Wagon: what is that?
+[Fri Jan 13 23:50:17 2017]  say: kosher: animations
+[Fri Jan 13 23:50:30 2017]  say: kosher: yknow console>
+[Fri Jan 13 23:50:40 2017]  say: Wagon: OH
+[Fri Jan 13 23:50:44 2017]  say: Wagon: how do i do that?
+[Fri Jan 13 23:50:51 2017]  say: kosher: know console?
+[Fri Jan 13 23:51:05 2017]  say: Wagon: i know how to access it, but i do not know any commands
+[Fri Jan 13 23:51:29 2017]  say: kosher: \manim BOTH_VT_RUN_FWD 1000
+[Fri Jan 13 23:51:51 2017]  say: Wagon: msit2
+[Fri Jan 13 23:51:59 2017]  say: Wagon: w/msit3
+[Fri Jan 13 23:52:06 2017]  say: kosher: enter \manim BOTH_VT_RUN_FWD 1000
+[Fri Jan 13 23:52:24 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Fri Jan 13 23:52:24 2017]  setteam:  0 FREE SPECTATOR
+[Fri Jan 13 23:52:24 2017]  ClientBegin: 0
+[Fri Jan 13 23:52:31 2017]  say: kosher: 1000 is 1sec
+[Fri Jan 13 23:52:32 2017]  setteam:  0 SPECTATOR FREE
+[Fri Jan 13 23:52:32 2017]  ClientBegin: 0
+[Fri Jan 13 23:52:47 2017]  say: kosher: \manim BOTH_VT_RUN_FWD 10000
+[Fri Jan 13 23:53:48 2017]  say: Wagon: i broke it
+[Fri Jan 13 23:53:52 2017]  Kill: 1 1 39: Wagon killed Wagon by MOD_SUICIDE
+[Fri Jan 13 23:55:22 2017]  ClientDisconnect: 2
+[Sat Jan 14 00:00:53 2017]  ClientDisconnect: 0
+[Sat Jan 14 00:01:37 2017]  ClientConnect: 0
+[Sat Jan 14 00:01:37 2017]  mlog:Player Telp, connected. With IP - 73.19.166.208:29070 
+[Sat Jan 14 00:02:01 2017]  ClientBegin: 0
+[Sat Jan 14 00:02:01 2017]  Kill: 1 1 39: Wagon killed Wagon by MOD_SUICIDE
+[Sat Jan 14 00:02:25 2017]  Kill: 1 0 17: Wagon killed Telp by MOD_FLECHETTE
+[Sat Jan 14 00:05:13 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Sat Jan 14 00:05:13 2017]  setteam:  0 FREE SPECTATOR
+[Sat Jan 14 00:05:13 2017]  ClientBegin: 0
+[Sat Jan 14 00:05:19 2017]  setteam:  0 SPECTATOR FREE
+[Sat Jan 14 00:05:19 2017]  ClientBegin: 0
+[Sat Jan 14 00:05:34 2017]  Kill: 1 0 3: Wagon killed Telp by MOD_SABER
+[Sat Jan 14 00:06:35 2017]  Kill: 1 0 3: Wagon killed Telp by MOD_SABER
+[Sat Jan 14 00:12:44 2017]  Kill: 1 1 39: Wagon killed Wagon by MOD_SUICIDE
+[Sat Jan 14 00:13:13 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Sat Jan 14 00:13:54 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Sat Jan 14 00:23:39 2017]  Kill: 1 1 39: Wagon killed Wagon by MOD_SUICIDE
+[Sat Jan 14 00:23:44 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Sat Jan 14 00:24:13 2017]  say: Wagon: giveall
+[Sat Jan 14 00:27:36 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Sat Jan 14 00:27:57 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Sat Jan 14 00:28:38 2017]  Kill: 1 1 39: Wagon killed Wagon by MOD_SUICIDE
+[Sat Jan 14 00:40:55 2017]  Kill: 1 1 39: Wagon killed Wagon by MOD_SUICIDE
+[Sat Jan 14 00:40:58 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Sat Jan 14 00:41:29 2017]  Kill: 0 1 3: Telp killed Wagon by MOD_SABER
+[Sat Jan 14 00:42:10 2017]  Kill: 1 0 6: Wagon killed Telp by MOD_BLASTER
+[Sat Jan 14 00:43:09 2017]  Kill: 1 0 15: Wagon killed Telp by MOD_DEMP2
+[Sat Jan 14 00:44:38 2017]  Kill: 1 0 29: Wagon killed Telp by MOD_CONC
+[Sat Jan 14 00:46:52 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Sat Jan 14 00:48:10 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Sat Jan 14 00:48:51 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Sat Jan 14 00:52:10 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Sat Jan 14 00:53:23 2017]  Kill: 1 0 15: Wagon killed Telp by MOD_DEMP2
+[Sat Jan 14 00:55:26 2017]  ClientDisconnect: 0
+[Sat Jan 14 00:55:30 2017]  ClientDisconnect: 1
+[Sat Jan 14 04:30:53 2017]  ClientConnect: 0
+[Sat Jan 14 04:30:53 2017]  mlog:Player Padawan, connected. With IP - 173.17.42.189:29070 
+[Sat Jan 14 04:30:57 2017]  ClientConnect: 1
+[Sat Jan 14 04:30:57 2017]  mlog:Player Padawan, connected. With IP - 73.51.13.13:29070 
+[Sat Jan 14 04:31:15 2017]  ClientConnect: 2
+[Sat Jan 14 04:31:15 2017]  mlog:Player Padawan, connected. With IP - 73.51.37.243:29070 
+[Sat Jan 14 04:31:30 2017]  ClientBegin: 1
+[Sat Jan 14 04:31:36 2017]  ClientBegin: 2
+[Sat Jan 14 04:32:12 2017]  ClientDisconnect: 0
+[Sat Jan 14 04:32:12 2017]  ClientConnect: 0
+[Sat Jan 14 04:32:12 2017]  mlog:Player Padawan, connected. With IP - 173.17.42.189:29070 
+[Sat Jan 14 04:32:17 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:33:19 2017]  ClientDisconnect: 0
+[Sat Jan 14 04:33:19 2017]  ClientConnect: 0
+[Sat Jan 14 04:33:19 2017]  mlog:Player Padawan, connected. With IP - 173.17.42.189:29070 
+[Sat Jan 14 04:33:30 2017]  Kill: 1022 2 38: <world> killed King Harambe by MOD_FALLING
+[Sat Jan 14 04:33:58 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:34:08 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:34:16 2017]  Kill: 1 2 31: Cancer Child killed King Harambe by MOD_FORCE_DARK
+[Sat Jan 14 04:34:25 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:34:39 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:34:51 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:35:06 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:35:27 2017]  ClientDisconnect: 0
+[Sat Jan 14 04:35:27 2017]  ClientConnect: 0
+[Sat Jan 14 04:35:27 2017]  mlog:Player Padawan, connected. With IP - 173.17.42.189:29070 
+[Sat Jan 14 04:35:42 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:35:48 2017]  ClientBegin: 0
+[Sat Jan 14 04:36:05 2017]  ClientDisconnect: 0
+[Sat Jan 14 04:37:12 2017]  ClientConnect: 0
+[Sat Jan 14 04:37:12 2017]  mlog:Player Padawan, connected. With IP - 173.17.42.189:29070 
+[Sat Jan 14 04:37:33 2017]  ClientBegin: 0
+[Sat Jan 14 04:37:41 2017]  print "Padawan^7 @@@PLRENAME Arenova
+"[Sat Jan 14 04:39:07 2017]  Kill: 1022 2 38: <world> killed King Harambe by MOD_FALLING
+[Sat Jan 14 04:39:16 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:39:20 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:39:27 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:39:30 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:39:44 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:39:55 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:40:20 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:40:40 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:40:47 2017]  Kill: 1022 0 38: <world> killed Arenova by MOD_FALLING
+[Sat Jan 14 04:40:49 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:41:07 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 04:41:12 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:41:49 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 04:42:08 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:42:25 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:42:59 2017]  Kill: 2 0 5: King Harambe killed Arenova by MOD_BRYAR_PISTOL_ALT
+[Sat Jan 14 04:44:06 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:44:21 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:44:26 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 04:44:31 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:44:32 2017]  Kill: 0 2 31: Arenova killed King Harambe by MOD_FORCE_DARK
+[Sat Jan 14 04:44:40 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:45:08 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 04:45:10 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:45:29 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:45:34 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 04:45:45 2017]  Kill: 2 0 5: King Harambe killed Arenova by MOD_BRYAR_PISTOL_ALT
+[Sat Jan 14 04:45:56 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 04:46:06 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:46:09 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 04:46:16 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 04:46:29 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:46:35 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:46:36 2017]  Kill: 1 2 31: Cancer Child killed King Harambe by MOD_FORCE_DARK
+[Sat Jan 14 04:48:01 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 04:48:12 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:48:19 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 04:48:24 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 04:48:36 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 04:48:48 2017]  Kill: 2 1 5: King Harambe killed Cancer Child by MOD_BRYAR_PISTOL_ALT
+[Sat Jan 14 04:49:51 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:49:56 2017]  Kill: 1 0 5: Cancer Child killed Arenova by MOD_BRYAR_PISTOL_ALT
+[Sat Jan 14 04:50:08 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:50:38 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:51:10 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 04:51:14 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:52:31 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:52:38 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 04:52:56 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:52:58 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 04:53:23 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:53:32 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:53:44 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:53:50 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:55:35 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 04:55:51 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:55:56 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:56:00 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:56:17 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 04:56:21 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:56:30 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 04:56:45 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:57:12 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:57:14 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:57:17 2017]  Kill: 0 1 37: Arenova killed Cancer Child by MOD_TELEFRAG
+[Sat Jan 14 04:57:26 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:57:32 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:57:37 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 04:57:38 2017]  Kill: 1 2 31: Cancer Child killed King Harambe by MOD_FORCE_DARK
+[Sat Jan 14 04:57:44 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 04:57:48 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 04:57:50 2017]  Kill: 1 0 31: Cancer Child killed Arenova by MOD_FORCE_DARK
+[Sat Jan 14 04:58:00 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:58:03 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 04:58:21 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:58:45 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:58:53 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:58:57 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 04:59:05 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:59:20 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 04:59:22 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 04:59:40 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 04:59:52 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 04:59:55 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:00:11 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:00:17 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:00:36 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:00:57 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:01:10 2017]  Kill: 2 0 5: King Harambe killed Arenova by MOD_BRYAR_PISTOL_ALT
+[Sat Jan 14 05:01:22 2017]  Kill: 2 1 5: King Harambe killed Cancer Child by MOD_BRYAR_PISTOL_ALT
+[Sat Jan 14 05:01:39 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:01:57 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:02:16 2017]  Kill: 2 1 5: King Harambe killed Cancer Child by MOD_BRYAR_PISTOL_ALT
+[Sat Jan 14 05:02:28 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:02:34 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:02:40 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:03:05 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:03:18 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:03:27 2017]  ShutdownGame:
+[Sat Jan 14 05:03:27 2017]  ------------------------------------------------------------

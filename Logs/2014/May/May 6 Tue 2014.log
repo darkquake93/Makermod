@@ -1,0 +1,266 @@
+[Tue May 06 11:10:51 2014]  ------------------------------------------------------------
+[Tue May 06 11:10:51 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue May 06 11:10:52 2014]  ClientConnect: 0
+[Tue May 06 11:11:02 2014]  ClientBegin: 0
+[Tue May 06 11:11:25 2014]  ClientDisconnect: 0
+[Tue May 06 11:12:08 2014]  ClientConnect: 0
+[Tue May 06 11:12:08 2014]  mlog:Player Padawan, connected. With IP - 128.73.13.89:29070 
+[Tue May 06 11:12:14 2014]  ClientConnect: 1
+[Tue May 06 11:12:14 2014]  mlog:Player Lexasss, connected. With IP - 176.212.226.175:29070 
+[Tue May 06 11:12:22 2014]  ClientConnect: 2
+[Tue May 06 11:12:22 2014]  mlog:Player Rainsss, connected. With IP - 176.215.221.72:29070 
+[Tue May 06 11:12:22 2014]  ClientBegin: 0
+[Tue May 06 11:12:22 2014]  ClientConnect: 3
+[Tue May 06 11:12:22 2014]  mlog:Player Emil_doc, connected. With IP - 2.93.22.162:29070 
+[Tue May 06 11:12:35 2014]  ClientBegin: 1
+[Tue May 06 11:12:36 2014]  ClientBegin: 2
+[Tue May 06 11:12:39 2014]  ClientBegin: 3
+[Tue May 06 11:13:01 2014]  Kill: 1022 2 39: <world> killed Rainsss by MOD_SUICIDE
+[Tue May 06 11:13:01 2014]  Kill: 1022 1 39: <world> killed Padawan by MOD_SUICIDE
+[Tue May 06 11:13:12 2014]  Kill: 1 2 3: Padawan killed Rainsss by MOD_SABER
+[Tue May 06 11:13:29 2014]  print "Padawan^7 @@@PLRENAME Lexasss
+"[Tue May 06 11:13:35 2014]  Kill: 3 1 3: Padawan killed Lexasss by MOD_SABER
+[Tue May 06 11:14:05 2014]  Kill: 1 2 3: Lexasss killed Rainsss by MOD_SABER
+[Tue May 06 11:14:09 2014]  Kill: 3 0 3: Padawan killed Padawan by MOD_SABER
+[Tue May 06 11:14:25 2014]  Kill: 2 3 3: Rainsss killed Padawan by MOD_SABER
+[Tue May 06 11:14:51 2014]  Kill: 1022 1 39: <world> killed Lexasss by MOD_SUICIDE
+[Tue May 06 11:14:55 2014]  Kill: 0 3 3: Padawan killed Padawan by MOD_SABER
+[Tue May 06 11:15:13 2014]  Kill: 1 2 3: Lexasss killed Rainsss by MOD_SABER
+[Tue May 06 11:15:18 2014]  Kill: 1 3 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:15:55 2014]  Kill: 0 3 3: Padawan killed Padawan by MOD_SABER
+[Tue May 06 11:16:00 2014]  Kill: 0 2 31: Padawan killed Rainsss by MOD_FORCE_DARK
+[Tue May 06 11:16:23 2014]  Kill: 1 3 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:16:53 2014]  Kill: 1 2 3: Lexasss killed Rainsss by MOD_SABER
+[Tue May 06 11:17:25 2014]  Kill: 3 2 3: Padawan killed Rainsss by MOD_SABER
+[Tue May 06 11:17:38 2014]  Kill: 2 1 3: Rainsss killed Lexasss by MOD_SABER
+[Tue May 06 11:18:06 2014]  Kill: 0 3 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Tue May 06 11:18:27 2014]  Kill: 1 0 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:18:32 2014]  Kill: 3 2 3: Padawan killed Rainsss by MOD_SABER
+[Tue May 06 11:18:47 2014]  Kill: 3 0 3: Padawan killed Padawan by MOD_SABER
+[Tue May 06 11:19:00 2014]  Kill: 0 1 3: Padawan killed Lexasss by MOD_SABER
+[Tue May 06 11:19:09 2014]  Kill: 0 2 31: Padawan killed Rainsss by MOD_FORCE_DARK
+[Tue May 06 11:19:13 2014]  Kill: 1 3 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:20:09 2014]  Kill: 3 0 3: Padawan killed Padawan by MOD_SABER
+[Tue May 06 11:20:22 2014]  Kill: 1 2 3: Lexasss killed Rainsss by MOD_SABER
+[Tue May 06 11:20:31 2014]  Kill: 0 1 3: Padawan killed Lexasss by MOD_SABER
+[Tue May 06 11:20:39 2014]  Kill: 1 2 3: Lexasss killed Rainsss by MOD_SABER
+[Tue May 06 11:20:43 2014]  Kill: 1022 1 39: <world> killed Lexasss by MOD_SUICIDE
+[Tue May 06 11:21:02 2014]  Kill: 1 0 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:21:14 2014]  Kill: 0 3 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Tue May 06 11:21:34 2014]  Kill: 1 3 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:21:50 2014]  Kill: 1 2 3: Lexasss killed Rainsss by MOD_SABER
+[Tue May 06 11:22:06 2014]  Kill: 2 0 31: Rainsss killed Padawan by MOD_FORCE_DARK
+[Tue May 06 11:22:19 2014]  Kill: 2 3 31: Rainsss killed Padawan by MOD_FORCE_DARK
+[Tue May 06 11:22:45 2014]  Kill: 1 0 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:23:24 2014]  Kill: 0 2 3: Padawan killed Rainsss by MOD_SABER
+[Tue May 06 11:23:28 2014]  Kill: 3 1 3: Padawan killed Lexasss by MOD_SABER
+[Tue May 06 11:24:30 2014]  Kill: 1 0 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:24:32 2014]  Kill: 2 3 3: Rainsss killed Padawan by MOD_SABER
+[Tue May 06 11:25:10 2014]  Kill: 3 1 3: Padawan killed Lexasss by MOD_SABER
+[Tue May 06 11:25:38 2014]  Kill: 1 2 3: Lexasss killed Rainsss by MOD_SABER
+[Tue May 06 11:25:48 2014]  Kill: 1 0 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:26:22 2014]  Kill: 3 2 3: Padawan killed Rainsss by MOD_SABER
+[Tue May 06 11:26:22 2014]  Kill: 0 3 2: Padawan killed Padawan by MOD_MELEE
+[Tue May 06 11:26:46 2014]  Kill: 1 2 3: Lexasss killed Rainsss by MOD_SABER
+[Tue May 06 11:26:57 2014]  Kill: 1 3 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:27:30 2014]  Kill: 0 3 3: Padawan killed Padawan by MOD_SABER
+[Tue May 06 11:27:44 2014]  Kill: 3 1 3: Padawan killed Lexasss by MOD_SABER
+[Tue May 06 11:28:00 2014]  Kill: 0 1 3: Padawan killed Lexasss by MOD_SABER
+[Tue May 06 11:28:11 2014]  Kill: 0 2 31: Padawan killed Rainsss by MOD_FORCE_DARK
+[Tue May 06 11:28:33 2014]  Kill: 1 2 3: Lexasss killed Rainsss by MOD_SABER
+[Tue May 06 11:28:33 2014]  Kill: 3 1 31: Padawan killed Lexasss by MOD_FORCE_DARK
+[Tue May 06 11:29:32 2014]  Kill: 2 0 31: Rainsss killed Padawan by MOD_FORCE_DARK
+[Tue May 06 11:29:32 2014]  Kill: 2 1 31: Rainsss killed Lexasss by MOD_FORCE_DARK
+[Tue May 06 11:29:53 2014]  Kill: 1022 3 38: <world> killed Padawan by MOD_FALLING
+[Tue May 06 11:30:31 2014]  Kill: 1 0 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:30:37 2014]  Kill: 2 3 31: Rainsss killed Padawan by MOD_FORCE_DARK
+[Tue May 06 11:30:41 2014]  Kill: 2 0 3: Rainsss killed Padawan by MOD_SABER
+[Tue May 06 11:31:22 2014]  Kill: 0 1 31: Padawan killed Lexasss by MOD_FORCE_DARK
+[Tue May 06 11:31:26 2014]  Kill: 0 3 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Tue May 06 11:31:45 2014]  Kill: 1 2 31: Lexasss killed Rainsss by MOD_FORCE_DARK
+[Tue May 06 11:31:52 2014]  Kill: 1 3 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:32:15 2014]  Kill: 3 0 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Tue May 06 11:32:35 2014]  Kill: 3 2 3: Padawan killed Rainsss by MOD_SABER
+[Tue May 06 11:33:10 2014]  Kill: 1022 3 38: <world> killed Padawan by MOD_FALLING
+[Tue May 06 11:33:15 2014]  Kill: 1 0 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:33:27 2014]  Kill: 2 1 31: Rainsss killed Lexasss by MOD_FORCE_DARK
+[Tue May 06 11:33:49 2014]  Kill: 2 3 31: Rainsss killed Padawan by MOD_FORCE_DARK
+[Tue May 06 11:34:26 2014]  Kill: 0 3 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Tue May 06 11:34:40 2014]  Kill: 1 0 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:35:08 2014]  Kill: 2 3 31: Rainsss killed Padawan by MOD_FORCE_DARK
+[Tue May 06 11:35:27 2014]  Kill: 3 1 3: Padawan killed Lexasss by MOD_SABER
+[Tue May 06 11:35:29 2014]  Kill: 0 2 31: Padawan killed Rainsss by MOD_FORCE_DARK
+[Tue May 06 11:35:59 2014]  Kill: 3 2 3: Padawan killed Rainsss by MOD_SABER
+[Tue May 06 11:36:01 2014]  Kill: 1 0 3: Lexasss killed Padawan by MOD_SABER
+[Tue May 06 11:36:51 2014]  Kill: 3 0 3: Padawan killed Padawan by MOD_SABER
+[Tue May 06 11:37:30 2014]  Kill: 0 1 3: Padawan killed Lexasss by MOD_SABER
+[Tue May 06 11:37:46 2014]  Kill: 1022 3 38: <world> killed Padawan by MOD_FALLING
+[Tue May 06 11:38:16 2014]  Kill: 3 2 3: Padawan killed Rainsss by MOD_SABER
+[Tue May 06 11:38:58 2014]  Kill: 3 0 3: Padawan killed Padawan by MOD_SABER
+[Tue May 06 11:39:02 2014]  ClientDisconnect: 0
+[Tue May 06 11:39:03 2014]  Kill: 2 1 31: Rainsss killed Lexasss by MOD_FORCE_DARK
+[Tue May 06 11:39:16 2014]  ClientDisconnect: 1
+[Tue May 06 11:39:30 2014]  ClientConnect: 0
+[Tue May 06 11:39:30 2014]  mlog:Player Padawan, connected. With IP - 128.73.13.89:29070 
+[Tue May 06 11:39:36 2014]  ClientBegin: 0
+[Tue May 06 11:39:48 2014]  Kill: 3 0 3: Padawan killed Padawan by MOD_SABER
+[Tue May 06 11:40:09 2014]  Kill: 2 0 3: Rainsss killed Padawan by MOD_SABER
+[Tue May 06 11:40:52 2014]  Kill: 0 3 3: Padawan killed Padawan by MOD_SABER
+[Tue May 06 11:43:04 2014]  Kill: 1022 3 38: <world> killed Padawan by MOD_FALLING
+[Tue May 06 11:43:37 2014]  Kill: 1022 2 38: <world> killed Rainsss by MOD_FALLING
+[Tue May 06 11:43:54 2014]  Kill: 0 3 31: Padawan killed Padawan by MOD_FORCE_DARK
+[Tue May 06 11:43:59 2014]  Kill: 0 2 31: Padawan killed Rainsss by MOD_FORCE_DARK
+[Tue May 06 11:44:08 2014]  print "Padawan^7 @@@PLRENAME Emil
+"[Tue May 06 11:45:48 2014]  Kill: 1022 0 38: <world> killed Padawan by MOD_FALLING
+[Tue May 06 11:47:07 2014]  Kill: 0 3 3: Padawan killed Emil by MOD_SABER
+[Tue May 06 11:47:12 2014]  Kill: 2 0 3: Rainsss killed Padawan by MOD_SABER
+[Tue May 06 11:48:37 2014]  Kill: 3 0 3: Emil killed Padawan by MOD_SABER
+[Tue May 06 11:49:08 2014]  Kill: 2 0 3: Rainsss killed Padawan by MOD_SABER
+[Tue May 06 11:50:16 2014]  Kill: 3 0 3: Emil killed Padawan by MOD_SABER
+[Tue May 06 11:50:29 2014]  Kill: 0 2 3: Padawan killed Rainsss by MOD_SABER
+[Tue May 06 11:51:32 2014]  Kill: 2 3 3: Rainsss killed Emil by MOD_SABER
+[Tue May 06 11:52:59 2014]  Kill: 1022 0 38: <world> killed Padawan by MOD_FALLING
+[Tue May 06 11:54:58 2014]  Kill: 0 3 31: Padawan killed Emil by MOD_FORCE_DARK
+[Tue May 06 11:57:15 2014]  Kill: 1022 0 38: <world> killed Padawan by MOD_FALLING
+[Tue May 06 11:58:36 2014]  Kill: 2 3 3: Rainsss killed Emil by MOD_SABER
+[Tue May 06 11:59:20 2014]  Kill: 1022 3 39: <world> killed Emil by MOD_SUICIDE
+[Tue May 06 12:00:53 2014]  Kill: 1022 3 2: <world> killed Emil by MOD_MELEE
+[Tue May 06 12:01:17 2014]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Tue May 06 12:01:32 2014]  Kill: 1022 3 39: <world> killed Emil by MOD_SUICIDE
+[Tue May 06 12:01:33 2014]  ClientDisconnect: 0
+[Tue May 06 12:03:54 2014]  Kill: 2 3 3: Rainsss killed Emil by MOD_SABER
+[Tue May 06 12:04:19 2014]  Kill: 1022 2 38: <world> killed Rainsss by MOD_FALLING
+[Tue May 06 12:05:19 2014]  Kill: 2 3 3: Rainsss killed Emil by MOD_SABER
+[Tue May 06 12:08:16 2014]  Kill: 1022 2 39: <world> killed Rainsss by MOD_SUICIDE
+[Tue May 06 12:08:54 2014]  Kill: 1022 2 39: <world> killed Rainsss by MOD_SUICIDE
+[Tue May 06 12:10:30 2014]  Kill: 2 3 3: Rainsss killed Emil by MOD_SABER
+[Tue May 06 12:11:10 2014]  ClientConnect: 0
+[Tue May 06 12:11:10 2014]  mlog:Player Eliminator2578, connected. With IP - 213.93.135.127:29070 
+[Tue May 06 12:11:19 2014]  ClientBegin: 0
+[Tue May 06 12:11:23 2014]  ClientConnect: 1
+[Tue May 06 12:11:23 2014]  mlog:Player xReDAiMx, connected. With IP - 94.217.205.67:29070 
+[Tue May 06 12:11:28 2014]  say: Eliminator2467: hi
+[Tue May 06 12:11:32 2014]  say: Rainsss: hi
+[Tue May 06 12:11:37 2014]  ClientBegin: 1
+[Tue May 06 12:11:43 2014]  Kill: 3 1 3: Emil killed xReDAiMx by MOD_SABER
+[Tue May 06 12:12:08 2014]  Kill: 3 0 3: Emil killed Eliminator2467 by MOD_SABER
+[Tue May 06 12:12:10 2014]  say: Eliminator2467: how?
+[Tue May 06 12:12:15 2014]  say: Rainsss: we russian
+[Tue May 06 12:12:17 2014]  say: Rainsss: a
+[Tue May 06 12:12:21 2014]  say: Rainsss: y
+[Tue May 06 12:12:22 2014]  say: Eliminator2467: cool
+[Tue May 06 12:12:22 2014]  say: Rainsss: u
+[Tue May 06 12:12:30 2014]  say: Rainsss: fasf
+[Tue May 06 12:12:34 2014]  say: Rainsss: fast
+[Tue May 06 12:13:18 2014]  Kill: 2 1 3: Rainsss killed xReDAiMx by MOD_SABER
+[Tue May 06 12:13:39 2014]  Kill: 2 0 3: Rainsss killed Eliminator2467 by MOD_SABER
+[Tue May 06 12:13:44 2014]  say: Eliminator2467: how can you winn that duel so easy?
+[Tue May 06 12:13:53 2014]  say: Rainsss: Mega cheat
+[Tue May 06 12:13:56 2014]  say: Rainsss: zazaz
+[Tue May 06 12:14:00 2014]  Kill: 1022 3 38: <world> killed Emil by MOD_FALLING
+[Tue May 06 12:14:55 2014]  Kill: 2 3 3: Rainsss killed Emil by MOD_SABER
+[Tue May 06 12:15:06 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:15:12 2014]  ClientDisconnect: 3
+[Tue May 06 12:15:16 2014]  ClientDisconnect: 2
+[Tue May 06 12:17:44 2014]  Kill: 0 0 39: Eliminator2467 killed Eliminator2467 by MOD_SUICIDE
+[Tue May 06 12:18:10 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:21:06 2014]  Kill: 0 0 39: Eliminator2467 killed Eliminator2467 by MOD_SUICIDE
+[Tue May 06 12:21:39 2014]  Kill: 1 0 3: xReDAiMx killed Eliminator2467 by MOD_SABER
+[Tue May 06 12:26:46 2014]  Kill: 1022 0 2: <world> killed Eliminator2467 by MOD_MELEE
+[Tue May 06 12:28:09 2014]  Kill: 1 0 3: xReDAiMx killed Eliminator2467 by MOD_SABER
+[Tue May 06 12:29:29 2014]  Kill: 0 0 39: Eliminator2467 killed Eliminator2467 by MOD_SUICIDE
+[Tue May 06 12:30:28 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:31:31 2014]  Kill: 0 0 39: Eliminator2467 killed Eliminator2467 by MOD_SUICIDE
+[Tue May 06 12:31:49 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:32:20 2014]  Kill: 1 0 3: xReDAiMx killed Eliminator2467 by MOD_SABER
+[Tue May 06 12:32:27 2014]  Kill: 0 0 39: Eliminator2467 killed Eliminator2467 by MOD_SUICIDE
+[Tue May 06 12:32:41 2014]  Kill: 1 0 3: xReDAiMx killed Eliminator2467 by MOD_SABER
+[Tue May 06 12:32:56 2014]  Kill: 0 0 39: Eliminator2467 killed Eliminator2467 by MOD_SUICIDE
+[Tue May 06 12:33:14 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:33:29 2014]  Kill: 0 0 39: Eliminator2467 killed Eliminator2467 by MOD_SUICIDE
+[Tue May 06 12:33:31 2014]  Kill: 0 0 39: Eliminator2467 killed Eliminator2467 by MOD_SUICIDE
+[Tue May 06 12:33:44 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:34:06 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:34:24 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:34:39 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:34:53 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:35:10 2014]  Kill: 1 0 3: xReDAiMx killed Eliminator2467 by MOD_SABER
+[Tue May 06 12:35:18 2014]  Kill: 0 0 39: Eliminator2467 killed Eliminator2467 by MOD_SUICIDE
+[Tue May 06 12:35:28 2014]  Kill: 1 0 3: xReDAiMx killed Eliminator2467 by MOD_SABER
+[Tue May 06 12:35:39 2014]  Kill: 0 0 39: Eliminator2467 killed Eliminator2467 by MOD_SUICIDE
+[Tue May 06 12:35:46 2014]  Kill: 0 0 39: Eliminator2467 killed Eliminator2467 by MOD_SUICIDE
+[Tue May 06 12:35:48 2014]  Kill: 0 0 39: Eliminator2467 killed Eliminator2467 by MOD_SUICIDE
+[Tue May 06 12:36:08 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:36:14 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:36:30 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:36:45 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:36:55 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:37:04 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:37:25 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:37:31 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:37:46 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:37:55 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:38:15 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:38:25 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:38:53 2014]  Kill: 1 0 3: xReDAiMx killed Eliminator2467 by MOD_SABER
+[Tue May 06 12:39:03 2014]  Kill: 0 0 39: Eliminator2467 killed Eliminator2467 by MOD_SUICIDE
+[Tue May 06 12:39:36 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:39:42 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:40:07 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:40:13 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:40:39 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:40:47 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:41:01 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:41:07 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:41:24 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:41:32 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:41:57 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:42:07 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:42:32 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:42:37 2014]  Kill: 1 1 39: xReDAiMx killed xReDAiMx by MOD_SUICIDE
+[Tue May 06 12:42:51 2014]  Kill: 0 1 3: Eliminator2467 killed xReDAiMx by MOD_SABER
+[Tue May 06 12:42:57 2014]  ClientDisconnect: 1
+[Tue May 06 12:43:13 2014]  Kill: 1022 0 38: <world> killed Eliminator2467 by MOD_FALLING
+[Tue May 06 12:43:14 2014]  ClientDisconnect: 0
+[Tue May 06 13:10:50 2014]  Exit: Timelimit hit.
+[Tue May 06 15:59:59 2014]  ClientConnect: 0
+[Tue May 06 15:59:59 2014]  mlog:Player Padawan, connected. With IP - 83.31.101.180:29070 
+[Tue May 06 16:00:10 2014]  ClientBegin: 0
+[Tue May 06 16:00:14 2014]  ShutdownGame:
+[Tue May 06 16:00:14 2014]  ------------------------------------------------------------
+[Tue May 06 16:00:15 2014]  ------------------------------------------------------------
+[Tue May 06 16:00:15 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue May 06 16:00:17 2014]  ClientConnect: 0
+[Tue May 06 16:00:28 2014]  ClientDisconnect: 0
+[Tue May 06 17:15:24 2014]  ClientConnect: 0
+[Tue May 06 17:15:24 2014]  mlog:Player Bokser*, connected. With IP - 78.106.151.131:29070 
+[Tue May 06 17:15:25 2014]  ClientConnect: 1
+[Tue May 06 17:15:25 2014]  mlog:Player Lord_Rain, connected. With IP - 176.215.221.72:29070 
+[Tue May 06 17:15:46 2014]  ClientBegin: 0
+[Tue May 06 17:15:51 2014]  ClientBegin: 1
+[Tue May 06 17:18:43 2014]  Kill: 1 0 3: Rainsss killed Padawan by MOD_SABER
+[Tue May 06 17:19:07 2014]  Kill: 1 0 3: Rainsss killed Padawan by MOD_SABER
+[Tue May 06 17:20:00 2014]  Kill: 0 1 3: Padawan killed Rainsss by MOD_SABER
+[Tue May 06 17:21:55 2014]  Kill: 0 1 3: Padawan killed Rainsss by MOD_SABER
+[Tue May 06 17:22:14 2014]  Kill: 1 0 3: Rainsss killed Padawan by MOD_SABER
+[Tue May 06 17:22:43 2014]  Kill: 0 1 3: Padawan killed Rainsss by MOD_SABER
+[Tue May 06 17:23:00 2014]  Kill: 1 0 3: Rainsss killed Padawan by MOD_SABER
+[Tue May 06 17:23:07 2014]  ClientDisconnect: 1
+[Tue May 06 17:23:16 2014]  ClientDisconnect: 0
+[Tue May 06 18:00:14 2014]  Exit: Timelimit hit.
+[Tue May 06 19:59:40 2014]  ClientConnect: 0
+[Tue May 06 19:59:40 2014]  mlog:Player Padawan, connected. With IP - 62.143.159.161:29070 
+[Tue May 06 19:59:55 2014]  ClientBegin: 0
+[Tue May 06 20:00:19 2014]  ShutdownGame:
+[Tue May 06 20:00:19 2014]  ------------------------------------------------------------
+[Tue May 06 20:00:20 2014]  ------------------------------------------------------------
+[Tue May 06 20:00:20 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue May 06 20:00:21 2014]  ClientConnect: 0
+[Tue May 06 20:00:29 2014]  ClientBegin: 0
+[Tue May 06 20:00:55 2014]  ClientDisconnect: 0
+[Tue May 06 22:00:18 2014]  Exit: Timelimit hit.
+[Wed May 07 06:45:55 2014]  ClientConnect: 0
+[Wed May 07 06:45:55 2014]  mlog:Player Padawan, connected. With IP - 172.14.26.250:29070 
+[Wed May 07 06:46:22 2014]  ClientBegin: 0
+[Wed May 07 06:46:27 2014]  ShutdownGame:
+[Wed May 07 06:46:27 2014]  ------------------------------------------------------------

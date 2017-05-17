@@ -1,0 +1,36 @@
+[Tue Nov 12 16:11:49 2013]  ------------------------------------------------------------
+[Tue Nov 12 16:11:49 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Nov 12 16:11:52 2013]  ClientConnect: 0
+[Tue Nov 12 16:11:52 2013]  mlog:Player ^6Pinkie Bot^7, connected. With IP - 79.100.96.163:29074 
+[Tue Nov 12 16:11:56 2013]  ClientBegin: 0
+[Tue Nov 12 17:20:30 2013]  ClientConnect: 1
+[Tue Nov 12 17:20:30 2013]  mlog:Player ^8Amras, connected. With IP - 85.219.4.121:29070 
+[Tue Nov 12 17:23:52 2013]  ClientDisconnect: 1
+[Tue Nov 12 18:11:43 2013]  Exit: Timelimit hit.
+[Tue Nov 12 18:11:43 2013]  score: 0  ping: 61  client: 0 ^6Pinkie Bot^7
+[Tue Nov 12 19:03:00 2013]  ClientConnect: 1
+[Tue Nov 12 19:03:00 2013]  mlog:Player newcomer, connected. With IP - 37.204.192.182:29070 
+[Tue Nov 12 19:03:14 2013]  ClientBegin: 1
+[Tue Nov 12 19:03:31 2013]  ShutdownGame:
+[Tue Nov 12 19:03:31 2013]  ------------------------------------------------------------
+[Tue Nov 12 19:03:31 2013]  ------------------------------------------------------------
+[Tue Nov 12 19:03:31 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Nov 12 19:03:32 2013]  ClientConnect: 0
+[Tue Nov 12 19:03:32 2013]  ClientConnect: 1
+[Tue Nov 12 19:03:35 2013]  ClientBegin: 0
+[Tue Nov 12 19:03:42 2013]  ClientBegin: 1
+[Tue Nov 12 19:03:49 2013]  Item: 1 weapon_melee
+[Tue Nov 12 19:07:00 2013]  ClientDisconnect: 1
+[Tue Nov 12 20:07:33 2013]  ClientConnect: 1
+[Tue Nov 12 20:07:33 2013]  mlog:Player ^8-<EF>- ^7Darth ^7Amras, connected. With IP - 85.219.4.121:29070 
+[Tue Nov 12 20:07:49 2013]  ClientBegin: 1
+[Tue Nov 12 20:08:02 2013]  say: ^0-<EF>- ^7Darth ^7Amras: hola hi
+[Tue Nov 12 20:11:06 2013]  Kill: 1 0 3: ^0-<EF>- ^7Darth ^7Amras killed ^6Pinkie Bot^7 by MOD_SABER
+[Tue Nov 12 20:15:08 2013]  ClientDisconnect: 1
+[Tue Nov 12 21:03:31 2013]  Exit: Timelimit hit.
+[Tue Nov 12 21:03:31 2013]  score: 0  ping: 87  client: 0 ^6Pinkie Bot^7
+[Wed Nov 13 10:10:32 2013]  ClientConnect: 1
+[Wed Nov 13 10:10:32 2013]  mlog:Player best, connected. With IP - 109.172.59.110:29070 
+[Wed Nov 13 10:10:53 2013]  ClientBegin: 1
+[Wed Nov 13 10:11:27 2013]  ShutdownGame:
+[Wed Nov 13 10:11:27 2013]  ------------------------------------------------------------

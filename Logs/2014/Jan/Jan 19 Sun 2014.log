@@ -1,0 +1,344 @@
+[Sun Jan 19 05:12:15 2014]  ------------------------------------------------------------
+[Sun Jan 19 05:12:15 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jan 19 05:12:17 2014]  ClientConnect: 0
+[Sun Jan 19 05:12:47 2014]  ClientBegin: 0
+[Sun Jan 19 05:13:56 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Sun Jan 19 05:13:56 2014]  setteam:  0 FREE SPECTATOR
+[Sun Jan 19 05:13:56 2014]  ClientBegin: 0
+[Sun Jan 19 05:14:02 2014]  setteam:  0 SPECTATOR FREE
+[Sun Jan 19 05:14:02 2014]  ClientBegin: 0
+[Sun Jan 19 05:14:03 2014]  say: Matthew: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Sun Jan 19 05:16:25 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Sun Jan 19 05:16:25 2014]  setteam:  0 FREE SPECTATOR
+[Sun Jan 19 05:16:25 2014]  ClientBegin: 0
+[Sun Jan 19 05:16:42 2014]  setteam:  0 SPECTATOR FREE
+[Sun Jan 19 05:16:42 2014]  ClientBegin: 0
+[Sun Jan 19 05:16:43 2014]  say: Matthew: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Sun Jan 19 05:17:49 2014]  ClientDisconnect: 0
+[Sun Jan 19 05:54:42 2014]  ClientConnect: 0
+[Sun Jan 19 05:54:42 2014]  mlog:Player Tron, connected. With IP - 99.54.55.156:29070 
+[Sun Jan 19 05:56:08 2014]  ClientConnect: 1
+[Sun Jan 19 05:56:08 2014]  mlog:Player Padawan, connected. With IP - 99.177.180.151:29070 
+[Sun Jan 19 05:56:29 2014]  ClientBegin: 1
+[Sun Jan 19 05:58:34 2014]  ClientConnect: 2
+[Sun Jan 19 05:58:34 2014]  mlog:Player Antrephel, connected. With IP - 24.15.35.39:29070 
+[Sun Jan 19 05:58:47 2014]  ClientDisconnect: 0
+[Sun Jan 19 05:59:02 2014]  ClientDisconnect: 1
+[Sun Jan 19 05:59:12 2014]  ClientDisconnect: 2
+[Sun Jan 19 06:58:58 2014]  ClientConnect: 0
+[Sun Jan 19 06:58:58 2014]  mlog:Player Padawan, connected. With IP - 77.51.65.97:29070 
+[Sun Jan 19 06:59:08 2014]  ClientBegin: 0
+[Sun Jan 19 06:59:43 2014]  say: Padawan: allow npc
+[Sun Jan 19 07:00:07 2014]  say: Padawan: npc spawn rtusken
+[Sun Jan 19 07:00:18 2014]  say: Padawan: npc spawn tusken
+[Sun Jan 19 07:00:26 2014]  ClientDisconnect: 0
+[Sun Jan 19 07:12:14 2014]  Exit: Timelimit hit.
+[Sun Jan 19 09:44:11 2014]  ClientConnect: 0
+[Sun Jan 19 09:44:11 2014]  mlog:Player ^5ILYA^2DARK, connected. With IP - 178.64.151.141:18197 
+[Sun Jan 19 09:44:30 2014]  ClientBegin: 0
+[Sun Jan 19 09:44:34 2014]  ShutdownGame:
+[Sun Jan 19 09:44:34 2014]  ------------------------------------------------------------
+[Sun Jan 19 09:44:34 2014]  ------------------------------------------------------------
+[Sun Jan 19 09:44:34 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jan 19 09:44:35 2014]  ClientConnect: 0
+[Sun Jan 19 09:44:47 2014]  ClientBegin: 0
+[Sun Jan 19 09:48:23 2014]  Kill: 1022 0 39: <world> killed Padawan by MOD_SUICIDE
+[Sun Jan 19 09:49:14 2014]  ClientDisconnect: 0
+[Sun Jan 19 11:44:33 2014]  Exit: Timelimit hit.
+[Sun Jan 19 19:22:30 2014]  ClientConnect: 0
+[Sun Jan 19 19:22:30 2014]  mlog:Player Darth Fisher, connected. With IP - 92.75.172.163:29070 
+[Sun Jan 19 19:22:39 2014]  ClientBegin: 0
+[Sun Jan 19 19:22:46 2014]  ClientDisconnect: 0
+[Sun Jan 19 19:52:28 2014]  ClientConnect: 0
+[Sun Jan 19 19:52:28 2014]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sun Jan 19 19:52:51 2014]  ClientBegin: 0
+[Sun Jan 19 19:55:00 2014]  ClientConnect: 1
+[Sun Jan 19 19:55:00 2014]  mlog:Player ^0Kirito, connected. With IP - 91.240.103.119:29070 
+[Sun Jan 19 19:55:43 2014]  ClientBegin: 1
+[Sun Jan 19 19:56:11 2014]  ShutdownGame:
+[Sun Jan 19 19:56:11 2014]  ------------------------------------------------------------
+[Sun Jan 19 19:56:12 2014]  ------------------------------------------------------------
+[Sun Jan 19 19:56:12 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jan 19 19:56:14 2014]  ClientConnect: 0
+[Sun Jan 19 19:56:14 2014]  ClientConnect: 1
+[Sun Jan 19 19:56:33 2014]  ClientBegin: 0
+[Sun Jan 19 19:56:41 2014]  ClientBegin: 1
+[Sun Jan 19 19:57:02 2014]  say: ^0Ramz: ^0Battle ^4Sorcerer ^0V^42 by ^0D^3arth ^0F^3urious
+[Sun Jan 19 19:58:14 2014]  Item: 1 weapon_melee
+[Sun Jan 19 19:58:14 2014]  say: ^0Ramz: ^0God ^1Power ^0By ^1PeaceMaker
+[Sun Jan 19 19:59:53 2014]  ClientConnect: 2
+[Sun Jan 19 19:59:53 2014]  mlog:Player ^0I^7nterstellar, connected. With IP - 109.11.241.134:29070 
+[Sun Jan 19 20:00:09 2014]  ClientBegin: 2
+[Sun Jan 19 20:00:18 2014]  say: ^0Ramz: õàé
+[Sun Jan 19 20:01:59 2014]  Kill: 1 0 3: ^0Ramz killed ^0ÐàrkQµàkè by MOD_SABER
+[Sun Jan 19 20:02:10 2014]  Kill: 1 2 3: ^0Ramz killed ^0I^7nterstellar by MOD_SABER
+[Sun Jan 19 20:02:16 2014]  say: ^0Ramz: ñîðè
+[Sun Jan 19 20:04:55 2014]  Item: 2 item_cloak
+[Sun Jan 19 20:04:55 2014]  say: ^0Ramz: õàé
+[Sun Jan 19 20:05:07 2014]  Kill: 1 0 3: ^0Ramz killed ^0ÐàrkQµàkè by MOD_SABER
+[Sun Jan 19 20:06:30 2014]  say: ^0Ramz: òû ðóññêèé?
+[Sun Jan 19 20:06:35 2014]  say: ^0I^7nterstellar: english
+[Sun Jan 19 20:08:26 2014]  Kill: 1022 0 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 20:09:44 2014]  Kill: 1022 0 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 20:10:35 2014]  say: ^0Ramz: ^0Battle ^4Sorcerer ^0V^42 by ^0D^3arth ^0F^3urious
+[Sun Jan 19 20:11:52 2014]  ClientDisconnect: 2
+[Sun Jan 19 20:14:49 2014]  Kill: 1022 0 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 20:18:58 2014]  ClientDisconnect: 1
+[Sun Jan 19 21:28:32 2014]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 21:32:51 2014]  Kill: 1022 0 38: <world> killed ^0ÐàrkQµàkè by MOD_FALLING
+[Sun Jan 19 21:33:02 2014]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 21:44:34 2014]  ClientConnect: 1
+[Sun Jan 19 21:44:34 2014]  mlog:Player InnocentMan, connected. With IP - 78.41.5.73:-2674 
+[Sun Jan 19 21:48:00 2014]  ClientDisconnect: 1
+[Sun Jan 19 21:57:30 2014]  ClientDisconnect: 0
+[Sun Jan 19 21:57:30 2014]  ClientConnect: 0
+[Sun Jan 19 21:57:30 2014]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sun Jan 19 21:57:57 2014]  ClientBegin: 0
+[Sun Jan 19 22:00:31 2014]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 22:00:38 2014]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 22:48:38 2014]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 22:48:48 2014]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 22:50:01 2014]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 22:50:43 2014]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 22:55:53 2014]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 23:11:02 2014]  ClientConnect: 1
+[Sun Jan 19 23:11:02 2014]  mlog:Player pada, connected. With IP - 93.215.92.77:29070 
+[Sun Jan 19 23:11:14 2014]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 23:11:20 2014]  ClientBegin: 1
+[Sun Jan 19 23:11:35 2014]  print "padawan^7 @@@PLRENAME ^0G^7µ^0n^7ba^0i
+"[Sun Jan 19 23:11:36 2014]  say: ^0G^7µ^0n^7ba^0i: Hi
+[Sun Jan 19 23:11:39 2014]  say: ^0ÐàrkQµàkè: Hi :)
+[Sun Jan 19 23:12:03 2014]  Item: 1 item_shield
+[Sun Jan 19 23:12:07 2014]  Item: 1 item_shield
+[Sun Jan 19 23:12:07 2014]  Item: 1 item_shield
+[Sun Jan 19 23:12:07 2014]  Item: 1 item_shield
+[Sun Jan 19 23:12:07 2014]  Item: 1 item_shield
+[Sun Jan 19 23:12:08 2014]  Item: 1 item_shield
+[Sun Jan 19 23:12:08 2014]  Item: 1 item_shield
+[Sun Jan 19 23:12:08 2014]  Item: 1 item_shield
+[Sun Jan 19 23:12:08 2014]  Item: 1 item_shield
+[Sun Jan 19 23:12:08 2014]  Item: 1 item_shield
+[Sun Jan 19 23:12:38 2014]  say: ^0G^7µ^0n^7ba^0i: (:
+[Sun Jan 19 23:12:40 2014]  say: ^0ÐàrkQµàkè: :)
+[Sun Jan 19 23:12:48 2014]  say: ^0ÐàrkQµàkè: I'm working on Element Script Version 3 :D
+[Sun Jan 19 23:12:49 2014]  say: ^0G^7µ^0n^7ba^0i: Long time till i played last time makermod o.o
+[Sun Jan 19 23:12:52 2014]  say: ^0G^7µ^0n^7ba^0i: Cool :)
+[Sun Jan 19 23:12:53 2014]  say: ^0ÐàrkQµàkè: Yeah same
+[Sun Jan 19 23:12:56 2014]  say: ^0G^7µ^0n^7ba^0i: I missed all the scripting :P
+[Sun Jan 19 23:13:01 2014]  say: ^0ÐàrkQµàkè: Been ages since I released version 2
+[Sun Jan 19 23:13:07 2014]  say: ^0G^7µ^0n^7ba^0i: Hmm
+[Sun Jan 19 23:13:15 2014]  say: ^0G^7µ^0n^7ba^0i: What was ur name in old times?
+[Sun Jan 19 23:13:19 2014]  say: ^0ÐàrkQµàkè: Yeah well not much has improved lol, but a thing called makermodule was released
+[Sun Jan 19 23:13:23 2014]  say: ^0ÐàrkQµàkè: this is it :p Darkquake
+[Sun Jan 19 23:13:25 2014]  say: ^0G^7µ^0n^7ba^0i: Oh :D
+[Sun Jan 19 23:13:31 2014]  say: ^0G^7µ^0n^7ba^0i: I guess i remember that name :D
+[Sun Jan 19 23:13:32 2014]  say: ^0ÐàrkQµàkè: Makermodule's pretty sweet :)
+[Sun Jan 19 23:13:35 2014]  say: ^0ÐàrkQµàkè: cool :D
+[Sun Jan 19 23:13:39 2014]  say: ^0G^7µ^0n^7ba^0i: My name was Cook!e xD
+[Sun Jan 19 23:13:53 2014]  say: ^0ÐàrkQµàkè: Cool, kinda rings a bell :p But yeah you can mark where you're looking now :)
+[Sun Jan 19 23:14:01 2014]  say: ^0G^7µ^0n^7ba^0i: Heh yes :D
+[Sun Jan 19 23:14:06 2014]  say: ^0ÐàrkQµàkè: So that gave me the idea for this stuff :)
+[Sun Jan 19 23:14:12 2014]  say: ^0G^7µ^0n^7ba^0i: Nice!
+[Sun Jan 19 23:14:14 2014]  say: ^0G^7µ^0n^7ba^0i: Damn
+[Sun Jan 19 23:14:16 2014]  say: ^0ÐàrkQµàkè: :D
+[Sun Jan 19 23:14:20 2014]  say: ^0ÐàrkQµàkè: Yep no more marm 500
+[Sun Jan 19 23:14:23 2014]  say: ^0ÐàrkQµàkè: it's just markt
+[Sun Jan 19 23:14:28 2014]  say: ^0G^7µ^0n^7ba^0i: A Mod is killing all the anims.. ill beb ack when i fixed it :) See ya!
+[Sun Jan 19 23:14:34 2014]  ClientDisconnect: 1
+[Sun Jan 19 23:15:09 2014]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 23:15:16 2014]  ClientConnect: 1
+[Sun Jan 19 23:15:16 2014]  mlog:Player pada, connected. With IP - 93.215.92.77:29070 
+[Sun Jan 19 23:15:31 2014]  ClientBegin: 1
+[Sun Jan 19 23:15:37 2014]  say: ^0G^7µ^0n^7ba^0i: Ah finnaly fixed :D
+[Sun Jan 19 23:15:42 2014]  say: ^0ÐàrkQµàkè: Great :D
+[Sun Jan 19 23:15:50 2014]  say: ^0ÐàrkQµàkè: Have you checked out my website? :)
+[Sun Jan 19 23:16:04 2014]  say: ^0G^7µ^0n^7ba^0i: uhh not yet :)
+[Sun Jan 19 23:16:09 2014]  say: ^0ÐàrkQµàkè: I put a trailer up there for this script, it uses the mouse now :D
+[Sun Jan 19 23:16:15 2014]  say: ^0ÐàrkQµàkè: YOu right click to teleport etc
+[Sun Jan 19 23:16:22 2014]  say: ^0G^7µ^0n^7ba^0i: cool :)
+[Sun Jan 19 23:16:33 2014]  say: ^0ÐàrkQµàkè: And middle click reverts the binds back to normal :D
+[Sun Jan 19 23:16:42 2014]  say: ^0G^7µ^0n^7ba^0i: cool :)
+[Sun Jan 19 23:17:01 2014]  say: ^0ÐàrkQµàkè: Yeah :D I can't wait to release this! So many ideas though and I don't spend as much time on here as I used to lol
+[Sun Jan 19 23:17:15 2014]  say: ^0ÐàrkQµàkè: I do always make minor changes to my website though :)
+[Sun Jan 19 23:17:18 2014]  say: ^0G^7µ^0n^7ba^0i: Hah yes :) I hope makermod will be more popular with the next time :)
+[Sun Jan 19 23:17:36 2014]  say: ^0ÐàrkQµàkè: Yeah I'm so glad people are still playing this! I hope it never dies lol
+[Sun Jan 19 23:17:40 2014]  say: ^0G^7µ^0n^7ba^0i: Yeah :D
+[Sun Jan 19 23:17:51 2014]  say: ^0ÐàrkQµàkè: Once people see Element Script Version 3 they'll go crazy ^^
+[Sun Jan 19 23:17:54 2014]  say: ^0G^7µ^0n^7ba^0i: Yeah :D
+[Sun Jan 19 23:17:57 2014]  say: ^0ÐàrkQµàkè: Cause Version 2 was a big hit :D
+[Sun Jan 19 23:18:07 2014]  say: ^0G^7µ^0n^7ba^0i: Yesterday there were 2 new guys on makermod.. they died when they saw my script xD
+[Sun Jan 19 23:18:14 2014]  say: ^0ÐàrkQµàkè: hahaha :p
+[Sun Jan 19 23:18:17 2014]  Item: 1 item_shield
+[Sun Jan 19 23:18:17 2014]  Item: 1 item_shield
+[Sun Jan 19 23:18:17 2014]  Item: 1 item_shield
+[Sun Jan 19 23:18:17 2014]  Item: 1 item_shield
+[Sun Jan 19 23:18:17 2014]  Item: 1 item_shield
+[Sun Jan 19 23:18:17 2014]  Item: 1 item_shield
+[Sun Jan 19 23:18:20 2014]  say: ^0G^7µ^0n^7ba^0i: lel
+[Sun Jan 19 23:18:26 2014]  say: ^0ÐàrkQµàkè: nice :)
+[Sun Jan 19 23:18:29 2014]  say: ^0G^7µ^0n^7ba^0i: ty :)
+[Sun Jan 19 23:18:30 2014]  Item: 1 item_shield
+[Sun Jan 19 23:18:32 2014]  Item: 1 item_shield
+[Sun Jan 19 23:18:32 2014]  Item: 1 item_shield
+[Sun Jan 19 23:18:32 2014]  Item: 1 item_shield
+[Sun Jan 19 23:18:32 2014]  Item: 1 item_shield
+[Sun Jan 19 23:18:33 2014]  Item: 1 item_shield
+[Sun Jan 19 23:18:34 2014]  Item: 1 item_shield
+[Sun Jan 19 23:18:40 2014]  say: ^0ÐàrkQµàkè: This reminds me of Jedi Outcast haha
+[Sun Jan 19 23:18:45 2014]  say: ^0G^7µ^0n^7ba^0i: haha :D yes
+[Sun Jan 19 23:18:58 2014]  say: ^0ÐàrkQµàkè: Just place forcefield, give all, repeat haha
+[Sun Jan 19 23:19:02 2014]  say: ^0G^7µ^0n^7ba^0i: haha :D
+[Sun Jan 19 23:19:30 2014]  say: ^0G^7µ^0n^7ba^0i: all my scripts gone :/ gotta make new powers :P
+[Sun Jan 19 23:19:47 2014]  say: ^0ÐàrkQµàkè: Damn :p I recovered most cause I left them on my website
+[Sun Jan 19 23:19:55 2014]  say: ^0G^7µ^0n^7ba^0i: Last year we did a big Element Script Tournament :D It was awesome.. and i miss those times :s
+[Sun Jan 19 23:19:57 2014]  say: ^0ÐàrkQµàkè: But I lost some like a cool motorbike script and things
+[Sun Jan 19 23:20:04 2014]  say: ^0G^7µ^0n^7ba^0i: oh
+[Sun Jan 19 23:20:08 2014]  say: ^0ÐàrkQµàkè: haha great! :D
+[Sun Jan 19 23:20:16 2014]  say: ^0ÐàrkQµàkè: Yeah I used to love making building scripts
+[Sun Jan 19 23:20:23 2014]  say: ^0ÐàrkQµàkè: so after EV3 gets done I'll return to those :)
+[Sun Jan 19 23:20:27 2014]  say: ^0G^7µ^0n^7ba^0i: Ahh :D
+[Sun Jan 19 23:20:34 2014]  say: ^0ÐàrkQµàkè: Check out this new feature btw :)
+[Sun Jan 19 23:20:42 2014]  say: ^0ÐàrkQµàkè: I made it so you press END to toggle teleport modes
+[Sun Jan 19 23:20:50 2014]  say: ^0ÐàrkQµàkè: This mode leaves teleporters behind for you
+[Sun Jan 19 23:20:56 2014]  say: ^0ÐàrkQµàkè: 1 sec
+[Sun Jan 19 23:21:08 2014]  say: ^0ÐàrkQµàkè: :)
+[Sun Jan 19 23:21:10 2014]  say: ^0G^7µ^0n^7ba^0i: ah cool so i can follow u :)
+[Sun Jan 19 23:21:14 2014]  say: ^0ÐàrkQµàkè: Yeah :D
+[Sun Jan 19 23:21:23 2014]  say: ^0ÐàrkQµàkè: it's great to show people places :D Loads of possibilities
+[Sun Jan 19 23:21:28 2014]  say: ^0G^7µ^0n^7ba^0i: yeah :)
+[Sun Jan 19 23:21:29 2014]  say: ^0ÐàrkQµàkè: like going across the canyon here :)
+[Sun Jan 19 23:21:37 2014]  say: ^0G^7µ^0n^7ba^0i: Is this server 24/7 online?
+[Sun Jan 19 23:21:52 2014]  say: ^0ÐàrkQµàkè: I try haha, it just runs on my main computer I'm on now
+[Sun Jan 19 23:21:56 2014]  say: ^0ÐàrkQµàkè: and I rarely restart
+[Sun Jan 19 23:21:57 2014]  say: ^0G^7µ^0n^7ba^0i: Ahh ok :D
+[Sun Jan 19 23:22:52 2014]  say: ^0ÐàrkQµàkè: so yeah, now I can press END again
+[Sun Jan 19 23:22:56 2014]  say: ^0ÐàrkQµàkè: and go back to normal :)
+[Sun Jan 19 23:23:02 2014]  say: ^0G^7µ^0n^7ba^0i: cool
+[Sun Jan 19 23:23:13 2014]  say: ^0G^7µ^0n^7ba^0i: ill check my base folder if there are any scripts left :P
+[Sun Jan 19 23:23:20 2014]  say: ^0ÐàrkQµàkè: and I love using the mouse :D It's such an awesome idea I had :)
+[Sun Jan 19 23:23:30 2014]  say: ^0ÐàrkQµàkè: Don't steal please haha I wanna blow people away with it
+[Sun Jan 19 23:23:39 2014]  say: ^0G^7µ^0n^7ba^0i: I wont :) 
+[Sun Jan 19 23:24:00 2014]  say: ^0ÐàrkQµàkè: :) So have you got any scripts?
+[Sun Jan 19 23:24:06 2014]  say: ^0G^7µ^0n^7ba^0i: Only script that left is the asteroid :( damn
+[Sun Jan 19 23:24:22 2014]  say: ^0ÐàrkQµàkè: Oh, well you're welcome to download all of mine from my site :)
+[Sun Jan 19 23:24:31 2014]  say: ^0ÐàrkQµàkè: ^6AIR-TAXI SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sun Jan 19 23:24:32 2014]  say: ^0G^7µ^0n^7ba^0i: Thanks :) Ill recreate some first :)
+[Sun Jan 19 23:24:34 2014]  say: ^0ÐàrkQµàkè: things like this
+[Sun Jan 19 23:24:43 2014]  say: ^0G^7µ^0n^7ba^0i: I remember this ! And i remember u when i see ur tag :D
+[Sun Jan 19 23:24:49 2014]  say: ^0ÐàrkQµàkè: haha ^^
+[Sun Jan 19 23:24:52 2014]  say: ^0ÐàrkQµàkè: Awesome :D
+[Sun Jan 19 23:24:54 2014]  say: ^0G^7µ^0n^7ba^0i: This is this hyperspace thingy true?
+[Sun Jan 19 23:25:05 2014]  say: ^0ÐàrkQµàkè: I used to know the hyperspace coordinates haha
+[Sun Jan 19 23:25:09 2014]  say: ^0G^7µ^0n^7ba^0i: yeah :D
+[Sun Jan 19 23:25:11 2014]  say: ^0ÐàrkQµàkè: it's another thing on my to-do list
+[Sun Jan 19 23:25:16 2014]  say: ^0ÐàrkQµàkè: cause yeah involves some maths ^^
+[Sun Jan 19 23:25:20 2014]  say: ^0G^7µ^0n^7ba^0i: yeah :D
+[Sun Jan 19 23:25:27 2014]  say: ^0ÐàrkQµàkè: remember my house? :)
+[Sun Jan 19 23:25:30 2014]  say: ^0ÐàrkQµàkè: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Sun Jan 19 23:25:32 2014]  say: ^0G^7µ^0n^7ba^0i: show :D
+[Sun Jan 19 23:25:35 2014]  say: ^0ÐàrkQµàkè: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Sun Jan 19 23:25:37 2014]  say: ^0G^7µ^0n^7ba^0i: yes i do :D
+[Sun Jan 19 23:25:45 2014]  say: ^0ÐàrkQµàkè: great times :)
+[Sun Jan 19 23:25:49 2014]  say: ^0G^7µ^0n^7ba^0i: Oh yes!
+[Sun Jan 19 23:25:49 2014]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Jan 19 23:25:51 2014]  say: ^0G^7µ^0n^7ba^0i: lol
+[Sun Jan 19 23:25:55 2014]  say: ^0ÐàrkQµàkè: haha
+[Sun Jan 19 23:26:10 2014]  say: ^0ÐàrkQµàkè: I was pretty clever with this actually
+[Sun Jan 19 23:26:15 2014]  say: ^0ÐàrkQµàkè: getting all the laser parts in
+[Sun Jan 19 23:26:23 2014]  say: ^0ÐàrkQµàkè: before the fancy wip commands came out
+[Sun Jan 19 23:26:26 2014]  say: ^0G^7µ^0n^7ba^0i: yes :D
+[Sun Jan 19 23:26:55 2014]  say: ^0ÐàrkQµàkè: Alright well I was gonna stop now actually and head into SWTOR :D
+[Sun Jan 19 23:27:05 2014]  say: ^0G^7µ^0n^7ba^0i: Oh okay :D
+[Sun Jan 19 23:27:06 2014]  say: ^0ÐàrkQµàkè: I've reached my milestone, added those new things to my script :)
+[Sun Jan 19 23:27:12 2014]  say: ^0ÐàrkQµàkè: but yeah check out my site!
+[Sun Jan 19 23:27:21 2014]  say: ^0ÐàrkQµàkè: My email's here too if you wanna contact me :)
+[Sun Jan 19 23:27:25 2014]  say: ^0G^7µ^0n^7ba^0i: ok
+[Sun Jan 19 23:27:35 2014]  say: ^0ÐàrkQµàkè: this one :)
+[Sun Jan 19 23:27:50 2014]  say: ^0ÐàrkQµàkè: this switch shows my site and email
+[Sun Jan 19 23:27:58 2014]  say: ^0G^7µ^0n^7ba^0i: ahh :)
+[Sun Jan 19 23:28:01 2014]  say: ^0ÐàrkQµàkè: :D
+[Sun Jan 19 23:28:15 2014]  say: ^0ÐàrkQµàkè: It's not intuitive really haha, I wondered if people would actually approach these switches :p
+[Sun Jan 19 23:28:21 2014]  say: ^0G^7µ^0n^7ba^0i: heh :D
+[Sun Jan 19 23:28:22 2014]  say: ^0ÐàrkQµàkè: I still have it in the motd etc though
+[Sun Jan 19 23:28:48 2014]  say: ^0G^7µ^0n^7ba^0i: hm
+[Sun Jan 19 23:28:56 2014]  say: ^0ÐàrkQµàkè: anyway yeah check out my site, it's got a word of the day feature too haha which ranks it highest in Google :D If you search  Darkquake  I'm at the t
+[Sun Jan 19 23:29:04 2014]  say: ^0ÐàrkQµàkè: Darkquake I'm at the top :)
+[Sun Jan 19 23:29:09 2014]  say: ^0G^7µ^0n^7ba^0i: ok :]
+[Sun Jan 19 23:29:33 2014]  say: ^0ÐàrkQµàkè: alright well yeah I'm gonna go, but I'm leaving up my server for a long time lol
+[Sun Jan 19 23:29:43 2014]  say: ^0G^7µ^0n^7ba^0i: Very good :D So i cant finnish some scripts :)
+[Sun Jan 19 23:29:56 2014]  say: ^0ÐàrkQµàkè: Maybe I'll get it running on another comp that's definitely up 24/7, cause I do need to restart sometimes
+[Sun Jan 19 23:30:03 2014]  say: ^0ÐàrkQµàkè: But this server runs on startup :)
+[Sun Jan 19 23:30:09 2014]  say: ^0ÐàrkQµàkè: So it's only like 5 mins downtime
+[Sun Jan 19 23:30:13 2014]  say: ^0G^7µ^0n^7ba^0i: okay :)
+[Sun Jan 19 23:30:36 2014]  Exit: Timelimit hit.
+[Sun Jan 19 23:30:36 2014]  score: 0  ping: 50  client: 1 ^0G^7µ^0n^7ba^0i
+[Sun Jan 19 23:30:36 2014]  score: -10  ping: 0  client: 0 ^0ÐàrkQµàkè
+[Sun Jan 19 23:30:41 2014]  say: ^0ÐàrkQµàkè: Lol sry :p
+[Sun Jan 19 23:30:43 2014]  say: ^0ÐàrkQµàkè: cya l8r!
+[Sun Jan 19 23:30:43 2014]  say: ^0G^7µ^0n^7ba^0i: np :D
+[Sun Jan 19 23:30:45 2014]  say: ^0G^7µ^0n^7ba^0i: bye
+[Sun Jan 19 23:30:47 2014]  ShutdownGame:
+[Sun Jan 19 23:30:47 2014]  ------------------------------------------------------------
+[Sun Jan 19 23:30:48 2014]  ------------------------------------------------------------
+[Sun Jan 19 23:30:48 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jan 19 23:30:49 2014]  ClientConnect: 0
+[Sun Jan 19 23:30:49 2014]  ClientConnect: 1
+[Sun Jan 19 23:30:57 2014]  ClientBegin: 1
+[Sun Jan 19 23:34:11 2014]  ClientDisconnect: 0
+[Sun Jan 19 23:42:22 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:27 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:31 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:32 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:40 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:40 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:41 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:53 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:55 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:55 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:55 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:55 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:56 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:56 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:56 2014]  Item: 1 item_shield
+[Sun Jan 19 23:42:56 2014]  Item: 1 item_shield
+[Sun Jan 19 23:43:09 2014]  Item: 1 item_shield
+[Sun Jan 19 23:43:10 2014]  Item: 1 item_shield
+[Sun Jan 19 23:43:38 2014]  Item: 1 item_shield
+[Sun Jan 19 23:44:52 2014]  ClientDisconnect: 1
+[Mon Jan 20 00:35:33 2014]  ClientConnect: 0
+[Mon Jan 20 00:35:33 2014]  mlog:Player Matthew, connected. With IP - 174.126.79.124:29070 
+[Mon Jan 20 00:36:11 2014]  ClientBegin: 0
+[Mon Jan 20 00:43:01 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Mon Jan 20 00:43:01 2014]  setteam:  0 FREE SPECTATOR
+[Mon Jan 20 00:43:01 2014]  ClientBegin: 0
+[Mon Jan 20 00:43:08 2014]  setteam:  0 SPECTATOR FREE
+[Mon Jan 20 00:43:08 2014]  ClientBegin: 0
+[Mon Jan 20 00:43:08 2014]  say: Matthew: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Mon Jan 20 00:44:55 2014]  Kill: 1022 0 38: <world> killed Matthew by MOD_FALLING
+[Mon Jan 20 00:47:02 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Mon Jan 20 00:47:02 2014]  setteam:  0 FREE SPECTATOR
+[Mon Jan 20 00:47:02 2014]  ClientBegin: 0
+[Mon Jan 20 00:47:10 2014]  setteam:  0 SPECTATOR SPECTATOR
+[Mon Jan 20 00:47:10 2014]  ClientBegin: 0
+[Mon Jan 20 00:47:16 2014]  setteam:  0 SPECTATOR FREE
+[Mon Jan 20 00:47:16 2014]  ClientBegin: 0
+[Mon Jan 20 00:47:17 2014]  say: Matthew: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Mon Jan 20 00:57:51 2014]  Kill: 1022 0 39: <world> killed Matthew by MOD_SUICIDE
+[Mon Jan 20 00:58:36 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Mon Jan 20 00:58:36 2014]  setteam:  0 FREE SPECTATOR
+[Mon Jan 20 00:58:36 2014]  ClientBegin: 0
+[Mon Jan 20 00:58:42 2014]  setteam:  0 SPECTATOR SPECTATOR
+[Mon Jan 20 00:58:42 2014]  ClientBegin: 0
+[Mon Jan 20 00:58:48 2014]  setteam:  0 SPECTATOR SPECTATOR
+[Mon Jan 20 00:58:48 2014]  ClientBegin: 0
+[Mon Jan 20 00:58:53 2014]  setteam:  0 SPECTATOR FREE
+[Mon Jan 20 00:58:53 2014]  ClientBegin: 0
+[Mon Jan 20 00:58:54 2014]  say: Matthew: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Mon Jan 20 01:00:14 2014]  Kill: 1022 0 39: <world> killed Matthew by MOD_SUICIDE
+[Mon Jan 20 01:00:15 2014]  ClientDisconnect: 0
+[Mon Jan 20 01:30:47 2014]  Exit: Timelimit hit.
+[Mon Jan 20 16:22:50 2014]  ClientConnect: 0
+[Mon Jan 20 16:22:50 2014]  mlog:Player Padawan, connected. With IP - 78.80.100.24:23772 
+[Mon Jan 20 16:23:35 2014]  ClientBegin: 0
+[Mon Jan 20 16:23:38 2014]  ShutdownGame:
+[Mon Jan 20 16:23:38 2014]  ------------------------------------------------------------

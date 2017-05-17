@@ -1,0 +1,48 @@
+[Fri Nov 01 12:31:16 2013]  ------------------------------------------------------------
+[Fri Nov 01 12:31:16 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Nov 01 12:31:18 2013]  ClientConnect: 0
+[Fri Nov 01 12:31:18 2013]  mlog:Player ^6Pinkie Bot^7, connected. With IP - 79.100.96.163:29072 
+[Fri Nov 01 12:31:23 2013]  ClientBegin: 0
+[Fri Nov 01 13:18:41 2013]  ClientConnect: 1
+[Fri Nov 01 13:18:41 2013]  mlog:Player Lukas, connected. With IP - 87.193.194.60:29070 
+[Fri Nov 01 13:19:05 2013]  ClientBegin: 1
+[Fri Nov 01 13:20:17 2013]  ClientDisconnect: 1
+[Fri Nov 01 14:31:10 2013]  Exit: Timelimit hit.
+[Fri Nov 01 14:31:10 2013]  score: 0  ping: 55  client: 0 ^6Pinkie Bot^7
+[Fri Nov 01 16:22:07 2013]  ClientConnect: 1
+[Fri Nov 01 16:22:07 2013]  mlog:Player Alvar007, connected. With IP - 88.22.58.139:29070 
+[Fri Nov 01 16:22:36 2013]  ClientBegin: 1
+[Fri Nov 01 16:23:32 2013]  ShutdownGame:
+[Fri Nov 01 16:23:32 2013]  ------------------------------------------------------------
+[Fri Nov 01 16:23:32 2013]  ------------------------------------------------------------
+[Fri Nov 01 16:23:32 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Nov 01 16:23:33 2013]  ClientConnect: 0
+[Fri Nov 01 16:23:33 2013]  ClientConnect: 1
+[Fri Nov 01 16:23:35 2013]  ClientBegin: 0
+[Fri Nov 01 16:23:45 2013]  Kill: 0 0 39: Alvar007 killed Alvar007 by MOD_SUICIDE
+[Fri Nov 01 16:23:45 2013]  setteam:  1 FREE SPECTATOR
+[Fri Nov 01 16:23:45 2013]  ClientBegin: 1
+[Fri Nov 01 16:23:45 2013]  ClientBegin: 1
+[Fri Nov 01 16:23:52 2013]  setteam:  1 SPECTATOR FREE
+[Fri Nov 01 16:23:53 2013]  ClientBegin: 1
+[Fri Nov 01 16:26:35 2013]  Kill: 1022 1 39: <world> killed Alvar007 by MOD_SUICIDE
+[Fri Nov 01 16:27:12 2013]  Kill: 1 0 3: Alvar007 killed ^6Pinkie Bot^7 by MOD_SABER
+[Fri Nov 01 16:29:52 2013]  ClientDisconnect: 1
+[Fri Nov 01 17:34:38 2013]  ClientConnect: 1
+[Fri Nov 01 17:34:38 2013]  mlog:Player <^0<^7[^0BlacK^7]^0>^7>, connected. With IP - 95.106.233.252:29070 
+[Fri Nov 01 17:35:04 2013]  ClientBegin: 1
+[Fri Nov 01 17:35:15 2013]  say: <^0<^7[^0BlacK^7]^0>^7>: ку-hi
+[Fri Nov 01 17:35:25 2013]  Kill: 1 1 39: <^0<^7[^0BlacK^7]^0>^7> killed <^0<^7[^0BlacK^7]^0>^7> by MOD_SUICIDE
+[Fri Nov 01 17:35:25 2013]  setteam:  1 FREE SPECTATOR
+[Fri Nov 01 17:35:25 2013]  ClientBegin: 1
+[Fri Nov 01 17:35:30 2013]  ClientDisconnect: 1
+[Fri Nov 01 18:23:31 2013]  Exit: Timelimit hit.
+[Fri Nov 01 18:23:31 2013]  score: 0  ping: 75  client: 0 ^6Pinkie Bot^7
+[Sat Nov 02 01:18:56 2013]  ClientConnect: 1
+[Sat Nov 02 01:18:56 2013]  mlog:Player ^8Steelrain, connected. With IP - 65.128.225.121:29070 
+[Sat Nov 02 01:19:01 2013]  ClientDisconnect: 1
+[Sat Nov 02 04:55:13 2013]  ClientConnect: 1
+[Sat Nov 02 04:55:13 2013]  mlog:Player Bens_192, connected. With IP - 46.174.248.17:29070 
+[Sat Nov 02 04:55:34 2013]  ClientBegin: 1
+[Sat Nov 02 04:55:54 2013]  ShutdownGame:
+[Sat Nov 02 04:55:54 2013]  ------------------------------------------------------------

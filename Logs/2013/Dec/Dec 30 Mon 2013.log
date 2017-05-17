@@ -1,0 +1,1796 @@
+[Mon Dec 30 00:43:16 2013]  ------------------------------------------------------------
+[Mon Dec 30 00:43:16 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Dec 30 00:43:18 2013]  ClientConnect: 0
+[Mon Dec 30 00:43:45 2013]  ClientBegin: 0
+[Mon Dec 30 00:43:46 2013]  say: ^1M^7r ^1Ð^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon Dec 30 00:45:11 2013]  Kill: 1022 0 38: <world> killed ^1M^7r ^1Ð^7innertime by MOD_FALLING
+[Mon Dec 30 00:50:57 2013]  Kill: 1022 0 38: <world> killed ^1M^7r ^1Ð^7innertime by MOD_FALLING
+[Mon Dec 30 00:51:21 2013]  Kill: 1022 0 38: <world> killed ^1M^7r ^1Ð^7innertime by MOD_FALLING
+[Mon Dec 30 01:13:40 2013]  Kill: 1022 0 38: <world> killed ^1M^7r ^1Ð^7innertime by MOD_FALLING
+[Mon Dec 30 01:21:21 2013]  Kill: 1022 0 38: <world> killed ^1M^7r ^1Ð^7innertime by MOD_FALLING
+[Mon Dec 30 01:34:29 2013]  ClientDisconnect: 0
+[Mon Dec 30 02:43:15 2013]  Exit: Timelimit hit.
+[Mon Dec 30 06:29:46 2013]  ClientConnect: 0
+[Mon Dec 30 06:29:46 2013]  mlog:Player ^4S^0H^4E^0T, connected. With IP - 213.251.210.11:-12802 
+[Mon Dec 30 06:30:06 2013]  ClientBegin: 0
+[Mon Dec 30 06:30:08 2013]  ShutdownGame:
+[Mon Dec 30 06:30:08 2013]  ------------------------------------------------------------
+[Mon Dec 30 06:30:09 2013]  ------------------------------------------------------------
+[Mon Dec 30 06:30:09 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Dec 30 06:30:10 2013]  ClientConnect: 0
+[Mon Dec 30 06:30:20 2013]  ClientBegin: 0
+[Mon Dec 30 06:35:23 2013]  Kill: 1022 0 6: <world> killed ^4S^0H^4E^0T by MOD_BLASTER
+[Mon Dec 30 06:37:56 2013]  Kill: 1022 0 2: <world> killed ^4S^0H^4E^0T by MOD_MELEE
+[Mon Dec 30 06:40:16 2013]  ClientDisconnect: 0
+[Mon Dec 30 08:30:08 2013]  Exit: Timelimit hit.
+[Mon Dec 30 14:46:02 2013]  ClientConnect: 0
+[Mon Dec 30 14:46:02 2013]  mlog:Player ^2Adm^3ir^1al, connected. With IP - 91.207.67.213:29070 
+[Mon Dec 30 14:46:18 2013]  ClientBegin: 0
+[Mon Dec 30 14:46:22 2013]  ShutdownGame:
+[Mon Dec 30 14:46:22 2013]  ------------------------------------------------------------
+[Mon Dec 30 14:46:24 2013]  ------------------------------------------------------------
+[Mon Dec 30 14:46:24 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Dec 30 14:46:25 2013]  ClientConnect: 0
+[Mon Dec 30 14:46:36 2013]  ClientBegin: 0
+[Mon Dec 30 14:47:13 2013]  Kill: 0 0 39: ^2Adm^3ir^1@^3l killed ^2Adm^3ir^1@^3l by MOD_SUICIDE
+[Mon Dec 30 14:47:13 2013]  setteam:  0 FREE SPECTATOR
+[Mon Dec 30 14:47:13 2013]  ClientBegin: 0
+[Mon Dec 30 14:47:19 2013]  setteam:  0 SPECTATOR FREE
+[Mon Dec 30 14:47:19 2013]  ClientBegin: 0
+[Mon Dec 30 14:48:40 2013]  ClientDisconnect: 0
+[Mon Dec 30 16:29:34 2013]  ClientConnect: 0
+[Mon Dec 30 16:29:34 2013]  mlog:Player Padawan, connected. With IP - 190.172.67.138:29070 
+[Mon Dec 30 16:32:55 2013]  ClientDisconnect: 0
+[Mon Dec 30 16:46:22 2013]  Exit: Timelimit hit.
+[Mon Dec 30 18:21:22 2013]  ClientConnect: 0
+[Mon Dec 30 18:21:22 2013]  mlog:Player Kyle Katarn, connected. With IP - 79.119.21.169:29070 
+[Mon Dec 30 18:23:11 2013]  ClientDisconnect: 0
+[Mon Dec 30 18:23:11 2013]  ClientConnect: 0
+[Mon Dec 30 18:23:11 2013]  mlog:Player Kyle Katarn, connected. With IP - 79.119.21.169:29070 
+[Mon Dec 30 18:23:14 2013]  ClientDisconnect: 0
+[Mon Dec 30 18:23:14 2013]  ClientConnect: 0
+[Mon Dec 30 18:23:14 2013]  mlog:Player Kyle Katarn, connected. With IP - 79.119.21.169:29070 
+[Mon Dec 30 18:23:18 2013]  ClientDisconnect: 0
+[Mon Dec 30 18:23:18 2013]  ClientConnect: 0
+[Mon Dec 30 18:23:18 2013]  mlog:Player Kyle Katarn, connected. With IP - 79.119.21.169:29070 
+[Mon Dec 30 18:23:34 2013]  ClientDisconnect: 0
+[Mon Dec 30 18:23:34 2013]  ClientConnect: 0
+[Mon Dec 30 18:23:34 2013]  mlog:Player Kyle Katarn, connected. With IP - 79.119.21.169:29070 
+[Mon Dec 30 18:24:17 2013]  say: Kyle Katarn: weapon 10
+[Mon Dec 30 18:24:17 2013]  say: Kyle Katarn: weapon 9
+[Mon Dec 30 18:24:17 2013]  say: Kyle Katarn: weapon 10
+[Mon Dec 30 18:24:17 2013]  ClientBegin: 0
+[Mon Dec 30 18:24:28 2013]  say: Kyle Katarn: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon Dec 30 18:24:37 2013]  ShutdownGame:
+[Mon Dec 30 18:24:37 2013]  ------------------------------------------------------------
+[Mon Dec 30 18:24:38 2013]  ------------------------------------------------------------
+[Mon Dec 30 18:24:38 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Dec 30 18:24:39 2013]  ClientConnect: 0
+[Mon Dec 30 18:24:54 2013]  ClientBegin: 0
+[Mon Dec 30 18:25:04 2013]  say: Kyle Katarn: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon Dec 30 18:25:07 2013]  ClientConnect: 1
+[Mon Dec 30 18:25:07 2013]  mlog:Player Padawan, connected. With IP - 78.80.100.24:16109 
+[Mon Dec 30 18:25:49 2013]  ClientBegin: 1
+[Mon Dec 30 18:25:55 2013]  say: Darth Frax: wat fuck
+[Mon Dec 30 18:26:12 2013]  print "Darth Frax^7 @@@PLRENAME Luke Skywalker
+"[Mon Dec 30 18:26:29 2013]  say: Kyle Katarn: ok good lagg
+[Mon Dec 30 18:26:32 2013]  say: Kyle Katarn: 51
+[Mon Dec 30 18:26:37 2013]  Kill: 1 1 39: Luke Skywalker killed Luke Skywalker by MOD_SUICIDE
+[Mon Dec 30 18:26:46 2013]  say: Luke Skywalker: yea lets building
+[Mon Dec 30 18:26:48 2013]  say: Luke Skywalker: where u
+[Mon Dec 30 18:26:53 2013]  say: Kyle Katarn: again lagg
+[Mon Dec 30 18:26:57 2013]  say: Luke Skywalker: lol
+[Mon Dec 30 18:27:09 2013]  say: Luke Skywalker: u not laging
+[Mon Dec 30 18:27:15 2013]  say: Kyle Katarn: I MA
+[Mon Dec 30 18:27:17 2013]  say: Luke Skywalker: YU BIG LAGING
+[Mon Dec 30 18:27:17 2013]  say: Kyle Katarn: I AM
+[Mon Dec 30 18:27:22 2013]  say: Luke Skywalker: /COM_MAXFPS 125
+[Mon Dec 30 18:27:30 2013]  say: Kyle Katarn: /com_maxfps 125
+[Mon Dec 30 18:27:35 2013]  say: Luke Skywalker: in conzole -_-
+[Mon Dec 30 18:27:51 2013]  say: Kyle Katarn: HOLY
+[Mon Dec 30 18:27:53 2013]  say: Kyle Katarn: good
+[Mon Dec 30 18:27:55 2013]  say: Kyle Katarn: FUCK
+[Mon Dec 30 18:27:57 2013]  say: Kyle Katarn: FUCK
+[Mon Dec 30 18:27:58 2013]  say: Kyle Katarn: LEAVE SV
+[Mon Dec 30 18:28:00 2013]  ClientDisconnect: 0
+[Mon Dec 30 18:28:23 2013]  say: Luke Skywalker: ^0Ultra Utility ^2- ^4Jedi Academy has been ^3Minimized
+[Mon Dec 30 18:30:11 2013]  say: Luke Skywalker: ^0Ultra Utility ^2- ^4Jedi Academy has been ^3Restored
+[Mon Dec 30 18:30:16 2013]  ClientDisconnect: 1
+[Mon Dec 30 18:30:30 2013]  ClientConnect: 0
+[Mon Dec 30 18:30:30 2013]  mlog:Player Kyle Katarn, connected. With IP - 79.119.21.169:29070 
+[Mon Dec 30 18:30:53 2013]  ClientBegin: 0
+[Mon Dec 30 18:30:53 2013]  say: Kyle Katarn: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon Dec 30 18:31:24 2013]  ClientConnect: 1
+[Mon Dec 30 18:31:24 2013]  mlog:Player Padawan, connected. With IP - 78.80.100.24:16109 
+[Mon Dec 30 18:32:01 2013]  ClientBegin: 1
+[Mon Dec 30 18:32:39 2013]  say: Kyle Katarn: hai :)
+[Mon Dec 30 18:33:17 2013]  say: Luke Skywalker: wat
+[Mon Dec 30 18:33:19 2013]  Kill: 0 1 25: Kyle Katarn killed Luke Skywalker by MOD_TRIP_MINE_SPLASH
+[Mon Dec 30 18:33:19 2013]  tell: Kyle Katarn to Luke Skywalker: ^2^7Luke Skywalker, ^7WOOO I . Killed  peapol in total bicht!
+[Mon Dec 30 18:33:29 2013]  say: Luke Skywalker: bicht :DD
+[Mon Dec 30 18:33:38 2013]  say: Luke Skywalker: lets go race
+[Mon Dec 30 18:33:48 2013]  say: Kyle Katarn: how to tele to you?
+[Mon Dec 30 18:33:55 2013]  say: Luke Skywalker: IDK
+[Mon Dec 30 18:33:56 2013]  say: Luke Skywalker: SEC
+[Mon Dec 30 18:34:03 2013]  say: Luke Skywalker: DONT ATTACK TO WALL
+[Mon Dec 30 18:34:09 2013]  say: Luke Skywalker: ^0Ultra Utility ^2- ^4Jedi Academy has been ^3Minimized
+[Mon Dec 30 18:34:18 2013]  say: Luke Skywalker: ^0Ultra Utility ^2- ^4Jedi Academy has been ^3Restored
+[Mon Dec 30 18:34:40 2013]  say: Luke Skywalker: FUCKER
+[Mon Dec 30 18:34:45 2013]  say: Kyle Katarn: done
+[Mon Dec 30 18:34:53 2013]  say: Kyle Katarn: dont see you
+[Mon Dec 30 18:35:09 2013]  say: Kyle Katarn: come rancor
+[Mon Dec 30 18:35:39 2013]  say: Luke Skywalker: WTF MAN
+[Mon Dec 30 18:35:52 2013]  say: Luke Skywalker: STOP
+[Mon Dec 30 18:35:56 2013]  say: Kyle Katarn: use /god
+[Mon Dec 30 18:35:59 2013]  say: Luke Skywalker: NO
+[Mon Dec 30 18:36:02 2013]  say: Kyle Katarn: YES
+[Mon Dec 30 18:36:05 2013]  say: Kyle Katarn: THEN DIE
+[Mon Dec 30 18:36:08 2013]  say: Kyle Katarn: LOL
+[Mon Dec 30 18:36:12 2013]  say: Luke Skywalker: rly?
+[Mon Dec 30 18:36:37 2013]  say: Luke Skywalker: :D
+[Mon Dec 30 18:36:42 2013]  say: Kyle Katarn: where u>
+[Mon Dec 30 18:36:44 2013]  say: Luke Skywalker: here
+[Mon Dec 30 18:36:48 2013]  say: Luke Skywalker: stay
+[Mon Dec 30 18:37:01 2013]  say: Luke Skywalker: ^0Ultra Utility ^2- ^4Jedi Academy has been ^3Minimized
+[Mon Dec 30 18:37:03 2013]  say: Kyle Katarn: how ur invisible?
+[Mon Dec 30 18:37:05 2013]  say: Luke Skywalker: ^0Ultra Utility ^2- ^4Jedi Academy has been ^3Restored
+[Mon Dec 30 18:37:12 2013]  say: Luke Skywalker: rancor eat 
+[Mon Dec 30 18:37:21 2013]  say: Luke Skywalker: rancor must eat u
+[Mon Dec 30 18:37:23 2013]  say: Luke Skywalker: idiot
+[Mon Dec 30 18:37:43 2013]  say: Luke Skywalker: noclip
+[Mon Dec 30 18:37:47 2013]  say: Kyle Katarn: ik
+[Mon Dec 30 18:38:14 2013]  say: Luke Skywalker: xd
+[Mon Dec 30 18:38:18 2013]  say: Luke Skywalker: use normal mode
+[Mon Dec 30 18:38:32 2013]  say: Luke Skywalker: jetpacks
+[Mon Dec 30 18:38:34 2013]  say: Luke Skywalker: go to die
+[Mon Dec 30 18:38:40 2013]  say: Luke Skywalker: i want see u
+[Mon Dec 30 18:38:47 2013]  say: Luke Skywalker: there is no people
+[Mon Dec 30 18:38:53 2013]  say: Luke Skywalker: invisible is for fuck
+[Mon Dec 30 18:39:01 2013]  Kill: 1 1 39: Luke Skywalker killed Luke Skywalker by MOD_SUICIDE
+[Mon Dec 30 18:39:05 2013]  say: Luke Skywalker: kyle!
+[Mon Dec 30 18:39:10 2013]  say: Luke Skywalker: do u there?
+[Mon Dec 30 18:39:19 2013]  say: Luke Skywalker: hm here no
+[Mon Dec 30 18:39:25 2013]  say: Kyle Katarn: i am at rancor
+[Mon Dec 30 18:39:30 2013]  say: Luke Skywalker: KYLE I HEAR U
+[Mon Dec 30 18:39:33 2013]  say: Kyle Katarn: YES?
+[Mon Dec 30 18:39:40 2013]  say: Luke Skywalker: IM HERE KAJL
+[Mon Dec 30 18:39:46 2013]  say: Luke Skywalker: wtf
+[Mon Dec 30 18:39:50 2013]  say: Luke Skywalker: kajl?
+[Mon Dec 30 18:39:55 2013]  say: Kyle Katarn: i am ghost
+[Mon Dec 30 18:40:00 2013]  say: Kyle Katarn: follow
+[Mon Dec 30 18:40:04 2013]  say: Kyle Katarn: i wanna show
+[Mon Dec 30 18:40:08 2013]  say: Kyle Katarn: first
+[Mon Dec 30 18:40:09 2013]  say: Kyle Katarn: stay here
+[Mon Dec 30 18:40:21 2013]  say: Kyle Katarn: come
+[Mon Dec 30 18:40:27 2013]  say: Luke Skywalker: JAN
+[Mon Dec 30 18:40:34 2013]  say: Luke Skywalker: its you jan lol
+[Mon Dec 30 18:40:46 2013]  say: Luke Skywalker: omg
+[Mon Dec 30 18:40:49 2013]  say: Luke Skywalker: u fake
+[Mon Dec 30 18:41:00 2013]  say: Luke Skywalker: hah
+[Mon Dec 30 18:41:06 2013]  say: Luke Skywalker: its nice :D
+[Mon Dec 30 18:41:11 2013]  say: Luke Skywalker: i want see u
+[Mon Dec 30 18:41:11 2013]  say: Luke Skywalker: omg
+[Mon Dec 30 18:41:19 2013]  say: Kyle Katarn: k
+[Mon Dec 30 18:41:21 2013]  Kill: 0 0 39: Kyle Katarn killed Kyle Katarn by MOD_SUICIDE
+[Mon Dec 30 18:41:21 2013]  tell: Kyle Katarn to Kyle Katarn: Katarn Dang XD
+[Mon Dec 30 18:41:49 2013]  say: Kyle Katarn: WHERE IS JAN!?
+[Mon Dec 30 18:41:55 2013]  say: Luke Skywalker: I DUNNO
+[Mon Dec 30 18:42:01 2013]  say: Luke Skywalker: I THINK
+[Mon Dec 30 18:42:01 2013]  say: Kyle Katarn: WAIT HERE
+[Mon Dec 30 18:42:06 2013]  say: Luke Skywalker: no
+[Mon Dec 30 18:42:08 2013]  say: Luke Skywalker: dont noclip
+[Mon Dec 30 18:42:14 2013]  say: Luke Skywalker: omg
+[Mon Dec 30 18:42:18 2013]  say: Luke Skywalker: i think
+[Mon Dec 30 18:42:21 2013]  say: Luke Skywalker: the 
+[Mon Dec 30 18:42:28 2013]  say: Kyle Katarn: JAN
+[Mon Dec 30 18:42:28 2013]  say: Luke Skywalker: oh god
+[Mon Dec 30 18:42:29 2013]  say: Luke Skywalker: kyle
+[Mon Dec 30 18:42:32 2013]  say: Luke Skywalker: I FOUND JAN
+[Mon Dec 30 18:42:50 2013]  say: Luke Skywalker: jan
+[Mon Dec 30 18:42:51 2013]  say: Kyle Katarn: UR KAY?
+[Mon Dec 30 18:43:03 2013]  say: Luke Skywalker: ^4Jan: ^7yyyees i am ok
+[Mon Dec 30 18:43:03 2013]  say: Kyle Katarn: THIS IS NOT JAN
+[Mon Dec 30 18:43:08 2013]  say: Luke Skywalker: how u know that
+[Mon Dec 30 18:43:11 2013]  say: Luke Skywalker: lol
+[Mon Dec 30 18:43:11 2013]  say: Kyle Katarn: SEE
+[Mon Dec 30 18:43:16 2013]  say: Luke Skywalker: its a droid§
+[Mon Dec 30 18:43:37 2013]  tell: Luke Skywalker to Kyle Katarn: desann have jan
+[Mon Dec 30 18:43:43 2013]  tell: Luke Skywalker to Kyle Katarn: and tavion and alora
+[Mon Dec 30 18:43:47 2013]  tell: Luke Skywalker to Kyle Katarn: and stormtroopers
+[Mon Dec 30 18:43:49 2013]  say: Kyle Katarn: WAIT HERE
+[Mon Dec 30 18:43:50 2013]  tell: Luke Skywalker to Kyle Katarn: ok XD?
+[Mon Dec 30 18:43:52 2013]  say: Luke Skywalker: no
+[Mon Dec 30 18:44:00 2013]  say: Kyle Katarn: I WANNA MAKE VIDEO
+[Mon Dec 30 18:44:04 2013]  say: Luke Skywalker: u cant
+[Mon Dec 30 18:44:05 2013]  say: Kyle Katarn: STAY HERE
+[Mon Dec 30 18:44:07 2013]  say: Kyle Katarn: I CAN
+[Mon Dec 30 18:44:08 2013]  say: Luke Skywalker: nobody see
+[Mon Dec 30 18:44:16 2013]  say: Kyle Katarn: WELL ME YES XD
+[Mon Dec 30 18:44:19 2013]  say: Luke Skywalker: lol
+[Mon Dec 30 18:44:22 2013]  say: Kyle Katarn: STAY HERE
+[Mon Dec 30 18:44:25 2013]  say: Luke Skywalker: ok
+[Mon Dec 30 18:44:41 2013]  say: Luke Skywalker: welcome
+[Mon Dec 30 18:44:48 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 18:45:07 2013]  say: Kyle Katarn: JAN!
+[Mon Dec 30 18:45:10 2013]  say: Luke Skywalker: jan will not here
+[Mon Dec 30 18:45:12 2013]  say: Kyle Katarn: NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[Mon Dec 30 18:45:17 2013]  say: Luke Skywalker: its a trap
+[Mon Dec 30 18:45:32 2013]  say: Luke Skywalker: kajl i need help!
+[Mon Dec 30 18:45:35 2013]  say: Luke Skywalker: dont lightning omg
+[Mon Dec 30 18:45:36 2013]  say: Luke Skywalker: u fucker
+[Mon Dec 30 18:45:41 2013]  say: Luke Skywalker: u in light side
+[Mon Dec 30 18:45:47 2013]  say: Luke Skywalker: u have only ligtning 2 and grip 3
+[Mon Dec 30 18:45:48 2013]  say: Kyle Katarn: i have anger
+[Mon Dec 30 18:45:55 2013]  say: Luke Skywalker: KAJL DONT
+[Mon Dec 30 18:45:59 2013]  say: Luke Skywalker: OFF U RAGE
+[Mon Dec 30 18:46:01 2013]  say: Luke Skywalker: MY FRIEND
+[Mon Dec 30 18:46:07 2013]  say: Kyle Katarn: dont get in my way luke
+[Mon Dec 30 18:46:12 2013]  say: Luke Skywalker: omg 
+[Mon Dec 30 18:46:20 2013]  tell: Luke Skywalker to Kyle Katarn: jan is not heree
+[Mon Dec 30 18:46:20 2013]  say: Kyle Katarn: i killed ur bor
+[Mon Dec 30 18:46:21 2013]  tell: Luke Skywalker to Kyle Katarn: stay
+[Mon Dec 30 18:46:24 2013]  tell: Luke Skywalker to Kyle Katarn: i will make mision
+[Mon Dec 30 18:46:27 2013]  say: Kyle Katarn: k
+[Mon Dec 30 18:46:34 2013]  tell: Luke Skywalker to Kyle Katarn: and dont become dark side -_-
+[Mon Dec 30 18:46:37 2013]  tell: Luke Skywalker to Kyle Katarn: u suck with that
+[Mon Dec 30 18:46:42 2013]  say: Luke Skywalker: stay
+[Mon Dec 30 18:46:49 2013]  say: Luke Skywalker: i make  in this map mision
+[Mon Dec 30 18:46:51 2013]  say: Kyle Katarn: k
+[Mon Dec 30 18:46:55 2013]  say: Luke Skywalker: stay
+[Mon Dec 30 18:46:56 2013]  say: Luke Skywalker: omg
+[Mon Dec 30 18:46:58 2013]  say: Luke Skywalker: why u pushing me
+[Mon Dec 30 18:47:01 2013]  say: Kyle Katarn: to mak
+[Mon Dec 30 18:47:26 2013]  say: Kyle Katarn: ill summon power!
+[Mon Dec 30 18:47:49 2013]  say: Kyle Katarn: ill train
+[Mon Dec 30 18:48:43 2013]  say: Luke Skywalker: i cant spawn npc wtf man
+[Mon Dec 30 18:48:48 2013]  say: Kyle Katarn: i can
+[Mon Dec 30 18:48:55 2013]  say: Luke Skywalker: how u npcing
+[Mon Dec 30 18:49:06 2013]  say: Kyle Katarn: just do /npc spawn reborn
+[Mon Dec 30 18:49:11 2013]  say: Luke Skywalker: doest work
+[Mon Dec 30 18:49:13 2013]  say: Kyle Katarn: try
+[Mon Dec 30 18:49:17 2013]  say: Luke Skywalker: lol
+[Mon Dec 30 18:49:17 2013]  say: Kyle Katarn: see
+[Mon Dec 30 18:49:18 2013]  say: Luke Skywalker: aha
+[Mon Dec 30 18:49:33 2013]  say: Kyle Katarn: if u wanna stormtrooper then /npc spawn stormtrooper 
+[Mon Dec 30 18:49:38 2013]  say: Luke Skywalker: ik
+[Mon Dec 30 18:49:45 2013]  say: Kyle Katarn: ill SUMMON POWER!
+[Mon Dec 30 18:50:38 2013]  say: Kyle Katarn: Luke do u respond whats happening are u okay?
+[Mon Dec 30 18:50:46 2013]  say: Luke Skywalker: no
+[Mon Dec 30 18:50:49 2013]  say: Luke Skywalker: im building
+[Mon Dec 30 18:51:00 2013]  say: Kyle Katarn: do u fight reborns
+[Mon Dec 30 18:51:04 2013]  say: Kyle Katarn: Luke!
+[Mon Dec 30 18:51:06 2013]  say: Luke Skywalker: stay in arena
+[Mon Dec 30 18:51:46 2013]  say: Kyle Katarn: Jan i wanna say something
+[Mon Dec 30 18:51:48 2013]  say: Luke Skywalker: lagg
+[Mon Dec 30 18:51:51 2013]  say: Luke Skywalker: wat u doing
+[Mon Dec 30 18:51:55 2013]  say: Kyle Katarn: Jan:Whats the matter ?
+[Mon Dec 30 18:52:00 2013]  say: Kyle Katarn: no!
+[Mon Dec 30 18:52:04 2013]  say: Luke Skywalker: hes not jan
+[Mon Dec 30 18:52:09 2013]  say: Kyle Katarn: i want to marry her
+[Mon Dec 30 18:52:10 2013]  say: Luke Skywalker: im making story arena
+[Mon Dec 30 18:52:19 2013]  say: Luke Skywalker: this not jan
+[Mon Dec 30 18:52:19 2013]  say: Kyle Katarn: so we can do story
+[Mon Dec 30 18:52:32 2013]  say: Kyle Katarn: she is her
+[Mon Dec 30 18:52:34 2013]  say: Kyle Katarn: i know
+[Mon Dec 30 18:52:35 2013]  say: Luke Skywalker: no
+[Mon Dec 30 18:52:37 2013]  say: Luke Skywalker: come here
+[Mon Dec 30 18:52:38 2013]  say: Kyle Katarn: NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[Mon Dec 30 18:52:38 2013]  say: Luke Skywalker: come
+[Mon Dec 30 18:52:42 2013]  say: Luke Skywalker: im maked story for u :(
+[Mon Dec 30 18:52:44 2013]  say: Kyle Katarn: K
+[Mon Dec 30 18:52:50 2013]  say: Luke Skywalker: lets go kajl
+[Mon Dec 30 18:52:51 2013]  say: Kyle Katarn: wait 
+[Mon Dec 30 18:52:53 2013]  say: Kyle Katarn: k
+[Mon Dec 30 18:53:02 2013]  say: Kyle Katarn: we need also to talk in this movie :)
+[Mon Dec 30 18:53:07 2013]  say: Luke Skywalker: ye
+[Mon Dec 30 18:53:17 2013]  say: Luke Skywalker: oh god
+[Mon Dec 30 18:53:22 2013]  say: Luke Skywalker: eh
+[Mon Dec 30 18:53:25 2013]  say: Luke Skywalker: use blue saber
+[Mon Dec 30 18:53:27 2013]  say: Luke Skywalker: lool
+[Mon Dec 30 18:53:59 2013]  say: Luke Skywalker: good job kyle
+[Mon Dec 30 18:54:03 2013]  say: Kyle Katarn: where is jan luke!?
+[Mon Dec 30 18:54:04 2013]  say: Luke Skywalker: lets go find jan
+[Mon Dec 30 18:54:08 2013]  say: Kyle Katarn: WHAT?
+[Mon Dec 30 18:54:09 2013]  say: Luke Skywalker: idk 
+[Mon Dec 30 18:54:15 2013]  say: Kyle Katarn: HAS BEEN CAPTURE?
+[Mon Dec 30 18:54:21 2013]  say: Luke Skywalker: i right u left
+[Mon Dec 30 18:54:22 2013]  say: Kyle Katarn: u bastard
+[Mon Dec 30 18:54:44 2013]  say: Luke Skywalker: rage?
+[Mon Dec 30 18:54:45 2013]  say: Kyle Katarn:  RAGE!
+[Mon Dec 30 18:54:52 2013]  say: Luke Skywalker: e
+[Mon Dec 30 18:55:07 2013]  say: Kyle Katarn: TELL ME WHERE SHE IS
+[Mon Dec 30 18:55:11 2013]  say: Kyle Katarn: REBORN:NO!
+[Mon Dec 30 18:55:19 2013]  say: Luke Skywalker: kyle dont!
+[Mon Dec 30 18:55:24 2013]  say: Kyle Katarn: sorry
+[Mon Dec 30 18:55:27 2013]  say: Kyle Katarn: i have pain
+[Mon Dec 30 18:55:28 2013]  say: Luke Skywalker: fear becoming to the dark side ..
+[Mon Dec 30 18:55:34 2013]  say: Kyle Katarn: k lest go
+[Mon Dec 30 18:55:47 2013]  say: Luke Skywalker: fear becoming to angry angry becoming to hate and hate to the dark side!
+[Mon Dec 30 18:55:54 2013]  say: Kyle Katarn: k lest go!
+[Mon Dec 30 18:55:58 2013]  say: Luke Skywalker: eah
+[Mon Dec 30 18:56:06 2013]  say: Luke Skywalker: ehm
+[Mon Dec 30 18:56:09 2013]  say: Luke Skywalker: lets use swoops
+[Mon Dec 30 18:56:42 2013]  say: Luke Skywalker: oh god
+[Mon Dec 30 18:56:46 2013]  say: Kyle Katarn: luke where u?1
+[Mon Dec 30 18:56:47 2013]  say: Luke Skywalker: mercs!
+[Mon Dec 30 18:56:50 2013]  say: Luke Skywalker: IN CITY
+[Mon Dec 30 18:57:11 2013]  say: Luke Skywalker: WHAT THE FUCK
+[Mon Dec 30 18:57:13 2013]  say: Luke Skywalker: woops
+[Mon Dec 30 18:57:14 2013]  say: Luke Skywalker: XD
+[Mon Dec 30 18:57:15 2013]  say: Kyle Katarn: shit
+[Mon Dec 30 18:57:21 2013]  say: Kyle Katarn: swoop exploded
+[Mon Dec 30 18:57:25 2013]  say: Kyle Katarn: HELP
+[Mon Dec 30 18:57:30 2013]  say: Luke Skywalker: IM COMING
+[Mon Dec 30 18:57:42 2013]  say: Luke Skywalker: USE THE SWOOP KAJL
+[Mon Dec 30 18:57:49 2013]  say: Kyle Katarn: i lost my lightsaber
+[Mon Dec 30 18:57:54 2013]  say: Luke Skywalker: THERE IS BLASTER
+[Mon Dec 30 18:57:55 2013]  say: Kyle Katarn: gotta take blaster
+[Mon Dec 30 18:58:06 2013]  say: Kyle Katarn: u have lightsabe
+[Mon Dec 30 18:58:06 2013]  say: Luke Skywalker: AH FAK
+[Mon Dec 30 18:58:07 2013]  say: Kyle Katarn: use
+[Mon Dec 30 18:58:09 2013]  say: Luke Skywalker: SUPRISE FIRE
+[Mon Dec 30 18:58:43 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 18:58:46 2013]  say: Luke Skywalker: COME
+[Mon Dec 30 18:59:50 2013]  say: Kyle Katarn: SHIT DESANN!
+[Mon Dec 30 18:59:51 2013]  say: Luke Skywalker: DESANN WTF
+[Mon Dec 30 19:00:33 2013]  say: Luke Skywalker: jan!
+[Mon Dec 30 19:00:38 2013]  say: Kyle Katarn: jan 
+[Mon Dec 30 19:00:45 2013]  say: Kyle Katarn: i have to tell u something
+[Mon Dec 30 19:00:50 2013]  say: Kyle Katarn: luke leave us
+[Mon Dec 30 19:00:54 2013]  say: Luke Skywalker: ehm ok
+[Mon Dec 30 19:01:00 2013]  say: Kyle Katarn: Jan
+[Mon Dec 30 19:01:05 2013]  say: Kyle Katarn: Jan:Yes?
+[Mon Dec 30 19:01:12 2013]  say: Kyle Katarn: Do ... Do u wanna mary me?
+[Mon Dec 30 19:01:18 2013]  say: Kyle Katarn: Jan:YES!!!!!!!
+[Mon Dec 30 19:01:21 2013]  say: Kyle Katarn: yeaaaaaaaaaaaaa
+[Mon Dec 30 19:01:27 2013]  say: Kyle Katarn: Luke!
+[Mon Dec 30 19:01:31 2013]  say: Luke Skywalker: yes?
+[Mon Dec 30 19:01:35 2013]  say: Kyle Katarn: i am going to mary!
+[Mon Dec 30 19:01:38 2013]  say: Luke Skywalker: ehm
+[Mon Dec 30 19:01:39 2013]  say: Luke Skywalker: enjoy
+[Mon Dec 30 19:01:46 2013]  say: Kyle Katarn: can we do a wedding?
+[Mon Dec 30 19:01:51 2013]  say: Luke Skywalker: idk 
+[Mon Dec 30 19:02:00 2013]  say: Luke Skywalker: its you destiny
+[Mon Dec 30 19:02:02 2013]  say: Kyle Katarn: wait
+[Mon Dec 30 19:02:09 2013]  say: Kyle Katarn: dont hear anything
+[Mon Dec 30 19:02:13 2013]  say: Luke Skywalker: ok
+[Mon Dec 30 19:02:16 2013]  say: Kyle Katarn: JAn!
+[Mon Dec 30 19:02:19 2013]  say: Luke Skywalker: wat u doing!
+[Mon Dec 30 19:02:22 2013]  say: Kyle Katarn: i found her daed
+[Mon Dec 30 19:02:24 2013]  say: Kyle Katarn: dead
+[Mon Dec 30 19:02:28 2013]  say: Kyle Katarn: NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[Mon Dec 30 19:02:36 2013]  say: Luke Skywalker: XD
+[Mon Dec 30 19:02:40 2013]  say: Luke Skywalker: hes not ded
+[Mon Dec 30 19:02:43 2013]  say: Kyle Katarn: omg
+[Mon Dec 30 19:02:52 2013]  say: Luke Skywalker: im gived auto spawn
+[Mon Dec 30 19:03:07 2013]  say: Kyle Katarn: lest make this mission
+[Mon Dec 30 19:03:08 2013]  say: Luke Skywalker: ehm
+[Mon Dec 30 19:03:11 2013]  say: Kyle Katarn: LONGER
+[Mon Dec 30 19:03:13 2013]  say: Luke Skywalker: ok
+[Mon Dec 30 19:03:18 2013]  say: Luke Skywalker: i will make long mision
+[Mon Dec 30 19:03:31 2013]  say: Luke Skywalker: use saber
+[Mon Dec 30 19:03:38 2013]  say: Kyle Katarn: NOW THAT I DIDNT FOUND HER
+[Mon Dec 30 19:03:42 2013]  say: Kyle Katarn: agh!!!!!!!!!!!!!!!!!!!!!!!!!
+[Mon Dec 30 19:04:07 2013]  say: Kyle Katarn: running
+[Mon Dec 30 19:04:13 2013]  say: Luke Skywalker: ok i will make new mision ?
+[Mon Dec 30 19:04:16 2013]  say: Kyle Katarn: yes
+[Mon Dec 30 19:04:18 2013]  say: Kyle Katarn: longer
+[Mon Dec 30 19:04:20 2013]  say: Kyle Katarn: ill meditate
+[Mon Dec 30 19:04:22 2013]  say: Luke Skywalker: ok lets go again arena
+[Mon Dec 30 19:04:27 2013]  say: Luke Skywalker: arena with rancor
+[Mon Dec 30 19:04:41 2013]  say: Luke Skywalker: no
+[Mon Dec 30 19:04:41 2013]  say: Kyle Katarn: shit
+[Mon Dec 30 19:04:42 2013]  say: Luke Skywalker: ye
+[Mon Dec 30 19:04:45 2013]  say: Luke Skywalker: kill him
+[Mon Dec 30 19:04:47 2013]  say: Kyle Katarn: go mission!
+[Mon Dec 30 19:04:50 2013]  say: Luke Skywalker: and iwill making the mision
+[Mon Dec 30 19:06:47 2013]  say: Kyle Katarn: rancor dead
+[Mon Dec 30 19:06:51 2013]  say: Kyle Katarn: gotta find luke
+[Mon Dec 30 19:06:53 2013]  say: Luke Skywalker: no
+[Mon Dec 30 19:06:56 2013]  say: Luke Skywalker: im making mision
+[Mon Dec 30 19:07:03 2013]  say: Kyle Katarn: ok then
+[Mon Dec 30 19:07:07 2013]  say: Kyle Katarn: meditate in rage
+[Mon Dec 30 19:07:11 2013]  say: Luke Skywalker: yok
+[Mon Dec 30 19:08:15 2013]  say: Kyle Katarn: OH HEY LANDO
+[Mon Dec 30 19:08:22 2013]  say: Luke Skywalker: u spawning npcs?
+[Mon Dec 30 19:08:22 2013]  say: Kyle Katarn: Lando:Hey kyle 
+[Mon Dec 30 19:08:26 2013]  say: Kyle Katarn: only 1
+[Mon Dec 30 19:08:32 2013]  say: Kyle Katarn: what ur doing here
+[Mon Dec 30 19:08:49 2013]  say: Kyle Katarn: Lando:well i want to say to you jan has been capture
+[Mon Dec 30 19:08:51 2013]  say: Kyle Katarn: WHAT!?
+[Mon Dec 30 19:08:57 2013]  say: Kyle Katarn: DIE MOTHERFUCKER
+[Mon Dec 30 19:09:20 2013]  say: Kyle Katarn: Conaticting luke.....y
+[Mon Dec 30 19:09:23 2013]  say: Kyle Katarn: .....
+[Mon Dec 30 19:09:27 2013]  say: Kyle Katarn: Luke do u hear me?
+[Mon Dec 30 19:09:32 2013]  say: Luke Skywalker: yes?
+[Mon Dec 30 19:09:36 2013]  say: Kyle Katarn: Jan
+[Mon Dec 30 19:09:39 2013]  say: Luke Skywalker: wat?
+[Mon Dec 30 19:09:40 2013]  say: Kyle Katarn: has been capture
+[Mon Dec 30 19:09:43 2013]  say: Luke Skywalker: oh
+[Mon Dec 30 19:09:56 2013]  say: Kyle Katarn: come to coruscant and we go
+[Mon Dec 30 19:10:09 2013]  say: Luke Skywalker: roger
+[Mon Dec 30 19:11:20 2013]  say: Kyle Katarn: Luke where the hell ur are?
+[Mon Dec 30 19:11:36 2013]  say: Kyle Katarn: Jan is in danger and ur staying!?
+[Mon Dec 30 19:11:47 2013]  say: Kyle Katarn: AH AH!! ANGER
+[Mon Dec 30 19:12:41 2013]  ClientDisconnect: 1
+[Mon Dec 30 19:14:09 2013]  ClientConnect: 1
+[Mon Dec 30 19:14:09 2013]  mlog:Player Padawan, connected. With IP - 78.80.100.24:16109 
+[Mon Dec 30 19:14:57 2013]  ClientBegin: 1
+[Mon Dec 30 19:15:02 2013]  say: Kyle Katarn: wb
+[Mon Dec 30 19:15:04 2013]  say: Luke Skywalker: kyle!
+[Mon Dec 30 19:15:07 2013]  say: Kyle Katarn: YES?
+[Mon Dec 30 19:15:09 2013]  say: Luke Skywalker: ok im making back
+[Mon Dec 30 19:15:14 2013]  say: Kyle Katarn: k
+[Mon Dec 30 19:15:26 2013]  say: Kyle Katarn: HURRY JAN IS IN DANGER
+[Mon Dec 30 19:15:40 2013]  say: Kyle Katarn: ne it is no?
+[Mon Dec 30 19:15:43 2013]  say: Luke Skywalker: ye
+[Mon Dec 30 19:15:48 2013]  say: Kyle Katarn: what language?
+[Mon Dec 30 19:15:52 2013]  say: Luke Skywalker: czech
+[Mon Dec 30 19:15:57 2013]  say: Kyle Katarn: can u teach me?
+[Mon Dec 30 19:16:05 2013]  say: Luke Skywalker: tommorow
+[Mon Dec 30 19:16:10 2013]  say: Kyle Katarn: k
+[Mon Dec 30 19:16:43 2013]  say: Kyle Katarn: Jan!!!!!
+[Mon Dec 30 19:16:58 2013]  say: Kyle Katarn: i feel she is in pain Luke!
+[Mon Dec 30 19:17:35 2013]  say: Kyle Katarn: come 
+[Mon Dec 30 19:17:36 2013]  say: Kyle Katarn: !
+[Mon Dec 30 19:17:46 2013]  say: Luke Skywalker: KYLE
+[Mon Dec 30 19:17:50 2013]  say: Kyle Katarn: yea>
+[Mon Dec 30 19:17:52 2013]  say: Kyle Katarn: ?
+[Mon Dec 30 19:17:52 2013]  say: Luke Skywalker: lando called me to come
+[Mon Dec 30 19:17:55 2013]  say: Kyle Katarn: ok
+[Mon Dec 30 19:18:00 2013]  say: Luke Skywalker: hes hiding from this word
+[Mon Dec 30 19:18:03 2013]  say: Luke Skywalker: lets go
+[Mon Dec 30 19:18:07 2013]  say: Luke Skywalker: sec
+[Mon Dec 30 19:18:09 2013]  say: Luke Skywalker: shipw
+[Mon Dec 30 19:18:26 2013]  say: Luke Skywalker: ok
+[Mon Dec 30 19:18:28 2013]  say: Luke Skywalker: lets go
+[Mon Dec 30 19:18:41 2013]  say: Kyle Katarn: wait
+[Mon Dec 30 19:18:45 2013]  say: Kyle Katarn: comehere
+[Mon Dec 30 19:18:48 2013]  say: Kyle Katarn: there
+[Mon Dec 30 19:18:50 2013]  say: Kyle Katarn: heal :)
+[Mon Dec 30 19:18:58 2013]  say: Kyle Katarn: and no im not dark side
+[Mon Dec 30 19:18:58 2013]  say: Luke Skywalker: come
+[Mon Dec 30 19:19:20 2013]  say: Luke Skywalker: stop lightning
+[Mon Dec 30 19:19:22 2013]  say: Luke Skywalker: and fight with saber 
+[Mon Dec 30 19:19:31 2013]  say: Luke Skywalker: xd
+[Mon Dec 30 19:19:54 2013]  say: Kyle Katarn: slow
+[Mon Dec 30 19:20:04 2013]  say: Luke Skywalker: GOD
+[Mon Dec 30 19:21:32 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 19:22:11 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 19:22:14 2013]  say: Luke Skywalker: DONT
+[Mon Dec 30 19:22:19 2013]  say: Luke Skywalker: HE DONT HAVE EWAPON
+[Mon Dec 30 19:22:26 2013]  say: Kyle Katarn: where is lando?
+[Mon Dec 30 19:22:34 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 19:22:36 2013]  say: Kyle Katarn: he dont speak!
+[Mon Dec 30 19:22:37 2013]  say: Luke Skywalker: where is lando!
+[Mon Dec 30 19:22:46 2013]  say: Luke Skywalker: ^4Human_merc i know where is he
+[Mon Dec 30 19:22:51 2013]  say: Kyle Katarn: where!
+[Mon Dec 30 19:22:51 2013]  say: Luke Skywalker: rly ?
+[Mon Dec 30 19:23:04 2013]  say: Luke Skywalker: ^4Human_merc: in home six six
+[Mon Dec 30 19:23:07 2013]  say: Luke Skywalker: ok
+[Mon Dec 30 19:23:09 2013]  say: Kyle Katarn: l
+[Mon Dec 30 19:23:09 2013]  say: Luke Skywalker: lets go
+[Mon Dec 30 19:23:17 2013]  say: Luke Skywalker: kyle dont)
+[Mon Dec 30 19:23:20 2013]  say: Luke Skywalker: omg u fucker
+[Mon Dec 30 19:23:25 2013]  say: Luke Skywalker: idiot dont kill her
+[Mon Dec 30 19:23:30 2013]  say: Kyle Katarn: her?
+[Mon Dec 30 19:23:36 2013]  say: Kyle Katarn: him*
+[Mon Dec 30 19:23:41 2013]  Item: 0 weapon_blaster
+[Mon Dec 30 19:23:41 2013]  say: Luke Skywalker: fuck you
+[Mon Dec 30 19:23:50 2013]  say: Luke Skywalker: GOD
+[Mon Dec 30 19:23:56 2013]  say: Luke Skywalker: MEDAK
+[Mon Dec 30 19:24:18 2013]  Item: 484 weapon_blaster
+[Mon Dec 30 19:24:26 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 19:24:32 2013]  Item: 0 weapon_blaster
+[Mon Dec 30 19:24:43 2013]  say: Kyle Katarn: u fuckers!@
+[Mon Dec 30 19:24:56 2013]  say: Luke Skywalker: clear
+[Mon Dec 30 19:25:00 2013]  say: Kyle Katarn: i am becoming dark side
+[Mon Dec 30 19:25:03 2013]  say: Luke Skywalker: i hear
+[Mon Dec 30 19:25:07 2013]  say: Luke Skywalker: stfu
+[Mon Dec 30 19:25:10 2013]  say: Luke Skywalker: come here
+[Mon Dec 30 19:25:16 2013]  say: Luke Skywalker: oh
+[Mon Dec 30 19:25:19 2013]  say: Luke Skywalker: clear
+[Mon Dec 30 19:25:21 2013]  say: Kyle Katarn: follow
+[Mon Dec 30 19:25:26 2013]  say: Luke Skywalker: omg no
+[Mon Dec 30 19:25:31 2013]  say: Kyle Katarn: wtf?
+[Mon Dec 30 19:25:34 2013]  tell: Luke Skywalker to Kyle Katarn: there is jan
+[Mon Dec 30 19:25:35 2013]  say: Luke Skywalker: dont
+[Mon Dec 30 19:25:38 2013]  say: Kyle Katarn: ah
+[Mon Dec 30 19:25:40 2013]  say: Kyle Katarn: JAN!?
+[Mon Dec 30 19:25:42 2013]  tell: Luke Skywalker to Kyle Katarn: this mision is not completed
+[Mon Dec 30 19:25:43 2013]  say: Kyle Katarn: JAN!?!?!?!?!?
+[Mon Dec 30 19:25:46 2013]  say: Kyle Katarn: k
+[Mon Dec 30 19:25:47 2013]  tell: Luke Skywalker to Kyle Katarn: -_-
+[Mon Dec 30 19:26:11 2013]  say: Luke Skywalker: IN UP
+[Mon Dec 30 19:26:16 2013]  say: Kyle Katarn: wait i sense something
+[Mon Dec 30 19:26:21 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 19:26:33 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 19:26:34 2013]  say: Kyle Katarn: i found lightsaber!
+[Mon Dec 30 19:26:47 2013]  say: Luke Skywalker: GOOD
+[Mon Dec 30 19:27:04 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 19:27:05 2013]  say: Kyle Katarn: no
+[Mon Dec 30 19:27:10 2013]  say: Kyle Katarn: he has no wep
+[Mon Dec 30 19:27:15 2013]  say: Kyle Katarn: dont rage my friend
+[Mon Dec 30 19:27:17 2013]  say: Kyle Katarn: iill kill
+[Mon Dec 30 19:27:30 2013]  say: Kyle Katarn: good my appratince
+[Mon Dec 30 19:27:35 2013]  say: Kyle Katarn: i mean friend!
+[Mon Dec 30 19:27:37 2013]  tell: Luke Skywalker to Kyle Katarn: THIS IS NOT DARK SIDE LOL
+[Mon Dec 30 19:27:44 2013]  tell: Luke Skywalker to Kyle Katarn: use light lightsaber
+[Mon Dec 30 19:27:51 2013]  tell: Luke Skywalker to Kyle Katarn: blue lightsaber
+[Mon Dec 30 19:27:52 2013]  tell: Luke Skywalker to Kyle Katarn: NOT RED
+[Mon Dec 30 19:27:54 2013]  tell: Luke Skywalker to Kyle Katarn: u not sith
+[Mon Dec 30 19:28:01 2013]  say: Kyle Katarn: well i broke other on
+[Mon Dec 30 19:28:03 2013]  say: Kyle Katarn: one*
+[Mon Dec 30 19:28:07 2013]  say: Kyle Katarn: and i found this
+[Mon Dec 30 19:28:08 2013]  say: Luke Skywalker: u destroying my mision D:
+[Mon Dec 30 19:28:11 2013]  say: Kyle Katarn: k
+[Mon Dec 30 19:28:42 2013]  say: Luke Skywalker: KYLE!
+[Mon Dec 30 19:28:46 2013]  say: Luke Skywalker: I NEED HELP
+[Mon Dec 30 19:28:53 2013]  say: Kyle Katarn: FUCK
+[Mon Dec 30 19:29:35 2013]  say: Luke Skywalker: IDIOT
+[Mon Dec 30 19:29:40 2013]  say: Kyle Katarn: WHAT?
+[Mon Dec 30 19:29:42 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 19:29:48 2013]  say: Luke Skywalker: where is home six six!?
+[Mon Dec 30 19:29:54 2013]  say: Kyle Katarn: tell!
+[Mon Dec 30 19:30:05 2013]  say: Luke Skywalker: ^4STORMTROOPER:^1 IN STREET 2
+[Mon Dec 30 19:30:08 2013]  say: Luke Skywalker: ok thanks
+[Mon Dec 30 19:30:14 2013]  say: Kyle Katarn: thanks
+[Mon Dec 30 19:30:21 2013]  say: Kyle Katarn: we dont need him right?
+[Mon Dec 30 19:30:27 2013]  say: Luke Skywalker: dont kill him
+[Mon Dec 30 19:30:39 2013]  tell: Kyle Katarn to Luke Skywalker: OK SORRY LUKE
+[Mon Dec 30 19:31:30 2013]  say: Luke Skywalker: there street 2
+[Mon Dec 30 19:31:36 2013]  say: Kyle Katarn: GET BACK
+[Mon Dec 30 19:31:42 2013]  say: Kyle Katarn: COME HERE 
+[Mon Dec 30 19:31:59 2013]  say: Kyle Katarn: back!
+[Mon Dec 30 19:33:14 2013]  say: Luke Skywalker: i sense dark side
+[Mon Dec 30 19:33:20 2013]  say: Kyle Katarn: me too
+[Mon Dec 30 19:33:28 2013]  say: Luke Skywalker: u right me left
+[Mon Dec 30 19:33:43 2013]  say: Kyle Katarn: what the?
+[Mon Dec 30 19:33:54 2013]  say: Luke Skywalker: xd
+[Mon Dec 30 19:34:09 2013]  say: Luke Skywalker: LANDO!
+[Mon Dec 30 19:34:12 2013]  say: Kyle Katarn: lando!
+[Mon Dec 30 19:34:16 2013]  say: Luke Skywalker: ^3Lando: hi guys
+[Mon Dec 30 19:34:22 2013]  say: Luke Skywalker: wat u doing here lol
+[Mon Dec 30 19:34:22 2013]  say: Kyle Katarn: UGH MY HEAD.............
+[Mon Dec 30 19:34:27 2013]  say: Luke Skywalker: eh kyle?
+[Mon Dec 30 19:34:30 2013]  say: Kyle Katarn: AH DARK SIDE!?????????????????
+[Mon Dec 30 19:34:32 2013]  say: Kyle Katarn: AHHHHHHHHHHHHHHH
+[Mon Dec 30 19:34:47 2013]  say: Luke Skywalker: dont destroy this mision
+[Mon Dec 30 19:34:57 2013]  say: Luke Skywalker: u boring?
+[Mon Dec 30 19:35:01 2013]  say: Kyle Katarn: NO
+[Mon Dec 30 19:35:09 2013]  say: Luke Skywalker: why u not boring D:?
+[Mon Dec 30 19:35:15 2013]  say: Kyle Katarn: i want to be dark side
+[Mon Dec 30 19:35:22 2013]  say: Luke Skywalker: u will 
+[Mon Dec 30 19:35:23 2013]  say: Luke Skywalker: not now
+[Mon Dec 30 19:35:29 2013]  say: Luke Skywalker: lando where is jan
+[Mon Dec 30 19:35:29 2013]  say: Kyle Katarn: lando
+[Mon Dec 30 19:35:32 2013]  say: Kyle Katarn: yeah
+[Mon Dec 30 19:35:42 2013]  say: Luke Skywalker: ^3Lando: idk guys i think hes in street 1
+[Mon Dec 30 19:35:44 2013]  say: Luke Skywalker: -_-
+[Mon Dec 30 19:35:47 2013]  say: Luke Skywalker: omg
+[Mon Dec 30 19:35:53 2013]  say: Luke Skywalker: ok lando thanks 
+[Mon Dec 30 19:35:54 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 19:35:54 2013]  say: Luke Skywalker: and by
+[Mon Dec 30 19:35:56 2013]  say: Luke Skywalker: e
+[Mon Dec 30 19:36:12 2013]  say: Luke Skywalker: and if u will want leave
+[Mon Dec 30 19:36:13 2013]  say: Kyle Katarn: to be safe
+[Mon Dec 30 19:36:14 2013]  say: Luke Skywalker: u cant!
+[Mon Dec 30 19:36:20 2013]  say: Luke Skywalker: ye
+[Mon Dec 30 19:36:23 2013]  say: Luke Skywalker: -_-
+[Mon Dec 30 19:36:26 2013]  say: Kyle Katarn: AHHHA
+[Mon Dec 30 19:36:27 2013]  say: Kyle Katarn: SO  FUN
+[Mon Dec 30 19:36:28 2013]  say: Kyle Katarn: LOL
+[Mon Dec 30 19:36:29 2013]  say: Kyle Katarn: sry
+[Mon Dec 30 19:36:35 2013]  say: Luke Skywalker: that not u
+[Mon Dec 30 19:36:36 2013]  say: Kyle Katarn: that was unexeptcet
+[Mon Dec 30 19:36:40 2013]  say: Luke Skywalker: that the fucking stormtrooper
+[Mon Dec 30 19:36:47 2013]  say: Luke Skywalker: tommorow in dark side will prisoners
+[Mon Dec 30 19:36:49 2013]  say: Luke Skywalker: :D
+[Mon Dec 30 19:36:52 2013]  say: Luke Skywalker: u will like
+[Mon Dec 30 19:36:56 2013]  say: Kyle Katarn: oh
+[Mon Dec 30 19:37:01 2013]  say: Kyle Katarn: i want noww :D
+[Mon Dec 30 19:37:05 2013]  say: Luke Skywalker: tommorow
+[Mon Dec 30 19:37:10 2013]  say: Luke Skywalker: or now
+[Mon Dec 30 19:37:14 2013]  say: Kyle Katarn: now!
+[Mon Dec 30 19:37:19 2013]  say: Luke Skywalker: THERE IS GOOD PLACE
+[Mon Dec 30 19:37:20 2013]  say: Kyle Katarn: oops
+[Mon Dec 30 19:37:21 2013]  say: Luke Skywalker: dont 
+[Mon Dec 30 19:37:25 2013]  say: Luke Skywalker: its prisoners
+[Mon Dec 30 19:37:35 2013]  print "Luke Skywalker^7 @@@PLRENAME ^1Lord ^0Fenix
+"[Mon Dec 30 19:37:36 2013]  say: ^1Lord ^0Fenix: now u
+[Mon Dec 30 19:37:57 2013]  print "Kyle Katarn^7 @@@PLRENAME ^1Lord ^0Revan
+"[Mon Dec 30 19:38:06 2013]  say: ^1Lord ^0Fenix: YEAH REVAN IS GOOD
+[Mon Dec 30 19:38:13 2013]  say: ^1Lord ^0Revan: so i am leader
+[Mon Dec 30 19:38:16 2013]  say: ^1Lord ^0Revan: but u will lead
+[Mon Dec 30 19:38:18 2013]  say: ^1Lord ^0Fenix: /NORARGET
+[Mon Dec 30 19:38:21 2013]  say: ^1Lord ^0Fenix: in conzole
+[Mon Dec 30 19:38:31 2013]  say: ^1Lord ^0Revan: hey tavion!
+[Mon Dec 30 19:38:36 2013]  say: ^1Lord ^0Fenix: GTFO
+[Mon Dec 30 19:38:42 2013]  say: ^1Lord ^0Revan: kill him!
+[Mon Dec 30 19:38:47 2013]  say: ^1Lord ^0Fenix: XD
+[Mon Dec 30 19:38:49 2013]  say: ^1Lord ^0Fenix: DONT
+[Mon Dec 30 19:38:55 2013]  say: ^1Lord ^0Fenix: xd
+[Mon Dec 30 19:39:17 2013]  say: ^1Lord ^0Fenix: good job revan
+[Mon Dec 30 19:39:20 2013]  say: ^1Lord ^0Revan: :)
+[Mon Dec 30 19:39:27 2013]  say: ^1Lord ^0Revan: so whats our new mission>?
+[Mon Dec 30 19:39:36 2013]  say: ^1Lord ^0Fenix: use target
+[Mon Dec 30 19:39:43 2013]  say: ^1Lord ^0Fenix: off notarget
+[Mon Dec 30 19:39:48 2013]  say: ^1Lord ^0Revan: i did
+[Mon Dec 30 19:39:54 2013]  say: ^1Lord ^0Fenix: gtfo
+[Mon Dec 30 19:40:02 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 19:40:07 2013]  say: ^1Lord ^0Revan: what command for emotes?
+[Mon Dec 30 19:40:12 2013]  say: ^1Lord ^0Revan: well done fenix
+[Mon Dec 30 19:40:25 2013]  say: ^1Lord ^0Fenix: wait
+[Mon Dec 30 19:40:30 2013]  say: ^1Lord ^0Fenix: who will master and who apprentice
+[Mon Dec 30 19:40:34 2013]  say: ^1Lord ^0Revan: me master 
+[Mon Dec 30 19:40:36 2013]  say: ^1Lord ^0Fenix: ok
+[Mon Dec 30 19:40:37 2013]  say: ^1Lord ^0Revan: i am strong
+[Mon Dec 30 19:40:59 2013]  say: ^1Lord ^0Revan: well done fenix
+[Mon Dec 30 19:41:05 2013]  say: ^1Lord ^0Fenix: DONT KILL HER
+[Mon Dec 30 19:41:08 2013]  say: ^1Lord ^0Fenix: IM GOING PISS
+[Mon Dec 30 19:41:12 2013]  say: ^1Lord ^0Revan: waiy!
+[Mon Dec 30 19:41:23 2013]  say: ^1Lord ^0Revan: what is the emotes command?
+[Mon Dec 30 19:41:28 2013]  say: ^1Lord ^0Revan: commands
+[Mon Dec 30 19:41:53 2013]  say: ^1Lord ^0Fenix: master
+[Mon Dec 30 19:41:54 2013]  say: ^1Lord ^0Fenix: oh
+[Mon Dec 30 19:41:58 2013]  say: ^1Lord ^0Revan: wait
+[Mon Dec 30 19:42:08 2013]  say: ^1Lord ^0Revan: tell me how to use emotes!
+[Mon Dec 30 19:42:16 2013]  say: ^1Lord ^0Revan: now!
+[Mon Dec 30 19:42:31 2013]  say: ^1Lord ^0Fenix: /mHips
+[Mon Dec 30 19:43:58 2013]  say: ^1Lord ^0Revan: lord fenix
+[Mon Dec 30 19:44:07 2013]  say: ^1Lord ^0Revan: whats our mission
+[Mon Dec 30 19:44:13 2013]  say: ^1Lord ^0Fenix: idk
+[Mon Dec 30 19:44:30 2013]  say: ^1Lord ^0Fenix: o_O sir?
+[Mon Dec 30 19:44:34 2013]  say: ^1Lord ^0Revan: i sense light side!
+[Mon Dec 30 19:44:56 2013]  say: ^1Lord ^0Revan: talk rebel where is jedi master luke skywalker!
+[Mon Dec 30 19:45:10 2013]  say: ^1Lord ^0Fenix: where is jedi skywalker!
+[Mon Dec 30 19:45:21 2013]  say: ^1Lord ^0Fenix: ^4Rebel: ^1i dont know
+[Mon Dec 30 19:45:24 2013]  say: ^1Lord ^0Fenix: rly?
+[Mon Dec 30 19:45:35 2013]  say: ^1Lord ^0Fenix: ^4rebel: ok ok 
+[Mon Dec 30 19:45:39 2013]  say: ^1Lord ^0Revan: good
+[Mon Dec 30 19:45:43 2013]  say: ^1Lord ^0Revan: ill wacht
+[Mon Dec 30 19:45:55 2013]  say: ^1Lord ^0Fenix: speak!
+[Mon Dec 30 19:46:02 2013]  say: ^1Lord ^0Fenix: ^4Rebel: hes in yawin4
+[Mon Dec 30 19:46:12 2013]  say: ^1Lord ^0Revan: well done
+[Mon Dec 30 19:46:17 2013]  say: ^1Lord ^0Revan: now kill him!
+[Mon Dec 30 19:46:24 2013]  say: ^1Lord ^0Fenix: master .. why
+[Mon Dec 30 19:46:29 2013]  say: ^1Lord ^0Revan: IF U DONT
+[Mon Dec 30 19:46:35 2013]  say: ^1Lord ^0Fenix: oh god
+[Mon Dec 30 19:46:38 2013]  say: ^1Lord ^0Fenix: why u doed that
+[Mon Dec 30 19:46:39 2013]  say: ^1Lord ^0Revan: COME
+[Mon Dec 30 19:46:52 2013]  say: ^1Lord ^0Revan: ill give force and dark side to u
+[Mon Dec 30 19:47:03 2013]  say: ^1Lord ^0Revan: there
+[Mon Dec 30 19:47:17 2013]  say: ^1Lord ^0Fenix: >:)
+[Mon Dec 30 19:47:37 2013]  say: ^1Lord ^0Fenix: yes blowjob
+[Mon Dec 30 19:47:39 2013]  say: ^1Lord ^0Fenix: xd
+[Mon Dec 30 19:47:48 2013]  say: ^1Lord ^0Fenix: wat now
+[Mon Dec 30 19:47:55 2013]  say: ^1Lord ^0Revan: we go after luke at arena
+[Mon Dec 30 19:47:58 2013]  say: ^1Lord ^0Revan: i sense him
+[Mon Dec 30 19:48:05 2013]  say: ^1Lord ^0Fenix: he said hes in yawin4
+[Mon Dec 30 19:48:05 2013]  say: ^1Lord ^0Revan: go spawn some rebels and jedi
+[Mon Dec 30 19:48:07 2013]  say: ^1Lord ^0Revan: ill wait here
+[Mon Dec 30 19:48:14 2013]  say: ^1Lord ^0Revan: no he has and job to do at arena
+[Mon Dec 30 19:48:19 2013]  say: ^1Lord ^0Revan: NOW GO AND SPAWN
+[Mon Dec 30 19:48:19 2013]  say: ^1Lord ^0Fenix: ok
+[Mon Dec 30 19:49:01 2013]  say: ^1Lord ^0Revan: BRB GOING TO TAKE A SHIT!
+[Mon Dec 30 19:49:06 2013]  say: ^1Lord ^0Revan: I MEAN I GO TO WC
+[Mon Dec 30 19:49:06 2013]  say: ^1Lord ^0Fenix: ?
+[Mon Dec 30 19:49:09 2013]  say: ^1Lord ^0Fenix: xd
+[Mon Dec 30 19:49:15 2013]  say: ^1Lord ^0Revan: not for piss XD
+[Mon Dec 30 19:49:20 2013]  Item: 1 ammo_all
+[Mon Dec 30 19:49:20 2013]  say: ^1Lord ^0Revan: i am waching u
+[Mon Dec 30 19:49:24 2013]  say: ^1Lord ^0Revan: first
+[Mon Dec 30 19:49:25 2013]  say: ^1Lord ^0Revan: POWER
+[Mon Dec 30 19:49:37 2013]  say: ^1Lord ^0Revan: BRB
+[Mon Dec 30 19:49:40 2013]  say: ^1Lord ^0Fenix: :D
+[Mon Dec 30 19:49:43 2013]  say: ^1Lord ^0Fenix: enjoy the shits
+[Mon Dec 30 19:55:46 2013]  say: ^1Lord ^0Revan: back
+[Mon Dec 30 19:56:04 2013]  say: ^1Lord ^0Revan: so we can go?
+[Mon Dec 30 19:56:13 2013]  say: ^1Lord ^0Revan: ?
+[Mon Dec 30 19:56:15 2013]  say: ^1Lord ^0Fenix: yes
+[Mon Dec 30 19:56:16 2013]  say: ^1Lord ^0Fenix: sec
+[Mon Dec 30 19:56:21 2013]  say: ^1Lord ^0Fenix: i spawn prisoners
+[Mon Dec 30 19:56:24 2013]  say: ^1Lord ^0Revan: k
+[Mon Dec 30 19:56:27 2013]  say: ^1Lord ^0Revan: fenix
+[Mon Dec 30 19:56:37 2013]  say: ^1Lord ^0Revan: when we will find luke
+[Mon Dec 30 19:56:43 2013]  say: ^1Lord ^0Revan: u will kill him 
+[Mon Dec 30 19:56:44 2013]  ClientConnect: 2
+[Mon Dec 30 19:56:44 2013]  mlog:Player sc20ka^4 18 rus^1 master, connected. With IP - 94.181.85.136:29070 
+[Mon Dec 30 19:56:45 2013]  say: ^1Lord ^0Revan: only u
+[Mon Dec 30 19:57:00 2013]  say: ^1Lord ^0Revan: for becoming dark lord of the sith
+[Mon Dec 30 19:57:03 2013]  say: ^1Lord ^0Revan: ok?
+[Mon Dec 30 19:57:12 2013]  say: ^1Lord ^0Fenix: ok
+[Mon Dec 30 19:57:16 2013]  say: ^1Lord ^0Revan: can we call vote kick?
+[Mon Dec 30 19:57:22 2013]  ClientBegin: 2
+[Mon Dec 30 19:57:22 2013]  say: ^1Lord ^0Revan: for this asshole
+[Mon Dec 30 19:57:27 2013]  say: sc20ka^4 18 rus^1 master: qq
+[Mon Dec 30 19:57:35 2013]  say: ^1Lord ^0Fenix: no
+[Mon Dec 30 19:57:41 2013]  say: ^1Lord ^0Revan: ok
+[Mon Dec 30 19:57:42 2013]  Kill: 2 2 39: sc20ka^4 18 rus^1 master killed sc20ka^4 18 rus^1 master by MOD_SUICIDE
+[Mon Dec 30 19:57:42 2013]  setteam:  2 FREE SPECTATOR
+[Mon Dec 30 19:57:42 2013]  ClientBegin: 2
+[Mon Dec 30 19:57:43 2013]  say: ^1Lord ^0Fenix: master can play here too
+[Mon Dec 30 19:57:50 2013]  setteam:  2 SPECTATOR FREE
+[Mon Dec 30 19:57:50 2013]  ClientBegin: 2
+[Mon Dec 30 19:57:53 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: gtfo
+[Mon Dec 30 19:57:59 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 19:58:09 2013]  say: ^1Lord ^0Revan: hey were making here a film so please dont kill npc ;))
+[Mon Dec 30 19:58:24 2013]  Kill: 2 2 39: sc20ka^4 18 rus^1 master killed sc20ka^4 18 rus^1 master by MOD_SUICIDE
+[Mon Dec 30 19:58:24 2013]  setteam:  2 FREE SPECTATOR
+[Mon Dec 30 19:58:24 2013]  ClientBegin: 2
+[Mon Dec 30 19:58:28 2013]  say: ^1Lord ^0Fenix: master
+[Mon Dec 30 19:58:31 2013]  setteam:  2 SPECTATOR FREE
+[Mon Dec 30 19:58:31 2013]  ClientBegin: 2
+[Mon Dec 30 19:58:35 2013]  say: sc20ka^4 18 rus^1 master: wat
+[Mon Dec 30 19:58:37 2013]  say: ^1Lord ^0Fenix: can i kill the prisoners?
+[Mon Dec 30 19:58:41 2013]  say: ^1Lord ^0Revan: ye
+[Mon Dec 30 19:58:49 2013]  say: sc20ka^4 18 rus^1 master: loools
+[Mon Dec 30 19:58:58 2013]  say: ^1Lord ^0Revan: plz gtfo
+[Mon Dec 30 19:59:01 2013]  say: ^1Lord ^0Fenix: no
+[Mon Dec 30 19:59:03 2013]  say: sc20ka^4 18 rus^1 master: wat
+[Mon Dec 30 19:59:03 2013]  say: ^1Lord ^0Revan: were making  a film
+[Mon Dec 30 19:59:04 2013]  say: ^1Lord ^0Fenix: he can in movie too
+[Mon Dec 30 19:59:06 2013]  say: ^1Lord ^0Revan: no
+[Mon Dec 30 19:59:09 2013]  say: ^1Lord ^0Fenix: why no
+[Mon Dec 30 19:59:13 2013]  say: sc20ka^4 18 rus^1 master: okey
+[Mon Dec 30 19:59:13 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 19:59:15 2013]  say: ^1Lord ^0Fenix: LOL
+[Mon Dec 30 19:59:15 2013]  say: ^1Lord ^0Revan: because of that
+[Mon Dec 30 19:59:20 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 19:59:28 2013]  say: sc20ka^4 18 rus^1 master: a fucking god mode
+[Mon Dec 30 19:59:31 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 19:59:35 2013]  say: ^1Lord ^0Revan: ...
+[Mon Dec 30 19:59:38 2013]  say: ^1Lord ^0Revan: hes a troller :/
+[Mon Dec 30 19:59:53 2013]  Item: 0 weapon_concussion_rifle
+[Mon Dec 30 19:59:54 2013]  Item: 1 weapon_rocket_launcher
+[Mon Dec 30 19:59:54 2013]  Item: 0 weapon_bryar_pistol
+[Mon Dec 30 19:59:58 2013]  Item: 2 weapon_rocket_launcher
+[Mon Dec 30 20:00:01 2013]  Item: 2 weapon_rocket_launcher
+[Mon Dec 30 20:00:08 2013]  Item: 2 weapon_bryar_pistol
+[Mon Dec 30 20:00:11 2013]  Item: 0 weapon_rocket_launcher
+[Mon Dec 30 20:00:19 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:20 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:20 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:20 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:20 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:20 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:20 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:20 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:21 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:21 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:21 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:21 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:21 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:21 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:00:32 2013]  say: sc20ka^4 18 rus^1 master: :3
+[Mon Dec 30 20:00:34 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: leave from this house
+[Mon Dec 30 20:00:41 2013]  say: sc20ka^4 18 rus^1 master: hello from russia
+[Mon Dec 30 20:00:47 2013]  say: ^1Lord ^0Fenix: im rus
+[Mon Dec 30 20:00:50 2013]  say: sc20ka^4 18 rus^1 master: è ÷å
+[Mon Dec 30 20:00:51 2013]  say: ^1Lord ^0Revan: i really dont like trollers
+[Mon Dec 30 20:01:01 2013]  say: ^1Lord ^0Fenix: lets leave
+[Mon Dec 30 20:01:22 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: where u?
+[Mon Dec 30 20:01:28 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: in arena
+[Mon Dec 30 20:01:50 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: lets duel
+[Mon Dec 30 20:01:56 2013]  say: ^1Lord ^0Revan: wait
+[Mon Dec 30 20:02:06 2013]  say: sc20ka^4 18 rus^1 master: ôâûôüêëæéöäüêéöêüäöéê
+[Mon Dec 30 20:02:07 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good luck, ^2^7^1Lord ^0Fenix, ^7may the force be with you
+[Mon Dec 30 20:02:07 2013]  say: ^1Lord ^0Fenix: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 20:02:11 2013]  Kill: 2 2 39: sc20ka^4 18 rus^1 master killed sc20ka^4 18 rus^1 master by MOD_SUICIDE
+[Mon Dec 30 20:02:11 2013]  setteam:  2 FREE SPECTATOR
+[Mon Dec 30 20:02:11 2013]  ClientBegin: 2
+[Mon Dec 30 20:02:17 2013]  setteam:  2 SPECTATOR FREE
+[Mon Dec 30 20:02:17 2013]  ClientBegin: 2
+[Mon Dec 30 20:02:23 2013]  Kill: 1 0 3: ^1Lord ^0Fenix killed ^1Lord ^0Revan by MOD_SABER
+[Mon Dec 30 20:02:24 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good Fight, ^2^7^1Lord ^0Fenix, ^7 I will avenge :)
+[Mon Dec 30 20:02:24 2013]  say: ^1Lord ^0Fenix: ^0{^2Gf you're no match for me^0}
+[Mon Dec 30 20:02:37 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 20:02:42 2013]  say: ^1Lord ^0Fenix: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 20:02:47 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:02:47 2013]  Kill: 1022 0 0: <world> killed ^1Lord ^0Revan by MOD_UNKNOWN
+[Mon Dec 30 20:03:01 2013]  say: ^1Lord ^0Revan: dude lest go other makermod server k?
+[Mon Dec 30 20:03:01 2013]  Kill: 1 2 3: ^1Lord ^0Fenix killed sc20ka^4 18 rus^1 master by MOD_SABER
+[Mon Dec 30 20:03:02 2013]  say: ^1Lord ^0Fenix: ^0{^2Gf you're no match for me^0}
+[Mon Dec 30 20:03:04 2013]  say: ^1Lord ^0Fenix: gf
+[Mon Dec 30 20:03:06 2013]  say: sc20ka^4 18 rus^1 master: ñó÷êà
+[Mon Dec 30 20:03:08 2013]  say: sc20ka^4 18 rus^1 master: ^1artilerry storm
+[Mon Dec 30 20:03:08 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 20:03:09 2013]  say: ^1Lord ^0Fenix: i love makermod
+[Mon Dec 30 20:03:18 2013]  say: ^1Lord ^0Revan: lest go other one
+[Mon Dec 30 20:03:19 2013]  say: sc20ka^4 18 rus^1 master: go duel
+[Mon Dec 30 20:03:24 2013]  say: ^1Lord ^0Fenix: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 20:03:29 2013]  say: sc20ka^4 18 rus^1 master: wtf
+[Mon Dec 30 20:03:34 2013]  Kill: 1 2 3: ^1Lord ^0Fenix killed sc20ka^4 18 rus^1 master by MOD_SABER
+[Mon Dec 30 20:03:34 2013]  say: ^1Lord ^0Fenix: ^0{^2Gf you're no match for me^0}
+[Mon Dec 30 20:03:36 2013]  say: sc20ka^4 18 rus^1 master: you FUCKIGN BITCH
+[Mon Dec 30 20:03:39 2013]  say: sc20ka^4 18 rus^1 master: NO DO THIS
+[Mon Dec 30 20:03:39 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good luck, ^2^7^1Lord ^0Fenix, ^7may the force be with you
+[Mon Dec 30 20:03:39 2013]  say: ^1Lord ^0Fenix: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 20:03:42 2013]  say: ^1Lord ^0Revan: mad?
+[Mon Dec 30 20:03:44 2013]  say: ^1Lord ^0Revan: XXD
+[Mon Dec 30 20:03:45 2013]  say: sc20ka^4 18 rus^1 master: you
+[Mon Dec 30 20:03:54 2013]  say: sc20ka^4 18 rus^1 master: because noob!
+[Mon Dec 30 20:03:55 2013]  say: ^1Lord ^0Revan: nah
+[Mon Dec 30 20:03:57 2013]  say: ^1Lord ^0Revan: ur mad :))
+[Mon Dec 30 20:03:59 2013]  say: sc20ka^4 18 rus^1 master: noob who used this
+[Mon Dec 30 20:04:00 2013]  say: sc20ka^4 18 rus^1 master: nope
+[Mon Dec 30 20:04:05 2013]  say: ^1Lord ^0Revan: yeah
+[Mon Dec 30 20:04:12 2013]  Kill: 0 1 3: ^1Lord ^0Revan killed ^1Lord ^0Fenix by MOD_SABER
+[Mon Dec 30 20:04:12 2013]  say: ^1Lord ^0Fenix: ^0{^2g_g^0}
+[Mon Dec 30 20:04:12 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good Fight, ^2^7^1Lord ^0Fenix, ^7 Maybe another time mate :D
+[Mon Dec 30 20:04:13 2013]  say: ^1Lord ^0Fenix: gf
+[Mon Dec 30 20:04:18 2013]  say: sc20ka^4 18 rus^1 master: ^1artilerry storm
+[Mon Dec 30 20:04:19 2013]  Kill: 2 0 36: sc20ka^4 18 rus^1 master killed ^1Lord ^0Revan by MOD_CRUSH
+[Mon Dec 30 20:04:19 2013]  say: sc20ka^4 18 rus^1 master: ^7atmospheric lens is activated
+[Mon Dec 30 20:04:19 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:04:19 2013]  tell: ^1Lord ^0Revan to sc20ka^4 18 rus^1 master: ^2^7sc20ka^4 18 rus^1 master, ^7 YOU KILLED ME HUH? GOOD 
+[Mon Dec 30 20:04:27 2013]  say: ^1Lord ^0Revan: i dont wanna play with noob hackers
+[Mon Dec 30 20:04:35 2013]  say: sc20ka^4 18 rus^1 master: hackers :D ?
+[Mon Dec 30 20:04:37 2013]  say: sc20ka^4 18 rus^1 master: XD
+[Mon Dec 30 20:04:38 2013]  say: sc20ka^4 18 rus^1 master: waat
+[Mon Dec 30 20:04:39 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good luck, ^2^7^1Lord ^0Fenix, ^7may the force be with you
+[Mon Dec 30 20:04:39 2013]  say: ^1Lord ^0Fenix: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 20:04:42 2013]  say: ^1Lord ^0Fenix: hes mad
+[Mon Dec 30 20:04:45 2013]  Kill: 2 2 39: sc20ka^4 18 rus^1 master killed sc20ka^4 18 rus^1 master by MOD_SUICIDE
+[Mon Dec 30 20:04:45 2013]  setteam:  2 FREE SPECTATOR
+[Mon Dec 30 20:04:45 2013]  ClientBegin: 2
+[Mon Dec 30 20:04:46 2013]  Kill: 1 0 3: ^1Lord ^0Fenix killed ^1Lord ^0Revan by MOD_SABER
+[Mon Dec 30 20:04:46 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good Fight, ^2^7^1Lord ^0Fenix, ^7 I will avenge :)
+[Mon Dec 30 20:04:46 2013]  say: ^1Lord ^0Fenix: ^0{^2Gf you're no match for me^0}
+[Mon Dec 30 20:04:48 2013]  say: ^1Lord ^0Revan: ik
+[Mon Dec 30 20:04:49 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 20:04:50 2013]  setteam:  2 SPECTATOR FREE
+[Mon Dec 30 20:04:50 2013]  ClientBegin: 2
+[Mon Dec 30 20:04:59 2013]  say: ^1Lord ^0Fenix: master!
+[Mon Dec 30 20:05:01 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:05:01 2013]  Kill: 2 1 36: sc20ka^4 18 rus^1 master killed ^1Lord ^0Fenix by MOD_CRUSH
+[Mon Dec 30 20:05:15 2013]  say: sc20ka^4 18 rus^1 master: who say IM FROM RUSSIA
+[Mon Dec 30 20:05:20 2013]  say: sc20ka^4 18 rus^1 master: ei
+[Mon Dec 30 20:05:33 2013]  Kill: 2 2 39: sc20ka^4 18 rus^1 master killed sc20ka^4 18 rus^1 master by MOD_SUICIDE
+[Mon Dec 30 20:05:33 2013]  setteam:  2 FREE SPECTATOR
+[Mon Dec 30 20:05:33 2013]  ClientBegin: 2
+[Mon Dec 30 20:05:40 2013]  setteam:  2 SPECTATOR FREE
+[Mon Dec 30 20:05:40 2013]  ClientBegin: 2
+[Mon Dec 30 20:05:44 2013]  say: ^1Lord ^0Revan: kneel hes a DARK LORD
+[Mon Dec 30 20:05:59 2013]  say: ^1Lord ^0Fenix: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 20:06:10 2013]  Kill: 1 2 3: ^1Lord ^0Fenix killed sc20ka^4 18 rus^1 master by MOD_SABER
+[Mon Dec 30 20:06:11 2013]  say: ^1Lord ^0Fenix: ^0{^2Gf you're no match for me^0}
+[Mon Dec 30 20:06:12 2013]  say: sc20ka^4 18 rus^1 master: fucking shit
+[Mon Dec 30 20:06:15 2013]  say: sc20ka^4 18 rus^1 master: you fucking shit
+[Mon Dec 30 20:06:16 2013]  say: ^1Lord ^0Revan: mad? :)
+[Mon Dec 30 20:06:19 2013]  say: sc20ka^4 18 rus^1 master: nope
+[Mon Dec 30 20:06:19 2013]  say: ^1Lord ^0Fenix: :)))
+[Mon Dec 30 20:06:21 2013]  say: sc20ka^4 18 rus^1 master: dont use this
+[Mon Dec 30 20:06:29 2013]  say: ^1Lord ^0Revan: then why ur talking with fuck and shit huh ?
+[Mon Dec 30 20:06:39 2013]  say: ^1Lord ^0Revan: :))
+[Mon Dec 30 20:06:41 2013]  say: ^1Lord ^0Fenix: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 20:06:44 2013]  say: sc20ka^4 18 rus^1 master: go normal duel 
+[Mon Dec 30 20:06:44 2013]  say: ^1Lord ^0Revan: keep mad him
+[Mon Dec 30 20:06:56 2013]  say: sc20ka^4 18 rus^1 master: facepalm
+[Mon Dec 30 20:06:56 2013]  Kill: 1 2 3: ^1Lord ^0Fenix killed sc20ka^4 18 rus^1 master by MOD_SABER
+[Mon Dec 30 20:06:57 2013]  say: ^1Lord ^0Fenix: ^0{^2Gf you're no match for me^0}
+[Mon Dec 30 20:06:58 2013]  say: sc20ka^4 18 rus^1 master: you mad
+[Mon Dec 30 20:07:01 2013]  say: sc20ka^4 18 rus^1 master: no im... you.
+[Mon Dec 30 20:07:08 2013]  say: ^1Lord ^0Revan: do u think we listen to u ? XD
+[Mon Dec 30 20:07:09 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 20:07:09 2013]  Kill: 2 1 0: sc20ka^4 18 rus^1 master killed ^1Lord ^0Fenix by MOD_UNKNOWN
+[Mon Dec 30 20:07:09 2013]  Kill: 2 0 0: sc20ka^4 18 rus^1 master killed ^1Lord ^0Revan by MOD_UNKNOWN
+[Mon Dec 30 20:07:09 2013]  tell: ^1Lord ^0Revan to sc20ka^4 18 rus^1 master: ^2^7sc20ka^4 18 rus^1 master, ^7 YOU KILLED ME HUH? GOOD 
+[Mon Dec 30 20:07:16 2013]  say: ^1Lord ^0Revan: and i dont get mad :))
+[Mon Dec 30 20:07:21 2013]  say: ^1Lord ^0Revan: its a waste
+[Mon Dec 30 20:07:28 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good luck, ^2^7^1Lord ^0Fenix, ^7may the force be with you
+[Mon Dec 30 20:07:28 2013]  say: ^1Lord ^0Fenix: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 20:07:31 2013]  say: sc20ka^4 18 rus^1 master: you have't the mod
+[Mon Dec 30 20:07:33 2013]  Kill: 1 0 3: ^1Lord ^0Fenix killed ^1Lord ^0Revan by MOD_SABER
+[Mon Dec 30 20:07:33 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good Fight, ^2^7^1Lord ^0Fenix, ^7 I will avenge :)
+[Mon Dec 30 20:07:33 2013]  say: ^1Lord ^0Fenix: ^0{^2Gf you're no match for me^0}
+[Mon Dec 30 20:07:35 2013]  say: sc20ka^4 18 rus^1 master: and what ?
+[Mon Dec 30 20:07:40 2013]  say: ^1Lord ^0Revan: :)
+[Mon Dec 30 20:07:43 2013]  say: sc20ka^4 18 rus^1 master: im see only
+[Mon Dec 30 20:07:45 2013]  say: sc20ka^4 18 rus^1 master: you are noob
+[Mon Dec 30 20:07:48 2013]  say: ^1Lord ^0Revan: nah
+[Mon Dec 30 20:07:52 2013]  say: sc20ka^4 18 rus^1 master: because you don't know what is duel
+[Mon Dec 30 20:07:59 2013]  say: sc20ka^4 18 rus^1 master: you used only bag
+[Mon Dec 30 20:08:01 2013]  say: sc20ka^4 18 rus^1 master: to win
+[Mon Dec 30 20:08:05 2013]  say: ^1Lord ^0Revan: or maybe ur mad that u lose 
+[Mon Dec 30 20:08:06 2013]  say: ^1Lord ^0Revan: :)
+[Mon Dec 30 20:08:17 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: he is so mad XD
+[Mon Dec 30 20:08:20 2013]  say: sc20ka^4 18 rus^1 master: go duel and you NO UES THIS
+[Mon Dec 30 20:08:23 2013]  say: sc20ka^4 18 rus^1 master: noram duel
+[Mon Dec 30 20:08:24 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: i know :D
+[Mon Dec 30 20:08:27 2013]  say: sc20ka^4 18 rus^1 master: else you noob
+[Mon Dec 30 20:08:36 2013]  say: sc20ka^4 18 rus^1 master: My origin is: (-7511 -1290 -487) - You can teleport here with /mtelelast
+
+[Mon Dec 30 20:08:37 2013]  say: ^1Lord ^0Revan: dude ... 
+[Mon Dec 30 20:08:43 2013]  say: ^1Lord ^0Revan: dude!
+[Mon Dec 30 20:08:47 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: hes laging
+[Mon Dec 30 20:08:51 2013]  say: sc20ka^4 18 rus^1 master: you nooby ?
+[Mon Dec 30 20:08:52 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: and raging
+[Mon Dec 30 20:09:02 2013]  say: ^1Lord ^0Revan: the creator of  server made this duel with that fucking thing
+[Mon Dec 30 20:09:07 2013]  say: ^1Lord ^0Revan: so you cant normal duel
+[Mon Dec 30 20:09:08 2013]  say: ^1Lord ^0Revan: :/
+[Mon Dec 30 20:09:48 2013]  say: sc20ka^4 18 rus^1 master: ....
+[Mon Dec 30 20:09:50 2013]  say: sc20ka^4 18 rus^1 master: okaay
+[Mon Dec 30 20:09:58 2013]  say: sc20ka^4 18 rus^1 master: go to ...
+[Mon Dec 30 20:10:08 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: where u?
+[Mon Dec 30 20:10:22 2013]  say: sc20ka^4 18 rus^1 master: other server
+[Mon Dec 30 20:10:30 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: in arena
+[Mon Dec 30 20:11:11 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good luck, ^2^7^1Lord ^0Fenix, ^7may the force be with you
+[Mon Dec 30 20:11:11 2013]  say: ^1Lord ^0Fenix: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 20:11:26 2013]  say: sc20ka^4 18 rus^1 master: I just have a great desire to beat you
+[Mon Dec 30 20:11:38 2013]  say: sc20ka^4 18 rus^1 master: facepalm.jpg
+[Mon Dec 30 20:11:41 2013]  Kill: 1 0 3: ^1Lord ^0Fenix killed ^1Lord ^0Revan by MOD_SABER
+[Mon Dec 30 20:11:42 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good Fight, ^2^7^1Lord ^0Fenix, ^7 I will avenge :)
+[Mon Dec 30 20:11:42 2013]  say: ^1Lord ^0Fenix: ^0{^2Gf you're no match for me^0}
+[Mon Dec 30 20:11:44 2013]  say: ^1Lord ^0Fenix: gf
+[Mon Dec 30 20:11:44 2013]  say: ^1Lord ^0Revan: G
+[Mon Dec 30 20:11:47 2013]  say: ^1Lord ^0Revan: f
+[Mon Dec 30 20:11:57 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:11:57 2013]  say: sc20ka^4 18 rus^1 master: ^7atmospheric lens is activated
+[Mon Dec 30 20:12:05 2013]  say: sc20ka^4 18 rus^1 master: say me
+[Mon Dec 30 20:12:08 2013]  say: sc20ka^4 18 rus^1 master: why im cheater ?
+[Mon Dec 30 20:12:09 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:12:15 2013]  say: ^1Lord ^0Revan: u dont cheat
+[Mon Dec 30 20:12:19 2013]  say: ^1Lord ^0Revan: u use scripts
+[Mon Dec 30 20:12:24 2013]  say: sc20ka^4 18 rus^1 master: and wat
+[Mon Dec 30 20:12:28 2013]  say: ^1Lord ^0Revan: nothing
+[Mon Dec 30 20:12:30 2013]  say: sc20ka^4 18 rus^1 master: u friend say this
+[Mon Dec 30 20:12:30 2013]  say: ^1Lord ^0Revan: ;))
+[Mon Dec 30 20:12:38 2013]  say: ^1Lord ^0Revan: he is using scripts man
+[Mon Dec 30 20:12:59 2013]  say: sc20ka^4 18 rus^1 master: ^1artilerry storm
+[Mon Dec 30 20:13:00 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:13:00 2013]  say: sc20ka^4 18 rus^1 master: ^7atmospheric lens is activated
+[Mon Dec 30 20:13:01 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: come arena
+[Mon Dec 30 20:13:23 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good luck, ^2^7^1Lord ^0Fenix, ^7may the force be with you
+[Mon Dec 30 20:13:23 2013]  say: ^1Lord ^0Fenix: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 20:13:26 2013]  say: sc20ka^4 18 rus^1 master: -.-
+[Mon Dec 30 20:13:33 2013]  say: sc20ka^4 18 rus^1 master: you kidding me...
+[Mon Dec 30 20:13:40 2013]  Kill: 0 1 3: ^1Lord ^0Revan killed ^1Lord ^0Fenix by MOD_SABER
+[Mon Dec 30 20:13:41 2013]  say: sc20ka^4 18 rus^1 master: -.-
+[Mon Dec 30 20:13:41 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good Fight, ^2^7^1Lord ^0Fenix, ^7 Maybe another time mate :D
+[Mon Dec 30 20:13:41 2013]  say: ^1Lord ^0Fenix: ^0{^2g_g^0}
+[Mon Dec 30 20:13:42 2013]  say: ^1Lord ^0Fenix: xd
+[Mon Dec 30 20:13:48 2013]  say: sc20ka^4 18 rus^1 master: yes yes
+[Mon Dec 30 20:13:53 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good luck, ^2^7^1Lord ^0Fenix, ^7may the force be with you
+[Mon Dec 30 20:13:53 2013]  say: ^1Lord ^0Fenix: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 20:13:55 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:14:03 2013]  say: ^1Lord ^0Revan: YOUR SO MAD AHHAAH
+[Mon Dec 30 20:14:04 2013]  say: ^1Lord ^0Revan: ahhahaha
+[Mon Dec 30 20:14:06 2013]  say: ^1Lord ^0Revan: ahaha
+[Mon Dec 30 20:14:07 2013]  say: ^1Lord ^0Revan: ahhah
+[Mon Dec 30 20:14:07 2013]  say: ^1Lord ^0Revan: haha
+[Mon Dec 30 20:14:08 2013]  say: ^1Lord ^0Revan: haha
+[Mon Dec 30 20:14:09 2013]  say: ^1Lord ^0Revan: haha
+[Mon Dec 30 20:14:11 2013]  say: sc20ka^4 18 rus^1 master: thanks
+[Mon Dec 30 20:14:17 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: meditate
+[Mon Dec 30 20:14:18 2013]  say: ^1Lord ^0Revan: mad
+[Mon Dec 30 20:14:19 2013]  say: ^1Lord ^0Revan: mad
+[Mon Dec 30 20:14:20 2013]  say: ^1Lord ^0Revan: mad
+[Mon Dec 30 20:14:21 2013]  say: ^1Lord ^0Revan: mad
+[Mon Dec 30 20:14:22 2013]  say: ^1Lord ^0Revan: mad
+[Mon Dec 30 20:14:22 2013]  say: ^1Lord ^0Revan: mad
+[Mon Dec 30 20:14:23 2013]  say: ^1Lord ^0Revan: mad
+[Mon Dec 30 20:14:23 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:14:24 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: meditate idiot
+[Mon Dec 30 20:14:25 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:14:31 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: come xfie
+[Mon Dec 30 20:14:35 2013]  say: sc20ka^4 18 rus^1 master: do you like the lag's
+[Mon Dec 30 20:14:36 2013]  say: sc20ka^4 18 rus^1 master: :3 ?
+[Mon Dec 30 20:14:39 2013]  say: ^1Lord ^0Fenix: ^0Ultra Utility ^2- ^4Jedi Academy has been ^3Minimized
+[Mon Dec 30 20:14:40 2013]  say: ^1Lord ^0Revan: YES
+[Mon Dec 30 20:14:43 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Revan: ^0UU ^1- ^5JA ^0Minimized
+[Mon Dec 30 20:14:43 2013]  say: sc20ka^4 18 rus^1 master: :3
+[Mon Dec 30 20:14:47 2013]  Kill: 2 2 39: sc20ka^4 18 rus^1 master killed sc20ka^4 18 rus^1 master by MOD_SUICIDE
+[Mon Dec 30 20:14:47 2013]  setteam:  2 FREE SPECTATOR
+[Mon Dec 30 20:14:47 2013]  ClientBegin: 2
+[Mon Dec 30 20:14:52 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:14:52 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:14:53 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:14:53 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:14:53 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:14:53 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:14:57 2013]  setteam:  2 SPECTATOR FREE
+[Mon Dec 30 20:14:57 2013]  ClientBegin: 2
+[Mon Dec 30 20:15:19 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Revan: ^0UU ^1- ^5JA ^0Restored
+[Mon Dec 30 20:15:23 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Revan: ^0UU ^1- ^5JA ^0Minimized
+[Mon Dec 30 20:15:36 2013]  say: sc20ka^4 18 rus^1 master: :3
+[Mon Dec 30 20:15:58 2013]  say: sc20ka^4 18 rus^1 master: ^3my ship....
+[Mon Dec 30 20:16:42 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Revan: ^0UU ^1- ^5JA ^0Restored
+[Mon Dec 30 20:16:47 2013]  say: sc20ka^4 18 rus^1 master: XD
+[Mon Dec 30 20:16:50 2013]  say: sc20ka^4 18 rus^1 master: he afk
+[Mon Dec 30 20:16:52 2013]  say: ^1Lord ^0Fenix: ^0Ultra Utility ^2- ^4Jedi Academy has been ^3Restored
+[Mon Dec 30 20:16:58 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:17:01 2013]  say: ^1Lord ^0Revan: afk
+[Mon Dec 30 20:17:02 2013]  say: sc20ka^4 18 rus^1 master: :3
+[Mon Dec 30 20:17:04 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Revan: ^0UU ^1- ^5JA ^0Minimized
+[Mon Dec 30 20:17:39 2013]  say: ^1Lord ^0Fenix: ^0Ultra Utility ^2- ^4Jedi Academy has been ^3Minimized
+[Mon Dec 30 20:17:41 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Revan: ^0UU ^1- ^5JA ^0Restored
+[Mon Dec 30 20:17:49 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Revan: ^0UU ^1- ^5JA ^0Minimized
+[Mon Dec 30 20:18:50 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Revan: ^0UU ^1- ^5JA ^0Restored
+[Mon Dec 30 20:18:55 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^7Good Fight, ^2^7^1Lord ^0Fenix, ^7 Maybe another time mate :D
+[Mon Dec 30 20:18:55 2013]  say: ^1Lord ^0Fenix: ^0{^2Gf you're no match for me^0}
+[Mon Dec 30 20:18:59 2013]  say: sc20ka^4 18 rus^1 master: lols
+[Mon Dec 30 20:19:00 2013]  say: ^1Lord ^0Fenix: ^0Ultra Utility ^2- ^4Jedi Academy has been ^3Restored
+[Mon Dec 30 20:19:03 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 20:19:03 2013]  Kill: 2 1 36: sc20ka^4 18 rus^1 master killed ^1Lord ^0Fenix by MOD_CRUSH
+[Mon Dec 30 20:19:09 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: IDIOT
+[Mon Dec 30 20:19:12 2013]  say: sc20ka^4 18 rus^1 master: yes yes
+[Mon Dec 30 20:19:16 2013]  say: sc20ka^4 18 rus^1 master: else im kill you'rs
+[Mon Dec 30 20:19:16 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Revan: ^0UU ^1- ^5JA ^0Minimized
+[Mon Dec 30 20:19:20 2013]  say: sc20ka^4 18 rus^1 master: :3
+[Mon Dec 30 20:19:23 2013]  say: sc20ka^4 18 rus^1 master: XD
+[Mon Dec 30 20:19:24 2013]  say: ^1Lord ^0Fenix: 78 / 2 ez
+[Mon Dec 30 20:19:49 2013]  Kill: 1 0 3: ^1Lord ^0Fenix killed ^1Lord ^0Revan by MOD_SABER
+[Mon Dec 30 20:20:07 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Revan: ^0UU ^1- ^5JA ^0Restored
+[Mon Dec 30 20:20:25 2013]  Kill: 2 0 19: sc20ka^4 18 rus^1 master killed ^1Lord ^0Revan by MOD_ROCKET
+[Mon Dec 30 20:20:25 2013]  tell: ^1Lord ^0Revan to sc20ka^4 18 rus^1 master: ^2^7sc20ka^4 18 rus^1 master, ^7 YOU KILLED ME HUH? GOOD 
+[Mon Dec 30 20:20:31 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: u rly idiot :)?
+[Mon Dec 30 20:20:34 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: use god mode
+[Mon Dec 30 20:20:40 2013]  say: sc20ka^4 18 rus^1 master: yes im kill you, and stop used plugin
+[Mon Dec 30 20:20:46 2013]  Kill: 0 0 39: ^1Lord ^0Revan killed ^1Lord ^0Revan by MOD_SUICIDE
+[Mon Dec 30 20:20:46 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Revan: Revan Dang XD
+[Mon Dec 30 20:21:06 2013]  say: sc20ka^4 18 rus^1 master: and wat
+[Mon Dec 30 20:21:09 2013]  say: ^1Lord ^0Revan: :))
+[Mon Dec 30 20:21:16 2013]  say: sc20ka^4 18 rus^1 master: hey
+[Mon Dec 30 20:21:27 2013]  say: sc20ka^4 18 rus^1 master: im launch rocket and go to msacle
+[Mon Dec 30 20:21:30 2013]  say: sc20ka^4 18 rus^1 master: 0
+[Mon Dec 30 20:21:40 2013]  say: sc20ka^4 18 rus^1 master: ...
+[Mon Dec 30 20:21:41 2013]  say: ^1Lord ^0Fenix: xd
+[Mon Dec 30 20:21:42 2013]  say: sc20ka^4 18 rus^1 master: okay
+[Mon Dec 30 20:21:43 2013]  say: ^1Lord ^0Fenix: dont push
+[Mon Dec 30 20:21:47 2013]  say: sc20ka^4 18 rus^1 master: you launch me rocket
+[Mon Dec 30 20:21:48 2013]  say: ^1Lord ^0Revan: k
+[Mon Dec 30 20:21:58 2013]  say: sc20ka^4 18 rus^1 master: ....
+[Mon Dec 30 20:21:58 2013]  Kill: 1 2 19: ^1Lord ^0Fenix killed sc20ka^4 18 rus^1 master by MOD_ROCKET
+[Mon Dec 30 20:22:01 2013]  say: ^1Lord ^0Fenix: GG
+[Mon Dec 30 20:22:02 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: dude i am boring
+[Mon Dec 30 20:22:07 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: ROCKET ME
+[Mon Dec 30 20:22:11 2013]  say: sc20ka^4 18 rus^1 master: launch
+[Mon Dec 30 20:22:17 2013]  say: sc20ka^4 18 rus^1 master: :3
+[Mon Dec 30 20:22:30 2013]  say: sc20ka^4 18 rus^1 master: im have to idea...
+[Mon Dec 30 20:22:31 2013]  say: sc20ka^4 18 rus^1 master: wait
+[Mon Dec 30 20:22:43 2013]  say: sc20ka^4 18 rus^1 master: stop 0.0
+[Mon Dec 30 20:22:44 2013]  say: sc20ka^4 18 rus^1 master: -.-
+[Mon Dec 30 20:22:48 2013]  Kill: 0 2 21: ^1Lord ^0Revan killed sc20ka^4 18 rus^1 master by MOD_ROCKET_HOMING
+[Mon Dec 30 20:22:48 2013]  tell: ^1Lord ^0Revan to sc20ka^4 18 rus^1 master: ^2^7sc20ka^4 18 rus^1 master, ^7WOOO I . Killed  peapol in total bicht!
+[Mon Dec 30 20:22:51 2013]  say: sc20ka^4 18 rus^1 master: ok...
+[Mon Dec 30 20:22:55 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: rocket me
+[Mon Dec 30 20:22:55 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 20:22:58 2013]  say: ^1Lord ^0Revan: if you do scripts i ignore so :PP
+[Mon Dec 30 20:22:58 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 20:23:01 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 20:23:03 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:23:03 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 20:23:08 2013]  say: ^1Lord ^0Revan: you do them for a waste man :/
+[Mon Dec 30 20:23:09 2013]  say: sc20ka^4 18 rus^1 master: dont use god :3
+[Mon Dec 30 20:23:43 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: rocket me
+[Mon Dec 30 20:24:14 2013]  say: ^1Lord ^0Revan: almost 3
+[Mon Dec 30 20:24:17 2013]  say: ^1Lord ^0Fenix: yea
+[Mon Dec 30 20:24:34 2013]  say: ^1Lord ^0Fenix: rocket me
+[Mon Dec 30 20:24:36 2013]  Exit: Timelimit hit.
+[Mon Dec 30 20:24:36 2013]  score: 85  ping: 50  client: 0 ^1Lord ^0Revan
+[Mon Dec 30 20:24:36 2013]  score: 80  ping: 219  client: 1 ^1Lord ^0Fenix
+[Mon Dec 30 20:24:36 2013]  score: 3  ping: 105  client: 2 sc20ka^4 18 rus^1 master
+[Mon Dec 30 20:24:42 2013]  ShutdownGame:
+[Mon Dec 30 20:24:42 2013]  ------------------------------------------------------------
+[Mon Dec 30 20:24:43 2013]  ------------------------------------------------------------
+[Mon Dec 30 20:24:43 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Dec 30 20:24:45 2013]  ClientConnect: 0
+[Mon Dec 30 20:24:45 2013]  ClientConnect: 1
+[Mon Dec 30 20:24:45 2013]  ClientConnect: 2
+[Mon Dec 30 20:24:59 2013]  ClientBegin: 2
+[Mon Dec 30 20:25:04 2013]  ClientBegin: 0
+[Mon Dec 30 20:25:04 2013]  say: ^1Lord ^0Revan: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon Dec 30 20:25:17 2013]  say: ^1Lord ^0Fenix: ^0Ultra Utility ^2- ^4Jedi Academy has been ^3Minimized
+[Mon Dec 30 20:25:17 2013]  ClientBegin: 1
+[Mon Dec 30 20:25:52 2013]  say: ^1Lord ^0Fenix: ^0Ultra Utility ^2- ^4Jedi Academy has been ^3Restored
+[Mon Dec 30 20:25:57 2013]  say: sc20ka^4 18 rus^1 master: o nice
+[Mon Dec 30 20:26:17 2013]  say: sc20ka^4 18 rus^1 master: :3
+[Mon Dec 30 20:26:21 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: here comes another one
+[Mon Dec 30 20:26:28 2013]  say: ^1Lord ^0Fenix: wtf
+[Mon Dec 30 20:26:40 2013]  say: sc20ka^4 18 rus^1 master: :3
+[Mon Dec 30 20:26:43 2013]  say: sc20ka^4 18 rus^1 master: im love this
+[Mon Dec 30 20:26:52 2013]  say: ^1Lord ^0Fenix: xdd
+[Mon Dec 30 20:26:53 2013]  Kill: 2 1 22: sc20ka^4 18 rus^1 master killed ^1Lord ^0Fenix by MOD_ROCKET_HOMING_SPLASH
+[Mon Dec 30 20:27:03 2013]  say: sc20ka^4 18 rus^1 master: all
+[Mon Dec 30 20:27:05 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: me
+[Mon Dec 30 20:27:05 2013]  say: sc20ka^4 18 rus^1 master: notarget
+[Mon Dec 30 20:27:06 2013]  Item: 1 weapon_rocket_launcher
+[Mon Dec 30 20:27:11 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: rocket me
+[Mon Dec 30 20:27:31 2013]  Kill: 0 1 22: ^1Lord ^0Revan killed ^1Lord ^0Fenix by MOD_ROCKET_HOMING_SPLASH
+[Mon Dec 30 20:27:31 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^2^7^1Lord ^0Fenix, ^7WOOO I . Killed  peapol in total bicht!
+[Mon Dec 30 20:27:32 2013]  say: ^1Lord ^0Fenix: xd
+[Mon Dec 30 20:27:36 2013]  say: ^1Lord ^0Revan: almost 3 
+[Mon Dec 30 20:28:29 2013]  say: ^1Lord ^0Fenix: rocket me
+[Mon Dec 30 20:28:31 2013]  say: ^1Lord ^0Revan: rocket me :)
+[Mon Dec 30 20:28:34 2013]  say: ^1Lord ^0Fenix: OK
+[Mon Dec 30 20:28:49 2013]  say: ^1Lord ^0Fenix: DONT MOVE
+[Mon Dec 30 20:28:51 2013]  say: ^1Lord ^0Fenix: JUST JUMP
+[Mon Dec 30 20:29:27 2013]  say: sc20ka^4 18 rus^1 master: fuck yeah
+[Mon Dec 30 20:29:33 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: ROCKET ME
+[Mon Dec 30 20:29:36 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: more rockets
+[Mon Dec 30 20:29:39 2013]  say: ^1Lord ^0Revan: wait
+[Mon Dec 30 20:29:40 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: and watch
+[Mon Dec 30 20:29:43 2013]  say: ^1Lord ^0Revan: we rocket eachother
+[Mon Dec 30 20:29:54 2013]  say: ^1Lord ^0Fenix: OMG
+[Mon Dec 30 20:29:57 2013]  say: ^1Lord ^0Fenix: MORE ROCKETS
+[Mon Dec 30 20:29:58 2013]  say: ^1Lord ^0Fenix: NOT ONE!
+[Mon Dec 30 20:30:01 2013]  say: sc20ka^4 18 rus^1 master: My origin is: (-9545 -21082 1536) - You can teleport here with /mtelelast
+
+[Mon Dec 30 20:30:06 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: IDIOT
+[Mon Dec 30 20:30:08 2013]  say: sc20ka^4 18 rus^1 master: 10-20 rocket's
+[Mon Dec 30 20:30:09 2013]  say: ^1Lord ^0Revan: you have to dont move
+[Mon Dec 30 20:30:11 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: MORE ROCKETS!
+[Mon Dec 30 20:30:34 2013]  say: ^1Lord ^0Fenix: XD
+[Mon Dec 30 20:30:37 2013]  say: sc20ka^4 18 rus^1 master: lols
+[Mon Dec 30 20:30:39 2013]  say: sc20ka^4 18 rus^1 master: you noobs
+[Mon Dec 30 20:30:40 2013]  Kill: 0 1 22: ^1Lord ^0Revan killed ^1Lord ^0Fenix by MOD_ROCKET_HOMING_SPLASH
+[Mon Dec 30 20:30:40 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^2^7^1Lord ^0Fenix, ^7WOOO I . Killed  peapol in total bicht!
+[Mon Dec 30 20:30:42 2013]  say: ^1Lord ^0Fenix: LOL
+[Mon Dec 30 20:30:44 2013]  say: ^1Lord ^0Revan: nah 
+[Mon Dec 30 20:30:49 2013]  say: sc20ka^4 18 rus^1 master: go to me
+[Mon Dec 30 20:30:51 2013]  Kill: 0 1 21: ^1Lord ^0Revan killed ^1Lord ^0Fenix by MOD_ROCKET_HOMING
+[Mon Dec 30 20:30:51 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: ^2^7^1Lord ^0Fenix, ^7WOOO I . Killed  peapol in total bicht!
+[Mon Dec 30 20:30:54 2013]  say: ^1Lord ^0Revan: nop
+[Mon Dec 30 20:31:05 2013]  say: sc20ka^4 18 rus^1 master: 10-20 rocket's :3
+[Mon Dec 30 20:31:10 2013]  say: ^1Lord ^0Revan: dont care
+[Mon Dec 30 20:31:17 2013]  say: ^1Lord ^0Revan: lel
+[Mon Dec 30 20:31:37 2013]  say: ^1Lord ^0Revan: rocket me
+[Mon Dec 30 20:31:47 2013]  say: ^1Lord ^0Revan: ?
+[Mon Dec 30 20:32:01 2013]  say: sc20ka^4 18 rus^1 master: xDDDDDDDDDD
+[Mon Dec 30 20:32:03 2013]  say: sc20ka^4 18 rus^1 master: holy shit
+[Mon Dec 30 20:32:08 2013]  say: sc20ka^4 18 rus^1 master: lags
+[Mon Dec 30 20:32:17 2013]  say: sc20ka^4 18 rus^1 master: ^1artilerry storm
+[Mon Dec 30 20:32:17 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:32:18 2013]  say: sc20ka^4 18 rus^1 master: ^7atmospheric lens is activated
+[Mon Dec 30 20:32:21 2013]  say: sc20ka^4 18 rus^1 master: nooooooooooooooooooooooooooo
+[Mon Dec 30 20:32:24 2013]  say: sc20ka^4 18 rus^1 master: fuck...
+[Mon Dec 30 20:33:25 2013]  say: sc20ka^4 18 rus^1 master: fuck you
+[Mon Dec 30 20:33:30 2013]  say: ^1Lord ^0Revan: what?
+[Mon Dec 30 20:33:39 2013]  say: sc20ka^4 18 rus^1 master: bitch's
+[Mon Dec 30 20:33:45 2013]  say: ^1Lord ^0Revan: what problem?
+[Mon Dec 30 20:33:54 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: ignore him
+[Mon Dec 30 20:34:30 2013]  say: ^1Lord ^0Fenix: 3 
+[Mon Dec 30 20:34:36 2013]  say: ^1Lord ^0Fenix: lets tenis
+[Mon Dec 30 20:34:59 2013]  say: ^1Lord ^0Fenix: win
+[Mon Dec 30 20:35:02 2013]  say: ^1Lord ^0Fenix: 2/1
+[Mon Dec 30 20:35:11 2013]  say: ^1Lord ^0Revan: win
+[Mon Dec 30 20:35:19 2013]  say: ^1Lord ^0Revan: win
+[Mon Dec 30 20:35:28 2013]  say: ^1Lord ^0Revan: ah
+[Mon Dec 30 20:35:48 2013]  say: ^1Lord ^0Fenix: win
+[Mon Dec 30 20:35:55 2013]  say: ^1Lord ^0Fenix: win
+[Mon Dec 30 20:36:06 2013]  say: ^1Lord ^0Fenix: win
+[Mon Dec 30 20:36:06 2013]  say: ^1Lord ^0Revan: cheater!
+[Mon Dec 30 20:36:19 2013]  say: ^1Lord ^0Revan: ,.,,
+[Mon Dec 30 20:36:34 2013]  say: sc20ka^4 18 rus^1 master: laags
+[Mon Dec 30 20:36:39 2013]  say: sc20ka^4 18 rus^1 master: very more rocket's
+[Mon Dec 30 20:36:50 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: wait i wanna troll him
+[Mon Dec 30 20:37:08 2013]  say: sc20ka^4 18 rus^1 master: fuck you
+[Mon Dec 30 20:37:31 2013]  say: sc20ka^4 18 rus^1 master: noob!
+[Mon Dec 30 20:37:38 2013]  say: sc20ka^4 18 rus^1 master: noob
+[Mon Dec 30 20:37:45 2013]  say: sc20ka^4 18 rus^1 master: and noob!
+[Mon Dec 30 20:37:54 2013]  say: sc20ka^4 18 rus^1 master: facepalm
+[Mon Dec 30 20:37:56 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:38:21 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 20:38:35 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:39:15 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 20:39:30 2013]  say: sc20ka^4 18 rus^1 master: god moder
+[Mon Dec 30 20:39:31 2013]  say: sc20ka^4 18 rus^1 master: :3
+[Mon Dec 30 20:39:40 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 20:39:41 2013]  say: sc20ka^4 18 rus^1 master: ^1artilerry storm
+[Mon Dec 30 20:39:42 2013]  say: sc20ka^4 18 rus^1 master: ^1artilerry storm
+[Mon Dec 30 20:40:11 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: there is other makermod server
+[Mon Dec 30 20:40:22 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: the one u gived me
+[Mon Dec 30 20:40:23 2013]  say: sc20ka^4 18 rus^1 master: ^7atmospheric lens is activated
+[Mon Dec 30 20:40:24 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: ok go search and give ip in xfire
+[Mon Dec 30 20:40:25 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:40:30 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: the one u gived me
+[Mon Dec 30 20:41:03 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: dude the equestria makermod sv
+[Mon Dec 30 20:41:07 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: dude the equestria makermod server*
+[Mon Dec 30 20:41:07 2013]  say: sc20ka^4 18 rus^1 master: lols
+[Mon Dec 30 20:41:18 2013]  say: sc20ka^4 18 rus^1 master: my score the best !
+[Mon Dec 30 20:41:22 2013]  say: sc20ka^4 18 rus^1 master: :3
+[Mon Dec 30 20:41:25 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:41:36 2013]  say: sc20ka^4 18 rus^1 master: ^1artilerry storm
+[Mon Dec 30 20:41:36 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:41:44 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:41:47 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: where u?
+[Mon Dec 30 20:41:51 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: ehm
+[Mon Dec 30 20:42:00 2013]  say: sc20ka^4 18 rus^1 master: lols
+[Mon Dec 30 20:42:03 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: so?
+[Mon Dec 30 20:42:07 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: in the most
+[Mon Dec 30 20:42:19 2013]  say: sc20ka^4 18 rus^1 master: myhahahahaha
+[Mon Dec 30 20:42:21 2013]  say: sc20ka^4 18 rus^1 master: NOOBS :#
+[Mon Dec 30 20:42:23 2013]  say: sc20ka^4 18 rus^1 master: :#
+[Mon Dec 30 20:42:27 2013]  say: sc20ka^4 18 rus^1 master: :################
+[Mon Dec 30 20:42:45 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: i give u up
+[Mon Dec 30 20:42:46 2013]  Kill: 2 2 39: sc20ka^4 18 rus^1 master killed sc20ka^4 18 rus^1 master by MOD_SUICIDE
+[Mon Dec 30 20:42:46 2013]  setteam:  2 FREE SPECTATOR
+[Mon Dec 30 20:42:46 2013]  ClientBegin: 2
+[Mon Dec 30 20:42:50 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: i give u ip*
+[Mon Dec 30 20:42:54 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 20:42:55 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: k?
+[Mon Dec 30 20:43:00 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: ok give ip
+[Mon Dec 30 20:43:02 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 20:43:02 2013]  setteam:  2 SPECTATOR FREE
+[Mon Dec 30 20:43:02 2013]  ClientBegin: 2
+[Mon Dec 30 20:43:08 2013]  ClientDisconnect: 0
+[Mon Dec 30 20:43:11 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 20:43:14 2013]  say: sc20ka^4 18 rus^1 master: HAHAHA
+[Mon Dec 30 20:43:20 2013]  say: sc20ka^4 18 rus^1 master: you friend disconnect !
+[Mon Dec 30 20:43:22 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:43:29 2013]  say: sc20ka^4 18 rus^1 master: ^1artilerry storm
+[Mon Dec 30 20:43:33 2013]  say: ^1Lord ^0Fenix: nope
+[Mon Dec 30 20:43:36 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:43:40 2013]  say: sc20ka^4 18 rus^1 master: ^8plazma
+[Mon Dec 30 20:43:43 2013]  say: sc20ka^4 18 rus^1 master: yeah
+[Mon Dec 30 20:43:46 2013]  say: sc20ka^4 18 rus^1 master: because lags :3
+[Mon Dec 30 20:43:50 2013]  say: sc20ka^4 18 rus^1 master: press tab
+[Mon Dec 30 20:43:55 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:44:42 2013]  Kill: 2 2 39: sc20ka^4 18 rus^1 master killed sc20ka^4 18 rus^1 master by MOD_SUICIDE
+[Mon Dec 30 20:44:42 2013]  setteam:  2 FREE SPECTATOR
+[Mon Dec 30 20:44:42 2013]  ClientBegin: 2
+[Mon Dec 30 20:44:57 2013]  say: ^1Lord ^0Fenix: lol
+[Mon Dec 30 20:44:59 2013]  setteam:  2 SPECTATOR FREE
+[Mon Dec 30 20:44:59 2013]  ClientBegin: 2
+[Mon Dec 30 20:45:11 2013]  say: sc20ka^4 18 rus^1 master: im fuck alora :3
+[Mon Dec 30 20:45:45 2013]  say: sc20ka^4 18 rus^1 master: ^1particle cannon
+[Mon Dec 30 20:46:14 2013]  say: ^1Lord ^0Fenix: lol
+[Mon Dec 30 20:47:08 2013]  say: sc20ka^4 18 rus^1 master: ^1artilerry storm
+[Mon Dec 30 20:47:11 2013]  say: sc20ka^4 18 rus^1 master: ^1artilerry storm
+[Mon Dec 30 20:47:15 2013]  say: sc20ka^4 18 rus^1 master: ^7atmospheric lens is activated
+[Mon Dec 30 20:47:18 2013]  say: sc20ka^4 18 rus^1 master: ^7atmospheric lens is activated
+[Mon Dec 30 20:47:21 2013]  say: sc20ka^4 18 rus^1 master: öôå
+[Mon Dec 30 20:47:22 2013]  say: sc20ka^4 18 rus^1 master: wat
+[Mon Dec 30 20:47:28 2013]  say: sc20ka^4 18 rus^1 master: ^7atmospheric lens is activated
+[Mon Dec 30 20:47:39 2013]  ClientConnect: 0
+[Mon Dec 30 20:47:39 2013]  mlog:Player Padawan, connected. With IP - 79.119.21.169:29070 
+[Mon Dec 30 20:47:42 2013]  say: sc20ka^4 18 rus^1 master: ^3my ship....
+[Mon Dec 30 20:47:50 2013]  ClientBegin: 0
+[Mon Dec 30 20:47:51 2013]  say: ^1Lord ^0Revan: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon Dec 30 20:47:55 2013]  say: sc20ka^4 18 rus^1 master: ^3my ship....
+[Mon Dec 30 20:47:55 2013]  say: ^1Lord ^0Fenix: WB
+[Mon Dec 30 20:48:03 2013]  say: ^1Lord ^0Revan: :))
+[Mon Dec 30 20:48:14 2013]  say: ^1Lord ^0Fenix: nice
+[Mon Dec 30 20:48:20 2013]  say: ^1Lord ^0Revan: yeah 
+[Mon Dec 30 20:48:25 2013]  say: ^1Lord ^0Fenix: ITS RLY U SHIP?
+[Mon Dec 30 20:48:39 2013]  say: sc20ka^4 18 rus^1 master: it is my script
+[Mon Dec 30 20:48:45 2013]  say: ^1Lord ^0Fenix: WOW
+[Mon Dec 30 20:48:49 2013]  Item: 1 ammo_all
+[Mon Dec 30 20:48:52 2013]  say: ^1Lord ^0Revan: and how do you get in and out?
+[Mon Dec 30 20:48:54 2013]  say: ^1Lord ^0Fenix: revan come
+[Mon Dec 30 20:49:04 2013]  say: sc20ka^4 18 rus^1 master: noclip
+[Mon Dec 30 20:49:16 2013]  say: sc20ka^4 18 rus^1 master: mlistso info
+[Mon Dec 30 20:49:27 2013]  say: ^1Lord ^0Revan: no i mean with no cheats :)
+[Mon Dec 30 20:50:00 2013]  say: ^1Lord ^0Revan: lol
+[Mon Dec 30 20:50:05 2013]  say: ^1Lord ^0Fenix: lol
+[Mon Dec 30 20:50:17 2013]  say: ^1Lord ^0Revan: LOL
+[Mon Dec 30 20:50:19 2013]  say: sc20ka^4 18 rus^1 master: :3
+[Mon Dec 30 20:50:41 2013]  say: sc20ka^4 18 rus^1 master: it is AWSOME machine
+[Mon Dec 30 20:51:47 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: i really wanna continue dark movie but of this guy cant :(
+[Mon Dec 30 20:52:02 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: wat name this kyle have
+[Mon Dec 30 20:52:03 2013]  say: sc20ka^4 18 rus^1 master: XDDD
+[Mon Dec 30 20:52:09 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: tell me the name!
+[Mon Dec 30 20:52:15 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: what kyle?
+[Mon Dec 30 20:52:19 2013]  say: sc20ka^4 18 rus^1 master: XD
+[Mon Dec 30 20:52:26 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: what name this idiot have
+[Mon Dec 30 20:52:42 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: sc20ka 18 rus master
+[Mon Dec 30 20:53:36 2013]  Item: 2 weapon_rocket_launcher
+[Mon Dec 30 20:53:36 2013]  Item: 2 weapon_demp2
+[Mon Dec 30 20:53:37 2013]  Item: 2 weapon_blaster
+[Mon Dec 30 20:53:46 2013]  Item: 2 weapon_flechette
+[Mon Dec 30 20:53:59 2013]  Item: 2 weapon_repeater
+[Mon Dec 30 20:54:07 2013]  Item: 2 weapon_bowcaster
+[Mon Dec 30 20:54:16 2013]  Item: 2 weapon_disruptor
+[Mon Dec 30 20:54:28 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: cant u kick him?
+[Mon Dec 30 20:54:30 2013]  Item: 2 weapon_bryar_pistol
+[Mon Dec 30 20:54:35 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: no
+[Mon Dec 30 20:54:51 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: then on the cheat server how could you kick the bot?
+[Mon Dec 30 20:54:53 2013]  Item: 2 weapon_stun_baton
+[Mon Dec 30 20:54:54 2013]  Item: 2 weapon_melee
+[Mon Dec 30 20:55:04 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: no
+[Mon Dec 30 20:55:11 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: why not?
+[Mon Dec 30 20:55:40 2013]  say: sc20ka^4 18 rus^1 master: :D
+[Mon Dec 30 20:56:34 2013]  say: sc20ka^4 18 rus^1 master: minfo
+[Mon Dec 30 20:56:45 2013]  say: ^1Lord ^0Fenix: disco stu
+[Mon Dec 30 20:57:46 2013]  say: sc20ka^4 18 rus^1 master: XD
+[Mon Dec 30 20:59:37 2013]  Kill: 2 2 39: sc20ka^4 18 rus^1 master killed sc20ka^4 18 rus^1 master by MOD_SUICIDE
+[Mon Dec 30 20:59:37 2013]  setteam:  2 FREE SPECTATOR
+[Mon Dec 30 20:59:37 2013]  ClientBegin: 2
+[Mon Dec 30 20:59:43 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:44 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:44 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:44 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:44 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:44 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:44 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:45 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:45 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:45 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:45 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:45 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:45 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:46 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:46 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:46 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:46 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:46 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:47 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:47 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:47 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:47 2013]  tell: ^1Lord ^0Revan to ^1Lord ^0Fenix: where u?
+[Mon Dec 30 20:59:47 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:47 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:47 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:48 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:48 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:48 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:48 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:48 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:48 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:48 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:49 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:49 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:49 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:49 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:49 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:49 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:50 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:50 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:50 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:50 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:50 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:50 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:51 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:51 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:51 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:51 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:51 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:51 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:52 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:52 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:52 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:52 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:52 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:52 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:53 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:53 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:53 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:53 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:53 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:53 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:54 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:54 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:54 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:54 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:54 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:54 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:55 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:55 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:55 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:55 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:55 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:55 2013]  tell: ^1Lord ^0Fenix to ^1Lord ^0Revan: up
+[Mon Dec 30 20:59:55 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:56 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:56 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:56 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 20:59:56 2013]  say: sc20ka^4 18 rus^1 master: ^4super slap
+[Mon Dec 30 21:00:02 2013]  say: sc20ka^4 18 rus^1 master: :3
+[Mon Dec 30 21:00:13 2013]  say: ^1Lord ^0Revan: im not even ther haha
+[Mon Dec 30 21:00:15 2013]  say: sc20ka^4 18 rus^1 master: good night
+[Mon Dec 30 21:00:19 2013]  ClientDisconnect: 2
+[Mon Dec 30 21:00:22 2013]  say: ^1Lord ^0Revan: YES
+[Mon Dec 30 21:00:25 2013]  say: ^1Lord ^0Revan: FINNALY
+[Mon Dec 30 21:00:25 2013]  say: ^1Lord ^0Fenix: oh
+[Mon Dec 30 21:00:28 2013]  say: ^1Lord ^0Fenix: thank you god
+[Mon Dec 30 21:00:32 2013]  say: ^1Lord ^0Revan: lest continue
+[Mon Dec 30 21:00:36 2013]  say: ^1Lord ^0Fenix: ye
+[Mon Dec 30 21:00:39 2013]  say: ^1Lord ^0Revan: make the spawns
+[Mon Dec 30 21:00:43 2013]  say: ^1Lord ^0Revan: wait
+[Mon Dec 30 21:00:45 2013]  say: ^1Lord ^0Revan: first
+[Mon Dec 30 21:00:47 2013]  say: ^1Lord ^0Revan: force!
+[Mon Dec 30 21:00:53 2013]  say: ^1Lord ^0Revan: kneel
+[Mon Dec 30 21:01:04 2013]  say: ^1Lord ^0Revan: knee
+[Mon Dec 30 21:01:20 2013]  say: ^1Lord ^0Fenix: wtf
+[Mon Dec 30 21:01:45 2013]  say: ^1Lord ^0Revan: go spawn my appratince
+[Mon Dec 30 21:02:12 2013]  say: ^1Lord ^0Fenix: what is my mision master
+[Mon Dec 30 21:02:23 2013]  say: ^1Lord ^0Revan: go kill luke skywalker
+[Mon Dec 30 21:02:26 2013]  say: ^1Lord ^0Revan: but
+[Mon Dec 30 21:02:28 2013]  say: ^1Lord ^0Fenix: eh
+[Mon Dec 30 21:02:29 2013]  say: ^1Lord ^0Revan: first wait here
+[Mon Dec 30 21:02:50 2013]  say: ^1Lord ^0Revan: go
+[Mon Dec 30 21:03:10 2013]  say: ^1Lord ^0Revan: Luke:i will stop you sith!
+[Mon Dec 30 21:03:20 2013]  say: ^1Lord ^0Fenix: nope!
+[Mon Dec 30 21:03:35 2013]  say: ^1Lord ^0Fenix: no hand
+[Mon Dec 30 21:03:53 2013]  say: ^1Lord ^0Revan: did you killed him?
+[Mon Dec 30 21:04:05 2013]  say: ^1Lord ^0Fenix: there is luke
+[Mon Dec 30 21:04:08 2013]  say: ^1Lord ^0Fenix: he dont have hand
+[Mon Dec 30 21:04:13 2013]  say: ^1Lord ^0Revan: SO LUK
+[Mon Dec 30 21:04:15 2013]  say: ^1Lord ^0Fenix: ^1Luke: aahh
+[Mon Dec 30 21:04:18 2013]  say: ^1Lord ^0Revan: LUKE:RAVEN YOU 
+[Mon Dec 30 21:04:26 2013]  say: ^1Lord ^0Revan: where is bastila?
+[Mon Dec 30 21:04:36 2013]  say: ^1Lord ^0Revan: no
+[Mon Dec 30 21:04:59 2013]  say: ^1Lord ^0Revan: WHERE IS BASTILA!?
+[Mon Dec 30 21:05:04 2013]  say: ^1Lord ^0Revan: luke:
+[Mon Dec 30 21:05:12 2013]  say: ^1Lord ^0Revan: luke:um
+[Mon Dec 30 21:05:20 2013]  say: ^1Lord ^0Revan: luke:it is at dantooine
+[Mon Dec 30 21:05:24 2013]  say: ^1Lord ^0Revan: OK
+[Mon Dec 30 21:05:26 2013]  say: ^1Lord ^0Revan: KILL HIM
+[Mon Dec 30 21:05:32 2013]  say: ^1Lord ^0Revan: GOOD 
+[Mon Dec 30 21:05:47 2013]  say: ^1Lord ^0Revan: now
+[Mon Dec 30 21:05:53 2013]  say: ^1Lord ^0Revan: go kill KYLE KATARN
+[Mon Dec 30 21:05:57 2013]  say: ^1Lord ^0Revan: I GO AFTER BASTILA
+[Mon Dec 30 21:05:59 2013]  say: ^1Lord ^0Revan: firsy
+[Mon Dec 30 21:06:02 2013]  say: ^1Lord ^0Revan: wait here
+[Mon Dec 30 21:06:19 2013]  say: ^1Lord ^0Revan: go
+[Mon Dec 30 21:06:33 2013]  print "^1Lord ^0Revan^7 @@@PLRENAME Kyle
+"[Mon Dec 30 21:06:45 2013]  say: Kyle: fenix come to lightside!
+[Mon Dec 30 21:06:53 2013]  say: Kyle: Fenix!
+[Mon Dec 30 21:07:00 2013]  say: Kyle: dont make me ....
+[Mon Dec 30 21:07:03 2013]  say: ^1Lord ^0Fenix: omg
+[Mon Dec 30 21:07:07 2013]  say: ^1Lord ^0Fenix: i was afk
+[Mon Dec 30 21:07:08 2013]  say: Kyle: come lightside
+[Mon Dec 30 21:07:25 2013]  say: Kyle: you will see jaden
+[Mon Dec 30 21:07:29 2013]  say: Kyle: come
+[Mon Dec 30 21:07:38 2013]  say: ^1Lord ^0Fenix: back
+[Mon Dec 30 21:07:43 2013]  say: ^1Lord ^0Fenix: wat
+[Mon Dec 30 21:07:47 2013]  say: Kyle: come
+[Mon Dec 30 21:07:48 2013]  say: ^1Lord ^0Fenix: wat happen omg
+[Mon Dec 30 21:07:49 2013]  say: Kyle: to lightside
+[Mon Dec 30 21:07:52 2013]  say: ^1Lord ^0Fenix: why
+[Mon Dec 30 21:08:00 2013]  say: Kyle: raven sayd you have to kill me
+[Mon Dec 30 21:08:05 2013]  say: Kyle: but come lightside!
+[Mon Dec 30 21:08:10 2013]  Item: 0 weapon_disruptor
+[Mon Dec 30 21:08:14 2013]  say: ^1Lord ^0Fenix: ...
+[Mon Dec 30 21:08:15 2013]  say: Kyle: please
+[Mon Dec 30 21:08:22 2013]  Item: 0 weapon_bryar_pistol
+[Mon Dec 30 21:08:39 2013]  say: ^1Lord ^0Fenix: NO FIRST DUEL WITH GOD MODE
+[Mon Dec 30 21:08:47 2013]  say: ^1Lord ^0Fenix: IM JADEN!
+[Mon Dec 30 21:08:50 2013]  say: Kyle: no
+[Mon Dec 30 21:08:54 2013]  say: Kyle: ur his brother
+[Mon Dec 30 21:09:07 2013]  say: Kyle: JOIN US
+[Mon Dec 30 21:09:10 2013]  say: ^1Lord ^0Fenix: NEVER!
+[Mon Dec 30 21:09:35 2013]  say: Kyle: FENIX
+[Mon Dec 30 21:09:40 2013]  say: Kyle: COME
+[Mon Dec 30 21:09:45 2013]  say: Kyle: RAVEN IS LYING YOU
+[Mon Dec 30 21:09:56 2013]  say: Kyle: RAVEN
+[Mon Dec 30 21:09:58 2013]  say: ^1Lord ^0Fenix: NOPE!
+[Mon Dec 30 21:10:00 2013]  ClientConnect: 2
+[Mon Dec 30 21:10:00 2013]  mlog:Player dfhfry, connected. With IP - 187.41.190.109:10843 
+[Mon Dec 30 21:10:00 2013]  say: Kyle: IS YOUR FATHER
+[Mon Dec 30 21:10:07 2013]  say: ^1Lord ^0Fenix: O_O
+[Mon Dec 30 21:10:13 2013]  say: Kyle: listen
+[Mon Dec 30 21:10:16 2013]  say: Kyle: he 
+[Mon Dec 30 21:10:19 2013]  ClientBegin: 2
+[Mon Dec 30 21:10:22 2013]  say: Kyle: is gonna kill ur sister
+[Mon Dec 30 21:10:26 2013]  say: Kyle: bastila
+[Mon Dec 30 21:10:31 2013]  say: Kyle: join
+[Mon Dec 30 21:10:35 2013]  say: ^1Lord ^0Fenix: BASTILA IS MY SISTER?
+[Mon Dec 30 21:10:40 2013]  say: Kyle: yes
+[Mon Dec 30 21:10:49 2013]  say: ^1Lord ^0Fenix: WHERE IS HE
+[Mon Dec 30 21:10:54 2013]  ClientDisconnect: 2
+[Mon Dec 30 21:10:56 2013]  say: Kyle: raven is at her
+[Mon Dec 30 21:11:02 2013]  say: Kyle: follow
+[Mon Dec 30 21:11:03 2013]  say: ^1Lord ^0Fenix: i sense him in yawin
+[Mon Dec 30 21:11:11 2013]  say: Kyle: now wait
+[Mon Dec 30 21:11:20 2013]  say: Kyle: where u?
+[Mon Dec 30 21:11:23 2013]  say: Kyle: come spawn
+[Mon Dec 30 21:11:33 2013]  say: Kyle: dude!
+[Mon Dec 30 21:11:42 2013]  say: Kyle: ..
+[Mon Dec 30 21:11:54 2013]  say: Kyle: ugh
+[Mon Dec 30 21:12:00 2013]  say: Kyle: raven
+[Mon Dec 30 21:12:05 2013]  print "^1Lord ^0Fenix^7 @@@PLRENAME Raven
+"[Mon Dec 30 21:12:10 2013]  say: Kyle: what ur doing here
+[Mon Dec 30 21:12:15 2013]  say: Kyle: leave bastila alone
+[Mon Dec 30 21:12:22 2013]  Item: 0 weapon_blaster
+[Mon Dec 30 21:12:57 2013]  say: Kyle: now real duel
+[Mon Dec 30 21:13:16 2013]  say: Kyle: RAVEN
+[Mon Dec 30 21:13:16 2013]  say: Raven: revan will duel with fenix
+[Mon Dec 30 21:13:22 2013]  say: Kyle: YES
+[Mon Dec 30 21:13:26 2013]  Item: 0 weapon_blaster
+[Mon Dec 30 21:13:31 2013]  say: Raven: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 21:13:31 2013]  tell: Kyle to Raven: ^7Good luck, ^2^7Raven, ^7may the force be with you
+[Mon Dec 30 21:13:39 2013]  say: Raven: and revan will not kill you
+[Mon Dec 30 21:13:42 2013]  say: Raven: i will kill you face
+[Mon Dec 30 21:13:49 2013]  Kill: 0 1 3: Kyle killed Raven by MOD_SABER
+[Mon Dec 30 21:13:49 2013]  tell: Kyle to Raven: ^7Good Fight, ^2^7Raven, ^7 Maybe another time mate :D
+[Mon Dec 30 21:13:49 2013]  say: Raven: ^0{^2g_g^0}
+[Mon Dec 30 21:13:51 2013]  say: Raven: auh
+[Mon Dec 30 21:13:53 2013]  say: Kyle: raven
+[Mon Dec 30 21:13:55 2013]  say: Kyle: i have to say
+[Mon Dec 30 21:13:59 2013]  say: Kyle: im your brother
+[Mon Dec 30 21:14:08 2013]  Kill: 1 0 3: Raven killed Kyle by MOD_SABER
+[Mon Dec 30 21:14:08 2013]  tell: Kyle to Raven: ^2^7Raven, ^7 YOU KILLED ME HUH? GOOD 
+[Mon Dec 30 21:14:10 2013]  say: Raven: die
+[Mon Dec 30 21:14:13 2013]  say: Raven: hahaha
+[Mon Dec 30 21:14:16 2013]  say: Kyle: BASTILA RUN
+[Mon Dec 30 21:14:17 2013]  say: Raven: my tactic win
+[Mon Dec 30 21:14:31 2013]  say: Raven: wtf im killed u!
+[Mon Dec 30 21:14:37 2013]  Kill: 1 0 3: Raven killed Kyle by MOD_SABER
+[Mon Dec 30 21:14:38 2013]  tell: Kyle to Raven: ^2^7Raven, ^7 YOU KILLED ME HUH? GOOD 
+[Mon Dec 30 21:14:43 2013]  say: Kyle: raven
+[Mon Dec 30 21:14:45 2013]  say: Kyle: ...y
+[Mon Dec 30 21:14:47 2013]  say: Kyle: plz
+[Mon Dec 30 21:14:49 2013]  say: Kyle: UGH
+[Mon Dec 30 21:14:54 2013]  say: Kyle: kill fenix
+[Mon Dec 30 21:15:04 2013]  print "Raven^7 @@@PLRENAME Fenix
+"[Mon Dec 30 21:15:06 2013]  print "Kyle^7 @@@PLRENAME ^1Lord ^0Fenix
+"[Mon Dec 30 21:15:10 2013]  say: Fenix: raven!
+[Mon Dec 30 21:15:21 2013]  say: ^1Lord ^0Fenix: ur raven
+[Mon Dec 30 21:15:22 2013]  say: Fenix: im fenix -_-
+[Mon Dec 30 21:15:23 2013]  say: ^1Lord ^0Fenix: k
+[Mon Dec 30 21:15:34 2013]  print "Fenix^7 @@@PLRENAME ^4F^3eni^4X
+"[Mon Dec 30 21:15:38 2013]  print "^1Lord ^0Fenix^7 @@@PLRENAME ^1^1Lord Raven
+"[Mon Dec 30 21:15:45 2013]  say: ^4F^3eni^4X: going to save u kajl!
+[Mon Dec 30 21:15:48 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^7Good luck, ^2^7^4F^3eni^4X, ^7may the force be with you
+[Mon Dec 30 21:15:48 2013]  say: ^4F^3eni^4X: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 21:16:09 2013]  say: ^1^1Lord Raven: fenix
+[Mon Dec 30 21:16:11 2013]  say: ^1^1Lord Raven: come
+[Mon Dec 30 21:16:13 2013]  say: ^1^1Lord Raven: JOIN ME
+[Mon Dec 30 21:16:18 2013]  say: ^4F^3eni^4X: u think i join u again!?
+[Mon Dec 30 21:16:19 2013]  say: ^4F^3eni^4X: NO
+[Mon Dec 30 21:16:21 2013]  say: ^1^1Lord Raven: I KILLED UR SISTER
+[Mon Dec 30 21:16:22 2013]  say: ^4F^3eni^4X: U UFCKING NERD
+[Mon Dec 30 21:16:29 2013]  Kill: 0 1 3: ^1^1Lord Raven killed ^4F^3eni^4X by MOD_SABER
+[Mon Dec 30 21:16:30 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^7Good Fight, ^2^7^4F^3eni^4X, ^7 Maybe another time mate :D
+[Mon Dec 30 21:16:30 2013]  say: ^4F^3eni^4X: ^0{^2g_g^0}
+[Mon Dec 30 21:16:35 2013]  say: ^4F^3eni^4X: my saber ..
+[Mon Dec 30 21:16:38 2013]  say: ^1^1Lord Raven: dark is strng
+[Mon Dec 30 21:16:47 2013]  Kill: 0 1 3: ^1^1Lord Raven killed ^4F^3eni^4X by MOD_SABER
+[Mon Dec 30 21:16:48 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^2^7^4F^3eni^4X, ^7WOOO I . Killed  peapol in total bicht!
+[Mon Dec 30 21:16:52 2013]  say: ^1^1Lord Raven: JOIN ME
+[Mon Dec 30 21:17:14 2013]  say: ^1^1Lord Raven: LISTEN
+[Mon Dec 30 21:17:18 2013]  say: ^1^1Lord Raven: I CAN HEAL
+[Mon Dec 30 21:17:19 2013]  say: ^1^1Lord Raven: YOU
+[Mon Dec 30 21:17:21 2013]  say: ^1^1Lord Raven: MAKE STRONG
+[Mon Dec 30 21:17:23 2013]  say: ^1^1Lord Raven: AND RAGE
+[Mon Dec 30 21:17:29 2013]  say: ^1^1Lord Raven: AND KILL EVERYONE
+[Mon Dec 30 21:17:34 2013]  say: ^4F^3eni^4X: no
+[Mon Dec 30 21:17:34 2013]  say: ^1^1Lord Raven: COME!
+[Mon Dec 30 21:17:49 2013]  say: ^4F^3eni^4X: its epic :D
+[Mon Dec 30 21:17:53 2013]  say: ^4F^3eni^4X: im screenshoting that
+[Mon Dec 30 21:18:09 2013]  say: ^1^1Lord Raven: fenix
+[Mon Dec 30 21:18:15 2013]  say: ^1^1Lord Raven: KYLE
+[Mon Dec 30 21:18:16 2013]  say: ^1^1Lord Raven: IS
+[Mon Dec 30 21:18:21 2013]  say: ^1^1Lord Raven: YOUR MOTHER!
+[Mon Dec 30 21:18:23 2013]  say: ^4F^3eni^4X: XDD
+[Mon Dec 30 21:18:27 2013]  say: ^4F^3eni^4X: xdd
+[Mon Dec 30 21:18:30 2013]  say: ^1^1Lord Raven: join
+[Mon Dec 30 21:18:39 2013]  Kill: 0 1 3: ^1^1Lord Raven killed ^4F^3eni^4X by MOD_SABER
+[Mon Dec 30 21:18:39 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^2^7^4F^3eni^4X, ^7WOOO I . Killed  peapol in total bicht!
+[Mon Dec 30 21:18:43 2013]  say: ^4F^3eni^4X: dauh
+[Mon Dec 30 21:18:44 2013]  say: ^1^1Lord Raven: told you
+[Mon Dec 30 21:18:50 2013]  say: ^1^1Lord Raven: strong
+[Mon Dec 30 21:19:16 2013]  say: ^4F^3eni^4X: xdd
+[Mon Dec 30 21:19:22 2013]  Kill: 1 0 3: ^4F^3eni^4X killed ^1^1Lord Raven by MOD_SABER
+[Mon Dec 30 21:19:23 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^2^7^4F^3eni^4X, ^7 YOU KILLED ME HUH? GOOD 
+[Mon Dec 30 21:19:29 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 21:19:31 2013]  say: ^1^1Lord Raven: FENIX
+[Mon Dec 30 21:19:32 2013]  Kill: 1 0 3: ^4F^3eni^4X killed ^1^1Lord Raven by MOD_SABER
+[Mon Dec 30 21:19:32 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^2^7^4F^3eni^4X, ^7 YOU KILLED ME HUH? GOOD 
+[Mon Dec 30 21:19:43 2013]  Kill: 0 1 3: ^1^1Lord Raven killed ^4F^3eni^4X by MOD_SABER
+[Mon Dec 30 21:19:43 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^2^7^4F^3eni^4X, ^7WOOO I . Killed  peapol in total bicht!
+[Mon Dec 30 21:19:47 2013]  say: ^1^1Lord Raven: JOIN
+[Mon Dec 30 21:19:54 2013]  say: ^4F^3eni^4X: stop saying join!
+[Mon Dec 30 21:19:56 2013]  say: ^1^1Lord Raven: I GIVE YOUR GIRLS!
+[Mon Dec 30 21:20:02 2013]  say: ^4F^3eni^4X: girls ^^?
+[Mon Dec 30 21:20:04 2013]  say: ^1^1Lord Raven: ye
+[Mon Dec 30 21:20:06 2013]  say: ^4F^3eni^4X: NO!
+[Mon Dec 30 21:20:11 2013]  Kill: 0 1 3: ^1^1Lord Raven killed ^4F^3eni^4X by MOD_SABER
+[Mon Dec 30 21:20:11 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^2^7^4F^3eni^4X, ^7WOOO I . Killed  peapol in total bicht!
+[Mon Dec 30 21:20:18 2013]  say: ^1^1Lord Raven: ill revive kyle then!
+[Mon Dec 30 21:20:25 2013]  say: ^1^1Lord Raven: ok?
+[Mon Dec 30 21:20:28 2013]  say: ^4F^3eni^4X: NO!
+[Mon Dec 30 21:20:34 2013]  Kill: 1 0 3: ^4F^3eni^4X killed ^1^1Lord Raven by MOD_SABER
+[Mon Dec 30 21:20:34 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^2^7^4F^3eni^4X, ^7 YOU KILLED ME HUH? GOOD 
+[Mon Dec 30 21:20:38 2013]  say: ^1^1Lord Raven: ugh
+[Mon Dec 30 21:20:39 2013]  say: ^1^1Lord Raven: fenix
+[Mon Dec 30 21:20:40 2013]  say: ^1^1Lord Raven: ..
+[Mon Dec 30 21:20:44 2013]  say: ^1^1Lord Raven: go find ur
+[Mon Dec 30 21:20:45 2013]  say: ^1^1Lord Raven: mother
+[Mon Dec 30 21:20:47 2013]  say: ^1^1Lord Raven: at luke
+[Mon Dec 30 21:21:05 2013]  say: ^4F^3eni^4X: 5 hours
+[Mon Dec 30 21:21:32 2013]  say: ^4F^3eni^4X: mother?
+[Mon Dec 30 21:21:36 2013]  say: ^1^1Lord Raven: yes
+[Mon Dec 30 21:21:36 2013]  say: ^4F^3eni^4X: wat skin i have
+[Mon Dec 30 21:21:41 2013]  say: ^1^1Lord Raven: lel
+[Mon Dec 30 21:21:45 2013]  say: ^1^1Lord Raven: that
+[Mon Dec 30 21:21:45 2013]  say: ^4F^3eni^4X: wat skin
+[Mon Dec 30 21:21:50 2013]  say: ^1^1Lord Raven: from rosh bodyguard
+[Mon Dec 30 21:21:54 2013]  say: ^4F^3eni^4X: lol
+[Mon Dec 30 21:21:59 2013]  say: ^1^1Lord Raven: son
+[Mon Dec 30 21:22:05 2013]  say: ^1^1Lord Raven: now rosh
+[Mon Dec 30 21:22:11 2013]  say: ^1^1Lord Raven: son follow
+[Mon Dec 30 21:22:13 2013]  Kill: 1 1 39: ^4F^3eni^4X killed ^4F^3eni^4X by MOD_SUICIDE
+[Mon Dec 30 21:22:26 2013]  say: ^4F^3eni^4X: what the
+[Mon Dec 30 21:22:31 2013]  say: ^4F^3eni^4X: this is u home?
+[Mon Dec 30 21:22:35 2013]  say: ^1^1Lord Raven: no
+[Mon Dec 30 21:22:38 2013]  say: ^1^1Lord Raven: revan
+[Mon Dec 30 21:22:40 2013]  say: ^4F^3eni^4X: good TV
+[Mon Dec 30 21:22:41 2013]  say: ^1^1Lord Raven: sayd to kil u
+[Mon Dec 30 21:22:47 2013]  say: ^4F^3eni^4X: wat!
+[Mon Dec 30 21:22:51 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^7Good luck, ^2^7^4F^3eni^4X, ^7may the force be with you
+[Mon Dec 30 21:22:51 2013]  say: ^4F^3eni^4X: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 21:22:56 2013]  say: ^1^1Lord Raven: son
+[Mon Dec 30 21:23:02 2013]  say: ^1^1Lord Raven: please join dark side!
+[Mon Dec 30 21:23:08 2013]  say: ^1^1Lord Raven: i love you
+[Mon Dec 30 21:23:09 2013]  say: ^4F^3eni^4X: WHY ALL IN MY FAMILY GOING TO KILL ME D:
+[Mon Dec 30 21:23:14 2013]  say: ^4F^3eni^4X: if u rly love me
+[Mon Dec 30 21:23:15 2013]  say: ^1^1Lord Raven: PLEASE JOIN
+[Mon Dec 30 21:23:16 2013]  say: ^4F^3eni^4X: join to me
+[Mon Dec 30 21:23:23 2013]  say: ^1^1Lord Raven: no i cant join lightside
+[Mon Dec 30 21:23:31 2013]  say: ^4F^3eni^4X: you didnt have chance!
+[Mon Dec 30 21:23:50 2013]  Kill: 0 1 3: ^1^1Lord Raven killed ^4F^3eni^4X by MOD_SABER
+[Mon Dec 30 21:23:50 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^7Good Fight, ^2^7^4F^3eni^4X, ^7 Maybe another time mate :D
+[Mon Dec 30 21:23:50 2013]  say: ^4F^3eni^4X: ^0{^2g_g^0}
+[Mon Dec 30 21:23:53 2013]  say: ^1^1Lord Raven: come
+[Mon Dec 30 21:23:54 2013]  say: ^4F^3eni^4X: my leg!!!!
+[Mon Dec 30 21:23:57 2013]  say: ^1^1Lord Raven: son
+[Mon Dec 30 21:24:03 2013]  say: ^4F^3eni^4X: mother
+[Mon Dec 30 21:24:04 2013]  say: ^1^1Lord Raven: join
+[Mon Dec 30 21:24:05 2013]  say: ^1^1Lord Raven: and
+[Mon Dec 30 21:24:06 2013]  say: ^4F^3eni^4X: no sec
+[Mon Dec 30 21:24:09 2013]  say: ^4F^3eni^4X: lets episode III
+[Mon Dec 30 21:24:13 2013]  say: ^1^1Lord Raven: ok
+[Mon Dec 30 21:24:15 2013]  say: ^4F^3eni^4X: come spawn
+[Mon Dec 30 21:24:15 2013]  say: ^1^1Lord Raven: firs
+[Mon Dec 30 21:24:17 2013]  say: ^1^1Lord Raven: come here
+[Mon Dec 30 21:24:19 2013]  say: ^1^1Lord Raven: where u died
+[Mon Dec 30 21:24:20 2013]  say: ^4F^3eni^4X: ok
+[Mon Dec 30 21:24:27 2013]  say: ^4F^3eni^4X: use kyle
+[Mon Dec 30 21:24:27 2013]  say: ^1^1Lord Raven: son 
+[Mon Dec 30 21:24:29 2013]  say: ^4F^3eni^4X: me is rosh
+[Mon Dec 30 21:24:41 2013]  say: ^1^1Lord Raven: well done rosh
+[Mon Dec 30 21:24:45 2013]  say: ^1^1Lord Raven: but
+[Mon Dec 30 21:24:52 2013]  say: ^1^1Lord Raven: sith! is alive
+[Mon Dec 30 21:24:52 2013]  say: ^4F^3eni^4X: no )
+[Mon Dec 30 21:24:53 2013]  say: ^4F^3eni^4X: im anakin
+[Mon Dec 30 21:24:55 2013]  say: ^4F^3eni^4X: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 21:24:55 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^7Good luck, ^2^7^4F^3eni^4X, ^7may the force be with you
+[Mon Dec 30 21:25:06 2013]  say: ^4F^3eni^4X: if u no with me
+[Mon Dec 30 21:25:11 2013]  say: ^4F^3eni^4X: U MY ENEMY
+[Mon Dec 30 21:25:18 2013]  say: ^1^1Lord Raven: wait
+[Mon Dec 30 21:25:19 2013]  say: ^1^1Lord Raven: no
+[Mon Dec 30 21:25:25 2013]  say: ^1^1Lord Raven: anakin
+[Mon Dec 30 21:25:32 2013]  say: ^1^1Lord Raven: i have to do what i must
+[Mon Dec 30 21:25:32 2013]  say: ^4F^3eni^4X: no 
+[Mon Dec 30 21:25:38 2013]  say: ^4F^3eni^4X: AH
+[Mon Dec 30 21:25:53 2013]  say: ^1^1Lord Raven: anakin
+[Mon Dec 30 21:26:01 2013]  say: ^1^1Lord Raven: palpatine is evil
+[Mon Dec 30 21:26:07 2013]  say: ^4F^3eni^4X: I KNOW JEDI LIES!
+[Mon Dec 30 21:26:17 2013]  say: ^1^1Lord Raven: anakin
+[Mon Dec 30 21:26:17 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^7Good Fight, ^2^7^4F^3eni^4X, ^7 Maybe another time mate :D
+[Mon Dec 30 21:26:17 2013]  say: ^4F^3eni^4X: ^0{^2Gf you're no match for me^0}
+[Mon Dec 30 21:26:26 2013]  Kill: 0 1 3: ^1^1Lord Raven killed ^4F^3eni^4X by MOD_SABER
+[Mon Dec 30 21:26:26 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^2^7^4F^3eni^4X, ^7WOOO I . Killed  peapol in total bicht!
+[Mon Dec 30 21:26:30 2013]  say: ^4F^3eni^4X: I HATE YOU!!!!!!!!
+[Mon Dec 30 21:26:36 2013]  say: ^1^1Lord Raven: your my brother anakin
+[Mon Dec 30 21:26:41 2013]  say: ^4F^3eni^4X: ?
+[Mon Dec 30 21:26:45 2013]  say: ^4F^3eni^4X: your my brother?
+[Mon Dec 30 21:26:46 2013]  say: ^1^1Lord Raven: i loved you
+[Mon Dec 30 21:26:47 2013]  say: ^4F^3eni^4X: YAY
+[Mon Dec 30 21:26:53 2013]  say: ^4F^3eni^4X: aaaaaauh
+[Mon Dec 30 21:26:53 2013]  say: ^1^1Lord Raven: sorry 
+[Mon Dec 30 21:26:58 2013]  say: ^4F^3eni^4X: DARKE EXJU
+[Mon Dec 30 21:27:08 2013]  say: ^1^1Lord Raven: now i am anaking
+[Mon Dec 30 21:27:14 2013]  say: ^4F^3eni^4X: NOP
+[Mon Dec 30 21:27:16 2013]  say: ^4F^3eni^4X: u palpatine
+[Mon Dec 30 21:27:41 2013]  say: ^1^1Lord Raven: troops take him
+[Mon Dec 30 21:27:52 2013]  say: ^1^1Lord Raven: yes
+[Mon Dec 30 21:28:18 2013]  say: ^4F^3eni^4X: ADUH
+[Mon Dec 30 21:28:20 2013]  say: ^4F^3eni^4X: aaaasD!!!
+[Mon Dec 30 21:28:30 2013]  say: ^1^1Lord Raven: rise Darth Vader
+[Mon Dec 30 21:28:31 2013]  say: ^4F^3eni^4X: AAAAASFOOOOOOOQQQQQQQ
+[Mon Dec 30 21:28:48 2013]  say: ^4F^3eni^4X: where is padme!
+[Mon Dec 30 21:28:49 2013]  say: ^1^1Lord Raven: padme is dead
+[Mon Dec 30 21:28:54 2013]  say: ^4F^3eni^4X: how he died
+[Mon Dec 30 21:28:58 2013]  say: ^1^1Lord Raven: obi wan 
+[Mon Dec 30 21:29:01 2013]  say: ^1^1Lord Raven: killed her
+[Mon Dec 30 21:29:01 2013]  say: ^4F^3eni^4X: -_-
+[Mon Dec 30 21:29:04 2013]  say: ^4F^3eni^4X: omg
+[Mon Dec 30 21:29:05 2013]  say: ^4F^3eni^4X: u dont know movie
+[Mon Dec 30 21:29:08 2013]  say: ^1^1Lord Raven: kidding
+[Mon Dec 30 21:29:10 2013]  say: ^1^1Lord Raven: he died 
+[Mon Dec 30 21:29:13 2013]  say: ^1^1Lord Raven: because
+[Mon Dec 30 21:29:22 2013]  say: ^1^1Lord Raven: when he maked 
+[Mon Dec 30 21:29:25 2013]  say: ^1^1Lord Raven: luke 
+[Mon Dec 30 21:29:27 2013]  say: ^1^1Lord Raven: and leia
+[Mon Dec 30 21:29:30 2013]  say: ^4F^3eni^4X: xdD
+[Mon Dec 30 21:29:35 2013]  say: ^1^1Lord Raven: when theyr born
+[Mon Dec 30 21:29:38 2013]  say: ^4F^3eni^4X: wat!
+[Mon Dec 30 21:29:40 2013]  say: ^1^1Lord Raven: she died
+[Mon Dec 30 21:29:41 2013]  say: ^4F^3eni^4X: ITS IMPOSIBLE
+[Mon Dec 30 21:29:46 2013]  say: ^1^1Lord Raven: it is true
+[Mon Dec 30 21:29:49 2013]  say: ^4F^3eni^4X: i sense! her
+[Mon Dec 30 21:29:52 2013]  say: ^1^1Lord Raven: no
+[Mon Dec 30 21:29:54 2013]  say: ^4F^3eni^4X: I
+[Mon Dec 30 21:29:56 2013]  say: ^4F^3eni^4X: II
+[Mon Dec 30 21:30:03 2013]  say: ^4F^3eni^4X: OMG U IDIOT
+[Mon Dec 30 21:30:10 2013]  say: ^4F^3eni^4X: IDIOT
+[Mon Dec 30 21:30:11 2013]  say: ^1^1Lord Raven: WAT?
+[Mon Dec 30 21:30:42 2013]  say: ^1^1Lord Raven: YES
+[Mon Dec 30 21:30:49 2013]  say: ^1^1Lord Raven: POWER OF DARK SIDE IS STRONG
+[Mon Dec 30 21:31:00 2013]  say: ^4F^3eni^4X: NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[Mon Dec 30 21:31:08 2013]  say: ^1^1Lord Raven: lest do now
+[Mon Dec 30 21:31:11 2013]  say: ^1^1Lord Raven: I AM ANAKING
+[Mon Dec 30 21:31:41 2013]  say: ^1^1Lord Raven: if ur 
+[Mon Dec 30 21:31:43 2013]  say: ^1^1Lord Raven: my enemy
+[Mon Dec 30 21:31:46 2013]  say: ^1^1Lord Raven: oops
+[Mon Dec 30 21:31:50 2013]  say: ^1^1Lord Raven: if ur not with me
+[Mon Dec 30 21:31:51 2013]  say: ^1^1Lord Raven: then
+[Mon Dec 30 21:31:54 2013]  say: ^1^1Lord Raven: UR MY ENEMY
+[Mon Dec 30 21:32:06 2013]  say: ^4F^3eni^4X: i will do that wat i must
+[Mon Dec 30 21:32:26 2013]  say: ^4F^3eni^4X: use drain 
+[Mon Dec 30 21:32:28 2013]  say: ^4F^3eni^4X: its heal
+[Mon Dec 30 21:33:04 2013]  Kill: 0 1 3: ^1^1Lord Raven killed ^4F^3eni^4X by MOD_SABER
+[Mon Dec 30 21:33:04 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^2^7^4F^3eni^4X, ^7WOOO I . Killed  peapol in total bicht!
+[Mon Dec 30 21:33:07 2013]  say: ^1^1Lord Raven: ah
+[Mon Dec 30 21:33:07 2013]  say: ^4F^3eni^4X: anakin!
+[Mon Dec 30 21:33:19 2013]  Kill: 1 0 3: ^4F^3eni^4X killed ^1^1Lord Raven by MOD_SABER
+[Mon Dec 30 21:33:19 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^2^7^4F^3eni^4X, ^7 YOU KILLED ME HUH? GOOD 
+[Mon Dec 30 21:33:24 2013]  say: ^4F^3eni^4X: :(
+[Mon Dec 30 21:33:38 2013]  say: ^1^1Lord Raven: ugh
+[Mon Dec 30 21:33:41 2013]  say: ^1^1Lord Raven: I HATE YOU
+[Mon Dec 30 21:33:47 2013]  say: ^4F^3eni^4X: you were my brother anakin :(
+[Mon Dec 30 21:33:51 2013]  say: ^4F^3eni^4X: i loved u
+[Mon Dec 30 21:34:05 2013]  say: ^4F^3eni^4X: :(
+[Mon Dec 30 21:34:12 2013]  say: ^1^1Lord Raven: now ur palpatine
+[Mon Dec 30 21:34:29 2013]  say: ^1^1Lord Raven: agh
+[Mon Dec 30 21:34:42 2013]  say: ^4F^3eni^4X: troopers
+[Mon Dec 30 21:34:47 2013]  say: ^4F^3eni^4X: get him to medical
+[Mon Dec 30 21:34:55 2013]  say: ^4F^3eni^4X: come
+[Mon Dec 30 21:35:13 2013]  say: ^4F^3eni^4X: sleep
+[Mon Dec 30 21:35:22 2013]  say: ^4F^3eni^4X: next day will make him to darth vader
+[Mon Dec 30 21:35:42 2013]  say: ^1^1Lord Raven: The next day
+[Mon Dec 30 21:35:52 2013]  say: ^1^1Lord Raven: come!
+[Mon Dec 30 21:35:55 2013]  say: ^4F^3eni^4X: comnig
+[Mon Dec 30 21:35:56 2013]  say: ^1^1Lord Raven: cauze i have to go
+[Mon Dec 30 21:36:02 2013]  say: ^1^1Lord Raven: hurry
+[Mon Dec 30 21:36:02 2013]  say: ^4F^3eni^4X: why
+[Mon Dec 30 21:36:07 2013]  say: ^1^1Lord Raven: i need to sleep
+[Mon Dec 30 21:36:10 2013]  say: ^4F^3eni^4X: ok
+[Mon Dec 30 21:36:15 2013]  say: ^4F^3eni^4X: lord vader
+[Mon Dec 30 21:36:19 2013]  say: ^1^1Lord Raven: AGH 
+[Mon Dec 30 21:36:20 2013]  say: ^4F^3eni^4X: did u hear me?
+[Mon Dec 30 21:36:33 2013]  say: ^1^1Lord Raven: PADME?!
+[Mon Dec 30 21:36:38 2013]  say: ^4F^3eni^4X: padme is ded
+[Mon Dec 30 21:36:43 2013]  say: ^4F^3eni^4X: u killed her in u anger
+[Mon Dec 30 21:36:43 2013]  say: ^1^1Lord Raven: how?
+[Mon Dec 30 21:36:50 2013]  say: ^1^1Lord Raven: NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[Mon Dec 30 21:37:39 2013]  say: ^1^1Lord Raven: lest do 1 more fight
+[Mon Dec 30 21:37:39 2013]  say: ^4F^3eni^4X: ahahahahah
+[Mon Dec 30 21:37:44 2013]  say: ^4F^3eni^4X: ok
+[Mon Dec 30 21:37:49 2013]  say: ^4F^3eni^4X: ^0{^2Good luck, ^2may the force be with you^0}
+[Mon Dec 30 21:37:49 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^7Good luck, ^2^7^4F^3eni^4X, ^7may the force be with you
+[Mon Dec 30 21:37:53 2013]  Kill: 0 1 3: ^1^1Lord Raven killed ^4F^3eni^4X by MOD_SABER
+[Mon Dec 30 21:37:53 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^7Good Fight, ^2^7^4F^3eni^4X, ^7 Maybe another time mate :D
+[Mon Dec 30 21:37:53 2013]  say: ^4F^3eni^4X: ^0{^2g_g^0}
+[Mon Dec 30 21:37:55 2013]  say: ^4F^3eni^4X: xd
+[Mon Dec 30 21:37:56 2013]  say: ^4F^3eni^4X: gf 
+[Mon Dec 30 21:37:57 2013]  say: ^1^1Lord Raven: 1 MORE
+[Mon Dec 30 21:37:59 2013]  say: ^1^1Lord Raven: TO SLOW
+[Mon Dec 30 21:38:01 2013]  say: ^1^1Lord Raven: XD
+[Mon Dec 30 21:38:18 2013]  say: ^1^1Lord Raven: lest do go
+[Mon Dec 30 21:38:19 2013]  Item: 1 weapon_blaster
+[Mon Dec 30 21:38:21 2013]  say: ^1^1Lord Raven: god
+[Mon Dec 30 21:38:27 2013]  Kill: 0 1 3: ^1^1Lord Raven killed ^4F^3eni^4X by MOD_SABER
+[Mon Dec 30 21:38:28 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^2^7^4F^3eni^4X, ^7WOOO I . Killed  peapol in total bicht!
+[Mon Dec 30 21:38:30 2013]  say: ^4F^3eni^4X: d
+[Mon Dec 30 21:38:50 2013]  say: ^4F^3eni^4X: darth revan vs darth shadow
+[Mon Dec 30 21:39:16 2013]  say: ^1^1Lord Raven: now no god
+[Mon Dec 30 21:39:24 2013]  Kill: 1 0 3: ^4F^3eni^4X killed ^1^1Lord Raven by MOD_SABER
+[Mon Dec 30 21:39:24 2013]  tell: ^1^1Lord Raven to ^4F^3eni^4X: ^2^7^4F^3eni^4X, ^7 YOU KILLED ME HUH? GOOD 
+[Mon Dec 30 21:39:28 2013]  say: ^1^1Lord Raven: MASTER
+[Mon Dec 30 21:39:33 2013]  say: ^4F^3eni^4X: you betrayed me
+[Mon Dec 30 21:39:45 2013]  say: ^1^1Lord Raven: ill come tomorrow to attack the rebels
+[Mon Dec 30 21:39:46 2013]  say: ^1^1Lord Raven: k
+[Mon Dec 30 21:39:53 2013]  say: ^1^1Lord Raven: AHGGR0IEJFGKFG4JWPGJ9RJ
+[Mon Dec 30 21:39:56 2013]  ClientDisconnect: 0
+[Mon Dec 30 21:40:04 2013]  ClientDisconnect: 1
+[Mon Dec 30 22:24:42 2013]  Exit: Timelimit hit.
+[Tue Dec 31 08:47:10 2013]  ClientConnect: 0
+[Tue Dec 31 08:47:10 2013]  mlog:Player ^5Dean Leo Winchester, connected. With IP - 174.50.83.140:29070 
+[Tue Dec 31 08:47:27 2013]  ClientBegin: 0
+[Tue Dec 31 08:48:23 2013]  ShutdownGame:
+[Tue Dec 31 08:48:23 2013]  ------------------------------------------------------------

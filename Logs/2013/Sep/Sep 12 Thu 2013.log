@@ -1,0 +1,208 @@
+[Thu Sep 12 00:35:23 2013]  ------------------------------------------------------------
+[Thu Sep 12 00:35:23 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 00:35:39 2013]  ClientConnect: 0
+[Thu Sep 12 00:35:39 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 00:35:55 2013]  ClientBegin: 0
+[Thu Sep 12 00:35:57 2013]  setteam:  0 SPECTATOR FREE
+[Thu Sep 12 00:35:57 2013]  ClientBegin: 0
+[Thu Sep 12 00:36:25 2013]  BG_GetVehicleModelName:  couldn't find vehicle hoverboard_if3[Thu Sep 12 00:36:25 2013]  ShutdownGame:
+[Thu Sep 12 00:36:25 2013]  ------------------------------------------------------------
+[Thu Sep 12 00:46:57 2013]  ------------------------------------------------------------
+[Thu Sep 12 00:46:57 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 00:47:10 2013]  ClientConnect: 0
+[Thu Sep 12 00:47:10 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 00:47:26 2013]  ClientBegin: 0
+[Thu Sep 12 00:47:32 2013]  setteam:  0 SPECTATOR FREE
+[Thu Sep 12 00:47:32 2013]  ClientBegin: 0
+[Thu Sep 12 00:47:59 2013]  BG_GetVehicleModelName:  couldn't find vehicle hoverboard_if2[Thu Sep 12 00:47:59 2013]  ShutdownGame:
+[Thu Sep 12 00:47:59 2013]  ------------------------------------------------------------
+[Thu Sep 12 00:48:37 2013]  ------------------------------------------------------------
+[Thu Sep 12 00:48:37 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 00:48:42 2013]  ClientConnect: 0
+[Thu Sep 12 00:48:42 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 00:48:45 2013]  ClientBegin: 0
+[Thu Sep 12 00:48:49 2013]  setteam:  0 SPECTATOR FREE
+[Thu Sep 12 00:48:49 2013]  ClientBegin: 0
+[Thu Sep 12 00:49:50 2013]  ClientDisconnect: 0
+[Thu Sep 12 00:50:23 2013]  ShutdownGame:
+[Thu Sep 12 00:50:23 2013]  ------------------------------------------------------------
+[Thu Sep 12 00:50:23 2013]  ------------------------------------------------------------
+[Thu Sep 12 00:50:23 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 00:50:28 2013]  ClientConnect: 0
+[Thu Sep 12 00:50:28 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 00:50:31 2013]  ClientBegin: 0
+[Thu Sep 12 00:50:32 2013]  setteam:  0 SPECTATOR FREE
+[Thu Sep 12 00:50:32 2013]  ClientBegin: 0
+[Thu Sep 12 00:51:18 2013]  ShutdownGame:
+[Thu Sep 12 00:51:18 2013]  ------------------------------------------------------------
+[Thu Sep 12 00:51:18 2013]  ------------------------------------------------------------
+[Thu Sep 12 00:51:18 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 00:51:19 2013]  ClientConnect: 0
+[Thu Sep 12 00:51:19 2013]  ClientBegin: 0
+[Thu Sep 12 00:51:20 2013]  ClientDisconnect: 0
+[Thu Sep 12 00:51:20 2013]  ClientConnect: 0
+[Thu Sep 12 00:51:20 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 00:51:37 2013]  ClientBegin: 0
+[Thu Sep 12 00:51:38 2013]  setteam:  0 SPECTATOR FREE
+[Thu Sep 12 00:51:38 2013]  ClientBegin: 0
+[Thu Sep 12 00:53:54 2013]  say: ^0Darkquake is back!: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1Dbn²
+[Thu Sep 12 00:53:55 2013]  say: ^0Darkquake is back!: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Thu Sep 12 00:54:00 2013]  say: ^0Darkquake is back!: ^1Aiming...
+[Thu Sep 12 00:54:07 2013]  say: ^0Darkquake is back!: ^0ELECTRICITY ^0BLAST!
+[Thu Sep 12 00:54:30 2013]  say: ^0Darkquake is back!: npc
+[Thu Sep 12 01:01:39 2013]  ------------------------------------------------------------
+[Thu Sep 12 01:01:39 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 01:01:45 2013]  ClientConnect: 0
+[Thu Sep 12 01:01:45 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 01:01:48 2013]  ClientBegin: 0
+[Thu Sep 12 01:01:50 2013]  setteam:  0 SPECTATOR FREE
+[Thu Sep 12 01:01:50 2013]  ClientBegin: 0
+[Thu Sep 12 01:20:09 2013]  ------------------------------------------------------------
+[Thu Sep 12 01:20:09 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 01:20:18 2013]  ClientConnect: 0
+[Thu Sep 12 01:20:18 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 01:20:21 2013]  ClientBegin: 0
+[Thu Sep 12 01:20:26 2013]  setteam:  0 SPECTATOR FREE
+[Thu Sep 12 01:20:26 2013]  ClientBegin: 0
+[Thu Sep 12 01:50:55 2013]  ------------------------------------------------------------
+[Thu Sep 12 01:50:55 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 01:51:09 2013]  ClientConnect: 0
+[Thu Sep 12 01:51:09 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 01:51:12 2013]  ClientBegin: 0
+[Thu Sep 12 01:51:13 2013]  setteam:  0 SPECTATOR FREE
+[Thu Sep 12 01:51:13 2013]  ClientBegin: 0
+[Thu Sep 12 01:51:44 2013]  ShutdownGame:
+[Thu Sep 12 01:51:44 2013]  ------------------------------------------------------------
+[Thu Sep 12 01:51:44 2013]  ------------------------------------------------------------
+[Thu Sep 12 01:51:44 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 01:51:45 2013]  ClientConnect: 0
+[Thu Sep 12 01:51:45 2013]  ClientBegin: 0
+[Thu Sep 12 01:52:05 2013]  ------------------------------------------------------------
+[Thu Sep 12 01:52:05 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 01:52:17 2013]  ClientConnect: 0
+[Thu Sep 12 01:52:17 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 01:52:21 2013]  ClientBegin: 0
+[Thu Sep 12 01:53:22 2013]  ShutdownGame:
+[Thu Sep 12 01:53:22 2013]  ------------------------------------------------------------
+[Thu Sep 12 01:53:22 2013]  ------------------------------------------------------------
+[Thu Sep 12 01:53:22 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 01:53:23 2013]  ClientConnect: 0
+[Thu Sep 12 01:53:23 2013]  ClientBegin: 0
+[Thu Sep 12 01:54:29 2013]  ClientDisconnect: 0
+[Thu Sep 12 01:59:57 2013]  ClientConnect: 0
+[Thu Sep 12 01:59:57 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 02:00:14 2013]  ClientBegin: 0
+[Thu Sep 12 02:01:06 2013]  ------------------------------------------------------------
+[Thu Sep 12 02:01:06 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 02:01:11 2013]  ClientConnect: 0
+[Thu Sep 12 02:01:11 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 02:01:15 2013]  ClientBegin: 0
+[Thu Sep 12 02:02:34 2013]  Kill: 0 0 39: ^0Darkquake is back! killed ^0Darkquake is back! by MOD_SUICIDE
+[Thu Sep 12 02:04:10 2013]  ShutdownGame:
+[Thu Sep 12 02:04:10 2013]  ------------------------------------------------------------
+[Thu Sep 12 02:04:10 2013]  ------------------------------------------------------------
+[Thu Sep 12 02:04:10 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 02:04:12 2013]  ClientConnect: 0
+[Thu Sep 12 02:04:12 2013]  ClientBegin: 0
+[Thu Sep 12 02:04:32 2013]  ------------------------------------------------------------
+[Thu Sep 12 02:04:32 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 02:04:38 2013]  ClientConnect: 0
+[Thu Sep 12 02:04:38 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 02:04:38 2013]  ClientDisconnect: 0
+[Thu Sep 12 02:04:52 2013]  ClientConnect: 0
+[Thu Sep 12 02:04:52 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 02:04:53 2013]  ClientDisconnect: 0
+[Thu Sep 12 02:05:46 2013]  ------------------------------------------------------------
+[Thu Sep 12 02:05:46 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 02:05:52 2013]  ClientConnect: 0
+[Thu Sep 12 02:05:52 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 02:05:56 2013]  ClientBegin: 0
+[Thu Sep 12 02:06:03 2013]  Kill: 0 0 39: ^0Darkquake is back! killed ^0Darkquake is back! by MOD_SUICIDE
+[Thu Sep 12 02:06:03 2013]  setteam:  0 FREE SPECTATOR
+[Thu Sep 12 02:06:03 2013]  ClientBegin: 0
+[Thu Sep 12 09:59:55 2013]  ClientConnect: 1
+[Thu Sep 12 09:59:55 2013]  mlog:Player ^1^4Rra^3zv^1an1, connected. With IP - 83.166.208.200:-4711 
+[Thu Sep 12 10:00:06 2013]  ClientBegin: 1
+[Thu Sep 12 10:00:39 2013]  Kill: 1 1 39: ^4Rra^3zv^1an1 killed ^4Rra^3zv^1an1 by MOD_SUICIDE
+[Thu Sep 12 10:19:10 2013]  say: ^4Rra^3zv^1an1: MEMOWER
+[Thu Sep 12 10:19:16 2013]  say: ^4Rra^3zv^1an1: mempower
+[Thu Sep 12 10:24:03 2013]  ClientConnect: 2
+[Thu Sep 12 10:24:03 2013]  mlog:Player ^0S^1y^3n^4^5^7^8^9^4^6^2a, connected. With IP - 83.166.208.200:-1371 
+[Thu Sep 12 10:24:14 2013]  ClientBegin: 2
+[Thu Sep 12 10:24:42 2013]  say: ^0D^3ark ^0M^3aster: MEMPOWER
+[Thu Sep 12 10:26:22 2013]  Item: 2 ammo_all
+[Thu Sep 12 10:26:27 2013]  Item: 2 ammo_all
+[Thu Sep 12 10:28:15 2013]  ClientDisconnect: 2
+[Thu Sep 12 10:34:16 2013]  ClientDisconnect: 1
+[Thu Sep 12 14:19:39 2013]  setteam:  0 SPECTATOR FREE
+[Thu Sep 12 14:19:39 2013]  ClientBegin: 0
+[Thu Sep 12 14:24:28 2013]  ClientDisconnect: 0
+[Thu Sep 12 14:24:28 2013]  ClientDisconnect: 0
+[Thu Sep 12 14:24:28 2013]  ClientConnect: 0
+[Thu Sep 12 14:24:28 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 14:24:31 2013]  ClientBegin: 0
+[Thu Sep 12 14:42:27 2013]  ClientConnect: 1
+[Thu Sep 12 14:42:27 2013]  mlog:Player Padawan, connected. With IP - 109.47.0.212:-23305 
+[Thu Sep 12 14:42:50 2013]  ClientDisconnect: 1
+[Thu Sep 12 14:43:24 2013]  ClientConnect: 1
+[Thu Sep 12 14:43:24 2013]  mlog:Player ^0D^3arth ^0F^3urious, connected. With IP - 128.69.170.81:29070 
+[Thu Sep 12 14:43:38 2013]  ClientDisconnect: 1
+[Thu Sep 12 14:44:05 2013]  ShutdownGame:
+[Thu Sep 12 14:44:05 2013]  ------------------------------------------------------------
+[Thu Sep 12 14:44:05 2013]  ------------------------------------------------------------
+[Thu Sep 12 14:44:05 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 14:44:07 2013]  ClientConnect: 0
+[Thu Sep 12 14:44:07 2013]  ClientBegin: 0
+[Thu Sep 12 14:44:59 2013]  ------------------------------------------------------------
+[Thu Sep 12 14:44:59 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 14:45:08 2013]  ClientConnect: 0
+[Thu Sep 12 14:45:08 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 12 14:45:11 2013]  ClientBegin: 0
+[Thu Sep 12 14:49:56 2013]  ClientDisconnect: 0
+[Thu Sep 12 14:53:13 2013]  ------------------------------------------------------------
+[Thu Sep 12 14:53:13 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 12 15:05:31 2013]  ClientConnect: 0
+[Thu Sep 12 15:05:31 2013]  mlog:Player ^0Xe®a^2th, connected. With IP - 109.47.0.212:-11121 
+[Thu Sep 12 15:05:40 2013]  ClientBegin: 0
+[Thu Sep 12 15:17:04 2013]  ClientConnect: 1
+[Thu Sep 12 15:17:04 2013]  mlog:Player Padawan, connected. With IP - 178.26.19.73:-21443 
+[Thu Sep 12 15:17:07 2013]  ClientDisconnect: 1
+[Thu Sep 12 15:40:08 2013]  ClientConnect: 1
+[Thu Sep 12 15:40:08 2013]  mlog:Player Padawan, connected. With IP - 213.251.210.41:-9730 
+[Thu Sep 12 15:40:13 2013]  ClientBegin: 1
+[Thu Sep 12 15:41:08 2013]  Kill: 1 0 3: Padawan killed ^0Xe®a^2th by MOD_SABER
+[Thu Sep 12 15:54:00 2013]  Item: 1 ammo_all
+[Thu Sep 12 15:54:05 2013]  Item: 1 ammo_all
+[Thu Sep 12 15:56:20 2013]  setteam:  0 FREE SPECTATOR
+[Thu Sep 12 15:56:20 2013]  ClientBegin: 0
+[Thu Sep 12 15:56:27 2013]  say: Padawan: hi
+[Thu Sep 12 15:56:41 2013]  say: Padawan: êó
+[Thu Sep 12 16:01:34 2013]  ClientDisconnect: 0
+[Thu Sep 12 16:03:12 2013]  Kill: 1022 1 2: <world> killed Padawan by MOD_MELEE
+[Thu Sep 12 16:03:23 2013]  ClientDisconnect: 1
+[Thu Sep 12 16:35:41 2013]  ClientConnect: 0
+[Thu Sep 12 16:35:41 2013]  mlog:Player TUBORK, connected. With IP - 213.251.210.41:-4453 
+[Thu Sep 12 16:35:46 2013]  ClientBegin: 0
+[Thu Sep 12 16:35:49 2013]  ClientDisconnect: 0
+[Thu Sep 12 16:41:32 2013]  ClientConnect: 0
+[Thu Sep 12 16:41:32 2013]  mlog:Player TUBORK, connected. With IP - 213.251.210.41:-3449 
+[Thu Sep 12 16:41:37 2013]  ClientBegin: 0
+[Thu Sep 12 16:43:18 2013]  say: Padawan: hi
+[Thu Sep 12 16:51:23 2013]  say: Padawan: hi
+[Thu Sep 12 16:51:30 2013]  Item: 0 ammo_all
+[Thu Sep 12 16:51:30 2013]  Item: 0 ammo_all
+[Thu Sep 12 16:56:44 2013]  Item: 0 weapon_blaster
+[Thu Sep 12 17:03:28 2013]  say: Padawan: minfo
+[Thu Sep 12 17:04:23 2013]  say: Padawan: My origin is: (-18777 -4763 1470) - You can teleport here with /mtelelast
+
+[Thu Sep 12 17:06:53 2013]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Thu Sep 12 17:07:42 2013]  Item: 0 ammo_all
+[Thu Sep 12 17:07:49 2013]  Item: 0 ammo_all
+[Thu Sep 12 17:16:53 2013]  ClientConnect: 1
+[Thu Sep 12 17:16:53 2013]  mlog:Player Padawan, connected. With IP - 109.47.0.212:-11876 
+[Thu Sep 12 17:17:43 2013]  ClientBegin: 1
+[Thu Sep 12 17:17:48 2013]  say: Padawan: ðø
+[Thu Sep 12 17:17:48 2013]  say: ^0Xe®a^2th: Hi
+[Thu Sep 12 17:17:51 2013]  say: Padawan: hi
+[Thu Sep 12 17:26:33 2013]  ClientDisconnect: 0
+[Thu Sep 12 17:27:26 2013]  ClientDisconnect: 1

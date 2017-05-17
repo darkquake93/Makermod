@@ -1,0 +1,337 @@
+[Wed Apr 23 01:18:56 2014]  ------------------------------------------------------------
+[Wed Apr 23 01:18:56 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Apr 23 01:18:57 2014]  ClientConnect: 0
+[Wed Apr 23 01:18:57 2014]  ClientConnect: 1
+[Wed Apr 23 01:18:59 2014]  ClientDisconnect: 1
+[Wed Apr 23 01:19:02 2014]  ClientBegin: 0
+[Wed Apr 23 01:19:15 2014]  ClientConnect: 1
+[Wed Apr 23 01:19:15 2014]  mlog:Player BBQBones, connected. With IP - 87.242.129.163:29070 
+[Wed Apr 23 01:19:22 2014]  ClientBegin: 1
+[Wed Apr 23 01:27:15 2014]  Kill: 1022 0 38: <world> killed SamDiMan by MOD_FALLING
+[Wed Apr 23 01:28:24 2014]  Kill: 1 0 3: BBQBones killed SamDiMan by MOD_SABER
+[Wed Apr 23 01:30:15 2014]  ClientDisconnect: 1
+[Wed Apr 23 01:31:08 2014]  ClientDisconnect: 0
+[Wed Apr 23 03:18:55 2014]  Exit: Timelimit hit.
+[Wed Apr 23 04:15:47 2014]  ClientConnect: 0
+[Wed Apr 23 04:15:47 2014]  mlog:Player Padawan, connected. With IP - 74.4.57.111:29070 
+[Wed Apr 23 04:16:19 2014]  ClientBegin: 0
+[Wed Apr 23 04:16:43 2014]  ShutdownGame:
+[Wed Apr 23 04:16:43 2014]  ------------------------------------------------------------
+[Wed Apr 23 04:16:44 2014]  ------------------------------------------------------------
+[Wed Apr 23 04:16:44 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Apr 23 04:16:45 2014]  ClientConnect: 0
+[Wed Apr 23 04:17:12 2014]  ClientBegin: 0
+[Wed Apr 23 04:17:46 2014]  ClientConnect: 1
+[Wed Apr 23 04:17:46 2014]  mlog:Player Padawan, connected. With IP - 74.4.57.111:1024 
+[Wed Apr 23 04:18:01 2014]  ClientBegin: 1
+[Wed Apr 23 04:23:00 2014]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Apr 23 04:27:02 2014]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Apr 23 04:35:07 2014]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Apr 23 04:37:49 2014]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Wed Apr 23 04:38:06 2014]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Apr 23 04:46:01 2014]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Wed Apr 23 04:52:49 2014]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Wed Apr 23 04:54:38 2014]  say: Padawan: I BEAT DIABETES
+[Wed Apr 23 04:54:44 2014]  say: Padawan: HES MADE OF SOYSAUCE
+[Wed Apr 23 04:54:51 2014]  Item: 0 ammo_all
+[Wed Apr 23 05:04:32 2014]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Apr 23 05:07:36 2014]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Wed Apr 23 05:07:50 2014]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Wed Apr 23 05:07:57 2014]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Apr 23 05:08:01 2014]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Apr 23 05:08:32 2014]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Wed Apr 23 05:08:43 2014]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Wed Apr 23 05:09:02 2014]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Wed Apr 23 05:10:07 2014]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Wed Apr 23 05:10:33 2014]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Wed Apr 23 05:10:36 2014]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Wed Apr 23 05:11:33 2014]  Kill: 1022 1 2: <world> killed Padawan by MOD_MELEE
+[Wed Apr 23 05:13:10 2014]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Wed Apr 23 05:14:50 2014]  Kill: 1022 0 36: <world> killed Padawan by MOD_CRUSH
+[Wed Apr 23 05:15:10 2014]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Wed Apr 23 05:15:24 2014]  Item: 0 ammo_all
+[Wed Apr 23 05:16:28 2014]  Kill: 1022 1 36: <world> killed Padawan by MOD_CRUSH
+[Wed Apr 23 05:18:24 2014]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Wed Apr 23 05:23:10 2014]  ClientDisconnect: 0
+[Wed Apr 23 05:24:41 2014]  ClientDisconnect: 1
+[Wed Apr 23 06:16:42 2014]  Exit: Timelimit hit.
+[Wed Apr 23 20:27:11 2014]  ClientConnect: 0
+[Wed Apr 23 20:27:11 2014]  mlog:Player Padawan, connected. With IP - 74.4.57.111:29070 
+[Wed Apr 23 20:27:26 2014]  ClientConnect: 1
+[Wed Apr 23 20:27:26 2014]  mlog:Player Padawan, connected. With IP - 74.4.57.111:1024 
+[Wed Apr 23 20:27:26 2014]  ClientBegin: 0
+[Wed Apr 23 20:27:38 2014]  ShutdownGame:
+[Wed Apr 23 20:27:38 2014]  ------------------------------------------------------------
+[Wed Apr 23 20:27:39 2014]  ------------------------------------------------------------
+[Wed Apr 23 20:27:39 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Apr 23 20:27:39 2014]  ClientConnect: 0
+[Wed Apr 23 20:27:39 2014]  ClientConnect: 1
+[Wed Apr 23 20:27:46 2014]  ClientBegin: 0
+[Wed Apr 23 20:28:29 2014]  ClientBegin: 1
+[Wed Apr 23 20:29:29 2014]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Apr 23 20:32:18 2014]  ClientDisconnect: 0
+[Wed Apr 23 20:33:48 2014]  ClientConnect: 0
+[Wed Apr 23 20:33:48 2014]  mlog:Player Padawan, connected. With IP - 74.4.57.111:29070 
+[Wed Apr 23 20:33:58 2014]  ClientBegin: 0
+[Wed Apr 23 20:42:09 2014]  say: Padawan: Look at them
+[Wed Apr 23 20:42:19 2014]  say: Padawan: Weiners
+[Wed Apr 23 20:42:24 2014]  say: Padawan: They both are so.............................
+[Wed Apr 23 20:42:29 2014]  say: Padawan: Monotone
+[Wed Apr 23 20:42:35 2014]  say: Padawan: Yes
+[Wed Apr 23 20:42:41 2014]  ClientConnect: 2
+[Wed Apr 23 20:42:41 2014]  mlog:Player Duck, connected. With IP - 174.110.172.156:29070 
+[Wed Apr 23 20:42:45 2014]  say: Padawan: Its so weird how not even the tv is on
+[Wed Apr 23 20:42:53 2014]  say: Padawan: Mhm
+[Wed Apr 23 20:43:02 2014]  say: Padawan: YO GUY 
+[Wed Apr 23 20:43:09 2014]  ClientBegin: 2
+[Wed Apr 23 20:43:16 2014]  say: Padawan: YOU WANNA TAKE PART IN THE DARK TOURNY?
+[Wed Apr 23 20:43:24 2014]  say: ^3Duck: hi
+[Wed Apr 23 20:43:27 2014]  say: Padawan: Greetings.
+[Wed Apr 23 20:43:33 2014]  say: Padawan: Salutations.
+[Wed Apr 23 20:43:58 2014]  say: Padawan: Do you Duck, want to take part in the Dark Tourny?
+[Wed Apr 23 20:44:03 2014]  say: ^3Duck: what is that
+[Wed Apr 23 20:44:24 2014]  print "Padawan^7 @@@PLRENAME ^0Sakyo
+"[Wed Apr 23 20:44:24 2014]  print "Padawan^7 @@@PLRENAME ^0Toguro
+"[Wed Apr 23 20:44:31 2014]  say: ^0Sakyo: It is a tourny
+[Wed Apr 23 20:44:37 2014]  say: ^0Sakyo: You will most likely die.
+[Wed Apr 23 20:44:42 2014]  say: ^0Toguro: It's a tournament... of darkness...
+[Wed Apr 23 20:44:50 2014]  say: ^3Duck: sure
+[Wed Apr 23 20:45:01 2014]  say: ^0Toguro: It may destroy your soul.
+[Wed Apr 23 20:45:01 2014]  say: ^0Sakyo: Then first find the big Tv
+[Wed Apr 23 20:45:06 2014]  say: ^0Toguro: Yes
+[Wed Apr 23 20:45:45 2014]  say: ^3Duck: where
+[Wed Apr 23 20:45:51 2014]  say: ^0Toguro: At the big TV
+[Wed Apr 23 20:45:54 2014]  say: ^0Toguro: Meet me there
+[Wed Apr 23 20:45:59 2014]  say: ^3Duck: where is it
+[Wed Apr 23 20:46:09 2014]  say: ^0Toguro: I will take you to the tournament from there.
+[Wed Apr 23 20:46:12 2014]  say: ^0Toguro: You must find it.
+[Wed Apr 23 20:46:17 2014]  say: ^0Toguro: That's the first tast.
+[Wed Apr 23 20:46:23 2014]  say: ^0Toguro: You have 5 minutes to find it.
+[Wed Apr 23 20:46:47 2014]  say: ^0Toguro: If you can't find it in 5 minutes you can not participate in the Dark Tournament.
+[Wed Apr 23 20:46:58 2014]  say: ^3Duck: what does it look like
+[Wed Apr 23 20:47:01 2014]  say: ^0Sakyo: A tv.
+[Wed Apr 23 20:47:02 2014]  say: ^3Duck: tv wise
+[Wed Apr 23 20:47:05 2014]  say: ^0Toguro: Like a giant TV
+[Wed Apr 23 20:47:07 2014]  say: ^0Sakyo: Large
+[Wed Apr 23 20:47:12 2014]  say: ^0Toguro: In the air.
+[Wed Apr 23 20:47:49 2014]  say: ^0Toguro: I'll be on the roof of a building next to the TV, come to me when you find it.
+[Wed Apr 23 20:48:12 2014]  say: ^0Toguro: 3 Minutes remaining.
+[Wed Apr 23 20:49:06 2014]  say: ^3Duck: ??? i cant find it 
+[Wed Apr 23 20:49:08 2014]  say: ^0Toguro: Two minutes.
+[Wed Apr 23 20:49:24 2014]  say: ^0Toguro: If you can't find it, you're not worthy of the Dark Tournament.
+[Wed Apr 23 20:50:03 2014]  say: ^0Toguro: Ahaa, very good.
+[Wed Apr 23 20:50:04 2014]  say: ^3Duck: didnt know there was another side to the map
+[Wed Apr 23 20:50:11 2014]  say: ^0Toguro: You made it with one minute left.
+[Wed Apr 23 20:50:14 2014]  say: ^0Toguro: Follow me.
+[Wed Apr 23 20:50:56 2014]  say: ^0Toguro: Now tell me, how long have you been playing?
+[Wed Apr 23 20:50:58 2014]  ClientConnect: 3
+[Wed Apr 23 20:50:58 2014]  mlog:Player Levante, connected. With IP - 81.38.212.248:29070 
+[Wed Apr 23 20:51:11 2014]  say: ^3Duck: err i haven't played in 7 years
+[Wed Apr 23 20:51:17 2014]  say: ^0Toguro: Alright.
+[Wed Apr 23 20:51:20 2014]  say: ^0Sakyo: Good good
+[Wed Apr 23 20:51:25 2014]  ClientBegin: 3
+[Wed Apr 23 20:51:33 2014]  say: ^0Toguro: You will fight many difficult opponents.
+[Wed Apr 23 20:51:38 2014]  say: ^0Sakyo: Indeed.
+[Wed Apr 23 20:51:39 2014]  ClientConnect: 4
+[Wed Apr 23 20:51:39 2014]  mlog:Player Thame_Cerulian, connected. With IP - 80.98.197.150:29070 
+[Wed Apr 23 20:51:48 2014]  say: ^0Toguro: You may not use any cheats or guns in these fights.
+[Wed Apr 23 20:51:50 2014]  say: ^3Duck: o
+[Wed Apr 23 20:51:52 2014]  say: ^3Duck: oop
+[Wed Apr 23 20:51:56 2014]  say: ^3Duck: give gave all
+[Wed Apr 23 20:51:56 2014]  ClientBegin: 4
+[Wed Apr 23 20:51:59 2014]  say: ^3Duck: just gave all
+[Wed Apr 23 20:52:04 2014]  say: ^0Toguro: Fine, just don't use them.
+[Wed Apr 23 20:52:20 2014]  say: ^0Toguro: Don't use god mode though.
+[Wed Apr 23 20:52:28 2014]  say: ^0Toguro: If you do, you are instantly disqualified.
+[Wed Apr 23 20:52:38 2014]  say: ^3Duck: okay
+[Wed Apr 23 20:52:44 2014]  say: Thame_Cerulian: hi all
+[Wed Apr 23 20:52:50 2014]  say: ^0Sakyo: Greetings
+[Wed Apr 23 20:53:03 2014]  say: ^0Toguro: Your first opponent will be a wampa, then they will continue to become more and more difficult.
+[Wed Apr 23 20:53:12 2014]  say: ^3Duck: k
+[Wed Apr 23 20:53:26 2014]  say: ^0Toguro: Very good.
+[Wed Apr 23 20:53:32 2014]  say: ^0Toguro: Next, Tavion.
+[Wed Apr 23 20:53:46 2014]  Kill: 1022 2 3: <world> killed ^3Duck by MOD_SABER
+[Wed Apr 23 20:53:50 2014]  say: ^3Duck: o
+[Wed Apr 23 20:53:51 2014]  say: ^3Duck: rip me
+[Wed Apr 23 20:53:52 2014]  say: ^0Toguro: You have 3 chances, if you die three times, you're out
+[Wed Apr 23 20:53:52 2014]  say: ^0Sakyo: You get 2 more chances
+[Wed Apr 23 20:53:55 2014]  Kill: 1 1 39: ^0Sakyo killed ^0Sakyo by MOD_SUICIDE
+[Wed Apr 23 20:54:26 2014]  say: ^0Toguro: Just a moment.
+[Wed Apr 23 20:54:27 2014]  say: ^0Sakyo: Get out.
+[Wed Apr 23 20:54:33 2014]  say: ^0Sakyo: :D
+[Wed Apr 23 20:54:34 2014]  say: ^0Toguro: You will fight a new Tavion.
+[Wed Apr 23 20:54:49 2014]  say: ^0Toguro: Begin
+[Wed Apr 23 20:54:49 2014]  say: ^0Sakyo: You guys can watch
+[Wed Apr 23 20:54:53 2014]  say: ^0Sakyo: Do not interfear
+[Wed Apr 23 20:55:17 2014]  Kill: 1022 2 3: <world> killed ^3Duck by MOD_SABER
+[Wed Apr 23 20:55:22 2014]  say: ^3Duck: damn i suk
+[Wed Apr 23 20:55:23 2014]  say: ^0Toguro: 1 Try left.
+[Wed Apr 23 20:55:25 2014]  say: ^0Toguro: It's ok.
+[Wed Apr 23 20:55:31 2014]  Kill: 2 2 39: ^3Duck killed ^3Duck by MOD_SUICIDE
+[Wed Apr 23 20:55:38 2014]  say: ^0Sakyo: Then one of you people can play in the dark tourny?
+[Wed Apr 23 20:55:55 2014]  say: Thame_Cerulian: dark tourny? :D
+[Wed Apr 23 20:56:02 2014]  say: ^0Sakyo: Yes you are next?
+[Wed Apr 23 20:56:35 2014]  Kill: 1022 2 3: <world> killed ^3Duck by MOD_SABER
+[Wed Apr 23 20:56:39 2014]  say: ^3Duck: lmao
+[Wed Apr 23 20:56:39 2014]  say: Thame_Cerulian: i need some stormtroopers :D i have new keyboard
+[Wed Apr 23 20:56:41 2014]  say: ^0Sakyo: You die
+[Wed Apr 23 20:56:42 2014]  say: ^0Toguro: Ah, you have failed.
+[Wed Apr 23 20:56:51 2014]  say: ^0Sakyo: Whos next?
+[Wed Apr 23 20:56:53 2014]  Kill: 2 2 39: ^3Duck killed ^3Duck by MOD_SUICIDE
+[Wed Apr 23 20:56:56 2014]  say: Levante: mempower
+[Wed Apr 23 20:56:57 2014]  say: ^0Toguro: You have used all three of your chances.
+[Wed Apr 23 20:57:09 2014]  say: ^0Toguro: You can not use any cheats or guns  in these fights.
+[Wed Apr 23 20:57:15 2014]  say: ^0Toguro: If you do, you are disqualified.
+[Wed Apr 23 20:57:27 2014]  say: ^0Toguro: Who's next?
+[Wed Apr 23 20:57:35 2014]  say: ^0Sakyo: Get in the ring :D
+[Wed Apr 23 20:57:46 2014]  say: ^0Sakyo: No cheats
+[Wed Apr 23 20:57:49 2014]  say: ^0Sakyo: No flying
+[Wed Apr 23 20:57:58 2014]  say: Thame_Cerulian: flying too?
+[Wed Apr 23 20:58:02 2014]  say: ^0Sakyo: No 
+[Wed Apr 23 20:58:04 2014]  say: ^0Toguro: You can't fly.
+[Wed Apr 23 20:58:05 2014]  say: ^0Sakyo: No flying.
+[Wed Apr 23 20:58:13 2014]  say: ^0Toguro: Saber and force only.
+[Wed Apr 23 20:58:20 2014]  say: ^0Sakyo: No god mode
+[Wed Apr 23 20:58:31 2014]  Item: 2 ammo_all
+[Wed Apr 23 20:59:38 2014]  say: ^0Toguro: Very good.
+[Wed Apr 23 20:59:45 2014]  say: ^0Toguro: Your next pponent will be Tavion.
+[Wed Apr 23 20:59:51 2014]  say: ^0Sakyo: Have fun
+[Wed Apr 23 21:00:26 2014]  say: ^0Toguro: Splendid.
+[Wed Apr 23 21:00:27 2014]  say: Thame_Cerulian: i need hp :D
+[Wed Apr 23 21:00:32 2014]  Item: 2 ammo_all
+[Wed Apr 23 21:00:33 2014]  say: ^0Toguro: Then heal.
+[Wed Apr 23 21:00:39 2014]  say: ^3Duck: wow you could heal
+[Wed Apr 23 21:00:39 2014]  say: Thame_Cerulian: dont have
+[Wed Apr 23 21:00:40 2014]  say: ^3Duck: lol
+[Wed Apr 23 21:00:44 2014]  say: ^0Sakyo: Ready?
+[Wed Apr 23 21:00:49 2014]  say: ^0Toguro: Do giveall again
+[Wed Apr 23 21:00:49 2014]  say: Thame_Cerulian: 13 hp :D
+[Wed Apr 23 21:00:52 2014]  say: Thame_Cerulian: ok 
+[Wed Apr 23 21:01:53 2014]  Kill: 1022 4 3: <world> killed Thame_Cerulian by MOD_SABER
+[Wed Apr 23 21:01:56 2014]  say: Thame_Cerulian: ehh
+[Wed Apr 23 21:01:58 2014]  ClientDisconnect: 2
+[Wed Apr 23 21:02:00 2014]  say: ^0Sakyo: Two left.
+[Wed Apr 23 21:02:13 2014]  say: ^0Toguro: It's ok, you still have two loves.
+[Wed Apr 23 21:02:16 2014]  say: ^0Toguro: lives*
+[Wed Apr 23 21:02:28 2014]  say: ^0Toguro: You will fight a new Desann now.
+[Wed Apr 23 21:02:59 2014]  say: ^0Toguro: Thame, do you wish to continue?
+[Wed Apr 23 21:03:09 2014]  say: Thame_Cerulian: yep
+[Wed Apr 23 21:03:16 2014]  say: ^0Toguro: Ok, go into the ring.
+[Wed Apr 23 21:03:20 2014]  say: Thame_Cerulian: just thinking of neew froces
+[Wed Apr 23 21:03:34 2014]  say: ^0Toguro: Let us know when you're ready.
+[Wed Apr 23 21:03:55 2014]  say: ^0Toguro: Begin.
+[Wed Apr 23 21:04:01 2014]  say: ^0Sakyo: I like in ring action
+[Wed Apr 23 21:06:19 2014]  Kill: 1022 4 3: <world> killed Thame_Cerulian by MOD_SABER
+[Wed Apr 23 21:06:27 2014]  say: ^0Toguro: 1 Life left.
+[Wed Apr 23 21:06:33 2014]  say: ^0Sakyo: You may try again.
+[Wed Apr 23 21:06:45 2014]  say: Thame_Cerulian: this combo gives me the creep
+[Wed Apr 23 21:06:45 2014]  say: ^0Toguro: We will leave the same Desann here.
+[Wed Apr 23 21:07:28 2014]  say: ^0Sakyo: Would you wish to skip?
+[Wed Apr 23 21:07:37 2014]  say: Thame_Cerulian: skip what?
+[Wed Apr 23 21:07:39 2014]  say: ^0Sakyo: And go with the next?
+[Wed Apr 23 21:07:43 2014]  say: ^0Toguro: To Alora.
+[Wed Apr 23 21:07:44 2014]  say: Thame_Cerulian: no
+[Wed Apr 23 21:07:51 2014]  say: ^0Sakyo: to late
+[Wed Apr 23 21:08:21 2014]  say: ^0Sakyo: Good.
+[Wed Apr 23 21:08:25 2014]  say: ^0Toguro: Very good.
+[Wed Apr 23 21:08:34 2014]  say: ^0Toguro: Would you like to retry Desann?
+[Wed Apr 23 21:08:39 2014]  say: ^0Toguro: Heal if you need to.
+[Wed Apr 23 21:08:42 2014]  say: Thame_Cerulian: hmmm....
+[Wed Apr 23 21:08:48 2014]  say: ^0Toguro: You have one life left.
+[Wed Apr 23 21:08:53 2014]  Item: 0 ammo_all
+[Wed Apr 23 21:08:53 2014]  Item: 0 ammo_all
+[Wed Apr 23 21:08:55 2014]  say: Thame_Cerulian: can u disable the saber combo?
+[Wed Apr 23 21:09:10 2014]  say: ^0Toguro: We have no way of doing that.
+[Wed Apr 23 21:09:10 2014]  say: ^0Sakyo: Go to profil and change it your self.
+[Wed Apr 23 21:09:12 2014]  Item: 0 ammo_all
+[Wed Apr 23 21:09:24 2014]  say: Thame_Cerulian: no there is no such an option
+[Wed Apr 23 21:09:38 2014]  say: ^0Sakyo: ?
+[Wed Apr 23 21:09:43 2014]  say: ^0Toguro: We aren't admins or anything
+[Wed Apr 23 21:09:59 2014]  say: ^0Toguro: We are the masters of the Dark Tournament.
+[Wed Apr 23 21:10:00 2014]  say: Thame_Cerulian: i will change force
+[Wed Apr 23 21:10:01 2014]  say: ^0Toguro: That is all.
+[Wed Apr 23 21:10:04 2014]  say: ^0Toguro: Ok
+[Wed Apr 23 21:10:29 2014]  say: ^0Sakyo: :D
+[Wed Apr 23 21:10:37 2014]  say: ^0Toguro: Your next fight will be pretty easy.
+[Wed Apr 23 21:10:40 2014]  say: ^0Toguro: Two wampas.
+[Wed Apr 23 21:10:42 2014]  Kill: 4 4 39: Thame_Cerulian killed Thame_Cerulian by MOD_SUICIDE
+[Wed Apr 23 21:10:43 2014]  Item: 0 ammo_all
+[Wed Apr 23 21:11:20 2014]  Kill: 1 3 3: ^0Sakyo killed Levante by MOD_SABER
+[Wed Apr 23 21:12:39 2014]  say: ^0Toguro: Kill the other.
+[Wed Apr 23 21:12:42 2014]  say: ^0Sakyo: Good work.
+[Wed Apr 23 21:13:54 2014]  say: ^0Sakyo: Heal up
+[Wed Apr 23 21:13:54 2014]  say: ^0Toguro: Splendid.
+[Wed Apr 23 21:14:00 2014]  say: Thame_Cerulian: im full
+[Wed Apr 23 21:14:08 2014]  say: ^0Sakyo: Have a great time!
+[Wed Apr 23 21:14:19 2014]  say: Thame_Cerulian: wait
+[Wed Apr 23 21:14:29 2014]  say: ^0Sakyo: What
+[Wed Apr 23 21:14:41 2014]  say: Thame_Cerulian: for this i need other force...u said i will have Desan
+[Wed Apr 23 21:14:55 2014]  say: ^0Toguro: Alright, change it then.
+[Wed Apr 23 21:14:59 2014]  say: ^0Toguro: Or fight Desann.
+[Wed Apr 23 21:15:04 2014]  say: Thame_Cerulian: desan
+[Wed Apr 23 21:15:06 2014]  say: Thame_Cerulian: kill this
+[Wed Apr 23 21:15:06 2014]  say: ^0Toguro: Ok.
+[Wed Apr 23 21:15:07 2014]  Kill: 1022 3 38: <world> killed Levante by MOD_FALLING
+[Wed Apr 23 21:15:17 2014]  say: ^0Sakyo: Poor creature.
+[Wed Apr 23 21:15:20 2014]  say: ^0Toguro: Hn.
+[Wed Apr 23 21:16:20 2014]  Kill: 1022 4 3: <world> killed Thame_Cerulian by MOD_SABER
+[Wed Apr 23 21:16:24 2014]  say: Thame_Cerulian: ehh
+[Wed Apr 23 21:16:28 2014]  say: ^0Toguro: That was your last  try.
+[Wed Apr 23 21:16:37 2014]  say: ^0Toguro: Try again next year.
+[Wed Apr 23 21:16:38 2014]  Kill: 1022 1 3: <world> killed ^0Sakyo by MOD_SABER
+[Wed Apr 23 21:16:40 2014]  say: Thame_Cerulian: :D
+[Wed Apr 23 21:16:42 2014]  say: Thame_Cerulian: lol
+[Wed Apr 23 21:17:59 2014]  say: ^0Sakyo: He had to die.
+[Wed Apr 23 21:18:02 2014]  say: ^0Toguro: yes
+[Wed Apr 23 21:18:17 2014]  say: ^0Sakyo: Are you a new player?
+[Wed Apr 23 21:18:22 2014]  say: ^0Sakyo: Or sorta new?
+[Wed Apr 23 21:18:22 2014]  say: Thame_Cerulian: not so
+[Wed Apr 23 21:18:29 2014]  say: ^0Sakyo: Awh okay
+[Wed Apr 23 21:18:37 2014]  say: ^0Toguro: How long have you been playing?
+[Wed Apr 23 21:18:51 2014]  say: Thame_Cerulian: several years but some times off
+[Wed Apr 23 21:18:58 2014]  say: ^0Toguro: Alright then.
+[Wed Apr 23 21:19:04 2014]  say: ^0Sakyo: Oh alright then.
+[Wed Apr 23 21:20:23 2014]  say: ^0Sakyo: ROCKET TENNIS
+[Wed Apr 23 21:20:44 2014]  say: Thame_Cerulian: now a rancor
+[Wed Apr 23 21:20:50 2014]  say: Thame_Cerulian: or desan :D
+[Wed Apr 23 21:21:01 2014]  say: ^0Sakyo: REALLY ASSHOLE
+[Wed Apr 23 21:21:01 2014]  say: ^0Sakyo: NO
+[Wed Apr 23 21:21:05 2014]  say: ^0Sakyo: THIS IS ROCKET TENNIS
+[Wed Apr 23 21:23:25 2014]  Kill: 1022 4 39: <world> killed Thame_Cerulian by MOD_SUICIDE
+[Wed Apr 23 21:23:28 2014]  say: Thame_Cerulian: :D :D
+[Wed Apr 23 21:24:56 2014]  say: ^0Sakyo: EHehe
+[Wed Apr 23 21:26:46 2014]  Kill: 1022 1 2: <world> killed ^0Sakyo by MOD_MELEE
+[Wed Apr 23 21:26:51 2014]  say: ^0Sakyo: Oh bot
+[Wed Apr 23 21:27:36 2014]  say: ^0Toguro: ITS OURS
+[Wed Apr 23 21:27:39 2014]  say: ^0Sakyo: STOP
+[Wed Apr 23 21:29:49 2014]  Kill: 0 0 39: ^0Toguro killed ^0Toguro by MOD_SUICIDE
+[Wed Apr 23 21:31:02 2014]  say: ^0Toguro: I'll kill this beast
+[Wed Apr 23 21:31:09 2014]  say: ^0Toguro: Donr.
+[Wed Apr 23 21:31:11 2014]  say: ^0Toguro: Done*
+[Wed Apr 23 21:31:13 2014]  say: ^0Sakyo: Sucsess
+[Wed Apr 23 21:31:25 2014]  say: Thame_Cerulian: :D nice
+[Wed Apr 23 21:31:33 2014]  say: ^0Sakyo: You were gonna fight it.
+[Wed Apr 23 21:31:39 2014]  say: ^0Sakyo: for the dark
+[Wed Apr 23 21:31:42 2014]  say: ^0Toguro: If you made it that far.
+[Wed Apr 23 21:32:13 2014]  say: Thame_Cerulian: what kinda cards these are?
+[Wed Apr 23 21:32:29 2014]  say: ^0Toguro: They look like tickets.
+[Wed Apr 23 21:32:35 2014]  say: ^0Sakyo: For the Dark Tourny
+[Wed Apr 23 21:32:47 2014]  say: Thame_Cerulian: o ye of course :))))))))
+[Wed Apr 23 21:33:31 2014]  say: ^0Sakyo: Hehe
+[Wed Apr 23 21:34:09 2014]  Kill: 0 3 3: ^0Toguro killed Levante by MOD_SABER
+[Wed Apr 23 21:34:50 2014]  say: ^0Sakyo: :D
+[Wed Apr 23 21:35:19 2014]  ClientDisconnect: 3
+[Wed Apr 23 21:36:01 2014]  say: Thame_Cerulian: byz all
+[Wed Apr 23 21:36:04 2014]  ClientDisconnect: 4
+[Wed Apr 23 21:36:05 2014]  say: ^0Toguro: Bye bye
+[Wed Apr 23 21:36:06 2014]  say: ^0Sakyo: Byebye
+[Wed Apr 23 21:37:57 2014]  print "^0Toguro^7 @@@PLRENAME Padawan
+"[Wed Apr 23 21:37:59 2014]  ClientDisconnect: 0
+[Wed Apr 23 21:38:01 2014]  print "^0Sakyo^7 @@@PLRENAME Padawan
+"[Wed Apr 23 21:38:06 2014]  ClientDisconnect: 1
+[Wed Apr 23 22:27:37 2014]  Exit: Timelimit hit.
+[Thu Apr 24 10:56:25 2014]  ClientConnect: 0
+[Thu Apr 24 10:56:25 2014]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Thu Apr 24 10:56:52 2014]  ClientBegin: 0
+[Thu Apr 24 10:57:05 2014]  ShutdownGame:
+[Thu Apr 24 10:57:05 2014]  ------------------------------------------------------------

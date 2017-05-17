@@ -1,0 +1,58 @@
+logfile opened on Thu Sep 29 16:26:56 2016
+
+...detecting CPU, found AMD w/ 3DNow!
+--- Common Initialization Complete ---
+Winsock Initialized
+Opening IP socket: localhost:29070
+Hostname: Mars
+IP: 192.168.1.2
+IP: 25.145.70.176
+Working directory: E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData
+execing makermod.cfg
+running_makermod.cfg 
+sv_cheats is read only.
+------ Server Initialization ------
+Server: t2_trip
+Current search path:
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\zzzz_MakerModule_ClientPlugin_v061a_Public.pk3 (2 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\zzzzzzzzzzzzzzzzzzzzzzzzzstance.pk3 (5 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\tmuconsole.pk3 (8 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Starkiller_TFU2.pk3 (112 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\SecretApprentice.pk3 (49 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\s3_cloneblaster.pk3 (45 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod Serverside v1.3b.pk3 (1 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod In-game menu.pk3 (14 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod Client Plugin.pk3 (2 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\hoverboard_if_extras.pk3 (4 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\hoverboard_if.pk3 (69 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\bloodPLUS3.1.pk3 (169 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\bloodPLUS1.5.pk3 (132 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData/makermod
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\veh_dlls.pk3 (3 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\sjc_kashyyyk.pk3 (82 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\sithcouncilv2.pk3 (285 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\RevanDark_Weapons.pk3 (371 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\RevanDark_Special_Weapons.pk3 (46 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\RevanDark_ScepterGun.pk3 (41 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\RevanDark_Blood_for_Swords.pk3 (10 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\Makermod In-game menu Base.pk3 (9 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\Jedi'sHomeJL_II.pk3 (120 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\e3_anakinsaber.pk3 (12 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets3.pk3 (16 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets2.pk3 (62 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets1.pk3 (8320 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets0.pk3 (15346 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData/base
+
+handle 1: qconsole.log
+----------------------
+50670 files in pk3 files
+Loading dll file jampgame.
+ ------- Installing Engine Patches -------- 
+Finished
+------- Game Initialization -------
+gamename: MakerMod
+gameversion: 1.3beta
+gamedate: Dec 27 2010
+MakerMod is written to celebrate our ability
+to learn to 

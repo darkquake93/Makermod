@@ -1,0 +1,397 @@
+[Tue Feb 18 13:27:01 2014]  ------------------------------------------------------------
+[Tue Feb 18 13:27:01 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Feb 18 13:27:02 2014]  ClientConnect: 0
+[Tue Feb 18 13:27:53 2014]  ClientBegin: 0
+[Tue Feb 18 13:32:47 2014]  ClientConnect: 1
+[Tue Feb 18 13:32:47 2014]  mlog:Player Padawan, connected. With IP - 91.230.25.125:29070 
+[Tue Feb 18 13:33:22 2014]  ClientBegin: 1
+[Tue Feb 18 13:34:58 2014]  Kill: 1 1 39: . killed . by MOD_SUICIDE
+[Tue Feb 18 13:34:58 2014]  setteam:  1 FREE SPECTATOR
+[Tue Feb 18 13:34:58 2014]  ClientBegin: 1
+[Tue Feb 18 13:35:04 2014]  ClientDisconnect: 1
+[Tue Feb 18 13:40:02 2014]  ClientDisconnect: 0
+[Tue Feb 18 15:27:00 2014]  Exit: Timelimit hit.
+[Tue Feb 18 18:01:55 2014]  ClientConnect: 0
+[Tue Feb 18 18:01:55 2014]  mlog:Player soldierbob/3, connected. With IP - 78.80.100.24:29424 
+[Tue Feb 18 18:02:28 2014]  ClientBegin: 0
+[Tue Feb 18 18:02:35 2014]  print "Padawan^7 @@@PLRENAME Soldier_Bob
+"[Tue Feb 18 18:02:36 2014]  ShutdownGame:
+[Tue Feb 18 18:02:36 2014]  ------------------------------------------------------------
+[Tue Feb 18 18:02:36 2014]  ------------------------------------------------------------
+[Tue Feb 18 18:02:36 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Feb 18 18:02:37 2014]  ClientConnect: 0
+[Tue Feb 18 18:02:59 2014]  say: Soldier_Bob: okaaaaaaaaaaall
+[Tue Feb 18 18:02:59 2014]  ClientBegin: 0
+[Tue Feb 18 18:03:50 2014]  ClientConnect: 1
+[Tue Feb 18 18:03:50 2014]  mlog:Player Padawan, connected. With IP - 93.84.58.82:-2569 
+[Tue Feb 18 18:04:12 2014]  ClientBegin: 1
+[Tue Feb 18 18:04:23 2014]  say: Soldier_Bob: hai
+[Tue Feb 18 18:04:38 2014]  say: Soldier_Bob: wtf
+[Tue Feb 18 18:04:45 2014]  say: Soldier_Bob: i dont see you
+[Tue Feb 18 18:05:16 2014]  say: Soldier_Bob: oh
+[Tue Feb 18 18:05:23 2014]  say: Soldier_Bob: ok follow me
+[Tue Feb 18 18:06:28 2014]  say: Soldier_Bob: i will tell you it
+[Tue Feb 18 18:06:30 2014]  say: Soldier_Bob: but first
+[Tue Feb 18 18:06:35 2014]  say: Soldier_Bob: we must choose a street
+[Tue Feb 18 18:06:47 2014]  say: Soldier_Bob: lol
+[Tue Feb 18 18:07:09 2014]  say: Soldier_Bob: where u want the temple
+[Tue Feb 18 18:07:22 2014]  say: Soldier_Bob: here 
+[Tue Feb 18 18:07:23 2014]  say: Soldier_Bob: look
+[Tue Feb 18 18:07:30 2014]  say: Soldier_Bob: over here
+[Tue Feb 18 18:07:43 2014]  Kill: 1 0 3: ^8Lexus killed Soldier_Bob by MOD_SABER
+[Tue Feb 18 18:07:45 2014]  say: Soldier_Bob: lol
+[Tue Feb 18 18:07:47 2014]  say: Soldier_Bob: xd
+[Tue Feb 18 18:08:06 2014]  say: Soldier_Bob: roger
+[Tue Feb 18 18:08:11 2014]  say: Soldier_Bob: ok
+[Tue Feb 18 18:08:23 2014]  print "^8Lexus^7 @@@PLRENAME ^1Lord Kerus
+"[Tue Feb 18 18:08:37 2014]  say: Soldier_Bob: /mylist
+[Tue Feb 18 18:09:02 2014]  say: ^1Lord Kerus: lol
+[Tue Feb 18 18:09:02 2014]  say: Soldier_Bob: /minfo * 
+[Tue Feb 18 18:09:11 2014]  say: Soldier_Bob: LOL
+[Tue Feb 18 18:09:14 2014]  say: Soldier_Bob: /Mlist * xd
+[Tue Feb 18 18:09:19 2014]  say: Soldier_Bob: rly
+[Tue Feb 18 18:09:25 2014]  say: Soldier_Bob: /Mlist
+[Tue Feb 18 18:09:32 2014]  say: Soldier_Bob: and if u will choose
+[Tue Feb 18 18:09:34 2014]  say: Soldier_Bob: the one
+[Tue Feb 18 18:09:42 2014]  say: Soldier_Bob: do /mlist and write that what u choosed
+[Tue Feb 18 18:09:51 2014]  say: ^1Lord Kerus: i see only WARNING
+[Tue Feb 18 18:10:01 2014]  say: Soldier_Bob: lol
+[Tue Feb 18 18:10:14 2014]  say: Soldier_Bob: try it again
+[Tue Feb 18 18:10:19 2014]  say: Soldier_Bob: /mlist
+[Tue Feb 18 18:10:45 2014]  say: Soldier_Bob: LOL
+[Tue Feb 18 18:11:01 2014]  say: Soldier_Bob: but if u will want i will can create the temple and u the npcs
+[Tue Feb 18 18:11:06 2014]  say: Soldier_Bob: i dont know npc list
+[Tue Feb 18 18:11:19 2014]  say: Soldier_Bob: y
+[Tue Feb 18 18:11:22 2014]  say: Soldier_Bob: that will do m
+[Tue Feb 18 18:11:44 2014]  say: Soldier_Bob: lol
+[Tue Feb 18 18:11:48 2014]  say: Soldier_Bob: gogogo!
+[Tue Feb 18 18:11:52 2014]  say: Soldier_Bob: xd
+[Tue Feb 18 18:11:56 2014]  say: Soldier_Bob: look
+[Tue Feb 18 18:11:57 2014]  say: Soldier_Bob: XD
+[Tue Feb 18 18:12:01 2014]  say: Soldier_Bob: the animation
+[Tue Feb 18 18:12:06 2014]  say: Soldier_Bob: im shitting xd
+[Tue Feb 18 18:12:18 2014]  say: Soldier_Bob: yy
+[Tue Feb 18 18:12:29 2014]  say: Soldier_Bob: that will the fallen siths
+[Tue Feb 18 18:12:33 2014]  say: Soldier_Bob: nu
+[Tue Feb 18 18:12:35 2014]  say: Soldier_Bob: ye
+[Tue Feb 18 18:12:37 2014]  say: Soldier_Bob: jedis
+[Tue Feb 18 18:12:52 2014]  say: Soldier_Bob: tom b fredom nad
+[Tue Feb 18 18:12:54 2014]  say: Soldier_Bob: ? O_O
+[Tue Feb 18 18:13:00 2014]  say: Soldier_Bob: oh 
+[Tue Feb 18 18:13:05 2014]  say: Soldier_Bob: swtor updating
+[Tue Feb 18 18:13:06 2014]  say: Soldier_Bob: :|
+[Tue Feb 18 18:13:15 2014]  say: Soldier_Bob: y
+[Tue Feb 18 18:13:21 2014]  say: Soldier_Bob: sec
+[Tue Feb 18 18:13:28 2014]  say: Soldier_Bob: can u try again the /mlist ?
+[Tue Feb 18 18:14:00 2014]  ClientDisconnect: 1
+[Tue Feb 18 18:14:00 2014]  ClientDisconnect: 1
+[Tue Feb 18 18:14:00 2014]  ClientConnect: 1
+[Tue Feb 18 18:14:00 2014]  mlog:Player ^1Lord Kerus, connected. With IP - 93.84.58.82:-2569 
+[Tue Feb 18 18:14:13 2014]  ClientDisconnect: 1
+[Tue Feb 18 18:14:47 2014]  ClientConnect: 1
+[Tue Feb 18 18:14:47 2014]  mlog:Player Padawan, connected. With IP - 93.84.58.82:-2569 
+[Tue Feb 18 18:15:12 2014]  ClientBegin: 1
+[Tue Feb 18 18:15:15 2014]  say: Soldier_Bob: oh
+[Tue Feb 18 18:15:27 2014]  say: ^1Lord Kerus: .mlist
+[Tue Feb 18 18:15:38 2014]  say: Soldier_Bob: again?
+[Tue Feb 18 18:15:50 2014]  say: Soldier_Bob: xd
+[Tue Feb 18 18:15:54 2014]  say: Soldier_Bob: im only light
+[Tue Feb 18 18:16:02 2014]  say: Soldier_Bob: /mlist
+[Tue Feb 18 18:16:10 2014]  say: Soldier_Bob: ye
+[Tue Feb 18 18:16:20 2014]  say: Soldier_Bob: lol u head xd
+[Tue Feb 18 18:16:39 2014]  say: Soldier_Bob: surrender
+[Tue Feb 18 18:17:02 2014]  say: Soldier_Bob: u cant kill me revan 
+[Tue Feb 18 18:17:11 2014]  say: Soldier_Bob: kerus* xd
+[Tue Feb 18 18:18:00 2014]  say: Soldier_Bob: lol
+[Tue Feb 18 18:18:23 2014]  say: Soldier_Bob: kill the stupid kerus my jedis
+[Tue Feb 18 18:18:40 2014]  say: Soldier_Bob: lol we can do movie :D
+[Tue Feb 18 18:19:06 2014]  Kill: 1 0 3: ^1Lord Kerus killed Soldier_Bob by MOD_SABER
+[Tue Feb 18 18:19:09 2014]  say: Soldier_Bob: auhhhhhds
+[Tue Feb 18 18:19:19 2014]  say: Soldier_Bob: thats imposible!
+[Tue Feb 18 18:19:33 2014]  say: Soldier_Bob: go my son ...
+[Tue Feb 18 18:20:04 2014]  say: Soldier_Bob: revenge me son ..
+[Tue Feb 18 18:20:45 2014]  say: Soldier_Bob: stupid sith!
+[Tue Feb 18 18:20:51 2014]  say: Soldier_Bob: kill the sith omg!
+[Tue Feb 18 18:21:05 2014]  say: Soldier_Bob: what are you thing u doing!
+[Tue Feb 18 18:21:15 2014]  say: Soldier_Bob: ATTACK!
+[Tue Feb 18 18:21:25 2014]  say: Soldier_Bob: Did u like it lex?
+[Tue Feb 18 18:21:27 2014]  Kill: 1022 1 3: <world> killed ^1Lord Kerus by MOD_SABER
+[Tue Feb 18 18:21:30 2014]  say: Soldier_Bob: xd
+[Tue Feb 18 18:21:33 2014]  say: Soldier_Bob: do god mode
+[Tue Feb 18 18:21:35 2014]  say: Soldier_Bob: its only movie
+[Tue Feb 18 18:21:51 2014]  Kill: 1 1 39: ^1Lord Kerus killed ^1Lord Kerus by MOD_SUICIDE
+[Tue Feb 18 18:22:31 2014]  say: Soldier_Bob: KILL THE SITH IDIOTS!
+[Tue Feb 18 18:22:43 2014]  say: Soldier_Bob: STOP THEM FOR ME!
+[Tue Feb 18 18:24:16 2014]  say: Soldier_Bob: this is you time my girl padawan
+[Tue Feb 18 18:25:40 2014]  say: Soldier_Bob: i know force :D
+[Tue Feb 18 18:29:59 2014]  say: Soldier_Bob: time for die! sith
+[Tue Feb 18 18:30:12 2014]  Kill: 1 0 3: ^1Lord Kerus killed Soldier_Bob by MOD_SABER
+[Tue Feb 18 18:30:19 2014]  say: Soldier_Bob: you .. wi .. winn...
+[Tue Feb 18 18:30:32 2014]  say: ^1Lord Kerus: of course i lord of the sith
+[Tue Feb 18 18:30:40 2014]  say: Soldier_Bob: ^1Episode ^7One ^4Ended
+[Tue Feb 18 18:30:46 2014]  say: Soldier_Bob: ya
+[Tue Feb 18 18:30:54 2014]  say: Soldier_Bob: im bob lucas
+[Tue Feb 18 18:31:08 2014]  say: Soldier_Bob: bob lucas
+[Tue Feb 18 18:31:18 2014]  say: Soldier_Bob: mercy
+[Tue Feb 18 18:31:18 2014]  Kill: 1 0 3: ^1Lord Kerus killed Soldier_Bob by MOD_SABER
+[Tue Feb 18 18:31:23 2014]  say: Soldier_Bob: im only jawa
+[Tue Feb 18 18:31:44 2014]  say: Soldier_Bob: sec
+[Tue Feb 18 18:31:52 2014]  say: Soldier_Bob: im bob lucas
+[Tue Feb 18 18:32:07 2014]  say: Soldier_Bob: look lexus
+[Tue Feb 18 18:32:14 2014]  say: Soldier_Bob: this is not movie
+[Tue Feb 18 18:32:15 2014]  say: Soldier_Bob: lol
+[Tue Feb 18 18:32:23 2014]  say: Soldier_Bob: george lucas
+[Tue Feb 18 18:32:25 2014]  say: Soldier_Bob: do u know this guy?
+[Tue Feb 18 18:32:31 2014]  say: Soldier_Bob: me is bob
+[Tue Feb 18 18:32:34 2014]  say: Soldier_Bob: and u lexus
+[Tue Feb 18 18:32:42 2014]  say: Soldier_Bob: NU
+[Tue Feb 18 18:33:08 2014]  say: Soldier_Bob: do /mempower
+[Tue Feb 18 18:33:15 2014]  say: Soldier_Bob: now
+[Tue Feb 18 18:33:19 2014]  say: Soldier_Bob: lets do episode II
+[Tue Feb 18 18:33:24 2014]  say: Soldier_Bob: oka?
+[Tue Feb 18 18:33:27 2014]  Kill: 1 0 3: ^1Lord Kerus killed Soldier_Bob by MOD_SABER
+[Tue Feb 18 18:33:30 2014]  say: Soldier_Bob: MEDAK
+[Tue Feb 18 18:33:42 2014]  say: Soldier_Bob: now rly
+[Tue Feb 18 18:33:45 2014]  say: Soldier_Bob: lets go episode II?
+[Tue Feb 18 18:33:51 2014]  say: Soldier_Bob: ok
+[Tue Feb 18 18:33:55 2014]  say: Soldier_Bob: where u
+[Tue Feb 18 18:34:22 2014]  say: Soldier_Bob: nwo training
+[Tue Feb 18 18:34:26 2014]  say: Soldier_Bob: the episode II will hard
+[Tue Feb 18 18:35:54 2014]  say: Soldier_Bob: wait
+[Tue Feb 18 18:35:57 2014]  say: Soldier_Bob: this is for episode II
+[Tue Feb 18 18:36:10 2014]  say: Soldier_Bob: stop son
+[Tue Feb 18 18:36:14 2014]  say: Soldier_Bob: SON!
+[Tue Feb 18 18:36:28 2014]  say: Soldier_Bob: stop masturbating son
+[Tue Feb 18 18:36:34 2014]  say: Soldier_Bob: WHAT THE
+[Tue Feb 18 18:36:38 2014]  say: Soldier_Bob: HE DIED IN MASTURBATING?
+[Tue Feb 18 18:36:44 2014]  say: Soldier_Bob: O MA GAD!
+[Tue Feb 18 18:36:49 2014]  say: Soldier_Bob: THATS IMPOSIBLE
+[Tue Feb 18 18:37:01 2014]  say: Soldier_Bob: LEVIOJSA
+[Tue Feb 18 18:37:20 2014]  say: Soldier_Bob: SON!
+[Tue Feb 18 18:37:26 2014]  say: Soldier_Bob: -_-
+[Tue Feb 18 18:37:29 2014]  say: Soldier_Bob: STOP MASTURBATING!
+[Tue Feb 18 18:37:50 2014]  say: Soldier_Bob: sons!
+[Tue Feb 18 18:38:18 2014]  say: Soldier_Bob: ok sons
+[Tue Feb 18 18:38:21 2014]  say: Soldier_Bob: LOL
+[Tue Feb 18 18:38:23 2014]  say: Soldier_Bob: STOP THAT
+[Tue Feb 18 18:38:31 2014]  say: Soldier_Bob: I HAAVE GAYS 
+[Tue Feb 18 18:38:33 2014]  say: Soldier_Bob: :/
+[Tue Feb 18 18:38:41 2014]  say: Soldier_Bob: WHY GOD WHY!
+[Tue Feb 18 18:38:48 2014]  say: Soldier_Bob: STOP THAT LENY!
+[Tue Feb 18 18:38:59 2014]  say: Soldier_Bob: fredy stop watching his penis
+[Tue Feb 18 18:39:13 2014]  say: Soldier_Bob: xd
+[Tue Feb 18 18:39:23 2014]  say: Soldier_Bob: fredy!
+[Tue Feb 18 18:39:35 2014]  say: Soldier_Bob: dont die bro :(
+[Tue Feb 18 18:39:41 2014]  say: Soldier_Bob: my sons need you
+[Tue Feb 18 18:39:47 2014]  say: Soldier_Bob: xd
+[Tue Feb 18 18:39:54 2014]  say: ^1Lord Kerus: mastrubating
+[Tue Feb 18 18:39:55 2014]  say: Soldier_Bob: stop that fred ..
+[Tue Feb 18 18:39:58 2014]  say: Soldier_Bob: stop
+[Tue Feb 18 18:40:02 2014]  say: Soldier_Bob: i tell it to your mom!
+[Tue Feb 18 18:40:09 2014]  say: Soldier_Bob: beny!
+[Tue Feb 18 18:40:15 2014]  say: Soldier_Bob: are you crazy!?
+[Tue Feb 18 18:40:21 2014]  say: Soldier_Bob: PHEDOPHILE!
+[Tue Feb 18 18:40:30 2014]  say: Soldier_Bob: SON DONT MASTURBATE
+[Tue Feb 18 18:40:33 2014]  say: Soldier_Bob: HES OLD
+[Tue Feb 18 18:40:42 2014]  say: Soldier_Bob: FU
+[Tue Feb 18 18:40:54 2014]  say: Soldier_Bob: BENY!
+[Tue Feb 18 18:40:56 2014]  say: Soldier_Bob: OH GOD
+[Tue Feb 18 18:41:01 2014]  say: Soldier_Bob: LOL
+[Tue Feb 18 18:41:08 2014]  say: Soldier_Bob: GUYS :|
+[Tue Feb 18 18:41:12 2014]  say: Soldier_Bob: WHAT THE
+[Tue Feb 18 18:41:17 2014]  say: Soldier_Bob: O_O
+[Tue Feb 18 18:41:22 2014]  say: Soldier_Bob: LOL
+[Tue Feb 18 18:41:28 2014]  say: Soldier_Bob: stop that guys please
+[Tue Feb 18 18:41:32 2014]  say: Soldier_Bob: ok?
+[Tue Feb 18 18:41:35 2014]  say: Soldier_Bob: SOTP!
+[Tue Feb 18 18:41:45 2014]  say: Soldier_Bob: O_o medak
+[Tue Feb 18 18:41:50 2014]  say: Soldier_Bob: bitch
+[Tue Feb 18 18:41:53 2014]  say: Soldier_Bob: stop masturbating
+[Tue Feb 18 18:42:03 2014]  say: Soldier_Bob: IDIOT!
+[Tue Feb 18 18:42:16 2014]  say: Soldier_Bob: O_O PHEDOPHILE
+[Tue Feb 18 18:42:23 2014]  say: Soldier_Bob: HALP
+[Tue Feb 18 18:42:27 2014]  say: Soldier_Bob: SOMEBODY HELP
+[Tue Feb 18 18:42:37 2014]  Kill: 1022 0 3: <world> killed Soldier_Bob by MOD_SABER
+[Tue Feb 18 18:42:39 2014]  say: Soldier_Bob: MEDAK
+[Tue Feb 18 18:42:42 2014]  say: Soldier_Bob: MY PENIS DIED
+[Tue Feb 18 18:42:50 2014]  say: Soldier_Bob: IN CLONE WARS
+[Tue Feb 18 18:43:10 2014]  say: Soldier_Bob: O_O
+[Tue Feb 18 18:43:12 2014]  say: Soldier_Bob: NO
+[Tue Feb 18 18:43:19 2014]  say: Soldier_Bob: NOO!!!!!!
+[Tue Feb 18 18:43:22 2014]  say: Soldier_Bob: MY HEAD!
+[Tue Feb 18 18:43:38 2014]  say: Soldier_Bob: son!
+[Tue Feb 18 18:43:43 2014]  say: Soldier_Bob: why all my sons dying in masturbating
+[Tue Feb 18 18:43:45 2014]  say: Soldier_Bob: :((
+[Tue Feb 18 18:43:53 2014]  say: Soldier_Bob: i dont understand to it
+[Tue Feb 18 18:43:56 2014]  say: Soldier_Bob: what the
+[Tue Feb 18 18:43:59 2014]  say: Soldier_Bob: LOL
+[Tue Feb 18 18:44:04 2014]  say: Soldier_Bob: WHAT THE HELL
+[Tue Feb 18 18:44:09 2014]  say: Soldier_Bob: MASTURBATING IN FLY?
+[Tue Feb 18 18:44:15 2014]  say: Soldier_Bob: O_O
+[Tue Feb 18 18:44:24 2014]  say: Soldier_Bob: STOP THAT JADEN
+[Tue Feb 18 18:44:41 2014]  say: Soldier_Bob: HAI SHON
+[Tue Feb 18 18:44:45 2014]  say: Soldier_Bob: _O
+[Tue Feb 18 18:44:51 2014]  say: Soldier_Bob: DOCTOR
+[Tue Feb 18 18:44:53 2014]  say: Soldier_Bob: I NEED A DOCTOR
+[Tue Feb 18 18:45:06 2014]  say: Soldier_Bob: OH GOD
+[Tue Feb 18 18:45:11 2014]  say: Soldier_Bob: TOP
+[Tue Feb 18 18:45:13 2014]  say: Soldier_Bob: TTHAT
+[Tue Feb 18 18:45:25 2014]  say: Soldier_Bob: STOP KISSING MY ASS
+[Tue Feb 18 18:45:57 2014]  say: Soldier_Bob: ARE YOU KIDDING ME SONS?
+[Tue Feb 18 18:46:15 2014]  say: Soldier_Bob: SON!
+[Tue Feb 18 18:46:19 2014]  say: Soldier_Bob: THATS IMPOSIBLE
+[Tue Feb 18 18:46:21 2014]  say: Soldier_Bob: U DIDNT MASTURBATE
+[Tue Feb 18 18:46:31 2014]  say: Soldier_Bob: DIE PHEDOPHILE SCUM
+[Tue Feb 18 18:46:41 2014]  say: Soldier_Bob: MEDAK
+[Tue Feb 18 18:46:42 2014]  Kill: 0 0 39: Soldier_Bob killed Soldier_Bob by MOD_SUICIDE
+[Tue Feb 18 18:47:03 2014]  say: Soldier_Bob: STOP LEXI PLS XD
+[Tue Feb 18 18:47:10 2014]  say: Soldier_Bob: SONS PLS DONT
+[Tue Feb 18 18:47:23 2014]  say: Soldier_Bob: I LOVE YOU ALL BUT STOP MASTURBATING OK :(?
+[Tue Feb 18 18:47:31 2014]  say: Soldier_Bob: DONT
+[Tue Feb 18 18:47:33 2014]  say: Soldier_Bob: I SEE YOU
+[Tue Feb 18 18:47:49 2014]  say: Soldier_Bob: THANKS FOR BLOWJOB SON
+[Tue Feb 18 18:47:57 2014]  say: Soldier_Bob: YE
+[Tue Feb 18 18:48:03 2014]  say: Soldier_Bob: I DONT NEED MASTURBATOPHILES
+[Tue Feb 18 18:48:06 2014]  Kill: 1 0 3: ^1Lord Kerus killed Soldier_Bob by MOD_SABER
+[Tue Feb 18 18:48:09 2014]  say: Soldier_Bob: AH GOD!
+[Tue Feb 18 18:48:12 2014]  say: Soldier_Bob: MY BODY
+[Tue Feb 18 18:48:23 2014]  say: Soldier_Bob: OH YA
+[Tue Feb 18 18:48:24 2014]  say: Soldier_Bob: YA
+[Tue Feb 18 18:48:27 2014]  say: Soldier_Bob: SHIT YA!!!!!
+[Tue Feb 18 18:48:35 2014]  say: Soldier_Bob: sperma noo
+[Tue Feb 18 18:48:37 2014]  say: Soldier_Bob: GTFO
+[Tue Feb 18 18:48:43 2014]  say: Soldier_Bob: :|
+[Tue Feb 18 18:48:45 2014]  say: Soldier_Bob: medak!
+[Tue Feb 18 18:48:56 2014]  say: Soldier_Bob: doctor fatball
+[Tue Feb 18 18:49:11 2014]  say: Soldier_Bob: sons dont masturbate noo!
+[Tue Feb 18 18:49:25 2014]  say: Soldier_Bob: i thing its girl
+[Tue Feb 18 18:49:30 2014]  say: Soldier_Bob: AH
+[Tue Feb 18 18:49:32 2014]  say: Soldier_Bob: LOL
+[Tue Feb 18 18:49:34 2014]  say: Soldier_Bob: GTFO
+[Tue Feb 18 18:49:53 2014]  say: Soldier_Bob: NEGATIVE
+[Tue Feb 18 18:50:00 2014]  say: Soldier_Bob: LOL
+[Tue Feb 18 18:50:10 2014]  say: Soldier_Bob: LOL SEXY JAWA DANCE
+[Tue Feb 18 18:50:25 2014]  Kill: 1 0 3: ^1Lord Kerus killed Soldier_Bob by MOD_SABER
+[Tue Feb 18 18:50:32 2014]  say: Soldier_Bob: MEDAK
+[Tue Feb 18 18:50:55 2014]  say: Soldier_Bob: SURRENDER
+[Tue Feb 18 18:51:42 2014]  say: Soldier_Bob: MASTER SODA
+[Tue Feb 18 18:52:31 2014]  say: Soldier_Bob: MAMA!'
+[Tue Feb 18 18:53:20 2014]  say: Soldier_Bob: IM DROID XD
+[Tue Feb 18 18:53:37 2014]  Kill: 1 0 27: ^1Lord Kerus killed Soldier_Bob by MOD_DET_PACK_SPLASH
+[Tue Feb 18 18:53:39 2014]  say: Soldier_Bob: MEDAAAAAAAAAK
+[Tue Feb 18 18:53:48 2014]  say: Soldier_Bob: TY MINER
+[Tue Feb 18 18:54:08 2014]  say: Soldier_Bob: ZDRAWSWOJ SON
+[Tue Feb 18 18:54:48 2014]  say: Soldier_Bob: son ..
+[Tue Feb 18 18:54:53 2014]  say: Soldier_Bob: dont try anakin!
+[Tue Feb 18 18:54:58 2014]  say: Soldier_Bob: dont try anakin!
+[Tue Feb 18 18:55:03 2014]  say: Soldier_Bob: :|
+[Tue Feb 18 18:55:07 2014]  say: Soldier_Bob: I NEED A MEDAK!!!!
+[Tue Feb 18 18:55:25 2014]  say: Soldier_Bob: WHAT U WANT THE MOVIE?
+[Tue Feb 18 18:55:44 2014]  say: Soldier_Bob: lets do movie ._.
+[Tue Feb 18 18:55:51 2014]  say: Soldier_Bob: lol
+[Tue Feb 18 18:55:59 2014]  say: Soldier_Bob: ye
+[Tue Feb 18 18:56:02 2014]  say: Soldier_Bob: u can choose uclass
+[Tue Feb 18 18:56:18 2014]  say: Soldier_Bob: bounty hunter,sith,jedi,hero,clone,stormtrooper
+[Tue Feb 18 18:56:21 2014]  say: Soldier_Bob: what u will choose
+[Tue Feb 18 18:56:28 2014]  say: ^1Lord Kerus: bounty
+[Tue Feb 18 18:56:31 2014]  say: Soldier_Bob: oka
+[Tue Feb 18 18:56:38 2014]  say: Soldier_Bob: stay here
+[Tue Feb 18 18:56:46 2014]  say: Soldier_Bob: i will create bount quest for you
+[Tue Feb 18 18:56:55 2014]  say: Soldier_Bob: u will working for lemenkorus
+[Tue Feb 18 18:57:00 2014]  Kill: 1 1 39: ^1Lord Kerus killed ^1Lord Kerus by MOD_SUICIDE
+[Tue Feb 18 18:57:07 2014]  print "Soldier_Bob^7 @@@PLRENAME Lemenkorus
+"[Tue Feb 18 18:57:29 2014]  say: ^1Lord Kerus: bring lets go at server with other ppl
+[Tue Feb 18 18:57:31 2014]  print "Lemenkorus^7 @@@PLRENAME ^1L^7e^2menko^4R^3u^5s
+"[Tue Feb 18 18:57:33 2014]  say: ^1Lord Kerus: or swtor
+[Tue Feb 18 18:57:36 2014]  say: ^1L^7e^2menko^4R^3u^5s: nuu
+[Tue Feb 18 18:57:40 2014]  say: ^1L^7e^2menko^4R^3u^5s: this will not boring
+[Tue Feb 18 18:57:42 2014]  say: ^1L^7e^2menko^4R^3u^5s: rly
+[Tue Feb 18 18:58:07 2014]  say: ^1Lord Kerus: i bored doing movie and you sons and mastrubaiting
+[Tue Feb 18 18:58:11 2014]  say: ^1L^7e^2menko^4R^3u^5s: xd
+[Tue Feb 18 18:58:15 2014]  say: ^1Lord Kerus: xd
+[Tue Feb 18 18:58:19 2014]  say: ^1L^7e^2menko^4R^3u^5s: ok
+[Tue Feb 18 18:58:23 2014]  say: ^1Lord Kerus: i have son :D
+[Tue Feb 18 18:58:23 2014]  say: ^1L^7e^2menko^4R^3u^5s: but this will not boring
+[Tue Feb 18 18:58:25 2014]  say: ^1L^7e^2menko^4R^3u^5s: RLY
+[Tue Feb 18 18:58:27 2014]  say: ^1L^7e^2menko^4R^3u^5s: LOL
+[Tue Feb 18 18:58:28 2014]  say: ^1L^7e^2menko^4R^3u^5s: SON!?
+[Tue Feb 18 18:58:31 2014]  say: ^1L^7e^2menko^4R^3u^5s: MEDAK
+[Tue Feb 18 18:58:38 2014]  say: ^1Lord Kerus: yES
+[Tue Feb 18 18:58:40 2014]  say: ^1Lord Kerus: son
+[Tue Feb 18 18:58:44 2014]  say: ^1L^7e^2menko^4R^3u^5s: MY SONS IS MASTURBATOPHILE
+[Tue Feb 18 18:58:46 2014]  say: ^1L^7e^2menko^4R^3u^5s: :(
+[Tue Feb 18 18:58:49 2014]  say: ^1L^7e^2menko^4R^3u^5s: s
+[Tue Feb 18 18:58:51 2014]  say: ^1Lord Kerus: my not :D
+[Tue Feb 18 18:58:55 2014]  say: ^1L^7e^2menko^4R^3u^5s: gud!
+[Tue Feb 18 18:59:02 2014]  say: ^1Lord Kerus: he just stay
+[Tue Feb 18 18:59:06 2014]  say: ^1L^7e^2menko^4R^3u^5s: lol .. 
+[Tue Feb 18 18:59:07 2014]  say: ^1Lord Kerus: ad try kill me
+[Tue Feb 18 18:59:10 2014]  say: ^1L^7e^2menko^4R^3u^5s: xd
+[Tue Feb 18 18:59:22 2014]  say: ^1L^7e^2menko^4R^3u^5s: sun!
+[Tue Feb 18 18:59:24 2014]  say: ^1Lord Kerus: bad son
+[Tue Feb 18 18:59:28 2014]  say: ^1L^7e^2menko^4R^3u^5s: can i adopte him?
+[Tue Feb 18 18:59:38 2014]  say: ^1Lord Kerus: nowyes
+[Tue Feb 18 18:59:41 2014]  say: ^1Lord Kerus: xd
+[Tue Feb 18 18:59:43 2014]  say: ^1L^7e^2menko^4R^3u^5s: :|
+[Tue Feb 18 18:59:49 2014]  say: ^1L^7e^2menko^4R^3u^5s: ok 
+[Tue Feb 18 18:59:56 2014]  say: ^1L^7e^2menko^4R^3u^5s: the lemenkorus will hiding here
+[Tue Feb 18 19:00:06 2014]  say: ^1L^7e^2menko^4R^3u^5s: lol
+[Tue Feb 18 19:00:11 2014]  say: ^1L^7e^2menko^4R^3u^5s: sithophile!
+[Tue Feb 18 19:00:29 2014]  say: ^1L^7e^2menko^4R^3u^5s: O_O
+[Tue Feb 18 19:00:35 2014]  say: ^1L^7e^2menko^4R^3u^5s: SONS!
+[Tue Feb 18 19:00:57 2014]  say: ^1L^7e^2menko^4R^3u^5s: HAI ^^
+[Tue Feb 18 19:01:05 2014]  say: ^1L^7e^2menko^4R^3u^5s: help
+[Tue Feb 18 19:01:15 2014]  say: ^1L^7e^2menko^4R^3u^5s: ok
+[Tue Feb 18 19:01:34 2014]  Kill: 0 1 10: ^1L^7e^2menko^4R^3u^5s killed ^1Lord Kerus by MOD_DISRUPTOR_SNIPER
+[Tue Feb 18 19:01:38 2014]  say: ^1L^7e^2menko^4R^3u^5s: hs :DD
+[Tue Feb 18 19:01:40 2014]  say: ^1L^7e^2menko^4R^3u^5s: :|
+[Tue Feb 18 19:01:41 2014]  say: ^1L^7e^2menko^4R^3u^5s: xd
+[Tue Feb 18 19:01:44 2014]  Item: 0 weapon_concussion_rifle
+[Tue Feb 18 19:01:48 2014]  say: ^1L^7e^2menko^4R^3u^5s: thats imposbile thanks for gun
+[Tue Feb 18 19:02:06 2014]  say: ^1L^7e^2menko^4R^3u^5s: you web playing 1 hour 0 mins lol
+[Tue Feb 18 19:02:15 2014]  say: ^1L^7e^2menko^4R^3u^5s: we playing one hour
+[Tue Feb 18 19:02:36 2014]  Item: 0 ammo_all
+[Tue Feb 18 19:03:01 2014]  say: ^1L^7e^2menko^4R^3u^5s: lol
+[Tue Feb 18 19:03:15 2014]  say: ^1L^7e^2menko^4R^3u^5s: u rly want the bounty story?
+[Tue Feb 18 19:03:23 2014]  say: ^1L^7e^2menko^4R^3u^5s: nu
+[Tue Feb 18 19:03:26 2014]  say: ^1L^7e^2menko^4R^3u^5s: swtor updating
+[Tue Feb 18 19:03:29 2014]  say: ^1L^7e^2menko^4R^3u^5s: next day
+[Tue Feb 18 19:03:35 2014]  say: ^1L^7e^2menko^4R^3u^5s: nu
+[Tue Feb 18 19:03:42 2014]  say: ^1L^7e^2menko^4R^3u^5s: lol i hear u son
+[Tue Feb 18 19:03:57 2014]  say: ^1L^7e^2menko^4R^3u^5s: ah i was thinked hes haved orgasm
+[Tue Feb 18 19:04:46 2014]  say: ^1L^7e^2menko^4R^3u^5s: wow
+[Tue Feb 18 19:04:51 2014]  say: ^1L^7e^2menko^4R^3u^5s: i thing i have house for you
+[Tue Feb 18 19:05:11 2014]  say: ^1L^7e^2menko^4R^3u^5s: its TV?
+[Tue Feb 18 19:05:13 2014]  say: ^1L^7e^2menko^4R^3u^5s: o_O
+[Tue Feb 18 19:05:24 2014]  say: ^1L^7e^2menko^4R^3u^5s: now i hear russ voice
+[Tue Feb 18 19:05:37 2014]  say: ^1L^7e^2menko^4R^3u^5s: LO U SON
+[Tue Feb 18 19:06:22 2014]  say: ^1L^7e^2menko^4R^3u^5s: XD
+[Tue Feb 18 19:06:58 2014]  Kill: 1 0 29: ^1Lord Kerus killed ^1L^7e^2menko^4R^3u^5s by MOD_CONC
+[Tue Feb 18 19:07:01 2014]  say: ^1L^7e^2menko^4R^3u^5s: MEDAKKK
+[Tue Feb 18 19:07:22 2014]  say: ^1L^7e^2menko^4R^3u^5s: lets try snipe duel?
+[Tue Feb 18 19:07:31 2014]  say: ^1Lord Kerus: jkill
+[Tue Feb 18 19:07:35 2014]  Kill: 1 1 39: ^1Lord Kerus killed ^1Lord Kerus by MOD_SUICIDE
+[Tue Feb 18 19:07:57 2014]  say: ^1L^7e^2menko^4R^3u^5s: i se you
+[Tue Feb 18 19:09:27 2014]  say: ^1L^7e^2menko^4R^3u^5s: shit
+[Tue Feb 18 19:09:43 2014]  Kill: 1 0 14: ^1Lord Kerus killed ^1L^7e^2menko^4R^3u^5s by MOD_REPEATER_ALT_SPLASH
+[Tue Feb 18 19:09:45 2014]  say: ^1L^7e^2menko^4R^3u^5s: XD
+[Tue Feb 18 19:10:06 2014]  say: ^1L^7e^2menko^4R^3u^5s: talk!
+[Tue Feb 18 19:10:15 2014]  say: ^1L^7e^2menko^4R^3u^5s: i mean the fcking rebel
+[Tue Feb 18 19:10:22 2014]  say: ^1L^7e^2menko^4R^3u^5s: in cell
+[Tue Feb 18 19:10:29 2014]  say: ^1L^7e^2menko^4R^3u^5s: me too but
+[Tue Feb 18 19:10:35 2014]  say: ^1L^7e^2menko^4R^3u^5s: i can spawn npcs
+[Tue Feb 18 19:10:41 2014]  ClientDisconnect: 1
+[Tue Feb 18 19:11:48 2014]  ClientDisconnect: 0
+[Tue Feb 18 20:02:36 2014]  Exit: Timelimit hit.
+[Tue Feb 18 22:34:39 2014]  ------------------------------------------------------------
+[Tue Feb 18 22:34:39 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Feb 18 23:18:42 2014]  ------------------------------------------------------------
+[Tue Feb 18 23:18:42 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Feb 19 01:18:36 2014]  Exit: Timelimit hit.
+[Wed Feb 19 12:15:14 2014]  ClientConnect: 0
+[Wed Feb 19 12:15:14 2014]  mlog:Player Vector, connected. With IP - 109.205.253.64:-28217 
+[Wed Feb 19 12:15:40 2014]  ClientConnect: 1
+[Wed Feb 19 12:15:40 2014]  mlog:Player Padawan, connected. With IP - 46.39.248.67:-15464 
+[Wed Feb 19 12:15:55 2014]  ClientBegin: 0
+[Wed Feb 19 12:15:57 2014]  ShutdownGame:
+[Wed Feb 19 12:15:57 2014]  ------------------------------------------------------------

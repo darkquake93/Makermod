@@ -1,0 +1,85 @@
+[Sat Sep 26 22:09:13 2015]  ------------------------------------------------------------
+[Sat Sep 26 22:09:13 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 26 22:30:23 2015]  ClientConnect: 0
+[Sat Sep 26 22:30:23 2015]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sat Sep 26 22:32:59 2015]  ClientBegin: 0
+[Sat Sep 26 22:37:02 2015]  Kill: 1022 0 38: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_FALLING
+[Sat Sep 26 22:38:12 2015]  ClientConnect: 1
+[Sat Sep 26 22:38:12 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sat Sep 26 22:38:24 2015]  ClientBegin: 1
+[Sat Sep 26 22:38:41 2015]  Item: 1 weapon_melee
+[Sat Sep 26 22:38:53 2015]  say: ^0Shadow^5seer: My origin is: (8707 -18216 2386) - You can teleport here with /mtelelast
+
+[Sat Sep 26 22:39:52 2015]  say: ^0Ðàrk^2^1Qµàkè: wow you built all this!
+[Sat Sep 26 22:39:59 2015]  say: ^0Shadow^5seer: íóô
+[Sat Sep 26 22:40:01 2015]  say: ^0Shadow^5seer: yea
+[Sat Sep 26 22:40:37 2015]  say: ^0Ðàrk^2^1Qµàkè: oh you showed me this last time didn't you? Raxus junkyard
+[Sat Sep 26 22:40:44 2015]  say: ^0Shadow^5seer: did i?
+[Sat Sep 26 22:40:59 2015]  say: ^0Ðàrk^2^1Qµàkè: yeah I remember that crashed tie fighter and this area
+[Sat Sep 26 22:41:09 2015]  say: ^0Ðàrk^2^1Qµàkè: I didn't see it from above that's all :p
+[Sat Sep 26 22:41:35 2015]  say: ^0Shadow^5seer: My origin is: (-6155 11604 1481) - You can teleport here with /mtelelast
+
+[Sat Sep 26 22:42:04 2015]  say: ^0Shadow^5seer: this one is much bigger
+[Sat Sep 26 22:43:55 2015]  say: ^0Ðàrk^2^1Qµàkè: nice work :)
+[Sat Sep 26 22:44:08 2015]  say: ^0Shadow^5seer: thanks)
+[Sat Sep 26 22:44:11 2015]  say: ^0Shadow^5seer: and im leaving
+[Sat Sep 26 22:44:19 2015]  say: ^0Ðàrk^2^1Qµàkè: that's fine :)
+[Sat Sep 26 22:44:28 2015]  say: ^0Shadow^5seer: bb
+[Sat Sep 26 22:44:32 2015]  ClientDisconnect: 1
+[Sat Sep 26 22:44:32 2015]  say: ^0Ðàrk^2^1Qµàkè: cya
+[Sat Sep 26 22:44:41 2015]  ClientDisconnect: 0
+[Sun Sep 27 10:02:18 2015]  ClientConnect: 0
+[Sun Sep 27 10:02:18 2015]  mlog:Player kasme^4'^7kh, connected. With IP - 89.166.56.251:29070 
+[Sun Sep 27 10:05:42 2015]  ClientDisconnect: 0
+[Sun Sep 27 14:31:14 2015]  ClientConnect: 0
+[Sun Sep 27 14:31:14 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Sep 27 14:31:29 2015]  ClientBegin: 0
+[Sun Sep 27 14:31:36 2015]  Item: 0 weapon_melee
+[Sun Sep 27 15:19:33 2015]  ClientDisconnect: 0
+[Sun Sep 27 15:32:45 2015]  ClientConnect: 0
+[Sun Sep 27 15:32:45 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Sep 27 15:32:58 2015]  ClientBegin: 0
+[Sun Sep 27 15:33:03 2015]  Item: 0 weapon_melee
+[Sun Sep 27 15:39:01 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Sep 27 15:39:27 2015]  ClientDisconnect: 0
+[Mon Sep 28 16:59:57 2015]  ClientConnect: 0
+[Mon Sep 28 16:59:57 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Mon Sep 28 17:00:11 2015]  ClientBegin: 0
+[Mon Sep 28 17:00:18 2015]  Item: 0 weapon_melee
+[Mon Sep 28 17:01:59 2015]  ClientDisconnect: 0
+[Mon Sep 28 18:58:31 2015]  ClientConnect: 0
+[Mon Sep 28 18:58:31 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Mon Sep 28 18:58:44 2015]  ClientBegin: 0
+[Mon Sep 28 18:58:50 2015]  Item: 0 weapon_melee
+[Mon Sep 28 18:59:18 2015]  say: ^0Shadow^5seer: ^5Facepalm...
+[Mon Sep 28 18:59:20 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 28 18:59:23 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 28 19:04:21 2015]  ClientDisconnect: 0
+[Mon Sep 28 20:17:36 2015]  ClientConnect: 0
+[Mon Sep 28 20:17:36 2015]  mlog:Player ^4Jragonmaster, connected. With IP - 64.111.243.214:29070 
+[Mon Sep 28 20:18:08 2015]  ClientBegin: 0
+[Mon Sep 28 20:25:29 2015]  ClientDisconnect: 0
+[Mon Sep 28 20:26:50 2015]  ClientConnect: 0
+[Mon Sep 28 20:26:50 2015]  mlog:Player ^4Jragonmaster, connected. With IP - 64.111.243.214:29070 
+[Mon Sep 28 20:27:15 2015]  ClientBegin: 0
+[Mon Sep 28 20:27:41 2015]  ClientDisconnect: 0
+[Mon Sep 28 20:32:01 2015]  ClientConnect: 0
+[Mon Sep 28 20:32:01 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Mon Sep 28 20:32:14 2015]  ClientBegin: 0
+[Mon Sep 28 20:32:20 2015]  Item: 0 weapon_melee
+[Mon Sep 28 20:35:14 2015]  say: ^0Shadow^5seer: ^5Behold the Stormbringer!
+[Mon Sep 28 20:42:50 2015]  ClientDisconnect: 0
+[Tue Sep 29 02:00:06 2015]  ClientConnect: 0
+[Tue Sep 29 02:00:06 2015]  mlog:Player obi1fan2012, connected. With IP - 66.237.49.165:29070 
+[Tue Sep 29 02:00:31 2015]  ClientBegin: 0
+[Tue Sep 29 02:01:53 2015]  ClientDisconnect: 0
+[Tue Sep 29 15:22:08 2015]  ClientConnect: 0
+[Tue Sep 29 15:22:08 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Sep 29 15:22:23 2015]  ClientBegin: 0
+[Tue Sep 29 15:22:30 2015]  Item: 0 weapon_melee
+[Tue Sep 29 15:22:47 2015]  ClientDisconnect: 0
+[Tue Sep 29 16:36:29 2015]  ClientConnect: 0
+[Tue Sep 29 16:36:29 2015]  mlog:Player Buginator, connected. With IP - 93.141.148.76:29070 
+[Tue Sep 29 16:36:48 2015]  ClientBegin: 0
+[Tue Sep 29 16:37:12 2015]  print "Buginator^7 @@@PLRENAME Pada1
+"[Tue Sep 29 16:42:14 2015]  ClientDisconnect: 0

@@ -1,0 +1,23 @@
+[Mon Apr 28 20:52:03 2014]  ------------------------------------------------------------
+[Mon Apr 28 20:52:03 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Apr 28 20:52:05 2014]  ClientConnect: 0
+[Mon Apr 28 20:52:52 2014]  ClientBegin: 0
+[Mon Apr 28 20:53:36 2014]  print "Padawan^7 @@@PLRENAME Zaeleon
+"[Mon Apr 28 20:54:37 2014]  ClientConnect: 1
+[Mon Apr 28 20:54:37 2014]  mlog:Player Darth Thanaton, connected. With IP - 24.181.236.49:29070 
+[Mon Apr 28 20:54:46 2014]  ClientBegin: 1
+[Mon Apr 28 20:55:00 2014]  Kill: 0 1 3: Zaeleon killed Darth Thanaton by MOD_SABER
+[Mon Apr 28 20:56:31 2014]  print "Darth Thanaton^7 @@@PLRENAME ^8Darth ^9Thanaton
+"[Mon Apr 28 20:56:35 2014]  Kill: 1 1 39: ^8Darth ^9Thanaton killed ^8Darth ^9Thanaton by MOD_SUICIDE
+[Mon Apr 28 20:56:40 2014]  print "Zaeleon^7 @@@PLRENAME ^9Emperor Zaeleon
+"[Mon Apr 28 20:58:43 2014]  say: ^9Emperor Zaeleon: npc spawn jedi
+[Mon Apr 28 20:58:53 2014]  say: ^8Darth ^9Thanaton: spawn jedi
+[Mon Apr 28 20:59:38 2014]  Kill: 0 1 3: ^9Emperor Zaeleon killed ^8Darth ^9Thanaton by MOD_SABER
+[Mon Apr 28 21:01:18 2014]  Kill: 1 1 39: ^8Darth ^9Thanaton killed ^8Darth ^9Thanaton by MOD_SUICIDE
+[Mon Apr 28 21:02:20 2014]  Kill: 0 0 39: ^9Emperor Zaeleon killed ^9Emperor Zaeleon by MOD_SUICIDE
+[Mon Apr 28 21:02:35 2014]  Kill: 0 1 3: ^9Emperor Zaeleon killed ^8Darth ^9Thanaton by MOD_SABER
+[Mon Apr 28 21:03:56 2014]  print "^8Darth ^9Thanaton^7 @@@PLRENAME ^4Jedi Knight ^3Katana
+"[Mon Apr 28 21:05:25 2014]  Kill: 1 1 39: ^4Jedi Knight ^3Katana killed ^4Jedi Knight ^3Katana by MOD_SUICIDE
+[Mon Apr 28 21:06:34 2014]  ClientDisconnect: 0
+[Mon Apr 28 21:07:10 2014]  ClientDisconnect: 1
+[Mon Apr 28 22:52:01 2014]  Exit: Timelimit hit.

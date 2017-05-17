@@ -1,0 +1,236 @@
+[Thu Mar 03 23:46:57 2016]  ------------------------------------------------------------
+[Thu Mar 03 23:46:57 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Mar 04 00:33:14 2016]  ClientConnect: 0
+[Fri Mar 04 00:33:14 2016]  mlog:Player Returner, connected. With IP - 99.30.77.218:29070 
+[Fri Mar 04 00:33:51 2016]  ClientBegin: 0
+[Fri Mar 04 00:36:30 2016]  ClientDisconnect: 0
+[Sat Mar 05 15:45:49 2016]  ClientConnect: 0
+[Sat Mar 05 15:45:49 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sat Mar 05 15:46:04 2016]  ClientBegin: 0
+[Sat Mar 05 15:46:10 2016]  Item: 0 weapon_melee
+[Sat Mar 05 15:47:10 2016]  ClientDisconnect: 0
+[Sat Mar 05 16:56:16 2016]  ClientConnect: 0
+[Sat Mar 05 16:56:16 2016]  mlog:Player padawan, connected. With IP - 88.101.15.21:29070 
+[Sat Mar 05 16:59:37 2016]  ClientDisconnect: 0
+[Sat Mar 05 23:19:15 2016]  ClientConnect: 0
+[Sat Mar 05 23:19:15 2016]  mlog:Player asseater9000, connected. With IP - 82.34.33.186:29070 
+[Sat Mar 05 23:19:18 2016]  ClientConnect: 1
+[Sat Mar 05 23:19:18 2016]  mlog:Player Hiwhatis?, connected. With IP - 92.234.40.14:29070 
+[Sat Mar 05 23:19:30 2016]  ClientConnect: 2
+[Sat Mar 05 23:19:30 2016]  mlog:Player your nan, connected. With IP - 86.31.32.169:29070 
+[Sat Mar 05 23:19:33 2016]  ClientBegin: 1
+[Sat Mar 05 23:19:34 2016]  ClientBegin: 0
+[Sat Mar 05 23:19:44 2016]  ClientConnect: 3
+[Sat Mar 05 23:19:44 2016]  mlog:Player Chewbaccas Red Rocket, connected. With IP - 109.246.203.21:29070 
+[Sat Mar 05 23:19:46 2016]  ClientBegin: 2
+[Sat Mar 05 23:19:59 2016]  Kill: 3 2 37: Chewbaccas Red Rocket killed your nan by MOD_TELEFRAG
+[Sat Mar 05 23:19:59 2016]  ClientBegin: 3
+[Sat Mar 05 23:20:26 2016]  Kill: 2 3 3: your nan killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:20:34 2016]  ClientConnect: 4
+[Sat Mar 05 23:20:34 2016]  mlog:Player Kenneth the Great, connected. With IP - 80.42.76.40:25932 
+[Sat Mar 05 23:20:42 2016]  Kill: 0 2 5: asseater9000 killed your nan by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:20:53 2016]  ClientBegin: 4
+[Sat Mar 05 23:20:57 2016]  Kill: 3 0 3: Chewbaccas Red Rocket killed asseater9000 by MOD_SABER
+[Sat Mar 05 23:21:09 2016]  Kill: 0 2 5: asseater9000 killed your nan by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:21:12 2016]  Kill: 1 3 3: Hiwhatis? killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:21:20 2016]  ClientConnect: 5
+[Sat Mar 05 23:21:20 2016]  mlog:Player Liam, connected. With IP - 82.40.48.28:29070 
+[Sat Mar 05 23:21:35 2016]  ClientBegin: 5
+[Sat Mar 05 23:21:49 2016]  Kill: 2 1 3: your nan killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:22:01 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:22:08 2016]  Kill: 2 5 3: your nan killed Liam by MOD_SABER
+[Sat Mar 05 23:22:13 2016]  Kill: 3 1 5: Chewbaccas Red Rocket killed Hiwhatis? by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:22:16 2016]  Kill: 1 5 3: Hiwhatis? killed Liam by MOD_SABER
+[Sat Mar 05 23:22:25 2016]  Kill: 1 2 31: Hiwhatis? killed your nan by MOD_FORCE_DARK
+[Sat Mar 05 23:22:38 2016]  Kill: 0 3 5: asseater9000 killed Chewbaccas Red Rocket by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:22:40 2016]  Kill: 2 5 3: your nan killed Liam by MOD_SABER
+[Sat Mar 05 23:22:40 2016]  Kill: 2 1 3: your nan killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:22:43 2016]  Kill: 3 5 37: Chewbaccas Red Rocket killed Liam by MOD_TELEFRAG
+[Sat Mar 05 23:22:48 2016]  Kill: 2 1 3: your nan killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:22:53 2016]  Kill: 5 3 3: Liam killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:23:01 2016]  Kill: 5 4 3: Liam killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:23:15 2016]  Kill: 2 1 3: your nan killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:23:17 2016]  Kill: 5 3 3: Liam killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:23:22 2016]  Kill: 1 2 31: Hiwhatis? killed your nan by MOD_FORCE_DARK
+[Sat Mar 05 23:23:33 2016]  Kill: 0 2 5: asseater9000 killed your nan by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:23:41 2016]  Kill: 2 5 3: your nan killed Liam by MOD_SABER
+[Sat Mar 05 23:23:50 2016]  Kill: 0 2 5: asseater9000 killed your nan by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:23:55 2016]  Kill: 0 1 5: asseater9000 killed Hiwhatis? by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:23:56 2016]  Kill: 2 4 3: your nan killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:24:03 2016]  Kill: 0 2 5: asseater9000 killed your nan by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:24:09 2016]  Kill: 1 3 31: Hiwhatis? killed Chewbaccas Red Rocket by MOD_FORCE_DARK
+[Sat Mar 05 23:24:23 2016]  Kill: 1 5 3: Hiwhatis? killed Liam by MOD_SABER
+[Sat Mar 05 23:24:27 2016]  Kill: 1022 0 38: <world> killed asseater9000 by MOD_FALLING
+[Sat Mar 05 23:24:29 2016]  Kill: 1 3 3: Hiwhatis? killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:24:30 2016]  Kill: 3 5 37: Chewbaccas Red Rocket killed Liam by MOD_TELEFRAG
+[Sat Mar 05 23:24:31 2016]  Kill: 5 3 37: Liam killed Chewbaccas Red Rocket by MOD_TELEFRAG
+[Sat Mar 05 23:24:41 2016]  Kill: 1 0 31: Hiwhatis? killed asseater9000 by MOD_FORCE_DARK
+[Sat Mar 05 23:24:42 2016]  Kill: 1 2 31: Hiwhatis? killed your nan by MOD_FORCE_DARK
+[Sat Mar 05 23:25:04 2016]  Kill: 0 3 5: asseater9000 killed Chewbaccas Red Rocket by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:25:07 2016]  Kill: 1 2 3: Hiwhatis? killed your nan by MOD_SABER
+[Sat Mar 05 23:25:09 2016]  Kill: 3 2 37: Chewbaccas Red Rocket killed your nan by MOD_TELEFRAG
+[Sat Mar 05 23:25:33 2016]  Kill: 2 1 3: your nan killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:25:37 2016]  Kill: 4 5 3: Kenneth the Great killed Liam by MOD_SABER
+[Sat Mar 05 23:25:40 2016]  Kill: 0 3 3: asseater9000 killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:25:44 2016]  Kill: 2 1 3: your nan killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:25:45 2016]  Kill: 1 3 37: Hiwhatis? killed Chewbaccas Red Rocket by MOD_TELEFRAG
+[Sat Mar 05 23:25:55 2016]  Kill: 2 4 3: your nan killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:25:58 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:26:02 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:26:03 2016]  Kill: 1 5 3: Hiwhatis? killed Liam by MOD_SABER
+[Sat Mar 05 23:26:03 2016]  Kill: 0 4 5: asseater9000 killed Kenneth the Great by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:26:05 2016]  Kill: 4 5 37: Kenneth the Great killed Liam by MOD_TELEFRAG
+[Sat Mar 05 23:26:21 2016]  Kill: 5 4 3: Liam killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:26:27 2016]  Kill: 5 1 3: Liam killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:26:34 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:26:34 2016]  Kill: 1 5 31: Hiwhatis? killed Liam by MOD_FORCE_DARK
+[Sat Mar 05 23:26:36 2016]  Kill: 5 2 37: Liam killed your nan by MOD_TELEFRAG
+[Sat Mar 05 23:26:42 2016]  Kill: 3 0 3: Chewbaccas Red Rocket killed asseater9000 by MOD_SABER
+[Sat Mar 05 23:26:46 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:26:50 2016]  Kill: 4 1 3: Kenneth the Great killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:26:54 2016]  Kill: 1 5 31: Hiwhatis? killed Liam by MOD_FORCE_DARK
+[Sat Mar 05 23:26:55 2016]  Kill: 1 4 31: Hiwhatis? killed Kenneth the Great by MOD_FORCE_DARK
+[Sat Mar 05 23:27:01 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:27:10 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:27:18 2016]  Kill: 2 5 3: your nan killed Liam by MOD_SABER
+[Sat Mar 05 23:27:24 2016]  Kill: 0 3 3: asseater9000 killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:27:34 2016]  Kill: 1 2 3: Hiwhatis? killed your nan by MOD_SABER
+[Sat Mar 05 23:27:56 2016]  Kill: 1 4 31: Hiwhatis? killed Kenneth the Great by MOD_FORCE_DARK
+[Sat Mar 05 23:27:56 2016]  Kill: 1 0 31: Hiwhatis? killed asseater9000 by MOD_FORCE_DARK
+[Sat Mar 05 23:27:56 2016]  Kill: 1 2 31: Hiwhatis? killed your nan by MOD_FORCE_DARK
+[Sat Mar 05 23:27:58 2016]  Kill: 2 0 37: your nan killed asseater9000 by MOD_TELEFRAG
+[Sat Mar 05 23:28:07 2016]  Kill: 4 5 31: Kenneth the Great killed Liam by MOD_FORCE_DARK
+[Sat Mar 05 23:28:09 2016]  Kill: 4 1 31: Kenneth the Great killed Hiwhatis? by MOD_FORCE_DARK
+[Sat Mar 05 23:28:35 2016]  Kill: 5 0 3: Liam killed asseater9000 by MOD_SABER
+[Sat Mar 05 23:28:41 2016]  Kill: 2 3 3: your nan killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:28:44 2016]  Kill: 4 2 31: Kenneth the Great killed your nan by MOD_FORCE_DARK
+[Sat Mar 05 23:28:44 2016]  Kill: 5 0 3: Liam killed asseater9000 by MOD_SABER
+[Sat Mar 05 23:28:45 2016]  Kill: 5 1 3: Liam killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:28:46 2016]  Kill: 1 0 37: Hiwhatis? killed asseater9000 by MOD_TELEFRAG
+[Sat Mar 05 23:28:47 2016]  Kill: 2 1 37: your nan killed Hiwhatis? by MOD_TELEFRAG
+[Sat Mar 05 23:28:48 2016]  Kill: 0 2 37: asseater9000 killed your nan by MOD_TELEFRAG
+[Sat Mar 05 23:28:52 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:28:57 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:29:03 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:29:04 2016]  Kill: 1 5 31: Hiwhatis? killed Liam by MOD_FORCE_DARK
+[Sat Mar 05 23:29:06 2016]  Kill: 4 0 31: Kenneth the Great killed asseater9000 by MOD_FORCE_DARK
+[Sat Mar 05 23:29:11 2016]  Kill: 1 4 3: Hiwhatis? killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:29:21 2016]  Kill: 5 4 3: Liam killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:29:25 2016]  Kill: 4 5 31: Kenneth the Great killed Liam by MOD_FORCE_DARK
+[Sat Mar 05 23:29:30 2016]  Kill: 1 0 3: Hiwhatis? killed asseater9000 by MOD_SABER
+[Sat Mar 05 23:29:44 2016]  Kill: 3 1 3: Chewbaccas Red Rocket killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:29:44 2016]  Kill: 3 0 3: Chewbaccas Red Rocket killed asseater9000 by MOD_SABER
+[Sat Mar 05 23:29:44 2016]  Kill: 3 2 3: Chewbaccas Red Rocket killed your nan by MOD_SABER
+[Sat Mar 05 23:29:46 2016]  Kill: 2 0 37: your nan killed asseater9000 by MOD_TELEFRAG
+[Sat Mar 05 23:29:49 2016]  Kill: 5 3 3: Liam killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:29:57 2016]  Kill: 4 2 3: Kenneth the Great killed your nan by MOD_SABER
+[Sat Mar 05 23:30:03 2016]  Kill: 5 4 3: Liam killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:30:15 2016]  Kill: 4 2 31: Kenneth the Great killed your nan by MOD_FORCE_DARK
+[Sat Mar 05 23:30:22 2016]  Kill: 5 4 3: Liam killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:30:28 2016]  Kill: 1 5 3: Hiwhatis? killed Liam by MOD_SABER
+[Sat Mar 05 23:30:34 2016]  Kill: 4 1 31: Kenneth the Great killed Hiwhatis? by MOD_FORCE_DARK
+[Sat Mar 05 23:30:58 2016]  Kill: 5 4 3: Liam killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:31:02 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:31:02 2016]  Kill: 1 4 3: Hiwhatis? killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:31:17 2016]  Kill: 3 1 3: Chewbaccas Red Rocket killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:31:24 2016]  Kill: 3 4 3: Chewbaccas Red Rocket killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:31:35 2016]  Kill: 5 3 3: Liam killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:31:36 2016]  Kill: 1 5 31: Hiwhatis? killed Liam by MOD_FORCE_DARK
+[Sat Mar 05 23:31:40 2016]  Kill: 4 2 31: Kenneth the Great killed your nan by MOD_FORCE_DARK
+[Sat Mar 05 23:31:43 2016]  Kill: 4 1 31: Kenneth the Great killed Hiwhatis? by MOD_FORCE_DARK
+[Sat Mar 05 23:31:47 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:31:50 2016]  Kill: 3 5 3: Chewbaccas Red Rocket killed Liam by MOD_SABER
+[Sat Mar 05 23:31:59 2016]  Kill: 2 5 3: your nan killed Liam by MOD_SABER
+[Sat Mar 05 23:32:05 2016]  Kill: 5 1 3: Liam killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:32:09 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:32:10 2016]  Kill: 4 3 31: Kenneth the Great killed Chewbaccas Red Rocket by MOD_FORCE_DARK
+[Sat Mar 05 23:32:18 2016]  Kill: 5 1 3: Liam killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:32:20 2016]  Kill: 4 2 31: Kenneth the Great killed your nan by MOD_FORCE_DARK
+[Sat Mar 05 23:32:25 2016]  Kill: 2 5 3: your nan killed Liam by MOD_SABER
+[Sat Mar 05 23:32:30 2016]  Kill: 4 1 3: Kenneth the Great killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:32:31 2016]  Kill: 5 3 3: Liam killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:32:40 2016]  Kill: 5 1 3: Liam killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:32:46 2016]  Kill: 4 5 31: Kenneth the Great killed Liam by MOD_FORCE_DARK
+[Sat Mar 05 23:32:57 2016]  Kill: 3 4 3: Chewbaccas Red Rocket killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:33:01 2016]  Kill: 3 5 3: Chewbaccas Red Rocket killed Liam by MOD_SABER
+[Sat Mar 05 23:33:10 2016]  Kill: 0 5 5: asseater9000 killed Liam by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:33:14 2016]  Kill: 3 2 3: Chewbaccas Red Rocket killed your nan by MOD_SABER
+[Sat Mar 05 23:33:19 2016]  Kill: 3 4 3: Chewbaccas Red Rocket killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:33:19 2016]  Kill: 3 5 3: Chewbaccas Red Rocket killed Liam by MOD_SABER
+[Sat Mar 05 23:33:20 2016]  Kill: 3 1 3: Chewbaccas Red Rocket killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:33:41 2016]  Kill: 5 3 3: Liam killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:33:48 2016]  Kill: 1 5 31: Hiwhatis? killed Liam by MOD_FORCE_DARK
+[Sat Mar 05 23:33:51 2016]  Kill: 3 1 3: Chewbaccas Red Rocket killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:33:57 2016]  Kill: 2 0 5: your nan killed asseater9000 by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:34:01 2016]  Kill: 5 4 3: Liam killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:34:07 2016]  Kill: 5 3 3: Liam killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:34:07 2016]  Kill: 1 2 3: Hiwhatis? killed your nan by MOD_SABER
+[Sat Mar 05 23:34:09 2016]  Kill: 2 3 37: your nan killed Chewbaccas Red Rocket by MOD_TELEFRAG
+[Sat Mar 05 23:34:23 2016]  Kill: 4 5 31: Kenneth the Great killed Liam by MOD_FORCE_DARK
+[Sat Mar 05 23:34:26 2016]  Kill: 0 1 5: asseater9000 killed Hiwhatis? by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:34:28 2016]  Kill: 2 3 3: your nan killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:34:32 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:34:37 2016]  Kill: 1 4 3: Hiwhatis? killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:34:54 2016]  Kill: 3 1 3: Chewbaccas Red Rocket killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:34:59 2016]  Kill: 3 5 3: Chewbaccas Red Rocket killed Liam by MOD_SABER
+[Sat Mar 05 23:35:00 2016]  Kill: 0 3 5: asseater9000 killed Chewbaccas Red Rocket by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:35:25 2016]  Kill: 4 1 31: Kenneth the Great killed Hiwhatis? by MOD_FORCE_DARK
+[Sat Mar 05 23:35:28 2016]  Kill: 5 3 3: Liam killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:35:33 2016]  Kill: 3 5 3: Chewbaccas Red Rocket killed Liam by MOD_SABER
+[Sat Mar 05 23:35:51 2016]  Kill: 3 1 3: Chewbaccas Red Rocket killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:35:53 2016]  Kill: 4 3 31: Kenneth the Great killed Chewbaccas Red Rocket by MOD_FORCE_DARK
+[Sat Mar 05 23:36:07 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:36:22 2016]  Kill: 4 0 31: Kenneth the Great killed asseater9000 by MOD_FORCE_DARK
+[Sat Mar 05 23:36:25 2016]  Kill: 5 1 3: Liam killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:36:26 2016]  Kill: 4 5 31: Kenneth the Great killed Liam by MOD_FORCE_DARK
+[Sat Mar 05 23:36:34 2016]  Kill: 3 4 3: Chewbaccas Red Rocket killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:36:49 2016]  Kill: 5 1 3: Liam killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:36:58 2016]  Kill: 1 5 31: Hiwhatis? killed Liam by MOD_FORCE_DARK
+[Sat Mar 05 23:37:04 2016]  Kill: 3 2 3: Chewbaccas Red Rocket killed your nan by MOD_SABER
+[Sat Mar 05 23:37:22 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:37:23 2016]  Kill: 3 5 3: Chewbaccas Red Rocket killed Liam by MOD_SABER
+[Sat Mar 05 23:37:30 2016]  Kill: 2 5 3: your nan killed Liam by MOD_SABER
+[Sat Mar 05 23:37:39 2016]  Kill: 3 1 3: Chewbaccas Red Rocket killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:37:52 2016]  Kill: 5 3 3: Liam killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:37:55 2016]  Kill: 1 0 31: Hiwhatis? killed asseater9000 by MOD_FORCE_DARK
+[Sat Mar 05 23:37:56 2016]  Kill: 1 4 31: Hiwhatis? killed Kenneth the Great by MOD_FORCE_DARK
+[Sat Mar 05 23:38:00 2016]  Kill: 1 5 3: Hiwhatis? killed Liam by MOD_SABER
+[Sat Mar 05 23:38:05 2016]  Kill: 5 4 3: Liam killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:38:07 2016]  Kill: 4 3 37: Kenneth the Great killed Chewbaccas Red Rocket by MOD_TELEFRAG
+[Sat Mar 05 23:38:09 2016]  Kill: 1 2 3: Hiwhatis? killed your nan by MOD_SABER
+[Sat Mar 05 23:38:11 2016]  Kill: 5 0 3: Liam killed asseater9000 by MOD_SABER
+[Sat Mar 05 23:39:02 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:39:02 2016]  Kill: 1 5 31: Hiwhatis? killed Liam by MOD_FORCE_DARK
+[Sat Mar 05 23:39:14 2016]  Kill: 3 0 3: Chewbaccas Red Rocket killed asseater9000 by MOD_SABER
+[Sat Mar 05 23:39:23 2016]  Kill: 3 4 3: Chewbaccas Red Rocket killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:39:26 2016]  Kill: 5 3 3: Liam killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:39:42 2016]  Kill: 5 1 3: Liam killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:39:46 2016]  Kill: 1 3 3: Hiwhatis? killed Chewbaccas Red Rocket by MOD_SABER
+[Sat Mar 05 23:40:01 2016]  Kill: 5 0 3: Liam killed asseater9000 by MOD_SABER
+[Sat Mar 05 23:40:10 2016]  Kill: 1 5 3: Hiwhatis? killed Liam by MOD_SABER
+[Sat Mar 05 23:40:22 2016]  Kill: 1 2 3: Hiwhatis? killed your nan by MOD_SABER
+[Sat Mar 05 23:40:34 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:40:50 2016]  Kill: 5 4 3: Liam killed Kenneth the Great by MOD_SABER
+[Sat Mar 05 23:40:53 2016]  Kill: 5 2 3: Liam killed your nan by MOD_SABER
+[Sat Mar 05 23:41:00 2016]  Kill: 5 1 3: Liam killed Hiwhatis? by MOD_SABER
+[Sat Mar 05 23:41:06 2016]  Kill: 4 0 4: Kenneth the Great killed asseater9000 by MOD_BRYAR_PISTOL
+[Sat Mar 05 23:41:24 2016]  Kill: 1 2 31: Hiwhatis? killed your nan by MOD_FORCE_DARK
+[Sat Mar 05 23:42:04 2016]  Kill: 1 5 4: Hiwhatis? killed Liam by MOD_BRYAR_PISTOL
+[Sat Mar 05 23:42:05 2016]  Kill: 0 4 5: asseater9000 killed Kenneth the Great by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:42:06 2016]  ClientDisconnect: 4
+[Sat Mar 05 23:42:11 2016]  Kill: 0 2 5: asseater9000 killed your nan by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 05 23:42:18 2016]  ClientDisconnect: 2
+[Sat Mar 05 23:42:21 2016]  ClientDisconnect: 3
+[Sat Mar 05 23:42:44 2016]  Kill: 1 0 31: Hiwhatis? killed asseater9000 by MOD_FORCE_DARK
+[Sat Mar 05 23:43:04 2016]  Kill: 1 5 3: Hiwhatis? killed Liam by MOD_SABER
+[Sat Mar 05 23:43:08 2016]  ClientDisconnect: 5
+[Sat Mar 05 23:43:51 2016]  ClientDisconnect: 1
+[Sat Mar 05 23:43:55 2016]  ClientDisconnect: 0
+[Sun Mar 06 18:51:56 2016]  ClientConnect: 0
+[Sun Mar 06 18:51:56 2016]  mlog:Player Padawan, connected. With IP - 84.177.69.231:29070 
+[Sun Mar 06 18:52:25 2016]  ClientBegin: 0
+[Sun Mar 06 18:56:36 2016]  ClientDisconnect: 0
+[Mon Mar 07 00:17:53 2016]  ClientConnect: 0
+[Mon Mar 07 00:17:53 2016]  mlog:Player Kar-Kun, connected. With IP - 75.172.121.175:29070 
+[Mon Mar 07 00:18:17 2016]  ClientBegin: 0
+[Mon Mar 07 00:18:25 2016]  ClientDisconnect: 0

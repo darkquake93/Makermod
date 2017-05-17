@@ -1,0 +1,103 @@
+[Sun Mar 09 08:32:25 2014]  ------------------------------------------------------------
+[Sun Mar 09 08:32:25 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Mar 09 08:32:26 2014]  ClientConnect: 0
+[Sun Mar 09 08:38:46 2014]  ClientDisconnect: 0
+[Sun Mar 09 08:39:53 2014]  ClientConnect: 0
+[Sun Mar 09 08:39:53 2014]  mlog:Player Cookie, connected. With IP - 159.255.234.38:29070 
+[Sun Mar 09 08:41:49 2014]  ClientDisconnect: 0
+[Sun Mar 09 08:42:27 2014]  ClientConnect: 0
+[Sun Mar 09 08:42:27 2014]  mlog:Player Padawan, connected. With IP - 159.255.234.38:29070 
+[Sun Mar 09 08:44:18 2014]  ClientDisconnect: 0
+[Sun Mar 09 09:10:32 2014]  ClientConnect: 0
+[Sun Mar 09 09:10:32 2014]  mlog:Player Cookie, connected. With IP - 159.255.234.38:29070 
+[Sun Mar 09 09:14:07 2014]  ClientDisconnect: 0
+[Sun Mar 09 09:15:49 2014]  ClientConnect: 0
+[Sun Mar 09 09:15:49 2014]  mlog:Player Padawan, connected. With IP - 159.255.234.38:29070 
+[Sun Mar 09 09:36:38 2014]  ClientDisconnect: 0
+[Sun Mar 09 10:32:24 2014]  Exit: Timelimit hit.
+[Sun Mar 09 18:22:02 2014]  ClientConnect: 0
+[Sun Mar 09 18:22:02 2014]  mlog:Player Begushe, connected. With IP - 91.205.236.93:21612 
+[Sun Mar 09 18:22:11 2014]  ClientBegin: 0
+[Sun Mar 09 18:22:14 2014]  ShutdownGame:
+[Sun Mar 09 18:22:14 2014]  ------------------------------------------------------------
+[Sun Mar 09 18:22:28 2014]  ------------------------------------------------------------
+[Sun Mar 09 18:22:28 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Mar 09 18:22:33 2014]  ClientConnect: 0
+[Sun Mar 09 18:22:33 2014]  mlog:Player Begushe, connected. With IP - 91.205.236.93:21612 
+[Sun Mar 09 18:22:43 2014]  ClientBegin: 0
+[Sun Mar 09 18:23:03 2014]  ClientDisconnect: 0
+[Sun Mar 09 18:48:05 2014]  ClientConnect: 0
+[Sun Mar 09 18:48:05 2014]  mlog:Player ///, connected. With IP - 95.83.110.18:29070 
+[Sun Mar 09 18:48:11 2014]  ClientConnect: 1
+[Sun Mar 09 18:48:11 2014]  mlog:Player ^1K^2i^3l^4l^5e^6r^7s, connected. With IP - 93.85.168.142:16556 
+[Sun Mar 09 18:48:37 2014]  ClientBegin: 1
+[Sun Mar 09 18:48:42 2014]  ClientBegin: 0
+[Sun Mar 09 18:48:59 2014]  Kill: 1 0 3: ^1K^2i^3l^4l^5e^6r^7s killed ^2J^0AWA by MOD_SABER
+[Sun Mar 09 18:49:16 2014]  tell: ^2J^0AWA to ^2J^0AWA: ^7UU ^5- ^2JA ^0Restored
+[Sun Mar 09 18:49:24 2014]  say: ^2J^0AWA: ^7xD
+[Sun Mar 09 18:49:26 2014]  say: ^2J^0AWA: ^7Это  ХД^0.^7
+[Sun Mar 09 18:49:28 2014]  say: ^2J^0AWA: ^7Я^0.^7
+[Sun Mar 09 18:49:30 2014]  say: ^2J^0AWA: ^7ХД^0.^7
+[Sun Mar 09 18:49:47 2014]  say: ^2J^0AWA: ^0:с
+[Sun Mar 09 18:49:57 2014]  say: ^2J^0AWA: ^7Го батл?^0.^7
+[Sun Mar 09 18:50:09 2014]  say: ^2J^0AWA: ^7Можно все кроме бессмертия^0.^7
+[Sun Mar 09 18:50:16 2014]  say: ^2J^0AWA: ^7В чате нельзя^0.^7
+[Sun Mar 09 18:51:18 2014]  Item: 0 weapon_repeater
+[Sun Mar 09 18:51:28 2014]  Item: 0 weapon_rocket_launcher
+[Sun Mar 09 18:51:38 2014]  Item: 0 weapon_demp2
+[Sun Mar 09 18:51:40 2014]  say: ^2J^0AWA: ^7xD
+[Sun Mar 09 18:51:42 2014]  Item: 0 weapon_bowcaster
+[Sun Mar 09 18:51:44 2014]  say: ^2J^0AWA: ^7xD
+[Sun Mar 09 18:52:09 2014]  Kill: 1 0 27: ^1K^2i^3l^4l^5e^6r^7s killed ^2J^0AWA by MOD_DET_PACK_SPLASH
+[Sun Mar 09 18:52:10 2014]  say: ^2J^0AWA: ^7xD
+[Sun Mar 09 18:52:15 2014]  say: ^2J^0AWA: ^7ОКей^0.^7
+[Sun Mar 09 18:52:20 2014]  Item: 0 weapon_repeater
+[Sun Mar 09 18:52:41 2014]  Kill: 0 1 29: ^2J^0AWA killed ^1K^2i^3l^4l^5e^6r^7s by MOD_CONC
+[Sun Mar 09 18:54:04 2014]  Kill: 0 1 10: ^2J^0AWA killed ^1K^2i^3l^4l^5e^6r^7s by MOD_DISRUPTOR_SNIPER
+[Sun Mar 09 18:54:09 2014]  say: ^2J^0AWA: ^7xD
+[Sun Mar 09 18:54:21 2014]  Kill: 0 1 10: ^2J^0AWA killed ^1K^2i^3l^4l^5e^6r^7s by MOD_DISRUPTOR_SNIPER
+[Sun Mar 09 18:54:53 2014]  say: ^1K^2i^3l^4l^5e^6r^7s: У тебя невидимость
+[Sun Mar 09 18:54:55 2014]  say: ^2J^0AWA: ^7xD
+[Sun Mar 09 18:54:58 2014]  say: ^2J^0AWA: ^7Мона все^0.^7
+[Sun Mar 09 18:55:01 2014]  say: ^2J^0AWA: ^7xD
+[Sun Mar 09 18:55:05 2014]  say: ^2J^0AWA: ^7Кроме ^0.^7
+[Sun Mar 09 18:55:11 2014]  say: ^1K^2i^3l^4l^5e^6r^7s: Ну тя
+[Sun Mar 09 18:55:13 2014]  say: ^2J^0AWA: ^7xD
+[Sun Mar 09 18:55:15 2014]  say: ^2J^0AWA: ^7Хош?^0.^7
+[Sun Mar 09 18:55:16 2014]  say: ^2J^0AWA: ^7xD
+[Sun Mar 09 18:55:28 2014]  say: ^2J^0AWA: My origin is: (-6037 -21950 1666) - You can teleport here with /mtelelast
+
+[Sun Mar 09 18:55:37 2014]  say: ^2J^0AWA: My origin is: (-6066 -20637 1484) - You can teleport here with /mtelelast
+
+[Sun Mar 09 18:56:00 2014]  say: ^2J^0AWA: ^7Бля^0.^7
+[Sun Mar 09 18:56:03 2014]  say: ^2J^0AWA: ^7Я заблудился^0.^7
+[Sun Mar 09 18:56:33 2014]  Kill: 0 1 27: ^2J^0AWA killed ^1K^2i^3l^4l^5e^6r^7s by MOD_DET_PACK_SPLASH
+[Sun Mar 09 18:56:36 2014]  say: ^2J^0AWA: ^7xD
+[Sun Mar 09 18:57:32 2014]  Kill: 0 1 10: ^2J^0AWA killed ^1K^2i^3l^4l^5e^6r^7s by MOD_DISRUPTOR_SNIPER
+[Sun Mar 09 18:57:36 2014]  Kill: 1 0 25: ^1K^2i^3l^4l^5e^6r^7s killed ^2J^0AWA by MOD_TRIP_MINE_SPLASH
+[Sun Mar 09 18:57:38 2014]  say: ^2J^0AWA: ^7БЛЯ^0.^7
+[Sun Mar 09 18:57:49 2014]  say: ^2J^0AWA: ^7Ладно^0.^7
+[Sun Mar 09 18:57:52 2014]  say: ^2J^0AWA: ^7Харе^0.^7
+[Sun Mar 09 18:57:56 2014]  say: ^2J^0AWA: ^7Хош научу?^0.^7
+[Sun Mar 09 18:58:00 2014]  say: ^2J^0AWA: ^7Невидимости?^0.^7
+[Sun Mar 09 18:58:10 2014]  say: ^2J^0AWA: ^7Хош не?^0.^7
+[Sun Mar 09 18:58:19 2014]  say: ^2J^0AWA: ^7Смотри^0.^7
+[Sun Mar 09 18:58:20 2014]  say: ^1K^2i^3l^4l^5e^6r^7s: я знаю как
+[Sun Mar 09 18:58:27 2014]  say: ^2J^0AWA: ^7xD
+[Sun Mar 09 18:58:40 2014]  say: ^2J^0AWA: ^7xD
+[Sun Mar 09 18:58:59 2014]  Kill: 1022 1 2: <world> killed ^1K^2i^3l^4l^5e^6r^7s by MOD_MELEE
+[Sun Mar 09 18:59:09 2014]  say: ^2J^0AWA: ^7Как схватит^0.^7
+[Sun Mar 09 18:59:10 2014]  say: ^2J^0AWA: ^7Сразу^0.^7
+[Sun Mar 09 18:59:12 2014]  say: ^2J^0AWA: ^7Ноклип^0.^7
+[Sun Mar 09 18:59:38 2014]  say: ^2J^0AWA: ^7xD
+[Sun Mar 09 18:59:59 2014]  say: ^1K^2i^3l^4l^5e^6r^7s: Пока
+[Sun Mar 09 19:00:05 2014]  Kill: 1022 1 38: <world> killed ^1K^2i^3l^4l^5e^6r^7s by MOD_FALLING
+[Sun Mar 09 19:00:06 2014]  say: ^2J^0AWA: ^7А?^0.^7
+[Sun Mar 09 19:00:06 2014]  ClientDisconnect: 1
+[Sun Mar 09 19:00:11 2014]  ClientDisconnect: 0
+[Sun Mar 09 20:22:22 2014]  Exit: Timelimit hit.
+[Wed Mar 12 19:59:35 2014]  ClientConnect: 0
+[Wed Mar 12 19:59:35 2014]  mlog:Player Padawan, connected. With IP - 159.255.234.38:29070 
+[Wed Mar 12 20:00:00 2014]  ClientBegin: 0
+[Wed Mar 12 20:00:06 2014]  ShutdownGame:
+[Wed Mar 12 20:00:06 2014]  ------------------------------------------------------------

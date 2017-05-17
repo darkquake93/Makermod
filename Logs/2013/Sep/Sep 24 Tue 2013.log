@@ -1,0 +1,1127 @@
+[Tue Sep 24 01:03:26 2013]  ------------------------------------------------------------
+[Tue Sep 24 01:03:26 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 01:03:38 2013]  ClientConnect: 0
+[Tue Sep 24 01:03:38 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Tue Sep 24 01:03:57 2013]  ClientBegin: 0
+[Tue Sep 24 01:03:57 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 01:04:50 2013]  ClientConnect: 1
+[Tue Sep 24 01:04:50 2013]  mlog:Player ^1M^7c^3W^7ooty^1(^3A^7dmin^1), connected. With IP - 71.163.225.237:29070 
+[Tue Sep 24 01:05:01 2013]  ClientBegin: 1
+[Tue Sep 24 01:05:21 2013]  say: V^0î^7§å^0g^7e^3: ^7i broke it.
+[Tue Sep 24 01:05:24 2013]  say: V^0î^7§å^0g^7e^3: ^7could i try one more?
+[Tue Sep 24 01:05:28 2013]  say: ^0Darkquake is back!: yeah
+[Tue Sep 24 01:05:36 2013]  say: ^0Darkquake is back!: and dw I saved the remap commands
+[Tue Sep 24 01:05:43 2013]  say: ^0Darkquake is back!: they'll be active next restart
+[Tue Sep 24 01:06:11 2013]  ------------------------------------------------------------
+[Tue Sep 24 01:06:11 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 01:06:42 2013]  ------------------------------------------------------------
+[Tue Sep 24 01:06:42 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 01:06:44 2013]  ClientConnect: 0
+[Tue Sep 24 01:06:44 2013]  mlog:Player ^1M^7c^3W^7ooty^1(^3A^7dmin^1), connected. With IP - 71.163.225.237:29070 
+[Tue Sep 24 01:06:50 2013]  ClientConnect: 1
+[Tue Sep 24 01:06:50 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Tue Sep 24 01:06:55 2013]  ClientBegin: 0
+[Tue Sep 24 01:07:11 2013]  ClientBegin: 1
+[Tue Sep 24 01:07:11 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 01:07:14 2013]  say: V^0î^7§å^0g^7e^3: ^7mm.
+[Tue Sep 24 01:07:25 2013]  say: V^0î^7§å^0g^7e^3: ^7welp.
+[Tue Sep 24 01:07:26 2013]  say: V^0î^7§å^0g^7e^3: ^7im done.
+[Tue Sep 24 01:07:31 2013]  say: ^0Darkquake is back!: ok cool
+[Tue Sep 24 01:07:44 2013]  say: V^0î^7§å^0g^7e^3: ^7if we could move on to another map or place the mapobs that would be dandy.
+[Tue Sep 24 01:07:48 2013]  say: ^0Darkquake is back!: I tried to make the sky the raven vid before lol :p It crashed ofc
+[Tue Sep 24 01:08:01 2013]  say: ^0Darkquake is back!: yeah well I'm just gonna finish this map obs script
+[Tue Sep 24 01:08:12 2013]  say: ^0Darkquake is back!: gonna get the DQ in fire, then add whatever trees you want
+[Tue Sep 24 01:08:15 2013]  say: V^0î^7§å^0g^7e^3: ^7mm.
+[Tue Sep 24 01:08:20 2013]  say: V^0î^7§å^0g^7e^3: ^7adding trees sounds like alot of work.
+[Tue Sep 24 01:08:24 2013]  say: V^0î^7§å^0g^7e^3: ^7btw whats your steam again.
+[Tue Sep 24 01:08:29 2013]  say: ^0Darkquake is back!: darkness_danielc
+[Tue Sep 24 01:08:33 2013]  say: ^0Darkquake is back!: well not really
+[Tue Sep 24 01:08:34 2013]  say: V^0î^7§å^0g^7e^3: ^7k.
+[Tue Sep 24 01:08:37 2013]  say: V^0î^7§å^0g^7e^3: ^7my steam is deciding to crash nonstop.
+[Tue Sep 24 01:08:40 2013]  say: V^0î^7§å^0g^7e^3: ^7whenever i press a button.
+[Tue Sep 24 01:08:44 2013]  say: ^0Darkquake is back!: I'll just mmark where you want them, within the script
+[Tue Sep 24 01:08:54 2013]  say: V^0î^7§å^0g^7e^3: ^7pardon me?
+[Tue Sep 24 01:08:54 2013]  say: ^0Darkquake is back!: oh right well wb xfire?
+[Tue Sep 24 01:08:57 2013]  say: V^0î^7§å^0g^7e^3: ^7you can just save the mapobs 
+[Tue Sep 24 01:08:59 2013]  say: V^0î^7§å^0g^7e^3: ^7to the map.
+[Tue Sep 24 01:09:03 2013]  say: ^0Darkquake is back!: yeah I know that
+[Tue Sep 24 01:09:13 2013]  say: V^0î^7§å^0g^7e^3: ^7then why not do that, and make your throne thing in the script.
+[Tue Sep 24 01:09:35 2013]  say: ^0Darkquake is back!: cause we might want the trees on a diff map too
+[Tue Sep 24 01:09:47 2013]  say: ^0Darkquake is back!: if we don't I can comment them out on the script's duplicate
+[Tue Sep 24 01:09:49 2013]  say: V^0î^7§å^0g^7e^3: ^7illogical.
+[Tue Sep 24 01:09:57 2013]  say: V^0î^7§å^0g^7e^3: ^7i wouldnt advise putting them in at all.
+[Tue Sep 24 01:10:06 2013]  say: ^0Darkquake is back!: alright then
+[Tue Sep 24 01:10:13 2013]  say: V^0î^7§å^0g^7e^3: ^7because even if we would need them for another map they wouldnt be placed correctly and it would be a waste.
+[Tue Sep 24 01:10:20 2013]  say: ^0Darkquake is back!: I'll just have my script do the main throne stuff
+[Tue Sep 24 01:10:23 2013]  say: ^0Darkquake is back!: yeah point taken
+[Tue Sep 24 01:10:50 2013]  say: ^0Darkquake is back!: I want this throne stuff on every map though if possible, cause it's my main thing :p
+[Tue Sep 24 01:11:27 2013]  say: V^0î^7§å^0g^7e^3: ^7i assumed.
+[Tue Sep 24 01:11:43 2013]  say: V^0î^7§å^0g^7e^3: ^7thats so strange.
+[Tue Sep 24 01:11:46 2013]  say: V^0î^7§å^0g^7e^3: ^7that steam is doing that.
+[Tue Sep 24 01:11:49 2013]  say: V^0î^7§å^0g^7e^3: ^7i probably have a virus.
+[Tue Sep 24 01:12:13 2013]  say: ^0Darkquake is back!: hm or some outdated drivers?
+[Tue Sep 24 01:12:25 2013]  say: V^0î^7§å^0g^7e^3: ^7steam doesnt need drivers. and it only happened like 10 minutes ago.
+[Tue Sep 24 01:12:37 2013]  say: V^0î^7§å^0g^7e^3: ^7it didnt need to update or anything.
+[Tue Sep 24 01:12:42 2013]  say: V^0î^7§å^0g^7e^3: ^7*shrug*
+[Tue Sep 24 01:12:54 2013]  say: ^0Darkquake is back!: Well I mean like .net framework etc
+[Tue Sep 24 01:13:07 2013]  say: V^0î^7§å^0g^7e^3: .it wouldnt need those. especially not just randomly without updatingl.
+[Tue Sep 24 01:13:23 2013]  say: ^0Darkquake is back!: right
+[Tue Sep 24 01:13:25 2013]  say: V^0î^7§å^0g^7e^3: ^7whats your xfire.
+[Tue Sep 24 01:13:27 2013]  say: ^0Darkquake is back!: well yeah I dunno
+[Tue Sep 24 01:13:31 2013]  say: ^0Darkquake is back!: it's danielcarnovale
+[Tue Sep 24 01:13:41 2013]  say: ^0Darkquake is back!: I just installed it again
+[Tue Sep 24 01:19:04 2013]  say: V^0î^7§å^0g^7e^3: ^7there
+[Tue Sep 24 01:23:58 2013]  ShutdownGame:
+[Tue Sep 24 01:23:58 2013]  ------------------------------------------------------------
+[Tue Sep 24 01:23:59 2013]  ------------------------------------------------------------
+[Tue Sep 24 01:23:59 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 01:24:00 2013]  ClientConnect: 0
+[Tue Sep 24 01:24:00 2013]  ClientConnect: 1
+[Tue Sep 24 01:24:08 2013]  ClientBegin: 0
+[Tue Sep 24 01:24:09 2013]  say: V^0î^7§å^0g^7e^3: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 01:24:12 2013]  ClientBegin: 1
+[Tue Sep 24 01:24:12 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 01:24:24 2013]  say: V^0î^7§å^0g^7e^3: ^7that was quick.
+[Tue Sep 24 01:24:28 2013]  say: V^0î^7§å^0g^7e^3: ^7did you finish your script that fast?
+[Tue Sep 24 01:24:35 2013]  say: ^0Darkquake is back!: nah I'll do it here
+[Tue Sep 24 01:24:40 2013]  say: ^0Darkquake is back!: or next time
+[Tue Sep 24 01:24:40 2013]  say: V^0î^7§å^0g^7e^3: ^7sounds good.
+[Tue Sep 24 01:24:47 2013]  say: V^0î^7§å^0g^7e^3: ^3Time ^2- ^7Map time: ^200:49.350
+[Tue Sep 24 01:25:01 2013]  say: V^0î^7§å^0g^7e^3: ^7ugh.
+[Tue Sep 24 01:25:05 2013]  say: V^0î^7§å^0g^7e^3: ^7this chaticon and console x.x
+[Tue Sep 24 01:25:17 2013]  say: ^0Darkquake is back!: oh right
+[Tue Sep 24 01:25:23 2013]  say: ^0Darkquake is back!: are you seeing the matrix console?
+[Tue Sep 24 01:25:26 2013]  say: ^0Darkquake is back!: or orig?
+[Tue Sep 24 01:25:29 2013]  say: V^0î^7§å^0g^7e^3: ^7origin.
+[Tue Sep 24 01:25:35 2013]  say: ^0Darkquake is back!: right thought so
+[Tue Sep 24 01:25:45 2013]  say: ^0Darkquake is back!: I'm using a cool Matrix one :p
+[Tue Sep 24 01:25:49 2013]  say: V^0î^7§å^0g^7e^3: ^7mm.
+[Tue Sep 24 01:25:50 2013]  say: ^0Darkquake is back!: oh wow
+[Tue Sep 24 01:25:56 2013]  say: ^0Darkquake is back!: that's really good
+[Tue Sep 24 01:26:02 2013]  say: V^0î^7§å^0g^7e^3: ^7my favorite textures.
+[Tue Sep 24 01:26:04 2013]  say: V^0î^7§å^0g^7e^3: ^7texture*
+[Tue Sep 24 01:29:55 2013]  say: V^0î^7§å^0g^7e^3: ^7roit.
+[Tue Sep 24 01:29:57 2013]  say: V^0î^7§å^0g^7e^3: ^7so im going for a hoth on this one.
+[Tue Sep 24 01:30:11 2013]  say: ^0Darkquake is back!: alright
+[Tue Sep 24 01:30:42 2013]  say: V^0î^7§å^0g^7e^3: ^7look at the console.
+[Tue Sep 24 01:30:50 2013]  say: V^0î^7§å^0g^7e^3: ^7do you see the swirl?
+[Tue Sep 24 01:30:53 2013]  say: ^0Darkquake is back!: :o
+[Tue Sep 24 01:30:58 2013]  say: ^0Darkquake is back!: yeah that's great
+[Tue Sep 24 01:31:04 2013]  say: V^0î^7§å^0g^7e^3: ^7thats what you could do for the chat icon in theory.
+[Tue Sep 24 01:31:08 2013]  say: V^0î^7§å^0g^7e^3: ^7but im definetly not approoooving that.
+[Tue Sep 24 01:31:24 2013]  say: V^0î^7§å^0g^7e^3: ^7or you could just keep it in the console cuz that looks nice.
+[Tue Sep 24 01:31:30 2013]  say: ^0Darkquake is back!: alright but yeah was gonna say
+[Tue Sep 24 01:31:34 2013]  say: V^0î^7§å^0g^7e^3: ^7^6 hm
+[Tue Sep 24 01:31:34 2013]  say: ^0Darkquake is back!: works fine with the console
+[Tue Sep 24 01:31:41 2013]  say: V^0î^7§å^0g^7e^3: ^7^2test
+[Tue Sep 24 01:31:43 2013]  say: V^0î^7§å^0g^7e^3: ^7^3test
+[Tue Sep 24 01:31:45 2013]  say: V^0î^7§å^0g^7e^3: ^7hm.
+[Tue Sep 24 01:32:01 2013]  say: V^0î^7§å^0g^7e^3: ^7sigh.
+[Tue Sep 24 01:32:04 2013]  say: V^0î^7§å^0g^7e^3: ^7there are so many textures here to change.
+[Tue Sep 24 01:32:47 2013]  say: ^0Darkquake is back!: ok so this is what confuses me
+[Tue Sep 24 01:32:51 2013]  say: V^0î^7§å^0g^7e^3: ^7hm?
+[Tue Sep 24 01:32:54 2013]  say: ^0Darkquake is back!: when I look in assets1.pk3
+[Tue Sep 24 01:33:04 2013]  say: ^0Darkquake is back!: and try to find for example gfx/hud/force_swirl
+[Tue Sep 24 01:33:10 2013]  say: ^0Darkquake is back!: all I see are the jpgs there
+[Tue Sep 24 01:33:15 2013]  say: V^0î^7§å^0g^7e^3: ^7and?
+[Tue Sep 24 01:33:26 2013]  say: ^0Darkquake is back!: so how would I know that it's actually an animated texture?
+[Tue Sep 24 01:33:33 2013]  say: V^0î^7§å^0g^7e^3: ^7you dont.
+[Tue Sep 24 01:33:36 2013]  say: V^0î^7§å^0g^7e^3: ^7you just have to go through them.
+[Tue Sep 24 01:33:50 2013]  say: ^0Darkquake is back!: right
+[Tue Sep 24 01:34:43 2013]  say: ^0Darkquake is back!: how do you go through them so quickly then?
+[Tue Sep 24 01:34:48 2013]  say: V^0î^7§å^0g^7e^3: ^7skill.
+[Tue Sep 24 01:34:59 2013]  say: ^0Darkquake is back!: lol alright
+[Tue Sep 24 01:35:44 2013]  say: V^0î^7§å^0g^7e^3: ^7hm
+[Tue Sep 24 01:35:49 2013]  say: V^0î^7§å^0g^7e^3: ^7i guess i just have to restart steam for it to stop crashing.
+[Tue Sep 24 01:35:52 2013]  say: V^0î^7§å^0g^7e^3: ^7i mean
+[Tue Sep 24 01:35:54 2013]  say: V^0î^7§å^0g^7e^3: ^7restart my comp*
+[Tue Sep 24 01:36:16 2013]  say: ^0Darkquake is back!: alright cya soon
+[Tue Sep 24 01:36:24 2013]  say: V^0î^7§å^0g^7e^3: ^7da.
+[Tue Sep 24 01:36:25 2013]  say: V^0î^7§å^0g^7e^3: ^7when are you leaving?
+[Tue Sep 24 01:36:36 2013]  say: ^0Darkquake is back!: 20 mins probly
+[Tue Sep 24 01:36:40 2013]  say: V^0î^7§å^0g^7e^3: ^7very well.
+[Tue Sep 24 01:37:58 2013]  say: ^0Darkquake is back!: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1Dbn²
+[Tue Sep 24 01:37:59 2013]  say: ^0Darkquake is back!: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Tue Sep 24 01:41:17 2013]  ClientDisconnect: 0
+[Tue Sep 24 01:41:17 2013]  ClientConnect: 0
+[Tue Sep 24 01:41:17 2013]  mlog:Player ^1M^7c^3W^7ooty^1(^3A^7dmin^1), connected. With IP - 71.163.225.237:29070 
+[Tue Sep 24 01:41:35 2013]  ClientBegin: 0
+[Tue Sep 24 01:41:37 2013]  say: V^0î^7§å^0g^7e^3: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 01:41:40 2013]  say: V^0î^7§å^0g^7e^3: added you.
+[Tue Sep 24 01:41:44 2013]  say: V^0î^7§å^0g^7e^3: ^3Chatcolor ^2- ^7Chat coloring set to ^7White
+[Tue Sep 24 01:41:46 2013]  say: V^0î^7§å^0g^7e^3: ^7on steam.
+[Tue Sep 24 01:47:57 2013]  say: V^0î^7§å^0g^7e^3: ^7oh youre actually spelling out your name with fire.
+[Tue Sep 24 01:56:47 2013]  ClientDisconnect: 0
+[Tue Sep 24 02:07:44 2013]  ClientConnect: 0
+[Tue Sep 24 02:07:44 2013]  mlog:Player MadBob, connected. With IP - 82.46.74.207:29070 
+[Tue Sep 24 02:08:35 2013]  ClientBegin: 0
+[Tue Sep 24 02:19:48 2013]  Kill: 1022 0 39: <world> killed Dark_Jedi by MOD_SUICIDE
+[Tue Sep 24 02:20:40 2013]  ClientDisconnect: 0
+[Tue Sep 24 02:29:54 2013]  ClientConnect: 0
+[Tue Sep 24 02:29:54 2013]  mlog:Player ^3[TORJ]^1Tarrlek^2*L*, connected. With IP - 50.129.4.82:29070 
+[Tue Sep 24 02:30:34 2013]  ClientBegin: 0
+[Tue Sep 24 02:30:47 2013]  say: ^5Vyra: hi
+[Tue Sep 24 02:30:52 2013]  say: ^0Darkquake is back!: hi
+[Tue Sep 24 02:31:58 2013]  print "^5Vyra^7 @@@PLRENAME ^7Obi-wan
+"[Tue Sep 24 02:32:41 2013]  say: ^7Obi-wan: Did you ever play on V's makermod?
+[Tue Sep 24 02:33:00 2013]  say: ^0Darkquake is back!: I don't think so
+[Tue Sep 24 02:33:14 2013]  say: ^0Darkquake is back!: I remember Bacon's, Gsfan's and a few others
+[Tue Sep 24 02:34:26 2013]  say: ^0Darkquake is back!: I just finished this :)
+[Tue Sep 24 02:34:33 2013]  say: ^7Obi-wan: nice
+[Tue Sep 24 02:35:37 2013]  say: ^0Darkquake is back!: well I'm off to bed actually
+[Tue Sep 24 02:36:06 2013]  say: ^0Darkquake is back!: but I'm trying to leave this server up for a while, it'll crash every now and then but I'll get it back up quickly :p
+[Tue Sep 24 02:36:17 2013]  say: ^0Darkquake is back!: my friend's gonna do a bunch of remaps on this map
+[Tue Sep 24 02:36:34 2013]  say: ^7Obi-wan: Did you make the server or did you buy it?
+[Tue Sep 24 02:36:41 2013]  say: ^0Darkquake is back!: I made it
+[Tue Sep 24 02:36:45 2013]  say: ^0Darkquake is back!: it's easy to host
+[Tue Sep 24 02:36:51 2013]  say: ^0Darkquake is back!: you just open ports on your router
+[Tue Sep 24 02:37:26 2013]  say: ^7Obi-wan: Cuz i want to make a server for a new clan ^3[TORJ] ^2I'll ask my dad how it's done if he knows
+[Tue Sep 24 02:38:16 2013]  say: ^0Darkquake is back!: well if he knows about port forwarding it's easy
+[Tue Sep 24 02:38:32 2013]  say: ^0Darkquake is back!: you'll need to forward ports 29070-29081
+[Tue Sep 24 02:38:38 2013]  say: ^0Darkquake is back!: and 29060-29062
+[Tue Sep 24 02:38:56 2013]  say: ^0Darkquake is back!: just google jedi academy server ports and you'll find those ports again
+[Tue Sep 24 02:39:12 2013]  say: ^0Darkquake is back!: then you run jampded.exe, included with the game
+[Tue Sep 24 02:39:52 2013]  say: ^0Darkquake is back!: anyway I'm off to bed, night
+[Tue Sep 24 02:39:57 2013]  say: ^7Obi-wan: cya
+[Tue Sep 24 02:40:21 2013]  print "^0Darkquake is back!^7 @@@PLRENAME ^0Darkquake is back! (AFK)
+"[Tue Sep 24 02:44:33 2013]  ClientDisconnect: 0
+[Tue Sep 24 02:48:24 2013]  ClientConnect: 0
+[Tue Sep 24 02:48:24 2013]  mlog:Player Padawan, connected. With IP - 174.29.187.224:10640 
+[Tue Sep 24 02:49:00 2013]  ClientBegin: 0
+[Tue Sep 24 02:50:24 2013]  ClientDisconnect: 0
+[Tue Sep 24 03:20:01 2013]  ClientConnect: 0
+[Tue Sep 24 03:20:01 2013]  mlog:Player ^1Emperor^0Palpatine-[OTF], connected. With IP - 90.151.213.183:29070 
+[Tue Sep 24 03:20:32 2013]  ClientBegin: 0
+[Tue Sep 24 03:20:33 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 03:20:40 2013]  say: ^1Emperor^0Palpatine-[OTF]: hi
+[Tue Sep 24 03:35:56 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Tue Sep 24 03:36:42 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Tue Sep 24 03:36:54 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Tue Sep 24 03:40:29 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Tue Sep 24 03:40:32 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^0Battle ^4Sorcerer ^5script by ^0D^3arth ^0F^3urious
+[Tue Sep 24 03:40:49 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^1FLOATING PLATFORM SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S
+[Tue Sep 24 03:41:12 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^1FLOATING PLATFORM SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S
+[Tue Sep 24 03:42:18 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Tue Sep 24 03:51:24 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Tue Sep 24 03:58:02 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Tue Sep 24 04:00:02 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Tue Sep 24 04:00:34 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Tue Sep 24 04:00:53 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Tue Sep 24 04:01:03 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Tue Sep 24 04:01:20 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Tue Sep 24 04:01:31 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 3
+[Tue Sep 24 04:03:05 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Tue Sep 24 04:03:08 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Tue Sep 24 04:03:11 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 3
+[Tue Sep 24 04:03:47 2013]  ClientDisconnect: 0
+[Tue Sep 24 07:37:48 2013]  ClientConnect: 0
+[Tue Sep 24 07:37:48 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 81.155.187.195:29070 
+[Tue Sep 24 07:38:22 2013]  ClientBegin: 0
+[Tue Sep 24 07:38:55 2013]  say: ^0Mystrey ^1Dark^0 Op: hi good morning
+[Tue Sep 24 07:39:00 2013]  say: ^0Mystrey ^1Dark^0 Op: oh afk
+[Tue Sep 24 07:44:49 2013]  say: ^0Mystrey ^1Dark^0 Op: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Tue Sep 24 07:44:50 2013]  say: ^0Mystrey ^1Dark^0 Op: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Tue Sep 24 07:44:58 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 07:45:56 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 07:46:03 2013]  Kill: 1022 0 2: <world> killed ^0Mystrey ^1Dark^0 Op by MOD_MELEE
+[Tue Sep 24 07:46:12 2013]  say: ^0Mystrey ^1Dark^0 Op: u ate me rancor
+[Tue Sep 24 07:46:59 2013]  Kill: 1022 0 2: <world> killed ^0Mystrey ^1Dark^0 Op by MOD_MELEE
+[Tue Sep 24 07:47:01 2013]  say: ^0Mystrey ^1Dark^0 Op: npc kill all
+[Tue Sep 24 07:47:26 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 07:47:32 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 07:49:06 2013]  ClientDisconnect: 0
+[Tue Sep 24 07:49:06 2013]  ClientDisconnect: 0
+[Tue Sep 24 07:49:06 2013]  ClientConnect: 0
+[Tue Sep 24 07:49:06 2013]  mlog:Player ^0Mystrey ^1Dark^0 Op, connected. With IP - 81.155.187.195:29070 
+[Tue Sep 24 07:49:16 2013]  ClientBegin: 0
+[Tue Sep 24 07:56:48 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1KILL SELECTED OBJECT!
+[Tue Sep 24 08:11:53 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 08:11:58 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 08:12:10 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 08:12:28 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 08:13:15 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 08:13:29 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 08:14:01 2013]  say: ^0Mystrey ^1Dark^0 Op: ^2ACID ^3BLAST!
+[Tue Sep 24 08:14:12 2013]  say: ^0Mystrey ^1Dark^0 Op: ^2ACID ^3BLAST!
+[Tue Sep 24 08:14:28 2013]  say: ^0Mystrey ^1Dark^0 Op: ^2ACID ^3BLAST!
+[Tue Sep 24 08:14:32 2013]  say: ^0Mystrey ^1Dark^0 Op: ^2ACID ^3BLAST!
+[Tue Sep 24 08:14:35 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1GRAVEL ^4SHOT!
+[Tue Sep 24 08:14:43 2013]  say: ^0Mystrey ^1Dark^0 Op: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Tue Sep 24 08:14:55 2013]  say: ^0Mystrey ^1Dark^0 Op: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Tue Sep 24 08:15:20 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 08:15:36 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 08:15:45 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 08:16:02 2013]  say: ^0Mystrey ^1Dark^0 Op: ^1FIRE BALL!
+[Tue Sep 24 08:17:45 2013]  say: ^0Mystrey ^1Dark^0 Op: well bye hope u make this server great 
+[Tue Sep 24 08:17:51 2013]  ClientDisconnect: 0
+[Tue Sep 24 12:41:45 2013]  ClientConnect: 0
+[Tue Sep 24 12:41:45 2013]  mlog:Player max, connected. With IP - 46.39.244.66:-357 
+[Tue Sep 24 12:42:07 2013]  ClientBegin: 0
+[Tue Sep 24 12:42:40 2013]  say: maxim: hi
+[Tue Sep 24 12:42:55 2013]  say: ^0Darkquake is back! (AFK): hello
+[Tue Sep 24 12:43:04 2013]  print "^0Darkquake is back! (AFK)^7 @@@PLRENAME ^0Darkquake is back!
+"[Tue Sep 24 12:43:04 2013]  say: maxim: you admin?
+[Tue Sep 24 12:43:08 2013]  say: ^0Darkquake is back!: yeah
+[Tue Sep 24 12:43:51 2013]  say: maxim: give me cmand on lazer door
+[Tue Sep 24 12:44:26 2013]  say: ^0Darkquake is back!: huh?
+[Tue Sep 24 12:44:33 2013]  say: maxim: dorr!
+[Tue Sep 24 12:44:55 2013]  say: ^0Darkquake is back!: ..
+[Tue Sep 24 12:45:11 2013]  say: maxim: /???
+[Tue Sep 24 12:45:35 2013]  say: maxim: ok
+[Tue Sep 24 12:45:38 2013]  say: maxim: say
+[Tue Sep 24 12:45:55 2013]  say: ^0Darkquake is back!: sry I'm quite rusty in Makermod, haven't played in ages
+[Tue Sep 24 12:46:01 2013]  say: ^0Darkquake is back!: what do you want though?
+[Tue Sep 24 12:46:38 2013]  say: maxim: wow
+[Tue Sep 24 12:47:25 2013]  say: maxim: wow
+[Tue Sep 24 12:47:31 2013]  say: maxim: what camand
+[Tue Sep 24 12:47:36 2013]  say: maxim: hat?
+[Tue Sep 24 12:47:37 2013]  say: ^0Darkquake is back!: type /mlistso
+[Tue Sep 24 12:47:53 2013]  say: ^0Darkquake is back!: /mlistso machines sorry
+[Tue Sep 24 12:48:00 2013]  say: ^0Darkquake is back!: and you can see which turrets etc to place
+[Tue Sep 24 12:49:25 2013]  say: maxim: /mplace miniturret, and?
+[Tue Sep 24 12:49:35 2013]  say: ^0Darkquake is back!: deathturret
+[Tue Sep 24 12:49:53 2013]  say: maxim: and?
+[Tue Sep 24 12:50:10 2013]  say: ^0Darkquake is back!: they're all under /mlistso machines
+[Tue Sep 24 12:50:28 2013]  say: ^0Darkquake is back!: gun, ammounit, shielfunit, turret, miniturret and deathturret
+[Tue Sep 24 12:50:33 2013]  say: ^0Darkquake is back!: shieldunit*
+[Tue Sep 24 12:51:07 2013]  say: maxim: /mplace sheidulet?
+[Tue Sep 24 12:51:19 2013]  say: ^0Darkquake is back!: shieldunit
+[Tue Sep 24 12:51:29 2013]  say: maxim: sheidunit? im error
+[Tue Sep 24 12:52:31 2013]  G_FindConfigstringIndex: overflow, 64, demp2/altmuzzle_flash[Tue Sep 24 12:52:31 2013]  ShutdownGame:
+[Tue Sep 24 12:52:31 2013]  ------------------------------------------------------------
+[Tue Sep 24 12:52:53 2013]  ------------------------------------------------------------
+[Tue Sep 24 12:52:53 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 12:53:05 2013]  ShutdownGame:
+[Tue Sep 24 12:53:05 2013]  ------------------------------------------------------------
+[Tue Sep 24 12:53:06 2013]  ------------------------------------------------------------
+[Tue Sep 24 12:53:06 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 12:53:14 2013]  ClientConnect: 0
+[Tue Sep 24 12:53:14 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Tue Sep 24 12:53:19 2013]  ClientBegin: 0
+[Tue Sep 24 12:53:19 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 12:53:35 2013]  say: ^0Darkquake is back!: !trace
+[Tue Sep 24 12:54:52 2013]  ShutdownGame:
+[Tue Sep 24 12:54:52 2013]  ------------------------------------------------------------
+[Tue Sep 24 12:54:53 2013]  ------------------------------------------------------------
+[Tue Sep 24 12:54:53 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 12:54:54 2013]  ClientConnect: 0
+[Tue Sep 24 12:54:58 2013]  ClientBegin: 0
+[Tue Sep 24 12:54:58 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 12:55:28 2013]  ShutdownGame:
+[Tue Sep 24 12:55:28 2013]  ------------------------------------------------------------
+[Tue Sep 24 12:55:28 2013]  ------------------------------------------------------------
+[Tue Sep 24 12:55:28 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 12:55:29 2013]  ClientConnect: 0
+[Tue Sep 24 12:55:33 2013]  ClientBegin: 0
+[Tue Sep 24 12:55:33 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 13:17:37 2013]  ClientConnect: 1
+[Tue Sep 24 13:17:37 2013]  mlog:Player Dark, connected. With IP - 217.118.91.47:20193 
+[Tue Sep 24 13:17:53 2013]  ClientBegin: 1
+[Tue Sep 24 13:20:12 2013]  say: )^0<<{KOTR}>>Dark|ST|: hi
+[Tue Sep 24 13:21:38 2013]  Kill: 1 1 39: )^0<<{KOTR}>>Dark|ST| killed )^0<<{KOTR}>>Dark|ST| by MOD_SUICIDE
+[Tue Sep 24 13:21:38 2013]  setteam:  1 FREE SPECTATOR
+[Tue Sep 24 13:21:38 2013]  ClientBegin: 1
+[Tue Sep 24 13:21:52 2013]  setteam:  1 SPECTATOR FREE
+[Tue Sep 24 13:21:52 2013]  ClientBegin: 1
+[Tue Sep 24 13:23:05 2013]  Kill: 1 0 3: )^0<<{KOTR}>>Dark|ST| killed ^0Darkquake is back! by MOD_SABER
+[Tue Sep 24 13:23:06 2013]  tell: ^0Darkquake is back! to )^0<<{KOTR}>>Dark|ST|: ^2^7)^0<<{KOTR}>>Dark|ST|, ^7you killed me
+[Tue Sep 24 13:23:49 2013]  Item: 1 weapon_blaster
+[Tue Sep 24 13:23:54 2013]  Item: 1 weapon_blaster
+[Tue Sep 24 13:24:09 2013]  Item: 1 weapon_blaster
+[Tue Sep 24 13:27:25 2013]  Item: 1 weapon_blaster
+[Tue Sep 24 13:27:25 2013]  Item: 1 weapon_blaster
+[Tue Sep 24 13:29:01 2013]  Item: 1 weapon_blaster
+[Tue Sep 24 13:30:58 2013]  Item: 1 weapon_blaster
+[Tue Sep 24 13:31:12 2013]  ClientDisconnect: 1
+[Tue Sep 24 14:51:16 2013]  ClientConnect: 1
+[Tue Sep 24 14:51:16 2013]  mlog:Player max, connected. With IP - 46.39.244.66:-6589 
+[Tue Sep 24 14:51:36 2013]  ClientBegin: 1
+[Tue Sep 24 14:52:10 2013]  Kill: 1 0 2: maxim killed ^0Darkquake is back! by MOD_MELEE
+[Tue Sep 24 14:52:10 2013]  tell: ^0Darkquake is back! to maxim: ^2^7maxim, ^7you killed me
+[Tue Sep 24 14:52:18 2013]  say: maxim: hi
+[Tue Sep 24 14:55:18 2013]  say: maxim: were are you?
+[Tue Sep 24 15:07:24 2013]  Kill: 1022 1 2: <world> killed maxim by MOD_MELEE
+[Tue Sep 24 15:10:34 2013]  Kill: 1022 1 2: <world> killed maxim by MOD_MELEE
+[Tue Sep 24 15:15:34 2013]  Kill: 1 0 3: maxim killed ^0Darkquake is back! by MOD_SABER
+[Tue Sep 24 15:15:34 2013]  tell: ^0Darkquake is back! to maxim: ^2^7maxim, ^7you killed me
+[Tue Sep 24 15:15:40 2013]  say: maxim: what
+[Tue Sep 24 15:15:43 2013]  say: maxim: wow
+[Tue Sep 24 15:15:45 2013]  say: maxim: hi
+[Tue Sep 24 15:16:10 2013]  say: maxim: hii
+[Tue Sep 24 15:16:26 2013]  ClientDisconnect: 1
+[Tue Sep 24 15:19:20 2013]  say: ^0Darkquake is back!: !trace
+[Tue Sep 24 15:19:43 2013]  say: ^0Darkquake is back!: !trace
+[Tue Sep 24 15:26:03 2013]  Kill: 1022 0 39: <world> killed ^0Darkquake is back! by MOD_SUICIDE
+[Tue Sep 24 15:29:48 2013]  ShutdownGame:
+[Tue Sep 24 15:29:48 2013]  ------------------------------------------------------------
+[Tue Sep 24 15:29:48 2013]  ------------------------------------------------------------
+[Tue Sep 24 15:29:48 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 15:29:50 2013]  ClientConnect: 0
+[Tue Sep 24 15:29:53 2013]  ClientBegin: 0
+[Tue Sep 24 15:29:53 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 15:31:05 2013]  ShutdownGame:
+[Tue Sep 24 15:31:05 2013]  ------------------------------------------------------------
+[Tue Sep 24 15:31:06 2013]  ------------------------------------------------------------
+[Tue Sep 24 15:31:06 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 15:31:07 2013]  ClientConnect: 0
+[Tue Sep 24 15:31:11 2013]  ClientBegin: 0
+[Tue Sep 24 15:31:11 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 15:35:15 2013]  Exit: Timelimit hit.
+[Tue Sep 24 15:35:15 2013]  score: 0  ping: 0  client: 0 ^0Darkquake is back!
+[Tue Sep 24 15:35:21 2013]  ShutdownGame:
+[Tue Sep 24 15:35:21 2013]  ------------------------------------------------------------
+[Tue Sep 24 15:35:22 2013]  ------------------------------------------------------------
+[Tue Sep 24 15:35:22 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\1\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 15:35:22 2013]  ClientConnect: 0
+[Tue Sep 24 15:35:27 2013]  ClientBegin: 0
+[Tue Sep 24 15:35:27 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 15:36:21 2013]  Exit: Timelimit hit.
+[Tue Sep 24 15:36:21 2013]  score: 0  ping: 4  client: 0 ^0Darkquake is back!
+[Tue Sep 24 15:36:27 2013]  ShutdownGame:
+[Tue Sep 24 15:36:27 2013]  ------------------------------------------------------------
+[Tue Sep 24 15:36:28 2013]  ------------------------------------------------------------
+[Tue Sep 24 15:36:28 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\1\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t3_rift\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 15:36:29 2013]  ClientConnect: 0
+[Tue Sep 24 15:36:37 2013]  ClientBegin: 0
+[Tue Sep 24 15:36:38 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 15:36:56 2013]  ShutdownGame:
+[Tue Sep 24 15:36:56 2013]  ------------------------------------------------------------
+[Tue Sep 24 15:36:57 2013]  ------------------------------------------------------------
+[Tue Sep 24 15:36:57 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 15:36:58 2013]  ClientConnect: 0
+[Tue Sep 24 15:37:02 2013]  ClientBegin: 0
+[Tue Sep 24 15:37:02 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 15:53:57 2013]  ClientDisconnect: 0
+[Tue Sep 24 16:21:23 2013]  ClientConnect: 0
+[Tue Sep 24 16:21:23 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Tue Sep 24 16:21:44 2013]  ClientBegin: 0
+[Tue Sep 24 16:21:44 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 16:22:16 2013]  say: ^0Darkquake is back!: !remaps
+[Tue Sep 24 16:28:02 2013]  say: ^0Darkquake is back!: !remaps
+[Tue Sep 24 16:33:14 2013]  ClientDisconnect: 0
+[Tue Sep 24 16:33:23 2013]  ClientConnect: 0
+[Tue Sep 24 16:33:23 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Tue Sep 24 16:33:27 2013]  ClientBegin: 0
+[Tue Sep 24 16:33:27 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 16:52:41 2013]  ShutdownGame:
+[Tue Sep 24 16:52:41 2013]  ------------------------------------------------------------
+[Tue Sep 24 16:52:42 2013]  ------------------------------------------------------------
+[Tue Sep 24 16:52:42 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 16:52:42 2013]  ClientConnect: 0
+[Tue Sep 24 16:52:45 2013]  Couldn't find a spawn point[Tue Sep 24 16:52:45 2013]  ShutdownGame:
+[Tue Sep 24 16:52:45 2013]  ------------------------------------------------------------
+[Tue Sep 24 16:53:28 2013]  ------------------------------------------------------------
+[Tue Sep 24 16:53:28 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 16:54:02 2013]  ------------------------------------------------------------
+[Tue Sep 24 16:54:02 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 16:54:15 2013]  ClientConnect: 0
+[Tue Sep 24 16:54:15 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Tue Sep 24 16:54:21 2013]  ClientBegin: 0
+[Tue Sep 24 16:54:21 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 16:55:14 2013]  ShutdownGame:
+[Tue Sep 24 16:55:14 2013]  ------------------------------------------------------------
+[Tue Sep 24 16:55:15 2013]  ------------------------------------------------------------
+[Tue Sep 24 16:55:15 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 16:55:15 2013]  ClientConnect: 0
+[Tue Sep 24 16:55:26 2013]  ClientBegin: 0
+[Tue Sep 24 16:55:26 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 17:08:22 2013]  ShutdownGame:
+[Tue Sep 24 17:08:22 2013]  ------------------------------------------------------------
+[Tue Sep 24 17:08:23 2013]  ------------------------------------------------------------
+[Tue Sep 24 17:08:23 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 17:08:24 2013]  ClientConnect: 0
+[Tue Sep 24 17:08:29 2013]  ClientBegin: 0
+[Tue Sep 24 17:08:29 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 17:08:55 2013]  ClientConnect: 1
+[Tue Sep 24 17:08:55 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 109.152.1.113:29070 
+[Tue Sep 24 17:09:32 2013]  ClientBegin: 1
+[Tue Sep 24 17:09:43 2013]  say: ^0Mystrey ^1Dark^0 Op: hi again
+[Tue Sep 24 17:09:47 2013]  say: ^0Darkquake is back!: hey
+[Tue Sep 24 17:09:47 2013]  say: ^0Mystrey ^1Dark^0 Op: nice make on server 
+[Tue Sep 24 17:09:52 2013]  say: ^0Darkquake is back!: thx :)
+[Tue Sep 24 17:10:01 2013]  say: ^0Mystrey ^1Dark^0 Op: what about the desert one
+[Tue Sep 24 17:10:02 2013]  say: ^0Darkquake is back!: visage helped with the textures and trees
+[Tue Sep 24 17:10:10 2013]  say: ^0Darkquake is back!: yeah he's gonna do textures for that too
+[Tue Sep 24 17:10:13 2013]  say: ^0Mystrey ^1Dark^0 Op: did u add base
+[Tue Sep 24 17:10:14 2013]  say: ^0Darkquake is back!: was about to load siege
+[Tue Sep 24 17:10:18 2013]  say: ^0Darkquake is back!: yeah I did
+[Tue Sep 24 17:10:20 2013]  say: ^0Darkquake is back!: take a look :)
+[Tue Sep 24 17:10:23 2013]  say: ^0Mystrey ^1Dark^0 Op: nice ok
+[Tue Sep 24 17:10:44 2013]  say: ^0Darkquake is back!: My origin is: (13318 8312 1654) - You can teleport here with /mtelelast
+
+[Tue Sep 24 17:10:47 2013]  say: ^0Mystrey ^1Dark^0 Op: did u see your room
+[Tue Sep 24 17:11:00 2013]  say: ^0Mystrey ^1Dark^0 Op: how do u do the cheat list 
+[Tue Sep 24 17:11:29 2013]  say: ^0Darkquake is back!: nice thx :D didn't see the message so didn't realise this was my room haha
+[Tue Sep 24 17:11:34 2013]  say: ^0Darkquake is back!: sry the cheat list?
+[Tue Sep 24 17:11:44 2013]  say: ^0Mystrey ^1Dark^0 Op: its like a door
+[Tue Sep 24 17:11:53 2013]  say: ^0Mystrey ^1Dark^0 Op: its says it to me
+[Tue Sep 24 17:12:12 2013]  say: ^0Mystrey ^1Dark^0 Op: u can make it thats what is says and its your room
+[Tue Sep 24 17:12:33 2013]  say: ^0Darkquake is back!: yeah cool :)
+[Tue Sep 24 17:12:53 2013]  say: ^0Mystrey ^1Dark^0 Op: and the dinner table
+[Tue Sep 24 17:13:00 2013]  say: ^0Mystrey ^1Dark^0 Op: have u seen it
+[Tue Sep 24 17:13:10 2013]  say: ^0Darkquake is back!: oh right 
+[Tue Sep 24 17:13:12 2013]  say: ^0Darkquake is back!: awesome :p
+[Tue Sep 24 17:13:18 2013]  say: ^0Darkquake is back!: sry haven't really walked around here
+[Tue Sep 24 17:13:22 2013]  say: ^0Mystrey ^1Dark^0 Op: oh
+[Tue Sep 24 17:13:25 2013]  say: ^0Darkquake is back!: I was focused on the map obs
+[Tue Sep 24 17:13:30 2013]  say: ^0Mystrey ^1Dark^0 Op: and the rooms
+[Tue Sep 24 17:13:39 2013]  say: ^0Mystrey ^1Dark^0 Op: well beds
+[Tue Sep 24 17:13:49 2013]  say: ^0Darkquake is back!: you can put walls around them :)
+[Tue Sep 24 17:13:53 2013]  say: ^0Darkquake is back!: and spread them out
+[Tue Sep 24 17:13:58 2013]  say: ^0Mystrey ^1Dark^0 Op: is there a time limit?
+[Tue Sep 24 17:14:01 2013]  say: ^0Darkquake is back!: One sec I'll check something
+[Tue Sep 24 17:14:04 2013]  say: ^0Darkquake is back!: yeah I made it 60
+[Tue Sep 24 17:14:13 2013]  say: ^0Darkquake is back!: press esc and click about to check the timelimit
+[Tue Sep 24 17:14:14 2013]  say: ^0Mystrey ^1Dark^0 Op: i dident see it i wasent looking
+[Tue Sep 24 17:14:30 2013]  say: ^0Darkquake is back!: nice so mapobs retains all the object properties
+[Tue Sep 24 17:14:45 2013]  say: ^0Darkquake is back!: i think
+[Tue Sep 24 17:15:17 2013]  say: ^0Darkquake is back!: sry can I restart to check that it loads mapobs correctly?
+[Tue Sep 24 17:15:40 2013]  say: ^0Darkquake is back!: this won't take long
+[Tue Sep 24 17:15:43 2013]  say: ^0Mystrey ^1Dark^0 Op: k
+[Tue Sep 24 17:15:45 2013]  ShutdownGame:
+[Tue Sep 24 17:15:45 2013]  ------------------------------------------------------------
+[Tue Sep 24 17:15:45 2013]  ------------------------------------------------------------
+[Tue Sep 24 17:15:45 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 17:15:46 2013]  ClientConnect: 0
+[Tue Sep 24 17:15:46 2013]  ClientConnect: 1
+[Tue Sep 24 17:15:52 2013]  ClientBegin: 0
+[Tue Sep 24 17:15:52 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Tue Sep 24 17:15:57 2013]  ClientBegin: 1
+[Tue Sep 24 17:16:04 2013]  say: ^0Darkquake is back!: ok cool
+[Tue Sep 24 17:16:10 2013]  say: ^0Darkquake is back!: but I can still select them
+[Tue Sep 24 17:16:23 2013]  say: ^0Darkquake is back!: anyway the switch works :)
+[Tue Sep 24 17:16:30 2013]  say: ^0Mystrey ^1Dark^0 Op: what  switch
+[Tue Sep 24 17:16:33 2013]  say: ^0Darkquake is back!: that proves you can place fancy doors etc in your base
+[Tue Sep 24 17:16:36 2013]  say: ^0Mystrey ^1Dark^0 Op: oh that oe
+[Tue Sep 24 17:16:44 2013]  say: ^0Darkquake is back!: and they'll save with the map
+[Tue Sep 24 17:16:57 2013]  say: ^0Mystrey ^1Dark^0 Op: is your true name daniel
+[Tue Sep 24 17:17:01 2013]  say: ^0Darkquake is back!: yeah
+[Tue Sep 24 17:17:07 2013]  say: ^0Mystrey ^1Dark^0 Op: WOW
+[Tue Sep 24 17:17:19 2013]  say: ^0Mystrey ^1Dark^0 Op: MY NAME IS THE SAME :))))):))
+[Tue Sep 24 17:17:27 2013]  say: ^0Darkquake is back!: oh awesome! :D
+[Tue Sep 24 17:17:42 2013]  say: ^0Darkquake is back!: alright well I'm gonna have a bite to eat and maybe play some SWTOR instead
+[Tue Sep 24 17:17:46 2013]  say: ^0Darkquake is back!: but I'll leave the server up
+[Tue Sep 24 17:17:55 2013]  say: ^0Mystrey ^1Dark^0 Op: K
+[Tue Sep 24 17:17:57 2013]  say: ^0Darkquake is back!: and you can keep adding to the base and I'll keep saving it to mapobs :)
+[Tue Sep 24 17:18:17 2013]  say: ^0Mystrey ^1Dark^0 Op: Im finished
+[Tue Sep 24 17:18:37 2013]  say: ^0Darkquake is back!: Oh right, well I'm sure some ideas will come to you
+[Tue Sep 24 17:18:40 2013]  say: ^0Darkquake is back!: like proper doors etc
+[Tue Sep 24 17:18:43 2013]  say: ^0Mystrey ^1Dark^0 Op: u should make a little house or that house you have to the map
+[Tue Sep 24 17:19:01 2013]  say: ^0Darkquake is back!: well I can improve this one
+[Tue Sep 24 17:19:05 2013]  say: ^0Darkquake is back!: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Tue Sep 24 17:19:09 2013]  say: ^0Darkquake is back!: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Tue Sep 24 17:19:21 2013]  say: ^0Mystrey ^1Dark^0 Op: i forgot my house code
+[Tue Sep 24 17:19:28 2013]  say: ^0Mystrey ^1Dark^0 Op: let me see to show u my house
+[Tue Sep 24 17:19:43 2013]  say: ^0Mystrey ^1Dark^0 Op: done
+[Tue Sep 24 17:19:47 2013]  say: ^0Mystrey ^1Dark^0 Op: My origin is: (-5514 -19510 1653) - You can teleport here with /mtelelast
+
+[Tue Sep 24 17:20:03 2013]  say: ^0Mystrey ^1Dark^0 Op: it should open
+[Tue Sep 24 17:20:10 2013]  say: ^0Darkquake is back!: ohh right
+[Tue Sep 24 17:20:14 2013]  say: ^0Darkquake is back!: cool
+[Tue Sep 24 17:20:31 2013]  say: ^0Mystrey ^1Dark^0 Op: its house yay
+[Tue Sep 24 17:20:41 2013]  say: ^0Mystrey ^1Dark^0 Op: no caps
+[Tue Sep 24 17:20:41 2013]  say: ^0Darkquake is back!: yeah they look great with the new textures :D
+[Tue Sep 24 17:21:14 2013]  say: ^0Darkquake is back!: ^^
+[Tue Sep 24 17:21:17 2013]  say: ^0Mystrey ^1Dark^0 Op: nice car
+[Tue Sep 24 17:21:29 2013]  say: ^0Mystrey ^1Dark^0 Op: im going to make a ship now
+[Tue Sep 24 17:21:34 2013]  say: ^0Darkquake is back!: ok sure
+[Tue Sep 24 17:21:54 2013]  say: ^0Darkquake is back!: Well yeah I'll probly leave now
+[Tue Sep 24 17:21:58 2013]  say: ^0Darkquake is back!: but keep adding things :)
+[Tue Sep 24 17:21:58 2013]  say: ^0Mystrey ^1Dark^0 Op: ok bb
+[Tue Sep 24 17:22:02 2013]  say: ^0Darkquake is back!: bye hf
+[Tue Sep 24 17:22:07 2013]  ClientDisconnect: 0
+[Tue Sep 24 17:22:48 2013]  say: ^0Mystrey ^1Dark^0 Op: leave u for a sec or min to download some thing see ya in a min
+[Tue Sep 24 17:22:51 2013]  ClientDisconnect: 1
+[Tue Sep 24 17:28:15 2013]  ClientConnect: 0
+[Tue Sep 24 17:28:15 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 109.152.1.113:29070 
+[Tue Sep 24 17:28:49 2013]  ClientBegin: 0
+[Tue Sep 24 17:30:06 2013]  say: ^0Mystrey ^1Dark^0 Op: ^0Tie-Sparks ^1by ^4Frozen^7Sparky
+[Tue Sep 24 17:31:31 2013]  say: ^0Mystrey ^1Dark^0 Op: if quake comes server tell him im went to signle player
+[Tue Sep 24 17:31:34 2013]  ClientDisconnect: 0
+[Tue Sep 24 18:10:01 2013]  ClientConnect: 0
+[Tue Sep 24 18:10:01 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 109.152.1.113:29070 
+[Tue Sep 24 18:10:37 2013]  ClientBegin: 0
+[Tue Sep 24 18:10:51 2013]  say: ^0Mystrey ^1Dark^0 Op: ok quake
+[Tue Sep 24 18:10:55 2013]  say: ^0Mystrey ^1Dark^0 Op: or server
+[Tue Sep 24 18:15:39 2013]  print "^0Mystrey ^1Dark^0 Op^7 @@@PLRENAME ^5S^0K^4Y Pl^0ays.........
+"[Tue Sep 24 18:15:44 2013]  Exit: Timelimit hit.
+[Tue Sep 24 18:15:44 2013]  score: 0  ping: 36  client: 0 ^5S^0K^4Y Pl^0ays.........
+[Tue Sep 24 18:16:17 2013]  print "^5S^0K^4Y Pl^0ays.........^7 @@@PLRENAME ^5^4D^5a^0n ^4Pla^0ys Star
+"[Tue Sep 24 18:16:17 2013]  ShutdownGame:
+[Tue Sep 24 18:16:17 2013]  ------------------------------------------------------------
+[Tue Sep 24 18:16:19 2013]  ------------------------------------------------------------
+[Tue Sep 24 18:16:19 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 24 18:16:20 2013]  ClientConnect: 0
+[Tue Sep 24 18:16:37 2013]  ClientBegin: 0
+[Tue Sep 24 18:17:10 2013]  Kill: 0 0 39: ^5^4D^5a^0n ^4Pla^0ys Star killed ^5^4D^5a^0n ^4Pla^0ys Star by MOD_SUICIDE
+[Tue Sep 24 18:17:10 2013]  setteam:  0 FREE SPECTATOR
+[Tue Sep 24 18:17:10 2013]  ClientBegin: 0
+[Tue Sep 24 18:17:20 2013]  setteam:  0 SPECTATOR FREE
+[Tue Sep 24 18:17:20 2013]  ClientBegin: 0
+[Tue Sep 24 18:17:20 2013]  print "^5^4D^5a^0n ^4Pla^0ys Star^7 @@@PLRENAME ^5^4D^5a^0n ^4Pla^0ys.....
+"[Tue Sep 24 18:17:26 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: hi all
+[Tue Sep 24 18:17:56 2013]  Kill: 0 0 39: ^5^4D^5a^0n ^4Pla^0ys..... killed ^5^4D^5a^0n ^4Pla^0ys..... by MOD_SUICIDE
+[Tue Sep 24 18:17:56 2013]  setteam:  0 FREE SPECTATOR
+[Tue Sep 24 18:17:56 2013]  ClientBegin: 0
+[Tue Sep 24 18:18:32 2013]  setteam:  0 SPECTATOR FREE
+[Tue Sep 24 18:18:32 2013]  ClientBegin: 0
+[Tue Sep 24 18:18:51 2013]  Kill: 1022 0 3: <world> killed ^5^4D^5a^0n ^4Pla^0ys..... by MOD_SABER
+[Tue Sep 24 18:20:17 2013]  Kill: 0 0 39: ^5^4D^5a^0n ^4Pla^0ys..... killed ^5^4D^5a^0n ^4Pla^0ys..... by MOD_SUICIDE
+[Tue Sep 24 18:20:17 2013]  setteam:  0 FREE SPECTATOR
+[Tue Sep 24 18:20:17 2013]  ClientBegin: 0
+[Tue Sep 24 18:21:12 2013]  setteam:  0 SPECTATOR FREE
+[Tue Sep 24 18:21:12 2013]  ClientBegin: 0
+[Tue Sep 24 18:52:53 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: why server
+[Tue Sep 24 18:53:07 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: i loved the t2_trip
+[Tue Sep 24 18:56:12 2013]  ClientConnect: 1
+[Tue Sep 24 18:56:12 2013]  mlog:Player MadBob, connected. With IP - 82.46.74.207:29070 
+[Tue Sep 24 18:57:10 2013]  ClientBegin: 1
+[Tue Sep 24 18:57:47 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^0Hello Dark_jedi
+[Tue Sep 24 18:57:52 2013]  say: Dark_Jedi: hi dans
+[Tue Sep 24 18:58:33 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: i cant belive this server is know staying on this map
+[Tue Sep 24 18:58:46 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: it said timelimit 0
+[Tue Sep 24 18:58:52 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: so its always on this map
+[Tue Sep 24 18:58:59 2013]  say: Dark_Jedi: i uploaded a map i created to daniel last nght
+[Tue Sep 24 18:59:19 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: daniel is darkquake
+[Tue Sep 24 18:59:23 2013]  say: Dark_Jedi: yup
+[Tue Sep 24 18:59:30 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: i have the same name
+[Tue Sep 24 18:59:35 2013]  say: Dark_Jedi: ok
+[Tue Sep 24 18:59:41 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: in true life my name is daniel aswell
+[Tue Sep 24 19:00:03 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: how do u block that
+[Tue Sep 24 19:00:20 2013]  say: Dark_Jedi: i dunno 
+[Tue Sep 24 19:00:25 2013]  Kill: 0 1 3: ^5^4D^5a^0n ^4Pla^0ys..... killed Dark_Jedi by MOD_SABER
+[Tue Sep 24 19:01:22 2013]  Kill: 0 1 3: ^5^4D^5a^0n ^4Pla^0ys..... killed Dark_Jedi by MOD_SABER
+[Tue Sep 24 19:01:44 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: for the sith
+[Tue Sep 24 19:02:00 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: die republic
+[Tue Sep 24 19:02:10 2013]  Kill: 0 1 3: ^5^4D^5a^0n ^4Pla^0ys..... killed Dark_Jedi by MOD_SABER
+[Tue Sep 24 19:02:17 2013]  say: Dark_Jedi: i die
+[Tue Sep 24 19:03:18 2013]  say: Dark_Jedi: do u have xfirew
+[Tue Sep 24 19:03:22 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: no why
+[Tue Sep 24 19:03:28 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: My origin is: (10757 -2891 -487) - You can teleport here with /mtelelast
+
+[Tue Sep 24 19:03:37 2013]  say: Dark_Jedi: you can see some of my other maps i made for sof2
+[Tue Sep 24 19:04:06 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: My origin is: (10684 -3174 -487) - You can teleport here with /mtelelast
+
+[Tue Sep 24 19:04:10 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: its my house
+[Tue Sep 24 19:04:27 2013]  say: Dark_Jedi: its ok im elporing this
+[Tue Sep 24 19:04:27 2013]  Kill: 0 0 39: ^5^4D^5a^0n ^4Pla^0ys..... killed ^5^4D^5a^0n ^4Pla^0ys..... by MOD_SUICIDE
+[Tue Sep 24 19:04:27 2013]  setteam:  0 FREE SPECTATOR
+[Tue Sep 24 19:04:27 2013]  ClientBegin: 0
+[Tue Sep 24 19:04:34 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: its not a lot
+[Tue Sep 24 19:04:37 2013]  setteam:  0 SPECTATOR FREE
+[Tue Sep 24 19:04:37 2013]  ClientBegin: 0
+[Tue Sep 24 19:04:41 2013]  say: Dark_Jedi: ik
+[Tue Sep 24 19:04:56 2013]  say: Dark_Jedi: how do these work]
+[Tue Sep 24 19:04:59 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: what
+[Tue Sep 24 19:05:05 2013]  say: Dark_Jedi: by the door
+[Tue Sep 24 19:05:21 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: smach the buttons
+[Tue Sep 24 19:05:26 2013]  say: Dark_Jedi: ik
+[Tue Sep 24 19:05:52 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: i was just going to rockett it lol
+[Tue Sep 24 19:06:14 2013]  say: Dark_Jedi: it could be a trap and the ropf squashes u
+[Tue Sep 24 19:07:13 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: what side are u?
+[Tue Sep 24 19:07:24 2013]  say: Dark_Jedi: daark
+[Tue Sep 24 19:07:30 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1Nice 
+[Tue Sep 24 19:07:35 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: I am ^1To
+[Tue Sep 24 19:07:44 2013]  say: Dark_Jedi: as name dark jedi would imply
+[Tue Sep 24 19:08:04 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: :) For The sith
+[Tue Sep 24 19:08:13 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Tue Sep 24 19:08:18 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^0SITH ^0APPRENTICE ^0CLOTHES!
+[Tue Sep 24 19:08:30 2013]  say: Dark_Jedi: im maulv3
+[Tue Sep 24 19:08:40 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: u look like kyle
+[Tue Sep 24 19:08:52 2013]  say: Dark_Jedi: server dont have the pk3s hen
+[Tue Sep 24 19:08:55 2013]  say: Dark_Jedi: then
+[Tue Sep 24 19:09:07 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: probly i have a few skins
+[Tue Sep 24 19:09:15 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: like DARTH MAGLUS
+[Tue Sep 24 19:09:21 2013]  say: Dark_Jedi: i have lots of files maps etc
+[Tue Sep 24 19:09:32 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: whats etc
+[Tue Sep 24 19:09:57 2013]  say: Dark_Jedi: it means and so on
+[Tue Sep 24 19:10:10 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: i can kill it
+[Tue Sep 24 19:10:12 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^0TRAP!
+[Tue Sep 24 19:10:14 2013]  say: Dark_Jedi: yup
+[Tue Sep 24 19:10:16 2013]  Kill: 1022 1 2: <world> killed Dark_Jedi by MOD_MELEE
+[Tue Sep 24 19:10:18 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: dont make it move
+[Tue Sep 24 19:10:22 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: damn
+[Tue Sep 24 19:10:25 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^0TRAP!
+[Tue Sep 24 19:10:34 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: there we go rancor DIE
+[Tue Sep 24 19:10:40 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: dead
+[Tue Sep 24 19:11:11 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: there
+[Tue Sep 24 19:11:51 2013]  say: Dark_Jedi: reminds me of a map in RTCW
+[Tue Sep 24 19:12:03 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ready
+[Tue Sep 24 19:12:06 2013]  say: Dark_Jedi: yup
+[Tue Sep 24 19:12:54 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: here
+[Tue Sep 24 19:13:05 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: stand on this
+[Tue Sep 24 19:13:13 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ther
+[Tue Sep 24 19:13:15 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: e
+[Tue Sep 24 19:13:16 2013]  Kill: 1022 1 38: <world> killed Dark_Jedi by MOD_FALLING
+[Tue Sep 24 19:13:21 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: rancor pit
+[Tue Sep 24 19:13:26 2013]  say: Dark_Jedi: i dead
+[Tue Sep 24 19:13:34 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: xp
+[Tue Sep 24 19:13:37 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: My origin is: (-964 -791 -103) - You can teleport here with /mtelelast
+
+[Tue Sep 24 19:13:41 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: do /mtelelast
+[Tue Sep 24 19:13:48 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: in cheat console
+[Tue Sep 24 19:15:11 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: dead
+[Tue Sep 24 19:15:12 2013]  Kill: 1022 1 2: <world> killed Dark_Jedi by MOD_MELEE
+[Tue Sep 24 19:15:38 2013]  Kill: 1022 1 2: <world> killed Dark_Jedi by MOD_MELEE
+[Tue Sep 24 19:16:22 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^0TRAP!
+[Tue Sep 24 19:16:43 2013]  say: Dark_Jedi: the beasts look restless
+[Tue Sep 24 19:16:49 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: yeah
+[Tue Sep 24 19:17:23 2013]  Kill: 1022 1 2: <world> killed Dark_Jedi by MOD_MELEE
+[Tue Sep 24 19:17:32 2013]  say: Dark_Jedi: nom nom
+[Tue Sep 24 19:17:37 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: :)
+[Tue Sep 24 19:18:11 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FORCE DESTRUCTION!
+[Tue Sep 24 19:18:17 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FORCE DESTRUCTION!
+[Tue Sep 24 19:18:31 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FORCE DESTRUCTION!
+[Tue Sep 24 19:18:37 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FORCE DESTRUCTION!
+[Tue Sep 24 19:18:37 2013]  Kill: 1022 1 2: <world> killed Dark_Jedi by MOD_MELEE
+[Tue Sep 24 19:18:40 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FORCE DESTRUCTION!
+[Tue Sep 24 19:18:45 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: fuck
+[Tue Sep 24 19:18:51 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FORCE DESTRUCTION!
+[Tue Sep 24 19:19:00 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FORCE DESTRUCTION!
+[Tue Sep 24 19:19:10 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: strange
+[Tue Sep 24 19:19:21 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FORCE DESTRUCTION!
+[Tue Sep 24 19:19:22 2013]  say: Dark_Jedi: wat
+[Tue Sep 24 19:19:28 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FORCE DESTRUCTION!
+[Tue Sep 24 19:19:29 2013]  Kill: 0 1 0: ^5^4D^5a^0n ^4Pla^0ys..... killed Dark_Jedi by MOD_UNKNOWN
+[Tue Sep 24 19:19:57 2013]  Kill: 1022 1 2: <world> killed Dark_Jedi by MOD_MELEE
+[Tue Sep 24 19:20:18 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: the rancors will stop when there not hungry lol
+[Tue Sep 24 19:21:13 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FORCE DESTRUCTION!
+[Tue Sep 24 19:21:15 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FORCE DESTRUCTION!
+[Tue Sep 24 19:21:17 2013]  say: Dark_Jedi: how many slots max ?
+[Tue Sep 24 19:21:21 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: idk
+[Tue Sep 24 19:21:35 2013]  say: Dark_Jedi: i had over 500 slots once
+[Tue Sep 24 19:21:40 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: cool
+[Tue Sep 24 19:21:49 2013]  say: Dark_Jedi: then the server died big time
+[Tue Sep 24 19:21:54 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: come out jedi
+[Tue Sep 24 19:22:01 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FORCE DESTRUCTION!
+[Tue Sep 24 19:22:30 2013]  say: Dark_Jedi: did u have steam
+[Tue Sep 24 19:22:31 2013]  Kill: 0 1 3: ^5^4D^5a^0n ^4Pla^0ys..... killed Dark_Jedi by MOD_SABER
+[Tue Sep 24 19:22:35 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: no
+[Tue Sep 24 19:22:38 2013]  say: Dark_Jedi: okz
+[Tue Sep 24 19:23:02 2013]  say: Dark_Jedi: im gom#nna play the subway map i designed
+[Tue Sep 24 19:23:11 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: k
+[Tue Sep 24 19:23:17 2013]  say: Dark_Jedi: cya
+[Tue Sep 24 19:23:18 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ive made a lot of maps
+[Tue Sep 24 19:23:21 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: bb
+[Tue Sep 24 19:23:23 2013]  ClientDisconnect: 1
+[Tue Sep 24 19:23:27 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: but some are hard
+[Tue Sep 24 19:23:40 2013]  ClientDisconnect: 0
+[Wed Sep 25 01:37:11 2013]  ClientConnect: 0
+[Wed Sep 25 01:37:11 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Wed Sep 25 01:37:22 2013]  ClientBegin: 0
+[Wed Sep 25 01:37:22 2013]  say: ^0Darkquake is back!: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Wed Sep 25 02:15:58 2013]  ClientConnect: 1
+[Wed Sep 25 02:15:58 2013]  mlog:Player ^6SARAHMOON, connected. With IP - 97.127.179.191:29070 
+[Wed Sep 25 02:16:19 2013]  ClientBegin: 1
+[Wed Sep 25 02:17:00 2013]  say: ^6SARAHMOON: hi
+[Wed Sep 25 02:23:05 2013]  ClientDisconnect: 1
+[Wed Sep 25 02:30:58 2013]  ClientConnect: 1
+[Wed Sep 25 02:30:58 2013]  mlog:Player ^1M^7c^3W^7ooty^1(^3A^7dmin^1), connected. With IP - 71.163.225.237:29070 
+[Wed Sep 25 02:31:17 2013]  ClientBegin: 1
+[Wed Sep 25 02:31:17 2013]  say: V^0î^7§å^0g^7e^3: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Wed Sep 25 02:44:59 2013]  ClientDisconnect: 1
+[Wed Sep 25 03:37:26 2013]  ClientConnect: 1
+[Wed Sep 25 03:37:26 2013]  mlog:Player Flash, connected. With IP - 71.223.124.141:29070 
+[Wed Sep 25 03:38:14 2013]  ClientBegin: 1
+[Wed Sep 25 03:39:01 2013]  say: Flash: HI
+[Wed Sep 25 03:39:56 2013]  say: Flash: setforceall 10
+[Wed Sep 25 03:42:18 2013]  Kill: 1 1 39: Flash killed Flash by MOD_SUICIDE
+[Wed Sep 25 03:42:52 2013]  ClientConnect: 2
+[Wed Sep 25 03:42:52 2013]  mlog:Player Padawan, connected. With IP - 190.230.6.38:29070 
+[Wed Sep 25 03:43:07 2013]  ClientBegin: 2
+[Wed Sep 25 03:43:08 2013]  say: Padawan: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Wed Sep 25 03:43:11 2013]  say: Flash: hia
+[Wed Sep 25 03:43:23 2013]  say: Padawan: hi
+[Wed Sep 25 03:44:08 2013]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Sep 25 03:44:08 2013]  setteam:  2 FREE SPECTATOR
+[Wed Sep 25 03:44:08 2013]  ClientBegin: 2
+[Wed Sep 25 03:44:15 2013]  setteam:  2 SPECTATOR FREE
+[Wed Sep 25 03:44:15 2013]  ClientBegin: 2
+[Wed Sep 25 03:44:31 2013]  say: Padawan: (noclip
+[Wed Sep 25 03:49:00 2013]  say: Flash: setforceall 10
+[Wed Sep 25 03:50:02 2013]  Kill: 1022 1 2: <world> killed Flash by MOD_MELEE
+[Wed Sep 25 03:50:29 2013]  Kill: 1 0 5: Flash killed ^0Darkquake is back! by MOD_BRYAR_PISTOL_ALT
+[Wed Sep 25 03:50:30 2013]  tell: ^0Darkquake is back! to Flash: ^2^7Flash, ^7you killed me
+[Wed Sep 25 03:51:14 2013]  ClientConnect: 3
+[Wed Sep 25 03:51:14 2013]  mlog:Player coconut, connected. With IP - 71.223.124.141:1053 
+[Wed Sep 25 03:51:37 2013]  ClientBegin: 3
+[Wed Sep 25 03:51:51 2013]  say: coconut: helpusobi 1
+[Wed Sep 25 03:53:13 2013]  Kill: 2 0 3: Padawan killed ^0Darkquake is back! by MOD_SABER
+[Wed Sep 25 03:53:14 2013]  tell: ^0Darkquake is back! to Padawan: ^2^7Padawan, ^7you killed me
+[Wed Sep 25 03:54:26 2013]  Kill: 1 0 6: Flash killed ^0Darkquake is back! by MOD_BLASTER
+[Wed Sep 25 03:54:26 2013]  tell: ^0Darkquake is back! to Flash: ^2^7Flash, ^7you killed me
+[Wed Sep 25 03:55:15 2013]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Sep 25 03:55:15 2013]  setteam:  2 FREE SPECTATOR
+[Wed Sep 25 03:55:15 2013]  ClientBegin: 2
+[Wed Sep 25 03:55:17 2013]  say: Flash: playermodel kyle
+[Wed Sep 25 03:55:25 2013]  setteam:  2 SPECTATOR FREE
+[Wed Sep 25 03:55:25 2013]  ClientBegin: 2
+[Wed Sep 25 03:55:27 2013]  say: coconut: playermodel rancor
+[Wed Sep 25 03:56:08 2013]  Kill: 1 3 2: Flash killed coconut by MOD_MELEE
+[Wed Sep 25 03:57:06 2013]  Kill: 1022 3 39: <world> killed coconut by MOD_SUICIDE
+[Wed Sep 25 03:57:39 2013]  say: Flash: how do you get the empowerment?
+[Wed Sep 25 03:57:55 2013]  say: Flash: if i may ask
+[Wed Sep 25 03:58:00 2013]  say: Padawan: mempower
+[Wed Sep 25 03:58:12 2013]  say: Flash: thanks
+[Wed Sep 25 03:58:15 2013]  say: Padawan: np
+[Wed Sep 25 03:58:39 2013]  say: coconut: do you know the cheat to spawn ships
+[Wed Sep 25 03:59:18 2013]  Item: 1 weapon_blaster
+[Wed Sep 25 04:00:42 2013]  Kill: 1 3 31: Flash killed coconut by MOD_FORCE_DARK
+[Wed Sep 25 04:00:58 2013]  Item: 2 weapon_blaster
+[Wed Sep 25 04:00:58 2013]  Item: 2 weapon_blaster
+[Wed Sep 25 04:00:59 2013]  Item: 2 weapon_blaster
+[Wed Sep 25 04:01:00 2013]  Item: 2 weapon_blaster
+[Wed Sep 25 04:01:01 2013]  Item: 2 weapon_blaster
+[Wed Sep 25 04:01:02 2013]  Item: 2 weapon_blaster
+[Wed Sep 25 04:01:02 2013]  Item: 2 weapon_blaster
+[Wed Sep 25 04:01:02 2013]  Item: 1 weapon_blaster
+[Wed Sep 25 04:01:04 2013]  Item: 2 weapon_blaster
+[Wed Sep 25 04:01:05 2013]  Item: 2 weapon_blaster
+[Wed Sep 25 04:01:05 2013]  Item: 2 weapon_blaster
+[Wed Sep 25 04:04:40 2013]  Kill: 1 1 39: Flash killed Flash by MOD_SUICIDE
+[Wed Sep 25 04:04:40 2013]  setteam:  1 FREE SPECTATOR
+[Wed Sep 25 04:04:40 2013]  ClientBegin: 1
+[Wed Sep 25 04:04:49 2013]  setteam:  1 SPECTATOR FREE
+[Wed Sep 25 04:04:49 2013]  ClientBegin: 1
+[Wed Sep 25 04:06:11 2013]  Kill: 2 0 29: Padawan killed ^0Darkquake is back! by MOD_CONC
+[Wed Sep 25 04:06:12 2013]  tell: ^0Darkquake is back! to Padawan: ^2^7Padawan, ^7you killed me
+[Wed Sep 25 04:06:46 2013]  Kill: 1022 3 6: <world> killed coconut by MOD_BLASTER
+[Wed Sep 25 04:07:09 2013]  Item: 2 weapon_concussion_rifle
+[Wed Sep 25 04:09:20 2013]  Item: 1 weapon_blaster
+[Wed Sep 25 04:09:21 2013]  Item: 1 weapon_blaster
+[Wed Sep 25 04:10:40 2013]  Kill: 3 0 29: coconut killed ^0Darkquake is back! by MOD_CONC
+[Wed Sep 25 04:10:40 2013]  tell: ^0Darkquake is back! to coconut: ^2^7coconut, ^7you killed me
+[Wed Sep 25 04:12:33 2013]  Item: 1 weapon_concussion_rifle
+[Wed Sep 25 04:12:35 2013]  Item: 3 weapon_bowcaster
+[Wed Sep 25 04:12:47 2013]  Kill: 3 3 22: coconut killed coconut by MOD_ROCKET_HOMING_SPLASH
+[Wed Sep 25 04:12:51 2013]  Item: 2 weapon_rocket_launcher
+[Wed Sep 25 04:12:59 2013]  Item: 1 weapon_blaster
+[Wed Sep 25 04:13:34 2013]  Item: 1 weapon_flechette
+[Wed Sep 25 04:14:28 2013]  Item: 1 ammo_all
+[Wed Sep 25 04:15:46 2013]  Item: 1 weapon_blaster
+[Wed Sep 25 04:15:46 2013]  Item: 1 weapon_blaster
+[Wed Sep 25 04:16:20 2013]  Item: 1 weapon_blaster
+[Wed Sep 25 04:23:07 2013]  Item: 3 ammo_all
+[Wed Sep 25 04:23:15 2013]  Kill: 3 3 39: coconut killed coconut by MOD_SUICIDE
+[Wed Sep 25 04:26:20 2013]  Kill: 1022 2 2: <world> killed Padawan by MOD_MELEE
+[Wed Sep 25 04:28:10 2013]  Kill: 2 0 27: Padawan killed ^0Darkquake is back! by MOD_DET_PACK_SPLASH
+[Wed Sep 25 04:28:10 2013]  tell: ^0Darkquake is back! to Padawan: ^2^7Padawan, ^7you killed me
+[Wed Sep 25 04:30:30 2013]  Item: 1 weapon_blaster
+[Wed Sep 25 04:31:13 2013]  Item: 2 ammo_all
+[Wed Sep 25 04:31:18 2013]  Item: 3 ammo_all
+[Wed Sep 25 04:31:18 2013]  Kill: 2 0 29: Padawan killed ^0Darkquake is back! by MOD_CONC
+[Wed Sep 25 04:31:18 2013]  tell: ^0Darkquake is back! to Padawan: ^2^7Padawan, ^7you killed me
+[Wed Sep 25 04:32:09 2013]  Item: 2 ammo_all
+[Wed Sep 25 04:34:31 2013]  ClientConnect: 4
+[Wed Sep 25 04:34:31 2013]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.247.110:29070 
+[Wed Sep 25 04:35:13 2013]  ClientBegin: 4
+[Wed Sep 25 04:35:17 2013]  tell: Flash to ^0Darkquake is back!: hi
+[Wed Sep 25 04:35:48 2013]  Kill: 2 4 10: Padawan killed ^7»^0Exo^1Ð^0us^7« by MOD_DISRUPTOR_SNIPER
+[Wed Sep 25 04:38:03 2013]  say: ^7»^0Exo^1Ð^0us^7«: sorry, went shaving while i was connecting in
+[Wed Sep 25 04:38:03 2013]  Kill: 1 1 39: Flash killed Flash by MOD_SUICIDE
+[Wed Sep 25 04:38:03 2013]  setteam:  1 FREE SPECTATOR
+[Wed Sep 25 04:38:03 2013]  ClientBegin: 1
+[Wed Sep 25 04:38:10 2013]  setteam:  1 SPECTATOR FREE
+[Wed Sep 25 04:38:10 2013]  ClientBegin: 1
+[Wed Sep 25 04:39:50 2013]  Kill: 4 0 37: ^7»^0Exo^1Ð^0us^7« killed ^0Darkquake is back! by MOD_TELEFRAG
+[Wed Sep 25 04:39:50 2013]  tell: ^0Darkquake is back! to ^7»^0Exo^1Ð^0us^7«: ^2^7^7»^0Exo^1Ð^0us^7«, ^7you killed me
+[Wed Sep 25 04:40:21 2013]  ClientConnect: 5
+[Wed Sep 25 04:40:21 2013]  mlog:Player ^1Emperor^0Palpatine-[OTF], connected. With IP - 31.162.58.218:29070 
+[Wed Sep 25 04:40:45 2013]  ClientBegin: 5
+[Wed Sep 25 04:40:46 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Wed Sep 25 04:40:50 2013]  Kill: 1022 2 0: <world> killed Padawan by MOD_UNKNOWN
+[Wed Sep 25 04:40:51 2013]  say: ^1Emperor^0Palpatine-[OTF]: hi
+[Wed Sep 25 04:40:52 2013]  say: Flash: hi
+[Wed Sep 25 04:40:53 2013]  Item: 3 weapon_bowcaster
+[Wed Sep 25 04:41:12 2013]  Kill: 4 1 0: ^7»^0Exo^1Ð^0us^7« killed Flash by MOD_UNKNOWN
+[Wed Sep 25 04:41:14 2013]  say: ^1Emperor^0Palpatine-[OTF]: Wow
+[Wed Sep 25 04:41:32 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Wed Sep 25 04:41:48 2013]  say: ^7»^0Exo^1Ð^0us^7«: My gun can insta-kill most regular players in one shot :P
+[Wed Sep 25 04:41:50 2013]  say: Flash: how did you do that?
+[Wed Sep 25 04:41:57 2013]  say: ^7»^0Exo^1Ð^0us^7«: its a makermod ability
+[Wed Sep 25 04:41:59 2013]  Kill: 4 2 0: ^7»^0Exo^1Ð^0us^7« killed Padawan by MOD_UNKNOWN
+[Wed Sep 25 04:42:06 2013]  say: Flash: cool
+[Wed Sep 25 04:42:16 2013]  Kill: 4 0 8: ^7»^0Exo^1Ð^0us^7« killed ^0Darkquake is back! by MOD_DISRUPTOR
+[Wed Sep 25 04:42:16 2013]  tell: ^0Darkquake is back! to ^7»^0Exo^1Ð^0us^7«: ^2^7^7»^0Exo^1Ð^0us^7«, ^7you killed me
+[Wed Sep 25 04:42:20 2013]  say: ^1Emperor^0Palpatine-[OTF]: lol
+[Wed Sep 25 04:42:27 2013]  say: ^7»^0Exo^1Ð^0us^7«: i didnt use it that time lol
+[Wed Sep 25 04:42:32 2013]  Kill: 3 3 39: coconut killed coconut by MOD_SUICIDE
+[Wed Sep 25 04:42:34 2013]  say: ^7»^0Exo^1Ð^0us^7«: spec me and look at my hp
+[Wed Sep 25 04:42:40 2013]  say: Flash: how does it do it?
+[Wed Sep 25 04:42:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: just trust me lol
+[Wed Sep 25 04:42:44 2013]  Kill: 3 3 39: coconut killed coconut by MOD_SUICIDE
+[Wed Sep 25 04:42:50 2013]  say: ^7»^0Exo^1Ð^0us^7«: and its /minfo, to learn how to use makermod
+[Wed Sep 25 04:42:56 2013]  say: coconut: MEMPOWER
+[Wed Sep 25 04:43:00 2013]  say: ^7»^0Exo^1Ð^0us^7«: lawl.
+[Wed Sep 25 04:43:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: do /team spectate and look through my screen
+[Wed Sep 25 04:43:43 2013]  Kill: 1 1 39: Flash killed Flash by MOD_SUICIDE
+[Wed Sep 25 04:43:43 2013]  setteam:  1 FREE SPECTATOR
+[Wed Sep 25 04:43:43 2013]  ClientBegin: 1
+[Wed Sep 25 04:43:49 2013]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Sep 25 04:43:49 2013]  setteam:  2 FREE SPECTATOR
+[Wed Sep 25 04:43:49 2013]  ClientBegin: 2
+[Wed Sep 25 04:43:50 2013]  say: ^1Emperor^0Palpatine-[OTF]: lol
+[Wed Sep 25 04:43:52 2013]  say: ^7»^0Exo^1Ð^0us^7«: now look at my hp
+[Wed Sep 25 04:43:56 2013]  say: Flash: nice
+[Wed Sep 25 04:44:03 2013]  say: Flash: undying right?
+[Wed Sep 25 04:44:05 2013]  say: ^7»^0Exo^1Ð^0us^7«: i'm only mostly immortal lol
+[Wed Sep 25 04:44:07 2013]  say: ^7»^0Exo^1Ð^0us^7«: undying is sp
+[Wed Sep 25 04:44:08 2013]  say: ^7»^0Exo^1Ð^0us^7«: not mp
+[Wed Sep 25 04:44:14 2013]  say: Flash: ah
+[Wed Sep 25 04:44:15 2013]  say: ^7»^0Exo^1Ð^0us^7«: its a makermod-only glitch lol
+[Wed Sep 25 04:44:23 2013]  say: ^7»^0Exo^1Ð^0us^7«: lemme show you makermod's potential
+[Wed Sep 25 04:44:29 2013]  say: Flash: so how do you use the makermod?
+[Wed Sep 25 04:44:32 2013]  say: Flash: wow
+[Wed Sep 25 04:44:40 2013]  say: ^7»^0Exo^1Ð^0us^7«: fuck. the server has too many obs spawned
+[Wed Sep 25 04:44:53 2013]  say: ^7»^0Exo^1Ð^0us^7«: damn it darkquake, you built too many objects for the spawn area >_>
+[Wed Sep 25 04:44:53 2013]  say: Flash: so how do you use it?
+[Wed Sep 25 04:45:00 2013]  say: ^7»^0Exo^1Ð^0us^7«: do /minfo and read
+[Wed Sep 25 04:45:05 2013]  say: ^7»^0Exo^1Ð^0us^7«: its how i learned
+[Wed Sep 25 04:45:07 2013]  say: ^7»^0Exo^1Ð^0us^7«: watch this:
+[Wed Sep 25 04:45:16 2013]  say: Flash: cool
+[Wed Sep 25 04:45:24 2013]  Kill: 5 0 3: ^1Emperor^0Palpatine-[OTF] killed ^0Darkquake is back! by MOD_SABER
+[Wed Sep 25 04:45:24 2013]  tell: ^0Darkquake is back! to ^1Emperor^0Palpatine-[OTF]: ^2^7^1Emperor^0Palpatine-[OTF], ^7you killed me
+[Wed Sep 25 04:45:24 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^0Darkquake is back!: ^2^7^0Darkquake is back!, ^7I killed 113 people in total
+[Wed Sep 25 04:45:38 2013]  setteam:  1 SPECTATOR FREE
+[Wed Sep 25 04:45:38 2013]  ClientBegin: 1
+[Wed Sep 25 04:45:48 2013]  say: ^7»^0Exo^1Ð^0us^7«: lawl.
+[Wed Sep 25 04:45:54 2013]  say: ^1Emperor^0Palpatine-[OTF]: Where rancor?
+[Wed Sep 25 04:45:55 2013]  say: Flash: minfo playcing
+[Wed Sep 25 04:46:07 2013]  say: ^7»^0Exo^1Ð^0us^7«: placing*, and do it with the /
+[Wed Sep 25 04:46:09 2013]  setteam:  2 SPECTATOR FREE
+[Wed Sep 25 04:46:09 2013]  ClientBegin: 2
+[Wed Sep 25 04:46:12 2013]  say: ^7»^0Exo^1Ð^0us^7«: i killed the rancor
+[Wed Sep 25 04:46:14 2013]  say: ^7»^0Exo^1Ð^0us^7«: my apologies.
+[Wed Sep 25 04:46:17 2013]  say: ^1Emperor^0Palpatine-[OTF]: NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[Wed Sep 25 04:46:22 2013]  say: ^1Emperor^0Palpatine-[OTF]: xD
+[Wed Sep 25 04:46:37 2013]  say: ^7»^0Exo^1Ð^0us^7«: fuck
+[Wed Sep 25 04:46:39 2013]  say: ^7»^0Exo^1Ð^0us^7«: i'm stuck
+[Wed Sep 25 04:46:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: fixed.
+[Wed Sep 25 04:46:58 2013]  say: coconut: how do you tele
+[Wed Sep 25 04:47:01 2013]  say: ^7»^0Exo^1Ð^0us^7«: /mtele
+[Wed Sep 25 04:47:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: but its mostly admin based
+[Wed Sep 25 04:47:26 2013]  say: ^7»^0Exo^1Ð^0us^7«: you can use /msayorigin to state where you are and others can come to you
+[Wed Sep 25 04:47:45 2013]  say: coconut: silly rancors are trying o eat me
+[Wed Sep 25 04:47:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: use /notarget
+[Wed Sep 25 04:47:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: makes you invisible to npc's
+[Wed Sep 25 04:48:04 2013]  say: coconut: I'm on noclip
+[Wed Sep 25 04:48:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: he can still get you in noclip
+[Wed Sep 25 04:48:19 2013]  say: coconut: they did
+[Wed Sep 25 04:48:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: :P
+[Wed Sep 25 04:48:26 2013]  say: Padawan: god
+[Wed Sep 25 04:48:28 2013]  say: coconut: I'm still floating about
+[Wed Sep 25 04:48:31 2013]  Kill: 1022 2 2: <world> killed Padawan by MOD_MELEE
+[Wed Sep 25 04:48:31 2013]  say: ^7»^0Exo^1Ð^0us^7«: admin only, padawan
+[Wed Sep 25 04:48:42 2013]  say: ^7»^0Exo^1Ð^0us^7«: or not.
+[Wed Sep 25 04:48:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: hmm.
+[Wed Sep 25 04:48:49 2013]  say: Padawan: it works
+[Wed Sep 25 04:48:53 2013]  say: ^7»^0Exo^1Ð^0us^7«: dark, if you can hear this you may want to make it admin only
+[Wed Sep 25 04:48:56 2013]  say: ^7»^0Exo^1Ð^0us^7«: trust me. ._.
+[Wed Sep 25 04:49:05 2013]  Kill: 3 3 39: coconut killed coconut by MOD_SUICIDE
+[Wed Sep 25 04:49:07 2013]  Kill: 1022 5 2: <world> killed ^1Emperor^0Palpatine-[OTF] by MOD_MELEE
+[Wed Sep 25 04:49:12 2013]  say: Flash: whats wrong with it?
+[Wed Sep 25 04:49:21 2013]  say: ^7»^0Exo^1Ð^0us^7«: let's say there's a noob that comes in
+[Wed Sep 25 04:49:31 2013]  say: ^7»^0Exo^1Ð^0us^7«: and starts placing REALLY laggy explosions in the server
+[Wed Sep 25 04:49:37 2013]  say: Flash: ah
+[Wed Sep 25 04:49:38 2013]  say: ^7»^0Exo^1Ð^0us^7«: he has godmode on, so no one but admins cankill him
+[Wed Sep 25 04:49:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: but, no admins are on
+[Wed Sep 25 04:49:48 2013]  say: ^7»^0Exo^1Ð^0us^7«: therefore, everyone's fucked.
+[Wed Sep 25 04:49:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: etc. :P
+[Wed Sep 25 04:49:53 2013]  Kill: 1022 2 2: <world> killed Padawan by MOD_MELEE
+[Wed Sep 25 04:50:03 2013]  say: ^7»^0Exo^1Ð^0us^7«: or someone like me. I can rape all of you if i wanted, and you couldnt kill me
+[Wed Sep 25 04:50:07 2013]  say: ^7»^0Exo^1Ð^0us^7«: thus, abuse of makermod
+[Wed Sep 25 04:50:11 2013]  say: Padawan: but u can kill people with god mode on
+[Wed Sep 25 04:50:14 2013]  say: ^7»^0Exo^1Ð^0us^7«: so yeah, /god is normally admin based lol
+[Wed Sep 25 04:50:29 2013]  say: ^7»^0Exo^1Ð^0us^7«: that's the point, padawan, /god is abusive when it needs to be
+[Wed Sep 25 04:50:29 2013]  say: Flash: you killed me with god mode on
+[Wed Sep 25 04:50:36 2013]  say: coconut: poor rancors
+[Wed Sep 25 04:50:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: on a brighter note, those who cant protect themselves can use /god if its enabled
+[Wed Sep 25 04:50:44 2013]  Kill: 1 1 39: Flash killed Flash by MOD_SUICIDE
+[Wed Sep 25 04:50:44 2013]  setteam:  1 FREE SPECTATOR
+[Wed Sep 25 04:50:44 2013]  ClientBegin: 1
+[Wed Sep 25 04:50:46 2013]  say: Padawan: u kill me two times and i was /god on
+[Wed Sep 25 04:50:48 2013]  say: ^7»^0Exo^1Ð^0us^7«: thus finishing the abuse
+[Wed Sep 25 04:50:56 2013]  setteam:  1 SPECTATOR FREE
+[Wed Sep 25 04:50:56 2013]  ClientBegin: 1
+[Wed Sep 25 04:50:57 2013]  ClientDisconnect: 5
+[Wed Sep 25 04:50:58 2013]  say: ^7»^0Exo^1Ð^0us^7«: yeah, here's how:
+[Wed Sep 25 04:51:02 2013]  say: ^7»^0Exo^1Ð^0us^7«: /mtouchable;mkillsw
+[Wed Sep 25 04:51:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: kills those in /god mode
+[Wed Sep 25 04:51:12 2013]  say: ^7»^0Exo^1Ð^0us^7«: its quite nifty lol
+[Wed Sep 25 04:51:25 2013]  Kill: 4 1 37: ^7»^0Exo^1Ð^0us^7« killed Flash by MOD_TELEFRAG
+[Wed Sep 25 04:51:29 2013]  say: ^7»^0Exo^1Ð^0us^7«: sorry x.x
+[Wed Sep 25 04:51:34 2013]  say: Flash: np
+[Wed Sep 25 04:51:37 2013]  say: ^7»^0Exo^1Ð^0us^7«: i just meant to go to you lmfao
+[Wed Sep 25 04:51:48 2013]  say: ^7»^0Exo^1Ð^0us^7«: watch this, padawan
+[Wed Sep 25 04:51:58 2013]  say: ^7»^0Exo^1Ð^0us^7«: do /notarget
+[Wed Sep 25 04:52:08 2013]  say: Padawan: done
+[Wed Sep 25 04:52:19 2013]  say: ^7»^0Exo^1Ð^0us^7«: one hit and she'll die
+[Wed Sep 25 04:52:30 2013]  say: Padawan: kill rancor
+[Wed Sep 25 04:52:31 2013]  say: coconut: how do you control where you tele to
+[Wed Sep 25 04:52:34 2013]  say: Padawan: wiht one hit
+[Wed Sep 25 04:52:37 2013]  say: ^7»^0Exo^1Ð^0us^7«: you cant
+[Wed Sep 25 04:52:47 2013]  say: ^7»^0Exo^1Ð^0us^7«: and i'll show you how to kill a rancor in makermod in ''one hit''
+[Wed Sep 25 04:52:53 2013]  say: Padawan: it would be cool in lugormod
+[Wed Sep 25 04:53:13 2013]  say: ^7»^0Exo^1Ð^0us^7«: watch the rancor
+[Wed Sep 25 04:53:27 2013]  say: ^7»^0Exo^1Ð^0us^7«: hmm, its bugging out
+[Wed Sep 25 04:53:27 2013]  say: ^7»^0Exo^1Ð^0us^7«: hold on
+[Wed Sep 25 04:53:42 2013]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Sep 25 04:53:54 2013]  say: ^7»^0Exo^1Ð^0us^7«: ah, i see
+[Wed Sep 25 04:54:03 2013]  say: ^7»^0Exo^1Ð^0us^7«: mutants  have a different world model than regulars
+[Wed Sep 25 04:54:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: so my trick wont work.
+[Wed Sep 25 04:55:09 2013]  say: Padawan: he die
+[Wed Sep 25 04:55:19 2013]  say: coconut: mscaleme
+[Wed Sep 25 04:55:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: you did /npc kill all
+[Wed Sep 25 04:55:28 2013]  say: Padawan: how u know
+[Wed Sep 25 04:55:30 2013]  say: ^7»^0Exo^1Ð^0us^7«: /mscaleme <custom number>
+[Wed Sep 25 04:55:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: its simple
+[Wed Sep 25 04:55:36 2013]  say: ^7»^0Exo^1Ð^0us^7«: everyone knows npc kill all
+[Wed Sep 25 04:55:37 2013]  say: ^7»^0Exo^1Ð^0us^7«: lol
+[Wed Sep 25 04:55:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: admins can use /npc kill everything
+[Wed Sep 25 04:55:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: self-explanitory
+[Wed Sep 25 04:56:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: lemme show you a cool trick
+[Wed Sep 25 04:56:48 2013]  say: ^7»^0Exo^1Ð^0us^7«: i'll have to design it first
+[Wed Sep 25 04:56:55 2013]  say: ^7»^0Exo^1Ð^0us^7«: so dont mind me, just afk for a short while
+[Wed Sep 25 04:57:03 2013]  say: Padawan: k
+[Wed Sep 25 04:58:01 2013]  say: coconut: where are you exodus
+[Wed Sep 25 04:58:08 2013]  say: ^7»^0Exo^1Ð^0us^7«: i'm back
+[Wed Sep 25 04:58:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: and i'm near the duelers.
+[Wed Sep 25 04:58:19 2013]  say: Padawan: i cant hit u
+[Wed Sep 25 04:58:29 2013]  say: Flash: mscaleme .1
+[Wed Sep 25 04:58:37 2013]  say: Flash: try that
+[Wed Sep 25 04:58:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: watch this.
+[Wed Sep 25 04:58:48 2013]  say: ^7»^0Exo^1Ð^0us^7«: flash
+[Wed Sep 25 04:58:49 2013]  say: ^7»^0Exo^1Ð^0us^7«: look
+[Wed Sep 25 04:59:01 2013]  say: Flash: nice
+[Wed Sep 25 04:59:31 2013]  say: Flash: this is going nowhere
+[Wed Sep 25 04:59:31 2013]  say: coconut: I'm going to vanish you guys try and find me
+[Wed Sep 25 04:59:44 2013]  Kill: 1 1 39: Flash killed Flash by MOD_SUICIDE
+[Wed Sep 25 04:59:52 2013]  say: Flash: gf
+[Wed Sep 25 04:59:55 2013]  say: Padawan: gf
+[Wed Sep 25 04:59:56 2013]  Item: 2 ammo_all
+[Wed Sep 25 05:00:02 2013]  say: Padawan: how u go back
+[Wed Sep 25 05:00:07 2013]  say: Padawan: to real size
+[Wed Sep 25 05:00:08 2013]  say: ^7»^0Exo^1Ð^0us^7«: /mscaleme 1
+[Wed Sep 25 05:00:17 2013]  say: Padawan: thx
+[Wed Sep 25 05:00:26 2013]  say: ^7»^0Exo^1Ð^0us^7«: look, padawan
+[Wed Sep 25 05:00:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: i edited it to have sounds when i poof
+[Wed Sep 25 05:00:40 2013]  say: Padawan: where are  u
+[Wed Sep 25 05:00:42 2013]  say: ^7»^0Exo^1Ð^0us^7«: here.
+[Wed Sep 25 05:01:21 2013]  say: ^7»^0Exo^1Ð^0us^7«: instant mind trick lol
+[Wed Sep 25 05:01:34 2013]  say: ^7»^0Exo^1Ð^0us^7«: k flash
+[Wed Sep 25 05:01:35 2013]  say: ^7»^0Exo^1Ð^0us^7«: watch
+[Wed Sep 25 05:01:51 2013]  say: Padawan: im lost
+[Wed Sep 25 05:01:59 2013]  say: Flash: how?
+[Wed Sep 25 05:02:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: its called a script
+[Wed Sep 25 05:02:06 2013]  say: Padawan: near statue
+[Wed Sep 25 05:02:13 2013]  say: ^7»^0Exo^1Ð^0us^7«: if i can find the sound for the mindtrick, i'll use it
+[Wed Sep 25 05:02:15 2013]  say: ^7»^0Exo^1Ð^0us^7«: give me a moment
+[Wed Sep 25 05:02:23 2013]  say: Flash: i mean how the mind trick?
+[Wed Sep 25 05:02:30 2013]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Sep 25 05:02:30 2013]  setteam:  2 FREE SPECTATOR
+[Wed Sep 25 05:02:30 2013]  ClientBegin: 2
+[Wed Sep 25 05:02:31 2013]  say: ^7»^0Exo^1Ð^0us^7«: its /mplacefx
+[Wed Sep 25 05:02:32 2013]  say: coconut: try and find me exodus
+[Wed Sep 25 05:02:47 2013]  setteam:  2 SPECTATOR FREE
+[Wed Sep 25 05:02:47 2013]  ClientBegin: 2
+[Wed Sep 25 05:02:55 2013]  say: ^7»^0Exo^1Ð^0us^7«: hi
+[Wed Sep 25 05:03:17 2013]  say: coconut: tele's cheating
+[Wed Sep 25 05:03:24 2013]  say: ^7»^0Exo^1Ð^0us^7«: i can see you anyways
+[Wed Sep 25 05:03:27 2013]  say: ^7»^0Exo^1Ð^0us^7«: a little black dot xD
+[Wed Sep 25 05:03:31 2013]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Sep 25 05:03:31 2013]  setteam:  2 FREE SPECTATOR
+[Wed Sep 25 05:03:31 2013]  ClientBegin: 2
+[Wed Sep 25 05:03:40 2013]  setteam:  2 SPECTATOR FREE
+[Wed Sep 25 05:03:40 2013]  ClientBegin: 2
+[Wed Sep 25 05:03:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: kk, looking for a sound
+[Wed Sep 25 05:03:51 2013]  say: coconut: but if I were to go away you'd have trouble finding me
+[Wed Sep 25 05:04:45 2013]  say: ^7»^0Exo^1Ð^0us^7«: perhaps, assuming i were able to disable the plugin where i can see player names with hp bars floating above your heads lol
+[Wed Sep 25 05:04:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: your heads, lol*
+[Wed Sep 25 05:04:58 2013]  Kill: 1022 2 38: <world> killed Padawan by MOD_FALLING
+[Wed Sep 25 05:05:11 2013]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Sep 25 05:05:11 2013]  setteam:  2 FREE SPECTATOR
+[Wed Sep 25 05:05:11 2013]  ClientBegin: 2
+[Wed Sep 25 05:05:24 2013]  Kill: 1 0 1: Flash killed ^0Darkquake is back! by MOD_STUN_BATON
+[Wed Sep 25 05:05:25 2013]  tell: ^0Darkquake is back! to Flash: ^2^7Flash, ^7you killed me
+[Wed Sep 25 05:05:36 2013]  setteam:  2 SPECTATOR FREE
+[Wed Sep 25 05:05:36 2013]  ClientBegin: 2
+[Wed Sep 25 05:05:43 2013]  say: coconut: i thought that only happened when you looked at them
+[Wed Sep 25 05:06:16 2013]  ClientDisconnect: 2
+[Wed Sep 25 05:06:30 2013]  say: coconut: how do you control were you tele anyway
+[Wed Sep 25 05:08:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: flash, i've finished it :P
+[Wed Sep 25 05:08:49 2013]  say: Flash: what?
+[Wed Sep 25 05:08:55 2013]  say: Flash: oh yes just a sec
+[Wed Sep 25 05:09:36 2013]  Kill: 4 1 37: ^7»^0Exo^1Ð^0us^7« killed Flash by MOD_TELEFRAG
+[Wed Sep 25 05:09:36 2013]  Item: 4 weapon_rocket_launcher
+[Wed Sep 25 05:09:38 2013]  say: ^7»^0Exo^1Ð^0us^7«: ffs
+[Wed Sep 25 05:09:52 2013]  say: ^7»^0Exo^1Ð^0us^7«: i'm truly not intending to kill you xP
+[Wed Sep 25 05:09:55 2013]  say: Flash: np
+[Wed Sep 25 05:10:12 2013]  say: ^7»^0Exo^1Ð^0us^7«: i'm controlling where i teleport with a command you guys cannot use
+[Wed Sep 25 05:10:14 2013]  say: ^7»^0Exo^1Ð^0us^7«: /markp
+[Wed Sep 25 05:10:18 2013]  say: ^7»^0Exo^1Ð^0us^7«: marks where a player is
+[Wed Sep 25 05:10:24 2013]  say: ^7»^0Exo^1Ð^0us^7«: i have to use client numbers to do so
+[Wed Sep 25 05:10:33 2013]  say: ^7»^0Exo^1Ð^0us^7«: and its irritating, cause it can tele-kill
+[Wed Sep 25 05:10:38 2013]  say: ^7»^0Exo^1Ð^0us^7«: noclip, flash
+[Wed Sep 25 05:10:42 2013]  say: Flash: k
+[Wed Sep 25 05:10:52 2013]  say: ^7»^0Exo^1Ð^0us^7«: go into rancor arena
+[Wed Sep 25 05:10:54 2013]  say: ^7»^0Exo^1Ð^0us^7«: and find me
+[Wed Sep 25 05:11:00 2013]  say: ^7»^0Exo^1Ð^0us^7«: i'm just standing out here
+[Wed Sep 25 05:11:36 2013]  say: Flash: so i don't understand how you do it 
+[Wed Sep 25 05:11:44 2013]  say: Flash: the command makes no sense
+[Wed Sep 25 05:11:54 2013]  say: Flash: where are you?
+[Wed Sep 25 05:12:26 2013]  say: Flash: exodus?
+[Wed Sep 25 05:14:04 2013]  say: coconut: gtg bye
+[Wed Sep 25 05:14:07 2013]  ClientDisconnect: 3
+[Wed Sep 25 05:14:12 2013]  say: Flash: me too thanks
+[Wed Sep 25 05:14:20 2013]  ClientDisconnect: 1
+[Wed Sep 25 05:42:49 2013]  ClientConnect: 1
+[Wed Sep 25 05:42:49 2013]  mlog:Player F256, connected. With IP - 147.30.67.139:29070 
+[Wed Sep 25 05:42:56 2013]  ClientDisconnect: 1
+[Wed Sep 25 05:48:37 2013]  ClientConnect: 1
+[Wed Sep 25 05:48:37 2013]  mlog:Player F256, connected. With IP - 147.30.67.139:29070 
+[Wed Sep 25 05:48:44 2013]  ClientDisconnect: 1
+[Wed Sep 25 05:57:50 2013]  ClientConnect: 1
+[Wed Sep 25 05:57:50 2013]  mlog:Player Dark, connected. With IP - 217.118.91.63:-17643 
+[Wed Sep 25 05:58:18 2013]  ClientBegin: 1
+[Wed Sep 25 06:00:26 2013]  say: )^0<<{KOTR}>>Dark|ST|: êó
+[Wed Sep 25 06:01:18 2013]  Kill: 4 4 39: ^7»^0Exo^1Ð^0us^7« killed ^7»^0Exo^1Ð^0us^7« by MOD_SUICIDE
+[Wed Sep 25 06:01:18 2013]  setteam:  4 FREE SPECTATOR
+[Wed Sep 25 06:01:18 2013]  ClientBegin: 4
+[Wed Sep 25 06:01:25 2013]  say: )^0<<{KOTR}>>Dark|ST|: hi
+[Wed Sep 25 06:01:57 2013]  Item: 1 weapon_blaster
+[Wed Sep 25 06:02:42 2013]  ClientDisconnect: 1
+[Wed Sep 25 06:23:26 2013]  ClientConnect: 1
+[Wed Sep 25 06:23:26 2013]  mlog:Player ^1Dauren, connected. With IP - 147.30.67.139:29070 
+[Wed Sep 25 06:23:33 2013]  ClientDisconnect: 1
+[Wed Sep 25 07:51:59 2013]  ClientConnect: 1
+[Wed Sep 25 07:51:59 2013]  mlog:Player ^03^0sl^7^^0L^7u^0k^7e^0, connected. With IP - 86.102.24.60:29070 
+[Wed Sep 25 07:52:37 2013]  ClientBegin: 1
+[Wed Sep 25 07:52:51 2013]  say: Octanium: hi
+[Wed Sep 25 07:52:55 2013]  print "Octanium^7 @@@PLRENAME ^5Luke
+"[Wed Sep 25 07:54:03 2013]  ClientDisconnect: 1
+[Wed Sep 25 08:07:39 2013]  ClientConnect: 1
+[Wed Sep 25 08:07:39 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 109.152.1.113:29070 
+[Wed Sep 25 08:08:22 2013]  ClientBegin: 1
+[Wed Sep 25 08:08:31 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: hi everyone
+[Wed Sep 25 08:08:39 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: woa
+[Wed Sep 25 08:08:45 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: how long have u been here
+[Wed Sep 25 08:09:00 2013]  Kill: 1 1 39: ^5^4D^5a^0n ^4Pla^0ys..... killed ^5^4D^5a^0n ^4Pla^0ys..... by MOD_SUICIDE
+[Wed Sep 25 08:09:00 2013]  setteam:  1 FREE SPECTATOR
+[Wed Sep 25 08:09:00 2013]  ClientBegin: 1
+[Wed Sep 25 08:09:06 2013]  setteam:  1 SPECTATOR FREE
+[Wed Sep 25 08:09:06 2013]  ClientBegin: 1
+[Wed Sep 25 08:10:17 2013]  Kill: 1 0 3: ^5^4D^5a^0n ^4Pla^0ys..... killed ^0Darkquake is back! by MOD_SABER
+[Wed Sep 25 08:10:17 2013]  tell: ^0Darkquake is back! to ^5^4D^5a^0n ^4Pla^0ys.....: ^2^7^5^4D^5a^0n ^4Pla^0ys....., ^7you killed me
+[Wed Sep 25 08:10:24 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: hmm
+[Wed Sep 25 08:10:35 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: he is afk for sore
+[Wed Sep 25 08:13:53 2013]  ClientDisconnect: 4
+[Wed Sep 25 08:20:14 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: darkquake why are u keeping this server on this horrible map theres not a lot of mplace room maybe ill hack it maybe ill kill it u will see 
+[Wed Sep 25 08:20:17 2013]  ClientDisconnect: 1
+[Wed Sep 25 09:44:12 2013]  ClientConnect: 1
+[Wed Sep 25 09:44:12 2013]  mlog:Player Padawan, connected. With IP - 89.179.70.205:29070 
+[Wed Sep 25 09:44:35 2013]  ClientBegin: 1
+[Wed Sep 25 09:48:44 2013]  Kill: 1 0 3: Padawan killed ^0Darkquake is back! by MOD_SABER
+[Wed Sep 25 09:48:45 2013]  tell: ^0Darkquake is back! to Padawan: ^2^7Padawan, ^7you killed me
+[Wed Sep 25 09:49:57 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Sep 25 09:50:14 2013]  ClientDisconnect: 1
+[Wed Sep 25 09:54:58 2013]  ClientDisconnect: 0

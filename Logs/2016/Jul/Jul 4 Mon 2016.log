@@ -1,0 +1,95 @@
+[Mon Jul 04 16:55:58 2016]  ------------------------------------------------------------
+[Mon Jul 04 16:55:58 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Jul 04 17:22:40 2016]  ClientConnect: 0
+[Mon Jul 04 17:22:40 2016]  mlog:Player ^1S^0a^7va^0g3.3sl, connected. With IP - 93.100.5.72:29070 
+[Mon Jul 04 17:22:56 2016]  ClientBegin: 0
+[Mon Jul 04 17:33:52 2016]  ClientDisconnect: 0
+[Tue Jul 05 12:39:26 2016]  ClientConnect: 0
+[Tue Jul 05 12:39:26 2016]  mlog:Player Padawan, connected. With IP - 31.173.241.104:7543 
+[Tue Jul 05 12:40:02 2016]  ClientDisconnect: 0
+[Tue Jul 05 12:40:02 2016]  ClientConnect: 0
+[Tue Jul 05 12:40:02 2016]  mlog:Player Padawan, connected. With IP - 31.173.241.104:7543 
+[Tue Jul 05 12:40:37 2016]  ClientBegin: 0
+[Tue Jul 05 12:41:06 2016]  ClientDisconnect: 0
+[Tue Jul 05 16:19:19 2016]  ClientConnect: 0
+[Tue Jul 05 16:19:19 2016]  mlog:Player Padawan, connected. With IP - 124.13.48.30:29070 
+[Tue Jul 05 16:19:40 2016]  ClientBegin: 0
+[Tue Jul 05 16:23:17 2016]  print "^2A^0ndy^7 @@@PLRENAME ^2E^0xil^2e^0_^2A^0ndy
+"[Tue Jul 05 16:24:41 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5TELEPORT SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Tue Jul 05 16:25:32 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5TELEPORTING TO MY CROSSHAIR TARGET!
+[Tue Jul 05 16:25:35 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5TELEPORTING TO MY CROSSHAIR TARGET!
+[Tue Jul 05 16:25:46 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5TELEPORTING TO THE STARTING POINT!
+[Tue Jul 05 16:25:53 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5TELEPORTING TO THE LAST SAID ^5ORIGIN!
+[Tue Jul 05 16:26:02 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5TELEPORTING TO THE LAST SAID ^5ORIGIN!
+[Tue Jul 05 16:27:02 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^1KATON GOKAKYU NO JUTSU!
+[Tue Jul 05 16:27:19 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^1KATON HOSENKA!!
+[Tue Jul 05 16:27:30 2016]  Kill: 0 0 36: ^2E^0xil^2e^0_^2A^0ndy killed ^2E^0xil^2e^0_^2A^0ndy by MOD_CRUSH
+[Tue Jul 05 16:27:35 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5CHIDORI!!
+[Tue Jul 05 16:27:48 2016]  Kill: 0 0 39: ^2E^0xil^2e^0_^2A^0ndy killed ^2E^0xil^2e^0_^2A^0ndy by MOD_SUICIDE
+[Tue Jul 05 16:27:57 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5CHIDORI!!
+[Tue Jul 05 16:28:15 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^1KATON GOKAKYU NO JUTSU!
+[Tue Jul 05 16:28:25 2016]  Kill: 0 0 36: ^2E^0xil^2e^0_^2A^0ndy killed ^2E^0xil^2e^0_^2A^0ndy by MOD_CRUSH
+[Tue Jul 05 16:28:41 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^1KATON RYUKA NO JUTSU!!
+[Tue Jul 05 16:28:51 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^8Ahhhhh the Cursed Seal moves!!!!!
+[Tue Jul 05 16:29:03 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^8Ahhhhh the Cursed Seal moves!!!!!
+[Tue Jul 05 16:29:13 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^8AAHH the Seal takes me over!!!!!
+[Tue Jul 05 16:29:33 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5I am a Taijutsu Master!
+[Tue Jul 05 16:29:43 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5Recover Chakra!!
+[Tue Jul 05 16:29:48 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^1SHARINGAN!!
+[Tue Jul 05 16:32:26 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^1MANGEKYOU SHARINGAN!!
+[Tue Jul 05 16:32:47 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^1^^0AMATERASU!!!!!!!
+[Tue Jul 05 16:32:57 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^1^^0TSUKUYOMI!!!!!!
+[Tue Jul 05 16:34:04 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^1^0I haven't enough Chakra!
+[Tue Jul 05 16:34:10 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^1^0I haven't enough Chakra!
+[Tue Jul 05 16:37:13 2016]  ClientDisconnect: 0
+[Tue Jul 05 16:37:13 2016]  ClientConnect: 0
+[Tue Jul 05 16:37:13 2016]  mlog:Player ^2E^0xil^2e^0_^2A^0ndy, connected. With IP - 124.13.48.30:29070 
+[Tue Jul 05 16:37:24 2016]  ClientBegin: 0
+[Tue Jul 05 16:39:54 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^7CLONE ^3TROOPER ^6SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Tue Jul 05 16:40:08 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5Marking current position...
+[Tue Jul 05 16:40:09 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5Position marked
+[Tue Jul 05 16:40:17 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5Teleporting to my marked position...
+[Tue Jul 05 16:40:21 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5Follow me troops!
+[Tue Jul 05 16:40:26 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5Troops, move out!
+[Tue Jul 05 16:40:33 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^5Troops, attack the enemy!
+[Tue Jul 05 16:42:46 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2M^0arking current position...
+[Tue Jul 05 16:42:46 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2P^0osition marked
+[Tue Jul 05 16:42:51 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2T^0eleporting to my marked position...
+[Tue Jul 05 16:42:57 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2S^0tay Close!
+[Tue Jul 05 16:43:01 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2S^0pread out!
+[Tue Jul 05 16:43:05 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2H^0old!
+[Tue Jul 05 16:43:09 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2A^0dvance!
+[Tue Jul 05 16:47:43 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2R^0einforcement ^2I^0ncoming......
+[Tue Jul 05 16:47:50 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2S^0yncing ^2c^0urrent ^2p^0osition...
+[Tue Jul 05 16:47:51 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2P^0osition ^2m^0arked
+[Tue Jul 05 16:50:13 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2R^0einforcement ^2I^0ncoming......
+[Tue Jul 05 16:50:16 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2S^0yncing ^2C^0urrent ^2P^0osition...
+[Tue Jul 05 16:50:17 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2P^0osition ^2M^0arked
+[Tue Jul 05 16:50:21 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2T^0eleporting ^2T^0o ^2M^0arked ^2P^0osition...
+[Tue Jul 05 16:50:26 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2S^0tay Close!
+[Tue Jul 05 16:50:54 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2R^0einforcement ^2I^0ncoming......
+[Tue Jul 05 16:50:58 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2S^0tay ^2C^0lose!
+[Tue Jul 05 16:50:59 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2S^0pread ^2O^0ut!
+[Tue Jul 05 16:51:02 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2H^0old!
+[Tue Jul 05 16:51:03 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2A^0dvance!
+[Tue Jul 05 16:51:06 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^1^0I haven't enough Chakra!
+[Tue Jul 05 16:52:41 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2R^0einforcement ^2I^0ncoming......
+[Tue Jul 05 16:52:43 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^2M^0ission ^2S^0uccesfully
+[Tue Jul 05 16:53:18 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Tue Jul 05 16:57:42 2016]  Kill: 1022 0 0: <world> killed ^2E^0xil^2e^0_^2A^0ndy by MOD_UNKNOWN
+[Tue Jul 05 17:41:17 2016]  Kill: 1022 0 38: <world> killed ^2E^0xil^2e^0_^2A^0ndy by MOD_FALLING
+[Tue Jul 05 17:41:40 2016]  Item: 0 ammo_all
+[Tue Jul 05 18:03:55 2016]  Kill: 1022 0 0: <world> killed ^2E^0xil^2e^0_^2A^0ndy by MOD_UNKNOWN
+[Tue Jul 05 18:04:08 2016]  Kill: 1022 0 0: <world> killed ^2E^0xil^2e^0_^2A^0ndy by MOD_UNKNOWN
+[Tue Jul 05 18:04:14 2016]  Kill: 1022 0 0: <world> killed ^2E^0xil^2e^0_^2A^0ndy by MOD_UNKNOWN
+[Tue Jul 05 18:05:28 2016]  Kill: 1022 0 0: <world> killed ^2E^0xil^2e^0_^2A^0ndy by MOD_UNKNOWN
+[Tue Jul 05 18:05:39 2016]  Kill: 1022 0 0: <world> killed ^2E^0xil^2e^0_^2A^0ndy by MOD_UNKNOWN
+[Tue Jul 05 18:05:48 2016]  Kill: 1022 0 0: <world> killed ^2E^0xil^2e^0_^2A^0ndy by MOD_UNKNOWN
+[Tue Jul 05 18:06:04 2016]  Kill: 1022 0 0: <world> killed ^2E^0xil^2e^0_^2A^0ndy by MOD_UNKNOWN
+[Tue Jul 05 18:06:41 2016]  Kill: 1022 0 0: <world> killed ^2E^0xil^2e^0_^2A^0ndy by MOD_UNKNOWN
+[Tue Jul 05 18:06:49 2016]  Kill: 1022 0 0: <world> killed ^2E^0xil^2e^0_^2A^0ndy by MOD_UNKNOWN
+[Tue Jul 05 18:07:01 2016]  Kill: 1022 0 0: <world> killed ^2E^0xil^2e^0_^2A^0ndy by MOD_UNKNOWN
+[Tue Jul 05 18:07:25 2016]  say: ^2E^0xil^2e^0_^2A^0ndy: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Tue Jul 05 18:09:34 2016]  Kill: 1022 0 3: <world> killed ^2E^0xil^2e^0_^2A^0ndy by MOD_SABER
+[Tue Jul 05 18:15:33 2016]  ShutdownGame:
+[Tue Jul 05 18:15:33 2016]  ------------------------------------------------------------

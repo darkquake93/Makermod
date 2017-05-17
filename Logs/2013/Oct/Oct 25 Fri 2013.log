@@ -1,0 +1,81 @@
+[Fri Oct 25 20:36:38 2013]  ------------------------------------------------------------
+[Fri Oct 25 20:36:38 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Oct 25 20:36:40 2013]  ClientConnect: 0
+[Fri Oct 25 20:36:48 2013]  ClientBegin: 0
+[Fri Oct 25 20:38:38 2013]  Kill: 0 0 39: ^7jyinx killed ^7jyinx by MOD_SUICIDE
+[Fri Oct 25 20:42:10 2013]  Kill: 0 0 39: ^7jyinx killed ^7jyinx by MOD_SUICIDE
+[Fri Oct 25 20:42:17 2013]  Kill: 0 0 39: ^7jyinx killed ^7jyinx by MOD_SUICIDE
+[Fri Oct 25 20:42:29 2013]  Kill: 0 0 39: ^7jyinx killed ^7jyinx by MOD_SUICIDE
+[Fri Oct 25 20:44:24 2013]  Kill: 0 0 39: ^7jyinx killed ^7jyinx by MOD_SUICIDE
+[Fri Oct 25 20:53:30 2013]  ClientConnect: 1
+[Fri Oct 25 20:53:30 2013]  mlog:Player Padawan, connected. With IP - 79.100.96.163:29071 
+[Fri Oct 25 20:53:48 2013]  ClientBegin: 1
+[Fri Oct 25 20:53:59 2013]  say: Padawan: kapowie
+[Fri Oct 25 20:54:10 2013]  say: Padawan: I see
+[Fri Oct 25 20:56:02 2013]  ClientDisconnect: 0
+[Fri Oct 25 20:57:32 2013]  say: Padawan: hm :<
+[Fri Oct 25 20:57:48 2013]  say: Padawan: needs more proxymod
+[Fri Oct 25 20:58:19 2013]  print "Padawan^7 @@@PLRENAME ^0{^4LR^0}^5Not Dead Yet^7
+"[Fri Oct 25 20:59:53 2013]  ClientConnect: 0
+[Fri Oct 25 20:59:53 2013]  mlog:Player Padawan, connected. With IP - 79.100.96.163:29072 
+[Fri Oct 25 20:59:58 2013]  ClientBegin: 0
+[Fri Oct 25 20:59:59 2013]  say: ^6Pinkie Bot^7: ^6Pinkie Pie ^2is best pony.
+[Fri Oct 25 21:00:03 2013]  say: ^6Pinkie Bot^7: :D
+[Fri Oct 25 21:00:13 2013]  say: ^6Pinkie Bot^7: D:?
+[Fri Oct 25 21:00:36 2013]  ClientDisconnect: 1
+[Fri Oct 25 21:00:36 2013]  ClientConnect: 1
+[Fri Oct 25 21:00:36 2013]  mlog:Player ^0{^4LR^0}^5Not Dead Yet^7, connected. With IP - 79.100.96.163:29071 
+[Fri Oct 25 21:00:52 2013]  ClientBegin: 1
+[Fri Oct 25 21:01:08 2013]  Kill: 1 0 27: ^0{^4LR^0}^5Not Dead Yet^7 killed ^6Pinkie Bot^7 by MOD_DET_PACK_SPLASH
+[Fri Oct 25 21:01:59 2013]  Kill: 1 0 3: ^0{^4LR^0}^5Not Dead Yet^7 killed ^6Pinkie Bot^7 by MOD_SABER
+[Fri Oct 25 21:02:11 2013]  say: ^0{^4LR^0}^5Not Dead Yet^7: gg, my bot
+[Fri Oct 25 21:02:30 2013]  say: ^6Pinkie Bot^7: I wonder why chat isn't showing up though :/ Need to fix that...some day/week/month/year
+[Fri Oct 25 21:03:48 2013]  say: ^0{^4LR^0}^5Not Dead Yet^7: okay well...I'll be off then
+[Fri Oct 25 21:04:00 2013]  say: ^0{^4LR^0}^5Not Dead Yet^7: I'll leave my...you know...here
+[Fri Oct 25 21:04:04 2013]  say: ^0{^4LR^0}^5Not Dead Yet^7: bye!
+[Fri Oct 25 21:04:06 2013]  ClientDisconnect: 1
+[Fri Oct 25 22:24:13 2013]  ClientConnect: 1
+[Fri Oct 25 22:24:13 2013]  mlog:Player ^1{^0Mandalore^1}Xion{^0DW^1}, connected. With IP - 109.47.3.120:-14420 
+[Fri Oct 25 22:24:44 2013]  ClientBegin: 1
+[Fri Oct 25 22:24:51 2013]  say: ^1Z^0eratul: hi
+[Fri Oct 25 22:24:54 2013]  say: ^1Z^0eratul: pinkie
+[Fri Oct 25 22:25:46 2013]  ClientDisconnect: 1
+[Fri Oct 25 22:36:37 2013]  Exit: Timelimit hit.
+[Fri Oct 25 22:36:37 2013]  score: 0  ping: 75  client: 0 ^6Pinkie Bot^7
+[Fri Oct 25 23:10:51 2013]  ClientConnect: 1
+[Fri Oct 25 23:10:51 2013]  mlog:Player Padawan, connected. With IP - 37.45.243.159:29070 
+[Fri Oct 25 23:14:12 2013]  ClientDisconnect: 1
+[Fri Oct 25 23:48:22 2013]  ClientConnect: 1
+[Fri Oct 25 23:48:22 2013]  mlog:Player ^4Hy^0Dro, connected. With IP - 99.45.100.211:29070 
+[Fri Oct 25 23:49:18 2013]  ClientBegin: 1
+[Fri Oct 25 23:49:21 2013]  setteam:  1 FREE SPECTATOR
+[Fri Oct 25 23:49:21 2013]  ClientBegin: 1
+[Fri Oct 25 23:49:25 2013]  say: ^4Hy^0Dro: o.o
+[Fri Oct 25 23:49:32 2013]  ShutdownGame:
+[Fri Oct 25 23:49:32 2013]  ------------------------------------------------------------
+[Fri Oct 25 23:49:32 2013]  ------------------------------------------------------------
+[Fri Oct 25 23:49:32 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Oct 25 23:49:33 2013]  ClientConnect: 0
+[Fri Oct 25 23:49:33 2013]  ClientConnect: 1
+[Fri Oct 25 23:49:36 2013]  ClientBegin: 0
+[Fri Oct 25 23:49:47 2013]  ClientBegin: 1
+[Fri Oct 25 23:49:55 2013]  setteam:  1 SPECTATOR FREE
+[Fri Oct 25 23:49:55 2013]  ClientBegin: 1
+[Fri Oct 25 23:50:06 2013]  Kill: 1 0 3: ^4Hy^0Dro killed ^6Pinkie Bot^7 by MOD_SABER
+[Fri Oct 25 23:50:27 2013]  say: ^4Hy^0Dro: tean s
+[Fri Oct 25 23:50:29 2013]  Kill: 1 1 39: ^4Hy^0Dro killed ^4Hy^0Dro by MOD_SUICIDE
+[Fri Oct 25 23:50:29 2013]  setteam:  1 FREE SPECTATOR
+[Fri Oct 25 23:50:29 2013]  ClientBegin: 1
+[Fri Oct 25 23:50:37 2013]  ClientDisconnect: 1
+[Sat Oct 26 01:32:57 2013]  ClientConnect: 1
+[Sat Oct 26 01:32:57 2013]  mlog:Player Tusken King, connected. With IP - 24.98.147.217:29070 
+[Sat Oct 26 01:33:20 2013]  ClientBegin: 1
+[Sat Oct 26 01:48:30 2013]  say: Tusken King: I Am still around.. 
+[Sat Oct 26 01:48:37 2013]  say: Tusken King: But nice to see you are as well.
+[Sat Oct 26 01:53:43 2013]  say: Tusken King: If that is just his robot. the real one must be around elsewhere.
+[Sat Oct 26 01:54:00 2013]  say: Tusken King: Hm...
+[Sat Oct 26 01:54:02 2013]  ClientDisconnect: 1
+[Sat Oct 26 01:54:02 2013]  Exit: Timelimit hit.
+[Sat Oct 26 01:54:02 2013]  score: 0  ping: 63  client: 0 ^6Pinkie Bot^7
+[Sat Oct 26 09:43:41 2013]  ShutdownGame:
+[Sat Oct 26 09:43:41 2013]  ------------------------------------------------------------

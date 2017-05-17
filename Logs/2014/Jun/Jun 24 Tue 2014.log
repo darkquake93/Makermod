@@ -1,0 +1,28 @@
+[Tue Jun 24 04:32:22 2014]  ------------------------------------------------------------
+[Tue Jun 24 04:32:22 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jun 24 04:32:22 2014]  ClientConnect: 0
+[Tue Jun 24 04:32:37 2014]  ClientBegin: 0
+[Tue Jun 24 04:33:58 2014]  Item: 0 ammo_all
+[Tue Jun 24 04:40:07 2014]  say: Blackrock Legionnaire: fly
+[Tue Jun 24 04:40:24 2014]  say: Blackrock Legionnaire: clip me
+[Tue Jun 24 04:40:25 2014]  say: Blackrock Legionnaire: clip
+[Tue Jun 24 04:40:30 2014]  Item: 0 ammo_all
+[Tue Jun 24 04:42:55 2014]  Item: 0 ammo_all
+[Tue Jun 24 04:43:16 2014]  Item: 0 ammo_all
+[Tue Jun 24 04:46:36 2014]  Item: 0 ammo_all
+[Tue Jun 24 04:47:04 2014]  say: Blackrock Legionnaire: Bye, Fools!
+[Tue Jun 24 04:47:15 2014]  Item: 0 ammo_all
+[Tue Jun 24 04:51:50 2014]  say: Blackrock Legionnaire: clip me
+[Tue Jun 24 04:52:02 2014]  Kill: 1022 0 6: <world> killed Blackrock Legionnaire by MOD_BLASTER
+[Tue Jun 24 04:54:15 2014]  Kill: 1022 0 6: <world> killed Blackrock Legionnaire by MOD_BLASTER
+[Tue Jun 24 04:55:14 2014]  Kill: 1022 0 6: <world> killed Blackrock Legionnaire by MOD_BLASTER
+[Tue Jun 24 04:57:09 2014]  ClientDisconnect: 0
+[Tue Jun 24 06:32:21 2014]  Exit: Timelimit hit.
+[Tue Jun 24 18:15:32 2014]  ------------------------------------------------------------
+[Tue Jun 24 18:15:32 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jun 24 20:15:37 2014]  Exit: Timelimit hit.
+[Wed Jun 25 10:35:44 2014]  ClientConnect: 0
+[Wed Jun 25 10:35:44 2014]  mlog:Player Padawan, connected. With IP - 89.179.70.205:29070 
+[Wed Jun 25 10:36:21 2014]  ClientBegin: 0
+[Wed Jun 25 10:36:37 2014]  ShutdownGame:
+[Wed Jun 25 10:36:37 2014]  ------------------------------------------------------------

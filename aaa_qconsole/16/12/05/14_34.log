@@ -1,0 +1,1137 @@
+logfile opened on Mon Dec 05 13:10:19 2016
+
+...detecting CPU, found AMD w/ 3DNow!
+--- Common Initialization Complete ---
+Winsock Initialized
+Opening IP socket: localhost:29070
+Hostname: Mars
+IP: 192.168.1.2
+IP: 25.145.70.176
+Working directory: E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData
+execing makermod.cfg
+running_makermod.cfg 
+sv_cheats is read only.
+------ Server Initialization ------
+Server: t2_trip
+Current search path:
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\zzzz_MakerModule_ClientPlugin_v061a_Public.pk3 (2 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\zzzzzzzzzzzzzzzzzzzzzzzzzstance.pk3 (5 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\tmuconsole.pk3 (8 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Starkiller_TFU2.pk3 (112 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\SecretApprentice.pk3 (49 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\s3_cloneblaster.pk3 (45 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod Serverside v1.3b.pk3 (1 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod In-game menu.pk3 (14 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod Client Plugin.pk3 (2 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\hoverboard_if_extras.pk3 (4 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\hoverboard_if.pk3 (69 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\bloodPLUS3.1.pk3 (169 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\bloodPLUS1.5.pk3 (132 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData/makermod
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\veh_dlls.pk3 (3 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\sjc_kashyyyk.pk3 (82 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\sithcouncilv2.pk3 (285 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\RevanDark_Weapons.pk3 (371 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\RevanDark_Special_Weapons.pk3 (46 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\RevanDark_ScepterGun.pk3 (41 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\RevanDark_Blood_for_Swords.pk3 (10 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\Makermod In-game menu Base.pk3 (9 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\Jedi'sHomeJL_II.pk3 (120 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\e3_anakinsaber.pk3 (12 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets3.pk3 (16 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets2.pk3 (62 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets1.pk3 (8320 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets0.pk3 (15346 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData/base
+
+handle 1: qconsole.log
+----------------------
+50670 files in pk3 files
+Loading dll file jampgame.
+ ------- Installing Engine Patches -------- 
+Finished
+------- Game Initialization -------
+gamename: MakerMod
+gameversion: 1.3beta
+gamedate: Dec 27 2010
+MakerMod is written to celebrate our ability
+to learn to make things that improve our lives
+and the life of the species as a whole.
+------------------------------------------------------------
+InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+Loading map objects for t2_trip
+Loaded 535 objects.
+^3Bot route data not found for t2_trip
+execing remaps/general
+Shader Remap: models/map_objects/desert/view_panel_screen_desert ^3-> ^7textures/video/raven
+Shader Remap: models/players/jawa/jawa ^3-> ^7textures/video/raven
+Shader Remap: textures/factory/cat_floor_B ^3-> ^7models/map_objects/factory/glass
+Shader Remap: textures/factory/basic2_Tiled_b ^3-> ^7textures/rbettenbergtest/glass2
+Shader Remap: gfx/mp/chat_icon ^3-> ^7gfx/effects/stunpass
+Shader Remap: gfx/misc/csparks ^3-> ^7gfx/effects/greenfrontflash
+Shader Remap: gfx/effects/sabers/saberblur ^3-> ^7gfx/effects/fire4
+Shader Remap: gfx/effects/forcepush ^3-> ^7gfx/effects/flamejet
+Shader Remap: models/players/reborn_twin/head ^3-> ^7gfx/misc/sun
+Shader Remap: models/players/reborn_twin/hands ^3-> ^7gfx/misc/lightning3
+Shader Remap: models/players/reborn_twin/torso ^3-> ^7gfx/misc/lightning3
+Shader Remap: models/players/reborn_twin/legs ^3-> ^7gfx/misc/lightning3
+Shader Remap: models/players/reborn_twin/arms ^3-> ^7gfx/misc/lightning3
+Shader Remap: models/players/reborn_twin/icon_default ^3-> ^7gfx/effects/jet4
+Shader Remap: models/players/alora2/alora2_head ^3-> ^7gfx/effects/plasma
+Shader Remap: models/players/alora2/icon_default ^3-> ^7textures/danger/monitor
+Shader Remap: models/players/alora2/alora2_torso ^3-> ^7gfx/effects/plasma
+Shader Remap: models/players/alora2/alora2_legs ^3-> ^7gfx/effects/plasma
+Shader Remap: models/players/alora2/alora2_torso_arms ^3-> ^7gfx/effects/plasma
+Shader Remap: models/players/alora2/alora2_torso_hands ^3-> ^7gfx/effects/plasma
+Shader Remap: models/players/alora2/alora2_tentacles ^3-> ^7gfx/effects/stunpass
+Shader Remap: models/map_objects/factory/f_con1 ^3-> ^7textures/rift/carvedwall
+Shader Remap: models/map_objects/factory/f_con2 ^3-> ^7textures/rift/carvedwall
+Shader Remap: models/map_objects/factory/f_con1_screen ^3-> ^7textures/doomgiver/comm_panel2
+Shader Remap: models/map_objects/factory/f_con2_screen ^3-> ^7textures/doomgiver/comm_panel2
+execing remaps/trip
+broadcast: print "Weather - Server, is adding weather ^3zone ( 0 0 0 ) ( 0 0 0 )\n"
+Weather: zone ( 0 0 0 ) ( 0 0 0 ) added.
+broadcast: print "Weather - Server, is adding weather ^3fog\n"
+Weather: fog added.
+Shader Remap: textures/quicktrip/desert_0 ^3-> ^7textures/korterra1/terrain_0
+Shader Remap: textures/quicktrip/desert_0to1 ^3-> ^7textures/korterra1/terrain_0to1
+Shader Remap: textures/quicktrip/desert_0to2 ^3-> ^7textures/korterra1/terrain_0to2
+Shader Remap: textures/quicktrip/desert_1 ^3-> ^7textures/korterra1/terrain_1
+Shader Remap: textures/quicktrip/desert_1to2 ^3-> ^7textures/korterra1/terrain_1to2
+Shader Remap: textures/quicktrip/desert_2 ^3-> ^7textures/korterra1/terrain_2
+Shader Remap: textures/quicktrip/qt_basestone_phong ^3-> ^7textures/rift/thin_trim2
+Shader Remap: textures/quicktrip/qt_stonefloor_phong ^3-> ^7textures/korriban/k_basicfloor2
+Shader Remap: textures/bounty/hexfloor ^3-> ^7textures/rift/carvedwall
+Shader Remap: textures/yavin/marbly ^3-> ^7textures/korriban/k_basicfloor2
+Shader Remap: textures/quicktrip/pillar ^3-> ^7textures/rift/stone_rim
+Shader Remap: textures/quicktrip/qt_pillarbase ^3-> ^7textures/rift/basepiller
+Shader Remap: textures/quicktrip/qt_uncut_phong ^3-> ^7textures/rift/carvedwall
+Shader Remap: textures/bounty/basic1_dark ^3-> ^7textures/rift/carvedwall
+Shader Remap: textures/yavin/bblock3 ^3-> ^7textures/rift/carvedwall
+Shader Remap: textures/quicktrip/qt_wall2_phong ^3-> ^7textures/rift/rock3_phong
+Shader Remap: textures/quicktrip/new_qt_bridge_joist2 ^3-> ^7textures/rift/carvedwall
+Shader Remap: textures/quicktrip/new_qt_wall2_entrance ^3-> ^7textures/rift/rock3_phong
+Shader Remap: textures/quicktrip/new_qt_pilar_tops ^3-> ^7textures/korriban/entrance_top
+Shader Remap: textures/quicktrip/qt_domebase ^3-> ^7textures/rift/rock3_phong
+Shader Remap: textures/quicktrip/qt_wall_insets ^3-> ^7textures/rift/thin_trim2
+Shader Remap: textures/quicktrip/qt_trim1 ^3-> ^7textures/korriban/entrance_top
+Shader Remap: textures/quicktrip/qt_spillway ^3-> ^7textures/rift/carvedwall
+Shader Remap: textures/quicktrip/qt_trim2 ^3-> ^7textures/rift/base_ornate
+Shader Remap: textures/quicktrip/qt_trim3 ^3-> ^7textures/korriban/k_wall9b
+Shader Remap: textures/quicktrip/qt_underside ^3-> ^7textures/korriban/os_basic_pillarb
+Shader Remap: textures/quicktrip/new_qt_wall2_pilars ^3-> ^7textures/rift/carvedwall
+Shader Remap: textures/quicktrip/new_qt_spillway ^3-> ^7textures/rift/rock3_phong
+Shader Remap: textures/quicktrip/qt_door_rough ^3-> ^7textures/korriban/door
+Shader Remap: textures/skies/taspir1 ^3-> ^7textures/skies/Byss
+Shader Remap: textures/quicktrip/modern_qt_floor ^3-> ^7textures/rift/basepiller
+Shader Remap: textures/quicktrip/modern_qt_basestone ^3-> ^7textures/rift/rock3_phong
+Shader Remap: textures/quicktrip/modern_qt_trim_top ^3-> ^7textures/korriban/entrance_top
+Shader Remap: textures/quicktrip/modern_qt_trim_bottom ^3-> ^7textures/rift/base_ornate
+Shader Remap: textures/factory/basic2_tiled_b ^3-> ^7models/players/shadowtrooper/torso_arms
+Shader Remap: textures/factory/cat_floor_b ^3-> ^7models/map_objects/roof_top/storage_rack_grate
+Shader Remap: console ^3-> ^7textures/factory/goldtop2_noclip
+Shader Remap: textures/quicktrip/qt_Door_rough ^3-> ^7textures/kejim/stars_scroll
+Cvar_Set2: logfile 1
+finishing_makermod.cfg 
+Cvar_Set2: net_port 29070
+Hitch warning: 3802613 msec frame time
+broadcast: print "Server: g_forceRegenTime changed to 0\n"
+broadcast: print "Server: timelimit changed to 0\n"
+Resolving masterjk3.ravensoft.com
+masterjk3.ravensoft.com resolved to 104.40.23.123:29060
+Sending heartbeat to masterjk3.ravensoft.com
+Resolving master.jkhub.org
+master.jkhub.org resolved to 91.134.207.211:29060
+Sending heartbeat to master.jkhub.org
+Resolving 162.213.223.155
+162.213.223.155 resolved to 162.213.223.155:29060
+Sending heartbeat to 162.213.223.155
+SV packet 37.15.248.244:29070 : getinfo
+SV packet 91.134.207.211:29060 : getinfo
+Hitch warning: 11608 msec frame time
+SV packet 104.40.23.123:29060 : getstatus
+SV packet 37.15.248.244:29070 : getinfo
+SV packet 5.144.98.32:25709 : getinfo
+SV packet 95.174.177.139:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 5.144.98.32:25709 : getinfo
+SV packet 65.112.87.189:-1496 : getstatus
+SV packet 164.132.227.163:-11700 : getstatus
+SV packet 84.18.126.27:-27784 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-6151 : getstatus
+SV packet 77.65.81.138:-6736 : getinfo
+SV packet 92.126.134.132:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-12660 : getstatus
+SV packet 164.132.227.163:-28153 : getstatus
+SV packet 190.101.19.128:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-14264 : getstatus
+SV packet 186.16.7.175:29070 : getinfo
+SV packet 186.16.7.175:29070 : getinfo
+SV packet 186.16.7.175:29070 : getinfo
+SV packet 164.132.227.163:-12240 : getstatus
+SV packet 178.151.93.64:29070 : getinfo
+SV packet 88.99.15.239:29060 : getinfo
+SV packet 5.144.98.32:25709 : getinfo
+SV packet 213.5.75.148:29070 : getinfo
+SV packet 164.132.227.163:-24646 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 213.5.75.148:29070 : getinfo
+SV packet 164.132.227.163:-24982 : getstatus
+SV packet 164.132.227.163:-9977 : getstatus
+SV packet 188.43.12.65:29070 : getinfo
+SV packet 178.206.179.168:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 178.206.179.168:29070 : getinfo
+SV packet 194.150.131.48:29070 : getinfo
+SV packet 194.150.131.145:29070 : getinfo
+SV packet 194.150.131.145:29070 : getstatus
+SV packet 164.132.227.163:-27525 : getstatus
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 88.22.208.140:29070 : getinfo
+SV packet 164.132.227.163:-22163 : getstatus
+SV packet 63.144.111.7:3652 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-28205 : getstatus
+SV packet 89.74.233.254:29070 : getinfo
+SV packet 213.5.75.148:29070 : getinfo
+SV packet 164.132.227.163:-9488 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-8345 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+SV packet 37.213.32.99:29070 : getinfo
+SV packet 164.132.227.163:-31272 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 37.213.32.99:29070 : getinfo
+SV packet 217.144.211.7:-5103 : getinfo
+SV packet 88.99.15.239:29060 : getinfo
+SV packet 217.144.211.7:-5103 : getinfo
+SV packet 164.132.227.163:-23954 : getstatus
+SV packet 78.139.35.183:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 212.80.62.200:29070 : getinfo
+SV packet 212.80.62.200:29070 : getinfo
+SV packet 164.132.227.163:-16998 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-9239 : getstatus
+SV packet 37.213.32.99:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 164.132.227.163:-29760 : getstatus
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 119.177.166.110:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 164.132.227.163:-29836 : getstatus
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 103.24.67.134:29070 : getinfo
+SV packet 164.132.227.163:-22476 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-10883 : getstatus
+SV packet 194.150.131.145:29070 : getstatus
+SV packet 65.112.87.189:-2264 : getstatus
+SV packet 194.150.131.145:29070 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+SV packet 194.150.131.145:29070 : getstatus
+SV packet 194.150.131.145:29070 : getstatus
+SV packet 164.132.227.163:-31501 : getstatus
+SV packet 194.150.131.145:29070 : getstatus
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-28247 : getstatus
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 37.213.32.99:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 86.88.154.144:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 88.99.15.239:29060 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-28090 : getstatus
+SV packet 80.222.112.130:29071 : getinfo
+SV packet 164.132.227.163:-22147 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-11343 : getstatus
+SV packet 164.132.227.163:-29412 : getstatus
+SV packet 119.177.166.110:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 178.151.93.64:29070 : getinfo
+SV packet 176.126.162.236:29070 : getinfo
+SV packet 5.144.98.32:25709 : getinfo
+SV packet 164.132.227.163:-27308 : getstatus
+SV packet 37.15.248.244:29070 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 37.15.248.244:29070 : getinfo
+SV packet 164.132.227.163:-13824 : getstatus
+SV packet 164.132.227.163:-29386 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 178.151.93.64:29070 : getinfo
+SV packet 178.151.93.64:29070 : getinfo
+SV packet 164.132.227.163:-15697 : getstatus
+SV packet 65.112.87.189:-4284 : getstatus
+SV packet 5.144.98.32:26011 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 188.32.255.35:29070 : getinfo
+SV packet 88.99.15.239:29060 : getinfo
+SV packet 84.0.37.244:29070 : getinfo
+SV packet 164.132.227.163:-21416 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 178.151.93.64:29070 : getinfo
+SV packet 178.151.93.64:29070 : getinfo
+SV packet 5.144.98.32:26000 : getinfo
+SV packet 164.132.227.163:-32035 : getstatus
+SV packet 83.220.238.182:26857 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-21084 : getstatus
+SV packet 164.132.227.163:-20067 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 5.144.98.32:26040 : getinfo
+SV packet 164.132.227.163:-23697 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 50.0.180.56:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 164.132.227.163:-8479 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-26184 : getstatus
+SV packet 189.13.53.193:27007 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 189.13.53.193:27007 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 88.99.15.239:29060 : getinfo
+SV packet 63.239.170.18:2314 : getstatus
+SV packet 189.13.53.193:27007 : getinfo
+SV packet 164.132.227.163:-30405 : getstatus
+SV packet 189.13.53.193:27007 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 78.85.203.190:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 164.132.227.163:-25781 : getstatus
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 189.13.53.193:27007 : getinfo
+SV packet 119.177.166.110:29070 : getinfo
+SV packet 164.132.227.163:-11823 : getstatus
+SV packet 188.168.110.209:29070 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+SV packet 95.83.160.95:29070 : getinfo
+SV packet 188.168.110.209:29070 : getinfo
+SV packet 164.132.227.163:-6605 : getstatus
+SV packet 95.83.160.95:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 188.168.110.209:29070 : getinfo
+SV packet 164.132.227.163:-17656 : getstatus
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 119.177.166.110:29070 : getinfo
+SV packet 164.132.227.163:-19762 : getstatus
+SV packet 85.66.58.102:29070 : getinfo
+SV packet 119.177.166.110:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-30024 : getstatus
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 46.219.210.73:16066 : getinfo
+SV packet 189.13.53.193:27323 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-10843 : getstatus
+SV packet 189.13.53.193:27323 : getinfo
+SV packet 88.86.141.207:29070 : getinfo
+SV packet 88.86.141.207:29070 : getinfo
+SV packet 88.86.141.207:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 164.132.227.163:-14420 : getstatus
+SV packet 188.168.110.209:29070 : getinfo
+SV packet 188.168.110.209:29070 : getinfo
+SV packet 188.168.110.209:29070 : getinfo
+SV packet 188.168.110.209:29070 : getinfo
+SV packet 88.99.15.239:29060 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-32076 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+SV packet 188.168.110.209:29070 : getinfo
+SV packet 37.15.248.244:29070 : getinfo
+SV packet 164.132.227.163:-17062 : getstatus
+SV packet 37.15.248.244:29070 : getinfo
+SV packet 46.219.210.73:16066 : getinfo
+SV packet 65.112.87.189:-14953 : getstatus
+SV packet 164.132.227.163:-23329 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 119.177.166.110:29070 : getinfo
+SV packet 212.112.119.21:29070 : getinfo
+SV packet 73.1.0.163:-16472 : getinfo
+SV packet 91.243.107.166:29070 : getinfo
+SV packet 91.243.107.166:29070 : getinfo
+SV packet 164.132.227.163:-16333 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 119.177.166.110:29070 : getinfo
+SV packet 87.181.218.160:29070 : getinfo
+SV packet 87.181.218.160:29070 : getinfo
+SV packet 164.132.227.163:-5536 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 88.86.141.207:29070 : getinfo
+SV packet 189.13.53.193:27623 : getinfo
+SV packet 88.86.141.207:29070 : getinfo
+SV packet 88.86.141.207:29070 : getinfo
+SV packet 164.132.227.163:-25804 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 188.168.110.209:29070 : getinfo
+SV packet 164.132.227.163:-14757 : getstatus
+SV packet 188.247.204.180:29070 : getinfo
+SV packet 46.219.210.73:15618 : getinfo
+SV packet 73.1.0.163:-16472 : getinfo
+SV packet 73.1.0.163:-16472 : getinfo
+SV packet 79.170.29.19:29070 : getinfo
+SV packet 79.67.197.235:29070 : getinfo
+SV packet 164.132.227.163:-9207 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 81.153.200.39:29070 : getinfo
+SV packet 46.219.210.73:15618 : getinfo
+SV packet 73.1.0.163:-16472 : getinfo
+SV packet 88.99.15.239:29060 : getinfo
+SV packet 5.144.98.32:26003 : getinfo
+SV packet 164.132.227.163:-8136 : getstatus
+SV packet 5.144.98.32:26003 : getinfo
+SV packet 85.132.196.210:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 85.132.196.210:29070 : getinfo
+SV packet 164.132.227.163:-17027 : getstatus
+SV packet 85.132.196.210:29070 : getchallenge
+SV packet 85.132.196.210:29070 : connect
+SVC_DirectConnect ()
+Client 0 connecting with 50 challenge ping
+ClientConnect: 0
+broadcast: print "^0J^1u^0r^1a^7 @@@PLCONNECT\n"
+mlog:Player ^0J^1u^0r^1a, connected. With IP - 85.132.196.210:29070 
+Going from CS_FREE to CS_CONNECTED for ^0J^1u^0r^1a
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+^0J^1u^0r^1a : dropped gamestate, resending
+SV_SendClientGameState() for ^0J^1u^0r^1a
+Going from CS_CONNECTED to CS_PRIMED for ^0J^1u^0r^1a
+SV packet 104.197.142.106:29519 : getinfo
+clientCommand: ^0J^1u^0r^1a : 1 : cp @ 158734691 1721995511 277186843 
+clientCommand: ^0J^1u^0r^1a : 2 : userinfo "\name\Jura\rate\4000\snaps\20\model\desann/default\forcepowers\7-2-030330000000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+Going from CS_PRIMED to CS_ACTIVE for Jura
+Cvar_Set2: g_maxForceRank 7
+Cvar_Set2: g_jediVmerc 0
+Cvar_Set2: g_maxForceRank 7
+broadcast: print "Jura^7 @@@PLENTER\n"
+ClientBegin: 0
+clientCommand: Jura : 3 : userinfo "\name\Jura\rate\4000\snaps\20\model\chiss/default\forcepowers\7-2-030330000000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+clientCommand: Jura : 4 : userinfo "\name\Jura\rate\4000\snaps\20\model\chiss/red\forcepowers\7-2-030330000000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+clientCommand: Jura : 5 : userinfo "\name\Jura\rate\4000\snaps\20\model\chiss/blue\forcepowers\7-2-030330000000000333\color1\0\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+clientCommand: Jura : 6 : userinfo "\name\Jura\rate\4000\snaps\20\model\chiss/blue\forcepowers\7-2-030330000000000333\color1\4\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+SV packet 63.239.170.18:2357 : getstatus
+clientCommand: Jura : 7 : forcechanged
+SV packet 164.132.227.163:-9435 : getstatus
+clientCommand: Jura : 8 : forcechanged "FREE"
+clientCommand: Jura : 9 : userinfo "\name\Jura\rate\4000\snaps\20\model\chiss/blue\forcepowers\7-2-030330330000000333\color1\4\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+SV packet 213.5.75.148:29070 : getinfo
+clientCommand: Jura : 10 : kill
+Kill: 0 0 39: Jura killed Jura by MOD_SUICIDE
+SV packet 86.101.253.220:29070 : getinfo
+SV packet 164.132.227.163:-28255 : getstatus
+Cvar_Set2: g_jediVmerc 0
+SV packet 104.197.142.106:29519 : getinfo
+clientCommand: Jura : 11 : empower
+clientCommand: Jura : 12 : cmds
+SV packet 164.132.227.163:-14802 : getstatus
+SV packet 46.73.143.249:29070 : getinfo
+SV packet 164.132.227.163:-18255 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 91.153.75.238:29070 : getinfo
+SV packet 37.15.248.244:29070 : getinfo
+SV packet 95.32.223.227:3177 : getinfo
+SV packet 164.132.227.163:-15476 : getstatus
+SV packet 86.82.44.12:29070 : getinfo
+SV packet 86.82.44.12:29070 : getinfo
+SV packet 86.82.44.12:29070 : getinfo
+SV packet 164.132.227.163:-21945 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+clientCommand: Jura : 13 : giveall
+SV packet 86.82.44.12:29070 : getinfo
+clientCommand: Jura : 14 : give all
+clientCommand: Jura : 15 : score
+SV packet 86.82.44.12:29070 : getinfo
+SV packet 88.193.101.48:-10316 : getinfo
+clientCommand: Jura : 16 : score
+SV packet 164.132.227.163:-26070 : getstatus
+clientCommand: Jura : 17 : score
+clientCommand: Jura : 18 : team free
+clientCommand: Jura : 19 : disconnect
+broadcast: print "Jura^7 @@@DISCONNECTED\n"
+Going to CS_ZOMBIE for Jura
+ClientDisconnect: 0
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+Going from CS_ZOMBIE to CS_FREE for 
+SV packet 85.132.196.210:29070 : getinfo
+SV packet 88.86.141.207:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 88.99.15.239:29060 : getinfo
+SV packet 164.132.227.163:-8502 : getstatus
+SV packet 37.15.248.244:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-7575 : getstatus
+SV packet 78.85.203.190:29070 : getstatus
+SV packet 5.144.98.32:1037 : getinfo
+SV packet 164.132.227.163:-21956 : getstatus
+SV packet 86.82.44.12:29070 : getinfo
+SV packet 86.82.44.12:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 68.111.177.173:29070 : getstatus
+SV packet 68.111.177.173:29070 : getinfo
+SV packet 164.132.227.163:-5931 : getstatus
+SV packet 68.111.177.173:29070 : getstatus
+SV packet 164.132.227.163:-21958 : getstatus
+SV packet 37.204.6.217:29070 : getinfo
+SV packet 185.135.148.20:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 65.112.87.189:-3491 : getstatus
+SV packet 164.132.227.163:-22431 : getstatus
+SV packet 94.50.6.8:-21197 : getinfo
+SV packet 164.132.227.163:-27375 : getstatus
+SV packet 94.254.174.35:18360 : getinfo
+SV packet 90.127.176.32:29070 : getinfo
+SV packet 90.127.176.32:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-30050 : getstatus
+SV packet 188.247.204.180:29070 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+SV packet 46.219.210.73:15618 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-27959 : getstatus
+SV packet 31.46.61.124:29070 : getinfo
+SV packet 185.135.148.20:29070 : getinfo
+SV packet 185.29.156.34:29070 : getinfo
+SV packet 88.99.15.239:29060 : getinfo
+SV packet 213.5.75.148:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-18057 : getstatus
+SV packet 213.5.75.148:29070 : getinfo
+SV packet 94.50.6.8:-21031 : getinfo
+SV packet 94.50.6.8:-21031 : getinfo
+SV packet 188.247.204.180:29070 : getinfo
+SV packet 94.254.174.35:18360 : getinfo
+SV packet 86.82.44.12:29070 : getinfo
+SV packet 86.82.44.12:29070 : getinfo
+SV packet 164.132.227.163:-8056 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 94.50.6.8:-21031 : getinfo
+SV packet 185.135.148.20:29070 : getinfo
+SV packet 164.132.227.163:-13139 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 213.5.75.148:29070 : getinfo
+SV packet 213.5.75.148:29070 : getinfo
+SV packet 90.127.176.32:29070 : getinfo
+SV packet 185.135.148.20:29070 : getinfo
+SV packet 88.101.109.67:29070 : getinfo
+SV packet 213.5.75.148:29070 : getinfo
+SV packet 164.132.227.163:-16827 : getstatus
+SV packet 185.135.148.20:29070 : getinfo
+SV packet 185.135.148.20:29070 : getinfo
+SV packet 90.127.176.32:29070 : getinfo
+SV packet 90.127.176.32:29070 : getinfo
+SV packet 164.132.227.163:-22824 : getstatus
+SV packet 213.5.75.148:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+SV packet 68.111.177.173:29070 : getstatus
+SV packet 185.135.148.20:29070 : getinfo
+SV packet 65.112.87.189:-3489 : getstatus
+SV packet 164.132.227.163:-26140 : getstatus
+SV packet 90.127.176.32:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 78.85.203.190:29070 : getstatus
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 164.132.227.163:-26843 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 213.5.75.148:29070 : getinfo
+SV packet 164.132.227.163:-9930 : getstatus
+SV packet 88.99.15.239:29060 : getinfo
+SV packet 73.1.0.163:-16472 : getinfo
+SV packet 73.1.0.163:-16472 : getinfo
+SV packet 85.132.196.210:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 164.132.227.163:-25054 : getstatus
+SV packet 85.132.196.210:29070 : getchallenge
+SV packet 85.132.196.210:29070 : connect
+SVC_DirectConnect ()
+Client 0 connecting with 100 challenge ping
+Cvar_Set2: session0 0 3538850 1 0 0 0 0 0 0 0 0 0 none 
+Cvar_Set2: session0_2  100 0 4096 0 0 0   
+ClientConnect: 0
+broadcast: print "Jura^7 @@@PLCONNECT\n"
+mlog:Player Jura, connected. With IP - 85.132.196.210:29070 
+Going from CS_FREE to CS_CONNECTED for Jura
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+Jura : dropped gamestate, resending
+SV_SendClientGameState() for Jura
+Going from CS_CONNECTED to CS_PRIMED for Jura
+SV packet 91.134.207.211:29060 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+clientCommand: Jura : 1 : cp @ 158734691 1721995511 277186843 
+clientCommand: Jura : 2 : userinfo "\name\Jura\rate\4000\snaps\20\model\chiss/blue\forcepowers\7-2-030330330000000333\color1\4\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+Going from CS_PRIMED to CS_ACTIVE for Jura
+Cvar_Set2: g_jediVmerc 0
+broadcast: print "Jura^7 @@@PLENTER\n"
+ClientBegin: 0
+clientCommand: Jura : 3 : userinfo "\name\Jura\rate\4000\snaps\20\model\chiss/default\forcepowers\7-2-030330330000000333\color1\4\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+SV packet 178.19.251.26:29070 : getinfo
+clientCommand: Jura : 4 : userinfo "\name\Jura\rate\4000\snaps\20\model\kyle/default\forcepowers\7-2-030330330000000333\color1\4\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+clientCommand: Jura : 5 : userinfo "\name\Jura\rate\4000\snaps\20\model\lando/default\forcepowers\7-2-030330330000000333\color1\4\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.120.38.205:-12620 : getinfo
+clientCommand: Jura : 6 : userinfo "\name\Jura\rate\4000\snaps\20\model\chiss/default\forcepowers\7-2-030330330000000333\color1\4\color2\0\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+clientCommand: Jura : 7 : forcechanged
+SV packet 104.197.142.106:29519 : getinfo
+clientCommand: Jura : 8 : god
+clientCommand: Jura : 9 : npc spawn tavion
+mlog: NPC Spawn tavion, V: 0, Client: 0 - Jura
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/tavion/model.glm"
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/weapons2/saber_reborn/saber_w.glm"
+SV packet 164.132.227.163:-11238 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 201.191.195.9:28390 : getinfo
+SV packet 164.132.227.163:-7759 : getstatus
+SV packet 213.5.75.148:29070 : getinfo
+clientCommand: Jura : 10 : give all
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 212.112.119.21:29070 : getinfo
+SV packet 80.57.105.102:29070 : getinfo
+SV packet 164.132.227.163:-31299 : getstatus
+clientCommand: Jura : 11 : npc spawn shadowtrooper
+mlog: NPC Spawn shadowtrooper, V: 0, Client: 0 - Jura
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/shadowtrooper/model.glm"
+SV packet 176.49.94.113:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+clientCommand: Jura : 12 : noratget
+clientCommand: Jura : 13 : notarget
+SV packet 164.132.227.163:-14324 : getstatus
+clientCommand: Jura : 14 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/stormtrooper/model.glm"
+clientCommand: Jura : 15 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 16 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 17 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 18 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 19 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 20 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 21 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 22 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+SV packet 79.185.219.114:29070 : getinfo
+clientCommand: Jura : 23 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 24 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 25 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 26 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 27 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 28 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 29 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 30 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 31 : npc spawn jedi
+mlog: NPC Spawn jedi, V: 0, Client: 0 - Jura
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/jedi/model.glm"
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/weapons2/saber_2/saber_2.glm"
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 213.138.94.65:29070 : getinfo
+SV packet 94.50.6.8:-21258 : getinfo
+SV packet 63.144.111.199:1861 : getstatus
+SV packet 164.132.227.163:-32598 : getstatus
+clientCommand: Jura : 32 : npc spawn jeditrainer
+mlog: NPC Spawn jeditrainer, V: 0, Client: 0 - Jura
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/jeditrainer/model.glm"
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+SV packet 213.138.94.65:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 88.99.15.239:29060 : getinfo
+SV packet 164.132.227.163:-7675 : getstatus
+SV packet 93.99.185.6:29070 : getchallenge
+SV packet 93.99.185.6:29070 : connect
+SVC_DirectConnect ()
+Client 1 connecting with 100 challenge ping
+ClientConnect: 1
+broadcast: print "Padawan^7 @@@PLCONNECT\n"
+mlog:Player Padawan, connected. With IP - 93.99.185.6:29070 
+Going from CS_FREE to CS_CONNECTED for Padawan
+Padawan : dropped gamestate, resending
+SV_SendClientGameState() for Padawan
+Going from CS_CONNECTED to CS_PRIMED for Padawan
+SV packet 37.113.176.1:3568 : getinfo
+SV packet 37.113.176.1:3568 : getinfo
+clientCommand: Padawan : 1 : cp @ 158734691 1721995511 277186843 
+clientCommand: Padawan : 2 : userinfo "\name\Padawan\rate\4000\snaps\20\model\chewbacca/default\forcepowers\7-2-033330210000003332\color1\3\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\single_1\saber2\none\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+Going from CS_PRIMED to CS_ACTIVE for Padawan
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/weapons2/saber_1/saber_1.glm"
+Cvar_Set2: g_jediVmerc 0
+broadcast: print "Padawan^7 @@@PLENTER\n"
+ClientBegin: 1
+SV packet 164.132.227.163:-17110 : getstatus
+SV packet 94.19.60.12:29070 : getinfo
+clientCommand: Jura : 33 : userinfo "\name\Jura\rate\4000\snaps\20\model\chiss/default\forcepowers\7-2-030330330000000333\color1\3\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+clientCommand: Jura : 34 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 35 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 36 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 37 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Padawan : 3 : userinfo "\name\Padawan\rate\4000\snaps\20\model\chewbacca/default\forcepowers\7-2-033330210000003332\color1\3\color2\3\handicap\100\sex\male\cg_predictItems\1\saber1\Kyle\saber2\Kyle\char_color_red\255\char_color_green\255\char_color_blue\255\teamtask\0\teamoverlay\1"
+clientCommand: Jura : 38 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 39 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 40 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+SV packet 104.197.142.106:29519 : getinfo
+clientCommand: Jura : 41 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 42 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 43 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 44 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 45 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 46 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 47 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 48 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Padawan : 4 : score
+clientCommand: Jura : 49 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 50 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 51 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 52 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 53 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+clientCommand: Jura : 54 : npc spawn stormtrooper
+mlog: NPC Spawn stormtrooper, V: 0, Client: 0 - Jura
+SV packet 164.132.227.163:-18079 : getstatus
+Kill: 1022 1 6: <world> killed Padawan by MOD_BLASTER
+Cvar_Set2: g_jediVmerc 0
+clientCommand: Padawan : 5 : give all
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-21963 : getstatus
+clientCommand: Jura : 55 : npc spawn dual_reborn
+mlog: NPC Spawn dual_reborn, V: 0, Client: 0 - Jura
+clientCommand: Jura : 56 : npc spawn reborn_dual
+mlog: NPC Spawn reborn_dual, V: 0, Client: 0 - Jura
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/reborn_new/model.glm"
+clientCommand: Jura : 57 : npc spawn reborn_twin
+mlog: NPC Spawn reborn_twin, V: 0, Client: 0 - Jura
+Kill: 1022 1 3: <world> killed Padawan by MOD_SABER
+clientCommand: Jura : 58 : npc spawn reborn_staff
+mlog: NPC Spawn reborn_staff, V: 0, Client: 0 - Jura
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/weapons2/saber_dual_1/saber_dual_1.glm"
+Cvar_Set2: g_jediVmerc 0
+SV packet 80.222.112.130:29070 : getinfo
+clientCommand: Jura : 59 : npc spawn luke
+mlog: NPC Spawn luke, V: 0, Client: 0 - Jura
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/luke/model.glm"
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/weapons2/saber_luke/saber_w.glm"
+SV packet 104.197.142.106:29519 : getinfo
+clientCommand: Padawan : 6 : give all
+SV packet 164.132.227.163:-30682 : getstatus
+Kill: 1022 1 3: <world> killed Padawan by MOD_SABER
+Cvar_Set2: g_jediVmerc 0
+clientCommand: Jura : 60 : god
+clientCommand: Jura : 61 : notarget
+Kill: 1022 1 3: <world> killed Padawan by MOD_SABER
+Cvar_Set2: g_jediVmerc 0
+Kill: 1022 1 3: <world> killed Padawan by MOD_SABER
+Kill: 1022 0 3: <world> killed Jura by MOD_SABER
+Cvar_Set2: g_jediVmerc 0
+SV packet 104.197.142.106:29519 : getinfo
+Cvar_Set2: g_jediVmerc 0
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+clientCommand: Jura : 62 : give all
+SV packet 164.132.227.163:-13513 : getstatus
+Kill: 1022 0 3: <world> killed Jura by MOD_SABER
+Cvar_Set2: g_jediVmerc 0
+Kill: 1022 1 3: <world> killed Padawan by MOD_SABER
+Cvar_Set2: g_jediVmerc 0
+Kill: 1022 0 3: <world> killed Jura by MOD_SABER
+Cvar_Set2: g_jediVmerc 0
+Kill: 0 1 3: Jura killed Padawan by MOD_SABER
+SV packet 164.132.227.163:-6273 : getstatus
+Cvar_Set2: g_jediVmerc 0
+clientCommand: Padawan : 7 : give all
+clientCommand: Jura : 63 : npc spawn tavion
+mlog: NPC Spawn tavion, V: 0, Client: 0 - Jura
+clientCommand: Jura : 64 : notarget
+Kill: 1022 1 3: <world> killed Padawan by MOD_SABER
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-21437 : getstatus
+Cvar_Set2: g_jediVmerc 0
+Kill: 1022 1 3: <world> killed Padawan by MOD_SABER
+Cvar_Set2: g_jediVmerc 0
+SV packet 87.249.196.61:29070 : getinfo
+Kill: 1022 0 3: <world> killed Jura by MOD_SABER
+Cvar_Set2: g_jediVmerc 0
+Kill: 1022 0 3: <world> killed Jura by MOD_SABER
+SV packet 88.99.15.239:29060 : getinfo
+Cvar_Set2: g_jediVmerc 0
+SV packet 65.112.87.189:-6876 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-11068 : getstatus
+clientCommand: Jura : 65 : give all
+Kill: 0 1 10: Jura killed Padawan by MOD_DISRUPTOR_SNIPER
+clientCommand: Padawan : 8 : give all
+Cvar_Set2: g_jediVmerc 0
+clientCommand: Padawan : 9 : give all
+Kill: 0 1 10: Jura killed Padawan by MOD_DISRUPTOR_SNIPER
+Cvar_Set2: g_jediVmerc 0
+SV packet 31.46.61.124:29070 : getinfo
+SV packet 164.132.227.163:-12255 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+Kill: 0 1 25: Jura killed Padawan by MOD_TRIP_MINE_SPLASH
+Kill: 0 0 25: Jura killed Jura by MOD_TRIP_MINE_SPLASH
+Cvar_Set2: g_jediVmerc 0
+Cvar_Set2: g_jediVmerc 0
+clientCommand: Jura : 66 : give all
+clientCommand: Padawan : 10 : give all
+clientCommand: Jura : 67 : npc spawn vehicle x-wing
+mlog: NPC Spawn x-wing, V: 1, Client: 0 - Jura
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/x-wing/model.glm"
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/x-wing/x-wing.gla"
+mlog: NPC Spawn r2d2, V: 0, Client: 635 - 
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/r2d2/model.glm"
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/r2d2/r2d2.gla"
+clientCommand: Jura : 68 : npc spawn vehicle tie-bomber
+mlog: NPC Spawn tie-bomber, V: 1, Client: 0 - Jura
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/tie_bomber/model.glm"
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/tie_bomber/tie_bomber.gla"
+SV packet 164.132.227.163:-10499 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 95.91.210.239:-32258 : getinfo
+Kill: 1022 1 6: <world> killed Padawan by MOD_BLASTER
+Cvar_Set2: g_jediVmerc 0
+SV packet 95.91.210.239:-32258 : getinfo
+clientCommand: Padawan : 11 : give all
+clientCommand: Jura : 69 : npc spawn vehicle x-wing
+mlog: NPC Spawn x-wing, V: 1, Client: 0 - Jura
+mlog: NPC Spawn r5d2, V: 0, Client: 629 - 
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/r5d2/model.glm"
+clientCommand: Jura : 70 : npc spawn vehicle x-wing
+mlog: NPC Spawn x-wing, V: 1, Client: 0 - Jura
+mlog: NPC Spawn r5d2, V: 0, Client: 636 - 
+Kill: 1022 0 2: <world> killed Jura by MOD_MELEE
+Cvar_Set2: g_jediVmerc 0
+clientCommand: Jura : 71 : give all
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+clientCommand: Jura : 72 : godf
+clientCommand: Jura : 73 : god
+SV packet 164.132.227.163:-15905 : getstatus
+SV packet 181.231.87.241:29070 : getinfo
+SV packet 95.91.210.239:-32262 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+Kill: 1022 1 2: <world> killed Padawan by MOD_MELEE
+Cvar_Set2: g_jediVmerc 0
+SV packet 181.231.87.241:29070 : getinfo
+clientCommand: Padawan : 12 : give all
+SV packet 164.132.227.163:-7520 : getstatus
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/map_objects/hoth/eweb_model.glm"
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/map_objects/hoth/model.gla"
+SV packet 164.132.227.163:-23360 : getstatus
+Kill: 0 1 6: Jura killed Padawan by MOD_BLASTER
+Cvar_Set2: g_jediVmerc 0
+clientCommand: Jura : 74 : give all
+SV packet 104.197.142.106:29519 : getinfo
+clientCommand: Padawan : 13 : give all
+SV packet 190.161.121.15:-13666 : getstatus
+clientCommand: Jura : 75 : give all
+SV packet 164.132.227.163:-14530 : getstatus
+SV packet 190.161.121.15:-13666 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 88.99.15.239:29060 : getinfo
+SV packet 178.255.168.85:-12817 : getinfo
+clientCommand: Padawan : 14 : god
+SV packet 188.137.84.127:-27339 : getinfo
+clientCommand: Jura : 76 : npc spawn vehicle x-wing
+mlog: NPC Spawn x-wing, V: 1, Client: 0 - Jura
+SV packet 164.132.227.163:-12089 : getstatus
+mlog: NPC Spawn r2d2, V: 0, Client: 631 - 
+clientCommand: Jura : 77 : npc spawn vehicle x-wing
+mlog: NPC Spawn x-wing, V: 1, Client: 0 - Jura
+mlog: NPC Spawn r2d2, V: 0, Client: 636 - 
+clientCommand: Jura : 78 : npc spawn vehicle x-wing
+mlog: NPC Spawn x-wing, V: 1, Client: 0 - Jura
+mlog: NPC Spawn r5d2, V: 0, Client: 638 - 
+clientCommand: Jura : 79 : npc spawn vehicle x-wing
+mlog: NPC Spawn x-wing, V: 1, Client: 0 - Jura
+mlog: NPC Spawn r2d2, V: 0, Client: 645 - 
+SV packet 104.197.142.106:29519 : getinfo
+Kill: 1022 1 6: <world> killed Padawan by MOD_BLASTER
+Kill: 1022 0 6: <world> killed Jura by MOD_BLASTER
+Cvar_Set2: g_jediVmerc 0
+Cvar_Set2: g_jediVmerc 0
+clientCommand: Jura : 80 : NPC SPAWN vehicle tauntaun
+mlog: NPC Spawn tauntaun, V: 1, Client: 0 - Jura
+Can't find models/players/auntaun/model_default.skin
+WARNING: RE_RegisterSkin( 'models/players/auntaun/model_default.skin' ) failed to load!
+Can't find models/players/auntaun/model.glm
+SV packet 63.144.111.7:3556 : getstatus
+clientCommand: Jura : 81 : NPC SPAWN vehicle tauntaun
+mlog: NPC Spawn tauntaun, V: 1, Client: 0 - Jura
+clientCommand: Jura : 82 : NPC SPAWN vehicle swoop
+mlog: NPC Spawn swoop, V: 1, Client: 0 - Jura
+Skin name exceeds MAX_QPATH
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/hoverboard_if/model.glm"
+RE_RegisterModels_GetDiskFile(): Disk-loading "/models/players/hoverboard_if/hoverboard_if.gla"
+clientCommand: Padawan : 15 : npc spawn soow
+clientCommand: Jura : 83 : NPC SPAWN vehicle swoop
+mlog: NPC Spawn swoop, V: 1, Client: 0 - Jura
+Skin name exceeds MAX_QPATH
+SV packet 164.132.227.163:-27828 : getstatus
+clientCommand: Padawan : 16 : list
+clientCommand: Padawan : 17 : list
+SV packet 104.197.142.106:29519 : getinfo
+clientCommand: Padawan : 18 : give all
+SV packet 95.91.210.239:-32262 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+SV packet 78.131.20.7:-14845 : getinfo
+SV packet 164.132.227.163:-18206 : getstatus
+SV packet 81.245.179.85:-15032 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 87.249.196.61:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 89.249.128.216:-19700 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 189.13.53.193:12100 : getinfo
+SV packet 189.13.53.193:12100 : getinfo
+SV packet 178.19.251.26:29070 : getinfo
+SV packet 164.132.227.163:-10548 : getstatus
+Kill: 0 1 3: Jura killed Padawan by MOD_SABER
+Item: 0 weapon_repeater
+clientCommand: Jura : 84 : give all
+clientCommand: Padawan : 19 : say_team "sssssssssssssssssssss d"
+
+say: Padawan: sssssssssssssssssssss d
+Padawan^7: sssssssssssssssssssss d
+SV packet 189.13.53.193:12100 : getinfo
+Cvar_Set2: g_jediVmerc 0
+SV packet 164.132.227.163:-28271 : getstatus
+SV packet 78.85.203.190:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-7775 : getstatus
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 164.132.227.163:-7768 : getstatus
+SV packet 91.184.208.31:29070 : getinfo
+SV packet 104.197.142.106:29519 : getinfo
+Kill: 1022 0 39: <world> killed Jura by MOD_SUICIDE
+Cvar_Set2: g_jediVmerc 0
+clientCommand: Jura : 85 : god
+SV packet 88.99.15.239:29060 : getinfo
+clientCommand: Jura : 86 : give all
+clientCommand: Padawan : 20 : notarget
+clientCommand: Jura : 87 : notarget
+clientCommand: Padawan : 21 : god
+SV packet 164.132.227.163:-14915 : getstatus
+clientCommand: Jura : 88 : npc spawn rancor
+mlog: NPC Spawn rancor, V: 0, Client: 0 - Jura
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/rancor/model.glm"
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/rancor/rancor.gla"
+SV packet 37.204.6.217:29070 : getinfo
+SV packet 46.158.8.32:29070 : getinfo
+clientCommand: Jura : 89 : npc spawn jedi
+mlog: NPC Spawn jedi, V: 0, Client: 0 - Jura
+SV packet 46.158.8.32:29070 : getinfo
+clientCommand: Jura : 90 : npc spawn jedi
+mlog: NPC Spawn jedi, V: 0, Client: 0 - Jura
+clientCommand: Jura : 91 : npc spawn jedi
+mlog: NPC Spawn jedi, V: 0, Client: 0 - Jura
+SV packet 104.197.142.106:29519 : getinfo
+SV packet 189.13.53.193:12990 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.134.207.211:29060 : getinfo
+clientCommand: Jura : 92 : npc spawn wampa
+SV packet 164.132.227.163:-15590 : getstatus
+clientCommand: Padawan : 22 : give all
+SV packet 178.76.216.223:29070 : getinfo
+SV packet 178.76.216.223:29070 : getinfo
+clientCommand: Jura : 93 : npc spawn hoverboard_if
+-8<------- Crash Information ------->8-
+    Please forward to Scooper 
+---------------------------------------
+Version: MakerMod Win32
+Build Date: Dec 27 2010Build Time: 23:45:02Map: t2_trip
+Exception: Access violation (0xc0000005)
+Exception Address: 0x201299d8
+DLL Information:
+0x00400000	jampDed
+0x76fc0000	ntdll
+0x75560000	kernel32
+0x74cb0000	KERNELBASE
+0x72350000	WSOCK32
+0x764a0000	WS2_32
+0x764e0000	msvcrt
+0x76a70000	RPCRT4
+0x74ab0000	SspiCli
+0x74aa0000	CRYPTBASE
+0x75400000	sechost
+0x769f0000	NSI
+0x6f3f0000	WINMM
+0x74b10000	USER32
+0x75160000	GDI32
+0x75420000	LPK
+0x74c10000	USP10
+0x75030000	ADVAPI32
+0x762f0000	IMM32
+0x74f60000	MSCTF
+0x722f0000	mswsock
+0x722e0000	wshtcpip
+0x70270000	NLAapi
+0x6fe90000	napinsp
+0x6fe70000	pnrpnsp
+0x720e0000	DNSAPI
+0x6fe60000	winrnr
+0x6fe50000	wshbth
+0x16080000	mdnsNSP
+0x721e0000	Iphlpapi
+0x721d0000	WINNSI
+0x70d50000	fwpuclnt
+0x70d40000	rasadhlp
+0x20000000	jampgamex86
+0x769c0000	IMAGEHLP
+0x6f210000	dbghelp
+Backtrace:
+(0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x67c08) [0x201299d8]
+(1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x67d32) [0x20129b02]
+(2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20043eab]
+(3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20044d48]
+(4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20044679]
+(5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x200450b2]
+(6) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20045225]
+(7) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20045988]
+(8) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x5fbe1) [0x201219b1]
+(9) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x5dbc4) [0x2011f994]
+(10) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x5e59b) [0x2012036b]
+(11) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x5f03f) [0x20120e0f]
+(12) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20081fd7]
+(13) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0xca) [0x2009f63a]
+(14) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+(15) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\Ga

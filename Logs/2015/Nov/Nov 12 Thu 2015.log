@@ -1,0 +1,60 @@
+[Thu Nov 12 15:34:21 2015]  ------------------------------------------------------------
+[Thu Nov 12 15:34:21 2015]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Nov 12 21:11:37 2015]  ClientConnect: 0
+[Thu Nov 12 21:11:37 2015]  mlog:Player Rax, connected. With IP - 93.129.109.18:29070 
+[Thu Nov 12 21:11:47 2015]  ClientBegin: 0
+[Thu Nov 12 21:12:10 2015]  ClientDisconnect: 0
+[Fri Nov 13 09:27:24 2015]  ClientConnect: 0
+[Fri Nov 13 09:27:24 2015]  mlog:Player LORD LINUS, connected. With IP - 2.109.102.74:29070 
+[Fri Nov 13 09:27:38 2015]  ClientBegin: 0
+[Fri Nov 13 09:27:40 2015]  Kill: 0 0 39: LORD LINUS killed LORD LINUS by MOD_SUICIDE
+[Fri Nov 13 09:27:40 2015]  setteam:  0 FREE SPECTATOR
+[Fri Nov 13 09:27:40 2015]  ClientBegin: 0
+[Fri Nov 13 09:27:49 2015]  setteam:  0 SPECTATOR FREE
+[Fri Nov 13 09:27:49 2015]  ClientBegin: 0
+[Fri Nov 13 09:28:22 2015]  ClientConnect: 1
+[Fri Nov 13 09:28:22 2015]  mlog:Player sithergay, connected. With IP - 2.109.102.74:20816 
+[Fri Nov 13 09:28:36 2015]  ClientBegin: 1
+[Fri Nov 13 09:31:00 2015]  Kill: 1 0 3: sithergay killed LORD LINUS by MOD_SABER
+[Fri Nov 13 09:31:19 2015]  Kill: 0 1 3: LORD LINUS killed sithergay by MOD_SABER
+[Fri Nov 13 09:32:25 2015]  Kill: 1022 0 38: <world> killed LORD LINUS by MOD_FALLING
+[Fri Nov 13 09:32:55 2015]  Kill: 0 1 3: LORD LINUS killed sithergay by MOD_SABER
+[Fri Nov 13 09:34:42 2015]  Kill: 1022 0 38: <world> killed LORD LINUS by MOD_FALLING
+[Fri Nov 13 09:34:59 2015]  ClientDisconnect: 1
+[Fri Nov 13 09:35:01 2015]  ClientDisconnect: 0
+[Fri Nov 13 17:10:36 2015]  ClientConnect: 0
+[Fri Nov 13 17:10:36 2015]  mlog:Player emilek, connected. With IP - 89.177.158.92:29070 
+[Fri Nov 13 17:11:01 2015]  ClientBegin: 0
+[Fri Nov 13 17:11:38 2015]  ClientDisconnect: 0
+[Fri Nov 13 17:12:46 2015]  ClientConnect: 0
+[Fri Nov 13 17:12:46 2015]  mlog:Player emilek, connected. With IP - 89.177.158.92:29070 
+[Fri Nov 13 17:12:56 2015]  ClientBegin: 0
+[Fri Nov 13 17:14:12 2015]  ClientConnect: 1
+[Fri Nov 13 17:14:12 2015]  mlog:Player Darth Vader, connected. With IP - 89.177.158.92:1025 
+[Fri Nov 13 17:15:07 2015]  ClientBegin: 1
+[Fri Nov 13 17:16:05 2015]  Kill: 1022 0 38: <world> killed emilek by MOD_FALLING
+[Fri Nov 13 17:16:27 2015]  Kill: 0 1 3: emilek killed Darth Vader by MOD_SABER
+[Fri Nov 13 17:16:44 2015]  Kill: 0 1 3: emilek killed Darth Vader by MOD_SABER
+[Fri Nov 13 17:17:31 2015]  Kill: 0 1 3: emilek killed Darth Vader by MOD_SABER
+[Fri Nov 13 17:18:22 2015]  Kill: 1 0 3: Darth Vader killed emilek by MOD_SABER
+[Fri Nov 13 17:19:15 2015]  ClientDisconnect: 0
+[Fri Nov 13 17:23:12 2015]  ClientDisconnect: 1
+[Sat Nov 14 09:29:06 2015]  ClientConnect: 0
+[Sat Nov 14 09:29:06 2015]  mlog:Player HK-141, connected. With IP - 73.184.113.185:29070 
+[Sat Nov 14 09:29:18 2015]  ClientBegin: 0
+[Sat Nov 14 09:29:41 2015]  print "Padawan^7 @@@PLRENAME HK-141
+"[Sat Nov 14 09:29:54 2015]  ClientConnect: 1
+[Sat Nov 14 09:29:54 2015]  mlog:Player Padawan, connected. With IP - 64.89.58.199:29070 
+[Sat Nov 14 09:30:13 2015]  ClientBegin: 1
+[Sat Nov 14 09:30:20 2015]  say: HK-141: npc spawn stormtrooper
+[Sat Nov 14 09:30:26 2015]  say: HK-141: npc spawn stormtrooper
+[Sat Nov 14 09:33:21 2015]  Kill: 1022 1 38: <world> killed Kahida by MOD_FALLING
+[Sat Nov 14 09:34:02 2015]  say: HK-141: npc spawn stormtrooper
+[Sat Nov 14 09:37:03 2015]  say: HK-141: I'mma hop off
+[Sat Nov 14 09:37:08 2015]  say: Kahida: I'm right behind you
+[Sat Nov 14 09:37:12 2015]  say: Kahida: I'm so tiered
+[Sat Nov 14 09:37:17 2015]  say: HK-141: Alrighty
+[Sat Nov 14 09:37:20 2015]  say: Kahida: I can't even spell
+[Sat Nov 14 09:37:21 2015]  ClientDisconnect: 0
+[Sat Nov 14 09:37:26 2015]  say: Kahida: First gonna jump on GW
+[Sat Nov 14 09:37:32 2015]  ClientDisconnect: 1

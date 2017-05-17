@@ -1,0 +1,113 @@
+logfile opened on Thu Jan 07 23:22:13 2016
+
+...detecting CPU, found AMD w/ 3DNow!
+--- Common Initialization Complete ---
+Winsock Initialized
+Opening IP socket: localhost:29070
+Hostname: Mars
+IP: 192.168.1.2
+Working directory: E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData
+execing makermod.cfg
+running_makermod.cfg 
+sv_cheats is read only.
+------ Server Initialization ------
+Server: t2_trip
+Current search path:
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\zzzz_MakerModule_ClientPlugin_v061a_Public.pk3 (2 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\tmuconsole.pk3 (8 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\the_academy_v3.pk3 (121 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\subway.pk3 (15 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\sithcouncilv2.pk3 (285 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\s3_cloneblaster.pk3 (45 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\makerparav1.pk3 (15 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod Serverside v1.3b.pk3 (1 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod In-game menu.pk3 (14 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod Client Plugin.pk3 (2 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\hoverboard_if_extras.pk3 (4 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\hoverboard_if.pk3 (69 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\BlueIce Twilight.pk3 (159 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\BlueIce Nightfall.pk3 (248 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData/makermod
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\veh_dlls.pk3 (3 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\sjc_kashyyyk.pk3 (82 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\sithcouncilv2.pk3 (285 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\Makermod In-game menu Base.pk3 (9 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\Jedi'sHomeJL_II.pk3 (120 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\japlus_gla_anims.pk3 (6 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets3.pk3 (16 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets2.pk3 (62 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets1.pk3 (8320 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets0.pk3 (15346 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData/base
+
+handle 1: qconsole.log
+----------------------
+50474 files in pk3 files
+Loading dll file jampgame.
+ ------- Installing Engine Patches -------- 
+Finished
+------- Game Initialization -------
+gamename: MakerMod
+gameversion: 1.3beta
+gamedate: Dec 27 2010
+MakerMod is written to celebrate our ability
+to learn to make things that improve our lives
+and the life of the species as a whole.
+------------------------------------------------------------
+InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+Loading map objects for t2_trip
+Loaded 136 objects.
+^3Bot route data not found for t2_trip
+execing remaps/general
+Shader Remap: models/map_objects/desert/view_panel_screen_desert ^3-> ^7textures/video/raven
+Shader Remap: models/players/jawa/jawa ^3-> ^7textures/video/raven
+Shader Remap: textures/factory/cat_floor_B ^3-> ^7models/map_objects/factory/glass
+Shader Remap: textures/factory/basic2_Tiled_b ^3-> ^7textures/rbettenbergtest/glass2
+Shader Remap: gfx/mp/chat_icon ^3-> ^7gfx/effects/stunpass
+Shader Remap: gfx/misc/csparks ^3-> ^7gfx/effects/greenfrontflash
+Shader Remap: gfx/effects/sabers/saberblur ^3-> ^7gfx/effects/fire4
+Shader Remap: gfx/effects/forcepush ^3-> ^7gfx/effects/flamejet
+Shader Remap: models/players/reborn_twin/torso ^3-> ^7fonts/ocr_a
+Shader Remap: models/players/reborn_twin/head ^3-> ^7fonts/ocr_a
+Shader Remap: models/players/reborn_twin/legs ^3-> ^7fonts/ocr_a
+Shader Remap: models/players/reborn_twin/hands ^3-> ^7fonts/ocr_a
+Shader Remap: models/players/reborn_twin/arms ^3-> ^7fonts/ocr_a
+Shader Remap: models/players/reborn_twin/icon_default ^3-> ^7fonts/ocr_a
+Shader Remap: models/map_objects/factory/f_con1 ^3-> ^7textures/rift/carvedwall
+Shader Remap: models/map_objects/factory/f_con2 ^3-> ^7textures/rift/carvedwall
+Shader Remap: models/map_objects/factory/f_con1_screen ^3-> ^7textures/doomgiver/comm_panel2
+Shader Remap: models/map_objects/factory/f_con2_screen ^3-> ^7textures/doomgiver/comm_panel2
+execing remaps/trip
+Shader Remap: textures/skies/taspir1 ^3-> ^7textures/skies/byss
+Shader Remap: textures/quicktrip/desert_0 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/desert_1 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/desert_1to2 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/desert_2 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/desert_0to1 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/modern_qt_floor ^3-> ^7textures/yavin/obsidian_templebasic
+Shader Remap: textures/quicktrip/modern_qt_basestone ^3-> ^7textures/yavin/obsidian_templebasic2
+Shader Remap: textures/quicktrip/qt_Door_rough ^3-> ^7textures/kejim/stars_scroll
+Shader Remap: textures/quicktrip/qt_wall2_phong ^3-> ^7textures/vjun/floor3
+Shader Remap: textures/quicktrip/modern_qt_trim_top ^3-> ^7textures/quicktrip/qt_trim2
+Shader Remap: textures/quicktrip/qt_domebase ^3-> ^7textures/vjun/floor3
+Shader Remap: textures/quicktrip/new_qt_wall2_entrance ^3-> ^7textures/vjun/wall9
+Shader Remap: textures/quicktrip/pillar ^3-> ^7textures/vjun/walk_ceiling
+Shader Remap: textures/quicktrip/qt_pillarbase ^3-> ^7textures/vjun/wall8
+Shader Remap: textures/bounty/basic1_dark ^3-> ^7textures/vjun/wall9
+Shader Remap: textures/quicktrip/qt_stonefloor_phong ^3-> ^7textures/yavin/obsidian_templebasic
+Shader Remap: textures/quicktrip/qt_basestone_phong ^3-> ^7textures/yavin/obsidian_templebasic
+Cvar_Set2: logfile 1
+finishing_makermod.cfg 
+Cvar_Set2: net_port 29070
+Hitch warning: 93437433 msec frame time
+broadcast: print "Server: g_forceRegenTime changed to 0\n"
+broadcast: print "Server: timelimit changed to 0\n"
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/players/jedi/model.glm"
+RE_RegisterModels_GetDiskFile(): Disk-loading "models/weapons2/saber_2/saber_2.glm"
+Resolving masterjk3.ravensoft.com
+masterjk3.ravensoft.com resolved to 104.40.23.123:29060
+Sending heartbeat to masterjk3.ravensoft.com
+Resolving master.jkhub.org
+master.jkhub.org resolved to 178.33.231.116:29060
+Sending heartbeat to master.jkhub.org
+Resolving 162.213.223.155

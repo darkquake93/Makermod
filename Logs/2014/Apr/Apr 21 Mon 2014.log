@@ -1,0 +1,58 @@
+[Mon Apr 21 00:21:45 2014]  ------------------------------------------------------------
+[Mon Apr 21 00:21:45 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Apr 21 00:21:47 2014]  ClientConnect: 0
+[Mon Apr 21 00:22:42 2014]  ClientBegin: 0
+[Mon Apr 21 00:22:43 2014]  say: ^5»^0SK^5|||^0WШLF^5«^0™: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon Apr 21 00:23:05 2014]  say: ^5»^0SK^5|||^0WШLF^5«^0™: ^5»^7:^5|^7hellow server^5.
+[Mon Apr 21 00:28:36 2014]  Item: 0 weapon_melee
+[Mon Apr 21 00:29:15 2014]  ClientDisconnect: 0
+[Mon Apr 21 02:21:43 2014]  Exit: Timelimit hit.
+[Mon Apr 21 12:51:09 2014]  ClientConnect: 0
+[Mon Apr 21 12:51:09 2014]  mlog:Player ^5»^0SK^5|||^0WШLF^5«^0™, connected. With IP - 201.92.196.78:29070 
+[Mon Apr 21 12:52:19 2014]  ClientBegin: 0
+[Mon Apr 21 12:52:20 2014]  say: ^5»^0SK^5|||^0WШLF^5«^0™: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon Apr 21 12:52:26 2014]  ShutdownGame:
+[Mon Apr 21 12:52:26 2014]  ------------------------------------------------------------
+[Mon Apr 21 12:52:27 2014]  ------------------------------------------------------------
+[Mon Apr 21 12:52:27 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Apr 21 12:52:27 2014]  ClientConnect: 0
+[Mon Apr 21 12:53:41 2014]  ClientBegin: 0
+[Mon Apr 21 12:53:44 2014]  say: ^5»^0SK^5|||^0WШLF^5«^0™: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon Apr 21 12:54:22 2014]  tell: ^5»^0SK^5|||^0WШLF^5«^0™ to ^5»^0SK^5|||^0WШLF^5«^0™: ^5UU ^0- ^7JA ^5Restored
+[Mon Apr 21 13:01:09 2014]  Item: 0 weapon_melee
+[Mon Apr 21 13:05:52 2014]  ClientDisconnect: 0
+[Mon Apr 21 13:24:44 2014]  ClientConnect: 0
+[Mon Apr 21 13:24:44 2014]  mlog:Player Gira, connected. With IP - 95.70.18.98:29070 
+[Mon Apr 21 13:24:57 2014]  ClientBegin: 0
+[Mon Apr 21 13:25:05 2014]  say: Padawan: еее
+[Mon Apr 21 13:25:08 2014]  say: Padawan: сука
+[Mon Apr 21 13:25:15 2014]  say: Padawan: d
+[Mon Apr 21 13:25:37 2014]  print "Padawan^7 @@@PLRENAME Gira
+"[Mon Apr 21 13:27:22 2014]  ClientConnect: 1
+[Mon Apr 21 13:27:22 2014]  mlog:Player BUGAI, connected. With IP - 62.249.146.74:26511 
+[Mon Apr 21 13:27:45 2014]  ClientBegin: 1
+[Mon Apr 21 13:28:13 2014]  say: BUGAI: ты тут?
+[Mon Apr 21 13:28:21 2014]  say: Gira: не понимать
+[Mon Apr 21 13:30:20 2014]  Kill: 1 0 3: BUGAI killed Gira by MOD_SABER
+[Mon Apr 21 13:32:11 2014]  say: BUGAI: Ns ulttttttttt&
+[Mon Apr 21 13:32:30 2014]  say: Gira: что? я не вижу символов
+[Mon Apr 21 13:32:41 2014]  say: Gira: стрельни в воздух
+[Mon Apr 21 13:32:45 2014]  say: BUGAI: ок
+[Mon Apr 21 13:34:58 2014]  say: BUGAI: ты где бля??????????
+[Mon Apr 21 13:35:03 2014]  say: Gira: жажажажа
+[Mon Apr 21 13:35:08 2014]  say: BUGAI: н
+[Mon Apr 21 13:35:14 2014]  say: Gira: я не понимаю что ты пишешь блять
+[Mon Apr 21 13:35:29 2014]  say: BUGAI: Кулакову трахни иди))))
+[Mon Apr 21 13:37:41 2014]  say: BUGAI: ns ultttttttttttt
+[Mon Apr 21 13:37:46 2014]  say: Gira: что
+[Mon Apr 21 13:37:56 2014]  say: BUGAI: Gde
+[Mon Apr 21 13:38:03 2014]  say: BUGAI: TYYYYYYY
+[Mon Apr 21 13:38:07 2014]  ClientDisconnect: 0
+[Mon Apr 21 13:38:16 2014]  ClientDisconnect: 1
+[Mon Apr 21 14:52:26 2014]  Exit: Timelimit hit.
+[Mon Apr 21 22:51:40 2014]  ------------------------------------------------------------
+[Mon Apr 21 22:51:40 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Apr 22 00:51:44 2014]  Exit: Timelimit hit.
+[Tue Apr 22 12:21:01 2014]  ClientConnect: 0
+[Tue Apr 22 12:21:01 2014]  mlog:Player ^4Star^0ples, connected. With IP - 46.146.113.192:29070 
+[Tue Apr 22 12:21:13 2014]  ClientDisconnect: 0

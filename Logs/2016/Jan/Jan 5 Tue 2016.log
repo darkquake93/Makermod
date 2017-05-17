@@ -1,0 +1,951 @@
+[Tue Jan 05 14:37:33 2016]  ------------------------------------------------------------
+[Tue Jan 05 14:37:33 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 05 14:46:42 2016]  ------------------------------------------------------------
+[Tue Jan 05 14:46:42 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 05 14:49:05 2016]  ShutdownGame:
+[Tue Jan 05 14:49:05 2016]  ------------------------------------------------------------
+[Tue Jan 05 14:49:06 2016]  ------------------------------------------------------------
+[Tue Jan 05 14:49:06 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 05 14:49:15 2016]  ClientConnect: 0
+[Tue Jan 05 14:49:15 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Tue Jan 05 14:49:33 2016]  ClientConnect: 1
+[Tue Jan 05 14:49:33 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Jan 05 14:49:34 2016]  ClientBegin: 0
+[Tue Jan 05 14:49:45 2016]  ClientBegin: 1
+[Tue Jan 05 14:49:51 2016]  Item: 1 weapon_melee
+[Tue Jan 05 14:50:03 2016]  say: ^0Раrk^2^1Qµаkи: hey, sorry how do you get a new line again on the joining message? :p
+[Tue Jan 05 14:50:08 2016]  say: ^0Раrk^2^1Qµаkи: when you load the map
+[Tue Jan 05 14:50:14 2016]  say: ^0Shadow^5seer: have no idea
+[Tue Jan 05 14:50:19 2016]  say: ^0Раrk^2^1Qµаkи: cause \n isn't working
+[Tue Jan 05 14:50:27 2016]  say: ^0Shadow^5seer: never had too much text to make 2 lines on my server
+[Tue Jan 05 14:50:51 2016]  say: ^0Раrk^2^1Qµаkи: lol well I'll put it on the ingame one instead for now, I used to be able to do it but forgot
+[Tue Jan 05 14:51:08 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 14:51:13 2016]  say: ^0Раrk^2^1Qµаkи: but yeah gotta work on Uni stuff. this should restart every 30 mins past the hour
+[Tue Jan 05 14:51:23 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 14:51:55 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 14:52:05 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 14:52:10 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 14:53:07 2016]  ShutdownGame:
+[Tue Jan 05 14:53:07 2016]  ------------------------------------------------------------
+[Tue Jan 05 14:53:08 2016]  ------------------------------------------------------------
+[Tue Jan 05 14:53:08 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 05 14:53:09 2016]  ClientConnect: 0
+[Tue Jan 05 14:53:09 2016]  ClientConnect: 1
+[Tue Jan 05 14:53:15 2016]  ClientBegin: 1
+[Tue Jan 05 14:53:15 2016]  ClientBegin: 0
+[Tue Jan 05 14:53:38 2016]  ClientDisconnect: 0
+[Tue Jan 05 14:54:14 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 14:54:26 2016]  Item: 1 weapon_melee
+[Tue Jan 05 14:54:44 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 14:56:52 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 14:57:01 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 15:00:30 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 15:00:55 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 15:02:09 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 15:02:59 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 15:04:18 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 15:05:23 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 15:09:21 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 15:09:41 2016]  ClientDisconnect: 1
+[Tue Jan 05 15:35:05 2016]  ClientConnect: 0
+[Tue Jan 05 15:35:05 2016]  mlog:Player Padawan, connected. With IP - 37.26.128.53:29070 
+[Tue Jan 05 15:35:05 2016]  ClientConnect: 1
+[Tue Jan 05 15:35:05 2016]  mlog:Player Padawan, connected. With IP - 94.230.45.100:29070 
+[Tue Jan 05 15:35:17 2016]  ClientBegin: 0
+[Tue Jan 05 15:35:20 2016]  ClientBegin: 1
+[Tue Jan 05 15:36:18 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:37:04 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:37:13 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:37:40 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:37:48 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:38:47 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:39:13 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:40:00 2016]  Kill: 0 1 5: Padawan killed Padawan by MOD_BRYAR_PISTOL_ALT
+[Tue Jan 05 15:41:10 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:41:23 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:41:45 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:42:46 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:43:02 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:43:44 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:44:33 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:44:56 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:46:11 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:46:42 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:46:54 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:47:08 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:47:20 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:47:32 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:48:31 2016]  say: Padawan: trweqewr
+[Tue Jan 05 15:50:16 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:50:28 2016]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Tue Jan 05 15:50:43 2016]  tell: Padawan to Padawan: jmhnbolvcx
+[Tue Jan 05 15:50:59 2016]  print "Padawan^7 @@@PLRENAME Shott
+"[Tue Jan 05 15:51:28 2016]  Kill: 1 0 3: Padawan killed Shott by MOD_SABER
+[Tue Jan 05 15:52:49 2016]  Kill: 1 0 3: Padawan killed Shott by MOD_SABER
+[Tue Jan 05 15:53:02 2016]  Kill: 0 1 31: Shott killed Padawan by MOD_FORCE_DARK
+[Tue Jan 05 15:53:12 2016]  Kill: 1 0 3: Padawan killed Shott by MOD_SABER
+[Tue Jan 05 15:53:24 2016]  Kill: 0 1 31: Shott killed Padawan by MOD_FORCE_DARK
+[Tue Jan 05 15:53:34 2016]  Kill: 1 0 3: Padawan killed Shott by MOD_SABER
+[Tue Jan 05 15:53:56 2016]  Kill: 0 1 31: Shott killed Padawan by MOD_FORCE_DARK
+[Tue Jan 05 15:54:12 2016]  Kill: 0 1 3: Shott killed Padawan by MOD_SABER
+[Tue Jan 05 15:54:28 2016]  Kill: 1 0 3: Padawan killed Shott by MOD_SABER
+[Tue Jan 05 15:54:55 2016]  Kill: 0 1 3: Shott killed Padawan by MOD_SABER
+[Tue Jan 05 15:55:19 2016]  Kill: 0 1 3: Shott killed Padawan by MOD_SABER
+[Tue Jan 05 15:55:34 2016]  Kill: 0 1 3: Shott killed Padawan by MOD_SABER
+[Tue Jan 05 15:55:40 2016]  Kill: 0 1 3: Shott killed Padawan by MOD_SABER
+[Tue Jan 05 15:55:56 2016]  Kill: 0 1 3: Shott killed Padawan by MOD_SABER
+[Tue Jan 05 15:56:01 2016]  Kill: 0 1 3: Shott killed Padawan by MOD_SABER
+[Tue Jan 05 15:56:05 2016]  Kill: 0 1 3: Shott killed Padawan by MOD_SABER
+[Tue Jan 05 15:56:22 2016]  Kill: 0 1 3: Shott killed Padawan by MOD_SABER
+[Tue Jan 05 15:56:40 2016]  Kill: 1 0 3: Padawan killed Shott by MOD_SABER
+[Tue Jan 05 15:57:24 2016]  Kill: 1 0 3: Padawan killed Shott by MOD_SABER
+[Tue Jan 05 15:57:55 2016]  Kill: 0 1 31: Shott killed Padawan by MOD_FORCE_DARK
+[Tue Jan 05 15:59:01 2016]  Kill: 1 0 3: Padawan killed Shott by MOD_SABER
+[Tue Jan 05 15:59:20 2016]  Kill: 0 1 31: Shott killed Padawan by MOD_FORCE_DARK
+[Tue Jan 05 15:59:40 2016]  Kill: 0 1 3: Shott killed Padawan by MOD_SABER
+[Tue Jan 05 16:00:09 2016]  Kill: 1 0 3: Padawan killed Shott by MOD_SABER
+[Tue Jan 05 16:00:34 2016]  Kill: 0 1 3: Shott killed Padawan by MOD_SABER
+[Tue Jan 05 16:00:54 2016]  Kill: 1 0 3: Padawan killed Shott by MOD_SABER
+[Tue Jan 05 16:01:02 2016]  ClientDisconnect: 0
+[Tue Jan 05 16:02:34 2016]  ClientDisconnect: 1
+[Tue Jan 05 16:20:15 2016]  ClientConnect: 0
+[Tue Jan 05 16:20:15 2016]  mlog:Player Nara, connected. With IP - 94.219.72.26:29070 
+[Tue Jan 05 16:20:22 2016]  ClientConnect: 1
+[Tue Jan 05 16:20:22 2016]  mlog:Player ^4OverTheGreat, connected. With IP - 2.134.194.223:29070 
+[Tue Jan 05 16:20:28 2016]  ClientBegin: 0
+[Tue Jan 05 16:20:39 2016]  ClientConnect: 2
+[Tue Jan 05 16:20:39 2016]  mlog:Player Sem, connected. With IP - 95.90.192.85:8124 
+[Tue Jan 05 16:20:44 2016]  ClientBegin: 1
+[Tue Jan 05 16:20:57 2016]  ClientBegin: 2
+[Tue Jan 05 16:21:29 2016]  ClientConnect: 3
+[Tue Jan 05 16:21:29 2016]  mlog:Player Veloran, connected. With IP - 2.206.235.32:29070 
+[Tue Jan 05 16:21:40 2016]  Kill: 2 0 3: Sem killed Nara by MOD_SABER
+[Tue Jan 05 16:21:47 2016]  ClientBegin: 3
+[Tue Jan 05 16:22:10 2016]  Kill: 2 1 3: Sem killed ^4OverTheGreat by MOD_SABER
+[Tue Jan 05 16:23:00 2016]  Kill: 0 2 3: Nara killed Sem by MOD_SABER
+[Tue Jan 05 16:23:49 2016]  Kill: 2 0 3: Sem killed Nara by MOD_SABER
+[Tue Jan 05 16:23:57 2016]  Kill: 1 2 3: ^4OverTheGreat killed Sem by MOD_SABER
+[Tue Jan 05 16:24:14 2016]  Kill: 2 3 3: Sem killed Veloran by MOD_SABER
+[Tue Jan 05 16:24:29 2016]  say: Veloran: sasards
+[Tue Jan 05 16:24:49 2016]  Kill: 0 2 3: Nara killed Sem by MOD_SABER
+[Tue Jan 05 16:24:49 2016]  Kill: 0 3 3: Nara killed Veloran by MOD_SABER
+[Tue Jan 05 16:25:02 2016]  Kill: 0 3 3: Nara killed Veloran by MOD_SABER
+[Tue Jan 05 16:25:24 2016]  Kill: 2 3 3: Sem killed Veloran by MOD_SABER
+[Tue Jan 05 16:25:30 2016]  Kill: 1 2 3: ^4OverTheGreat killed Sem by MOD_SABER
+[Tue Jan 05 16:26:00 2016]  Kill: 3 0 3: Veloran killed Nara by MOD_SABER
+[Tue Jan 05 16:26:29 2016]  Kill: 3 2 3: Veloran killed Sem by MOD_SABER
+[Tue Jan 05 16:27:33 2016]  Kill: 3 0 3: Veloran killed Nara by MOD_SABER
+[Tue Jan 05 16:27:44 2016]  Kill: 0 3 3: Nara killed Veloran by MOD_SABER
+[Tue Jan 05 16:27:44 2016]  ClientConnect: 4
+[Tue Jan 05 16:27:44 2016]  mlog:Player Padawan, connected. With IP - 213.24.125.50:-6720 
+[Tue Jan 05 16:28:00 2016]  Kill: 0 3 3: Nara killed Veloran by MOD_SABER
+[Tue Jan 05 16:28:13 2016]  ClientBegin: 4
+[Tue Jan 05 16:28:24 2016]  Kill: 0 3 4: Nara killed Veloran by MOD_BRYAR_PISTOL
+[Tue Jan 05 16:28:39 2016]  Kill: 0 2 3: Nara killed Sem by MOD_SABER
+[Tue Jan 05 16:28:40 2016]  Kill: 3 0 3: Veloran killed Nara by MOD_SABER
+[Tue Jan 05 16:29:01 2016]  Kill: 0 2 3: Nara killed Sem by MOD_SABER
+[Tue Jan 05 16:29:09 2016]  Kill: 3 0 3: Veloran killed Nara by MOD_SABER
+[Tue Jan 05 16:29:46 2016]  Kill: 0 3 3: Nara killed Veloran by MOD_SABER
+[Tue Jan 05 16:30:20 2016]  Kill: 3 2 3: Veloran killed Sem by MOD_SABER
+[Tue Jan 05 16:30:20 2016]  Kill: 0 3 3: Nara killed Veloran by MOD_SABER
+[Tue Jan 05 16:30:47 2016]  Kill: 2 0 3: Sem killed Nara by MOD_SABER
+[Tue Jan 05 16:30:54 2016]  Kill: 2 4 3: Sem killed Padawan by MOD_SABER
+[Tue Jan 05 16:30:57 2016]  Kill: 2 3 3: Sem killed Veloran by MOD_SABER
+[Tue Jan 05 16:31:46 2016]  Kill: 3 4 3: Veloran killed Padawan by MOD_SABER
+[Tue Jan 05 16:32:00 2016]  Kill: 0 2 3: Nara killed Sem by MOD_SABER
+[Tue Jan 05 16:32:08 2016]  Kill: 4 3 31: Padawan killed Veloran by MOD_FORCE_DARK
+[Tue Jan 05 16:32:09 2016]  Kill: 4 0 31: Padawan killed Nara by MOD_FORCE_DARK
+[Tue Jan 05 16:32:17 2016]  Kill: 4 2 3: Padawan killed Sem by MOD_SABER
+[Tue Jan 05 16:32:20 2016]  ClientDisconnect: 2
+[Tue Jan 05 16:32:22 2016]  ClientDisconnect: 3
+[Tue Jan 05 16:32:25 2016]  ClientDisconnect: 0
+[Tue Jan 05 16:33:42 2016]  Kill: 1 4 3: ^4OverTheGreat killed Padawan by MOD_SABER
+[Tue Jan 05 16:33:48 2016]  ClientDisconnect: 4
+[Tue Jan 05 16:33:52 2016]  ClientDisconnect: 1
+[Tue Jan 05 16:49:05 2016]  ------------------------------------------------------------
+[Tue Jan 05 16:49:05 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 05 16:58:36 2016]  ClientConnect: 0
+[Tue Jan 05 16:58:36 2016]  mlog:Player Lord Vladik, connected. With IP - 217.118.78.41:27489 
+[Tue Jan 05 16:58:51 2016]  ClientBegin: 0
+[Tue Jan 05 16:59:44 2016]  ClientConnect: 1
+[Tue Jan 05 16:59:44 2016]  mlog:Player Swain, connected. With IP - 37.57.127.235:29070 
+[Tue Jan 05 17:00:00 2016]  ClientBegin: 1
+[Tue Jan 05 17:00:29 2016]  Kill: 1 1 39: Swain killed Swain by MOD_SUICIDE
+[Tue Jan 05 17:00:29 2016]  setteam:  1 FREE SPECTATOR
+[Tue Jan 05 17:00:29 2016]  ClientBegin: 1
+[Tue Jan 05 17:00:52 2016]  setteam:  1 SPECTATOR FREE
+[Tue Jan 05 17:00:52 2016]  ClientBegin: 1
+[Tue Jan 05 17:01:27 2016]  Kill: 1 1 39: Swain killed Swain by MOD_SUICIDE
+[Tue Jan 05 17:01:27 2016]  setteam:  1 FREE SPECTATOR
+[Tue Jan 05 17:01:27 2016]  ClientBegin: 1
+[Tue Jan 05 17:01:33 2016]  setteam:  1 SPECTATOR FREE
+[Tue Jan 05 17:01:33 2016]  ClientBegin: 1
+[Tue Jan 05 17:02:41 2016]  Kill: 0 1 3: Lord Vladik killed Swain by MOD_SABER
+[Tue Jan 05 17:02:47 2016]  say: Swain: лол
+[Tue Jan 05 17:02:50 2016]  say: Swain: Ясн
+[Tue Jan 05 17:03:47 2016]  say: Lord Vladik: что это
+[Tue Jan 05 17:04:01 2016]  Kill: 0 1 3: Lord Vladik killed Swain by MOD_SABER
+[Tue Jan 05 17:04:05 2016]  say: Swain: я штото не понял
+[Tue Jan 05 17:04:31 2016]  Kill: 0 1 3: Lord Vladik killed Swain by MOD_SABER
+[Tue Jan 05 17:04:34 2016]  say: Swain: Что это за херня
+[Tue Jan 05 17:04:37 2016]  say: Lord Vladik: кликай
+[Tue Jan 05 17:04:39 2016]  say: Lord Vladik: быстре
+[Tue Jan 05 17:04:46 2016]  Kill: 1 0 3: Swain killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:04:51 2016]  say: Lord Vladik: зря подсказал
+[Tue Jan 05 17:05:01 2016]  Kill: 1 0 3: Swain killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:05:04 2016]  say: Swain: аххаха
+[Tue Jan 05 17:05:12 2016]  Kill: 1 0 5: Swain killed Lord Vladik by MOD_BRYAR_PISTOL_ALT
+[Tue Jan 05 17:05:40 2016]  Kill: 1 0 3: Swain killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:05:44 2016]  say: Swain: не юзай это
+[Tue Jan 05 17:05:54 2016]  Kill: 1 0 3: Swain killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:06:00 2016]  say: Lord Vladik: да как)
+[Tue Jan 05 17:06:11 2016]  Kill: 0 1 3: Lord Vladik killed Swain by MOD_SABER
+[Tue Jan 05 17:06:32 2016]  Kill: 0 1 3: Lord Vladik killed Swain by MOD_SABER
+[Tue Jan 05 17:06:52 2016]  ClientConnect: 2
+[Tue Jan 05 17:06:52 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Jan 05 17:07:04 2016]  ClientBegin: 2
+[Tue Jan 05 17:07:09 2016]  Item: 2 weapon_melee
+[Tue Jan 05 17:07:24 2016]  say: Lord Vladik: как ты переключил?
+[Tue Jan 05 17:07:27 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 17:07:27 2016]  Kill: 1 0 31: Swain killed Lord Vladik by MOD_FORCE_DARK
+[Tue Jan 05 17:07:38 2016]  say: Swain: как я те скажу
+[Tue Jan 05 17:07:42 2016]  say: Lord Vladik: я тоже силу ситхов
+[Tue Jan 05 17:07:42 2016]  say: Swain: ты меня валишь
+[Tue Jan 05 17:07:43 2016]  say: Lord Vladik: выбрал
+[Tue Jan 05 17:07:48 2016]  say: Swain: выбери класс
+[Tue Jan 05 17:07:49 2016]  say: Lord Vladik: но не дались абилки
+[Tue Jan 05 17:07:51 2016]  say: Swain: дестройер
+[Tue Jan 05 17:08:05 2016]  Kill: 1 0 3: Swain killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:08:18 2016]  say: Lord Vladik: и че
+[Tue Jan 05 17:08:32 2016]  Kill: 1 0 3: Swain killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:08:36 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 17:09:00 2016]  Kill: 1 0 31: Swain killed Lord Vladik by MOD_FORCE_DARK
+[Tue Jan 05 17:09:01 2016]  say: Lord Vladik: А КАК ИХ ЮЗАТЬ
+[Tue Jan 05 17:09:08 2016]  say: Swain: переключай с помощью клавишь
+[Tue Jan 05 17:09:09 2016]  say: ^0Shadow^5seer: :D
+[Tue Jan 05 17:09:11 2016]  say: Swain: й у
+[Tue Jan 05 17:09:26 2016]  say: ^0Shadow^5seer: :DD
+[Tue Jan 05 17:09:28 2016]  say: Lord Vladik: это чат
+[Tue Jan 05 17:09:29 2016]  say: Lord Vladik: ведь
+[Tue Jan 05 17:09:55 2016]  say: ^0Shadow^5seer: не расходитесь, сейчас тут будет представление
+[Tue Jan 05 17:09:58 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 17:10:00 2016]  Kill: 1 0 3: Swain killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:10:15 2016]  Kill: 0 1 3: Lord Vladik killed Swain by MOD_SABER
+[Tue Jan 05 17:10:20 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 17:10:23 2016]  say: Swain: вот без этих кликов было бы лучше
+[Tue Jan 05 17:10:33 2016]  Kill: 1 0 31: Swain killed Lord Vladik by MOD_FORCE_DARK
+[Tue Jan 05 17:10:40 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 17:10:47 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 17:11:24 2016]  Kill: 0 1 31: Lord Vladik killed Swain by MOD_FORCE_DARK
+[Tue Jan 05 17:11:39 2016]  Kill: 1 0 31: Swain killed Lord Vladik by MOD_FORCE_DARK
+[Tue Jan 05 17:11:46 2016]  say: Lord Vladik: аха
+[Tue Jan 05 17:12:01 2016]  ClientConnect: 3
+[Tue Jan 05 17:12:01 2016]  mlog:Player Padawan, connected. With IP - 94.113.230.205:29070 
+[Tue Jan 05 17:12:12 2016]  Kill: 0 1 31: Lord Vladik killed Swain by MOD_FORCE_DARK
+[Tue Jan 05 17:12:21 2016]  ClientBegin: 3
+[Tue Jan 05 17:12:32 2016]  Kill: 1 0 3: Swain killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:12:46 2016]  Kill: 0 1 31: Lord Vladik killed Swain by MOD_FORCE_DARK
+[Tue Jan 05 17:12:49 2016]  say: Swain: сук(
+[Tue Jan 05 17:12:52 2016]  Kill: 0 3 3: Lord Vladik killed Padawan by MOD_SABER
+[Tue Jan 05 17:13:03 2016]  Kill: 3 1 31: Padawan killed Swain by MOD_FORCE_DARK
+[Tue Jan 05 17:13:04 2016]  ClientConnect: 4
+[Tue Jan 05 17:13:04 2016]  mlog:Player Padawan, connected. With IP - 178.121.98.65:-23422 
+[Tue Jan 05 17:13:07 2016]  Kill: 3 0 31: Padawan killed Lord Vladik by MOD_FORCE_DARK
+[Tue Jan 05 17:13:14 2016]  ClientConnect: 5
+[Tue Jan 05 17:13:14 2016]  mlog:Player Inariel, connected. With IP - 5.18.54.91:29070 
+[Tue Jan 05 17:13:17 2016]  Kill: 3 1 31: Padawan killed Swain by MOD_FORCE_DARK
+[Tue Jan 05 17:13:19 2016]  Kill: 3 0 31: Padawan killed Lord Vladik by MOD_FORCE_DARK
+[Tue Jan 05 17:13:21 2016]  say: Lord Vladik: ахаах
+[Tue Jan 05 17:13:27 2016]  say: Swain: го мир
+[Tue Jan 05 17:13:29 2016]  Kill: 0 1 3: Lord Vladik killed Swain by MOD_SABER
+[Tue Jan 05 17:13:31 2016]  say: Swain: ))((
+[Tue Jan 05 17:13:45 2016]  Kill: 1 0 3: Swain killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:13:48 2016]  ClientBegin: 5
+[Tue Jan 05 17:13:49 2016]  Kill: 1 3 3: Swain killed Padawan by MOD_SABER
+[Tue Jan 05 17:13:52 2016]  say: Swain: соре
+[Tue Jan 05 17:13:59 2016]  print "Padawan^7 @@@PLRENAME Gr3py
+"[Tue Jan 05 17:14:04 2016]  ClientBegin: 4
+[Tue Jan 05 17:14:15 2016]  Kill: 3 0 31: Gr3py killed Lord Vladik by MOD_FORCE_DARK
+[Tue Jan 05 17:14:20 2016]  say: Padawan: привет
+[Tue Jan 05 17:14:22 2016]  Kill: 0 1 3: Lord Vladik killed Swain by MOD_SABER
+[Tue Jan 05 17:14:23 2016]  say: ^0Shadow^5seer: привет
+[Tue Jan 05 17:14:35 2016]  say: ^0Shadow^5seer: /exec wizard
+[Tue Jan 05 17:14:41 2016]  Kill: 4 3 3: Padawan killed Gr3py by MOD_SABER
+[Tue Jan 05 17:14:50 2016]  Kill: 3 1 31: Gr3py killed Swain by MOD_FORCE_DARK
+[Tue Jan 05 17:14:53 2016]  Item: 5 weapon_melee
+[Tue Jan 05 17:14:54 2016]  Kill: 4 0 3: Padawan killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:14:55 2016]  say: Swain: вы все меня что ли?
+[Tue Jan 05 17:14:56 2016]  Kill: 0 1 37: Lord Vladik killed Swain by MOD_TELEFRAG
+[Tue Jan 05 17:15:04 2016]  Kill: 0 3 31: Lord Vladik killed Gr3py by MOD_FORCE_DARK
+[Tue Jan 05 17:15:11 2016]  Kill: 4 0 3: Padawan killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:15:12 2016]  Kill: 0 3 37: Lord Vladik killed Gr3py by MOD_TELEFRAG
+[Tue Jan 05 17:15:16 2016]  Kill: 3 0 3: Gr3py killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:15:25 2016]  Kill: 3 0 31: Gr3py killed Lord Vladik by MOD_FORCE_DARK
+[Tue Jan 05 17:15:33 2016]  say: Padawan: где скачать скрипты
+[Tue Jan 05 17:15:36 2016]  Kill: 3 1 3: Gr3py killed Swain by MOD_SABER
+[Tue Jan 05 17:15:36 2016]  Kill: 0 3 31: Lord Vladik killed Gr3py by MOD_FORCE_DARK
+[Tue Jan 05 17:15:41 2016]  Kill: 3 1 37: Gr3py killed Swain by MOD_TELEFRAG
+[Tue Jan 05 17:15:41 2016]  say: ^0Shadow^5seer: нигде, только самому писать
+[Tue Jan 05 17:15:50 2016]  Kill: 4 4 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Jan 05 17:15:52 2016]  say: Padawan: но я скачивал
+[Tue Jan 05 17:15:56 2016]  Kill: 0 3 3: Lord Vladik killed Gr3py by MOD_SABER
+[Tue Jan 05 17:15:57 2016]  say: ^0Shadow^5seer: ну там херовые
+[Tue Jan 05 17:15:59 2016]  Kill: 0 1 3: Lord Vladik killed Swain by MOD_SABER
+[Tue Jan 05 17:16:06 2016]  say: Padawan: но некоторые нормальные
+[Tue Jan 05 17:16:09 2016]  Kill: 3 1 31: Gr3py killed Swain by MOD_FORCE_DARK
+[Tue Jan 05 17:16:11 2016]  Kill: 3 4 31: Gr3py killed Padawan by MOD_FORCE_DARK
+[Tue Jan 05 17:16:11 2016]  say: Padawan: .пщв
+[Tue Jan 05 17:16:21 2016]  Kill: 3 0 3: Gr3py killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:16:37 2016]  Kill: 3 1 31: Gr3py killed Swain by MOD_FORCE_DARK
+[Tue Jan 05 17:16:41 2016]  Kill: 4 0 3: Padawan killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:16:49 2016]  Kill: 4 3 3: Padawan killed Gr3py by MOD_SABER
+[Tue Jan 05 17:16:59 2016]  Kill: 0 1 3: Lord Vladik killed Swain by MOD_SABER
+[Tue Jan 05 17:17:02 2016]  Kill: 4 0 3: Padawan killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:17:14 2016]  Kill: 4 3 3: Padawan killed Gr3py by MOD_SABER
+[Tue Jan 05 17:17:22 2016]  say: Padawan: ^4Lightning-^5Script by ^0Revan
+[Tue Jan 05 17:17:25 2016]  Kill: 3 0 31: Gr3py killed Lord Vladik by MOD_FORCE_DARK
+[Tue Jan 05 17:17:29 2016]  say: Padawan: ^4Lightning!
+[Tue Jan 05 17:17:49 2016]  say: Padawan: ^5Meditation!
+[Tue Jan 05 17:17:57 2016]  Kill: 3 0 3: Gr3py killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:18:06 2016]  say: Padawan: ^4Raikiri!!
+[Tue Jan 05 17:18:10 2016]  Kill: 1 3 3: Swain killed Gr3py by MOD_SABER
+[Tue Jan 05 17:18:10 2016]  Kill: 0 1 3: Lord Vladik killed Swain by MOD_SABER
+[Tue Jan 05 17:18:11 2016]  Kill: 4 4 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Jan 05 17:18:29 2016]  Kill: 4 1 3: Padawan killed Swain by MOD_SABER
+[Tue Jan 05 17:18:33 2016]  Kill: 0 3 3: Lord Vladik killed Gr3py by MOD_SABER
+[Tue Jan 05 17:18:41 2016]  Kill: 3 0 31: Gr3py killed Lord Vladik by MOD_FORCE_DARK
+[Tue Jan 05 17:18:41 2016]  say: Padawan: ^4Ninja-Script by ^0Revan
+[Tue Jan 05 17:18:54 2016]  say: Padawan: ^4Kagebunshin!!
+[Tue Jan 05 17:18:54 2016]  Kill: 3 0 3: Gr3py killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:19:20 2016]  Kill: 1 0 31: Swain killed Lord Vladik by MOD_FORCE_DARK
+[Tue Jan 05 17:19:22 2016]  say: Padawan: ^4Kagebunshin!!
+[Tue Jan 05 17:19:24 2016]  Kill: 1022 3 3: <world> killed Gr3py by MOD_SABER
+[Tue Jan 05 17:19:31 2016]  Kill: 5 3 37: Inariel killed Gr3py by MOD_TELEFRAG
+[Tue Jan 05 17:19:33 2016]  say: ^0Shadow^5seer: мы идем вас мочить
+[Tue Jan 05 17:19:34 2016]  Kill: 4 1 3: Padawan killed Swain by MOD_SABER
+[Tue Jan 05 17:19:35 2016]  Kill: 1 3 37: Swain killed Gr3py by MOD_TELEFRAG
+[Tue Jan 05 17:19:37 2016]  Kill: 2 0 36: ^0Shadow^5seer killed Lord Vladik by MOD_CRUSH
+[Tue Jan 05 17:19:50 2016]  say: Padawan: а кто ты
+[Tue Jan 05 17:19:53 2016]  Kill: 3 0 3: Gr3py killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:19:55 2016]  Kill: 4 1 3: Padawan killed Swain by MOD_SABER
+[Tue Jan 05 17:20:03 2016]  say: ^0Shadow^5seer: я владыка грома и молний
+[Tue Jan 05 17:20:12 2016]  say: Padawan: вау
+[Tue Jan 05 17:20:19 2016]  say: Padawan: ты фуриус
+[Tue Jan 05 17:20:20 2016]  say: Padawan: ?
+[Tue Jan 05 17:20:26 2016]  say: ^0Shadow^5seer: ну и со мной одна темная волшебница
+[Tue Jan 05 17:20:28 2016]  Kill: 4 0 3: Padawan killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:20:33 2016]  say: ^0Shadow^5seer: она высосет ваши души
+[Tue Jan 05 17:20:34 2016]  Kill: 0 3 31: Lord Vladik killed Gr3py by MOD_FORCE_DARK
+[Tue Jan 05 17:20:40 2016]  Kill: 3 1 31: Gr3py killed Swain by MOD_FORCE_DARK
+[Tue Jan 05 17:20:40 2016]  say: Padawan: ты фуриус?
+[Tue Jan 05 17:20:41 2016]  Kill: 3 0 31: Gr3py killed Lord Vladik by MOD_FORCE_DARK
+[Tue Jan 05 17:20:54 2016]  Kill: 4 1 3: Padawan killed Swain by MOD_SABER
+[Tue Jan 05 17:20:55 2016]  ClientConnect: 6
+[Tue Jan 05 17:20:55 2016]  mlog:Player Барон Вафельный, connected. With IP - 46.50.160.39:29070 
+[Tue Jan 05 17:20:59 2016]  Kill: 4 0 3: Padawan killed Lord Vladik by MOD_SABER
+[Tue Jan 05 17:20:59 2016]  Kill: 4 3 3: Padawan killed Gr3py by MOD_SABER
+[Tue Jan 05 17:21:03 2016]  Kill: 4 1 3: Padawan killed Swain by MOD_SABER
+[Tue Jan 05 17:21:13 2016]  ClientConnect: 7
+[Tue Jan 05 17:21:13 2016]  mlog:Player Сомбра, connected. With IP - 79.105.21.173:29070 
+[Tue Jan 05 17:21:17 2016]  ClientDisconnect: 0
+[Tue Jan 05 17:21:22 2016]  ClientBegin: 6
+[Tue Jan 05 17:21:22 2016]  say: Padawan: научи делать скрипты
+[Tue Jan 05 17:21:31 2016]  say: Padawan: пожалуйста
+[Tue Jan 05 17:21:37 2016]  ClientDisconnect: 1
+[Tue Jan 05 17:21:43 2016]  ClientBegin: 7
+[Tue Jan 05 17:21:48 2016]  ClientDisconnect: 5
+[Tue Jan 05 17:21:52 2016]  say: Padawan: лагает
+[Tue Jan 05 17:21:57 2016]  say: ^0Shadow^5seer: все
+[Tue Jan 05 17:21:59 2016]  say: ^0Shadow^5seer: сори
+[Tue Jan 05 17:22:03 2016]  Kill: 4 3 3: Padawan killed Gr3py by MOD_SABER
+[Tue Jan 05 17:22:06 2016]  -8<------- Crash Information ------->8-
+[Tue Jan 05 17:22:06 2016]      Please forward to Scooper 
+[Tue Jan 05 17:22:06 2016]  ---------------------------------------
+[Tue Jan 05 17:22:06 2016]  Version: MakerMod Win32
+[Tue Jan 05 17:22:06 2016]  Build Date: Dec 27 2010[Tue Jan 05 17:22:06 2016]  Build Time: 23:45:02[Tue Jan 05 17:22:06 2016]  Map: t2_trip
+[Tue Jan 05 17:22:06 2016]  Exception: Access violation (0xc0000005)
+[Tue Jan 05 17:22:06 2016]  Exception Address: 0x2015081a
+[Tue Jan 05 17:22:06 2016]  DLL Information:
+[Tue Jan 05 17:22:06 2016]  0x00400000	jampDed
+[Tue Jan 05 17:22:06 2016]  0x77620000	ntdll
+[Tue Jan 05 17:22:06 2016]  0x76210000	kernel32
+[Tue Jan 05 17:22:06 2016]  0x76320000	KERNELBASE
+[Tue Jan 05 17:22:06 2016]  0x729d0000	WSOCK32
+[Tue Jan 05 17:22:06 2016]  0x75940000	WS2_32
+[Tue Jan 05 17:22:06 2016]  0x76080000	msvcrt
+[Tue Jan 05 17:22:06 2016]  0x75f60000	RPCRT4
+[Tue Jan 05 17:22:06 2016]  0x75020000	SspiCli
+[Tue Jan 05 17:22:06 2016]  0x75010000	CRYPTBASE
+[Tue Jan 05 17:22:06 2016]  0x75980000	sechost
+[Tue Jan 05 17:22:06 2016]  0x75150000	NSI
+[Tue Jan 05 17:22:06 2016]  0x71640000	WINMM
+[Tue Jan 05 17:22:06 2016]  0x75570000	USER32
+[Tue Jan 05 17:22:06 2016]  0x759a0000	GDI32
+[Tue Jan 05 17:22:06 2016]  0x775f0000	LPK
+[Tue Jan 05 17:22:06 2016]  0x75080000	USP10
+[Tue Jan 05 17:22:06 2016]  0x76fc0000	ADVAPI32
+[Tue Jan 05 17:22:06 2016]  0x753e0000	IMM32
+[Tue Jan 05 17:22:06 2016]  0x76130000	MSCTF
+[Tue Jan 05 17:22:06 2016]  0x72970000	mswsock
+[Tue Jan 05 17:22:06 2016]  0x72960000	wshtcpip
+[Tue Jan 05 17:22:06 2016]  0x6f010000	NLAapi
+[Tue Jan 05 17:22:06 2016]  0x6ec60000	napinsp
+[Tue Jan 05 17:22:06 2016]  0x6ec40000	pnrpnsp
+[Tue Jan 05 17:22:06 2016]  0x71b50000	DNSAPI
+[Tue Jan 05 17:22:06 2016]  0x6ec30000	winrnr
+[Tue Jan 05 17:22:06 2016]  0x71390000	WLIDNSP
+[Tue Jan 05 17:22:06 2016]  0x752c0000	PSAPI
+[Tue Jan 05 17:22:06 2016]  0x75cd0000	SHLWAPI
+[Tue Jan 05 17:22:06 2016]  0x6ec20000	wshbth
+[Tue Jan 05 17:22:06 2016]  0x72130000	IPHLPAPI
+[Tue Jan 05 17:22:06 2016]  0x72120000	WINNSI
+[Tue Jan 05 17:22:06 2016]  0x71190000	fwpuclnt
+[Tue Jan 05 17:22:06 2016]  0x71180000	rasadhlp
+[Tue Jan 05 17:22:06 2016]  0x20000000	jampgamex86
+[Tue Jan 05 17:22:06 2016]  0x75290000	IMAGEHLP
+[Tue Jan 05 17:22:06 2016]  0x6e6b0000	dbghelp
+[Tue Jan 05 17:22:06 2016]  Backtrace:
+[Tue Jan 05 17:22:06 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x8ea4a) [0x2015081a]
+[Tue Jan 05 17:22:06 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x63fe) [0x200a596e]
+[Tue Jan 05 17:22:06 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0xdd) [0x2009f64d]
+[Tue Jan 05 17:22:06 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Tue Jan 05 17:22:06 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0044c751]
+[Tue Jan 05 17:22:06 2016]  (5) Unknown [0x64656420]
+[Tue Jan 05 17:22:06 2016]  (6) Unknown [0x74616369]
+[Tue Jan 05 17:22:06 2016]  (7) Unknown [0x32206465]
+[Tue Jan 05 17:22:06 2016]  (8) Unknown [0x65730020]
+[Tue Jan 05 17:22:06 2016]  (9) Unknown [0x73662074]
+[Tue Jan 05 17:22:06 2016]  (10) Unknown [0x6d61675f]
+[Tue Jan 05 17:22:06 2016]  (11) Unknown [0x616d2065]
+[Tue Jan 05 17:22:06 2016]  (12) Unknown [0x6d72656b]
+[Tue Jan 05 17:22:06 2016]  (13) Unknown [0x0020646f]
+[Tue Jan 05 17:22:06 2016]  (14) Unknown [0x63657865]
+[Tue Jan 05 17:22:06 2016]  (15) Unknown [0x6b616d20]
+[Tue Jan 05 17:22:06 2016]  (16) Unknown [0x6f6d7265]
+[Tue Jan 05 17:22:06 2016]  (17) Unknown [0x66632e64]
+[Tue Jan 05 17:22:06 2016]  (18) Unknown [0x78280067]
+[Tue Jan 05 17:22:06 2016]  (19) Unknown [0x5c293638]
+[Tue Jan 05 17:22:06 2016]  (20) Unknown [0x7fbb5e35]
+[Tue Jan 05 17:22:06 2016]  (21) Unknown [0x0e00a29f]
+[Tue Jan 05 17:22:06 2016]  (22) Unknown [0x21436587]
+[Tue Jan 05 17:22:06 2016]  (23) Unknown [0x00261f15]
+[Tue Jan 05 17:22:06 2016]  -8<--------------------------------->8-
+
+[Tue Jan 05 17:22:06 2016]  Attempting to clean up.
+[Tue Jan 05 17:22:06 2016]  ShutdownGame:
+[Tue Jan 05 17:22:06 2016]  ------------------------------------------------------------
+[Tue Jan 05 17:22:08 2016]  ------------------------------------------------------------
+[Tue Jan 05 17:22:08 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 05 17:22:17 2016]  ClientConnect: 0
+[Tue Jan 05 17:22:17 2016]  mlog:Player Padawan, connected. With IP - 178.121.98.65:-23422 
+[Tue Jan 05 17:22:23 2016]  ClientConnect: 1
+[Tue Jan 05 17:22:23 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Jan 05 17:22:30 2016]  ClientBegin: 1
+[Tue Jan 05 17:22:36 2016]  ClientBegin: 0
+[Tue Jan 05 17:22:38 2016]  Item: 1 weapon_melee
+[Tue Jan 05 17:22:45 2016]  say: Padawan: фуриус
+[Tue Jan 05 17:22:51 2016]  say: ^0Shadow^5seer: да че тебе
+[Tue Jan 05 17:23:01 2016]  say: Padawan: научи делать скрипты пожалуйста
+[Tue Jan 05 17:23:04 2016]  say: ^0Shadow^5seer: нет
+[Tue Jan 05 17:23:07 2016]  say: Padawan: почему
+[Tue Jan 05 17:23:15 2016]  say: ^0Shadow^5seer: провожу платные семинары по 1000 рублей за час
+[Tue Jan 05 17:23:26 2016]  say: ^0Shadow^5seer: потому что я пришел сюда играть, а не учить
+[Tue Jan 05 17:23:28 2016]  say: Padawan: у меня почему не работает makermod
+[Tue Jan 05 17:23:37 2016]  say: ^0Shadow^5seer: мэйкермод вокруг тебя, чувак
+[Tue Jan 05 17:23:37 2016]  say: Padawan: menu
+[Tue Jan 05 17:23:42 2016]  say: Padawan: makermod menu
+[Tue Jan 05 17:23:48 2016]  say: Padawan: я пытаюсь настроить кнопку и ничего
+[Tue Jan 05 17:23:52 2016]  say: ^0Shadow^5seer: консультация 500 рублей
+[Tue Jan 05 17:24:15 2016]  ClientConnect: 2
+[Tue Jan 05 17:24:15 2016]  mlog:Player Inariel, connected. With IP - 5.18.54.91:29070 
+[Tue Jan 05 17:24:42 2016]  ClientBegin: 2
+[Tue Jan 05 17:24:48 2016]  Item: 2 weapon_melee
+[Tue Jan 05 17:38:04 2016]  say: Padawan: ^1Welcome to Justin's Jousting(and other uses) platform
+[Tue Jan 05 17:38:19 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Tue Jan 05 17:40:37 2016]  say: Padawan: ^1Welcome to Justin's buffet
+[Tue Jan 05 17:41:07 2016]  say: Padawan: как сделать чтобы объекты появлялись в одном месте
+[Tue Jan 05 17:41:12 2016]  say: ^0Shadow^5seer: mmark
+[Tue Jan 05 17:41:23 2016]  say: ^0Shadow^5seer: и вырубить vgrabbing
+[Tue Jan 05 17:41:31 2016]  say: ^0Shadow^5seer: mgrabbing*
+[Tue Jan 05 17:41:47 2016]  ClientDisconnect: 2
+[Tue Jan 05 17:42:13 2016]  say: Padawan: ^1Welcome to Justin's buffet
+[Tue Jan 05 17:42:48 2016]  ClientConnect: 2
+[Tue Jan 05 17:42:48 2016]  mlog:Player Inariel, connected. With IP - 5.18.54.91:29070 
+[Tue Jan 05 17:43:17 2016]  ClientBegin: 2
+[Tue Jan 05 17:43:20 2016]  say: ^0Shadow^5seer: ты ведь даже не умеешь использовать скачанные скрипты, так зачем они тебе
+[Tue Jan 05 17:43:23 2016]  say: Padawan: ^1Welcome to Justin's buffet
+[Tue Jan 05 17:43:31 2016]  say: Padawan: все равно хочется
+[Tue Jan 05 17:43:41 2016]  say: Padawan: ^1Welcome to Justin's Jousting(and other uses) platform
+[Tue Jan 05 17:43:50 2016]  Item: 2 weapon_melee
+[Tue Jan 05 17:46:06 2016]  say: Padawan: ^3This duel platform was made by ^1P^4etz^1I
+[Tue Jan 05 17:48:58 2016]  say: Padawan: ^3This duel platform was made by ^1P^4etz^1I
+[Tue Jan 05 17:49:50 2016]  say: ^0Shadow^5seer: ^3Requesting ^3Orbital ^3Strike!
+[Tue Jan 05 17:52:16 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Tue Jan 05 17:52:43 2016]  say: ^0Shadow^5seer: чувааак
+[Tue Jan 05 17:52:55 2016]  say: ^0Shadow^5seer: мы твою платформу оккупировали
+[Tue Jan 05 17:53:03 2016]  say: Padawan: ^1Welcome to Justin's buffet
+[Tue Jan 05 17:53:10 2016]  say: Padawan: а где вы
+[Tue Jan 05 17:53:16 2016]  say: ^0Shadow^5seer: а ты вспоминай
+[Tue Jan 05 17:54:29 2016]  say: Padawan: ^1Welcome to Justin's Jousting(and other uses) platform
+[Tue Jan 05 17:54:32 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Tue Jan 05 17:54:35 2016]  say: ^0Shadow^5seer: о боже
+[Tue Jan 05 17:54:40 2016]  say: ^0Shadow^5seer: удаляй старые постройки
+[Tue Jan 05 17:54:55 2016]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Tue Jan 05 17:54:56 2016]  say: Padawan: может оно связанно
+[Tue Jan 05 17:54:58 2016]  say: ^0Shadow^5seer: нет
+[Tue Jan 05 17:55:00 2016]  say: ^0Shadow^5seer: поверь
+[Tue Jan 05 17:55:13 2016]  say: Padawan: ты меня специально обмануть хочешь
+[Tue Jan 05 17:55:21 2016]  say: ^0Shadow^5seer: ой дураааак
+[Tue Jan 05 17:55:22 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Tue Jan 05 17:55:30 2016]  say: Padawan: я тебя добавлю в игнор
+[Tue Jan 05 17:55:37 2016]  say: ^0Shadow^5seer: как скажешь
+[Tue Jan 05 17:55:45 2016]  Kill: 2 2 39: Inariel killed Inariel by MOD_SUICIDE
+[Tue Jan 05 17:55:59 2016]  Item: 2 weapon_melee
+[Tue Jan 05 17:56:14 2016]  say: ^0Shadow^5seer: вот зачем ты строишь несколько одинаковых построек одну на другой?
+[Tue Jan 05 17:56:20 2016]  say: Padawan: я же говорил
+[Tue Jan 05 17:56:27 2016]  say: ^0Shadow^5seer: от большого количества объектов будут лаги
+[Tue Jan 05 17:56:39 2016]  say: ^0Shadow^5seer: и я предпочту в этот момент быть отсюда подальше
+[Tue Jan 05 17:56:47 2016]  say: Padawan: если что я удаляю
+[Tue Jan 05 17:57:12 2016]  say: ^0Shadow^5seer: короче не стоит тебе пользоваться скриптами, которые ты не знаешь как работают
+[Tue Jan 05 17:57:13 2016]  say: Padawan: ^1Welcome to Justin's buffet
+[Tue Jan 05 17:57:41 2016]  say: Padawan: красота
+[Tue Jan 05 17:59:47 2016]  ClientDisconnect: 1
+[Tue Jan 05 17:59:50 2016]  Kill: 2 2 39: Inariel killed Inariel by MOD_SUICIDE
+[Tue Jan 05 17:59:59 2016]  ClientDisconnect: 2
+[Tue Jan 05 18:01:00 2016]  say: Padawan: ^3This duel platform was made by ^1P^4etz^1I
+[Tue Jan 05 18:01:05 2016]  ClientDisconnect: 0
+[Tue Jan 05 18:03:40 2016]  ClientConnect: 0
+[Tue Jan 05 18:03:40 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Jan 05 18:03:53 2016]  ClientBegin: 0
+[Tue Jan 05 18:04:25 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 18:04:44 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 18:04:57 2016]  Kill: 0 0 39: ^0Shadow^5seer killed ^0Shadow^5seer by MOD_SUICIDE
+[Tue Jan 05 18:05:03 2016]  Item: 0 weapon_melee
+[Tue Jan 05 18:05:44 2016]  ClientConnect: 1
+[Tue Jan 05 18:05:44 2016]  mlog:Player Inariel, connected. With IP - 5.18.54.91:29070 
+[Tue Jan 05 18:06:17 2016]  ClientBegin: 1
+[Tue Jan 05 18:09:15 2016]  Kill: 1 1 39: Inariel killed Inariel by MOD_SUICIDE
+[Tue Jan 05 18:09:45 2016]  Item: 1 weapon_melee
+[Tue Jan 05 18:11:03 2016]  ClientConnect: 2
+[Tue Jan 05 18:11:03 2016]  mlog:Player KILLER, connected. With IP - 91.230.25.125:29070 
+[Tue Jan 05 18:11:36 2016]  ClientBegin: 2
+[Tue Jan 05 18:11:46 2016]  say: kosher: kto rus
+[Tue Jan 05 18:12:02 2016]  say: ^0Shadow^5seer: putin wodka kurwa balalaika?
+[Tue Jan 05 18:12:09 2016]  say: kosher: mystic forces/
+[Tue Jan 05 18:12:15 2016]  Kill: 0 2 36: ^0Shadow^5seer killed kosher by MOD_CRUSH
+[Tue Jan 05 18:12:25 2016]  say: ^0Shadow^5seer: ты зашел не в тот двор
+[Tue Jan 05 18:13:10 2016]  Kill: 0 2 29: ^0Shadow^5seer killed kosher by MOD_CONC
+[Tue Jan 05 18:13:14 2016]  Item: 1 weapon_bowcaster
+[Tue Jan 05 18:13:29 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Tue Jan 05 18:13:29 2016]  Kill: 2 1 38: kosher killed Inariel by MOD_FALLING
+[Tue Jan 05 18:13:33 2016]  Item: 0 weapon_bowcaster
+[Tue Jan 05 18:13:37 2016]  Item: 0 weapon_concussion_rifle
+[Tue Jan 05 18:13:41 2016]  say: kosher: kak shkola pocani
+[Tue Jan 05 18:13:43 2016]  Item: 1 weapon_melee
+[Tue Jan 05 18:14:00 2016]  Kill: 1022 2 39: <world> killed kosher by MOD_SUICIDE
+[Tue Jan 05 18:14:05 2016]  Kill: 1022 2 36: <world> killed kosher by MOD_CRUSH
+[Tue Jan 05 18:14:44 2016]  say: ^0Shadow^5seer: чувак
+[Tue Jan 05 18:14:51 2016]  say: ^0Shadow^5seer: знаешь первое правило скриптера?
+[Tue Jan 05 18:14:56 2016]  say: kosher: net
+[Tue Jan 05 18:15:01 2016]  say: ^0Shadow^5seer: не скриптить из ноклипа
+[Tue Jan 05 18:15:06 2016]  say: kosher: pochemu
+[Tue Jan 05 18:15:13 2016]  say: ^0Shadow^5seer: по этикету скриптера
+[Tue Jan 05 18:15:24 2016]  say: kosher: mne ne 13 let ya ne skripter
+[Tue Jan 05 18:15:32 2016]  say: ^0Shadow^5seer: ну ты ударил скриптом из ноклипа
+[Tue Jan 05 18:15:44 2016]  say: ^0Shadow^5seer: это типа запрещено 
+[Tue Jan 05 18:16:36 2016]  say: ^0Shadow^5seer: удали свой мерзко жужжащий эффект
+[Tue Jan 05 18:16:48 2016]  say: kosher: net
+[Tue Jan 05 18:18:14 2016]  Kill: 0 0 39: ^0Shadow^5seer killed ^0Shadow^5seer by MOD_SUICIDE
+[Tue Jan 05 18:18:19 2016]  Item: 0 weapon_melee
+[Tue Jan 05 18:19:57 2016]  say: ^0Shadow^5seer: из ноклипа
+[Tue Jan 05 18:20:41 2016]  ClientDisconnect: 2
+[Tue Jan 05 18:20:47 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Tue Jan 05 18:21:22 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Tue Jan 05 18:39:23 2016]  ClientDisconnect: 0
+[Tue Jan 05 18:40:12 2016]  ClientConnect: 0
+[Tue Jan 05 18:40:12 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Jan 05 18:40:27 2016]  ClientBegin: 0
+[Tue Jan 05 18:40:39 2016]  Kill: 0 0 39: ^0Shadow^5seer killed ^0Shadow^5seer by MOD_SUICIDE
+[Tue Jan 05 18:40:46 2016]  Item: 0 weapon_melee
+[Tue Jan 05 18:43:43 2016]  ClientDisconnect: 1
+[Tue Jan 05 18:45:17 2016]  ClientConnect: 1
+[Tue Jan 05 18:45:17 2016]  mlog:Player Inariel, connected. With IP - 5.18.54.91:29070 
+[Tue Jan 05 18:45:58 2016]  ClientBegin: 1
+[Tue Jan 05 18:48:19 2016]  Item: 1 weapon_melee
+[Tue Jan 05 18:48:54 2016]  say: ^0Shadow^5seer: My origin is: (-6091 11690 1470) - You can teleport here with /mtelelast
+
+[Tue Jan 05 18:55:59 2016]  ClientDisconnect: 1
+[Tue Jan 05 18:57:07 2016]  ClientConnect: 1
+[Tue Jan 05 18:57:07 2016]  mlog:Player Inariel, connected. With IP - 5.18.54.91:29070 
+[Tue Jan 05 18:57:48 2016]  ClientBegin: 1
+[Tue Jan 05 18:57:58 2016]  Item: 1 weapon_melee
+[Tue Jan 05 19:06:38 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Tue Jan 05 19:07:36 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Tue Jan 05 19:08:49 2016]  Kill: 1 1 39: Inariel killed Inariel by MOD_SUICIDE
+[Tue Jan 05 19:09:03 2016]  Item: 1 weapon_melee
+[Tue Jan 05 19:11:20 2016]  Kill: 1022 1 6: <world> killed Inariel by MOD_BLASTER
+[Tue Jan 05 19:11:32 2016]  Item: 1 weapon_melee
+[Tue Jan 05 19:17:41 2016]  Kill: 1022 1 6: <world> killed Inariel by MOD_BLASTER
+[Tue Jan 05 19:18:15 2016]  Item: 1 weapon_melee
+[Tue Jan 05 19:28:42 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Tue Jan 05 19:31:19 2016]  ClientDisconnect: 0
+[Tue Jan 05 19:34:21 2016]  ClientDisconnect: 1
+[Tue Jan 05 20:18:45 2016]  ClientConnect: 0
+[Tue Jan 05 20:18:45 2016]  mlog:Player Padawan, connected. With IP - 31.132.177.172:2564 
+[Tue Jan 05 20:19:22 2016]  ClientBegin: 0
+[Tue Jan 05 20:19:43 2016]  ClientDisconnect: 0
+[Tue Jan 05 20:29:50 2016]  ClientConnect: 0
+[Tue Jan 05 20:29:50 2016]  mlog:Player Inariel, connected. With IP - 5.18.54.91:29070 
+[Tue Jan 05 20:30:34 2016]  ClientBegin: 0
+[Tue Jan 05 20:30:47 2016]  Item: 0 weapon_melee
+[Tue Jan 05 20:35:11 2016]  ClientConnect: 1
+[Tue Jan 05 20:35:11 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Jan 05 20:35:27 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 20:35:27 2016]  ClientBegin: 1
+[Tue Jan 05 20:35:33 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 20:35:38 2016]  Item: 1 weapon_melee
+[Tue Jan 05 20:37:08 2016]  say: ^0Shadow^5seer: /marm 100
+[Tue Jan 05 20:37:09 2016]  ClientConnect: 2
+[Tue Jan 05 20:37:09 2016]  mlog:Player NOGHRIFAM, connected. With IP - 2.219.66.109:29070 
+[Tue Jan 05 20:37:28 2016]  say: ^0Shadow^5seer: /mdrop
+[Tue Jan 05 20:38:14 2016]  say: ^0Shadow^5seer: /mscale
+[Tue Jan 05 20:39:11 2016]  say: ^0Shadow^5seer: /mrotate x y z
+[Tue Jan 05 20:40:43 2016]  say: ^0Shadow^5seer: /mselect
+[Tue Jan 05 20:40:53 2016]  say: Inariel: mselect
+[Tue Jan 05 20:41:19 2016]  ClientDisconnect: 2
+[Tue Jan 05 20:42:00 2016]  say: ^0Shadow^5seer: /mmove
+[Tue Jan 05 20:42:49 2016]  say: ^0Shadow^5seer: /mmove 0 0 5
+[Tue Jan 05 20:44:19 2016]  say: ^0Shadow^5seer: /mgrab
+[Tue Jan 05 20:45:19 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 20:45:32 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 20:46:28 2016]  say: ^0Shadow^5seer: /mgrab
+[Tue Jan 05 20:50:47 2016]  say: ^0Shadow^5seer: My origin is: (17361 -16130 1841) - You can teleport here with /mtelelast
+
+[Tue Jan 05 20:52:08 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Tue Jan 05 20:52:19 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Tue Jan 05 20:54:44 2016]  say: ^0Shadow^5seer: /mbreakable 1000
+[Tue Jan 05 20:55:13 2016]  say: ^0Shadow^5seer: /mbreakableall
+[Tue Jan 05 20:58:19 2016]  say: ^0Shadow^5seer: /msaveobs
+[Tue Jan 05 21:00:45 2016]  ClientDisconnect: 0
+[Tue Jan 05 21:01:34 2016]  ClientDisconnect: 1
+[Tue Jan 05 21:36:07 2016]  ClientConnect: 0
+[Tue Jan 05 21:36:07 2016]  mlog:Player MaD, connected. With IP - 2.85.99.27:2952 
+[Tue Jan 05 21:36:25 2016]  ClientBegin: 0
+[Tue Jan 05 21:36:55 2016]  ClientConnect: 1
+[Tue Jan 05 21:36:55 2016]  mlog:Player Kikos Kikou, connected. With IP - 91.156.186.206:29070 
+[Tue Jan 05 21:37:15 2016]  ClientBegin: 1
+[Tue Jan 05 21:37:24 2016]  ClientConnect: 2
+[Tue Jan 05 21:37:24 2016]  mlog:Player Meetscho, connected. With IP - 217.51.162.28:29070 
+[Tue Jan 05 21:37:40 2016]  ClientBegin: 2
+[Tue Jan 05 21:38:02 2016]  ClientDisconnect: 0
+[Tue Jan 05 21:38:12 2016]  ClientDisconnect: 1
+[Tue Jan 05 21:38:47 2016]  ClientDisconnect: 2
+[Wed Jan 06 00:41:06 2016]  ClientConnect: 0
+[Wed Jan 06 00:41:06 2016]  mlog:Player Darth Kurwa, connected. With IP - 128.68.59.207:29070 
+[Wed Jan 06 00:41:13 2016]  ClientDisconnect: 0
+[Wed Jan 06 07:45:10 2016]  ClientConnect: 0
+[Wed Jan 06 07:45:10 2016]  mlog:Player ^2[^5Grand Master^2] ^5Ars, connected. With IP - 62.182.80.11:29070 
+[Wed Jan 06 07:45:18 2016]  ClientConnect: 1
+[Wed Jan 06 07:45:18 2016]  mlog:Player Nsw, connected. With IP - 37.45.166.116:-28588 
+[Wed Jan 06 07:45:39 2016]  ClientBegin: 0
+[Wed Jan 06 07:45:39 2016]  ClientDisconnect: 0
+[Wed Jan 06 07:46:23 2016]  ClientBegin: 1
+[Wed Jan 06 07:46:31 2016]  ClientDisconnect: 1
+[Wed Jan 06 09:15:57 2016]  ClientConnect: 0
+[Wed Jan 06 09:15:57 2016]  mlog:Player Padawanswon, connected. With IP - 188.191.87.134:29070 
+[Wed Jan 06 09:16:30 2016]  ClientBegin: 0
+[Wed Jan 06 09:16:31 2016]  ClientConnect: 1
+[Wed Jan 06 09:16:31 2016]  mlog:Player DIMASYA, connected. With IP - 93.177.58.250:29070 
+[Wed Jan 06 09:16:55 2016]  ClientBegin: 1
+[Wed Jan 06 09:19:36 2016]  Kill: 1 0 5: DIMASYA killed Padawanswon by MOD_BRYAR_PISTOL_ALT
+[Wed Jan 06 09:21:24 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:22:04 2016]  say: Padawanswon: we
+[Wed Jan 06 09:22:21 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:23:28 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:23:44 2016]  Kill: 0 1 31: Padawanswon killed DIMASYA by MOD_FORCE_DARK
+[Wed Jan 06 09:23:59 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:24:34 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:24:56 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:26:58 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:28:35 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:30:39 2016]  Kill: 0 1 31: Padawanswon killed DIMASYA by MOD_FORCE_DARK
+[Wed Jan 06 09:31:00 2016]  Kill: 1022 0 3: <world> killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:32:42 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:38:02 2016]  say: DIMASYA: /msaveobs
+[Wed Jan 06 09:38:27 2016]  tell: DIMASYA to Padawanswon: su
+[Wed Jan 06 09:38:29 2016]  tell: DIMASYA to Padawanswon: i
+[Wed Jan 06 09:39:08 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:39:25 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:39:47 2016]  tell: Padawanswon to DIMASYA: l
+[Wed Jan 06 09:40:47 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:41:13 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:41:33 2016]  Kill: 1 0 5: DIMASYA killed Padawanswon by MOD_BRYAR_PISTOL_ALT
+[Wed Jan 06 09:42:19 2016]  Kill: 1 0 3: DIMASYA killed Padawanswon by MOD_SABER
+[Wed Jan 06 09:42:24 2016]  ClientDisconnect: 0
+[Wed Jan 06 09:42:26 2016]  ClientDisconnect: 1
+[Wed Jan 06 10:16:16 2016]  ClientConnect: 0
+[Wed Jan 06 10:16:16 2016]  mlog:Player ^0[^1Knight of Magic^0]^1Hdk, connected. With IP - 37.45.166.116:-28588 
+[Wed Jan 06 10:16:20 2016]  ClientConnect: 1
+[Wed Jan 06 10:16:20 2016]  mlog:Player ^1E^0m^1p^0e^1r^0o^1r, connected. With IP - 62.182.80.11:29070 
+[Wed Jan 06 10:16:33 2016]  ClientConnect: 2
+[Wed Jan 06 10:16:33 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Jan 06 10:16:36 2016]  ClientDisconnect: 1
+[Wed Jan 06 10:16:40 2016]  ClientBegin: 0
+[Wed Jan 06 10:16:40 2016]  ClientConnect: 1
+[Wed Jan 06 10:16:40 2016]  mlog:Player ^1E^0m^1p^0e^1r^0o^1r, connected. With IP - 62.182.80.11:29070 
+[Wed Jan 06 10:16:48 2016]  ClientBegin: 1
+[Wed Jan 06 10:16:48 2016]  ClientDisconnect: 1
+[Wed Jan 06 10:16:51 2016]  ClientBegin: 2
+[Wed Jan 06 10:16:57 2016]  Item: 2 weapon_melee
+[Wed Jan 06 10:16:58 2016]  say: Padawan: почему у моего друга вылетает
+[Wed Jan 06 10:17:02 2016]  say: Padawan: майкермоды
+[Wed Jan 06 10:17:18 2016]  say: Padawan: фуриус
+[Wed Jan 06 10:17:34 2016]  say: ^0Shadow^5seer: oh, sorry, i dont speak... whatever language it is
+[Wed Jan 06 10:17:46 2016]  say: Padawan: ну плз
+[Wed Jan 06 10:17:52 2016]  say: ^0Shadow^5seer: я не знаю
+[Wed Jan 06 10:17:52 2016]  say: Padawan: ты же хороший
+[Wed Jan 06 10:18:00 2016]  say: ^0Shadow^5seer: я не могу ответить на вопрос не зная подробностей
+[Wed Jan 06 10:18:04 2016]  say: Padawan: у него именно майкермоды
+[Wed Jan 06 10:18:08 2016]  say: ^0Shadow^5seer: нет такого слова
+[Wed Jan 06 10:18:09 2016]  say: Padawan: я щас у него спрошу
+[Wed Jan 06 10:18:12 2016]  ClientDisconnect: 0
+[Wed Jan 06 10:19:12 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 10:19:31 2016]  ClientConnect: 0
+[Wed Jan 06 10:19:31 2016]  mlog:Player ^0[^1Knight of Magic^0]^1Hdk, connected. With IP - 37.45.166.116:-28588 
+[Wed Jan 06 10:19:54 2016]  ClientBegin: 0
+[Wed Jan 06 10:20:18 2016]  say: Padawan: у него ошибка и вылетает
+[Wed Jan 06 10:21:02 2016]  say: Padawan: прекращена работа программы jedi Academy Multiplayer
+[Wed Jan 06 10:21:12 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 10:21:13 2016]  say: Padawan: врщмрдер проблема в чем то
+[Wed Jan 06 10:21:21 2016]  say: Padawan: и закройте программу
+[Wed Jan 06 10:21:24 2016]  say: ^0Shadow^5seer: ну ок, она решается как-то
+[Wed Jan 06 10:21:38 2016]  say: Padawan: и закрыть программу
+[Wed Jan 06 10:21:56 2016]  say: ^0Shadow^5seer: ну раз проблема в чем-то, она решается как-то
+[Wed Jan 06 10:21:58 2016]  say: ^0Shadow^5seer: логично?
+[Wed Jan 06 10:22:16 2016]  say: Padawan: а что он может сделать чтобы исправить
+[Wed Jan 06 10:22:20 2016]  say: ^0Shadow^5seer: что-то
+[Wed Jan 06 10:22:26 2016]  say: Padawan: ну чего ты такой
+[Wed Jan 06 10:22:34 2016]  say: Padawan: он сильно хочет на этот сервер
+[Wed Jan 06 10:22:35 2016]  say: ^0Shadow^5seer: ты мне как объяснил, так я тебе и ответил
+[Wed Jan 06 10:22:41 2016]  say: ^0Shadow^5seer: я не знаю, в чем его проблема
+[Wed Jan 06 10:22:49 2016]  say: ^0Shadow^5seer: я в этом вообще плохо разбираюсь
+[Wed Jan 06 10:22:55 2016]  say: ^0Shadow^5seer: я игрок, а не агент техподдержки
+[Wed Jan 06 10:23:07 2016]  say: Padawan: а примерно
+[Wed Jan 06 10:23:10 2016]  say: ^0Shadow^5seer: не знаю
+[Wed Jan 06 10:23:20 2016]  say: Padawan: а как ему быть
+[Wed Jan 06 10:23:27 2016]  say: ^0Shadow^5seer: это уже вопрос не ко мне
+[Wed Jan 06 10:23:31 2016]  say: Padawan: а к кому
+[Wed Jan 06 10:23:51 2016]  say: ^0Shadow^5seer: к... не знаю, психологу, батюшке, кто там советы людям дает, как им жить дальше?
+[Wed Jan 06 10:24:11 2016]  say: Padawan: а ты можешь карту поменять?
+[Wed Jan 06 10:24:14 2016]  say: ^0Shadow^5seer: нет
+[Wed Jan 06 10:24:26 2016]  say: ^0Shadow^5seer: а могу я спокойно поиграть?
+[Wed Jan 06 10:24:36 2016]  say: ^0Shadow^5seer: /mmove 0 10 0
+[Wed Jan 06 10:24:41 2016]  say: Padawan: ладно,я на другом поменять попробую,удачи
+[Wed Jan 06 10:24:43 2016]  ClientDisconnect: 0
+[Wed Jan 06 10:30:16 2016]  ClientConnect: 0
+[Wed Jan 06 10:30:16 2016]  mlog:Player Padawan, connected. With IP - 37.45.166.116:-28588 
+[Wed Jan 06 10:30:41 2016]  ClientBegin: 0
+[Wed Jan 06 10:30:50 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 10:30:53 2016]  say: Padawan: можешь пожалуйста магию показать
+[Wed Jan 06 10:31:43 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 10:32:07 2016]  say: Padawan: когда закончишь можешь показать пожалуйста магии
+[Wed Jan 06 10:32:14 2016]  say: ^0Shadow^5seer: а я закончу даже не сегодня
+[Wed Jan 06 10:32:30 2016]  say: Padawan: ты будешь сейчас все время это делать?
+[Wed Jan 06 10:32:35 2016]  say: ^0Shadow^5seer: да
+[Wed Jan 06 10:32:37 2016]  say: ^0Shadow^5seer: я пришел строить
+[Wed Jan 06 10:32:42 2016]  say: Padawan: ну пожалуйста 3 магии
+[Wed Jan 06 10:34:18 2016]  say: Padawan: пожалуйста
+[Wed Jan 06 10:34:24 2016]  say: ^0Shadow^5seer: 3000 рублей
+[Wed Jan 06 10:34:30 2016]  say: Padawan: за показ?
+[Wed Jan 06 10:34:33 2016]  say: ^0Shadow^5seer: fuf
+[Wed Jan 06 10:34:34 2016]  say: ^0Shadow^5seer: ага
+[Wed Jan 06 10:34:51 2016]  say: Padawan: иди в попу
+[Wed Jan 06 10:34:57 2016]  say: ^0Shadow^5seer: и тебе того же
+[Wed Jan 06 10:35:09 2016]  say: Padawan: cам щас эту штуку включу и покажу
+[Wed Jan 06 10:38:21 2016]  say: Padawan: ^3This duel platform was made by ^1P^4etz^1I
+[Wed Jan 06 10:38:34 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 10:39:11 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 10:39:36 2016]  say: ^0Shadow^5seer: а ты не мог бы это все делать подальше от меня?
+[Wed Jan 06 10:39:46 2016]  say: Padawan: не жадничай места
+[Wed Jan 06 10:39:57 2016]  say: ^0Shadow^5seer: мне мешают лаги при приближении к твоей постройке
+[Wed Jan 06 10:40:01 2016]  say: Padawan: покажи 3 магии мне быстро надо 
+[Wed Jan 06 10:40:06 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Wed Jan 06 10:40:13 2016]  say: Padawan: а то это делать долго(
+[Wed Jan 06 10:40:19 2016]  ClientConnect: 1
+[Wed Jan 06 10:40:19 2016]  mlog:Player Kasme, connected. With IP - 89.166.56.251:29070 
+[Wed Jan 06 10:40:26 2016]  ClientDisconnect: 1
+[Wed Jan 06 10:42:55 2016]  ClientConnect: 1
+[Wed Jan 06 10:42:55 2016]  mlog:Player ^3(J.N.R)^4Kasme^3(^0J^3), connected. With IP - 89.166.56.251:29070 
+[Wed Jan 06 10:43:24 2016]  ClientBegin: 1
+[Wed Jan 06 10:43:35 2016]  Kill: 1 1 39: ^3(J.N.R)^4Kasme^3(^0J^3) killed ^3(J.N.R)^4Kasme^3(^0J^3) by MOD_SUICIDE
+[Wed Jan 06 10:43:35 2016]  setteam:  1 FREE SPECTATOR
+[Wed Jan 06 10:43:35 2016]  ClientBegin: 1
+[Wed Jan 06 10:44:03 2016]  setteam:  1 SPECTATOR FREE
+[Wed Jan 06 10:44:03 2016]  ClientBegin: 1
+[Wed Jan 06 10:44:12 2016]  say: ^0Shadow^5seer: да убери ты это все от меня
+[Wed Jan 06 10:44:25 2016]  say: ^0Shadow^5seer: ты ведь понимаешь, что ты пришел меня шантажировать?
+[Wed Jan 06 10:44:43 2016]  print "^3(J.N.R)^4Kasme^3(^0J^3)^7 @@@PLRENAME Kasme
+"[Wed Jan 06 10:44:56 2016]  say: Padawan: ^3This duel platform was made by ^1P^4etz^1I
+[Wed Jan 06 10:45:03 2016]  say: Padawan: что тебе стоит показать несколько магий?
+[Wed Jan 06 10:45:04 2016]  say: ^0Shadow^5seer: спасибо
+[Wed Jan 06 10:45:16 2016]  say: ^0Shadow^5seer: стоит сброс выделения с объектов, которые я размещаю
+[Wed Jan 06 10:45:26 2016]  say: ^0Shadow^5seer: у меня все собъется другими словами
+[Wed Jan 06 10:45:35 2016]  say: Padawan: но ведь как-то можно сохранить это,ну пожалуйста
+[Wed Jan 06 10:45:39 2016]  say: ^0Shadow^5seer: потом
+[Wed Jan 06 10:45:44 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Jan 06 10:48:11 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 10:48:43 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 10:51:52 2016]  say: Padawan: ^4Lightning-^5Script by ^0Revan
+[Wed Jan 06 10:51:56 2016]  say: Padawan: ^4Lightning!
+[Wed Jan 06 10:52:08 2016]  say: Padawan: ^5Meditation!
+[Wed Jan 06 10:52:18 2016]  say: Padawan: ^4Raikiri!!
+[Wed Jan 06 10:52:36 2016]  say: Padawan: ^5Shock!
+[Wed Jan 06 10:52:42 2016]  say: Padawan: ^4Push!
+[Wed Jan 06 10:52:53 2016]  say: Padawan: ^5Lightning Bolt!
+[Wed Jan 06 10:52:53 2016]  say: ^0Shadow^5seer: wtf r u doing?
+[Wed Jan 06 10:53:02 2016]  say: Padawan: ^4Storm Portal!!
+[Wed Jan 06 10:53:08 2016]  say: ^0Shadow^5seer: great
+[Wed Jan 06 10:53:16 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 10:53:19 2016]  say: Padawan: ^4Ninja-Script by ^0Revan
+[Wed Jan 06 10:53:25 2016]  say: Kasme: GTGT
+[Wed Jan 06 10:53:29 2016]  Kill: 1022 0 38: <world> killed Padawan by MOD_FALLING
+[Wed Jan 06 10:53:33 2016]  say: Kasme: HTHTHT
+[Wed Jan 06 10:53:49 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 10:53:54 2016]  say: Padawan: ^6Rasengan!!
+[Wed Jan 06 10:54:02 2016]  ClientDisconnect: 1
+[Wed Jan 06 10:54:05 2016]  say: Padawan: ^1Gokakyu!
+[Wed Jan 06 10:54:14 2016]  say: Padawan: ^5Hakke Rokujuyon Sho!!
+[Wed Jan 06 10:54:21 2016]  say: Padawan: ^5Hakke Rokujuyon Sho!!
+[Wed Jan 06 10:54:28 2016]  say: Padawan: ^3Suna no Tate!
+[Wed Jan 06 10:54:52 2016]  say: Padawan: ^6Super Rasengan!!
+[Wed Jan 06 10:56:33 2016]  say: Padawan: ты делаешь?
+[Wed Jan 06 11:04:18 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 11:04:42 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 11:06:25 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 11:06:38 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 11:15:00 2016]  ClientDisconnect: 0
+[Wed Jan 06 11:19:09 2016]  ClientConnect: 0
+[Wed Jan 06 11:19:09 2016]  mlog:Player Leha, connected. With IP - 62.63.87.18:29070 
+[Wed Jan 06 11:20:12 2016]  ClientDisconnect: 0
+[Wed Jan 06 11:40:30 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 11:54:38 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 11:59:51 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 12:00:31 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 12:02:34 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 12:03:00 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 12:06:07 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 12:08:12 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 12:10:46 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 12:11:31 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 12:12:40 2016]  ClientConnect: 0
+[Wed Jan 06 12:12:40 2016]  mlog:Player Ibrahim Tatlises, connected. With IP - 88.253.240.226:29070 
+[Wed Jan 06 12:12:58 2016]  ClientBegin: 0
+[Wed Jan 06 12:13:14 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Jan 06 12:13:14 2016]  setteam:  0 FREE SPECTATOR
+[Wed Jan 06 12:13:14 2016]  ClientBegin: 0
+[Wed Jan 06 12:13:23 2016]  setteam:  0 SPECTATOR FREE
+[Wed Jan 06 12:13:23 2016]  ClientBegin: 0
+[Wed Jan 06 12:13:25 2016]  say: Padawan: hi
+[Wed Jan 06 12:13:29 2016]  say: ^0Shadow^5seer: hi
+[Wed Jan 06 12:14:41 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 12:15:19 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 12:16:26 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 12:17:11 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 12:19:06 2016]  Kill: 2 2 39: ^0Shadow^5seer killed ^0Shadow^5seer by MOD_SUICIDE
+[Wed Jan 06 12:19:34 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 12:19:59 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 12:25:51 2016]  Item: 2 weapon_melee
+[Wed Jan 06 12:26:32 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Wed Jan 06 12:28:49 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Wed Jan 06 12:28:54 2016]  -8<------- Crash Information ------->8-
+[Wed Jan 06 12:28:54 2016]      Please forward to Scooper 
+[Wed Jan 06 12:28:54 2016]  ---------------------------------------
+[Wed Jan 06 12:28:54 2016]  Version: MakerMod Win32
+[Wed Jan 06 12:28:54 2016]  Build Date: Dec 27 2010[Wed Jan 06 12:28:54 2016]  Build Time: 23:45:02[Wed Jan 06 12:28:54 2016]  Map: t2_trip
+[Wed Jan 06 12:28:54 2016]  Exception: Access violation (0xc0000005)
+[Wed Jan 06 12:28:54 2016]  Exception Address: 0x201299d8
+[Wed Jan 06 12:28:54 2016]  DLL Information:
+[Wed Jan 06 12:28:54 2016]  0x00400000	jampDed
+[Wed Jan 06 12:28:54 2016]  0x77620000	ntdll
+[Wed Jan 06 12:28:54 2016]  0x76210000	kernel32
+[Wed Jan 06 12:28:54 2016]  0x76320000	KERNELBASE
+[Wed Jan 06 12:28:54 2016]  0x729d0000	WSOCK32
+[Wed Jan 06 12:28:54 2016]  0x75940000	WS2_32
+[Wed Jan 06 12:28:54 2016]  0x76080000	msvcrt
+[Wed Jan 06 12:28:54 2016]  0x75f60000	RPCRT4
+[Wed Jan 06 12:28:54 2016]  0x75020000	SspiCli
+[Wed Jan 06 12:28:54 2016]  0x75010000	CRYPTBASE
+[Wed Jan 06 12:28:54 2016]  0x75980000	sechost
+[Wed Jan 06 12:28:54 2016]  0x75150000	NSI
+[Wed Jan 06 12:28:54 2016]  0x71640000	WINMM
+[Wed Jan 06 12:28:54 2016]  0x75570000	USER32
+[Wed Jan 06 12:28:54 2016]  0x759a0000	GDI32
+[Wed Jan 06 12:28:54 2016]  0x775f0000	LPK
+[Wed Jan 06 12:28:54 2016]  0x75080000	USP10
+[Wed Jan 06 12:28:54 2016]  0x76fc0000	ADVAPI32
+[Wed Jan 06 12:28:54 2016]  0x753e0000	IMM32
+[Wed Jan 06 12:28:54 2016]  0x76130000	MSCTF
+[Wed Jan 06 12:28:54 2016]  0x72970000	mswsock
+[Wed Jan 06 12:28:54 2016]  0x72960000	wshtcpip
+[Wed Jan 06 12:28:54 2016]  0x6f010000	NLAapi
+[Wed Jan 06 12:28:54 2016]  0x6ec60000	napinsp
+[Wed Jan 06 12:28:54 2016]  0x6ec40000	pnrpnsp
+[Wed Jan 06 12:28:54 2016]  0x71b50000	DNSAPI
+[Wed Jan 06 12:28:54 2016]  0x6ec30000	winrnr
+[Wed Jan 06 12:28:54 2016]  0x71390000	WLIDNSP
+[Wed Jan 06 12:28:54 2016]  0x752c0000	PSAPI
+[Wed Jan 06 12:28:54 2016]  0x75cd0000	SHLWAPI
+[Wed Jan 06 12:28:54 2016]  0x6ec20000	wshbth
+[Wed Jan 06 12:28:54 2016]  0x72130000	IPHLPAPI
+[Wed Jan 06 12:28:54 2016]  0x72120000	WINNSI
+[Wed Jan 06 12:28:54 2016]  0x71190000	fwpuclnt
+[Wed Jan 06 12:28:54 2016]  0x71180000	rasadhlp
+[Wed Jan 06 12:28:54 2016]  0x20000000	jampgamex86
+[Wed Jan 06 12:28:54 2016]  0x75290000	IMAGEHLP
+[Wed Jan 06 12:28:54 2016]  0x6e6b0000	dbghelp
+[Wed Jan 06 12:28:54 2016]  Backtrace:
+[Wed Jan 06 12:28:54 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x67c08) [0x201299d8]
+[Wed Jan 06 12:28:54 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x67d32) [0x20129b02]
+[Wed Jan 06 12:28:54 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20043eab]
+[Wed Jan 06 12:28:54 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20044d48]
+[Wed Jan 06 12:28:54 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20044679]
+[Wed Jan 06 12:28:54 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x200450b2]
+[Wed Jan 06 12:28:54 2016]  (6) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20045225]
+[Wed Jan 06 12:28:54 2016]  (7) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20045988]
+[Wed Jan 06 12:28:54 2016]  (8) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x5fbe1) [0x201219b1]
+[Wed Jan 06 12:28:54 2016]  (9) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x5dbc4) [0x2011f994]
+[Wed Jan 06 12:28:54 2016]  (10) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x5e59b) [0x2012036b]
+[Wed Jan 06 12:28:54 2016]  (11) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x5f03f) [0x20120e0f]
+[Wed Jan 06 12:28:54 2016]  (12) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20081fd7]
+[Wed Jan 06 12:28:54 2016]  (13) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0xca) [0x2009f63a]
+[Wed Jan 06 12:28:54 2016]  (14) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Wed Jan 06 12:28:54 2016]  (15) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0043c45e]
+[Wed Jan 06 12:28:54 2016]  (16) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x00444213]
+[Wed Jan 06 12:28:54 2016]  (17) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0043c45e]
+[Wed Jan 06 12:28:54 2016]  (18) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x00444213]
+[Wed Jan 06 12:28:54 2016]  (19) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0043c1e0]
+[Wed Jan 06 12:28:54 2016]  (20) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0044c751]
+[Wed Jan 06 12:28:54 2016]  (21) Unknown [0x64656420]
+[Wed Jan 06 12:28:54 2016]  (22) Unknown [0x74616369]
+[Wed Jan 06 12:28:54 2016]  (23) Unknown [0x32206465]
+[Wed Jan 06 12:28:54 2016]  (24) Unknown [0x65730020]
+[Wed Jan 06 12:28:54 2016]  (25) Unknown [0x73662074]
+[Wed Jan 06 12:28:54 2016]  (26) Unknown [0x6d61675f]
+[Wed Jan 06 12:28:54 2016]  (27) Unknown [0x616d2065]
+[Wed Jan 06 12:28:54 2016]  (28) Unknown [0x6d72656b]
+[Wed Jan 06 12:28:54 2016]  (29) Unknown [0x0020646f]
+[Wed Jan 06 12:28:54 2016]  (30) Unknown [0x63657865]
+[Wed Jan 06 12:28:54 2016]  (31) Unknown [0x6b616d20]
+[Wed Jan 06 12:28:54 2016]  (32) Unknown [0x6f6d7265]
+[Wed Jan 06 12:28:54 2016]  (33) Unknown [0x66632e64]
+[Wed Jan 06 12:28:54 2016]  (34) Unknown [0x73650067]
+[Wed Jan 06 12:28:54 2016]  (35) Unknown [0x38782820]
+[Wed Jan 06 12:28:54 2016]  (36) Unknown [0x68dec429]
+[Wed Jan 06 12:28:54 2016]  (37) Unknown [0x0e0026a7]
+[Wed Jan 06 12:28:54 2016]  (38) Unknown [0x21436587]
+[Wed Jan 06 12:28:54 2016]  (39) Unknown [0x003e0015]
+[Wed Jan 06 12:28:54 2016]  -8<--------------------------------->8-
+
+[Wed Jan 06 12:28:54 2016]  Attempting to clean up.
+[Wed Jan 06 12:28:54 2016]  ShutdownGame:
+[Wed Jan 06 12:28:54 2016]  ------------------------------------------------------------

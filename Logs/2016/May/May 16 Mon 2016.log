@@ -1,0 +1,311 @@
+[Mon May 16 02:04:55 2016]  ------------------------------------------------------------
+[Mon May 16 02:04:55 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 16 02:04:57 2016]  ClientConnect: 0
+[Mon May 16 02:04:57 2016]  ClientConnect: 1
+[Mon May 16 02:05:05 2016]  ClientBegin: 0
+[Mon May 16 02:05:05 2016]  say: ^1M^7r ^1Ð^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon May 16 02:05:06 2016]  ClientBegin: 1
+[Mon May 16 02:05:12 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: whats the command for mapvoting?
+[Mon May 16 02:05:19 2016]  say: ^1M^7r ^1Ð^7innertime: /callvote map <mapname>?
+[Mon May 16 02:05:22 2016]  say: ^1M^7r ^1Ð^7innertime: >*
+[Mon May 16 02:05:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: testing
+[Mon May 16 02:06:01 2016]  say: ^1M^7r ^1Ð^7innertime: voting not allowed ;o
+[Mon May 16 02:06:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aye
+[Mon May 16 02:06:34 2016]  ShutdownGame:
+[Mon May 16 02:06:34 2016]  ------------------------------------------------------------
+[Mon May 16 02:06:34 2016]  ------------------------------------------------------------
+[Mon May 16 02:06:34 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 16 02:06:36 2016]  ClientConnect: 0
+[Mon May 16 02:06:36 2016]  ClientConnect: 1
+[Mon May 16 02:06:45 2016]  ClientBegin: 1
+[Mon May 16 02:06:46 2016]  Kill: 0 1 37: ^1M^7r ^1Ð^7innertime killed ^7§^0î^7j^0Ü^7må^0h^7~ by MOD_TELEFRAG
+[Mon May 16 02:06:46 2016]  ClientBegin: 0
+[Mon May 16 02:06:46 2016]  say: ^1M^7r ^1Ð^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon May 16 02:07:45 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: dont admins have a map change command?
+[Mon May 16 02:07:47 2016]  say: ^1M^7r ^1Ð^7innertime: uhm
+[Mon May 16 02:07:48 2016]  say: ^1M^7r ^1Ð^7innertime: not sure
+[Mon May 16 02:07:51 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: no
+[Mon May 16 02:07:52 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: we do not.
+[Mon May 16 02:07:54 2016]  say: ^1M^7r ^1Ð^7innertime: :3
+[Mon May 16 02:08:07 2016]  say: ^1M^7r ^1Ð^7innertime: I know with proxymod, admins could force a map change
+[Mon May 16 02:08:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: also rip i dont have mremap
+[Mon May 16 02:08:18 2016]  say: ^1M^7r ^1Ð^7innertime: :3
+[Mon May 16 02:08:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: all the command except that weather and mapmusic
+[Mon May 16 02:08:29 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 02:08:31 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: although i DO have admin permissions though
+[Mon May 16 02:08:37 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 02:08:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so now i get to figure out how that works.
+[Mon May 16 02:08:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and give it to me
+[Mon May 16 02:09:02 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: success.
+[Mon May 16 02:09:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mmkay well.
+[Mon May 16 02:09:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: nothing else to do here i guess.
+[Mon May 16 02:09:32 2016]  say: ^1M^7r ^1Ð^7innertime: =3
+[Mon May 16 02:09:33 2016]  say: ^1M^7r ^1Ð^7innertime: going?
+[Mon May 16 02:09:48 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i gess.
+[Mon May 16 02:09:50 2016]  say: ^1M^7r ^1Ð^7innertime: kk
+[Mon May 16 02:09:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: cuz like
+[Mon May 16 02:10:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: im not gonna make a script noooww
+[Mon May 16 02:10:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and theres nothing really else to do.
+[Mon May 16 02:10:05 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 02:10:08 2016]  say: ^1M^7r ^1Ð^7innertime: well have fun
+[Mon May 16 02:11:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you have admin right?
+[Mon May 16 02:11:18 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Mon May 16 02:11:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: .mmkay
+[Mon May 16 02:11:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: I cant remember but 
+[Mon May 16 02:11:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: both us makermod and darkquakes server
+[Mon May 16 02:11:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: have something weird about them
+[Mon May 16 02:11:43 2016]  say: ^1M^7r ^1Ð^7innertime: oh?
+[Mon May 16 02:11:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like US servers have the mark edges on nearly every object
+[Mon May 16 02:11:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: really fucked up
+[Mon May 16 02:11:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and darkquakes saber duelling settings are weird
+[Mon May 16 02:12:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like a 90 percent chance to saberlock
+[Mon May 16 02:12:00 2016]  say: ^1M^7r ^1Ð^7innertime: yeah he did that for a joke
+[Mon May 16 02:12:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: or something
+[Mon May 16 02:12:01 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 02:12:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i dont like it.
+[Mon May 16 02:12:05 2016]  say: ^1M^7r ^1Ð^7innertime: :3
+[Mon May 16 02:12:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i like having duels.
+[Mon May 16 02:12:15 2016]  say: ^1M^7r ^1Ð^7innertime: well tbh
+[Mon May 16 02:12:19 2016]  say: ^1M^7r ^1Ð^7innertime: if you wanted saber duels
+[Mon May 16 02:12:28 2016]  say: ^1M^7r ^1Ð^7innertime: makermod is probably one of the worst mods to do it in
+[Mon May 16 02:12:29 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 02:12:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: bruh
+[Mon May 16 02:12:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: havnt you read
+[Mon May 16 02:12:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: the starting message that it gives you
+[Mon May 16 02:12:39 2016]  say: ^1M^7r ^1Ð^7innertime: yes
+[Mon May 16 02:12:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: >makermod is a mod meant to prevent saber poking
+[Mon May 16 02:12:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: kappa
+[Mon May 16 02:12:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: fair duels
+[Mon May 16 02:12:50 2016]  say: ^1M^7r ^1Ð^7innertime: saber poking is a recognised skill
+[Mon May 16 02:12:52 2016]  say: ^1M^7r ^1Ð^7innertime: so
+[Mon May 16 02:12:53 2016]  say: ^1M^7r ^1Ð^7innertime: sucks
+[Mon May 16 02:12:57 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yeah
+[Mon May 16 02:13:02 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oh well.
+[Mon May 16 02:13:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: pinpricking is still a thing
+[Mon May 16 02:13:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do you remember that?
+[Mon May 16 02:13:14 2016]  say: ^1M^7r ^1Ð^7innertime: never heard of it
+[Mon May 16 02:13:20 2016]  Kill: 0 0 39: ^1M^7r ^1Ð^7innertime killed ^1M^7r ^1Ð^7innertime by MOD_SUICIDE
+[Mon May 16 02:13:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: theres a spot above and to the left of every models
+[Mon May 16 02:13:30 2016]  Kill: 0 0 39: ^1M^7r ^1Ð^7innertime killed ^1M^7r ^1Ð^7innertime by MOD_SUICIDE
+[Mon May 16 02:13:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: left eye
+[Mon May 16 02:13:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: that when hit with a saber kills them instantly
+[Mon May 16 02:13:40 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: even through godmode and armour
+[Mon May 16 02:13:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i liked to use it in duels
+[Mon May 16 02:13:44 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 02:13:54 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 16 02:13:57 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 02:13:59 2016]  say: ^1M^7r ^1Ð^7innertime: I'm super rusty
+[Mon May 16 02:14:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: trtry killing me
+[Mon May 16 02:14:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: try shooting
+[Mon May 16 02:14:34 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 02:14:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yeah okay
+[Mon May 16 02:14:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: it doesnt work if you mbreakable 0 yourself
+[Mon May 16 02:14:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you specifically have to die by damage
+[Mon May 16 02:14:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then resurrect twice with mbreakable 1 1
+[Mon May 16 02:14:59 2016]  say: ^1M^7r ^1Ð^7innertime: =3
+[Mon May 16 02:15:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: how often does darkquake come here?
+[Mon May 16 02:15:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: he said t hat  he doesnt come much
+[Mon May 16 02:15:06 2016]  say: ^1M^7r ^1Ð^7innertime: uhm
+[Mon May 16 02:15:10 2016]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Mon May 16 02:15:15 2016]  say: ^1M^7r ^1Ð^7innertime: he was busy with university but he's finished now
+[Mon May 16 02:15:29 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: there was a way to make you phase thru people
+[Mon May 16 02:15:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: as well as them phasing thru though
+[Mon May 16 02:15:33 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you*
+[Mon May 16 02:15:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hmm.
+[Mon May 16 02:15:40 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oh well.
+[Mon May 16 02:15:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: things for later.
+[Mon May 16 02:15:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: WHY IS ALT EVEN MBREAKABLE 0
+[Mon May 16 02:15:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: WHY IS THAT A BIND
+[Mon May 16 02:16:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: alttabbing is a pain.
+[Mon May 16 02:16:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: x.x
+[Mon May 16 02:16:09 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Mon May 16 02:16:14 2016]  say: ^1M^7r ^1Ð^7innertime: I used unbind alt for that reason
+[Mon May 16 02:16:27 2016]  say: ^1M^7r ^1Ð^7innertime: hated throwing my saber and being open to attacks in non-laming servers
+[Mon May 16 02:16:28 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 02:16:33 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: exactly.
+[Mon May 16 02:17:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mmkay
+[Mon May 16 02:17:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: darkquake said that i can do remaps for testing
+[Mon May 16 02:17:47 2016]  say: ^1M^7r ^1Ð^7innertime: oh cool ;o
+[Mon May 16 02:17:48 2016]  say: ^1M^7r ^1Ð^7innertime: but
+[Mon May 16 02:17:54 2016]  say: ^1M^7r ^1Ð^7innertime: touch my remaps and you're deaaaaaad >:P
+[Mon May 16 02:17:58 2016]  say: ^1M^7r ^1Ð^7innertime: >:O
+[Mon May 16 02:18:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: these are yours?
+[Mon May 16 02:18:06 2016]  say: ^1M^7r ^1Ð^7innertime: yes. lol
+[Mon May 16 02:18:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: the whole map/
+[Mon May 16 02:18:08 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Mon May 16 02:18:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mm.
+[Mon May 16 02:18:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i mean.
+[Mon May 16 02:18:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: I was the one who made these mapob trees and this trip ground texture
+[Mon May 16 02:18:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: back on joes server
+[Mon May 16 02:18:27 2016]  say: ^1M^7r ^1Ð^7innertime: ??
+[Mon May 16 02:18:37 2016]  say: ^1M^7r ^1Ð^7innertime: I made the entire ground / buildings / etc remap
+[Mon May 16 02:18:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: shrug
+[Mon May 16 02:18:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: all i can say is that while I didnt do the pillars and stuff
+[Mon May 16 02:18:52 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: this ground remap
+[Mon May 16 02:18:53 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and t hetrees
+[Mon May 16 02:18:55 2016]  say: ^1M^7r ^1Ð^7innertime: and yeah...
+[Mon May 16 02:18:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: were done by me years ago
+[Mon May 16 02:19:05 2016]  say: ^1M^7r ^1Ð^7innertime: Venom told me he'd use my remap
+[Mon May 16 02:19:21 2016]  say: ^1M^7r ^1Ð^7innertime: like 1 day later, exo tells me he convinced venom to use joe's remap over mine
+[Mon May 16 02:19:29 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: rip
+[Mon May 16 02:19:32 2016]  say: ^1M^7r ^1Ð^7innertime: I quit venom's makermod and didn't speak to exo for months
+[Mon May 16 02:19:33 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 02:19:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: golly
+[Mon May 16 02:19:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i had been an admin on every server ever since makermod started
+[Mon May 16 02:19:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: one would think i wouldnt be a dumbass by now
+[Mon May 16 02:19:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oh well!
+[Mon May 16 02:20:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i was mainly going to use remap
+[Mon May 16 02:20:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: to change the models
+[Mon May 16 02:20:14 2016]  say: ^1M^7r ^1Ð^7innertime: ;o
+[Mon May 16 02:20:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and some effects
+[Mon May 16 02:20:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: cuz I dont like this reborn remap x.x
+[Mon May 16 02:20:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and i found some really neat effects for weapons and such
+[Mon May 16 02:20:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like the detonator.
+[Mon May 16 02:21:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: are those yours?
+[Mon May 16 02:21:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and can I change them.
+[Mon May 16 02:21:11 2016]  say: ^1M^7r ^1Ð^7innertime: are what?
+[Mon May 16 02:21:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: x.x
+[Mon May 16 02:21:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: the reborn.
+[Mon May 16 02:21:16 2016]  say: ^1M^7r ^1Ð^7innertime: oh. no
+[Mon May 16 02:21:20 2016]  say: ^1M^7r ^1Ð^7innertime: I didn't touch the player models 3
+[Mon May 16 02:21:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mmkay.
+[Mon May 16 02:23:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aay.
+[Mon May 16 02:23:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: my baby.
+[Mon May 16 02:23:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: my faovurite remap <3
+[Mon May 16 02:23:12 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 02:23:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ^1 it changes based off of the colours in the screen
+[Mon May 16 02:23:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ^6 so pretty
+[Mon May 16 02:23:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ^3 colours of the text
+[Mon May 16 02:23:34 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ^4 that is
+[Mon May 16 02:23:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oh yeah so how often does quake get on
+[Mon May 16 02:24:07 2016]  say: ^1M^7r ^1Ð^7innertime: I don't really see him on much but I don't come on makermod that often either
+[Mon May 16 02:24:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: shrug
+[Mon May 16 02:24:17 2016]  say: ^1M^7r ^1Ð^7innertime: ;D
+[Mon May 16 02:24:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: I wonder how mad anyone will be if i remove the text bubble effect.
+[Mon May 16 02:24:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i dont liek it x.x
+[Mon May 16 02:24:24 2016]  say: ^1M^7r ^1Ð^7innertime: can I show you my favourite remap?
+[Mon May 16 02:24:25 2016]  say: ^1M^7r ^1Ð^7innertime: if I can find it
+[Mon May 16 02:24:33 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: of course
+[Mon May 16 02:24:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: my favorite texture is rift/tech2
+[Mon May 16 02:24:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: such tron
+[Mon May 16 02:24:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: many electronic
+[Mon May 16 02:25:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: not rift...
+[Mon May 16 02:25:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: uh..
+[Mon May 16 02:25:13 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 02:25:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: vjun.
+[Mon May 16 02:25:15 2016]  say: ^1M^7r ^1Ð^7innertime: pink jawa
+[Mon May 16 02:25:18 2016]  say: ^1M^7r ^1Ð^7innertime: *_*
+[Mon May 16 02:25:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oh sorry.
+[Mon May 16 02:25:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i didnt realise.
+[Mon May 16 02:25:22 2016]  say: ^1M^7r ^1Ð^7innertime: stahp!
+[Mon May 16 02:25:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: we were doing the same one
+[Mon May 16 02:25:23 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 02:25:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: rip.
+[Mon May 16 02:25:26 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 02:25:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: whattexture is that?
+[Mon May 16 02:25:31 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: the pink
+[Mon May 16 02:25:37 2016]  say: ^1M^7r ^1Ð^7innertime: models/players/jedi_tf/head_02
+[Mon May 16 02:25:38 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 02:25:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oh yeah.
+[Mon May 16 02:25:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i can see it.
+[Mon May 16 02:25:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 16 02:25:50 2016]  say: ^1M^7r ^1Ð^7innertime: you can change it with char_color_red, char_color_blue and char_color_green
+[Mon May 16 02:25:57 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yeah
+[Mon May 16 02:26:02 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i remember someone showing me that a long time ago
+[Mon May 16 02:26:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: maybe it was you even
+[Mon May 16 02:26:05 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 02:26:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 16 02:26:17 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hmm.
+[Mon May 16 02:26:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hmmm.
+[Mon May 16 02:26:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: think anyone will be annoyed if i get rid of the chat bubble?
+[Mon May 16 02:26:50 2016]  say: ^1M^7r ^1Ð^7innertime: idk
+[Mon May 16 02:26:59 2016]  say: ^1M^7r ^1Ð^7innertime: it won't be permanent. It'll go back after the map changes
+[Mon May 16 02:27:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: does the map change?
+[Mon May 16 02:27:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i thougth it doesnt
+[Mon May 16 02:27:07 2016]  say: ^1M^7r ^1Ð^7innertime: so ask quake if you want it to be permament
+[Mon May 16 02:27:09 2016]  say: ^1M^7r ^1Ð^7innertime: idk
+[Mon May 16 02:27:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aye
+[Mon May 16 02:27:14 2016]  say: ^1M^7r ^1Ð^7innertime: I think it resets
+[Mon May 16 02:27:27 2016]  say: ^1M^7r ^1Ð^7innertime: otherwise you'd be stuck with the same npc models forever after about 12 npc spawns
+[Mon May 16 02:27:28 2016]  say: ^1M^7r ^1Ð^7innertime: right?
+[Mon May 16 02:27:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i mean.
+[Mon May 16 02:27:45 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: what are you talking about?
+[Mon May 16 02:27:47 2016]  say: ^1M^7r ^1Ð^7innertime: ?
+[Mon May 16 02:27:55 2016]  say: ^1M^7r ^1Ð^7innertime: what do you think I'm talking about?
+[Mon May 16 02:27:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i domt understand
+[Mon May 16 02:27:58 2016]  say: ^1M^7r ^1Ð^7innertime: *_*
+[Mon May 16 02:28:03 2016]  say: ^1M^7r ^1Ð^7innertime: which part don't you understan?
+[Mon May 16 02:28:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: .all of w hat you said
+[Mon May 16 02:28:13 2016]  say: ^1M^7r ^1Ð^7innertime: <_<
+[Mon May 16 02:28:16 2016]  say: ^1M^7r ^1Ð^7innertime: I said a lot
+[Mon May 16 02:28:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: exactly
+[Mon May 16 02:28:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: does uh
+[Mon May 16 02:28:25 2016]  say: ^1M^7r ^1Ð^7innertime: ok
+[Mon May 16 02:28:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: did darkquake enable npc limits?
+[Mon May 16 02:28:53 2016]  say: ^1M^7r ^1Ð^7innertime: it's built into makermod itself. If you spawn more than 12 different npcs, the client crashes whenever it loads / stays connected
+[Mon May 16 02:28:59 2016]  say: ^1M^7r ^1Ð^7innertime: it's a flaw of the client not the server
+[Mon May 16 02:29:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: that didnt h appen in joes server
+[Mon May 16 02:29:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: guarinteed
+[Mon May 16 02:29:05 2016]  say: ^1M^7r ^1Ð^7innertime: stays connected*
+[Mon May 16 02:29:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 16 02:29:11 2016]  say: ^1M^7r ^1Ð^7innertime: I'm sure it did
+[Mon May 16 02:29:17 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: im sure it didnt x.x
+[Mon May 16 02:29:20 2016]  say: ^1M^7r ^1Ð^7innertime: <_<
+[Mon May 16 02:29:24 2016]  say: ^1M^7r ^1Ð^7innertime: You can spawn more than 12 npcs at once
+[Mon May 16 02:29:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yeah i know
+[Mon May 16 02:29:30 2016]  say: ^1M^7r ^1Ð^7innertime: but they can't be different types
+[Mon May 16 02:29:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: but not 12 different
+[Mon May 16 02:29:33 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Mon May 16 02:29:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i know thats happened on other servers
+[Mon May 16 02:29:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: butit didnt on joes ;o
+[Mon May 16 02:29:56 2016]  say: ^1M^7r ^1Ð^7innertime: Well
+[Mon May 16 02:30:02 2016]  say: ^1M^7r ^1Ð^7innertime: he probably had this disabled
+[Mon May 16 02:30:08 2016]  say: ^1M^7r ^1Ð^7innertime: seta g_antiNPCCrash  1 // This is to prevent windows clients to crash when more than 11
+[Mon May 16 02:30:12 2016]  say: ^1M^7r ^1Ð^7innertime: // different npc models are used.
+[Mon May 16 02:30:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: whooo knowwws
+[Mon May 16 02:30:38 2016]  ClientDisconnect: 1
+[Mon May 16 02:30:45 2016]  ClientDisconnect: 0
+[Mon May 16 06:13:39 2016]  ClientConnect: 0
+[Mon May 16 06:13:39 2016]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 217.42.66.56:29070 
+[Mon May 16 06:14:19 2016]  ClientBegin: 0
+[Mon May 16 06:14:19 2016]  say: ^1M^7r ^1Ð^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon May 16 06:30:42 2016]  ClientDisconnect: 0
+[Mon May 16 08:24:51 2016]  ClientConnect: 0
+[Mon May 16 08:24:51 2016]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 217.42.66.56:29070 
+[Mon May 16 08:25:16 2016]  ClientBegin: 0
+[Mon May 16 08:25:16 2016]  say: ^1M^7r ^1Ð^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon May 16 08:29:01 2016]  ClientDisconnect: 0
+[Mon May 16 09:50:47 2016]  ClientConnect: 0
+[Mon May 16 09:50:47 2016]  mlog:Player ^6^1^2^3^4^4^7Inspektor^5Radisa, connected. With IP - 178.222.19.38:19267 
+[Mon May 16 09:51:06 2016]  ClientBegin: 0
+[Mon May 16 09:56:38 2016]  ClientDisconnect: 0
+[Mon May 16 10:11:25 2016]  ClientConnect: 0
+[Mon May 16 10:11:25 2016]  mlog:Player Padawan, connected. With IP - 2.132.81.146:3379 
+[Mon May 16 10:11:49 2016]  ClientBegin: 0
+[Mon May 16 10:12:00 2016]  ClientDisconnect: 0
+[Mon May 16 17:03:20 2016]  ------------------------------------------------------------
+[Mon May 16 17:03:20 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 16 17:40:06 2016]  ------------------------------------------------------------
+[Mon May 16 17:40:06 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 16 18:44:41 2016]  ------------------------------------------------------------
+[Mon May 16 18:44:41 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 16 18:49:24 2016]  ------------------------------------------------------------
+[Mon May 16 18:49:24 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 16 20:01:49 2016]  ------------------------------------------------------------
+[Mon May 16 20:01:49 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 16 20:34:31 2016]  ClientConnect: 0
+[Mon May 16 20:34:31 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon May 16 20:34:53 2016]  ClientBegin: 0
+[Mon May 16 20:42:51 2016]  ------------------------------------------------------------
+[Mon May 16 20:42:51 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 16 20:43:01 2016]  ClientConnect: 0
+[Mon May 16 20:43:01 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon May 16 20:43:10 2016]  ClientBegin: 0
+[Mon May 16 20:43:34 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Mon May 16 20:45:01 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Mon May 16 20:45:36 2016]  ClientDisconnect: 0
+[Mon May 16 21:08:42 2016]  ClientConnect: 0
+[Mon May 16 21:08:42 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon May 16 21:09:01 2016]  ClientBegin: 0
+[Mon May 16 21:09:11 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Mon May 16 21:10:39 2016]  ClientDisconnect: 0

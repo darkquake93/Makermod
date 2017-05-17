@@ -1,0 +1,743 @@
+[Mon Oct 10 17:14:22 2016]  ------------------------------------------------------------
+[Mon Oct 10 17:14:22 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 17:48:42 2016]  ClientConnect: 0
+[Mon Oct 10 17:48:42 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.163.150:29070 
+[Mon Oct 10 17:49:01 2016]  ClientBegin: 0
+[Mon Oct 10 17:49:14 2016]  Item: 0 weapon_melee
+[Mon Oct 10 17:50:07 2016]  ClientDisconnect: 0
+[Mon Oct 10 17:59:06 2016]  ClientConnect: 0
+[Mon Oct 10 17:59:06 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.163.150:29070 
+[Mon Oct 10 17:59:17 2016]  ClientBegin: 0
+[Mon Oct 10 17:59:39 2016]  ShutdownGame:
+[Mon Oct 10 17:59:39 2016]  ------------------------------------------------------------
+[Mon Oct 10 17:59:40 2016]  ------------------------------------------------------------
+[Mon Oct 10 17:59:40 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 17:59:41 2016]  ClientConnect: 0
+[Mon Oct 10 17:59:45 2016]  ClientBegin: 0
+[Mon Oct 10 18:00:03 2016]  ShutdownGame:
+[Mon Oct 10 18:00:03 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:00:04 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:00:04 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:00:05 2016]  ClientConnect: 0
+[Mon Oct 10 18:00:11 2016]  ClientBegin: 0
+[Mon Oct 10 18:00:21 2016]  ShutdownGame:
+[Mon Oct 10 18:00:21 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:00:21 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:00:21 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:00:23 2016]  ClientConnect: 0
+[Mon Oct 10 18:00:27 2016]  ClientBegin: 0
+[Mon Oct 10 18:02:29 2016]  ShutdownGame:
+[Mon Oct 10 18:02:29 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:30 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:30 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:02:32 2016]  -8<------- Crash Information ------->8-
+[Mon Oct 10 18:02:32 2016]      Please forward to Scooper 
+[Mon Oct 10 18:02:32 2016]  ---------------------------------------
+[Mon Oct 10 18:02:32 2016]  Version: MakerMod Win32
+[Mon Oct 10 18:02:32 2016]  Build Date: Dec 27 2010[Mon Oct 10 18:02:32 2016]  Build Time: 23:45:02[Mon Oct 10 18:02:32 2016]  Map: t2_trip
+[Mon Oct 10 18:02:32 2016]  Exception: Access violation (0xc0000005)
+[Mon Oct 10 18:02:32 2016]  Exception Address: 0x2005d386
+[Mon Oct 10 18:02:32 2016]  DLL Information:
+[Mon Oct 10 18:02:32 2016]  0x00400000	jampDed
+[Mon Oct 10 18:02:32 2016]  0x77350000	ntdll
+[Mon Oct 10 18:02:32 2016]  0x75a00000	kernel32
+[Mon Oct 10 18:02:32 2016]  0x76830000	KERNELBASE
+[Mon Oct 10 18:02:32 2016]  0x748d0000	WSOCK32
+[Mon Oct 10 18:02:32 2016]  0x74ea0000	WS2_32
+[Mon Oct 10 18:02:32 2016]  0x76d90000	msvcrt
+[Mon Oct 10 18:02:32 2016]  0x76e40000	RPCRT4
+[Mon Oct 10 18:02:32 2016]  0x74e40000	SspiCli
+[Mon Oct 10 18:02:32 2016]  0x74e30000	CRYPTBASE
+[Mon Oct 10 18:02:32 2016]  0x75b30000	sechost
+[Mon Oct 10 18:02:32 2016]  0x75b10000	NSI
+[Mon Oct 10 18:02:32 2016]  0x71750000	WINMM
+[Mon Oct 10 18:02:32 2016]  0x74f80000	USER32
+[Mon Oct 10 18:02:32 2016]  0x75b50000	GDI32
+[Mon Oct 10 18:02:32 2016]  0x77320000	LPK
+[Mon Oct 10 18:02:32 2016]  0x76880000	USP10
+[Mon Oct 10 18:02:32 2016]  0x750b0000	ADVAPI32
+[Mon Oct 10 18:02:32 2016]  0x76920000	IMM32
+[Mon Oct 10 18:02:32 2016]  0x75430000	MSCTF
+[Mon Oct 10 18:02:32 2016]  0x74870000	mswsock
+[Mon Oct 10 18:02:32 2016]  0x74860000	wshtcpip
+[Mon Oct 10 18:02:32 2016]  0x738b0000	NLAapi
+[Mon Oct 10 18:02:32 2016]  0x72420000	napinsp
+[Mon Oct 10 18:02:32 2016]  0x72400000	pnrpnsp
+[Mon Oct 10 18:02:32 2016]  0x73c10000	DNSAPI
+[Mon Oct 10 18:02:32 2016]  0x723f0000	winrnr
+[Mon Oct 10 18:02:32 2016]  0x723e0000	wshbth
+[Mon Oct 10 18:02:32 2016]  0x73be0000	WLIDNSP
+[Mon Oct 10 18:02:32 2016]  0x769e0000	PSAPI
+[Mon Oct 10 18:02:32 2016]  0x76980000	SHLWAPI
+[Mon Oct 10 18:02:32 2016]  0x16080000	mdnsNSP
+[Mon Oct 10 18:02:32 2016]  0x740f0000	Iphlpapi
+[Mon Oct 10 18:02:32 2016]  0x740e0000	WINNSI
+[Mon Oct 10 18:02:32 2016]  0x73ba0000	fwpuclnt
+[Mon Oct 10 18:02:32 2016]  0x73b90000	rasadhlp
+[Mon Oct 10 18:02:32 2016]  0x20000000	jampgamex86
+[Mon Oct 10 18:02:32 2016]  0x75400000	IMAGEHLP
+[Mon Oct 10 18:02:32 2016]  0x6d530000	dbghelp
+[Mon Oct 10 18:02:32 2016]  Backtrace:
+[Mon Oct 10 18:02:32 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d386]
+[Mon Oct 10 18:02:32 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2006f17a]
+[Mon Oct 10 18:02:32 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x1783) [0x200a0cf3]
+[Mon Oct 10 18:02:32 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x36) [0x2009f5a6]
+[Mon Oct 10 18:02:32 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Mon Oct 10 18:02:32 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0040fae6]
+[Mon Oct 10 18:02:32 2016]  -8<--------------------------------->8-
+
+[Mon Oct 10 18:02:32 2016]  Attempting to clean up.
+[Mon Oct 10 18:02:32 2016]  ShutdownGame:
+[Mon Oct 10 18:02:32 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:33 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:33 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:02:35 2016]  -8<------- Crash Information ------->8-
+[Mon Oct 10 18:02:35 2016]      Please forward to Scooper 
+[Mon Oct 10 18:02:35 2016]  ---------------------------------------
+[Mon Oct 10 18:02:35 2016]  Version: MakerMod Win32
+[Mon Oct 10 18:02:35 2016]  Build Date: Dec 27 2010[Mon Oct 10 18:02:35 2016]  Build Time: 23:45:02[Mon Oct 10 18:02:35 2016]  Map: t2_trip
+[Mon Oct 10 18:02:35 2016]  Exception: Access violation (0xc0000005)
+[Mon Oct 10 18:02:35 2016]  Exception Address: 0x2005d386
+[Mon Oct 10 18:02:35 2016]  DLL Information:
+[Mon Oct 10 18:02:35 2016]  0x00400000	jampDed
+[Mon Oct 10 18:02:35 2016]  0x77350000	ntdll
+[Mon Oct 10 18:02:35 2016]  0x75a00000	kernel32
+[Mon Oct 10 18:02:35 2016]  0x76830000	KERNELBASE
+[Mon Oct 10 18:02:35 2016]  0x748d0000	WSOCK32
+[Mon Oct 10 18:02:35 2016]  0x74ea0000	WS2_32
+[Mon Oct 10 18:02:35 2016]  0x76d90000	msvcrt
+[Mon Oct 10 18:02:35 2016]  0x76e40000	RPCRT4
+[Mon Oct 10 18:02:35 2016]  0x74e40000	SspiCli
+[Mon Oct 10 18:02:35 2016]  0x74e30000	CRYPTBASE
+[Mon Oct 10 18:02:35 2016]  0x75b30000	sechost
+[Mon Oct 10 18:02:35 2016]  0x75b10000	NSI
+[Mon Oct 10 18:02:35 2016]  0x71750000	WINMM
+[Mon Oct 10 18:02:35 2016]  0x74f80000	USER32
+[Mon Oct 10 18:02:35 2016]  0x75b50000	GDI32
+[Mon Oct 10 18:02:35 2016]  0x77320000	LPK
+[Mon Oct 10 18:02:35 2016]  0x76880000	USP10
+[Mon Oct 10 18:02:35 2016]  0x750b0000	ADVAPI32
+[Mon Oct 10 18:02:35 2016]  0x76920000	IMM32
+[Mon Oct 10 18:02:35 2016]  0x75430000	MSCTF
+[Mon Oct 10 18:02:35 2016]  0x74870000	mswsock
+[Mon Oct 10 18:02:35 2016]  0x74860000	wshtcpip
+[Mon Oct 10 18:02:35 2016]  0x738b0000	NLAapi
+[Mon Oct 10 18:02:35 2016]  0x72420000	napinsp
+[Mon Oct 10 18:02:35 2016]  0x72400000	pnrpnsp
+[Mon Oct 10 18:02:35 2016]  0x73c10000	DNSAPI
+[Mon Oct 10 18:02:35 2016]  0x723f0000	winrnr
+[Mon Oct 10 18:02:35 2016]  0x723e0000	wshbth
+[Mon Oct 10 18:02:35 2016]  0x16080000	mdnsNSP
+[Mon Oct 10 18:02:35 2016]  0x740f0000	Iphlpapi
+[Mon Oct 10 18:02:35 2016]  0x740e0000	WINNSI
+[Mon Oct 10 18:02:35 2016]  0x73ba0000	fwpuclnt
+[Mon Oct 10 18:02:35 2016]  0x73b90000	rasadhlp
+[Mon Oct 10 18:02:35 2016]  0x20000000	jampgamex86
+[Mon Oct 10 18:02:35 2016]  0x75400000	IMAGEHLP
+[Mon Oct 10 18:02:35 2016]  0x6d530000	dbghelp
+[Mon Oct 10 18:02:35 2016]  Backtrace:
+[Mon Oct 10 18:02:35 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d386]
+[Mon Oct 10 18:02:35 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2006f17a]
+[Mon Oct 10 18:02:35 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x1783) [0x200a0cf3]
+[Mon Oct 10 18:02:35 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x36) [0x2009f5a6]
+[Mon Oct 10 18:02:35 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Mon Oct 10 18:02:35 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0040fae6]
+[Mon Oct 10 18:02:35 2016]  -8<--------------------------------->8-
+
+[Mon Oct 10 18:02:35 2016]  Attempting to clean up.
+[Mon Oct 10 18:02:35 2016]  ShutdownGame:
+[Mon Oct 10 18:02:35 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:37 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:37 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:02:38 2016]  -8<------- Crash Information ------->8-
+[Mon Oct 10 18:02:38 2016]      Please forward to Scooper 
+[Mon Oct 10 18:02:38 2016]  ---------------------------------------
+[Mon Oct 10 18:02:38 2016]  Version: MakerMod Win32
+[Mon Oct 10 18:02:38 2016]  Build Date: Dec 27 2010[Mon Oct 10 18:02:38 2016]  Build Time: 23:45:02[Mon Oct 10 18:02:38 2016]  Map: t2_trip
+[Mon Oct 10 18:02:38 2016]  Exception: Access violation (0xc0000005)
+[Mon Oct 10 18:02:38 2016]  Exception Address: 0x2005d386
+[Mon Oct 10 18:02:38 2016]  DLL Information:
+[Mon Oct 10 18:02:38 2016]  0x00400000	jampDed
+[Mon Oct 10 18:02:38 2016]  0x77350000	ntdll
+[Mon Oct 10 18:02:38 2016]  0x75a00000	kernel32
+[Mon Oct 10 18:02:38 2016]  0x76830000	KERNELBASE
+[Mon Oct 10 18:02:38 2016]  0x748d0000	WSOCK32
+[Mon Oct 10 18:02:38 2016]  0x74ea0000	WS2_32
+[Mon Oct 10 18:02:38 2016]  0x76d90000	msvcrt
+[Mon Oct 10 18:02:38 2016]  0x76e40000	RPCRT4
+[Mon Oct 10 18:02:38 2016]  0x74e40000	SspiCli
+[Mon Oct 10 18:02:38 2016]  0x74e30000	CRYPTBASE
+[Mon Oct 10 18:02:38 2016]  0x75b30000	sechost
+[Mon Oct 10 18:02:38 2016]  0x75b10000	NSI
+[Mon Oct 10 18:02:38 2016]  0x71750000	WINMM
+[Mon Oct 10 18:02:38 2016]  0x74f80000	USER32
+[Mon Oct 10 18:02:38 2016]  0x75b50000	GDI32
+[Mon Oct 10 18:02:38 2016]  0x77320000	LPK
+[Mon Oct 10 18:02:38 2016]  0x76880000	USP10
+[Mon Oct 10 18:02:38 2016]  0x750b0000	ADVAPI32
+[Mon Oct 10 18:02:38 2016]  0x76920000	IMM32
+[Mon Oct 10 18:02:38 2016]  0x75430000	MSCTF
+[Mon Oct 10 18:02:38 2016]  0x74870000	mswsock
+[Mon Oct 10 18:02:38 2016]  0x74860000	wshtcpip
+[Mon Oct 10 18:02:38 2016]  0x738b0000	NLAapi
+[Mon Oct 10 18:02:38 2016]  0x72420000	napinsp
+[Mon Oct 10 18:02:38 2016]  0x72400000	pnrpnsp
+[Mon Oct 10 18:02:38 2016]  0x73c10000	DNSAPI
+[Mon Oct 10 18:02:38 2016]  0x723f0000	winrnr
+[Mon Oct 10 18:02:38 2016]  0x723e0000	wshbth
+[Mon Oct 10 18:02:38 2016]  0x16080000	mdnsNSP
+[Mon Oct 10 18:02:38 2016]  0x740f0000	Iphlpapi
+[Mon Oct 10 18:02:38 2016]  0x740e0000	WINNSI
+[Mon Oct 10 18:02:38 2016]  0x73ba0000	fwpuclnt
+[Mon Oct 10 18:02:38 2016]  0x73b90000	rasadhlp
+[Mon Oct 10 18:02:38 2016]  0x20000000	jampgamex86
+[Mon Oct 10 18:02:38 2016]  0x75400000	IMAGEHLP
+[Mon Oct 10 18:02:38 2016]  0x6d530000	dbghelp
+[Mon Oct 10 18:02:38 2016]  Backtrace:
+[Mon Oct 10 18:02:38 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d386]
+[Mon Oct 10 18:02:38 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2006f17a]
+[Mon Oct 10 18:02:38 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x1783) [0x200a0cf3]
+[Mon Oct 10 18:02:38 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x36) [0x2009f5a6]
+[Mon Oct 10 18:02:38 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Mon Oct 10 18:02:38 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0040fae6]
+[Mon Oct 10 18:02:38 2016]  -8<--------------------------------->8-
+
+[Mon Oct 10 18:02:38 2016]  Attempting to clean up.
+[Mon Oct 10 18:02:38 2016]  ShutdownGame:
+[Mon Oct 10 18:02:38 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:40 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:40 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:02:41 2016]  -8<------- Crash Information ------->8-
+[Mon Oct 10 18:02:41 2016]      Please forward to Scooper 
+[Mon Oct 10 18:02:41 2016]  ---------------------------------------
+[Mon Oct 10 18:02:41 2016]  Version: MakerMod Win32
+[Mon Oct 10 18:02:41 2016]  Build Date: Dec 27 2010[Mon Oct 10 18:02:41 2016]  Build Time: 23:45:02[Mon Oct 10 18:02:41 2016]  Map: t2_trip
+[Mon Oct 10 18:02:41 2016]  Exception: Access violation (0xc0000005)
+[Mon Oct 10 18:02:41 2016]  Exception Address: 0x2005d386
+[Mon Oct 10 18:02:41 2016]  DLL Information:
+[Mon Oct 10 18:02:41 2016]  0x00400000	jampDed
+[Mon Oct 10 18:02:41 2016]  0x77350000	ntdll
+[Mon Oct 10 18:02:41 2016]  0x75a00000	kernel32
+[Mon Oct 10 18:02:41 2016]  0x76830000	KERNELBASE
+[Mon Oct 10 18:02:41 2016]  0x748d0000	WSOCK32
+[Mon Oct 10 18:02:41 2016]  0x74ea0000	WS2_32
+[Mon Oct 10 18:02:41 2016]  0x76d90000	msvcrt
+[Mon Oct 10 18:02:41 2016]  0x76e40000	RPCRT4
+[Mon Oct 10 18:02:41 2016]  0x74e40000	SspiCli
+[Mon Oct 10 18:02:41 2016]  0x74e30000	CRYPTBASE
+[Mon Oct 10 18:02:41 2016]  0x75b30000	sechost
+[Mon Oct 10 18:02:41 2016]  0x75b10000	NSI
+[Mon Oct 10 18:02:41 2016]  0x71750000	WINMM
+[Mon Oct 10 18:02:41 2016]  0x74f80000	USER32
+[Mon Oct 10 18:02:41 2016]  0x75b50000	GDI32
+[Mon Oct 10 18:02:41 2016]  0x77320000	LPK
+[Mon Oct 10 18:02:41 2016]  0x76880000	USP10
+[Mon Oct 10 18:02:41 2016]  0x750b0000	ADVAPI32
+[Mon Oct 10 18:02:41 2016]  0x76920000	IMM32
+[Mon Oct 10 18:02:41 2016]  0x75430000	MSCTF
+[Mon Oct 10 18:02:41 2016]  0x74870000	mswsock
+[Mon Oct 10 18:02:41 2016]  0x74860000	wshtcpip
+[Mon Oct 10 18:02:41 2016]  0x738b0000	NLAapi
+[Mon Oct 10 18:02:41 2016]  0x72420000	napinsp
+[Mon Oct 10 18:02:41 2016]  0x72400000	pnrpnsp
+[Mon Oct 10 18:02:41 2016]  0x73c10000	DNSAPI
+[Mon Oct 10 18:02:41 2016]  0x723f0000	winrnr
+[Mon Oct 10 18:02:41 2016]  0x723e0000	wshbth
+[Mon Oct 10 18:02:41 2016]  0x16080000	mdnsNSP
+[Mon Oct 10 18:02:41 2016]  0x740f0000	Iphlpapi
+[Mon Oct 10 18:02:41 2016]  0x740e0000	WINNSI
+[Mon Oct 10 18:02:41 2016]  0x73ba0000	fwpuclnt
+[Mon Oct 10 18:02:41 2016]  0x73b90000	rasadhlp
+[Mon Oct 10 18:02:41 2016]  0x20000000	jampgamex86
+[Mon Oct 10 18:02:41 2016]  0x75400000	IMAGEHLP
+[Mon Oct 10 18:02:41 2016]  0x6d530000	dbghelp
+[Mon Oct 10 18:02:41 2016]  Backtrace:
+[Mon Oct 10 18:02:41 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d386]
+[Mon Oct 10 18:02:41 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2006f17a]
+[Mon Oct 10 18:02:41 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x1783) [0x200a0cf3]
+[Mon Oct 10 18:02:41 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x36) [0x2009f5a6]
+[Mon Oct 10 18:02:41 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Mon Oct 10 18:02:41 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0040fae6]
+[Mon Oct 10 18:02:41 2016]  -8<--------------------------------->8-
+
+[Mon Oct 10 18:02:41 2016]  Attempting to clean up.
+[Mon Oct 10 18:02:41 2016]  ShutdownGame:
+[Mon Oct 10 18:02:41 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:43 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:43 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:02:44 2016]  -8<------- Crash Information ------->8-
+[Mon Oct 10 18:02:44 2016]      Please forward to Scooper 
+[Mon Oct 10 18:02:44 2016]  ---------------------------------------
+[Mon Oct 10 18:02:44 2016]  Version: MakerMod Win32
+[Mon Oct 10 18:02:44 2016]  Build Date: Dec 27 2010[Mon Oct 10 18:02:44 2016]  Build Time: 23:45:02[Mon Oct 10 18:02:44 2016]  Map: t2_trip
+[Mon Oct 10 18:02:44 2016]  Exception: Access violation (0xc0000005)
+[Mon Oct 10 18:02:44 2016]  Exception Address: 0x2005d386
+[Mon Oct 10 18:02:44 2016]  DLL Information:
+[Mon Oct 10 18:02:44 2016]  0x00400000	jampDed
+[Mon Oct 10 18:02:44 2016]  0x77350000	ntdll
+[Mon Oct 10 18:02:44 2016]  0x75a00000	kernel32
+[Mon Oct 10 18:02:44 2016]  0x76830000	KERNELBASE
+[Mon Oct 10 18:02:44 2016]  0x748d0000	WSOCK32
+[Mon Oct 10 18:02:44 2016]  0x74ea0000	WS2_32
+[Mon Oct 10 18:02:44 2016]  0x76d90000	msvcrt
+[Mon Oct 10 18:02:44 2016]  0x76e40000	RPCRT4
+[Mon Oct 10 18:02:44 2016]  0x74e40000	SspiCli
+[Mon Oct 10 18:02:44 2016]  0x74e30000	CRYPTBASE
+[Mon Oct 10 18:02:44 2016]  0x75b30000	sechost
+[Mon Oct 10 18:02:44 2016]  0x75b10000	NSI
+[Mon Oct 10 18:02:44 2016]  0x71750000	WINMM
+[Mon Oct 10 18:02:44 2016]  0x74f80000	USER32
+[Mon Oct 10 18:02:44 2016]  0x75b50000	GDI32
+[Mon Oct 10 18:02:44 2016]  0x77320000	LPK
+[Mon Oct 10 18:02:44 2016]  0x76880000	USP10
+[Mon Oct 10 18:02:44 2016]  0x750b0000	ADVAPI32
+[Mon Oct 10 18:02:44 2016]  0x76920000	IMM32
+[Mon Oct 10 18:02:44 2016]  0x75430000	MSCTF
+[Mon Oct 10 18:02:44 2016]  0x74870000	mswsock
+[Mon Oct 10 18:02:44 2016]  0x74860000	wshtcpip
+[Mon Oct 10 18:02:44 2016]  0x738b0000	NLAapi
+[Mon Oct 10 18:02:44 2016]  0x72420000	napinsp
+[Mon Oct 10 18:02:44 2016]  0x72400000	pnrpnsp
+[Mon Oct 10 18:02:44 2016]  0x73c10000	DNSAPI
+[Mon Oct 10 18:02:44 2016]  0x723f0000	winrnr
+[Mon Oct 10 18:02:44 2016]  0x723e0000	wshbth
+[Mon Oct 10 18:02:44 2016]  0x16080000	mdnsNSP
+[Mon Oct 10 18:02:44 2016]  0x740f0000	Iphlpapi
+[Mon Oct 10 18:02:44 2016]  0x740e0000	WINNSI
+[Mon Oct 10 18:02:44 2016]  0x73ba0000	fwpuclnt
+[Mon Oct 10 18:02:44 2016]  0x73b90000	rasadhlp
+[Mon Oct 10 18:02:44 2016]  0x20000000	jampgamex86
+[Mon Oct 10 18:02:44 2016]  0x75400000	IMAGEHLP
+[Mon Oct 10 18:02:44 2016]  0x6d530000	dbghelp
+[Mon Oct 10 18:02:44 2016]  Backtrace:
+[Mon Oct 10 18:02:44 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d386]
+[Mon Oct 10 18:02:44 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2006f17a]
+[Mon Oct 10 18:02:44 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x1783) [0x200a0cf3]
+[Mon Oct 10 18:02:44 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x36) [0x2009f5a6]
+[Mon Oct 10 18:02:44 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Mon Oct 10 18:02:44 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0040fae6]
+[Mon Oct 10 18:02:44 2016]  -8<--------------------------------->8-
+
+[Mon Oct 10 18:02:44 2016]  Attempting to clean up.
+[Mon Oct 10 18:02:44 2016]  ShutdownGame:
+[Mon Oct 10 18:02:44 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:45 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:45 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:02:47 2016]  -8<------- Crash Information ------->8-
+[Mon Oct 10 18:02:47 2016]      Please forward to Scooper 
+[Mon Oct 10 18:02:47 2016]  ---------------------------------------
+[Mon Oct 10 18:02:47 2016]  Version: MakerMod Win32
+[Mon Oct 10 18:02:47 2016]  Build Date: Dec 27 2010[Mon Oct 10 18:02:47 2016]  Build Time: 23:45:02[Mon Oct 10 18:02:47 2016]  Map: t2_trip
+[Mon Oct 10 18:02:47 2016]  Exception: Access violation (0xc0000005)
+[Mon Oct 10 18:02:47 2016]  Exception Address: 0x2005d386
+[Mon Oct 10 18:02:47 2016]  DLL Information:
+[Mon Oct 10 18:02:47 2016]  0x00400000	jampDed
+[Mon Oct 10 18:02:47 2016]  0x77350000	ntdll
+[Mon Oct 10 18:02:47 2016]  0x75a00000	kernel32
+[Mon Oct 10 18:02:47 2016]  0x76830000	KERNELBASE
+[Mon Oct 10 18:02:47 2016]  0x748d0000	WSOCK32
+[Mon Oct 10 18:02:47 2016]  0x74ea0000	WS2_32
+[Mon Oct 10 18:02:47 2016]  0x76d90000	msvcrt
+[Mon Oct 10 18:02:47 2016]  0x76e40000	RPCRT4
+[Mon Oct 10 18:02:47 2016]  0x74e40000	SspiCli
+[Mon Oct 10 18:02:47 2016]  0x74e30000	CRYPTBASE
+[Mon Oct 10 18:02:47 2016]  0x75b30000	sechost
+[Mon Oct 10 18:02:47 2016]  0x75b10000	NSI
+[Mon Oct 10 18:02:47 2016]  0x71750000	WINMM
+[Mon Oct 10 18:02:47 2016]  0x74f80000	USER32
+[Mon Oct 10 18:02:47 2016]  0x75b50000	GDI32
+[Mon Oct 10 18:02:47 2016]  0x77320000	LPK
+[Mon Oct 10 18:02:47 2016]  0x76880000	USP10
+[Mon Oct 10 18:02:47 2016]  0x750b0000	ADVAPI32
+[Mon Oct 10 18:02:47 2016]  0x76920000	IMM32
+[Mon Oct 10 18:02:47 2016]  0x75430000	MSCTF
+[Mon Oct 10 18:02:47 2016]  0x74870000	mswsock
+[Mon Oct 10 18:02:47 2016]  0x74860000	wshtcpip
+[Mon Oct 10 18:02:47 2016]  0x738b0000	NLAapi
+[Mon Oct 10 18:02:47 2016]  0x72420000	napinsp
+[Mon Oct 10 18:02:47 2016]  0x72400000	pnrpnsp
+[Mon Oct 10 18:02:47 2016]  0x73c10000	DNSAPI
+[Mon Oct 10 18:02:47 2016]  0x723f0000	winrnr
+[Mon Oct 10 18:02:47 2016]  0x723e0000	wshbth
+[Mon Oct 10 18:02:47 2016]  0x16080000	mdnsNSP
+[Mon Oct 10 18:02:47 2016]  0x740f0000	Iphlpapi
+[Mon Oct 10 18:02:47 2016]  0x740e0000	WINNSI
+[Mon Oct 10 18:02:47 2016]  0x73ba0000	fwpuclnt
+[Mon Oct 10 18:02:47 2016]  0x73b90000	rasadhlp
+[Mon Oct 10 18:02:47 2016]  0x20000000	jampgamex86
+[Mon Oct 10 18:02:47 2016]  0x75400000	IMAGEHLP
+[Mon Oct 10 18:02:47 2016]  0x6d530000	dbghelp
+[Mon Oct 10 18:02:47 2016]  Backtrace:
+[Mon Oct 10 18:02:47 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d386]
+[Mon Oct 10 18:02:47 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2006f17a]
+[Mon Oct 10 18:02:47 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x1783) [0x200a0cf3]
+[Mon Oct 10 18:02:47 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x36) [0x2009f5a6]
+[Mon Oct 10 18:02:47 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Mon Oct 10 18:02:47 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0040fae6]
+[Mon Oct 10 18:02:47 2016]  -8<--------------------------------->8-
+
+[Mon Oct 10 18:02:47 2016]  Attempting to clean up.
+[Mon Oct 10 18:02:47 2016]  ShutdownGame:
+[Mon Oct 10 18:02:47 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:49 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:49 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:02:50 2016]  -8<------- Crash Information ------->8-
+[Mon Oct 10 18:02:50 2016]      Please forward to Scooper 
+[Mon Oct 10 18:02:50 2016]  ---------------------------------------
+[Mon Oct 10 18:02:50 2016]  Version: MakerMod Win32
+[Mon Oct 10 18:02:50 2016]  Build Date: Dec 27 2010[Mon Oct 10 18:02:50 2016]  Build Time: 23:45:02[Mon Oct 10 18:02:50 2016]  Map: t2_trip
+[Mon Oct 10 18:02:50 2016]  Exception: Access violation (0xc0000005)
+[Mon Oct 10 18:02:50 2016]  Exception Address: 0x2005d386
+[Mon Oct 10 18:02:50 2016]  DLL Information:
+[Mon Oct 10 18:02:50 2016]  0x00400000	jampDed
+[Mon Oct 10 18:02:50 2016]  0x77350000	ntdll
+[Mon Oct 10 18:02:50 2016]  0x75a00000	kernel32
+[Mon Oct 10 18:02:50 2016]  0x76830000	KERNELBASE
+[Mon Oct 10 18:02:50 2016]  0x748d0000	WSOCK32
+[Mon Oct 10 18:02:50 2016]  0x74ea0000	WS2_32
+[Mon Oct 10 18:02:50 2016]  0x76d90000	msvcrt
+[Mon Oct 10 18:02:50 2016]  0x76e40000	RPCRT4
+[Mon Oct 10 18:02:50 2016]  0x74e40000	SspiCli
+[Mon Oct 10 18:02:50 2016]  0x74e30000	CRYPTBASE
+[Mon Oct 10 18:02:50 2016]  0x75b30000	sechost
+[Mon Oct 10 18:02:50 2016]  0x75b10000	NSI
+[Mon Oct 10 18:02:50 2016]  0x71750000	WINMM
+[Mon Oct 10 18:02:50 2016]  0x74f80000	USER32
+[Mon Oct 10 18:02:50 2016]  0x75b50000	GDI32
+[Mon Oct 10 18:02:50 2016]  0x77320000	LPK
+[Mon Oct 10 18:02:50 2016]  0x76880000	USP10
+[Mon Oct 10 18:02:50 2016]  0x750b0000	ADVAPI32
+[Mon Oct 10 18:02:50 2016]  0x76920000	IMM32
+[Mon Oct 10 18:02:50 2016]  0x75430000	MSCTF
+[Mon Oct 10 18:02:50 2016]  0x74870000	mswsock
+[Mon Oct 10 18:02:50 2016]  0x74860000	wshtcpip
+[Mon Oct 10 18:02:50 2016]  0x738b0000	NLAapi
+[Mon Oct 10 18:02:50 2016]  0x72420000	napinsp
+[Mon Oct 10 18:02:50 2016]  0x72400000	pnrpnsp
+[Mon Oct 10 18:02:50 2016]  0x73c10000	DNSAPI
+[Mon Oct 10 18:02:50 2016]  0x723f0000	winrnr
+[Mon Oct 10 18:02:50 2016]  0x723e0000	wshbth
+[Mon Oct 10 18:02:50 2016]  0x16080000	mdnsNSP
+[Mon Oct 10 18:02:50 2016]  0x740f0000	Iphlpapi
+[Mon Oct 10 18:02:50 2016]  0x740e0000	WINNSI
+[Mon Oct 10 18:02:50 2016]  0x73ba0000	fwpuclnt
+[Mon Oct 10 18:02:50 2016]  0x73b90000	rasadhlp
+[Mon Oct 10 18:02:50 2016]  0x20000000	jampgamex86
+[Mon Oct 10 18:02:50 2016]  0x75400000	IMAGEHLP
+[Mon Oct 10 18:02:50 2016]  0x6d530000	dbghelp
+[Mon Oct 10 18:02:50 2016]  Backtrace:
+[Mon Oct 10 18:02:50 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d386]
+[Mon Oct 10 18:02:50 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2006f17a]
+[Mon Oct 10 18:02:50 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x1783) [0x200a0cf3]
+[Mon Oct 10 18:02:50 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x36) [0x2009f5a6]
+[Mon Oct 10 18:02:50 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Mon Oct 10 18:02:50 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0040fae6]
+[Mon Oct 10 18:02:50 2016]  -8<--------------------------------->8-
+
+[Mon Oct 10 18:02:50 2016]  Attempting to clean up.
+[Mon Oct 10 18:02:50 2016]  ShutdownGame:
+[Mon Oct 10 18:02:50 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:53 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:02:53 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:02:55 2016]  -8<------- Crash Information ------->8-
+[Mon Oct 10 18:02:55 2016]      Please forward to Scooper 
+[Mon Oct 10 18:02:55 2016]  ---------------------------------------
+[Mon Oct 10 18:02:55 2016]  Version: MakerMod Win32
+[Mon Oct 10 18:02:55 2016]  Build Date: Dec 27 2010[Mon Oct 10 18:02:55 2016]  Build Time: 23:45:02[Mon Oct 10 18:02:55 2016]  Map: t2_trip
+[Mon Oct 10 18:02:55 2016]  Exception: Access violation (0xc0000005)
+[Mon Oct 10 18:02:55 2016]  Exception Address: 0x2005d386
+[Mon Oct 10 18:02:55 2016]  DLL Information:
+[Mon Oct 10 18:02:55 2016]  0x00400000	jampDed
+[Mon Oct 10 18:02:55 2016]  0x77350000	ntdll
+[Mon Oct 10 18:02:55 2016]  0x75a00000	kernel32
+[Mon Oct 10 18:02:55 2016]  0x76830000	KERNELBASE
+[Mon Oct 10 18:02:55 2016]  0x748d0000	WSOCK32
+[Mon Oct 10 18:02:55 2016]  0x74ea0000	WS2_32
+[Mon Oct 10 18:02:55 2016]  0x76d90000	msvcrt
+[Mon Oct 10 18:02:55 2016]  0x76e40000	RPCRT4
+[Mon Oct 10 18:02:55 2016]  0x74e40000	SspiCli
+[Mon Oct 10 18:02:55 2016]  0x74e30000	CRYPTBASE
+[Mon Oct 10 18:02:55 2016]  0x75b30000	sechost
+[Mon Oct 10 18:02:55 2016]  0x75b10000	NSI
+[Mon Oct 10 18:02:55 2016]  0x71750000	WINMM
+[Mon Oct 10 18:02:55 2016]  0x74f80000	USER32
+[Mon Oct 10 18:02:55 2016]  0x75b50000	GDI32
+[Mon Oct 10 18:02:55 2016]  0x77320000	LPK
+[Mon Oct 10 18:02:55 2016]  0x76880000	USP10
+[Mon Oct 10 18:02:55 2016]  0x750b0000	ADVAPI32
+[Mon Oct 10 18:02:55 2016]  0x76920000	IMM32
+[Mon Oct 10 18:02:55 2016]  0x75430000	MSCTF
+[Mon Oct 10 18:02:55 2016]  0x74870000	mswsock
+[Mon Oct 10 18:02:55 2016]  0x74860000	wshtcpip
+[Mon Oct 10 18:02:55 2016]  0x738b0000	NLAapi
+[Mon Oct 10 18:02:55 2016]  0x72420000	napinsp
+[Mon Oct 10 18:02:55 2016]  0x72400000	pnrpnsp
+[Mon Oct 10 18:02:55 2016]  0x73c10000	DNSAPI
+[Mon Oct 10 18:02:55 2016]  0x723f0000	winrnr
+[Mon Oct 10 18:02:55 2016]  0x723e0000	wshbth
+[Mon Oct 10 18:02:55 2016]  0x16080000	mdnsNSP
+[Mon Oct 10 18:02:55 2016]  0x740f0000	Iphlpapi
+[Mon Oct 10 18:02:55 2016]  0x740e0000	WINNSI
+[Mon Oct 10 18:02:55 2016]  0x73ba0000	fwpuclnt
+[Mon Oct 10 18:02:55 2016]  0x73b90000	rasadhlp
+[Mon Oct 10 18:02:55 2016]  0x20000000	jampgamex86
+[Mon Oct 10 18:02:55 2016]  0x75400000	IMAGEHLP
+[Mon Oct 10 18:02:55 2016]  0x6d530000	dbghelp
+[Mon Oct 10 18:02:55 2016]  Backtrace:
+[Mon Oct 10 18:02:55 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d386]
+[Mon Oct 10 18:02:55 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2006f17a]
+[Mon Oct 10 18:02:55 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x1783) [0x200a0cf3]
+[Mon Oct 10 18:02:55 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x36) [0x2009f5a6]
+[Mon Oct 10 18:02:55 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Mon Oct 10 18:02:55 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0040fae6]
+[Mon Oct 10 18:02:55 2016]  -8<--------------------------------->8-
+
+[Mon Oct 10 18:02:55 2016]  Attempting to clean up.
+[Mon Oct 10 18:02:55 2016]  ShutdownGame:
+[Mon Oct 10 18:02:55 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:04:07 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:04:07 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:04:08 2016]  -8<------- Crash Information ------->8-
+[Mon Oct 10 18:04:08 2016]      Please forward to Scooper 
+[Mon Oct 10 18:04:08 2016]  ---------------------------------------
+[Mon Oct 10 18:04:08 2016]  Version: MakerMod Win32
+[Mon Oct 10 18:04:08 2016]  Build Date: Dec 27 2010[Mon Oct 10 18:04:08 2016]  Build Time: 23:45:02[Mon Oct 10 18:04:08 2016]  Map: t2_trip
+[Mon Oct 10 18:04:08 2016]  Exception: Access violation (0xc0000005)
+[Mon Oct 10 18:04:08 2016]  Exception Address: 0x2005d386
+[Mon Oct 10 18:04:08 2016]  DLL Information:
+[Mon Oct 10 18:04:08 2016]  0x00400000	jampDed
+[Mon Oct 10 18:04:08 2016]  0x77350000	ntdll
+[Mon Oct 10 18:04:08 2016]  0x75a00000	kernel32
+[Mon Oct 10 18:04:08 2016]  0x76830000	KERNELBASE
+[Mon Oct 10 18:04:08 2016]  0x748d0000	WSOCK32
+[Mon Oct 10 18:04:08 2016]  0x74ea0000	WS2_32
+[Mon Oct 10 18:04:08 2016]  0x76d90000	msvcrt
+[Mon Oct 10 18:04:08 2016]  0x76e40000	RPCRT4
+[Mon Oct 10 18:04:08 2016]  0x74e40000	SspiCli
+[Mon Oct 10 18:04:08 2016]  0x74e30000	CRYPTBASE
+[Mon Oct 10 18:04:08 2016]  0x75b30000	sechost
+[Mon Oct 10 18:04:08 2016]  0x75b10000	NSI
+[Mon Oct 10 18:04:08 2016]  0x71750000	WINMM
+[Mon Oct 10 18:04:08 2016]  0x74f80000	USER32
+[Mon Oct 10 18:04:08 2016]  0x75b50000	GDI32
+[Mon Oct 10 18:04:08 2016]  0x77320000	LPK
+[Mon Oct 10 18:04:08 2016]  0x76880000	USP10
+[Mon Oct 10 18:04:08 2016]  0x750b0000	ADVAPI32
+[Mon Oct 10 18:04:08 2016]  0x76920000	IMM32
+[Mon Oct 10 18:04:08 2016]  0x75430000	MSCTF
+[Mon Oct 10 18:04:08 2016]  0x74870000	mswsock
+[Mon Oct 10 18:04:08 2016]  0x74860000	wshtcpip
+[Mon Oct 10 18:04:08 2016]  0x738b0000	NLAapi
+[Mon Oct 10 18:04:08 2016]  0x72420000	napinsp
+[Mon Oct 10 18:04:08 2016]  0x72400000	pnrpnsp
+[Mon Oct 10 18:04:08 2016]  0x73c10000	DNSAPI
+[Mon Oct 10 18:04:08 2016]  0x723f0000	winrnr
+[Mon Oct 10 18:04:08 2016]  0x723e0000	wshbth
+[Mon Oct 10 18:04:08 2016]  0x16080000	mdnsNSP
+[Mon Oct 10 18:04:08 2016]  0x740f0000	Iphlpapi
+[Mon Oct 10 18:04:08 2016]  0x740e0000	WINNSI
+[Mon Oct 10 18:04:08 2016]  0x73ba0000	fwpuclnt
+[Mon Oct 10 18:04:08 2016]  0x73b90000	rasadhlp
+[Mon Oct 10 18:04:08 2016]  0x20000000	jampgamex86
+[Mon Oct 10 18:04:08 2016]  0x75400000	IMAGEHLP
+[Mon Oct 10 18:04:08 2016]  0x6d530000	dbghelp
+[Mon Oct 10 18:04:08 2016]  Backtrace:
+[Mon Oct 10 18:04:08 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d386]
+[Mon Oct 10 18:04:08 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2006f17a]
+[Mon Oct 10 18:04:08 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x1783) [0x200a0cf3]
+[Mon Oct 10 18:04:08 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x36) [0x2009f5a6]
+[Mon Oct 10 18:04:08 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Mon Oct 10 18:04:08 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0040fae6]
+[Mon Oct 10 18:04:08 2016]  -8<--------------------------------->8-
+
+[Mon Oct 10 18:04:08 2016]  Attempting to clean up.
+[Mon Oct 10 18:04:08 2016]  ShutdownGame:
+[Mon Oct 10 18:04:08 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:04:10 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:04:10 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:04:12 2016]  -8<------- Crash Information ------->8-
+[Mon Oct 10 18:04:12 2016]      Please forward to Scooper 
+[Mon Oct 10 18:04:12 2016]  ---------------------------------------
+[Mon Oct 10 18:04:12 2016]  Version: MakerMod Win32
+[Mon Oct 10 18:04:12 2016]  Build Date: Dec 27 2010[Mon Oct 10 18:04:12 2016]  Build Time: 23:45:02[Mon Oct 10 18:04:12 2016]  Map: t2_trip
+[Mon Oct 10 18:04:12 2016]  Exception: Access violation (0xc0000005)
+[Mon Oct 10 18:04:12 2016]  Exception Address: 0x2005d386
+[Mon Oct 10 18:04:12 2016]  DLL Information:
+[Mon Oct 10 18:04:12 2016]  0x00400000	jampDed
+[Mon Oct 10 18:04:12 2016]  0x77350000	ntdll
+[Mon Oct 10 18:04:12 2016]  0x75a00000	kernel32
+[Mon Oct 10 18:04:12 2016]  0x76830000	KERNELBASE
+[Mon Oct 10 18:04:12 2016]  0x748d0000	WSOCK32
+[Mon Oct 10 18:04:12 2016]  0x74ea0000	WS2_32
+[Mon Oct 10 18:04:12 2016]  0x76d90000	msvcrt
+[Mon Oct 10 18:04:12 2016]  0x76e40000	RPCRT4
+[Mon Oct 10 18:04:12 2016]  0x74e40000	SspiCli
+[Mon Oct 10 18:04:12 2016]  0x74e30000	CRYPTBASE
+[Mon Oct 10 18:04:12 2016]  0x75b30000	sechost
+[Mon Oct 10 18:04:12 2016]  0x75b10000	NSI
+[Mon Oct 10 18:04:12 2016]  0x71750000	WINMM
+[Mon Oct 10 18:04:12 2016]  0x74f80000	USER32
+[Mon Oct 10 18:04:12 2016]  0x75b50000	GDI32
+[Mon Oct 10 18:04:12 2016]  0x77320000	LPK
+[Mon Oct 10 18:04:12 2016]  0x76880000	USP10
+[Mon Oct 10 18:04:12 2016]  0x750b0000	ADVAPI32
+[Mon Oct 10 18:04:12 2016]  0x76920000	IMM32
+[Mon Oct 10 18:04:12 2016]  0x75430000	MSCTF
+[Mon Oct 10 18:04:12 2016]  0x74870000	mswsock
+[Mon Oct 10 18:04:12 2016]  0x74860000	wshtcpip
+[Mon Oct 10 18:04:12 2016]  0x738b0000	NLAapi
+[Mon Oct 10 18:04:12 2016]  0x72420000	napinsp
+[Mon Oct 10 18:04:12 2016]  0x72400000	pnrpnsp
+[Mon Oct 10 18:04:12 2016]  0x73c10000	DNSAPI
+[Mon Oct 10 18:04:12 2016]  0x723f0000	winrnr
+[Mon Oct 10 18:04:12 2016]  0x723e0000	wshbth
+[Mon Oct 10 18:04:12 2016]  0x16080000	mdnsNSP
+[Mon Oct 10 18:04:12 2016]  0x740f0000	Iphlpapi
+[Mon Oct 10 18:04:12 2016]  0x740e0000	WINNSI
+[Mon Oct 10 18:04:12 2016]  0x73ba0000	fwpuclnt
+[Mon Oct 10 18:04:12 2016]  0x73b90000	rasadhlp
+[Mon Oct 10 18:04:12 2016]  0x20000000	jampgamex86
+[Mon Oct 10 18:04:12 2016]  0x75400000	IMAGEHLP
+[Mon Oct 10 18:04:12 2016]  0x6d530000	dbghelp
+[Mon Oct 10 18:04:12 2016]  Backtrace:
+[Mon Oct 10 18:04:12 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d386]
+[Mon Oct 10 18:04:12 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2006f17a]
+[Mon Oct 10 18:04:12 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x1783) [0x200a0cf3]
+[Mon Oct 10 18:04:12 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x36) [0x2009f5a6]
+[Mon Oct 10 18:04:12 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Mon Oct 10 18:04:12 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0040fae6]
+[Mon Oct 10 18:04:12 2016]  -8<--------------------------------->8-
+
+[Mon Oct 10 18:04:12 2016]  Attempting to clean up.
+[Mon Oct 10 18:04:12 2016]  ShutdownGame:
+[Mon Oct 10 18:04:12 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:04:13 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:04:13 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:04:15 2016]  -8<------- Crash Information ------->8-
+[Mon Oct 10 18:04:15 2016]      Please forward to Scooper 
+[Mon Oct 10 18:04:15 2016]  ---------------------------------------
+[Mon Oct 10 18:04:15 2016]  Version: MakerMod Win32
+[Mon Oct 10 18:04:15 2016]  Build Date: Dec 27 2010[Mon Oct 10 18:04:15 2016]  Build Time: 23:45:02[Mon Oct 10 18:04:15 2016]  Map: t2_trip
+[Mon Oct 10 18:04:15 2016]  Exception: Access violation (0xc0000005)
+[Mon Oct 10 18:04:15 2016]  Exception Address: 0x2005d386
+[Mon Oct 10 18:04:15 2016]  DLL Information:
+[Mon Oct 10 18:04:15 2016]  0x00400000	jampDed
+[Mon Oct 10 18:04:15 2016]  0x77350000	ntdll
+[Mon Oct 10 18:04:15 2016]  0x75a00000	kernel32
+[Mon Oct 10 18:04:15 2016]  0x76830000	KERNELBASE
+[Mon Oct 10 18:04:15 2016]  0x748d0000	WSOCK32
+[Mon Oct 10 18:04:15 2016]  0x74ea0000	WS2_32
+[Mon Oct 10 18:04:15 2016]  0x76d90000	msvcrt
+[Mon Oct 10 18:04:15 2016]  0x76e40000	RPCRT4
+[Mon Oct 10 18:04:15 2016]  0x74e40000	SspiCli
+[Mon Oct 10 18:04:15 2016]  0x74e30000	CRYPTBASE
+[Mon Oct 10 18:04:15 2016]  0x75b30000	sechost
+[Mon Oct 10 18:04:15 2016]  0x75b10000	NSI
+[Mon Oct 10 18:04:15 2016]  0x71750000	WINMM
+[Mon Oct 10 18:04:15 2016]  0x74f80000	USER32
+[Mon Oct 10 18:04:15 2016]  0x75b50000	GDI32
+[Mon Oct 10 18:04:15 2016]  0x77320000	LPK
+[Mon Oct 10 18:04:15 2016]  0x76880000	USP10
+[Mon Oct 10 18:04:15 2016]  0x750b0000	ADVAPI32
+[Mon Oct 10 18:04:15 2016]  0x76920000	IMM32
+[Mon Oct 10 18:04:15 2016]  0x75430000	MSCTF
+[Mon Oct 10 18:04:15 2016]  0x74870000	mswsock
+[Mon Oct 10 18:04:15 2016]  0x74860000	wshtcpip
+[Mon Oct 10 18:04:15 2016]  0x738b0000	NLAapi
+[Mon Oct 10 18:04:15 2016]  0x72420000	napinsp
+[Mon Oct 10 18:04:15 2016]  0x72400000	pnrpnsp
+[Mon Oct 10 18:04:15 2016]  0x73c10000	DNSAPI
+[Mon Oct 10 18:04:15 2016]  0x723f0000	winrnr
+[Mon Oct 10 18:04:15 2016]  0x723e0000	wshbth
+[Mon Oct 10 18:04:15 2016]  0x16080000	mdnsNSP
+[Mon Oct 10 18:04:15 2016]  0x740f0000	Iphlpapi
+[Mon Oct 10 18:04:15 2016]  0x740e0000	WINNSI
+[Mon Oct 10 18:04:15 2016]  0x73ba0000	fwpuclnt
+[Mon Oct 10 18:04:15 2016]  0x73b90000	rasadhlp
+[Mon Oct 10 18:04:15 2016]  0x20000000	jampgamex86
+[Mon Oct 10 18:04:15 2016]  0x75400000	IMAGEHLP
+[Mon Oct 10 18:04:15 2016]  0x6d530000	dbghelp
+[Mon Oct 10 18:04:15 2016]  Backtrace:
+[Mon Oct 10 18:04:15 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d386]
+[Mon Oct 10 18:04:15 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2006f17a]
+[Mon Oct 10 18:04:15 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x1783) [0x200a0cf3]
+[Mon Oct 10 18:04:15 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x36) [0x2009f5a6]
+[Mon Oct 10 18:04:15 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Mon Oct 10 18:04:15 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0040fae6]
+[Mon Oct 10 18:04:15 2016]  -8<--------------------------------->8-
+
+[Mon Oct 10 18:04:15 2016]  Attempting to clean up.
+[Mon Oct 10 18:04:15 2016]  ShutdownGame:
+[Mon Oct 10 18:04:15 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:04:16 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:04:16 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:04:18 2016]  -8<------- Crash Information ------->8-
+[Mon Oct 10 18:04:18 2016]      Please forward to Scooper 
+[Mon Oct 10 18:04:18 2016]  ---------------------------------------
+[Mon Oct 10 18:04:18 2016]  Version: MakerMod Win32
+[Mon Oct 10 18:04:18 2016]  Build Date: Dec 27 2010[Mon Oct 10 18:04:18 2016]  Build Time: 23:45:02[Mon Oct 10 18:04:18 2016]  Map: t2_trip
+[Mon Oct 10 18:04:18 2016]  Exception: Access violation (0xc0000005)
+[Mon Oct 10 18:04:18 2016]  Exception Address: 0x2005d386
+[Mon Oct 10 18:04:18 2016]  DLL Information:
+[Mon Oct 10 18:04:18 2016]  0x00400000	jampDed
+[Mon Oct 10 18:04:18 2016]  0x77350000	ntdll
+[Mon Oct 10 18:04:18 2016]  0x75a00000	kernel32
+[Mon Oct 10 18:04:18 2016]  0x76830000	KERNELBASE
+[Mon Oct 10 18:04:18 2016]  0x748d0000	WSOCK32
+[Mon Oct 10 18:04:18 2016]  0x74ea0000	WS2_32
+[Mon Oct 10 18:04:18 2016]  0x76d90000	msvcrt
+[Mon Oct 10 18:04:18 2016]  0x76e40000	RPCRT4
+[Mon Oct 10 18:04:18 2016]  0x74e40000	SspiCli
+[Mon Oct 10 18:04:18 2016]  0x74e30000	CRYPTBASE
+[Mon Oct 10 18:04:18 2016]  0x75b30000	sechost
+[Mon Oct 10 18:04:18 2016]  0x75b10000	NSI
+[Mon Oct 10 18:04:18 2016]  0x71750000	WINMM
+[Mon Oct 10 18:04:18 2016]  0x74f80000	USER32
+[Mon Oct 10 18:04:18 2016]  0x75b50000	GDI32
+[Mon Oct 10 18:04:18 2016]  0x77320000	LPK
+[Mon Oct 10 18:04:18 2016]  0x76880000	USP10
+[Mon Oct 10 18:04:18 2016]  0x750b0000	ADVAPI32
+[Mon Oct 10 18:04:18 2016]  0x76920000	IMM32
+[Mon Oct 10 18:04:18 2016]  0x75430000	MSCTF
+[Mon Oct 10 18:04:18 2016]  0x74870000	mswsock
+[Mon Oct 10 18:04:18 2016]  0x74860000	wshtcpip
+[Mon Oct 10 18:04:18 2016]  0x738b0000	NLAapi
+[Mon Oct 10 18:04:18 2016]  0x72420000	napinsp
+[Mon Oct 10 18:04:18 2016]  0x72400000	pnrpnsp
+[Mon Oct 10 18:04:18 2016]  0x73c10000	DNSAPI
+[Mon Oct 10 18:04:18 2016]  0x723f0000	winrnr
+[Mon Oct 10 18:04:18 2016]  0x723e0000	wshbth
+[Mon Oct 10 18:04:18 2016]  0x16080000	mdnsNSP
+[Mon Oct 10 18:04:18 2016]  0x740f0000	Iphlpapi
+[Mon Oct 10 18:04:18 2016]  0x740e0000	WINNSI
+[Mon Oct 10 18:04:18 2016]  0x73ba0000	fwpuclnt
+[Mon Oct 10 18:04:18 2016]  0x73b90000	rasadhlp
+[Mon Oct 10 18:04:18 2016]  0x20000000	jampgamex86
+[Mon Oct 10 18:04:18 2016]  0x75400000	IMAGEHLP
+[Mon Oct 10 18:04:18 2016]  0x6d530000	dbghelp
+[Mon Oct 10 18:04:18 2016]  Backtrace:
+[Mon Oct 10 18:04:18 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d386]
+[Mon Oct 10 18:04:18 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2006f17a]
+[Mon Oct 10 18:04:18 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x1783) [0x200a0cf3]
+[Mon Oct 10 18:04:18 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x36) [0x2009f5a6]
+[Mon Oct 10 18:04:18 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Mon Oct 10 18:04:18 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0040fae6]
+[Mon Oct 10 18:04:18 2016]  -8<--------------------------------->8-
+
+[Mon Oct 10 18:04:18 2016]  Attempting to clean up.
+[Mon Oct 10 18:04:18 2016]  ShutdownGame:
+[Mon Oct 10 18:04:18 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:04:20 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:04:20 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:07:20 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:07:20 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:07:31 2016]  ClientConnect: 0
+[Mon Oct 10 18:07:31 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29070 
+[Mon Oct 10 18:07:55 2016]  ClientBegin: 0
+[Mon Oct 10 18:11:28 2016]  ShutdownGame:
+[Mon Oct 10 18:11:28 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:11:29 2016]  ------------------------------------------------------------
+[Mon Oct 10 18:11:29 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 10 18:11:31 2016]  ClientConnect: 0
+[Mon Oct 10 18:11:36 2016]  ClientBegin: 0
+[Mon Oct 10 18:13:22 2016]  ClientDisconnect: 0

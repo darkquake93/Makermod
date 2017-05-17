@@ -1,0 +1,534 @@
+[Sat Jun 07 09:39:03 2014]  ------------------------------------------------------------
+[Sat Jun 07 09:39:03 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Jun 07 09:39:05 2014]  ClientConnect: 0
+[Sat Jun 07 09:39:28 2014]  ClientBegin: 0
+[Sat Jun 07 09:41:25 2014]  Item: 0 ammo_all
+[Sat Jun 07 09:43:09 2014]  ClientDisconnect: 0
+[Sat Jun 07 10:22:18 2014]  ClientConnect: 0
+[Sat Jun 07 10:22:18 2014]  mlog:Player ^5FX, connected. With IP - 37.204.220.111:29070 
+[Sat Jun 07 10:24:04 2014]  ClientBegin: 0
+[Sat Jun 07 10:27:39 2014]  say: ^2N^5ewcomer: gdd
+[Sat Jun 07 10:45:20 2014]  Item: 0 weapon_blaster
+[Sat Jun 07 10:46:34 2014]  Item: 0 weapon_blaster
+[Sat Jun 07 10:49:15 2014]  ClientConnect: 1
+[Sat Jun 07 10:49:15 2014]  mlog:Player veyron45, connected. With IP - 91.230.25.125:29070 
+[Sat Jun 07 10:49:40 2014]  ClientBegin: 1
+[Sat Jun 07 10:49:52 2014]  say: ^2N^5ewcomer: hi) привет)
+[Sat Jun 07 10:49:59 2014]  say: Padawan: привет
+[Sat Jun 07 10:50:13 2014]  say: Padawan: ты кто
+[Sat Jun 07 10:51:23 2014]  say: ^2N^5ewcomer: в смысле?)
+[Sat Jun 07 10:51:32 2014]  say: Padawan: darth furious?
+[Sat Jun 07 10:51:40 2014]  say: ^2N^5ewcomer: нет))
+[Sat Jun 07 10:52:14 2014]  say: ^2N^5ewcomer: фура под ником Darth Furious и бегает. хотяя у неего вроде другой сейчас )
+[Sat Jun 07 10:52:38 2014]  say: Padawan: а ты че
+[Sat Jun 07 10:53:28 2014]  say: ^2N^5ewcomer: ?)
+[Sat Jun 07 10:53:39 2014]  say: Padawan: че делаешь
+[Sat Jun 07 10:54:21 2014]  say: ^2N^5ewcomer: играю)
+[Sat Jun 07 10:54:29 2014]  say: Padawan: а те скока лет
+[Sat Jun 07 10:54:57 2014]  say: ^2N^5ewcomer: 18
+[Sat Jun 07 10:55:15 2014]  say: Padawan: че не врешь?
+[Sat Jun 07 10:56:16 2014]  say: ^2N^5ewcomer: нет
+[Sat Jun 07 10:56:47 2014]  say: Padawan: а откуда мне знать
+[Sat Jun 07 10:58:34 2014]  say: ^2N^5ewcomer: лол. а зачем?
+[Sat Jun 07 10:58:50 2014]  say: Padawan: школьников много
+[Sat Jun 07 10:58:56 2014]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Jun 07 10:59:01 2014]  say: ^2N^5ewcomer: ну и? ты сам не школьник?)
+[Sat Jun 07 10:59:06 2014]  say: Padawan: нет
+[Sat Jun 07 10:59:19 2014]  say: ^2N^5ewcomer: а откуда мне знать?)
+[Sat Jun 07 10:59:39 2014]  say: Padawan: ну борода у меня
+[Sat Jun 07 11:03:13 2014]  ClientConnect: 2
+[Sat Jun 07 11:03:13 2014]  mlog:Player ^1A^0vner, connected. With IP - 89.79.162.240:29070 
+[Sat Jun 07 11:03:44 2014]  ClientBegin: 2
+[Sat Jun 07 11:04:25 2014]  Kill: 2 1 3: ^1A^0vner killed Padawan by MOD_SABER
+[Sat Jun 07 11:04:30 2014]  Kill: 1 2 3: Padawan killed ^1A^0vner by MOD_SABER
+[Sat Jun 07 11:04:42 2014]  Kill: 2 1 3: ^1A^0vner killed Padawan by MOD_SABER
+[Sat Jun 07 11:04:48 2014]  Kill: 1 2 3: Padawan killed ^1A^0vner by MOD_SABER
+[Sat Jun 07 11:05:46 2014]  say: ^2N^5ewcomer: так я твою бороду не вижу))
+[Sat Jun 07 11:05:56 2014]  say: ^2N^5ewcomer: Avner, hi / привет)
+[Sat Jun 07 11:05:59 2014]  say: ^1A^0vner: hi
+[Sat Jun 07 11:06:06 2014]  say: ^1A^0vner: im new in makermod
+[Sat Jun 07 11:06:18 2014]  Kill: 0 1 31: ^2N^5ewcomer killed Padawan by MOD_FORCE_DARK
+[Sat Jun 07 11:06:59 2014]  say: ^1A^0vner: where can i register or something?
+[Sat Jun 07 11:07:03 2014]  Kill: 2 1 3: ^1A^0vner killed Padawan by MOD_SABER
+[Sat Jun 07 11:07:05 2014]  say: Padawan: no
+[Sat Jun 07 11:07:14 2014]  say: ^2N^5ewcomer: you dont need register)
+[Sat Jun 07 11:07:16 2014]  say: ^1A^0vner: ok
+[Sat Jun 07 11:07:34 2014]  say: ^2N^5ewcomer: sorry for my english, sometimes it is bad)
+[Sat Jun 07 11:07:37 2014]  say: ^1A^0vner: some tips for beginner? xd
+[Sat Jun 07 11:07:43 2014]  say: Padawan: yes
+[Sat Jun 07 11:07:49 2014]  say: ^2N^5ewcomer: /minfo in console :)
+[Sat Jun 07 11:08:53 2014]  say: ^2N^5ewcomer: убери
+[Sat Jun 07 11:08:57 2014]  say: ^2N^5ewcomer: раздражает
+[Sat Jun 07 11:09:04 2014]  say: ^1A^0vner: mempower
+[Sat Jun 07 11:09:06 2014]  say: ^2N^5ewcomer: ага, спасибо)
+[Sat Jun 07 11:09:21 2014]  Kill: 2 1 3: ^1A^0vner killed Padawan by MOD_SABER
+[Sat Jun 07 11:09:29 2014]  Kill: 2 2 39: ^1A^0vner killed ^1A^0vner by MOD_SUICIDE
+[Sat Jun 07 11:11:15 2014]  Item: 0 ammo_all
+[Sat Jun 07 11:11:25 2014]  Kill: 1 2 3: Padawan killed ^1A^0vner by MOD_SABER
+[Sat Jun 07 11:11:43 2014]  Kill: 0 1 0: ^2N^5ewcomer killed Padawan by MOD_UNKNOWN
+[Sat Jun 07 11:11:48 2014]  say: ^2N^5ewcomer: sorry)
+[Sat Jun 07 11:12:37 2014]  Kill: 1 2 3: Padawan killed ^1A^0vner by MOD_SABER
+[Sat Jun 07 11:13:40 2014]  Kill: 1022 0 0: <world> killed ^2N^5ewcomer by MOD_UNKNOWN
+[Sat Jun 07 11:13:42 2014]  say: ^1A^0vner: what the
+[Sat Jun 07 11:14:26 2014]  say: ^2N^5ewcomer: i forgotten, that here is other bind. sorry)
+[Sat Jun 07 11:14:53 2014]  Kill: 2 1 3: ^1A^0vner killed Padawan by MOD_SABER
+[Sat Jun 07 11:15:02 2014]  Kill: 2 1 3: ^1A^0vner killed Padawan by MOD_SABER
+[Sat Jun 07 11:15:30 2014]  Kill: 2 1 3: ^1A^0vner killed Padawan by MOD_SABER
+[Sat Jun 07 11:17:01 2014]  Kill: 1 0 25: Padawan killed ^2N^5ewcomer by MOD_TRIP_MINE_SPLASH
+[Sat Jun 07 11:18:01 2014]  say: Padawan: FAK ITS BORING
+[Sat Jun 07 11:18:22 2014]  Kill: 2 2 39: ^1A^0vner killed ^1A^0vner by MOD_SUICIDE
+[Sat Jun 07 11:18:34 2014]  say: ^2N^5ewcomer: xD
+[Sat Jun 07 11:18:45 2014]  say: Padawan: слыш
+[Sat Jun 07 11:18:47 2014]  say: Padawan: ты тут
+[Sat Jun 07 11:18:51 2014]  say: ^2N^5ewcomer: да
+[Sat Jun 07 11:18:59 2014]  say: Padawan: сервер есть?
+[Sat Jun 07 11:19:10 2014]  say: ^2N^5ewcomer: нет
+[Sat Jun 07 11:19:14 2014]  say: Padawan: (((((((((((((((
+[Sat Jun 07 11:19:21 2014]  say: Padawan: а у кого есть
+[Sat Jun 07 11:19:32 2014]  say: ^2N^5ewcomer: экстра есть, но там не мейкер
+[Sat Jun 07 11:19:43 2014]  Kill: 2 2 39: ^1A^0vner killed ^1A^0vner by MOD_SUICIDE
+[Sat Jun 07 11:19:49 2014]  say: ^2N^5ewcomer: а я именно на мейкермод пришел
+[Sat Jun 07 11:19:50 2014]  say: Padawan: а кто даст
+[Sat Jun 07 11:19:54 2014]  say: Padawan: серверк
+[Sat Jun 07 11:20:09 2014]  say: ^2N^5ewcomer: в смысле? зачем?
+[Sat Jun 07 11:20:21 2014]  say: Padawan: мне мод 1 надо залить
+[Sat Jun 07 11:20:42 2014]  say: ^2N^5ewcomer: на экстре и спроси
+[Sat Jun 07 11:20:43 2014]  say: Padawan: не где протестировать
+[Sat Jun 07 11:20:45 2014]  say: ^2N^5ewcomer: extrajka.ru
+[Sat Jun 07 11:20:52 2014]  say: Padawan: там школота
+[Sat Jun 07 11:20:53 2014]  say: ^2N^5ewcomer: а на сингле?)
+[Sat Jun 07 11:20:56 2014]  say: Padawan: нет
+[Sat Jun 07 11:20:57 2014]  say: ^2N^5ewcomer: нет
+[Sat Jun 07 11:21:01 2014]  say: Padawan: на сервере
+[Sat Jun 07 11:21:24 2014]  say: ^2N^5ewcomer: школота на swjka.ru, а на extrajka.ru следят за этим).  это я про сайт говорю
+[Sat Jun 07 11:21:31 2014]  say: ^2N^5ewcomer: ну и вообще
+[Sat Jun 07 11:21:32 2014]  say: Padawan: а
+[Sat Jun 07 11:21:39 2014]  say: ^2N^5ewcomer: зайди на сайт extrajka.ru и спроси )
+[Sat Jun 07 11:21:49 2014]  say: Padawan: не я трая вилел
+[Sat Jun 07 11:21:53 2014]  say: Padawan: видел
+[Sat Jun 07 11:21:57 2014]  say: ^2N^5ewcomer: и?
+[Sat Jun 07 11:22:05 2014]  say: Padawan: он там занят
+[Sat Jun 07 11:22:26 2014]  say: ^2N^5ewcomer: да там не только трей же
+[Sat Jun 07 11:22:45 2014]  say: ^2N^5ewcomer: там много народу, вот и помогут
+[Sat Jun 07 11:23:10 2014]  say: Padawan: врядли
+[Sat Jun 07 11:23:59 2014]  say: ^2N^5ewcomer: да блин. зачем я тебя уговариваю) не хочешь - не надо
+[Sat Jun 07 11:24:19 2014]  say: Padawan: а че ты говоришь что тебе 18
+[Sat Jun 07 11:25:15 2014]  say: Padawan: anver do u played sims 3
+[Sat Jun 07 11:25:20 2014]  say: ^1A^0vner: ye
+[Sat Jun 07 11:25:24 2014]  say: ^2N^5ewcomer: эм... мне 18
+[Sat Jun 07 11:25:26 2014]  say: Padawan: its best game
+[Sat Jun 07 11:25:38 2014]  say: Padawan: понятно
+[Sat Jun 07 11:25:40 2014]  ClientDisconnect: 2
+[Sat Jun 07 11:25:51 2014]  say: Padawan: тутнечего делать
+[Sat Jun 07 11:26:08 2014]  say: Padawan: никто в эту игру не играет
+[Sat Jun 07 11:26:23 2014]  say: ^2N^5ewcomer: на мейкере всегда мало народу
+[Sat Jun 07 11:26:25 2014]  say: ^2N^5ewcomer: сколько я тут
+[Sat Jun 07 11:26:30 2014]  say: Padawan: везде
+[Sat Jun 07 11:26:32 2014]  say: ^2N^5ewcomer: ну почти
+[Sat Jun 07 11:26:47 2014]  say: ^2N^5ewcomer: иллюминаты уничтожили академию, так это называется
+[Sat Jun 07 11:27:02 2014]  say: Padawan: илюминаты это школьники
+[Sat Jun 07 11:27:05 2014]  say: ^2N^5ewcomer: да
+[Sat Jun 07 11:27:15 2014]  say: Padawan: школьники-жиды?
+[Sat Jun 07 11:27:18 2014]  say: ^2N^5ewcomer: тупо заддосили кучу серверов, вот популярность и упала
+[Sat Jun 07 11:27:36 2014]  say: ^2N^5ewcomer: видимо да
+[Sat Jun 07 11:28:06 2014]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Jun 07 11:28:13 2014]  say: Padawan: видел жидов в реале?
+[Sat Jun 07 11:28:21 2014]  say: ^2N^5ewcomer: не особо)
+[Sat Jun 07 11:28:32 2014]  say: Padawan: так они везде
+[Sat Jun 07 11:28:39 2014]  say: Padawan: знаешь украину
+[Sat Jun 07 11:28:41 2014]  say: ^2N^5ewcomer: ну значит, видел
+[Sat Jun 07 11:28:53 2014]  say: ^2N^5ewcomer: а, понял. да, видел точно. ну не совсем в реале
+[Sat Jun 07 11:28:59 2014]  say: Padawan: там все  6 кандидатов в президенты
+[Sat Jun 07 11:29:03 2014]  say: Padawan: это жиды
+[Sat Jun 07 11:29:29 2014]  say: Padawan: даже какой-то рабе в кандидаты пошел
+[Sat Jun 07 11:29:40 2014]  say: ^2N^5ewcomer: разве их всего 6?
+[Sat Jun 07 11:29:45 2014]  say: Padawan: нет
+[Sat Jun 07 11:29:48 2014]  say: Padawan: 6 главных
+[Sat Jun 07 11:29:54 2014]  say: Padawan: или 7
+[Sat Jun 07 11:29:55 2014]  say: ^2N^5ewcomer: а, ну главные-то да
+[Sat Jun 07 11:30:12 2014]  say: Padawan: а жиды
+[Sat Jun 07 11:30:17 2014]  say: Padawan: россию разокрали
+[Sat Jun 07 11:30:35 2014]  say: Padawan: и щас увеличивают враждебность
+[Sat Jun 07 11:30:40 2014]  say: Padawan: между украиной и россией
+[Sat Jun 07 11:30:56 2014]  say: ^2N^5ewcomer: а америка?
+[Sat Jun 07 11:30:59 2014]  say: Padawan: чтоб больше денег заработать
+[Sat Jun 07 11:31:03 2014]  say: Padawan: в америке
+[Sat Jun 07 11:31:06 2014]  say: Padawan: там 
+[Sat Jun 07 11:31:11 2014]  say: Padawan: одни жиды-милионеры
+[Sat Jun 07 11:31:16 2014]  say: ^2N^5ewcomer: ага. ясно
+[Sat Jun 07 11:31:16 2014]  say: Padawan: они спонсируют все
+[Sat Jun 07 11:31:25 2014]  say: Padawan: рокфеллер
+[Sat Jun 07 11:31:27 2014]  say: Padawan: сорес
+[Sat Jun 07 11:31:31 2014]  say: Padawan: и прочие
+[Sat Jun 07 11:31:55 2014]  say: Padawan: учил историю про коммунизм?
+[Sat Jun 07 11:31:58 2014]  say: ^2N^5ewcomer: ага
+[Sat Jun 07 11:32:05 2014]  say: Padawan: и че там говорят
+[Sat Jun 07 11:33:46 2014]  say: ^2N^5ewcomer: в смысле?.. смотря про что
+[Sat Jun 07 11:33:53 2014]  say: Padawan: про николая 2
+[Sat Jun 07 11:34:15 2014]  say: ^2N^5ewcomer: на медведева похож)
+[Sat Jun 07 11:34:26 2014]  say: Padawan: медведев жид 
+[Sat Jun 07 11:34:51 2014]  say: Padawan: николая 2 убили же
+[Sat Jun 07 11:34:59 2014]  say: Padawan: хотя не должны были
+[Sat Jun 07 11:35:02 2014]  say: Padawan: как бы
+[Sat Jun 07 11:35:44 2014]  say: ^2N^5ewcomer: по идее, да. он же, вроде, отказался?..
+[Sat Jun 07 11:36:03 2014]  say: ^2N^5ewcomer: от престола
+[Sat Jun 07 11:36:11 2014]  say: ^2N^5ewcomer: или как это называется
+[Sat Jun 07 11:36:18 2014]  say: Padawan: да
+[Sat Jun 07 11:36:26 2014]  say: Padawan: дело в том что
+[Sat Jun 07 11:36:43 2014]  say: Padawan: ленин был жидом
+[Sat Jun 07 11:36:49 2014]  say: Padawan: но не он скомандовал
+[Sat Jun 07 11:36:53 2014]  say: Padawan: а троцкий
+[Sat Jun 07 11:37:02 2014]  Kill: 1022 0 39: <world> killed ^2N^5ewcomer by MOD_SUICIDE
+[Sat Jun 07 11:37:08 2014]  say: Padawan: ленин был полу-жидом и полу-немцем
+[Sat Jun 07 11:37:26 2014]  say: Padawan: а троцкий так полным
+[Sat Jun 07 11:37:56 2014]  say: Padawan: так вот они всех русских вырезали
+[Sat Jun 07 11:38:05 2014]  say: ^2N^5ewcomer: o_O
+[Sat Jun 07 11:38:15 2014]  say: Padawan: интелигенцию в основном
+[Sat Jun 07 11:38:48 2014]  say: Padawan: а вот почему наполеон
+[Sat Jun 07 11:38:52 2014]  say: Padawan: напал на россию
+[Sat Jun 07 11:39:02 2014]  Exit: Timelimit hit.
+[Sat Jun 07 11:39:02 2014]  score: 8  ping: 102  client: 0 ^2N^5ewcomer
+[Sat Jun 07 11:39:02 2014]  score: 7  ping: 70  client: 1 Padawan
+[Sat Jun 07 11:39:06 2014]  say: Padawan: жиды очень не любят русских
+[Sat Jun 07 11:39:18 2014]  ShutdownGame:
+[Sat Jun 07 11:39:18 2014]  ------------------------------------------------------------
+[Sat Jun 07 11:39:18 2014]  ------------------------------------------------------------
+[Sat Jun 07 11:39:18 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Jun 07 11:39:19 2014]  ClientConnect: 0
+[Sat Jun 07 11:39:19 2014]  ClientConnect: 1
+[Sat Jun 07 11:39:34 2014]  ClientBegin: 1
+[Sat Jun 07 11:40:41 2014]  ClientBegin: 0
+[Sat Jun 07 11:42:26 2014]  say: Padawan: так что думаешь что коммунизм это хорошо?
+[Sat Jun 07 11:42:46 2014]  say: ^2N^5ewcomer: смотря что понимать под понятием коммунизм)
+[Sat Jun 07 11:42:51 2014]  say: ^2N^5ewcomer: тебе сколько лет?)
+[Sat Jun 07 11:42:57 2014]  say: Padawan: 17
+[Sat Jun 07 11:43:15 2014]  say: ^2N^5ewcomer: xD
+[Sat Jun 07 11:43:22 2014]  say: Padawan: )))))))))))))))
+[Sat Jun 07 11:43:44 2014]  say: Padawan: ну так че
+[Sat Jun 07 11:43:52 2014]  say: ^2N^5ewcomer: вот смотри) у тебя дедушки-бабушки участвовали в строительстве коммунизма.. что ты думаешь по этому поводу?)
+[Sat Jun 07 11:43:55 2014]  say: ^2N^5ewcomer: участвовали же?)
+[Sat Jun 07 11:44:01 2014]  say: Padawan: да
+[Sat Jun 07 11:44:03 2014]  say: Padawan: смотри
+[Sat Jun 07 11:44:11 2014]  say: Padawan: вторая мировая война да?
+[Sat Jun 07 11:44:18 2014]  say: Padawan: кто ее спонсировал
+[Sat Jun 07 11:44:23 2014]  say: Padawan: сша ведь
+[Sat Jun 07 11:44:27 2014]  say: Padawan: форд
+[Sat Jun 07 11:44:30 2014]  say: Padawan: и много
+[Sat Jun 07 11:44:36 2014]  say: Padawan: разных нефтевых магнатов
+[Sat Jun 07 11:44:43 2014]  say: Padawan: и кто это ж
+[Sat Jun 07 11:44:46 2014]  say: Padawan: иды
+[Sat Jun 07 11:45:02 2014]  say: Padawan: сталин жидом не был
+[Sat Jun 07 11:45:11 2014]  say: Padawan: сталин всех жидов в 1933 уничтожил
+[Sat Jun 07 11:45:12 2014]  say: ^2N^5ewcomer: правильно) он был грузином
+[Sat Jun 07 11:45:21 2014]  say: Padawan: за это его все жиды терь ненавидят
+[Sat Jun 07 11:45:31 2014]  say: Padawan: дело в том что план
+[Sat Jun 07 11:45:34 2014]  say: Padawan: был таков
+[Sat Jun 07 11:45:41 2014]  say: Padawan: уничтожать всех бедных жидов
+[Sat Jun 07 11:45:46 2014]  say: Padawan: а элиту оставить
+[Sat Jun 07 11:45:50 2014]  say: Padawan: во вторую мировую
+[Sat Jun 07 11:46:14 2014]  say: Padawan: чтобы закрыть все преступления жидов
+[Sat Jun 07 11:46:37 2014]  say: Padawan: вообще сложно
+[Sat Jun 07 11:46:41 2014]  say: Padawan: так рассказать
+[Sat Jun 07 11:46:45 2014]  say: Padawan: за пару слов
+[Sat Jun 07 11:46:55 2014]  say: Padawan: но то что
+[Sat Jun 07 11:47:02 2014]  say: Padawan: жиды в рейхе служили
+[Sat Jun 07 11:47:06 2014]  say: Padawan: и кресты имели
+[Sat Jun 07 11:47:08 2014]  say: Padawan: это факт
+[Sat Jun 07 11:47:54 2014]  Kill: 1022 0 29: <world> killed ^2N^5ewcomer by MOD_CONC
+[Sat Jun 07 11:48:09 2014]  say: ^2N^5ewcomer: жиды за нацизм?_ уверен?))
+[Sat Jun 07 11:48:21 2014]  say: Padawan: нет
+[Sat Jun 07 11:48:24 2014]  say: Padawan: они служили ведь
+[Sat Jun 07 11:48:35 2014]  say: Padawan: щас они не за нацизм
+[Sat Jun 07 11:48:41 2014]  say: Padawan: им ведь это не выгодно
+[Sat Jun 07 11:48:53 2014]  say: Padawan: капкан сработал теперь нацисты плохие
+[Sat Jun 07 11:49:05 2014]  say: Padawan: потому что еврейское население убивали
+[Sat Jun 07 11:50:45 2014]  say: ^2N^5ewcomer: что, и пруфы всему этому есть?)
+[Sat Jun 07 11:50:53 2014]  say: Padawan: много пруфов
+[Sat Jun 07 11:50:57 2014]  say: Padawan: но реально
+[Sat Jun 07 11:51:02 2014]  say: Padawan: они по разных источникам
+[Sat Jun 07 11:51:05 2014]  say: Padawan: и их надо искать
+[Sat Jun 07 11:51:23 2014]  say: Padawan: нету единого сайта
+[Sat Jun 07 11:51:25 2014]  say: Padawan: о жидах
+[Sat Jun 07 11:51:31 2014]  say: Padawan: потому что они
+[Sat Jun 07 11:51:36 2014]  say: Padawan: разбиваются в группы
+[Sat Jun 07 11:51:40 2014]  say: ^2N^5ewcomer: их дофига) но на всех по-разному
+[Sat Jun 07 11:51:44 2014]  say: Padawan: и говорят мол антисимит
+[Sat Jun 07 11:51:52 2014]  say: Padawan: или гой
+[Sat Jun 07 11:51:58 2014]  say: Padawan: знаешь что такое гой?
+[Sat Jun 07 11:52:03 2014]  say: ^2N^5ewcomer: примерно
+[Sat Jun 07 11:52:07 2014]  say: Padawan: и что
+[Sat Jun 07 11:52:23 2014]  say: ^2N^5ewcomer: а ты знаешь начальное значение этого слова?)
+[Sat Jun 07 11:52:29 2014]  say: ^2N^5ewcomer: ох ты гой еси и т.п.
+[Sat Jun 07 11:52:34 2014]  say: ^2N^5ewcomer: изГОЙ
+[Sat Jun 07 11:52:37 2014]  say: Padawan: да
+[Sat Jun 07 11:52:38 2014]  say: ^2N^5ewcomer: и так далее
+[Sat Jun 07 11:52:50 2014]  say: ^2N^5ewcomer: ладно, не грузи)) у меня информатика егэ в понедельник
+[Sat Jun 07 11:53:01 2014]  say: Padawan: че там по информатие
+[Sat Jun 07 11:53:03 2014]  say: Padawan: ке
+[Sat Jun 07 11:53:05 2014]  say: Padawan: все легко
+[Sat Jun 07 11:53:11 2014]  say: Padawan: а гой этой
+[Sat Jun 07 11:53:13 2014]  say: Padawan: животное
+[Sat Jun 07 11:53:16 2014]  say: ^2N^5ewcomer: ага. легко. на 100 баллов
+[Sat Jun 07 11:53:16 2014]  say: Padawan: на еврейском
+[Sat Jun 07 11:53:19 2014]  say: ^2N^5ewcomer: ясно
+[Sat Jun 07 11:53:28 2014]  say: ^2N^5ewcomer: ты на 100 баллов информатику егэ сдать можешь?
+[Sat Jun 07 11:53:35 2014]  say: Padawan: жиды всех русских животными считают
+[Sat Jun 07 11:53:43 2014]  say: Padawan: я хз какие там вопросы
+[Sat Jun 07 11:53:58 2014]  say: ^2N^5ewcomer: ну и прекрасно. тебе есть разница, кем тебя считает животное?..
+[Sat Jun 07 11:54:04 2014]  say: ^2N^5ewcomer: мне - нет
+[Sat Jun 07 11:54:10 2014]  say: ^2N^5ewcomer: поэтому давай уже закроем тему
+[Sat Jun 07 11:54:20 2014]  say: Padawan: че за вопросы там
+[Sat Jun 07 11:54:30 2014]  say: ^2N^5ewcomer: напишите ппрограмму, которая будет...
+[Sat Jun 07 11:54:37 2014]  say: ^2N^5ewcomer: reshuege.ru зайди и посмотри)
+[Sat Jun 07 11:54:49 2014]  say: Padawan: нах программы писать
+[Sat Jun 07 11:55:02 2014]  say: ^2N^5ewcomer: задание это
+[Sat Jun 07 11:55:05 2014]  say: ^2N^5ewcomer: С4
+[Sat Jun 07 11:55:22 2014]  say: Padawan: итак график обучения очень плотный а они еще программированием нагружают?
+[Sat Jun 07 11:55:27 2014]  say: ^2N^5ewcomer: да
+[Sat Jun 07 11:55:42 2014]  say: Padawan: вообще там никто за наукой не следит
+[Sat Jun 07 11:55:50 2014]  say: Padawan: все взятки принимают
+[Sat Jun 07 11:56:02 2014]  say: ^2N^5ewcomer: там камеры
+[Sat Jun 07 11:56:09 2014]  say: ^2N^5ewcomer: сможешь дать взятку камере?э
+[Sat Jun 07 11:56:14 2014]  say: Padawan: взятки
+[Sat Jun 07 11:56:19 2014]  say: Padawan: депутатам
+[Sat Jun 07 11:56:23 2014]  say: ^2N^5ewcomer: а, понял
+[Sat Jun 07 11:56:25 2014]  say: Padawan: которые законы принимают
+[Sat Jun 07 11:56:37 2014]  say: ^2N^5ewcomer: го на Newcomer's Makermod Server)
+[Sat Jun 07 11:56:43 2014]  say: Padawan: где
+[Sat Jun 07 11:56:56 2014]  say: ^2N^5ewcomer: не знаю. в списке ищи)
+[Sat Jun 07 11:57:03 2014]  say: ^2N^5ewcomer: ip у меня нет
+[Sat Jun 07 11:57:07 2014]  say: ^2N^5ewcomer: т.е. не знаю его
+[Sat Jun 07 11:57:10 2014]  say: Padawan: ок
+[Sat Jun 07 11:57:14 2014]  ClientDisconnect: 1
+[Sat Jun 07 11:57:21 2014]  ClientDisconnect: 0
+[Sat Jun 07 13:39:17 2014]  Exit: Timelimit hit.
+[Sat Jun 07 16:23:48 2014]  ClientConnect: 0
+[Sat Jun 07 16:23:48 2014]  mlog:Player ^0РаrkQµаkи, connected. With IP - 192.168.1.3:29071 
+[Sat Jun 07 16:24:12 2014]  ClientBegin: 0
+[Sat Jun 07 16:24:20 2014]  ShutdownGame:
+[Sat Jun 07 16:24:20 2014]  ------------------------------------------------------------
+[Sat Jun 07 16:24:21 2014]  ------------------------------------------------------------
+[Sat Jun 07 16:24:21 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Jun 07 16:24:23 2014]  ClientConnect: 0
+[Sat Jun 07 16:24:43 2014]  ClientBegin: 0
+[Sat Jun 07 16:30:01 2014]  ClientConnect: 1
+[Sat Jun 07 16:30:01 2014]  mlog:Player Padawan, connected. With IP - 188.18.81.175:29070 
+[Sat Jun 07 16:30:21 2014]  ClientBegin: 1
+[Sat Jun 07 16:30:49 2014]  say: Padawan: hi
+[Sat Jun 07 16:34:59 2014]  ClientConnect: 2
+[Sat Jun 07 16:34:59 2014]  mlog:Player veyron45, connected. With IP - 91.230.25.125:29070 
+[Sat Jun 07 16:35:28 2014]  ClientBegin: 2
+[Sat Jun 07 16:35:51 2014]  say: Padawan: klllllllllllllllllllllllllllllllllllllll
+[Sat Jun 07 16:35:55 2014]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Jun 07 16:35:55 2014]  setteam:  2 FREE SPECTATOR
+[Sat Jun 07 16:35:55 2014]  ClientBegin: 2
+[Sat Jun 07 16:36:02 2014]  setteam:  2 SPECTATOR FREE
+[Sat Jun 07 16:36:02 2014]  ClientBegin: 2
+[Sat Jun 07 16:36:47 2014]  say: Padawan: bneigwiae
+[Sat Jun 07 16:36:49 2014]  Kill: 1022 2 0: <world> killed Padawan by MOD_UNKNOWN
+[Sat Jun 07 16:36:59 2014]  Kill: 2 0 10: Padawan killed ^0РаrkQµаkи by MOD_DISRUPTOR_SNIPER
+[Sat Jun 07 16:38:00 2014]  say: Padawan: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[Sat Jun 07 16:39:26 2014]  Kill: 2 0 27: Padawan killed ^0РаrkQµаkи by MOD_DET_PACK_SPLASH
+[Sat Jun 07 16:39:28 2014]  say: Padawan: kto rus
+[Sat Jun 07 16:40:07 2014]  Kill: 2 2 27: Padawan killed Padawan by MOD_DET_PACK_SPLASH
+[Sat Jun 07 16:40:15 2014]  Item: 2 weapon_det_pack
+[Sat Jun 07 16:40:43 2014]  Kill: 1 2 6: Padawan killed Padawan by MOD_BLASTER
+[Sat Jun 07 16:41:47 2014]  Kill: 2 0 20: Padawan killed ^0РаrkQµаkи by MOD_ROCKET_SPLASH
+[Sat Jun 07 16:42:44 2014]  Kill: 2 2 20: Padawan killed Padawan by MOD_ROCKET_SPLASH
+[Sat Jun 07 16:42:56 2014]  say: Padawan: dkraaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[Sat Jun 07 16:43:38 2014]  say: Padawan: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[Sat Jun 07 16:44:14 2014]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Jun 07 16:44:57 2014]  Kill: 2 0 3: Padawan killed ^0РаrkQµаkи by MOD_SABER
+[Sat Jun 07 16:46:05 2014]  Kill: 1022 2 36: <world> killed Padawan by MOD_CRUSH
+[Sat Jun 07 16:46:27 2014]  say: Padawan: oeuwee
+[Sat Jun 07 16:47:27 2014]  Kill: 1022 0 2: <world> killed ^0РаrkQµаkи by MOD_MELEE
+[Sat Jun 07 16:48:44 2014]  Kill: 1022 0 2: <world> killed ^0РаrkQµаkи by MOD_MELEE
+[Sat Jun 07 16:50:14 2014]  Kill: 2 0 20: Padawan killed ^0РаrkQµаkи by MOD_ROCKET_SPLASH
+[Sat Jun 07 16:51:16 2014]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Jun 07 16:51:16 2014]  setteam:  2 FREE SPECTATOR
+[Sat Jun 07 16:51:16 2014]  ClientBegin: 2
+[Sat Jun 07 16:51:21 2014]  setteam:  2 SPECTATOR FREE
+[Sat Jun 07 16:51:21 2014]  ClientBegin: 2
+[Sat Jun 07 16:51:46 2014]  Kill: 2 2 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Jun 07 16:51:46 2014]  setteam:  2 FREE SPECTATOR
+[Sat Jun 07 16:51:46 2014]  ClientBegin: 2
+[Sat Jun 07 16:51:54 2014]  say: Padawan: SUKA
+[Sat Jun 07 16:51:59 2014]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Jun 07 16:52:26 2014]  say: Padawan: VIDEL TVOJI KARTI GAVNO TVOJU FOTKU VIDEL SUKA
+[Sat Jun 07 16:52:43 2014]  setteam:  2 SPECTATOR FREE
+[Sat Jun 07 16:52:43 2014]  ClientBegin: 2
+[Sat Jun 07 16:52:49 2014]  Kill: 2 0 3: Padawan killed ^0РаrkQµаkи by MOD_SABER
+[Sat Jun 07 16:52:57 2014]  print "Padawan^7 @@@PLRENAME darkanus
+"[Sat Jun 07 16:53:03 2014]  print "darkanus^7 @@@PLRENAME ^0darkanus
+"[Sat Jun 07 16:53:25 2014]  Kill: 1 2 36: Padawan killed ^0darkanus by MOD_CRUSH
+[Sat Jun 07 16:53:39 2014]  say: ^0darkanus: V LUGORMODE TU SUKA SASESH
+[Sat Jun 07 16:53:52 2014]  say: Padawan: AZAZAZAZAH
+[Sat Jun 07 16:54:07 2014]  Kill: 2 2 36: ^0darkanus killed ^0darkanus by MOD_CRUSH
+[Sat Jun 07 16:54:11 2014]  say: Padawan: ZLOY SHKAL'NIK
+[Sat Jun 07 16:54:12 2014]  Kill: 2 2 36: ^0darkanus killed ^0darkanus by MOD_CRUSH
+[Sat Jun 07 16:54:29 2014]  say: ^0darkanus: KAKOI YA ZLOI NAH
+[Sat Jun 07 16:54:45 2014]  say: Padawan: A, NY SORI
+[Sat Jun 07 16:54:48 2014]  say: ^0darkanus: MNE PROSTO 8 LET I U MENYA CHLEN BOLSHE CHEM U TEBYA
+[Sat Jun 07 16:55:05 2014]  say: Padawan: AZZAZAZ
+[Sat Jun 07 16:55:11 2014]  Kill: 2 2 36: ^0darkanus killed ^0darkanus by MOD_CRUSH
+[Sat Jun 07 16:55:27 2014]  Kill: 2 2 36: ^0darkanus killed ^0darkanus by MOD_CRUSH
+[Sat Jun 07 16:56:12 2014]  say: ^0darkanus: BLYA SOSIC_XX EBANIY
+[Sat Jun 07 16:56:27 2014]  Kill: 2 2 39: ^0darkanus killed ^0darkanus by MOD_SUICIDE
+[Sat Jun 07 16:56:27 2014]  setteam:  2 FREE SPECTATOR
+[Sat Jun 07 16:56:27 2014]  ClientBegin: 2
+[Sat Jun 07 16:56:34 2014]  setteam:  2 SPECTATOR FREE
+[Sat Jun 07 16:56:34 2014]  ClientBegin: 2
+[Sat Jun 07 16:56:41 2014]  print "^0darkanus^7 @@@PLRENAME ^4Sosic_xx
+"[Sat Jun 07 16:58:40 2014]  Kill: 2 2 39: ^4Sosic_xx killed ^4Sosic_xx by MOD_SUICIDE
+[Sat Jun 07 16:58:40 2014]  setteam:  2 FREE SPECTATOR
+[Sat Jun 07 16:58:40 2014]  ClientBegin: 2
+[Sat Jun 07 16:58:48 2014]  setteam:  2 SPECTATOR FREE
+[Sat Jun 07 16:58:48 2014]  ClientBegin: 2
+[Sat Jun 07 17:02:42 2014]  ClientDisconnect: 1
+[Sat Jun 07 17:03:48 2014]  ClientDisconnect: 2
+[Sat Jun 07 17:14:58 2014]  ClientDisconnect: 0
+[Sat Jun 07 18:24:20 2014]  Exit: Timelimit hit.
+[Sat Jun 07 21:18:38 2014]  ClientConnect: 0
+[Sat Jun 07 21:18:38 2014]  mlog:Player ^4Ony^5sfx, connected. With IP - 70.26.2.87:29070 
+[Sat Jun 07 21:19:13 2014]  ClientBegin: 0
+[Sat Jun 07 21:19:17 2014]  ShutdownGame:
+[Sat Jun 07 21:19:17 2014]  ------------------------------------------------------------
+[Sat Jun 07 21:19:18 2014]  ------------------------------------------------------------
+[Sat Jun 07 21:19:18 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Jun 07 21:19:19 2014]  ClientConnect: 0
+[Sat Jun 07 21:19:33 2014]  ClientBegin: 0
+[Sat Jun 07 21:22:59 2014]  ClientConnect: 1
+[Sat Jun 07 21:22:59 2014]  mlog:Player Padawan, connected. With IP - 179.52.19.30:29070 
+[Sat Jun 07 21:23:26 2014]  ClientBegin: 1
+[Sat Jun 07 21:23:29 2014]  say: ^4Ony^5sfx: hi
+[Sat Jun 07 21:23:34 2014]  say: Padawan: hlo
+[Sat Jun 07 21:23:54 2014]  say: ^4Ony^5sfx: your name first lol
+[Sat Jun 07 21:23:58 2014]  say: Padawan: i must rebind everything
+[Sat Jun 07 21:24:05 2014]  say: ^4Ony^5sfx: ok
+[Sat Jun 07 21:24:09 2014]  say: ^4Ony^5sfx: I'll go get it set up
+[Sat Jun 07 21:24:14 2014]  say: Padawan: kk
+[Sat Jun 07 21:25:29 2014]  print "Padawan^7 @@@PLRENAME ^7Z^0Ј^7®^0Ш
+"[Sat Jun 07 21:25:31 2014]  say: ^7Z^0Ј^7®^0Ш: hmm
+[Sat Jun 07 21:25:34 2014]  say: ^7Z^0Ј^7®^0Ш: yep
+[Sat Jun 07 21:26:01 2014]  Kill: 1 1 39: ^7Z^0Ј^7®^0Ш killed ^7Z^0Ј^7®^0Ш by MOD_SUICIDE
+[Sat Jun 07 21:26:01 2014]  setteam:  1 FREE SPECTATOR
+[Sat Jun 07 21:26:01 2014]  ClientBegin: 1
+[Sat Jun 07 21:26:22 2014]  setteam:  1 SPECTATOR FREE
+[Sat Jun 07 21:26:22 2014]  ClientBegin: 1
+[Sat Jun 07 21:26:55 2014]  say: ^7Z^0Ј^7®^0Ш: what the hell
+[Sat Jun 07 21:26:57 2014]  say: ^7Z^0Ј^7®^0Ш: is this
+[Sat Jun 07 21:26:57 2014]  say: ^7Z^0Ј^7®^0Ш: lmao
+[Sat Jun 07 21:26:58 2014]  say: ^4Ony^5sfx: hold on
+[Sat Jun 07 21:27:03 2014]  say: ^4Ony^5sfx: let me finish
+[Sat Jun 07 21:27:11 2014]  say: ^7Z^0Ј^7®^0Ш: not you
+[Sat Jun 07 21:27:12 2014]  say: ^7Z^0Ј^7®^0Ш: but..
+[Sat Jun 07 21:27:13 2014]  say: ^7Z^0Ј^7®^0Ш: this map xD
+[Sat Jun 07 21:27:15 2014]  say: ^4Ony^5sfx: oh lol
+[Sat Jun 07 21:27:18 2014]  say: ^4Ony^5sfx: My origin is: (4748 -2600 -76) - You can teleport here with /mtelelast
+
+[Sat Jun 07 21:27:26 2014]  say: ^4Ony^5sfx: alright
+[Sat Jun 07 21:27:28 2014]  say: ^4Ony^5sfx: now wait here
+[Sat Jun 07 21:27:37 2014]  say: ^4Ony^5sfx: come down
+[Sat Jun 07 21:27:47 2014]  say: ^7Z^0Ј^7®^0Ш: oh
+[Sat Jun 07 21:27:48 2014]  say: ^7Z^0Ј^7®^0Ш: the tram
+[Sat Jun 07 21:27:53 2014]  say: ^4Ony^5sfx: wait youve seen this one?
+[Sat Jun 07 21:28:04 2014]  say: ^4Ony^5sfx: you've seen it?
+[Sat Jun 07 21:28:05 2014]  say: ^7Z^0Ј^7®^0Ш: most of it yes.
+[Sat Jun 07 21:28:10 2014]  say: ^4Ony^5sfx: oh
+[Sat Jun 07 21:28:15 2014]  say: ^4Ony^5sfx: I can't load the city unfortunately
+[Sat Jun 07 21:28:19 2014]  say: ^4Ony^5sfx: this map is just too small
+[Sat Jun 07 21:28:21 2014]  say: ^7Z^0Ј^7®^0Ш: i know
+[Sat Jun 07 21:28:30 2014]  say: ^4Ony^5sfx: uh....maybe I built this longer ago than I thought...
+[Sat Jun 07 21:28:36 2014]  say: ^4Ony^5sfx: I have more recent stuff
+[Sat Jun 07 21:28:40 2014]  say: ^4Ony^5sfx: hmm...ok
+[Sat Jun 07 21:28:48 2014]  say: ^7Z^0Ј^7®^0Ш: i was building a base script for t2_trip
+[Sat Jun 07 21:28:54 2014]  say: ^7Z^0Ј^7®^0Ш: but since makermod was down
+[Sat Jun 07 21:28:55 2014]  say: ^7Z^0Ј^7®^0Ш: meh
+[Sat Jun 07 21:28:58 2014]  say: ^4Ony^5sfx: ya lol
+[Sat Jun 07 21:29:03 2014]  say: ^7Z^0Ј^7®^0Ш: i just scrapped everything
+[Sat Jun 07 21:29:24 2014]  say: ^7Z^0Ј^7®^0Ш: hmm
+[Sat Jun 07 21:29:31 2014]  say: ^7Z^0Ј^7®^0Ш: i would not mind making scripts again.
+[Sat Jun 07 21:29:39 2014]  say: ^4Ony^5sfx: scipts are bettter
+[Sat Jun 07 21:29:44 2014]  say: ^4Ony^5sfx: servers go down :(
+[Sat Jun 07 21:29:47 2014]  say: ^4Ony^5sfx: and everything is lost
+[Sat Jun 07 21:29:51 2014]  say: ^4Ony^5sfx: why isn't there client side saving?
+[Sat Jun 07 21:29:53 2014]  say: ^4Ony^5sfx: like wtf
+[Sat Jun 07 21:30:01 2014]  say: ^7Z^0Ј^7®^0Ш: because it would be abused.
+[Sat Jun 07 21:30:14 2014]  say: ^7Z^0Ј^7®^0Ш: i could rename my stuff
+[Sat Jun 07 21:30:15 2014]  say: ^7Z^0Ј^7®^0Ш: with ...
+[Sat Jun 07 21:30:21 2014]  say: ^7Z^0Ј^7®^0Ш: 400TB size file
+[Sat Jun 07 21:30:22 2014]  say: ^7Z^0Ј^7®^0Ш: and..
+[Sat Jun 07 21:30:23 2014]  say: ^7Z^0Ј^7®^0Ш: LOL!
+[Sat Jun 07 21:30:35 2014]  say: ^4Ony^5sfx: and DDOS the server...
+[Sat Jun 07 21:30:39 2014]  say: ^4Ony^5sfx: ok I get it
+[Sat Jun 07 21:30:51 2014]  say: ^7Z^0Ј^7®^0Ш: DDoS is not the only thing
+[Sat Jun 07 21:30:58 2014]  say: ^7Z^0Ј^7®^0Ш: but even kill the host PC
+[Sat Jun 07 21:31:20 2014]  say: ^4Ony^5sfx: sec it's not letting me spawn my stuff
+[Sat Jun 07 21:31:30 2014]  say: ^7Z^0Ј^7®^0Ш: if you are in the front of the map
+[Sat Jun 07 21:31:32 2014]  say: ^7Z^0Ј^7®^0Ш: won't let you
+[Sat Jun 07 21:31:47 2014]  say: ^7Z^0Ј^7®^0Ш: is cheat protected
+[Sat Jun 07 21:31:57 2014]  say: ^4Ony^5sfx: oh thats why!
+[Sat Jun 07 21:31:59 2014]  say: ^4Ony^5sfx: I had /mgrabbing on
+[Sat Jun 07 21:32:01 2014]  say: ^4Ony^5sfx: lol
+[Sat Jun 07 21:32:03 2014]  say: ^7Z^0Ј^7®^0Ш: xd
+[Sat Jun 07 21:32:21 2014]  say: ^7Z^0Ј^7®^0Ш: you have makermodule and stuff
+[Sat Jun 07 21:32:23 2014]  say: ^7Z^0Ј^7®^0Ш: right ?
+[Sat Jun 07 21:32:24 2014]  say: ^4Ony^5sfx: yep
+[Sat Jun 07 21:32:30 2014]  say: ^4Ony^5sfx: I haven't used the ontimer in any of my scripts yet
+[Sat Jun 07 21:32:33 2014]  say: ^4Ony^5sfx: I will in my next one
+[Sat Jun 07 21:32:49 2014]  say: ^7Z^0Ј^7®^0Ш: you can move, and is quite easy to use with the ontimer converter of george.
+[Sat Jun 07 21:33:03 2014]  say: ^4Ony^5sfx: ya I've already tried that
+[Sat Jun 07 21:33:06 2014]  say: ^4Ony^5sfx: it's a bit buggy xD
+[Sat Jun 07 21:33:12 2014]  say: ^4Ony^5sfx: plus most of my scripts
+[Sat Jun 07 21:33:13 2014]  say: ^4Ony^5sfx: are in a pk3
+[Sat Jun 07 21:33:17 2014]  say: ^4Ony^5sfx: and I'm too lazy
+[Sat Jun 07 21:33:19 2014]  say: ^4Ony^5sfx: to take the out
+[Sat Jun 07 21:33:21 2014]  say: ^4Ony^5sfx: them**
+[Sat Jun 07 21:33:27 2014]  say: ^7Z^0Ј^7®^0Ш: ^2(^3UU^2)^7: ^2lol
+[Sat Jun 07 21:33:30 2014]  say: ^7Z^0Ј^7®^0Ш: ^2(^3UU^2)^7: ^2stop being lazy
+[Sat Jun 07 21:33:32 2014]  say: ^4Ony^5sfx: My origin is: (4694 -3383 -22) - You can teleport here with /mtelelast
+
+[Sat Jun 07 21:33:34 2014]  say: ^4Ony^5sfx: come
+[Sat Jun 07 21:33:40 2014]  say: ^4Ony^5sfx: I'm gonna eat
+[Sat Jun 07 21:33:43 2014]  say: ^4Ony^5sfx: so I'll just show you this
+[Sat Jun 07 21:33:48 2014]  say: ^4Ony^5sfx: this is my WIP hotel
+[Sat Jun 07 21:33:53 2014]  say: ^4Ony^5sfx: not meant to be viewable form the outside
+[Sat Jun 07 21:33:57 2014]  say: ^4Ony^5sfx: and these walls
+[Sat Jun 07 21:34:00 2014]  say: ^4Ony^5sfx: should be remapped
+[Sat Jun 07 21:34:06 2014]  say: ^4Ony^5sfx: dont noclip...
+[Sat Jun 07 21:34:09 2014]  say: ^4Ony^5sfx: I hate when people do that :(
+[Sat Jun 07 21:34:13 2014]  say: ^7Z^0Ј^7®^0Ш: oh
+[Sat Jun 07 21:34:14 2014]  say: ^4Ony^5sfx: ok watch
+[Sat Jun 07 21:34:30 2014]  say: ^4Ony^5sfx: I haven't yet built a switch over here
+[Sat Jun 07 21:34:39 2014]  say: ^7Z^0Ј^7®^0Ш: you should try putting that sound here
+[Sat Jun 07 21:34:47 2014]  say: ^7Z^0Ј^7®^0Ш: can be done with an effect.
+[Sat Jun 07 21:34:56 2014]  say: ^4Ony^5sfx: anyway
+[Sat Jun 07 21:35:01 2014]  say: ^4Ony^5sfx: I gotta go eat
+[Sat Jun 07 21:35:06 2014]  say: ^7Z^0Ј^7®^0Ш: okay.
+[Sat Jun 07 21:35:12 2014]  say: ^4Ony^5sfx: sorry I couldn't show you more :(
+[Sat Jun 07 21:35:16 2014]  say: ^7Z^0Ј^7®^0Ш: meh
+[Sat Jun 07 21:35:18 2014]  say: ^7Z^0Ј^7®^0Ш: not matter.
+[Sat Jun 07 21:35:19 2014]  say: ^4Ony^5sfx: and this map sucks for makermod anyway
+[Sat Jun 07 21:35:25 2014]  say: ^4Ony^5sfx: oh wait
+[Sat Jun 07 21:35:27 2014]  say: ^4Ony^5sfx: one last thing to show ya
+[Sat Jun 07 21:35:28 2014]  say: ^7Z^0Ј^7®^0Ш: i think spior's is stuck on t2_trip
+[Sat Jun 07 21:35:36 2014]  say: ^4Ony^5sfx: check this out
+[Sat Jun 07 21:35:39 2014]  say: ^4Ony^5sfx: watch me
+[Sat Jun 07 21:36:01 2014]  say: ^7Z^0Ј^7®^0Ш: quite old :O
+[Sat Jun 07 21:36:03 2014]  say: ^7Z^0Ј^7®^0Ш: but fun xD
+[Sat Jun 07 21:36:07 2014]  say: ^4Ony^5sfx: that took a little too long
+[Sat Jun 07 21:36:10 2014]  say: ^4Ony^5sfx: must be the server
+[Sat Jun 07 21:36:12 2014]  say: ^7Z^0Ј^7®^0Ш: yep
+[Sat Jun 07 21:36:21 2014]  say: ^4Ony^5sfx: anyway I'm off
+[Sat Jun 07 21:36:24 2014]  say: ^7Z^0Ј^7®^0Ш: sayonara.
+[Sat Jun 07 21:36:27 2014]  say: ^4Ony^5sfx: thanks for coming
+[Sat Jun 07 21:36:31 2014]  say: ^4Ony^5sfx: LONG LIVE MAKERMOD!
+[Sat Jun 07 21:36:32 2014]  ClientDisconnect: 0
+[Sat Jun 07 21:37:20 2014]  ClientDisconnect: 1
+[Sat Jun 07 23:19:16 2014]  Exit: Timelimit hit.
+[Sun Jun 08 04:45:29 2014]  ClientConnect: 0
+[Sun Jun 08 04:45:29 2014]  mlog:Player Padawan, connected. With IP - 72.194.74.212:29070 
+[Sun Jun 08 04:45:45 2014]  ClientBegin: 0
+[Sun Jun 08 04:45:54 2014]  print "Padawan^7 @@@PLRENAME ^0Oxe^5ford
+"[Sun Jun 08 04:46:15 2014]  ShutdownGame:
+[Sun Jun 08 04:46:15 2014]  ------------------------------------------------------------

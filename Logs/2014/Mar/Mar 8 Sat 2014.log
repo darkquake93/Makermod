@@ -1,0 +1,40 @@
+[Sat Mar 08 05:55:25 2014]  ------------------------------------------------------------
+[Sat Mar 08 05:55:25 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Mar 08 05:55:25 2014]  ClientConnect: 0
+[Sat Mar 08 05:55:32 2014]  ClientBegin: 0
+[Sat Mar 08 05:56:36 2014]  ClientDisconnect: 0
+[Sat Mar 08 07:55:24 2014]  Exit: Timelimit hit.
+[Sat Mar 08 11:53:14 2014]  ClientConnect: 0
+[Sat Mar 08 11:53:14 2014]  mlog:Player Padawan, connected. With IP - 159.255.234.38:29070 
+[Sat Mar 08 11:53:25 2014]  ClientBegin: 0
+[Sat Mar 08 11:53:28 2014]  ShutdownGame:
+[Sat Mar 08 11:53:28 2014]  ------------------------------------------------------------
+[Sat Mar 08 11:53:28 2014]  ------------------------------------------------------------
+[Sat Mar 08 11:53:28 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Mar 08 11:53:30 2014]  ClientConnect: 0
+[Sat Mar 08 11:53:44 2014]  ClientDisconnect: 0
+[Sat Mar 08 12:47:34 2014]  ClientConnect: 0
+[Sat Mar 08 12:47:34 2014]  mlog:Player ///, connected. With IP - 95.83.110.18:29070 
+[Sat Mar 08 12:48:24 2014]  ClientBegin: 0
+[Sat Mar 08 12:48:37 2014]  print "^1S^0ion^7 @@@PLRENAME ^2R^0evan
+"[Sat Mar 08 12:49:00 2014]  say: ^2R^0evan: ^1.^0_^1.
+[Sat Mar 08 12:50:04 2014]  say: ^2R^0evan: ^0:ñ
+[Sat Mar 08 12:58:48 2014]  Kill: 0 0 39: ^2R^0evan killed ^2R^0evan by MOD_SUICIDE
+[Sat Mar 08 12:59:34 2014]  Kill: 1022 0 3: <world> killed ^2R^0evan by MOD_SABER
+[Sat Mar 08 13:00:12 2014]  Kill: 0 0 39: ^2R^0evan killed ^2R^0evan by MOD_SUICIDE
+[Sat Mar 08 13:04:57 2014]  print "^2R^0evan^7 @@@PLRENAME ^2J^0AWA
+"[Sat Mar 08 13:05:07 2014]  Kill: 0 0 39: ^2J^0AWA killed ^2J^0AWA by MOD_SUICIDE
+[Sat Mar 08 13:20:17 2014]  Kill: 1022 0 2: <world> killed ^2J^0AWA by MOD_MELEE
+[Sat Mar 08 13:25:24 2014]  Kill: 0 0 39: ^2J^0AWA killed ^2J^0AWA by MOD_SUICIDE
+[Sat Mar 08 13:33:43 2014]  say: ^2J^0AWA: My origin is: (-18796 -19284 2408) - You can teleport here with /mtelelast
+
+[Sat Mar 08 13:44:40 2014]  ClientDisconnect: 0
+[Sat Mar 08 13:53:27 2014]  Exit: Timelimit hit.
+[Sun Mar 09 08:27:06 2014]  ClientConnect: 0
+[Sun Mar 09 08:27:06 2014]  mlog:Player Cookie, connected. With IP - 159.255.234.38:29070 
+[Sun Mar 09 08:27:56 2014]  ClientDisconnect: 0
+[Sun Mar 09 08:31:54 2014]  ClientConnect: 0
+[Sun Mar 09 08:31:54 2014]  mlog:Player handix'eu, connected. With IP - 159.255.234.38:29070 
+[Sun Mar 09 08:32:21 2014]  ClientBegin: 0
+[Sun Mar 09 08:32:24 2014]  ShutdownGame:
+[Sun Mar 09 08:32:24 2014]  ------------------------------------------------------------

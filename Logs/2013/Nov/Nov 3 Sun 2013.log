@@ -1,0 +1,243 @@
+[Sun Nov 03 09:01:58 2013]  ------------------------------------------------------------
+[Sun Nov 03 09:01:58 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Nov 03 09:01:59 2013]  ClientConnect: 0
+[Sun Nov 03 09:01:59 2013]  ClientConnect: 4
+[Sun Nov 03 09:02:02 2013]  ClientBegin: 4
+[Sun Nov 03 09:02:07 2013]  ClientBegin: 0
+[Sun Nov 03 09:02:31 2013]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Nov 03 09:02:31 2013]  setteam:  0 FREE SPECTATOR
+[Sun Nov 03 09:02:31 2013]  ClientBegin: 0
+[Sun Nov 03 09:02:37 2013]  setteam:  0 SPECTATOR FREE
+[Sun Nov 03 09:02:37 2013]  ClientBegin: 0
+[Sun Nov 03 09:03:38 2013]  Kill: 0 4 38: Padawan killed ^6Pinkie Bot^7 by MOD_FALLING
+[Sun Nov 03 09:03:59 2013]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Nov 03 09:03:59 2013]  setteam:  0 FREE SPECTATOR
+[Sun Nov 03 09:03:59 2013]  ClientBegin: 0
+[Sun Nov 03 09:04:45 2013]  setteam:  0 SPECTATOR FREE
+[Sun Nov 03 09:04:45 2013]  ClientBegin: 0
+[Sun Nov 03 09:06:09 2013]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Nov 03 09:06:09 2013]  setteam:  0 FREE SPECTATOR
+[Sun Nov 03 09:06:09 2013]  ClientBegin: 0
+[Sun Nov 03 09:06:15 2013]  setteam:  0 SPECTATOR FREE
+[Sun Nov 03 09:06:15 2013]  ClientBegin: 0
+[Sun Nov 03 09:07:02 2013]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Nov 03 09:07:02 2013]  setteam:  0 FREE SPECTATOR
+[Sun Nov 03 09:07:02 2013]  ClientBegin: 0
+[Sun Nov 03 09:07:07 2013]  setteam:  0 SPECTATOR FREE
+[Sun Nov 03 09:07:07 2013]  ClientBegin: 0
+[Sun Nov 03 09:07:28 2013]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Nov 03 09:07:28 2013]  setteam:  0 FREE SPECTATOR
+[Sun Nov 03 09:07:28 2013]  ClientBegin: 0
+[Sun Nov 03 09:07:34 2013]  setteam:  0 SPECTATOR FREE
+[Sun Nov 03 09:07:34 2013]  ClientBegin: 0
+[Sun Nov 03 09:07:56 2013]  Kill: 0 4 31: Padawan killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sun Nov 03 09:08:01 2013]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Nov 03 09:08:01 2013]  setteam:  0 FREE SPECTATOR
+[Sun Nov 03 09:08:01 2013]  ClientBegin: 0
+[Sun Nov 03 09:09:01 2013]  setteam:  0 SPECTATOR FREE
+[Sun Nov 03 09:09:01 2013]  ClientBegin: 0
+[Sun Nov 03 09:10:54 2013]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Nov 03 09:10:54 2013]  setteam:  0 FREE SPECTATOR
+[Sun Nov 03 09:10:54 2013]  ClientBegin: 0
+[Sun Nov 03 09:11:10 2013]  setteam:  0 SPECTATOR FREE
+[Sun Nov 03 09:11:10 2013]  ClientBegin: 0
+[Sun Nov 03 09:11:18 2013]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Nov 03 09:11:18 2013]  setteam:  0 FREE SPECTATOR
+[Sun Nov 03 09:11:18 2013]  ClientBegin: 0
+[Sun Nov 03 09:11:25 2013]  setteam:  0 SPECTATOR FREE
+[Sun Nov 03 09:11:25 2013]  ClientBegin: 0
+[Sun Nov 03 09:12:49 2013]  Kill: 0 4 31: Padawan killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sun Nov 03 09:12:52 2013]  ClientDisconnect: 0
+[Sun Nov 03 10:51:06 2013]  ClientConnect: 0
+[Sun Nov 03 10:51:06 2013]  mlog:Player ^9^2(^7^*^9^7^^2)ueryas, connected. With IP - 159.255.234.38:29070 
+[Sun Nov 03 10:51:13 2013]  ClientBegin: 0
+[Sun Nov 03 10:51:39 2013]  ClientDisconnect: 0
+[Sun Nov 03 11:01:57 2013]  Exit: Timelimit hit.
+[Sun Nov 03 11:01:57 2013]  score: 0  ping: 61  client: 4 ^6Pinkie Bot^7
+[Sun Nov 03 12:56:04 2013]  ClientConnect: 0
+[Sun Nov 03 12:56:04 2013]  mlog:Player Maestro Hispano ^3Amras, connected. With IP - 85.219.4.121:29070 
+[Sun Nov 03 12:56:23 2013]  ClientBegin: 0
+[Sun Nov 03 12:56:41 2013]  ShutdownGame:
+[Sun Nov 03 12:56:41 2013]  ------------------------------------------------------------
+[Sun Nov 03 12:56:42 2013]  ------------------------------------------------------------
+[Sun Nov 03 12:56:42 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Nov 03 12:56:44 2013]  ClientConnect: 0
+[Sun Nov 03 12:56:44 2013]  ClientConnect: 4
+[Sun Nov 03 12:56:47 2013]  ClientBegin: 4
+[Sun Nov 03 12:57:05 2013]  ClientBegin: 0
+[Sun Nov 03 12:59:46 2013]  Kill: 0 4 3: Maestro Hispano ^3Amras killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 03 12:59:55 2013]  Kill: 0 0 39: Maestro Hispano ^3Amras killed Maestro Hispano ^3Amras by MOD_SUICIDE
+[Sun Nov 03 13:00:16 2013]  Kill: 0 0 39: Maestro Hispano ^3Amras killed Maestro Hispano ^3Amras by MOD_SUICIDE
+[Sun Nov 03 13:01:03 2013]  Kill: 0 4 3: Maestro Hispano ^3Amras killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 03 13:02:16 2013]  Kill: 0 4 3: Maestro Hispano ^3Amras killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 03 13:04:01 2013]  Kill: 0 4 3: Maestro Hispano ^3Amras killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 03 13:05:31 2013]  Kill: 0 4 3: Maestro Hispano ^3Amras killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 03 13:10:07 2013]  Kill: 0 4 3: Maestro Hispano ^3Amras killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 03 13:10:59 2013]  ClientDisconnect: 0
+[Sun Nov 03 14:35:03 2013]  ClientConnect: 0
+[Sun Nov 03 14:35:03 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sun Nov 03 14:35:31 2013]  ClientBegin: 0
+[Sun Nov 03 14:37:22 2013]  Kill: 0 4 3: ^0ÐàrkQµàkè killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 03 14:46:15 2013]  ClientDisconnect: 0
+[Sun Nov 03 14:51:25 2013]  ClientConnect: 0
+[Sun Nov 03 14:51:25 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sun Nov 03 14:51:53 2013]  ClientBegin: 0
+[Sun Nov 03 14:54:01 2013]  Kill: 0 4 37: ^0ÐàrkQµàkè killed ^6Pinkie Bot^7 by MOD_TELEFRAG
+[Sun Nov 03 14:56:41 2013]  Exit: Timelimit hit.
+[Sun Nov 03 14:56:41 2013]  score: 1  ping: 0  client: 0 ^0ÐàrkQµàkè
+[Sun Nov 03 14:56:41 2013]  score: 0  ping: 55  client: 4 ^6Pinkie Bot^7
+[Sun Nov 03 14:57:04 2013]  ShutdownGame:
+[Sun Nov 03 14:57:04 2013]  ------------------------------------------------------------
+[Sun Nov 03 14:57:04 2013]  ------------------------------------------------------------
+[Sun Nov 03 14:57:04 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Nov 03 14:57:05 2013]  ClientConnect: 0
+[Sun Nov 03 14:57:05 2013]  ClientConnect: 4
+[Sun Nov 03 14:57:08 2013]  ClientBegin: 4
+[Sun Nov 03 14:57:16 2013]  ClientBegin: 0
+[Sun Nov 03 15:13:55 2013]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Nov 03 15:17:28 2013]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Nov 03 15:18:45 2013]  Kill: 1022 0 2: <world> killed ^0ÐàrkQµàkè by MOD_MELEE
+[Sun Nov 03 15:19:36 2013]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Nov 03 15:48:07 2013]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Sun Nov 03 15:56:59 2013]  say: ^0ÐàrkQµàkè: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1Dbn²
+[Sun Nov 03 15:57:00 2013]  say: ^0ÐàrkQµàkè: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sun Nov 03 15:57:09 2013]  say: ^0ÐàrkQµàkè: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1Dbn²
+[Sun Nov 03 15:57:09 2013]  say: ^0ÐàrkQµàkè: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sun Nov 03 16:21:19 2013]  ClientConnect: 1
+[Sun Nov 03 16:21:19 2013]  mlog:Player ^4Hy^0Dro, connected. With IP - 108.204.209.29:29070 
+[Sun Nov 03 16:21:38 2013]  ClientBegin: 1
+[Sun Nov 03 16:21:51 2013]  Kill: 1 4 3: ^4Hy^0Dro killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 03 16:21:57 2013]  Kill: 1 1 39: ^4Hy^0Dro killed ^4Hy^0Dro by MOD_SUICIDE
+[Sun Nov 03 16:21:57 2013]  setteam:  1 FREE SPECTATOR
+[Sun Nov 03 16:21:57 2013]  ClientBegin: 1
+[Sun Nov 03 16:22:05 2013]  setteam:  1 SPECTATOR FREE
+[Sun Nov 03 16:22:05 2013]  ClientBegin: 1
+[Sun Nov 03 16:23:05 2013]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Sun Nov 03 16:23:11 2013]  ClientDisconnect: 1
+[Sun Nov 03 16:57:03 2013]  Exit: Timelimit hit.
+[Sun Nov 03 16:57:03 2013]  score: 4  ping: 3  client: 0 ^0ÐàrkQµàkè
+[Sun Nov 03 16:57:03 2013]  score: 0  ping: 70  client: 4 ^6Pinkie Bot^7
+[Sun Nov 03 18:39:27 2013]  ShutdownGame:
+[Sun Nov 03 18:39:27 2013]  ------------------------------------------------------------
+[Sun Nov 03 18:39:28 2013]  ------------------------------------------------------------
+[Sun Nov 03 18:39:28 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Nov 03 18:39:30 2013]  ClientConnect: 0
+[Sun Nov 03 18:39:30 2013]  ClientConnect: 4
+[Sun Nov 03 18:39:33 2013]  ClientBegin: 4
+[Sun Nov 03 18:39:36 2013]  ClientBegin: 0
+[Sun Nov 03 19:57:20 2013]  ClientConnect: 1
+[Sun Nov 03 19:57:20 2013]  mlog:Player jedi, connected. With IP - 67.5.173.24:29070 
+[Sun Nov 03 19:57:25 2013]  ClientDisconnect: 0
+[Sun Nov 03 19:57:29 2013]  ClientBegin: 1
+[Sun Nov 03 19:57:38 2013]  say: jedi: hello
+[Sun Nov 03 20:03:50 2013]  Kill: 1022 1 3: <world> killed jedi by MOD_SABER
+[Sun Nov 03 20:33:28 2013]  ClientConnect: 0
+[Sun Nov 03 20:33:28 2013]  mlog:Player Padawan, connected. With IP - 75.39.96.117:-8772 
+[Sun Nov 03 20:33:38 2013]  ClientBegin: 0
+[Sun Nov 03 20:34:03 2013]  Kill: 0 4 3: Padawan killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 03 20:34:33 2013]  ClientDisconnect: 0
+[Sun Nov 03 20:35:07 2013]  ClientConnect: 0
+[Sun Nov 03 20:35:07 2013]  mlog:Player Padawan, connected. With IP - 75.39.96.117:-8772 
+[Sun Nov 03 20:35:15 2013]  ClientBegin: 0
+[Sun Nov 03 20:35:33 2013]  ClientDisconnect: 0
+[Sun Nov 03 20:39:27 2013]  Exit: Timelimit hit.
+[Sun Nov 03 20:39:27 2013]  score: 7  ping: 217  client: 1 jedi
+[Sun Nov 03 20:39:27 2013]  score: 0  ping: 60  client: 4 ^6Pinkie Bot^7
+[Sun Nov 03 20:39:39 2013]  ClientConnect: 0
+[Sun Nov 03 20:39:39 2013]  mlog:Player :, connected. With IP - 70.26.4.155:29070 
+[Sun Nov 03 20:40:10 2013]  ClientBegin: 0
+[Sun Nov 03 20:40:47 2013]  ShutdownGame:
+[Sun Nov 03 20:40:47 2013]  ------------------------------------------------------------
+[Sun Nov 03 20:40:48 2013]  ------------------------------------------------------------
+[Sun Nov 03 20:40:48 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Nov 03 20:40:49 2013]  ClientConnect: 0
+[Sun Nov 03 20:40:49 2013]  ClientConnect: 1
+[Sun Nov 03 20:40:49 2013]  ClientConnect: 4
+[Sun Nov 03 20:40:51 2013]  ClientBegin: 4
+[Sun Nov 03 20:40:57 2013]  ClientBegin: 1
+[Sun Nov 03 20:41:03 2013]  ClientBegin: 0
+[Sun Nov 03 20:41:20 2013]  Kill: 0 1 3: : killed jedi by MOD_SABER
+[Sun Nov 03 20:41:27 2013]  Kill: 0 4 3: : killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 03 20:41:48 2013]  ClientDisconnect: 0
+[Sun Nov 03 21:06:27 2013]  ClientConnect: 0
+[Sun Nov 03 21:06:27 2013]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 86.8.228.166:29071 
+[Sun Nov 03 21:06:39 2013]  ClientBegin: 0
+[Sun Nov 03 21:06:39 2013]  say: ^1M^7r ^1Ð^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Nov 03 21:08:39 2013]  say: ^1M^7r ^1Ð^7innertime: Hi, Jedi :)
+[Sun Nov 03 21:13:01 2013]  Kill: 0 4 3: ^1M^7r ^1Ð^7innertime killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 03 21:13:01 2013]  tell: ^1M^7r ^1Ð^7innertime to ^6Pinkie Bot^7: Gf. You make up 8 of my 147 kills.
+[Sun Nov 03 21:16:23 2013]  Kill: 0 1 3: ^1M^7r ^1Ð^7innertime killed jedi by MOD_SABER
+[Sun Nov 03 21:16:23 2013]  tell: ^1M^7r ^1Ð^7innertime to jedi: Gf. You make up 1 of my 148 kills.
+[Sun Nov 03 21:16:37 2013]  ClientDisconnect: 0
+[Sun Nov 03 21:19:09 2013]  ClientDisconnect: 1
+[Sun Nov 03 22:40:47 2013]  Exit: Timelimit hit.
+[Sun Nov 03 22:40:47 2013]  score: 0  ping: 51  client: 4 ^6Pinkie Bot^7
+[Sun Nov 03 22:46:28 2013]  ClientConnect: 0
+[Sun Nov 03 22:46:28 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sun Nov 03 22:46:33 2013]  ClientBegin: 0
+[Sun Nov 03 22:46:51 2013]  ShutdownGame:
+[Sun Nov 03 22:46:51 2013]  ------------------------------------------------------------
+[Sun Nov 03 22:46:51 2013]  ------------------------------------------------------------
+[Sun Nov 03 22:46:51 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Nov 03 22:46:53 2013]  ClientConnect: 0
+[Sun Nov 03 22:46:53 2013]  ClientConnect: 4
+[Sun Nov 03 22:46:57 2013]  ClientBegin: 4
+[Sun Nov 03 22:46:59 2013]  ClientBegin: 0
+[Sun Nov 03 23:10:05 2013]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Nov 03 23:10:45 2013]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Nov 03 23:30:43 2013]  Kill: 1022 0 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Nov 03 23:31:02 2013]  Kill: 1022 0 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Nov 03 23:32:29 2013]  Kill: 1022 0 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Sun Nov 03 23:34:29 2013]  Kill: 0 0 39: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_SUICIDE
+[Sun Nov 03 23:34:58 2013]  Kill: 0 4 3: ^0ÐàrkQµàkè killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 03 23:36:23 2013]  ClientDisconnect: 0
+[Sun Nov 03 23:37:30 2013]  ClientConnect: 0
+[Sun Nov 03 23:37:30 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sun Nov 03 23:38:03 2013]  ClientBegin: 0
+[Sun Nov 03 23:39:47 2013]  say: ^0ÐàrkQµàkè: !chatstyle darkquake
+[Sun Nov 03 23:39:47 2013]  tell: ^0ÐàrkQµàkè to ^0ÐàrkQµàkè: ^3Chatstyles ^2- ^7Chatstyle set to ^2Darkquake
+[Sun Nov 03 23:39:51 2013]  say: ^0ÐàrkQµàkè: ^0<<^4!trace^0>>
+[Sun Nov 03 23:39:55 2013]  say: ^0ÐàrkQµàkè: ^0<<^4!trace^0>>
+[Sun Nov 03 23:39:59 2013]  say: ^0ÐàrkQµàkè: ^0<<^4!entinfotrace^0>>
+[Sun Nov 03 23:40:19 2013]  ClientDisconnect: 0
+[Sun Nov 03 23:41:23 2013]  ClientConnect: 0
+[Sun Nov 03 23:41:23 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sun Nov 03 23:41:53 2013]  ClientBegin: 0
+[Sun Nov 03 23:41:54 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Nov 03 23:42:15 2013]  say: ^0ÐàrkQµàkè: ^0<<^4!trace^0>>
+[Sun Nov 03 23:42:22 2013]  say: ^0ÐàrkQµàkè: ^0<<^4!entinfotrace^0>>
+[Sun Nov 03 23:42:29 2013]  say: ^0ÐàrkQµàkè: ^0<<^4!help^0>>
+[Sun Nov 03 23:45:57 2013]  say: ^0ÐàrkQµàkè: mremap
+[Sun Nov 03 23:47:41 2013]  ShutdownGame:
+[Sun Nov 03 23:47:41 2013]  ------------------------------------------------------------
+[Sun Nov 03 23:47:42 2013]  ------------------------------------------------------------
+[Sun Nov 03 23:47:42 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Nov 03 23:47:43 2013]  ClientConnect: 0
+[Sun Nov 03 23:47:43 2013]  ClientConnect: 4
+[Sun Nov 03 23:47:47 2013]  ClientBegin: 4
+[Sun Nov 03 23:47:49 2013]  ClientBegin: 0
+[Sun Nov 03 23:47:49 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Nov 03 23:47:51 2013]  say: ^0ÐàrkQµàkè: ^0<<^4!remaps^0>>
+[Sun Nov 03 23:51:18 2013]  ClientDisconnect: 0
+[Sun Nov 03 23:51:38 2013]  ClientConnect: 0
+[Sun Nov 03 23:51:38 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sun Nov 03 23:52:06 2013]  ClientBegin: 0
+[Sun Nov 03 23:52:06 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Nov 03 23:53:36 2013]  ClientDisconnect: 0
+[Sun Nov 03 23:53:46 2013]  ClientConnect: 0
+[Sun Nov 03 23:53:46 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sun Nov 03 23:54:14 2013]  ClientBegin: 0
+[Sun Nov 03 23:54:14 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Nov 03 23:54:26 2013]  ClientDisconnect: 0
+[Sun Nov 03 23:55:03 2013]  ClientConnect: 0
+[Sun Nov 03 23:55:03 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sun Nov 03 23:55:31 2013]  ClientBegin: 0
+[Sun Nov 03 23:55:31 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Nov 03 23:55:50 2013]  Kill: 1022 4 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sun Nov 03 23:57:21 2013]  Kill: 1022 4 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Sun Nov 03 23:59:22 2013]  Kill: 1022 4 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Mon Nov 04 00:01:34 2013]  Kill: 1022 4 36: <world> killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Mon Nov 04 00:01:56 2013]  Kill: 1022 0 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Mon Nov 04 00:01:59 2013]  Kill: 1022 0 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Mon Nov 04 00:22:02 2013]  ShutdownGame:
+[Mon Nov 04 00:22:02 2013]  ------------------------------------------------------------

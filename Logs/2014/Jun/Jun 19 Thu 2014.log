@@ -1,0 +1,179 @@
+[Thu Jun 19 06:51:00 2014]  ------------------------------------------------------------
+[Thu Jun 19 06:51:00 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Jun 19 06:51:00 2014]  ClientConnect: 0
+[Thu Jun 19 06:51:17 2014]  ClientBegin: 0
+[Thu Jun 19 06:51:30 2014]  Kill: 0 0 39: ^3Lord ^2Of ^5Ice killed ^3Lord ^2Of ^5Ice by MOD_SUICIDE
+[Thu Jun 19 06:51:51 2014]  ClientDisconnect: 0
+[Thu Jun 19 06:58:53 2014]  ClientConnect: 0
+[Thu Jun 19 06:58:53 2014]  mlog:Player ^3Lord ^2Of ^5Ice, connected. With IP - 178.121.115.154:-17570 
+[Thu Jun 19 06:59:15 2014]  ClientBegin: 0
+[Thu Jun 19 06:59:27 2014]  Kill: 0 0 39: ^3Lord ^2Of ^5Ice killed ^3Lord ^2Of ^5Ice by MOD_SUICIDE
+[Thu Jun 19 07:03:37 2014]  ClientDisconnect: 0
+[Thu Jun 19 08:50:58 2014]  Exit: Timelimit hit.
+[Thu Jun 19 12:59:48 2014]  ClientConnect: 0
+[Thu Jun 19 12:59:48 2014]  mlog:Player _S_A_S_H_A_2012_, connected. With IP - 176.112.229.204:29070 
+[Thu Jun 19 12:59:56 2014]  ClientConnect: 1
+[Thu Jun 19 12:59:56 2014]  mlog:Player gran95_artemiy, connected. With IP - 176.112.229.204:1024 
+[Thu Jun 19 13:00:11 2014]  ClientBegin: 0
+[Thu Jun 19 13:00:18 2014]  ClientBegin: 1
+[Thu Jun 19 13:00:46 2014]  print "^3hundert^7 @@@PLRENAME _S_A_S_H_A_2012_
+"[Thu Jun 19 13:02:14 2014]  ShutdownGame:
+[Thu Jun 19 13:02:14 2014]  ------------------------------------------------------------
+[Thu Jun 19 13:02:15 2014]  ------------------------------------------------------------
+[Thu Jun 19 13:02:15 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Jun 19 13:02:16 2014]  ClientConnect: 0
+[Thu Jun 19 13:02:16 2014]  ClientConnect: 1
+[Thu Jun 19 13:02:32 2014]  ClientBegin: 0
+[Thu Jun 19 13:02:42 2014]  ClientBegin: 1
+[Thu Jun 19 13:03:22 2014]  ClientConnect: 2
+[Thu Jun 19 13:03:22 2014]  mlog:Player ^1A^7lora, connected. With IP - 178.121.115.154:21148 
+[Thu Jun 19 13:04:06 2014]  ClientBegin: 2
+[Thu Jun 19 13:04:23 2014]  say: ^3Lord ^2Of ^5Ice: привет
+[Thu Jun 19 13:04:32 2014]  say: ^3hundert: , !
+[Thu Jun 19 13:04:48 2014]  say: ^3hundert: О, Русский!
+[Thu Jun 19 13:04:54 2014]  say: _S_A_S_H_A_2012_: привет)
+[Thu Jun 19 13:04:57 2014]  say: ^3Lord ^2Of ^5Ice: я смерть)
+[Thu Jun 19 13:05:05 2014]  say: ^3hundert: godmode on
+[Thu Jun 19 13:05:12 2014]  say: ^3Lord ^2Of ^5Ice: ага
+[Thu Jun 19 13:05:17 2014]  Kill: 2 1 27: ^3Lord ^2Of ^5Ice killed ^3hundert by MOD_DET_PACK_SPLASH
+[Thu Jun 19 13:05:36 2014]  Kill: 2 0 3: ^3Lord ^2Of ^5Ice killed _S_A_S_H_A_2012_ by MOD_SABER
+[Thu Jun 19 13:05:40 2014]  say: ^3Lord ^2Of ^5Ice: )
+[Thu Jun 19 13:05:41 2014]  say: ^3hundert: Как?
+[Thu Jun 19 13:05:51 2014]  say: ^3Lord ^2Of ^5Ice: мне админ разришил
+[Thu Jun 19 13:05:53 2014]  say: ^3hundert: Скажи, пожалуйста
+[Thu Jun 19 13:05:58 2014]  say: ^3Lord ^2Of ^5Ice: я не могу
+[Thu Jun 19 13:06:03 2014]  say: ^3hundert: Нет
+[Thu Jun 19 13:06:07 2014]  say: ^3hundert: Я раньше играл
+[Thu Jun 19 13:06:33 2014]  say: ^3hundert: Не мешай играть, плиз.
+[Thu Jun 19 13:06:43 2014]  print "^3Lord ^2Of ^5Ice^7 @@@PLRENAME Смерть
+"[Thu Jun 19 13:07:22 2014]  say: Смерть: хотите постражатся с джедаями или ситхами?
+[Thu Jun 19 13:07:36 2014]  say: Смерть: я могу устроить
+[Thu Jun 19 13:07:55 2014]  Kill: 0 1 3: _S_A_S_H_A_2012_ killed ^3hundert by MOD_SABER
+[Thu Jun 19 13:07:59 2014]  say: Смерть: а?
+[Thu Jun 19 13:08:29 2014]  say: ^3hundert: jetpack
+[Thu Jun 19 13:08:49 2014]  Kill: 1 0 3: ^3hundert killed _S_A_S_H_A_2012_ by MOD_SABER
+[Thu Jun 19 13:08:51 2014]  say: Смерть: одни из моей охраны)
+[Thu Jun 19 13:08:58 2014]  say: Смерть: еще?
+[Thu Jun 19 13:09:02 2014]  say: ^3hundert: Неа
+[Thu Jun 19 13:09:44 2014]  say: ^3hundert: Где и как писать godmode on?
+[Thu Jun 19 13:09:56 2014]  say: Смерть: хз
+[Thu Jun 19 13:10:11 2014]  say: ^3hundert: Лол
+[Thu Jun 19 13:10:35 2014]  say: Смерть: ты его разозлил(
+[Thu Jun 19 13:10:59 2014]  say: ^3hundert: godmode on
+[Thu Jun 19 13:11:08 2014]  say: Смерть: я его убью
+[Thu Jun 19 13:13:02 2014]  say: Смерть: мрй рхранник
+[Thu Jun 19 13:13:06 2014]  Kill: 1 0 3: ^3hundert killed _S_A_S_H_A_2012_ by MOD_SABER
+[Thu Jun 19 13:13:09 2014]  say: Смерть: (
+[Thu Jun 19 13:13:10 2014]  Kill: 2 1 31: Смерть killed ^3hundert by MOD_FORCE_DARK
+[Thu Jun 19 13:13:16 2014]  say: ^3hundert: spawn
+[Thu Jun 19 13:13:43 2014]  Kill: 1022 0 3: <world> killed _S_A_S_H_A_2012_ by MOD_SABER
+[Thu Jun 19 13:14:00 2014]  Kill: 1022 1 3: <world> killed ^3hundert by MOD_SABER
+[Thu Jun 19 13:14:33 2014]  Kill: 0 1 3: _S_A_S_H_A_2012_ killed ^3hundert by MOD_SABER
+[Thu Jun 19 13:14:58 2014]  Kill: 0 0 39: _S_A_S_H_A_2012_ killed _S_A_S_H_A_2012_ by MOD_SUICIDE
+[Thu Jun 19 13:14:58 2014]  setteam:  0 FREE SPECTATOR
+[Thu Jun 19 13:14:58 2014]  ClientBegin: 0
+[Thu Jun 19 13:15:10 2014]  say: Смерть: ну хорошо!
+[Thu Jun 19 13:15:19 2014]  setteam:  0 SPECTATOR FREE
+[Thu Jun 19 13:15:19 2014]  ClientBegin: 0
+[Thu Jun 19 13:15:24 2014]  Kill: 1022 0 3: <world> killed _S_A_S_H_A_2012_ by MOD_SABER
+[Thu Jun 19 13:15:37 2014]  Kill: 2 0 3: Смерть killed _S_A_S_H_A_2012_ by MOD_SABER
+[Thu Jun 19 13:15:43 2014]  Kill: 2 1 6: Смерть killed ^3hundert by MOD_BLASTER
+[Thu Jun 19 13:15:45 2014]  say: ^3hundert:  fffffffaw w 
+[Thu Jun 19 13:15:56 2014]  say: ^3hundert: Какая команда бзять оружие?
+[Thu Jun 19 13:16:20 2014]  Kill: 1022 1 3: <world> killed ^3hundert by MOD_SABER
+[Thu Jun 19 13:16:33 2014]  ClientDisconnect: 1
+[Thu Jun 19 13:16:37 2014]  Kill: 1022 0 3: <world> killed _S_A_S_H_A_2012_ by MOD_SABER
+[Thu Jun 19 13:16:47 2014]  say: Смерть: пушка!
+[Thu Jun 19 13:17:05 2014]  say: Смерть: у тебя пушка
+[Thu Jun 19 13:17:31 2014]  print "Смерть^7 @@@PLRENAME ага
+"[Thu Jun 19 13:17:56 2014]  say: ага: тебе не победить!
+[Thu Jun 19 13:18:10 2014]  say: _S_A_S_H_A_2012_: luke
+[Thu Jun 19 13:18:14 2014]  say: ага: убить его!
+[Thu Jun 19 13:18:39 2014]  say: _S_A_S_H_A_2012_: ok)
+[Thu Jun 19 13:19:59 2014]  ClientDisconnect: 2
+[Thu Jun 19 13:19:59 2014]  ClientConnect: 2
+[Thu Jun 19 13:19:59 2014]  mlog:Player ^1A^7lora, connected. With IP - 178.121.115.154:21148 
+[Thu Jun 19 13:20:42 2014]  ClientBegin: 2
+[Thu Jun 19 13:22:05 2014]  ClientDisconnect: 2
+[Thu Jun 19 13:22:05 2014]  ClientConnect: 2
+[Thu Jun 19 13:22:05 2014]  mlog:Player ^1A^7lora, connected. With IP - 178.121.115.154:21148 
+[Thu Jun 19 13:22:38 2014]  ClientBegin: 2
+[Thu Jun 19 13:22:50 2014]  ClientDisconnect: 0
+[Thu Jun 19 13:25:15 2014]  ClientConnect: 0
+[Thu Jun 19 13:25:15 2014]  mlog:Player gran95_artemiy, connected. With IP - 176.112.229.204:29070 
+[Thu Jun 19 13:25:39 2014]  ClientBegin: 0
+[Thu Jun 19 13:26:00 2014]  ClientDisconnect: 2
+[Thu Jun 19 13:28:21 2014]  ClientDisconnect: 0
+[Thu Jun 19 13:28:21 2014]  ClientConnect: 0
+[Thu Jun 19 13:28:21 2014]  mlog:Player gran95_artemiy, connected. With IP - 176.112.229.204:29070 
+[Thu Jun 19 13:28:45 2014]  ClientBegin: 0
+[Thu Jun 19 13:29:54 2014]  ClientDisconnect: 0
+[Thu Jun 19 13:29:54 2014]  ClientConnect: 0
+[Thu Jun 19 13:29:54 2014]  mlog:Player gran95_artemiy, connected. With IP - 176.112.229.204:29070 
+[Thu Jun 19 13:30:19 2014]  ClientBegin: 0
+[Thu Jun 19 13:33:40 2014]  ClientDisconnect: 0
+[Thu Jun 19 13:34:32 2014]  ClientConnect: 0
+[Thu Jun 19 13:34:32 2014]  mlog:Player gran95_artemiy, connected. With IP - 176.112.229.204:29070 
+[Thu Jun 19 13:34:56 2014]  ClientBegin: 0
+[Thu Jun 19 13:38:16 2014]  ClientDisconnect: 0
+[Thu Jun 19 14:33:16 2014]  ClientConnect: 0
+[Thu Jun 19 14:33:16 2014]  mlog:Player gran95_artemiy, connected. With IP - 176.112.229.204:29070 
+[Thu Jun 19 14:33:39 2014]  ClientBegin: 0
+[Thu Jun 19 14:37:00 2014]  ClientDisconnect: 0
+[Thu Jun 19 15:02:14 2014]  Exit: Timelimit hit.
+[Fri Jun 20 13:53:45 2014]  ClientConnect: 0
+[Fri Jun 20 13:53:45 2014]  mlog:Player gran95_artemiy, connected. With IP - 176.112.231.235:29070 
+[Fri Jun 20 13:54:19 2014]  ClientBegin: 0
+[Fri Jun 20 13:57:39 2014]  ClientDisconnect: 0
+[Fri Jun 20 13:57:41 2014]  ClientConnect: 0
+[Fri Jun 20 13:57:41 2014]  mlog:Player ^4^^7[4E]Jedi^6@^7..,^6@, connected. With IP - 178.121.83.29:13672 
+[Fri Jun 20 13:58:23 2014]  ClientBegin: 0
+[Fri Jun 20 14:01:44 2014]  ClientDisconnect: 0
+[Fri Jun 20 21:33:23 2014]  ClientConnect: 0
+[Fri Jun 20 21:33:23 2014]  mlog:Player ^1p^0ee^1t^0i, connected. With IP - 176.63.37.23:29070 
+[Fri Jun 20 21:34:34 2014]  ClientBegin: 0
+[Fri Jun 20 21:37:55 2014]  ClientDisconnect: 0
+[Fri Jun 20 21:39:02 2014]  ClientConnect: 0
+[Fri Jun 20 21:39:02 2014]  mlog:Player ^1p^0ee^1t^0i, connected. With IP - 176.63.37.23:29070 
+[Fri Jun 20 21:39:30 2014]  ClientBegin: 0
+[Fri Jun 20 21:42:51 2014]  ClientDisconnect: 0
+[Sat Jun 21 08:21:27 2014]  ClientConnect: 0
+[Sat Jun 21 08:21:27 2014]  mlog:Player ^3hundert, connected. With IP - 92.252.208.227:29070 
+[Sat Jun 21 08:21:48 2014]  ClientBegin: 0
+[Sat Jun 21 08:25:09 2014]  ClientDisconnect: 0
+[Sat Jun 21 12:15:01 2014]  ClientConnect: 0
+[Sat Jun 21 12:15:01 2014]  mlog:Player ^3hundert, connected. With IP - 89.239.175.140:29070 
+[Sat Jun 21 12:15:02 2014]  ClientConnect: 1
+[Sat Jun 21 12:15:02 2014]  mlog:Player ^3hundert, connected. With IP - 92.252.137.1:29070 
+[Sat Jun 21 12:15:24 2014]  ClientBegin: 1
+[Sat Jun 21 12:15:52 2014]  ClientDisconnect: 1
+[Sat Jun 21 12:15:52 2014]  ClientConnect: 1
+[Sat Jun 21 12:15:52 2014]  mlog:Player ^3hundert, connected. With IP - 92.252.137.1:29070 
+[Sat Jun 21 12:16:03 2014]  ClientBegin: 0
+[Sat Jun 21 12:16:10 2014]  ClientBegin: 1
+[Sat Jun 21 12:19:24 2014]  ClientDisconnect: 0
+[Sat Jun 21 12:19:30 2014]  ClientDisconnect: 1
+[Sat Jun 21 12:49:22 2014]  ClientConnect: 0
+[Sat Jun 21 12:49:22 2014]  mlog:Player ^6]^7SnL^6[^7Ben^6L^7aden, connected. With IP - 91.218.143.121:29070 
+[Sat Jun 21 12:49:40 2014]  ClientBegin: 0
+[Sat Jun 21 12:53:01 2014]  ClientDisconnect: 0
+[Sat Jun 21 17:31:44 2014]  ClientConnect: 0
+[Sat Jun 21 17:31:44 2014]  mlog:Player ^3hundert, connected. With IP - 92.252.208.227:29070 
+[Sat Jun 21 17:31:58 2014]  ClientBegin: 0
+[Sat Jun 21 17:35:19 2014]  ClientDisconnect: 0
+[Sun Jun 22 10:17:26 2014]  ClientConnect: 0
+[Sun Jun 22 10:17:26 2014]  mlog:Player lexa3317, connected. With IP - 89.239.165.46:29070 
+[Sun Jun 22 10:18:09 2014]  ClientBegin: 0
+[Sun Jun 22 10:21:29 2014]  ClientDisconnect: 0
+[Sun Jun 22 13:35:51 2014]  ClientConnect: 0
+[Sun Jun 22 13:35:51 2014]  mlog:Player ^0A^1c^0ro, connected. With IP - 79.191.227.253:29070 
+[Sun Jun 22 13:36:03 2014]  ClientConnect: 1
+[Sun Jun 22 13:36:03 2014]  mlog:Player ^6AN^7B^6U' ^0Ner, connected. With IP - 109.95.206.145:29070 
+[Sun Jun 22 13:36:13 2014]  ClientBegin: 0
+[Sun Jun 22 13:36:25 2014]  ClientBegin: 1
+[Sun Jun 22 13:37:57 2014]  ClientDisconnect: 0
+[Sun Jun 22 13:37:57 2014]  ClientConnect: 0
+[Sun Jun 22 13:37:57 2014]  mlog:Player Padawan, connected. With IP - 79.191.227.253:29070 
+[Sun Jun 22 13:38:22 2014]  ClientBegin: 0
+[Sun Jun 22 13:39:45 2014]  ClientDisconnect: 1
+[Sun Jun 22 13:41:44 2014]  ClientDisconnect: 0

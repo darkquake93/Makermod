@@ -1,0 +1,55 @@
+[Thu Nov 07 12:33:38 2013]  ------------------------------------------------------------
+[Thu Nov 07 12:33:38 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Nov 07 12:33:40 2013]  ClientConnect: 0
+[Thu Nov 07 12:33:40 2013]  mlog:Player ^6Pinkie Bot^7, connected. With IP - 79.100.96.163:29074 
+[Thu Nov 07 12:33:45 2013]  ClientBegin: 0
+[Thu Nov 07 14:33:32 2013]  Exit: Timelimit hit.
+[Thu Nov 07 14:33:32 2013]  score: 0  ping: 68  client: 0 ^6Pinkie Bot^7
+[Thu Nov 07 14:47:18 2013]  ClientConnect: 1
+[Thu Nov 07 14:47:18 2013]  mlog:Player ^4Hy^0Dro, connected. With IP - 108.195.222.199:29070 
+[Thu Nov 07 14:47:53 2013]  ClientBegin: 1
+[Thu Nov 07 14:47:57 2013]  setteam:  1 FREE SPECTATOR
+[Thu Nov 07 14:47:57 2013]  ClientBegin: 1
+[Thu Nov 07 14:47:59 2013]  ClientDisconnect: 1
+[Thu Nov 07 16:10:29 2013]  ClientConnect: 1
+[Thu Nov 07 16:10:29 2013]  mlog:Player Vasilevs12, connected. With IP - 93.77.7.27:29070 
+[Thu Nov 07 16:11:17 2013]  ClientBegin: 1
+[Thu Nov 07 16:12:22 2013]  ShutdownGame:
+[Thu Nov 07 16:12:22 2013]  ------------------------------------------------------------
+[Thu Nov 07 16:12:23 2013]  ------------------------------------------------------------
+[Thu Nov 07 16:12:23 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Nov 07 16:12:24 2013]  ClientConnect: 0
+[Thu Nov 07 16:12:24 2013]  ClientConnect: 1
+[Thu Nov 07 16:12:26 2013]  ClientBegin: 0
+[Thu Nov 07 16:12:41 2013]  ClientBegin: 1
+[Thu Nov 07 16:14:07 2013]  say: Vasilevs12: ^1Bar ^4SCRIPT ^2by ^4Frozen^7Sparky
+[Thu Nov 07 16:14:50 2013]  say: Vasilevs12: ^1Bar ^4SCRIPT ^2by ^4Frozen^7Sparky
+[Thu Nov 07 16:14:50 2013]  say: Vasilevs12: mscaleme
+[Thu Nov 07 16:15:02 2013]  Kill: 1 1 39: Vasilevs12 killed Vasilevs12 by MOD_SUICIDE
+[Thu Nov 07 16:15:02 2013]  setteam:  1 FREE SPECTATOR
+[Thu Nov 07 16:15:02 2013]  ClientBegin: 1
+[Thu Nov 07 16:15:15 2013]  setteam:  1 SPECTATOR FREE
+[Thu Nov 07 16:15:15 2013]  ClientBegin: 1
+[Thu Nov 07 16:15:33 2013]  say: Vasilevs12: hi
+[Thu Nov 07 16:16:04 2013]  say: Vasilevs12: sit3
+[Thu Nov 07 16:16:08 2013]  say: Vasilevs12: sit3
+[Thu Nov 07 16:16:11 2013]  say: Vasilevs12: sit2
+[Thu Nov 07 16:16:46 2013]  say: Vasilevs12: ^1Naruto ^2script by:^1Cloud ^4Strife
+[Thu Nov 07 16:17:54 2013]  ClientDisconnect: 1
+[Thu Nov 07 18:12:22 2013]  Exit: Timelimit hit.
+[Thu Nov 07 18:12:22 2013]  score: 0  ping: 83  client: 0 ^6Pinkie Bot^7
+[Thu Nov 07 20:59:06 2013]  ClientConnect: 1
+[Thu Nov 07 20:59:06 2013]  mlog:Player ^8Endragore, connected. With IP - 173.17.28.229:-2785 
+[Thu Nov 07 20:59:26 2013]  ClientBegin: 1
+[Thu Nov 07 20:59:26 2013]  say: ^8Endragore: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Nov 07 20:59:37 2013]  ClientDisconnect: 1
+[Fri Nov 08 01:35:31 2013]  ClientConnect: 1
+[Fri Nov 08 01:35:31 2013]  mlog:Player t-5555, connected. With IP - 67.6.161.228:25885 
+[Fri Nov 08 01:35:52 2013]  ClientBegin: 1
+[Fri Nov 08 01:36:17 2013]  say: ^0Dark^6Spyro: npc spawn stcommander
+[Fri Nov 08 01:36:17 2013]  say: ^0Dark^6Spyro: npc spawn rockettrooper
+[Fri Nov 08 01:36:18 2013]  say: ^0Dark^6Spyro: npc spawn rodian
+[Fri Nov 08 01:36:21 2013]  say: ^0Dark^6Spyro: npc spawn stcommander
+[Fri Nov 08 01:36:21 2013]  say: ^0Dark^6Spyro: npc spawn stormtrooper
+[Fri Nov 08 01:36:23 2013]  ShutdownGame:
+[Fri Nov 08 01:36:23 2013]  ------------------------------------------------------------

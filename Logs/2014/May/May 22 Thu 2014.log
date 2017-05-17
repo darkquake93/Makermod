@@ -1,0 +1,26 @@
+[Thu May 22 15:56:04 2014]  ------------------------------------------------------------
+[Thu May 22 15:56:04 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu May 22 15:56:05 2014]  ClientConnect: 0
+[Thu May 22 15:56:13 2014]  ClientBegin: 0
+[Thu May 22 15:57:57 2014]  ClientDisconnect: 0
+[Thu May 22 17:56:04 2014]  Exit: Timelimit hit.
+[Thu May 22 22:58:05 2014]  ------------------------------------------------------------
+[Thu May 22 22:58:05 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 23 00:17:51 2014]  ClientConnect: 0
+[Fri May 23 00:17:51 2014]  mlog:Player Padawan, connected. With IP - 74.72.115.169:29070 
+[Fri May 23 00:18:11 2014]  ClientBegin: 0
+[Fri May 23 00:18:23 2014]  ClientDisconnect: 0
+[Fri May 23 00:20:22 2014]  ClientConnect: 0
+[Fri May 23 00:20:22 2014]  mlog:Player Padawan, connected. With IP - 74.72.115.169:29070 
+[Fri May 23 00:20:42 2014]  ClientBegin: 0
+[Fri May 23 00:21:23 2014]  Kill: 0 0 39: ^1Sonic killed ^1Sonic by MOD_SUICIDE
+[Fri May 23 00:25:05 2014]  ClientDisconnect: 0
+[Fri May 23 00:57:58 2014]  Exit: Timelimit hit.
+[Fri May 23 06:16:41 2014]  ClientConnect: 0
+[Fri May 23 06:16:41 2014]  mlog:Player Codie, connected. With IP - 24.93.115.39:29070 
+[Fri May 23 06:17:02 2014]  ClientConnect: 1
+[Fri May 23 06:17:02 2014]  mlog:Player Padawan, connected. With IP - 24.208.160.57:29070 
+[Fri May 23 06:17:19 2014]  ClientBegin: 1
+[Fri May 23 06:17:21 2014]  ClientBegin: 0
+[Fri May 23 06:17:40 2014]  ShutdownGame:
+[Fri May 23 06:17:40 2014]  ------------------------------------------------------------

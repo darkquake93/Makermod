@@ -1,0 +1,640 @@
+[Thu Sep 15 01:28:27 2016]  ------------------------------------------------------------
+[Thu Sep 15 01:28:27 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\0\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 15 01:28:29 2016]  ClientConnect: 0
+[Thu Sep 15 01:28:35 2016]  ClientBegin: 0
+[Thu Sep 15 01:28:43 2016]  Item: 0 weapon_melee
+[Thu Sep 15 01:32:53 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Thu Sep 15 01:39:05 2016]  ClientDisconnect: 0
+[Thu Sep 15 02:58:41 2016]  ClientConnect: 0
+[Thu Sep 15 02:58:41 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Sep 15 02:58:55 2016]  ClientBegin: 0
+[Thu Sep 15 02:59:13 2016]  Item: 0 weapon_melee
+[Thu Sep 15 03:01:52 2016]  ClientDisconnect: 0
+[Thu Sep 15 03:28:24 2016]  ClientConnect: 0
+[Thu Sep 15 03:28:24 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Sep 15 03:28:38 2016]  ClientBegin: 0
+[Thu Sep 15 03:28:52 2016]  Item: 0 weapon_melee
+[Thu Sep 15 03:30:21 2016]  ClientDisconnect: 0
+[Thu Sep 15 03:30:44 2016]  ClientConnect: 0
+[Thu Sep 15 03:30:44 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Sep 15 03:30:57 2016]  ClientBegin: 0
+[Thu Sep 15 03:31:11 2016]  Item: 0 weapon_melee
+[Thu Sep 15 03:32:12 2016]  ClientDisconnect: 0
+[Thu Sep 15 03:32:33 2016]  ClientConnect: 0
+[Thu Sep 15 03:32:33 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Sep 15 03:32:46 2016]  ClientBegin: 0
+[Thu Sep 15 03:33:00 2016]  Item: 0 weapon_melee
+[Thu Sep 15 03:33:33 2016]  ClientDisconnect: 0
+[Thu Sep 15 10:52:21 2016]  ClientConnect: 0
+[Thu Sep 15 10:52:21 2016]  mlog:Player ^0Rouf, connected. With IP - 46.39.4.45:29070 
+[Thu Sep 15 10:52:48 2016]  ClientBegin: 0
+[Thu Sep 15 12:26:23 2016]  ClientDisconnect: 0
+[Thu Sep 15 13:59:28 2016]  ClientConnect: 0
+[Thu Sep 15 13:59:28 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.162.175:29070 
+[Thu Sep 15 13:59:50 2016]  ClientBegin: 0
+[Thu Sep 15 14:02:19 2016]  Item: 0 weapon_melee
+[Thu Sep 15 14:07:22 2016]  ClientConnect: 1
+[Thu Sep 15 14:07:22 2016]  mlog:Player Padawan, connected. With IP - 14.192.214.14:9813 
+[Thu Sep 15 14:07:46 2016]  ClientBegin: 1
+[Thu Sep 15 14:08:15 2016]  ClientDisconnect: 1
+[Thu Sep 15 14:08:30 2016]  ClientConnect: 1
+[Thu Sep 15 14:08:30 2016]  mlog:Player ^2E^0xil^2e^0_^2A^0ndy, connected. With IP - 14.192.214.14:9813 
+[Thu Sep 15 14:08:46 2016]  ClientBegin: 1
+[Thu Sep 15 14:09:45 2016]  print "^2E^0xil^2e^0_^2A^0ndy^7 @@@PLRENAME ^0{^2Ex^0i^2le^0} ^2A^0ndy
+"[Thu Sep 15 14:09:45 2016]  say: ^0Shadow^5seer: тут я
+[Thu Sep 15 14:10:25 2016]  say: ^0Shadow^5seer: hello...?
+[Thu Sep 15 14:10:29 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: hi
+[Thu Sep 15 14:10:40 2016]  say: ^0Shadow^5seer: i gues u dont speak russian
+[Thu Sep 15 14:10:44 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: yes
+[Thu Sep 15 14:10:57 2016]  say: ^0Shadow^5seer: ok, thats not so bad
+[Thu Sep 15 14:11:05 2016]  say: ^0Shadow^5seer: turn right
+[Thu Sep 15 14:11:11 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ?
+[Thu Sep 15 14:11:13 2016]  Item: 1 ammo_all
+[Thu Sep 15 14:11:39 2016]  say: ^0Shadow^5seer: and welcome to by garden of bones
+[Thu Sep 15 14:11:45 2016]  say: ^0Shadow^5seer: my*
+[Thu Sep 15 14:11:48 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: u built?
+[Thu Sep 15 14:11:51 2016]  say: ^0Shadow^5seer: yes
+[Thu Sep 15 14:12:01 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: nice
+[Thu Sep 15 14:12:05 2016]  say: ^0Shadow^5seer: thanks
+[Thu Sep 15 14:12:05 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: u are the owner?
+[Thu Sep 15 14:12:08 2016]  say: ^0Shadow^5seer: no
+[Thu Sep 15 14:12:15 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ouh i see
+[Thu Sep 15 14:12:31 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: well actually i can build but
+[Thu Sep 15 14:12:40 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: but much experience like this
+[Thu Sep 15 14:12:47 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: but i usallly use scripts :P
+[Thu Sep 15 14:13:02 2016]  say: ^0Shadow^5seer: this one is a script
+[Thu Sep 15 14:13:10 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ouh rly o,o
+[Thu Sep 15 14:13:33 2016]  say: ^0Shadow^5seer: i can show, though i cant remove it first)
+[Thu Sep 15 14:13:38 2016]  say: ^0Shadow^5seer: saved as mapobs
+[Thu Sep 15 14:13:46 2016]  say: ^0Shadow^5seer: maybe in another place
+[Thu Sep 15 14:13:54 2016]  say: ^0Shadow^5seer: My origin is: (20480 -14936 1478) - You can teleport here with /mtelelast
+
+[Thu Sep 15 14:14:00 2016]  ClientDisconnect: 1
+[Thu Sep 15 14:14:03 2016]  ClientConnect: 1
+[Thu Sep 15 14:14:03 2016]  mlog:Player ^0{^2Ex^0i^2le^0} ^2A^0ndy, connected. With IP - 14.192.214.14:9813 
+[Thu Sep 15 14:14:13 2016]  ClientBegin: 1
+[Thu Sep 15 14:14:17 2016]  say: ^0Shadow^5seer: My origin is: (18146 -15831 1808) - You can teleport here with /mtelelast
+
+[Thu Sep 15 14:14:53 2016]  say: ^0Shadow^5seer: what a huge ping
+[Thu Sep 15 14:17:50 2016]  ClientConnect: 2
+[Thu Sep 15 14:17:50 2016]  mlog:Player kosher, connected. With IP - 91.230.25.125:29070 
+[Thu Sep 15 14:18:24 2016]  ClientBegin: 2
+[Thu Sep 15 14:19:33 2016]  say: kosher: ет
+[Thu Sep 15 14:19:59 2016]  Kill: 2 2 39: kosher killed kosher by MOD_SUICIDE
+[Thu Sep 15 14:19:59 2016]  setteam:  2 FREE SPECTATOR
+[Thu Sep 15 14:19:59 2016]  ClientBegin: 2
+[Thu Sep 15 14:20:05 2016]  setteam:  2 SPECTATOR FREE
+[Thu Sep 15 14:20:05 2016]  ClientBegin: 2
+[Thu Sep 15 14:21:10 2016]  say: kosher: привет
+[Thu Sep 15 14:21:14 2016]  say: ^0Shadow^5seer: привет
+[Thu Sep 15 14:21:35 2016]  say: kosher: хуево мне
+[Thu Sep 15 14:21:42 2016]  say: ^0Shadow^5seer: до сих пор?
+[Thu Sep 15 14:21:44 2016]  Kill: 2 1 5: kosher killed ^0{^2Ex^0i^2le^0} ^2A^0ndy by MOD_BRYAR_PISTOL_ALT
+[Thu Sep 15 14:21:51 2016]  say: kosher: ниче не изменилось вот и хуево
+[Thu Sep 15 14:22:01 2016]  say: ^0Shadow^5seer: ну... хуево что хуево
+[Thu Sep 15 14:22:09 2016]  say: kosher: настроение
+[Thu Sep 15 14:22:46 2016]  say: kosher: где твой ребенок
+[Thu Sep 15 14:22:55 2016]  Kill: 2 1 5: kosher killed ^0{^2Ex^0i^2le^0} ^2A^0ndy by MOD_BRYAR_PISTOL_ALT
+[Thu Sep 15 14:23:02 2016]  Kill: 2 2 39: kosher killed kosher by MOD_SUICIDE
+[Thu Sep 15 14:23:02 2016]  setteam:  2 FREE SPECTATOR
+[Thu Sep 15 14:23:02 2016]  ClientBegin: 2
+[Thu Sep 15 14:23:08 2016]  say: kosher: s где
+[Thu Sep 15 14:23:10 2016]  setteam:  2 SPECTATOR FREE
+[Thu Sep 15 14:23:10 2016]  ClientBegin: 2
+[Thu Sep 15 14:23:18 2016]  say: ^0Shadow^5seer: да откуда я знаю
+[Thu Sep 15 14:23:25 2016]  say: kosher: ему скока лет
+[Thu Sep 15 14:23:30 2016]  say: ^0Shadow^5seer: опять не знаю
+[Thu Sep 15 14:23:53 2016]  say: kosher: я прежде чем знакомлюсь спрашиваю возраст
+[Thu Sep 15 14:24:06 2016]  say: ^0Shadow^5seer: а я и не знакомлюсь толком
+[Thu Sep 15 14:24:17 2016]  say: kosher: у тебя много друзей?
+[Thu Sep 15 14:24:37 2016]  say: ^0Shadow^5seer: мне все равно, кто скрывается за игровым ником, если я с этим человеком не собираюсь общаться вне игры
+[Thu Sep 15 14:24:44 2016]  say: ^0Shadow^5seer: друзей много
+[Thu Sep 15 14:25:04 2016]  say: ^0Shadow^5seer: но одних я знаю в реале, а других мне достаточно знать только в игре
+[Thu Sep 15 14:25:24 2016]  say: kosher: сек
+[Thu Sep 15 14:25:32 2016]  say: ^0Shadow^5seer: тебя я не знаю, и мне не важно, как тебя зовут и сколько мне лет. общаться это не мешает
+[Thu Sep 15 14:25:43 2016]  say: ^0Shadow^5seer: и сколько тебе лет то есть
+[Thu Sep 15 14:26:12 2016]  say: kosher: я по телефону говорил
+[Thu Sep 15 14:26:18 2016]  say: ^0Shadow^5seer: консоль
+[Thu Sep 15 14:26:49 2016]  say: kosher: общался в реале с теми кто из игры?
+[Thu Sep 15 14:26:59 2016]  say: ^0Shadow^5seer: с некоторыми
+[Thu Sep 15 14:27:02 2016]  say: ^0Shadow^5seer: мало с кем
+[Thu Sep 15 14:27:09 2016]  say: kosher: с фуриусом?
+[Thu Sep 15 14:27:14 2016]  say: ^0Shadow^5seer: я и есть фуриус
+[Thu Sep 15 14:27:23 2016]  say: kosher: darth furious?
+[Thu Sep 15 14:27:26 2016]  say: ^0Shadow^5seer: да
+[Thu Sep 15 14:27:32 2016]  say: kosher: а где твой желтый ник
+[Thu Sep 15 14:27:35 2016]  Kill: 2 1 3: kosher killed ^0{^2Ex^0i^2le^0} ^2A^0ndy by MOD_SABER
+[Thu Sep 15 14:27:44 2016]  say: ^0Shadow^5seer: в прошлом наверное
+[Thu Sep 15 14:27:53 2016]  say: kosher: поменял жизнь?
+[Thu Sep 15 14:27:59 2016]  say: ^0Shadow^5seer: нет, поменял ник
+[Thu Sep 15 14:28:09 2016]  say: kosher: ты меня знаешь
+[Thu Sep 15 14:28:13 2016]  say: kosher: я из лугормода
+[Thu Sep 15 14:28:17 2016]  say: ^0Shadow^5seer: ну может быть. не помню
+[Thu Sep 15 14:28:21 2016]  say: kosher: veyron-45
+[Thu Sep 15 14:28:25 2016]  say: ^0Shadow^5seer: а, точно
+[Thu Sep 15 14:29:02 2016]  Kill: 1 2 5: ^0{^2Ex^0i^2le^0} ^2A^0ndy killed kosher by MOD_BRYAR_PISTOL_ALT
+[Thu Sep 15 14:29:14 2016]  Kill: 1 2 5: ^0{^2Ex^0i^2le^0} ^2A^0ndy killed kosher by MOD_BRYAR_PISTOL_ALT
+[Thu Sep 15 14:29:24 2016]  Kill: 2 1 3: kosher killed ^0{^2Ex^0i^2le^0} ^2A^0ndy by MOD_SABER
+[Thu Sep 15 14:29:41 2016]  Kill: 1022 2 38: <world> killed kosher by MOD_FALLING
+[Thu Sep 15 14:29:54 2016]  say: kosher: сервера щас пустые
+[Thu Sep 15 14:30:05 2016]  say: ^0Shadow^5seer: да несколько лет уже
+[Thu Sep 15 14:30:13 2016]  say: ^0Shadow^5seer: если ты про мэйкер
+[Thu Sep 15 14:30:37 2016]  say: kosher: раньше можно было на рупаблике поиграть
+[Thu Sep 15 14:30:43 2016]  say: kosher: а щас там задроты какие то
+[Thu Sep 15 14:30:49 2016]  say: ^0Shadow^5seer: ну это сииильно раньше
+[Thu Sep 15 14:30:53 2016]  say: ^0Shadow^5seer: года три назад
+[Thu Sep 15 14:30:59 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: sry
+[Thu Sep 15 14:31:06 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: lol kosher
+[Thu Sep 15 14:31:09 2016]  say: ^0Shadow^5seer: wb
+[Thu Sep 15 14:31:12 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: thx
+[Thu Sep 15 14:31:17 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: what happen? crash?
+[Thu Sep 15 14:31:21 2016]  say: ^0Shadow^5seer: nope
+[Thu Sep 15 14:31:32 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: kosher u came here to find me o,o
+[Thu Sep 15 14:31:34 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ?
+[Thu Sep 15 14:31:37 2016]  say: kosher: no
+[Thu Sep 15 14:31:41 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: then?
+[Thu Sep 15 14:31:44 2016]  say: ^0Shadow^5seer: u just reconnected and then stayed there with huge ping
+[Thu Sep 15 14:31:45 2016]  say: kosher: not much active servers
+[Thu Sep 15 14:31:50 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: lol
+[Thu Sep 15 14:31:59 2016]  say: ^0Shadow^5seer: and u still have it
+[Thu Sep 15 14:32:10 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: that is my standard :/
+[Thu Sep 15 14:32:50 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Thu Sep 15 14:32:57 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: :/
+[Thu Sep 15 14:33:00 2016]  say: kosher: мало новых людей приходит
+[Thu Sep 15 14:33:10 2016]  say: ^0Shadow^5seer: а откуда им взяться?
+[Thu Sep 15 14:33:14 2016]  say: ^0Shadow^5seer: в старой то игре
+[Thu Sep 15 14:33:33 2016]  say: kosher: а те кто приходят то надолго не засиживаются
+[Thu Sep 15 14:33:53 2016]  say: ^0Shadow^5seer: засиживаются только те, кто тут с самого начала)
+[Thu Sep 15 14:34:28 2016]  say: kosher: че за лаги
+[Thu Sep 15 14:34:45 2016]  say: ^0Shadow^5seer: да хз
+[Thu Sep 15 14:34:53 2016]  ClientDisconnect: 1
+[Thu Sep 15 14:35:03 2016]  say: ^0Shadow^5seer: вот изза него видимо
+[Thu Sep 15 14:35:09 2016]  say: ^0Shadow^5seer: скрипт у него завис
+[Thu Sep 15 14:35:13 2016]  ClientConnect: 1
+[Thu Sep 15 14:35:13 2016]  mlog:Player ^0{^2Ex^0i^2le^0} ^2A^0ndy, connected. With IP - 14.192.214.14:9813 
+[Thu Sep 15 14:35:16 2016]  say: kosher: не играют потому что нет хороших серверов
+[Thu Sep 15 14:35:19 2016]  say: ^0Shadow^5seer: не умеет пользоваться
+[Thu Sep 15 14:35:27 2016]  say: kosher: раньше было 3 лугормода
+[Thu Sep 15 14:35:30 2016]  ClientBegin: 1
+[Thu Sep 15 14:35:35 2016]  say: kosher: и на них было 40 людей
+[Thu Sep 15 14:35:39 2016]  say: kosher: всего
+[Thu Sep 15 14:35:47 2016]  say: ^0Shadow^5seer: dont. ever. hold. script. binds!
+[Thu Sep 15 14:35:50 2016]  say: kosher: а щас нет вообще
+[Thu Sep 15 14:35:58 2016]  say: kosher: от этого не лагает
+[Thu Sep 15 14:36:06 2016]  say: ^0Shadow^5seer: никогда им особо не интересовался
+[Thu Sep 15 14:36:12 2016]  say: ^0Shadow^5seer: лугором
+[Thu Sep 15 14:36:24 2016]  say: kosher: там больше возможностей
+[Thu Sep 15 14:36:28 2016]  say: kosher: по строительству
+[Thu Sep 15 14:36:42 2016]  say: ^0Shadow^5seer: для простых игроков?
+[Thu Sep 15 14:36:45 2016]  say: kosher: нет
+[Thu Sep 15 14:36:49 2016]  say: ^0Shadow^5seer: ну вот и все
+[Thu Sep 15 14:36:58 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Thu Sep 15 14:37:01 2016]  say: kosher: строительство это читерство
+[Thu Sep 15 14:37:09 2016]  say: ^0Shadow^5seer: а тут это цель игры
+[Thu Sep 15 14:37:10 2016]  say: kosher: а на лугормоде рпг
+[Thu Sep 15 14:37:29 2016]  say: kosher: я хотел сделать русский лугормод
+[Thu Sep 15 14:37:33 2016]  say: ^0Shadow^5seer: ну и не думаю что там можно писать скрипты способностей)
+[Thu Sep 15 14:37:41 2016]  say: kosher: можно
+[Thu Sep 15 14:37:43 2016]  say: kosher: для админов
+[Thu Sep 15 14:37:44 2016]  say: ^0Shadow^5seer: ну ок
+[Thu Sep 15 14:37:51 2016]  say: ^0Shadow^5seer: ну опять же не для всех
+[Thu Sep 15 14:37:57 2016]  say: ^0Shadow^5seer: нахер такое надо
+[Thu Sep 15 14:38:18 2016]  say: kosher: эта игра не только строительство
+[Thu Sep 15 14:38:46 2016]  tell: kosher to ^0{^2Ex^0i^2le^0} ^2A^0ndy: kyle is dumb
+[Thu Sep 15 14:38:52 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: lol
+[Thu Sep 15 14:39:04 2016]  say: ^0Shadow^5seer: игра конечно
+[Thu Sep 15 14:39:06 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: well idk how to use this weird script xD
+[Thu Sep 15 14:39:27 2016]  say: ^0Shadow^5seer: then why dont u make your own?
+[Thu Sep 15 14:39:33 2016]  say: kosher: тут еще можно подулэлитчя
+[Thu Sep 15 14:39:39 2016]  say: ^0Shadow^5seer: you;; know how they work
+[Thu Sep 15 14:39:45 2016]  Kill: 1022 2 3: <world> killed kosher by MOD_SABER
+[Thu Sep 15 14:39:51 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: well idk how to make one with makermod codes
+[Thu Sep 15 14:39:54 2016]  say: kosher: или с оружием 
+[Thu Sep 15 14:39:59 2016]  say: ^0Shadow^5seer: тут баланс и механика вроде сломаны нахер
+[Thu Sep 15 14:40:02 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: so many codes like mplace mdrop mgrabbing confuse me :P
+[Thu Sep 15 14:40:07 2016]  Kill: 1022 2 31: <world> killed kosher by MOD_FORCE_DARK
+[Thu Sep 15 14:40:10 2016]  say: kosher: на макермоде
+[Thu Sep 15 14:40:28 2016]  say: ^0Shadow^5seer: you have to understand each of them and place them in correct order
+[Thu Sep 15 14:40:31 2016]  say: kosher: поэтому надов несколько модовиграь
+[Thu Sep 15 14:40:40 2016]  say: ^0Shadow^5seer: and they shall work
+[Thu Sep 15 14:40:46 2016]  Kill: 1022 2 3: <world> killed kosher by MOD_SABER
+[Thu Sep 15 14:40:49 2016]  say: ^0Shadow^5seer: про форсмод слышал?
+[Thu Sep 15 14:40:56 2016]  say: kosher: да
+[Thu Sep 15 14:41:03 2016]  Kill: 1022 2 3: <world> killed kosher by MOD_SABER
+[Thu Sep 15 14:41:06 2016]  say: kosher: но его уже нет наверно
+[Thu Sep 15 14:41:09 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: what is kp_slash?
+[Thu Sep 15 14:41:12 2016]  say: ^0Shadow^5seer: у меня есть)
+[Thu Sep 15 14:41:14 2016]  say: kosher: в 2012 был
+[Thu Sep 15 14:41:18 2016]  Kill: 1022 2 3: <world> killed kosher by MOD_SABER
+[Thu Sep 15 14:41:19 2016]  say: kosher: сервер
+[Thu Sep 15 14:41:27 2016]  say: ^0Shadow^5seer: а, ну сервер и был так себе
+[Thu Sep 15 14:41:31 2016]  Kill: 1022 2 3: <world> killed kosher by MOD_SABER
+[Thu Sep 15 14:41:36 2016]  say: ^0Shadow^5seer: а так это идеальный мод для рп
+[Thu Sep 15 14:41:42 2016]  say: kosher: там реалистичный мечь?
+[Thu Sep 15 14:41:48 2016]  say: ^0Shadow^5seer: в том числе
+[Thu Sep 15 14:41:51 2016]  Kill: 1022 2 3: <world> killed kosher by MOD_SABER
+[Thu Sep 15 14:41:53 2016]  say: kosher: это плохо
+[Thu Sep 15 14:42:05 2016]  say: ^0Shadow^5seer: так он не для того
+[Thu Sep 15 14:42:18 2016]  say: kosher: на ожп до сих пор делают рп
+[Thu Sep 15 14:42:20 2016]  say: ^0Shadow^5seer: кроме мечей там еще гора классов нефорсъюзеров
+[Thu Sep 15 14:42:24 2016]  Kill: 1022 2 3: <world> killed kosher by MOD_SABER
+[Thu Sep 15 14:42:31 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Thu Sep 15 14:42:33 2016]  say: kosher: вот если бы для басежки такое было
+[Thu Sep 15 14:42:37 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: xD
+[Thu Sep 15 14:42:40 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: teach me?
+[Thu Sep 15 14:42:43 2016]  Kill: 1 2 0: ^0{^2Ex^0i^2le^0} ^2A^0ndy killed kosher by MOD_UNKNOWN
+[Thu Sep 15 14:42:44 2016]  say: ^0Shadow^5seer: то это была бы уже не басежка
+[Thu Sep 15 14:42:46 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: LOL?
+[Thu Sep 15 14:42:50 2016]  say: ^0Shadow^5seer: или ты про рп-сервер?
+[Thu Sep 15 14:42:51 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: it does hurt
+[Thu Sep 15 14:42:52 2016]  say: kosher: мод на басежку
+[Thu Sep 15 14:42:53 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: but less 
+[Thu Sep 15 14:43:02 2016]  say: ^0Shadow^5seer: все моды на басежку
+[Thu Sep 15 14:43:05 2016]  say: kosher: а форсмод это мод на ожп
+[Thu Sep 15 14:43:10 2016]  say: ^0Shadow^5seer: неа
+[Thu Sep 15 14:43:16 2016]  say: ^0Shadow^5seer: он у меня без ожп стоит
+[Thu Sep 15 14:43:18 2016]  say: kosher: т.к там новая механика мечей
+[Thu Sep 15 14:43:22 2016]  say: ^0Shadow^5seer: и?
+[Thu Sep 15 14:43:26 2016]  say: kosher: он на базе ожп сделан
+[Thu Sep 15 14:43:32 2016]  say: ^0Shadow^5seer: это эволюшн оф комбат на ожп
+[Thu Sep 15 14:43:42 2016]  say: ^0Shadow^5seer: а форсмод сам по себе
+[Thu Sep 15 14:44:23 2016]  Kill: 1 2 3: ^0{^2Ex^0i^2le^0} ^2A^0ndy killed kosher by MOD_SABER
+[Thu Sep 15 14:44:32 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: teach me?
+[Thu Sep 15 14:44:35 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: plz some tricks :P
+[Thu Sep 15 14:44:37 2016]  say: kosher: jk3files закрыли
+[Thu Sep 15 14:44:40 2016]  say: ^0Shadow^5seer: not right now
+[Thu Sep 15 14:44:44 2016]  say: kosher: суки
+[Thu Sep 15 14:44:50 2016]  say: ^0Shadow^5seer: не слышал даже
+[Thu Sep 15 14:45:04 2016]  say: kosher: еще год назад
+[Thu Sep 15 14:45:09 2016]  say: ^0Shadow^5seer: ну или слышал но не часто заглядывал
+[Thu Sep 15 14:45:15 2016]  say: ^0Shadow^5seer: я про сам сайт
+[Thu Sep 15 14:45:18 2016]  say: ^0Shadow^5seer: не слышал
+[Thu Sep 15 14:45:37 2016]  say: ^0Shadow^5seer: сначала все с файлфронта качал, потом с жкхаба
+[Thu Sep 15 14:45:44 2016]  say: kosher: кароче ты сказал что там новая механика мечей
+[Thu Sep 15 14:45:52 2016]  say: kosher: вроде нет
+[Thu Sep 15 14:46:01 2016]  say: kosher: по скриншотам это басежка
+[Thu Sep 15 14:46:12 2016]  say: kosher: тока с новыми силами
+[Thu Sep 15 14:46:21 2016]  say: ^0Shadow^5seer: и новыми стилями для мечей
+[Thu Sep 15 14:46:25 2016]  say: kosher: да
+[Thu Sep 15 14:46:32 2016]  say: ^0Shadow^5seer: и меч наносит куда больше урона
+[Thu Sep 15 14:46:46 2016]  say: ^0Shadow^5seer: и блокирует только когда стоишь на месте или идешь пешком
+[Thu Sep 15 14:46:51 2016]  Kill: 1 2 3: ^0{^2Ex^0i^2le^0} ^2A^0ndy killed kosher by MOD_SABER
+[Thu Sep 15 14:47:04 2016]  say: ^0Shadow^5seer: сил новых нет, есть четвертый ранг уже существующих
+[Thu Sep 15 14:47:14 2016]  say: kosher: как в лугормоде
+[Thu Sep 15 14:47:19 2016]  say: ^0Shadow^5seer: но меня там джедаи вообще не интересуют
+[Thu Sep 15 14:47:33 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: o,o
+[Thu Sep 15 14:47:42 2016]  Kill: 1022 2 3: <world> killed kosher by MOD_SABER
+[Thu Sep 15 14:48:03 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: notarget :P
+[Thu Sep 15 14:48:13 2016]  Kill: 1022 2 3: <world> killed kosher by MOD_SABER
+[Thu Sep 15 14:48:15 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Thu Sep 15 14:48:41 2016]  say: ^0Shadow^5seer: нотаргет вруби
+[Thu Sep 15 14:48:49 2016]  say: ^0Shadow^5seer: человек скрипты тестит
+[Thu Sep 15 14:48:58 2016]  say: ^0Shadow^5seer: а ты ему подопытного отвлекаешь
+[Thu Sep 15 14:49:27 2016]  say: ^0Shadow^5seer: aim higher
+[Thu Sep 15 14:49:30 2016]  Kill: 1 2 36: ^0{^2Ex^0i^2le^0} ^2A^0ndy killed kosher by MOD_CRUSH
+[Thu Sep 15 14:49:34 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ouh?
+[Thu Sep 15 14:49:43 2016]  say: ^0Shadow^5seer: yes, like that
+[Thu Sep 15 14:49:55 2016]  Kill: 1022 2 3: <world> killed kosher by MOD_SABER
+[Thu Sep 15 14:50:00 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: o,o
+[Thu Sep 15 14:50:04 2016]  say: ^0Shadow^5seer: ты знаешь что такое нотаргет?
+[Thu Sep 15 14:50:09 2016]  say: kosher: da
+[Thu Sep 15 14:50:13 2016]  say: ^0Shadow^5seer: так вруби
+[Thu Sep 15 14:50:56 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: lol
+[Thu Sep 15 14:51:19 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: o,o
+[Thu Sep 15 14:51:39 2016]  say: ^0Shadow^5seer: вспоминаю свое старье)
+[Thu Sep 15 14:52:01 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: lol
+[Thu Sep 15 14:52:03 2016]  say: ^0Shadow^5seer: наступи)
+[Thu Sep 15 14:53:04 2016]  say: ^0Shadow^5seer: it hits only on a fixed range
+[Thu Sep 15 14:53:13 2016]  say: ^0Shadow^5seer: not the best scripts
+[Thu Sep 15 14:53:24 2016]  say: ^0Shadow^5seer: well noone uploads good ones
+[Thu Sep 15 14:53:38 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: yeah i got this from the owner of the server :P
+[Thu Sep 15 14:53:40 2016]  say: ^0Shadow^5seer: everyone leave best ones for themselves
+[Thu Sep 15 14:54:27 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: how to set the position with my crosschair/
+[Thu Sep 15 14:54:29 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ?
+[Thu Sep 15 14:54:39 2016]  say: ^0Shadow^5seer: you need makermodule
+[Thu Sep 15 14:54:45 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: makermodule?
+[Thu Sep 15 14:54:52 2016]  say: ^0Shadow^5seer: it allows you to use /markt cmd
+[Thu Sep 15 14:55:05 2016]  say: ^0Shadow^5seer: and some other not so useful
+[Thu Sep 15 14:55:12 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: how to get it?
+[Thu Sep 15 14:55:22 2016]  say: ^0Shadow^5seer: look for it in internet
+[Thu Sep 15 14:56:02 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: what is it again makermoudle?
+[Thu Sep 15 14:56:17 2016]  say: ^0Shadow^5seer: a module that allows u to use additional cmds
+[Thu Sep 15 14:56:26 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: k
+[Thu Sep 15 14:57:57 2016]  say: kosher: скучнл
+[Thu Sep 15 14:58:23 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: um
+[Thu Sep 15 14:58:29 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: i didnt find anything about it 
+[Thu Sep 15 14:58:33 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: what should i search?
+[Thu Sep 15 14:58:40 2016]  say: ^0Shadow^5seer: попробуй меня поподкидывать над собой силой
+[Thu Sep 15 14:58:59 2016]  say: ^0Shadow^5seer: idk, i found it in the internet a few ywars ago
+[Thu Sep 15 14:59:07 2016]  say: ^0Shadow^5seer: idk where to look for it now
+[Thu Sep 15 14:59:14 2016]  say: ^0Shadow^5seer: слышишь?
+[Thu Sep 15 14:59:19 2016]  say: kosher: силы нет
+[Thu Sep 15 14:59:27 2016]  say: ^0Shadow^5seer: ну так mempower
+[Thu Sep 15 14:59:51 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: xD
+[Thu Sep 15 14:59:57 2016]  say: ^0Shadow^5seer: leave us alone for a while please
+[Thu Sep 15 15:00:01 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: k :(
+[Thu Sep 15 15:00:03 2016]  say: ^0Shadow^5seer: try it on npcs
+[Thu Sep 15 15:00:05 2016]  say: kosher: лучше
+[Thu Sep 15 15:00:12 2016]  say: kosher: в теннис поиграть
+[Thu Sep 15 15:00:14 2016]  say: ^0Shadow^5seer: еще разок
+[Thu Sep 15 15:00:19 2016]  say: ^0Shadow^5seer: я проверяю кое что просто
+[Thu Sep 15 15:01:01 2016]  say: ^0Shadow^5seer: ага, хорошо
+[Thu Sep 15 15:01:26 2016]  say: ^0Shadow^5seer: проверял, не будет ли мне сла мешать быть в роли волебольного мяча)
+[Thu Sep 15 15:01:37 2016]  say: ^0Shadow^5seer: сам раньше без сил был, теперь решил поставить
+[Thu Sep 15 15:01:39 2016]  say: kosher: сла?
+[Thu Sep 15 15:01:45 2016]  say: ^0Shadow^5seer: сила
+[Thu Sep 15 15:01:57 2016]  say: kosher: f
+[Thu Sep 15 15:02:00 2016]  say: kosher: а
+[Thu Sep 15 15:02:06 2016]  say: ^0Shadow^5seer: а то бесят всякие толкающиеся и вытягивающие оружие чудики
+[Thu Sep 15 15:02:14 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^4Kagebunshin!!
+[Thu Sep 15 15:02:16 2016]  say: ^0Shadow^5seer: теперь будет сопротивляемость к этому
+[Thu Sep 15 15:02:32 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^5Chidori!!
+[Thu Sep 15 15:02:48 2016]  say: kosher: ето скрипты из жк3файлс
+[Thu Sep 15 15:02:57 2016]  say: kosher: я вспомнил
+[Thu Sep 15 15:03:04 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^6Rasengan!!
+[Thu Sep 15 15:03:29 2016]  say: ^0Shadow^5seer: владелец серва говорит, что это его работа
+[Thu Sep 15 15:03:43 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^4Ninja ^5Powers off
+[Thu Sep 15 15:03:44 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^4Ninja ^5Powers off
+[Thu Sep 15 15:03:57 2016]  say: ^0Shadow^5seer: херня в общем
+[Thu Sep 15 15:03:59 2016]  say: kosher: аниме смотришь,
+[Thu Sep 15 15:04:03 2016]  say: kosher: ?
+[Thu Sep 15 15:04:07 2016]  say: ^0Shadow^5seer: ну я понял что это из наруто
+[Thu Sep 15 15:04:10 2016]  say: ^0Shadow^5seer:  смотрю
+[Thu Sep 15 15:04:12 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1KATON GOKAKYU NO JUTSU!
+[Thu Sep 15 15:04:15 2016]  say: ^0Shadow^5seer: не смотрю*
+[Thu Sep 15 15:04:23 2016]  say: kosher: аниме херня
+[Thu Sep 15 15:04:47 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1KATON GOKAKYU NO JUTSU!
+[Thu Sep 15 15:04:51 2016]  say: ^0Shadow^5seer: если бы инопланетяне впервые приземлились в японии, у них бы сложилось неправильное мнение о землянах)
+[Thu Sep 15 15:04:53 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1KATON GOKAKYU NO JUTSU!
+[Thu Sep 15 15:04:55 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ...
+[Thu Sep 15 15:05:00 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: plz i leave u alone :/
+[Thu Sep 15 15:05:06 2016]  say: kosher: ok
+[Thu Sep 15 15:05:10 2016]  say: ^0Shadow^5seer: или они бы забрали своих давно потерянных сородичей с собой
+[Thu Sep 15 15:05:19 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1KATON GOKAKYU NO JUTSU!
+[Thu Sep 15 15:05:20 2016]  say: ^0Shadow^5seer: короче японцы вообще странные
+[Thu Sep 15 15:05:33 2016]  say: kosher: многие из рупаблике смотрят аниме
+[Thu Sep 15 15:05:34 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1KATON GOKAKYU NO JUTSU!
+[Thu Sep 15 15:05:52 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1KATON HOSENKA!!
+[Thu Sep 15 15:05:53 2016]  say: ^0Shadow^5seer: я тебе больше скажу, многие из россии вообще смотрят аниме
+[Thu Sep 15 15:05:59 2016]  say: kosher: да
+[Thu Sep 15 15:06:00 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^5CHIDORI!!
+[Thu Sep 15 15:06:11 2016]  say: ^0Shadow^5seer: ну на вкус и цвет
+[Thu Sep 15 15:06:12 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^5CHIDORI!!
+[Thu Sep 15 15:06:13 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1^0I haven't enough Chakra!
+[Thu Sep 15 15:06:28 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1KATON RYUKA NO JUTSU!!
+[Thu Sep 15 15:06:33 2016]  say: ^0Shadow^5seer: меня не только аниме, но и вообще все связанное с японей и их культурой отталкивает
+[Thu Sep 15 15:06:35 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^8Ahhhhh the Cursed Seal moves!!!!!
+[Thu Sep 15 15:06:42 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^8AAHH the Seal takes me over!!!!!
+[Thu Sep 15 15:06:46 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^5I am a Taijutsu Master!
+[Thu Sep 15 15:06:53 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^5Recover Chakra!!
+[Thu Sep 15 15:06:55 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1SHARINGAN!!
+[Thu Sep 15 15:07:05 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1MANGEKYOU SHARINGAN!!
+[Thu Sep 15 15:07:05 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1^0I haven't enough Chakra!
+[Thu Sep 15 15:07:08 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ...
+[Thu Sep 15 15:07:10 2016]  say: ^0Shadow^5seer: я тут только сегодня примерял новые эффекты вместо молнии)
+[Thu Sep 15 15:07:12 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: nab script
+[Thu Sep 15 15:07:17 2016]  say: ^0Shadow^5seer: right
+[Thu Sep 15 15:07:20 2016]  say: kosher: а китай
+[Thu Sep 15 15:07:31 2016]  say: ^0Shadow^5seer: а китай хз, он не такой попсовый
+[Thu Sep 15 15:07:44 2016]  say: ^0Shadow^5seer: о нем я на каждом шагу не слышу, так что он и не раздражает
+[Thu Sep 15 15:08:05 2016]  say: kosher: а израиль
+[Thu Sep 15 15:08:10 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: can i make it fly o,o
+[Thu Sep 15 15:08:12 2016]  say: ^0Shadow^5seer: как и китай
+[Thu Sep 15 15:08:24 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: xD
+[Thu Sep 15 15:08:28 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: LOL
+[Thu Sep 15 15:08:28 2016]  say: ^0Shadow^5seer: вот корея сейчас по попсовости на уровне японии
+[Thu Sep 15 15:08:37 2016]  Item: 0 ammo_all
+[Thu Sep 15 15:08:38 2016]  say: kosher: северная?
+[Thu Sep 15 15:08:45 2016]  say: ^0Shadow^5seer: хз если честно
+[Thu Sep 15 15:08:53 2016]  say: ^0Shadow^5seer: откуда кей-поп?
+[Thu Sep 15 15:08:59 2016]  say: kosher: хз
+[Thu Sep 15 15:09:02 2016]  say: ^0Shadow^5seer: ну вот
+[Thu Sep 15 15:09:10 2016]  say: ^0Shadow^5seer: видимо из обеих
+[Thu Sep 15 15:09:13 2016]  say: kosher: ты слушаеш метал?
+[Thu Sep 15 15:09:24 2016]  say: ^0Shadow^5seer: государства разные, национальность одна
+[Thu Sep 15 15:09:30 2016]  say: ^0Shadow^5seer: слушаю прямо сейчас
+[Thu Sep 15 15:09:38 2016]  say: kosher: руский,
+[Thu Sep 15 15:09:59 2016]  say: ^0Shadow^5seer: а такой бывает? о_О
+[Thu Sep 15 15:10:08 2016]  say: ^0Shadow^5seer: наверное я не хочу этого знать
+[Thu Sep 15 15:10:19 2016]  say: kosher: хочешь
+[Thu Sep 15 15:10:24 2016]  say: ^0Shadow^5seer: ^3Requesting ^3Orbital ^3Strike!
+[Thu Sep 15 15:10:25 2016]  say: kosher: ты уже хочешь
+[Thu Sep 15 15:10:36 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1MANGEKYOU SHARINGAN!!
+[Thu Sep 15 15:10:39 2016]  say: ^0Shadow^5seer: неа
+[Thu Sep 15 15:10:49 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1^0I haven't enough Chakra!
+[Thu Sep 15 15:10:52 2016]  say: ^0Shadow^5seer: серьезно, нет
+[Thu Sep 15 15:10:54 2016]  say: kosher: ты из россии?
+[Thu Sep 15 15:10:59 2016]  say: ^0Shadow^5seer: я из россии
+[Thu Sep 15 15:11:15 2016]  say: kosher: какой город
+[Thu Sep 15 15:11:23 2016]  say: ^0Shadow^5seer: санкт-петербург
+[Thu Sep 15 15:11:31 2016]  say: kosher: медисона встречал?
+[Thu Sep 15 15:11:36 2016]  say: ^0Shadow^5seer: кого?
+[Thu Sep 15 15:11:42 2016]  say: kosher: обзорщика игро
+[Thu Sep 15 15:11:44 2016]  say: kosher: игр
+[Thu Sep 15 15:11:50 2016]  say: ^0Shadow^5seer: я таким не интересуюсь
+[Thu Sep 15 15:11:56 2016]  say: kosher: почему
+[Thu Sep 15 15:11:58 2016]  say: ^0Shadow^5seer: возможно на самом деле
+[Thu Sep 15 15:12:12 2016]  say: ^0Shadow^5seer: как то меня звали потусить на фестиваль видеоблогеров
+[Thu Sep 15 15:12:26 2016]  say: ^0Shadow^5seer: никого там не знаю, зато денег заработал и халявной пиццы поел)
+[Thu Sep 15 15:12:40 2016]  say: kosher: на чем там зарабатывают
+[Thu Sep 15 15:12:41 2016]  say: ^0Shadow^5seer: не интересуюсь обзорами и прочей такой фигней
+[Thu Sep 15 15:12:48 2016]  say: ^0Shadow^5seer: я ж косплеер
+[Thu Sep 15 15:12:56 2016]  say: ^0Shadow^5seer: погулял там, пофоткался
+[Thu Sep 15 15:13:05 2016]  say: kosher: кого играл
+[Thu Sep 15 15:13:09 2016]  say: ^0Shadow^5seer: денег срубил, потусил
+[Thu Sep 15 15:13:19 2016]  say: ^0Shadow^5seer: эльдарского варлока из вархаммер 40000
+[Thu Sep 15 15:13:30 2016]  say: ^0Shadow^5seer: только не играл
+[Thu Sep 15 15:13:35 2016]  say: ^0Shadow^5seer: а просто был в образе
+[Thu Sep 15 15:13:39 2016]  say: kosher: а
+[Thu Sep 15 15:13:53 2016]  say: kosher: надо было макса пейна
+[Thu Sep 15 15:14:00 2016]  say: ^0Shadow^5seer: его бы не позвали
+[Thu Sep 15 15:14:03 2016]  say: kosher: почему
+[Thu Sep 15 15:14:13 2016]  say: ^0Shadow^5seer: ничего необычного в его внешнем виде
+[Thu Sep 15 15:14:28 2016]  say: kosher: кайла катврна
+[Thu Sep 15 15:14:38 2016]  say: ^0Shadow^5seer: его до меня уже делали)
+[Thu Sep 15 15:14:45 2016]  say: ^0Shadow^5seer: просто был в том, что у меня было
+[Thu Sep 15 15:14:54 2016]  say: ^0Shadow^5seer: по зв костюмов в планах пока нет
+[Thu Sep 15 15:15:02 2016]  say: kosher: так макс пейн
+[Thu Sep 15 15:15:09 2016]  say: kosher: побрился бы и майку надел
+[Thu Sep 15 15:15:16 2016]  say: ^0Shadow^5seer: так это просто мужик в просто одежде
+[Thu Sep 15 15:15:24 2016]  say: kosher: взял бы узи
+[Thu Sep 15 15:15:26 2016]  say: ^0Shadow^5seer: ты б сал с таким фоткаться?
+[Thu Sep 15 15:15:35 2016]  say: ^0Shadow^5seer: вообще заметил бы такого в толпе?
+[Thu Sep 15 15:15:51 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Thu Sep 15 15:15:57 2016]  say: kosher: вархамер тоже не играл
+[Thu Sep 15 15:15:58 2016]  say: ^0Shadow^5seer: эээ... шта
+[Thu Sep 15 15:16:04 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Thu Sep 15 15:16:12 2016]  say: ^0Shadow^5seer: это как вообще так
+[Thu Sep 15 15:16:14 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Thu Sep 15 15:16:32 2016]  say: kosher: все больше фестивали не делают?
+[Thu Sep 15 15:16:40 2016]  say: ^0Shadow^5seer: не понял
+[Thu Sep 15 15:16:47 2016]  say: kosher: косплейные
+[Thu Sep 15 15:16:51 2016]  say: ^0Shadow^5seer: делают
+[Thu Sep 15 15:17:02 2016]  say: ^0Shadow^5seer: в конце октября ближайший
+[Thu Sep 15 15:17:12 2016]  say: kosher: ты идешь?
+[Thu Sep 15 15:17:16 2016]  say: ^0Shadow^5seer: само собой
+[Thu Sep 15 15:17:21 2016]  say: kosher: кем
+[Thu Sep 15 15:17:26 2016]  say: ^0Shadow^5seer: эти неписи неубиваемые о_О
+[Thu Sep 15 15:17:31 2016]  say: ^0Shadow^5seer: иллитидом из днд
+[Thu Sep 15 15:17:38 2016]  say: kosher: че за днд
+[Thu Sep 15 15:17:47 2016]  say: ^0Shadow^5seer: dungeons & dragons
+[Thu Sep 15 15:18:59 2016]  say: kosher: в калофдути играл?
+[Thu Sep 15 15:19:08 2016]  say: ^0Shadow^5seer: wut
+[Thu Sep 15 15:19:13 2016]  say: kosher: каловдути
+[Thu Sep 15 15:19:18 2016]  say: ^0Shadow^5seer: эээ...
+[Thu Sep 15 15:19:22 2016]  say: kosher: call of duty
+[Thu Sep 15 15:19:24 2016]  say: ^0Shadow^5seer: бля
+[Thu Sep 15 15:19:26 2016]  say: ^0Shadow^5seer: точно
+[Thu Sep 15 15:19:29 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^5CHIDORI!!
+[Thu Sep 15 15:19:30 2016]  say: ^0Shadow^5seer: во второй
+[Thu Sep 15 15:19:44 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1^0I haven't enough Chakra!
+[Thu Sep 15 15:19:45 2016]  say: kosher: там русских растреливали?
+[Thu Sep 15 15:19:50 2016]  say: ^0Shadow^5seer: не помню
+[Thu Sep 15 15:20:04 2016]  say: kosher: там был комисар в начале
+[Thu Sep 15 15:20:11 2016]  say: ^0Shadow^5seer: это ж ппц как давно было
+[Thu Sep 15 15:20:13 2016]  say: kosher: он расстреливал
+[Thu Sep 15 15:20:22 2016]  say: ^0Shadow^5seer: я сейчас уже не вспомню
+[Thu Sep 15 15:20:25 2016]  say: kosher: лучше его косплеить
+[Thu Sep 15 15:20:34 2016]  say: ^0Shadow^5seer: комиссаров тоже хватает
+[Thu Sep 15 15:20:41 2016]  say: ^0Shadow^5seer: только как раз из вархаммера
+[Thu Sep 15 15:20:44 2016]  say: kosher: в ворлд оф танкс?
+[Thu Sep 15 15:20:47 2016]  say: ^0Shadow^5seer: они тем же самым занимаются
+[Thu Sep 15 15:20:53 2016]  say: ^0Shadow^5seer: в танки нет
+[Thu Sep 15 15:21:08 2016]  say: ^0Shadow^5seer: не люблю я игры про реальны мир
+[Thu Sep 15 15:21:12 2016]  say: ^0Shadow^5seer: реальный
+[Thu Sep 15 15:21:24 2016]  say: kosher: почему
+[Thu Sep 15 15:21:35 2016]  say: ^0Shadow^5seer: реального мира и в реальном мире хватает
+[Thu Sep 15 15:21:47 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ...
+[Thu Sep 15 15:21:53 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: plz 
+[Thu Sep 15 15:22:11 2016]  say: kosher: в реале мире на танке не проедешся
+[Thu Sep 15 15:22:18 2016]  say: ^0Shadow^5seer: а я и не хочу
+[Thu Sep 15 15:22:30 2016]  say: kosher: а родину защищать кто будет
+[Thu Sep 15 15:22:32 2016]  say: ^0Shadow^5seer: ну хотя почему, если в танковые войска попадешь...)
+[Thu Sep 15 15:22:40 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: shadow
+[Thu Sep 15 15:22:45 2016]  say: ^0Shadow^5seer: ?
+[Thu Sep 15 15:22:46 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: tell him to stop :/ 
+[Thu Sep 15 15:22:52 2016]  say: kosher: вот если бы угнать танк
+[Thu Sep 15 15:22:54 2016]  say: ^0Shadow^5seer: слышал?
+[Thu Sep 15 15:22:57 2016]  say: kosher: да
+[Thu Sep 15 15:23:10 2016]  say: ^0Shadow^5seer: he understands u well
+[Thu Sep 15 15:23:32 2016]  say: kosher: кри еще существует?
+[Thu Sep 15 15:23:37 2016]  say: ^0Shadow^5seer: кто?
+[Thu Sep 15 15:23:40 2016]  say: kosher: КРИ
+[Thu Sep 15 15:23:46 2016]  say: ^0Shadow^5seer: расшифруй
+[Thu Sep 15 15:23:54 2016]  say: kosher: конференция разработчиков игр
+[Thu Sep 15 15:24:02 2016]  say: ^0Shadow^5seer: не слышал о таком вообще
+[Thu Sep 15 15:24:48 2016]  say: kosher: самая большая выставка игр россии
+[Thu Sep 15 15:24:54 2016]  say: kosher: но тока в москве
+[Thu Sep 15 15:24:56 2016]  say: ^0Shadow^5seer: а не игромир?
+[Thu Sep 15 15:25:00 2016]  say: kosher: кри
+[Thu Sep 15 15:25:09 2016]  say: ^0Shadow^5seer: ну хз, я в москве не бываю
+[Thu Sep 15 15:25:28 2016]  say: ^0Shadow^5seer: да и новостями из мира игр не особо интересуюсь
+[Thu Sep 15 15:25:35 2016]  say: kosher: комик кон какйто
+[Thu Sep 15 15:25:50 2016]  say: ^0Shadow^5seer: комиккон - это не об играх
+[Thu Sep 15 15:26:03 2016]  say: ^0Shadow^5seer: ну то есть в первую очередь не об играх
+[Thu Sep 15 15:26:14 2016]  say: kosher: щас игр нормальных не делают
+[Thu Sep 15 15:26:27 2016]  say: ^0Shadow^5seer: ну это уж кому как
+[Thu Sep 15 15:26:38 2016]  say: kosher: какие норм игры есть
+[Thu Sep 15 15:26:48 2016]  say: ^0Shadow^5seer: сейчас хреново что все игры нормальные связаны со всякими стимами и прочим
+[Thu Sep 15 15:27:13 2016]  say: kosher: какие
+[Thu Sep 15 15:27:20 2016]  say: ^0Shadow^5seer: скайрим?)
+[Thu Sep 15 15:27:26 2016]  say: kosher: он вышел в 2011
+[Thu Sep 15 15:27:29 2016]  Kill: 1 1 39: ^0{^2Ex^0i^2le^0} ^2A^0ndy killed ^0{^2Ex^0i^2le^0} ^2A^0ndy by MOD_SUICIDE
+[Thu Sep 15 15:27:36 2016]  say: ^0Shadow^5seer: я не помню просто, играл ли во что то новее
+[Thu Sep 15 15:27:48 2016]  say: ^0Shadow^5seer: borderlands
+[Thu Sep 15 15:27:52 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1Combat ^0Script V1.1 By ^0Jawa Hunter
+[Thu Sep 15 15:27:52 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^0ARG!!!!! 
+[Thu Sep 15 15:27:53 2016]  say: kosher: 2009
+[Thu Sep 15 15:27:58 2016]  say: ^0Shadow^5seer: пре сиквел
+[Thu Sep 15 15:28:06 2016]  say: kosher: почти тоже самое
+[Thu Sep 15 15:28:08 2016]  say: ^0Shadow^5seer: и вторая
+[Thu Sep 15 15:28:10 2016]  say: ^0Shadow^5seer: нет
+[Thu Sep 15 15:28:11 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^0DARK ENERGY!!!
+[Thu Sep 15 15:28:11 2016]  say: kosher: графика такая же
+[Thu Sep 15 15:28:16 2016]  say: ^0Shadow^5seer: ну... нет
+[Thu Sep 15 15:28:20 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: lol
+[Thu Sep 15 15:28:24 2016]  say: ^0Shadow^5seer: с первой части она стала получше
+[Thu Sep 15 15:28:25 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1FIRE ^0SPIT!!!!!!
+[Thu Sep 15 15:28:35 2016]  say: ^0Shadow^5seer: во второй и в пре сиквеле она одинаковая
+[Thu Sep 15 15:28:38 2016]  say: kosher: в такие итгры лучше играют кооп
+[Thu Sep 15 15:28:40 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1Combat ^0Abilities off
+[Thu Sep 15 15:28:43 2016]  say: ^0Shadow^5seer: и пре сиквел вроде 2014 года
+[Thu Sep 15 15:28:46 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^0RAGNOS'!!!! ^1WRATH!!!!!!
+[Thu Sep 15 15:29:01 2016]  say: ^0Shadow^5seer: а мы кооп не рассматриваем?
+[Thu Sep 15 15:29:05 2016]  say: kosher: да
+[Thu Sep 15 15:29:08 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^0HAZZARD ^1STRIKE!!!
+[Thu Sep 15 15:29:11 2016]  say: ^0Shadow^5seer: почему это?
+[Thu Sep 15 15:29:17 2016]  say: kosher: ламать надо
+[Thu Sep 15 15:29:20 2016]  say: ^0Shadow^5seer: ты спросил вообще про нормальные игры
+[Thu Sep 15 15:29:23 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1Combat ^0Abilities off
+[Thu Sep 15 15:29:24 2016]  say: kosher: да
+[Thu Sep 15 15:29:30 2016]  say: ^0Shadow^5seer: борда нормальная
+[Thu Sep 15 15:29:35 2016]  say: kosher: тока борда
+[Thu Sep 15 15:29:41 2016]  say: ^0Shadow^5seer: а что ломать, это сейчас проблема всех игр
+[Thu Sep 15 15:29:45 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1ARG!!!^0HELP ME!!!
+[Thu Sep 15 15:29:46 2016]  say: ^0Shadow^5seer: я об этом и сказал
+[Thu Sep 15 15:29:47 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1AHHHHHHHH!!!!!
+[Thu Sep 15 15:29:50 2016]  say: kosher: у меня 32 битная
+[Thu Sep 15 15:29:55 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: o,o
+[Thu Sep 15 15:29:55 2016]  say: ^0Shadow^5seer: все связаны со стимами и прочим
+[Thu Sep 15 15:29:57 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1*Uses Medpac*
+[Thu Sep 15 15:29:58 2016]  say: kosher: так что не поиграю
+[Thu Sep 15 15:30:08 2016]  say: ^0Shadow^5seer: а поменять н 64битную?
+[Thu Sep 15 15:30:11 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1Combat ^0Abilities off
+[Thu Sep 15 15:30:15 2016]  say: kosher: зачем
+[Thu Sep 15 15:30:20 2016]  say: ^0Shadow^5seer: чтоб поиграть
+[Thu Sep 15 15:30:27 2016]  say: kosher: не
+[Thu Sep 15 15:30:31 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^0ARG!!!!! 
+[Thu Sep 15 15:30:34 2016]  say: ^0Shadow^5seer: и вообще производительность выше в разы
+[Thu Sep 15 15:30:44 2016]  say: kosher: зато жрет памяти больше
+[Thu Sep 15 15:30:44 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^0HAZZARD ^1STRIKE!!!
+[Thu Sep 15 15:30:57 2016]  say: ^0Shadow^5seer: а у тебя ее мало?
+[Thu Sep 15 15:31:00 2016]  say: kosher: 4гб
+[Thu Sep 15 15:31:01 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^0FIRE ^1& FLAMES!!!!!!
+[Thu Sep 15 15:31:08 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^0RAGNOS'!!!! ^1WRATH!!!!!!
+[Thu Sep 15 15:31:12 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^0HAZZARD ^1STRIKE!!!
+[Thu Sep 15 15:31:19 2016]  say: ^0Shadow^5seer: мы же сейчас не про оперативку, так?
+[Thu Sep 15 15:31:22 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1Combat ^0Abilities off
+[Thu Sep 15 15:31:28 2016]  say: ^0Shadow^5seer: купи доп. винчестер
+[Thu Sep 15 15:31:31 2016]  say: kosher: с жд тоже гавно
+[Thu Sep 15 15:31:35 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^0HAZZARD ^1STRIKE!!!
+[Thu Sep 15 15:31:37 2016]  say: kosher: все забито
+[Thu Sep 15 15:31:41 2016]  say: ^0Shadow^5seer: купиии
+[Thu Sep 15 15:31:42 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^0HAZZARD ^1STRIKE!!!
+[Thu Sep 15 15:31:48 2016]  say: kosher: денег нет
+[Thu Sep 15 15:32:00 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1Combat ^0Abilities off
+[Thu Sep 15 15:32:17 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^0HAZZARD ^1STRIKE!!!
+[Thu Sep 15 15:32:24 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1Combat ^0Abilities off
+[Thu Sep 15 15:32:44 2016]  say: kosher: andy u c++?
+[Thu Sep 15 15:32:58 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: yeah why
+[Thu Sep 15 15:33:11 2016]  say: kosher: wana make mod?
+[Thu Sep 15 15:33:20 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: um
+[Thu Sep 15 15:33:23 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: idk
+[Thu Sep 15 15:33:31 2016]  say: kosher: ur profesional?
+[Thu Sep 15 15:33:32 2016]  say: ^0Shadow^5seer: ппц, как он тебя вообще понял?
+[Thu Sep 15 15:33:43 2016]  say: kosher: почему
+[Thu Sep 15 15:33:49 2016]  say: ^0Shadow^5seer: энди, ты с++
+[Thu Sep 15 15:33:55 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: well i just learned 
+[Thu Sep 15 15:33:55 2016]  say: kosher: да
+[Thu Sep 15 15:33:57 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Thu Sep 15 15:33:59 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1ARG!!!^0HELP ME!!!
+[Thu Sep 15 15:34:00 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1AHHHHHHHH!!!!!
+[Thu Sep 15 15:34:10 2016]  say: kosher: just?
+[Thu Sep 15 15:34:18 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: a few months ago
+[Thu Sep 15 15:34:23 2016]  say: kosher: why
+[Thu Sep 15 15:34:36 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1Combat ^0Abilities off
+[Thu Sep 15 15:34:40 2016]  say: ^0Shadow^5seer: dont forget to remove your fxs
+[Thu Sep 15 15:34:51 2016]  say: kosher: че делать если плохо
+[Thu Sep 15 15:35:59 2016]  say: ^0Shadow^5seer: устранять причину
+[Thu Sep 15 15:36:10 2016]  say: kosher: не удаеца
+[Thu Sep 15 15:36:21 2016]  say: ^0Shadow^5seer: тогда бороться с симптомами
+[Thu Sep 15 15:36:54 2016]  say: kosher: нету друзей
+[Thu Sep 15 15:37:19 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: ^1Combat ^0Abilities off
+[Thu Sep 15 15:37:27 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: can we change map?
+[Thu Sep 15 15:37:38 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: well
+[Thu Sep 15 15:38:05 2016]  say: kosher: u dont have bonus maps?
+[Thu Sep 15 15:38:18 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: i have
+[Thu Sep 15 15:38:36 2016]  say: ^0{^2Ex^0i^2le^0} ^2A^0ndy: vote
+[Thu Sep 15 15:38:47 2016]  say: kosher: whatsa  map
+[Thu Sep 15 15:38:55 2016]  ShutdownGame:
+[Thu Sep 15 15:38:55 2016]  ------------------------------------------------------------

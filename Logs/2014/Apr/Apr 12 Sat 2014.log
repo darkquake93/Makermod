@@ -1,0 +1,105 @@
+[Sat Apr 12 01:11:19 2014]  ------------------------------------------------------------
+[Sat Apr 12 01:11:19 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Apr 12 03:11:13 2014]  Exit: Timelimit hit.
+[Sat Apr 12 07:18:05 2014]  ClientConnect: 0
+[Sat Apr 12 07:18:05 2014]  mlog:Player Sven4ik, connected. With IP - 46.159.30.176:29070 
+[Sat Apr 12 07:18:33 2014]  ClientBegin: 0
+[Sat Apr 12 07:18:53 2014]  ShutdownGame:
+[Sat Apr 12 07:18:53 2014]  ------------------------------------------------------------
+[Sat Apr 12 07:18:54 2014]  ------------------------------------------------------------
+[Sat Apr 12 07:18:54 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Apr 12 07:18:55 2014]  ClientConnect: 0
+[Sat Apr 12 07:18:57 2014]  ClientConnect: 1
+[Sat Apr 12 07:18:57 2014]  mlog:Player GANISTER, connected. With IP - 79.178.10.252:29070 
+[Sat Apr 12 07:19:08 2014]  ClientBegin: 0
+[Sat Apr 12 07:19:14 2014]  ClientBegin: 1
+[Sat Apr 12 07:19:36 2014]  say: Sven4ik: ã
+[Sat Apr 12 07:23:10 2014]  ClientDisconnect: 0
+[Sat Apr 12 07:24:18 2014]  ClientDisconnect: 1
+[Sat Apr 12 09:18:53 2014]  Exit: Timelimit hit.
+[Sat Apr 12 09:34:05 2014]  ClientConnect: 0
+[Sat Apr 12 09:34:05 2014]  mlog:Player myece]^0ILLUAMINAL^7]K', connected. With IP - 159.255.234.38:29070 
+[Sat Apr 12 09:34:22 2014]  ClientBegin: 0
+[Sat Apr 12 09:34:24 2014]  ShutdownGame:
+[Sat Apr 12 09:34:24 2014]  ------------------------------------------------------------
+[Sat Apr 12 09:34:25 2014]  ------------------------------------------------------------
+[Sat Apr 12 09:34:25 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Apr 12 09:34:26 2014]  ClientConnect: 0
+[Sat Apr 12 09:34:45 2014]  ClientBegin: 0
+[Sat Apr 12 09:35:34 2014]  Kill: 0 0 39: ^0racater_X{E.Wolvse}^9*AE killed ^0racater_X{E.Wolvse}^9*AE by MOD_SUICIDE
+[Sat Apr 12 09:35:44 2014]  Kill: 0 0 39: ^0racater_X{E.Wolvse}^9*AE killed ^0racater_X{E.Wolvse}^9*AE by MOD_SUICIDE
+[Sat Apr 12 09:36:33 2014]  say: ^0racater_X{E.Wolvse}^9*AE: be
+[Sat Apr 12 09:37:50 2014]  ClientDisconnect: 0
+[Sat Apr 12 09:37:51 2014]  ClientDisconnect: 0
+[Sat Apr 12 09:37:51 2014]  ClientConnect: 0
+[Sat Apr 12 09:37:51 2014]  mlog:Player ^0racater_X{E.Wolvse}^9*AE, connected. With IP - 159.255.234.38:29070 
+[Sat Apr 12 09:38:00 2014]  ClientBegin: 0
+[Sat Apr 12 09:38:07 2014]  say: ^0racater_X{E.Wolvse}^9*AE: må
+[Sat Apr 12 09:38:16 2014]  say: ^0racater_X{E.Wolvse}^9*AE: bt
+[Sat Apr 12 09:39:01 2014]  say: ^0racater_X{E.Wolvse}^9*AE: ->
+[Sat Apr 12 09:39:18 2014]  say: ^0racater_X{E.Wolvse}^9*AE: -> ei <-
+[Sat Apr 12 09:39:28 2014]  say: ^0racater_X{E.Wolvse}^9*AE: xe
+[Sat Apr 12 09:39:32 2014]  say: ^0racater_X{E.Wolvse}^9*AE: x
+[Sat Apr 12 09:39:52 2014]  say: ^0racater_X{E.Wolvse}^9*AE: ea
+[Sat Apr 12 09:40:19 2014]  say: ^0racater_X{E.Wolvse}^9*AE: o
+[Sat Apr 12 09:40:22 2014]  say: ^0racater_X{E.Wolvse}^9*AE: yt
+[Sat Apr 12 09:40:23 2014]  say: ^0racater_X{E.Wolvse}^9*AE: y
+[Sat Apr 12 09:40:25 2014]  say: ^0racater_X{E.Wolvse}^9*AE: y
+[Sat Apr 12 09:43:04 2014]  say: ^0racater_X{E.Wolvse}^9*AE: ES
+[Sat Apr 12 09:43:06 2014]  say: ^0racater_X{E.Wolvse}^9*AE: es
+[Sat Apr 12 09:44:32 2014]  Kill: 0 0 39: ^0racater_X{E.Wolvse}^9*AE killed ^0racater_X{E.Wolvse}^9*AE by MOD_SUICIDE
+[Sat Apr 12 09:44:44 2014]  say: ^0racater_X{E.Wolvse}^9*AE: ES
+[Sat Apr 12 09:45:10 2014]  say: ^0racater_X{E.Wolvse}^9*AE: splse
+[Sat Apr 12 09:45:34 2014]  say: ^0racater_X{E.Wolvse}^9*AE: SRE
+[Sat Apr 12 09:46:14 2014]  ClientDisconnect: 0
+[Sat Apr 12 11:34:24 2014]  Exit: Timelimit hit.
+[Sat Apr 12 13:41:19 2014]  ClientConnect: 0
+[Sat Apr 12 13:41:19 2014]  mlog:Player Thame_Cerulian, connected. With IP - 80.98.197.150:29070 
+[Sat Apr 12 13:41:23 2014]  ClientConnect: 1
+[Sat Apr 12 13:41:23 2014]  mlog:Player Levante, connected. With IP - 81.38.212.248:29070 
+[Sat Apr 12 13:41:49 2014]  ClientBegin: 0
+[Sat Apr 12 13:41:56 2014]  ShutdownGame:
+[Sat Apr 12 13:41:56 2014]  ------------------------------------------------------------
+[Sat Apr 12 13:41:57 2014]  ------------------------------------------------------------
+[Sat Apr 12 13:41:57 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Apr 12 13:41:57 2014]  ClientConnect: 0
+[Sat Apr 12 13:41:57 2014]  ClientConnect: 1
+[Sat Apr 12 13:42:11 2014]  ClientBegin: 0
+[Sat Apr 12 13:42:40 2014]  ClientBegin: 1
+[Sat Apr 12 13:46:13 2014]  Kill: 0 0 39: Thame_Cerulian killed Thame_Cerulian by MOD_SUICIDE
+[Sat Apr 12 13:47:38 2014]  Kill: 0 0 39: Thame_Cerulian killed Thame_Cerulian by MOD_SUICIDE
+[Sat Apr 12 13:55:40 2014]  say: Thame_Cerulian:  /npc spawn mutant_rancor
+[Sat Apr 12 14:10:02 2014]  Kill: 0 0 0: Thame_Cerulian killed Thame_Cerulian by MOD_UNKNOWN
+[Sat Apr 12 14:12:41 2014]  say: Thame_Cerulian:  /npc spawn rancor
+[Sat Apr 12 14:15:09 2014]  say: Thame_Cerulian:  /npc spawn rancor
+[Sat Apr 12 14:17:02 2014]  say: Thame_Cerulian: msignal1
+[Sat Apr 12 14:17:12 2014]  say: Thame_Cerulian: 2msignal1
+[Sat Apr 12 14:17:59 2014]  Kill: 1022 1 2: <world> killed Levante by MOD_MELEE
+[Sat Apr 12 14:20:09 2014]  Kill: 1022 0 2: <world> killed Thame_Cerulian by MOD_MELEE
+[Sat Apr 12 14:23:15 2014]  Kill: 1022 1 2: <world> killed Levante by MOD_MELEE
+[Sat Apr 12 14:23:41 2014]  Kill: 1022 1 38: <world> killed Levante by MOD_FALLING
+[Sat Apr 12 14:29:05 2014]  Item: 1 weapon_blaster
+[Sat Apr 12 14:39:45 2014]  ClientDisconnect: 0
+[Sat Apr 12 14:40:29 2014]  ClientDisconnect: 1
+[Sat Apr 12 15:41:56 2014]  Exit: Timelimit hit.
+[Sat Apr 12 23:27:55 2014]  ------------------------------------------------------------
+[Sat Apr 12 23:27:55 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Apr 13 01:27:38 2014]  Exit: Timelimit hit.
+[Sun Apr 13 07:11:58 2014]  ClientConnect: 0
+[Sun Apr 13 07:11:58 2014]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 151.226.118.208:29070 
+[Sun Apr 13 07:12:47 2014]  ClientBegin: 0
+[Sun Apr 13 07:12:52 2014]  ClientDisconnect: 0
+[Sun Apr 13 11:50:45 2014]  ClientConnect: 0
+[Sun Apr 13 11:50:45 2014]  mlog:Player Robert, connected. With IP - 84.43.129.14:29070 
+[Sun Apr 13 11:54:46 2014]  ClientDisconnect: 0
+[Sun Apr 13 11:56:00 2014]  ClientConnect: 0
+[Sun Apr 13 11:56:00 2014]  mlog:Player Robert, connected. With IP - 84.43.129.14:29070 
+[Sun Apr 13 11:56:20 2014]  ClientDisconnect: 0
+[Sun Apr 13 12:07:21 2014]  ClientConnect: 0
+[Sun Apr 13 12:07:21 2014]  mlog:Player Robert, connected. With IP - 84.43.129.14:29070 
+[Sun Apr 13 12:07:30 2014]  ClientDisconnect: 0
+[Sun Apr 13 12:18:11 2014]  ClientConnect: 0
+[Sun Apr 13 12:18:11 2014]  mlog:Player bitch, connected. With IP - 213.155.49.98:29070 
+[Sun Apr 13 12:19:09 2014]  ClientBegin: 0
+[Sun Apr 13 12:20:32 2014]  ShutdownGame:
+[Sun Apr 13 12:20:33 2014]  ------------------------------------------------------------

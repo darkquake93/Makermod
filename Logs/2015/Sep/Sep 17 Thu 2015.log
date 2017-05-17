@@ -1,0 +1,160 @@
+[Thu Sep 17 00:20:01 2015]  ------------------------------------------------------------
+[Thu Sep 17 00:20:01 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 17 00:20:01 2015]  ClientConnect: 0
+[Thu Sep 17 00:20:09 2015]  ClientDisconnect: 0
+[Thu Sep 17 02:20:00 2015]  Exit: Timelimit hit.
+[Thu Sep 17 09:58:13 2015]  ClientConnect: 0
+[Thu Sep 17 09:58:13 2015]  mlog:Player [^2Tw^7]^1L^0ord^1R^0evan, connected. With IP - 27.253.99.155:29070 
+[Thu Sep 17 09:58:23 2015]  ClientBegin: 0
+[Thu Sep 17 09:58:26 2015]  ShutdownGame:
+[Thu Sep 17 09:58:26 2015]  ------------------------------------------------------------
+[Thu Sep 17 09:58:27 2015]  ------------------------------------------------------------
+[Thu Sep 17 09:58:27 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 17 09:58:29 2015]  ClientConnect: 0
+[Thu Sep 17 09:58:38 2015]  ClientBegin: 0
+[Thu Sep 17 09:59:24 2015]  say: ^1Lord^0Revan: mplace3
+[Thu Sep 17 09:59:26 2015]  say: ^1Lord^0Revan: mplace
+[Thu Sep 17 10:01:13 2015]  ClientDisconnect: 0
+[Thu Sep 17 11:58:26 2015]  Exit: Timelimit hit.
+[Thu Sep 17 16:09:01 2015]  ClientConnect: 0
+[Thu Sep 17 16:09:01 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Sep 17 16:09:16 2015]  ClientBegin: 0
+[Thu Sep 17 16:09:26 2015]  ShutdownGame:
+[Thu Sep 17 16:09:26 2015]  ------------------------------------------------------------
+[Thu Sep 17 16:09:26 2015]  ------------------------------------------------------------
+[Thu Sep 17 16:09:26 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 17 16:09:27 2015]  ClientConnect: 0
+[Thu Sep 17 16:09:34 2015]  ClientBegin: 0
+[Thu Sep 17 16:09:39 2015]  Item: 0 weapon_melee
+[Thu Sep 17 16:13:12 2015]  ClientDisconnect: 0
+[Thu Sep 17 17:48:17 2015]  ClientConnect: 0
+[Thu Sep 17 17:48:17 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Sep 17 17:48:25 2015]  ClientBegin: 0
+[Thu Sep 17 17:48:41 2015]  Item: 0 weapon_melee
+[Thu Sep 17 17:48:48 2015]  ClientConnect: 1
+[Thu Sep 17 17:48:48 2015]  mlog:Player ^2Jean-Luc^0-Picard, connected. With IP - 89.24.248.54:16194 
+[Thu Sep 17 17:48:53 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Thu Sep 17 17:48:57 2015]  ClientBegin: 1
+[Thu Sep 17 17:50:13 2015]  say: ^2Jean-Luc^0-Picard: lol looks good
+[Thu Sep 17 17:50:17 2015]  say: ^0Shadow^5seer: My origin is: (-11068 -189 8) - You can teleport here with /mtelelast
+
+[Thu Sep 17 17:52:25 2015]  Kill: 1022 1 0: <world> killed ^2Jean-Luc^0-Picard by MOD_UNKNOWN
+[Thu Sep 17 17:52:33 2015]  Kill: 1 1 39: ^2Jean-Luc^0-Picard killed ^2Jean-Luc^0-Picard by MOD_SUICIDE
+[Thu Sep 17 17:52:33 2015]  setteam:  1 FREE SPECTATOR
+[Thu Sep 17 17:52:33 2015]  ClientBegin: 1
+[Thu Sep 17 17:52:39 2015]  setteam:  1 SPECTATOR FREE
+[Thu Sep 17 17:52:39 2015]  ClientBegin: 1
+[Thu Sep 17 17:52:58 2015]  Kill: 1 1 39: ^2Jean-Luc^0-Picard killed ^2Jean-Luc^0-Picard by MOD_SUICIDE
+[Thu Sep 17 17:52:58 2015]  setteam:  1 FREE SPECTATOR
+[Thu Sep 17 17:52:58 2015]  ClientBegin: 1
+[Thu Sep 17 17:53:03 2015]  setteam:  1 SPECTATOR FREE
+[Thu Sep 17 17:53:03 2015]  ClientBegin: 1
+[Thu Sep 17 17:53:15 2015]  Kill: 1 1 39: ^2Jean-Luc^0-Picard killed ^2Jean-Luc^0-Picard by MOD_SUICIDE
+[Thu Sep 17 17:53:15 2015]  setteam:  1 FREE SPECTATOR
+[Thu Sep 17 17:53:15 2015]  ClientBegin: 1
+[Thu Sep 17 17:53:55 2015]  setteam:  1 SPECTATOR FREE
+[Thu Sep 17 17:53:55 2015]  ClientBegin: 1
+[Thu Sep 17 17:54:05 2015]  Kill: 1 1 39: ^2Jean-Luc^0-Picard killed ^2Jean-Luc^0-Picard by MOD_SUICIDE
+[Thu Sep 17 17:54:05 2015]  setteam:  1 FREE SPECTATOR
+[Thu Sep 17 17:54:05 2015]  ClientBegin: 1
+[Thu Sep 17 17:54:11 2015]  setteam:  1 SPECTATOR FREE
+[Thu Sep 17 17:54:11 2015]  ClientBegin: 1
+[Thu Sep 17 17:54:21 2015]  Kill: 1 1 39: ^2Jean-Luc^0-Picard killed ^2Jean-Luc^0-Picard by MOD_SUICIDE
+[Thu Sep 17 17:54:21 2015]  setteam:  1 FREE SPECTATOR
+[Thu Sep 17 17:54:21 2015]  ClientBegin: 1
+[Thu Sep 17 17:54:26 2015]  setteam:  1 SPECTATOR FREE
+[Thu Sep 17 17:54:26 2015]  ClientBegin: 1
+[Thu Sep 17 17:54:38 2015]  Kill: 1 1 39: ^2Jean-Luc^0-Picard killed ^2Jean-Luc^0-Picard by MOD_SUICIDE
+[Thu Sep 17 17:54:38 2015]  setteam:  1 FREE SPECTATOR
+[Thu Sep 17 17:54:38 2015]  ClientBegin: 1
+[Thu Sep 17 17:54:45 2015]  setteam:  1 SPECTATOR FREE
+[Thu Sep 17 17:54:45 2015]  ClientBegin: 1
+[Thu Sep 17 17:56:28 2015]  say: ^0Shadow^5seer: cant change the map here
+[Thu Sep 17 17:56:30 2015]  say: ^0Shadow^5seer: too bad
+[Thu Sep 17 17:56:37 2015]  say: ^2Jean-Luc^0-Picard: :-(
+[Thu Sep 17 17:56:41 2015]  say: ^0Shadow^5seer: and everything else is perfect here
+[Thu Sep 17 17:58:37 2015]  say: ^0Shadow^5seer: My origin is: (-985 -396 -103) - You can teleport here with /mtelelast
+
+[Thu Sep 17 17:58:50 2015]  say: ^2Jean-Luc^0-Picard: xD
+[Thu Sep 17 17:58:56 2015]  say: ^2Jean-Luc^0-Picard: almost shitted myself
+[Thu Sep 17 17:59:00 2015]  say: ^0Shadow^5seer: :D
+[Thu Sep 17 17:59:57 2015]  say: ^2Jean-Luc^0-Picard: how about we make him HUGE DICK ? xD
+[Thu Sep 17 18:00:08 2015]  say: ^0Shadow^5seer: :O no
+[Thu Sep 17 18:00:16 2015]  say: ^2Jean-Luc^0-Picard: xD ok no , it was just an idea
+[Thu Sep 17 18:00:22 2015]  say: ^0Shadow^5seer: doesnt deserve
+[Thu Sep 17 18:04:54 2015]  say: ^2Jean-Luc^0-Picard: OMG server restar ?
+[Thu Sep 17 18:06:17 2015]  say: ^0Shadow^5seer: and a new map i hope
+[Thu Sep 17 18:09:25 2015]  Exit: Timelimit hit.
+[Thu Sep 17 18:09:25 2015]  score: 3  ping: 81  client: 0 ^0Shadow^5seer
+[Thu Sep 17 18:09:25 2015]  score: 2  ping: 81  client: 1 ^2Jean-Luc^0-Picard
+[Thu Sep 17 18:09:31 2015]  ShutdownGame:
+[Thu Sep 17 18:09:31 2015]  ------------------------------------------------------------
+[Thu Sep 17 18:09:32 2015]  ------------------------------------------------------------
+[Thu Sep 17 18:09:32 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 17 18:09:33 2015]  ClientConnect: 0
+[Thu Sep 17 18:09:33 2015]  ClientConnect: 1
+[Thu Sep 17 18:09:39 2015]  ClientBegin: 0
+[Thu Sep 17 18:09:40 2015]  ClientBegin: 1
+[Thu Sep 17 18:09:45 2015]  say: ^2Jean-Luc^0-Picard: yeah
+[Thu Sep 17 18:10:01 2015]  ClientDisconnect: 0
+[Thu Sep 17 18:10:01 2015]  ClientDisconnect: 0
+[Thu Sep 17 18:10:01 2015]  ClientConnect: 0
+[Thu Sep 17 18:10:01 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Sep 17 18:10:08 2015]  ClientBegin: 0
+[Thu Sep 17 18:10:11 2015]  say: ^2Jean-Luc^0-Picard: fuck i realy eat this stars
+[Thu Sep 17 18:10:17 2015]  Item: 0 weapon_melee
+[Thu Sep 17 18:10:40 2015]  say: ^2Jean-Luc^0-Picard: could stare into it for hours 0_0 
+[Thu Sep 17 18:10:42 2015]  say: ^2Jean-Luc^0-Picard: xD
+[Thu Sep 17 18:14:51 2015]  ClientDisconnect: 0
+[Thu Sep 17 18:20:42 2015]  ClientDisconnect: 1
+[Thu Sep 17 19:16:36 2015]  ClientConnect: 0
+[Thu Sep 17 19:16:36 2015]  mlog:Player Padawan, connected. With IP - 83.82.147.58:29070 
+[Thu Sep 17 19:16:36 2015]  ClientConnect: 1
+[Thu Sep 17 19:16:36 2015]  mlog:Player Shadow, connected. With IP - 94.210.204.79:29070 
+[Thu Sep 17 19:20:43 2015]  ClientDisconnect: 1
+[Thu Sep 17 19:20:44 2015]  ClientDisconnect: 0
+[Thu Sep 17 20:09:31 2015]  Exit: Timelimit hit.
+[Thu Sep 17 20:27:00 2015]  ClientConnect: 0
+[Thu Sep 17 20:27:00 2015]  mlog:Player ^2Jean-Luc^0-Picard, connected. With IP - 89.24.248.54:19229 
+[Thu Sep 17 20:27:12 2015]  ClientBegin: 0
+[Thu Sep 17 20:27:16 2015]  ShutdownGame:
+[Thu Sep 17 20:27:16 2015]  ------------------------------------------------------------
+[Thu Sep 17 20:27:17 2015]  ------------------------------------------------------------
+[Thu Sep 17 20:27:17 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 17 20:27:17 2015]  ClientConnect: 0
+[Thu Sep 17 20:27:24 2015]  ClientBegin: 0
+[Thu Sep 17 20:59:18 2015]  ClientDisconnect: 0
+[Thu Sep 17 21:04:29 2015]  ClientConnect: 0
+[Thu Sep 17 21:04:29 2015]  mlog:Player Whatever, connected. With IP - 89.24.248.54:19465 
+[Thu Sep 17 21:04:41 2015]  ClientBegin: 0
+[Thu Sep 17 21:47:36 2015]  ClientDisconnect: 0
+[Thu Sep 17 21:49:08 2015]  ClientConnect: 0
+[Thu Sep 17 21:49:08 2015]  mlog:Player Whatever, connected. With IP - 89.24.248.54:19465 
+[Thu Sep 17 21:49:21 2015]  ClientBegin: 0
+[Thu Sep 17 22:27:16 2015]  Exit: Timelimit hit.
+[Thu Sep 17 22:27:16 2015]  score: 0  ping: 50  client: 0 ^2Jean-Luc^0-Picard
+[Thu Sep 17 22:27:22 2015]  ShutdownGame:
+[Thu Sep 17 22:27:22 2015]  ------------------------------------------------------------
+[Thu Sep 17 22:27:22 2015]  ------------------------------------------------------------
+[Thu Sep 17 22:27:22 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 17 22:27:24 2015]  ClientConnect: 0
+[Thu Sep 17 22:27:32 2015]  ClientBegin: 0
+[Thu Sep 17 23:03:54 2015]  ClientDisconnect: 0
+[Thu Sep 17 23:19:07 2015]  ClientConnect: 0
+[Thu Sep 17 23:19:07 2015]  mlog:Player ^1a^0S^1i^0D, connected. With IP - 46.39.34.153:-16819 
+[Thu Sep 17 23:19:14 2015]  ClientDisconnect: 0
+[Fri Sep 18 00:03:52 2015]  ClientConnect: 0
+[Fri Sep 18 00:03:52 2015]  mlog:Player ^1a^2^0S^1i^0D, connected. With IP - 46.39.34.153:15865 
+[Fri Sep 18 00:04:11 2015]  ClientBegin: 0
+[Fri Sep 18 00:15:43 2015]  Kill: 0 0 39: ^1a^2^0S^1i^0D killed ^1a^2^0S^1i^0D by MOD_SUICIDE
+[Fri Sep 18 00:15:43 2015]  setteam:  0 FREE SPECTATOR
+[Fri Sep 18 00:15:43 2015]  ClientBegin: 0
+[Fri Sep 18 00:16:05 2015]  setteam:  0 SPECTATOR FREE
+[Fri Sep 18 00:16:05 2015]  ClientBegin: 0
+[Fri Sep 18 00:17:34 2015]  ClientDisconnect: 0
+[Fri Sep 18 00:27:21 2015]  Exit: Timelimit hit.
+[Fri Sep 18 14:36:30 2015]  ClientConnect: 0
+[Fri Sep 18 14:36:30 2015]  mlog:Player Shadow, connected. With IP - 94.210.204.79:29070 
+[Fri Sep 18 14:36:49 2015]  ClientBegin: 0
+[Fri Sep 18 14:37:04 2015]  ShutdownGame:
+[Fri Sep 18 14:37:04 2015]  ------------------------------------------------------------

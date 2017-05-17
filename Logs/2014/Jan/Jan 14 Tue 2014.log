@@ -1,0 +1,331 @@
+[Tue Jan 14 00:54:53 2014]  ------------------------------------------------------------
+[Tue Jan 14 00:54:53 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 14 00:54:54 2014]  ClientConnect: 0
+[Tue Jan 14 00:55:14 2014]  ClientDisconnect: 0
+[Tue Jan 14 00:55:40 2014]  ClientConnect: 0
+[Tue Jan 14 00:55:40 2014]  mlog:Player Matthew, connected. With IP - 174.126.79.124:29070 
+[Tue Jan 14 00:55:53 2014]  ClientBegin: 0
+[Tue Jan 14 01:01:27 2014]  ClientDisconnect: 0
+[Tue Jan 14 02:10:47 2014]  ClientConnect: 0
+[Tue Jan 14 02:10:47 2014]  mlog:Player Matthew, connected. With IP - 174.126.79.124:29070 
+[Tue Jan 14 02:11:20 2014]  ClientBegin: 0
+[Tue Jan 14 02:21:31 2014]  ClientDisconnect: 0
+[Tue Jan 14 02:54:52 2014]  Exit: Timelimit hit.
+[Tue Jan 14 03:10:56 2014]  ClientConnect: 0
+[Tue Jan 14 03:10:56 2014]  mlog:Player Matthew, connected. With IP - 174.126.79.124:29070 
+[Tue Jan 14 03:11:28 2014]  ClientBegin: 0
+[Tue Jan 14 03:11:32 2014]  ShutdownGame:
+[Tue Jan 14 03:11:32 2014]  ------------------------------------------------------------
+[Tue Jan 14 03:11:33 2014]  ------------------------------------------------------------
+[Tue Jan 14 03:11:33 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 14 03:11:34 2014]  ClientConnect: 0
+[Tue Jan 14 03:12:02 2014]  ClientBegin: 0
+[Tue Jan 14 03:12:29 2014]  ClientConnect: 1
+[Tue Jan 14 03:12:29 2014]  mlog:Player ^1T^2e^3r^4i^5n, connected. With IP - 174.107.83.102:29070 
+[Tue Jan 14 03:12:49 2014]  ClientBegin: 1
+[Tue Jan 14 03:13:14 2014]  Kill: 1 0 5: ^1T^2e^3r^4i^5n killed Matthew by MOD_BRYAR_PISTOL_ALT
+[Tue Jan 14 03:14:24 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Tue Jan 14 03:14:37 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Tue Jan 14 03:17:32 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Tue Jan 14 03:17:42 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Tue Jan 14 03:18:05 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Tue Jan 14 03:18:24 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Tue Jan 14 03:19:30 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Tue Jan 14 03:19:30 2014]  setteam:  1 FREE SPECTATOR
+[Tue Jan 14 03:19:30 2014]  ClientBegin: 1
+[Tue Jan 14 03:19:36 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Tue Jan 14 03:19:36 2014]  setteam:  0 FREE SPECTATOR
+[Tue Jan 14 03:19:36 2014]  ClientBegin: 0
+[Tue Jan 14 03:19:38 2014]  setteam:  1 SPECTATOR FREE
+[Tue Jan 14 03:19:38 2014]  ClientBegin: 1
+[Tue Jan 14 03:19:41 2014]  setteam:  0 SPECTATOR FREE
+[Tue Jan 14 03:19:41 2014]  ClientBegin: 0
+[Tue Jan 14 03:19:41 2014]  say: Matthew: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Tue Jan 14 03:20:02 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Tue Jan 14 03:20:24 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Tue Jan 14 03:20:24 2014]  setteam:  1 FREE SPECTATOR
+[Tue Jan 14 03:20:24 2014]  ClientBegin: 1
+[Tue Jan 14 03:20:48 2014]  setteam:  1 SPECTATOR FREE
+[Tue Jan 14 03:20:48 2014]  ClientBegin: 1
+[Tue Jan 14 03:21:17 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Tue Jan 14 03:25:40 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Tue Jan 14 03:26:20 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Tue Jan 14 03:26:20 2014]  setteam:  0 FREE SPECTATOR
+[Tue Jan 14 03:26:20 2014]  ClientBegin: 0
+[Tue Jan 14 03:26:37 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Tue Jan 14 03:26:37 2014]  setteam:  1 FREE SPECTATOR
+[Tue Jan 14 03:26:37 2014]  ClientBegin: 1
+[Tue Jan 14 03:26:37 2014]  ClientBegin: 0
+[Tue Jan 14 03:26:47 2014]  setteam:  0 SPECTATOR FREE
+[Tue Jan 14 03:26:47 2014]  ClientBegin: 0
+[Tue Jan 14 03:26:47 2014]  say: Matthew: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Tue Jan 14 03:26:51 2014]  setteam:  1 SPECTATOR FREE
+[Tue Jan 14 03:26:51 2014]  ClientBegin: 1
+[Tue Jan 14 03:26:58 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Tue Jan 14 03:27:08 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Tue Jan 14 03:29:01 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Tue Jan 14 03:29:06 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Tue Jan 14 03:33:06 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Tue Jan 14 03:33:06 2014]  setteam:  0 FREE SPECTATOR
+[Tue Jan 14 03:33:06 2014]  ClientBegin: 0
+[Tue Jan 14 03:33:49 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Tue Jan 14 03:33:49 2014]  setteam:  1 FREE SPECTATOR
+[Tue Jan 14 03:33:49 2014]  ClientBegin: 1
+[Tue Jan 14 03:33:49 2014]  ClientBegin: 0
+[Tue Jan 14 03:33:53 2014]  setteam:  0 SPECTATOR FREE
+[Tue Jan 14 03:33:53 2014]  ClientBegin: 0
+[Tue Jan 14 03:33:53 2014]  say: Matthew: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Tue Jan 14 03:34:03 2014]  setteam:  1 SPECTATOR FREE
+[Tue Jan 14 03:34:03 2014]  ClientBegin: 1
+[Tue Jan 14 03:35:16 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Tue Jan 14 03:38:48 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Tue Jan 14 03:42:35 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Tue Jan 14 03:42:35 2014]  setteam:  0 FREE SPECTATOR
+[Tue Jan 14 03:42:35 2014]  ClientBegin: 0
+[Tue Jan 14 03:42:41 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Tue Jan 14 03:42:41 2014]  setteam:  1 FREE SPECTATOR
+[Tue Jan 14 03:42:41 2014]  ClientBegin: 1
+[Tue Jan 14 03:43:17 2014]  setteam:  1 SPECTATOR FREE
+[Tue Jan 14 03:43:17 2014]  ClientBegin: 1
+[Tue Jan 14 03:43:23 2014]  setteam:  0 SPECTATOR FREE
+[Tue Jan 14 03:43:23 2014]  ClientBegin: 0
+[Tue Jan 14 03:43:31 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Tue Jan 14 03:47:09 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Tue Jan 14 03:47:51 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Tue Jan 14 03:47:51 2014]  setteam:  1 FREE SPECTATOR
+[Tue Jan 14 03:47:51 2014]  ClientBegin: 1
+[Tue Jan 14 03:47:59 2014]  setteam:  1 SPECTATOR FREE
+[Tue Jan 14 03:47:59 2014]  ClientBegin: 1
+[Tue Jan 14 03:48:18 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Tue Jan 14 03:48:18 2014]  setteam:  1 FREE SPECTATOR
+[Tue Jan 14 03:48:18 2014]  ClientBegin: 1
+[Tue Jan 14 03:48:24 2014]  setteam:  1 SPECTATOR FREE
+[Tue Jan 14 03:48:24 2014]  ClientBegin: 1
+[Tue Jan 14 03:48:58 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Tue Jan 14 03:50:05 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Tue Jan 14 03:57:30 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Tue Jan 14 03:58:15 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Tue Jan 14 03:59:56 2014]  ClientDisconnect: 0
+[Tue Jan 14 04:00:30 2014]  ClientDisconnect: 1
+[Tue Jan 14 05:11:31 2014]  Exit: Timelimit hit.
+[Tue Jan 14 08:07:40 2014]  ClientConnect: 0
+[Tue Jan 14 08:07:40 2014]  mlog:Player Sanazichnik, connected. With IP - 92.124.55.138:29070 
+[Tue Jan 14 08:08:04 2014]  ClientBegin: 0
+[Tue Jan 14 08:08:15 2014]  ShutdownGame:
+[Tue Jan 14 08:08:15 2014]  ------------------------------------------------------------
+[Tue Jan 14 08:08:15 2014]  ------------------------------------------------------------
+[Tue Jan 14 08:08:15 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 14 08:08:16 2014]  ClientConnect: 0
+[Tue Jan 14 08:08:27 2014]  ClientBegin: 0
+[Tue Jan 14 08:11:36 2014]  Kill: 1022 0 39: <world> killed ^3hundert by MOD_SUICIDE
+[Tue Jan 14 08:11:43 2014]  ClientDisconnect: 0
+[Tue Jan 14 08:19:18 2014]  ClientConnect: 0
+[Tue Jan 14 08:19:18 2014]  mlog:Player Sanazichnik, connected. With IP - 92.124.55.138:29070 
+[Tue Jan 14 08:19:32 2014]  ClientBegin: 0
+[Tue Jan 14 08:22:01 2014]  ClientDisconnect: 0
+[Tue Jan 14 10:08:14 2014]  Exit: Timelimit hit.
+[Tue Jan 14 17:00:20 2014]  ClientConnect: 0
+[Tue Jan 14 17:00:20 2014]  mlog:Player Padawan, connected. With IP - 86.57.188.212:-9304 
+[Tue Jan 14 17:00:40 2014]  ClientBegin: 0
+[Tue Jan 14 17:00:47 2014]  ShutdownGame:
+[Tue Jan 14 17:00:47 2014]  ------------------------------------------------------------
+[Tue Jan 14 17:00:48 2014]  ------------------------------------------------------------
+[Tue Jan 14 17:00:48 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 14 17:00:49 2014]  ClientConnect: 0
+[Tue Jan 14 17:01:17 2014]  ClientConnect: 1
+[Tue Jan 14 17:01:17 2014]  mlog:Player Padawan, connected. With IP - 78.80.100.24:11191 
+[Tue Jan 14 17:01:59 2014]  ClientDisconnect: 0
+[Tue Jan 14 17:02:51 2014]  ClientBegin: 1
+[Tue Jan 14 17:03:19 2014]  ClientConnect: 0
+[Tue Jan 14 17:03:19 2014]  mlog:Player Padawan, connected. With IP - 86.57.188.212:-9304 
+[Tue Jan 14 17:03:33 2014]  ClientConnect: 2
+[Tue Jan 14 17:03:33 2014]  mlog:Player ^0Darth ^1Javimetal, connected. With IP - 85.219.4.121:29070 
+[Tue Jan 14 17:03:43 2014]  ClientBegin: 0
+[Tue Jan 14 17:03:46 2014]  say: huntik: xd
+[Tue Jan 14 17:03:57 2014]  print "huntik^7 @@@PLRENAME lucas
+"[Tue Jan 14 17:04:15 2014]  ClientBegin: 2
+[Tue Jan 14 17:04:26 2014]  tell: lucas to ^8Lexus: metalretard lol
+[Tue Jan 14 17:04:27 2014]  say: ^8Darth ^3Javimetal: hola hi
+[Tue Jan 14 17:04:30 2014]  say: lucas: hai
+[Tue Jan 14 17:04:40 2014]  tell: lucas to ^8Lexus: not
+[Tue Jan 14 17:04:54 2014]  tell: lucas to ^8Lexus: y
+[Tue Jan 14 17:05:19 2014]  say: ^8Lexus: die bitch
+[Tue Jan 14 17:05:21 2014]  say: lucas: xd
+[Tue Jan 14 17:05:32 2014]  tell: lucas to ^8Lexus: change duel
+[Tue Jan 14 17:05:49 2014]  say: ^8Lexus: ahahahahahaha we all god xD
+[Tue Jan 14 17:05:53 2014]  tell: lucas to ^8Lexus: if u challenge him duel they will dont have god
+[Tue Jan 14 17:05:55 2014]  say: ^8Darth ^3Javimetal: muahahahah
+[Tue Jan 14 17:06:02 2014]  say: lucas: wt
+[Tue Jan 14 17:06:06 2014]  tell: lucas to ^8Lexus: lol
+[Tue Jan 14 17:06:35 2014]  say: lucas: googogogogo
+[Tue Jan 14 17:06:36 2014]  Kill: 0 2 3: ^8Lexus killed ^8Darth ^3Javimetal by MOD_SABER
+[Tue Jan 14 17:06:37 2014]  say: ^8Lexus: gf
+[Tue Jan 14 17:06:37 2014]  say: lucas: LEXUS GOOD!
+[Tue Jan 14 17:06:38 2014]  say: ^8Darth ^3Javimetal: gf
+[Tue Jan 14 17:06:47 2014]  tell: lucas to ^8Lexus: YA
+[Tue Jan 14 17:07:09 2014]  say: lucas: LOL
+[Tue Jan 14 17:07:11 2014]  Kill: 0 2 3: ^8Lexus killed ^8Darth ^3Javimetal by MOD_SABER
+[Tue Jan 14 17:07:13 2014]  say: ^8Lexus: gf
+[Tue Jan 14 17:07:13 2014]  say: lucas: NICE
+[Tue Jan 14 17:07:20 2014]  say: lucas: LEXUS LEGEND
+[Tue Jan 14 17:07:36 2014]  Kill: 1 2 10: lucas killed ^8Darth ^3Javimetal by MOD_DISRUPTOR_SNIPER
+[Tue Jan 14 17:07:41 2014]  say: ^8Darth ^3Javimetal: nice lame
+[Tue Jan 14 17:07:46 2014]  tell: lucas to ^8Lexus: SEND ME TOO?
+[Tue Jan 14 17:07:58 2014]  tell: lucas to ^8Lexus: OH AH
+[Tue Jan 14 17:08:10 2014]  tell: lucas to ^8Lexus: OK
+[Tue Jan 14 17:08:18 2014]  Kill: 0 2 3: ^8Lexus killed ^8Darth ^3Javimetal by MOD_SABER
+[Tue Jan 14 17:08:28 2014]  tell: lucas to ^8Lexus: XD
+[Tue Jan 14 17:09:04 2014]  say: lucas: WAT
+[Tue Jan 14 17:09:27 2014]  say: lucas: ok
+[Tue Jan 14 17:10:06 2014]  tell: lucas to ^8Lexus: lets make movie?
+[Tue Jan 14 17:10:09 2014]  say: lucas: FU
+[Tue Jan 14 17:10:13 2014]  say: ^8Darth ^3Javimetal: muahahahah
+[Tue Jan 14 17:10:17 2014]  tell: lucas to ^8Lexus: U SAVED ME LOL
+[Tue Jan 14 17:10:22 2014]  say: ^8Darth ^3Javimetal: im invisible
+[Tue Jan 14 17:10:29 2014]  say: ^8Lexus: i too lol
+[Tue Jan 14 17:10:34 2014]  tell: lucas to ^8Lexus: THEN I GIVE U NEW SERVER
+[Tue Jan 14 17:10:42 2014]  tell: lucas to ^8Lexus: STAY THERE OK?
+[Tue Jan 14 17:11:07 2014]  say: lucas: LOL
+[Tue Jan 14 17:11:54 2014]  say: ^8Darth ^3Javimetal: /r_pri 5 ;D
+[Tue Jan 14 17:12:00 2014]  tell: lucas to ^8Lexus: WHO WAS THAT
+[Tue Jan 14 17:12:24 2014]  say: lucas: WHO WAS THAT
+[Tue Jan 14 17:12:56 2014]  tell: lucas to ^8Lexus: STORMTROOPERS HAVE WALLHACK LOL
+[Tue Jan 14 17:13:40 2014]  say: lucas: LOL
+[Tue Jan 14 17:13:50 2014]  tell: lucas to ^8Lexus: IM GOING DIE
+[Tue Jan 14 17:13:52 2014]  Kill: 1 1 39: lucas killed lucas by MOD_SUICIDE
+[Tue Jan 14 17:13:56 2014]  say: ^8Darth ^3Javimetal: xD
+[Tue Jan 14 17:14:04 2014]  tell: lucas to ^8Lexus: OK
+[Tue Jan 14 17:14:05 2014]  tell: ^8Darth ^3Javimetal to lucas: back u
+[Tue Jan 14 17:14:39 2014]  tell: lucas to ^8Lexus: OH
+[Tue Jan 14 17:14:41 2014]  say: ^8Darth ^3Javimetal: write r_pri 5 ;D
+[Tue Jan 14 17:14:49 2014]  say: lucas: OK
+[Tue Jan 14 17:14:54 2014]  say: ^8Darth ^3Javimetal: i love this command
+[Tue Jan 14 17:14:58 2014]  say: lucas: ME TOO
+[Tue Jan 14 17:15:02 2014]  say: lucas: IS GOOD FOR NUBS
+[Tue Jan 14 17:15:10 2014]  say: ^8Darth ^3Javimetal: yeah
+[Tue Jan 14 17:15:30 2014]  tell: lucas to ^8Lexus: RAJDR IS GUY WITH SMALL PENIS ..
+[Tue Jan 14 17:15:39 2014]  say: lucas: JAVIN
+[Tue Jan 14 17:15:44 2014]  say: ^8Darth ^3Javimetal: que
+[Tue Jan 14 17:15:52 2014]  say: lucas: LETS MAKE A PLACE?
+[Tue Jan 14 17:15:58 2014]  Kill: 0 0 39: ^8Lexus killed ^8Lexus by MOD_SUICIDE
+[Tue Jan 14 17:16:08 2014]  say: ^8Darth ^3Javimetal: xD i dont have commands xD
+[Tue Jan 14 17:16:09 2014]  Kill: 1 1 39: lucas killed lucas by MOD_SUICIDE
+[Tue Jan 14 17:16:12 2014]  say: lucas: /mlist
+[Tue Jan 14 17:16:20 2014]  say: ^8Darth ^3Javimetal: oh thx
+[Tue Jan 14 17:16:26 2014]  say: lucas: /mlist factory
+[Tue Jan 14 17:16:31 2014]  say: lucas: if u will know what u want spawn type
+[Tue Jan 14 17:16:36 2014]  say: lucas: /mplace factory/[theobject]
+[Tue Jan 14 17:16:47 2014]  Kill: 2 2 39: ^8Darth ^3Javimetal killed ^8Darth ^3Javimetal by MOD_SUICIDE
+[Tue Jan 14 17:16:47 2014]  setteam:  2 FREE SPECTATOR
+[Tue Jan 14 17:16:47 2014]  ClientBegin: 2
+[Tue Jan 14 17:16:56 2014]  say: ^8Darth ^3Javimetal: como main :D
+[Tue Jan 14 17:17:00 2014]  say: ^8Darth ^3Javimetal: come on main
+[Tue Jan 14 17:17:03 2014]  setteam:  2 SPECTATOR FREE
+[Tue Jan 14 17:17:03 2014]  ClientBegin: 2
+[Tue Jan 14 17:17:07 2014]  say: lucas: lexi 
+[Tue Jan 14 17:17:14 2014]  say: lucas: ye
+[Tue Jan 14 17:17:19 2014]  say: ^8Darth ^3Javimetal: here a factory? xD
+[Tue Jan 14 17:17:27 2014]  say: ^8Darth ^3Javimetal: t_var
+[Tue Jan 14 17:17:28 2014]  say: lucas: where
+[Tue Jan 14 17:17:33 2014]  tell: lucas to ^8Lexus: i teach u
+[Tue Jan 14 17:18:07 2014]  say: ^8Darth ^3Javimetal: mmm
+[Tue Jan 14 17:18:33 2014]  say: ^8Darth ^3Javimetal: come on to left portal
+[Tue Jan 14 17:18:38 2014]  say: lucas: ok
+[Tue Jan 14 17:19:24 2014]  say: ^8Darth ^3Javimetal: ok i have the mlist xD how i can make? xDDDD
+[Tue Jan 14 17:19:44 2014]  say: ^8Darth ^3Javimetal: im noob in makermod xD
+[Tue Jan 14 17:19:58 2014]  say: ^8Darth ^3Javimetal: mlist
+[Tue Jan 14 17:20:04 2014]  say: ^8Darth ^3Javimetal: this the command of list
+[Tue Jan 14 17:20:10 2014]  say: ^8Lexus: ik lol
+[Tue Jan 14 17:20:10 2014]  tell: lucas to ^8Lexus: back
+[Tue Jan 14 17:20:38 2014]  say: lucas: wtf
+[Tue Jan 14 17:21:34 2014]  say: lucas: look at that
+[Tue Jan 14 17:22:36 2014]  tell: lucas to ^8Lexus: what)
+[Tue Jan 14 17:22:44 2014]  say: ^8Lexus: xd
+[Tue Jan 14 17:22:46 2014]  say: lucas: stay there
+[Tue Jan 14 17:23:10 2014]  say: ^8Darth ^3Javimetal: ?¿
+[Tue Jan 14 17:23:12 2014]  say: lucas: eh?
+[Tue Jan 14 17:23:17 2014]  say: lucas: combit dat ?
+[Tue Jan 14 17:23:18 2014]  say: lucas: lol
+[Tue Jan 14 17:23:18 2014]  say: ^8Darth ^3Javimetal: aaaaa
+[Tue Jan 14 17:23:35 2014]  say: lucas: its talking yu?
+[Tue Jan 14 17:23:42 2014]  say: lucas: lol
+[Tue Jan 14 17:23:50 2014]  say: lucas: u mother?
+[Tue Jan 14 17:23:57 2014]  say: ^8Lexus: xd
+[Tue Jan 14 17:24:00 2014]  say: lucas: eh
+[Tue Jan 14 17:25:56 2014]  say: lucas: wat u mom saying 
+[Tue Jan 14 17:26:03 2014]  say: lucas: LOL
+[Tue Jan 14 17:26:04 2014]  say: lucas: AHAHAH
+[Tue Jan 14 17:26:13 2014]  say: lucas: so
+[Tue Jan 14 17:26:17 2014]  say: lucas: hes know english?
+[Tue Jan 14 17:26:33 2014]  say: lucas: he know ?
+[Tue Jan 14 17:26:40 2014]  say: lucas: only u sister?
+[Tue Jan 14 17:26:46 2014]  say: lucas: lol
+[Tue Jan 14 17:26:54 2014]  say: ^8Darth ^3Javimetal: xD how is the command for use the objet
+[Tue Jan 14 17:27:05 2014]  say: lucas: /mplace factory/[object
+[Tue Jan 14 17:27:12 2014]  say: lucas: and
+[Tue Jan 14 17:27:21 2014]  say: lucas: hes saying friend?
+[Tue Jan 14 17:27:30 2014]  say: lucas: gufriend lol
+[Tue Jan 14 17:27:30 2014]  say: lucas: ok
+[Tue Jan 14 17:27:44 2014]  say: lucas: and who asked me im bitch!
+[Tue Jan 14 17:27:53 2014]  say: ^8Darth ^3Javimetal: me or lexus? xD
+[Tue Jan 14 17:27:57 2014]  say: lucas: i hear u said this is my friend or idk
+[Tue Jan 14 17:28:09 2014]  say: lucas: LOL
+[Tue Jan 14 17:28:10 2014]  say: lucas: xd
+[Tue Jan 14 17:28:29 2014]  say: lucas: DIE OBIWAN BITCHIBI
+[Tue Jan 14 17:28:45 2014]  say: lucas: NANANH
+[Tue Jan 14 17:28:54 2014]  say: lucas: WTF O_O
+[Tue Jan 14 17:28:57 2014]  say: lucas: HES NOT DED!
+[Tue Jan 14 17:29:05 2014]  say: lucas: I HEAR
+[Tue Jan 14 17:29:08 2014]  say: lucas: EH
+[Tue Jan 14 17:29:12 2014]  say: lucas: U KEYOBOARD?
+[Tue Jan 14 17:29:25 2014]  say: lucas: IM GOOD KSER =P
+[Tue Jan 14 17:29:37 2014]  say: lucas: LOL HEADSHOT AND HES NOT DED
+[Tue Jan 14 17:29:43 2014]  say: lucas: O_O
+[Tue Jan 14 17:30:17 2014]  say: lucas: LUKE VS KYLE XD
+[Tue Jan 14 17:30:28 2014]  ClientDisconnect: 2
+[Tue Jan 14 17:30:35 2014]  say: lucas: XD
+[Tue Jan 14 17:30:36 2014]  say: lucas: MISS
+[Tue Jan 14 17:30:44 2014]  Kill: 0 1 3: ^8Lexus killed lucas by MOD_SABER
+[Tue Jan 14 17:30:45 2014]  say: lucas: XD
+[Tue Jan 14 17:30:45 2014]  say: ^8Lexus: gf
+[Tue Jan 14 17:30:48 2014]  say: lucas: GGG
+[Tue Jan 14 17:30:51 2014]  say: lucas: GUD MAJT
+[Tue Jan 14 17:31:04 2014]  say: lucas: WAT WAS THAT)
+[Tue Jan 14 17:31:14 2014]  say: lucas: JOGURTE!?
+[Tue Jan 14 17:31:20 2014]  say: lucas: XD
+[Tue Jan 14 17:31:24 2014]  say: lucas: i mean
+[Tue Jan 14 17:31:26 2014]  say: lucas: idk
+[Tue Jan 14 17:31:35 2014]  say: lucas: shot in ass!
+[Tue Jan 14 17:31:42 2014]  Kill: 0 1 5: ^8Lexus killed lucas by MOD_BRYAR_PISTOL_ALT
+[Tue Jan 14 17:31:44 2014]  say: lucas: OH GOD
+[Tue Jan 14 17:31:58 2014]  say: lucas: U CAN SEE ONLY MY CHAT LOL
+[Tue Jan 14 17:32:10 2014]  say: lucas: SO WHAT U EATING
+[Tue Jan 14 17:32:23 2014]  say: lucas: say it in u language
+[Tue Jan 14 17:32:40 2014]  say: lucas: oh
+[Tue Jan 14 17:32:47 2014]  say: lucas: czech republic have too this
+[Tue Jan 14 17:32:56 2014]  say: lucas: ASS SHOT IS BEST!
+[Tue Jan 14 17:32:59 2014]  say: lucas: NO IM NOT FAT
+[Tue Jan 14 17:33:06 2014]  say: lucas: YE
+[Tue Jan 14 17:33:07 2014]  say: lucas: IK
+[Tue Jan 14 17:33:08 2014]  say: lucas: I MEN
+[Tue Jan 14 17:33:10 2014]  say: lucas: I MEAN
+[Tue Jan 14 17:33:12 2014]  say: lucas: THE OBIWAN
+[Tue Jan 14 17:33:13 2014]  say: lucas: IS NOT FAT
+[Tue Jan 14 17:33:15 2014]  say: lucas: LOK
+[Tue Jan 14 17:33:18 2014]  say: lucas: DONT
+[Tue Jan 14 17:33:20 2014]  say: lucas: LOOK
+[Tue Jan 14 17:33:22 2014]  say: lucas: AT THE PENIS
+[Tue Jan 14 17:33:26 2014]  say: lucas: PENIS IS FAT?
+[Tue Jan 14 17:33:31 2014]  say: lucas: NOW U KNOW
+[Tue Jan 14 17:33:51 2014]  say: lucas: SO IF IS NOT FAT PENIS ITS NOT OBIWAN KNEOBI)
+[Tue Jan 14 17:34:16 2014]  print "lucas^7 @@@PLRENAME ^0Lucas
+"[Tue Jan 14 17:34:24 2014]  say: ^0Lucas: ok
+[Tue Jan 14 17:34:44 2014]  say: ^0Lucas: OK I MUST QUIT JKA
+[Tue Jan 14 17:34:45 2014]  ClientDisconnect: 1
+[Tue Jan 14 17:34:47 2014]  ClientDisconnect: 0
+[Tue Jan 14 19:00:46 2014]  Exit: Timelimit hit.
+[Wed Jan 15 01:49:10 2014]  ClientConnect: 0
+[Wed Jan 15 01:49:10 2014]  mlog:Player Matthew, connected. With IP - 174.126.79.124:29070 
+[Wed Jan 15 01:49:53 2014]  ClientBegin: 0
+[Wed Jan 15 01:50:01 2014]  ShutdownGame:
+[Wed Jan 15 01:50:01 2014]  ------------------------------------------------------------

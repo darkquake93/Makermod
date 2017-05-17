@@ -1,0 +1,66 @@
+[Fri Oct 11 18:45:05 2013]  ------------------------------------------------------------
+[Fri Oct 11 18:45:05 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Oct 11 18:45:07 2013]  ClientConnect: 0
+[Fri Oct 11 18:45:27 2013]  ClientBegin: 0
+[Fri Oct 11 18:45:32 2013]  ClientConnect: 1
+[Fri Oct 11 18:45:32 2013]  mlog:Player Moanoli, connected. With IP - 91.1.227.7:29070 
+[Fri Oct 11 18:45:52 2013]  ClientBegin: 1
+[Fri Oct 11 18:46:04 2013]  Kill: 0 1 3: Rickadonia killed Moanoli by MOD_SABER
+[Fri Oct 11 18:46:43 2013]  say: Rickadonia: deathmapall
+[Fri Oct 11 18:52:08 2013]  say: Rickadonia: spawn_
+[Fri Oct 11 18:52:14 2013]  say: Rickadonia: spawn_Lasersword
+[Fri Oct 11 18:53:14 2013]  ClientDisconnect: 1
+[Fri Oct 11 18:53:18 2013]  ClientDisconnect: 0
+[Fri Oct 11 18:53:29 2013]  ClientConnect: 0
+[Fri Oct 11 18:53:29 2013]  mlog:Player Rickadonia, connected. With IP - 91.23.191.188:29070 
+[Fri Oct 11 18:53:38 2013]  ClientBegin: 0
+[Fri Oct 11 18:54:05 2013]  ClientDisconnect: 0
+[Fri Oct 11 20:45:04 2013]  Exit: Timelimit hit.
+[Fri Oct 11 21:16:52 2013]  ClientConnect: 0
+[Fri Oct 11 21:16:52 2013]  mlog:Player Padawan, connected. With IP - 46.5.0.191:29070 
+[Fri Oct 11 21:17:10 2013]  ClientBegin: 0
+[Fri Oct 11 21:17:18 2013]  print "Padawan^7 @@@PLRENAME moep.se
+"[Fri Oct 11 21:17:24 2013]  ClientConnect: 1
+[Fri Oct 11 21:17:24 2013]  mlog:Player herr_longus, connected. With IP - 217.229.2.111:29070 
+[Fri Oct 11 21:17:40 2013]  ShutdownGame:
+[Fri Oct 11 21:17:40 2013]  ------------------------------------------------------------
+[Fri Oct 11 21:17:40 2013]  ------------------------------------------------------------
+[Fri Oct 11 21:17:40 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Oct 11 21:17:41 2013]  ClientConnect: 0
+[Fri Oct 11 21:17:41 2013]  ClientConnect: 1
+[Fri Oct 11 21:17:49 2013]  ClientBegin: 0
+[Fri Oct 11 21:18:06 2013]  ClientBegin: 1
+[Fri Oct 11 21:19:39 2013]  Kill: 0 1 3: moep.se killed herr_longus by MOD_SABER
+[Fri Oct 11 21:28:26 2013]  Kill: 1022 0 2: <world> killed moep.se by MOD_MELEE
+[Fri Oct 11 21:29:34 2013]  Kill: 0 1 3: moep.se killed herr_longus by MOD_SABER
+[Fri Oct 11 21:32:28 2013]  ClientConnect: 2
+[Fri Oct 11 21:32:28 2013]  mlog:Player VerglaX, connected. With IP - 86.73.108.8:29070 
+[Fri Oct 11 21:32:35 2013]  ClientConnect: 3
+[Fri Oct 11 21:32:35 2013]  mlog:Player Ch@rly, connected. With IP - 81.56.99.214:29070 
+[Fri Oct 11 21:32:44 2013]  ClientBegin: 2
+[Fri Oct 11 21:33:03 2013]  ClientBegin: 3
+[Fri Oct 11 21:34:09 2013]  Kill: 2 1 31: VerglaX killed herr_longus by MOD_FORCE_DARK
+[Fri Oct 11 21:34:22 2013]  Kill: 2 3 31: VerglaX killed Ch@rlY by MOD_FORCE_DARK
+[Fri Oct 11 21:38:47 2013]  Kill: 2 0 3: VerglaX killed moep.se by MOD_SABER
+[Fri Oct 11 21:38:50 2013]  Kill: 3 1 3: Ch@rlY killed herr_longus by MOD_SABER
+[Fri Oct 11 21:39:59 2013]  Kill: 2 3 31: VerglaX killed Ch@rlY by MOD_FORCE_DARK
+[Fri Oct 11 21:40:10 2013]  say: moep.se: npc kill all
+[Fri Oct 11 21:40:14 2013]  ClientDisconnect: 1
+[Fri Oct 11 21:41:30 2013]  Kill: 1022 0 2: <world> killed moep.se by MOD_MELEE
+[Fri Oct 11 21:41:38 2013]  say: moep.se: exit
+[Fri Oct 11 21:41:45 2013]  ClientDisconnect: 0
+[Fri Oct 11 21:42:52 2013]  Item: 2 weapon_concussion_rifle
+[Fri Oct 11 21:42:53 2013]  Item: 2 weapon_bryar_pistol
+[Fri Oct 11 21:42:53 2013]  Item: 2 weapon_flechette
+[Fri Oct 11 21:42:54 2013]  Item: 2 weapon_demp2
+[Fri Oct 11 21:42:56 2013]  Item: 2 weapon_repeater
+[Fri Oct 11 21:42:58 2013]  Item: 2 weapon_bowcaster
+[Fri Oct 11 21:44:06 2013]  ClientDisconnect: 3
+[Fri Oct 11 21:44:06 2013]  Kill: 1022 2 2: <world> killed VerglaX by MOD_MELEE
+[Fri Oct 11 21:44:25 2013]  ClientDisconnect: 2
+[Fri Oct 11 23:17:39 2013]  Exit: Timelimit hit.
+[Sat Oct 12 09:54:02 2013]  ClientConnect: 0
+[Sat Oct 12 09:54:02 2013]  mlog:Player Padawan, connected. With IP - 109.47.0.26:-8493 
+[Sat Oct 12 09:54:49 2013]  ClientBegin: 0
+[Sat Oct 12 09:54:53 2013]  ShutdownGame:
+[Sat Oct 12 09:54:53 2013]  ------------------------------------------------------------

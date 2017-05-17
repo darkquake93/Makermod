@@ -1,0 +1,619 @@
+[Wed Oct 30 06:43:20 2013]  ------------------------------------------------------------
+[Wed Oct 30 06:43:20 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 30 06:43:21 2013]  ClientConnect: 0
+[Wed Oct 30 06:43:21 2013]  ClientConnect: 1
+[Wed Oct 30 06:43:24 2013]  ClientBegin: 0
+[Wed Oct 30 06:43:33 2013]  ClientBegin: 1
+[Wed Oct 30 06:45:13 2013]  ClientDisconnect: 1
+[Wed Oct 30 08:43:19 2013]  Exit: Timelimit hit.
+[Wed Oct 30 08:43:19 2013]  score: 0  ping: 55  client: 0 ^6Pinkie Bot^7
+[Wed Oct 30 09:25:29 2013]  ClientConnect: 1
+[Wed Oct 30 09:25:29 2013]  mlog:Player Padawan, connected. With IP - 178.123.206.77:29070 
+[Wed Oct 30 09:26:24 2013]  ClientBegin: 1
+[Wed Oct 30 09:26:58 2013]  ShutdownGame:
+[Wed Oct 30 09:26:58 2013]  ------------------------------------------------------------
+[Wed Oct 30 09:26:58 2013]  ------------------------------------------------------------
+[Wed Oct 30 09:26:58 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 30 09:27:00 2013]  ClientConnect: 0
+[Wed Oct 30 09:27:00 2013]  ClientConnect: 1
+[Wed Oct 30 09:27:03 2013]  ClientBegin: 0
+[Wed Oct 30 09:27:42 2013]  ClientBegin: 1
+[Wed Oct 30 09:28:28 2013]  Item: 1 weapon_melee
+[Wed Oct 30 09:28:37 2013]  Kill: 1 0 0: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_UNKNOWN
+[Wed Oct 30 09:30:41 2013]  ClientConnect: 2
+[Wed Oct 30 09:30:41 2013]  mlog:Player maxim, connected. With IP - 46.39.248.67:-14620 
+[Wed Oct 30 09:30:50 2013]  Kill: 1 0 0: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_UNKNOWN
+[Wed Oct 30 09:30:56 2013]  ClientBegin: 2
+[Wed Oct 30 09:31:04 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: o privet maxsim
+[Wed Oct 30 09:32:21 2013]  Kill: 1 0 0: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_UNKNOWN
+[Wed Oct 30 09:32:26 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: privet
+[Wed Oct 30 09:32:35 2013]  say: maxim: ку
+[Wed Oct 30 09:32:40 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: помниш меня
+[Wed Oct 30 09:32:44 2013]  say: maxim: кашь
+[Wed Oct 30 09:32:48 2013]  say: maxim: да
+[Wed Oct 30 09:32:48 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: кто
+[Wed Oct 30 09:33:03 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: я пытаюсь создовать скрипты
+[Wed Oct 30 09:33:32 2013]  say: maxim: ето я н7азываю супер прыжок
+[Wed Oct 30 09:33:38 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: зщлфяш
+[Wed Oct 30 09:33:40 2013]  say: maxim: смари вверх
+[Wed Oct 30 09:33:42 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: покажи
+[Wed Oct 30 09:33:50 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: вау
+[Wed Oct 30 09:34:03 2013]  say: maxim: встань на меня
+[Wed Oct 30 09:34:19 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: я скольжу
+[Wed Oct 30 09:34:26 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: ооо
+[Wed Oct 30 09:34:35 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: .пщв
+[Wed Oct 30 09:34:47 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: mini skript
+[Wed Oct 30 09:35:45 2013]  Kill: 1 0 2: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_MELEE
+[Wed Oct 30 09:36:07 2013]  say: maxim: давай на меня
+[Wed Oct 30 09:36:15 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: viiiiiiiiiii
+[Wed Oct 30 09:36:39 2013]  say: maxim: я на тебя
+[Wed Oct 30 09:37:49 2013]  say: maxim: на меняъ
+[Wed Oct 30 09:37:52 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: ok
+[Wed Oct 30 09:38:01 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: uuuuu
+[Wed Oct 30 09:38:12 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: stoi ya proveru
+[Wed Oct 30 09:38:21 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: slabii
+[Wed Oct 30 09:38:23 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: (((
+[Wed Oct 30 09:38:28 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: blin
+[Wed Oct 30 09:38:43 2013]  say: maxim: я посморю в /mlistfx еще шонть
+[Wed Oct 30 09:38:43 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: moi skripti fighnya
+[Wed Oct 30 09:38:46 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: g*
+[Wed Oct 30 09:39:14 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: saber/
+[Wed Oct 30 09:41:01 2013]  Kill: 1 0 36: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Wed Oct 30 09:42:45 2013]  Kill: 1 0 3: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 09:43:01 2013]  ClientConnect: 3
+[Wed Oct 30 09:43:01 2013]  mlog:Player Hake'ukesodan, connected. With IP - 149.254.181.119:-26965 
+[Wed Oct 30 09:44:27 2013]  Kill: 2 0 36: maxim killed ^6Pinkie Bot^7 by MOD_CRUSH
+[Wed Oct 30 09:44:32 2013]  ClientBegin: 3
+[Wed Oct 30 09:45:03 2013]  Kill: 2 3 31: maxim killed Hake'ukesohan by MOD_FORCE_DARK
+[Wed Oct 30 09:45:37 2013]  Kill: 1 0 2: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_MELEE
+[Wed Oct 30 09:46:26 2013]  say: maxim: как кординаты сказать?
+[Wed Oct 30 09:46:35 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: My origin is: (-5574 -22341 1704) - You can teleport here with /mtelelast
+
+[Wed Oct 30 09:46:42 2013]  say: maxim: не мне как?
+[Wed Oct 30 09:47:16 2013]  say: maxim: а
+[Wed Oct 30 09:47:18 2013]  say: maxim: аллее
+[Wed Oct 30 09:47:24 2013]  say: maxim: как мне
+[Wed Oct 30 09:47:59 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: o net
+[Wed Oct 30 09:48:16 2013]  Kill: 1 0 0: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_UNKNOWN
+[Wed Oct 30 09:48:21 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: hello
+[Wed Oct 30 09:48:40 2013]  say: Hake'ukesohan: hi
+[Wed Oct 30 09:48:58 2013]  say: Hake'ukesohan: ^1Combat ^0Script V1.1 By ^0Jawa Hunter
+[Wed Oct 30 09:49:00 2013]  say: Hake'ukesohan: ^0ARG!!!!! 
+[Wed Oct 30 09:50:12 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: ei
+[Wed Oct 30 09:50:15 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: nu ok!
+[Wed Oct 30 09:50:18 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: agggg
+[Wed Oct 30 09:50:23 2013]  say: maxim: я щя
+[Wed Oct 30 09:51:16 2013]  say: Hake'ukesohan: ewh
+[Wed Oct 30 09:51:27 2013]  say: Hake'ukesohan: what sort of script is that?
+[Wed Oct 30 09:51:40 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: rus plz
+[Wed Oct 30 09:51:49 2013]  say: Hake'ukesohan: i dont speak it
+[Wed Oct 30 09:51:53 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: ((
+[Wed Oct 30 09:52:06 2013]  say: Hake'ukesohan: are you from that illuminati clan?
+[Wed Oct 30 09:52:11 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: yes
+[Wed Oct 30 09:52:39 2013]  say: Hake'ukesohan: is it actually the illuminati or is it just a name
+[Wed Oct 30 09:53:18 2013]  say: maxim: бойтесь меня!
+[Wed Oct 30 09:54:19 2013]  say: maxim: я портал домой сделаю
+[Wed Oct 30 09:55:49 2013]  say: Hake'ukesohan: lol
+[Wed Oct 30 09:56:34 2013]  Kill: 1 0 2: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_MELEE
+[Wed Oct 30 09:57:04 2013]  Item: 3 item_cloak
+[Wed Oct 30 09:57:04 2013]  Item: 3 item_seeker
+[Wed Oct 30 09:57:04 2013]  Item: 3 item_binoculars
+[Wed Oct 30 09:57:04 2013]  Item: 3 item_sentry_gun
+[Wed Oct 30 09:57:04 2013]  Item: 3 item_medpac
+[Wed Oct 30 09:57:04 2013]  Item: 3 item_shield
+[Wed Oct 30 09:57:04 2013]  Item: 3 item_medpac_big
+[Wed Oct 30 09:57:04 2013]  Item: 3 item_eweb_holdable
+[Wed Oct 30 09:57:34 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: xD
+[Wed Oct 30 09:58:08 2013]  say: maxim: My origin is: (-5673 -20909 1521) - You can teleport here with /mtelelast
+
+[Wed Oct 30 09:58:12 2013]  Kill: 1 0 3: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 09:59:33 2013]  Kill: 3 3 39: Hake'ukesohan killed Hake'ukesohan by MOD_SUICIDE
+[Wed Oct 30 09:59:44 2013]  Item: 3 item_cloak
+[Wed Oct 30 09:59:44 2013]  Item: 3 item_seeker
+[Wed Oct 30 09:59:44 2013]  Item: 3 item_binoculars
+[Wed Oct 30 09:59:44 2013]  Item: 3 item_sentry_gun
+[Wed Oct 30 09:59:44 2013]  Item: 3 item_medpac
+[Wed Oct 30 09:59:44 2013]  Item: 3 item_shield
+[Wed Oct 30 09:59:44 2013]  Item: 3 item_medpac_big
+[Wed Oct 30 09:59:44 2013]  Item: 3 item_eweb_holdable
+[Wed Oct 30 10:00:03 2013]  Kill: 1 0 2: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_MELEE
+[Wed Oct 30 10:01:57 2013]  Kill: 3 0 3: Hake'ukesohan killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 10:02:33 2013]  say: Hake'ukesohan: ^1AHHHHHHHH!!!!!
+[Wed Oct 30 10:02:52 2013]  say: maxim: dcnfym yf ,tkjt
+[Wed Oct 30 10:02:56 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: 4to
+[Wed Oct 30 10:02:58 2013]  say: maxim: встань на белый пар
+[Wed Oct 30 10:03:25 2013]  say: maxim: отойдика
+[Wed Oct 30 10:03:37 2013]  say: maxim: вст
+[Wed Oct 30 10:03:45 2013]  say: maxim: ну 
+[Wed Oct 30 10:03:47 2013]  say: maxim: встовай
+[Wed Oct 30 10:04:17 2013]  ClientDisconnect: 2
+[Wed Oct 30 10:04:22 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: o nou
+[Wed Oct 30 10:04:27 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: y
+[Wed Oct 30 10:04:57 2013]  Kill: 1 0 2: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_MELEE
+[Wed Oct 30 10:05:30 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: xD
+[Wed Oct 30 10:05:35 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: (((
+[Wed Oct 30 10:05:39 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: ahhhhhhhhhhhhhhhhhhh
+[Wed Oct 30 10:05:47 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: bb
+[Wed Oct 30 10:05:49 2013]  ClientDisconnect: 1
+[Wed Oct 30 10:06:35 2013]  ClientConnect: 1
+[Wed Oct 30 10:06:35 2013]  mlog:Player ^9Di^3NaMiT^8]ILLUMINATI[, connected. With IP - 178.123.206.77:29070 
+[Wed Oct 30 10:07:31 2013]  Kill: 3 0 3: Hake'ukesohan killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 10:08:34 2013]  ClientConnect: 2
+[Wed Oct 30 10:08:34 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 86.182.62.203:29070 
+[Wed Oct 30 10:09:03 2013]  Kill: 3 0 3: Hake'ukesohan killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 10:09:14 2013]  ClientBegin: 2
+[Wed Oct 30 10:09:25 2013]  say: ^3^0Darth^8 ^7Clac^8k DL: hi 
+[Wed Oct 30 10:09:26 2013]  ClientDisconnect: 1
+[Wed Oct 30 10:09:26 2013]  ClientConnect: 1
+[Wed Oct 30 10:09:26 2013]  mlog:Player Padawan, connected. With IP - 178.123.206.77:29070 
+[Wed Oct 30 10:09:27 2013]  say: Hake'ukesohan: hey
+[Wed Oct 30 10:10:02 2013]  say: Hake'ukesohan: where did ya go?
+[Wed Oct 30 10:10:11 2013]  ClientBegin: 1
+[Wed Oct 30 10:10:17 2013]  Kill: 2 0 3: ^3^0Darth^8 ^7Clac^8k DL killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 10:12:30 2013]  say: Hake'ukesohan: lol
+[Wed Oct 30 10:13:03 2013]  Item: 1 weapon_melee
+[Wed Oct 30 10:14:20 2013]  say: ^3^0Darth^8 ^7Clac^8k DL: bb all im going to makermod eu
+[Wed Oct 30 10:14:22 2013]  ClientDisconnect: 2
+[Wed Oct 30 10:14:43 2013]  Kill: 1 0 0: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_UNKNOWN
+[Wed Oct 30 10:16:19 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: stop attak!
+[Wed Oct 30 10:18:11 2013]  Kill: 1 0 2: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_MELEE
+[Wed Oct 30 10:18:24 2013]  say: Hake'ukesohan: ^1AHHHHHHHH!!!!!
+[Wed Oct 30 10:18:39 2013]  say: Hake'ukesohan: ^1AHHHHHHHH!!!!!
+[Wed Oct 30 10:18:59 2013]  say: Hake'ukesohan: ^1AHHHHHHHH!!!!!
+[Wed Oct 30 10:20:20 2013]  ClientConnect: 2
+[Wed Oct 30 10:20:20 2013]  mlog:Player ^1D^3a^2n^1^4@Mojang.^1com, connected. With IP - 86.182.62.203:29070 
+[Wed Oct 30 10:20:33 2013]  ClientBegin: 2
+[Wed Oct 30 10:20:41 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: hi everyone 
+[Wed Oct 30 10:20:46 2013]  say: Hake'ukesohan: hey
+[Wed Oct 30 10:20:56 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: speak rus?
+[Wed Oct 30 10:21:06 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: why u want to know
+[Wed Oct 30 10:21:11 2013]  say: Hake'ukesohan: let him speak english if he wants
+[Wed Oct 30 10:21:38 2013]  Kill: 1 0 3: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 10:21:55 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Wed Oct 30 10:21:56 2013]  say: Hake'ukesohan: yo dan, join the game
+[Wed Oct 30 10:21:56 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Wed Oct 30 10:22:06 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^1FIRE BALL!
+[Wed Oct 30 10:23:22 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: there we go
+[Wed Oct 30 10:23:35 2013]  say: Hake'ukesohan: where r u dan?
+[Wed Oct 30 10:23:46 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: My origin is: (3136 -11991 1474) - You can teleport here with /mtelelast
+
+[Wed Oct 30 10:24:09 2013]  say: Hake'ukesohan: what r u doing inside the map lol
+[Wed Oct 30 10:24:26 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: have'ing fun
+[Wed Oct 30 10:24:28 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:24:52 2013]  say: Hake'ukesohan: what scripts do u have, besides the usual element one
+[Wed Oct 30 10:25:05 2013]  Kill: 1 0 3: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 10:25:14 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: my own but it doesent work on this sever :P
+[Wed Oct 30 10:25:23 2013]  say: Hake'ukesohan: oh what does it do?
+[Wed Oct 30 10:25:58 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: it can shoot a laser and turn me into fire 
+[Wed Oct 30 10:25:59 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:00 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:01 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:02 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:02 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 10:26:05 2013]  say: Hake'ukesohan: nicew
+[Wed Oct 30 10:26:07 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: My origin is: (-6900 -21132 1079) - You can teleport here with /mtelelast
+
+[Wed Oct 30 10:26:35 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: yay
+[Wed Oct 30 10:26:55 2013]  Kill: 1 0 3: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 10:27:30 2013]  ClientConnect: 4
+[Wed Oct 30 10:27:30 2013]  mlog:Player good, connected. With IP - 89.179.70.205:29070 
+[Wed Oct 30 10:27:48 2013]  say: Hake'ukesohan: well it's good that good connected LOL!
+[Wed Oct 30 10:28:15 2013]  ClientBegin: 4
+[Wed Oct 30 10:28:34 2013]  Kill: 1022 4 36: <world> killed Padawan by MOD_CRUSH
+[Wed Oct 30 10:28:43 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^4Po^1wer^3 S^0cript^3 ^7V1 ^1By^4 ^1D^3a^2n^4@Mojang,^1com
+[Wed Oct 30 10:28:45 2013]  say: Hake'ukesohan: muahahahah!
+[Wed Oct 30 10:28:55 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: thats what its called cant use it though 
+[Wed Oct 30 10:29:01 2013]  say: Hake'ukesohan: ah
+[Wed Oct 30 10:29:13 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: bb
+[Wed Oct 30 10:29:16 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: cya
+[Wed Oct 30 10:29:19 2013]  ClientDisconnect: 1
+[Wed Oct 30 10:29:43 2013]  Kill: 2 0 3: ^1D^3a^2n^1^4@Mojang.^1com killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 10:30:05 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: why is that bot here hes just standing tehre
+[Wed Oct 30 10:30:07 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: there
+[Wed Oct 30 10:30:10 2013]  say: Hake'ukesohan: dunno
+[Wed Oct 30 10:30:18 2013]  say: Hake'ukesohan: pisses me off all the time
+[Wed Oct 30 10:30:31 2013]  say: Hake'ukesohan: yo padawan
+[Wed Oct 30 10:30:38 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: diden't he used to be on eqesta
+[Wed Oct 30 10:30:41 2013]  say: Hake'ukesohan: get outta da ground
+[Wed Oct 30 10:30:53 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: lag
+[Wed Oct 30 10:31:05 2013]  Kill: 2 2 39: ^1D^3a^2n^1^4@Mojang.^1com killed ^1D^3a^2n^1^4@Mojang.^1com by MOD_SUICIDE
+[Wed Oct 30 10:31:05 2013]  setteam:  2 FREE SPECTATOR
+[Wed Oct 30 10:31:05 2013]  ClientBegin: 2
+[Wed Oct 30 10:31:13 2013]  say: Hake'ukesohan: yep
+[Wed Oct 30 10:32:03 2013]  ClientDisconnect: 2
+[Wed Oct 30 10:32:16 2013]  ClientDisconnect: 3
+[Wed Oct 30 10:32:38 2013]  ClientConnect: 1
+[Wed Oct 30 10:32:38 2013]  mlog:Player Hake'ukesohan, connected. With IP - 149.254.181.119:-26965 
+[Wed Oct 30 10:33:07 2013]  ClientBegin: 1
+[Wed Oct 30 10:34:12 2013]  ClientDisconnect: 1
+[Wed Oct 30 10:37:37 2013]  ClientDisconnect: 4
+[Wed Oct 30 10:37:37 2013]  ClientDisconnect: 4
+[Wed Oct 30 10:37:37 2013]  ClientConnect: 4
+[Wed Oct 30 10:37:37 2013]  mlog:Player Padawan, connected. With IP - 89.179.70.205:29070 
+[Wed Oct 30 10:37:48 2013]  ClientBegin: 4
+[Wed Oct 30 10:37:54 2013]  ClientConnect: 1
+[Wed Oct 30 10:37:54 2013]  mlog:Player Hake'ukesohan, connected. With IP - 149.254.181.156:-8261 
+[Wed Oct 30 10:38:23 2013]  ClientBegin: 1
+[Wed Oct 30 10:39:33 2013]  ClientDisconnect: 1
+[Wed Oct 30 10:39:52 2013]  ClientDisconnect: 4
+[Wed Oct 30 10:56:41 2013]  ClientConnect: 1
+[Wed Oct 30 10:56:41 2013]  mlog:Player Padawan, connected. With IP - 178.123.206.77:29070 
+[Wed Oct 30 10:57:47 2013]  ClientBegin: 1
+[Wed Oct 30 10:58:08 2013]  Item: 1 weapon_melee
+[Wed Oct 30 10:58:33 2013]  Kill: 1 0 0: ^9Di^3NaMiT^8]ILLUMINATI[ killed ^6Pinkie Bot^7 by MOD_UNKNOWN
+[Wed Oct 30 10:59:25 2013]  ClientConnect: 2
+[Wed Oct 30 10:59:25 2013]  mlog:Player Padawan, connected. With IP - 89.179.70.205:29070 
+[Wed Oct 30 10:59:48 2013]  ClientBegin: 2
+[Wed Oct 30 10:59:56 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: hello
+[Wed Oct 30 11:00:00 2013]  say: Padawan: fuck u
+[Wed Oct 30 11:00:13 2013]  say: Padawan: ahhahhahaha
+[Wed Oct 30 11:00:34 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: xD
+[Wed Oct 30 11:00:47 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: velium?
+[Wed Oct 30 11:01:14 2013]  say: Padawan: Owned by Atemi
+[Wed Oct 30 11:01:31 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: xD
+[Wed Oct 30 11:01:36 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: super!
+[Wed Oct 30 11:03:23 2013]  say: Padawan: ahahahhahahahahhaha
+[Wed Oct 30 11:03:42 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: xD
+[Wed Oct 30 11:03:59 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: ese
+[Wed Oct 30 11:04:35 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: kruto!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[Wed Oct 30 11:04:46 2013]  ClientDisconnect: 0
+[Wed Oct 30 11:04:46 2013]  ClientDisconnect: 1
+[Wed Oct 30 11:07:45 2013]  ClientDisconnect: 2
+[Wed Oct 30 11:26:57 2013]  Exit: Timelimit hit.
+[Wed Oct 30 11:47:30 2013]  ClientConnect: 0
+[Wed Oct 30 11:47:30 2013]  mlog:Player ^6Pinkie Bot^7, connected. With IP - 79.100.96.163:29072 
+[Wed Oct 30 11:47:34 2013]  ClientBegin: 0
+[Wed Oct 30 11:49:36 2013]  ClientConnect: 1
+[Wed Oct 30 11:49:36 2013]  mlog:Player Padawan, connected. With IP - 178.123.206.77:29070 
+[Wed Oct 30 11:50:41 2013]  ClientBegin: 1
+[Wed Oct 30 11:50:57 2013]  ShutdownGame:
+[Wed Oct 30 11:50:57 2013]  ------------------------------------------------------------
+[Wed Oct 30 11:50:58 2013]  ------------------------------------------------------------
+[Wed Oct 30 11:50:58 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 30 11:50:58 2013]  ClientConnect: 0
+[Wed Oct 30 11:50:58 2013]  ClientConnect: 1
+[Wed Oct 30 11:51:01 2013]  ClientBegin: 0
+[Wed Oct 30 11:51:26 2013]  ClientBegin: 1
+[Wed Oct 30 11:52:19 2013]  ClientDisconnect: 0
+[Wed Oct 30 11:53:21 2013]  ClientConnect: 0
+[Wed Oct 30 11:53:21 2013]  mlog:Player ^6Pinkie Bot^7, connected. With IP - 79.100.96.163:29072 
+[Wed Oct 30 11:53:25 2013]  ClientBegin: 0
+[Wed Oct 30 11:53:26 2013]  say: ^6Pinkie Bot^7: pardon me
+[Wed Oct 30 12:04:05 2013]  Item: 1 weapon_blaster
+[Wed Oct 30 12:04:05 2013]  Item: 1 weapon_blaster
+[Wed Oct 30 12:07:49 2013]  ClientConnect: 2
+[Wed Oct 30 12:07:49 2013]  mlog:Player Alt@ir, connected. With IP - 89.145.152.30:29070 
+[Wed Oct 30 12:08:04 2013]  ClientBegin: 2
+[Wed Oct 30 12:08:10 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: privet
+[Wed Oct 30 12:08:14 2013]  say: Altair Karon: helpusobi 1
+[Wed Oct 30 12:08:22 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: привет
+[Wed Oct 30 12:08:24 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: тут читы
+[Wed Oct 30 12:08:26 2013]  say: Altair Karon: ns rnj&
+[Wed Oct 30 12:08:36 2013]  say: Altair Karon: ты кто?
+[Wed Oct 30 12:08:41 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: незнаю
+[Wed Oct 30 12:08:45 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: динамит
+[Wed Oct 30 12:08:47 2013]  say: Altair Karon: хахаха
+[Wed Oct 30 12:08:54 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: ты пытаешс читы ввести
+[Wed Oct 30 12:08:57 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: я
+[Wed Oct 30 12:08:58 2013]  say: Altair Karon: ты где
+[Wed Oct 30 12:09:07 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: My origin is: (-9642 -804 -487) - You can teleport here with /mtelelast
+
+[Wed Oct 30 12:09:15 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: пиши /mtelelast
+[Wed Oct 30 12:09:56 2013]  say: Altair Karon: npc spawn luke
+[Wed Oct 30 12:10:02 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: ne tak
+[Wed Oct 30 12:10:15 2013]  say: Altair Karon: npc spawn luke
+[Wed Oct 30 12:10:21 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: ne tak!
+[Wed Oct 30 12:10:28 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: смотри
+[Wed Oct 30 12:10:43 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: щш
+[Wed Oct 30 12:10:45 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: ой
+[Wed Oct 30 12:11:01 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: аххаха
+[Wed Oct 30 12:11:13 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: не зли меня!
+[Wed Oct 30 12:11:21 2013]  say: Altair Karon: думаешь ноклип тебе поможет
+[Wed Oct 30 12:11:55 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: наподай
+[Wed Oct 30 12:12:28 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: My origin is: (-9458 -853 -344) - You can teleport here with /mtelelast
+
+[Wed Oct 30 12:14:51 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: My origin is: (-6737 525 -753) - You can teleport here with /mtelelast
+
+[Wed Oct 30 12:15:11 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: My origin is: (-9737 35 -3128) - You can teleport here with /mtelelast
+
+[Wed Oct 30 12:15:28 2013]  say: Altair Karon: я щас прийду
+[Wed Oct 30 12:15:33 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: ok
+[Wed Oct 30 12:17:00 2013]  ClientConnect: 3
+[Wed Oct 30 12:17:00 2013]  mlog:Player Padawan, connected. With IP - 89.179.70.205:29070 
+[Wed Oct 30 12:17:22 2013]  ClientBegin: 3
+[Wed Oct 30 12:21:00 2013]  say: Altair Karon: не нашел меняъ
+[Wed Oct 30 12:21:11 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: я и не искал
+[Wed Oct 30 12:21:23 2013]  say: Altair Karon: ладно тогда просто не мешай
+[Wed Oct 30 12:23:42 2013]  ClientDisconnect: 2
+[Wed Oct 30 12:23:56 2013]  ClientConnect: 2
+[Wed Oct 30 12:23:56 2013]  mlog:Player Altair Karon, connected. With IP - 89.145.152.30:29070 
+[Wed Oct 30 12:24:07 2013]  ClientBegin: 2
+[Wed Oct 30 12:25:40 2013]  say: Altair Karon: ты где?
+[Wed Oct 30 12:25:52 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: My origin is: (-12617 -1249 -423) - You can teleport here with /mtelelast
+
+[Wed Oct 30 12:26:40 2013]  say: Altair Karon: у меня проблемы с соединением знаешь что сделать
+[Wed Oct 30 12:27:01 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: yfc lljczn 'nj e dct[
+[Wed Oct 30 12:27:14 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: нас ддосят это у всех
+[Wed Oct 30 12:27:19 2013]  ClientDisconnect: 3
+[Wed Oct 30 12:27:37 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: все
+[Wed Oct 30 12:27:43 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: это ииза падавана
+[Wed Oct 30 12:27:47 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: изза
+[Wed Oct 30 12:27:57 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: .пщв
+[Wed Oct 30 12:28:24 2013]  say: Altair Karon: ты знешь макса
+[Wed Oct 30 12:28:29 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: da
+[Wed Oct 30 12:29:15 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: я афк
+[Wed Oct 30 12:29:45 2013]  say: Altair Karon: блядь ты что сделал!?
+[Wed Oct 30 12:30:31 2013]  say: ^9Di^3NaMiT^8]ILLUMINATI[: пока
+[Wed Oct 30 12:30:39 2013]  ClientDisconnect: 1
+[Wed Oct 30 12:30:48 2013]  ClientDisconnect: 2
+[Wed Oct 30 13:13:29 2013]  ClientConnect: 1
+[Wed Oct 30 13:13:29 2013]  mlog:Player maxim, connected. With IP - 46.39.248.67:-30587 
+[Wed Oct 30 13:13:53 2013]  ClientBegin: 1
+[Wed Oct 30 13:15:10 2013]  ClientDisconnect: 1
+[Wed Oct 30 13:50:57 2013]  Exit: Timelimit hit.
+[Wed Oct 30 13:50:57 2013]  score: 0  ping: 60  client: 0 ^6Pinkie Bot^7
+[Wed Oct 30 14:31:58 2013]  ClientConnect: 1
+[Wed Oct 30 14:31:58 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 86.182.62.203:29070 
+[Wed Oct 30 14:32:28 2013]  ClientBegin: 1
+[Wed Oct 30 14:32:44 2013]  ShutdownGame:
+[Wed Oct 30 14:32:44 2013]  ------------------------------------------------------------
+[Wed Oct 30 14:32:44 2013]  ------------------------------------------------------------
+[Wed Oct 30 14:32:44 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 30 14:32:46 2013]  ClientConnect: 0
+[Wed Oct 30 14:32:46 2013]  ClientConnect: 1
+[Wed Oct 30 14:32:49 2013]  ClientBegin: 0
+[Wed Oct 30 14:33:08 2013]  ClientBegin: 1
+[Wed Oct 30 14:35:19 2013]  ClientConnect: 2
+[Wed Oct 30 14:35:19 2013]  mlog:Player ^1Killer ^2Crock, connected. With IP - 86.182.62.203:1024 
+[Wed Oct 30 14:36:22 2013]  ClientBegin: 2
+[Wed Oct 30 14:36:40 2013]  ClientConnect: 3
+[Wed Oct 30 14:36:40 2013]  mlog:Player {Kotr}Altair, connected. With IP - 89.145.152.30:29070 
+[Wed Oct 30 14:36:49 2013]  Kill: 1 0 3: ^1D^3a^2n^1^4@Mojang.^1com killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 14:36:54 2013]  Kill: 1 2 3: ^1D^3a^2n^1^4@Mojang.^1com killed ^1^1^2Bounty^1Rp^3^0Comman by MOD_SABER
+[Wed Oct 30 14:37:16 2013]  ClientBegin: 3
+[Wed Oct 30 14:37:38 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: hi
+[Wed Oct 30 14:37:47 2013]  say: Altair Karon: helpusobi 1
+[Wed Oct 30 14:38:17 2013]  Kill: 1 0 3: ^1D^3a^2n^1^4@Mojang.^1com killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 14:38:18 2013]  say: Altair Karon: кто из вас двоих руский?
+[Wed Oct 30 14:38:26 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ea
+[Wed Oct 30 14:38:32 2013]  say: Altair Karon: ты?
+[Wed Oct 30 14:38:49 2013]  print "Altair Karon^7 @@@PLRENAME {Kort}Altair
+"[Wed Oct 30 14:39:23 2013]  Kill: 1 2 3: ^1D^3a^2n^1^4@Mojang.^1com killed ^1^1^2Bounty^1Rp^3^0Comman by MOD_SABER
+[Wed Oct 30 14:39:45 2013]  Kill: 1 0 22: ^1D^3a^2n^1^4@Mojang.^1com killed ^6Pinkie Bot^7 by MOD_ROCKET_HOMING_SPLASH
+[Wed Oct 30 14:39:48 2013]  Kill: 1 2 21: ^1D^3a^2n^1^4@Mojang.^1com killed ^1^1^2Bounty^1Rp^3^0Comman by MOD_ROCKET_HOMING
+[Wed Oct 30 14:40:05 2013]  say: {Kort}Altair: кто хочет джетпак?
+[Wed Oct 30 14:40:09 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: ^2X^1D
+[Wed Oct 30 14:40:25 2013]  say: {Kort}Altair: введи в консоли Give all
+[Wed Oct 30 14:40:46 2013]  Item: 2 ammo_all
+[Wed Oct 30 14:41:12 2013]  Item: 1 ammo_all
+[Wed Oct 30 14:41:59 2013]  say: ^1D^3a^2n^1^4@Mojang.^1com: why are u stare'ing at me :(
+[Wed Oct 30 14:42:12 2013]  say: {Kort}Altair: я тебя н понимаэ
+[Wed Oct 30 14:42:59 2013]  Kill: 1 0 3: ^1D^3a^2n^1^4@Mojang.^1com killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 14:43:24 2013]  ClientDisconnect: 3
+[Wed Oct 30 14:44:39 2013]  ClientDisconnect: 1
+[Wed Oct 30 14:45:04 2013]  ClientDisconnect: 2
+[Wed Oct 30 15:16:08 2013]  ClientConnect: 1
+[Wed Oct 30 15:16:08 2013]  mlog:Player {Kotr}Altair, connected. With IP - 89.145.152.30:29070 
+[Wed Oct 30 15:16:50 2013]  ClientBegin: 1
+[Wed Oct 30 15:17:09 2013]  say: {Kort}Altair: helpusobi 1
+[Wed Oct 30 15:17:38 2013]  say: {Kort}Altair: npc spawn alora
+[Wed Oct 30 15:18:04 2013]  say: {Kort}Altair: npc spawn alora jedif rebornweeqay
+[Wed Oct 30 15:18:40 2013]  Kill: 1 0 31: {Kort}Altair killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Wed Oct 30 15:19:02 2013]  ClientDisconnect: 1
+[Wed Oct 30 16:32:43 2013]  Exit: Timelimit hit.
+[Wed Oct 30 16:32:43 2013]  score: 0  ping: 56  client: 0 ^6Pinkie Bot^7
+[Wed Oct 30 17:39:36 2013]  ClientConnect: 1
+[Wed Oct 30 17:39:36 2013]  mlog:Player ^1D^3a^2n^1^4@Mojang.^1com, connected. With IP - 86.182.62.203:29070 
+[Wed Oct 30 17:39:56 2013]  ClientBegin: 1
+[Wed Oct 30 17:40:03 2013]  ClientDisconnect: 1
+[Wed Oct 30 21:50:25 2013]  ClientConnect: 1
+[Wed Oct 30 21:50:25 2013]  mlog:Player WHO I AM?!, connected. With IP - 109.47.0.86:-5695 
+[Wed Oct 30 21:51:09 2013]  ClientBegin: 1
+[Wed Oct 30 21:51:24 2013]  ShutdownGame:
+[Wed Oct 30 21:51:24 2013]  ------------------------------------------------------------
+[Wed Oct 30 21:51:25 2013]  ------------------------------------------------------------
+[Wed Oct 30 21:51:25 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 30 21:51:26 2013]  ClientConnect: 0
+[Wed Oct 30 21:51:26 2013]  ClientConnect: 1
+[Wed Oct 30 21:51:29 2013]  ClientBegin: 0
+[Wed Oct 30 21:51:47 2013]  ClientConnect: 2
+[Wed Oct 30 21:51:47 2013]  mlog:Player Padawan, connected. With IP - 95.91.152.185:29070 
+[Wed Oct 30 21:51:57 2013]  ClientBegin: 1
+[Wed Oct 30 21:52:10 2013]  ClientBegin: 2
+[Wed Oct 30 21:52:10 2013]  say: Padawan: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Wed Oct 30 21:52:31 2013]  say: ^1Z^0eratul: hi
+[Wed Oct 30 21:52:32 2013]  say: ^1Z^0eratul: mars
+[Wed Oct 30 21:52:32 2013]  Kill: 2 0 3: Padawan killed ^6Pinkie Bot^7 by MOD_SABER
+[Wed Oct 30 21:52:33 2013]  say: Padawan: ^2^7^6Pinkie Bot^7, ^7I killed 3963 people in total
+[Wed Oct 30 21:52:36 2013]  say: Padawan: ^7leck mich
+[Wed Oct 30 21:52:43 2013]  say: ^1Z^0eratul: gerne
+[Wed Oct 30 21:52:44 2013]  say: ^1Z^0eratul: wo?
+[Wed Oct 30 21:52:53 2013]  say: Padawan: ^7makermod ist schwul
+[Wed Oct 30 21:53:11 2013]  say: ^1Z^0eratul: nur weil du hier nix kannst? :P
+[Wed Oct 30 21:53:23 2013]  say: Padawan: ^7makermod ist fьr nolifer
+[Wed Oct 30 21:53:33 2013]  say: ^1Z^0eratul: NEIN MEIN SHADOW
+[Wed Oct 30 21:53:34 2013]  say: ^1Z^0eratul: xD
+[Wed Oct 30 21:53:44 2013]  say: Padawan: ^7wie hast du den gemacht?
+[Wed Oct 30 21:53:45 2013]  say: ^1Z^0eratul: willst du mein schiff sehen?
+[Wed Oct 30 21:53:53 2013]  say: ^1Z^0eratul: komm zu mir
+[Wed Oct 30 21:54:01 2013]  say: ^1Z^0eratul: es kцnnte laggen
+[Wed Oct 30 21:54:19 2013]  say: Padawan: ^7langweilig
+[Wed Oct 30 21:54:53 2013]  say: Padawan: ^7das nennst du schiff?
+[Wed Oct 30 21:55:23 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2es ist nicht mal fertig lol
+[Wed Oct 30 21:55:35 2013]  say: Padawan: ^7sieht nicht schцn aus
+[Wed Oct 30 21:55:39 2013]  say: ^1Z^0eratul: lol wtf
+[Wed Oct 30 21:55:43 2013]  say: ^1Z^0eratul: irgendwas
+[Wed Oct 30 21:55:44 2013]  say: ^1Z^0eratul: buggt
+[Wed Oct 30 21:55:55 2013]  say: Padawan: ^7bau es neu auf
+[Wed Oct 30 21:56:02 2013]  say: ^1Z^0eratul: willst dus zerstцren?
+[Wed Oct 30 21:56:06 2013]  say: Padawan: ^7ne
+[Wed Oct 30 21:56:22 2013]  say: Padawan: ^7nur zum buggen bringen XD
+[Wed Oct 30 21:56:54 2013]  say: Padawan: ^7hast du ne freundin?
+[Wed Oct 30 21:57:36 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2du darfst aber xD
+[Wed Oct 30 21:57:36 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2Wieso fragst du lololol
+[Wed Oct 30 21:57:52 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2du kannst es zerstцren
+[Wed Oct 30 21:58:01 2013]  say: Padawan: ^7hast du ne freundin ja oder nein?
+[Wed Oct 30 21:58:05 2013]  say: ^1Z^0eratul: nц lol
+[Wed Oct 30 21:58:11 2013]  say: Padawan: ^7merkt man
+[Wed Oct 30 21:58:20 2013]  say: ^1Z^0eratul: whyl ol
+[Wed Oct 30 21:58:35 2013]  say: Padawan: ^7du bist so einsam das du sowas hier erstellen musst
+[Wed Oct 30 21:58:49 2013]  say: ^1Z^0eratul: hey jessica
+[Wed Oct 30 21:58:54 2013]  say: ^1Z^0eratul: soll ich dir mal was sagen
+[Wed Oct 30 21:58:59 2013]  say: Padawan: ^7was
+[Wed Oct 30 21:59:03 2013]  say: ^1Z^0eratul: diser script ist geklaut lololol
+[Wed Oct 30 21:59:08 2013]  say: Padawan: ^7von?
+[Wed Oct 30 21:59:13 2013]  say: Padawan: ^7tasmann
+[Wed Oct 30 21:59:17 2013]  say: ^1Z^0eratul: nope
+[Wed Oct 30 21:59:21 2013]  say: ^1Z^0eratul: Kira 
+[Wed Oct 30 21:59:31 2013]  say: Padawan: ^7gay
+[Wed Oct 30 21:59:32 2013]  say: ^1Z^0eratul: bugs behoben
+[Wed Oct 30 21:59:38 2013]  say: ^1Z^0eratul: weil
+[Wed Oct 30 21:59:41 2013]  say: ^1Z^0eratul: wer hat soviel
+[Wed Oct 30 21:59:44 2013]  say: ^1Z^0eratul: langweile
+[Wed Oct 30 21:59:46 2013]  say: Padawan: ^7soll der flьgel hier in der mitte sein?
+[Wed Oct 30 21:59:52 2013]  say: ^1Z^0eratul: das kommt davon
+[Wed Oct 30 21:59:56 2013]  say: ^1Z^0eratul: das dus verbuggt hast
+[Wed Oct 30 22:00:02 2013]  say: Padawan: ^7oh
+[Wed Oct 30 22:00:04 2013]  say: Padawan: ^7egal
+[Wed Oct 30 22:00:06 2013]  say: Padawan: ^7schwul 
+[Wed Oct 30 22:00:09 2013]  say: Padawan: ^7bleibt
+[Wed Oct 30 22:00:11 2013]  say: Padawan: ^7schwul
+[Wed Oct 30 22:00:24 2013]  say: ^1Z^0eratul: naja der macher Kira war ein junge
+[Wed Oct 30 22:00:27 2013]  say: ^1Z^0eratul: :P
+[Wed Oct 30 22:00:35 2013]  say: ^1Z^0eratul: mach es kaputt wenn dus willst
+[Wed Oct 30 22:00:37 2013]  say: Padawan: ^7sicherlicht
+[Wed Oct 30 22:00:51 2013]  say: ^1Z^0eratul: mach /give all
+[Wed Oct 30 22:01:25 2013]  say: ^1Z^0eratul: mars auf makermod.net hab ich das script gefunden lol
+[Wed Oct 30 22:02:00 2013]  say: ^1Z^0eratul: naja 3/4 die makermod spielen hassen mich
+[Wed Oct 30 22:02:11 2013]  say: Padawan: ^7warum?
+[Wed Oct 30 22:02:17 2013]  say: ^1Z^0eratul: weil ich sie alle tцte lol
+[Wed Oct 30 22:02:41 2013]  say: ^1Z^0eratul: oder weil ich die server crashe
+[Wed Oct 30 22:02:52 2013]  say: Padawan: ^7h
+[Wed Oct 30 22:02:54 2013]  say: Padawan: ^7mmm
+[Wed Oct 30 22:03:08 2013]  say: ^1Z^0eratul: lol 
+[Wed Oct 30 22:03:15 2013]  say: ^1Z^0eratul: ich lagge wenn dus angreifst
+[Wed Oct 30 22:03:17 2013]  say: ^1Z^0eratul: xD
+[Wed Oct 30 22:03:47 2013]  say: ^1Z^0eratul: mar 
+[Wed Oct 30 22:03:48 2013]  say: ^1Z^0eratul: mars
+[Wed Oct 30 22:03:50 2013]  say: Padawan: ^7?
+[Wed Oct 30 22:03:55 2013]  say: ^1Z^0eratul: ich weis was die leute machen
+[Wed Oct 30 22:03:59 2013]  say: ^1Z^0eratul: die solche schiffe bauen
+[Wed Oct 30 22:04:06 2013]  say: ^1Z^0eratul: sie bauen sich ein parnter :D
+[Wed Oct 30 22:04:13 2013]  say: Padawan: ^7der sich aufbaut?
+[Wed Oct 30 22:04:18 2013]  say: ^1Z^0eratul: ja lol
+[Wed Oct 30 22:04:25 2013]  say: ^1Z^0eratul: hab auch schon ein auto gesehen
+[Wed Oct 30 22:04:31 2013]  say: ^1Z^0eratul: war eigentlich cool
+[Wed Oct 30 22:05:15 2013]  say: ^1Z^0eratul: hab hier admin lol
+[Wed Oct 30 22:05:18 2013]  say: Padawan: ^7aha
+[Wed Oct 30 22:05:35 2013]  say: ^1Z^0eratul: soll ich dich remappen? :D
+[Wed Oct 30 22:05:38 2013]  say: ^1Z^0eratul: xD
+[Wed Oct 30 22:05:43 2013]  say: Padawan: ^7hmm
+[Wed Oct 30 22:05:52 2013]  say: Padawan: ^7nen tie piloten in lila aber
+[Wed Oct 30 22:06:02 2013]  say: ^1Z^0eratul: komplett?
+[Wed Oct 30 22:06:06 2013]  say: Padawan: ^7ne
+[Wed Oct 30 22:06:26 2013]  say: ^1Z^0eratul: wenn ich das machen will
+[Wed Oct 30 22:06:34 2013]  say: ^1Z^0eratul: xD
+[Wed Oct 30 22:06:36 2013]  say: ^1Z^0eratul: lol
+[Wed Oct 30 22:06:38 2013]  say: ^1Z^0eratul: meine augen
+[Wed Oct 30 22:06:43 2013]  say: ^1Z^0eratul: tuhen jetzt schon weh
+[Wed Oct 30 22:06:45 2013]  say: Padawan: ^7dann amch pink
+[Wed Oct 30 22:07:16 2013]  say: ^1Z^0eratul: und was soll ich pink machen
+[Wed Oct 30 22:07:28 2013]  say: Padawan: ^7den kopf
+[Wed Oct 30 22:07:53 2013]  say: Padawan: ^7hab den besten ping
+[Wed Oct 30 22:08:04 2013]  say: ^1Z^0eratul: idee lol
+[Wed Oct 30 22:11:05 2013]  say: ^1Z^0eratul: hihi
+[Wed Oct 30 22:11:06 2013]  say: ^1Z^0eratul: xD
+[Wed Oct 30 22:11:10 2013]  say: Padawan: ^7was
+[Wed Oct 30 22:11:15 2013]  say: ^1Z^0eratul: dein icon :d
+[Wed Oct 30 22:11:17 2013]  say: ^1Z^0eratul: :d
+[Wed Oct 30 22:11:18 2013]  say: Padawan: ^7aha
+[Wed Oct 30 22:11:21 2013]  say: Padawan: ^7schwarz
+[Wed Oct 30 22:11:41 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2THE WALKING DEAD
+[Wed Oct 30 22:11:44 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2STAFFEL 3
+[Wed Oct 30 22:11:46 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2lдuft
+[Wed Oct 30 22:11:53 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2willste wissen wo?
+[Wed Oct 30 22:12:00 2013]  say: Padawan: ^7pro 7?
+[Wed Oct 30 22:12:06 2013]  say: Padawan: ^7rtl 2
+[Wed Oct 30 22:12:07 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2nein 
+[Wed Oct 30 22:12:10 2013]  say: Padawan: ^7sat1?
+[Wed Oct 30 22:12:11 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2rtl2
+[Wed Oct 30 22:12:13 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2rtl2 
+[Wed Oct 30 22:12:14 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2xD
+[Wed Oct 30 22:13:08 2013]  say: Padawan: ^7ich bin off
+[Wed Oct 30 22:13:10 2013]  say: Padawan: ^7bin mьde
+[Wed Oct 30 22:13:31 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2bb
+[Wed Oct 30 22:13:32 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2xD
+[Wed Oct 30 22:13:34 2013]  say: Padawan: ^7komm morgen auf EW XD
+[Wed Oct 30 22:13:37 2013]  say: Padawan: ^7um 9ne
+[Wed Oct 30 22:13:41 2013]  say: Padawan: ^7ciao
+[Wed Oct 30 22:13:42 2013]  say: ^1Z^0eratul: ^2(^3UU^2)^7: ^2okk ich komm uhm 9 glaub ich
+[Wed Oct 30 22:13:43 2013]  ClientDisconnect: 2
+[Wed Oct 30 22:13:54 2013]  ClientDisconnect: 1
+[Wed Oct 30 23:51:24 2013]  Exit: Timelimit hit.
+[Wed Oct 30 23:51:24 2013]  score: 0  ping: 82  client: 0 ^6Pinkie Bot^7
+[Wed Oct 30 23:58:49 2013]  ShutdownGame:
+[Wed Oct 30 23:58:49 2013]  ------------------------------------------------------------
+[Wed Oct 30 23:58:50 2013]  ------------------------------------------------------------
+[Wed Oct 30 23:58:50 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 30 23:58:51 2013]  ClientConnect: 0
+[Wed Oct 30 23:58:55 2013]  ClientBegin: 0
+[Thu Oct 31 00:01:59 2013]  ClientConnect: 1
+[Thu Oct 31 00:01:59 2013]  mlog:Player ^0РаrkQµаkи, connected. With IP - 192.168.1.3:29071 
+[Thu Oct 31 00:02:28 2013]  ClientBegin: 1
+[Thu Oct 31 00:02:44 2013]  Kill: 1 0 3: ^0РаrkQµаkи killed ^6Pinkie Bot^7 by MOD_SABER
+[Thu Oct 31 00:03:05 2013]  ClientDisconnect: 1
+[Thu Oct 31 01:16:39 2013]  ClientConnect: 1
+[Thu Oct 31 01:16:39 2013]  mlog:Player Example, connected. With IP - 74.96.168.234:29070 
+[Thu Oct 31 01:16:49 2013]  ClientBegin: 1
+[Thu Oct 31 01:17:53 2013]  Kill: 1 0 3: Padawan killed ^6Pinkie Bot^7 by MOD_SABER
+[Thu Oct 31 01:18:30 2013]  ClientDisconnect: 1
+[Thu Oct 31 01:24:12 2013]  ClientConnect: 1
+[Thu Oct 31 01:24:12 2013]  mlog:Player Padawan, connected. With IP - 74.96.168.234:29070 
+[Thu Oct 31 01:24:20 2013]  ClientBegin: 1
+[Thu Oct 31 01:24:38 2013]  Kill: 1 0 5: Padawan killed ^6Pinkie Bot^7 by MOD_BRYAR_PISTOL_ALT
+[Thu Oct 31 01:24:45 2013]  ClientDisconnect: 1
+[Thu Oct 31 01:58:49 2013]  Exit: Timelimit hit.
+[Thu Oct 31 01:58:49 2013]  score: 0  ping: 66  client: 0 ^6Pinkie Bot^7
+[Thu Oct 31 06:41:19 2013]  ClientConnect: 1
+[Thu Oct 31 06:41:19 2013]  mlog:Player GamerNoob, connected. With IP - 80.72.154.48:29070 
+[Thu Oct 31 06:43:44 2013]  ClientDisconnect: 1
+[Thu Oct 31 07:20:01 2013]  ClientConnect: 1
+[Thu Oct 31 07:20:01 2013]  mlog:Player maxim, connected. With IP - 46.39.248.67:-26566 
+[Thu Oct 31 07:20:26 2013]  ClientBegin: 1
+[Thu Oct 31 07:20:51 2013]  ClientDisconnect: 1
+[Thu Oct 31 07:57:29 2013]  ClientConnect: 1
+[Thu Oct 31 07:57:29 2013]  mlog:Player Padawan, connected. With IP - 46.39.248.67:10243 
+[Thu Oct 31 07:57:57 2013]  ClientBegin: 1
+[Thu Oct 31 07:58:13 2013]  ClientDisconnect: 1
+[Thu Oct 31 07:59:54 2013]  ClientConnect: 1
+[Thu Oct 31 07:59:54 2013]  mlog:Player Padawan, connected. With IP - 46.39.248.67:20541 
+[Thu Oct 31 08:00:17 2013]  ClientBegin: 1
+[Thu Oct 31 08:00:41 2013]  ClientDisconnect: 1
+[Thu Oct 31 08:20:47 2013]  ClientConnect: 1
+[Thu Oct 31 08:20:47 2013]  mlog:Player Padawan, connected. With IP - 178.121.86.180:29070 
+[Thu Oct 31 08:21:43 2013]  ClientBegin: 1
+[Thu Oct 31 08:21:57 2013]  ShutdownGame:
+[Thu Oct 31 08:21:57 2013]  ------------------------------------------------------------

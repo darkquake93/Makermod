@@ -1,0 +1,63 @@
+[Mon Nov 18 13:26:31 2013]  ------------------------------------------------------------
+[Mon Nov 18 13:26:31 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Nov 18 13:26:32 2013]  ClientConnect: 0
+[Mon Nov 18 13:26:44 2013]  ClientBegin: 0
+[Mon Nov 18 13:40:37 2013]  Item: 0 weapon_blaster
+[Mon Nov 18 13:40:37 2013]  Item: 0 weapon_blaster
+[Mon Nov 18 13:40:43 2013]  Item: 0 weapon_blaster
+[Mon Nov 18 13:40:44 2013]  Item: 0 weapon_blaster
+[Mon Nov 18 13:40:50 2013]  Item: 0 weapon_blaster
+[Mon Nov 18 13:50:37 2013]  ClientDisconnect: 0
+[Mon Nov 18 15:26:31 2013]  Exit: Timelimit hit.
+[Mon Nov 18 16:07:52 2013]  ClientConnect: 0
+[Mon Nov 18 16:07:52 2013]  mlog:Player Superman, connected. With IP - 85.221.151.68:29070 
+[Mon Nov 18 16:07:54 2013]  ClientConnect: 1
+[Mon Nov 18 16:07:54 2013]  mlog:Player Padawan, connected. With IP - 85.221.151.68:-4159 
+[Mon Nov 18 16:08:15 2013]  ClientBegin: 1
+[Mon Nov 18 16:08:29 2013]  ClientDisconnect: 1
+[Mon Nov 18 16:11:17 2013]  ClientDisconnect: 0
+[Mon Nov 18 16:51:19 2013]  ClientConnect: 0
+[Mon Nov 18 16:51:19 2013]  mlog:Player maxim, connected. With IP - 46.39.248.67:31746 
+[Mon Nov 18 16:51:40 2013]  ClientBegin: 0
+[Mon Nov 18 16:51:50 2013]  ShutdownGame:
+[Mon Nov 18 16:51:50 2013]  ------------------------------------------------------------
+[Mon Nov 18 16:51:51 2013]  ------------------------------------------------------------
+[Mon Nov 18 16:51:51 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Nov 18 16:51:52 2013]  ClientConnect: 0
+[Mon Nov 18 16:52:08 2013]  ClientBegin: 0
+[Mon Nov 18 16:53:12 2013]  Kill: 1022 0 6: <world> killed maxim by MOD_BLASTER
+[Mon Nov 18 16:53:58 2013]  Kill: 0 0 36: maxim killed maxim by MOD_CRUSH
+[Mon Nov 18 16:54:28 2013]  ClientDisconnect: 0
+[Mon Nov 18 16:56:33 2013]  ClientConnect: 0
+[Mon Nov 18 16:56:33 2013]  mlog:Player maxim, connected. With IP - 46.39.248.67:20012 
+[Mon Nov 18 16:56:57 2013]  ClientBegin: 0
+[Mon Nov 18 16:58:29 2013]  ClientDisconnect: 0
+[Mon Nov 18 16:59:55 2013]  ClientConnect: 0
+[Mon Nov 18 16:59:55 2013]  mlog:Player maxim, connected. With IP - 46.39.248.67:-13822 
+[Mon Nov 18 17:00:19 2013]  ClientBegin: 0
+[Mon Nov 18 17:01:36 2013]  ClientDisconnect: 0
+[Mon Nov 18 17:04:58 2013]  ClientConnect: 0
+[Mon Nov 18 17:04:58 2013]  mlog:Player maxim, connected. With IP - 46.39.248.67:-27935 
+[Mon Nov 18 17:05:23 2013]  ClientBegin: 0
+[Mon Nov 18 17:10:16 2013]  ClientDisconnect: 0
+[Mon Nov 18 17:11:13 2013]  ClientConnect: 0
+[Mon Nov 18 17:11:13 2013]  mlog:Player maxim, connected. With IP - 46.39.248.67:-27935 
+[Mon Nov 18 17:11:38 2013]  ClientBegin: 0
+[Mon Nov 18 17:13:34 2013]  Kill: 1022 0 0: <world> killed maxim by MOD_UNKNOWN
+[Mon Nov 18 17:28:07 2013]  ClientDisconnect: 0
+[Mon Nov 18 18:51:50 2013]  Exit: Timelimit hit.
+[Mon Nov 18 21:32:14 2013]  ClientConnect: 0
+[Mon Nov 18 21:32:14 2013]  mlog:Player Master Belly, connected. With IP - 81.157.56.161:29070 
+[Mon Nov 18 21:32:24 2013]  ClientBegin: 0
+[Mon Nov 18 21:32:35 2013]  ClientConnect: 1
+[Mon Nov 18 21:32:35 2013]  mlog:Player Darth Baggott, connected. With IP - 86.149.149.217:29070 
+[Mon Nov 18 21:32:37 2013]  ClientConnect: 2
+[Mon Nov 18 21:32:37 2013]  mlog:Player Darth Nigger, connected. With IP - 213.107.229.180:29070 
+[Mon Nov 18 21:32:40 2013]  ClientDisconnect: 1
+[Mon Nov 18 21:32:51 2013]  ClientDisconnect: 0
+[Mon Nov 18 21:36:02 2013]  ClientDisconnect: 2
+[Tue Nov 19 11:38:09 2013]  ClientConnect: 0
+[Tue Nov 19 11:38:09 2013]  mlog:Player maxim, connected. With IP - 46.39.248.67:14874 
+[Tue Nov 19 11:38:33 2013]  ClientBegin: 0
+[Tue Nov 19 11:38:41 2013]  ShutdownGame:
+[Tue Nov 19 11:38:41 2013]  ------------------------------------------------------------

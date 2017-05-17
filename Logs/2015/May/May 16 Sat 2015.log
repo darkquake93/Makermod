@@ -1,0 +1,16 @@
+[Sat May 16 17:42:39 2015]  ------------------------------------------------------------
+[Sat May 16 17:42:39 2015]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat May 16 17:45:19 2015]  ClientConnect: 0
+[Sat May 16 17:45:19 2015]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.72:29071 
+[Sat May 16 17:45:37 2015]  ClientBegin: 0
+[Sat May 16 17:46:18 2015]  ClientDisconnect: 0
+[Sat May 16 17:47:08 2015]  ClientConnect: 0
+[Sat May 16 17:47:08 2015]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.72:29071 
+[Sat May 16 17:47:25 2015]  ClientBegin: 0
+[Sat May 16 17:49:16 2015]  Kill: 1022 0 36: <world> killed ^0Darkquake is back! by MOD_CRUSH
+[Sat May 16 17:54:13 2015]  Kill: 0 0 39: ^0Darkquake is back! killed ^0Darkquake is back! by MOD_SUICIDE
+[Sat May 16 17:57:31 2015]  Kill: 1022 0 36: <world> killed ^0Darkquake is back! by MOD_CRUSH
+[Sat May 16 17:57:37 2015]  Kill: 1022 0 36: <world> killed ^0Darkquake is back! by MOD_CRUSH
+[Sat May 16 17:58:59 2015]  Kill: 1022 0 0: <world> killed ^0Darkquake is back! by MOD_UNKNOWN
+[Sat May 16 18:00:18 2015]  ClientDisconnect: 0
+[Sat May 16 19:42:33 2015]  Exit: Timelimit hit.

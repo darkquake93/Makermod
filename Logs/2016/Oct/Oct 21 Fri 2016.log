@@ -1,0 +1,663 @@
+[Fri Oct 21 19:45:59 2016]  ------------------------------------------------------------
+[Fri Oct 21 19:45:59 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\999\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Oct 23 11:45:01 2016]  ClientConnect: 0
+[Sun Oct 23 11:45:01 2016]  mlog:Player Padawan, connected. With IP - 37.147.81.81:29070 
+[Sun Oct 23 11:45:11 2016]  ClientConnect: 1
+[Sun Oct 23 11:45:11 2016]  mlog:Player ^4Locus ^5Pocus, connected. With IP - 31.13.144.50:18999 
+[Sun Oct 23 11:45:17 2016]  ClientBegin: 0
+[Sun Oct 23 11:45:30 2016]  ClientBegin: 1
+[Sun Oct 23 11:45:36 2016]  say: PACKAC: фух
+[Sun Oct 23 11:45:38 2016]  say: PACKAC: нашлись
+[Sun Oct 23 11:45:51 2016]  say: ^0n!k^3^4!ta: прикин мне уже 3 раз цат банят
+[Sun Oct 23 11:45:55 2016]  say: ^0n!k^3^4!ta: там
+[Sun Oct 23 11:45:59 2016]  say: PACKAC: xD
+[Sun Oct 23 11:46:01 2016]  say: PACKAC: Никита
+[Sun Oct 23 11:46:03 2016]  say: ^0n!k^3^4!ta: а
+[Sun Oct 23 11:46:10 2016]  say: PACKAC: Ох как давно я не видел твой почерк
+[Sun Oct 23 11:46:31 2016]  say: ^0n!k^3^4!ta: помниш я тебя в тунел тот звал
+[Sun Oct 23 11:46:38 2016]  say: PACKAC: нет
+[Sun Oct 23 11:46:42 2016]  say: ^0n!k^3^4!ta: там где цайн с минами?
+[Sun Oct 23 11:46:49 2016]  say: PACKAC: ааа ла
+[Sun Oct 23 11:46:52 2016]  say: PACKAC: дааа
+[Sun Oct 23 11:47:02 2016]  say: ^0n!k^3^4!ta: знаеш зацем я туда тея позвал?????
+[Sun Oct 23 11:47:09 2016]  say: PACKAC: нет
+[Sun Oct 23 11:47:10 2016]  say: ^0n!k^3^4!ta: ты сматрел на пол?????
+[Sun Oct 23 11:47:14 2016]  say: PACKAC: нет
+[Sun Oct 23 11:47:26 2016]  say: ^0n!k^3^4!ta: НА ПАЛУ БЫЛИ БЛОКИ КАК ИЗ МАЙКЕР МОДЛА!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[Sun Oct 23 11:47:39 2016]  say: ^0n!k^3^4!ta: ТОЧ В ТОЧ
+[Sun Oct 23 11:47:47 2016]  say: PACKAC: xd
+[Sun Oct 23 11:48:04 2016]  say: ^0n!k^3^4!ta: не вот такие а с решотакми по середине
+[Sun Oct 23 11:48:15 2016]  say: PACKAC: понятно
+[Sun Oct 23 11:48:17 2016]  say: PACKAC: Никита
+[Sun Oct 23 11:48:20 2016]  say: ^0n!k^3^4!ta: а знаеш как мутанта ранкора??????
+[Sun Oct 23 11:48:21 2016]  say: ^0n!k^3^4!ta: а
+[Sun Oct 23 11:48:22 2016]  say: PACKAC: Зарегистрируйся в скайпе
+[Sun Oct 23 11:48:49 2016]  say: ^0n!k^3^4!ta: павтаряю скайп не мой и там парол скайп брата он не разрешает не скем абшяца кроме папы
+[Sun Oct 23 11:49:05 2016]  Kill: 1 0 3: PACKAC killed ^0n!k^3^4!ta by MOD_SABER
+[Sun Oct 23 11:49:09 2016]  say: PACKAC: ох)
+[Sun Oct 23 11:49:23 2016]  say: ^0n!k^3^4!ta: как ранкора мутанта ??
+[Sun Oct 23 11:49:31 2016]  say: PACKAC: призвать?
+[Sun Oct 23 11:49:35 2016]  say: ^0n!k^3^4!ta: да
+[Sun Oct 23 11:49:44 2016]  say: PACKAC: npc spawn rancor
+[Sun Oct 23 11:49:55 2016]  say: PACKAC: вроде
+[Sun Oct 23 11:50:09 2016]  say: ^0n!k^3^4!ta: не он
+[Sun Oct 23 11:50:19 2016]  say: PACKAC: вот
+[Sun Oct 23 11:50:23 2016]  say: ^0n!k^3^4!ta: не они
+[Sun Oct 23 11:50:31 2016]  say: ^0n!k^3^4!ta: а бесмертный ранкор
+[Sun Oct 23 11:50:37 2016]  say: PACKAC: щас
+[Sun Oct 23 11:50:40 2016]  say: PACKAC: поищу
+[Sun Oct 23 11:50:43 2016]  say: ^0n!k^3^4!ta: я знаю
+[Sun Oct 23 11:51:07 2016]  say: ^0n!k^3^4!ta: z pyf. rfr
+[Sun Oct 23 11:51:13 2016]  say: ^0n!k^3^4!ta: я знаю как
+[Sun Oct 23 11:51:18 2016]  say: ^0n!k^3^4!ta: НЕ СПАВН
+[Sun Oct 23 11:51:24 2016]  say: ^0n!k^3^4!ta: ЕГО ТЕЕР ХЕР УБЕШ
+[Sun Oct 23 11:51:46 2016]  say: PACKAC: он?
+[Sun Oct 23 11:51:49 2016]  say: ^0n!k^3^4!ta: lf
+[Sun Oct 23 11:51:51 2016]  say: ^0n!k^3^4!ta: да
+[Sun Oct 23 11:51:56 2016]  say: ^0n!k^3^4!ta: я знаю как
+[Sun Oct 23 11:52:10 2016]  say: PACKAC: npc spawn mutant_rancor
+[Sun Oct 23 11:52:21 2016]  say: ^0n!k^3^4!ta: я знал
+[Sun Oct 23 11:52:27 2016]  say: ^0n!k^3^4!ta: напиши not
+[Sun Oct 23 11:52:48 2016]  say: PACKAC: /exec house
+[Sun Oct 23 11:52:55 2016]  say: PACKAC: ^1HOUSE SCRIPT ^4By ^1µ^2/Раrk^1Qµаkи^2/^1S - ^5PART 1
+[Sun Oct 23 11:52:56 2016]  say: ^0n!k^3^4!ta: што ето
+[Sun Oct 23 11:53:05 2016]  say: ^0n!k^3^4!ta: лол
+[Sun Oct 23 11:53:05 2016]  say: PACKAC: дом
+[Sun Oct 23 11:53:24 2016]  say: PACKAC: уйди ка
+[Sun Oct 23 11:53:31 2016]  say: ^0n!k^3^4!ta: иди замной
+[Sun Oct 23 11:53:39 2016]  say: ^0n!k^3^4!ta: я тее чит пакажу
+[Sun Oct 23 11:53:49 2016]  say: ^0n!k^3^4!ta: да
+[Sun Oct 23 11:53:53 2016]  say: ^0n!k^3^4!ta: в тунел
+[Sun Oct 23 11:54:40 2016]  say: PACKAC: эмм
+[Sun Oct 23 11:54:45 2016]  say: ^0n!k^3^4!ta: АХХАХАХАХАХАХАХАХАХАХАХАХАХАХ
+[Sun Oct 23 11:54:53 2016]  say: ^0n!k^3^4!ta: а ты знал??
+[Sun Oct 23 11:54:58 2016]  say: PACKAC: погоди меня
+[Sun Oct 23 11:55:31 2016]  say: PACKAC: я тут
+[Sun Oct 23 11:55:49 2016]  say: PACKAC: как войти?
+[Sun Oct 23 11:56:01 2016]  say: ^0n!k^3^4!ta: убери свой ранец и все силы
+[Sun Oct 23 11:56:09 2016]  Kill: 1 1 39: PACKAC killed PACKAC by MOD_SUICIDE
+[Sun Oct 23 11:56:33 2016]  say: PACKAC: Это shadowseer делал
+[Sun Oct 23 11:56:35 2016]  say: PACKAC: я его знаю
+[Sun Oct 23 11:56:40 2016]  say: ^0n!k^3^4!ta: ))))
+[Sun Oct 23 11:56:44 2016]  say: PACKAC: он меня делать так научил
+[Sun Oct 23 11:57:08 2016]  say: PACKAC: смотри
+[Sun Oct 23 11:57:11 2016]  say: PACKAC: сюда
+[Sun Oct 23 11:57:12 2016]  say: ^0n!k^3^4!ta: го тоже дом построем
+[Sun Oct 23 11:57:26 2016]  say: ^0n!k^3^4!ta: как все силы????
+[Sun Oct 23 11:57:30 2016]  say: PACKAC: щас
+[Sun Oct 23 11:57:46 2016]  say: PACKAC: настрою
+[Sun Oct 23 11:58:21 2016]  say: PACKAC: такой например
+[Sun Oct 23 11:58:29 2016]  say: ^0n!k^3^4!ta: как
+[Sun Oct 23 11:58:36 2016]  say: ^0n!k^3^4!ta: все силы
+[Sun Oct 23 11:58:44 2016]  say: ^0n!k^3^4!ta: как все силы
+[Sun Oct 23 11:58:45 2016]  say: PACKAC: ?
+[Sun Oct 23 11:58:50 2016]  tell: PACKAC to ^0n!k^3^4!ta: /mempower
+[Sun Oct 23 12:00:15 2016]  say: PACKAC: жмм
+[Sun Oct 23 12:00:29 2016]  say: ^0n!k^3^4!ta: notа
+[Sun Oct 23 12:00:36 2016]  say: ^0n!k^3^4!ta: /not
+[Sun Oct 23 12:00:40 2016]  say: PACKAC: ???
+[Sun Oct 23 12:00:57 2016]  say: PACKAC: смотри
+[Sun Oct 23 12:01:18 2016]  say: ^0n!k^3^4!ta: го их убем?
+[Sun Oct 23 12:01:23 2016]  say: PACKAC: не сможем
+[Sun Oct 23 12:01:46 2016]  say: PACKAC: смотри
+[Sun Oct 23 12:01:57 2016]  say: PACKAC: а не0
+[Sun Oct 23 12:01:59 2016]  say: PACKAC: не надо
+[Sun Oct 23 12:02:37 2016]  say: ^0n!k^3^4!ta: -1
+[Sun Oct 23 12:03:02 2016]  Kill: 1 1 39: PACKAC killed PACKAC by MOD_SUICIDE
+[Sun Oct 23 12:04:12 2016]  say: ^0n!k^3^4!ta: харе
+[Sun Oct 23 12:04:24 2016]  say: ^0n!k^3^4!ta: как
+[Sun Oct 23 12:04:27 2016]  say: ^0n!k^3^4!ta: 1 
+[Sun Oct 23 12:04:28 2016]  say: ^0n!k^3^4!ta: 2
+[Sun Oct 23 12:04:30 2016]  say: ^0n!k^3^4!ta: 3
+[Sun Oct 23 12:04:32 2016]  say: PACKAC: Просто увеличе
+[Sun Oct 23 12:04:37 2016]  say: PACKAC: Увеличивал
+[Sun Oct 23 12:04:41 2016]  say: ^0n!k^3^4!ta: о юху
+[Sun Oct 23 12:04:47 2016]  say: ^0n!k^3^4!ta: ЮХУ!!!!!!!!!!
+[Sun Oct 23 12:05:03 2016]  say: ^0n!k^3^4!ta: ты будеш юху сматреть
+[Sun Oct 23 12:05:09 2016]  say: PACKAC: смотри
+[Sun Oct 23 12:05:14 2016]  say: PACKAC: направо
+[Sun Oct 23 12:05:14 2016]  say: ^0n!k^3^4!ta: я не
+[Sun Oct 23 12:05:21 2016]  say: ^0n!k^3^4!ta: чвак
+[Sun Oct 23 12:05:43 2016]  say: ^0n!k^3^4!ta: там где цайн с минами помниш как вашел туда старк?
+[Sun Oct 23 12:05:50 2016]  say: PACKAC: неа
+[Sun Oct 23 12:05:57 2016]  say: ^0n!k^3^4!ta: ОН ПРИШОД
+[Sun Oct 23 12:06:00 2016]  say: ^0n!k^3^4!ta: ОЛ
+[Sun Oct 23 12:06:05 2016]  say: PACKAC: и я проходи
+[Sun Oct 23 12:06:06 2016]  say: ^0n!k^3^4!ta: ТАРК ВЕРНУЛСЯ
+[Sun Oct 23 12:06:06 2016]  say: PACKAC: л
+[Sun Oct 23 12:06:11 2016]  say: PACKAC: ааа
+[Sun Oct 23 12:06:13 2016]  say: ^0n!k^3^4!ta: СТАРК
+[Sun Oct 23 12:06:13 2016]  say: PACKAC: ну да
+[Sun Oct 23 12:06:18 2016]  say: PACKAC: уже 2 месяца назад
+[Sun Oct 23 12:06:24 2016]  say: ^0n!k^3^4!ta: да
+[Sun Oct 23 12:06:38 2016]  say: ^0n!k^3^4!ta: как своих жывотных убить???????
+[Sun Oct 23 12:06:44 2016]  say: PACKAC: хз
+[Sun Oct 23 12:06:51 2016]  say: ^0n!k^3^4!ta: в списке пасматри
+[Sun Oct 23 12:07:00 2016]  say: PACKAC: не как
+[Sun Oct 23 12:07:08 2016]  say: ^0n!k^3^4!ta: я далбался далбался и не убил своего безконецного ранкора
+[Sun Oct 23 12:07:23 2016]  say: PACKAC: не как
+[Sun Oct 23 12:07:37 2016]  say: PACKAC: ты где
+[Sun Oct 23 12:07:40 2016]  say: ^0n!k^3^4!ta: а еше я строил карабл и у меня блоки стали невидемые!!!!!!!!!!!!!
+[Sun Oct 23 12:07:55 2016]  say: ^0n!k^3^4!ta: КАААААААААААААААААК
+[Sun Oct 23 12:08:05 2016]  say: ^0n!k^3^4!ta: на те в пису
+[Sun Oct 23 12:08:17 2016]  say: ^0n!k^3^4!ta: как
+[Sun Oct 23 12:08:46 2016]  say: PACKAC: КАК?
+[Sun Oct 23 12:08:51 2016]  say: ^0n!k^3^4!ta: че как
+[Sun Oct 23 12:09:11 2016]  say: PACKAC: я твой сын
+[Sun Oct 23 12:09:12 2016]  say: ^0n!k^3^4!ta: ну чучуть менше
+[Sun Oct 23 12:09:23 2016]  say: ^0n!k^3^4!ta: а я мама
+[Sun Oct 23 12:09:44 2016]  say: ^0n!k^3^4!ta: как ранкора на которого можно сесть
+[Sun Oct 23 12:09:50 2016]  say: PACKAC: лол
+[Sun Oct 23 12:09:52 2016]  say: ^0n!k^3^4!ta: зделать
+[Sun Oct 23 12:09:56 2016]  say: PACKAC: хз
+[Sun Oct 23 12:10:04 2016]  say: ^0n!k^3^4!ta: в списке я таково делал
+[Sun Oct 23 12:10:10 2016]  say: PACKAC: стой
+[Sun Oct 23 12:10:25 2016]  say: ^0n!k^3^4!ta: эм ми
+[Sun Oct 23 12:10:31 2016]  say: ^0n!k^3^4!ta: эм и*
+[Sun Oct 23 12:12:22 2016]  say: PACKAC: эмм
+[Sun Oct 23 12:12:27 2016]  say: ^0n!k^3^4!ta: че
+[Sun Oct 23 12:12:57 2016]  say: PACKAC: я на арене
+[Sun Oct 23 12:13:07 2016]  say: ^0n!k^3^4!ta: ???
+[Sun Oct 23 12:13:10 2016]  Kill: 0 0 39: ^0n!k^3^4!ta killed ^0n!k^3^4!ta by MOD_SUICIDE
+[Sun Oct 23 12:13:10 2016]  setteam:  0 FREE SPECTATOR
+[Sun Oct 23 12:13:10 2016]  ClientBegin: 0
+[Sun Oct 23 12:13:15 2016]  say: ^0n!k^3^4!ta: пакажи
+[Sun Oct 23 12:13:21 2016]  say: ^0n!k^3^4!ta: аааааааааааааааааааааааа жди
+[Sun Oct 23 12:13:23 2016]  setteam:  0 SPECTATOR FREE
+[Sun Oct 23 12:13:23 2016]  ClientBegin: 0
+[Sun Oct 23 12:14:05 2016]  say: ^0n!k^3^4!ta: я не бусмертный
+[Sun Oct 23 12:14:15 2016]  Kill: 1 0 3: PACKAC killed ^0n!k^3^4!ta by MOD_SABER
+[Sun Oct 23 12:14:17 2016]  say: PACKAC: оу
+[Sun Oct 23 12:14:23 2016]  say: ^0n!k^3^4!ta: яже сказал
+[Sun Oct 23 12:14:53 2016]  say: PACKAC: смотри
+[Sun Oct 23 12:15:00 2016]  say: ^0n!k^3^4!ta: rfr
+[Sun Oct 23 12:15:05 2016]  say: ^0n!k^3^4!ta: как
+[Sun Oct 23 12:15:36 2016]  say: PACKAC: Посмотри вверх
+[Sun Oct 23 12:15:40 2016]  say: PACKAC: Вода снизу
+[Sun Oct 23 12:15:49 2016]  say: ^0n!k^3^4!ta: ну 
+[Sun Oct 23 12:16:00 2016]  say: PACKAC: как ты знаешь
+[Sun Oct 23 12:16:02 2016]  say: PACKAC: когда
+[Sun Oct 23 12:16:03 2016]  say: PACKAC: я тебя
+[Sun Oct 23 12:16:05 2016]  say: PACKAC: удушу
+[Sun Oct 23 12:16:15 2016]  say: PACKAC: как
+[Sun Oct 23 12:16:21 2016]  say: ^0n!k^3^4!ta: ана у меня вклюцена была
+[Sun Oct 23 12:16:27 2016]  say: ^0n!k^3^4!ta: я ее не выклюцал
+[Sun Oct 23 12:16:34 2016]  say: PACKAC: удуши меня
+[Sun Oct 23 12:16:45 2016]  say: PACKAC: Как 
+[Sun Oct 23 12:16:48 2016]  say: ^0n!k^3^4!ta: АААААААААААААА
+[Sun Oct 23 12:16:56 2016]  say: ^0n!k^3^4!ta: ЭТО ТАКОЙ ИФФЕКТ
+[Sun Oct 23 12:17:07 2016]  say: PACKAC: как
+[Sun Oct 23 12:17:13 2016]  say: PACKAC: Как ты узнаешь
+[Sun Oct 23 12:17:14 2016]  say: ^0n!k^3^4!ta: у тебя тоже такоеже
+[Sun Oct 23 12:17:18 2016]  say: PACKAC: нет
+[Sun Oct 23 12:17:22 2016]  say: ^0n!k^3^4!ta: ано не выклюцаеца
+[Sun Oct 23 12:17:27 2016]  say: ^0n!k^3^4!ta: вруби это
+[Sun Oct 23 12:17:33 2016]  say: PACKAC: Нет
+[Sun Oct 23 12:17:35 2016]  say: ^0n!k^3^4!ta: да у тебя тоже
+[Sun Oct 23 12:17:38 2016]  say: PACKAC: Она у тебя при удушение
+[Sun Oct 23 12:17:41 2016]  say: PACKAC: Включается
+[Sun Oct 23 12:17:52 2016]  say: ^0n!k^3^4!ta: это ты так видеш и я у тебя тагже вижу
+[Sun Oct 23 12:18:05 2016]  say: ^0n!k^3^4!ta: у ВСЕХ ИГРОКОФ ТАКОЕ
+[Sun Oct 23 12:18:25 2016]  say: PACKAC: смотри
+[Sun Oct 23 12:18:42 2016]  say: PACKAC: уйди
+[Sun Oct 23 12:19:04 2016]  say: ^0n!k^3^4!ta: и
+[Sun Oct 23 12:19:34 2016]  say: ^0n!k^3^4!ta: я кстати седня на новый краснодар стадион иду 
+[Sun Oct 23 12:19:42 2016]  say: PACKAC: молодец
+[Sun Oct 23 12:19:47 2016]  say: ^0n!k^3^4!ta: футбик смотреть
+[Sun Oct 23 12:19:56 2016]  say: ^0n!k^3^4!ta: у меня 
+[Sun Oct 23 12:20:02 2016]  say: ^0n!k^3^4!ta: на вес сезон как ево
+[Sun Oct 23 12:20:25 2016]  say: ^0n!k^3^4!ta: паготь тут
+[Sun Oct 23 12:21:40 2016]  ClientConnect: 2
+[Sun Oct 23 12:21:40 2016]  mlog:Player Brad, connected. With IP - 81.24.253.11:29070 
+[Sun Oct 23 12:22:00 2016]  say: ^0n!k^3^4!ta: знаеш што у меня на вес сезоне
+[Sun Oct 23 12:22:01 2016]  ClientBegin: 2
+[Sun Oct 23 12:22:09 2016]  say: PACKAC: brad
+[Sun Oct 23 12:22:09 2016]  ClientConnect: 3
+[Sun Oct 23 12:22:09 2016]  mlog:Player Padawan, connected. With IP - 86.129.64.104:29070 
+[Sun Oct 23 12:22:11 2016]  say: PACKAC: втф
+[Sun Oct 23 12:22:13 2016]  say: ^0n!k^3^4!ta: брад???
+[Sun Oct 23 12:22:16 2016]  say: PACKAC: какие то люди
+[Sun Oct 23 12:22:17 2016]  say: PACKAC: зашли
+[Sun Oct 23 12:22:23 2016]  say: ^0n!k^3^4!ta: 2
+[Sun Oct 23 12:22:33 2016]  say: PACKAC: Who you
+[Sun Oct 23 12:22:34 2016]  ClientDisconnect: 2
+[Sun Oct 23 12:22:36 2016]  say: PACKAC: padawan and brad
+[Sun Oct 23 12:22:40 2016]  say: ^0n!k^3^4!ta: у меня на стадион краснадар абланимент на все игры!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[Sun Oct 23 12:22:43 2016]  ClientBegin: 3
+[Sun Oct 23 12:22:46 2016]  say: PACKAC: смотри
+[Sun Oct 23 12:22:50 2016]  say: PACKAC: who padawan
+[Sun Oct 23 12:23:03 2016]  ClientDisconnect: 3
+[Sun Oct 23 12:23:03 2016]  say: ^0n!k^3^4!ta: ЛОООООООООООООООООООООООООООООООЛ
+[Sun Oct 23 12:23:27 2016]  say: PACKAC: сюда
+[Sun Oct 23 12:24:11 2016]  say: ^0n!k^3^4!ta: я в нем
+[Sun Oct 23 12:24:17 2016]  say: PACKAC: в чем
+[Sun Oct 23 12:24:21 2016]  say: ^0n!k^3^4!ta: в башне
+[Sun Oct 23 12:24:49 2016]  say: PACKAC: Опять выдумываешь
+[Sun Oct 23 12:24:51 2016]  say: PACKAC: Сказк
+[Sun Oct 23 12:24:52 2016]  say: PACKAC: и
+[Sun Oct 23 12:25:04 2016]  say: ^0n!k^3^4!ta: ??????
+[Sun Oct 23 12:25:25 2016]  say: PACKAC: смотри
+[Sun Oct 23 12:25:54 2016]  say: ^0n!k^3^4!ta: го построем нам дом??? у бара
+[Sun Oct 23 12:26:07 2016]  say: ^0n!k^3^4!ta: УБЕРИ
+[Sun Oct 23 12:26:27 2016]  say: ^0n!k^3^4!ta: го в баре дом построем у бара тацнее
+[Sun Oct 23 12:26:37 2016]  say: ^0n!k^3^4!ta: не фига
+[Sun Oct 23 12:26:40 2016]  say: ^0n!k^3^4!ta: себе
+[Sun Oct 23 12:27:10 2016]  say: ^0n!k^3^4!ta: го у бара дом построем я пошел строить
+[Sun Oct 23 12:28:38 2016]  say: PACKAC: ты че такой
+[Sun Oct 23 12:28:40 2016]  say: PACKAC: медленный
+[Sun Oct 23 12:28:51 2016]  say: ^0n!k^3^4!ta: патамушто я не лечу а бегу
+[Sun Oct 23 12:29:08 2016]  say: ^0n!k^3^4!ta: вот тут
+[Sun Oct 23 12:29:16 2016]  say: PACKAC: мы тут прошлый раз
+[Sun Oct 23 12:29:18 2016]  say: PACKAC: строили
+[Sun Oct 23 12:29:20 2016]  say: ^0n!k^3^4!ta: да
+[Sun Oct 23 12:29:24 2016]  say: PACKAC: ок
+[Sun Oct 23 12:29:26 2016]  say: ^0n!k^3^4!ta: го занава
+[Sun Oct 23 12:29:28 2016]  say: PACKAC: ^1HOUSE SCRIPT ^4By ^1µ^2/Раrk^1Qµаkи^2/^1S - ^5PART 1
+[Sun Oct 23 12:29:38 2016]  say: ^0n!k^3^4!ta: да не так
+[Sun Oct 23 12:29:42 2016]  say: PACKAC: ^1HOUSE SCRIPT ^4By ^1µ^2/Раrk^1Qµаkи^2/^1S - ^5PART 1
+[Sun Oct 23 12:29:46 2016]  say: ^0n!k^3^4!ta: а из
+[Sun Oct 23 12:29:57 2016]  say: ^0n!k^3^4!ta: УБЕРИ
+[Sun Oct 23 12:30:11 2016]  say: ^0n!k^3^4!ta: вот так
+[Sun Oct 23 12:30:28 2016]  say: ^0n!k^3^4!ta: нет
+[Sun Oct 23 12:30:34 2016]  say: ^0n!k^3^4!ta: ДА БЛЯТЬ ХАРЕ
+[Sun Oct 23 12:30:56 2016]  say: ^0n!k^3^4!ta: чвак
+[Sun Oct 23 12:31:04 2016]  say: ^0n!k^3^4!ta: я тебе нечем не памагу(
+[Sun Oct 23 12:31:19 2016]  say: ^0n!k^3^4!ta: теео
+[Sun Oct 23 12:31:25 2016]  say: ^0n!k^3^4!ta: ДУРАК
+[Sun Oct 23 12:31:34 2016]  say: ^0n!k^3^4!ta: строй сам знацит
+[Sun Oct 23 12:31:39 2016]  Kill: 0 0 39: ^0n!k^3^4!ta killed ^0n!k^3^4!ta by MOD_SUICIDE
+[Sun Oct 23 12:31:39 2016]  setteam:  0 FREE SPECTATOR
+[Sun Oct 23 12:31:39 2016]  ClientBegin: 0
+[Sun Oct 23 12:31:53 2016]  say: PACKAC: где ты
+[Sun Oct 23 12:31:55 2016]  say: PACKAC: тп
+[Sun Oct 23 12:32:10 2016]  say: PACKAC: Айда
+[Sun Oct 23 12:32:15 2016]  say: ^0n!k^3^4!ta: как зделать блоки ставить на Р
+[Sun Oct 23 12:32:15 2016]  say: PACKAC: я огонь уже взял
+[Sun Oct 23 12:32:29 2016]  say: PACKAC:  bind p айди придмета
+[Sun Oct 23 12:32:31 2016]  say: ^0n!k^3^4!ta: на H
+[Sun Oct 23 12:33:18 2016]  setteam:  0 SPECTATOR FREE
+[Sun Oct 23 12:33:18 2016]  ClientBegin: 0
+[Sun Oct 23 12:33:28 2016]  say: ^0n!k^3^4!ta: не ставяца
+[Sun Oct 23 12:33:40 2016]  say: PACKAC: Не правильно ввел
+[Sun Oct 23 12:34:10 2016]  say: ^0n!k^3^4!ta: как вести
+[Sun Oct 23 12:34:16 2016]  say: PACKAC: эмм
+[Sun Oct 23 12:34:19 2016]  say: PACKAC: не знаю
+[Sun Oct 23 12:34:20 2016]  say: PACKAC: сам
+[Sun Oct 23 12:34:29 2016]  say: ^0n!k^3^4!ta: дай список
+[Sun Oct 23 12:34:29 2016]  say: PACKAC: мне старк говорил
+[Sun Oct 23 12:34:34 2016]  say: PACKAC: как?
+[Sun Oct 23 12:34:36 2016]  say: PACKAC: дать
+[Sun Oct 23 12:34:41 2016]  say: ^0n!k^3^4!ta: скажи как кего зделать
+[Sun Oct 23 12:35:00 2016]  say: PACKAC: HOTH/TIRRET_BASE
+[Sun Oct 23 12:35:21 2016]  say: PACKAC: вот /bind p HOTH/TURRET_BASE
+[Sun Oct 23 12:35:38 2016]  Kill: 1 1 39: PACKAC killed PACKAC by MOD_SUICIDE
+[Sun Oct 23 12:35:38 2016]  setteam:  1 FREE SPECTATOR
+[Sun Oct 23 12:35:38 2016]  ClientBegin: 1
+[Sun Oct 23 12:35:44 2016]  setteam:  1 SPECTATOR FREE
+[Sun Oct 23 12:35:44 2016]  ClientBegin: 1
+[Sun Oct 23 12:36:09 2016]  say: ^0n!k^3^4!ta: и
+[Sun Oct 23 12:36:37 2016]  say: PACKAC: или так /bind HOTH/TURRET_BASE P
+[Sun Oct 23 12:37:12 2016]  say: PACKAC: жди меня
+[Sun Oct 23 12:37:12 2016]  say: ^0n!k^3^4!ta: да блин хватит 
+[Sun Oct 23 12:39:08 2016]  say: PACKAC: что
+[Sun Oct 23 12:39:15 2016]  say: PACKAC: нажми на p
+[Sun Oct 23 12:39:20 2016]  say: ^0n!k^3^4!ta: и
+[Sun Oct 23 12:39:29 2016]  say: PACKAC: ну тогда не знаю
+[Sun Oct 23 12:39:35 2016]  say: ^0n!k^3^4!ta: не на р а на H
+[Sun Oct 23 12:40:00 2016]  say: PACKAC: DANGER/SHIP_PART03
+[Sun Oct 23 12:40:08 2016]  say: ^0n!k^3^4!ta: на H
+[Sun Oct 23 12:40:30 2016]  say: PACKAC: напиши /bind H DANGER/SHIP_PART03
+[Sun Oct 23 12:40:38 2016]  say: PACKAC: только в консоли
+[Sun Oct 23 12:41:21 2016]  say: PACKAC: нажми Р
+[Sun Oct 23 12:41:22 2016]  say: PACKAC: H
+[Sun Oct 23 12:41:28 2016]  say: ^0n!k^3^4!ta: и
+[Sun Oct 23 12:41:30 2016]  say: PACKAC: английскую
+[Sun Oct 23 12:41:41 2016]  say: ^0n!k^3^4!ta: нажимаю
+[Sun Oct 23 12:42:07 2016]  say: PACKAC: не знаю как я
+[Sun Oct 23 12:42:10 2016]  say: PACKAC: зделать так
+[Sun Oct 23 12:42:12 2016]  say: PACKAC: у меня чит
+[Sun Oct 23 12:42:15 2016]  say: PACKAC: на это
+[Sun Oct 23 12:42:29 2016]  say: ^0n!k^3^4!ta: ты дурак
+[Sun Oct 23 12:42:38 2016]  say: PACKAC: Я ночной призрак
+[Sun Oct 23 12:42:42 2016]  say: ^0n!k^3^4!ta: харе блоки в меня ставить
+[Sun Oct 23 12:43:06 2016]  say: PACKAC: kek
+[Sun Oct 23 12:43:23 2016]  say: PACKAC: Ты мой подданный
+[Sun Oct 23 12:43:28 2016]  say: PACKAC: подданый
+[Sun Oct 23 12:44:03 2016]  say: ^0n!k^3^4!ta: я шопот сметри
+[Sun Oct 23 12:44:15 2016]  say: PACKAC: смотри
+[Sun Oct 23 12:44:20 2016]  say: PACKAC: Консоль
+[Sun Oct 23 12:44:26 2016]  say: PACKAC: Как на лугор моде
+[Sun Oct 23 12:44:33 2016]  say: ^0n!k^3^4!ta: я не там
+[Sun Oct 23 12:45:08 2016]  say: ^0n!k^3^4!ta: я под землей перешол заболр
+[Sun Oct 23 12:45:43 2016]  say: PACKAC: я над картой
+[Sun Oct 23 12:45:51 2016]  say: PACKAC: я небесный царь
+[Sun Oct 23 12:47:17 2016]  say: PACKAC: я бог
+[Sun Oct 23 12:47:37 2016]  say: ^0n!k^3^4!ta: я на небесах
+[Sun Oct 23 12:47:49 2016]  say: ^0n!k^3^4!ta: я даже вместо карты вижу звезды
+[Sun Oct 23 12:47:56 2016]  say: PACKAC: Сюда
+[Sun Oct 23 12:48:03 2016]  say: PACKAC: Никита в бар
+[Sun Oct 23 12:48:11 2016]  say: ^0n!k^3^4!ta: лечууууууууууууууууууууууууууууууууууу
+[Sun Oct 23 12:48:54 2016]  say: ^0n!k^3^4!ta: прям в нево пападание
+[Sun Oct 23 12:49:01 2016]  say: ^0n!k^3^4!ta: я гарю
+[Sun Oct 23 12:49:10 2016]  say: PACKAC: иди сюда
+[Sun Oct 23 12:49:46 2016]  say: ^0n!k^3^4!ta: я гарюююююююююю!!!!!!!!!!!!!!!!!
+[Sun Oct 23 12:49:55 2016]  say: PACKAC: Смотри
+[Sun Oct 23 12:50:13 2016]  say: ^0n!k^3^4!ta: эта чертеж нашей базы?
+[Sun Oct 23 12:50:20 2016]  say: PACKAC: нет
+[Sun Oct 23 12:50:31 2016]  say: PACKAC: в прохождение есть такая карта
+[Sun Oct 23 12:50:39 2016]  say: ^0n!k^3^4!ta: ну да
+[Sun Oct 23 12:50:41 2016]  say: ^0n!k^3^4!ta: есть
+[Sun Oct 23 12:50:53 2016]  say: ^0n!k^3^4!ta: о нет
+[Sun Oct 23 12:51:11 2016]  say: ^0n!k^3^4!ta: на планете бум бум беда огненый монстр напал
+[Sun Oct 23 12:51:21 2016]  say: ^0n!k^3^4!ta: летим
+[Sun Oct 23 12:51:24 2016]  say: PACKAC: Надо спасать
+[Sun Oct 23 12:51:39 2016]  say: ^0n!k^3^4!ta: ты на карабле я просто
+[Sun Oct 23 12:51:56 2016]  say: ^0n!k^3^4!ta: жывей
+[Sun Oct 23 12:52:00 2016]  say: ^0n!k^3^4!ta: летим
+[Sun Oct 23 12:52:09 2016]  say: ^0n!k^3^4!ta: в неба
+[Sun Oct 23 12:52:35 2016]  say: ^0n!k^3^4!ta: НАМ ПАРА ЛЕТЕТЬ ЛЕТИМ
+[Sun Oct 23 12:52:51 2016]  say: PACKAC: Тут монстр
+[Sun Oct 23 12:53:00 2016]  say: ^0n!k^3^4!ta: летим там он и бует
+[Sun Oct 23 12:53:08 2016]  say: ^0n!k^3^4!ta: строй их много
+[Sun Oct 23 12:53:14 2016]  say: PACKAC: не
+[Sun Oct 23 12:53:16 2016]  say: ^0n!k^3^4!ta: иди от сюда
+[Sun Oct 23 12:53:19 2016]  say: ^0n!k^3^4!ta: в бар
+[Sun Oct 23 12:53:19 2016]  say: PACKAC: сервер лагать будет
+[Sun Oct 23 12:53:27 2016]  say: ^0n!k^3^4!ta: хоть 5
+[Sun Oct 23 12:53:30 2016]  say: PACKAC: нееее
+[Sun Oct 23 12:53:35 2016]  say: ^0n!k^3^4!ta: иди в бар
+[Sun Oct 23 12:55:41 2016]  say: PACKAC: я кушать
+[Sun Oct 23 12:55:52 2016]  say: ^0n!k^3^4!ta: пагади еше чучуть
+[Sun Oct 23 12:56:35 2016]  say: ^0n!k^3^4!ta: уберай /not
+[Sun Oct 23 13:00:08 2016]  say: ^0n!k^3^4!ta: а
+[Sun Oct 23 13:03:21 2016]  say: ^0n!k^3^4!ta: чвак
+[Sun Oct 23 13:13:56 2016]  say: PACKAC: я уроки делать
+[Sun Oct 23 13:14:07 2016]  say: PACKAC: жди меня я не долго
+[Sun Oct 23 13:14:22 2016]  say: PACKAC: строй мне корабль
+[Sun Oct 23 13:37:10 2016]  say: ^0n!k^3^4!ta: жди я адыхаю
+[Sun Oct 23 13:37:15 2016]  say: PACKAC: я тут
+[Sun Oct 23 13:37:20 2016]  say: ^0n!k^3^4!ta: еше каплю
+[Sun Oct 23 13:38:24 2016]  say: PACKAC: смотри
+[Sun Oct 23 13:38:27 2016]  say: PACKAC: C3PO
+[Sun Oct 23 13:38:51 2016]  say: ^0n!k^3^4!ta: ЛОООООООООООООООООООООООООООООООООООООООООООООЛ
+[Sun Oct 23 13:39:15 2016]  say: PACKAC: что то типо того
+[Sun Oct 23 13:39:43 2016]  say: PACKAC: наверх не смотри
+[Sun Oct 23 13:41:37 2016]  say: PACKAC: Никита
+[Sun Oct 23 13:41:38 2016]  say: PACKAC: Выйди
+[Sun Oct 23 13:41:44 2016]  say: PACKAC: На улицу
+[Sun Oct 23 13:43:02 2016]  say: ^0n!k^3^4!ta: ну можно????
+[Sun Oct 23 13:43:06 2016]  say: PACKAC: что
+[Sun Oct 23 13:43:18 2016]  say: ^0n!k^3^4!ta: смотреть
+[Sun Oct 23 13:43:22 2016]  say: PACKAC: нет
+[Sun Oct 23 13:43:56 2016]  say: PACKAC: Как повернуть обьект?
+[Sun Oct 23 13:44:15 2016]  say: ^0n!k^3^4!ta: чоп он был с верху вниз?
+[Sun Oct 23 13:44:20 2016]  say: PACKAC: Нет
+[Sun Oct 23 13:44:26 2016]  say: PACKAC: Вправо смотрел 
+[Sun Oct 23 13:44:27 2016]  say: PACKAC: Чтобы
+[Sun Oct 23 13:44:32 2016]  say: PACKAC: Перевернуть
+[Sun Oct 23 13:44:41 2016]  say: ^0n!k^3^4!ta: перевернуть
+[Sun Oct 23 13:44:53 2016]  say: PACKAC: дааа
+[Sun Oct 23 13:44:55 2016]  say: ^0n!k^3^4!ta: /mscalet 90 0 0
+[Sun Oct 23 13:44:57 2016]  say: PACKAC: дай команду
+[Sun Oct 23 13:45:37 2016]  say: PACKAC: неа
+[Sun Oct 23 13:45:57 2016]  say: PACKAC: ААААААААААА
+[Sun Oct 23 13:46:31 2016]  say: ^0n!k^3^4!ta: а ты хочеш наабарот
+[Sun Oct 23 13:46:45 2016]  say: PACKAC: Как поворачивать
+[Sun Oct 23 13:46:47 2016]  say: PACKAC: Обьект
+[Sun Oct 23 13:46:47 2016]  say: ^0n!k^3^4!ta: таже каманда толка цыфри местами вот так паменяй
+[Sun Oct 23 13:46:53 2016]  say: ^0n!k^3^4!ta: 0 90 0
+[Sun Oct 23 13:47:49 2016]  say: PACKAC: какккк 
+[Sun Oct 23 13:47:51 2016]  say: PACKAC: перевернуть
+[Sun Oct 23 13:47:53 2016]  say: PACKAC: Обьект
+[Sun Oct 23 13:47:55 2016]  say: PACKAC: Придмет
+[Sun Oct 23 13:48:31 2016]  say: ^0n!k^3^4!ta: есть 3 каманды на 1
+[Sun Oct 23 13:48:34 2016]  say: ^0n!k^3^4!ta: напремер
+[Sun Oct 23 13:48:53 2016]  say: ^0n!k^3^4!ta: 90 0 0\ 0 90 0\ 0 0 90.
+[Sun Oct 23 13:49:01 2016]  say: PACKAC: Не та команда
+[Sun Oct 23 13:49:33 2016]  say: ^0n!k^3^4!ta: тогда папробуй /mrotate
+[Sun Oct 23 13:49:48 2016]  say: PACKAC: да она
+[Sun Oct 23 13:49:55 2016]  say: ^0n!k^3^4!ta: )
+[Sun Oct 23 13:50:59 2016]  say: ^0n!k^3^4!ta: нууууууууууууууу
+[Sun Oct 23 13:51:13 2016]  say: PACKAC: все
+[Sun Oct 23 13:51:17 2016]  say: PACKAC: Смотри
+[Sun Oct 23 13:51:25 2016]  say: PACKAC: Сюда
+[Sun Oct 23 13:51:33 2016]  say: ^0n!k^3^4!ta: ахренетб
+[Sun Oct 23 13:51:51 2016]  say: PACKAC: Тут поле заграждает
+[Sun Oct 23 13:52:01 2016]  say: PACKAC: Видно не до конца
+[Sun Oct 23 13:52:08 2016]  say: PACKAC: лол
+[Sun Oct 23 13:52:09 2016]  say: PACKAC: я вышел
+[Sun Oct 23 13:52:20 2016]  say: ^0n!k^3^4!ta: ухтыыыыыыы
+[Sun Oct 23 13:52:28 2016]  say: ^0n!k^3^4!ta: а че сверху
+[Sun Oct 23 13:52:37 2016]  say: PACKAC: нечего
+[Sun Oct 23 13:52:37 2016]  Item: 0 ammo_all
+[Sun Oct 23 13:52:47 2016]  say: PACKAC: Тут кровать тебе
+[Sun Oct 23 13:52:50 2016]  say: ^0n!k^3^4!ta: как абнять
+[Sun Oct 23 13:52:51 2016]  say: PACKAC: Моя та
+[Sun Oct 23 13:52:53 2016]  say: PACKAC: м
+[Sun Oct 23 13:53:01 2016]  say: PACKAC: Это твоя
+[Sun Oct 23 13:53:08 2016]  say: ^0n!k^3^4!ta: а как  нее леч
+[Sun Oct 23 13:53:12 2016]  say: ^0n!k^3^4!ta: так?
+[Sun Oct 23 13:53:19 2016]  say: PACKAC: Уйди
+[Sun Oct 23 13:53:48 2016]  say: ^0n!k^3^4!ta: на самый верх
+[Sun Oct 23 13:54:15 2016]  say: ^0n!k^3^4!ta: во
+[Sun Oct 23 13:54:15 2016]  say: PACKAC: Вот
+[Sun Oct 23 13:54:20 2016]  say: PACKAC: я забы
+[Sun Oct 23 13:54:22 2016]  say: PACKAC: л
+[Sun Oct 23 13:54:38 2016]  say: PACKAC: Вот
+[Sun Oct 23 13:54:52 2016]  say: ^0n!k^3^4!ta: как абнять
+[Sun Oct 23 13:54:56 2016]  say: PACKAC: кого
+[Sun Oct 23 13:55:01 2016]  say: ^0n!k^3^4!ta: любого
+[Sun Oct 23 13:56:09 2016]  say: ^0n!k^3^4!ta: ок как лец
+[Sun Oct 23 13:56:13 2016]  say: PACKAC: напиши /minfo
+[Sun Oct 23 13:56:24 2016]  say: PACKAC: там emotes
+[Sun Oct 23 13:56:41 2016]  say: PACKAC: вот так /msleep
+[Sun Oct 23 13:56:49 2016]  say: PACKAC: напиши /msleep
+[Sun Oct 23 13:56:55 2016]  say: ^0n!k^3^4!ta: dj
+[Sun Oct 23 13:56:58 2016]  say: ^0n!k^3^4!ta: во
+[Sun Oct 23 13:57:07 2016]  say: ^0n!k^3^4!ta: я спатки)
+[Sun Oct 23 13:57:11 2016]  say: PACKAC: щас сохраню
+[Sun Oct 23 13:57:13 2016]  say: ^0n!k^3^4!ta: ))))))))))))))))))))))))))
+[Sun Oct 23 13:57:21 2016]  say: ^0n!k^3^4!ta: сохроняй
+[Sun Oct 23 13:57:32 2016]  say: PACKAC: смотри
+[Sun Oct 23 13:57:33 2016]  say: PACKAC: надеюсь
+[Sun Oct 23 13:57:35 2016]  say: PACKAC: сработает
+[Sun Oct 23 13:57:53 2016]  say: PACKAC: да 
+[Sun Oct 23 13:57:55 2016]  say: ^0n!k^3^4!ta: ес
+[Sun Oct 23 13:57:55 2016]  say: PACKAC: работает
+[Sun Oct 23 13:58:02 2016]  say: PACKAC: теперь всегда так можно будет
+[Sun Oct 23 13:58:04 2016]  say: ^0n!k^3^4!ta: я сплю
+[Sun Oct 23 13:58:14 2016]  say: PACKAC: Вот бы дверь
+[Sun Oct 23 13:58:15 2016]  say: ^0n!k^3^4!ta: (храпит)
+[Sun Oct 23 13:58:16 2016]  say: PACKAC: Здеать
+[Sun Oct 23 13:58:24 2016]  say: PACKAC: Зделай себе дверь
+[Sun Oct 23 13:58:26 2016]  say: PACKAC: Никита
+[Sun Oct 23 13:58:34 2016]  say: ^0n!k^3^4!ta: пюююююююююююююю
+[Sun Oct 23 13:58:57 2016]  say: ^0n!k^3^4!ta: я властелин молнии
+[Sun Oct 23 13:59:05 2016]  say: ^0n!k^3^4!ta: )
+[Sun Oct 23 13:59:40 2016]  say: PACKAC: ты застря
+[Sun Oct 23 13:59:41 2016]  say: PACKAC: л
+[Sun Oct 23 13:59:43 2016]  say: PACKAC: тебе норм?
+[Sun Oct 23 13:59:59 2016]  say: ^0n!k^3^4!ta: я не застрял я сплю
+[Sun Oct 23 14:00:07 2016]  say: PACKAC: в стене
+[Sun Oct 23 14:00:08 2016]  say: PACKAC: спишь
+[Sun Oct 23 14:00:26 2016]  say: PACKAC: айда сюда
+[Sun Oct 23 14:00:34 2016]  say: PACKAC: НИКИТА СЮДА ИДИ
+[Sun Oct 23 14:00:52 2016]  say: ^0n!k^3^4!ta: а вон маи ранкоры
+[Sun Oct 23 14:00:55 2016]  say: PACKAC: Прыгай
+[Sun Oct 23 14:01:01 2016]  say: PACKAC: Я тут
+[Sun Oct 23 14:01:30 2016]  say: PACKAC: Иди сюда
+[Sun Oct 23 14:01:31 2016]  say: ^0n!k^3^4!ta: а 
+[Sun Oct 23 14:02:00 2016]  say: ^0n!k^3^4!ta: как такой истребител зделать токо в катором можно летать?
+[Sun Oct 23 14:02:09 2016]  say: PACKAC: ооооооо
+[Sun Oct 23 14:02:11 2016]  say: PACKAC: легко
+[Sun Oct 23 14:02:51 2016]  say: ^0n!k^3^4!ta: ты все удалил((((((
+[Sun Oct 23 14:03:02 2016]  say: PACKAC: где
+[Sun Oct 23 14:03:09 2016]  say: ^0n!k^3^4!ta: в доме
+[Sun Oct 23 14:03:16 2016]  say: PACKAC: сюда
+[Sun Oct 23 14:03:22 2016]  say: PACKAC: смотри
+[Sun Oct 23 14:03:41 2016]  say: PACKAC: ты
+[Sun Oct 23 14:04:10 2016]  say: PACKAC: /mloadobs men
+[Sun Oct 23 14:04:12 2016]  say: PACKAC: /mloadobs menu
+[Sun Oct 23 14:04:17 2016]  say: PACKAC: напиши
+[Sun Oct 23 14:04:18 2016]  say: ^0n!k^3^4!ta: эт што
+[Sun Oct 23 14:04:25 2016]  say: PACKAC: напиши /mloadobs menu BUNKER BUNKER
+[Sun Oct 23 14:04:41 2016]  say: PACKAC:  /mloadobs menu BUNKER BUNKER
+[Sun Oct 23 14:05:10 2016]  say: ^0n!k^3^4!ta: все я сплю
+[Sun Oct 23 14:05:11 2016]  say: PACKAC: написал?
+[Sun Oct 23 14:05:44 2016]  say: PACKAC: mloadobs BUNKER BUNKER
+[Sun Oct 23 14:05:49 2016]  say: PACKAC: напиши так
+[Sun Oct 23 14:06:02 2016]  say: PACKAC: ладно я отойду на 10 мин
+[Sun Oct 23 14:06:05 2016]  say: PACKAC: mloadobs BUNKER BUNKER
+[Sun Oct 23 14:06:10 2016]  say: ^0n!k^3^4!ta: ок
+[Sun Oct 23 14:13:20 2016]  say: ^0n!k^3^4!ta: ты тут
+[Sun Oct 23 14:13:33 2016]  say: ^0n!k^3^4!ta: эй вадим
+[Sun Oct 23 14:14:05 2016]  say: PACKAC: да
+[Sun Oct 23 14:14:08 2016]  say: PACKAC: теперь да
+[Sun Oct 23 14:14:10 2016]  say: ^0n!k^3^4!ta: я в игре!!!
+[Sun Oct 23 14:14:16 2016]  say: PACKAC: ???
+[Sun Oct 23 14:14:21 2016]  say: ^0n!k^3^4!ta: я адахнул
+[Sun Oct 23 14:14:25 2016]  say: PACKAC: ок жди
+[Sun Oct 23 14:14:28 2016]  say: PACKAC: 5сек
+[Sun Oct 23 14:14:34 2016]  say: ^0n!k^3^4!ta: так капк истребител зделать тот
+[Sun Oct 23 14:14:45 2016]  say: PACKAC: сюдааа
+[Sun Oct 23 14:14:49 2016]  say: PACKAC: я сам не знаю
+[Sun Oct 23 14:14:51 2016]  say: PACKAC: щас поищу
+[Sun Oct 23 14:14:59 2016]  say: PACKAC: Поши за мной
+[Sun Oct 23 14:15:04 2016]  say: PACKAC: оту тут у меня лагает
+[Sun Oct 23 14:15:16 2016]  say: PACKAC: все жди
+[Sun Oct 23 14:15:41 2016]  say: PACKAC: нету
+[Sun Oct 23 14:16:01 2016]  say: ^0n!k^3^4!ta: тогда пус павстанский истреб.
+[Sun Oct 23 14:16:16 2016]  say: PACKAC: voobshe netu
+[Sun Oct 23 14:16:25 2016]  say: ^0n!k^3^4!ta: ждите атвета через 3 сек
+[Sun Oct 23 14:16:37 2016]  say: PACKAC: вообще нету
+[Sun Oct 23 14:16:39 2016]  say: PACKAC: не одного
+[Sun Oct 23 14:17:02 2016]  say: ^0n!k^3^4!ta: там есть имперский бомбер
+[Sun Oct 23 14:17:07 2016]  say: PACKAC: нечего нету
+[Sun Oct 23 14:17:12 2016]  say: ^0n!k^3^4!ta: килер его делал
+[Sun Oct 23 14:17:36 2016]  say: PACKAC: я знаб
+[Sun Oct 23 14:17:37 2016]  say: PACKAC: ю
+[Sun Oct 23 14:17:40 2016]  say: PACKAC: что он его делал
+[Sun Oct 23 14:17:55 2016]  say: ^0n!k^3^4!ta: лол
+[Sun Oct 23 14:17:58 2016]  say: PACKAC: что
+[Sun Oct 23 14:18:07 2016]  say: ^0n!k^3^4!ta: ТЫ ПАДНЯЛ БАЗУ В НЕБУ
+[Sun Oct 23 14:18:15 2016]  say: ^0n!k^3^4!ta: НЕБА!!!!!!!!!!!!!!!!
+[Sun Oct 23 14:18:28 2016]  say: PACKAC: эммм
+[Sun Oct 23 14:18:36 2016]  say: PACKAC: втф
+[Sun Oct 23 14:18:45 2016]  say: ^0n!k^3^4!ta: АПУСТИ ВНИЗ НА 900
+[Sun Oct 23 14:18:57 2016]  say: PACKAC: я уже удалил
+[Sun Oct 23 14:19:05 2016]  say: ^0n!k^3^4!ta: делай снова
+[Sun Oct 23 14:19:22 2016]  say: ^0n!k^3^4!ta: во и себе кравать зделай
+[Sun Oct 23 14:19:28 2016]  say: PACKAC: уже
+[Sun Oct 23 14:19:34 2016]  say: ^0n!k^3^4!ta: ок
+[Sun Oct 23 14:19:35 2016]  say: PACKAC: вот моя
+[Sun Oct 23 14:19:47 2016]  say: ^0n!k^3^4!ta: удали от туда мою и перенеси мою к тее
+[Sun Oct 23 14:19:59 2016]  say: PACKAC: зачем
+[Sun Oct 23 14:20:08 2016]  say: PACKAC: зачем?
+[Sun Oct 23 14:20:13 2016]  say: ^0n!k^3^4!ta: а хачу 
+[Sun Oct 23 14:20:25 2016]  say: PACKAC: Ну зачем
+[Sun Oct 23 14:20:50 2016]  say: ^0n!k^3^4!ta: как зделать
+[Sun Oct 23 14:20:54 2016]  say: PACKAC: что
+[Sun Oct 23 14:20:58 2016]  say: ^0n!k^3^4!ta: мины
+[Sun Oct 23 14:21:11 2016]  say: PACKAC: вот /give all
+[Sun Oct 23 14:21:32 2016]  say: ^0n!k^3^4!ta: как бесконецные?
+[Sun Oct 23 14:21:49 2016]  say: ^0n!k^3^4!ta: иди памаги мне
+[Sun Oct 23 14:22:08 2016]  say: ^0n!k^3^4!ta: не такие
+[Sun Oct 23 14:22:37 2016]  say: ^0n!k^3^4!ta: нихера)
+[Sun Oct 23 14:22:52 2016]  say: PACKAC: what
+[Sun Oct 23 14:23:39 2016]  say: ^0n!k^3^4!ta: надо штоп там мин было 100
+[Sun Oct 23 14:23:54 2016]  say: ^0n!k^3^4!ta: я сам
+[Sun Oct 23 14:23:56 2016]  say: PACKAC: не взрывай
+[Sun Oct 23 14:25:14 2016]  say: ^0n!k^3^4!ta: го так
+[Sun Oct 23 14:25:21 2016]  say: ^0n!k^3^4!ta: ани же на время стаят
+[Sun Oct 23 14:26:00 2016]  say: ^0n!k^3^4!ta: НИХЕРА
+[Sun Oct 23 14:26:07 2016]  say: PACKAC: я отойду на 5мин
+[Sun Oct 23 14:40:03 2016]  say: ^0n!k^3^4!ta: ты тут???????
+[Sun Oct 23 14:47:35 2016]  say: ^0n!k^3^4!ta: вадим
+[Sun Oct 23 14:47:50 2016]  say: ^0n!k^3^4!ta: ты тут
+[Sun Oct 23 14:52:09 2016]  Item: 0 ammo_all
+[Sun Oct 23 14:52:20 2016]  Item: 0 ammo_all
+[Sun Oct 23 14:52:25 2016]  Item: 0 ammo_all
+[Sun Oct 23 14:52:34 2016]  Item: 0 ammo_all
+[Sun Oct 23 14:52:44 2016]  Item: 0 ammo_all
+[Sun Oct 23 14:53:15 2016]  Item: 0 ammo_all
+[Sun Oct 23 14:53:15 2016]  Item: 0 ammo_all
+[Sun Oct 23 14:53:16 2016]  Item: 0 ammo_all
+[Sun Oct 23 14:53:17 2016]  Item: 0 ammo_all
+[Sun Oct 23 14:53:21 2016]  Item: 0 ammo_all
+[Sun Oct 23 14:53:26 2016]  Item: 0 ammo_all
+[Sun Oct 23 15:10:02 2016]  say: ^0n!k^3^4!ta: ты тут?????????
+[Sun Oct 23 15:10:18 2016]  say: ^0n!k^3^4!ta: ВАДИМ
+[Sun Oct 23 15:10:23 2016]  say: ^0n!k^3^4!ta: ты где
+[Sun Oct 23 15:10:25 2016]  say: ^0n!k^3^4!ta: там
+[Sun Oct 23 15:11:09 2016]  say: ^0n!k^3^4!ta: вадим тея что успели
+[Sun Oct 23 15:11:33 2016]  say: ^0n!k^3^4!ta: вадим 
+[Sun Oct 23 15:12:49 2016]  say: ^0n!k^3^4!ta: вадим я ухожу на фудбол пока
+[Sun Oct 23 15:13:25 2016]  say: ^0n!k^3^4!ta: жди тут я через 1 цас с палавиной
+[Sun Oct 23 15:15:43 2016]  say: PACKAC: ты еще тут?
+[Sun Oct 23 15:16:11 2016]  say: PACKAC: Как такое возможно
+[Sun Oct 23 15:19:55 2016]  say: ^0n!k^3^4!ta: я ухожу на фудбол на 1 цас с палавиной а ты жди если даждешся
+[Sun Oct 23 15:20:04 2016]  say: ^0n!k^3^4!ta: пока
+[Sun Oct 23 16:07:18 2016]  say: PACKAC: покаа
+[Sun Oct 23 16:07:20 2016]  ClientDisconnect: 1
+[Sun Oct 23 18:25:08 2016]  ClientConnect: 1
+[Sun Oct 23 18:25:08 2016]  mlog:Player Brad, connected. With IP - 81.24.253.11:29070 
+[Sun Oct 23 18:25:30 2016]  ClientBegin: 1
+[Sun Oct 23 18:26:05 2016]  ClientDisconnect: 1
+[Sun Oct 23 21:56:59 2016]  ClientDisconnect: 0
+[Mon Oct 24 09:28:37 2016]  ClientConnect: 0
+[Mon Oct 24 09:28:37 2016]  mlog:Player NIKITA 222222222222222222, connected. With IP - 128.71.214.112:29070 
+[Mon Oct 24 09:29:11 2016]  ClientBegin: 0
+[Mon Oct 24 09:30:11 2016]  say: ^0n!k^3^4!ta: ииииииииииииииииииии
+[Mon Oct 24 09:31:36 2016]  ClientConnect: 1
+[Mon Oct 24 09:31:36 2016]  mlog:Player ^1(^2JAWA^1)^6Yawwa^5Jooce, connected. With IP - 59.101.18.114:29070 
+[Mon Oct 24 09:32:30 2016]  ClientBegin: 1
+[Mon Oct 24 09:32:58 2016]  say: The Lamer-Man: mempower
+[Mon Oct 24 09:33:16 2016]  say: ^0n!k^3^4!ta: тебе меня серогно не убить
+[Mon Oct 24 09:33:22 2016]  say: The Lamer-Man: aiwoai aowiawoiawoaiw eoeieoi
+[Mon Oct 24 09:33:37 2016]  Item: 0 ammo_all
+[Mon Oct 24 09:33:39 2016]  say: ^0n!k^3^4!ta: ты хт руский
+[Mon Oct 24 09:33:45 2016]  say: The Lamer-Man: ou oo aeaenaeneen
+[Mon Oct 24 09:33:58 2016]  say: The Lamer-Man: :D
+[Mon Oct 24 09:34:13 2016]  say: The Lamer-Man: xDD
+[Mon Oct 24 09:35:35 2016]  Kill: 1 1 39: The Lamer-Man killed The Lamer-Man by MOD_SUICIDE
+[Mon Oct 24 09:35:35 2016]  setteam:  1 FREE SPECTATOR
+[Mon Oct 24 09:35:35 2016]  ClientBegin: 1
+[Mon Oct 24 09:35:42 2016]  setteam:  1 SPECTATOR FREE
+[Mon Oct 24 09:35:42 2016]  ClientBegin: 1
+[Mon Oct 24 09:36:58 2016]  say: The Lamer-Man: xDDDD
+[Mon Oct 24 09:37:30 2016]  say: ^0n!k^3^4!ta: come
+[Mon Oct 24 09:37:34 2016]  say: The Lamer-Man: ok
+[Mon Oct 24 09:37:35 2016]  ClientDisconnect: 0
+[Mon Oct 24 09:37:41 2016]  ClientConnect: 0
+[Mon Oct 24 09:37:41 2016]  mlog:Player ^0n!k^3^4!ta, connected. With IP - 128.71.214.112:29070 
+[Mon Oct 24 09:37:54 2016]  ClientBegin: 0
+[Mon Oct 24 09:38:06 2016]  say: The Lamer-Man: haha
+[Mon Oct 24 09:38:09 2016]  say: ^0n!k^3^4!ta: .тще
+[Mon Oct 24 09:38:35 2016]  say: ^0n!k^3^4!ta: haha
+[Mon Oct 24 09:41:23 2016]  ClientConnect: 2
+[Mon Oct 24 09:41:23 2016]  mlog:Player ^0n!k^3^4!ta, connected. With IP - 37.147.89.239:29070 
+[Mon Oct 24 09:41:36 2016]  ClientBegin: 2
+[Mon Oct 24 09:42:13 2016]  Kill: 1 2 19: The Lamer-Man killed ^0n!k^3^4!ta by MOD_ROCKET
+[Mon Oct 24 09:42:16 2016]  say: The Lamer-Man: HAHAHAHAHAHA
+[Mon Oct 24 09:42:25 2016]  say: The Lamer-Man: too late LMAOO
+[Mon Oct 24 09:42:30 2016]  say: ^0n!k^3^4!ta: HAHAHAHAHAHAHHAAHHAHA
+[Mon Oct 24 09:42:36 2016]  say: The Lamer-Man: xDDD
+[Mon Oct 24 09:42:57 2016]  say: ^0n!k^3^4!ta: LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL
+[Mon Oct 24 09:43:16 2016]  ClientDisconnect: 0
+[Mon Oct 24 09:47:15 2016]  ClientDisconnect: 1
+[Mon Oct 24 12:02:13 2016]  say: ^0n!k^3^4!ta: /kill
+[Mon Oct 24 12:02:17 2016]  Kill: 2 2 39: ^0n!k^3^4!ta killed ^0n!k^3^4!ta by MOD_SUICIDE
+[Mon Oct 24 12:11:22 2016]  ClientDisconnect: 2
+[Mon Oct 24 12:15:16 2016]  ClientConnect: 0
+[Mon Oct 24 12:15:16 2016]  mlog:Player ^8n!k^9^4!ta, connected. With IP - 37.147.89.239:29070 
+[Mon Oct 24 12:15:48 2016]  ClientBegin: 0
+[Mon Oct 24 12:56:17 2016]  say: ^0n!k^3^4!ta: лооооооооооооооооооооооооооооооооооооооооооооооооол
+[Mon Oct 24 12:56:32 2016]  say: ^0n!k^3^4!ta: тавион
+[Mon Oct 24 13:04:05 2016]  Kill: 1022 0 2: <world> killed ^0n!k^3^4!ta by MOD_MELEE
+[Mon Oct 24 13:06:15 2016]  Kill: 1022 0 2: <world> killed ^0n!k^3^4!ta by MOD_MELEE
+[Mon Oct 24 13:23:52 2016]  Kill: 1022 0 2: <world> killed ^0n!k^3^4!ta by MOD_MELEE
+[Mon Oct 24 13:24:28 2016]  Kill: 1022 0 3: <world> killed ^0n!k^3^4!ta by MOD_SABER
+[Mon Oct 24 13:25:45 2016]  Kill: 1022 0 2: <world> killed ^0n!k^3^4!ta by MOD_MELEE
+[Mon Oct 24 13:27:58 2016]  say: ^0n!k^3^4!ta: ВАТАКУ РАНКОРЫЫЫЫЫЫЫЫЫЫЫ
+[Mon Oct 24 13:30:15 2016]  G_Spawn: no free entities[Mon Oct 24 13:30:15 2016]  ShutdownGame:
+[Mon Oct 24 13:30:15 2016]  ------------------------------------------------------------

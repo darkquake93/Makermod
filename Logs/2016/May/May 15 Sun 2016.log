@@ -1,0 +1,1191 @@
+[Sun May 15 14:55:36 2016]  ------------------------------------------------------------
+[Sun May 15 14:55:36 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 15 21:56:09 2016]  ClientConnect: 0
+[Sun May 15 21:56:09 2016]  mlog:Player Padawan, connected. With IP - 73.131.194.43:29070 
+[Sun May 15 21:56:27 2016]  ClientBegin: 0
+[Sun May 15 22:14:17 2016]  Kill: 0 0 39: jm killed jm by MOD_SUICIDE
+[Sun May 15 22:16:28 2016]  ClientDisconnect: 0
+[Sun May 15 23:39:22 2016]  ClientConnect: 0
+[Sun May 15 23:39:22 2016]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 217.42.66.56:29070 
+[Sun May 15 23:39:37 2016]  ClientBegin: 0
+[Mon May 16 00:19:35 2016]  ClientConnect: 1
+[Mon May 16 00:19:35 2016]  mlog:Player Sicmah, connected. With IP - 71.163.223.75:29070 
+[Mon May 16 00:19:54 2016]  ClientBegin: 1
+[Mon May 16 00:19:58 2016]  say: ^1M^7r ^1Ð^7innertime: hai
+[Mon May 16 00:20:32 2016]  say: Padawan: whats the uh. 
+[Mon May 16 00:20:35 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 00:20:36 2016]  say: Padawan: command for offset again
+[Mon May 16 00:20:44 2016]  say: ^1M^7r ^1Ð^7innertime: uhm
+[Mon May 16 00:20:44 2016]  say: Padawan: I havnt tried it yet
+[Mon May 16 00:20:54 2016]  say: ^1M^7r ^1Ð^7innertime: markoffset and marktoffset
+[Mon May 16 00:20:59 2016]  say: ^1M^7r ^1Ð^7innertime: you can find the makermodule commands with /help
+[Mon May 16 00:21:09 2016]  say: Padawan: .they arent listed
+[Mon May 16 00:21:12 2016]  say: ^1M^7r ^1Ð^7innertime: O_o
+[Mon May 16 00:21:14 2016]  say: Padawan: .maybe I have the old version
+[Mon May 16 00:21:20 2016]  say: ^1M^7r ^1Ð^7innertime: which version?
+[Mon May 16 00:21:25 2016]  say: Padawan: .shrug.
+[Mon May 16 00:21:27 2016]  say: Padawan: .ill check
+[Mon May 16 00:22:06 2016]  say: Padawan: 0.4a
+[Mon May 16 00:22:09 2016]  say: ^1M^7r ^1Ð^7innertime: ah
+[Mon May 16 00:22:18 2016]  say: ^1M^7r ^1Ð^7innertime: Yeah. You can find makermodule 0.61a on my website :d
+[Mon May 16 00:22:24 2016]  say: Padawan: jaysus ive been missing out.
+[Mon May 16 00:22:26 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 00:23:14 2016]  say: Padawan: k 
+[Mon May 16 00:23:15 2016]  say: Padawan: brb
+[Mon May 16 00:23:16 2016]  ClientDisconnect: 1
+[Mon May 16 00:23:33 2016]  ClientConnect: 1
+[Mon May 16 00:23:33 2016]  mlog:Player Padawan, connected. With IP - 71.163.223.75:29070 
+[Mon May 16 00:23:54 2016]  ClientBegin: 1
+[Mon May 16 00:24:01 2016]  say: Padawan: yeah
+[Mon May 16 00:24:05 2016]  say: Padawan: ive never seen these features  before
+[Mon May 16 00:24:08 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 00:24:11 2016]  say: Padawan: thast probably whyi ve never used them
+[Mon May 16 00:24:13 2016]  say: ^1M^7r ^1Ð^7innertime: ah
+[Mon May 16 00:25:14 2016]  say: Padawan: aay.
+[Mon May 16 00:25:14 2016]  say: Padawan: cool
+[Mon May 16 00:25:25 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 00:25:25 2016]  say: Padawan: it doesnt look like its exactly...
+[Mon May 16 00:25:31 2016]  say: Padawan: a 10:1 ratio
+[Mon May 16 00:25:33 2016]  say: Padawan: for the offset
+[Mon May 16 00:25:59 2016]  say: ^1M^7r ^1Ð^7innertime: lmao
+[Mon May 16 00:26:52 2016]  say: Padawan: how do i makermod.
+[Mon May 16 00:26:53 2016]  say: Padawan: x.x
+[Mon May 16 00:26:55 2016]  say: ^1M^7r ^1Ð^7innertime: ?
+[Mon May 16 00:26:59 2016]  say: ^1M^7r ^1Ð^7innertime: whatcha trying to do?
+[Mon May 16 00:27:10 2016]  say: Padawan: there
+[Mon May 16 00:27:12 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 00:27:29 2016]  say: Padawan: yeah.
+[Mon May 16 00:27:32 2016]  say: Padawan: its not the same ratio.
+[Mon May 16 00:27:36 2016]  say: Padawan: 128 is bigger than 12.8
+[Mon May 16 00:27:38 2016]  say: ^1M^7r ^1Ð^7innertime: roughly ;o
+[Mon May 16 00:27:43 2016]  say: Padawan: thats a pain.
+[Mon May 16 00:27:47 2016]  say: ^1M^7r ^1Ð^7innertime: also
+[Mon May 16 00:27:51 2016]  say: Padawan: why would they make it 0.95 or whatever.
+[Mon May 16 00:27:58 2016]  say: ^1M^7r ^1Ð^7innertime: catwalks aren't an exact square
+[Mon May 16 00:28:05 2016]  say: Padawan: arent they?
+[Mon May 16 00:28:08 2016]  say: ^1M^7r ^1Ð^7innertime: I don't think so
+[Mon May 16 00:28:08 2016]  say: Padawan: mmkay
+[Mon May 16 00:28:10 2016]  say: ^1M^7r ^1Ð^7innertime: let me check
+[Mon May 16 00:29:22 2016]  say: ^1M^7r ^1Ð^7innertime: Z / height = 8
+[Mon May 16 00:29:38 2016]  say: Padawan: ...
+[Mon May 16 00:29:39 2016]  say: Padawan: anger.
+[Mon May 16 00:29:41 2016]  say: ^1M^7r ^1Ð^7innertime: Y = 128
+[Mon May 16 00:29:48 2016]  say: ^1M^7r ^1Ð^7innertime: X = 127.984
+[Mon May 16 00:29:48 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 00:29:53 2016]  say: ^1M^7r ^1Ð^7innertime: so almost a square
+[Mon May 16 00:30:09 2016]  say: Padawan: yeah i noticed.
+[Mon May 16 00:30:12 2016]  say: Padawan: ccuz cu
+[Mon May 16 00:30:15 2016]  say: Padawan: cuz in lugormod
+[Mon May 16 00:30:22 2016]  say: Padawan: the things are multiplied by 10
+[Mon May 16 00:30:26 2016]  say: ^1M^7r ^1Ð^7innertime: mhm
+[Mon May 16 00:30:32 2016]  say: Padawan: but if you look here
+[Mon May 16 00:30:35 2016]  say: Padawan: theres a seam on this one
+[Mon May 16 00:30:35 2016]  say: ^1M^7r ^1Ð^7innertime: the map actually uses the *10 number
+[Mon May 16 00:30:37 2016]  say: Padawan: but not this one
+[Mon May 16 00:30:48 2016]  say: ^1M^7r ^1Ð^7innertime: but for some reason, makermod uses divided by 10
+[Mon May 16 00:30:48 2016]  say: Padawan: what a pain.
+[Mon May 16 00:30:56 2016]  say: Padawan: hmm.
+[Mon May 16 00:31:02 2016]  say: Padawan: how would I fix this i wonder.
+[Mon May 16 00:31:06 2016]  say: Padawan: i guess i would just have to do the math.
+[Mon May 16 00:31:09 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Mon May 16 00:31:22 2016]  say: Padawan: why would they do that.
+[Mon May 16 00:31:24 2016]  say: Padawan: thats absurd.
+[Mon May 16 00:31:27 2016]  say: ^1M^7r ^1Ð^7innertime: laziness. lol
+[Mon May 16 00:31:34 2016]  say: Padawan: how is it lazy to make something more complicated
+[Mon May 16 00:31:47 2016]  say: ^1M^7r ^1Ð^7innertime: you know how they did the 1st person mode weapons, right?
+[Mon May 16 00:31:52 2016]  say: Padawan: moved the camera
+[Mon May 16 00:31:55 2016]  say: ^1M^7r ^1Ð^7innertime: no
+[Mon May 16 00:31:58 2016]  say: ^1M^7r ^1Ð^7innertime: well kinda but...
+[Mon May 16 00:32:50 2016]  say: Padawan: they put the object infront of your camera?
+[Mon May 16 00:32:51 2016]  say: Padawan: or something?
+[Mon May 16 00:32:53 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Mon May 16 00:32:53 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 00:33:02 2016]  say: Padawan: shrg
+[Mon May 16 00:33:05 2016]  say: Padawan: so uh
+[Mon May 16 00:33:11 2016]  say: Padawan: with those measurements in mind...
+[Mon May 16 00:33:16 2016]  say: Padawan: if i wanted everything seamless
+[Mon May 16 00:33:28 2016]  say: Padawan: would i do 0 127.6564564564564565
+[Mon May 16 00:33:32 2016]  say: Padawan: or would i do 127.534543 0 0
+[Mon May 16 00:33:44 2016]  say: Padawan: in practicality does it apply to the first or the second number
+[Mon May 16 00:33:46 2016]  say: Padawan: is what im asking.
+[Mon May 16 00:34:02 2016]  say: ^1M^7r ^1Ð^7innertime: you'd do 12.753453 0 0
+[Mon May 16 00:34:07 2016]  say: Padawan: using offset*
+[Mon May 16 00:34:11 2016]  say: ^1M^7r ^1Ð^7innertime: since mmove divides by 10
+[Mon May 16 00:34:12 2016]  say: ^1M^7r ^1Ð^7innertime: oh
+[Mon May 16 00:34:26 2016]  say: ^1M^7r ^1Ð^7innertime: uhh
+[Mon May 16 00:34:36 2016]  say: ^1M^7r ^1Ð^7innertime: idk if offset uses *10 or not. sec
+[Mon May 16 00:34:41 2016]  say: Padawan: i mean.
+[Mon May 16 00:34:47 2016]  say: Padawan: ill test.
+[Mon May 16 00:34:50 2016]  say: ^1M^7r ^1Ð^7innertime: kk
+[Mon May 16 00:34:54 2016]  say: Padawan: a basic test that is.
+[Mon May 16 00:35:16 2016]  say: Padawan: it does not.
+[Mon May 16 00:35:23 2016]  say: Padawan: this gap is wider than this one
+[Mon May 16 00:35:28 2016]  say: ^1M^7r ^1Ð^7innertime: :<
+[Mon May 16 00:35:31 2016]  say: Padawan: soooo
+[Mon May 16 00:35:40 2016]  say: Padawan: i would have to account for that AND the fact that catwalks arent squares
+[Mon May 16 00:35:47 2016]  say: Padawan: is there any way to find out what measurement it uses?
+[Mon May 16 00:35:55 2016]  say: ^1M^7r ^1Ð^7innertime: this is my scaled by 1 platform :o
+[Mon May 16 00:36:14 2016]  say: ^1M^7r ^1Ð^7innertime: tried to eliminate z-fighting. lol
+[Mon May 16 00:36:18 2016]  say: Padawan: mhm
+[Mon May 16 00:36:20 2016]  say: Padawan: /mmove 12.8
+[Mon May 16 00:36:22 2016]  say: Padawan: 25.6
+[Mon May 16 00:36:24 2016]  say: Padawan: 38.6
+[Mon May 16 00:36:27 2016]  say: Padawan: 42.8
+[Mon May 16 00:36:28 2016]  say: Padawan: 60
+[Mon May 16 00:36:31 2016]  say: Padawan: good times.
+[Mon May 16 00:36:32 2016]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Mon May 16 00:36:42 2016]  say: Padawan: >is there any way to find out what the ratio is for makermodule
+[Mon May 16 00:36:45 2016]  say: Padawan: since its not by 10
+[Mon May 16 00:36:54 2016]  say: ^1M^7r ^1Ð^7innertime: uhm
+[Mon May 16 00:36:57 2016]  say: ^1M^7r ^1Ð^7innertime: ask didz, I guess
+[Mon May 16 00:36:59 2016]  say: ^1M^7r ^1Ð^7innertime: since he made it
+[Mon May 16 00:37:07 2016]  say: Padawan: I wonder why he would choose to do that.
+[Mon May 16 00:37:47 2016]  say: ^1M^7r ^1Ð^7innertime: fgs. I thought i took that out xD
+[Mon May 16 00:37:52 2016]  say: Padawan: eh?
+[Mon May 16 00:37:55 2016]  say: Padawan: im playing muted
+[Mon May 16 00:37:57 2016]  say: Padawan: so if you made a sound
+[Mon May 16 00:37:58 2016]  say: ^1M^7r ^1Ð^7innertime: Oh. lol
+[Mon May 16 00:38:01 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Mon May 16 00:38:03 2016]  say: ^1M^7r ^1Ð^7innertime: I commented out the sound
+[Mon May 16 00:38:09 2016]  say: Padawan: right
+[Mon May 16 00:38:13 2016]  say: Padawan: meanwhile
+[Mon May 16 00:38:15 2016]  say: Padawan: it looks like 12.8
+[Mon May 16 00:38:18 2016]  say: Padawan: isnt a good measurement at all.
+[Mon May 16 00:38:22 2016]  say: Padawan: my life is a lie.
+[Mon May 16 00:39:10 2016]  say: ^1M^7r ^1Ð^7innertime: just noticed *_*
+[Mon May 16 00:39:15 2016]  say: ^1M^7r ^1Ð^7innertime: my script called scaledby1.cfg
+[Mon May 16 00:39:19 2016]  say: ^1M^7r ^1Ð^7innertime: is actually scaled by 2
+[Mon May 16 00:39:19 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 00:39:25 2016]  say: Padawan: exactly.
+[Mon May 16 00:39:27 2016]  say: Padawan: i was wondering about that.
+[Mon May 16 00:39:31 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 00:39:38 2016]  say: Padawan: ugh.
+[Mon May 16 00:39:49 2016]  say: Padawan: his mmark is different from the normal mmark too
+[Mon May 16 00:39:55 2016]  say: Padawan: mmarkdest 0 0 0
+[Mon May 16 00:39:57 2016]  say: Padawan: is like
+[Mon May 16 00:40:01 2016]  say: Padawan: -0.1 lower
+[Mon May 16 00:40:03 2016]  say: ^1M^7r ^1Ð^7innertime: <
+[Mon May 16 00:40:04 2016]  say: ^1M^7r ^1Ð^7innertime: :<
+[Mon May 16 00:40:05 2016]  say: Padawan: than the normal mmark
+[Mon May 16 00:40:25 2016]  say: ^1M^7r ^1Ð^7innertime: well just don't rely on marktoffset :D it seems pretty inaccurate to me
+[Mon May 16 00:40:28 2016]  say: Padawan: niet
+[Mon May 16 00:40:30 2016]  say: Padawan: i love it.
+[Mon May 16 00:40:32 2016]  say: ^1M^7r ^1Ð^7innertime: oh
+[Mon May 16 00:40:35 2016]  say: Padawan: i dont like the fookin
+[Mon May 16 00:40:39 2016]  say: Padawan: uh
+[Mon May 16 00:40:41 2016]  say: Padawan: actual movement
+[Mon May 16 00:40:43 2016]  say: Padawan: of objects
+[Mon May 16 00:40:53 2016]  say: Padawan: being able to place an effect or an object without having to wait for it to move there would have ben amazing back in the day
+[Mon May 16 00:41:01 2016]  say: Padawan: we could make effect scripts that doesnt look weird
+[Mon May 16 00:41:05 2016]  say: Padawan: cuz they had to move to their place
+[Mon May 16 00:41:07 2016]  say: Padawan: and THEN do the thing
+[Mon May 16 00:41:15 2016]  say: ^1M^7r ^1Ð^7innertime: ah
+[Mon May 16 00:41:22 2016]  say: ^1M^7r ^1Ð^7innertime: well
+[Mon May 16 00:41:37 2016]  say: ^1M^7r ^1Ð^7innertime: proxymod had a command that was like mmove but also had a parameter for the time it took to get there
+[Mon May 16 00:41:45 2016]  say: Padawan: good thing proxymod isnt a thing anymore
+[Mon May 16 00:41:48 2016]  say: ^1M^7r ^1Ð^7innertime: =3
+[Mon May 16 00:41:49 2016]  say: ^1M^7r ^1Ð^7innertime: why?
+[Mon May 16 00:41:51 2016]  say: Padawan: isnt it?
+[Mon May 16 00:41:53 2016]  say: Padawan: or do you have it?
+[Mon May 16 00:42:02 2016]  say: ^1M^7r ^1Ð^7innertime: I have the serverside backed up. Yeah
+[Mon May 16 00:42:12 2016]  say: ^1M^7r ^1Ð^7innertime: but scooper has to give the owner permission to us eit
+[Mon May 16 00:42:12 2016]  say: ^1M^7r ^1Ð^7innertime: 3
+[Mon May 16 00:42:12 2016]  say: Padawan: so in otherwords its not a thing on any existing server.
+[Mon May 16 00:42:13 2016]  say: ^1M^7r ^1Ð^7innertime: =3
+[Mon May 16 00:42:15 2016]  say: ^1M^7r ^1Ð^7innertime: no
+[Mon May 16 00:42:25 2016]  say: ^1M^7r ^1Ð^7innertime: why didn't you like it?
+[Mon May 16 00:42:29 2016]  say: Padawan: i dont like spior
+[Mon May 16 00:42:33 2016]  say: ^1M^7r ^1Ð^7innertime: oh :o why?
+[Mon May 16 00:42:39 2016]  say: Padawan: he didnt like me
+[Mon May 16 00:42:41 2016]  say: Padawan: kappa
+[Mon May 16 00:42:46 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 00:42:47 2016]  say: Padawan: and he wasnt nice to new people very much
+[Mon May 16 00:42:51 2016]  say: ^1M^7r ^1Ð^7innertime: ah
+[Mon May 16 00:42:58 2016]  Kill: 1022 0 38: <world> killed ^1M^7r ^1Ð^7innertime by MOD_FALLING
+[Mon May 16 00:43:05 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Mon May 16 00:43:11 2016]  say: ^1M^7r ^1Ð^7innertime: I'm not really a fan of elitists either :<
+[Mon May 16 00:43:19 2016]  say: Padawan: can you tell me what that measurement was again?
+[Mon May 16 00:43:21 2016]  say: Padawan: the weird one
+[Mon May 16 00:43:30 2016]  say: ^1M^7r ^1Ð^7innertime: 127.984
+[Mon May 16 00:43:34 2016]  say: Padawan: wasnt it longer?
+[Mon May 16 00:43:36 2016]  say: ^1M^7r ^1Ð^7innertime: so you'd use 12.7984
+[Mon May 16 00:43:38 2016]  say: ^1M^7r ^1Ð^7innertime: no
+[Mon May 16 00:43:41 2016]  say: Padawan: mmkay
+[Mon May 16 00:44:31 2016]  say: Padawan: yeah.
+[Mon May 16 00:44:34 2016]  say: Padawan: theyre not equal.
+[Mon May 16 00:44:38 2016]  say: Padawan: the mmove and the mmarkoffset
+[Mon May 16 00:45:01 2016]  say: ^1M^7r ^1Ð^7innertime: did I ever show you my super spammy ki blast script that uses markt? ;o
+[Mon May 16 00:45:08 2016]  say: Padawan: i think so
+[Mon May 16 00:45:16 2016]  say: Padawan: nope.
+[Mon May 16 00:45:18 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 00:45:18 2016]  say: Padawan: you did not show me that.
+[Mon May 16 00:45:20 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 00:45:22 2016]  say: Padawan: im impressed.
+[Mon May 16 00:45:24 2016]  say: ^1M^7r ^1Ð^7innertime: ^^ ty
+[Mon May 16 00:45:55 2016]  say: Padawan: yeah okay.
+[Mon May 16 00:45:58 2016]  say: Padawan: so theres like
+[Mon May 16 00:46:01 2016]  say: Padawan: a very very tiny line of pixels
+[Mon May 16 00:46:04 2016]  say: Padawan: inbetween these two
+[Mon May 16 00:46:07 2016]  say: Padawan: but not the other ones
+[Mon May 16 00:46:11 2016]  say: Padawan: when using mmarkoffset
+[Mon May 16 00:46:11 2016]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Mon May 16 00:46:21 2016]  say: ^1M^7r ^1Ð^7innertime: it's 127.984 by 128
+[Mon May 16 00:46:21 2016]  say: Padawan: does sij care though
+[Mon May 16 00:46:23 2016]  say: Padawan: the answer is no
+[Mon May 16 00:46:27 2016]  say: ^1M^7r ^1Ð^7innertime: one side is actually 12.8
+[Mon May 16 00:46:38 2016]  say: Padawan: jk i care I want it perfect.
+[Mon May 16 00:46:41 2016]  say: ^1M^7r ^1Ð^7innertime: kk
+[Mon May 16 00:46:54 2016]  say: Padawan: a thing that always annoyed me a bit was  how didz didnt use
+[Mon May 16 00:46:58 2016]  say: Padawan: the M before commands
+[Mon May 16 00:47:00 2016]  say: Padawan: so its not like
+[Mon May 16 00:47:02 2016]  say: Padawan: mtelet
+[Mon May 16 00:47:04 2016]  say: Padawan: or mmarkt
+[Mon May 16 00:47:05 2016]  say: Padawan: its just telet
+[Mon May 16 00:47:06 2016]  say: Padawan: and markt
+[Mon May 16 00:47:11 2016]  say: ^1M^7r ^1Ð^7innertime: Yeah. It is odd
+[Mon May 16 00:47:14 2016]  say: Padawan: it threw me off alot when i was switching between the two
+[Mon May 16 00:47:49 2016]  say: Padawan: ugh.
+[Mon May 16 00:47:53 2016]  say: Padawan: what an annoyance.
+[Mon May 16 00:47:55 2016]  say: Padawan: 128 0 0
+[Mon May 16 00:47:59 2016]  say: Padawan: has that tiny line
+[Mon May 16 00:48:04 2016]  say: Padawan: but 127.95 0 0
+[Mon May 16 00:48:05 2016]  say: ^1M^7r ^1Ð^7innertime: :<
+[Mon May 16 00:48:06 2016]  say: Padawan: has zfighting
+[Mon May 16 00:48:31 2016]  say: Padawan: and so does 127.99 00
+[Mon May 16 00:48:33 2016]  say: ^1M^7r ^1Ð^7innertime: maybe try 12.9
+[Mon May 16 00:48:33 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 00:48:49 2016]  say: Padawan: yeah.
+[Mon May 16 00:48:53 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 00:48:58 2016]  say: Padawan: 127.999999
+[Mon May 16 00:48:59 2016]  say: Padawan: does nothing.
+[Mon May 16 00:49:02 2016]  say: Padawan: to fix the problem
+[Mon May 16 00:49:08 2016]  say: Padawan: so i guess weel have to live with 128
+[Mon May 16 00:49:23 2016]  say: Padawan: fun
+[Mon May 16 00:49:44 2016]  say: Padawan: I was thinking of inviting some steam friends here
+[Mon May 16 00:49:47 2016]  say: Padawan: and just like
+[Mon May 16 00:49:49 2016]  say: Padawan: teaching them how to build
+[Mon May 16 00:49:51 2016]  say: Padawan: and letting them have fun with that
+[Mon May 16 00:49:54 2016]  say: Padawan: while I make some scripts
+[Mon May 16 00:49:54 2016]  say: ^1M^7r ^1Ð^7innertime: :D fun
+[Mon May 16 00:50:06 2016]  say: Padawan: i did that with one person but it didnt last long
+[Mon May 16 00:50:09 2016]  say: ^1M^7r ^1Ð^7innertime: ah
+[Mon May 16 00:50:12 2016]  say: Padawan: and im not admin anywhere
+[Mon May 16 00:50:14 2016]  say: ^1M^7r ^1Ð^7innertime: :<
+[Mon May 16 00:50:15 2016]  say: Padawan: which is tragic
+[Mon May 16 00:50:33 2016]  say: ^1M^7r ^1Ð^7innertime: I think the owner of this place said he gave me admin
+[Mon May 16 00:50:37 2016]  say: ^1M^7r ^1Ð^7innertime: but he never told me my login
+[Mon May 16 00:50:38 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 00:50:41 2016]  say: Padawan: nice la
+[Mon May 16 00:51:40 2016]  say: Padawan: im confused as to
+[Mon May 16 00:51:44 2016]  say: Padawan: how putting the object infront of your camera thing
+[Mon May 16 00:51:45 2016]  say: Padawan: works.
+[Mon May 16 00:51:48 2016]  say: Padawan: i dont believe it actually.
+[Mon May 16 00:51:56 2016]  say: Padawan: cuz its like
+[Mon May 16 00:52:00 2016]  say: Padawan: they already have a fully working model
+[Mon May 16 00:52:03 2016]  say: Padawan: in 3rd person view
+[Mon May 16 00:52:07 2016]  say: Padawan: with proper animations and stuff
+[Mon May 16 00:52:14 2016]  say: Padawan: so why would they go to the effort to do that
+[Mon May 16 00:52:18 2016]  say: Padawan: oh i know
+[Mon May 16 00:52:22 2016]  say: Padawan: its cuz theyre diferet sizes and stuff
+[Mon May 16 00:52:26 2016]  say: ^1M^7r ^1Ð^7innertime: let's see if I can find it
+[Mon May 16 00:52:27 2016]  say: ^1M^7r ^1Ð^7innertime: sec
+[Mon May 16 00:52:33 2016]  say: Padawan: cuz i HAVE seen
+[Mon May 16 00:52:35 2016]  say: Padawan: the objects
+[Mon May 16 00:52:36 2016]  say: Padawan: and theyre like
+[Mon May 16 00:52:41 2016]  say: Padawan: only modeled and textured
+[Mon May 16 00:52:43 2016]  ClientConnect: 2
+[Mon May 16 00:52:43 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon May 16 00:52:43 2016]  say: Padawan: on the left side
+[Mon May 16 00:52:46 2016]  say: Padawan: like the concussion launcher
+[Mon May 16 00:52:50 2016]  say: Padawan: the right side is invis
+[Mon May 16 00:52:55 2016]  say: Padawan: so i KNOW there are
+[Mon May 16 00:52:57 2016]  say: Padawan: like
+[Mon May 16 00:52:59 2016]  say: Padawan: the first person models
+[Mon May 16 00:53:01 2016]  say: Padawan: but i still think its stupid
+[Mon May 16 00:53:04 2016]  print "Padawan^7 @@@PLRENAME Sijumah
+"[Mon May 16 00:53:10 2016]  ClientBegin: 2
+[Mon May 16 00:53:14 2016]  say: ^1M^7r ^1Ð^7innertime: hey, quake :D
+[Mon May 16 00:53:17 2016]  say: Sijumah: dai darkquake
+[Mon May 16 00:53:19 2016]  say: Sijumah: hai**
+[Mon May 16 00:53:23 2016]  say: ^0Ðàrk^2^1Qµàkè: hey :D
+[Mon May 16 00:53:35 2016]  say: ^1M^7r ^1Ð^7innertime: here
+[Mon May 16 00:53:37 2016]  Kill: 1 1 39: Sijumah killed Sijumah by MOD_SUICIDE
+[Mon May 16 00:53:37 2016]  say: ^1M^7r ^1Ð^7innertime: sicmah
+[Mon May 16 00:53:37 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 00:53:44 2016]  say: ^1M^7r ^1Ð^7innertime: here's the 1st person hand model
+[Mon May 16 00:53:44 2016]  say: Sijumah: yeah exactly.
+[Mon May 16 00:53:47 2016]  say: Sijumah: thats whati was saying
+[Mon May 16 00:53:47 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 00:53:50 2016]  say: Sijumah: its ridiculous
+[Mon May 16 00:53:53 2016]  say: ^1M^7r ^1Ð^7innertime: xD
+[Mon May 16 00:53:57 2016]  say: ^0Ðàrk^2^1Qµàkè: lmao
+[Mon May 16 00:54:08 2016]  say: ^0Ðàrk^2^1Qµàkè: seems legit, sphere and all
+[Mon May 16 00:54:10 2016]  say: Sijumah: I actually 
+[Mon May 16 00:54:10 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 00:54:19 2016]  say: Sijumah: you mentioned this when we were talking about lazyness
+[Mon May 16 00:54:22 2016]  say: ^0Ðàrk^2^1Qµàkè: it's holding a thermal
+[Mon May 16 00:54:23 2016]  say: Sijumah: but its less lazy if you think about it
+[Mon May 16 00:54:35 2016]  say: Sijumah: cuz they had to make seperate animations in order to keep the stuff in view at all times
+[Mon May 16 00:54:39 2016]  say: Sijumah: instead of swinging your arm back
+[Mon May 16 00:54:41 2016]  say: Sijumah: to throw it
+[Mon May 16 00:54:42 2016]  say: Sijumah: for instance.
+[Mon May 16 00:54:59 2016]  say: Sijumah: i still disagree with their decision though
+[Mon May 16 00:55:27 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh, but what can you do, we need a time machine to contact them before they released the game XD
+[Mon May 16 00:55:31 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 00:55:36 2016]  say: Sijumah: back 20 years ago
+[Mon May 16 00:55:37 2016]  say: Sijumah: or whatever it was.
+[Mon May 16 00:55:38 2016]  say: ^1M^7r ^1Ð^7innertime: what's the smallest object that you guys know about/
+[Mon May 16 00:55:39 2016]  say: ^0Ðàrk^2^1Qµàkè: anyway.. I'll check loging
+[Mon May 16 00:55:44 2016]  say: ^0Ðàrk^2^1Qµàkè: This came out in 2003 iirc
+[Mon May 16 00:55:48 2016]  say: Sijumah: i dunno
+[Mon May 16 00:55:58 2016]  say: Sijumah: smallest object is probably like
+[Mon May 16 00:56:00 2016]  say: Sijumah: a chunk from a building
+[Mon May 16 00:56:02 2016]  say: Sijumah: aaay
+[Mon May 16 00:56:04 2016]  say: Sijumah: i was right
+[Mon May 16 00:56:07 2016]  say: ^1M^7r ^1Ð^7innertime: this is mscaled by 1
+[Mon May 16 00:56:07 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 00:56:12 2016]  say: Sijumah: what is it?
+[Mon May 16 00:56:18 2016]  say: ^1M^7r ^1Ð^7innertime: models/chunks/rock/rock1_1
+[Mon May 16 00:56:23 2016]  say: Sijumah: I r smart
+[Mon May 16 00:56:25 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 00:56:45 2016]  say: Sijumah: you wouldnt have that execute time if you used mmarkoffset****
+[Mon May 16 00:56:46 2016]  say: Sijumah: kappa
+[Mon May 16 00:56:51 2016]  say: ^1M^7r ^1Ð^7innertime: Yeah 
+[Mon May 16 00:56:57 2016]  say: Sijumah: im really stoked you showed me that
+[Mon May 16 00:56:58 2016]  say: Sijumah: btw
+[Mon May 16 00:56:59 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 00:57:08 2016]  say: Sijumah: if only it were a thing when makermod was also a thing
+[Mon May 16 00:57:17 2016]  say: ^1M^7r ^1Ð^7innertime: :<
+[Mon May 16 00:57:50 2016]  say: Sijumah: nice la
+[Mon May 16 00:57:53 2016]  say: ^0Ðàrk^2^1Qµàkè: hmm haha
+[Mon May 16 00:57:55 2016]  say: ^0Ðàrk^2^1Qµàkè: 1 sec
+[Mon May 16 00:58:33 2016]  say: ^1M^7r ^1Ð^7innertime: nice :D
+[Mon May 16 00:58:40 2016]  say: ^0Ðàrk^2^1Qµàkè: weee
+[Mon May 16 00:58:51 2016]  say: Sijumah: brb
+[Mon May 16 00:58:52 2016]  ClientDisconnect: 1
+[Mon May 16 00:58:52 2016]  say: ^0Ðàrk^2^1Qµàkè: I was gonna make it usable eventually
+[Mon May 16 00:58:53 2016]  say: ^1M^7r ^1Ð^7innertime: this was my x-wing xD I gave up on it after I found out that mrotate was bugged
+[Mon May 16 00:59:28 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 00:59:40 2016]  say: ^0Ðàrk^2^1Qµàkè: haha I think you showed me
+[Mon May 16 00:59:41 2016]  ClientConnect: 1
+[Mon May 16 00:59:41 2016]  mlog:Player Padawan, connected. With IP - 71.163.223.75:29070 
+[Mon May 16 00:59:43 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 00:59:51 2016]  say: ^0Ðàrk^2^1Qµàkè: I showed you all mine too, my favourite is Halo ^^
+[Mon May 16 00:59:54 2016]  say: ^1M^7r ^1Ð^7innertime: this would be a pretty sweet turret, tbh
+[Mon May 16 00:59:55 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 00:59:56 2016]  say: ^1M^7r ^1Ð^7innertime: like
+[Mon May 16 01:00:01 2016]  say: ^1M^7r ^1Ð^7innertime: if it swivelled here
+[Mon May 16 01:00:02 2016]  ClientBegin: 1
+[Mon May 16 01:00:04 2016]  say: ^1M^7r ^1Ð^7innertime: and fired through this
+[Mon May 16 01:00:07 2016]  say: Sijumah: brb again
+[Mon May 16 01:00:18 2016]  ClientConnect: 3
+[Mon May 16 01:00:18 2016]  mlog:Player ^4Hy^0Dro, connected. With IP - 99.112.206.89:29070 
+[Mon May 16 01:00:25 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:00:39 2016]  ClientBegin: 3
+[Mon May 16 01:00:49 2016]  Kill: 3 3 39: ^4Hy^0Dro killed ^4Hy^0Dro by MOD_SUICIDE
+[Mon May 16 01:00:49 2016]  setteam:  3 FREE SPECTATOR
+[Mon May 16 01:00:49 2016]  ClientBegin: 3
+[Mon May 16 01:00:52 2016]  say: ^4Hy^0Dro: no way.
+[Mon May 16 01:00:53 2016]  say: ^1M^7r ^1Ð^7innertime: hey, hydro
+[Mon May 16 01:00:54 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 01:00:59 2016]  say: ^4Hy^0Dro: sicmer
+[Mon May 16 01:01:13 2016]  say: ^4Hy^0Dro: fuggin sicmah
+[Mon May 16 01:01:17 2016]  say: ^4Hy^0Dro: XD
+[Mon May 16 01:01:24 2016]  setteam:  3 SPECTATOR FREE
+[Mon May 16 01:01:24 2016]  ClientBegin: 3
+[Mon May 16 01:01:24 2016]  Kill: 3 0 37: ^4Hy^0Dro killed ^1M^7r ^1Ð^7innertime by MOD_TELEFRAG
+[Mon May 16 01:01:26 2016]  say: ^4Hy^0Dro: woops
+[Mon May 16 01:01:28 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:01:36 2016]  say: ^4Hy^0Dro: is sijumah sicmah
+[Mon May 16 01:01:41 2016]  say: Sijumah: hai hydro.
+[Mon May 16 01:01:46 2016]  say: ^4Hy^0Dro: o_o
+[Mon May 16 01:01:47 2016]  say: Sijumah: i see we're having a reuinion
+[Mon May 16 01:01:51 2016]  say: ^4Hy^0Dro: oh god
+[Mon May 16 01:01:53 2016]  say: ^4Hy^0Dro: XD
+[Mon May 16 01:01:58 2016]  Kill: 3 1 3: ^4Hy^0Dro killed Sijumah by MOD_SABER
+[Mon May 16 01:02:11 2016]  say: ^4Hy^0Dro: look dinna
+[Mon May 16 01:02:17 2016]  say: ^1M^7r ^1Ð^7innertime: ;D
+[Mon May 16 01:02:34 2016]  say: ^4Hy^0Dro: sicmah
+[Mon May 16 01:02:37 2016]  say: Sijumah: yes?
+[Mon May 16 01:02:39 2016]  say: ^4Hy^0Dro: o.o
+[Mon May 16 01:02:41 2016]  say: ^4Hy^0Dro: is that u
+[Mon May 16 01:02:43 2016]  say: Sijumah: mhm
+[Mon May 16 01:02:45 2016]  say: ^4Hy^0Dro: oh god
+[Mon May 16 01:02:47 2016]  say: ^4Hy^0Dro: XD
+[Mon May 16 01:02:49 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:02:54 2016]  Kill: 0 0 36: ^1M^7r ^1Ð^7innertime killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Mon May 16 01:02:54 2016]  Kill: 0 3 0: ^1M^7r ^1Ð^7innertime killed ^4Hy^0Dro by MOD_UNKNOWN
+[Mon May 16 01:02:56 2016]  say: ^1M^7r ^1Ð^7innertime: lmao
+[Mon May 16 01:02:57 2016]  say: ^4Hy^0Dro: o.o
+[Mon May 16 01:03:08 2016]  say: ^4Hy^0Dro: dat sicmer
+[Mon May 16 01:03:09 2016]  say: ^4Hy^0Dro: XD
+[Mon May 16 01:03:10 2016]  say: Sijumah: hmm
+[Mon May 16 01:03:13 2016]  say: Sijumah: what am i missing
+[Mon May 16 01:03:14 2016]  say: Sijumah: oh right.
+[Mon May 16 01:03:17 2016]  say: Sijumah: r_fullbright 1
+[Mon May 16 01:03:19 2016]  say: Sijumah: best command.
+[Mon May 16 01:03:22 2016]  say: ^1M^7r ^1Ð^7innertime: r_pri 8
+[Mon May 16 01:03:25 2016]  say: ^1M^7r ^1Ð^7innertime: bets command ever
+[Mon May 16 01:03:25 2016]  say: ^4Hy^0Dro: pff
+[Mon May 16 01:03:26 2016]  say: ^4Hy^0Dro: XD
+[Mon May 16 01:03:30 2016]  say: Sijumah: dont remmeber what pri does
+[Mon May 16 01:03:32 2016]  say: ^1M^7r ^1Ð^7innertime: do it
+[Mon May 16 01:03:34 2016]  say: ^0Ðàrk^2^1Qµàkè: btw guys do I hold the single saber like a staff? Wondering how it looks on your end cause I'm using the backhand mod
+[Mon May 16 01:03:34 2016]  say: Sijumah: nah
+[Mon May 16 01:03:36 2016]  say: ^4Hy^0Dro: fck no XD
+[Mon May 16 01:03:36 2016]  say: ^1M^7r ^1Ð^7innertime: lmo
+[Mon May 16 01:03:37 2016]  say: ^1M^7r ^1Ð^7innertime: lmao
+[Mon May 16 01:03:38 2016]  say: Sijumah: im guessing it fucks your screen up
+[Mon May 16 01:03:41 2016]  say: ^1M^7r ^1Ð^7innertime: yes. lmao
+[Mon May 16 01:03:44 2016]  say: ^0Ðàrk^2^1Qµàkè: :D
+[Mon May 16 01:03:45 2016]  say: Sijumah: yes
+[Mon May 16 01:03:46 2016]  say: Sijumah: you are
+[Mon May 16 01:03:48 2016]  say: ^1M^7r ^1Ð^7innertime: you can't even see the console
+[Mon May 16 01:03:53 2016]  say: Sijumah: yeah
+[Mon May 16 01:03:56 2016]  say: Sijumah: i knew i remembered it from something
+[Mon May 16 01:03:58 2016]  say: Sijumah: kappa
+[Mon May 16 01:03:58 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 01:03:59 2016]  say: ^4Hy^0Dro: whats ur steam sicmer
+[Mon May 16 01:04:05 2016]  say: Sijumah: some fancyass name
+[Mon May 16 01:04:07 2016]  say: Sijumah: try Sijumah
+[Mon May 16 01:04:28 2016]  say: ^1M^7r ^1Ð^7innertime: ;o
+[Mon May 16 01:04:29 2016]  say: ^1M^7r ^1Ð^7innertime: quake
+[Mon May 16 01:04:31 2016]  say: Sijumah: im on dinnertimes steam
+[Mon May 16 01:04:32 2016]  say: Sijumah: if you know him
+[Mon May 16 01:04:37 2016]  say: ^1M^7r ^1Ð^7innertime: your 5 non-rancor npcs vs my jedi master
+[Mon May 16 01:04:42 2016]  say: ^4Hy^0Dro: oh ok
+[Mon May 16 01:04:46 2016]  say: Sijumah: whats yours?
+[Mon May 16 01:04:56 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 01:05:39 2016]  say: ^4Hy^0Dro: there
+[Mon May 16 01:05:39 2016]  say: ^0Ðàrk^2^1Qµàkè: do I have you on Steam dinnertime? :p I don't see a unique group for you but maybe I forgot
+[Mon May 16 01:05:41 2016]  say: ^4Hy^0Dro: lel
+[Mon May 16 01:05:51 2016]  say: ^1M^7r ^1Ð^7innertime: I don't think I do
+[Mon May 16 01:06:00 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:06:03 2016]  say: ^0Ðàrk^2^1Qµàkè: epic
+[Mon May 16 01:06:18 2016]  say: ^4Hy^0Dro: look
+[Mon May 16 01:06:32 2016]  Kill: 1022 3 36: <world> killed ^4Hy^0Dro by MOD_CRUSH
+[Mon May 16 01:06:33 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:06:34 2016]  say: ^4Hy^0Dro: XD
+[Mon May 16 01:06:36 2016]  say: Sijumah: rip
+[Mon May 16 01:06:36 2016]  say: ^4Hy^0Dro: this guy
+[Mon May 16 01:06:36 2016]  say: ^0Ðàrk^2^1Qµàkè: lmfao
+[Mon May 16 01:06:37 2016]  Kill: 1022 3 36: <world> killed ^4Hy^0Dro by MOD_CRUSH
+[Mon May 16 01:06:39 2016]  Kill: 1022 3 36: <world> killed ^4Hy^0Dro by MOD_CRUSH
+[Mon May 16 01:06:40 2016]  say: Sijumah: you crazy kids.
+[Mon May 16 01:06:42 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:06:46 2016]  say: ^0Ðàrk^2^1Qµàkè: hahahaha
+[Mon May 16 01:06:48 2016]  say: ^4Hy^0Dro: oh god
+[Mon May 16 01:06:50 2016]  say: ^4Hy^0Dro: that script
+[Mon May 16 01:06:51 2016]  say: Sijumah: THROWBACK TO THESE THINGS
+[Mon May 16 01:06:52 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:06:53 2016]  say: ^0Ðàrk^2^1Qµàkè: this game has just gotten out of hand
+[Mon May 16 01:06:55 2016]  say: Sijumah: HUE HUE HUE
+[Mon May 16 01:06:55 2016]  say: ^4Hy^0Dro: XD
+[Mon May 16 01:06:59 2016]  say: ^4Hy^0Dro: lmao
+[Mon May 16 01:07:02 2016]  say: ^0Ðàrk^2^1Qµàkè: mspaint
+[Mon May 16 01:07:02 2016]  Kill: 0 3 36: ^1M^7r ^1Ð^7innertime killed ^4Hy^0Dro by MOD_CRUSH
+[Mon May 16 01:07:07 2016]  say: ^1M^7r ^1Ð^7innertime: oh god
+[Mon May 16 01:07:08 2016]  say: ^1M^7r ^1Ð^7innertime: lagging xD
+[Mon May 16 01:07:11 2016]  say: ^0Ðàrk^2^1Qµàkè: oh yeah!
+[Mon May 16 01:07:17 2016]  Kill: 1022 0 0: <world> killed ^1M^7r ^1Ð^7innertime by MOD_UNKNOWN
+[Mon May 16 01:07:17 2016]  say: ^0Ðàrk^2^1Qµàkè: dinner create some breakable glass pls
+[Mon May 16 01:07:20 2016]  say: ^4Hy^0Dro: :D
+[Mon May 16 01:07:21 2016]  say: Sijumah: heres
+[Mon May 16 01:07:21 2016]  say: ^0Ðàrk^2^1Qµàkè: in a circle ^^
+[Mon May 16 01:07:22 2016]  say: Sijumah: some
+[Mon May 16 01:07:26 2016]  say: ^1M^7r ^1Ð^7innertime: you're sure?
+[Mon May 16 01:07:37 2016]  say: ^1M^7r ^1Ð^7innertime: well okay
+[Mon May 16 01:07:39 2016]  say: ^0Ðàrk^2^1Qµàkè: y not? I wanna repulse them
+[Mon May 16 01:07:42 2016]  say: ^1M^7r ^1Ð^7innertime: breakable glass coming up
+[Mon May 16 01:07:46 2016]  say: Sijumah: there
+[Mon May 16 01:07:48 2016]  say: Sijumah: these are glas.s
+[Mon May 16 01:07:57 2016]  say: ^4Hy^0Dro: lel
+[Mon May 16 01:08:01 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:08:01 2016]  say: ^0Ðàrk^2^1Qµàkè: damn left some
+[Mon May 16 01:08:05 2016]  say: ^0Ðàrk^2^1Qµàkè: but close enough haha
+[Mon May 16 01:08:08 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:08:17 2016]  Kill: 2 0 36: ^0Ðàrk^2^1Qµàkè killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Mon May 16 01:08:17 2016]  Kill: 2 3 36: ^0Ðàrk^2^1Qµàkè killed ^4Hy^0Dro by MOD_CRUSH
+[Mon May 16 01:08:20 2016]  say: Sijumah: there you go
+[Mon May 16 01:08:20 2016]  say: ^0Ðàrk^2^1Qµàkè: hahaha
+[Mon May 16 01:08:21 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 01:08:22 2016]  say: ^0Ðàrk^2^1Qµàkè: awesome
+[Mon May 16 01:08:42 2016]  say: ^4Hy^0Dro: hm sicmer
+[Mon May 16 01:08:44 2016]  say: ^1M^7r ^1Ð^7innertime: D
+[Mon May 16 01:08:45 2016]  say: Sijumah: ?
+[Mon May 16 01:08:48 2016]  say: ^4Hy^0Dro: remember shatterlight
+[Mon May 16 01:08:51 2016]  say: Sijumah: roughly
+[Mon May 16 01:08:55 2016]  say: ^1M^7r ^1Ð^7innertime: did he shatterlight himself?
+[Mon May 16 01:08:55 2016]  say: Sijumah: nothin about him
+[Mon May 16 01:08:56 2016]  say: ^4Hy^0Dro: vatesori
+[Mon May 16 01:08:57 2016]  say: ^4Hy^0Dro: XD
+[Mon May 16 01:09:00 2016]  say: ^0Ðàrk^2^1Qµàkè: YES
+[Mon May 16 01:09:01 2016]  say: Sijumah: i remember the names not the person
+[Mon May 16 01:09:04 2016]  say: ^4Hy^0Dro: ah
+[Mon May 16 01:09:07 2016]  say: ^0Ðàrk^2^1Qµàkè: 1 sec I'll record for memories
+[Mon May 16 01:09:08 2016]  say: ^1M^7r ^1Ð^7innertime: ok
+[Mon May 16 01:09:09 2016]  say: ^4Hy^0Dro: he gave me all his scripts o.o
+[Mon May 16 01:09:09 2016]  say: ^1M^7r ^1Ð^7innertime: break that
+[Mon May 16 01:09:14 2016]  say: Sijumah: rip
+[Mon May 16 01:09:27 2016]  say: ^1M^7r ^1Ð^7innertime: ohh
+[Mon May 16 01:09:32 2016]  say: ^1M^7r ^1Ð^7innertime: I did mbreakable not mbreakableall xD
+[Mon May 16 01:09:38 2016]  say: ^1M^7r ^1Ð^7innertime: okay try now
+[Mon May 16 01:09:43 2016]  say: ^0Ðàrk^2^1Qµàkè: i can't alt-tab.. :/
+[Mon May 16 01:09:45 2016]  say: Sijumah: all this zfighting
+[Mon May 16 01:09:47 2016]  say: ^0Ðàrk^2^1Qµàkè: brb but keep it there
+[Mon May 16 01:09:48 2016]  say: ^1M^7r ^1Ð^7innertime: yeah XD
+[Mon May 16 01:09:48 2016]  say: Sijumah: theres the 12.8
+[Mon May 16 01:09:52 2016]  say: Sijumah: wheres*
+[Mon May 16 01:09:53 2016]  ClientDisconnect: 2
+[Mon May 16 01:10:04 2016]  say: ^1M^7r ^1Ð^7innertime: I didn't even try getting rid of it with this scrit
+[Mon May 16 01:10:06 2016]  say: ^1M^7r ^1Ð^7innertime: script8
+[Mon May 16 01:10:17 2016]  ClientConnect: 2
+[Mon May 16 01:10:17 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon May 16 01:10:22 2016]  Kill: 0 0 36: ^1M^7r ^1Ð^7innertime killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Mon May 16 01:10:31 2016]  say: Sijumah: hydro plis
+[Mon May 16 01:10:33 2016]  say: Sijumah: why do you have 2k hours in jk3
+[Mon May 16 01:10:37 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:10:45 2016]  ClientBegin: 2
+[Mon May 16 01:11:09 2016]  say: ^0Ðàrk^2^1Qµàkè: ok put it back pls ^^
+[Mon May 16 01:11:20 2016]  say: ^1M^7r ^1Ð^7innertime: oh
+[Mon May 16 01:11:21 2016]  say: ^1M^7r ^1Ð^7innertime: the bar?
+[Mon May 16 01:11:33 2016]  say: ^0Ðàrk^2^1Qµàkè: the big round glass
+[Mon May 16 01:11:44 2016]  say: Sijumah: th
+[Mon May 16 01:11:46 2016]  say: Sijumah: there
+[Mon May 16 01:11:47 2016]  say: ^0Ðàrk^2^1Qµàkè: well crystals or windows haha
+[Mon May 16 01:11:52 2016]  say: Sijumah: oh
+[Mon May 16 01:12:14 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 01:12:28 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:12:34 2016]  say: ^0Ðàrk^2^1Qµàkè: lol
+[Mon May 16 01:13:00 2016]  say: ^1M^7r ^1Ð^7innertime: ;o
+[Mon May 16 01:13:03 2016]  say: ^1M^7r ^1Ð^7innertime: where's the sound
+[Mon May 16 01:13:15 2016]  say: ^0Ðàrk^2^1Qµàkè: I'll just keep the recording for nostalgia, already got a Stormtrooper repulse vid up on YT :p
+[Mon May 16 01:13:20 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:13:22 2016]  say: Sijumah: im recording too
+[Mon May 16 01:13:33 2016]  say: ^0Ðàrk^2^1Qµàkè: but glass is much better, I'll wait till I have more to show though
+[Mon May 16 01:13:48 2016]  say: ^0Ðàrk^2^1Qµàkè: I'm so glad we got the woosh sound working well!
+[Mon May 16 01:13:50 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 01:13:59 2016]  say: ^1M^7r ^1Ð^7innertime: my first proper house XD
+[Mon May 16 01:14:12 2016]  say: ^1M^7r ^1Ð^7innertime: you can break it =D
+[Mon May 16 01:14:20 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 01:14:38 2016]  say: ^4Hy^0Dro: :D
+[Mon May 16 01:14:40 2016]  say: ^0Ðàrk^2^1Qµàkè: wow did you make me go specifically here or is that chance? :p
+[Mon May 16 01:14:49 2016]  say: ^0Ðàrk^2^1Qµàkè: cause I'm up on the top lava part
+[Mon May 16 01:15:01 2016]  say: Sijumah: if it was the fireball script
+[Mon May 16 01:15:02 2016]  say: Sijumah: then it was by chance
+[Mon May 16 01:15:03 2016]  say: ^1M^7r ^1Ð^7innertime: Yes. Lava is from the shader I adde
+[Mon May 16 01:15:06 2016]  say: ^1M^7r ^1Ð^7innertime: added* ;o
+[Mon May 16 01:15:07 2016]  say: Sijumah: oh
+[Mon May 16 01:15:12 2016]  say: ^1M^7r ^1Ð^7innertime: My origin is: (-4582 -11316 5049) - You can teleport here with /mtelelast
+
+[Mon May 16 01:15:13 2016]  say: ^1M^7r ^1Ð^7innertime: here?
+[Mon May 16 01:15:19 2016]  say: ^0Ðàrk^2^1Qµàkè: actually I could use this for charging the repulse
+[Mon May 16 01:15:22 2016]  say: ^0Ðàrk^2^1Qµàkè: it's cool
+[Mon May 16 01:15:30 2016]  say: Sijumah: i dont know what you 2 are on about.
+[Mon May 16 01:15:31 2016]  say: Sijumah: x.x
+[Mon May 16 01:15:43 2016]  say: ^1M^7r ^1Ð^7innertime: I don't know he was talking to about the lava *_*
+[Mon May 16 01:16:31 2016]  say: Sijumah: hydro
+[Mon May 16 01:16:34 2016]  say: Sijumah: how did you make that ball again
+[Mon May 16 01:16:35 2016]  say: Sijumah: ive forgotten
+[Mon May 16 01:16:42 2016]  say: ^0Ðàrk^2^1Qµàkè: oh...
+[Mon May 16 01:16:45 2016]  say: ^4Hy^0Dro: reached in between my legs
+[Mon May 16 01:16:47 2016]  say: ^4Hy^0Dro: RIP
+[Mon May 16 01:16:51 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 01:16:51 2016]  say: ^0Ðàrk^2^1Qµàkè: did that kill everyone's stuff?
+[Mon May 16 01:16:51 2016]  say: Sijumah: clearly
+[Mon May 16 01:17:11 2016]  say: ^0Ðàrk^2^1Qµàkè: it's only meant to kill mine :( sorry
+[Mon May 16 01:17:25 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:17:29 2016]  say: ^4Hy^0Dro: dafaq XD
+[Mon May 16 01:17:31 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:17:54 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:17:55 2016]  say: ^0Ðàrk^2^1Qµàkè: I'll log out I guess
+[Mon May 16 01:17:56 2016]  say: ^4Hy^0Dro: the good ole days
+[Mon May 16 01:18:05 2016]  say: Sijumah: darkquake
+[Mon May 16 01:18:07 2016]  say: ^4Hy^0Dro: of makermodness
+[Mon May 16 01:18:08 2016]  say: Sijumah: do you heff steam?
+[Mon May 16 01:18:15 2016]  say: ^0Ðàrk^2^1Qµàkè: yeah :)
+[Mon May 16 01:18:18 2016]  say: ^0Ðàrk^2^1Qµàkè: darkness_danielc
+[Mon May 16 01:18:21 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:18:29 2016]  say: ^4Hy^0Dro: damn_daniel
+[Mon May 16 01:18:29 2016]  say: Sijumah: no matches
+[Mon May 16 01:18:30 2016]  say: ^4Hy^0Dro: lel
+[Mon May 16 01:18:33 2016]  say: ^0Ðàrk^2^1Qµàkè: hahaha
+[Mon May 16 01:18:45 2016]  say: ^4Hy^0Dro: is ur steam name Seth
+[Mon May 16 01:18:49 2016]  say: ^0Ðàrk^2^1Qµàkè: back at it again with them no matches
+[Mon May 16 01:19:29 2016]  say: Sijumah: whats your
+[Mon May 16 01:19:30 2016]  say: ^1M^7r ^1Ð^7innertime: ^3[Script] ^2Tuning my graphics to high. Brb whilst I restart my video.
+[Mon May 16 01:19:30 2016]  say: Sijumah: like
+[Mon May 16 01:19:32 2016]  say: Sijumah: display name?
+[Mon May 16 01:19:56 2016]  say: ^1M^7r ^1Ð^7innertime: eww
+[Mon May 16 01:19:58 2016]  say: ^1M^7r ^1Ð^7innertime: it looks even worse
+[Mon May 16 01:21:03 2016]  say: ^4Hy^0Dro: XD
+[Mon May 16 01:21:09 2016]  say: Sijumah: kappa
+[Mon May 16 01:21:20 2016]  say: ^4Hy^0Dro: dafuq XD
+[Mon May 16 01:21:24 2016]  say: ^1M^7r ^1Ð^7innertime: :O
+[Mon May 16 01:21:26 2016]  say: ^1M^7r ^1Ð^7innertime: do it again!
+[Mon May 16 01:21:28 2016]  say: Sijumah: saberlocks are increased on this server
+[Mon May 16 01:21:29 2016]  say: ^1M^7r ^1Ð^7innertime: I dare you
+[Mon May 16 01:21:31 2016]  say: Sijumah: i seem to recall
+[Mon May 16 01:21:36 2016]  Kill: 0 3 3: ^1M^7r ^1Ð^7innertime killed ^4Hy^0Dro by MOD_SABER
+[Mon May 16 01:21:38 2016]  say: ^4Hy^0Dro: XDDD
+[Mon May 16 01:21:38 2016]  say: ^1M^7r ^1Ð^7innertime: xD
+[Mon May 16 01:21:40 2016]  say: Sijumah: maybe its the US makermod one
+[Mon May 16 01:21:53 2016]  say: ^4Hy^0Dro: sicmer
+[Mon May 16 01:21:53 2016]  say: ^1M^7r ^1Ð^7innertime: hydro ;o duel me
+[Mon May 16 01:21:55 2016]  say: Sijumah: yes?
+[Mon May 16 01:21:56 2016]  say: ^4Hy^0Dro: u still play gta v
+[Mon May 16 01:21:59 2016]  say: Sijumah: not much
+[Mon May 16 01:22:02 2016]  say: ^4Hy^0Dro: x.x
+[Mon May 16 01:22:06 2016]  say: Sijumah: you should play dota
+[Mon May 16 01:22:07 2016]  say: Sijumah: best game
+[Mon May 16 01:22:08 2016]  say: Sijumah: 2016
+[Mon May 16 01:22:11 2016]  say: ^4Hy^0Dro: i don't have it
+[Mon May 16 01:22:16 2016]  say: Sijumah: its free*
+[Mon May 16 01:22:17 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:22:19 2016]  say: ^4Hy^0Dro: oh XD
+[Mon May 16 01:22:27 2016]  ClientDisconnect: 3
+[Mon May 16 01:22:30 2016]  say: ^1M^7r ^1Ð^7innertime: =[
+[Mon May 16 01:22:46 2016]  say: ^0Ðàrk^2^1Qµàkè: i keep forgetting my duel key :p
+[Mon May 16 01:22:47 2016]  Kill: 0 0 39: ^1M^7r ^1Ð^7innertime killed ^1M^7r ^1Ð^7innertime by MOD_SUICIDE
+[Mon May 16 01:22:48 2016]  say: Sijumah: if he actually goes get dota hes gona be so dissapointed
+[Mon May 16 01:22:52 2016]  say: Sijumah: hard A F game
+[Mon May 16 01:23:20 2016]  Kill: 0 2 3: ^1M^7r ^1Ð^7innertime killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon May 16 01:23:22 2016]  say: Sijumah: darkquake whats your steam display name
+[Mon May 16 01:23:22 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:23:22 2016]  say: ^0Ðàrk^2^1Qµàkè: shiiit
+[Mon May 16 01:23:24 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:23:32 2016]  say: ^0Ðàrk^2^1Qµàkè: Darkness93
+[Mon May 16 01:23:45 2016]  Kill: 0 2 3: ^1M^7r ^1Ð^7innertime killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon May 16 01:23:47 2016]  say: ^1M^7r ^1Ð^7innertime: xD
+[Mon May 16 01:23:54 2016]  say: ^1M^7r ^1Ð^7innertime: I'm stuck
+[Mon May 16 01:23:55 2016]  say: ^1M^7r ^1Ð^7innertime: LOL
+[Mon May 16 01:23:56 2016]  say: ^0Ðàrk^2^1Qµàkè: are you using your lock script or actually clicking?
+[Mon May 16 01:24:01 2016]  say: ^1M^7r ^1Ð^7innertime: script. lmao
+[Mon May 16 01:24:15 2016]  say: Sijumah: oh lel.
+[Mon May 16 01:24:15 2016]  say: ^0Ðàrk^2^1Qµàkè: Now you've released them I'm gonna get that haha
+[Mon May 16 01:24:17 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:24:18 2016]  say: Sijumah: i already have you
+[Mon May 16 01:24:18 2016]  say: ^0Ðàrk^2^1Qµàkè: later
+[Mon May 16 01:24:29 2016]  say: ^0Ðàrk^2^1Qµàkè: is your dismember on?
+[Mon May 16 01:24:33 2016]  say: ^0Ðàrk^2^1Qµàkè: cg_dismember 1
+[Mon May 16 01:24:33 2016]  say: ^1M^7r ^1Ð^7innertime: Uhm
+[Mon May 16 01:24:37 2016]  say: ^1M^7r ^1Ð^7innertime: yes
+[Mon May 16 01:24:44 2016]  say: ^0Ðàrk^2^1Qµàkè: yay
+[Mon May 16 01:24:46 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 01:24:50 2016]  Kill: 0 2 3: ^1M^7r ^1Ð^7innertime killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon May 16 01:25:10 2016]  say: ^0Ðàrk^2^1Qµàkè: trouble with this saber is you can't stab or twirl
+[Mon May 16 01:25:14 2016]  say: ^1M^7r ^1Ð^7innertime: I think we can all agree that I have the spammiest script =o
+[Mon May 16 01:25:24 2016]  say: Sijumah: >i have my crystals
+[Mon May 16 01:25:29 2016]  say: ^1M^7r ^1Ð^7innertime: mine is spammier. lmao
+[Mon May 16 01:25:34 2016]  say: Sijumah: i suppose.
+[Mon May 16 01:25:38 2016]  say: ^0Ðàrk^2^1Qµàkè: I'm gonna load one of my houses
+[Mon May 16 01:25:41 2016]  say: ^1M^7r ^1Ð^7innertime: did I ever show you my nuke script?
+[Mon May 16 01:25:45 2016]  say: Sijumah: yep
+[Mon May 16 01:25:47 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:25:56 2016]  say: ^0Ðàrk^2^1Qµàkè: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Mon May 16 01:26:00 2016]  say: ^0Ðàrk^2^1Qµàkè: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Mon May 16 01:26:07 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:26:20 2016]  say: ^0Ðàrk^2^1Qµàkè: before actual turret commands
+[Mon May 16 01:26:23 2016]  say: ^0Ðàrk^2^1Qµàkè: just imagination
+[Mon May 16 01:26:24 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 01:26:33 2016]  say: Sijumah: whats >darkquakes makermod files
+[Mon May 16 01:26:34 2016]  say: Sijumah: on your website
+[Mon May 16 01:26:38 2016]  say: Sijumah: its 1.2gb 
+[Mon May 16 01:26:40 2016]  Kill: 1022 0 7: <world> killed ^1M^7r ^1Ð^7innertime by MOD_TURBLAST
+[Mon May 16 01:26:43 2016]  Kill: 1022 2 7: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_TURBLAST
+[Mon May 16 01:26:50 2016]  say: ^0Ðàrk^2^1Qµàkè: it's the cracked game haha, with the makermod mod
+[Mon May 16 01:26:52 2016]  say: Sijumah: ah
+[Mon May 16 01:26:54 2016]  Kill: 1022 2 7: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_TURBLAST
+[Mon May 16 01:26:54 2016]  say: Sijumah: fun
+[Mon May 16 01:27:02 2016]  say: ^0Ðàrk^2^1Qµàkè: haha mtouchable deathturret
+[Mon May 16 01:27:04 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:27:21 2016]  say: ^0Ðàrk^2^1Qµàkè: this is my other one, never finished :(
+[Mon May 16 01:27:28 2016]  say: ^0Ðàrk^2^1Qµàkè: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Mon May 16 01:27:35 2016]  say: Sijumah: i remember that
+[Mon May 16 01:27:39 2016]  say: Sijumah: didnt you also make the elements scripts?
+[Mon May 16 01:27:42 2016]  say: ^0Ðàrk^2^1Qµàkè: oh..
+[Mon May 16 01:27:45 2016]  say: ^1M^7r ^1Ð^7innertime: omg
+[Mon May 16 01:27:52 2016]  say: ^0Ðàrk^2^1Qµàkè: mhm
+[Mon May 16 01:27:52 2016]  say: ^1M^7r ^1Ð^7innertime: I remember back when makermodule was alive
+[Mon May 16 01:27:57 2016]  say: ^1M^7r ^1Ð^7innertime: literally every noob spammed that script
+[Mon May 16 01:27:58 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:28:03 2016]  say: Sijumah: makermod*
+[Mon May 16 01:28:04 2016]  say: Sijumah: and yes.
+[Mon May 16 01:28:05 2016]  say: Sijumah: good times.
+[Mon May 16 01:28:07 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Mon May 16 01:28:07 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 01:28:08 2016]  say: Sijumah: thats cuz it was in jk3files.com
+[Mon May 16 01:28:23 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh version 1, that was great
+[Mon May 16 01:28:37 2016]  say: Sijumah: id say it braught people to makermod
+[Mon May 16 01:28:41 2016]  say: Sijumah: cuz they were looking arond for skins or maps
+[Mon May 16 01:28:43 2016]  say: ^0Ðàrk^2^1Qµàkè: I'm still working on version 3 after all this time, cause I'm rarely on..
+[Mon May 16 01:28:44 2016]  say: Sijumah: and then they saw these powers
+[Mon May 16 01:28:49 2016]  say: Sijumah: and theyre like >wait whats makermod i should czech that out
+[Mon May 16 01:28:53 2016]  say: ^0Ðàrk^2^1Qµàkè: oh thankyou :D
+[Mon May 16 01:29:06 2016]  say: Sijumah: <3
+[Mon May 16 01:29:20 2016]  say: ^0Ðàrk^2^1Qµàkè: Yeh and I was one step ahead working on v2 to combat them haha
+[Mon May 16 01:29:24 2016]  say: Sijumah: kappa
+[Mon May 16 01:29:27 2016]  say: Sijumah: good times x.x
+[Mon May 16 01:29:31 2016]  say: ^0Ðàrk^2^1Qµàkè: when I came out with the fireball that was cool
+[Mon May 16 01:29:37 2016]  say: ^0Ðàrk^2^1Qµàkè: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1Dbn²
+[Mon May 16 01:29:38 2016]  say: ^0Ðàrk^2^1Qµàkè: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Mon May 16 01:29:39 2016]  say: Sijumah: acid was best element
+[Mon May 16 01:29:43 2016]  say: Sijumah: so shiny
+[Mon May 16 01:29:45 2016]  say: Sijumah: much sound
+[Mon May 16 01:29:46 2016]  say: ^1M^7r ^1Ð^7innertime: you know
+[Mon May 16 01:29:47 2016]  say: Sijumah: aaay
+[Mon May 16 01:29:51 2016]  say: Sijumah: that was my favourite
+[Mon May 16 01:29:55 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh :D
+[Mon May 16 01:29:56 2016]  say: ^1M^7r ^1Ð^7innertime: it would have been a lot better imo without the /say commands
+[Mon May 16 01:29:57 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 01:29:59 2016]  say: ^1M^7r ^1Ð^7innertime: so much text spam XD
+[Mon May 16 01:30:03 2016]  say: ^0Ðàrk^2^1Qµàkè: i know lol
+[Mon May 16 01:30:09 2016]  say: ^0Ðàrk^2^1Qµàkè: I changed it to a muted version
+[Mon May 16 01:30:11 2016]  say: ^1M^7r ^1Ð^7innertime: :
+[Mon May 16 01:30:16 2016]  say: Sijumah: throwback to the naruto script that was on jk3files as well
+[Mon May 16 01:30:16 2016]  say: ^0Ðàrk^2^1Qµàkè: but didn't put it up.. I should've
+[Mon May 16 01:30:18 2016]  say: Sijumah: kappa
+[Mon May 16 01:30:28 2016]  say: ^0Ðàrk^2^1Qµàkè: I think it's on my site but I dunno if people used v2 anyway
+[Mon May 16 01:30:36 2016]  say: ^0Ðàrk^2^1Qµàkè: as much as v1 that is
+[Mon May 16 01:30:43 2016]  say: Sijumah: does v1 have acid?
+[Mon May 16 01:30:48 2016]  say: ^0Ðàrk^2^1Qµàkè: lemme check
+[Mon May 16 01:30:50 2016]  say: ^1M^7r ^1Ð^7innertime: I think I used v1 and the naturo script just to learn how to make my own and that was all
+[Mon May 16 01:30:51 2016]  say: ^0Ðàrk^2^1Qµàkè: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Mon May 16 01:31:06 2016]  say: ^0Ðàrk^2^1Qµàkè: that's closest
+[Mon May 16 01:31:07 2016]  say: Sijumah: nope
+[Mon May 16 01:31:09 2016]  say: ^0Ðàrk^2^1Qµàkè: poison ball
+[Mon May 16 01:31:09 2016]  say: Sijumah: most people used v2
+[Mon May 16 01:31:10 2016]  say: Sijumah: not v1
+[Mon May 16 01:31:16 2016]  say: Sijumah: cuz i remember acid spam and that water spam
+[Mon May 16 01:31:23 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh haha :D force blast was awesome :D
+[Mon May 16 01:31:23 2016]  say: Sijumah: those specific ones that is.
+[Mon May 16 01:31:26 2016]  say: ^0Ðàrk^2^1Qµàkè: check it out
+[Mon May 16 01:31:30 2016]  say: Sijumah: so pretty
+[Mon May 16 01:31:36 2016]  say: ^0Ðàrk^2^1Qµàkè: from ep3 video game :)
+[Mon May 16 01:31:41 2016]  say: ^0Ðàrk^2^1Qµàkè: the 1000 slashes guy
+[Mon May 16 01:32:09 2016]  say: ^0Ðàrk^2^1Qµàkè: lol
+[Mon May 16 01:32:24 2016]  say: ^0Ðàrk^2^1Qµàkè: the very first fireball <3
+[Mon May 16 01:32:45 2016]  say: Sijumah: lel.
+[Mon May 16 01:32:48 2016]  say: ^0Ðàrk^2^1Qµàkè: haha
+[Mon May 16 01:33:02 2016]  say: ^0Ðàrk^2^1Qµàkè: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1Dbn²
+[Mon May 16 01:33:03 2016]  say: ^0Ðàrk^2^1Qµàkè: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Mon May 16 01:34:19 2016]  say: Sijumah: wat.
+[Mon May 16 01:34:27 2016]  say: ^0Ðàrk^2^1Qµàkè: it's v3 :)
+[Mon May 16 01:34:29 2016]  say: Sijumah: i dont remember these.
+[Mon May 16 01:34:30 2016]  say: Sijumah: ooh
+[Mon May 16 01:34:31 2016]  say: Sijumah: thats prolly why.
+[Mon May 16 01:34:33 2016]  say: ^0Ðàrk^2^1Qµàkè: a few new things
+[Mon May 16 01:34:42 2016]  say: Sijumah: the infamous dust effect
+[Mon May 16 01:34:43 2016]  say: ^0Ðàrk^2^1Qµàkè: that's what force repulse is from
+[Mon May 16 01:34:45 2016]  say: Sijumah: that lingers for 900 years.
+[Mon May 16 01:34:58 2016]  say: ^0Ðàrk^2^1Qµàkè: like Yoda
+[Mon May 16 01:35:04 2016]  say: Sijumah: like the force unleashed ;o
+[Mon May 16 01:35:11 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh XD
+[Mon May 16 01:35:18 2016]  say: ^0Ðàrk^2^1Qµàkè: I really hope they make a third :'(
+[Mon May 16 01:35:22 2016]  say: Sijumah: eh.
+[Mon May 16 01:35:25 2016]  say: Sijumah: 2 wasnt that good.
+[Mon May 16 01:35:27 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:35:30 2016]  say: ^0Ðàrk^2^1Qµàkè: now a new Battlefront's come out there's a small chance
+[Mon May 16 01:35:38 2016]  say: ^0Ðàrk^2^1Qµàkè: I still play 2 haha, I love it
+[Mon May 16 01:35:38 2016]  say: Sijumah: star wars empire at war 3
+[Mon May 16 01:35:47 2016]  say: ^0Ðàrk^2^1Qµàkè: not as much as 1 but more than everyone else
+[Mon May 16 01:35:56 2016]  say: Sijumah: 1 had more powers and more character and a longer story.
+[Mon May 16 01:36:01 2016]  say: Sijumah: 2 is just like.
+[Mon May 16 01:36:06 2016]  say: Sijumah: >you can attack and then use lightning
+[Mon May 16 01:36:09 2016]  say: Sijumah: >and then your sword is now lighting.
+[Mon May 16 01:36:25 2016]  say: Sijumah: 1 had more costumes too
+[Mon May 16 01:36:26 2016]  say: Sijumah: ;o
+[Mon May 16 01:36:31 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh but the graphics and sense of alienation
+[Mon May 16 01:36:35 2016]  say: Sijumah: hm?
+[Mon May 16 01:36:38 2016]  say: Sijumah: i remember them being fine
+[Mon May 16 01:36:51 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh I'm saying they're good things
+[Mon May 16 01:36:53 2016]  say: Sijumah: oh
+[Mon May 16 01:36:57 2016]  say: ^0Ðàrk^2^1Qµàkè: Yoda was like wtf though
+[Mon May 16 01:37:05 2016]  say: Sijumah: oh yeah.
+[Mon May 16 01:37:07 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh go in that cave, cya
+[Mon May 16 01:37:08 2016]  say: Sijumah: that was a thing
+[Mon May 16 01:37:16 2016]  say: Sijumah: all the free saber crystals though
+[Mon May 16 01:37:18 2016]  say: Sijumah: theres like 5 in that level.
+[Mon May 16 01:37:22 2016]  say: Sijumah: even though the level is 2 seconds long
+[Mon May 16 01:37:54 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh haha. You should get Evolution mod if you still wanna play it, cause the guy changed the level to have all these troopers and stuff, and then you
+[Mon May 16 01:37:55 2016]  say: ^1M^7r ^1Ð^7innertime: almost
+[Mon May 16 01:37:56 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:38:05 2016]  say: ^0Ðàrk^2^1Qµàkè: (look in console)
+[Mon May 16 01:38:13 2016]  say: ^1M^7r ^1Ð^7innertime: me?
+[Mon May 16 01:38:13 2016]  say: ^0Ðàrk^2^1Qµàkè: oh.. still cut off
+[Mon May 16 01:38:15 2016]  say: Sijumah: dinnertime
+[Mon May 16 01:38:17 2016]  say: ^1M^7r ^1Ð^7innertime: ?
+[Mon May 16 01:38:19 2016]  say: Sijumah: does 10.25 owkr?
+[Mon May 16 01:38:20 2016]  say: Sijumah: work*
+[Mon May 16 01:38:21 2016]  say: Sijumah: for the catwalk?
+[Mon May 16 01:38:22 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh it had troopers and you fought Yoda lol
+[Mon May 16 01:38:22 2016]  say: ^1M^7r ^1Ð^7innertime: oh
+[Mon May 16 01:38:24 2016]  say: ^1M^7r ^1Ð^7innertime: I haven't checked
+[Mon May 16 01:38:31 2016]  say: Sijumah: 10.25 is the size
+[Mon May 16 01:38:32 2016]  say: ^0Ðàrk^2^1Qµàkè: -10.25 works
+[Mon May 16 01:38:33 2016]  say: Sijumah: but it might not work 
+[Mon May 16 01:38:39 2016]  say: Sijumah: 10.23 is biggest 10.25 is smallest
+[Mon May 16 01:38:51 2016]  say: ^0Ðàrk^2^1Qµàkè: I found the right tweaking for repulse, one sec
+[Mon May 16 01:38:52 2016]  say: Sijumah: and 10.24 had some strange properties
+[Mon May 16 01:39:03 2016]  say: Sijumah: yeah
+[Mon May 16 01:39:04 2016]  say: Sijumah: 10.25 works.
+[Mon May 16 01:39:08 2016]  say: Sijumah: but i meant does it work to rise you up
+[Mon May 16 01:39:10 2016]  say: ^0Ðàrk^2^1Qµàkè: try -10.239 :)
+[Mon May 16 01:39:19 2016]  say: ^0Ðàrk^2^1Qµàkè: makes a really tiny catwalk, with a large hitbox
+[Mon May 16 01:39:27 2016]  say: Sijumah: its better than 10.25
+[Mon May 16 01:39:30 2016]  say: ^0Ðàrk^2^1Qµàkè: but there's a trick to all of these
+[Mon May 16 01:39:38 2016]  say: Sijumah: or rather
+[Mon May 16 01:39:39 2016]  say: ^1M^7r ^1Ð^7innertime: I use -10.23 for my final atonemnt
+[Mon May 16 01:39:40 2016]  say: ^0Ðàrk^2^1Qµàkè: you gotta use mmove for it to register the hit box
+[Mon May 16 01:39:45 2016]  say: Sijumah: the negative one
+[Mon May 16 01:39:49 2016]  say: ^0Ðàrk^2^1Qµàkè: so use mmove 0 0 0 after you rescale it
+[Mon May 16 01:39:56 2016]  say: Sijumah: the negative one you just said is bigger than 10.25***
+[Mon May 16 01:39:58 2016]  say: Sijumah: thats what i meant to say.
+[Mon May 16 01:39:59 2016]  say: Sijumah: x.x
+[Mon May 16 01:40:06 2016]  say: ^0Ðàrk^2^1Qµàkè: look at the radius :)
+[Mon May 16 01:40:16 2016]  say: ^1M^7r ^1Ð^7innertime: -10.23 also gives it the hitbox of mscale 10
+[Mon May 16 01:40:21 2016]  say: Sijumah: yeah
+[Mon May 16 01:40:23 2016]  say: Sijumah: 10.25 is smaller.
+[Mon May 16 01:40:30 2016]  say: ^0Ðàrk^2^1Qµàkè: but pain is small radius haha
+[Mon May 16 01:40:35 2016]  say: ^0Ðàrk^2^1Qµàkè: lifts them though
+[Mon May 16 01:40:54 2016]  say: Sijumah: i never knew that about -10.23
+[Mon May 16 01:41:01 2016]  say: Sijumah: being the size of a 10 scaled one
+[Mon May 16 01:41:02 2016]  say: Sijumah: err
+[Mon May 16 01:41:03 2016]  say: ^0Ðàrk^2^1Qµàkè: -10.239
+[Mon May 16 01:41:04 2016]  say: Sijumah: hitbox wise.
+[Mon May 16 01:41:17 2016]  say: ^0Ðàrk^2^1Qµàkè: cause -10.24 starts making it bigger
+[Mon May 16 01:41:19 2016]  say: ^0Ðàrk^2^1Qµàkè: iirc
+[Mon May 16 01:41:21 2016]  say: Sijumah: shrug
+[Mon May 16 01:41:25 2016]  say: ^0Ðàrk^2^1Qµàkè: it's all messed up
+[Mon May 16 01:41:28 2016]  say: Sijumah: i like how this game has all the weird properties to it.
+[Mon May 16 01:41:33 2016]  say: Sijumah: do you remember how to make someone a ghost?
+[Mon May 16 01:41:38 2016]  say: ^0Ðàrk^2^1Qµàkè: yeah :D
+[Mon May 16 01:41:51 2016]  say: Sijumah: niet
+[Mon May 16 01:41:52 2016]  say: Sijumah: not that one
+[Mon May 16 01:42:01 2016]  say: Sijumah: if you mselect a players ID
+[Mon May 16 01:42:03 2016]  say: Sijumah: and theeennn....
+[Mon May 16 01:42:06 2016]  say: Sijumah: mbreakable 1 them
+[Mon May 16 01:42:09 2016]  say: Sijumah: kill them once with an explosion
+[Mon May 16 01:42:11 2016]  say: Sijumah: and then do it AGAIN
+[Mon May 16 01:42:12 2016]  say: ^0Ðàrk^2^1Qµàkè: :o
+[Mon May 16 01:42:13 2016]  say: Sijumah: and THEN before they respawn
+[Mon May 16 01:42:17 2016]  say: Sijumah: mbreakable 400 
+[Mon May 16 01:42:17 2016]  say: Sijumah: them
+[Mon May 16 01:42:20 2016]  say: Sijumah: theyll resurrect
+[Mon May 16 01:42:22 2016]  say: Sijumah: but be a ghost
+[Mon May 16 01:42:25 2016]  say: Sijumah: and bullets and sabers
+[Mon May 16 01:42:27 2016]  say: Sijumah: will go thru them
+[Mon May 16 01:42:30 2016]  say: ^0Ðàrk^2^1Qµàkè: oh I think I knew bout that
+[Mon May 16 01:42:32 2016]  say: Sijumah: but they can still walk around like normal
+[Mon May 16 01:42:37 2016]  say: ^1M^7r ^1Ð^7innertime: hey, quake ;o
+[Mon May 16 01:42:39 2016]  say: ^1M^7r ^1Ð^7innertime: can I resurrect you?
+[Mon May 16 01:42:46 2016]  say: ^0Ðàrk^2^1Qµàkè: sure
+[Mon May 16 01:42:49 2016]  Kill: 2 2 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Mon May 16 01:43:01 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:43:09 2016]  say: Sijumah: yeah
+[Mon May 16 01:43:10 2016]  say: Sijumah: this is half ghosting
+[Mon May 16 01:43:11 2016]  Kill: 2 0 36: ^0Ðàrk^2^1Qµàkè killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Mon May 16 01:43:12 2016]  say: Sijumah: if you do it AGAIN
+[Mon May 16 01:43:12 2016]  say: ^1M^7r ^1Ð^7innertime: =[
+[Mon May 16 01:43:15 2016]  say: ^1M^7r ^1Ð^7innertime: I can't revive myself
+[Mon May 16 01:43:16 2016]  say: Sijumah: then the bullets will go thru him
+[Mon May 16 01:43:18 2016]  say: ^1M^7r ^1Ð^7innertime: I'm player id 0
+[Mon May 16 01:43:18 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 01:43:25 2016]  say: Sijumah: instead of just people going thru him
+[Mon May 16 01:43:25 2016]  Kill: 2 2 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Mon May 16 01:43:29 2016]  say: ^1M^7r ^1Ð^7innertime: don't want to ever mess with id 0
+[Mon May 16 01:43:32 2016]  say: ^1M^7r ^1Ð^7innertime: it could crash
+[Mon May 16 01:43:42 2016]  say: Sijumah: uhm
+[Mon May 16 01:43:43 2016]  say: Sijumah: re-do him.
+[Mon May 16 01:43:44 2016]  say: ^1M^7r ^1Ð^7innertime: ?
+[Mon May 16 01:43:54 2016]  say: Sijumah: ugh
+[Mon May 16 01:43:57 2016]  say: Sijumah: ...
+[Mon May 16 01:43:59 2016]  say: Sijumah: if only i had admin
+[Mon May 16 01:44:02 2016]  say: ^0Ðàrk^2^1Qµàkè: did you mbreakable me?
+[Mon May 16 01:44:07 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:44:10 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Mon May 16 01:44:21 2016]  say: ^0Ðàrk^2^1Qµàkè: I didn't know you could mbreakable players
+[Mon May 16 01:44:23 2016]  say: ^1M^7r ^1Ð^7innertime: mhm
+[Mon May 16 01:44:23 2016]  say: Sijumah: yeah
+[Mon May 16 01:44:25 2016]  say: ^0Ðàrk^2^1Qµàkè: that's weird
+[Mon May 16 01:44:27 2016]  say: Sijumah: theres lots of stuff you can do.
+[Mon May 16 01:44:28 2016]  say: Sijumah: its fun
+[Mon May 16 01:44:29 2016]  say: ^1M^7r ^1Ð^7innertime: just don't touch player id 0
+[Mon May 16 01:44:32 2016]  say: ^1M^7r ^1Ð^7innertime: it's unstable and could crash
+[Mon May 16 01:44:34 2016]  say: Sijumah: you CANT select player id 0
+[Mon May 16 01:44:36 2016]  say: Sijumah: it wont let you
+[Mon May 16 01:44:37 2016]  say: ^1M^7r ^1Ð^7innertime: =[
+[Mon May 16 01:44:55 2016]  say: ^0Ðàrk^2^1Qµàkè: so.. like mselect 1?
+[Mon May 16 01:44:59 2016]  say: Sijumah: yeah exactly.
+[Mon May 16 01:45:05 2016]  say: Sijumah: there was also a process where you could mgrab players
+[Mon May 16 01:45:07 2016]  say: Sijumah: that was an amusing day.
+[Mon May 16 01:45:07 2016]  say: ^1M^7r ^1Ð^7innertime: it's sometimes possible to use mtouchable on players but it sometimes crashes the server
+[Mon May 16 01:45:08 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 01:45:12 2016]  say: Sijumah: but i dont remmeber how to do it
+[Mon May 16 01:45:26 2016]  say: ^0Ðàrk^2^1Qµàkè: this is all new to me, wish I knew this back in the day
+[Mon May 16 01:45:27 2016]  say: Sijumah: or mrotate them
+[Mon May 16 01:45:30 2016]  say: Sijumah: that was reaaaly funny.
+[Mon May 16 01:45:34 2016]  say: Sijumah: seeing a kyle walk on his head.
+[Mon May 16 01:45:39 2016]  say: ^0Ðàrk^2^1Qµàkè: do you think Makermod will spring to life again? :s
+[Mon May 16 01:45:40 2016]  say: ^1M^7r ^1Ð^7innertime: !findents
+[Mon May 16 01:45:41 2016]  say: ^1M^7r ^1Ð^7innertime: oihh
+[Mon May 16 01:45:42 2016]  say: Sijumah: not gonna happen
+[Mon May 16 01:45:44 2016]  say: ^1M^7r ^1Ð^7innertime: uhh
+[Mon May 16 01:45:48 2016]  say: ^1M^7r ^1Ð^7innertime: ^3Syntax ^2- ^7!findmodel <filter> [distance]
+[Mon May 16 01:45:49 2016]  say: ^1M^7r ^1Ð^7innertime: ohh
+[Mon May 16 01:46:00 2016]  say: Sijumah: hey darkquake can i heff admin stuff
+[Mon May 16 01:46:00 2016]  say: ^1M^7r ^1Ð^7innertime: !findmodel all 100000
+[Mon May 16 01:46:01 2016]  say: Sijumah: ;o
+[Mon May 16 01:46:07 2016]  say: ^1M^7r ^1Ð^7innertime: !findmodel
+[Mon May 16 01:46:07 2016]  say: ^1M^7r ^1Ð^7innertime: ^3Syntax ^2- ^7!findmodel <filter> [distance]
+[Mon May 16 01:46:09 2016]  say: ^1M^7r ^1Ð^7innertime: <_<
+[Mon May 16 01:46:13 2016]  say: ^0Ðàrk^2^1Qµàkè: sure game's dead and all anyway :'(
+[Mon May 16 01:46:16 2016]  say: ^1M^7r ^1Ð^7innertime: !findmodel player 23333
+[Mon May 16 01:46:16 2016]  say: Sijumah: <3
+[Mon May 16 01:46:18 2016]  say: Sijumah: i bring peopel to your server soemtime
+[Mon May 16 01:46:24 2016]  say: Sijumah: but its hard to teach them shit when i cant teleport
+[Mon May 16 01:46:25 2016]  say: ^1M^7r ^1Ð^7innertime: forgot the possible filters. lol
+[Mon May 16 01:46:35 2016]  say: ^0Ðàrk^2^1Qµàkè: oh, well get makermodule
+[Mon May 16 01:46:40 2016]  say: ^0Ðàrk^2^1Qµàkè: and then you just type telet
+[Mon May 16 01:46:41 2016]  say: Sijumah: that doesnt let you teleport to them
+[Mon May 16 01:46:44 2016]  say: Sijumah: i have it >_>
+[Mon May 16 01:46:48 2016]  say: ^0Ðàrk^2^1Qµàkè: oh to them
+[Mon May 16 01:46:50 2016]  say: Sijumah: yeah
+[Mon May 16 01:46:52 2016]  say: Sijumah: or them to you
+[Mon May 16 01:47:12 2016]  say: ^0Ðàrk^2^1Qµàkè: right, sayorigin would be the alternative but for ease of use sure I'll make an account
+[Mon May 16 01:47:16 2016]  say: Sijumah: thanks fam <3
+[Mon May 16 01:47:20 2016]  say: ^0Ðàrk^2^1Qµàkè: then I'm gonna play some more Battlefront lol
+[Mon May 16 01:47:23 2016]  say: ^0Ðàrk^2^1Qµàkè: no worries :)
+[Mon May 16 01:47:30 2016]  say: Sijumah: if you dont mind staying a moment i wanna try to get ghost working x.x
+[Mon May 16 01:47:33 2016]  say: Sijumah: afterwards that is
+[Mon May 16 01:47:58 2016]  print "Sijumah^7 @@@PLRENAME ^7§^0î^7j^0Ü^7må^0h
+"[Mon May 16 01:48:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h: test
+[Mon May 16 01:48:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h: ay.
+[Mon May 16 01:48:11 2016]  say: ^1M^7r ^1Ð^7innertime: !findmodel none 30000
+[Mon May 16 01:48:16 2016]  say: ^0Ðàrk^2^1Qµàkè: hm alright but I won't stay long
+[Mon May 16 01:48:17 2016]  say: ^1M^7r ^1Ð^7innertime: y u no results found
+[Mon May 16 01:48:22 2016]  print "^7§^0î^7j^0Ü^7må^0h^7 @@@PLRENAME ^7§^0î^7j^0Ü^7må^0h^7~
+"[Mon May 16 01:48:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: test
+[Mon May 16 01:48:31 2016]  say: ^1M^7r ^1Ð^7innertime: !findmodel weapon 3000
+[Mon May 16 01:48:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i dont think thats how it works
+[Mon May 16 01:48:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: isnt it just !findmodel
+[Mon May 16 01:48:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and thne its the thing youre looking at?
+[Mon May 16 01:48:46 2016]  say: ^1M^7r ^1Ð^7innertime: !findmodel
+[Mon May 16 01:48:46 2016]  say: ^1M^7r ^1Ð^7innertime: ^3Syntax ^2- ^7!findmodel <filter> [distance]
+[Mon May 16 01:48:56 2016]  say: ^1M^7r ^1Ð^7innertime: syntax <filter> [distance]
+[Mon May 16 01:48:59 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hmmm.
+[Mon May 16 01:49:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i remember that being a useful thing
+[Mon May 16 01:49:07 2016]  say: ^1M^7r ^1Ð^7innertime: !findmodel speaker
+[Mon May 16 01:49:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: !findmodel look 999999 or something
+[Mon May 16 01:49:12 2016]  say: ^1M^7r ^1Ð^7innertime: !findmodel 30000
+[Mon May 16 01:49:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: its definetly not a search function like youre using it
+[Mon May 16 01:49:19 2016]  say: ^1M^7r ^1Ð^7innertime: it can be
+[Mon May 16 01:49:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: its definetly a >whats the thing im looking at
+[Mon May 16 01:49:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thing
+[Mon May 16 01:49:24 2016]  say: ^1M^7r ^1Ð^7innertime: no
+[Mon May 16 01:49:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: atleast from my experiance
+[Mon May 16 01:49:33 2016]  say: ^1M^7r ^1Ð^7innertime: well there's a listents? Maybe that's what i'm thinking of
+[Mon May 16 01:49:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: who knows
+[Mon May 16 01:49:50 2016]  say: ^1M^7r ^1Ð^7innertime: !listents
+[Mon May 16 01:49:50 2016]  say: ^1M^7r ^1Ð^7innertime: ^3Syntax ^2- ^7!listents <type> [distance]
+[Mon May 16 01:49:51 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: togeather us combined makes 1 full Ultra utility understanding person
+[Mon May 16 01:49:52 2016]  say: ^1M^7r ^1Ð^7innertime: yess
+[Mon May 16 01:49:58 2016]  say: ^1M^7r ^1Ð^7innertime: !listents all 30000
+[Mon May 16 01:50:00 2016]  say: ^1M^7r ^1Ð^7innertime: YESS
+[Mon May 16 01:50:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: why do you want that anyway?
+[Mon May 16 01:50:13 2016]  say: ^0Ðàrk^2^1Qµàkè: alright type mlogin sijumah sijumah
+[Mon May 16 01:50:15 2016]  say: ^1M^7r ^1Ð^7innertime: because you'll see =3
+[Mon May 16 01:50:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mmkay
+[Mon May 16 01:50:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thanks <3
+[Mon May 16 01:50:26 2016]  say: ^0Ðàrk^2^1Qµàkè: and then mchangepass sijumah (new) (new)
+[Mon May 16 01:50:29 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aye
+[Mon May 16 01:50:42 2016]  say: ^0Ðàrk^2^1Qµàkè: be careful with save mapobs and stuff ;)
+[Mon May 16 01:50:44 2016]  say: ^1M^7r ^1Ð^7innertime: !listents all 30000
+[Mon May 16 01:50:45 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aye
+[Mon May 16 01:50:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i wont fuck anything majour up
+[Mon May 16 01:50:52 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ive been admins on every majour server 
+[Mon May 16 01:51:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: dinner kill me
+[Mon May 16 01:51:06 2016]  say: ^1M^7r ^1Ð^7innertime: kk
+[Mon May 16 01:51:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: with saber
+[Mon May 16 01:51:11 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 01:51:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k again
+[Mon May 16 01:51:26 2016]  say: ^0Ðàrk^2^1Qµàkè: cool :) Hey do you guys know a guy named Flame? Lost contact but we were great mates on Makermod :(
+[Mon May 16 01:51:29 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:51:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aaye
+[Mon May 16 01:51:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: try shooting me now
+[Mon May 16 01:51:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yeah.
+[Mon May 16 01:51:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: got it.
+[Mon May 16 01:51:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you need to set their health to 1 and make them glass property
+[Mon May 16 01:51:51 2016]  Kill: 0 0 39: ^1M^7r ^1Ð^7innertime killed ^1M^7r ^1Ð^7innertime by MOD_SUICIDE
+[Mon May 16 01:51:51 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: /mbreakalbe 1 1
+[Mon May 16 01:51:54 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then theyll respawn instantly
+[Mon May 16 01:51:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then you have to do it again
+[Mon May 16 01:52:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and it works
+[Mon May 16 01:52:08 2016]  say: ^0Ðàrk^2^1Qµàkè: cool haha
+[Mon May 16 01:52:20 2016]  say: ^0Ðàrk^2^1Qµàkè: woah
+[Mon May 16 01:52:23 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:52:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so uh.
+[Mon May 16 01:52:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: OH
+[Mon May 16 01:52:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you selected.
+[Mon May 16 01:52:27 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: your saber.
+[Mon May 16 01:52:29 2016]  say: ^1M^7r ^1Ð^7innertime: yes. lol
+[Mon May 16 01:52:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thats funny.
+[Mon May 16 01:52:33 2016]  say: ^0Ðàrk^2^1Qµàkè: you're just a MakerGod aren't you
+[Mon May 16 01:52:36 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:52:42 2016]  say: ^1M^7r ^1Ð^7innertime: wait. I have an idea
+[Mon May 16 01:52:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: us combined have many years of knowledge <3
+[Mon May 16 01:52:49 2016]  say: ^0Ðàrk^2^1Qµàkè: :D
+[Mon May 16 01:52:56 2016]  say: ^1M^7r ^1Ð^7innertime: okay sicmah
+[Mon May 16 01:53:01 2016]  say: ^1M^7r ^1Ð^7innertime: fire a rocket launcher at me
+[Mon May 16 01:53:07 2016]  say: ^1M^7r ^1Ð^7innertime: in a sec
+[Mon May 16 01:53:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: lel
+[Mon May 16 01:53:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i know what youre doing
+[Mon May 16 01:53:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i think thats how hydro does his bouncey ball thing
+[Mon May 16 01:53:19 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 01:53:23 2016]  say: ^0Ðàrk^2^1Qµàkè: when I give myself all weapons I can only select a few..
+[Mon May 16 01:53:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: he selects the object that the repeater round it.
+[Mon May 16 01:53:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you ave to do /give ammo
+[Mon May 16 01:53:29 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: too
+[Mon May 16 01:53:35 2016]  say: ^0Ðàrk^2^1Qµàkè: I can do give all but then I get the jetpack
+[Mon May 16 01:53:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: want me to shoot now?
+[Mon May 16 01:53:38 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Mon May 16 01:53:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: /give ammo
+[Mon May 16 01:53:40 2016]  say: ^0Ðàrk^2^1Qµàkè: oh.. right silly me
+[Mon May 16 01:53:41 2016]  say: ^0Ðàrk^2^1Qµàkè: so rusty
+[Mon May 16 01:53:49 2016]  say: ^1M^7r ^1Ð^7innertime: fudge. lmao
+[Mon May 16 01:53:51 2016]  Kill: 2 2 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Mon May 16 01:53:55 2016]  say: ^1M^7r ^1Ð^7innertime: not an entity I can select?
+[Mon May 16 01:53:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: lel.
+[Mon May 16 01:53:58 2016]  say: ^1M^7r ^1Ð^7innertime: that's a new one
+[Mon May 16 01:54:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you must have gotten the wrong one
+[Mon May 16 01:54:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ive seen people select rockets before.
+[Mon May 16 01:54:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: wait.
+[Mon May 16 01:54:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: shoot some at me
+[Mon May 16 01:54:17 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i mean
+[Mon May 16 01:54:17 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: uhm
+[Mon May 16 01:54:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: home them
+[Mon May 16 01:54:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: at me
+[Mon May 16 01:54:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: will it let you?
+[Mon May 16 01:54:31 2016]  say: ^1M^7r ^1Ð^7innertime: no xXD
+[Mon May 16 01:54:33 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: right.
+[Mon May 16 01:54:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i was thinking
+[Mon May 16 01:54:36 2016]  Kill: 1 1 39: ^7§^0î^7j^0Ü^7må^0h^7~ killed ^7§^0î^7j^0Ü^7må^0h^7~ by MOD_SUICIDE
+[Mon May 16 01:54:40 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k now og
+[Mon May 16 01:54:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: select
+[Mon May 16 01:54:46 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:54:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: it.
+[Mon May 16 01:54:49 2016]  say: ^1M^7r ^1Ð^7innertime: oh
+[Mon May 16 01:54:56 2016]  say: ^0Ðàrk^2^1Qµàkè: I just had a nostalgic memory :( I used to have these awesome airbases
+[Mon May 16 01:54:58 2016]  say: ^0Ðàrk^2^1Qµàkè: lost the file
+[Mon May 16 01:55:04 2016]  say: ^0Ðàrk^2^1Qµàkè: right here
+[Mon May 16 01:55:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: damn.
+[Mon May 16 01:55:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: did you get it?
+[Mon May 16 01:55:10 2016]  say: ^1M^7r ^1Ð^7innertime: still can't semect it D:
+[Mon May 16 01:55:12 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: shite.
+[Mon May 16 01:55:12 2016]  say: ^0Ðàrk^2^1Qµàkè: no
+[Mon May 16 01:55:17 2016]  say: ^1M^7r ^1Ð^7innertime: ohh
+[Mon May 16 01:55:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: rip airbase also.
+[Mon May 16 01:55:21 2016]  say: ^1M^7r ^1Ð^7innertime: I bound it wrong. LOL
+[Mon May 16 01:55:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: nice la
+[Mon May 16 01:55:31 2016]  say: ^0Ðàrk^2^1Qµàkè: was ages ago, always wanted to rebuild it but cbf haha
+[Mon May 16 01:55:33 2016]  say: ^1M^7r ^1Ð^7innertime: try nwo XD
+[Mon May 16 01:55:46 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 01:55:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: why not just do the homing thing x.x
+[Mon May 16 01:55:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: it 
+[Mon May 16 01:55:48 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ay.
+[Mon May 16 01:55:48 2016]  say: ^0Ðàrk^2^1Qµàkè: alright I'm gonna play some more Battlefront then head to bed
+[Mon May 16 01:55:53 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: bye darkquake <3
+[Mon May 16 01:55:54 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 01:55:55 2016]  say: ^1M^7r ^1Ð^7innertime: cya
+[Mon May 16 01:56:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so you have ultrautility on this game?
+[Mon May 16 01:56:03 2016]  say: ^0Ðàrk^2^1Qµàkè: byebye thanks for joining :)
+[Mon May 16 01:56:06 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Mon May 16 01:56:10 2016]  ClientDisconnect: 2
+[Mon May 16 01:56:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i have it but it crashes my game on startup 90 percent of the time
+[Mon May 16 01:56:18 2016]  say: ^1M^7r ^1Ð^7innertime: ah
+[Mon May 16 01:56:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i have ot launch it 9 times in arow to get it to work
+[Mon May 16 01:56:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so i just use steam
+[Mon May 16 01:56:25 2016]  say: ^1M^7r ^1Ð^7innertime: yeah. that sometimes happened to me
+[Mon May 16 01:56:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: whats the uh.
+[Mon May 16 01:56:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: command you used again?
+[Mon May 16 01:56:33 2016]  say: ^1M^7r ^1Ð^7innertime: listents
+[Mon May 16 01:56:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mmkay.
+[Mon May 16 01:56:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i wonderif thats on the 
+[Mon May 16 01:56:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like !help
+[Mon May 16 01:56:40 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: or whateer.
+[Mon May 16 01:56:45 2016]  say: ^1M^7r ^1Ð^7innertime: it's in the manual
+[Mon May 16 01:56:48 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: right.
+[Mon May 16 01:56:51 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: that thing no one reads
+[Mon May 16 01:56:53 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 01:56:54 2016]  say: ^1M^7r ^1Ð^7innertime: I read it
+[Mon May 16 01:56:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: wheres the manuel anyway?
+[Mon May 16 01:57:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: is it on the site?
+[Mon May 16 01:57:06 2016]  say: ^1M^7r ^1Ð^7innertime: navigation in the bfuu ui
+[Mon May 16 01:57:10 2016]  say: ^1M^7r ^1Ð^7innertime: bottom right
+[Mon May 16 01:57:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mmkay
+[Mon May 16 01:57:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so its like
+[Mon May 16 01:57:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: actually ingame though
+[Mon May 16 01:57:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes?
+[Mon May 16 01:57:25 2016]  say: ^1M^7r ^1Ð^7innertime: uhm
+[Mon May 16 01:57:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oh.
+[Mon May 16 01:57:26 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: no
+[Mon May 16 01:57:27 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you mean
+[Mon May 16 01:57:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i understand
+[Mon May 16 01:57:29 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 01:57:29 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: sorry.
+[Mon May 16 01:57:30 2016]  say: ^1M^7r ^1Ð^7innertime: yeah
+[Mon May 16 01:57:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: <3
+[Mon May 16 01:57:33 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hmm
+[Mon May 16 01:57:34 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you should try
+[Mon May 16 01:57:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: a conc blast.
+[Mon May 16 01:57:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 16 01:57:41 2016]  say: ^1M^7r ^1Ð^7innertime: ;o
+[Mon May 16 01:57:47 2016]  say: ^1M^7r ^1Ð^7innertime: btw
+[Mon May 16 01:58:00 2016]  say: ^1M^7r ^1Ð^7innertime: notice how there's no effect for the demp2 sphere?
+[Mon May 16 01:58:04 2016]  say: ^1M^7r ^1Ð^7innertime: like ths
+[Mon May 16 01:58:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: uhm
+[Mon May 16 01:58:06 2016]  say: ^1M^7r ^1Ð^7innertime: this*
+[Mon May 16 01:58:15 2016]  say: ^1M^7r ^1Ð^7innertime: that sphere
+[Mon May 16 01:58:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: it looks normal to me?
+[Mon May 16 01:58:22 2016]  say: ^1M^7r ^1Ð^7innertime: no I mean
+[Mon May 16 01:58:37 2016]  say: ^1M^7r ^1Ð^7innertime: notice how you can't actually find that sphere under effects/?
+[Mon May 16 01:58:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oh
+[Mon May 16 01:58:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: well thast just because makermods list isnt intact
+[Mon May 16 01:58:54 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: theres lots of objects and effects that arent in mlist
+[Mon May 16 01:58:57 2016]  say: ^1M^7r ^1Ð^7innertime: I checked the game's code. It's actually a sphere model with a shader
+[Mon May 16 01:59:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i seem to recall someone managing to place it
+[Mon May 16 01:59:51 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: the model that is.
+[Mon May 16 01:59:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: it may have been with a mod though
+[Mon May 16 01:59:58 2016]  say: ^1M^7r ^1Ð^7innertime: probably
+[Mon May 16 02:00:04 2016]  say: ^1M^7r ^1Ð^7innertime: I checked the code and that's all there is
+[Mon May 16 02:00:26 2016]  say: ^1M^7r ^1Ð^7innertime: good luck selecting one of those
+[Mon May 16 02:00:26 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Mon May 16 02:00:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i remember someone did it once.
+[Mon May 16 02:00:35 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Mon May 16 02:00:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: same thing for conc blast
+[Mon May 16 02:00:47 2016]  say: ^1M^7r ^1Ð^7innertime: what about one of these?
+[Mon May 16 02:01:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i remember someone selected the lazer
+[Mon May 16 02:01:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and the mine seperately
+[Mon May 16 02:01:13 2016]  say: ^1M^7r ^1Ð^7innertime: oh
+[Mon May 16 02:01:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so t hey moved the lazer
+[Mon May 16 02:01:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and like
+[Mon May 16 02:01:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: uhm
+[Mon May 16 02:01:16 2016]  say: ^1M^7r ^1Ð^7innertime: lol
+[Mon May 16 02:01:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: someone ran over it
+[Mon May 16 02:01:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: 10 kilometers away
+[Mon May 16 02:01:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and it detonated the mine
+[Mon May 16 02:01:27 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: far away from them
+[Mon May 16 02:01:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: cuz the lazer was seperate
+[Mon May 16 02:01:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do you know the server command to allow voring?
+[Mon May 16 02:01:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: voting*
+[Mon May 16 02:01:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: darkquake is asking
+[Mon May 16 02:01:53 2016]  say: ^1M^7r ^1Ð^7innertime: Uhm... 
+[Mon May 16 02:01:55 2016]  say: ^1M^7r ^1Ð^7innertime: let me go get it
+[Mon May 16 02:02:35 2016]  say: ^1M^7r ^1Ð^7innertime: seta g_allowVote  0 
+[Mon May 16 02:02:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thanks fam
+[Mon May 16 02:02:47 2016]  say: ^1M^7r ^1Ð^7innertime: I believe seta g_allowVote 8 only allows map voting
+[Mon May 16 02:03:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: fun.
+[Mon May 16 02:04:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hes restarting the server
+[Mon May 16 02:04:26 2016]  say: ^1M^7r ^1Ð^7innertime: ah
+[Mon May 16 02:04:54 2016]  ShutdownGame:
+[Mon May 16 02:04:54 2016]  ------------------------------------------------------------

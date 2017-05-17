@@ -1,0 +1,257 @@
+[Sun Jan 17 18:12:14 2016]  ------------------------------------------------------------
+[Sun Jan 17 18:12:14 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jan 17 18:19:59 2016]  ------------------------------------------------------------
+[Sun Jan 17 18:19:59 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jan 17 19:38:09 2016]  ClientConnect: 0
+[Sun Jan 17 19:38:09 2016]  mlog:Player Pablo Echenique, connected. With IP - 92.57.44.96:29070 
+[Sun Jan 17 19:38:46 2016]  ClientBegin: 0
+[Sun Jan 17 19:41:21 2016]  ClientConnect: 1
+[Sun Jan 17 19:41:21 2016]  mlog:Player Padawan, connected. With IP - 77.5.244.34:-2195 
+[Sun Jan 17 19:41:44 2016]  say: Usuario de la Fuerza: ey
+[Sun Jan 17 19:41:47 2016]  say: Usuario de la Fuerza: eres tu o ke?
+[Sun Jan 17 19:41:57 2016]  ClientBegin: 1
+[Sun Jan 17 19:42:10 2016]  say: Usuario de la Fuerza: va te reviento
+[Sun Jan 17 19:43:38 2016]  Kill: 0 1 3: Usuario de la Fuerza killed Padawan by MOD_SABER
+[Sun Jan 17 19:43:42 2016]  say: Usuario de la Fuerza: siiiiii
+[Sun Jan 17 19:44:51 2016]  say: Usuario de la Fuerza: nade estas
+[Sun Jan 17 19:45:35 2016]  Kill: 1 0 3: Padawan killed Usuario de la Fuerza by MOD_SABER
+[Sun Jan 17 19:45:38 2016]  say: Usuario de la Fuerza: tajo lag
+[Sun Jan 17 19:45:55 2016]  Kill: 0 1 3: Usuario de la Fuerza killed Padawan by MOD_SABER
+[Sun Jan 17 19:47:02 2016]  say: Usuario de la Fuerza: jajajj
+[Sun Jan 17 19:47:09 2016]  Kill: 0 1 3: Usuario de la Fuerza killed Padawan by MOD_SABER
+[Sun Jan 17 19:47:15 2016]  say: Usuario de la Fuerza: to siniestro
+[Sun Jan 17 19:47:55 2016]  Kill: 0 1 3: Usuario de la Fuerza killed Padawan by MOD_SABER
+[Sun Jan 17 19:48:16 2016]  Kill: 1 0 3: Padawan killed Usuario de la Fuerza by MOD_SABER
+[Sun Jan 17 19:48:28 2016]  Kill: 1 0 3: Padawan killed Usuario de la Fuerza by MOD_SABER
+[Sun Jan 17 19:48:43 2016]  Kill: 0 1 3: Usuario de la Fuerza killed Padawan by MOD_SABER
+[Sun Jan 17 19:48:53 2016]  Kill: 1 0 3: Padawan killed Usuario de la Fuerza by MOD_SABER
+[Sun Jan 17 19:49:18 2016]  Kill: 0 1 3: Usuario de la Fuerza killed Padawan by MOD_SABER
+[Sun Jan 17 19:49:38 2016]  Kill: 0 1 3: Usuario de la Fuerza killed Padawan by MOD_SABER
+[Sun Jan 17 19:50:09 2016]  Kill: 1 0 3: Padawan killed Usuario de la Fuerza by MOD_SABER
+[Sun Jan 17 19:50:12 2016]  say: Usuario de la Fuerza: nooooooo
+[Sun Jan 17 19:50:20 2016]  say: Usuario de la Fuerza: noo
+[Sun Jan 17 19:50:23 2016]  say: Usuario de la Fuerza: un bug
+[Sun Jan 17 19:50:25 2016]  say: Usuario de la Fuerza:  de un arbol jajaja
+[Sun Jan 17 19:51:53 2016]  Kill: 1 0 3: Padawan killed Usuario de la Fuerza by MOD_SABER
+[Sun Jan 17 19:53:29 2016]  Kill: 0 1 3: Usuario de la Fuerza killed Padawan by MOD_SABER
+[Sun Jan 17 19:54:33 2016]  ClientDisconnect: 0
+[Sun Jan 17 19:56:42 2016]  ClientDisconnect: 1
+[Mon Jan 18 15:47:16 2016]  ClientConnect: 0
+[Mon Jan 18 15:47:16 2016]  mlog:Player star killer, connected. With IP - 190.62.167.142:29070 
+[Mon Jan 18 15:47:43 2016]  ClientBegin: 0
+[Mon Jan 18 15:49:58 2016]  ClientDisconnect: 0
+[Mon Jan 18 17:01:06 2016]  ClientConnect: 0
+[Mon Jan 18 17:01:06 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon Jan 18 17:01:27 2016]  ClientBegin: 0
+[Mon Jan 18 17:17:09 2016]  ClientConnect: 1
+[Mon Jan 18 17:17:09 2016]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 208.114.91.22:29070 
+[Mon Jan 18 17:17:50 2016]  ClientBegin: 1
+[Mon Jan 18 17:18:52 2016]  say: ^7»^0Exo^1Ð^0us^7«: Sup mang
+[Mon Jan 18 17:25:02 2016]  say: ^0Ðàrk^2^1Qµàkè: Oh hey :D
+[Mon Jan 18 17:25:20 2016]  ClientConnect: 2
+[Mon Jan 18 17:25:20 2016]  mlog:Player Padawan, connected. With IP - 66.191.213.7:29070 
+[Mon Jan 18 17:25:39 2016]  ClientBegin: 2
+[Mon Jan 18 17:25:40 2016]  say: ^0Ðàrk^2^1Qµàkè: I'm trying to work out how to play multiplayer cinematics lol, there's supposed to be an 'ingamecinematic' command but there's only the 'cinematic' c
+[Mon Jan 18 17:25:46 2016]  say: ^0Ðàrk^2^1Qµàkè: only the 'cinematic' command
+[Mon Jan 18 17:26:04 2016]  say: ^7»^0Exo^1Ð^0us^7«: i couldnt help you with that one. I've only dealt with makermod directly
+[Mon Jan 18 17:26:25 2016]  say: ^0Ðàrk^2^1Qµàkè: no worries :) It's a side-task lol
+[Mon Jan 18 17:27:00 2016]  say: ^0Ðàrk^2^1Qµàkè: Oh btw do you have botroute files for t2_trip? I can't find them online
+[Mon Jan 18 17:27:03 2016]  say: ^7»^0Exo^1Ð^0us^7«: I don't
+[Mon Jan 18 17:27:20 2016]  Kill: 1 2 36: ^7»^0Exo^1Ð^0us^7« killed Padawan by MOD_CRUSH
+[Mon Jan 18 17:27:23 2016]  say: ^7»^0Exo^1Ð^0us^7«: Whee
+[Mon Jan 18 17:27:29 2016]  ClientConnect: 3
+[Mon Jan 18 17:27:29 2016]  mlog:Player ^6[gay]^4Kasme, connected. With IP - 89.166.56.251:-4421 
+[Mon Jan 18 17:27:31 2016]  say: ^7»^0Exo^1Ð^0us^7«: btw pada, i'm not an admin ;D
+[Mon Jan 18 17:27:46 2016]  say: ^0Ðàrk^2^1Qµàkè: lol soon as I joined other ppl come :p
+[Mon Jan 18 17:27:46 2016]  ClientBegin: 3
+[Mon Jan 18 17:27:52 2016]  Kill: 1022 2 0: <world> killed Padawan by MOD_UNKNOWN
+[Mon Jan 18 17:28:08 2016]  print "Padawan^7 @@@PLRENAME Phil
+"[Mon Jan 18 17:28:12 2016]  say: ^0[^4TKOR^0]^4Kasme^0[L]: exodus
+[Mon Jan 18 17:28:14 2016]  Kill: 3 3 39: ^0[^4TKOR^0]^4Kasme^0[L] killed ^0[^4TKOR^0]^4Kasme^0[L] by MOD_SUICIDE
+[Mon Jan 18 17:28:14 2016]  setteam:  3 FREE SPECTATOR
+[Mon Jan 18 17:28:14 2016]  ClientBegin: 3
+[Mon Jan 18 17:28:15 2016]  say: ^7»^0Exo^1Ð^0us^7«: ?
+[Mon Jan 18 17:28:16 2016]  say: Phil: so
+[Mon Jan 18 17:28:20 2016]  say: ^0[^4TKOR^0]^4Kasme^0[L]: exodus Hi
+[Mon Jan 18 17:28:20 2016]  say: Phil: I like this mod
+[Mon Jan 18 17:28:23 2016]  say: ^7»^0Exo^1Ð^0us^7«: Hi
+[Mon Jan 18 17:28:26 2016]  say: ^7»^0Exo^1Ð^0us^7«: Do /minfo
+[Mon Jan 18 17:28:26 2016]  say: ^0[^4TKOR^0]^4Kasme^0[L]: exodus
+[Mon Jan 18 17:28:27 2016]  say: Phil: it's like the movie battles single player mod
+[Mon Jan 18 17:28:31 2016]  say: ^7»^0Exo^1Ð^0us^7«: Da, kasme
+[Mon Jan 18 17:28:33 2016]  say: Phil: thanks form aking it :)
+[Mon Jan 18 17:28:34 2016]  say: ^0[^4TKOR^0]^4Kasme^0[L]: yes know
+[Mon Jan 18 17:28:40 2016]  say: ^0[^4TKOR^0]^4Kasme^0[L]: yes i get makermod
+[Mon Jan 18 17:28:47 2016]  say: ^7»^0Exo^1Ð^0us^7«: i was talking to phil, mostly
+[Mon Jan 18 17:28:48 2016]  say: Phil: let's fight
+[Mon Jan 18 17:28:50 2016]  say: Phil: plz
+[Mon Jan 18 17:28:55 2016]  Kill: 1022 2 0: <world> killed Phil by MOD_UNKNOWN
+[Mon Jan 18 17:28:56 2016]  say: ^0[^4TKOR^0]^4Kasme^0[L]: exodus
+[Mon Jan 18 17:29:05 2016]  say: Phil: with lightsabers goofball
+[Mon Jan 18 17:29:05 2016]  say: ^0[^4TKOR^0]^4Kasme^0[L]: exodus come Jenova server
+[Mon Jan 18 17:29:19 2016]  say: ^7»^0Exo^1Ð^0us^7«: nope, gtg. lunch break over, got to get back to work. and i stay away from recruiters
+[Mon Jan 18 17:29:22 2016]  say: ^7»^0Exo^1Ð^0us^7«: fuck that shit
+[Mon Jan 18 17:29:23 2016]  ClientDisconnect: 1
+[Mon Jan 18 17:29:25 2016]  ClientDisconnect: 3
+[Mon Jan 18 17:29:51 2016]  say: Phil: someone fight me
+[Mon Jan 18 17:30:08 2016]  say: ^0Ðàrk^2^1Qµàkè: I will soon :p
+[Mon Jan 18 17:32:45 2016]  say: ^0Ðàrk^2^1Qµàkè: which is more powerful, mkillsw+touchable or mpain max integer?
+[Mon Jan 18 17:32:53 2016]  say: Phil: eh?
+[Mon Jan 18 17:33:02 2016]  say: ^0Ðàrk^2^1Qµàkè: oh nvm others are gone :p
+[Mon Jan 18 17:33:06 2016]  say: Phil: I just like being able to clash
+[Mon Jan 18 17:33:11 2016]  say: Phil: although it glitches for me
+[Mon Jan 18 17:33:19 2016]  say: Phil: don't know why
+[Mon Jan 18 17:33:31 2016]  say: ^0Ðàrk^2^1Qµàkè: I changed the saber lock randomness, I can fix it soon
+[Mon Jan 18 17:33:38 2016]  say: Phil: well quake
+[Mon Jan 18 17:33:53 2016]  say: Phil: I wish they kept the clashing on movie battles 2 multiplayer
+[Mon Jan 18 17:33:58 2016]  say: Phil: it would have been awesome
+[Mon Jan 18 17:34:21 2016]  say: Phil: how'd you do it?
+[Mon Jan 18 17:34:41 2016]  say: ^0Ðàrk^2^1Qµàkè: gotta find the command again :p One moment
+[Mon Jan 18 17:34:44 2016]  say: Phil: oh
+[Mon Jan 18 17:34:46 2016]  say: Phil: it's a command?
+[Mon Jan 18 17:35:05 2016]  say: Phil: so is there a way to fix the clash glitch
+[Mon Jan 18 17:35:06 2016]  say: ^0Ðàrk^2^1Qµàkè: it's g_saberlockrandomness
+[Mon Jan 18 17:35:07 2016]  say: Phil: cause for me
+[Mon Jan 18 17:35:10 2016]  say: ^0Ðàrk^2^1Qµàkè: server command
+[Mon Jan 18 17:35:14 2016]  say: Phil: everytime
+[Mon Jan 18 17:35:16 2016]  say: ^0Ðàrk^2^1Qµàkè: I had it set to 0, it's 2 now
+[Mon Jan 18 17:35:18 2016]  say: Phil: i lock with someone
+[Mon Jan 18 17:35:25 2016]  say: Phil: I glitch out
+[Mon Jan 18 17:35:27 2016]  say: Phil: dunno why
+[Mon Jan 18 17:35:38 2016]  say: Phil: But man was i happy when i found this mod
+[Mon Jan 18 17:35:45 2016]  say: ^0Ðàrk^2^1Qµàkè: try saber locks now
+[Mon Jan 18 17:35:57 2016]  Kill: 0 2 3: ^0Ðàrk^2^1Qµàkè killed Phil by MOD_SABER
+[Mon Jan 18 17:36:04 2016]  say: Phil: :|
+[Mon Jan 18 17:36:06 2016]  say: ^0Ðàrk^2^1Qµàkè: it's less random :p Like it should be
+[Mon Jan 18 17:36:42 2016]  Kill: 0 2 3: ^0Ðàrk^2^1Qµàkè killed Phil by MOD_SABER
+[Mon Jan 18 17:36:47 2016]  say: Phil: so then
+[Mon Jan 18 17:36:52 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Mon Jan 18 17:36:53 2016]  say: Phil: you set it to when you do it..
+[Mon Jan 18 17:37:25 2016]  say: ^0Ðàrk^2^1Qµàkè: no I just fight better :p Anyway I didn't like the default randomness, that's why I increased it
+[Mon Jan 18 17:37:31 2016]  say: Phil: so set it to 1
+[Mon Jan 18 17:37:33 2016]  say: ^0Ðàrk^2^1Qµàkè: I'll change again and you'll notice the difference
+[Mon Jan 18 17:37:35 2016]  say: ^0Ðàrk^2^1Qµàkè: yeah
+[Mon Jan 18 17:37:40 2016]  say: Phil: I should find that code
+[Mon Jan 18 17:37:48 2016]  say: ^0Ðàrk^2^1Qµàkè: g_debugsaberlocks is now 1
+[Mon Jan 18 17:37:53 2016]  say: ^0Ðàrk^2^1Qµàkè: It's a server command
+[Mon Jan 18 17:38:00 2016]  say: Phil: i should write it down
+[Mon Jan 18 17:38:08 2016]  Kill: 2 0 3: Phil killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon Jan 18 17:38:11 2016]  say: ^0Ðàrk^2^1Qµàkè: haha nice
+[Mon Jan 18 17:38:15 2016]  say: Phil: sweet
+[Mon Jan 18 17:38:18 2016]  say: Phil: it works fine now
+[Mon Jan 18 17:38:31 2016]  say: ^0Ðàrk^2^1Qµàkè: yeah, I think it was that I also changed the randomness
+[Mon Jan 18 17:38:38 2016]  say: ^0Ðàrk^2^1Qµàkè: to 0, so it never happened :p
+[Mon Jan 18 17:38:40 2016]  Kill: 2 0 3: Phil killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon Jan 18 17:38:48 2016]  say: ^0Ðàrk^2^1Qµàkè: one sec, I'll add it to startup
+[Mon Jan 18 17:39:06 2016]  say: Phil: seriously
+[Mon Jan 18 17:39:13 2016]  say: Phil: this is a dream come true for us fellows
+[Mon Jan 18 17:39:16 2016]  say: Phil: who like clashing
+[Mon Jan 18 17:39:32 2016]  say: Phil: I like roleplaying in this game
+[Mon Jan 18 17:39:37 2016]  say: ^0Ðàrk^2^1Qµàkè: I know haha! I was so pleased when I found out. Just took a bit of Googling
+[Mon Jan 18 17:39:38 2016]  say: Phil: but we could never make it, more epic
+[Mon Jan 18 17:39:52 2016]  say: Phil: so see through jedi
+[Mon Jan 18 17:39:55 2016]  say: Phil: you will die
+[Mon Jan 18 17:39:55 2016]  say: ^0Ðàrk^2^1Qµàkè: I would add bots here but they keep jumping around..
+[Mon Jan 18 17:40:02 2016]  Kill: 2 0 3: Phil killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon Jan 18 17:40:08 2016]  say: ^0Ðàrk^2^1Qµàkè: lol you're a fast clicker!
+[Mon Jan 18 17:40:18 2016]  Kill: 2 0 3: Phil killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon Jan 18 17:40:21 2016]  say: ^0Ðàrk^2^1Qµàkè: hahaha
+[Mon Jan 18 17:40:24 2016]  say: Phil: I play alot of quick time games
+[Mon Jan 18 17:40:29 2016]  say: ^0Ðàrk^2^1Qµàkè: XD
+[Mon Jan 18 17:40:37 2016]  say: ^0Ðàrk^2^1Qµàkè: I'll try to get decapitation working too ^^
+[Mon Jan 18 17:40:43 2016]  say: Phil: oh yeah
+[Mon Jan 18 17:40:48 2016]  say: Phil: you can just look up the cheat
+[Mon Jan 18 17:40:52 2016]  say: Phil: it should be there
+[Mon Jan 18 17:41:00 2016]  say: ^0Ðàrk^2^1Qµàkè: yeah I dunno if it's just for SP though
+[Mon Jan 18 17:41:09 2016]  say: Phil: [shrugs]
+[Mon Jan 18 17:41:22 2016]  say: Phil: I'm a let's player by the way
+[Mon Jan 18 17:41:27 2016]  say: Phil: not famous
+[Mon Jan 18 17:41:35 2016]  Kill: 2 0 3: Phil killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon Jan 18 17:41:40 2016]  say: ^0Ðàrk^2^1Qµàkè: damn didn't work
+[Mon Jan 18 17:41:41 2016]  say: ^0Ðàrk^2^1Qµàkè: 1 sec
+[Mon Jan 18 17:42:00 2016]  say: Phil: brb
+[Mon Jan 18 17:45:21 2016]  say: Phil: back
+[Mon Jan 18 17:45:46 2016]  say: ^0Ðàrk^2^1Qµàkè: k, still trying to work out dismemberment
+[Mon Jan 18 17:47:16 2016]  say: ^0Ðàrk^2^1Qµàkè: :(
+[Mon Jan 18 17:47:22 2016]  say: Phil: hey
+[Mon Jan 18 17:47:24 2016]  say: Phil: you'll get it
+[Mon Jan 18 17:47:26 2016]  say: Phil: you got this far
+[Mon Jan 18 17:47:30 2016]  say: ^0Ðàrk^2^1Qµàkè: yeah :p
+[Mon Jan 18 17:47:48 2016]  say: ^0Ðàrk^2^1Qµàkè: I think they're only SP commands though, but I have a faint memory of it working in MP
+[Mon Jan 18 17:48:11 2016]  say: Phil: all this fool can say is  Good triumphs over evil 
+[Mon Jan 18 17:48:24 2016]  say: ^0Ðàrk^2^1Qµàkè: all I can say is take that :p
+[Mon Jan 18 17:48:51 2016]  say: ^0Ðàrk^2^1Qµàkè: oh nice
+[Mon Jan 18 17:48:54 2016]  say: ^0Ðàrk^2^1Qµàkè: never knew that
+[Mon Jan 18 17:49:09 2016]  say: ^0Ðàrk^2^1Qµàkè: lol
+[Mon Jan 18 17:49:23 2016]  Kill: 0 2 3: ^0Ðàrk^2^1Qµàkè killed Phil by MOD_SABER
+[Mon Jan 18 17:49:25 2016]  say: ^0Ðàrk^2^1Qµàkè: XD
+[Mon Jan 18 17:50:02 2016]  Kill: 2 0 3: Phil killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon Jan 18 17:50:05 2016]  say: ^0Ðàrk^2^1Qµàkè: ow haha
+[Mon Jan 18 17:50:08 2016]  say: Phil: fwe
+[Mon Jan 18 17:50:13 2016]  Kill: 2 0 3: Phil killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon Jan 18 17:50:18 2016]  say: Phil: keep trying
+[Mon Jan 18 17:50:20 2016]  say: ^0Ðàrk^2^1Qµàkè: flipped my saber away
+[Mon Jan 18 17:50:21 2016]  say: Phil: you'll get there
+[Mon Jan 18 17:50:25 2016]  say: Phil: XD
+[Mon Jan 18 17:50:28 2016]  say: Phil: say
+[Mon Jan 18 17:50:35 2016]  say: Phil: do you have chivalry mideval warfare?
+[Mon Jan 18 17:50:40 2016]  say: Phil: cause they have a starwars mod now
+[Mon Jan 18 17:50:56 2016]  say: ^0Ðàrk^2^1Qµàkè: I remember a guy won saber locks instantly, with a script XD Oh heard of that but I don't, sorry
+[Mon Jan 18 17:51:02 2016]  say: Phil: k
+[Mon Jan 18 17:51:09 2016]  say: Phil: let us end this
+[Mon Jan 18 17:51:12 2016]  say: Phil: once and for all
+[Mon Jan 18 17:51:27 2016]  say: ^0Ðàrk^2^1Qµàkè: you can't XD He must stand trial!
+[Mon Jan 18 17:51:37 2016]  say: Phil: he's too dangerous to be kept alive!
+[Mon Jan 18 17:51:46 2016]  say: ^0Ðàrk^2^1Qµàkè: I need him!
+[Mon Jan 18 17:51:50 2016]  say: Phil: no......
+[Mon Jan 18 17:51:52 2016]  say: Phil: you don
+[Mon Jan 18 17:51:55 2016]  say: ^0Ðàrk^2^1Qµàkè: haha
+[Mon Jan 18 17:51:56 2016]  Kill: 2 0 3: Phil killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon Jan 18 17:52:01 2016]  say: Phil: aw man
+[Mon Jan 18 17:52:04 2016]  say: Phil: i'm glitching again
+[Mon Jan 18 17:52:05 2016]  say: Phil: :(
+[Mon Jan 18 17:52:15 2016]  say: ^0Ðàrk^2^1Qµàkè: oh how?
+[Mon Jan 18 17:52:20 2016]  say: Phil: when we lock together
+[Mon Jan 18 17:52:20 2016]  say: ^0Ðàrk^2^1Qµàkè: what's happening?
+[Mon Jan 18 17:52:25 2016]  say: Phil: it looks more like
+[Mon Jan 18 17:52:36 2016]  say: Phil: we're on top of each other doing dumb things
+[Mon Jan 18 17:52:42 2016]  say: ^0Ðàrk^2^1Qµàkè: haha
+[Mon Jan 18 17:52:50 2016]  say: Phil: i'd have to show you on my screen
+[Mon Jan 18 17:52:53 2016]  say: Phil: >>
+[Mon Jan 18 17:52:54 2016]  say: Phil: <<
+[Mon Jan 18 17:53:09 2016]  say: Phil: philofhatsandgames is my skype
+[Mon Jan 18 17:53:13 2016]  say: Phil: <<
+[Mon Jan 18 17:53:15 2016]  say: Phil: >>
+[Mon Jan 18 17:53:35 2016]  say: ^0Ðàrk^2^1Qµàkè: k I'll add you :)
+[Mon Jan 18 17:53:43 2016]  say: Phil: that's my channel name too
+[Mon Jan 18 17:54:02 2016]  say: Phil: 339 subs. Not famous. Currently playing Dragons dogma
+[Mon Jan 18 17:54:53 2016]  say: ^0Ðàrk^2^1Qµàkè: Oh wow! More subs than me :p I have like 81 but 97k views :) I have lots of different playlists
+[Mon Jan 18 17:55:09 2016]  say: Phil: I have 5,000 views
+[Mon Jan 18 17:55:10 2016]  say: Phil: i think
+[Mon Jan 18 17:55:19 2016]  say: Phil: so 
+[Mon Jan 18 17:55:23 2016]  say: ^0Ðàrk^2^1Qµàkè: damn thought it'd go through haha
+[Mon Jan 18 17:55:26 2016]  say: Phil: What I want to do is show you on my screen
+[Mon Jan 18 17:55:31 2016]  say: Phil: what it looks like to me
+[Mon Jan 18 17:55:59 2016]  say: ^0Ðàrk^2^1Qµàkè: yeah just lemme get my saber first haha
+[Mon Jan 18 17:56:30 2016]  Kill: 0 2 3: ^0Ðàrk^2^1Qµàkè killed Phil by MOD_SABER
+[Mon Jan 18 17:57:29 2016]  Kill: 2 0 3: Phil killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon Jan 18 17:58:53 2016]  Kill: 0 2 3: ^0Ðàrk^2^1Qµàkè killed Phil by MOD_SABER
+[Mon Jan 18 17:59:23 2016]  Kill: 0 2 3: ^0Ðàrk^2^1Qµàkè killed Phil by MOD_SABER
+[Mon Jan 18 18:01:41 2016]  Kill: 2 0 3: Phil killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon Jan 18 18:05:09 2016]  ClientConnect: 1
+[Mon Jan 18 18:05:09 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Mon Jan 18 18:05:26 2016]  ClientBegin: 1
+[Mon Jan 18 18:05:32 2016]  Item: 1 weapon_melee
+[Mon Jan 18 18:05:46 2016]  say: ^0Shadow^5seer: hi
+[Mon Jan 18 18:07:13 2016]  ClientDisconnect: 0
+[Mon Jan 18 18:08:21 2016]  ClientConnect: 0
+[Mon Jan 18 18:08:21 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon Jan 18 18:08:44 2016]  ClientBegin: 0
+[Mon Jan 18 18:08:51 2016]  Kill: 2 0 3: Phil killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon Jan 18 18:09:14 2016]  say: ^0Ðàrk^2^1Qµàkè: we're testing saberlocks and dismemberment
+[Mon Jan 18 18:09:19 2016]  say: ^0Shadow^5seer: ok
+[Mon Jan 18 18:09:30 2016]  say: ^0Shadow^5seer: did u see my message in skype already?
+[Mon Jan 18 18:13:01 2016]  Kill: 2 0 3: Phil killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Mon Jan 18 18:13:37 2016]  say: ^0Ðàrk^2^1Qµàkè: gonna restart server to test stuff
+[Mon Jan 18 18:13:42 2016]  say: ^0Shadow^5seer: ok
+[Mon Jan 18 18:13:58 2016]  ClientDisconnect: 2

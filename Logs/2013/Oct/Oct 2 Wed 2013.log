@@ -1,0 +1,280 @@
+[Wed Oct 02 13:06:27 2013]  ------------------------------------------------------------
+[Wed Oct 02 13:06:27 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 02 13:06:28 2013]  ClientConnect: 0
+[Wed Oct 02 13:06:39 2013]  ClientBegin: 0
+[Wed Oct 02 13:10:48 2013]  Item: 0 ammo_all
+[Wed Oct 02 13:21:30 2013]  Item: 0 ammo_all
+[Wed Oct 02 13:43:50 2013]  ClientConnect: 1
+[Wed Oct 02 13:43:50 2013]  mlog:Player Altair Karon, connected. With IP - 89.145.152.30:29070 
+[Wed Oct 02 13:43:54 2013]  say: maxim: hi
+[Wed Oct 02 13:44:07 2013]  ClientBegin: 1
+[Wed Oct 02 13:44:09 2013]  Kill: 1 1 39: Altair Karon killed Altair Karon by MOD_SUICIDE
+[Wed Oct 02 13:44:09 2013]  setteam:  1 FREE SPECTATOR
+[Wed Oct 02 13:44:09 2013]  ClientBegin: 1
+[Wed Oct 02 13:44:14 2013]  say: maxim: hi
+[Wed Oct 02 13:44:20 2013]  setteam:  1 SPECTATOR FREE
+[Wed Oct 02 13:44:20 2013]  ClientBegin: 1
+[Wed Oct 02 13:44:26 2013]  say: maxim: hi
+[Wed Oct 02 13:44:31 2013]  say: Altair Karon: helpusobi 1
+[Wed Oct 02 13:44:40 2013]  say: maxim: no
+[Wed Oct 02 13:44:45 2013]  say: maxim: /god
+[Wed Oct 02 13:44:51 2013]  say: maxim: /give all
+[Wed Oct 02 13:44:57 2013]  say: maxim: /mempower 3
+[Wed Oct 02 13:45:53 2013]  say: maxim: ti ruskij?
+[Wed Oct 02 13:45:58 2013]  say: Altair Karon: lf
+[Wed Oct 02 13:46:03 2013]  say: maxim: no?
+[Wed Oct 02 13:46:07 2013]  say: Altair Karon: да
+[Wed Oct 02 13:46:15 2013]  say: maxim: круто
+[Wed Oct 02 13:46:26 2013]  say: maxim: идем я строю базу
+[Wed Oct 02 13:47:03 2013]  say: maxim: что ето незнаешь?
+[Wed Oct 02 13:47:16 2013]  say: Altair Karon: это круто
+[Wed Oct 02 13:47:37 2013]  say: maxim: .ьвкщз
+[Wed Oct 02 13:47:59 2013]  say: maxim: знаешь команды?
+[Wed Oct 02 13:48:05 2013]  say: Altair Karon: нет
+[Wed Oct 02 13:48:13 2013]  say: maxim: вводи что я говорю
+[Wed Oct 02 13:48:33 2013]  say: maxim: /mplace factory/catw2_b потом /mdrop
+[Wed Oct 02 13:48:44 2013]  say: maxim: но сначало мышкой
+[Wed Oct 02 13:48:47 2013]  say: maxim: подвигой
+[Wed Oct 02 13:50:29 2013]  say: maxim: ну что?
+[Wed Oct 02 13:50:37 2013]  say: Altair Karon: yt gjkexbkjcm
+[Wed Oct 02 13:50:44 2013]  say: Altair Karon: не получилось
+[Wed Oct 02 13:50:50 2013]  say: maxim: ой введи /mgrabbing перед всем етим
+[Wed Oct 02 13:51:45 2013]  say: Altair Karon: опять ничего
+[Wed Oct 02 13:52:08 2013]  say: Altair Karon: эй тут какой то рычаг
+[Wed Oct 02 13:52:28 2013]  say: maxim: я его поставил
+[Wed Oct 02 13:52:37 2013]  say: Altair Karon: что он делает
+[Wed Oct 02 13:53:19 2013]  say: maxim: отключи /god и встань на ето
+[Wed Oct 02 13:53:20 2013]  ClientConnect: 2
+[Wed Oct 02 13:53:20 2013]  mlog:Player Padawan, connected. With IP - 86.211.177.131:29070 
+[Wed Oct 02 13:53:40 2013]  ClientBegin: 2
+[Wed Oct 02 13:53:55 2013]  say: Altair Karon: у нас гости
+[Wed Oct 02 13:54:00 2013]  say: maxim: знаю
+[Wed Oct 02 13:54:19 2013]  say: Altair Karon: ну давай ударь
+[Wed Oct 02 13:54:23 2013]  say: maxim: го базу
+[Wed Oct 02 13:54:26 2013]  say: maxim: строить
+[Wed Oct 02 13:54:38 2013]  say: maxim: hi
+[Wed Oct 02 13:54:49 2013]  say: maxim: смари
+[Wed Oct 02 13:55:07 2013]  say: maxim: введи /mplace miniturret
+[Wed Oct 02 13:55:12 2013]  say: Altair Karon: setforceall 3
+[Wed Oct 02 13:55:17 2013]  say: maxim: и мышкой вверх
+[Wed Oct 02 13:55:29 2013]  Kill: 1022 2 0: <world> killed ^0e^3|^0e^7c by MOD_UNKNOWN
+[Wed Oct 02 13:55:35 2013]  say: maxim: hi 
+[Wed Oct 02 13:55:48 2013]  say: maxim: you russian?
+[Wed Oct 02 13:55:54 2013]  say: ^0e^3|^0e^7c: im eng
+[Wed Oct 02 13:56:04 2013]  say: maxim: go me
+[Wed Oct 02 13:56:13 2013]  say: maxim: we build a base
+[Wed Oct 02 13:56:35 2013]  say: maxim: /mgrabbing веди потом что я сказал
+[Wed Oct 02 13:56:42 2013]  say: Altair Karon: setforceall 3
+[Wed Oct 02 13:56:45 2013]  say: maxim: и мышкой вверх
+[Wed Oct 02 13:56:47 2013]  say: maxim: нет
+[Wed Oct 02 13:57:21 2013]  say: Altair Karon: mgrabbing/mplaceminiturret
+[Wed Oct 02 13:57:31 2013]  say: maxim: нет в console
+[Wed Oct 02 13:57:37 2013]  say: maxim: в консоле
+[Wed Oct 02 13:57:49 2013]  say: maxim: и /mgrabbing сначало просто
+[Wed Oct 02 13:57:49 2013]  say: Altair Karon: я там ввожу
+[Wed Oct 02 13:58:04 2013]  say: maxim: надо / поставить в начале
+[Wed Oct 02 13:58:24 2013]  ClientDisconnect: 2
+[Wed Oct 02 13:58:52 2013]  Kill: 1 1 39: Altair Karon killed Altair Karon by MOD_SUICIDE
+[Wed Oct 02 13:58:56 2013]  say: maxim: вот
+[Wed Oct 02 13:58:58 2013]  say: maxim: смари
+[Wed Oct 02 13:59:00 2013]  say: maxim: такое
+[Wed Oct 02 13:59:05 2013]  say: maxim: должно быть
+[Wed Oct 02 13:59:14 2013]  say: maxim: только не ломай
+[Wed Oct 02 13:59:27 2013]  say: Altair Karon: ns ult
+[Wed Oct 02 13:59:35 2013]  say: Altair Karon: ты где?
+[Wed Oct 02 13:59:57 2013]  say: maxim: чувство нажми и потом /noclip и летай иши
+[Wed Oct 02 14:00:34 2013]  say: maxim: короче введи просто /mtelesp
+[Wed Oct 02 14:02:24 2013]  Kill: 0 1 0: maxim killed Altair Karon by MOD_UNKNOWN
+[Wed Oct 02 14:03:56 2013]  say: maxim: cerf
+[Wed Oct 02 14:03:58 2013]  say: maxim: сука
+[Wed Oct 02 14:04:00 2013]  say: maxim: не бей
+[Wed Oct 02 14:04:04 2013]  say: maxim: выкл мея
+[Wed Oct 02 14:04:06 2013]  say: maxim: ч
+[Wed Oct 02 14:04:15 2013]  say: maxim: защита просто
+[Wed Oct 02 14:04:37 2013]  say: Altair Karon: f hfyrjhf vj;tim c.lf pfrbyenm
+[Wed Oct 02 14:05:17 2013]  say: Altair Karon: а ранкора можешь сюда закинуть
+[Wed Oct 02 14:05:22 2013]  say: maxim: lf
+[Wed Oct 02 14:05:24 2013]  say: maxim: да
+[Wed Oct 02 14:05:34 2013]  say: maxim: смари  еще
+[Wed Oct 02 14:07:37 2013]  say: maxim: cmari!
+[Wed Oct 02 14:07:42 2013]  say: maxim: смари
+[Wed Oct 02 14:08:23 2013]  say: maxim: .тщсдшз
+[Wed Oct 02 14:10:07 2013]  say: Altair Karon: стеклянный коридор
+[Wed Oct 02 14:10:09 2013]  say: maxim: во
+[Wed Oct 02 14:10:13 2013]  say: maxim: .тщсдшз
+[Wed Oct 02 14:11:14 2013]  say: maxim: хочешь так?
+[Wed Oct 02 14:11:20 2013]  say: maxim: делать?
+[Wed Oct 02 14:11:24 2013]  say: Altair Karon: да
+[Wed Oct 02 14:12:45 2013]  say: maxim: я делаю рефктор
+[Wed Oct 02 14:12:49 2013]  say: maxim: реактор*
+[Wed Oct 02 14:13:00 2013]  say: Altair Karon: давай
+[Wed Oct 02 14:13:01 2013]  say: maxim: введи /mplace gun
+[Wed Oct 02 14:13:15 2013]  say: maxim: в  концоле
+[Wed Oct 02 14:13:35 2013]  say: maxim: ааллллиииилллууууяяяяя
+[Wed Oct 02 14:13:42 2013]  say: maxim: аааааааааллллллллииииииииииллллллуууууууууяяяяяяя
+[Wed Oct 02 14:13:55 2013]  say: maxim: когда поставишь как надо
+[Wed Oct 02 14:14:01 2013]  say: maxim: введи /mdrop
+[Wed Oct 02 14:14:49 2013]  say: maxim: но только ты 2 раза  ввел пушку не надо
+[Wed Oct 02 14:15:01 2013]  say: maxim: алилуя?
+[Wed Oct 02 14:15:07 2013]  say: Altair Karon: j lf
+[Wed Oct 02 14:15:13 2013]  say: Altair Karon: о да
+[Wed Oct 02 14:15:19 2013]  say: maxim: лучше записывая команды
+[Wed Oct 02 14:16:24 2013]  say: maxim: введи
+[Wed Oct 02 14:16:24 2013]  say: Altair Karon: а какпоставить скажем At-as
+[Wed Oct 02 14:16:56 2013]  say: maxim: /mplace factory/catw_2 и также когда надо /mdrop
+[Wed Oct 02 14:17:10 2013]  say: maxim: ой
+[Wed Oct 02 14:17:12 2013]  say: maxim: сори
+[Wed Oct 02 14:17:14 2013]  say: maxim: пажи
+[Wed Oct 02 14:17:30 2013]  say: maxim: /mplace factory/catw2_b вот так
+[Wed Oct 02 14:18:30 2013]  say: maxim: если хочешь стену введи /mrotate 90 0 0
+[Wed Oct 02 14:19:24 2013]  say: maxim: не сначало /mrotate 90 0 0 а потом уже /mdrop
+[Wed Oct 02 14:21:25 2013]  say: Altair Karon: ns pltcm xfcnj ,sdftim&
+[Wed Oct 02 14:21:39 2013]  say: Altair Karon: ты здесь часто бываеншь
+[Wed Oct 02 14:21:48 2013]  say: maxim: очень
+[Wed Oct 02 14:22:07 2013]  say: Altair Karon: гоу захват флага
+[Wed Oct 02 14:22:17 2013]  say: maxim: нет дерьмо нет читов
+[Wed Oct 02 14:22:33 2013]  say: Altair Karon: а если против ботов
+[Wed Oct 02 14:22:52 2013]  say: Altair Karon: почти также как и с кодами
+[Wed Oct 02 14:23:04 2013]  say: maxim: не
+[Wed Oct 02 14:23:09 2013]  say: maxim: дав лучше здесь
+[Wed Oct 02 14:23:19 2013]  say: Altair Karon: ок
+[Wed Oct 02 14:23:35 2013]  say: Altair Karon: Кстати Меня на самом деле Егор зовут
+[Wed Oct 02 14:23:55 2013]  say: maxim: меня максим есть в контакте?
+[Wed Oct 02 14:24:00 2013]  say: Altair Karon: нет
+[Wed Oct 02 14:24:07 2013]  say: maxim: я есть зарегайся
+[Wed Oct 02 14:24:21 2013]  say: Altair Karon: если будет время
+[Wed Oct 02 14:24:34 2013]  say: Altair Karon: ты из какого города
+[Wed Oct 02 14:27:47 2013]  say: Altair Karon: а как поворачивать
+[Wed Oct 02 14:28:12 2013]  say: maxim: /mrotate 90 0 0
+[Wed Oct 02 14:28:17 2013]  say: maxim: веди
+[Wed Oct 02 14:28:43 2013]  say: maxim: mkill
+[Wed Oct 02 14:29:03 2013]  say: maxim: mkill
+[Wed Oct 02 14:30:55 2013]  say: Altair Karon: э нахер ты это сделал
+[Wed Oct 02 14:31:12 2013]  say: Altair Karon: спасибо
+[Wed Oct 02 14:34:19 2013]  say: Altair Karon: макс у меня стена не вводится 
+[Wed Oct 02 14:34:56 2013]  say: maxim: щя
+[Wed Oct 02 14:36:07 2013]  say: maxim: ровно к земле?
+[Wed Oct 02 14:36:15 2013]  say: Altair Karon: вроде да
+[Wed Oct 02 14:36:23 2013]  say: maxim: ок?
+[Wed Oct 02 14:36:28 2013]  say: Altair Karon: дпа
+[Wed Oct 02 14:37:21 2013]  say: maxim: /notarget введи
+[Wed Oct 02 14:37:46 2013]  say: Altair Karon: ты имел ввиду отключение интелекта у врага
+[Wed Oct 02 14:37:51 2013]  say: maxim: Zlf
+[Wed Oct 02 14:37:57 2013]  say: maxim: da
+[Wed Oct 02 14:40:42 2013]  say: Altair Karon: gjvjub cj cntyjq
+[Wed Oct 02 14:40:49 2013]  say: Altair Karon: помоги со стеной
+[Wed Oct 02 14:40:59 2013]  say: maxim: oz
+[Wed Oct 02 14:41:02 2013]  say: maxim: щя
+[Wed Oct 02 14:41:27 2013]  Kill: 1 1 39: Altair Karon killed Altair Karon by MOD_SUICIDE
+[Wed Oct 02 14:41:58 2013]  say: maxim: я сохронил
+[Wed Oct 02 14:42:05 2013]  say: maxim: .тщсдшз
+[Wed Oct 02 14:43:18 2013]  say: maxim: ты где?
+[Wed Oct 02 14:43:33 2013]  say: Altair Karon: я незнаю
+[Wed Oct 02 14:44:01 2013]  say: maxim: введи /mtelesp
+[Wed Oct 02 14:46:03 2013]  say: maxim: 'q
+[Wed Oct 02 14:46:06 2013]  say: maxim: эй
+[Wed Oct 02 14:49:16 2013]  say: maxim: чо тее надо?
+[Wed Oct 02 14:49:28 2013]  say: Altair Karon: cntye
+[Wed Oct 02 14:49:33 2013]  say: Altair Karon: стену
+[Wed Oct 02 14:49:37 2013]  say: maxim: тут
+[Wed Oct 02 14:49:42 2013]  say: Altair Karon: да
+[Wed Oct 02 14:50:15 2013]  say: Altair Karon: не так
+[Wed Oct 02 14:52:27 2013]  say: Altair Karon: а как удалить предмет
+[Wed Oct 02 14:52:37 2013]  say: maxim: /mkill
+[Wed Oct 02 14:53:53 2013]  say: maxim: время спать!
+[Wed Oct 02 14:53:58 2013]  say: maxim: смари
+[Wed Oct 02 14:55:40 2013]  say: Altair Karon: макс ты где?
+[Wed Oct 02 14:55:51 2013]  say: maxim: тут
+[Wed Oct 02 14:56:12 2013]  say: maxim: за мной
+[Wed Oct 02 14:57:19 2013]  say: maxim: как дела?
+[Wed Oct 02 14:57:23 2013]  say: Altair Karon: норм
+[Wed Oct 02 14:57:33 2013]  say: maxim: ы
+[Wed Oct 02 14:57:36 2013]  say: maxim: у меня тож
+[Wed Oct 02 14:57:56 2013]  say: Altair Karon: слушай а для чего ты это зоздаешь
+[Wed Oct 02 14:58:37 2013]  say: maxim: для разнообразия в читах
+[Wed Oct 02 15:00:59 2013]  say: Altair Karon: напомни этот IP адрес
+[Wed Oct 02 15:01:10 2013]  say: maxim: какой?
+[Wed Oct 02 15:01:18 2013]  say: Altair Karon: ну где мы сейчас
+[Wed Oct 02 15:01:34 2013]  say: Altair Karon: до чего?
+[Wed Oct 02 15:01:50 2013]  say: maxim: незнаю называется чето там помойму dark's makermod
+[Wed Oct 02 15:02:05 2013]  say: maxim: желтыми буквами
+[Wed Oct 02 15:02:26 2013]  say: maxim: смари еще
+[Wed Oct 02 15:02:30 2013]  say: Altair Karon: я к тебе еще загляну
+[Wed Oct 02 15:02:31 2013]  say: maxim: фишку
+[Wed Oct 02 15:03:24 2013]  say: Altair Karon: что здесь делает скайуокер
+[Wed Oct 02 15:05:02 2013]  say: Altair Karon: кстати засели сюда жителей
+[Wed Oct 02 15:05:35 2013]  say: maxim: короче
+[Wed Oct 02 15:05:40 2013]  say: maxim: смари иди суда
+[Wed Oct 02 15:05:45 2013]  say: maxim: ну
+[Wed Oct 02 15:05:49 2013]  say: maxim: встовай
+[Wed Oct 02 15:05:52 2013]  say: maxim: где я
+[Wed Oct 02 15:05:55 2013]  say: maxim: ок жди
+[Wed Oct 02 15:06:26 2013]  Exit: Timelimit hit.
+[Wed Oct 02 15:06:26 2013]  score: 4  ping: 93  client: 0 maxim
+[Wed Oct 02 15:06:26 2013]  score: 0  ping: 150  client: 1 Altair Karon
+[Wed Oct 02 15:06:32 2013]  ShutdownGame:
+[Wed Oct 02 15:06:32 2013]  ------------------------------------------------------------
+[Wed Oct 02 15:06:33 2013]  ------------------------------------------------------------
+[Wed Oct 02 15:06:33 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 02 15:06:34 2013]  ClientConnect: 0
+[Wed Oct 02 15:06:34 2013]  ClientConnect: 1
+[Wed Oct 02 15:06:42 2013]  say: maxim: ладн
+[Wed Oct 02 15:06:42 2013]  ClientBegin: 0
+[Wed Oct 02 15:06:45 2013]  say: maxim: смари
+[Wed Oct 02 15:06:56 2013]  ClientBegin: 1
+[Wed Oct 02 15:07:02 2013]  say: maxim: /give all
+[Wed Oct 02 15:07:56 2013]  say: Altair Karon: Ну ладно макс до завтра. я еще прийду
+[Wed Oct 02 15:08:01 2013]  say: maxim: ytn
+[Wed Oct 02 15:08:05 2013]  say: maxim: нет
+[Wed Oct 02 15:08:09 2013]  say: maxim: сука стой
+[Wed Oct 02 15:08:17 2013]  say: Altair Karon: не понял
+[Wed Oct 02 15:08:21 2013]  say: maxim: смари
+[Wed Oct 02 15:09:19 2013]  say: Altair Karon: и?
+[Wed Oct 02 15:09:21 2013]  say: maxim: щя
+[Wed Oct 02 15:10:14 2013]  say: Altair Karon: ха поезд
+[Wed Oct 02 15:10:27 2013]  say: maxim: самолет
+[Wed Oct 02 15:10:36 2013]  say: Altair Karon: это забавно
+[Wed Oct 02 15:10:37 2013]  say: maxim: я управляю
+[Wed Oct 02 15:11:00 2013]  say: Altair Karon: можешь быстрей?
+[Wed Oct 02 15:11:13 2013]  say: maxim: все иди
+[Wed Oct 02 15:11:20 2013]  say: Altair Karon: До завтра
+[Wed Oct 02 15:11:31 2013]  ClientDisconnect: 1
+[Wed Oct 02 15:11:43 2013]  ClientDisconnect: 0
+[Wed Oct 02 15:14:21 2013]  ClientConnect: 0
+[Wed Oct 02 15:14:21 2013]  mlog:Player Altair Karon, connected. With IP - 89.145.152.30:29070 
+[Wed Oct 02 15:14:31 2013]  ClientBegin: 0
+[Wed Oct 02 15:14:32 2013]  Kill: 0 0 39: Altair Karon killed Altair Karon by MOD_SUICIDE
+[Wed Oct 02 15:14:32 2013]  setteam:  0 FREE SPECTATOR
+[Wed Oct 02 15:14:32 2013]  ClientBegin: 0
+[Wed Oct 02 15:14:37 2013]  ClientDisconnect: 0
+[Wed Oct 02 17:06:32 2013]  Exit: Timelimit hit.
+[Wed Oct 02 18:08:36 2013]  ClientConnect: 0
+[Wed Oct 02 18:08:36 2013]  mlog:Player Maestro Hispano ^3Amras, connected. With IP - 85.219.4.121:29070 
+[Wed Oct 02 18:09:02 2013]  ClientBegin: 0
+[Wed Oct 02 18:09:21 2013]  ShutdownGame:
+[Wed Oct 02 18:09:21 2013]  ------------------------------------------------------------
+[Wed Oct 02 18:09:22 2013]  ------------------------------------------------------------
+[Wed Oct 02 18:09:22 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 02 18:09:23 2013]  ClientConnect: 0
+[Wed Oct 02 18:09:36 2013]  ClientBegin: 0
+[Wed Oct 02 18:10:27 2013]  ClientConnect: 1
+[Wed Oct 02 18:10:27 2013]  mlog:Player Padawan, connected. With IP - 86.211.177.131:29070 
+[Wed Oct 02 18:10:44 2013]  ClientBegin: 1
+[Wed Oct 02 18:11:03 2013]  say: Maestro Hispano ^3Amras: hola hi
+[Wed Oct 02 18:11:08 2013]  say: Padawan: i
+[Wed Oct 02 18:13:27 2013]  Kill: 0 1 3: Maestro Hispano ^3Amras killed Padawan by MOD_SABER
+[Wed Oct 02 18:14:31 2013]  say: Maestro Hispano ^3Amras: hey
+[Wed Oct 02 18:14:32 2013]  say: Maestro Hispano ^3Amras: xD
+[Wed Oct 02 18:14:58 2013]  Kill: 1022 1 2: <world> killed Padawan by MOD_MELEE
+[Wed Oct 02 18:16:16 2013]  say: Padawan: ..
+[Wed Oct 02 18:16:22 2013]  say: Maestro Hispano ^3Amras: ?xD
+[Wed Oct 02 18:16:47 2013]  say: Maestro Hispano ^3Amras: xD
+[Wed Oct 02 18:23:47 2013]  ClientDisconnect: 1
+[Wed Oct 02 18:33:16 2013]  ClientDisconnect: 0
+[Wed Oct 02 20:09:21 2013]  Exit: Timelimit hit.
+[Thu Oct 03 06:52:29 2013]  ClientConnect: 0
+[Thu Oct 03 06:52:29 2013]  mlog:Player ^2»^0SK^2|||^0WШLF^2«^0™, connected. With IP - 201.69.123.204:32386 
+[Thu Oct 03 06:53:34 2013]  ClientBegin: 0
+[Thu Oct 03 06:53:34 2013]  say: ^2»^0SK^2|||^0WШLF^2«^0™: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Oct 03 06:53:40 2013]  ShutdownGame:
+[Thu Oct 03 06:53:40 2013]  ------------------------------------------------------------

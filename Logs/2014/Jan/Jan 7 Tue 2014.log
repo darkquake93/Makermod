@@ -1,0 +1,950 @@
+[Tue Jan 07 08:59:47 2014]  ------------------------------------------------------------
+[Tue Jan 07 08:59:47 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 07 08:59:48 2014]  ClientConnect: 0
+[Tue Jan 07 09:00:06 2014]  ClientBegin: 0
+[Tue Jan 07 09:01:35 2014]  Kill: 1022 0 39: <world> killed ^1Darth^0Twin by MOD_SUICIDE
+[Tue Jan 07 09:01:40 2014]  ClientDisconnect: 0
+[Tue Jan 07 09:02:05 2014]  ClientConnect: 0
+[Tue Jan 07 09:02:05 2014]  mlog:Player ^1Darth^0Twin, connected. With IP - 31.162.60.179:29070 
+[Tue Jan 07 09:02:29 2014]  ClientBegin: 0
+[Tue Jan 07 09:05:22 2014]  ClientDisconnect: 0
+[Tue Jan 07 09:05:35 2014]  ClientConnect: 0
+[Tue Jan 07 09:05:35 2014]  mlog:Player ^1Darth^0Twin, connected. With IP - 31.162.60.179:29070 
+[Tue Jan 07 09:05:47 2014]  ClientBegin: 0
+[Tue Jan 07 09:10:28 2014]  ClientDisconnect: 0
+[Tue Jan 07 10:59:46 2014]  Exit: Timelimit hit.
+[Tue Jan 07 14:26:28 2014]  ClientConnect: 0
+[Tue Jan 07 14:26:28 2014]  mlog:Player ^1Rakata, connected. With IP - 93.84.2.41:-20565 
+[Tue Jan 07 14:26:48 2014]  ClientBegin: 0
+[Tue Jan 07 14:26:52 2014]  ShutdownGame:
+[Tue Jan 07 14:26:52 2014]  ------------------------------------------------------------
+[Tue Jan 07 14:26:53 2014]  ------------------------------------------------------------
+[Tue Jan 07 14:26:53 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 07 14:26:54 2014]  ClientConnect: 0
+[Tue Jan 07 14:31:08 2014]  ClientConnect: 1
+[Tue Jan 07 14:31:08 2014]  mlog:Player oldhuntas/3, connected. With IP - 78.80.100.24:24948 
+[Tue Jan 07 14:31:50 2014]  ClientBegin: 1
+[Tue Jan 07 14:32:06 2014]  say: hunti: lol
+[Tue Jan 07 14:32:07 2014]  say: hunti: lexus?
+[Tue Jan 07 14:32:09 2014]  ClientDisconnect: 0
+[Tue Jan 07 14:32:17 2014]  ClientDisconnect: 1
+[Tue Jan 07 14:33:41 2014]  ClientConnect: 0
+[Tue Jan 07 14:33:41 2014]  mlog:Player ^0RYDER^1/^03, connected. With IP - 80.82.156.54:29070 
+[Tue Jan 07 14:34:23 2014]  ClientConnect: 1
+[Tue Jan 07 14:34:23 2014]  mlog:Player Padawan, connected. With IP - 78.80.100.24:24948 
+[Tue Jan 07 14:34:24 2014]  ClientBegin: 0
+[Tue Jan 07 14:35:09 2014]  ClientBegin: 1
+[Tue Jan 07 14:35:17 2014]  print "hunti^7 @@@PLRENAME hunti/3
+"[Tue Jan 07 14:35:18 2014]  say: hunti/3: zde
+[Tue Jan 07 14:35:46 2014]  say: ^0RYDER^1/^03: ^0[^1a co si postavil^0]
+[Tue Jan 07 14:35:51 2014]  say: hunti/3: ja to neulozil 
+[Tue Jan 07 14:35:59 2014]  say: hunti/3: to jen vyfotim zdycky
+[Tue Jan 07 14:36:05 2014]  say: hunti/3: ale to co sem postavil
+[Tue Jan 07 14:36:09 2014]  say: hunti/3: si mohl videt na tech fotkach
+[Tue Jan 07 14:36:17 2014]  say: hunti/3: skoda ze tu neni marek
+[Tue Jan 07 14:36:32 2014]  ClientConnect: 2
+[Tue Jan 07 14:36:32 2014]  mlog:Player ^1Rakata, connected. With IP - 93.84.2.41:6877 
+[Tue Jan 07 14:36:40 2014]  say: hunti/3: hele kdybych natacel pres xfire
+[Tue Jan 07 14:36:46 2014]  say: hunti/3: slo by to?
+[Tue Jan 07 14:36:52 2014]  say: hunti/3: aby to pak lidi videli
+[Tue Jan 07 14:37:00 2014]  say: ^0RYDER^1/^03: _place button
+[Tue Jan 07 14:37:07 2014]  say: hunti/3: /mlist
+[Tue Jan 07 14:37:08 2014]  ClientBegin: 2
+[Tue Jan 07 14:37:17 2014]  say: hunti/3: hai lexu
+[Tue Jan 07 14:37:21 2014]  say: ^8Dark Lord: hi
+[Tue Jan 07 14:37:27 2014]  say: ^8Dark Lord: wtf bastila skin ????????????????
+[Tue Jan 07 14:37:31 2014]  say: ^8Dark Lord: omg
+[Tue Jan 07 14:37:35 2014]  say: hunti/3: ?
+[Tue Jan 07 14:37:45 2014]  say: hunti/3: ryder is here for making
+[Tue Jan 07 14:37:51 2014]  say: ^8Dark Lord: my skin is bastila shan from swkotor
+[Tue Jan 07 14:37:57 2014]  say: ^8Dark Lord: fuckl
+[Tue Jan 07 14:37:57 2014]  say: hunti/3: lol
+[Tue Jan 07 14:38:02 2014]  say: ^8Dark Lord: i ded
+[Tue Jan 07 14:38:04 2014]  say: hunti/3: az neco vyberes
+[Tue Jan 07 14:38:05 2014]  say: hunti/3: dej
+[Tue Jan 07 14:38:05 2014]  say: ^8Dark Lord: dead
+[Tue Jan 07 14:38:11 2014]  say: hunti/3: /mlist [to co sis vybral]
+[Tue Jan 07 14:38:20 2014]  say: hunti/3: pak neco vyber
+[Tue Jan 07 14:38:21 2014]  say: hunti/3: a dej
+[Tue Jan 07 14:38:24 2014]  say: hunti/3: lol
+[Tue Jan 07 14:38:31 2014]  say: hunti/3: to je npc
+[Tue Jan 07 14:38:43 2014]  say: hunti/3: lol co delas
+[Tue Jan 07 14:39:00 2014]  say: hunti/3: CO DELAS
+[Tue Jan 07 14:39:17 2014]  Kill: 1 1 39: hunti/3 killed hunti/3 by MOD_SUICIDE
+[Tue Jan 07 14:39:28 2014]  print "^8Dark Lord^7 @@@PLRENAME ^8Lexus
+"[Tue Jan 07 14:39:48 2014]  Kill: 1 1 39: hunti/3 killed hunti/3 by MOD_SUICIDE
+[Tue Jan 07 14:40:54 2014]  say: hunti/3: CO TO JE
+[Tue Jan 07 14:41:16 2014]  say: ^8Lexus: shit rancors dont want die
+[Tue Jan 07 14:41:20 2014]  say: hunti/3: YEA
+[Tue Jan 07 14:41:23 2014]  say: ^8Lexus: wait
+[Tue Jan 07 14:41:25 2014]  say: hunti/3: LOL
+[Tue Jan 07 14:41:32 2014]  say: ^8Lexus: maybe press kill all ?
+[Tue Jan 07 14:41:37 2014]  Kill: 1022 1 2: <world> killed hunti/3 by MOD_MELEE
+[Tue Jan 07 14:41:50 2014]  Kill: 2 2 39: ^8Lexus killed ^8Lexus by MOD_SUICIDE
+[Tue Jan 07 14:41:52 2014]  say: hunti/3: IDK
+[Tue Jan 07 14:41:57 2014]  say: ^8Lexus: fuck
+[Tue Jan 07 14:41:58 2014]  ClientConnect: 3
+[Tue Jan 07 14:41:58 2014]  mlog:Player ICE, connected. With IP - 93.79.154.64:29070 
+[Tue Jan 07 14:42:06 2014]  ClientDisconnect: 0
+[Tue Jan 07 14:42:10 2014]  say: hunti/3: LOL
+[Tue Jan 07 14:42:12 2014]  say: hunti/3: RYDER RQED
+[Tue Jan 07 14:42:18 2014]  Kill: 1022 2 2: <world> killed ^8Lexus by MOD_MELEE
+[Tue Jan 07 14:42:21 2014]  say: hunti/3: /NOTARGET
+[Tue Jan 07 14:42:22 2014]  say: ^8Lexus: omg
+[Tue Jan 07 14:42:28 2014]  say: hunti/3: /NOTARGET
+[Tue Jan 07 14:42:29 2014]  say: hunti/3: IN CONZOLE
+[Tue Jan 07 14:42:43 2014]  ClientBegin: 3
+[Tue Jan 07 14:43:01 2014]  say: ^8Lexus: and how build ?
+[Tue Jan 07 14:43:05 2014]  say: hunti/3: SEC
+[Tue Jan 07 14:43:09 2014]  say: ^8Lexus: wtf
+[Tue Jan 07 14:43:20 2014]  say: ^8Lexus: fuck
+[Tue Jan 07 14:43:21 2014]  say: hunti/3: /GOD
+[Tue Jan 07 14:43:25 2014]  say: ^8Lexus: small lightsaber
+[Tue Jan 07 14:43:26 2014]  Kill: 3 2 31: ICE killed ^8Lexus by MOD_FORCE_DARK
+[Tue Jan 07 14:43:28 2014]  say: hunti/3: USE GOD OMG
+[Tue Jan 07 14:43:35 2014]  say: hunti/3: /MEMPOWER
+[Tue Jan 07 14:43:41 2014]  say: hunti/3: /GOD
+[Tue Jan 07 14:43:42 2014]  say: ^8Lexus: not allowed
+[Tue Jan 07 14:43:52 2014]  Kill: 3 2 3: ICE killed ^8Lexus by MOD_SABER
+[Tue Jan 07 14:44:09 2014]  Kill: 3 2 3: ICE killed ^8Lexus by MOD_SABER
+[Tue Jan 07 14:44:20 2014]  say: hunti/3: YAY
+[Tue Jan 07 14:44:28 2014]  say: hunti/3: /GOD
+[Tue Jan 07 14:44:49 2014]  say: hunti/3: ICE
+[Tue Jan 07 14:44:50 2014]  say: hunti/3: HOW KILL ALL
+[Tue Jan 07 14:44:52 2014]  Kill: 1 1 39: hunti/3 killed hunti/3 by MOD_SUICIDE
+[Tue Jan 07 14:45:07 2014]  say: hunti/3: LEXUS
+[Tue Jan 07 14:45:14 2014]  say: ^8Lexus: what ?
+[Tue Jan 07 14:45:17 2014]  say: hunti/3: FOLOLW ME
+[Tue Jan 07 14:45:22 2014]  Kill: 1 2 37: hunti/3 killed ^8Lexus by MOD_TELEFRAG
+[Tue Jan 07 14:45:29 2014]  say: hunti/3: LEX
+[Tue Jan 07 14:45:31 2014]  say: hunti/3: GOD
+[Tue Jan 07 14:45:36 2014]  Kill: 1 2 37: hunti/3 killed ^8Lexus by MOD_TELEFRAG
+[Tue Jan 07 14:45:39 2014]  Kill: 3 1 37: ICE killed hunti/3 by MOD_TELEFRAG
+[Tue Jan 07 14:45:40 2014]  say: hunti/3: STOP GOING TO TELEPORT
+[Tue Jan 07 14:45:54 2014]  say: hunti/3: COME TO ME
+[Tue Jan 07 14:45:58 2014]  say: hunti/3: USE NOCLIP AND LETS GO
+[Tue Jan 07 14:46:01 2014]  Kill: 1022 2 2: <world> killed ^8Lexus by MOD_MELEE
+[Tue Jan 07 14:46:08 2014]  say: hunti/3: USE THE FUCKING NOCLIP
+[Tue Jan 07 14:46:11 2014]  Kill: 1022 3 37: <world> killed ICE by MOD_TELEFRAG
+[Tue Jan 07 14:46:12 2014]  say: hunti/3: COME
+[Tue Jan 07 14:46:15 2014]  say: hunti/3: IM HERE
+[Tue Jan 07 14:46:16 2014]  say: hunti/3: IM HERE!
+[Tue Jan 07 14:46:21 2014]  say: hunti/3: -_-
+[Tue Jan 07 14:46:26 2014]  say: ^8Lexus: omg
+[Tue Jan 07 14:46:30 2014]  say: hunti/3: COME TO ME 
+[Tue Jan 07 14:46:32 2014]  say: ^8Lexus: i not die
+[Tue Jan 07 14:46:37 2014]  say: ^8Lexus: i invisible
+[Tue Jan 07 14:46:39 2014]  say: hunti/3: LOL
+[Tue Jan 07 14:46:42 2014]  say: hunti/3: /KILL
+[Tue Jan 07 14:46:50 2014]  say: ^8Lexus: no
+[Tue Jan 07 14:46:50 2014]  say: hunti/3: I MUST SEE U
+[Tue Jan 07 14:47:18 2014]  say: hunti/3: KILL
+[Tue Jan 07 14:47:20 2014]  Kill: 2 2 39: ^8Lexus killed ^8Lexus by MOD_SUICIDE
+[Tue Jan 07 14:47:20 2014]  say: hunti/3: I MUST SEE U
+[Tue Jan 07 14:47:28 2014]  say: hunti/3: USE NOCLIP AND NOW LETS GO
+[Tue Jan 07 14:47:30 2014]  say: hunti/3: GOD MODE TOO
+[Tue Jan 07 14:47:37 2014]  say: hunti/3: FOLLOW MA
+[Tue Jan 07 14:47:49 2014]  say: hunti/3: IF U WANT MAKING FOLLOW MA
+[Tue Jan 07 14:48:58 2014]  say: hunti/3: ICE
+[Tue Jan 07 14:49:04 2014]  say: hunti/3: WANNA TOO MAKING?
+[Tue Jan 07 14:49:04 2014]  say: ICE: what
+[Tue Jan 07 14:49:06 2014]  say: ^8Lexus: wait some sec
+[Tue Jan 07 14:49:08 2014]  say: ICE: yes
+[Tue Jan 07 14:49:10 2014]  say: hunti/3: OK
+[Tue Jan 07 14:49:13 2014]  say: hunti/3: IF U KNOW CMDS
+[Tue Jan 07 14:49:15 2014]  say: hunti/3: MAKE DOORS
+[Tue Jan 07 14:49:22 2014]  say: hunti/3: I MUST RECONECET
+[Tue Jan 07 14:49:26 2014]  say: hunti/3: I WILL BACK 
+[Tue Jan 07 14:49:27 2014]  say: ICE: i dont know
+[Tue Jan 07 14:49:28 2014]  say: hunti/3: OK LEX?
+[Tue Jan 07 14:49:33 2014]  say: hunti/3: PRESS /MLIST
+[Tue Jan 07 14:49:37 2014]  say: hunti/3: LEX
+[Tue Jan 07 14:49:42 2014]  say: hunti/3: LEXUSKA
+[Tue Jan 07 14:49:45 2014]  say: hunti/3: SEXUSKA
+[Tue Jan 07 14:49:53 2014]  say: ICE: ships/
+[Tue Jan 07 14:50:00 2014]  say: ^8Lexus: ships/
+[Tue Jan 07 14:50:01 2014]  say: hunti/3: I WILL RECON OK?
+[Tue Jan 07 14:50:10 2014]  say: hunti/3: OK?
+[Tue Jan 07 14:50:11 2014]  say: ICE: ships/
+[Tue Jan 07 14:50:17 2014]  say: hunti/3: OK?
+[Tue Jan 07 14:50:20 2014]  say: ^8Lexus: ships/
+[Tue Jan 07 14:50:22 2014]  say: ICE: ok
+[Tue Jan 07 14:50:24 2014]  say: hunti/3: WHY U NO TALKING WITH ME
+[Tue Jan 07 14:50:24 2014]  say: ^8Lexus: ok
+[Tue Jan 07 14:50:29 2014]  ClientDisconnect: 1
+[Tue Jan 07 14:50:47 2014]  say: ICE: how make a door
+[Tue Jan 07 14:50:51 2014]  say: ^8Lexus: idk
+[Tue Jan 07 14:50:59 2014]  say: ICE: fuck
+[Tue Jan 07 14:51:00 2014]  say: ^8Lexus: vjun/
+[Tue Jan 07 14:51:03 2014]  ClientConnect: 0
+[Tue Jan 07 14:51:03 2014]  mlog:Player Padawan, connected. With IP - 78.80.100.24:24948 
+[Tue Jan 07 14:51:11 2014]  say: ICE: vjun/
+[Tue Jan 07 14:51:14 2014]  say: ICE: vjun/
+[Tue Jan 07 14:51:29 2014]  say: ICE: nothing
+[Tue Jan 07 14:51:50 2014]  ClientBegin: 0
+[Tue Jan 07 14:52:09 2014]  say: hunti/3: BACK
+[Tue Jan 07 14:52:11 2014]  say: ^8Lexus: and how build ?
+[Tue Jan 07 14:52:11 2014]  say: ICE: rail/
+[Tue Jan 07 14:52:14 2014]  say: ^8Lexus: wb
+[Tue Jan 07 14:52:31 2014]  say: ^8Lexus: ice press /give all
+[Tue Jan 07 14:52:35 2014]  say: hunti/3: NO
+[Tue Jan 07 14:52:44 2014]  say: hunti/3: /MLIST VJUN
+[Tue Jan 07 14:52:45 2014]  say: ^8Lexus: ops
+[Tue Jan 07 14:52:49 2014]  say: ^8Lexus: i have lags
+[Tue Jan 07 14:53:03 2014]  say: ICE: window
+[Tue Jan 07 14:53:04 2014]  say: hunti/3: only ping
+[Tue Jan 07 14:53:10 2014]  say: hunti/3: playing is not laging
+[Tue Jan 07 14:53:16 2014]  say: hunti/3: its a bug with ping
+[Tue Jan 07 14:53:19 2014]  say: hunti/3: now
+[Tue Jan 07 14:53:20 2014]  say: hunti/3: guys
+[Tue Jan 07 14:53:25 2014]  say: hunti/3: /mlist vjun
+[Tue Jan 07 14:53:27 2014]  say: ICE: what
+[Tue Jan 07 14:53:32 2014]  say: hunti/3: in conzole
+[Tue Jan 07 14:53:33 2014]  say: hunti/3: type
+[Tue Jan 07 14:53:36 2014]  say: hunti/3: /mlist vjun
+[Tue Jan 07 14:53:37 2014]  say: ^8Lexus: done
+[Tue Jan 07 14:53:45 2014]  say: hunti/3: now choose
+[Tue Jan 07 14:53:45 2014]  say: ICE: window
+[Tue Jan 07 14:53:47 2014]  say: hunti/3: wat u want
+[Tue Jan 07 14:54:13 2014]  say: hunti/3: wat u want
+[Tue Jan 07 14:54:15 2014]  say: ICE: i cant
+[Tue Jan 07 14:54:22 2014]  say: hunti/3: im talking with lex
+[Tue Jan 07 14:54:23 2014]  say: hunti/3: LEX
+[Tue Jan 07 14:54:27 2014]  say: hunti/3: DO U HEAR ME!?
+[Tue Jan 07 14:54:28 2014]  say: ^8Lexus: command uasage : mlist <optional-folder-name
+[Tue Jan 07 14:54:32 2014]  say: hunti/3: YE
+[Tue Jan 07 14:54:32 2014]  say: ^8Lexus: yes
+[Tue Jan 07 14:54:35 2014]  say: hunti/3: /MPLACE 
+[Tue Jan 07 14:54:41 2014]  say: hunti/3: /MPLACE [THAT WHAT U WAS CHOOSED]
+[Tue Jan 07 14:54:50 2014]  say: hunti/3: /MPLACE VJUN/[OBJECT]
+[Tue Jan 07 14:55:32 2014]  say: ^8Lexus: omg
+[Tue Jan 07 14:55:45 2014]  say: ICE: how you make this
+[Tue Jan 07 14:55:55 2014]  say: hunti/3: good
+[Tue Jan 07 14:55:56 2014]  say: ^8Lexus: and what now ?
+[Tue Jan 07 14:56:02 2014]  say: hunti/3: drop 
+[Tue Jan 07 14:56:04 2014]  say: hunti/3: that
+[Tue Jan 07 14:56:07 2014]  say: ^8Lexus: how ?
+[Tue Jan 07 14:56:14 2014]  say: hunti/3: /mdrop
+[Tue Jan 07 14:56:26 2014]  say: ^8Lexus: nice
+[Tue Jan 07 14:57:13 2014]  say: ICE: how
+[Tue Jan 07 14:57:24 2014]  say: ^8Lexus: /mplace vjun/window
+[Tue Jan 07 14:57:49 2014]  say: ICE: whoa
+[Tue Jan 07 14:57:54 2014]  say: hunti/3: LETS RECORDING
+[Tue Jan 07 14:58:00 2014]  say: ^8Lexus: for drop /mdrop
+[Tue Jan 07 14:58:34 2014]  say: hunti/3: GOD
+[Tue Jan 07 14:58:37 2014]  say: hunti/3: AT U DOING
+[Tue Jan 07 14:59:01 2014]  say: hunti/3: STOP
+[Tue Jan 07 14:59:20 2014]  say: hunti/3: LOL
+[Tue Jan 07 14:59:26 2014]  say: hunti/3: LEX
+[Tue Jan 07 14:59:30 2014]  say: hunti/3: LETS MAKE A SHIP?
+[Tue Jan 07 14:59:38 2014]  say: ICE: i want too
+[Tue Jan 07 14:59:45 2014]  say: hunti/3: K
+[Tue Jan 07 14:59:49 2014]  say: hunti/3: MAKE THE SHIP
+[Tue Jan 07 14:59:52 2014]  say: ^8Lexus: look
+[Tue Jan 07 15:00:05 2014]  say: hunti/3: I AND LEX MAKING SHIP FOR MORE PEOPLE
+[Tue Jan 07 15:00:34 2014]  say: ^8Lexus: how delete it ?
+[Tue Jan 07 15:00:38 2014]  say: hunti/3: /MREMOVE
+[Tue Jan 07 15:01:53 2014]  say: hunti/3: lol
+[Tue Jan 07 15:02:52 2014]  say: ICE: taspir/
+[Tue Jan 07 15:03:08 2014]  say: ICE: how chode other place
+[Tue Jan 07 15:03:13 2014]  say: ICE: chose
+[Tue Jan 07 15:03:28 2014]  say: hunti/3: /mplace taspir/[object
+[Tue Jan 07 15:04:41 2014]  say: ICE: how lock for list of objects
+[Tue Jan 07 15:04:51 2014]  say: hunti/3: /mlist taspir
+[Tue Jan 07 15:05:35 2014]  say: hunti/3: yes!
+[Tue Jan 07 15:06:38 2014]  say: hunti/3: LLAG
+[Tue Jan 07 15:06:43 2014]  say: hunti/3: DONT SPAWN BIG OBJECTS BITCH
+[Tue Jan 07 15:06:51 2014]  say: hunti/3: or ye
+[Tue Jan 07 15:06:57 2014]  say: hunti/3: ehm
+[Tue Jan 07 15:07:01 2014]  say: hunti/3: this is for ship ya?
+[Tue Jan 07 15:07:05 2014]  say: ^8Lexus: nope
+[Tue Jan 07 15:07:09 2014]  say: ^8Lexus: taspir
+[Tue Jan 07 15:07:09 2014]  say: hunti/3: THI I SHIP LEX
+[Tue Jan 07 15:07:13 2014]  say: hunti/3: NOT TASPIR
+[Tue Jan 07 15:07:23 2014]  say: ^8Lexus: mplace taspir/lava_tube
+[Tue Jan 07 15:07:38 2014]  say: hunti/3: STOP
+[Tue Jan 07 15:08:31 2014]  say: hunti/3: WHO WANT COFFE
+[Tue Jan 07 15:09:10 2014]  say: hunti/3: WHAT THE
+[Tue Jan 07 15:09:12 2014]  say: hunti/3: YE
+[Tue Jan 07 15:09:15 2014]  say: hunti/3: VERY GUD
+[Tue Jan 07 15:09:29 2014]  say: hunti/3: LOL
+[Tue Jan 07 15:09:48 2014]  say: hunti/3: STOP PUNCHING ME
+[Tue Jan 07 15:11:42 2014]  say: ^8Lexus: die luke
+[Tue Jan 07 15:11:49 2014]  say: hunti/3: ?
+[Tue Jan 07 15:11:56 2014]  say: ^8Lexus: i spawn many luke
+[Tue Jan 07 15:12:07 2014]  say: hunti/3: dont
+[Tue Jan 07 15:12:11 2014]  say: hunti/3: server will crush
+[Tue Jan 07 15:12:12 2014]  say: hunti/3: omg
+[Tue Jan 07 15:12:24 2014]  say: hunti/3: and u will kicked if u will spawning many lukes
+[Tue Jan 07 15:12:56 2014]  say: ^8Lexus: omg
+[Tue Jan 07 15:13:06 2014]  say: hunti/3: ?
+[Tue Jan 07 15:13:15 2014]  say: ^8Lexus: how many lukes i spawn i cant kill they fst
+[Tue Jan 07 15:13:26 2014]  say: ^8Lexus: oh this was last
+[Tue Jan 07 15:13:51 2014]  say: ICE: i am fingd good place for bilding
+[Tue Jan 07 15:14:08 2014]  say: hunti/3: wat?
+[Tue Jan 07 15:14:17 2014]  say: ^8Lexus: ?
+[Tue Jan 07 15:14:48 2014]  say: ^8Lexus: lucas at what server you play in swtor ?
+[Tue Jan 07 15:14:56 2014]  say: hunti/3: progenitor jedi lvl 12
+[Tue Jan 07 15:15:04 2014]  say: ^8Lexus: you ?
+[Tue Jan 07 15:15:13 2014]  say: hunti/3: wat_?
+[Tue Jan 07 15:15:13 2014]  say: ^8Lexus: lvl 12
+[Tue Jan 07 15:15:21 2014]  say: hunti/3: yesh
+[Tue Jan 07 15:15:29 2014]  say: ^8Lexus: you use gtm ?
+[Tue Jan 07 15:15:33 2014]  say: hunti/3: gtm?
+[Tue Jan 07 15:15:50 2014]  say: ^8Lexus: GALAKTIVC TRADE MARKET
+[Tue Jan 07 15:15:59 2014]  say: ^8Lexus: galaktic
+[Tue Jan 07 15:16:00 2014]  say: hunti/3: idk what is that
+[Tue Jan 07 15:16:06 2014]  say: ^8Lexus: -.- 
+[Tue Jan 07 15:16:11 2014]  say: hunti/3: im new at swtor
+[Tue Jan 07 15:16:15 2014]  say: ^8Lexus: i will share you
+[Tue Jan 07 15:16:25 2014]  say: hunti/3: lol
+[Tue Jan 07 15:16:33 2014]  say: ^8Lexus: but you must have cr
+[Tue Jan 07 15:16:38 2014]  say: ^8Lexus: you sith ?
+[Tue Jan 07 15:16:42 2014]  say: hunti/3: lol
+[Tue Jan 07 15:16:50 2014]  say: ^8Lexus: or jedi ?
+[Tue Jan 07 15:17:04 2014]  say: ^8Lexus: i ber sith
+[Tue Jan 07 15:17:07 2014]  say: ^8Lexus: be
+[Tue Jan 07 15:17:12 2014]  say: hunti/3: i dont have sith
+[Tue Jan 07 15:17:15 2014]  say: hunti/3: i have smugler
+[Tue Jan 07 15:17:19 2014]  say: ^8Lexus: then you will make
+[Tue Jan 07 15:17:22 2014]  say: hunti/3: no
+[Tue Jan 07 15:17:25 2014]  say: hunti/3: i have jedi and smugler
+[Tue Jan 07 15:17:27 2014]  say: ^8Lexus: oh fuck
+[Tue Jan 07 15:17:35 2014]  say: ^8Lexus: i be sith
+[Tue Jan 07 15:17:44 2014]  say: ^8Lexus: lets go play in swtor ?
+[Tue Jan 07 15:17:51 2014]  say: hunti/3: sec
+[Tue Jan 07 15:18:05 2014]  say: ^8Lexus: ice you have swtor ?
+[Tue Jan 07 15:18:09 2014]  say: hunti/3: im recording
+[Tue Jan 07 15:18:14 2014]  say: ICE: what
+[Tue Jan 07 15:18:20 2014]  say: ^8Lexus: you have game swtor?
+[Tue Jan 07 15:18:21 2014]  say: hunti/3: im recording 
+[Tue Jan 07 15:18:34 2014]  say: ICE: whay is swtor
+[Tue Jan 07 15:18:42 2014]  say: hunti/3: lol
+[Tue Jan 07 15:18:45 2014]  say: ^8Lexus: star wars the old republic
+[Tue Jan 07 15:18:49 2014]  say: ^8Lexus: omg
+[Tue Jan 07 15:18:51 2014]  say: ICE: no
+[Tue Jan 07 15:18:57 2014]  say: ^8Lexus: oh ok
+[Tue Jan 07 15:19:00 2014]  say: ^8Lexus: bad boy
+[Tue Jan 07 15:19:20 2014]  say: ICE: кто русский
+[Tue Jan 07 15:19:22 2014]  say: ^8Lexus: я
+[Tue Jan 07 15:19:30 2014]  say: ICE: ахуеть
+[Tue Jan 07 15:19:40 2014]  say: ICE: .тщсдшз
+[Tue Jan 07 15:19:50 2014]  say: ^8Lexus: с детства ахуел вообщето
+[Tue Jan 07 15:19:55 2014]  say: hunti/3: wat
+[Tue Jan 07 15:20:03 2014]  say: ^8Lexus: what /
+[Tue Jan 07 15:20:06 2014]  say: ^8Lexus: ?
+[Tue Jan 07 15:20:12 2014]  say: hunti/3: im not a fucking russ
+[Tue Jan 07 15:20:26 2014]  say: ^8Lexus: i belarus not russian xD
+[Tue Jan 07 15:20:55 2014]  say: hunti/3: lol
+[Tue Jan 07 15:21:07 2014]  say: hunti/3: omg guys
+[Tue Jan 07 15:21:10 2014]  say: hunti/3: top that
+[Tue Jan 07 15:21:12 2014]  say: hunti/3: stop
+[Tue Jan 07 15:21:14 2014]  say: hunti/3: im laging
+[Tue Jan 07 15:21:21 2014]  say: ^8Lexus: ok
+[Tue Jan 07 15:21:23 2014]  say: ^8Lexus: sry
+[Tue Jan 07 15:21:41 2014]  say: ^8Lexus: ok i go in swtor at you serve
+[Tue Jan 07 15:21:45 2014]  say: ^8Lexus: and
+[Tue Jan 07 15:21:48 2014]  say: hunti/3: not now
+[Tue Jan 07 15:21:58 2014]  say: ^8Lexus: fuck
+[Tue Jan 07 15:22:58 2014]  say: ^8Lexus: off god
+[Tue Jan 07 15:23:04 2014]  say: ^8Lexus: and duel me
+[Tue Jan 07 15:23:04 2014]  say: ICE: нет
+[Tue Jan 07 15:23:14 2014]  say: ^8Lexus: ВЫРУБИ
+[Tue Jan 07 15:23:19 2014]  say: ICE: соси
+[Tue Jan 07 15:23:21 2014]  say: ^8Lexus: если ты мужик
+[Tue Jan 07 15:23:34 2014]  say: ^8Lexus: ахахахаахах баба зассалц
+[Tue Jan 07 15:23:34 2014]  say: ICE: я мужик но вырубать не буду
+[Tue Jan 07 15:23:52 2014]  say: ^8Lexus: я дуель хочу там только мечи
+[Tue Jan 07 15:23:59 2014]  say: ^8Lexus: не сила а мечи
+[Tue Jan 07 15:24:00 2014]  say: ICE: сасай
+[Tue Jan 07 15:24:11 2014]  say: ^8Lexus: аахахахахахахахаахахха лох
+[Tue Jan 07 15:24:14 2014]  say: ^8Lexus: баба
+[Tue Jan 07 15:24:26 2014]  say: ICE: ты про себяХ3
+[Tue Jan 07 15:24:40 2014]  say: ^8Lexus: ЛОООООООООООООХ
+[Tue Jan 07 15:24:57 2014]  say: ^8Lexus: играть наверное не умееш
+[Tue Jan 07 15:24:58 2014]  say: ICE: тыпа обидел
+[Tue Jan 07 15:25:36 2014]  say: ^8Lexus: fuck why this is not lugormod ?????????????? :(
+[Tue Jan 07 15:25:49 2014]  say: ^8Lexus: i want have power at lvl 5
+[Tue Jan 07 15:25:56 2014]  say: ^8Lexus: ДЕБИЛ
+[Tue Jan 07 15:27:26 2014]  say: ICE: vbys 
+[Tue Jan 07 15:27:32 2014]  say: hunti/3: xd
+[Tue Jan 07 15:27:45 2014]  say: ^8Lexus: [dfnbn
+[Tue Jan 07 15:27:53 2014]  say: ^8Lexus: ВЗРЫЫЫЫЫЫЫВ
+[Tue Jan 07 15:28:24 2014]  say: ICE: стой я зделай тюрьму
+[Tue Jan 07 15:29:03 2014]  say: ^8Lexus: kjk
+[Tue Jan 07 15:29:12 2014]  say: ^8Lexus: лол те изчезфют
+[Tue Jan 07 15:29:36 2014]  say: ICE: стой
+[Tue Jan 07 15:29:43 2014]  say: ^8Lexus: fuck
+[Tue Jan 07 15:30:14 2014]  say: ICE: npc spawn vehicle lambdahuttle
+[Tue Jan 07 15:30:16 2014]  say: ^8Lexus: nice
+[Tue Jan 07 15:31:33 2014]  Kill: 2 2 6: ^8Lexus killed ^8Lexus by MOD_BLASTER
+[Tue Jan 07 15:32:34 2014]  say: ^8Lexus: ok i go
+[Tue Jan 07 15:32:41 2014]  say: hunti/3: wherer
+[Tue Jan 07 15:32:42 2014]  say: ^8Lexus: bb
+[Tue Jan 07 15:32:44 2014]  say: hunti/3: where u go
+[Tue Jan 07 15:32:53 2014]  say: ^8Lexus: i will wait you but not play
+[Tue Jan 07 15:33:02 2014]  say: hunti/3: come progenitor jedi
+[Tue Jan 07 15:33:05 2014]  say: hunti/3: ok?
+[Tue Jan 07 15:33:08 2014]  say: ^8Lexus: ok i will sith
+[Tue Jan 07 15:33:10 2014]  say: hunti/3: NO
+[Tue Jan 07 15:33:12 2014]  say: hunti/3: IM JEDI
+[Tue Jan 07 15:33:18 2014]  say: ^8Lexus: fuck ok
+[Tue Jan 07 15:33:21 2014]  ClientDisconnect: 2
+[Tue Jan 07 15:33:24 2014]  say: ICE: i am sith
+[Tue Jan 07 15:33:40 2014]  say: hunti/3: ...
+[Tue Jan 07 15:34:05 2014]  say: ICE: gi na swjka russian public
+[Tue Jan 07 15:34:16 2014]  say: hunti/3: why
+[Tue Jan 07 15:34:24 2014]  say: ICE: ты рууский
+[Tue Jan 07 15:34:37 2014]  say: hunti/3: i dont know what u saying
+[Tue Jan 07 15:34:44 2014]  ClientDisconnect: 3
+[Tue Jan 07 15:46:36 2014]  ClientConnect: 1
+[Tue Jan 07 15:46:36 2014]  mlog:Player ^1Rakata, connected. With IP - 93.84.2.41:-193 
+[Tue Jan 07 15:47:19 2014]  ClientBegin: 1
+[Tue Jan 07 15:47:32 2014]  say: ^8Lexus: at what server you play 
+[Tue Jan 07 15:47:37 2014]  say: hunti/3: progenitor why
+[Tue Jan 07 15:48:02 2014]  say: ^8Lexus: oh ok i have 1 character at this server
+[Tue Jan 07 15:48:07 2014]  say: hunti/3: jedi
+[Tue Jan 07 15:48:09 2014]  say: ^8Lexus: consular at lvl 2
+[Tue Jan 07 15:48:11 2014]  say: hunti/3: U MUST CREATE JEDI
+[Tue Jan 07 15:48:13 2014]  say: hunti/3: OK
+[Tue Jan 07 15:48:15 2014]  say: hunti/3: I HELP U
+[Tue Jan 07 15:48:18 2014]  say: hunti/3: GIVE SEC
+[Tue Jan 07 15:48:20 2014]  say: ^8Lexus: ok
+[Tue Jan 07 15:48:21 2014]  say: hunti/3: I DONE RECORDING
+[Tue Jan 07 15:48:42 2014]  say: ^8Lexus: om fg
+[Tue Jan 07 15:48:49 2014]  say: ^8Lexus: nice
+[Tue Jan 07 15:48:53 2014]  say: hunti/3: TH
+[Tue Jan 07 15:48:58 2014]  say: hunti/3: WANNA SCREENSHOT WITH ME?
+[Tue Jan 07 15:49:06 2014]  say: hunti/3: COME DOWN
+[Tue Jan 07 15:49:06 2014]  say: ^8Lexus: no
+[Tue Jan 07 15:49:08 2014]  say: hunti/3: TO SHIP
+[Tue Jan 07 15:49:17 2014]  say: hunti/3: PEOPLE WANT SEE U IN XFIRE
+[Tue Jan 07 15:49:19 2014]  say: hunti/3: COME
+[Tue Jan 07 15:49:21 2014]  say: ^8Lexus: i will play in swtor
+[Tue Jan 07 15:49:29 2014]  say: hunti/3: COME TO ME
+[Tue Jan 07 15:49:31 2014]  say: hunti/3: AND I PALY WITH YOU
+[Tue Jan 07 15:49:36 2014]  say: hunti/3: IM LAGING XD
+[Tue Jan 07 15:49:50 2014]  say: hunti/3: XD
+[Tue Jan 07 15:49:56 2014]  say: hunti/3: OK
+[Tue Jan 07 15:50:04 2014]  say: hunti/3: VIDEO
+[Tue Jan 07 15:50:05 2014]  say: hunti/3: DONE
+[Tue Jan 07 15:50:07 2014]  say: hunti/3: NOW SCREENSHOT
+[Tue Jan 07 15:50:50 2014]  say: hunti/3: EHM 
+[Tue Jan 07 15:50:51 2014]  say: hunti/3: SEC
+[Tue Jan 07 15:51:44 2014]  say: hunti/3: OK
+[Tue Jan 07 15:51:50 2014]  say: hunti/3: DO ANIMATION
+[Tue Jan 07 15:51:53 2014]  say: hunti/3: IM SCREENSHOTING NOW
+[Tue Jan 07 15:52:16 2014]  say: hunti/3: USE JAWA
+[Tue Jan 07 15:52:21 2014]  say: ^8Lexus: how ?
+[Tue Jan 07 15:52:25 2014]  say: hunti/3: /MODEL JAWA
+[Tue Jan 07 15:52:37 2014]  say: hunti/3: HERE
+[Tue Jan 07 15:52:42 2014]  say: hunti/3: COME
+[Tue Jan 07 15:52:43 2014]  say: hunti/3: HERE
+[Tue Jan 07 15:52:45 2014]  say: hunti/3: BEHIND YOU
+[Tue Jan 07 15:52:45 2014]  say: ^8Lexus: how use animation ?
+[Tue Jan 07 15:52:50 2014]  say: hunti/3: COME TO ME
+[Tue Jan 07 15:52:53 2014]  say: hunti/3: COME
+[Tue Jan 07 15:53:01 2014]  say: hunti/3: COME
+[Tue Jan 07 15:53:04 2014]  say: ^8Lexus: i dont see you
+[Tue Jan 07 15:53:05 2014]  say: hunti/3: IM IN CONTROLL ROM
+[Tue Jan 07 15:53:07 2014]  say: hunti/3: BEHIND
+[Tue Jan 07 15:53:13 2014]  say: hunti/3: IM THE TWILEK LOL
+[Tue Jan 07 15:53:28 2014]  say: hunti/3: COME TO ME
+[Tue Jan 07 15:53:35 2014]  say: hunti/3: COME
+[Tue Jan 07 15:53:36 2014]  say: hunti/3: U CAN JUMP
+[Tue Jan 07 15:53:53 2014]  say: hunti/3: /MSIT
+[Tue Jan 07 15:54:05 2014]  say: hunti/3: XD
+[Tue Jan 07 15:54:17 2014]  say: hunti/3: NOW
+[Tue Jan 07 15:54:19 2014]  say: hunti/3: COME TO ME
+[Tue Jan 07 15:54:36 2014]  say: hunti/3: HERE
+[Tue Jan 07 15:54:55 2014]  say: hunti/3: COME
+[Tue Jan 07 15:54:57 2014]  say: hunti/3: HER
+[Tue Jan 07 15:55:00 2014]  say: hunti/3: NOCLIP
+[Tue Jan 07 15:55:02 2014]  say: hunti/3: NO
+[Tue Jan 07 15:55:03 2014]  say: hunti/3: FIRST
+[Tue Jan 07 15:55:05 2014]  say: hunti/3: /AMSIT
+[Tue Jan 07 15:55:07 2014]  say: hunti/3: AND NEXT NOCLIP
+[Tue Jan 07 15:55:17 2014]  say: hunti/3: /AMSIT3
+[Tue Jan 07 15:55:36 2014]  say: hunti/3: NOCLIP
+[Tue Jan 07 15:55:39 2014]  say: hunti/3: USE NOCLIP
+[Tue Jan 07 15:55:40 2014]  say: hunti/3: AND COME TO ME
+[Tue Jan 07 15:55:49 2014]  say: hunti/3: WTF
+[Tue Jan 07 15:55:53 2014]  say: hunti/3: SIT DOEST WORK?
+[Tue Jan 07 15:56:13 2014]  say: hunti/3: AH
+[Tue Jan 07 15:57:08 2014]  say: ^8Lexus: omg
+[Tue Jan 07 15:57:13 2014]  say: ^8Lexus: i go in swtor
+[Tue Jan 07 15:57:19 2014]  say: hunti/3: NO 
+[Tue Jan 07 15:57:20 2014]  say: hunti/3: COME HERE
+[Tue Jan 07 15:57:21 2014]  say: hunti/3: HURRY
+[Tue Jan 07 15:57:21 2014]  say: hunti/3: HURRY
+[Tue Jan 07 15:57:35 2014]  say: hunti/3: USE
+[Tue Jan 07 15:57:38 2014]  say: hunti/3: /AMHIPS
+[Tue Jan 07 15:57:41 2014]  say: hunti/3: OFF NOCLIP
+[Tue Jan 07 15:57:43 2014]  say: hunti/3: AND USE AMHIPS
+[Tue Jan 07 15:57:52 2014]  say: hunti/3: NOW USE NOCLIP AND COME ME
+[Tue Jan 07 15:57:54 2014]  say: hunti/3: WTF
+[Tue Jan 07 15:58:03 2014]  say: hunti/3: /mHips
+[Tue Jan 07 15:58:38 2014]  say: hunti/3: ok
+[Tue Jan 07 15:58:59 2014]  say: hunti/3: noclip
+[Tue Jan 07 15:59:03 2014]  say: hunti/3: and come me
+[Tue Jan 07 15:59:09 2014]  say: hunti/3: come
+[Tue Jan 07 15:59:15 2014]  say: hunti/3: to me
+[Tue Jan 07 15:59:22 2014]  say: hunti/3: right or left
+[Tue Jan 07 15:59:41 2014]  say: hunti/3: good xd
+[Tue Jan 07 15:59:49 2014]  say: hunti/3: now 
+[Tue Jan 07 15:59:52 2014]  say: hunti/3: lets progenitor
+[Tue Jan 07 15:59:53 2014]  say: hunti/3: jedi
+[Tue Jan 07 15:59:57 2014]  say: ^8Lexus: ok
+[Tue Jan 07 16:00:00 2014]  ClientDisconnect: 1
+[Tue Jan 07 16:00:03 2014]  ClientDisconnect: 0
+[Tue Jan 07 16:26:52 2014]  Exit: Timelimit hit.
+[Tue Jan 07 17:42:38 2014]  ClientConnect: 0
+[Tue Jan 07 17:42:38 2014]  mlog:Player ^1Dekkа^2_^4Fаke, connected. With IP - 194.146.163.238:-30056 
+[Tue Jan 07 17:43:10 2014]  ClientConnect: 1
+[Tue Jan 07 17:43:10 2014]  mlog:Player ^1Dekkа^2_^4Fаke, connected. With IP - 92.243.167.169:26014 
+[Tue Jan 07 17:43:13 2014]  ClientDisconnect: 1
+[Tue Jan 07 17:43:13 2014]  ClientConnect: 1
+[Tue Jan 07 17:43:13 2014]  mlog:Player ^1Dekkа^2_^4Fаke, connected. With IP - 92.243.167.169:26014 
+[Tue Jan 07 17:43:16 2014]  ClientDisconnect: 1
+[Tue Jan 07 17:43:16 2014]  ClientConnect: 1
+[Tue Jan 07 17:43:16 2014]  mlog:Player ^1Dekkа^2_^4Fаke, connected. With IP - 92.243.167.169:26014 
+[Tue Jan 07 17:43:30 2014]  ClientDisconnect: 1
+[Tue Jan 07 17:43:30 2014]  ClientConnect: 1
+[Tue Jan 07 17:43:30 2014]  mlog:Player ^1Dekkа^2_^4Fаke, connected. With IP - 92.243.167.169:26014 
+[Tue Jan 07 17:43:49 2014]  ClientDisconnect: 0
+[Tue Jan 07 17:44:02 2014]  ClientConnect: 0
+[Tue Jan 07 17:44:02 2014]  mlog:Player ^1Dekkа^2_^4Fаke, connected. With IP - 194.146.163.238:-30056 
+[Tue Jan 07 17:44:14 2014]  ClientBegin: 0
+[Tue Jan 07 17:44:31 2014]  ShutdownGame:
+[Tue Jan 07 17:44:31 2014]  ------------------------------------------------------------
+[Tue Jan 07 17:44:32 2014]  ------------------------------------------------------------
+[Tue Jan 07 17:44:32 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 07 17:44:33 2014]  ClientConnect: 0
+[Tue Jan 07 17:44:33 2014]  ClientConnect: 1
+[Tue Jan 07 17:44:54 2014]  ClientBegin: 0
+[Tue Jan 07 17:46:24 2014]  ClientDisconnect: 1
+[Tue Jan 07 17:46:24 2014]  ClientConnect: 1
+[Tue Jan 07 17:46:24 2014]  mlog:Player ^1Dekkа^2_^4Fаke, connected. With IP - 92.243.167.169:26014 
+[Tue Jan 07 17:48:20 2014]  ClientDisconnect: 1
+[Tue Jan 07 17:48:20 2014]  ClientConnect: 1
+[Tue Jan 07 17:48:20 2014]  mlog:Player ^1Dekkа^2_^4Fаke, connected. With IP - 92.243.167.169:26014 
+[Tue Jan 07 17:48:23 2014]  ClientDisconnect: 1
+[Tue Jan 07 17:48:23 2014]  ClientConnect: 1
+[Tue Jan 07 17:48:23 2014]  mlog:Player ^1Dekkа^2_^4Fаke, connected. With IP - 92.243.167.169:26014 
+[Tue Jan 07 17:49:11 2014]  ClientDisconnect: 0
+[Tue Jan 07 17:52:28 2014]  ClientDisconnect: 1
+[Tue Jan 07 18:01:11 2014]  ClientConnect: 0
+[Tue Jan 07 18:01:11 2014]  mlog:Player ^0РаrkQµаkи, connected. With IP - 192.168.1.3:29071 
+[Tue Jan 07 18:01:33 2014]  ClientBegin: 0
+[Tue Jan 07 18:02:01 2014]  Kill: 0 0 36: ^0РаrkQµаkи killed ^0РаrkQµаkи by MOD_CRUSH
+[Tue Jan 07 18:03:09 2014]  Kill: 1022 0 36: <world> killed ^0РаrkQµаkи by MOD_CRUSH
+[Tue Jan 07 18:25:21 2014]  ClientConnect: 1
+[Tue Jan 07 18:25:21 2014]  mlog:Player ^0РаrkQµаkи, connected. With IP - 78.41.5.73:-2674 
+[Tue Jan 07 18:25:46 2014]  ClientBegin: 1
+[Tue Jan 07 18:27:42 2014]  ClientDisconnect: 1
+[Tue Jan 07 18:28:04 2014]  ClientConnect: 1
+[Tue Jan 07 18:28:04 2014]  mlog:Player ^0РаrkQµаkи, connected. With IP - 78.41.5.73:-2674 
+[Tue Jan 07 18:28:10 2014]  ClientBegin: 1
+[Tue Jan 07 18:28:51 2014]  ClientDisconnect: 1
+[Tue Jan 07 18:29:11 2014]  ClientConnect: 1
+[Tue Jan 07 18:29:11 2014]  mlog:Player ^0РаrkQµаkи, connected. With IP - 78.41.5.73:-2674 
+[Tue Jan 07 18:29:17 2014]  ClientBegin: 1
+[Tue Jan 07 18:30:48 2014]  ClientDisconnect: 1
+[Tue Jan 07 18:31:15 2014]  ClientConnect: 1
+[Tue Jan 07 18:31:15 2014]  mlog:Player ^0РаrkQµаkи, connected. With IP - 78.41.5.73:-2674 
+[Tue Jan 07 18:31:22 2014]  ClientBegin: 1
+[Tue Jan 07 18:31:42 2014]  ClientDisconnect: 1
+[Tue Jan 07 18:32:04 2014]  ClientConnect: 1
+[Tue Jan 07 18:32:04 2014]  mlog:Player ^0РаrkQµаkи, connected. With IP - 78.41.5.73:-2674 
+[Tue Jan 07 18:32:10 2014]  ClientBegin: 1
+[Tue Jan 07 18:32:41 2014]  ClientDisconnect: 1
+[Tue Jan 07 18:40:25 2014]  ClientConnect: 1
+[Tue Jan 07 18:40:25 2014]  mlog:Player ^0РаrkQµаkи, connected. With IP - 78.41.5.73:-2674 
+[Tue Jan 07 18:40:45 2014]  ClientBegin: 1
+[Tue Jan 07 18:43:33 2014]  Kill: 0 1 36: ^0РаrkQµаkи killed ^0РаrkQµаkи by MOD_CRUSH
+[Tue Jan 07 18:44:37 2014]  ShutdownGame:
+[Tue Jan 07 18:44:37 2014]  ------------------------------------------------------------
+[Tue Jan 07 18:45:03 2014]  ------------------------------------------------------------
+[Tue Jan 07 18:45:03 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 07 18:45:28 2014]  ClientConnect: 0
+[Tue Jan 07 18:45:28 2014]  mlog:Player ^0РаrkQµаkи, connected. With IP - 192.168.1.3:29071 
+[Tue Jan 07 18:45:30 2014]  ClientConnect: 1
+[Tue Jan 07 18:45:30 2014]  mlog:Player ^0РаrkQµаkи, connected. With IP - 78.41.5.73:-2674 
+[Tue Jan 07 18:45:48 2014]  ClientBegin: 0
+[Tue Jan 07 18:45:50 2014]  ClientBegin: 1
+[Tue Jan 07 18:50:54 2014]  Kill: 1 0 3: ^0РаrkQµаkи killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 18:51:31 2014]  print "^0РаrkQµаkи^7 @@@PLRENAME Padawan
+"[Tue Jan 07 18:52:08 2014]  print "Padawan^7 @@@PLRENAME InnocentMan
+"[Tue Jan 07 18:56:58 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 18:57:14 2014]  Kill: 0 1 0: ^0РаrkQµаkи killed InnocentMan by MOD_UNKNOWN
+[Tue Jan 07 18:57:26 2014]  Kill: 0 1 36: ^0РаrkQµаkи killed InnocentMan by MOD_CRUSH
+[Tue Jan 07 18:58:45 2014]  Kill: 0 0 36: ^0РаrkQµаkи killed ^0РаrkQµаkи by MOD_CRUSH
+[Tue Jan 07 18:58:45 2014]  Kill: 0 1 36: ^0РаrkQµаkи killed InnocentMan by MOD_CRUSH
+[Tue Jan 07 18:59:04 2014]  say: InnocentMan: mslay rkQk
+[Tue Jan 07 18:59:12 2014]  say: InnocentMan: mslay rkQk
+[Tue Jan 07 18:59:23 2014]  say: InnocentMan: mslayrkQk
+[Tue Jan 07 18:59:46 2014]  say: InnocentMan: mslay rkQk
+[Tue Jan 07 18:59:57 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:00:20 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:00:31 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:00:53 2014]  Kill: 1022 0 36: <world> killed ^0РаrkQµаkи by MOD_CRUSH
+[Tue Jan 07 19:00:53 2014]  Kill: 1022 1 36: <world> killed InnocentMan by MOD_CRUSH
+[Tue Jan 07 19:00:55 2014]  Kill: 1 0 37: InnocentMan killed ^0РаrkQµаkи by MOD_TELEFRAG
+[Tue Jan 07 19:01:06 2014]  Kill: 1022 1 36: <world> killed InnocentMan by MOD_CRUSH
+[Tue Jan 07 19:01:15 2014]  Kill: 1022 1 36: <world> killed InnocentMan by MOD_CRUSH
+[Tue Jan 07 19:01:20 2014]  Kill: 1022 1 36: <world> killed InnocentMan by MOD_CRUSH
+[Tue Jan 07 19:02:23 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:02:34 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:03:24 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:03:41 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:04:00 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:04:32 2014]  Kill: 0 1 31: ^0РаrkQµаkи killed InnocentMan by MOD_FORCE_DARK
+[Tue Jan 07 19:05:01 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:05:43 2014]  Kill: 0 1 0: ^0РаrkQµаkи killed InnocentMan by MOD_UNKNOWN
+[Tue Jan 07 19:05:48 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:06:13 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:06:20 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:06:24 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:06:54 2014]  Kill: 1022 0 38: <world> killed ^0РаrkQµаkи by MOD_FALLING
+[Tue Jan 07 19:07:17 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:07:29 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:07:41 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:07:59 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:08:14 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:08:41 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:08:49 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:09:04 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:09:14 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:09:35 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:10:18 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:10:29 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:11:28 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:12:03 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:12:18 2014]  Kill: 0 0 39: ^0РаrkQµаkи killed ^0РаrkQµаkи by MOD_SUICIDE
+[Tue Jan 07 19:12:34 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:12:42 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:12:57 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:13:03 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:13:29 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:13:36 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:14:13 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:14:27 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:15:33 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:16:11 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:16:17 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:16:34 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:16:40 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:16:54 2014]  Kill: 0 1 0: ^0РаrkQµаkи killed InnocentMan by MOD_UNKNOWN
+[Tue Jan 07 19:16:54 2014]  Kill: 0 0 36: ^0РаrkQµаkи killed ^0РаrkQµаkи by MOD_CRUSH
+[Tue Jan 07 19:17:17 2014]  Kill: 0 1 0: ^0РаrkQµаkи killed InnocentMan by MOD_UNKNOWN
+[Tue Jan 07 19:17:24 2014]  Kill: 0 1 36: ^0РаrkQµаkи killed InnocentMan by MOD_CRUSH
+[Tue Jan 07 19:17:40 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:18:04 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:18:52 2014]  Kill: 0 1 0: ^0РаrkQµаkи killed InnocentMan by MOD_UNKNOWN
+[Tue Jan 07 19:19:23 2014]  Kill: 0 0 36: ^0РаrkQµаkи killed ^0РаrkQµаkи by MOD_CRUSH
+[Tue Jan 07 19:20:32 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:20:54 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:21:19 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:21:46 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:22:11 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:22:43 2014]  Kill: 0 0 39: ^0РаrkQµаkи killed ^0РаrkQµаkи by MOD_SUICIDE
+[Tue Jan 07 19:23:01 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:23:15 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:23:22 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:23:35 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:23:57 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:24:18 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:24:39 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:24:50 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:25:20 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:28:47 2014]  Kill: 0 1 28: ^0РаrkQµаkи killed InnocentMan by MOD_VEHICLE
+[Tue Jan 07 19:29:12 2014]  Kill: 0 1 2: ^0РаrkQµаkи killed InnocentMan by MOD_MELEE
+[Tue Jan 07 19:29:17 2014]  Kill: 1022 0 6: <world> killed ^0РаrkQµаkи by MOD_BLASTER
+[Tue Jan 07 19:29:37 2014]  Kill: 1022 1 39: <world> killed InnocentMan by MOD_SUICIDE
+[Tue Jan 07 19:30:33 2014]  Kill: 1022 0 6: <world> killed ^0РаrkQµаkи by MOD_BLASTER
+[Tue Jan 07 19:30:53 2014]  Kill: 1022 1 6: <world> killed InnocentMan by MOD_BLASTER
+[Tue Jan 07 19:31:04 2014]  Kill: 1022 0 6: <world> killed ^0РаrkQµаkи by MOD_BLASTER
+[Tue Jan 07 19:31:39 2014]  Kill: 1022 1 6: <world> killed InnocentMan by MOD_BLASTER
+[Tue Jan 07 19:31:43 2014]  Kill: 1022 0 6: <world> killed ^0РаrkQµаkи by MOD_BLASTER
+[Tue Jan 07 19:31:57 2014]  Kill: 1022 1 2: <world> killed InnocentMan by MOD_MELEE
+[Tue Jan 07 19:32:15 2014]  Kill: 1022 1 6: <world> killed InnocentMan by MOD_BLASTER
+[Tue Jan 07 19:32:24 2014]  Kill: 0 1 2: ^0РаrkQµаkи killed InnocentMan by MOD_MELEE
+[Tue Jan 07 19:32:29 2014]  Kill: 1022 0 6: <world> killed ^0РаrkQµаkи by MOD_BLASTER
+[Tue Jan 07 19:32:36 2014]  Kill: 1022 0 2: <world> killed ^0РаrkQµаkи by MOD_MELEE
+[Tue Jan 07 19:33:09 2014]  Kill: 1022 1 6: <world> killed InnocentMan by MOD_BLASTER
+[Tue Jan 07 19:33:29 2014]  Kill: 1022 1 6: <world> killed InnocentMan by MOD_BLASTER
+[Tue Jan 07 19:34:05 2014]  Kill: 1022 0 6: <world> killed ^0РаrkQµаkи by MOD_BLASTER
+[Tue Jan 07 19:34:21 2014]  Kill: 1022 1 39: <world> killed InnocentMan by MOD_SUICIDE
+[Tue Jan 07 19:34:47 2014]  Kill: 1022 1 6: <world> killed InnocentMan by MOD_BLASTER
+[Tue Jan 07 19:34:54 2014]  Kill: 1022 0 6: <world> killed ^0РаrkQµаkи by MOD_BLASTER
+[Tue Jan 07 19:35:18 2014]  Kill: 1022 1 6: <world> killed InnocentMan by MOD_BLASTER
+[Tue Jan 07 19:35:25 2014]  Kill: 1022 0 6: <world> killed ^0РаrkQµаkи by MOD_BLASTER
+[Tue Jan 07 19:36:34 2014]  Kill: 1022 1 6: <world> killed InnocentMan by MOD_BLASTER
+[Tue Jan 07 19:36:51 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:37:03 2014]  Kill: 1 0 3: InnocentMan killed ^0РаrkQµаkи by MOD_SABER
+[Tue Jan 07 19:37:26 2014]  Kill: 0 1 3: ^0РаrkQµаkи killed InnocentMan by MOD_SABER
+[Tue Jan 07 19:37:59 2014]  Kill: 1022 1 6: <world> killed InnocentMan by MOD_BLASTER
+[Tue Jan 07 19:38:14 2014]  Kill: 1022 1 38: <world> killed InnocentMan by MOD_FALLING
+[Tue Jan 07 19:39:10 2014]  Kill: 1022 0 6: <world> killed ^0РаrkQµаkи by MOD_BLASTER
+[Tue Jan 07 19:40:00 2014]  Kill: 1022 0 6: <world> killed ^0РаrkQµаkи by MOD_BLASTER
+[Tue Jan 07 19:41:01 2014]  say: InnocentMan: npc spawn vehicle tie-fighter
+[Tue Jan 07 19:41:10 2014]  Kill: 1022 0 6: <world> killed ^0РаrkQµаkи by MOD_BLASTER
+[Tue Jan 07 19:41:28 2014]  Kill: 1022 0 2: <world> killed ^0РаrkQµаkи by MOD_MELEE
+[Tue Jan 07 19:42:22 2014]  Kill: 1 0 39: InnocentMan killed ^0РаrkQµаkи by MOD_SUICIDE
+[Tue Jan 07 19:42:22 2014]  Kill: 0 1 6: ^0РаrkQµаkи killed InnocentMan by MOD_BLASTER
+[Tue Jan 07 19:42:58 2014]  Kill: 1 0 6: InnocentMan killed ^0РаrkQµаkи by MOD_BLASTER
+[Tue Jan 07 19:45:28 2014]  Kill: 1022 0 38: <world> killed ^0РаrkQµаkи by MOD_FALLING
+[Tue Jan 07 19:46:55 2014]  Kill: 1022 0 36: <world> killed ^0РаrkQµаkи by MOD_CRUSH
+[Tue Jan 07 19:49:12 2014]  ClientDisconnect: 0
+[Tue Jan 07 19:51:17 2014]  ClientDisconnect: 1
+[Tue Jan 07 19:52:57 2014]  ClientConnect: 0
+[Tue Jan 07 19:52:57 2014]  mlog:Player Anonymous, connected. With IP - 80.13.23.163:29070 
+[Tue Jan 07 19:53:04 2014]  ClientDisconnect: 0
+[Tue Jan 07 20:44:56 2014]  Exit: Timelimit hit.
+[Tue Jan 07 21:46:55 2014]  ClientConnect: 0
+[Tue Jan 07 21:46:55 2014]  mlog:Player ^2N^5ewcomer, connected. With IP - 37.204.223.2:29070 
+[Tue Jan 07 21:47:42 2014]  ClientBegin: 0
+[Tue Jan 07 21:49:33 2014]  ShutdownGame:
+[Tue Jan 07 21:49:33 2014]  ------------------------------------------------------------
+[Tue Jan 07 21:49:34 2014]  ------------------------------------------------------------
+[Tue Jan 07 21:49:34 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 07 21:49:34 2014]  ClientConnect: 0
+[Tue Jan 07 21:49:51 2014]  ClientBegin: 0
+[Tue Jan 07 21:51:54 2014]  ClientConnect: 1
+[Tue Jan 07 21:51:54 2014]  mlog:Player ^4Sшnic_xx*I**, connected. With IP - 95.164.13.131:29070 
+[Tue Jan 07 21:52:30 2014]  ClientBegin: 1
+[Tue Jan 07 21:52:40 2014]  say: r@ven: привет)
+[Tue Jan 07 21:52:46 2014]  Kill: 1 1 39: r@ven killed r@ven by MOD_SUICIDE
+[Tue Jan 07 21:52:46 2014]  setteam:  1 FREE SPECTATOR
+[Tue Jan 07 21:52:46 2014]  ClientBegin: 1
+[Tue Jan 07 21:52:53 2014]  setteam:  1 SPECTATOR FREE
+[Tue Jan 07 21:52:53 2014]  ClientBegin: 1
+[Tue Jan 07 21:53:02 2014]  Kill: 1 0 3: r@ven killed ^2N^5ewcomer by MOD_SABER
+[Tue Jan 07 21:53:03 2014]  say: r@ven: ^2^7^2N^5ewcomer,^3 It wasn't so simple, ^6and still easily
+[Tue Jan 07 21:53:24 2014]  say: ^2N^5ewcomer: привет)
+[Tue Jan 07 21:53:29 2014]  say: r@ven: Я Соник
+[Tue Jan 07 21:53:30 2014]  Item: 0 weapon_melee
+[Tue Jan 07 21:53:51 2014]  say: ^2N^5ewcomer: оно и понятно) Дима, да?..
+[Tue Jan 07 21:53:55 2014]  say: r@ven: да
+[Tue Jan 07 21:54:10 2014]  Kill: 0 0 39: ^2N^5ewcomer killed ^2N^5ewcomer by MOD_SUICIDE
+[Tue Jan 07 21:54:10 2014]  setteam:  0 FREE SPECTATOR
+[Tue Jan 07 21:54:10 2014]  ClientBegin: 0
+[Tue Jan 07 21:54:16 2014]  setteam:  0 SPECTATOR FREE
+[Tue Jan 07 21:54:16 2014]  ClientBegin: 0
+[Tue Jan 07 21:54:26 2014]  Item: 0 weapon_melee
+[Tue Jan 07 21:54:46 2014]  say: r@ven: сравнфлаг надо сменить
+[Tue Jan 07 21:55:32 2014]  say: r@ven: твой сервер?
+[Tue Jan 07 21:55:36 2014]  say: ^2N^5ewcomer: неа)
+[Tue Jan 07 21:55:40 2014]  say: r@ven: о
+[Tue Jan 07 21:55:40 2014]  say: ^2N^5ewcomer: даркквейка
+[Tue Jan 07 21:55:46 2014]  say: r@ven: русский?
+[Tue Jan 07 21:55:52 2014]  say: ^2N^5ewcomer: он нет
+[Tue Jan 07 21:56:03 2014]  say: r@ven: а чего ты на этом а не на фуриуса?
+[Tue Jan 07 21:56:19 2014]  say: ^2N^5ewcomer: а фура спит, его серв вместе с ним
+[Tue Jan 07 21:56:24 2014]  say: r@ven: ахах
+[Tue Jan 07 21:56:29 2014]  say: ^2N^5ewcomer: а свой мне лень включать)
+[Tue Jan 07 21:56:35 2014]  Kill: 0 1 36: ^2N^5ewcomer killed r@ven by MOD_CRUSH
+[Tue Jan 07 21:56:35 2014]  say: r@ven: ^2^7^2N^5ewcomer, ^0Cant be tamed.^2stop to kill me, you do me ^1angry
+[Tue Jan 07 21:56:41 2014]  say: r@ven: а у меня свой лугор есть
+[Tue Jan 07 21:56:49 2014]  say: ^2N^5ewcomer: а мне пофиг xD
+[Tue Jan 07 21:56:55 2014]  say: r@ven: взаимно)
+[Tue Jan 07 21:56:57 2014]  say: ^2N^5ewcomer: My origin is: (-8320 -1154 -231) - You can teleport here with /mtelelast
+
+[Tue Jan 07 21:56:57 2014]  say: r@ven: XD
+[Tue Jan 07 21:57:18 2014]  say: ^2N^5ewcomer: зацени, я скрипт написал)
+[Tue Jan 07 21:57:37 2014]  say: r@ven: уго,как ты его сделал?
+[Tue Jan 07 21:57:49 2014]  say: ^2N^5ewcomer: ну обычный скрипт мейкермода)
+[Tue Jan 07 21:57:53 2014]  say: r@ven: xD
+[Tue Jan 07 21:58:09 2014]  say: r@ven: лол
+[Tue Jan 07 21:58:29 2014]  say: r@ven: мне кажется или Соник (тоесть) самый известный
+[Tue Jan 07 21:58:30 2014]  Kill: 0 1 36: ^2N^5ewcomer killed r@ven by MOD_CRUSH
+[Tue Jan 07 21:58:31 2014]  say: r@ven: ^2^7^2N^5ewcomer, ^0Cant be tamed.^2stop to kill me, you do me ^1angry
+[Tue Jan 07 21:58:35 2014]  say: r@ven: Я
+[Tue Jan 07 21:58:39 2014]  say: r@ven: тоесть Я*
+[Tue Jan 07 21:58:47 2014]  say: ^2N^5ewcomer: тебе кажется)
+[Tue Jan 07 21:59:06 2014]  say: r@ven: нее,куда не захожу,меня везде знают,и знают как зовут
+[Tue Jan 07 21:59:20 2014]  say: r@ven: америкошки меня то все знают,а русский может быть не все
+[Tue Jan 07 21:59:27 2014]  say: r@ven: русские*
+[Tue Jan 07 21:59:36 2014]  say: ^2N^5ewcomer: это называется эгоцентричность, она в таком возрасте у всех) у меня до сих пор не до конца прошла
+[Tue Jan 07 21:59:44 2014]  say: ^2N^5ewcomer: xD
+[Tue Jan 07 21:59:48 2014]  say: r@ven: ты знаешь сколько мне7
+[Tue Jan 07 21:59:49 2014]  say: r@ven: ?
+[Tue Jan 07 21:59:58 2014]  say: ^2N^5ewcomer: ну да
+[Tue Jan 07 22:00:01 2014]  say: ^2N^5ewcomer: примерно
+[Tue Jan 07 22:00:03 2014]  say: r@ven: сколько?
+[Tue Jan 07 22:00:22 2014]  say: ^2N^5ewcomer: где-то 12-14, может 16
+[Tue Jan 07 22:00:27 2014]  say: r@ven: не
+[Tue Jan 07 22:00:27 2014]  say: ^2N^5ewcomer: примерно
+[Tue Jan 07 22:00:32 2014]  say: r@ven: почти 14
+[Tue Jan 07 22:00:37 2014]  say: ^2N^5ewcomer: ну вот)
+[Tue Jan 07 22:00:37 2014]  say: r@ven: ^_^
+[Tue Jan 07 22:00:39 2014]  say: r@ven: а тебе?
+[Tue Jan 07 22:00:43 2014]  say: ^2N^5ewcomer: 18)
+[Tue Jan 07 22:00:47 2014]  say: r@ven: ОГОЪ
+[Tue Jan 07 22:00:49 2014]  say: r@ven: ОГО*
+[Tue Jan 07 22:00:56 2014]  say: ^2N^5ewcomer: xD
+[Tue Jan 07 22:00:57 2014]  say: r@ven: и ты еще играешь в эту игру?
+[Tue Jan 07 22:01:10 2014]  say: ^2N^5ewcomer: в jka?..
+[Tue Jan 07 22:01:12 2014]  say: r@ven: лол,у нас америкошки играют там моих сервак до 50 лет
+[Tue Jan 07 22:01:20 2014]  say: r@ven: серверах
+[Tue Jan 07 22:01:30 2014]  say: r@ven: там есть и по 25 и по 48
+[Tue Jan 07 22:01:52 2014]  say: r@ven: Я не пойму,мой стаж в игре 1 год,а Я сильнее тех.кому за 6 стаж
+[Tue Jan 07 22:02:01 2014]  say: ^2N^5ewcomer: погоди, у тебя год рождения 2000?)
+[Tue Jan 07 22:02:05 2014]  say: r@ven: да
+[Tue Jan 07 22:02:07 2014]  say: ^2N^5ewcomer: не от стажа зависит)
+[Tue Jan 07 22:02:33 2014]  say: r@ven: хотя многие больше меня наверное играют...
+[Tue Jan 07 22:02:38 2014]  say: ^2N^5ewcomer: у меня 96, ну считай, тоже родился в XX веке) можешь гордиться xD
+[Tue Jan 07 22:02:47 2014]  say: r@ven: Я просто учусь на чужих ошибках (по приемам)
+[Tue Jan 07 22:03:18 2014]  say: ^2N^5ewcomer: а я вот нифига не умею) зато умею в мейкермоде, я в принципе только за этим в мультиплеере
+[Tue Jan 07 22:03:31 2014]  say: r@ven: Я хорошо владею стафом)
+[Tue Jan 07 22:03:31 2014]  say: ^2N^5ewcomer: в сингле умею непдохо
+[Tue Jan 07 22:04:07 2014]  say: r@ven: постой,стаф возьму
+[Tue Jan 07 22:04:10 2014]  Kill: 1 1 39: r@ven killed r@ven by MOD_SUICIDE
+[Tue Jan 07 22:04:21 2014]  say: r@ven: ^7Good luck, ^2^7^2N^5ewcomer, ^7may the force be with you
+[Tue Jan 07 22:04:27 2014]  Kill: 1 0 3: r@ven killed ^2N^5ewcomer by MOD_SABER
+[Tue Jan 07 22:04:27 2014]  say: r@ven: ^7Good Fight, ^2^7^2N^5ewcomer, ^7but you're no match for me
+[Tue Jan 07 22:04:41 2014]  say: ^2N^5ewcomer: блин, у меня игра заглючила)
+[Tue Jan 07 22:04:46 2014]  say: r@ven: ^7Good luck, ^2^7^2N^5ewcomer, ^7may the force be with you
+[Tue Jan 07 22:05:06 2014]  Kill: 1 0 3: r@ven killed ^2N^5ewcomer by MOD_SABER
+[Tue Jan 07 22:05:07 2014]  say: r@ven: ^7Good Fight, ^2^7^2N^5ewcomer, ^7but you're no match for me
+[Tue Jan 07 22:05:19 2014]  say: ^2N^5ewcomer: xD
+[Tue Jan 07 22:05:52 2014]  Item: 0 weapon_melee
+[Tue Jan 07 22:06:08 2014]  say: ^2N^5ewcomer: го внизу попробуем)
+[Tue Jan 07 22:06:10 2014]  say: r@ven: а сколько фуре лет? 18 или 18
+[Tue Jan 07 22:06:15 2014]  say: r@ven: 16 или 18
+[Tue Jan 07 22:06:17 2014]  say: ^2N^5ewcomer: больше
+[Tue Jan 07 22:06:21 2014]  say: r@ven: 54
+[Tue Jan 07 22:06:27 2014]  say: r@ven: xD
+[Tue Jan 07 22:06:27 2014]  say: ^2N^5ewcomer: xD меньше
+[Tue Jan 07 22:06:34 2014]  say: r@ven: 53 с половиной
+[Tue Jan 07 22:06:42 2014]  say: ^2N^5ewcomer: неа)
+[Tue Jan 07 22:06:45 2014]  say: r@ven: 20
+[Tue Jan 07 22:07:01 2014]  say: ^2N^5ewcomer: ну сам у него и спроси) мне сложно ответить точно
+[Tue Jan 07 22:07:05 2014]  say: r@ven: 19
+[Tue Jan 07 22:07:23 2014]  say: r@ven: может 25
+[Tue Jan 07 22:07:28 2014]  say: r@ven: 24
+[Tue Jan 07 22:07:30 2014]  say: r@ven: ...
+[Tue Jan 07 22:08:25 2014]  say: ^2N^5ewcomer: блин, квейк половину ремапа у фуры стащил xD
+[Tue Jan 07 22:08:36 2014]  say: r@ven: :D
+[Tue Jan 07 22:08:59 2014]  say: r@ven: а ты Дмитрий Мирошниченко так ведь?
+[Tue Jan 07 22:09:04 2014]  say: ^2N^5ewcomer: ага
+[Tue Jan 07 22:09:14 2014]  say: r@ven: то у меня есть 2 таких
+[Tue Jan 07 22:09:43 2014]  say: r@ven: ты тут еще на долго?
+[Tue Jan 07 22:09:57 2014]  say: ^2N^5ewcomer: не знаю)
+[Tue Jan 07 22:10:09 2014]  say: r@ven: а давай может быть ты перейдешь на лугормод?Я тебя обучу как регаться,прокачивать силы
+[Tue Jan 07 22:10:27 2014]  say: ^2N^5ewcomer: неа xD если и на лугор, то тока админом)))
+[Tue Jan 07 22:10:43 2014]  say: r@ven: ну ты даже не знаешь на лугоре не 1 админской команды)
+[Tue Jan 07 22:10:46 2014]  say: ^2N^5ewcomer: остальное мне не особо интересно)
+[Tue Jan 07 22:10:50 2014]  say: ^2N^5ewcomer: знаю)
+[Tue Jan 07 22:10:55 2014]  say: ^2N^5ewcomer: place xD
+[Tue Jan 07 22:10:56 2014]  say: r@ven: ну 3 назови
+[Tue Jan 07 22:11:05 2014]  say: ^2N^5ewcomer: ты одну спросил)
+[Tue Jan 07 22:11:14 2014]  say: r@ven: -_- /place 
+[Tue Jan 07 22:11:25 2014]  say: ^2N^5ewcomer: да пофиг
+[Tue Jan 07 22:11:36 2014]  say: r@ven:  и ты не знаешь как банить...
+[Tue Jan 07 22:11:41 2014]  say: r@ven: как издиваться
+[Tue Jan 07 22:11:41 2014]  say: ^2N^5ewcomer: в openjk, например, без слыша все команды
+[Tue Jan 07 22:11:50 2014]  say: ^2N^5ewcomer: xDD
+[Tue Jan 07 22:12:10 2014]  say: ^2N^5ewcomer: не бойся, я в мейкере самостоятельно разобрался)
+[Tue Jan 07 22:12:13 2014]  say: ^2N^5ewcomer: почти
+[Tue Jan 07 22:12:23 2014]  say: r@ven: та Я не боюсь
+[Tue Jan 07 22:13:07 2014]  say: r@ven: с зади
+[Tue Jan 07 22:13:13 2014]  say: r@ven: та не с верху
+[Tue Jan 07 22:13:35 2014]  Kill: 0 1 36: ^2N^5ewcomer killed r@ven by MOD_CRUSH
+[Tue Jan 07 22:13:36 2014]  say: r@ven: ^2^7^2N^5ewcomer, ^0Cant be tamed.^2stop to kill me, you do me ^1angry
+[Tue Jan 07 22:13:43 2014]  say: r@ven: ладно бб
+[Tue Jan 07 22:13:52 2014]  say: ^2N^5ewcomer: погоди)
+[Tue Jan 07 22:13:55 2014]  say: r@ven: ?
+[Tue Jan 07 22:13:58 2014]  say: ^2N^5ewcomer: спросить хотел
+[Tue Jan 07 22:14:27 2014]  say: ^2N^5ewcomer: на каком уровне ты инглиш знаешь?)
+[Tue Jan 07 22:14:34 2014]  say: ^2N^5ewcomer: чисто из любопытства
+[Tue Jan 07 22:14:47 2014]  say: r@ven: ну судя по 5 уровням енглиша,думаю знаю на 2,8
+[Tue Jan 07 22:14:58 2014]  say: r@ven: грубо говоря на 3
+[Tue Jan 07 22:15:09 2014]  say: ^2N^5ewcomer: ни о чем не говорит
+[Tue Jan 07 22:15:14 2014]  say: r@ven: а по 5-бальной системе на 4
+[Tue Jan 07 22:15:18 2014]  say: ^2N^5ewcomer: do you understand me?..
+[Tue Jan 07 22:15:21 2014]  say: r@ven: sure
+[Tue Jan 07 22:15:42 2014]  say: ^2N^5ewcomer: ну трудности возникают при общении?)
+[Tue Jan 07 22:15:46 2014]  say: r@ven: иногда
+[Tue Jan 07 22:16:08 2014]  say: r@ven: are u going to the home?
+[Tue Jan 07 22:16:17 2014]  say: ^2N^5ewcomer: no)
+[Tue Jan 07 22:16:20 2014]  say: r@ven: )
+[Tue Jan 07 22:16:26 2014]  say: ^2N^5ewcomer: понятно)
+[Tue Jan 07 22:16:32 2014]  say: r@ven: а зачем ты это спросил?
+[Tue Jan 07 22:16:43 2014]  say: ^2N^5ewcomer: да не, мне просто интересно)
+[Tue Jan 07 22:16:49 2014]  say: r@ven: ладно бб
+[Tue Jan 07 22:16:56 2014]  say: ^2N^5ewcomer: пока, удачи)
+[Tue Jan 07 22:17:03 2014]  say: r@ven: спс)взаинмо
+[Tue Jan 07 22:17:05 2014]  ClientDisconnect: 1
+[Tue Jan 07 23:10:56 2014]  ClientConnect: 1
+[Tue Jan 07 23:10:56 2014]  mlog:Player Padawan, connected. With IP - 81.84.21.230:29070 
+[Tue Jan 07 23:11:09 2014]  ClientBegin: 1
+[Tue Jan 07 23:14:25 2014]  say: ^1P^4etz^1I: hi
+[Tue Jan 07 23:15:27 2014]  say: ^2N^5ewcomer: hi)
+[Tue Jan 07 23:15:42 2014]  say: ^1P^4etz^1I: buildin' anything?
+[Tue Jan 07 23:20:09 2014]  say: ^1P^4etz^1I: kill the lights, man >.<
+[Tue Jan 07 23:20:50 2014]  say: ^1P^4etz^1I: XD
+[Tue Jan 07 23:20:58 2014]  say: ^1P^4etz^1I: nice
+[Tue Jan 07 23:21:13 2014]  say: ^2N^5ewcomer: breakable xD
+[Tue Jan 07 23:21:28 2014]  say: ^1P^4etz^1I: I used to play this a LOT
+[Tue Jan 07 23:21:44 2014]  say: ^1P^4etz^1I: but the main test server died off so I lost all my saves =(
+[Tue Jan 07 23:22:00 2014]  say: ^1P^4etz^1I: quite tragic
+[Tue Jan 07 23:22:08 2014]  say: ^2N^5ewcomer: yes((
+[Tue Jan 07 23:23:27 2014]  say: ^1P^4etz^1I: lets make a jump ride
+[Tue Jan 07 23:23:32 2014]  say: ^1P^4etz^1I: ever made a jump ride?
+[Tue Jan 07 23:23:50 2014]  say: ^1P^4etz^1I: the other area is bigger, though
+[Tue Jan 07 23:25:04 2014]  say: ^1P^4etz^1I: I once made a ladder with these, it was pretty cool
+[Tue Jan 07 23:27:05 2014]  say: ^1P^4etz^1I: do you know how to get a list of special items?
+[Tue Jan 07 23:27:08 2014]  say: ^1P^4etz^1I: I forgot the command
+[Tue Jan 07 23:27:12 2014]  say: ^2N^5ewcomer: mlistso)
+[Tue Jan 07 23:27:18 2014]  say: ^1P^4etz^1I: ty
+[Tue Jan 07 23:27:58 2014]  Item: 1 ammo_detpack
+[Tue Jan 07 23:28:59 2014]  say: ^1P^4etz^1I: check this out
+[Tue Jan 07 23:29:04 2014]  say: ^1P^4etz^1I: give yourself 0 armor
+[Tue Jan 07 23:29:21 2014]  say: ^1P^4etz^1I: now break the platform
+[Tue Jan 07 23:29:55 2014]  say: ^1P^4etz^1I: did it work?
+[Tue Jan 07 23:30:20 2014]  say: ^1P^4etz^1I: it just gives you a little bit
+[Tue Jan 07 23:30:27 2014]  say: ^1P^4etz^1I: but I think you can connect it to other items
+[Tue Jan 07 23:30:41 2014]  Item: 1 item_shield_lrg_instant
+[Tue Jan 07 23:31:12 2014]  Item: 1 item_shield_lrg_instant
+[Tue Jan 07 23:32:38 2014]  say: ^1P^4etz^1I: man, this requires a lot of patience >.<
+[Tue Jan 07 23:33:28 2014]  Item: 1 item_shield_lrg_instant
+[Tue Jan 07 23:33:39 2014]  say: ^1P^4etz^1I: I remember you could do something like this
+[Tue Jan 07 23:33:45 2014]  say: ^1P^4etz^1I: connect a breakable to an item
+[Tue Jan 07 23:33:48 2014]  Item: 1 ammo_metallic_bolts
+[Tue Jan 07 23:35:22 2014]  Item: 1 item_shield_lrg_instant
+[Tue Jan 07 23:35:24 2014]  Kill: 0 0 39: ^2N^5ewcomer killed ^2N^5ewcomer by MOD_SUICIDE
+[Tue Jan 07 23:35:28 2014]  Item: 0 weapon_melee
+[Tue Jan 07 23:36:29 2014]  Item: 1 item_shield_lrg_instant
+[Tue Jan 07 23:37:45 2014]  say: ^1P^4etz^1I: ^1IMMA FIRIN' MAH LAZER
+[Tue Jan 07 23:37:45 2014]  say: ^1P^4etz^1I: ^7SHOOP DA WHOOP!
+[Tue Jan 07 23:47:33 2014]  Item: 1 item_medpak_instant
+[Tue Jan 07 23:49:33 2014]  Exit: Timelimit hit.
+[Tue Jan 07 23:49:33 2014]  score: 3  ping: 353  client: 0 ^2N^5ewcomer
+[Tue Jan 07 23:49:33 2014]  score: 0  ping: 333  client: 1 ^1P^4etz^1I
+[Tue Jan 07 23:49:39 2014]  ShutdownGame:
+[Tue Jan 07 23:49:39 2014]  ------------------------------------------------------------
+[Tue Jan 07 23:49:39 2014]  ------------------------------------------------------------
+[Tue Jan 07 23:49:39 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Jan 07 23:49:41 2014]  ClientConnect: 0
+[Tue Jan 07 23:49:41 2014]  ClientConnect: 1
+[Tue Jan 07 23:49:51 2014]  ClientBegin: 1
+[Tue Jan 07 23:49:53 2014]  ClientBegin: 0
+[Tue Jan 07 23:50:57 2014]  Item: 0 weapon_melee
+[Tue Jan 07 23:50:59 2014]  say: ^1P^4etz^1I: don't you just hate it when admins fill their free-build maps with their own stuff? <.<
+[Tue Jan 07 23:51:23 2014]  say: ^1P^4etz^1I: not to mention these ugly textures
+[Tue Jan 07 23:51:48 2014]  say: ^1P^4etz^1I: a makermod server should be a blank canvas
+[Tue Jan 07 23:53:16 2014]  Item: 1 weapon_blaster
+[Tue Jan 07 23:55:19 2014]  Item: 1 ammo_thermal
+[Tue Jan 07 23:56:19 2014]  Item: 1 item_medpak_instant
+[Wed Jan 08 00:02:53 2014]  Item: 1 item_medpak_instant
+[Wed Jan 08 00:07:27 2014]  Kill: 1 1 39: ^1P^4etz^1I killed ^1P^4etz^1I by MOD_SUICIDE
+[Wed Jan 08 00:08:04 2014]  say: ^1P^4etz^1I: bye
+[Wed Jan 08 00:08:08 2014]  ClientDisconnect: 1
+[Wed Jan 08 00:18:09 2014]  ClientDisconnect: 0
+[Wed Jan 08 01:49:38 2014]  Exit: Timelimit hit.
+[Wed Jan 08 02:38:45 2014]  ClientConnect: 0
+[Wed Jan 08 02:38:45 2014]  mlog:Player Padawan, connected. With IP - 68.174.18.119:29070 
+[Wed Jan 08 02:39:05 2014]  ClientBegin: 0
+[Wed Jan 08 02:39:11 2014]  ShutdownGame:
+[Wed Jan 08 02:39:11 2014]  ------------------------------------------------------------

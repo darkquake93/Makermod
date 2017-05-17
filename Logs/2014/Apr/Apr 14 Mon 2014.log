@@ -1,0 +1,44 @@
+[Mon Apr 14 21:41:42 2014]  ------------------------------------------------------------
+[Mon Apr 14 21:41:42 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Apr 14 21:41:43 2014]  ClientConnect: 0
+[Mon Apr 14 21:42:11 2014]  ClientBegin: 0
+[Mon Apr 14 21:48:55 2014]  say: Solidus: Fucking noobs
+[Mon Apr 14 21:49:02 2014]  say: Solidus: Hello
+[Mon Apr 14 21:49:12 2014]  ClientConnect: 1
+[Mon Apr 14 21:49:12 2014]  mlog:Player IsMa, connected. With IP - 77.221.89.203:29070 
+[Mon Apr 14 21:49:48 2014]  ClientBegin: 1
+[Mon Apr 14 21:50:10 2014]  say: Solidus: Isma
+[Mon Apr 14 21:54:06 2014]  Kill: 0 1 4: Solidus killed IsMa by MOD_BRYAR_PISTOL
+[Mon Apr 14 21:54:13 2014]  say: Solidus: Noob
+[Mon Apr 14 21:56:22 2014]  Kill: 0 1 31: Solidus killed IsMa by MOD_FORCE_DARK
+[Mon Apr 14 21:58:22 2014]  Kill: 0 1 31: Solidus killed IsMa by MOD_FORCE_DARK
+[Mon Apr 14 21:59:10 2014]  print "IsMa^7 @@@PLRENAME Padawan
+"[Mon Apr 14 21:59:14 2014]  Kill: 1022 0 38: <world> killed Solidus by MOD_FALLING
+[Mon Apr 14 21:59:33 2014]  Kill: 0 1 3: Solidus killed Padawan by MOD_SABER
+[Mon Apr 14 22:02:16 2014]  print "Padawan^7 @@@PLRENAME IsMa
+"[Mon Apr 14 22:06:15 2014]  Kill: 0 1 5: Solidus killed IsMa by MOD_BRYAR_PISTOL_ALT
+[Mon Apr 14 22:08:11 2014]  Kill: 0 1 3: Solidus killed IsMa by MOD_SABER
+[Mon Apr 14 22:08:39 2014]  Kill: 1 0 3: IsMa killed Solidus by MOD_SABER
+[Mon Apr 14 22:10:06 2014]  Kill: 1 0 3: IsMa killed Solidus by MOD_SABER
+[Mon Apr 14 22:12:26 2014]  Kill: 1 0 3: IsMa killed Solidus by MOD_SABER
+[Mon Apr 14 22:13:42 2014]  Kill: 0 1 3: Solidus killed IsMa by MOD_SABER
+[Mon Apr 14 22:15:11 2014]  Kill: 1 0 3: IsMa killed Solidus by MOD_SABER
+[Mon Apr 14 22:17:14 2014]  Kill: 1 0 3: IsMa killed Solidus by MOD_SABER
+[Mon Apr 14 22:23:24 2014]  Kill: 0 1 3: Solidus killed IsMa by MOD_SABER
+[Mon Apr 14 22:24:03 2014]  Kill: 0 1 3: Solidus killed IsMa by MOD_SABER
+[Mon Apr 14 22:24:39 2014]  Kill: 1 0 3: IsMa killed Solidus by MOD_SABER
+[Mon Apr 14 22:24:42 2014]  say: Solidus: Lops
+[Mon Apr 14 22:26:08 2014]  Kill: 0 1 3: Solidus killed IsMa by MOD_SABER
+[Mon Apr 14 22:31:03 2014]  Kill: 1 1 39: IsMa killed IsMa by MOD_SUICIDE
+[Mon Apr 14 22:33:26 2014]  Kill: 0 1 3: Solidus killed IsMa by MOD_SABER
+[Mon Apr 14 22:33:36 2014]  ClientDisconnect: 0
+[Mon Apr 14 22:33:42 2014]  ClientDisconnect: 1
+[Mon Apr 14 23:41:40 2014]  Exit: Timelimit hit.
+[Tue Apr 15 03:55:58 2014]  ClientConnect: 0
+[Tue Apr 15 03:55:58 2014]  mlog:Player Heretiikk, connected. With IP - 93.121.219.120:29070 
+[Tue Apr 15 03:56:06 2014]  ClientConnect: 1
+[Tue Apr 15 03:56:06 2014]  mlog:Player BlackT007, connected. With IP - 90.36.204.135:29070 
+[Tue Apr 15 03:56:21 2014]  ClientBegin: 1
+[Tue Apr 15 03:56:32 2014]  ClientBegin: 0
+[Tue Apr 15 03:57:27 2014]  ShutdownGame:
+[Tue Apr 15 03:57:27 2014]  ------------------------------------------------------------

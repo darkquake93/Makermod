@@ -1,0 +1,381 @@
+[Fri May 30 13:50:14 2014]  ------------------------------------------------------------
+[Fri May 30 13:50:14 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 30 13:50:15 2014]  ClientConnect: 0
+[Fri May 30 13:50:29 2014]  ClientBegin: 0
+[Fri May 30 13:50:41 2014]  ShutdownGame:
+[Fri May 30 13:50:41 2014]  ------------------------------------------------------------
+[Fri May 30 13:50:41 2014]  ------------------------------------------------------------
+[Fri May 30 13:50:41 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 30 13:50:43 2014]  ClientConnect: 0
+[Fri May 30 13:50:49 2014]  ClientBegin: 0
+[Fri May 30 13:52:36 2014]  Kill: 0 0 36: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Fri May 30 13:53:28 2014]  Kill: 0 0 39: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_SUICIDE
+[Fri May 30 14:11:36 2014]  ClientConnect: 1
+[Fri May 30 14:11:36 2014]  mlog:Player ^7Deus^1Encarmine, connected. With IP - 89.178.170.163:29070 
+[Fri May 30 14:12:12 2014]  ClientBegin: 1
+[Fri May 30 14:12:21 2014]  Item: 1 weapon_melee
+[Fri May 30 14:12:31 2014]  say: ^7Deus^1Encarmine: hello
+[Fri May 30 14:12:35 2014]  say: ^0ÐàrkQµàkè: hi :)
+[Fri May 30 14:12:48 2014]  say: ^7Deus^1Encarmine: has no bottom :P
+[Fri May 30 14:12:56 2014]  say: ^0ÐàrkQµàkè: slow progress but just testing stuff out for Element Script V3 :) 
+[Fri May 30 14:13:01 2014]  say: ^7Deus^1Encarmine: id place desert/rock
+[Fri May 30 14:13:09 2014]  say: ^0ÐàrkQµàkè: Yeah haha thx
+[Fri May 30 14:13:09 2014]  say: ^7Deus^1Encarmine: lol
+[Fri May 30 14:13:20 2014]  say: ^7Deus^1Encarmine: i never use downloaded scripts
+[Fri May 30 14:13:23 2014]  say: ^0ÐàrkQµàkè: just thinking about scripting ideas atm
+[Fri May 30 14:13:45 2014]  say: ^0ÐàrkQµàkè: :) perfect
+[Fri May 30 14:13:54 2014]  say: ^0ÐàrkQµàkè: anyway it's useful to read up on /minfo wip
+[Fri May 30 14:14:03 2014]  say: ^0ÐàrkQµàkè: mmoveall now moves in the direction you're looking at, very handy
+[Fri May 30 14:14:14 2014]  say: ^7Deus^1Encarmine: as it always was
+[Fri May 30 14:14:25 2014]  say: ^0ÐàrkQµàkè: it used to be x y z, it's been a while for me lol
+[Fri May 30 14:14:28 2014]  say: ^7Deus^1Encarmine: though i prefer not to use mmoveall
+[Fri May 30 14:14:48 2014]  say: ^7Deus^1Encarmine: if i build a house for example...
+[Fri May 30 14:14:55 2014]  say: ^7Deus^1Encarmine: and then use a script with mmoveall...
+[Fri May 30 14:15:01 2014]  say: ^7Deus^1Encarmine: guess what happens)
+[Fri May 30 14:15:15 2014]  say: ^0ÐàrkQµàkè: Yeah stuff gets out of place
+[Fri May 30 14:15:31 2014]  say: ^7Deus^1Encarmine: THATS WHY ITS BETTER TO MOVE EACH OBJECT SEPARATELY
+[Fri May 30 14:15:36 2014]  say: ^7Deus^1Encarmine: sorry for caps
+[Fri May 30 14:15:45 2014]  say: ^0ÐàrkQµàkè: Defs I'm fine with building stuff :p
+[Fri May 30 14:16:04 2014]  say: ^0ÐàrkQµàkè: Just working on my attacking script though, got some good ideas :)
+[Fri May 30 14:16:20 2014]  say: ^0ÐàrkQµàkè: I can place teleporters too :)
+[Fri May 30 14:16:43 2014]  say: ^7Deus^1Encarmine: i thought of making smth like this...
+[Fri May 30 14:16:52 2014]  say: ^7Deus^1Encarmine: but i decided its not useful
+[Fri May 30 14:17:32 2014]  say: ^0ÐàrkQµàkè: Yeah point taken, it's a sort of legacy I've got though and I think they'll want a version 3
+[Fri May 30 14:17:50 2014]  say: ^0ÐàrkQµàkè: I barely spend any time on this game anymore though :(
+[Fri May 30 14:17:59 2014]  say: ^7Deus^1Encarmine: like me
+[Fri May 30 14:18:07 2014]  say: ^7Deus^1Encarmine: have no more ideas for scripts
+[Fri May 30 14:18:14 2014]  say: ^7Deus^1Encarmine: and noone to play with here
+[Fri May 30 14:18:20 2014]  say: ^7Deus^1Encarmine: no makermod players left
+[Fri May 30 14:19:05 2014]  say: ^0ÐàrkQµàkè: Yeah true but I've hoped to bring it back with all the reskins here and my website. Anyway I hop in every now and then :) Btw my main idea for this s
+[Fri May 30 14:19:21 2014]  say: ^0ÐàrkQµàkè: main idea for this script is it uses the mouse instead, it's much easier
+[Fri May 30 14:19:33 2014]  say: ^0ÐàrkQµàkè: and middle click reverts binds :)
+[Fri May 30 14:19:55 2014]  say: ^7Deus^1Encarmine: i have a werevolf script that binds some special attacks to mouse
+[Fri May 30 14:20:18 2014]  say: ^7Deus^1Encarmine: and when i transform back binds return to defaults
+[Fri May 30 14:20:25 2014]  say: ^7Deus^1Encarmine: wtll... to my own defaults)
+[Fri May 30 14:20:29 2014]  say: ^7Deus^1Encarmine: well*
+[Fri May 30 14:20:59 2014]  say: ^0ÐàrkQµàkè: but yeah will be a while before I release it, I always have new ideas to try out. Yeah cool it's a shame it hasn't been done much, the days of pgup a
+[Fri May 30 14:21:03 2014]  say: ^7Deus^1Encarmine: though this script uses a werewolf model you probably dont have
+[Fri May 30 14:21:39 2014]  say: ^7Deus^1Encarmine: release what? your scripts?
+[Fri May 30 14:21:39 2014]  say: ^0ÐàrkQµàkè: mm. Anyway I wanna accomplish scripting a new attack, then I'll hop out into Titanfall haha
+[Fri May 30 14:21:44 2014]  ClientConnect: 2
+[Fri May 30 14:21:44 2014]  mlog:Player Tasmann¹, connected. With IP - 75.182.127.159:29070 
+[Fri May 30 14:21:44 2014]  say: ^0ÐàrkQµàkè: This one script.
+[Fri May 30 14:21:49 2014]  say: ^0ÐàrkQµàkè: My rest are on darkquake.com :)
+[Fri May 30 14:22:00 2014]  say: ^7Deus^1Encarmine: anyone download them?
+[Fri May 30 14:22:00 2014]  ClientBegin: 2
+[Fri May 30 14:22:16 2014]  say: ^0ÐàrkQµàkè: I wanted to get a download counter so I dunno from my site, but defs from jk3files
+[Fri May 30 14:22:18 2014]  say: ^7Deus^1Encarmine: anyone needs someone else's scripts?
+[Fri May 30 14:22:22 2014]  say: ^0ÐàrkQµàkè: Element Script V2 was popular
+[Fri May 30 14:22:34 2014]  say: ^5T^0asma^7n^5n^7!^0¹: Halo.
+[Fri May 30 14:22:36 2014]  say: ^7Deus^1Encarmine: hi
+[Fri May 30 14:22:37 2014]  Kill: 2 2 39: ^5T^0asma^7n^5n^7!^0¹ killed ^5T^0asma^7n^5n^7!^0¹ by MOD_SUICIDE
+[Fri May 30 14:22:38 2014]  say: ^0ÐàrkQµàkè: hey
+[Fri May 30 14:22:53 2014]  say: ^0ÐàrkQµàkè: anyway yeah I gotta script this with that desert rock, thx for that :p
+[Fri May 30 14:23:01 2014]  say: ^7Deus^1Encarmine: :D
+[Fri May 30 14:23:07 2014]  say: ^5T^0asma^7n^5n^7!^0¹: what script ya making?
+[Fri May 30 14:23:07 2014]  say: ^7Deus^1Encarmine: like this?
+[Fri May 30 14:23:16 2014]  Kill: 1022 0 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Fri May 30 14:23:16 2014]  Kill: 1022 2 36: <world> killed ^5T^0asma^7n^5n^7!^0¹ by MOD_CRUSH
+[Fri May 30 14:23:21 2014]  say: ^7Deus^1Encarmine: sorry
+[Fri May 30 14:23:22 2014]  say: ^5T^0asma^7n^5n^7!^0¹: lul. what was that?
+[Fri May 30 14:23:28 2014]  say: ^7Deus^1Encarmine: thought youre using god
+[Fri May 30 14:23:35 2014]  say: ^0ÐàrkQµàkè: a bit simpler haha
+[Fri May 30 14:23:40 2014]  say: ^0ÐàrkQµàkè: dw it's fine
+[Fri May 30 14:23:45 2014]  say: ^5T^0asma^7n^5n^7!^0¹: If I'm not mistaken, god problem would not have worked against that.
+[Fri May 30 14:23:47 2014]  say: ^0ÐàrkQµàkè: usually there's no ppl here :p
+[Fri May 30 14:23:49 2014]  say: ^5T^0asma^7n^5n^7!^0¹: probably*
+[Fri May 30 14:23:53 2014]  say: ^7Deus^1Encarmine: it will
+[Fri May 30 14:23:56 2014]  say: ^5T^0asma^7n^5n^7!^0¹: ah.
+[Fri May 30 14:24:03 2014]  say: ^5T^0asma^7n^5n^7!^0¹: then I'm remembering god wrong.
+[Fri May 30 14:24:14 2014]  say: ^5T^0asma^7n^5n^7!^0¹: only thing that doesn't bow to godmode is telecrush.
+[Fri May 30 14:24:20 2014]  say: ^7Deus^1Encarmine: god doesnt work only against /mkillsw
+[Fri May 30 14:24:27 2014]  say: ^5T^0asma^7n^5n^7!^0¹: and telecrush.
+[Fri May 30 14:24:33 2014]  say: ^5T^0asma^7n^5n^7!^0¹: I've got something of my own that's similar to that.
+[Fri May 30 14:24:41 2014]  say: ^0ÐàrkQµàkè: killsw, interesting
+[Fri May 30 14:24:47 2014]  say: ^7Deus^1Encarmine: thats why i use god AND armor :P
+[Fri May 30 14:24:57 2014]  say: ^5T^0asma^7n^5n^7!^0¹: If only I can remember the script number...Ah yes! #46!
+[Fri May 30 14:25:16 2014]  say: ^7Deus^1Encarmine: ypur scripts have numbers? o_O
+[Fri May 30 14:25:20 2014]  say: ^7Deus^1Encarmine: instead of names
+[Fri May 30 14:25:25 2014]  say: ^7Deus^1Encarmine: your*
+[Fri May 30 14:25:28 2014]  say: ^5T^0asma^7n^5n^7!^0¹: Yes.
+[Fri May 30 14:25:39 2014]  say: ^7Deus^1Encarmine: a lil hard to remember...
+[Fri May 30 14:25:40 2014]  say: ^5T^0asma^7n^5n^7!^0¹: 1-46, plus some side-scripts that are a bit smaller.
+[Fri May 30 14:25:50 2014]  say: ^5T^0asma^7n^5n^7!^0¹: Not that hard, really.
+[Fri May 30 14:25:58 2014]  say: ^0ÐàrkQµàkè: Right I have several ideas to work on, gotta script lol
+[Fri May 30 14:26:02 2014]  say: ^7Deus^1Encarmine: would be hard for me
+[Fri May 30 14:26:04 2014]  say: ^0ÐàrkQµàkè: I wanna get this done before Titanfall :p
+[Fri May 30 14:26:06 2014]  say: ^0ÐàrkQµàkè: hf
+[Fri May 30 14:26:12 2014]  say: ^7Deus^1Encarmine: before?
+[Fri May 30 14:26:15 2014]  say: ^0ÐàrkQµàkè: I'll b here testing
+[Fri May 30 14:26:17 2014]  say: ^7Deus^1Encarmine: its out already
+[Fri May 30 14:26:22 2014]  say: ^0ÐàrkQµàkè: Before I play
+[Fri May 30 14:26:25 2014]  say: ^7Deus^1Encarmine: oh
+[Fri May 30 14:26:28 2014]  say: ^0ÐàrkQµàkè: :p
+[Fri May 30 14:26:39 2014]  say: ^0ÐàrkQµàkè: anyway I'll be testing stuff
+[Fri May 30 14:26:42 2014]  say: ^5T^0asma^7n^5n^7!^0¹: ah shit
+[Fri May 30 14:26:49 2014]  say: ^7Deus^1Encarmine: ^0Battle ^4Sorcerer ^0V^42 by ^0D^3arth ^0F^3urious
+[Fri May 30 14:26:58 2014]  say: ^7Deus^1Encarmine: dont tell anyone, ok?
+[Fri May 30 14:27:16 2014]  say: ^0ÐàrkQµàkè: Don't tell them what?
+[Fri May 30 14:27:23 2014]  say: ^7Deus^1Encarmine: im darth furious
+[Fri May 30 14:27:34 2014]  say: ^5T^0asma^7n^5n^7!^0¹: Anyone care to use that button?
+[Fri May 30 14:27:34 2014]  say: ^0ÐàrkQµàkè: I won't lol
+[Fri May 30 14:27:51 2014]  say: ^5T^0asma^7n^5n^7!^0¹: It fails against godmode. XD
+[Fri May 30 14:27:55 2014]  say: ^0ÐàrkQµàkè: it was a trap the second time :p
+[Fri May 30 14:27:57 2014]  say: ^5T^0asma^7n^5n^7!^0¹: Lemme show what it's supposed to do. :P
+[Fri May 30 14:28:00 2014]  Kill: 2 2 36: ^5T^0asma^7n^5n^7!^0¹ killed ^5T^0asma^7n^5n^7!^0¹ by MOD_CRUSH
+[Fri May 30 14:28:03 2014]  say: ^0ÐàrkQµàkè: I'm still here haha
+[Fri May 30 14:28:03 2014]  say: ^5T^0asma^7n^5n^7!^0¹: oops
+[Fri May 30 14:28:06 2014]  say: ^5T^0asma^7n^5n^7!^0¹: forgot to deactivate it
+[Fri May 30 14:28:13 2014]  Kill: 2 2 36: ^5T^0asma^7n^5n^7!^0¹ killed ^5T^0asma^7n^5n^7!^0¹ by MOD_CRUSH
+[Fri May 30 14:28:19 2014]  say: ^5T^0asma^7n^5n^7!^0¹: yeah.
+[Fri May 30 14:28:21 2014]  say: ^7Deus^1Encarmine: o_O
+[Fri May 30 14:28:38 2014]  say: ^5T^0asma^7n^5n^7!^0¹: it's all dependent on whether the person uses godmode or not really.
+[Fri May 30 14:28:42 2014]  say: ^7Deus^1Encarmine: ^5My mind bears a great pain...
+[Fri May 30 14:28:44 2014]  say: ^7Deus^1Encarmine: ^4Psyker ^5script by ^0D^3arth ^0F^3urious
+[Fri May 30 14:28:46 2014]  say: ^5T^0asma^7n^5n^7!^0¹: it's just a little troll script I made.
+[Fri May 30 14:28:55 2014]  say: ^0ÐàrkQµàkè: cool :)
+[Fri May 30 14:28:59 2014]  say: ^0ÐàrkQµàkè: k brb
+[Fri May 30 14:29:08 2014]  say: ^5T^0asma^7n^5n^7!^0¹: WRong one o.o
+[Fri May 30 14:29:33 2014]  say: ^7Deus^1Encarmine: lol
+[Fri May 30 14:29:48 2014]  say: ^7Deus^1Encarmine: some furniture missing
+[Fri May 30 14:29:55 2014]  say: ^5T^0asma^7n^5n^7!^0¹: nah
+[Fri May 30 14:29:56 2014]  say: ^7Deus^1Encarmine: cmhere
+[Fri May 30 14:29:57 2014]  say: ^5T^0asma^7n^5n^7!^0¹: it's a camp
+[Fri May 30 14:29:59 2014]  say: ^7Deus^1Encarmine: oh
+[Fri May 30 14:30:02 2014]  say: ^5T^0asma^7n^5n^7!^0¹: no furniture required.
+[Fri May 30 14:30:20 2014]  say: ^5T^0asma^7n^5n^7!^0¹: lol
+[Fri May 30 14:30:49 2014]  say: ^7Deus^1Encarmine: well this one looks definitely better)
+[Fri May 30 14:30:58 2014]  say: ^7Deus^1Encarmine: though it has much more obs
+[Fri May 30 14:31:02 2014]  say: ^5T^0asma^7n^5n^7!^0¹: yeah
+[Fri May 30 14:31:14 2014]  say: ^5T^0asma^7n^5n^7!^0¹: that's the thing about striving for the best.
+[Fri May 30 14:31:19 2014]  say: ^5T^0asma^7n^5n^7!^0¹: usually a lot of objects required.
+[Fri May 30 14:31:31 2014]  say: ^5T^0asma^7n^5n^7!^0¹: Shoot, this shelter has a hell of a lot of objects.
+[Fri May 30 14:31:40 2014]  say: ^7Deus^1Encarmine: i gues...
+[Fri May 30 14:31:53 2014]  Kill: 2 2 39: ^5T^0asma^7n^5n^7!^0¹ killed ^5T^0asma^7n^5n^7!^0¹ by MOD_SUICIDE
+[Fri May 30 14:32:00 2014]  say: ^7Deus^1Encarmine: thats why i prefer using bigger ones
+[Fri May 30 14:32:05 2014]  say: ^7Deus^1Encarmine: but less amount
+[Fri May 30 14:32:12 2014]  say: ^7Deus^1Encarmine: lemme show you
+[Fri May 30 14:32:34 2014]  say: ^7Deus^1Encarmine: ^5House of ^0D^3arth ^0F^3urious
+[Fri May 30 14:33:02 2014]  say: ^5T^0asma^7n^5n^7!^0¹: hm.
+[Fri May 30 14:33:26 2014]  ClientDisconnect: 1
+[Fri May 30 14:33:26 2014]  ClientConnect: 1
+[Fri May 30 14:33:26 2014]  mlog:Player ^7Deus^1Encarmine, connected. With IP - 89.178.170.163:29070 
+[Fri May 30 14:34:02 2014]  ClientBegin: 1
+[Fri May 30 14:34:06 2014]  say: ^7Deus^1Encarmine: ^5Facepalm...
+[Fri May 30 14:34:14 2014]  say: ^7Deus^1Encarmine: ok, wont turn anything on here
+[Fri May 30 14:34:16 2014]  Item: 1 weapon_melee
+[Fri May 30 14:34:33 2014]  say: ^7Deus^1Encarmine: well.. anything huge
+[Fri May 30 14:37:29 2014]  say: ^5T^0asma^7n^5n^7!^0¹: would you like to see my bar?
+[Fri May 30 14:37:33 2014]  say: ^7Deus^1Encarmine: sure
+[Fri May 30 14:37:34 2014]  say: ^5T^0asma^7n^5n^7!^0¹: (if it will work on here)
+[Fri May 30 14:37:39 2014]  say: ^5T^0asma^7n^5n^7!^0¹: My origin is: (-17514 -3718 1470) - You can teleport here with /mtelelast
+
+[Fri May 30 14:37:45 2014]  say: ^5T^0asma^7n^5n^7!^0¹: you'll wanna be here during the building of it
+[Fri May 30 14:37:52 2014]  say: ^5T^0asma^7n^5n^7!^0¹: otherwise you'll lag if you come in when it's completed
+[Fri May 30 14:37:56 2014]  say: ^7Deus^1Encarmine: i know
+[Fri May 30 14:38:03 2014]  say: ^7Deus^1Encarmine: i mean... i guess :D
+[Fri May 30 14:38:37 2014]  say: ^7Deus^1Encarmine: i think i shall try to turm nu house on somwhere farther from the spawn
+[Fri May 30 14:38:45 2014]  say: ^7Deus^1Encarmine: a huge glass thihg
+[Fri May 30 14:38:53 2014]  say: ^7Deus^1Encarmine: walls of glass... 
+[Fri May 30 14:39:00 2014]  say: ^5T^0asma^7n^5n^7!^0¹: yeahl ol
+[Fri May 30 14:39:14 2014]  say: ^7Deus^1Encarmine: why everyone uses only catw2_b as walls?
+[Fri May 30 14:39:26 2014]  say: ^5T^0asma^7n^5n^7!^0¹: it's the basic form of building and it's cleanist
+[Fri May 30 14:39:33 2014]  say: ^5T^0asma^7n^5n^7!^0¹: cleanest*
+[Fri May 30 14:39:37 2014]  say: ^7Deus^1Encarmine: and its transparent
+[Fri May 30 14:39:39 2014]  say: ^5T^0asma^7n^5n^7!^0¹: and also
+[Fri May 30 14:39:40 2014]  say: ^7Deus^1Encarmine: and flat
+[Fri May 30 14:39:54 2014]  say: ^5T^0asma^7n^5n^7!^0¹: usually the catw2_b models are remapped
+[Fri May 30 14:40:07 2014]  say: ^7Deus^1Encarmine: theyre remapped here btw
+[Fri May 30 14:40:13 2014]  say: ^5T^0asma^7n^5n^7!^0¹: yeah.
+[Fri May 30 14:40:18 2014]  say: ^5T^0asma^7n^5n^7!^0¹: I know.
+[Fri May 30 14:40:22 2014]  say: ^7Deus^1Encarmine: i have a better remap on my own server
+[Fri May 30 14:40:29 2014]  say: ^5T^0asma^7n^5n^7!^0¹: the beer machines are the pride of the bar though.
+[Fri May 30 14:40:43 2014]  say: ^5T^0asma^7n^5n^7!^0¹: Very precise movements to ensure that the placement of the objects
+[Fri May 30 14:40:48 2014]  say: ^5T^0asma^7n^5n^7!^0¹: is as clean as can be.
+[Fri May 30 14:41:03 2014]  say: ^5T^0asma^7n^5n^7!^0¹: o.o
+[Fri May 30 14:41:04 2014]  say: ^7Deus^1Encarmine: lol
+[Fri May 30 14:41:07 2014]  say: ^5T^0asma^7n^5n^7!^0¹: okay...
+[Fri May 30 14:41:12 2014]  say: ^5T^0asma^7n^5n^7!^0¹: I used the wrong supplement file. o.o
+[Fri May 30 14:41:14 2014]  say: ^7Deus^1Encarmine: gotta fix it)
+[Fri May 30 14:41:46 2014]  say: ^5T^0asma^7n^5n^7!^0¹: okay.
+[Fri May 30 14:41:48 2014]  say: ^5T^0asma^7n^5n^7!^0¹: this is odd.
+[Fri May 30 14:41:52 2014]  say: ^7Deus^1Encarmine: dont mind
+[Fri May 30 14:42:01 2014]  say: ^5T^0asma^7n^5n^7!^0¹: anyway
+[Fri May 30 14:42:02 2014]  say: ^5T^0asma^7n^5n^7!^0¹: yeah
+[Fri May 30 14:42:04 2014]  say: ^5T^0asma^7n^5n^7!^0¹: that's the bar
+[Fri May 30 14:42:23 2014]  say: ^7Deus^1Encarmine: guess i shall try to turn my house on once more
+[Fri May 30 14:42:28 2014]  say: ^7Deus^1Encarmine: but not here
+[Fri May 30 14:42:39 2014]  say: ^7Deus^1Encarmine: My origin is: (21967 -14420 1506) - You can teleport here with /mtelelast
+
+[Fri May 30 14:42:57 2014]  say: ^7Deus^1Encarmine: My origin is: (21423 -13138 1761) - You can teleport here with /mtelelast
+
+[Fri May 30 14:43:08 2014]  say: ^7Deus^1Encarmine: ^5House of ^0D^3arth ^0F^3urious
+[Fri May 30 14:43:23 2014]  say: ^5T^0asma^7n^5n^7!^0¹: I already see the problem.
+[Fri May 30 14:44:08 2014]  ClientDisconnect: 1
+[Fri May 30 14:44:08 2014]  ClientConnect: 1
+[Fri May 30 14:44:08 2014]  mlog:Player ^7Deus^1Encarmine, connected. With IP - 89.178.170.163:29070 
+[Fri May 30 14:44:11 2014]  ClientDisconnect: 1
+[Fri May 30 14:44:11 2014]  ClientConnect: 1
+[Fri May 30 14:44:11 2014]  mlog:Player ^7Deus^1Encarmine, connected. With IP - 89.178.170.163:29070 
+[Fri May 30 14:45:27 2014]  ClientDisconnect: 1
+[Fri May 30 14:45:27 2014]  ClientConnect: 1
+[Fri May 30 14:45:27 2014]  mlog:Player ^7Deus^1Encarmine, connected. With IP - 89.178.170.163:29070 
+[Fri May 30 14:45:52 2014]  ClientBegin: 1
+[Fri May 30 14:45:56 2014]  say: ^5T^0asma^7n^5n^7!^0¹: okay
+[Fri May 30 14:46:00 2014]  say: ^5T^0asma^7n^5n^7!^0¹: I see what your problem is already
+[Fri May 30 14:46:05 2014]  say: ^7Deus^1Encarmine: it seems it wont work here
+[Fri May 30 14:46:06 2014]  say: ^5T^0asma^7n^5n^7!^0¹: You're not using any /wait commands
+[Fri May 30 14:46:07 2014]  Item: 1 weapon_melee
+[Fri May 30 14:46:12 2014]  say: ^7Deus^1Encarmine: i do!
+[Fri May 30 14:46:12 2014]  say: ^5T^0asma^7n^5n^7!^0¹: in your script
+[Fri May 30 14:46:19 2014]  say: ^7Deus^1Encarmine: it works everywhere but here
+[Fri May 30 14:46:27 2014]  say: ^5T^0asma^7n^5n^7!^0¹: still
+[Fri May 30 14:46:31 2014]  say: ^5T^0asma^7n^5n^7!^0¹: wait's are important
+[Fri May 30 14:46:32 2014]  say: ^7Deus^1Encarmine: too huge ping
+[Fri May 30 14:46:34 2014]  say: ^7Deus^1Encarmine: thats all
+[Fri May 30 14:46:44 2014]  say: ^7Deus^1Encarmine: i use wait 20 after each object
+[Fri May 30 14:47:05 2014]  say: ^7Deus^1Encarmine: im not new in scripting
+[Fri May 30 14:47:12 2014]  say: ^7Deus^1Encarmine: you have nothing to teach me
+[Fri May 30 14:47:16 2014]  say: ^5T^0asma^7n^5n^7!^0¹: I'm not sure 20 is enough.
+[Fri May 30 14:47:22 2014]  say: ^7Deus^1Encarmine: its always enough
+[Fri May 30 14:47:36 2014]  say: ^7Deus^1Encarmine: just_too_huge_ping right now
+[Fri May 30 14:47:54 2014]  say: ^5T^0asma^7n^5n^7!^0¹: my ping is bigger than your's and mine don't crash me lol
+[Fri May 30 14:48:09 2014]  say: ^7Deus^1Encarmine: thats because my house is bigger than your bar
+[Fri May 30 14:48:28 2014]  say: ^5T^0asma^7n^5n^7!^0¹: still seems like a lot of the objects just
+[Fri May 30 14:48:32 2014]  say: ^7Deus^1Encarmine: and... i repeat... it works everywhere but here
+[Fri May 30 14:48:33 2014]  say: ^5T^0asma^7n^5n^7!^0¹: spawn at the same time
+[Fri May 30 14:48:34 2014]  say: ^5T^0asma^7n^5n^7!^0¹: and move
+[Fri May 30 14:48:38 2014]  say: ^7Deus^1Encarmine: nope
+[Fri May 30 14:48:43 2014]  say: ^7Deus^1Encarmine: wait after each of them
+[Fri May 30 14:48:44 2014]  say: ^5T^0asma^7n^5n^7!^0¹: plus certain objects
+[Fri May 30 14:48:51 2014]  say: ^5T^0asma^7n^5n^7!^0¹: such as the one you are using
+[Fri May 30 14:48:54 2014]  say: ^7Deus^1Encarmine: i dont make mistakes in my scripts
+[Fri May 30 14:48:59 2014]  say: ^5T^0asma^7n^5n^7!^0¹: cause a lot of CI at their first spawning
+[Fri May 30 14:49:03 2014]  say: ^5T^0asma^7n^5n^7!^0¹: therefore
+[Fri May 30 14:49:08 2014]  say: ^5T^0asma^7n^5n^7!^0¹: it causes the wait
+[Fri May 30 14:49:12 2014]  say: ^5T^0asma^7n^5n^7!^0¹: to become virtually ineffective
+[Fri May 30 14:49:17 2014]  say: ^5T^0asma^7n^5n^7!^0¹: if it's too low of a number
+[Fri May 30 14:49:23 2014]  say: ^5T^0asma^7n^5n^7!^0¹: trust me
+[Fri May 30 14:49:28 2014]  say: ^5T^0asma^7n^5n^7!^0¹: if you increased the wait
+[Fri May 30 14:49:33 2014]  say: ^5T^0asma^7n^5n^7!^0¹: it would most likely work.
+[Fri May 30 14:49:36 2014]  say: ^7Deus^1Encarmine: im not gonna rewrite my scripts just to use them on this server
+[Fri May 30 14:49:42 2014]  say: ^5T^0asma^7n^5n^7!^0¹: lol
+[Fri May 30 14:49:44 2014]  say: ^5T^0asma^7n^5n^7!^0¹: suit yourself
+[Fri May 30 14:54:38 2014]  say: ^7Deus^1Encarmine: :D
+[Fri May 30 14:56:10 2014]  ClientDisconnect: 1
+[Fri May 30 14:59:30 2014]  ClientDisconnect: 2
+[Fri May 30 15:53:58 2014]  ClientConnect: 1
+[Fri May 30 15:53:58 2014]  mlog:Player Emir, connected. With IP - 5.76.196.185:29070 
+[Fri May 30 15:54:13 2014]  ClientDisconnect: 1
+[Fri May 30 16:02:42 2014]  ClientConnect: 1
+[Fri May 30 16:02:42 2014]  mlog:Player blah , connected. With IP -  
+[Fri May 30 16:02:42 2014]  FORCESTRING CRASH: Client num 0 tried to take incorrect forcestring ''.[Fri May 30 16:02:42 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:02:42 2014]  ClientBegin: 1
+[Fri May 30 16:03:29 2014]  Kill: 0 1 36: ^0ÐàrkQµàkè killed blah  by MOD_CRUSH
+[Fri May 30 16:03:30 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:03:42 2014]  Kill: 0 1 36: ^0ÐàrkQµàkè killed blah  by MOD_CRUSH
+[Fri May 30 16:03:43 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:03:50 2014]  Kill: 0 1 0: ^0ÐàrkQµàkè killed blah  by MOD_UNKNOWN
+[Fri May 30 16:03:52 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:03:55 2014]  Kill: 0 1 0: ^0ÐàrkQµàkè killed blah  by MOD_UNKNOWN
+[Fri May 30 16:03:56 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:04:02 2014]  Kill: 0 1 0: ^0ÐàrkQµàkè killed blah  by MOD_UNKNOWN
+[Fri May 30 16:04:03 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:04:06 2014]  Kill: 0 1 0: ^0ÐàrkQµàkè killed blah  by MOD_UNKNOWN
+[Fri May 30 16:04:07 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:04:09 2014]  Kill: 0 1 0: ^0ÐàrkQµàkè killed blah  by MOD_UNKNOWN
+[Fri May 30 16:04:10 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:04:12 2014]  Kill: 0 1 0: ^0ÐàrkQµàkè killed blah  by MOD_UNKNOWN
+[Fri May 30 16:04:14 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:04:37 2014]  Kill: 0 1 0: ^0ÐàrkQµàkè killed blah  by MOD_UNKNOWN
+[Fri May 30 16:04:39 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:04:42 2014]  Kill: 0 1 0: ^0ÐàrkQµàkè killed blah  by MOD_UNKNOWN
+[Fri May 30 16:04:43 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:04:47 2014]  Kill: 0 1 0: ^0ÐàrkQµàkè killed blah  by MOD_UNKNOWN
+[Fri May 30 16:04:48 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:04:51 2014]  Kill: 0 1 36: ^0ÐàrkQµàkè killed blah  by MOD_CRUSH
+[Fri May 30 16:04:52 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:04:56 2014]  Kill: 0 1 36: ^0ÐàrkQµàkè killed blah  by MOD_CRUSH
+[Fri May 30 16:04:57 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:05:00 2014]  Kill: 0 1 36: ^0ÐàrkQµàkè killed blah  by MOD_CRUSH
+[Fri May 30 16:05:02 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:05:06 2014]  Kill: 0 1 36: ^0ÐàrkQµàkè killed blah  by MOD_CRUSH
+[Fri May 30 16:05:07 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:05:10 2014]  Kill: 0 1 36: ^0ÐàrkQµàkè killed blah  by MOD_CRUSH
+[Fri May 30 16:05:11 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:05:14 2014]  Kill: 0 1 0: ^0ÐàrkQµàkè killed blah  by MOD_UNKNOWN
+[Fri May 30 16:05:16 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:07:29 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 16:08:00 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 16:08:15 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 16:08:35 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 16:09:34 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 16:16:22 2014]  ShutdownGame:
+[Fri May 30 16:16:22 2014]  ------------------------------------------------------------
+[Fri May 30 16:16:22 2014]  ------------------------------------------------------------
+[Fri May 30 16:16:22 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 30 16:16:24 2014]  ClientConnect: 0
+[Fri May 30 16:16:24 2014]  ClientBegin: 0
+[Fri May 30 16:16:24 2014]  ClientConnect: 1
+[Fri May 30 16:16:24 2014]  FORCESTRING CRASH: Client num 0 tried to take incorrect forcestring ''.[Fri May 30 16:16:24 2014]  Kill: 1 0 37: blah  killed ^0ÐàrkQµàkè by MOD_TELEFRAG
+[Fri May 30 16:16:24 2014]  FORCESTRING CRASH: Client num 1 tried to take incorrect forcestring ''.[Fri May 30 16:16:24 2014]  ClientBegin: 1
+[Fri May 30 16:16:46 2014]  ShutdownGame:
+[Fri May 30 16:16:46 2014]  ------------------------------------------------------------
+[Fri May 30 16:16:47 2014]  ------------------------------------------------------------
+[Fri May 30 16:16:47 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 30 16:16:49 2014]  ClientConnect: 0
+[Fri May 30 16:16:49 2014]  ClientDisconnect: 1
+[Fri May 30 16:16:55 2014]  ClientBegin: 0
+[Fri May 30 16:17:58 2014]  ShutdownGame:
+[Fri May 30 16:17:58 2014]  ------------------------------------------------------------
+[Fri May 30 16:17:59 2014]  ------------------------------------------------------------
+[Fri May 30 16:17:59 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 30 16:18:01 2014]  ClientConnect: 0
+[Fri May 30 16:18:07 2014]  ClientBegin: 0
+[Fri May 30 16:18:16 2014]  ShutdownGame:
+[Fri May 30 16:18:16 2014]  ------------------------------------------------------------
+[Fri May 30 16:18:17 2014]  ------------------------------------------------------------
+[Fri May 30 16:18:17 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 30 16:18:19 2014]  ClientConnect: 0
+[Fri May 30 16:18:25 2014]  ClientBegin: 0
+[Fri May 30 16:19:08 2014]  ShutdownGame:
+[Fri May 30 16:19:08 2014]  ------------------------------------------------------------
+[Fri May 30 16:19:09 2014]  ------------------------------------------------------------
+[Fri May 30 16:19:09 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 30 16:19:11 2014]  ClientConnect: 0
+[Fri May 30 16:19:18 2014]  ClientBegin: 0
+[Fri May 30 16:19:37 2014]  ClientConnect: 1
+[Fri May 30 16:19:37 2014]  mlog:Player ^0D^1eathman, connected. With IP - 86.57.184.172:10378 
+[Fri May 30 16:19:45 2014]  ClientDisconnect: 1
+[Fri May 30 16:20:12 2014]  ShutdownGame:
+[Fri May 30 16:20:12 2014]  ------------------------------------------------------------
+[Fri May 30 16:20:12 2014]  ------------------------------------------------------------
+[Fri May 30 16:20:12 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 30 16:20:13 2014]  ClientConnect: 0
+[Fri May 30 16:20:13 2014]  ClientBegin: 0
+[Fri May 30 16:20:41 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 16:30:42 2014]  ShutdownGame:
+[Fri May 30 16:30:42 2014]  ------------------------------------------------------------
+[Fri May 30 16:30:42 2014]  ------------------------------------------------------------
+[Fri May 30 16:30:42 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 30 16:30:44 2014]  ClientConnect: 0
+[Fri May 30 16:30:50 2014]  ClientBegin: 0
+[Fri May 30 16:38:38 2014]  Kill: 1022 0 3: <world> killed ^0ÐàrkQµàkè by MOD_SABER
+[Fri May 30 16:40:02 2014]  ClientDisconnect: 0
+[Fri May 30 18:30:41 2014]  Exit: Timelimit hit.
+[Fri May 30 18:43:05 2014]  ClientConnect: 0
+[Fri May 30 18:43:05 2014]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Fri May 30 18:43:34 2014]  ClientBegin: 0
+[Fri May 30 18:43:46 2014]  ShutdownGame:
+[Fri May 30 18:43:46 2014]  ------------------------------------------------------------
+[Fri May 30 18:43:47 2014]  ------------------------------------------------------------
+[Fri May 30 18:43:47 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 30 18:43:49 2014]  ClientConnect: 0
+[Fri May 30 18:43:55 2014]  ClientBegin: 0
+[Fri May 30 18:47:10 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 18:47:21 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 18:48:10 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 18:48:33 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 18:49:02 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 18:49:26 2014]  Kill: 1022 0 3: <world> killed ^0ÐàrkQµàkè by MOD_SABER
+[Fri May 30 18:49:58 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 18:50:05 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 18:50:54 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 18:51:39 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 18:53:16 2014]  say: ^0ÐàrkQµàkè: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Fri May 30 18:53:34 2014]  say: ^0ÐàrkQµàkè: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Fri May 30 18:54:07 2014]  say: ^0ÐàrkQµàkè: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Fri May 30 18:54:11 2014]  say: ^0ÐàrkQµàkè: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 3
+[Fri May 30 18:55:30 2014]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Fri May 30 18:55:45 2014]  ClientDisconnect: 0
+[Fri May 30 20:49:28 2014]  ------------------------------------------------------------
+[Fri May 30 20:49:28 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri May 30 22:49:33 2014]  Exit: Timelimit hit.
+[Sat May 31 09:50:56 2014]  ClientConnect: 0
+[Sat May 31 09:50:56 2014]  mlog:Player ^2T^5res^2H, connected. With IP - 88.132.148.182:29070 
+[Sat May 31 09:51:34 2014]  ClientBegin: 0
+[Sat May 31 09:51:35 2014]  say: ^0U^4nDea^0D: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat May 31 09:51:36 2014]  ShutdownGame:
+[Sat May 31 09:51:36 2014]  ------------------------------------------------------------

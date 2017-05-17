@@ -1,0 +1,382 @@
+[Sat Dec 03 12:29:28 2016]  ------------------------------------------------------------
+[Sat Dec 03 12:29:28 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\999\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Dec 03 14:47:22 2016]  ClientConnect: 0
+[Sat Dec 03 14:47:22 2016]  mlog:Player Padawan, connected. With IP - 189.13.53.193:22474 
+[Sat Dec 03 14:48:35 2016]  ClientBegin: 0
+[Sat Dec 03 14:49:23 2016]  say: Padawan: empower
+[Sat Dec 03 14:49:53 2016]  say: Padawan: Hello host ;p
+[Sat Dec 03 14:51:48 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Sat Dec 03 14:54:10 2016]  ClientConnect: 1
+[Sat Dec 03 14:54:10 2016]  mlog:Player ^4Hy^0Dro, connected. With IP - 99.112.206.89:29070 
+[Sat Dec 03 14:54:23 2016]  say: Padawan: Hydro
+[Sat Dec 03 14:54:34 2016]  ClientBegin: 1
+[Sat Dec 03 14:54:38 2016]  Kill: 1 1 39: ^4Hy^0Dro killed ^4Hy^0Dro by MOD_SUICIDE
+[Sat Dec 03 14:54:38 2016]  setteam:  1 FREE SPECTATOR
+[Sat Dec 03 14:54:38 2016]  ClientBegin: 1
+[Sat Dec 03 14:54:39 2016]  say: Padawan: adm ?
+[Sat Dec 03 14:54:43 2016]  say: ^4Hy^0Dro: hi :)
+[Sat Dec 03 14:54:47 2016]  setteam:  1 SPECTATOR FREE
+[Sat Dec 03 14:54:47 2016]  ClientBegin: 1
+[Sat Dec 03 14:54:52 2016]  say: Padawan: hi xD
+[Sat Dec 03 14:55:02 2016]  say: Padawan: help me ?
+[Sat Dec 03 14:55:05 2016]  say: ^4Hy^0Dro: ?
+[Sat Dec 03 14:55:16 2016]  say: Padawan: create a duel room ;p
+[Sat Dec 03 14:55:21 2016]  say: Padawan: in the air
+[Sat Dec 03 14:55:30 2016]  say: ^4Hy^0Dro: no
+[Sat Dec 03 14:55:33 2016]  say: Padawan: i dont remember the cmds 
+[Sat Dec 03 14:55:40 2016]  say: ^4Hy^0Dro: i don't either xD
+[Sat Dec 03 14:55:42 2016]  say: Padawan: to create ;x
+[Sat Dec 03 14:55:53 2016]  Kill: 1 0 37: ^4Hy^0Dro killed Padawan by MOD_TELEFRAG
+[Sat Dec 03 14:55:56 2016]  say: ^4Hy^0Dro: oops
+[Sat Dec 03 14:55:58 2016]  say: ^4Hy^0Dro: My origin is: (8391 8730 1583) - You can teleport here with /mtelelast
+
+[Sat Dec 03 14:55:58 2016]  say: Padawan: rofl
+[Sat Dec 03 14:57:56 2016]  say: ^4Hy^0Dro: o_o
+[Sat Dec 03 14:58:01 2016]  say: Padawan: ?
+[Sat Dec 03 14:58:06 2016]  say: ^4Hy^0Dro: where did u go
+[Sat Dec 03 14:58:11 2016]  Kill: 1 0 3: ^4Hy^0Dro killed Padawan by MOD_SABER
+[Sat Dec 03 14:58:12 2016]  say: Padawan: here xD
+[Sat Dec 03 14:58:15 2016]  say: ^4Hy^0Dro: lol
+[Sat Dec 03 14:58:17 2016]  say: ^4Hy^0Dro: My origin is: (11722 8703 1592) - You can teleport here with /mtelelast
+
+[Sat Dec 03 14:59:10 2016]  Kill: 1 1 39: ^4Hy^0Dro killed ^4Hy^0Dro by MOD_SUICIDE
+[Sat Dec 03 14:59:10 2016]  setteam:  1 FREE SPECTATOR
+[Sat Dec 03 14:59:10 2016]  ClientBegin: 1
+[Sat Dec 03 14:59:15 2016]  say: ^4Hy^0Dro: ah
+[Sat Dec 03 14:59:23 2016]  setteam:  1 SPECTATOR FREE
+[Sat Dec 03 14:59:23 2016]  ClientBegin: 1
+[Sat Dec 03 14:59:23 2016]  say: ^4Hy^0Dro: ^5Maker^7Module ^3Client Plugin ^2v0.4a
+[Sat Dec 03 14:59:23 2016]  say: ^4Hy^0Dro: ^5Maker^7Module ^3Client Plugin ^2v0.4a
+[Sat Dec 03 14:59:41 2016]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Sat Dec 03 14:59:42 2016]  say: Padawan: rofl
+[Sat Dec 03 14:59:43 2016]  Kill: 1022 1 0: <world> killed ^4Hy^0Dro by MOD_UNKNOWN
+[Sat Dec 03 15:00:05 2016]  say: ^4Hy^0Dro: lmao
+[Sat Dec 03 15:00:10 2016]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Sat Dec 03 15:00:12 2016]  say: Padawan: fail
+[Sat Dec 03 15:00:13 2016]  say: Padawan: hahaha
+[Sat Dec 03 15:00:27 2016]  Kill: 1 0 36: ^4Hy^0Dro killed Padawan by MOD_CRUSH
+[Sat Dec 03 15:00:31 2016]  say: ^4Hy^0Dro: lel
+[Sat Dec 03 15:00:36 2016]  say: Padawan: super power xD
+[Sat Dec 03 15:00:50 2016]  say: ^4Hy^0Dro: :D
+[Sat Dec 03 15:00:51 2016]  say: ^4Hy^0Dro: go in
+[Sat Dec 03 15:01:00 2016]  say: Padawan: lol
+[Sat Dec 03 15:01:17 2016]  say: ^4Hy^0Dro: i used to play this all the time
+[Sat Dec 03 15:01:25 2016]  say: Padawan: haha
+[Sat Dec 03 15:01:28 2016]  say: Padawan: nice
+[Sat Dec 03 15:01:33 2016]  Kill: 1 0 0: ^4Hy^0Dro killed Padawan by MOD_UNKNOWN
+[Sat Dec 03 15:01:36 2016]  say: ^4Hy^0Dro: o_o
+[Sat Dec 03 15:01:39 2016]  say: ^4Hy^0Dro: My origin is: (15439 1350 4767) - You can teleport here with /mtelelast
+
+[Sat Dec 03 15:01:40 2016]  say: Padawan: haha
+[Sat Dec 03 15:02:10 2016]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Sat Dec 03 15:02:15 2016]  say: ^4Hy^0Dro: gg
+[Sat Dec 03 15:02:19 2016]  Kill: 1022 1 2: <world> killed ^4Hy^0Dro by MOD_MELEE
+[Sat Dec 03 15:02:31 2016]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Sat Dec 03 15:02:35 2016]  say: Padawan: rofl
+[Sat Dec 03 15:02:36 2016]  Kill: 1022 1 3: <world> killed ^4Hy^0Dro by MOD_SABER
+[Sat Dec 03 15:03:08 2016]  say: ^4Hy^0Dro: lmao
+[Sat Dec 03 15:03:22 2016]  say: ^4Hy^0Dro: weak luke
+[Sat Dec 03 15:03:49 2016]  Kill: 1022 1 3: <world> killed ^4Hy^0Dro by MOD_SABER
+[Sat Dec 03 15:04:00 2016]  Kill: 1022 1 3: <world> killed ^4Hy^0Dro by MOD_SABER
+[Sat Dec 03 15:04:03 2016]  say: ^4Hy^0Dro: wow XD
+[Sat Dec 03 15:04:05 2016]  say: ^4Hy^0Dro: gettin rekt
+[Sat Dec 03 15:04:29 2016]  say: ^4Hy^0Dro: no rancors xD
+[Sat Dec 03 15:04:39 2016]  say: ^4Hy^0Dro: My origin is: (15345 1495 4746) - You can teleport here with /mtelelast
+
+[Sat Dec 03 15:04:57 2016]  say: Padawan: xD
+[Sat Dec 03 15:05:08 2016]  say: ^4Hy^0Dro: XD
+[Sat Dec 03 15:05:33 2016]  say: ^4Hy^0Dro: lol
+[Sat Dec 03 15:06:12 2016]  say: ^4Hy^0Dro: gg
+[Sat Dec 03 15:06:18 2016]  Kill: 1022 1 3: <world> killed ^4Hy^0Dro by MOD_SABER
+[Sat Dec 03 15:06:23 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Sat Dec 03 15:06:25 2016]  say: Padawan: hahah
+[Sat Dec 03 15:06:41 2016]  say: ^4Hy^0Dro: >:D
+[Sat Dec 03 15:06:47 2016]  say: ^4Hy^0Dro: im remembering my scripts now
+[Sat Dec 03 15:06:55 2016]  say: Padawan: xD
+[Sat Dec 03 15:07:01 2016]  say: ^4Hy^0Dro: death ball
+[Sat Dec 03 15:07:01 2016]  say: Padawan: im not
+[Sat Dec 03 15:07:17 2016]  say: ^4Hy^0Dro: gg luke
+[Sat Dec 03 15:07:41 2016]  say: Padawan: w8 hydro
+[Sat Dec 03 15:07:44 2016]  say: ^4Hy^0Dro: ?
+[Sat Dec 03 15:07:48 2016]  say: Padawan: let me try
+[Sat Dec 03 15:07:48 2016]  say: ^4Hy^0Dro: push it
+[Sat Dec 03 15:07:56 2016]  say: Padawan: haha
+[Sat Dec 03 15:08:26 2016]  say: ^4Hy^0Dro: that's the worst XD
+[Sat Dec 03 15:08:30 2016]  say: ^4Hy^0Dro: rapid fire
+[Sat Dec 03 15:08:36 2016]  Kill: 1 0 36: ^4Hy^0Dro killed Padawan by MOD_CRUSH
+[Sat Dec 03 15:08:40 2016]  say: Padawan: xD
+[Sat Dec 03 15:08:43 2016]  say: ^4Hy^0Dro: My origin is: (15669 2708 4753) - You can teleport here with /mtelelast
+
+[Sat Dec 03 15:09:22 2016]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Sat Dec 03 15:09:25 2016]  say: ^4Hy^0Dro: o_o
+[Sat Dec 03 15:10:12 2016]  say: ^4Hy^0Dro: oh check this out
+[Sat Dec 03 15:10:32 2016]  say: ^4Hy^0Dro: XD
+[Sat Dec 03 15:10:41 2016]  say: ^4Hy^0Dro: o_O
+[Sat Dec 03 15:10:43 2016]  say: Padawan: rofl
+[Sat Dec 03 15:10:45 2016]  say: Padawan: Wth
+[Sat Dec 03 15:10:50 2016]  say: Padawan: LOL
+[Sat Dec 03 15:10:57 2016]  say: Padawan: they r fighting
+[Sat Dec 03 15:11:00 2016]  say: ^4Hy^0Dro: ikr 
+[Sat Dec 03 15:11:10 2016]  say: Padawan: /mattack xD
+[Sat Dec 03 15:11:21 2016]  say: Padawan: like this
+[Sat Dec 03 15:11:45 2016]  say: Padawan: xD
+[Sat Dec 03 15:11:54 2016]  say: ^4Hy^0Dro: new spot
+[Sat Dec 03 15:11:59 2016]  say: Padawan: tele
+[Sat Dec 03 15:12:02 2016]  say: ^4Hy^0Dro: sec
+[Sat Dec 03 15:12:04 2016]  say: Padawan: k
+[Sat Dec 03 15:12:17 2016]  say: Padawan: how i can spawn a platform ?
+[Sat Dec 03 15:12:23 2016]  say: ^4Hy^0Dro: er
+[Sat Dec 03 15:12:29 2016]  say: ^4Hy^0Dro: mcatwalk or something
+[Sat Dec 03 15:12:44 2016]  say: Padawan: .-.
+[Sat Dec 03 15:13:12 2016]  say: ^4Hy^0Dro: My origin is: (16909 -15356 1872) - You can teleport here with /mtelelast
+
+[Sat Dec 03 15:13:30 2016]  say: ^4Hy^0Dro: there
+[Sat Dec 03 15:13:57 2016]  say: Padawan: how can i see the objects names ?
+[Sat Dec 03 15:14:11 2016]  say: ^4Hy^0Dro: start with /mlist
+[Sat Dec 03 15:14:16 2016]  say: Padawan: omg
+[Sat Dec 03 15:14:16 2016]  say: Padawan: ty
+[Sat Dec 03 15:14:18 2016]  say: ^4Hy^0Dro: XD
+[Sat Dec 03 15:14:21 2016]  say: ^4Hy^0Dro: wait
+[Sat Dec 03 15:14:26 2016]  say: ^4Hy^0Dro: i may have a tutorial script
+[Sat Dec 03 15:15:41 2016]  say: Padawan: unrecongnised special object name
+[Sat Dec 03 15:15:45 2016]  say: Padawan: ;x
+[Sat Dec 03 15:15:51 2016]  say: ^4Hy^0Dro: today's your lucky day XD
+[Sat Dec 03 15:15:55 2016]  say: Padawan: why ?
+[Sat Dec 03 15:16:01 2016]  say: ^4Hy^0Dro: press R
+[Sat Dec 03 15:16:04 2016]  say: Padawan: omg
+[Sat Dec 03 15:16:06 2016]  say: Padawan: xD
+[Sat Dec 03 15:16:07 2016]  say: ^4Hy^0Dro: follow the instructions
+[Sat Dec 03 15:16:14 2016]  say: ^4Hy^0Dro: shatterlight is a makermod legend
+[Sat Dec 03 15:16:20 2016]  say: ^4Hy^0Dro: he gave me all of his scripts
+[Sat Dec 03 15:16:24 2016]  say: ^4Hy^0Dro: lol
+[Sat Dec 03 15:16:27 2016]  say: Padawan: cool
+[Sat Dec 03 15:16:39 2016]  say: ^4Hy^0Dro: been playing this game like 10 years at least o_o
+[Sat Dec 03 15:16:44 2016]  say: Padawan: xD
+[Sat Dec 03 15:16:46 2016]  say: Padawan: how old?
+[Sat Dec 03 15:16:50 2016]  say: ^4Hy^0Dro: this game is iold
+[Sat Dec 03 15:16:52 2016]  say: ^4Hy^0Dro: old
+[Sat Dec 03 15:16:55 2016]  say: ^4Hy^0Dro: but still good
+[Sat Dec 03 15:17:02 2016]  say: ^4Hy^0Dro: do /mpassword begin
+[Sat Dec 03 15:17:08 2016]  say: ^4Hy^0Dro: then jump in
+[Sat Dec 03 15:17:12 2016]  say: ^4Hy^0Dro: :P
+[Sat Dec 03 15:18:06 2016]  say: ^4Hy^0Dro: so with scripts, you actually type the commands into a text file, then execute it
+[Sat Dec 03 15:18:19 2016]  say: ^4Hy^0Dro: and you can keybind them if u want
+[Sat Dec 03 15:18:25 2016]  say: Padawan: haha
+[Sat Dec 03 15:18:26 2016]  say: Padawan: i know
+[Sat Dec 03 15:18:28 2016]  say: Padawan: but no
+[Sat Dec 03 15:18:33 2016]  say: Padawan: ill play w manual cmds 
+[Sat Dec 03 15:18:34 2016]  say: Padawan: xD
+[Sat Dec 03 15:19:04 2016]  say: Padawan: hmm
+[Sat Dec 03 15:20:13 2016]  say: ^4Hy^0Dro: u know the commands?
+[Sat Dec 03 15:20:25 2016]  say: Padawan: idk how to place the object
+[Sat Dec 03 15:20:25 2016]  say: ^4Hy^0Dro: whoa
+[Sat Dec 03 15:20:26 2016]  say: ^4Hy^0Dro: lol
+[Sat Dec 03 15:20:28 2016]  say: Padawan: xD
+[Sat Dec 03 15:20:28 2016]  say: ^4Hy^0Dro: u just did
+[Sat Dec 03 15:20:32 2016]  say: ^4Hy^0Dro: oh
+[Sat Dec 03 15:20:34 2016]  say: ^4Hy^0Dro: /mplace
+[Sat Dec 03 15:20:42 2016]  say: Padawan: no no
+[Sat Dec 03 15:20:45 2016]  say: Padawan: stop to grab
+[Sat Dec 03 15:21:01 2016]  say: ^4Hy^0Dro: /mdrop
+[Sat Dec 03 15:21:05 2016]  say: Padawan: yay
+[Sat Dec 03 15:21:13 2016]  say: Padawan: ty
+[Sat Dec 03 15:21:20 2016]  say: ^4Hy^0Dro: manual sucks tho, it only saves with this server... if this server will even last
+[Sat Dec 03 15:21:35 2016]  say: ^4Hy^0Dro: scripts are better because they can be used any server
+[Sat Dec 03 15:21:50 2016]  say: ^4Hy^0Dro: you might lose your work depending on this server
+[Sat Dec 03 15:22:11 2016]  say: ^4Hy^0Dro: ohhh this
+[Sat Dec 03 15:22:17 2016]  say: Padawan: lol
+[Sat Dec 03 15:22:19 2016]  say: ^4Hy^0Dro: this was my first script i believe
+[Sat Dec 03 15:22:26 2016]  say: Padawan: why dupplicate ?
+[Sat Dec 03 15:22:38 2016]  say: Padawan: and why i cant grab the other rock ?
+[Sat Dec 03 15:22:39 2016]  say: ^4Hy^0Dro: spawner box lol
+[Sat Dec 03 15:22:45 2016]  say: ^4Hy^0Dro: idk man
+[Sat Dec 03 15:22:48 2016]  say: Padawan: rofl
+[Sat Dec 03 15:22:50 2016]  say: Padawan: rofl
+[Sat Dec 03 15:22:54 2016]  say: Padawan: no problem
+[Sat Dec 03 15:22:57 2016]  say: ^4Hy^0Dro: XD
+[Sat Dec 03 15:23:00 2016]  say: ^4Hy^0Dro: i haven't played in years
+[Sat Dec 03 15:23:20 2016]  say: ^4Hy^0Dro: amhelpo
+[Sat Dec 03 15:23:53 2016]  say: ^4Hy^0Dro: you can also turn objects into teleporters
+[Sat Dec 03 15:23:59 2016]  say: Padawan: yay
+[Sat Dec 03 15:24:23 2016]  Kill: 1 0 0: ^4Hy^0Dro killed Padawan by MOD_UNKNOWN
+[Sat Dec 03 15:24:25 2016]  say: ^4Hy^0Dro: o_o
+[Sat Dec 03 15:24:25 2016]  say: ^4Hy^0Dro: woops
+[Sat Dec 03 15:24:26 2016]  say: ^4Hy^0Dro: My origin is: (16746 -13963 1874) - You can teleport here with /mtelelast
+
+[Sat Dec 03 15:26:10 2016]  say: ^4Hy^0Dro: lol
+[Sat Dec 03 15:26:57 2016]  say: ^4Hy^0Dro: oh yea xD
+[Sat Dec 03 15:27:04 2016]  say: ^4Hy^0Dro: My origin is: (-3817 -2143 2462) - You can teleport here with /mtelelast
+
+[Sat Dec 03 15:27:20 2016]  say: ^4Hy^0Dro: tele
+[Sat Dec 03 15:27:24 2016]  say: ^4Hy^0Dro: My origin is: (-3024 -2245 1952) - You can teleport here with /mtelelast
+
+[Sat Dec 03 15:27:54 2016]  say: ^4Hy^0Dro: teleboxes xD
+[Sat Dec 03 15:28:00 2016]  say: Padawan: xD
+[Sat Dec 03 15:28:05 2016]  say: ^4Hy^0Dro: press R on one
+[Sat Dec 03 15:28:12 2016]  say: Padawan: xD
+[Sat Dec 03 15:28:14 2016]  say: ^4Hy^0Dro: different spots around the map
+[Sat Dec 03 15:28:19 2016]  say: Padawan: cool
+[Sat Dec 03 15:28:21 2016]  Kill: 1 0 3: ^4Hy^0Dro killed Padawan by MOD_SABER
+[Sat Dec 03 15:28:23 2016]  say: ^4Hy^0Dro: XD
+[Sat Dec 03 15:29:09 2016]  say: ^4Hy^0Dro: ooooo
+[Sat Dec 03 15:30:19 2016]  say: ^4Hy^0Dro: welp
+[Sat Dec 03 15:30:21 2016]  say: ^4Hy^0Dro: have fun lol
+[Sat Dec 03 15:30:26 2016]  say: Padawan: ty
+[Sat Dec 03 15:30:29 2016]  ClientDisconnect: 1
+[Sat Dec 03 15:30:35 2016]  ClientDisconnect: 0
+[Sat Dec 03 22:43:12 2016]  ClientConnect: 0
+[Sat Dec 03 22:43:12 2016]  mlog:Player Andrzej, connected. With IP - 185.22.136.40:29070 
+[Sat Dec 03 22:43:24 2016]  ClientConnect: 1
+[Sat Dec 03 22:43:24 2016]  mlog:Player Akise, connected. With IP - 109.243.137.23:29070 
+[Sat Dec 03 22:43:39 2016]  ClientBegin: 0
+[Sat Dec 03 22:44:04 2016]  ClientBegin: 1
+[Sat Dec 03 22:45:40 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 22:48:50 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 22:49:30 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 22:50:04 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 22:50:11 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 22:50:51 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 22:51:18 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 22:51:56 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 22:52:59 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 22:53:45 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 22:54:03 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 22:54:17 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 22:54:54 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 22:56:27 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 22:57:16 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 22:58:19 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 22:58:36 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:00:55 2016]  ClientDisconnect: 1
+[Sat Dec 03 23:02:00 2016]  ClientConnect: 1
+[Sat Dec 03 23:02:00 2016]  mlog:Player Akise, connected. With IP - 109.243.137.23:29070 
+[Sat Dec 03 23:02:16 2016]  ClientBegin: 1
+[Sat Dec 03 23:03:12 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:03:35 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:03:49 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:04:15 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:04:33 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:04:51 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:05:23 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:06:01 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:06:38 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:09:30 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:10:06 2016]  Kill: 1 0 5: Akise killed Andrzej by MOD_BRYAR_PISTOL_ALT
+[Sat Dec 03 23:10:43 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:12:06 2016]  Kill: 0 1 4: Andrzej killed Akise by MOD_BRYAR_PISTOL
+[Sat Dec 03 23:13:03 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:13:53 2016]  Kill: 0 1 31: Andrzej killed Akise by MOD_FORCE_DARK
+[Sat Dec 03 23:14:12 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:14:29 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:14:57 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:15:38 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:18:54 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:19:17 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:20:04 2016]  Kill: 1 0 5: Akise killed Andrzej by MOD_BRYAR_PISTOL_ALT
+[Sat Dec 03 23:20:28 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:21:00 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:21:23 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:21:31 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:21:42 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:22:35 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:23:08 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:24:23 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:24:48 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:25:14 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:25:31 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:25:41 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:26:11 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:26:30 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:26:39 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:26:54 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:27:06 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:27:37 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:28:00 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:28:19 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:28:25 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:28:49 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:29:11 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:29:23 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:29:32 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:29:45 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:30:11 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:30:27 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:30:46 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:30:56 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:31:05 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:31:20 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:31:35 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:31:44 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:31:56 2016]  Kill: 0 1 31: Andrzej killed Akise by MOD_FORCE_DARK
+[Sat Dec 03 23:32:12 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:32:34 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:32:45 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:32:54 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:33:22 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:34:22 2016]  Kill: 0 1 3: Andrzej killed Akise by MOD_SABER
+[Sat Dec 03 23:34:40 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:38:19 2016]  Kill: 1 0 3: Akise killed Andrzej by MOD_SABER
+[Sat Dec 03 23:38:24 2016]  ClientDisconnect: 0
+[Sat Dec 03 23:38:27 2016]  ClientDisconnect: 1
+[Sun Dec 04 07:22:13 2016]  ClientConnect: 0
+[Sun Dec 04 07:22:13 2016]  mlog:Player Padawan, connected. With IP - 88.132.113.98:29070 
+[Sun Dec 04 07:22:55 2016]  ClientBegin: 0
+[Sun Dec 04 07:51:26 2016]  ClientDisconnect: 0
+[Sun Dec 04 07:51:26 2016]  ClientDisconnect: 0
+[Sun Dec 04 07:51:26 2016]  ClientConnect: 0
+[Sun Dec 04 07:51:26 2016]  mlog:Player [^0WoD^7]^1U^0nDeaD, connected. With IP - 88.132.113.98:29070 
+[Sun Dec 04 07:51:42 2016]  ClientBegin: 0
+[Sun Dec 04 07:53:21 2016]  ClientDisconnect: 0
+[Sun Dec 04 09:26:44 2016]  ClientConnect: 0
+[Sun Dec 04 09:26:44 2016]  mlog:Player Padawan, connected. With IP - 88.132.113.98:29070 
+[Sun Dec 04 09:27:35 2016]  ClientBegin: 0
+[Sun Dec 04 09:29:25 2016]  ClientConnect: 1
+[Sun Dec 04 09:29:25 2016]  mlog:Player Padawan, connected. With IP - 178.218.204.142:29070 
+[Sun Dec 04 09:30:30 2016]  ClientBegin: 1
+[Sun Dec 04 09:32:24 2016]  say: Padawan: ацавы
+[Sun Dec 04 09:32:27 2016]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Dec 04 09:32:27 2016]  setteam:  1 FREE SPECTATOR
+[Sun Dec 04 09:32:27 2016]  ClientBegin: 1
+[Sun Dec 04 09:32:35 2016]  setteam:  1 SPECTATOR FREE
+[Sun Dec 04 09:32:35 2016]  ClientBegin: 1
+[Sun Dec 04 09:34:10 2016]  say: Padawan: алоооооооооооооооооо
+[Sun Dec 04 09:35:58 2016]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Dec 04 09:35:58 2016]  setteam:  1 FREE SPECTATOR
+[Sun Dec 04 09:35:58 2016]  ClientBegin: 1
+[Sun Dec 04 09:36:05 2016]  setteam:  1 SPECTATOR FREE
+[Sun Dec 04 09:36:05 2016]  ClientBegin: 1
+[Sun Dec 04 09:36:48 2016]  say: Padawan: nocilh
+[Sun Dec 04 09:36:56 2016]  say: Padawan: noclin
+[Sun Dec 04 09:37:39 2016]  ClientDisconnect: 1
+[Sun Dec 04 09:55:46 2016]  say: [^0WoD^7]^1U^0nDeaD: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Sun Dec 04 09:56:11 2016]  say: [^0WoD^7]^1U^0nDeaD: ^5FORCE ^5BLAST!
+[Sun Dec 04 09:56:15 2016]  say: [^0WoD^7]^1U^0nDeaD: ^2ELEMENT ^5POWERS OFF
+[Sun Dec 04 09:56:17 2016]  say: [^0WoD^7]^1U^0nDeaD: ^5FORCE ^5BLAST!
+[Sun Dec 04 09:56:23 2016]  say: [^0WoD^7]^1U^0nDeaD: ^1FORCE DESTRUCTION!
+[Sun Dec 04 09:56:26 2016]  say: [^0WoD^7]^1U^0nDeaD: ^1FORCE DESTRUCTION!
+[Sun Dec 04 09:56:37 2016]  say: [^0WoD^7]^1U^0nDeaD: ^0ELECTRICITY ^0ATTACK!
+[Sun Dec 04 09:56:48 2016]  say: [^0WoD^7]^1U^0nDeaD: ^0THROWING ^0HAND ^0GRENADE...
+[Sun Dec 04 09:56:52 2016]  say: [^0WoD^7]^1U^0nDeaD: ^0HAND ^0GRENADE ^0THROWN!
+[Sun Dec 04 09:56:55 2016]  say: [^0WoD^7]^1U^0nDeaD: ^1FIRE BALL!
+[Sun Dec 04 09:56:59 2016]  say: [^0WoD^7]^1U^0nDeaD: POISON ^0BALL!
+[Sun Dec 04 09:57:03 2016]  say: [^0WoD^7]^1U^0nDeaD: ^1RAGE ^3BLAST!
+[Sun Dec 04 09:57:06 2016]  say: [^0WoD^7]^1U^0nDeaD: ^5JEDI ^3FAITH!
+[Sun Dec 04 09:57:14 2016]  say: [^0WoD^7]^1U^0nDeaD: ^6MEGA ^7PUNCH!
+[Sun Dec 04 09:57:17 2016]  say: [^0WoD^7]^1U^0nDeaD: ^0ROCK ^6SMASH!
+[Sun Dec 04 09:57:24 2016]  say: [^0WoD^7]^1U^0nDeaD: ^2ELEMENT ^5POWERS OFF
+[Sun Dec 04 09:57:33 2016]  say: [^0WoD^7]^1U^0nDeaD: ^1CRITICAL ^4ATTACK!
+[Sun Dec 04 09:57:36 2016]  say: [^0WoD^7]^1U^0nDeaD: ^6WHIRLWIND!
+[Sun Dec 04 09:57:44 2016]  say: [^0WoD^7]^1U^0nDeaD: ^4RESSURECT ^0THE ^1DEAD!
+[Sun Dec 04 09:57:51 2016]  say: [^0WoD^7]^1U^0nDeaD: ^3SUPER ^1JETPACK!
+[Sun Dec 04 10:15:03 2016]  ClientDisconnect: 0
+[Sun Dec 04 11:41:00 2016]  ClientConnect: 0
+[Sun Dec 04 11:41:00 2016]  mlog:Player Padawan, connected. With IP - 88.132.113.98:29070 
+[Sun Dec 04 11:41:48 2016]  ClientBegin: 0
+[Sun Dec 04 11:55:33 2016]  ClientDisconnect: 0
+[Sun Dec 04 14:49:21 2016]  ClientConnect: 0
+[Sun Dec 04 14:49:21 2016]  mlog:Player Padawan, connected. With IP - 88.237.200.18:29070 
+[Sun Dec 04 14:50:20 2016]  ClientDisconnect: 0
+[Mon Dec 05 02:02:45 2016]  ClientConnect: 0
+[Mon Dec 05 02:02:45 2016]  mlog:Player Padawan, connected. With IP - 88.132.113.98:29070 
+[Mon Dec 05 02:03:20 2016]  ClientBegin: 0
+[Mon Dec 05 02:50:39 2016]  ClientDisconnect: 0

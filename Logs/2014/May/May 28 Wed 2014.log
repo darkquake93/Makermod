@@ -1,0 +1,124 @@
+[Wed May 28 04:51:45 2014]  ------------------------------------------------------------
+[Wed May 28 04:51:45 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 28 04:51:47 2014]  ClientConnect: 0
+[Wed May 28 04:51:57 2014]  ClientBegin: 0
+[Wed May 28 04:52:27 2014]  ClientDisconnect: 0
+[Wed May 28 04:52:27 2014]  ClientDisconnect: 0
+[Wed May 28 04:52:27 2014]  ClientConnect: 0
+[Wed May 28 04:52:27 2014]  mlog:Player ^5T^0asma^7n^5n^7!^0¹, connected. With IP - 75.182.127.159:29070 
+[Wed May 28 04:52:34 2014]  ClientBegin: 0
+[Wed May 28 05:05:54 2014]  say: ^5T^0asma^7n^5n^7!^0¹: r_draw2d
+[Wed May 28 05:09:01 2014]  Kill: 0 0 36: ^5T^0asma^7n^5n^7!^0¹ killed ^5T^0asma^7n^5n^7!^0¹ by MOD_CRUSH
+[Wed May 28 05:10:18 2014]  Kill: 0 0 39: ^5T^0asma^7n^5n^7!^0¹ killed ^5T^0asma^7n^5n^7!^0¹ by MOD_SUICIDE
+[Wed May 28 05:24:33 2014]  ClientDisconnect: 0
+[Wed May 28 06:51:45 2014]  Exit: Timelimit hit.
+[Wed May 28 15:02:16 2014]  ClientConnect: 0
+[Wed May 28 15:02:16 2014]  mlog:Player Davidino, connected. With IP - 151.77.209.20:27046 
+[Wed May 28 15:05:36 2014]  ClientDisconnect: 0
+[Wed May 28 18:02:40 2014]  ClientConnect: 0
+[Wed May 28 18:02:40 2014]  mlog:Player ^0D^1eathman, connected. With IP - 178.124.108.88:9307 
+[Wed May 28 18:03:02 2014]  ClientBegin: 0
+[Wed May 28 18:03:06 2014]  ShutdownGame:
+[Wed May 28 18:03:06 2014]  ------------------------------------------------------------
+[Wed May 28 18:03:07 2014]  ------------------------------------------------------------
+[Wed May 28 18:03:07 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 28 18:03:09 2014]  ClientConnect: 0
+[Wed May 28 18:03:21 2014]  ClientBegin: 0
+[Wed May 28 18:10:20 2014]  Kill: 0 0 39: ^0D^1eathman killed ^0D^1eathman by MOD_SUICIDE
+[Wed May 28 18:11:44 2014]  ClientDisconnect: 0
+[Wed May 28 20:03:06 2014]  Exit: Timelimit hit.
+[Wed May 28 22:03:16 2014]  ClientConnect: 0
+[Wed May 28 22:03:16 2014]  mlog:Player Padawan, connected. With IP - 190.209.136.133:29070 
+[Wed May 28 22:03:36 2014]  ClientBegin: 0
+[Wed May 28 22:03:39 2014]  ShutdownGame:
+[Wed May 28 22:03:39 2014]  ------------------------------------------------------------
+[Wed May 28 22:03:40 2014]  ------------------------------------------------------------
+[Wed May 28 22:03:40 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed May 28 22:03:42 2014]  ClientConnect: 0
+[Wed May 28 22:03:57 2014]  ClientBegin: 0
+[Wed May 28 22:10:53 2014]  say: ^4Diego o.o: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Wed May 28 22:11:28 2014]  say: ^4Diego o.o: ^0ELECTRICITY ^0ATTACK!
+[Wed May 28 22:11:32 2014]  say: ^4Diego o.o: ^0ELECTRICITY ^0ATTACK!
+[Wed May 28 22:11:35 2014]  say: ^4Diego o.o: ^0ELECTRICITY ^0ATTACK!
+[Wed May 28 22:11:50 2014]  say: ^4Diego o.o: ^0ELECTRICITY ^0ATTACK!
+[Wed May 28 22:12:06 2014]  say: ^4Diego o.o: ^3SETTING ^0BOMB...
+[Wed May 28 22:12:07 2014]  say: ^4Diego o.o: ^0BOMB ^3SET!
+[Wed May 28 22:12:19 2014]  say: ^4Diego o.o: ^3SETTING ^0BOMB...
+[Wed May 28 22:12:21 2014]  say: ^4Diego o.o: ^0BOMB ^3SET!
+[Wed May 28 22:12:42 2014]  say: ^4Diego o.o: ^3DETONATING ^0BOMB...
+[Wed May 28 22:12:47 2014]  say: ^4Diego o.o: ^3SETTING ^0BOMB...
+[Wed May 28 22:12:49 2014]  say: ^4Diego o.o: ^0BOMB ^3SET!
+[Wed May 28 22:12:52 2014]  say: ^4Diego o.o: ^3DETONATING ^0BOMB...
+[Wed May 28 22:13:03 2014]  say: ^4Diego o.o: ^0TRAP!
+[Wed May 28 22:13:05 2014]  say: ^4Diego o.o: ^0TRAP!
+[Wed May 28 22:13:13 2014]  say: ^4Diego o.o: ^2ELEMENT ^5POWERS OFF
+[Wed May 28 22:16:43 2014]  say: ^4Diego o.o: ^1FIRE BALL!
+[Wed May 28 22:16:45 2014]  say: ^4Diego o.o: ^1FIRE BALL!
+[Wed May 28 22:16:52 2014]  say: ^4Diego o.o: ^1FIRE BALL!
+[Wed May 28 22:16:54 2014]  say: ^4Diego o.o: ^1FIRE BALL!
+[Wed May 28 22:16:56 2014]  say: ^4Diego o.o: ^1FIRE BALL!
+[Wed May 28 22:27:18 2014]  Item: 0 weapon_demp2
+[Wed May 28 22:46:13 2014]  say: ^4Diego o.o: r
+[Wed May 28 22:46:16 2014]  Item: 0 ammo_all
+[Wed May 28 22:47:46 2014]  Kill: 1022 0 19: <world> killed ^4Diego o.o by MOD_ROCKET
+[Wed May 28 22:54:27 2014]  say: ^4Diego o.o: &noclip
+[Wed May 28 22:55:18 2014]  say: ^4Diego o.o: ^1FIRE BALL!
+[Wed May 28 22:55:21 2014]  say: ^4Diego o.o: ^1FIRE BALL!
+[Wed May 28 22:55:26 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 22:55:29 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 22:55:29 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 22:55:32 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 22:55:34 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 22:55:37 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 22:55:38 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 22:55:41 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 22:55:42 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 22:55:45 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 22:58:18 2014]  Kill: 1022 0 2: <world> killed ^4Diego o.o by MOD_MELEE
+[Wed May 28 22:59:27 2014]  Kill: 1022 0 2: <world> killed ^4Diego o.o by MOD_MELEE
+[Wed May 28 23:01:06 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:01:11 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:01:11 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:01:17 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:01:17 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:01:22 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:01:27 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:01:30 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:01:31 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:01:33 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:01:35 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:01:37 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:01:37 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:01:40 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:01:40 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:01:42 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:01:42 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:01:46 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:01:46 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:01:49 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:02:11 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:02:13 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:02:15 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:02:17 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:02:21 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:02:26 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:02:27 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:02:31 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:02:32 2014]  say: ^4Diego o.o: ^0THROWING ^0HAND ^0GRENADE...
+[Wed May 28 23:02:37 2014]  say: ^4Diego o.o: ^0HAND ^0GRENADE ^0THROWN!
+[Wed May 28 23:06:22 2014]  Kill: 1022 0 2: <world> killed ^4Diego o.o by MOD_MELEE
+[Wed May 28 23:06:36 2014]  ClientDisconnect: 0
+[Wed May 28 23:06:52 2014]  ClientConnect: 0
+[Wed May 28 23:06:52 2014]  mlog:Player EBER, connected. With IP - 195.2.169.147:29070 
+[Wed May 28 23:07:40 2014]  ClientBegin: 0
+[Wed May 28 23:08:24 2014]  Kill: 1022 0 2: <world> killed EBER by MOD_MELEE
+[Wed May 28 23:08:33 2014]  ClientDisconnect: 0
+[Thu May 29 00:03:39 2014]  Exit: Timelimit hit.
+[Thu May 29 04:44:27 2014]  ClientConnect: 0
+[Thu May 29 04:44:27 2014]  mlog:Player Dal-Gurak, connected. With IP - 109.50.101.39:29070 
+[Thu May 29 04:44:50 2014]  ClientConnect: 1
+[Thu May 29 04:44:50 2014]  mlog:Player BioJaeger, connected. With IP - 178.166.45.235:-5434 
+[Thu May 29 04:45:07 2014]  ClientBegin: 0
+[Thu May 29 04:45:40 2014]  ClientDisconnect: 1
+[Thu May 29 04:46:29 2014]  ShutdownGame:
+[Thu May 29 04:46:29 2014]  ------------------------------------------------------------

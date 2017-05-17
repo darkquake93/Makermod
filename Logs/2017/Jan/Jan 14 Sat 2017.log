@@ -1,0 +1,582 @@
+[Sat Jan 14 05:03:28 2017]  ------------------------------------------------------------
+[Sat Jan 14 05:03:28 2017]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/ffa1\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Jan 14 05:03:28 2017]  ClientConnect: 0
+[Sat Jan 14 05:03:28 2017]  ClientConnect: 1
+[Sat Jan 14 05:03:28 2017]  ClientConnect: 2
+[Sat Jan 14 05:03:34 2017]  ClientBegin: 2
+[Sat Jan 14 05:03:34 2017]  ClientBegin: 0
+[Sat Jan 14 05:03:38 2017]  ClientBegin: 1
+[Sat Jan 14 05:03:41 2017]  Item: 0 weapon_repeater
+[Sat Jan 14 05:03:56 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:04:00 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:04:04 2017]  Kill: 2 2 38: King Harambe killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:04:06 2017]  Item: 0 weapon_thermal
+[Sat Jan 14 05:04:11 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:04:16 2017]  Item: 2 weapon_disruptor
+[Sat Jan 14 05:04:18 2017]  Item: 0 weapon_blaster
+[Sat Jan 14 05:04:18 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:04:18 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:04:19 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:04:26 2017]  Item: 0 ammo_blaster
+[Sat Jan 14 05:04:26 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:04:27 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:04:33 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:04:37 2017]  Item: 1 ammo_rockets
+[Sat Jan 14 05:04:37 2017]  Item: 1 ammo_powercell
+[Sat Jan 14 05:04:50 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:05:03 2017]  Kill: 0 0 38: Arenova killed Arenova by MOD_FALLING
+[Sat Jan 14 05:05:22 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:05:35 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 05:05:38 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:05:45 2017]  Kill: 1022 1 38: <world> killed Cancer Child by MOD_FALLING
+[Sat Jan 14 05:05:58 2017]  Item: 0 ammo_blaster
+[Sat Jan 14 05:06:01 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:06:15 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:06:27 2017]  Item: 0 weapon_rocket_launcher
+[Sat Jan 14 05:06:33 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:06:34 2017]  Item: 1 ammo_powercell
+[Sat Jan 14 05:06:49 2017]  Item: 0 weapon_concussion_rifle
+[Sat Jan 14 05:06:54 2017]  Item: 1 weapon_concussion_rifle
+[Sat Jan 14 05:06:57 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:06:58 2017]  Item: 0 item_shield_lrg_instant
+[Sat Jan 14 05:07:22 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:07:30 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:07:31 2017]  Item: 1 ammo_blaster
+[Sat Jan 14 05:07:33 2017]  Item: 2 weapon_bowcaster
+[Sat Jan 14 05:07:37 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:07:42 2017]  Item: 0 ammo_blaster
+[Sat Jan 14 05:07:42 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:07:49 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:07:50 2017]  Item: 2 weapon_flechette
+[Sat Jan 14 05:07:59 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:07:59 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:08:01 2017]  Item: 1 weapon_flechette
+[Sat Jan 14 05:08:18 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 05:08:20 2017]  Item: 1 weapon_concussion_rifle
+[Sat Jan 14 05:08:23 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:08:27 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:08:27 2017]  Item: 0 weapon_bowcaster
+[Sat Jan 14 05:08:28 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:08:33 2017]  Item: 0 weapon_rocket_launcher
+[Sat Jan 14 05:08:36 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:08:36 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:08:40 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:08:41 2017]  Item: 2 weapon_concussion_rifle
+[Sat Jan 14 05:08:48 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:09:04 2017]  Item: 1 weapon_bowcaster
+[Sat Jan 14 05:09:05 2017]  Item: 2 item_shield_sm_instant
+[Sat Jan 14 05:09:08 2017]  Kill: 0 1 31: Arenova killed Cancer Child by MOD_FORCE_DARK
+[Sat Jan 14 05:09:12 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:09:21 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:09:38 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:09:47 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:09:54 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:10:01 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:10:16 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:10:19 2017]  Item: 1 weapon_concussion_rifle
+[Sat Jan 14 05:10:28 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:10:31 2017]  Item: 1 ammo_blaster
+[Sat Jan 14 05:10:34 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:10:34 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:10:42 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:11:04 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:11:07 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:11:16 2017]  Item: 0 weapon_rocket_launcher
+[Sat Jan 14 05:11:38 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:11:56 2017]  Kill: 2 1 38: King Harambe killed Cancer Child by MOD_FALLING
+[Sat Jan 14 05:12:16 2017]  Kill: 2 0 38: King Harambe killed Arenova by MOD_FALLING
+[Sat Jan 14 05:12:22 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:12:22 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:12:35 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:12:40 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:12:58 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:12:59 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:13:06 2017]  Item: 0 weapon_rocket_launcher
+[Sat Jan 14 05:13:23 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:13:37 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:13:56 2017]  Item: 0 weapon_rocket_launcher
+[Sat Jan 14 05:14:05 2017]  Kill: 0 2 19: Arenova killed King Harambe by MOD_ROCKET
+[Sat Jan 14 05:14:05 2017]  Kill: 0 1 20: Arenova killed Cancer Child by MOD_ROCKET_SPLASH
+[Sat Jan 14 05:14:08 2017]  Item: 2 weapon_disruptor
+[Sat Jan 14 05:14:20 2017]  Item: 0 ammo_blaster
+[Sat Jan 14 05:14:21 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:14:33 2017]  Item: 1 weapon_demp2
+[Sat Jan 14 05:14:36 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:14:43 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:14:44 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 05:14:46 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:14:49 2017]  Item: 1 weapon_concussion_rifle
+[Sat Jan 14 05:14:49 2017]  Item: 0 weapon_disruptor
+[Sat Jan 14 05:15:14 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:15:24 2017]  Item: 2 weapon_concussion_rifle
+[Sat Jan 14 05:15:28 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:15:28 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:15:53 2017]  Item: 0 ammo_rockets
+[Sat Jan 14 05:16:03 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:16:05 2017]  Item: 0 weapon_bowcaster
+[Sat Jan 14 05:16:07 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:16:13 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:16:13 2017]  Item: 0 weapon_rocket_launcher
+[Sat Jan 14 05:16:32 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:16:32 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:16:33 2017]  Item: 1 ammo_powercell
+[Sat Jan 14 05:16:35 2017]  Item: 0 weapon_bowcaster
+[Sat Jan 14 05:16:46 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:16:53 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:16:59 2017]  Item: 2 weapon_det_pack
+[Sat Jan 14 05:16:59 2017]  Item: 2 weapon_det_pack
+[Sat Jan 14 05:17:11 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:17:12 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 05:17:17 2017]  Item: 0 weapon_rocket_launcher
+[Sat Jan 14 05:17:18 2017]  Item: 2 weapon_disruptor
+[Sat Jan 14 05:17:21 2017]  Item: 0 ammo_rockets
+[Sat Jan 14 05:17:21 2017]  Item: 0 ammo_blaster
+[Sat Jan 14 05:17:23 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:17:24 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:17:28 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 05:17:28 2017]  Item: 1 weapon_disruptor
+[Sat Jan 14 05:17:32 2017]  Item: 2 weapon_bowcaster
+[Sat Jan 14 05:17:38 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:17:40 2017]  Item: 0 item_shield_lrg_instant
+[Sat Jan 14 05:17:41 2017]  Item: 0 weapon_concussion_rifle
+[Sat Jan 14 05:17:58 2017]  Item: 1 weapon_concussion_rifle
+[Sat Jan 14 05:17:59 2017]  Kill: 0 2 19: Arenova killed King Harambe by MOD_ROCKET
+[Sat Jan 14 05:18:01 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:18:04 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 05:18:14 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:18:19 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:18:21 2017]  Item: 0 ammo_blaster
+[Sat Jan 14 05:18:21 2017]  Item: 0 ammo_metallic_bolts
+[Sat Jan 14 05:18:29 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:18:37 2017]  Kill: 0 2 19: Arenova killed King Harambe by MOD_ROCKET
+[Sat Jan 14 05:18:46 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:18:57 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:18:57 2017]  Item: 0 weapon_repeater
+[Sat Jan 14 05:18:59 2017]  Item: 2 weapon_concussion_rifle
+[Sat Jan 14 05:19:12 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 05:19:12 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:19:16 2017]  Item: 2 weapon_blaster
+[Sat Jan 14 05:19:31 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:19:36 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:19:42 2017]  Item: 2 weapon_concussion_rifle
+[Sat Jan 14 05:19:52 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:19:54 2017]  Item: 0 weapon_demp2
+[Sat Jan 14 05:19:55 2017]  Item: 1 weapon_blaster
+[Sat Jan 14 05:19:56 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:20:04 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:20:06 2017]  Item: 2 weapon_demp2
+[Sat Jan 14 05:20:16 2017]  Item: 2 ammo_rockets
+[Sat Jan 14 05:20:20 2017]  Kill: 0 1 20: Arenova killed Cancer Child by MOD_ROCKET_SPLASH
+[Sat Jan 14 05:20:23 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:20:39 2017]  Item: 0 item_shield_lrg_instant
+[Sat Jan 14 05:20:43 2017]  Item: 1 weapon_bowcaster
+[Sat Jan 14 05:20:44 2017]  Item: 1 weapon_concussion_rifle
+[Sat Jan 14 05:20:49 2017]  Kill: 2 2 38: King Harambe killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:20:49 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:20:55 2017]  Item: 0 weapon_thermal
+[Sat Jan 14 05:20:56 2017]  Item: 0 weapon_thermal
+[Sat Jan 14 05:20:56 2017]  Item: 2 weapon_concussion_rifle
+[Sat Jan 14 05:21:06 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 05:21:09 2017]  Item: 2 weapon_bowcaster
+[Sat Jan 14 05:21:10 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:21:10 2017]  Item: 1 ammo_powercell
+[Sat Jan 14 05:21:17 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:21:41 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:21:44 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 05:21:46 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:21:48 2017]  Item: 0 weapon_repeater
+[Sat Jan 14 05:21:54 2017]  Item: 2 weapon_concussion_rifle
+[Sat Jan 14 05:21:57 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:21:57 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:22:03 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:22:06 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:22:19 2017]  Item: 2 ammo_rockets
+[Sat Jan 14 05:22:22 2017]  Kill: 1 1 38: Cancer Child killed Cancer Child by MOD_FALLING
+[Sat Jan 14 05:22:31 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:22:40 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 05:22:45 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:22:59 2017]  Kill: 2 2 38: King Harambe killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:23:03 2017]  Item: 2 weapon_flechette
+[Sat Jan 14 05:23:05 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:23:09 2017]  Item: 2 item_shield_sm_instant
+[Sat Jan 14 05:23:10 2017]  Item: 0 weapon_bowcaster
+[Sat Jan 14 05:23:14 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:23:32 2017]  Item: 0 weapon_concussion_rifle
+[Sat Jan 14 05:23:37 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:23:45 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:23:47 2017]  Item: 2 weapon_repeater
+[Sat Jan 14 05:24:03 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:24:05 2017]  Item: 0 item_shield_lrg_instant
+[Sat Jan 14 05:24:06 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:24:11 2017]  Item: 2 weapon_concussion_rifle
+[Sat Jan 14 05:24:13 2017]  Item: 0 weapon_rocket_launcher
+[Sat Jan 14 05:24:25 2017]  Kill: 1 1 38: Cancer Child killed Cancer Child by MOD_FALLING
+[Sat Jan 14 05:24:26 2017]  Item: 0 item_shield_lrg_instant
+[Sat Jan 14 05:24:27 2017]  Item: 0 weapon_concussion_rifle
+[Sat Jan 14 05:24:58 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:25:09 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:25:12 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:25:25 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:25:27 2017]  Item: 0 weapon_flechette
+[Sat Jan 14 05:25:28 2017]  Item: 1 ammo_blaster
+[Sat Jan 14 05:25:28 2017]  Kill: 1022 2 38: <world> killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:25:28 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:25:34 2017]  Item: 0 weapon_concussion_rifle
+[Sat Jan 14 05:25:36 2017]  Item: 0 item_shield_lrg_instant
+[Sat Jan 14 05:25:37 2017]  Item: 1 ammo_powercell
+[Sat Jan 14 05:25:37 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:25:42 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:25:58 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:26:03 2017]  Item: 2 weapon_bowcaster
+[Sat Jan 14 05:26:13 2017]  Kill: 0 1 38: Arenova killed Cancer Child by MOD_FALLING
+[Sat Jan 14 05:26:22 2017]  Kill: 2 0 38: King Harambe killed Arenova by MOD_FALLING
+[Sat Jan 14 05:26:23 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 05:26:24 2017]  Item: 1 weapon_concussion_rifle
+[Sat Jan 14 05:26:26 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:26:29 2017]  Item: 0 weapon_bowcaster
+[Sat Jan 14 05:26:33 2017]  Item: 2 weapon_demp2
+[Sat Jan 14 05:26:43 2017]  Item: 2 weapon_concussion_rifle
+[Sat Jan 14 05:26:48 2017]  Item: 0 weapon_concussion_rifle
+[Sat Jan 14 05:26:51 2017]  Item: 0 item_shield_lrg_instant
+[Sat Jan 14 05:26:52 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:26:58 2017]  Kill: 1022 2 38: <world> killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:27:08 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:27:08 2017]  Item: 2 weapon_concussion_rifle
+[Sat Jan 14 05:27:09 2017]  Item: 1 ammo_powercell
+[Sat Jan 14 05:27:20 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:27:28 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:27:34 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:27:38 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:27:39 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:27:39 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:27:49 2017]  Item: 0 ammo_blaster
+[Sat Jan 14 05:27:49 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:27:52 2017]  Item: 0 weapon_flechette
+[Sat Jan 14 05:28:20 2017]  Item: 2 item_shield_sm_instant
+[Sat Jan 14 05:28:20 2017]  Item: 0 ammo_blaster
+[Sat Jan 14 05:28:20 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:28:45 2017]  Item: 2 item_shield_sm_instant
+[Sat Jan 14 05:28:54 2017]  Kill: 1 1 38: Cancer Child killed Cancer Child by MOD_FALLING
+[Sat Jan 14 05:28:58 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:29:08 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:29:24 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:29:27 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:29:42 2017]  Item: 1 weapon_demp2
+[Sat Jan 14 05:29:44 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:29:50 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:29:53 2017]  Item: 2 item_shield_sm_instant
+[Sat Jan 14 05:29:57 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 05:30:16 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 05:30:25 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:30:28 2017]  Item: 2 item_shield_sm_instant
+[Sat Jan 14 05:30:31 2017]  Item: 0 weapon_concussion_rifle
+[Sat Jan 14 05:30:34 2017]  Item: 0 item_shield_lrg_instant
+[Sat Jan 14 05:30:37 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:30:46 2017]  Item: 2 item_shield_sm_instant
+[Sat Jan 14 05:30:52 2017]  Item: 2 weapon_flechette
+[Sat Jan 14 05:30:57 2017]  Item: 0 ammo_blaster
+[Sat Jan 14 05:30:58 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:31:00 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:31:02 2017]  Item: 2 weapon_concussion_rifle
+[Sat Jan 14 05:31:10 2017]  Item: 0 weapon_repeater
+[Sat Jan 14 05:31:17 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:31:36 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 05:31:38 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:31:41 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:31:45 2017]  Item: 1 weapon_det_pack
+[Sat Jan 14 05:31:45 2017]  Item: 1 weapon_det_pack
+[Sat Jan 14 05:31:53 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:31:56 2017]  Item: 2 weapon_disruptor
+[Sat Jan 14 05:32:09 2017]  Item: 0 ammo_rockets
+[Sat Jan 14 05:32:19 2017]  Kill: 2 2 38: King Harambe killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:32:19 2017]  Item: 0 ammo_blaster
+[Sat Jan 14 05:32:20 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:32:37 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:32:42 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 05:32:46 2017]  Kill: 0 2 38: Arenova killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:32:56 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:33:00 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:33:13 2017]  Kill: 0 2 38: Arenova killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:33:17 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:33:21 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 05:33:28 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:33:32 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:33:42 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:34:09 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:34:21 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:34:27 2017]  Item: 2 weapon_bowcaster
+[Sat Jan 14 05:34:35 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 05:34:38 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:34:43 2017]  Item: 0 weapon_repeater
+[Sat Jan 14 05:34:52 2017]  Item: 0 weapon_bowcaster
+[Sat Jan 14 05:35:06 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:35:12 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:35:17 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:35:31 2017]  Kill: 0 2 38: Arenova killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:35:34 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:35:38 2017]  Item: 1 weapon_bowcaster
+[Sat Jan 14 05:35:43 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:35:58 2017]  Kill: 2 0 38: King Harambe killed Arenova by MOD_FALLING
+[Sat Jan 14 05:36:05 2017]  Item: 0 weapon_concussion_rifle
+[Sat Jan 14 05:36:07 2017]  Item: 0 item_shield_lrg_instant
+[Sat Jan 14 05:36:12 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:36:41 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:36:55 2017]  Item: 2 weapon_bowcaster
+[Sat Jan 14 05:37:02 2017]  Item: 0 weapon_bowcaster
+[Sat Jan 14 05:37:19 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:37:19 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:37:21 2017]  Item: 2 weapon_concussion_rifle
+[Sat Jan 14 05:37:24 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:37:26 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:37:30 2017]  Item: 2 ammo_powercell
+[Sat Jan 14 05:37:42 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:38:09 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:38:30 2017]  Kill: 2 0 38: King Harambe killed Arenova by MOD_FALLING
+[Sat Jan 14 05:38:43 2017]  Item: 0 ammo_rockets
+[Sat Jan 14 05:38:50 2017]  Item: 2 item_shield_sm_instant
+[Sat Jan 14 05:39:42 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:40:05 2017]  Kill: 2 1 38: King Harambe killed Cancer Child by MOD_FALLING
+[Sat Jan 14 05:40:05 2017]  Item: 0 ammo_rockets
+[Sat Jan 14 05:40:12 2017]  Item: 2 ammo_metallic_bolts
+[Sat Jan 14 05:40:13 2017]  Item: 0 weapon_repeater
+[Sat Jan 14 05:40:21 2017]  Item: 1 weapon_demp2
+[Sat Jan 14 05:40:37 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:40:46 2017]  Kill: 1022 0 38: <world> killed Arenova by MOD_FALLING
+[Sat Jan 14 05:41:24 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:41:28 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:41:51 2017]  Item: 2 weapon_blaster
+[Sat Jan 14 05:41:53 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:41:58 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:42:00 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:42:00 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:42:07 2017]  Item: 0 weapon_rocket_launcher
+[Sat Jan 14 05:42:12 2017]  Item: 2 item_shield_sm_instant
+[Sat Jan 14 05:42:17 2017]  Item: 0 ammo_blaster
+[Sat Jan 14 05:42:17 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:42:26 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:42:26 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:42:38 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:42:38 2017]  Kill: 1 1 38: Cancer Child killed Cancer Child by MOD_FALLING
+[Sat Jan 14 05:43:18 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:43:25 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:44:05 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:44:10 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:44:25 2017]  Item: 2 weapon_repeater
+[Sat Jan 14 05:44:37 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:44:37 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:44:41 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:45:03 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:45:08 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 05:45:13 2017]  Kill: 2 2 38: King Harambe killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:45:20 2017]  Item: 2 item_shield_sm_instant
+[Sat Jan 14 05:45:21 2017]  Item: 2 ammo_powercell
+[Sat Jan 14 05:45:31 2017]  Item: 1 weapon_repeater
+[Sat Jan 14 05:45:37 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:45:40 2017]  Item: 2 weapon_flechette
+[Sat Jan 14 05:45:46 2017]  Item: 2 item_shield_sm_instant
+[Sat Jan 14 05:45:49 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:45:58 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:46:06 2017]  Kill: 1 2 38: Cancer Child killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:46:07 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:46:27 2017]  Item: 1 ammo_rockets
+[Sat Jan 14 05:46:32 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:46:34 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:46:48 2017]  Kill: 0 2 38: Arenova killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:46:48 2017]  Kill: 2 1 38: King Harambe killed Cancer Child by MOD_FALLING
+[Sat Jan 14 05:46:51 2017]  Item: 2 weapon_flechette
+[Sat Jan 14 05:46:55 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:46:56 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:47:01 2017]  Item: 2 weapon_det_pack
+[Sat Jan 14 05:47:01 2017]  Item: 2 weapon_det_pack
+[Sat Jan 14 05:47:17 2017]  Item: 1 weapon_flechette
+[Sat Jan 14 05:47:18 2017]  Kill: 2 2 27: King Harambe killed King Harambe by MOD_DET_PACK_SPLASH
+[Sat Jan 14 05:47:21 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:47:30 2017]  Kill: 1022 0 36: <world> killed Arenova by MOD_CRUSH
+[Sat Jan 14 05:47:32 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:47:45 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:47:53 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:48:05 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:48:17 2017]  Kill: 0 2 38: Arenova killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:48:22 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:48:33 2017]  Item: 1 ammo_rockets
+[Sat Jan 14 05:48:40 2017]  Kill: 2 0 38: King Harambe killed Arenova by MOD_FALLING
+[Sat Jan 14 05:48:43 2017]  Item: 0 weapon_flechette
+[Sat Jan 14 05:49:03 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:49:19 2017]  Item: 0 weapon_rocket_launcher
+[Sat Jan 14 05:49:20 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:49:23 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:49:27 2017]  Item: 2 weapon_repeater
+[Sat Jan 14 05:49:39 2017]  Item: 0 weapon_repeater
+[Sat Jan 14 05:49:54 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:50:10 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:50:50 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:51:03 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:51:06 2017]  Item: 0 weapon_bowcaster
+[Sat Jan 14 05:51:21 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:51:26 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:51:29 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:51:31 2017]  Item: 2 weapon_concussion_rifle
+[Sat Jan 14 05:51:35 2017]  Item: 0 ammo_blaster
+[Sat Jan 14 05:51:35 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:51:40 2017]  Item: 0 ammo_metallic_bolts
+[Sat Jan 14 05:51:52 2017]  Item: 0 weapon_concussion_rifle
+[Sat Jan 14 05:51:54 2017]  Item: 0 item_shield_lrg_instant
+[Sat Jan 14 05:52:10 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:52:11 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:52:44 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:52:46 2017]  Kill: 1022 1 38: <world> killed Cancer Child by MOD_FALLING
+[Sat Jan 14 05:52:50 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:53:03 2017]  Kill: 0 2 38: Arenova killed King Harambe by MOD_FALLING
+[Sat Jan 14 05:53:05 2017]  Item: 0 ammo_rockets
+[Sat Jan 14 05:53:11 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:53:20 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:54:20 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:54:22 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:54:32 2017]  Item: 0 weapon_concussion_rifle
+[Sat Jan 14 05:54:34 2017]  Item: 0 item_shield_lrg_instant
+[Sat Jan 14 05:54:39 2017]  Kill: 0 1 29: Arenova killed Cancer Child by MOD_CONC
+[Sat Jan 14 05:54:54 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:54:54 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:55:01 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:55:02 2017]  Item: 2 weapon_disruptor
+[Sat Jan 14 05:55:05 2017]  Item: 0 weapon_blaster
+[Sat Jan 14 05:55:05 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:55:05 2017]  Item: 0 ammo_metallic_bolts
+[Sat Jan 14 05:55:18 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 05:55:20 2017]  Item: 1 weapon_concussion_rifle
+[Sat Jan 14 05:55:25 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:55:25 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:55:29 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 05:55:30 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:55:35 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:55:36 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:55:52 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:56:32 2017]  Item: 2 ammo_blaster
+[Sat Jan 14 05:56:35 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:56:43 2017]  Kill: 2 0 3: King Harambe killed Arenova by MOD_SABER
+[Sat Jan 14 05:56:45 2017]  Item: 2 weapon_thermal
+[Sat Jan 14 05:56:45 2017]  Item: 2 weapon_thermal
+[Sat Jan 14 05:56:55 2017]  Item: 0 weapon_disruptor
+[Sat Jan 14 05:56:55 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:56:56 2017]  Item: 0 weapon_thermal
+[Sat Jan 14 05:57:07 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 05:57:07 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:57:09 2017]  Item: 2 weapon_concussion_rifle
+[Sat Jan 14 05:57:10 2017]  Item: 0 weapon_flechette
+[Sat Jan 14 05:57:13 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 05:57:21 2017]  Item: 0 weapon_concussion_rifle
+[Sat Jan 14 05:57:27 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 05:57:27 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 05:57:42 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 05:57:52 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:57:56 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 05:58:02 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 05:58:13 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 05:58:25 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:58:36 2017]  Item: 2 weapon_bowcaster
+[Sat Jan 14 05:58:58 2017]  Item: 0 item_medpak_instant
+[Sat Jan 14 05:59:03 2017]  Kill: 1 0 3: Cancer Child killed Arenova by MOD_SABER
+[Sat Jan 14 05:59:14 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 05:59:44 2017]  Kill: 1 1 38: Cancer Child killed Cancer Child by MOD_FALLING
+[Sat Jan 14 05:59:51 2017]  Kill: 0 2 3: Arenova killed King Harambe by MOD_SABER
+[Sat Jan 14 06:00:14 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 06:00:15 2017]  Kill: 0 1 31: Arenova killed Cancer Child by MOD_FORCE_DARK
+[Sat Jan 14 06:00:17 2017]  Item: 2 weapon_flechette
+[Sat Jan 14 06:00:30 2017]  Kill: 0 1 3: Arenova killed Cancer Child by MOD_SABER
+[Sat Jan 14 06:00:33 2017]  Item: 2 item_shield_sm_instant
+[Sat Jan 14 06:00:40 2017]  ClientDisconnect: 0
+[Sat Jan 14 06:00:44 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 06:00:50 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 06:01:02 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 06:01:11 2017]  Item: 1 item_shield_sm_instant
+[Sat Jan 14 06:01:12 2017]  Item: 1 ammo_powercell
+[Sat Jan 14 06:01:32 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 06:01:34 2017]  Item: 1 item_shield_lrg_instant
+[Sat Jan 14 06:03:03 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 06:03:19 2017]  Kill: 2 1 38: King Harambe killed Cancer Child by MOD_FALLING
+[Sat Jan 14 06:03:38 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 06:03:45 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 06:03:58 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 06:04:10 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 06:04:12 2017]  Kill: 2 1 38: King Harambe killed Cancer Child by MOD_FALLING
+[Sat Jan 14 06:04:26 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 06:04:54 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 06:05:08 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 06:05:15 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 06:05:29 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 06:05:40 2017]  Item: 1 item_medpak_instant
+[Sat Jan 14 06:05:43 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 06:05:53 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 06:06:04 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 06:06:11 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 06:06:49 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 06:07:04 2017]  Item: 1 weapon_bowcaster
+[Sat Jan 14 06:07:06 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 06:07:14 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 06:07:29 2017]  Item: 1 ammo_rockets
+[Sat Jan 14 06:07:36 2017]  Kill: 2 1 38: King Harambe killed Cancer Child by MOD_FALLING
+[Sat Jan 14 06:08:02 2017]  Kill: 1 2 3: Cancer Child killed King Harambe by MOD_SABER
+[Sat Jan 14 06:08:11 2017]  Item: 2 ammo_blaster
+[Sat Jan 14 06:08:17 2017]  Kill: 2 1 3: King Harambe killed Cancer Child by MOD_SABER
+[Sat Jan 14 06:08:20 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 06:08:51 2017]  Kill: 2 1 38: King Harambe killed Cancer Child by MOD_FALLING
+[Sat Jan 14 06:08:52 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 06:08:57 2017]  ClientDisconnect: 1
+[Sat Jan 14 06:09:22 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 06:09:42 2017]  Item: 2 item_shield_sm_instant
+[Sat Jan 14 06:10:15 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 06:10:44 2017]  say: King Harambe: faggot
+[Sat Jan 14 06:10:57 2017]  say: King Harambe: come fight me
+[Sat Jan 14 06:11:29 2017]  say: King Harambe: faggot
+[Sat Jan 14 06:11:36 2017]  say: King Harambe: kill me if you can
+[Sat Jan 14 06:12:07 2017]  say: King Harambe: pussy
+[Sat Jan 14 06:12:11 2017]  say: King Harambe: where are you
+[Sat Jan 14 06:12:29 2017]  Item: 2 item_shield_lrg_instant
+[Sat Jan 14 06:12:37 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 06:13:08 2017]  Item: 2 item_medpak_instant
+[Sat Jan 14 06:13:19 2017]  ClientDisconnect: 2
+[Sat Jan 14 17:08:45 2017]  ClientConnect: 0
+[Sat Jan 14 17:08:45 2017]  mlog:Player ^1T^2r^3i^3^4n^5i^5t^6y^7, connected. With IP - 92.238.5.40:29070 
+[Sat Jan 14 17:08:53 2017]  ClientBegin: 0
+[Sat Jan 14 17:08:58 2017]  Item: 0 weapon_disruptor
+[Sat Jan 14 17:09:22 2017]  Item: 0 ammo_rockets
+[Sat Jan 14 17:09:46 2017]  Item: 0 ammo_powercell
+[Sat Jan 14 17:09:46 2017]  Item: 0 item_shield_sm_instant
+[Sat Jan 14 17:10:04 2017]  ClientDisconnect: 0
+[Sun Jan 15 04:20:23 2017]  ClientConnect: 0
+[Sun Jan 15 04:20:23 2017]  mlog:Player Telp, connected. With IP - 73.19.166.208:29070 
+[Sun Jan 15 04:20:30 2017]  ClientConnect: 1
+[Sun Jan 15 04:20:30 2017]  mlog:Player Wagon, connected. With IP - 73.19.155.125:29070 
+[Sun Jan 15 04:20:31 2017]  ClientBegin: 0
+[Sun Jan 15 04:20:35 2017]  Item: 0 ammo_blaster
+[Sun Jan 15 04:20:38 2017]  ClientBegin: 1
+[Sun Jan 15 04:20:46 2017]  Item: 0 weapon_repeater
+[Sun Jan 15 04:21:04 2017]  Kill: 1 1 38: Wagon killed Wagon by MOD_FALLING
+[Sun Jan 15 04:21:18 2017]  Kill: 0 1 3: Telp killed Wagon by MOD_SABER
+[Sun Jan 15 04:21:34 2017]  Kill: 0 0 38: Telp killed Telp by MOD_FALLING
+[Sun Jan 15 04:21:38 2017]  Item: 0 weapon_flechette
+[Sun Jan 15 04:21:49 2017]  Item: 0 item_shield_lrg_instant
+[Sun Jan 15 04:21:52 2017]  Item: 0 weapon_concussion_rifle
+[Sun Jan 15 04:22:08 2017]  Item: 1 weapon_flechette
+[Sun Jan 15 04:22:15 2017]  Item: 1 item_shield_sm_instant
+[Sun Jan 15 04:22:26 2017]  Item: 0 weapon_blaster
+[Sun Jan 15 04:22:32 2017]  Item: 1 ammo_powercell
+[Sun Jan 15 04:22:32 2017]  Item: 1 item_shield_sm_instant
+[Sun Jan 15 04:22:43 2017]  Item: 1 weapon_demp2
+[Sun Jan 15 04:23:06 2017]  Kill: 0 1 38: Telp killed Wagon by MOD_FALLING
+[Sun Jan 15 04:23:14 2017]  Item: 0 weapon_repeater
+[Sun Jan 15 04:23:16 2017]  Item: 1 weapon_disruptor
+[Sun Jan 15 04:23:23 2017]  Item: 1 item_shield_sm_instant
+[Sun Jan 15 04:23:23 2017]  Item: 1 ammo_powercell
+[Sun Jan 15 04:23:26 2017]  Item: 0 weapon_demp2
+[Sun Jan 15 04:23:36 2017]  Item: 1 weapon_demp2
+[Sun Jan 15 04:24:22 2017]  Kill: 1 1 39: Wagon killed Wagon by MOD_SUICIDE
+[Sun Jan 15 04:25:07 2017]  ClientDisconnect: 1
+[Sun Jan 15 04:25:22 2017]  Kill: 0 0 38: Telp killed Telp by MOD_FALLING
+[Sun Jan 15 04:25:25 2017]  ClientDisconnect: 0
+[Mon Jan 16 02:56:31 2017]  ClientConnect: 0
+[Mon Jan 16 02:56:31 2017]  mlog:Player ^7*^1<^7[^0S^4o^0l, connected. With IP - 176.63.37.151:29070 
+[Mon Jan 16 02:56:49 2017]  ClientBegin: 0
+[Mon Jan 16 02:57:27 2017]  Item: 0 weapon_disruptor
+[Mon Jan 16 02:57:33 2017]  ShutdownGame:
+[Mon Jan 16 02:57:33 2017]  ------------------------------------------------------------

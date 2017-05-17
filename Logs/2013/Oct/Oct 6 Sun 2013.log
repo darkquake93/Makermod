@@ -1,0 +1,573 @@
+[Sun Oct 06 00:12:50 2013]  ------------------------------------------------------------
+[Sun Oct 06 00:12:50 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Oct 06 00:12:52 2013]  ClientConnect: 0
+[Sun Oct 06 00:12:52 2013]  ClientConnect: 1
+[Sun Oct 06 00:12:52 2013]  ClientConnect: 2
+[Sun Oct 06 00:12:52 2013]  ClientConnect: 3
+[Sun Oct 06 00:13:08 2013]  ClientBegin: 3
+[Sun Oct 06 00:13:26 2013]  ClientDisconnect: 3
+[Sun Oct 06 01:05:47 2013]  ClientConnect: 3
+[Sun Oct 06 01:05:47 2013]  mlog:Player Padawan, connected. With IP - 200.83.111.139:29070 
+[Sun Oct 06 01:05:50 2013]  ClientDisconnect: 3
+[Sun Oct 06 01:05:50 2013]  ClientConnect: 3
+[Sun Oct 06 01:05:50 2013]  mlog:Player Padawan, connected. With IP - 200.83.111.139:29070 
+[Sun Oct 06 01:18:59 2013]  ClientDisconnect: 3
+[Sun Oct 06 01:18:59 2013]  ClientConnect: 3
+[Sun Oct 06 01:18:59 2013]  mlog:Player Padawan, connected. With IP - 200.83.111.139:29070 
+[Sun Oct 06 01:19:02 2013]  ClientDisconnect: 3
+[Sun Oct 06 01:19:02 2013]  ClientConnect: 3
+[Sun Oct 06 01:19:02 2013]  mlog:Player Padawan, connected. With IP - 200.83.111.139:29070 
+[Sun Oct 06 02:12:47 2013]  Exit: Timelimit hit.
+[Sun Oct 06 02:15:40 2013]  ClientConnect: 4
+[Sun Oct 06 02:15:40 2013]  mlog:Player jedi, connected. With IP - 75.164.202.135:29070 
+[Sun Oct 06 02:16:01 2013]  ClientBegin: 4
+[Sun Oct 06 02:16:06 2013]  ShutdownGame:
+[Sun Oct 06 02:16:06 2013]  ------------------------------------------------------------
+[Sun Oct 06 02:16:06 2013]  ------------------------------------------------------------
+[Sun Oct 06 02:16:06 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Oct 06 02:16:07 2013]  ClientConnect: 0
+[Sun Oct 06 02:16:07 2013]  ClientConnect: 1
+[Sun Oct 06 02:16:07 2013]  ClientConnect: 2
+[Sun Oct 06 02:16:07 2013]  ClientConnect: 3
+[Sun Oct 06 02:16:07 2013]  ClientConnect: 4
+[Sun Oct 06 02:16:10 2013]  ClientDisconnect: 4
+[Sun Oct 06 02:16:28 2013]  ClientConnect: 4
+[Sun Oct 06 02:16:28 2013]  mlog:Player jedi, connected. With IP - 75.164.202.135:29070 
+[Sun Oct 06 02:16:39 2013]  ClientBegin: 4
+[Sun Oct 06 02:16:47 2013]  say: jedi: hello
+[Sun Oct 06 02:21:19 2013]  ClientDisconnect: 4
+[Sun Oct 06 03:35:29 2013]  ClientConnect: 4
+[Sun Oct 06 03:35:29 2013]  mlog:Player Padawan, connected. With IP - 167.206.49.140:1257 
+[Sun Oct 06 03:41:34 2013]  ClientDisconnect: 4
+[Sun Oct 06 04:09:04 2013]  ClientConnect: 4
+[Sun Oct 06 04:09:04 2013]  mlog:Player Padawan, connected. With IP - 24.53.69.62:29070 
+[Sun Oct 06 04:09:16 2013]  ClientBegin: 4
+[Sun Oct 06 04:09:49 2013]  print "Padawan^7 @@@PLRENAME Shnoop321
+"[Sun Oct 06 04:16:05 2013]  Exit: Timelimit hit.
+[Sun Oct 06 04:16:05 2013]  score: 1  ping: 175  client: 4 Shnoop321
+[Sun Oct 06 04:16:11 2013]  ShutdownGame:
+[Sun Oct 06 04:16:11 2013]  ------------------------------------------------------------
+[Sun Oct 06 04:16:12 2013]  ------------------------------------------------------------
+[Sun Oct 06 04:16:12 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Oct 06 04:16:13 2013]  ClientConnect: 0
+[Sun Oct 06 04:16:13 2013]  ClientConnect: 1
+[Sun Oct 06 04:16:13 2013]  ClientConnect: 2
+[Sun Oct 06 04:16:13 2013]  ClientConnect: 3
+[Sun Oct 06 04:16:13 2013]  ClientConnect: 4
+[Sun Oct 06 04:16:23 2013]  ClientBegin: 4
+[Sun Oct 06 04:16:43 2013]  say: Shnoop321: minute
+[Sun Oct 06 04:16:48 2013]  say: Shnoop321: ,into
+[Sun Oct 06 04:16:51 2013]  say: Shnoop321: minto
+[Sun Oct 06 04:17:13 2013]  say: Shnoop321: ok whats cmd for help?
+[Sun Oct 06 04:18:26 2013]  ClientDisconnect: 4
+[Sun Oct 06 04:26:23 2013]  ClientConnect: 4
+[Sun Oct 06 04:26:23 2013]  mlog:Player nin, connected. With IP - 177.47.47.93:28359 
+[Sun Oct 06 04:31:45 2013]  ClientConnect: 5
+[Sun Oct 06 04:31:45 2013]  mlog:Player SpongyMallard7, connected. With IP - 98.90.211.39:29070 
+[Sun Oct 06 05:03:38 2013]  ClientConnect: 6
+[Sun Oct 06 05:03:38 2013]  mlog:Player ^7*T^3^5WI^7'^5NS^7*^3Jiva^7[^1L^7], connected. With IP - 95.83.160.196:-10079 
+[Sun Oct 06 05:04:22 2013]  ClientBegin: 6
+[Sun Oct 06 05:06:08 2013]  ClientDisconnect: 6
+[Sun Oct 06 06:16:11 2013]  Exit: Timelimit hit.
+[Sun Oct 06 07:38:09 2013]  ClientConnect: 6
+[Sun Oct 06 07:38:09 2013]  mlog:Player ^1»[^0L^1]«^2Creep^1X^0|^2JK, connected. With IP - 94.21.217.118:29070 
+[Sun Oct 06 07:38:26 2013]  ClientBegin: 6
+[Sun Oct 06 07:38:31 2013]  ShutdownGame:
+[Sun Oct 06 07:38:31 2013]  ------------------------------------------------------------
+[Sun Oct 06 07:38:32 2013]  ------------------------------------------------------------
+[Sun Oct 06 07:38:32 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Oct 06 07:38:32 2013]  ClientConnect: 0
+[Sun Oct 06 07:38:32 2013]  ClientConnect: 1
+[Sun Oct 06 07:38:32 2013]  ClientConnect: 2
+[Sun Oct 06 07:38:32 2013]  ClientConnect: 3
+[Sun Oct 06 07:38:32 2013]  ClientConnect: 4
+[Sun Oct 06 07:38:32 2013]  ClientConnect: 5
+[Sun Oct 06 07:38:32 2013]  ClientConnect: 6
+[Sun Oct 06 07:40:15 2013]  ClientDisconnect: 6
+[Sun Oct 06 07:41:02 2013]  ClientConnect: 6
+[Sun Oct 06 07:41:02 2013]  mlog:Player ^F^2^3^4Freddie, connected. With IP - 93.78.165.11:29070 
+[Sun Oct 06 07:41:24 2013]  ClientBegin: 6
+[Sun Oct 06 07:42:12 2013]  ClientDisconnect: 6
+[Sun Oct 06 08:18:36 2013]  ClientConnect: 6
+[Sun Oct 06 08:18:36 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 109.150.162.246:29070 
+[Sun Oct 06 08:19:10 2013]  ClientBegin: 6
+[Sun Oct 06 08:20:45 2013]  ClientDisconnect: 6
+[Sun Oct 06 08:21:04 2013]  ClientConnect: 6
+[Sun Oct 06 08:21:04 2013]  mlog:Player Wookie with 7iq, connected. With IP - 178.76.204.126:29070 
+[Sun Oct 06 08:21:30 2013]  ClientBegin: 6
+[Sun Oct 06 08:25:01 2013]  ClientDisconnect: 6
+[Sun Oct 06 08:59:17 2013]  ClientConnect: 6
+[Sun Oct 06 08:59:17 2013]  mlog:Player Padawan, connected. With IP - 89.179.70.205:29070 
+[Sun Oct 06 08:59:41 2013]  ClientBegin: 6
+[Sun Oct 06 09:01:38 2013]  say: Padawan: WHAT THE FUCK?!
+[Sun Oct 06 09:28:03 2013]  ClientConnect: 7
+[Sun Oct 06 09:28:03 2013]  mlog:Player ^2nm, connected. With IP - 93.78.165.11:29070 
+[Sun Oct 06 09:28:41 2013]  ClientBegin: 7
+[Sun Oct 06 09:29:18 2013]  ClientDisconnect: 7
+[Sun Oct 06 09:37:07 2013]  ClientConnect: 7
+[Sun Oct 06 09:37:07 2013]  mlog:Player Trololo, connected. With IP - 213.87.121.116:-7614 
+[Sun Oct 06 09:37:28 2013]  ClientBegin: 7
+[Sun Oct 06 09:40:14 2013]  ClientDisconnect: 7
+[Sun Oct 06 09:40:14 2013]  Exit: Timelimit hit.
+[Sun Oct 06 09:40:14 2013]  score: 0  ping: 999  client: 6 Padawan
+[Sun Oct 06 09:51:38 2013]  setteam:  6 FREE SPECTATOR
+[Sun Oct 06 09:51:38 2013]  ClientBegin: 6
+[Sun Oct 06 11:27:06 2013]  ClientDisconnect: 0
+[Sun Oct 06 11:27:06 2013]  ClientConnect: 0
+[Sun Oct 06 11:27:06 2013]  mlog:Player Maestro Hispano ^3Amras, connected. With IP - 85.219.4.121:29070 
+[Sun Oct 06 11:27:40 2013]  ClientBegin: 0
+[Sun Oct 06 11:27:52 2013]  say: Maestro Hispano ^3Amras: hola hi
+[Sun Oct 06 11:27:54 2013]  ShutdownGame:
+[Sun Oct 06 11:27:54 2013]  ------------------------------------------------------------
+[Sun Oct 06 11:27:55 2013]  ------------------------------------------------------------
+[Sun Oct 06 11:27:55 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Oct 06 11:27:56 2013]  ClientConnect: 0
+[Sun Oct 06 11:27:56 2013]  ClientConnect: 1
+[Sun Oct 06 11:27:56 2013]  ClientConnect: 2
+[Sun Oct 06 11:27:56 2013]  ClientConnect: 3
+[Sun Oct 06 11:27:56 2013]  ClientConnect: 4
+[Sun Oct 06 11:27:56 2013]  ClientConnect: 5
+[Sun Oct 06 11:27:56 2013]  ClientConnect: 6
+[Sun Oct 06 11:28:19 2013]  ClientBegin: 0
+[Sun Oct 06 11:37:08 2013]  ClientDisconnect: 1
+[Sun Oct 06 11:37:08 2013]  ClientDisconnect: 2
+[Sun Oct 06 11:37:08 2013]  ClientDisconnect: 3
+[Sun Oct 06 11:37:08 2013]  ClientDisconnect: 4
+[Sun Oct 06 11:37:08 2013]  ClientDisconnect: 5
+[Sun Oct 06 11:37:08 2013]  ClientDisconnect: 6
+[Sun Oct 06 11:38:14 2013]  Kill: 0 0 39: Maestro Hispano ^3Amras killed Maestro Hispano ^3Amras by MOD_SUICIDE
+[Sun Oct 06 11:38:14 2013]  setteam:  0 FREE SPECTATOR
+[Sun Oct 06 11:38:14 2013]  ClientBegin: 0
+[Sun Oct 06 11:38:23 2013]  setteam:  0 SPECTATOR FREE
+[Sun Oct 06 11:38:23 2013]  ClientBegin: 0
+[Sun Oct 06 11:40:01 2013]  ClientDisconnect: 0
+[Sun Oct 06 13:21:51 2013]  ClientConnect: 0
+[Sun Oct 06 13:21:51 2013]  mlog:Player Padawan, connected. With IP - 194.228.32.50:-4447 
+[Sun Oct 06 13:22:09 2013]  ClientBegin: 0
+[Sun Oct 06 13:23:45 2013]  say: Padawan: FUCK
+[Sun Oct 06 13:24:50 2013]  ClientDisconnect: 0
+[Sun Oct 06 13:27:54 2013]  Exit: Timelimit hit.
+[Sun Oct 06 16:08:36 2013]  ClientConnect: 0
+[Sun Oct 06 16:08:36 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.3:-4875 
+[Sun Oct 06 16:08:55 2013]  ClientBegin: 0
+[Sun Oct 06 16:08:58 2013]  ClientDisconnect: 0
+[Sun Oct 06 18:29:37 2013]  ClientConnect: 0
+[Sun Oct 06 18:29:37 2013]  mlog:Player ^0^1Darth ^0Kuge, connected. With IP - 109.150.162.246:29070 
+[Sun Oct 06 18:29:55 2013]  ClientConnect: 1
+[Sun Oct 06 18:29:55 2013]  mlog:Player ^4shone, connected. With IP - 83.113.41.7:29070 
+[Sun Oct 06 18:30:02 2013]  ClientBegin: 0
+[Sun Oct 06 18:30:03 2013]  ClientDisconnect: 1
+[Sun Oct 06 18:30:10 2013]  ClientConnect: 1
+[Sun Oct 06 18:30:10 2013]  mlog:Player Segwanarus, connected. With IP - 2.97.201.129:29070 
+[Sun Oct 06 18:30:13 2013]  say: ^0^1Darth ^0Kuge: no
+[Sun Oct 06 18:30:19 2013]  say: ^0^1Darth ^0Kuge: i am back in action
+[Sun Oct 06 18:30:20 2013]  ShutdownGame:
+[Sun Oct 06 18:30:20 2013]  ------------------------------------------------------------
+[Sun Oct 06 18:30:20 2013]  ------------------------------------------------------------
+[Sun Oct 06 18:30:20 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Oct 06 18:30:21 2013]  ClientConnect: 0
+[Sun Oct 06 18:30:21 2013]  ClientConnect: 1
+[Sun Oct 06 18:30:35 2013]  ClientBegin: 0
+[Sun Oct 06 18:30:54 2013]  say: ^0^1Darth ^0Kuge: i shel be no more
+[Sun Oct 06 18:31:03 2013]  say: ^0^1Darth ^0Kuge: I AM BACK SERVER HERE ME RAW
+[Sun Oct 06 18:31:22 2013]  ClientBegin: 1
+[Sun Oct 06 18:31:32 2013]  say: ^0^1Darth ^0Kuge: Welcome
+[Sun Oct 06 18:31:49 2013]  say: ^0^1Darth ^0Kuge: that sine is no more i am back
+[Sun Oct 06 18:31:56 2013]  say: Segwanarus: well well well, and here i thought Darth Kuge was dead
+[Sun Oct 06 18:32:01 2013]  say: ^0^1Darth ^0Kuge: i was
+[Sun Oct 06 18:32:06 2013]  say: ^0^1Darth ^0Kuge: but know alive
+[Sun Oct 06 18:32:17 2013]  say: Segwanarus: impressive *claps*
+[Sun Oct 06 18:32:25 2013]  ClientConnect: 2
+[Sun Oct 06 18:32:25 2013]  mlog:Player ^4shone, connected. With IP - 83.113.41.7:29070 
+[Sun Oct 06 18:32:33 2013]  say: ^0^1Darth ^0Kuge: i need to tell quake im back
+[Sun Oct 06 18:32:43 2013]  ClientBegin: 2
+[Sun Oct 06 18:32:45 2013]  say: ^0^1Darth ^0Kuge: but i need to find him
+[Sun Oct 06 18:32:47 2013]  say: Segwanarus: i would agree
+[Sun Oct 06 18:32:48 2013]  say: ^4shone: ^7:^2<
+[Sun Oct 06 18:32:53 2013]  print "^4shone^7 @@@PLRENAME ^0e^3|^0e^7c
+"[Sun Oct 06 18:33:02 2013]  say: ^0^1Darth ^0Kuge: welcome
+[Sun Oct 06 18:33:23 2013]  say: Segwanarus: what skins are you two?
+[Sun Oct 06 18:33:28 2013]  say: ^0^1Darth ^0Kuge: red kyle
+[Sun Oct 06 18:33:33 2013]  Item: 1 item_cloak
+[Sun Oct 06 18:33:33 2013]  Item: 1 item_seeker
+[Sun Oct 06 18:33:33 2013]  Item: 1 item_binoculars
+[Sun Oct 06 18:33:33 2013]  Item: 1 item_sentry_gun
+[Sun Oct 06 18:33:33 2013]  Item: 1 item_medpac
+[Sun Oct 06 18:33:33 2013]  Item: 1 item_shield
+[Sun Oct 06 18:33:33 2013]  Item: 1 item_medpac_big
+[Sun Oct 06 18:33:33 2013]  Item: 1 item_eweb_holdable
+[Sun Oct 06 18:33:57 2013]  say: Segwanarus: but hes ugly lol
+[Sun Oct 06 18:34:11 2013]  say: ^0^1Darth ^0Kuge: xD
+[Sun Oct 06 18:34:42 2013]  say: ^0^1Darth ^0Kuge: i rly need to find quake
+[Sun Oct 06 18:34:52 2013]  say: ^0e^3|^0e^7c: fx?
+[Sun Oct 06 18:35:03 2013]  say: ^0^1Darth ^0Kuge: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sun Oct 06 18:35:06 2013]  say: ^0^1Darth ^0Kuge: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sun Oct 06 18:35:07 2013]  say: ^0^1Darth ^0Kuge: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sun Oct 06 18:35:08 2013]  say: Segwanarus: u might wanna wait 4 him
+[Sun Oct 06 18:35:19 2013]  say: ^0^1Darth ^0Kuge: i cant it will be a long time
+[Sun Oct 06 18:36:28 2013]  say: ^0^1Darth ^0Kuge: look quake thinks im a myth 
+[Sun Oct 06 18:36:40 2013]  say: ^0^1Darth ^0Kuge: i must find him to stop thinking it
+[Sun Oct 06 18:36:43 2013]  say: Segwanarus: lol
+[Sun Oct 06 18:36:58 2013]  say: ^0^1Darth ^0Kuge: or i am dead
+[Sun Oct 06 18:37:18 2013]  say: ^0^1Darth ^0Kuge: ^1FIRE BALL!
+[Sun Oct 06 18:37:27 2013]  say: ^0^1Darth ^0Kuge: ^1FIRE BALL!
+[Sun Oct 06 18:37:37 2013]  say: ^0^1Darth ^0Kuge: ^1FIRE BALL!
+[Sun Oct 06 18:38:29 2013]  Kill: 1 0 17: Segwanarus killed ^0^1Darth ^0Kuge by MOD_FLECHETTE
+[Sun Oct 06 18:38:38 2013]  say: Segwanarus: soz m8 lol
+[Sun Oct 06 18:38:38 2013]  say: ^0^1Darth ^0Kuge: spiked how rude
+[Sun Oct 06 18:38:39 2013]  say: ^0^1Darth ^0Kuge: lol
+[Sun Oct 06 18:38:53 2013]  say: ^0^1Darth ^0Kuge: afk for moment
+[Sun Oct 06 18:38:56 2013]  Kill: 0 0 39: ^0^1Darth ^0Kuge killed ^0^1Darth ^0Kuge by MOD_SUICIDE
+[Sun Oct 06 18:38:56 2013]  setteam:  0 FREE SPECTATOR
+[Sun Oct 06 18:38:56 2013]  ClientBegin: 0
+[Sun Oct 06 18:39:02 2013]  setteam:  0 SPECTATOR FREE
+[Sun Oct 06 18:39:02 2013]  ClientBegin: 0
+[Sun Oct 06 18:39:02 2013]  print "^0^1Darth ^0Kuge^7 @@@PLRENAME ^0^1Darth ^0Kuge AFK
+"[Sun Oct 06 18:39:10 2013]  Kill: 0 0 39: ^0^1Darth ^0Kuge AFK killed ^0^1Darth ^0Kuge AFK by MOD_SUICIDE
+[Sun Oct 06 18:39:10 2013]  setteam:  0 FREE SPECTATOR
+[Sun Oct 06 18:39:10 2013]  ClientBegin: 0
+[Sun Oct 06 18:39:34 2013]  Kill: 1022 1 0: <world> killed Segwanarus by MOD_UNKNOWN
+[Sun Oct 06 18:39:49 2013]  say: Segwanarus: what sort of script is that?
+[Sun Oct 06 18:40:28 2013]  say: Segwanarus: ^SEGWANARUS SCRIPT!!
+[Sun Oct 06 18:40:50 2013]  Kill: 2 2 39: ^0e^3|^0e^7c killed ^0e^3|^0e^7c by MOD_SUICIDE
+[Sun Oct 06 18:40:50 2013]  setteam:  2 FREE SPECTATOR
+[Sun Oct 06 18:40:50 2013]  ClientBegin: 2
+[Sun Oct 06 18:40:50 2013]  ClientBegin: 0
+[Sun Oct 06 18:40:55 2013]  setteam:  2 SPECTATOR FREE
+[Sun Oct 06 18:40:55 2013]  ClientBegin: 2
+[Sun Oct 06 18:40:56 2013]  Item: 1 item_cloak
+[Sun Oct 06 18:40:56 2013]  Item: 1 item_seeker
+[Sun Oct 06 18:40:56 2013]  Item: 1 item_binoculars
+[Sun Oct 06 18:40:56 2013]  Item: 1 item_sentry_gun
+[Sun Oct 06 18:40:56 2013]  Item: 1 item_medpac
+[Sun Oct 06 18:40:56 2013]  Item: 1 item_shield
+[Sun Oct 06 18:40:56 2013]  Item: 1 item_medpac_big
+[Sun Oct 06 18:40:56 2013]  Item: 1 item_eweb_holdable
+[Sun Oct 06 18:41:25 2013]  setteam:  0 SPECTATOR FREE
+[Sun Oct 06 18:41:25 2013]  ClientBegin: 0
+[Sun Oct 06 18:41:25 2013]  print "^0^1Darth ^0Kuge AFK^7 @@@PLRENAME ^0^1Darth ^0Kuge 
+"[Sun Oct 06 18:41:29 2013]  say: ^0^1Darth ^0Kuge : Back
+[Sun Oct 06 18:41:45 2013]  Item: 2 weapon_blaster
+[Sun Oct 06 18:42:26 2013]  Item: 2 weapon_disruptor
+[Sun Oct 06 18:42:27 2013]  Item: 2 weapon_bryar_pistol
+[Sun Oct 06 18:43:59 2013]  say: ^0^1Darth ^0Kuge : ^1FIRE BALL!
+[Sun Oct 06 18:44:04 2013]  say: ^0^1Darth ^0Kuge : missed
+[Sun Oct 06 18:44:06 2013]  say: ^0^1Darth ^0Kuge : ^1FIRE BALL!
+[Sun Oct 06 18:44:12 2013]  say: ^0^1Darth ^0Kuge : there
+[Sun Oct 06 18:44:28 2013]  say: ^0^1Darth ^0Kuge : ^1FIRE ^5SURROUND!
+[Sun Oct 06 18:44:51 2013]  say: ^0^1Darth ^0Kuge : what kind of script is that
+[Sun Oct 06 18:45:08 2013]  say: ^0e^3|^0e^7c: there are numerous of kind of script?lol..
+[Sun Oct 06 18:45:22 2013]  say: ^0^1Darth ^0Kuge : yeay 
+[Sun Oct 06 18:45:25 2013]  say: ^0e^3|^0e^7c: nah
+[Sun Oct 06 18:45:28 2013]  say: ^0^1Darth ^0Kuge : ?
+[Sun Oct 06 18:45:33 2013]  say: ^0^1Darth ^0Kuge : i dient say yeay
+[Sun Oct 06 18:45:38 2013]  say: ^0e^3|^0e^7c: -.-
+[Sun Oct 06 18:45:46 2013]  say: ^0^1Darth ^0Kuge : is my keyboard fucking up again
+[Sun Oct 06 18:46:17 2013]  say: ^0^1Darth ^0Kuge : i really need to find quake
+[Sun Oct 06 18:46:21 2013]  ClientDisconnect: 0
+[Sun Oct 06 18:46:34 2013]  say: ^0e^3|^0e^7c: /mplacefx env/quake_small
+[Sun Oct 06 18:47:36 2013]  ClientDisconnect: 2
+[Sun Oct 06 18:50:36 2013]  ClientDisconnect: 1
+[Sun Oct 06 19:06:26 2013]  ClientConnect: 0
+[Sun Oct 06 19:06:26 2013]  mlog:Player jedi, connected. With IP - 75.164.202.135:29070 
+[Sun Oct 06 19:06:44 2013]  ClientBegin: 0
+[Sun Oct 06 19:06:53 2013]  ClientDisconnect: 0
+[Sun Oct 06 19:23:56 2013]  ClientConnect: 0
+[Sun Oct 06 19:23:56 2013]  mlog:Player Luke Skywalker, connected. With IP - 200.83.255.226:29070 
+[Sun Oct 06 19:24:20 2013]  ClientBegin: 0
+[Sun Oct 06 19:27:46 2013]  ClientDisconnect: 0
+[Sun Oct 06 19:53:29 2013]  ClientConnect: 0
+[Sun Oct 06 19:53:29 2013]  mlog:Player ^2Padawan, connected. With IP - 178.121.152.95:29070 
+[Sun Oct 06 19:54:00 2013]  ClientBegin: 0
+[Sun Oct 06 19:54:39 2013]  ClientConnect: 1
+[Sun Oct 06 19:54:39 2013]  mlog:Player ^6Padawan, connected. With IP - 178.123.227.68:25470 
+[Sun Oct 06 19:54:57 2013]  ClientBegin: 1
+[Sun Oct 06 19:57:06 2013]  Kill: 1 1 20: Padawan killed Padawan by MOD_ROCKET_SPLASH
+[Sun Oct 06 20:05:17 2013]  ClientDisconnect: 0
+[Sun Oct 06 20:05:26 2013]  ClientConnect: 0
+[Sun Oct 06 20:05:26 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 109.150.162.246:29070 
+[Sun Oct 06 20:05:33 2013]  ClientConnect: 2
+[Sun Oct 06 20:05:33 2013]  mlog:Player ^2Padawan, connected. With IP - 178.121.152.95:29070 
+[Sun Oct 06 20:05:51 2013]  ClientBegin: 2
+[Sun Oct 06 20:05:55 2013]  ClientBegin: 0
+[Sun Oct 06 20:06:07 2013]  say: ^0^1Darth ^0Kuge : hi all
+[Sun Oct 06 20:06:14 2013]  say: ^2Padawan: rus plz)
+[Sun Oct 06 20:06:25 2013]  say: ^2Padawan: hi hi
+[Sun Oct 06 20:06:25 2013]  say: ^0^1Darth ^0Kuge : no im english only
+[Sun Oct 06 20:06:35 2013]  say: ^2Padawan: aaaahhh no ok
+[Sun Oct 06 20:06:43 2013]  say: ^2Padawan: ok*
+[Sun Oct 06 20:06:47 2013]  say: ^0^1Darth ^0Kuge : why are u saying aaaahhh no
+[Sun Oct 06 20:06:55 2013]  say: ^2Padawan: soori
+[Sun Oct 06 20:07:04 2013]  say: ^2Padawan: duel
+[Sun Oct 06 20:07:27 2013]  say: ^0^1Darth ^0Kuge : have u seen quake
+[Sun Oct 06 20:07:47 2013]  say: ^0^1Darth ^0Kuge : as u see  i am back but on the loading it says im dead but know i am alive
+[Sun Oct 06 20:07:52 2013]  Kill: 2 2 39: ^2Padawan killed ^2Padawan by MOD_SUICIDE
+[Sun Oct 06 20:08:06 2013]  say: ^0^1Darth ^0Kuge : ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sun Oct 06 20:08:06 2013]  say: ^0^1Darth ^0Kuge : ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sun Oct 06 20:08:17 2013]  say: ^2Padawan: skript?
+[Sun Oct 06 20:08:20 2013]  say: ^0^1Darth ^0Kuge : yes his
+[Sun Oct 06 20:08:25 2013]  say: ^0^1Darth ^0Kuge : ^1FIRE BALL!
+[Sun Oct 06 20:08:28 2013]  say: ^2Padawan: god))
+[Sun Oct 06 20:08:39 2013]  Kill: 0 0 39: ^0^1Darth ^0Kuge  killed ^0^1Darth ^0Kuge  by MOD_SUICIDE
+[Sun Oct 06 20:08:39 2013]  setteam:  0 FREE SPECTATOR
+[Sun Oct 06 20:08:39 2013]  ClientBegin: 0
+[Sun Oct 06 20:08:44 2013]  say: ^0^1Darth ^0Kuge : ^1KILL SELECTED OBJECT!
+[Sun Oct 06 20:08:48 2013]  setteam:  0 SPECTATOR FREE
+[Sun Oct 06 20:08:48 2013]  ClientBegin: 0
+[Sun Oct 06 20:08:51 2013]  say: ^0^1Darth ^0Kuge : whoes that padwan
+[Sun Oct 06 20:09:21 2013]  say: ^2Padawan: kill
+[Sun Oct 06 20:09:23 2013]  say: ^0^1Darth ^0Kuge : ^1FIRE BALL!
+[Sun Oct 06 20:09:24 2013]  say: Padawan: îé
+[Sun Oct 06 20:09:25 2013]  say: ^0^1Darth ^0Kuge : ^1FIRE BALL!
+[Sun Oct 06 20:09:33 2013]  Item: 2 ammo_all
+[Sun Oct 06 20:09:34 2013]  say: ^0^1Darth ^0Kuge : the script is not working?
+[Sun Oct 06 20:09:35 2013]  say: Padawan: soori
+[Sun Oct 06 20:09:54 2013]  say: ^0^1Darth ^0Kuge : lets try again
+[Sun Oct 06 20:09:58 2013]  say: ^0^1Darth ^0Kuge : ^1FIRE BALL!
+[Sun Oct 06 20:10:02 2013]  say: ^0^1Darth ^0Kuge : hmm
+[Sun Oct 06 20:10:06 2013]  say: ^2Padawan: ?
+[Sun Oct 06 20:10:10 2013]  say: ^0^1Darth ^0Kuge : ^5AIR ^5WAVE!
+[Sun Oct 06 20:10:15 2013]  say: ^0^1Darth ^0Kuge : aahh
+[Sun Oct 06 20:10:16 2013]  say: ^2Padawan: aaaa)
+[Sun Oct 06 20:10:21 2013]  say: ^0^1Darth ^0Kuge : get if swoop
+[Sun Oct 06 20:10:36 2013]  say: ^0^1Darth ^0Kuge : is there lag
+[Sun Oct 06 20:10:41 2013]  say: ^2Padawan: yes
+[Sun Oct 06 20:10:48 2013]  say: ^0^1Darth ^0Kuge : is it a glich
+[Sun Oct 06 20:10:56 2013]  say: ^0^1Darth ^0Kuge : all get of and kill swoops
+[Sun Oct 06 20:10:59 2013]  say: ^0^1Darth ^0Kuge : ahhhh
+[Sun Oct 06 20:11:22 2013]  say: ^2Padawan: oooh
+[Sun Oct 06 20:11:28 2013]  say: ^0^1Darth ^0Kuge : aahh
+[Sun Oct 06 20:11:36 2013]  say: ^2Padawan: xD
+[Sun Oct 06 20:11:53 2013]  say: ^0^1Darth ^0Kuge : :/
+[Sun Oct 06 20:12:06 2013]  say: ^0^1Darth ^0Kuge : ahhhhhhh
+[Sun Oct 06 20:12:11 2013]  say: ^2Padawan: you from amerikan?
+[Sun Oct 06 20:12:14 2013]  say: ^0^1Darth ^0Kuge : no
+[Sun Oct 06 20:12:16 2013]  say: ^0^1Darth ^0Kuge : england
+[Sun Oct 06 20:12:19 2013]  say: ^2Padawan: aaa
+[Sun Oct 06 20:12:22 2013]  say: ^0^1Darth ^0Kuge : what
+[Sun Oct 06 20:12:59 2013]  say: ^0^1Darth ^0Kuge : ^5AIR ^5WAVE!
+[Sun Oct 06 20:13:10 2013]  say: ^0^1Darth ^0Kuge : ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sun Oct 06 20:13:18 2013]  say: ^0^1Darth ^0Kuge : ^1FORCE DESTRUCTION!
+[Sun Oct 06 20:13:24 2013]  say: ^0^1Darth ^0Kuge : why arnt they working
+[Sun Oct 06 20:13:31 2013]  say: ^0^1Darth ^0Kuge : ^1FORCE DESTRUCTION!
+[Sun Oct 06 20:13:36 2013]  say: ^0^1Darth ^0Kuge : ^1Combat ^0Script V1.1 By ^0Jawa Hunter
+[Sun Oct 06 20:13:37 2013]  say: ^0^1Darth ^0Kuge : ^0ARG!!!!! 
+[Sun Oct 06 20:13:47 2013]  say: ^2Padawan: duel
+[Sun Oct 06 20:14:12 2013]  say: ^2Padawan: I and padawan from belorusian
+[Sun Oct 06 20:14:37 2013]  say: ^0^1Darth ^0Kuge : ahhhh
+[Sun Oct 06 20:14:40 2013]  say: ^2Padawan: ?
+[Sun Oct 06 20:14:43 2013]  say: ^0^1Darth ^0Kuge : what kind of lag is taht
+[Sun Oct 06 20:14:44 2013]  say: ^0^1Darth ^0Kuge : that
+[Sun Oct 06 20:14:54 2013]  say: ^0^1Darth ^0Kuge : get of swoop
+[Sun Oct 06 20:14:55 2013]  say: ^2Padawan: ooohh
+[Sun Oct 06 20:15:12 2013]  say: ^2Padawan: hmm
+[Sun Oct 06 20:15:55 2013]  say: ^2Padawan: duel! pz
+[Sun Oct 06 20:16:12 2013]  say: ^0^1Darth ^0Kuge : lol
+[Sun Oct 06 20:16:16 2013]  say: ^2Padawan: yes
+[Sun Oct 06 20:16:49 2013]  say: ^2Padawan: I afk 10 min
+[Sun Oct 06 20:16:54 2013]  say: ^2Padawan: ok?
+[Sun Oct 06 20:16:56 2013]  say: ^0^1Darth ^0Kuge : GET OF SWOOP
+[Sun Oct 06 20:17:09 2013]  say: ^2Padawan: I afk 10 mins
+[Sun Oct 06 20:17:12 2013]  say: ^0^1Darth ^0Kuge : ok
+[Sun Oct 06 20:17:16 2013]  ClientDisconnect: 2
+[Sun Oct 06 20:17:28 2013]  say: ^0^1Darth ^0Kuge : who are u
+[Sun Oct 06 20:17:40 2013]  say: ^0^1Darth ^0Kuge : press y to talk
+[Sun Oct 06 20:17:44 2013]  say: Padawan: o no
+[Sun Oct 06 20:17:57 2013]  say: ^0^1Darth ^0Kuge : ^0HAZZARD ^1STRIKE!!!
+[Sun Oct 06 20:18:11 2013]  say: Padawan: no english
+[Sun Oct 06 20:18:11 2013]  Item: 1 ammo_all
+[Sun Oct 06 20:18:18 2013]  say: ^0^1Darth ^0Kuge : well i am
+[Sun Oct 06 20:18:32 2013]  Kill: 0 1 0: ^0^1Darth ^0Kuge  killed Padawan by MOD_UNKNOWN
+[Sun Oct 06 20:18:36 2013]  say: ^0^1Darth ^0Kuge : muhahahahaha
+[Sun Oct 06 20:18:42 2013]  Item: 0 weapon_bryar_pistol
+[Sun Oct 06 20:19:29 2013]  say: ^0^1Darth ^0Kuge : ^0HAZZARD ^1STRIKE!!!
+[Sun Oct 06 20:19:42 2013]  ClientConnect: 2
+[Sun Oct 06 20:19:42 2013]  mlog:Player ^3^2Padawan, connected. With IP - 178.121.152.95:29070 
+[Sun Oct 06 20:19:57 2013]  ClientDisconnect: 2
+[Sun Oct 06 20:20:59 2013]  say: ^0^1Darth ^0Kuge : ^3Aim range is now: ^1500
+[Sun Oct 06 20:20:59 2013]  say: ^0^1Darth ^0Kuge : ^1Combat ^0Abilities off
+[Sun Oct 06 20:21:08 2013]  Kill: 0 1 6: ^0^1Darth ^0Kuge  killed Padawan by MOD_BLASTER
+[Sun Oct 06 20:21:22 2013]  say: ^0^1Darth ^0Kuge : target out of range
+[Sun Oct 06 20:21:27 2013]  ClientConnect: 2
+[Sun Oct 06 20:21:27 2013]  mlog:Player ^2Padawan, connected. With IP - 178.121.152.95:29070 
+[Sun Oct 06 20:21:40 2013]  say: Padawan: no english
+[Sun Oct 06 20:21:44 2013]  say: ^0^1Darth ^0Kuge : LOL
+[Sun Oct 06 20:21:44 2013]  ClientBegin: 2
+[Sun Oct 06 20:21:48 2013]  say: ^0^1Darth ^0Kuge : hi
+[Sun Oct 06 20:21:50 2013]  say: ^0^1Darth ^0Kuge : again
+[Sun Oct 06 20:21:56 2013]  say: ^2Padawan: hi hi)
+[Sun Oct 06 20:22:06 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Oct 06 20:23:19 2013]  say: ^0^1Darth ^0Kuge : ^1FORCE DESTRUCTION!
+[Sun Oct 06 20:23:23 2013]  say: ^0^1Darth ^0Kuge : come one
+[Sun Oct 06 20:23:27 2013]  say: ^0^1Darth ^0Kuge : ^1Combat ^0Script V1.1 By ^0Jawa Hunter
+[Sun Oct 06 20:23:28 2013]  say: ^0^1Darth ^0Kuge : ^0ARG!!!!! 
+[Sun Oct 06 20:23:30 2013]  Kill: 1022 2 2: <world> killed ^2Padawan by MOD_MELEE
+[Sun Oct 06 20:23:37 2013]  say: ^0^1Darth ^0Kuge : die rancor
+[Sun Oct 06 20:23:42 2013]  say: ^0^1Darth ^0Kuge : ^0HAZZARD ^1STRIKE!!!
+[Sun Oct 06 20:24:07 2013]  say: ^0^1Darth ^0Kuge : the rancor is dead
+[Sun Oct 06 20:24:14 2013]  say: ^2Padawan: kill rancor!
+[Sun Oct 06 20:24:25 2013]  say: ^0^1Darth ^0Kuge : ^1DEATH ^0BALL!!!!!
+[Sun Oct 06 20:24:51 2013]  Kill: 1022 2 2: <world> killed ^2Padawan by MOD_MELEE
+[Sun Oct 06 20:25:07 2013]  say: Padawan: -not
+[Sun Oct 06 20:25:16 2013]  say: ^0^1Darth ^0Kuge : ^1ARG!!!^0HELP ME!!!
+[Sun Oct 06 20:25:17 2013]  say: ^0^1Darth ^0Kuge : ^1AHHHHHHHH!!!!!
+[Sun Oct 06 20:25:21 2013]  say: ^2Padawan: he he
+[Sun Oct 06 20:25:28 2013]  say: ^2Padawan: no kill
+[Sun Oct 06 20:27:00 2013]  Kill: 0 1 19: ^0^1Darth ^0Kuge  killed Padawan by MOD_ROCKET
+[Sun Oct 06 20:27:08 2013]  Item: 0 weapon_rocket_launcher
+[Sun Oct 06 20:27:20 2013]  say: ^0^1Darth ^0Kuge : bb all
+[Sun Oct 06 20:27:23 2013]  ClientDisconnect: 0
+[Sun Oct 06 20:27:25 2013]  say: ^2Padawan: stop!
+[Sun Oct 06 20:27:56 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Oct 06 20:29:42 2013]  say: ^2Padawan: npc spawn vehicle swoop
+[Sun Oct 06 20:30:19 2013]  Exit: Timelimit hit.
+[Sun Oct 06 20:30:19 2013]  score: 0  ping: 166  client: 2 ^2Padawan
+[Sun Oct 06 20:30:19 2013]  score: -3  ping: 161  client: 1 Padawan
+[Sun Oct 06 20:30:23 2013]  ClientDisconnect: 2
+[Sun Oct 06 20:30:25 2013]  ShutdownGame:
+[Sun Oct 06 20:30:25 2013]  ------------------------------------------------------------
+[Sun Oct 06 20:30:26 2013]  ------------------------------------------------------------
+[Sun Oct 06 20:30:26 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Oct 06 20:30:27 2013]  ClientConnect: 1
+[Sun Oct 06 20:30:41 2013]  ClientBegin: 1
+[Sun Oct 06 20:35:48 2013]  Item: 1 ammo_all
+[Sun Oct 06 20:37:53 2013]  ClientDisconnect: 1
+[Sun Oct 06 20:44:38 2013]  ClientConnect: 0
+[Sun Oct 06 20:44:38 2013]  mlog:Player ^6Padawan, connected. With IP - 178.123.227.68:25470 
+[Sun Oct 06 20:44:47 2013]  ClientBegin: 0
+[Sun Oct 06 20:44:48 2013]  ClientConnect: 1
+[Sun Oct 06 20:44:48 2013]  mlog:Player ^3^2Padawan, connected. With IP - 178.121.152.95:29070 
+[Sun Oct 06 20:45:24 2013]  ClientBegin: 1
+[Sun Oct 06 20:46:01 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:46:22 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:46:33 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:46:56 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 20:46:59 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:47:04 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:47:10 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:47:18 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:47:21 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:48:36 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 20:48:57 2013]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Oct 06 20:49:40 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:49:47 2013]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Oct 06 20:49:51 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:50:01 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:50:10 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:50:22 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:50:32 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 20:50:37 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:50:43 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:50:55 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 20:51:07 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 20:51:24 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:51:34 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:51:42 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 20:51:58 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:52:04 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 20:52:25 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 20:52:53 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:52:59 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 20:53:07 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:53:16 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:53:24 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:53:38 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 20:53:43 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:55:29 2013]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Oct 06 20:55:32 2013]  say: ^2Padawan: ?kill
+[Sun Oct 06 20:55:34 2013]  Kill: 1 1 39: ^2Padawan killed ^2Padawan by MOD_SUICIDE
+[Sun Oct 06 20:55:51 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:56:00 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:56:08 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:56:43 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:56:48 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:56:55 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:57:02 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:57:27 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:58:07 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:58:12 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:58:18 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 20:58:23 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:58:30 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 20:58:58 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 20:59:07 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:59:13 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:59:46 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 20:59:53 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 21:00:15 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 21:01:32 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 21:02:05 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 21:02:20 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 21:02:29 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 21:02:39 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 21:02:55 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 21:03:03 2013]  ClientConnect: 2
+[Sun Oct 06 21:03:03 2013]  mlog:Player Maestro Hispano ^3Amras, connected. With IP - 85.219.4.121:29070 
+[Sun Oct 06 21:03:41 2013]  ClientBegin: 2
+[Sun Oct 06 21:03:58 2013]  say: Maestro Hispano ^3Amras: hola hi
+[Sun Oct 06 21:04:01 2013]  say: Maestro Hispano ^3Amras: que cojones?
+[Sun Oct 06 21:04:16 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 21:04:21 2013]  say: ^2Padawan: rus!
+[Sun Oct 06 21:04:26 2013]  say: ^2Padawan: plz
+[Sun Oct 06 21:04:33 2013]  say: Maestro Hispano ^3Amras: i dont speak rus
+[Sun Oct 06 21:05:19 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 21:05:44 2013]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Sun Oct 06 21:06:04 2013]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Sun Oct 06 21:06:15 2013]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Sun Oct 06 21:06:25 2013]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Sun Oct 06 21:06:41 2013]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Sun Oct 06 21:06:46 2013]  Kill: 1022 0 3: <world> killed Padawan by MOD_SABER
+[Sun Oct 06 21:07:01 2013]  say: Maestro Hispano ^3Amras: /npc spawn rancor_mutant
+[Sun Oct 06 21:07:04 2013]  say: Maestro Hispano ^3Amras: xDD
+[Sun Oct 06 21:07:07 2013]  say: ^2Padawan: lol
+[Sun Oct 06 21:07:36 2013]  Kill: 1022 0 2: <world> killed Padawan by MOD_MELEE
+[Sun Oct 06 21:07:55 2013]  Kill: 1022 0 38: <world> killed Padawan by MOD_FALLING
+[Sun Oct 06 21:08:15 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 21:08:41 2013]  Kill: 1022 2 2: <world> killed Maestro Hispano ^3Amras by MOD_MELEE
+[Sun Oct 06 21:08:42 2013]  Kill: 1 0 3: ^2Padawan killed Padawan by MOD_SABER
+[Sun Oct 06 21:08:56 2013]  say: Maestro Hispano ^3Amras: 7god
+[Sun Oct 06 21:08:57 2013]  Kill: 0 1 3: Padawan killed ^2Padawan by MOD_SABER
+[Sun Oct 06 21:08:58 2013]  say: ^2Padawan: mscaleme 0
+[Sun Oct 06 21:09:29 2013]  ClientDisconnect: 1
+[Sun Oct 06 21:09:34 2013]  say: Maestro Hispano ^3Amras: /q
+[Sun Oct 06 21:09:45 2013]  say: Maestro Hispano ^3Amras: u use /disco to music disco
+[Sun Oct 06 21:10:10 2013]  Kill: 2 0 3: Maestro Hispano ^3Amras killed Padawan by MOD_SABER
+[Sun Oct 06 21:10:17 2013]  ClientDisconnect: 0
+[Sun Oct 06 21:11:36 2013]  ClientDisconnect: 2
+[Sun Oct 06 22:30:25 2013]  Exit: Timelimit hit.
+[Sun Oct 06 22:48:55 2013]  ClientConnect: 0
+[Sun Oct 06 22:48:55 2013]  mlog:Player ^1M^7c^3W^7ooty^1(^3A^7dmin^1), connected. With IP - 71.163.224.48:29070 
+[Sun Oct 06 22:49:15 2013]  ClientBegin: 0
+[Sun Oct 06 22:49:18 2013]  ShutdownGame:
+[Sun Oct 06 22:49:18 2013]  ------------------------------------------------------------
+[Sun Oct 06 22:49:19 2013]  ------------------------------------------------------------
+[Sun Oct 06 22:49:19 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Oct 06 22:49:20 2013]  ClientConnect: 0
+[Sun Oct 06 22:49:28 2013]  ClientBegin: 0
+[Sun Oct 06 22:49:28 2013]  say: V^0î^7§å^0g^7e^3: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Oct 06 22:50:00 2013]  ClientConnect: 1
+[Sun Oct 06 22:50:00 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Sun Oct 06 22:50:23 2013]  ClientBegin: 1
+[Sun Oct 06 22:57:19 2013]  ShutdownGame:
+[Sun Oct 06 22:57:19 2013]  ------------------------------------------------------------
+[Sun Oct 06 22:57:20 2013]  ------------------------------------------------------------
+[Sun Oct 06 22:57:20 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t3_hevil\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Oct 06 22:57:24 2013]  ClientConnect: 0
+[Sun Oct 06 22:57:24 2013]  ClientConnect: 1
+[Sun Oct 06 22:57:40 2013]  ClientBegin: 1
+[Sun Oct 06 22:59:34 2013]  ShutdownGame:
+[Sun Oct 06 22:59:34 2013]  ------------------------------------------------------------
+[Sun Oct 06 22:59:34 2013]  ------------------------------------------------------------
+[Sun Oct 06 22:59:34 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\kor2\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Oct 06 22:59:35 2013]  ClientConnect: 0
+[Sun Oct 06 22:59:35 2013]  ClientConnect: 1
+[Sun Oct 06 22:59:55 2013]  ClientBegin: 1
+[Sun Oct 06 23:00:45 2013]  ClientDisconnect: 0
+[Sun Oct 06 23:02:44 2013]  ------------------------------------------------------------
+[Sun Oct 06 23:02:44 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 07 01:02:38 2013]  Exit: Timelimit hit.
+[Mon Oct 07 01:22:06 2013]  ClientConnect: 0
+[Mon Oct 07 01:22:06 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Mon Oct 07 01:22:26 2013]  ClientBegin: 0
+[Mon Oct 07 01:22:52 2013]  ShutdownGame:
+[Mon Oct 07 01:22:52 2013]  ------------------------------------------------------------

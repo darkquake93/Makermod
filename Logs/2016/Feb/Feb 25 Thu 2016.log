@@ -1,0 +1,215 @@
+[Thu Feb 25 16:26:33 2016]  ------------------------------------------------------------
+[Thu Feb 25 16:26:33 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Feb 25 16:52:49 2016]  ClientConnect: 0
+[Thu Feb 25 16:52:49 2016]  mlog:Player ^2Opa ^1Ele, connected. With IP - 85.178.159.6:29070 
+[Thu Feb 25 16:53:02 2016]  ClientBegin: 0
+[Thu Feb 25 16:57:30 2016]  ClientDisconnect: 0
+[Fri Feb 26 21:07:40 2016]  ClientConnect: 0
+[Fri Feb 26 21:07:40 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Fri Feb 26 21:07:57 2016]  ClientBegin: 0
+[Fri Feb 26 21:08:47 2016]  Item: 0 weapon_melee
+[Fri Feb 26 21:13:32 2016]  ClientConnect: 1
+[Fri Feb 26 21:13:32 2016]  mlog:Player Car^3i^7st^3i^7co^3.^7, connected. With IP - 5.248.83.179:29070 
+[Fri Feb 26 21:14:04 2016]  ClientBegin: 1
+[Fri Feb 26 21:14:19 2016]  say: Car^3i^7st^3i^7co^3.^7: охуеть
+[Fri Feb 26 21:14:35 2016]  say: ^0Shadow^5seer: это ты еще не туда пошел...
+[Fri Feb 26 21:15:06 2016]  say: ^0Shadow^5seer: ну со скинами это владелец серва херни намутил
+[Fri Feb 26 21:15:14 2016]  say: Car^3i^7st^3i^7co^3.^7: да прикольно)
+[Fri Feb 26 21:15:19 2016]  say: ^0Shadow^5seer: да нет как раз
+[Fri Feb 26 21:15:43 2016]  say: ^0Shadow^5seer: а вот тут уже моя работа)
+[Fri Feb 26 21:15:46 2016]  say: Car^3i^7st^3i^7co^3.^7: пиздец как красиво
+[Fri Feb 26 21:16:03 2016]  say: ^0Shadow^5seer: правда на звезде хаоса эффект не отображается после рестарта серва
+[Fri Feb 26 21:16:18 2016]  say: ^0Shadow^5seer: потому что ненадо было на него освещение вешать
+[Fri Feb 26 21:16:38 2016]  say: ^0Shadow^5seer: My origin is: (-16941 -8904 1470) - You can teleport here with /mtelelast
+
+[Fri Feb 26 21:16:39 2016]  say: Car^3i^7st^3i^7co^3.^7: я ньюфаг на мейкере
+[Fri Feb 26 21:16:41 2016]  say: Car^3i^7st^3i^7co^3.^7: как ты
+[Fri Feb 26 21:16:44 2016]  say: Car^3i^7st^3i^7co^3.^7: а
+[Fri Feb 26 21:16:46 2016]  say: Car^3i^7st^3i^7co^3.^7: окей
+[Fri Feb 26 21:16:49 2016]  say: ^0Shadow^5seer: ну с этим, думаю, ты знаешь что делать
+[Fri Feb 26 21:16:51 2016]  say: ^0Shadow^5seer: My origin is: (-16942 -8732 1470) - You can teleport here with /mtelelast
+
+[Fri Feb 26 21:17:21 2016]  say: ^0Shadow^5seer: /mtelelast в консоль введи
+[Fri Feb 26 21:17:43 2016]  say: Car^3i^7st^3i^7co^3.^7: хи
+[Fri Feb 26 21:17:45 2016]  say: Car^3i^7st^3i^7co^3.^7: хм
+[Fri Feb 26 21:17:45 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Fri Feb 26 21:17:54 2016]  say: Car^3i^7st^3i^7co^3.^7: xD
+[Fri Feb 26 21:18:01 2016]  say: ^0Shadow^5seer: чего так медленно?
+[Fri Feb 26 21:18:01 2016]  say: Car^3i^7st^3i^7co^3.^7: да ща
+[Fri Feb 26 21:18:45 2016]  say: Car^3i^7st^3i^7co^3.^7: command usage: mtelelast
+[Fri Feb 26 21:18:51 2016]  say: ^0Shadow^5seer: нуууу
+[Fri Feb 26 21:18:52 2016]  say: ^0Shadow^5seer: вводи
+[Fri Feb 26 21:19:00 2016]  say: Car^3i^7st^3i^7co^3.^7: да вводил я
+[Fri Feb 26 21:19:06 2016]  say: ^0Shadow^5seer: видимо не то чето ввел
+[Fri Feb 26 21:19:11 2016]  say: ^0Shadow^5seer: /mtelelast
+[Fri Feb 26 21:19:14 2016]  say: ^0Shadow^5seer: в консоль
+[Fri Feb 26 21:19:28 2016]  say: ^0Shadow^5seer: со значком / в начале
+[Fri Feb 26 21:19:35 2016]  say: ^0Shadow^5seer: ну наконец то
+[Fri Feb 26 21:19:38 2016]  say: Car^3i^7st^3i^7co^3.^7: да я вкурсе
+[Fri Feb 26 21:19:44 2016]  say: Car^3i^7st^3i^7co^3.^7: не отбитый нуфаг жн
+[Fri Feb 26 21:19:47 2016]  say: Car^3i^7st^3i^7co^3.^7: *же
+[Fri Feb 26 21:19:48 2016]  say: ^0Shadow^5seer: а теперь ничего не трогай, пока объекты в движении
+[Fri Feb 26 21:20:16 2016]  say: Car^3i^7st^3i^7co^3.^7: ваха?
+[Fri Feb 26 21:20:23 2016]  say: Car^3i^7st^3i^7co^3.^7: не
+[Fri Feb 26 21:20:26 2016]  say: Car^3i^7st^3i^7co^3.^7: герои
+[Fri Feb 26 21:20:30 2016]  say: Car^3i^7st^3i^7co^3.^7: точно
+[Fri Feb 26 21:20:35 2016]  say: ^0Shadow^5seer: в каком месте?
+[Fri Feb 26 21:20:35 2016]  say: Car^3i^7st^3i^7co^3.^7: монолит какойнить
+[Fri Feb 26 21:20:58 2016]  say: Car^3i^7st^3i^7co^3.^7: ну сначала я подумал что это ваха
+[Fri Feb 26 21:21:05 2016]  say: Car^3i^7st^3i^7co^3.^7: зелный туман
+[Fri Feb 26 21:21:10 2016]  say: Car^3i^7st^3i^7co^3.^7: пробуждение монолита
+[Fri Feb 26 21:21:15 2016]  say: Car^3i^7st^3i^7co^3.^7: потом дракон
+[Fri Feb 26 21:21:24 2016]  say: ^0Shadow^5seer: мде
+[Fri Feb 26 21:21:24 2016]  say: Car^3i^7st^3i^7co^3.^7: и я подумал что герои 3
+[Fri Feb 26 21:21:34 2016]  say: ^0Shadow^5seer: больше нигде же драконов нет, да?
+[Fri Feb 26 21:21:36 2016]  say: Car^3i^7st^3i^7co^3.^7: вот такие у меня ассоциации
+[Fri Feb 26 21:21:46 2016]  say: Car^3i^7st^3i^7co^3.^7: есть конечно
+[Fri Feb 26 21:22:06 2016]  say: ^0Shadow^5seer: в общем вот, по сравнению с тем, что было в ролике, это большой прогресс)
+[Fri Feb 26 21:22:13 2016]  say: Car^3i^7st^3i^7co^3.^7: согласен
+[Fri Feb 26 21:22:18 2016]  say: Car^3i^7st^3i^7co^3.^7: спустя 3 года
+[Fri Feb 26 21:22:28 2016]  say: ^0Shadow^5seer: ну не, этой штуке уже почти год
+[Fri Feb 26 21:23:06 2016]  say: Car^3i^7st^3i^7co^3.^7: куда она пропала зачем
+[Fri Feb 26 21:23:08 2016]  say: Car^3i^7st^3i^7co^3.^7: о
+[Fri Feb 26 21:23:11 2016]  say: Car^3i^7st^3i^7co^3.^7: прикольно
+[Fri Feb 26 21:23:31 2016]  Kill: 1022 1 36: <world> killed Car^3i^7st^3i^7co^3.^7 by MOD_CRUSH
+[Fri Feb 26 21:23:34 2016]  say: ^0Shadow^5seer: упс
+[Fri Feb 26 21:23:44 2016]  say: ^0Shadow^5seer: я зыбал что их не удерживают препятствия
+[Fri Feb 26 21:23:56 2016]  say: Car^3i^7st^3i^7co^3.^7: какая там комманда?
+[Fri Feb 26 21:24:01 2016]  say: Car^3i^7st^3i^7co^3.^7: я бинд поставлю
+[Fri Feb 26 21:24:01 2016]  say: ^0Shadow^5seer: вспоминай
+[Fri Feb 26 21:24:21 2016]  say: Car^3i^7st^3i^7co^3.^7: проще найти
+[Fri Feb 26 21:24:25 2016]  say: ^0Shadow^5seer: ну или так
+[Fri Feb 26 21:24:37 2016]  say: ^0Shadow^5seer: у тебя то консоль не заполнена командми скриптов
+[Fri Feb 26 21:24:52 2016]  say: Car^3i^7st^3i^7co^3.^7: да я знаю
+[Fri Feb 26 21:25:12 2016]  say: Car^3i^7st^3i^7co^3.^7: у меня она заполнена по стандарту 
+[Fri Feb 26 21:25:19 2016]  say: Car^3i^7st^3i^7co^3.^7: как у типичного админа
+[Fri Feb 26 21:27:25 2016]  say: ^0Shadow^5seer: лучше отойди
+[Fri Feb 26 21:27:27 2016]  say: Car^3i^7st^3i^7co^3.^7: о я вспомнил
+[Fri Feb 26 21:28:15 2016]  say: ^0Shadow^5seer: осторожно, молнии
+[Fri Feb 26 21:28:21 2016]  say: Car^3i^7st^3i^7co^3.^7: вижу
+[Fri Feb 26 21:28:57 2016]  say: Car^3i^7st^3i^7co^3.^7: god mod on
+[Fri Feb 26 21:29:08 2016]  say: ^0Shadow^5seer: она нажимается
+[Fri Feb 26 21:29:23 2016]  say: Car^3i^7st^3i^7co^3.^7: такс
+[Fri Feb 26 21:29:24 2016]  say: ^0Shadow^5seer: хм, еще эпичности?
+[Fri Feb 26 21:29:32 2016]  say: Car^3i^7st^3i^7co^3.^7: конечно!
+[Fri Feb 26 21:29:33 2016]  say: ^0Shadow^5seer: на ту сторону здания иди
+[Fri Feb 26 21:29:52 2016]  say: ^0Shadow^5seer: ^5Behold the Stormbringer!
+[Fri Feb 26 21:30:03 2016]  say: Car^3i^7st^3i^7co^3.^7: офигеть
+[Fri Feb 26 21:30:18 2016]  say: Car^3i^7st^3i^7co^3.^7: я уже это видел кажись
+[Fri Feb 26 21:30:28 2016]  say: ^0Shadow^5seer: ну после дракона эта штука на втором месте
+[Fri Feb 26 21:30:43 2016]  say: ^0Shadow^5seer: и да, он в каких-то там альбомах вроде был
+[Fri Feb 26 21:30:48 2016]  say: Car^3i^7st^3i^7co^3.^7: да 
+[Fri Feb 26 21:30:54 2016]  say: Car^3i^7st^3i^7co^3.^7: на экстре
+[Fri Feb 26 21:31:25 2016]  say: Car^3i^7st^3i^7co^3.^7: телепорт:?
+[Fri Feb 26 21:31:40 2016]  say: Car^3i^7st^3i^7co^3.^7: а не
+[Fri Feb 26 21:31:43 2016]  say: ^0Shadow^5seer: да хз вообще, просто что-то
+[Fri Feb 26 21:31:53 2016]  say: ^0Shadow^5seer: психическая плеть из space marine
+[Fri Feb 26 21:32:09 2016]  say: Car^3i^7st^3i^7co^3.^7: погодь я скриню
+[Fri Feb 26 21:32:17 2016]  say: Car^3i^7st^3i^7co^3.^7: все
+[Fri Feb 26 21:33:37 2016]  say: ^0Shadow^5seer: ноклипом внутрь этой штуки
+[Fri Feb 26 21:34:10 2016]  say: ^0Shadow^5seer: добро пожаловать в царство эпилепсии
+[Fri Feb 26 21:34:14 2016]  say: ^0Shadow^5seer: ну, если покрутиться тут
+[Fri Feb 26 21:35:40 2016]  say: Car^3i^7st^3i^7co^3.^7: дико
+[Fri Feb 26 21:36:06 2016]  say: ^0Shadow^5seer: а так я хз даже, чего еще в том альбомен е было
+[Fri Feb 26 21:36:17 2016]  say: Car^3i^7st^3i^7co^3.^7: опять ты куда то пропал
+[Fri Feb 26 21:36:23 2016]  say: ^0Shadow^5seer: я везде
+[Fri Feb 26 21:36:30 2016]  say: Car^3i^7st^3i^7co^3.^7: /mstatus есть?
+[Fri Feb 26 21:36:41 2016]  say: ^0Shadow^5seer: аага
+[Fri Feb 26 21:36:51 2016]  say: Car^3i^7st^3i^7co^3.^7: какой твой айди?
+[Fri Feb 26 21:36:57 2016]  say: ^0Shadow^5seer: 0
+[Fri Feb 26 21:37:03 2016]  say: ^0Shadow^5seer: чего задумал?
+[Fri Feb 26 21:37:21 2016]  say: ^0Shadow^5seer: телепортнуться ты ко мне не можешь
+[Fri Feb 26 21:37:28 2016]  say: Car^3i^7st^3i^7co^3.^7: ой
+[Fri Feb 26 21:37:32 2016]  say: Car^3i^7st^3i^7co^3.^7: ну ладушки
+[Fri Feb 26 21:37:54 2016]  say: ^0Shadow^5seer: а если бы и мог, эта команда точно так же работала через никнейм
+[Fri Feb 26 21:38:02 2016]  say: ^0Shadow^5seer: ну или любые три буквы из него как минимум
+[Fri Feb 26 21:38:23 2016]  say: ^0Shadow^5seer: ты там точно в годмоде?
+[Fri Feb 26 21:38:29 2016]  say: Car^3i^7st^3i^7co^3.^7: конечно
+[Fri Feb 26 21:38:44 2016]  say: ^0Shadow^5seer: лол)
+[Fri Feb 26 21:38:49 2016]  say: Car^3i^7st^3i^7co^3.^7: красиво
+[Fri Feb 26 21:39:10 2016]  say: Car^3i^7st^3i^7co^3.^7: ух ебать
+[Fri Feb 26 21:39:19 2016]  say: Car^3i^7st^3i^7co^3.^7: крипота
+[Fri Feb 26 21:39:43 2016]  say: Car^3i^7st^3i^7co^3.^7: еще раз я заскриню
+[Fri Feb 26 21:40:03 2016]  say: ^0Shadow^5seer: даже попал?)
+[Fri Feb 26 21:40:08 2016]  say: Car^3i^7st^3i^7co^3.^7: угу)
+[Fri Feb 26 21:40:14 2016]  say: ^0Shadow^5seer: они рандомно вокруг меня бьют
+[Fri Feb 26 21:40:24 2016]  say: Car^3i^7st^3i^7co^3.^7: я везучий хдд
+[Fri Feb 26 21:40:32 2016]  say: ^0Shadow^5seer: редко попадает
+[Fri Feb 26 21:41:04 2016]  say: Car^3i^7st^3i^7co^3.^7: это пиздец просто
+[Fri Feb 26 21:41:19 2016]  say: Car^3i^7st^3i^7co^3.^7: у меня не хватит памяти что бы это все скринить
+[Fri Feb 26 21:41:35 2016]  say: ^0Shadow^5seer: потому что это еще и далеко не все?)
+[Fri Feb 26 21:41:42 2016]  say: Car^3i^7st^3i^7co^3.^7: именно
+[Fri Feb 26 21:41:58 2016]  say: ^0Shadow^5seer: вспомнить бы, что у меня еще было интересного
+[Fri Feb 26 21:42:04 2016]  say: ^0Shadow^5seer: а то 150+ скриптов
+[Fri Feb 26 21:42:04 2016]  say: Car^3i^7st^3i^7co^3.^7: все
+[Fri Feb 26 21:42:08 2016]  say: Car^3i^7st^3i^7co^3.^7: ахах
+[Fri Feb 26 21:42:10 2016]  say: Car^3i^7st^3i^7co^3.^7: еба
+[Fri Feb 26 21:42:26 2016]  say: ^0Shadow^5seer: ну так, за несколько лет игры понаписал всякого, а потом перестал играть
+[Fri Feb 26 21:42:33 2016]  say: Car^3i^7st^3i^7co^3.^7: жаль
+[Fri Feb 26 21:42:38 2016]  say: ^0Shadow^5seer: да не особо
+[Fri Feb 26 21:43:10 2016]  say: Car^3i^7st^3i^7co^3.^7: ахах
+[Fri Feb 26 21:43:19 2016]  say: ^0Shadow^5seer: ну а че бы и нет...
+[Fri Feb 26 21:43:28 2016]  say: Car^3i^7st^3i^7co^3.^7: действительно
+[Fri Feb 26 21:44:20 2016]  say: Car^3i^7st^3i^7co^3.^7: че там по списку?)
+[Fri Feb 26 21:44:26 2016]  say: ^0Shadow^5seer: а?
+[Fri Feb 26 21:44:49 2016]  say: Car^3i^7st^3i^7co^3.^7: какие именно скрипты писал?
+[Fri Feb 26 21:45:00 2016]  say: ^0Shadow^5seer: да всякие
+[Fri Feb 26 21:45:09 2016]  say: ^0Shadow^5seer: боевые, строительные, всякие другие
+[Fri Feb 26 21:45:22 2016]  say: Car^3i^7st^3i^7co^3.^7: да ты крут
+[Fri Feb 26 21:45:24 2016]  say: ^0Shadow^5seer: всего примерно одинаково
+[Fri Feb 26 21:47:27 2016]  say: Car^3i^7st^3i^7co^3.^7: а говорят что жа умерла
+[Fri Feb 26 21:47:39 2016]  say: ^0Shadow^5seer: ну я один ее не подниму)
+[Fri Feb 26 21:47:54 2016]  say: Car^3i^7st^3i^7co^3.^7: это так.
+[Fri Feb 26 21:48:32 2016]  say: Car^3i^7st^3i^7co^3.^7: а есть какие нибудь дэфолтные скрипты?
+[Fri Feb 26 21:48:48 2016]  say: ^0Shadow^5seer: нет
+[Fri Feb 26 21:48:59 2016]  say: ^0Shadow^5seer: скрипт - это текстовый документ у тебя на компе
+[Fri Feb 26 21:49:09 2016]  say: ^0Shadow^5seer: откуда им взяться, если ты их не напишешь?
+[Fri Feb 26 21:49:10 2016]  say: Car^3i^7st^3i^7co^3.^7: ну мало ли )
+[Fri Feb 26 21:50:01 2016]  say: ^0Shadow^5seer: My origin is: (-13809 16933 1556) - You can teleport here with /mtelelast
+
+[Fri Feb 26 21:50:20 2016]  say: ^0Shadow^5seer: назад
+[Fri Feb 26 21:50:31 2016]  say: Car^3i^7st^3i^7co^3.^7: ай
+[Fri Feb 26 21:51:10 2016]  say: ^0Shadow^5seer: и вот эта штука - третье место
+[Fri Feb 26 21:51:25 2016]  say: Car^3i^7st^3i^7co^3.^7: 3?
+[Fri Feb 26 21:51:38 2016]  say: ^0Shadow^5seer: после дракона и робота
+[Fri Feb 26 21:51:43 2016]  say: Car^3i^7st^3i^7co^3.^7: а
+[Fri Feb 26 21:51:52 2016]  say: ^0Shadow^5seer: ну по моему собственному рейтингу крутости)
+[Fri Feb 26 21:52:06 2016]  say: Car^3i^7st^3i^7co^3.^7: дракон найс
+[Fri Feb 26 21:52:30 2016]  say: Car^3i^7st^3i^7co^3.^7: ладно я пожалуй пойду)
+[Fri Feb 26 21:52:35 2016]  say: ^0Shadow^5seer: аага, я тоже
+[Fri Feb 26 21:52:36 2016]  say: ^0Shadow^5seer: удачи
+[Fri Feb 26 21:52:40 2016]  ClientDisconnect: 0
+[Fri Feb 26 21:52:40 2016]  say: Car^3i^7st^3i^7co^3.^7: удачи)
+[Fri Feb 26 21:52:42 2016]  ClientDisconnect: 1
+[Sat Feb 27 15:16:48 2016]  ClientConnect: 0
+[Sat Feb 27 15:16:48 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sat Feb 27 15:17:05 2016]  ClientBegin: 0
+[Sat Feb 27 15:17:13 2016]  Item: 0 weapon_melee
+[Sat Feb 27 15:18:33 2016]  ClientDisconnect: 0
+[Sat Feb 27 15:18:39 2016]  ClientConnect: 0
+[Sat Feb 27 15:18:39 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sat Feb 27 15:18:48 2016]  ClientBegin: 0
+[Sat Feb 27 15:19:03 2016]  Item: 0 weapon_melee
+[Sat Feb 27 15:21:00 2016]  ClientDisconnect: 0
+[Sat Feb 27 16:55:48 2016]  ClientConnect: 0
+[Sat Feb 27 16:55:48 2016]  mlog:Player Car^3i^7st^3i^7co^3.^7, connected. With IP - 5.248.83.179:29070 
+[Sat Feb 27 16:56:26 2016]  ClientBegin: 0
+[Sat Feb 27 16:59:27 2016]  Kill: 0 0 39: Car^3i^7st^3i^7co^3.^7 killed Car^3i^7st^3i^7co^3.^7 by MOD_SUICIDE
+[Sat Feb 27 17:14:11 2016]  ClientDisconnect: 0
+[Sun Feb 28 09:25:48 2016]  ClientConnect: 0
+[Sun Feb 28 09:25:48 2016]  mlog:Player Padawan, connected. With IP - 97.96.104.104:29070 
+[Sun Feb 28 09:29:16 2016]  ClientDisconnect: 0
+[Sun Feb 28 17:32:20 2016]  ClientConnect: 0
+[Sun Feb 28 17:32:20 2016]  mlog:Player Padawan, connected. With IP - 173.176.132.84:29070 
+[Sun Feb 28 17:33:03 2016]  ClientBegin: 0
+[Sun Feb 28 17:35:02 2016]  ClientDisconnect: 0
+[Sun Feb 28 22:47:50 2016]  ClientConnect: 0
+[Sun Feb 28 22:47:50 2016]  mlog:Player ^0djeezes, connected. With IP - 78.23.136.6:29070 
+[Sun Feb 28 22:47:51 2016]  ClientConnect: 1
+[Sun Feb 28 22:47:51 2016]  mlog:Player Kresh, connected. With IP - 78.21.223.123:29070 
+[Sun Feb 28 22:48:08 2016]  ClientBegin: 0
+[Sun Feb 28 22:48:13 2016]  ClientBegin: 1
+[Sun Feb 28 22:54:14 2016]  Kill: 1 0 3: Kresh killed ^0djeezes by MOD_SABER
+[Sun Feb 28 22:54:53 2016]  Kill: 0 0 39: ^0djeezes killed ^0djeezes by MOD_SUICIDE
+[Sun Feb 28 22:55:41 2016]  ClientDisconnect: 0
+[Sun Feb 28 22:55:57 2016]  ClientDisconnect: 1

@@ -1,0 +1,868 @@
+[Mon Aug 29 01:02:34 2016]  ------------------------------------------------------------
+[Mon Aug 29 01:02:34 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Aug 29 12:35:41 2016]  ClientConnect: 0
+[Mon Aug 29 12:35:41 2016]  mlog:Player Cameron Kaven, connected. With IP - 188.127.131.182:16968 
+[Mon Aug 29 12:35:55 2016]  ClientBegin: 0
+[Mon Aug 29 12:37:04 2016]  ClientDisconnect: 0
+[Mon Aug 29 14:24:57 2016]  ClientConnect: 0
+[Mon Aug 29 14:24:57 2016]  mlog:Player ^3(^7Magna^5), connected. With IP - 192.162.35.139:29070 
+[Mon Aug 29 14:25:41 2016]  ClientBegin: 0
+[Mon Aug 29 15:33:12 2016]  ClientDisconnect: 0
+[Mon Aug 29 15:34:48 2016]  ClientConnect: 0
+[Mon Aug 29 15:34:48 2016]  mlog:Player ^3(^7Magna^5), connected. With IP - 192.162.35.139:29070 
+[Mon Aug 29 15:35:03 2016]  ClientBegin: 0
+[Mon Aug 29 15:37:06 2016]  Item: 0 ammo_all
+[Mon Aug 29 15:38:04 2016]  Kill: 1022 0 38: <world> killed Cegun by MOD_FALLING
+[Mon Aug 29 15:41:35 2016]  Kill: 1022 0 39: <world> killed Cegun by MOD_SUICIDE
+[Mon Aug 29 15:44:02 2016]  ClientDisconnect: 0
+[Mon Aug 29 19:04:29 2016]  ClientConnect: 0
+[Mon Aug 29 19:04:29 2016]  mlog:Player ^1-^0INV^1- ^0Raven ^1[War], connected. With IP - 37.212.210.107:-6714 
+[Mon Aug 29 19:05:02 2016]  ClientBegin: 0
+[Mon Aug 29 19:06:11 2016]  ClientDisconnect: 0
+[Tue Aug 30 15:44:53 2016]  ClientConnect: 0
+[Tue Aug 30 15:44:53 2016]  mlog:Player ^1K^7isame, connected. With IP - 178.121.26.88:-1214 
+[Tue Aug 30 15:45:21 2016]  ClientConnect: 1
+[Tue Aug 30 15:45:21 2016]  mlog:Player kosher, connected. With IP - 91.230.25.125:29070 
+[Tue Aug 30 15:45:34 2016]  ClientBegin: 0
+[Tue Aug 30 15:45:53 2016]  ClientBegin: 1
+[Tue Aug 30 15:46:00 2016]  say: kosher: че кикнули
+[Tue Aug 30 15:46:08 2016]  say: ^1K^7isame: дали ребенку власть
+[Tue Aug 30 15:46:22 2016]  say: ^1K^7isame: он ранкоров там спавнит
+[Tue Aug 30 15:46:26 2016]  say: ^1K^7isame: чтобы сервер ломался
+[Tue Aug 30 15:46:37 2016]  say: ^1K^7isame: и не знает что любой может написать /npc kill all
+[Tue Aug 30 15:46:42 2016]  say: kosher: странно
+[Tue Aug 30 15:46:58 2016]  say: kosher: нпц килл алл вроде тока своих нпц убивает
+[Tue Aug 30 15:47:08 2016]  say: ^1K^7isame: не везде
+[Tue Aug 30 15:47:22 2016]  say: ^1K^7isame: я уже его ранкоров 2 раза убирал
+[Tue Aug 30 15:47:35 2016]  say: kosher: а че он это делает
+[Tue Aug 30 15:47:41 2016]  say: ^1K^7isame: ломает игру всем
+[Tue Aug 30 15:47:42 2016]  say: ^1K^7isame: как ты
+[Tue Aug 30 15:47:48 2016]  say: kosher: я не ломаю
+[Tue Aug 30 15:47:50 2016]  say: ^1K^7isame: только у него возможностей больше
+[Tue Aug 30 15:48:00 2016]  say: kosher: почему я ламаю
+[Tue Aug 30 15:48:07 2016]  say: ^1K^7isame: ну ламал
+[Tue Aug 30 15:48:12 2016]  say: kosher: как
+[Tue Aug 30 15:48:16 2016]  say: ^1K^7isame: вернее портир
+[Tue Aug 30 15:48:20 2016]  say: ^1K^7isame: портил*
+[Tue Aug 30 15:48:25 2016]  say: kosher: когда
+[Tue Aug 30 15:48:29 2016]  say: ^1K^7isame: когда мы строили
+[Tue Aug 30 15:48:40 2016]  say: kosher: ну
+[Tue Aug 30 15:48:50 2016]  say: kosher: когда именно
+[Tue Aug 30 15:48:54 2016]  say: ^1K^7isame: ты знаешь
+[Tue Aug 30 15:49:00 2016]  say: kosher: я не помню уже
+[Tue Aug 30 15:49:12 2016]  say: kosher: год назад?
+[Tue Aug 30 15:49:16 2016]  say: ^1K^7isame: но это помню я
+[Tue Aug 30 15:49:32 2016]  say: kosher: или вчера
+[Tue Aug 30 15:50:08 2016]  say: kosher: помнишь а сказать не можешь
+[Tue Aug 30 15:50:28 2016]  say: ^1K^7isame: зачем мне говорить если ты знаешь?
+[Tue Aug 30 15:50:42 2016]  say: kosher: я не помню всех с кем играл
+[Tue Aug 30 15:51:40 2016]  say: kosher: ну так че
+[Tue Aug 30 15:52:00 2016]  say: ^1K^7isame: что
+[Tue Aug 30 15:52:19 2016]  say: kosher: как друзей найти
+[Tue Aug 30 15:52:21 2016]  Kill: 1 1 39: kosher killed kosher by MOD_SUICIDE
+[Tue Aug 30 15:52:21 2016]  setteam:  1 FREE SPECTATOR
+[Tue Aug 30 15:52:21 2016]  ClientBegin: 1
+[Tue Aug 30 15:52:27 2016]  say: ^1K^7isame: каких
+[Tue Aug 30 15:52:29 2016]  setteam:  1 SPECTATOR FREE
+[Tue Aug 30 15:52:29 2016]  ClientBegin: 1
+[Tue Aug 30 15:52:43 2016]  say: kosher: хороших
+[Tue Aug 30 15:52:53 2016]  say: ^1K^7isame: никак найти нельзя
+[Tue Aug 30 15:53:00 2016]  say: ^1K^7isame: надо проверять
+[Tue Aug 30 15:53:17 2016]  say: kosher: хм
+[Tue Aug 30 15:53:20 2016]  say: kosher: а плохих
+[Tue Aug 30 15:53:32 2016]  say: ^1K^7isame: тоже надо проверять
+[Tue Aug 30 15:53:52 2016]  say: kosher: в игре друзей не найдешь
+[Tue Aug 30 15:53:57 2016]  say: ^1K^7isame: да
+[Tue Aug 30 15:54:04 2016]  say: kosher: но я нашел как то рапз
+[Tue Aug 30 15:54:05 2016]  say: kosher: раз
+[Tue Aug 30 15:54:18 2016]  say: ^1K^7isame: ну и где он
+[Tue Aug 30 15:54:29 2016]  say: kosher: пропал
+[Tue Aug 30 15:54:35 2016]  say: kosher: куда то
+[Tue Aug 30 15:54:38 2016]  say: kosher: хз
+[Tue Aug 30 15:54:42 2016]  say: ^1K^7isame: может в другую игру пошел играть
+[Tue Aug 30 15:54:44 2016]  say: kosher: везде проверял
+[Tue Aug 30 15:54:50 2016]  say: kosher: в скайпе нет
+[Tue Aug 30 15:55:25 2016]  say: ^1K^7isame: тебе не с кем говорить?
+[Tue Aug 30 15:55:29 2016]  say: kosher: да
+[Tue Aug 30 15:55:35 2016]  say: ^1K^7isame: поэтому друзей хочешь?
+[Tue Aug 30 15:55:40 2016]  say: kosher: возможно
+[Tue Aug 30 15:56:14 2016]  say: ^1K^7isame: или тебя не понимают?
+[Tue Aug 30 15:56:22 2016]  say: kosher: тоесть
+[Tue Aug 30 15:56:37 2016]  say: ^1K^7isame: твои взгляды на жизнь не понимают или не разделяют
+[Tue Aug 30 15:56:57 2016]  say: kosher: да нет вроде
+[Tue Aug 30 15:57:18 2016]  say: ^1K^7isame: значит ты можешь найти друзей для хорошего проведения времени
+[Tue Aug 30 15:57:31 2016]  say: kosher: могу но не находятся
+[Tue Aug 30 15:57:39 2016]  say: ^1K^7isame: ну конечно
+[Tue Aug 30 15:57:43 2016]  say: ^1K^7isame: ты же играешь,а не ищешь
+[Tue Aug 30 15:57:49 2016]  say: kosher: а где их искать
+[Tue Aug 30 15:57:56 2016]  say: ^1K^7isame: не в компьютере
+[Tue Aug 30 15:58:06 2016]  say: kosher: я тока в жка играю
+[Tue Aug 30 15:58:20 2016]  say: kosher: на улице не найдешь
+[Tue Aug 30 15:58:26 2016]  say: ^1K^7isame: почему?
+[Tue Aug 30 15:58:29 2016]  say: kosher: разве что денег бомжу дашь
+[Tue Aug 30 15:58:36 2016]  say: kosher: и он станет твоим другом
+[Tue Aug 30 15:59:07 2016]  say: kosher: щас всем друг на друга наплевать
+[Tue Aug 30 15:59:43 2016]  Kill: 1 1 39: kosher killed kosher by MOD_SUICIDE
+[Tue Aug 30 15:59:43 2016]  setteam:  1 FREE SPECTATOR
+[Tue Aug 30 15:59:43 2016]  ClientBegin: 1
+[Tue Aug 30 15:59:45 2016]  say: ^1K^7isame: ты хочешь друзей и не пытаешься их искать
+[Tue Aug 30 15:59:49 2016]  setteam:  1 SPECTATOR FREE
+[Tue Aug 30 15:59:49 2016]  ClientBegin: 1
+[Tue Aug 30 15:59:52 2016]  say: kosher: пытаюсь
+[Tue Aug 30 15:59:59 2016]  say: kosher: но всегда какое то гавно
+[Tue Aug 30 15:59:59 2016]  say: ^1K^7isame: мне уже стало все равно на это
+[Tue Aug 30 16:00:09 2016]  say: kosher: на что
+[Tue Aug 30 16:00:14 2016]  say: ^1K^7isame: есть друзей или нету
+[Tue Aug 30 16:00:23 2016]  say: ^1K^7isame: ты умеешь медитировать?
+[Tue Aug 30 16:00:26 2016]  say: kosher: без друзей живешь?
+[Tue Aug 30 16:00:31 2016]  say: ^1K^7isame: lf
+[Tue Aug 30 16:00:31 2016]  say: kosher: нет
+[Tue Aug 30 16:00:32 2016]  say: ^1K^7isame: да
+[Tue Aug 30 16:00:53 2016]  say: ^1K^7isame: хотя я себе нагадал нового друга
+[Tue Aug 30 16:01:00 2016]  say: kosher: надеюсь ты не смотришь аниме
+[Tue Aug 30 16:01:12 2016]  say: ^1K^7isame: какое
+[Tue Aug 30 16:01:17 2016]  say: kosher: любое
+[Tue Aug 30 16:01:35 2016]  say: ^1K^7isame: надежда умерает последней
+[Tue Aug 30 16:01:37 2016]  say: kosher: я не смотрю и у меня нет друзей
+[Tue Aug 30 16:01:49 2016]  say: ^1K^7isame: в чем связь
+[Tue Aug 30 16:02:12 2016]  say: kosher: вместо того чтоб смотреть лучше бы снимал
+[Tue Aug 30 16:02:21 2016]  say: ^1K^7isame: кого
+[Tue Aug 30 16:02:25 2016]  say: kosher: русские фильмы
+[Tue Aug 30 16:02:28 2016]  say: kosher: или мультфильмы
+[Tue Aug 30 16:02:55 2016]  say: ^1K^7isame: ты нацист?
+[Tue Aug 30 16:02:58 2016]  say: kosher: нет
+[Tue Aug 30 16:03:05 2016]  say: kosher: почему
+[Tue Aug 30 16:03:30 2016]  say: ^1K^7isame: или как там называют людей которые кроме своей страны никакие страны не считают за страны
+[Tue Aug 30 16:03:38 2016]  Kill: 1022 1 38: <world> killed kosher by MOD_FALLING
+[Tue Aug 30 16:03:40 2016]  say: kosher: я из украины
+[Tue Aug 30 16:03:48 2016]  say: ^1K^7isame: ну да
+[Tue Aug 30 16:03:51 2016]  say: kosher: да
+[Tue Aug 30 16:03:57 2016]  say: ^1K^7isame: это утверждение
+[Tue Aug 30 16:04:00 2016]  say: kosher: пинг проверь
+[Tue Aug 30 16:04:15 2016]  Kill: 1 1 39: kosher killed kosher by MOD_SUICIDE
+[Tue Aug 30 16:04:31 2016]  say: ^1K^7isame: в любом случае я смотрю не только русские фильмы
+[Tue Aug 30 16:04:39 2016]  say: ^1K^7isame: другие страны тоже умеют снимать их
+[Tue Aug 30 16:04:42 2016]  say: kosher: я ваще никакие не смотрю
+[Tue Aug 30 16:04:50 2016]  say: ^1K^7isame: книги читаешь?
+[Tue Aug 30 16:04:50 2016]  Kill: 1022 1 38: <world> killed kosher by MOD_FALLING
+[Tue Aug 30 16:04:53 2016]  say: kosher: у меня наушники сломались
+[Tue Aug 30 16:04:55 2016]  say: kosher: нет
+[Tue Aug 30 16:05:07 2016]  say: ^1K^7isame: а чем ты занимаешься
+[Tue Aug 30 16:05:07 2016]  say: kosher: уныло живу
+[Tue Aug 30 16:05:27 2016]  say: kosher: поиграю в жка
+[Tue Aug 30 16:05:42 2016]  say: kosher: ищу сервера без ботов итд
+[Tue Aug 30 16:06:01 2016]  say: ^1K^7isame: и все
+[Tue Aug 30 16:06:05 2016]  say: kosher: да
+[Tue Aug 30 16:06:12 2016]  say: ^1K^7isame: ты на море ходил?
+[Tue Aug 30 16:06:17 2016]  say: kosher: нет
+[Tue Aug 30 16:06:25 2016]  say: ^1K^7isame: а на какой-нибудь водоем кроме ванной
+[Tue Aug 30 16:06:33 2016]  say: kosher: давно еще
+[Tue Aug 30 16:06:37 2016]  say: ^1K^7isame: я про лето
+[Tue Aug 30 16:06:40 2016]  say: kosher: нет
+[Tue Aug 30 16:06:48 2016]  say: ^1K^7isame: даже не загарал?
+[Tue Aug 30 16:06:52 2016]  say: kosher: нет
+[Tue Aug 30 16:06:58 2016]  say: ^1K^7isame: ты врешь?
+[Tue Aug 30 16:07:02 2016]  say: kosher: почему
+[Tue Aug 30 16:07:20 2016]  say: ^1K^7isame: я тоже никуда не ходил
+[Tue Aug 30 16:07:45 2016]  say: kosher: и че
+[Tue Aug 30 16:07:58 2016]  say: kosher: кто то тоже не ходил
+[Tue Aug 30 16:08:06 2016]  say: ^1K^7isame: у тебя есть все шансы делать жизнь лучше и ты ничего не делаешь
+[Tue Aug 30 16:08:14 2016]  say: kosher: как например
+[Tue Aug 30 16:08:16 2016]  say: ^1K^7isame: боишься перемен?
+[Tue Aug 30 16:08:51 2016]  say: kosher: я не боюсб
+[Tue Aug 30 16:09:01 2016]  say: ^1K^7isame: как-то долго писал
+[Tue Aug 30 16:09:01 2016]  say: kosher: у меня давно уже перемен не было
+[Tue Aug 30 16:09:17 2016]  say: ^1K^7isame: как ты обычно говоришь 
+[Tue Aug 30 16:09:21 2016]  say: ^1K^7isame: ух ты или вау
+[Tue Aug 30 16:09:30 2016]  say: kosher: вау это английское
+[Tue Aug 30 16:09:36 2016]  say: ^1K^7isame: да
+[Tue Aug 30 16:09:40 2016]  say: ^1K^7isame: ну так как ты говоришь
+[Tue Aug 30 16:09:44 2016]  say: kosher: но я ниче не говорю
+[Tue Aug 30 16:09:53 2016]  say: ^1K^7isame: такого не бывает
+[Tue Aug 30 16:09:57 2016]  say: ^1K^7isame: ты же учишься
+[Tue Aug 30 16:10:05 2016]  say: kosher: где
+[Tue Aug 30 16:10:10 2016]  say: ^1K^7isame: ну ты говорил что учишься
+[Tue Aug 30 16:10:16 2016]  say: kosher: в техникуме
+[Tue Aug 30 16:10:18 2016]  say: ^1K^7isame: ну вот
+[Tue Aug 30 16:10:21 2016]  say: ^1K^7isame: там же говоришь
+[Tue Aug 30 16:10:26 2016]  say: kosher: нет
+[Tue Aug 30 16:10:32 2016]  say: ^1K^7isame: что нет?
+[Tue Aug 30 16:10:35 2016]  say: ^1K^7isame: ты там не говоришь?
+[Tue Aug 30 16:10:36 2016]  say: kosher: не говорю
+[Tue Aug 30 16:10:45 2016]  say: ^1K^7isame: а с учителями
+[Tue Aug 30 16:10:47 2016]  say: kosher: ух ты не говорю
+[Tue Aug 30 16:10:54 2016]  say: kosher: если спрашиваюьт
+[Tue Aug 30 16:11:01 2016]  say: ^1K^7isame: как ты учишься
+[Tue Aug 30 16:11:11 2016]  say: kosher: неочень
+[Tue Aug 30 16:11:16 2016]  say: ^1K^7isame: ты в своем мире?
+[Tue Aug 30 16:11:27 2016]  say: kosher: возможнл
+[Tue Aug 30 16:11:34 2016]  say: ^1K^7isame: о чем ты мечтаешь?
+[Tue Aug 30 16:11:41 2016]  say: kosher: найти друга
+[Tue Aug 30 16:11:48 2016]  say: ^1K^7isame: зачем?
+[Tue Aug 30 16:11:58 2016]  say: kosher: чтоьы отомстить
+[Tue Aug 30 16:12:04 2016]  say: ^1K^7isame: кому?
+[Tue Aug 30 16:12:07 2016]  say: kosher: другу
+[Tue Aug 30 16:12:12 2016]  say: ^1K^7isame: какому
+[Tue Aug 30 16:12:18 2016]  say: kosher: который пропал
+[Tue Aug 30 16:12:22 2016]  say: kosher: я же говорил
+[Tue Aug 30 16:12:24 2016]  say: kosher: в игре нашел
+[Tue Aug 30 16:12:25 2016]  say: ^1K^7isame: и как ты отомстишь?
+[Tue Aug 30 16:12:38 2016]  say: kosher: главно найти а там уже видно будет
+[Tue Aug 30 16:12:45 2016]  say: ^1K^7isame: ничего не видно
+[Tue Aug 30 16:12:47 2016]  say: ^1K^7isame: ты сам не знаешь
+[Tue Aug 30 16:13:09 2016]  say: kosher: хм
+[Tue Aug 30 16:13:29 2016]  say: kosher: ну спросил бы че он убежал
+[Tue Aug 30 16:13:35 2016]  say: ^1K^7isame: но он же игровой
+[Tue Aug 30 16:13:42 2016]  say: kosher: нет
+[Tue Aug 30 16:13:45 2016]  say: kosher: он норм был
+[Tue Aug 30 16:13:48 2016]  Kill: 1022 1 38: <world> killed kosher by MOD_FALLING
+[Tue Aug 30 16:13:49 2016]  say: ^1K^7isame: так он был настоящий ?
+[Tue Aug 30 16:13:51 2016]  say: ^1K^7isame: не из игры
+[Tue Aug 30 16:14:06 2016]  say: kosher: я с ним познакомился в игре
+[Tue Aug 30 16:14:15 2016]  say: ^1K^7isame: встретился в жизни?
+[Tue Aug 30 16:14:19 2016]  say: kosher: нет
+[Tue Aug 30 16:14:26 2016]  say: kosher: он через месяц пропал
+[Tue Aug 30 16:14:36 2016]  say: kosher: как я мог познакомиться
+[Tue Aug 30 16:14:52 2016]  say: kosher: пропал через месяц потом через год вернулся но опять пропал
+[Tue Aug 30 16:15:15 2016]  Kill: 1 1 39: kosher killed kosher by MOD_SUICIDE
+[Tue Aug 30 16:15:15 2016]  setteam:  1 FREE SPECTATOR
+[Tue Aug 30 16:15:15 2016]  ClientBegin: 1
+[Tue Aug 30 16:15:19 2016]  say: ^1K^7isame: ну и нафиг он тебе
+[Tue Aug 30 16:15:22 2016]  setteam:  1 SPECTATOR FREE
+[Tue Aug 30 16:15:22 2016]  ClientBegin: 1
+[Tue Aug 30 16:15:25 2016]  say: ^1K^7isame: если он к тебе не идет
+[Tue Aug 30 16:15:36 2016]  say: kosher: хочу узнать че пропал
+[Tue Aug 30 16:15:48 2016]  say: ^1K^7isame: я уверен он не хочет узнать где и что с тобой
+[Tue Aug 30 16:15:57 2016]  say: kosher: хм
+[Tue Aug 30 16:16:03 2016]  say: ^1K^7isame: а может он умер
+[Tue Aug 30 16:16:09 2016]  say: kosher: может не может
+[Tue Aug 30 16:16:16 2016]  say: ^1K^7isame: а ты мстить хочешь
+[Tue Aug 30 16:16:23 2016]  say: kosher: нет он не цумер
+[Tue Aug 30 16:16:26 2016]  say: kosher: умер
+[Tue Aug 30 16:16:38 2016]  say: kosher: так как он пропадал уже я говорил
+[Tue Aug 30 16:16:50 2016]  say: kosher: но щас пропал и не вернулся
+[Tue Aug 30 16:17:25 2016]  say: ^1K^7isame: а что ты от меня хочешь когда рассказываешь это?
+[Tue Aug 30 16:17:36 2016]  say: kosher: хз 
+[Tue Aug 30 16:17:47 2016]  say: kosher: щас я уже понемногу сдаюсь
+[Tue Aug 30 16:17:48 2016]  say: ^1K^7isame: ясно
+[Tue Aug 30 16:17:57 2016]  say: ^1K^7isame: всмысле сдаешься
+[Tue Aug 30 16:18:06 2016]  say: kosher: раньше искал а теперь уже хз
+[Tue Aug 30 16:18:17 2016]  say: ^1K^7isame: я уже завтра уеду
+[Tue Aug 30 16:18:21 2016]  say: kosher: куда
+[Tue Aug 30 16:18:25 2016]  say: ^1K^7isame: не важно
+[Tue Aug 30 16:18:34 2016]  say: kosher: в самару?
+[Tue Aug 30 16:18:38 2016]  say: ^1K^7isame: да
+[Tue Aug 30 16:18:52 2016]  say: kosher: город большой но он там один
+[Tue Aug 30 16:18:58 2016]  say: kosher: с такой фамилией
+[Tue Aug 30 16:19:08 2016]  say: ^1K^7isame: какой
+[Tue Aug 30 16:19:13 2016]  say: kosher: я его в телефонном справочнике нашел
+[Tue Aug 30 16:19:18 2016]  say: kosher: илья ваганов
+[Tue Aug 30 16:19:24 2016]  say: ^1K^7isame: это твой друг?
+[Tue Aug 30 16:19:31 2016]  say: kosher: тот который пропадал
+[Tue Aug 30 16:19:38 2016]  say: kosher: из игры
+[Tue Aug 30 16:19:52 2016]  say: ^1K^7isame: у тебя же явно была любовь как ты себя вел при этом?
+[Tue Aug 30 16:20:02 2016]  say: kosher: какая любовь епт
+[Tue Aug 30 16:20:07 2016]  say: ^1K^7isame: гармоны
+[Tue Aug 30 16:20:15 2016]  say: kosher: я не голубой
+[Tue Aug 30 16:20:24 2016]  say: kosher: тюк
+[Tue Aug 30 16:20:25 2016]  say: ^1K^7isame: я про другое
+[Tue Aug 30 16:20:25 2016]  say: kosher: т.к
+[Tue Aug 30 16:20:27 2016]  say: kosher: а
+[Tue Aug 30 16:20:31 2016]  say: kosher: была
+[Tue Aug 30 16:20:38 2016]  say: kosher: но ушла к цыгану
+[Tue Aug 30 16:20:43 2016]  say: kosher: ))))))))))))))0
+[Tue Aug 30 16:20:46 2016]  say: kosher: )))))))))*
+[Tue Aug 30 16:20:49 2016]  say: ^1K^7isame: и больше не было?
+[Tue Aug 30 16:20:52 2016]  say: kosher: нет
+[Tue Aug 30 16:20:58 2016]  say: ^1K^7isame: а когда это было
+[Tue Aug 30 16:21:08 2016]  say: kosher: 2 года назад
+[Tue Aug 30 16:21:18 2016]  say: ^1K^7isame: ты в школе не влюблялся?
+[Tue Aug 30 16:21:25 2016]  say: kosher: там как раз
+[Tue Aug 30 16:21:34 2016]  say: ^1K^7isame: только 1 раз?
+[Tue Aug 30 16:21:41 2016]  say: kosher: еще раньше было
+[Tue Aug 30 16:22:00 2016]  say: ^1K^7isame: и как
+[Tue Aug 30 16:22:05 2016]  say: kosher: неудачно
+[Tue Aug 30 16:22:12 2016]  say: ^1K^7isame: тоже к цыгану ушла?
+[Tue Aug 30 16:22:15 2016]  say: kosher: нет
+[Tue Aug 30 16:22:24 2016]  say: ^1K^7isame: ты ушел?
+[Tue Aug 30 16:22:31 2016]  say: ^1K^7isame: от нее
+[Tue Aug 30 16:22:33 2016]  say: kosher: я полюбил ту которая к цыгану ушла а ту разлюбил
+[Tue Aug 30 16:22:51 2016]  say: ^1K^7isame: а кто тебя любит?
+[Tue Aug 30 16:22:55 2016]  Kill: 1022 1 38: <world> killed kosher by MOD_FALLING
+[Tue Aug 30 16:23:03 2016]  say: kosher: хз
+[Tue Aug 30 16:23:18 2016]  say: ^1K^7isame: явно есть такая
+[Tue Aug 30 16:23:26 2016]  say: kosher: страшные любят
+[Tue Aug 30 16:23:46 2016]  say: ^1K^7isame: ясно все
+[Tue Aug 30 16:23:51 2016]  say: kosher: что
+[Tue Aug 30 16:24:02 2016]  say: ^1K^7isame: ты придурок
+[Tue Aug 30 16:24:10 2016]  say: ^1K^7isame: или меня таким делаешь
+[Tue Aug 30 16:24:10 2016]  say: kosher: почему
+[Tue Aug 30 16:24:24 2016]  say: kosher: ну ты спросил кто меня любит
+[Tue Aug 30 16:24:30 2016]  say: ^1K^7isame: я про все
+[Tue Aug 30 16:24:36 2016]  say: kosher: а
+[Tue Aug 30 16:24:41 2016]  say: kosher: ну кто
+[Tue Aug 30 16:24:44 2016]  say: kosher: родственники
+[Tue Aug 30 16:25:07 2016]  say: kosher: а так никто больше
+[Tue Aug 30 16:25:21 2016]  say: ^1K^7isame: или ты не принимаешь?
+[Tue Aug 30 16:25:35 2016]  say: kosher: что 
+[Tue Aug 30 16:25:39 2016]  say: ^1K^7isame: кого
+[Tue Aug 30 16:25:47 2016]  say: kosher: я принимаю
+[Tue Aug 30 16:25:52 2016]  say: ^1K^7isame: кого
+[Tue Aug 30 16:26:09 2016]  say: kosher: странный вопрос
+[Tue Aug 30 16:26:13 2016]  say: ^1K^7isame: да
+[Tue Aug 30 16:26:24 2016]  say: ^1K^7isame: а никто не говорил что будут шаблоны
+[Tue Aug 30 16:26:34 2016]  say: kosher: если у меня был друг значит принимаю
+[Tue Aug 30 16:26:40 2016]  say: ^1K^7isame:  (c) медведева
+[Tue Aug 30 16:26:49 2016]  say: kosher: вы держитесь там?
+[Tue Aug 30 16:26:56 2016]  say: ^1K^7isame: ult
+[Tue Aug 30 16:26:57 2016]  say: ^1K^7isame: где
+[Tue Aug 30 16:27:04 2016]  say: kosher: медведев говрил
+[Tue Aug 30 16:27:07 2016]  say: kosher: говорил
+[Tue Aug 30 16:27:09 2016]  say: ^1K^7isame: я про медведеву
+[Tue Aug 30 16:27:13 2016]  say: ^1K^7isame: наталью
+[Tue Aug 30 16:27:19 2016]  say: kosher: а
+[Tue Aug 30 16:27:22 2016]  say: kosher: я такую не знаю
+[Tue Aug 30 16:27:46 2016]  say: ^1K^7isame: ее уже нет
+[Tue Aug 30 16:28:00 2016]  say: kosher: ну я ее не знал
+[Tue Aug 30 16:28:10 2016]  say: kosher: я думаю у нее были друзья
+[Tue Aug 30 16:28:11 2016]  say: ^1K^7isame: это не имеет значения
+[Tue Aug 30 16:28:14 2016]  say: ^1K^7isame: да
+[Tue Aug 30 16:28:25 2016]  say: ^1K^7isame: сходи в церковь
+[Tue Aug 30 16:28:34 2016]  say: kosher: я атеист
+[Tue Aug 30 16:28:42 2016]  say: ^1K^7isame: и что
+[Tue Aug 30 16:28:51 2016]  Kill: 1022 1 38: <world> killed kosher by MOD_FALLING
+[Tue Aug 30 16:28:53 2016]  say: kosher: это странный вопрос
+[Tue Aug 30 16:28:59 2016]  say: kosher: ответ?
+[Tue Aug 30 16:29:01 2016]  say: kosher: *
+[Tue Aug 30 16:29:02 2016]  say: kosher: ****
+[Tue Aug 30 16:29:09 2016]  say: kosher: я уже путаюсь
+[Tue Aug 30 16:29:19 2016]  say: ^1K^7isame: меня никто не понимает
+[Tue Aug 30 16:29:26 2016]  say: kosher: понимают
+[Tue Aug 30 16:29:35 2016]  Kill: 1022 1 38: <world> killed kosher by MOD_FALLING
+[Tue Aug 30 16:29:44 2016]  say: kosher: если ты смотришь аниме то тебя не поймут
+[Tue Aug 30 16:30:05 2016]  say: ^1K^7isame: кто
+[Tue Aug 30 16:30:09 2016]  say: kosher: ты
+[Tue Aug 30 16:30:14 2016]  say: ^1K^7isame: кто не поймет
+[Tue Aug 30 16:30:25 2016]  say: kosher: те кто не смотрят аниме
+[Tue Aug 30 16:30:34 2016]  say: ^1K^7isame: но ведь поймут те кто смотрят
+[Tue Aug 30 16:30:40 2016]  say: kosher: да
+[Tue Aug 30 16:30:43 2016]  say: ^1K^7isame: тобишь друзей найти проще...
+[Tue Aug 30 16:30:53 2016]  say: kosher: тока по аниме
+[Tue Aug 30 16:31:02 2016]  say: kosher: а настоящих не найдшь
+[Tue Aug 30 16:31:07 2016]  say: ^1K^7isame: любых друзей связывают общие интересы
+[Tue Aug 30 16:31:18 2016]  say: kosher: да
+[Tue Aug 30 16:31:41 2016]  say: kosher: у тебя есть все шансы найти друга
+[Tue Aug 30 16:31:46 2016]  say: kosher: если нет друзей
+[Tue Aug 30 16:31:49 2016]  say: ^1K^7isame: можешь повесить табличку на себя ''я не смотрю аниме''и тебе тоже будут друзья
+[Tue Aug 30 16:32:02 2016]  say: kosher: да
+[Tue Aug 30 16:32:03 2016]  Kill: 1022 1 38: <world> killed kosher by MOD_FALLING
+[Tue Aug 30 16:32:35 2016]  say: ^1K^7isame: значит ищи друзей и все
+[Tue Aug 30 16:32:45 2016]  say: kosher: не получается
+[Tue Aug 30 16:32:52 2016]  say: ^1K^7isame: значит в твоей системе сбой
+[Tue Aug 30 16:33:06 2016]  say: kosher: есть друзья но не очень
+[Tue Aug 30 16:33:10 2016]  say: kosher: из игры
+[Tue Aug 30 16:33:30 2016]  say: ^1K^7isame: что ты хочешь от меня
+[Tue Aug 30 16:33:37 2016]  say: kosher: хз
+[Tue Aug 30 16:33:47 2016]  say: kosher: я ни от кого ниче не хочу
+[Tue Aug 30 16:34:00 2016]  say: ^1K^7isame: тогда бы ты никому ничего не делал и не говорил
+[Tue Aug 30 16:34:08 2016]  say: kosher: так жить скучно
+[Tue Aug 30 16:34:15 2016]  Kill: 1022 1 38: <world> killed kosher by MOD_FALLING
+[Tue Aug 30 16:34:21 2016]  say: ^1K^7isame: тогда иди в монахи
+[Tue Aug 30 16:34:35 2016]  say: kosher: не
+[Tue Aug 30 16:34:43 2016]  say: ^1K^7isame: ты не сможешь отречься от благ жизни
+[Tue Aug 30 16:34:47 2016]  say: kosher: я не верю в бога
+[Tue Aug 30 16:34:55 2016]  say: ^1K^7isame: скорее всего первое
+[Tue Aug 30 16:35:12 2016]  say: kosher: так что я грешник
+[Tue Aug 30 16:35:20 2016]  say: ^1K^7isame: ты сам оцениваешь себя
+[Tue Aug 30 16:35:32 2016]  say: kosher: я грешу
+[Tue Aug 30 16:35:35 2016]  say: ^1K^7isame: рай и ад находится у тебя в душе
+[Tue Aug 30 16:36:03 2016]  say: kosher: афк 5мин
+[Tue Aug 30 16:37:01 2016]  say: ^1K^7isame: удачи
+[Tue Aug 30 16:37:03 2016]  ClientDisconnect: 0
+[Tue Aug 30 16:37:18 2016]  ClientDisconnect: 1
+[Wed Aug 31 08:27:37 2016]  ClientConnect: 0
+[Wed Aug 31 08:27:37 2016]  mlog:Player ^0n!k^4!ta^7, connected. With IP - 37.147.46.72:29070 
+[Wed Aug 31 08:28:03 2016]  ClientBegin: 0
+[Wed Aug 31 08:28:11 2016]  ClientDisconnect: 0
+[Wed Aug 31 08:31:04 2016]  ClientConnect: 0
+[Wed Aug 31 08:31:04 2016]  mlog:Player ^0n!k^4!ta^7, connected. With IP - 37.147.46.72:29070 
+[Wed Aug 31 08:31:28 2016]  ClientBegin: 0
+[Wed Aug 31 08:31:50 2016]  ClientConnect: 1
+[Wed Aug 31 08:31:50 2016]  mlog:Player ^1-^0INV^1-^0 Raven^1[War], connected. With IP - 37.45.212.15:18169 
+[Wed Aug 31 08:32:12 2016]  ClientBegin: 1
+[Wed Aug 31 08:32:16 2016]  say: ^0n!k^3^4!ta: ку
+[Wed Aug 31 08:32:21 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: короче он не пойдет
+[Wed Aug 31 08:32:34 2016]  say: ^0n!k^3^4!ta: выташи мец
+[Wed Aug 31 08:32:44 2016]  say: ^0n!k^3^4!ta: стой ша
+[Wed Aug 31 08:32:55 2016]  say: ^0n!k^3^4!ta: бей
+[Wed Aug 31 08:33:13 2016]  say: ^0n!k^3^4!ta: стой го держать
+[Wed Aug 31 08:33:17 2016]  say: ^0n!k^3^4!ta: проста 1 раз
+[Wed Aug 31 08:33:22 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: я тебя не вижу
+[Wed Aug 31 08:33:24 2016]  say: ^0n!k^3^4!ta: 1 раз нажми
+[Wed Aug 31 08:33:29 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: как ядолжен держать?
+[Wed Aug 31 08:33:38 2016]  say: ^0n!k^3^4!ta: не нажымай бить
+[Wed Aug 31 08:33:48 2016]  say: ^0n!k^3^4!ta: стой
+[Wed Aug 31 08:33:52 2016]  say: ^0n!k^3^4!ta: 1 раз удар
+[Wed Aug 31 08:34:06 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: я тебя не вижу
+[Wed Aug 31 08:34:06 2016]  say: ^0n!k^3^4!ta: ок пашли делать домик
+[Wed Aug 31 08:34:12 2016]  Kill: 0 0 39: ^0n!k^3^4!ta killed ^0n!k^3^4!ta by MOD_SUICIDE
+[Wed Aug 31 08:34:20 2016]  say: ^0n!k^3^4!ta: кил сервер?
+[Wed Aug 31 08:34:30 2016]  say: ^0n!k^3^4!ta: там написана мод такой
+[Wed Aug 31 08:34:39 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: ты где?
+[Wed Aug 31 08:35:00 2016]  say: ^0n!k^3^4!ta: я у тебя перед глазами
+[Wed Aug 31 08:35:06 2016]  say: ^0n!k^3^4!ta: ку ку
+[Wed Aug 31 08:35:29 2016]  say: ^0n!k^3^4!ta: я ттут стаю
+[Wed Aug 31 08:35:30 2016]  say: ^0n!k^3^4!ta: кароч
+[Wed Aug 31 08:35:33 2016]  Kill: 0 0 39: ^0n!k^3^4!ta killed ^0n!k^3^4!ta by MOD_SUICIDE
+[Wed Aug 31 08:35:33 2016]  setteam:  0 FREE SPECTATOR
+[Wed Aug 31 08:35:33 2016]  ClientBegin: 0
+[Wed Aug 31 08:37:05 2016]  tell: ^0n!k^3^4!ta to ^1-^0INV^1- ^0Raven^1[War]: равен
+[Wed Aug 31 08:37:10 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: ?
+[Wed Aug 31 08:37:13 2016]  tell: ^0n!k^3^4!ta to ^1-^0INV^1- ^0Raven^1[War]: я в наблюдателях
+[Wed Aug 31 08:37:15 2016]  setteam:  0 SPECTATOR FREE
+[Wed Aug 31 08:37:15 2016]  ClientBegin: 0
+[Wed Aug 31 08:37:18 2016]  say: ^0n!k^3^4!ta: а шас вдиш?
+[Wed Aug 31 08:37:23 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: нет
+[Wed Aug 31 08:37:28 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: может ты уменьшился?
+[Wed Aug 31 08:37:32 2016]  say: ^0n!k^3^4!ta: нет
+[Wed Aug 31 08:37:36 2016]  say: ^0n!k^3^4!ta: ята тебя вижу
+[Wed Aug 31 08:37:38 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: ну хз
+[Wed Aug 31 08:37:45 2016]  say: ^0n!k^3^4!ta: го я перезайду
+[Wed Aug 31 08:37:47 2016]  say: ^0n!k^3^4!ta: зделай мец
+[Wed Aug 31 08:37:54 2016]  say: ^0n!k^3^4!ta: высун
+[Wed Aug 31 08:37:56 2016]  say: ^0n!k^3^4!ta: стой
+[Wed Aug 31 08:38:21 2016]  say: ^0n!k^3^4!ta: ай
+[Wed Aug 31 08:38:22 2016]  say: ^0n!k^3^4!ta: стой
+[Wed Aug 31 08:38:24 2016]  Kill: 1 0 3: ^1-^0INV^1- ^0Raven^1[War] killed ^0n!k^3^4!ta by MOD_SABER
+[Wed Aug 31 08:38:34 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: может у тебя скин такой
+[Wed Aug 31 08:38:38 2016]  say: ^0n!k^3^4!ta: нет
+[Wed Aug 31 08:38:44 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: возми другой скин
+[Wed Aug 31 08:38:46 2016]  say: ^0n!k^3^4!ta: а шас видиш? 
+[Wed Aug 31 08:38:55 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: нет не вижу
+[Wed Aug 31 08:39:05 2016]  say: ^0n!k^3^4!ta: го я перезайду?
+[Wed Aug 31 08:39:07 2016]  Kill: 1 1 39: ^1-^0INV^1- ^0Raven^1[War] killed ^1-^0INV^1- ^0Raven^1[War] by MOD_SUICIDE
+[Wed Aug 31 08:39:07 2016]  setteam:  1 FREE SPECTATOR
+[Wed Aug 31 08:39:07 2016]  ClientBegin: 1
+[Wed Aug 31 08:39:15 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: так
+[Wed Aug 31 08:39:18 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: ща я тебя вижу
+[Wed Aug 31 08:39:21 2016]  setteam:  1 SPECTATOR FREE
+[Wed Aug 31 08:39:21 2016]  ClientBegin: 1
+[Wed Aug 31 08:39:27 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: так не вижу
+[Wed Aug 31 08:39:28 2016]  say: ^0n!k^3^4!ta: вдиш
+[Wed Aug 31 08:39:34 2016]  ClientDisconnect: 1
+[Wed Aug 31 08:39:44 2016]  ClientConnect: 1
+[Wed Aug 31 08:39:45 2016]  mlog:Player ^1-^0INV^1- ^0Raven^1[War], connected. With IP - 37.45.212.15:18169 
+[Wed Aug 31 08:39:56 2016]  ClientBegin: 1
+[Wed Aug 31 08:40:04 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: не не вижу
+[Wed Aug 31 08:40:11 2016]  say: ^0n!k^3^4!ta: го я перезайду
+[Wed Aug 31 08:40:17 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: go
+[Wed Aug 31 08:40:21 2016]  say: ^0n!k^3^4!ta: эта я строю
+[Wed Aug 31 08:40:53 2016]  say: ^0n!k^3^4!ta: го пакажу карабл мой?
+[Wed Aug 31 08:40:59 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: го
+[Wed Aug 31 08:41:00 2016]  say: ^0n!k^3^4!ta: атвернис уйди
+[Wed Aug 31 08:41:40 2016]  say: ^0n!k^3^4!ta: не паварацивайся пака не скажу
+[Wed Aug 31 08:42:26 2016]  say: ^0n!k^3^4!ta: пацти
+[Wed Aug 31 08:44:15 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: ну
+[Wed Aug 31 08:44:31 2016]  say: ^0n!k^3^4!ta: жди
+[Wed Aug 31 08:44:35 2016]  say: ^0n!k^3^4!ta: пацти еше 1 детал
+[Wed Aug 31 08:44:57 2016]  say: ^0n!k^3^4!ta: паварацивайся
+[Wed Aug 31 08:45:24 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: норм
+[Wed Aug 31 08:45:30 2016]  say: ^0n!k^3^4!ta: лан шас перезайду
+[Wed Aug 31 08:45:39 2016]  ClientDisconnect: 0
+[Wed Aug 31 08:45:39 2016]  ClientDisconnect: 0
+[Wed Aug 31 08:45:39 2016]  ClientConnect: 0
+[Wed Aug 31 08:45:39 2016]  mlog:Player ^0n!k^3^4!ta, connected. With IP - 37.147.46.72:29070 
+[Wed Aug 31 08:46:37 2016]  ClientDisconnect: 0
+[Wed Aug 31 08:46:37 2016]  ClientConnect: 0
+[Wed Aug 31 08:46:37 2016]  mlog:Player ^0n!k^3^4!ta, connected. With IP - 37.147.46.72:29070 
+[Wed Aug 31 08:47:19 2016]  ClientBegin: 0
+[Wed Aug 31 08:47:34 2016]  say: ^0n!k^3^4!ta: а шас видиш?
+[Wed Aug 31 08:47:47 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: нет
+[Wed Aug 31 08:47:52 2016]  say: ^0n!k^3^4!ta: еда какова хера
+[Wed Aug 31 08:48:20 2016]  say: ^0n!k^3^4!ta: как малышом стать
+[Wed Aug 31 08:48:30 2016]  say: ^0n!k^3^4!ta: вот например сматри
+[Wed Aug 31 08:48:31 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: я не помню
+[Wed Aug 31 08:48:35 2016]  say: ^0n!k^3^4!ta: сматтри
+[Wed Aug 31 08:48:41 2016]  say: ^0n!k^3^4!ta: нет
+[Wed Aug 31 08:48:46 2016]  say: ^0n!k^3^4!ta: сматри сюда
+[Wed Aug 31 08:48:49 2016]  say: ^0n!k^3^4!ta: стой
+[Wed Aug 31 08:48:55 2016]  say: ^0n!k^3^4!ta: не паварацивай икран
+[Wed Aug 31 08:49:23 2016]  say: ^0n!k^3^4!ta: вот
+[Wed Aug 31 08:49:25 2016]  say: ^0n!k^3^4!ta: видиш
+[Wed Aug 31 08:49:30 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: да
+[Wed Aug 31 08:49:36 2016]  say: ^0n!k^3^4!ta: эта я его заспавнил
+[Wed Aug 31 08:49:41 2016]  say: ^0n!k^3^4!ta: напиши нот
+[Wed Aug 31 08:50:57 2016]  say: ^0n!k^3^4!ta: а шас видищ меня?
+[Wed Aug 31 08:51:09 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: нет
+[Wed Aug 31 08:51:12 2016]  say: ^0n!k^3^4!ta: где ранкор
+[Wed Aug 31 08:51:20 2016]  say: ^0n!k^3^4!ta: а я тебя вижу
+[Wed Aug 31 08:51:29 2016]  say: ^0n!k^3^4!ta: убери бесмертие
+[Wed Aug 31 08:51:55 2016]  say: ^0n!k^3^4!ta: ты меня видиш
+[Wed Aug 31 08:52:02 2016]  say: ^0n!k^3^4!ta: убери бесмертие
+[Wed Aug 31 08:52:10 2016]  Kill: 0 1 3: ^0n!k^3^4!ta killed ^1-^0INV^1- ^0Raven^1[War] by MOD_SABER
+[Wed Aug 31 08:52:16 2016]  say: ^0n!k^3^4!ta: а шас видиш
+[Wed Aug 31 08:52:19 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: нет
+[Wed Aug 31 08:52:27 2016]  say: ^0n!k^3^4!ta: а я тебя вижу
+[Wed Aug 31 08:52:36 2016]  say: ^0n!k^3^4!ta: ты лагаеш
+[Wed Aug 31 08:54:03 2016]  say: ^0n!k^3^4!ta: зделай набюдателя
+[Wed Aug 31 08:54:09 2016]  Kill: 1 1 39: ^1-^0INV^1- ^0Raven^1[War] killed ^1-^0INV^1- ^0Raven^1[War] by MOD_SUICIDE
+[Wed Aug 31 08:54:09 2016]  setteam:  1 FREE SPECTATOR
+[Wed Aug 31 08:54:09 2016]  ClientBegin: 1
+[Wed Aug 31 08:54:14 2016]  say: ^0n!k^3^4!ta: а шас видиш?
+[Wed Aug 31 08:54:18 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: так да
+[Wed Aug 31 08:54:28 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: но когда уберу с тебя наблюдение то нет
+[Wed Aug 31 08:54:29 2016]  say: ^0n!k^3^4!ta: захади
+[Wed Aug 31 08:54:36 2016]  say: ^0n!k^3^4!ta: а
+[Wed Aug 31 08:55:04 2016]  say: ^0n!k^3^4!ta: ты видиш в наблюдение персанажа меево?
+[Wed Aug 31 08:55:13 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: да
+[Wed Aug 31 08:55:19 2016]  say: ^0n!k^3^4!ta: кто я
+[Wed Aug 31 08:55:20 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: короче я афк мин 10
+[Wed Aug 31 08:55:23 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: штурм
+[Wed Aug 31 08:55:26 2016]  say: ^0n!k^3^4!ta: ок
+[Wed Aug 31 08:55:31 2016]  say: ^0n!k^3^4!ta: я трупер
+[Wed Aug 31 09:02:26 2016]  setteam:  1 SPECTATOR FREE
+[Wed Aug 31 09:02:26 2016]  ClientBegin: 1
+[Wed Aug 31 09:03:33 2016]  say: ^0n!k^3^4!ta: йомайо
+[Wed Aug 31 09:03:41 2016]  say: ^0n!k^3^4!ta: че я строю
+[Wed Aug 31 09:03:47 2016]  say: ^0n!k^3^4!ta: в бар иди
+[Wed Aug 31 09:03:59 2016]  say: ^0n!k^3^4!ta: че я строю да хер его знает
+[Wed Aug 31 09:04:25 2016]  say: ^0n!k^3^4!ta: вот че ета?
+[Wed Aug 31 09:04:38 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: опача
+[Wed Aug 31 09:04:42 2016]  say: ^0n!k^3^4!ta: че
+[Wed Aug 31 09:05:21 2016]  say: ^0n!k^3^4!ta: вот че ета скажи мен
+[Wed Aug 31 09:05:26 2016]  say: ^0n!k^3^4!ta: мне*
+[Wed Aug 31 09:05:26 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: хз
+[Wed Aug 31 09:06:23 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: ладно я пошел
+[Wed Aug 31 09:06:27 2016]  say: ^0n!k^3^4!ta: ок пока
+[Wed Aug 31 09:06:29 2016]  say: ^1-^0INV^1- ^0Raven^1[War]: пока
+[Wed Aug 31 09:06:32 2016]  ClientDisconnect: 1
+[Wed Aug 31 09:06:58 2016]  ClientDisconnect: 0
+[Wed Aug 31 09:35:38 2016]  ClientConnect: 0
+[Wed Aug 31 09:35:38 2016]  mlog:Player PACKAC, connected. With IP - 85.26.232.9:26584 
+[Wed Aug 31 09:35:53 2016]  ClientBegin: 0
+[Wed Aug 31 09:36:41 2016]  ClientConnect: 1
+[Wed Aug 31 09:36:41 2016]  mlog:Player ^0n!k^3^4!ta, connected. With IP - 128.74.173.114:29070 
+[Wed Aug 31 09:36:57 2016]  ClientBegin: 1
+[Wed Aug 31 09:37:05 2016]  say: ^0n!k^3^4!ta: видал
+[Wed Aug 31 09:37:06 2016]  say: PACKAC: Смотри
+[Wed Aug 31 09:37:08 2016]  say: PACKAC: Никита
+[Wed Aug 31 09:37:11 2016]  say: ^0n!k^3^4!ta: а ты где
+[Wed Aug 31 09:37:22 2016]  say: ^0n!k^3^4!ta: ай
+[Wed Aug 31 09:37:25 2016]  say: PACKAC: Смотри
+[Wed Aug 31 09:37:30 2016]  say: ^0n!k^3^4!ta: чет тея нет
+[Wed Aug 31 09:37:32 2016]  Kill: 1 1 39: ^0n!k^3^4!ta killed ^0n!k^3^4!ta by MOD_SUICIDE
+[Wed Aug 31 09:37:32 2016]  setteam:  1 FREE SPECTATOR
+[Wed Aug 31 09:37:32 2016]  ClientBegin: 1
+[Wed Aug 31 09:37:33 2016]  say: ^0n!k^3^4!ta: л
+[Wed Aug 31 09:37:36 2016]  say: ^0n!k^3^4!ta: о вот ты
+[Wed Aug 31 09:37:37 2016]  say: PACKAC: Смотри
+[Wed Aug 31 09:37:39 2016]  say: ^0n!k^3^4!ta: эм
+[Wed Aug 31 09:37:41 2016]  say: PACKAC: Иди на спавн
+[Wed Aug 31 09:37:45 2016]  say: ^0n!k^3^4!ta: че я тея не вижу
+[Wed Aug 31 09:37:49 2016]  setteam:  1 SPECTATOR FREE
+[Wed Aug 31 09:37:49 2016]  ClientBegin: 1
+[Wed Aug 31 09:37:52 2016]  say: ^0n!k^3^4!ta: я знаю
+[Wed Aug 31 09:37:56 2016]  say: PACKAC: Смотри
+[Wed Aug 31 09:38:03 2016]  say: PACKAC: Видешь
+[Wed Aug 31 09:38:03 2016]  say: ^0n!k^3^4!ta: в этам и прикол этава серва
+[Wed Aug 31 09:38:06 2016]  say: PACKAC: Смотри
+[Wed Aug 31 09:38:11 2016]  say: ^0n!k^3^4!ta: я знаю 
+[Wed Aug 31 09:38:12 2016]  say: PACKAC: ^1HOUSE SCRIPT ^4By ^1µ^2/Раrk^1Qµаkи^2/^1S - ^5PART 1
+[Wed Aug 31 09:38:15 2016]  say: ^0n!k^3^4!ta: ЭМ
+[Wed Aug 31 09:38:17 2016]  say: ^0n!k^3^4!ta: КАК
+[Wed Aug 31 09:38:22 2016]  say: PACKAC: Скрипт
+[Wed Aug 31 09:38:24 2016]  say: ^0n!k^3^4!ta: КААААААААААААААААААК
+[Wed Aug 31 09:38:29 2016]  say: PACKAC: Скрипт
+[Wed Aug 31 09:38:35 2016]  say: PACKAC: А залесть не как)
+[Wed Aug 31 09:38:48 2016]  say: ^0n!k^3^4!ta: а где турел?
+[Wed Aug 31 09:38:55 2016]  say: PACKAC: Нет
+[Wed Aug 31 09:38:57 2016]  say: PACKAC: Нету
+[Wed Aug 31 09:39:03 2016]  say: ^0n!k^3^4!ta: тут и блоки другие
+[Wed Aug 31 09:39:16 2016]  say: PACKAC: Смотри
+[Wed Aug 31 09:39:20 2016]  say: PACKAC: Иди сюда
+[Wed Aug 31 09:39:21 2016]  say: ^0n!k^3^4!ta: и тут прекол в том что тут некаво небыло кроме сазддателя
+[Wed Aug 31 09:39:24 2016]  say: PACKAC: Сюда
+[Wed Aug 31 09:39:25 2016]  say: ^0n!k^3^4!ta: я тебя не вижу
+[Wed Aug 31 09:39:28 2016]  say: PACKAC: Смотри
+[Wed Aug 31 09:39:38 2016]  say: PACKAC: а та
+[Wed Aug 31 09:39:40 2016]  say: PACKAC: А так видешь?
+[Wed Aug 31 09:39:40 2016]  say: ^0n!k^3^4!ta: да я знаю про ьалоски
+[Wed Aug 31 09:39:46 2016]  say: ^0n!k^3^4!ta: нет
+[Wed Aug 31 09:39:52 2016]  say: PACKAC: Стой тут
+[Wed Aug 31 09:40:11 2016]  say: PACKAC: ^1FLOATING PLATFORM SCRIPT ^4By ^1µ^2/Раrk^1Qµаkи^2/^1S
+[Wed Aug 31 09:40:16 2016]  say: PACKAC: Смотри
+[Wed Aug 31 09:40:21 2016]  say: ^0n!k^3^4!ta: ЛОЛ
+[Wed Aug 31 09:40:26 2016]  say: ^0n!k^3^4!ta: как ты эта делаеш?
+[Wed Aug 31 09:40:32 2016]  say: PACKAC: Это скрипты
+[Wed Aug 31 09:40:36 2016]  say: ^0n!k^3^4!ta: ну как
+[Wed Aug 31 09:40:41 2016]  say: PACKAC: Скрипты
+[Wed Aug 31 09:40:44 2016]  say: ^0n!k^3^4!ta: да
+[Wed Aug 31 09:40:57 2016]  say: PACKAC: Прикольно?
+[Wed Aug 31 09:41:00 2016]  say: ^0n!k^3^4!ta: да
+[Wed Aug 31 09:41:02 2016]  say: PACKAC: А помнишь наш дом
+[Wed Aug 31 09:41:04 2016]  say: PACKAC: ????
+[Wed Aug 31 09:41:07 2016]  say: ^0n!k^3^4!ta: да
+[Wed Aug 31 09:41:11 2016]  say: PACKAC: Он на том сервере
+[Wed Aug 31 09:41:13 2016]  say: PACKAC: Стоит
+[Wed Aug 31 09:41:14 2016]  say: ^0n!k^3^4!ta: там был халадилник
+[Wed Aug 31 09:41:34 2016]  say: ^0n!k^3^4!ta: аказалас падаан 
+[Wed Aug 31 09:41:42 2016]  say: ^0n!k^3^4!ta: саздал тот майкер(
+[Wed Aug 31 09:41:50 2016]  say: ^0n!k^3^4!ta: да атайди
+[Wed Aug 31 09:41:53 2016]  say: PACKAC: Нет
+[Wed Aug 31 09:41:54 2016]  say: ^0n!k^3^4!ta: уйди
+[Wed Aug 31 09:41:55 2016]  say: PACKAC: Не падаван
+[Wed Aug 31 09:42:00 2016]  say: PACKAC: Создал тот майкер
+[Wed Aug 31 09:42:04 2016]  say: ^0n!k^3^4!ta: он мееня изгнал
+[Wed Aug 31 09:42:11 2016]  say: PACKAC: Да нет
+[Wed Aug 31 09:42:15 2016]  say: ^0n!k^3^4!ta: дада
+[Wed Aug 31 09:42:18 2016]  say: PACKAC: НЕТ
+[Wed Aug 31 09:42:20 2016]  say: PACKAC: НЕ СПОРЬ
+[Wed Aug 31 09:42:21 2016]  say: ^0n!k^3^4!ta: залас сюда
+[Wed Aug 31 09:42:22 2016]  say: PACKAC: Я ЗНАКОМ
+[Wed Aug 31 09:42:29 2016]  say: PACKAC: С СОЗДАТЕЛЕМ
+[Wed Aug 31 09:42:33 2016]  say: PACKAC: ТОГО СЕРВА
+[Wed Aug 31 09:42:51 2016]  say: ^0n!k^3^4!ta: дурак
+[Wed Aug 31 09:42:54 2016]  say: ^0n!k^3^4!ta: уди
+[Wed Aug 31 09:43:01 2016]  say: PACKAC: Сам дурак
+[Wed Aug 31 09:43:17 2016]  say: ^0n!k^3^4!ta: ДА СПРЫГНИ
+[Wed Aug 31 09:43:26 2016]  say: ^0n!k^3^4!ta: проста стой на месте
+[Wed Aug 31 09:44:02 2016]  say: ^0n!k^3^4!ta: хочеш на мой новый карабл пасматреть
+[Wed Aug 31 09:44:08 2016]  say: PACKAC: Не
+[Wed Aug 31 09:44:09 2016]  say: ^0n!k^3^4!ta: сам саздал
+[Wed Aug 31 09:44:34 2016]  say: ^0n!k^3^4!ta: проста атвернс и не сматри пока я его саздаю
+[Wed Aug 31 09:44:44 2016]  say: ^0n!k^3^4!ta: не сматри
+[Wed Aug 31 09:45:48 2016]  say: PACKAC: /minfo
+[Wed Aug 31 09:45:54 2016]  say: ^0n!k^3^4!ta: эта че
+[Wed Aug 31 09:46:09 2016]  say: ^0n!k^3^4!ta: минфо эта че
+[Wed Aug 31 09:46:21 2016]  say: PACKAC: Информация
+[Wed Aug 31 09:46:24 2016]  say: PACKAC: О командах
+[Wed Aug 31 09:46:31 2016]  say: ^0n!k^3^4!ta: спс
+[Wed Aug 31 09:46:45 2016]  say: PACKAC: Хочешь я телепорт покажу?
+[Wed Aug 31 09:46:55 2016]  say: PACKAC: Без эффекта
+[Wed Aug 31 09:46:58 2016]  say: ^0n!k^3^4!ta: лудше пакажи себя
+[Wed Aug 31 09:47:30 2016]  say: ^0n!k^3^4!ta: дибилная песня
+[Wed Aug 31 09:47:36 2016]  say: ^0n!k^3^4!ta: сума сводит
+[Wed Aug 31 09:48:01 2016]  say: ^0n!k^3^4!ta: не смотриш?
+[Wed Aug 31 09:48:07 2016]  say: PACKAC: нет
+[Wed Aug 31 09:48:46 2016]  say: PACKAC: Ну все нет?
+[Wed Aug 31 09:48:50 2016]  say: ^0n!k^3^4!ta: все
+[Wed Aug 31 09:49:01 2016]  say: PACKAC: Уго)
+[Wed Aug 31 09:49:04 2016]  say: ^0n!k^3^4!ta: )
+[Wed Aug 31 09:49:10 2016]  say: ^0n!k^3^4!ta: я рат что тебе нравица
+[Wed Aug 31 09:49:18 2016]  say: PACKAC: рад
+[Wed Aug 31 09:49:20 2016]  say: ^0n!k^3^4!ta: как птица)
+[Wed Aug 31 09:49:25 2016]  say: PACKAC: Ага
+[Wed Aug 31 09:49:28 2016]  say: ^0n!k^3^4!ta: и крыша
+[Wed Aug 31 09:49:37 2016]  say: PACKAC: хехе
+[Wed Aug 31 09:49:42 2016]  say: ^0n!k^3^4!ta: )
+[Wed Aug 31 09:49:50 2016]  say: ^0n!k^3^4!ta: некто не дадумался такой
+[Wed Aug 31 09:49:51 2016]  say: PACKAC: найди меня
+[Wed Aug 31 09:50:00 2016]  say: ^0n!k^3^4!ta: найду
+[Wed Aug 31 09:50:08 2016]  say: ^0n!k^3^4!ta: вот ты
+[Wed Aug 31 09:50:17 2016]  say: PACKAC: неа
+[Wed Aug 31 09:50:23 2016]  say: ^0n!k^3^4!ta: мая башка мой арентир
+[Wed Aug 31 09:50:43 2016]  say: ^0n!k^3^4!ta: о нашол
+[Wed Aug 31 09:50:59 2016]  say: PACKAC: ну и где я?
+[Wed Aug 31 09:51:21 2016]  say: ^0n!k^3^4!ta: ну бля харе убегать
+[Wed Aug 31 09:51:26 2016]  say: PACKAC: ????????
+[Wed Aug 31 09:51:32 2016]  say: PACKAC: Я не убегаю
+[Wed Aug 31 09:51:53 2016]  say: PACKAC: Я в твоем корабле (подсказка)
+[Wed Aug 31 09:52:26 2016]  say: PACKAC: ))))))))))))))))))))))))
+[Wed Aug 31 09:52:34 2016]  say: PACKAC: нет0
+[Wed Aug 31 09:52:35 2016]  say: PACKAC: )
+[Wed Aug 31 09:52:59 2016]  say: ^0n!k^3^4!ta: я здаюс
+[Wed Aug 31 09:53:09 2016]  say: PACKAC: Вот я
+[Wed Aug 31 09:53:21 2016]  say: ^0n!k^3^4!ta: го усаверешнствую свой карабл
+[Wed Aug 31 09:53:25 2016]  say: ^0n!k^3^4!ta: как 
+[Wed Aug 31 09:53:29 2016]  say: PACKAC: что
+[Wed Aug 31 09:53:36 2016]  say: ^0n!k^3^4!ta: куда еше детал паставить
+[Wed Aug 31 09:53:40 2016]  say: ^0n!k^3^4!ta: бляяяяяяяя
+[Wed Aug 31 09:53:44 2016]  say: ^0n!k^3^4!ta: я стены забыл
+[Wed Aug 31 09:53:49 2016]  say: PACKAC: Стой
+[Wed Aug 31 09:53:53 2016]  say: PACKAC: Пошли покажу телепорт
+[Wed Aug 31 09:54:01 2016]  say: ^0n!k^3^4!ta: харе
+[Wed Aug 31 09:54:02 2016]  say: ^0n!k^3^4!ta: стой 
+[Wed Aug 31 09:54:08 2016]  say: ^0n!k^3^4!ta: пагади
+[Wed Aug 31 09:54:13 2016]  say: ^0n!k^3^4!ta: ДА ПАДАЖДИ
+[Wed Aug 31 09:54:20 2016]  say: ^0n!k^3^4!ta: падаждать не можеш
+[Wed Aug 31 09:54:28 2016]  say: ^0n!k^3^4!ta: да блин хватит
+[Wed Aug 31 09:55:06 2016]  say: PACKAC: ПОШЛИ
+[Wed Aug 31 09:55:11 2016]  say: ^0n!k^3^4!ta: пашли
+[Wed Aug 31 09:55:17 2016]  say: PACKAC: Смотри
+[Wed Aug 31 09:55:19 2016]  say: ^0n!k^3^4!ta: толка я тебя не вижу харе меня талкать
+[Wed Aug 31 09:55:35 2016]  say: ^0n!k^3^4!ta: ну
+[Wed Aug 31 09:55:41 2016]  say: PACKAC: Ты видишь?
+[Wed Aug 31 09:55:44 2016]  say: ^0n!k^3^4!ta: да
+[Wed Aug 31 09:55:45 2016]  say: PACKAC: Меня
+[Wed Aug 31 09:55:48 2016]  say: ^0n!k^3^4!ta: нет
+[Wed Aug 31 09:55:57 2016]  say: PACKAC: Ладно тогда
+[Wed Aug 31 09:56:00 2016]  say: PACKAC: Слушай
+[Wed Aug 31 09:56:07 2016]  say: PACKAC: Я пойду на LugorMod
+[Wed Aug 31 09:56:13 2016]  say: ^0n!k^3^4!ta: не
+[Wed Aug 31 09:56:19 2016]  say: PACKAC: Ты хочешь?
+[Wed Aug 31 09:56:24 2016]  say: ^0n!k^3^4!ta: че хачу?
+[Wed Aug 31 09:56:31 2016]  say: PACKAC: На другой сервер
+[Wed Aug 31 09:56:38 2016]  say: ^0n!k^3^4!ta: карабл не тот
+[Wed Aug 31 09:56:42 2016]  say: ^0n!k^3^4!ta: нет
+[Wed Aug 31 09:56:46 2016]  say: ^0n!k^3^4!ta: я здес хачу
+[Wed Aug 31 09:56:56 2016]  say: ^0n!k^3^4!ta: здела й свой карабл
+[Wed Aug 31 09:57:02 2016]  say: ^0n!k^3^4!ta: го будет выставка караблей
+[Wed Aug 31 09:57:07 2016]  say: PACKAC: не
+[Wed Aug 31 09:57:09 2016]  say: ^0n!k^3^4!ta: на той старане
+[Wed Aug 31 09:57:21 2016]  say: ^0n!k^3^4!ta: а я на этай чтоп мы не сматрели
+[Wed Aug 31 09:57:30 2016]  say: ^0n!k^3^4!ta: да блин ЗАРЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕ!!!!!!!!!!!!!!!!!!!!
+[Wed Aug 31 09:57:48 2016]  say: ^0n!k^3^4!ta: не буду с табой болше тут играть
+[Wed Aug 31 09:57:49 2016]  say: PACKAC: Это мой корабль
+[Wed Aug 31 09:57:58 2016]  Kill: 1 1 39: ^0n!k^3^4!ta killed ^0n!k^3^4!ta by MOD_SUICIDE
+[Wed Aug 31 09:57:58 2016]  setteam:  1 FREE SPECTATOR
+[Wed Aug 31 09:57:58 2016]  ClientBegin: 1
+[Wed Aug 31 09:58:12 2016]  say: PACKAC: И что ты за мной наблюдаешь?
+[Wed Aug 31 09:58:32 2016]  say: ^0n!k^3^4!ta: играй нармална
+[Wed Aug 31 09:58:35 2016]  setteam:  1 SPECTATOR FREE
+[Wed Aug 31 09:58:35 2016]  ClientBegin: 1
+[Wed Aug 31 09:58:38 2016]  say: PACKAC: Зачем ты за мной наблюдаешь?
+[Wed Aug 31 09:58:41 2016]  say: ^0n!k^3^4!ta: ани шути над всеми
+[Wed Aug 31 09:58:55 2016]  Kill: 0 1 31: PACKAC killed ^0n!k^3^4!ta by MOD_FORCE_DARK
+[Wed Aug 31 09:58:58 2016]  say: ^0n!k^3^4!ta: ты ддурак?
+[Wed Aug 31 09:59:15 2016]  say: PACKAC: да
+[Wed Aug 31 09:59:31 2016]  say: ^0n!k^3^4!ta: да блин хватит
+[Wed Aug 31 09:59:37 2016]  say: PACKAC: Ладно я пойду
+[Wed Aug 31 09:59:38 2016]  say: PACKAC: Пока
+[Wed Aug 31 09:59:38 2016]  say: ^0n!k^3^4!ta: ты уже нааедаеш мне
+[Wed Aug 31 09:59:46 2016]  say: PACKAC: Если что
+[Wed Aug 31 09:59:47 2016]  say: PACKAC: Я пойду
+[Wed Aug 31 09:59:52 2016]  say: ^0n!k^3^4!ta: поиграй тут
+[Wed Aug 31 09:59:53 2016]  say: PACKAC: Где мы всегда играем
+[Wed Aug 31 09:59:58 2016]  say: ^0n!k^3^4!ta: да зачем
+[Wed Aug 31 09:59:59 2016]  say: PACKAC: Тут скучно
+[Wed Aug 31 10:00:03 2016]  say: ^0n!k^3^4!ta: тут весело
+[Wed Aug 31 10:00:10 2016]  say: PACKAC: Скучно
+[Wed Aug 31 10:00:14 2016]  say: ^0n!k^3^4!ta: а чего есть там чего тут нету?
+[Wed Aug 31 10:00:24 2016]  say: PACKAC: Денег
+[Wed Aug 31 10:00:25 2016]  say: ^0n!k^3^4!ta: мы все можем и тут саздать
+[Wed Aug 31 10:00:34 2016]  say: ^0n!k^3^4!ta: денги зачем?
+[Wed Aug 31 10:00:41 2016]  say: ^0n!k^3^4!ta: го наш дом зделаем?
+[Wed Aug 31 10:00:45 2016]  say: ^0n!k^3^4!ta: апять?
+[Wed Aug 31 10:00:49 2016]  say: PACKAC: Я карочь пойду на тот сервер где мы играем
+[Wed Aug 31 10:00:56 2016]  say: ^0n!k^3^4!ta: ну блин
+[Wed Aug 31 10:01:01 2016]  say: ^0n!k^3^4!ta: ну тут паиграй
+[Wed Aug 31 10:01:04 2016]  say: ^0n!k^3^4!ta: залас
+[Wed Aug 31 10:01:10 2016]  say: PACKAC: Зачем
+[Wed Aug 31 10:01:23 2016]  say: ^0n!k^3^4!ta: да блин залас пашли дом делать
+[Wed Aug 31 10:01:30 2016]  say: ^0n!k^3^4!ta: ну ты деалй карабл
+[Wed Aug 31 10:01:31 2016]  say: PACKAC: Ну ладно
+[Wed Aug 31 10:01:33 2016]  say: PACKAC: 15 мин
+[Wed Aug 31 10:01:33 2016]  say: ^0n!k^3^4!ta: БЛИН ХАРЕЕ
+[Wed Aug 31 10:01:35 2016]  say: PACKAC: Тольок
+[Wed Aug 31 10:03:19 2016]  say: ^0n!k^3^4!ta: гр
+[Wed Aug 31 10:03:32 2016]  say: ^0n!k^3^4!ta: го
+[Wed Aug 31 10:03:39 2016]  say: ^0n!k^3^4!ta: mkillall
+[Wed Aug 31 10:03:44 2016]  say: ^0n!k^3^4!ta: удаляй карабл
+[Wed Aug 31 10:03:52 2016]  say: ^0n!k^3^4!ta: я елаю стены ты пол
+[Wed Aug 31 10:03:58 2016]  say: PACKAC: ок
+[Wed Aug 31 10:04:07 2016]  say: PACKAC: Стой
+[Wed Aug 31 10:04:11 2016]  say: ^0n!k^3^4!ta: че
+[Wed Aug 31 10:04:12 2016]  say: PACKAC: Знаешь как еще делай
+[Wed Aug 31 10:04:16 2016]  say: ^0n!k^3^4!ta: как
+[Wed Aug 31 10:04:18 2016]  say: PACKAC: Для стекл место оставь
+[Wed Aug 31 10:04:28 2016]  say: ^0n!k^3^4!ta: ок
+[Wed Aug 31 10:04:30 2016]  say: PACKAC: СТЕНЫ УЕЗЖАЮТ
+[Wed Aug 31 10:04:38 2016]  say: PACKAC: Немного для стекл оставь
+[Wed Aug 31 10:04:38 2016]  say: ^0n!k^3^4!ta: _
+[Wed Aug 31 10:04:41 2016]  say: PACKAC: Не так
+[Wed Aug 31 10:04:42 2016]  say: PACKAC: Смотри
+[Wed Aug 31 10:04:46 2016]  say: PACKAC: Смотри
+[Wed Aug 31 10:04:48 2016]  say: ^0n!k^3^4!ta: а
+[Wed Aug 31 10:05:10 2016]  say: PACKAC: Cмотри
+[Wed Aug 31 10:05:15 2016]  say: PACKAC: СТОЙ
+[Wed Aug 31 10:05:22 2016]  say: PACKAC: НЕ ТАК
+[Wed Aug 31 10:05:23 2016]  say: PACKAC: ДА
+[Wed Aug 31 10:05:31 2016]  say: ^0n!k^3^4!ta: убери
+[Wed Aug 31 10:05:38 2016]  say: PACKAC: ты понял
+[Wed Aug 31 10:05:46 2016]  say: ^0n!k^3^4!ta: да
+[Wed Aug 31 10:06:01 2016]  say: ^0n!k^3^4!ta: нам еше гараш нужен
+[Wed Aug 31 10:06:07 2016]  say: PACKAC: Не
+[Wed Aug 31 10:06:22 2016]  say: ^0n!k^3^4!ta: го пастроем дом и астанемся тут?
+[Wed Aug 31 10:06:32 2016]  say: ^0n!k^3^4!ta: у меня нет дел на сегодня
+[Wed Aug 31 10:06:50 2016]  say: PACKAC: Ок
+[Wed Aug 31 10:07:35 2016]  say: PACKAC: Ну ты кривой
+[Wed Aug 31 10:07:40 2016]  say: ^0n!k^3^4!ta: че?
+[Wed Aug 31 10:07:54 2016]  say: PACKAC: Хехе
+[Wed Aug 31 10:07:57 2016]  say: PACKAC: Кривой)
+[Wed Aug 31 10:08:32 2016]  say: ^0n!k^3^4!ta: атайди
+[Wed Aug 31 10:09:03 2016]  say: ^0n!k^3^4!ta: делай окна
+[Wed Aug 31 10:10:54 2016]  say: ^0n!k^3^4!ta: пол я памагу
+[Wed Aug 31 10:11:27 2016]  say: ^0n!k^3^4!ta: класный дом да?
+[Wed Aug 31 10:11:36 2016]  say: PACKAC: средне
+[Wed Aug 31 10:11:37 2016]  say: ^0n!k^3^4!ta: престорный
+[Wed Aug 31 10:11:41 2016]  say: ^0n!k^3^4!ta: ой
+[Wed Aug 31 10:11:46 2016]  say: ^0n!k^3^4!ta: мы забыли поо двер
+[Wed Aug 31 10:11:52 2016]  say: PACKAC: Ок щас погоди
+[Wed Aug 31 10:11:53 2016]  say: ^0n!k^3^4!ta: тваю
+[Wed Aug 31 10:11:54 2016]  say: PACKAC: Дам команду
+[Wed Aug 31 10:12:05 2016]  say: ^0n!k^3^4!ta: яш не магй как ты
+[Wed Aug 31 10:12:06 2016]  say: PACKAC: напиши /mcrabm
+[Wed Aug 31 10:12:13 2016]  say: ^0n!k^3^4!ta: делай их
+[Wed Aug 31 10:12:15 2016]  say: ^0n!k^3^4!ta: ща
+[Wed Aug 31 10:12:35 2016]  say: PACKAC: а нет напиши /mcrabt
+[Wed Aug 31 10:12:40 2016]  say: ^0n!k^3^4!ta: да че так лагат
+[Wed Aug 31 10:13:05 2016]  say: PACKAC: Дааа
+[Wed Aug 31 10:13:11 2016]  say: ^0n!k^3^4!ta: да бля
+[Wed Aug 31 10:13:14 2016]  say: PACKAC: Ну и пол
+[Wed Aug 31 10:13:44 2016]  say: PACKAC: Пол ты зделал просто 10/10
+[Wed Aug 31 10:13:59 2016]  say: ^0n!k^3^4!ta: )
+[Wed Aug 31 10:14:08 2016]  say: PACKAC: Крышу делай
+[Wed Aug 31 10:14:11 2016]  say: PACKAC: Я дверь
+[Wed Aug 31 10:14:13 2016]  say: PACKAC: АААААА НЕТ
+[Wed Aug 31 10:14:15 2016]  say: PACKAC: СТОЙ
+[Wed Aug 31 10:14:20 2016]  say: ^0n!k^3^4!ta: xt
+[Wed Aug 31 10:14:22 2016]  say: ^0n!k^3^4!ta: че
+[Wed Aug 31 10:14:28 2016]  say: PACKAC: Подойди сюда
+[Wed Aug 31 10:14:33 2016]  say: ^0n!k^3^4!ta: и
+[Wed Aug 31 10:14:33 2016]  say: PACKAC: К стене
+[Wed Aug 31 10:14:35 2016]  say: PACKAC: и напиши
+[Wed Aug 31 10:14:45 2016]  say: ^0n!k^3^4!ta: и
+[Wed Aug 31 10:14:51 2016]  say: PACKAC: ./mGrabT
+[Wed Aug 31 10:14:58 2016]  say: PACKAC: У стены
+[Wed Aug 31 10:15:04 2016]  say: ^0n!k^3^4!ta: да блин харе
+[Wed Aug 31 10:15:13 2016]  say: PACKAC: ПОДОЙДИ К СТЕНЕ
+[Wed Aug 31 10:15:17 2016]  say: PACKAC: ВОТ
+[Wed Aug 31 10:15:18 2016]  say: ^0n!k^3^4!ta: щас
+[Wed Aug 31 10:15:24 2016]  say: PACKAC: Вот
+[Wed Aug 31 10:15:25 2016]  say: ^0n!k^3^4!ta: да блин харе ДУШИТЬ
+[Wed Aug 31 10:15:26 2016]  say: PACKAC: И напиши
+[Wed Aug 31 10:15:27 2016]  say: PACKAC: ./mGrabT
+[Wed Aug 31 10:15:35 2016]  say: PACKAC: ЧТО ТЫ ДЕЛАЕШЬ!?
+[Wed Aug 31 10:15:48 2016]  say: ^0n!k^3^4!ta: и
+[Wed Aug 31 10:15:52 2016]  say: ^0n!k^3^4!ta: ты дурак
+[Wed Aug 31 10:15:55 2016]  say: PACKAC: Пипец ты
+[Wed Aug 31 10:15:58 2016]  say: PACKAC: Сам дурак
+[Wed Aug 31 10:16:00 2016]  say: ^0n!k^3^4!ta: и че
+[Wed Aug 31 10:16:08 2016]  say: ^0n!k^3^4!ta: написал
+[Wed Aug 31 10:16:18 2016]  say: PACKAC: Ладно не надо
+[Wed Aug 31 10:16:20 2016]  say: ^0n!k^3^4!ta: и че
+[Wed Aug 31 10:16:49 2016]  say: PACKAC: Ладно
+[Wed Aug 31 10:16:52 2016]  say: PACKAC: Зделаем вот так
+[Wed Aug 31 10:16:54 2016]  say: PACKAC: Смотрил
+[Wed Aug 31 10:18:13 2016]  say: PACKAC: Смотри
+[Wed Aug 31 10:18:27 2016]  say: ^0n!k^3^4!ta: эм
+[Wed Aug 31 10:18:29 2016]  say: PACKAC: Вот лесенка
+[Wed Aug 31 10:18:52 2016]  say: PACKAC: Подойди к стене
+[Wed Aug 31 10:18:55 2016]  say: ^0n!k^3^4!ta: лан я адыхать ок?
+[Wed Aug 31 10:19:02 2016]  say: PACKAC: Ты издеваешься?
+[Wed Aug 31 10:19:07 2016]  say: ^0n!k^3^4!ta: нет
+[Wed Aug 31 10:19:13 2016]  say: PACKAC: Ладно тогда я пойду
+[Wed Aug 31 10:19:21 2016]  say: PACKAC: На лугор
+[Wed Aug 31 10:19:23 2016]  say: ^0n!k^3^4!ta: ок захади через 1 час
+[Wed Aug 31 10:19:46 2016]  say: PACKAC: Ладно дова
+[Wed Aug 31 10:19:48 2016]  say: PACKAC: й
+[Wed Aug 31 10:19:50 2016]  ClientDisconnect: 0
+[Wed Aug 31 10:32:15 2016]  ClientDisconnect: 1
+[Wed Aug 31 15:16:54 2016]  ClientConnect: 0
+[Wed Aug 31 15:16:54 2016]  mlog:Player kINGNES, connected. With IP - 188.226.5.88:29070 
+[Wed Aug 31 15:17:19 2016]  ClientBegin: 0
+[Wed Aug 31 15:18:39 2016]  ClientConnect: 1
+[Wed Aug 31 15:18:39 2016]  mlog:Player Hezeper, connected. With IP - 195.64.208.144:29070 
+[Wed Aug 31 15:19:04 2016]  ClientBegin: 1
+[Wed Aug 31 15:19:55 2016]  ClientDisconnect: 1
+[Wed Aug 31 15:29:49 2016]  ClientDisconnect: 0

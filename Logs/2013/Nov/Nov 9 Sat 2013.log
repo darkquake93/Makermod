@@ -1,0 +1,370 @@
+[Sat Nov 09 01:35:00 2013]  ------------------------------------------------------------
+[Sat Nov 09 01:35:00 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 09 01:35:02 2013]  ClientConnect: 0
+[Sat Nov 09 01:35:02 2013]  ClientConnect: 1
+[Sat Nov 09 01:35:02 2013]  ClientConnect: 2
+[Sat Nov 09 01:35:05 2013]  ClientBegin: 0
+[Sat Nov 09 01:35:25 2013]  ClientBegin: 2
+[Sat Nov 09 01:35:26 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Nov 09 01:35:36 2013]  ClientBegin: 1
+[Sat Nov 09 01:35:46 2013]  say: ^0Dark^6Spyro: have you seen wendy lately?
+[Sat Nov 09 01:35:51 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5lol
+[Sat Nov 09 01:35:58 2013]  Kill: 1 0 3: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 01:35:59 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5sadly no
+[Sat Nov 09 01:36:08 2013]  say: ^0Dark^6Spyro: awwww
+[Sat Nov 09 01:36:15 2013]  say: ^0Dark^6Spyro: hold on have to reconnect
+[Sat Nov 09 01:36:19 2013]  ClientDisconnect: 1
+[Sat Nov 09 01:36:19 2013]  ClientDisconnect: 1
+[Sat Nov 09 01:36:19 2013]  ClientConnect: 1
+[Sat Nov 09 01:36:19 2013]  mlog:Player ^0Dark^6Spyro, connected. With IP - 67.6.161.228:21699 
+[Sat Nov 09 01:36:33 2013]  ClientBegin: 1
+[Sat Nov 09 01:36:36 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5when was the last time you saw her?
+[Sat Nov 09 01:37:18 2013]  Kill: 2 1 3: ^3-^0[^1KR^0]^3-^1Ra^3is^0on killed ^0Dark^6Spyro by MOD_SABER
+[Sat Nov 09 01:37:18 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 mortal I have wiped out 1213 people before you
+[Sat Nov 09 01:37:19 2013]  Kill: 2 0 3: ^3-^0[^1KR^0]^3-^1Ra^3is^0on killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 01:37:19 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^6Pinkie Bot^7: ^2^7^6Pinkie Bot^7, ^7 mortal I have wiped out 1214 people before you
+[Sat Nov 09 01:37:22 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5oops
+[Sat Nov 09 01:38:31 2013]  Kill: 2 2 39: ^3-^0[^1KR^0]^3-^1Ra^3is^0on killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SUICIDE
+[Sat Nov 09 01:38:31 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: goodbye cruel world
+[Sat Nov 09 01:38:32 2013]  Kill: 2 0 37: ^3-^0[^1KR^0]^3-^1Ra^3is^0on killed ^6Pinkie Bot^7 by MOD_TELEFRAG
+[Sat Nov 09 01:38:33 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^6Pinkie Bot^7: ^2^7^6Pinkie Bot^7, ^7 mortal I have wiped out 1215 people before you
+[Sat Nov 09 01:38:47 2013]  Kill: 2 1 3: ^3-^0[^1KR^0]^3-^1Ra^3is^0on killed ^0Dark^6Spyro by MOD_SABER
+[Sat Nov 09 01:38:47 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 mortal I have wiped out 1216 people before you
+[Sat Nov 09 01:39:11 2013]  say: ^0Dark^6Spyro: sorry was afk
+[Sat Nov 09 01:39:14 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5k
+[Sat Nov 09 01:39:19 2013]  say: ^0Dark^6Spyro: got icecream
+[Sat Nov 09 01:39:22 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5lol
+[Sat Nov 09 01:39:36 2013]  say: ^0Dark^6Spyro: where are you?
+[Sat Nov 09 01:39:39 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5so when was the l;ast time you saw her?
+[Sat Nov 09 01:39:49 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5go tought portal ftw
+[Sat Nov 09 01:39:55 2013]  say: ^0Dark^6Spyro: last time i saw her was a couple days ago 
+[Sat Nov 09 01:40:08 2013]  say: ^0Dark^6Spyro: like 6 days
+[Sat Nov 09 01:40:12 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5on here?
+[Sat Nov 09 01:40:21 2013]  say: ^0Dark^6Spyro: but i havent seen her sense
+[Sat Nov 09 01:40:25 2013]  Kill: 1 0 3: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 01:40:49 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5well maybe she's into a another game....
+[Sat Nov 09 01:40:50 2013]  say: ^0Dark^6Spyro: My origin is: (-5525 -22217 1704) - You can teleport here with /mtelelast
+
+[Sat Nov 09 01:41:16 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5lol
+[Sat Nov 09 01:41:19 2013]  say: ^0Dark^6Spyro: or maybe her parents are being complete jerks shes always crying during video call
+[Sat Nov 09 01:41:30 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5:/
+[Sat Nov 09 01:41:34 2013]  say: ^0Dark^6Spyro: but she smiles when ever she sees me
+[Sat Nov 09 01:41:42 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5well
+[Sat Nov 09 01:41:52 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5actully i do have a jka wife
+[Sat Nov 09 01:41:55 2013]  Kill: 1022 2 3: <world> killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 01:42:25 2013]  Kill: 1022 0 3: <world> killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 01:42:27 2013]  Kill: 1022 2 3: <world> killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 01:42:32 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5dem bots
+[Sat Nov 09 01:42:35 2013]  Kill: 1022 1 3: <world> killed ^0Dark^6Spyro by MOD_SABER
+[Sat Nov 09 01:42:41 2013]  say: ^0Dark^6Spyro: saber lock only
+[Sat Nov 09 01:42:46 2013]  say: ^0Dark^6Spyro: weird
+[Sat Nov 09 01:42:55 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5yea
+[Sat Nov 09 01:43:14 2013]  say: ^0Dark^6Spyro: you can also use force push during a saber lock
+[Sat Nov 09 01:43:20 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5oh cool
+[Sat Nov 09 01:43:20 2013]  say: ^0Dark^6Spyro: to help win it
+[Sat Nov 09 01:43:34 2013]  say: ^0Dark^6Spyro: ill show you
+[Sat Nov 09 01:43:47 2013]  Kill: 1 2 3: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 01:43:48 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 01:44:02 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5lawl stupid esc key
+[Sat Nov 09 01:44:26 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5she pretty?
+[Sat Nov 09 01:44:35 2013]  Kill: 1022 1 3: <world> killed ^0Dark^6Spyro by MOD_SABER
+[Sat Nov 09 01:44:44 2013]  say: ^0Dark^6Spyro: people say shes fat but she aint
+[Sat Nov 09 01:45:02 2013]  say: ^0Dark^6Spyro: shes just a beautiful girl with blonde hair
+[Sat Nov 09 01:45:45 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5well how come you dont come to kr anymore tom see kris?
+[Sat Nov 09 01:46:17 2013]  say: ^0Dark^6Spyro: i havent seen Kris on in like 2 or 3 months
+[Sat Nov 09 01:46:32 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5she's on everyday on kr
+[Sat Nov 09 01:46:57 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5you just need to be on erly or something
+[Sat Nov 09 01:47:30 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5and yes i get dirty
+[Sat Nov 09 01:47:50 2013]  Kill: 1022 1 3: <world> killed ^0Dark^6Spyro by MOD_SABER
+[Sat Nov 09 01:48:02 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5remember me saying starkiller was kissing kris to creed?
+[Sat Nov 09 01:48:04 2013]  say: ^0Dark^6Spyro: i wasnet even gonna ask
+[Sat Nov 09 01:48:14 2013]  say: ^0Dark^6Spyro: and yes i do remember
+[Sat Nov 09 01:48:18 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5lol
+[Sat Nov 09 01:48:22 2013]  Kill: 1022 1 3: <world> killed ^0Dark^6Spyro by MOD_SABER
+[Sat Nov 09 01:48:32 2013]  say: ^0Dark^6Spyro: was it true?
+[Sat Nov 09 01:48:40 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5well yea
+[Sat Nov 09 01:48:53 2013]  say: ^0Dark^6Spyro: cause that day Kris kepped spaming private message saying she wasnt
+[Sat Nov 09 01:48:54 2013]  Kill: 1022 0 3: <world> killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 01:49:14 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5well she lies alot 
+[Sat Nov 09 01:49:57 2013]  Kill: 1022 1 3: <world> killed ^0Dark^6Spyro by MOD_SABER
+[Sat Nov 09 01:50:09 2013]  Kill: 1 0 3: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 01:50:13 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5hmmm you still see the rest of the gang ?
+[Sat Nov 09 01:50:25 2013]  say: ^0Dark^6Spyro: what do you mean?
+[Sat Nov 09 01:50:31 2013]  Kill: 1 2 3: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 01:50:31 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 01:50:45 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5i mean the people we hung out with on quatem
+[Sat Nov 09 01:50:46 2013]  Kill: 1022 1 3: <world> killed ^0Dark^6Spyro by MOD_SABER
+[Sat Nov 09 01:51:08 2013]  say: ^0Dark^6Spyro: only zero on Kr but i dont remember anyone else
+[Sat Nov 09 01:51:21 2013]  Kill: 1022 2 3: <world> killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 01:51:26 2013]  say: ^0Dark^6Spyro: use force push during the saber lock
+[Sat Nov 09 01:52:43 2013]  say: ^0Dark^6Spyro: do /npc kill all
+[Sat Nov 09 01:52:49 2013]  Kill: 1 0 3: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 01:53:27 2013]  say: ^0Dark^6Spyro: use force push during saber lock to win it
+[Sat Nov 09 01:53:36 2013]  Kill: 1 2 3: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 01:53:36 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 01:53:39 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5lawl
+[Sat Nov 09 01:53:40 2013]  say: ^0Dark^6Spyro: um
+[Sat Nov 09 01:53:43 2013]  say: ^0Dark^6Spyro: sorry
+[Sat Nov 09 01:53:46 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5is k
+[Sat Nov 09 01:53:56 2013]  Kill: 1 2 3: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 01:53:57 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 01:54:00 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5lol
+[Sat Nov 09 01:54:10 2013]  say: ^0Dark^6Spyro: im really good at button mashing
+[Sat Nov 09 01:54:16 2013]  Kill: 1 2 3: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 01:54:16 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 01:54:20 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5indeed
+[Sat Nov 09 01:54:24 2013]  say: ^0Dark^6Spyro: waity
+[Sat Nov 09 01:54:30 2013]  say: ^0Dark^6Spyro: lets try that again
+[Sat Nov 09 01:54:39 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5i sendlt too much time on ja+ servers
+[Sat Nov 09 01:54:48 2013]  Kill: 2 0 3: ^3-^0[^1KR^0]^3-^1Ra^3is^0on killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 01:54:48 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^6Pinkie Bot^7: ^2^7^6Pinkie Bot^7, ^7 mortal I have wiped out 1217 people before you
+[Sat Nov 09 01:54:52 2013]  Kill: 1 2 3: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 01:54:52 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 01:55:16 2013]  say: ^0Dark^6Spyro: see force push helped during the lock
+[Sat Nov 09 01:55:27 2013]  say: ^0Dark^6Spyro: were slicing stars
+[Sat Nov 09 01:55:40 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5well i dont see artrix anymore
+[Sat Nov 09 01:56:10 2013]  say: ^0Dark^6Spyro: ive seen wendy say that shes Kris and Kris is just Wendy in disguise
+[Sat Nov 09 01:56:26 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5no she isent
+[Sat Nov 09 01:56:57 2013]  Kill: 1022 1 20: <world> killed ^0Dark^6Spyro by MOD_ROCKET_SPLASH
+[Sat Nov 09 01:57:16 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5lol
+[Sat Nov 09 01:57:44 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5well i do have skype also
+[Sat Nov 09 01:57:47 2013]  Kill: 1022 2 3: <world> killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 01:57:48 2013]  Kill: 1022 1 3: <world> killed ^0Dark^6Spyro by MOD_SABER
+[Sat Nov 09 01:57:49 2013]  Kill: 1 2 37: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_TELEFRAG
+[Sat Nov 09 01:57:50 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 01:57:50 2013]  Kill: 2 1 37: ^3-^0[^1KR^0]^3-^1Ra^3is^0on killed ^0Dark^6Spyro by MOD_TELEFRAG
+[Sat Nov 09 01:57:51 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 mortal I have wiped out 1218 people before you
+[Sat Nov 09 01:58:06 2013]  Kill: 1022 2 3: <world> killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 01:58:26 2013]  Kill: 1022 1 3: <world> killed ^0Dark^6Spyro by MOD_SABER
+[Sat Nov 09 01:58:39 2013]  Kill: 1022 0 3: <world> killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 01:59:21 2013]  Kill: 1022 2 3: <world> killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 01:59:32 2013]  Kill: 1022 1 3: <world> killed ^0Dark^6Spyro by MOD_SABER
+[Sat Nov 09 01:59:56 2013]  Kill: 1 0 3: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 02:00:09 2013]  Kill: 1022 2 19: <world> killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_ROCKET
+[Sat Nov 09 02:00:20 2013]  Kill: 1022 2 20: <world> killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_ROCKET_SPLASH
+[Sat Nov 09 02:00:27 2013]  say: ^0Dark^6Spyro: um
+[Sat Nov 09 02:00:32 2013]  say: ^0Dark^6Spyro: lol
+[Sat Nov 09 02:00:55 2013]  Kill: 1 2 3: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 02:00:55 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 02:01:08 2013]  say: ^0Dark^6Spyro: all i did was that sliceing move
+[Sat Nov 09 02:01:13 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5indeed
+[Sat Nov 09 02:01:19 2013]  Kill: 2 1 3: ^3-^0[^1KR^0]^3-^1Ra^3is^0on killed ^0Dark^6Spyro by MOD_SABER
+[Sat Nov 09 02:01:19 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 mortal I have wiped out 1219 people before you
+[Sat Nov 09 02:01:40 2013]  Kill: 1 2 3: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 02:01:40 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 02:02:09 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5sigh so meny dead servers
+[Sat Nov 09 02:02:28 2013]  say: ^0Dark^6Spyro: ya i guess people are thinking that its time to throw the game away
+[Sat Nov 09 02:02:49 2013]  Kill: 1 2 31: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_FORCE_DARK
+[Sat Nov 09 02:02:49 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 02:02:51 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5but this game still the best!!!!!!
+[Sat Nov 09 02:03:18 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5will always will be the best starwars game
+[Sat Nov 09 02:03:35 2013]  say: ^0Dark^6Spyro: you have x-wing vs tie-fighter?
+[Sat Nov 09 02:03:42 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5nope
+[Sat Nov 09 02:03:42 2013]  Kill: 1 0 3: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 02:04:07 2013]  say: ^0Dark^6Spyro: bedt star wars flight simulation game ever
+[Sat Nov 09 02:04:17 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5lol 
+[Sat Nov 09 02:04:26 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5is not a goood poilet
+[Sat Nov 09 02:04:46 2013]  say: ^0Dark^6Spyro: My origin is: (-14256 -14551 1470) - You can teleport here with /mtelelast
+
+[Sat Nov 09 02:04:51 2013]  say: ^0Dark^6Spyro: i landed here
+[Sat Nov 09 02:04:55 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5you stilll got spirts right?
+[Sat Nov 09 02:05:03 2013]  Kill: 1 2 27: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_DET_PACK_SPLASH
+[Sat Nov 09 02:05:04 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 02:05:09 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5oh wow
+[Sat Nov 09 02:05:09 2013]  Kill: 1022 1 38: <world> killed ^0Dark^6Spyro by MOD_FALLING
+[Sat Nov 09 02:05:24 2013]  say: ^0Dark^6Spyro: spirits?
+[Sat Nov 09 02:05:43 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5urgh them things you and wendy make
+[Sat Nov 09 02:06:06 2013]  say: ^0Dark^6Spyro: eeww we havent had Sex yet ok dude?
+[Sat Nov 09 02:06:16 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5no not thar
+[Sat Nov 09 02:06:23 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5houses and stuff
+[Sat Nov 09 02:06:30 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5lol
+[Sat Nov 09 02:06:43 2013]  say: ^0Dark^6Spyro: we used to have a job on quantums 
+[Sat Nov 09 02:06:55 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5i blame garekin
+[Sat Nov 09 02:07:17 2013]  say: ^0Dark^6Spyro: where we build houses and the customer gets to choose how much credits he wants to buy it for
+[Sat Nov 09 02:07:29 2013]  Kill: 1 2 25: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_TRIP_MINE_SPLASH
+[Sat Nov 09 02:07:30 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 02:07:39 2013]  say: ^0Dark^6Spyro: sliced a mine
+[Sat Nov 09 02:07:43 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5i'll miss those days though ;(
+[Sat Nov 09 02:08:03 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5ya know i came to relax on quatem
+[Sat Nov 09 02:08:23 2013]  say: ^0Dark^6Spyro: i loved quantums
+[Sat Nov 09 02:08:36 2013]  Kill: 1022 1 38: <world> killed ^0Dark^6Spyro by MOD_FALLING
+[Sat Nov 09 02:08:45 2013]  say: ^0Dark^6Spyro: detonator jumping is fun
+[Sat Nov 09 02:08:53 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5well you could always go to dinner's server
+[Sat Nov 09 02:10:00 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5like i said i dont get too bonded to things here
+[Sat Nov 09 02:10:09 2013]  Kill: 1022 2 2: <world> killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_MELEE
+[Sat Nov 09 02:10:16 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5oops fail
+[Sat Nov 09 02:10:31 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5keep thinking g is grapple >.<
+[Sat Nov 09 02:10:52 2013]  say: ^0Dark^6Spyro: i do like dogifhting
+[Sat Nov 09 02:10:56 2013]  say: ^0Dark^6Spyro: in this game
+[Sat Nov 09 02:10:57 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5ik
+[Sat Nov 09 02:11:15 2013]  Kill: 1022 2 6: <world> killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_BLASTER
+[Sat Nov 09 02:11:17 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5!
+[Sat Nov 09 02:12:04 2013]  say: ^0Dark^6Spyro: i took off yay
+[Sat Nov 09 02:12:24 2013]  Kill: 1022 2 6: <world> killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_BLASTER
+[Sat Nov 09 02:12:35 2013]  say: ^0Dark^6Spyro: how did you die?
+[Sat Nov 09 02:12:41 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5crashed
+[Sat Nov 09 02:13:01 2013]  say: ^0Dark^6Spyro: eho spawned the rebel?
+[Sat Nov 09 02:13:13 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5idk\
+[Sat Nov 09 02:13:17 2013]  Kill: 1022 2 39: <world> killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SUICIDE
+[Sat Nov 09 02:13:17 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: goodbye cruel world
+[Sat Nov 09 02:13:28 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5!bobalol'
+[Sat Nov 09 02:13:33 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5!bobalol
+[Sat Nov 09 02:13:34 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5Boba Lol ^2- ^1are ppl nowadays too fuckin retarded TO SPELL MY GODDAMN NAME RIGHT!? -BobaFett
+[Sat Nov 09 02:13:39 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5lol
+[Sat Nov 09 02:13:44 2013]  say: ^0Dark^6Spyro: um
+[Sat Nov 09 02:13:47 2013]  say: ^0Dark^6Spyro: wtf?
+[Sat Nov 09 02:13:50 2013]  say: ^0Dark^6Spyro: afk
+[Sat Nov 09 02:13:56 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5!bobalol
+[Sat Nov 09 02:13:57 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5Boba Lol ^2- ^1...his servers suck so bad they're a shame to modern society -BobaFett
+[Sat Nov 09 02:14:18 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5!bobalol
+[Sat Nov 09 02:14:19 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5Boba Lol ^2- ^1they 're total 'IWANNABEAHAXXORLOLOLOLOOLO'-fucktarded noobs -BobaFett
+[Sat Nov 09 02:15:19 2013]  Kill: 1 2 10: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_DISRUPTOR_SNIPER
+[Sat Nov 09 02:15:19 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 02:15:40 2013]  Kill: 1 0 3: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 02:15:51 2013]  say: ^0Dark^6Spyro: im back
+[Sat Nov 09 02:16:27 2013]  Kill: 1 2 27: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_DET_PACK_SPLASH
+[Sat Nov 09 02:16:28 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 02:17:45 2013]  Kill: 1 2 3: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_SABER
+[Sat Nov 09 02:17:45 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 02:17:50 2013]  Kill: 1 0 3: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 02:19:37 2013]  Kill: 1 2 27: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_DET_PACK_SPLASH
+[Sat Nov 09 02:19:37 2013]  Kill: 1 0 27: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_DET_PACK_SPLASH
+[Sat Nov 09 02:19:38 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 02:20:38 2013]  Kill: 0 2 37: ^6Pinkie Bot^7 killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_TELEFRAG
+[Sat Nov 09 02:20:39 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^6Pinkie Bot^7: ^2^7^6Pinkie Bot^7, ^7 ^1 I will have my revenge!
+[Sat Nov 09 02:21:28 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5sry was afk
+[Sat Nov 09 02:21:46 2013]  say: ^0Dark^6Spyro: its fine
+[Sat Nov 09 02:21:57 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5soo whats going on lugermod?
+[Sat Nov 09 02:22:24 2013]  say: ^0Dark^6Spyro: i left the elite wolves clan
+[Sat Nov 09 02:22:39 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5how come? too many trolls?
+[Sat Nov 09 02:22:49 2013]  say: ^0Dark^6Spyro: ya and they didnt treat me faily
+[Sat Nov 09 02:22:53 2013]  say: ^0Dark^6Spyro: fairly
+[Sat Nov 09 02:23:02 2013]  Kill: 1 2 5: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_BRYAR_PISTOL_ALT
+[Sat Nov 09 02:23:30 2013]  Kill: 1 2 27: ^0Dark^6Spyro killed ^3-^0[^1KR^0]^3-^1Ra^3is^0on by MOD_DET_PACK_SPLASH
+[Sat Nov 09 02:23:30 2013]  Kill: 1 0 27: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_DET_PACK_SPLASH
+[Sat Nov 09 02:23:30 2013]  tell: ^3-^0[^1KR^0]^3-^1Ra^3is^0on to ^0Dark^6Spyro: ^2^7^0Dark^6Spyro, ^7 ^1 I will have my revenge!
+[Sat Nov 09 02:24:51 2013]  Kill: 1 0 3: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 02:25:08 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5i guess luger is dying 
+[Sat Nov 09 02:25:21 2013]  say: ^0Dark^6Spyro: ya
+[Sat Nov 09 02:25:22 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5dont see snyone on alot
+[Sat Nov 09 02:25:33 2013]  say: ^0Dark^6Spyro: Data quit elite wolves
+[Sat Nov 09 02:25:46 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5i havsent see tasmann in awhile
+[Sat Nov 09 02:26:21 2013]  say: ^0Dark^6Spyro: dude tasmann is a jerk but i have seen ^0S^2now on alot and hes the one that forced me to give him a blow job on a game
+[Sat Nov 09 02:26:30 2013]  Kill: 1 0 3: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 02:26:39 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5lol?
+[Sat Nov 09 02:26:47 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5well
+[Sat Nov 09 02:26:59 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5alset it wasent real life XD
+[Sat Nov 09 02:27:13 2013]  say: ^0Dark^6Spyro: thats the good thing 
+[Sat Nov 09 02:27:29 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5well tas could be a girl
+[Sat Nov 09 02:27:32 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5;)
+[Sat Nov 09 02:27:54 2013]  say: ^0Dark^6Spyro: maybe you guys were suppose to meet in the first place
+[Sat Nov 09 02:28:02 2013]  Kill: 1 0 3: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 02:28:10 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5me and tas?
+[Sat Nov 09 02:29:45 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5trolls vs trolls ftw
+[Sat Nov 09 02:29:55 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5fun to whaich
+[Sat Nov 09 02:30:05 2013]  say: ^0Dark^6Spyro: ready?
+[Sat Nov 09 02:30:09 2013]  say: ^0Dark^6Spyro: imma gona jump
+[Sat Nov 09 02:30:10 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5yea sure
+[Sat Nov 09 02:30:10 2013]  Item: 1 ammo_all
+[Sat Nov 09 02:30:15 2013]  say: ^0Dark^6Spyro: watch me
+[Sat Nov 09 02:31:11 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5well i gotta head back to KR
+[Sat Nov 09 02:31:17 2013]  say: ^0Dark^6Spyro: aww man 
+[Sat Nov 09 02:31:19 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5they need me
+[Sat Nov 09 02:31:21 2013]  say: ^0Dark^6Spyro: that place
+[Sat Nov 09 02:31:26 2013]  say: ^0Dark^6Spyro: has too many rules
+[Sat Nov 09 02:31:59 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5well you can just not lame and flame etc thats it
+[Sat Nov 09 02:32:08 2013]  Kill: 1 0 3: ^0Dark^6Spyro killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 02:32:21 2013]  say: ^0Dark^6Spyro: ok im headen there now i wander if Kris is on
+[Sat Nov 09 02:32:36 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5she doesent get on at night
+[Sat Nov 09 02:32:47 2013]  say: ^0Dark^6Spyro: DAMN IT!
+[Sat Nov 09 02:32:55 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5she was on ealer thou
+[Sat Nov 09 02:33:04 2013]  say: ^0Dark^6Spyro: at what time?
+[Sat Nov 09 02:33:08 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5idk
+[Sat Nov 09 02:33:22 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5bout 3:13 my time
+[Sat Nov 09 02:33:30 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5am in USA
+[Sat Nov 09 02:33:36 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5midwest
+[Sat Nov 09 02:33:38 2013]  say: ^0Dark^6Spyro: i live in colorado
+[Sat Nov 09 02:33:48 2013]  say: ^3-^0[^1KR^0]^3-^1Ra^3is^0on: ^5indana
+[Sat Nov 09 02:33:55 2013]  Kill: 1022 1 38: <world> killed ^0Dark^6Spyro by MOD_FALLING
+[Sat Nov 09 02:34:02 2013]  say: ^0Dark^6Spyro: ok lets go
+[Sat Nov 09 02:34:06 2013]  ClientDisconnect: 1
+[Sat Nov 09 02:34:18 2013]  ClientDisconnect: 2
+[Sat Nov 09 03:34:59 2013]  Exit: Timelimit hit.
+[Sat Nov 09 03:34:59 2013]  score: 1  ping: 63  client: 0 ^6Pinkie Bot^7
+[Sat Nov 09 04:11:18 2013]  ClientConnect: 1
+[Sat Nov 09 04:11:18 2013]  mlog:Player Tusken King, connected. With IP - 24.98.147.217:29070 
+[Sat Nov 09 04:14:39 2013]  ClientDisconnect: 1
+[Sat Nov 09 07:13:04 2013]  ClientConnect: 1
+[Sat Nov 09 07:13:04 2013]  mlog:Player Padawan, connected. With IP - 213.87.135.162:19312 
+[Sat Nov 09 07:13:35 2013]  ClientBegin: 1
+[Sat Nov 09 07:13:53 2013]  ShutdownGame:
+[Sat Nov 09 07:13:53 2013]  ------------------------------------------------------------
+[Sat Nov 09 07:13:53 2013]  ------------------------------------------------------------
+[Sat Nov 09 07:13:53 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 09 07:13:54 2013]  ClientConnect: 0
+[Sat Nov 09 07:13:54 2013]  ClientConnect: 1
+[Sat Nov 09 07:13:57 2013]  ClientBegin: 0
+[Sat Nov 09 07:14:14 2013]  ClientBegin: 1
+[Sat Nov 09 07:16:12 2013]  Kill: 1 0 5: LOLI killed ^6Pinkie Bot^7 by MOD_BRYAR_PISTOL_ALT
+[Sat Nov 09 07:29:22 2013]  ClientDisconnect: 1
+[Sat Nov 09 09:02:58 2013]  ClientConnect: 1
+[Sat Nov 09 09:02:58 2013]  mlog:Player JOLEO, connected. With IP - 159.255.234.38:29070 
+[Sat Nov 09 09:03:08 2013]  ClientBegin: 1
+[Sat Nov 09 09:04:10 2013]  Kill: 1022 1 39: <world> killed Padawan by MOD_SUICIDE
+[Sat Nov 09 09:04:16 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Nov 09 09:04:16 2013]  setteam:  1 FREE SPECTATOR
+[Sat Nov 09 09:04:16 2013]  ClientBegin: 1
+[Sat Nov 09 09:04:22 2013]  setteam:  1 SPECTATOR FREE
+[Sat Nov 09 09:04:22 2013]  ClientBegin: 1
+[Sat Nov 09 09:05:56 2013]  Kill: 1 0 31: Padawan killed ^6Pinkie Bot^7 by MOD_FORCE_DARK
+[Sat Nov 09 09:06:01 2013]  ClientDisconnect: 1
+[Sat Nov 09 09:13:52 2013]  Exit: Timelimit hit.
+[Sat Nov 09 09:13:52 2013]  score: 0  ping: 68  client: 0 ^6Pinkie Bot^7
+[Sat Nov 09 10:47:15 2013]  ClientConnect: 1
+[Sat Nov 09 10:47:15 2013]  mlog:Player ^5Rudzon, connected. With IP - 91.232.159.8:18394 
+[Sat Nov 09 10:47:37 2013]  ClientBegin: 1
+[Sat Nov 09 10:48:24 2013]  ShutdownGame:
+[Sat Nov 09 10:48:24 2013]  ------------------------------------------------------------
+[Sat Nov 09 10:48:24 2013]  ------------------------------------------------------------
+[Sat Nov 09 10:48:24 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 09 10:48:26 2013]  ClientConnect: 0
+[Sat Nov 09 10:48:26 2013]  ClientConnect: 1
+[Sat Nov 09 10:48:29 2013]  ClientBegin: 0
+[Sat Nov 09 10:48:39 2013]  ClientBegin: 1
+[Sat Nov 09 10:48:53 2013]  Kill: 1 0 3: ^5Rudzoni killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 10:50:19 2013]  Kill: 1 0 3: ^5Rudzoni killed ^6Pinkie Bot^7 by MOD_SABER
+[Sat Nov 09 10:50:53 2013]  Kill: 1022 1 38: <world> killed ^5Rudzoni by MOD_FALLING
+[Sat Nov 09 10:51:15 2013]  Kill: 1022 1 38: <world> killed ^5Rudzoni by MOD_FALLING
+[Sat Nov 09 10:51:20 2013]  ClientDisconnect: 1
+[Sat Nov 09 12:48:26 2013]  Exit: Timelimit hit.
+[Sat Nov 09 12:48:26 2013]  score: 0  ping: 53  client: 0 ^6Pinkie Bot^7
+[Sat Nov 09 15:04:14 2013]  ClientConnect: 1
+[Sat Nov 09 15:04:14 2013]  mlog:Player Padawan, connected. With IP - 82.83.226.57:29201 
+[Sat Nov 09 15:04:36 2013]  ClientBegin: 1
+[Sat Nov 09 15:05:01 2013]  ShutdownGame:
+[Sat Nov 09 15:05:01 2013]  ------------------------------------------------------------
+[Sat Nov 09 15:05:02 2013]  ------------------------------------------------------------
+[Sat Nov 09 15:05:02 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 09 15:05:03 2013]  ClientConnect: 0
+[Sat Nov 09 15:05:03 2013]  ClientConnect: 1
+[Sat Nov 09 15:05:05 2013]  ClientBegin: 0
+[Sat Nov 09 15:05:19 2013]  ClientDisconnect: 1
+[Sat Nov 09 16:10:06 2013]  ClientConnect: 1
+[Sat Nov 09 16:10:06 2013]  mlog:Player svyat, connected. With IP - 46.219.22.13:29070 
+[Sat Nov 09 16:10:14 2013]  ClientDisconnect: 1
+[Sat Nov 09 17:05:01 2013]  Exit: Timelimit hit.
+[Sat Nov 09 17:05:01 2013]  score: 0  ping: 76  client: 0 ^6Pinkie Bot^7
+[Sun Nov 10 00:44:20 2013]  say: ^6Pinkie Bot^7: sure is dead in here
+[Sun Nov 10 09:38:14 2013]  ClientConnect: 1
+[Sun Nov 10 09:38:14 2013]  mlog:Player ^1delete, connected. With IP - 213.110.56.222:29070 
+[Sun Nov 10 09:38:32 2013]  ClientBegin: 1
+[Sun Nov 10 09:38:40 2013]  ClientDisconnect: 1
+[Sun Nov 10 10:28:23 2013]  ClientConnect: 1
+[Sun Nov 10 10:28:23 2013]  mlog:Player p, connected. With IP - 159.255.234.38:29070 
+[Sun Nov 10 10:31:47 2013]  ClientDisconnect: 1
+[Sun Nov 10 10:39:00 2013]  ClientConnect: 1
+[Sun Nov 10 10:39:00 2013]  mlog:Player Padawan, connected. With IP - 79.114.150.137:29070 
+[Sun Nov 10 10:40:20 2013]  ClientBegin: 1
+[Sun Nov 10 10:40:36 2013]  say: Padawan: hi
+[Sun Nov 10 10:40:47 2013]  ShutdownGame:
+[Sun Nov 10 10:40:47 2013]  ------------------------------------------------------------

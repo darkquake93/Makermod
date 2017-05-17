@@ -1,0 +1,75 @@
+[Sat Oct 15 12:10:18 2016]  ------------------------------------------------------------
+[Sat Oct 15 12:10:18 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Oct 15 14:27:08 2016]  ClientConnect: 0
+[Sat Oct 15 14:27:08 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.131.254:29070 
+[Sat Oct 15 14:27:31 2016]  ClientBegin: 0
+[Sat Oct 15 14:27:39 2016]  Item: 0 weapon_melee
+[Sat Oct 15 14:28:40 2016]  ClientDisconnect: 0
+[Tue Oct 18 12:36:58 2016]  ClientConnect: 0
+[Tue Oct 18 12:36:58 2016]  mlog:Player ^8n!k^9^4!ta, connected. With IP - 128.70.234.204:29070 
+[Tue Oct 18 12:37:26 2016]  ClientBegin: 0
+[Tue Oct 18 12:38:53 2016]  ClientDisconnect: 0
+[Wed Oct 19 11:50:22 2016]  ClientConnect: 0
+[Wed Oct 19 11:50:22 2016]  mlog:Player ^0n!k^4!ta, connected. With IP - 37.147.81.81:29070 
+[Wed Oct 19 11:50:39 2016]  ClientBegin: 0
+[Wed Oct 19 11:53:27 2016]  ClientDisconnect: 0
+[Wed Oct 19 11:56:47 2016]  ClientConnect: 0
+[Wed Oct 19 11:56:47 2016]  mlog:Player ^0n!k^4!ta, connected. With IP - 37.147.81.81:29070 
+[Wed Oct 19 11:56:59 2016]  ClientBegin: 0
+[Wed Oct 19 12:26:30 2016]  Kill: 1022 0 38: <world> killed ^0n!k^3^4!ta by MOD_FALLING
+[Wed Oct 19 12:43:29 2016]  say: ^0n!k^3^4!ta: эй а што это?
+[Wed Oct 19 12:43:35 2016]  say: ^0n!k^3^4!ta: это?
+[Wed Oct 19 12:43:39 2016]  say: ^0n!k^3^4!ta: да
+[Wed Oct 19 12:43:57 2016]  say: ^0n!k^3^4!ta: карабл новова пакалени€
+[Wed Oct 19 12:44:23 2016]  say: ^0n!k^3^4!ta: а можна в нутр загленуть???
+[Wed Oct 19 12:44:32 2016]  say: ^0n!k^3^4!ta: да можна замной
+[Wed Oct 19 12:45:11 2016]  say: ^0n!k^3^4!ta: € за вами не успеваю
+[Wed Oct 19 12:45:23 2016]  say: ^0n!k^3^4!ta: иди по лесенце и предеш
+[Wed Oct 19 12:45:38 2016]  say: ^0n!k^3^4!ta: харашо
+[Wed Oct 19 12:45:47 2016]  say: ^0n!k^3^4!ta: эй ктонибуть!!
+[Wed Oct 19 12:45:55 2016]  say: ^0n!k^3^4!ta: бах!!
+[Wed Oct 19 12:46:04 2016]  say: ^0n!k^3^4!ta: ты дашол
+[Wed Oct 19 12:46:09 2016]  say: ^0n!k^3^4!ta: да
+[Wed Oct 19 12:46:11 2016]  ClientConnect: 1
+[Wed Oct 19 12:46:11 2016]  mlog:Player Padawan, connected. With IP - 85.192.169.8:6411 
+[Wed Oct 19 12:46:51 2016]  ClientBegin: 1
+[Wed Oct 19 12:47:30 2016]  say: ^0n!k^3^4!ta: ку
+[Wed Oct 19 12:47:35 2016]  ClientDisconnect: 1
+[Wed Oct 19 12:47:38 2016]  say: ^0n!k^3^4!ta: замной
+[Wed Oct 19 12:47:48 2016]  Kill: 0 0 39: ^0n!k^3^4!ta killed ^0n!k^3^4!ta by MOD_SUICIDE
+[Wed Oct 19 12:47:48 2016]  setteam:  0 FREE SPECTATOR
+[Wed Oct 19 12:47:48 2016]  ClientBegin: 0
+[Wed Oct 19 12:48:03 2016]  setteam:  0 SPECTATOR FREE
+[Wed Oct 19 12:48:03 2016]  ClientBegin: 0
+[Wed Oct 19 12:50:16 2016]  ClientDisconnect: 0
+[Wed Oct 19 12:51:14 2016]  ClientConnect: 0
+[Wed Oct 19 12:51:14 2016]  mlog:Player ^0n!k^3^4!ta, connected. With IP - 37.147.81.81:29070 
+[Wed Oct 19 12:51:25 2016]  ClientBegin: 0
+[Wed Oct 19 12:51:41 2016]  ClientDisconnect: 0
+[Wed Oct 19 16:25:30 2016]  ClientConnect: 0
+[Wed Oct 19 16:25:30 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.132.11:29070 
+[Wed Oct 19 16:25:53 2016]  ClientBegin: 0
+[Wed Oct 19 16:26:01 2016]  Item: 0 weapon_melee
+[Wed Oct 19 16:29:30 2016]  ClientDisconnect: 0
+[Thu Oct 20 20:47:46 2016]  ClientConnect: 0
+[Thu Oct 20 20:47:46 2016]  mlog:Player ^1M^7r ^1–^7innertime, connected. With IP - 109.159.187.210:29070 
+[Thu Oct 20 20:48:01 2016]  ClientBegin: 0
+[Thu Oct 20 21:09:03 2016]  ClientDisconnect: 0
+[Fri Oct 21 10:08:04 2016]  ClientConnect: 0
+[Fri Oct 21 10:08:05 2016]  mlog:Player ^0n!k^4ita, connected. With IP - 37.147.81.81:29070 
+[Fri Oct 21 10:08:22 2016]  ClientBegin: 0
+[Fri Oct 21 10:08:40 2016]  ClientDisconnect: 0
+[Fri Oct 21 10:08:40 2016]  ClientDisconnect: 0
+[Fri Oct 21 10:08:40 2016]  ClientConnect: 0
+[Fri Oct 21 10:08:40 2016]  mlog:Player ^0n!k^3^4!ta, connected. With IP - 37.147.81.81:29070 
+[Fri Oct 21 10:08:51 2016]  ClientBegin: 0
+[Fri Oct 21 10:10:19 2016]  ClientDisconnect: 0
+[Fri Oct 21 10:10:36 2016]  ClientConnect: 0
+[Fri Oct 21 10:10:36 2016]  mlog:Player ^0n!k^3^4!ta, connected. With IP - 37.147.81.81:29070 
+[Fri Oct 21 10:10:47 2016]  ClientBegin: 0
+[Fri Oct 21 10:15:52 2016]  say: ^0n!k^3^4!ta: л€ л€ л€
+[Fri Oct 21 10:19:04 2016]  say: ^0n!k^3^4!ta: mkillall
+[Fri Oct 21 10:19:09 2016]  say: ^0n!k^3^4!ta: /mkillall
+[Fri Oct 21 10:22:59 2016]  say: ^0n!k^3^4!ta: mkill all
+[Fri Oct 21 10:23:39 2016]  say: ^0n!k^3^4!ta: mkill all
+[Fri Oct 21 11:07:10 2016]  ClientDisconnect: 0

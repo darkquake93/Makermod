@@ -1,0 +1,1214 @@
+[Sun Oct 18 15:17:01 2015]  ------------------------------------------------------------
+[Sun Oct 18 15:17:01 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Oct 18 20:18:37 2015]  ClientConnect: 0
+[Sun Oct 18 20:18:37 2015]  mlog:Player ^7»^0Exo^1Р^0us^7«, connected. With IP - 64.111.243.214:29070 
+[Sun Oct 18 20:19:20 2015]  ClientBegin: 0
+[Sun Oct 18 20:22:50 2015]  ClientConnect: 1
+[Sun Oct 18 20:22:50 2015]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Sun Oct 18 20:23:08 2015]  ClientBegin: 1
+[Sun Oct 18 20:23:24 2015]  say: ^0Раrk^2^1Qµаkи: I should change the motd :p
+[Sun Oct 18 20:23:35 2015]  say: ^7»^0Exo^1Р^0us^7«: yeah, been quite a few years since proxymod, lol.
+[Sun Oct 18 20:24:36 2015]  say: ^7»^0Exo^1Р^0us^7«: precaching the models to reduce lag, don't mind me.
+[Sun Oct 18 20:25:09 2015]  say: ^0Раrk^2^1Qµаkи: brb, I'm gonna script some stuff
+[Sun Oct 18 20:25:12 2015]  say: ^7»^0Exo^1Р^0us^7«: aight
+[Sun Oct 18 20:26:37 2015]  say: ^0Раrk^2^1Qµаkи: when you said been a few years since Proxymod which message were you referring to?
+[Sun Oct 18 20:26:58 2015]  say: ^7»^0Exo^1Р^0us^7«: spior unbanning you, lel.
+[Sun Oct 18 20:27:09 2015]  say: ^0Раrk^2^1Qµаkи: oh right :p Yeah thought so
+[Sun Oct 18 20:27:35 2015]  say: ^7»^0Exo^1Р^0us^7«: christ this ping.
+[Sun Oct 18 20:27:41 2015]  ClientConnect: 2
+[Sun Oct 18 20:27:41 2015]  mlog:Player Padawan, connected. With IP - 88.18.110.85:29070 
+[Sun Oct 18 20:27:41 2015]  say: ^7»^0Exo^1Р^0us^7«: where are you stationed, again?
+[Sun Oct 18 20:28:04 2015]  ClientBegin: 2
+[Sun Oct 18 20:28:23 2015]  say: ^0Раrk^2^1Qµаkи: oh sorry, I'm in the UK
+[Sun Oct 18 20:28:29 2015]  say: ^7»^0Exo^1Р^0us^7«: ah, that explains it.
+[Sun Oct 18 20:28:29 2015]  say: Padawan: hi
+[Sun Oct 18 20:28:32 2015]  say: ^7»^0Exo^1Р^0us^7«: sup
+[Sun Oct 18 20:28:36 2015]  say: Padawan: im back
+[Sun Oct 18 20:28:45 2015]  say: Padawan: for 3 years afk from jka
+[Sun Oct 18 20:28:56 2015]  ClientConnect: 3
+[Sun Oct 18 20:28:56 2015]  mlog:Player ^4Jragonmaster, connected. With IP - 64.111.243.214:-19571 
+[Sun Oct 18 20:28:57 2015]  say: Padawan: someone can tell me the comands for net etc?
+[Sun Oct 18 20:29:00 2015]  say: ^7»^0Exo^1Р^0us^7«: and who are you?
+[Sun Oct 18 20:29:06 2015]  say: ^7»^0Exo^1Р^0us^7«: i might know you, depending.
+[Sun Oct 18 20:29:09 2015]  say: ^0Раrk^2^1Qµаkи: Proxy?
+[Sun Oct 18 20:29:17 2015]  say: ^0Раrk^2^1Qµаkи: there was a hacker a while back lol
+[Sun Oct 18 20:29:18 2015]  say: Padawan: i was in LJ
+[Sun Oct 18 20:29:23 2015]  say: Padawan: in 2006
+[Sun Oct 18 20:29:25 2015]  ClientBegin: 3
+[Sun Oct 18 20:29:27 2015]  say: ^7»^0Exo^1Р^0us^7«: eh, wouldn't know lj, i was a loner
+[Sun Oct 18 20:29:42 2015]  say: Padawan: i startd to play in 2006
+[Sun Oct 18 20:29:47 2015]  say: ^4Jragonmaster: oh hey its darquake xP
+[Sun Oct 18 20:29:49 2015]  say: Padawan: do yoy remember olts?
+[Sun Oct 18 20:29:53 2015]  say: ^0Раrk^2^1Qµаkи: hi ^^
+[Sun Oct 18 20:29:54 2015]  say: ^7»^0Exo^1Р^0us^7«: olts?
+[Sun Oct 18 20:29:55 2015]  say: Padawan: OLTS CLAN?
+[Sun Oct 18 20:29:58 2015]  say: ^7»^0Exo^1Р^0us^7«: nej.
+[Sun Oct 18 20:30:05 2015]  say: ^7»^0Exo^1Р^0us^7«: they weren't that up there
+[Sun Oct 18 20:30:15 2015]  say: ^4Jragonmaster: exodus and i saw your site and we were curious
+[Sun Oct 18 20:30:16 2015]  say: Padawan: what old are u?
+[Sun Oct 18 20:30:21 2015]  say: ^7»^0Exo^1Р^0us^7«: 20
+[Sun Oct 18 20:30:31 2015]  say: Padawan: good
+[Sun Oct 18 20:30:34 2015]  say: Padawan: i forgot all
+[Sun Oct 18 20:30:36 2015]  say: Padawan: the comands
+[Sun Oct 18 20:30:42 2015]  say: Padawan: for the ping
+[Sun Oct 18 20:30:45 2015]  say: Padawan: etc etc
+[Sun Oct 18 20:30:48 2015]  say: ^7»^0Exo^1Р^0us^7«: rate 4000
+[Sun Oct 18 20:30:56 2015]  say: Padawan: yes
+[Sun Oct 18 20:31:02 2015]  say: Padawan: say me all :D
+[Sun Oct 18 20:31:21 2015]  say: Padawan: fot the fps
+[Sun Oct 18 20:31:27 2015]  say: ^7»^0Exo^1Р^0us^7«: snaps 4000
+[Sun Oct 18 20:31:31 2015]  say: ^7»^0Exo^1Р^0us^7«: uh... com_maxfps
+[Sun Oct 18 20:31:40 2015]  Kill: 0 2 36: ^7»^0Exo^1Р^0us^7« killed Padawan by MOD_CRUSH
+[Sun Oct 18 20:31:40 2015]  Kill: 0 1 36: ^7»^0Exo^1Р^0us^7« killed ^0Раrk^2^1Qµаkи by MOD_CRUSH
+[Sun Oct 18 20:31:43 2015]  say: ^7»^0Exo^1Р^0us^7«: fuck x.x
+[Sun Oct 18 20:31:49 2015]  say: ^7»^0Exo^1Р^0us^7«: forgot the range on that one.
+[Sun Oct 18 20:31:51 2015]  say: ^7»^0Exo^1Р^0us^7«: ..
+[Sun Oct 18 20:31:55 2015]  say: Padawan: np
+[Sun Oct 18 20:32:00 2015]  Kill: 0 3 0: ^7»^0Exo^1Р^0us^7« killed ^4Jragonmaster by MOD_UNKNOWN
+[Sun Oct 18 20:32:26 2015]  Kill: 1022 1 36: <world> killed ^0Раrk^2^1Qµаkи by MOD_CRUSH
+[Sun Oct 18 20:32:26 2015]  Kill: 1022 2 36: <world> killed Padawan by MOD_CRUSH
+[Sun Oct 18 20:32:41 2015]  say: Padawan: more comands?
+[Sun Oct 18 20:32:52 2015]  say: ^7»^0Exo^1Р^0us^7«: that's mostly all the client fps and ping cmd.s
+[Sun Oct 18 20:32:59 2015]  say: Padawan: for the rest things
+[Sun Oct 18 20:33:03 2015]  say: Padawan: sensivility
+[Sun Oct 18 20:33:03 2015]  say: ^7»^0Exo^1Р^0us^7«: /minfo
+[Sun Oct 18 20:33:07 2015]  Kill: 1 2 36: ^0Раrk^2^1Qµаkи killed Padawan by MOD_CRUSH
+[Sun Oct 18 20:33:07 2015]  Kill: 1 3 0: ^0Раrk^2^1Qµаkи killed ^4Jragonmaster by MOD_UNKNOWN
+[Sun Oct 18 20:33:14 2015]  say: ^7»^0Exo^1Р^0us^7«: for client, use the esc menu
+[Sun Oct 18 20:33:25 2015]  say: ^7»^0Exo^1Р^0us^7«: gl killing me, btw, lol.
+[Sun Oct 18 20:33:39 2015]  say: ^0Раrk^2^1Qµаkи: haha my script is crap compared to others :p
+[Sun Oct 18 20:33:47 2015]  say: ^0Раrk^2^1Qµаkи: I scripted this though
+[Sun Oct 18 20:33:51 2015]  say: ^7»^0Exo^1Р^0us^7«: oh yeah, weren't you the maker of element?
+[Sun Oct 18 20:33:59 2015]  say: ^7»^0Exo^1Р^0us^7«: yep
+[Sun Oct 18 20:34:00 2015]  say: ^0Раrk^2^1Qµаkи: yeah :)
+[Sun Oct 18 20:34:02 2015]  say: ^7»^0Exo^1Р^0us^7«: that's element x.x
+[Sun Oct 18 20:34:04 2015]  say: ^0Раrk^2^1Qµаkи: I'm working on EV3
+[Sun Oct 18 20:34:28 2015]  say: ^7»^0Exo^1Р^0us^7«: do you need a good reference for optimization? i've noticed a lot of issues with your old ones lol.
+[Sun Oct 18 20:34:35 2015]  say: ^0Раrk^2^1Qµаkи: oh yeah I gotta make fire balls now
+[Sun Oct 18 20:34:43 2015]  say: ^0Раrk^2^1Qµаkи: yes please, any tips would be awesome
+[Sun Oct 18 20:34:52 2015]  Kill: 2 3 3: Padawan killed ^4Jragonmaster by MOD_SABER
+[Sun Oct 18 20:34:52 2015]  say: ^7»^0Exo^1Р^0us^7«: lemme give you some of my reference materials.
+[Sun Oct 18 20:34:55 2015]  say: ^4Jragonmaster: gg
+[Sun Oct 18 20:34:56 2015]  say: ^7»^0Exo^1Р^0us^7«: i'll upload via dropbox.
+[Sun Oct 18 20:34:56 2015]  say: Padawan: gg
+[Sun Oct 18 20:35:01 2015]  say: ^0Раrk^2^1Qµаkи: cool, thx
+[Sun Oct 18 20:35:03 2015]  say: ^4Jragonmaster: not used to saberlock in MP
+[Sun Oct 18 20:35:09 2015]  say: Padawan: so rare this server
+[Sun Oct 18 20:35:14 2015]  say: Padawan: i play in base jka
+[Sun Oct 18 20:35:57 2015]  Kill: 2 3 3: Padawan killed ^4Jragonmaster by MOD_SABER
+[Sun Oct 18 20:36:00 2015]  say: ^7»^0Exo^1Р^0us^7«: i hope you understand why there'll be a limited amount, some of these scripts are personal or far too overpowered since they use bugs or plugins.
+[Sun Oct 18 20:36:04 2015]  say: Padawan: i dont forget how plauy
+[Sun Oct 18 20:36:06 2015]  say: Padawan: :d
+[Sun Oct 18 20:36:08 2015]  say: ^7»^0Exo^1Р^0us^7«: overpowered since they use bugs or plugins
+[Sun Oct 18 20:36:24 2015]  say: ^4Jragonmaster: that saberlock seriously throws me off lol
+[Sun Oct 18 20:37:29 2015]  say: Padawan: anyone want duel?
+[Sun Oct 18 20:37:36 2015]  say: Padawan: im so happy for be back
+[Sun Oct 18 20:37:49 2015]  say: ^4Jragonmaster: whats yourname?
+[Sun Oct 18 20:38:06 2015]  say: ^4Jragonmaster: besides padawan
+[Sun Oct 18 20:38:08 2015]  say: Padawan: my name in jk was Drako
+[Sun Oct 18 20:38:08 2015]  say: ^7»^0Exo^1Р^0us^7«: omg dropbox is so slow atm.
+[Sun Oct 18 20:38:19 2015]  say: Padawan: this wass the firstone nick
+[Sun Oct 18 20:38:20 2015]  say: ^4Jragonmaster: hmm
+[Sun Oct 18 20:38:21 2015]  say: Padawan: i change so much
+[Sun Oct 18 20:38:27 2015]  say: ^4Jragonmaster: interesting
+[Sun Oct 18 20:38:35 2015]  say: ^4Jragonmaster: it somewhat sounds familiar
+[Sun Oct 18 20:39:08 2015]  Kill: 2 3 3: Padawan killed ^4Jragonmaster by MOD_SABER
+[Sun Oct 18 20:39:11 2015]  say: Padawan: gg
+[Sun Oct 18 20:39:15 2015]  say: ^7»^0Exo^1Р^0us^7«: there.
+[Sun Oct 18 20:39:27 2015]  say: ^4Jragonmaster: uhhg screw dueling, ive never had to deal with saberlocking before
+[Sun Oct 18 20:39:27 2015]  Kill: 0 2 36: ^7»^0Exo^1Р^0us^7« killed Padawan by MOD_CRUSH
+[Sun Oct 18 20:39:31 2015]  say: Padawan: ?
+[Sun Oct 18 20:39:46 2015]  print "Padawan^7 @@@PLRENAME Xcese
+"[Sun Oct 18 20:39:51 2015]  say: ^4Jragonmaster: ^0Black^1dragon^3 ^7Beginning ^3script by ^1THE ^7»^0Exo^1Р^0us^7«^3!!
+[Sun Oct 18 20:39:53 2015]  say: Xcese: this is mi nick now in LOL
+[Sun Oct 18 20:40:58 2015]  say: Xcese: why cant i duel?
+[Sun Oct 18 20:41:12 2015]  say: Xcese: bye and thx for all
+[Sun Oct 18 20:41:15 2015]  say: Xcese: see ya
+[Sun Oct 18 20:41:18 2015]  ClientDisconnect: 2
+[Sun Oct 18 20:41:18 2015]  say: ^7»^0Exo^1Р^0us^7«: cya
+[Sun Oct 18 20:43:43 2015]  ClientConnect: 2
+[Sun Oct 18 20:43:43 2015]  mlog:Player Black Robe, connected. With IP - 178.121.127.107:19220 
+[Sun Oct 18 20:44:23 2015]  ClientBegin: 2
+[Sun Oct 18 20:44:26 2015]  say: колдун: hi
+[Sun Oct 18 20:44:29 2015]  say: ^4Jragonmaster: hello
+[Sun Oct 18 20:44:44 2015]  say: ^4Jragonmaster: interesting name
+[Sun Oct 18 20:44:44 2015]  Kill: 0 2 0: ^7»^0Exo^1Р^0us^7« killed колдун by MOD_UNKNOWN
+[Sun Oct 18 20:44:52 2015]  say: колдун: (
+[Sun Oct 18 20:45:30 2015]  Kill: 3 2 5: ^4Jragonmaster killed колдун by MOD_BRYAR_PISTOL_ALT
+[Sun Oct 18 20:45:36 2015]  say: ^4Jragonmaster: XD
+[Sun Oct 18 20:45:42 2015]  Kill: 0 2 36: ^7»^0Exo^1Р^0us^7« killed колдун by MOD_CRUSH
+[Sun Oct 18 20:45:42 2015]  Kill: 0 3 36: ^7»^0Exo^1Р^0us^7« killed ^4Jragonmaster by MOD_CRUSH
+[Sun Oct 18 20:46:01 2015]  say: ^4Jragonmaster: Protect me!!
+[Sun Oct 18 20:46:01 2015]  Kill: 3 2 36: ^4Jragonmaster killed колдун by MOD_CRUSH
+[Sun Oct 18 20:46:06 2015]  say: колдун: wtf
+[Sun Oct 18 20:46:13 2015]  say: ^7»^0Exo^1Р^0us^7«: welcome to makermod
+[Sun Oct 18 20:46:19 2015]  say: ^7»^0Exo^1Р^0us^7«: the source for all your superpower needs.
+[Sun Oct 18 20:46:26 2015]  say: колдун: give pls super power 
+[Sun Oct 18 20:46:29 2015]  say: ^7»^0Exo^1Р^0us^7«: without admin x3
+[Sun Oct 18 20:46:39 2015]  say: ^0Раrk^2^1Qµаkи: alright gotta go guys, sorry :(
+[Sun Oct 18 20:46:44 2015]  say: ^7»^0Exo^1Р^0us^7«: cya mang
+[Sun Oct 18 20:46:44 2015]  say: ^4Jragonmaster: waii
+[Sun Oct 18 20:46:46 2015]  say: ^0Раrk^2^1Qµаkи: we're gonna watch The Boosh lol
+[Sun Oct 18 20:46:50 2015]  say: ^0Раrk^2^1Qµаkи: enjoy the server :)
+[Sun Oct 18 20:46:55 2015]  say: ^4Jragonmaster: Protect me!!
+[Sun Oct 18 20:46:55 2015]  Kill: 3 2 36: ^4Jragonmaster killed колдун by MOD_CRUSH
+[Sun Oct 18 20:47:05 2015]  Kill: 1022 1 36: <world> killed ^0Раrk^2^1Qµаkи by MOD_CRUSH
+[Sun Oct 18 20:47:11 2015]  ClientDisconnect: 1
+[Sun Oct 18 20:47:12 2015]  say: колдун: give pls
+[Sun Oct 18 20:47:22 2015]  say: ^7»^0Exo^1Р^0us^7«: i can give you one ability.
+[Sun Oct 18 20:48:11 2015]  say: ^7»^0Exo^1Р^0us^7«: eieaoi, put this in console:
+[Sun Oct 18 20:48:20 2015]  say: ^7»^0Exo^1Р^0us^7«: bind <key> '' manim both_forcegrip1
+[Sun Oct 18 20:48:23 2015]  say: ^7»^0Exo^1Р^0us^7«: ffs.
+[Sun Oct 18 20:48:25 2015]  say: ^7»^0Exo^1Р^0us^7«: hold.
+[Sun Oct 18 20:49:10 2015]  say: ^7»^0Exo^1Р^0us^7«: hmph, i cant seem to just say it in console, lemme upload it.
+[Sun Oct 18 20:49:11 2015]  say: колдун: (
+[Sun Oct 18 20:50:36 2015]  say: ^7»^0Exo^1Р^0us^7«: trying to upload.
+[Sun Oct 18 20:50:37 2015]  say: колдун: wtf
+[Sun Oct 18 20:51:37 2015]  Kill: 1022 2 0: <world> killed колдун by MOD_UNKNOWN
+[Sun Oct 18 20:52:01 2015]  Kill: 0 2 10: ^7»^0Exo^1Р^0us^7« killed колдун by MOD_DISRUPTOR_SNIPER
+[Sun Oct 18 20:52:05 2015]  say: колдун: ok
+[Sun Oct 18 20:52:10 2015]  say: колдун: helpusobi 1
+[Sun Oct 18 20:52:15 2015]  say: ^7»^0Exo^1Р^0us^7«: not going to work here
+[Sun Oct 18 20:52:16 2015]  say: колдун: helpusobi 1
+[Sun Oct 18 20:52:19 2015]  say: ^7»^0Exo^1Р^0us^7«: that's singleplayer.
+[Sun Oct 18 20:52:28 2015]  say: колдун: (
+[Sun Oct 18 20:52:50 2015]  Kill: 2 3 3: колдун killed ^4Jragonmaster by MOD_SABER
+[Sun Oct 18 20:52:52 2015]  say: колдун: HA
+[Sun Oct 18 20:53:11 2015]  say: колдун: give superpower pls
+[Sun Oct 18 20:53:19 2015]  say: ^7»^0Exo^1Р^0us^7«: eieaoi, go here: https:
+[Sun Oct 18 20:53:21 2015]  say: ^7»^0Exo^1Р^0us^7«: ffs.
+[Sun Oct 18 20:53:29 2015]  say: ^7»^0Exo^1Р^0us^7«: eieaoi, go here: www.sendspace.com/file/1hoaji
+[Sun Oct 18 20:53:31 2015]  print "колдун^7 @@@PLRENAME koldun
+"[Sun Oct 18 20:53:38 2015]  say: koldun: and
+[Sun Oct 18 20:53:41 2015]  Kill: 3 2 5: ^4Jragonmaster killed koldun by MOD_BRYAR_PISTOL_ALT
+[Sun Oct 18 20:53:53 2015]  say: ^7»^0Exo^1Р^0us^7«: then put the .cfg in your lucasarts/jka/gamedata/makermod folder
+[Sun Oct 18 20:54:01 2015]  say: ^7»^0Exo^1Р^0us^7«: then in-game, do /exec useme
+[Sun Oct 18 20:54:06 2015]  say: ^7»^0Exo^1Р^0us^7«: no need to restart
+[Sun Oct 18 20:55:31 2015]  say: koldun: ok
+[Sun Oct 18 20:55:33 2015]  ClientDisconnect: 2
+[Sun Oct 18 20:57:51 2015]  ClientConnect: 1
+[Sun Oct 18 20:57:51 2015]  mlog:Player ^0the ghosts k^4a^0sme, connected. With IP - 89.166.56.251:-3938 
+[Sun Oct 18 20:58:07 2015]  ClientBegin: 1
+[Sun Oct 18 20:58:09 2015]  ClientDisconnect: 1
+[Sun Oct 18 20:58:23 2015]  ClientConnect: 1
+[Sun Oct 18 20:58:23 2015]  mlog:Player ^0the ghosts k^4a^0sme, connected. With IP - 89.166.56.251:-3938 
+[Sun Oct 18 20:58:30 2015]  ClientBegin: 1
+[Sun Oct 18 20:58:30 2015]  ClientDisconnect: 1
+[Sun Oct 18 21:02:09 2015]  ClientConnect: 1
+[Sun Oct 18 21:02:09 2015]  mlog:Player Padawan, connected. With IP - 178.121.127.107:-8328 
+[Sun Oct 18 21:02:54 2015]  ClientBegin: 1
+[Sun Oct 18 21:03:02 2015]  say: ^7»^0Exo^1Р^0us^7«: do /exec useme
+[Sun Oct 18 21:03:04 2015]  say: koldun: i'm download script
+[Sun Oct 18 21:03:09 2015]  say: koldun: no sendspace 
+[Sun Oct 18 21:03:12 2015]  say: koldun: 404 
+[Sun Oct 18 21:03:16 2015]  say: ^7»^0Exo^1Р^0us^7«: augh
+[Sun Oct 18 21:03:21 2015]  say: koldun: gamefront 
+[Sun Oct 18 21:03:25 2015]  say: ^7»^0Exo^1Р^0us^7«: www.sendspace.com/file/1hoaji
+[Sun Oct 18 21:03:31 2015]  say: ^7»^0Exo^1Р^0us^7«: try it agian
+[Sun Oct 18 21:03:32 2015]  say: koldun: oh!
+[Sun Oct 18 21:03:32 2015]  say: ^7»^0Exo^1Р^0us^7«: :P
+[Sun Oct 18 21:03:40 2015]  say: koldun: i'm 1hoji
+[Sun Oct 18 21:03:45 2015]  ClientDisconnect: 1
+[Sun Oct 18 21:05:54 2015]  ClientConnect: 1
+[Sun Oct 18 21:05:54 2015]  mlog:Player Padawan, connected. With IP - 178.121.127.107:2592 
+[Sun Oct 18 21:06:48 2015]  ClientBegin: 1
+[Sun Oct 18 21:06:51 2015]  say: koldun: нуы
+[Sun Oct 18 21:06:52 2015]  say: koldun: yes
+[Sun Oct 18 21:06:54 2015]  say: ^7»^0Exo^1Р^0us^7«: got it?
+[Sun Oct 18 21:06:55 2015]  say: koldun: download
+[Sun Oct 18 21:07:06 2015]  say: ^7»^0Exo^1Р^0us^7«: epic, did you put it in gamedata/makermod?
+[Sun Oct 18 21:07:14 2015]  say: koldun: yes
+[Sun Oct 18 21:07:21 2015]  say: ^7»^0Exo^1Р^0us^7«: alrighty, do /exec useme
+[Sun Oct 18 21:07:39 2015]  say: koldun: and
+[Sun Oct 18 21:07:45 2015]  say: ^7»^0Exo^1Р^0us^7«: just that
+[Sun Oct 18 21:07:47 2015]  say: ^7»^0Exo^1Р^0us^7«: o_O
+[Sun Oct 18 21:07:51 2015]  say: ^7»^0Exo^1Р^0us^7«: in console
+[Sun Oct 18 21:07:54 2015]  say: koldun: command usege
+[Sun Oct 18 21:07:59 2015]  say: koldun: manim
+[Sun Oct 18 21:08:01 2015]  say: koldun: id
+[Sun Oct 18 21:08:04 2015]  say: ^7»^0Exo^1Р^0us^7«: ffs.
+[Sun Oct 18 21:08:07 2015]  say: ^7»^0Exo^1Р^0us^7«: uh..
+[Sun Oct 18 21:08:10 2015]  say: ^7»^0Exo^1Р^0us^7«: frack.
+[Sun Oct 18 21:08:52 2015]  say: koldun: noclip
+[Sun Oct 18 21:08:53 2015]  say: ^7»^0Exo^1Р^0us^7«: go into the cfg with notepad, and remove the quotations
+[Sun Oct 18 21:09:03 2015]  ClientDisconnect: 1
+[Sun Oct 18 21:09:03 2015]  say: ^7»^0Exo^1Р^0us^7«: you dont need to quit the game.
+[Sun Oct 18 21:10:13 2015]  Kill: 1022 3 38: <world> killed ^4Jragonmaster by MOD_FALLING
+[Sun Oct 18 21:10:35 2015]  ClientConnect: 1
+[Sun Oct 18 21:10:35 2015]  mlog:Player Padawan, connected. With IP - 178.121.127.107:2592 
+[Sun Oct 18 21:11:21 2015]  ClientBegin: 1
+[Sun Oct 18 21:11:27 2015]  say: koldun: ping.cfg
+[Sun Oct 18 21:11:28 2015]  Kill: 1022 3 36: <world> killed ^4Jragonmaster by MOD_CRUSH
+[Sun Oct 18 21:11:36 2015]  say: ^7»^0Exo^1Р^0us^7«: do /exec useme
+[Sun Oct 18 21:11:38 2015]  say: ^7»^0Exo^1Р^0us^7«: in console
+[Sun Oct 18 21:11:46 2015]  say: ^7»^0Exo^1Р^0us^7«: like singleplayer cheat
+[Sun Oct 18 21:12:02 2015]  say: koldun: and
+[Sun Oct 18 21:12:09 2015]  say: koldun: /exec ping.cfg
+[Sun Oct 18 21:12:15 2015]  say: ^7»^0Exo^1Р^0us^7«: no, useme.cfg
+[Sun Oct 18 21:12:19 2015]  say: ^7»^0Exo^1Р^0us^7«: unless you renamed it
+[Sun Oct 18 21:12:19 2015]  say: koldun: oh
+[Sun Oct 18 21:12:21 2015]  ClientDisconnect: 1
+[Sun Oct 18 21:12:46 2015]  ClientDisconnect: 3
+[Sun Oct 18 21:12:46 2015]  ClientConnect: 3
+[Sun Oct 18 21:12:46 2015]  mlog:Player ^4Jragonmaster, connected. With IP - 64.111.243.214:-19571 
+[Sun Oct 18 21:13:07 2015]  ClientConnect: 1
+[Sun Oct 18 21:13:07 2015]  mlog:Player Padawan, connected. With IP - 178.121.127.107:2592 
+[Sun Oct 18 21:13:11 2015]  ClientBegin: 3
+[Sun Oct 18 21:14:01 2015]  ClientBegin: 1
+[Sun Oct 18 21:14:09 2015]  say: ^7»^0Exo^1Р^0us^7«: koldun, you don't have to restart for a .cfg
+[Sun Oct 18 21:14:26 2015]  say: ^7»^0Exo^1Р^0us^7«: now just do /exec useme
+[Sun Oct 18 21:14:26 2015]  say: koldun: name useme.cfg
+[Sun Oct 18 21:14:38 2015]  say: koldun: and
+[Sun Oct 18 21:14:41 2015]  say: ^7»^0Exo^1Р^0us^7«: just /exec useme
+[Sun Oct 18 21:14:45 2015]  say: ^7»^0Exo^1Р^0us^7«: like a cheat
+[Sun Oct 18 21:14:51 2015]  say: koldun: and
+[Sun Oct 18 21:14:59 2015]  say: ^7»^0Exo^1Р^0us^7«: just that ._.
+[Sun Oct 18 21:15:03 2015]  say: ^7»^0Exo^1Р^0us^7«: /exec useme
+[Sun Oct 18 21:15:11 2015]  say: koldun: couldn
+[Sun Oct 18 21:15:13 2015]  say: koldun: 't
+[Sun Oct 18 21:15:18 2015]  say: ^7»^0Exo^1Р^0us^7«: couldn't what?
+[Sun Oct 18 21:15:23 2015]  say: koldun: exec useme
+[Sun Oct 18 21:15:31 2015]  say: ^7»^0Exo^1Р^0us^7«: did you rename it?
+[Sun Oct 18 21:15:33 2015]  say: koldun: yes
+[Sun Oct 18 21:15:36 2015]  say: koldun: useme.cfg
+[Sun Oct 18 21:15:43 2015]  say: ^7»^0Exo^1Р^0us^7«: oh, try that then.
+[Sun Oct 18 21:15:45 2015]  say: ^7»^0Exo^1Р^0us^7«: /exec useme.cfg
+[Sun Oct 18 21:15:54 2015]  say: koldun: no
+[Sun Oct 18 21:16:10 2015]  say: ^7»^0Exo^1Р^0us^7«: just rename it again, as useme or w/e you want to name it
+[Sun Oct 18 21:16:15 2015]  say: ^7»^0Exo^1Р^0us^7«: like a text file
+[Sun Oct 18 21:16:19 2015]  say: ^7»^0Exo^1Р^0us^7«: AND DONT RESTART
+[Sun Oct 18 21:16:21 2015]  say: ^7»^0Exo^1Р^0us^7«: o_O
+[Sun Oct 18 21:16:29 2015]  say: koldun: no quit 
+[Sun Oct 18 21:16:35 2015]  say: ^7»^0Exo^1Р^0us^7«: no quit
+[Sun Oct 18 21:16:38 2015]  say: koldun: how 
+[Sun Oct 18 21:16:45 2015]  say: koldun: how rename and no quit 
+[Sun Oct 18 21:17:07 2015]  say: ^7»^0Exo^1Р^0us^7«: just do alt-tab
+[Sun Oct 18 21:17:10 2015]  say: ^7»^0Exo^1Р^0us^7«: and go to the file
+[Sun Oct 18 21:17:18 2015]  say: koldun: no 
+[Sun Oct 18 21:17:20 2015]  say: koldun: alt bind 
+[Sun Oct 18 21:17:27 2015]  say: ^7»^0Exo^1Р^0us^7«: just do alt+enter anyways
+[Sun Oct 18 21:17:36 2015]  say: koldun: alt =usepower
+[Sun Oct 18 21:17:38 2015]  say: ^7»^0Exo^1Р^0us^7«: i mean alt+tap
+[Sun Oct 18 21:17:40 2015]  say: ^7»^0Exo^1Р^0us^7«: tab*
+[Sun Oct 18 21:17:44 2015]  say: ^7»^0Exo^1Р^0us^7«: alt+tab
+[Sun Oct 18 21:17:47 2015]  say: koldun: no
+[Sun Oct 18 21:17:49 2015]  say: ^7»^0Exo^1Р^0us^7«: ffs.
+[Sun Oct 18 21:17:55 2015]  say: ^7»^0Exo^1Р^0us^7«: shift enter?
+[Sun Oct 18 21:18:00 2015]  say: koldun: no 
+[Sun Oct 18 21:18:07 2015]  say: ^7»^0Exo^1Р^0us^7«: try windowed mode
+[Sun Oct 18 21:18:23 2015]  say: koldun: i'm have raven  script naruto lightscripts
+[Sun Oct 18 21:18:31 2015]  say: koldun: how use 
+[Sun Oct 18 21:18:48 2015]  say: koldun: /exec useme no 
+[Sun Oct 18 21:18:55 2015]  say: ^7»^0Exo^1Р^0us^7«: try wait -1
+[Sun Oct 18 21:18:59 2015]  say: ^7»^0Exo^1Р^0us^7«: in console
+[Sun Oct 18 21:19:05 2015]  say: koldun: /wait -1?
+[Sun Oct 18 21:19:08 2015]  say: ^7»^0Exo^1Р^0us^7«: yeah
+[Sun Oct 18 21:19:16 2015]  say: ^7»^0Exo^1Р^0us^7«: gg.
+[Sun Oct 18 21:19:37 2015]  say: ^4Jragonmaster: did it work?
+[Sun Oct 18 21:19:42 2015]  say: ^7»^0Exo^1Р^0us^7«: perfectly =3
+[Sun Oct 18 21:20:14 2015]  print "koldun^7 @@@PLRENAME wtf
+"[Sun Oct 18 21:20:26 2015]  print "wtf^7 @@@PLRENAME help
+"[Sun Oct 18 21:20:39 2015]  print "help^7 @@@PLRENAME help pls
+"[Sun Oct 18 21:20:40 2015]  say: ^4Jragonmaster: whats wrong? o-o
+[Sun Oct 18 21:20:49 2015]  say: ^7»^0Exo^1Р^0us^7«: idk, he just kinda froze =3
+[Sun Oct 18 21:22:01 2015]  ClientConnect: 2
+[Sun Oct 18 21:22:01 2015]  mlog:Player Padawan, connected. With IP - 178.121.127.107:8635 
+[Sun Oct 18 21:22:10 2015]  ClientDisconnect: 2
+[Sun Oct 18 21:23:22 2015]  ClientConnect: 2
+[Sun Oct 18 21:23:22 2015]  mlog:Player Padawan, connected. With IP - 178.121.127.107:8635 
+[Sun Oct 18 21:23:31 2015]  ClientDisconnect: 2
+[Sun Oct 18 21:26:20 2015]  say: ^4Jragonmaster: ^0Black^1dragon^3 ^7Beginning ^3script by ^1THE ^7»^0Exo^1Р^0us^7«^3!!
+[Sun Oct 18 21:26:32 2015]  Kill: 0 3 36: ^7»^0Exo^1Р^0us^7« killed ^4Jragonmaster by MOD_CRUSH
+[Sun Oct 18 21:26:53 2015]  Kill: 0 3 36: ^7»^0Exo^1Р^0us^7« killed ^4Jragonmaster by MOD_CRUSH
+[Sun Oct 18 21:27:13 2015]  Kill: 3 3 39: ^4Jragonmaster killed ^4Jragonmaster by MOD_SUICIDE
+[Sun Oct 18 21:28:02 2015]  Kill: 0 3 36: ^7»^0Exo^1Р^0us^7« killed ^4Jragonmaster by MOD_CRUSH
+[Sun Oct 18 21:31:49 2015]  Kill: 1022 3 36: <world> killed ^4Jragonmaster by MOD_CRUSH
+[Sun Oct 18 21:32:25 2015]  ClientDisconnect: 1
+[Sun Oct 18 21:33:12 2015]  ClientDisconnect: 3
+[Sun Oct 18 21:35:14 2015]  ClientConnect: 1
+[Sun Oct 18 21:35:14 2015]  mlog:Player Padawan, connected. With IP - 178.121.106.51:29163 
+[Sun Oct 18 21:35:24 2015]  ClientDisconnect: 1
+[Sun Oct 18 21:37:38 2015]  ClientConnect: 1
+[Sun Oct 18 21:37:38 2015]  mlog:Player Padawan, connected. With IP - 178.121.106.51:27113 
+[Sun Oct 18 21:37:47 2015]  ClientDisconnect: 1
+[Sun Oct 18 21:40:05 2015]  ClientDisconnect: 0
+[Sun Oct 18 21:40:24 2015]  ClientConnect: 0
+[Sun Oct 18 21:40:24 2015]  mlog:Player ^7»^0Exo^1Р^0us^7«, connected. With IP - 64.111.243.214:29070 
+[Sun Oct 18 21:40:35 2015]  ClientBegin: 0
+[Sun Oct 18 21:42:48 2015]  say: ^7»^0Exo^1Р^0us^7«: mgrabbing
+[Sun Oct 18 21:55:28 2015]  ClientDisconnect: 0
+[Mon Oct 19 16:01:35 2015]  ClientConnect: 0
+[Mon Oct 19 16:01:35 2015]  mlog:Player Kasme, connected. With IP - 89.166.56.251:-3716 
+[Mon Oct 19 16:01:52 2015]  ClientBegin: 0
+[Mon Oct 19 16:01:53 2015]  ClientDisconnect: 0
+[Mon Oct 19 18:51:39 2015]  ClientConnect: 0
+[Mon Oct 19 18:51:39 2015]  mlog:Player Qui Gon Jinn, connected. With IP - 62.182.80.11:29070 
+[Mon Oct 19 18:51:42 2015]  ClientDisconnect: 0
+[Mon Oct 19 18:51:42 2015]  ClientConnect: 0
+[Mon Oct 19 18:51:42 2015]  mlog:Player Qui Gon Jinn, connected. With IP - 62.182.80.11:29070 
+[Mon Oct 19 18:51:55 2015]  ClientConnect: 1
+[Mon Oct 19 18:51:55 2015]  mlog:Player Padawan, connected. With IP - 178.121.191.114:-9476 
+[Mon Oct 19 18:52:07 2015]  ClientBegin: 0
+[Mon Oct 19 18:52:07 2015]  ClientDisconnect: 0
+[Mon Oct 19 18:52:39 2015]  ClientBegin: 1
+[Mon Oct 19 18:52:52 2015]  ClientDisconnect: 1
+[Mon Oct 19 20:41:56 2015]  ClientConnect: 0
+[Mon Oct 19 20:41:56 2015]  mlog:Player Feo, connected. With IP - 177.206.204.184:1024 
+[Mon Oct 19 20:41:57 2015]  ClientConnect: 1
+[Mon Oct 19 20:41:57 2015]  mlog:Player herobrine, connected. With IP - 177.206.204.184:29070 
+[Mon Oct 19 20:42:13 2015]  ClientBegin: 0
+[Mon Oct 19 20:42:19 2015]  ClientBegin: 1
+[Mon Oct 19 20:43:58 2015]  Kill: 0 1 3: Feo killed herobrine by MOD_SABER
+[Mon Oct 19 20:47:36 2015]  Kill: 0 1 3: Feo killed herobrine by MOD_SABER
+[Mon Oct 19 20:48:05 2015]  Kill: 1 0 5: herobrine killed Feo by MOD_BRYAR_PISTOL_ALT
+[Mon Oct 19 20:48:26 2015]  Kill: 1 0 3: herobrine killed Feo by MOD_SABER
+[Mon Oct 19 20:49:28 2015]  Kill: 1 0 3: herobrine killed Feo by MOD_SABER
+[Mon Oct 19 20:50:18 2015]  Kill: 0 1 3: Feo killed herobrine by MOD_SABER
+[Mon Oct 19 20:51:46 2015]  Kill: 0 1 3: Feo killed herobrine by MOD_SABER
+[Mon Oct 19 20:52:19 2015]  Kill: 1 0 5: herobrine killed Feo by MOD_BRYAR_PISTOL_ALT
+[Mon Oct 19 20:52:57 2015]  Kill: 1 0 3: herobrine killed Feo by MOD_SABER
+[Mon Oct 19 20:53:13 2015]  Kill: 0 1 3: Feo killed herobrine by MOD_SABER
+[Mon Oct 19 20:53:46 2015]  Kill: 0 1 3: Feo killed herobrine by MOD_SABER
+[Mon Oct 19 20:54:35 2015]  Kill: 0 1 4: Feo killed herobrine by MOD_BRYAR_PISTOL
+[Mon Oct 19 20:55:06 2015]  Kill: 1 0 3: herobrine killed Feo by MOD_SABER
+[Mon Oct 19 20:56:08 2015]  Kill: 1 0 3: herobrine killed Feo by MOD_SABER
+[Mon Oct 19 20:56:22 2015]  Kill: 0 1 3: Feo killed herobrine by MOD_SABER
+[Mon Oct 19 20:57:55 2015]  Kill: 1 0 3: herobrine killed Feo by MOD_SABER
+[Mon Oct 19 20:58:23 2015]  say: Feo: TTTTTSSSSSSSSSSSSS
+[Mon Oct 19 20:58:33 2015]  say: herobrine: dcc
+[Mon Oct 19 20:58:42 2015]  say: herobrine: vc ja era
+[Mon Oct 19 20:58:49 2015]  say: herobrine: eh o seu fim
+[Mon Oct 19 20:59:15 2015]  say: Feo: ADIMITE PAI SOU MAIS FORTE
+[Mon Oct 19 20:59:20 2015]  say: herobrine: entao venha
+[Mon Oct 19 21:00:07 2015]  Kill: 0 1 3: Feo killed herobrine by MOD_SABER
+[Mon Oct 19 21:00:46 2015]  Kill: 1 0 5: herobrine killed Feo by MOD_BRYAR_PISTOL_ALT
+[Mon Oct 19 21:01:17 2015]  Kill: 0 1 3: Feo killed herobrine by MOD_SABER
+[Mon Oct 19 21:02:08 2015]  Kill: 1 0 5: herobrine killed Feo by MOD_BRYAR_PISTOL_ALT
+[Mon Oct 19 21:03:04 2015]  Kill: 1 0 5: herobrine killed Feo by MOD_BRYAR_PISTOL_ALT
+[Mon Oct 19 21:03:30 2015]  Kill: 0 1 5: Feo killed herobrine by MOD_BRYAR_PISTOL_ALT
+[Mon Oct 19 21:05:05 2015]  Kill: 0 1 3: Feo killed herobrine by MOD_SABER
+[Mon Oct 19 21:05:42 2015]  Kill: 1 0 5: herobrine killed Feo by MOD_BRYAR_PISTOL_ALT
+[Mon Oct 19 21:06:00 2015]  Kill: 0 1 3: Feo killed herobrine by MOD_SABER
+[Mon Oct 19 21:06:46 2015]  Kill: 1 0 3: herobrine killed Feo by MOD_SABER
+[Mon Oct 19 21:07:11 2015]  Kill: 1 0 5: herobrine killed Feo by MOD_BRYAR_PISTOL_ALT
+[Mon Oct 19 21:07:34 2015]  Kill: 0 1 3: Feo killed herobrine by MOD_SABER
+[Mon Oct 19 21:09:30 2015]  Kill: 0 1 3: Feo killed herobrine by MOD_SABER
+[Mon Oct 19 21:10:08 2015]  ClientDisconnect: 0
+[Mon Oct 19 21:10:36 2015]  ClientDisconnect: 1
+[Tue Oct 20 16:34:48 2015]  ClientConnect: 0
+[Tue Oct 20 16:34:48 2015]  mlog:Player Padawan, connected. With IP - 81.5.92.134:29070 
+[Tue Oct 20 16:35:11 2015]  ClientBegin: 0
+[Tue Oct 20 16:37:16 2015]  say: ^5S^1tark: mempower
+[Tue Oct 20 16:39:31 2015]  ClientConnect: 1
+[Tue Oct 20 16:39:31 2015]  mlog:Player ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP, connected. With IP - 87.117.38.30:-16350 
+[Tue Oct 20 16:40:58 2015]  ClientBegin: 1
+[Tue Oct 20 16:41:22 2015]  say: ^5S^1tark: hi / privet
+[Tue Oct 20 16:41:33 2015]  Kill: 0 1 3: ^5S^1tark killed ^3^2:3 by MOD_SABER
+[Tue Oct 20 16:42:32 2015]  say: ^5S^1tark: npc spawn kyle
+[Tue Oct 20 16:44:33 2015]  Kill: 0 1 3: ^5S^1tark killed ^3^2:3 by MOD_SABER
+[Tue Oct 20 16:45:02 2015]  say: ^3^2:3: WOW
+[Tue Oct 20 16:45:06 2015]  say: ^5S^1tark: hi
+[Tue Oct 20 16:45:09 2015]  say: ^3^2:3: HI
+[Tue Oct 20 16:45:10 2015]  say: ^5S^1tark: rus?
+[Tue Oct 20 16:45:14 2015]  say: ^3^2:3: Yes
+[Tue Oct 20 16:45:18 2015]  say: ^5S^1tark: klass
+[Tue Oct 20 16:45:20 2015]  say: ^3^2:3: Da
+[Tue Oct 20 16:45:37 2015]  say: ^5S^1tark: rus text est'?
+[Tue Oct 20 16:45:57 2015]  print "^3^2:3^7 @@@PLRENAME ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP
+"[Tue Oct 20 16:46:00 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Да
+[Tue Oct 20 16:46:04 2015]  say: ^5S^1tark: Класс.
+[Tue Oct 20 16:46:09 2015]  say: ^5S^1tark: Что-за сервер?
+[Tue Oct 20 16:46:15 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Нензнаю
+[Tue Oct 20 16:46:19 2015]  Kill: 1 0 3: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP killed ^5S^1tark by MOD_SABER
+[Tue Oct 20 16:46:24 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: лол
+[Tue Oct 20 16:46:29 2015]  Kill: 0 1 3: ^5S^1tark killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_SABER
+[Tue Oct 20 16:46:33 2015]  print "^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP^7 @@@PLRENAME ^2xD
+"[Tue Oct 20 16:46:43 2015]  print "^2xD^7 @@@PLRENAME ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP
+"[Tue Oct 20 16:46:45 2015]  say: ^5S^1tark: Построим что-нибудь?
+[Tue Oct 20 16:46:48 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Go
+[Tue Oct 20 16:47:16 2015]  ClientConnect: 2
+[Tue Oct 20 16:47:16 2015]  mlog:Player Padawan, connected. With IP - 178.121.4.115:23282 
+[Tue Oct 20 16:47:21 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Nevol^3ya^5shka ^5In^3si^5de ^5m^3e
+[Tue Oct 20 16:47:49 2015]  print "^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP^7 @@@PLRENAME ^2xD
+"[Tue Oct 20 16:47:57 2015]  say: ^2xD: ^1Blyadstvo
+[Tue Oct 20 16:48:03 2015]  say: ^5S^1tark: xd
+[Tue Oct 20 16:48:06 2015]  ClientBegin: 2
+[Tue Oct 20 16:48:49 2015]  say: ^5S^1tark: you russian?
+[Tue Oct 20 16:48:52 2015]  say: ^5S^1tark: help pls
+[Tue Oct 20 16:49:03 2015]  say: ^2xD: xd
+[Tue Oct 20 16:49:09 2015]  say: help pls: /wait -1
+[Tue Oct 20 16:49:35 2015]  say: ^5S^1tark: suk
+[Tue Oct 20 16:49:43 2015]  say: help pls: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Tue Oct 20 16:49:45 2015]  say: help pls: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Tue Oct 20 16:50:16 2015]  say: help pls: ^5AIR ^5WAVE!
+[Tue Oct 20 16:50:22 2015]  say: help pls: ^3SANDSTORM!
+[Tue Oct 20 16:50:36 2015]  print "help pls^7 @@@PLRENAME калдун
+"[Tue Oct 20 16:50:51 2015]  say: калдун: My origin is: (-5776 -21049 1480) - You can teleport here with /mtelelast
+
+[Tue Oct 20 16:52:02 2015]  say: калдун: ^3ELEMENTAL ^3C^4R^3E^4A^3T^4I^3O^4N!
+[Tue Oct 20 16:52:25 2015]  say: калдун: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Tue Oct 20 16:52:42 2015]  say: калдун: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Tue Oct 20 16:52:48 2015]  say: калдун: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Tue Oct 20 16:53:04 2015]  say: калдун: ^3ELEMENTAL ^1B^5U^4R^2S^0T^3!
+[Tue Oct 20 16:53:06 2015]  print "^2xD^7 @@@PLRENAME ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP
+"[Tue Oct 20 16:53:18 2015]  say: калдун: ^1FIRE BALL!
+[Tue Oct 20 16:56:20 2015]  ClientDisconnect: 1
+[Tue Oct 20 16:57:00 2015]  say: ^5S^1tark: Колдун
+[Tue Oct 20 16:57:11 2015]  say: ^5S^1tark: Построим что-нибудь?
+[Tue Oct 20 16:57:43 2015]  say: ^5S^1tark: Построим?
+[Tue Oct 20 16:57:44 2015]  say: калдун: што 
+[Tue Oct 20 16:58:00 2015]  say: ^5S^1tark: Тебе скрипты дали,ты их сам не писал
+[Tue Oct 20 16:58:03 2015]  say: ^5S^1tark: ?
+[Tue Oct 20 16:58:17 2015]  say: калдун: да 
+[Tue Oct 20 16:58:30 2015]  say: калдун: ^4Ninja-Script by ^0Revan
+[Tue Oct 20 16:58:33 2015]  say: калдун: ^4Kagebunshin!!
+[Tue Oct 20 16:58:34 2015]  say: ^5S^1tark: Хочешь мои скрипты?
+[Tue Oct 20 16:58:45 2015]  say: калдун: какие
+[Tue Oct 20 16:58:47 2015]  say: калдун: ^4Kagebunshin!!
+[Tue Oct 20 16:58:59 2015]  ClientConnect: 1
+[Tue Oct 20 16:58:59 2015]  mlog:Player ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP, connected. With IP - 87.117.38.30:-16076 
+[Tue Oct 20 16:59:09 2015]  ClientBegin: 1
+[Tue Oct 20 16:59:13 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5:^3c
+[Tue Oct 20 16:59:14 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3c^5:
+[Tue Oct 20 16:59:15 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Tue Oct 20 16:59:17 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Tue Oct 20 16:59:21 2015]  say: калдун: да
+[Tue Oct 20 16:59:28 2015]  say: калдун: как кристалл сделать 
+[Tue Oct 20 16:59:45 2015]  say: калдун: ^5Chidori!!
+[Tue Oct 20 16:59:52 2015]  say: калдун: блин
+[Tue Oct 20 16:59:53 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: /mplace mp/Crystal_red/blue/green
+[Tue Oct 20 16:59:59 2015]  Kill: 2 2 39: калдун killed калдун by MOD_SUICIDE
+[Tue Oct 20 17:00:10 2015]  say: калдун: ^1Gokakyu!
+[Tue Oct 20 17:00:28 2015]  say: калдун: ^5Hakke Rokujuyon Sho!!
+[Tue Oct 20 17:00:41 2015]  say: калдун: ^3Suna no Tate!
+[Tue Oct 20 17:01:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Давным давно в далекой в далекой галактике(БЛЯ НУ ПОЧЕМУ-ТО В БУДУЩЕМ)
+[Tue Oct 20 17:01:56 2015]  say: калдун: дай скрипт 
+[Tue Oct 20 17:02:00 2015]  say: ^5S^1tark: сЕК
+[Tue Oct 20 17:02:01 2015]  say: ^5S^1tark: Напишу
+[Tue Oct 20 17:02:04 2015]  say: калдун: ок
+[Tue Oct 20 17:02:20 2015]  say: калдун: про кристалл
+[Tue Oct 20 17:02:26 2015]  Item: 1 ammo_all
+[Tue Oct 20 17:03:31 2015]  say: калдун: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Tue Oct 20 17:03:33 2015]  say: калдун: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Tue Oct 20 17:06:12 2015]  say: ^5S^1tark: Не мешайте бля
+[Tue Oct 20 17:06:37 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Бля давайте веселиться,а не херней страдать
+[Tue Oct 20 17:06:51 2015]  say: ^5S^1tark: sek
+[Tue Oct 20 17:06:52 2015]  say: калдун: строительство-это не херня
+[Tue Oct 20 17:07:01 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Это мудаебка
+[Tue Oct 20 17:07:08 2015]  say: калдун: для неумеющих
+[Tue Oct 20 17:07:12 2015]  say: калдун: My origin is: (-7440 -22904 51864) - You can teleport here with /mtelelast
+
+[Tue Oct 20 17:07:29 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: My origin is: (-7669 -18568 5336) - You can teleport here with /mtelelast
+
+[Tue Oct 20 17:07:50 2015]  say: калдун: ^1FIRE BALL!
+[Tue Oct 20 17:07:59 2015]  say: ^5S^1tark: Окей.
+[Tue Oct 20 17:08:12 2015]  say: калдун: ^1FIRE ^5SURROUND!
+[Tue Oct 20 17:08:18 2015]  say: ^5S^1tark: Гоу построим базы и будем нападать друг на друга
+[Tue Oct 20 17:08:20 2015]  say: ^5S^1tark: ГО
+[Tue Oct 20 17:08:21 2015]  say: ^5S^1tark: г
+[Tue Oct 20 17:08:23 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: go
+[Tue Oct 20 17:08:25 2015]  say: ^5S^1tark: ?
+[Tue Oct 20 17:08:36 2015]  say: ^5S^1tark: Делимся на 2 команды
+[Tue Oct 20 17:08:40 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Ya uzhe na meste
+[Tue Oct 20 17:08:43 2015]  say: ^5S^1tark: Кто со мной?
+[Tue Oct 20 17:08:45 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: na 3
+[Tue Oct 20 17:08:55 2015]  say: ^5S^1tark: Окей. на 3
+[Tue Oct 20 17:09:13 2015]  say: ^5S^1tark: My origin is: (-16944 -2835 1761) - You can teleport here with /mtelelast
+
+[Tue Oct 20 17:09:18 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Бля как поставить я забыл
+[Tue Oct 20 17:09:22 2015]  say: ^5S^1tark: /mtelelast вс
+[Tue Oct 20 17:09:23 2015]  say: ^5S^1tark: е
+[Tue Oct 20 17:09:31 2015]  say: ^5S^1tark: Все всем объясню и скажу
+[Tue Oct 20 17:09:34 2015]  say: ^5S^1tark: /mtelelast
+[Tue Oct 20 17:09:40 2015]  say: ^5S^1tark: C.lf
+[Tue Oct 20 17:09:42 2015]  say: ^5S^1tark: Сюда
+[Tue Oct 20 17:09:49 2015]  say: ^5S^1tark: Размер норм сделай
+[Tue Oct 20 17:10:03 2015]  say: ^5S^1tark: Колдун
+[Tue Oct 20 17:10:06 2015]  say: ^5S^1tark: Ты с нами?
+[Tue Oct 20 17:10:31 2015]  say: ^5S^1tark: Мы против колдуна)))
+[Tue Oct 20 17:10:33 2015]  say: ^5S^1tark: Сюда
+[Tue Oct 20 17:10:40 2015]  say: ^5S^1tark: пЛУТОН
+[Tue Oct 20 17:10:43 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ?
+[Tue Oct 20 17:10:44 2015]  say: ^5S^1tark: Строим базу
+[Tue Oct 20 17:10:48 2015]  say: ^5S^1tark: Ставить - /mdrop
+[Tue Oct 20 17:10:54 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Sps
+[Tue Oct 20 17:11:27 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Сразу все закрывай я телепорт сделаю
+[Tue Oct 20 17:13:09 2015]  say: ^5S^1tark: Давай сюда
+[Tue Oct 20 17:13:36 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Za mnoy idi pokazhu ego
+[Tue Oct 20 17:14:08 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Za mnoy
+[Tue Oct 20 17:14:18 2015]  Item: 1 ammo_all
+[Tue Oct 20 17:14:20 2015]  say: ^5S^1tark: ясно
+[Tue Oct 20 17:14:20 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Ok?
+[Tue Oct 20 17:14:27 2015]  say: ^5S^1tark: Колдун,строй базу
+[Tue Oct 20 17:14:29 2015]  say: ^5S^1tark: ок
+[Tue Oct 20 17:15:06 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: eY
+[Tue Oct 20 17:15:11 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: A nu ok
+[Tue Oct 20 17:15:23 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Stoy
+[Tue Oct 20 17:17:14 2015]  say: калдун: ^3ELEMENTAL ^3C^4R^3E^4A^3T^4I^3O^4N!
+[Tue Oct 20 17:17:30 2015]  say: ^5S^1tark: C.lf
+[Tue Oct 20 17:17:32 2015]  say: ^5S^1tark: Сюда
+[Tue Oct 20 17:17:35 2015]  say: ^5S^1tark: Это КПП
+[Tue Oct 20 17:18:21 2015]  say: ^5S^1tark: За мной
+[Tue Oct 20 17:18:28 2015]  say: ^5S^1tark: Когда будешь свободен
+[Tue Oct 20 17:19:51 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: nooo
+[Tue Oct 20 17:20:04 2015]  tell: ^5S^1tark to ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: /notarget
+[Tue Oct 20 17:20:12 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Ka tyi ee zaspawnil eli eto script?
+[Tue Oct 20 17:20:44 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Kak zhe?
+[Tue Oct 20 17:21:08 2015]  tell: ^5S^1tark to ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: /mplace deathturret
+[Tue Oct 20 17:22:40 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Chtoby ne podletel
+[Tue Oct 20 17:22:46 2015]  say: ^5S^1tark: Лана,я пойду.
+[Tue Oct 20 17:22:50 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Kuda>
+[Tue Oct 20 17:22:50 2015]  say: ^5S^1tark: Как меня найти?
+[Tue Oct 20 17:22:52 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ?
+[Tue Oct 20 17:22:57 2015]  say: ^5S^1tark: www.vk.com/stark_rp_E
+[Tue Oct 20 17:23:03 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Ok
+[Tue Oct 20 17:23:04 2015]  say: ^5S^1tark: vk.com/stark_rp_e
+[Tue Oct 20 17:23:13 2015]  say: ^5S^1tark: Я там Максим Серебряков в контактах
+[Tue Oct 20 17:23:16 2015]  say: ^5S^1tark: Покеда
+[Tue Oct 20 17:23:22 2015]  ClientDisconnect: 0
+[Tue Oct 20 17:23:25 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Pokeda
+[Tue Oct 20 17:23:26 2015]  say: калдун: (
+[Tue Oct 20 17:23:28 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Koldun
+[Tue Oct 20 17:23:32 2015]  say: калдун: ?
+[Tue Oct 20 17:23:41 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Tyi postroil?
+[Tue Oct 20 17:23:48 2015]  say: калдун: нет
+[Tue Oct 20 17:23:58 2015]  say: калдун: как объект увеличить?
+[Tue Oct 20 17:24:14 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: /mplace i zivru
+[Tue Oct 20 17:24:31 2015]  say: калдун: нет
+[Tue Oct 20 17:24:36 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Mozhno posmotret' na nego?
+[Tue Oct 20 17:24:37 2015]  say: калдун: это вызывает объект
+[Tue Oct 20 17:24:42 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Oi
+[Tue Oct 20 17:24:52 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: /mscale
+[Tue Oct 20 17:25:39 2015]  say: калдун: ^3ELEMENTAL ^3C^4R^3E^4A^3T^4I^3O^4N!
+[Tue Oct 20 17:25:48 2015]  say: калдун: ^3ELEMENTAL ^3C^4R^3E^4A^3T^4I^3O^4N!
+[Tue Oct 20 17:25:58 2015]  say: калдун: ^3ELEMENTAL ^3C^4R^3E^4A^3T^4I^3O^4N!
+[Tue Oct 20 17:26:08 2015]  say: калдун: ^3ELEMENTAL ^3C^4R^3E^4A^3T^4I^3O^4N!
+[Tue Oct 20 17:26:16 2015]  say: калдун: ^3ELEMENTAL ^3C^4R^3E^4A^3T^4I^3O^4N!
+[Tue Oct 20 17:26:19 2015]  Kill: 1 1 39: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_SUICIDE
+[Tue Oct 20 17:26:19 2015]  setteam:  1 FREE SPECTATOR
+[Tue Oct 20 17:26:19 2015]  ClientBegin: 1
+[Tue Oct 20 17:26:28 2015]  setteam:  1 SPECTATOR FREE
+[Tue Oct 20 17:26:28 2015]  ClientBegin: 1
+[Tue Oct 20 17:26:37 2015]  ClientDisconnect: 2
+[Tue Oct 20 17:27:08 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: HVATIT
+[Tue Oct 20 17:27:31 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Kak takih spawnit?
+[Tue Oct 20 17:30:38 2015]  Kill: 1022 1 6: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_BLASTER
+[Tue Oct 20 17:42:03 2015]  Item: 1 ammo_all
+[Tue Oct 20 17:53:26 2015]  Kill: 1022 1 7: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_TURBLAST
+[Tue Oct 20 17:53:42 2015]  Kill: 1022 1 7: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_TURBLAST
+[Tue Oct 20 17:53:45 2015]  Kill: 1022 1 7: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_TURBLAST
+[Tue Oct 20 17:53:50 2015]  Kill: 1022 1 7: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_TURBLAST
+[Tue Oct 20 17:54:01 2015]  Kill: 1022 1 7: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_TURBLAST
+[Tue Oct 20 17:54:05 2015]  Kill: 1022 1 7: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_TURBLAST
+[Tue Oct 20 17:54:14 2015]  Kill: 1022 1 7: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_TURBLAST
+[Tue Oct 20 17:54:23 2015]  Kill: 1022 1 7: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_TURBLAST
+[Tue Oct 20 17:55:00 2015]  Kill: 1 1 39: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_SUICIDE
+[Tue Oct 20 17:56:31 2015]  Kill: 1022 1 6: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_BLASTER
+[Tue Oct 20 17:57:37 2015]  Kill: 1022 1 6: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_BLASTER
+[Tue Oct 20 17:57:40 2015]  Kill: 1022 1 7: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_TURBLAST
+[Tue Oct 20 17:57:44 2015]  Kill: 1022 1 7: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_TURBLAST
+[Tue Oct 20 17:57:58 2015]  Kill: 1022 1 7: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_TURBLAST
+[Tue Oct 20 17:58:15 2015]  ClientDisconnect: 1
+[Tue Oct 20 18:04:32 2015]  ClientConnect: 0
+[Tue Oct 20 18:04:32 2015]  mlog:Player ^2Jean-Luc^0-Picard, connected. With IP - 89.24.248.54:16349 
+[Tue Oct 20 18:04:44 2015]  ClientBegin: 0
+[Tue Oct 20 18:34:15 2015]  ClientDisconnect: 0
+[Wed Oct 21 14:33:35 2015]  ClientConnect: 0
+[Wed Oct 21 14:33:35 2015]  mlog:Player Whatever, connected. With IP - 89.24.248.54:26350 
+[Wed Oct 21 14:33:54 2015]  ClientBegin: 0
+[Wed Oct 21 14:37:31 2015]  ClientConnect: 1
+[Wed Oct 21 14:37:31 2015]  mlog:Player kasme'ups, connected. With IP - 89.166.56.251:29070 
+[Wed Oct 21 14:41:36 2015]  ClientDisconnect: 1
+[Wed Oct 21 14:56:12 2015]  ClientConnect: 1
+[Wed Oct 21 14:56:12 2015]  mlog:Player Padawan, connected. With IP - 81.5.92.134:29070 
+[Wed Oct 21 14:56:43 2015]  ClientBegin: 1
+[Wed Oct 21 14:57:29 2015]  say: ^5S^1tark: hi
+[Wed Oct 21 14:57:34 2015]  say: ^2Jean-Luc^0-Picard: hi
+[Wed Oct 21 14:57:43 2015]  say: ^5S^1tark: rus?
+[Wed Oct 21 14:57:49 2015]  say: ^2Jean-Luc^0-Picard: no
+[Wed Oct 21 14:58:30 2015]  say: ^5S^1tark: what you coordinats?
+[Wed Oct 21 14:58:38 2015]  say: ^2Jean-Luc^0-Picard: My origin is: (16500 -14569 1861) - You can teleport here with /mtelelast
+
+[Wed Oct 21 15:04:41 2015]  say: ^5S^1tark: You building?
+[Wed Oct 21 15:04:50 2015]  say: ^2Jean-Luc^0-Picard: yes
+[Wed Oct 21 15:05:05 2015]  say: ^5S^1tark: MM.. i'm go  draw  scripts. You wait me?
+[Wed Oct 21 15:05:17 2015]  say: ^2Jean-Luc^0-Picard: sure
+[Wed Oct 21 15:05:23 2015]  say: ^5S^1tark: ok
+[Wed Oct 21 15:07:18 2015]  say: ^5S^1tark: what cmd for attach effects on player?
+[Wed Oct 21 15:07:39 2015]  say: ^2Jean-Luc^0-Picard: ? i dont understand what do you mean
+[Wed Oct 21 15:07:59 2015]  say: ^5S^1tark: I'm want attach effects on player
+[Wed Oct 21 15:08:05 2015]  say: ^5S^1tark: what Command in console?
+[Wed Oct 21 15:08:23 2015]  say: ^2Jean-Luc^0-Picard: marm 0 maybe ? ...
+[Wed Oct 21 15:08:29 2015]  say: ^5S^1tark: no
+[Wed Oct 21 15:08:43 2015]  say: ^2Jean-Luc^0-Picard: mconnectto ?
+[Wed Oct 21 15:08:43 2015]  say: ^5S^1tark: .../mattach ... maybe 
+[Wed Oct 21 15:09:35 2015]  say: ^5S^1tark: m?
+[Wed Oct 21 15:09:40 2015]  say: ^5S^1tark: what cmd??
+[Wed Oct 21 15:09:55 2015]  say: ^2Jean-Luc^0-Picard: mconnectto
+[Wed Oct 21 15:09:57 2015]  say: ^5S^1tark: no
+[Wed Oct 21 15:10:06 2015]  say: ^5S^1tark: attach effects on player
+[Wed Oct 21 15:10:20 2015]  say: ^2Jean-Luc^0-Picard: try minfo
+[Wed Oct 21 15:10:30 2015]  say: ^5S^1tark: not find
+[Wed Oct 21 15:12:01 2015]  say: ^5S^1tark: npc spawn luke
+[Wed Oct 21 15:13:19 2015]  say: ^2Jean-Luc^0-Picard: you got smthin interesting ?
+[Wed Oct 21 15:13:29 2015]  say: ^5S^1tark: i'm litle speak eng.
+[Wed Oct 21 15:14:07 2015]  say: ^2Jean-Luc^0-Picard: any cool things/stuff to show ?
+[Wed Oct 21 15:14:21 2015]  say: ^5S^1tark: what?
+[Wed Oct 21 15:14:31 2015]  say: ^2Jean-Luc^0-Picard: house ? base ?
+[Wed Oct 21 15:14:36 2015]  say: ^5S^1tark: no
+[Wed Oct 21 15:16:28 2015]  say: ^2Jean-Luc^0-Picard: xD
+[Wed Oct 21 15:18:34 2015]  say: ^5S^1tark: i'm back.
+[Wed Oct 21 15:18:37 2015]  ClientDisconnect: 1
+[Wed Oct 21 15:28:13 2015]  ClientConnect: 1
+[Wed Oct 21 15:28:13 2015]  mlog:Player ^5S^1tark, connected. With IP - 81.5.92.134:29070 
+[Wed Oct 21 15:28:45 2015]  ClientBegin: 1
+[Wed Oct 21 15:30:06 2015]  say: ^5S^1tark: how ON makermod client plugin?
+[Wed Oct 21 15:30:17 2015]  say: ^2Jean-Luc^0-Picard: i dont know
+[Wed Oct 21 15:43:28 2015]  say: ^5S^1tark: origin
+[Wed Oct 21 15:43:35 2015]  say: ^2Jean-Luc^0-Picard: My origin is: (16569 -14715 1860) - You can teleport here with /mtelelast
+
+[Wed Oct 21 15:48:51 2015]  say: ^5S^1tark: this is god :d
+[Wed Oct 21 15:48:58 2015]  say: ^2Jean-Luc^0-Picard: nice
+[Wed Oct 21 15:51:15 2015]  say: ^5S^1tark: look
+[Wed Oct 21 15:51:29 2015]  say: ^2Jean-Luc^0-Picard: lol cool
+[Wed Oct 21 15:51:41 2015]  say: ^2Jean-Luc^0-Picard: what is that effect name ?
+[Wed Oct 21 15:51:54 2015]  say: ^5S^1tark: repeater/projectile 1
+[Wed Oct 21 15:51:57 2015]  say: ^2Jean-Luc^0-Picard: thx
+[Wed Oct 21 15:57:48 2015]  ClientDisconnect: 1
+[Wed Oct 21 16:06:42 2015]  ClientConnect: 1
+[Wed Oct 21 16:06:42 2015]  mlog:Player Padawan, connected. With IP - 178.121.20.42:22182 
+[Wed Oct 21 16:07:59 2015]  ClientBegin: 1
+[Wed Oct 21 16:08:07 2015]  Kill: 1 1 39: калдун killed калдун by MOD_SUICIDE
+[Wed Oct 21 16:08:07 2015]  setteam:  1 FREE SPECTATOR
+[Wed Oct 21 16:08:07 2015]  ClientBegin: 1
+[Wed Oct 21 16:08:17 2015]  setteam:  1 SPECTATOR FREE
+[Wed Oct 21 16:08:17 2015]  ClientBegin: 1
+[Wed Oct 21 16:08:26 2015]  ClientDisconnect: 1
+[Wed Oct 21 16:50:58 2015]  ClientConnect: 1
+[Wed Oct 21 16:50:58 2015]  mlog:Player ^2Zloe^3Pivo, connected. With IP - 87.117.38.200:-1606 
+[Wed Oct 21 16:51:25 2015]  ClientBegin: 1
+[Wed Oct 21 16:51:31 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Hi
+[Wed Oct 21 16:51:34 2015]  say: ^2Jean-Luc^0-Picard: Hi
+[Wed Oct 21 16:51:46 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Are you russian?
+[Wed Oct 21 16:51:50 2015]  say: ^2Jean-Luc^0-Picard: no
+[Wed Oct 21 16:51:53 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: (
+[Wed Oct 21 16:52:03 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: I am Russian:D
+[Wed Oct 21 16:52:14 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: You?
+[Wed Oct 21 16:52:22 2015]  say: ^2Jean-Luc^0-Picard: rly ? ^^
+[Wed Oct 21 16:52:33 2015]  say: ^2Jean-Luc^0-Picard: me cz
+[Wed Oct 21 16:52:38 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Are you english?
+[Wed Oct 21 16:52:55 2015]  say: ^2Jean-Luc^0-Picard: Czech republic
+[Wed Oct 21 16:53:09 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Cheska Republic?
+[Wed Oct 21 16:53:19 2015]  say: ^2Jean-Luc^0-Picard: almost yes
+[Wed Oct 21 16:53:24 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: :D
+[Wed Oct 21 16:54:13 2015]  Kill: 1 1 39: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_SUICIDE
+[Wed Oct 21 16:54:13 2015]  setteam:  1 FREE SPECTATOR
+[Wed Oct 21 16:54:13 2015]  ClientBegin: 1
+[Wed Oct 21 16:54:18 2015]  setteam:  1 SPECTATOR FREE
+[Wed Oct 21 16:54:18 2015]  ClientBegin: 1
+[Wed Oct 21 16:55:34 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: :D
+[Wed Oct 21 16:59:49 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: :D
+[Wed Oct 21 17:00:30 2015]  Item: 1 ammo_all
+[Wed Oct 21 17:02:16 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: /notarget OFF
+[Wed Oct 21 17:03:16 2015]  ClientConnect: 2
+[Wed Oct 21 17:03:16 2015]  mlog:Player h4x't/pete the plant, connected. With IP - 89.166.56.251:29070 
+[Wed Oct 21 17:03:44 2015]  ClientBegin: 2
+[Wed Oct 21 17:03:45 2015]  ClientDisconnect: 2
+[Wed Oct 21 17:06:11 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: DONT
+[Wed Oct 21 17:07:08 2015]  Kill: 1022 1 6: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_BLASTER
+[Wed Oct 21 17:15:54 2015]  ClientDisconnect: 1
+[Wed Oct 21 17:22:22 2015]  ClientConnect: 1
+[Wed Oct 21 17:22:22 2015]  mlog:Player ^2Zloe^3Pivo, connected. With IP - 87.117.38.200:-1810 
+[Wed Oct 21 17:22:55 2015]  ClientBegin: 1
+[Wed Oct 21 17:26:23 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3c^5:
+[Wed Oct 21 17:26:24 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:25 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:26 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3c^5:
+[Wed Oct 21 17:26:27 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5:^3c
+[Wed Oct 21 17:26:27 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5:^3c
+[Wed Oct 21 17:26:27 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5:^3c
+[Wed Oct 21 17:26:28 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5:^3c
+[Wed Oct 21 17:26:28 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5:^3c
+[Wed Oct 21 17:26:29 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5:^3c
+[Wed Oct 21 17:26:29 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5:^3c
+[Wed Oct 21 17:26:29 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5:^3c
+[Wed Oct 21 17:26:29 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5:^3c
+[Wed Oct 21 17:26:29 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5:^3c
+[Wed Oct 21 17:26:31 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:32 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:33 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:33 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:33 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3x^5D
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:39 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:40 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:40 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:40 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:40 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:40 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:26:40 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Wed Oct 21 17:27:04 2015]  Kill: 1022 1 38: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_FALLING
+[Wed Oct 21 17:27:06 2015]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ;D
+[Wed Oct 21 17:28:37 2015]  ClientDisconnect: 0
+[Wed Oct 21 17:29:01 2015]  ClientDisconnect: 1
+[Wed Oct 21 18:37:56 2015]  ClientConnect: 0
+[Wed Oct 21 18:37:56 2015]  mlog:Player ^5S^1tark, connected. With IP - 81.5.92.134:29070 
+[Wed Oct 21 18:38:30 2015]  ClientBegin: 0
+[Wed Oct 21 18:57:03 2015]  ClientDisconnect: 0
+[Wed Oct 21 19:05:24 2015]  ClientConnect: 0
+[Wed Oct 21 19:05:24 2015]  mlog:Player Padawan, connected. With IP - 81.5.92.134:29070 
+[Wed Oct 21 19:05:52 2015]  ClientBegin: 0
+[Wed Oct 21 19:07:41 2015]  ClientDisconnect: 0
+[Wed Oct 21 19:09:52 2015]  ClientConnect: 0
+[Wed Oct 21 19:09:52 2015]  mlog:Player Padawan, connected. With IP - 81.5.92.134:29070 
+[Wed Oct 21 19:10:20 2015]  ClientBegin: 0
+[Wed Oct 21 19:11:25 2015]  ClientDisconnect: 0
+[Wed Oct 21 20:25:20 2015]  ClientConnect: 0
+[Wed Oct 21 20:25:20 2015]  mlog:Player Padawan, connected. With IP - 176.63.37.23:29070 
+[Wed Oct 21 20:26:14 2015]  ClientBegin: 0
+[Wed Oct 21 20:27:19 2015]  ClientDisconnect: 0
+[Thu Oct 22 12:48:49 2015]  ClientConnect: 0
+[Thu Oct 22 12:48:49 2015]  mlog:Player ^1=^7Zuri^1=^7Lyn^1=^5::^7JEDI^5::, connected. With IP - 86.77.113.73:29070 
+[Thu Oct 22 12:48:59 2015]  ClientDisconnect: 0
+[Thu Oct 22 20:32:45 2015]  ClientConnect: 0
+[Thu Oct 22 20:32:45 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Oct 22 20:33:03 2015]  ClientBegin: 0
+[Thu Oct 22 20:33:09 2015]  Item: 0 weapon_melee
+[Thu Oct 22 20:33:41 2015]  say: ^0Shadow^5seer: ^5Behold the Stormbringer!
+[Thu Oct 22 20:39:57 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Thu Oct 22 20:40:01 2015]  say: ^0Shadow^5seer: ^5Facepalm...
+[Thu Oct 22 20:52:59 2015]  ClientDisconnect: 0
+[Fri Oct 23 15:19:54 2015]  ClientConnect: 0
+[Fri Oct 23 15:19:54 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Fri Oct 23 15:20:12 2015]  ClientBegin: 0
+[Fri Oct 23 15:20:19 2015]  Item: 0 weapon_melee
+[Fri Oct 23 15:31:25 2015]  ClientDisconnect: 0
+[Fri Oct 23 16:38:17 2015]  ClientConnect: 0
+[Fri Oct 23 16:38:17 2015]  mlog:Player ^1E^0nej, connected. With IP - 98.177.137.162:29070 
+[Fri Oct 23 16:38:53 2015]  ClientBegin: 0
+[Fri Oct 23 16:40:40 2015]  Kill: 0 0 39: ^1E^0nej killed ^1E^0nej by MOD_SUICIDE
+[Fri Oct 23 16:42:06 2015]  Item: 0 ammo_all
+[Fri Oct 23 16:42:14 2015]  Item: 0 ammo_all
+[Fri Oct 23 17:12:56 2015]  say: ^1E^0nej: My origin is: (5456 -19373 1328) - You can teleport here with /mtelelast
+
+[Fri Oct 23 17:13:05 2015]  ClientDisconnect: 0
+[Fri Oct 23 20:20:03 2015]  ClientConnect: 0
+[Fri Oct 23 20:20:03 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Fri Oct 23 20:20:21 2015]  ClientBegin: 0
+[Fri Oct 23 20:24:01 2015]  Item: 0 weapon_melee
+[Fri Oct 23 20:36:08 2015]  ClientDisconnect: 0
+[Fri Oct 23 22:22:43 2015]  ClientConnect: 0
+[Fri Oct 23 22:22:43 2015]  mlog:Player ^1E^0nej, connected. With IP - 98.177.137.162:29070 
+[Fri Oct 23 22:23:31 2015]  ClientBegin: 0
+[Fri Oct 23 22:26:29 2015]  ClientDisconnect: 0
+[Fri Oct 23 22:27:15 2015]  ClientConnect: 0
+[Fri Oct 23 22:27:15 2015]  mlog:Player ^1E^0nej, connected. With IP - 98.177.137.162:29070 
+[Fri Oct 23 22:27:27 2015]  ClientBegin: 0
+[Fri Oct 23 22:41:45 2015]  say: ^1E^0nej: mrotate 0 180 0
+[Fri Oct 23 22:52:18 2015]  ClientDisconnect: 0
+[Fri Oct 23 23:32:24 2015]  ClientConnect: 0
+[Fri Oct 23 23:32:24 2015]  mlog:Player ^1E^0nej, connected. With IP - 98.177.137.162:29070 
+[Fri Oct 23 23:32:50 2015]  ClientDisconnect: 0
+[Fri Oct 23 23:53:32 2015]  ClientConnect: 0
+[Fri Oct 23 23:53:32 2015]  mlog:Player ^1E^0nej, connected. With IP - 98.177.137.162:29070 
+[Fri Oct 23 23:53:56 2015]  ClientDisconnect: 0
+[Sat Oct 24 00:11:47 2015]  ClientConnect: 0
+[Sat Oct 24 00:11:47 2015]  mlog:Player ^1E^0nej, connected. With IP - 98.177.137.162:29070 
+[Sat Oct 24 00:12:11 2015]  ClientDisconnect: 0
+[Sat Oct 24 00:20:44 2015]  ClientConnect: 0
+[Sat Oct 24 00:20:44 2015]  mlog:Player ^1E^0nej, connected. With IP - 98.177.137.162:29070 
+[Sat Oct 24 00:21:15 2015]  ClientDisconnect: 0
+[Sat Oct 24 00:36:04 2015]  ClientConnect: 0
+[Sat Oct 24 00:36:04 2015]  mlog:Player Padawan, connected. With IP - 98.177.137.162:29070 
+[Sat Oct 24 00:36:38 2015]  ClientDisconnect: 0
+[Sat Oct 24 03:26:16 2015]  ClientConnect: 0
+[Sat Oct 24 03:26:16 2015]  mlog:Player Padawan, connected. With IP - 96.249.144.144:29070 
+[Sat Oct 24 03:26:23 2015]  ClientDisconnect: 0
+[Sat Oct 24 03:26:52 2015]  ClientConnect: 0
+[Sat Oct 24 03:26:52 2015]  mlog:Player Padawan, connected. With IP - 96.249.144.144:29070 
+[Sat Oct 24 03:31:39 2015]  ClientDisconnect: 0
+[Sat Oct 24 16:42:48 2015]  ClientConnect: 0
+[Sat Oct 24 16:42:48 2015]  mlog:Player Padawan, connected. With IP - 95.110.15.138:29070 
+[Sat Oct 24 16:46:09 2015]  ClientDisconnect: 0
+[Sat Oct 24 20:05:02 2015]  ClientConnect: 0
+[Sat Oct 24 20:05:02 2015]  mlog:Player ^3H^7eruwi^3M, connected. With IP - 87.117.15.178:-3054 
+[Sat Oct 24 20:05:38 2015]  ClientDisconnect: 0
+[Sat Oct 24 20:07:09 2015]  ClientConnect: 0
+[Sat Oct 24 20:07:09 2015]  mlog:Player Jedi, connected. With IP - 87.117.15.178:-17080 
+[Sat Oct 24 20:07:47 2015]  ClientBegin: 0
+[Sat Oct 24 20:07:59 2015]  print "^3H^7eruwi^3M^7 @@@PLRENAME ^5Pluton
+"[Sat Oct 24 20:10:26 2015]  say: ^5Pluton: ^5Sl^3a^5va ^5Nevol^3ya^5shke
+[Sat Oct 24 20:16:39 2015]  ClientDisconnect: 0
+[Sat Oct 24 20:22:04 2015]  ClientConnect: 0
+[Sat Oct 24 20:22:04 2015]  mlog:Player Jedi, connected. With IP - 87.117.15.178:-2686 
+[Sat Oct 24 20:22:44 2015]  ClientBegin: 0
+[Sat Oct 24 20:28:49 2015]  print "^5Pluton^7 @@@PLRENAME ^1Mephistovel
+"[Sat Oct 24 20:28:58 2015]  print "^1Mephistovel^7 @@@PLRENAME ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP
+"[Sat Oct 24 20:35:01 2015]  ClientDisconnect: 0
+[Sun Oct 25 08:47:48 2015]  ClientConnect: 0
+[Sun Oct 25 08:47:48 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Oct 25 08:48:07 2015]  ClientBegin: 0
+[Sun Oct 25 08:48:25 2015]  Item: 0 weapon_melee
+[Sun Oct 25 08:52:38 2015]  say: ^0Shadow^5seer: ^5Behold the Stormbringer!
+[Sun Oct 25 08:53:26 2015]  say: ^0Shadow^5seer: ^5Behold the Stormbringer!
+[Sun Oct 25 08:53:37 2015]  ClientDisconnect: 0
+[Sun Oct 25 09:57:00 2015]  ClientConnect: 0
+[Sun Oct 25 09:57:00 2015]  mlog:Player Padawan, connected. With IP - 91.205.236.92:24065 
+[Sun Oct 25 09:57:44 2015]  ClientBegin: 0
+[Sun Oct 25 09:57:45 2015]  ClientDisconnect: 0
+[Sun Oct 25 09:57:45 2015]  ClientDisconnect: 0
+[Sun Oct 25 09:57:45 2015]  ClientConnect: 0
+[Sun Oct 25 09:57:45 2015]  mlog:Player Padawan, connected. With IP - 91.205.236.92:24065 
+[Sun Oct 25 09:57:59 2015]  ClientBegin: 0
+[Sun Oct 25 10:00:31 2015]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Oct 25 10:01:03 2015]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Oct 25 10:07:30 2015]  Item: 0 ammo_all
+[Sun Oct 25 10:08:02 2015]  ClientDisconnect: 0
+[Sun Oct 25 14:51:06 2015]  ClientConnect: 0
+[Sun Oct 25 14:51:06 2015]  mlog:Player ^7[^0H^7][^0Walking^7][^0P^7], connected. With IP - 87.117.13.36:-19057 
+[Sun Oct 25 14:51:35 2015]  ClientBegin: 0
+[Sun Oct 25 14:52:23 2015]  print "^7Jedi^7 @@@PLRENAME ^0[^7H^0][^7Walking^0][^7P
+"[Sun Oct 25 15:05:45 2015]  ClientConnect: 1
+[Sun Oct 25 15:05:45 2015]  mlog:Player ^7»^0Exo^1Р^0us^7«, connected. With IP - 64.111.243.214:29070 
+[Sun Oct 25 15:06:32 2015]  ClientBegin: 1
+[Sun Oct 25 15:10:19 2015]  say: ^0[^7H^0][^7Walking^0][^7P: Are you russian?
+[Sun Oct 25 15:10:23 2015]  say: ^7»^0Exo^1Р^0us^7«: nej.
+[Sun Oct 25 15:10:30 2015]  say: ^0[^7H^0][^7Walking^0][^7P: No&
+[Sun Oct 25 15:10:31 2015]  say: ^0[^7H^0][^7Walking^0][^7P: ?
+[Sun Oct 25 15:10:37 2015]  say: ^7»^0Exo^1Р^0us^7«: i am not russian
+[Sun Oct 25 15:10:41 2015]  say: ^0[^7H^0][^7Walking^0][^7P: (
+[Sun Oct 25 15:11:14 2015]  say: ^0[^7H^0][^7Walking^0][^7P: DONT
+[Sun Oct 25 15:11:36 2015]  say: ^7»^0Exo^1Р^0us^7«: deathturrets are broken as shit, i hope you realize xP
+[Sun Oct 25 15:14:33 2015]  say: ^0[^7H^0][^7Walking^0][^7P: NOOOO
+[Sun Oct 25 15:16:56 2015]  say: ^7»^0Exo^1Р^0us^7«: scaling yourself wont hide you from the guns.
+[Sun Oct 25 15:18:04 2015]  say: ^7»^0Exo^1Р^0us^7«: lel.
+[Sun Oct 25 15:18:45 2015]  Kill: 0 0 39: ^0[^7H^0][^7Walking^0][^7P killed ^0[^7H^0][^7Walking^0][^7P by MOD_SUICIDE
+[Sun Oct 25 15:22:09 2015]  say: ^0[^7H^0][^7Walking^0][^7P: DONT SCRIPTS
+[Sun Oct 25 15:22:18 2015]  say: ^7»^0Exo^1Р^0us^7«: not scripting, bugging.
+[Sun Oct 25 15:23:53 2015]  ClientDisconnect: 0
+[Sun Oct 25 15:32:50 2015]  ClientDisconnect: 1
+[Sun Oct 25 17:27:06 2015]  ClientConnect: 0
+[Sun Oct 25 17:27:06 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Oct 25 17:27:24 2015]  ClientBegin: 0
+[Sun Oct 25 17:27:35 2015]  Item: 0 weapon_melee
+[Sun Oct 25 17:32:26 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Oct 25 17:32:40 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Oct 25 17:32:44 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Oct 25 17:32:48 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Oct 25 17:32:52 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Oct 25 17:34:28 2015]  ClientDisconnect: 0
+[Sun Oct 25 19:55:35 2015]  ClientConnect: 0
+[Sun Oct 25 19:55:35 2015]  mlog:Player Padawan, connected. With IP - 92.226.75.144:29070 
+[Sun Oct 25 19:55:51 2015]  ClientDisconnect: 0
+[Sun Oct 25 20:02:23 2015]  ClientConnect: 0
+[Sun Oct 25 20:02:23 2015]  mlog:Player Londi, connected. With IP - 5.71.92.155:29070 
+[Sun Oct 25 20:02:56 2015]  ClientBegin: 0
+[Sun Oct 25 20:03:46 2015]  ClientConnect: 1
+[Sun Oct 25 20:03:46 2015]  mlog:Player Disasterpiece, connected. With IP - 78.145.3.173:29070 
+[Sun Oct 25 20:04:34 2015]  ClientBegin: 1
+[Sun Oct 25 20:04:42 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:05:19 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:06:04 2015]  ClientDisconnect: 1
+[Sun Oct 25 20:06:09 2015]  ClientConnect: 1
+[Sun Oct 25 20:06:09 2015]  mlog:Player Disasterpiece, connected. With IP - 78.145.3.173:29070 
+[Sun Oct 25 20:06:21 2015]  ClientBegin: 1
+[Sun Oct 25 20:06:31 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:07:18 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:08:04 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:08:52 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:09:43 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:10:02 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:10:27 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:11:38 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:12:14 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:13:56 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:14:22 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:16:33 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:18:50 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:19:29 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:22:08 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:23:51 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:24:57 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:25:11 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:26:31 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:27:55 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:28:19 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:30:34 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:30:51 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:32:29 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:33:21 2015]  ClientDisconnect: 0
+[Sun Oct 25 20:34:12 2015]  ClientConnect: 0
+[Sun Oct 25 20:34:12 2015]  mlog:Player Padawan, connected. With IP - 31.55.70.205:29070 
+[Sun Oct 25 20:34:19 2015]  ClientDisconnect: 0
+[Sun Oct 25 20:34:47 2015]  ClientConnect: 0
+[Sun Oct 25 20:34:47 2015]  mlog:Player Londi, connected. With IP - 5.71.92.155:29070 
+[Sun Oct 25 20:34:56 2015]  ClientBegin: 0
+[Sun Oct 25 20:35:12 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:36:07 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:36:44 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:37:15 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:38:30 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:41:01 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:42:09 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:43:01 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:43:27 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:44:53 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:45:14 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:45:45 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:46:32 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:47:26 2015]  Kill: 1 0 4: Disasterpiece killed Londi by MOD_BRYAR_PISTOL
+[Sun Oct 25 20:47:42 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:48:00 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:49:28 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:49:43 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:50:10 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:50:20 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:50:55 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:51:04 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:51:57 2015]  Kill: 1 0 3: Disasterpiece killed Londi by MOD_SABER
+[Sun Oct 25 20:53:33 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:54:49 2015]  ClientConnect: 2
+[Sun Oct 25 20:54:49 2015]  mlog:Player Padawan, connected. With IP - 92.18.107.117:21613 
+[Sun Oct 25 20:55:06 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:55:13 2015]  ClientBegin: 2
+[Sun Oct 25 20:56:24 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:56:31 2015]  print "Padawan^7 @@@PLRENAME Hunipop king
+"[Sun Oct 25 20:57:05 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:57:24 2015]  Kill: 2 0 3: Hunipop king killed Londi by MOD_SABER
+[Sun Oct 25 20:58:19 2015]  say: Londi: playermodel atst
+[Sun Oct 25 20:58:49 2015]  Kill: 0 0 39: Londi killed Londi by MOD_SUICIDE
+[Sun Oct 25 20:59:15 2015]  say: Londi: drive_atst
+[Sun Oct 25 20:59:27 2015]  say: Londi: helpusobi 1
+[Sun Oct 25 20:59:37 2015]  Kill: 2 1 3: Hunipop king killed Disasterpiece by MOD_SABER
+[Sun Oct 25 20:59:50 2015]  say: Londi: fly_xwing
+[Sun Oct 25 21:00:19 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 21:00:54 2015]  Kill: 0 1 3: Londi killed Disasterpiece by MOD_SABER
+[Sun Oct 25 21:01:15 2015]  ClientDisconnect: 0
+[Sun Oct 25 21:01:53 2015]  Kill: 1022 2 38: <world> killed Hunipop king by MOD_FALLING
+[Sun Oct 25 21:02:57 2015]  Kill: 2 1 3: Hunipop king killed Disasterpiece by MOD_SABER
+[Sun Oct 25 21:03:04 2015]  ClientDisconnect: 1
+[Sun Oct 25 21:03:26 2015]  ClientDisconnect: 2
+[Mon Oct 26 07:12:19 2015]  ClientConnect: 0
+[Mon Oct 26 07:12:19 2015]  mlog:Player ^4C^7osmic ^4S^7park, connected. With IP - 178.148.196.47:29070 
+[Mon Oct 26 07:12:42 2015]  ClientBegin: 0
+[Mon Oct 26 07:16:12 2015]  say: ^4C^7osmic ^4S^7park: tree
+[Mon Oct 26 07:17:36 2015]  Kill: 0 0 39: ^4C^7osmic ^4S^7park killed ^4C^7osmic ^4S^7park by MOD_SUICIDE
+[Mon Oct 26 07:18:49 2015]  Kill: 0 0 39: ^4C^7osmic ^4S^7park killed ^4C^7osmic ^4S^7park by MOD_SUICIDE
+[Mon Oct 26 07:19:34 2015]  Kill: 0 0 39: ^4C^7osmic ^4S^7park killed ^4C^7osmic ^4S^7park by MOD_SUICIDE
+[Mon Oct 26 07:25:42 2015]  ClientDisconnect: 0
+[Mon Oct 26 15:26:02 2015]  ClientConnect: 0
+[Mon Oct 26 15:26:02 2015]  mlog:Player Padawan, connected. With IP - 79.126.135.19:29070 
+[Mon Oct 26 15:29:43 2015]  ClientDisconnect: 0
+[Mon Oct 26 15:29:58 2015]  ClientConnect: 0
+[Mon Oct 26 15:29:58 2015]  mlog:Player Padawan, connected. With IP - 79.126.135.19:29070 
+[Mon Oct 26 15:30:26 2015]  ClientBegin: 0
+[Mon Oct 26 15:30:44 2015]  print "Padawan^7 @@@PLRENAME ^5Disco^2bug
+"[Mon Oct 26 15:31:10 2015]  Kill: 0 0 39: ^5Disco^2bug killed ^5Disco^2bug by MOD_SUICIDE
+[Mon Oct 26 15:40:20 2015]  ClientDisconnect: 0
+[Mon Oct 26 16:04:03 2015]  ClientConnect: 0
+[Mon Oct 26 16:04:03 2015]  mlog:Player ^5Disco^2bug, connected. With IP - 79.126.135.19:29070 
+[Mon Oct 26 16:04:27 2015]  ClientBegin: 0
+[Mon Oct 26 16:04:40 2015]  ClientDisconnect: 0
+[Mon Oct 26 16:08:14 2015]  ClientConnect: 0
+[Mon Oct 26 16:08:14 2015]  mlog:Player Padawan, connected. With IP - 81.100.22.163:29070 
+[Mon Oct 26 16:08:27 2015]  ClientConnect: 1
+[Mon Oct 26 16:08:27 2015]  mlog:Player ^5Disco^2bug, connected. With IP - 79.126.135.19:29070 
+[Mon Oct 26 16:08:44 2015]  ClientBegin: 0
+[Mon Oct 26 16:08:51 2015]  ClientBegin: 1
+[Mon Oct 26 16:09:02 2015]  print "Padawan^7 @@@PLRENAME not Padawan
+"[Mon Oct 26 16:09:30 2015]  Kill: 1 0 3: ^5Disco^2bug killed not Padawan by MOD_SABER
+[Mon Oct 26 16:09:53 2015]  Kill: 0 1 3: not Padawan killed ^5Disco^2bug by MOD_SABER
+[Mon Oct 26 16:10:45 2015]  Kill: 1 0 3: ^5Disco^2bug killed not Padawan by MOD_SABER
+[Mon Oct 26 16:11:17 2015]  Kill: 1 0 3: ^5Disco^2bug killed not Padawan by MOD_SABER
+[Mon Oct 26 16:11:32 2015]  Kill: 0 1 3: not Padawan killed ^5Disco^2bug by MOD_SABER
+[Mon Oct 26 16:11:43 2015]  tell: not Padawan to ^5Disco^2bug: wiww
+[Mon Oct 26 16:12:23 2015]  tell: not Padawan to ^5Disco^2bug: /giveall
+[Mon Oct 26 16:12:27 2015]  say: not Padawan: /give all
+[Mon Oct 26 16:13:34 2015]  Kill: 0 1 11: not Padawan killed ^5Disco^2bug by MOD_BOWCASTER
+[Mon Oct 26 16:14:26 2015]  Kill: 1 0 3: ^5Disco^2bug killed not Padawan by MOD_SABER
+[Mon Oct 26 16:14:45 2015]  Kill: 0 1 37: not Padawan killed ^5Disco^2bug by MOD_TELEFRAG
+[Mon Oct 26 16:15:11 2015]  Item: 0 ammo_all
+[Mon Oct 26 16:15:28 2015]  Kill: 1 0 3: ^5Disco^2bug killed not Padawan by MOD_SABER
+[Mon Oct 26 16:15:51 2015]  Kill: 1 0 3: ^5Disco^2bug killed not Padawan by MOD_SABER
+[Mon Oct 26 16:16:38 2015]  Kill: 0 1 3: not Padawan killed ^5Disco^2bug by MOD_SABER
+[Mon Oct 26 16:17:07 2015]  Kill: 0 1 29: not Padawan killed ^5Disco^2bug by MOD_CONC
+[Mon Oct 26 16:17:55 2015]  Kill: 1 0 29: ^5Disco^2bug killed not Padawan by MOD_CONC
+[Mon Oct 26 16:18:23 2015]  Kill: 1 0 29: ^5Disco^2bug killed not Padawan by MOD_CONC
+[Mon Oct 26 16:19:02 2015]  Item: 0 ammo_all
+[Mon Oct 26 16:19:46 2015]  Kill: 1 0 2: ^5Disco^2bug killed not Padawan by MOD_MELEE
+[Mon Oct 26 16:23:03 2015]  Kill: 0 1 19: not Padawan killed ^5Disco^2bug by MOD_ROCKET
+[Mon Oct 26 16:23:51 2015]  Kill: 0 1 1: not Padawan killed ^5Disco^2bug by MOD_STUN_BATON
+[Mon Oct 26 16:24:26 2015]  Kill: 0 1 6: not Padawan killed ^5Disco^2bug by MOD_BLASTER
+[Mon Oct 26 16:24:29 2015]  ClientDisconnect: 1
+[Mon Oct 26 16:25:17 2015]  ClientConnect: 1
+[Mon Oct 26 16:25:17 2015]  mlog:Player ^5Disco^2bug, connected. With IP - 79.126.135.19:29070 
+[Mon Oct 26 16:25:41 2015]  ClientBegin: 1
+[Mon Oct 26 16:25:56 2015]  Kill: 0 1 14: not Padawan killed ^5Disco^2bug by MOD_REPEATER_ALT_SPLASH
+[Mon Oct 26 16:26:22 2015]  Kill: 0 1 21: not Padawan killed ^5Disco^2bug by MOD_ROCKET_HOMING
+[Mon Oct 26 16:27:11 2015]  Kill: 0 1 5: not Padawan killed ^5Disco^2bug by MOD_BRYAR_PISTOL_ALT
+[Mon Oct 26 16:27:34 2015]  Item: 0 ammo_all
+[Mon Oct 26 16:27:56 2015]  Kill: 0 1 25: not Padawan killed ^5Disco^2bug by MOD_TRIP_MINE_SPLASH
+[Mon Oct 26 16:28:41 2015]  Kill: 1 0 3: ^5Disco^2bug killed not Padawan by MOD_SABER
+[Mon Oct 26 16:28:42 2015]  Item: 1 weapon_disruptor
+[Mon Oct 26 16:31:55 2015]  Kill: 0 1 5: not Padawan killed ^5Disco^2bug by MOD_BRYAR_PISTOL_ALT
+[Mon Oct 26 16:32:13 2015]  ClientDisconnect: 1
+[Mon Oct 26 16:32:13 2015]  ClientConnect: 1
+[Mon Oct 26 16:32:13 2015]  mlog:Player ^5Disco^2bug, connected. With IP - 79.126.135.19:29070 
+[Mon Oct 26 16:32:37 2015]  ClientBegin: 1
+[Mon Oct 26 16:32:58 2015]  ClientDisconnect: 1
+[Mon Oct 26 16:33:40 2015]  ClientConnect: 1
+[Mon Oct 26 16:33:40 2015]  mlog:Player ^5Disco^2bug, connected. With IP - 79.126.135.19:29070 
+[Mon Oct 26 16:34:05 2015]  ClientBegin: 1
+[Mon Oct 26 16:38:23 2015]  say: not Padawan: mkill all
+[Mon Oct 26 16:43:35 2015]  say: not Padawan: t
+[Mon Oct 26 16:45:38 2015]  ClientDisconnect: 1
+[Mon Oct 26 16:52:54 2015]  ClientConnect: 1
+[Mon Oct 26 16:52:54 2015]  mlog:Player ^5Disco^2bug, connected. With IP - 79.126.135.19:29070 
+[Mon Oct 26 16:53:19 2015]  ClientBegin: 1
+[Mon Oct 26 16:54:00 2015]  ClientDisconnect: 1
+[Mon Oct 26 16:55:10 2015]  ClientConnect: 1
+[Mon Oct 26 16:55:10 2015]  mlog:Player ^5Disco^2bug, connected. With IP - 79.126.135.19:29070 
+[Mon Oct 26 16:55:19 2015]  ClientBegin: 1
+[Mon Oct 26 16:55:37 2015]  ClientConnect: 2
+[Mon Oct 26 16:55:37 2015]  mlog:Player Padawan, connected. With IP - 77.29.114.206:29070 
+[Mon Oct 26 16:56:14 2015]  ClientBegin: 2
+[Mon Oct 26 16:56:45 2015]  print "Padawan^7 @@@PLRENAME Freeze
+"[Mon Oct 26 16:57:28 2015]  say: ^5Disco^2bug: kill urself lol
+[Mon Oct 26 16:58:27 2015]  Kill: 2 1 3: Freeze killed ^5Disco^2bug by MOD_SABER
+[Mon Oct 26 16:58:40 2015]  say: Freeze: wy
+[Mon Oct 26 16:59:33 2015]  Kill: 0 1 3: not Padawan killed ^5Disco^2bug by MOD_SABER
+[Mon Oct 26 17:00:07 2015]  Kill: 0 1 10: not Padawan killed ^5Disco^2bug by MOD_DISRUPTOR_SNIPER
+[Mon Oct 26 17:00:23 2015]  ClientConnect: 3
+[Mon Oct 26 17:00:23 2015]  mlog:Player Padawan, connected. With IP - 77.28.208.7:29071 
+[Mon Oct 26 17:00:43 2015]  ClientBegin: 3
+[Mon Oct 26 17:01:18 2015]  Kill: 0 2 1: not Padawan killed Freeze by MOD_STUN_BATON
+[Mon Oct 26 17:01:30 2015]  Kill: 2 1 3: Freeze killed ^5Disco^2bug by MOD_SABER
+[Mon Oct 26 17:01:33 2015]  Kill: 0 3 22: not Padawan killed Padawan by MOD_ROCKET_HOMING_SPLASH
+[Mon Oct 26 17:01:43 2015]  say: Freeze: td
+[Mon Oct 26 17:01:45 2015]  say: Freeze: w
+[Mon Oct 26 17:02:14 2015]  Kill: 0 2 25: not Padawan killed Freeze by MOD_TRIP_MINE_SPLASH
+[Mon Oct 26 17:02:14 2015]  Kill: 0 1 25: not Padawan killed ^5Disco^2bug by MOD_TRIP_MINE_SPLASH
+[Mon Oct 26 17:02:49 2015]  Kill: 0 3 3: not Padawan killed Padawan by MOD_SABER
+[Mon Oct 26 17:04:25 2015]  Kill: 1 3 3: ^5Disco^2bug killed Padawan by MOD_SABER
+[Mon Oct 26 17:04:39 2015]  Kill: 1 3 3: ^5Disco^2bug killed Padawan by MOD_SABER
+[Mon Oct 26 17:04:50 2015]  Kill: 1 3 3: ^5Disco^2bug killed Padawan by MOD_SABER
+[Mon Oct 26 17:05:01 2015]  Kill: 1 3 3: ^5Disco^2bug killed Padawan by MOD_SABER
+[Mon Oct 26 17:05:18 2015]  Kill: 1 2 29: ^5Disco^2bug killed Freeze by MOD_CONC
+[Mon Oct 26 17:05:28 2015]  Kill: 1 2 29: ^5Disco^2bug killed Freeze by MOD_CONC
+[Mon Oct 26 17:05:44 2015]  Kill: 1 0 29: ^5Disco^2bug killed not Padawan by MOD_CONC
+[Mon Oct 26 17:05:46 2015]  Kill: 1 3 29: ^5Disco^2bug killed Padawan by MOD_CONC
+[Mon Oct 26 17:06:56 2015]  say: ^5Disco^2bug: npc spawn stormtrooper
+[Mon Oct 26 17:07:24 2015]  Kill: 2 3 3: Freeze killed Padawan by MOD_SABER
+[Mon Oct 26 17:07:52 2015]  Kill: 1022 1 6: <world> killed ^5Disco^2bug by MOD_BLASTER
+[Mon Oct 26 17:08:22 2015]  Kill: 1 2 31: ^5Disco^2bug killed Freeze by MOD_FORCE_DARK
+[Mon Oct 26 17:10:00 2015]  Kill: 2 3 12: Freeze killed Padawan by MOD_REPEATER
+[Mon Oct 26 17:10:18 2015]  Kill: 2 3 12: Freeze killed Padawan by MOD_REPEATER
+[Mon Oct 26 17:10:29 2015]  Kill: 1 0 3: ^5Disco^2bug killed not Padawan by MOD_SABER
+[Mon Oct 26 17:10:34 2015]  Kill: 2 3 29: Freeze killed Padawan by MOD_CONC
+[Mon Oct 26 17:11:03 2015]  Kill: 2 3 20: Freeze killed Padawan by MOD_ROCKET_SPLASH
+[Mon Oct 26 17:11:24 2015]  Kill: 1 2 22: ^5Disco^2bug killed Freeze by MOD_ROCKET_HOMING_SPLASH
+[Mon Oct 26 17:11:40 2015]  Kill: 1 2 22: ^5Disco^2bug killed Freeze by MOD_ROCKET_HOMING_SPLASH
+[Mon Oct 26 17:11:54 2015]  Kill: 1 3 21: ^5Disco^2bug killed Padawan by MOD_ROCKET_HOMING
+[Mon Oct 26 17:11:57 2015]  Kill: 1 2 22: ^5Disco^2bug killed Freeze by MOD_ROCKET_HOMING_SPLASH
+[Mon Oct 26 17:12:18 2015]  Kill: 1 2 22: ^5Disco^2bug killed Freeze by MOD_ROCKET_HOMING_SPLASH
+[Mon Oct 26 17:13:20 2015]  print "Padawan^7 @@@PLRENAME Niggerkiller69xXx
+"[Mon Oct 26 17:13:28 2015]  Kill: 2 3 31: Freeze killed Niggerkiller69xXx by MOD_FORCE_DARK
+[Mon Oct 26 17:13:54 2015]  Kill: 2 3 3: Freeze killed Niggerkiller69xXx by MOD_SABER
+[Mon Oct 26 17:14:36 2015]  say: ^5Disco^2bug: brb
+[Mon Oct 26 17:14:48 2015]  Kill: 2 3 6: Freeze killed Niggerkiller69xXx by MOD_BLASTER
+[Mon Oct 26 17:15:01 2015]  Kill: 2 1 6: Freeze killed ^5Disco^2bug by MOD_BLASTER
+[Mon Oct 26 17:15:14 2015]  Kill: 2 3 6: Freeze killed Niggerkiller69xXx by MOD_BLASTER
+[Mon Oct 26 17:15:28 2015]  Kill: 2 2 27: Freeze killed Freeze by MOD_DET_PACK_SPLASH
+[Mon Oct 26 17:16:24 2015]  Kill: 2 2 27: Freeze killed Freeze by MOD_DET_PACK_SPLASH
+[Mon Oct 26 17:16:24 2015]  Kill: 2 3 27: Freeze killed Niggerkiller69xXx by MOD_DET_PACK_SPLASH
+[Mon Oct 26 17:16:26 2015]  Kill: 2 1 37: Freeze killed ^5Disco^2bug by MOD_TELEFRAG
+[Mon Oct 26 17:16:26 2015]  Kill: 3 2 37: Niggerkiller69xXx killed Freeze by MOD_TELEFRAG
+[Mon Oct 26 17:16:27 2015]  Kill: 2 3 37: Freeze killed Niggerkiller69xXx by MOD_TELEFRAG
+[Mon Oct 26 17:16:48 2015]  Kill: 2 3 3: Freeze killed Niggerkiller69xXx by MOD_SABER
+[Mon Oct 26 17:16:49 2015]  Kill: 3 1 37: Niggerkiller69xXx killed ^5Disco^2bug by MOD_TELEFRAG
+[Mon Oct 26 17:17:10 2015]  Kill: 2 3 3: Freeze killed Niggerkiller69xXx by MOD_SABER
+[Mon Oct 26 17:17:22 2015]  say: Freeze: npc spawn mutant_rancor
+[Mon Oct 26 17:17:27 2015]  say: Niggerkiller69xXx: godmode
+[Mon Oct 26 17:19:09 2015]  say: Freeze: npc spawn rancor
+[Mon Oct 26 17:23:15 2015]  Kill: 2 1 27: Freeze killed ^5Disco^2bug by MOD_DET_PACK_SPLASH
+[Mon Oct 26 17:23:51 2015]  Kill: 2 2 27: Freeze killed Freeze by MOD_DET_PACK_SPLASH
+[Mon Oct 26 17:23:55 2015]  Item: 3 weapon_det_pack
+[Mon Oct 26 17:24:51 2015]  say: ^5Disco^2bug: mplace factory/catw2_b
+[Mon Oct 26 17:26:47 2015]  Kill: 3 3 39: Niggerkiller69xXx killed Niggerkiller69xXx by MOD_SUICIDE
+[Mon Oct 26 17:26:53 2015]  Kill: 1 2 29: ^5Disco^2bug killed Freeze by MOD_CONC
+[Mon Oct 26 17:29:23 2015]  ClientDisconnect: 1
+[Mon Oct 26 17:30:04 2015]  ClientDisconnect: 3
+[Mon Oct 26 17:30:36 2015]  ClientConnect: 1
+[Mon Oct 26 17:30:36 2015]  mlog:Player ^5Disco^2bug, connected. With IP - 79.126.135.19:29070 
+[Mon Oct 26 17:30:41 2015]  ClientDisconnect: 2
+[Mon Oct 26 17:30:56 2015]  ClientConnect: 2
+[Mon Oct 26 17:30:56 2015]  mlog:Player Padawan, connected. With IP - 46.217.88.129:29070 
+[Mon Oct 26 17:31:01 2015]  ClientBegin: 1
+[Mon Oct 26 17:31:26 2015]  ClientDisconnect: 1
+[Mon Oct 26 17:31:34 2015]  ClientBegin: 2
+[Mon Oct 26 17:31:54 2015]  ClientConnect: 1
+[Mon Oct 26 17:31:54 2015]  mlog:Player ^5Disco^2bug, connected. With IP - 79.126.135.19:29070 
+[Mon Oct 26 17:32:05 2015]  print "Freeze^7 @@@PLRENAME EdgeLord69
+"[Mon Oct 26 17:32:18 2015]  ClientBegin: 1
+[Mon Oct 26 17:43:17 2015]  Kill: 0 0 39: not Padawan killed not Padawan by MOD_SUICIDE
+[Mon Oct 26 17:43:41 2015]  say: ^5Disco^2bug: mkillall
+[Mon Oct 26 17:43:54 2015]  say: ^5Disco^2bug: mgrabbing
+[Mon Oct 26 17:49:29 2015]  Kill: 2 0 25: EdgeLord69 killed not Padawan by MOD_TRIP_MINE_SPLASH
+[Mon Oct 26 17:59:02 2015]  ClientDisconnect: 1
+[Mon Oct 26 17:59:31 2015]  ClientConnect: 1
+[Mon Oct 26 17:59:31 2015]  mlog:Player ^5Disco^2bug, connected. With IP - 79.126.135.19:29070 
+[Mon Oct 26 17:59:55 2015]  ClientBegin: 1
+[Mon Oct 26 18:03:07 2015]  ClientDisconnect: 2
+[Mon Oct 26 18:04:37 2015]  say: ^5Disco^2bug: mrotate x y z
+[Mon Oct 26 18:21:30 2015]  say: ^5Disco^2bug: mselect
+[Mon Oct 26 18:21:33 2015]  say: ^5Disco^2bug: musable
+[Mon Oct 26 18:21:40 2015]  say: ^5Disco^2bug: mprintsw <message>
+[Mon Oct 26 18:23:12 2015]  say: ^5Disco^2bug: musable
+[Mon Oct 26 18:23:21 2015]  say: ^5Disco^2bug: mprintsw <Your message here>
+[Mon Oct 26 18:24:06 2015]  say: ^5Disco^2bug: 100 ping
+[Mon Oct 26 18:24:08 2015]  say: ^5Disco^2bug: GG
+[Mon Oct 26 18:24:15 2015]  say: ^5Disco^2bug: how come this door work
+[Mon Oct 26 18:24:16 2015]  say: ^5Disco^2bug: heresy
+[Mon Oct 26 18:24:43 2015]  ClientDisconnect: 1
+[Mon Oct 26 18:25:12 2015]  ClientConnect: 1
+[Mon Oct 26 18:25:12 2015]  mlog:Player ^5Disco^2bug, connected. With IP - 79.126.135.19:29070 
+[Mon Oct 26 18:25:36 2015]  ClientBegin: 1
+[Mon Oct 26 18:29:36 2015]  say: ^5Disco^2bug: msaveobs <your username> <your password>
+[Mon Oct 26 18:34:22 2015]  say: ^5Disco^2bug: mrotate x y z

@@ -1,0 +1,58 @@
+[Thu Nov 21 00:27:34 2013]  ------------------------------------------------------------
+[Thu Nov 21 00:27:34 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Nov 21 12:01:26 2013]  ------------------------------------------------------------
+[Thu Nov 21 12:01:26 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Nov 21 13:36:32 2013]  ClientConnect: 0
+[Thu Nov 21 13:36:32 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.7:-15 
+[Thu Nov 21 13:36:47 2013]  ClientBegin: 0
+[Thu Nov 21 13:38:16 2013]  Kill: 0 0 39: FREED killed FREED by MOD_SUICIDE
+[Thu Nov 21 13:40:29 2013]  ClientDisconnect: 0
+[Thu Nov 21 14:01:20 2013]  Exit: Timelimit hit.
+[Thu Nov 21 16:23:03 2013]  ClientConnect: 0
+[Thu Nov 21 16:23:03 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.7:-4558 
+[Thu Nov 21 16:23:12 2013]  ClientBegin: 0
+[Thu Nov 21 16:23:15 2013]  ShutdownGame:
+[Thu Nov 21 16:23:15 2013]  ------------------------------------------------------------
+[Thu Nov 21 16:23:16 2013]  ------------------------------------------------------------
+[Thu Nov 21 16:23:16 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Nov 21 16:23:17 2013]  ClientConnect: 0
+[Thu Nov 21 16:23:24 2013]  ClientBegin: 0
+[Thu Nov 21 16:24:08 2013]  ClientDisconnect: 0
+[Thu Nov 21 17:09:29 2013]  ClientConnect: 0
+[Thu Nov 21 17:09:29 2013]  mlog:Player WhiteMagicRaven, connected. With IP - 178.136.22.127:29070 
+[Thu Nov 21 17:09:40 2013]  ClientDisconnect: 0
+[Thu Nov 21 17:16:48 2013]  ClientConnect: 0
+[Thu Nov 21 17:16:48 2013]  mlog:Player WhiteMagicRaven, connected. With IP - 178.136.22.127:29070 
+[Thu Nov 21 17:16:57 2013]  ClientDisconnect: 0
+[Thu Nov 21 17:17:35 2013]  ClientConnect: 0
+[Thu Nov 21 17:17:35 2013]  mlog:Player WhiteMagicRaven, connected. With IP - 178.136.22.127:29070 
+[Thu Nov 21 17:32:10 2013]  ClientConnect: 1
+[Thu Nov 21 17:32:10 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 81.151.48.153:29070 
+[Thu Nov 21 17:32:38 2013]  ClientBegin: 1
+[Thu Nov 21 17:35:14 2013]  ClientDisconnect: 1
+[Thu Nov 21 18:23:15 2013]  Exit: Timelimit hit.
+[Thu Nov 21 18:29:03 2013]  ClientDisconnect: 0
+[Fri Nov 22 08:11:21 2013]  ClientConnect: 0
+[Fri Nov 22 08:11:21 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.7:-1326 
+[Fri Nov 22 08:11:43 2013]  ClientBegin: 0
+[Fri Nov 22 08:11:46 2013]  ClientDisconnect: 0
+[Fri Nov 22 09:26:26 2013]  ClientConnect: 0
+[Fri Nov 22 09:26:26 2013]  mlog:Player ^4R^0E^4S^0T^4O^0R^4M, connected. With IP - 213.251.210.7:-8676 
+[Fri Nov 22 09:26:34 2013]  ClientDisconnect: 0
+[Fri Nov 22 10:46:31 2013]  ClientConnect: 0
+[Fri Nov 22 10:46:31 2013]  mlog:Player FREED, connected. With IP - 213.251.210.7:-12156 
+[Fri Nov 22 10:46:42 2013]  ClientBegin: 0
+[Fri Nov 22 10:46:45 2013]  ClientDisconnect: 0
+[Fri Nov 22 11:01:42 2013]  ClientConnect: 0
+[Fri Nov 22 11:01:42 2013]  mlog:Player ^4R^0E^4S^0T^4O^0R^4M, connected. With IP - 213.251.210.7:-11738 
+[Fri Nov 22 11:01:48 2013]  ClientBegin: 0
+[Fri Nov 22 11:01:54 2013]  ClientDisconnect: 0
+[Fri Nov 22 18:53:17 2013]  ClientConnect: 0
+[Fri Nov 22 18:53:17 2013]  mlog:Player WhiteMagicRaven, connected. With IP - 46.200.145.173:29070 
+[Fri Nov 22 18:53:25 2013]  say: Padawan: forceprev
+[Fri Nov 22 18:53:26 2013]  ClientDisconnect: 0
+[Sat Nov 23 05:44:10 2013]  ClientConnect: 0
+[Sat Nov 23 05:44:10 2013]  mlog:Player ^5^1Darth ^8Kias, connected. With IP - 46.39.248.67:-26917 
+[Sat Nov 23 05:44:33 2013]  ClientBegin: 0
+[Sat Nov 23 05:44:42 2013]  ShutdownGame:
+[Sat Nov 23 05:44:42 2013]  ------------------------------------------------------------

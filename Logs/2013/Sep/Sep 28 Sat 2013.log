@@ -1,0 +1,2073 @@
+[Sat Sep 28 00:32:13 2013]  ------------------------------------------------------------
+[Sat Sep 28 00:32:13 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 00:32:14 2013]  ClientConnect: 0
+[Sat Sep 28 00:32:58 2013]  ClientBegin: 0
+[Sat Sep 28 00:42:54 2013]  ClientConnect: 1
+[Sat Sep 28 00:42:54 2013]  mlog:Player Maestro Hispano ^3Amras, connected. With IP - 85.219.4.121:29070 
+[Sat Sep 28 00:43:13 2013]  ClientBegin: 1
+[Sat Sep 28 00:43:21 2013]  say: Maestro Hispano ^3Amras: hola hi
+[Sat Sep 28 00:43:36 2013]  say: newcomer: hi
+[Sat Sep 28 00:45:00 2013]  say: Maestro Hispano ^3Amras: xD what type?
+[Sat Sep 28 00:46:35 2013]  say: Maestro Hispano ^3Amras: nice command x
+[Sat Sep 28 00:46:37 2013]  say: Maestro Hispano ^3Amras: xD
+[Sat Sep 28 00:46:44 2013]  say: newcomer: :)
+[Sat Sep 28 00:46:46 2013]  say: Maestro Hispano ^3Amras: ^^
+[Sat Sep 28 00:47:00 2013]  say: Maestro Hispano ^3Amras: wow!
+[Sat Sep 28 00:47:04 2013]  say: Maestro Hispano ^3Amras:  *_*
+[Sat Sep 28 00:49:16 2013]  say: Maestro Hispano ^3Amras: w
+[Sat Sep 28 00:49:17 2013]  say: Maestro Hispano ^3Amras: t
+[Sat Sep 28 00:49:19 2013]  say: Maestro Hispano ^3Amras: f
+[Sat Sep 28 00:49:22 2013]  say: Maestro Hispano ^3Amras: O.o
+[Sat Sep 28 00:49:27 2013]  say: Maestro Hispano ^3Amras: he can die?
+[Sat Sep 28 00:49:32 2013]  say: newcomer: yes)
+[Sat Sep 28 00:49:38 2013]  say: Maestro Hispano ^3Amras: muahahahahah go xD
+[Sat Sep 28 00:51:02 2013]  say: Maestro Hispano ^3Amras: xD makermod
+[Sat Sep 28 00:51:21 2013]  say: newcomer: xD
+[Sat Sep 28 00:53:39 2013]  Item: 1 ammo_all
+[Sat Sep 28 00:53:44 2013]  Item: 1 ammo_all
+[Sat Sep 28 00:53:49 2013]  Item: 1 ammo_all
+[Sat Sep 28 00:53:56 2013]  Item: 1 ammo_all
+[Sat Sep 28 00:54:01 2013]  Item: 1 ammo_all
+[Sat Sep 28 00:54:08 2013]  Item: 1 ammo_all
+[Sat Sep 28 00:55:55 2013]  say: newcomer: spawn swoop_mp
+[Sat Sep 28 00:56:28 2013]  say: Maestro Hispano ^3Amras: /npc spawn vehicle swoop xD
+[Sat Sep 28 00:56:42 2013]  say: newcomer: use swoop_mp
+[Sat Sep 28 00:57:02 2013]  say: Maestro Hispano ^3Amras: swoop_mp
+[Sat Sep 28 00:57:04 2013]  say: Maestro Hispano ^3Amras: ?
+[Sat Sep 28 00:57:18 2013]  say: Maestro Hispano ^3Amras: i dont have makermod xD
+[Sat Sep 28 00:57:19 2013]  say: newcomer: npc spawn vehicle swoop_mp
+[Sat Sep 28 00:57:34 2013]  say: Maestro Hispano ^3Amras: aaah oh xD
+[Sat Sep 28 00:57:47 2013]  say: newcomer: you dont need makermod, makermod is in the server)
+[Sat Sep 28 00:58:06 2013]  say: Maestro Hispano ^3Amras: i dont know types/ commands
+[Sat Sep 28 00:58:07 2013]  say: Maestro Hispano ^3Amras: xD
+[Sat Sep 28 01:00:15 2013]  say: newcomer: i can kill him, if you want)
+[Sat Sep 28 01:00:25 2013]  say: Maestro Hispano ^3Amras: xD how? xD
+[Sat Sep 28 01:00:29 2013]  say: Maestro Hispano ^3Amras: what type? xD
+[Sat Sep 28 01:00:48 2013]  say: newcomer: npc kill all
+[Sat Sep 28 01:00:57 2013]  say: newcomer: i can kill all my npcs)
+[Sat Sep 28 01:01:07 2013]  say: Maestro Hispano ^3Amras: ah,ow xD
+[Sat Sep 28 01:01:09 2013]  say: newcomer: but you cant kill my npc
+[Sat Sep 28 01:02:41 2013]  say: newcomer: * you can kill my npc with weapon, but your npc kill all cant kill my npc
+[Sat Sep 28 01:03:02 2013]  say: Maestro Hispano ^3Amras: aaaah thx ^^
+[Sat Sep 28 01:04:20 2013]  say: newcomer: My origin is: (-10385 336 -268) - You can teleport here with /mtelelast
+
+[Sat Sep 28 01:05:55 2013]  say: newcomer: xd
+[Sat Sep 28 01:05:58 2013]  say: Maestro Hispano ^3Amras: hahhahaha
+[Sat Sep 28 01:06:53 2013]  say: Maestro Hispano ^3Amras: u know some commands to teleport to any site?
+[Sat Sep 28 01:07:28 2013]  say: newcomer: you may use mtele <coordx> <y> <z>
+[Sat Sep 28 01:07:52 2013]  say: Maestro Hispano ^3Amras: <coordx>
+[Sat Sep 28 01:08:34 2013]  say: newcomer: for example mtele -2050 -1416 -7
+[Sat Sep 28 01:09:08 2013]  say: Maestro Hispano ^3Amras: oh
+[Sat Sep 28 01:09:10 2013]  say: newcomer: and you may use morigin to see your coords
+[Sat Sep 28 01:09:53 2013]  say: Maestro Hispano ^3Amras: ahhahahahaha
+[Sat Sep 28 01:10:05 2013]  Kill: 1022 1 2: <world> killed Maestro Hispano ^3Amras by MOD_MELEE
+[Sat Sep 28 01:10:39 2013]  say: newcomer: you may use notarget)
+[Sat Sep 28 01:10:44 2013]  say: Maestro Hispano ^3Amras: xDD
+[Sat Sep 28 01:10:49 2013]  say: Maestro Hispano ^3Amras: i use god
+[Sat Sep 28 01:11:04 2013]  say: Maestro Hispano ^3Amras: now use notarget
+[Sat Sep 28 01:11:06 2013]  say: newcomer: but rancor can kill you with god)
+[Sat Sep 28 01:11:21 2013]  say: newcomer: is single player too, by the way
+[Sat Sep 28 01:11:36 2013]  say: Maestro Hispano ^3Amras: as do the explosion?
+[Sat Sep 28 01:12:28 2013]  say: Maestro Hispano ^3Amras: xDDDD
+[Sat Sep 28 01:12:46 2013]  say: newcomer: switch off notarget:)
+[Sat Sep 28 01:13:09 2013]  say: newcomer: xd
+[Sat Sep 28 01:14:26 2013]  say: Maestro Hispano ^3Amras: hahahahaha
+[Sat Sep 28 01:14:51 2013]  say: Maestro Hispano ^3Amras: wow
+[Sat Sep 28 01:15:01 2013]  say: Maestro Hispano ^3Amras: as u do? xD
+[Sat Sep 28 01:15:39 2013]  say: newcomer: rancor eated me with god and noclip
+[Sat Sep 28 01:15:54 2013]  say: Maestro Hispano ^3Amras: lool
+[Sat Sep 28 01:16:01 2013]  Kill: 0 0 39: newcomer killed newcomer by MOD_SUICIDE
+[Sat Sep 28 01:16:14 2013]  say: Maestro Hispano ^3Amras: but u blast kill him
+[Sat Sep 28 01:16:37 2013]  say: newcomer: enter msayrogiin please)
+[Sat Sep 28 01:16:45 2013]  say: newcomer: * msayorigin
+[Sat Sep 28 01:17:29 2013]  say: Maestro Hispano ^3Amras: where are u?
+[Sat Sep 28 01:17:40 2013]  say: newcomer: My origin is: (-2349 -747 -471) - You can teleport here with /mtelelast
+
+[Sat Sep 28 01:18:04 2013]  say: Maestro Hispano ^3Amras: as dothe blast? xDD
+[Sat Sep 28 01:18:16 2013]  say: Maestro Hispano ^3Amras: d othe*
+[Sat Sep 28 01:18:24 2013]  say: Maestro Hispano ^3Amras: do the**
+[Sat Sep 28 01:19:33 2013]  say: newcomer: mscalet
+[Sat Sep 28 01:20:35 2013]  say: Maestro Hispano ^3Amras: hahahahaha
+[Sat Sep 28 01:24:42 2013]  Kill: 1 1 39: Maestro Hispano ^3Amras killed Maestro Hispano ^3Amras by MOD_SUICIDE
+[Sat Sep 28 01:24:49 2013]  say: newcomer: My origin is: (-2455 -1090 -471) - You can teleport here with /mtelelast
+
+[Sat Sep 28 01:25:15 2013]  say: Maestro Hispano ^3Amras: xD u are invisible
+[Sat Sep 28 01:25:25 2013]  say: Maestro Hispano ^3Amras: now no
+[Sat Sep 28 01:25:33 2013]  say: newcomer: i know :)
+[Sat Sep 28 01:25:38 2013]  say: Maestro Hispano ^3Amras: how? xDDDD
+[Sat Sep 28 01:25:56 2013]  say: newcomer: mscaleme 10.25
+[Sat Sep 28 01:26:14 2013]  say: Maestro Hispano ^3Amras: hahahaha
+[Sat Sep 28 01:26:16 2013]  say: Maestro Hispano ^3Amras: thx
+[Sat Sep 28 01:27:25 2013]  say: Maestro Hispano ^3Amras: wow
+[Sat Sep 28 01:28:00 2013]  say: Maestro Hispano ^3Amras: ur blast is /mscblast? xDDD
+[Sat Sep 28 01:28:17 2013]  say: newcomer: hm... what is it?
+[Sat Sep 28 01:28:24 2013]  say: Maestro Hispano ^3Amras: explosion xD
+[Sat Sep 28 01:28:31 2013]  say: newcomer: this is repulse)
+[Sat Sep 28 01:28:34 2013]  say: Maestro Hispano ^3Amras: this xD
+[Sat Sep 28 01:30:12 2013]  say: newcomer: set repulse  marm 0;manim both_force_rage;wait 50;mplacefx concussion/explosion 1 0;mgrab;mdrop;noclip;mpain 999999 199;wait 50;mkill;noclip 
+[Sat Sep 28 01:30:47 2013]  say: newcomer: use quotes before first marm and after last mkill
+[Sat Sep 28 01:31:28 2013]  say: newcomer: then you can vstr repulse
+[Sat Sep 28 01:31:30 2013]  say: Maestro Hispano ^3Amras: hmmm
+[Sat Sep 28 01:32:10 2013]  Exit: Timelimit hit.
+[Sat Sep 28 01:32:10 2013]  score: 12  ping: 69  client: 1 Maestro Hispano ^3Amras
+[Sat Sep 28 01:32:10 2013]  score: 4  ping: 62  client: 0 newcomer
+[Sat Sep 28 01:32:18 2013]  ShutdownGame:
+[Sat Sep 28 01:32:18 2013]  ------------------------------------------------------------
+[Sat Sep 28 01:32:18 2013]  ------------------------------------------------------------
+[Sat Sep 28 01:32:18 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 01:32:20 2013]  ClientConnect: 0
+[Sat Sep 28 01:32:20 2013]  ClientConnect: 1
+[Sat Sep 28 01:32:38 2013]  ClientBegin: 0
+[Sat Sep 28 01:32:38 2013]  Kill: 1 0 37: Maestro Hispano ^3Amras killed newcomer by MOD_TELEFRAG
+[Sat Sep 28 01:32:38 2013]  ClientBegin: 1
+[Sat Sep 28 01:32:43 2013]  say: Maestro Hispano ^3Amras: lol
+[Sat Sep 28 01:32:57 2013]  say: Maestro Hispano ^3Amras: there is a specific command?  xDD
+[Sat Sep 28 01:33:01 2013]  say: newcomer: my favorite map on makermod)
+[Sat Sep 28 01:33:06 2013]  say: newcomer: repulse?
+[Sat Sep 28 01:33:10 2013]  say: Maestro Hispano ^3Amras: yes xD
+[Sat Sep 28 01:33:19 2013]  say: newcomer: no, this is script
+[Sat Sep 28 01:33:25 2013]  say: Maestro Hispano ^3Amras: oh
+[Sat Sep 28 01:33:27 2013]  say: Maestro Hispano ^3Amras: xD
+[Sat Sep 28 01:34:39 2013]  say: newcomer: My origin is: (7327 8353 1508) - You can teleport here with /mtelelast
+
+[Sat Sep 28 01:36:04 2013]  ClientDisconnect: 1
+[Sat Sep 28 02:01:54 2013]  Kill: 0 0 39: newcomer killed newcomer by MOD_SUICIDE
+[Sat Sep 28 02:01:57 2013]  ClientDisconnect: 0
+[Sat Sep 28 02:32:17 2013]  Exit: Timelimit hit.
+[Sat Sep 28 06:42:18 2013]  ClientConnect: 0
+[Sat Sep 28 06:42:18 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.41:-13985 
+[Sat Sep 28 06:42:37 2013]  ClientBegin: 0
+[Sat Sep 28 06:42:39 2013]  ShutdownGame:
+[Sat Sep 28 06:42:39 2013]  ------------------------------------------------------------
+[Sat Sep 28 06:42:39 2013]  ------------------------------------------------------------
+[Sat Sep 28 06:42:39 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 06:42:40 2013]  ClientConnect: 0
+[Sat Sep 28 06:42:43 2013]  ClientDisconnect: 0
+[Sat Sep 28 06:49:31 2013]  ClientConnect: 0
+[Sat Sep 28 06:49:31 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.41:-1256 
+[Sat Sep 28 06:49:48 2013]  ClientBegin: 0
+[Sat Sep 28 06:49:53 2013]  ClientConnect: 1
+[Sat Sep 28 06:49:53 2013]  mlog:Player ^1Dauren, connected. With IP - 147.30.67.139:29070 
+[Sat Sep 28 06:50:20 2013]  ClientBegin: 1
+[Sat Sep 28 06:50:26 2013]  say: ^3R^0O^3N: КУ
+[Sat Sep 28 06:50:30 2013]  say: ^1Dauren: куу
+[Sat Sep 28 06:50:32 2013]  say: ^1Dauren: привет
+[Sat Sep 28 06:50:34 2013]  say: ^1Dauren: неужели 
+[Sat Sep 28 06:50:38 2013]  say: ^1Dauren: я давно макер не играл
+[Sat Sep 28 06:51:11 2013]  say: ^3R^0O^3N: ПОМНИШЬ GUEST#^
+[Sat Sep 28 06:51:16 2013]  say: ^3R^0O^3N: 6
+[Sat Sep 28 06:51:19 2013]  say: ^1Dauren: а ну
+[Sat Sep 28 06:51:24 2013]  say: ^1Dauren: на дуэли
+[Sat Sep 28 06:51:30 2013]  say: ^3R^0O^3N: да
+[Sat Sep 28 06:51:44 2013]  say: ^1Dauren: а ты че тут потерял))
+[Sat Sep 28 06:51:47 2013]  say: ^1Dauren: слыш
+[Sat Sep 28 06:51:50 2013]  say: ^1Dauren: а ты откуда
+[Sat Sep 28 06:52:01 2013]  say: ^3R^0O^3N: всмысле
+[Sat Sep 28 06:52:05 2013]  say: ^1Dauren: с какой страны
+[Sat Sep 28 06:52:21 2013]  say: ^3R^0O^3N: сРОССИИ
+[Sat Sep 28 06:52:33 2013]  say: ^1Dauren:  а ты раньше играл макермод
+[Sat Sep 28 06:52:39 2013]  say: ^3R^0O^3N: да
+[Sat Sep 28 06:52:44 2013]  say: ^1Dauren: сколько лет играеш
+[Sat Sep 28 06:52:55 2013]  say: ^3R^0O^3N: 3 месяца
+[Sat Sep 28 06:53:11 2013]  say: ^3R^0O^3N: уже все коды знаю
+[Sat Sep 28 06:53:27 2013]  say: ^1Dauren:  я раньше целый год играл и забросил 2 года не играл и забыл все
+[Sat Sep 28 06:53:38 2013]  say: ^1Dauren: го дуэль
+[Sat Sep 28 06:53:40 2013]  Kill: 1 1 39: ^1Dauren killed ^1Dauren by MOD_SUICIDE
+[Sat Sep 28 06:54:02 2013]  say: ^3R^0O^3N: у меня там на дуели мут был я не мог ничего говорить
+[Sat Sep 28 06:54:12 2013]  say: ^1Dauren: ну пох
+[Sat Sep 28 06:54:17 2013]  say: ^1Dauren: напиши килл
+[Sat Sep 28 06:54:19 2013]  Kill: 1 1 39: ^1Dauren killed ^1Dauren by MOD_SUICIDE
+[Sat Sep 28 06:54:25 2013]  say: ^1Dauren: убейся
+[Sat Sep 28 06:54:44 2013]  Kill: 0 1 3: ^3R^0O^3N killed ^1Dauren by MOD_SABER
+[Sat Sep 28 06:54:54 2013]  say: ^1Dauren: скайп есьт
+[Sat Sep 28 06:55:02 2013]  say: ^3R^0O^3N: NOPE
+[Sat Sep 28 06:55:17 2013]  say: ^1Dauren: o
+[Sat Sep 28 06:55:20 2013]  Kill: 1 1 39: ^1Dauren killed ^1Dauren by MOD_SUICIDE
+[Sat Sep 28 06:55:29 2013]  say: ^1Dauren: щяс приду будь сдесь ок?
+[Sat Sep 28 06:55:34 2013]  say: ^3R^0O^3N: ок
+[Sat Sep 28 06:55:37 2013]  ClientDisconnect: 1
+[Sat Sep 28 07:01:46 2013]  say: ^3R^0O^3N: |noclip
+[Sat Sep 28 07:11:30 2013]  Item: 0 ammo_all
+[Sat Sep 28 07:13:34 2013]  ClientConnect: 1
+[Sat Sep 28 07:13:34 2013]  mlog:Player max, connected. With IP - 46.39.244.66:-10253 
+[Sat Sep 28 07:14:06 2013]  ClientBegin: 1
+[Sat Sep 28 07:14:19 2013]  say: maxim: o privet
+[Sat Sep 28 07:14:22 2013]  say: maxim: ron
+[Sat Sep 28 07:14:24 2013]  say: ^3R^0O^3N: зкшм
+[Sat Sep 28 07:14:28 2013]  say: ^3R^0O^3N: priv
+[Sat Sep 28 07:14:31 2013]  say: maxim: pomnish men9?
+[Sat Sep 28 07:14:36 2013]  say: ^3R^0O^3N: da
+[Sat Sep 28 07:14:39 2013]  say: maxim: v4era
+[Sat Sep 28 07:14:52 2013]  say: maxim: ti vk ect?
+[Sat Sep 28 07:14:59 2013]  say: ^3R^0O^3N: nope
+[Sat Sep 28 07:15:03 2013]  say: maxim: net?
+[Sat Sep 28 07:15:08 2013]  say: ^3R^0O^3N: da
+[Sat Sep 28 07:15:35 2013]  say: maxim: tak ect? v kontakte
+[Sat Sep 28 07:15:40 2013]  say: ^3R^0O^3N: net
+[Sat Sep 28 07:16:05 2013]  say: maxim: ti v steam igraesh?
+[Sat Sep 28 07:16:14 2013]  say: ^3R^0O^3N: nope
+[Sat Sep 28 07:19:55 2013]  say: maxim: xexe
+[Sat Sep 28 07:22:05 2013]  say: maxim: ti lubish servera makermod?
+[Sat Sep 28 07:22:12 2013]  say: maxim: s chitami?
+[Sat Sep 28 07:22:12 2013]  say: ^3R^0O^3N: da
+[Sat Sep 28 07:22:17 2013]  say: maxim: 9 toze
+[Sat Sep 28 07:22:29 2013]  say: ^3R^0O^3N: davai next map
+[Sat Sep 28 07:22:34 2013]  say: maxim: ok
+[Sat Sep 28 07:22:54 2013]  say: maxim: pereklucaj
+[Sat Sep 28 07:23:01 2013]  say: ^3R^0O^3N: ne lza
+[Sat Sep 28 07:23:15 2013]  say: maxim: 9 toze ne admin
+[Sat Sep 28 07:23:50 2013]  say: maxim: zdelay norm razmer
+[Sat Sep 28 07:24:20 2013]  say: ^3R^0O^3N: ti gde
+[Sat Sep 28 07:26:11 2013]  say: maxim: ti s 1 ydara?
+[Sat Sep 28 07:26:15 2013]  say: maxim: kak?
+[Sat Sep 28 07:26:22 2013]  say: ^3R^0O^3N: legko
+[Sat Sep 28 07:26:32 2013]  say: maxim: skazi camandu
+[Sat Sep 28 07:26:53 2013]  say: maxim: camandu
+[Sat Sep 28 07:26:57 2013]  say: maxim: skazi
+[Sat Sep 28 07:27:38 2013]  say: maxim: idi za mnoi
+[Sat Sep 28 07:27:51 2013]  say: ^3R^0O^3N: ydershivai pravoi knopki mishi
+[Sat Sep 28 07:28:00 2013]  say: maxim: znau
+[Sat Sep 28 07:28:03 2013]  say: maxim: eto
+[Sat Sep 28 07:28:07 2013]  say: maxim: go za mnou
+[Sat Sep 28 07:28:38 2013]  say: maxim: kakay camand na laser?
+[Sat Sep 28 07:28:51 2013]  say: ^3R^0O^3N: na kakoi lazer
+[Sat Sep 28 07:28:57 2013]  say: maxim: vot etot
+[Sat Sep 28 07:29:19 2013]  say: ^3R^0O^3N: ti nabiral /give all
+[Sat Sep 28 07:29:26 2013]  say: maxim: ne
+[Sat Sep 28 07:29:30 2013]  say: maxim: /mplace
+[Sat Sep 28 07:29:32 2013]  say: ^3R^0O^3N: naberi
+[Sat Sep 28 07:29:36 2013]  say: maxim: 4toto tam
+[Sat Sep 28 07:29:52 2013]  say: maxim: ymeesh tak smatri
+[Sat Sep 28 07:29:52 2013]  say: ^3R^0O^3N: naberi /give all
+[Sat Sep 28 07:30:16 2013]  say: maxim: idi
+[Sat Sep 28 07:30:19 2013]  say: maxim: syda
+[Sat Sep 28 07:30:22 2013]  say: maxim: i smari
+[Sat Sep 28 07:30:38 2013]  say: maxim: wot tak
+[Sat Sep 28 07:30:43 2013]  say: maxim: mozesh?
+[Sat Sep 28 07:30:49 2013]  say: ^3R^0O^3N: nee 
+[Sat Sep 28 07:30:55 2013]  say: maxim: dat camand?
+[Sat Sep 28 07:30:58 2013]  say: ^3R^0O^3N: da
+[Sat Sep 28 07:31:01 2013]  say: maxim: pricolnou
+[Sat Sep 28 07:31:21 2013]  say: maxim: /mplace miniturret, potom, mdrop
+[Sat Sep 28 07:31:25 2013]  say: maxim: /mdrop
+[Sat Sep 28 07:31:29 2013]  say: maxim: potom
+[Sat Sep 28 07:31:37 2013]  say: ^3R^0O^3N: spc
+[Sat Sep 28 07:31:42 2013]  say: maxim: vedi
+[Sat Sep 28 07:32:44 2013]  say: maxim: xexe
+[Sat Sep 28 07:33:08 2013]  say: ^3R^0O^3N: nikak
+[Sat Sep 28 07:33:09 2013]  say: maxim: vvel /mplace miniturret?
+[Sat Sep 28 07:33:11 2013]  ClientConnect: 2
+[Sat Sep 28 07:33:11 2013]  mlog:Player ^0D^3arth ^0F^3urious, connected. With IP - 128.69.170.8:29070 
+[Sat Sep 28 07:33:25 2013]  say: ^3R^0O^3N: ne nikak
+[Sat Sep 28 07:33:28 2013]  say: maxim: togda
+[Sat Sep 28 07:33:32 2013]  say: maxim: vo
+[Sat Sep 28 07:33:35 2013]  say: maxim: vidal
+[Sat Sep 28 07:33:40 2013]  ClientBegin: 2
+[Sat Sep 28 07:33:44 2013]  say: maxim: miskoi verx
+[Sat Sep 28 07:33:52 2013]  say: ^3R^0O^3N: +
+[Sat Sep 28 07:33:57 2013]  Kill: 2 2 39: ^0D^3arth ^0F^3urious killed ^0D^3arth ^0F^3urious by MOD_SUICIDE
+[Sat Sep 28 07:33:58 2013]  say: maxim: miskou
+[Sat Sep 28 07:34:01 2013]  say: maxim: verx
+[Sat Sep 28 07:34:03 2013]  Item: 2 weapon_melee
+[Sat Sep 28 07:34:06 2013]  say: maxim: i /mdrop
+[Sat Sep 28 07:34:07 2013]  say: ^3R^0O^3N: ку
+[Sat Sep 28 07:34:12 2013]  say: ^0D^3arth ^0F^3urious: куку
+[Sat Sep 28 07:34:20 2013]  say: ^0D^3arth ^0F^3urious: оригин дайте
+[Sat Sep 28 07:34:34 2013]  say: ^3R^0O^3N: My origin is: (-9155 218 -487) - You can teleport here with /mtelelast
+
+[Sat Sep 28 07:34:44 2013]  say: ^0D^3arth ^0F^3urious: че строим?
+[Sat Sep 28 07:34:50 2013]  say: ^3R^0O^3N: ниче
+[Sat Sep 28 07:34:55 2013]  say: maxim: ron ti vel
+[Sat Sep 28 07:34:56 2013]  say: ^0D^3arth ^0F^3urious: ну он тебе чето говорит
+[Sat Sep 28 07:34:59 2013]  say: maxim: ?
+[Sat Sep 28 07:35:03 2013]  say: ^0D^3arth ^0F^3urious: а
+[Sat Sep 28 07:35:05 2013]  say: ^0D^3arth ^0F^3urious: пушечки
+[Sat Sep 28 07:35:10 2013]  say: ^3R^0O^3N: nikak
+[Sat Sep 28 07:35:18 2013]  say: ^3R^0O^3N: пушки он ставил
+[Sat Sep 28 07:35:22 2013]  say: maxim: /mplace miniturret
+[Sat Sep 28 07:35:36 2013]  say: maxim: i miskoi verx
+[Sat Sep 28 07:35:40 2013]  say: maxim: ok
+[Sat Sep 28 07:35:44 2013]  say: maxim: stop
+[Sat Sep 28 07:35:48 2013]  say: maxim: /mdrop
+[Sat Sep 28 07:35:51 2013]  say: maxim: vedi
+[Sat Sep 28 07:35:58 2013]  say: ^0D^3arth ^0F^3urious: хехе
+[Sat Sep 28 07:36:01 2013]  say: ^0D^3arth ^0F^3urious: другое дело
+[Sat Sep 28 07:36:01 2013]  say: ^3R^0O^3N: мщ
+[Sat Sep 28 07:36:04 2013]  say: ^3R^0O^3N: vo
+[Sat Sep 28 07:36:06 2013]  say: maxim: smari
+[Sat Sep 28 07:36:19 2013]  say: maxim: eseraz
+[Sat Sep 28 07:36:24 2013]  say: maxim: zdelay
+[Sat Sep 28 07:36:45 2013]  say: maxim: smari
+[Sat Sep 28 07:37:02 2013]  say: maxim: syka
+[Sat Sep 28 07:37:07 2013]  say: maxim: ne trogai
+[Sat Sep 28 07:37:11 2013]  say: maxim: pysku
+[Sat Sep 28 07:37:12 2013]  say: ^3R^0O^3N: ok
+[Sat Sep 28 07:37:16 2013]  say: maxim: smari
+[Sat Sep 28 07:37:25 2013]  Item: 0 ammo_all
+[Sat Sep 28 07:37:25 2013]  say: ^0D^3arth ^0F^3urious: :D
+[Sat Sep 28 07:37:44 2013]  say: ^0D^3arth ^0F^3urious: хорошая турелька :D
+[Sat Sep 28 07:37:45 2013]  say: maxim: miskoi ypravlau
+[Sat Sep 28 07:38:04 2013]  say: ^3R^0O^3N: фур как поставил
+[Sat Sep 28 07:38:08 2013]  say: ^0D^3arth ^0F^3urious: ммарк
+[Sat Sep 28 07:38:13 2013]  say: ^0D^3arth ^0F^3urious: потом /mplace turret
+[Sat Sep 28 07:38:21 2013]  say: ^0D^3arth ^0F^3urious: ммарк обязательно, а то не заработает
+[Sat Sep 28 07:38:31 2013]  say: ^0D^3arth ^0F^3urious: только подальше от ящиков
+[Sat Sep 28 07:38:37 2013]  say: maxim: smari
+[Sat Sep 28 07:38:54 2013]  say: ^0D^3arth ^0F^3urious: :D
+[Sat Sep 28 07:39:01 2013]  say: maxim: /mplace gun 
+[Sat Sep 28 07:39:18 2013]  say: maxim: /mdrop-eto stop na mecte
+[Sat Sep 28 07:39:21 2013]  say: maxim: ponul?
+[Sat Sep 28 07:39:27 2013]  say: ^0D^3arth ^0F^3urious: ne uchi uchenogo
+[Sat Sep 28 07:39:30 2013]  say: ^0D^3arth ^0F^3urious: on znaet
+[Sat Sep 28 07:39:47 2013]  say: ^0D^3arth ^0F^3urious: a slomannie tureli udalat' nado
+[Sat Sep 28 07:39:59 2013]  say: ^0D^3arth ^0F^3urious: tak chto bud' dobr
+[Sat Sep 28 07:40:04 2013]  say: ^0D^3arth ^0F^3urious: /mkillall
+[Sat Sep 28 07:40:47 2013]  say: maxim: ne trogai
+[Sat Sep 28 07:40:51 2013]  say: maxim: puski
+[Sat Sep 28 07:40:53 2013]  say: ^3R^0O^3N: щл
+[Sat Sep 28 07:40:57 2013]  say: ^3R^0O^3N: щл
+[Sat Sep 28 07:41:01 2013]  say: ^3R^0O^3N: ok
+[Sat Sep 28 07:41:06 2013]  say: ^0D^3arth ^0F^3urious: max
+[Sat Sep 28 07:41:13 2013]  say: maxim: a
+[Sat Sep 28 07:41:15 2013]  say: ^0D^3arth ^0F^3urious: idi skachai rusik
+[Sat Sep 28 07:41:21 2013]  say: maxim: gde?
+[Sat Sep 28 07:41:26 2013]  say: ^0D^3arth ^0F^3urious: ya tak ne nameren pisat' vse vremya
+[Sat Sep 28 07:41:32 2013]  say: ^0D^3arth ^0F^3urious: skype est'?
+[Sat Sep 28 07:41:35 2013]  say: maxim: net
+[Sat Sep 28 07:41:40 2013]  say: ^0D^3arth ^0F^3urious: herovo
+[Sat Sep 28 07:41:46 2013]  say: ^0D^3arth ^0F^3urious: u menya rusik est'
+[Sat Sep 28 07:41:51 2013]  say: ^0D^3arth ^0F^3urious: ya bi tebe peredal
+[Sat Sep 28 07:41:58 2013]  say: ^0D^3arth ^0F^3urious: ne raz net skype...
+[Sat Sep 28 07:41:58 2013]  say: maxim: a vk?
+[Sat Sep 28 07:42:07 2013]  say: ^0D^3arth ^0F^3urious: nu mozhno i vk
+[Sat Sep 28 07:42:34 2013]  say: ^0D^3arth ^0F^3urious: andrey strogov, spb, na ave kot v kaske
+[Sat Sep 28 07:42:38 2013]  Exit: Timelimit hit.
+[Sat Sep 28 07:42:38 2013]  score: 22  ping: 72  client: 0 ^3R^0O^3N
+[Sat Sep 28 07:42:38 2013]  score: 5  ping: 100  client: 1 maxim
+[Sat Sep 28 07:42:38 2013]  score: -1  ping: 72  client: 2 ^0D^3arth ^0F^3urious
+[Sat Sep 28 07:42:40 2013]  say: ^0D^3arth ^0F^3urious: idi ishi
+[Sat Sep 28 07:42:49 2013]  ShutdownGame:
+[Sat Sep 28 07:42:49 2013]  ------------------------------------------------------------
+[Sat Sep 28 07:42:49 2013]  ------------------------------------------------------------
+[Sat Sep 28 07:42:49 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 07:42:51 2013]  ClientConnect: 0
+[Sat Sep 28 07:42:51 2013]  ClientConnect: 1
+[Sat Sep 28 07:42:51 2013]  ClientConnect: 2
+[Sat Sep 28 07:42:55 2013]  ClientBegin: 0
+[Sat Sep 28 07:43:03 2013]  ClientBegin: 2
+[Sat Sep 28 07:43:05 2013]  ClientBegin: 1
+[Sat Sep 28 07:43:08 2013]  say: maxim: w1t
+[Sat Sep 28 07:43:10 2013]  Item: 2 weapon_melee
+[Sat Sep 28 07:43:37 2013]  say: ^0D^3arth ^0F^3urious: ну иди
+[Sat Sep 28 07:43:41 2013]  say: ^0D^3arth ^0F^3urious: попробуй меня убить
+[Sat Sep 28 07:43:57 2013]  say: ^0D^3arth ^0F^3urious: max
+[Sat Sep 28 07:44:01 2013]  say: ^0D^3arth ^0F^3urious: ot'ebis'
+[Sat Sep 28 07:44:17 2013]  say: ^0D^3arth ^0F^3urious: ^5Banshee Scream!
+[Sat Sep 28 07:45:04 2013]  say: ^0D^3arth ^0F^3urious: ^0UU ^3- ^0JA ^3Minimized
+[Sat Sep 28 07:46:03 2013]  say: ^0D^3arth ^0F^3urious: ^0UU ^3- ^0JA ^3Restored
+[Sat Sep 28 07:46:37 2013]  say: ^0D^3arth ^0F^3urious: ^5Banshee Scream!
+[Sat Sep 28 07:48:03 2013]  Kill: 2 2 39: ^0D^3arth ^0F^3urious killed ^0D^3arth ^0F^3urious by MOD_SUICIDE
+[Sat Sep 28 07:48:07 2013]  say: ^3R^0O^3N: фур а утебя помоему был учитель
+[Sat Sep 28 07:48:13 2013]  say: ^0D^3arth ^0F^3urious: нет
+[Sat Sep 28 07:48:15 2013]  Item: 2 weapon_melee
+[Sat Sep 28 07:48:20 2013]  say: ^3R^0O^3N: да
+[Sat Sep 28 07:48:23 2013]  say: ^0D^3arth ^0F^3urious: ты тут сколько играешь?
+[Sat Sep 28 07:48:26 2013]  say: ^0D^3arth ^0F^3urious: на мэйкере
+[Sat Sep 28 07:48:34 2013]  say: ^3R^0O^3N: 3 месяца
+[Sat Sep 28 07:48:39 2013]  say: ^0D^3arth ^0F^3urious: а я третий год
+[Sat Sep 28 07:48:45 2013]  say: ^0D^3arth ^0F^3urious: так что я тут первый учитель
+[Sat Sep 28 07:49:09 2013]  say: ^3R^0O^3N: макс афк
+[Sat Sep 28 07:49:15 2013]  say: maxim: a 4to gde?
+[Sat Sep 28 07:49:25 2013]  say: ^0D^3arth ^0F^3urious: idi ishi menya vk
+[Sat Sep 28 07:49:52 2013]  say: maxim: davate basu stroit
+[Sat Sep 28 07:49:57 2013]  say: ^0D^3arth ^0F^3urious: max -_-
+[Sat Sep 28 07:50:04 2013]  say: maxim: =)
+[Sat Sep 28 07:50:08 2013]  say: maxim: kak
+[Sat Sep 28 07:50:09 2013]  say: ^3R^0O^3N: -+
+[Sat Sep 28 07:50:10 2013]  say: ^0D^3arth ^0F^3urious: begom marsh vk
+[Sat Sep 28 07:50:14 2013]  say: ^0D^3arth ^0F^3urious: ishi menya
+[Sat Sep 28 07:50:14 2013]  say: maxim: iskat?
+[Sat Sep 28 07:50:23 2013]  say: maxim: bmu
+[Sat Sep 28 07:50:27 2013]  say: maxim: im9
+[Sat Sep 28 07:50:32 2013]  say: ^0D^3arth ^0F^3urious: andrey strogov, spb, kot v kaske na ave
+[Sat Sep 28 07:50:33 2013]  say: maxim: familu9
+[Sat Sep 28 07:50:42 2013]  say: ^0D^3arth ^0F^3urious: ya uzhe govoril
+[Sat Sep 28 07:51:14 2013]  say: ^0D^3arth ^0F^3urious: -_-
+[Sat Sep 28 07:51:19 2013]  say: ^0D^3arth ^0F^3urious: pryamo seichas
+[Sat Sep 28 07:51:21 2013]  say: maxim: piter?
+[Sat Sep 28 07:51:26 2013]  say: ^0D^3arth ^0F^3urious: da
+[Sat Sep 28 07:52:06 2013]  say: maxim: 9 sh9 4erez 5 ,in pridy
+[Sat Sep 28 07:52:11 2013]  ClientDisconnect: 1
+[Sat Sep 28 07:52:19 2013]  say: ^0D^3arth ^0F^3urious: нашел походу
+[Sat Sep 28 07:52:28 2013]  say: ^3R^0O^3N: дауж
+[Sat Sep 28 07:52:58 2013]  say: ^0D^3arth ^0F^3urious: а ну стань нормальным
+[Sat Sep 28 07:53:06 2013]  say: ^0D^3arth ^0F^3urious: драться в таком размере запрещено
+[Sat Sep 28 07:53:24 2013]  say: ^3R^0O^3N: ой
+[Sat Sep 28 07:53:26 2013]  say: ^0D^3arth ^0F^3urious: :D сойдет
+[Sat Sep 28 07:53:48 2013]  ClientConnect: 1
+[Sat Sep 28 07:53:48 2013]  mlog:Player max, connected. With IP - 46.39.244.66:-4848 
+[Sat Sep 28 07:54:08 2013]  ClientBegin: 1
+[Sat Sep 28 07:54:15 2013]  Kill: 0 1 13: ^3R^0O^3N killed maxim by MOD_REPEATER_ALT
+[Sat Sep 28 07:54:19 2013]  say: ^0D^3arth ^0F^3urious: ^1MORE sculls for the Scull Throne!!!
+[Sat Sep 28 07:54:34 2013]  say: maxim: vce
+[Sat Sep 28 07:54:36 2013]  say: ^3R^0O^3N: че это
+[Sat Sep 28 07:54:39 2013]  say: ^0D^3arth ^0F^3urious: nhjy
+[Sat Sep 28 07:54:39 2013]  say: maxim: i nasol
+[Sat Sep 28 07:54:42 2013]  say: ^0D^3arth ^0F^3urious: трон
+[Sat Sep 28 07:54:44 2013]  say: ^0D^3arth ^0F^3urious: ^0UU ^3- ^0JA ^3Minimized
+[Sat Sep 28 07:55:53 2013]  say: ^0D^3arth ^0F^3urious: ^0UU ^3- ^0JA ^3Restored
+[Sat Sep 28 07:55:59 2013]  say: ^0D^3arth ^0F^3urious: ya tebe peredal
+[Sat Sep 28 07:55:59 2013]  say: maxim: davai /god off
+[Sat Sep 28 07:56:03 2013]  say: ^0D^3arth ^0F^3urious: idi prinimai
+[Sat Sep 28 07:56:16 2013]  say: ^0D^3arth ^0F^3urious: ^0UU ^3- ^0JA ^3Minimized
+[Sat Sep 28 07:56:18 2013]  say: maxim: a kak yctanovit rus
+[Sat Sep 28 07:56:20 2013]  say: maxim: ?
+[Sat Sep 28 07:57:09 2013]  say: ^0D^3arth ^0F^3urious: ^0UU ^3- ^0JA ^3Restored
+[Sat Sep 28 07:57:13 2013]  say: maxim: 9 sh9 tok zdelau
+[Sat Sep 28 07:57:17 2013]  ClientDisconnect: 1
+[Sat Sep 28 07:57:45 2013]  say: ^0D^3arth ^0F^3urious: кровь для бога крови!
+[Sat Sep 28 07:57:51 2013]  say: ^0D^3arth ^0F^3urious: черепа для трона черепов!
+[Sat Sep 28 07:57:52 2013]  say: ^3R^0O^3N: о виликий царь
+[Sat Sep 28 07:58:26 2013]  say: ^0D^3arth ^0F^3urious: ^0UU ^3- ^0JA ^3Minimized
+[Sat Sep 28 07:58:36 2013]  say: ^0D^3arth ^0F^3urious: ^0UU ^3- ^0JA ^3Restored
+[Sat Sep 28 07:58:55 2013]  say: ^3R^0O^3N: верни трон
+[Sat Sep 28 07:59:01 2013]  say: ^0D^3arth ^0F^3urious: не, не хочу
+[Sat Sep 28 07:59:11 2013]  say: ^3R^0O^3N: я летаю зырь
+[Sat Sep 28 07:59:15 2013]  say: ^0D^3arth ^0F^3urious: ага
+[Sat Sep 28 07:59:17 2013]  say: ^0D^3arth ^0F^3urious: еще ноклип
+[Sat Sep 28 07:59:23 2013]  say: ^0D^3arth ^0F^3urious: и точно полетишь
+[Sat Sep 28 07:59:28 2013]  say: ^3R^0O^3N: знаю
+[Sat Sep 28 08:00:25 2013]  say: ^0D^3arth ^0F^3urious: блин
+[Sat Sep 28 08:00:29 2013]  say: ^3R^0O^3N: зырь
+[Sat Sep 28 08:00:31 2013]  say: ^0D^3arth ^0F^3urious: тут эффект к руке не прикрепить
+[Sat Sep 28 08:00:41 2013]  say: ^0D^3arth ^0F^3urious: хехе
+[Sat Sep 28 08:00:44 2013]  say: ^0D^3arth ^0F^3urious: ты зырь
+[Sat Sep 28 08:00:51 2013]  say: ^0D^3arth ^0F^3urious: ^3Requesting ^3Orbital ^3Strike!
+[Sat Sep 28 08:00:57 2013]  ClientConnect: 1
+[Sat Sep 28 08:00:57 2013]  mlog:Player max, connected. With IP - 46.39.244.66:-10669 
+[Sat Sep 28 08:00:58 2013]  say: ^3R^0O^3N: ты зырь
+[Sat Sep 28 08:01:13 2013]  say: ^0D^3arth ^0F^3urious: иии?
+[Sat Sep 28 08:01:16 2013]  ClientBegin: 1
+[Sat Sep 28 08:01:17 2013]  say: ^0D^3arth ^0F^3urious: и все
+[Sat Sep 28 08:01:24 2013]  say: maxim: урф
+[Sat Sep 28 08:01:27 2013]  say: maxim: ура
+[Sat Sep 28 08:01:29 2013]  say: ^0D^3arth ^0F^3urious: ну наконец то
+[Sat Sep 28 08:01:33 2013]  say: maxim: хехехех
+[Sat Sep 28 08:01:43 2013]  say: maxim: спс
+[Sat Sep 28 08:01:56 2013]  Kill: 2 1 36: ^0D^3arth ^0F^3urious killed maxim by MOD_CRUSH
+[Sat Sep 28 08:01:58 2013]  say: maxim: п
+[Sat Sep 28 08:02:01 2013]  say: ^0D^3arth ^0F^3urious: :D
+[Sat Sep 28 08:02:02 2013]  say: maxim: .пщв
+[Sat Sep 28 08:02:24 2013]  say: ^0D^3arth ^0F^3urious: ^5Banshee Scream!
+[Sat Sep 28 08:02:40 2013]  say: maxim: го базу строить
+[Sat Sep 28 08:02:42 2013]  say: ^0D^3arth ^0F^3urious: удали
+[Sat Sep 28 08:02:46 2013]  say: ^0D^3arth ^0F^3urious: рон
+[Sat Sep 28 08:02:51 2013]  say: ^3R^0O^3N: что
+[Sat Sep 28 08:02:54 2013]  say: ^0D^3arth ^0F^3urious: удали, что
+[Sat Sep 28 08:03:00 2013]  say: ^3R^0O^3N: всм
+[Sat Sep 28 08:03:03 2013]  say: ^0D^3arth ^0F^3urious: /mkillall
+[Sat Sep 28 08:03:03 2013]  say: maxim: /mkill
+[Sat Sep 28 08:03:13 2013]  say: ^3R^0O^3N: нее
+[Sat Sep 28 08:03:14 2013]  say: maxim: веди
+[Sat Sep 28 08:03:24 2013]  say: ^0D^3arth ^0F^3urious: нахер тут сломанная турешь?
+[Sat Sep 28 08:03:29 2013]  say: ^0D^3arth ^0F^3urious: удаляй говорю
+[Sat Sep 28 08:03:31 2013]  Item: 2 ammo_all
+[Sat Sep 28 08:03:32 2013]  say: maxim: го базу строит
+[Sat Sep 28 08:03:36 2013]  say: maxim: ь
+[Sat Sep 28 08:03:43 2013]  say: ^0D^3arth ^0F^3urious: пойду построю себе дом
+[Sat Sep 28 08:03:51 2013]  say: maxim: я тожу
+[Sat Sep 28 08:03:56 2013]  say: ^0D^3arth ^0F^3urious: ну попробуй
+[Sat Sep 28 08:03:57 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 08:03:58 2013]  say: ^3R^0O^3N: pshm
+[Sat Sep 28 08:04:04 2013]  say: ^3R^0O^3N: зырь макс
+[Sat Sep 28 08:04:06 2013]  say: ^0D^3arth ^0F^3urious: готов поспорить что я сделаю быстрее :D
+[Sat Sep 28 08:04:12 2013]  say: ^0D^3arth ^0F^3urious: ^5House of ^0D^3arth ^0F^3urious
+[Sat Sep 28 08:04:16 2013]  say: maxim: нет
+[Sat Sep 28 08:04:23 2013]  say: maxim: у тебя скрипты
+[Sat Sep 28 08:04:25 2013]  say: ^0D^3arth ^0F^3urious: хехе
+[Sat Sep 28 08:04:29 2013]  Item: 0 ammo_all
+[Sat Sep 28 08:04:31 2013]  say: maxim: о
+[Sat Sep 28 08:04:40 2013]  say: maxim: дай мне скрипты в вк
+[Sat Sep 28 08:04:43 2013]  say: ^0D^3arth ^0F^3urious: нет
+[Sat Sep 28 08:04:48 2013]  say: maxim: а что,
+[Sat Sep 28 08:04:52 2013]  say: ^0D^3arth ^0F^3urious: скрипты - это интеллекруальная собственность
+[Sat Sep 28 08:04:55 2013]  say: ^0D^3arth ^0F^3urious: ими не делятся
+[Sat Sep 28 08:05:13 2013]  say: maxim: а скачать где?
+[Sat Sep 28 08:05:13 2013]  say: ^3R^0O^3N: крутой дом!!!
+[Sat Sep 28 08:05:16 2013]  say: ^0D^3arth ^0F^3urious: негде
+[Sat Sep 28 08:05:20 2013]  say: ^0D^3arth ^0F^3urious: надо самому писать
+[Sat Sep 28 08:05:29 2013]  say: maxim: где
+[Sat Sep 28 08:05:33 2013]  say: maxim: писать?
+[Sat Sep 28 08:05:44 2013]  say: ^0D^3arth ^0F^3urious: в текстовом документе формата .cfg
+[Sat Sep 28 08:05:57 2013]  say: ^3R^0O^3N: cksi gjcnfdm abkmv
+[Sat Sep 28 08:06:07 2013]  say: ^3R^0O^3N: поставь фильм
+[Sat Sep 28 08:06:13 2013]  say: ^0D^3arth ^0F^3urious: щито?
+[Sat Sep 28 08:06:24 2013]  say: ^3R^0O^3N: всм
+[Sat Sep 28 08:06:27 2013]  say: ^0D^3arth ^0F^3urious: это ремап сервера
+[Sat Sep 28 08:06:27 2013]  say: maxim: давай ужастик
+[Sat Sep 28 08:06:34 2013]  say: ^0D^3arth ^0F^3urious: я не мгу его изменить
+[Sat Sep 28 08:07:00 2013]  say: maxim: ого
+[Sat Sep 28 08:07:09 2013]  say: ^0D^3arth ^0F^3urious: а ну спустись на землю
+[Sat Sep 28 08:07:11 2013]  say: maxim: как магию делать?
+[Sat Sep 28 08:07:15 2013]  Item: 1 ammo_all
+[Sat Sep 28 08:07:16 2013]  say: ^0D^3arth ^0F^3urious: тоже скрипты
+[Sat Sep 28 08:07:23 2013]  say: maxim: cfg?
+[Sat Sep 28 08:07:26 2013]  say: ^3R^0O^3N: фурэ
+[Sat Sep 28 08:07:26 2013]  say: ^0D^3arth ^0F^3urious: да
+[Sat Sep 28 08:07:37 2013]  say: ^0D^3arth ^0F^3urious: ^5Facepalm...
+[Sat Sep 28 08:07:38 2013]  say: maxim: а как сделать скрипты
+[Sat Sep 28 08:07:43 2013]  say: ^0D^3arth ^0F^3urious: я тебе сказал как
+[Sat Sep 28 08:07:43 2013]  say: ^3R^0O^3N: верни пожл дом
+[Sat Sep 28 08:07:53 2013]  say: ^0D^3arth ^0F^3urious: берешь пустой cfg и пишешь в нем команды скрипта
+[Sat Sep 28 08:08:05 2013]  say: ^0D^3arth ^0F^3urious: ^0UU ^3- ^0JA ^3Minimized
+[Sat Sep 28 08:08:11 2013]  say: ^3R^0O^3N: фур верни дом
+[Sat Sep 28 08:08:15 2013]  say: ^3R^0O^3N: пожл
+[Sat Sep 28 08:08:30 2013]  say: maxim: я щяс токо создам
+[Sat Sep 28 08:08:33 2013]  ClientDisconnect: 1
+[Sat Sep 28 08:08:42 2013]  say: ^0D^3arth ^0F^3urious: ^0UU ^3- ^0JA ^3Restored
+[Sat Sep 28 08:08:52 2013]  say: ^3R^0O^3N: фур
+[Sat Sep 28 08:08:55 2013]  say: ^0D^3arth ^0F^3urious: не буду
+[Sat Sep 28 08:08:59 2013]  say: ^3R^0O^3N: пожл
+[Sat Sep 28 08:09:01 2013]  say: ^0D^3arth ^0F^3urious: нахера
+[Sat Sep 28 08:09:07 2013]  say: ^3R^0O^3N: прикольна
+[Sat Sep 28 08:09:18 2013]  say: ^0D^3arth ^0F^3urious: ^4MechGunner ^5script by ^0D^3arth ^0F^3urious
+[Sat Sep 28 08:09:30 2013]  say: ^0D^3arth ^0F^3urious: а как тебе это?
+[Sat Sep 28 08:09:45 2013]  say: ^3R^0O^3N: египетская сила
+[Sat Sep 28 08:10:01 2013]  say: ^0D^3arth ^0F^3urious: у меня скриптов 110 штук
+[Sat Sep 28 08:10:02 2013]  say: ^3R^0O^3N: а как сесть
+[Sat Sep 28 08:10:06 2013]  say: ^0D^3arth ^0F^3urious: а ты просишь всего лишь домик
+[Sat Sep 28 08:10:14 2013]  say: ^0D^3arth ^0F^3urious: ноклипом
+[Sat Sep 28 08:10:15 2013]  say: ^3R^0O^3N: ну давай
+[Sat Sep 28 08:10:29 2013]  say: ^3R^0O^3N: неее чтоб еще управлять
+[Sat Sep 28 08:10:36 2013]  say: ^0D^3arth ^0F^3urious: лол это постройка
+[Sat Sep 28 08:10:40 2013]  say: ^0D^3arth ^0F^3urious: какое нахрен управлять
+[Sat Sep 28 08:11:43 2013]  say: ^3R^0O^3N: и че это
+[Sat Sep 28 08:11:46 2013]  ClientConnect: 1
+[Sat Sep 28 08:11:46 2013]  mlog:Player max, connected. With IP - 46.39.244.66:-1116 
+[Sat Sep 28 08:11:56 2013]  say: ^0D^3arth ^0F^3urious: трансформаторы тесла
+[Sat Sep 28 08:12:08 2013]  ClientBegin: 1
+[Sat Sep 28 08:12:08 2013]  ClientConnect: 3
+[Sat Sep 28 08:12:08 2013]  mlog:Player ^7^9A^8xilian, connected. With IP - 95.188.151.206:29070 
+[Sat Sep 28 08:12:30 2013]  ClientBegin: 3
+[Sat Sep 28 08:12:31 2013]  say: ^3R^0O^3N: так ты вернешь дом
+[Sat Sep 28 08:12:37 2013]  say: ^0D^3arth ^0F^3urious: ладно -_-
+[Sat Sep 28 08:12:40 2013]  Kill: 0 3 3: ^3R^0O^3N killed A^8xilian by MOD_SABER
+[Sat Sep 28 08:12:40 2013]  tell: A^8xilian to ^3R^0O^3N: ^2^7^3R^0O^3N, ^9no...
+[Sat Sep 28 08:12:45 2013]  say: maxim: вот я создал cfg  папку дальше,
+[Sat Sep 28 08:12:46 2013]  say: A^8xilian: ^8FIRE ATTACK!!!
+[Sat Sep 28 08:12:53 2013]  say: ^0D^3arth ^0F^3urious: дальше пиши туда команды
+[Sat Sep 28 08:12:57 2013]  say: ^0D^3arth ^0F^3urious: ^5House of ^0D^3arth ^0F^3urious
+[Sat Sep 28 08:13:09 2013]  say: maxim: ф как назначать клавиши,
+[Sat Sep 28 08:13:11 2013]  say: maxim: ?
+[Sat Sep 28 08:13:14 2013]  say: ^3R^0O^3N: спс
+[Sat Sep 28 08:13:17 2013]  say: ^0D^3arth ^0F^3urious: тоже в скрипте пиши
+[Sat Sep 28 08:13:20 2013]  say: maxim: а как
+[Sat Sep 28 08:13:33 2013]  say: ^0D^3arth ^0F^3urious: bind кнопка exec script
+[Sat Sep 28 08:14:49 2013]  say: maxim: exec и каманду да?
+[Sat Sep 28 08:14:53 2013]  say: ^0D^3arth ^0F^3urious: нет
+[Sat Sep 28 08:14:57 2013]  say: maxim: а как
+[Sat Sep 28 08:14:57 2013]  say: ^0D^3arth ^0F^3urious: название скрипта
+[Sat Sep 28 08:15:07 2013]  say: ^0D^3arth ^0F^3urious: ты блин скрипты писать не умеешь, даже не пытайся
+[Sat Sep 28 08:15:07 2013]  say: maxim: скрипт где взять
+[Sat Sep 28 08:15:14 2013]  say: ^0D^3arth ^0F^3urious: их надо ДЕЛАТЬ
+[Sat Sep 28 08:15:23 2013]  say: maxim: где делать,
+[Sat Sep 28 08:15:25 2013]  say: ^0D^3arth ^0F^3urious: а чтоб их делать, в них надо шарить
+[Sat Sep 28 08:15:32 2013]  say: ^0D^3arth ^0F^3urious: прЯм там в текстовике и делать
+[Sat Sep 28 08:15:45 2013]  say: maxim: ?
+[Sat Sep 28 08:15:51 2013]  say: maxim: вот так,
+[Sat Sep 28 08:16:05 2013]  say: ^0D^3arth ^0F^3urious: ну вот смотри
+[Sat Sep 28 08:16:15 2013]  say: ^0D^3arth ^0F^3urious: ты понимаешь как это работает?
+[Sat Sep 28 08:16:20 2013]  say: ^0D^3arth ^0F^3urious: какие там команды?
+[Sat Sep 28 08:16:28 2013]  say: maxim: bind 5 exec /mplace miniturret ?
+[Sat Sep 28 08:16:42 2013]  say: ^0D^3arth ^0F^3urious: это можно и без скрипта в консоль прописать
+[Sat Sep 28 08:16:44 2013]  say: ^0D^3arth ^0F^3urious: и без черты
+[Sat Sep 28 08:17:11 2013]  say: ^3R^0O^3N: aeh f rfr cnhjbnm
+[Sat Sep 28 08:17:30 2013]  say: ^3R^0O^3N: фур а как строить
+[Sat Sep 28 08:17:33 2013]  say: ^0D^3arth ^0F^3urious: руками
+[Sat Sep 28 08:17:39 2013]  say: ^0D^3arth ^0F^3urious: ^5House of ^0D^3arth ^0F^3urious
+[Sat Sep 28 08:18:05 2013]  say: maxim: эх жалко я немогу
+[Sat Sep 28 08:18:41 2013]  say: ^3R^0O^3N: фур
+[Sat Sep 28 08:18:52 2013]  say: ^3R^0O^3N: а ты можешь мне построить дом 
+[Sat Sep 28 08:19:18 2013]  say: A^8xilian: Фуриус вылетел.
+[Sat Sep 28 08:20:22 2013]  say: ^3R^0O^3N: в дом
+[Sat Sep 28 08:20:30 2013]  say: ^3R^0O^3N: ахахах
+[Sat Sep 28 08:22:04 2013]  ClientDisconnect: 2
+[Sat Sep 28 08:22:06 2013]  Kill: 3 3 39: A^8xilian killed A^8xilian by MOD_SUICIDE
+[Sat Sep 28 08:23:19 2013]  say: ^3R^0O^3N: пошли я нашел дом
+[Sat Sep 28 08:24:15 2013]  say: ^3R^0O^3N: ns ult
+[Sat Sep 28 08:24:19 2013]  say: ^3R^0O^3N: ns ult
+[Sat Sep 28 08:24:25 2013]  say: ^3R^0O^3N: ты где
+[Sat Sep 28 08:24:29 2013]  say: maxim: nen
+[Sat Sep 28 08:24:33 2013]  say: maxim: тут
+[Sat Sep 28 08:25:05 2013]  say: A^8xilian: ^8FIRE ATTACK!!!
+[Sat Sep 28 08:25:09 2013]  say: A^8xilian: ^9FORCE ATTACK!!!
+[Sat Sep 28 08:25:22 2013]  say: ^3R^0O^3N: го
+[Sat Sep 28 08:26:12 2013]  say: maxim: z t[fnm yt vjue
+[Sat Sep 28 08:26:21 2013]  say: maxim: я ехать не могу
+[Sat Sep 28 08:26:38 2013]  say: ^3R^0O^3N: лети на джетпаке
+[Sat Sep 28 08:28:34 2013]  ClientConnect: 2
+[Sat Sep 28 08:28:34 2013]  mlog:Player ^0D^3arth ^0F^3urious, connected. With IP - 128.69.170.8:29070 
+[Sat Sep 28 08:28:56 2013]  say: ^3R^0O^3N: приехали
+[Sat Sep 28 08:29:01 2013]  ClientBegin: 2
+[Sat Sep 28 08:29:11 2013]  Item: 2 weapon_melee
+[Sat Sep 28 08:29:37 2013]  say: ^0D^3arth ^0F^3urious: збс сервер
+[Sat Sep 28 08:29:45 2013]  say: ^0D^3arth ^0F^3urious: сначала я вылетел, теперь вон акс...
+[Sat Sep 28 08:30:33 2013]  say: ^0D^3arth ^0F^3urious: вы хоть где?
+[Sat Sep 28 08:30:36 2013]  say: ^3R^0O^3N: сдесь будет база
+[Sat Sep 28 08:30:47 2013]  say: maxim: я тут буду строить
+[Sat Sep 28 08:30:48 2013]  say: ^0D^3arth ^0F^3urious: оригин
+[Sat Sep 28 08:31:12 2013]  say: ^0D^3arth ^0F^3urious: алле-е
+[Sat Sep 28 08:31:17 2013]  say: ^0D^3arth ^0F^3urious: вы меня слышите?
+[Sat Sep 28 08:31:18 2013]  say: ^3R^0O^3N: My origin is: (11854 7933 1592) - You can teleport here with /mtelelast
+
+[Sat Sep 28 08:31:20 2013]  Kill: 2 0 37: ^0D^3arth ^0F^3urious killed ^3R^0O^3N by MOD_TELEFRAG
+[Sat Sep 28 08:31:20 2013]  Item: 2 weapon_flechette
+[Sat Sep 28 08:31:24 2013]  say: ^0D^3arth ^0F^3urious: спасибо
+[Sat Sep 28 08:31:29 2013]  ClientDisconnect: 0
+[Sat Sep 28 08:31:39 2013]  say: ^0D^3arth ^0F^3urious: я вам могу сделать базу одним скриптом
+[Sat Sep 28 08:31:59 2013]  ClientDisconnect: 3
+[Sat Sep 28 08:32:47 2013]  say: ^0D^3arth ^0F^3urious: надо же, ровненько
+[Sat Sep 28 08:33:28 2013]  say: maxim: давай скриптом базу
+[Sat Sep 28 08:33:35 2013]  say: ^0D^3arth ^0F^3urious: не, я передумал
+[Sat Sep 28 08:33:41 2013]  say: ^0D^3arth ^0F^3urious: я ухожу
+[Sat Sep 28 08:33:54 2013]  say: maxim: все ушли =(
+[Sat Sep 28 08:33:58 2013]  say: ^0D^3arth ^0F^3urious: а ладно
+[Sat Sep 28 08:34:10 2013]  say: ^0D^3arth ^0F^3urious: щас сделаю тут базу, сохраню и скажу тебе сохранение
+[Sat Sep 28 08:34:23 2013]  say: ^0D^3arth ^0F^3urious: My origin is: (11347 8540 1592) - You can teleport here with /mtelelast
+
+[Sat Sep 28 08:34:25 2013]  say: ^0D^3arth ^0F^3urious: сюда иди
+[Sat Sep 28 08:34:50 2013]  say: ^0D^3arth ^0F^3urious: я у тебя за спиной блин
+[Sat Sep 28 08:35:03 2013]  say: ^0D^3arth ^0F^3urious: удали все
+[Sat Sep 28 08:35:25 2013]  say: ^0D^3arth ^0F^3urious: а теперь не дергайся
+[Sat Sep 28 08:35:31 2013]  say: ^0D^3arth ^0F^3urious: рядом со мной встань
+[Sat Sep 28 08:36:05 2013]  say: maxim: ого
+[Sat Sep 28 08:36:09 2013]  say: maxim: и вс,
+[Sat Sep 28 08:36:12 2013]  say: ^0D^3arth ^0F^3urious: и все
+[Sat Sep 28 08:36:22 2013]  say: ^0D^3arth ^0F^3urious: чисто для красоты делалось
+[Sat Sep 28 08:37:01 2013]  say: maxim: .тсщдшз
+[Sat Sep 28 08:37:10 2013]  say: maxim: ладн поке
+[Sat Sep 28 08:37:12 2013]  ClientDisconnect: 1
+[Sat Sep 28 08:37:27 2013]  ClientDisconnect: 2
+[Sat Sep 28 08:42:48 2013]  Exit: Timelimit hit.
+[Sat Sep 28 11:45:42 2013]  ClientConnect: 0
+[Sat Sep 28 11:45:42 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.41:-5305 
+[Sat Sep 28 11:46:00 2013]  ClientBegin: 0
+[Sat Sep 28 11:46:02 2013]  ShutdownGame:
+[Sat Sep 28 11:46:02 2013]  ------------------------------------------------------------
+[Sat Sep 28 11:46:02 2013]  ------------------------------------------------------------
+[Sat Sep 28 11:46:02 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 11:46:03 2013]  ClientConnect: 0
+[Sat Sep 28 11:46:12 2013]  ClientBegin: 0
+[Sat Sep 28 11:46:25 2013]  ClientDisconnect: 0
+[Sat Sep 28 11:47:59 2013]  ClientConnect: 0
+[Sat Sep 28 11:47:59 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.41:-5305 
+[Sat Sep 28 11:48:05 2013]  ClientBegin: 0
+[Sat Sep 28 11:52:31 2013]  ClientDisconnect: 0
+[Sat Sep 28 12:01:34 2013]  ClientConnect: 0
+[Sat Sep 28 12:01:34 2013]  mlog:Player Padawan, connected. With IP - 46.39.244.66:-9270 
+[Sat Sep 28 12:01:53 2013]  ClientBegin: 0
+[Sat Sep 28 12:02:52 2013]  ClientConnect: 1
+[Sat Sep 28 12:02:52 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.41:-6286 
+[Sat Sep 28 12:02:58 2013]  ClientBegin: 1
+[Sat Sep 28 12:03:00 2013]  say: maxim: привет
+[Sat Sep 28 12:03:06 2013]  say: ^3R^0O^3N: прив
+[Sat Sep 28 12:03:08 2013]  say: maxim: снова
+[Sat Sep 28 12:03:14 2013]  say: ^3R^0O^3N: ага\
+[Sat Sep 28 12:04:24 2013]  say: maxim: давай строить базу
+[Sat Sep 28 12:04:35 2013]  say: ^3R^0O^3N: lfdfq
+[Sat Sep 28 12:04:38 2013]  say: ^3R^0O^3N: давай
+[Sat Sep 28 12:04:58 2013]  say: maxim: /mplace factory/catw2_b веди потом /mdrop ето поставить
+[Sat Sep 28 12:05:08 2013]  say: ^3R^0O^3N: ок
+[Sat Sep 28 12:05:13 2013]  say: maxim: ти где
+[Sat Sep 28 12:06:33 2013]  say: ^3R^0O^3N: спс
+[Sat Sep 28 12:06:42 2013]  say: maxim: суда
+[Sat Sep 28 12:06:44 2013]  say: maxim: где
+[Sat Sep 28 12:06:45 2013]  say: maxim: я
+[Sat Sep 28 12:07:04 2013]  say: ^3R^0O^3N: я пришол
+[Sat Sep 28 12:07:09 2013]  say: ^3R^0O^3N: е
+[Sat Sep 28 12:07:10 2013]  say: maxim: норм
+[Sat Sep 28 12:07:12 2013]  say: maxim: рост
+[Sat Sep 28 12:07:15 2013]  say: maxim: зделай
+[Sat Sep 28 12:07:29 2013]  say: maxim: строим
+[Sat Sep 28 12:07:55 2013]  say: maxim: ,kz
+[Sat Sep 28 12:08:00 2013]  say: maxim: бля
+[Sat Sep 28 12:08:08 2013]  say: maxim: сука
+[Sat Sep 28 12:08:13 2013]  say: maxim: убери
+[Sat Sep 28 12:08:19 2013]  say: ^3R^0O^3N: ой я случайно
+[Sat Sep 28 12:08:36 2013]  say: ^3R^0O^3N: через noclip проходи
+[Sat Sep 28 12:08:39 2013]  say: maxim: /mkillall
+[Sat Sep 28 12:08:43 2013]  say: maxim: веди
+[Sat Sep 28 12:08:53 2013]  say: maxim: фух
+[Sat Sep 28 12:08:59 2013]  say: maxim: ето удалить
+[Sat Sep 28 12:09:02 2013]  say: maxim: запомни
+[Sat Sep 28 12:09:05 2013]  say: ^3R^0O^3N: z gjcnfdbk xnj, dhfub yt pf[jlbkb
+[Sat Sep 28 12:09:14 2013]  say: ^3R^0O^3N: ок
+[Sat Sep 28 12:09:25 2013]  say: maxim: строим
+[Sat Sep 28 12:09:33 2013]  say: maxim: /mplace miniturret
+[Sat Sep 28 12:09:40 2013]  say: maxim: тоже вводи
+[Sat Sep 28 12:09:43 2013]  say: maxim: иногда
+[Sat Sep 28 12:09:44 2013]  Item: 0 ammo_all
+[Sat Sep 28 12:09:59 2013]  say: ^3R^0O^3N: ты турели строй а я потайную комнату
+[Sat Sep 28 12:10:34 2013]  say: ^3R^0O^3N: а как перевернуть
+[Sat Sep 28 12:10:54 2013]  say: maxim: /mrotate 0 1 0
+[Sat Sep 28 12:11:40 2013]  say: maxim: поставь
+[Sat Sep 28 12:11:45 2013]  say: maxim: сначала
+[Sat Sep 28 12:12:09 2013]  say: maxim: ок теперь /mrotate 0 1 0
+[Sat Sep 28 12:12:23 2013]  say: maxim: /mrotating 0 1 0
+[Sat Sep 28 12:12:57 2013]  say: ^3R^0O^3N: не а стенкой как
+[Sat Sep 28 12:13:10 2013]  say: maxim: /mrotating 1 0 0
+[Sat Sep 28 12:13:29 2013]  say: maxim: щя
+[Sat Sep 28 12:13:32 2013]  say: maxim: жди
+[Sat Sep 28 12:13:39 2013]  say: maxim: и /mdrop
+[Sat Sep 28 12:13:43 2013]  say: maxim: когда
+[Sat Sep 28 12:13:45 2013]  say: maxim: стена
+[Sat Sep 28 12:14:03 2013]  say: ^3R^0O^3N: всеравно качается
+[Sat Sep 28 12:14:21 2013]  say: maxim: щя
+[Sat Sep 28 12:15:07 2013]  say: maxim: хех
+[Sat Sep 28 12:15:09 2013]  say: ^3R^0O^3N: и что это
+[Sat Sep 28 12:15:19 2013]  say: maxim: двер чтоли
+[Sat Sep 28 12:16:19 2013]  say: maxim: нужно експерементировать
+[Sat Sep 28 12:16:31 2013]  say: maxim: смари
+[Sat Sep 28 12:16:34 2013]  say: maxim: лифт
+[Sat Sep 28 12:16:36 2013]  say: maxim: суда
+[Sat Sep 28 12:16:43 2013]  say: maxim: суда
+[Sat Sep 28 12:17:22 2013]  say: maxim: celf
+[Sat Sep 28 12:17:32 2013]  say: maxim: суда
+[Sat Sep 28 12:17:46 2013]  say: ^3R^0O^3N: во
+[Sat Sep 28 12:17:48 2013]  say: maxim: круто,
+[Sat Sep 28 12:20:23 2013]  say: ^3R^0O^3N: че та не хочет стену делатьт
+[Sat Sep 28 12:20:32 2013]  say: maxim: j
+[Sat Sep 28 12:20:42 2013]  say: maxim: о
+[Sat Sep 28 12:20:43 2013]  say: maxim: вс
+[Sat Sep 28 12:20:50 2013]  say: maxim: все
+[Sat Sep 28 12:20:58 2013]  say: maxim: смари
+[Sat Sep 28 12:20:59 2013]  say: ^3R^0O^3N: не чет качается
+[Sat Sep 28 12:21:03 2013]  Item: 0 ammo_all
+[Sat Sep 28 12:21:13 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 12:21:19 2013]  say: ^3R^0O^3N: лифт поставь
+[Sat Sep 28 12:21:23 2013]  Item: 0 ammo_all
+[Sat Sep 28 12:21:56 2013]  say: maxim: smari
+[Sat Sep 28 12:22:27 2013]  say: maxim: vo
+[Sat Sep 28 12:22:43 2013]  say: ^3R^0O^3N: поставь мне тож так
+[Sat Sep 28 12:23:33 2013]  say: maxim: води
+[Sat Sep 28 12:23:43 2013]  say: maxim: /mrotate 90 0 0
+[Sat Sep 28 12:24:14 2013]  say: maxim: во
+[Sat Sep 28 12:24:20 2013]  say: maxim: нет
+[Sat Sep 28 12:24:59 2013]  say: maxim: после 1 /mrotate 90 0 0 води 2 раза /mgrabbing
+[Sat Sep 28 12:25:14 2013]  say: maxim: понял,
+[Sat Sep 28 12:25:16 2013]  say: maxim: ?
+[Sat Sep 28 12:26:18 2013]  say: ^3R^0O^3N: dj nfr vyjuj cnty cltkfq
+[Sat Sep 28 12:26:34 2013]  say: maxim: dj
+[Sat Sep 28 12:26:35 2013]  say: ^3R^0O^3N: во так много стен сделай
+[Sat Sep 28 12:26:36 2013]  say: maxim: во
+[Sat Sep 28 12:27:29 2013]  say: ^3R^0O^3N: както криво
+[Sat Sep 28 12:27:45 2013]  say: maxim: я тебе не художник
+[Sat Sep 28 12:27:48 2013]  Item: 1 ammo_all
+[Sat Sep 28 12:29:26 2013]  Item: 1 ammo_all
+[Sat Sep 28 12:31:16 2013]  ClientConnect: 2
+[Sat Sep 28 12:31:16 2013]  mlog:Player newcomer, connected. With IP - 37.204.207.39:29070 
+[Sat Sep 28 12:31:56 2013]  say: maxim: о привет
+[Sat Sep 28 12:32:47 2013]  ClientBegin: 2
+[Sat Sep 28 12:33:11 2013]  say: newcomer: hi
+[Sat Sep 28 12:33:12 2013]  say: maxim: рон ты где?
+[Sat Sep 28 12:33:22 2013]  say: ^3R^0O^3N: тут
+[Sat Sep 28 12:33:29 2013]  say: newcomer: привет)
+[Sat Sep 28 12:33:35 2013]  say: maxim: привет
+[Sat Sep 28 12:33:35 2013]  say: ^3R^0O^3N: здарова
+[Sat Sep 28 12:36:12 2013]  say: maxim: призрачный гонщик блин
+[Sat Sep 28 12:36:30 2013]  say: maxim: о давайте устроим гонки
+[Sat Sep 28 12:36:37 2013]  say: newcomer: ага)
+[Sat Sep 28 12:37:04 2013]  say: newcomer: у фуриуса вообще есть скрипт, где он загорается полностью, потом остается только голова и свуп в огне появляется
+[Sat Sep 28 12:38:54 2013]  say: newcomer: спауни swoop_mp
+[Sat Sep 28 12:39:32 2013]  say: maxim: я байкер
+[Sat Sep 28 12:39:38 2013]  say: maxim: кто со мной?
+[Sat Sep 28 12:39:44 2013]  say: newcomer: не я
+[Sat Sep 28 12:40:26 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 12:41:57 2013]  say: maxim: cvfhb
+[Sat Sep 28 12:42:00 2013]  say: maxim: смари
+[Sat Sep 28 12:42:07 2013]  say: maxim: теперь не пробевает
+[Sat Sep 28 12:42:12 2013]  say: newcomer: я скоро отключусь, зарядка на ноуте села, а провод не знаю где)
+[Sat Sep 28 12:42:29 2013]  say: maxim: смари
+[Sat Sep 28 12:42:33 2013]  say: maxim: смотри
+[Sat Sep 28 12:42:43 2013]  say: maxim: хмм
+[Sat Sep 28 12:42:56 2013]  say: maxim: где нашол каманду,
+[Sat Sep 28 12:43:13 2013]  say: newcomer: репульс круче всего)
+[Sat Sep 28 12:43:18 2013]  say: newcomer: даже ранкора убивает
+[Sat Sep 28 12:43:23 2013]  Kill: 2 1 6: newcomer killed ^3R^0O^3N by MOD_BLASTER
+[Sat Sep 28 12:43:30 2013]  say: newcomer: прости, я случайно)
+[Sat Sep 28 12:43:37 2013]  say: newcomer: My origin is: (-9619 -946 -487) - You can teleport here with /mtelelast
+
+[Sat Sep 28 12:45:49 2013]  say: newcomer: я неубиваемый)
+[Sat Sep 28 12:46:01 2013]  Exit: Timelimit hit.
+[Sat Sep 28 12:46:01 2013]  score: 8  ping: 116  client: 2 newcomer
+[Sat Sep 28 12:46:01 2013]  score: 4  ping: 100  client: 1 ^3R^0O^3N
+[Sat Sep 28 12:46:01 2013]  score: 4  ping: 135  client: 0 maxim
+[Sat Sep 28 12:46:07 2013]  ShutdownGame:
+[Sat Sep 28 12:46:07 2013]  ------------------------------------------------------------
+[Sat Sep 28 12:46:08 2013]  ------------------------------------------------------------
+[Sat Sep 28 12:46:08 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 12:46:09 2013]  ClientConnect: 0
+[Sat Sep 28 12:46:09 2013]  ClientConnect: 1
+[Sat Sep 28 12:46:09 2013]  ClientConnect: 2
+[Sat Sep 28 12:46:13 2013]  ClientBegin: 1
+[Sat Sep 28 12:46:20 2013]  ClientBegin: 0
+[Sat Sep 28 12:47:01 2013]  Kill: 1 0 6: ^3R^0O^3N killed maxim by MOD_BLASTER
+[Sat Sep 28 12:50:36 2013]  say: maxim: вуууххуу
+[Sat Sep 28 12:50:50 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 12:52:31 2013]  say: maxim: дай команду
+[Sat Sep 28 12:52:36 2013]  say: maxim: на корабл
+[Sat Sep 28 12:53:14 2013]  say: maxim: дай каманду
+[Sat Sep 28 12:53:21 2013]  say: maxim: на кораьль
+[Sat Sep 28 12:53:32 2013]  say: maxim: дай 
+[Sat Sep 28 12:53:40 2013]  say: maxim: каманду
+[Sat Sep 28 12:53:45 2013]  say: maxim: ааалллллллллл
+[Sat Sep 28 12:53:47 2013]  say: maxim: еееееееее
+[Sat Sep 28 12:54:01 2013]  say: maxim: я тогда ухожу
+[Sat Sep 28 12:54:20 2013]  say: maxim: дашь каманду,
+[Sat Sep 28 12:54:22 2013]  say: maxim: ?
+[Sat Sep 28 12:54:39 2013]  Kill: 1022 0 6: <world> killed maxim by MOD_BLASTER
+[Sat Sep 28 12:54:45 2013]  say: maxim: .пщв
+[Sat Sep 28 12:55:25 2013]  say: maxim: nfpishi cavandu
+[Sat Sep 28 12:55:33 2013]  say: maxim: na corabl
+[Sat Sep 28 12:55:59 2013]  say: ^3R^0O^3N: /npc spawn vehicle x-wing
+[Sat Sep 28 12:56:49 2013]  ClientDisconnect: 2
+[Sat Sep 28 12:58:03 2013]  Kill: 1 0 6: ^3R^0O^3N killed maxim by MOD_BLASTER
+[Sat Sep 28 13:01:07 2013]  ClientConnect: 2
+[Sat Sep 28 13:01:08 2013]  mlog:Player newcomer, connected. With IP - 37.204.207.39:29070 
+[Sat Sep 28 13:01:57 2013]  ClientBegin: 2
+[Sat Sep 28 13:02:16 2013]  Kill: 1 2 27: ^3R^0O^3N killed newcomer by MOD_DET_PACK_SPLASH
+[Sat Sep 28 13:02:45 2013]  say: newcomer: я вернулся)
+[Sat Sep 28 13:03:51 2013]  say: maxim: телепортируйтесь ко мне
+[Sat Sep 28 13:03:58 2013]  say: newcomer: введи msayorigin
+[Sat Sep 28 13:03:59 2013]  say: ^3R^0O^3N: My origin is: (15608 8242 1470) - You can teleport here with /mtelelast
+
+[Sat Sep 28 13:04:24 2013]  say: newcomer: зацени
+[Sat Sep 28 13:05:05 2013]  say: newcomer: можно я тебя грохну?)
+[Sat Sep 28 13:05:10 2013]  say: ^3R^0O^3N: ноу
+[Sat Sep 28 13:05:16 2013]  say: newcomer: печаль(
+[Sat Sep 28 13:05:41 2013]  say: maxim: го ко мне
+[Sat Sep 28 13:05:41 2013]  say: newcomer: нее, ты под god-ом)
+[Sat Sep 28 13:07:42 2013]  say: maxim: ult ds&
+[Sat Sep 28 13:07:50 2013]  say: maxim: где вы?
+[Sat Sep 28 13:08:02 2013]  say: newcomer: My origin is: (14491 6535 1592) - You can teleport here with /mtelelast
+
+[Sat Sep 28 13:08:41 2013]  say: newcomer: да погоди
+[Sat Sep 28 13:09:04 2013]  say: maxim: смотри дверь!
+[Sat Sep 28 13:09:24 2013]  say: maxim: да бля
+[Sat Sep 28 13:09:27 2013]  say: maxim: не мешай
+[Sat Sep 28 13:09:49 2013]  say: newcomer: хаха, попробуй)
+[Sat Sep 28 13:10:01 2013]  say: maxim: видфл
+[Sat Sep 28 13:10:03 2013]  say: newcomer: репульс его, кстати, на раз-два убивает
+[Sat Sep 28 13:10:05 2013]  say: maxim: видал
+[Sat Sep 28 13:10:21 2013]  say: ^3R^0O^3N: подожди а как лифт делать
+[Sat Sep 28 13:10:30 2013]  say: newcomer: mplatform
+[Sat Sep 28 13:10:53 2013]  say: ^3R^0O^3N: и дальше че
+[Sat Sep 28 13:11:21 2013]  say: newcomer: ну вводишь mplatform с высотой и скоростью
+[Sat Sep 28 13:11:24 2013]  say: newcomer: и mtouchable
+[Sat Sep 28 13:11:36 2013]  say: maxim: не обязательно
+[Sat Sep 28 13:11:57 2013]  say: newcomer: зацени репульс
+[Sat Sep 28 13:12:24 2013]  say: ^3R^0O^3N: не чет никак
+[Sat Sep 28 13:12:40 2013]  say: maxim: смотри сначала
+[Sat Sep 28 13:12:59 2013]  say: newcomer: я сам примерно знаю только)
+[Sat Sep 28 13:13:09 2013]  say: newcomer: пока только телепорты строил
+[Sat Sep 28 13:13:18 2013]  say: maxim: /mplace factory/catw2_b потом  /mdrop потом  mplatform 300 100
+[Sat Sep 28 13:13:31 2013]  say: newcomer: и mtouchable сделай
+[Sat Sep 28 13:13:34 2013]  say: maxim: ytn
+[Sat Sep 28 13:13:36 2013]  say: maxim: нет
+[Sat Sep 28 13:13:39 2013]  say: maxim: не делай
+[Sat Sep 28 13:14:00 2013]  say: newcomer: вдруг поможет
+[Sat Sep 28 13:14:03 2013]  say: maxim: нет
+[Sat Sep 28 13:16:57 2013]  say: newcomer: это телепорт кстати
+[Sat Sep 28 13:18:03 2013]  say: maxim: ну ччто?
+[Sat Sep 28 13:18:15 2013]  say: maxim: лифт получился?
+[Sat Sep 28 13:18:21 2013]  say: ^3R^0O^3N: да
+[Sat Sep 28 13:18:31 2013]  say: maxim: я хороший учител
+[Sat Sep 28 13:18:39 2013]  say: ^3R^0O^3N: ну примерно да
+[Sat Sep 28 13:19:13 2013]  say: maxim: eqlb
+[Sat Sep 28 13:19:24 2013]  say: maxim: уйди
+[Sat Sep 28 13:19:29 2013]  say: maxim: с платформы
+[Sat Sep 28 13:19:36 2013]  say: maxim: уйди
+[Sat Sep 28 13:19:37 2013]  say: ^3R^0O^3N: щас
+[Sat Sep 28 13:19:51 2013]  say: maxim: уйди
+[Sat Sep 28 13:19:54 2013]  say: maxim: плиз
+[Sat Sep 28 13:19:59 2013]  say: maxim: на 1 сек
+[Sat Sep 28 13:20:17 2013]  say: ^3R^0O^3N: все
+[Sat Sep 28 13:20:21 2013]  say: maxim: хехехеех
+[Sat Sep 28 13:20:49 2013]  say: maxim: букашка
+[Sat Sep 28 13:22:16 2013]  say: ^3R^0O^3N: а сохранить как это можно
+[Sat Sep 28 13:22:27 2013]  say: newcomer: msaveobs NAME PASSWORD
+[Sat Sep 28 13:22:40 2013]  say: newcomer: а потом восстанавливаешь mloadobs NAME PASSWORD
+[Sat Sep 28 13:22:57 2013]  say: newcomer: NAME и PASSWORD - соотв. имя твоего шедевра :) и пароль
+[Sat Sep 28 13:23:34 2013]  say: ^3R^0O^3N: а ты можешь сохранить
+[Sat Sep 28 13:23:44 2013]  say: maxim: /msaveods bikin makspacs
+[Sat Sep 28 13:23:48 2013]  say: newcomer: я могу только свое)
+[Sat Sep 28 13:23:57 2013]  say: newcomer: насколько я знаю) или нет?
+[Sat Sep 28 13:24:05 2013]  say: newcomer: My origin is: (7209 7200 1550) - You can teleport here with /mtelelast
+
+[Sat Sep 28 13:25:11 2013]  say: ^3R^0O^3N: макс доделай стены пожл
+[Sat Sep 28 13:25:17 2013]  say: maxim: у меня пишет msaveods команда неизвестна
+[Sat Sep 28 13:25:38 2013]  say: newcomer: потому msaveoBs, а не oDs
+[Sat Sep 28 13:26:30 2013]  say: maxim: а загрузить,
+[Sat Sep 28 13:26:32 2013]  say: maxim: ?
+[Sat Sep 28 13:26:34 2013]  say: newcomer: mloadobs
+[Sat Sep 28 13:26:56 2013]  ClientConnect: 3
+[Sat Sep 28 13:26:56 2013]  mlog:Player ^1G^7reY^1FaTh^8er, connected. With IP - 147.30.67.139:29070 
+[Sat Sep 28 13:27:09 2013]  say: newcomer: hi)
+[Sat Sep 28 13:27:13 2013]  say: maxim: /mloadobs и парол имя да?
+[Sat Sep 28 13:27:14 2013]  ClientBegin: 3
+[Sat Sep 28 13:27:17 2013]  say: newcomer: да
+[Sat Sep 28 13:27:36 2013]  say: ^3R^0O^3N: доделай пожл стены
+[Sat Sep 28 13:27:54 2013]  Kill: 3 3 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Sep 28 13:28:25 2013]  say: newcomer: hi
+[Sat Sep 28 13:28:30 2013]  Kill: 3 3 39: Padawan killed Padawan by MOD_SUICIDE
+[Sat Sep 28 13:28:37 2013]  say: maxim: hi
+[Sat Sep 28 13:28:37 2013]  say: newcomer: так, все, я побежал, всем удачи)
+[Sat Sep 28 13:28:45 2013]  say: maxim: ti ruskij&
+[Sat Sep 28 13:28:55 2013]  say: maxim: ti rus?
+[Sat Sep 28 13:28:55 2013]  say: Padawan: кто дуэль
+[Sat Sep 28 13:29:06 2013]  say: newcomer: не, мне пора
+[Sat Sep 28 13:29:15 2013]  say: newcomer: и вообще это мейкермод) ты в курсе?
+[Sat Sep 28 13:29:17 2013]  Kill: 1022 3 36: <world> killed Padawan by MOD_CRUSH
+[Sat Sep 28 13:29:29 2013]  say: Padawan: читер
+[Sat Sep 28 13:29:33 2013]  say: newcomer: неа
+[Sat Sep 28 13:29:45 2013]  say: newcomer: это мейкермод, тут все читеры)
+[Sat Sep 28 13:29:57 2013]  say: newcomer: погоди
+[Sat Sep 28 13:30:00 2013]  say: newcomer: зацени
+[Sat Sep 28 13:31:05 2013]  say: ^3R^0O^3N: f ldthm rfr ltkfnm
+[Sat Sep 28 13:31:05 2013]  Kill: 1022 3 36: <world> killed Padawan by MOD_CRUSH
+[Sat Sep 28 13:31:12 2013]  Kill: 1022 3 36: <world> killed Padawan by MOD_CRUSH
+[Sat Sep 28 13:31:12 2013]  say: newcomer: смотри)
+[Sat Sep 28 13:31:13 2013]  say: ^3R^0O^3N: а дверь как делать
+[Sat Sep 28 13:31:17 2013]  say: newcomer: также
+[Sat Sep 28 13:31:26 2013]  Kill: 2 3 36: newcomer killed Padawan by MOD_CRUSH
+[Sat Sep 28 13:31:32 2013]  say: newcomer: это случайно)
+[Sat Sep 28 13:32:04 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 13:32:13 2013]  say: newcomer: не, мне пора
+[Sat Sep 28 13:32:37 2013]  say: newcomer: крутай штука)
+[Sat Sep 28 13:32:44 2013]  say: newcomer: * крутая
+[Sat Sep 28 13:33:06 2013]  Kill: 1022 3 2: <world> killed Padawan by MOD_MELEE
+[Sat Sep 28 13:33:07 2013]  say: ^3R^0O^3N: доделай пожл стены
+[Sat Sep 28 13:33:49 2013]  ClientDisconnect: 3
+[Sat Sep 28 13:34:34 2013]  say: newcomer: все, всем пока
+[Sat Sep 28 13:34:35 2013]  say: maxim: net
+[Sat Sep 28 13:34:37 2013]  ClientDisconnect: 2
+[Sat Sep 28 13:34:41 2013]  say: maxim: 9 sam
+[Sat Sep 28 13:34:44 2013]  say: ^3R^0O^3N: ок
+[Sat Sep 28 13:35:55 2013]  say: maxim: круто я построил вход,
+[Sat Sep 28 13:35:57 2013]  say: maxim: ?
+[Sat Sep 28 13:36:04 2013]  say: ^3R^0O^3N: ага
+[Sat Sep 28 13:38:15 2013]  say: ^3R^0O^3N: а стены
+[Sat Sep 28 13:41:27 2013]  say: ^3R^0O^3N: все сохраняй
+[Sat Sep 28 13:41:34 2013]  ClientConnect: 2
+[Sat Sep 28 13:41:34 2013]  mlog:Player WhiteMagicRaven, connected. With IP - 37.54.149.163:29070 
+[Sat Sep 28 13:42:07 2013]  say: maxim: круто и зачетно!
+[Sat Sep 28 13:42:20 2013]  say: maxim: бля
+[Sat Sep 28 13:42:22 2013]  say: maxim: убери
+[Sat Sep 28 13:42:27 2013]  say: maxim: /mkill
+[Sat Sep 28 13:42:34 2013]  say: maxim: я сам
+[Sat Sep 28 13:42:38 2013]  say: maxim: зделаю
+[Sat Sep 28 13:42:55 2013]  say: ^3R^0O^3N: ты ведь уже сохранил
+[Sat Sep 28 13:43:05 2013]  say: maxim: да только сво
+[Sat Sep 28 13:43:25 2013]  say: maxim: njkmrj cdjt
+[Sat Sep 28 13:43:32 2013]  say: maxim: только свое
+[Sat Sep 28 13:43:42 2013]  say: maxim: дав зделаем быром
+[Sat Sep 28 13:43:48 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 13:44:34 2013]  say: maxim: ровно?
+[Sat Sep 28 13:44:41 2013]  say: ^3R^0O^3N: да
+[Sat Sep 28 13:45:23 2013]  say: maxim: сохраняй
+[Sat Sep 28 13:45:29 2013]  say: ^3R^0O^3N: ладно давай на следующей карте мое сделаем
+[Sat Sep 28 13:45:43 2013]  say: maxim: убери
+[Sat Sep 28 13:45:45 2013]  say: ^3R^0O^3N: доделаем точнее
+[Sat Sep 28 13:46:06 2013]  say: maxim: бля
+[Sat Sep 28 13:46:07 2013]  Exit: Timelimit hit.
+[Sat Sep 28 13:46:07 2013]  score: 21  ping: 67  client: 1 ^3R^0O^3N
+[Sat Sep 28 13:46:07 2013]  score: 6  ping: 80  client: 0 maxim
+[Sat Sep 28 13:46:13 2013]  ShutdownGame:
+[Sat Sep 28 13:46:13 2013]  ------------------------------------------------------------
+[Sat Sep 28 13:46:13 2013]  ------------------------------------------------------------
+[Sat Sep 28 13:46:13 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 13:46:14 2013]  ClientConnect: 0
+[Sat Sep 28 13:46:14 2013]  ClientConnect: 1
+[Sat Sep 28 13:46:14 2013]  ClientConnect: 2
+[Sat Sep 28 13:46:18 2013]  ClientBegin: 1
+[Sat Sep 28 13:46:20 2013]  ClientBegin: 0
+[Sat Sep 28 13:46:33 2013]  say: ^3R^0O^3N: давай
+[Sat Sep 28 13:46:42 2013]  say: maxim: tyt
+[Sat Sep 28 13:46:42 2013]  say: ^3R^0O^3N: возвращай
+[Sat Sep 28 13:46:45 2013]  say: ^3R^0O^3N: да
+[Sat Sep 28 13:46:52 2013]  say: ^3R^0O^3N: не на крыше
+[Sat Sep 28 13:47:39 2013]  say: maxim: а только на той карту возвращять можно
+[Sat Sep 28 13:47:53 2013]  say: maxim: я же там сохронил
+[Sat Sep 28 13:48:28 2013]  say: maxim: дав тут еще
+[Sat Sep 28 13:48:37 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 13:48:39 2013]  say: ^3R^0O^3N: давай я лифт делаю
+[Sat Sep 28 13:49:13 2013]  say: maxim: /mplatform 400 100 ток зделай потом
+[Sat Sep 28 13:50:20 2013]  say: ^3R^0O^3N: не ставится у меня
+[Sat Sep 28 13:50:52 2013]  say: ^3R^0O^3N: а как еще раз автом. или не автом.
+[Sat Sep 28 13:50:59 2013]  say: maxim: lfd z cfv
+[Sat Sep 28 13:51:05 2013]  say: maxim: дав я сам
+[Sat Sep 28 13:51:09 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 13:51:28 2013]  ClientDisconnect: 2
+[Sat Sep 28 13:53:09 2013]  say: maxim: вот
+[Sat Sep 28 13:54:36 2013]  say: maxim: ceka
+[Sat Sep 28 13:54:39 2013]  say: maxim: cyka
+[Sat Sep 28 13:54:44 2013]  say: ^3R^0O^3N: /notarget напиши
+[Sat Sep 28 13:54:44 2013]  say: maxim: yberi
+[Sat Sep 28 13:54:56 2013]  say: ^3R^0O^3N: все
+[Sat Sep 28 13:55:00 2013]  say: maxim: vtiftn
+[Sat Sep 28 13:55:04 2013]  say: maxim: мешает
+[Sat Sep 28 13:55:11 2013]  say: maxim: давай я сам построю
+[Sat Sep 28 13:55:17 2013]  say: ^3R^0O^3N: да нее это охрана если что
+[Sat Sep 28 13:55:40 2013]  say: maxim: есть круче охрана
+[Sat Sep 28 13:59:03 2013]  say: maxim: хмм
+[Sat Sep 28 14:00:01 2013]  say: ^3R^0O^3N: lfdfq yt nen
+[Sat Sep 28 14:00:06 2013]  say: ^3R^0O^3N: lfdfq yt nen
+[Sat Sep 28 14:00:15 2013]  say: ^3R^0O^3N: давай не тут
+[Sat Sep 28 14:00:53 2013]  say: maxim: не мешай
+[Sat Sep 28 14:00:58 2013]  say: maxim: уйди
+[Sat Sep 28 14:02:12 2013]  say: maxim: во
+[Sat Sep 28 14:02:19 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 14:03:30 2013]  say: maxim: иди вуда
+[Sat Sep 28 14:03:33 2013]  say: maxim: суда
+[Sat Sep 28 14:05:23 2013]  say: maxim: убери
+[Sat Sep 28 14:05:37 2013]  say: maxim: вот ето
+[Sat Sep 28 14:05:47 2013]  say: maxim: ей
+[Sat Sep 28 14:05:49 2013]  say: maxim: вот ето
+[Sat Sep 28 14:05:53 2013]  say: maxim: убери
+[Sat Sep 28 14:05:56 2013]  say: ^3R^0O^3N: 'nj yt vj.
+[Sat Sep 28 14:06:21 2013]  say: ^3R^0O^3N: это не мое я же не могу строить
+[Sat Sep 28 14:06:46 2013]  say: maxim: ну ладно строй
+[Sat Sep 28 14:07:01 2013]  say: ^3R^0O^3N: я не могу у меня не строится
+[Sat Sep 28 14:07:03 2013]  say: maxim: я просто хочу чтобы красивее было
+[Sat Sep 28 14:07:22 2013]  say: maxim: веди
+[Sat Sep 28 14:07:32 2013]  say: maxim: /mgrabbing
+[Sat Sep 28 14:07:50 2013]  say: ^3R^0O^3N: спс
+[Sat Sep 28 14:08:26 2013]  say: maxim: e,thb
+[Sat Sep 28 14:09:15 2013]  Item: 1 ammo_all
+[Sat Sep 28 14:09:52 2013]  say: maxim: убери
+[Sat Sep 28 14:10:02 2013]  say: ^3R^0O^3N: поч
+[Sat Sep 28 14:10:15 2013]  say: maxim: вот ето
+[Sat Sep 28 14:10:18 2013]  say: maxim: смотри
+[Sat Sep 28 14:14:22 2013]  ClientConnect: 2
+[Sat Sep 28 14:14:22 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 109.152.1.113:29070 
+[Sat Sep 28 14:14:55 2013]  ClientBegin: 2
+[Sat Sep 28 14:15:16 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: Hi Everyone
+[Sat Sep 28 14:15:26 2013]  say: maxim: ghbdtn
+[Sat Sep 28 14:15:30 2013]  say: maxim: привет
+[Sat Sep 28 14:15:51 2013]  say: maxim: убери лифт
+[Sat Sep 28 14:16:07 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: Is this a little bases
+[Sat Sep 28 14:16:34 2013]  say: maxim: look
+[Sat Sep 28 14:21:12 2013]  say: ^3R^0O^3N: сохраняй
+[Sat Sep 28 14:22:23 2013]  say: ^3R^0O^3N: сохраняй
+[Sat Sep 28 14:22:53 2013]  ClientDisconnect: 2
+[Sat Sep 28 14:23:04 2013]  say: ^3R^0O^3N: макс
+[Sat Sep 28 14:23:09 2013]  say: maxim: а
+[Sat Sep 28 14:23:14 2013]  say: ^3R^0O^3N: сохраняй
+[Sat Sep 28 14:23:24 2013]  say: maxim: уже сохронил
+[Sat Sep 28 14:25:55 2013]  say: maxim: ннееетт
+[Sat Sep 28 14:25:58 2013]  say: maxim: убери
+[Sat Sep 28 14:25:59 2013]  say: ^3R^0O^3N: f ldthm rfr cltkfnm
+[Sat Sep 28 14:26:05 2013]  say: maxim: ыхыхыхы
+[Sat Sep 28 14:26:12 2013]  say: ^3R^0O^3N: а дверь как сделать
+[Sat Sep 28 14:26:23 2013]  say: maxim: не здесь туст давай там
+[Sat Sep 28 14:26:25 2013]  say: maxim: убери
+[Sat Sep 28 14:26:40 2013]  say: maxim: /mkill
+[Sat Sep 28 14:26:51 2013]  say: maxim: го за мной
+[Sat Sep 28 14:26:51 2013]  say: ^3R^0O^3N: аааа
+[Sat Sep 28 14:27:42 2013]  say: maxim: ,kz
+[Sat Sep 28 14:27:49 2013]  say: maxim: бля
+[Sat Sep 28 14:27:55 2013]  say: maxim: ты все испортил
+[Sat Sep 28 14:28:16 2013]  say: maxim: сука
+[Sat Sep 28 14:28:17 2013]  say: ^3R^0O^3N: ну и че дальше
+[Sat Sep 28 14:28:27 2013]  say: maxim: не порть!!!!!!!!!!!!
+[Sat Sep 28 14:28:32 2013]  say: maxim: понял
+[Sat Sep 28 14:28:34 2013]  say: maxim: ?
+[Sat Sep 28 14:28:35 2013]  say: ^3R^0O^3N: ок
+[Sat Sep 28 14:28:48 2013]  say: maxim: когда работаю вобще не подходи
+[Sat Sep 28 14:29:05 2013]  say: maxim: нет
+[Sat Sep 28 14:29:46 2013]  say: ^3R^0O^3N: аа скажи
+[Sat Sep 28 14:29:54 2013]  say: maxim: иди суда
+[Sat Sep 28 14:30:05 2013]  say: maxim: норм рост дулай
+[Sat Sep 28 14:32:00 2013]  say: maxim: сначала /mplace factory/catw2_b потом /mrotate 90 потом /mplatform 100 100 потом /mdrop
+[Sat Sep 28 14:33:24 2013]  say: maxim: ny?
+[Sat Sep 28 14:33:28 2013]  say: maxim: ну
+[Sat Sep 28 14:34:12 2013]  say: maxim: /mrotate 90 0
+[Sat Sep 28 14:34:19 2013]  say: maxim: sori
+[Sat Sep 28 14:34:44 2013]  say: maxim: убери
+[Sat Sep 28 14:34:52 2013]  say: maxim: давай сначала на полигоне
+[Sat Sep 28 14:35:10 2013]  say: maxim: там /mrotate 90 0
+[Sat Sep 28 14:35:40 2013]  say: maxim: ytn
+[Sat Sep 28 14:35:42 2013]  say: maxim: нет
+[Sat Sep 28 14:35:45 2013]  say: ^3R^0O^3N: ye b xt
+[Sat Sep 28 14:35:53 2013]  say: ^3R^0O^3N: ну и че
+[Sat Sep 28 14:36:36 2013]  say: maxim: сначала панельку потом /mrotate 90 0 и потом /mplatform 100 100 и потом /mdrop
+[Sat Sep 28 14:37:57 2013]  say: maxim: yпс сорри /mrotate 90 0 0
+[Sat Sep 28 14:38:10 2013]  say: maxim: dth[
+[Sat Sep 28 14:38:15 2013]  say: maxim: ok
+[Sat Sep 28 14:39:18 2013]  say: maxim: токо не суда
+[Sat Sep 28 14:39:21 2013]  say: maxim: токо не суда
+[Sat Sep 28 14:39:31 2013]  say: maxim: ннет
+[Sat Sep 28 14:39:34 2013]  say: maxim: ненадо
+[Sat Sep 28 14:39:35 2013]  say: maxim: суда
+[Sat Sep 28 14:42:21 2013]  say: ^3R^0O^3N: сохрани
+[Sat Sep 28 14:44:11 2013]  say: ^3R^0O^3N: ns ult
+[Sat Sep 28 14:44:15 2013]  say: ^3R^0O^3N: ты где
+[Sat Sep 28 14:44:44 2013]  say: ^3R^0O^3N: за мной иди
+[Sat Sep 28 14:44:54 2013]  say: ^3R^0O^3N: зырь
+[Sat Sep 28 14:45:24 2013]  say: ^3R^0O^3N: сохрани пожл
+[Sat Sep 28 14:45:37 2013]  say: maxim: cохронил
+[Sat Sep 28 14:45:40 2013]  say: ^3R^0O^3N: спс
+[Sat Sep 28 14:46:03 2013]  say: maxim: круто мы?
+[Sat Sep 28 14:46:10 2013]  say: ^3R^0O^3N: да
+[Sat Sep 28 14:46:12 2013]  Exit: Timelimit hit.
+[Sat Sep 28 14:46:12 2013]  score: 3  ping: 74  client: 1 ^3R^0O^3N
+[Sat Sep 28 14:46:12 2013]  score: 1  ping: 76  client: 0 maxim
+[Sat Sep 28 14:46:18 2013]  ShutdownGame:
+[Sat Sep 28 14:46:18 2013]  ------------------------------------------------------------
+[Sat Sep 28 14:46:19 2013]  ------------------------------------------------------------
+[Sat Sep 28 14:46:19 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 14:46:20 2013]  ClientConnect: 0
+[Sat Sep 28 14:46:20 2013]  ClientConnect: 1
+[Sat Sep 28 14:46:24 2013]  ClientBegin: 1
+[Sat Sep 28 14:46:25 2013]  ClientBegin: 0
+[Sat Sep 28 14:46:30 2013]  say: ^3R^0O^3N: вот ставь
+[Sat Sep 28 14:47:05 2013]  say: maxim: го на то место где строилось
+[Sat Sep 28 14:47:08 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 14:47:18 2013]  say: maxim: go
+[Sat Sep 28 14:48:56 2013]  say: maxim: там
+[Sat Sep 28 14:49:10 2013]  say: maxim: во
+[Sat Sep 28 14:49:33 2013]  say: ^3R^0O^3N: z kban f ns gjk ltkftim
+[Sat Sep 28 14:49:48 2013]  say: ^3R^0O^3N: я лифт а ты пол делаешь
+[Sat Sep 28 14:52:04 2013]  say: maxim: не вводи /mkillall не вкоям случае!!!!!
+[Sat Sep 28 14:52:32 2013]  say: maxim: не вводи
+[Sat Sep 28 14:52:35 2013]  say: maxim: некогда
+[Sat Sep 28 14:54:36 2013]  say: maxim: и ты сохронишь потом тоже
+[Sat Sep 28 14:55:33 2013]  say: ^3R^0O^3N: нет зачем пусть у тебя будет сохранено
+[Sat Sep 28 14:55:54 2013]  say: maxim: если я 1 сохроню твои постройки не сохронятся
+[Sat Sep 28 14:56:01 2013]  say: maxim: понял?
+[Sat Sep 28 14:56:21 2013]  say: ^3R^0O^3N: ну и ладно я тут чучуть тока строил
+[Sat Sep 28 14:56:34 2013]  say: maxim: нет всеровно сохрони
+[Sat Sep 28 14:56:48 2013]  say: ^3R^0O^3N: да зачем
+[Sat Sep 28 14:57:09 2013]  say: ^3R^0O^3N: построй лифт
+[Sat Sep 28 14:57:40 2013]  Item: 1 ammo_all
+[Sat Sep 28 14:58:14 2013]  say: maxim: syka
+[Sat Sep 28 14:58:28 2013]  say: maxim: ты че лифт не хочешь,
+[Sat Sep 28 14:58:30 2013]  say: maxim: ?
+[Sat Sep 28 14:58:47 2013]  say: ^3R^0O^3N: не ровна проста не получается
+[Sat Sep 28 14:59:29 2013]  say: maxim: встфнь
+[Sat Sep 28 14:59:34 2013]  say: maxim: встань
+[Sat Sep 28 14:59:42 2013]  say: maxim: уйди
+[Sat Sep 28 14:59:52 2013]  say: maxim: еще
+[Sat Sep 28 15:00:21 2013]  say: maxim: еще и скажи ровно?
+[Sat Sep 28 15:00:30 2013]  say: ^3R^0O^3N: нет
+[Sat Sep 28 15:00:34 2013]  say: maxim: .ьвкщз
+[Sat Sep 28 15:02:11 2013]  say: ^3R^0O^3N: криво как то
+[Sat Sep 28 15:02:45 2013]  say: ^3R^0O^3N: а как этот пулемет сверху ставить
+[Sat Sep 28 15:02:55 2013]  say: maxim: я сам
+[Sat Sep 28 15:04:02 2013]  say: maxim: блять не ломай
+[Sat Sep 28 15:04:09 2013]  say: ^3R^0O^3N: я застрял
+[Sat Sep 28 15:04:12 2013]  say: maxim: сматри
+[Sat Sep 28 15:04:20 2013]  say: maxim: /noclip
+[Sat Sep 28 15:04:29 2013]  say: maxim: ты тупой
+[Sat Sep 28 15:04:33 2013]  say: ^3R^0O^3N: все ур
+[Sat Sep 28 15:04:35 2013]  say: ^3R^0O^3N: а
+[Sat Sep 28 15:04:38 2013]  say: maxim: я говорю /noclip
+[Sat Sep 28 15:04:41 2013]  say: maxim: cerf
+[Sat Sep 28 15:04:45 2013]  say: maxim: сука
+[Sat Sep 28 15:04:49 2013]  say: maxim: смотри
+[Sat Sep 28 15:04:55 2013]  say: maxim: и не лезь идиот туой
+[Sat Sep 28 15:05:19 2013]  say: maxim: я же говорил русским языком не лезь когда работаю
+[Sat Sep 28 15:07:26 2013]  say: maxim: легче защиту
+[Sat Sep 28 15:08:09 2013]  say: maxim: еwdw a
+[Sat Sep 28 15:09:35 2013]  say: maxim: djn pfibnf
+[Sat Sep 28 15:09:42 2013]  say: maxim: вот защита норм
+[Sat Sep 28 15:09:56 2013]  say: ^3R^0O^3N: ,kz ldthm nf nen jnhsdftncz
+[Sat Sep 28 15:10:10 2013]  say: ^3R^0O^3N: бля дверь та сбоку открывается
+[Sat Sep 28 15:12:32 2013]  say: maxim: дав
+[Sat Sep 28 15:13:10 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 15:13:29 2013]  say: ^3R^0O^3N: не мешай
+[Sat Sep 28 15:13:56 2013]  say: maxim: нет
+[Sat Sep 28 15:13:59 2013]  say: maxim: убери
+[Sat Sep 28 15:14:05 2013]  say: maxim: я сам
+[Sat Sep 28 15:14:10 2013]  say: maxim: .
+[Sat Sep 28 15:16:47 2013]  say: maxim: тут дверь
+[Sat Sep 28 15:16:54 2013]  ClientConnect: 2
+[Sat Sep 28 15:16:54 2013]  mlog:Player Segwanarus, connected. With IP - 78.151.202.69:29070 
+[Sat Sep 28 15:17:32 2013]  say: ^3R^0O^3N: все
+[Sat Sep 28 15:17:43 2013]  ClientBegin: 2
+[Sat Sep 28 15:17:57 2013]  say: ^3R^0O^3N: че дверь не работает
+[Sat Sep 28 15:18:20 2013]  say: maxim: ты ее не зделал
+[Sat Sep 28 15:18:23 2013]  say: ^3R^0O^3N: а как пулеметы ставить
+[Sat Sep 28 15:18:31 2013]  say: maxim: hi
+[Sat Sep 28 15:18:35 2013]  Item: 2 item_cloak
+[Sat Sep 28 15:18:35 2013]  Item: 2 item_seeker
+[Sat Sep 28 15:18:35 2013]  Item: 2 item_binoculars
+[Sat Sep 28 15:18:35 2013]  Item: 2 item_sentry_gun
+[Sat Sep 28 15:18:35 2013]  Item: 2 item_medpac
+[Sat Sep 28 15:18:35 2013]  Item: 2 item_shield
+[Sat Sep 28 15:18:35 2013]  Item: 2 item_medpac_big
+[Sat Sep 28 15:18:35 2013]  Item: 2 item_eweb_holdable
+[Sat Sep 28 15:18:36 2013]  say: ^3R^0O^3N: я дверь не делал
+[Sat Sep 28 15:18:54 2013]  say: ^3R^0O^3N: да как пулемет сделать
+[Sat Sep 28 15:19:21 2013]  say: ^3R^0O^3N: макс
+[Sat Sep 28 15:19:25 2013]  say: maxim: a
+[Sat Sep 28 15:19:28 2013]  say: maxim: hi 
+[Sat Sep 28 15:19:31 2013]  say: maxim: hey
+[Sat Sep 28 15:19:33 2013]  say: ^3R^0O^3N: как пулемет сделать
+[Sat Sep 28 15:19:42 2013]  say: maxim: какой?
+[Sat Sep 28 15:19:53 2013]  say: ^3R^0O^3N: сверху 
+[Sat Sep 28 15:19:57 2013]  say: ^3R^0O^3N: который
+[Sat Sep 28 15:20:05 2013]  say: maxim: смари кстати
+[Sat Sep 28 15:20:10 2013]  say: maxim: как он стреляет
+[Sat Sep 28 15:20:16 2013]  say: maxim: смари стой
+[Sat Sep 28 15:20:51 2013]  say: maxim: j[thtnm
+[Sat Sep 28 15:20:55 2013]  say: maxim: охереть
+[Sat Sep 28 15:20:56 2013]  say: ^3R^0O^3N: норм
+[Sat Sep 28 15:21:00 2013]  say: maxim: он самолты
+[Sat Sep 28 15:21:03 2013]  say: maxim: сбивает
+[Sat Sep 28 15:21:08 2013]  Item: 0 ammo_all
+[Sat Sep 28 15:21:09 2013]  say: ^3R^0O^3N: а как сделать
+[Sat Sep 28 15:21:45 2013]  say: maxim: /mplace deathturret
+[Sat Sep 28 15:21:53 2013]  say: ^3R^0O^3N: а эт
+[Sat Sep 28 15:21:57 2013]  say: ^3R^0O^3N: о
+[Sat Sep 28 15:22:18 2013]  say: maxim: /mplace miniturret
+[Sat Sep 28 15:23:01 2013]  say: maxim: cvfhb
+[Sat Sep 28 15:23:07 2013]  say: maxim: смари
+[Sat Sep 28 15:24:00 2013]  say: ^3R^0O^3N: че ты сделал
+[Sat Sep 28 15:24:05 2013]  say: Segwanarus: where are u guys?
+[Sat Sep 28 15:24:05 2013]  say: ^3R^0O^3N: в лифте
+[Sat Sep 28 15:24:19 2013]  say: maxim: ,kz
+[Sat Sep 28 15:24:22 2013]  say: maxim: бля
+[Sat Sep 28 15:24:38 2013]  say: ^3R^0O^3N: вот другое дело
+[Sat Sep 28 15:24:56 2013]  say: maxim: блять
+[Sat Sep 28 15:25:08 2013]  say: maxim: ты чо сдулал криворукий?
+[Sat Sep 28 15:25:15 2013]  say: maxim: убери
+[Sat Sep 28 15:25:18 2013]  say: maxim: сука
+[Sat Sep 28 15:25:28 2013]  say: ^3R^0O^3N: это охрана нормальная
+[Sat Sep 28 15:25:32 2013]  say: maxim: нет
+[Sat Sep 28 15:25:40 2013]  say: ^3R^0O^3N: точнее дополнительная
+[Sat Sep 28 15:25:43 2013]  say: maxim: кривожопая охрана
+[Sat Sep 28 15:25:49 2013]  say: maxim: убери
+[Sat Sep 28 15:25:58 2013]  say: ^3R^0O^3N: не зачем
+[Sat Sep 28 15:26:00 2013]  say: maxim: блять шяс психоз будет
+[Sat Sep 28 15:27:23 2013]  say: maxim: хули ты?
+[Sat Sep 28 15:27:26 2013]  say: maxim: убери
+[Sat Sep 28 15:27:30 2013]  say: maxim: блять
+[Sat Sep 28 15:27:35 2013]  say: maxim: повыше надо
+[Sat Sep 28 15:27:49 2013]  say: maxim: ой блять
+[Sat Sep 28 15:28:06 2013]  say: maxim: если щяс не уберешь удалю сохранение
+[Sat Sep 28 15:28:16 2013]  say: maxim: поверь я лучше зделаю
+[Sat Sep 28 15:28:31 2013]  say: ^3R^0O^3N: надежная смотри
+[Sat Sep 28 15:28:34 2013]  say: maxim: уберай
+[Sat Sep 28 15:28:48 2013]  say: maxim: надо у лифта повыше сукааааааааааааа
+[Sat Sep 28 15:28:57 2013]  say: maxim: потолок в ебло!
+[Sat Sep 28 15:29:08 2013]  say: ^3R^0O^3N: если я уберу ты все стены уберутса
+[Sat Sep 28 15:29:27 2013]  say: maxim: /MKILL И ПОТОМ MKILL
+[Sat Sep 28 15:29:36 2013]  say: maxim: И ПОТОМ /MKILL
+[Sat Sep 28 15:29:39 2013]  say: Segwanarus: WHERE ARE U GUYS
+[Sat Sep 28 15:29:43 2013]  Kill: 2 2 39: Segwanarus killed Segwanarus by MOD_SUICIDE
+[Sat Sep 28 15:29:43 2013]  setteam:  2 FREE SPECTATOR
+[Sat Sep 28 15:29:43 2013]  ClientBegin: 2
+[Sat Sep 28 15:30:00 2013]  say: ^3R^0O^3N: нехочет
+[Sat Sep 28 15:30:14 2013]  say: maxim: HI
+[Sat Sep 28 15:30:18 2013]  say: Segwanarus: hi
+[Sat Sep 28 15:30:21 2013]  say: maxim: teleport me
+[Sat Sep 28 15:30:26 2013]  say: Segwanarus: ok
+[Sat Sep 28 15:30:29 2013]  setteam:  2 SPECTATOR FREE
+[Sat Sep 28 15:30:29 2013]  ClientBegin: 2
+[Sat Sep 28 15:30:29 2013]  say: Segwanarus: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Sat Sep 28 15:30:43 2013]  say: Segwanarus: My origin is: (-5586 -21753 1624) - You can teleport here with /mtelelast
+
+[Sat Sep 28 15:30:57 2013]  Item: 2 item_cloak
+[Sat Sep 28 15:30:57 2013]  Item: 2 item_seeker
+[Sat Sep 28 15:30:57 2013]  Item: 2 item_binoculars
+[Sat Sep 28 15:30:57 2013]  Item: 2 item_sentry_gun
+[Sat Sep 28 15:30:57 2013]  Item: 2 item_medpac
+[Sat Sep 28 15:30:57 2013]  Item: 2 item_shield
+[Sat Sep 28 15:30:57 2013]  Item: 2 item_medpac_big
+[Sat Sep 28 15:30:57 2013]  Item: 2 item_eweb_holdable
+[Sat Sep 28 15:31:03 2013]  say: maxim: и?
+[Sat Sep 28 15:31:19 2013]  say: Segwanarus: type in /mtelelast
+[Sat Sep 28 15:33:15 2013]  say: maxim: no you teleport
+[Sat Sep 28 15:33:32 2013]  say: Segwanarus: fine state your origin
+[Sat Sep 28 15:34:02 2013]  say: maxim: 15998
+[Sat Sep 28 15:34:09 2013]  say: maxim: 8056
+[Sat Sep 28 15:34:17 2013]  say: maxim: 1470
+[Sat Sep 28 15:34:18 2013]  say: ^3R^0O^3N: дебил
+[Sat Sep 28 15:34:30 2013]  say: ^3R^0O^3N: это в консоле писать надо
+[Sat Sep 28 15:34:50 2013]  say: ^3R^0O^3N: My origin is: (16379 7775 1470) - You can teleport here with /mtelelast
+
+[Sat Sep 28 15:35:35 2013]  say: maxim: no kill
+[Sat Sep 28 15:35:38 2013]  say: maxim: turret
+[Sat Sep 28 15:35:50 2013]  say: maxim: dont kill turret
+[Sat Sep 28 15:35:58 2013]  say: Segwanarus: but its shooting me
+[Sat Sep 28 15:36:08 2013]  say: Segwanarus: ^1Combat ^0Script V1.1 By ^0Jawa Hunter
+[Sat Sep 28 15:36:10 2013]  say: Segwanarus: ^0ARG!!!!! 
+[Sat Sep 28 15:36:10 2013]  say: maxim: /notarget
+[Sat Sep 28 15:36:12 2013]  say: maxim: do
+[Sat Sep 28 15:36:15 2013]  say: maxim: type
+[Sat Sep 28 15:36:49 2013]  say: ^3R^0O^3N: все дом готов
+[Sat Sep 28 15:42:19 2013]  say: ^3R^0O^3N: души его
+[Sat Sep 28 15:43:04 2013]  say: Segwanarus: ^1AHHHHHHHH!!!!!
+[Sat Sep 28 15:44:48 2013]  say: Segwanarus: ^1AHHHHHHHH!!!!!
+[Sat Sep 28 15:45:30 2013]  say: ^3R^0O^3N: сохраняй быстрее
+[Sat Sep 28 15:46:13 2013]  say: ^3R^0O^3N: я его вижу попытаюсь снять
+[Sat Sep 28 15:46:18 2013]  Exit: Timelimit hit.
+[Sat Sep 28 15:46:18 2013]  score: 9  ping: 70  client: 1 ^3R^0O^3N
+[Sat Sep 28 15:46:18 2013]  score: 6  ping: 46  client: 2 Segwanarus
+[Sat Sep 28 15:46:18 2013]  score: 6  ping: 75  client: 0 maxim
+[Sat Sep 28 15:46:24 2013]  ShutdownGame:
+[Sat Sep 28 15:46:24 2013]  ------------------------------------------------------------
+[Sat Sep 28 15:46:24 2013]  ------------------------------------------------------------
+[Sat Sep 28 15:46:24 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 15:46:25 2013]  ClientConnect: 0
+[Sat Sep 28 15:46:25 2013]  ClientConnect: 1
+[Sat Sep 28 15:46:25 2013]  ClientConnect: 2
+[Sat Sep 28 15:46:30 2013]  ClientBegin: 1
+[Sat Sep 28 15:46:31 2013]  ClientBegin: 0
+[Sat Sep 28 15:46:52 2013]  ClientBegin: 2
+[Sat Sep 28 15:47:16 2013]  Item: 2 item_cloak
+[Sat Sep 28 15:47:16 2013]  Item: 2 item_seeker
+[Sat Sep 28 15:47:16 2013]  Item: 2 item_binoculars
+[Sat Sep 28 15:47:16 2013]  Item: 2 item_sentry_gun
+[Sat Sep 28 15:47:16 2013]  Item: 2 item_medpac
+[Sat Sep 28 15:47:16 2013]  Item: 2 item_shield
+[Sat Sep 28 15:47:16 2013]  Item: 2 item_medpac_big
+[Sat Sep 28 15:47:16 2013]  Item: 2 item_eweb_holdable
+[Sat Sep 28 15:47:33 2013]  say: ^3R^0O^3N: че этот придурок сделал
+[Sat Sep 28 15:47:48 2013]  say: maxim: yfuflbk
+[Sat Sep 28 15:47:52 2013]  say: maxim: нагадил
+[Sat Sep 28 15:47:55 2013]  say: maxim: плохо
+[Sat Sep 28 15:47:59 2013]  say: maxim: очень
+[Sat Sep 28 15:48:06 2013]  say: maxim: я знаю
+[Sat Sep 28 15:48:08 2013]  say: maxim: место
+[Sat Sep 28 15:48:13 2013]  say: maxim: го за мной
+[Sat Sep 28 15:48:54 2013]  say: maxim: телепортнись ко мне
+[Sat Sep 28 15:50:27 2013]  say: Segwanarus: WHERE ARE YOU
+[Sat Sep 28 15:50:37 2013]  say: Segwanarus: TELEPORT ME
+[Sat Sep 28 15:50:37 2013]  say: ^3R^0O^3N: ты где макс
+[Sat Sep 28 15:50:44 2013]  say: maxim: телепортнись ко мне
+[Sat Sep 28 15:50:55 2013]  say: maxim: как кординаты сдулать,
+[Sat Sep 28 15:50:57 2013]  say: maxim: ?
+[Sat Sep 28 15:51:15 2013]  say: ^3R^0O^3N: щас ненадо а то он придет
+[Sat Sep 28 15:51:26 2013]  say: maxim: ок
+[Sat Sep 28 15:51:31 2013]  say: maxim: по зрению найди
+[Sat Sep 28 15:51:57 2013]  say: maxim: и ноцлип токо его не привлекай
+[Sat Sep 28 15:52:31 2013]  say: maxim: ну
+[Sat Sep 28 15:53:16 2013]  say: maxim: эй рон
+[Sat Sep 28 15:53:22 2013]  say: maxim: ну как нашл?
+[Sat Sep 28 15:53:33 2013]  say: ^3R^0O^3N: все иду
+[Sat Sep 28 15:53:55 2013]  say: maxim: как на мальенький размер переключить?
+[Sat Sep 28 15:54:14 2013]  say: ^3R^0O^3N: /mscaleme 0
+[Sat Sep 28 15:54:20 2013]  say: maxim: убери /mempower а то палевно
+[Sat Sep 28 15:55:09 2013]  say: maxim: все не палевно
+[Sat Sep 28 15:55:26 2013]  say: ^3R^0O^3N: а че ты сделал
+[Sat Sep 28 15:55:39 2013]  say: maxim: убежище от придурка
+[Sat Sep 28 15:55:50 2013]  say: maxim: я на разведку жди
+[Sat Sep 28 15:56:42 2013]  say: maxim: нехера
+[Sat Sep 28 15:56:48 2013]  say: ^3R^0O^3N: что
+[Sat Sep 28 15:57:58 2013]  say: maxim: нету
+[Sat Sep 28 15:59:01 2013]  say: maxim: вижу
+[Sat Sep 28 15:59:09 2013]  say: maxim: шухер
+[Sat Sep 28 15:59:18 2013]  say: maxim: вижу его
+[Sat Sep 28 15:59:44 2013]  say: maxim: прием рон!
+[Sat Sep 28 15:59:47 2013]  say: maxim: прием
+[Sat Sep 28 15:59:51 2013]  say: maxim: ответь!
+[Sat Sep 28 16:00:01 2013]  say: ^3R^0O^3N: ghbtv !
+[Sat Sep 28 16:00:05 2013]  say: maxim: вижу придурка
+[Sat Sep 28 16:00:08 2013]  say: ^3R^0O^3N: прием как слышно
+[Sat Sep 28 16:00:12 2013]  say: maxim: норм
+[Sat Sep 28 16:00:46 2013]  say: ^3R^0O^3N: прием ты где!!
+[Sat Sep 28 16:01:10 2013]  say: maxim: я тут где я я вижу обьект найден придурок
+[Sat Sep 28 16:01:29 2013]  say: ^3R^0O^3N: вы где ранкор
+[Sat Sep 28 16:01:44 2013]  say: maxim: ранкор?
+[Sat Sep 28 16:01:50 2013]  say: ^3R^0O^3N: монстор
+[Sat Sep 28 16:02:40 2013]  say: maxim: обьект меня не видит повторяю обьект меня не видит!
+[Sat Sep 28 16:02:53 2013]  say: ^3R^0O^3N: прием я вас вижу
+[Sat Sep 28 16:02:54 2013]  say: Segwanarus: STOP FOLLOWING ME
+[Sat Sep 28 16:03:09 2013]  say: maxim: убери
+[Sat Sep 28 16:03:12 2013]  say: maxim: силу
+[Sat Sep 28 16:03:15 2013]  say: maxim: палевно!
+[Sat Sep 28 16:03:31 2013]  say: ^3R^0O^3N: прием вижу врага 
+[Sat Sep 28 16:04:22 2013]  say: ^3R^0O^3N: пием отступаю
+[Sat Sep 28 16:04:47 2013]  say: ^3R^0O^3N: прием я тебя не вижу
+[Sat Sep 28 16:05:35 2013]  say: Segwanarus: ^1Combat ^0Script V1.1 By ^0Jawa Hunter
+[Sat Sep 28 16:05:36 2013]  say: Segwanarus: ^0ARG!!!!! 
+[Sat Sep 28 16:05:41 2013]  say: ^3R^0O^3N: прием
+[Sat Sep 28 16:05:55 2013]  say: maxim: прием
+[Sat Sep 28 16:06:02 2013]  say: maxim: я прикололся над ним
+[Sat Sep 28 16:06:09 2013]  say: ^3R^0O^3N: я вижу врага но он под |пщв
+[Sat Sep 28 16:06:19 2013]  say: ^3R^0O^3N: /god
+[Sat Sep 28 16:06:24 2013]  say: maxim: он хотел пульнуть скрипт но я его вырубил скутуром
+[Sat Sep 28 16:06:38 2013]  say: Segwanarus: ^1AHHHHHHHH!!!!!
+[Sat Sep 28 16:06:53 2013]  say: Segwanarus: ^1AHHHHHHHH!!!!!
+[Sat Sep 28 16:07:00 2013]  say: ^3R^0O^3N: я тут
+[Sat Sep 28 16:08:04 2013]  say: ^3R^0O^3N: прием я снайпер
+[Sat Sep 28 16:08:54 2013]  say: ^3R^0O^3N: прием я ранен
+[Sat Sep 28 16:09:07 2013]  say: ^3R^0O^3N: медик
+[Sat Sep 28 16:09:25 2013]  say: maxim: пошли на базу
+[Sat Sep 28 16:09:32 2013]  say: ^3R^0O^3N: ^1МЕДИК МЕДИК МЕДИК МЕДИК МЕДИК
+[Sat Sep 28 16:09:34 2013]  say: maxim: орлы возврощяются
+[Sat Sep 28 16:09:46 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 16:10:00 2013]  say: ^3R^0O^3N: го на базу
+[Sat Sep 28 16:10:22 2013]  say: maxim: я на базе
+[Sat Sep 28 16:10:24 2013]  say: maxim: прием
+[Sat Sep 28 16:10:26 2013]  say: maxim: !
+[Sat Sep 28 16:10:33 2013]  say: ^3R^0O^3N: я тож
+[Sat Sep 28 16:10:55 2013]  say: ^3R^0O^3N: миссия провалена
+[Sat Sep 28 16:11:01 2013]  say: maxim: ye;ty gkb\fy
+[Sat Sep 28 16:11:08 2013]  say: maxim: нужен план
+[Sat Sep 28 16:11:23 2013]  say: ^3R^0O^3N: я снайпер
+[Sat Sep 28 16:11:57 2013]  Kill: 0 0 27: maxim killed maxim by MOD_DET_PACK_SPLASH
+[Sat Sep 28 16:12:32 2013]  say: ^3R^0O^3N: прием ты где
+[Sat Sep 28 16:12:33 2013]  say: Segwanarus: YES!!
+[Sat Sep 28 16:12:40 2013]  say: maxim: z pltcm!
+[Sat Sep 28 16:12:45 2013]  say: maxim: я здесь!
+[Sat Sep 28 16:12:48 2013]  say: Segwanarus: FEEL THE POWER!!
+[Sat Sep 28 16:12:59 2013]  say: ^3R^0O^3N: я на разведку\
+[Sat Sep 28 16:13:36 2013]  say: ^3R^0O^3N: первый первый я второй придурок гонится за мной!!!!!!!
+[Sat Sep 28 16:13:51 2013]  say: maxim: хехе рифма
+[Sat Sep 28 16:13:55 2013]  say: Segwanarus: i dont understand u
+[Sat Sep 28 16:14:22 2013]  say: ^3R^0O^3N: 1 1 я 2 придурок гонится за мно
+[Sat Sep 28 16:14:24 2013]  say: ^3R^0O^3N: й
+[Sat Sep 28 16:14:40 2013]  say: maxim: nuclip
+[Sat Sep 28 16:16:25 2013]  say: ^3R^0O^3N: ты че
+[Sat Sep 28 16:17:36 2013]  say: ^3R^0O^3N: я на базе прием
+[Sat Sep 28 16:17:44 2013]  say: maxim: я иду
+[Sat Sep 28 16:18:05 2013]  say: Segwanarus: BOW DOWN TO MEEEE!
+[Sat Sep 28 16:18:18 2013]  say: maxim: hey
+[Sat Sep 28 16:18:24 2013]  say: maxim: you lol
+[Sat Sep 28 16:18:24 2013]  say: Segwanarus: what!
+[Sat Sep 28 16:18:30 2013]  say: maxim: llooolll
+[Sat Sep 28 16:18:39 2013]  say: ^3R^0O^3N: FOOL!!!
+[Sat Sep 28 16:18:46 2013]  say: maxim: lloooll
+[Sat Sep 28 16:18:52 2013]  say: Segwanarus: u sure
+[Sat Sep 28 16:18:57 2013]  say: maxim: llooolll
+[Sat Sep 28 16:19:00 2013]  say: maxim: lol
+[Sat Sep 28 16:19:04 2013]  say: maxim: lOl
+[Sat Sep 28 16:19:08 2013]  say: maxim: LoL
+[Sat Sep 28 16:19:10 2013]  say: maxim: LOL
+[Sat Sep 28 16:19:21 2013]  say: maxim: круто я его?
+[Sat Sep 28 16:19:30 2013]  say: ^3R^0O^3N: ну так
+[Sat Sep 28 16:19:35 2013]  say: Segwanarus: i think i know exactly what im doing
+[Sat Sep 28 16:19:39 2013]  say: ^3R^0O^3N: надо воинов
+[Sat Sep 28 16:19:53 2013]  say: maxim: хорошо что он незнает где мы =)
+[Sat Sep 28 16:20:10 2013]  say: ^3R^0O^3N: петрович поможешь нам
+[Sat Sep 28 16:20:23 2013]  say: ^3R^0O^3N: не бей петровича
+[Sat Sep 28 16:20:37 2013]  say: maxim: не шуми
+[Sat Sep 28 16:21:33 2013]  say: maxim: он же не знает где мы?
+[Sat Sep 28 16:21:42 2013]  say: ^3R^0O^3N: yfdthyj
+[Sat Sep 28 16:21:47 2013]  say: ^3R^0O^3N: наверно
+[Sat Sep 28 16:22:52 2013]  say: Segwanarus: farewell guys
+[Sat Sep 28 16:22:56 2013]  ClientDisconnect: 2
+[Sat Sep 28 16:23:03 2013]  say: ^3R^0O^3N: ура
+[Sat Sep 28 16:23:09 2013]  say: maxim: you dont know were we
+[Sat Sep 28 16:23:11 2013]  say: maxim: !
+[Sat Sep 28 16:23:21 2013]  say: ^3R^0O^3N: он ушел
+[Sat Sep 28 16:23:27 2013]  say: maxim: ура
+[Sat Sep 28 16:25:08 2013]  say: ^3R^0O^3N: о как ты сделал
+[Sat Sep 28 16:25:26 2013]  say: ^3R^0O^3N: во ка
+[Sat Sep 28 16:25:29 2013]  say: ^3R^0O^3N: к
+[Sat Sep 28 16:25:44 2013]  say: maxim: 0.?
+[Sat Sep 28 16:25:57 2013]  say: maxim: например 0.5
+[Sat Sep 28 16:28:39 2013]  say: ^3R^0O^3N: пошли расследуем територтю
+[Sat Sep 28 16:28:43 2013]  say: maxim: не
+[Sat Sep 28 16:30:54 2013]  say: ^3R^0O^3N: давай стену сделаем
+[Sat Sep 28 16:32:40 2013]  say: ^3R^0O^3N: а можна поставить дверь с поролем
+[Sat Sep 28 16:32:51 2013]  say: maxim: нет
+[Sat Sep 28 16:32:56 2013]  say: ^3R^0O^3N: жаль
+[Sat Sep 28 16:33:51 2013]  say: ^3R^0O^3N: и тут
+[Sat Sep 28 16:34:01 2013]  say: ^3R^0O^3N: тут
+[Sat Sep 28 16:34:07 2013]  say: ^3R^0O^3N: двер
+[Sat Sep 28 16:34:10 2013]  say: ^3R^0O^3N: ь
+[Sat Sep 28 16:34:10 2013]  say: maxim: тут выход
+[Sat Sep 28 16:34:20 2013]  say: ^3R^0O^3N: тут дверь
+[Sat Sep 28 16:35:00 2013]  say: maxim: тут
+[Sat Sep 28 16:38:13 2013]  say: maxim: gjktntkb
+[Sat Sep 28 16:38:21 2013]  say: maxim: полетели тут держись
+[Sat Sep 28 16:39:04 2013]  say: maxim: хахахах
+[Sat Sep 28 16:39:16 2013]  say: maxim: управлял то я
+[Sat Sep 28 16:40:36 2013]  say: maxim: эй
+[Sat Sep 28 16:40:41 2013]  say: maxim: садись
+[Sat Sep 28 16:43:14 2013]  say: ^3R^0O^3N: давай терь я катаю
+[Sat Sep 28 16:44:01 2013]  say: ^3R^0O^3N: а как катать
+[Sat Sep 28 16:44:59 2013]  say: maxim: /mmove вправо-цифра вперед-цифра вверх цифра
+[Sat Sep 28 16:45:08 2013]  say: maxim: сначала .ьвкщз
+[Sat Sep 28 16:45:21 2013]  say: maxim: сначала /mdro[
+[Sat Sep 28 16:45:25 2013]  say: maxim: /mdrop
+[Sat Sep 28 16:46:24 2013]  Exit: Timelimit hit.
+[Sat Sep 28 16:46:24 2013]  score: 9  ping: 70  client: 1 ^3R^0O^3N
+[Sat Sep 28 16:46:24 2013]  score: 4  ping: 81  client: 0 maxim
+[Sat Sep 28 16:46:30 2013]  say: ^3R^0O^3N: yt rfnftn
+[Sat Sep 28 16:46:31 2013]  ShutdownGame:
+[Sat Sep 28 16:46:31 2013]  ------------------------------------------------------------
+[Sat Sep 28 16:46:31 2013]  ------------------------------------------------------------
+[Sat Sep 28 16:46:31 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 16:46:33 2013]  ClientConnect: 0
+[Sat Sep 28 16:46:33 2013]  ClientConnect: 1
+[Sat Sep 28 16:46:37 2013]  say: ^3R^0O^3N: не катает
+[Sat Sep 28 16:46:37 2013]  ClientBegin: 1
+[Sat Sep 28 16:46:38 2013]  ClientBegin: 0
+[Sat Sep 28 16:47:14 2013]  say: maxim: mmove 0 0 100 делай
+[Sat Sep 28 16:47:44 2013]  say: maxim: 100 0 0
+[Sat Sep 28 16:47:45 2013]  say: ^3R^0O^3N: f d ,jr
+[Sat Sep 28 16:47:48 2013]  say: maxim: делай
+[Sat Sep 28 16:48:46 2013]  say: ^3R^0O^3N: а вернуть как
+[Sat Sep 28 16:48:59 2013]  say: maxim: никак
+[Sat Sep 28 16:49:30 2013]  say: maxim: tot djn nfr
+[Sat Sep 28 16:49:31 2013]  say: ^3R^0O^3N: а в лево как
+[Sat Sep 28 16:49:35 2013]  say: maxim: еше вот так
+[Sat Sep 28 16:49:40 2013]  say: maxim: смари
+[Sat Sep 28 16:50:20 2013]  ClientConnect: 2
+[Sat Sep 28 16:50:20 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 109.152.1.113:29070 
+[Sat Sep 28 16:50:33 2013]  say: ^3R^0O^3N: а прямо как
+[Sat Sep 28 16:50:44 2013]  say: ^3R^0O^3N: аааааааааа
+[Sat Sep 28 16:50:54 2013]  ClientBegin: 2
+[Sat Sep 28 16:50:54 2013]  say: maxim: cvfhb
+[Sat Sep 28 16:50:54 2013]  ClientConnect: 3
+[Sat Sep 28 16:50:54 2013]  mlog:Player Padawan, connected. With IP - 200.83.111.139:29071 
+[Sat Sep 28 16:50:57 2013]  ClientDisconnect: 3
+[Sat Sep 28 16:50:57 2013]  ClientConnect: 3
+[Sat Sep 28 16:50:57 2013]  mlog:Player Padawan, connected. With IP - 200.83.111.139:29071 
+[Sat Sep 28 16:50:58 2013]  say: maxim: смари
+[Sat Sep 28 16:51:04 2013]  say: ^3R^0O^3N: он вернулся
+[Sat Sep 28 16:51:07 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: hi all
+[Sat Sep 28 16:51:15 2013]  say: maxim: весь
+[Sat Sep 28 16:51:18 2013]  say: maxim: попробуй
+[Sat Sep 28 16:51:24 2013]  say: maxim: ты
+[Sat Sep 28 16:51:27 2013]  say: ^3R^0O^3N: а прямо как
+[Sat Sep 28 16:52:06 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: noobs cant kill me
+[Sat Sep 28 16:52:14 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: your god noobs
+[Sat Sep 28 16:53:32 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Sat Sep 28 16:53:33 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 28 16:53:53 2013]  say: maxim: я делаю
+[Sat Sep 28 16:54:00 2013]  say: maxim: корабль с пушками
+[Sat Sep 28 16:54:15 2013]  ClientDisconnect: 2
+[Sat Sep 28 16:54:59 2013]  ClientConnect: 2
+[Sat Sep 28 16:54:59 2013]  mlog:Player ^5Rac^0to, connected. With IP - 109.152.1.113:29070 
+[Sat Sep 28 16:55:08 2013]  ClientBegin: 2
+[Sat Sep 28 16:55:22 2013]  say: ^5Rac^0to: Hello 
+[Sat Sep 28 16:55:51 2013]  say: ^5Rac^0to: what are u making
+[Sat Sep 28 16:57:03 2013]  say: ^3R^0O^3N: z ujnjd
+[Sat Sep 28 16:57:07 2013]  say: ^3R^0O^3N: я готов
+[Sat Sep 28 16:57:14 2013]  say: maxim: i no
+[Sat Sep 28 16:57:17 2013]  say: ^5Rac^0to: im enhlish if u talk to  me ;MESSAGE
+[Sat Sep 28 16:57:29 2013]  say: ^5Rac^0to: ^1KILL SELECTED OBJECT!
+[Sat Sep 28 16:58:07 2013]  say: maxim: cvfhb yf vjq
+[Sat Sep 28 16:58:12 2013]  say: maxim: смари на мой
+[Sat Sep 28 16:58:40 2013]  say: maxim: я полетел
+[Sat Sep 28 16:58:56 2013]  say: ^3R^0O^3N: ytn
+[Sat Sep 28 16:58:59 2013]  say: ^3R^0O^3N: ytn
+[Sat Sep 28 16:59:04 2013]  say: ^3R^0O^3N: нет
+[Sat Sep 28 17:00:38 2013]  say: ^5Rac^0to: ?mki
+[Sat Sep 28 17:01:15 2013]  say: maxim: tq
+[Sat Sep 28 17:01:18 2013]  say: maxim: ей
+[Sat Sep 28 17:01:19 2013]  say: maxim: рон
+[Sat Sep 28 17:01:21 2013]  say: maxim: суда
+[Sat Sep 28 17:01:31 2013]  say: maxim: суда
+[Sat Sep 28 17:01:49 2013]  say: maxim: смари
+[Sat Sep 28 17:01:56 2013]  say: maxim: красиво?
+[Sat Sep 28 17:02:05 2013]  say: ^3R^0O^3N: так
+[Sat Sep 28 17:02:14 2013]  say: ^3R^0O^3N: а как это сделать
+[Sat Sep 28 17:02:21 2013]  say: maxim: полетели
+[Sat Sep 28 17:02:25 2013]  say: maxim: сначало
+[Sat Sep 28 17:02:30 2013]  say: maxim: иди в свой
+[Sat Sep 28 17:02:46 2013]  say: ^3R^0O^3N: я еще не доделал 5 мин жди
+[Sat Sep 28 17:04:05 2013]  say: maxim: я уже тут
+[Sat Sep 28 17:04:45 2013]  say: ^3R^0O^3N: а как чтоб она поварачивалась
+[Sat Sep 28 17:04:47 2013]  say: maxim: о я знаю как в низ -ицифра
+[Sat Sep 28 17:05:01 2013]  say: ^3R^0O^3N: макс
+[Sat Sep 28 17:05:04 2013]  say: maxim: смари
+[Sat Sep 28 17:05:22 2013]  say: ^3R^0O^3N: как DEATHTURREP сделать так чтоб поварачивалась
+[Sat Sep 28 17:05:52 2013]  say: ^3R^0O^3N: спс
+[Sat Sep 28 17:06:32 2013]  say: maxim: вниз чтобы - и цифра
+[Sat Sep 28 17:06:36 2013]  say: maxim: --
+[Sat Sep 28 17:07:02 2013]  say: maxim: го?
+[Sat Sep 28 17:07:09 2013]  say: ^3R^0O^3N: да
+[Sat Sep 28 17:07:32 2013]  say: maxim: вводи /mmoveall 0 0 50
+[Sat Sep 28 17:07:37 2013]  say: maxim: all!
+[Sat Sep 28 17:07:39 2013]  say: ^3R^0O^3N: а
+[Sat Sep 28 17:08:09 2013]  say: maxim: ghbdtn
+[Sat Sep 28 17:08:16 2013]  say: maxim: привет
+[Sat Sep 28 17:08:22 2013]  say: ^3R^0O^3N: а дальше
+[Sat Sep 28 17:09:22 2013]  say: maxim: суда
+[Sat Sep 28 17:09:50 2013]  say: maxim: хмм
+[Sat Sep 28 17:09:53 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 17:10:11 2013]  say: ^3R^0O^3N: а как турель
+[Sat Sep 28 17:10:31 2013]  say: ^3R^0O^3N: а как турель ставить
+[Sat Sep 28 17:11:17 2013]  say: maxim: вперед давайте
+[Sat Sep 28 17:11:26 2013]  say: ^3R^0O^3N: а как турель ставить
+[Sat Sep 28 17:11:28 2013]  say: maxim: кто последний тот лошара
+[Sat Sep 28 17:11:33 2013]  say: ^3R^0O^3N: как
+[Sat Sep 28 17:11:42 2013]  say: maxim: смари
+[Sat Sep 28 17:12:03 2013]  say: maxim: води /mmove --200 0 0
+[Sat Sep 28 17:12:46 2013]  say: ^5Rac^0to: taint
+[Sat Sep 28 17:13:08 2013]  say: ^3R^0O^3N: как вперед
+[Sat Sep 28 17:13:27 2013]  say: maxim: /mmoveall --200 0 0
+[Sat Sep 28 17:13:48 2013]  say: maxim: ljujyy
+[Sat Sep 28 17:13:56 2013]  say: maxim: догоняй
+[Sat Sep 28 17:13:57 2013]  say: ^3R^0O^3N: никакэ
+[Sat Sep 28 17:14:29 2013]  say: maxim: /mmoveall минус200 0 0
+[Sat Sep 28 17:14:30 2013]  say: ^3R^0O^3N: как вперед
+[Sat Sep 28 17:14:35 2013]  say: maxim: ввуди
+[Sat Sep 28 17:14:46 2013]  say: ^3R^0O^3N: ну и че
+[Sat Sep 28 17:15:01 2013]  say: ^3R^0O^3N: во
+[Sat Sep 28 17:15:04 2013]  say: maxim: ну
+[Sat Sep 28 17:15:18 2013]  say: maxim: теперь кто последний тот лошара
+[Sat Sep 28 17:15:54 2013]  say: ^3R^0O^3N: а в бок как
+[Sat Sep 28 17:16:01 2013]  say: maxim: .тщсдшз
+[Sat Sep 28 17:16:18 2013]  say: maxim: '
+[Sat Sep 28 17:16:26 2013]  say: ^3R^0O^3N: rfr d ghfdj
+[Sat Sep 28 17:16:28 2013]  say: ^5Rac^0to: that was a little crash
+[Sat Sep 28 17:16:32 2013]  say: ^3R^0O^3N: как в бок
+[Sat Sep 28 17:18:16 2013]  say: ^3R^0O^3N: макс ты где
+[Sat Sep 28 17:18:35 2013]  say: maxim: тут возде твоего корабля
+[Sat Sep 28 17:18:38 2013]  ClientDisconnect: 2
+[Sat Sep 28 17:19:24 2013]  say: maxim: заново
+[Sat Sep 28 17:21:11 2013]  say: maxim: ладно я пошел завтра будешь когда играть?
+[Sat Sep 28 17:21:35 2013]  say: ^3R^0O^3N: в 9 23
+[Sat Sep 28 17:21:46 2013]  say: maxim: ты в каком городе?
+[Sat Sep 28 17:21:52 2013]  say: maxim: я в москве
+[Sat Sep 28 17:21:55 2013]  say: ^3R^0O^3N: москва
+[Sat Sep 28 17:22:01 2013]  say: maxim: о ну ок
+[Sat Sep 28 17:22:10 2013]  say: maxim: 9:23 да?
+[Sat Sep 28 17:22:21 2013]  say: ^3R^0O^3N: да а ты куда
+[Sat Sep 28 17:22:25 2013]  say: maxim: спать
+[Sat Sep 28 17:22:32 2013]  say: maxim: ладно поке
+[Sat Sep 28 17:22:35 2013]  say: ^3R^0O^3N: в 8 30
+[Sat Sep 28 17:22:42 2013]  say: maxim: завтра утром встретимся
+[Sat Sep 28 17:22:50 2013]  say: ^3R^0O^3N: ок
+[Sat Sep 28 17:22:55 2013]  say: maxim: ну может в 9:00
+[Sat Sep 28 17:23:02 2013]  say: ^3R^0O^3N: ок
+[Sat Sep 28 17:23:06 2013]  say: maxim: ок
+[Sat Sep 28 17:23:08 2013]  say: maxim: пока
+[Sat Sep 28 17:23:09 2013]  say: ^3R^0O^3N: стой
+[Sat Sep 28 17:23:40 2013]  say: ^3R^0O^3N: как сохранять постройки
+[Sat Sep 28 17:23:42 2013]  say: maxim: блин давай 1 час
+[Sat Sep 28 17:23:57 2013]  ClientDisconnect: 0
+[Sat Sep 28 17:27:01 2013]  ClientDisconnect: 1
+[Sat Sep 28 17:33:15 2013]  ClientConnect: 0
+[Sat Sep 28 17:33:15 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.41:-13379 
+[Sat Sep 28 17:33:27 2013]  ClientBegin: 0
+[Sat Sep 28 17:33:41 2013]  ClientDisconnect: 0
+[Sat Sep 28 17:46:30 2013]  Exit: Timelimit hit.
+[Sat Sep 28 17:51:54 2013]  ClientConnect: 0
+[Sat Sep 28 17:51:54 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 109.152.1.113:29070 
+[Sat Sep 28 17:52:30 2013]  ClientBegin: 0
+[Sat Sep 28 17:52:57 2013]  ShutdownGame:
+[Sat Sep 28 17:52:57 2013]  ------------------------------------------------------------
+[Sat Sep 28 17:52:57 2013]  ------------------------------------------------------------
+[Sat Sep 28 17:52:57 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 17:52:58 2013]  ClientConnect: 0
+[Sat Sep 28 17:52:58 2013]  ClientConnect: 3
+[Sat Sep 28 17:53:15 2013]  ClientBegin: 0
+[Sat Sep 28 17:54:14 2013]  print "^5Rac^0to^7 @@@PLRENAME ^4D^5an ^4Pla^0yes .......
+"[Sat Sep 28 17:57:17 2013]  ClientConnect: 1
+[Sat Sep 28 17:57:17 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.41:-14784 
+[Sat Sep 28 17:57:25 2013]  ClientBegin: 1
+[Sat Sep 28 17:57:38 2013]  say: ^4D^5an ^4Pla^0yes .......: Hi Ron
+[Sat Sep 28 17:57:44 2013]  say: DETH: hi
+[Sat Sep 28 17:59:07 2013]  say: ^4D^5an ^4Pla^0yes .......: do u know who that padawan is
+[Sat Sep 28 17:59:17 2013]  say: ^4D^5an ^4Pla^0yes .......: he has been like that for ever
+[Sat Sep 28 17:59:26 2013]  say: ^4D^5an ^4Pla^0yes .......: notargte
+[Sat Sep 28 17:59:28 2013]  Kill: 1022 0 38: <world> killed ^4D^5an ^4Pla^0yes ....... by MOD_FALLING
+[Sat Sep 28 18:01:17 2013]  say: ^4D^5an ^4Pla^0yes .......: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Sat Sep 28 18:01:18 2013]  say: ^4D^5an ^4Pla^0yes .......: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 28 18:01:25 2013]  say: ^4D^5an ^4Pla^0yes .......: ^1FIRE BALL!
+[Sat Sep 28 18:01:37 2013]  say: ^4D^5an ^4Pla^0yes .......: hmm not that far
+[Sat Sep 28 18:01:39 2013]  say: ^4D^5an ^4Pla^0yes .......: ^1FIRE BALL!
+[Sat Sep 28 18:01:43 2013]  say: ^4D^5an ^4Pla^0yes .......: there
+[Sat Sep 28 18:01:50 2013]  say: ^4D^5an ^4Pla^0yes .......: RANCOR IS DEAD
+[Sat Sep 28 18:02:32 2013]  say: ^4D^5an ^4Pla^0yes .......: were are u deth
+[Sat Sep 28 18:02:48 2013]  say: DETH: ill on my baz
+[Sat Sep 28 18:02:57 2013]  Kill: 0 0 39: ^4D^5an ^4Pla^0yes ....... killed ^4D^5an ^4Pla^0yes ....... by MOD_SUICIDE
+[Sat Sep 28 18:02:57 2013]  setteam:  0 FREE SPECTATOR
+[Sat Sep 28 18:02:57 2013]  ClientBegin: 0
+[Sat Sep 28 18:03:06 2013]  setteam:  0 SPECTATOR FREE
+[Sat Sep 28 18:03:06 2013]  ClientBegin: 0
+[Sat Sep 28 18:04:22 2013]  say: ^4D^5an ^4Pla^0yes .......: look inside xp
+[Sat Sep 28 18:10:48 2013]  ClientDisconnect: 0
+[Sat Sep 28 18:10:48 2013]  ClientDisconnect: 0
+[Sat Sep 28 18:10:48 2013]  ClientConnect: 0
+[Sat Sep 28 18:10:48 2013]  mlog:Player ^4D^5an ^4Pla^0yes ......., connected. With IP - 109.152.1.113:29070 
+[Sat Sep 28 18:10:57 2013]  ClientBegin: 0
+[Sat Sep 28 18:23:09 2013]  print "^4D^5an ^4Pla^0yes .......^7 @@@PLRENAME ^4D^5an ^4Pla^0ysSWMCAP
+"[Sat Sep 28 18:28:49 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: i might just do this
+[Sat Sep 28 18:28:54 2013]  Item: 1 ammo_all
+[Sat Sep 28 18:28:55 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^1FIRE BALL!
+[Sat Sep 28 18:29:03 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: damn missed
+[Sat Sep 28 18:29:05 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^1FIRE BALL!
+[Sat Sep 28 18:29:08 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^1FIRE BALL!
+[Sat Sep 28 18:29:11 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: here
+[Sat Sep 28 18:29:15 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: or there
+[Sat Sep 28 18:29:17 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: lol
+[Sat Sep 28 18:31:06 2013]  Kill: 1022 0 35: <world> killed ^4D^5an ^4Pla^0ysSWMCAP by MOD_LAVA
+[Sat Sep 28 18:31:42 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^1FIRE BALL!
+[Sat Sep 28 18:31:48 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^1FIRE BALL!
+[Sat Sep 28 18:32:01 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^1FIRE BALL!
+[Sat Sep 28 18:32:14 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^1FIRE BALL!
+[Sat Sep 28 18:32:36 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^1FIRE BALL!
+[Sat Sep 28 18:32:45 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^1FIRE BALL!
+[Sat Sep 28 18:34:18 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: better killing machine
+[Sat Sep 28 18:35:14 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: smally
+[Sat Sep 28 18:35:19 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: i can see u
+[Sat Sep 28 18:36:15 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^1FIRE BALL!
+[Sat Sep 28 18:36:21 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^1FIRE BALL!
+[Sat Sep 28 18:36:25 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: there we go
+[Sat Sep 28 18:37:36 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: perfit
+[Sat Sep 28 18:37:43 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: bye
+[Sat Sep 28 18:37:45 2013]  ClientDisconnect: 0
+[Sat Sep 28 18:43:47 2013]  ClientDisconnect: 1
+[Sat Sep 28 18:47:52 2013]  ClientConnect: 0
+[Sat Sep 28 18:47:52 2013]  mlog:Player ^0РаrkQµаkи, connected. With IP - 192.168.1.3:29070 
+[Sat Sep 28 18:48:10 2013]  ClientBegin: 0
+[Sat Sep 28 18:48:10 2013]  say: ^0РаrkQµаkи: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 28 18:48:14 2013]  say: ^0РаrkQµаkи: ^0<<^4hi^0>>
+[Sat Sep 28 18:52:26 2013]  ClientDisconnect: 0
+[Sat Sep 28 18:52:56 2013]  Exit: Timelimit hit.
+[Sat Sep 28 18:54:48 2013]  ClientConnect: 0
+[Sat Sep 28 18:54:48 2013]  mlog:Player ^0РаrkQµаkи, connected. With IP - 192.168.1.3:29070 
+[Sat Sep 28 18:54:54 2013]  ClientBegin: 0
+[Sat Sep 28 18:54:54 2013]  say: ^0РаrkQµаkи: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 28 18:54:55 2013]  ShutdownGame:
+[Sat Sep 28 18:54:55 2013]  ------------------------------------------------------------
+[Sat Sep 28 18:54:56 2013]  ------------------------------------------------------------
+[Sat Sep 28 18:54:56 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 18:54:57 2013]  ClientConnect: 0
+[Sat Sep 28 18:54:57 2013]  ClientConnect: 3
+[Sat Sep 28 18:55:02 2013]  ClientBegin: 0
+[Sat Sep 28 18:55:02 2013]  say: ^0РаrkQµаkи: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 28 18:55:35 2013]  say: ^0РаrkQµаkи: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0РаrkQµаkи
+[Sat Sep 28 18:55:36 2013]  say: ^0РаrkQµаkи: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 28 18:59:22 2013]  say: ^0РаrkQµаkи: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0РаrkQµаkи
+[Sat Sep 28 18:59:23 2013]  say: ^0РаrkQµаkи: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 28 19:01:01 2013]  say: ^0РаrkQµаkи: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0РаrkQµаkи
+[Sat Sep 28 19:01:02 2013]  say: ^0РаrkQµаkи: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 28 19:17:41 2013]  say: ^0РаrkQµаkи: ^0<<^4test^0>>
+[Sat Sep 28 19:18:55 2013]  ClientConnect: 1
+[Sat Sep 28 19:18:55 2013]  mlog:Player jedi, connected. With IP - 75.164.238.147:29070 
+[Sat Sep 28 19:19:12 2013]  ClientBegin: 1
+[Sat Sep 28 19:19:35 2013]  say: jedi: hello
+[Sat Sep 28 19:19:39 2013]  say: ^0РаrkQµаkи: ^0<<^4hey^0>>
+[Sat Sep 28 19:19:54 2013]  say: jedi: were are you
+[Sat Sep 28 19:20:09 2013]  say: ^0РаrkQµаkи: My origin is: (12518 8253 1559) - You can teleport here with /mtelelast
+
+[Sat Sep 28 19:20:34 2013]  say: jedi: i cant teleport it wont let me
+[Sat Sep 28 19:20:58 2013]  say: ^0РаrkQµаkи: ^0<<^4everyone can use /mtelelast^0>>
+[Sat Sep 28 19:21:02 2013]  say: jedi: can you teleport me their
+[Sat Sep 28 19:21:29 2013]  say: ^0РаrkQµаkи: ^0<<^4no I can't, I can only teleport to you^0>>
+[Sat Sep 28 19:21:34 2013]  say: ^0РаrkQµаkи: ^0<<^4but type /mtelelast^0>>
+[Sat Sep 28 19:21:42 2013]  say: ^0РаrkQµаkи: ^0<<^4I'm logged out now^0>>
+[Sat Sep 28 19:21:44 2013]  say: ^0РаrkQµаkи: ^0<<^4and can use it^0>>
+[Sat Sep 28 19:21:51 2013]  Kill: 1 1 39: jedi killed jedi by MOD_SUICIDE
+[Sat Sep 28 19:21:51 2013]  setteam:  1 FREE SPECTATOR
+[Sat Sep 28 19:21:51 2013]  ClientBegin: 1
+[Sat Sep 28 19:22:01 2013]  setteam:  1 SPECTATOR FREE
+[Sat Sep 28 19:22:01 2013]  ClientBegin: 1
+[Sat Sep 28 19:22:02 2013]  say: ^0РаrkQµаkи: ^0<<^4you know how to open the console yeah?^0>>
+[Sat Sep 28 19:22:09 2013]  say: jedi: no
+[Sat Sep 28 19:22:24 2013]  say: ^0РаrkQµаkи: ^0<<^4hold down shift and press the key behind 1 (tilde)^0>>
+[Sat Sep 28 19:22:37 2013]  say: ^0РаrkQµаkи: ^0<<^4then type /mtelelast^0>>
+[Sat Sep 28 19:22:40 2013]  say: ^0РаrkQµаkи: ^0<<^4and press enter^0>>
+[Sat Sep 28 19:22:58 2013]  say: jedi: ok
+[Sat Sep 28 19:23:29 2013]  say: jedi: how did you spell it i forgot
+[Sat Sep 28 19:23:35 2013]  say: ^0РаrkQµаkи: My origin is: (13129 7884 1592) - You can teleport here with /mtelelast
+
+[Sat Sep 28 19:24:42 2013]  say: jedi: i cant do it ill just run their
+[Sat Sep 28 19:24:50 2013]  say: ^0РаrkQµаkи: ^0<<^4no wait^0>>
+[Sat Sep 28 19:24:55 2013]  say: ^0РаrkQµаkи: ^0<<^4I have a teleporter set up anyway^0>>
+[Sat Sep 28 19:25:08 2013]  say: jedi: ok
+[Sat Sep 28 19:25:22 2013]  say: ^0РаrkQµаkи: ^0<<^4come back to the start^0>>
+[Sat Sep 28 19:25:30 2013]  say: jedi: ok
+[Sat Sep 28 19:25:49 2013]  say: ^0РаrkQµаkи: ^0<<^4here^0>>
+[Sat Sep 28 19:25:52 2013]  say: ^0РаrkQµаkи: ^0<<^4ride on this :)^0>>
+[Sat Sep 28 19:26:20 2013]  say: jedi: this is cool!!
+[Sat Sep 28 19:26:22 2013]  say: ^0РаrkQµаkи: ^0<<^4:D^0>>
+[Sat Sep 28 19:26:26 2013]  say: ^0РаrkQµаkи: ^0<<^4alright well watch this^0>>
+[Sat Sep 28 19:26:45 2013]  say: jedi: cool!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[Sat Sep 28 19:26:47 2013]  say: ^0РаrkQµаkи: ^0<<^4:D^0>>
+[Sat Sep 28 19:26:51 2013]  say: ^0РаrkQµаkи: ^0<<^4and now we just go here^0>>
+[Sat Sep 28 19:27:44 2013]  say: ^0РаrkQµаkи: ^0<<^4my friend placed all these objects^0>>
+[Sat Sep 28 19:27:50 2013]  say: ^0РаrkQµаkи: ^0<<^4so I'm working on putting them into my script^0>>
+[Sat Sep 28 19:28:17 2013]  say: jedi: they are cool this is a cool server
+[Sat Sep 28 19:28:25 2013]  say: ^0РаrkQµаkи: ^0<<^4thx :D^0>>
+[Sat Sep 28 19:28:31 2013]  say: ^0РаrkQµаkи: ^0<<^4Makermod has been around for a while^0>>
+[Sat Sep 28 19:28:44 2013]  say: ^0РаrkQµаkи: ^0<<^4watch^0>>
+[Sat Sep 28 19:28:47 2013]  say: ^0РаrkQµаkи: ^0<<^4this is my script of it^0>>
+[Sat Sep 28 19:29:14 2013]  say: jedi: that is so cool
+[Sat Sep 28 19:29:31 2013]  say: ^0РаrkQµаkи: ^0<<^4thx :D^0>>
+[Sat Sep 28 19:29:41 2013]  say: ^0РаrkQµаkи: ^0<<^4so yeah I'm just adding in all the other objects^0>>
+[Sat Sep 28 19:29:48 2013]  say: ^0РаrkQµаkи: ^0<<^4getting the roof back atm^0>>
+[Sat Sep 28 19:30:08 2013]  say: jedi: can you make a ship
+[Sat Sep 28 19:30:59 2013]  say: ^0РаrkQµаkи: ^0<<^4well I have an airtaxi :p^0>>
+[Sat Sep 28 19:31:07 2013]  say: jedi: ok
+[Sat Sep 28 19:31:07 2013]  say: ^0РаrkQµаkи: ^6AIR-TAXI SCRIPT ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Sat Sep 28 19:31:17 2013]  say: jedi: cool
+[Sat Sep 28 19:31:36 2013]  say: ^0РаrkQµаkи: ^0<<^4Oh whoops haha^0>>
+[Sat Sep 28 19:31:44 2013]  say: ^0РаrkQµаkи: ^0<<^4forgot to remove all the other obs :p^0>>
+[Sat Sep 28 19:31:50 2013]  say: jedi: i fell of
+[Sat Sep 28 19:31:54 2013]  say: ^0РаrkQµаkи: ^6AIR-TAXI SCRIPT ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Sat Sep 28 19:32:08 2013]  say: ^0РаrkQµаkи: ^5ACTIVATING SHIELD DOORS
+[Sat Sep 28 19:32:55 2013]  say: jedi: can you land it
+[Sat Sep 28 19:33:01 2013]  say: jedi: thx
+[Sat Sep 28 19:33:25 2013]  say: jedi: dos it fly by its self
+[Sat Sep 28 19:33:33 2013]  say: ^0РаrkQµаkи: ^0<<^4nah^0>>
+[Sat Sep 28 19:33:35 2013]  say: ^0РаrkQµаkи: ^0<<^4I'm flying it^0>>
+[Sat Sep 28 19:33:37 2013]  say: ^0РаrkQµаkи: ^0<<^4with commands^0>>
+[Sat Sep 28 19:33:42 2013]  say: jedi: cool
+[Sat Sep 28 19:34:43 2013]  ClientConnect: 2
+[Sat Sep 28 19:34:43 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.41:-1215 
+[Sat Sep 28 19:34:43 2013]  say: ^0РаrkQµаkи: ^0<<^4whoops :p^0>>
+[Sat Sep 28 19:34:59 2013]  ClientBegin: 2
+[Sat Sep 28 19:35:10 2013]  say: DETH: ку
+[Sat Sep 28 19:35:12 2013]  say: ^0РаrkQµаkи: ^0<<^4anyway you should learn how to use the console^0>>
+[Sat Sep 28 19:35:19 2013]  say: ^0РаrkQµаkи: ^0<<^4did you get it up?^0>>
+[Sat Sep 28 19:35:24 2013]  say: jedi: can we make a battlefield
+[Sat Sep 28 19:35:35 2013]  say: ^0РаrkQµаkи: ^0<<^4we could^0>>
+[Sat Sep 28 19:35:41 2013]  say: ^0РаrkQµаkи: ^0<<^4but I'm working on other things :p^0>>
+[Sat Sep 28 19:36:31 2013]  say: jedi: like put rebels on this ship and storm troopers an ground and land the ship
+[Sat Sep 28 19:36:53 2013]  say: ^0РаrkQµаkи: ^0<<^4haha nice idea but I gotta get back to building :p^0>>
+[Sat Sep 28 19:36:58 2013]  say: jedi: ok
+[Sat Sep 28 19:37:02 2013]  say: ^0РаrkQµаkи: ^0<<^4and I started work on this too :)^0>>
+[Sat Sep 28 19:37:07 2013]  say: ^0РаrkQµаkи: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0РаrkQµаkи
+[Sat Sep 28 19:37:07 2013]  say: ^0РаrkQµаkи: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 28 19:37:45 2013]  say: jedi: COOL
+[Sat Sep 28 19:37:48 2013]  say: ^0РаrkQµаkи: ^0<<^4^^^0>>
+[Sat Sep 28 19:37:58 2013]  say: jedi: can you do water
+[Sat Sep 28 19:38:05 2013]  say: ^0РаrkQµаkи: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1DbnІ
+[Sat Sep 28 19:38:06 2013]  say: ^0РаrkQµаkи: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 28 19:38:35 2013]  say: jedi: and air
+[Sat Sep 28 19:39:23 2013]  say: DETH: where are they
+[Sat Sep 28 19:39:29 2013]  say: jedi: its like avitar the last air bender
+[Sat Sep 28 19:39:31 2013]  say: ^0РаrkQµаkи: My origin is: (10835 21680 1470) - You can teleport here with /mtelelast
+
+[Sat Sep 28 19:39:36 2013]  say: ^0РаrkQµаkи: ^0<<^4yeah :)^0>>
+[Sat Sep 28 19:39:46 2013]  say: ^0РаrkQµаkи: ^0<<^4my Element script was famous over Makermod :D^0>>
+[Sat Sep 28 19:39:55 2013]  say: ^0РаrkQµаkи: ^0<<^4that was ages ago^0>>
+[Sat Sep 28 19:40:01 2013]  say: ^0РаrkQµаkи: ^0<<^4and I'm just starting V3 now^0>>
+[Sat Sep 28 19:40:10 2013]  say: ^0РаrkQµаkи: ^0<<^4I use the mouse now to attack :D^0>>
+[Sat Sep 28 19:40:19 2013]  say: ^0РаrkQµаkи: ^0<<^4instead of Pgup, Pgdown and End^0>>
+[Sat Sep 28 19:40:57 2013]  Kill: 1022 1 0: <world> killed jedi by MOD_UNKNOWN
+[Sat Sep 28 19:41:12 2013]  say: ^0РаrkQµаkи: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0РаrkQµаkи
+[Sat Sep 28 19:41:13 2013]  say: ^0РаrkQµаkи: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 28 19:41:48 2013]  say: jedi: can you bring me back
+[Sat Sep 28 19:41:53 2013]  say: ^0РаrkQµаkи: My origin is: (11110 21339 1470) - You can teleport here with /mtelelast
+
+[Sat Sep 28 19:41:59 2013]  say: ^0РаrkQµаkи: ^0<<^4jedi you need to open the console^0>>
+[Sat Sep 28 19:42:03 2013]  say: ^0РаrkQµаkи: ^0<<^4hold shift^0>>
+[Sat Sep 28 19:42:09 2013]  say: ^0РаrkQµаkи: ^0<<^4and press the key to the left of 1^0>>
+[Sat Sep 28 19:42:27 2013]  say: jedi: i allready said i cant do it
+[Sat Sep 28 19:42:44 2013]  say: ^0РаrkQµаkи: ^0<<^4why not?^0>>
+[Sat Sep 28 19:42:52 2013]  say: jedi: can you bring the taxie hear
+[Sat Sep 28 19:43:05 2013]  say: ^0РаrkQµаkи: ^0<<^4I could but it's quicker for you to teleport to us^0>>
+[Sat Sep 28 19:43:14 2013]  say: ^0РаrkQµаkи: ^0<<^4it's easy to open the console^0>>
+[Sat Sep 28 19:43:25 2013]  say: jedi: i cant do it
+[Sat Sep 28 19:43:33 2013]  say: ^0РаrkQµаkи: ^0<<^4:/^0>>
+[Sat Sep 28 19:43:42 2013]  say: ^0РаrkQµаkи: ^0<<^4what's stopping you?^0>>
+[Sat Sep 28 19:44:27 2013]  say: jedi: i just cant do it
+[Sat Sep 28 19:44:47 2013]  say: ^0РаrkQµаkи: ^0<<^4well google how to do it^0>>
+[Sat Sep 28 19:45:06 2013]  say: ^0РаrkQµаkи: ^0<<^4because you need to open it to use fun commands like placing objects and teleporting to people^0>>
+[Sat Sep 28 19:48:25 2013]  say: DETH: where are they
+[Sat Sep 28 19:48:33 2013]  say: ^0РаrkQµаkи: My origin is: (11836 8052 1592) - You can teleport here with /mtelelast
+
+[Sat Sep 28 19:50:54 2013]  Kill: 1 1 39: jedi killed jedi by MOD_SUICIDE
+[Sat Sep 28 19:50:54 2013]  setteam:  1 FREE SPECTATOR
+[Sat Sep 28 19:50:54 2013]  ClientBegin: 1
+[Sat Sep 28 19:51:03 2013]  setteam:  1 SPECTATOR FREE
+[Sat Sep 28 19:51:03 2013]  ClientBegin: 1
+[Sat Sep 28 19:52:41 2013]  Item: 2 ammo_all
+[Sat Sep 28 19:54:50 2013]  Exit: Timelimit hit.
+[Sat Sep 28 19:54:50 2013]  score: 1  ping: 0  client: 0 ^0РаrkQµаkи
+[Sat Sep 28 19:54:50 2013]  score: 0  ping: 69  client: 2 DETH
+[Sat Sep 28 19:54:50 2013]  score: 0  ping: 216  client: 1 jedi
+[Sat Sep 28 19:54:56 2013]  ShutdownGame:
+[Sat Sep 28 19:54:56 2013]  ------------------------------------------------------------
+[Sat Sep 28 19:54:56 2013]  ------------------------------------------------------------
+[Sat Sep 28 19:54:56 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\10\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 19:54:57 2013]  ClientConnect: 0
+[Sat Sep 28 19:54:57 2013]  ClientConnect: 1
+[Sat Sep 28 19:54:57 2013]  ClientConnect: 2
+[Sat Sep 28 19:54:57 2013]  ClientConnect: 3
+[Sat Sep 28 19:55:02 2013]  ClientBegin: 0
+[Sat Sep 28 19:55:02 2013]  say: ^0РаrkQµаkи: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 28 19:55:05 2013]  ClientBegin: 2
+[Sat Sep 28 19:55:06 2013]  ClientBegin: 1
+[Sat Sep 28 19:55:55 2013]  say: ^0РаrkQµаkи: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0РаrkQµаkи
+[Sat Sep 28 19:55:56 2013]  say: ^0РаrkQµаkи: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 28 19:56:32 2013]  say: jedi: thats one way to do it
+[Sat Sep 28 19:56:35 2013]  say: ^0РаrkQµаkи: ^0<<^4:p^0>>
+[Sat Sep 28 19:57:15 2013]  say: ^0РаrkQµаkи: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0РаrkQµаkи
+[Sat Sep 28 19:57:16 2013]  say: ^0РаrkQµаkи: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 28 19:58:41 2013]  Kill: 1 1 39: jedi killed jedi by MOD_SUICIDE
+[Sat Sep 28 19:58:41 2013]  setteam:  1 FREE SPECTATOR
+[Sat Sep 28 19:58:41 2013]  ClientBegin: 1
+[Sat Sep 28 19:58:48 2013]  ClientConnect: 4
+[Sat Sep 28 19:58:48 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 109.152.1.113:29070 
+[Sat Sep 28 19:58:48 2013]  setteam:  1 SPECTATOR FREE
+[Sat Sep 28 19:58:48 2013]  ClientBegin: 1
+[Sat Sep 28 19:58:57 2013]  say: DETH: come
+[Sat Sep 28 19:59:17 2013]  ClientBegin: 4
+[Sat Sep 28 19:59:20 2013]  say: ^0РаrkQµаkи: ^0<<^4you should use mtouchable on that^0>>
+[Sat Sep 28 19:59:25 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: hi all
+[Sat Sep 28 19:59:28 2013]  say: ^0РаrkQµаkи: ^0<<^4so it opens at all parts of the catwalk^0>>
+[Sat Sep 28 19:59:34 2013]  say: ^0РаrkQµаkи: ^0<<^4not just the center^0>>
+[Sat Sep 28 19:59:40 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: hi quake 
+[Sat Sep 28 19:59:42 2013]  say: ^0РаrkQµаkи: ^0<<^4hey^0>>
+[Sat Sep 28 19:59:59 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: does everyone know your back?
+[Sat Sep 28 20:00:08 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: because u dont have is back on name
+[Sat Sep 28 20:00:19 2013]  say: ^0РаrkQµаkи: ^0<<^4Well I got rid of it anyway^0>>
+[Sat Sep 28 20:00:25 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: oh
+[Sat Sep 28 20:00:25 2013]  say: ^0РаrkQµаkи: ^0<<^4they'll know I'm back lol^0>>
+[Sat Sep 28 20:00:51 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: is that u quake
+[Sat Sep 28 20:00:54 2013]  say: ^0РаrkQµаkи: ^0<<^4yeah^0>>
+[Sat Sep 28 20:01:00 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: cant see name propley
+[Sat Sep 28 20:01:09 2013]  say: ^0РаrkQµаkи: ^0<<^4does it just say RQ?^0>>
+[Sat Sep 28 20:01:15 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: for me its RKQK
+[Sat Sep 28 20:01:16 2013]  say: ^0РаrkQµаkи: ^0<<^4it's cause of my special characters^0>>
+[Sat Sep 28 20:01:18 2013]  say: ^0РаrkQµаkи: ^0<<^4oh yeah right^0>>
+[Sat Sep 28 20:01:28 2013]  say: ^0РаrkQµаkи: ^0<<^4cause the rkQk are normal :)^0>>
+[Sat Sep 28 20:01:35 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: :)
+[Sat Sep 28 20:01:45 2013]  say: ^0РаrkQµаkи: ^0<<^4btw I'm working on Element script v3^0>>
+[Sat Sep 28 20:01:51 2013]  say: ^0РаrkQµаkи: ^0<<^4you can use the mouse now to attack^0>>
+[Sat Sep 28 20:01:51 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: nices
+[Sat Sep 28 20:01:56 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: i got v1 and v1
+[Sat Sep 28 20:01:59 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ops
+[Sat Sep 28 20:02:00 2013]  say: ^0РаrkQµаkи: ^0<<^4and when you're done it resets it back to the normal binds^0>>
+[Sat Sep 28 20:02:04 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: i mean v2 and v1
+[Sat Sep 28 20:02:09 2013]  say: ^0РаrkQµаkи: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0РаrkQµаkи
+[Sat Sep 28 20:02:09 2013]  say: ^0РаrkQµаkи: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 28 20:02:14 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Sat Sep 28 20:02:31 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: is that v3 teaser
+[Sat Sep 28 20:02:33 2013]  say: ^0РаrkQµаkи: ^0<<^4I can left click to use the attack :D^0>>
+[Sat Sep 28 20:02:36 2013]  say: ^0РаrkQµаkи: ^0<<^4yeah^0>>
+[Sat Sep 28 20:02:39 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: nice
+[Sat Sep 28 20:02:41 2013]  say: ^0РаrkQµаkи: ^0<<^4still gonna base the attacks of that^0>>
+[Sat Sep 28 20:02:44 2013]  say: ^0РаrkQµаkи: ^0<<^4much faster^0>>
+[Sat Sep 28 20:02:51 2013]  say: ^0РаrkQµаkи: ^0<<^4and I'll have like a three way attack^0>>
+[Sat Sep 28 20:02:55 2013]  say: ^0РаrkQµаkи: ^0<<^4I'll think of something..^0>>
+[Sat Sep 28 20:03:03 2013]  ClientConnect: 5
+[Sat Sep 28 20:03:03 2013]  mlog:Player ^0Necreos, connected. With IP - 83.27.92.187:29070 
+[Sat Sep 28 20:03:11 2013]  say: ^0РаrkQµаkи: ^0<<^4like rapid looking around so it would cover the directions^0>>
+[Sat Sep 28 20:03:12 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: quake 
+[Sat Sep 28 20:03:24 2013]  say: ^0РаrkQµаkи: ^0<<^4yeh?^0>>
+[Sat Sep 28 20:03:25 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: who is that padawan is been like that for a long time
+[Sat Sep 28 20:03:31 2013]  say: ^0РаrkQµаkи: ^0<<^4haha no idea^0>>
+[Sat Sep 28 20:03:38 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: u do
+[Sat Sep 28 20:03:38 2013]  say: ^0РаrkQµаkи: ^0<<^4probly someone who left the game up overnight^0>>
+[Sat Sep 28 20:03:41 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: oh
+[Sat Sep 28 20:03:42 2013]  say: ^0РаrkQµаkи: ^0<<^4and then lost connection^0>>
+[Sat Sep 28 20:04:00 2013]  ClientDisconnect: 3
+[Sat Sep 28 20:04:05 2013]  say: ^0РаrkQµаkи: ^0<<^4there we go, kicked him^0>>
+[Sat Sep 28 20:04:13 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: Uh k
+[Sat Sep 28 20:04:17 2013]  say: ^0РаrkQµаkи: ^0<<^4I think it's cause I set timeout to 999999 lol^0>>
+[Sat Sep 28 20:04:20 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: weres the mplaces gone
+[Sat Sep 28 20:04:26 2013]  say: jedi: bye
+[Sat Sep 28 20:04:28 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: bb
+[Sat Sep 28 20:04:30 2013]  say: ^0РаrkQµаkи: ^0<<^4cya^0>>
+[Sat Sep 28 20:04:31 2013]  ClientDisconnect: 1
+[Sat Sep 28 20:04:34 2013]  say: ^0РаrkQµаkи: ^0<<^4mplaces?^0>>
+[Sat Sep 28 20:04:38 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: the objects
+[Sat Sep 28 20:04:55 2013]  say: ^0РаrkQµаkи: ^0<<^4lol^0>>
+[Sat Sep 28 20:04:59 2013]  say: ^0РаrkQµаkи: ^0<<^4for what exactly?^0>>
+[Sat Sep 28 20:05:08 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: like the ragnos statue
+[Sat Sep 28 20:05:12 2013]  say: ^0РаrkQµаkи: ^0<<^4oh right^0>>
+[Sat Sep 28 20:05:17 2013]  say: ^0РаrkQµаkи: ^0<<^4yeah that's here^0>>
+[Sat Sep 28 20:05:19 2013]  say: ^0РаrkQµаkи: ^0<<^4but in a script^0>>
+[Sat Sep 28 20:05:24 2013]  say: ^0РаrkQµаkи: ^0<<^4cause there's some bugs with it^0>>
+[Sat Sep 28 20:05:28 2013]  say: ^0РаrkQµаkи: ^0<<^4like the message not showing^0>>
+[Sat Sep 28 20:05:41 2013]  say: ^0РаrkQµаkи: ^0<<^4look^0>>
+[Sat Sep 28 20:05:45 2013]  say: ^0РаrkQµаkи: ^0<<^4new saber effects^0>>
+[Sat Sep 28 20:05:46 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: what
+[Sat Sep 28 20:05:50 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: nice
+[Sat Sep 28 20:06:04 2013]  say: ^0РаrkQµаkи: ^0<<^4and^0>>
+[Sat Sep 28 20:06:11 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: your saber effect is going like furmous
+[Sat Sep 28 20:06:14 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: and that mempower
+[Sat Sep 28 20:06:24 2013]  say: ^0РаrkQµаkи: ^0<<^4I know^0>>
+[Sat Sep 28 20:06:27 2013]  say: ^0РаrkQµаkи: ^0<<^4I stole them :p^0>>
+[Sat Sep 28 20:06:30 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: lo
+[Sat Sep 28 20:06:31 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: l
+[Sat Sep 28 20:06:37 2013]  say: ^0РаrkQµаkи: ^0<<^4i used !remaps^0>>
+[Sat Sep 28 20:06:41 2013]  say: ^0РаrkQµаkи: ^0<<^4it lists all the remaps^0>>
+[Sat Sep 28 20:06:45 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: does he have them still
+[Sat Sep 28 20:06:50 2013]  say: ^0РаrkQµаkи: ^0<<^4yeah ofc^0>>
+[Sat Sep 28 20:06:56 2013]  say: ^0РаrkQµаkи: ^0<<^4I just looked at the remaps he did^0>>
+[Sat Sep 28 20:07:02 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Sat Sep 28 20:07:04 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 28 20:07:10 2013]  say: ^0РаrkQµаkи: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0РаrkQµаkи
+[Sat Sep 28 20:07:11 2013]  say: ^0РаrkQµаkи: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Sep 28 20:07:15 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: lol
+[Sat Sep 28 20:07:19 2013]  say: ^0РаrkQµаkи: ^0<<^4:p^0>>
+[Sat Sep 28 20:07:20 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: ^1FIRE BALL!
+[Sat Sep 28 20:07:32 2013]  say: ^0РаrkQµаkи: ^0<<^4oh^0>>
+[Sat Sep 28 20:07:37 2013]  say: ^0РаrkQµаkи: ^0<<^4you've got mgrabbing on lol^0>>
+[Sat Sep 28 20:07:52 2013]  ClientDisconnect: 5
+[Sat Sep 28 20:08:18 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: best way to get points
+[Sat Sep 28 20:08:34 2013]  say: ^0РаrkQµаkи: ^0<<^4yeah lol^0>>
+[Sat Sep 28 20:08:50 2013]  say: ^0РаrkQµаkи: ^0<<^4got dismemberment on?^0>>
+[Sat Sep 28 20:08:54 2013]  say: ^0РаrkQµаkи: ^0<<^4cg_dismember 1^0>>
+[Sat Sep 28 20:08:56 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: yeah
+[Sat Sep 28 20:08:58 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: i have
+[Sat Sep 28 20:08:59 2013]  say: ^0РаrkQµаkи: ^0<<^4:)^0>>
+[Sat Sep 28 20:09:06 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: i cut of the head ones
+[Sat Sep 28 20:09:23 2013]  say: ^0РаrkQµаkи: ^0<<^4alright well I gotta go^0>>
+[Sat Sep 28 20:09:28 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: why
+[Sat Sep 28 20:09:32 2013]  say: ^0РаrkQµаkи: ^0<<^4But I've been adding to your base script^0>>
+[Sat Sep 28 20:09:36 2013]  say: ^0РаrkQµаkи: ^0<<^4going out partying soon :p^0>>
+[Sat Sep 28 20:09:41 2013]  say: ^0РаrkQµаkи: ^0<<^4I don't just play JA ^^^0>>
+[Sat Sep 28 20:09:43 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: fort u want to see my new name
+[Sat Sep 28 20:09:49 2013]  say: ^4D^5an ^4Pla^0ysSWMCAP: u plat swtor
+[Sat Sep 28 20:09:54 2013]  say: ^0РаrkQµаkи: ^0<<^4haha true^0>>
+[Sat Sep 28 20:10:10 2013]  print "^4D^5an ^4Pla^0ysSWMCAP^7 @@@PLRENAME ^4^0Quakes Assassin
+"[Sat Sep 28 20:10:11 2013]  say: ^4^0Quakes Assassin: here
+[Sat Sep 28 20:10:18 2013]  say: ^0РаrkQµаkи: ^0<<^4haha nice :p^0>>
+[Sat Sep 28 20:10:26 2013]  say: ^0РаrkQµаkи: ^0<<^4you should get Ultra Utility too^0>>
+[Sat Sep 28 20:10:32 2013]  say: ^0РаrkQµаkи: ^0<<^4to have a chatstyle like mine :)^0>>
+[Sat Sep 28 20:10:35 2013]  say: ^4^0Quakes Assassin: how do i
+[Sat Sep 28 20:10:42 2013]  say: ^4^0Quakes Assassin: weres the download
+[Sat Sep 28 20:10:47 2013]  say: ^0РаrkQµаkи: ^0<<^4just google it^0>>
+[Sat Sep 28 20:10:51 2013]  say: ^0РаrkQµаkи: ^0<<^4ultra utility for JA^0>>
+[Sat Sep 28 20:10:57 2013]  say: ^4^0Quakes Assassin: were will it g
+[Sat Sep 28 20:10:58 2013]  say: ^4^0Quakes Assassin: o
+[Sat Sep 28 20:11:13 2013]  say: ^0РаrkQµаkи: ^0<<^4primary drive like other programs^0>>
+[Sat Sep 28 20:11:20 2013]  say: ^0РаrkQµаkи: ^0<<^4you just run the installer^0>>
+[Sat Sep 28 20:11:22 2013]  say: ^4^0Quakes Assassin: base
+[Sat Sep 28 20:11:23 2013]  say: ^0РаrkQµаkи: ^0<<^4then start up JA^0>>
+[Sat Sep 28 20:11:29 2013]  say: ^0РаrkQµаkи: ^0<<^4nah dw about where it goes^0>>
+[Sat Sep 28 20:11:33 2013]  say: ^0РаrkQµаkи: ^0<<^4it's just an installer file^0>>
+[Sat Sep 28 20:11:42 2013]  say: ^4^0Quakes Assassin: oh
+[Sat Sep 28 20:12:38 2013]  say: ^0РаrkQµаkи: ^0<<^4anyway gotta go^0>>
+[Sat Sep 28 20:12:43 2013]  say: ^4^0Quakes Assassin: so have i 
+[Sat Sep 28 20:12:45 2013]  say: ^4^0Quakes Assassin: ill download it
+[Sat Sep 28 20:12:48 2013]  ClientDisconnect: 4
+[Sat Sep 28 20:12:52 2013]  ClientDisconnect: 0
+[Sat Sep 28 20:15:37 2013]  ClientDisconnect: 2
+[Sat Sep 28 20:16:34 2013]  ClientConnect: 0
+[Sat Sep 28 20:16:34 2013]  mlog:Player DETH, connected. With IP - 213.251.210.41:-1215 
+[Sat Sep 28 20:16:40 2013]  ClientBegin: 0
+[Sat Sep 28 20:22:59 2013]  ClientDisconnect: 0
+[Sat Sep 28 20:54:56 2013]  Exit: Timelimit hit.
+[Sat Sep 28 21:28:27 2013]  ClientConnect: 0
+[Sat Sep 28 21:28:27 2013]  mlog:Player Padawan, connected. With IP - 82.137.63.7:-5049 
+[Sat Sep 28 21:28:42 2013]  ClientBegin: 0
+[Sat Sep 28 21:28:45 2013]  ShutdownGame:
+[Sat Sep 28 21:28:45 2013]  ------------------------------------------------------------
+[Sat Sep 28 21:28:45 2013]  ------------------------------------------------------------
+[Sat Sep 28 21:28:45 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 21:28:47 2013]  ClientConnect: 0
+[Sat Sep 28 21:28:55 2013]  ClientBegin: 0
+[Sat Sep 28 21:29:37 2013]  ClientDisconnect: 0
+[Sat Sep 28 22:28:45 2013]  Exit: Timelimit hit.
+[Sat Sep 28 23:14:47 2013]  ClientConnect: 0
+[Sat Sep 28 23:14:47 2013]  mlog:Player newcomer, connected. With IP - 37.204.192.179:29070 
+[Sat Sep 28 23:16:20 2013]  ClientBegin: 0
+[Sat Sep 28 23:16:56 2013]  ShutdownGame:
+[Sat Sep 28 23:16:56 2013]  ------------------------------------------------------------
+[Sat Sep 28 23:16:57 2013]  ------------------------------------------------------------
+[Sat Sep 28 23:16:57 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 28 23:16:57 2013]  ClientConnect: 0
+[Sat Sep 28 23:17:48 2013]  ClientBegin: 0
+[Sun Sep 29 00:16:56 2013]  Exit: Timelimit hit.
+[Sun Sep 29 00:16:56 2013]  score: 8  ping: 80  client: 0 newcomer
+[Sun Sep 29 00:16:57 2013]  say: newcomer: mname takeoff
+[Sun Sep 29 00:17:02 2013]  ShutdownGame:
+[Sun Sep 29 00:17:02 2013]  ------------------------------------------------------------

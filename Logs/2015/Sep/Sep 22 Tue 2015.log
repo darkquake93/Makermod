@@ -1,0 +1,36 @@
+[Tue Sep 22 17:06:29 2015]  ------------------------------------------------------------
+[Tue Sep 22 17:06:29 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 22 17:06:30 2015]  ClientConnect: 0
+[Tue Sep 22 17:06:37 2015]  ClientBegin: 0
+[Tue Sep 22 18:50:40 2015]  Kill: 1022 0 39: <world> killed ^2Jean-Luc^0-Picard by MOD_SUICIDE
+[Tue Sep 22 18:54:15 2015]  ClientDisconnect: 0
+[Tue Sep 22 18:54:38 2015]  ClientConnect: 0
+[Tue Sep 22 18:54:38 2015]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Tue Sep 22 18:54:59 2015]  ClientBegin: 0
+[Tue Sep 22 18:58:54 2015]  say: ^0Ðàrk^2^1Qµàkè: mplacefx env/sand_spray 0
+[Tue Sep 22 19:06:29 2015]  Exit: Timelimit hit.
+[Tue Sep 22 19:06:29 2015]  score: 0  ping: 0  client: 0 ^0Ðàrk^2^1Qµàkè
+[Tue Sep 22 19:07:05 2015]  ShutdownGame:
+[Tue Sep 22 19:07:05 2015]  ------------------------------------------------------------
+[Tue Sep 22 19:07:05 2015]  ------------------------------------------------------------
+[Tue Sep 22 19:07:05 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 22 19:07:07 2015]  ClientConnect: 0
+[Tue Sep 22 19:07:18 2015]  ClientBegin: 0
+[Tue Sep 22 19:09:07 2015]  Kill: 1022 0 36: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_CRUSH
+[Tue Sep 22 19:09:24 2015]  Kill: 1022 0 36: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_CRUSH
+[Tue Sep 22 19:21:27 2015]  Kill: 1022 0 0: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_UNKNOWN
+[Tue Sep 22 21:07:04 2015]  Exit: Timelimit hit.
+[Tue Sep 22 21:07:04 2015]  score: -3  ping: 1  client: 0 ^0Ðàrk^2^1Qµàkè
+[Tue Sep 22 21:54:38 2015]  ShutdownGame:
+[Tue Sep 22 21:54:38 2015]  ------------------------------------------------------------
+[Tue Sep 22 21:54:38 2015]  ------------------------------------------------------------
+[Tue Sep 22 21:54:38 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Sep 22 21:54:39 2015]  ClientConnect: 0
+[Tue Sep 22 21:54:44 2015]  ClientBegin: 0
+[Tue Sep 22 21:54:54 2015]  ClientDisconnect: 0
+[Tue Sep 22 23:55:02 2015]  Exit: Timelimit hit.
+[Wed Sep 23 00:19:38 2015]  ClientConnect: 0
+[Wed Sep 23 00:19:38 2015]  mlog:Player ^2[JOD]^5Yod Kenolvin, connected. With IP - 81.193.211.232:-7582 
+[Wed Sep 23 00:19:53 2015]  ClientBegin: 0
+[Wed Sep 23 00:19:56 2015]  ShutdownGame:
+[Wed Sep 23 00:19:56 2015]  ------------------------------------------------------------

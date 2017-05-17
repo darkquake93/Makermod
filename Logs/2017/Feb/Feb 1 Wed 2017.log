@@ -1,0 +1,732 @@
+[Wed Feb 01 16:12:11 2017]  ------------------------------------------------------------
+[Wed Feb 01 16:12:11 2017]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\999\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Feb 01 16:23:29 2017]  ------------------------------------------------------------
+[Wed Feb 01 16:23:29 2017]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Feb 01 18:39:55 2017]  ClientConnect: 0
+[Wed Feb 01 18:39:55 2017]  mlog:Player Telp, connected. With IP - 73.19.166.208:29070 
+[Wed Feb 01 18:40:16 2017]  ClientBegin: 0
+[Wed Feb 01 18:40:40 2017]  ClientConnect: 1
+[Wed Feb 01 18:40:40 2017]  mlog:Player Padawan, connected. With IP - 75.76.154.237:29070 
+[Wed Feb 01 18:40:43 2017]  ClientConnect: 2
+[Wed Feb 01 18:40:43 2017]  mlog:Player ShoopDoop, connected. With IP - 69.1.44.55:29070 
+[Wed Feb 01 18:41:15 2017]  ClientBegin: 1
+[Wed Feb 01 18:41:18 2017]  ClientBegin: 2
+[Wed Feb 01 18:41:36 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Wed Feb 01 18:42:16 2017]  Kill: 0 1 3: Telp killed Padawan by MOD_SABER
+[Wed Feb 01 18:42:28 2017]  print "Padawan^7 @@@PLRENAME Auclamat
+"[Wed Feb 01 18:42:33 2017]  Kill: 0 2 3: Telp killed ShoopDoop by MOD_SABER
+[Wed Feb 01 18:42:58 2017]  Kill: 0 2 3: Telp killed ShoopDoop by MOD_SABER
+[Wed Feb 01 18:43:07 2017]  Kill: 0 1 3: Telp killed Auclamat by MOD_SABER
+[Wed Feb 01 18:43:15 2017]  Kill: 0 2 3: Telp killed ShoopDoop by MOD_SABER
+[Wed Feb 01 18:43:21 2017]  Kill: 1 2 3: Auclamat killed ShoopDoop by MOD_SABER
+[Wed Feb 01 18:43:31 2017]  Kill: 1 0 3: Auclamat killed Telp by MOD_SABER
+[Wed Feb 01 18:43:50 2017]  Kill: 1 0 3: Auclamat killed Telp by MOD_SABER
+[Wed Feb 01 18:44:07 2017]  Kill: 0 1 3: Telp killed Auclamat by MOD_SABER
+[Wed Feb 01 18:44:33 2017]  Kill: 1 0 3: Auclamat killed Telp by MOD_SABER
+[Wed Feb 01 18:44:38 2017]  Kill: 2 1 3: ShoopDoop killed Auclamat by MOD_SABER
+[Wed Feb 01 18:45:05 2017]  Kill: 1 0 3: Auclamat killed Telp by MOD_SABER
+[Wed Feb 01 18:45:24 2017]  Kill: 2 1 3: ShoopDoop killed Auclamat by MOD_SABER
+[Wed Feb 01 18:45:28 2017]  Kill: 0 0 39: Telp killed Telp by MOD_SUICIDE
+[Wed Feb 01 18:45:50 2017]  Kill: 2 0 3: ShoopDoop killed Telp by MOD_SABER
+[Wed Feb 01 18:46:02 2017]  Kill: 2 0 3: ShoopDoop killed Telp by MOD_SABER
+[Wed Feb 01 18:46:12 2017]  Kill: 2 1 3: ShoopDoop killed Auclamat by MOD_SABER
+[Wed Feb 01 18:46:36 2017]  Kill: 2 0 3: ShoopDoop killed Telp by MOD_SABER
+[Wed Feb 01 18:47:26 2017]  Kill: 0 1 3: Telp killed Auclamat by MOD_SABER
+[Wed Feb 01 18:47:47 2017]  Kill: 0 2 3: Telp killed ShoopDoop by MOD_SABER
+[Wed Feb 01 18:48:41 2017]  Kill: 0 1 3: Telp killed Auclamat by MOD_SABER
+[Wed Feb 01 18:50:22 2017]  Kill: 1 0 3: Auclamat killed Telp by MOD_SABER
+[Wed Feb 01 18:50:27 2017]  say: Auclamat: /god
+[Wed Feb 01 18:50:41 2017]  Kill: 1 0 3: Auclamat killed Telp by MOD_SABER
+[Wed Feb 01 18:51:30 2017]  Kill: 1 0 3: Auclamat killed Telp by MOD_SABER
+[Wed Feb 01 18:51:49 2017]  Kill: 0 2 31: Telp killed ShoopDoop by MOD_FORCE_DARK
+[Wed Feb 01 18:51:54 2017]  Kill: 0 1 3: Telp killed Auclamat by MOD_SABER
+[Wed Feb 01 18:52:05 2017]  say: Auclamat: msleep
+[Wed Feb 01 18:53:09 2017]  Kill: 0 2 20: Telp killed ShoopDoop by MOD_ROCKET_SPLASH
+[Wed Feb 01 18:53:09 2017]  say: ShoopDoop: rre
+[Wed Feb 01 18:55:40 2017]  Kill: 0 2 30: Telp killed ShoopDoop by MOD_CONC_ALT
+[Wed Feb 01 18:55:51 2017]  Kill: 0 1 29: Telp killed Auclamat by MOD_CONC
+[Wed Feb 01 18:56:57 2017]  Kill: 1 0 3: Auclamat killed Telp by MOD_SABER
+[Wed Feb 01 18:57:21 2017]  print "Telp^7 @@@PLRENAME Chewbacca
+"[Wed Feb 01 18:57:52 2017]  Kill: 2 0 2: ShoopDoop killed Chewbacca by MOD_MELEE
+[Wed Feb 01 18:57:54 2017]  Kill: 1 2 3: Auclamat killed ShoopDoop by MOD_SABER
+[Wed Feb 01 18:58:06 2017]  Kill: 0 2 3: Chewbacca killed ShoopDoop by MOD_SABER
+[Wed Feb 01 18:58:12 2017]  Kill: 0 2 3: Chewbacca killed ShoopDoop by MOD_SABER
+[Wed Feb 01 18:58:18 2017]  Kill: 2 0 3: ShoopDoop killed Chewbacca by MOD_SABER
+[Wed Feb 01 18:58:45 2017]  Kill: 0 1 3: Chewbacca killed Auclamat by MOD_SABER
+[Wed Feb 01 18:59:11 2017]  Kill: 1 0 3: Auclamat killed Chewbacca by MOD_SABER
+[Wed Feb 01 19:00:09 2017]  Kill: 0 1 3: Chewbacca killed Auclamat by MOD_SABER
+[Wed Feb 01 19:00:18 2017]  Kill: 2 0 25: ShoopDoop killed Chewbacca by MOD_TRIP_MINE_SPLASH
+[Wed Feb 01 19:00:52 2017]  Kill: 0 1 3: Chewbacca killed Auclamat by MOD_SABER
+[Wed Feb 01 19:01:32 2017]  Kill: 2 0 3: ShoopDoop killed Chewbacca by MOD_SABER
+[Wed Feb 01 19:01:37 2017]  Kill: 2 1 3: ShoopDoop killed Auclamat by MOD_SABER
+[Wed Feb 01 19:01:39 2017]  Kill: 0 2 31: Chewbacca killed ShoopDoop by MOD_FORCE_DARK
+[Wed Feb 01 19:02:25 2017]  Kill: 0 2 3: Chewbacca killed ShoopDoop by MOD_SABER
+[Wed Feb 01 19:02:26 2017]  Kill: 1 0 3: Auclamat killed Chewbacca by MOD_SABER
+[Wed Feb 01 19:02:42 2017]  print "Chewbacca^7 @@@PLRENAME Telpersepholpalapilopolis
+"[Wed Feb 01 19:02:48 2017]  Kill: 1 2 3: Auclamat killed ShoopDoop by MOD_SABER
+[Wed Feb 01 19:03:05 2017]  Kill: 1 2 12: Auclamat killed ShoopDoop by MOD_REPEATER
+[Wed Feb 01 19:03:24 2017]  Kill: 1 0 25: Auclamat killed Telpersepholpalapilopolis by MOD_TRIP_MINE_SPLASH
+[Wed Feb 01 19:03:43 2017]  Kill: 1 0 3: Auclamat killed Telpersepholpalapilopolis by MOD_SABER
+[Wed Feb 01 19:03:50 2017]  Kill: 2 1 27: ShoopDoop killed Auclamat by MOD_DET_PACK_SPLASH
+[Wed Feb 01 19:04:00 2017]  Kill: 2 2 27: ShoopDoop killed ShoopDoop by MOD_DET_PACK_SPLASH
+[Wed Feb 01 19:04:06 2017]  Kill: 0 1 3: Telpersepholpalapilopolis killed Auclamat by MOD_SABER
+[Wed Feb 01 19:04:08 2017]  Kill: 2 0 3: ShoopDoop killed Telpersepholpalapilopolis by MOD_SABER
+[Wed Feb 01 19:04:50 2017]  Kill: 0 0 39: Telpersepholpalapilopolis killed Telpersepholpalapilopolis by MOD_SUICIDE
+[Wed Feb 01 19:05:07 2017]  Kill: 1 0 3: Auclamat killed Telpersepholpalapilopolis by MOD_SABER
+[Wed Feb 01 19:05:13 2017]  Kill: 1 0 3: Auclamat killed Telpersepholpalapilopolis by MOD_SABER
+[Wed Feb 01 19:05:20 2017]  Kill: 0 1 3: Telpersepholpalapilopolis killed Auclamat by MOD_SABER
+[Wed Feb 01 19:05:30 2017]  Kill: 1 0 3: Auclamat killed Telpersepholpalapilopolis by MOD_SABER
+[Wed Feb 01 19:05:46 2017]  Kill: 1 0 3: Auclamat killed Telpersepholpalapilopolis by MOD_SABER
+[Wed Feb 01 19:06:06 2017]  Kill: 2 1 27: ShoopDoop killed Auclamat by MOD_DET_PACK_SPLASH
+[Wed Feb 01 19:06:11 2017]  Kill: 2 2 27: ShoopDoop killed ShoopDoop by MOD_DET_PACK_SPLASH
+[Wed Feb 01 19:06:15 2017]  Kill: 1 0 3: Auclamat killed Telpersepholpalapilopolis by MOD_SABER
+[Wed Feb 01 19:06:23 2017]  Kill: 1 2 3: Auclamat killed ShoopDoop by MOD_SABER
+[Wed Feb 01 19:06:28 2017]  Kill: 2 1 3: ShoopDoop killed Auclamat by MOD_SABER
+[Wed Feb 01 19:06:47 2017]  Kill: 2 1 3: ShoopDoop killed Auclamat by MOD_SABER
+[Wed Feb 01 19:07:05 2017]  Kill: 1 2 3: Auclamat killed ShoopDoop by MOD_SABER
+[Wed Feb 01 19:07:17 2017]  Kill: 1 0 3: Auclamat killed Telpersepholpalapilopolis by MOD_SABER
+[Wed Feb 01 19:07:23 2017]  Kill: 2 1 8: ShoopDoop killed Auclamat by MOD_DISRUPTOR
+[Wed Feb 01 19:07:44 2017]  Kill: 1 0 3: Auclamat killed Telpersepholpalapilopolis by MOD_SABER
+[Wed Feb 01 19:08:29 2017]  Kill: 1 2 29: Auclamat killed ShoopDoop by MOD_CONC
+[Wed Feb 01 19:08:36 2017]  Item: 1 ammo_all
+[Wed Feb 01 19:08:43 2017]  Kill: 2 0 3: ShoopDoop killed Telpersepholpalapilopolis by MOD_SABER
+[Wed Feb 01 19:08:49 2017]  Kill: 1 0 3: Auclamat killed Telpersepholpalapilopolis by MOD_SABER
+[Wed Feb 01 19:09:00 2017]  Kill: 1 0 3: Auclamat killed Telpersepholpalapilopolis by MOD_SABER
+[Wed Feb 01 19:09:14 2017]  Kill: 1 0 3: Auclamat killed Telpersepholpalapilopolis by MOD_SABER
+[Wed Feb 01 19:09:28 2017]  Kill: 2 1 25: ShoopDoop killed Auclamat by MOD_TRIP_MINE_SPLASH
+[Wed Feb 01 19:09:28 2017]  Kill: 2 0 25: ShoopDoop killed Telpersepholpalapilopolis by MOD_TRIP_MINE_SPLASH
+[Wed Feb 01 19:10:10 2017]  ShutdownGame:
+[Wed Feb 01 19:10:10 2017]  ------------------------------------------------------------
+[Wed Feb 01 19:10:10 2017]  ------------------------------------------------------------
+[Wed Feb 01 19:10:10 2017]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/ffa5\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Feb 01 19:10:11 2017]  ClientConnect: 0
+[Wed Feb 01 19:10:11 2017]  ClientConnect: 1
+[Wed Feb 01 19:10:11 2017]  ClientConnect: 2
+[Wed Feb 01 19:10:17 2017]  ClientBegin: 0
+[Wed Feb 01 19:10:19 2017]  ClientBegin: 1
+[Wed Feb 01 19:10:21 2017]  ClientBegin: 2
+[Wed Feb 01 19:10:28 2017]  Kill: 0 2 3: Telpersepholpalapilopolis killed ShoopDoop by MOD_SABER
+[Wed Feb 01 19:10:42 2017]  Item: 0 weapon_repeater
+[Wed Feb 01 19:11:03 2017]  Kill: 0 2 41: Telpersepholpalapilopolis killed ShoopDoop by MOD_TRIGGER_HURT
+[Wed Feb 01 19:11:04 2017]  Item: 0 ammo_tripmine
+[Wed Feb 01 19:11:08 2017]  Item: 0 ammo_metallic_bolts
+[Wed Feb 01 19:11:20 2017]  Kill: 1022 1 41: <world> killed Auclamat by MOD_TRIGGER_HURT
+[Wed Feb 01 19:11:25 2017]  Item: 0 weapon_bowcaster
+[Wed Feb 01 19:11:40 2017]  Kill: 1022 2 41: <world> killed ShoopDoop by MOD_TRIGGER_HURT
+[Wed Feb 01 19:12:08 2017]  Item: 0 weapon_rocket_launcher
+[Wed Feb 01 19:12:26 2017]  Kill: 1022 2 41: <world> killed ShoopDoop by MOD_TRIGGER_HURT
+[Wed Feb 01 19:12:36 2017]  Kill: 1 0 31: Auclamat killed Telpersepholpalapilopolis by MOD_FORCE_DARK
+[Wed Feb 01 19:12:48 2017]  Item: 2 item_medpak_instant
+[Wed Feb 01 19:12:56 2017]  Item: 0 weapon_flechette
+[Wed Feb 01 19:12:58 2017]  say: ShoopDoop: t
+[Wed Feb 01 19:13:05 2017]  Kill: 1022 1 41: <world> killed Auclamat by MOD_TRIGGER_HURT
+[Wed Feb 01 19:13:05 2017]  Item: 0 weapon_repeater
+[Wed Feb 01 19:13:38 2017]  Item: 0 ammo_powercell
+[Wed Feb 01 19:13:39 2017]  Item: 0 ammo_blaster
+[Wed Feb 01 19:14:16 2017]  Kill: 1022 2 41: <world> killed ShoopDoop by MOD_TRIGGER_HURT
+[Wed Feb 01 19:14:19 2017]  Item: 0 weapon_rocket_launcher
+[Wed Feb 01 19:15:05 2017]  Kill: 2 0 31: ShoopDoop killed Telpersepholpalapilopolis by MOD_FORCE_DARK
+[Wed Feb 01 19:15:12 2017]  Item: 0 weapon_thermal
+[Wed Feb 01 19:15:18 2017]  Item: 0 ammo_rockets
+[Wed Feb 01 19:15:25 2017]  ClientDisconnect: 1
+[Wed Feb 01 19:15:41 2017]  Kill: 2 0 29: ShoopDoop killed Telpersepholpalapilopolis by MOD_CONC
+[Wed Feb 01 19:15:45 2017]  ClientDisconnect: 0
+[Wed Feb 01 19:15:50 2017]  ClientDisconnect: 2
+[Wed Feb 01 20:28:05 2017]  ClientConnect: 0
+[Wed Feb 01 20:28:05 2017]  mlog:Player ^6Da^8mo^2ne, connected. With IP - 73.41.205.145:29070 
+[Wed Feb 01 20:28:48 2017]  ClientBegin: 0
+[Wed Feb 01 20:29:02 2017]  Item: 0 ammo_rockets
+[Wed Feb 01 20:32:47 2017]  ClientDisconnect: 0
+[Thu Feb 02 03:09:27 2017]  ClientConnect: 0
+[Thu Feb 02 03:09:27 2017]  mlog:Player Jensaarai, connected. With IP - 98.238.136.149:29070 
+[Thu Feb 02 03:09:47 2017]  ClientBegin: 0
+[Thu Feb 02 03:09:56 2017]  Item: 0 weapon_bowcaster
+[Thu Feb 02 03:09:59 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 03:10:08 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 03:10:16 2017]  Item: 0 weapon_det_pack
+[Thu Feb 02 03:10:24 2017]  Item: 0 weapon_demp2
+[Thu Feb 02 03:10:31 2017]  Item: 0 ammo_rockets
+[Thu Feb 02 03:10:49 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 03:10:57 2017]  Item: 0 item_medpak_instant
+[Thu Feb 02 03:11:05 2017]  Item: 0 item_force_enlighten_dark
+[Thu Feb 02 03:11:23 2017]  ClientConnect: 1
+[Thu Feb 02 03:11:23 2017]  mlog:Player Chew Tobacco, connected. With IP - 107.182.37.231:29070 
+[Thu Feb 02 03:11:36 2017]  ClientBegin: 1
+[Thu Feb 02 03:11:51 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 03:11:57 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 03:12:16 2017]  Item: 1 item_shield_sm_instant
+[Thu Feb 02 03:12:36 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:12:40 2017]  Item: 0 weapon_thermal
+[Thu Feb 02 03:12:42 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 03:12:42 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 03:12:43 2017]  Item: 0 ammo_rockets
+[Thu Feb 02 03:12:47 2017]  Item: 0 ammo_rockets
+[Thu Feb 02 03:13:14 2017]  Item: 0 weapon_disruptor
+[Thu Feb 02 03:13:51 2017]  Item: 1 item_force_enlighten_dark
+[Thu Feb 02 03:14:15 2017]  Item: 1 weapon_det_pack
+[Thu Feb 02 03:14:22 2017]  Item: 1 weapon_blaster
+[Thu Feb 02 03:14:36 2017]  Item: 1 weapon_rocket_launcher
+[Thu Feb 02 03:14:55 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 03:15:19 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:16:32 2017]  Item: 0 item_medpak_instant
+[Thu Feb 02 03:16:37 2017]  Kill: 0 1 27: Jensaarai killed Chew Tobacco by MOD_DET_PACK_SPLASH
+[Thu Feb 02 03:16:41 2017]  Item: 0 weapon_blaster
+[Thu Feb 02 03:17:06 2017]  Item: 0 item_medpak_instant
+[Thu Feb 02 03:17:30 2017]  Kill: 1 0 3: Chew Tobacco killed Jensaarai by MOD_SABER
+[Thu Feb 02 03:17:39 2017]  Item: 1 item_force_enlighten_dark
+[Thu Feb 02 03:17:39 2017]  Item: 0 weapon_flechette
+[Thu Feb 02 03:17:45 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:17:56 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 03:17:56 2017]  Item: 1 ammo_tripmine
+[Thu Feb 02 03:18:07 2017]  Item: 0 weapon_disruptor
+[Thu Feb 02 03:18:11 2017]  Item: 1 item_force_boon
+[Thu Feb 02 03:18:13 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 03:18:26 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:18:56 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 03:19:04 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 03:19:23 2017]  Item: 1 weapon_blaster
+[Thu Feb 02 03:19:34 2017]  Item: 1 item_shield_sm_instant
+[Thu Feb 02 03:20:20 2017]  Item: 1 item_force_enlighten_dark
+[Thu Feb 02 03:20:37 2017]  Item: 1 weapon_trip_mine
+[Thu Feb 02 03:20:39 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 03:20:39 2017]  Item: 1 item_shield_sm_instant
+[Thu Feb 02 03:21:29 2017]  Kill: 1 0 3: Chew Tobacco killed Jensaarai by MOD_SABER
+[Thu Feb 02 03:21:36 2017]  Item: 0 weapon_demp2
+[Thu Feb 02 03:21:47 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 03:21:53 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 03:22:05 2017]  Kill: 0 1 14: Jensaarai killed Chew Tobacco by MOD_REPEATER_ALT_SPLASH
+[Thu Feb 02 03:22:22 2017]  Kill: 1022 0 36: <world> killed Jensaarai by MOD_CRUSH
+[Thu Feb 02 03:22:36 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 03:22:36 2017]  Item: 1 item_shield_sm_instant
+[Thu Feb 02 03:22:41 2017]  Item: 1 weapon_blaster
+[Thu Feb 02 03:22:48 2017]  Kill: 1022 1 41: <world> killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 03:23:08 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 03:23:30 2017]  Kill: 0 1 31: Jensaarai killed Chew Tobacco by MOD_FORCE_DARK
+[Thu Feb 02 03:23:43 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 03:23:43 2017]  Item: 1 item_shield_sm_instant
+[Thu Feb 02 03:23:51 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:24:07 2017]  Item: 0 item_medpak_instant
+[Thu Feb 02 03:24:15 2017]  Item: 1 item_shield_sm_instant
+[Thu Feb 02 03:24:32 2017]  Item: 0 weapon_disruptor
+[Thu Feb 02 03:25:04 2017]  Item: 1 weapon_disruptor
+[Thu Feb 02 03:25:09 2017]  Item: 0 item_force_enlighten_dark
+[Thu Feb 02 03:25:15 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 03:25:18 2017]  Item: 0 weapon_bowcaster
+[Thu Feb 02 03:25:54 2017]  Kill: 1022 0 38: <world> killed Jensaarai by MOD_FALLING
+[Thu Feb 02 03:26:04 2017]  Item: 0 weapon_demp2
+[Thu Feb 02 03:26:12 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 03:26:13 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 03:26:14 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 03:26:16 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 03:26:16 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 03:26:23 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 03:26:24 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:26:40 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:26:59 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 03:27:15 2017]  Kill: 0 1 14: Jensaarai killed Chew Tobacco by MOD_REPEATER_ALT_SPLASH
+[Thu Feb 02 03:27:21 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 03:27:28 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:27:29 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:27:32 2017]  Item: 1 ammo_tripmine
+[Thu Feb 02 03:27:32 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 03:27:37 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:28:27 2017]  Kill: 0 1 3: Jensaarai killed Chew Tobacco by MOD_SABER
+[Thu Feb 02 03:28:34 2017]  Item: 0 item_medpak_instant
+[Thu Feb 02 03:28:37 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:28:45 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:29:04 2017]  Item: 0 weapon_disruptor
+[Thu Feb 02 03:29:55 2017]  Kill: 1 0 3: Chew Tobacco killed Jensaarai by MOD_SABER
+[Thu Feb 02 03:30:01 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 03:30:04 2017]  Item: 0 weapon_blaster
+[Thu Feb 02 03:30:08 2017]  Item: 1 weapon_disruptor
+[Thu Feb 02 03:30:17 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 03:30:36 2017]  Item: 1 weapon_flechette
+[Thu Feb 02 03:30:45 2017]  Item: 0 item_medpak_instant
+[Thu Feb 02 03:31:14 2017]  Kill: 0 1 38: Jensaarai killed Chew Tobacco by MOD_FALLING
+[Thu Feb 02 03:31:20 2017]  Item: 0 weapon_flechette
+[Thu Feb 02 03:31:31 2017]  Item: 0 weapon_rocket_launcher
+[Thu Feb 02 03:31:36 2017]  Item: 1 item_force_enlighten_dark
+[Thu Feb 02 03:31:38 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 03:31:38 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 03:31:38 2017]  Item: 0 ammo_thermal
+[Thu Feb 02 03:31:43 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:31:49 2017]  Item: 1 ammo_tripmine
+[Thu Feb 02 03:31:49 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 03:31:52 2017]  Item: 0 item_medpak_instant
+[Thu Feb 02 03:32:04 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:32:15 2017]  Kill: 0 1 19: Jensaarai killed Chew Tobacco by MOD_ROCKET
+[Thu Feb 02 03:32:26 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:32:27 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:32:34 2017]  Kill: 0 1 41: Jensaarai killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 03:32:45 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:32:50 2017]  Item: 0 item_medpak_instant
+[Thu Feb 02 03:32:51 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:32:55 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 03:33:09 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 03:33:11 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 03:33:15 2017]  Kill: 0 1 41: Jensaarai killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 03:33:28 2017]  Item: 0 weapon_demp2
+[Thu Feb 02 03:33:31 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 03:33:32 2017]  Item: 0 ammo_rockets
+[Thu Feb 02 03:33:38 2017]  Item: 1 weapon_disruptor
+[Thu Feb 02 03:33:39 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 03:33:56 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 03:34:19 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:34:51 2017]  Kill: 1 0 14: Chew Tobacco killed Jensaarai by MOD_REPEATER_ALT_SPLASH
+[Thu Feb 02 03:34:53 2017]  Item: 1 weapon_demp2
+[Thu Feb 02 03:34:55 2017]  Item: 0 weapon_demp2
+[Thu Feb 02 03:34:59 2017]  Item: 0 ammo_rockets
+[Thu Feb 02 03:35:05 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 03:35:06 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 03:35:12 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 03:35:15 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:35:16 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:35:56 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 03:36:04 2017]  Item: 0 weapon_disruptor
+[Thu Feb 02 03:36:38 2017]  Kill: 1022 1 38: <world> killed Chew Tobacco by MOD_FALLING
+[Thu Feb 02 03:36:47 2017]  Item: 0 ammo_rockets
+[Thu Feb 02 03:36:48 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 03:36:48 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 03:36:49 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 03:36:50 2017]  Item: 0 weapon_thermal
+[Thu Feb 02 03:36:54 2017]  Item: 0 ammo_rockets
+[Thu Feb 02 03:37:04 2017]  Item: 1 weapon_demp2
+[Thu Feb 02 03:37:14 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 03:37:24 2017]  Kill: 1022 0 41: <world> killed Jensaarai by MOD_TRIGGER_HURT
+[Thu Feb 02 03:37:34 2017]  Item: 0 weapon_disruptor
+[Thu Feb 02 03:37:52 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 03:37:57 2017]  Item: 1 weapon_flechette
+[Thu Feb 02 03:38:04 2017]  Kill: 1022 1 41: <world> killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 03:38:23 2017]  Item: 1 item_force_enlighten_dark
+[Thu Feb 02 03:38:29 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:38:34 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:38:34 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:38:36 2017]  Item: 1 ammo_tripmine
+[Thu Feb 02 03:38:37 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 03:38:50 2017]  Item: 1 weapon_rocket_launcher
+[Thu Feb 02 03:38:56 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:38:57 2017]  Item: 1 ammo_thermal
+[Thu Feb 02 03:38:58 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:39:04 2017]  Kill: 1022 1 41: <world> killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 03:39:20 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 03:39:28 2017]  Item: 1 weapon_disruptor
+[Thu Feb 02 03:40:11 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:40:24 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 03:40:31 2017]  Item: 1 item_force_enlighten_dark
+[Thu Feb 02 03:40:33 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 03:40:38 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:40:46 2017]  Kill: 1022 1 36: <world> killed Chew Tobacco by MOD_CRUSH
+[Thu Feb 02 03:40:53 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:41:01 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 03:41:02 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 03:41:03 2017]  Item: 1 item_force_enlighten_dark
+[Thu Feb 02 03:41:04 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 03:41:04 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 03:41:36 2017]  Item: 0 ammo_rockets
+[Thu Feb 02 03:41:36 2017]  Item: 0 item_shield_sm_instant
+[Thu Feb 02 03:41:48 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:41:50 2017]  Item: 1 weapon_bowcaster
+[Thu Feb 02 03:41:59 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:42:14 2017]  Kill: 0 1 12: Jensaarai killed Chew Tobacco by MOD_REPEATER
+[Thu Feb 02 03:42:18 2017]  Item: 1 weapon_flechette
+[Thu Feb 02 03:42:44 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:42:45 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 03:43:10 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:43:23 2017]  Kill: 0 1 14: Jensaarai killed Chew Tobacco by MOD_REPEATER_ALT_SPLASH
+[Thu Feb 02 03:43:25 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 03:43:40 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:44:00 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:44:03 2017]  Kill: 0 1 14: Jensaarai killed Chew Tobacco by MOD_REPEATER_ALT_SPLASH
+[Thu Feb 02 03:44:23 2017]  Kill: 0 1 41: Jensaarai killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 03:44:32 2017]  Item: 1 weapon_thermal
+[Thu Feb 02 03:44:34 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 03:44:34 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:44:36 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:44:36 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 03:44:47 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 03:45:21 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 03:45:37 2017]  Item: 1 weapon_disruptor
+[Thu Feb 02 03:46:10 2017]  Item: 1 weapon_rocket_launcher
+[Thu Feb 02 03:46:18 2017]  Item: 1 ammo_thermal
+[Thu Feb 02 03:46:19 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:46:19 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:46:36 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 03:46:45 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 03:47:06 2017]  Kill: 1022 1 41: <world> killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 03:47:11 2017]  Item: 0 weapon_flechette
+[Thu Feb 02 03:47:11 2017]  Item: 1 weapon_demp2
+[Thu Feb 02 03:47:16 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 03:47:21 2017]  Item: 0 weapon_rocket_launcher
+[Thu Feb 02 03:47:23 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:47:24 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:47:26 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 03:47:27 2017]  Item: 0 ammo_thermal
+[Thu Feb 02 03:47:27 2017]  Item: 1 ammo_tripmine
+[Thu Feb 02 03:47:27 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 03:47:35 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:47:45 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:48:27 2017]  Kill: 0 1 25: Jensaarai killed Chew Tobacco by MOD_TRIP_MINE_SPLASH
+[Thu Feb 02 03:48:53 2017]  Item: 0 weapon_det_pack
+[Thu Feb 02 03:49:01 2017]  Item: 0 item_shield_sm_instant
+[Thu Feb 02 03:49:22 2017]  Item: 0 weapon_blaster
+[Thu Feb 02 03:49:38 2017]  Item: 0 item_medpak_instant
+[Thu Feb 02 03:49:50 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:49:50 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:49:52 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 03:49:53 2017]  Item: 1 ammo_tripmine
+[Thu Feb 02 03:50:12 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 03:50:22 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:50:36 2017]  Kill: 0 1 27: Jensaarai killed Chew Tobacco by MOD_DET_PACK_SPLASH
+[Thu Feb 02 03:50:58 2017]  Item: 0 item_medpak_instant
+[Thu Feb 02 03:51:07 2017]  Item: 0 item_medpak_instant
+[Thu Feb 02 03:51:11 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:51:31 2017]  Kill: 0 1 8: Jensaarai killed Chew Tobacco by MOD_DISRUPTOR
+[Thu Feb 02 03:51:48 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:52:33 2017]  Kill: 1 0 3: Chew Tobacco killed Jensaarai by MOD_SABER
+[Thu Feb 02 03:52:37 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 03:52:56 2017]  Item: 0 weapon_blaster
+[Thu Feb 02 03:53:07 2017]  Item: 0 weapon_flechette
+[Thu Feb 02 03:53:13 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 03:53:15 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 03:53:51 2017]  Kill: 0 1 31: Jensaarai killed Chew Tobacco by MOD_FORCE_DARK
+[Thu Feb 02 03:54:02 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 03:54:16 2017]  Item: 1 weapon_disruptor
+[Thu Feb 02 03:54:29 2017]  Item: 0 weapon_bowcaster
+[Thu Feb 02 03:54:31 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 03:54:33 2017]  Kill: 1 0 10: Chew Tobacco killed Jensaarai by MOD_DISRUPTOR_SNIPER
+[Thu Feb 02 03:55:09 2017]  Item: 0 weapon_disruptor
+[Thu Feb 02 03:55:36 2017]  Item: 1 weapon_rocket_launcher
+[Thu Feb 02 03:55:58 2017]  Item: 0 weapon_rocket_launcher
+[Thu Feb 02 03:56:14 2017]  Kill: 1022 1 38: <world> killed Chew Tobacco by MOD_FALLING
+[Thu Feb 02 03:56:23 2017]  Item: 1 weapon_disruptor
+[Thu Feb 02 03:56:25 2017]  Item: 0 item_medpak_instant
+[Thu Feb 02 03:56:30 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 03:56:40 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:57:14 2017]  Item: 1 weapon_thermal
+[Thu Feb 02 03:57:15 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 03:57:15 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 03:57:17 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 03:57:17 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 03:57:53 2017]  Kill: 0 1 25: Jensaarai killed Chew Tobacco by MOD_TRIP_MINE_SPLASH
+[Thu Feb 02 03:57:59 2017]  Item: 1 weapon_blaster
+[Thu Feb 02 03:58:01 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 03:58:16 2017]  Item: 0 weapon_trip_mine
+[Thu Feb 02 03:58:46 2017]  Kill: 1 0 31: Chew Tobacco killed Jensaarai by MOD_FORCE_DARK
+[Thu Feb 02 03:58:48 2017]  Item: 0 weapon_det_pack
+[Thu Feb 02 03:58:49 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 03:58:50 2017]  Item: 1 item_shield_sm_instant
+[Thu Feb 02 03:59:01 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 03:59:14 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 03:59:48 2017]  Kill: 0 1 31: Jensaarai killed Chew Tobacco by MOD_FORCE_DARK
+[Thu Feb 02 03:59:59 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 04:00:02 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:00:02 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:00:05 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:00:05 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:00:11 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:00:18 2017]  Kill: 1 0 3: Chew Tobacco killed Jensaarai by MOD_SABER
+[Thu Feb 02 04:00:25 2017]  Item: 0 weapon_flechette
+[Thu Feb 02 04:00:27 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 04:00:32 2017]  Item: 1 item_force_enlighten_dark
+[Thu Feb 02 04:01:29 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 04:01:35 2017]  Kill: 0 1 14: Jensaarai killed Chew Tobacco by MOD_REPEATER_ALT_SPLASH
+[Thu Feb 02 04:01:47 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:01:48 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:01:49 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:01:50 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:01:59 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:02:15 2017]  Kill: 1 0 41: Chew Tobacco killed Jensaarai by MOD_TRIGGER_HURT
+[Thu Feb 02 04:02:38 2017]  Kill: 1022 1 41: <world> killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:02:39 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:02:39 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:02:41 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:02:42 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:02:49 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:02:55 2017]  Kill: 1 0 41: Chew Tobacco killed Jensaarai by MOD_TRIGGER_HURT
+[Thu Feb 02 04:03:07 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 04:03:18 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 04:03:21 2017]  Kill: 0 1 31: Jensaarai killed Chew Tobacco by MOD_FORCE_DARK
+[Thu Feb 02 04:03:31 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 04:03:55 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:03:55 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:03:57 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:03:58 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 04:03:58 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:04:29 2017]  Kill: 1022 0 41: <world> killed Jensaarai by MOD_TRIGGER_HURT
+[Thu Feb 02 04:04:34 2017]  Item: 0 weapon_blaster
+[Thu Feb 02 04:04:40 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 04:05:01 2017]  Kill: 0 1 31: Jensaarai killed Chew Tobacco by MOD_FORCE_DARK
+[Thu Feb 02 04:05:26 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 04:05:28 2017]  Kill: 0 1 31: Jensaarai killed Chew Tobacco by MOD_FORCE_DARK
+[Thu Feb 02 04:05:38 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 04:05:47 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:05:52 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 04:06:02 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 04:06:24 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:06:24 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:06:27 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 04:06:36 2017]  Kill: 1022 0 41: <world> killed Jensaarai by MOD_TRIGGER_HURT
+[Thu Feb 02 04:06:52 2017]  Item: 0 weapon_trip_mine
+[Thu Feb 02 04:07:09 2017]  Kill: 1 0 3: Chew Tobacco killed Jensaarai by MOD_SABER
+[Thu Feb 02 04:07:13 2017]  Item: 0 weapon_demp2
+[Thu Feb 02 04:07:18 2017]  Item: 0 ammo_rockets
+[Thu Feb 02 04:07:24 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:07:24 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:07:26 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:07:27 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:07:51 2017]  Kill: 0 1 41: Jensaarai killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:07:56 2017]  Item: 1 weapon_disruptor
+[Thu Feb 02 04:07:59 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:08:13 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 04:08:28 2017]  Kill: 1022 1 41: <world> killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:08:29 2017]  Item: 0 weapon_disruptor
+[Thu Feb 02 04:08:36 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:09:28 2017]  Item: 1 weapon_disruptor
+[Thu Feb 02 04:09:35 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 04:10:25 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 04:10:35 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 04:10:57 2017]  Kill: 1 0 3: Chew Tobacco killed Jensaarai by MOD_SABER
+[Thu Feb 02 04:11:10 2017]  Item: 0 weapon_disruptor
+[Thu Feb 02 04:11:20 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:12:48 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 04:13:00 2017]  Item: 1 item_force_enlighten_dark
+[Thu Feb 02 04:13:10 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 04:13:12 2017]  Item: 1 weapon_bowcaster
+[Thu Feb 02 04:13:16 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 04:13:20 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 04:13:21 2017]  Item: 1 ammo_tripmine
+[Thu Feb 02 04:13:32 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 04:13:35 2017]  Item: 1 weapon_demp2
+[Thu Feb 02 04:13:46 2017]  Kill: 1022 1 38: <world> killed Chew Tobacco by MOD_FALLING
+[Thu Feb 02 04:13:56 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:14:15 2017]  Item: 1 weapon_flechette
+[Thu Feb 02 04:14:23 2017]  Item: 0 weapon_bowcaster
+[Thu Feb 02 04:14:26 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:14:26 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:14:30 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:14:30 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:14:57 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 04:15:52 2017]  Item: 1 weapon_bowcaster
+[Thu Feb 02 04:15:54 2017]  Kill: 0 1 14: Jensaarai killed Chew Tobacco by MOD_REPEATER_ALT_SPLASH
+[Thu Feb 02 04:16:04 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:16:07 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:16:09 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:16:10 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:16:31 2017]  Kill: 1022 0 38: <world> killed Jensaarai by MOD_FALLING
+[Thu Feb 02 04:16:34 2017]  Item: 0 weapon_flechette
+[Thu Feb 02 04:16:53 2017]  Kill: 0 1 25: Jensaarai killed Chew Tobacco by MOD_TRIP_MINE_SPLASH
+[Thu Feb 02 04:16:57 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 04:16:58 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:17:27 2017]  Kill: 1 0 3: Chew Tobacco killed Jensaarai by MOD_SABER
+[Thu Feb 02 04:17:40 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 04:17:40 2017]  Item: 1 weapon_det_pack
+[Thu Feb 02 04:17:50 2017]  Item: 0 weapon_bowcaster
+[Thu Feb 02 04:17:54 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:17:54 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:18:00 2017]  Kill: 1022 0 41: <world> killed Jensaarai by MOD_TRIGGER_HURT
+[Thu Feb 02 04:18:08 2017]  Kill: 1022 1 38: <world> killed Chew Tobacco by MOD_FALLING
+[Thu Feb 02 04:18:13 2017]  Item: 0 item_shield_lrg_instant
+[Thu Feb 02 04:18:15 2017]  Item: 1 weapon_thermal
+[Thu Feb 02 04:18:17 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:18:17 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 04:18:19 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 04:18:19 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 04:18:24 2017]  Kill: 1 0 3: Chew Tobacco killed Jensaarai by MOD_SABER
+[Thu Feb 02 04:18:27 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 04:18:28 2017]  Item: 0 weapon_bowcaster
+[Thu Feb 02 04:18:32 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:18:33 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:18:35 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:18:36 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:18:49 2017]  Item: 1 weapon_disruptor
+[Thu Feb 02 04:18:56 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 04:19:06 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 04:19:33 2017]  Item: 1 weapon_bowcaster
+[Thu Feb 02 04:19:54 2017]  Kill: 1 0 3: Chew Tobacco killed Jensaarai by MOD_SABER
+[Thu Feb 02 04:20:01 2017]  Item: 0 weapon_blaster
+[Thu Feb 02 04:20:09 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 04:20:25 2017]  Kill: 0 1 14: Jensaarai killed Chew Tobacco by MOD_REPEATER_ALT_SPLASH
+[Thu Feb 02 04:20:28 2017]  Item: 0 item_force_enlighten_dark
+[Thu Feb 02 04:20:35 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:20:38 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:20:38 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:20:40 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:20:40 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:20:44 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 04:21:30 2017]  Kill: 0 1 3: Jensaarai killed Chew Tobacco by MOD_SABER
+[Thu Feb 02 04:21:42 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:21:43 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:21:45 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:21:45 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:21:56 2017]  Item: 0 weapon_rocket_launcher
+[Thu Feb 02 04:22:06 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 04:22:18 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 04:23:05 2017]  Kill: 0 1 31: Jensaarai killed Chew Tobacco by MOD_FORCE_DARK
+[Thu Feb 02 04:23:26 2017]  Kill: 1 0 41: Chew Tobacco killed Jensaarai by MOD_TRIGGER_HURT
+[Thu Feb 02 04:23:27 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 04:23:28 2017]  Item: 1 ammo_tripmine
+[Thu Feb 02 04:23:29 2017]  Item: 0 weapon_flechette
+[Thu Feb 02 04:23:43 2017]  Item: 0 weapon_rocket_launcher
+[Thu Feb 02 04:23:52 2017]  Kill: 0 1 41: Jensaarai killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:24:00 2017]  Kill: 1022 0 38: <world> killed Jensaarai by MOD_FALLING
+[Thu Feb 02 04:24:08 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:24:09 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 04:24:12 2017]  Kill: 1022 1 41: <world> killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:24:23 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:24:23 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:24:33 2017]  Kill: 1022 0 41: <world> killed Jensaarai by MOD_TRIGGER_HURT
+[Thu Feb 02 04:24:34 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 04:24:34 2017]  Item: 1 ammo_tripmine
+[Thu Feb 02 04:24:42 2017]  Item: 1 weapon_rocket_launcher
+[Thu Feb 02 04:24:54 2017]  Kill: 1022 1 41: <world> killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:24:58 2017]  Item: 0 weapon_rocket_launcher
+[Thu Feb 02 04:25:00 2017]  Item: 1 weapon_flechette
+[Thu Feb 02 04:25:11 2017]  Kill: 1022 1 41: <world> killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:25:19 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 04:25:20 2017]  Item: 1 weapon_thermal
+[Thu Feb 02 04:25:21 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:25:21 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 04:25:23 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 04:25:24 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 04:25:27 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 04:25:31 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:25:31 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:25:39 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:25:40 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:25:40 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 04:26:16 2017]  Kill: 1022 1 41: <world> killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:26:19 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:26:19 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:26:25 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:26:32 2017]  Item: 1 weapon_repeater
+[Thu Feb 02 04:26:34 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:26:35 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:26:47 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 04:26:50 2017]  Item: 0 ammo_rockets
+[Thu Feb 02 04:26:53 2017]  Item: 0 weapon_demp2
+[Thu Feb 02 04:26:59 2017]  Item: 1 weapon_blaster
+[Thu Feb 02 04:27:00 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:27:01 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:27:23 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:27:28 2017]  Item: 1 item_shield_sm_instant
+[Thu Feb 02 04:27:38 2017]  Kill: 1022 1 41: <world> killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:27:42 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:27:43 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:27:53 2017]  Item: 1 weapon_rocket_launcher
+[Thu Feb 02 04:28:05 2017]  Item: 1 weapon_flechette
+[Thu Feb 02 04:28:10 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 04:28:34 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:28:42 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 04:28:48 2017]  Kill: 0 1 19: Jensaarai killed Chew Tobacco by MOD_ROCKET
+[Thu Feb 02 04:29:01 2017]  Item: 1 weapon_rocket_launcher
+[Thu Feb 02 04:29:14 2017]  Kill: 0 1 41: Jensaarai killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:29:21 2017]  Item: 0 ammo_thermal
+[Thu Feb 02 04:29:21 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:29:25 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:29:26 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 04:29:29 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 04:29:29 2017]  Item: 1 ammo_tripmine
+[Thu Feb 02 04:29:36 2017]  Item: 1 weapon_bowcaster
+[Thu Feb 02 04:29:39 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:29:48 2017]  Item: 1 item_force_enlighten_dark
+[Thu Feb 02 04:29:59 2017]  Kill: 0 1 24: Jensaarai killed Chew Tobacco by MOD_THERMAL_SPLASH
+[Thu Feb 02 04:30:06 2017]  Item: 0 weapon_trip_mine
+[Thu Feb 02 04:30:07 2017]  Item: 1 weapon_disruptor
+[Thu Feb 02 04:30:08 2017]  Item: 0 ammo_rockets
+[Thu Feb 02 04:30:08 2017]  Item: 0 item_shield_sm_instant
+[Thu Feb 02 04:30:18 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 04:30:25 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:30:27 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:30:56 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:30:58 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 04:31:16 2017]  Kill: 0 1 20: Jensaarai killed Chew Tobacco by MOD_ROCKET_SPLASH
+[Thu Feb 02 04:31:46 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:31:47 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 04:31:49 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:31:54 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:32:22 2017]  Item: 1 weapon_bowcaster
+[Thu Feb 02 04:32:28 2017]  Kill: 0 1 41: Jensaarai killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:32:30 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:32:32 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:33:14 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 04:33:15 2017]  Kill: 0 1 14: Jensaarai killed Chew Tobacco by MOD_REPEATER_ALT_SPLASH
+[Thu Feb 02 04:33:18 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:33:19 2017]  Item: 1 weapon_flechette
+[Thu Feb 02 04:33:21 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:33:21 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:34:14 2017]  Kill: 0 1 41: Jensaarai killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:34:17 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:34:23 2017]  Item: 1 ammo_rockets
+[Thu Feb 02 04:34:29 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:34:32 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 04:34:33 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:34:50 2017]  Kill: 1 0 3: Chew Tobacco killed Jensaarai by MOD_SABER
+[Thu Feb 02 04:34:54 2017]  Item: 0 weapon_flechette
+[Thu Feb 02 04:34:57 2017]  Kill: 1022 1 38: <world> killed Chew Tobacco by MOD_FALLING
+[Thu Feb 02 04:35:01 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 04:35:14 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:35:18 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:35:19 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:35:26 2017]  Item: 1 ammo_blaster
+[Thu Feb 02 04:35:42 2017]  Item: 1 weapon_det_pack
+[Thu Feb 02 04:36:18 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:36:19 2017]  Kill: 1022 1 41: <world> killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:36:31 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:36:34 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:36:38 2017]  Kill: 0 1 41: Jensaarai killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:36:56 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:37:08 2017]  Item: 0 weapon_bowcaster
+[Thu Feb 02 04:37:14 2017]  Kill: 0 1 38: Jensaarai killed Chew Tobacco by MOD_FALLING
+[Thu Feb 02 04:37:18 2017]  Kill: 1022 0 41: <world> killed Jensaarai by MOD_TRIGGER_HURT
+[Thu Feb 02 04:37:31 2017]  Item: 0 weapon_demp2
+[Thu Feb 02 04:37:34 2017]  Item: 0 ammo_rockets
+[Thu Feb 02 04:37:40 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:37:49 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:37:50 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:38:28 2017]  Kill: 0 1 31: Jensaarai killed Chew Tobacco by MOD_FORCE_DARK
+[Thu Feb 02 04:38:33 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:38:35 2017]  Item: 0 weapon_bowcaster
+[Thu Feb 02 04:38:39 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:38:40 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:38:48 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:39:04 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:39:23 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:39:25 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:39:41 2017]  Kill: 1 0 41: Chew Tobacco killed Jensaarai by MOD_TRIGGER_HURT
+[Thu Feb 02 04:39:50 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:39:55 2017]  Item: 0 weapon_rocket_launcher
+[Thu Feb 02 04:40:10 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 04:40:15 2017]  Item: 1 item_medpak_instant
+[Thu Feb 02 04:40:22 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:40:28 2017]  Kill: 1022 1 41: <world> killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:40:39 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 04:40:44 2017]  Item: 1 weapon_bowcaster
+[Thu Feb 02 04:41:04 2017]  Kill: 0 1 41: Jensaarai killed Chew Tobacco by MOD_TRIGGER_HURT
+[Thu Feb 02 04:41:09 2017]  Item: 0 ammo_powercell
+[Thu Feb 02 04:41:10 2017]  Item: 0 ammo_blaster
+[Thu Feb 02 04:41:10 2017]  Item: 1 weapon_disruptor
+[Thu Feb 02 04:41:12 2017]  Item: 0 ammo_metallic_bolts
+[Thu Feb 02 04:41:12 2017]  Item: 0 ammo_tripmine
+[Thu Feb 02 04:41:19 2017]  Item: 1 item_shield_lrg_instant
+[Thu Feb 02 04:41:27 2017]  Kill: 1022 0 41: <world> killed Jensaarai by MOD_TRIGGER_HURT
+[Thu Feb 02 04:41:44 2017]  ClientDisconnect: 0
+[Thu Feb 02 04:41:46 2017]  ClientDisconnect: 1
+[Thu Feb 02 12:29:53 2017]  ClientConnect: 0
+[Thu Feb 02 12:29:53 2017]  mlog:Player Anonymous, connected. With IP - 94.253.18.149:29070 
+[Thu Feb 02 12:29:53 2017]  ClientConnect: 1
+[Thu Feb 02 12:29:53 2017]  mlog:Player ^0'^1L^0o^1A^0'^3 Plo Koon, connected. With IP - 109.194.12.226:29070 
+[Thu Feb 02 12:30:01 2017]  ClientBegin: 0
+[Thu Feb 02 12:30:05 2017]  ClientBegin: 1
+[Thu Feb 02 12:30:18 2017]  Item: 0 weapon_det_pack
+[Thu Feb 02 12:30:26 2017]  Item: 0 item_shield_sm_instant
+[Thu Feb 02 12:30:58 2017]  Item: 0 item_medpak_instant
+[Thu Feb 02 12:31:08 2017]  Kill: 1022 0 41: <world> killed Anonymous by MOD_TRIGGER_HURT
+[Thu Feb 02 12:31:30 2017]  Item: 0 weapon_repeater
+[Thu Feb 02 12:31:41 2017]  Kill: 1022 0 38: <world> killed Anonymous by MOD_FALLING
+[Thu Feb 02 12:31:53 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 12:32:34 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 12:33:13 2017]  Item: 1 ammo_powercell
+[Thu Feb 02 12:33:48 2017]  ClientDisconnect: 0
+[Thu Feb 02 12:34:01 2017]  Item: 1 ammo_tripmine
+[Thu Feb 02 12:34:02 2017]  Item: 1 ammo_metallic_bolts
+[Thu Feb 02 12:34:05 2017]  ClientDisconnect: 1

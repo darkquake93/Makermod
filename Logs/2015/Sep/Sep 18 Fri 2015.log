@@ -1,0 +1,47 @@
+[Fri Sep 18 14:37:04 2015]  ------------------------------------------------------------
+[Fri Sep 18 14:37:04 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Sep 18 14:37:05 2015]  ClientConnect: 0
+[Fri Sep 18 14:37:14 2015]  ClientBegin: 0
+[Fri Sep 18 14:37:39 2015]  Kill: 1022 0 39: <world> killed Shadow by MOD_SUICIDE
+[Fri Sep 18 14:38:06 2015]  ClientDisconnect: 0
+[Fri Sep 18 16:37:04 2015]  Exit: Timelimit hit.
+[Fri Sep 18 19:09:08 2015]  ClientConnect: 0
+[Fri Sep 18 19:09:08 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Fri Sep 18 19:09:20 2015]  ClientBegin: 0
+[Fri Sep 18 19:09:36 2015]  ShutdownGame:
+[Fri Sep 18 19:09:36 2015]  ------------------------------------------------------------
+[Fri Sep 18 19:09:37 2015]  ------------------------------------------------------------
+[Fri Sep 18 19:09:37 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Sep 18 19:09:38 2015]  ClientConnect: 0
+[Fri Sep 18 19:09:47 2015]  ClientBegin: 0
+[Fri Sep 18 19:09:53 2015]  Item: 0 weapon_melee
+[Fri Sep 18 19:14:13 2015]  ClientDisconnect: 0
+[Fri Sep 18 21:09:36 2015]  Exit: Timelimit hit.
+[Fri Sep 18 21:47:11 2015]  ClientConnect: 0
+[Fri Sep 18 21:47:11 2015]  mlog:Player CooLBeaR, connected. With IP - 94.181.246.189:29070 
+[Fri Sep 18 21:47:14 2015]  ClientConnect: 1
+[Fri Sep 18 21:47:14 2015]  mlog:Player Iluxa, connected. With IP - 178.141.48.202:29070 
+[Fri Sep 18 21:47:30 2015]  ClientBegin: 1
+[Fri Sep 18 21:47:35 2015]  ClientBegin: 0
+[Fri Sep 18 21:47:56 2015]  ShutdownGame:
+[Fri Sep 18 21:47:56 2015]  ------------------------------------------------------------
+[Fri Sep 18 21:47:57 2015]  ------------------------------------------------------------
+[Fri Sep 18 21:47:57 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Sep 18 21:47:57 2015]  ClientConnect: 0
+[Fri Sep 18 21:47:57 2015]  ClientConnect: 1
+[Fri Sep 18 21:48:05 2015]  ClientBegin: 1
+[Fri Sep 18 21:48:09 2015]  ClientBegin: 0
+[Fri Sep 18 21:51:23 2015]  Kill: 1022 1 39: <world> killed Iluxa by MOD_SUICIDE
+[Fri Sep 18 21:55:04 2015]  Kill: 1 0 3: Iluxa killed CooLBeaR by MOD_SABER
+[Fri Sep 18 21:56:07 2015]  Kill: 1022 1 2: <world> killed Iluxa by MOD_MELEE
+[Fri Sep 18 21:58:58 2015]  Kill: 1022 1 38: <world> killed Iluxa by MOD_FALLING
+[Fri Sep 18 21:59:59 2015]  Kill: 1022 0 38: <world> killed CooLBeaR by MOD_FALLING
+[Fri Sep 18 22:01:03 2015]  ClientDisconnect: 0
+[Fri Sep 18 22:01:08 2015]  ClientDisconnect: 1
+[Fri Sep 18 23:47:56 2015]  Exit: Timelimit hit.
+[Sat Sep 19 12:51:31 2015]  ClientConnect: 0
+[Sat Sep 19 12:51:31 2015]  mlog:Player ^1a^2^0S^1i^0D, connected. With IP - 46.39.34.153:30001 
+[Sat Sep 19 12:51:50 2015]  ClientBegin: 0
+[Sat Sep 19 12:51:51 2015]  say: ^1a^2^0S^1i^0D: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 19 12:51:52 2015]  ShutdownGame:
+[Sat Sep 19 12:51:52 2015]  ------------------------------------------------------------

@@ -1,0 +1,99 @@
+[Fri Jan 31 12:38:30 2014]  ------------------------------------------------------------
+[Fri Jan 31 12:38:30 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Jan 31 12:38:32 2014]  ClientConnect: 0
+[Fri Jan 31 12:38:46 2014]  ClientBegin: 0
+[Fri Jan 31 12:41:06 2014]  ClientDisconnect: 0
+[Fri Jan 31 12:41:07 2014]  ClientDisconnect: 0
+[Fri Jan 31 12:41:07 2014]  ClientConnect: 0
+[Fri Jan 31 12:41:07 2014]  mlog:Player ^1U^0nDea^7D, connected. With IP - 88.132.148.168:29070 
+[Fri Jan 31 12:41:16 2014]  ClientBegin: 0
+[Fri Jan 31 12:51:32 2014]  ClientDisconnect: 0
+[Fri Jan 31 14:09:11 2014]  ClientConnect: 0
+[Fri Jan 31 14:09:11 2014]  mlog:Player Padawan, connected. With IP - 89.179.1.201:29070 
+[Fri Jan 31 14:09:48 2014]  ClientBegin: 0
+[Fri Jan 31 14:13:51 2014]  ClientDisconnect: 0
+[Fri Jan 31 14:38:29 2014]  Exit: Timelimit hit.
+[Fri Jan 31 15:31:31 2014]  ClientConnect: 0
+[Fri Jan 31 15:31:31 2014]  mlog:Player Luminator, connected. With IP - 71.96.206.152:29070 
+[Fri Jan 31 15:31:57 2014]  ClientBegin: 0
+[Fri Jan 31 15:32:02 2014]  ShutdownGame:
+[Fri Jan 31 15:32:02 2014]  ------------------------------------------------------------
+[Fri Jan 31 15:32:03 2014]  ------------------------------------------------------------
+[Fri Jan 31 15:32:03 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Jan 31 15:32:04 2014]  ClientConnect: 0
+[Fri Jan 31 15:32:13 2014]  ClientBegin: 0
+[Fri Jan 31 15:33:49 2014]  say: Luminator: npc spawn Kyle
+[Fri Jan 31 15:36:34 2014]  Kill: 1022 0 3: <world> killed Luminator by MOD_SABER
+[Fri Jan 31 15:38:37 2014]  Kill: 1022 0 3: <world> killed Luminator by MOD_SABER
+[Fri Jan 31 15:40:40 2014]  Kill: 1022 0 2: <world> killed Luminator by MOD_MELEE
+[Fri Jan 31 15:41:07 2014]  Kill: 1022 0 3: <world> killed Luminator by MOD_SABER
+[Fri Jan 31 15:41:30 2014]  Kill: 1022 0 2: <world> killed Luminator by MOD_MELEE
+[Fri Jan 31 15:42:40 2014]  Kill: 1022 0 3: <world> killed Luminator by MOD_SABER
+[Fri Jan 31 15:45:05 2014]  Kill: 1022 0 2: <world> killed Luminator by MOD_MELEE
+[Fri Jan 31 15:56:30 2014]  ClientDisconnect: 0
+[Fri Jan 31 17:32:02 2014]  Exit: Timelimit hit.
+[Fri Jan 31 17:44:34 2014]  ClientConnect: 0
+[Fri Jan 31 17:44:34 2014]  mlog:Player ICE, connected. With IP - 93.79.154.81:29070 
+[Fri Jan 31 17:45:50 2014]  ClientBegin: 0
+[Fri Jan 31 17:46:18 2014]  ShutdownGame:
+[Fri Jan 31 17:46:18 2014]  ------------------------------------------------------------
+[Fri Jan 31 17:46:19 2014]  ------------------------------------------------------------
+[Fri Jan 31 17:46:19 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Jan 31 17:46:20 2014]  ClientConnect: 0
+[Fri Jan 31 17:46:48 2014]  ClientBegin: 0
+[Fri Jan 31 17:51:46 2014]  Item: 0 weapon_melee
+[Fri Jan 31 17:52:57 2014]  Kill: 0 0 39: ICE killed ICE by MOD_SUICIDE
+[Fri Jan 31 17:55:29 2014]  Item: 0 weapon_blaster
+[Fri Jan 31 17:57:37 2014]  Item: 0 weapon_concussion_rifle
+[Fri Jan 31 17:59:08 2014]  Item: 0 weapon_melee
+[Fri Jan 31 17:59:58 2014]  Item: 0 weapon_concussion_rifle
+[Fri Jan 31 18:01:12 2014]  Item: 0 weapon_concussion_rifle
+[Fri Jan 31 18:04:06 2014]  Item: 0 weapon_blaster
+[Fri Jan 31 18:04:06 2014]  Item: 0 weapon_blaster
+[Fri Jan 31 18:04:07 2014]  Item: 0 weapon_blaster
+[Fri Jan 31 18:05:12 2014]  ClientDisconnect: 0
+[Fri Jan 31 18:56:12 2014]  ClientConnect: 0
+[Fri Jan 31 18:56:12 2014]  mlog:Player Padawan, connected. With IP - 88.132.148.168:29070 
+[Fri Jan 31 18:56:55 2014]  ClientBegin: 0
+[Fri Jan 31 18:56:56 2014]  say: ^0^1A^0colyt^7E: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Fri Jan 31 19:36:21 2014]  print "^0^1A^0colyt^7E^7 @@@PLRENAME ^1U^0nDea^7D
+"[Fri Jan 31 19:36:36 2014]  Kill: 1022 0 38: <world> killed ^1U^0nDea^7D by MOD_FALLING
+[Fri Jan 31 19:46:18 2014]  ClientDisconnect: 0
+[Fri Jan 31 19:46:18 2014]  Exit: Timelimit hit.
+[Fri Jan 31 22:25:51 2014]  ClientConnect: 0
+[Fri Jan 31 22:25:51 2014]  mlog:Player ^1U^0nDea^7D, connected. With IP - 88.132.148.168:29070 
+[Fri Jan 31 22:26:16 2014]  ClientBegin: 0
+[Fri Jan 31 22:26:16 2014]  say: ^1U^0nDea^7D: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Fri Jan 31 22:26:18 2014]  ShutdownGame:
+[Fri Jan 31 22:26:18 2014]  ------------------------------------------------------------
+[Fri Jan 31 22:26:18 2014]  ------------------------------------------------------------
+[Fri Jan 31 22:26:18 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Jan 31 22:26:19 2014]  ClientConnect: 0
+[Fri Jan 31 22:26:37 2014]  ClientBegin: 0
+[Fri Jan 31 22:26:37 2014]  say: ^1U^0nDea^7D: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Fri Jan 31 22:26:41 2014]  ClientDisconnect: 0
+[Fri Jan 31 22:26:41 2014]  ClientDisconnect: 0
+[Fri Jan 31 22:26:41 2014]  ClientConnect: 0
+[Fri Jan 31 22:26:41 2014]  mlog:Player ^1U^0nDea^7D, connected. With IP - 88.132.148.168:29070 
+[Fri Jan 31 22:26:50 2014]  ClientBegin: 0
+[Fri Jan 31 22:26:51 2014]  say: ^1U^0nDea^7D: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Fri Jan 31 23:02:36 2014]  ClientConnect: 1
+[Fri Jan 31 23:02:36 2014]  mlog:Player Padawan, connected. With IP - 93.139.196.22:-10482 
+[Fri Jan 31 23:02:54 2014]  ClientBegin: 1
+[Fri Jan 31 23:04:09 2014]  say: Padawan: shall we play?
+[Fri Jan 31 23:04:24 2014]  say: ^1U^0nDea^7D: im working now
+[Fri Jan 31 23:04:44 2014]  say: Padawan: what are you doing I mean what are you working on?
+[Fri Jan 31 23:04:58 2014]  say: ^1U^0nDea^7D: making a bomb
+[Fri Jan 31 23:05:06 2014]  say: Padawan: cool dude
+[Fri Jan 31 23:05:08 2014]  ClientDisconnect: 1
+[Fri Jan 31 23:13:04 2014]  Kill: 1022 0 0: <world> killed ^1U^0nDea^7D by MOD_UNKNOWN
+[Fri Jan 31 23:13:12 2014]  ClientDisconnect: 0
+[Sat Feb 01 00:26:17 2014]  Exit: Timelimit hit.
+[Sat Feb 01 06:55:29 2014]  ClientConnect: 0
+[Sat Feb 01 06:55:29 2014]  mlog:Player DARKSOUL, connected. With IP - 83.149.48.108:4521 
+[Sat Feb 01 06:58:50 2014]  ClientDisconnect: 0
+[Sat Feb 01 08:44:10 2014]  ClientConnect: 0
+[Sat Feb 01 08:44:10 2014]  mlog:Player Padawan, connected. With IP - 77.51.71.79:29070 
+[Sat Feb 01 08:44:43 2014]  ClientBegin: 0
+[Sat Feb 01 08:44:46 2014]  ShutdownGame:
+[Sat Feb 01 08:44:46 2014]  ------------------------------------------------------------

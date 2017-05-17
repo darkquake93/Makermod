@@ -1,0 +1,142 @@
+[Sun Jan 26 05:39:16 2014]  ------------------------------------------------------------
+[Sun Jan 26 05:39:16 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jan 26 05:39:17 2014]  ClientConnect: 0
+[Sun Jan 26 05:39:29 2014]  ClientBegin: 0
+[Sun Jan 26 05:53:11 2014]  ClientDisconnect: 0
+[Sun Jan 26 07:39:15 2014]  Exit: Timelimit hit.
+[Sun Jan 26 14:30:30 2014]  ClientConnect: 0
+[Sun Jan 26 14:30:30 2014]  mlog:Player ^0Darth ^1Javimetal, connected. With IP - 85.219.4.121:29070 
+[Sun Jan 26 14:30:54 2014]  ClientBegin: 0
+[Sun Jan 26 14:30:59 2014]  ShutdownGame:
+[Sun Jan 26 14:30:59 2014]  ------------------------------------------------------------
+[Sun Jan 26 14:30:59 2014]  ------------------------------------------------------------
+[Sun Jan 26 14:30:59 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jan 26 14:31:01 2014]  ClientConnect: 0
+[Sun Jan 26 14:31:14 2014]  ClientBegin: 0
+[Sun Jan 26 14:46:25 2014]  ClientDisconnect: 0
+[Sun Jan 26 16:21:17 2014]  ClientConnect: 0
+[Sun Jan 26 16:21:17 2014]  mlog:Player Padawan, connected. With IP - 190.101.105.250:29222 
+[Sun Jan 26 16:21:49 2014]  ClientBegin: 0
+[Sun Jan 26 16:22:43 2014]  say: Padawan: mlist
+[Sun Jan 26 16:23:10 2014]  say: Padawan: mlist factory
+[Sun Jan 26 16:28:14 2014]  say: Padawan: mkillall
+[Sun Jan 26 16:30:58 2014]  Exit: Timelimit hit.
+[Sun Jan 26 16:30:58 2014]  score: 0  ping: 257  client: 0 Padawan
+[Sun Jan 26 16:31:21 2014]  ShutdownGame:
+[Sun Jan 26 16:31:21 2014]  ------------------------------------------------------------
+[Sun Jan 26 16:31:21 2014]  ------------------------------------------------------------
+[Sun Jan 26 16:31:21 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jan 26 16:31:22 2014]  ClientConnect: 0
+[Sun Jan 26 16:31:38 2014]  ClientBegin: 0
+[Sun Jan 26 16:32:37 2014]  ClientDisconnect: 0
+[Sun Jan 26 16:32:37 2014]  ClientDisconnect: 0
+[Sun Jan 26 16:32:37 2014]  ClientConnect: 0
+[Sun Jan 26 16:32:37 2014]  mlog:Player Padawan, connected. With IP - 190.101.105.250:29222 
+[Sun Jan 26 16:32:47 2014]  ClientBegin: 0
+[Sun Jan 26 16:35:21 2014]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Jan 26 16:41:12 2014]  say: Padawan: mdest
+[Sun Jan 26 16:41:51 2014]  say: Padawan: mdest
+[Sun Jan 26 16:46:03 2014]  ClientConnect: 1
+[Sun Jan 26 16:46:03 2014]  mlog:Player ^0Darth ^1Javimetal, connected. With IP - 85.219.4.121:29070 
+[Sun Jan 26 16:46:12 2014]  ClientBegin: 1
+[Sun Jan 26 16:46:17 2014]  say: ^0Darth ^1Javimetal: hola hi
+[Sun Jan 26 16:46:21 2014]  say: Padawan: hola
+[Sun Jan 26 16:46:34 2014]  say: ^0Darth ^1Javimetal: que tal?
+[Sun Jan 26 16:46:38 2014]  say: Padawan: bien
+[Sun Jan 26 16:46:40 2014]  say: Padawan: aqui
+[Sun Jan 26 16:46:45 2014]  say: ^0Darth ^1Javimetal: joder cuanto ping
+[Sun Jan 26 16:50:22 2014]  say: ^0Darth ^1Javimetal: tu tamb construyendo casa? ajajaja
+[Sun Jan 26 16:50:31 2014]  say: Padawan: si
+[Sun Jan 26 16:50:47 2014]  say: ^0Darth ^1Javimetal: de donde eres?
+[Sun Jan 26 16:50:50 2014]  say: Padawan: chile
+[Sun Jan 26 16:50:56 2014]  say: ^0Darth ^1Javimetal: de ahi tu ping
+[Sun Jan 26 16:51:12 2014]  say: ^0Darth ^1Javimetal: no hay makermods alli? servers maker; digo
+[Sun Jan 26 16:51:41 2014]  say: Padawan: no
+[Sun Jan 26 16:54:27 2014]  say: Padawan: mkill
+[Sun Jan 26 16:54:34 2014]  say: ^0Darth ^1Javimetal: XD
+[Sun Jan 26 17:12:51 2014]  say: ^0Darth ^1Javimetal: tu sabes hacer ataques chulos?
+[Sun Jan 26 17:13:36 2014]  say: Padawan: si
+[Sun Jan 26 17:13:46 2014]  say: Padawan: afk por 1 seg
+[Sun Jan 26 17:13:50 2014]  say: ^0Darth ^1Javimetal: okey :D
+[Sun Jan 26 17:13:54 2014]  say: Padawan: sale de mi casa
+[Sun Jan 26 17:14:01 2014]  say: Padawan: C:
+[Sun Jan 26 17:14:08 2014]  say: ^0Darth ^1Javimetal: ya estoy fuera jajja
+[Sun Jan 26 17:38:46 2014]  say: ^0Darth ^1Javimetal: hola vecino
+[Sun Jan 26 17:38:50 2014]  say: ^0Darth ^1Javimetal: XD
+[Sun Jan 26 17:38:59 2014]  say: Padawan: entra
+[Sun Jan 26 17:39:05 2014]  say: Padawan: mira
+[Sun Jan 26 17:39:10 2014]  say: ^0Darth ^1Javimetal: wow
+[Sun Jan 26 17:39:11 2014]  say: Padawan: todas las ventanas
+[Sun Jan 26 17:39:18 2014]  say: ^0Darth ^1Javimetal: joder
+[Sun Jan 26 17:39:31 2014]  say: ^0Darth ^1Javimetal: eres bueno
+[Sun Jan 26 17:39:36 2014]  say: Padawan: nah
+[Sun Jan 26 17:39:37 2014]  say: ^0Darth ^1Javimetal: yo uso mtlist
+[Sun Jan 26 17:39:40 2014]  say: ^0Darth ^1Javimetal: mlist
+[Sun Jan 26 17:39:42 2014]  say: ^0Darth ^1Javimetal: xD
+[Sun Jan 26 17:39:43 2014]  say: Padawan: yo igual
+[Sun Jan 26 17:39:56 2014]  say: ^0Darth ^1Javimetal: y estoy buscando la mesa, la cama y 4 cosas mas
+[Sun Jan 26 17:40:23 2014]  say: ^0Darth ^1Javimetal: como lo haces para girar las cosas?
+[Sun Jan 26 17:40:29 2014]  say: Padawan: mrotate
+[Sun Jan 26 17:40:30 2014]  say: ^0Darth ^1Javimetal: la cama la has girado y parece un sofa
+[Sun Jan 26 17:40:34 2014]  say: ^0Darth ^1Javimetal: a joder
+[Sun Jan 26 17:49:07 2014]  Kill: 0 0 36: Padawan killed Padawan by MOD_CRUSH
+[Sun Jan 26 17:49:37 2014]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Jan 26 17:49:47 2014]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Jan 26 17:51:14 2014]  say: Padawan: oh
+[Sun Jan 26 17:51:35 2014]  say: ^0Darth ^1Javimetal: xD como me lo quito? xD
+[Sun Jan 26 17:51:46 2014]  say: Padawan: pone /+button12
+[Sun Jan 26 17:51:59 2014]  say: Padawan: listo?
+[Sun Jan 26 17:51:59 2014]  say: ^0Darth ^1Javimetal: ah gracias
+[Sun Jan 26 17:52:05 2014]  say: ^0Darth ^1Javimetal: no  xD
+[Sun Jan 26 17:52:08 2014]  say: Padawan: s
+[Sun Jan 26 17:52:12 2014]  say: Padawan: mdrop
+[Sun Jan 26 17:52:21 2014]  say: ^0Darth ^1Javimetal: ah joder
+[Sun Jan 26 17:52:24 2014]  say: Padawan: hmmmmmmmm
+[Sun Jan 26 17:52:28 2014]  say: Padawan: mkill
+[Sun Jan 26 17:52:30 2014]  say: ^0Darth ^1Javimetal: yo se que se pueen lanzar poderes
+[Sun Jan 26 17:52:31 2014]  say: ^0Darth ^1Javimetal: xD
+[Sun Jan 26 17:52:40 2014]  say: Padawan: queria hacer para que se pueda pushear
+[Sun Jan 26 17:52:45 2014]  say: Padawan: mira en
+[Sun Jan 26 17:52:47 2014]  say: Padawan: ven
+[Sun Jan 26 17:53:21 2014]  say: Padawan: apretalo
+[Sun Jan 26 17:53:34 2014]  say: ^0Darth ^1Javimetal: mola
+[Sun Jan 26 17:53:35 2014]  say: Padawan: lel
+[Sun Jan 26 17:53:42 2014]  say: Padawan: es una trampa
+[Sun Jan 26 17:53:50 2014]  say: Padawan: te mata de una
+[Sun Jan 26 17:53:56 2014]  say: Padawan: pero tienes god
+[Sun Jan 26 17:54:01 2014]  say: ^0Darth ^1Javimetal: xD voy a quitarmelo
+[Sun Jan 26 17:54:09 2014]  Kill: 0 1 36: Padawan killed ^0Darth ^1Javimetal by MOD_CRUSH
+[Sun Jan 26 17:54:13 2014]  say: ^0Darth ^1Javimetal: hmmm mola
+[Sun Jan 26 17:54:36 2014]  say: Padawan: pongo mas?
+[Sun Jan 26 17:54:46 2014]  say: ^0Darth ^1Javimetal: yo quiero aprender a lanzar poderes jajaja
+[Sun Jan 26 17:54:58 2014]  say: Padawan: pera
+[Sun Jan 26 17:55:09 2014]  say: ^0Darth ^1Javimetal: he visto a gente lanzar bolas de fuego
+[Sun Jan 26 17:55:15 2014]  say: ^0Darth ^1Javimetal: y la verdad es que mola
+[Sun Jan 26 17:56:11 2014]  say: Padawan: se me olvido
+[Sun Jan 26 17:56:52 2014]  say: Padawan: ahy se
+[Sun Jan 26 17:56:55 2014]  say: Padawan: ahy si
+[Sun Jan 26 17:56:58 2014]  say: Padawan: mira ben
+[Sun Jan 26 17:57:00 2014]  say: Padawan: ven
+[Sun Jan 26 17:57:41 2014]  say: ^0Darth ^1Javimetal: HOLA
+[Sun Jan 26 17:57:44 2014]  say: ^0Darth ^1Javimetal: lol mayus
+[Sun Jan 26 17:57:45 2014]  say: ^0Darth ^1Javimetal: xD
+[Sun Jan 26 17:58:29 2014]  say: Padawan: vs
+[Sun Jan 26 17:58:33 2014]  say: Padawan: ves
+[Sun Jan 26 17:59:33 2014]  say: Padawan: vse
+[Sun Jan 26 17:59:35 2014]  say: Padawan: ves
+[Sun Jan 26 17:59:37 2014]  say: Padawan: mira
+[Sun Jan 26 17:59:55 2014]  say: Padawan: pero a la segunda desaparece
+[Sun Jan 26 18:00:05 2014]  say: ^0Darth ^1Javimetal: jope
+[Sun Jan 26 18:01:25 2014]  say: ^0Darth ^1Javimetal: ya vengo
+[Sun Jan 26 18:01:27 2014]  ClientDisconnect: 1
+[Sun Jan 26 18:01:44 2014]  say: Padawan: NCO
+[Sun Jan 26 18:02:56 2014]  Kill: 0 0 36: Padawan killed Padawan by MOD_CRUSH
+[Sun Jan 26 18:15:19 2014]  Item: 0 weapon_disruptor
+[Sun Jan 26 18:15:39 2014]  say: Padawan: adios
+[Sun Jan 26 18:15:57 2014]  ClientDisconnect: 0
+[Sun Jan 26 18:31:21 2014]  Exit: Timelimit hit.
+[Mon Jan 27 19:39:34 2014]  ClientConnect: 0
+[Mon Jan 27 19:39:34 2014]  mlog:Player Padawan, connected. With IP - 176.14.241.35:29070 
+[Mon Jan 27 19:40:09 2014]  ClientBegin: 0
+[Mon Jan 27 19:40:13 2014]  ShutdownGame:
+[Mon Jan 27 19:40:13 2014]  ------------------------------------------------------------

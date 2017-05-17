@@ -1,0 +1,492 @@
+[Mon Jan 13 02:17:02 2014]  ------------------------------------------------------------
+[Mon Jan 13 02:17:02 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Jan 13 02:17:03 2014]  ClientConnect: 0
+[Mon Jan 13 02:17:03 2014]  ClientConnect: 1
+[Mon Jan 13 02:17:20 2014]  ClientDisconnect: 1
+[Mon Jan 13 02:17:46 2014]  ClientConnect: 1
+[Mon Jan 13 02:17:46 2014]  mlog:Player ^1T^2e^3r^4i^5n, connected. With IP - 174.107.83.102:29070 
+[Mon Jan 13 02:18:03 2014]  ClientBegin: 1
+[Mon Jan 13 02:19:26 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Mon Jan 13 02:19:26 2014]  setteam:  1 FREE SPECTATOR
+[Mon Jan 13 02:19:26 2014]  ClientBegin: 1
+[Mon Jan 13 02:19:37 2014]  ClientDisconnect: 0
+[Mon Jan 13 02:19:38 2014]  setteam:  1 SPECTATOR FREE
+[Mon Jan 13 02:19:38 2014]  ClientBegin: 1
+[Mon Jan 13 02:20:01 2014]  ClientConnect: 0
+[Mon Jan 13 02:20:01 2014]  mlog:Player Matthew, connected. With IP - 174.126.79.124:29070 
+[Mon Jan 13 02:20:31 2014]  ClientBegin: 0
+[Mon Jan 13 02:20:53 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Mon Jan 13 02:21:09 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Mon Jan 13 02:24:38 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Mon Jan 13 02:24:38 2014]  setteam:  0 FREE SPECTATOR
+[Mon Jan 13 02:24:38 2014]  ClientBegin: 0
+[Mon Jan 13 02:24:39 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Mon Jan 13 02:24:39 2014]  setteam:  1 FREE SPECTATOR
+[Mon Jan 13 02:24:39 2014]  ClientBegin: 1
+[Mon Jan 13 02:26:25 2014]  setteam:  0 SPECTATOR FREE
+[Mon Jan 13 02:26:25 2014]  ClientBegin: 0
+[Mon Jan 13 02:28:30 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Mon Jan 13 02:28:30 2014]  setteam:  0 FREE SPECTATOR
+[Mon Jan 13 02:28:30 2014]  ClientBegin: 0
+[Mon Jan 13 02:28:38 2014]  setteam:  0 SPECTATOR FREE
+[Mon Jan 13 02:28:38 2014]  ClientBegin: 0
+[Mon Jan 13 02:28:44 2014]  setteam:  1 SPECTATOR FREE
+[Mon Jan 13 02:28:44 2014]  ClientBegin: 1
+[Mon Jan 13 02:29:40 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Mon Jan 13 02:29:51 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Mon Jan 13 02:30:52 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Mon Jan 13 02:32:10 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Mon Jan 13 02:32:10 2014]  setteam:  1 FREE SPECTATOR
+[Mon Jan 13 02:32:10 2014]  ClientBegin: 1
+[Mon Jan 13 02:32:16 2014]  setteam:  1 SPECTATOR FREE
+[Mon Jan 13 02:32:16 2014]  ClientBegin: 1
+[Mon Jan 13 02:32:20 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Mon Jan 13 02:32:45 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Mon Jan 13 02:34:24 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Mon Jan 13 02:34:24 2014]  setteam:  0 FREE SPECTATOR
+[Mon Jan 13 02:34:24 2014]  ClientBegin: 0
+[Mon Jan 13 02:34:32 2014]  setteam:  0 SPECTATOR FREE
+[Mon Jan 13 02:34:32 2014]  ClientBegin: 0
+[Mon Jan 13 02:37:14 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Mon Jan 13 02:37:26 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Mon Jan 13 02:37:26 2014]  setteam:  1 FREE SPECTATOR
+[Mon Jan 13 02:37:26 2014]  ClientBegin: 1
+[Mon Jan 13 02:38:23 2014]  setteam:  1 SPECTATOR FREE
+[Mon Jan 13 02:38:23 2014]  ClientBegin: 1
+[Mon Jan 13 02:39:40 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Mon Jan 13 02:42:31 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Mon Jan 13 02:42:31 2014]  setteam:  1 FREE SPECTATOR
+[Mon Jan 13 02:42:31 2014]  ClientBegin: 1
+[Mon Jan 13 02:42:44 2014]  setteam:  1 SPECTATOR FREE
+[Mon Jan 13 02:42:44 2014]  ClientBegin: 1
+[Mon Jan 13 02:43:43 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Mon Jan 13 02:44:15 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Mon Jan 13 02:44:15 2014]  setteam:  1 FREE SPECTATOR
+[Mon Jan 13 02:44:15 2014]  ClientBegin: 1
+[Mon Jan 13 02:44:25 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Mon Jan 13 02:44:25 2014]  setteam:  0 FREE SPECTATOR
+[Mon Jan 13 02:44:25 2014]  ClientBegin: 0
+[Mon Jan 13 02:44:27 2014]  setteam:  1 SPECTATOR FREE
+[Mon Jan 13 02:44:27 2014]  ClientBegin: 1
+[Mon Jan 13 02:44:34 2014]  setteam:  0 SPECTATOR FREE
+[Mon Jan 13 02:44:34 2014]  ClientBegin: 0
+[Mon Jan 13 02:44:55 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Mon Jan 13 02:46:14 2014]  ClientConnect: 2
+[Mon Jan 13 02:46:14 2014]  mlog:Player ^1DEAD^8POOL, connected. With IP - 98.14.211.229:-28848 
+[Mon Jan 13 02:46:40 2014]  ClientBegin: 2
+[Mon Jan 13 02:46:49 2014]  Kill: 1 2 3: ^1T^2e^3r^4i^5n killed Politically Correct Bob by MOD_SABER
+[Mon Jan 13 02:47:01 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Mon Jan 13 02:47:28 2014]  say: ^1T^2e^3r^4i^5n: Nice admin hacks you cunt
+[Mon Jan 13 02:47:32 2014]  say: ^1T^2e^3r^4i^5n: c:
+[Mon Jan 13 02:47:35 2014]  say: Politically Correct Bob: im not admin
+[Mon Jan 13 02:47:39 2014]  say: Politically Correct Bob: this is a makermod
+[Mon Jan 13 02:47:42 2014]  say: ^1T^2e^3r^4i^5n: U wot
+[Mon Jan 13 02:47:46 2014]  say: Politically Correct Bob: /noclip
+[Mon Jan 13 02:47:50 2014]  say: Politically Correct Bob: in menu
+[Mon Jan 13 02:47:54 2014]  say: ^1T^2e^3r^4i^5n: /noclip
+[Mon Jan 13 02:47:58 2014]  say: Politically Correct Bob: /mempower for full force
+[Mon Jan 13 02:48:11 2014]  say: Politically Correct Bob: you new?
+[Mon Jan 13 02:48:16 2014]  say: ^1T^2e^3r^4i^5n: To this server yes
+[Mon Jan 13 02:48:19 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Mon Jan 13 02:48:19 2014]  setteam:  0 FREE SPECTATOR
+[Mon Jan 13 02:48:19 2014]  ClientBegin: 0
+[Mon Jan 13 02:48:25 2014]  say: Politically Correct Bob: o you know the cmd menu?
+[Mon Jan 13 02:48:25 2014]  setteam:  0 SPECTATOR FREE
+[Mon Jan 13 02:48:25 2014]  ClientBegin: 0
+[Mon Jan 13 02:48:33 2014]  say: ^1T^2e^3r^4i^5n: NOpe
+[Mon Jan 13 02:48:41 2014]  say: Politically Correct Bob: 1 sec
+[Mon Jan 13 02:48:47 2014]  say: ^1T^2e^3r^4i^5n: I just do normal duels and RPs with my friend matt
+[Mon Jan 13 02:48:58 2014]  say: Politically Correct Bob: RP is gay
+[Mon Jan 13 02:49:06 2014]  say: ^1T^2e^3r^4i^5n: Meh, personal opinion
+[Mon Jan 13 02:49:12 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Mon Jan 13 02:49:12 2014]  setteam:  1 FREE SPECTATOR
+[Mon Jan 13 02:49:12 2014]  ClientBegin: 1
+[Mon Jan 13 02:49:19 2014]  say: Politically Correct Bob: no its literally gay
+[Mon Jan 13 02:49:23 2014]  say: ^1T^2e^3r^4i^5n: Nice to know
+[Mon Jan 13 02:49:31 2014]  say: Politically Correct Bob: ive been in ones where they were talking about massaging feet
+[Mon Jan 13 02:49:32 2014]  say: ^1T^2e^3r^4i^5n: c: Too bad i don't fucking care
+[Mon Jan 13 02:49:39 2014]  say: ^1T^2e^3r^4i^5n: Ok thats gat
+[Mon Jan 13 02:49:41 2014]  say: Politically Correct Bob: anyways
+[Mon Jan 13 02:49:42 2014]  say: ^1T^2e^3r^4i^5n: Gay*
+[Mon Jan 13 02:49:53 2014]  say: ^1T^2e^3r^4i^5n: WE just do actual star wars rp
+[Mon Jan 13 02:49:58 2014]  setteam:  1 SPECTATOR FREE
+[Mon Jan 13 02:49:58 2014]  ClientBegin: 1
+[Mon Jan 13 02:50:04 2014]  say: Politically Correct Bob: cmd menu opens by holding shift + tilda (the key above tab)
+[Mon Jan 13 02:50:11 2014]  say: Politically Correct Bob: its a black screen
+[Mon Jan 13 02:50:30 2014]  say: Politically Correct Bob: in that black screen type /mempower and hit enter
+[Mon Jan 13 02:50:38 2014]  say: Politically Correct Bob: you will get full force
+[Mon Jan 13 02:50:49 2014]  say: Politically Correct Bob: ill teach you the ways of makermod
+[Mon Jan 13 02:50:57 2014]  say: Politically Correct Bob: you can get all weaps etc
+[Mon Jan 13 02:51:05 2014]  say: Politically Correct Bob: and become invisible like me
+[Mon Jan 13 02:51:19 2014]  say: ^1T^2e^3r^4i^5n: How many other makermod servers are there
+[Mon Jan 13 02:51:27 2014]  say: Politically Correct Bob: eh just a few
+[Mon Jan 13 02:51:43 2014]  say: Politically Correct Bob: its my first time on this one
+[Mon Jan 13 02:52:05 2014]  say: Matthew: Eh, well if you would mind leaving us alone so we can continue? Like we both do our thing?
+[Mon Jan 13 02:52:16 2014]  say: Politically Correct Bob: GAYYYY
+[Mon Jan 13 02:52:21 2014]  say: Politically Correct Bob: BOTH DO OUR THING WOW
+[Mon Jan 13 02:52:40 2014]  say: Politically Correct Bob: both whip out your things and 69 eachother
+[Mon Jan 13 02:52:54 2014]  say: ^1T^2e^3r^4i^5n: God i fucking hate asshats like you.
+[Mon Jan 13 02:53:06 2014]  say: Politically Correct Bob: asshats lol youre probably 12
+[Mon Jan 13 02:53:15 2014]  say: ^1T^2e^3r^4i^5n: Actually 16
+[Mon Jan 13 02:53:21 2014]  Kill: 2 1 31: Politically Correct Bob killed ^1T^2e^3r^4i^5n by MOD_FORCE_DARK
+[Mon Jan 13 02:53:21 2014]  say: Matthew: Accually no
+[Mon Jan 13 02:53:27 2014]  say: Politically Correct Bob: still
+[Mon Jan 13 02:53:32 2014]  say: Politically Correct Bob: prob virgins
+[Mon Jan 13 02:53:34 2014]  say: ^1T^2e^3r^4i^5n: I know how old i am.
+[Mon Jan 13 02:53:46 2014]  say: Politically Correct Bob: Terin youre the cool one
+[Mon Jan 13 02:54:01 2014]  say: Politically Correct Bob: matts probably the recluse who keeps you from hanging out with friends
+[Mon Jan 13 02:54:11 2014]  say: ^1T^2e^3r^4i^5n: And yes i am, because i'm actually smart and i would rather not be a dad on 16 and pregnant and don't disrespect my friend either.
+[Mon Jan 13 02:54:18 2014]  say: Matthew: Every person is entitled to their own opinion. Plus, if you weren't a vergin at 16...
+[Mon Jan 13 02:54:21 2014]  say: Politically Correct Bob: use a condom
+[Mon Jan 13 02:54:25 2014]  say: ^1T^2e^3r^4i^5n: Seriously, fuck off.
+[Mon Jan 13 02:54:26 2014]  say: Politically Correct Bob: I wasnt
+[Mon Jan 13 02:54:29 2014]  say: ^1T^2e^3r^4i^5n: Prick
+[Mon Jan 13 02:54:33 2014]  say: Politically Correct Bob: I lost it at 16
+[Mon Jan 13 02:54:37 2014]  say: ^1T^2e^3r^4i^5n: Good for you
+[Mon Jan 13 02:54:39 2014]  say: Matthew: I garuntee someone is preggers with your downy child
+[Mon Jan 13 02:54:51 2014]  say: Politically Correct Bob: dude I was with her for 4 years
+[Mon Jan 13 02:55:01 2014]  say: ^1T^2e^3r^4i^5n: Coolio
+[Mon Jan 13 02:55:06 2014]  say: ^1T^2e^3r^4i^5n: I still don't care c:
+[Mon Jan 13 02:55:18 2014]  say: Politically Correct Bob: you guys from the UK or US?
+[Mon Jan 13 02:55:22 2014]  say: Matthew: Thats a cool story bro, why don't you tell it again sometime?
+[Mon Jan 13 02:55:27 2014]  say: Politically Correct Bob: I will
+[Mon Jan 13 02:55:28 2014]  say: ^1T^2e^3r^4i^5n: US
+[Mon Jan 13 02:55:31 2014]  say: Politically Correct Bob: good
+[Mon Jan 13 02:55:39 2014]  say: Matthew: Why would we tell you? IM from uk
+[Mon Jan 13 02:55:40 2014]  say: Politically Correct Bob: the UK sucks
+[Mon Jan 13 02:55:44 2014]  say: Politically Correct Bob: HAHAH
+[Mon Jan 13 02:55:48 2014]  say: Politically Correct Bob: jk
+[Mon Jan 13 02:55:59 2014]  say: Politically Correct Bob: the only 4 good countries:
+[Mon Jan 13 02:56:07 2014]  say: Politically Correct Bob: UK, US, CANADA, Australia
+[Mon Jan 13 02:56:14 2014]  say: Politically Correct Bob: the rest suck cock
+[Mon Jan 13 02:56:23 2014]  say: Politically Correct Bob: espec. romania
+[Mon Jan 13 02:56:39 2014]  say: Matthew: Ukrain
+[Mon Jan 13 02:56:50 2014]  say: Politically Correct Bob: guys you ever play Lugormod?
+[Mon Jan 13 02:56:57 2014]  say: ^1T^2e^3r^4i^5n: I think once
+[Mon Jan 13 02:57:16 2014]  say: Politically Correct Bob: im debating joining BOSS or JW lugor clan
+[Mon Jan 13 02:58:02 2014]  say: Politically Correct Bob: we should practice here and shit and then PWN people in lugor
+[Mon Jan 13 02:58:50 2014]  say: Matthew: Listen man, I have to go soon and I would prefer if we could just leave each other be for 15 minutes
+[Mon Jan 13 02:58:54 2014]  say: Politically Correct Bob: the only thing that sucks about being 16 in this day and age: SHIT pop culture
+[Mon Jan 13 02:59:08 2014]  say: Politically Correct Bob: fucking kim kardashian and shit
+[Mon Jan 13 02:59:14 2014]  say: ^1T^2e^3r^4i^5n: Agreed
+[Mon Jan 13 02:59:15 2014]  say: Matthew: Then you can have this server all to yourself.
+[Mon Jan 13 02:59:17 2014]  say: Politically Correct Bob: all that hunger games garbage
+[Mon Jan 13 02:59:25 2014]  say: Politically Correct Bob: Matt go fap in a dark corner
+[Mon Jan 13 02:59:34 2014]  say: ^1T^2e^3r^4i^5n: Fuck off of matt dude.
+[Mon Jan 13 02:59:39 2014]  say: Politically Correct Bob: XD
+[Mon Jan 13 02:59:41 2014]  say: ^1T^2e^3r^4i^5n: Seriously
+[Mon Jan 13 03:00:01 2014]  say: Matthew: If I may ask a question
+[Mon Jan 13 03:00:02 2014]  say: Politically Correct Bob: im just messing with you guys youre prob new
+[Mon Jan 13 03:00:09 2014]  say: Politically Correct Bob: I started here late when I was 19
+[Mon Jan 13 03:00:20 2014]  say: Politically Correct Bob: ya
+[Mon Jan 13 03:00:29 2014]  say: ^1T^2e^3r^4i^5n: God, People like you just make me wish there was a global genocide. But no i am 16 and matthew is 15 
+[Mon Jan 13 03:00:37 2014]  say: Matthew: Nevermind
+[Mon Jan 13 03:00:47 2014]  say: Politically Correct Bob: wtf lol
+[Mon Jan 13 03:00:52 2014]  say: Politically Correct Bob: im not laming you guys
+[Mon Jan 13 03:01:10 2014]  say: Politically Correct Bob: I just want you guys to join my mini clan
+[Mon Jan 13 03:01:25 2014]  print "Politically Correct Bob^7 @@@PLRENAME ^1DEAD^8POOL
+"[Mon Jan 13 03:01:33 2014]  say: ^1DEAD^8POOL: this is my real name in Lugor
+[Mon Jan 13 03:01:55 2014]  say: Matthew: Not interested, neither is he. Clan bullshit has way too much drama and people overreact about it
+[Mon Jan 13 03:02:08 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Mon Jan 13 03:02:08 2014]  setteam:  0 FREE SPECTATOR
+[Mon Jan 13 03:02:08 2014]  ClientBegin: 0
+[Mon Jan 13 03:02:10 2014]  say: ^1DEAD^8POOL: matt is he your bitch or something?
+[Mon Jan 13 03:02:14 2014]  setteam:  0 SPECTATOR FREE
+[Mon Jan 13 03:02:14 2014]  ClientBegin: 0
+[Mon Jan 13 03:02:15 2014]  say: ^1T^2e^3r^4i^5n: Yeah...  It's a bit of a hassle
+[Mon Jan 13 03:02:33 2014]  say: ^1DEAD^8POOL: im not talking about a real clan
+[Mon Jan 13 03:02:39 2014]  say: Matthew: N o, we are in a skype call, he was AFK but could hear me
+[Mon Jan 13 03:02:52 2014]  say: Matthew: So... STFU :D
+[Mon Jan 13 03:02:53 2014]  say: ^1T^2e^3r^4i^5n: Back on psn we were in a few clans and realized two things: PC Master race, and clans are a bit of a time waster :/
+[Mon Jan 13 03:03:02 2014]  say: ^1T^2e^3r^4i^5n: And be nice c:
+[Mon Jan 13 03:03:30 2014]  say: ^1T^2e^3r^4i^5n: Or i will personally evicerate you and hang your digestive tract as party streamers at your funeral c:
+[Mon Jan 13 03:03:55 2014]  say: Matthew: Not a party without streamers
+[Mon Jan 13 03:04:01 2014]  say: ^1T^2e^3r^4i^5n: Yesssssss
+[Mon Jan 13 03:04:02 2014]  say: ^1T^2e^3r^4i^5n: XD
+[Mon Jan 13 03:04:23 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Mon Jan 13 03:04:23 2014]  setteam:  0 FREE SPECTATOR
+[Mon Jan 13 03:04:23 2014]  ClientBegin: 0
+[Mon Jan 13 03:04:31 2014]  setteam:  0 SPECTATOR FREE
+[Mon Jan 13 03:04:31 2014]  ClientBegin: 0
+[Mon Jan 13 03:05:10 2014]  say: ^1DEAD^8POOL: this is not a real clan
+[Mon Jan 13 03:05:19 2014]  say: ^1DEAD^8POOL: im talking about clan in name only
+[Mon Jan 13 03:05:22 2014]  say: Matthew: Don't really care
+[Mon Jan 13 03:05:32 2014]  say: ^1DEAD^8POOL: you just seem like a stuck up douche
+[Mon Jan 13 03:05:32 2014]  say: ^1T^2e^3r^4i^5n: I understand but we only get on here so often :/
+[Mon Jan 13 03:05:41 2014]  say: Matthew: Likewise
+[Mon Jan 13 03:05:50 2014]  say: ^1DEAD^8POOL: matt you started with the douchery
+[Mon Jan 13 03:06:02 2014]  say: ^1DEAD^8POOL: as if this is a private server
+[Mon Jan 13 03:06:07 2014]  say: ^1DEAD^8POOL: owned by you
+[Mon Jan 13 03:06:20 2014]  say: ^1T^2e^3r^4i^5n: He did ask nicely at first and then shit hit the fan
+[Mon Jan 13 03:06:27 2014]  say: ^1T^2e^3r^4i^5n: After we brought up RP
+[Mon Jan 13 03:06:32 2014]  say: ^1DEAD^8POOL: o hehe
+[Mon Jan 13 03:06:38 2014]  say: ^1T^2e^3r^4i^5n: ^^ yeah...
+[Mon Jan 13 03:06:39 2014]  say: ^1DEAD^8POOL: hes an RP fag XD
+[Mon Jan 13 03:06:46 2014]  say: ^1T^2e^3r^4i^5n: I am too ._.
+[Mon Jan 13 03:06:50 2014]  say: ^1DEAD^8POOL: laaame
+[Mon Jan 13 03:06:57 2014]  say: ^1T^2e^3r^4i^5n: It's fun, I'm not big on huge ffa servers
+[Mon Jan 13 03:07:12 2014]  ClientDisconnect: 2
+[Mon Jan 13 03:08:35 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Mon Jan 13 03:09:33 2014]  Kill: 1 1 39: ^1T^2e^3r^4i^5n killed ^1T^2e^3r^4i^5n by MOD_SUICIDE
+[Mon Jan 13 03:09:33 2014]  setteam:  1 FREE SPECTATOR
+[Mon Jan 13 03:09:33 2014]  ClientBegin: 1
+[Mon Jan 13 03:09:52 2014]  Kill: 0 0 39: Matthew killed Matthew by MOD_SUICIDE
+[Mon Jan 13 03:09:52 2014]  setteam:  0 FREE SPECTATOR
+[Mon Jan 13 03:09:52 2014]  ClientBegin: 0
+[Mon Jan 13 03:10:00 2014]  setteam:  1 SPECTATOR FREE
+[Mon Jan 13 03:10:00 2014]  ClientBegin: 1
+[Mon Jan 13 03:10:03 2014]  setteam:  0 SPECTATOR FREE
+[Mon Jan 13 03:10:03 2014]  ClientBegin: 0
+[Mon Jan 13 03:10:18 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Mon Jan 13 03:11:30 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Mon Jan 13 03:13:35 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Mon Jan 13 03:14:46 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Mon Jan 13 03:15:14 2014]  Kill: 0 1 3: Matthew killed ^1T^2e^3r^4i^5n by MOD_SABER
+[Mon Jan 13 03:15:56 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Mon Jan 13 03:16:18 2014]  Kill: 1 0 3: ^1T^2e^3r^4i^5n killed Matthew by MOD_SABER
+[Mon Jan 13 03:16:26 2014]  ClientDisconnect: 0
+[Mon Jan 13 03:16:32 2014]  ClientDisconnect: 1
+[Mon Jan 13 04:17:00 2014]  Exit: Timelimit hit.
+[Mon Jan 13 15:12:13 2014]  ClientConnect: 0
+[Mon Jan 13 15:12:13 2014]  mlog:Player Kal_Skirata, connected. With IP - 145.255.0.12:29070 
+[Mon Jan 13 15:12:36 2014]  ClientBegin: 0
+[Mon Jan 13 15:13:48 2014]  ShutdownGame:
+[Mon Jan 13 15:13:48 2014]  ------------------------------------------------------------
+[Mon Jan 13 15:13:50 2014]  ------------------------------------------------------------
+[Mon Jan 13 15:13:50 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Jan 13 15:13:50 2014]  ClientConnect: 0
+[Mon Jan 13 15:14:02 2014]  ClientBegin: 0
+[Mon Jan 13 15:18:07 2014]  ClientConnect: 1
+[Mon Jan 13 15:18:07 2014]  mlog:Player Padawan, connected. With IP - 78.80.100.24:19689 
+[Mon Jan 13 15:18:44 2014]  ClientBegin: 1
+[Mon Jan 13 15:19:01 2014]  say: Marry: skirtaus its me hunty
+[Mon Jan 13 15:19:04 2014]  say: Marry: masterflashus
+[Mon Jan 13 15:19:43 2014]  ClientDisconnect: 0
+[Mon Jan 13 15:19:56 2014]  print "Marry^7 @@@PLRENAME {[(®Mr.Flash®)]}
+"[Mon Jan 13 15:21:01 2014]  ClientDisconnect: 1
+[Mon Jan 13 15:26:31 2014]  ClientConnect: 0
+[Mon Jan 13 15:26:31 2014]  mlog:Player Padawan, connected. With IP - 78.80.100.24:20612 
+[Mon Jan 13 15:27:05 2014]  ClientBegin: 0
+[Mon Jan 13 15:29:44 2014]  ClientConnect: 1
+[Mon Jan 13 15:29:44 2014]  mlog:Player Kal_Skirata, connected. With IP - 145.255.0.12:29070 
+[Mon Jan 13 15:30:03 2014]  ClientBegin: 1
+[Mon Jan 13 15:30:03 2014]  say: Kal_Skirata: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon Jan 13 15:30:08 2014]  say: {[(®Mr.Flash®)]}: HAI SKIRATUS
+[Mon Jan 13 15:30:19 2014]  Kill: 0 0 39: {[(®Mr.Flash®)]} killed {[(®Mr.Flash®)]} by MOD_SUICIDE
+[Mon Jan 13 15:30:41 2014]  say: {[(®Mr.Flash®)]}: its me
+[Mon Jan 13 15:30:52 2014]  say: {[(®Mr.Flash®)]}: it is makermod
+[Mon Jan 13 15:31:22 2014]  say: {[(®Mr.Flash®)]}: WAT U WANNA DO
+[Mon Jan 13 15:31:37 2014]  say: {[(®Mr.Flash®)]}: WANNA BUILDING?
+[Mon Jan 13 15:31:42 2014]  say: Kal_Skirata: idk
+[Mon Jan 13 15:31:50 2014]  say: {[(®Mr.Flash®)]}: PLS STOP SAYING IDK
+[Mon Jan 13 15:31:58 2014]  say: Kal_Skirata: idk
+[Mon Jan 13 15:32:04 2014]  say: {[(®Mr.Flash®)]}: :/
+[Mon Jan 13 15:32:09 2014]  say: {[(®Mr.Flash®)]}: LETS MAKING COME
+[Mon Jan 13 15:32:21 2014]  say: {[(®Mr.Flash®)]}: COME
+[Mon Jan 13 15:32:28 2014]  say: Kal_Skirata: idk command
+[Mon Jan 13 15:32:31 2014]  say: {[(®Mr.Flash®)]}: COME
+[Mon Jan 13 15:32:32 2014]  say: {[(®Mr.Flash®)]}: I HELP U
+[Mon Jan 13 15:32:47 2014]  say: {[(®Mr.Flash®)]}: BAD STREET
+[Mon Jan 13 15:33:29 2014]  say: {[(®Mr.Flash®)]}: OVER HERE
+[Mon Jan 13 15:33:43 2014]  say: {[(®Mr.Flash®)]}: come
+[Mon Jan 13 15:34:32 2014]  say: {[(®Mr.Flash®)]}: COME 
+[Mon Jan 13 15:34:41 2014]  Kill: 1 0 27: Kal_Skirata killed {[(®Mr.Flash®)]} by MOD_DET_PACK_SPLASH
+[Mon Jan 13 15:34:41 2014]  tell: Kal_Skirata to {[(®Mr.Flash®)]}: ^2^7{[(®Mr.Flash®)]}, ^7I killed 1 people in total
+[Mon Jan 13 15:34:42 2014]  say: {[(®Mr.Flash®)]}: wtf
+[Mon Jan 13 15:34:43 2014]  say: {[(®Mr.Flash®)]}: LOL
+[Mon Jan 13 15:34:45 2014]  say: Kal_Skirata: lol
+[Mon Jan 13 15:35:27 2014]  say: {[(®Mr.Flash®)]}: skirata stop and come
+[Mon Jan 13 15:35:32 2014]  Kill: 1 0 25: Kal_Skirata killed {[(®Mr.Flash®)]} by MOD_TRIP_MINE_SPLASH
+[Mon Jan 13 15:35:33 2014]  tell: Kal_Skirata to {[(®Mr.Flash®)]}: ^2^7{[(®Mr.Flash®)]}, ^7I killed 2 people in total
+[Mon Jan 13 15:35:36 2014]  say: {[(®Mr.Flash®)]}: :/
+[Mon Jan 13 15:35:39 2014]  say: Kal_Skirata: D:
+[Mon Jan 13 15:35:42 2014]  say: {[(®Mr.Flash®)]}: come
+[Mon Jan 13 15:35:43 2014]  say: Kal_Skirata: Stop 
+[Mon Jan 13 15:35:46 2014]  say: {[(®Mr.Flash®)]}: if u wanna learn building
+[Mon Jan 13 15:35:46 2014]  say: Kal_Skirata: Dead
+[Mon Jan 13 15:35:51 2014]  say: Kal_Skirata: Use godmod
+[Mon Jan 13 15:36:29 2014]  say: {[(®Mr.Flash®)]}: stop pls
+[Mon Jan 13 15:36:34 2014]  say: {[(®Mr.Flash®)]}: :(
+[Mon Jan 13 15:36:43 2014]  say: {[(®Mr.Flash®)]}: ok so i have to
+[Mon Jan 13 15:36:44 2014]  say: Kal_Skirata: Go
+[Mon Jan 13 15:36:47 2014]  say: {[(®Mr.Flash®)]}: ye
+[Mon Jan 13 15:36:49 2014]  say: {[(®Mr.Flash®)]}: i have to go bye
+[Mon Jan 13 15:37:05 2014]  say: Kal_Skirata: Build
+[Mon Jan 13 15:37:09 2014]  say: Kal_Skirata: IDK
+[Mon Jan 13 15:37:16 2014]  say: {[(®Mr.Flash®)]}: so come)
+[Mon Jan 13 15:37:18 2014]  say: {[(®Mr.Flash®)]}: omg
+[Mon Jan 13 15:37:26 2014]  say: {[(®Mr.Flash®)]}: come
+[Mon Jan 13 15:37:28 2014]  say: {[(®Mr.Flash®)]}: use nocipus
+[Mon Jan 13 15:37:30 2014]  say: {[(®Mr.Flash®)]}: noclipus
+[Mon Jan 13 15:37:50 2014]  say: {[(®Mr.Flash®)]}: come
+[Mon Jan 13 15:38:31 2014]  say: {[(®Mr.Flash®)]}: i think there is my home
+[Mon Jan 13 15:39:03 2014]  Kill: 1 0 27: Kal_Skirata killed {[(®Mr.Flash®)]} by MOD_DET_PACK_SPLASH
+[Mon Jan 13 15:39:03 2014]  tell: Kal_Skirata to {[(®Mr.Flash®)]}: ^2^7{[(®Mr.Flash®)]}, ^7I killed 3 people in total
+[Mon Jan 13 15:39:06 2014]  say: {[(®Mr.Flash®)]}: lol
+[Mon Jan 13 15:39:06 2014]  say: Kal_Skirata: wtf
+[Mon Jan 13 15:39:11 2014]  say: Kal_Skirata: godmode on
+[Mon Jan 13 15:39:41 2014]  say: {[(®Mr.Flash®)]}: damn
+[Mon Jan 13 15:39:44 2014]  say: {[(®Mr.Flash®)]}: stay in position
+[Mon Jan 13 15:39:50 2014]  Item: 1 ammo_all
+[Mon Jan 13 15:39:58 2014]  say: {[(®Mr.Flash®)]}: not my home
+[Mon Jan 13 15:40:04 2014]  say: Kal_Skirata: godmode
+[Mon Jan 13 15:40:14 2014]  say: {[(®Mr.Flash®)]}: COME
+[Mon Jan 13 15:40:27 2014]  say: {[(®Mr.Flash®)]}: SEC
+[Mon Jan 13 15:40:30 2014]  say: {[(®Mr.Flash®)]}: I MUST QUIT JKA
+[Mon Jan 13 15:40:31 2014]  say: {[(®Mr.Flash®)]}: OK?
+[Mon Jan 13 15:40:39 2014]  say: {[(®Mr.Flash®)]}: I WILL BACK
+[Mon Jan 13 15:40:41 2014]  say: {[(®Mr.Flash®)]}: SO BRB
+[Mon Jan 13 15:40:43 2014]  ClientDisconnect: 0
+[Mon Jan 13 15:41:11 2014]  ClientConnect: 0
+[Mon Jan 13 15:41:11 2014]  mlog:Player Padawan, connected. With IP - 78.80.100.24:20612 
+[Mon Jan 13 15:41:44 2014]  ClientBegin: 0
+[Mon Jan 13 15:41:57 2014]  say: Kal_Skirata: lol
+[Mon Jan 13 15:42:09 2014]  say: {[(®Mr.Flash®)]}: BACK
+[Mon Jan 13 15:42:20 2014]  say: {[(®Mr.Flash®)]}: BACKÄ
+[Mon Jan 13 15:42:24 2014]  say: {[(®Mr.Flash®)]}: WEGHRE U
+[Mon Jan 13 15:42:33 2014]  say: Kal_Skirata: arena
+[Mon Jan 13 15:42:36 2014]  say: {[(®Mr.Flash®)]}: OKA
+[Mon Jan 13 15:42:56 2014]  say: {[(®Mr.Flash®)]}: COME
+[Mon Jan 13 15:44:29 2014]  say: {[(®Mr.Flash®)]}: THR
+[Mon Jan 13 15:44:47 2014]  say: {[(®Mr.Flash®)]}: STOP
+[Mon Jan 13 15:44:48 2014]  say: {[(®Mr.Flash®)]}: IM LAGING
+[Mon Jan 13 15:45:12 2014]  say: {[(®Mr.Flash®)]}: AA
+[Mon Jan 13 15:45:34 2014]  say: {[(®Mr.Flash®)]}: STOP
+[Mon Jan 13 15:45:35 2014]  say: {[(®Mr.Flash®)]}: OMG
+[Mon Jan 13 15:45:57 2014]  say: {[(®Mr.Flash®)]}: ok
+[Mon Jan 13 15:46:06 2014]  say: {[(®Mr.Flash®)]}: stay in this room
+[Mon Jan 13 15:47:13 2014]  say: {[(®Mr.Flash®)]}: come
+[Mon Jan 13 15:47:23 2014]  say: {[(®Mr.Flash®)]}: dauh
+[Mon Jan 13 15:47:37 2014]  say: {[(®Mr.Flash®)]}: come god
+[Mon Jan 13 15:47:46 2014]  say: {[(®Mr.Flash®)]}: stop and come
+[Mon Jan 13 15:47:49 2014]  say: {[(®Mr.Flash®)]}: u making lags
+[Mon Jan 13 15:48:13 2014]  say: {[(®Mr.Flash®)]}: noclip
+[Mon Jan 13 15:48:20 2014]  say: {[(®Mr.Flash®)]}: omg
+[Mon Jan 13 15:48:25 2014]  say: {[(®Mr.Flash®)]}: ok fuck you
+[Mon Jan 13 15:48:40 2014]  say: Kal_Skirata: it is fun :D
+[Mon Jan 13 15:48:56 2014]  say: {[(®Mr.Flash®)]}: nah
+[Mon Jan 13 15:48:59 2014]  say: {[(®Mr.Flash®)]}: my home is cool
+[Mon Jan 13 15:49:06 2014]  say: Kal_Skirata: where you 
+[Mon Jan 13 15:49:06 2014]  say: {[(®Mr.Flash®)]}: so last chance
+[Mon Jan 13 15:49:09 2014]  say: {[(®Mr.Flash®)]}: come
+[Mon Jan 13 15:49:11 2014]  say: Kal_Skirata: arena
+[Mon Jan 13 15:49:24 2014]  say: {[(®Mr.Flash®)]}: come
+[Mon Jan 13 15:49:31 2014]  say: {[(®Mr.Flash®)]}: noclip off
+[Mon Jan 13 15:50:00 2014]  say: {[(®Mr.Flash®)]}: LOOK
+[Mon Jan 13 15:50:02 2014]  say: {[(®Mr.Flash®)]}: STAY
+[Mon Jan 13 15:50:15 2014]  say: Kal_Skirata: good
+[Mon Jan 13 15:50:37 2014]  say: Kal_Skirata: wow
+[Mon Jan 13 15:50:41 2014]  say: {[(®Mr.Flash®)]}: :D
+[Mon Jan 13 15:50:45 2014]  say: {[(®Mr.Flash®)]}: my home
+[Mon Jan 13 15:50:59 2014]  say: {[(®Mr.Flash®)]}: like?
+[Mon Jan 13 15:51:01 2014]  say: Kal_Skirata: ye
+[Mon Jan 13 15:51:09 2014]  say: {[(®Mr.Flash®)]}: umm
+[Mon Jan 13 15:51:17 2014]  say: Kal_Skirata: it is you server ?
+[Mon Jan 13 15:51:19 2014]  say: {[(®Mr.Flash®)]}: no
+[Mon Jan 13 15:51:48 2014]  say: {[(®Mr.Flash®)]}: lets make u home?
+[Mon Jan 13 15:52:04 2014]  say: Kal_Skirata: why ?
+[Mon Jan 13 15:52:11 2014]  say: {[(®Mr.Flash®)]}: u dont want home?
+[Mon Jan 13 15:52:18 2014]  say: Kal_Skirata: Command
+[Mon Jan 13 15:52:37 2014]  say: Kal_Skirata: i dk command
+[Mon Jan 13 15:52:51 2014]  say: {[(®Mr.Flash®)]}: ;) i help u god
+[Mon Jan 13 15:53:04 2014]  say: {[(®Mr.Flash®)]}: so want home?
+[Mon Jan 13 15:53:05 2014]  say: Kal_Skirata: wtf
+[Mon Jan 13 15:53:14 2014]  say: {[(®Mr.Flash®)]}: want home
+[Mon Jan 13 15:53:16 2014]  say: {[(®Mr.Flash®)]}: ?
+[Mon Jan 13 15:53:24 2014]  say: {[(®Mr.Flash®)]}: come
+[Mon Jan 13 15:53:25 2014]  say: Kal_Skirata: idk 
+[Mon Jan 13 15:53:28 2014]  say: Kal_Skirata: go
+[Mon Jan 13 15:53:54 2014]  say: {[(®Mr.Flash®)]}: teaching room
+[Mon Jan 13 15:53:59 2014]  say: {[(®Mr.Flash®)]}: for jedis
+[Mon Jan 13 15:54:30 2014]  say: {[(®Mr.Flash®)]}: USE SABER
+[Mon Jan 13 15:54:38 2014]  say: {[(®Mr.Flash®)]}: nice ?:D
+[Mon Jan 13 15:54:48 2014]  say: {[(®Mr.Flash®)]}: left mouse
+[Mon Jan 13 15:55:00 2014]  say: {[(®Mr.Flash®)]}: xd
+[Mon Jan 13 15:55:05 2014]  say: {[(®Mr.Flash®)]}: press K
+[Mon Jan 13 15:55:17 2014]  say: {[(®Mr.Flash®)]}: look at my nick and k
+[Mon Jan 13 15:55:19 2014]  tell: Kal_Skirata to {[(®Mr.Flash®)]}: ^7Good luck, ^2^7{[(®Mr.Flash®)]}, ^7may the force be with you
+[Mon Jan 13 15:55:23 2014]  say: {[(®Mr.Flash®)]}: LOL
+[Mon Jan 13 15:56:21 2014]  Kill: 0 1 3: {[(®Mr.Flash®)]} killed Kal_Skirata by MOD_SABER
+[Mon Jan 13 15:56:21 2014]  tell: Kal_Skirata to {[(®Mr.Flash®)]}: ^7Good Fight, ^2^7{[(®Mr.Flash®)]}, ^7you have defeated me
+[Mon Jan 13 15:56:23 2014]  say: Kal_Skirata: XD
+[Mon Jan 13 15:56:24 2014]  say: {[(®Mr.Flash®)]}: Gf
+[Mon Jan 13 15:56:26 2014]  say: {[(®Mr.Flash®)]}: xd
+[Mon Jan 13 15:56:39 2014]  say: {[(®Mr.Flash®)]}: so want home?
+[Mon Jan 13 15:56:55 2014]  say: Kal_Skirata: Go server my friend ?
+[Mon Jan 13 15:57:01 2014]  say: {[(®Mr.Flash®)]}: ?
+[Mon Jan 13 15:57:02 2014]  say: Kal_Skirata: s
+[Mon Jan 13 15:57:10 2014]  say: {[(®Mr.Flash®)]}: i dont have mb
+[Mon Jan 13 15:57:10 2014]  say: Kal_Skirata: i give you ip
+[Mon Jan 13 15:57:15 2014]  say: {[(®Mr.Flash®)]}: i dont hav e movie battles
+[Mon Jan 13 15:57:19 2014]  say: Kal_Skirata: ik
+[Mon Jan 13 15:57:22 2014]  say: {[(®Mr.Flash®)]}: so 
+[Mon Jan 13 15:57:25 2014]  say: {[(®Mr.Flash®)]}: wat server
+[Mon Jan 13 15:57:26 2014]  say: Kal_Skirata: maker
+[Mon Jan 13 15:57:30 2014]  say: {[(®Mr.Flash®)]}: wat name 
+[Mon Jan 13 15:57:40 2014]  say: Kal_Skirata: wai
+[Mon Jan 13 15:57:42 2014]  say: Kal_Skirata: t
+[Mon Jan 13 15:57:47 2014]  Kill: 1 0 3: Kal_Skirata killed {[(®Mr.Flash®)]} by MOD_SABER
+[Mon Jan 13 15:57:48 2014]  tell: Kal_Skirata to {[(®Mr.Flash®)]}: ^2^7{[(®Mr.Flash®)]}, ^7I killed 4 people in total
+[Mon Jan 13 15:58:05 2014]  say: Kal_Skirata: why used boba utylity ?
+[Mon Jan 13 15:58:16 2014]  say: {[(®Mr.Flash®)]}: for minizer
+[Mon Jan 13 15:58:26 2014]  say: {[(®Mr.Flash®)]}: and want the fucking home?
+[Mon Jan 13 15:59:20 2014]  say: {[(®Mr.Flash®)]}: come on
+[Mon Jan 13 15:59:37 2014]  Kill: 0 1 3: {[(®Mr.Flash®)]} killed Kal_Skirata by MOD_SABER
+[Mon Jan 13 15:59:37 2014]  tell: Kal_Skirata to {[(®Mr.Flash®)]}: ^2^7{[(®Mr.Flash®)]}, ^7you killed me
+[Mon Jan 13 16:00:48 2014]  say: {[(®Mr.Flash®)]}: what name 
+[Mon Jan 13 16:00:50 2014]  say: {[(®Mr.Flash®)]}: ._.
+[Mon Jan 13 16:01:14 2014]  say: {[(®Mr.Flash®)]}: omg
+[Mon Jan 13 16:04:42 2014]  ClientDisconnect: 1
+[Mon Jan 13 16:06:34 2014]  Kill: 0 0 25: {[(®Mr.Flash®)]} killed {[(®Mr.Flash®)]} by MOD_TRIP_MINE_SPLASH
+[Mon Jan 13 16:06:43 2014]  ClientDisconnect: 0
+[Mon Jan 13 16:32:12 2014]  ClientConnect: 0
+[Mon Jan 13 16:32:12 2014]  mlog:Player Padawan, connected. With IP - 78.80.100.24:26100 
+[Mon Jan 13 16:32:54 2014]  ClientBegin: 0
+[Mon Jan 13 16:34:41 2014]  say: huntik: MLOADOBS
+[Mon Jan 13 16:40:33 2014]  ClientDisconnect: 0
+[Mon Jan 13 17:13:48 2014]  Exit: Timelimit hit.
+[Mon Jan 13 20:08:03 2014]  ClientConnect: 0
+[Mon Jan 13 20:08:03 2014]  mlog:Player Mobius, connected. With IP - 85.210.204.71:29236 
+[Mon Jan 13 20:08:20 2014]  ClientBegin: 0
+[Mon Jan 13 20:08:22 2014]  ClientConnect: 1
+[Mon Jan 13 20:08:22 2014]  mlog:Player Acehigh, connected. With IP - 86.129.35.40:29070 
+[Mon Jan 13 20:08:33 2014]  ClientBegin: 1
+[Mon Jan 13 20:08:51 2014]  ClientConnect: 2
+[Mon Jan 13 20:08:51 2014]  mlog:Player Blib, connected. With IP - 86.163.15.13:29070 
+[Mon Jan 13 20:08:56 2014]  ShutdownGame:
+[Mon Jan 13 20:08:56 2014]  ------------------------------------------------------------
+[Mon Jan 13 20:08:57 2014]  ------------------------------------------------------------
+[Mon Jan 13 20:08:57 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Jan 13 20:08:59 2014]  ClientConnect: 0
+[Mon Jan 13 20:08:59 2014]  ClientConnect: 1
+[Mon Jan 13 20:08:59 2014]  ClientConnect: 2
+[Mon Jan 13 20:09:09 2014]  ClientBegin: 1
+[Mon Jan 13 20:09:10 2014]  ClientBegin: 0
+[Mon Jan 13 20:09:25 2014]  ClientBegin: 2
+[Mon Jan 13 20:10:17 2014]  Kill: 1 2 3: Acehigh killed Blib by MOD_SABER
+[Mon Jan 13 20:10:31 2014]  Kill: 2 1 3: Blib killed Acehigh by MOD_SABER
+[Mon Jan 13 20:10:36 2014]  Kill: 2 0 3: Blib killed Mobius by MOD_SABER
+[Mon Jan 13 20:10:36 2014]  Kill: 2 1 3: Blib killed Acehigh by MOD_SABER
+[Mon Jan 13 20:10:41 2014]  Kill: 2 1 3: Blib killed Acehigh by MOD_SABER
+[Mon Jan 13 20:10:47 2014]  Kill: 2 0 3: Blib killed Mobius by MOD_SABER
+[Mon Jan 13 20:10:49 2014]  Kill: 1 2 3: Acehigh killed Blib by MOD_SABER
+[Mon Jan 13 20:11:03 2014]  Kill: 2 0 3: Blib killed Mobius by MOD_SABER
+[Mon Jan 13 20:11:10 2014]  Kill: 0 2 3: Mobius killed Blib by MOD_SABER
+[Mon Jan 13 20:11:40 2014]  Kill: 2 1 3: Blib killed Acehigh by MOD_SABER
+[Mon Jan 13 20:11:48 2014]  Kill: 2 0 3: Blib killed Mobius by MOD_SABER
+[Mon Jan 13 20:11:59 2014]  Kill: 2 0 3: Blib killed Mobius by MOD_SABER
+[Mon Jan 13 20:12:19 2014]  Kill: 2 0 3: Blib killed Mobius by MOD_SABER
+[Mon Jan 13 20:12:32 2014]  Kill: 2 0 3: Blib killed Mobius by MOD_SABER
+[Mon Jan 13 20:14:06 2014]  Kill: 0 2 31: Mobius killed Blib by MOD_FORCE_DARK
+[Mon Jan 13 20:17:01 2014]  ClientDisconnect: 0
+[Mon Jan 13 20:17:30 2014]  ClientDisconnect: 2
+[Mon Jan 13 20:18:23 2014]  ClientDisconnect: 1
+[Mon Jan 13 22:08:56 2014]  Exit: Timelimit hit.
+[Tue Jan 14 00:53:25 2014]  ClientConnect: 0
+[Tue Jan 14 00:53:25 2014]  mlog:Player Matthew, connected. With IP - 174.126.79.124:29070 
+[Tue Jan 14 00:53:34 2014]  ClientDisconnect: 0
+[Tue Jan 14 00:54:04 2014]  ClientConnect: 0
+[Tue Jan 14 00:54:04 2014]  mlog:Player Matthew, connected. With IP - 174.126.79.124:29070 
+[Tue Jan 14 00:54:44 2014]  ClientBegin: 0
+[Tue Jan 14 00:54:53 2014]  ShutdownGame:
+[Tue Jan 14 00:54:53 2014]  ------------------------------------------------------------

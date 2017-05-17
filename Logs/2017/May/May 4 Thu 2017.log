@@ -1,0 +1,57 @@
+[Thu May 04 12:33:54 2017]  ------------------------------------------------------------
+[Thu May 04 12:33:54 2017]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu May 04 21:26:39 2017]  ClientConnect: 0
+[Thu May 04 21:26:39 2017]  mlog:Player Macbrine, connected. With IP - 216.96.133.3:29070 
+[Thu May 04 21:27:02 2017]  ClientBegin: 0
+[Thu May 04 21:27:09 2017]  ClientDisconnect: 0
+[Thu May 04 21:55:32 2017]  ClientConnect: 0
+[Thu May 04 21:55:32 2017]  mlog:Player 123123123, connected. With IP - 109.252.20.194:11520 
+[Thu May 04 21:55:43 2017]  ClientDisconnect: 0
+[Fri May 05 03:32:17 2017]  ClientConnect: 0
+[Fri May 05 03:32:17 2017]  mlog:Player Dick Bulging, connected. With IP - 45.22.19.19:29070 
+[Fri May 05 03:32:34 2017]  ClientConnect: 1
+[Fri May 05 03:32:34 2017]  mlog:Player Randy Butternubs, connected. With IP - 69.250.152.131:29070 
+[Fri May 05 03:32:35 2017]  ClientBegin: 0
+[Fri May 05 03:32:54 2017]  ClientConnect: 2
+[Fri May 05 03:32:54 2017]  mlog:Player adamgb9, connected. With IP - 77.127.30.214:29070 
+[Fri May 05 03:33:01 2017]  ClientBegin: 1
+[Fri May 05 03:33:13 2017]  ClientBegin: 2
+[Fri May 05 03:33:30 2017]  print "Padawan^7 @@@PLRENAME adamgb9
+"[Fri May 05 03:34:16 2017]  Kill: 0 1 3: Dick Bulging killed Randy Butternubs by MOD_SABER
+[Fri May 05 03:34:26 2017]  ClientConnect: 3
+[Fri May 05 03:34:26 2017]  mlog:Player EdgeLord, connected. With IP - 73.37.228.86:29070 
+[Fri May 05 03:34:48 2017]  ClientBegin: 3
+[Fri May 05 03:35:59 2017]  Kill: 0 1 3: Dick Bulging killed Randy Butternubs by MOD_SABER
+[Fri May 05 03:36:27 2017]  Kill: 0 1 3: Dick Bulging killed Randy Butternubs by MOD_SABER
+[Fri May 05 03:36:38 2017]  Kill: 1 0 3: Randy Butternubs killed Dick Bulging by MOD_SABER
+[Fri May 05 03:36:39 2017]  Kill: 3 1 3: EdgeLord killed Randy Butternubs by MOD_SABER
+[Fri May 05 03:36:59 2017]  Kill: 0 2 5: Dick Bulging killed adamgb9 by MOD_BRYAR_PISTOL_ALT
+[Fri May 05 03:37:14 2017]  Kill: 2 3 3: adamgb9 killed EdgeLord by MOD_SABER
+[Fri May 05 03:37:31 2017]  say: EdgeLord: rt
+[Fri May 05 03:38:01 2017]  Kill: 1 0 3: Randy Butternubs killed Dick Bulging by MOD_SABER
+[Fri May 05 03:38:06 2017]  Kill: 1 3 3: Randy Butternubs killed EdgeLord by MOD_SABER
+[Fri May 05 03:38:27 2017]  Kill: 2 1 3: adamgb9 killed Randy Butternubs by MOD_SABER
+[Fri May 05 03:38:31 2017]  Kill: 0 2 3: Dick Bulging killed adamgb9 by MOD_SABER
+[Fri May 05 03:39:43 2017]  Kill: 2 1 3: adamgb9 killed Randy Butternubs by MOD_SABER
+[Fri May 05 03:40:38 2017]  Kill: 2 1 3: adamgb9 killed Randy Butternubs by MOD_SABER
+[Fri May 05 03:40:50 2017]  Kill: 2 1 3: adamgb9 killed Randy Butternubs by MOD_SABER
+[Fri May 05 03:41:02 2017]  Kill: 3 0 3: EdgeLord killed Dick Bulging by MOD_SABER
+[Fri May 05 03:41:06 2017]  Kill: 1 2 3: Randy Butternubs killed adamgb9 by MOD_SABER
+[Fri May 05 03:41:23 2017]  Kill: 2 1 3: adamgb9 killed Randy Butternubs by MOD_SABER
+[Fri May 05 03:41:56 2017]  Kill: 2 1 3: adamgb9 killed Randy Butternubs by MOD_SABER
+[Fri May 05 03:43:00 2017]  Kill: 1 3 3: Randy Butternubs killed EdgeLord by MOD_SABER
+[Fri May 05 03:43:47 2017]  say: adamgb9: WHERE ARE YOU ALL
+[Fri May 05 03:43:58 2017]  Kill: 3 1 3: EdgeLord killed Randy Butternubs by MOD_SABER
+[Fri May 05 03:44:12 2017]  Kill: 1022 3 38: <world> killed EdgeLord by MOD_FALLING
+[Fri May 05 03:44:28 2017]  say: EdgeLord: The crater, bruh
+[Fri May 05 03:45:24 2017]  say: adamgb9: idk where i am
+[Fri May 05 03:45:41 2017]  Kill: 2 2 39: adamgb9 killed adamgb9 by MOD_SUICIDE
+[Fri May 05 03:45:41 2017]  setteam:  2 FREE SPECTATOR
+[Fri May 05 03:45:41 2017]  ClientBegin: 2
+[Fri May 05 03:45:48 2017]  setteam:  2 SPECTATOR FREE
+[Fri May 05 03:45:48 2017]  ClientBegin: 2
+[Fri May 05 03:47:35 2017]  Kill: 3 0 3: EdgeLord killed Dick Bulging by MOD_SABER
+[Fri May 05 03:48:24 2017]  say: adamgb9: this map is way to big
+[Fri May 05 03:48:48 2017]  say: EdgeLord: yes
+[Fri May 05 03:48:57 2017]  ShutdownGame:
+[Fri May 05 03:48:57 2017]  ------------------------------------------------------------

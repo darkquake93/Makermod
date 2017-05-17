@@ -1,0 +1,37 @@
+[Sat Nov 16 18:18:18 2013]  ------------------------------------------------------------
+[Sat Nov 16 18:18:18 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 16 18:18:20 2013]  ClientConnect: 0
+[Sat Nov 16 18:18:20 2013]  ClientConnect: 1
+[Sat Nov 16 18:18:20 2013]  ClientConnect: 2
+[Sat Nov 16 18:18:31 2013]  ClientBegin: 1
+[Sat Nov 16 18:18:31 2013]  ClientBegin: 0
+[Sat Nov 16 18:18:57 2013]  Kill: 1 0 3: Hileuuse killed Thorel by MOD_SABER
+[Sat Nov 16 18:19:03 2013]  ClientDisconnect: 2
+[Sat Nov 16 18:19:20 2013]  ClientConnect: 2
+[Sat Nov 16 18:19:20 2013]  mlog:Player Aiikko, connected. With IP - 82.245.143.213:29070 
+[Sat Nov 16 18:19:30 2013]  Kill: 1 0 3: Hileuuse killed Thorel by MOD_SABER
+[Sat Nov 16 18:20:21 2013]  Kill: 0 1 3: Thorel killed Hileuuse by MOD_SABER
+[Sat Nov 16 18:21:13 2013]  Kill: 0 1 3: Thorel killed Hileuuse by MOD_SABER
+[Sat Nov 16 18:22:51 2013]  ClientDisconnect: 2
+[Sat Nov 16 18:23:03 2013]  Kill: 1 0 3: Hileuuse killed Thorel by MOD_SABER
+[Sat Nov 16 18:23:10 2013]  ClientConnect: 2
+[Sat Nov 16 18:23:10 2013]  mlog:Player Aiikko, connected. With IP - 82.245.143.213:29070 
+[Sat Nov 16 18:23:16 2013]  ClientDisconnect: 2
+[Sat Nov 16 18:23:50 2013]  ClientConnect: 2
+[Sat Nov 16 18:23:50 2013]  mlog:Player Padawan, connected. With IP - 89.182.157.251:29070 
+[Sat Nov 16 18:25:08 2013]  ClientConnect: 3
+[Sat Nov 16 18:25:08 2013]  mlog:Player Padawan, connected. With IP - 82.245.143.213:29070 
+[Sat Nov 16 18:25:10 2013]  Kill: 0 1 5: Thorel killed Hileuuse by MOD_BRYAR_PISTOL_ALT
+[Sat Nov 16 18:25:14 2013]  ClientDisconnect: 3
+[Sat Nov 16 18:25:21 2013]  ClientDisconnect: 0
+[Sat Nov 16 18:25:55 2013]  ClientDisconnect: 1
+[Sat Nov 16 18:26:36 2013]  ClientBegin: 2
+[Sat Nov 16 18:27:09 2013]  ClientDisconnect: 2
+[Sat Nov 16 19:31:13 2013]  ClientConnect: 0
+[Sat Nov 16 19:31:13 2013]  mlog:Player ^3Yo^1se^6fu, connected. With IP - 86.3.231.22:29070 
+[Sat Nov 16 19:34:04 2013]  ClientConnect: 1
+[Sat Nov 16 19:34:04 2013]  mlog:Player ^8-<EF>- ^7Darth Amras, connected. With IP - 85.219.4.121:29070 
+[Sat Nov 16 19:34:30 2013]  ClientBegin: 1
+[Sat Nov 16 19:36:11 2013]  ClientDisconnect: 0
+[Sat Nov 16 19:38:22 2013]  ClientDisconnect: 1
+[Sat Nov 16 20:18:18 2013]  Exit: Timelimit hit.

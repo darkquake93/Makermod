@@ -1,0 +1,39 @@
+[Wed Jun 18 06:24:12 2014]  ------------------------------------------------------------
+[Wed Jun 18 06:24:12 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Jun 18 06:24:13 2014]  ClientConnect: 0
+[Wed Jun 18 06:24:22 2014]  ClientBegin: 0
+[Wed Jun 18 06:25:00 2014]  print "Padawan^7 @@@PLRENAME Dick Soup
+"[Wed Jun 18 06:25:37 2014]  ClientConnect: 1
+[Wed Jun 18 06:25:37 2014]  mlog:Player Padawan, connected. With IP - 72.220.96.247:29070 
+[Wed Jun 18 06:25:48 2014]  ClientBegin: 1
+[Wed Jun 18 06:31:40 2014]  Kill: 1022 0 38: <world> killed Dick Soup by MOD_FALLING
+[Wed Jun 18 06:34:01 2014]  Kill: 0 1 3: Dick Soup killed Padawan by MOD_SABER
+[Wed Jun 18 06:37:24 2014]  ClientDisconnect: 0
+[Wed Jun 18 06:37:58 2014]  ClientDisconnect: 1
+[Wed Jun 18 08:24:10 2014]  Exit: Timelimit hit.
+[Wed Jun 18 16:47:53 2014]  ClientConnect: 0
+[Wed Jun 18 16:47:53 2014]  mlog:Player IvanKuz99, connected. With IP - 92.252.155.215:29070 
+[Wed Jun 18 16:48:08 2014]  ClientBegin: 0
+[Wed Jun 18 16:48:13 2014]  ShutdownGame:
+[Wed Jun 18 16:48:13 2014]  ------------------------------------------------------------
+[Wed Jun 18 16:48:14 2014]  ------------------------------------------------------------
+[Wed Jun 18 16:48:14 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Jun 18 16:48:16 2014]  ClientConnect: 0
+[Wed Jun 18 16:48:32 2014]  ClientBegin: 0
+[Wed Jun 18 16:48:56 2014]  ClientConnect: 1
+[Wed Jun 18 16:48:56 2014]  mlog:Player ^3hundert, connected. With IP - 92.252.185.45:29070 
+[Wed Jun 18 16:49:12 2014]  ClientBegin: 1
+[Wed Jun 18 16:50:16 2014]  Kill: 0 1 3: IvanKuz99 killed ^3hundert by MOD_SABER
+[Wed Jun 18 16:50:36 2014]  ClientConnect: 2
+[Wed Jun 18 16:50:36 2014]  mlog:Player lexa3317, connected. With IP - 89.250.168.13:28211 
+[Wed Jun 18 16:51:03 2014]  ClientDisconnect: 1
+[Wed Jun 18 16:51:19 2014]  ClientBegin: 2
+[Wed Jun 18 16:53:08 2014]  Kill: 2 0 3: ^3hundert killed IvanKuz99 by MOD_SABER
+[Wed Jun 18 16:53:18 2014]  ClientDisconnect: 0
+[Wed Jun 18 16:53:22 2014]  ClientDisconnect: 2
+[Wed Jun 18 18:48:13 2014]  Exit: Timelimit hit.
+[Thu Jun 19 06:49:53 2014]  ClientConnect: 0
+[Thu Jun 19 06:49:53 2014]  mlog:Player ^1A^7lora, connected. With IP - 178.121.115.154:-3972 
+[Thu Jun 19 06:50:27 2014]  ClientBegin: 0
+[Thu Jun 19 06:50:59 2014]  ShutdownGame:
+[Thu Jun 19 06:50:59 2014]  ------------------------------------------------------------

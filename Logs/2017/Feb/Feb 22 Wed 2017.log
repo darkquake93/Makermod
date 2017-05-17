@@ -1,0 +1,511 @@
+[Wed Feb 22 01:52:56 2017]  ------------------------------------------------------------
+[Wed Feb 22 01:52:56 2017]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Feb 22 01:52:56 2017]  ClientConnect: 0
+[Wed Feb 22 01:52:56 2017]  ClientConnect: 1
+[Wed Feb 22 01:53:08 2017]  ClientBegin: 0
+[Wed Feb 22 01:53:10 2017]  say: ^1M^7r ^1Р^7innertime: you know you can just do /npc spawn vehicle swoop_mp to fix that, right?
+[Wed Feb 22 01:53:10 2017]  ClientBegin: 1
+[Wed Feb 22 01:53:12 2017]  setteam:  1 SPECTATOR FREE
+[Wed Feb 22 01:53:12 2017]  ClientBegin: 1
+[Wed Feb 22 01:53:12 2017]  say: ^1M^7r ^1Р^7innertime: ^5Maker^7Module ^3Client Plugin ^2v0.61a
+[Wed Feb 22 01:53:16 2017]  say: ^0Раrk^2^1Qµаkи: yeah
+[Wed Feb 22 01:53:18 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 01:53:28 2017]  say: ^1M^7r ^1Р^7innertime: nice ambience? :D
+[Wed Feb 22 01:53:35 2017]  say: ^0Раrk^2^1Qµаkи: yeah that's cool :)
+[Wed Feb 22 01:53:37 2017]  say: ^1M^7r ^1Р^7innertime: it's not deathly quiet anymore. lol
+[Wed Feb 22 01:53:46 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 01:53:51 2017]  say: ^0Раrk^2^1Qµаkи: no swoop here too
+[Wed Feb 22 01:53:54 2017]  say: ^0Раrk^2^1Qµаkи: so that's cool :)
+[Wed Feb 22 01:53:56 2017]  say: ^1M^7r ^1Р^7innertime: :p
+[Wed Feb 22 01:54:08 2017]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Feb 22 01:54:24 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 01:54:25 2017]  say: ^0Раrk^2^1Qµаkи: cool you made me a girlfriend
+[Wed Feb 22 01:54:27 2017]  say: ^0Раrk^2^1Qµаkи: oh..
+[Wed Feb 22 01:54:28 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 01:54:42 2017]  say: ^0Раrk^2^1Qµаkи: ok let's see the rancors ^^
+[Wed Feb 22 01:54:45 2017]  say: ^1M^7r ^1Р^7innertime: xD
+[Wed Feb 22 01:55:00 2017]  say: ^1M^7r ^1Р^7innertime: by the way, you might need to change seta g_forbiddenNPCs
+[Wed Feb 22 01:55:15 2017]  say: ^1M^7r ^1Р^7innertime: to enable ragnos, glider, minemonster, nulldriver, player and remote
+[Wed Feb 22 01:55:19 2017]  say: ^1M^7r ^1Р^7innertime: :p
+[Wed Feb 22 01:55:33 2017]  say: ^1M^7r ^1Р^7innertime: oh right. player and glider are enabled xD
+[Wed Feb 22 01:55:40 2017]  say: ^1M^7r ^1Р^7innertime: but not ragnos ;3
+[Wed Feb 22 01:55:42 2017]  say: ^0Раrk^2^1Qµаkи: just ragnos was in there
+[Wed Feb 22 01:55:45 2017]  say: ^0Раrk^2^1Qµаkи: from what we want
+[Wed Feb 22 01:55:49 2017]  say: ^0Раrk^2^1Qµаkи: so removed it
+[Wed Feb 22 01:55:55 2017]  say: ^1M^7r ^1Р^7innertime: yes but the server config is still forbidding it
+[Wed Feb 22 01:56:00 2017]  say: ^0Раrk^2^1Qµаkи: yeah
+[Wed Feb 22 01:56:03 2017]  say: ^1M^7r ^1Р^7innertime: ;3
+[Wed Feb 22 01:56:06 2017]  say: ^0Раrk^2^1Qµаkи: hold on
+[Wed Feb 22 01:56:15 2017]  say: ^0Раrk^2^1Qµаkи: I'll copy paste the current line from makermod.cfg
+[Wed Feb 22 01:56:17 2017]  say: ^1M^7r ^1Р^7innertime: :
+[Wed Feb 22 01:56:18 2017]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Feb 22 01:56:40 2017]  say: ^0Раrk^2^1Qµаkи: try now
+[Wed Feb 22 01:56:42 2017]  say: ^1M^7r ^1Р^7innertime: X
+[Wed Feb 22 01:56:43 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 01:56:46 2017]  say: ^1M^7r ^1Р^7innertime: YAY
+[Wed Feb 22 01:56:47 2017]  say: ^0Раrk^2^1Qµаkи: that's ragnos
+[Wed Feb 22 01:56:47 2017]  say: ^1M^7r ^1Р^7innertime: ragnos
+[Wed Feb 22 01:56:48 2017]  say: ^0Раrk^2^1Qµаkи: oh
+[Wed Feb 22 01:56:49 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 01:56:51 2017]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Feb 22 01:56:52 2017]  say: ^0Раrk^2^1Qµаkи: lmfao
+[Wed Feb 22 01:56:53 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 01:57:07 2017]  say: ^1M^7r ^1Р^7innertime: OH
+[Wed Feb 22 01:57:11 2017]  say: ^1M^7r ^1Р^7innertime: I knew I forgot something
+[Wed Feb 22 01:57:12 2017]  say: ^0Раrk^2^1Qµаkи: dat sound though
+[Wed Feb 22 01:57:14 2017]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Feb 22 01:57:14 2017]  say: ^0Раrk^2^1Qµаkи: yeh
+[Wed Feb 22 01:57:20 2017]  say: ^0Раrk^2^1Qµаkи: ooh he shrunk
+[Wed Feb 22 01:57:23 2017]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Feb 22 01:57:25 2017]  say: ^1M^7r ^1Р^7innertime: quick question
+[Wed Feb 22 01:57:30 2017]  say: ^1M^7r ^1Р^7innertime: can boba fett use fire in multiplayer?
+[Wed Feb 22 01:57:38 2017]  say: ^0Раrk^2^1Qµаkи: um can't remember
+[Wed Feb 22 01:57:40 2017]  say: ^1M^7r ^1Р^7innertime: ah
+[Wed Feb 22 01:57:41 2017]  say: ^0Раrk^2^1Qµаkи: let's see
+[Wed Feb 22 01:57:52 2017]  say: ^0Раrk^2^1Qµаkи: remove from forbidden then?
+[Wed Feb 22 01:58:06 2017]  say: ^1M^7r ^1Р^7innertime: maybe. I don't know
+[Wed Feb 22 01:58:11 2017]  say: ^1M^7r ^1Р^7innertime: I didn't fix boba fett
+[Wed Feb 22 01:58:18 2017]  say: ^0Раrk^2^1Qµаkи: ok no worries
+[Wed Feb 22 01:58:22 2017]  say: ^0Раrk^2^1Qµаkи: so rancors? :p
+[Wed Feb 22 01:58:25 2017]  say: ^1M^7r ^1Р^7innertime: yeah XD
+[Wed Feb 22 01:58:27 2017]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Feb 22 01:58:34 2017]  say: ^1M^7r ^1Р^7innertime: xD
+[Wed Feb 22 01:58:34 2017]  Kill: 1022 1 36: <world> killed ^1M^7r ^1Р^7innertime by MOD_CRUSH
+[Wed Feb 22 01:58:36 2017]  Kill: 1022 1 36: <world> killed ^1M^7r ^1Р^7innertime by MOD_CRUSH
+[Wed Feb 22 01:58:39 2017]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Feb 22 01:58:39 2017]  say: ^0Раrk^2^1Qµаkи: yay
+[Wed Feb 22 01:58:41 2017]  say: ^0Раrk^2^1Qµаkи: haha
+[Wed Feb 22 01:58:45 2017]  say: ^0Раrk^2^1Qµаkи: perfect :)
+[Wed Feb 22 01:58:49 2017]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Feb 22 01:58:53 2017]  say: ^0Раrk^2^1Qµаkи: bunch of mutants plox
+[Wed Feb 22 01:59:09 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 01:59:18 2017]  say: ^0Раrk^2^1Qµаkи: leaning tower of mutants
+[Wed Feb 22 01:59:19 2017]  say: ^1M^7r ^1Р^7innertime: uhh
+[Wed Feb 22 01:59:25 2017]  say: ^0Раrk^2^1Qµаkи: wat
+[Wed Feb 22 01:59:27 2017]  say: ^1M^7r ^1Р^7innertime: oops lmao
+[Wed Feb 22 01:59:30 2017]  say: ^1M^7r ^1Р^7innertime: I made them friendly
+[Wed Feb 22 01:59:34 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 01:59:35 2017]  say: ^0Раrk^2^1Qµаkи: oh
+[Wed Feb 22 01:59:37 2017]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Feb 22 01:59:45 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 01:59:48 2017]  say: ^0Раrk^2^1Qµаkи: haha
+[Wed Feb 22 01:59:56 2017]  say: ^1M^7r ^1Р^7innertime: yeah
+[Wed Feb 22 01:59:58 2017]  say: ^0Раrk^2^1Qµаkи: easy to toggle ingame?
+[Wed Feb 22 02:00:01 2017]  say: ^1M^7r ^1Р^7innertime: rancors and mutant rancors now attack sith
+[Wed Feb 22 02:00:04 2017]  say: ^1M^7r ^1Р^7innertime: toggle what?
+[Wed Feb 22 02:00:09 2017]  say: ^0Раrk^2^1Qµаkи: friendly / enemy
+[Wed Feb 22 02:00:16 2017]  say: ^1M^7r ^1Р^7innertime: nah. It's set in the .npc file
+[Wed Feb 22 02:00:21 2017]  say: ^1M^7r ^1Р^7innertime: I can show you how if you want
+[Wed Feb 22 02:00:22 2017]  say: ^0Раrk^2^1Qµаkи: oh right
+[Wed Feb 22 02:00:28 2017]  say: ^0Раrk^2^1Qµаkи: soon, yeah
+[Wed Feb 22 02:00:29 2017]  say: ^1M^7r ^1Р^7innertime: :p
+[Wed Feb 22 02:00:32 2017]  say: ^0Раrk^2^1Qµаkи: tomorrow I guess
+[Wed Feb 22 02:00:38 2017]  say: ^1M^7r ^1Р^7innertime: kk I gotta sleep anyway
+[Wed Feb 22 02:00:46 2017]  say: ^0Раrk^2^1Qµаkи: that reminds me of a FFX quote at the start haha
+[Wed Feb 22 02:00:50 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:00:53 2017]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Feb 22 02:00:54 2017]  say: ^0Раrk^2^1Qµаkи: kids wanting him to teach them blitzball
+[Wed Feb 22 02:01:03 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:01:23 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:01:29 2017]  say: ^0Раrk^2^1Qµаkи: yaaaay
+[Wed Feb 22 02:01:31 2017]  say: ^0Раrk^2^1Qµаkи: perfect
+[Wed Feb 22 02:01:32 2017]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Feb 22 02:01:38 2017]  say: ^0Раrk^2^1Qµаkи: I've waited for this moment for so long haha
+[Wed Feb 22 02:01:40 2017]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Feb 22 02:01:46 2017]  say: ^0Раrk^2^1Qµаkи: freakin rancors think they own the place
+[Wed Feb 22 02:01:48 2017]  say: ^1M^7r ^1Р^7innertime: yeah XD
+[Wed Feb 22 02:02:10 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:02:15 2017]  say: ^0Раrk^2^1Qµаkи: I made an awesome airbase a while back but lost the save
+[Wed Feb 22 02:02:22 2017]  say: ^0Раrk^2^1Qµаkи: like aaaages ago but it was so cool
+[Wed Feb 22 02:02:27 2017]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Feb 22 02:02:30 2017]  say: ^0Раrk^2^1Qµаkи: had lasers firing and doors and stuff
+[Wed Feb 22 02:02:33 2017]  say: ^1M^7r ^1Р^7innertime: nic
+[Wed Feb 22 02:02:36 2017]  say: ^0Раrk^2^1Qµаkи: up here
+[Wed Feb 22 02:02:42 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:02:42 2017]  say: ^0Раrk^2^1Qµаkи: pew pew
+[Wed Feb 22 02:02:55 2017]  say: ^0Раrk^2^1Qµаkи: omg the sound
+[Wed Feb 22 02:02:56 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:03:02 2017]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Feb 22 02:03:04 2017]  say: ^0Раrk^2^1Qµаkи: that's adorable
+[Wed Feb 22 02:03:08 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:03:23 2017]  say: ^1M^7r ^1Р^7innertime: guess what I can do now
+[Wed Feb 22 02:03:28 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:03:33 2017]  say: ^0Раrk^2^1Qµаkи: oooh
+[Wed Feb 22 02:03:34 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:03:40 2017]  say: ^1M^7r ^1Р^7innertime: /mtrace
+[Wed Feb 22 02:03:40 2017]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Feb 22 02:03:42 2017]  say: ^0Раrk^2^1Qµаkи: infinite girlfriends
+[Wed Feb 22 02:03:46 2017]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Feb 22 02:04:00 2017]  say: ^0Раrk^2^1Qµаkи: yeh says you're the owner
+[Wed Feb 22 02:04:06 2017]  say: ^1M^7r ^1Р^7innertime: Oh. you're not logged in?
+[Wed Feb 22 02:04:09 2017]  say: ^0Раrk^2^1Qµаkи: no haha
+[Wed Feb 22 02:04:11 2017]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Feb 22 02:04:15 2017]  say: ^1M^7r ^1Р^7innertime: they have 2 billion hp XD
+[Wed Feb 22 02:04:24 2017]  say: ^0Раrk^2^1Qµаkи: fuuuukn hell
+[Wed Feb 22 02:04:27 2017]  say: ^1M^7r ^1Р^7innertime: all of my npcs which are spawned with that script do
+[Wed Feb 22 02:04:28 2017]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Feb 22 02:04:32 2017]  say: ^0Раrk^2^1Qµаkи: you never cease to amaze me on MM
+[Wed Feb 22 02:04:41 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:05:01 2017]  say: ^1M^7r ^1Р^7innertime: you didn't do that XD i did npc kill all
+[Wed Feb 22 02:05:13 2017]  say: ^0Раrk^2^1Qµаkи: so falcon didnt get one?
+[Wed Feb 22 02:05:16 2017]  say: ^1M^7r ^1Р^7innertime: no XD
+[Wed Feb 22 02:05:19 2017]  say: ^0Раrk^2^1Qµаkи: shit haha
+[Wed Feb 22 02:05:21 2017]  say: ^1M^7r ^1Р^7innertime: lol
+[Wed Feb 22 02:05:28 2017]  say: ^1M^7r ^1Р^7innertime: here you go xD a dummy
+[Wed Feb 22 02:05:39 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:05:50 2017]  say: ^1M^7r ^1Р^7innertime: he's still alive... XD
+[Wed Feb 22 02:05:53 2017]  say: ^0Раrk^2^1Qµаkи: I don't see him
+[Wed Feb 22 02:05:56 2017]  say: ^0Раrk^2^1Qµаkи: he must be dead
+[Wed Feb 22 02:05:58 2017]  say: ^1M^7r ^1Р^7innertime: nah lol
+[Wed Feb 22 02:06:02 2017]  say: ^1M^7r ^1Р^7innertime: you just knocked him away
+[Wed Feb 22 02:06:09 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:06:23 2017]  say: ^1M^7r ^1Р^7innertime: oh neat
+[Wed Feb 22 02:06:27 2017]  say: ^1M^7r ^1Р^7innertime: you killed him in 2 hits :p
+[Wed Feb 22 02:06:38 2017]  say: ^0Раrk^2^1Qµаkи: yeh haha or did you use kill at that moment?
+[Wed Feb 22 02:06:39 2017]  say: ^1M^7r ^1Р^7innertime: now try this guy XD
+[Wed Feb 22 02:07:08 2017]  say: ^1M^7r ^1Р^7innertime: didn't kill him >:( your script just knocks him far away
+[Wed Feb 22 02:07:09 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:07:20 2017]  say: ^0Раrk^2^1Qµаkи: lmao
+[Wed Feb 22 02:07:37 2017]  say: ^1M^7r ^1Р^7innertime: :D
+[Wed Feb 22 02:08:17 2017]  say: ^0Раrk^2^1Qµаkи: oooook I really wanna watch TWD and get to bed now haha
+[Wed Feb 22 02:08:22 2017]  say: ^1M^7r ^1Р^7innertime: ok XD cya
+[Wed Feb 22 02:08:23 2017]  say: ^1M^7r ^1Р^7innertime: have fun
+[Wed Feb 22 02:08:27 2017]  say: ^0Раrk^2^1Qµаkи: thank god I'm off Uni till Monday
+[Wed Feb 22 02:08:28 2017]  say: ^1M^7r ^1Р^7innertime: XD
+[Wed Feb 22 02:08:34 2017]  ClientDisconnect: 1
+[Wed Feb 22 02:08:39 2017]  ClientDisconnect: 0
+[Wed Feb 22 18:52:40 2017]  ClientConnect: 0
+[Wed Feb 22 18:52:40 2017]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.56.1:29071 
+[Wed Feb 22 18:53:08 2017]  ClientBegin: 0
+[Wed Feb 22 19:00:40 2017]  ShutdownGame:
+[Wed Feb 22 19:00:40 2017]  ------------------------------------------------------------
+[Wed Feb 22 19:00:40 2017]  ------------------------------------------------------------
+[Wed Feb 22 19:00:40 2017]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Feb 22 19:00:40 2017]  ClientConnect: 0
+[Wed Feb 22 19:00:40 2017]  ClientBegin: 0
+[Wed Feb 22 19:08:44 2017]  ShutdownGame:
+[Wed Feb 22 19:08:44 2017]  ------------------------------------------------------------
+[Wed Feb 22 19:08:45 2017]  ------------------------------------------------------------
+[Wed Feb 22 19:08:45 2017]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Feb 22 19:08:45 2017]  ClientConnect: 0
+[Wed Feb 22 19:08:45 2017]  ClientBegin: 0
+[Wed Feb 22 19:14:02 2017]  ClientDisconnect: 0
+[Wed Feb 22 19:14:02 2017]  ClientDisconnect: 0
+[Wed Feb 22 19:14:02 2017]  ClientConnect: 0
+[Wed Feb 22 19:14:02 2017]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.56.1:29071 
+[Wed Feb 22 19:14:15 2017]  ClientBegin: 0
+[Wed Feb 22 19:16:11 2017]  ClientDisconnect: 0
+[Wed Feb 22 19:16:26 2017]  ClientConnect: 0
+[Wed Feb 22 19:16:26 2017]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.56.1:29071 
+[Wed Feb 22 19:16:55 2017]  ClientBegin: 0
+[Wed Feb 22 19:22:14 2017]  ClientDisconnect: 0
+[Wed Feb 22 23:04:38 2017]  ------------------------------------------------------------
+[Wed Feb 22 23:04:38 2017]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\999\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Feb 22 23:05:02 2017]  ClientConnect: 0
+[Wed Feb 22 23:05:02 2017]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.56.1:29071 
+[Wed Feb 22 23:05:29 2017]  ClientBegin: 0
+[Wed Feb 22 23:10:32 2017]  ClientDisconnect: 0
+[Thu Feb 23 16:46:46 2017]  ClientConnect: 0
+[Thu Feb 23 16:46:46 2017]  mlog:Player Redem, connected. With IP - 92.249.112.225:29070 
+[Thu Feb 23 16:47:19 2017]  ClientBegin: 0
+[Thu Feb 23 16:50:59 2017]  Item: 0 item_cloak
+[Thu Feb 23 16:50:59 2017]  Item: 0 ammo_detpack
+[Thu Feb 23 16:50:59 2017]  Item: 0 ammo_tripmine
+[Thu Feb 23 16:50:59 2017]  Item: 0 ammo_thermal
+[Thu Feb 23 16:50:59 2017]  Item: 0 item_medpac
+[Thu Feb 23 16:50:59 2017]  Item: 0 weapon_repeater
+[Thu Feb 23 16:50:59 2017]  Item: 0 weapon_flechette
+[Thu Feb 23 16:50:59 2017]  Item: 0 weapon_disruptor
+[Thu Feb 23 16:50:59 2017]  Item: 0 weapon_blaster
+[Thu Feb 23 16:50:59 2017]  Item: 0 item_medpac_big
+[Thu Feb 23 16:50:59 2017]  Item: 0 weapon_melee
+[Thu Feb 23 16:50:59 2017]  Item: 0 weapon_rocket_launcher
+[Thu Feb 23 16:50:59 2017]  Item: 0 weapon_concussion_rifle
+[Thu Feb 23 16:50:59 2017]  Item: 0 weapon_demp2
+[Thu Feb 23 16:50:59 2017]  Item: 0 item_eweb_holdable
+[Thu Feb 23 16:50:59 2017]  Item: 0 item_force_boon
+[Thu Feb 23 16:50:59 2017]  Item: 0 ammo_all
+[Thu Feb 23 16:50:59 2017]  Item: 0 ammo_all
+[Thu Feb 23 16:50:59 2017]  Item: 0 ammo_all
+[Thu Feb 23 16:50:59 2017]  Item: 0 ammo_all
+[Thu Feb 23 16:52:06 2017]  ClientConnect: 1
+[Thu Feb 23 16:52:06 2017]  mlog:Player apelsin[I], connected. With IP - 37.45.152.234:10834 
+[Thu Feb 23 16:53:04 2017]  ClientBegin: 1
+[Thu Feb 23 16:53:09 2017]  Kill: 1 1 39: starkiller killed starkiller by MOD_SUICIDE
+[Thu Feb 23 16:53:09 2017]  setteam:  1 FREE SPECTATOR
+[Thu Feb 23 16:53:09 2017]  ClientBegin: 1
+[Thu Feb 23 16:53:15 2017]  print "starkiller^7 @@@PLRENAME apelsin[I]
+"[Thu Feb 23 16:53:20 2017]  say: apelsin[I]: hi/привет/witaj
+[Thu Feb 23 16:53:22 2017]  say: Redem: Hello there
+[Thu Feb 23 16:53:38 2017]  setteam:  1 SPECTATOR FREE
+[Thu Feb 23 16:53:38 2017]  ClientBegin: 1
+[Thu Feb 23 16:55:51 2017]  ClientDisconnect: 1
+[Thu Feb 23 16:55:57 2017]  ClientDisconnect: 0
+[Thu Feb 23 16:55:57 2017]  ClientConnect: 0
+[Thu Feb 23 16:55:57 2017]  mlog:Player Redem, connected. With IP - 92.249.112.225:29070 
+[Thu Feb 23 16:56:29 2017]  ClientBegin: 0
+[Thu Feb 23 16:57:30 2017]  Item: 0 item_cloak
+[Thu Feb 23 16:57:30 2017]  Item: 0 ammo_detpack
+[Thu Feb 23 16:57:30 2017]  Item: 0 ammo_tripmine
+[Thu Feb 23 16:57:30 2017]  Item: 0 ammo_thermal
+[Thu Feb 23 16:57:30 2017]  Item: 0 item_medpac
+[Thu Feb 23 16:57:30 2017]  Item: 0 weapon_repeater
+[Thu Feb 23 16:57:30 2017]  Item: 0 weapon_flechette
+[Thu Feb 23 16:57:30 2017]  Item: 0 weapon_disruptor
+[Thu Feb 23 16:57:30 2017]  Item: 0 weapon_blaster
+[Thu Feb 23 16:57:30 2017]  Item: 0 item_medpac_big
+[Thu Feb 23 16:57:30 2017]  Item: 0 weapon_melee
+[Thu Feb 23 16:57:30 2017]  Item: 0 weapon_rocket_launcher
+[Thu Feb 23 16:57:30 2017]  Item: 0 weapon_concussion_rifle
+[Thu Feb 23 16:57:30 2017]  Item: 0 weapon_demp2
+[Thu Feb 23 16:57:30 2017]  Item: 0 item_eweb_holdable
+[Thu Feb 23 16:57:30 2017]  Item: 0 item_force_boon
+[Thu Feb 23 16:57:30 2017]  Item: 0 ammo_all
+[Thu Feb 23 16:57:30 2017]  Item: 0 ammo_all
+[Thu Feb 23 16:57:30 2017]  Item: 0 ammo_all
+[Thu Feb 23 16:57:30 2017]  Item: 0 ammo_all
+[Thu Feb 23 17:08:51 2017]  ClientDisconnect: 0
+[Fri Feb 24 08:17:51 2017]  ClientConnect: 0
+[Fri Feb 24 08:17:51 2017]  mlog:Player Padawan, connected. With IP - 31.28.116.167:29070 
+[Fri Feb 24 08:18:32 2017]  ClientBegin: 0
+[Fri Feb 24 08:20:03 2017]  ClientDisconnect: 0
+[Fri Feb 24 08:23:38 2017]  ClientConnect: 0
+[Fri Feb 24 08:23:38 2017]  mlog:Player sed, connected. With IP - 31.28.116.167:29070 
+[Fri Feb 24 08:24:08 2017]  ClientBegin: 0
+[Fri Feb 24 08:26:13 2017]  ClientDisconnect: 0
+[Fri Feb 24 08:30:58 2017]  ClientConnect: 0
+[Fri Feb 24 08:30:58 2017]  mlog:Player sed, connected. With IP - 31.28.116.167:29070 
+[Fri Feb 24 08:31:30 2017]  ClientBegin: 0
+[Fri Feb 24 08:35:44 2017]  ClientDisconnect: 0
+[Fri Feb 24 08:38:28 2017]  ClientConnect: 0
+[Fri Feb 24 08:38:28 2017]  mlog:Player sed, connected. With IP - 31.28.116.167:29070 
+[Fri Feb 24 08:39:00 2017]  ClientBegin: 0
+[Fri Feb 24 08:39:12 2017]  ClientConnect: 1
+[Fri Feb 24 08:39:12 2017]  mlog:Player ^0-^3[^5Plut^10^7N^3]^0-, connected. With IP - 109.165.48.71:29070 
+[Fri Feb 24 08:39:44 2017]  ClientBegin: 1
+[Fri Feb 24 08:40:05 2017]  say: sed: привет
+[Fri Feb 24 08:40:13 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Привет
+[Fri Feb 24 08:40:48 2017]  say: sed: я уж было подумал, что мейкермод и впрямь поднимется снова
+[Fri Feb 24 08:41:14 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Нет
+[Fri Feb 24 08:41:26 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Сейчас все в основном играют на ja+
+[Fri Feb 24 08:42:23 2017]  say: sed: заменил эффект взрыва ракетницы
+[Fri Feb 24 08:42:29 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 08:42:38 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^3^5Nevol^5^3ya^5shka ^5Vse^3g^5da ^5Pobe^3zh^5daet
+[Fri Feb 24 08:42:43 2017]  ClientDisconnect: 1
+[Fri Feb 24 08:43:51 2017]  ClientConnect: 1
+[Fri Feb 24 08:43:51 2017]  mlog:Player ^5Pluton, connected. With IP - 109.165.48.71:29070 
+[Fri Feb 24 08:44:32 2017]  ClientBegin: 1
+[Fri Feb 24 08:44:50 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Не надо было отдавать комп своему брату
+[Fri Feb 24 08:45:03 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Херни разной набиндил
+[Fri Feb 24 08:45:04 2017]  say: sed: что произошло?)
+[Fri Feb 24 08:45:07 2017]  say: sed: а
+[Fri Feb 24 08:47:02 2017]  Item: 0 ammo_all
+[Fri Feb 24 08:47:32 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 08:48:13 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 08:49:00 2017]  say: sed: недавно обнаружил любопытную команду
+[Fri Feb 24 08:49:11 2017]  say: sed: /cg_repeaterOrb 1
+[Fri Feb 24 08:49:27 2017]  say: sed: заменяет альт-атаку у пулемета
+[Fri Feb 24 08:49:52 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Продемонстрировать можешь?
+[Fri Feb 24 08:50:20 2017]  say: sed: эффект заменяется лишь визуально и на уровне клиента
+[Fri Feb 24 08:50:56 2017]  say: sed: так-то такая замена не выглядит уж слишком впечатлающе
+[Fri Feb 24 08:51:23 2017]  say: sed: светящийся шар превращается в менее светящийся пузырь
+[Fri Feb 24 08:53:55 2017]  say: sed: интересно... форму пузыря принимает снаряд, но не эффект
+[Fri Feb 24 08:54:18 2017]  say: sed: ты ввел команду эту?)
+[Fri Feb 24 08:54:30 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Нет
+[Fri Feb 24 08:56:35 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: вау
+[Fri Feb 24 08:56:43 2017]  say: sed: ага
+[Fri Feb 24 08:56:45 2017]  say: sed: пузырь)
+[Fri Feb 24 08:56:50 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Впечетлающе
+[Fri Feb 24 08:58:52 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 08:59:09 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 08:59:56 2017]  Kill: 0 0 27: sed killed sed by MOD_DET_PACK_SPLASH
+[Fri Feb 24 08:59:58 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 09:01:04 2017]  Kill: 0 1 28: sed killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_VEHICLE
+[Fri Feb 24 09:01:06 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 09:01:57 2017]  say: sed: хаха
+[Fri Feb 24 09:02:02 2017]  say: sed: интересно ремапнули дверь
+[Fri Feb 24 09:02:17 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 09:03:02 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: А ты помнишь как заспавнить истреитель7
+[Fri Feb 24 09:03:22 2017]  say: sed: /npc spawn vehicle tie-fighter
+[Fri Feb 24 09:03:25 2017]  say: sed: или x-wing
+[Fri Feb 24 09:03:29 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: А
+[Fri Feb 24 09:03:30 2017]  say: sed: ой
+[Fri Feb 24 09:03:34 2017]  say: sed: ха
+[Fri Feb 24 09:03:36 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Спасибо
+[Fri Feb 24 09:04:15 2017]  say: sed: :D
+[Fri Feb 24 09:04:23 2017]  Kill: 1022 0 39: <world> killed sed by MOD_SUICIDE
+[Fri Feb 24 09:04:25 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 09:04:30 2017]  say: sed: ахах)
+[Fri Feb 24 09:05:06 2017]  say: sed: я к тебе сел)
+[Fri Feb 24 09:05:08 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 09:05:13 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Знаю
+[Fri Feb 24 09:05:20 2017]  say: sed: не убей нас обоих)
+[Fri Feb 24 09:05:31 2017]  Kill: 1022 0 6: <world> killed sed by MOD_BLASTER
+[Fri Feb 24 09:05:36 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Прости
+[Fri Feb 24 09:05:39 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Залагл
+[Fri Feb 24 09:05:42 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: :(
+[Fri Feb 24 09:05:44 2017]  say: sed: ну конечно)
+[Fri Feb 24 09:05:52 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Серьезно
+[Fri Feb 24 09:06:29 2017]  Kill: 1022 1 2: <world> killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_MELEE
+[Fri Feb 24 09:06:53 2017]  Kill: 1022 0 2: <world> killed sed by MOD_MELEE
+[Fri Feb 24 09:06:55 2017]  say: sed: :D
+[Fri Feb 24 09:06:58 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 09:07:11 2017]  Kill: 1 0 28: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP killed sed by MOD_VEHICLE
+[Fri Feb 24 09:07:24 2017]  Kill: 1 0 28: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP killed sed by MOD_VEHICLE
+[Fri Feb 24 09:07:36 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Это как?
+[Fri Feb 24 09:07:48 2017]  say: sed: ты оставил бомбы в небе)
+[Fri Feb 24 09:07:50 2017]  Kill: 1022 0 39: <world> killed sed by MOD_SUICIDE
+[Fri Feb 24 09:07:57 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Смотри
+[Fri Feb 24 09:08:07 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: БЛИН
+[Fri Feb 24 09:08:13 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Отойди
+[Fri Feb 24 09:08:55 2017]  say: sed: хаха)
+[Fri Feb 24 09:08:56 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 09:10:14 2017]  say: sed: ноклип вовремя врубил
+[Fri Feb 24 09:10:17 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 09:10:19 2017]  say: sed: так бы опять сдох
+[Fri Feb 24 09:10:22 2017]  Kill: 1022 0 39: <world> killed sed by MOD_SUICIDE
+[Fri Feb 24 09:10:50 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Шедоу постарался над этой картой
+[Fri Feb 24 09:10:59 2017]  say: sed: да уж
+[Fri Feb 24 09:11:05 2017]  say: sed: у него талант
+[Fri Feb 24 09:11:12 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Ябыл  с ним знаком когдато
+[Fri Feb 24 09:11:23 2017]  say: sed: а я и сейчас знаком)
+[Fri Feb 24 09:11:24 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Но я ужедавноего не видел
+[Fri Feb 24 09:11:39 2017]  say: sed: ну, у него немного поменялись интересы
+[Fri Feb 24 09:11:51 2017]  say: sed: он говорил, что джа поднадоела
+[Fri Feb 24 09:12:09 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Она быстро надоедает
+[Fri Feb 24 09:12:17 2017]  say: sed: я бы не сказал)
+[Fri Feb 24 09:12:25 2017]  say: sed: я в нее довольно долго играл)
+[Fri Feb 24 09:12:31 2017]  say: sed: и сейчас периодически захожу
+[Fri Feb 24 09:12:37 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Я где-тогод безпрерывно в нее играл
+[Fri Feb 24 09:12:51 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Потом забросил
+[Fri Feb 24 09:13:07 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Особенно на макере играл
+[Fri Feb 24 09:13:53 2017]  say: sed: в какой еще игре можно сесть на бутылку, кроме как не в джа?)
+[Fri Feb 24 09:14:00 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 09:14:14 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Для архива заскринил
+[Fri Feb 24 09:15:42 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Помню даже домики делал 
+[Fri Feb 24 09:15:48 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: славное было время
+[Fri Feb 24 09:16:06 2017]  say: sed: а я больше заморачивался за боевые скрипты)
+[Fri Feb 24 09:16:07 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Даже скрины остались еще
+[Fri Feb 24 09:16:29 2017]  say: sed: типа телепорт)
+[Fri Feb 24 09:16:33 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Я над домами заморачивался
+[Fri Feb 24 09:16:37 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Скрипты делал
+[Fri Feb 24 09:17:20 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Но когда перешл на ноутбук я продал комп а перед этим перекинул и удалил всю инфу там но забыл про скрипты
+[Fri Feb 24 09:17:36 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Апотом былолень их заново делать
+[Fri Feb 24 09:18:03 2017]  say: sed: у меня похожая ситуация была
+[Fri Feb 24 09:18:14 2017]  say: sed: только у меня не было достаточно крутых скриптов
+[Fri Feb 24 09:18:24 2017]  say: sed: поэтому не жалею об утрате)
+[Fri Feb 24 09:18:53 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Может домики поделаем?
+[Fri Feb 24 09:18:56 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: )
+[Fri Feb 24 09:19:19 2017]  say: sed: сейчас не особо хочется)
+[Fri Feb 24 09:19:35 2017]  say: sed: творческие силы потрачены на эффект ракетницы
+[Fri Feb 24 09:20:01 2017]  Kill: 1 1 27: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP killed ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP by MOD_DET_PACK_SPLASH
+[Fri Feb 24 09:20:04 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 09:21:22 2017]  say: sed: видел бы ты, что у меня стоит вместо винтовки е-11
+[Fri Feb 24 09:21:41 2017]  say: sed: типа лук
+[Fri Feb 24 09:21:54 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: скрипт?
+[Fri Feb 24 09:21:57 2017]  say: sed: и стреляет фиолетовыми стрелами
+[Fri Feb 24 09:22:10 2017]  say: sed: нет, просто заменена модель
+[Fri Feb 24 09:22:13 2017]  say: sed: на уровне клиента
+[Fri Feb 24 09:22:17 2017]  say: sed: поэтому ты не видишь
+[Fri Feb 24 09:22:31 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Ну это ясное дело
+[Fri Feb 24 09:22:56 2017]  say: sed: скачал какую-то сборку с моделями из world of warcraft
+[Fri Feb 24 09:23:14 2017]  say: sed: видимо, эта хренотень вместо бластера в комплекте шла
+[Fri Feb 24 09:25:48 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: А ты непомнишь как спавнить какую либо вещь?
+[Fri Feb 24 09:25:56 2017]  say: sed: /mplace
+[Fri Feb 24 09:26:02 2017]  say: sed: /mlist
+[Fri Feb 24 09:26:23 2017]  say: sed: ну, это я пишу команды, которые помню)
+[Fri Feb 24 09:26:30 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Cgfcb,j
+[Fri Feb 24 09:26:34 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Спасибо0
+[Fri Feb 24 09:26:36 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: )
+[Fri Feb 24 09:26:43 2017]  say: sed: /mdrop
+[Fri Feb 24 09:29:44 2017]  say: sed: чет я и забыл, что цвет меча можно через консоль менять
+[Fri Feb 24 09:32:32 2017]  say: sed: новая ката в джа)
+[Fri Feb 24 09:32:38 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Помнб даже ''програмировал' вещи на телепорт
+[Fri Feb 24 09:32:47 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Но не помню уже команды
+[Fri Feb 24 09:32:52 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: :(
+[Fri Feb 24 09:32:55 2017]  say: sed: /mtelesw вроде
+[Fri Feb 24 09:33:11 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Tам еще какие-то 2 команды были
+[Fri Feb 24 09:33:20 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: А /mprintsw
+[Fri Feb 24 09:33:27 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Tексты 
+[Fri Feb 24 09:33:27 2017]  say: sed: это текст
+[Fri Feb 24 09:33:29 2017]  say: sed: да
+[Fri Feb 24 09:33:37 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Но еще одна была
+[Fri Feb 24 09:33:53 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Точка телепорта
+[Fri Feb 24 09:37:08 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: /mdest
+[Fri Feb 24 09:37:18 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Вспомнил
+[Fri Feb 24 09:37:51 2017]  say: sed: во
+[Fri Feb 24 09:39:03 2017]  say: sed: /musable
+[Fri Feb 24 09:39:16 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Точно
+[Fri Feb 24 09:39:51 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Ровно?
+[Fri Feb 24 09:40:03 2017]  say: sed: достаточно ровно)
+[Fri Feb 24 09:40:37 2017]  say: sed: вообще, правильные пацаны размещают объекты через координаты)
+[Fri Feb 24 09:40:59 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: А я не нормальный
+[Fri Feb 24 09:41:01 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ^7:D
+[Fri Feb 24 09:41:03 2017]  print "^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP^7 @@@PLRENAME ^2xD
+"[Fri Feb 24 09:41:21 2017]  print "^2xD^7 @@@PLRENAME ^5Pluton
+"[Fri Feb 24 09:42:24 2017]  say: ^5Pluton: /musable  /mdest /mtelesw /mprintsw
+[Fri Feb 24 09:42:35 2017]  say: ^5Pluton: Для архива
+[Fri Feb 24 09:42:37 2017]  print "^5Pluton^7 @@@PLRENAME ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP
+"[Fri Feb 24 09:42:52 2017]  say: sed: о каком архиве речь?)
+[Fri Feb 24 09:43:07 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: О моем
+[Fri Feb 24 09:43:11 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: Чтобы не забыть
+[Fri Feb 24 09:43:21 2017]  print "^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP^7 @@@PLRENAME ^2xD
+"[Fri Feb 24 09:44:16 2017]  say: sed: о, я знаю, какой скрипт сейчас сделаю
+[Fri Feb 24 09:44:33 2017]  say: sed: надеюсь, много времени это не займет
+[Fri Feb 24 09:45:02 2017]  Kill: 1022 1 39: <world> killed ^2xD by MOD_SUICIDE
+[Fri Feb 24 09:45:06 2017]  print "^2xD^7 @@@PLRENAME ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP
+"[Fri Feb 24 09:45:44 2017]  say: ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP: ..
+[Fri Feb 24 09:45:48 2017]  print "^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP^7 @@@PLRENAME ^2xD
+"[Fri Feb 24 09:45:53 2017]  print "^2xD^7 @@@PLRENAME ^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP
+"[Fri Feb 24 09:46:02 2017]  print "^3[^5KOTR^3|^5Pluton^3|^5JK^3|^5SP^7 @@@PLRENAME ^1Mephistovel
+"[Fri Feb 24 09:46:22 2017]  print "^1Mephistovel^7 @@@PLRENAME GUS
+"[Fri Feb 24 09:46:43 2017]  print "GUS^7 @@@PLRENAME ^2xD
+"[Fri Feb 24 09:49:31 2017]  say: sed: сделал)
+[Fri Feb 24 09:49:56 2017]  say: sed: смотри)
+[Fri Feb 24 09:50:09 2017]  say: ^2xD: Красиво выглядит
+[Fri Feb 24 09:50:35 2017]  say: sed: просто меняю цвет меча через скрипт)
+[Fri Feb 24 09:51:18 2017]  Kill: 1 1 39: ^2xD killed ^2xD by MOD_SUICIDE
+[Fri Feb 24 09:53:40 2017]  say: sed: типа безумный доктор?)
+[Fri Feb 24 09:53:50 2017]  say: ^2xD: Типо того
+[Fri Feb 24 09:54:06 2017]  say: ^2xD: И заметь одна камера пуста
+[Fri Feb 24 09:54:28 2017]  say: sed: образец выбрался на волю?)
+[Fri Feb 24 09:54:38 2017]  say: ^2xD: Нет
+[Fri Feb 24 09:54:54 2017]  say: ^2xD: Нажми на пульт управления
+[Fri Feb 24 09:55:07 2017]  say: ^2xD: Усе
+[Fri Feb 24 09:55:11 2017]  say: ^2xD: Сиди
+[Fri Feb 24 09:55:11 2017]  say: sed: это было обидно
+[Fri Feb 24 09:55:14 2017]  say: ^2xD: ^7:D
+[Fri Feb 24 09:55:23 2017]  say: ^2xD: Но это не для тебя
+[Fri Feb 24 09:55:47 2017]  say: sed: но я все-таки здесь)
+[Fri Feb 24 09:55:58 2017]  say: sed: ха
+[Fri Feb 24 09:56:13 2017]  say: sed: фраза ''из пробирки'' приобретает новый смысл
+[Fri Feb 24 09:57:27 2017]  say: ^2xD: Так лучше по моему
+[Fri Feb 24 09:57:53 2017]  say: sed: текстуры мелькают
+[Fri Feb 24 09:59:21 2017]  say: sed: а эта надпись при попадании в камеру написана транслитом потому, что транслитом пишет только элита?)
+[Fri Feb 24 09:59:30 2017]  say: ^2xD: ^7:D
+[Fri Feb 24 09:59:47 2017]  say: sed: ну, типа можно и кириллицей написать)
+[Fri Feb 24 10:00:19 2017]  say: sed: ахах
+[Fri Feb 24 10:00:22 2017]  say: ^2xD: Когда я пытаюсь написать кириллицей просто ничего не высвечивается
+[Fri Feb 24 10:00:28 2017]  say: sed: я бы не додумался так заремапить джав)
+[Fri Feb 24 10:00:55 2017]  say: sed: сейчас попробуем
+[Fri Feb 24 10:01:42 2017]  say: sed: у меня получилось
+[Fri Feb 24 10:01:50 2017]  say: sed: встань на платформу
+[Fri Feb 24 10:02:00 2017]  say: ^2xD: ^7:D
+[Fri Feb 24 10:02:10 2017]  say: sed: надо после каждого слова ставить цвет
+[Fri Feb 24 10:02:37 2017]  say: sed: ^^22ты - ^^22подопытная ^^22крыса
+[Fri Feb 24 10:03:23 2017]  Kill: 0 1 37: sed killed ^2xD by MOD_TELEFRAG
+[Fri Feb 24 10:03:24 2017]  say: ^2xD: ^7:D
+[Fri Feb 24 10:04:14 2017]  print "^2xD^7 @@@PLRENAME ^3^2:3
+"[Fri Feb 24 10:04:14 2017]  say: sed: это что-то относительно старое)
+[Fri Feb 24 10:04:18 2017]  say: ^3^2:3: ^7:D
+[Fri Feb 24 10:04:47 2017]  say: sed: это я пытался шипы из под земли сделать
+[Fri Feb 24 10:04:52 2017]  say: ^3^2:3: ^7:D
+[Fri Feb 24 10:04:57 2017]  say: sed: но работает оно коряво
+[Fri Feb 24 10:05:07 2017]  say: sed: пинг влияет на это
+[Fri Feb 24 10:07:41 2017]  say: sed: пойду хавать еду
+[Fri Feb 24 10:07:50 2017]  say: sed: возможно, еще зайду на сервер
+[Fri Feb 24 10:07:55 2017]  say: sed: пока)
+[Fri Feb 24 10:07:59 2017]  say: ^3^2:3: Давай)\
+[Fri Feb 24 10:08:00 2017]  ClientDisconnect: 0
+[Fri Feb 24 10:08:26 2017]  Kill: 1 1 39: ^3^2:3 killed ^3^2:3 by MOD_SUICIDE
+[Fri Feb 24 10:08:35 2017]  ClientDisconnect: 1

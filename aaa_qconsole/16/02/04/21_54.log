@@ -1,0 +1,1109 @@
+logfile opened on Thu Feb 04 19:55:43 2016
+
+...detecting CPU, found AMD w/ 3DNow!
+--- Common Initialization Complete ---
+Winsock Initialized
+Opening IP socket: localhost:29070
+Hostname: Mars
+IP: 10.48.22.3
+IP: 192.168.1.2
+Working directory: E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData
+execing makermod.cfg
+running_makermod.cfg 
+sv_cheats is read only.
+------ Server Initialization ------
+Server: t2_trip
+Current search path:
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\zzzz_MakerModule_ClientPlugin_v061a_Public.pk3 (2 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\tmuconsole.pk3 (8 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\the_academy_v3.pk3 (121 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\subway.pk3 (15 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\sithcouncilv2.pk3 (285 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\s3_cloneblaster.pk3 (45 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\makerparav1.pk3 (15 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod Serverside v1.3b.pk3 (1 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod In-game menu.pk3 (14 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod Client Plugin.pk3 (2 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\hoverboard_if_extras.pk3 (4 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\hoverboard_if.pk3 (69 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\BlueIce Twilight.pk3 (159 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\BlueIce Nightfall.pk3 (248 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\bloodPLUS3.1.pk3 (169 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\bloodPLUS1.5.pk3 (132 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData/makermod
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\veh_dlls.pk3 (3 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\sjc_kashyyyk.pk3 (82 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\sithcouncilv2.pk3 (285 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\Makermod In-game menu Base.pk3 (9 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\Jedi'sHomeJL_II.pk3 (120 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\japlus_gla_anims.pk3 (6 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets3.pk3 (16 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets2.pk3 (62 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets1.pk3 (8320 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets0.pk3 (15346 files)
+E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData/base
+
+handle 1: qconsole.log
+----------------------
+51076 files in pk3 files
+Loading dll file jampgame.
+ ------- Installing Engine Patches -------- 
+Finished
+------- Game Initialization -------
+gamename: MakerMod
+gameversion: 1.3beta
+gamedate: Dec 27 2010
+MakerMod is written to celebrate our ability
+to learn to make things that improve our lives
+and the life of the species as a whole.
+------------------------------------------------------------
+InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+Loading map objects for t2_trip
+Loaded 326 objects.
+^3Bot route data not found for t2_trip
+execing remaps/general
+Shader Remap: models/map_objects/desert/view_panel_screen_desert ^3-> ^7textures/video/raven
+Shader Remap: models/players/jawa/jawa ^3-> ^7textures/video/raven
+Shader Remap: textures/factory/cat_floor_B ^3-> ^7models/map_objects/factory/glass
+Shader Remap: textures/factory/basic2_Tiled_b ^3-> ^7textures/rbettenbergtest/glass2
+Shader Remap: console ^3-> ^7textures/kejim/stars_scroll
+Shader Remap: gfx/mp/chat_icon ^3-> ^7gfx/effects/stunpass
+Shader Remap: gfx/misc/csparks ^3-> ^7gfx/effects/greenfrontflash
+Shader Remap: gfx/effects/sabers/saberblur ^3-> ^7gfx/effects/fire4
+Shader Remap: gfx/effects/forcepush ^3-> ^7gfx/effects/flamejet
+Shader Remap: models/players/reborn_twin/torso ^3-> ^7gfx/effects/jet3
+Shader Remap: models/players/reborn_twin/head ^3-> ^7gfx/effects/fire4
+Shader Remap: models/players/reborn_twin/legs ^3-> ^7gfx/effects/jet3
+Shader Remap: models/players/reborn_twin/hands ^3-> ^7gfx/effects/jet3
+Shader Remap: models/players/reborn_twin/arms ^3-> ^7gfx/effects/jet3
+Shader Remap: models/players/reborn_twin/icon_default ^3-> ^7gfx/effects/jet4
+Shader Remap: models/players/alora2/alora2_head ^3-> ^7textures/danger/monitor
+Shader Remap: models/players/alora2/icon_default ^3-> ^7textures/danger/monitor
+Shader Remap: models/players/alora2/alora2_torso ^3-> ^7textures/danger/monitor
+Shader Remap: models/players/alora2/alora2_legs ^3-> ^7textures/danger/monitor
+Shader Remap: models/players/alora2/alora2_torso_arms ^3-> ^7textures/danger/monitor
+Shader Remap: models/players/alora2/alora2_torso_hands ^3-> ^7gfx/effects/stunpass
+Shader Remap: models/players/alora2/alora2_tentacles ^3-> ^7gfx/effects/stunpass
+Shader Remap: models/map_objects/factory/f_con1 ^3-> ^7textures/rift/carvedwall
+Shader Remap: models/map_objects/factory/f_con2 ^3-> ^7textures/rift/carvedwall
+Shader Remap: models/map_objects/factory/f_con1_screen ^3-> ^7textures/doomgiver/comm_panel2
+Shader Remap: models/map_objects/factory/f_con2_screen ^3-> ^7textures/doomgiver/comm_panel2
+execing remaps/trip
+Shader Remap: textures/skies/taspir1 ^3-> ^7textures/skies/byss
+Shader Remap: textures/quicktrip/desert_0 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/desert_1 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/desert_1to2 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/desert_2 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/desert_0to1 ^3-> ^7models/map_objects/yavin/ymix
+Shader Remap: textures/quicktrip/modern_qt_floor ^3-> ^7textures/yavin/obsidian_templebasic
+Shader Remap: textures/quicktrip/modern_qt_basestone ^3-> ^7textures/yavin/obsidian_templebasic2
+Shader Remap: textures/quicktrip/qt_Door_rough ^3-> ^7textures/kejim/stars_scroll
+Shader Remap: textures/quicktrip/qt_wall2_phong ^3-> ^7textures/vjun/floor3
+Shader Remap: textures/quicktrip/modern_qt_trim_top ^3-> ^7textures/quicktrip/qt_trim2
+Shader Remap: textures/quicktrip/qt_domebase ^3-> ^7textures/vjun/floor3
+Shader Remap: textures/quicktrip/new_qt_wall2_entrance ^3-> ^7textures/vjun/wall9
+Shader Remap: textures/quicktrip/pillar ^3-> ^7textures/vjun/walk_ceiling
+Shader Remap: textures/quicktrip/qt_pillarbase ^3-> ^7textures/vjun/wall8
+Shader Remap: textures/bounty/basic1_dark ^3-> ^7textures/vjun/wall9
+Shader Remap: textures/quicktrip/qt_stonefloor_phong ^3-> ^7textures/yavin/obsidian_templebasic
+Shader Remap: textures/quicktrip/qt_basestone_phong ^3-> ^7textures/yavin/obsidian_templebasic
+Cvar_Set2: logfile 1
+finishing_makermod.cfg 
+Cvar_Set2: net_port 29070
+Hitch warning: 684131986 msec frame time
+broadcast: print "Server: g_forceRegenTime changed to 0\n"
+broadcast: print "Server: timelimit changed to 0\n"
+Resolving masterjk3.ravensoft.com
+masterjk3.ravensoft.com resolved to 104.40.23.123:29060
+Sending heartbeat to masterjk3.ravensoft.com
+Resolving master.jkhub.org
+master.jkhub.org resolved to 46.105.85.237:29060
+Sending heartbeat to master.jkhub.org
+Resolving 162.213.223.155
+162.213.223.155 resolved to 162.213.223.155:29060
+Sending heartbeat to 162.213.223.155
+Hitch warning: 2606 msec frame time
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 212.253.239.179:29070 : getinfo
+SV packet 10.48.22.3:29071 : getinfo
+SV packet 10.48.22.3:29071 : getinfo
+SV packet 10.48.22.3:29071 : getinfo
+SV packet 10.48.22.3:29071 : getinfo
+SV packet 84.106.72.97:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 91.228.196.224:-21040 : getstatus
+SV packet 212.253.239.179:29070 : getinfo
+SV packet 89.166.56.251:-2557 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 190.21.156.117:29070 : getinfo
+SV packet 190.188.165.149:29070 : getinfo
+SV packet 46.59.248.248:29070 : getinfo
+SV packet 71.12.227.124:29070 : getinfo
+SV packet 46.59.248.248:29070 : getinfo
+SV packet 94.243.203.146:29070 : getinfo
+SV packet 91.228.196.224:-14223 : getstatus
+SV packet 190.188.165.149:29070 : getinfo
+SV packet 173.192.122.242:-31880 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 89.166.56.251:-2557 : getinfo
+SV packet 94.120.218.125:29070 : getinfo
+SV packet 212.253.239.179:29070 : getinfo
+SV packet 83.153.166.249:29070 : getinfo
+SV packet 78.173.56.204:29070 : getinfo
+SV packet 91.228.196.224:-21002 : getstatus
+SV packet 94.120.218.125:29070 : getinfo
+SV packet 37.152.18.178:17867 : getinfo
+SV packet 78.173.56.204:29070 : getinfo
+SV packet 78.173.56.204:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 78.173.56.204:29070 : getinfo
+SV packet 94.120.218.125:29070 : getinfo
+SV packet 89.166.56.251:-2557 : getinfo
+SV packet 95.31.32.83:29070 : getinfo
+SV packet 212.253.239.179:29070 : getinfo
+SV packet 83.153.166.249:29070 : getinfo
+SV packet 91.228.196.224:-26571 : getstatus
+SV packet 94.120.218.125:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 94.120.218.125:29070 : getinfo
+SV packet 89.78.163.132:29071 : getinfo
+SV packet 95.31.32.83:29070 : getinfo
+SV packet 185.7.199.7:29060 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 91.228.196.224:-7471 : getstatus
+SV packet 84.57.94.119:29258 : getinfo
+SV packet 84.57.94.119:29258 : getinfo
+SV packet 94.120.218.125:29070 : getinfo
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 4.30.115.102:-32041 : getinfo
+SV packet 83.28.19.70:29070 : getinfo
+SV packet 188.137.84.127:-29550 : getinfo
+SV packet 91.228.196.224:-16819 : getstatus
+SV packet 4.30.115.102:30206 : getinfo
+SV packet 190.188.165.149:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 46.237.57.226:29070 : getinfo
+SV packet 88.212.43.14:29070 : getinfo
+SV packet 37.152.18.178:31682 : getinfo
+SV packet 37.152.18.178:31682 : getinfo
+SV packet 88.212.43.14:29070 : getinfo
+SV packet 46.237.57.226:29070 : getinfo
+SV packet 91.228.196.224:-30683 : getstatus
+SV packet 142.129.120.248:29070 : getinfo
+SV packet 109.98.165.106:21794 : getinfo
+SV packet 46.237.57.226:29070 : getinfo
+SV packet 46.237.57.226:29070 : getinfo
+SV packet 173.192.122.242:-22564 : getstatus
+SV packet 181.14.168.165:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 86.167.229.58:29070 : getinfo
+SV packet 86.167.229.58:29070 : getinfo
+SV packet 188.234.225.4:29070 : getinfo
+SV packet 86.167.229.58:29070 : getinfo
+SV packet 86.167.229.58:29070 : getinfo
+SV packet 77.251.1.22:29070 : getinfo
+SV packet 91.228.196.224:-9612 : getstatus
+SV packet 86.167.229.58:29070 : getinfo
+SV packet 80.110.98.179:-31480 : getinfo
+SV packet 86.167.229.58:29070 : getinfo
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 86.167.229.58:29070 : getinfo
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 86.167.229.58:29070 : getinfo
+SV packet 91.228.196.224:-10832 : getstatus
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 88.242.187.96:29516 : getinfo
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 213.24.134.93:17868 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 109.127.152.187:-4003 : getinfo
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 91.228.196.224:-29645 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 87.117.190.67:29570 : getinfo
+SV packet 188.36.128.53:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 85.159.227.6:-12313 : getinfo
+SV packet 87.117.190.67:29618 : getinfo
+SV packet 83.145.147.197:29070 : getinfo
+SV packet 91.228.196.224:-26698 : getstatus
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 181.230.178.21:29070 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 93.85.53.38:-29757 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 86.167.229.58:29070 : getinfo
+SV packet 91.228.196.224:-30364 : getstatus
+SV packet 86.167.229.58:29070 : getinfo
+SV packet 190.246.223.158:29070 : getinfo
+SV packet 46.237.57.226:29070 : getinfo
+SV packet 46.237.57.226:29070 : getinfo
+SV packet 190.246.223.158:29070 : getstatus
+SV packet 173.192.122.242:-6801 : getstatus
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 190.246.223.158:29070 : getinfo
+SV packet 95.82.135.129:-17962 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 62.141.236.158:29070 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 62.141.236.158:29070 : getinfo
+SV packet 62.141.236.158:29070 : getinfo
+SV packet 95.82.135.129:-17962 : getinfo
+SV packet 93.171.55.227:29070 : getinfo
+SV packet 85.179.86.144:29070 : getinfo
+SV packet 67.183.130.160:29070 : getinfo
+SV packet 85.179.86.144:29070 : getinfo
+SV packet 88.242.187.96:29516 : getinfo
+SV packet 200.82.43.187:29070 : getinfo
+SV packet 91.228.196.224:-15068 : getstatus
+SV packet 200.82.43.187:29070 : getinfo
+SV packet 2.103.58.224:-932 : getinfo
+SV packet 200.82.43.187:29070 : getinfo
+SV packet 88.242.187.96:29516 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 200.82.43.187:29070 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 91.228.196.224:-25198 : getstatus
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 5.12.192.222:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 91.228.196.224:-31032 : getstatus
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 88.91.45.66:29070 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 91.228.196.224:-31361 : getstatus
+SV packet 151.250.15.149:1024 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 83.28.19.70:29070 : getinfo
+SV packet 151.250.15.149:1024 : getinfo
+SV packet 5.15.109.165:29070 : getinfo
+SV packet 5.15.109.165:29070 : getinfo
+SV packet 151.250.15.149:1024 : getinfo
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 91.228.196.224:-30639 : getstatus
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 5.15.109.165:29070 : getinfo
+SV packet 91.18.198.72:-1542 : getinfo
+SV packet 83.28.19.70:29070 : getinfo
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 5.15.109.165:29070 : getinfo
+SV packet 173.192.122.242:-8380 : getstatus
+SV packet 83.28.19.70:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 31.151.65.3:29070 : getinfo
+SV packet 89.67.2.137:29070 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 91.228.196.224:-22351 : getstatus
+SV packet 88.91.45.66:29070 : getinfo
+SV packet 85.196.118.9:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 173.63.143.236:29070 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 91.228.196.224:-11196 : getstatus
+SV packet 178.157.207.11:29070 : getinfo
+SV packet 83.28.19.70:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 85.166.197.222:29070 : getstatus
+SV packet 88.91.45.66:29070 : getinfo
+SV packet 85.166.197.222:29070 : getinfo
+SV packet 85.196.118.9:29070 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 91.228.196.224:-11049 : getstatus
+SV packet 190.246.223.158:29070 : getinfo
+SV packet 86.59.193.218:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 176.109.8.65:29070 : getinfo
+SV packet 4.30.115.102:-24806 : getinfo
+SV packet 190.246.223.158:29070 : getinfo
+SV packet 75.81.43.105:29070 : getinfo
+SV packet 190.246.223.158:29070 : getinfo
+SV packet 85.166.197.222:29070 : getinfo
+SV packet 75.81.43.105:29070 : getinfo
+SV packet 75.81.43.105:29070 : getinfo
+SV packet 181.230.178.21:29070 : getinfo
+SV packet 91.228.196.224:-20536 : getstatus
+SV packet 88.212.43.14:29070 : getinfo
+SV packet 181.230.178.21:29070 : getinfo
+SV packet 85.166.197.222:29070 : getstatus
+SV packet 4.30.115.102:-12657 : getinfo
+SV packet 88.91.45.66:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 85.196.118.9:29070 : getinfo
+SV packet 24.136.86.8:29070 : getinfo
+SV packet 5.136.72.47:29070 : getinfo
+SV packet 198.109.220.2:-337 : getinfo
+SV packet 178.37.225.165:29070 : getinfo
+SV packet 94.21.35.195:29070 : getinfo
+SV packet 91.228.196.224:-15904 : getstatus
+SV packet 37.32.150.51:29070 : getinfo
+SV packet 88.91.45.66:29070 : getinfo
+SV packet 173.192.122.242:-15817 : getstatus
+SV packet 85.196.118.9:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 88.100.182.188:29070 : getinfo
+SV packet 84.208.85.77:29070 : getinfo
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 88.91.45.66:29070 : getinfo
+SV packet 181.230.178.21:29070 : getinfo
+SV packet 85.166.197.222:29070 : getstatus
+SV packet 91.228.196.224:-19228 : getstatus
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 178.157.207.11:29070 : getinfo
+SV packet 88.91.45.66:29070 : getinfo
+SV packet 95.208.250.18:-8346 : getinfo
+SV packet 84.208.85.77:29070 : getinfo
+SV packet 91.228.196.224:-20247 : getstatus
+SV packet 89.67.2.137:29070 : getinfo
+SV packet 98.167.20.13:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 178.206.224.15:-7499 : getinfo
+SV packet 94.140.230.16:29070 : getinfo
+SV packet 85.196.74.158:29070 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 85.166.197.222:29070 : getinfo
+SV packet 91.228.196.224:-5541 : getstatus
+SV packet 178.248.203.145:29070 : getinfo
+SV packet 85.166.197.222:29070 : getstatus
+SV packet 88.100.182.188:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 85.166.197.222:29070 : getinfo
+SV packet 200.123.136.253:-9802 : getinfo
+SV packet 178.206.224.15:-12678 : getinfo
+SV packet 178.206.224.15:-12678 : getinfo
+SV packet 71.47.10.230:29070 : getinfo
+SV packet 91.228.196.224:-14203 : getstatus
+SV packet 178.157.207.11:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 82.46.192.50:29070 : getinfo
+SV packet 91.228.196.224:-19713 : getstatus
+SV packet 173.192.122.242:-19985 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 95.108.38.48:29070 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 80.55.76.218:29070 : getinfo
+SV packet 90.230.88.140:-8408 : getinfo
+SV packet 109.127.152.187:-14326 : getinfo
+SV packet 91.228.196.224:-12080 : getstatus
+SV packet 151.20.38.31:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 95.149.126.194:29070 : getinfo
+SV packet 80.55.76.218:29070 : getinfo
+SV packet 188.242.247.46:29070 : getinfo
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 95.149.126.194:29070 : getinfo
+SV packet 91.228.196.224:-24149 : getstatus
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 80.55.76.218:29070 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 72.169.81.46:24462 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 92.221.74.11:29070 : getinfo
+SV packet 31.13.144.28:5139 : getinfo
+SV packet 95.149.126.194:29071 : getinfo
+SV packet 174.61.95.103:29070 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 91.228.196.224:-27653 : getstatus
+SV packet 82.59.88.173:29070 : getinfo
+SV packet 151.20.38.31:29070 : getinfo
+SV packet 95.149.126.194:29071 : getinfo
+SV packet 95.149.126.194:29071 : getinfo
+SV packet 71.123.153.37:29070 : getinfo
+SV packet 95.149.126.194:29071 : getinfo
+SV packet 71.123.153.37:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 77.65.86.232:2363 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 80.55.76.218:29070 : getinfo
+SV packet 91.228.196.224:-20165 : getstatus
+SV packet 80.55.76.218:29070 : getinfo
+SV packet 212.251.163.219:29070 : getinfo
+SV packet 86.59.193.218:29070 : getinfo
+SV packet 88.91.45.66:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 88.91.45.66:29070 : getinfo
+SV packet 91.228.196.224:-23380 : getstatus
+SV packet 88.91.45.66:29070 : getstatus
+SV packet 88.91.45.66:29070 : getstatus
+SV packet 173.192.122.242:-13049 : getstatus
+SV packet 88.91.45.66:29070 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 88.91.45.66:29070 : getstatus
+SV packet 80.55.76.218:29070 : getinfo
+SV packet 75.81.43.105:29070 : getinfo
+SV packet 75.81.43.105:29070 : getinfo
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 190.188.165.149:29070 : getinfo
+SV packet 191.116.93.51:-26000 : getinfo
+SV packet 91.228.196.224:-22533 : getstatus
+SV packet 80.55.76.218:29070 : getinfo
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 142.129.120.248:29070 : getinfo
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 80.55.76.218:29070 : getinfo
+SV packet 86.173.7.83:29070 : getinfo
+SV packet 213.238.71.186:29070 : getinfo
+SV packet 176.63.21.39:-32430 : getinfo
+SV packet 75.81.43.105:29070 : getinfo
+SV packet 94.113.84.200:29070 : getinfo
+SV packet 86.59.193.218:29070 : getinfo
+SV packet 91.228.196.224:-29322 : getstatus
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 68.134.39.23:29070 : getinfo
+SV packet 75.81.43.105:29070 : getinfo
+SV packet 178.157.207.11:29071 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 86.59.193.218:29070 : getinfo
+SV packet 185.7.199.7:29060 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 91.228.196.224:-29498 : getstatus
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 88.100.182.188:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 4.30.115.102:-23605 : getinfo
+SV packet 86.59.193.218:29070 : getinfo
+SV packet 80.55.76.218:29070 : getinfo
+SV packet 188.242.247.46:29070 : getinfo
+SV packet 5.34.92.194:29070 : getinfo
+SV packet 94.229.90.7:29070 : getinfo
+SV packet 91.228.196.224:-17978 : getstatus
+SV packet 4.30.115.102:-19912 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 84.118.94.80:29070 : getinfo
+SV packet 88.212.43.14:29070 : getinfo
+SV packet 91.228.196.224:-13206 : getstatus
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 173.192.122.242:-30263 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 91.228.196.224:-10298 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 47.61.200.225:29070 : getinfo
+SV packet 91.228.196.224:-12310 : getstatus
+SV packet 85.222.26.189:29070 : getinfo
+SV packet 37.214.44.104:-2544 : getinfo
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 84.219.246.207:29070 : getinfo
+SV packet 83.251.195.29:29070 : getinfo
+SV packet 83.251.195.29:29070 : getinfo
+SV packet 37.214.44.104:-2544 : getinfo
+SV packet 77.100.184.44:29070 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 80.133.250.218:29070 : getinfo
+SV packet 91.228.196.224:-18426 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 91.228.196.224:-9487 : getstatus
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 217.21.31.101:29070 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 91.228.196.224:-19563 : getstatus
+SV packet 178.44.11.254:29070 : getinfo
+SV packet 173.192.122.242:-23908 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 62.205.245.220:29070 : getinfo
+SV packet 200.86.135.200:29070 : getinfo
+SV packet 91.228.196.224:-5475 : getstatus
+SV packet 109.98.165.106:21794 : getinfo
+SV packet 86.82.44.12:29070 : getinfo
+SV packet 86.82.44.12:29070 : getinfo
+SV packet 78.139.3.38:29070 : getinfo
+SV packet 86.82.44.12:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 37.45.234.40:10289 : getinfo
+SV packet 91.228.196.224:-17450 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 91.228.196.224:-4948 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 178.44.11.254:29070 : getinfo
+SV packet 200.86.135.200:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 178.44.11.254:29070 : getstatus
+SV packet 88.212.43.14:29070 : getinfo
+SV packet 178.44.11.254:29070 : getstatus
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 91.228.196.224:-8773 : getstatus
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 178.44.11.254:29070 : getstatus
+SV packet 109.92.43.124:24634 : getinfo
+SV packet 216.189.177.64:29070 : getstatus
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 108.54.176.242:29070 : getinfo
+SV packet 216.189.177.64:29070 : getstatus
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 91.228.196.224:-20322 : getstatus
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 108.54.176.242:29070 : getinfo
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 173.192.122.242:-31736 : getstatus
+SV packet 88.192.77.7:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 83.86.232.169:29070 : getinfo
+SV packet 91.228.196.224:-26153 : getstatus
+SV packet 83.25.20.73:26291 : getinfo
+SV packet 83.25.20.73:26291 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 91.228.196.224:-9208 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 91.228.196.224:-20183 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 4.30.115.102:27417 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 91.228.196.224:-11223 : getstatus
+SV packet 5.18.174.130:29070 : getinfo
+SV packet 4.30.115.102:-31429 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 146.200.156.229:29070 : getinfo
+SV packet 46.196.51.231:29070 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 91.228.196.224:-10437 : getstatus
+SV packet 46.196.51.231:29070 : getinfo
+SV packet 85.196.230.97:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 95.27.31.188:29070 : getinfo
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 91.228.196.224:-14831 : getstatus
+SV packet 95.27.31.188:29070 : getinfo
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 95.27.31.188:29070 : getinfo
+SV packet 85.219.196.231:29070 : getinfo
+SV packet 75.128.227.121:29070 : getinfo
+SV packet 95.31.32.83:29070 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 91.228.196.224:-20799 : getstatus
+SV packet 84.31.127.206:29070 : getinfo
+SV packet 95.108.38.48:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 95.108.38.48:29070 : getinfo
+SV packet 78.45.84.131:29070 : getinfo
+SV packet 95.108.38.48:29070 : getinfo
+SV packet 91.228.196.224:-27975 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 85.237.165.33:29070 : getinfo
+SV packet 150.216.254.204:29070 : getinfo
+SV packet 88.199.164.94:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 213.24.134.93:17868 : getinfo
+SV packet 108.19.149.107:-8895 : getstatus
+SV packet 146.200.156.229:1025 : getinfo
+SV packet 109.90.242.87:29070 : getinfo
+SV packet 213.24.134.93:17868 : getinfo
+SV packet 93.75.28.87:29070 : getinfo
+SV packet 73.225.60.27:29070 : getinfo
+SV packet 91.228.196.224:-10121 : getstatus
+SV packet 73.225.60.27:29070 : getinfo
+SV packet 95.119.61.177:29070 : getinfo
+SV packet 150.216.254.204:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 46.196.51.231:29070 : getinfo
+SV packet 89.164.183.52:-11235 : getinfo
+SV packet 91.228.196.224:-23511 : getstatus
+SV packet 155.158.58.166:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 139.216.5.109:29070 : getinfo
+SV packet 88.199.164.94:29070 : getinfo
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 91.228.196.224:-32194 : getstatus
+SV packet 75.128.227.121:29070 : getinfo
+SV packet 95.149.126.194:29071 : getinfo
+SV packet 151.226.162.128:29070 : getinfo
+SV packet 75.128.227.121:29070 : getinfo
+SV packet 95.149.126.194:29071 : getinfo
+SV packet 75.128.227.121:29070 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 155.158.58.166:29070 : getinfo
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 81.185.226.124:29070 : getinfo
+SV packet 88.199.164.94:29070 : getinfo
+SV packet 81.200.55.86:29070 : getinfo
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 86.144.182.109:29070 : getinfo
+SV packet 91.228.196.224:-32455 : getstatus
+SV packet 80.220.25.1:29070 : getinfo
+SV packet 88.199.164.94:29070 : getinfo
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 91.225.93.11:29070 : getinfo
+SV packet 86.144.182.109:1024 : getinfo
+SV packet 80.220.25.1:29070 : getinfo
+SV packet 81.185.226.124:29070 : getinfo
+SV packet 86.144.182.109:29070 : getinfo
+SV packet 91.228.196.224:-21889 : getstatus
+SV packet 86.144.182.109:29070 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 86.144.182.109:29070 : getinfo
+SV packet 86.144.182.109:29070 : getinfo
+SV packet 139.216.5.109:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 95.149.126.194:29071 : getinfo
+SV packet 95.149.126.194:29071 : getinfo
+SV packet 88.199.164.94:29070 : getinfo
+SV packet 88.199.164.94:29070 : getinfo
+SV packet 91.228.196.224:-16805 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 5.57.168.151:29070 : getinfo
+SV packet 5.57.168.151:29070 : getinfo
+SV packet 94.133.14.231:29070 : getinfo
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 91.228.196.224:-14543 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 95.149.126.194:29071 : getinfo
+SV packet 85.219.196.231:29070 : getinfo
+SV packet 138.38.213.143:29070 : getinfo
+SV packet 94.180.205.191:29070 : getinfo
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 138.38.213.143:29070 : getinfo
+SV packet 91.228.196.224:-15973 : getstatus
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 109.188.126.37:29070 : getinfo
+SV packet 91.228.196.224:-19190 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 185.7.199.7:29060 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 91.228.196.224:-26066 : getstatus
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 4.30.115.102:-20639 : getinfo
+SV packet 190.21.156.117:29070 : getinfo
+SV packet 91.228.196.224:-13573 : getstatus
+SV packet 66.87.114.67:14942 : getinfo
+SV packet 66.87.114.67:14942 : getinfo
+SV packet 4.30.115.102:-2512 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 91.228.196.224:-25344 : getstatus
+SV packet 83.30.54.132:10972 : getinfo
+SV packet 86.144.182.109:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 91.228.196.224:-25074 : getstatus
+SV packet 86.144.182.109:1024 : getinfo
+SV packet 80.55.76.218:29070 : getinfo
+SV packet 86.144.182.109:1024 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 93.75.28.87:29070 : getinfo
+SV packet 83.30.172.240:16660 : getinfo
+SV packet 66.87.114.67:23273 : getinfo
+SV packet 95.108.38.48:29070 : getinfo
+SV packet 66.87.114.67:23273 : getinfo
+SV packet 91.228.196.224:-15730 : getstatus
+SV packet 66.87.114.67:23273 : getinfo
+SV packet 66.87.114.67:23273 : getinfo
+SV packet 83.25.20.73:26291 : getinfo
+SV packet 186.124.41.4:29070 : getinfo
+SV packet 95.108.38.48:29070 : getinfo
+SV packet 66.87.114.67:23273 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 95.119.61.177:29070 : getinfo
+SV packet 89.64.37.4:14975 : getinfo
+SV packet 91.64.139.127:29210 : getinfo
+SV packet 91.228.196.224:-11209 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 149.5.130.67:29071 : getinfo
+SV packet 80.55.76.218:29070 : getinfo
+SV packet 88.199.164.94:29070 : getinfo
+SV packet 190.101.37.201:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 190.164.69.227:29070 : getinfo
+SV packet 24.112.44.133:29070 : getinfo
+SV packet 89.64.37.4:14975 : getinfo
+SV packet 91.64.139.127:29210 : getstatus
+SV packet 190.153.196.74:29070 : getinfo
+SV packet 190.46.83.85:29070 : getinfo
+SV packet 91.64.139.127:29210 : getstatus
+SV packet 91.228.196.224:-18052 : getstatus
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 91.64.139.127:29210 : getstatus
+SV packet 91.83.18.125:29070 : getinfo
+SV packet 86.152.197.178:29070 : getinfo
+SV packet 91.64.139.127:29210 : getstatus
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 91.64.139.127:29210 : getstatus
+SV packet 186.206.254.34:23436 : getinfo
+SV packet 91.64.139.127:29210 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 190.101.37.201:29070 : getinfo
+SV packet 178.167.27.135:29070 : getinfo
+SV packet 190.101.37.201:29070 : getinfo
+SV packet 91.228.196.224:-11023 : getstatus
+SV packet 95.119.61.177:29070 : getinfo
+SV packet 178.167.27.135:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 50.164.210.39:29070 : getinfo
+SV packet 190.46.83.85:29070 : getinfo
+SV packet 178.44.30.89:29070 : getinfo
+SV packet 91.64.139.127:29425 : getinfo
+SV packet 108.222.63.205:29070 : getinfo
+SV packet 142.129.120.248:29070 : getinfo
+SV packet 108.222.63.205:29070 : getinfo
+SV packet 142.129.120.248:29070 : getinfo
+SV packet 91.228.196.224:-23148 : getstatus
+SV packet 86.144.182.109:1024 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 155.158.58.166:29070 : getinfo
+SV packet 86.152.197.178:29070 : getinfo
+SV packet 178.36.24.251:29070 : getinfo
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 91.228.196.224:-21069 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 91.228.196.224:-30703 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 66.87.114.67:1460 : getinfo
+SV packet 66.87.114.67:1460 : getinfo
+SV packet 24.255.0.72:29070 : getinfo
+SV packet 2.36.234.7:29070 : getinfo
+SV packet 91.228.196.224:-20170 : getstatus
+SV packet 5.18.222.182:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 86.152.197.178:29070 : getinfo
+SV packet 138.38.213.143:29070 : getinfo
+SV packet 138.38.213.143:29070 : getinfo
+SV packet 79.108.82.43:29070 : getinfo
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 91.228.196.224:-17162 : getstatus
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 138.38.213.143:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 91.228.196.224:-28228 : getstatus
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 47.61.200.225:29070 : getinfo
+SV packet 47.61.200.225:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 108.33.96.117:29070 : getinfo
+SV packet 138.38.213.143:29070 : getinfo
+SV packet 138.38.213.143:29070 : getinfo
+SV packet 138.38.213.143:29070 : getinfo
+SV packet 91.228.196.224:-26274 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 138.38.213.143:29070 : getinfo
+SV packet 138.38.213.143:29070 : getinfo
+SV packet 138.38.213.143:29070 : getinfo
+SV packet 138.38.213.143:29070 : getinfo
+SV packet 31.205.68.130:29070 : getinfo
+SV packet 31.205.68.130:29070 : getinfo
+SV packet 217.15.154.247:29071 : getinfo
+SV packet 84.3.79.202:29070 : getinfo
+SV packet 181.162.128.19:29070 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 62.143.152.211:-31655 : getinfo
+SV packet 178.206.138.91:29070 : getinfo
+SV packet 91.228.196.224:-30027 : getstatus
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 178.206.138.91:29070 : getinfo
+SV packet 84.3.79.202:29070 : getinfo
+SV packet 84.3.79.202:29070 : getinfo
+SV packet 178.206.138.91:29070 : getinfo
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 178.206.138.91:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 62.143.152.211:-31655 : getinfo
+SV packet 4.30.115.102:-15422 : getinfo
+SV packet 82.19.93.89:29070 : getinfo
+SV packet 87.117.189.103:-26863 : getinfo
+SV packet 87.117.189.103:-26863 : getstatus
+SV packet 91.228.196.224:-8262 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 4.30.115.102:-7138 : getinfo
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 91.82.200.65:29070 : getinfo
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 91.228.196.224:-10109 : getstatus
+SV packet 169.235.218.65:-30336 : getinfo
+SV packet 108.19.149.107:-8893 : getstatus
+SV packet 5.248.204.193:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 190.199.203.18:25560 : getinfo
+SV packet 90.229.11.167:29070 : getinfo
+SV packet 86.144.182.109:29070 : getinfo
+SV packet 5.18.222.182:29070 : getinfo
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 108.33.96.117:29070 : getinfo
+SV packet 91.228.196.224:-19073 : getstatus
+SV packet 5.18.222.182:29070 : getinfo
+SV packet 86.82.44.12:29070 : getinfo
+SV packet 86.82.44.12:29070 : getinfo
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 213.110.128.67:29070 : getinfo
+SV packet 91.228.196.224:-17196 : getstatus
+SV packet 97.101.178.170:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 178.165.130.125:29334 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 91.228.196.224:-20760 : getstatus
+SV packet 82.11.116.218:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 82.11.116.218:29070 : getinfo
+SV packet 79.206.183.146:29070 : getinfo
+SV packet 79.206.183.146:29070 : getinfo
+SV packet 181.162.128.19:29070 : getinfo
+SV packet 91.228.196.224:-13267 : getstatus
+SV packet 82.11.116.218:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 181.162.128.19:29070 : getinfo
+SV packet 91.228.196.224:-26960 : getstatus
+SV packet 82.15.90.17:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 82.15.90.17:29070 : getinfo
+SV packet 89.229.20.27:29070 : getinfo
+SV packet 181.72.160.125:29070 : getinfo
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 91.228.196.224:-5062 : getstatus
+SV packet 93.75.28.87:29070 : getinfo
+SV packet 93.75.28.87:29070 : getinfo
+SV packet 178.165.130.125:29334 : getinfo
+SV packet 178.165.130.125:29334 : getinfo
+SV packet 47.61.200.225:29070 : getinfo
+SV packet 93.75.28.87:29070 : getinfo
+SV packet 178.165.130.125:29334 : getinfo
+SV packet 178.165.130.125:29334 : getinfo
+SV packet 149.5.130.67:29071 : getinfo
+SV packet 79.206.183.146:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 79.206.183.146:29070 : getinfo
+SV packet 82.11.116.218:29070 : getinfo
+SV packet 82.11.116.218:29070 : getinfo
+SV packet 82.11.116.218:29070 : getinfo
+SV packet 149.5.130.67:29071 : getinfo
+SV packet 190.82.18.157:29070 : getinfo
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 149.5.130.67:29071 : getinfo
+SV packet 190.82.18.157:29070 : getinfo
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 188.125.139.14:29070 : getinfo
+SV packet 213.24.134.93:-28576 : getinfo
+SV packet 91.228.196.224:-7471 : getstatus
+SV packet 149.5.130.67:29071 : getinfo
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 89.78.163.132:29071 : getinfo
+SV packet 78.147.122.64:29070 : getinfo
+SV packet 155.4.134.129:-7254 : getinfo
+SV packet 213.24.134.93:-28576 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 91.228.196.224:-27381 : getstatus
+SV packet 93.87.114.219:29070 : getinfo
+SV packet 93.87.114.219:29070 : getinfo
+SV packet 93.87.114.219:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 91.228.196.224:-10417 : getstatus
+SV packet 46.129.41.114:29070 : getinfo
+SV packet 78.147.122.64:29070 : getinfo
+SV packet 88.207.48.42:29070 : getinfo
+SV packet 78.147.122.64:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 86.43.111.101:29070 : getinfo
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 91.228.196.224:-26589 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 46.129.41.114:29070 : getinfo
+SV packet 91.228.196.224:-7185 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 88.242.187.96:12017 : getinfo
+SV packet 85.196.230.97:29070 : getinfo
+SV packet 91.228.196.224:-18035 : getstatus
+SV packet 88.242.187.96:12017 : getinfo
+SV packet 178.165.130.125:29334 : getinfo
+SV packet 178.165.130.125:29334 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 82.11.116.218:29070 : getinfo
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 91.228.196.224:-31621 : getstatus
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 82.15.90.17:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 82.11.116.218:29070 : getinfo
+SV packet 4.30.115.102:-6079 : getinfo
+SV packet 91.247.233.251:29070 : getinfo
+SV packet 91.228.196.224:-6623 : getstatus
+SV packet 4.30.115.102:19408 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 178.165.130.169:3804 : getinfo
+SV packet 91.228.196.224:-28797 : getstatus
+SV packet 108.250.143.30:29070 : getinfo
+SV packet 178.165.130.125:29334 : getinfo
+SV packet 178.165.130.125:29334 : getinfo
+SV packet 188.125.139.14:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 108.250.143.30:29070 : getinfo
+SV packet 91.228.196.224:-15492 : getstatus
+SV packet 78.182.64.179:29070 : getinfo
+SV packet 86.24.166.66:29070 : getinfo
+SV packet 31.211.184.149:29070 : getinfo
+SV packet 108.250.143.30:29070 : getinfo
+SV packet 86.24.166.66:29070 : getinfo
+SV packet 31.211.184.149:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 91.228.196.224:-14780 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 82.15.90.17:29070 : getstatus
+SV packet 91.228.196.224:-21439 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 82.15.90.17:29070 : getstatus
+SV packet 82.15.90.17:29070 : getstatus
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 82.15.90.17:29070 : getstatus
+SV packet 82.15.90.17:29070 : getstatus
+SV packet 82.15.90.17:29070 : getstatus
+SV packet 91.228.196.224:-14903 : getstatus
+SV packet 142.161.146.108:29070 : getinfo
+SV packet 185.7.199.7:29060 : getinfo
+SV packet 82.15.90.17:29070 : getstatus
+SV packet 82.15.90.17:29070 : getstatus
+SV packet 62.113.242.115:29060 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 201.83.55.45:29071 : getinfo
+SV packet 24.186.198.64:29070 : getinfo
+SV packet 201.83.55.45:29071 : getstatus
+SV packet 91.228.196.224:-23570 : getstatus
+SV packet 37.152.18.217:21531 : getinfo
+SV packet 178.165.130.125:29334 : getinfo
+SV packet 31.211.184.149:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 91.228.196.224:-21706 : getstatus
+SV packet 188.77.45.32:29070 : getinfo
+SV packet 186.39.163.34:29070 : getinfo
+SV packet 186.39.163.34:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 186.39.163.34:29070 : getinfo
+SV packet 82.11.116.218:29070 : getstatus
+SV packet 91.228.196.224:-7054 : getstatus
+SV packet 10.48.22.3:29071 : getinfo
+SV packet 10.48.22.3:29071 : getinfo
+SV packet 10.48.22.3:29071 : getinfo
+SV packet 10.48.22.3:29071 : getinfo
+SV packet 10.48.22.3:29071 : getinfo
+SV packet 93.75.28.87:29070 : getinfo
+SV packet 93.75.28.87:29070 : getinfo
+SV packet 5.196.26.204:-27835 : getstatus
+SV packet 178.165.130.125:29334 : getinfo
+SV packet 178.165.130.125:29334 : getinfo
+SV packet 198.91.225.19:29071 : getinfo
+SV packet 83.28.19.70:29070 : getinfo
+SV packet 83.28.19.70:29070 : getinfo
+SV packet 198.91.225.19:29071 : getinfo
+SV packet 83.28.19.70:29070 : getinfo
+SV packet 83.28.19.70:29070 : getinfo
+SV packet 83.28.19.70:29070 : getinfo
+SV packet 91.228.196.224:-14588 : getstatus
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.jkhub.org
+Sending heartbeat to 162.213.223.155
+SV packet 46.105.85.237:29060 : getinfo
+SV packet 104.156.240.151:29071 : getinfo
+SV packet 83.28.19.70:29070 : getinfo
+SV packet 149.5.130.67:29071 : getinfo
+SV packet 5.68.91.96:29070 : getinfo
+SV packet 83.28.19.70:29070 : getinfo
+SV packet 155.4.134.129:-72

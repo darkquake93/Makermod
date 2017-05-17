@@ -1,0 +1,533 @@
+[Tue Feb 14 19:05:45 2017]  ------------------------------------------------------------
+[Tue Feb 14 19:05:45 2017]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Feb 14 19:34:22 2017]  ------------------------------------------------------------
+[Tue Feb 14 19:34:22 2017]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\999\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Feb 17 03:27:55 2017]  ClientConnect: 0
+[Fri Feb 17 03:27:55 2017]  mlog:Player ^1Clutch^22^32, connected. With IP - 98.204.131.246:29070 
+[Fri Feb 17 03:28:18 2017]  ClientBegin: 0
+[Fri Feb 17 03:31:23 2017]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Fri Feb 17 03:34:56 2017]  ClientDisconnect: 0
+[Sun Feb 19 15:03:19 2017]  ClientConnect: 0
+[Sun Feb 19 15:03:19 2017]  mlog:Player ScaryTrapBait, connected. With IP - 80.128.124.122:29070 
+[Sun Feb 19 15:03:31 2017]  ClientDisconnect: 0
+[Sun Feb 19 15:04:42 2017]  ClientConnect: 0
+[Sun Feb 19 15:04:42 2017]  mlog:Player ScaryTrapBait, connected. With IP - 80.128.124.122:29070 
+[Sun Feb 19 15:05:04 2017]  ClientBegin: 0
+[Sun Feb 19 15:05:15 2017]  ClientConnect: 1
+[Sun Feb 19 15:05:15 2017]  mlog:Player Exaxors, connected. With IP - 84.188.138.82:29070 
+[Sun Feb 19 15:05:32 2017]  ClientBegin: 1
+[Sun Feb 19 15:06:08 2017]  say: ScaryTrapBait: rtv
+[Sun Feb 19 15:07:22 2017]  Kill: 0 1 3: ScaryTrapBait killed Exaxors by MOD_SABER
+[Sun Feb 19 15:08:21 2017]  Kill: 0 1 3: ScaryTrapBait killed Exaxors by MOD_SABER
+[Sun Feb 19 15:10:15 2017]  Kill: 1 0 3: Exaxors killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:10:20 2017]  ClientConnect: 2
+[Sun Feb 19 15:10:20 2017]  mlog:Player Niggarion, connected. With IP - 37.201.146.151:29070 
+[Sun Feb 19 15:10:44 2017]  ClientBegin: 2
+[Sun Feb 19 15:11:40 2017]  Kill: 0 1 31: ScaryTrapBait killed Exaxors by MOD_FORCE_DARK
+[Sun Feb 19 15:12:29 2017]  Kill: 1 0 3: Exaxors killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:12:31 2017]  Kill: 2 1 3: Niggarion killed Exaxors by MOD_SABER
+[Sun Feb 19 15:12:34 2017]  Kill: 0 1 37: ScaryTrapBait killed Exaxors by MOD_TELEFRAG
+[Sun Feb 19 15:13:13 2017]  Kill: 1 2 31: Exaxors killed Niggarion by MOD_FORCE_DARK
+[Sun Feb 19 15:13:28 2017]  Kill: 2 0 3: Niggarion killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:13:36 2017]  Kill: 2 1 3: Niggarion killed Exaxors by MOD_SABER
+[Sun Feb 19 15:13:38 2017]  Kill: 0 2 3: ScaryTrapBait killed Niggarion by MOD_SABER
+[Sun Feb 19 15:13:52 2017]  Kill: 2 0 3: Niggarion killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:13:55 2017]  Kill: 1 2 3: Exaxors killed Niggarion by MOD_SABER
+[Sun Feb 19 15:14:37 2017]  Kill: 0 1 5: ScaryTrapBait killed Exaxors by MOD_BRYAR_PISTOL_ALT
+[Sun Feb 19 15:15:22 2017]  Kill: 0 1 3: ScaryTrapBait killed Exaxors by MOD_SABER
+[Sun Feb 19 15:15:28 2017]  Kill: 0 2 3: ScaryTrapBait killed Niggarion by MOD_SABER
+[Sun Feb 19 15:15:33 2017]  Kill: 0 1 3: ScaryTrapBait killed Exaxors by MOD_SABER
+[Sun Feb 19 15:15:41 2017]  Kill: 2 0 31: Niggarion killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 15:15:53 2017]  Kill: 2 1 3: Niggarion killed Exaxors by MOD_SABER
+[Sun Feb 19 15:15:59 2017]  Kill: 2 0 3: Niggarion killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:16:46 2017]  Kill: 0 1 3: ScaryTrapBait killed Exaxors by MOD_SABER
+[Sun Feb 19 15:16:47 2017]  Kill: 2 0 3: Niggarion killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:17:22 2017]  Kill: 1 2 3: Exaxors killed Niggarion by MOD_SABER
+[Sun Feb 19 15:17:32 2017]  Kill: 2 1 3: Niggarion killed Exaxors by MOD_SABER
+[Sun Feb 19 15:17:41 2017]  ClientConnect: 3
+[Sun Feb 19 15:17:41 2017]  mlog:Player Lamer-Man ^1Rogue, connected. With IP - 210.10.146.25:29070 
+[Sun Feb 19 15:17:48 2017]  Kill: 0 1 3: ScaryTrapBait killed Exaxors by MOD_SABER
+[Sun Feb 19 15:18:04 2017]  Kill: 0 2 3: ScaryTrapBait killed Niggarion by MOD_SABER
+[Sun Feb 19 15:18:34 2017]  ClientBegin: 3
+[Sun Feb 19 15:18:46 2017]  Kill: 2 0 31: Niggarion killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 15:18:51 2017]  Kill: 1 3 3: Exaxors killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:19:24 2017]  Kill: 0 1 3: ScaryTrapBait killed Exaxors by MOD_SABER
+[Sun Feb 19 15:19:42 2017]  setteam:  3 FREE SPECTATOR
+[Sun Feb 19 15:19:42 2017]  ClientBegin: 3
+[Sun Feb 19 15:19:53 2017]  setteam:  3 SPECTATOR FREE
+[Sun Feb 19 15:19:53 2017]  ClientBegin: 3
+[Sun Feb 19 15:20:06 2017]  Kill: 0 3 3: ScaryTrapBait killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:20:08 2017]  say: The Lamer-Man: no!
+[Sun Feb 19 15:20:11 2017]  Kill: 3 2 3: The Lamer-Man killed Niggarion by MOD_SABER
+[Sun Feb 19 15:20:15 2017]  Kill: 0 3 3: ScaryTrapBait killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:20:22 2017]  Kill: 3 0 3: The Lamer-Man killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:20:26 2017]  say: The Lamer-Man: lol yes
+[Sun Feb 19 15:20:33 2017]  Kill: 0 1 3: ScaryTrapBait killed Exaxors by MOD_SABER
+[Sun Feb 19 15:20:42 2017]  Kill: 0 1 3: ScaryTrapBait killed Exaxors by MOD_SABER
+[Sun Feb 19 15:21:53 2017]  Kill: 3 0 3: The Lamer-Man killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:22:02 2017]  Kill: 2 3 31: Niggarion killed The Lamer-Man by MOD_FORCE_DARK
+[Sun Feb 19 15:22:02 2017]  say: The Lamer-Man: my power increasing
+[Sun Feb 19 15:22:11 2017]  Kill: 1 2 3: Exaxors killed Niggarion by MOD_SABER
+[Sun Feb 19 15:22:19 2017]  Kill: 2 0 5: Niggarion killed ScaryTrapBait by MOD_BRYAR_PISTOL_ALT
+[Sun Feb 19 15:22:49 2017]  Kill: 3 2 3: The Lamer-Man killed Niggarion by MOD_SABER
+[Sun Feb 19 15:22:53 2017]  say: The Lamer-Man: hahaha
+[Sun Feb 19 15:22:55 2017]  Kill: 1 3 3: Exaxors killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:22:56 2017]  Kill: 2 1 31: Niggarion killed Exaxors by MOD_FORCE_DARK
+[Sun Feb 19 15:23:05 2017]  Kill: 3 0 3: The Lamer-Man killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:23:07 2017]  Kill: 0 1 37: ScaryTrapBait killed Exaxors by MOD_TELEFRAG
+[Sun Feb 19 15:23:54 2017]  Kill: 3 0 3: The Lamer-Man killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:24:15 2017]  say: The Lamer-Man: my power are growing ^1StRONG
+[Sun Feb 19 15:24:27 2017]  Kill: 3 0 3: The Lamer-Man killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:24:49 2017]  Kill: 0 1 5: ScaryTrapBait killed Exaxors by MOD_BRYAR_PISTOL_ALT
+[Sun Feb 19 15:24:54 2017]  Kill: 2 3 31: Niggarion killed The Lamer-Man by MOD_FORCE_DARK
+[Sun Feb 19 15:24:59 2017]  say: The Lamer-Man: youre dead
+[Sun Feb 19 15:25:16 2017]  Kill: 0 2 3: ScaryTrapBait killed Niggarion by MOD_SABER
+[Sun Feb 19 15:25:17 2017]  Kill: 3 1 3: The Lamer-Man killed Exaxors by MOD_SABER
+[Sun Feb 19 15:25:34 2017]  Kill: 0 3 3: ScaryTrapBait killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:25:37 2017]  say: The Lamer-Man: NO
+[Sun Feb 19 15:25:55 2017]  Kill: 0 2 3: ScaryTrapBait killed Niggarion by MOD_SABER
+[Sun Feb 19 15:25:58 2017]  Kill: 3 0 3: The Lamer-Man killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:26:21 2017]  say: The Lamer-Man: the throne is MINE
+[Sun Feb 19 15:26:42 2017]  say: ScaryTrapBait: Lamerman ?
+[Sun Feb 19 15:26:45 2017]  say: ScaryTrapBait: could you leave
+[Sun Feb 19 15:26:46 2017]  say: ScaryTrapBait: plz
+[Sun Feb 19 15:26:47 2017]  say: ScaryTrapBait: ?
+[Sun Feb 19 15:26:51 2017]  say: The Lamer-Man: why
+[Sun Feb 19 15:26:56 2017]  say: ScaryTrapBait: we want top play alone
+[Sun Feb 19 15:27:05 2017]  say: Niggarion: pls
+[Sun Feb 19 15:27:06 2017]  say: ScaryTrapBait: :C
+[Sun Feb 19 15:27:13 2017]  say: The Lamer-Man: but my minions want to play with you look
+[Sun Feb 19 15:27:21 2017]  say: The Lamer-Man: me getting the throne has given me followers!
+[Sun Feb 19 15:27:25 2017]  say: ScaryTrapBait: xD
+[Sun Feb 19 15:27:25 2017]  say: Niggarion: would be nice pls
+[Sun Feb 19 15:27:37 2017]  say: ScaryTrapBait: would be great from u
+[Sun Feb 19 15:27:41 2017]  Kill: 1022 3 3: <world> killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:27:42 2017]  Kill: 1022 2 31: <world> killed Niggarion by MOD_FORCE_DARK
+[Sun Feb 19 15:27:43 2017]  say: ScaryTrapBait: wtf
+[Sun Feb 19 15:27:44 2017]  say: ScaryTrapBait: how
+[Sun Feb 19 15:27:58 2017]  Kill: 1022 0 3: <world> killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:28:12 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 15:28:13 2017]  say: The Lamer-Man: careful they are powerful haha
+[Sun Feb 19 15:28:15 2017]  Kill: 1022 0 3: <world> killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:28:26 2017]  say: The Lamer-Man: you dont have a chance if you dont work together
+[Sun Feb 19 15:28:48 2017]  Kill: 1022 0 3: <world> killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:28:51 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 15:29:06 2017]  say: The Lamer-Man: kill them my minion
+[Sun Feb 19 15:29:09 2017]  say: The Lamer-Man: what?
+[Sun Feb 19 15:29:11 2017]  say: Niggarion: WE WON 
+[Sun Feb 19 15:29:12 2017]  say: ScaryTrapBait: we got all
+[Sun Feb 19 15:29:12 2017]  say: The Lamer-Man: impossible
+[Sun Feb 19 15:29:13 2017]  say: ScaryTrapBait: xd
+[Sun Feb 19 15:29:26 2017]  say: The Lamer-Man: i dont think so
+[Sun Feb 19 15:29:26 2017]  say: Niggarion: NOW YOUUUUU
+[Sun Feb 19 15:29:39 2017]  Kill: 1022 0 3: <world> killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:29:42 2017]  say: The Lamer-Man: surprise hahah
+[Sun Feb 19 15:29:48 2017]  say: The Lamer-Man: you forgot FOUR
+[Sun Feb 19 15:29:52 2017]  say: The Lamer-Man: the elite
+[Sun Feb 19 15:29:55 2017]  Kill: 1022 0 3: <world> killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:29:59 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 15:30:04 2017]  say: The Lamer-Man: without teamwork you are doomed 
+[Sun Feb 19 15:30:12 2017]  Kill: 1022 0 3: <world> killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:30:17 2017]  say: The Lamer-Man: his dark side powers are cleary stronger
+[Sun Feb 19 15:30:19 2017]  say: The Lamer-Man: use light
+[Sun Feb 19 15:30:21 2017]  say: The Lamer-Man: haha
+[Sun Feb 19 15:30:23 2017]  Kill: 1022 0 3: <world> killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:30:38 2017]  Kill: 1022 0 3: <world> killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:31:06 2017]  Kill: 0 2 31: ScaryTrapBait killed Niggarion by MOD_FORCE_DARK
+[Sun Feb 19 15:31:17 2017]  Kill: 0 2 3: ScaryTrapBait killed Niggarion by MOD_SABER
+[Sun Feb 19 15:31:20 2017]  Kill: 2 0 31: Niggarion killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 15:31:28 2017]  say: The Lamer-Man: what?
+[Sun Feb 19 15:31:31 2017]  say: The Lamer-Man: all of them?
+[Sun Feb 19 15:31:47 2017]  say: The Lamer-Man: there may be more surprises soon
+[Sun Feb 19 15:31:51 2017]  say: The Lamer-Man: in the meantime
+[Sun Feb 19 15:32:09 2017]  say: The Lamer-Man: im off!
+[Sun Feb 19 15:32:32 2017]  say: Exaxors: teach me 
+[Sun Feb 19 15:32:42 2017]  say: The Lamer-Man: arrgh
+[Sun Feb 19 15:32:45 2017]  say: The Lamer-Man: dyou DARE?
+[Sun Feb 19 15:32:51 2017]  Kill: 3 0 2: The Lamer-Man killed ScaryTrapBait by MOD_MELEE
+[Sun Feb 19 15:32:55 2017]  say: The Lamer-Man: hahhah
+[Sun Feb 19 15:32:58 2017]  say: The Lamer-Man: GTA
+[Sun Feb 19 15:33:02 2017]  Kill: 0 2 3: ScaryTrapBait killed Niggarion by MOD_SABER
+[Sun Feb 19 15:33:20 2017]  say: ScaryTrapBait: how do youz spawn diz ??
+[Sun Feb 19 15:33:27 2017]  say: The Lamer-Man: no spawn press tateu
+[Sun Feb 19 15:33:38 2017]  say: ScaryTrapBait: what ?
+[Sun Feb 19 15:33:38 2017]  say: Exaxors: ?
+[Sun Feb 19 15:33:40 2017]  say: ScaryTrapBait: press whut
+[Sun Feb 19 15:34:01 2017]  Kill: 2 0 31: Niggarion killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 15:34:07 2017]  say: The Lamer-Man: minions
+[Sun Feb 19 15:34:09 2017]  say: The Lamer-Man: attack
+[Sun Feb 19 15:34:37 2017]  say: The Lamer-Man: no!!
+[Sun Feb 19 15:34:59 2017]  say: The Lamer-Man: now face an amry hahaha
+[Sun Feb 19 15:35:28 2017]  say: The Lamer-Man: they are WEAK
+[Sun Feb 19 15:35:33 2017]  say: Exaxors: d
+[Sun Feb 19 15:35:34 2017]  say: The Lamer-Man: but there are many
+[Sun Feb 19 15:35:35 2017]  say: Niggarion: LAGGG
+[Sun Feb 19 15:35:37 2017]  say: Exaxors: dude how ? xD
+[Sun Feb 19 15:35:50 2017]  say: The Lamer-Man: kill them
+[Sun Feb 19 15:35:54 2017]  say: The Lamer-Man: do no FAIL me MINIONS
+[Sun Feb 19 15:35:58 2017]  Kill: 2 0 31: Niggarion killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 15:36:02 2017]  say: The Lamer-Man: fine
+[Sun Feb 19 15:36:05 2017]  say: The Lamer-Man: ill do it myself
+[Sun Feb 19 15:36:06 2017]  Kill: 3 2 3: The Lamer-Man killed Niggarion by MOD_SABER
+[Sun Feb 19 15:36:11 2017]  say: The Lamer-Man: llol
+[Sun Feb 19 15:36:24 2017]  Kill: 3 2 3: The Lamer-Man killed Niggarion by MOD_SABER
+[Sun Feb 19 15:36:30 2017]  say: The Lamer-Man: lmfao
+[Sun Feb 19 15:36:35 2017]  say: The Lamer-Man: jump n die
+[Sun Feb 19 15:36:37 2017]  say: The Lamer-Man: now 
+[Sun Feb 19 15:36:44 2017]  say: The Lamer-Man: tell me where your friends are?
+[Sun Feb 19 15:36:49 2017]  say: The Lamer-Man: or die
+[Sun Feb 19 15:36:52 2017]  say: Niggarion: i dont know :D
+[Sun Feb 19 15:36:58 2017]  say: The Lamer-Man: LIES
+[Sun Feb 19 15:37:21 2017]  Kill: 3 0 31: The Lamer-Man killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 15:37:31 2017]  say: The Lamer-Man: i am too powerful for that
+[Sun Feb 19 15:37:38 2017]  Kill: 0 3 3: ScaryTrapBait killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:37:41 2017]  say: The Lamer-Man: NOOOO
+[Sun Feb 19 15:37:41 2017]  Kill: 0 2 3: ScaryTrapBait killed Niggarion by MOD_SABER
+[Sun Feb 19 15:37:42 2017]  Kill: 2 3 37: Niggarion killed The Lamer-Man by MOD_TELEFRAG
+[Sun Feb 19 15:37:56 2017]  say: The Lamer-Man: fine
+[Sun Feb 19 15:37:58 2017]  say: The Lamer-Man: no power
+[Sun Feb 19 15:38:02 2017]  say: The Lamer-Man: just GUNS!
+[Sun Feb 19 15:38:12 2017]  say: The Lamer-Man: get me to my throne
+[Sun Feb 19 15:38:21 2017]  say: The Lamer-Man: hurry
+[Sun Feb 19 15:38:32 2017]  say: The Lamer-Man: yes
+[Sun Feb 19 15:38:37 2017]  say: The Lamer-Man: the longer i sit on it
+[Sun Feb 19 15:38:42 2017]  say: The Lamer-Man: the STRONGER i becoe
+[Sun Feb 19 15:38:56 2017]  Kill: 3 0 20: The Lamer-Man killed ScaryTrapBait by MOD_ROCKET_SPLASH
+[Sun Feb 19 15:38:56 2017]  Kill: 3 1 20: The Lamer-Man killed Exaxors by MOD_ROCKET_SPLASH
+[Sun Feb 19 15:40:15 2017]  Kill: 3 2 25: The Lamer-Man killed Niggarion by MOD_TRIP_MINE_SPLASH
+[Sun Feb 19 15:40:25 2017]  Kill: 0 2 3: ScaryTrapBait killed Niggarion by MOD_SABER
+[Sun Feb 19 15:40:50 2017]  Kill: 0 1 3: ScaryTrapBait killed Exaxors by MOD_SABER
+[Sun Feb 19 15:40:52 2017]  Kill: 2 3 3: Niggarion killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:40:53 2017]  Kill: 3 1 37: The Lamer-Man killed Exaxors by MOD_TELEFRAG
+[Sun Feb 19 15:40:55 2017]  Kill: 2 0 3: Niggarion killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:41:19 2017]  Kill: 3 2 3: The Lamer-Man killed Niggarion by MOD_SABER
+[Sun Feb 19 15:41:31 2017]  Kill: 3 1 3: The Lamer-Man killed Exaxors by MOD_SABER
+[Sun Feb 19 15:41:32 2017]  Kill: 2 3 5: Niggarion killed The Lamer-Man by MOD_BRYAR_PISTOL_ALT
+[Sun Feb 19 15:41:47 2017]  say: The Lamer-Man: i need help for 3 people
+[Sun Feb 19 15:41:51 2017]  say: The Lamer-Man: come my PET
+[Sun Feb 19 15:42:00 2017]  say: The Lamer-Man: eat them
+[Sun Feb 19 15:42:19 2017]  say: The Lamer-Man: he is slow
+[Sun Feb 19 15:42:22 2017]  say: The Lamer-Man: but he in HUNGRY
+[Sun Feb 19 15:42:23 2017]  Kill: 1022 2 2: <world> killed Niggarion by MOD_MELEE
+[Sun Feb 19 15:43:13 2017]  Kill: 3 1 3: The Lamer-Man killed Exaxors by MOD_SABER
+[Sun Feb 19 15:43:23 2017]  say: The Lamer-Man: EAT THEM
+[Sun Feb 19 15:43:35 2017]  say: The Lamer-Man: YES
+[Sun Feb 19 15:43:37 2017]  Kill: 1022 2 2: <world> killed Niggarion by MOD_MELEE
+[Sun Feb 19 15:43:39 2017]  say: The Lamer-Man: hahahah
+[Sun Feb 19 15:43:46 2017]  say: The Lamer-Man: my pet is hungry
+[Sun Feb 19 15:44:04 2017]  say: The Lamer-Man: as long as i have the throne
+[Sun Feb 19 15:44:09 2017]  say: The Lamer-Man: i wield absolute power
+[Sun Feb 19 15:44:17 2017]  Kill: 3 0 3: The Lamer-Man killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:45:48 2017]  Kill: 2 1 5: Niggarion killed Exaxors by MOD_BRYAR_PISTOL_ALT
+[Sun Feb 19 15:46:03 2017]  Kill: 1 0 3: Exaxors killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:46:33 2017]  say: The Lamer-Man: hahaah
+[Sun Feb 19 15:46:51 2017]  Kill: 3 1 3: The Lamer-Man killed Exaxors by MOD_SABER
+[Sun Feb 19 15:47:18 2017]  Kill: 2 3 3: Niggarion killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:47:18 2017]  say: The Lamer-Man: you cant kill a god
+[Sun Feb 19 15:47:21 2017]  say: The Lamer-Man: NO
+[Sun Feb 19 15:47:26 2017]  say: The Lamer-Man: pet help
+[Sun Feb 19 15:47:51 2017]  Kill: 1022 3 38: <world> killed The Lamer-Man by MOD_FALLING
+[Sun Feb 19 15:48:07 2017]  Kill: 1022 1 2: <world> killed Exaxors by MOD_MELEE
+[Sun Feb 19 15:48:07 2017]  say: The Lamer-Man: he can nbe killed
+[Sun Feb 19 15:48:12 2017]  say: The Lamer-Man: but he is STRONG
+[Sun Feb 19 15:48:13 2017]  say: The Lamer-Man: hhahaha
+[Sun Feb 19 15:48:24 2017]  say: Exaxors: dude how the fuck can you do this ?! xD
+[Sun Feb 19 15:48:29 2017]  say: The Lamer-Man: the powers
+[Sun Feb 19 15:48:31 2017]  Kill: 1022 2 2: <world> killed Niggarion by MOD_MELEE
+[Sun Feb 19 15:48:32 2017]  say: The Lamer-Man: of the THRONE
+[Sun Feb 19 15:48:48 2017]  Kill: 1022 0 38: <world> killed ScaryTrapBait by MOD_FALLING
+[Sun Feb 19 15:48:58 2017]  say: The Lamer-Man: nooo
+[Sun Feb 19 15:48:59 2017]  say: The Lamer-Man: my pet
+[Sun Feb 19 15:49:20 2017]  say: The Lamer-Man: sty abcj!
+[Sun Feb 19 15:49:24 2017]  say: The Lamer-Man: stya bacj!
+[Sun Feb 19 15:49:43 2017]  say: The Lamer-Man: away with you
+[Sun Feb 19 15:50:09 2017]  Kill: 1 2 3: Exaxors killed Niggarion by MOD_SABER
+[Sun Feb 19 15:50:18 2017]  say: The Lamer-Man: soldiers come
+[Sun Feb 19 15:50:26 2017]  Kill: 1 3 5: Exaxors killed The Lamer-Man by MOD_BRYAR_PISTOL_ALT
+[Sun Feb 19 15:50:28 2017]  say: The Lamer-Man: NO
+[Sun Feb 19 15:50:38 2017]  say: The Lamer-Man: mempower
+[Sun Feb 19 15:50:57 2017]  say: The Lamer-Man: kill em boys
+[Sun Feb 19 15:52:06 2017]  Kill: 1 0 3: Exaxors killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:53:01 2017]  say: The Lamer-Man: yFINE
+[Sun Feb 19 15:53:10 2017]  Kill: 3 2 25: The Lamer-Man killed Niggarion by MOD_TRIP_MINE_SPLASH
+[Sun Feb 19 15:53:35 2017]  Kill: 3 3 39: The Lamer-Man killed The Lamer-Man by MOD_SUICIDE
+[Sun Feb 19 15:53:48 2017]  say: The Lamer-Man: get away from there
+[Sun Feb 19 15:53:53 2017]  say: Niggarion: i have he throne
+[Sun Feb 19 15:53:57 2017]  say: The Lamer-Man: no!
+[Sun Feb 19 15:54:03 2017]  say: Niggarion: kill him
+[Sun Feb 19 15:54:23 2017]  Kill: 2 3 3: Niggarion killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:54:27 2017]  say: The Lamer-Man: NO
+[Sun Feb 19 15:54:30 2017]  say: Niggarion: we won
+[Sun Feb 19 15:54:30 2017]  say: The Lamer-Man: my powers
+[Sun Feb 19 15:54:40 2017]  say: Niggarion: give me THE POWERRRR
+[Sun Feb 19 15:54:52 2017]  Kill: 1 3 3: Exaxors killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:55:03 2017]  say: The Lamer-Man: its madde you stron
+[Sun Feb 19 15:55:05 2017]  say: The Lamer-Man: but not enough
+[Sun Feb 19 15:55:23 2017]  Kill: 2 1 3: Niggarion killed Exaxors by MOD_SABER
+[Sun Feb 19 15:55:30 2017]  Kill: 1 0 3: Exaxors killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:55:44 2017]  Kill: 2 3 3: Niggarion killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:55:48 2017]  say: The Lamer-Man: HOW?!
+[Sun Feb 19 15:55:56 2017]  say: Niggarion: I AM THE NEW SITH LORD
+[Sun Feb 19 15:55:59 2017]  say: The Lamer-Man: right ill use some gadgets
+[Sun Feb 19 15:56:25 2017]  Kill: 3 2 32: The Lamer-Man killed Niggarion by MOD_SENTRY
+[Sun Feb 19 15:56:31 2017]  Kill: 3 1 20: The Lamer-Man killed Exaxors by MOD_ROCKET_SPLASH
+[Sun Feb 19 15:56:33 2017]  say: The Lamer-Man: yes
+[Sun Feb 19 15:57:24 2017]  say: The Lamer-Man: kill him minion
+[Sun Feb 19 15:57:27 2017]  say: The Lamer-Man: i want my power back
+[Sun Feb 19 15:57:29 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 15:57:33 2017]  say: The Lamer-Man: hahahah YES
+[Sun Feb 19 15:58:39 2017]  say: The Lamer-Man: kill them
+[Sun Feb 19 15:58:47 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 15:59:01 2017]  Kill: 2 0 3: Niggarion killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 15:59:05 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 15:59:14 2017]  say: The Lamer-Man: you are no match for ME boy
+[Sun Feb 19 15:59:30 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 15:59:34 2017]  Kill: 1022 1 3: <world> killed Exaxors by MOD_SABER
+[Sun Feb 19 15:59:38 2017]  Kill: 2 3 5: Niggarion killed The Lamer-Man by MOD_BRYAR_PISTOL_ALT
+[Sun Feb 19 15:59:40 2017]  say: The Lamer-Man: NO
+[Sun Feb 19 15:59:44 2017]  Kill: 1 3 3: Exaxors killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:59:51 2017]  Kill: 1 3 3: Exaxors killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:59:57 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 15:59:57 2017]  Kill: 1 3 3: Exaxors killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 15:59:59 2017]  say: The Lamer-Man: if i die again i lose power
+[Sun Feb 19 16:00:48 2017]  Kill: 1 0 3: Exaxors killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 16:00:54 2017]  Kill: 3 1 25: The Lamer-Man killed Exaxors by MOD_TRIP_MINE_SPLASH
+[Sun Feb 19 16:01:20 2017]  say: The Lamer-Man: where are you
+[Sun Feb 19 16:01:21 2017]  say: Niggarion: our throne 
+[Sun Feb 19 16:01:24 2017]  say: The Lamer-Man: NO
+[Sun Feb 19 16:01:33 2017]  say: Niggarion: can you tell us now how you do this?
+[Sun Feb 19 16:02:05 2017]  Kill: 2 1 2: Niggarion killed Exaxors by MOD_MELEE
+[Sun Feb 19 16:02:13 2017]  say: Niggarion: sry
+[Sun Feb 19 16:02:18 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 16:02:32 2017]  say: The Lamer-Man: NO
+[Sun Feb 19 16:02:39 2017]  say: Niggarion: FEEL THE POWER
+[Sun Feb 19 16:02:48 2017]  say: Niggarion: AHHHHHH
+[Sun Feb 19 16:02:53 2017]  Kill: 3 2 19: The Lamer-Man killed Niggarion by MOD_ROCKET
+[Sun Feb 19 16:02:59 2017]  Kill: 3 1 19: The Lamer-Man killed Exaxors by MOD_ROCKET
+[Sun Feb 19 16:03:11 2017]  Kill: 3 2 28: The Lamer-Man killed Niggarion by MOD_VEHICLE
+[Sun Feb 19 16:03:14 2017]  Kill: 1022 1 36: <world> killed Exaxors by MOD_CRUSH
+[Sun Feb 19 16:03:26 2017]  say: The Lamer-Man: you will not touch my throne again
+[Sun Feb 19 16:03:43 2017]  Kill: 1022 2 36: <world> killed Niggarion by MOD_CRUSH
+[Sun Feb 19 16:03:46 2017]  say: The Lamer-Man: take on my army
+[Sun Feb 19 16:03:47 2017]  Kill: 1022 3 39: <world> killed The Lamer-Man by MOD_SUICIDE
+[Sun Feb 19 16:03:58 2017]  Kill: 1022 1 3: <world> killed Exaxors by MOD_SABER
+[Sun Feb 19 16:04:09 2017]  Kill: 2 3 3: Niggarion killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 16:04:14 2017]  Kill: 2 0 31: Niggarion killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 16:04:25 2017]  Kill: 2 3 31: Niggarion killed The Lamer-Man by MOD_FORCE_DARK
+[Sun Feb 19 16:04:48 2017]  Kill: 1 3 3: Exaxors killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 16:05:07 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 16:05:11 2017]  Kill: 1022 1 3: <world> killed Exaxors by MOD_SABER
+[Sun Feb 19 16:05:25 2017]  Kill: 1022 3 3: <world> killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 16:05:30 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 16:05:34 2017]  Kill: 1022 0 3: <world> killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 16:05:35 2017]  Kill: 1022 3 3: <world> killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 16:05:43 2017]  Kill: 1022 3 3: <world> killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 16:05:54 2017]  Kill: 1022 3 3: <world> killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 16:06:13 2017]  Kill: 2 3 3: Niggarion killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 16:06:27 2017]  Kill: 3 2 3: The Lamer-Man killed Niggarion by MOD_SABER
+[Sun Feb 19 16:06:29 2017]  Kill: 1 3 31: Exaxors killed The Lamer-Man by MOD_FORCE_DARK
+[Sun Feb 19 16:06:49 2017]  Kill: 1022 1 3: <world> killed Exaxors by MOD_SABER
+[Sun Feb 19 16:06:54 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 16:07:05 2017]  say: Exaxors: pls dude xD how do you do that O.o
+[Sun Feb 19 16:07:10 2017]  say: The Lamer-Man: my men guard the throne now
+[Sun Feb 19 16:07:17 2017]  say: The Lamer-Man: throne has the powers
+[Sun Feb 19 16:07:40 2017]  Kill: 3 2 31: The Lamer-Man killed Niggarion by MOD_FORCE_DARK
+[Sun Feb 19 16:07:44 2017]  Kill: 1 0 31: Exaxors killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 16:08:40 2017]  Kill: 2 3 3: Niggarion killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 16:08:43 2017]  say: The Lamer-Man: NO
+[Sun Feb 19 16:09:01 2017]  Kill: 3 1 31: The Lamer-Man killed Exaxors by MOD_FORCE_DARK
+[Sun Feb 19 16:09:22 2017]  Kill: 3 2 3: The Lamer-Man killed Niggarion by MOD_SABER
+[Sun Feb 19 16:09:24 2017]  Kill: 2 1 37: Niggarion killed Exaxors by MOD_TELEFRAG
+[Sun Feb 19 16:09:27 2017]  say: The Lamer-Man: close!
+[Sun Feb 19 16:09:34 2017]  Kill: 2 0 3: Niggarion killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 16:09:37 2017]  say: The Lamer-Man: you were sitting on long enough lol
+[Sun Feb 19 16:10:29 2017]  say: Niggarion: EXA
+[Sun Feb 19 16:10:34 2017]  say: Niggarion: wait 
+[Sun Feb 19 16:10:41 2017]  say: Niggarion: kannst gleich wieder kommen
+[Sun Feb 19 16:10:45 2017]  say: Exaxors: k
+[Sun Feb 19 16:10:46 2017]  say: The Lamer-Man: nein
+[Sun Feb 19 16:10:51 2017]  say: The Lamer-Man: das ist zet gud!
+[Sun Feb 19 16:10:54 2017]  Kill: 2 0 3: Niggarion killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 16:11:13 2017]  say: The Lamer-Man: now you will NEVER get my thron
+[Sun Feb 19 16:11:18 2017]  say: The Lamer-Man: look and see hahahah
+[Sun Feb 19 16:11:21 2017]  say: Niggarion: we got him already
+[Sun Feb 19 16:11:25 2017]  say: The Lamer-Man: no
+[Sun Feb 19 16:11:27 2017]  say: Exaxors: fuck my life
+[Sun Feb 19 16:11:45 2017]  say: The Lamer-Man: KAMEHAMEHA
+[Sun Feb 19 16:11:46 2017]  say: Niggarion: pls tell us
+[Sun Feb 19 16:12:43 2017]  Kill: 1022 2 2: <world> killed Niggarion by MOD_MELEE
+[Sun Feb 19 16:12:43 2017]  say: The Lamer-Man: eat them
+[Sun Feb 19 16:12:47 2017]  say: Niggarion: boring :(
+[Sun Feb 19 16:12:56 2017]  Kill: 3 1 29: The Lamer-Man killed Exaxors by MOD_CONC
+[Sun Feb 19 16:12:56 2017]  Kill: 2 0 3: Niggarion killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 16:13:04 2017]  say: Niggarion: we fought enough why you dont tell us 
+[Sun Feb 19 16:14:11 2017]  Kill: 3 1 6: The Lamer-Man killed Exaxors by MOD_BLASTER
+[Sun Feb 19 16:14:11 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 16:14:44 2017]  Kill: 1 3 3: Exaxors killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 16:15:11 2017]  Kill: 2 0 3: Niggarion killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 16:15:13 2017]  say: The Lamer-Man: dont even think about it
+[Sun Feb 19 16:15:51 2017]  Kill: 3 1 29: The Lamer-Man killed Exaxors by MOD_CONC
+[Sun Feb 19 16:16:11 2017]  Kill: 3 3 25: The Lamer-Man killed The Lamer-Man by MOD_TRIP_MINE_SPLASH
+[Sun Feb 19 16:16:12 2017]  Kill: 0 3 37: ScaryTrapBait killed The Lamer-Man by MOD_TELEFRAG
+[Sun Feb 19 16:16:19 2017]  say: Niggarion: i have the throne
+[Sun Feb 19 16:17:02 2017]  Kill: 2 3 3: Niggarion killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 16:17:09 2017]  Kill: 1022 0 2: <world> killed ScaryTrapBait by MOD_MELEE
+[Sun Feb 19 16:17:23 2017]  say: Niggarion: exa lass leaven oder?
+[Sun Feb 19 16:17:24 2017]  Kill: 1 3 3: Exaxors killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 16:17:43 2017]  say: Niggarion: sollen wir dan privat talken
+[Sun Feb 19 16:17:48 2017]  say: Niggarion: lexaf will nicht gehen
+[Sun Feb 19 16:17:52 2017]  say: Niggarion: exa
+[Sun Feb 19 16:17:54 2017]  say: Niggarion: exa
+[Sun Feb 19 16:17:57 2017]  Kill: 3 2 13: The Lamer-Man killed Niggarion by MOD_REPEATER_ALT
+[Sun Feb 19 16:18:21 2017]  Kill: 1 0 3: Exaxors killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 16:18:43 2017]  Kill: 2 1 3: Niggarion killed Exaxors by MOD_SABER
+[Sun Feb 19 16:18:58 2017]  Kill: 1 2 31: Exaxors killed Niggarion by MOD_FORCE_DARK
+[Sun Feb 19 16:19:35 2017]  Kill: 2 1 3: Niggarion killed Exaxors by MOD_SABER
+[Sun Feb 19 16:19:43 2017]  Kill: 3 2 3: The Lamer-Man killed Niggarion by MOD_SABER
+[Sun Feb 19 16:20:11 2017]  Kill: 2 3 31: Niggarion killed The Lamer-Man by MOD_FORCE_DARK
+[Sun Feb 19 16:20:29 2017]  Kill: 3 2 3: The Lamer-Man killed Niggarion by MOD_SABER
+[Sun Feb 19 16:20:51 2017]  Kill: 2 3 3: Niggarion killed The Lamer-Man by MOD_SABER
+[Sun Feb 19 16:21:15 2017]  say: Exaxors: help
+[Sun Feb 19 16:21:21 2017]  Kill: 3 1 31: The Lamer-Man killed Exaxors by MOD_FORCE_DARK
+[Sun Feb 19 16:21:31 2017]  Kill: 1 0 3: Exaxors killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 16:21:45 2017]  say: The Lamer-Man: i am antman
+[Sun Feb 19 16:21:46 2017]  Kill: 3 1 3: The Lamer-Man killed Exaxors by MOD_SABER
+[Sun Feb 19 16:21:47 2017]  Kill: 3 0 3: The Lamer-Man killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 16:21:51 2017]  Kill: 3 2 3: The Lamer-Man killed Niggarion by MOD_SABER
+[Sun Feb 19 16:22:04 2017]  Kill: 2 0 3: Niggarion killed ScaryTrapBait by MOD_SABER
+[Sun Feb 19 16:22:06 2017]  Kill: 3 2 31: The Lamer-Man killed Niggarion by MOD_FORCE_DARK
+[Sun Feb 19 16:22:22 2017]  Kill: 3 1 31: The Lamer-Man killed Exaxors by MOD_FORCE_DARK
+[Sun Feb 19 16:22:22 2017]  Kill: 3 0 31: The Lamer-Man killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 16:22:30 2017]  Kill: 0 2 31: ScaryTrapBait killed Niggarion by MOD_FORCE_DARK
+[Sun Feb 19 16:22:56 2017]  say: Exaxors: my throne
+[Sun Feb 19 16:23:10 2017]  say: The Lamer-Man: i dont think so
+[Sun Feb 19 16:23:31 2017]  Kill: 1022 0 38: <world> killed ScaryTrapBait by MOD_FALLING
+[Sun Feb 19 16:23:34 2017]  ClientDisconnect: 0
+[Sun Feb 19 16:24:27 2017]  Kill: 1022 2 3: <world> killed Niggarion by MOD_SABER
+[Sun Feb 19 16:26:10 2017]  ClientDisconnect: 2
+[Sun Feb 19 16:27:02 2017]  Kill: 1022 1 3: <world> killed Exaxors by MOD_SABER
+[Sun Feb 19 16:27:08 2017]  say: The Lamer-Man: i could see you
+[Sun Feb 19 16:27:16 2017]  Kill: 1022 3 38: <world> killed The Lamer-Man by MOD_FALLING
+[Sun Feb 19 16:27:23 2017]  say: Exaxors: dude before i go can you say me pls what you are using ? :3
+[Sun Feb 19 16:27:40 2017]  say: The Lamer-Man: i could
+[Sun Feb 19 16:27:48 2017]  say: The Lamer-Man: but it could mess up your game if you dont know
+[Sun Feb 19 16:27:51 2017]  say: The Lamer-Man: so are you sure?
+[Sun Feb 19 16:28:12 2017]  say: Exaxors: teach me master xD
+[Sun Feb 19 16:28:42 2017]  Kill: 3 1 3: The Lamer-Man killed Exaxors by MOD_SABER
+[Sun Feb 19 16:28:46 2017]  say: The Lamer-Man: hehehe
+[Sun Feb 19 16:29:29 2017]  Kill: 3 1 31: The Lamer-Man killed Exaxors by MOD_FORCE_DARK
+[Sun Feb 19 16:29:38 2017]  say: Exaxors: so pls tell me c:
+[Sun Feb 19 16:29:46 2017]  say: The Lamer-Man: you know to pown console?
+[Sun Feb 19 16:29:50 2017]  say: The Lamer-Man: open
+[Sun Feb 19 16:29:58 2017]  say: Exaxors: ye
+[Sun Feb 19 16:30:00 2017]  say: The Lamer-Man: open it
+[Sun Feb 19 16:30:11 2017]  say: The Lamer-Man: type in qui gonn first
+[Sun Feb 19 16:31:31 2017]  say: The Lamer-Man: yyou done it?
+[Sun Feb 19 16:31:39 2017]  say: The Lamer-Man: open console
+[Sun Feb 19 16:31:53 2017]  say: The Lamer-Man: now type
+[Sun Feb 19 16:31:56 2017]  say: The Lamer-Man: /Qui GOn
+[Sun Feb 19 16:32:02 2017]  say: The Lamer-Man: /Qui Gon
+[Sun Feb 19 16:32:07 2017]  say: The Lamer-Man: then press enter
+[Sun Feb 19 16:32:10 2017]  ClientDisconnect: 1
+[Sun Feb 19 16:32:18 2017]  ClientDisconnect: 3
+[Sun Feb 19 16:45:31 2017]  ClientConnect: 0
+[Sun Feb 19 16:45:31 2017]  mlog:Player Exaxors, connected. With IP - 84.188.138.82:29070 
+[Sun Feb 19 16:45:49 2017]  ClientBegin: 0
+[Sun Feb 19 16:46:02 2017]  say: Exaxors: drive atst
+[Sun Feb 19 16:46:53 2017]  say: Exaxors: playermodel cultist
+[Sun Feb 19 16:47:23 2017]  say: Exaxors: fly_xwing
+[Sun Feb 19 16:47:39 2017]  say: Exaxors: thereisnospoon
+[Sun Feb 19 16:47:55 2017]  say: Exaxors: NPC SPAWN CULTIST_SABER_STRONG_THROW
+[Sun Feb 19 16:48:12 2017]  say: Exaxors: x-wing
+[Sun Feb 19 16:48:13 2017]  say: Exaxors: lambdashuttle
+[Sun Feb 19 16:48:25 2017]  say: Exaxors: atst_vehicle
+[Sun Feb 19 16:48:59 2017]  say: Exaxors: swoop_mp
+[Sun Feb 19 16:51:26 2017]  ClientConnect: 1
+[Sun Feb 19 16:51:26 2017]  mlog:Player Niggarion, connected. With IP - 37.201.146.151:29070 
+[Sun Feb 19 16:51:28 2017]  say: Exaxors: swoop
+[Sun Feb 19 16:51:52 2017]  Item: 0 weapon_rocket_launcher
+[Sun Feb 19 16:51:54 2017]  ClientBegin: 1
+[Sun Feb 19 16:52:02 2017]  Kill: 0 1 19: Exaxors killed Niggarion by MOD_ROCKET
+[Sun Feb 19 16:52:17 2017]  say: Exaxors: schau mal
+[Sun Feb 19 16:52:31 2017]  say: Niggarion: ?
+[Sun Feb 19 16:52:44 2017]  say: Niggarion: ?
+[Sun Feb 19 16:52:47 2017]  Item: 0 weapon_det_pack
+[Sun Feb 19 16:52:59 2017]  say: Niggarion: wie
+[Sun Feb 19 16:53:07 2017]  say: Exaxors: hehe xD
+[Sun Feb 19 16:53:20 2017]  say: Exaxors: NPC Spawn Wampa
+[Sun Feb 19 16:53:26 2017]  say: Niggarion: mach
+[Sun Feb 19 16:53:27 2017]  say: Exaxors: ok der worked nicht
+[Sun Feb 19 16:54:01 2017]  Kill: 1022 1 6: <world> killed Niggarion by MOD_BLASTER
+[Sun Feb 19 16:54:06 2017]  say: Exaxors: NPC spawn Kyle_Boss
+[Sun Feb 19 16:54:26 2017]  say: Niggarion: NPC spawn Kyle_Boss
+[Sun Feb 19 16:55:26 2017]  say: Niggarion: ja sach an 
+[Sun Feb 19 16:56:08 2017]  Kill: 1022 1 38: <world> killed Niggarion by MOD_FALLING
+[Sun Feb 19 16:56:23 2017]  say: Exaxors: npc spawn swoop
+[Sun Feb 19 16:56:26 2017]  say: Exaxors: npcspawn swoop
+[Sun Feb 19 16:56:30 2017]  say: Exaxors: npc_spawn swoop
+[Sun Feb 19 16:56:35 2017]  say: Exaxors: wtf
+[Sun Feb 19 16:56:35 2017]  say: Niggarion: ?
+[Sun Feb 19 16:57:01 2017]  say: Exaxors: npc spawn vehicle swoop
+[Sun Feb 19 16:57:56 2017]  Kill: 0 1 3: Exaxors killed Niggarion by MOD_SABER
+[Sun Feb 19 16:58:05 2017]  say: Niggarion: dan nicht
+[Sun Feb 19 16:58:58 2017]  say: Exaxors: wampa_vehicle
+[Sun Feb 19 16:59:09 2017]  say: Exaxors: warum funkt das alles nicht
+[Sun Feb 19 16:59:25 2017]  say: Niggarion: ja egal aber bitte dnek mal darüber nach was ich gesagt habe 
+[Sun Feb 19 16:59:32 2017]  ClientDisconnect: 1
+[Sun Feb 19 16:59:56 2017]  say: Exaxors: tie-bomber2
+[Sun Feb 19 16:59:58 2017]  say: Exaxors: tie-bomber
+[Sun Feb 19 17:00:58 2017]  ClientConnect: 1
+[Sun Feb 19 17:00:58 2017]  mlog:Player Niggarion, connected. With IP - 37.201.146.151:29070 
+[Sun Feb 19 17:01:25 2017]  ClientBegin: 1
+[Sun Feb 19 17:01:30 2017]  ClientConnect: 2
+[Sun Feb 19 17:01:30 2017]  mlog:Player lexaf, connected. With IP - 87.169.176.49:29070 
+[Sun Feb 19 17:01:49 2017]  ClientBegin: 2
+[Sun Feb 19 17:01:50 2017]  Kill: 0 1 10: Exaxors killed Niggarion by MOD_DISRUPTOR_SNIPER
+[Sun Feb 19 17:02:14 2017]  ClientConnect: 3
+[Sun Feb 19 17:02:14 2017]  mlog:Player ScaryTrapBait, connected. With IP - 80.128.124.122:29070 
+[Sun Feb 19 17:02:26 2017]  Kill: 1 2 3: Niggarion killed lexaf by MOD_SABER
+[Sun Feb 19 17:02:27 2017]  ClientDisconnect: 3
+[Sun Feb 19 17:02:52 2017]  ClientConnect: 3
+[Sun Feb 19 17:02:52 2017]  mlog:Player ScaryTrapBait, connected. With IP - 80.128.124.122:29070 
+[Sun Feb 19 17:03:22 2017]  ClientBegin: 3
+[Sun Feb 19 17:03:41 2017]  Kill: 3 2 3: ScaryTrapBait killed lexaf by MOD_SABER
+[Sun Feb 19 17:03:52 2017]  Kill: 3 1 3: ScaryTrapBait killed Niggarion by MOD_SABER
+[Sun Feb 19 17:04:10 2017]  say: lexaf: hi exa
+[Sun Feb 19 17:04:22 2017]  Kill: 0 3 22: Exaxors killed ScaryTrapBait by MOD_ROCKET_HOMING_SPLASH
+[Sun Feb 19 17:04:25 2017]  say: ScaryTrapBait: cheater
+[Sun Feb 19 17:04:27 2017]  say: ScaryTrapBait: !!!!!!
+[Sun Feb 19 17:04:33 2017]  say: Exaxors: homing missles xD
+[Sun Feb 19 17:04:35 2017]  say: ScaryTrapBait: sag ma wie das geht
+[Sun Feb 19 17:04:36 2017]  say: ScaryTrapBait: ;C
+[Sun Feb 19 17:05:00 2017]  Kill: 1 3 31: Niggarion killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 17:05:14 2017]  say: Exaxors: Npc spawn vehicle swoop
+[Sun Feb 19 17:05:25 2017]  Kill: 1 3 31: Niggarion killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 17:05:28 2017]  say: Exaxors: leider war der dude vorhin n admin und hatte mehr rechte als ich xD
+[Sun Feb 19 17:05:44 2017]  say: Exaxors: G_speed 0
+[Sun Feb 19 17:05:47 2017]  Kill: 2 1 3: lexaf killed Niggarion by MOD_SABER
+[Sun Feb 19 17:05:53 2017]  Kill: 1 2 3: Niggarion killed lexaf by MOD_SABER
+[Sun Feb 19 17:06:38 2017]  Kill: 1 3 31: Niggarion killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 17:06:49 2017]  Kill: 1 2 31: Niggarion killed lexaf by MOD_FORCE_DARK
+[Sun Feb 19 17:06:55 2017]  Kill: 3 1 3: ScaryTrapBait killed Niggarion by MOD_SABER
+[Sun Feb 19 17:07:06 2017]  Kill: 3 1 3: ScaryTrapBait killed Niggarion by MOD_SABER
+[Sun Feb 19 17:07:19 2017]  Kill: 1 3 31: Niggarion killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 17:07:43 2017]  Kill: 3 2 3: ScaryTrapBait killed lexaf by MOD_SABER
+[Sun Feb 19 17:08:05 2017]  Kill: 0 2 27: Exaxors killed lexaf by MOD_DET_PACK_SPLASH
+[Sun Feb 19 17:08:56 2017]  Kill: 1 3 31: Niggarion killed ScaryTrapBait by MOD_FORCE_DARK
+[Sun Feb 19 17:09:01 2017]  Kill: 1 2 3: Niggarion killed lexaf by MOD_SABER
+[Sun Feb 19 17:09:08 2017]  ClientDisconnect: 3
+[Sun Feb 19 17:09:43 2017]  Kill: 2 1 3: lexaf killed Niggarion by MOD_SABER
+[Sun Feb 19 17:09:47 2017]  ClientConnect: 3
+[Sun Feb 19 17:09:47 2017]  mlog:Player ScaryTrapBait, connected. With IP - 80.128.124.122:29070 
+[Sun Feb 19 17:10:01 2017]  ClientBegin: 3
+[Sun Feb 19 17:10:15 2017]  Kill: 1 2 3: Niggarion killed lexaf by MOD_SABER
+[Sun Feb 19 17:10:36 2017]  ClientDisconnect: 3
+[Sun Feb 19 17:10:40 2017]  ClientDisconnect: 2
+[Sun Feb 19 17:10:43 2017]  ClientDisconnect: 1
+[Sun Feb 19 17:13:07 2017]  say: Exaxors: spawn
+[Sun Feb 19 17:13:12 2017]  say: Exaxors: helpmeobi
+[Sun Feb 19 17:13:20 2017]  say: Exaxors: helpusobi 1
+[Sun Feb 19 17:13:26 2017]  say: Exaxors: helpusobi
+[Sun Feb 19 17:14:17 2017]  say: Exaxors: list
+[Sun Feb 19 17:23:07 2017]  ShutdownGame:
+[Sun Feb 19 17:23:07 2017]  ------------------------------------------------------------

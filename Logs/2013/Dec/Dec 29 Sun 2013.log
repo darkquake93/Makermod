@@ -1,0 +1,248 @@
+[Sun Dec 29 02:51:00 2013]  ------------------------------------------------------------
+[Sun Dec 29 02:51:00 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Dec 29 02:51:01 2013]  ClientConnect: 0
+[Sun Dec 29 02:52:16 2013]  ClientBegin: 0
+[Sun Dec 29 02:52:21 2013]  say: ^0z^13^0n.^1D^0ark^1P^0redator: ^1<^0///^0cool^0\\\^1>
+[Sun Dec 29 02:54:30 2013]  Kill: 0 0 39: ^0z^13^0n.^1D^0ark^1P^0redator killed ^0z^13^0n.^1D^0ark^1P^0redator by MOD_SUICIDE
+[Sun Dec 29 02:55:03 2013]  say: ^0z^13^0n.^1D^0ark^1P^0redator: ^1<^0///^0lol^0\\\^1>
+[Sun Dec 29 02:59:52 2013]  ClientDisconnect: 0
+[Sun Dec 29 04:50:59 2013]  Exit: Timelimit hit.
+[Sun Dec 29 06:33:52 2013]  ClientConnect: 0
+[Sun Dec 29 06:33:52 2013]  mlog:Player ^1Joker^8Master, connected. With IP - 84.149.112.107:29070 
+[Sun Dec 29 06:34:00 2013]  ClientBegin: 0
+[Sun Dec 29 06:34:04 2013]  ShutdownGame:
+[Sun Dec 29 06:34:04 2013]  ------------------------------------------------------------
+[Sun Dec 29 06:34:05 2013]  ------------------------------------------------------------
+[Sun Dec 29 06:34:05 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Dec 29 06:34:05 2013]  ClientConnect: 0
+[Sun Dec 29 06:34:11 2013]  ClientBegin: 0
+[Sun Dec 29 06:35:50 2013]  ClientConnect: 1
+[Sun Dec 29 06:35:50 2013]  mlog:Player MASTERF42, connected. With IP - 108.130.97.31:29070 
+[Sun Dec 29 06:36:06 2013]  ClientBegin: 1
+[Sun Dec 29 06:36:46 2013]  say: ^1Joker^8Master: so
+[Sun Dec 29 06:36:59 2013]  say: Padawan: where r u
+[Sun Dec 29 06:37:17 2013]  say: ^1Joker^8Master: a Jedi dont be scart
+[Sun Dec 29 06:37:50 2013]  say: Padawan: feel the force through u
+[Sun Dec 29 06:39:05 2013]  print "Padawan^7 @@@PLRENAME masterf42
+"[Sun Dec 29 06:39:41 2013]  say: ^1Joker^8Master: ho look it so sweet can i keep it?
+[Sun Dec 29 06:39:56 2013]  say: masterf42: !what
+[Sun Dec 29 06:40:06 2013]  say: ^1Joker^8Master: my little Rancor
+[Sun Dec 29 06:40:12 2013]  say: ^1Joker^8Master: y3
+[Sun Dec 29 06:40:14 2013]  say: masterf42: where
+[Sun Dec 29 06:40:14 2013]  say: ^1Joker^8Master: <3
+[Sun Dec 29 06:41:07 2013]  say: masterf42: can u give me force jump
+[Sun Dec 29 06:41:22 2013]  say: ^1Joker^8Master: ./mempower
+[Sun Dec 29 06:41:35 2013]  say: ^1Joker^8Master: there you go
+[Sun Dec 29 06:42:31 2013]  say: masterf42: where r u
+[Sun Dec 29 06:43:00 2013]  say: ^1Joker^8Master: wait i found you
+[Sun Dec 29 06:43:47 2013]  say: masterf42: wher
+[Sun Dec 29 06:43:55 2013]  say: ^1Joker^8Master: hi
+[Sun Dec 29 06:44:00 2013]  say: masterf42: !
+[Sun Dec 29 06:44:08 2013]  say: ^1Joker^8Master: so
+[Sun Dec 29 06:44:34 2013]  say: ^1Joker^8Master: can i keep it?
+[Sun Dec 29 06:44:58 2013]  Kill: 1 1 39: masterf42 killed masterf42 by MOD_SUICIDE
+[Sun Dec 29 06:46:42 2013]  say: ^1Joker^8Master: were are you?
+[Sun Dec 29 06:46:58 2013]  ClientConnect: 2
+[Sun Dec 29 06:46:58 2013]  mlog:Player ^4S^0H^4E^0T, connected. With IP - 213.251.210.11:-13870 
+[Sun Dec 29 06:47:02 2013]  say: masterf42: saw u on wall
+[Sun Dec 29 06:47:21 2013]  ClientBegin: 2
+[Sun Dec 29 06:47:22 2013]  Kill: 1 1 39: masterf42 killed masterf42 by MOD_SUICIDE
+[Sun Dec 29 06:47:59 2013]  Kill: 2 2 39: ^4S^0H^4E^0T killed ^4S^0H^4E^0T by MOD_SUICIDE
+[Sun Dec 29 06:47:59 2013]  setteam:  2 FREE SPECTATOR
+[Sun Dec 29 06:47:59 2013]  ClientBegin: 2
+[Sun Dec 29 06:48:10 2013]  setteam:  2 SPECTATOR FREE
+[Sun Dec 29 06:48:10 2013]  ClientBegin: 2
+[Sun Dec 29 06:48:50 2013]  say: masterf42: why u so huge man
+[Sun Dec 29 06:49:00 2013]  say: ^1Joker^8Master: no im not
+[Sun Dec 29 06:49:14 2013]  say: ^1Joker^8Master: see
+[Sun Dec 29 06:49:18 2013]  say: ^4S^0H^4E^0T: я так понимаю русских нет?
+[Sun Dec 29 06:49:37 2013]  say: ^1Joker^8Master: ./mscaleme 0.2
+[Sun Dec 29 06:49:47 2013]  ClientDisconnect: 2
+[Sun Dec 29 06:49:57 2013]  say: masterf42: what
+[Sun Dec 29 06:50:08 2013]  say: ^1Joker^8Master: ./mscaleme 5.0
+[Sun Dec 29 06:50:22 2013]  say: ^1Joker^8Master: :D
+[Sun Dec 29 06:50:42 2013]  say: masterf42: his ass is covering my screen
+[Sun Dec 29 06:50:47 2013]  say: ^1Joker^8Master: hahha
+[Sun Dec 29 06:51:00 2013]  say: ^1Joker^8Master: ok lets see
+[Sun Dec 29 06:51:28 2013]  say: ^1Joker^8Master: .\notarget
+[Sun Dec 29 06:51:41 2013]  say: ^1Joker^8Master: its on?
+[Sun Dec 29 06:52:24 2013]  say: masterf42: then what
+[Sun Dec 29 06:52:29 2013]  say: ^1Joker^8Master: swait
+[Sun Dec 29 06:52:33 2013]  say: ^1Joker^8Master: and look
+[Sun Dec 29 06:52:58 2013]  say: ^1Joker^8Master: :D
+[Sun Dec 29 06:53:23 2013]  Kill: 1 1 39: masterf42 killed masterf42 by MOD_SUICIDE
+[Sun Dec 29 06:53:32 2013]  say: ^1Joker^8Master: that a big one
+[Sun Dec 29 06:53:49 2013]  say: masterf42: thats what she said
+[Sun Dec 29 06:53:55 2013]  say: ^1Joker^8Master: ;D
+[Sun Dec 29 06:54:31 2013]  say: ^1Joker^8Master: ./mscaleme 5.0
+[Sun Dec 29 06:54:36 2013]  Kill: 1022 1 2: <world> killed masterf42 by MOD_MELEE
+[Sun Dec 29 06:54:43 2013]  say: ^1Joker^8Master: make /notarget
+[Sun Dec 29 06:54:54 2013]  say: ^1Joker^8Master: .\notarget
+[Sun Dec 29 06:55:17 2013]  say: ^1Joker^8Master: than he cant see you
+[Sun Dec 29 06:56:03 2013]  say: ^1Joker^8Master: hahaha
+[Sun Dec 29 06:56:10 2013]  say: ^1Joker^8Master: looks great
+[Sun Dec 29 06:56:43 2013]  say: ^1Joker^8Master: so
+[Sun Dec 29 06:56:57 2013]  say: masterf42: how do u spawn things
+[Sun Dec 29 06:57:12 2013]  say: ^1Joker^8Master: ./npc spwan Rancor
+[Sun Dec 29 06:58:27 2013]  say: masterf42: hello
+[Sun Dec 29 06:58:32 2013]  say: ^1Joker^8Master: hello
+[Sun Dec 29 06:58:43 2013]  say: masterf42: look behind
+[Sun Dec 29 06:58:48 2013]  say: ^1Joker^8Master: .\npc kill all
+[Sun Dec 29 06:59:20 2013]  say: ^1Joker^8Master: wosuh
+[Sun Dec 29 06:59:21 2013]  say: masterf42: haaa
+[Sun Dec 29 06:59:25 2013]  say: ^1Joker^8Master: that was loud
+[Sun Dec 29 07:01:23 2013]  say: masterf42: what now
+[Sun Dec 29 07:01:40 2013]  Kill: 1 1 39: masterf42 killed masterf42 by MOD_SUICIDE
+[Sun Dec 29 07:02:43 2013]  say: masterf42: cant kill them
+[Sun Dec 29 07:02:50 2013]  say: ^1Joker^8Master: sure
+[Sun Dec 29 07:02:59 2013]  say: masterf42: then u try
+[Sun Dec 29 07:03:27 2013]  say: masterf42: well
+[Sun Dec 29 07:03:51 2013]  say: masterf42: y do they want to fuck me
+[Sun Dec 29 07:03:56 2013]  say: ^1Joker^8Master: yes
+[Sun Dec 29 07:04:21 2013]  say: masterf42: look down
+[Sun Dec 29 07:04:35 2013]  say: ^1Joker^8Master: im looking donw
+[Sun Dec 29 07:05:04 2013]  say: masterf42: cocktrooper as been lauch
+[Sun Dec 29 07:05:11 2013]  say: ^1Joker^8Master: yep
+[Sun Dec 29 07:05:16 2013]  say: ^1Joker^8Master: so kill then
+[Sun Dec 29 07:06:34 2013]  say: masterf42: npc spawn luke
+[Sun Dec 29 07:07:19 2013]  say: masterf42: playermodel luke
+[Sun Dec 29 07:07:33 2013]  say: ^1Joker^8Master: .\npc kill all
+[Sun Dec 29 07:07:48 2013]  say: masterf42: shit thats loud
+[Sun Dec 29 07:08:26 2013]  Kill: 1 1 39: masterf42 killed masterf42 by MOD_SUICIDE
+[Sun Dec 29 07:08:59 2013]  say: ^1Joker^8Master: troopers vs Rancor
+[Sun Dec 29 07:09:03 2013]  say: ^1Joker^8Master: :D
+[Sun Dec 29 07:09:07 2013]  Kill: 1 1 39: masterf42 killed masterf42 by MOD_SUICIDE
+[Sun Dec 29 07:10:04 2013]  say: ^1Joker^8Master: eat it
+[Sun Dec 29 07:10:44 2013]  say: ^1Joker^8Master: ./mempower
+[Sun Dec 29 07:10:48 2013]  Kill: 1022 1 6: <world> killed masterf42 by MOD_BLASTER
+[Sun Dec 29 07:11:02 2013]  say: ^1Joker^8Master: and notarget :D
+[Sun Dec 29 07:11:24 2013]  say: ^1Joker^8Master: wow they did it
+[Sun Dec 29 07:11:29 2013]  say: ^1Joker^8Master: ttt
+[Sun Dec 29 07:12:08 2013]  say: masterf42: 3 jedi and six troopers
+[Sun Dec 29 07:12:38 2013]  say: masterf42: how do u make urself samll
+[Sun Dec 29 07:12:50 2013]  say: masterf42: small
+[Sun Dec 29 07:12:58 2013]  say: ^1Joker^8Master: ./mscaleme 0.2
+[Sun Dec 29 07:13:37 2013]  say: masterf42: 3 jedi and six troopers
+[Sun Dec 29 07:13:45 2013]  say: ^1Joker^8Master: notarget is on?
+[Sun Dec 29 07:13:55 2013]  say: masterf42: yea
+[Sun Dec 29 07:13:57 2013]  say: ^1Joker^8Master: ok
+[Sun Dec 29 07:14:15 2013]  Kill: 1 1 39: masterf42 killed masterf42 by MOD_SUICIDE
+[Sun Dec 29 07:14:43 2013]  say: ^1Joker^8Master: ready?
+[Sun Dec 29 07:14:54 2013]  say: masterf42: yea
+[Sun Dec 29 07:15:14 2013]  say: ^1Joker^8Master: done
+[Sun Dec 29 07:16:16 2013]  say: masterf42: now six jedi and three rancor
+[Sun Dec 29 07:16:27 2013]  say: ^1Joker^8Master: ok
+[Sun Dec 29 07:16:47 2013]  Kill: 1 1 39: masterf42 killed masterf42 by MOD_SUICIDE
+[Sun Dec 29 07:17:48 2013]  say: ^1Joker^8Master: 1 rancor
+[Sun Dec 29 07:17:58 2013]  say: ^1Joker^8Master: notarget on :D
+[Sun Dec 29 07:18:07 2013]  say: masterf42: yea
+[Sun Dec 29 07:18:37 2013]  say: masterf42: haa fuck yea
+[Sun Dec 29 07:18:53 2013]  say: ^1Joker^8Master: bad
+[Sun Dec 29 07:19:00 2013]  say: masterf42: shhh yea
+[Sun Dec 29 07:19:40 2013]  say: ^1Joker^8Master: lol
+[Sun Dec 29 07:19:56 2013]  Kill: 1022 1 2: <world> killed masterf42 by MOD_MELEE
+[Sun Dec 29 07:20:04 2013]  say: ^1Joker^8Master: dam to late sorry
+[Sun Dec 29 07:21:15 2013]  say: masterf42: ready
+[Sun Dec 29 07:22:51 2013]  say: ^1Joker^8Master: done they win
+[Sun Dec 29 07:22:54 2013]  say: masterf42: victory
+[Sun Dec 29 07:24:40 2013]  say: ^1Joker^8Master: not luke
+[Sun Dec 29 07:24:48 2013]  say: ^1Joker^8Master: oh dam can lag now
+[Sun Dec 29 07:24:48 2013]  say: masterf42: ya
+[Sun Dec 29 07:24:57 2013]  say: ^1Joker^8Master: uh
+[Sun Dec 29 07:25:00 2013]  say: ^1Joker^8Master: close
+[Sun Dec 29 07:25:13 2013]  say: ^1Joker^8Master: this dude looks cool
+[Sun Dec 29 07:25:20 2013]  say: masterf42: stuck
+[Sun Dec 29 07:25:53 2013]  say: ^1Joker^8Master: notarget 4 the win
+[Sun Dec 29 07:26:20 2013]  say: ^1Joker^8Master: wow your good
+[Sun Dec 29 07:28:20 2013]  say: masterf42: cool or waht
+[Sun Dec 29 07:28:24 2013]  say: ^1Joker^8Master: npc kill all
+[Sun Dec 29 07:28:25 2013]  say: masterf42: or what
+[Sun Dec 29 07:28:32 2013]  say: ^1Joker^8Master: they will do nothing
+[Sun Dec 29 07:29:10 2013]  say: ^1Joker^8Master: thats a cool one :D
+[Sun Dec 29 07:29:15 2013]  say: masterf42: spawn one more
+[Sun Dec 29 07:29:22 2013]  say: masterf42: trooper
+[Sun Dec 29 07:29:28 2013]  say: masterf42: ohh
+[Sun Dec 29 07:29:30 2013]  say: ^1Joker^8Master: but bugt
+[Sun Dec 29 07:29:50 2013]  Item: 0 weapon_rocket_launcher
+[Sun Dec 29 07:30:10 2013]  say: ^1Joker^8Master: .\give all
+[Sun Dec 29 07:30:52 2013]  say: masterf42: how do i use jetpack
+[Sun Dec 29 07:31:02 2013]  say: ^1Joker^8Master: jump and press use
+[Sun Dec 29 07:31:17 2013]  say: masterf42: nothing
+[Sun Dec 29 07:31:28 2013]  say: ^1Joker^8Master: mh
+[Sun Dec 29 07:32:25 2013]  say: ^1Joker^8Master: ok mybe the server will be crash but
+[Sun Dec 29 07:32:38 2013]  say: ^1Joker^8Master: i dont care
+[Sun Dec 29 07:32:54 2013]  Item: 0 weapon_repeater
+[Sun Dec 29 07:32:54 2013]  Item: 0 weapon_disruptor
+[Sun Dec 29 07:32:59 2013]  say: ^1Joker^8Master: no  mh
+[Sun Dec 29 07:33:43 2013]  say: ^1Joker^8Master: make notaget off :D
+[Sun Dec 29 07:33:51 2013]  say: ^1Joker^8Master: hahha
+[Sun Dec 29 07:34:05 2013]  say: ^1Joker^8Master: they have no wp
+[Sun Dec 29 07:35:08 2013]  say: ^1Joker^8Master: dam
+[Sun Dec 29 07:35:13 2013]  say: ^1Joker^8Master: nothing works
+[Sun Dec 29 07:35:24 2013]  say: masterf42: then rejoin
+[Sun Dec 29 07:37:36 2013]  say: ^1Joker^8Master: move away pls
+[Sun Dec 29 07:37:46 2013]  say: ^1Joker^8Master: :D
+[Sun Dec 29 07:38:06 2013]  say: masterf42: that what i was trying to spawn
+[Sun Dec 29 07:38:23 2013]  say: ^1Joker^8Master: i know everyone will
+[Sun Dec 29 07:38:28 2013]  say: ^1Joker^8Master: :D
+[Sun Dec 29 07:39:08 2013]  say: masterf42: with 6 jedi
+[Sun Dec 29 07:39:17 2013]  say: ^1Joker^8Master: ok
+[Sun Dec 29 07:39:31 2013]  say: ^1Joker^8Master: but turn notarget on
+[Sun Dec 29 07:39:39 2013]  say: masterf42: just did
+[Sun Dec 29 07:40:11 2013]  say: masterf42: this going to be funny
+[Sun Dec 29 07:41:13 2013]  say: ^1Joker^8Master: so clear all goes on the small one
+[Sun Dec 29 07:41:50 2013]  say: ^1Joker^8Master: wops
+[Sun Dec 29 07:41:59 2013]  say: masterf42: more giant jedi
+[Sun Dec 29 07:43:56 2013]  say: masterf42: attack
+[Sun Dec 29 07:44:14 2013]  say: ^1Joker^8Master: that is your rancor right?
+[Sun Dec 29 07:44:22 2013]  say: masterf42: ya
+[Sun Dec 29 07:45:18 2013]  Kill: 1022 1 2: <world> killed masterf42 by MOD_MELEE
+[Sun Dec 29 07:46:28 2013]  say: ^1Joker^8Master: OH
+[Sun Dec 29 07:46:38 2013]  say: ^1Joker^8Master: TO SMALL
+[Sun Dec 29 07:46:53 2013]  say: ^1Joker^8Master: did you see that?
+[Sun Dec 29 07:47:01 2013]  say: masterf42: dasbnd
+[Sun Dec 29 07:47:33 2013]  say: ^1Joker^8Master: wtf
+[Sun Dec 29 07:47:50 2013]  say: masterf42: just watch
+[Sun Dec 29 07:47:54 2013]  say: ^1Joker^8Master: yea
+[Sun Dec 29 07:48:55 2013]  say: ^1Joker^8Master: so i hit I and all dead
+[Sun Dec 29 07:49:48 2013]  say: ^1Joker^8Master: the super small one win?
+[Sun Dec 29 07:49:50 2013]  say: ^1Joker^8Master: gz
+[Sun Dec 29 07:51:16 2013]  say: masterf42: put alot of lukes
+[Sun Dec 29 07:51:43 2013]  say: ^1Joker^8Master: woooooooooo
+[Sun Dec 29 07:51:48 2013]  say: masterf42: ya
+[Sun Dec 29 07:52:39 2013]  say: masterf42: fucking lag
+[Sun Dec 29 07:52:42 2013]  say: ^1Joker^8Master: fly me to the moon
+[Sun Dec 29 07:54:05 2013]  say: ^1Joker^8Master: ok man im goin tiaerd
+[Sun Dec 29 07:54:34 2013]  say: ^1Joker^8Master: goin in my bed itґs 8 in the morning
+[Sun Dec 29 07:54:40 2013]  say: ^1Joker^8Master: dam
+[Sun Dec 29 07:55:01 2013]  say: masterf42: 2 over here
+[Sun Dec 29 07:55:09 2013]  say: masterf42: am
+[Sun Dec 29 07:55:25 2013]  say: ^1Joker^8Master: good bye man :D
+[Sun Dec 29 07:55:34 2013]  say: ^1Joker^8Master: see ya later
+[Sun Dec 29 07:55:43 2013]  say: masterf42: bye
+[Sun Dec 29 07:57:51 2013]  say: masterf42: what time will u awake up
+[Sun Dec 29 07:58:03 2013]  say: ^1Joker^8Master: 8 Houres
+[Sun Dec 29 07:58:13 2013]  Item: 0 ammo_all
+[Sun Dec 29 07:58:14 2013]  say: masterf42: alright me 10
+[Sun Dec 29 07:58:20 2013]  say: ^1Joker^8Master: good :D
+[Sun Dec 29 07:58:31 2013]  say: ^1Joker^8Master: ok good night :D
+[Sun Dec 29 07:58:46 2013]  ClientDisconnect: 0
+[Sun Dec 29 07:58:56 2013]  say: masterf42: npc sapwn jedi
+[Sun Dec 29 08:00:36 2013]  say: masterf42: npc kill all
+[Sun Dec 29 08:02:59 2013]  ClientDisconnect: 1
+[Sun Dec 29 08:34:04 2013]  Exit: Timelimit hit.
+[Sun Dec 29 10:26:36 2013]  ClientConnect: 0
+[Sun Dec 29 10:26:36 2013]  mlog:Player WhiteMagicRaven, connected. With IP - 213.179.230.13:29070 
+[Sun Dec 29 10:26:42 2013]  ClientDisconnect: 0
+[Sun Dec 29 10:27:02 2013]  ClientConnect: 0
+[Sun Dec 29 10:27:02 2013]  mlog:Player Padawan, connected. With IP - 213.179.230.13:29070 
+[Sun Dec 29 10:27:11 2013]  ClientDisconnect: 0
+[Sun Dec 29 15:59:23 2013]  ClientConnect: 0
+[Sun Dec 29 15:59:23 2013]  mlog:Player Padawan, connected. With IP - 85.26.231.100:28798 
+[Sun Dec 29 16:02:44 2013]  ClientDisconnect: 0
+[Mon Dec 30 00:41:52 2013]  ClientConnect: 0
+[Mon Dec 30 00:41:52 2013]  mlog:Player ^1M^7r ^1Р^7innertime, connected. With IP - 151.227.122.213:29071 
+[Mon Dec 30 00:42:14 2013]  ClientBegin: 0
+[Mon Dec 30 00:42:15 2013]  say: ^1M^7r ^1Р^7innertime: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon Dec 30 00:43:16 2013]  ShutdownGame:
+[Mon Dec 30 00:43:16 2013]  ------------------------------------------------------------

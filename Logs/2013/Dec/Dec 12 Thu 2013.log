@@ -1,0 +1,132 @@
+[Thu Dec 12 10:22:19 2013]  ------------------------------------------------------------
+[Thu Dec 12 10:22:19 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Dec 12 12:22:13 2013]  Exit: Timelimit hit.
+[Thu Dec 12 14:31:36 2013]  ClientConnect: 0
+[Thu Dec 12 14:31:36 2013]  mlog:Player ^4S^0H^4E^0T, connected. With IP - 213.251.207.113:-869 
+[Thu Dec 12 14:31:45 2013]  ClientBegin: 0
+[Thu Dec 12 14:31:48 2013]  ClientDisconnect: 0
+[Thu Dec 12 14:35:50 2013]  ClientConnect: 0
+[Thu Dec 12 14:35:50 2013]  mlog:Player ^0Ve^2ran{ILLU^0MINATI}{I}, connected. With IP - 85.174.52.133:29070 
+[Thu Dec 12 14:36:18 2013]  ClientBegin: 0
+[Thu Dec 12 14:36:48 2013]  ClientConnect: 1
+[Thu Dec 12 14:36:48 2013]  mlog:Player ^8Darth ^3Javimetal, connected. With IP - 85.219.4.121:29070 
+[Thu Dec 12 14:36:56 2013]  ShutdownGame:
+[Thu Dec 12 14:36:56 2013]  ------------------------------------------------------------
+[Thu Dec 12 14:36:57 2013]  ------------------------------------------------------------
+[Thu Dec 12 14:36:57 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Dec 12 14:36:58 2013]  ClientConnect: 0
+[Thu Dec 12 14:36:58 2013]  ClientConnect: 1
+[Thu Dec 12 14:37:13 2013]  ClientBegin: 0
+[Thu Dec 12 14:37:32 2013]  ClientBegin: 1
+[Thu Dec 12 14:37:34 2013]  say: ^0-<EF>- ^7Darth ^7Amras: hola
+[Thu Dec 12 14:37:52 2013]  print "^0-<EF>- ^7Darth ^7Amras^7 @@@PLRENAME ^8Darth ^3Javimetal
+"[Thu Dec 12 14:38:27 2013]  ClientDisconnect: 0
+[Thu Dec 12 14:39:01 2013]  ClientDisconnect: 1
+[Thu Dec 12 15:10:22 2013]  ClientConnect: 0
+[Thu Dec 12 15:10:22 2013]  mlog:Player ^4S^0H^4E^0T, connected. With IP - 213.251.207.113:-4608 
+[Thu Dec 12 15:10:32 2013]  ClientBegin: 0
+[Thu Dec 12 15:10:54 2013]  ClientDisconnect: 0
+[Thu Dec 12 16:36:56 2013]  Exit: Timelimit hit.
+[Thu Dec 12 17:16:42 2013]  ClientConnect: 0
+[Thu Dec 12 17:16:42 2013]  mlog:Player ^3^5^4Ki^8As|ILLUMINATI|=K, connected. With IP - 46.39.248.67:20709 
+[Thu Dec 12 17:16:54 2013]  ClientBegin: 0
+[Thu Dec 12 17:17:00 2013]  ShutdownGame:
+[Thu Dec 12 17:17:00 2013]  ------------------------------------------------------------
+[Thu Dec 12 17:17:01 2013]  ------------------------------------------------------------
+[Thu Dec 12 17:17:01 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Dec 12 17:17:03 2013]  ClientConnect: 0
+[Thu Dec 12 17:17:12 2013]  ClientBegin: 0
+[Thu Dec 12 17:17:43 2013]  say: ^8Ki^4as: .êï
+[Thu Dec 12 17:17:48 2013]  say: ^8Ki^4as: .óêýï
+[Thu Dec 12 17:18:02 2013]  say: ^8Ki^4as: ^1CÓÊÈ
+[Thu Dec 12 17:18:07 2013]  say: ^8Ki^4as: ÅÏ
+[Thu Dec 12 17:18:09 2013]  say: ^8Ki^4as: ÏÅ
+[Thu Dec 12 17:27:33 2013]  ClientDisconnect: 0
+[Thu Dec 12 19:17:00 2013]  Exit: Timelimit hit.
+[Thu Dec 12 20:50:47 2013]  ClientConnect: 0
+[Thu Dec 12 20:50:47 2013]  mlog:Player ^5»^0SK^5|||^0WØLF^5«^0™, connected. With IP - 201.92.199.148:29070 
+[Thu Dec 12 20:51:51 2013]  ClientBegin: 0
+[Thu Dec 12 20:51:51 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Dec 12 20:51:55 2013]  ShutdownGame:
+[Thu Dec 12 20:51:55 2013]  ------------------------------------------------------------
+[Thu Dec 12 20:51:56 2013]  ------------------------------------------------------------
+[Thu Dec 12 20:51:56 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Dec 12 20:51:56 2013]  ClientConnect: 0
+[Thu Dec 12 20:52:24 2013]  ClientBegin: 0
+[Thu Dec 12 20:52:25 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Dec 12 20:54:42 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Minimized
+[Thu Dec 12 20:55:06 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Restored
+[Thu Dec 12 20:55:20 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Minimized
+[Thu Dec 12 20:55:27 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Restored
+[Thu Dec 12 20:55:33 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Minimized
+[Thu Dec 12 20:55:39 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Restored
+[Thu Dec 12 20:55:58 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Minimized
+[Thu Dec 12 20:56:43 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Restored
+[Thu Dec 12 20:57:18 2013]  ClientDisconnect: 0
+[Thu Dec 12 21:03:28 2013]  ClientConnect: 0
+[Thu Dec 12 21:03:28 2013]  mlog:Player ^5»^0SK^5|||^0WØLF^5«^0™, connected. With IP - 201.92.199.148:29070 
+[Thu Dec 12 21:04:11 2013]  ClientBegin: 0
+[Thu Dec 12 21:04:11 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Dec 12 21:05:41 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7<^0-THX-^7>
+[Thu Dec 12 21:07:11 2013]  ClientDisconnect: 0
+[Thu Dec 12 21:33:05 2013]  ClientConnect: 0
+[Thu Dec 12 21:33:05 2013]  mlog:Player A39QO30, connected. With IP - 71.175.183.20:29070 
+[Thu Dec 12 21:33:31 2013]  ClientBegin: 0
+[Thu Dec 12 21:35:30 2013]  Kill: 0 0 39: A39QO30 killed A39QO30 by MOD_SUICIDE
+[Thu Dec 12 21:36:51 2013]  Kill: 0 0 39: A39QO30 killed A39QO30 by MOD_SUICIDE
+[Thu Dec 12 21:38:55 2013]  ClientDisconnect: 0
+[Thu Dec 12 21:44:34 2013]  ClientConnect: 0
+[Thu Dec 12 21:44:34 2013]  mlog:Player A39QO30, connected. With IP - 71.175.183.20:29070 
+[Thu Dec 12 21:44:52 2013]  ClientBegin: 0
+[Thu Dec 12 22:11:31 2013]  Item: 0 ammo_all
+[Thu Dec 12 22:11:35 2013]  Item: 0 ammo_all
+[Thu Dec 12 22:11:40 2013]  Item: 0 ammo_all
+[Thu Dec 12 22:11:46 2013]  Item: 0 ammo_all
+[Thu Dec 12 22:12:44 2013]  Item: 0 ammo_all
+[Thu Dec 12 22:12:47 2013]  Item: 0 ammo_all
+[Thu Dec 12 22:17:51 2013]  say: A39QO30: Mlist ctory
+[Thu Dec 12 22:17:54 2013]  say: A39QO30: Mlist ctory
+[Thu Dec 12 22:18:36 2013]  say: A39QO30: mplace tank
+[Thu Dec 12 22:30:42 2013]  Item: 0 ammo_all
+[Thu Dec 12 22:32:22 2013]  say: A39QO30: scroll
+[Thu Dec 12 22:33:22 2013]  Kill: 1022 0 39: <world> killed A39QO30 by MOD_SUICIDE
+[Thu Dec 12 22:36:43 2013]  Kill: 1022 0 7: <world> killed A39QO30 by MOD_TURBLAST
+[Thu Dec 12 22:36:58 2013]  Item: 0 item_eweb_holdable
+[Thu Dec 12 22:38:25 2013]  Kill: 1022 0 7: <world> killed A39QO30 by MOD_TURBLAST
+[Thu Dec 12 22:38:39 2013]  Kill: 1022 0 7: <world> killed A39QO30 by MOD_TURBLAST
+[Thu Dec 12 22:40:18 2013]  Kill: 1022 0 7: <world> killed A39QO30 by MOD_TURBLAST
+[Thu Dec 12 22:40:35 2013]  Kill: 1022 0 7: <world> killed A39QO30 by MOD_TURBLAST
+[Thu Dec 12 22:47:42 2013]  Item: 0 ammo_all
+[Thu Dec 12 22:50:27 2013]  Item: 0 ammo_all
+[Thu Dec 12 22:51:54 2013]  Exit: Timelimit hit.
+[Thu Dec 12 22:51:54 2013]  score: 13  ping: 176  client: 0 A39QO30
+[Thu Dec 12 22:52:00 2013]  ShutdownGame:
+[Thu Dec 12 22:52:00 2013]  ------------------------------------------------------------
+[Thu Dec 12 22:52:01 2013]  ------------------------------------------------------------
+[Thu Dec 12 22:52:01 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Dec 12 22:52:03 2013]  ClientConnect: 0
+[Thu Dec 12 22:53:28 2013]  ClientBegin: 0
+[Thu Dec 12 22:57:39 2013]  ClientDisconnect: 0
+[Fri Dec 13 00:36:37 2013]  ClientConnect: 0
+[Fri Dec 13 00:36:37 2013]  mlog:Player ^0A^5gen^0t, connected. With IP - 98.220.149.33:29071 
+[Fri Dec 13 00:36:58 2013]  ClientBegin: 0
+[Fri Dec 13 00:38:42 2013]  Kill: 0 0 39: ^0A^5gen^0t killed ^0A^5gen^0t by MOD_SUICIDE
+[Fri Dec 13 00:40:08 2013]  Kill: 1022 0 36: <world> killed ^0A^5gen^0t by MOD_CRUSH
+[Fri Dec 13 00:40:41 2013]  Kill: 1022 0 36: <world> killed ^0A^5gen^0t by MOD_CRUSH
+[Fri Dec 13 00:41:45 2013]  ClientDisconnect: 0
+[Fri Dec 13 00:41:45 2013]  ClientDisconnect: 0
+[Fri Dec 13 00:41:45 2013]  ClientConnect: 0
+[Fri Dec 13 00:41:45 2013]  mlog:Player ^0A^5gen^0t, connected. With IP - 98.220.149.33:29071 
+[Fri Dec 13 00:41:58 2013]  ClientBegin: 0
+[Fri Dec 13 00:42:49 2013]  say: ^0A^5gen^0t: mmarkfoot
+[Fri Dec 13 00:43:21 2013]  ClientDisconnect: 0
+[Fri Dec 13 00:52:00 2013]  Exit: Timelimit hit.
+[Fri Dec 13 13:27:12 2013]  ClientConnect: 0
+[Fri Dec 13 13:27:12 2013]  mlog:Player ^4S^0H^4E^0T, connected. With IP - 213.251.207.113:-15152 
+[Fri Dec 13 13:27:35 2013]  ClientBegin: 0
+[Fri Dec 13 13:27:44 2013]  ClientDisconnect: 0
+[Fri Dec 13 13:42:31 2013]  ClientConnect: 0
+[Fri Dec 13 13:42:31 2013]  mlog:Player <{^1KOTR^7}>^0Altair^7-JPR, connected. With IP - 89.145.152.30:29070 
+[Fri Dec 13 13:42:52 2013]  ClientBegin: 0
+[Fri Dec 13 13:42:54 2013]  ShutdownGame:
+[Fri Dec 13 13:42:54 2013]  ------------------------------------------------------------

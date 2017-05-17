@@ -1,0 +1,1323 @@
+[Mon May 23 16:18:03 2016]  ------------------------------------------------------------
+[Mon May 23 16:18:03 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 23 16:18:28 2016]  ShutdownGame:
+[Mon May 23 16:18:28 2016]  ------------------------------------------------------------
+[Mon May 23 16:18:29 2016]  ------------------------------------------------------------
+[Mon May 23 16:18:29 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\rannon_praxeum_day\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 23 16:18:40 2016]  ClientConnect: 0
+[Mon May 23 16:18:40 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon May 23 16:19:24 2016]  ClientBegin: 0
+[Mon May 23 16:29:26 2016]  ClientConnect: 1
+[Mon May 23 16:29:26 2016]  mlog:Player Tgraham5en, connected. With IP - 92.21.209.75:29070 
+[Mon May 23 16:29:59 2016]  ClientConnect: 2
+[Mon May 23 16:29:59 2016]  mlog:Player Montydog9, connected. With IP - 86.10.130.253:29070 
+[Mon May 23 16:30:12 2016]  ShutdownGame:
+[Mon May 23 16:30:12 2016]  ------------------------------------------------------------
+[Mon May 23 16:30:12 2016]  ------------------------------------------------------------
+[Mon May 23 16:30:12 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 23 16:30:14 2016]  ClientConnect: 0
+[Mon May 23 16:30:14 2016]  ClientConnect: 1
+[Mon May 23 16:30:14 2016]  ClientConnect: 2
+[Mon May 23 16:30:31 2016]  ClientBegin: 0
+[Mon May 23 16:30:46 2016]  ClientBegin: 1
+[Mon May 23 16:30:50 2016]  Kill: 2 1 37: Montydog9 killed Tgraham5en by MOD_TELEFRAG
+[Mon May 23 16:30:50 2016]  ClientBegin: 2
+[Mon May 23 16:30:59 2016]  say: ^0Ðàrk^2^1Qµàkè: damn
+[Mon May 23 16:31:01 2016]  say: ^0Ðàrk^2^1Qµàkè: ignore that
+[Mon May 23 16:31:24 2016]  say: Tgraham5en: montydog is my firend
+[Mon May 23 16:31:24 2016]  say: ^0Ðàrk^2^1Qµàkè: no wait
+[Mon May 23 16:31:33 2016]  say: ^0Ðàrk^2^1Qµàkè: I just said it doesn't work on Makermod, lifts etc
+[Mon May 23 16:31:38 2016]  say: Tgraham5en: thats my firend
+[Mon May 23 16:31:41 2016]  say: Montydog9: k
+[Mon May 23 16:31:48 2016]  say: Montydog9: gof
+[Mon May 23 16:32:33 2016]  say: ^0Ðàrk^2^1Qµàkè: you gotta spawn them higher
+[Mon May 23 16:32:37 2016]  say: Tgraham5en: oh how?
+[Mon May 23 16:32:45 2016]  say: ^0Ðàrk^2^1Qµàkè: I'll make them :) Using noclip, go a bit higher
+[Mon May 23 16:33:09 2016]  say: Tgraham5en: thanks
+[Mon May 23 16:33:14 2016]  say: ^0Ðàrk^2^1Qµàkè: wrong way haha
+[Mon May 23 16:33:17 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Mon May 23 16:33:21 2016]  say: Tgraham5en: xD
+[Mon May 23 16:33:26 2016]  say: ^0Ðàrk^2^1Qµàkè: there :)
+[Mon May 23 16:33:38 2016]  say: Tgraham5en: thanks dude
+[Mon May 23 16:33:48 2016]  say: Tgraham5en: ur the best
+[Mon May 23 16:33:52 2016]  say: Tgraham5en: OMFG
+[Mon May 23 16:33:53 2016]  say: ^0Ðàrk^2^1Qµàkè: haha np
+[Mon May 23 16:33:58 2016]  Kill: 1022 1 2: <world> killed Tgraham5en by MOD_MELEE
+[Mon May 23 16:34:02 2016]  say: ^0Ðàrk^2^1Qµàkè: that was too low XD
+[Mon May 23 16:34:07 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 16:34:16 2016]  Kill: 1022 2 2: <world> killed Montydog9 by MOD_MELEE
+[Mon May 23 16:34:17 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Mon May 23 16:34:32 2016]  Kill: 1022 2 2: <world> killed Montydog9 by MOD_MELEE
+[Mon May 23 16:34:54 2016]  say: ^0Ðàrk^2^1Qµàkè: cool :)
+[Mon May 23 16:35:02 2016]  say: Montydog9: im darf vader
+[Mon May 23 16:35:04 2016]  Kill: 1022 1 2: <world> killed Tgraham5en by MOD_MELEE
+[Mon May 23 16:35:21 2016]  say: ^0Ðàrk^2^1Qµàkè: brb gonna look at vehicle list XD
+[Mon May 23 16:35:23 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Mon May 23 16:35:27 2016]  say: Tgraham5en: ok dude
+[Mon May 23 16:35:37 2016]  Kill: 1022 1 2: <world> killed Tgraham5en by MOD_MELEE
+[Mon May 23 16:35:45 2016]  Kill: 1022 1 2: <world> killed Tgraham5en by MOD_MELEE
+[Mon May 23 16:36:04 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 16:36:23 2016]  Kill: 1 2 2: Tgraham5en killed Montydog9 by MOD_MELEE
+[Mon May 23 16:37:21 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 16:37:32 2016]  say: Montydog9: how did you make this server
+[Mon May 23 16:38:02 2016]  Kill: 1 2 3: Tgraham5en killed Montydog9 by MOD_SABER
+[Mon May 23 16:38:37 2016]  say: ^0Ðàrk^2^1Qµàkè: lots of setup,but basically we have a physical server that hosts darkquake.com, and a subdomain  svr  points to my main computer's ip.
+[Mon May 23 16:38:51 2016]  say: Tgraham5en: xD cONFUSING
+[Mon May 23 16:39:06 2016]  say: ^0Ðàrk^2^1Qµàkè: then ports were opened to allow this game to point to the subdomain when a server is hosted :)
+[Mon May 23 16:39:13 2016]  say: ^0Ðàrk^2^1Qµàkè: I can't quite remember XD Something like that
+[Mon May 23 16:39:14 2016]  say: Montydog9: uM
+[Mon May 23 16:39:19 2016]  say: Montydog9: yeah got it
+[Mon May 23 16:39:22 2016]  say: Montydog9: TOTS
+[Mon May 23 16:39:24 2016]  say: ^0Ðàrk^2^1Qµàkè: haha ^^
+[Mon May 23 16:39:25 2016]  say: Montydog9: XD
+[Mon May 23 16:39:40 2016]  say: ^0Ðàrk^2^1Qµàkè: Just a lot of googleing helped lol
+[Mon May 23 16:39:44 2016]  say: Montydog9: is it free to host
+[Mon May 23 16:39:45 2016]  say: Tgraham5en: lol
+[Mon May 23 16:39:49 2016]  say: ^0Ðàrk^2^1Qµàkè: but we just host it locally, instead of paying for hosting
+[Mon May 23 16:40:06 2016]  Kill: 2 1 3: Montydog9 killed Tgraham5en by MOD_SABER
+[Mon May 23 16:40:21 2016]  say: Tgraham5en: i wish we had rannon praxeum
+[Mon May 23 16:40:29 2016]  say: Tgraham5en: ;-;
+[Mon May 23 16:40:34 2016]  Kill: 2 2 39: Montydog9 killed Montydog9 by MOD_SUICIDE
+[Mon May 23 16:40:45 2016]  say: ^0Ðàrk^2^1Qµàkè: well I'll set up a custom server now for it :) JA+ might handle the lifts etc if you want that
+[Mon May 23 16:40:55 2016]  say: Tgraham5en: JA+ :D
+[Mon May 23 16:42:15 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Mon May 23 16:42:20 2016]  say: ^0Ðàrk^2^1Qµàkè: I dunno if this will work, but I'm gonna test it. Have fun in the meantime :)
+[Mon May 23 16:42:27 2016]  say: Tgraham5en: ok :)
+[Mon May 23 16:42:30 2016]  ClientDisconnect: 0
+[Mon May 23 16:42:40 2016]  Kill: 2 1 22: Montydog9 killed Tgraham5en by MOD_ROCKET_HOMING_SPLASH
+[Mon May 23 16:43:46 2016]  Kill: 1022 1 36: <world> killed Tgraham5en by MOD_CRUSH
+[Mon May 23 16:43:59 2016]  Kill: 1022 1 36: <world> killed Tgraham5en by MOD_CRUSH
+[Mon May 23 16:44:26 2016]  Kill: 1022 1 2: <world> killed Tgraham5en by MOD_MELEE
+[Mon May 23 16:45:02 2016]  Kill: 1022 1 2: <world> killed Tgraham5en by MOD_MELEE
+[Mon May 23 16:45:33 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Mon May 23 16:45:44 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 16:45:54 2016]  Kill: 1022 1 36: <world> killed Tgraham5en by MOD_CRUSH
+[Mon May 23 16:46:28 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 16:47:00 2016]  Kill: 2 1 6: Montydog9 killed Tgraham5en by MOD_BLASTER
+[Mon May 23 16:50:06 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Mon May 23 16:50:12 2016]  Kill: 1022 1 2: <world> killed Tgraham5en by MOD_MELEE
+[Mon May 23 16:50:37 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Mon May 23 16:50:49 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 16:51:05 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Mon May 23 16:51:23 2016]  Kill: 2 1 6: Montydog9 killed Tgraham5en by MOD_BLASTER
+[Mon May 23 16:52:57 2016]  Kill: 1022 1 36: <world> killed Tgraham5en by MOD_CRUSH
+[Mon May 23 16:53:25 2016]  Kill: 1022 1 36: <world> killed Tgraham5en by MOD_CRUSH
+[Mon May 23 16:53:44 2016]  Kill: 1022 1 36: <world> killed Tgraham5en by MOD_CRUSH
+[Mon May 23 16:54:43 2016]  say: Montydog9: npc spawn vehicle tie_bomber
+[Mon May 23 16:55:58 2016]  Kill: 1022 2 2: <world> killed Montydog9 by MOD_MELEE
+[Mon May 23 16:56:21 2016]  Kill: 1022 2 2: <world> killed Montydog9 by MOD_MELEE
+[Mon May 23 16:57:18 2016]  ClientConnect: 0
+[Mon May 23 16:57:18 2016]  mlog:Player Padawan, connected. With IP - 78.58.209.77:29070 
+[Mon May 23 16:57:23 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 16:57:47 2016]  say: Montydog9: leave private server only
+[Mon May 23 16:57:57 2016]  ClientBegin: 0
+[Mon May 23 16:58:19 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 16:58:19 2016]  say: Padawan: hello
+[Mon May 23 16:58:23 2016]  say: Tgraham5en: bye
+[Mon May 23 16:58:27 2016]  say: Padawan: :)
+[Mon May 23 16:58:31 2016]  print "Padawan^7 @@@PLRENAME hi
+"[Mon May 23 16:58:35 2016]  say: Tgraham5en: do you have a proper name
+[Mon May 23 16:58:49 2016]  ShutdownGame:
+[Mon May 23 16:58:49 2016]  ------------------------------------------------------------
+[Mon May 23 16:58:51 2016]  ------------------------------------------------------------
+[Mon May 23 16:58:51 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\rannon_praxeum_day\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 23 16:58:55 2016]  ClientConnect: 0
+[Mon May 23 16:58:55 2016]  ClientConnect: 1
+[Mon May 23 16:58:55 2016]  ClientConnect: 2
+[Mon May 23 16:59:04 2016]  ClientDisconnect: 0
+[Mon May 23 16:59:13 2016]  ClientBegin: 2
+[Mon May 23 16:59:23 2016]  ClientBegin: 1
+[Mon May 23 17:00:26 2016]  Kill: 1022 1 2: <world> killed Tgraham5en by MOD_MELEE
+[Mon May 23 17:00:34 2016]  Kill: 2 1 2: Montydog9 killed Tgraham5en by MOD_MELEE
+[Mon May 23 17:00:37 2016]  Kill: 1022 2 39: <world> killed Montydog9 by MOD_SUICIDE
+[Mon May 23 17:00:54 2016]  Kill: 1022 1 6: <world> killed Tgraham5en by MOD_BLASTER
+[Mon May 23 17:01:42 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:01:49 2016]  Item: 1 weapon_rocket_launcher
+[Mon May 23 17:01:57 2016]  Kill: 1022 1 39: <world> killed Tgraham5en by MOD_SUICIDE
+[Mon May 23 17:01:57 2016]  Kill: 1022 2 39: <world> killed Montydog9 by MOD_SUICIDE
+[Mon May 23 17:02:42 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:02:42 2016]  Kill: 1022 1 39: <world> killed Tgraham5en by MOD_SUICIDE
+[Mon May 23 17:03:10 2016]  Kill: 1 2 5: Tgraham5en killed Montydog9 by MOD_BRYAR_PISTOL_ALT
+[Mon May 23 17:03:27 2016]  print "Tgraham5en^7 @@@PLRENAME ^5Tgraham5en
+"[Mon May 23 17:03:50 2016]  Kill: 1022 1 36: <world> killed ^5Tgraham5en by MOD_CRUSH
+[Mon May 23 17:04:30 2016]  Kill: 1022 1 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:04:33 2016]  Kill: 1022 2 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:04:57 2016]  -8<------- Crash Information ------->8-
+[Mon May 23 17:04:57 2016]      Please forward to Scooper 
+[Mon May 23 17:04:57 2016]  ---------------------------------------
+[Mon May 23 17:04:57 2016]  Version: MakerMod Win32
+[Mon May 23 17:04:57 2016]  Build Date: Dec 27 2010[Mon May 23 17:04:57 2016]  Build Time: 23:45:02[Mon May 23 17:04:57 2016]  Map: rannon_praxeum_day
+[Mon May 23 17:04:57 2016]  Exception: Access violation (0xc0000005)
+[Mon May 23 17:04:57 2016]  Exception Address: 0x2015081a
+[Mon May 23 17:04:57 2016]  DLL Information:
+[Mon May 23 17:04:57 2016]  0x00400000	jampDed
+[Mon May 23 17:04:57 2016]  0x77bd0000	ntdll
+[Mon May 23 17:04:57 2016]  0x76b50000	kernel32
+[Mon May 23 17:04:57 2016]  0x75630000	KERNELBASE
+[Mon May 23 17:04:57 2016]  0x75350000	WSOCK32
+[Mon May 23 17:04:57 2016]  0x76cc0000	WS2_32
+[Mon May 23 17:04:57 2016]  0x76aa0000	msvcrt
+[Mon May 23 17:04:57 2016]  0x76fa0000	RPCRT4
+[Mon May 23 17:04:57 2016]  0x755d0000	SspiCli
+[Mon May 23 17:04:57 2016]  0x755c0000	CRYPTBASE
+[Mon May 23 17:04:57 2016]  0x75720000	sechost
+[Mon May 23 17:04:57 2016]  0x775f0000	NSI
+[Mon May 23 17:04:57 2016]  0x73d70000	WINMM
+[Mon May 23 17:04:57 2016]  0x76ea0000	USER32
+[Mon May 23 17:04:57 2016]  0x763b0000	GDI32
+[Mon May 23 17:04:57 2016]  0x775e0000	LPK
+[Mon May 23 17:04:57 2016]  0x776e0000	USP10
+[Mon May 23 17:04:57 2016]  0x77610000	ADVAPI32
+[Mon May 23 17:04:57 2016]  0x77170000	IMM32
+[Mon May 23 17:04:57 2016]  0x765c0000	MSCTF
+[Mon May 23 17:04:57 2016]  0x752f0000	mswsock
+[Mon May 23 17:04:57 2016]  0x752e0000	wshtcpip
+[Mon May 23 17:04:57 2016]  0x71670000	NLAapi
+[Mon May 23 17:04:57 2016]  0x72e10000	napinsp
+[Mon May 23 17:04:57 2016]  0x72df0000	pnrpnsp
+[Mon May 23 17:04:57 2016]  0x720d0000	DNSAPI
+[Mon May 23 17:04:57 2016]  0x72de0000	winrnr
+[Mon May 23 17:04:57 2016]  0x72080000	WLIDNSP
+[Mon May 23 17:04:57 2016]  0x77ba0000	PSAPI
+[Mon May 23 17:04:57 2016]  0x76c60000	SHLWAPI
+[Mon May 23 17:04:57 2016]  0x72dd0000	wshbth
+[Mon May 23 17:04:57 2016]  0x73e30000	IPHLPAPI
+[Mon May 23 17:04:57 2016]  0x73e20000	WINNSI
+[Mon May 23 17:04:57 2016]  0x72040000	fwpuclnt
+[Mon May 23 17:04:57 2016]  0x72030000	rasadhlp
+[Mon May 23 17:04:57 2016]  0x20000000	jampgamex86
+[Mon May 23 17:04:57 2016]  0x777a0000	IMAGEHLP
+[Mon May 23 17:04:57 2016]  0x6f480000	dbghelp
+[Mon May 23 17:04:57 2016]  Backtrace:
+[Mon May 23 17:04:57 2016]  (0) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x8ea4a) [0x2015081a]
+[Mon May 23 17:04:57 2016]  (1) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0x63fe) [0x200a596e]
+[Mon May 23 17:04:57 2016]  (2) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0xdd) [0x2009f64d]
+[Mon May 23 17:04:57 2016]  (3) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Mon May 23 17:04:57 2016]  (4) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0044c751]
+[Mon May 23 17:04:57 2016]  (5) E:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x00411e0d]
+[Mon May 23 17:04:57 2016]  (6) C:\Windows\syswow64\kernel32.dll(BaseThreadInitThunk+0x12) [0x76b6338a]
+[Mon May 23 17:04:57 2016]  (7) C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x77c09902]
+[Mon May 23 17:04:57 2016]  (8) C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x77c098d5]
+[Mon May 23 17:04:57 2016]  -8<--------------------------------->8-
+
+[Mon May 23 17:04:57 2016]  Attempting to clean up.
+[Mon May 23 17:04:57 2016]  ShutdownGame:
+[Mon May 23 17:04:57 2016]  ------------------------------------------------------------
+[Mon May 23 17:05:00 2016]  ------------------------------------------------------------
+[Mon May 23 17:05:00 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 23 17:06:55 2016]  ClientConnect: 0
+[Mon May 23 17:06:55 2016]  mlog:Player ^5Tgraham5en, connected. With IP - 92.21.209.75:29070 
+[Mon May 23 17:07:07 2016]  ClientBegin: 0
+[Mon May 23 17:07:35 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:09:13 2016]  ClientConnect: 1
+[Mon May 23 17:09:13 2016]  mlog:Player Montydog9, connected. With IP - 86.10.130.253:29070 
+[Mon May 23 17:09:24 2016]  ClientBegin: 1
+[Mon May 23 17:10:30 2016]  Kill: 1022 0 2: <world> killed ^5Tgraham5en by MOD_MELEE
+[Mon May 23 17:11:41 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:11:43 2016]  Kill: 1022 1 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:12:20 2016]  Kill: 1022 0 2: <world> killed ^5Tgraham5en by MOD_MELEE
+[Mon May 23 17:12:34 2016]  Kill: 1022 1 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:13:10 2016]  Kill: 1 1 6: Montydog9 killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:13:27 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:13:49 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:13:54 2016]  Kill: 1022 1 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:14:17 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:14:40 2016]  Kill: 1022 1 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:14:44 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:15:02 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:15:24 2016]  Kill: 0 1 6: ^5Tgraham5en killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:15:50 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:16:23 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:16:23 2016]  Kill: 1022 1 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:16:39 2016]  Kill: 1022 1 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:16:45 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:16:52 2016]  Kill: 1022 1 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:17:02 2016]  Kill: 1022 1 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:17:19 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:17:30 2016]  Kill: 1022 1 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:18:12 2016]  Kill: 1 0 6: Montydog9 killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:18:33 2016]  Kill: 1022 1 39: <world> killed Montydog9 by MOD_SUICIDE
+[Mon May 23 17:18:48 2016]  Kill: 1 1 6: Montydog9 killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:18:55 2016]  Kill: 1022 0 39: <world> killed ^5Tgraham5en by MOD_SUICIDE
+[Mon May 23 17:20:05 2016]  say: ^5Tgraham5en: akill
+[Mon May 23 17:20:08 2016]  Kill: 0 0 39: ^5Tgraham5en killed ^5Tgraham5en by MOD_SUICIDE
+[Mon May 23 17:20:44 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:21:13 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:21:42 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:22:27 2016]  Kill: 1022 0 6: <world> killed ^5Tgraham5en by MOD_BLASTER
+[Mon May 23 17:22:48 2016]  Kill: 1022 1 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:25:42 2016]  ------------------------------------------------------------
+[Mon May 23 17:25:42 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 23 17:27:12 2016]  ClientConnect: 0
+[Mon May 23 17:27:12 2016]  mlog:Player Montydog9, connected. With IP - 86.10.130.253:29070 
+[Mon May 23 17:27:23 2016]  ClientBegin: 0
+[Mon May 23 17:28:39 2016]  Kill: 1022 0 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:28:58 2016]  Kill: 1022 0 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:29:03 2016]  ClientDisconnect: 0
+[Mon May 23 17:43:15 2016]  ClientConnect: 0
+[Mon May 23 17:43:15 2016]  mlog:Player ^5Tgraham5en, connected. With IP - 92.21.209.75:29070 
+[Mon May 23 17:43:27 2016]  ClientBegin: 0
+[Mon May 23 17:44:01 2016]  ClientConnect: 1
+[Mon May 23 17:44:01 2016]  mlog:Player Montydog9, connected. With IP - 86.10.130.253:29070 
+[Mon May 23 17:44:10 2016]  ClientDisconnect: 0
+[Mon May 23 17:44:18 2016]  ClientBegin: 1
+[Mon May 23 17:44:28 2016]  ClientDisconnect: 1
+[Mon May 23 17:45:07 2016]  ClientConnect: 0
+[Mon May 23 17:45:07 2016]  mlog:Player Montydog9, connected. With IP - 86.10.130.253:29070 
+[Mon May 23 17:45:18 2016]  ClientBegin: 0
+[Mon May 23 17:46:36 2016]  Kill: 1022 0 6: <world> killed Montydog9 by MOD_BLASTER
+[Mon May 23 17:51:07 2016]  ------------------------------------------------------------
+[Mon May 23 17:51:07 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 23 17:53:19 2016]  ClientConnect: 0
+[Mon May 23 17:53:19 2016]  mlog:Player ^5Tgraham5en, connected. With IP - 92.21.209.75:29070 
+[Mon May 23 17:53:30 2016]  ClientBegin: 0
+[Mon May 23 17:53:38 2016]  ClientDisconnect: 0
+[Mon May 23 17:53:40 2016]  ClientConnect: 0
+[Mon May 23 17:53:40 2016]  mlog:Player Montydog9, connected. With IP - 86.10.130.253:29070 
+[Mon May 23 17:53:56 2016]  ClientBegin: 0
+[Mon May 23 17:54:08 2016]  ClientDisconnect: 0
+[Mon May 23 17:54:57 2016]  ClientConnect: 0
+[Mon May 23 17:54:57 2016]  mlog:Player Montydog9, connected. With IP - 86.10.130.253:29070 
+[Mon May 23 17:55:07 2016]  ClientBegin: 0
+[Mon May 23 17:55:14 2016]  ClientDisconnect: 0
+[Mon May 23 18:44:03 2016]  ------------------------------------------------------------
+[Mon May 23 18:44:03 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 23 18:44:48 2016]  ClientConnect: 0
+[Mon May 23 18:44:48 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29070 
+[Mon May 23 18:45:09 2016]  ClientBegin: 0
+[Mon May 23 18:47:39 2016]  ClientDisconnect: 0
+[Mon May 23 18:57:57 2016]  ClientConnect: 0
+[Mon May 23 18:57:57 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29070 
+[Mon May 23 18:58:18 2016]  ClientBegin: 0
+[Mon May 23 19:01:34 2016]  ClientConnect: 1
+[Mon May 23 19:01:34 2016]  mlog:Player Tgraham5en, connected. With IP - 92.21.209.75:29070 
+[Mon May 23 19:01:55 2016]  ClientDisconnect: 1
+[Mon May 23 19:03:04 2016]  ShutdownGame:
+[Mon May 23 19:03:04 2016]  ------------------------------------------------------------
+[Mon May 23 19:03:04 2016]  ------------------------------------------------------------
+[Mon May 23 19:03:04 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 23 19:03:06 2016]  ClientConnect: 0
+[Mon May 23 19:03:14 2016]  ClientBegin: 0
+[Mon May 23 19:03:51 2016]  ClientConnect: 1
+[Mon May 23 19:03:51 2016]  mlog:Player Tgraham5en, connected. With IP - 92.21.209.75:29070 
+[Mon May 23 19:04:07 2016]  ClientBegin: 1
+[Mon May 23 19:04:25 2016]  say: ^0Ðàrk^2^1Qµàkè: well we're not done yet :p
+[Mon May 23 19:04:29 2016]  say: Tgraham5en: ok
+[Mon May 23 19:04:32 2016]  say: ^0Ðàrk^2^1Qµàkè: I'm gonna try a swoop, cause it replaces that
+[Mon May 23 19:04:45 2016]  say: ^0Ðàrk^2^1Qµàkè: all good?
+[Mon May 23 19:04:49 2016]  say: Tgraham5en: no
+[Mon May 23 19:04:57 2016]  say: ^0Ðàrk^2^1Qµàkè: I mean it's not a hoverboard
+[Mon May 23 19:05:01 2016]  say: ^0Ðàrk^2^1Qµàkè: but it is for me
+[Mon May 23 19:05:02 2016]  say: Tgraham5en: no
+[Mon May 23 19:05:05 2016]  say: Tgraham5en: oh
+[Mon May 23 19:05:17 2016]  say: Tgraham5en: for me its a swoop
+[Mon May 23 19:05:26 2016]  say: ^0Ðàrk^2^1Qµàkè: alright, coloured or silver?
+[Mon May 23 19:05:32 2016]  say: Tgraham5en: silver
+[Mon May 23 19:05:37 2016]  say: ^0Ðàrk^2^1Qµàkè: yeah haha
+[Mon May 23 19:05:42 2016]  say: ^0Ðàrk^2^1Qµàkè: makermod does that..
+[Mon May 23 19:05:47 2016]  say: Tgraham5en: oh
+[Mon May 23 19:06:27 2016]  say: ^0Ðàrk^2^1Qµàkè: I think I'll remove my hoverboard thing cause I can only spawn it as a swoop for others, and for me it's a silver board and I sit on it instead of st
+[Mon May 23 19:06:35 2016]  say: ^0Ðàrk^2^1Qµàkè: sit instead of stand on it XD
+[Mon May 23 19:06:54 2016]  say: Tgraham5en: 0_o
+[Mon May 23 19:07:01 2016]  say: Tgraham5en: OWAH!!
+[Mon May 23 19:07:07 2016]  say: ^0Ðàrk^2^1Qµàkè: he's not dying haha
+[Mon May 23 19:07:20 2016]  say: Tgraham5en: i know ill sapwn millions of desann
+[Mon May 23 19:07:26 2016]  say: Tgraham5en: dat kills hime
+[Mon May 23 19:07:33 2016]  say: Tgraham5en: or /kil all
+[Mon May 23 19:07:42 2016]  say: Tgraham5en: lel xD
+[Mon May 23 19:07:46 2016]  say: ^0Ðàrk^2^1Qµàkè: :p
+[Mon May 23 19:08:29 2016]  say: ^0Ðàrk^2^1Qµàkè: anyway um.. the JA+ server should have my anims working and we can run custom content there, just not allow autodownload
+[Mon May 23 19:08:39 2016]  say: Tgraham5en: ok
+[Mon May 23 19:08:44 2016]  say: ^0Ðàrk^2^1Qµàkè: if ppl don't have the current map they can download it manually
+[Mon May 23 19:08:53 2016]  ClientDisconnect: 1
+[Mon May 23 19:09:01 2016]  ClientDisconnect: 0
+[Mon May 23 21:02:43 2016]  ClientConnect: 0
+[Mon May 23 21:02:43 2016]  mlog:Player Padawan, connected. With IP - 71.163.223.75:29070 
+[Mon May 23 21:03:15 2016]  ClientBegin: 0
+[Mon May 23 21:04:15 2016]  Kill: 0 0 39: ^7§^0î^7j^0Ü^7må^0h^7~ killed ^7§^0î^7j^0Ü^7må^0h^7~ by MOD_SUICIDE
+[Mon May 23 21:04:18 2016]  ClientConnect: 1
+[Mon May 23 21:04:18 2016]  mlog:Player Padawan, connected. With IP - 24.14.148.99:29070 
+[Mon May 23 21:04:32 2016]  ClientBegin: 1
+[Mon May 23 21:07:04 2016]  say: Padawan: hola
+[Mon May 23 21:07:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ^7Ill talk here for now
+[Mon May 23 21:07:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: .and do /cl_maxpackets 60
+[Mon May 23 21:07:39 2016]  say: Padawan: command didnt verhk
+[Mon May 23 21:07:48 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: then you did it wrong ;o
+[Mon May 23 21:07:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: /rate 50000
+[Mon May 23 21:08:17 2016]  say: Padawan: did them but nothin happened Goddess
+[Mon May 23 21:08:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: if it didnt give you an error then it worked
+[Mon May 23 21:08:29 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: push tab
+[Mon May 23 21:08:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: also change your video settings by pressing escape
+[Mon May 23 21:08:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: tell me when youre back
+[Mon May 23 21:08:48 2016]  say: Padawan: yes Goddess
+[Mon May 23 21:10:14 2016]  say: Padawan: done Goddess
+[Mon May 23 21:10:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: im rubbing Sir
+[Mon May 23 21:10:35 2016]  say: Padawan: how hard?
+[Mon May 23 21:10:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: 9
+[Mon May 23 21:10:52 2016]  say: Padawan: kneel slut
+[Mon May 23 21:10:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes Sir
+[Mon May 23 21:11:09 2016]  say: Padawan: did i tell you to rub 9 cunt?
+[Mon May 23 21:11:12 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: no Sir
+[Mon May 23 21:11:21 2016]  say: Padawan: squeeze 10
+[Mon May 23 21:11:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes Sir
+[Mon May 23 21:11:59 2016]  say: Padawan: you forget that your cunt belongs to me slut?
+[Mon May 23 21:12:02 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: no Sir
+[Mon May 23 21:12:13 2016]  say: Padawan: 5 slaps at a 10
+[Mon May 23 21:12:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes Sir
+[Mon May 23 21:12:57 2016]  say: Padawan: squeeze 11
+[Mon May 23 21:13:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes Sir
+[Mon May 23 21:13:34 2016]  say: Padawan: your life is mine whore
+[Mon May 23 21:13:48 2016]  say: Padawan: if you rub without permission youll be punished
+[Mon May 23 21:13:51 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes master
+[Mon May 23 21:13:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: please let go master
+[Mon May 23 21:14:12 2016]  say: Padawan: apologize to your master for rubbing
+[Mon May 23 21:14:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i m== very sorry for rubbing master
+[Mon May 23 21:14:27 2016]  say: Padawan: good bitch
+[Mon May 23 21:14:31 2016]  say: Padawan: 5 more slaps then release
+[Mon May 23 21:14:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes master thank you master
+[Mon May 23 21:14:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: may i please rub master
+[Mon May 23 21:14:54 2016]  say: Padawan: rub 7 slut
+[Mon May 23 21:15:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thank you master
+[Mon May 23 21:15:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: may I please rub faster master
+[Mon May 23 21:15:27 2016]  say: Padawan: dirty slut
+[Mon May 23 21:15:34 2016]  say: Padawan: rub 10
+[Mon May 23 21:15:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thank you master
+[Mon May 23 21:15:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: drip
+[Mon May 23 21:15:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: may I please cum master
+[Mon May 23 21:15:54 2016]  say: Padawan: you want me to let you cum after being a bad slut?
+[Mon May 23 21:15:59 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes Master
+[Mon May 23 21:16:09 2016]  say: Padawan: mmmm
+[Mon May 23 21:16:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ive been okay master
+[Mon May 23 21:17:12 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: master may I please cum
+[Mon May 23 21:17:16 2016]  say: Padawan: rub 13
+[Mon May 23 21:17:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: plesase
+[Mon May 23 21:17:22 2016]  say: Padawan: cum filthy whore
+[Mon May 23 21:20:54 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: back ;o
+[Mon May 23 21:21:06 2016]  say: Padawan: welcome bach
+[Mon May 23 21:21:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: whyd you choose that guy?
+[Mon May 23 21:21:36 2016]  say: Padawan: cuz hes cute Goddess
+[Mon May 23 21:22:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: press K
+[Mon May 23 21:22:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: while looking a
+[Mon May 23 21:22:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: right.
+[Mon May 23 21:22:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: middle mouse
+[Mon May 23 21:22:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: is change saber styles
+[Mon May 23 21:22:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: slashes change based off of where youre moving
+[Mon May 23 21:22:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and also the previous attack you used.
+[Mon May 23 21:22:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so uh.
+[Mon May 23 21:22:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thats a thing.
+[Mon May 23 21:22:29 2016]  say: Padawan: umm
+[Mon May 23 21:22:33 2016]  say: Padawan: i have the option of a pistol
+[Mon May 23 21:22:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: weapons cant be used in duels
+[Mon May 23 21:22:41 2016]  say: Padawan: how do i actually equip it Goddess
+[Mon May 23 21:22:41 2016]  say: Padawan: oh
+[Mon May 23 21:22:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: dont call me that for now
+[Mon May 23 21:22:55 2016]  say: Padawan: mkay
+[Mon May 23 21:23:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oh yeah
+[Mon May 23 21:23:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i forgot.
+[Mon May 23 21:23:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: saber locks are 
+[Mon May 23 21:23:24 2016]  Kill: 1 0 3: Padawan killed ^7§^0î^7j^0Ü^7må^0h^7~ by MOD_SABER
+[Mon May 23 21:23:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: modded
+[Mon May 23 21:23:27 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: in this server.
+[Mon May 23 21:23:39 2016]  say: Padawan: how so?
+[Mon May 23 21:23:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: usually theyre super rare
+[Mon May 23 21:23:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: but here they happen 900 times
+[Mon May 23 21:24:01 2016]  say: Padawan: this character is hilarious
+[Mon May 23 21:24:04 2016]  say: Padawan: doing flips
+[Mon May 23 21:24:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aye
+[Mon May 23 21:24:28 2016]  say: Padawan: k so what do here?
+[Mon May 23 21:24:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: type
+[Mon May 23 21:24:29 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: uh
+[Mon May 23 21:24:31 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: /give all
+[Mon May 23 21:24:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: now you have all weapons
+[Mon May 23 21:24:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and also a jetpack
+[Mon May 23 21:24:44 2016]  say: Padawan: nice la
+[Mon May 23 21:24:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: press R while in air to usethe jetpack
+[Mon May 23 21:24:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aaand try the weapons out
+[Mon May 23 21:24:53 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: theres normal fire and alt fire.
+[Mon May 23 21:24:56 2016]  say: Padawan:  i asssume theres uhh
+[Mon May 23 21:24:58 2016]  say: Padawan: fall damage
+[Mon May 23 21:25:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: depends
+[Mon May 23 21:25:08 2016]  Kill: 0 1 37: ^7§^0î^7j^0Ü^7må^0h^7~ killed Padawan by MOD_TELEFRAG
+[Mon May 23 21:25:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oops.
+[Mon May 23 21:25:12 2016]  say: Padawan: pls
+[Mon May 23 21:25:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: youll have to respawn and giv ell again
+[Mon May 23 21:25:39 2016]  say: Padawan: oh thats neat
+[Mon May 23 21:25:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ?
+[Mon May 23 21:25:41 2016]  say: Padawan: the first person
+[Mon May 23 21:25:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oh
+[Mon May 23 21:25:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: press P to get outo f that
+[Mon May 23 21:25:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: if you want to
+[Mon May 23 21:26:38 2016]  Item: 0 ammo_all
+[Mon May 23 21:27:08 2016]  Kill: 1022 1 6: <world> killed Padawan by MOD_BLASTER
+[Mon May 23 21:27:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: rip
+[Mon May 23 21:27:14 2016]  say: Padawan: lol my health said 100
+[Mon May 23 21:27:40 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: E Q and F are force powers
+[Mon May 23 21:27:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: f is activate
+[Mon May 23 21:27:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: if you have aeny
+[Mon May 23 21:28:07 2016]  Kill: 1022 1 6: <world> killed Padawan by MOD_BLASTER
+[Mon May 23 21:28:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do younot have any?
+[Mon May 23 21:28:19 2016]  say: Padawan: i dunno how to activate them
+[Mon May 23 21:28:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i just told you.
+[Mon May 23 21:28:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: cunt.
+[Mon May 23 21:28:30 2016]  say: Padawan: no like
+[Mon May 23 21:28:36 2016]  say: Padawan: i can select them and go through them with those
+[Mon May 23 21:28:43 2016]  say: Padawan: but i cant >activate or >use them
+[Mon May 23 21:28:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i said the phrase
+[Mon May 23 21:28:48 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: press F to activate.
+[Mon May 23 21:29:00 2016]  say: Padawan: ah i was thinking you meant that meant like
+[Mon May 23 21:29:04 2016]  say: Padawan: the general >use etc object
+[Mon May 23 21:29:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: niet
+[Mon May 23 21:29:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you can configure your force powerse on the profile menu
+[Mon May 23 21:29:34 2016]  say: Padawan: kay
+[Mon May 23 21:29:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and once again P is to change theeee
+[Mon May 23 21:29:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: things.
+[Mon May 23 21:29:49 2016]  say: Padawan: mhm
+[Mon May 23 21:30:14 2016]  say: Padawan: aiming in third person is so wonky x.x
+[Mon May 23 21:30:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: wonky meaning better
+[Mon May 23 21:31:04 2016]  say: Padawan: like
+[Mon May 23 21:31:07 2016]  say: Padawan: the crosshair jiggles
+[Mon May 23 21:31:40 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you can jump over this gate.
+[Mon May 23 21:32:13 2016]  say: Padawan: how?
+[Mon May 23 21:32:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: maybe using the enterance.
+[Mon May 23 21:32:24 2016]  say: Padawan: thats a good idea
+[Mon May 23 21:32:24 2016]  say: Padawan: ;o
+[Mon May 23 21:32:34 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hold down space
+[Mon May 23 21:32:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: for higher jump
+[Mon May 23 21:32:42 2016]  say: Padawan: ahh
+[Mon May 23 21:33:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: r to activate
+[Mon May 23 21:33:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thats your ammo being full
+[Mon May 23 21:34:09 2016]  say: Padawan: what the heck is that
+[Mon May 23 21:34:10 2016]  Item: 1 ammo_all
+[Mon May 23 21:34:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ignore it
+[Mon May 23 21:34:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: also do /name Thermal
+[Mon May 23 21:34:25 2016]  print "Padawan^7 @@@PLRENAME thermal
+"[Mon May 23 21:35:00 2016]  Kill: 0 1 10: ^7§^0î^7j^0Ü^7må^0h^7~ killed thermal by MOD_DISRUPTOR_SNIPER
+[Mon May 23 21:35:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: gotcha
+[Mon May 23 21:35:05 2016]  say: thermal: fuckin rip
+[Mon May 23 21:35:10 2016]  say: thermal: this is making me feel nostalgic somehow
+[Mon May 23 21:35:15 2016]  say: thermal: like playing ocarina of time 90 years ago
+[Mon May 23 21:35:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aye
+[Mon May 23 21:35:33 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: did you configure your foce?
+[Mon May 23 21:35:34 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: foirce*
+[Mon May 23 21:35:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: force.
+[Mon May 23 21:35:53 2016]  say: thermal: yeah i think so
+[Mon May 23 21:35:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: which ones do you have?
+[Mon May 23 21:36:06 2016]  say: thermal: the healer ones
+[Mon May 23 21:36:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: rip
+[Mon May 23 21:36:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: no cool dark force ones
+[Mon May 23 21:36:23 2016]  say: thermal: healing is fun
+[Mon May 23 21:36:36 2016]  say: thermal: good thing i have all these people to heal
+[Mon May 23 21:36:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you can  heal yourself.
+[Mon May 23 21:36:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 21:37:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: or mind trick
+[Mon May 23 21:37:33 2016]  say: thermal: how doess mindtrick work
+[Mon May 23 21:37:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: makes you invis
+[Mon May 23 21:37:37 2016]  say: thermal: does it make enemies attack their allies
+[Mon May 23 21:37:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: unless person uses sense
+[Mon May 23 21:37:39 2016]  say: thermal: oh
+[Mon May 23 21:37:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thats what the SP version does.
+[Mon May 23 21:37:55 2016]  say: thermal: ah
+[Mon May 23 21:38:14 2016]  say: thermal: does absorb just make me absorb damage?
+[Mon May 23 21:38:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: force immunity
+[Mon May 23 21:39:16 2016]  say: thermal: lelelel
+[Mon May 23 21:39:24 2016]  say: thermal: a wild sij from the sky
+[Mon May 23 21:39:44 2016]  Kill: 0 1 12: ^7§^0î^7j^0Ü^7må^0h^7~ killed thermal by MOD_REPEATER
+[Mon May 23 21:39:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: lel.
+[Mon May 23 21:39:48 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: y u no heal.
+[Mon May 23 21:39:57 2016]  say: thermal: *FRANTIC SCROLLING THROUGH FORCE ABILITIES*
+[Mon May 23 21:40:35 2016]  Kill: 0 1 36: ^7§^0î^7j^0Ü^7må^0h^7~ killed thermal by MOD_CRUSH
+[Mon May 23 21:40:40 2016]  say: thermal: take that
+[Mon May 23 21:40:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: koopo
+[Mon May 23 21:40:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k so thats the basic game.
+[Mon May 23 21:41:11 2016]  say: thermal: i likkee
+[Mon May 23 21:41:15 2016]  say: thermal:  the mark that the saber leaves
+[Mon May 23 21:41:17 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes
+[Mon May 23 21:41:23 2016]  say: thermal: such detail
+[Mon May 23 21:41:27 2016]  Kill: 0 0 36: ^7§^0î^7j^0Ü^7må^0h^7~ killed ^7§^0î^7j^0Ü^7må^0h^7~ by MOD_CRUSH
+[Mon May 23 21:41:27 2016]  Kill: 0 1 0: ^7§^0î^7j^0Ü^7må^0h^7~ killed thermal by MOD_UNKNOWN
+[Mon May 23 21:41:30 2016]  say: thermal: lelelelel
+[Mon May 23 21:41:34 2016]  say: thermal: totally did not mean to do that
+[Mon May 23 21:41:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k sooo
+[Mon May 23 21:41:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ready to learn the things?
+[Mon May 23 21:41:47 2016]  say: thermal: sure fam
+[Mon May 23 21:41:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: cum here
+[Mon May 23 21:42:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k so the reason this mod is good
+[Mon May 23 21:42:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: is cuz it lets you do stuff.
+[Mon May 23 21:42:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and stuff is cool.
+[Mon May 23 21:42:50 2016]  say: thermal: yus
+[Mon May 23 21:43:11 2016]  Kill: 0 1 25: ^7§^0î^7j^0Ü^7må^0h^7~ killed thermal by MOD_TRIP_MINE_SPLASH
+[Mon May 23 21:43:13 2016]  Item: 0 weapon_demp2
+[Mon May 23 21:43:45 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so yes.
+[Mon May 23 21:43:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: this mod lets you place stuff
+[Mon May 23 21:43:51 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and manipulate it
+[Mon May 23 21:43:53 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: also yousrelf
+[Mon May 23 21:43:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like so.
+[Mon May 23 21:44:06 2016]  say: thermal: gahhdamn
+[Mon May 23 21:44:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: soooo
+[Mon May 23 21:44:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: dooooo
+[Mon May 23 21:44:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: /mplacefx env/fire 100
+[Mon May 23 21:44:53 2016]  say: thermal: dun
+[Mon May 23 21:45:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: press tab
+[Mon May 23 21:45:12 2016]  say: thermal: yeah?
+[Mon May 23 21:45:17 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: my model should be different
+[Mon May 23 21:45:26 2016]  say: thermal: yeah it became like
+[Mon May 23 21:45:30 2016]  say: thermal: weird and hard to see
+[Mon May 23 21:45:35 2016]  say: thermal: all transparent with little floaty bits?
+[Mon May 23 21:45:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: this is my favourite model
+[Mon May 23 21:45:39 2016]  say: thermal: invisible rather
+[Mon May 23 21:45:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i put the font texture
+[Mon May 23 21:45:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: on the model.
+[Mon May 23 21:45:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ^0 kappa.
+[Mon May 23 21:45:50 2016]  say: thermal: y u like that?
+[Mon May 23 21:45:54 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: it has itneresting properties
+[Mon May 23 21:45:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ^6 test
+[Mon May 23 21:46:02 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ^6 like the model changes to be the colour of the text
+[Mon May 23 21:46:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ^sometimes
+[Mon May 23 21:46:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ^3 sometimes
+[Mon May 23 21:46:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: anyway yes
+[Mon May 23 21:46:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you placed a fire effect and its grabbed to you
+[Mon May 23 21:46:19 2016]  say: thermal: that shade of pink is really hard on the eyes x.x
+[Mon May 23 21:46:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: press 1
+[Mon May 23 21:46:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and look around
+[Mon May 23 21:46:40 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: see great.
+[Mon May 23 21:46:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: now doooo
+[Mon May 23 21:46:45 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: /mdrop
+[Mon May 23 21:46:54 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: youll never guess what it did.
+[Mon May 23 21:46:56 2016]  say: thermal: well would you look at that
+[Mon May 23 21:47:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mhm
+[Mon May 23 21:47:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: sooo
+[Mon May 23 21:47:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: the number you put after the effect
+[Mon May 23 21:47:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: tells its intensity
+[Mon May 23 21:47:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: try doing the same thing but 600 instead of 100
+[Mon May 23 21:47:35 2016]  say: thermal: what was the command again?
+[Mon May 23 21:47:40 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: /mplacefx env/fire
+[Mon May 23 21:47:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then the number.
+[Mon May 23 21:47:57 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: >_>
+[Mon May 23 21:48:01 2016]  say: thermal: shh i did
+[Mon May 23 21:48:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: then do /mgrab
+[Mon May 23 21:48:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and look up.
+[Mon May 23 21:48:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: see
+[Mon May 23 21:48:40 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: higher numbers equals less intensity
+[Mon May 23 21:48:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: now do bind K mdrop
+[Mon May 23 21:48:43 2016]  say: thermal: a gentle flame
+[Mon May 23 21:48:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and press k
+[Mon May 23 21:48:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 21:49:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and if i were you i would do bind l mgrab
+[Mon May 23 21:49:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thats L
+[Mon May 23 21:49:18 2016]  say: thermal: kayo
+[Mon May 23 21:49:27 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: now try again but with 1
+[Mon May 23 21:50:00 2016]  say: thermal: tell me the command again and ill write it down x.x
+[Mon May 23 21:50:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: check the console
+[Mon May 23 21:50:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: pageup anad down scrolls it
+[Mon May 23 21:50:11 2016]  say: thermal: ah okay
+[Mon May 23 21:50:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: such intensity.
+[Mon May 23 21:50:44 2016]  say: thermal: so steamy
+[Mon May 23 21:51:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do bind I mkill
+[Mon May 23 21:51:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mkill kills your selected effect
+[Mon May 23 21:51:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then bind H mselect
+[Mon May 23 21:51:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and mselect selects the effect youre looking at
+[Mon May 23 21:51:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: tell me when done
+[Mon May 23 21:51:34 2016]  say: thermal: dun
+[Mon May 23 21:51:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k
+[Mon May 23 21:51:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: drop this and select and kill the other two
+[Mon May 23 21:51:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 21:52:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i said it killed the thing you selected
+[Mon May 23 21:52:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you havent selected them.
+[Mon May 23 21:52:32 2016]  say: thermal: i cant select these cuz i dont apparently own them
+[Mon May 23 21:52:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mmkay
+[Mon May 23 21:52:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: well
+[Mon May 23 21:52:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thats my fault
+[Mon May 23 21:52:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 21:52:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: anyway yes
+[Mon May 23 21:52:47 2016]  say: thermal: u silly
+[Mon May 23 21:52:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: nice fire.
+[Mon May 23 21:52:48 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 21:52:53 2016]  say: thermal: it was pretty fire fam
+[Mon May 23 21:52:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so the way to find effects
+[Mon May 23 21:52:55 2016]  say: thermal: it was LIT
+[Mon May 23 21:52:57 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hush.
+[Mon May 23 21:52:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: is to.
+[Mon May 23 21:53:02 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do /mlistfx
+[Mon May 23 21:53:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: but dont do it yet
+[Mon May 23 21:53:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: after you do that the console will give you lots of folders
+[Mon May 23 21:53:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then once choosing a folder you do
+[Mon May 23 21:53:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mlistfx (the folder)
+[Mon May 23 21:53:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and THEN itll show you the effects in the folder
+[Mon May 23 21:53:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: therefore env/fire is in the env folder
+[Mon May 23 21:53:34 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so now you get to place an effect on your own
+[Mon May 23 21:53:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: find one and place it with intensity 1
+[Mon May 23 21:53:49 2016]  say: thermal: hohkay
+[Mon May 23 21:55:35 2016]  say: thermal: pls
+[Mon May 23 21:55:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ?
+[Mon May 23 21:55:41 2016]  say: thermal: none of them are working
+[Mon May 23 21:55:48 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: what was the last one you tried
+[Mon May 23 21:55:50 2016]  say: thermal: >effect unavailable on server
+[Mon May 23 21:55:54 2016]  say: thermal: thermal
+[Mon May 23 21:55:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thats weird.
+[Mon May 23 21:55:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ive never heard of that before
+[Mon May 23 21:56:02 2016]  say: thermal: shrug
+[Mon May 23 21:56:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you got the name wrong.
+[Mon May 23 21:56:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you only did the folder.
+[Mon May 23 21:56:17 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: not somthing inside the folder
+[Mon May 23 21:56:22 2016]  say: thermal: ahhh okay
+[Mon May 23 21:56:38 2016]  say: thermal: magic/
+[Mon May 23 21:56:46 2016]  say: thermal: rip
+[Mon May 23 21:57:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: try a different folder
+[Mon May 23 21:57:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: that one is for modded only
+[Mon May 23 21:57:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: x.x
+[Mon May 23 21:57:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do a thermal one
+[Mon May 23 21:57:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: its your calling ;o
+[Mon May 23 21:57:21 2016]  say: thermal: mlistfx thermal
+[Mon May 23 21:57:39 2016]  say: thermal: mlistfx thermal/
+[Mon May 23 21:57:43 2016]  say: thermal: im good at video games
+[Mon May 23 21:59:13 2016]  say: thermal: all of them were unavailable ._.
+[Mon May 23 21:59:17 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: what did you try
+[Mon May 23 21:59:26 2016]  say: thermal: all of the thermal ones
+[Mon May 23 21:59:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: what was the command.
+[Mon May 23 21:59:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: that you tried
+[Mon May 23 21:59:48 2016]  say: thermal: /mplacefx env/explosion 1
+[Mon May 23 22:00:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: theres no explosion in the env folder
+[Mon May 23 22:00:21 2016]  say: thermal: huh
+[Mon May 23 22:00:25 2016]  say: thermal: it was in the thermal folder
+[Mon May 23 22:00:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: maybe thats why it didnt work when trying env
+[Mon May 23 22:00:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and it would work when trying thermal
+[Mon May 23 22:00:47 2016]  say: thermal: lel
+[Mon May 23 22:00:51 2016]  say: thermal: thats a good idea
+[Mon May 23 22:01:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k kill it
+[Mon May 23 22:01:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 22:01:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: or mute your sound
+[Mon May 23 22:01:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: how aboutttt
+[Mon May 23 22:01:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like
+[Mon May 23 22:01:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: 500 instead
+[Mon May 23 22:01:26 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: of 1.
+[Mon May 23 22:01:27 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: x.x
+[Mon May 23 22:01:30 2016]  say: thermal: lel
+[Mon May 23 22:01:32 2016]  say: thermal: kay
+[Mon May 23 22:01:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you can push the up arrow
+[Mon May 23 22:01:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: to copy the previous command that you used
+[Mon May 23 22:01:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: if youre in console
+[Mon May 23 22:02:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thar.
+[Mon May 23 22:02:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: the reason good poeple dont do 1 intensity
+[Mon May 23 22:02:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: is cuz it lags the server unnessessarily
+[Mon May 23 22:02:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and is also noisy sometimes
+[Mon May 23 22:02:33 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: when usually 100 is just as fine
+[Mon May 23 22:02:37 2016]  say: thermal: yeah i figured Goddess
+[Mon May 23 22:02:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k kill the thing
+[Mon May 23 22:02:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and place another effect
+[Mon May 23 22:02:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: a different one that is.
+[Mon May 23 22:03:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do that one for 100
+[Mon May 23 22:03:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: use the up arrow
+[Mon May 23 22:03:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and now for 1
+[Mon May 23 22:03:23 2016]  say: thermal: praise the sun
+[Mon May 23 22:03:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aye
+[Mon May 23 22:03:29 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and watch
+[Mon May 23 22:03:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: this effect
+[Mon May 23 22:03:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: is part of the thermal detonator weapon
+[Mon May 23 22:03:38 2016]  say: thermal: hey. thats my sun.
+[Mon May 23 22:03:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: see
+[Mon May 23 22:03:43 2016]  say: thermal: ah
+[Mon May 23 22:03:45 2016]  say: thermal: yus
+[Mon May 23 22:03:48 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you can see the explosion fx and also the shockwave
+[Mon May 23 22:03:56 2016]  say: thermal: mhm
+[Mon May 23 22:03:59 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k do another
+[Mon May 23 22:04:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: form a different
+[Mon May 23 22:04:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: uh.
+[Mon May 23 22:04:02 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: folder.
+[Mon May 23 22:05:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: lel
+[Mon May 23 22:05:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: try it with 1
+[Mon May 23 22:05:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ayy
+[Mon May 23 22:05:33 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so thats a thing
+[Mon May 23 22:05:36 2016]  say: thermal: this is what happens to things that i glare at
+[Mon May 23 22:05:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: kappa
+[Mon May 23 22:05:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do bind f7 mkillall
+[Mon May 23 22:05:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then push f7
+[Mon May 23 22:05:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: youll never guess what it does.
+[Mon May 23 22:06:07 2016]  say: thermal: holy FUCKING shit it killed all
+[Mon May 23 22:06:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: gosh.
+[Mon May 23 22:06:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: place an effect from mrancor
+[Mon May 23 22:06:59 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: koopo
+[Mon May 23 22:07:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k great effects exist
+[Mon May 23 22:07:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do bind g mplace factory/catw2_b
+[Mon May 23 22:07:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and those are objects
+[Mon May 23 22:07:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 22:08:22 2016]  say: thermal: pretty
+[Mon May 23 22:08:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do /r_dynamicglow 1
+[Mon May 23 22:08:26 2016]  say: thermal: and now im doin a jig
+[Mon May 23 22:08:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thats only clientside
+[Mon May 23 22:08:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: it doesnt show for others
+[Mon May 23 22:08:45 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: also these are breakable
+[Mon May 23 22:08:45 2016]  say: thermal: jeepers
+[Mon May 23 22:08:54 2016]  say: thermal: >also these are unbreakable
+[Mon May 23 22:08:58 2016]  say: thermal: *smashes one*
+[Mon May 23 22:09:21 2016]  say: thermal: i love holding this pistol
+[Mon May 23 22:09:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: why
+[Mon May 23 22:09:27 2016]  say: thermal: cuz im so tubby that you can see my arms when i run
+[Mon May 23 22:09:35 2016]  say: thermal: cant
+[Mon May 23 22:09:36 2016]  say: thermal: rather
+[Mon May 23 22:09:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k press f7
+[Mon May 23 22:09:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do bind f4 mmarkfoot
+[Mon May 23 22:09:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and cum here
+[Mon May 23 22:10:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: then push f4
+[Mon May 23 22:10:20 2016]  say: thermal: ah
+[Mon May 23 22:10:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then g
+[Mon May 23 22:10:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: now autograbbing is disabled
+[Mon May 23 22:10:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and objects place at your marked location
+[Mon May 23 22:10:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: try placing a fire 
+[Mon May 23 22:10:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: see
+[Mon May 23 22:10:52 2016]  say: thermal: ahh
+[Mon May 23 22:10:57 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: this is where good building comes in
+[Mon May 23 22:11:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and scripts
+[Mon May 23 22:11:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: cuz you can make a shitty ass house
+[Mon May 23 22:11:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: by using mgrab and mrotate
+[Mon May 23 22:11:10 2016]  say: thermal: lel
+[Mon May 23 22:11:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: but it wouldbe innaccurate as ufck
+[Mon May 23 22:11:13 2016]  say: thermal: nontheless still a house
+[Mon May 23 22:11:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: see its garbage.
+[Mon May 23 22:11:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: push g
+[Mon May 23 22:12:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then do mmove 12 0 0
+[Mon May 23 22:12:13 2016]  say: thermal: mmove 12 0 0
+[Mon May 23 22:12:20 2016]  say: thermal: move 12 0 0
+[Mon May 23 22:12:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: when youre ready
+[Mon May 23 22:12:24 2016]  say: thermal: rip
+[Mon May 23 22:12:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mremap list
+[Mon May 23 22:12:31 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oops.
+[Mon May 23 22:12:49 2016]  say: thermal: mremap list 12 0 0
+[Mon May 23 22:12:54 2016]  say: thermal: mremap list
+[Mon May 23 22:12:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: nope
+[Mon May 23 22:13:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mmove 12 0 0
+[Mon May 23 22:13:18 2016]  say: thermal: mmove 12 0 0
+[Mon May 23 22:13:27 2016]  say: thermal: pls
+[Mon May 23 22:13:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you gonna stop fucking it up soon
+[Mon May 23 22:13:46 2016]  say: thermal: sawree
+[Mon May 23 22:13:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do mmove 12 0 0
+[Mon May 23 22:14:12 2016]  say: thermal: mmove 12 0 0
+[Mon May 23 22:14:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thermal.
+[Mon May 23 22:14:20 2016]  say: thermal: is anything happening?
+[Mon May 23 22:14:21 2016]  say: thermal: x.x
+[Mon May 23 22:14:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: did you do it right or not
+[Mon May 23 22:14:33 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: if its not working press G again anda then try
+[Mon May 23 22:14:49 2016]  say: thermal: mmove 12 0 0
+[Mon May 23 22:14:55 2016]  say: thermal: i dont think its verhking
+[Mon May 23 22:14:57 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: have you considered
+[Mon May 23 22:14:59 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: that it has a slash before it
+[Mon May 23 22:15:02 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like every single 
+[Mon May 23 22:15:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: other command
+[Mon May 23 22:15:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: youve ever used.
+[Mon May 23 22:15:09 2016]  say: thermal: pls specify
+[Mon May 23 22:15:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: no
+[Mon May 23 22:15:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i didnt have to for other things.
+[Mon May 23 22:15:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like binds
+[Mon May 23 22:15:31 2016]  say: thermal: you added slashes to those when you told me
+[Mon May 23 22:15:31 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: press g again
+[Mon May 23 22:15:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then mmove 0 12 0
+[Mon May 23 22:15:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and again for mmove 0 0 12
+[Mon May 23 22:15:59 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: da
+[Mon May 23 22:16:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so face this way.
+[Mon May 23 22:16:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: 12 is forwards
+[Mon May 23 22:16:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: 0 12 is left
+[Mon May 23 22:16:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and 0 0 12 is up
+[Mon May 23 22:16:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thus.
+[Mon May 23 22:16:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: try placing and moving one to here
+[Mon May 23 22:17:15 2016]  say: thermal: yay
+[Mon May 23 22:17:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: da is good
+[Mon May 23 22:17:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you can combine them though
+[Mon May 23 22:17:26 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: 12 12 0
+[Mon May 23 22:17:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: try it
+[Mon May 23 22:17:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: da is good
+[Mon May 23 22:17:59 2016]  say: thermal: oh snap
+[Mon May 23 22:18:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: now move one here
+[Mon May 23 22:18:48 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aye
+[Mon May 23 22:18:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and one here
+[Mon May 23 22:19:08 2016]  say: thermal: whoops
+[Mon May 23 22:19:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: remember your up arrow
+[Mon May 23 22:19:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aay.
+[Mon May 23 22:19:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: nice la
+[Mon May 23 22:19:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and so what we do
+[Mon May 23 22:19:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: isss
+[Mon May 23 22:19:45 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: put all those in a text file
+[Mon May 23 22:19:48 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and tell the game to run the text file
+[Mon May 23 22:19:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and you get this
+[Mon May 23 22:20:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: or ever.
+[Mon May 23 22:20:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: or even*
+[Mon May 23 22:20:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: this.
+[Mon May 23 22:20:34 2016]  say: thermal: thats snazzy as fuck
+[Mon May 23 22:20:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: koopo
+[Mon May 23 22:20:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k
+[Mon May 23 22:20:40 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: here look
+[Mon May 23 22:20:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: take note
+[Mon May 23 22:20:48 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: get on the
+[Mon May 23 22:20:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: jaunt
+[Mon May 23 22:20:53 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: take note of
+[Mon May 23 22:20:54 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: howww
+[Mon May 23 22:20:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: every time i place one
+[Mon May 23 22:20:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: the 
+[Mon May 23 22:20:59 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: uh.
+[Mon May 23 22:21:02 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: see thru bit
+[Mon May 23 22:21:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: becomes less see thru
+[Mon May 23 22:21:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: cuz theyre being stakced ontop of one another
+[Mon May 23 22:21:14 2016]  say: thermal: mhm
+[Mon May 23 22:21:22 2016]  say: thermal: that would lag servers after a bit i imagine
+[Mon May 23 22:21:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes
+[Mon May 23 22:21:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: but its really reflectey now.
+[Mon May 23 22:21:34 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so yes.
+[Mon May 23 22:21:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: just another tool
+[Mon May 23 22:21:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: in the toolbox
+[Mon May 23 22:21:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k nowwww
+[Mon May 23 22:21:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: press g
+[Mon May 23 22:21:51 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: err
+[Mon May 23 22:21:52 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes
+[Mon May 23 22:21:53 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then do
+[Mon May 23 22:21:54 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mrotate 90 0 0
+[Mon May 23 22:22:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mhm.
+[Mon May 23 22:22:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: now then
+[Mon May 23 22:22:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: its halfway in the ground
+[Mon May 23 22:22:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and if one catwalk is 12
+[Mon May 23 22:22:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: try moving it up so its standing normally
+[Mon May 23 22:22:26 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mmoving that is.
+[Mon May 23 22:22:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: nice la
+[Mon May 23 22:23:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and now its halfway through the other one
+[Mon May 23 22:23:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so now move it
+[Mon May 23 22:23:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: such that its back here
+[Mon May 23 22:23:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: nice la
+[Mon May 23 22:23:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: now do it for this place
+[Mon May 23 22:23:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mrotate and then mmove in 2 steps
+[Mon May 23 22:23:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: instead of 3
+[Mon May 23 22:23:51 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: after placing another
+[Mon May 23 22:23:52 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: of course.
+[Mon May 23 22:25:07 2016]  say: thermal: shite
+[Mon May 23 22:25:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: 2 steps
+[Mon May 23 22:25:32 2016]  say: thermal: aljksdflajsdf
+[Mon May 23 22:25:33 2016]  say: thermal: im laughing
+[Mon May 23 22:26:17 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: if i were you iwould also do bind j mrotate 90 0 0
+[Mon May 23 22:26:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: also nice la
+[Mon May 23 22:26:53 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mrotate 0 90 0 rotates along the other axis
+[Mon May 23 22:26:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: such that its spinning
+[Mon May 23 22:26:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: watch
+[Mon May 23 22:27:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: er
+[Mon May 23 22:27:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: see
+[Mon May 23 22:27:16 2016]  say: thermal: mhm
+[Mon May 23 22:27:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k 
+[Mon May 23 22:27:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so nowwww
+[Mon May 23 22:27:34 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: rotations can combine
+[Mon May 23 22:27:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so heres the final test
+[Mon May 23 22:27:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: make one 
+[Mon May 23 22:27:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: that rotates here and mmoves here
+[Mon May 23 22:28:03 2016]  say: thermal: how many steps?
+[Mon May 23 22:28:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: 2
+[Mon May 23 22:29:53 2016]  say: thermal: err
+[Mon May 23 22:31:51 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: nice la
+[Mon May 23 22:31:53 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aaand the other step
+[Mon May 23 22:32:24 2016]  say: thermal: im rad
+[Mon May 23 22:32:26 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: gratz
+[Mon May 23 22:32:33 2016]  say: thermal: even though i totally could have done that way faster
+[Mon May 23 22:32:34 2016]  say: thermal: x.x
+[Mon May 23 22:32:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k
+[Mon May 23 22:32:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: finish a cube
+[Mon May 23 22:32:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 22:34:15 2016]  say: thermal: pls
+[Mon May 23 22:34:27 2016]  say: thermal: ive been playing for 1 hour and 30 mins
+[Mon May 23 22:34:31 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: koopo
+[Mon May 23 22:35:19 2016]  say: thermal: y dis
+[Mon May 23 22:35:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you never need to use the 3rd number in mrotate
+[Mon May 23 22:35:31 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: its pretty useless
+[Mon May 23 22:37:40 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k make the roof next
+[Mon May 23 22:37:45 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: instead of finishing the wall
+[Mon May 23 22:38:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k
+[Mon May 23 22:38:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: now you get to learn about semicolons
+[Mon May 23 22:38:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: they allow you to do commands on the same line
+[Mon May 23 22:38:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so liiiike
+[Mon May 23 22:38:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: /mplace factory/catw2_b;wait 10;mmove 12 0 0
+[Mon May 23 22:38:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: try it
+[Mon May 23 22:39:02 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: nope
+[Mon May 23 22:39:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you only did one of the commands
+[Mon May 23 22:39:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i told you to do all of them
+[Mon May 23 22:39:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 22:39:27 2016]  say: thermal:  i did x.x
+[Mon May 23 22:39:34 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: then you must have typed it wrong
+[Mon May 23 22:39:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 22:39:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: /mplace factory/catw2_b;wait 10;mmove 12 0 0
+[Mon May 23 22:40:10 2016]  say: thermal: lol put a random space by mistake
+[Mon May 23 22:40:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yep.
+[Mon May 23 22:40:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: see so t hats what happens
+[Mon May 23 22:40:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: optimally to avoid complications
+[Mon May 23 22:40:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you wanna
+[Mon May 23 22:40:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do a ;wait 10;
+[Mon May 23 22:40:27 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: inbetween each of them
+[Mon May 23 22:40:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so noow
+[Mon May 23 22:40:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: your final final test
+[Mon May 23 22:40:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: is to finish the wall of the cube
+[Mon May 23 22:40:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: all in one command
+[Mon May 23 22:40:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: including the place
+[Mon May 23 22:40:49 2016]  say: thermal: kay
+[Mon May 23 22:42:33 2016]  say: thermal: pls
+[Mon May 23 22:42:35 2016]  say: thermal: PLS
+[Mon May 23 22:42:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hush
+[Mon May 23 22:42:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i believe in you
+[Mon May 23 22:42:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: <3
+[Mon May 23 22:42:49 2016]  say: thermal: that was funny
+[Mon May 23 22:42:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: whats more funny
+[Mon May 23 22:42:57 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: is when you do stuff really fast
+[Mon May 23 22:43:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and accidentally put another 0
+[Mon May 23 22:43:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and the thing Flies off into the distance
+[Mon May 23 22:43:08 2016]  say: thermal: lel
+[Mon May 23 22:43:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: cuz all mmoves are set to finish within 3 seconds
+[Mon May 23 22:43:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so all the others go really slow and theres one just fucking off
+[Mon May 23 22:43:15 2016]  say: thermal: my people need me
+[Mon May 23 22:43:33 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like so.
+[Mon May 23 22:43:40 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: or
+[Mon May 23 22:43:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: same for mrotate
+[Mon May 23 22:43:47 2016]  say: thermal: AYYY
+[Mon May 23 22:43:51 2016]  say: thermal: hes having such a great time
+[Mon May 23 22:44:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: said the fish.
+[Mon May 23 22:44:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k do your thing
+[Mon May 23 22:44:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ill brb.
+[Mon May 23 22:47:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: back
+[Mon May 23 22:49:18 2016]  say: thermal: cries
+[Mon May 23 22:49:22 2016]  say: thermal: tfw fuck up longass command
+[Mon May 23 22:49:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ?
+[Mon May 23 22:49:26 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: rip
+[Mon May 23 22:49:31 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: all part of learning <3
+[Mon May 23 22:52:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: celebration
+[Mon May 23 22:52:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 22:52:13 2016]  say: thermal: go me
+[Mon May 23 22:52:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k soooo
+[Mon May 23 22:52:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: nooow
+[Mon May 23 22:52:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do musable
+[Mon May 23 22:52:48 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: uh.
+[Mon May 23 22:52:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and press J
+[Mon May 23 22:52:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k aaand
+[Mon May 23 22:52:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do /mdoor 0 0 24
+[Mon May 23 22:53:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aaand J again
+[Mon May 23 22:53:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i didnt realise it kept reseeting it.
+[Mon May 23 22:53:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: try pushing R on it.
+[Mon May 23 22:53:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: uh.
+[Mon May 23 22:54:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ..
+[Mon May 23 22:54:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: game.
+[Mon May 23 22:54:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you wot.
+[Mon May 23 22:54:13 2016]  say: thermal: lel
+[Mon May 23 22:54:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: there you go.
+[Mon May 23 22:54:29 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you have to do the special command sfirst
+[Mon May 23 22:54:32 2016]  Item: 1 ammo_all
+[Mon May 23 22:54:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: for no good reason
+[Mon May 23 22:54:33 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so yeah.
+[Mon May 23 22:54:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mdoor does that.
+[Mon May 23 22:54:38 2016]  say: thermal: nicu
+[Mon May 23 22:54:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: with x y z axis
+[Mon May 23 22:54:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: k soooo
+[Mon May 23 22:54:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thats the game.
+[Mon May 23 22:54:55 2016]  say: thermal: dis a snazzy game
+[Mon May 23 22:55:02 2016]  say: thermal: did you ever know aboouuttt
+[Mon May 23 22:55:06 2016]  say: thermal: return to blockland
+[Mon May 23 22:55:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: .nope.
+[Mon May 23 22:55:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: theres 3 things you can do in this game
+[Mon May 23 22:55:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: 1: fuck around and kill npcs
+[Mon May 23 22:55:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: 2: build with mgrab and be very detailed and save the objects
+[Mon May 23 22:55:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: 3: make building scripts that canbe executed anywhere or power scripts that use effects 
+[Mon May 23 22:55:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: lemme show you a >fireball
+[Mon May 23 22:55:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: that i made awhile ago
+[Mon May 23 22:55:53 2016]  say: thermal: o boy
+[Mon May 23 22:55:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i use things like >manimation
+[Mon May 23 22:55:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aaand lots of effects
+[Mon May 23 22:56:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ready.
+[Mon May 23 22:56:05 2016]  Item: 1 ammo_all
+[Mon May 23 22:56:09 2016]  say: thermal: yus
+[Mon May 23 22:56:18 2016]  say: thermal: thats cool as fuck what the hell
+[Mon May 23 22:56:23 2016]  say: thermal: nigga thats a final fantasy spell
+[Mon May 23 22:56:29 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: it has /mpain as well
+[Mon May 23 22:56:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: if it hit you youd die
+[Mon May 23 22:56:44 2016]  say: thermal: run around on servers fucking nuking people
+[Mon May 23 22:56:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so i do things like place the white marker effect and then kill it and then place an explosion effect
+[Mon May 23 22:56:51 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: watch
+[Mon May 23 22:57:03 2016]  say: thermal: i think i see
+[Mon May 23 22:57:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: .among other things.
+[Mon May 23 22:57:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like changing the arm distance
+[Mon May 23 22:57:16 2016]  Item: 1 ammo_all
+[Mon May 23 22:57:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: which changes how far your /mgrab is away from you
+[Mon May 23 22:57:26 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: which in turn allows me to turn it as i shoot
+[Mon May 23 22:57:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and aim it
+[Mon May 23 22:57:33 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: instead of it being straight forwards or some bullshit
+[Mon May 23 22:57:34 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so yes.
+[Mon May 23 22:57:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: dank memes.
+[Mon May 23 22:57:42 2016]  say: thermal: thats a great meme
+[Mon May 23 22:57:44 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: heres anoher one
+[Mon May 23 22:57:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i do an animation, place an explosion, use pain, and th en make myself so small you cant see
+[Mon May 23 22:57:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: also you could not be near me.
+[Mon May 23 22:58:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: then i noclip away
+[Mon May 23 22:58:15 2016]  say: thermal: did you ever go on pvp servers
+[Mon May 23 22:58:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and scale up 
+[Mon May 23 22:58:20 2016]  say: thermal: and get called hacker and such
+[Mon May 23 22:58:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes.
+[Mon May 23 22:58:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 22:58:25 2016]  say: thermal: ;v
+[Mon May 23 22:58:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: lets see.
+[Mon May 23 22:58:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: im gonna dooo
+[Mon May 23 22:58:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: crystal3.
+[Mon May 23 22:58:54 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: the crystal scripts were my favourite
+[Mon May 23 22:58:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: <3
+[Mon May 23 22:59:05 2016]  say: thermal: i can see why ;o
+[Mon May 23 22:59:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so these were supposd to crush you
+[Mon May 23 22:59:27 2016]  say: thermal: such aesthetic
+[Mon May 23 22:59:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: if i trapped oyu in them.
+[Mon May 23 22:59:34 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you did r_dynamicglow 1 right?
+[Mon May 23 22:59:40 2016]  say: thermal: yup
+[Mon May 23 22:59:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mhm
+[Mon May 23 22:59:52 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so here i changed the marm distance and then grabbed and then dropped
+[Mon May 23 22:59:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and after doing it 30 times increasing the distance each time
+[Mon May 23 23:00:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: it makes a line that follows where my camera points
+[Mon May 23 23:00:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and thne i did >mbobbing (numbers) for each crystal
+[Mon May 23 23:00:20 2016]  say: thermal: ah
+[Mon May 23 23:00:27 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: or alternatively I can make the grabbing short enough that i walk on it if i execute it
+[Mon May 23 23:00:36 2016]  say: thermal: who knew that a game like this would have such
+[Mon May 23 23:00:38 2016]  say: thermal: uh
+[Mon May 23 23:00:44 2016]  say: thermal: creative capacity
+[Mon May 23 23:00:45 2016]  say: thermal: ;o
+[Mon May 23 23:00:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aye
+[Mon May 23 23:00:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: its my favourite for a reason
+[Mon May 23 23:00:53 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: garrys mod is garbage.
+[Mon May 23 23:00:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: lemem show you something else.
+[Mon May 23 23:01:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: uhh.
+[Mon May 23 23:01:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yeah thats the one.
+[Mon May 23 23:01:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: noclip in
+[Mon May 23 23:01:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: /noclip
+[Mon May 23 23:01:25 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then un noclip
+[Mon May 23 23:01:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hall of mirriors
+[Mon May 23 23:01:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i changed the textures on the catwalks
+[Mon May 23 23:01:43 2016]  say: thermal: this is fuckin cool
+[Mon May 23 23:01:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: to reflect your camera
+[Mon May 23 23:01:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and also have a blurry effect
+[Mon May 23 23:02:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: its even cooler on other maps
+[Mon May 23 23:02:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: cuz i can make the illusion of like
+[Mon May 23 23:02:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: a cartooney dark forest
+[Mon May 23 23:02:27 2016]  say: thermal: gosh
+[Mon May 23 23:02:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and 
+[Mon May 23 23:02:54 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hmm.
+[Mon May 23 23:02:57 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: that command used to exist.
+[Mon May 23 23:03:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ah.
+[Mon May 23 23:03:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: there it is.
+[Mon May 23 23:03:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: thats what the game looks like without texture changes.
+[Mon May 23 23:03:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: this map specifically.
+[Mon May 23 23:03:21 2016]  say: thermal: ah
+[Mon May 23 23:03:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: but as you can see
+[Mon May 23 23:03:26 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: we can maek any world we want
+[Mon May 23 23:03:44 2016]  say: thermal: seems so
+[Mon May 23 23:03:47 2016]  say: thermal: something something
+[Mon May 23 23:03:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: tron.
+[Mon May 23 23:03:50 2016]  say: thermal: whole new world
+[Mon May 23 23:03:51 2016]  say: thermal: ;o
+[Mon May 23 23:03:57 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i could make the whole map like this
+[Mon May 23 23:03:59 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and thus tron.
+[Mon May 23 23:04:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: infinite possibilities <3
+[Mon May 23 23:04:16 2016]  say: thermal: yes *0*
+[Mon May 23 23:04:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hold on
+[Mon May 23 23:04:45 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: im gonna have to type in all of t hose texture changges.
+[Mon May 23 23:04:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: by hand.
+[Mon May 23 23:04:52 2016]  say: thermal: awh snaep
+[Mon May 23 23:05:07 2016]  say: thermal: may i get water?
+[Mon May 23 23:05:12 2016]  say: thermal: er
+[Mon May 23 23:05:12 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mhm
+[Mon May 23 23:05:15 2016]  say: thermal: danke
+[Mon May 23 23:07:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so uh
+[Mon May 23 23:07:19 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: any questions
+[Mon May 23 23:07:28 2016]  say: thermal: umm
+[Mon May 23 23:07:46 2016]  say: thermal: did you ever make any fancy maps?
+[Mon May 23 23:07:51 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes
+[Mon May 23 23:07:57 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ive made my own maps from scratch and also textured maps
+[Mon May 23 23:07:59 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: this is called remapping
+[Mon May 23 23:08:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: im gonna stop saying texture
+[Mon May 23 23:08:09 2016]  say: thermal: kay
+[Mon May 23 23:08:17 2016]  say: thermal: this game reminds me of so many games but like
+[Mon May 23 23:08:21 2016]  say: thermal: none of them got this wild x.x
+[Mon May 23 23:08:29 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: .its my favourite
+[Mon May 23 23:08:32 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: .any other questions or thoughts
+[Mon May 23 23:08:45 2016]  say: thermal: nnope
+[Mon May 23 23:08:53 2016]  say: thermal: errr
+[Mon May 23 23:08:54 2016]  say: thermal: rather
+[Mon May 23 23:09:00 2016]  say: thermal:  i really miss the novelty of these kinds of games
+[Mon May 23 23:09:05 2016]  say: thermal: where you can do a lot of console command shit
+[Mon May 23 23:09:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: aye
+[Mon May 23 23:09:12 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: garrys mod is shit.
+[Mon May 23 23:09:16 2016]  say: thermal: how so?
+[Mon May 23 23:09:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: >oh look ragdalls amazing
+[Mon May 23 23:09:26 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: nothing close to the customization of this
+[Mon May 23 23:09:44 2016]  say: thermal: i think gmod is only good for dicking around with gamemodes with friends
+[Mon May 23 23:09:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: uhhuh.
+[Mon May 23 23:09:49 2016]  say: thermal: like TTT or jailbreak or whatever
+[Mon May 23 23:09:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: take note of this
+[Mon May 23 23:09:57 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: script as well
+[Mon May 23 23:10:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i place an effect
+[Mon May 23 23:10:05 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: make it /mtouchable
+[Mon May 23 23:10:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: then play a sound when touched
+[Mon May 23 23:10:12 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: then mscale me to super small
+[Mon May 23 23:10:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: kill the effect
+[Mon May 23 23:10:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: noclip, and do the opposite on another end
+[Mon May 23 23:10:34 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: that could be a boss in a game.
+[Mon May 23 23:10:36 2016]  say: thermal: jeepers
+[Mon May 23 23:10:39 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: dissapearing and reappearing all over thep lace
+[Mon May 23 23:10:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: such customizing
+[Mon May 23 23:10:50 2016]  say: thermal: that is neat x.x
+[Mon May 23 23:11:06 2016]  say: thermal: what a fuckin game
+[Mon May 23 23:11:09 2016]  say: thermal: how big was this game at the time?
+[Mon May 23 23:11:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: kind of big
+[Mon May 23 23:11:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: it was never severely popular
+[Mon May 23 23:11:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: but it had like
+[Mon May 23 23:11:27 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: a thousand people playing at once or so
+[Mon May 23 23:11:29 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: at one time 
+[Mon May 23 23:11:33 2016]  say: thermal: ah okay then
+[Mon May 23 23:11:36 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: now its pretty much entirely dead
+[Mon May 23 23:11:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: only like
+[Mon May 23 23:11:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: 30 people
+[Mon May 23 23:11:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and no one knows how to use these commands
+[Mon May 23 23:11:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: all the serverse are are up are for roleplaying and dueling
+[Mon May 23 23:12:10 2016]  say: thermal: thats tragic
+[Mon May 23 23:12:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: here
+[Mon May 23 23:12:12 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i wanna show you something
+[Mon May 23 23:12:17 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: dont respawn
+[Mon May 23 23:12:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: untill i tell oyu to
+[Mon May 23 23:12:22 2016]  Kill: 0 1 3: ^7§^0î^7j^0Ü^7må^0h^7~ killed thermal by MOD_SABER
+[Mon May 23 23:12:38 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so.
+[Mon May 23 23:12:42 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: this game
+[Mon May 23 23:12:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: also has lots of.
+[Mon May 23 23:12:45 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like
+[Mon May 23 23:12:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: secrets to find
+[Mon May 23 23:12:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like if you kill someone twice
+[Mon May 23 23:12:51 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: set their health to 1
+[Mon May 23 23:12:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and their material to >glass
+[Mon May 23 23:12:57 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: they turn into a ghost
+[Mon May 23 23:13:07 2016]  say: thermal: huh
+[Mon May 23 23:13:13 2016]  say: thermal: i dont look ghosty to me
+[Mon May 23 23:13:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: yes.
+[Mon May 23 23:13:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: but i go through you
+[Mon May 23 23:13:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and bullets go through you >_>
+[Mon May 23 23:13:28 2016]  say: thermal: hohkay then
+[Mon May 23 23:13:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like i just demonstrated.
+[Mon May 23 23:13:46 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so yes.
+[Mon May 23 23:13:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: if you wanted to be a ghost..
+[Mon May 23 23:13:50 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: uhh.
+[Mon May 23 23:13:55 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do model jawa
+[Mon May 23 23:13:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and press tab
+[Mon May 23 23:14:05 2016]  print "thermal^7 @@@PLRENAME Thermal
+"[Mon May 23 23:14:11 2016]  say: Thermal: lel
+[Mon May 23 23:14:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hmmm.
+[Mon May 23 23:14:26 2016]  say: Thermal: arent jawas like
+[Mon May 23 23:14:28 2016]  say: Thermal: short as heck tho
+[Mon May 23 23:14:41 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: there.
+[Mon May 23 23:14:53 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so if you didnt have your jetpack
+[Mon May 23 23:14:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: youd be ghostey.
+[Mon May 23 23:15:00 2016]  say: Thermal: it me
+[Mon May 23 23:15:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and such.
+[Mon May 23 23:15:04 2016]  say: Thermal: the ghost of chrystler past
+[Mon May 23 23:15:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: mhm.
+[Mon May 23 23:15:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you can also remap effects
+[Mon May 23 23:15:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like uh.
+[Mon May 23 23:15:18 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i can change that thermal shockwave to be blue
+[Mon May 23 23:15:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: or anything i want
+[Mon May 23 23:15:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 23:15:27 2016]  say: Thermal: gosh
+[Mon May 23 23:15:30 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i pretty much cant think of a thing you cant do
+[Mon May 23 23:15:31 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: in this game
+[Mon May 23 23:15:34 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: that you could imagine.
+[Mon May 23 23:15:35 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 23:15:47 2016]  say: Thermal: i want to leave a trail of hearts when i run
+[Mon May 23 23:16:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: .thats possible. theres an >attach to body parts. command. and theres a trail of hearts effect
+[Mon May 23 23:16:14 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: heres a checkerboard
+[Mon May 23 23:16:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: we could move our pieces and kill them oureslves
+[Mon May 23 23:16:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and things  like that.
+[Mon May 23 23:16:30 2016]  say: Thermal: thats fun
+[Mon May 23 23:16:37 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: bind n noclip
+[Mon May 23 23:17:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: bind 3 mscaleme 1
+[Mon May 23 23:17:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then /mscaleme 0.3
+[Mon May 23 23:17:11 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and youre a proper jawa
+[Mon May 23 23:17:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: err
+[Mon May 23 23:17:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: maybe not so low.
+[Mon May 23 23:17:26 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: 0.5 maybe
+[Mon May 23 23:17:26 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: o6 
+[Mon May 23 23:17:27 2016]  say: Thermal: lel
+[Mon May 23 23:18:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so yes.
+[Mon May 23 23:18:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 23:18:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: if you could create something
+[Mon May 23 23:18:12 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: whatw ould you make
+[Mon May 23 23:18:13 2016]  say: Thermal: a jawa with long sexy legs
+[Mon May 23 23:18:19 2016]  say: Thermal: is uh
+[Mon May 23 23:18:20 2016]  say: Thermal: what i am
+[Mon May 23 23:18:21 2016]  say: Thermal: x.x
+[Mon May 23 23:18:24 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: kappa
+[Mon May 23 23:18:29 2016]  say: Thermal: umm
+[Mon May 23 23:18:40 2016]  say: Thermal: id make a cute little cottage
+[Mon May 23 23:18:46 2016]  say: Thermal: but thatd be a huge pain cuz i want tiny details >v>
+[Mon May 23 23:19:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: well thats what the mgrabbing version is for
+[Mon May 23 23:19:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: instead of being like UGH NOT ENOUGH
+[Mon May 23 23:19:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: MUST MMOVE 0 0 0.008 HIGHER
+[Mon May 23 23:19:09 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you can just do it yourself
+[Mon May 23 23:19:12 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and then /msaveobs
+[Mon May 23 23:19:14 2016]  say: Thermal: lel
+[Mon May 23 23:19:15 2016]  say: Thermal: i had a game
+[Mon May 23 23:19:23 2016]  say: Thermal: return to blockland that shit happened all the time
+[Mon May 23 23:19:41 2016]  say: Thermal: jk another tool from that just occured to me
+[Mon May 23 23:20:02 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ?
+[Mon May 23 23:20:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: go on,.
+[Mon May 23 23:20:12 2016]  say: Thermal: thats uh
+[Mon May 23 23:20:15 2016]  say: Thermal: all i had to say
+[Mon May 23 23:20:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: dont wanna tell me about the tool?
+[Mon May 23 23:20:45 2016]  say: Thermal: you could just bind a few keys to the numbad to move stuff quicker
+[Mon May 23 23:20:49 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ah
+[Mon May 23 23:20:54 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: anyway.
+[Mon May 23 23:20:58 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: this is what i thought codespells was gonna be
+[Mon May 23 23:21:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: but surprise it has NO assets.
+[Mon May 23 23:21:04 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: like. 1 effect
+[Mon May 23 23:21:06 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and 1 object
+[Mon May 23 23:21:08 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and barely any functions
+[Mon May 23 23:21:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and im like plis.
+[Mon May 23 23:21:12 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: a 200 year old game
+[Mon May 23 23:21:14 2016]  say: Thermal: ball and explosion
+[Mon May 23 23:21:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: did it better than you.
+[Mon May 23 23:21:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: for less money.
+[Mon May 23 23:21:29 2016]  say: Thermal: the really funny part
+[Mon May 23 23:21:36 2016]  say: Thermal: is that im pretty sure it was not intentional with this game
+[Mon May 23 23:21:38 2016]  say: Thermal: questionmark
+[Mon May 23 23:21:43 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: hm?
+[Mon May 23 23:21:47 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: whats not intentional
+[Mon May 23 23:21:50 2016]  say: Thermal: having all these creative features
+[Mon May 23 23:21:53 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oh
+[Mon May 23 23:21:53 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: well.
+[Mon May 23 23:21:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: who knows.
+[Mon May 23 23:21:56 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: ;o
+[Mon May 23 23:21:58 2016]  say: Thermal: and having players make intricate junk with them
+[Mon May 23 23:22:16 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: of course
+[Mon May 23 23:22:17 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: you can make
+[Mon May 23 23:22:20 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: your own maps and effects and objects
+[Mon May 23 23:22:22 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: and skins and such
+[Mon May 23 23:22:26 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: the skins and models game 
+[Mon May 23 23:22:28 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: for this game
+[Mon May 23 23:22:31 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: was on point.
+[Mon May 23 23:22:33 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: theres THOUSANDS of them.
+[Mon May 23 23:22:58 2016]  say: Thermal: i imagine ;o
+[Mon May 23 23:23:32 2016]  say: Thermal: look at that beautiful lady
+[Mon May 23 23:24:01 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: here.
+[Mon May 23 23:24:03 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: uhm
+[Mon May 23 23:24:07 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: damn i dont remember the command
+[Mon May 23 23:24:10 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: do /notarget
+[Mon May 23 23:24:21 2016]  say: Thermal: dun
+[Mon May 23 23:24:21 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: oh yeah.
+[Mon May 23 23:24:23 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: i got ir giht.
+[Mon May 23 23:24:29 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: noclip
+[Mon May 23 23:24:31 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: up to here.
+[Mon May 23 23:24:59 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: so yes.
+[Mon May 23 23:25:00 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: things.
+[Mon May 23 23:25:06 2016]  say: Thermal: that
+[Mon May 23 23:25:12 2016]  say: Thermal: scared my tits off
+[Mon May 23 23:25:13 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: kappa.
+[Mon May 23 23:26:08 2016]  say: Thermal: whos dis man
+[Mon May 23 23:26:11 2016]  say: Thermal: this big statue
+[Mon May 23 23:27:12 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: marka ragnos
+[Mon May 23 23:27:15 2016]  say: ^7§^0î^7j^0Ü^7må^0h^7~: play SP t;o
+[Mon May 23 23:27:29 2016]  ClientDisconnect: 0
+[Mon May 23 23:27:30 2016]  say: Thermal: SP t?
+[Mon May 23 23:27:42 2016]  ClientDisconnect: 1
+[Tue May 24 05:13:15 2016]  ClientConnect: 0
+[Tue May 24 05:13:15 2016]  mlog:Player Padawan, connected. With IP - 75.186.12.222:29070 
+[Tue May 24 05:16:35 2016]  ClientDisconnect: 0
+[Tue May 24 13:30:21 2016]  ClientConnect: 0
+[Tue May 24 13:30:21 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 10.48.22.2:29070 
+[Tue May 24 13:30:48 2016]  ClientBegin: 0
+[Tue May 24 13:31:44 2016]  ShutdownGame:
+[Tue May 24 13:31:44 2016]  ------------------------------------------------------------

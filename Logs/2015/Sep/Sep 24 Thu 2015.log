@@ -1,0 +1,286 @@
+[Thu Sep 24 17:59:17 2015]  ------------------------------------------------------------
+[Thu Sep 24 17:59:17 2015]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 24 17:59:49 2015]  ------------------------------------------------------------
+[Thu Sep 24 17:59:49 2015]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 24 18:00:50 2015]  ------------------------------------------------------------
+[Thu Sep 24 18:00:50 2015]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 24 18:01:41 2015]  ClientConnect: 0
+[Thu Sep 24 18:01:41 2015]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Thu Sep 24 18:01:47 2015]  ClientBegin: 0
+[Thu Sep 24 18:24:29 2015]  ClientConnect: 1
+[Thu Sep 24 18:24:29 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Sep 24 18:24:55 2015]  ClientBegin: 1
+[Thu Sep 24 18:25:02 2015]  Item: 1 weapon_melee
+[Thu Sep 24 18:25:12 2015]  say: ^0Shadow^5seer: hi
+[Thu Sep 24 18:25:17 2015]  say: ^0Ðàrk^2^1Qµàkè: hi :)
+[Thu Sep 24 18:25:29 2015]  say: ^0Shadow^5seer: dude, remove the desert siege map from this server!
+[Thu Sep 24 18:25:39 2015]  say: ^0Ðàrk^2^1Qµàkè: Yeah I know, I did it
+[Thu Sep 24 18:25:45 2015]  say: ^0Shadow^5seer: finally)
+[Thu Sep 24 18:25:46 2015]  say: ^0Ðàrk^2^1Qµàkè: it's constant t2_trip now
+[Thu Sep 24 18:25:52 2015]  say: ^0Shadow^5seer: nice
+[Thu Sep 24 18:26:01 2015]  say: ^0Ðàrk^2^1Qµàkè: Glad to see someone else on Makermod lol
+[Thu Sep 24 18:26:02 2015]  say: ^0Shadow^5seer: thats what we all were waiting for
+[Thu Sep 24 18:26:12 2015]  say: ^0Ðàrk^2^1Qµàkè: Oh there's others?
+[Thu Sep 24 18:26:17 2015]  say: ^0Shadow^5seer: there are some
+[Thu Sep 24 18:26:27 2015]  say: ^0Shadow^5seer: couldnt catch you since now
+[Thu Sep 24 18:26:32 2015]  say: ^0Ðàrk^2^1Qµàkè: ah right
+[Thu Sep 24 18:26:37 2015]  say: ^0Ðàrk^2^1Qµàkè: well my contact info's here
+[Thu Sep 24 18:26:43 2015]  say: ^0Shadow^5seer: right...
+[Thu Sep 24 18:27:24 2015]  say: ^0Ðàrk^2^1Qµàkè: lol
+[Thu Sep 24 18:27:44 2015]  say: ^0Shadow^5seer: got smth new to show, but uits attached to the pillar in the middle
+[Thu Sep 24 18:27:51 2015]  say: ^0Shadow^5seer: and theres a huge screen there
+[Thu Sep 24 18:28:01 2015]  say: ^0Shadow^5seer: anyways
+[Thu Sep 24 18:28:15 2015]  say: ^0Ðàrk^2^1Qµàkè: you invisible or just really small?
+[Thu Sep 24 18:28:26 2015]  say: ^0Shadow^5seer: isnt it the same?
+[Thu Sep 24 18:28:35 2015]  say: ^0Ðàrk^2^1Qµàkè: I guess :p
+[Thu Sep 24 18:28:37 2015]  say: ^0Shadow^5seer: look whats behind the screen
+[Thu Sep 24 18:28:48 2015]  Kill: 0 0 36: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_CRUSH
+[Thu Sep 24 18:28:54 2015]  say: ^0Ðàrk^2^1Qµàkè: whoops
+[Thu Sep 24 18:28:56 2015]  say: ^0Ðàrk^2^1Qµàkè: clicked :p
+[Thu Sep 24 18:29:11 2015]  say: ^0Ðàrk^2^1Qµàkè: that's awesome!
+[Thu Sep 24 18:29:17 2015]  say: ^0Shadow^5seer: :)
+[Thu Sep 24 18:29:20 2015]  say: ^0Shadow^5seer: glad to hear
+[Thu Sep 24 18:29:30 2015]  say: ^0Shadow^5seer: my last cration here
+[Thu Sep 24 18:29:35 2015]  say: ^0Shadow^5seer: ceattion
+[Thu Sep 24 18:29:39 2015]  say: ^0Shadow^5seer: creation!
+[Thu Sep 24 18:29:42 2015]  say: ^0Shadow^5seer: =_=
+[Thu Sep 24 18:29:43 2015]  say: ^0Ðàrk^2^1Qµàkè: haha
+[Thu Sep 24 18:29:51 2015]  say: ^0Ðàrk^2^1Qµàkè: since when? 2012 or something?
+[Thu Sep 24 18:30:00 2015]  say: ^0Ðàrk^2^1Qµàkè: I haven't had the server up for a while
+[Thu Sep 24 18:30:04 2015]  say: ^0Shadow^5seer: this one was made a couple months ago
+[Thu Sep 24 18:30:10 2015]  say: ^0Ðàrk^2^1Qµàkè: ah cool
+[Thu Sep 24 18:30:33 2015]  say: ^0Ðàrk^2^1Qµàkè: I'd love to build stuff, but I'm working on my last Element script :)
+[Thu Sep 24 18:30:37 2015]  say: ^0Shadow^5seer: and i also updated my throne
+[Thu Sep 24 18:30:47 2015]  say: ^0Shadow^5seer: working on?
+[Thu Sep 24 18:31:05 2015]  say: ^0Shadow^5seer: writing such scripts takea couple of hours, isnt it?
+[Thu Sep 24 18:31:11 2015]  say: ^0Shadow^5seer: takes
+[Thu Sep 24 18:31:15 2015]  say: ^0Ðàrk^2^1Qµàkè: yeah, but I use Vim
+[Thu Sep 24 18:31:22 2015]  say: ^0Shadow^5seer: use what?
+[Thu Sep 24 18:31:23 2015]  say: ^0Ðàrk^2^1Qµàkè: an editor for touchtypers
+[Thu Sep 24 18:31:32 2015]  say: ^0Ðàrk^2^1Qµàkè: Vim, look it up :) It's really useful
+[Thu Sep 24 18:31:47 2015]  say: ^0Shadow^5seer: cant say so since it takes so long
+[Thu Sep 24 18:31:51 2015]  say: ^0Ðàrk^2^1Qµàkè: I can edit the script quickly, like delete 2 lines with a few keystrokes
+[Thu Sep 24 18:31:58 2015]  say: ^0Ðàrk^2^1Qµàkè: but yeah still takes a while
+[Thu Sep 24 18:32:09 2015]  say: ^0Ðàrk^2^1Qµàkè: I'm working on the lightning storm attack
+[Thu Sep 24 18:32:19 2015]  say: ^0Shadow^5seer: i can write a script like this dragon for 1 day
+[Thu Sep 24 18:32:36 2015]  say: ^0Shadow^5seer: loghtning storm?
+[Thu Sep 24 18:32:40 2015]  say: ^0Shadow^5seer: lightning
+[Thu Sep 24 18:32:52 2015]  say: ^0Ðàrk^2^1Qµàkè: Yeah I need a better animation, I just looked one up. Hold on
+[Thu Sep 24 18:33:36 2015]  say: ^0Shadow^5seer: i have lightning script too
+[Thu Sep 24 18:33:36 2015]  say: ^0Ðàrk^2^1Qµàkè: that was cool
+[Thu Sep 24 18:34:03 2015]  Kill: 1022 0 36: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_CRUSH
+[Thu Sep 24 18:34:09 2015]  say: ^0Ðàrk^2^1Qµàkè: wow I liked those ones a lot
+[Thu Sep 24 18:34:11 2015]  say: ^0Shadow^5seer: this one can lag a lil
+[Thu Sep 24 18:34:24 2015]  say: ^0Shadow^5seer: and the ultimate ability
+[Thu Sep 24 18:34:34 2015]  say: ^0Shadow^5seer: gotta rewrite this one
+[Thu Sep 24 18:34:51 2015]  say: ^0Shadow^5seer: or not...
+[Thu Sep 24 18:34:55 2015]  say: ^0Ðàrk^2^1Qµàkè: It's still pretty good
+[Thu Sep 24 18:35:02 2015]  say: ^0Ðàrk^2^1Qµàkè: do the staff-spin one again
+[Thu Sep 24 18:35:10 2015]  say: ^0Shadow^5seer: wanted to make some lightnings strike at the same time
+[Thu Sep 24 18:35:14 2015]  Kill: 1022 0 36: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_CRUSH
+[Thu Sep 24 18:35:26 2015]  say: ^0Shadow^5seer: it makes me lag there)
+[Thu Sep 24 18:35:29 2015]  say: ^0Shadow^5seer: here
+[Thu Sep 24 18:35:59 2015]  say: ^0Ðàrk^2^1Qµàkè: your scripts are better than mine lol, how did you get each lightning bolt to come from your hands?
+[Thu Sep 24 18:36:00 2015]  say: ^0Shadow^5seer: got smth more deadly)
+[Thu Sep 24 18:36:08 2015]  say: ^0Shadow^5seer: they dont)
+[Thu Sep 24 18:36:17 2015]  say: ^0Shadow^5seer: two of them are attached to hands
+[Thu Sep 24 18:36:23 2015]  say: ^0Shadow^5seer: and others go from marm 0
+[Thu Sep 24 18:36:36 2015]  say: ^0Shadow^5seer: in different directions
+[Thu Sep 24 18:36:47 2015]  say: ^0Shadow^5seer: with wait 10 between each of them
+[Thu Sep 24 18:36:52 2015]  say: ^0Shadow^5seer: thats all
+[Thu Sep 24 18:36:58 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Thu Sep 24 18:36:58 2015]  say: ^0Ðàrk^2^1Qµàkè: cool
+[Thu Sep 24 18:37:05 2015]  say: ^0Shadow^5seer: and this one...
+[Thu Sep 24 18:37:11 2015]  say: ^0Shadow^5seer: like a real banshee scream
+[Thu Sep 24 18:37:17 2015]  say: ^0Shadow^5seer: kills everyone who hears it
+[Thu Sep 24 18:37:24 2015]  say: ^0Ðàrk^2^1Qµàkè: on noclip?
+[Thu Sep 24 18:37:28 2015]  say: ^0Shadow^5seer: with a huge distance
+[Thu Sep 24 18:37:36 2015]  say: ^0Shadow^5seer: not in noclip of course
+[Thu Sep 24 18:37:40 2015]  say: ^0Ðàrk^2^1Qµàkè: :p
+[Thu Sep 24 18:37:44 2015]  say: ^0Ðàrk^2^1Qµàkè: cool lemme see
+[Thu Sep 24 18:37:53 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Thu Sep 24 18:38:06 2015]  say: ^0Shadow^5seer: it could reach u there
+[Thu Sep 24 18:38:12 2015]  say: ^0Shadow^5seer: if u werent noclipped
+[Thu Sep 24 18:38:19 2015]  say: ^0Ðàrk^2^1Qµàkè: nice
+[Thu Sep 24 18:38:31 2015]  say: ^0Shadow^5seer: and it kills all around me in that distance
+[Thu Sep 24 18:39:16 2015]  say: ^0Shadow^5seer: and this one works on noclippers)
+[Thu Sep 24 18:39:19 2015]  say: ^0Ðàrk^2^1Qµàkè: how do you fire so far? do you use markoffset?
+[Thu Sep 24 18:39:27 2015]  say: ^0Shadow^5seer: just mmove
+[Thu Sep 24 18:39:48 2015]  say: ^0Ðàrk^2^1Qµàkè: I use markt :)
+[Thu Sep 24 18:39:53 2015]  say: ^0Shadow^5seer: i do too
+[Thu Sep 24 18:39:56 2015]  Kill: 1022 0 36: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_CRUSH
+[Thu Sep 24 18:40:03 2015]  say: ^0Shadow^5seer: in other scripts
+[Thu Sep 24 18:40:12 2015]  say: ^0Shadow^5seer: but this one fires a bolt
+[Thu Sep 24 18:40:18 2015]  say: ^0Shadow^5seer: and it should move
+[Thu Sep 24 18:40:56 2015]  say: ^0Shadow^5seer: this one immobilizes and causes low damage
+[Thu Sep 24 18:41:01 2015]  say: ^0Shadow^5seer: but for a long time
+[Thu Sep 24 18:41:10 2015]  say: ^0Shadow^5seer: very useful against rancors
+[Thu Sep 24 18:41:26 2015]  say: ^0Shadow^5seer: and this one is my favorite
+[Thu Sep 24 18:41:37 2015]  say: ^0Ðàrk^2^1Qµàkè: :D
+[Thu Sep 24 18:41:41 2015]  say: ^0Shadow^5seer: no, not this one
+[Thu Sep 24 18:41:48 2015]  say: ^0Shadow^5seer: this one
+[Thu Sep 24 18:41:52 2015]  say: ^0Shadow^5seer: ^3Requesting ^3Orbital ^3Strike!
+[Thu Sep 24 18:42:03 2015]  say: ^0Ðàrk^2^1Qµàkè: :o
+[Thu Sep 24 18:42:07 2015]  say: ^0Ðàrk^2^1Qµàkè: that's epic haha
+[Thu Sep 24 18:42:10 2015]  say: ^0Shadow^5seer: saw the ship?
+[Thu Sep 24 18:42:12 2015]  say: ^0Ðàrk^2^1Qµàkè: yeah
+[Thu Sep 24 18:42:16 2015]  say: ^0Shadow^5seer: ;)
+[Thu Sep 24 18:42:31 2015]  say: ^0Ðàrk^2^1Qµàkè: and how do you teleport silently? Or do you just noclip?
+[Thu Sep 24 18:42:41 2015]  say: ^0Shadow^5seer: noclip and mscaleme 10.25
+[Thu Sep 24 18:43:02 2015]  say: ^0Shadow^5seer: i disappear and appear again where i want to and when i want to
+[Thu Sep 24 18:43:14 2015]  say: ^0Shadow^5seer: much more useful then teleport
+[Thu Sep 24 18:43:19 2015]  say: ^0Shadow^5seer: nad easier to use
+[Thu Sep 24 18:43:22 2015]  say: ^0Shadow^5seer: and*
+[Thu Sep 24 18:43:41 2015]  say: ^0Ðàrk^2^1Qµàkè: lol
+[Thu Sep 24 18:43:57 2015]  Kill: 1022 0 36: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_CRUSH
+[Thu Sep 24 18:44:00 2015]  say: ^0Shadow^5seer: =_=
+[Thu Sep 24 18:44:05 2015]  say: ^0Shadow^5seer: wrong script
+[Thu Sep 24 18:44:12 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Thu Sep 24 18:44:12 2015]  Kill: 1022 0 36: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_CRUSH
+[Thu Sep 24 18:44:15 2015]  say: ^0Shadow^5seer: here
+[Thu Sep 24 18:44:28 2015]  say: ^0Shadow^5seer: and it can hit even further
+[Thu Sep 24 18:44:32 2015]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Thu Sep 24 18:44:32 2015]  Kill: 1022 0 36: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_CRUSH
+[Thu Sep 24 18:44:36 2015]  say: ^0Shadow^5seer: that far
+[Thu Sep 24 18:44:45 2015]  say: ^0Ðàrk^2^1Qµàkè: well you've really beaten me on my script lol
+[Thu Sep 24 18:44:48 2015]  say: ^0Shadow^5seer: in_all_directions around me
+[Thu Sep 24 18:44:51 2015]  say: ^0Ðàrk^2^1Qµàkè: I only have a few attacks
+[Thu Sep 24 18:45:00 2015]  say: ^0Shadow^5seer: also
+[Thu Sep 24 18:45:08 2015]  say: ^0Shadow^5seer: i have another doombole
+[Thu Sep 24 18:45:12 2015]  say: ^0Shadow^5seer: doombolt
+[Thu Sep 24 18:45:19 2015]  say: ^0Shadow^5seer: like this
+[Thu Sep 24 18:45:25 2015]  say: ^0Shadow^5seer: but much bigger
+[Thu Sep 24 18:45:33 2015]  Kill: 1022 0 36: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_CRUSH
+[Thu Sep 24 18:45:38 2015]  say: ^0Ðàrk^2^1Qµàkè: when using mmove how do you set the pain along the way?
+[Thu Sep 24 18:45:46 2015]  say: ^0Shadow^5seer: and it has same radius as banshe scream
+[Thu Sep 24 18:45:50 2015]  say: ^0Shadow^5seer: but it moves)
+[Thu Sep 24 18:46:07 2015]  say: ^0Ðàrk^2^1Qµàkè: ah ok
+[Thu Sep 24 18:46:07 2015]  say: ^0Shadow^5seer: do u know whats mpendulum
+[Thu Sep 24 18:46:11 2015]  say: ^0Ðàrk^2^1Qµàkè: yeah
+[Thu Sep 24 18:46:22 2015]  say: ^0Shadow^5seer: i have an invisible object inside the fx
+[Thu Sep 24 18:46:31 2015]  say: ^0Shadow^5seer: and it kills, not the fx
+[Thu Sep 24 18:46:44 2015]  say: ^0Ðàrk^2^1Qµàkè: oh right
+[Thu Sep 24 18:46:55 2015]  say: ^0Ðàrk^2^1Qµàkè: I had an attack like that but it killed myself too lol
+[Thu Sep 24 18:47:05 2015]  say: ^0Shadow^5seer: usw marm 50 at least
+[Thu Sep 24 18:47:08 2015]  say: ^0Shadow^5seer: use
+[Thu Sep 24 18:47:14 2015]  say: ^0Shadow^5seer: so it cant reach u
+[Thu Sep 24 18:47:34 2015]  say: ^0Shadow^5seer: or if its huge lik the last thing i shown
+[Thu Sep 24 18:47:40 2015]  say: ^0Shadow^5seer: use noclip
+[Thu Sep 24 18:47:44 2015]  say: ^0Shadow^5seer: like*
+[Thu Sep 24 18:48:21 2015]  say: ^0Ðàrk^2^1Qµàkè: hang on I'll try my one with noclip
+[Thu Sep 24 18:49:35 2015]  Kill: 1022 0 36: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_CRUSH
+[Thu Sep 24 18:49:41 2015]  say: ^0Ðàrk^2^1Qµàkè: lol
+[Thu Sep 24 18:49:46 2015]  say: ^0Ðàrk^2^1Qµàkè: still just me
+[Thu Sep 24 18:49:52 2015]  say: ^0Shadow^5seer: what did u do?
+[Thu Sep 24 18:50:04 2015]  say: ^0Shadow^5seer: im actually in god and armor
+[Thu Sep 24 18:50:13 2015]  say: ^0Ðàrk^2^1Qµàkè: I spawn the falcon, but scale it to -10.23 and make it a pendulum
+[Thu Sep 24 18:50:15 2015]  say: ^0Shadow^5seer: no god now
+[Thu Sep 24 18:50:26 2015]  say: ^0Shadow^5seer: try it
+[Thu Sep 24 18:50:34 2015]  Kill: 1022 0 36: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_CRUSH
+[Thu Sep 24 18:50:40 2015]  say: ^0Shadow^5seer: it works
+[Thu Sep 24 18:50:48 2015]  say: ^0Shadow^5seer: just as my banshee scream
+[Thu Sep 24 18:50:53 2015]  say: ^0Ðàrk^2^1Qµàkè: you're invincible haha
+[Thu Sep 24 18:50:54 2015]  say: ^0Shadow^5seer: exactly like it
+[Thu Sep 24 18:51:02 2015]  say: ^0Ðàrk^2^1Qµàkè: oh god mode, right
+[Thu Sep 24 18:51:03 2015]  say: ^0Shadow^5seer: i use falcon too
+[Thu Sep 24 18:51:06 2015]  say: ^0Shadow^5seer: armor
+[Thu Sep 24 18:51:11 2015]  say: ^0Shadow^5seer: u caused damahe
+[Thu Sep 24 18:51:14 2015]  say: ^0Shadow^5seer: it works
+[Thu Sep 24 18:51:28 2015]  say: ^0Ðàrk^2^1Qµàkè: cool :) How do I get lods of armor?
+[Thu Sep 24 18:51:38 2015]  say: ^0Shadow^5seer: give armor 9999999999999999999999
+[Thu Sep 24 18:51:42 2015]  say: ^0Shadow^5seer: any amount
+[Thu Sep 24 18:52:06 2015]  say: ^0Shadow^5seer: it works
+[Thu Sep 24 18:52:12 2015]  say: ^0Ðàrk^2^1Qµàkè: yeah :)
+[Thu Sep 24 18:52:15 2015]  say: ^0Shadow^5seer: add noclip to the script
+[Thu Sep 24 18:52:21 2015]  say: ^0Ðàrk^2^1Qµàkè: I did
+[Thu Sep 24 18:52:24 2015]  say: ^0Shadow^5seer: before placing a falcon
+[Thu Sep 24 18:52:29 2015]  say: ^0Shadow^5seer: and after removing it
+[Thu Sep 24 18:52:47 2015]  say: ^0Ðàrk^2^1Qµàkè: it's just a test atm, I don't have it as a menu item anymore
+[Thu Sep 24 18:52:55 2015]  say: ^0Ðàrk^2^1Qµàkè: but I'll do that
+[Thu Sep 24 18:53:36 2015]  say: ^0Shadow^5seer: ^5Behold the Stormbringer!
+[Thu Sep 24 18:53:49 2015]  say: ^0Ðàrk^2^1Qµàkè: :O
+[Thu Sep 24 18:53:54 2015]  say: ^0Ðàrk^2^1Qµàkè: no way haha
+[Thu Sep 24 18:54:21 2015]  say: ^0Ðàrk^2^1Qµàkè: looks a bit like Blitzcrank on LoL
+[Thu Sep 24 18:54:33 2015]  say: ^0Shadow^5seer: never heared
+[Thu Sep 24 18:54:49 2015]  say: ^0Ðàrk^2^1Qµàkè: League of Legends, it's a fun game
+[Thu Sep 24 18:55:09 2015]  say: ^0Shadow^5seer: i wanted to make smth like wh40k titan
+[Thu Sep 24 18:55:18 2015]  say: ^0Ðàrk^2^1Qµàkè: anyway your scripts are way better than my single script, I just don't have much time on MM anymore :(
+[Thu Sep 24 18:55:30 2015]  say: ^0Ðàrk^2^1Qµàkè: yeah that'd be cool
+[Thu Sep 24 18:55:41 2015]  say: ^0Shadow^5seer: writing attack scripts takes couple of minutes
+[Thu Sep 24 18:55:52 2015]  say: ^0Shadow^5seer: well for me at least
+[Thu Sep 24 18:55:59 2015]  say: ^0Ðàrk^2^1Qµàkè: if you know what you're doing
+[Thu Sep 24 18:56:06 2015]  say: ^0Ðàrk^2^1Qµàkè: it's a lot of trial and error for me
+[Thu Sep 24 18:56:22 2015]  say: ^0Ðàrk^2^1Qµàkè: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Thu Sep 24 18:56:25 2015]  say: ^0Shadow^5seer: well of course i know what i want to see
+[Thu Sep 24 18:56:30 2015]  say: ^0Ðàrk^2^1Qµàkè: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Thu Sep 24 18:56:39 2015]  say: ^0Ðàrk^2^1Qµàkè: same
+[Thu Sep 24 18:56:50 2015]  say: ^0Ðàrk^2^1Qµàkè: I used to build small things like this :)
+[Thu Sep 24 18:57:07 2015]  say: ^0Ðàrk^2^1Qµàkè: had a lot of great ideas but started Element script, and kept on with that
+[Thu Sep 24 18:57:16 2015]  say: ^0Shadow^5seer: for how long?
+[Thu Sep 24 18:57:39 2015]  say: ^0Ðàrk^2^1Qµàkè: well this was a while ago, in Australia
+[Thu Sep 24 18:57:44 2015]  say: ^0Ðàrk^2^1Qµàkè: like 2011
+[Thu Sep 24 18:58:10 2015]  say: ^0Shadow^5seer: have u played skyrim btw?
+[Thu Sep 24 18:58:30 2015]  say: ^0Ðàrk^2^1Qµàkè: my sister has, I wanted to finish Deadspace and other games though
+[Thu Sep 24 18:58:39 2015]  say: ^0Shadow^5seer: well to show it ill have to ask u to remove the house
+[Thu Sep 24 18:58:45 2015]  say: ^0Ðàrk^2^1Qµàkè: mainly I'm on multiplayer games with no end haha
+[Thu Sep 24 18:58:50 2015]  say: ^0Ðàrk^2^1Qµàkè: alright sure
+[Thu Sep 24 18:58:55 2015]  say: ^0Shadow^5seer: ^5FUS ^5RO ^5DAH!!!
+[Thu Sep 24 18:59:00 2015]  say: ^0Shadow^5seer: ^5FUS ^5RO ^5DAH!!!
+[Thu Sep 24 18:59:06 2015]  say: ^0Shadow^5seer: ^5FUS ^5RO ^5DAH!!!
+[Thu Sep 24 18:59:06 2015]  say: ^0Ðàrk^2^1Qµàkè: cool haha
+[Thu Sep 24 18:59:21 2015]  say: ^0Shadow^5seer: wanted to make a dowahkiin screams script some time
+[Thu Sep 24 19:00:00 2015]  say: ^0Shadow^5seer: and here is my house
+[Thu Sep 24 19:00:05 2015]  say: ^0Shadow^5seer: well.. one of
+[Thu Sep 24 19:00:16 2015]  say: ^0Ðàrk^2^1Qµàkè: very nice
+[Thu Sep 24 19:00:53 2015]  say: ^0Shadow^5seer: wanna see smth im really proud of?
+[Thu Sep 24 19:00:58 2015]  say: ^0Ðàrk^2^1Qµàkè: yeah :)
+[Thu Sep 24 19:01:19 2015]  say: ^0Shadow^5seer: My origin is: (-13321 16611 1582) - You can teleport here with /mtelelast
+
+[Thu Sep 24 19:02:21 2015]  say: ^0Ðàrk^2^1Qµàkè: awesome
+[Thu Sep 24 19:02:26 2015]  say: ^0Shadow^5seer: thanks)
+[Thu Sep 24 19:02:37 2015]  say: ^0Shadow^5seer: a junk fortress from raxus prime
+[Thu Sep 24 19:02:48 2015]  say: ^0Ðàrk^2^1Qµàkè: ah thought it looked familar!
+[Thu Sep 24 19:02:51 2015]  say: ^0Shadow^5seer: or an ork fortress from wh40k
+[Thu Sep 24 19:02:56 2015]  say: ^0Ðàrk^2^1Qµàkè: did you play The Force Unleashed?
+[Thu Sep 24 19:03:03 2015]  say: ^0Shadow^5seer: course i did
+[Thu Sep 24 19:03:07 2015]  say: ^0Ðàrk^2^1Qµàkè: haha :D
+[Thu Sep 24 19:03:15 2015]  say: ^0Ðàrk^2^1Qµàkè: I wish they'd make a third one
+[Thu Sep 24 19:03:17 2015]  say: ^0Ðàrk^2^1Qµàkè: oh.. brb
+[Thu Sep 24 19:03:23 2015]  say: ^0Shadow^5seer: also i did some raxus prime junkyards on other servers
+[Thu Sep 24 19:03:30 2015]  say: ^0Shadow^5seer: and have some saves...
+[Thu Sep 24 19:03:36 2015]  say: ^0Shadow^5seer: which i could give u
+[Thu Sep 24 19:04:07 2015]  say: ^0Ðàrk^2^1Qµàkè: yeah that'd be awesome! Also some scripts would be handy if you wouldn't mind, I could include you in the credits of my script :)
+[Thu Sep 24 19:04:24 2015]  say: ^0Ðàrk^2^1Qµàkè: gotta go for dinner now, but send me an email :) cya
+[Thu Sep 24 19:04:37 2015]  say: ^0Shadow^5seer: bb
+[Thu Sep 24 19:04:44 2015]  ClientDisconnect: 0
+[Thu Sep 24 19:08:57 2015]  ClientDisconnect: 1
+[Thu Sep 24 21:39:01 2015]  ------------------------------------------------------------
+[Thu Sep 24 21:39:01 2015]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Sep 25 11:25:07 2015]  ClientConnect: 0
+[Fri Sep 25 11:25:07 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Fri Sep 25 11:25:21 2015]  ClientBegin: 0
+[Fri Sep 25 11:25:27 2015]  Item: 0 weapon_melee
+[Fri Sep 25 11:27:20 2015]  ClientDisconnect: 0
+[Fri Sep 25 14:47:03 2015]  ClientConnect: 0
+[Fri Sep 25 14:47:03 2015]  mlog:Player [KOTR]^0J^7an[JT:C], connected. With IP - 145.255.21.166:29070 
+[Fri Sep 25 14:47:30 2015]  ClientBegin: 0
+[Fri Sep 25 14:49:57 2015]  Kill: 0 0 39: [KOTR]^0J^7an[JT:C] killed [KOTR]^0J^7an[JT:C] by MOD_SUICIDE
+[Fri Sep 25 14:50:14 2015]  Kill: 0 0 39: [KOTR]^0J^7an[JT:C] killed [KOTR]^0J^7an[JT:C] by MOD_SUICIDE
+[Fri Sep 25 14:54:30 2015]  Kill: 0 0 39: [KOTR]^0J^7an[JT:C] killed [KOTR]^0J^7an[JT:C] by MOD_SUICIDE
+[Fri Sep 25 14:55:24 2015]  ClientDisconnect: 0
+[Fri Sep 25 16:33:27 2015]  ClientConnect: 0
+[Fri Sep 25 16:33:27 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Fri Sep 25 16:33:44 2015]  ClientBegin: 0
+[Fri Sep 25 16:33:51 2015]  Item: 0 weapon_melee
+[Fri Sep 25 17:00:04 2015]  ClientDisconnect: 0
+[Fri Sep 25 17:30:08 2015]  ClientConnect: 0
+[Fri Sep 25 17:30:08 2015]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Fri Sep 25 17:30:21 2015]  ClientBegin: 0
+[Fri Sep 25 17:30:27 2015]  Item: 0 weapon_melee
+[Fri Sep 25 17:59:27 2015]  ClientDisconnect: 0
+[Sat Sep 26 11:56:30 2015]  ClientConnect: 0
+[Sat Sep 26 11:56:30 2015]  mlog:Player Harras, connected. With IP - 91.152.223.104:29070 
+[Sat Sep 26 11:57:02 2015]  ClientBegin: 0
+[Sat Sep 26 11:57:46 2015]  print "Padawan^7 @@@PLRENAME Harras
+"[Sat Sep 26 12:02:10 2015]  say: Harras: minfo cheats
+[Sat Sep 26 12:09:48 2015]  ClientDisconnect: 0

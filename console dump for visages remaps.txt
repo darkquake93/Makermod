@@ -1,0 +1,260 @@
+Start Solid: No
+Entity Hit: 97
+End position: 13075 8540 1532
+Surface Flags: (0): None
+Material: None
+Contents: (256): CONTENTS_BODY
+Plane Normals: 0 -1 0
+----------
+Entity Information [Entity ID: 97]
+----------
+Entity Type: Brush Entity (ET_MOVER)
+eFlags: (0): None
+eFlags2: (0): None
+
+Model: *1
+Origin: 13095 8566 1488
+Angles: 0 179 0
+Mins: (-26 -26 -64) - Maxs: (26 26 0)
+Secondary model: models/map_objects/h_evil/control_station.md3
+Can be targetted: No
+Team owner: Neutral
+Owner: 0
+----------
+Trajectory Data:
+
+Position Trajectory:
+Trajectory: Stationary
+
+Angle Trajectory:
+Trajectory: Stationary
+----------
+]/mprintsw "Press this control station ONLY ONCE to hear the cantina music :)"
+]/mprintsw "Press this control station ONLY ONCE\n to hear the cantina music :)"
+Selected object: 97
+]/mprintsw ""
+]/mprintsw " "
+Selected object: 97
+ELEMENT POWERS OFF
+Object has been deleted/replaced since you selected it.
+]/mloadobs Se Base
+Loaded 58 objects.
+Selected object: 97
+]/musable
+]\msoundsw ambience/narshaddaa/cantina_1
+Marked: (12986 8570 1512)
+Entity placed:139  Origin: (12986 8570 1488)
+]/mtouchable
+]/mprintsw "Press the control station ONLY ONCE\n to hear the cantina music :)"
+]/mprintsw "Press the control station ONLY ONCE\n to hear the cantina music,\nunless you want to loop it :p"
+]/mprintsw "Press the control station ONLY ONCE\n to hear the cantina music,\nunless you want to loop it :p"
+]/minfo wip
+The following work-in-progress commands are incomplete.
+There may be bugs and future behaviour is likely to change.
+You are welcome to try them out at your own risk.
+
+/mrotating - makes the selected ob rotate
+/mpendulum - makes the selected ob rotate like a pendulum
+/mbobbing - makes the selected ob bob
+/mplatform - makes the selected ob act like an elevator
+/mtelep - makes an ob/fx into a teleporter
+/mdest - marks the destination for the selected ob (E.g. teleporter/jumppad)
+/mlight - makes an ob/fx into a light source
+/mjumpp - makes an object into a jump/push pad
+/mlistso - list special objects you can place
+/mmoveall - with one number, now moves in direction you're looking
+/mspawner - turns your object into an npc spawner
+/musable - makes your object usable
+/mconnectto - connects your ob up to activate the ob you're looking at
+/mkillsw - make selected ob a switchable killer (can be used with musable or connected to)
+/mtelesw - make seleceted ob a switchable teleporter (usable or connected to)
+/mprintsw - make selected ob a switchable printer (usable or connected to)
+/mjumpsw - make selected ob a switchable jump/pusher(usable or connected to)
+/msoundsw - make selected ob a switchable sound player(usable or connected to)
+/mlistsnd - list the sounds you can use
+/mtouchable - make the selected ob activate itself or its connected obs when touched
+
+/mallowgive - toggles if you accept or refuse giveother attempts. Default: Refuse
+/msetpassword - sets password needed for usage. <none> turns off password
+/msetpasswordt - sets password on targeted object. <none> turns off password
+/mpassword - enter a password to use passworded objects
+/mdoor - makes the manipulated ob act like a door
+/mweather - set weather type on server
+/mmapmusic - set selected music on map
+/mremap - remap a texture or shader to a different one
+/mname - name an object, object can then be accessed through this name same as ID.
+/mrotateall - Rotate multiple objects as if it was one big object.
+/mattachfx - Attach effect to body.
+noclip ON
+noclip OFF
+]/msaveobs Se Base
+59 objects saved
+McWooty(Admin) connected
+Vî§åge entered the game
+Vî§åge: enjoying yourself?
+Vî§åge: Chatcolor - Chat coloring set to White
+WARNING: R_RemapShader: new shader textures/yavin/stonrpanel04 not found
+Vî§åge: sup.
+ÐàrkQµàkè: hey did you want desert?
+ÐàrkQµàkè: I'll be watching a show noe
+Vî§åge: hold up
+ÐàrkQµàkè: but you can callvote for the map when you like
+Vî§åge: add this remap to the trip script.
+Vî§åge: ./mremap textures/quicktrip/qt_stonefloor_phong textures/yavin/obsidian_templebasic
+Vî§åge: ./mremap textures/quicktrip/qt_basestone_phong textures/yavin/obsidian_templebasic
+Vî§åge: those 2.
+ÐàrkQµàkè: Ok added
+Vî§åge: both of them?
+ÐàrkQµàkè: yeah
+Vî§åge: da.
+Vî§åge: is good.
+ÐàrkQµàkè: well callvote for a map change when you like
+ÐàrkQµàkè: I'll b back later
+Vî§åge: i dont know how to callvote..
+ÐàrkQµàkè: press escape
+ÐàrkQµàkè: oh nvm
+Vî§åge: >voting isnt alloud.
+ÐàrkQµàkè: in the console
+ÐàrkQµàkè: type /callvote map mp/desert_siege
+Vî§åge: voting is not alloud here.
+Vî§åge: says the console.
+ÐàrkQµàkè: alright do you want siege anyway?
+ÐàrkQµàkè: cause i gotta go
+Vî§åge: da.
+]\rcon vstr map2
+    rcon
+    rconAddress
+    rconPassword
+]\rcon vstr map2
+----- FS_Startup -----
+Current search path:
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\tmuconsole.pk3 (8 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\subway.pk3 (15 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\s3_cloneblaster.pk3 (45 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\makerparav1.pk3 (15 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod Serverside v1.3b.pk3 (1 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod In-game menu.pk3 (14 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\Makermod Client Plugin.pk3 (2 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\hoverboard_if_extras.pk3 (4 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\hoverboard_if.pk3 (69 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\BlueIce Twilight.pk3 (159 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\BlueIce Nightfall.pk3 (248 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData/makermod
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\veh_dlls.pk3 (3 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\sjc_kashyyyk.pk3 (82 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\sithcouncilv2.pk3 (285 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\Makermod In-game menu Base.pk3 (9 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\Jedi'sHomeJL_II.pk3 (120 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets3.pk3 (16 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets2.pk3 (62 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets1.pk3 (8320 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\base\assets0.pk3 (15346 files)
+I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData/base
+
+handle 1: video/openinglogos.roq
+----------------------
+273053 files in pk3 files
+Loading dll file ui.
+Loading dll file cgame.
+WARNING: models/players/rancor/ animevents.cfg: anim BOTH_WALK2 not used by this model
+WARNING: models/players/rancor/ animevents.cfg: anim BOTH_WALK2 not used by this model
+WARNING: models/players/rancor/ animevents.cfg: anim BOTH_RUN2 not used by this model
+WARNING: models/players/rancor/ animevents.cfg: anim BOTH_RUN2 not used by this model
+WARNING: models/players/rancor/ animevents.cfg: anim BOTH_WALKBACK2 not used by this model
+WARNING: models/players/rancor/ animevents.cfg: anim BOTH_RUNBACK1 not used by this model
+WARNING: models/players/rancor/ animevents.cfg: anim BOTH_RUNBACK2 not used by this model
+ÐàrkQµàkè entered the game
+ÐàrkQµàkè: BobaFett's Ultra Utility v3 Beta 16 - Ultra-Utility.com
+Vî§åge entered the game
+Vî§åge: BobaFett's Ultra Utility v3 Beta 17a - Ultra-Utility.com
+ÐàrkQµàkè: right cya l8r
+Vî§åge: thanks.
+server: np
+Vî§åge: hold up..
+Vî§åge: you still here?
+Vî§åge: damn.
+server: is it quick?
+server: i gotta go
+Vî§åge: kinda.
+Vî§åge: you cant have the tripremap script execute because theres a maximum number of remaps.
+Vî§åge: as in you cant have it exec on this map because itll just remap nothing and be wasted.
+Vî§åge: and i wont be able to remap THIS map because the cap will be hit
+Vî§åge: so youll have to make seperate scripts for each map.
+Vî§åge: just saiyian
+server: They are separate scripts
+Vî§åge: then why is the trip script exec'd here?
+server: I just chose to use the same ground
+Vî§åge: w
+server: it's not
+server: it is desert specific
+Vî§åge: oh i see.
+Vî§åge: apologies.
+Vî§åge: i just saw the desert_0to1 and thought of trip
+Vî§åge: herp derp.
+Vî§åge: srry.
+server: np
+server: I only have 5 remaps here
+Vî§åge: yeah i fucked up
+Vî§åge: have fun with your show x.x
+server: plus some general ones
+server: yeah thx, cya l8r
+WARNING: R_RemapShader: new shader textures/hoth/h_basicwal not found
+WARNING: R_RemapShader: new shader textures/hoth/h_basicwall2 not found
+WARNING: R_RemapShader: new shader textures/hoth/floorpanel_1 not found
+[TORJ]Tarrlek*L* connected
+Obi-wan entered the game
+WARNING: R_RemapShader: shader textures/desert/stucco_grime_top_grime not found
+Obi-wan: DIE DIE DIE DIE DIE DIE DIE DIE DIE DIE!!!!!!!!!!!! DDDIIIEEE!
+Vî§åge: hm?
+Obi-wan: i keep forgetting about where those binds are
+Vî§åge killed himself
+Obi-wan died.
+Vî§åge entered the game
+Vî§åge disconnected
+Obi-wan died.
+Obi-wan disconnected
+dipper connected
+Padawan entered the game
+Padawan disconnected
+]\!remaps
+Shader remaps
+0: models/map_objects/desert/view_panel_screen_desert -> textures/video/raven
+1: models/players/jawa/jawa -> textures/video/raven
+2: textures/factory/cat_floor_B -> models/map_objects/factory/glass
+3: textures/factory/basic2_Tiled_b -> textures/rbettenbergtest/glass2
+4: console -> textures/vjun/wall9
+5: gfx/mp/chat_icon -> gfx/effects/stunpass
+6: gfx/misc/csparks -> gfx/effects/greenfrontflash
+7: models/players/reborn_twin/torso -> fonts/ocr_a
+8: models/players/reborn_twin/head -> fonts/ocr_a
+9: models/players/reborn_twin/legs -> fonts/ocr_a
+10: models/players/reborn_twin/hands -> fonts/ocr_a
+11: models/players/reborn_twin/arms -> fonts/ocr_a
+12: models/players/reborn_twin/icon_default -> fonts/ocr_a
+13: models/map_objects/factory/f_con1 -> textures/rift/carvedwall
+14: models/map_objects/factory/f_con2 -> textures/rift/carvedwall
+15: models/map_objects/factory/f_con1_screen -> textures/doomgiver/comm_panel2
+16: models/map_objects/factory/f_con2_screen -> textures/doomgiver/comm_panel2
+17: textures/terradesert/terrain_0 -> textures/hoth/snowbiga
+18: textures/terradesert/terrain_0to1 -> textures/hoth/snowbiga
+19: textures/terradesert/terrain_1 -> textures/hoth/snowbiga
+20: textures/siege/desert_grime_tb -> textures/hoth/blast_panel_snow
+21: textures/siege/desert_grime -> textures/hoth/blast_panel_snow
+22: textures/desert/concrete_floor_light -> textures/hoth/snow_01
+]\sa
+    say
+    saberAttackCycle
+    say_team
+    sandstorm
+    sandstorm4
+    saber1
+    saber2
+]\con
+    connect
+    configstrings
+    condump
+    con_notifytime
+]\condump
+usage: condump <filename>]\condump test
+Dumped console text to test.
+

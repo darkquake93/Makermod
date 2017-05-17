@@ -1,0 +1,1111 @@
+[Thu Jan 09 00:49:11 2014]  ------------------------------------------------------------
+[Thu Jan 09 00:49:11 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Jan 09 00:49:12 2014]  ClientConnect: 0
+[Thu Jan 09 00:49:18 2014]  ClientBegin: 0
+[Thu Jan 09 00:49:26 2014]  say: Padawan: !NOCLIP
+[Thu Jan 09 00:49:32 2014]  say: Padawan: /noclip
+[Thu Jan 09 00:52:31 2014]  ClientDisconnect: 0
+[Thu Jan 09 02:49:10 2014]  Exit: Timelimit hit.
+[Thu Jan 09 04:55:13 2014]  ClientConnect: 0
+[Thu Jan 09 04:55:13 2014]  mlog:Player Kasszian, connected. With IP - 193.169.36.229:21342 
+[Thu Jan 09 04:55:25 2014]  ClientBegin: 0
+[Thu Jan 09 04:55:31 2014]  ShutdownGame:
+[Thu Jan 09 04:55:31 2014]  ------------------------------------------------------------
+[Thu Jan 09 04:55:31 2014]  ------------------------------------------------------------
+[Thu Jan 09 04:55:31 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Jan 09 04:55:33 2014]  ClientConnect: 0
+[Thu Jan 09 04:58:56 2014]  ClientDisconnect: 0
+[Thu Jan 09 06:55:31 2014]  Exit: Timelimit hit.
+[Thu Jan 09 13:34:00 2014]  ------------------------------------------------------------
+[Thu Jan 09 13:34:00 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Jan 09 15:33:54 2014]  Exit: Timelimit hit.
+[Thu Jan 09 16:36:21 2014]  ClientConnect: 0
+[Thu Jan 09 16:36:21 2014]  mlog:Player Padawan, connected. With IP - 37.204.206.76:29070 
+[Thu Jan 09 16:42:52 2014]  ClientConnect: 1
+[Thu Jan 09 16:42:52 2014]  mlog:Player ^4S^0H^4E^0T, connected. With IP - 213.251.210.11:-3566 
+[Thu Jan 09 16:43:10 2014]  ClientBegin: 1
+[Thu Jan 09 16:43:13 2014]  ShutdownGame:
+[Thu Jan 09 16:43:13 2014]  ------------------------------------------------------------
+[Thu Jan 09 16:43:14 2014]  ------------------------------------------------------------
+[Thu Jan 09 16:43:14 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Jan 09 16:43:15 2014]  ClientConnect: 0
+[Thu Jan 09 16:43:15 2014]  ClientConnect: 1
+[Thu Jan 09 16:43:24 2014]  ClientBegin: 1
+[Thu Jan 09 16:44:26 2014]  ClientDisconnect: 1
+[Thu Jan 09 16:46:08 2014]  ClientDisconnect: 0
+[Thu Jan 09 16:54:45 2014]  ClientConnect: 0
+[Thu Jan 09 16:54:45 2014]  mlog:Player ^4Rebel Archie, connected. With IP - 79.117.98.235:29070 
+[Thu Jan 09 16:55:01 2014]  ClientBegin: 0
+[Thu Jan 09 16:55:15 2014]  ClientConnect: 1
+[Thu Jan 09 16:55:15 2014]  mlog:Player /3, connected. With IP - 78.80.100.24:23155 
+[Thu Jan 09 16:55:38 2014]  ClientBegin: 1
+[Thu Jan 09 16:55:53 2014]  say: ^4Rebel Archie: where u?
+[Thu Jan 09 16:56:15 2014]  say: ^1Rebel ^7Riko: YES?
+[Thu Jan 09 16:56:19 2014]  say: ^4Rebel Archie: sir
+[Thu Jan 09 16:56:24 2014]  say: ^1Rebel ^7Riko: SUCK MY DICK
+[Thu Jan 09 16:56:30 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 16:56:32 2014]  say: ^4Rebel Archie: XD
+[Thu Jan 09 16:56:38 2014]  say: ^4Rebel Archie: WTF MAN LOL
+[Thu Jan 09 16:56:49 2014]  say: ^4Rebel Archie: lol
+[Thu Jan 09 16:57:13 2014]  Kill: 0 1 6: ^4Rebel Archie killed ^1Rebel ^7Riko by MOD_BLASTER
+[Thu Jan 09 16:57:17 2014]  say: ^1Rebel ^7Riko: NOTHING
+[Thu Jan 09 16:57:29 2014]  say: ^4Rebel Archie: so what now we do fucking academy or story?
+[Thu Jan 09 16:57:38 2014]  say: ^1Rebel ^7Riko: story
+[Thu Jan 09 16:57:39 2014]  say: ^1Rebel ^7Riko: lol
+[Thu Jan 09 16:57:40 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 16:57:42 2014]  say: ^1Rebel ^7Riko: first
+[Thu Jan 09 16:57:44 2014]  say: ^4Rebel Archie: come to falcon
+[Thu Jan 09 16:57:45 2014]  say: ^1Rebel ^7Riko: must build academy
+[Thu Jan 09 16:57:49 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 16:57:53 2014]  say: ^1Rebel ^7Riko: for story
+[Thu Jan 09 16:57:58 2014]  say: ^4Rebel Archie: wait 
+[Thu Jan 09 16:58:10 2014]  say: ^4Rebel Archie: we need base for troopers not academy for jedi XD
+[Thu Jan 09 16:58:20 2014]  say: ^1Rebel ^7Riko: damn this is bad
+[Thu Jan 09 16:58:24 2014]  say: ^4Rebel Archie: yes?
+[Thu Jan 09 16:58:27 2014]  say: ^1Rebel ^7Riko: i have commando pack lol
+[Thu Jan 09 16:58:45 2014]  say: ^4Rebel Archie: jedi!
+[Thu Jan 09 16:59:00 2014]  say: ^4Rebel Archie: oh sexy :D
+[Thu Jan 09 16:59:01 2014]  say: ^1Rebel ^7Riko: come
+[Thu Jan 09 16:59:18 2014]  say: ^1Rebel ^7Riko: dat ass :D
+[Thu Jan 09 16:59:24 2014]  say: ^1Rebel ^7Riko: xd
+[Thu Jan 09 16:59:30 2014]  say: ^1Rebel ^7Riko: ok follow me
+[Thu Jan 09 16:59:43 2014]  say: ^1Rebel ^7Riko: thank you 
+[Thu Jan 09 16:59:51 2014]  say: ^1Rebel ^7Riko: how load
+[Thu Jan 09 16:59:56 2014]  say: ^4Rebel Archie: try
+[Thu Jan 09 17:00:01 2014]  say: ^4Rebel Archie: /mloadobs
+[Thu Jan 09 17:00:20 2014]  Kill: 1022 1 39: <world> killed ^1Rebel ^7Riko by MOD_SUICIDE
+[Thu Jan 09 17:00:23 2014]  say: ^1Rebel ^7Riko: lol
+[Thu Jan 09 17:00:25 2014]  say: ^1Rebel ^7Riko: what the
+[Thu Jan 09 17:00:28 2014]  say: ^4Rebel Archie: u need put filename and password to load :D
+[Thu Jan 09 17:00:35 2014]  say: ^1Rebel ^7Riko: ik
+[Thu Jan 09 17:00:37 2014]  say: ^4Rebel Archie: when u saved u had to do that :D
+[Thu Jan 09 17:00:38 2014]  Kill: 1 1 39: ^1Rebel ^7Riko killed ^1Rebel ^7Riko by MOD_SUICIDE
+[Thu Jan 09 17:01:12 2014]  say: ^1Rebel ^7Riko: 15 objects loaded and nothing
+[Thu Jan 09 17:01:17 2014]  say: ^4Rebel Archie: lol
+[Thu Jan 09 17:01:24 2014]  say: ^4Rebel Archie: bug maybe XD
+[Thu Jan 09 17:01:27 2014]  say: ^1Rebel ^7Riko: ya
+[Thu Jan 09 17:01:32 2014]  say: ^4Rebel Archie: lest make new base 
+[Thu Jan 09 17:01:34 2014]  say: ^4Rebel Archie: this one
+[Thu Jan 09 17:01:39 2014]  say: ^4Rebel Archie: this is all base
+[Thu Jan 09 17:01:47 2014]  say: ^4Rebel Archie: lest make rooms etc
+[Thu Jan 09 17:01:51 2014]  say: ^1Rebel ^7Riko: there
+[Thu Jan 09 17:01:55 2014]  say: ^1Rebel ^7Riko: ?
+[Thu Jan 09 17:01:56 2014]  say: ^4Rebel Archie: here are rooms
+[Thu Jan 09 17:02:02 2014]  say: ^1Rebel ^7Riko: YE
+[Thu Jan 09 17:02:02 2014]  say: ^4Rebel Archie: lest build :D
+[Thu Jan 09 17:02:06 2014]  say: ^1Rebel ^7Riko: ACADEMY ROOMS
+[Thu Jan 09 17:02:09 2014]  say: ^1Rebel ^7Riko: U SO PRO
+[Thu Jan 09 17:02:14 2014]  say: ^4Rebel Archie: ofc :D
+[Thu Jan 09 17:02:53 2014]  say: ^4Rebel Archie: we need door first
+[Thu Jan 09 17:03:08 2014]  say: ^4Rebel Archie: try at /mlist factory
+[Thu Jan 09 17:03:40 2014]  say: ^1Rebel ^7Riko: TV!
+[Thu Jan 09 17:03:41 2014]  say: ^1Rebel ^7Riko: XD
+[Thu Jan 09 17:03:44 2014]  say: ^1Rebel ^7Riko: HOW
+[Thu Jan 09 17:03:45 2014]  say: ^1Rebel ^7Riko: LOL
+[Thu Jan 09 17:03:47 2014]  say: ^4Rebel Archie: do
+[Thu Jan 09 17:04:01 2014]  say: ^4Rebel Archie: do
+[Thu Jan 09 17:04:08 2014]  say: ^4Rebel Archie: /mplace factory/catwb_2
+[Thu Jan 09 17:04:22 2014]  say: ^1Rebel ^7Riko: LOL
+[Thu Jan 09 17:05:00 2014]  say: ^4Rebel Archie: i go make weapon room
+[Thu Jan 09 17:05:51 2014]  say: ^4Rebel Archie: hah
+[Thu Jan 09 17:05:53 2014]  say: ^4Rebel Archie: come here
+[Thu Jan 09 17:06:02 2014]  say: ^4Rebel Archie: wait i help u
+[Thu Jan 09 17:06:12 2014]  say: ^4Rebel Archie: wait
+[Thu Jan 09 17:06:17 2014]  say: ^4Rebel Archie: remove it and i help u
+[Thu Jan 09 17:06:49 2014]  say: ^4Rebel Archie: dude i can help u
+[Thu Jan 09 17:06:59 2014]  say: ^4Rebel Archie: i can rotate for u
+[Thu Jan 09 17:07:44 2014]  say: ^1Rebel ^7Riko: DONE!
+[Thu Jan 09 17:07:47 2014]  say: ^4Rebel Archie: no
+[Thu Jan 09 17:07:50 2014]  say: ^4Rebel Archie: i show u how
+[Thu Jan 09 17:08:00 2014]  say: ^4Rebel Archie: ah
+[Thu Jan 09 17:08:03 2014]  say: ^4Rebel Archie: do at u door 
+[Thu Jan 09 17:08:08 2014]  say: ^4Rebel Archie: /mrotate 90 90 90
+[Thu Jan 09 17:08:08 2014]  say: ^1Rebel ^7Riko: LOL
+[Thu Jan 09 17:09:37 2014]  say: ^1Rebel ^7Riko: what the
+[Thu Jan 09 17:09:38 2014]  Kill: 1 1 39: ^1Rebel ^7Riko killed ^1Rebel ^7Riko by MOD_SUICIDE
+[Thu Jan 09 17:10:07 2014]  Item: 0 weapon_disruptor
+[Thu Jan 09 17:10:22 2014]  say: ^1Rebel ^7Riko: help
+[Thu Jan 09 17:10:27 2014]  say: ^4Rebel Archie: wat?
+[Thu Jan 09 17:10:35 2014]  say: ^4Rebel Archie: uh
+[Thu Jan 09 17:10:38 2014]  say: ^4Rebel Archie: do noclip
+[Thu Jan 09 17:10:56 2014]  say: ^1Rebel ^7Riko: bitch
+[Thu Jan 09 17:10:57 2014]  say: ^1Rebel ^7Riko: stop
+[Thu Jan 09 17:10:59 2014]  say: ^4Rebel Archie: ah
+[Thu Jan 09 17:11:09 2014]  Kill: 1 1 39: ^1Rebel ^7Riko killed ^1Rebel ^7Riko by MOD_SUICIDE
+[Thu Jan 09 17:11:32 2014]  say: ^1Rebel ^7Riko: NOO
+[Thu Jan 09 17:11:57 2014]  say: ^1Rebel ^7Riko: THIS IS A PRISONER HAHA
+[Thu Jan 09 17:12:06 2014]  say: ^1Rebel ^7Riko: IN NAME GALATCIC SENATE SURRENDER
+[Thu Jan 09 17:12:19 2014]  say: ^1Rebel ^7Riko: COMMANDER
+[Thu Jan 09 17:12:19 2014]  say: ^4Rebel Archie: i make a good thing right now
+[Thu Jan 09 17:12:21 2014]  say: ^4Rebel Archie: yes
+[Thu Jan 09 17:12:22 2014]  say: ^4Rebel Archie: ?
+[Thu Jan 09 17:12:34 2014]  say: ^1Rebel ^7Riko: DONT KILL HIM
+[Thu Jan 09 17:12:37 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 17:12:47 2014]  say: ^1Rebel ^7Riko: I NEED INFORMATION WAT HAPPENED AT JAVIN4
+[Thu Jan 09 17:12:53 2014]  say: ^4Rebel Archie: well
+[Thu Jan 09 17:12:54 2014]  say: ^1Rebel ^7Riko: May the force be with you
+[Thu Jan 09 17:13:07 2014]  say: ^4Rebel Archie: can i have some troops?
+[Thu Jan 09 17:13:39 2014]  say: ^1Rebel ^7Riko: SOLDIER DONT HAVE FORCE
+[Thu Jan 09 17:14:33 2014]  Item: 0 ammo_all
+[Thu Jan 09 17:14:45 2014]  Kill: 1 1 39: ^1Rebel ^7Riko killed ^1Rebel ^7Riko by MOD_SUICIDE
+[Thu Jan 09 17:14:53 2014]  say: ^4Rebel Archie: a bounty hunter!
+[Thu Jan 09 17:14:56 2014]  say: ^4Rebel Archie: a datapad
+[Thu Jan 09 17:14:57 2014]  Kill: 1 1 39: ^1Rebel ^7Riko killed ^1Rebel ^7Riko by MOD_SUICIDE
+[Thu Jan 09 17:15:04 2014]  say: ^4Rebel Archie: they gonna attack the base!
+[Thu Jan 09 17:15:19 2014]  say: ^1Rebel ^7Riko: fucker!
+[Thu Jan 09 17:15:24 2014]  say: ^4Rebel Archie: u bounty hunter
+[Thu Jan 09 17:15:34 2014]  say: ^1Rebel ^7Riko: COMMANDER BRECK
+[Thu Jan 09 17:15:34 2014]  say: ^4Rebel Archie: u are trapped too hahh :D
+[Thu Jan 09 17:15:50 2014]  say: ^1Rebel ^7Riko: I WANT TALK WITH CHANCELOR!
+[Thu Jan 09 17:15:57 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 17:16:08 2014]  print "^1Rebel ^7Riko^7 @@@PLRENAME Bounty Hunter
+"[Thu Jan 09 17:16:12 2014]  say: ^4Rebel Archie: what is it?
+[Thu Jan 09 17:16:13 2014]  say: Bounty Hunter: O_O
+[Thu Jan 09 17:16:21 2014]  say: ^4Rebel Archie: press tab 
+[Thu Jan 09 17:16:27 2014]  say: Bounty Hunter: my peni coming up
+[Thu Jan 09 17:16:28 2014]  say: Bounty Hunter: LEAVE
+[Thu Jan 09 17:16:34 2014]  say: ^4Rebel Archie: u sayd u wanna see me
+[Thu Jan 09 17:16:40 2014]  say: Bounty Hunter: Commander Breck: lol
+[Thu Jan 09 17:16:43 2014]  say: Bounty Hunter: yes!
+[Thu Jan 09 17:16:46 2014]  say: Bounty Hunter: I WANT U TITS!
+[Thu Jan 09 17:16:50 2014]  say: ^4Rebel Archie: ugh
+[Thu Jan 09 17:16:53 2014]  say: Bounty Hunter: OH FAK YA
+[Thu Jan 09 17:16:59 2014]  say: Bounty Hunter: LOL
+[Thu Jan 09 17:17:00 2014]  say: ^4Rebel Archie: u are permatly jailed
+[Thu Jan 09 17:17:04 2014]  say: ^4Rebel Archie: for rest of ur life
+[Thu Jan 09 17:17:10 2014]  say: ^4Rebel Archie: u will be 
+[Thu Jan 09 17:17:11 2014]  say: Bounty Hunter: U TITS
+[Thu Jan 09 17:17:14 2014]  say: ^4Rebel Archie: exectued
+[Thu Jan 09 17:17:21 2014]  say: Bounty Hunter: I KILL HER
+[Thu Jan 09 17:17:33 2014]  Kill: 0 1 6: ^4Rebel Archie killed Bounty Hunter by MOD_BLASTER
+[Thu Jan 09 17:17:36 2014]  say: Bounty Hunter: OMG U MAD
+[Thu Jan 09 17:17:46 2014]  say: ^4Rebel Archie: heh mission done
+[Thu Jan 09 17:17:47 2014]  say: Bounty Hunter: IF U KILL A PRISONER U WILL KICKED FROM REPUBLIC
+[Thu Jan 09 17:17:54 2014]  say: ^4Rebel Archie: Xd
+[Thu Jan 09 17:17:56 2014]  say: Bounty Hunter: YE
+[Thu Jan 09 17:17:57 2014]  say: ^4Rebel Archie: well chancelor
+[Thu Jan 09 17:18:01 2014]  say: Bounty Hunter: NO WEAPON NO KILLING
+[Thu Jan 09 17:18:03 2014]  say: ^4Rebel Archie: sayd to executed you
+[Thu Jan 09 17:18:16 2014]  say: ^4Rebel Archie: so :/
+[Thu Jan 09 17:18:19 2014]  say: Bounty Hunter: SO NO
+[Thu Jan 09 17:18:26 2014]  say: ^4Rebel Archie: so yes chancelor sayd to kill u
+[Thu Jan 09 17:18:39 2014]  say: Bounty Hunter: If chancelor sayd kill a prisoner
+[Thu Jan 09 17:18:41 2014]  say: Bounty Hunter: hes a sith
+[Thu Jan 09 17:18:46 2014]  tell: ^4Rebel Archie to Bounty Hunter: no
+[Thu Jan 09 17:18:51 2014]  say: Bounty Hunter: republic never kiling people with no weapon
+[Thu Jan 09 17:19:04 2014]  say: ^4Rebel Archie: i go with some troops to investigate
+[Thu Jan 09 17:19:07 2014]  say: ^4Rebel Archie: here some food
+[Thu Jan 09 17:19:17 2014]  say: Bounty Hunter: shot is a food?
+[Thu Jan 09 17:19:20 2014]  say: Bounty Hunter: u joking!?
+[Thu Jan 09 17:19:21 2014]  say: ^4Rebel Archie: ...
+[Thu Jan 09 17:19:25 2014]  say: ^4Rebel Archie: ok troops
+[Thu Jan 09 17:19:26 2014]  say: Bounty Hunter: ASHOLE
+[Thu Jan 09 17:19:27 2014]  say: ^4Rebel Archie: come
+[Thu Jan 09 17:19:56 2014]  say: ^4Rebel Archie: UR UNDERARREST MY LORD
+[Thu Jan 09 17:20:00 2014]  say: Bounty Hunter: AAAAA
+[Thu Jan 09 17:20:11 2014]  say: Bounty Hunter: YES KILL HIM 
+[Thu Jan 09 17:20:13 2014]  say: Bounty Hunter: KILL HIM
+[Thu Jan 09 17:20:24 2014]  say: ^4Rebel Archie: the chanceloor i mean sith is gon
+[Thu Jan 09 17:20:29 2014]  say: ^4Rebel Archie: gone
+[Thu Jan 09 17:20:34 2014]  say: ^4Rebel Archie: well done troops
+[Thu Jan 09 17:21:03 2014]  say: Bounty Hunter: Master Kebab: god!
+[Thu Jan 09 17:21:10 2014]  say: ^4Rebel Archie: what happend here?!
+[Thu Jan 09 17:21:22 2014]  say: Bounty Hunter: Master Kebab this guy have holo!
+[Thu Jan 09 17:21:24 2014]  say: Bounty Hunter: NOP
+[Thu Jan 09 17:21:50 2014]  say: ^4Rebel Archie: give holo or u die i swear !
+[Thu Jan 09 17:22:22 2014]  say: Bounty Hunter: thanks for key bitch
+[Thu Jan 09 17:22:26 2014]  say: ^4Rebel Archie: u
+[Thu Jan 09 17:22:28 2014]  say: ^4Rebel Archie: dude
+[Thu Jan 09 17:22:29 2014]  say: ^4Rebel Archie: lol
+[Thu Jan 09 17:22:34 2014]  say: ^4Rebel Archie: i dont have key
+[Thu Jan 09 17:22:37 2014]  say: ^4Rebel Archie: kebad gave me
+[Thu Jan 09 17:22:39 2014]  say: Bounty Hunter: im attacked u 
+[Thu Jan 09 17:22:41 2014]  say: ^4Rebel Archie: and i give him back
+[Thu Jan 09 17:22:46 2014]  say: Bounty Hunter: and captured u key
+[Thu Jan 09 17:22:49 2014]  say: ^4Rebel Archie: no
+[Thu Jan 09 17:22:57 2014]  say: ^4Rebel Archie: because  i gived back to master
+[Thu Jan 09 17:22:59 2014]  Kill: 1 1 39: Bounty Hunter killed Bounty Hunter by MOD_SUICIDE
+[Thu Jan 09 17:23:03 2014]  say: ^4Rebel Archie: and hes not in jail
+[Thu Jan 09 17:23:07 2014]  say: ^4Rebel Archie: so ur still in jail
+[Thu Jan 09 17:23:07 2014]  say: Bounty Hunter: and how u becomed to doorz :D?
+[Thu Jan 09 17:23:16 2014]  say: Bounty Hunter: how u opened doorz
+[Thu Jan 09 17:23:17 2014]  say: Bounty Hunter: hm?
+[Thu Jan 09 17:23:22 2014]  say: ^4Rebel Archie: he give me key and i give he keys back
+[Thu Jan 09 17:23:23 2014]  say: Bounty Hunter: now speak
+[Thu Jan 09 17:23:29 2014]  say: Bounty Hunter: how lol u cant
+[Thu Jan 09 17:23:30 2014]  say: Bounty Hunter: u was in cell
+[Thu Jan 09 17:23:40 2014]  say: ^4Rebel Archie: it was open the cell for 2 sec
+[Thu Jan 09 17:23:55 2014]  say: ^4Rebel Archie: so back in cell
+[Thu Jan 09 17:24:02 2014]  say: Bounty Hunter: what the
+[Thu Jan 09 17:24:21 2014]  Kill: 1 1 39: Bounty Hunter killed Bounty Hunter by MOD_SUICIDE
+[Thu Jan 09 17:24:26 2014]  say: ^4Rebel Archie: sith!
+[Thu Jan 09 17:24:35 2014]  say: Bounty Hunter: WAT U DOING BISH
+[Thu Jan 09 17:24:42 2014]  say: ^4Rebel Archie: i killed u bro
+[Thu Jan 09 17:24:52 2014]  say: Bounty Hunter: IM SON OF LUKE SKYWALKER!
+[Thu Jan 09 17:24:58 2014]  say: Bounty Hunter: ASHOLE
+[Thu Jan 09 17:25:05 2014]  say: ^4Rebel Archie: then why u have sith costume hm?
+[Thu Jan 09 17:25:12 2014]  say: Bounty Hunter: LOL U MAD
+[Thu Jan 09 17:25:16 2014]  say: Bounty Hunter: its normal torso
+[Thu Jan 09 17:25:17 2014]  say: Bounty Hunter: now stfu
+[Thu Jan 09 17:25:20 2014]  say: ^4Rebel Archie: no
+[Thu Jan 09 17:25:24 2014]  say: ^4Rebel Archie: u have reborn torso
+[Thu Jan 09 17:25:30 2014]  say: Bounty Hunter: god u mad
+[Thu Jan 09 17:25:34 2014]  say: Bounty Hunter: u never see tfu hm?
+[Thu Jan 09 17:25:35 2014]  say: ^4Rebel Archie: so u sith
+[Thu Jan 09 17:25:46 2014]  say: Bounty Hunter: this is sith bitch
+[Thu Jan 09 17:25:47 2014]  say: ^4Rebel Archie: -_-
+[Thu Jan 09 17:25:50 2014]  say: ^4Rebel Archie: dude
+[Thu Jan 09 17:25:55 2014]  say: Bounty Hunter: dude
+[Thu Jan 09 17:25:57 2014]  say: Bounty Hunter: u camera is bad
+[Thu Jan 09 17:26:00 2014]  say: ^4Rebel Archie: that was sith from outcast
+[Thu Jan 09 17:26:02 2014]  say: Bounty Hunter: look at dat
+[Thu Jan 09 17:26:04 2014]  say: Bounty Hunter: itsa picture
+[Thu Jan 09 17:26:12 2014]  say: ^4Rebel Archie: THIS TORSO ITS FROM JEDI OUTCAST SITH -_-
+[Thu Jan 09 17:26:17 2014]  say: Bounty Hunter: no
+[Thu Jan 09 17:26:19 2014]  say: ^4Rebel Archie: yes
+[Thu Jan 09 17:26:20 2014]  say: ^4Rebel Archie: go check
+[Thu Jan 09 17:26:22 2014]  say: ^4Rebel Archie: google it
+[Thu Jan 09 17:26:23 2014]  say: Bounty Hunter: im son of luke skywalker
+[Thu Jan 09 17:26:25 2014]  say: ^4Rebel Archie: no
+[Thu Jan 09 17:26:28 2014]  say: ^4Rebel Archie: u have sith torso
+[Thu Jan 09 17:26:31 2014]  say: Bounty Hunter: sure
+[Thu Jan 09 17:26:33 2014]  say: Bounty Hunter: story is
+[Thu Jan 09 17:26:36 2014]  say: Bounty Hunter: cancled
+[Thu Jan 09 17:26:40 2014]  say: ^4Rebel Archie: mad?
+[Thu Jan 09 17:26:42 2014]  say: Bounty Hunter: no u
+[Thu Jan 09 17:26:45 2014]  say: ^4Rebel Archie: nah
+[Thu Jan 09 17:26:48 2014]  say: ^4Rebel Archie: google it
+[Thu Jan 09 17:26:49 2014]  say: Bounty Hunter: u dont wanna continue
+[Thu Jan 09 17:26:53 2014]  say: ^4Rebel Archie: i wanna continue
+[Thu Jan 09 17:26:55 2014]  say: ^4Rebel Archie: u no
+[Thu Jan 09 17:26:58 2014]  say: Bounty Hunter: me yes
+[Thu Jan 09 17:27:01 2014]  say: Bounty Hunter: i said stfu
+[Thu Jan 09 17:27:03 2014]  say: ^4Rebel Archie: ok be that fucking torso omg
+[Thu Jan 09 17:27:03 2014]  say: Bounty Hunter: and u  again talking
+[Thu Jan 09 17:27:11 2014]  say: Bounty Hunter: dark jedi
+[Thu Jan 09 17:27:13 2014]  say: ^4Rebel Archie: i dont care what torso u have
+[Thu Jan 09 17:27:14 2014]  say: Bounty Hunter: and im normal jedi
+[Thu Jan 09 17:27:18 2014]  say: Bounty Hunter: and now stfu thanks :-)
+[Thu Jan 09 17:27:24 2014]  say: Bounty Hunter: LOL
+[Thu Jan 09 17:27:33 2014]  say: ^4Rebel Archie: i will no talk to u never 
+[Thu Jan 09 17:27:47 2014]  say: ^4Rebel Archie: *this is story no rly*
+[Thu Jan 09 17:28:01 2014]  say: ^4Rebel Archie: and where is ur father?
+[Thu Jan 09 17:28:16 2014]  say: Bounty Hunter: IN U HOME
+[Thu Jan 09 17:28:21 2014]  say: ^4Rebel Archie: why?
+[Thu Jan 09 17:28:29 2014]  say: Bounty Hunter: u mother doing oh ya
+[Thu Jan 09 17:28:37 2014]  say: ^4Rebel Archie: eh dont care
+[Thu Jan 09 17:28:55 2014]  say: Bounty Hunter: father!
+[Thu Jan 09 17:28:57 2014]  say: Bounty Hunter: Luke: SON!
+[Thu Jan 09 17:29:00 2014]  say: Bounty Hunter: FATHER
+[Thu Jan 09 17:29:03 2014]  say: Bounty Hunter: THIS BITCH ATTACKED ME
+[Thu Jan 09 17:29:07 2014]  say: Bounty Hunter: Luke: how
+[Thu Jan 09 17:29:16 2014]  say: Bounty Hunter: Luke: hes my new student lol
+[Thu Jan 09 17:29:20 2014]  say: Bounty Hunter: HES ATTACKED ME
+[Thu Jan 09 17:29:23 2014]  say: Bounty Hunter: Luke: son
+[Thu Jan 09 17:29:54 2014]  say: Bounty Hunter: Luke: son emotion becoming to angry angry becoming to hate and hate to the dark side ...
+[Thu Jan 09 17:30:04 2014]  say: Bounty Hunter: ...
+[Thu Jan 09 17:30:10 2014]  say: Bounty Hunter: sorry father
+[Thu Jan 09 17:30:12 2014]  say: Bounty Hunter: i ..
+[Thu Jan 09 17:30:15 2014]  say: Bounty Hunter: WHY ATTACKED ME
+[Thu Jan 09 17:30:16 2014]  say: ^4Rebel Archie: sorry son of luke
+[Thu Jan 09 17:30:22 2014]  say: ^4Rebel Archie: i thinked u was sith
+[Thu Jan 09 17:30:24 2014]  say: ^4Rebel Archie: sorry
+[Thu Jan 09 17:30:33 2014]  say: Bounty Hunter: im lenny
+[Thu Jan 09 17:30:35 2014]  say: ^4Rebel Archie: so whats ur name son of luke
+[Thu Jan 09 17:30:37 2014]  say: ^4Rebel Archie: ?
+[Thu Jan 09 17:30:44 2014]  say: Bounty Hunter: Luke: ok guys i must go back to building academy good bye
+[Thu Jan 09 17:30:46 2014]  say: Bounty Hunter: bye
+[Thu Jan 09 17:30:48 2014]  say: ^4Rebel Archie: wait
+[Thu Jan 09 17:30:48 2014]  say: Bounty Hunter: npc kill all
+[Thu Jan 09 17:30:53 2014]  say: ^4Rebel Archie: i have a datapad
+[Thu Jan 09 17:30:54 2014]  say: ^4Rebel Archie: her
+[Thu Jan 09 17:31:02 2014]  say: ^4Rebel Archie: lol
+[Thu Jan 09 17:31:05 2014]  say: Bounty Hunter: infarct
+[Thu Jan 09 17:31:07 2014]  say: Bounty Hunter: xd
+[Thu Jan 09 17:31:12 2014]  say: ^4Rebel Archie: it was a datapad
+[Thu Jan 09 17:31:13 2014]  say: ^4Rebel Archie: it says
+[Thu Jan 09 17:31:24 2014]  say: Bounty Hunter: so what u name
+[Thu Jan 09 17:31:29 2014]  say: ^4Rebel Archie: archie
+[Thu Jan 09 17:31:35 2014]  say: Bounty Hunter: this is cell?
+[Thu Jan 09 17:31:37 2014]  say: Bounty Hunter: archie
+[Thu Jan 09 17:31:38 2014]  say: ^4Rebel Archie: yes
+[Thu Jan 09 17:31:41 2014]  say: Bounty Hunter: and
+[Thu Jan 09 17:31:44 2014]  say: Bounty Hunter: wat u giving her
+[Thu Jan 09 17:31:55 2014]  say: ^4Rebel Archie: well here we put bad guys to interogatte them
+[Thu Jan 09 17:32:02 2014]  say: Bounty Hunter: ah
+[Thu Jan 09 17:32:06 2014]  say: Bounty Hunter: so
+[Thu Jan 09 17:32:08 2014]  say: Bounty Hunter: good luck
+[Thu Jan 09 17:32:11 2014]  say: ^4Rebel Archie: oh ok
+[Thu Jan 09 17:32:12 2014]  say: Bounty Hunter: im going to help my father
+[Thu Jan 09 17:32:12 2014]  say: ^4Rebel Archie: wait
+[Thu Jan 09 17:32:16 2014]  say: Bounty Hunter: wat
+[Thu Jan 09 17:32:27 2014]  say: ^4Rebel Archie: holo it says mission
+[Thu Jan 09 17:32:29 2014]  say: ^4Rebel Archie: come
+[Thu Jan 09 17:32:41 2014]  say: Bounty Hunter: SEC
+[Thu Jan 09 17:32:47 2014]  say: ^4Rebel Archie: starting holo
+[Thu Jan 09 17:33:04 2014]  say: ^4Rebel Archie: holo:omg.... i am hurt .. archie i need ur help 
+[Thu Jan 09 17:33:15 2014]  say: ^4Rebel Archie: holo:its me .... rico ... AH HELP
+[Thu Jan 09 17:33:16 2014]  say: ^4Rebel Archie: omg
+[Thu Jan 09 17:33:20 2014]  say: ^4Rebel Archie: i have to go save him
+[Thu Jan 09 17:33:25 2014]  say: Bounty Hunter: SEC
+[Thu Jan 09 17:33:26 2014]  say: Bounty Hunter: COME TO ME
+[Thu Jan 09 17:33:27 2014]  say: Bounty Hunter: I HAVE SHIP
+[Thu Jan 09 17:33:31 2014]  say: Bounty Hunter: TWO SHIPS
+[Thu Jan 09 17:33:32 2014]  say: Bounty Hunter: I THINK
+[Thu Jan 09 17:33:39 2014]  say: ^4Rebel Archie: we need to go bespin
+[Thu Jan 09 17:33:51 2014]  say: ^4Rebel Archie: soldier
+[Thu Jan 09 17:33:55 2014]  say: ^4Rebel Archie: u will have some troops
+[Thu Jan 09 17:33:59 2014]  say: ^4Rebel Archie: defend base
+[Thu Jan 09 17:34:05 2014]  say: ^4Rebel Archie: trooper;yes sir!
+[Thu Jan 09 17:34:19 2014]  say: ^4Rebel Archie: no force 
+[Thu Jan 09 17:34:21 2014]  say: ^4Rebel Archie: for now
+[Thu Jan 09 17:34:28 2014]  say: Bounty Hunter: COME
+[Thu Jan 09 17:34:37 2014]  say: Bounty Hunter: GO
+[Thu Jan 09 17:34:38 2014]  say: Bounty Hunter: USE 
+[Thu Jan 09 17:34:38 2014]  say: ^4Rebel Archie: we need ships
+[Thu Jan 09 17:34:39 2014]  say: Bounty Hunter: BEHIND YOU
+[Thu Jan 09 17:34:43 2014]  say: Bounty Hunter: I KNOW 
+[Thu Jan 09 17:34:45 2014]  say: Bounty Hunter: JUST USE THAT
+[Thu Jan 09 17:34:49 2014]  say: Bounty Hunter: COME TO ME
+[Thu Jan 09 17:35:11 2014]  say: ^4Rebel Archie: here
+[Thu Jan 09 17:35:16 2014]  say: ^4Rebel Archie: ah darn
+[Thu Jan 09 17:35:20 2014]  say: Bounty Hunter: COME HER
+[Thu Jan 09 17:35:21 2014]  say: Bounty Hunter: OMG
+[Thu Jan 09 17:35:21 2014]  say: ^4Rebel Archie: i dont have security card
+[Thu Jan 09 17:35:24 2014]  say: Bounty Hunter: HER
+[Thu Jan 09 17:35:28 2014]  say: Bounty Hunter: COME
+[Thu Jan 09 17:35:30 2014]  say: ^4Rebel Archie: get back
+[Thu Jan 09 17:35:51 2014]  say: Bounty Hunter: THERE
+[Thu Jan 09 17:35:56 2014]  say: ^4Rebel Archie: what?
+[Thu Jan 09 17:36:04 2014]  say: Bounty Hunter: Lando: wat u need lenny
+[Thu Jan 09 17:36:05 2014]  say: Bounty Hunter: u ship
+[Thu Jan 09 17:36:16 2014]  say: Bounty Hunter: Lando: oh course there security key
+[Thu Jan 09 17:36:22 2014]  say: Bounty Hunter: Lando: and waring
+[Thu Jan 09 17:36:31 2014]  say: ^4Rebel Archie: warning*
+[Thu Jan 09 17:36:33 2014]  say: Bounty Hunter: Lando: the street is danger
+[Thu Jan 09 17:36:42 2014]  say: Bounty Hunter: Lando: i think is there stormtroopers
+[Thu Jan 09 17:36:51 2014]  say: Bounty Hunter: Lando: now go i must sleep =)
+[Thu Jan 09 17:36:53 2014]  say: ^4Rebel Archie: do u have a datapad for landing?
+[Thu Jan 09 17:36:54 2014]  say: Bounty Hunter: ok thanks and bye
+[Thu Jan 09 17:37:10 2014]  say: ^4Rebel Archie: rename
+[Thu Jan 09 17:37:28 2014]  print "Bounty Hunter^7 @@@PLRENAME Lenny_[Jedi]{Knight}
+"[Thu Jan 09 17:37:36 2014]  say: Lenny_[Jedi]{Knight}: sec
+[Thu Jan 09 17:37:37 2014]  say: Lenny_[Jedi]{Knight}: i must open
+[Thu Jan 09 17:37:44 2014]  say: ^4Rebel Archie: use force maybe
+[Thu Jan 09 17:38:47 2014]  say: ^4Rebel Archie: KBOOM
+[Thu Jan 09 17:38:48 2014]  Kill: 0 1 27: ^4Rebel Archie killed Lenny_[Jedi]{Knight} by MOD_DET_PACK_SPLASH
+[Thu Jan 09 17:38:50 2014]  say: ^4Rebel Archie: oops
+[Thu Jan 09 17:38:53 2014]  say: Lenny_[Jedi]{Knight}: -_-
+[Thu Jan 09 17:38:55 2014]  say: Lenny_[Jedi]{Knight}: OMG
+[Thu Jan 09 17:38:58 2014]  say: Lenny_[Jedi]{Knight}: U FAKE
+[Thu Jan 09 17:38:58 2014]  say: ^4Rebel Archie: sorry
+[Thu Jan 09 17:38:59 2014]  say: Lenny_[Jedi]{Knight}: WAHT U DOING
+[Thu Jan 09 17:39:01 2014]  say: Lenny_[Jedi]{Knight}: WAT U DOING!
+[Thu Jan 09 17:39:03 2014]  say: Lenny_[Jedi]{Knight}: TELL ME WAT U DOING!
+[Thu Jan 09 17:39:08 2014]  say: ^4Rebel Archie: killing
+[Thu Jan 09 17:39:09 2014]  say: Lenny_[Jedi]{Knight}: NOW IS SON OF LUKE DED
+[Thu Jan 09 17:39:14 2014]  say: ^4Rebel Archie: no
+[Thu Jan 09 17:39:14 2014]  say: Lenny_[Jedi]{Knight}: AND U WILL KICKED FROM REPUBLIC
+[Thu Jan 09 17:39:20 2014]  say: ^4Rebel Archie:  WELL
+[Thu Jan 09 17:39:25 2014]  say: ^4Rebel Archie: U DIDNT BACK
+[Thu Jan 09 17:39:29 2014]  say: ^4Rebel Archie: SO U WERE KILLED 
+[Thu Jan 09 17:39:37 2014]  print "Lenny_[Jedi]{Knight}^7 @@@PLRENAME Luke
+"[Thu Jan 09 17:39:38 2014]  say: ^4Rebel Archie: or
+[Thu Jan 09 17:39:42 2014]  say: ^4Rebel Archie: u could use /go
+[Thu Jan 09 17:39:43 2014]  say: ^4Rebel Archie: /god
+[Thu Jan 09 17:39:45 2014]  say: ^4Rebel Archie: -__
+[Thu Jan 09 17:39:46 2014]  say: Luke: SON!
+[Thu Jan 09 17:39:53 2014]  say: Luke: NOOOOOOO!!!!!!
+[Thu Jan 09 17:40:01 2014]  say: Luke: WHO KILLED U
+[Thu Jan 09 17:40:08 2014]  say: Luke: Lenny: a.. aa.. rrhchiee...
+[Thu Jan 09 17:40:12 2014]  say: Luke: ...
+[Thu Jan 09 17:40:36 2014]  say: ^4Rebel Archie: luke please
+[Thu Jan 09 17:40:36 2014]  say: Luke: DIE KILLER
+[Thu Jan 09 17:40:41 2014]  say: Luke: YE
+[Thu Jan 09 17:40:42 2014]  say: Luke: DED
+[Thu Jan 09 17:40:45 2014]  say: ^4Rebel Archie: it was accindet
+[Thu Jan 09 17:40:52 2014]  say: Luke: U DONT HAVE FORCES
+[Thu Jan 09 17:40:54 2014]  say: Luke: U USED ALL MIN
+[Thu Jan 09 17:40:58 2014]  say: Luke: ALL TROOPERS SHOTED U
+[Thu Jan 09 17:40:59 2014]  say: Luke: U DIED
+[Thu Jan 09 17:41:00 2014]  say: ^4Rebel Archie: we need talk not killing
+[Thu Jan 09 17:41:05 2014]  say: Luke: STOP USING THE FUCKING MINS
+[Thu Jan 09 17:41:13 2014]  say: ^4Rebel Archie: u can be kicked too if u kill me
+[Thu Jan 09 17:41:19 2014]  say: Luke: NO I CNAT
+[Thu Jan 09 17:41:21 2014]  say: ^4Rebel Archie: yes
+[Thu Jan 09 17:41:22 2014]  say: Luke: BECAUSE IM LEADER OF THIS
+[Thu Jan 09 17:41:25 2014]  say: Luke: DED
+[Thu Jan 09 17:41:26 2014]  say: ^4Rebel Archie: no
+[Thu Jan 09 17:41:33 2014]  say: ^4Rebel Archie: u have hate
+[Thu Jan 09 17:41:39 2014]  say: Luke: U HAVE HATE
+[Thu Jan 09 17:41:40 2014]  say: ^4Rebel Archie: so u dark side
+[Thu Jan 09 17:41:43 2014]  say: ^4Rebel Archie: no i dont
+[Thu Jan 09 17:41:48 2014]  say: ^4Rebel Archie: i dont hate lenny
+[Thu Jan 09 17:41:49 2014]  say: Luke: LETS TRY AGAIN
+[Thu Jan 09 17:41:54 2014]  say: Luke: AND NOW DONT USE MINS
+[Thu Jan 09 17:41:54 2014]  say: ^4Rebel Archie: no
+[Thu Jan 09 17:41:57 2014]  say: Luke: ON
+[Thu Jan 09 17:41:58 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 17:41:59 2014]  say: Luke: LENNY CANT DIE
+[Thu Jan 09 17:42:01 2014]  say: Luke: IF DIE
+[Thu Jan 09 17:42:05 2014]  say: Luke: U WILL NOT EXIST
+[Thu Jan 09 17:42:08 2014]  say: Luke: U WILL NOT IN MOVIE
+[Thu Jan 09 17:42:08 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 17:42:13 2014]  say: Luke: BECAUSE IM RLY RECORING
+[Thu Jan 09 17:42:15 2014]  say: Luke: RECORDING
+[Thu Jan 09 17:42:27 2014]  say: ^4Rebel Archie: yea but on xfire noone can see movie
+[Thu Jan 09 17:42:29 2014]  say: ^4Rebel Archie: :/
+[Thu Jan 09 17:42:34 2014]  say: Luke: all see movie lol
+[Thu Jan 09 17:42:37 2014]  say: Luke: we must wait
+[Thu Jan 09 17:42:45 2014]  say: Luke: /m
+[Thu Jan 09 17:42:50 2014]  say: Luke: /notarget
+[Thu Jan 09 17:42:52 2014]  say: Luke: DO IT
+[Thu Jan 09 17:43:00 2014]  say: ^4Rebel Archie: u have dark side in u
+[Thu Jan 09 17:43:03 2014]  say: ^4Rebel Archie: eh
+[Thu Jan 09 17:43:06 2014]  say: Luke: ?
+[Thu Jan 09 17:43:20 2014]  say: Luke: OMG
+[Thu Jan 09 17:43:23 2014]  say: Luke: BISH
+[Thu Jan 09 17:43:26 2014]  say: ^4Rebel Archie: wat?
+[Thu Jan 09 17:43:27 2014]  say: Luke: U HAVE NOTARGET
+[Thu Jan 09 17:43:31 2014]  say: ^4Rebel Archie: yes u sayd
+[Thu Jan 09 17:43:34 2014]  say: Luke: YE
+[Thu Jan 09 17:43:36 2014]  say: Luke: BECAUSE
+[Thu Jan 09 17:43:38 2014]  say: Luke: IM SPAWNING NPCS
+[Thu Jan 09 17:43:41 2014]  say: Luke: DONT KILL THE FCKING NPCS
+[Thu Jan 09 17:44:02 2014]  say: Luke: NOW 
+[Thu Jan 09 17:44:03 2014]  say: ^4Rebel Archie: shit
+[Thu Jan 09 17:44:05 2014]  say: Luke: NOTARGET
+[Thu Jan 09 17:44:06 2014]  say: Luke: AGAIN
+[Thu Jan 09 17:44:08 2014]  say: ^4Rebel Archie: imperials
+[Thu Jan 09 17:44:12 2014]  say: Luke: NOTARGET
+[Thu Jan 09 17:44:15 2014]  say: ^4Rebel Archie: i did 
+[Thu Jan 09 17:44:20 2014]  say: Luke: help me then
+[Thu Jan 09 17:44:30 2014]  say: Luke: omg
+[Thu Jan 09 17:44:32 2014]  say: Luke: /notarget
+[Thu Jan 09 17:44:34 2014]  say: ^4Rebel Archie: u have lightsaber
+[Thu Jan 09 17:44:35 2014]  say: Luke: u invisible
+[Thu Jan 09 17:44:42 2014]  say: Luke: /notarget omg
+[Thu Jan 09 17:44:46 2014]  say: ^4Rebel Archie: I DID
+[Thu Jan 09 17:44:51 2014]  say: Luke: 2 NOTARGET
+[Thu Jan 09 17:44:55 2014]  say: Luke: ALL DONT SEE U
+[Thu Jan 09 17:44:55 2014]  Kill: 1022 1 6: <world> killed Luke by MOD_BLASTER
+[Thu Jan 09 17:44:57 2014]  say: Luke: OMG
+[Thu Jan 09 17:45:01 2014]  say: Luke: AGAIN THEN
+[Thu Jan 09 17:45:01 2014]  say: ^4Rebel Archie: I HAVE NOTARGET
+[Thu Jan 09 17:45:10 2014]  say: ^4Rebel Archie: -_-
+[Thu Jan 09 17:45:16 2014]  say: Luke: NOBODY SEE U
+[Thu Jan 09 17:45:20 2014]  say: Luke: BECAUSE U HAVE NOTARGET ACTIVATED
+[Thu Jan 09 17:45:31 2014]  say: ^4Rebel Archie: U SAYD TO ACTIVE NOW DEACTIVE WTF MAN?
+[Thu Jan 09 17:45:47 2014]  say: Luke: GOD
+[Thu Jan 09 17:45:49 2014]  say: Luke: DONT DEACTIVATE NOW
+[Thu Jan 09 17:45:51 2014]  say: Luke: IM SPAWNING!
+[Thu Jan 09 17:46:07 2014]  say: ^4Rebel Archie: i have notarget on
+[Thu Jan 09 17:46:08 2014]  say: Luke: LL
+[Thu Jan 09 17:46:43 2014]  say: Luke: NOW
+[Thu Jan 09 17:46:44 2014]  say: ^4Rebel Archie: take cover
+[Thu Jan 09 17:46:49 2014]  say: Luke: deactivate
+[Thu Jan 09 17:46:51 2014]  say: ^4Rebel Archie: and use lightsaber
+[Thu Jan 09 17:46:55 2014]  say: Luke: DEACTIVATE
+[Thu Jan 09 17:46:57 2014]  say: ^4Rebel Archie: i did
+[Thu Jan 09 17:47:00 2014]  say: Luke: SO GO
+[Thu Jan 09 17:47:45 2014]  Item: 1 weapon_blaster
+[Thu Jan 09 17:48:03 2014]  say: Luke: DONT
+[Thu Jan 09 17:48:06 2014]  say: Luke: DONT ARCHIE
+[Thu Jan 09 17:48:25 2014]  say: Luke: capture him
+[Thu Jan 09 17:48:33 2014]  say: ^4Rebel Archie: there
+[Thu Jan 09 17:48:35 2014]  say: Luke: and now lets go
+[Thu Jan 09 17:49:03 2014]  say: Luke: unlock doorz
+[Thu Jan 09 17:49:08 2014]  say: ^4Rebel Archie: there
+[Thu Jan 09 17:49:39 2014]  say: ^4Rebel Archie: closing doors
+[Thu Jan 09 17:50:02 2014]  say: Luke: there my home
+[Thu Jan 09 17:50:12 2014]  say: Luke: my new home
+[Thu Jan 09 17:50:17 2014]  say: Luke: i was in taspir
+[Thu Jan 09 17:50:21 2014]  say: ^4Rebel Archie: WE  NEED TO GET SHIP RIKO IS IN DANGER
+[Thu Jan 09 17:50:24 2014]  say: Luke: now im in deset
+[Thu Jan 09 17:50:28 2014]  say: Luke: nah
+[Thu Jan 09 17:50:30 2014]  say: Luke: im saved him
+[Thu Jan 09 17:50:35 2014]  say: ^4Rebel Archie: where is he!?
+[Thu Jan 09 17:50:36 2014]  say: Luke: hes in ship
+[Thu Jan 09 17:50:39 2014]  say: ^4Rebel Archie: THEN COME
+[Thu Jan 09 17:50:44 2014]  say: Luke: chewie and han protecting him lol
+[Thu Jan 09 17:50:48 2014]  say: ^4Rebel Archie: no
+[Thu Jan 09 17:50:52 2014]  say: ^4Rebel Archie: i wanna ask him something
+[Thu Jan 09 17:50:57 2014]  say: Luke: tommorow
+[Thu Jan 09 17:50:58 2014]  say: ^4Rebel Archie: come or stay
+[Thu Jan 09 17:51:00 2014]  say: Luke: hes blind
+[Thu Jan 09 17:51:04 2014]  say: Luke: hes sleeping
+[Thu Jan 09 17:51:07 2014]  say: Luke: now help me
+[Thu Jan 09 17:51:10 2014]  say: Luke: to build new home
+[Thu Jan 09 17:51:13 2014]  say: Luke: oh
+[Thu Jan 09 17:51:16 2014]  say: Luke: u got lightsaber?
+[Thu Jan 09 17:51:23 2014]  say: ^4Rebel Archie: yes from archie
+[Thu Jan 09 17:51:34 2014]  say: ^4Rebel Archie: i gived u
+[Thu Jan 09 17:51:53 2014]  say: Luke: u a student?
+[Thu Jan 09 17:51:56 2014]  say: Luke: from academy?
+[Thu Jan 09 17:51:58 2014]  say: ^4Rebel Archie: yes
+[Thu Jan 09 17:52:02 2014]  say: Luke: oh
+[Thu Jan 09 17:52:04 2014]  say: Luke: u the archie lol
+[Thu Jan 09 17:52:04 2014]  say: ^4Rebel Archie: wai
+[Thu Jan 09 17:52:07 2014]  say: ^4Rebel Archie: wait
+[Thu Jan 09 17:52:19 2014]  say: Luke: wtf
+[Thu Jan 09 17:52:22 2014]  say: Luke: i dont know full english xd
+[Thu Jan 09 17:52:28 2014]  say: Luke: can u translate this?
+[Thu Jan 09 17:52:39 2014]  say: ^4Rebel Archie: nah
+[Thu Jan 09 17:52:41 2014]  say: ^4Rebel Archie: just wait 
+[Thu Jan 09 17:52:46 2014]  say: Luke: im u strejda
+[Thu Jan 09 17:53:01 2014]  say: ^4Rebel Archie: so
+[Thu Jan 09 17:53:01 2014]  say: Luke: lol
+[Thu Jan 09 17:53:03 2014]  say: Luke: /msit4
+[Thu Jan 09 17:53:19 2014]  say: ^4Rebel Archie: so
+[Thu Jan 09 17:53:19 2014]  say: Luke: so
+[Thu Jan 09 17:53:23 2014]  say: Luke: im u strejda
+[Thu Jan 09 17:53:24 2014]  say: ^4Rebel Archie: who are u?
+[Thu Jan 09 17:53:27 2014]  say: Luke: im u strejda
+[Thu Jan 09 17:53:30 2014]  say: ^4Rebel Archie: ?
+[Thu Jan 09 17:53:35 2014]  say: Luke: translate that :p
+[Thu Jan 09 17:53:36 2014]  say: ^4Rebel Archie: partener
+[Thu Jan 09 17:53:38 2014]  say: ^4Rebel Archie: ?
+[Thu Jan 09 17:53:42 2014]  say: Luke: lol
+[Thu Jan 09 17:53:46 2014]  say: ^4Rebel Archie: friends?
+[Thu Jan 09 17:53:52 2014]  say: Luke: i knowed u father
+[Thu Jan 09 17:54:07 2014]  say: ^4Rebel Archie: how u know my father when u are young
+[Thu Jan 09 17:54:13 2014]  say: Luke: -_-
+[Thu Jan 09 17:54:14 2014]  say: Luke: :D
+[Thu Jan 09 17:54:17 2014]  say: ^4Rebel Archie: only luke and riko know him
+[Thu Jan 09 17:54:23 2014]  say: Luke: kyle too
+[Thu Jan 09 17:54:25 2014]  say: Luke: me too
+[Thu Jan 09 17:54:31 2014]  say: ^4Rebel Archie: how old are u?
+[Thu Jan 09 17:54:37 2014]  say: Luke: 35
+[Thu Jan 09 17:54:41 2014]  say: ^4Rebel Archie: oh
+[Thu Jan 09 17:54:51 2014]  say: Luke: u father and me was in clone wars
+[Thu Jan 09 17:54:56 2014]  say: Luke: jaden korr and lenny skywalker
+[Thu Jan 09 17:55:03 2014]  say: Luke: idk why hes reanmed
+[Thu Jan 09 17:55:07 2014]  say: Luke: kyle gived him this name
+[Thu Jan 09 17:55:08 2014]  say: ^4Rebel Archie: wait
+[Thu Jan 09 17:55:14 2014]  say: ^4Rebel Archie: i am archie korr!?
+[Thu Jan 09 17:55:16 2014]  say: Luke: YES
+[Thu Jan 09 17:55:20 2014]  say: ^4Rebel Archie: omg
+[Thu Jan 09 17:55:23 2014]  say: Luke: u a last son of u father
+[Thu Jan 09 17:55:32 2014]  say: ^4Rebel Archie: do i have a uncle?
+[Thu Jan 09 17:55:38 2014]  say: Luke: i dunno
+[Thu Jan 09 17:55:40 2014]  say: Luke: i think he died
+[Thu Jan 09 17:55:41 2014]  say: Luke: or
+[Thu Jan 09 17:55:42 2014]  say: Luke: i dk
+[Thu Jan 09 17:55:49 2014]  say: Luke: so
+[Thu Jan 09 17:55:52 2014]  say: ^4Rebel Archie: how my father died?
+[Thu Jan 09 17:56:00 2014]  say: Luke: if u give this waht u have
+[Thu Jan 09 17:56:08 2014]  say: Luke: on wat u siting
+[Thu Jan 09 17:56:08 2014]  say: ^4Rebel Archie: tell me
+[Thu Jan 09 17:56:13 2014]  say: Luke: give cmd and i tell u
+[Thu Jan 09 17:56:20 2014]  say: ^4Rebel Archie: what cmd?
+[Thu Jan 09 17:56:28 2014]  say: Luke: on wat u sit
+[Thu Jan 09 17:56:41 2014]  say: ^4Rebel Archie: do /mplace cinematics/chair
+[Thu Jan 09 17:57:41 2014]  say: ^4Rebel Archie: so
+[Thu Jan 09 17:57:48 2014]  say: ^4Rebel Archie: how my father died
+[Thu Jan 09 17:57:50 2014]  say: ^4Rebel Archie: ?
+[Thu Jan 09 17:57:52 2014]  say: Luke: u father was a jedi knight
+[Thu Jan 09 17:57:59 2014]  say: Luke: you father was my big friend
+[Thu Jan 09 17:58:08 2014]  say: ^4Rebel Archie: so?
+[Thu Jan 09 17:58:16 2014]  say: ^4Rebel Archie: wait
+[Thu Jan 09 17:58:28 2014]  say: ^4Rebel Archie: he was in the jedi order and a jedi master that kyle told me
+[Thu Jan 09 17:58:40 2014]  say: Luke: ye
+[Thu Jan 09 17:58:47 2014]  say: ^4Rebel Archie: so how he died!?
+[Thu Jan 09 17:58:49 2014]  say: Luke: in end of clone wars
+[Thu Jan 09 17:58:59 2014]  say: Luke: i haved new padawan
+[Thu Jan 09 17:59:07 2014]  say: Luke: malwalker
+[Thu Jan 09 17:59:13 2014]  say: ^4Rebel Archie: i know him
+[Thu Jan 09 17:59:16 2014]  say: Luke: this guy has becomed dark side
+[Thu Jan 09 17:59:21 2014]  say: Luke: and killed u father
+[Thu Jan 09 17:59:24 2014]  say: ^4Rebel Archie: where?
+[Thu Jan 09 17:59:33 2014]  say: Luke: hes in galaxy
+[Thu Jan 09 17:59:36 2014]  say: Luke: not here
+[Thu Jan 09 17:59:42 2014]  say: ^4Rebel Archie: can u train me to be a jedi?
+[Thu Jan 09 17:59:48 2014]  say: Luke: this is lightsaber 
+[Thu Jan 09 17:59:53 2014]  say: Luke: this lighsaber haved u father
+[Thu Jan 09 17:59:58 2014]  say: ^4Rebel Archie: i see
+[Thu Jan 09 18:00:03 2014]  say: Luke: so
+[Thu Jan 09 18:00:05 2014]  say: ^4Rebel Archie: can u train me!?
+[Thu Jan 09 18:00:09 2014]  say: Luke: sure ..
+[Thu Jan 09 18:00:14 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 18:00:16 2014]  say: ^4Rebel Archie: so first?
+[Thu Jan 09 18:00:20 2014]  say: Luke: give me sec
+[Thu Jan 09 18:01:07 2014]  say: ^4Rebel Archie: riko!?
+[Thu Jan 09 18:01:12 2014]  say: Luke: lol u mad
+[Thu Jan 09 18:01:14 2014]  say: Luke: rico is red
+[Thu Jan 09 18:01:16 2014]  say: ^4Rebel Archie: ah
+[Thu Jan 09 18:01:18 2014]  say: ^4Rebel Archie: so u are?
+[Thu Jan 09 18:01:39 2014]  say: Luke: its me
+[Thu Jan 09 18:01:43 2014]  say: ^4Rebel Archie: who?
+[Thu Jan 09 18:01:46 2014]  say: Luke: use the lightsaber of u father
+[Thu Jan 09 18:01:54 2014]  print "Luke^7 @@@PLRENAME Lenny
+"[Thu Jan 09 18:01:56 2014]  say: Lenny: now
+[Thu Jan 09 18:02:04 2014]  say: Lenny: omg
+[Thu Jan 09 18:02:06 2014]  say: Lenny: i said use
+[Thu Jan 09 18:02:07 2014]  say: Lenny: not close
+[Thu Jan 09 18:02:10 2014]  say: Lenny: now
+[Thu Jan 09 18:02:15 2014]  say: Lenny: use midichlorians
+[Thu Jan 09 18:02:47 2014]  say: Lenny: good
+[Thu Jan 09 18:03:21 2014]  say: ^4Rebel Archie: wait
+[Thu Jan 09 18:03:27 2014]  say: ^4Rebel Archie: if i am jedi
+[Thu Jan 09 18:03:28 2014]  say: Lenny: this is for u
+[Thu Jan 09 18:03:31 2014]  say: ^4Rebel Archie: i dont need jetpack
+[Thu Jan 09 18:03:32 2014]  say: Lenny: u not jedi
+[Thu Jan 09 18:03:32 2014]  say: ^4Rebel Archie: brb
+[Thu Jan 09 18:03:37 2014]  say: ^4Rebel Archie: i mean padawan
+[Thu Jan 09 18:03:40 2014]  Kill: 0 0 39: ^4Rebel Archie killed ^4Rebel Archie by MOD_SUICIDE
+[Thu Jan 09 18:03:45 2014]  say: Lenny: and use pilot skin
+[Thu Jan 09 18:04:03 2014]  say: ^4Rebel Archie: press tab
+[Thu Jan 09 18:04:13 2014]  say: Lenny: not republic kin
+[Thu Jan 09 18:04:17 2014]  say: Lenny: this 
+[Thu Jan 09 18:04:19 2014]  say: Lenny: waht i have
+[Thu Jan 09 18:04:54 2014]  say: Lenny: now lets try a fight
+[Thu Jan 09 18:05:23 2014]  say: ^4Rebel Archie: sorry no force powers yet
+[Thu Jan 09 18:05:54 2014]  Kill: 1 0 3: Lenny killed ^4Rebel Archie by MOD_SABER
+[Thu Jan 09 18:05:57 2014]  say: Lenny: good
+[Thu Jan 09 18:06:11 2014]  say: Lenny: now
+[Thu Jan 09 18:06:18 2014]  say: Lenny: use midichlorians
+[Thu Jan 09 18:06:25 2014]  say: Lenny: sens is midichlorian
+[Thu Jan 09 18:06:46 2014]  say: Lenny: no
+[Thu Jan 09 18:06:48 2014]  say: Lenny: u doing bad
+[Thu Jan 09 18:07:01 2014]  say: ^4Rebel Archie: what was that>
+[Thu Jan 09 18:07:02 2014]  say: ^4Rebel Archie: ?
+[Thu Jan 09 18:07:08 2014]  say: Lenny: i think
+[Thu Jan 09 18:07:12 2014]  say: Lenny: u soldier is ded
+[Thu Jan 09 18:07:25 2014]  say: ^4Rebel Archie: oh the one who was defending base
+[Thu Jan 09 18:07:30 2014]  say: ^4Rebel Archie: i wanna learn force heal
+[Thu Jan 09 18:07:38 2014]  say: Lenny: force heal ..
+[Thu Jan 09 18:07:43 2014]  say: Lenny: u father was too want this
+[Thu Jan 09 18:07:48 2014]  say: Lenny: never tell me to learn
+[Thu Jan 09 18:07:56 2014]  say: ^4Rebel Archie: shall we meditate?
+[Thu Jan 09 18:08:03 2014]  say: Lenny: first on jedi is lightsaber
+[Thu Jan 09 18:08:09 2014]  say: Lenny: now
+[Thu Jan 09 18:08:13 2014]  say: Lenny: do this
+[Thu Jan 09 18:08:15 2014]  tell: ^4Rebel Archie to Lenny: i need heal
+[Thu Jan 09 18:08:15 2014]  say: Lenny: sek
+[Thu Jan 09 18:08:17 2014]  say: Lenny: use seker on me
+[Thu Jan 09 18:08:33 2014]  say: Lenny: i mean
+[Thu Jan 09 18:08:38 2014]  say: Lenny: the drone
+[Thu Jan 09 18:08:41 2014]  say: ^4Rebel Archie: ah
+[Thu Jan 09 18:08:52 2014]  say: Lenny: /mempower
+[Thu Jan 09 18:08:57 2014]  say: Lenny: deactivate
+[Thu Jan 09 18:08:58 2014]  say: ^4Rebel Archie: i did
+[Thu Jan 09 18:08:59 2014]  Item: 0 ammo_all
+[Thu Jan 09 18:09:04 2014]  say: Lenny: u not did
+[Thu Jan 09 18:09:07 2014]  say: Lenny: i said mempower
+[Thu Jan 09 18:09:09 2014]  say: Lenny: and u not did
+[Thu Jan 09 18:09:39 2014]  say: Lenny: again
+[Thu Jan 09 18:09:40 2014]  say: Lenny: hurry
+[Thu Jan 09 18:09:43 2014]  say: Lenny: /give all
+[Thu Jan 09 18:09:45 2014]  say: Lenny: and try now
+[Thu Jan 09 18:10:22 2014]  say: Lenny: now u
+[Thu Jan 09 18:10:40 2014]  say: Lenny: very good
+[Thu Jan 09 18:11:00 2014]  say: Lenny: NOW LETS TRY REAL SHOT
+[Thu Jan 09 18:11:10 2014]  say: Lenny: SHOT ME
+[Thu Jan 09 18:11:20 2014]  say: Lenny: BIG SHOT
+[Thu Jan 09 18:11:23 2014]  say: Lenny: NOT THIS 
+[Thu Jan 09 18:11:48 2014]  say: ^4Rebel Archie: 3
+[Thu Jan 09 18:11:49 2014]  say: ^4Rebel Archie: 2
+[Thu Jan 09 18:11:50 2014]  say: ^4Rebel Archie: 1
+[Thu Jan 09 18:11:58 2014]  say: ^4Rebel Archie: let me try
+[Thu Jan 09 18:12:04 2014]  say: Lenny: attack
+[Thu Jan 09 18:12:06 2014]  say: Lenny: u must attack
+[Thu Jan 09 18:12:17 2014]  say: Lenny: hit the shot
+[Thu Jan 09 18:12:25 2014]  say: Lenny: yes
+[Thu Jan 09 18:12:28 2014]  say: Lenny: that was good!
+[Thu Jan 09 18:12:34 2014]  say: Lenny: lol
+[Thu Jan 09 18:12:35 2014]  say: Lenny: too good
+[Thu Jan 09 18:12:40 2014]  say: Lenny: now
+[Thu Jan 09 18:12:43 2014]  say: Lenny: i must sleep
+[Thu Jan 09 18:12:49 2014]  say: ^4Rebel Archie: rly or game?
+[Thu Jan 09 18:12:51 2014]  say: Lenny: and u too
+[Thu Jan 09 18:12:52 2014]  say: Lenny: no
+[Thu Jan 09 18:12:54 2014]  say: Lenny: in game
+[Thu Jan 09 18:12:56 2014]  say: ^4Rebel Archie: ah
+[Thu Jan 09 18:14:42 2014]  say: ^4Rebel Archie: there
+[Thu Jan 09 18:14:49 2014]  say: Lenny: good
+[Thu Jan 09 18:16:27 2014]  say: ^4Rebel Archie: what are those?
+[Thu Jan 09 18:16:30 2014]  say: Lenny: forces
+[Thu Jan 09 18:16:36 2014]  say: Lenny: uhmmmm
+[Thu Jan 09 18:16:37 2014]  say: ^4Rebel Archie: so shall we sleep?
+[Thu Jan 09 18:16:38 2014]  Item: 1 ammo_all
+[Thu Jan 09 18:16:45 2014]  say: Lenny: i dont know where sleep
+[Thu Jan 09 18:17:00 2014]  say: ^4Rebel Archie: just do this
+[Thu Jan 09 18:17:09 2014]  say: Lenny: in shots i will not sleep
+[Thu Jan 09 18:17:36 2014]  say: ^4Rebel Archie: lenny
+[Thu Jan 09 18:17:38 2014]  say: ^4Rebel Archie: !
+[Thu Jan 09 18:17:50 2014]  say: ^4Rebel Archie: lenny!
+[Thu Jan 09 18:17:52 2014]  say: ^4Rebel Archie: come
+[Thu Jan 09 18:17:55 2014]  say: Lenny: cant
+[Thu Jan 09 18:17:56 2014]  say: Lenny: i must sleep
+[Thu Jan 09 18:18:01 2014]  say: ^4Rebel Archie: it is a trooper here!
+[Thu Jan 09 18:18:09 2014]  say: Lenny: fuck him
+[Thu Jan 09 18:18:27 2014]  say: ^4Rebel Archie: trooper:omg ugh .... i runned 3 kilometers ...... lenny ur father is in danger
+[Thu Jan 09 18:18:38 2014]  say: Lenny: what!
+[Thu Jan 09 18:18:43 2014]  say: ^4Rebel Archie: trooper:hes attacked by sith!
+[Thu Jan 09 18:18:45 2014]  say: Lenny: where is he
+[Thu Jan 09 18:18:55 2014]  say: ^4Rebel Archie: trooper:at byss
+[Thu Jan 09 18:19:03 2014]  say: Lenny: in biss is peace
+[Thu Jan 09 18:19:05 2014]  say: Lenny: and
+[Thu Jan 09 18:19:08 2014]  say: Lenny: in peace is war
+[Thu Jan 09 18:19:10 2014]  say: Lenny: i think
+[Thu Jan 09 18:19:12 2014]  say: Lenny: this guys
+[Thu Jan 09 18:19:15 2014]  say: Lenny: will waiting on me
+[Thu Jan 09 18:19:18 2014]  say: Lenny: so
+[Thu Jan 09 18:19:22 2014]  say: Lenny: im going sleep
+[Thu Jan 09 18:19:26 2014]  say: ^4Rebel Archie: trooper:one more thing
+[Thu Jan 09 18:19:38 2014]  say: ^4Rebel Archie: trooper:the sith is desann with maul!
+[Thu Jan 09 18:20:04 2014]  say: ^4Rebel Archie: trooper:and there IS WAR REPUBLICVSEMPIRE ALOT OF SHIP
+[Thu Jan 09 18:20:07 2014]  say: ^4Rebel Archie: SHIPS*
+[Thu Jan 09 18:20:15 2014]  say: Lenny: ik omg
+[Thu Jan 09 18:20:19 2014]  say: ^4Rebel Archie: TROOPER:IF U NO COME LUKE IS GONNA DIE
+[Thu Jan 09 18:20:28 2014]  say: Lenny: he cant die
+[Thu Jan 09 18:20:30 2014]  say: ^4Rebel Archie: u have 2 days
+[Thu Jan 09 18:20:34 2014]  say: Lenny: ik
+[Thu Jan 09 18:20:50 2014]  say: ^4Rebel Archie: trooper:yes he can die dessan injected him to lost powers
+[Thu Jan 09 18:21:13 2014]  say: Lenny: leave
+[Thu Jan 09 18:21:15 2014]  say: ^4Rebel Archie: ok trooper get troops and go i see u tomorrow
+[Thu Jan 09 18:21:27 2014]  say: ^4Rebel Archie: trooper:ok but u gotta hurry!
+[Thu Jan 09 18:21:29 2014]  say: ^4Rebel Archie: ok dont worry
+[Thu Jan 09 18:21:50 2014]  say: ^4Rebel Archie: we got a big problem
+[Thu Jan 09 18:22:02 2014]  say: Lenny: stop
+[Thu Jan 09 18:22:05 2014]  say: Lenny: and go sleep
+[Thu Jan 09 18:22:10 2014]  say: Lenny: its 10 pm!
+[Thu Jan 09 18:22:17 2014]  say: ^4Rebel Archie: goodnight
+[Thu Jan 09 18:22:19 2014]  say: Lenny: sleep here
+[Thu Jan 09 18:22:30 2014]  say: Lenny: good night
+[Thu Jan 09 18:22:34 2014]  say: ^4Rebel Archie: brb
+[Thu Jan 09 18:22:39 2014]  say: ^4Rebel Archie: getting drink
+[Thu Jan 09 18:23:31 2014]  say: ^4Rebel Archie: oah im back
+[Thu Jan 09 18:23:37 2014]  say: Lenny: eh
+[Thu Jan 09 18:23:39 2014]  say: Lenny: wat happen
+[Thu Jan 09 18:23:42 2014]  say: Lenny: how u not sleep
+[Thu Jan 09 18:23:46 2014]  say: ^4Rebel Archie: i sleep
+[Thu Jan 09 18:23:48 2014]  say: ^4Rebel Archie: its morning
+[Thu Jan 09 18:23:56 2014]  say: Lenny: oh rly?
+[Thu Jan 09 18:23:59 2014]  say: ^4Rebel Archie: yea
+[Thu Jan 09 18:24:03 2014]  say: ^4Rebel Archie: times goes faster
+[Thu Jan 09 18:24:12 2014]  say: ^4Rebel Archie: we should go rescue luke
+[Thu Jan 09 18:24:19 2014]  say: Lenny: no
+[Thu Jan 09 18:24:23 2014]  say: Lenny: my father is not in danger
+[Thu Jan 09 18:24:28 2014]  say: Lenny: this is a plane
+[Thu Jan 09 18:24:32 2014]  say: ^4Rebel Archie: ?
+[Thu Jan 09 18:24:33 2014]  say: Lenny: the siths has ben trapped
+[Thu Jan 09 18:24:45 2014]  say: ^4Rebel Archie: uu... u sayd its ur house 
+[Thu Jan 09 18:24:45 2014]  say: Lenny: next day will go
+[Thu Jan 09 18:24:50 2014]  say: Lenny: and done the plane
+[Thu Jan 09 18:24:52 2014]  say: Lenny: ye
+[Thu Jan 09 18:24:54 2014]  say: Lenny: its my house
+[Thu Jan 09 18:25:18 2014]  say: ^4Rebel Archie: so we start force training?
+[Thu Jan 09 18:25:38 2014]  say: ^4Rebel Archie: or helping  u building?
+[Thu Jan 09 18:25:40 2014]  say: Lenny: give ec
+[Thu Jan 09 18:27:55 2014]  say: ^4Rebel Archie: wanna drink
+[Thu Jan 09 18:28:06 2014]  say: Lenny: wat is it
+[Thu Jan 09 18:28:12 2014]  say: ^4Rebel Archie: alien beer
+[Thu Jan 09 18:28:17 2014]  say: Lenny: no thanks
+[Thu Jan 09 18:28:22 2014]  say: Lenny: i want coffe
+[Thu Jan 09 18:28:28 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 18:28:50 2014]  say: ^4Rebel Archie: here
+[Thu Jan 09 18:28:57 2014]  say: Lenny: thanks
+[Thu Jan 09 18:33:06 2014]  say: ^4Rebel Archie: LOL
+[Thu Jan 09 18:33:08 2014]  say: ^4Rebel Archie: LOOK UP
+[Thu Jan 09 18:33:14 2014]  say: Lenny: YES
+[Thu Jan 09 18:33:18 2014]  say: Lenny: THIS WILL THE SHIP
+[Thu Jan 09 18:33:25 2014]  say: Lenny: COME
+[Thu Jan 09 18:33:25 2014]  say: ^4Rebel Archie: we need hangar
+[Thu Jan 09 18:33:27 2014]  say: Lenny: COME
+[Thu Jan 09 18:33:32 2014]  say: Lenny: THERE
+[Thu Jan 09 18:33:54 2014]  say: Lenny: SAVE THAT
+[Thu Jan 09 18:34:03 2014]  say: ^4Rebel Archie:  done
+[Thu Jan 09 18:34:10 2014]  say: Lenny: WAT NAME AND PASWORD?
+[Thu Jan 09 18:34:21 2014]  say: ^4Rebel Archie: those are my items i only use them
+[Thu Jan 09 18:34:23 2014]  say: ^4Rebel Archie: :D
+[Thu Jan 09 18:34:28 2014]  say: Lenny: :/
+[Thu Jan 09 18:34:31 2014]  say: ^4Rebel Archie: do
+[Thu Jan 09 18:34:35 2014]  say: Lenny: THIS IS BUILDED ME)
+[Thu Jan 09 18:34:36 2014]  say: Lenny: NOT U
+[Thu Jan 09 18:34:41 2014]  say: Lenny: THIS ALL FORCES
+[Thu Jan 09 18:34:41 2014]  say: ^4Rebel Archie: i builded this!
+[Thu Jan 09 18:34:52 2014]  say: ^4Rebel Archie: so they are mine :D
+[Thu Jan 09 18:34:53 2014]  say: Lenny: GIVE NAME AND PASWORD
+[Thu Jan 09 18:34:58 2014]  say: ^4Rebel Archie: THOSE ARE MINE
+[Thu Jan 09 18:35:00 2014]  say: ^4Rebel Archie: so 
+[Thu Jan 09 18:35:02 2014]  say: ^4Rebel Archie: no sry
+[Thu Jan 09 18:35:05 2014]  say: Lenny: GIVE NAME AND PASWORD
+[Thu Jan 09 18:35:11 2014]  say: ^4Rebel Archie: lol?
+[Thu Jan 09 18:35:19 2014]  say: ^4Rebel Archie: how u snipe yourself?
+[Thu Jan 09 18:35:29 2014]  say: ^4Rebel Archie: ok let me build again
+[Thu Jan 09 18:35:35 2014]  say: Lenny: ITS MINE
+[Thu Jan 09 18:35:38 2014]  say: Lenny: HOME
+[Thu Jan 09 18:35:48 2014]  say: ^4Rebel Archie: yes but i build this -_-
+[Thu Jan 09 18:35:58 2014]  say: ^4Rebel Archie: so they are mine :D
+[Thu Jan 09 18:36:27 2014]  say: Lenny: YES!
+[Thu Jan 09 18:36:33 2014]  say: Lenny: U WAS TRAPED HEHEHE
+[Thu Jan 09 18:36:41 2014]  say: Lenny: FU
+[Thu Jan 09 18:36:48 2014]  say: Lenny: WAT CMD
+[Thu Jan 09 18:36:49 2014]  say: ^4Rebel Archie: lol
+[Thu Jan 09 18:36:53 2014]  say: Lenny: I DONT REMEMBER
+[Thu Jan 09 18:36:56 2014]  say: Lenny: DONT S
+[Thu Jan 09 18:36:59 2014]  say: Lenny: NO
+[Thu Jan 09 18:37:05 2014]  say: Lenny: GIVE CMD
+[Thu Jan 09 18:37:13 2014]  say: ^4Rebel Archie: /mplace vjun/window
+[Thu Jan 09 18:37:25 2014]  say: Lenny: THERE
+[Thu Jan 09 18:37:26 2014]  say: Lenny: COME
+[Thu Jan 09 18:37:32 2014]  say: Lenny: COME
+[Thu Jan 09 18:37:59 2014]  say: ^4Rebel Archie: when u father comes?
+[Thu Jan 09 18:38:05 2014]  say: ^4Rebel Archie: i mean luke
+[Thu Jan 09 18:38:17 2014]  say: ^4Rebel Archie: DUDE
+[Thu Jan 09 18:38:18 2014]  say: ^4Rebel Archie: DO
+[Thu Jan 09 18:38:39 2014]  say: ^4Rebel Archie: /msaveobs <filname> <password> 
+[Thu Jan 09 18:38:47 2014]  say: Lenny: IK HOW SAVE
+[Thu Jan 09 18:38:50 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 18:39:08 2014]  say: Lenny: EH?
+[Thu Jan 09 18:39:11 2014]  say: ^4Rebel Archie: lo
+[Thu Jan 09 18:39:20 2014]  say: ^4Rebel Archie: HOLY
+[Thu Jan 09 18:39:26 2014]  say: ^4Rebel Archie: LOOK BACK
+[Thu Jan 09 18:39:27 2014]  say: Lenny: OH GOD
+[Thu Jan 09 18:40:14 2014]  say: ^4Rebel Archie: there
+[Thu Jan 09 18:40:51 2014]  say: ^4Rebel Archie: LOOK
+[Thu Jan 09 18:40:53 2014]  say: Lenny: LOL
+[Thu Jan 09 18:40:54 2014]  say: Lenny: YE
+[Thu Jan 09 18:41:12 2014]  say: ^4Rebel Archie: can u remove this door?
+[Thu Jan 09 18:41:17 2014]  say: ^4Rebel Archie: or wait!
+[Thu Jan 09 18:41:18 2014]  say: Lenny: NO CANT
+[Thu Jan 09 18:41:55 2014]  say: ^4Rebel Archie: LOL
+[Thu Jan 09 18:41:59 2014]  say: ^4Rebel Archie: back
+[Thu Jan 09 18:42:14 2014]  say: ^4Rebel Archie: oops
+[Thu Jan 09 18:42:16 2014]  say: Lenny: ONE MINUTE
+[Thu Jan 09 18:42:20 2014]  say: ^4Rebel Archie: i saved all
+[Thu Jan 09 18:42:28 2014]  say: ^4Rebel Archie: save too
+[Thu Jan 09 18:42:35 2014]  say: Lenny: 117
+[Thu Jan 09 18:42:38 2014]  say: ^4Rebel Archie: wat?
+[Thu Jan 09 18:42:43 2014]  say: ^4Rebel Archie: do /msaveobs
+[Thu Jan 09 18:42:48 2014]  say: Lenny: 117
+[Thu Jan 09 18:42:49 2014]  say: ^4Rebel Archie: and there do filename and password
+[Thu Jan 09 18:42:52 2014]  say: Lenny: 117
+[Thu Jan 09 18:43:13 2014]  Exit: Timelimit hit.
+[Thu Jan 09 18:43:13 2014]  score: 64  ping: 51  client: 0 ^4Rebel Archie
+[Thu Jan 09 18:43:13 2014]  score: 7  ping: 206  client: 1 Lenny
+[Thu Jan 09 18:43:16 2014]  say: ^4Rebel Archie: gg
+[Thu Jan 09 18:43:16 2014]  say: Lenny: GOD
+[Thu Jan 09 18:43:17 2014]  say: ^4Rebel Archie: XD
+[Thu Jan 09 18:43:18 2014]  say: Lenny: GG
+[Thu Jan 09 18:43:19 2014]  ShutdownGame:
+[Thu Jan 09 18:43:19 2014]  ------------------------------------------------------------
+[Thu Jan 09 18:43:19 2014]  ------------------------------------------------------------
+[Thu Jan 09 18:43:19 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Jan 09 18:43:21 2014]  ClientConnect: 0
+[Thu Jan 09 18:43:21 2014]  ClientConnect: 1
+[Thu Jan 09 18:43:35 2014]  ClientBegin: 0
+[Thu Jan 09 18:43:44 2014]  say: Lenny: XD
+[Thu Jan 09 18:43:44 2014]  ClientBegin: 1
+[Thu Jan 09 18:43:54 2014]  say: ^4Rebel Archie: ok lest build this map
+[Thu Jan 09 18:44:01 2014]  Kill: 0 1 3: ^4Rebel Archie killed Lenny by MOD_SABER
+[Thu Jan 09 18:45:07 2014]  say: Lenny: XD
+[Thu Jan 09 18:45:16 2014]  say: ^4Rebel Archie: so lest continue story or build?
+[Thu Jan 09 18:45:20 2014]  say: Lenny: build
+[Thu Jan 09 18:45:21 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 18:45:24 2014]  say: Lenny: with story
+[Thu Jan 09 18:45:27 2014]  say: ^4Rebel Archie: IK WHERE
+[Thu Jan 09 18:45:28 2014]  say: ^4Rebel Archie: COME
+[Thu Jan 09 18:45:30 2014]  say: Lenny: there is kyle and jan story
+[Thu Jan 09 18:45:41 2014]  say: Lenny: or
+[Thu Jan 09 18:45:42 2014]  say: ^4Rebel Archie: we build here
+[Thu Jan 09 18:45:46 2014]  say: Lenny: lets
+[Thu Jan 09 18:45:59 2014]  say: Lenny: sure just fire 
+[Thu Jan 09 18:46:03 2014]  say: Lenny: sure
+[Thu Jan 09 18:46:06 2014]  say: Lenny: just mine problem fire
+[Thu Jan 09 18:46:09 2014]  say: Lenny: sure sure sur
+[Thu Jan 09 18:46:12 2014]  say: ^4Rebel Archie: ?
+[Thu Jan 09 18:46:12 2014]  say: Lenny: su su su
+[Thu Jan 09 18:46:19 2014]  say: ^4Rebel Archie: wtf lol?
+[Thu Jan 09 18:46:47 2014]  say: Lenny: cheater
+[Thu Jan 09 18:47:21 2014]  say: ^4Rebel Archie: jan no!
+[Thu Jan 09 18:47:26 2014]  say: ^4Rebel Archie: dont go dark side
+[Thu Jan 09 18:47:47 2014]  say: ^4Rebel Archie: give up
+[Thu Jan 09 18:48:32 2014]  say: ^4Rebel Archie: where is jan!?
+[Thu Jan 09 18:48:35 2014]  say: Lenny: dauh
+[Thu Jan 09 18:48:37 2014]  say: Lenny: hes here
+[Thu Jan 09 18:48:42 2014]  say: ^4Rebel Archie: where?
+[Thu Jan 09 18:48:44 2014]  print "Lenny^7 @@@PLRENAME Jan
+"[Thu Jan 09 18:48:53 2014]  say: Jan: there!
+[Thu Jan 09 18:48:54 2014]  say: ^4Rebel Archie: jan!
+[Thu Jan 09 18:49:01 2014]  say: Jan: black ops is there my KYLE!
+[Thu Jan 09 18:49:15 2014]  say: ^4Rebel Archie: lest build house ok jan?
+[Thu Jan 09 18:49:50 2014]  say: ^4Rebel Archie: I GO EAT
+[Thu Jan 09 18:50:01 2014]  say: Jan: ME WAS EATING
+[Thu Jan 09 18:50:02 2014]  say: Jan: XD
+[Thu Jan 09 18:50:06 2014]  say: ^4Rebel Archie: i go eat now brb :D
+[Thu Jan 09 18:50:09 2014]  say: Jan: IM EATING GULAS
+[Thu Jan 09 18:50:10 2014]  say: Jan: ME TOO
+[Thu Jan 09 18:50:11 2014]  say: Jan: BRB
+[Thu Jan 09 18:50:15 2014]  say: Jan: OGING SLSEEP WITH YOU
+[Thu Jan 09 18:50:18 2014]  say: ^4Rebel Archie: sleep with me
+[Thu Jan 09 18:50:20 2014]  say: ^4Rebel Archie: OK BRBN
+[Thu Jan 09 18:50:21 2014]  say: Jan: XD
+[Thu Jan 09 18:55:32 2014]  say: Jan: WHAT THE
+[Thu Jan 09 19:08:04 2014]  say: ^4Rebel Archie: im back
+[Thu Jan 09 19:08:10 2014]  say: Jan: too
+[Thu Jan 09 19:08:14 2014]  say: ^4Rebel Archie: lol
+[Thu Jan 09 19:08:17 2014]  say: ^4Rebel Archie: whereu?
+[Thu Jan 09 19:08:21 2014]  say: ^4Rebel Archie: where u ?*
+[Thu Jan 09 19:08:24 2014]  say: Jan: over here my love
+[Thu Jan 09 19:08:29 2014]  say: Jan: making hsip
+[Thu Jan 09 19:09:06 2014]  say: ^4Rebel Archie: what should i build?
+[Thu Jan 09 19:09:19 2014]  say: Jan: nthing
+[Thu Jan 09 19:09:21 2014]  say: Jan: come
+[Thu Jan 09 19:09:35 2014]  say: Jan: nice ?
+[Thu Jan 09 19:09:38 2014]  say: Jan: do u like that?
+[Thu Jan 09 19:09:39 2014]  say: ^4Rebel Archie: yeah
+[Thu Jan 09 19:09:47 2014]  say: Jan: there
+[Thu Jan 09 19:09:48 2014]  say: Jan: omg
+[Thu Jan 09 19:09:49 2014]  say: Jan: there no
+[Thu Jan 09 19:10:14 2014]  say: ^4Rebel Archie: hey
+[Thu Jan 09 19:10:20 2014]  say: ^4Rebel Archie: wanna continue story?
+[Thu Jan 09 19:10:26 2014]  say: ^4Rebel Archie: and now
+[Thu Jan 09 19:10:26 2014]  say: Jan: ye with building
+[Thu Jan 09 19:10:34 2014]  say: ^4Rebel Archie: i will train u to become jedi
+[Thu Jan 09 19:10:55 2014]  say: ^4Rebel Archie: so lest start
+[Thu Jan 09 19:10:58 2014]  ClientConnect: 2
+[Thu Jan 09 19:10:58 2014]  mlog:Player ^0Darth ^1Javimetal, connected. With IP - 85.219.4.121:29070 
+[Thu Jan 09 19:11:02 2014]  say: ^4Rebel Archie: jan
+[Thu Jan 09 19:11:02 2014]  say: Jan: lol metal
+[Thu Jan 09 19:11:09 2014]  say: ^4Rebel Archie: wanna be a jedi like me?
+[Thu Jan 09 19:11:10 2014]  say: Jan: yes kyle?
+[Thu Jan 09 19:11:12 2014]  say: Jan: YE
+[Thu Jan 09 19:11:14 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 19:11:19 2014]  say: ^4Rebel Archie: stay here
+[Thu Jan 09 19:11:34 2014]  say: ^4Rebel Archie: here lightsaber!
+[Thu Jan 09 19:11:43 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 19:11:46 2014]  say: ^4Rebel Archie: lest do some duels
+[Thu Jan 09 19:12:01 2014]  say: ^4Rebel Archie: ill train u 
+[Thu Jan 09 19:12:02 2014]  say: ^4Rebel Archie: the
+[Thu Jan 09 19:12:04 2014]  ClientBegin: 2
+[Thu Jan 09 19:12:10 2014]  say: ^4Rebel Archie: ataru form
+[Thu Jan 09 19:12:13 2014]  say: ^4Rebel Archie: its this
+[Thu Jan 09 19:12:14 2014]  say: ^8Darth ^3Javimetal: hola
+[Thu Jan 09 19:12:17 2014]  say: ^4Rebel Archie: su
+[Thu Jan 09 19:12:18 2014]  say: ^4Rebel Archie: sup
+[Thu Jan 09 19:12:19 2014]  say: Jan: HI
+[Thu Jan 09 19:12:35 2014]  say: ^4Rebel Archie: that was ataru
+[Thu Jan 09 19:12:42 2014]  say: ^4Rebel Archie: now shien
+[Thu Jan 09 19:12:46 2014]  say: ^4Rebel Archie: fire me
+[Thu Jan 09 19:12:56 2014]  say: ^4Rebel Archie: with blaster rifle
+[Thu Jan 09 19:13:23 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 19:13:27 2014]  say: ^4Rebel Archie: now bowcaster
+[Thu Jan 09 19:13:46 2014]  say: ^4Rebel Archie: now
+[Thu Jan 09 19:13:48 2014]  say: ^4Rebel Archie: sniper
+[Thu Jan 09 19:13:59 2014]  say: ^4Rebel Archie: now disruptor
+[Thu Jan 09 19:14:30 2014]  Kill: 2 2 39: ^8Darth ^3Javimetal killed ^8Darth ^3Javimetal by MOD_SUICIDE
+[Thu Jan 09 19:14:30 2014]  setteam:  2 FREE SPECTATOR
+[Thu Jan 09 19:14:30 2014]  ClientBegin: 2
+[Thu Jan 09 19:14:30 2014]  say: ^4Rebel Archie: ok now
+[Thu Jan 09 19:14:43 2014]  setteam:  2 SPECTATOR FREE
+[Thu Jan 09 19:14:43 2014]  ClientBegin: 2
+[Thu Jan 09 19:15:08 2014]  say: ^4Rebel Archie: hey jave
+[Thu Jan 09 19:15:13 2014]  say: ^8Darth ^3Javimetal: hey
+[Thu Jan 09 19:15:16 2014]  say: ^4Rebel Archie: u can wacht us we do again story XD
+[Thu Jan 09 19:15:22 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 19:15:23 2014]  say: ^4Rebel Archie: jan
+[Thu Jan 09 19:15:24 2014]  say: ^8Darth ^3Javimetal: xD
+[Thu Jan 09 19:15:27 2014]  say: ^4Rebel Archie: that was shien from
+[Thu Jan 09 19:15:30 2014]  say: ^4Rebel Archie: form*
+[Thu Jan 09 19:15:32 2014]  say: ^4Rebel Archie: now the
+[Thu Jan 09 19:15:35 2014]  say: ^4Rebel Archie: makashi
+[Thu Jan 09 19:15:39 2014]  say: ^4Rebel Archie: duel me
+[Thu Jan 09 19:16:03 2014]  say: ^4Rebel Archie: its an form for jedi duel
+[Thu Jan 09 19:16:20 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 19:16:22 2014]  say: ^4Rebel Archie: last one
+[Thu Jan 09 19:16:27 2014]  say: ^4Rebel Archie: juyo
+[Thu Jan 09 19:16:36 2014]  say: ^4Rebel Archie: its 2 sabers were going to do that later
+[Thu Jan 09 19:16:40 2014]  say: ^4Rebel Archie: now fight me
+[Thu Jan 09 19:16:49 2014]  say: Jan: mercy im girl
+[Thu Jan 09 19:17:09 2014]  say: ^4Rebel Archie: u still dont know shien
+[Thu Jan 09 19:17:11 2014]  say: ^4Rebel Archie: try again
+[Thu Jan 09 19:17:28 2014]  say: ^4Rebel Archie: shien is not that form
+[Thu Jan 09 19:17:35 2014]  say: ^4Rebel Archie: jave pleas no here
+[Thu Jan 09 19:17:51 2014]  say: ^4Rebel Archie: a rancor rly ?
+[Thu Jan 09 19:17:59 2014]  say: ^4Rebel Archie: please gtfo :D
+[Thu Jan 09 19:18:21 2014]  say: ^4Rebel Archie: omg when someone comes know only to annoy ;?
+[Thu Jan 09 19:18:24 2014]  say: ^4Rebel Archie: :/*
+[Thu Jan 09 19:18:29 2014]  Kill: 1 1 39: Jan killed Jan by MOD_SUICIDE
+[Thu Jan 09 19:18:34 2014]  say: ^8Darth ^3Javimetal: :D
+[Thu Jan 09 19:18:35 2014]  say: Jan: dafuq hes retard
+[Thu Jan 09 19:18:39 2014]  say: ^4Rebel Archie: ik
+[Thu Jan 09 19:18:46 2014]  say: ^4Rebel Archie: all of them are like this :/
+[Thu Jan 09 19:18:48 2014]  tell: Jan to ^4Rebel Archie: come spawn
+[Thu Jan 09 19:18:50 2014]  say: ^8Darth ^3Javimetal: no, im a troll ;D
+[Thu Jan 09 19:18:50 2014]  Kill: 1 1 39: Jan killed Jan by MOD_SUICIDE
+[Thu Jan 09 19:18:54 2014]  say: Jan: no u a kid
+[Thu Jan 09 19:18:54 2014]  say: ^8Darth ^3Javimetal: and i trolling u
+[Thu Jan 09 19:19:01 2014]  say: ^8Darth ^3Javimetal: haahahha no, im not a kid
+[Thu Jan 09 19:19:05 2014]  say: Jan: ye u are
+[Thu Jan 09 19:19:08 2014]  say: ^4Rebel Archie: yes u are :D
+[Thu Jan 09 19:19:10 2014]  say: ^8Darth ^3Javimetal: pls dont cry,ok?
+[Thu Jan 09 19:19:16 2014]  say: Jan: u saying cry ahahahah
+[Thu Jan 09 19:19:17 2014]  say: ^4Rebel Archie: nah maybe u :D
+[Thu Jan 09 19:19:24 2014]  say: Jan: u so funny
+[Thu Jan 09 19:19:27 2014]  say: ^4Rebel Archie: yeah 
+[Thu Jan 09 19:19:34 2014]  say: ^4Rebel Archie: oh kids :D
+[Thu Jan 09 19:19:42 2014]  Kill: 2 2 39: ^8Darth ^3Javimetal killed ^8Darth ^3Javimetal by MOD_SUICIDE
+[Thu Jan 09 19:19:42 2014]  setteam:  2 FREE SPECTATOR
+[Thu Jan 09 19:19:42 2014]  ClientBegin: 2
+[Thu Jan 09 19:19:45 2014]  say: Jan: 10 years wat u doing in computer?
+[Thu Jan 09 19:20:06 2014]  setteam:  2 SPECTATOR FREE
+[Thu Jan 09 19:20:06 2014]  ClientBegin: 2
+[Thu Jan 09 19:20:08 2014]  tell: ^4Rebel Archie to Jan: where u?
+[Thu Jan 09 19:20:13 2014]  tell: Jan to ^4Rebel Archie: spawn
+[Thu Jan 09 19:20:15 2014]  Kill: 1 1 39: Jan killed Jan by MOD_SUICIDE
+[Thu Jan 09 19:20:26 2014]  Kill: 2 1 3: ^8Darth ^3Javimetal killed Jan by MOD_SABER
+[Thu Jan 09 19:20:29 2014]  say: ^8Darth ^3Javimetal: easy
+[Thu Jan 09 19:20:37 2014]  say: Jan: JUST QQ
+[Thu Jan 09 19:20:46 2014]  say: ^4Rebel Archie: just ignore the kid
+[Thu Jan 09 19:21:03 2014]  say: ^4Rebel Archie: do duel with no /god
+[Thu Jan 09 19:21:12 2014]  tell: Jan to ^4Rebel Archie: how ignore the bitch
+[Thu Jan 09 19:21:22 2014]  tell: ^4Rebel Archie to Jan: do 1 duel and i tell u
+[Thu Jan 09 19:21:22 2014]  say: ^8Darth ^3Javimetal: ok, accept
+[Thu Jan 09 19:21:31 2014]  say: ^8Darth ^3Javimetal: come on
+[Thu Jan 09 19:21:41 2014]  tell: ^4Rebel Archie to Jan: 
+[Thu Jan 09 19:21:49 2014]  tell: ^4Rebel Archie to Jan: try /ignore javi?
+[Thu Jan 09 19:21:52 2014]  say: ^8Darth ^3Javimetal: u win me and i leave
+[Thu Jan 09 19:21:58 2014]  tell: Jan to ^8Darth ^3Javimetal: doest work
+[Thu Jan 09 19:22:01 2014]  say: ^4Rebel Archie: nah
+[Thu Jan 09 19:22:04 2014]  say: ^4Rebel Archie: u troll :D
+[Thu Jan 09 19:22:29 2014]  say: Jan: this guy want duel with me in this fake mod
+[Thu Jan 09 19:22:38 2014]  say: ^4Rebel Archie: just ignore him
+[Thu Jan 09 19:22:50 2014]  tell: Jan to ^4Rebel Archie: come boss
+[Thu Jan 09 19:22:54 2014]  say: Jan: ok?
+[Thu Jan 09 19:22:55 2014]  tell: ^4Rebel Archie to Jan: nah
+[Thu Jan 09 19:22:59 2014]  say: Jan: why
+[Thu Jan 09 19:23:05 2014]  say: ^4Rebel Archie: dont like it
+[Thu Jan 09 19:23:11 2014]  say: Jan: o_o?
+[Thu Jan 09 19:23:20 2014]  say: ^4Rebel Archie: yep no one knows me 
+[Thu Jan 09 19:23:24 2014]  say: ^4Rebel Archie: so i dont go
+[Thu Jan 09 19:23:27 2014]  tell: Jan to ^4Rebel Archie: come back to hme
+[Thu Jan 09 19:23:55 2014]  tell: Jan to ^4Rebel Archie: just build lol
+[Thu Jan 09 19:24:15 2014]  tell: ^4Rebel Archie to Jan: 1 duel i wanna see how good is ur training
+[Thu Jan 09 19:24:44 2014]  say: Jan: do u have eyes?
+[Thu Jan 09 19:25:35 2014]  say: ^4Rebel Archie: lol look
+[Thu Jan 09 19:25:45 2014]  say: Jan: TREZOR
+[Thu Jan 09 19:25:47 2014]  say: Jan: WAIT
+[Thu Jan 09 19:25:49 2014]  say: Jan: DONT REMOVE IT
+[Thu Jan 09 19:26:38 2014]  say: ^4Rebel Archie: wat
+[Thu Jan 09 19:26:39 2014]  say: ^4Rebel Archie: ?
+[Thu Jan 09 19:26:45 2014]  say: Jan: REMOVE 
+[Thu Jan 09 19:27:14 2014]  say: ^4Rebel Archie: lol!
+[Thu Jan 09 19:27:28 2014]  say: Jan: ?
+[Thu Jan 09 19:27:42 2014]  say: Jan: WHERE SHIP
+[Thu Jan 09 19:27:49 2014]  say: Jan: OH
+[Thu Jan 09 19:28:27 2014]  say: Jan: KAJLÙ
+[Thu Jan 09 19:29:29 2014]  say: Jan: SEC
+[Thu Jan 09 19:29:32 2014]  say: Jan: ILL BE BACK
+[Thu Jan 09 19:29:33 2014]  say: Jan: OK?
+[Thu Jan 09 19:29:38 2014]  say: ^4Rebel Archie: ok
+[Thu Jan 09 19:29:43 2014]  ClientDisconnect: 1
+[Thu Jan 09 19:37:22 2014]  ClientDisconnect: 0
+[Thu Jan 09 19:39:30 2014]  ClientDisconnect: 2
+[Thu Jan 09 20:43:18 2014]  Exit: Timelimit hit.
+[Fri Jan 10 13:57:23 2014]  ClientConnect: 0
+[Fri Jan 10 13:57:23 2014]  mlog:Player Padawan, connected. With IP - 79.117.29.7:29070 
+[Fri Jan 10 13:58:00 2014]  ClientBegin: 0
+[Fri Jan 10 13:58:10 2014]  ShutdownGame:
+[Fri Jan 10 13:58:10 2014]  ------------------------------------------------------------

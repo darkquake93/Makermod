@@ -1,0 +1,499 @@
+[Tue Aug 16 23:23:52 2016]  ------------------------------------------------------------
+[Tue Aug 16 23:23:52 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Aug 17 13:26:56 2016]  ClientConnect: 0
+[Wed Aug 17 13:26:56 2016]  mlog:Player ^0C^1r^0a^1b, connected. With IP - 85.132.196.210:29070 
+[Wed Aug 17 13:27:12 2016]  ClientBegin: 0
+[Wed Aug 17 13:33:06 2016]  ClientConnect: 1
+[Wed Aug 17 13:33:06 2016]  mlog:Player kosher, connected. With IP - 91.230.25.125:29070 
+[Wed Aug 17 13:33:50 2016]  ClientBegin: 1
+[Wed Aug 17 13:34:34 2016]  say: ^0C^1r^0a^1b: hi
+[Wed Aug 17 13:35:19 2016]  say: kosher: rus?
+[Wed Aug 17 13:35:24 2016]  say: ^0C^1r^0a^1b: no
+[Wed Aug 17 13:35:30 2016]  say: kosher: wy
+[Wed Aug 17 13:35:31 2016]  say: kosher: why
+[Wed Aug 17 13:35:40 2016]  say: ^0C^1r^0a^1b: i dont speak russian
+[Wed Aug 17 13:36:27 2016]  Item: 0 ammo_all
+[Wed Aug 17 13:37:07 2016]  say: kosher: lol
+[Wed Aug 17 13:37:18 2016]  say: kosher: what this
+[Wed Aug 17 13:37:25 2016]  say: ^0C^1r^0a^1b: you can build anything here
+[Wed Aug 17 13:37:41 2016]  say: kosher: 2 much of bones
+[Wed Aug 17 13:37:58 2016]  say: ^0C^1r^0a^1b: jet fight ?
+[Wed Aug 17 13:38:02 2016]  say: kosher: ?
+[Wed Aug 17 13:38:19 2016]  say: kosher: what is jet fight
+[Wed Aug 17 13:38:23 2016]  say: ^0C^1r^0a^1b: come her
+[Wed Aug 17 13:38:58 2016]  say: ^0C^1r^0a^1b: moce
+[Wed Aug 17 13:39:01 2016]  say: ^0C^1r^0a^1b: move
+[Wed Aug 17 13:39:43 2016]  say: ^0C^1r^0a^1b: first space than W and with mouse you control
+[Wed Aug 17 13:39:49 2016]  say: kosher: yes
+[Wed Aug 17 13:40:00 2016]  say: ^0C^1r^0a^1b: my jet is blocked need to spawn new
+[Wed Aug 17 13:40:38 2016]  Kill: 1022 1 6: <world> killed kosher by MOD_BLASTER
+[Wed Aug 17 13:41:20 2016]  Kill: 1022 1 39: <world> killed kosher by MOD_SUICIDE
+[Wed Aug 17 13:42:34 2016]  Kill: 1022 1 6: <world> killed kosher by MOD_BLASTER
+[Wed Aug 17 13:42:34 2016]  Kill: 1022 0 6: <world> killed ^0C^1r^0a^1b by MOD_BLASTER
+[Wed Aug 17 13:42:42 2016]  say: ^0C^1r^0a^1b: shoot with mouse
+[Wed Aug 17 13:43:34 2016]  Kill: 0 1 29: ^0C^1r^0a^1b killed kosher by MOD_CONC
+[Wed Aug 17 13:47:54 2016]  Kill: 0 1 6: ^0C^1r^0a^1b killed kosher by MOD_BLASTER
+[Wed Aug 17 13:49:08 2016]  Kill: 1022 0 6: <world> killed ^0C^1r^0a^1b by MOD_BLASTER
+[Wed Aug 17 13:49:13 2016]  Kill: 1022 1 38: <world> killed kosher by MOD_FALLING
+[Wed Aug 17 13:50:21 2016]  ClientDisconnect: 1
+[Wed Aug 17 13:52:49 2016]  Kill: 0 0 39: ^0C^1r^0a^1b killed ^0C^1r^0a^1b by MOD_SUICIDE
+[Wed Aug 17 13:53:56 2016]  Kill: 1022 0 2: <world> killed ^0C^1r^0a^1b by MOD_MELEE
+[Wed Aug 17 13:54:08 2016]  Kill: 1022 0 36: <world> killed ^0C^1r^0a^1b by MOD_CRUSH
+[Wed Aug 17 13:54:35 2016]  ClientDisconnect: 0
+[Wed Aug 17 14:29:25 2016]  ClientConnect: 0
+[Wed Aug 17 14:29:25 2016]  mlog:Player ^0C^1r^0a^1b, connected. With IP - 85.132.196.210:29070 
+[Wed Aug 17 14:29:44 2016]  ClientBegin: 0
+[Wed Aug 17 14:30:01 2016]  ClientDisconnect: 0
+[Wed Aug 17 15:47:59 2016]  ClientConnect: 0
+[Wed Aug 17 15:47:59 2016]  mlog:Player ^0C^1r^0a^1b, connected. With IP - 85.132.196.210:29070 
+[Wed Aug 17 15:48:06 2016]  ClientConnect: 1
+[Wed Aug 17 15:48:06 2016]  mlog:Player Shock, connected. With IP - 90.178.200.30:29070 
+[Wed Aug 17 15:48:15 2016]  ClientBegin: 0
+[Wed Aug 17 15:48:32 2016]  ClientBegin: 1
+[Wed Aug 17 15:48:43 2016]  Kill: 1022 1 2: <world> killed Padawan by MOD_MELEE
+[Wed Aug 17 15:48:48 2016]  Kill: 1022 0 2: <world> killed ^0C^1r^0a^1b by MOD_MELEE
+[Wed Aug 17 15:48:59 2016]  Kill: 1 0 37: Padawan killed ^0C^1r^0a^1b by MOD_TELEFRAG
+[Wed Aug 17 15:51:03 2016]  say: Padawan: giveall
+[Wed Aug 17 15:51:18 2016]  print "Padawan^7 @@@PLRENAME Shock
+"[Wed Aug 17 15:52:41 2016]  Kill: 1022 0 2: <world> killed ^0C^1r^0a^1b by MOD_MELEE
+[Wed Aug 17 15:52:50 2016]  say: Shock: npc
+[Wed Aug 17 15:53:02 2016]  say: Shock: t
+[Wed Aug 17 15:53:04 2016]  Item: 1 ammo_all
+[Wed Aug 17 15:53:05 2016]  Item: 1 ammo_all
+[Wed Aug 17 15:53:21 2016]  Kill: 1022 1 6: <world> killed Shock by MOD_BLASTER
+[Wed Aug 17 15:53:41 2016]  say: Shock: npc kill all
+[Wed Aug 17 15:54:09 2016]  Kill: 1022 1 2: <world> killed Shock by MOD_MELEE
+[Wed Aug 17 15:54:46 2016]  Kill: 1022 1 2: <world> killed Shock by MOD_MELEE
+[Wed Aug 17 15:55:47 2016]  Kill: 1022 1 2: <world> killed Shock by MOD_MELEE
+[Wed Aug 17 15:55:53 2016]  Kill: 0 0 29: ^0C^1r^0a^1b killed ^0C^1r^0a^1b by MOD_CONC
+[Wed Aug 17 15:56:17 2016]  Kill: 1022 1 2: <world> killed Shock by MOD_MELEE
+[Wed Aug 17 15:57:57 2016]  Kill: 0 1 3: ^0C^1r^0a^1b killed Shock by MOD_SABER
+[Wed Aug 17 15:59:18 2016]  Kill: 1022 1 6: <world> killed Shock by MOD_BLASTER
+[Wed Aug 17 15:59:21 2016]  Kill: 1022 0 6: <world> killed ^0C^1r^0a^1b by MOD_BLASTER
+[Wed Aug 17 15:59:40 2016]  Kill: 1022 1 2: <world> killed Shock by MOD_MELEE
+[Wed Aug 17 15:59:50 2016]  Kill: 1022 0 2: <world> killed ^0C^1r^0a^1b by MOD_MELEE
+[Wed Aug 17 16:00:15 2016]  Kill: 1022 1 6: <world> killed Shock by MOD_BLASTER
+[Wed Aug 17 16:00:50 2016]  ClientDisconnect: 1
+[Wed Aug 17 16:00:55 2016]  Kill: 1022 0 6: <world> killed ^0C^1r^0a^1b by MOD_BLASTER
+[Wed Aug 17 16:00:56 2016]  ClientDisconnect: 0
+[Wed Aug 17 19:50:08 2016]  ClientConnect: 0
+[Wed Aug 17 19:50:08 2016]  mlog:Player ^1Eminem, connected. With IP - 178.206.122.224:29071 
+[Wed Aug 17 19:50:34 2016]  ClientDisconnect: 0
+[Wed Aug 17 19:50:34 2016]  ClientConnect: 0
+[Wed Aug 17 19:50:34 2016]  mlog:Player ^1Eminem, connected. With IP - 178.206.122.224:29071 
+[Wed Aug 17 19:51:10 2016]  ClientConnect: 1
+[Wed Aug 17 19:51:10 2016]  mlog:Player ^1Eminem, connected. With IP - 178.206.122.224:29070 
+[Wed Aug 17 19:51:39 2016]  ClientDisconnect: 1
+[Wed Aug 17 19:51:39 2016]  ClientConnect: 1
+[Wed Aug 17 19:51:39 2016]  mlog:Player ^1Eminem, connected. With IP - 178.206.122.224:29070 
+[Wed Aug 17 19:51:46 2016]  ClientDisconnect: 1
+[Wed Aug 17 19:51:46 2016]  ClientConnect: 1
+[Wed Aug 17 19:51:46 2016]  mlog:Player ^1Eminem, connected. With IP - 178.206.122.224:29070 
+[Wed Aug 17 19:52:57 2016]  ClientDisconnect: 1
+[Wed Aug 17 19:52:57 2016]  ClientConnect: 1
+[Wed Aug 17 19:52:57 2016]  mlog:Player ^0loa^1.^0luc^1!^0fa, connected. With IP - 178.206.122.224:29070 
+[Wed Aug 17 19:53:15 2016]  ClientConnect: 2
+[Wed Aug 17 19:53:15 2016]  mlog:Player ^0T^50PSKIY ^5P^0AVEL, connected. With IP - 93.100.5.72:29070 
+[Wed Aug 17 19:53:31 2016]  ClientBegin: 1
+[Wed Aug 17 19:53:34 2016]  ClientBegin: 2
+[Wed Aug 17 19:53:36 2016]  Kill: 1022 1 2: <world> killed ^0loa^1.^0lucifa by MOD_MELEE
+[Wed Aug 17 19:53:44 2016]  say: ^0loa^1.^0lucifa: blya ya ne mogu s akka Eminem zaiti
+[Wed Aug 17 19:54:01 2016]  ClientDisconnect: 0
+[Wed Aug 17 19:54:04 2016]  ClientConnect: 0
+[Wed Aug 17 19:54:04 2016]  mlog:Player Worden, connected. With IP - 178.206.122.224:29071 
+[Wed Aug 17 19:54:04 2016]  say: ^6^^0Savage^1<3^6^^03sl: nado eshe makermod skochat
+[Wed Aug 17 19:54:10 2016]  say: ^6^^0Savage^1<3^6^^03sl: a chto s pingom
+[Wed Aug 17 19:54:10 2016]  say: ^0loa^1.^0lucifa: skachat'*
+[Wed Aug 17 19:54:13 2016]  say: ^6^^0Savage^1<3^6^^03sl: dada
+[Wed Aug 17 19:54:15 2016]  say: ^6^^0Savage^1<3^6^^03sl: skochat
+[Wed Aug 17 19:54:27 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Wed Aug 17 19:54:29 2016]  say: ^0loa^1.^0lucifa: da blyat
+[Wed Aug 17 19:54:32 2016]  say: ^6^^0Savage^1<3^6^^03sl: pochemu ping bolshoyt
+[Wed Aug 17 19:54:34 2016]  say: ^0loa^1.^0lucifa: hule ya zaiti ne mogu
+[Wed Aug 17 19:54:37 2016]  say: ^0loa^1.^0lucifa: heze
+[Wed Aug 17 19:54:46 2016]  say: ^0loa^1.^0lucifa: ti v zalupinske zivesh navernoe
+[Wed Aug 17 19:54:53 2016]  say: ^6^^0Savage^1<3^6^^03sl: spb
+[Wed Aug 17 19:54:57 2016]  say: ^6^^0Savage^1<3^6^^03sl: ((
+[Wed Aug 17 19:55:12 2016]  Kill: 2 1 5: ^6^^0Savage^1<3^6^^03sl killed ^0loa^1.^0lucifa by MOD_BRYAR_PISTOL_ALT
+[Wed Aug 17 19:55:21 2016]  say: ^6^^0Savage^1<3^6^^03sl: nado zvat'
+[Wed Aug 17 19:55:24 2016]  say: ^6^^0Savage^1<3^6^^03sl: narod
+[Wed Aug 17 19:55:30 2016]  say: ^0loa^1.^0lucifa: +
+[Wed Aug 17 19:55:31 2016]  say: ^6^^0Savage^1<3^6^^03sl: i zavtra igrat
+[Wed Aug 17 19:55:37 2016]  say: ^6^^0Savage^1<3^6^^03sl: y tebya je est' svyazi
+[Wed Aug 17 19:55:39 2016]  say: ^0loa^1.^0lucifa: mi segodnya hoteli vsevmeste
+[Wed Aug 17 19:55:49 2016]  say: ^0loa^1.^0lucifa: no chet vse razbejalis'
+[Wed Aug 17 19:55:50 2016]  say: ^6^^0Savage^1<3^6^^03sl: nu blyat pizdec 156 ping
+[Wed Aug 17 19:56:01 2016]  Kill: 1022 2 39: <world> killed ^6^^0Savage^1<3^6^^03sl by MOD_SUICIDE
+[Wed Aug 17 19:56:01 2016]  Kill: 1022 1 39: <world> killed ^0loa^1.^0lucifa by MOD_SUICIDE
+[Wed Aug 17 19:56:02 2016]  ClientDisconnect: 0
+[Wed Aug 17 19:56:02 2016]  ClientConnect: 0
+[Wed Aug 17 19:56:02 2016]  mlog:Player Worden, connected. With IP - 178.206.122.224:29071 
+[Wed Aug 17 19:56:03 2016]  Kill: 1 2 37: ^0loa^1.^0lucifa killed ^6^^0Savage^1<3^6^^03sl by MOD_TELEFRAG
+[Wed Aug 17 19:56:06 2016]  say: ^0loa^1.^0lucifa: ^5=^7D
+[Wed Aug 17 19:56:21 2016]  say: ^0loa^1.^0lucifa: blyat hule ne zahodit
+[Wed Aug 17 19:56:23 2016]  Kill: 2 1 3: ^6^^0Savage^1<3^6^^03sl killed ^0loa^1.^0lucifa by MOD_SABER
+[Wed Aug 17 19:56:47 2016]  say: ^0loa^1.^0lucifa: sha sec komp perezagruju
+[Wed Aug 17 19:56:50 2016]  say: ^0loa^1.^0lucifa: podojdesh?
+[Wed Aug 17 19:56:53 2016]  say: ^6^^0Savage^1<3^6^^03sl: da
+[Wed Aug 17 19:56:55 2016]  ClientDisconnect: 1
+[Wed Aug 17 19:58:33 2016]  Kill: 1022 2 39: <world> killed ^6^^0Savage^1<3^6^^03sl by MOD_SUICIDE
+[Wed Aug 17 19:58:52 2016]  Kill: 1022 2 39: <world> killed ^6^^0Savage^1<3^6^^03sl by MOD_SUICIDE
+[Wed Aug 17 19:59:29 2016]  ClientDisconnect: 0
+[Wed Aug 17 20:03:04 2016]  ClientConnect: 0
+[Wed Aug 17 20:03:04 2016]  mlog:Player ^1Eminem, connected. With IP - 178.206.122.224:29070 
+[Wed Aug 17 20:03:19 2016]  ClientBegin: 0
+[Wed Aug 17 20:03:21 2016]  say: ^1Eminem: ^1Elegantniy hod, pijon blya.
+[Wed Aug 17 20:03:25 2016]  say: ^1Eminem: kakogo huya
+[Wed Aug 17 20:03:31 2016]  say: ^6^^0Savage^1<3^6^^03sl: :ddd
+[Wed Aug 17 20:03:37 2016]  say: ^1Eminem: u menya vse bindi sbilis'
+[Wed Aug 17 20:03:39 2016]  Kill: 1022 0 38: <world> killed ^1Eminem by MOD_FALLING
+[Wed Aug 17 20:03:40 2016]  say: ^1Eminem: xD
+[Wed Aug 17 20:03:43 2016]  say: ^1Eminem: ^5=^7D
+[Wed Aug 17 20:03:45 2016]  say: ^1Eminem: ^1Elegantniy hod, pijon blya.
+[Wed Aug 17 20:03:45 2016]  say: ^6^^0Savage^1<3^6^^03sl: a y tebya netu cfg
+[Wed Aug 17 20:03:46 2016]  say: ^1Eminem: ^5=^7D
+[Wed Aug 17 20:03:47 2016]  say: ^1Eminem: ^1Elegantniy hod, pijon blya.
+[Wed Aug 17 20:03:48 2016]  say: ^1Eminem: ^5=^7D
+[Wed Aug 17 20:03:48 2016]  say: ^1Eminem: ^1Elegantniy hod, pijon blya.
+[Wed Aug 17 20:03:49 2016]  say: ^1Eminem: ^5=^7D
+[Wed Aug 17 20:03:49 2016]  say: ^1Eminem: ^1Elegantniy hod, pijon blya.
+[Wed Aug 17 20:03:50 2016]  say: ^1Eminem: vsm
+[Wed Aug 17 20:03:57 2016]  say: ^6^^0Savage^1<3^6^^03sl: na vosstanovlenie
+[Wed Aug 17 20:03:57 2016]  say: ^1Eminem: nea
+[Wed Aug 17 20:03:59 2016]  say: ^1Eminem: ya ne delal write
+[Wed Aug 17 20:04:07 2016]  say: ^1Eminem: nu bleeadad
+[Wed Aug 17 20:04:07 2016]  say: ^6^^0Savage^1<3^6^^03sl: ti dcp?
+[Wed Aug 17 20:04:10 2016]  say: ^1Eminem: net
+[Wed Aug 17 20:04:13 2016]  say: ^1Eminem: prosto zabil
+[Wed Aug 17 20:04:18 2016]  say: ^1Eminem: a mb i delal
+[Wed Aug 17 20:04:20 2016]  Kill: 1022 0 38: <world> killed ^1Eminem by MOD_FALLING
+[Wed Aug 17 20:04:20 2016]  say: ^1Eminem: sha posmotriu
+[Wed Aug 17 20:04:25 2016]  ClientDisconnect: 0
+[Wed Aug 17 20:04:53 2016]  Kill: 1022 2 2: <world> killed ^6^^0Savage^1<3^6^^03sl by MOD_MELEE
+[Wed Aug 17 20:04:58 2016]  ClientConnect: 0
+[Wed Aug 17 20:04:58 2016]  mlog:Player Worden, connected. With IP - 178.206.122.224:29070 
+[Wed Aug 17 20:05:15 2016]  ClientBegin: 0
+[Wed Aug 17 20:05:17 2016]  say: ^1Eminem: ^1Elegantniy hod, pijon blya.
+[Wed Aug 17 20:05:18 2016]  say: ^1Eminem: ^1loh sud'ba, sud'ba loh
+[Wed Aug 17 20:05:21 2016]  say: ^1Eminem: blyat
+[Wed Aug 17 20:05:27 2016]  say: ^1Eminem: la
+[Wed Aug 17 20:05:31 2016]  say: ^1Eminem: zanogo pridets
+[Wed Aug 17 20:05:41 2016]  say: ^6^^0Savage^1<3^6^^03sl: bindi makermoda?
+[Wed Aug 17 20:05:51 2016]  say: ^1Eminem: nu chto
+[Wed Aug 17 20:05:54 2016]  say: ^1Eminem: s chego nachnem
+[Wed Aug 17 20:05:57 2016]  say: ^1Eminem: za mnoi leti
+[Wed Aug 17 20:06:02 2016]  say: ^6^^0Savage^1<3^6^^03sl: ya maker
+[Wed Aug 17 20:06:03 2016]  say: ^6^^0Savage^1<3^6^^03sl: skachayu
+[Wed Aug 17 20:06:06 2016]  say: ^6^^0Savage^1<3^6^^03sl: 1min
+[Wed Aug 17 20:06:09 2016]  say: ^1Eminem: davay
+[Wed Aug 17 20:06:09 2016]  ClientDisconnect: 2
+[Wed Aug 17 20:06:43 2016]  ClientConnect: 1
+[Wed Aug 17 20:06:43 2016]  mlog:Player ^6^^0Savage^1<3^6^^03sl, connected. With IP - 93.100.5.72:29070 
+[Wed Aug 17 20:07:03 2016]  ClientBegin: 1
+[Wed Aug 17 20:07:19 2016]  print "^6^^0Savage^1<3^6^^03sl^7 @@@PLRENAME ^1T0PSKIY ^5PAVEL
+"[Wed Aug 17 20:08:20 2016]  Kill: 0 0 39: ^1Eminem killed ^1Eminem by MOD_SUICIDE
+[Wed Aug 17 20:08:26 2016]  say: ^1Eminem: za mnoy
+[Wed Aug 17 20:08:55 2016]  say: ^1Eminem: blya biree
+[Wed Aug 17 20:09:01 2016]  say: ^1Eminem: /noclip
+[Wed Aug 17 20:09:05 2016]  say: ^1T0PSKIY ^5PAVEL: KEKE
+[Wed Aug 17 20:09:15 2016]  Kill: 1 1 39: ^1T0PSKIY ^5PAVEL killed ^1T0PSKIY ^5PAVEL by MOD_SUICIDE
+[Wed Aug 17 20:09:44 2016]  say: ^1Eminem: eto moe :3
+[Wed Aug 17 20:10:03 2016]  say: ^1T0PSKIY ^5PAVEL: hui jopa
+[Wed Aug 17 20:10:06 2016]  say: ^1Eminem: bb
+[Wed Aug 17 20:10:08 2016]  say: ^1T0PSKIY ^5PAVEL: a kak turret delat
+[Wed Aug 17 20:10:19 2016]  say: ^1T0PSKIY ^5PAVEL: ti uhodish?
+[Wed Aug 17 20:10:24 2016]  say: ^1Eminem: hui jopa je
+[Wed Aug 17 20:10:30 2016]  say: ^1T0PSKIY ^5PAVEL: :Dddd
+[Wed Aug 17 20:10:36 2016]  say: ^1Eminem: vot eshe
+[Wed Aug 17 20:10:55 2016]  say: ^1Eminem: tipa ''secret room''
+[Wed Aug 17 20:11:07 2016]  say: ^1T0PSKIY ^5PAVEL: gdi
+[Wed Aug 17 20:11:11 2016]  say: ^1Eminem: za mnoy
+[Wed Aug 17 20:11:30 2016]  say: ^1T0PSKIY ^5PAVEL: secret
+[Wed Aug 17 20:11:32 2016]  say: ^1T0PSKIY ^5PAVEL: )))
+[Wed Aug 17 20:11:32 2016]  say: ^1Eminem: XD
+[Wed Aug 17 20:11:39 2016]  say: ^1T0PSKIY ^5PAVEL: znaesh koroch
+[Wed Aug 17 20:11:43 2016]  say: ^1Eminem: ti skachal ?
+[Wed Aug 17 20:11:44 2016]  say: ^1T0PSKIY ^5PAVEL: imperskuyu pushku bolshuyu
+[Wed Aug 17 20:11:46 2016]  say: ^1T0PSKIY ^5PAVEL: dada
+[Wed Aug 17 20:11:53 2016]  say: ^1Eminem: tak naidi sam
+[Wed Aug 17 20:11:57 2016]  say: ^1Eminem: u tebya ona je est
+[Wed Aug 17 20:11:59 2016]  say: ^1T0PSKIY ^5PAVEL: ona ne strelyaet
+[Wed Aug 17 20:12:03 2016]  say: ^1Eminem: ya znaiu
+[Wed Aug 17 20:12:06 2016]  say: ^1T0PSKIY ^5PAVEL: v etom to i prikol
+[Wed Aug 17 20:12:07 2016]  say: ^1Eminem: eto model'ka
+[Wed Aug 17 20:12:09 2016]  say: ^1T0PSKIY ^5PAVEL: a doljna
+[Wed Aug 17 20:12:12 2016]  say: ^1Eminem: aa
+[Wed Aug 17 20:12:15 2016]  say: ^1T0PSKIY ^5PAVEL: ya ne pomnu komandu
+[Wed Aug 17 20:12:21 2016]  say: ^1Eminem: /help
+[Wed Aug 17 20:12:25 2016]  say: ^1Eminem: /help wip
+[Wed Aug 17 20:13:14 2016]  say: ^1Eminem: lol
+[Wed Aug 17 20:13:20 2016]  say: ^1T0PSKIY ^5PAVEL: tebe toje pishet
+[Wed Aug 17 20:13:21 2016]  say: ^1Eminem: ti vidish chto v konsoli?
+[Wed Aug 17 20:13:23 2016]  say: ^1T0PSKIY ^5PAVEL: dada
+[Wed Aug 17 20:13:24 2016]  say: ^1Eminem: flood
+[Wed Aug 17 20:13:35 2016]  say: ^1Eminem: idi stroit'
+[Wed Aug 17 20:13:38 2016]  say: ^1Eminem: ili mb kartu smenim
+[Wed Aug 17 20:13:47 2016]  say: ^1T0PSKIY ^5PAVEL: hz
+[Wed Aug 17 20:13:50 2016]  say: ^1T0PSKIY ^5PAVEL: na kakuyu
+[Wed Aug 17 20:14:01 2016]  say: ^1Eminem: seige kakuiu nubud'
+[Wed Aug 17 20:14:04 2016]  say: ^1Eminem: tu pustinnuiu
+[Wed Aug 17 20:14:07 2016]  say: ^1Eminem: s rancornom
+[Wed Aug 17 20:14:15 2016]  say: ^1T0PSKIY ^5PAVEL: ne
+[Wed Aug 17 20:14:18 2016]  say: ^1T0PSKIY ^5PAVEL: eto parasha
+[Wed Aug 17 20:14:28 2016]  say: ^1Eminem: ya prosto hz gde tut stroitsya
+[Wed Aug 17 20:14:30 2016]  say: ^1T0PSKIY ^5PAVEL: worden
+[Wed Aug 17 20:14:33 2016]  say: ^1Eminem: as'
+[Wed Aug 17 20:14:37 2016]  say: ^1T0PSKIY ^5PAVEL: ti che blyad
+[Wed Aug 17 20:14:39 2016]  say: ^1Eminem: a
+[Wed Aug 17 20:14:45 2016]  say: ^1Eminem: sho
+[Wed Aug 17 20:14:47 2016]  say: ^1T0PSKIY ^5PAVEL: idi suda
+[Wed Aug 17 20:14:53 2016]  say: ^1Eminem: eto mesto cartera
+[Wed Aug 17 20:14:59 2016]  say: ^1Eminem: oi
+[Wed Aug 17 20:15:03 2016]  say: ^1T0PSKIY ^5PAVEL: :DDDD
+[Wed Aug 17 20:15:17 2016]  say: ^1T0PSKIY ^5PAVEL: a vi igrali uje choli
+[Wed Aug 17 20:15:21 2016]  say: ^1Eminem: daa
+[Wed Aug 17 20:15:25 2016]  say: ^1Eminem: uje kak 4 dnya igraem
+[Wed Aug 17 20:15:27 2016]  say: ^1Eminem: v 2
+[Wed Aug 17 20:15:34 2016]  say: ^1T0PSKIY ^5PAVEL: a pluton
+[Wed Aug 17 20:15:39 2016]  say: ^1Eminem: vchera tol'ko
+[Wed Aug 17 20:15:42 2016]  say: ^1T0PSKIY ^5PAVEL: aaa
+[Wed Aug 17 20:15:52 2016]  say: ^1Eminem: blya
+[Wed Aug 17 20:15:53 2016]  say: ^1T0PSKIY ^5PAVEL: zavtra mb
+[Wed Aug 17 20:15:53 2016]  say: ^1Eminem: nu
+[Wed Aug 17 20:16:01 2016]  say: ^1Eminem: kakoy zavtra
+[Wed Aug 17 20:16:04 2016]  say: ^1Eminem: ya seichas hochu :c
+[Wed Aug 17 20:16:12 2016]  say: ^1Eminem: smotri moi script
+[Wed Aug 17 20:16:15 2016]  say: ^1T0PSKIY ^5PAVEL: ya stroit nicho ne hochu
+[Wed Aug 17 20:16:19 2016]  say: ^1T0PSKIY ^5PAVEL: davya
+[Wed Aug 17 20:16:21 2016]  say: ^1T0PSKIY ^5PAVEL: show me
+[Wed Aug 17 20:16:32 2016]  say: ^1T0PSKIY ^5PAVEL: ?
+[Wed Aug 17 20:16:41 2016]  say: ^1T0PSKIY ^5PAVEL: ayhahaha
+[Wed Aug 17 20:16:42 2016]  say: ^1Eminem: on ne dodelan :D
+[Wed Aug 17 20:16:45 2016]  say: ^1T0PSKIY ^5PAVEL: dom otpravil
+[Wed Aug 17 20:16:47 2016]  say: ^1Eminem: +
+[Wed Aug 17 20:16:52 2016]  say: ^1Eminem: tam mmoveall
+[Wed Aug 17 20:17:03 2016]  say: ^1T0PSKIY ^5PAVEL: on damajit
+[Wed Aug 17 20:17:04 2016]  say: ^1Eminem: nado uron kak to sdelat'
+[Wed Aug 17 20:17:05 2016]  say: ^1T0PSKIY ^5PAVEL: ?
+[Wed Aug 17 20:17:06 2016]  say: ^1Eminem: net
+[Wed Aug 17 20:17:15 2016]  say: ^1Eminem: ya hz kak uron na effecti primenyat
+[Wed Aug 17 20:17:19 2016]  say: ^1T0PSKIY ^5PAVEL: blya ranshe y menya bil top skript
+[Wed Aug 17 20:17:26 2016]  say: ^1T0PSKIY ^5PAVEL: mpain
+[Wed Aug 17 20:17:34 2016]  say: ^1Eminem:  robit kogda mmove
+[Wed Aug 17 20:17:39 2016]  say: ^1Eminem: nuk stoy
+[Wed Aug 17 20:17:44 2016]  say: ^1T0PSKIY ^5PAVEL: delo v tom 
+[Wed Aug 17 20:17:53 2016]  say: ^1Eminem: cho
+[Wed Aug 17 20:17:55 2016]  say: ^1T0PSKIY ^5PAVEL: chto moy skript ubival kogda daje chelik bil v gode
+[Wed Aug 17 20:18:08 2016]  say: ^1Eminem: huya
+[Wed Aug 17 20:18:09 2016]  say: ^1T0PSKIY ^5PAVEL: kamen vozmi
+[Wed Aug 17 20:18:10 2016]  say: ^1Eminem: srsly?
+[Wed Aug 17 20:18:13 2016]  say: ^1Eminem: sec
+[Wed Aug 17 20:18:14 2016]  say: ^1T0PSKIY ^5PAVEL: :dd
+[Wed Aug 17 20:18:15 2016]  say: ^1Eminem: eto test
+[Wed Aug 17 20:19:04 2016]  say: ^1Eminem: ^5=^7D
+[Wed Aug 17 20:19:33 2016]  say: ^1T0PSKIY ^5PAVEL: fura zadrot
+[Wed Aug 17 20:19:43 2016]  say: ^1Eminem: stoi
+[Wed Aug 17 20:19:45 2016]  say: ^1Eminem: na meste
+[Wed Aug 17 20:19:53 2016]  say: ^1Eminem: vwt
+[Wed Aug 17 20:19:55 2016]  say: ^1Eminem: wtf
+[Wed Aug 17 20:19:58 2016]  say: ^1T0PSKIY ^5PAVEL: :ddd
+[Wed Aug 17 20:19:59 2016]  say: ^1Eminem: poch ne damajit :c
+[Wed Aug 17 20:20:06 2016]  say: ^1T0PSKIY ^5PAVEL: potomu chto krutitsya
+[Wed Aug 17 20:20:08 2016]  Kill: 1022 1 36: <world> killed ^1T0PSKIY ^5PAVEL by MOD_CRUSH
+[Wed Aug 17 20:20:09 2016]  say: ^1Eminem: xD
+[Wed Aug 17 20:20:09 2016]  say: ^1T0PSKIY ^5PAVEL: voo
+[Wed Aug 17 20:20:26 2016]  say: ^1Eminem: pochemu on ne krutitsa kogda ya ego derju
+[Wed Aug 17 20:20:42 2016]  say: ^1Eminem: :c
+[Wed Aug 17 20:21:00 2016]  say: ^1T0PSKIY ^5PAVEL: eto mpendulum?
+[Wed Aug 17 20:21:02 2016]  say: ^1Eminem: da
+[Wed Aug 17 20:21:11 2016]  say: ^1Eminem: >:D
+[Wed Aug 17 20:21:14 2016]  say: ^1T0PSKIY ^5PAVEL: fura ne umer eshe ?
+[Wed Aug 17 20:21:21 2016]  say: ^1Eminem: on zahodil nedavno
+[Wed Aug 17 20:21:25 2016]  say: ^1Eminem: mi s nim igrali toje
+[Wed Aug 17 20:21:50 2016]  say: ^1Eminem: oi
+[Wed Aug 17 20:21:56 2016]  say: ^1T0PSKIY ^5PAVEL: snipershot421.exe
+[Wed Aug 17 20:21:57 2016]  say: ^1Eminem: wtf
+[Wed Aug 17 20:21:59 2016]  say: ^1Eminem: xDD
+[Wed Aug 17 20:22:08 2016]  say: ^1Eminem: da blya
+[Wed Aug 17 20:23:19 2016]  say: ^1Eminem: da hule ne damajit
+[Wed Aug 17 20:23:30 2016]  say: ^1T0PSKIY ^5PAVEL: a chto ti vvodish
+[Wed Aug 17 20:23:37 2016]  say: ^1T0PSKIY ^5PAVEL: mpain eto dlya effectov
+[Wed Aug 17 20:23:40 2016]  ClientConnect: 2
+[Wed Aug 17 20:23:40 2016]  mlog:Player kosher, connected. With IP - 91.230.25.125:29070 
+[Wed Aug 17 20:23:41 2016]  say: ^1Eminem: m pendulum 900 100 9999
+[Wed Aug 17 20:23:56 2016]  say: ^1T0PSKIY ^5PAVEL: i che ti hochesh chtobi eto ubivalo tipo?
+[Wed Aug 17 20:24:03 2016]  say: ^1Eminem: sec
+[Wed Aug 17 20:24:27 2016]  ClientBegin: 2
+[Wed Aug 17 20:24:35 2016]  say: kosher: PIZDEC
+[Wed Aug 17 20:24:41 2016]  say: ^1T0PSKIY ^5PAVEL: eto carter?
+[Wed Aug 17 20:24:45 2016]  say: kosher: da
+[Wed Aug 17 20:24:46 2016]  say: ^1Eminem: nea
+[Wed Aug 17 20:24:48 2016]  say: ^1Eminem: tip kakoyto
+[Wed Aug 17 20:24:58 2016]  say: ^1Eminem: on uje 3 raz siuda zahodit i ebet mozgi
+[Wed Aug 17 20:25:44 2016]  say: ^1T0PSKIY ^5PAVEL: che ti delaesh
+[Wed Aug 17 20:25:51 2016]  say: kosher: hujaru atst
+[Wed Aug 17 20:26:00 2016]  say: ^1T0PSKIY ^5PAVEL: konch
+[Wed Aug 17 20:26:08 2016]  say: kosher: ne
+[Wed Aug 17 20:26:22 2016]  say: ^1Eminem: mplacefx noghri_stick/shot
+[Wed Aug 17 20:26:24 2016]  say: ^1Eminem: oi
+[Wed Aug 17 20:26:37 2016]  say: kosher: gde vi
+[Wed Aug 17 20:26:39 2016]  Kill: 2 2 39: kosher killed kosher by MOD_SUICIDE
+[Wed Aug 17 20:26:39 2016]  setteam:  2 FREE SPECTATOR
+[Wed Aug 17 20:26:39 2016]  ClientBegin: 2
+[Wed Aug 17 20:26:42 2016]  say: ^1Eminem: ya ushel ot vas nahooy
+[Wed Aug 17 20:26:45 2016]  setteam:  2 SPECTATOR FREE
+[Wed Aug 17 20:26:45 2016]  ClientBegin: 2
+[Wed Aug 17 20:26:51 2016]  say: kosher: eto potomushto ti uebok
+[Wed Aug 17 20:27:15 2016]  say: ^1T0PSKIY ^5PAVEL: a kak vzyat vse orujie bez jetpacka
+[Wed Aug 17 20:27:21 2016]  say: kosher: NIKAK
+[Wed Aug 17 20:27:21 2016]  say: ^1Eminem: hz
+[Wed Aug 17 20:27:27 2016]  say: ^1T0PSKIY ^5PAVEL: da mojno
+[Wed Aug 17 20:27:30 2016]  say: kosher: net
+[Wed Aug 17 20:27:42 2016]  say: ^1T0PSKIY ^5PAVEL: pidarasa otvet
+[Wed Aug 17 20:27:49 2016]  say: ^1T0PSKIY ^5PAVEL: smeisya
+[Wed Aug 17 20:27:52 2016]  say: kosher: shkolnik
+[Wed Aug 17 20:27:55 2016]  say: ^1Eminem: ahahah
+[Wed Aug 17 20:27:55 2016]  say: kosher: tu
+[Wed Aug 17 20:27:56 2016]  say: ^1Eminem: hAHAAHAH
+[Wed Aug 17 20:28:01 2016]  say: ^1Eminem: boje koseh
+[Wed Aug 17 20:28:05 2016]  say: ^1Eminem: kosher
+[Wed Aug 17 20:28:07 2016]  say: kosher: smeshno dlya debilov
+[Wed Aug 17 20:28:07 2016]  say: ^1Eminem: her korch
+[Wed Aug 17 20:28:27 2016]  say: kosher: ya obidelsya
+[Wed Aug 17 20:28:33 2016]  say: ^1Eminem: da idi nahooy
+[Wed Aug 17 20:28:39 2016]  say: kosher: za hueviy umor
+[Wed Aug 17 20:28:41 2016]  say: ^1Eminem: vsem pohoo na tebya
+[Wed Aug 17 20:28:51 2016]  say: kosher: vsem pohoo na vseh
+[Wed Aug 17 20:28:53 2016]  say: kosher: krome sebya
+[Wed Aug 17 20:29:03 2016]  say: ^1T0PSKIY ^5PAVEL: felosaf
+[Wed Aug 17 20:29:04 2016]  say: ^1Eminem: ne nesi hooyniu
+[Wed Aug 17 20:29:06 2016]  say: ^1Eminem: +
+[Wed Aug 17 20:29:10 2016]  say: ^1Eminem: 2-iy
+[Wed Aug 17 20:29:12 2016]  say: kosher: + eshe
+[Wed Aug 17 20:29:18 2016]  say: kosher: na svou suku kotoruu ebesh
+[Wed Aug 17 20:29:22 2016]  say: kosher: ne poh
+[Wed Aug 17 20:30:16 2016]  Kill: 2 2 39: kosher killed kosher by MOD_SUICIDE
+[Wed Aug 17 20:30:16 2016]  setteam:  2 FREE SPECTATOR
+[Wed Aug 17 20:30:16 2016]  ClientBegin: 2
+[Wed Aug 17 20:30:21 2016]  say: kosher: topskiy
+[Wed Aug 17 20:30:28 2016]  say: kosher: hule u tebya skin babi
+[Wed Aug 17 20:30:38 2016]  say: ^1Eminem: potomu chto on mujik
+[Wed Aug 17 20:30:40 2016]  setteam:  2 SPECTATOR FREE
+[Wed Aug 17 20:30:40 2016]  ClientBegin: 2
+[Wed Aug 17 20:30:51 2016]  say: kosher: logika
+[Wed Aug 17 20:30:54 2016]  say: ^1Eminem: netu
+[Wed Aug 17 20:30:58 2016]  say: ^1Eminem: ponimaiu
+[Wed Aug 17 20:31:02 2016]  say: ^1Eminem: tak chto idi nahooy
+[Wed Aug 17 20:31:03 2016]  say: kosher: u transvestitov takaya je
+[Wed Aug 17 20:31:08 2016]  say: kosher: ahah
+[Wed Aug 17 20:31:11 2016]  say: ^1Eminem: AAHAHHA
+[Wed Aug 17 20:31:11 2016]  say: ^1T0PSKIY ^5PAVEL: :dd
+[Wed Aug 17 20:31:13 2016]  say: ^1Eminem: ARU NIMAGU
+[Wed Aug 17 20:31:14 2016]  say: ^1Eminem: SMESHNA
+[Wed Aug 17 20:31:49 2016]  Kill: 2 2 39: kosher killed kosher by MOD_SUICIDE
+[Wed Aug 17 20:31:49 2016]  setteam:  2 FREE SPECTATOR
+[Wed Aug 17 20:31:49 2016]  ClientBegin: 2
+[Wed Aug 17 20:31:55 2016]  say: kosher: topskiy hule begaesh
+[Wed Aug 17 20:32:05 2016]  say: ^1T0PSKIY ^5PAVEL: ya topskiy pavel
+[Wed Aug 17 20:32:12 2016]  say: kosher: da
+[Wed Aug 17 20:32:16 2016]  say: ^1Eminem: pizda
+[Wed Aug 17 20:32:25 2016]  say: kosher: opyat umor
+[Wed Aug 17 20:32:27 2016]  say: kosher: iz vk?
+[Wed Aug 17 20:32:27 2016]  say: ^1Eminem: aga
+[Wed Aug 17 20:32:29 2016]  say: ^1Eminem: da
+[Wed Aug 17 20:32:31 2016]  setteam:  2 SPECTATOR FREE
+[Wed Aug 17 20:32:31 2016]  ClientBegin: 2
+[Wed Aug 17 20:32:33 2016]  say: ^1T0PSKIY ^5PAVEL: offnis dolbaeb
+[Wed Aug 17 20:32:34 2016]  say: kosher: dlya debilov
+[Wed Aug 17 20:32:46 2016]  say: kosher: che
+[Wed Aug 17 20:32:46 2016]  say: ^1T0PSKIY ^5PAVEL: i zachem ti eto delaesh
+[Wed Aug 17 20:32:56 2016]  say: kosher: zaebli pidorasi
+[Wed Aug 17 20:33:05 2016]  say: ^1T0PSKIY ^5PAVEL: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[Wed Aug 17 20:33:15 2016]  say: ^1Eminem: vali nahooy ot siuda raz zaebali
+[Wed Aug 17 20:33:20 2016]  say: ^1Eminem: sentimental'niy pidoras
+[Wed Aug 17 20:33:23 2016]  say: kosher: bolseh negde
+[Wed Aug 17 20:33:26 2016]  say: kosher: igrat'
+[Wed Aug 17 20:33:30 2016]  say: ^1Eminem: tak idi drochi
+[Wed Aug 17 20:33:33 2016]  say: ^1Eminem: vikin' komp
+[Wed Aug 17 20:33:41 2016]  say: kosher: ya ne takoy kak ti
+[Wed Aug 17 20:33:48 2016]  Kill: 1 1 39: ^1T0PSKIY ^5PAVEL killed ^1T0PSKIY ^5PAVEL by MOD_SUICIDE
+[Wed Aug 17 20:34:21 2016]  say: kosher: topskiy
+[Wed Aug 17 20:34:30 2016]  say: ^1T0PSKIY ^5PAVEL: ya
+[Wed Aug 17 20:34:36 2016]  say: kosher: server mne kupi
+[Wed Aug 17 20:34:46 2016]  say: ^1T0PSKIY ^5PAVEL: hochesh po mainkraftu serv sdelat?
+[Wed Aug 17 20:34:47 2016]  say: ^1Eminem: oo tochnyak
+[Wed Aug 17 20:34:51 2016]  say: kosher: net
+[Wed Aug 17 20:34:54 2016]  say: kosher: po jka
+[Wed Aug 17 20:34:55 2016]  say: ^1T0PSKIY ^5PAVEL: dohuya babla
+[Wed Aug 17 20:34:57 2016]  say: ^1T0PSKIY ^5PAVEL: ahahaha
+[Wed Aug 17 20:35:03 2016]  say: ^1T0PSKIY ^5PAVEL: jka
+[Wed Aug 17 20:35:04 2016]  say: kosher: esli v govne jivesh
+[Wed Aug 17 20:35:05 2016]  say: ^1T0PSKIY ^5PAVEL: server
+[Wed Aug 17 20:35:07 2016]  say: ^1Eminem: tochnyak poidu kupliu vps'ku i sdelaiu svoy maker
+[Wed Aug 17 20:35:09 2016]  say: kosher: 5.99$
+[Wed Aug 17 20:36:03 2016]  say: ^1Eminem: sa
+[Wed Aug 17 20:36:04 2016]  say: ^1Eminem: sav
+[Wed Aug 17 20:36:06 2016]  say: ^1Eminem: cho delaesh?
+[Wed Aug 17 20:36:13 2016]  say: ^1T0PSKIY ^5PAVEL: huiney stradayu
+[Wed Aug 17 20:36:16 2016]  say: ^1Eminem: jiza
+[Wed Aug 17 20:36:19 2016]  say: ^1T0PSKIY ^5PAVEL: s chelikom
+[Wed Aug 17 20:36:42 2016]  say: kosher: shlish a tebya stim est'
+[Wed Aug 17 20:36:45 2016]  say: kosher: u
+[Wed Aug 17 20:36:48 2016]  say: ^1T0PSKIY ^5PAVEL: zachem tebe
+[Wed Aug 17 20:36:55 2016]  say: kosher: vzlomat' hochu
+[Wed Aug 17 20:37:02 2016]  ClientConnect: 3
+[Wed Aug 17 20:37:02 2016]  mlog:Player Link, connected. With IP - 74.130.153.189:29070 
+[Wed Aug 17 20:37:05 2016]  say: ^1T0PSKIY ^5PAVEL: togda est'
+[Wed Aug 17 20:37:10 2016]  say: kosher: davay
+[Wed Aug 17 20:37:25 2016]  Kill: 1 2 13: ^1T0PSKIY ^5PAVEL killed kosher by MOD_REPEATER_ALT
+[Wed Aug 17 20:37:29 2016]  say: ^1T0PSKIY ^5PAVEL: ti umer
+[Wed Aug 17 20:37:32 2016]  say: kosher: da
+[Wed Aug 17 20:37:55 2016]  Kill: 1 2 17: ^1T0PSKIY ^5PAVEL killed kosher by MOD_FLECHETTE
+[Wed Aug 17 20:37:56 2016]  Item: 1 weapon_concussion_rifle
+[Wed Aug 17 20:38:02 2016]  say: ^1Eminem: OOO
+[Wed Aug 17 20:38:04 2016]  say: ^1Eminem: ya nashel
+[Wed Aug 17 20:38:08 2016]  Kill: 1022 0 0: <world> killed ^1Eminem by MOD_UNKNOWN
+[Wed Aug 17 20:38:34 2016]  say: ^1Eminem: slish
+[Wed Aug 17 20:38:38 2016]  say: ^1Eminem: pasha
+[Wed Aug 17 20:38:48 2016]  say: ^1Eminem: ya nashel tak chtob daje cherez god umerali
+[Wed Aug 17 20:38:50 2016]  say: kosher: pasha uebasha
+[Wed Aug 17 20:38:53 2016]  say: ^1Eminem: sha napishu skript
+[Wed Aug 17 20:39:29 2016]  say: kosher: pasha
+[Wed Aug 17 20:39:34 2016]  say: kosher: u tebya naushniki est'?
+[Wed Aug 17 20:39:38 2016]  say: ^1T0PSKIY ^5PAVEL: net
+[Wed Aug 17 20:39:41 2016]  say: ^1T0PSKIY ^5PAVEL: ya iz sela
+[Wed Aug 17 20:39:52 2016]  say: kosher: suk pizdec ))))))))))))))))))))))))))
+[Wed Aug 17 20:40:02 2016]  say: kosher: bambanul blya))))))))))))))))))))))))))))))))
+[Wed Aug 17 20:40:11 2016]  say: ^1T0PSKIY ^5PAVEL: )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+[Wed Aug 17 20:40:17 2016]  say: ^1Eminem: nuk
+[Wed Aug 17 20:40:23 2016]  ClientDisconnect: 3
+[Wed Aug 17 20:40:30 2016]  say: ^1T0PSKIY ^5PAVEL: che za skript
+[Wed Aug 17 20:40:41 2016]  say: ^1Eminem: cherez mkillsw i mtouchable
+[Wed Aug 17 20:41:36 2016]  say: ^1T0PSKIY ^5PAVEL: ya spat'
+[Wed Aug 17 20:41:36 2016]  Kill: 1022 0 0: <world> killed ^1Eminem by MOD_UNKNOWN
+[Wed Aug 17 20:41:37 2016]  say: ^1T0PSKIY ^5PAVEL: poidu
+[Wed Aug 17 20:41:41 2016]  say: ^1Eminem: davai >.>
+[Wed Aug 17 20:41:42 2016]  say: kosher: poka shkolnik
+[Wed Aug 17 20:41:45 2016]  say: ^1T0PSKIY ^5PAVEL: dada
+[Wed Aug 17 20:41:46 2016]  say: kosher: ne drochi
+[Wed Aug 17 20:41:49 2016]  say: kosher: pod odeyalom
+[Wed Aug 17 20:41:49 2016]  say: ^1T0PSKIY ^5PAVEL: mama vigonyaet(((((((((((((((((
+[Wed Aug 17 20:41:52 2016]  say: ^1T0PSKIY ^5PAVEL: xd
+[Wed Aug 17 20:41:53 2016]  say: ^1Eminem: (((
+[Wed Aug 17 20:41:56 2016]  say: ^1T0PSKIY ^5PAVEL: rofl
+[Wed Aug 17 20:42:01 2016]  say: ^1Eminem: mne zavtra v shkolu
+[Wed Aug 17 20:42:02 2016]  ClientDisconnect: 1
+[Wed Aug 17 20:42:09 2016]  say: kosher: zavtra net
+[Wed Aug 17 20:42:16 2016]  say: ^1Eminem: zavtrak obed
+[Wed Aug 17 20:42:17 2016]  say: ^1Eminem: ujin
+[Wed Aug 17 20:42:19 2016]  say: ^1Eminem: huiujin
+[Wed Aug 17 20:42:29 2016]  say: ^1Eminem: lan vali s serva
+[Wed Aug 17 20:42:32 2016]  say: ^1Eminem: dai norm poigrat'
+[Wed Aug 17 20:43:21 2016]  ClientDisconnect: 2
+[Wed Aug 17 20:43:43 2016]  Kill: 1022 0 0: <world> killed ^1Eminem by MOD_UNKNOWN
+[Wed Aug 17 20:44:08 2016]  Kill: 1022 0 0: <world> killed ^1Eminem by MOD_UNKNOWN
+[Wed Aug 17 20:56:31 2016]  Kill: 1022 0 0: <world> killed ^1Eminem by MOD_UNKNOWN
+[Wed Aug 17 21:05:56 2016]  say: ^1Eminem: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1Dbn²
+[Wed Aug 17 21:05:57 2016]  say: ^1Eminem: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Wed Aug 17 21:06:29 2016]  Kill: 1022 0 0: <world> killed ^1Eminem by MOD_UNKNOWN
+[Wed Aug 17 21:13:57 2016]  ClientDisconnect: 0

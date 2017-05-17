@@ -1,0 +1,316 @@
+[Wed Oct 09 02:14:39 2013]  ------------------------------------------------------------
+[Wed Oct 09 02:14:39 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 09 02:14:40 2013]  ClientConnect: 0
+[Wed Oct 09 02:14:40 2013]  ClientConnect: 1
+[Wed Oct 09 02:14:46 2013]  ClientConnect: 2
+[Wed Oct 09 02:14:46 2013]  mlog:Player ^7»^4[^7L^4]^7«^4{^7Morlang^4^^7J, connected. With IP - 92.43.26.58:29070 
+[Wed Oct 09 02:14:51 2013]  ClientBegin: 1
+[Wed Oct 09 02:15:02 2013]  ClientBegin: 2
+[Wed Oct 09 02:15:04 2013]  ClientBegin: 0
+[Wed Oct 09 02:15:08 2013]  say: ^0e^3|^0e^7c: skall?
+[Wed Oct 09 02:15:09 2013]  say: ^4|^5F()x^4|^5Te^4E: is this it?
+[Wed Oct 09 02:15:12 2013]  say: ^4|^5F()x^4|^5Te^4E: nah im morlang
+[Wed Oct 09 02:15:13 2013]  say: Padawan: sup
+[Wed Oct 09 02:15:19 2013]  say: ^0e^3|^0e^7c: yes, welcome to makermod
+[Wed Oct 09 02:15:22 2013]  say: ^4|^5F()x^4|^5Te^4E: hi
+[Wed Oct 09 02:15:26 2013]  say: ^4|^5F()x^4|^5Te^4E: what this? xD
+[Wed Oct 09 02:15:30 2013]  say: Padawan: show me some epic shit
+[Wed Oct 09 02:15:31 2013]  say: ^0e^3|^0e^7c: here im a god... hum ( im shone )
+[Wed Oct 09 02:15:38 2013]  say: Padawan: WTF REALLY
+[Wed Oct 09 02:15:39 2013]  say: ^0e^3|^0e^7c: wxhere r u
+[Wed Oct 09 02:15:46 2013]  say: Padawan: D youre really shone?
+[Wed Oct 09 02:15:51 2013]  say: ^0e^3|^0e^7c: im shone
+[Wed Oct 09 02:15:58 2013]  say: Padawan: holy shit, i joined this server randomly
+[Wed Oct 09 02:16:03 2013]  say: ^0e^3|^0e^7c: i know
+[Wed Oct 09 02:16:08 2013]  say: ^0e^3|^0e^7c: i followed u
+[Wed Oct 09 02:16:09 2013]  say: ^0e^3|^0e^7c: lol..
+[Wed Oct 09 02:16:10 2013]  say: Padawan: good advertise then
+[Wed Oct 09 02:16:26 2013]  say: ^4|^5F()x^4|^5Te^4E: u can kill me
+[Wed Oct 09 02:16:34 2013]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Oct 09 02:16:41 2013]  say: Padawan: what the fuck is this
+[Wed Oct 09 02:16:57 2013]  say: ^0e^3|^0e^7c: do /msayorigin skall
+[Wed Oct 09 02:17:02 2013]  say: ^0e^3|^0e^7c: ( not /am but /m
+[Wed Oct 09 02:17:02 2013]  say: Padawan: My origin is: (-9158 -436 -487) - You can teleport here with /mtelelast
+
+[Wed Oct 09 02:17:17 2013]  say: Padawan: yo sup
+[Wed Oct 09 02:17:19 2013]  say: Padawan: wtf
+[Wed Oct 09 02:17:21 2013]  say: Padawan: hjelp
+[Wed Oct 09 02:17:31 2013]  say: Padawan: xD
+[Wed Oct 09 02:17:31 2013]  say: ^0e^3|^0e^7c: wtyfn byu
+[Wed Oct 09 02:17:33 2013]  say: ^0e^3|^0e^7c: wtf
+[Wed Oct 09 02:17:38 2013]  say: ^0e^3|^0e^7c: wait
+[Wed Oct 09 02:17:47 2013]  say: ^0e^3|^0e^7c: .i need reco
+[Wed Oct 09 02:17:49 2013]  print "Padawan^7 @@@PLRENAME skallu
+"[Wed Oct 09 02:17:49 2013]  say: ^4|^5F()x^4|^5Te^4E: ok im off xD
+[Wed Oct 09 02:17:50 2013]  ClientDisconnect: 1
+[Wed Oct 09 02:17:51 2013]  ClientDisconnect: 1
+[Wed Oct 09 02:17:51 2013]  ClientConnect: 1
+[Wed Oct 09 02:17:51 2013]  mlog:Player ^0e^3|^0e^7c, connected. With IP - 83.113.41.7:29070 
+[Wed Oct 09 02:17:51 2013]  say: ^4|^5F()x^4|^5Te^4E: cya
+[Wed Oct 09 02:17:52 2013]  say: skallu: xD
+[Wed Oct 09 02:17:54 2013]  say: skallu: cya man
+[Wed Oct 09 02:17:56 2013]  ClientDisconnect: 2
+[Wed Oct 09 02:17:58 2013]  ClientBegin: 1
+[Wed Oct 09 02:18:19 2013]  say: ^0e^3|^0e^7c: makermod is rly simple
+[Wed Oct 09 02:18:32 2013]  say: skallu: rly?
+[Wed Oct 09 02:18:44 2013]  say: skallu: entity recompiling is pain in the ass
+[Wed Oct 09 02:19:18 2013]  say: skallu: WTF MAN
+[Wed Oct 09 02:19:24 2013]  say: ^0e^3|^0e^7c: if u want to place fire, just /mplacefx env/fire 0
+[Wed Oct 09 02:19:28 2013]  say: ^0e^3|^0e^7c: thats all
+[Wed Oct 09 02:19:32 2013]  say: skallu: lol...
+[Wed Oct 09 02:19:54 2013]  say: ^0e^3|^0e^7c: /mdrop to drop
+[Wed Oct 09 02:19:59 2013]  say: ^0e^3|^0e^7c: /mgrab to grab
+[Wed Oct 09 02:20:02 2013]  say: ^0e^3|^0e^7c: /mkill to kjill
+[Wed Oct 09 02:20:05 2013]  say: ^0e^3|^0e^7c: /mmove x y z to move
+[Wed Oct 09 02:20:17 2013]  say: ^0e^3|^0e^7c: /mmove 30 0 0 
+[Wed Oct 09 02:20:31 2013]  say: ^0e^3|^0e^7c: u have all the cmd at /minfo
+[Wed Oct 09 02:20:37 2013]  say: ^0e^3|^0e^7c: u can create door
+[Wed Oct 09 02:20:39 2013]  say: ^0e^3|^0e^7c: jumppad
+[Wed Oct 09 02:20:44 2013]  say: skallu: show me door
+[Wed Oct 09 02:20:47 2013]  say: skallu: here
+[Wed Oct 09 02:21:06 2013]  say: skallu: catw2b i guess?
+[Wed Oct 09 02:21:06 2013]  say: ^0e^3|^0e^7c: wait
+[Wed Oct 09 02:21:08 2013]  say: ^0e^3|^0e^7c: yes
+[Wed Oct 09 02:21:35 2013]  say: skallu: nice remap
+[Wed Oct 09 02:21:43 2013]  say: skallu: is it func door?
+[Wed Oct 09 02:21:55 2013]  say: ^0e^3|^0e^7c: catwb + /musable + /mplatform 200
+[Wed Oct 09 02:22:02 2013]  say: skallu: lemme try
+[Wed Oct 09 02:22:11 2013]  say: ^0e^3|^0e^7c: factory/catw2_b
+[Wed Oct 09 02:22:22 2013]  say: ^0e^3|^0e^7c: mrotate x y z to rotate
+[Wed Oct 09 02:22:49 2013]  say: ^0e^3|^0e^7c: if u want
+[Wed Oct 09 02:22:53 2013]  say: ^0e^3|^0e^7c: /u can deactive grabbing
+[Wed Oct 09 02:22:57 2013]  say: ^0e^3|^0e^7c: and place with mmark
+[Wed Oct 09 02:23:02 2013]  say: skallu: wait
+[Wed Oct 09 02:23:06 2013]  say: skallu: now mdrop again
+[Wed Oct 09 02:23:07 2013]  say: skallu: or what
+[Wed Oct 09 02:23:21 2013]  say: ^0e^3|^0e^7c: its good i guess
+[Wed Oct 09 02:23:22 2013]  say: skallu: i made it musable
+[Wed Oct 09 02:23:37 2013]  say: skallu: holy yeah
+[Wed Oct 09 02:23:41 2013]  say: skallu: can i adjust its lip?
+[Wed Oct 09 02:23:54 2013]  say: ^0e^3|^0e^7c: do mplatform withotu value
+[Wed Oct 09 02:24:01 2013]  say: ^0e^3|^0e^7c: it will tell u what u can modif
+[Wed Oct 09 02:24:16 2013]  say: ^0e^3|^0e^7c: press this
+[Wed Oct 09 02:24:25 2013]  say: skallu: :(
+[Wed Oct 09 02:24:28 2013]  say: skallu: target_print
+[Wed Oct 09 02:24:33 2013]  say: ^0e^3|^0e^7c: mprintsw
+[Wed Oct 09 02:24:41 2013]  say: skallu: ight
+[Wed Oct 09 02:24:42 2013]  say: skallu: in MM
+[Wed Oct 09 02:24:46 2013]  say: skallu: is there some way
+[Wed Oct 09 02:24:51 2013]  say: skallu: to save the map?
+[Wed Oct 09 02:25:05 2013]  say: ^0e^3|^0e^7c: saveing the map? or save ur work as a player
+[Wed Oct 09 02:25:13 2013]  say: skallu: both
+[Wed Oct 09 02:25:23 2013]  say: ^0e^3|^0e^7c: u can save with msaveobs
+[Wed Oct 09 02:25:32 2013]  say: ^0e^3|^0e^7c: for server, i dont remember the cmd
+[Wed Oct 09 02:25:39 2013]  say: skallu: what format is it saved on
+[Wed Oct 09 02:26:06 2013]  say: ^0e^3|^0e^7c: i never wondered ( i dont know if its english ' never wondered lol.. )
+[Wed Oct 09 02:26:12 2013]  say: skallu: yup
+[Wed Oct 09 02:26:34 2013]  say: ^0e^3|^0e^7c: if i crash its norml
+[Wed Oct 09 02:26:45 2013]  say: skallu: wtf
+[Wed Oct 09 02:26:50 2013]  say: ^0e^3|^0e^7c: small ship
+[Wed Oct 09 02:26:51 2013]  say: skallu: WHAT IS THIS
+[Wed Oct 09 02:27:06 2013]  say: ^0e^3|^0e^7c: just a lot a cmd
+[Wed Oct 09 02:27:09 2013]  say: ^0e^3|^0e^7c: like mplace
+[Wed Oct 09 02:27:13 2013]  say: ^0e^3|^0e^7c: mmmove, etc etc
+[Wed Oct 09 02:27:16 2013]  say: ^0e^3|^0e^7c: in a .cfg
+[Wed Oct 09 02:27:23 2013]  say: skallu: that yours?
+[Wed Oct 09 02:27:26 2013]  say: ^0e^3|^0e^7c: yep
+[Wed Oct 09 02:27:28 2013]  say: skallu: nice
+[Wed Oct 09 02:27:30 2013]  say: ^0e^3|^0e^7c: this?
+[Wed Oct 09 02:27:35 2013]  say: ^0e^3|^0e^7c: its a shit xdd
+[Wed Oct 09 02:28:13 2013]  ClientDisconnect: 1
+[Wed Oct 09 02:28:13 2013]  ClientConnect: 1
+[Wed Oct 09 02:28:13 2013]  mlog:Player ^2shone, connected. With IP - 83.113.41.7:29070 
+[Wed Oct 09 02:28:29 2013]  ClientBegin: 1
+[Wed Oct 09 02:28:33 2013]  say: ^0e^3|^0e^7c: ok...
+[Wed Oct 09 02:28:40 2013]  say: ^0e^3|^0e^7c: iv big ship 
+[Wed Oct 09 02:28:42 2013]  say: skallu: tell me some more modells
+[Wed Oct 09 02:28:43 2013]  say: ^0e^3|^0e^7c: but it wrash me :s
+[Wed Oct 09 02:28:55 2013]  say: ^0e^3|^0e^7c: u can try / mlist
+[Wed Oct 09 02:29:01 2013]  say: ^0e^3|^0e^7c: its a list of category
+[Wed Oct 09 02:29:04 2013]  say: ^0e^3|^0e^7c: for exemple
+[Wed Oct 09 02:29:10 2013]  say: ^0e^3|^0e^7c: u see vjun
+[Wed Oct 09 02:29:15 2013]  say: ^0e^3|^0e^7c: /mlist vjun
+[Wed Oct 09 02:29:22 2013]  say: ^0e^3|^0e^7c: will tell u all model in this folder
+[Wed Oct 09 02:29:34 2013]  say: ^0e^3|^0e^7c: then to place /mplace vjun/vrock5
+[Wed Oct 09 02:29:35 2013]  say: ^0e^3|^0e^7c: 2*
+[Wed Oct 09 02:29:39 2013]  say: ^0e^3|^0e^7c: for exemple
+[Wed Oct 09 02:29:45 2013]  say: ^0e^3|^0e^7c: same with effect
+[Wed Oct 09 02:29:47 2013]  say: ^0e^3|^0e^7c: /mlistfx
+[Wed Oct 09 02:31:16 2013]  say: ^0e^3|^0e^7c: u can : make a model bobbing, pendulum , teleporter, light, jumpp , rotating , kill player
+[Wed Oct 09 02:31:22 2013]  say: ^0e^3|^0e^7c: playing sound
+[Wed Oct 09 02:31:27 2013]  say: ^0e^3|^0e^7c: making a door
+[Wed Oct 09 02:32:18 2013]  ClientDisconnect: 0
+[Wed Oct 09 02:32:55 2013]  ClientDisconnect: 1
+[Wed Oct 09 04:14:39 2013]  Exit: Timelimit hit.
+[Wed Oct 09 04:44:56 2013]  ClientConnect: 0
+[Wed Oct 09 04:44:56 2013]  mlog:Player ^1M^7a^1®Z, connected. With IP - 174.68.113.8:29070 
+[Wed Oct 09 04:45:29 2013]  ClientBegin: 0
+[Wed Oct 09 04:45:30 2013]  say: ^5§^0had^50^0w: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Wed Oct 09 04:45:35 2013]  ShutdownGame:
+[Wed Oct 09 04:45:35 2013]  ------------------------------------------------------------
+[Wed Oct 09 04:45:35 2013]  ------------------------------------------------------------
+[Wed Oct 09 04:45:35 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 09 04:45:37 2013]  ClientConnect: 0
+[Wed Oct 09 04:46:12 2013]  ClientBegin: 0
+[Wed Oct 09 04:46:12 2013]  say: ^5§^0had^50^0w: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Wed Oct 09 04:47:51 2013]  ClientDisconnect: 0
+[Wed Oct 09 06:45:34 2013]  Exit: Timelimit hit.
+[Wed Oct 09 07:19:30 2013]  ClientConnect: 0
+[Wed Oct 09 07:19:30 2013]  mlog:Player ^2Jedi^0 ^7Master, connected. With IP - 147.30.83.33:29070 
+[Wed Oct 09 07:19:50 2013]  ClientBegin: 0
+[Wed Oct 09 07:20:39 2013]  ShutdownGame:
+[Wed Oct 09 07:20:39 2013]  ------------------------------------------------------------
+[Wed Oct 09 07:20:40 2013]  ------------------------------------------------------------
+[Wed Oct 09 07:20:40 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 09 07:20:41 2013]  ClientConnect: 0
+[Wed Oct 09 07:20:51 2013]  ClientBegin: 0
+[Wed Oct 09 07:21:39 2013]  say: ^2Jedi^0 ^7Master: f\
+[Wed Oct 09 07:22:37 2013]  say: ^2Jedi^0 ^7Master: npc spawn mutant_Rancor
+[Wed Oct 09 07:23:48 2013]  say: ^2Jedi^0 ^7Master: f
+[Wed Oct 09 07:25:21 2013]  ClientDisconnect: 0
+[Wed Oct 09 09:20:39 2013]  Exit: Timelimit hit.
+[Wed Oct 09 10:23:40 2013]  ClientConnect: 0
+[Wed Oct 09 10:23:40 2013]  mlog:Player Xion, connected. With IP - 109.47.3.95:-16371 
+[Wed Oct 09 10:24:14 2013]  ClientBegin: 0
+[Wed Oct 09 10:24:22 2013]  ShutdownGame:
+[Wed Oct 09 10:24:22 2013]  ------------------------------------------------------------
+[Wed Oct 09 10:24:22 2013]  ------------------------------------------------------------
+[Wed Oct 09 10:24:22 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 09 10:24:24 2013]  ClientConnect: 0
+[Wed Oct 09 10:24:47 2013]  ClientBegin: 0
+[Wed Oct 09 10:25:10 2013]  print "^0Xe®a^2th^7 @@@PLRENAME ^1Z^0eratul
+"[Wed Oct 09 10:26:06 2013]  Kill: 0 0 39: ^1Z^0eratul killed ^1Z^0eratul by MOD_SUICIDE
+[Wed Oct 09 10:27:01 2013]  ClientDisconnect: 0
+[Wed Oct 09 10:27:50 2013]  ClientConnect: 0
+[Wed Oct 09 10:27:50 2013]  mlog:Player Padawan, connected. With IP - 109.47.3.95:-16371 
+[Wed Oct 09 10:28:29 2013]  ClientBegin: 0
+[Wed Oct 09 10:49:40 2013]  ClientDisconnect: 0
+[Wed Oct 09 12:24:21 2013]  Exit: Timelimit hit.
+[Wed Oct 09 15:24:32 2013]  ClientConnect: 0
+[Wed Oct 09 15:24:32 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Wed Oct 09 15:25:01 2013]  ClientBegin: 0
+[Wed Oct 09 15:25:05 2013]  ShutdownGame:
+[Wed Oct 09 15:25:05 2013]  ------------------------------------------------------------
+[Wed Oct 09 15:25:06 2013]  ------------------------------------------------------------
+[Wed Oct 09 15:25:06 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 09 15:25:06 2013]  ClientConnect: 0
+[Wed Oct 09 15:25:19 2013]  ClientBegin: 0
+[Wed Oct 09 15:25:58 2013]  ShutdownGame:
+[Wed Oct 09 15:25:58 2013]  ------------------------------------------------------------
+[Wed Oct 09 15:25:58 2013]  ------------------------------------------------------------
+[Wed Oct 09 15:25:58 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 09 15:26:00 2013]  ClientConnect: 0
+[Wed Oct 09 15:26:06 2013]  ClientBegin: 0
+[Wed Oct 09 15:26:55 2013]  say: ^0ÐàrkQµàkè: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1Dbn²
+[Wed Oct 09 15:26:55 2013]  say: ^0ÐàrkQµàkè: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Wed Oct 09 15:27:07 2013]  say: ^0ÐàrkQµàkè: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0ÐàrkQµàkè
+[Wed Oct 09 15:27:08 2013]  say: ^0ÐàrkQµàkè: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Wed Oct 09 15:28:21 2013]  Kill: 1022 0 0: <world> killed ^0ÐàrkQµàkè by MOD_UNKNOWN
+[Wed Oct 09 17:25:57 2013]  Exit: Timelimit hit.
+[Wed Oct 09 17:25:57 2013]  score: 0  ping: 0  client: 0 ^0ÐàrkQµàkè
+[Wed Oct 09 17:34:26 2013]  ClientConnect: 1
+[Wed Oct 09 17:34:26 2013]  mlog:Player Padawan, connected. With IP - 109.47.3.95:-29811 
+[Wed Oct 09 17:35:14 2013]  ClientBegin: 1
+[Wed Oct 09 17:35:22 2013]  say: ^1Z^0eratul: HI
+[Wed Oct 09 17:35:30 2013]  ShutdownGame:
+[Wed Oct 09 17:35:30 2013]  ------------------------------------------------------------
+[Wed Oct 09 17:35:31 2013]  ------------------------------------------------------------
+[Wed Oct 09 17:35:31 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 09 17:35:32 2013]  ClientConnect: 0
+[Wed Oct 09 17:35:32 2013]  ClientConnect: 1
+[Wed Oct 09 17:35:38 2013]  ClientBegin: 0
+[Wed Oct 09 17:35:59 2013]  ClientBegin: 1
+[Wed Oct 09 17:36:46 2013]  ClientDisconnect: 1
+[Wed Oct 09 18:02:28 2013]  ClientConnect: 1
+[Wed Oct 09 18:02:28 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 86.160.95.5:29070 
+[Wed Oct 09 18:02:57 2013]  ClientBegin: 1
+[Wed Oct 09 18:03:04 2013]  say: ^0^1Darth ^0Kuge ISBACK: hi quake
+[Wed Oct 09 18:03:09 2013]  Kill: 1 1 39: ^0^1Darth ^0Kuge ISBACK killed ^0^1Darth ^0Kuge ISBACK by MOD_SUICIDE
+[Wed Oct 09 18:03:09 2013]  setteam:  1 FREE SPECTATOR
+[Wed Oct 09 18:03:09 2013]  ClientBegin: 1
+[Wed Oct 09 18:03:15 2013]  setteam:  1 SPECTATOR FREE
+[Wed Oct 09 18:03:15 2013]  ClientBegin: 1
+[Wed Oct 09 18:03:23 2013]  say: ^0^1Darth ^0Kuge ISBACK: at least u know im back know
+[Wed Oct 09 18:03:36 2013]  Kill: 1 0 3: ^0^1Darth ^0Kuge ISBACK killed ^0ÐàrkQµàkè by MOD_SABER
+[Wed Oct 09 18:03:40 2013]  say: ^0^1Darth ^0Kuge ISBACK: ah afk
+[Wed Oct 09 18:04:45 2013]  say: ^0^1Darth ^0Kuge ISBACK: ^1Combat ^0Script V1.1 By ^0Jawa Hunter
+[Wed Oct 09 18:04:46 2013]  say: ^0^1Darth ^0Kuge ISBACK: ^0ARG!!!!! 
+[Wed Oct 09 18:05:17 2013]  say: ^0^1Darth ^0Kuge ISBACK: ^1Element^4 Script^1 V1 ^1By Darth ^0Kuge!
+[Wed Oct 09 18:06:21 2013]  Kill: 1 0 3: ^0^1Darth ^0Kuge ISBACK killed ^0ÐàrkQµàkè by MOD_SABER
+[Wed Oct 09 18:27:23 2013]  Kill: 1 0 3: ^0^1Darth ^0Kuge ISBACK killed ^0ÐàrkQµàkè by MOD_SABER
+[Wed Oct 09 18:30:58 2013]  ClientDisconnect: 1
+[Wed Oct 09 18:39:06 2013]  ClientConnect: 1
+[Wed Oct 09 18:39:06 2013]  mlog:Player ^3T^6i^3^4t^1a^0n^2ikK, connected. With IP - 178.121.33.79:20929 
+[Wed Oct 09 18:39:27 2013]  ClientBegin: 1
+[Wed Oct 09 18:39:57 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Oct 09 18:40:10 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Wed Oct 09 18:40:22 2013]  ClientDisconnect: 1
+[Wed Oct 09 19:35:30 2013]  Exit: Timelimit hit.
+[Wed Oct 09 19:35:30 2013]  score: 0  ping: 4  client: 0 ^0ÐàrkQµàkè
+[Wed Oct 09 20:34:57 2013]  ClientConnect: 1
+[Wed Oct 09 20:34:57 2013]  mlog:Player ^2Di^3Na^9Mi^4T, connected. With IP - 178.121.112.84:29070 
+[Wed Oct 09 20:36:43 2013]  ClientBegin: 1
+[Wed Oct 09 20:36:58 2013]  ShutdownGame:
+[Wed Oct 09 20:36:58 2013]  ------------------------------------------------------------
+[Wed Oct 09 20:36:58 2013]  ------------------------------------------------------------
+[Wed Oct 09 20:36:58 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 09 20:37:00 2013]  ClientConnect: 0
+[Wed Oct 09 20:37:00 2013]  ClientConnect: 1
+[Wed Oct 09 20:37:06 2013]  ClientBegin: 0
+[Wed Oct 09 20:38:18 2013]  ClientBegin: 1
+[Wed Oct 09 20:38:30 2013]  Kill: 1 0 3: ^3Di^2Na^9Mi^4T killed ^0ÐàrkQµàkè by MOD_SABER
+[Wed Oct 09 20:39:51 2013]  ClientDisconnect: 1
+[Wed Oct 09 20:51:27 2013]  ClientConnect: 1
+[Wed Oct 09 20:51:27 2013]  mlog:Player Hake'ukesodan, connected. With IP - 92.17.110.27:29070 
+[Wed Oct 09 20:52:28 2013]  ClientBegin: 1
+[Wed Oct 09 20:52:43 2013]  say: Hake'ukesohan: quake
+[Wed Oct 09 20:53:20 2013]  Kill: 1022 1 36: <world> killed Hake'ukesohan by MOD_CRUSH
+[Wed Oct 09 20:53:20 2013]  Kill: 1022 0 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Wed Oct 09 20:54:22 2013]  Kill: 1 1 39: Hake'ukesohan killed Hake'ukesohan by MOD_SUICIDE
+[Wed Oct 09 20:54:40 2013]  Item: 1 item_cloak
+[Wed Oct 09 20:54:40 2013]  Item: 1 item_seeker
+[Wed Oct 09 20:54:40 2013]  Item: 1 item_binoculars
+[Wed Oct 09 20:54:40 2013]  Item: 1 item_sentry_gun
+[Wed Oct 09 20:54:40 2013]  Item: 1 item_medpac
+[Wed Oct 09 20:54:40 2013]  Item: 1 item_shield
+[Wed Oct 09 20:54:40 2013]  Item: 1 item_medpac_big
+[Wed Oct 09 20:54:40 2013]  Item: 1 item_eweb_holdable
+[Wed Oct 09 20:55:02 2013]  say: Hake'ukesohan: QUAKE!
+[Wed Oct 09 20:55:42 2013]  Kill: 1022 0 36: <world> killed ^0ÐàrkQµàkè by MOD_CRUSH
+[Wed Oct 09 20:56:55 2013]  say: Hake'ukesohan: ^1Combat ^0Script V1.1 By ^0Jawa Hunter
+[Wed Oct 09 20:56:56 2013]  say: Hake'ukesohan: ^0ARG!!!!! 
+[Wed Oct 09 21:02:14 2013]  Kill: 1 0 10: Hake'ukesohan killed ^0ÐàrkQµàkè by MOD_DISRUPTOR_SNIPER
+[Wed Oct 09 21:08:32 2013]  Kill: 1 0 12: Hake'ukesohan killed ^0ÐàrkQµàkè by MOD_REPEATER
+[Wed Oct 09 21:12:53 2013]  Kill: 1 0 15: Hake'ukesohan killed ^0ÐàrkQµàkè by MOD_DEMP2
+[Wed Oct 09 21:22:59 2013]  Kill: 1 0 21: Hake'ukesohan killed ^0ÐàrkQµàkè by MOD_ROCKET_HOMING
+[Wed Oct 09 21:27:48 2013]  Kill: 1 0 29: Hake'ukesohan killed ^0ÐàrkQµàkè by MOD_CONC
+[Wed Oct 09 21:27:55 2013]  ClientDisconnect: 1
+[Wed Oct 09 22:36:57 2013]  Exit: Timelimit hit.
+[Wed Oct 09 22:36:57 2013]  score: -2  ping: 0  client: 0 ^0ÐàrkQµàkè
+[Wed Oct 09 23:25:37 2013]  ShutdownGame:
+[Wed Oct 09 23:25:37 2013]  ------------------------------------------------------------
+[Wed Oct 09 23:25:37 2013]  ------------------------------------------------------------
+[Wed Oct 09 23:25:37 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 09 23:25:39 2013]  ClientConnect: 0
+[Wed Oct 09 23:25:45 2013]  ClientBegin: 0
+[Wed Oct 09 23:26:07 2013]  ShutdownGame:
+[Wed Oct 09 23:26:07 2013]  ------------------------------------------------------------
+[Wed Oct 09 23:26:07 2013]  ------------------------------------------------------------
+[Wed Oct 09 23:26:07 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 09 23:26:09 2013]  ClientConnect: 0
+[Wed Oct 09 23:26:16 2013]  ClientBegin: 0
+[Wed Oct 09 23:26:37 2013]  ClientDisconnect: 0
+[Wed Oct 09 23:51:42 2013]  ClientConnect: 0
+[Wed Oct 09 23:51:42 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29071 
+[Wed Oct 09 23:52:14 2013]  ClientBegin: 0
+[Thu Oct 10 00:01:54 2013]  say: ^0ÐàrkQµàkè: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0ÐàrkQµàkè
+[Thu Oct 10 00:01:55 2013]  say: ^0ÐàrkQµàkè: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Thu Oct 10 00:03:07 2013]  say: ^0ÐàrkQµàkè: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0ÐàrkQµàkè
+[Thu Oct 10 00:03:07 2013]  say: ^0ÐàrkQµàkè: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Thu Oct 10 00:03:58 2013]  ClientDisconnect: 0
+[Thu Oct 10 01:26:06 2013]  Exit: Timelimit hit.
+[Thu Oct 10 08:18:37 2013]  ClientConnect: 0
+[Thu Oct 10 08:18:37 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 86.183.116.102:29070 
+[Thu Oct 10 08:19:15 2013]  ClientBegin: 0
+[Thu Oct 10 08:19:20 2013]  ShutdownGame:
+[Thu Oct 10 08:19:20 2013]  ------------------------------------------------------------

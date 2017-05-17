@@ -1,0 +1,1393 @@
+[Wed Jan 08 02:39:11 2014]  ------------------------------------------------------------
+[Wed Jan 08 02:39:11 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Jan 08 02:39:12 2014]  ClientConnect: 0
+[Wed Jan 08 02:39:19 2014]  ClientBegin: 0
+[Wed Jan 08 02:43:15 2014]  ClientDisconnect: 0
+[Wed Jan 08 02:52:40 2014]  ClientConnect: 0
+[Wed Jan 08 02:52:40 2014]  mlog:Player jayjac11, connected. With IP - 24.231.148.7:29070 
+[Wed Jan 08 02:52:51 2014]  ClientBegin: 0
+[Wed Jan 08 02:55:40 2014]  Kill: 0 0 39: jayjac11 killed jayjac11 by MOD_SUICIDE
+[Wed Jan 08 02:55:48 2014]  Kill: 0 0 39: jayjac11 killed jayjac11 by MOD_SUICIDE
+[Wed Jan 08 02:56:27 2014]  ClientDisconnect: 0
+[Wed Jan 08 02:57:01 2014]  ClientConnect: 0
+[Wed Jan 08 02:57:01 2014]  mlog:Player jayjac11, connected. With IP - 24.231.148.7:29070 
+[Wed Jan 08 02:57:08 2014]  ClientBegin: 0
+[Wed Jan 08 02:59:04 2014]  say: jayjac11: taspir/
+[Wed Jan 08 02:59:39 2014]  say: jayjac11: mp/
+[Wed Jan 08 02:59:43 2014]  say: jayjac11: mlist
+[Wed Jan 08 03:01:33 2014]  Kill: 0 0 39: jayjac11 killed jayjac11 by MOD_SUICIDE
+[Wed Jan 08 03:17:39 2014]  Kill: 0 0 39: jayjac11 killed jayjac11 by MOD_SUICIDE
+[Wed Jan 08 03:17:48 2014]  ClientDisconnect: 0
+[Wed Jan 08 04:39:10 2014]  Exit: Timelimit hit.
+[Wed Jan 08 16:02:51 2014]  ClientConnect: 0
+[Wed Jan 08 16:02:51 2014]  mlog:Player Padawan, connected. With IP - 79.117.66.92:29070 
+[Wed Jan 08 16:03:16 2014]  ClientBegin: 0
+[Wed Jan 08 16:03:23 2014]  ShutdownGame:
+[Wed Jan 08 16:03:23 2014]  ------------------------------------------------------------
+[Wed Jan 08 16:03:23 2014]  ------------------------------------------------------------
+[Wed Jan 08 16:03:23 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Jan 08 16:03:25 2014]  ClientConnect: 0
+[Wed Jan 08 16:03:44 2014]  ClientBegin: 0
+[Wed Jan 08 16:03:48 2014]  say: ^1^7Padawan ^4Kyle: mempower
+[Wed Jan 08 16:20:34 2014]  Item: 0 ammo_force
+[Wed Jan 08 16:46:48 2014]  ClientConnect: 1
+[Wed Jan 08 16:46:48 2014]  mlog:Player Padawan, connected. With IP - 188.191.82.23:29070 
+[Wed Jan 08 16:47:09 2014]  ClientBegin: 1
+[Wed Jan 08 16:48:15 2014]  print "Padawan^7 @@@PLRENAME Kasszian
+"[Wed Jan 08 16:49:40 2014]  ClientDisconnect: 1
+[Wed Jan 08 17:04:35 2014]  ClientConnect: 1
+[Wed Jan 08 17:04:35 2014]  mlog:Player ICE, connected. With IP - 93.79.154.64:29070 
+[Wed Jan 08 17:04:38 2014]  ClientDisconnect: 1
+[Wed Jan 08 17:04:38 2014]  ClientConnect: 1
+[Wed Jan 08 17:04:38 2014]  mlog:Player ICE, connected. With IP - 93.79.154.64:29070 
+[Wed Jan 08 17:04:41 2014]  ClientDisconnect: 1
+[Wed Jan 08 17:04:41 2014]  ClientConnect: 1
+[Wed Jan 08 17:04:41 2014]  mlog:Player ICE, connected. With IP - 93.79.154.64:29070 
+[Wed Jan 08 17:08:00 2014]  ClientConnect: 2
+[Wed Jan 08 17:08:00 2014]  mlog:Player Padawan, connected. With IP - 78.80.100.24:20571 
+[Wed Jan 08 17:08:31 2014]  ClientDisconnect: 1
+[Wed Jan 08 17:08:31 2014]  ClientConnect: 1
+[Wed Jan 08 17:08:31 2014]  mlog:Player ICE, connected. With IP - 93.79.154.64:29070 
+[Wed Jan 08 17:08:34 2014]  ClientDisconnect: 1
+[Wed Jan 08 17:08:34 2014]  ClientConnect: 1
+[Wed Jan 08 17:08:34 2014]  mlog:Player ICE, connected. With IP - 93.79.154.64:29070 
+[Wed Jan 08 17:08:37 2014]  ClientDisconnect: 1
+[Wed Jan 08 17:08:37 2014]  ClientConnect: 1
+[Wed Jan 08 17:08:37 2014]  mlog:Player ICE, connected. With IP - 93.79.154.64:29070 
+[Wed Jan 08 17:09:17 2014]  ClientBegin: 2
+[Wed Jan 08 17:10:46 2014]  say: Padawan: here
+[Wed Jan 08 17:10:50 2014]  say: ^1^7Padawan ^4Kyle: good
+[Wed Jan 08 17:10:55 2014]  say: ^1^7Padawan ^4Kyle: look i made all of this XD
+[Wed Jan 08 17:11:10 2014]  say: Padawan: lol
+[Wed Jan 08 17:11:10 2014]  say: ^1^7Padawan ^4Kyle: :D
+[Wed Jan 08 17:11:12 2014]  say: Padawan: what is that
+[Wed Jan 08 17:11:31 2014]  say: ^1^7Padawan ^4Kyle: this is my chamber
+[Wed Jan 08 17:11:32 2014]  say: ^1^7Padawan ^4Kyle: :d
+[Wed Jan 08 17:11:37 2014]  say: Padawan: thi
+[Wed Jan 08 17:11:45 2014]  say: Padawan: behind you
+[Wed Jan 08 17:11:54 2014]  say: Padawan: do u know what is that lol?
+[Wed Jan 08 17:11:57 2014]  say: Padawan: u mad
+[Wed Jan 08 17:12:00 2014]  say: ^1^7Padawan ^4Kyle: i dunno lol
+[Wed Jan 08 17:12:03 2014]  say: Padawan: its vagina lol
+[Wed Jan 08 17:12:14 2014]  say: ^1^7Padawan ^4Kyle: and 
+[Wed Jan 08 17:12:19 2014]  say: ^1^7Padawan ^4Kyle: I BECOME A ^1SITH
+[Wed Jan 08 17:12:25 2014]  say: ^1^7Padawan ^4Kyle: wait
+[Wed Jan 08 17:12:32 2014]  say: ^1^7Padawan ^4Kyle: there
+[Wed Jan 08 17:12:35 2014]  ClientDisconnect: 1
+[Wed Jan 08 17:12:53 2014]  print "Padawan^7 @@@PLRENAME Luke
+"[Wed Jan 08 17:13:05 2014]  print "Luke^7 @@@PLRENAME Luke   [oldhunty]
+"[Wed Jan 08 17:13:24 2014]  Kill: 0 2 3: ^1^7Padawan ^4Kyle killed Luke   [oldhunty] by MOD_SABER
+[Wed Jan 08 17:14:43 2014]  say: ^1^7Padawan ^4Kyle: DUDE
+[Wed Jan 08 17:14:45 2014]  say: ^1^7Padawan ^4Kyle: NO PUSH
+[Wed Jan 08 17:14:51 2014]  say: ^1^7Padawan ^4Kyle: -.-
+[Wed Jan 08 17:14:55 2014]  say: Luke   [oldhunty]: u said no push
+[Wed Jan 08 17:14:59 2014]  say: ^1^7Padawan ^4Kyle: AND NO PULL
+[Wed Jan 08 17:14:59 2014]  say: Luke   [oldhunty]: im not pushing u
+[Wed Jan 08 17:15:12 2014]  say: ^1^7Padawan ^4Kyle: we wanna make like a movie 
+[Wed Jan 08 17:15:20 2014]  say: Luke   [oldhunty]: nah
+[Wed Jan 08 17:15:22 2014]  say: Luke   [oldhunty]: im building
+[Wed Jan 08 17:15:31 2014]  say: ^1^7Padawan ^4Kyle: and luke dont have dark powers
+[Wed Jan 08 17:15:36 2014]  say: Luke   [oldhunty]: ?
+[Wed Jan 08 17:15:42 2014]  say: ^1^7Padawan ^4Kyle: dark powers like this
+[Wed Jan 08 17:15:49 2014]  say: ^1^7Padawan ^4Kyle: he dont have
+[Wed Jan 08 17:15:53 2014]  say: Luke   [oldhunty]: and kyle dont have lightning 3
+[Wed Jan 08 17:15:53 2014]  say: ^1^7Padawan ^4Kyle: only this
+[Wed Jan 08 17:15:59 2014]  say: ^1^7Padawan ^4Kyle: ok
+[Wed Jan 08 17:16:02 2014]  say: ^1^7Padawan ^4Kyle: but i have grip 3
+[Wed Jan 08 17:16:19 2014]  say: ^1^7Padawan ^4Kyle: and lest no push or pull
+[Wed Jan 08 17:16:20 2014]  say: Luke   [oldhunty]: sec
+[Wed Jan 08 17:16:21 2014]  say: Luke   [oldhunty]: dont
+[Wed Jan 08 17:16:22 2014]  say: Luke   [oldhunty]: omg
+[Wed Jan 08 17:16:24 2014]  say: Luke   [oldhunty]: i want screenshot
+[Wed Jan 08 17:16:27 2014]  say: ^1^7Padawan ^4Kyle: k
+[Wed Jan 08 17:16:31 2014]  say: Luke   [oldhunty]: stay
+[Wed Jan 08 17:16:34 2014]  say: Luke   [oldhunty]: dont
+[Wed Jan 08 17:16:38 2014]  say: Luke   [oldhunty]: god
+[Wed Jan 08 17:16:39 2014]  say: Luke   [oldhunty]: xd
+[Wed Jan 08 17:16:45 2014]  say: ^1^7Padawan ^4Kyle: i didnt push xd
+[Wed Jan 08 17:17:04 2014]  say: Luke   [oldhunty]: now
+[Wed Jan 08 17:17:10 2014]  say: ^1^7Padawan ^4Kyle: oops
+[Wed Jan 08 17:17:13 2014]  say: Luke   [oldhunty]: wtf
+[Wed Jan 08 17:17:16 2014]  say: Luke   [oldhunty]: yes
+[Wed Jan 08 17:18:23 2014]  say: ^1^7Padawan ^4Kyle: u no have dark powers 
+[Wed Jan 08 17:18:40 2014]  say: Luke   [oldhunty]: look at face
+[Wed Jan 08 17:18:44 2014]  say: ^1^7Padawan ^4Kyle: come my npc apprantice
+[Wed Jan 08 17:18:45 2014]  say: Luke   [oldhunty]: hes talking
+[Wed Jan 08 17:18:52 2014]  say: Luke   [oldhunty]: look
+[Wed Jan 08 17:18:56 2014]  say: Luke   [oldhunty]: look
+[Wed Jan 08 17:19:00 2014]  say: Luke   [oldhunty]: hes talking
+[Wed Jan 08 17:19:41 2014]  say: ^1^7Padawan ^4Kyle: i screenshot that :D 
+[Wed Jan 08 17:19:45 2014]  say: Luke   [oldhunty]: xd
+[Wed Jan 08 17:20:02 2014]  print "^1^7Padawan ^4Kyle^7 @@@PLRENAME ^1Lord ^7Kyle
+"[Wed Jan 08 17:20:10 2014]  say: ^1Lord ^7Kyle: luke
+[Wed Jan 08 17:20:16 2014]  say: Luke   [oldhunty]: yes?
+[Wed Jan 08 17:20:29 2014]  say: ^1Lord ^7Kyle: sup
+[Wed Jan 08 17:20:35 2014]  say: Luke   [oldhunty]: sup
+[Wed Jan 08 17:20:37 2014]  say: ^1Lord ^7Kyle: long time no see
+[Wed Jan 08 17:20:41 2014]  say: Luke   [oldhunty]: eh
+[Wed Jan 08 17:20:45 2014]  say: Luke   [oldhunty]: how u have blue torso
+[Wed Jan 08 17:20:49 2014]  say: ^1Lord ^7Kyle: uh
+[Wed Jan 08 17:20:53 2014]  say: ^1Lord ^7Kyle: not important for now
+[Wed Jan 08 17:21:04 2014]  say: ^1Lord ^7Kyle: look i have grown in force
+[Wed Jan 08 17:21:27 2014]  say: ^1Lord ^7Kyle: come wanna show u something
+[Wed Jan 08 17:21:38 2014]  say: ^1Lord ^7Kyle: SHIT TAVION!
+[Wed Jan 08 17:21:44 2014]  say: Luke   [oldhunty]: KYLEEE!
+[Wed Jan 08 17:21:51 2014]  say: ^1Lord ^7Kyle: WAIT NO HELP ME
+[Wed Jan 08 17:21:55 2014]  say: ^1Lord ^7Kyle: we need to do again
+[Wed Jan 08 17:22:03 2014]  say: ^1Lord ^7Kyle: no help me
+[Wed Jan 08 17:22:04 2014]  say: ^1Lord ^7Kyle: ok
+[Wed Jan 08 17:22:06 2014]  say: ^1Lord ^7Kyle: again
+[Wed Jan 08 17:22:07 2014]  say: ^1Lord ^7Kyle: luke
+[Wed Jan 08 17:22:11 2014]  say: ^1Lord ^7Kyle: i wanna show u something
+[Wed Jan 08 17:22:22 2014]  say: ^1Lord ^7Kyle: SHIT TAVION ILL KILL HER
+[Wed Jan 08 17:22:33 2014]  say: Luke   [oldhunty]: what the
+[Wed Jan 08 17:22:39 2014]  say: Luke   [oldhunty]: TWO SITHS
+[Wed Jan 08 17:22:52 2014]  say: ^1Lord ^7Kyle: NO HELP ME!!
+[Wed Jan 08 17:23:02 2014]  say: Luke   [oldhunty]: im not helping u im killing u ashole!
+[Wed Jan 08 17:23:03 2014]  say: ^1Lord ^7Kyle: dude u have tu no help me
+[Wed Jan 08 17:23:16 2014]  say: ^1Lord ^7Kyle: I KILL HIM SO U WILL WACHT ONLY
+[Wed Jan 08 17:23:22 2014]  say: ^1Lord ^7Kyle: -_-
+[Wed Jan 08 17:23:25 2014]  say: ^1Lord ^7Kyle: again
+[Wed Jan 08 17:23:30 2014]  say: Luke   [oldhunty]: u have red saber
+[Wed Jan 08 17:23:33 2014]  say: ^1Lord ^7Kyle: ...........
+[Wed Jan 08 17:23:34 2014]  say: Luke   [oldhunty]: U SITH
+[Wed Jan 08 17:23:34 2014]  say: ^1Lord ^7Kyle: DUDE
+[Wed Jan 08 17:23:41 2014]  say: ^1Lord ^7Kyle: U ATTACKED HER
+[Wed Jan 08 17:23:46 2014]  say: ^1Lord ^7Kyle: WE NEED TO DO AGAIN
+[Wed Jan 08 17:23:50 2014]  say: ^1Lord ^7Kyle: SO U DONT KNOW ME AM SITH
+[Wed Jan 08 17:23:52 2014]  say: ^1Lord ^7Kyle: -_-
+[Wed Jan 08 17:23:55 2014]  say: Luke   [oldhunty]: I KNOW U SITH
+[Wed Jan 08 17:23:57 2014]  say: ^1Lord ^7Kyle: PLEASE DONT ATTACK
+[Wed Jan 08 17:23:58 2014]  say: Luke   [oldhunty]: BEACUSE U HAVE RED SABER
+[Wed Jan 08 17:24:05 2014]  say: ^1Lord ^7Kyle: -_-_-_-
+[Wed Jan 08 17:24:11 2014]  say: ^1Lord ^7Kyle: u no listen
+[Wed Jan 08 17:24:16 2014]  say: ^1Lord ^7Kyle: we repeat again!
+[Wed Jan 08 17:24:24 2014]  say: ^1Lord ^7Kyle: so u DONT KNOW I HAVE RED SABER -_-
+[Wed Jan 08 17:24:28 2014]  say: ^1Lord ^7Kyle: OMG 
+[Wed Jan 08 17:24:31 2014]  say: ^1Lord ^7Kyle: so dont attack
+[Wed Jan 08 17:24:41 2014]  say: ^1Lord ^7Kyle: OK CLOSE LIGHTSABER
+[Wed Jan 08 17:24:55 2014]  say: ^1Lord ^7Kyle: stop
+[Wed Jan 08 17:25:02 2014]  say: ^1Lord ^7Kyle: STOP OMG
+[Wed Jan 08 17:25:06 2014]  say: ^1Lord ^7Kyle: -_-
+[Wed Jan 08 17:25:10 2014]  say: Luke   [oldhunty]: tell me why
+[Wed Jan 08 17:25:25 2014]  say: ^1Lord ^7Kyle: I AM MAKING A FUCKING MOVIE BUT NO RECORDING AND U NO LISTEN
+[Wed Jan 08 17:25:34 2014]  say: ^1Lord ^7Kyle: please just wacht dont do anything
+[Wed Jan 08 17:25:39 2014]  say: ^1Lord ^7Kyle: ok
+[Wed Jan 08 17:25:40 2014]  say: Luke   [oldhunty]: i ..
+[Wed Jan 08 17:25:40 2014]  say: ^1Lord ^7Kyle: 3
+[Wed Jan 08 17:25:42 2014]  say: ^1Lord ^7Kyle: 2
+[Wed Jan 08 17:25:43 2014]  say: Luke   [oldhunty]: I..
+[Wed Jan 08 17:25:43 2014]  say: ^1Lord ^7Kyle: 1
+[Wed Jan 08 17:25:45 2014]  say: ^1Lord ^7Kyle: ..
+[Wed Jan 08 17:25:47 2014]  ClientDisconnect: 0
+[Wed Jan 08 17:25:53 2014]  ClientConnect: 0
+[Wed Jan 08 17:25:53 2014]  mlog:Player ^1Lord ^7Kyle, connected. With IP - 79.117.66.92:29070 
+[Wed Jan 08 17:26:02 2014]  ClientBegin: 0
+[Wed Jan 08 17:26:22 2014]  say: ^1Lord ^7Kyle: ?god
+[Wed Jan 08 17:26:32 2014]  say: ^1Lord ^7Kyle: do u even listen?
+[Wed Jan 08 17:26:49 2014]  say: ^1Lord ^7Kyle: PLEASE JUST FUCKING MEDITATE AND WACHT -.-
+[Wed Jan 08 17:26:53 2014]  say: ^1Lord ^7Kyle: STAY HER
+[Wed Jan 08 17:27:00 2014]  say: ^1Lord ^7Kyle: ok i remove u
+[Wed Jan 08 17:27:03 2014]  say: Luke   [oldhunty]: SURRENDER
+[Wed Jan 08 17:27:13 2014]  say: ^1Lord ^7Kyle: i remove u from xfire k?
+[Wed Jan 08 17:27:21 2014]  say: Luke   [oldhunty]: WHAT
+[Wed Jan 08 17:27:27 2014]  say: ^1Lord ^7Kyle: U NO FUCKING LISTEN
+[Wed Jan 08 17:27:30 2014]  say: ^1Lord ^7Kyle: LISTEN TO ME 
+[Wed Jan 08 17:27:36 2014]  say: ^1Lord ^7Kyle: so please stay like this
+[Wed Jan 08 17:27:37 2014]  say: Luke   [oldhunty]: okay :(
+[Wed Jan 08 17:27:41 2014]  say: ^1Lord ^7Kyle: and dont move
+[Wed Jan 08 17:27:44 2014]  say: ^1Lord ^7Kyle: ok finnaly
+[Wed Jan 08 17:28:00 2014]  say: ^1Lord ^7Kyle: ok i remove u 
+[Wed Jan 08 17:28:02 2014]  say: Luke   [oldhunty]: :(
+[Wed Jan 08 17:28:26 2014]  say: ^1Lord ^7Kyle: UR A SUCH AN IDIOT VLAD IS GOOD MORE THAN U
+[Wed Jan 08 17:28:35 2014]  say: Luke   [oldhunty]: :(
+[Wed Jan 08 17:28:45 2014]  say: ^1Lord ^7Kyle: cant u stay fucking?
+[Wed Jan 08 17:28:51 2014]  say: Luke   [oldhunty]: no
+[Wed Jan 08 17:28:52 2014]  say: ^1Lord ^7Kyle: and meditate
+[Wed Jan 08 17:28:54 2014]  say: ^1Lord ^7Kyle: ?
+[Wed Jan 08 17:28:56 2014]  say: Luke   [oldhunty]: no i cant
+[Wed Jan 08 17:29:00 2014]  say: ^1Lord ^7Kyle: then i go
+[Wed Jan 08 17:29:00 2014]  say: Luke   [oldhunty]: im doing screenshots
+[Wed Jan 08 17:29:03 2014]  ClientDisconnect: 0
+[Wed Jan 08 17:30:44 2014]  Kill: 2 2 39: Luke   [oldhunty] killed Luke   [oldhunty] by MOD_SUICIDE
+[Wed Jan 08 17:31:17 2014]  Kill: 2 2 39: Luke   [oldhunty] killed Luke   [oldhunty] by MOD_SUICIDE
+[Wed Jan 08 17:33:21 2014]  ClientConnect: 0
+[Wed Jan 08 17:33:21 2014]  mlog:Player Padawan, connected. With IP - 79.117.66.92:29070 
+[Wed Jan 08 17:33:50 2014]  ClientBegin: 0
+[Wed Jan 08 17:34:21 2014]  say: ^1Lord ^7Kyle: i will type in chat u can ignore me if u want
+[Wed Jan 08 17:34:37 2014]  say: ^1Lord ^7Kyle: where is jaden tavion?
+[Wed Jan 08 17:34:49 2014]  say: ^1Lord ^7Kyle: TAVION: DIE!
+[Wed Jan 08 17:35:20 2014]  say: Luke   [oldhunty]: KYLE NOO
+[Wed Jan 08 17:35:27 2014]  say: ^1Lord ^7Kyle: can u leave me?
+[Wed Jan 08 17:35:33 2014]  say: ^1Lord ^7Kyle: u sayd u do screeshots 
+[Wed Jan 08 17:35:38 2014]  say: ^1Lord ^7Kyle: then do them
+[Wed Jan 08 17:35:58 2014]  say: ^1Lord ^7Kyle: tavion:ugh....... u weak !
+[Wed Jan 08 17:36:01 2014]  Kill: 2 2 39: Luke   [oldhunty] killed Luke   [oldhunty] by MOD_SUICIDE
+[Wed Jan 08 17:36:14 2014]  say: ^1Lord ^7Kyle: where is jedi academy so i can destroy it?
+[Wed Jan 08 17:36:27 2014]  say: ^1Lord ^7Kyle: tavion:at yavin 4
+[Wed Jan 08 17:36:29 2014]  say: ^1Lord ^7Kyle: ok ty
+[Wed Jan 08 17:36:35 2014]  say: ^1Lord ^7Kyle: heh
+[Wed Jan 08 17:36:37 2014]  say: Luke   [oldhunty]: LIGHTNING ON MY HEAD LOL
+[Wed Jan 08 17:36:38 2014]  say: ^1Lord ^7Kyle: luke never know
+[Wed Jan 08 17:36:46 2014]  say: ^1Lord ^7Kyle: i must go now!
+[Wed Jan 08 17:36:50 2014]  say: Luke   [oldhunty]: lol
+[Wed Jan 08 17:36:53 2014]  say: ^1Lord ^7Kyle: omg! where is my ship
+[Wed Jan 08 17:37:01 2014]  say: ^1Lord ^7Kyle: fucking stormtroopers!
+[Wed Jan 08 17:37:25 2014]  say: ^1Lord ^7Kyle: leave me
+[Wed Jan 08 17:37:35 2014]  say: ^1Lord ^7Kyle: AND DONT SPAWN -_-
+[Wed Jan 08 17:37:45 2014]  say: ^1Lord ^7Kyle: ugh finnaly
+[Wed Jan 08 17:37:52 2014]  say: ^1Lord ^7Kyle: oh there is jaden
+[Wed Jan 08 17:38:20 2014]  Kill: 0 2 3: ^1Lord ^7Kyle killed Luke   [oldhunty] by MOD_SABER
+[Wed Jan 08 17:38:36 2014]  say: ^1Lord ^7Kyle: leave me
+[Wed Jan 08 17:39:05 2014]  say: Luke   [oldhunty]: lol
+[Wed Jan 08 17:39:13 2014]  Kill: 2 2 39: Luke   [oldhunty] killed Luke   [oldhunty] by MOD_SUICIDE
+[Wed Jan 08 17:39:15 2014]  say: ^1Lord ^7Kyle: join me jaden!
+[Wed Jan 08 17:39:20 2014]  say: ^1Lord ^7Kyle: jaden:never
+[Wed Jan 08 17:39:37 2014]  say: ^1Lord ^7Kyle: where is luke jaden?
+[Wed Jan 08 17:39:44 2014]  say: ^1Lord ^7Kyle: jaden:behind u
+[Wed Jan 08 17:39:58 2014]  say: ^1Lord ^7Kyle: sup luk
+[Wed Jan 08 17:40:02 2014]  say: ^1Lord ^7Kyle: luke*
+[Wed Jan 08 17:40:07 2014]  say: ^1Lord ^7Kyle: lol scared
+[Wed Jan 08 17:40:19 2014]  Kill: 2 2 39: Luke   [oldhunty] killed Luke   [oldhunty] by MOD_SUICIDE
+[Wed Jan 08 17:40:23 2014]  Kill: 2 2 39: Luke   [oldhunty] killed Luke   [oldhunty] by MOD_SUICIDE
+[Wed Jan 08 17:40:24 2014]  say: ^1Lord ^7Kyle: u are scared by the dark side luke ! ha
+[Wed Jan 08 17:40:35 2014]  ClientConnect: 1
+[Wed Jan 08 17:40:35 2014]  mlog:Player ICE, connected. With IP - 93.79.154.64:29070 
+[Wed Jan 08 17:41:03 2014]  say: ^1Lord ^7Kyle: hey !
+[Wed Jan 08 17:41:03 2014]  say: Luke   [oldhunty]: wat u want
+[Wed Jan 08 17:41:06 2014]  say: ^1Lord ^7Kyle: wel
+[Wed Jan 08 17:41:10 2014]  say: ^1Lord ^7Kyle: i killed jaden
+[Wed Jan 08 17:41:15 2014]  say: Luke   [oldhunty]: not my problem
+[Wed Jan 08 17:41:16 2014]  say: ^1Lord ^7Kyle: and rosh
+[Wed Jan 08 17:41:20 2014]  say: Luke   [oldhunty]: too not my problem
+[Wed Jan 08 17:41:22 2014]  say: ^1Lord ^7Kyle: and leia
+[Wed Jan 08 17:41:27 2014]  say: Luke   [oldhunty]: too not my problem
+[Wed Jan 08 17:41:31 2014]  say: ^1Lord ^7Kyle: and 
+[Wed Jan 08 17:41:34 2014]  say: ^1Lord ^7Kyle: ur penis!
+[Wed Jan 08 17:41:39 2014]  say: Luke   [oldhunty]: when
+[Wed Jan 08 17:41:42 2014]  say: Luke   [oldhunty]: this is a big problem
+[Wed Jan 08 17:41:48 2014]  say: ^1Lord ^7Kyle: ur a girl luke :D
+[Wed Jan 08 17:41:56 2014]  say: Luke   [oldhunty]: nope
+[Wed Jan 08 17:41:59 2014]  say: ^1Lord ^7Kyle: and
+[Wed Jan 08 17:42:02 2014]  say: ^1Lord ^7Kyle: i killed
+[Wed Jan 08 17:42:05 2014]  say: ^1Lord ^7Kyle: CHEWBACCA!
+[Wed Jan 08 17:42:15 2014]  say: Luke   [oldhunty]: can u shut up kyle?
+[Wed Jan 08 17:42:18 2014]  say: ^1Lord ^7Kyle: nah
+[Wed Jan 08 17:42:21 2014]  say: ^1Lord ^7Kyle: ah yes
+[Wed Jan 08 17:42:23 2014]  say: Luke   [oldhunty]: im watching my brother
+[Wed Jan 08 17:42:24 2014]  say: ^1Lord ^7Kyle: i am a sith now
+[Wed Jan 08 17:42:29 2014]  say: Luke   [oldhunty]: if u sith
+[Wed Jan 08 17:42:32 2014]  say: Luke   [oldhunty]: go to ask alora
+[Wed Jan 08 17:42:40 2014]  say: ^1Lord ^7Kyle: and i am here to kill u ;D
+[Wed Jan 08 17:42:45 2014]  say: Luke   [oldhunty]: good do it
+[Wed Jan 08 17:42:55 2014]  say: ^1Lord ^7Kyle: done 
+[Wed Jan 08 17:42:57 2014]  say: ^1Lord ^7Kyle: /
+[Wed Jan 08 17:42:58 2014]  say: ^1Lord ^7Kyle: ?
+[Wed Jan 08 17:43:06 2014]  say: ^1Lord ^7Kyle: U HAV
+[Wed Jan 08 17:43:10 2014]  say: ^1Lord ^7Kyle: THE POWER OF VALLY
+[Wed Jan 08 17:43:12 2014]  say: ^1Lord ^7Kyle: die!
+[Wed Jan 08 17:43:22 2014]  say: ^1Lord ^7Kyle: ah yes
+[Wed Jan 08 17:43:27 2014]  say: ^1Lord ^7Kyle: ill go kill
+[Wed Jan 08 17:43:33 2014]  say: ^1Lord ^7Kyle: :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD ur brother
+[Wed Jan 08 17:43:39 2014]  say: Luke   [oldhunty]: lol
+[Wed Jan 08 17:43:57 2014]  say: ^1Lord ^7Kyle: join me 
+[Wed Jan 08 17:43:59 2014]  say: ^1Lord ^7Kyle: !
+[Wed Jan 08 17:44:13 2014]  say: ^1Lord ^7Kyle: luke's brother:NEVAR BISH
+[Wed Jan 08 17:44:22 2014]  say: Luke   [oldhunty]: lol
+[Wed Jan 08 17:44:24 2014]  say: ^1Lord ^7Kyle: then ^1DIE
+[Wed Jan 08 17:44:34 2014]  say: ^1Lord ^7Kyle: dead
+[Wed Jan 08 17:44:50 2014]  ClientDisconnect: 1
+[Wed Jan 08 17:45:10 2014]  say: ^1Lord ^7Kyle: luke
+[Wed Jan 08 17:45:17 2014]  say: ^1Lord ^7Kyle: i killed ur brother :)
+[Wed Jan 08 17:45:22 2014]  say: Luke   [oldhunty]: well done
+[Wed Jan 08 17:45:24 2014]  tell: ^1Lord ^7Kyle to Luke   [oldhunty]: and drained his force
+[Wed Jan 08 17:45:35 2014]  say: ^1Lord ^7Kyle: well done?
+[Wed Jan 08 17:45:38 2014]  say: ^1Lord ^7Kyle: ur sith too :D?
+[Wed Jan 08 17:45:56 2014]  say: ^1Lord ^7Kyle: ugh another 2 jedis
+[Wed Jan 08 17:47:25 2014]  say: ^1Lord ^7Kyle: back
+[Wed Jan 08 17:47:28 2014]  say: ^1Lord ^7Kyle: i was piss
+[Wed Jan 08 17:47:50 2014]  say: ^1Lord ^7Kyle: dafuq luke?
+[Wed Jan 08 17:47:57 2014]  say: ^1Lord ^7Kyle: LOL
+[Wed Jan 08 17:47:59 2014]  say: ^1Lord ^7Kyle: WHAT SKIN XD
+[Wed Jan 08 17:48:12 2014]  say: ^1Lord ^7Kyle: jawa
+[Wed Jan 08 17:48:22 2014]  say: ^1Lord ^7Kyle: do u see here a jedi master named luke?
+[Wed Jan 08 17:49:19 2014]  say: ^1Lord ^7Kyle: lol where u?
+[Wed Jan 08 17:49:29 2014]  Kill: 0 0 39: ^1Lord ^7Kyle killed ^1Lord ^7Kyle by MOD_SUICIDE
+[Wed Jan 08 17:49:29 2014]  setteam:  0 FREE SPECTATOR
+[Wed Jan 08 17:49:29 2014]  ClientBegin: 0
+[Wed Jan 08 17:49:38 2014]  setteam:  0 SPECTATOR FREE
+[Wed Jan 08 17:49:38 2014]  ClientBegin: 0
+[Wed Jan 08 17:50:49 2014]  say: ^1Lord ^7Kyle: lel
+[Wed Jan 08 17:51:02 2014]  say: ^1Lord ^7Kyle: u make jedi house?
+[Wed Jan 08 17:51:15 2014]  say: ^1Lord ^7Kyle: wait i say to u when is good
+[Wed Jan 08 17:51:19 2014]  say: ^1Lord ^7Kyle: lol
+[Wed Jan 08 17:51:24 2014]  say: ^1Lord ^7Kyle: can i help too?
+[Wed Jan 08 17:52:09 2014]  say: Luke   [oldhunty]: DONT
+[Wed Jan 08 17:52:12 2014]  say: ^1Lord ^7Kyle: :(
+[Wed Jan 08 17:52:12 2014]  say: Luke   [oldhunty]: THIS IS MY PLACE BITCH
+[Wed Jan 08 17:52:18 2014]  say: ^1Lord ^7Kyle: u wanna help
+[Wed Jan 08 17:52:27 2014]  say: Luke   [oldhunty]: NO
+[Wed Jan 08 17:52:31 2014]  say: Luke   [oldhunty]: REMOVE THIS SHIT
+[Wed Jan 08 17:52:38 2014]  say: ^1Lord ^7Kyle: i wanna help u best friend
+[Wed Jan 08 17:52:41 2014]  say: ^1Lord ^7Kyle: :(
+[Wed Jan 08 17:52:43 2014]  say: ^1Lord ^7Kyle: :((((((((((((
+[Wed Jan 08 17:52:47 2014]  say: Luke   [oldhunty]: NO
+[Wed Jan 08 17:52:47 2014]  say: ^1Lord ^7Kyle: :(((((((((((((((((((((((((((((((((((((((((
+[Wed Jan 08 17:52:49 2014]  say: Luke   [oldhunty]: VLAD IS U BEST FRIEND
+[Wed Jan 08 17:52:51 2014]  say: Luke   [oldhunty]: IM A PLAYER
+[Wed Jan 08 17:52:52 2014]  say: ^1Lord ^7Kyle: no
+[Wed Jan 08 17:52:58 2014]  say: ^1Lord ^7Kyle: VLAD IS SHIT
+[Wed Jan 08 17:53:03 2014]  say: ^1Lord ^7Kyle: u best friend
+[Wed Jan 08 17:53:06 2014]  say: ^1Lord ^7Kyle: u will be forever
+[Wed Jan 08 17:53:08 2014]  say: ^1Lord ^7Kyle: best friend
+[Wed Jan 08 17:53:10 2014]  say: ^1Lord ^7Kyle: :D
+[Wed Jan 08 17:53:22 2014]  say: Luke   [oldhunty]: ITS NOT KIDDING
+[Wed Jan 08 17:53:28 2014]  say: ^1Lord ^7Kyle: i am not kidding
+[Wed Jan 08 17:53:37 2014]  say: ^1Lord ^7Kyle: i really wanna play and help with U :)
+[Wed Jan 08 17:53:40 2014]  say: Luke   [oldhunty]: :D <---
+[Wed Jan 08 17:53:48 2014]  say: ^1Lord ^7Kyle: please forgive me best friend
+[Wed Jan 08 17:53:58 2014]  say: ^1Lord ^7Kyle: please :DDDD
+[Wed Jan 08 17:54:05 2014]  say: Luke   [oldhunty]: no
+[Wed Jan 08 17:54:11 2014]  say: ^1Lord ^7Kyle: :((((((((((((((((((((((((
+[Wed Jan 08 17:54:20 2014]  say: ^1Lord ^7Kyle: :(((
+[Wed Jan 08 17:54:21 2014]  say: ^1Lord ^7Kyle: ;(
+[Wed Jan 08 17:54:26 2014]  say: Luke   [oldhunty]: WHAT U WANT!
+[Wed Jan 08 17:54:36 2014]  say: ^1Lord ^7Kyle: TO PLAY WITH U
+[Wed Jan 08 17:54:42 2014]  say: ^1Lord ^7Kyle: with my bestfriend old
+[Wed Jan 08 17:54:51 2014]  print "Luke   [oldhunty]^7 @@@PLRENAME player
+"[Wed Jan 08 17:54:56 2014]  say: player: old is away
+[Wed Jan 08 17:55:02 2014]  say: ^1Lord ^7Kyle: i mean bestfriend player
+[Wed Jan 08 17:55:08 2014]  print "player^7 @@@PLRENAME old
+"[Wed Jan 08 17:55:12 2014]  say: ^1Lord ^7Kyle: i mean old
+[Wed Jan 08 17:55:20 2014]  print "old^7 @@@PLRENAME lol
+"[Wed Jan 08 17:55:23 2014]  say: ^1Lord ^7Kyle: i mean lol
+[Wed Jan 08 17:55:27 2014]  print "lol^7 @@@PLRENAME nothing
+"[Wed Jan 08 17:55:30 2014]  say: ^1Lord ^7Kyle: i mean nothing
+[Wed Jan 08 17:55:33 2014]  say: nothing: good
+[Wed Jan 08 17:55:39 2014]  say: nothing: now leave
+[Wed Jan 08 17:55:47 2014]  say: ^1Lord ^7Kyle: i mean  nothing  best friend :D
+[Wed Jan 08 17:56:06 2014]  say: nothing: and i mean go play with vlad
+[Wed Jan 08 17:56:19 2014]  say: ^1Lord ^7Kyle: vlad is offline -_-
+[Wed Jan 08 17:56:22 2014]  say: nothing: ye
+[Wed Jan 08 17:56:28 2014]  say: ^1Lord ^7Kyle: so i dont play with him lol
+[Wed Jan 08 17:56:28 2014]  say: nothing: and if will online u will leave
+[Wed Jan 08 17:56:30 2014]  say: nothing: this i know
+[Wed Jan 08 17:56:31 2014]  say: ^1Lord ^7Kyle: no
+[Wed Jan 08 17:56:39 2014]  say: ^1Lord ^7Kyle: if hes gonna be online i will not leave
+[Wed Jan 08 17:56:41 2014]  say: ^1Lord ^7Kyle: i promise
+[Wed Jan 08 17:57:00 2014]  say: ^1Lord ^7Kyle: hes a gay asshole
+[Wed Jan 08 17:57:05 2014]  say: ^1Lord ^7Kyle: and u are best friend
+[Wed Jan 08 17:57:10 2014]  say: nothing: this i tell to vlad
+[Wed Jan 08 17:57:12 2014]  say: nothing: u saying hes ashole
+[Wed Jan 08 17:57:18 2014]  say: ^1Lord ^7Kyle: yes
+[Wed Jan 08 17:57:23 2014]  say: ^1Lord ^7Kyle: hes asshole
+[Wed Jan 08 17:57:31 2014]  say: nothing: vlad bunny saying u ashole
+[Wed Jan 08 17:57:39 2014]  say: ^1Lord ^7Kyle:  :D
+[Wed Jan 08 17:57:46 2014]  say: ^1Lord ^7Kyle: u can tell him if u want 
+[Wed Jan 08 17:57:49 2014]  say: ^1Lord ^7Kyle: wait
+[Wed Jan 08 17:57:54 2014]  say: ^1Lord ^7Kyle: i remove vlad from xfire
+[Wed Jan 08 17:58:01 2014]  say: nothing: lol u mad
+[Wed Jan 08 17:58:10 2014]  say: ^1Lord ^7Kyle: yes i will do it now
+[Wed Jan 08 17:58:12 2014]  say: ^1Lord ^7Kyle: brb
+[Wed Jan 08 17:58:13 2014]  ClientDisconnect: 0
+[Wed Jan 08 17:59:08 2014]  ClientConnect: 0
+[Wed Jan 08 17:59:08 2014]  mlog:Player Padawan, connected. With IP - 79.117.66.92:29070 
+[Wed Jan 08 17:59:37 2014]  ClientBegin: 0
+[Wed Jan 08 17:59:46 2014]  say: ^1Lord ^7Kyle: ok i removed him from xfire
+[Wed Jan 08 17:59:55 2014]  say: nothing: no u removed me not vlad
+[Wed Jan 08 17:59:59 2014]  say: ^1Lord ^7Kyle: no
+[Wed Jan 08 18:00:04 2014]  say: ^1Lord ^7Kyle: i removed vlad
+[Wed Jan 08 18:00:18 2014]  say: nothing: i see vlad at u friends lol
+[Wed Jan 08 18:00:22 2014]  say: ^1Lord ^7Kyle: no
+[Wed Jan 08 18:00:25 2014]  say: ^1Lord ^7Kyle: ah
+[Wed Jan 08 18:00:28 2014]  say: ^1Lord ^7Kyle: i forgot one
+[Wed Jan 08 18:00:31 2014]  say: ^1Lord ^7Kyle: because
+[Wed Jan 08 18:00:36 2014]  say: ^1Lord ^7Kyle: he has 3 accounts on xfire
+[Wed Jan 08 18:00:37 2014]  say: ^1Lord ^7Kyle: ok brb
+[Wed Jan 08 18:00:40 2014]  ClientDisconnect: 0
+[Wed Jan 08 18:01:04 2014]  ClientConnect: 0
+[Wed Jan 08 18:01:04 2014]  mlog:Player Padawan, connected. With IP - 79.117.66.92:29070 
+[Wed Jan 08 18:01:33 2014]  ClientBegin: 0
+[Wed Jan 08 18:01:41 2014]  say: nothing: i remove u
+[Wed Jan 08 18:01:44 2014]  say: ^1Lord ^7Kyle: why?
+[Wed Jan 08 18:01:47 2014]  say: nothing: u removing vlad
+[Wed Jan 08 18:02:01 2014]  say: ^1Lord ^7Kyle: and?
+[Wed Jan 08 18:02:28 2014]  say: nothing: one minute to save
+[Wed Jan 08 18:02:29 2014]  say: nothing: lol
+[Wed Jan 08 18:02:32 2014]  say: nothing: i dunno how save
+[Wed Jan 08 18:02:38 2014]  say: ^1Lord ^7Kyle: /msaveobs 
+[Wed Jan 08 18:02:39 2014]  say: ^1Lord ^7Kyle: i think
+[Wed Jan 08 18:02:40 2014]  say: ^1Lord ^7Kyle: ye
+[Wed Jan 08 18:02:42 2014]  say: ^1Lord ^7Kyle: try 
+[Wed Jan 08 18:02:53 2014]  say: nothing: 15 objects saved
+[Wed Jan 08 18:02:56 2014]  say: nothing: lo
+[Wed Jan 08 18:02:57 2014]  say: ^1Lord ^7Kyle: see :D
+[Wed Jan 08 18:02:58 2014]  say: nothing: and how load
+[Wed Jan 08 18:02:59 2014]  ClientConnect: 1
+[Wed Jan 08 18:02:59 2014]  mlog:Player Kasszian, connected. With IP - 188.191.82.23:29070 
+[Wed Jan 08 18:03:08 2014]  say: nothing: how load
+[Wed Jan 08 18:03:09 2014]  ClientBegin: 1
+[Wed Jan 08 18:03:13 2014]  say: ^1Lord ^7Kyle: wait let me see at /minfo
+[Wed Jan 08 18:03:23 2014]  Exit: Timelimit hit.
+[Wed Jan 08 18:03:23 2014]  score: 13  ping: 58  client: 2 nothing
+[Wed Jan 08 18:03:23 2014]  score: 0  ping: 201  client: 1 Kasszian
+[Wed Jan 08 18:03:23 2014]  score: 0  ping: 50  client: 0 ^1Lord ^7Kyle
+[Wed Jan 08 18:03:25 2014]  say: nothing: gg
+[Wed Jan 08 18:03:28 2014]  say: ^1Lord ^7Kyle: gg
+[Wed Jan 08 18:03:31 2014]  ShutdownGame:
+[Wed Jan 08 18:03:31 2014]  ------------------------------------------------------------
+[Wed Jan 08 18:03:31 2014]  ------------------------------------------------------------
+[Wed Jan 08 18:03:31 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Jan 08 18:03:32 2014]  ClientConnect: 0
+[Wed Jan 08 18:03:32 2014]  ClientConnect: 1
+[Wed Jan 08 18:03:32 2014]  ClientConnect: 2
+[Wed Jan 08 18:03:40 2014]  ClientBegin: 1
+[Wed Jan 08 18:03:44 2014]  ClientBegin: 0
+[Wed Jan 08 18:03:54 2014]  ClientBegin: 2
+[Wed Jan 08 18:04:14 2014]  print "nothing^7 @@@PLRENAME ^4G^7randa^3G^1lorian
+"[Wed Jan 08 18:04:19 2014]  say: ^1Lord ^7Kyle: lol
+[Wed Jan 08 18:04:56 2014]  say: ^4G^7randa^3G^1lorian: is now in shit
+[Wed Jan 08 18:05:06 2014]  say: ^1Lord ^7Kyle: what?
+[Wed Jan 08 18:05:09 2014]  say: ^4G^7randa^3G^1lorian: the load
+[Wed Jan 08 18:05:12 2014]  say: ^4G^7randa^3G^1lorian: i dunno how load
+[Wed Jan 08 18:05:22 2014]  say: ^1Lord ^7Kyle: well at /minfo
+[Wed Jan 08 18:05:25 2014]  say: ^1Lord ^7Kyle: it dont say there
+[Wed Jan 08 18:05:29 2014]  say: ^1Lord ^7Kyle: but look here
+[Wed Jan 08 18:05:30 2014]  say: ^4G^7randa^3G^1lorian: say or die
+[Wed Jan 08 18:05:38 2014]  say: ^1Lord ^7Kyle: go /minfo and search
+[Wed Jan 08 18:05:43 2014]  say: ^4G^7randa^3G^1lorian: say or die!
+[Wed Jan 08 18:06:06 2014]  say: ^1Lord ^7Kyle: go search at /minfo -_- there it tells everything
+[Wed Jan 08 18:06:12 2014]  say: ^4G^7randa^3G^1lorian: 3
+[Wed Jan 08 18:06:16 2014]  say: ^4G^7randa^3G^1lorian: 2
+[Wed Jan 08 18:06:16 2014]  say: ^1Lord ^7Kyle: ah
+[Wed Jan 08 18:06:19 2014]  say: ^1Lord ^7Kyle: wait
+[Wed Jan 08 18:06:21 2014]  say: ^4G^7randa^3G^1lorian: 1
+[Wed Jan 08 18:06:31 2014]  say: ^4G^7randa^3G^1lorian: ...
+[Wed Jan 08 18:06:33 2014]  say: ^4G^7randa^3G^1lorian: ....
+[Wed Jan 08 18:06:36 2014]  say: ^4G^7randa^3G^1lorian: .....
+[Wed Jan 08 18:06:38 2014]  say: ^4G^7randa^3G^1lorian: .....
+[Wed Jan 08 18:06:40 2014]  say: ^4G^7randa^3G^1lorian: y........
+[Wed Jan 08 18:06:42 2014]  say: ^4G^7randa^3G^1lorian: ..........
+[Wed Jan 08 18:06:45 2014]  say: ^1Lord ^7Kyle: WAIT 
+[Wed Jan 08 18:07:30 2014]  say: ^1Lord ^7Kyle: try /mloadobs
+[Wed Jan 08 18:07:53 2014]  say: ^1Lord ^7Kyle: so?
+[Wed Jan 08 18:08:05 2014]  say: ^4G^7randa^3G^1lorian: on thi smap im saved nothing
+[Wed Jan 08 18:08:13 2014]  say: ^1Lord ^7Kyle: then build
+[Wed Jan 08 18:08:17 2014]  say: ^4G^7randa^3G^1lorian: what the
+[Wed Jan 08 18:08:25 2014]  say: ^1Lord ^7Kyle: wat?
+[Wed Jan 08 18:08:27 2014]  ClientDisconnect: 1
+[Wed Jan 08 18:08:30 2014]  say: ^4G^7randa^3G^1lorian: AHOLE JUST DIE!
+[Wed Jan 08 18:08:36 2014]  say: ^1Lord ^7Kyle: lol?
+[Wed Jan 08 18:08:37 2014]  say: ^4G^7randa^3G^1lorian: sure!
+[Wed Jan 08 18:08:49 2014]  say: ^4G^7randa^3G^1lorian: ...
+[Wed Jan 08 18:09:04 2014]  say: ^4G^7randa^3G^1lorian: this is madness!
+[Wed Jan 08 18:09:10 2014]  say: ^1Lord ^7Kyle: madness?
+[Wed Jan 08 18:09:17 2014]  say: ^4G^7randa^3G^1lorian: YES THIS
+[Wed Jan 08 18:09:24 2014]  say: ^4G^7randa^3G^1lorian: DIE BITCH
+[Wed Jan 08 18:09:29 2014]  say: ^1Lord ^7Kyle: hey wanna some swtor 
+[Wed Jan 08 18:09:33 2014]  say: ^1Lord ^7Kyle: u choose what u want
+[Wed Jan 08 18:09:34 2014]  say: ^4G^7randa^3G^1lorian: lol
+[Wed Jan 08 18:09:37 2014]  say: ^4G^7randa^3G^1lorian: no leaving and leaving
+[Wed Jan 08 18:09:41 2014]  say: ^1Lord ^7Kyle: ok
+[Wed Jan 08 18:09:43 2014]  say: ^1Lord ^7Kyle: then no swtor
+[Wed Jan 08 18:09:43 2014]  Kill: 2 2 27: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_DET_PACK_SPLASH
+[Wed Jan 08 18:09:47 2014]  say: ^4G^7randa^3G^1lorian: lol
+[Wed Jan 08 18:09:49 2014]  say: ^4G^7randa^3G^1lorian: DOORS OPENED
+[Wed Jan 08 18:09:52 2014]  say: ^1Lord ^7Kyle: where?
+[Wed Jan 08 18:10:01 2014]  say: ^4G^7randa^3G^1lorian: IN U MOM ASS
+[Wed Jan 08 18:10:08 2014]  say: ^1Lord ^7Kyle: I FOUND HAN SHIP
+[Wed Jan 08 18:10:12 2014]  say: ^4G^7randa^3G^1lorian: ME TU
+[Wed Jan 08 18:10:25 2014]  say: ^1Lord ^7Kyle: WHERE U HAN?
+[Wed Jan 08 18:10:45 2014]  Kill: 2 2 27: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_DET_PACK_SPLASH
+[Wed Jan 08 18:10:54 2014]  say: ^4G^7randa^3G^1lorian: THERE
+[Wed Jan 08 18:10:56 2014]  say: ^4G^7randa^3G^1lorian: eh
+[Wed Jan 08 18:11:00 2014]  say: ^4G^7randa^3G^1lorian: this will cell
+[Wed Jan 08 18:11:00 2014]  say: ^1Lord ^7Kyle: hey 
+[Wed Jan 08 18:11:04 2014]  say: ^1Lord ^7Kyle: i have idea
+[Wed Jan 08 18:11:12 2014]  say: ^1Lord ^7Kyle: lest make a republic base?
+[Wed Jan 08 18:11:35 2014]  say: ^1Lord ^7Kyle: who are those jawa?
+[Wed Jan 08 18:11:58 2014]  say: ^1Lord ^7Kyle: press tab ;d
+[Wed Jan 08 18:12:06 2014]  say: ^1Lord ^7Kyle: lol?
+[Wed Jan 08 18:12:20 2014]  say: ^4G^7randa^3G^1lorian: i want lock the doorz
+[Wed Jan 08 18:12:21 2014]  print "^1Lord ^7Kyle^7 @@@PLRENAME Padawan
+"[Wed Jan 08 18:12:26 2014]  say: Padawan: i think u can
+[Wed Jan 08 18:12:28 2014]  say: Padawan: hmm
+[Wed Jan 08 18:12:31 2014]  say: Padawan: lol
+[Wed Jan 08 18:12:38 2014]  print "Padawan^7 @@@PLRENAME ^4Stormtrooper
+"[Wed Jan 08 18:12:51 2014]  say: ^4G^7randa^3G^1lorian: lol
+[Wed Jan 08 18:13:19 2014]  say: ^4Stormtrooper: let me see
+[Wed Jan 08 18:13:46 2014]  say: ^4Stormtrooper: nop no command for lock door :/
+[Wed Jan 08 18:14:05 2014]  say: ^4Stormtrooper: spawn guards XD
+[Wed Jan 08 18:14:14 2014]  say: ^4Stormtrooper: to guard door
+[Wed Jan 08 18:14:30 2014]  say: ^4Stormtrooper: ah
+[Wed Jan 08 18:14:31 2014]  say: ^4G^7randa^3G^1lorian: yes!
+[Wed Jan 08 18:14:39 2014]  say: ^4G^7randa^3G^1lorian: gtfo
+[Wed Jan 08 18:14:40 2014]  say: ^4Stormtrooper: u wanna make cell?
+[Wed Jan 08 18:14:45 2014]  say: ^4G^7randa^3G^1lorian: this is cell
+[Wed Jan 08 18:14:46 2014]  say: ^4Stormtrooper: ill help ya :dd
+[Wed Jan 08 18:15:13 2014]  say: ^4Stormtrooper: OOPS
+[Wed Jan 08 18:15:32 2014]  say: ^4Stormtrooper: u know u  can bind right?
+[Wed Jan 08 18:15:46 2014]  say: ^4G^7randa^3G^1lorian: i dont like binds
+[Wed Jan 08 18:15:48 2014]  say: ^4Stormtrooper: k
+[Wed Jan 08 18:16:01 2014]  say: ^4Stormtrooper: they cant escape heheh
+[Wed Jan 08 18:16:23 2014]  say: ^4G^7randa^3G^1lorian: RANCOR IS HER
+[Wed Jan 08 18:16:25 2014]  say: ^4Stormtrooper: lol
+[Wed Jan 08 18:16:29 2014]  say: ^4Stormtrooper: its a boy :D
+[Wed Jan 08 18:16:30 2014]  say: ^4G^7randa^3G^1lorian: OH COME COME!
+[Wed Jan 08 18:16:37 2014]  say: ^4G^7randa^3G^1lorian: DAMN THATS NOT GOOD
+[Wed Jan 08 18:16:38 2014]  say: ^4Stormtrooper: OUCH
+[Wed Jan 08 18:16:38 2014]  Kill: 1022 2 2: <world> killed ^4G^7randa^3G^1lorian by MOD_MELEE
+[Wed Jan 08 18:16:39 2014]  ClientConnect: 1
+[Wed Jan 08 18:16:39 2014]  mlog:Player ^2N^5ewcomer, connected. With IP - 37.204.223.2:29070 
+[Wed Jan 08 18:16:50 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:16:54 2014]  say: ^4Stormtrooper: SHIT
+[Wed Jan 08 18:16:55 2014]  say: ^4Stormtrooper: help!
+[Wed Jan 08 18:16:55 2014]  Kill: 1022 0 2: <world> killed ^4Stormtrooper by MOD_MELEE
+[Wed Jan 08 18:16:56 2014]  say: ^4Stormtrooper: ah
+[Wed Jan 08 18:17:08 2014]  say: ^4G^7randa^3G^1lorian: IM GOING UPRAGE DOORS
+[Wed Jan 08 18:17:20 2014]  ClientBegin: 1
+[Wed Jan 08 18:17:25 2014]  say: ^4G^7randa^3G^1lorian: HI NEWCOMER
+[Wed Jan 08 18:17:27 2014]  say: ^4Stormtrooper: hmm
+[Wed Jan 08 18:17:41 2014]  say: ^4G^7randa^3G^1lorian: I HAVE IDEA
+[Wed Jan 08 18:17:45 2014]  say: ^4Stormtrooper: ?
+[Wed Jan 08 18:18:53 2014]  say: ^4Stormtrooper: lol
+[Wed Jan 08 18:19:03 2014]  say: ^4Stormtrooper: this cell is good
+[Wed Jan 08 18:19:05 2014]  say: ^4Stormtrooper: look
+[Wed Jan 08 18:19:10 2014]  say: ^4Stormtrooper: or not
+[Wed Jan 08 18:19:12 2014]  say: ^4Stormtrooper: XD
+[Wed Jan 08 18:20:02 2014]  say: ^2N^5ewcomer: ïðèâåò)
+[Wed Jan 08 18:20:03 2014]  say: ^4G^7randa^3G^1lorian: GTFO
+[Wed Jan 08 18:20:06 2014]  say: ^2N^5ewcomer: hi)
+[Wed Jan 08 18:20:08 2014]  say: ^4Stormtrooper: hi
+[Wed Jan 08 18:20:17 2014]  Item: 1 weapon_melee
+[Wed Jan 08 18:20:19 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:20:32 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:21:05 2014]  say: ^4G^7randa^3G^1lorian: yes!
+[Wed Jan 08 18:21:11 2014]  say: ^4Stormtrooper: wat?
+[Wed Jan 08 18:21:12 2014]  say: ^4G^7randa^3G^1lorian: ITS A CRA 
+[Wed Jan 08 18:21:13 2014]  say: ^4G^7randa^3G^1lorian: CAR
+[Wed Jan 08 18:21:14 2014]  say: ^4G^7randa^3G^1lorian: XD
+[Wed Jan 08 18:21:19 2014]  say: ^4G^7randa^3G^1lorian: MOVE
+[Wed Jan 08 18:21:19 2014]  say: ^4Stormtrooper: Lo
+[Wed Jan 08 18:21:20 2014]  say: ^4G^7randa^3G^1lorian: MOVŠE
+[Wed Jan 08 18:21:21 2014]  say: ^4G^7randa^3G^1lorian: MOVE
+[Wed Jan 08 18:21:22 2014]  say: ^4G^7randa^3G^1lorian: MOVE
+[Wed Jan 08 18:21:24 2014]  say: ^4G^7randa^3G^1lorian: XD
+[Wed Jan 08 18:21:28 2014]  say: ^4G^7randa^3G^1lorian: GIVE THAT TO UP
+[Wed Jan 08 18:21:30 2014]  say: ^4G^7randa^3G^1lorian: HERE
+[Wed Jan 08 18:21:39 2014]  say: ^4G^7randa^3G^1lorian: OUCH
+[Wed Jan 08 18:21:43 2014]  say: ^4Stormtrooper: XD
+[Wed Jan 08 18:21:46 2014]  say: ^4G^7randa^3G^1lorian: YE
+[Wed Jan 08 18:21:51 2014]  say: ^4G^7randa^3G^1lorian: VERY GUD
+[Wed Jan 08 18:21:55 2014]  say: ^4G^7randa^3G^1lorian: WHAT THE
+[Wed Jan 08 18:21:58 2014]  say: ^4G^7randa^3G^1lorian: BRO
+[Wed Jan 08 18:21:59 2014]  say: ^4Stormtrooper: oop
+[Wed Jan 08 18:22:15 2014]  Kill: 1 1 39: ^2N^5ewcomer killed ^2N^5ewcomer by MOD_SUICIDE
+[Wed Jan 08 18:22:15 2014]  setteam:  1 FREE SPECTATOR
+[Wed Jan 08 18:22:15 2014]  ClientBegin: 1
+[Wed Jan 08 18:22:19 2014]  say: ^4Stormtrooper: shall i kill him?
+[Wed Jan 08 18:22:22 2014]  say: ^4G^7randa^3G^1lorian: NO
+[Wed Jan 08 18:22:24 2014]  say: ^4G^7randa^3G^1lorian: HES PRISONER
+[Wed Jan 08 18:22:25 2014]  say: ^4Stormtrooper: ok sir!
+[Wed Jan 08 18:22:30 2014]  setteam:  1 SPECTATOR FREE
+[Wed Jan 08 18:22:30 2014]  ClientBegin: 1
+[Wed Jan 08 18:22:30 2014]  say: ^4G^7randa^3G^1lorian: IN SWTOR
+[Wed Jan 08 18:22:35 2014]  say: ^4G^7randa^3G^1lorian: WILL PLAY WITH TROOPER
+[Wed Jan 08 18:22:37 2014]  say: ^4G^7randa^3G^1lorian: AND ADD VLAD BACK
+[Wed Jan 08 18:22:38 2014]  Item: 1 weapon_melee
+[Wed Jan 08 18:22:38 2014]  say: ^4Stormtrooper: ok
+[Wed Jan 08 18:22:41 2014]  say: ^4G^7randa^3G^1lorian: IF UWANT
+[Wed Jan 08 18:22:41 2014]  say: ^4Stormtrooper: ok ok
+[Wed Jan 08 18:22:44 2014]  say: ^4Stormtrooper: ok?
+[Wed Jan 08 18:22:48 2014]  tell: ^4Stormtrooper to ^4G^7randa^3G^1lorian: trooper
+[Wed Jan 08 18:22:48 2014]  say: ^4Stormtrooper: ok
+[Wed Jan 08 18:22:52 2014]  say: ^4G^7randa^3G^1lorian: if u .. wa..nn..tt..
+[Wed Jan 08 18:22:55 2014]  say: ^4Stormtrooper: wai
+[Wed Jan 08 18:22:57 2014]  say: ^4Stormtrooper: WAIT
+[Wed Jan 08 18:22:59 2014]  say: ^4G^7randa^3G^1lorian: DONT
+[Wed Jan 08 18:23:01 2014]  say: ^4Stormtrooper: what trooper
+[Wed Jan 08 18:23:02 2014]  say: ^4G^7randa^3G^1lorian: HES KILLER
+[Wed Jan 08 18:23:04 2014]  say: ^4G^7randa^3G^1lorian: NOO
+[Wed Jan 08 18:23:07 2014]  say: ^4Stormtrooper: sith or republic?
+[Wed Jan 08 18:23:12 2014]  say: ^4G^7randa^3G^1lorian: FUCKING ASHOLE DONT KILL THE GUY!
+[Wed Jan 08 18:23:13 2014]  say: ^2N^5ewcomer: xD
+[Wed Jan 08 18:23:18 2014]  say: ^4G^7randa^3G^1lorian: SRY COMER
+[Wed Jan 08 18:23:22 2014]  say: ^4G^7randa^3G^1lorian: THIS PRISONER IS VERY FAKE
+[Wed Jan 08 18:23:28 2014]  say: ^4G^7randa^3G^1lorian: OH
+[Wed Jan 08 18:23:38 2014]  say: ^4G^7randa^3G^1lorian: for invisible mode
+[Wed Jan 08 18:23:38 2014]  say: ^4G^7randa^3G^1lorian: ok
+[Wed Jan 08 18:23:40 2014]  Item: 2 ammo_all
+[Wed Jan 08 18:23:50 2014]  say: ^4Stormtrooper: report for duty sir!
+[Wed Jan 08 18:23:56 2014]  say: ^4G^7randa^3G^1lorian: uhm
+[Wed Jan 08 18:23:57 2014]  Kill: 1 1 39: ^2N^5ewcomer killed ^2N^5ewcomer by MOD_SUICIDE
+[Wed Jan 08 18:24:04 2014]  Kill: 1 1 39: ^2N^5ewcomer killed ^2N^5ewcomer by MOD_SUICIDE
+[Wed Jan 08 18:24:14 2014]  say: ^4Stormtrooper: ugly prisoner heh
+[Wed Jan 08 18:24:20 2014]  say: ^4G^7randa^3G^1lorian: yea
+[Wed Jan 08 18:24:31 2014]  Item: 1 weapon_melee
+[Wed Jan 08 18:24:37 2014]  say: ^4Stormtrooper: ill investigate the area sri!
+[Wed Jan 08 18:24:40 2014]  say: ^4Stormtrooper: sir*
+[Wed Jan 08 18:24:45 2014]  say: ^4G^7randa^3G^1lorian: dont
+[Wed Jan 08 18:24:54 2014]  say: ^4G^7randa^3G^1lorian: ok
+[Wed Jan 08 18:25:27 2014]  say: ^4G^7randa^3G^1lorian: god
+[Wed Jan 08 18:25:29 2014]  say: ^2N^5ewcomer: xD
+[Wed Jan 08 18:25:29 2014]  say: ^4Stormtrooper: OMG
+[Wed Jan 08 18:25:34 2014]  say: ^4G^7randa^3G^1lorian: that was amazingt
+[Wed Jan 08 18:25:37 2014]  say: ^4G^7randa^3G^1lorian: that light
+[Wed Jan 08 18:25:39 2014]  say: ^4G^7randa^3G^1lorian: and the voices
+[Wed Jan 08 18:25:40 2014]  say: ^4Stormtrooper: that was awesome :D
+[Wed Jan 08 18:25:40 2014]  say: ^4G^7randa^3G^1lorian: lol
+[Wed Jan 08 18:26:03 2014]  say: ^4Stormtrooper: old
+[Wed Jan 08 18:26:08 2014]  say: ^2N^5ewcomer: gates of hell)
+[Wed Jan 08 18:26:16 2014]  say: ^4Stormtrooper: what u in swtor at trooper ? vanguard or cannon ?
+[Wed Jan 08 18:26:17 2014]  say: ^4G^7randa^3G^1lorian: wat
+[Wed Jan 08 18:26:36 2014]  say: ^4Stormtrooper: at lvl 10 advance class
+[Wed Jan 08 18:27:17 2014]  say: ^4Stormtrooper: something wrong sir?
+[Wed Jan 08 18:27:28 2014]  say: ^4Stormtrooper: sir look up
+[Wed Jan 08 18:27:34 2014]  say: ^4G^7randa^3G^1lorian: what the
+[Wed Jan 08 18:27:41 2014]  say: ^4G^7randa^3G^1lorian: eh
+[Wed Jan 08 18:27:43 2014]  say: ^2N^5ewcomer: xD
+[Wed Jan 08 18:27:47 2014]  say: ^4G^7randa^3G^1lorian: how
+[Wed Jan 08 18:27:55 2014]  say: ^4Stormtrooper: he has scripts sir!
+[Wed Jan 08 18:28:02 2014]  say: ^4G^7randa^3G^1lorian: hm
+[Wed Jan 08 18:28:22 2014]  say: ^4Stormtrooper: BRB GOING PISS
+[Wed Jan 08 18:28:25 2014]  say: ^4Stormtrooper: XD
+[Wed Jan 08 18:28:32 2014]  say: ^4G^7randa^3G^1lorian: good luck with piss 
+[Wed Jan 08 18:30:32 2014]  say: ^4G^7randa^3G^1lorian: HIA!
+[Wed Jan 08 18:30:42 2014]  say: ^4G^7randa^3G^1lorian: WHAT THE
+[Wed Jan 08 18:30:43 2014]  say: ^4Stormtrooper: BACK
+[Wed Jan 08 18:30:46 2014]  say: ^2N^5ewcomer: xD
+[Wed Jan 08 18:30:46 2014]  say: ^4G^7randa^3G^1lorian: HIA!
+[Wed Jan 08 18:30:48 2014]  Item: 0 ammo_all
+[Wed Jan 08 18:30:49 2014]  say: ^4G^7randa^3G^1lorian: HIA BITCH
+[Wed Jan 08 18:31:00 2014]  say: ^4G^7randa^3G^1lorian: WELCOME BACK COMMANDER STORM
+[Wed Jan 08 18:31:07 2014]  say: ^4Stormtrooper: a pleasure sir :D
+[Wed Jan 08 18:31:15 2014]  say: ^4G^7randa^3G^1lorian: COMMANDER STORM
+[Wed Jan 08 18:31:19 2014]  say: ^4Stormtrooper: yes?
+[Wed Jan 08 18:31:23 2014]  say: ^4G^7randa^3G^1lorian: HOW PLACE DOORZ
+[Wed Jan 08 18:31:29 2014]  say: ^4Stormtrooper: i dont know sir sorry!
+[Wed Jan 08 18:31:44 2014]  say: ^4Stormtrooper: comer
+[Wed Jan 08 18:31:47 2014]  say: ^4Stormtrooper: do u know!
+[Wed Jan 08 18:31:48 2014]  say: ^4Stormtrooper: ?
+[Wed Jan 08 18:31:53 2014]  say: ^2N^5ewcomer: what?..
+[Wed Jan 08 18:31:56 2014]  say: ^4G^7randa^3G^1lorian: how place doorz
+[Wed Jan 08 18:32:03 2014]  say: ^4G^7randa^3G^1lorian: DAMN
+[Wed Jan 08 18:32:05 2014]  say: ^4Stormtrooper: COMMANDER
+[Wed Jan 08 18:32:06 2014]  say: ^2N^5ewcomer: mplace factory/catw2_b
+[Wed Jan 08 18:32:09 2014]  say: ^4Stormtrooper: no
+[Wed Jan 08 18:32:12 2014]  say: ^4G^7randa^3G^1lorian: BITCH IM DED
+[Wed Jan 08 18:32:17 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:32:17 2014]  Item: 1 weapon_bryar_pistol
+[Wed Jan 08 18:32:17 2014]  say: ^2N^5ewcomer: mrotate...
+[Wed Jan 08 18:32:20 2014]  say: ^2N^5ewcomer: and mdoor
+[Wed Jan 08 18:32:33 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:32:42 2014]  say: ^4G^7randa^3G^1lorian: REMOVE THAT SHIT
+[Wed Jan 08 18:32:50 2014]  say: ^4G^7randa^3G^1lorian: LOL
+[Wed Jan 08 18:32:51 2014]  say: ^4G^7randa^3G^1lorian: NICE
+[Wed Jan 08 18:32:55 2014]  say: ^4G^7randa^3G^1lorian: WAT CMD?
+[Wed Jan 08 18:32:59 2014]  say: ^2N^5ewcomer: mdrop... and mdoor)
+[Wed Jan 08 18:33:12 2014]  say: ^4G^7randa^3G^1lorian: I MEAN
+[Wed Jan 08 18:33:14 2014]  say: ^4G^7randa^3G^1lorian: the doorz
+[Wed Jan 08 18:33:17 2014]  say: ^4G^7randa^3G^1lorian: wat name
+[Wed Jan 08 18:33:18 2014]  say: ^4G^7randa^3G^1lorian: xd
+[Wed Jan 08 18:33:20 2014]  say: ^4Stormtrooper: comer
+[Wed Jan 08 18:33:26 2014]  say: ^4Stormtrooper: at mdoor
+[Wed Jan 08 18:33:30 2014]  say: ^4Stormtrooper: what i do?
+[Wed Jan 08 18:33:52 2014]  say: ^4Stormtrooper: what?
+[Wed Jan 08 18:33:56 2014]  say: ^4Stormtrooper: why no close?
+[Wed Jan 08 18:34:07 2014]  say: ^4G^7randa^3G^1lorian: homeworks
+[Wed Jan 08 18:34:08 2014]  say: ^4Stormtrooper: lol
+[Wed Jan 08 18:34:25 2014]  say: ^4G^7randa^3G^1lorian: WAT CMD IS THE WINDOW
+[Wed Jan 08 18:34:34 2014]  say: ^4Stormtrooper: COMMANDER
+[Wed Jan 08 18:34:38 2014]  say: ^4Stormtrooper: DO /matease
+[Wed Jan 08 18:34:45 2014]  say: ^4G^7randa^3G^1lorian: lol
+[Wed Jan 08 18:34:54 2014]  say: ^4G^7randa^3G^1lorian: this is pro!
+[Wed Jan 08 18:35:00 2014]  say: ^4Stormtrooper: sir
+[Wed Jan 08 18:35:03 2014]  say: ^4G^7randa^3G^1lorian: yes!?
+[Wed Jan 08 18:35:12 2014]  say: ^4Stormtrooper: when i can go to swtor and to be a trooper sir!?
+[Wed Jan 08 18:35:13 2014]  say: ^4G^7randa^3G^1lorian: wat the
+[Wed Jan 08 18:35:18 2014]  say: ^4Stormtrooper: and u come too? !
+[Wed Jan 08 18:35:19 2014]  say: ^4G^7randa^3G^1lorian: eh
+[Wed Jan 08 18:35:27 2014]  say: ^4G^7randa^3G^1lorian: give me sec my .. soldier ...
+[Wed Jan 08 18:35:32 2014]  say: ^2N^5ewcomer: xD
+[Wed Jan 08 18:35:33 2014]  say: ^4Stormtrooper: yes sir!
+[Wed Jan 08 18:35:54 2014]  say: ^4Stormtrooper: presss tab i am blue stormtrooper :D
+[Wed Jan 08 18:35:57 2014]  say: ^4Stormtrooper: for commander
+[Wed Jan 08 18:36:10 2014]  say: ^4G^7randa^3G^1lorian: very gud
+[Wed Jan 08 18:36:13 2014]  say: ^4Stormtrooper: there
+[Wed Jan 08 18:36:20 2014]  say: ^4Stormtrooper: see new skin?
+[Wed Jan 08 18:36:30 2014]  say: ^4Stormtrooper: press tabn
+[Wed Jan 08 18:36:33 2014]  say: ^4Stormtrooper: tab*
+[Wed Jan 08 18:36:33 2014]  say: ^4G^7randa^3G^1lorian: I SEE
+[Wed Jan 08 18:36:58 2014]  say: ^4Stormtrooper: sir!
+[Wed Jan 08 18:37:04 2014]  say: ^4G^7randa^3G^1lorian: eh?
+[Wed Jan 08 18:37:05 2014]  say: ^4G^7randa^3G^1lorian: sec
+[Wed Jan 08 18:37:10 2014]  say: ^4Stormtrooper: what trooper we gonna have republic or sith sir!?
+[Wed Jan 08 18:37:26 2014]  say: ^4Stormtrooper: i am waiting sir! 
+[Wed Jan 08 18:37:42 2014]  say: ^4G^7randa^3G^1lorian: i tell u that in xfire
+[Wed Jan 08 18:37:48 2014]  say: ^4Stormtrooper: yes sir!
+[Wed Jan 08 18:37:53 2014]  say: ^4G^7randa^3G^1lorian: wat u doing lol
+[Wed Jan 08 18:37:57 2014]  say: ^4Stormtrooper: should i add vlad trooper sir?
+[Wed Jan 08 18:38:04 2014]  say: ^4G^7randa^3G^1lorian: nah
+[Wed Jan 08 18:38:07 2014]  say: ^4G^7randa^3G^1lorian: vlad was weak!
+[Wed Jan 08 18:38:08 2014]  say: ^4Stormtrooper: ok sir
+[Wed Jan 08 18:38:12 2014]  say: ^4Stormtrooper: i killed him
+[Wed Jan 08 18:38:16 2014]  say: ^4Stormtrooper: on swtor
+[Wed Jan 08 18:38:19 2014]  say: ^4Stormtrooper: when i was a sith
+[Wed Jan 08 18:38:35 2014]  say: ^4Stormtrooper: comer do a open !
+[Wed Jan 08 18:38:39 2014]  say: ^4Stormtrooper: a door*
+[Wed Jan 08 18:38:40 2014]  say: ^4Stormtrooper: XD
+[Wed Jan 08 18:38:56 2014]  say: ^4G^7randa^3G^1lorian: SHIT
+[Wed Jan 08 18:38:58 2014]  say: ^4Stormtrooper: i investigate are !
+[Wed Jan 08 18:39:00 2014]  say: ^4G^7randa^3G^1lorian: IM STUCK
+[Wed Jan 08 18:39:01 2014]  say: ^4Stormtrooper: area*
+[Wed Jan 08 18:39:14 2014]  say: ^4Stormtrooper: going for ammo
+[Wed Jan 08 18:39:21 2014]  say: ^4G^7randa^3G^1lorian: HERE AMMO
+[Wed Jan 08 18:39:32 2014]  say: ^4G^7randa^3G^1lorian: WHY
+[Wed Jan 08 18:39:39 2014]  say: ^4G^7randa^3G^1lorian: GOD U MAD
+[Wed Jan 08 18:39:41 2014]  say: ^4Stormtrooper: SIR WE HAVE A ENEMY!
+[Wed Jan 08 18:39:51 2014]  say: ^4G^7randa^3G^1lorian: ROGER THAT
+[Wed Jan 08 18:40:03 2014]  say: ^4G^7randa^3G^1lorian: NO
+[Wed Jan 08 18:40:07 2014]  say: ^4Stormtrooper: shall i execute him?
+[Wed Jan 08 18:40:15 2014]  say: ^4G^7randa^3G^1lorian: DO THIS
+[Wed Jan 08 18:40:19 2014]  say: ^4Stormtrooper: ok sir
+[Wed Jan 08 18:40:27 2014]  say: ^4G^7randa^3G^1lorian: NOW
+[Wed Jan 08 18:40:28 2014]  say: ^4Stormtrooper: answer some answers to me jedi
+[Wed Jan 08 18:40:34 2014]  say: ^4Stormtrooper: jedi:never
+[Wed Jan 08 18:40:43 2014]  say: ^4G^7randa^3G^1lorian: DIE
+[Wed Jan 08 18:40:51 2014]  say: ^4Stormtrooper: get back
+[Wed Jan 08 18:41:02 2014]  say: ^4G^7randa^3G^1lorian: GOOD JOB
+[Wed Jan 08 18:41:17 2014]  say: ^4G^7randa^3G^1lorian: CREDIT
+[Wed Jan 08 18:41:18 2014]  say: ^4Stormtrooper: jedi:ugh.. u dont know anything sith scum!
+[Wed Jan 08 18:41:22 2014]  say: ^4Stormtrooper: wa?
+[Wed Jan 08 18:41:26 2014]  say: ^4G^7randa^3G^1lorian: SITH?
+[Wed Jan 08 18:41:33 2014]  say: ^4G^7randa^3G^1lorian: U GOT LIGHTSABER?
+[Wed Jan 08 18:41:34 2014]  say: ^4Stormtrooper: jedi:new republic trooper are coming 
+[Wed Jan 08 18:41:38 2014]  say: ^4Stormtrooper: !
+[Wed Jan 08 18:41:40 2014]  say: ^4Stormtrooper: sir
+[Wed Jan 08 18:41:41 2014]  say: ^4G^7randa^3G^1lorian: WOWOWOWOWO
+[Wed Jan 08 18:41:45 2014]  say: ^4G^7randa^3G^1lorian: LOOK AT DAT 
+[Wed Jan 08 18:41:52 2014]  say: ^4Stormtrooper: WHAT IS THAT LOL?
+[Wed Jan 08 18:41:55 2014]  say: ^4G^7randa^3G^1lorian: I THINK I GAY
+[Wed Jan 08 18:42:05 2014]  say: ^4Stormtrooper: OMG
+[Wed Jan 08 18:42:09 2014]  say: ^4Stormtrooper: SIR!
+[Wed Jan 08 18:42:14 2014]  say: ^4Stormtrooper: i have powers look
+[Wed Jan 08 18:42:27 2014]  say: ^4G^7randa^3G^1lorian: WAT?
+[Wed Jan 08 18:42:32 2014]  say: ^4Stormtrooper: come
+[Wed Jan 08 18:42:32 2014]  say: ^2N^5ewcomer: xD
+[Wed Jan 08 18:42:37 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:42:37 2014]  say: ^4Stormtrooper: and a lightsaber too!
+[Wed Jan 08 18:42:42 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:43:11 2014]  say: ^2N^5ewcomer: ^1ROCKFALLLL!!!
+[Wed Jan 08 18:43:12 2014]  say: ^2N^5ewcomer: xD
+[Wed Jan 08 18:43:18 2014]  say: ^4G^7randa^3G^1lorian: I MUST DO HOMEWORKS
+[Wed Jan 08 18:43:22 2014]  say: ^4G^7randa^3G^1lorian: goood
+[Wed Jan 08 18:43:30 2014]  say: ^4G^7randa^3G^1lorian: how u doing this
+[Wed Jan 08 18:43:35 2014]  say: ^4Stormtrooper: OMG
+[Wed Jan 08 18:43:39 2014]  say: ^4Stormtrooper: SIR I AM HUR
+[Wed Jan 08 18:43:40 2014]  say: ^4G^7randa^3G^1lorian: im not laging
+[Wed Jan 08 18:43:41 2014]  say: ^4Stormtrooper: HURT
+[Wed Jan 08 18:43:44 2014]  say: ^4G^7randa^3G^1lorian: whee
+[Wed Jan 08 18:43:46 2014]  say: ^2N^5ewcomer: one of my scripts))
+[Wed Jan 08 18:43:50 2014]  say: ^4G^7randa^3G^1lorian: aha
+[Wed Jan 08 18:43:55 2014]  say: ^4Stormtrooper: where to get theM>
+[Wed Jan 08 18:43:56 2014]  say: ^4Stormtrooper: ?
+[Wed Jan 08 18:43:57 2014]  say: ^4G^7randa^3G^1lorian: COMMANDER STORM!
+[Wed Jan 08 18:44:02 2014]  say: ^4Stormtrooper: i am hurt
+[Wed Jan 08 18:44:07 2014]  say: ^4G^7randa^3G^1lorian: are you right!?
+[Wed Jan 08 18:44:10 2014]  say: ^4Stormtrooper: no
+[Wed Jan 08 18:44:14 2014]  say: ^4Stormtrooper: a rebel shot me
+[Wed Jan 08 18:44:17 2014]  say: ^4Stormtrooper: here
+[Wed Jan 08 18:44:47 2014]  say: ^4G^7randa^3G^1lorian: there is lightsaber for u
+[Wed Jan 08 18:44:59 2014]  say: ^4Stormtrooper: OMG I EVOLVE
+[Wed Jan 08 18:45:06 2014]  say: ^4Stormtrooper: PRESS TAB
+[Wed Jan 08 18:45:10 2014]  say: ^2N^5ewcomer: for ex., u can download makermod scripts on jediknight3.firefront.com)
+[Wed Jan 08 18:45:13 2014]  say: ^4G^7randa^3G^1lorian: damn thats not good
+[Wed Jan 08 18:45:17 2014]  say: ^4G^7randa^3G^1lorian: oh thx
+[Wed Jan 08 18:45:21 2014]  say: ^4Stormtrooper: SIR I AM A SITH!
+[Wed Jan 08 18:45:27 2014]  say: ^4G^7randa^3G^1lorian: leave me alone
+[Wed Jan 08 18:45:29 2014]  say: ^4Stormtrooper: i evolved
+[Wed Jan 08 18:45:42 2014]  say: ^4G^7randa^3G^1lorian: SITH
+[Wed Jan 08 18:45:45 2014]  say: ^4G^7randa^3G^1lorian: BLASTHIM
+[Wed Jan 08 18:45:46 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:45:51 2014]  say: ^4Stormtrooper: sir
+[Wed Jan 08 18:45:53 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:45:54 2014]  Item: 0 weapon_concussion_rifle
+[Wed Jan 08 18:46:08 2014]  say: ^4G^7randa^3G^1lorian: IM DYING
+[Wed Jan 08 18:46:09 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:46:13 2014]  say: ^4Stormtrooper: no
+[Wed Jan 08 18:46:14 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:46:23 2014]  say: ^4G^7randa^3G^1lorian: YOU BETRAYD ME
+[Wed Jan 08 18:46:24 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:46:25 2014]  say: ^4Stormtrooper: no
+[Wed Jan 08 18:46:28 2014]  say: ^4Stormtrooper: i evolved
+[Wed Jan 08 18:46:38 2014]  say: ^4Stormtrooper: sir dont die!
+[Wed Jan 08 18:46:42 2014]  say: ^4Stormtrooper: UGH MY BODY
+[Wed Jan 08 18:46:50 2014]  say: ^4G^7randa^3G^1lorian: ii.tt..ss..
+[Wed Jan 08 18:46:52 2014]  say: ^4G^7randa^3G^1lorian: my..
+[Wed Jan 08 18:46:54 2014]  say: ^4G^7randa^3G^1lorian: ti.. mme..
+[Wed Jan 08 18:46:57 2014]  say: ^4Stormtrooper: I AM AGAIN TROOPER
+[Wed Jan 08 18:46:57 2014]  say: ^4G^7randa^3G^1lorian: WTF
+[Wed Jan 08 18:46:59 2014]  say: ^4G^7randa^3G^1lorian: WHERE U LOOKING
+[Wed Jan 08 18:47:04 2014]  say: ^4G^7randa^3G^1lorian: I DONT SEE U
+[Wed Jan 08 18:47:07 2014]  say: ^4G^7randa^3G^1lorian: LOL
+[Wed Jan 08 18:47:07 2014]  say: ^4Stormtrooper: PRESS TAB
+[Wed Jan 08 18:47:08 2014]  say: ^4G^7randa^3G^1lorian: AH
+[Wed Jan 08 18:47:11 2014]  say: ^4G^7randa^3G^1lorian: u
+[Wed Jan 08 18:47:12 2014]  say: ^4G^7randa^3G^1lorian: ..
+[Wed Jan 08 18:47:13 2014]  say: ^4G^7randa^3G^1lorian: must..
+[Wed Jan 08 18:47:15 2014]  say: ^4G^7randa^3G^1lorian: de..
+[Wed Jan 08 18:47:18 2014]  say: ^4G^7randa^3G^1lorian: .sss
+[Wed Jan 08 18:47:19 2014]  say: ^4Stormtrooper: sir what happend!?
+[Wed Jan 08 18:47:23 2014]  say: ^4G^7randa^3G^1lorian: trooo..yyyyyyyy........
+[Wed Jan 08 18:47:28 2014]  say: ^4Stormtrooper: yes!?
+[Wed Jan 08 18:47:30 2014]  say: ^4G^7randa^3G^1lorian: .the... jedd..ii..
+[Wed Jan 08 18:47:32 2014]  say: ^4G^7randa^3G^1lorian: and ..
+[Wed Jan 08 18:47:38 2014]  say: ^4Stormtrooper: WHAT!>
+[Wed Jan 08 18:47:42 2014]  say: ^4G^7randa^3G^1lorian: the .. jee.. je ... jee ....
+[Wed Jan 08 18:47:43 2014]  say: ^4Stormtrooper: I KILL THEM
+[Wed Jan 08 18:47:47 2014]  say: ^4G^7randa^3G^1lorian: di ..
+[Wed Jan 08 18:47:49 2014]  say: ^4G^7randa^3G^1lorian: di ...
+[Wed Jan 08 18:47:55 2014]  say: ^4G^7randa^3G^1lorian: is .. iss. .. in ..
+[Wed Jan 08 18:47:56 2014]  say: ^4Stormtrooper: DIE
+[Wed Jan 08 18:47:57 2014]  say: ^4G^7randa^3G^1lorian: jee.. 
+[Wed Jan 08 18:47:59 2014]  say: ^4G^7randa^3G^1lorian: jee..
+[Wed Jan 08 18:48:01 2014]  say: ^4G^7randa^3G^1lorian: ddii..
+[Wed Jan 08 18:48:03 2014]  say: ^4G^7randa^3G^1lorian: temm...
+[Wed Jan 08 18:48:06 2014]  say: ^4G^7randa^3G^1lorian: DAUHHHHHHHWQÈ
+[Wed Jan 08 18:48:10 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:48:27 2014]  Kill: 1022 2 39: <world> killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:48:32 2014]  Kill: 2 2 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 18:48:47 2014]  say: ^4Stormtrooper: THEY ARE ALL DEAD
+[Wed Jan 08 18:48:52 2014]  say: ^4G^7randa^3G^1lorian: LOL WAT
+[Wed Jan 08 18:48:52 2014]  say: ^4Stormtrooper: DEATH TO THE JEDI
+[Wed Jan 08 18:48:55 2014]  say: ^4G^7randa^3G^1lorian: U DONT KNOW WHERE IS JEDI OMG
+[Wed Jan 08 18:48:58 2014]  say: ^4G^7randa^3G^1lorian: I SAID JED I 
+[Wed Jan 08 18:49:01 2014]  say: ^4G^7randa^3G^1lorian: AND THE NEXT IM DIED
+[Wed Jan 08 18:49:10 2014]  say: ^4Stormtrooper: NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO SIR DIED :(
+[Wed Jan 08 18:49:15 2014]  say: ^4Stormtrooper: who killed u!!/
+[Wed Jan 08 18:49:25 2014]  say: ^4Stormtrooper: SITH
+[Wed Jan 08 18:49:30 2014]  say: ^4G^7randa^3G^1lorian: IM NOT SITH LOL IM JEDI
+[Wed Jan 08 18:49:58 2014]  say: ^4G^7randa^3G^1lorian: IM SWTOR JEDI
+[Wed Jan 08 18:50:01 2014]  say: ^4G^7randa^3G^1lorian: I HAVE PACKS
+[Wed Jan 08 18:50:06 2014]  say: ^4Stormtrooper: nicee
+[Wed Jan 08 18:50:08 2014]  say: ^4G^7randa^3G^1lorian: JETPACK WAS GIFT FROM SWTOR
+[Wed Jan 08 18:50:13 2014]  say: ^4G^7randa^3G^1lorian: WHAT THE
+[Wed Jan 08 18:50:24 2014]  say: ^4G^7randa^3G^1lorian: ASHLE DONT KILL MY FRIENDS
+[Wed Jan 08 18:50:34 2014]  say: ^4Stormtrooper: wait
+[Wed Jan 08 18:51:17 2014]  say: ^4Stormtrooper: HOLY FUCK
+[Wed Jan 08 18:51:34 2014]  say: ^4G^7randa^3G^1lorian: HOMEWORKS
+[Wed Jan 08 18:51:36 2014]  say: ^4G^7randa^3G^1lorian: AFK
+[Wed Jan 08 18:51:38 2014]  say: ^2N^5ewcomer: xD
+[Wed Jan 08 18:51:59 2014]  say: ^2N^5ewcomer: i must go, by)
+[Wed Jan 08 18:52:01 2014]  say: ^2N^5ewcomer: * bye
+[Wed Jan 08 18:52:06 2014]  say: ^4G^7randa^3G^1lorian: BYE
+[Wed Jan 08 18:52:07 2014]  say: ^4Stormtrooper: ok
+[Wed Jan 08 18:52:09 2014]  ClientDisconnect: 1
+[Wed Jan 08 18:52:16 2014]  say: ^4Stormtrooper: i go afk too a bit
+[Wed Jan 08 18:52:18 2014]  ClientDisconnect: 0
+[Wed Jan 08 18:53:28 2014]  ClientDisconnect: 2
+[Wed Jan 08 19:16:17 2014]  ClientConnect: 0
+[Wed Jan 08 19:16:17 2014]  mlog:Player Padawan, connected. With IP - 79.117.66.92:29070 
+[Wed Jan 08 19:16:43 2014]  ClientBegin: 0
+[Wed Jan 08 19:17:24 2014]  print "^4Stormtrooper^7 @@@PLRENAME Padawan
+"[Wed Jan 08 19:17:55 2014]  print "Padawan^7 @@@PLRENAME ^4Rebel 
+"[Wed Jan 08 19:18:50 2014]  print "^4Rebel ^7 @@@PLRENAME ^2Begginer ^2Soldier
+"[Wed Jan 08 19:19:13 2014]  print "^2Begginer ^2Soldier^7 @@@PLRENAME ^4Rebel Archie
+"[Wed Jan 08 19:26:15 2014]  ClientConnect: 1
+[Wed Jan 08 19:26:15 2014]  mlog:Player Padawan, connected. With IP - 78.80.100.24:21628 
+[Wed Jan 08 19:27:12 2014]  ClientBegin: 1
+[Wed Jan 08 19:27:27 2014]  say: ^4Rebel Archie: rename to republic name :D
+[Wed Jan 08 19:27:35 2014]  say: ^4G^7randa^3G^1lorian: wat is archie lol
+[Wed Jan 08 19:27:38 2014]  Kill: 1 1 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 19:27:41 2014]  say: ^4Rebel Archie: u sayd name XD
+[Wed Jan 08 19:27:45 2014]  say: ^4G^7randa^3G^1lorian: and its name?
+[Wed Jan 08 19:27:54 2014]  say: ^4Rebel Archie: my name is rebel archie sir!
+[Wed Jan 08 19:28:09 2014]  say: ^4G^7randa^3G^1lorian: George Lucas: and archie is name?
+[Wed Jan 08 19:28:10 2014]  say: ^4Rebel Archie: i am ready for training
+[Wed Jan 08 19:28:19 2014]  say: ^4Rebel Archie: yes
+[Wed Jan 08 19:28:26 2014]  say: ^4G^7randa^3G^1lorian: not in movie
+[Wed Jan 08 19:28:28 2014]  say: ^4G^7randa^3G^1lorian: i mean rly
+[Wed Jan 08 19:28:29 2014]  say: ^4G^7randa^3G^1lorian: is name?
+[Wed Jan 08 19:28:36 2014]  say: ^4Rebel Archie: in realy life maybe 
+[Wed Jan 08 19:28:36 2014]  say: ^4G^7randa^3G^1lorian: its rly name ?
+[Wed Jan 08 19:28:43 2014]  say: ^4G^7randa^3G^1lorian: o_O
+[Wed Jan 08 19:28:47 2014]  say: ^4G^7randa^3G^1lorian: archie is name lol
+[Wed Jan 08 19:28:54 2014]  say: ^4G^7randa^3G^1lorian: i was think its archive
+[Wed Jan 08 19:28:55 2014]  say: ^4Rebel Archie: for dog XDDD
+[Wed Jan 08 19:29:33 2014]  say: ^4Rebel Archie: sir where is my trainer for training me ?
+[Wed Jan 08 19:30:07 2014]  say: ^4Rebel Archie: sir?
+[Wed Jan 08 19:30:27 2014]  say: ^4Rebel Archie: kyle katarn 0.0?
+[Wed Jan 08 19:30:30 2014]  say: ^4Rebel Archie: and a jedi
+[Wed Jan 08 19:30:30 2014]  say: ^4G^7randa^3G^1lorian: nah
+[Wed Jan 08 19:30:41 2014]  say: ^4Rebel Archie: what is my training sir!
+[Wed Jan 08 19:31:28 2014]  say: ^4Rebel Archie: HURRY MAN AT 10 PM I GO!
+[Wed Jan 08 19:31:41 2014]  say: ^4Rebel Archie: ok 
+[Wed Jan 08 19:31:45 2014]  say: ^4Rebel Archie: sir my training?
+[Wed Jan 08 19:32:27 2014]  say: ^4G^7randa^3G^1lorian: STAY!
+[Wed Jan 08 19:32:47 2014]  say: ^4G^7randa^3G^1lorian: BLASTER IN HANDS!
+[Wed Jan 08 19:33:20 2014]  say: ^4Rebel Archie: rebels:WHAT NOW SIR!
+[Wed Jan 08 19:33:28 2014]  say: ^4G^7randa^3G^1lorian: now u will hearing me!
+[Wed Jan 08 19:33:32 2014]  say: ^4Rebel Archie: yes sir!
+[Wed Jan 08 19:33:35 2014]  say: ^4G^7randa^3G^1lorian: we have mision in arena
+[Wed Jan 08 19:33:39 2014]  say: ^4G^7randa^3G^1lorian: we must kill a rancor!
+[Wed Jan 08 19:33:40 2014]  say: ^4Rebel Archie: 0.0?
+[Wed Jan 08 19:33:42 2014]  say: ^4Rebel Archie: oh
+[Wed Jan 08 19:33:43 2014]  say: ^4Rebel Archie: ok
+[Wed Jan 08 19:33:44 2014]  say: ^4G^7randa^3G^1lorian: its a first mision
+[Wed Jan 08 19:33:52 2014]  say: ^4Rebel Archie: who kills what gets?
+[Wed Jan 08 19:33:55 2014]  say: ^4G^7randa^3G^1lorian: so its good training for yours
+[Wed Jan 08 19:33:56 2014]  say: ^4Rebel Archie: rank up?
+[Wed Jan 08 19:34:05 2014]  say: ^4G^7randa^3G^1lorian: emm
+[Wed Jan 08 19:34:07 2014]  say: ^4G^7randa^3G^1lorian: no
+[Wed Jan 08 19:34:11 2014]  say: ^4G^7randa^3G^1lorian: new armor
+[Wed Jan 08 19:34:13 2014]  say: ^4G^7randa^3G^1lorian: new torso
+[Wed Jan 08 19:34:15 2014]  say: ^4Rebel Archie: 0.0
+[Wed Jan 08 19:34:17 2014]  say: ^4G^7randa^3G^1lorian: and next
+[Wed Jan 08 19:34:25 2014]  say: ^4G^7randa^3G^1lorian: now all go to arena
+[Wed Jan 08 19:34:52 2014]  say: ^4G^7randa^3G^1lorian: come back omg
+[Wed Jan 08 19:35:40 2014]  say: ^4G^7randa^3G^1lorian: there
+[Wed Jan 08 19:35:46 2014]  say: ^4G^7randa^3G^1lorian: omg
+[Wed Jan 08 19:35:49 2014]  say: ^4G^7randa^3G^1lorian: u mad
+[Wed Jan 08 19:35:52 2014]  say: ^4G^7randa^3G^1lorian: .-.
+[Wed Jan 08 19:35:56 2014]  say: ^4Rebel Archie: wat?
+[Wed Jan 08 19:35:58 2014]  say: ^4G^7randa^3G^1lorian: u must do that wat i say u!
+[Wed Jan 08 19:36:15 2014]  say: ^4Rebel Archie: u sayd to kill rancor
+[Wed Jan 08 19:36:26 2014]  say: ^4G^7randa^3G^1lorian: im sergeant rico
+[Wed Jan 08 19:36:30 2014]  say: ^4G^7randa^3G^1lorian: come to me
+[Wed Jan 08 19:36:33 2014]  say: ^4Rebel Archie: i am archie
+[Wed Jan 08 19:36:47 2014]  say: ^4G^7randa^3G^1lorian: destroy this
+[Wed Jan 08 19:36:48 2014]  say: ^4G^7randa^3G^1lorian: FIRE FIRE!
+[Wed Jan 08 19:37:17 2014]  say: ^4G^7randa^3G^1lorian: bitch
+[Wed Jan 08 19:37:20 2014]  say: ^4G^7randa^3G^1lorian: u fucker
+[Wed Jan 08 19:37:22 2014]  say: ^4G^7randa^3G^1lorian: dont
+[Wed Jan 08 19:37:24 2014]  say: ^4G^7randa^3G^1lorian: i must see
+[Wed Jan 08 19:37:38 2014]  say: ^4G^7randa^3G^1lorian: clear
+[Wed Jan 08 19:37:44 2014]  say: ^4G^7randa^3G^1lorian: u must talk
+[Wed Jan 08 19:37:48 2014]  say: ^4Rebel Archie: ok sir
+[Wed Jan 08 19:37:50 2014]  say: ^4Rebel Archie: back!
+[Wed Jan 08 19:37:56 2014]  say: ^4Rebel Archie: go go
+[Wed Jan 08 19:38:02 2014]  say: ^4G^7randa^3G^1lorian: im sergeant shit
+[Wed Jan 08 19:38:06 2014]  say: ^4G^7randa^3G^1lorian: ahm
+[Wed Jan 08 19:38:11 2014]  say: ^4Rebel Archie: yes sir?
+[Wed Jan 08 19:38:20 2014]  say: ^4G^7randa^3G^1lorian: give me sec
+[Wed Jan 08 19:38:25 2014]  say: ^4G^7randa^3G^1lorian: STORMTROOPERS
+[Wed Jan 08 19:38:45 2014]  say: ^4Rebel Archie: BACK!
+[Wed Jan 08 19:38:48 2014]  say: ^4G^7randa^3G^1lorian: slow fire u must
+[Wed Jan 08 19:38:54 2014]  say: ^4G^7randa^3G^1lorian: omg
+[Wed Jan 08 19:38:55 2014]  say: ^4G^7randa^3G^1lorian: this
+[Wed Jan 08 19:39:14 2014]  say: ^4G^7randa^3G^1lorian: come to me soldiers
+[Wed Jan 08 19:39:23 2014]  say: ^4G^7randa^3G^1lorian: archie
+[Wed Jan 08 19:39:27 2014]  say: ^4Rebel Archie: yes sir?
+[Wed Jan 08 19:39:32 2014]  say: ^4G^7randa^3G^1lorian: U will leader of this team
+[Wed Jan 08 19:39:34 2014]  say: ^4G^7randa^3G^1lorian: team alfa
+[Wed Jan 08 19:39:36 2014]  say: ^4G^7randa^3G^1lorian: alpha
+[Wed Jan 08 19:39:39 2014]  say: ^4Rebel Archie: ok sir
+[Wed Jan 08 19:39:42 2014]  say: ^4G^7randa^3G^1lorian: folloow to archie
+[Wed Jan 08 19:39:50 2014]  say: ^4Rebel Archie: come soldiers
+[Wed Jan 08 19:39:58 2014]  say: ^4Rebel Archie: where is my mission?
+[Wed Jan 08 19:40:07 2014]  say: ^4G^7randa^3G^1lorian: go to arena
+[Wed Jan 08 19:40:08 2014]  say: ^4Rebel Archie: dude
+[Wed Jan 08 19:40:16 2014]  say: ^4Rebel Archie: make soldiers there
+[Wed Jan 08 19:40:34 2014]  say: ^4Rebel Archie: this building
+[Wed Jan 08 19:40:40 2014]  say: ^4Rebel Archie: is stormtrooper base
+[Wed Jan 08 19:40:41 2014]  say: ^4G^7randa^3G^1lorian: go help to soldiers!
+[Wed Jan 08 19:40:42 2014]  say: ^4Rebel Archie: make it
+[Wed Jan 08 19:40:46 2014]  Kill: 1022 1 6: <world> killed ^4G^7randa^3G^1lorian by MOD_BLASTER
+[Wed Jan 08 19:40:48 2014]  say: ^4G^7randa^3G^1lorian: OMG
+[Wed Jan 08 19:40:52 2014]  say: ^4G^7randa^3G^1lorian: IM DIED BECAUSE U FAG
+[Wed Jan 08 19:41:06 2014]  say: ^4Rebel Archie: soldier come hre
+[Wed Jan 08 19:41:08 2014]  say: ^4Rebel Archie: here*
+[Wed Jan 08 19:41:12 2014]  Kill: 1 1 39: ^4G^7randa^3G^1lorian killed ^4G^7randa^3G^1lorian by MOD_SUICIDE
+[Wed Jan 08 19:41:37 2014]  say: ^4Rebel Archie: we have lost soldiers sir :(
+[Wed Jan 08 19:41:45 2014]  print "^4G^7randa^3G^1lorian^7 @@@PLRENAME ^1Rebel ^7Riko
+"[Wed Jan 08 19:41:49 2014]  say: ^1Rebel ^7Riko: thats bad
+[Wed Jan 08 19:41:53 2014]  say: ^1Rebel ^7Riko: only u and me
+[Wed Jan 08 19:41:57 2014]  say: ^1Rebel ^7Riko: use jetpack
+[Wed Jan 08 19:41:59 2014]  say: ^4Rebel Archie: wait
+[Wed Jan 08 19:42:08 2014]  say: ^4Rebel Archie: i found stormtrooper base sir
+[Wed Jan 08 19:42:11 2014]  say: ^4Rebel Archie: there
+[Wed Jan 08 19:42:15 2014]  say: ^1Rebel ^7Riko: sure
+[Wed Jan 08 19:42:16 2014]  say: ^1Rebel ^7Riko: first this
+[Wed Jan 08 19:42:22 2014]  say: ^1Rebel ^7Riko: damn
+[Wed Jan 08 19:42:23 2014]  say: ^1Rebel ^7Riko: hes lock
+[Wed Jan 08 19:42:27 2014]  say: ^1Rebel ^7Riko: gtfo
+[Wed Jan 08 19:42:33 2014]  say: ^1Rebel ^7Riko: THIS WILL HARD
+[Wed Jan 08 19:42:49 2014]  say: ^1Rebel ^7Riko: lets gou
+[Wed Jan 08 19:42:55 2014]  say: ^1Rebel ^7Riko: there is imperial base
+[Wed Jan 08 19:43:04 2014]  say: ^1Rebel ^7Riko: what the
+[Wed Jan 08 19:43:06 2014]  say: ^1Rebel ^7Riko: fal back
+[Wed Jan 08 19:43:12 2014]  say: ^1Rebel ^7Riko: NADES!
+[Wed Jan 08 19:43:18 2014]  say: ^4Rebel Archie: WAIT
+[Wed Jan 08 19:43:20 2014]  say: ^4Rebel Archie: I GO CHECK
+[Wed Jan 08 19:43:32 2014]  say: ^4Rebel Archie: CLEAR
+[Wed Jan 08 19:43:34 2014]  say: ^1Rebel ^7Riko: roger that
+[Wed Jan 08 19:43:39 2014]  say: ^1Rebel ^7Riko: come up
+[Wed Jan 08 19:43:48 2014]  say: ^1Rebel ^7Riko: i see falcon
+[Wed Jan 08 19:43:55 2014]  say: ^4Rebel Archie: hmm
+[Wed Jan 08 19:44:00 2014]  say: ^4Rebel Archie: i see imperials
+[Wed Jan 08 19:44:11 2014]  say: ^1Rebel ^7Riko: bitch leave
+[Wed Jan 08 19:44:14 2014]  say: ^1Rebel ^7Riko: stay in base
+[Wed Jan 08 19:44:15 2014]  say: ^1Rebel ^7Riko: xd
+[Wed Jan 08 19:44:21 2014]  say: ^4Rebel Archie: shall i call reinforcments?
+[Wed Jan 08 19:44:44 2014]  say: ^1Rebel ^7Riko: lets go archie!
+[Wed Jan 08 19:44:46 2014]  say: ^4Rebel Archie: shit
+[Wed Jan 08 19:44:48 2014]  say: ^1Rebel ^7Riko: there is sniper gun
+[Wed Jan 08 19:45:24 2014]  say: ^4Rebel Archie: DAMN
+[Wed Jan 08 19:46:19 2014]  say: ^1Rebel ^7Riko: dont
+[Wed Jan 08 19:46:21 2014]  say: ^1Rebel ^7Riko: ashole
+[Wed Jan 08 19:46:41 2014]  say: ^1Rebel ^7Riko: CHEWBACA!
+[Wed Jan 08 19:46:55 2014]  say: ^4Rebel Archie: sir are we done?
+[Wed Jan 08 19:46:58 2014]  say: ^1Rebel ^7Riko: no
+[Wed Jan 08 19:46:59 2014]  say: ^1Rebel ^7Riko: not yet
+[Wed Jan 08 19:47:01 2014]  say: ^1Rebel ^7Riko: chewi
+[Wed Jan 08 19:47:04 2014]  say: ^1Rebel ^7Riko: wat are you doing here?
+[Wed Jan 08 19:47:10 2014]  say: ^1Rebel ^7Riko: where is han?
+[Wed Jan 08 19:47:15 2014]  say: ^1Rebel ^7Riko: Chewbaca: wr+jro+ojr+o
+[Wed Jan 08 19:47:19 2014]  say: ^1Rebel ^7Riko: damn thats not good
+[Wed Jan 08 19:47:27 2014]  say: ^1Rebel ^7Riko: han solo was captured
+[Wed Jan 08 19:47:29 2014]  say: ^4Rebel Archie: i didnt understand a thing
+[Wed Jan 08 19:47:34 2014]  say: ^1Rebel ^7Riko: Chewbaca: wajpwpjrq :D
+[Wed Jan 08 19:47:37 2014]  say: ^1Rebel ^7Riko: i think
+[Wed Jan 08 19:47:40 2014]  say: ^4Rebel Archie: Lol?
+[Wed Jan 08 19:47:40 2014]  say: ^1Rebel ^7Riko: the wookie like you
+[Wed Jan 08 19:47:44 2014]  say: ^4Rebel Archie: xd
+[Wed Jan 08 19:47:47 2014]  say: ^4Rebel Archie: i hate wookies
+[Wed Jan 08 19:47:52 2014]  say: ^1Rebel ^7Riko: go back
+[Wed Jan 08 19:47:54 2014]  say: ^1Rebel ^7Riko: i screnshot u
+[Wed Jan 08 19:48:10 2014]  say: ^1Rebel ^7Riko: done
+[Wed Jan 08 19:48:12 2014]  say: ^1Rebel ^7Riko: lets gou
+[Wed Jan 08 19:48:27 2014]  say: ^4Rebel Archie: ITS A TRAP
+[Wed Jan 08 19:48:29 2014]  say: ^1Rebel ^7Riko: fall back
+[Wed Jan 08 19:48:53 2014]  say: ^1Rebel ^7Riko: fire
+[Wed Jan 08 19:49:07 2014]  say: ^1Rebel ^7Riko: move normal
+[Wed Jan 08 19:49:15 2014]  say: ^4Rebel Archie: where u?
+[Wed Jan 08 19:49:18 2014]  say: ^1Rebel ^7Riko: in up
+[Wed Jan 08 19:49:21 2014]  say: ^1Rebel ^7Riko: doors locked hm?
+[Wed Jan 08 19:49:24 2014]  say: ^1Rebel ^7Riko: dont open door
+[Wed Jan 08 19:49:28 2014]  say: ^1Rebel ^7Riko: i go to
+[Wed Jan 08 19:49:29 2014]  say: ^4Rebel Archie: i see here locker
+[Wed Jan 08 19:49:32 2014]  say: ^1Rebel ^7Riko: yy
+[Wed Jan 08 19:49:34 2014]  say: ^1Rebel ^7Riko: im going find key
+[Wed Jan 08 19:49:36 2014]  say: ^1Rebel ^7Riko: han is here
+[Wed Jan 08 19:49:42 2014]  say: ^4Rebel Archie: give here key
+[Wed Jan 08 19:49:59 2014]  say: ^4Rebel Archie: key here sir!
+[Wed Jan 08 19:50:02 2014]  say: ^1Rebel ^7Riko: over there
+[Wed Jan 08 19:50:25 2014]  say: ^4Rebel Archie: !
+[Wed Jan 08 19:50:29 2014]  say: ^4Rebel Archie: han
+[Wed Jan 08 19:50:35 2014]  say: ^1Rebel ^7Riko: Han: guys leave!
+[Wed Jan 08 19:50:38 2014]  say: ^4Rebel Archie: ?
+[Wed Jan 08 19:50:40 2014]  say: ^1Rebel ^7Riko: Han: its a trap!
+[Wed Jan 08 19:50:43 2014]  say: ^4Rebel Archie: SHI
+[Wed Jan 08 19:50:43 2014]  say: ^1Rebel ^7Riko: WHAT THE
+[Wed Jan 08 19:50:57 2014]  say: ^1Rebel ^7Riko: GOD
+[Wed Jan 08 19:51:10 2014]  say: ^4Rebel Archie: u have to die u know ?
+[Wed Jan 08 19:51:19 2014]  say: ^1Rebel ^7Riko: NICE SHOT ARCHIE
+[Wed Jan 08 19:51:28 2014]  say: ^1Rebel ^7Riko: LETS GO HAN
+[Wed Jan 08 19:51:34 2014]  say: ^1Rebel ^7Riko: Han: guys no
+[Wed Jan 08 19:51:41 2014]  say: ^4Rebel Archie: WAT?
+[Wed Jan 08 19:51:44 2014]  say: ^1Rebel ^7Riko: Tavion: hahaha
+[Wed Jan 08 19:51:49 2014]  tell: ^1Rebel ^7Riko to ^4Rebel Archie: give notarget
+[Wed Jan 08 19:51:59 2014]  say: ^4Rebel Archie: do ti
+[Wed Jan 08 19:52:01 2014]  say: ^4Rebel Archie: it*
+[Wed Jan 08 19:52:11 2014]  say: ^1Rebel ^7Riko: Tavion: surrender or die
+[Wed Jan 08 19:52:18 2014]  say: ^1Rebel ^7Riko: han dont
+[Wed Jan 08 19:52:24 2014]  say: ^4Rebel Archie: han please
+[Wed Jan 08 19:52:28 2014]  say: ^1Rebel ^7Riko: i said notarget
+[Wed Jan 08 19:52:30 2014]  say: ^4Rebel Archie: i did
+[Wed Jan 08 19:52:40 2014]  say: ^1Rebel ^7Riko: Tavion: its over surrender 
+[Wed Jan 08 19:52:43 2014]  say: ^1Rebel ^7Riko: sure
+[Wed Jan 08 19:52:49 2014]  say: ^4Rebel Archie: HAN!
+[Wed Jan 08 19:52:54 2014]  say: ^4Rebel Archie: LEST LEAVE
+[Wed Jan 08 19:52:57 2014]  say: ^1Rebel ^7Riko: omg
+[Wed Jan 08 19:52:58 2014]  say: ^1Rebel ^7Riko: no
+[Wed Jan 08 19:53:08 2014]  say: ^1Rebel ^7Riko: ... i have idea archie. ..
+[Wed Jan 08 19:53:14 2014]  say: ^1Rebel ^7Riko: tavion go to here
+[Wed Jan 08 19:53:14 2014]  say: ^1Rebel ^7Riko: ok
+[Wed Jan 08 19:53:33 2014]  say: ^1Rebel ^7Riko: god
+[Wed Jan 08 19:53:36 2014]  say: ^1Rebel ^7Riko: thats so bad
+[Wed Jan 08 19:53:44 2014]  tell: ^1Rebel ^7Riko to ^4Rebel Archie: my tactic
+[Wed Jan 08 19:53:51 2014]  tell: ^1Rebel ^7Riko to ^4Rebel Archie: snipe tavion me alora
+[Wed Jan 08 19:53:54 2014]  say: ^4Rebel Archie: k
+[Wed Jan 08 19:54:13 2014]  say: ^1Rebel ^7Riko: now
+[Wed Jan 08 19:54:15 2014]  say: ^1Rebel ^7Riko: notarget
+[Wed Jan 08 19:54:21 2014]  say: ^1Rebel ^7Riko: MELEE
+[Wed Jan 08 19:54:24 2014]  say: ^1Rebel ^7Riko: MELEE NLY
+[Wed Jan 08 19:54:29 2014]  say: ^1Rebel ^7Riko: melee
+[Wed Jan 08 19:54:30 2014]  say: ^1Rebel ^7Riko: bitch
+[Wed Jan 08 19:54:32 2014]  say: ^1Rebel ^7Riko: mele
+[Wed Jan 08 19:54:41 2014]  say: ^1Rebel ^7Riko: MOVE
+[Wed Jan 08 19:54:57 2014]  say: ^1Rebel ^7Riko: WE NEED WEAPONS
+[Wed Jan 08 19:55:01 2014]  say: ^4Rebel Archie: come
+[Wed Jan 08 19:55:08 2014]  say: ^1Rebel ^7Riko: im sergeant u a soldier
+[Wed Jan 08 19:55:22 2014]  say: ^1Rebel ^7Riko: fire
+[Wed Jan 08 19:55:35 2014]  say: ^4Rebel Archie: OMG I AM HURT
+[Wed Jan 08 19:55:36 2014]  say: ^1Rebel ^7Riko: leave kid
+[Wed Jan 08 19:56:33 2014]  say: ^4Rebel Archie: sir hurry!
+[Wed Jan 08 19:57:10 2014]  say: ^1Rebel ^7Riko: there is weapons!
+[Wed Jan 08 19:57:14 2014]  say: ^1Rebel ^7Riko: LOL LIGHTSABER
+[Wed Jan 08 19:57:26 2014]  say: ^4Rebel Archie: u dont know how to weild lightsaber
+[Wed Jan 08 19:57:29 2014]  say: ^4Rebel Archie: sir!
+[Wed Jan 08 19:57:37 2014]  say: ^1Rebel ^7Riko: DAFUQ
+[Wed Jan 08 19:57:38 2014]  say: ^4Rebel Archie: ENEMIES
+[Wed Jan 08 19:57:43 2014]  say: ^1Rebel ^7Riko: ROGER THAT
+[Wed Jan 08 19:57:51 2014]  say: ^4Rebel Archie: ill call reinforments
+[Wed Jan 08 19:57:58 2014]  say: ^4Rebel Archie: done
+[Wed Jan 08 19:58:03 2014]  say: ^4Rebel Archie: eta 5 minutes
+[Wed Jan 08 19:58:18 2014]  say: ^1Rebel ^7Riko: MOVE MOVE!
+[Wed Jan 08 19:58:18 2014]  say: ^4Rebel Archie: they are arena
+[Wed Jan 08 19:58:24 2014]  say: ^4Rebel Archie: at arena*
+[Wed Jan 08 19:58:25 2014]  say: ^1Rebel ^7Riko: ARENA TOMMOROW
+[Wed Jan 08 19:58:30 2014]  say: ^1Rebel ^7Riko: COME
+[Wed Jan 08 19:58:48 2014]  say: ^1Rebel ^7Riko: here
+[Wed Jan 08 19:59:04 2014]  say: ^4Rebel Archie: uh-oh
+[Wed Jan 08 19:59:10 2014]  say: ^4Rebel Archie: i have a bad felling about this
+[Wed Jan 08 19:59:13 2014]  say: ^1Rebel ^7Riko: DAMN
+[Wed Jan 08 19:59:24 2014]  say: ^1Rebel ^7Riko: THROWING TO YOU ROCKET
+[Wed Jan 08 19:59:49 2014]  say: ^4Rebel Archie: NO
+[Wed Jan 08 19:59:50 2014]  say: ^4Rebel Archie: shit
+[Wed Jan 08 20:00:02 2014]  say: ^4Rebel Archie: SIR!!!!?!!!!
+[Wed Jan 08 20:00:04 2014]  say: ^4Rebel Archie: help!!!!!
+[Wed Jan 08 20:00:07 2014]  Kill: 1022 0 2: <world> killed ^4Rebel Archie by MOD_MELEE
+[Wed Jan 08 20:00:10 2014]  say: ^1Rebel ^7Riko: nooo
+[Wed Jan 08 20:00:17 2014]  say: ^1Rebel ^7Riko: HERE
+[Wed Jan 08 20:00:18 2014]  say: ^1Rebel ^7Riko: COME HURRY
+[Wed Jan 08 20:00:22 2014]  say: ^1Rebel ^7Riko: MY HANDS HURRY
+[Wed Jan 08 20:00:24 2014]  say: ^1Rebel ^7Riko: AUAH
+[Wed Jan 08 20:00:30 2014]  say: ^4Rebel Archie: i am dead
+[Wed Jan 08 20:00:35 2014]  Kill: 1022 1 38: <world> killed ^1Rebel ^7Riko by MOD_FALLING
+[Wed Jan 08 20:00:38 2014]  say: ^4Rebel Archie: no!
+[Wed Jan 08 20:00:40 2014]  say: ^1Rebel ^7Riko: MOVE HERE ARCHIE!
+[Wed Jan 08 20:00:45 2014]  say: ^1Rebel ^7Riko: THERE LIGHTSABER
+[Wed Jan 08 20:00:46 2014]  say: ^1Rebel ^7Riko: USE HIM
+[Wed Jan 08 20:00:48 2014]  say: ^1Rebel ^7Riko: I ..
+[Wed Jan 08 20:00:51 2014]  Item: 0 weapon_rocket_launcher
+[Wed Jan 08 20:00:53 2014]  say: ^1Rebel ^7Riko: DYY..ING..
+[Wed Jan 08 20:00:53 2014]  say: ^4Rebel Archie: no
+[Wed Jan 08 20:01:03 2014]  say: ^4Rebel Archie: DIE 
+[Wed Jan 08 20:01:07 2014]  say: ^1Rebel ^7Riko: you ..werr..ee..my.. good.. sold..i..ee.. ee..rr......
+[Wed Jan 08 20:01:12 2014]  say: ^4Rebel Archie: NO!!!!!!!!!
+[Wed Jan 08 20:01:42 2014]  say: ^4Rebel Archie: I WILL NEVER FORGET U SERGENT!
+[Wed Jan 08 20:01:50 2014]  say: ^1Rebel ^7Riko: i ..
+[Wed Jan 08 20:01:57 2014]  say: ^1Rebel ^7Riko: i call 
+[Wed Jan 08 20:02:02 2014]  say: ^1Rebel ^7Riko: ..mee..de..kk
+[Wed Jan 08 20:02:05 2014]  say: ^4Rebel Archie: no!
+[Wed Jan 08 20:02:07 2014]  say: ^1Rebel ^7Riko: fo.. rr. foo..rr. fooor
+[Wed Jan 08 20:02:07 2014]  say: ^4Rebel Archie: sir
+[Wed Jan 08 20:02:09 2014]  say: ^1Rebel ^7Riko: uu ...
+[Wed Jan 08 20:02:18 2014]  say: ^1Rebel ^7Riko: here
+[Wed Jan 08 20:02:22 2014]  say: ^4Rebel Archie: medekk!
+[Wed Jan 08 20:02:22 2014]  say: ^1Rebel ^7Riko: where is u sir
+[Wed Jan 08 20:02:25 2014]  say: ^4Rebel Archie: its
+[Wed Jan 08 20:02:27 2014]  say: ^4Rebel Archie: its...
+[Wed Jan 08 20:02:29 2014]  say: ^4Rebel Archie: dead
+[Wed Jan 08 20:02:37 2014]  say: ^1Rebel ^7Riko: nah
+[Wed Jan 08 20:02:39 2014]  say: ^1Rebel ^7Riko: i heal him!
+[Wed Jan 08 20:02:44 2014]  say: ^4Rebel Archie: here
+[Wed Jan 08 20:02:54 2014]  say: ^1Rebel ^7Riko: 30K!
+[Wed Jan 08 20:03:08 2014]  say: ^4Rebel Archie: jaden!?
+[Wed Jan 08 20:03:20 2014]  say: ^4Rebel Archie: HES ALIVE
+[Wed Jan 08 20:03:30 2014]  Exit: Timelimit hit.
+[Wed Jan 08 20:03:30 2014]  score: 64  ping: 53  client: 0 ^4Rebel Archie
+[Wed Jan 08 20:03:30 2014]  score: 47  ping: 180  client: 1 ^1Rebel ^7Riko
+[Wed Jan 08 20:03:31 2014]  say: ^1Rebel ^7Riko: LIVE!
+[Wed Jan 08 20:03:34 2014]  say: ^1Rebel ^7Riko: IM BACK
+[Wed Jan 08 20:03:36 2014]  ShutdownGame:
+[Wed Jan 08 20:03:36 2014]  ------------------------------------------------------------
+[Wed Jan 08 20:03:37 2014]  ------------------------------------------------------------
+[Wed Jan 08 20:03:37 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Jan 08 20:03:38 2014]  ClientConnect: 0
+[Wed Jan 08 20:03:38 2014]  ClientConnect: 1
+[Wed Jan 08 20:03:55 2014]  say: ^4Rebel Archie: WE SEE U NEXT MAP1
+[Wed Jan 08 20:03:55 2014]  ClientBegin: 0
+[Wed Jan 08 20:04:13 2014]  say: ^1Rebel ^7Riko: NOW GOING SWTOR BYE
+[Wed Jan 08 20:04:13 2014]  ClientBegin: 1
+[Wed Jan 08 20:04:17 2014]  say: ^1Rebel ^7Riko: now going swtor bye 
+[Wed Jan 08 20:04:19 2014]  say: ^4Rebel Archie: :(
+[Wed Jan 08 20:04:21 2014]  say: ^4Rebel Archie: wait
+[Wed Jan 08 20:04:25 2014]  say: ^4Rebel Archie: lets make final part
+[Wed Jan 08 20:04:31 2014]  say: ^4Rebel Archie: u sit
+[Wed Jan 08 20:04:33 2014]  say: ^4Rebel Archie: /msit
+[Wed Jan 08 20:04:35 2014]  say: ^4Rebel Archie: do it
+[Wed Jan 08 20:04:44 2014]  say: ^4Rebel Archie: sir
+[Wed Jan 08 20:04:48 2014]  say: ^4Rebel Archie: ur at medbay
+[Wed Jan 08 20:04:50 2014]  say: ^4Rebel Archie: at academy
+[Wed Jan 08 20:04:56 2014]  say: ^4Rebel Archie: mission succseful
+[Wed Jan 08 20:05:02 2014]  say: ^4Rebel Archie: and i am officer now
+[Wed Jan 08 20:05:11 2014]  say: ^1Rebel ^7Riko: congrat
+[Wed Jan 08 20:05:14 2014]  say: ^4Rebel Archie: press tabn
+[Wed Jan 08 20:05:16 2014]  say: ^4Rebel Archie: tab*
+[Wed Jan 08 20:05:22 2014]  say: ^1Rebel ^7Riko: u will a big general
+[Wed Jan 08 20:05:23 2014]  say: ^1Rebel ^7Riko: this i know
+[Wed Jan 08 20:05:27 2014]  say: ^1Rebel ^7Riko: you father was too
+[Wed Jan 08 20:05:27 2014]  say: ^4Rebel Archie: yes sir
+[Wed Jan 08 20:05:32 2014]  say: ^4Rebel Archie: o.o
+[Wed Jan 08 20:05:35 2014]  say: ^1Rebel ^7Riko: ye
+[Wed Jan 08 20:05:37 2014]  say: ^4Rebel Archie: where is he?
+[Wed Jan 08 20:05:38 2014]  say: ^1Rebel ^7Riko: u father was working here
+[Wed Jan 08 20:05:40 2014]  say: ^1Rebel ^7Riko: died
+[Wed Jan 08 20:05:50 2014]  say: ^4Rebel Archie: HOW!?
+[Wed Jan 08 20:06:08 2014]  say: ^1Rebel ^7Riko: darth zhraxi killed him
+[Wed Jan 08 20:06:14 2014]  say: ^4Rebel Archie: THAT FUCKER
+[Wed Jan 08 20:06:15 2014]  say: ^4Rebel Archie: ok
+[Wed Jan 08 20:06:20 2014]  say: ^4Rebel Archie: i go get my new weapon
+[Wed Jan 08 20:06:20 2014]  say: ^1Rebel ^7Riko: u father was a big jedi and general
+[Wed Jan 08 20:06:22 2014]  say: ^1Rebel ^7Riko: was hero
+[Wed Jan 08 20:06:27 2014]  say: ^1Rebel ^7Riko: and
+[Wed Jan 08 20:06:28 2014]  say: ^4Rebel Archie: ill show u
+[Wed Jan 08 20:06:31 2014]  say: ^1Rebel ^7Riko: i have gift for u
+[Wed Jan 08 20:06:34 2014]  say: ^4Rebel Archie: 0.0
+[Wed Jan 08 20:06:35 2014]  say: ^4Rebel Archie: wher?
+[Wed Jan 08 20:06:38 2014]  say: ^1Rebel ^7Riko: i think
+[Wed Jan 08 20:06:38 2014]  say: ^4Rebel Archie: there
+[Wed Jan 08 20:06:39 2014]  say: ^1Rebel ^7Riko: i can move
+[Wed Jan 08 20:07:20 2014]  say: ^4Rebel Archie: i feel
+[Wed Jan 08 20:07:40 2014]  say: ^4Rebel Archie: OMG
+[Wed Jan 08 20:07:47 2014]  say: ^4Rebel Archie: luke skywalker
+[Wed Jan 08 20:07:55 2014]  say: ^1Rebel ^7Riko: LEVE
+[Wed Jan 08 20:07:56 2014]  say: ^4Rebel Archie: what is it?
+[Wed Jan 08 20:08:18 2014]  say: ^4Rebel Archie: let me come again
+[Wed Jan 08 20:08:38 2014]  say: ^4Rebel Archie: no rebels here
+[Wed Jan 08 20:08:47 2014]  say: ^1Rebel ^7Riko: This is jeda academy
+[Wed Jan 08 20:08:51 2014]  say: ^4Rebel Archie: wait
+[Wed Jan 08 20:08:56 2014]  tell: ^1Rebel ^7Riko to ^4Rebel Archie: come
+[Wed Jan 08 20:09:03 2014]  say: ^1Rebel ^7Riko: move slow omg
+[Wed Jan 08 20:09:04 2014]  say: ^1Rebel ^7Riko: u fake
+[Wed Jan 08 20:09:06 2014]  say: ^1Rebel ^7Riko: dont
+[Wed Jan 08 20:09:09 2014]  say: ^4Rebel Archie: why?
+[Wed Jan 08 20:09:15 2014]  say: ^1Rebel ^7Riko: U SO FAKE
+[Wed Jan 08 20:09:22 2014]  say: ^4Rebel Archie: ok
+[Wed Jan 08 20:10:14 2014]  say: ^4Rebel Archie: luke kyle!
+[Wed Jan 08 20:10:19 2014]  say: ^1Rebel ^7Riko: master luke and kyle
+[Wed Jan 08 20:10:23 2014]  say: ^1Rebel ^7Riko: this is archie
+[Wed Jan 08 20:10:31 2014]  say: ^1Rebel ^7Riko: Kyle: eh who?
+[Wed Jan 08 20:10:33 2014]  say: ^1Rebel ^7Riko: ...
+[Wed Jan 08 20:10:36 2014]  say: ^1Rebel ^7Riko: kyle stop that
+[Wed Jan 08 20:10:38 2014]  say: ^1Rebel ^7Riko: hes good
+[Wed Jan 08 20:10:46 2014]  say: ^1Rebel ^7Riko: i see him with lightsaber 
+[Wed Jan 08 20:10:55 2014]  say: ^1Rebel ^7Riko: Luke: i sense midichrolians
+[Wed Jan 08 20:10:57 2014]  say: ^1Rebel ^7Riko: with this guy
+[Wed Jan 08 20:11:04 2014]  say: ^4Rebel Archie: wat?
+[Wed Jan 08 20:11:05 2014]  say: ^1Rebel ^7Riko: Kyle: me too
+[Wed Jan 08 20:11:09 2014]  say: ^1Rebel ^7Riko: midichlorians is
+[Wed Jan 08 20:11:23 2014]  say: ^4Rebel Archie: is?
+[Wed Jan 08 20:11:23 2014]  say: ^1Rebel ^7Riko: engize
+[Wed Jan 08 20:11:26 2014]  say: ^4Rebel Archie: ah
+[Wed Jan 08 20:11:30 2014]  say: ^1Rebel ^7Riko: dodge and next
+[Wed Jan 08 20:11:36 2014]  say: ^1Rebel ^7Riko: i think
+[Wed Jan 08 20:11:39 2014]  say: ^1Rebel ^7Riko: this guy have talent
+[Wed Jan 08 20:11:49 2014]  say: ^1Rebel ^7Riko: hes father was troxi
+[Wed Jan 08 20:11:55 2014]  say: ^4Rebel Archie: wait
+[Wed Jan 08 20:11:58 2014]  say: ^1Rebel ^7Riko: Luke: troxi hm?
+[Wed Jan 08 20:12:06 2014]  say: ^1Rebel ^7Riko: Luke: the troxi moment
+[Wed Jan 08 20:12:07 2014]  say: ^4Rebel Archie: so the one who killed my father was my uncle!?
+[Wed Jan 08 20:12:15 2014]  say: ^1Rebel ^7Riko: stop
+[Wed Jan 08 20:12:19 2014]  say: ^1Rebel ^7Riko: or u will kicked from republic
+[Wed Jan 08 20:12:23 2014]  say: ^1Rebel ^7Riko: DO U KNOW WHERE U TALKING?
+[Wed Jan 08 20:12:28 2014]  say: ^1Rebel ^7Riko: THERE IS LUKE AND KYLE
+[Wed Jan 08 20:12:33 2014]  say: ^4Rebel Archie: yes i know
+[Wed Jan 08 20:12:35 2014]  say: ^1Rebel ^7Riko: LOOK AT KYLE AND LUKE NOT AT ME BISH
+[Wed Jan 08 20:12:42 2014]  say: ^1Rebel ^7Riko: i think
+[Wed Jan 08 20:12:44 2014]  say: ^1Rebel ^7Riko: this guy will a
+[Wed Jan 08 20:12:47 2014]  say: ^1Rebel ^7Riko: very 
+[Wed Jan 08 20:12:49 2014]  say: ^1Rebel ^7Riko: slow
+[Wed Jan 08 20:12:53 2014]  say: ^1Rebel ^7Riko: because hes always looking at me
+[Wed Jan 08 20:13:07 2014]  say: ^1Rebel ^7Riko: Luke: i think this guy will have talent
+[Wed Jan 08 20:13:20 2014]  say: ^1Rebel ^7Riko: Luke: you father Troxi Malwalker was very good jedi knight
+[Wed Jan 08 20:13:36 2014]  say: ^1Rebel ^7Riko: Kyle: i was a master of u father
+[Wed Jan 08 20:13:42 2014]  say: ^4Rebel Archie: 0.0
+[Wed Jan 08 20:13:53 2014]  say: ^4Rebel Archie: i have a question
+[Wed Jan 08 20:14:00 2014]  say: ^4Rebel Archie: what is my real name 
+[Wed Jan 08 20:14:02 2014]  say: ^4Rebel Archie: ?
+[Wed Jan 08 20:14:22 2014]  say: ^1Rebel ^7Riko: Kyle: u father was first jaden
+[Wed Jan 08 20:14:29 2014]  say: ^1Rebel ^7Riko: Kyle: im finded him at korriban
+[Wed Jan 08 20:14:33 2014]  say: ^1Rebel ^7Riko: Kyle: only mother
+[Wed Jan 08 20:14:56 2014]  say: ^4Rebel Archie: ok ok
+[Wed Jan 08 20:15:17 2014]  say: ^4Rebel Archie: i feel something strange
+[Wed Jan 08 20:15:21 2014]  say: ^1Rebel ^7Riko: Luke ++:U think this guy is a really son of jaden?++=
+[Wed Jan 08 20:15:30 2014]  say: ^1Rebel ^7Riko: WATCH THE JEDIS
+[Wed Jan 08 20:15:31 2014]  say: ^1Rebel ^7Riko: NOT ME BITCH
+[Wed Jan 08 20:15:37 2014]  say: ^1Rebel ^7Riko: U A SOLDIER
+[Wed Jan 08 20:15:41 2014]  say: ^1Rebel ^7Riko: U MUST HAVE HARD TRAIING
+[Wed Jan 08 20:15:43 2014]  say: ^1Rebel ^7Riko: ONE LOOKING ON ME
+[Wed Jan 08 20:15:46 2014]  say: ^1Rebel ^7Riko: ONE DIE
+[Wed Jan 08 20:16:13 2014]  say: ^1Rebel ^7Riko: Kyle: ++= Yes 
+[Wed Jan 08 20:16:42 2014]  say: ^1Rebel ^7Riko: Kyle: ++= i think the jaden with clarde
+[Wed Jan 08 20:16:54 2014]  say: ^1Rebel ^7Riko: Luke: ++= uhm?
+[Wed Jan 08 20:17:13 2014]  say: ^1Rebel ^7Riko: Kyle ++= jaden haved sex with clarde..++=
+[Wed Jan 08 20:17:20 2014]  say: ^1Rebel ^7Riko: Luke: ++= O_O ++=
+[Wed Jan 08 20:17:26 2014]  say: ^1Rebel ^7Riko: Luke: ok
+[Wed Jan 08 20:17:32 2014]  say: ^4Rebel Archie: so?
+[Wed Jan 08 20:17:40 2014]  say: ^1Rebel ^7Riko: Luke: come back to next day
+[Wed Jan 08 20:17:46 2014]  say: ^4Rebel Archie: wait
+[Wed Jan 08 20:17:47 2014]  say: ^4Rebel Archie: i,..
+[Wed Jan 08 20:17:48 2014]  say: ^4Rebel Archie: i..
+[Wed Jan 08 20:17:50 2014]  say: ^1Rebel ^7Riko: Luke: i and kyle have job in coruscant
+[Wed Jan 08 20:17:57 2014]  say: ^4Rebel Archie: sir
+[Wed Jan 08 20:17:59 2014]  say: ^1Rebel ^7Riko: lets go archie
+[Wed Jan 08 20:18:02 2014]  say: ^4Rebel Archie: no
+[Wed Jan 08 20:18:04 2014]  say: ^4Rebel Archie: come here
+[Wed Jan 08 20:18:04 2014]  say: ^1Rebel ^7Riko: wat uwant
+[Wed Jan 08 20:18:08 2014]  say: ^4Rebel Archie: wait
+[Wed Jan 08 20:18:15 2014]  say: ^4Rebel Archie: stay there
+[Wed Jan 08 20:18:28 2014]  say: ^4Rebel Archie: enemie!
+[Wed Jan 08 20:18:31 2014]  say: ^1Rebel ^7Riko: kyle lol
+[Wed Jan 08 20:18:37 2014]  say: ^1Rebel ^7Riko: Kyle: i like watching
+[Wed Jan 08 20:18:39 2014]  say: ^1Rebel ^7Riko: lol
+[Wed Jan 08 20:18:41 2014]  say: ^1Rebel ^7Riko: sure
+[Wed Jan 08 20:18:58 2014]  say: ^4Rebel Archie: lol
+[Wed Jan 08 20:18:59 2014]  say: ^1Rebel ^7Riko: My sayingds
+[Wed Jan 08 20:19:03 2014]  say: ^1Rebel ^7Riko: this guy have rly talent
+[Wed Jan 08 20:19:08 2014]  say: ^1Rebel ^7Riko: Kyle: that was luck
+[Wed Jan 08 20:19:12 2014]  say: ^1Rebel ^7Riko: yay :D
+[Wed Jan 08 20:19:12 2014]  say: ^4Rebel Archie: oh 
+[Wed Jan 08 20:19:14 2014]  say: ^4Rebel Archie: luck?
+[Wed Jan 08 20:19:14 2014]  say: ^1Rebel ^7Riko: Kyle: :P
+[Wed Jan 08 20:19:18 2014]  say: ^4Rebel Archie: oh then
+[Wed Jan 08 20:19:20 2014]  say: ^1Rebel ^7Riko: Kyle: next day boy
+[Wed Jan 08 20:19:27 2014]  say: ^1Rebel ^7Riko: next day omg
+[Wed Jan 08 20:19:28 2014]  say: ^4Rebel Archie: go
+[Wed Jan 08 20:19:31 2014]  say: ^1Rebel ^7Riko: next day
+[Wed Jan 08 20:19:34 2014]  say: ^4Rebel Archie: ok
+[Wed Jan 08 20:19:57 2014]  say: ^1Rebel ^7Riko: lol
+[Wed Jan 08 20:19:58 2014]  say: ^4Rebel Archie: so u say now luck?
+[Wed Jan 08 20:20:03 2014]  say: ^1Rebel ^7Riko: Kyle: leave ..
+[Wed Jan 08 20:20:07 2014]  say: ^1Rebel ^7Riko: leave soldier!
+[Wed Jan 08 20:20:13 2014]  say: ^1Rebel ^7Riko: sry kyle
+[Wed Jan 08 20:20:18 2014]  say: ^1Rebel ^7Riko: hes teenager
+[Wed Jan 08 20:20:22 2014]  say: ^1Rebel ^7Riko: Kyle: yeah
+[Wed Jan 08 20:20:32 2014]  say: ^1Rebel ^7Riko: Kyle: now leave pls i and luke have job
+[Wed Jan 08 20:20:48 2014]  say: ^4Rebel Archie: well
+[Wed Jan 08 20:21:00 2014]  say: ^4Rebel Archie: hell of a job yeah?
+[Wed Jan 08 20:21:13 2014]  say: ^1Rebel ^7Riko: dauh
+[Wed Jan 08 20:21:18 2014]  say: ^4Rebel Archie: well
+[Wed Jan 08 20:21:19 2014]  say: ^1Rebel ^7Riko: lol u have fake eyes
+[Wed Jan 08 20:21:25 2014]  say: ^4Rebel Archie: come here
+[Wed Jan 08 20:21:28 2014]  say: ^4Rebel Archie: for grand finale
+[Wed Jan 08 20:21:29 2014]  say: ^1Rebel ^7Riko: no
+[Wed Jan 08 20:21:32 2014]  say: ^1Rebel ^7Riko: i cant
+[Wed Jan 08 20:21:37 2014]  say: ^1Rebel ^7Riko: i must sleep
+[Wed Jan 08 20:21:40 2014]  say: ^4Rebel Archie: K
+[Wed Jan 08 20:21:44 2014]  say: ^4Rebel Archie: so 
+[Wed Jan 08 20:21:47 2014]  say: ^4Rebel Archie: here it was
+[Wed Jan 08 20:21:53 2014]  say: ^1Rebel ^7Riko: i not mean real sleep
+[Wed Jan 08 20:21:57 2014]  say: ^4Rebel Archie: star wars: the trooper!
+[Wed Jan 08 20:21:58 2014]  say: ^1Rebel ^7Riko: im going swtor
+[Wed Jan 08 20:22:11 2014]  say: ^4Rebel Archie: episode 1 finishe
+[Wed Jan 08 20:22:15 2014]  say: ^4Rebel Archie: *credits*
+[Wed Jan 08 20:22:18 2014]  say: ^4Rebel Archie: nex time
+[Wed Jan 08 20:22:31 2014]  say: ^1Rebel ^7Riko: come swtor
+[Wed Jan 08 20:22:38 2014]  say: ^4Rebel Archie: Star Wars:The Sith
+[Wed Jan 08 20:22:44 2014]  say: ^1Rebel ^7Riko: come swtor
+[Wed Jan 08 20:22:46 2014]  say: ^4Rebel Archie: ok i have go sleep
+[Wed Jan 08 20:22:48 2014]  say: ^4Rebel Archie: rly
+[Wed Jan 08 20:22:49 2014]  say: ^1Rebel ^7Riko: aha
+[Wed Jan 08 20:22:51 2014]  say: ^4Rebel Archie: bye
+[Wed Jan 08 20:22:52 2014]  say: ^1Rebel ^7Riko: ok bye
+[Wed Jan 08 20:22:54 2014]  ClientDisconnect: 0
+[Wed Jan 08 20:24:21 2014]  ClientDisconnect: 1
+[Wed Jan 08 22:03:36 2014]  Exit: Timelimit hit.
+[Thu Jan 09 00:48:56 2014]  ClientConnect: 0
+[Thu Jan 09 00:48:56 2014]  mlog:Player Monte, connected. With IP - 71.87.33.163:29070 
+[Thu Jan 09 00:49:06 2014]  ClientBegin: 0
+[Thu Jan 09 00:49:10 2014]  ShutdownGame:
+[Thu Jan 09 00:49:10 2014]  ------------------------------------------------------------

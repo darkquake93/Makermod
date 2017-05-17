@@ -1,0 +1,141 @@
+[Mon Oct 14 01:23:16 2013]  ------------------------------------------------------------
+[Mon Oct 14 01:23:16 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 14 01:23:17 2013]  ClientConnect: 0
+[Mon Oct 14 01:23:17 2013]  ClientConnect: 1
+[Mon Oct 14 01:23:26 2013]  ClientBegin: 0
+[Mon Oct 14 01:23:27 2013]  ClientBegin: 1
+[Mon Oct 14 01:23:39 2013]  say: ^1Fulltime: ^1Ninja abilities off
+[Mon Oct 14 01:23:41 2013]  say: ^1Fulltime: ^1Ninja abilities off
+[Mon Oct 14 01:23:41 2013]  say: ^1Fulltime: ^1Ninja abilities off
+[Mon Oct 14 01:23:41 2013]  say: ^1Fulltime: ^1Ninja abilities off
+[Mon Oct 14 01:23:41 2013]  say: ^1Fulltime: ^1Ninja abilities off
+[Mon Oct 14 01:23:41 2013]  say: ^1Fulltime: ^1Ninja abilities off
+[Mon Oct 14 01:23:45 2013]  ClientDisconnect: 0
+[Mon Oct 14 01:24:29 2013]  ClientDisconnect: 1
+[Mon Oct 14 03:23:15 2013]  Exit: Timelimit hit.
+[Mon Oct 14 11:17:11 2013]  ClientConnect: 0
+[Mon Oct 14 11:17:11 2013]  mlog:Player Dark, connected. With IP - 217.118.91.40:17506 
+[Mon Oct 14 11:17:50 2013]  ClientBegin: 0
+[Mon Oct 14 11:18:26 2013]  ShutdownGame:
+[Mon Oct 14 11:18:26 2013]  ------------------------------------------------------------
+[Mon Oct 14 11:18:26 2013]  ------------------------------------------------------------
+[Mon Oct 14 11:18:26 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 14 11:18:28 2013]  ClientConnect: 0
+[Mon Oct 14 11:18:59 2013]  ClientBegin: 0
+[Mon Oct 14 11:21:38 2013]  ClientDisconnect: 0
+[Mon Oct 14 11:22:33 2013]  ClientConnect: 0
+[Mon Oct 14 11:22:33 2013]  mlog:Player Dark, connected. With IP - 217.118.91.40:19476 
+[Mon Oct 14 11:24:05 2013]  ClientConnect: 1
+[Mon Oct 14 11:24:05 2013]  mlog:Player Dark, connected. With IP - 217.118.91.34:16650 
+[Mon Oct 14 11:24:37 2013]  ClientBegin: 1
+[Mon Oct 14 11:26:00 2013]  Kill: 1022 1 3: <world> killed Dark by MOD_SABER
+[Mon Oct 14 11:26:15 2013]  Kill: 1022 1 3: <world> killed Dark by MOD_SABER
+[Mon Oct 14 11:26:40 2013]  ClientDisconnect: 0
+[Mon Oct 14 11:26:44 2013]  Kill: 1022 1 3: <world> killed Dark by MOD_SABER
+[Mon Oct 14 11:27:03 2013]  Kill: 1022 1 3: <world> killed Dark by MOD_SABER
+[Mon Oct 14 11:27:26 2013]  Kill: 1022 1 3: <world> killed Dark by MOD_SABER
+[Mon Oct 14 12:06:00 2013]  ClientDisconnect: 1
+[Mon Oct 14 12:26:20 2013]  ClientConnect: 0
+[Mon Oct 14 12:26:20 2013]  mlog:Player Padawan, connected. With IP - 46.174.248.17:29070 
+[Mon Oct 14 12:26:44 2013]  ClientBegin: 0
+[Mon Oct 14 12:27:53 2013]  ClientDisconnect: 0
+[Mon Oct 14 12:34:18 2013]  ClientConnect: 0
+[Mon Oct 14 12:34:18 2013]  mlog:Player Padawan, connected. With IP - 46.174.248.17:29070 
+[Mon Oct 14 12:34:39 2013]  ClientBegin: 0
+[Mon Oct 14 12:35:56 2013]  Kill: 0 0 39: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- by MOD_SUICIDE
+[Mon Oct 14 12:35:56 2013]  setteam:  0 FREE SPECTATOR
+[Mon Oct 14 12:35:56 2013]  ClientBegin: 0
+[Mon Oct 14 12:36:01 2013]  setteam:  0 SPECTATOR FREE
+[Mon Oct 14 12:36:01 2013]  ClientBegin: 0
+[Mon Oct 14 12:36:02 2013]  say: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-: ^5Maker^7Module ^3Client Plugin ^2v0.56a
+[Mon Oct 14 12:41:41 2013]  ClientDisconnect: 0
+[Mon Oct 14 12:55:08 2013]  ClientConnect: 0
+[Mon Oct 14 12:55:08 2013]  mlog:Player PASHA, connected. With IP - 188.92.0.200:29070 
+[Mon Oct 14 12:55:26 2013]  ClientConnect: 1
+[Mon Oct 14 12:55:26 2013]  mlog:Player Padawan, connected. With IP - 46.174.248.17:29070 
+[Mon Oct 14 12:55:44 2013]  ClientBegin: 1
+[Mon Oct 14 12:55:59 2013]  ClientBegin: 0
+[Mon Oct 14 12:56:33 2013]  Kill: 0 1 3: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- by MOD_SABER
+[Mon Oct 14 12:56:43 2013]  ClientDisconnect: 1
+[Mon Oct 14 12:57:03 2013]  ClientConnect: 1
+[Mon Oct 14 12:57:03 2013]  mlog:Player -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-, connected. With IP - 46.174.248.17:29070 
+[Mon Oct 14 12:57:12 2013]  ClientBegin: 1
+[Mon Oct 14 12:57:44 2013]  Kill: 0 1 3: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- by MOD_SABER
+[Mon Oct 14 12:57:50 2013]  print "-=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-^7 @@@PLRENAME Padawan
+"[Mon Oct 14 12:58:59 2013]  Kill: 0 1 31: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed Padawan by MOD_FORCE_DARK
+[Mon Oct 14 13:03:13 2013]  Kill: 0 1 31: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed Padawan by MOD_FORCE_DARK
+[Mon Oct 14 13:03:36 2013]  Kill: 0 1 3: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed Padawan by MOD_SABER
+[Mon Oct 14 13:05:27 2013]  ClientDisconnect: 1
+[Mon Oct 14 13:07:39 2013]  ClientDisconnect: 0
+[Mon Oct 14 13:08:56 2013]  ClientConnect: 0
+[Mon Oct 14 13:08:56 2013]  mlog:Player PASHA, connected. With IP - 188.92.0.200:29070 
+[Mon Oct 14 13:09:46 2013]  ClientBegin: 0
+[Mon Oct 14 13:11:00 2013]  say: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-: ^2the empry house by ^5Dr^8House ^2have fun
+[Mon Oct 14 13:11:09 2013]  ClientConnect: 1
+[Mon Oct 14 13:11:09 2013]  mlog:Player Padawan, connected. With IP - 46.174.248.17:29070 
+[Mon Oct 14 13:11:19 2013]  ClientBegin: 1
+[Mon Oct 14 13:12:09 2013]  say: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-: ^2the empry house by ^5Dr^8House ^2have fun
+[Mon Oct 14 13:12:17 2013]  say: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-: My origin is: (-17498 -1853 1540) - You can teleport here with /mtelelast
+
+[Mon Oct 14 13:12:37 2013]  say: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-: ^1particle cannon
+[Mon Oct 14 13:12:55 2013]  Kill: 0 1 3: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed Padawan by MOD_SABER
+[Mon Oct 14 13:13:07 2013]  say: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-: ^1particle cannon
+[Mon Oct 14 13:13:07 2013]  Kill: 0 1 0: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed Padawan by MOD_UNKNOWN
+[Mon Oct 14 13:15:02 2013]  ClientConnect: 2
+[Mon Oct 14 13:15:02 2013]  mlog:Player Padawan, connected. With IP - 109.47.3.16:-30420 
+[Mon Oct 14 13:15:49 2013]  ClientBegin: 2
+[Mon Oct 14 13:17:18 2013]  say: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-: ^1particle cannon
+[Mon Oct 14 13:17:25 2013]  Kill: 2 0 37: ^1Z^0eratul killed -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- by MOD_TELEFRAG
+[Mon Oct 14 13:17:25 2013]  Kill: 0 1 36: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed Padawan by MOD_CRUSH
+[Mon Oct 14 13:17:28 2013]  say: ^1Z^0eratul: owned
+[Mon Oct 14 13:17:38 2013]  Kill: 2 0 36: ^1Z^0eratul killed -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- by MOD_CRUSH
+[Mon Oct 14 13:18:12 2013]  Kill: 0 1 3: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed Padawan by MOD_SABER
+[Mon Oct 14 13:18:25 2013]  Exit: Timelimit hit.
+[Mon Oct 14 13:18:25 2013]  score: 4  ping: 144  client: 0 -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-
+[Mon Oct 14 13:18:25 2013]  score: 2  ping: 67  client: 2 ^1Z^0eratul
+[Mon Oct 14 13:18:25 2013]  score: 0  ping: 165  client: 1 Padawan
+[Mon Oct 14 13:18:31 2013]  ShutdownGame:
+[Mon Oct 14 13:18:31 2013]  ------------------------------------------------------------
+[Mon Oct 14 13:18:32 2013]  ------------------------------------------------------------
+[Mon Oct 14 13:18:32 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Oct 14 13:18:32 2013]  ClientConnect: 0
+[Mon Oct 14 13:18:32 2013]  ClientConnect: 1
+[Mon Oct 14 13:18:32 2013]  ClientConnect: 2
+[Mon Oct 14 13:18:42 2013]  ClientBegin: 1
+[Mon Oct 14 13:18:55 2013]  ClientBegin: 0
+[Mon Oct 14 13:18:58 2013]  ClientBegin: 2
+[Mon Oct 14 13:19:32 2013]  Kill: 0 1 3: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed Padawan by MOD_SABER
+[Mon Oct 14 13:20:15 2013]  ClientDisconnect: 0
+[Mon Oct 14 13:20:30 2013]  ClientDisconnect: 1
+[Mon Oct 14 13:20:44 2013]  ClientDisconnect: 2
+[Mon Oct 14 13:30:45 2013]  ClientConnect: 0
+[Mon Oct 14 13:30:45 2013]  mlog:Player Padawan, connected. With IP - 46.174.248.17:29070 
+[Mon Oct 14 13:30:53 2013]  ClientBegin: 0
+[Mon Oct 14 13:31:43 2013]  ClientConnect: 1
+[Mon Oct 14 13:31:43 2013]  mlog:Player PASHA, connected. With IP - 188.92.0.200:29070 
+[Mon Oct 14 13:32:14 2013]  ClientBegin: 1
+[Mon Oct 14 13:32:43 2013]  say: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-: My origin is: (11084 -1048 -7) - You can teleport here with /mtelelast
+
+[Mon Oct 14 13:34:38 2013]  Item: 0 ammo_all
+[Mon Oct 14 13:36:52 2013]  ClientConnect: 2
+[Mon Oct 14 13:36:52 2013]  mlog:Player Padawan, connected. With IP - 109.47.3.16:-24650 
+[Mon Oct 14 13:37:03 2013]  Kill: 1 0 31: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed Padawan by MOD_FORCE_DARK
+[Mon Oct 14 13:37:32 2013]  ClientBegin: 2
+[Mon Oct 14 13:37:59 2013]  Kill: 2 0 37: ^1Z^0eratul killed Padawan by MOD_TELEFRAG
+[Mon Oct 14 13:38:01 2013]  Kill: 2 1 37: ^1Z^0eratul killed -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- by MOD_TELEFRAG
+[Mon Oct 14 13:38:08 2013]  ClientDisconnect: 1
+[Mon Oct 14 13:39:05 2013]  Kill: 2 0 3: ^1Z^0eratul killed Padawan by MOD_SABER
+[Mon Oct 14 13:39:37 2013]  Kill: 2 0 3: ^1Z^0eratul killed Padawan by MOD_SABER
+[Mon Oct 14 13:40:14 2013]  say: Padawan: stop fuck
+[Mon Oct 14 13:40:45 2013]  Kill: 2 0 3: ^1Z^0eratul killed Padawan by MOD_SABER
+[Mon Oct 14 13:41:00 2013]  Kill: 2 0 37: ^1Z^0eratul killed Padawan by MOD_TELEFRAG
+[Mon Oct 14 13:41:42 2013]  ClientDisconnect: 0
+[Mon Oct 14 13:42:11 2013]  ClientDisconnect: 2
+[Mon Oct 14 22:59:20 2013]  ------------------------------------------------------------
+[Mon Oct 14 22:59:20 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Oct 15 00:59:14 2013]  Exit: Timelimit hit.
+[Tue Oct 15 10:02:00 2013]  ClientConnect: 0
+[Tue Oct 15 10:02:00 2013]  mlog:Player Bens_192, connected. With IP - 46.174.248.17:29070 
+[Tue Oct 15 10:02:25 2013]  ClientBegin: 0
+[Tue Oct 15 10:02:44 2013]  ShutdownGame:
+[Tue Oct 15 10:02:44 2013]  ------------------------------------------------------------

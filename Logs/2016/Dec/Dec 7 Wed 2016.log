@@ -1,0 +1,35 @@
+[Wed Dec 07 13:11:06 2016]  ------------------------------------------------------------
+[Wed Dec 07 13:11:06 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\999\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Dec 07 13:39:05 2016]  ClientConnect: 0
+[Wed Dec 07 13:39:05 2016]  mlog:Player Legendary Pato, connected. With IP - 186.19.233.134:-4347 
+[Wed Dec 07 13:39:15 2016]  ClientConnect: 1
+[Wed Dec 07 13:39:15 2016]  mlog:Player El Tio Loquillo, connected. With IP - 186.19.233.134:29070 
+[Wed Dec 07 13:39:33 2016]  ClientBegin: 0
+[Wed Dec 07 13:39:39 2016]  ClientDisconnect: 1
+[Wed Dec 07 13:39:44 2016]  ClientDisconnect: 0
+[Wed Dec 07 14:21:40 2016]  ClientConnect: 0
+[Wed Dec 07 14:21:40 2016]  mlog:Player ^1(^7Magna^5), connected. With IP - 192.162.35.113:29070 
+[Wed Dec 07 14:22:16 2016]  ClientBegin: 0
+[Wed Dec 07 14:26:47 2016]  Kill: 0 0 39: ^5A^7ndriy^3HOPIC killed ^5A^7ndriy^3HOPIC by MOD_SUICIDE
+[Wed Dec 07 14:28:53 2016]  Kill: 0 0 39: ^5A^7ndriy^3HOPIC killed ^5A^7ndriy^3HOPIC by MOD_SUICIDE
+[Wed Dec 07 14:29:08 2016]  Kill: 0 0 39: ^5A^7ndriy^3HOPIC killed ^5A^7ndriy^3HOPIC by MOD_SUICIDE
+[Wed Dec 07 14:29:37 2016]  Kill: 0 0 39: ^5A^7ndriy^3HOPIC killed ^5A^7ndriy^3HOPIC by MOD_SUICIDE
+[Wed Dec 07 14:31:33 2016]  ClientConnect: 1
+[Wed Dec 07 14:31:33 2016]  mlog:Player Legendary Pato, connected. With IP - 186.19.233.134:29070 
+[Wed Dec 07 14:32:16 2016]  ClientBegin: 1
+[Wed Dec 07 14:32:23 2016]  ClientConnect: 2
+[Wed Dec 07 14:32:23 2016]  mlog:Player El Tio Loquillo, connected. With IP - 186.19.233.134:-4340 
+[Wed Dec 07 14:32:54 2016]  ClientBegin: 2
+[Wed Dec 07 14:33:42 2016]  Kill: 0 0 39: ^5A^7ndriy^3HOPIC killed ^5A^7ndriy^3HOPIC by MOD_SUICIDE
+[Wed Dec 07 14:33:51 2016]  Kill: 0 0 39: ^5A^7ndriy^3HOPIC killed ^5A^7ndriy^3HOPIC by MOD_SUICIDE
+[Wed Dec 07 14:33:57 2016]  Kill: 1 1 39: Legendary Pato killed Legendary Pato by MOD_SUICIDE
+[Wed Dec 07 14:33:57 2016]  setteam:  1 FREE SPECTATOR
+[Wed Dec 07 14:33:57 2016]  ClientBegin: 1
+[Wed Dec 07 14:34:04 2016]  setteam:  1 SPECTATOR FREE
+[Wed Dec 07 14:34:04 2016]  ClientBegin: 1
+[Wed Dec 07 14:35:57 2016]  Kill: 1022 2 38: <world> killed El Tio Loquillo by MOD_FALLING
+[Wed Dec 07 14:48:36 2016]  Kill: 0 0 39: ^5A^7ndriy^3HOPIC killed ^5A^7ndriy^3HOPIC by MOD_SUICIDE
+[Wed Dec 07 14:49:13 2016]  ClientDisconnect: 0
+[Wed Dec 07 14:53:04 2016]  Kill: 2 1 5: El Tio Loquillo killed Legendary Pato by MOD_BRYAR_PISTOL_ALT
+[Wed Dec 07 14:53:16 2016]  ClientDisconnect: 1
+[Wed Dec 07 14:53:34 2016]  ClientDisconnect: 2

@@ -1,0 +1,382 @@
+[Tue Sep 13 10:46:21 2016]  ------------------------------------------------------------
+[Tue Sep 13 10:46:21 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Sep 14 16:32:52 2016]  ClientConnect: 0
+[Wed Sep 14 16:32:52 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Wed Sep 14 16:33:22 2016]  ClientBegin: 0
+[Wed Sep 14 16:34:53 2016]  ClientConnect: 1
+[Wed Sep 14 16:34:53 2016]  mlog:Player Padawan, connected. With IP - 46.39.4.45:29070 
+[Wed Sep 14 16:35:20 2016]  ClientBegin: 1
+[Wed Sep 14 16:37:50 2016]  Kill: 1022 1 36: <world> killed ^0Rouf by MOD_CRUSH
+[Wed Sep 14 16:57:15 2016]  ClientDisconnect: 1
+[Wed Sep 14 16:57:16 2016]  ClientDisconnect: 1
+[Wed Sep 14 16:57:16 2016]  ClientConnect: 1
+[Wed Sep 14 16:57:16 2016]  mlog:Player ^0Rouf, connected. With IP - 46.39.4.45:29070 
+[Wed Sep 14 16:57:25 2016]  ClientBegin: 1
+[Wed Sep 14 16:57:36 2016]  ClientDisconnect: 1
+[Wed Sep 14 17:06:55 2016]  ClientConnect: 1
+[Wed Sep 14 17:06:55 2016]  mlog:Player Padawan, connected. With IP - 46.39.4.45:29070 
+[Wed Sep 14 17:07:22 2016]  ClientBegin: 1
+[Wed Sep 14 17:38:13 2016]  say: s: /mmark
+[Wed Sep 14 17:41:19 2016]  ClientConnect: 2
+[Wed Sep 14 17:41:19 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.148.203:29070 
+[Wed Sep 14 17:41:42 2016]  ClientBegin: 2
+[Wed Sep 14 17:41:46 2016]  say: s: привет)
+[Wed Sep 14 17:41:48 2016]  Item: 2 weapon_melee
+[Wed Sep 14 17:41:52 2016]  say: ^0Shadow^5seer: привет)
+[Wed Sep 14 17:41:53 2016]  say: ^0Rouf: Ура)) привет_)
+[Wed Sep 14 17:41:58 2016]  say: ^0Rouf: иди сюда
+[Wed Sep 14 17:42:02 2016]  say: ^0Rouf: гляди
+[Wed Sep 14 17:42:08 2016]  say: ^0Shadow^5seer: оо, класс)
+[Wed Sep 14 17:42:11 2016]  say: ^0Rouf: )))
+[Wed Sep 14 17:42:15 2016]  say: ^0Rouf: еще работаю над этим
+[Wed Sep 14 17:42:21 2016]  say: ^0Shadow^5seer: появление проглядел
+[Wed Sep 14 17:42:34 2016]  say: ^0Rouf: ну, с ним еще работают
+[Wed Sep 14 17:42:36 2016]  say: ^0Rouf: работаю
+[Wed Sep 14 17:42:42 2016]  say: ^0Shadow^5seer: то есть его я не увижу
+[Wed Sep 14 17:42:51 2016]  say: ^0Shadow^5seer: аага
+[Wed Sep 14 17:43:10 2016]  say: ^0Shadow^5seer: так может его сделать таим же как и исчезновение?
+[Wed Sep 14 17:43:33 2016]  say: ^0Rouf: что это было
+[Wed Sep 14 17:44:06 2016]  say: ^0Shadow^5seer: не мое
+[Wed Sep 14 17:44:23 2016]  say: ^0Shadow^5seer: кстати, там за порталом уже побывали?
+[Wed Sep 14 17:44:29 2016]  say: s: да
+[Wed Sep 14 17:44:34 2016]  say: ^0Rouf: гд
+[Wed Sep 14 17:44:36 2016]  say: s: твоя работа?
+[Wed Sep 14 17:44:36 2016]  say: ^0Shadow^5seer: знакомо?)
+[Wed Sep 14 17:44:37 2016]  say: ^0Rouf: где
+[Wed Sep 14 17:44:43 2016]  say: ^0Shadow^5seer: ну да, естественно)
+[Wed Sep 14 17:44:46 2016]  say: ^0Rouf: покажи
+[Wed Sep 14 17:44:50 2016]  say: ^0Rouf: аа
+[Wed Sep 14 17:45:02 2016]  say: ^0Rouf: то же самое))
+[Wed Sep 14 17:45:02 2016]  say: ^0Shadow^5seer: тут я это еще раньше сохранил, чем на котре
+[Wed Sep 14 17:45:19 2016]  say: ^0Shadow^5seer: вся хотят сад костей в мапобс)
+[Wed Sep 14 17:45:23 2016]  say: s: а что с котром, кстати?
+[Wed Sep 14 17:45:24 2016]  say: ^0Shadow^5seer: все*
+[Wed Sep 14 17:45:34 2016]  say: ^0Shadow^5seer: у них закончилась оплата хоста
+[Wed Sep 14 17:45:42 2016]  say: ^0Rouf: lol
+[Wed Sep 14 17:45:58 2016]  say: ^0Shadow^5seer: и хз когда они заплатят
+[Wed Sep 14 17:46:07 2016]  say: ^0Shadow^5seer: так что пока я запустил свой серв)
+[Wed Sep 14 17:46:17 2016]  say: ^0Rouf: это твой???
+[Wed Sep 14 17:46:20 2016]  say: ^0Shadow^5seer: нет
+[Wed Sep 14 17:46:23 2016]  say: ^0Rouf: а где твой
+[Wed Sep 14 17:46:27 2016]  say: ^0Shadow^5seer: мой furious makermod
+[Wed Sep 14 17:46:43 2016]  say: ^0Shadow^5seer: запустил минут 10-20 назад
+[Wed Sep 14 17:46:43 2016]  say: ^0Rouf: надо попробовать
+[Wed Sep 14 17:47:02 2016]  say: s: надо сходить
+[Wed Sep 14 17:47:08 2016]  say: ^0Shadow^5seer: ну я тогда туда
+[Wed Sep 14 17:47:11 2016]  ClientDisconnect: 1
+[Wed Sep 14 17:47:12 2016]  ClientDisconnect: 0
+[Wed Sep 14 17:47:16 2016]  ClientDisconnect: 2
+[Wed Sep 14 17:48:17 2016]  ClientConnect: 0
+[Wed Sep 14 17:48:17 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Wed Sep 14 17:48:29 2016]  ClientConnect: 1
+[Wed Sep 14 17:48:29 2016]  mlog:Player ^0Rouf, connected. With IP - 46.39.4.45:29070 
+[Wed Sep 14 17:48:29 2016]  ClientBegin: 0
+[Wed Sep 14 17:48:38 2016]  ClientBegin: 1
+[Wed Sep 14 17:53:18 2016]  ClientDisconnect: 0
+[Wed Sep 14 17:53:28 2016]  ClientConnect: 0
+[Wed Sep 14 17:53:28 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Wed Sep 14 17:53:40 2016]  ClientBegin: 0
+[Wed Sep 14 18:01:29 2016]  ClientDisconnect: 1
+[Wed Sep 14 18:52:18 2016]  ClientConnect: 1
+[Wed Sep 14 18:52:18 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.148.203:29070 
+[Wed Sep 14 18:52:31 2016]  ClientBegin: 1
+[Wed Sep 14 18:52:37 2016]  Item: 1 weapon_melee
+[Wed Sep 14 18:52:40 2016]  say: s: сервер твой не видать
+[Wed Sep 14 18:52:44 2016]  say: ^0Shadow^5seer: rfr nfr
+[Wed Sep 14 18:52:47 2016]  say: ^0Shadow^5seer: как так
+[Wed Sep 14 18:52:52 2016]  say: ^0Shadow^5seer: в списке он есть
+[Wed Sep 14 18:52:52 2016]  say: s: не видно в списке
+[Wed Sep 14 18:53:08 2016]  say: ^0Shadow^5seer: черно-желтые буквы
+[Wed Sep 14 18:53:15 2016]  say: s: я помню)
+[Wed Sep 14 18:53:19 2016]  say: ^0Shadow^5seer: через плагин список фильтровали?
+[Wed Sep 14 18:53:30 2016]  say: s: через него пробовали
+[Wed Sep 14 18:53:38 2016]  say: ^0Shadow^5seer: три сервера?
+[Wed Sep 14 18:53:40 2016]  say: s: скажи айпи тогда
+[Wed Sep 14 18:53:41 2016]  say: s: да
+[Wed Sep 14 18:53:47 2016]  say: ^0Shadow^5seer: херня какая то
+[Wed Sep 14 18:53:49 2016]  say: ^0Shadow^5seer: сейчас
+[Wed Sep 14 18:53:56 2016]  ClientDisconnect: 1
+[Wed Sep 14 18:54:54 2016]  ClientConnect: 1
+[Wed Sep 14 18:54:54 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.148.203:29070 
+[Wed Sep 14 18:55:05 2016]  ClientBegin: 1
+[Wed Sep 14 18:55:53 2016]  say: ^0Shadow^5seer: 178.66.148.203:29071
+[Wed Sep 14 18:55:58 2016]  Item: 1 weapon_melee
+[Wed Sep 14 18:56:05 2016]  ClientDisconnect: 0
+[Wed Sep 14 18:56:10 2016]  ClientDisconnect: 1
+[Wed Sep 14 18:56:38 2016]  ClientConnect: 0
+[Wed Sep 14 18:56:38 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Wed Sep 14 18:56:50 2016]  ClientBegin: 0
+[Wed Sep 14 18:58:20 2016]  say: s: 178.66.148.203:29071
+[Wed Sep 14 19:01:02 2016]  ClientConnect: 1
+[Wed Sep 14 19:01:02 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.148.203:29070 
+[Wed Sep 14 19:01:13 2016]  ClientBegin: 1
+[Wed Sep 14 19:01:18 2016]  say: s: 178.66.148.203:29071
+[Wed Sep 14 19:01:19 2016]  Item: 1 weapon_melee
+[Wed Sep 14 19:01:22 2016]  say: s: правильно?
+[Wed Sep 14 19:01:25 2016]  say: ^0Shadow^5seer: да
+[Wed Sep 14 19:01:28 2016]  say: s: не получилось
+[Wed Sep 14 19:01:40 2016]  say: ^0Shadow^5seer: а в списке через интернет он у меня виден
+[Wed Sep 14 19:01:46 2016]  say: ^0Shadow^5seer: так, перепроверю щас
+[Wed Sep 14 19:01:49 2016]  ClientDisconnect: 1
+[Wed Sep 14 19:02:08 2016]  ClientConnect: 1
+[Wed Sep 14 19:02:08 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.148.203:29070 
+[Wed Sep 14 19:02:18 2016]  ClientBegin: 1
+[Wed Sep 14 19:02:24 2016]  Item: 1 weapon_melee
+[Wed Sep 14 19:02:32 2016]  say: ^0Shadow^5seer: все правильно
+[Wed Sep 14 19:02:39 2016]  say: ^0Shadow^5seer: очень странно
+[Wed Sep 14 19:02:48 2016]  say: s: винду не переустанавливал?
+[Wed Sep 14 19:02:54 2016]  say: ^0Shadow^5seer: что ж он у меня тогда в списке серверов через инет виден?
+[Wed Sep 14 19:03:03 2016]  say: ^0Shadow^5seer: я не со своего компа
+[Wed Sep 14 19:03:07 2016]  say: ^0Shadow^5seer: и не у себя дома
+[Wed Sep 14 19:03:13 2016]  say: ^0Shadow^5seer: потому то тут он и виден
+[Wed Sep 14 19:03:29 2016]  say: ^0Shadow^5seer: у меня дома он в списке через интернет вообще не виден
+[Wed Sep 14 19:03:36 2016]  say: ^0Shadow^5seer: а тт виден, но только мне
+[Wed Sep 14 19:03:39 2016]  say: ^0Shadow^5seer: тут*
+[Wed Sep 14 19:03:45 2016]  say: ^0Shadow^5seer: так вообще бывает?
+[Wed Sep 14 19:03:56 2016]  say: s: как показывает практика, бывает)
+[Wed Sep 14 19:04:07 2016]  say: ^0Shadow^5seer: ппц
+[Wed Sep 14 19:04:10 2016]  say: ^0Shadow^5seer: мистика
+[Wed Sep 14 19:04:19 2016]  say: ^0Shadow^5seer: а я то уже обрадовался...
+[Wed Sep 14 19:04:26 2016]  say: s: я вместо четырех дымок сделал три
+[Wed Sep 14 19:04:35 2016]  say: ^0Shadow^5seer: норм)
+[Wed Sep 14 19:04:48 2016]  say: s: все :D
+[Wed Sep 14 19:04:49 2016]  say: ^0Shadow^5seer: тоже ниче
+[Wed Sep 14 19:05:00 2016]  say: ^0Shadow^5seer: а я...
+[Wed Sep 14 19:05:05 2016]  say: ^0Shadow^5seer: а я тут поремапаю
+[Wed Sep 14 19:05:11 2016]  ClientDisconnect: 1
+[Wed Sep 14 19:05:12 2016]  ClientDisconnect: 0
+[Wed Sep 14 19:05:21 2016]  ClientConnect: 0
+[Wed Sep 14 19:05:21 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.148.203:29070 
+[Wed Sep 14 19:05:23 2016]  ClientConnect: 1
+[Wed Sep 14 19:05:23 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Wed Sep 14 19:05:31 2016]  ClientBegin: 0
+[Wed Sep 14 19:05:36 2016]  ClientBegin: 1
+[Wed Sep 14 19:05:43 2016]  Item: 0 weapon_melee
+[Wed Sep 14 19:05:50 2016]  say: ^0Shadow^5seer: не то)
+[Wed Sep 14 19:06:41 2016]  ClientDisconnect: 1
+[Wed Sep 14 19:06:47 2016]  ClientConnect: 1
+[Wed Sep 14 19:06:47 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Wed Sep 14 19:07:54 2016]  ClientDisconnect: 1
+[Wed Sep 14 19:07:54 2016]  ClientConnect: 1
+[Wed Sep 14 19:07:54 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Wed Sep 14 19:08:18 2016]  ClientBegin: 1
+[Wed Sep 14 19:08:35 2016]  say: s: что-то не очень хорошо эти ремапы влияют на комп)
+[Wed Sep 14 19:09:30 2016]  say: s: кстати, этот ремап был бы прикольнее, если б не было тумана на карте
+[Wed Sep 14 19:10:06 2016]  say: ^0Shadow^5seer: так убери)
+[Wed Sep 14 19:10:15 2016]  say: ^0Shadow^5seer: r_drawfog 0
+[Wed Sep 14 19:10:27 2016]  say: s: о
+[Wed Sep 14 19:10:46 2016]  say: ^0Shadow^5seer: с этим ремапом круче за порталом смотрится)
+[Wed Sep 14 19:11:13 2016]  say: ^0Shadow^5seer: только небо не то
+[Wed Sep 14 19:11:50 2016]  ClientDisconnect: 0
+[Wed Sep 14 19:11:50 2016]  ClientDisconnect: 0
+[Wed Sep 14 19:11:50 2016]  ClientConnect: 0
+[Wed Sep 14 19:11:50 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.148.203:29070 
+[Wed Sep 14 19:12:00 2016]  ClientBegin: 0
+[Wed Sep 14 19:12:07 2016]  Item: 0 weapon_melee
+[Wed Sep 14 19:12:34 2016]  say: s: все-таки построено нереально круто
+[Wed Sep 14 19:12:41 2016]  say: ^0Shadow^5seer: спасибо)
+[Wed Sep 14 19:13:16 2016]  say: ^0Shadow^5seer: на троне не отображается эффект
+[Wed Sep 14 19:13:19 2016]  say: s: даже мелькают мысли ''а не сделать бы карту а ля врата обливиона''
+[Wed Sep 14 19:13:52 2016]  say: s: ))
+[Wed Sep 14 19:14:11 2016]  say: ^0Shadow^5seer: я бы лучше из морры чего нибудь сделал)
+[Wed Sep 14 19:14:17 2016]  say: ^0Shadow^5seer: если б умел
+[Wed Sep 14 19:14:25 2016]  say: ^0Shadow^5seer: и еслиб было не лень
+[Wed Sep 14 19:14:36 2016]  say: s: мне на ум приходят ландшафты Солстейма
+[Wed Sep 14 19:15:04 2016]  say: ^0Shadow^5seer: а мне садрит мора
+[Wed Sep 14 19:15:31 2016]  say: s: а я в морру пробовал поиграть
+[Wed Sep 14 19:15:39 2016]  say: s: как-то обливион сильнее вкатил
+[Wed Sep 14 19:15:58 2016]  say: ^0Shadow^5seer: после более нового играть в такое старое вообще тяжело
+[Wed Sep 14 19:16:07 2016]  say: s: да уж
+[Wed Sep 14 19:16:38 2016]  say: s: скайрим, конечно, красивый, но убитая рукопашка не порадовала
+[Wed Sep 14 19:16:52 2016]  say: ^0Shadow^5seer: а где она лчше?
+[Wed Sep 14 19:17:00 2016]  say: ^0Shadow^5seer: из других игр серии
+[Wed Sep 14 19:17:08 2016]  say: s: в обливионе есть хоть какое-то разнообразие ударов
+[Wed Sep 14 19:17:26 2016]  say: ^0Shadow^5seer: моды в помощь)
+[Wed Sep 14 19:17:51 2016]  say: s: не любитель запариваться за моды
+[Wed Sep 14 19:18:03 2016]  say: ^0Shadow^5seer: ну немножко то можно
+[Wed Sep 14 19:18:07 2016]  say: s: как-нибудь на досуге попробую
+[Wed Sep 14 19:18:10 2016]  say: s: наверное
+[Wed Sep 14 19:18:13 2016]  say: s: может быть
+[Wed Sep 14 19:18:24 2016]  say: ^0Shadow^5seer: на замену анимаций я сам ничего не ставил
+[Wed Sep 14 19:18:36 2016]  say: ^0Shadow^5seer: но вот солстейм у меня переделан кардинально
+[Wed Sep 14 19:19:00 2016]  say: s: и на что он стал похож?
+[Wed Sep 14 19:19:09 2016]  say: ^0Shadow^5seer: на юг морровинда)
+[Wed Sep 14 19:19:23 2016]  say: s: знать бы, как выглядит юг морровинда)
+[Wed Sep 14 19:19:32 2016]  say: s: хотя нет, я прикидываю)
+[Wed Sep 14 19:19:46 2016]  say: ^0Shadow^5seer: небо и освещение теперь как в скайриме, сквозь пепел пробивается травка, грибы кое-где растут здоровенные
+[Wed Sep 14 19:19:58 2016]  say: ^0Shadow^5seer: ну вот самое начало морры вспомни
+[Wed Sep 14 19:20:01 2016]  say: ^0Shadow^5seer: вот так же
+[Wed Sep 14 19:20:08 2016]  say: s: мм
+[Wed Sep 14 19:20:25 2016]  say: ^0Shadow^5seer: то есть теперь это не стремная пустьшь с жутким освещением, а оень уютненькое место
+[Wed Sep 14 19:20:30 2016]  say: s: а здоровенные грибы там вроде и без модов есть)
+[Wed Sep 14 19:20:59 2016]  say: ^0Shadow^5seer: + расширена воронья скала, добавлены новые локации, новый дом рядом с домом нелота...
+[Wed Sep 14 19:21:53 2016]  say: ^0Shadow^5seer: не, грибы теперь не только возле тель митрина
+[Wed Sep 14 19:22:06 2016]  say: ^0Shadow^5seer: а по всей южной половине острова
+[Wed Sep 14 19:22:12 2016]  say: s: я так понимаю, длс про Солстейм - твой любимый?
+[Wed Sep 14 19:22:23 2016]  say: ^0Shadow^5seer: длс нет, сам солстейм
+[Wed Sep 14 19:22:38 2016]  say: ^0Shadow^5seer: я в основном главного квеста вообще избегаю
+[Wed Sep 14 19:23:02 2016]  say: ^0Shadow^5seer: из подземели хелгена в самом начале бегу куда угодно, но не в ривервуд
+[Wed Sep 14 19:23:14 2016]  say: ^0Shadow^5seer: в результате драконы в игре вообще не появляются
+[Wed Sep 14 19:23:18 2016]  say: ^0Shadow^5seer: и я не довакин
+[Wed Sep 14 19:23:25 2016]  say: s: хех)
+[Wed Sep 14 19:23:49 2016]  say: ^0Shadow^5seer: но на солстейме я выполняю основные квесты в вороньей скале и в тель митрине
+[Wed Sep 14 19:23:58 2016]  say: s: а мне в длс понравился апокриф и черные книги
+[Wed Sep 14 19:24:14 2016]  say: ^0Shadow^5seer: в результате я просто волшебник дома телванни, превозносимый другими данмерами)
+[Wed Sep 14 19:24:34 2016]  say: ^0Shadow^5seer: и черные книги можно и без основного квеста искать
+[Wed Sep 14 19:24:51 2016]  say: ^0Shadow^5seer: кроме основных двух конечно)
+[Wed Sep 14 19:25:12 2016]  say: s: нужно будет попробовать не ходить в ривервуд
+[Wed Sep 14 19:25:20 2016]  say: ^0Shadow^5seer: а еще есть интересный модик на некромантию с еще одной черной книгой, в которой в апокрифе такооой лабиринт...
+[Wed Sep 14 19:25:20 2016]  say: s: если руки до скайрима дойдут, конечно
+[Wed Sep 14 19:25:52 2016]  say: s: еще одна способность?
+[Wed Sep 14 19:25:58 2016]  say: s: ну, из черной книги
+[Wed Sep 14 19:26:03 2016]  say: ^0Shadow^5seer: это квестовый мод
+[Wed Sep 14 19:26:17 2016]  say: ^0Shadow^5seer: в этой черной книге ты находишь секрет становления личем
+[Wed Sep 14 19:26:27 2016]  say: s: ооооу
+[Wed Sep 14 19:26:32 2016]  say: s: вот это уже интересно
+[Wed Sep 14 19:26:41 2016]  say: ^0Shadow^5seer: а по пути к ней пару новых заклинаний
+[Wed Sep 14 19:26:48 2016]  say: ^0Shadow^5seer: например массовое оживление
+[Wed Sep 14 19:27:05 2016]  say: ^0Shadow^5seer: а для становления личем надо сначала собирать компоненты ритуала
+[Wed Sep 14 19:27:18 2016]  say: s: научишь моды на скайрим ставить?)
+[Wed Sep 14 19:27:32 2016]  say: ^0Shadow^5seer: а потом у себя самого извлечь душу, поместить ее в филактерию и выпить какой то совершенно адский яд
+[Wed Sep 14 19:27:46 2016]  say: ^0Shadow^5seer: да там написано все должно быть в описании
+[Wed Sep 14 19:28:49 2016]  say: s: не приходилось играть в арканум?
+[Wed Sep 14 19:29:24 2016]  say: ^0Shadow^5seer: неа
+[Wed Sep 14 19:29:29 2016]  say: ^0Shadow^5seer: но суть знаю
+[Wed Sep 14 19:29:37 2016]  say: ^0Shadow^5seer: магия против стимпанка
+[Wed Sep 14 19:29:58 2016]  say: s: я уже столько раз качал персонажа заново
+[Wed Sep 14 19:30:08 2016]  say: s: не из-за того, что другие были не очень
+[Wed Sep 14 19:30:21 2016]  say: s: а хочется другие пути развития попробовать
+[Wed Sep 14 19:30:25 2016]  say: s: офигенная игра)
+[Wed Sep 14 19:30:39 2016]  Item: 1 weapon_melee
+[Wed Sep 14 19:31:48 2016]  say: ^0Shadow^5seer: верю)
+[Wed Sep 14 19:31:58 2016]  say: ^0Shadow^5seer: но тут та же фигня, что и с моррой
+[Wed Sep 14 19:32:04 2016]  say: ^0Shadow^5seer: старая, уже не зайдет
+[Wed Sep 14 19:32:24 2016]  say: s: лично меня в эту игру привлекло наличие стимпанка)
+[Wed Sep 14 19:32:48 2016]  say: s: а интерес к стимпанку мне когда-то привил лично ты)
+[Wed Sep 14 19:32:55 2016]  say: ^0Shadow^5seer: помню)
+[Wed Sep 14 19:33:09 2016]  say: ^0Shadow^5seer: у самого он наверное не так силен
+[Wed Sep 14 19:33:31 2016]  say: ^0Shadow^5seer: к слову о стимпанке, я себе в скуриме двемера создавал
+[Wed Sep 14 19:33:41 2016]  say: s: мод?
+[Wed Sep 14 19:34:07 2016]  say: ^0Shadow^5seer: опять же несколько модов на саму расу двемеров, бороды, кое-какие двемерские шмотки и крафт двемерских механизмов
+[Wed Sep 14 19:34:29 2016]  say: ^0Shadow^5seer: под механизмами имею в виду пауков, сферы и т. д.
+[Wed Sep 14 19:35:07 2016]  say: s: наверное, личный центурион - это круто
+[Wed Sep 14 19:35:22 2016]  say: ^0Shadow^5seer: не особо, мешается под ногами
+[Wed Sep 14 19:35:29 2016]  say: ^0Shadow^5seer: вообще не люблю спутников
+[Wed Sep 14 19:36:36 2016]  say: s: да.. со спутниками тяжко играть, особенно если играешь вором
+[Wed Sep 14 19:36:50 2016]  say: s: ...да или вообще кем угодно
+[Wed Sep 14 19:36:59 2016]  say: ^0Shadow^5seer: мне легко играть всегда, у меня персонаж прокачан читами)
+[Wed Sep 14 19:37:08 2016]  say: ^0Shadow^5seer: все на максимум
+[Wed Sep 14 19:37:22 2016]  say: ^0Shadow^5seer: и все заклинания и способности есть
+[Wed Sep 14 19:37:34 2016]  say: s: вместе в персонажем качаются и противники же)
+[Wed Sep 14 19:37:34 2016]  say: ^0Shadow^5seer: даже те, которые игрок иметь вообще не может
+[Wed Sep 14 19:37:48 2016]  say: ^0Shadow^5seer: ну они до такого уровня не могут докачаться)
+[Wed Sep 14 19:38:15 2016]  say: ^0Shadow^5seer: помнишь в начале игры крик алдуина, вызывающий огненный дождь?
+[Wed Sep 14 19:38:16 2016]  say: s: правда, что урон от магии не прокачивается вместе с уровнем персонажа?
+[Wed Sep 14 19:38:20 2016]  say: s: помню
+[Wed Sep 14 19:38:40 2016]  say: ^0Shadow^5seer: ну заклинания сами по себе бывают нескольких уровней
+[Wed Sep 14 19:38:56 2016]  say: ^0Shadow^5seer: одно и то же заклинание со временем становится сильнее
+[Wed Sep 14 19:39:04 2016]  say: ^0Shadow^5seer: так вот, насчет огненного дождя
+[Wed Sep 14 19:39:28 2016]  say: ^0Shadow^5seer: я этими огненными вспышками швыряюсь из рук. заряжаются оментально и не расходуют ману)
+[Wed Sep 14 19:39:36 2016]  say: ^0Shadow^5seer: моментально*
+[Wed Sep 14 19:40:05 2016]  say: s: помню, что вводил команду на все заклинания, но эту способность я, видимо, проглядел
+[Wed Sep 14 19:40:06 2016]  say: ^0Shadow^5seer: еще и при попадании в землю или камень эффект классный - из точки попадания горящие камни разлетаются
+[Wed Sep 14 19:40:17 2016]  say: ^0Shadow^5seer: называется огненный дождь
+[Wed Sep 14 19:40:26 2016]  say: ^0Shadow^5seer: в закладке разрушения
+[Wed Sep 14 19:40:31 2016]  say: s: поищу)
+[Wed Sep 14 19:40:36 2016]  say: s: а еще поищу хватку вампира
+[Wed Sep 14 19:40:54 2016]  say: ^0Shadow^5seer: она по моему в форме человека не дается
+[Wed Sep 14 19:40:59 2016]  say: ^0Shadow^5seer: даж этим читом
+[Wed Sep 14 19:41:14 2016]  say: ^0Shadow^5seer: но опять же моды в помощь
+[Wed Sep 14 19:41:17 2016]  say: s: вот тебе и команда, дающая все заклинания
+[Wed Sep 14 19:44:31 2016]  say: s: в скайриме нельзя ведь повелевать ожившими скелетами?
+[Wed Sep 14 19:44:45 2016]  say: s: не теми, что черные
+[Wed Sep 14 19:44:49 2016]  say: s: а обычными
+[Wed Sep 14 19:45:52 2016]  say: ^0Shadow^5seer: призывать вроде нельзя
+[Wed Sep 14 19:46:00 2016]  say: ^0Shadow^5seer: но можно поднимать некромантие
+[Wed Sep 14 19:46:02 2016]  say: ^0Shadow^5seer: й
+[Wed Sep 14 19:46:16 2016]  say: s: я пробовал поднимать их
+[Wed Sep 14 19:46:22 2016]  say: ^0Shadow^5seer: я позже зайду
+[Wed Sep 14 19:46:26 2016]  ClientDisconnect: 0
+[Wed Sep 14 19:50:59 2016]  ClientDisconnect: 1
+[Wed Sep 14 22:13:13 2016]  ClientConnect: 0
+[Wed Sep 14 22:13:13 2016]  mlog:Player ^0D^3arth ^0F^3urious, connected. With IP - 188.242.247.46:29070 
+[Wed Sep 14 22:13:26 2016]  ClientBegin: 0
+[Wed Sep 14 22:13:32 2016]  Item: 0 weapon_melee
+[Wed Sep 14 22:13:54 2016]  ClientDisconnect: 0
+[Wed Sep 14 22:15:55 2016]  ClientConnect: 0
+[Wed Sep 14 22:15:55 2016]  mlog:Player ^0D^3arth ^0F^3urious, connected. With IP - 188.242.247.46:29070 
+[Wed Sep 14 22:16:09 2016]  ClientBegin: 0
+[Wed Sep 14 22:16:15 2016]  Item: 0 weapon_melee
+[Wed Sep 14 22:16:46 2016]  print "^0D^3arth ^0F^3urious^7 @@@PLRENAME ^0Shadow^5seer
+"[Wed Sep 14 22:19:53 2016]  ClientDisconnect: 0
+[Wed Sep 14 22:20:16 2016]  ClientConnect: 0
+[Wed Sep 14 22:20:16 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Sep 14 22:20:30 2016]  ClientBegin: 0
+[Wed Sep 14 22:20:35 2016]  Item: 0 weapon_melee
+[Wed Sep 14 22:24:14 2016]  ClientDisconnect: 0
+[Wed Sep 14 22:35:16 2016]  ClientConnect: 0
+[Wed Sep 14 22:35:16 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Sep 14 22:35:26 2016]  ClientBegin: 0
+[Wed Sep 14 22:35:34 2016]  Item: 0 weapon_melee
+[Wed Sep 14 22:36:13 2016]  ClientDisconnect: 0
+[Wed Sep 14 23:11:15 2016]  ClientConnect: 0
+[Wed Sep 14 23:11:15 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Sep 14 23:11:30 2016]  ClientBegin: 0
+[Wed Sep 14 23:12:10 2016]  Item: 0 weapon_melee
+[Wed Sep 14 23:14:17 2016]  ClientDisconnect: 0
+[Wed Sep 14 23:54:53 2016]  ClientConnect: 0
+[Wed Sep 14 23:54:53 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Sep 14 23:55:04 2016]  ClientBegin: 0
+[Wed Sep 14 23:55:10 2016]  Item: 0 weapon_melee
+[Wed Sep 14 23:56:35 2016]  ClientDisconnect: 0
+[Thu Sep 15 00:36:48 2016]  ClientConnect: 0
+[Thu Sep 15 00:36:48 2016]  mlog:Player Panckwa_Man, connected. With IP - 75.134.186.184:29070 
+[Thu Sep 15 00:37:23 2016]  ClientBegin: 0
+[Thu Sep 15 00:38:03 2016]  print "Padawan^7 @@@PLRENAME Panckwa_Man
+"[Thu Sep 15 00:39:32 2016]  ClientConnect: 1
+[Thu Sep 15 00:39:32 2016]  mlog:Player Dabusby, connected. With IP - 75.128.104.217:29255 
+[Thu Sep 15 00:40:18 2016]  ClientBegin: 1
+[Thu Sep 15 00:41:39 2016]  say: Dabusby: helpusobi 1
+[Thu Sep 15 00:41:53 2016]  say: Panckwa_Man: playermodel cultist
+[Thu Sep 15 00:42:08 2016]  say: Dabusby: npc spawn player
+[Thu Sep 15 00:42:14 2016]  say: Dabusby: npc spawn rapist
+[Thu Sep 15 00:42:24 2016]  say: Dabusby: npc spawn luke
+[Thu Sep 15 00:42:40 2016]  say: Panckwa_Man: playermodel gonk
+[Thu Sep 15 00:42:55 2016]  say: Panckwa_Man: playermodel howler
+[Thu Sep 15 00:45:16 2016]  say: Panckwa_Man: was
+[Thu Sep 15 00:45:26 2016]  say: Dabusby: spawn rape
+[Thu Sep 15 00:45:47 2016]  say: Panckwa_Man: NPC SPAWN JAWA
+[Thu Sep 15 00:47:19 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:47:40 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:48:02 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:48:13 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:48:20 2016]  say: Dabusby: od
+[Thu Sep 15 00:48:25 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:48:35 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:48:44 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:48:52 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:49:00 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:49:04 2016]  Kill: 0 1 3: Panckwa_Man killed Dabusby by MOD_SABER
+[Thu Sep 15 00:49:13 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:49:29 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:49:33 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:50:00 2016]  Kill: 1 0 5: Dabusby killed Panckwa_Man by MOD_BRYAR_PISTOL_ALT
+[Thu Sep 15 00:50:05 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:50:09 2016]  Kill: 0 1 3: Panckwa_Man killed Dabusby by MOD_SABER
+[Thu Sep 15 00:50:42 2016]  Kill: 0 1 3: Panckwa_Man killed Dabusby by MOD_SABER
+[Thu Sep 15 00:50:49 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:50:58 2016]  Kill: 1 0 3: Dabusby killed Panckwa_Man by MOD_SABER
+[Thu Sep 15 00:53:13 2016]  say: Panckwa_Man: npc spawn human_merc
+[Thu Sep 15 00:54:02 2016]  say: Panckwa_Man: tie fighter
+[Thu Sep 15 00:54:12 2016]  say: Panckwa_Man: x-wing
+[Thu Sep 15 00:54:19 2016]  say: Dabusby: spawn tie
+[Thu Sep 15 00:54:26 2016]  say: Dabusby: spawn tie fighter
+[Thu Sep 15 00:54:32 2016]  say: Panckwa_Man: wampa_vehicle
+[Thu Sep 15 00:54:41 2016]  ClientDisconnect: 0
+[Thu Sep 15 00:55:18 2016]  ClientDisconnect: 1
+[Thu Sep 15 01:27:54 2016]  ClientConnect: 0
+[Thu Sep 15 01:27:54 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Sep 15 01:28:05 2016]  ClientBegin: 0
+[Thu Sep 15 01:28:10 2016]  Item: 0 weapon_melee
+[Thu Sep 15 01:28:26 2016]  ShutdownGame:
+[Thu Sep 15 01:28:26 2016]  ------------------------------------------------------------

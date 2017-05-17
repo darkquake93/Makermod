@@ -1,0 +1,185 @@
+[Thu Oct 24 14:23:38 2013]  ------------------------------------------------------------
+[Thu Oct 24 14:23:38 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Oct 24 14:23:39 2013]  ClientConnect: 0
+[Thu Oct 24 14:23:39 2013]  ClientConnect: 1
+[Thu Oct 24 14:24:38 2013]  ClientBegin: 0
+[Thu Oct 24 14:25:13 2013]  say: newcomer: hi
+[Thu Oct 24 14:25:17 2013]  say: newcomer: ïðèâåò
+[Thu Oct 24 14:26:01 2013]  Item: 0 weapon_melee
+[Thu Oct 24 14:27:02 2013]  ClientDisconnect: 1
+[Thu Oct 24 14:38:23 2013]  ClientDisconnect: 0
+[Thu Oct 24 16:23:37 2013]  Exit: Timelimit hit.
+[Thu Oct 24 19:04:01 2013]  ClientConnect: 0
+[Thu Oct 24 19:04:01 2013]  mlog:Player Tusken King, connected. With IP - 24.98.147.217:29070 
+[Thu Oct 24 19:04:24 2013]  ClientBegin: 0
+[Thu Oct 24 19:04:29 2013]  ShutdownGame:
+[Thu Oct 24 19:04:29 2013]  ------------------------------------------------------------
+[Thu Oct 24 19:04:29 2013]  ------------------------------------------------------------
+[Thu Oct 24 19:04:29 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Oct 24 19:04:31 2013]  ClientConnect: 0
+[Thu Oct 24 19:04:47 2013]  ClientBegin: 0
+[Thu Oct 24 19:10:01 2013]  say: Tusken King: npc spawn reborn_staff
+[Thu Oct 24 19:10:19 2013]  Kill: 1022 0 3: <world> killed Tusken King by MOD_SABER
+[Thu Oct 24 19:10:53 2013]  Kill: 1022 0 3: <world> killed Tusken King by MOD_SABER
+[Thu Oct 24 19:11:09 2013]  Kill: 1022 0 3: <world> killed Tusken King by MOD_SABER
+[Thu Oct 24 19:11:31 2013]  Kill: 1022 0 3: <world> killed Tusken King by MOD_SABER
+[Thu Oct 24 19:11:36 2013]  ClientConnect: 1
+[Thu Oct 24 19:11:36 2013]  mlog:Player ^0Darth ^1Slayer, connected. With IP - 92.243.167.169:18634 
+[Thu Oct 24 19:11:41 2013]  ClientDisconnect: 0
+[Thu Oct 24 19:11:57 2013]  ClientBegin: 1
+[Thu Oct 24 19:12:26 2013]  ClientDisconnect: 1
+[Thu Oct 24 20:22:51 2013]  ClientConnect: 0
+[Thu Oct 24 20:22:51 2013]  mlog:Player Tusken King, connected. With IP - 24.98.147.217:29070 
+[Thu Oct 24 20:23:09 2013]  ClientBegin: 0
+[Thu Oct 24 20:26:30 2013]  Item: 0 item_cloak
+[Thu Oct 24 20:27:22 2013]  ClientConnect: 1
+[Thu Oct 24 20:27:22 2013]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.247.110:29070 
+[Thu Oct 24 20:28:05 2013]  ClientBegin: 1
+[Thu Oct 24 20:28:28 2013]  say: Tusken King: hm. got a skin on? :p
+[Thu Oct 24 20:28:34 2013]  say: Tusken King: Nice. XD
+[Thu Oct 24 20:28:35 2013]  say: Tusken King: it works.
+[Thu Oct 24 20:28:43 2013]  say: Tusken King: it does come with taunts too
+[Thu Oct 24 20:28:56 2013]  say: Tusken King: ^_^
+[Thu Oct 24 20:29:01 2013]  say: Tusken King: a roll sound, and such.
+[Thu Oct 24 20:29:12 2013]  say: Tusken King: XDS
+[Thu Oct 24 20:29:19 2013]  say: Tusken King: Should be fun to try a duel hand at it.
+[Thu Oct 24 20:29:49 2013]  say: Tusken King: It's got a sort of sound for each scenario.
+[Thu Oct 24 20:30:05 2013]  Item: 1 item_cloak
+[Thu Oct 24 20:30:06 2013]  say: Tusken King: Most of them, except sniper, are based off base models.
+[Thu Oct 24 20:30:11 2013]  say: Tusken King: In example. spy's a saboteur.
+[Thu Oct 24 20:30:21 2013]  say: Tusken King: Heavy is a rax.
+[Thu Oct 24 20:33:26 2013]  say: Tusken King: XD
+[Thu Oct 24 20:34:09 2013]  Kill: 1 0 20: ^7»^0Exo^1Ð^0us^7« killed Tusken King by MOD_ROCKET_SPLASH
+[Thu Oct 24 20:34:11 2013]  say: Tusken King: XD
+[Thu Oct 24 20:34:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Thu Oct 24 20:34:27 2013]  Item: 1 weapon_blaster
+[Thu Oct 24 20:34:41 2013]  Kill: 0 1 12: Tusken King killed ^7»^0Exo^1Ð^0us^7« by MOD_REPEATER
+[Thu Oct 24 20:35:20 2013]  Kill: 0 1 2: Tusken King killed ^7»^0Exo^1Ð^0us^7« by MOD_MELEE
+[Thu Oct 24 20:35:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Thu Oct 24 20:35:24 2013]  say: Tusken King: :p
+[Thu Oct 24 20:35:40 2013]  say: Tusken King: In the SP mode as well, they come with a bunch of npcs.
+[Thu Oct 24 20:35:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: quite entertaining xD
+[Thu Oct 24 20:35:50 2013]  say: Tusken King: 2 set's of each team. a listing for 9 npcs each
+[Thu Oct 24 20:35:56 2013]  say: Tusken King: Blue being default badguy set,.
+[Thu Oct 24 20:36:27 2013]  Kill: 1 0 17: ^7»^0Exo^1Ð^0us^7« killed Tusken King by MOD_FLECHETTE
+[Thu Oct 24 20:36:31 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Thu Oct 24 20:36:35 2013]  say: Tusken King: As well as MP bot's. incase you are alone in MP.
+[Thu Oct 24 20:37:05 2013]  say: ^7»^0Exo^1Ð^0us^7«: whoa, wtf, heavies fist ._.
+[Thu Oct 24 20:37:07 2013]  say: Tusken King: hm.
+[Thu Oct 24 20:37:16 2013]  say: ^7»^0Exo^1Ð^0us^7«: dat sync
+[Thu Oct 24 20:37:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Thu Oct 24 20:37:18 2013]  say: Tusken King: Tried to roll with it too? :p
+[Thu Oct 24 20:37:31 2013]  say: Tusken King: it's a scout doublejump sound.
+[Thu Oct 24 20:37:33 2013]  say: ^7»^0Exo^1Ð^0us^7«: mm
+[Thu Oct 24 20:38:38 2013]  Kill: 1 0 2: ^7»^0Exo^1Ð^0us^7« killed Tusken King by MOD_MELEE
+[Thu Oct 24 20:38:39 2013]  say: Tusken King: :p
+[Thu Oct 24 20:38:40 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Thu Oct 24 20:39:40 2013]  Kill: 1 0 12: ^7»^0Exo^1Ð^0us^7« killed Tusken King by MOD_REPEATER
+[Thu Oct 24 20:39:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Thu Oct 24 20:39:48 2013]  say: Tusken King: Each npc too, also coming with it's approperiate gun. :p
+[Thu Oct 24 20:39:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: im at 7 hp lol
+[Thu Oct 24 20:39:54 2013]  say: Tusken King: XD
+[Thu Oct 24 20:40:10 2013]  say: ^7»^0Exo^1Ð^0us^7«: mempower
+[Thu Oct 24 20:40:13 2013]  say: ^7»^0Exo^1Ð^0us^7«: fail
+[Thu Oct 24 20:40:15 2013]  say: Tusken King: :p
+[Thu Oct 24 20:41:16 2013]  Kill: 0 1 27: Tusken King killed ^7»^0Exo^1Ð^0us^7« by MOD_DET_PACK_SPLASH
+[Thu Oct 24 20:41:18 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Thu Oct 24 20:41:19 2013]  say: Tusken King: XD
+[Thu Oct 24 20:41:22 2013]  Item: 0 weapon_flechette
+[Thu Oct 24 20:42:35 2013]  Kill: 0 1 3: Tusken King killed ^7»^0Exo^1Ð^0us^7« by MOD_SABER
+[Thu Oct 24 20:42:37 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Thu Oct 24 20:42:40 2013]  say: Tusken King: :p
+[Thu Oct 24 20:42:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: I think demo would be red style
+[Thu Oct 24 20:42:48 2013]  say: Tusken King: Probably.
+[Thu Oct 24 20:43:16 2013]  Kill: 0 1 3: Tusken King killed ^7»^0Exo^1Ð^0us^7« by MOD_SABER
+[Thu Oct 24 20:43:20 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Thu Oct 24 20:43:22 2013]  say: Tusken King: ^_^
+[Thu Oct 24 20:43:42 2013]  say: Tusken King: Imagine the siege levels with this.
+[Thu Oct 24 20:43:52 2013]  Kill: 1 0 31: ^7»^0Exo^1Ð^0us^7« killed Tusken King by MOD_FORCE_DARK
+[Thu Oct 24 20:43:55 2013]  say: Tusken King: XD
+[Thu Oct 24 20:43:55 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Thu Oct 24 20:44:10 2013]  Kill: 0 1 20: Tusken King killed ^7»^0Exo^1Ð^0us^7« by MOD_ROCKET_SPLASH
+[Thu Oct 24 20:44:15 2013]  Item: 0 weapon_flechette
+[Thu Oct 24 20:44:27 2013]  say: Tusken King: Oh, yknow what the bot's do on npc detect?
+[Thu Oct 24 20:44:32 2013]  say: Tusken King: they scream they see a spy.
+[Thu Oct 24 20:44:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: ?
+[Thu Oct 24 20:44:35 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Thu Oct 24 20:44:39 2013]  say: Tusken King: Least the npcs dso.
+[Thu Oct 24 20:44:44 2013]  Kill: 0 1 20: Tusken King killed ^7»^0Exo^1Ð^0us^7« by MOD_ROCKET_SPLASH
+[Thu Oct 24 20:44:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: wtf, insta kill o.o
+[Thu Oct 24 20:44:53 2013]  say: Tusken King: :s
+[Thu Oct 24 20:44:54 2013]  Item: 0 weapon_flechette
+[Thu Oct 24 20:44:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: wait a minute...
+[Thu Oct 24 20:45:01 2013]  say: Tusken King: hm?
+[Thu Oct 24 20:45:10 2013]  say: ^7»^0Exo^1Ð^0us^7«: stop
+[Thu Oct 24 20:45:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: ffs
+[Thu Oct 24 20:45:12 2013]  say: Tusken King: Oh.
+[Thu Oct 24 20:45:16 2013]  Kill: 1 0 19: ^7»^0Exo^1Ð^0us^7« killed Tusken King by MOD_ROCKET
+[Thu Oct 24 20:45:19 2013]  say: ^7»^0Exo^1Ð^0us^7«: hmm...
+[Thu Oct 24 20:45:23 2013]  say: ^7»^0Exo^1Ð^0us^7«: remove armor and stand near me
+[Thu Oct 24 20:45:29 2013]  Item: 0 weapon_rocket_launcher
+[Thu Oct 24 20:45:34 2013]  say: ^7»^0Exo^1Ð^0us^7«: hmm.
+[Thu Oct 24 20:45:40 2013]  say: Tusken King: odd.
+[Thu Oct 24 20:45:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: i guess you got a lucky shot xp
+[Thu Oct 24 20:45:46 2013]  say: Tusken King: you dont think i hit a model nerve hm?
+[Thu Oct 24 20:45:50 2013]  say: ^7»^0Exo^1Ð^0us^7«: possibly
+[Thu Oct 24 20:45:57 2013]  Kill: 0 1 20: Tusken King killed ^7»^0Exo^1Ð^0us^7« by MOD_ROCKET_SPLASH
+[Thu Oct 24 20:46:00 2013]  say: ^7»^0Exo^1Ð^0us^7«: see?
+[Thu Oct 24 20:46:01 2013]  say: Tusken King: that or something's going on.
+[Thu Oct 24 20:46:02 2013]  say: ^7»^0Exo^1Ð^0us^7«: full hp
+[Thu Oct 24 20:46:04 2013]  Item: 0 weapon_flechette
+[Thu Oct 24 20:46:10 2013]  say: Tusken King: Perhaps pyro's weak to rockets. XD
+[Thu Oct 24 20:46:11 2013]  say: Tusken King: irony.
+[Thu Oct 24 20:46:15 2013]  say: ^7»^0Exo^1Ð^0us^7«: lol
+[Thu Oct 24 20:46:16 2013]  say: Tusken King: Seeing as they can airblast them
+[Thu Oct 24 20:46:40 2013]  Kill: 0 1 20: Tusken King killed ^7»^0Exo^1Ð^0us^7« by MOD_ROCKET_SPLASH
+[Thu Oct 24 20:46:45 2013]  say: ^7»^0Exo^1Ð^0us^7«: one hit, wtf o.o
+[Thu Oct 24 20:46:48 2013]  say: Tusken King: hm.
+[Thu Oct 24 20:46:53 2013]  Item: 0 weapon_flechette
+[Thu Oct 24 20:46:56 2013]  say: Tusken King: Not usual either.
+[Thu Oct 24 20:47:23 2013]  Kill: 0 1 20: Tusken King killed ^7»^0Exo^1Ð^0us^7« by MOD_ROCKET_SPLASH
+[Thu Oct 24 20:47:26 2013]  say: ^7»^0Exo^1Ð^0us^7«: two hits lol
+[Thu Oct 24 20:47:30 2013]  say: Tusken King: I Do see that the rockets hit multiple times.
+[Thu Oct 24 20:47:30 2013]  Item: 0 weapon_flechette
+[Thu Oct 24 20:47:40 2013]  say: Tusken King: Almost as if though your side misses a beat before the next hits you.
+[Thu Oct 24 20:48:03 2013]  Kill: 0 1 20: Tusken King killed ^7»^0Exo^1Ð^0us^7« by MOD_ROCKET_SPLASH
+[Thu Oct 24 20:48:05 2013]  Item: 0 weapon_flechette
+[Thu Oct 24 20:49:10 2013]  Kill: 0 1 20: Tusken King killed ^7»^0Exo^1Ð^0us^7« by MOD_ROCKET_SPLASH
+[Thu Oct 24 20:49:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: oh cmon, i am sure i shot you enough to get rid of your armor
+[Thu Oct 24 20:49:26 2013]  say: Tusken King: hm.
+[Thu Oct 24 20:49:29 2013]  say: ^7»^0Exo^1Ð^0us^7«: in fact.. the only class that should use armor is heavy
+[Thu Oct 24 20:49:33 2013]  say: Tusken King: heh. XD true.
+[Thu Oct 24 20:49:42 2013]  say: Tusken King: Or, armor specific per health of class specific.
+[Thu Oct 24 20:49:47 2013]  say: ^7»^0Exo^1Ð^0us^7«: mhm 
+[Thu Oct 24 20:49:48 2013]  say: Tusken King: Like 25 armor for a 125 health unit.
+[Thu Oct 24 20:49:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: mhm
+[Thu Oct 24 20:50:06 2013]  say: Tusken King: But then heavy wouldnt get the max 300 health he might carry.
+[Thu Oct 24 20:50:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: wouldnt matter, we cant be too realistic :P
+[Thu Oct 24 20:50:24 2013]  say: Tusken King: True. it is just cartoon themed.
+[Thu Oct 24 20:50:27 2013]  say: Tusken King: Not some military shooter.
+[Thu Oct 24 20:50:36 2013]  say: ^7»^0Exo^1Ð^0us^7«: alright, im gonna get rid of the pc, so i'll catch ya later :P
+[Thu Oct 24 20:50:39 2013]  say: Tusken King: see ya.
+[Thu Oct 24 20:50:43 2013]  ClientDisconnect: 1
+[Thu Oct 24 20:50:45 2013]  ClientDisconnect: 0
+[Thu Oct 24 21:04:29 2013]  Exit: Timelimit hit.
+[Thu Oct 24 21:23:24 2013]  ClientConnect: 0
+[Thu Oct 24 21:23:24 2013]  mlog:Player newcomer, connected. With IP - 37.204.210.18:29070 
+[Thu Oct 24 21:24:47 2013]  ClientBegin: 0
+[Thu Oct 24 21:34:13 2013]  ShutdownGame:
+[Thu Oct 24 21:34:13 2013]  ------------------------------------------------------------
+[Thu Oct 24 21:34:14 2013]  ------------------------------------------------------------
+[Thu Oct 24 21:34:14 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Oct 24 21:34:15 2013]  ClientConnect: 0
+[Thu Oct 24 21:34:50 2013]  ClientBegin: 0
+[Thu Oct 24 21:35:21 2013]  Item: 0 weapon_melee
+[Thu Oct 24 21:35:51 2013]  ClientDisconnect: 0
+[Thu Oct 24 23:34:13 2013]  Exit: Timelimit hit.
+[Thu Oct 24 23:42:03 2013]  ClientConnect: 0
+[Thu Oct 24 23:42:03 2013]  mlog:Player Hake'ukesohan, connected. With IP - 2.97.207.123:29070 
+[Thu Oct 24 23:42:30 2013]  ClientBegin: 0
+[Thu Oct 24 23:42:39 2013]  ClientDisconnect: 0
+[Fri Oct 25 20:36:24 2013]  ClientConnect: 0
+[Fri Oct 25 20:36:24 2013]  mlog:Player Padawan, connected. With IP - 65.27.168.17:29070 
+[Fri Oct 25 20:36:34 2013]  ClientBegin: 0
+[Fri Oct 25 20:36:37 2013]  ShutdownGame:
+[Fri Oct 25 20:36:37 2013]  ------------------------------------------------------------

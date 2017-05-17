@@ -1,0 +1,527 @@
+[Sun May 08 15:28:30 2016]  ------------------------------------------------------------
+[Sun May 08 15:28:30 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 08 15:28:32 2016]  ClientConnect: 0
+[Sun May 08 15:28:42 2016]  ClientBegin: 0
+[Sun May 08 15:37:06 2016]  ClientConnect: 1
+[Sun May 08 15:37:06 2016]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 109.154.169.21:29070 
+[Sun May 08 15:37:38 2016]  ClientBegin: 1
+[Sun May 08 15:39:05 2016]  say: ^1M^7r ^1Ð^7innertime: hey
+[Sun May 08 15:39:08 2016]  say: ^0Ðàrk^2^1Qµàkè: hi :)
+[Sun May 08 15:39:10 2016]  say: ^0Ðàrk^2^1Qµàkè: 1 sec
+[Sun May 08 15:39:53 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh, there's a fura user here
+[Sun May 08 15:39:57 2016]  say: ^1M^7r ^1Ð^7innertime: oh
+[Sun May 08 15:40:05 2016]  say: ^0Ðàrk^2^1Qµàkè: I like these though :)
+[Sun May 08 15:40:07 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 15:40:17 2016]  say: ^0Ðàrk^2^1Qµàkè: so yeh show me how to make surround sound pls XD
+[Sun May 08 15:40:21 2016]  say: ^1M^7r ^1Ð^7innertime: wait
+[Sun May 08 15:40:28 2016]  say: ^1M^7r ^1Ð^7innertime: surround sound? o.o that's not what you said
+[Sun May 08 15:40:32 2016]  say: ^0Ðàrk^2^1Qµàkè: haha I'm joking
+[Sun May 08 15:40:35 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 15:40:36 2016]  say: ^0Ðàrk^2^1Qµàkè: I just mean loud
+[Sun May 08 15:40:47 2016]  say: ^1M^7r ^1Ð^7innertime: checking bin folder
+[Sun May 08 15:40:58 2016]  say: ^1M^7r ^1Ð^7innertime: and...
+[Sun May 08 15:41:00 2016]  say: ^1M^7r ^1Ð^7innertime: launching 
+[Sun May 08 15:41:15 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 15:41:17 2016]  say: ^0Ðàrk^2^1Qµàkè: nice :D
+[Sun May 08 15:41:18 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 15:41:21 2016]  say: ^1M^7r ^1Ð^7innertime: loud enough>?
+[Sun May 08 15:41:25 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh haha
+[Sun May 08 15:41:41 2016]  say: ^1M^7r ^1Ð^7innertime: hmm
+[Sun May 08 15:41:43 2016]  say: ^0Ðàrk^2^1Qµàkè: so I was trying a few of the same effect and named them test
+[Sun May 08 15:41:48 2016]  say: ^0Ðàrk^2^1Qµàkè: then mtouchable, msoundsw
+[Sun May 08 15:41:51 2016]  say: ^0Ðàrk^2^1Qµàkè: still same level
+[Sun May 08 15:42:00 2016]  say: ^1M^7r ^1Ð^7innertime: I wonder if I can make it so that it places sounds around a target and sets them off with a delay of 1 second each :D
+[Sun May 08 15:42:02 2016]  say: ^1M^7r ^1Ð^7innertime: for surround sound test
+[Sun May 08 15:42:13 2016]  say: ^0Ðàrk^2^1Qµàkè: haha
+[Sun May 08 15:42:21 2016]  say: ^0Ðàrk^2^1Qµàkè: that'd be cool :D I just want it loud
+[Sun May 08 15:42:39 2016]  say: ^1M^7r ^1Ð^7innertime: sent you it ^^
+[Sun May 08 15:43:23 2016]  say: ^0Ðàrk^2^1Qµàkè: haha wow, complicated
+[Sun May 08 15:43:32 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 15:43:44 2016]  say: ^0Ðàrk^2^1Qµàkè: just cause you put like 20 of them :p
+[Sun May 08 15:43:52 2016]  say: ^1M^7r ^1Ð^7innertime: i basically just create 20 effects with sounds attached
+[Sun May 08 15:43:55 2016]  say: ^1M^7r ^1Ð^7innertime: give them different names
+[Sun May 08 15:44:03 2016]  say: ^1M^7r ^1Ð^7innertime: place an item which I stand on with mtouchable
+[Sun May 08 15:44:07 2016]  say: ^1M^7r ^1Ð^7innertime: and connect them nearly all at once
+[Sun May 08 15:44:09 2016]  say: ^1M^7r ^1Ð^7innertime: =]
+[Sun May 08 15:44:15 2016]  say: ^0Ðàrk^2^1Qµàkè: cool haha
+[Sun May 08 15:44:17 2016]  say: ^1M^7r ^1Ð^7innertime: ^^
+[Sun May 08 15:44:22 2016]  say: ^0Ðàrk^2^1Qµàkè: ok I'm gonna try something then
+[Sun May 08 15:44:23 2016]  say: ^0Ðàrk^2^1Qµàkè: brb
+[Sun May 08 15:44:24 2016]  say: ^1M^7r ^1Ð^7innertime: kk
+[Sun May 08 15:44:40 2016]  Kill: 1 0 3: ^1M^7r ^1Ð^7innertime killed ^0Ðàrk^2^1Qµàkè by MOD_SABER
+[Sun May 08 15:45:01 2016]  Kill: 1022 1 3: <world> killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Sun May 08 15:45:14 2016]  Kill: 1022 1 3: <world> killed ^1M^7r ^1Ð^7innertime by MOD_SABER
+[Sun May 08 15:45:17 2016]  say: ^1M^7r ^1Ð^7innertime: oio oioi
+[Sun May 08 15:45:20 2016]  say: ^1M^7r ^1Ð^7innertime: >:O
+[Sun May 08 15:47:22 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 15:47:27 2016]  say: ^1M^7r ^1Ð^7innertime: I broke my scirpt. sec
+[Sun May 08 15:47:43 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh you said place instead of mplace
+[Sun May 08 15:47:54 2016]  say: ^1M^7r ^1Ð^7innertime: naw
+[Sun May 08 15:47:58 2016]  say: ^1M^7r ^1Ð^7innertime: text overflow
+[Sun May 08 15:48:02 2016]  say: ^0Ðàrk^2^1Qµàkè: oh
+[Sun May 08 15:48:06 2016]  say: ^0Ðàrk^2^1Qµàkè: i hate that haha
+[Sun May 08 15:48:09 2016]  say: ^1M^7r ^1Ð^7innertime: ^^
+[Sun May 08 15:48:42 2016]  say: ^1M^7r ^1Ð^7innertime: got it
+[Sun May 08 15:48:43 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 15:48:48 2016]  say: ^1M^7r ^1Ð^7innertime: duel? :D
+[Sun May 08 15:48:48 2016]  say: ^0Ðàrk^2^1Qµàkè: cool :D
+[Sun May 08 15:48:59 2016]  say: ^0Ðàrk^2^1Qµàkè: wait till I've got a loud sound in my repulse haha
+[Sun May 08 15:49:02 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 15:49:08 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 15:49:49 2016]  say: ^0Ðàrk^2^1Qµàkè: haha you're so much more knowledgeable in this than me
+[Sun May 08 15:49:58 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 15:50:07 2016]  say: ^1M^7r ^1Ð^7innertime: I played makermod for years and I loved to script
+[Sun May 08 15:50:23 2016]  say: ^0Ðàrk^2^1Qµàkè: can't tell if that's louder..
+[Sun May 08 15:51:01 2016]  say: ^1M^7r ^1Ð^7innertime: XD attempt 2...
+[Sun May 08 15:51:22 2016]  say: ^0Ðàrk^2^1Qµàkè: so if you connect it to one ob with a name, then place more obs with that name will it connect to all of them?
+[Sun May 08 15:51:30 2016]  say: ^1M^7r ^1Ð^7innertime: LOL
+[Sun May 08 15:51:34 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 15:51:38 2016]  say: ^0Ðàrk^2^1Qµàkè: XD
+[Sun May 08 15:51:43 2016]  say: ^1M^7r ^1Ð^7innertime: Sorry. I lost the question
+[Sun May 08 15:51:44 2016]  say: ^1M^7r ^1Ð^7innertime: what was it?
+[Sun May 08 15:51:49 2016]  say: ^0Ðàrk^2^1Qµàkè: go console :p
+[Sun May 08 15:51:59 2016]  say: ^1M^7r ^1Ð^7innertime: Ijust executed a script like 100 times
+[Sun May 08 15:52:02 2016]  say: ^1M^7r ^1Ð^7innertime: doubt it's still in there
+[Sun May 08 15:52:03 2016]  say: ^0Ðàrk^2^1Qµàkè: oh hahaha
+[Sun May 08 15:52:04 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 15:52:26 2016]  say: ^0Ðàrk^2^1Qµàkè: so if you connect an object to another, and then place more with the same name will it be connected to them all?
+[Sun May 08 15:52:31 2016]  say: ^1M^7r ^1Ð^7innertime: it's a script which sends clientside commands :) 
+[Sun May 08 15:52:35 2016]  say: ^1M^7r ^1Ð^7innertime: so they don't show up on the server
+[Sun May 08 15:52:42 2016]  say: ^1M^7r ^1Ð^7innertime: D
+[Sun May 08 15:52:57 2016]  say: ^1M^7r ^1Ð^7innertime: uhh
+[Sun May 08 15:53:07 2016]  say: ^1M^7r ^1Ð^7innertime: I'm fairly sure you can only connect one name per sound
+[Sun May 08 15:53:23 2016]  say: ^1M^7r ^1Ð^7innertime: using the same name multiple times is quite buggy and rarely ever works in my experience
+[Sun May 08 15:53:28 2016]  say: ^0Ðàrk^2^1Qµàkè: oh ok
+[Sun May 08 15:53:48 2016]  say: ^1M^7r ^1Ð^7innertime: hmm O-o
+[Sun May 08 15:53:58 2016]  say: ^1M^7r ^1Ð^7innertime: Did I ever show you my final atonement script? :D I love showing it
+[Sun May 08 15:54:12 2016]  say: ^0Ðàrk^2^1Qµàkè: I think you showed me some
+[Sun May 08 15:54:15 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 15:54:16 2016]  say: ^0Ðàrk^2^1Qµàkè: can't remember
+[Sun May 08 15:54:30 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 15:54:49 2016]  say: ^0Ðàrk^2^1Qµàkè: haha this just makes me jealous cause I'd never get my scripts to that stage
+[Sun May 08 15:54:53 2016]  say: ^1M^7r ^1Ð^7innertime: it's much quicker than that by default but I slowed it down for lesser servers
+[Sun May 08 15:54:53 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 15:55:01 2016]  say: ^0Ðàrk^2^1Qµàkè: lol
+[Sun May 08 15:55:22 2016]  say: ^1M^7r ^1Ð^7innertime: what about this one? ;3 easy enough>?
+[Sun May 08 15:55:36 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 15:55:38 2016]  say: ^0Ðàrk^2^1Qµàkè: I don't get what it does
+[Sun May 08 15:55:44 2016]  say: ^1M^7r ^1Ð^7innertime: spawn anything xD
+[Sun May 08 15:55:47 2016]  say: ^1M^7r ^1Ð^7innertime: anything but a rancor
+[Sun May 08 15:55:47 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 15:55:56 2016]  say: ^0Ðàrk^2^1Qµàkè: haha awesome
+[Sun May 08 15:55:57 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 15:56:40 2016]  say: ^1M^7r ^1Ð^7innertime: well
+[Sun May 08 15:56:43 2016]  say: ^1M^7r ^1Ð^7innertime: I'm glad you like them :D
+[Sun May 08 15:57:38 2016]  say: ^0Ðàrk^2^1Qµàkè: that's good :)
+[Sun May 08 15:57:48 2016]  say: ^1M^7r ^1Ð^7innertime: ;3
+[Sun May 08 15:57:54 2016]  say: ^1M^7r ^1Ð^7innertime: mind if I try to make a repulse script?
+[Sun May 08 15:58:17 2016]  say: ^0Ðàrk^2^1Qµàkè: :o I guess so, we can compare and make it cool
+[Sun May 08 15:58:19 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 15:58:58 2016]  say: ^0Ðàrk^2^1Qµàkè: brb I'm gonna script in this sound stuff
+[Sun May 08 15:59:01 2016]  say: ^1M^7r ^1Ð^7innertime: kk ^^
+[Sun May 08 16:09:00 2016]  say: ^0Ðàrk^2^1Qµàkè: cool :D
+[Sun May 08 16:09:03 2016]  say: ^1M^7r ^1Ð^7innertime: ;D
+[Sun May 08 16:09:08 2016]  say: ^1M^7r ^1Ð^7innertime: nice :P
+[Sun May 08 16:09:18 2016]  say: ^0Ðàrk^2^1Qµàkè: now to make even louder ^^
+[Sun May 08 16:09:21 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:13:29 2016]  say: ^1M^7r ^1Ð^7innertime: hmm
+[Sun May 08 16:13:30 2016]  say: ^1M^7r ^1Ð^7innertime: sec
+[Sun May 08 16:13:35 2016]  say: ^1M^7r ^1Ð^7innertime: trying to find a specific animation :D
+[Sun May 08 16:18:33 2016]  say: ^1M^7r ^1Ð^7innertime: ;D
+[Sun May 08 16:18:34 2016]  say: ^1M^7r ^1Ð^7innertime: let's see
+[Sun May 08 16:18:35 2016]  say: ^0Ðàrk^2^1Qµàkè: it's laggy :(
+[Sun May 08 16:18:42 2016]  say: ^1M^7r ^1Ð^7innertime: looks fine to me
+[Sun May 08 16:18:55 2016]  say: ^0Ðàrk^2^1Qµàkè: oh, says connection interruped for a bit for me lol
+[Sun May 08 16:18:56 2016]  say: ^1M^7r ^1Ð^7innertime: Are you using makermodule/
+[Sun May 08 16:19:02 2016]  say: ^0Ðàrk^2^1Qµàkè: retracts from experience
+[Sun May 08 16:19:05 2016]  say: ^0Ðàrk^2^1Qµàkè: yeah I am
+[Sun May 08 16:19:12 2016]  say: ^1M^7r ^1Ð^7innertime: using my ontimer converter? ^^
+[Sun May 08 16:19:22 2016]  say: ^0Ðàrk^2^1Qµàkè: no haven't gone into that yet :p
+[Sun May 08 16:19:25 2016]  say: ^1M^7r ^1Ð^7innertime: well
+[Sun May 08 16:19:32 2016]  say: ^1M^7r ^1Ð^7innertime: it allows you to add an automatic delay between commands
+[Sun May 08 16:19:37 2016]  say: ^1M^7r ^1Ð^7innertime: which helps incredibly with lag
+[Sun May 08 16:19:40 2016]  say: ^0Ðàrk^2^1Qµàkè: SO YOU JUST RUN IT AND IT CONVERTS?
+[Sun May 08 16:19:43 2016]  say: ^1M^7r ^1Ð^7innertime: yes
+[Sun May 08 16:19:45 2016]  say: ^1M^7r ^1Ð^7innertime: well
+[Sun May 08 16:19:47 2016]  say: ^0Ðàrk^2^1Qµàkè: lol sry
+[Sun May 08 16:19:51 2016]  say: ^1M^7r ^1Ð^7innertime: read the page. It explains everything =]
+[Sun May 08 16:27:22 2016]  say: ^0Ðàrk^2^1Qµàkè: overflowed :/
+[Sun May 08 16:27:27 2016]  say: ^1M^7r ^1Ð^7innertime: D:
+[Sun May 08 16:27:30 2016]  say: ^1M^7r ^1Ð^7innertime: Yeah
+[Sun May 08 16:27:37 2016]  say: ^1M^7r ^1Ð^7innertime: if the script gets too big, gotta split it up
+[Sun May 08 16:27:45 2016]  say: ^1M^7r ^1Ð^7innertime: but that's the downside of ontimer
+[Sun May 08 16:27:50 2016]  say: ^0Ðàrk^2^1Qµàkè: hm
+[Sun May 08 16:28:04 2016]  say: ^0Ðàrk^2^1Qµàkè: just my repulse then I guess, is the only thing atm I want a loud sound for
+[Sun May 08 16:31:22 2016]  say: ^0Ðàrk^2^1Qµàkè: this is good enough I guess, I'll try 15 and see if the connection gets interrupted again :p
+[Sun May 08 16:31:59 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 16:32:00 2016]  say: ^1M^7r ^1Ð^7innertime: let's see
+[Sun May 08 16:32:27 2016]  say: ^0Ðàrk^2^1Qµàkè: trying 15 soon, getting rid of s15-20 :p
+[Sun May 08 16:32:36 2016]  say: ^1M^7r ^1Ð^7innertime: *_*
+[Sun May 08 16:32:41 2016]  say: ^1M^7r ^1Ð^7innertime: I need to go watch something. 
+[Sun May 08 16:32:42 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:32:45 2016]  say: ^0Ðàrk^2^1Qµàkè: I named them from s1-20
+[Sun May 08 16:32:49 2016]  say: ^0Ðàrk^2^1Qµàkè: oh 1 sec I'll show you
+[Sun May 08 16:32:52 2016]  say: ^1M^7r ^1Ð^7innertime: I need to watch a clip of Jaden using this animation
+[Sun May 08 16:32:52 2016]  say: ^0Ðàrk^2^1Qµàkè: wont b long
+[Sun May 08 16:32:54 2016]  say: ^1M^7r ^1Ð^7innertime: k ;D
+[Sun May 08 16:33:21 2016]  say: ^1M^7r ^1Ð^7innertime: :D 
+[Sun May 08 16:33:22 2016]  say: ^1M^7r ^1Ð^7innertime: nice
+[Sun May 08 16:33:34 2016]  say: ^0Ðàrk^2^1Qµàkè: that lagged just a touch, so I think 12/13 will be good :)
+[Sun May 08 16:33:38 2016]  say: ^1M^7r ^1Ð^7innertime: :P
+[Sun May 08 16:33:42 2016]  say: ^0Ðàrk^2^1Qµàkè: soundsw that is
+[Sun May 08 16:33:51 2016]  say: ^1M^7r ^1Ð^7innertime: try noclip for a second... XD
+[Sun May 08 16:34:02 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:34:07 2016]  say: ^0Ðàrk^2^1Qµàkè: hahaha omfg
+[Sun May 08 16:34:09 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:34:19 2016]  say: ^0Ðàrk^2^1Qµàkè: that's the best thing I've seen on Makermod!
+[Sun May 08 16:34:21 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 16:34:31 2016]  say: ^1M^7r ^1Ð^7innertime: You should see the radius XD
+[Sun May 08 16:34:35 2016]  say: ^1M^7r ^1Ð^7innertime: go stand by the spawn. I'll be over here
+[Sun May 08 16:34:43 2016]  say: ^1M^7r ^1Ð^7innertime: ;D
+[Sun May 08 16:34:52 2016]  say: ^1M^7r ^1Ð^7innertime: ok nvm
+[Sun May 08 16:34:53 2016]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sun May 08 16:35:10 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:35:11 2016]  say: ^0Ðàrk^2^1Qµàkè: damn haha
+[Sun May 08 16:35:17 2016]  say: ^1M^7r ^1Ð^7innertime: ready? :D
+[Sun May 08 16:35:22 2016]  say: ^1M^7r ^1Ð^7innertime: need you to stand near the spawn
+[Sun May 08 16:35:22 2016]  say: ^0Ðàrk^2^1Qµàkè: 1 sec
+[Sun May 08 16:35:25 2016]  say: ^0Ðàrk^2^1Qµàkè: changing to 12
+[Sun May 08 16:35:56 2016]  say: ^1M^7r ^1Ð^7innertime: you know, I don't even know what the true radius of this script is
+[Sun May 08 16:35:59 2016]  say: ^1M^7r ^1Ð^7innertime: XD it's huge
+[Sun May 08 16:37:05 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:37:08 2016]  say: ^1M^7r ^1Ð^7innertime: taking toolong
+[Sun May 08 16:37:19 2016]  say: ^0Ðàrk^2^1Qµàkè: sry
+[Sun May 08 16:37:20 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 16:37:25 2016]  say: ^1M^7r ^1Ð^7innertime: I took it out on luke
+[Sun May 08 16:37:33 2016]  say: ^1M^7r ^1Ð^7innertime: nu XD
+[Sun May 08 16:37:35 2016]  say: ^1M^7r ^1Ð^7innertime: by the spawn
+[Sun May 08 16:37:36 2016]  say: ^1M^7r ^1Ð^7innertime: D
+[Sun May 08 16:37:37 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 16:37:43 2016]  say: ^1M^7r ^1Ð^7innertime: I want to show you the radius of it xD sorry
+[Sun May 08 16:37:55 2016]  say: ^0Ðàrk^2^1Qµàkè: k go
+[Sun May 08 16:37:56 2016]  say: ^1M^7r ^1Ð^7innertime: let me know when you're ready
+[Sun May 08 16:38:02 2016]  say: ^1M^7r ^1Ð^7innertime: k
+[Sun May 08 16:38:03 2016]  say: ^0Ðàrk^2^1Qµàkè: yep
+[Sun May 08 16:38:04 2016]  say: ^1M^7r ^1Ð^7innertime: I'm by the tree
+[Sun May 08 16:38:11 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:38:13 2016]  say: ^0Ðàrk^2^1Qµàkè: hahaha
+[Sun May 08 16:38:21 2016]  say: ^0Ðàrk^2^1Qµàkè: falcon? ^^
+[Sun May 08 16:38:23 2016]  say: ^1M^7r ^1Ð^7innertime: mhm xD
+[Sun May 08 16:38:26 2016]  say: ^0Ðàrk^2^1Qµàkè: lmao
+[Sun May 08 16:38:41 2016]  say: ^1M^7r ^1Ð^7innertime: falcon mscaled to 0.01 with a boundary box of mscale 20
+[Sun May 08 16:38:41 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:38:47 2016]  say: ^0Ðàrk^2^1Qµàkè: nice haha
+[Sun May 08 16:39:09 2016]  say: ^1M^7r ^1Ð^7innertime: ;D
+[Sun May 08 16:39:12 2016]  say: ^1M^7r ^1Ð^7innertime: this one was more for the effect
+[Sun May 08 16:39:15 2016]  say: ^0Ðàrk^2^1Qµàkè: this is perfect, 10
+[Sun May 08 16:39:17 2016]  say: ^1M^7r ^1Ð^7innertime: let me see if I can dig it up
+[Sun May 08 16:39:20 2016]  say: ^1M^7r ^1Ð^7innertime: nice ^^
+[Sun May 08 16:40:44 2016]  say: ^1M^7r ^1Ð^7innertime: ready? :D
+[Sun May 08 16:40:49 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh
+[Sun May 08 16:41:09 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:41:28 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:41:39 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:41:52 2016]  say: ^1M^7r ^1Ð^7innertime: they're super tough :D
+[Sun May 08 16:41:57 2016]  say: ^0Ðàrk^2^1Qµàkè: i noticed haha
+[Sun May 08 16:42:11 2016]  Kill: 1 0 0: ^1M^7r ^1Ð^7innertime killed ^0Ðàrk^2^1Qµàkè by MOD_UNKNOWN
+[Sun May 08 16:42:14 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:42:41 2016]  say: ^1M^7r ^1Ð^7innertime: oops XD
+[Sun May 08 16:42:44 2016]  say: ^0Ðàrk^2^1Qµàkè: um brb
+[Sun May 08 16:42:44 2016]  say: ^1M^7r ^1Ð^7innertime: didn't mean to get you
+[Sun May 08 16:44:05 2016]  say: ^0Ðàrk^2^1Qµàkè: oh so you know how mkillsw, mtouchable is more powerful than the (max int),199 mpain? How can I set a radius on killsw?
+[Sun May 08 16:47:48 2016]  say: ^1M^7r ^1Ð^7innertime: I don't know of a way ^^
+[Sun May 08 16:47:55 2016]  say: ^1M^7r ^1Ð^7innertime: also, I don't think mkillsw is always better :)
+[Sun May 08 16:47:59 2016]  say: ^1M^7r ^1Ð^7innertime: observe.
+[Sun May 08 16:48:02 2016]  say: ^0Ðàrk^2^1Qµàkè: alright, I've just gone back to mpain
+[Sun May 08 16:48:06 2016]  say: ^1M^7r ^1Ð^7innertime: where are you?
+[Sun May 08 16:48:08 2016]  say: ^0Ðàrk^2^1Qµàkè: and will use killsw when appropriate
+[Sun May 08 16:48:14 2016]  say: ^0Ðàrk^2^1Qµàkè: everyone's on undying these days haha
+[Sun May 08 16:48:19 2016]  say: ^1M^7r ^1Ð^7innertime: ^^
+[Sun May 08 16:48:25 2016]  say: ^1M^7r ^1Ð^7innertime: pfft :p
+[Sun May 08 16:48:28 2016]  say: ^1M^7r ^1Ð^7innertime: undying gives 999 hp
+[Sun May 08 16:48:35 2016]  say: ^1M^7r ^1Ð^7innertime: I have 2.147B hp
+[Sun May 08 16:48:36 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:48:43 2016]  say: ^0Ðàrk^2^1Qµàkè: oh I meant armor 99999999999999999999999
+[Sun May 08 16:48:47 2016]  say: ^0Ðàrk^2^1Qµàkè: same thing :p
+[Sun May 08 16:48:50 2016]  say: ^1M^7r ^1Ð^7innertime: I have 2.147B armor too
+[Sun May 08 16:48:53 2016]  say: ^1M^7r ^1Ð^7innertime: as well as armour
+[Sun May 08 16:48:53 2016]  say: ^1M^7r ^1Ð^7innertime: :D :D
+[Sun May 08 16:49:01 2016]  say: ^1M^7r ^1Ð^7innertime: I mean hp. derp
+[Sun May 08 16:49:04 2016]  say: ^1M^7r ^1Ð^7innertime: you know what I mean XD
+[Sun May 08 16:49:34 2016]  say: ^1M^7r ^1Ð^7innertime: this script uses mkillsw, I thin
+[Sun May 08 16:49:36 2016]  say: ^1M^7r ^1Ð^7innertime: think&*
+[Sun May 08 16:49:44 2016]  say: ^0Ðàrk^2^1Qµàkè: the B is what? cause I get you're meaning max int :p
+[Sun May 08 16:49:51 2016]  say: ^1M^7r ^1Ð^7innertime: yes
+[Sun May 08 16:49:51 2016]  say: ^1M^7r ^1Ð^7innertime: ^^
+[Sun May 08 16:50:05 2016]  say: ^1M^7r ^1Ð^7innertime: I like to say 2.147B because not everybody knows what an integer is xDX
+[Sun May 08 16:50:19 2016]  say: ^0Ðàrk^2^1Qµàkè: well 999999999999999 would default to that right?
+[Sun May 08 16:50:23 2016]  say: ^1M^7r ^1Ð^7innertime: yes
+[Sun May 08 16:50:26 2016]  say: ^0Ðàrk^2^1Qµàkè: Yeh I've never seen the B though lol
+[Sun May 08 16:50:32 2016]  say: ^1M^7r ^1Ð^7innertime: B = billion
+[Sun May 08 16:50:35 2016]  say: ^1M^7r ^1Ð^7innertime: like M = million XD
+[Sun May 08 16:50:36 2016]  say: ^0Ðàrk^2^1Qµàkè: ohhhhhh right
+[Sun May 08 16:50:48 2016]  say: ^1M^7r ^1Ð^7innertime: LOL
+[Sun May 08 16:50:51 2016]  say: ^0Ðàrk^2^1Qµàkè: not thinking haha
+[Sun May 08 16:50:53 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:50:56 2016]  say: ^1M^7r ^1Ð^7innertime: mpain can't kill me? what
+[Sun May 08 16:51:01 2016]  say: ^0Ðàrk^2^1Qµàkè: haven't seen maths stuff for a while
+[Sun May 08 16:51:04 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:51:07 2016]  say: ^0Ðàrk^2^1Qµàkè: no it can't, just flys you
+[Sun May 08 16:51:14 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:51:39 2016]  say: ^0Ðàrk^2^1Qµàkè: well that worked lol
+[Sun May 08 16:51:41 2016]  say: ^1M^7r ^1Ð^7innertime: I have a script which can kill me no problem but if I execute it, it'll crash me due to spamming commands whilst dead xD
+[Sun May 08 16:51:42 2016]  say: ^1M^7r ^1Ð^7innertime: no xD
+[Sun May 08 16:51:45 2016]  say: ^0Ðàrk^2^1Qµàkè: I wonder why elec blast didn't
+[Sun May 08 16:51:52 2016]  say: ^1M^7r ^1Ð^7innertime: I'm still alive. Was just typing
+[Sun May 08 16:51:53 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 16:51:57 2016]  say: ^0Ðàrk^2^1Qµàkè: hahaha
+[Sun May 08 16:52:12 2016]  say: ^1M^7r ^1Ð^7innertime: hmm
+[Sun May 08 16:52:20 2016]  say: ^1M^7r ^1Ð^7innertime: Permission to use a super spammy script? XD
+[Sun May 08 16:52:27 2016]  say: ^0Ðàrk^2^1Qµàkè: sure
+[Sun May 08 16:52:35 2016]  say: ^1M^7r ^1Ð^7innertime: not even kidding when I say spammy
+[Sun May 08 16:52:41 2016]  Kill: 1022 1 0: <world> killed ^1M^7r ^1Ð^7innertime by MOD_UNKNOWN
+[Sun May 08 16:52:43 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:52:48 2016]  say: ^0Ðàrk^2^1Qµàkè: it seems I changed most of my attacks to killsw, it wasn't really needed on the AOEs :p
+[Sun May 08 16:52:52 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:52:56 2016]  say: ^1M^7r ^1Ð^7innertime: I killed it early
+[Sun May 08 16:53:01 2016]  Kill: 1022 1 0: <world> killed ^1M^7r ^1Ð^7innertime by MOD_UNKNOWN
+[Sun May 08 16:53:03 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:53:09 2016]  say: ^0Ðàrk^2^1Qµàkè: that's better :p
+[Sun May 08 16:53:12 2016]  say: ^1M^7r ^1Ð^7innertime: trynow XD
+[Sun May 08 16:53:31 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:53:37 2016]  say: ^0Ðàrk^2^1Qµàkè: that's so cool now :D
+[Sun May 08 16:53:39 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 16:53:41 2016]  say: ^0Ðàrk^2^1Qµàkè: thanks for the sount hint
+[Sun May 08 16:53:45 2016]  say: ^0Ðàrk^2^1Qµàkè: sound*
+[Sun May 08 16:53:47 2016]  say: ^1M^7r ^1Ð^7innertime: np ^^
+[Sun May 08 16:53:56 2016]  say: ^1M^7r ^1Ð^7innertime: until I can find this animation, I'm pausing my development... XD
+[Sun May 08 16:54:15 2016]  say: ^0Ðàrk^2^1Qµàkè: my ultimate goal is to lift up the enemies too!
+[Sun May 08 16:54:17 2016]  say: ^1M^7r ^1Ð^7innertime: try practicing on these guys :3
+[Sun May 08 16:54:24 2016]  say: ^0Ðàrk^2^1Qµàkè: I have a small idea on how to do that
+[Sun May 08 16:54:30 2016]  say: ^1M^7r ^1Ð^7innertime: xD
+[Sun May 08 16:54:42 2016]  say: ^0Ðàrk^2^1Qµàkè: *very good master*
+[Sun May 08 16:54:44 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:54:47 2016]  say: ^0Ðàrk^2^1Qµàkè: just like tutorial haha
+[Sun May 08 16:54:56 2016]  say: ^0Ðàrk^2^1Qµàkè: omg let's make breakable glass!
+[Sun May 08 16:55:02 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:55:37 2016]  say: ^0Ðàrk^2^1Qµàkè: what's best for glass?
+[Sun May 08 16:55:40 2016]  say: ^1M^7r ^1Ð^7innertime: uhh
+[Sun May 08 16:56:30 2016]  say: ^0Ðàrk^2^1Qµàkè: that's pretty good :)
+[Sun May 08 16:56:31 2016]  say: ^1M^7r ^1Ð^7innertime: try attacking it
+[Sun May 08 16:56:31 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 16:56:38 2016]  say: ^0Ðàrk^2^1Qµàkè: epic!
+[Sun May 08 16:56:41 2016]  say: ^1M^7r ^1Ð^7innertime: oh o.o that's not glass XD
+[Sun May 08 16:56:44 2016]  say: ^1M^7r ^1Ð^7innertime: let me find the right one
+[Sun May 08 16:56:58 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 16:57:00 2016]  say: ^0Ðàrk^2^1Qµàkè: great haha
+[Sun May 08 16:57:27 2016]  say: ^0Ðàrk^2^1Qµàkè: I really wanna preview this next stage of repulse but not till I get enemies lifted :D
+[Sun May 08 16:57:29 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 16:57:43 2016]  say: ^0Ðàrk^2^1Qµàkè: yeh I'm gonna try stuff, this should look cool :)
+[Sun May 08 16:57:47 2016]  say: ^1M^7r ^1Ð^7innertime: hmm
+[Sun May 08 17:06:19 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 17:06:28 2016]  say: ^0Ðàrk^2^1Qµàkè: it's laggy again..
+[Sun May 08 17:06:32 2016]  say: ^1M^7r ^1Ð^7innertime: D:
+[Sun May 08 17:06:37 2016]  say: ^0Ðàrk^2^1Qµàkè: must be the amount of commands I execute lol
+[Sun May 08 17:07:03 2016]  say: ^0Ðàrk^2^1Qµàkè: did they float up?
+[Sun May 08 17:07:07 2016]  say: ^1M^7r ^1Ð^7innertime: idk
+[Sun May 08 17:07:15 2016]  say: ^1M^7r ^1Ð^7innertime: hey
+[Sun May 08 17:07:19 2016]  say: ^1M^7r ^1Ð^7innertime: I'm trying to work on something :(
+[Sun May 08 17:07:21 2016]  say: ^0Ðàrk^2^1Qµàkè: oh haha
+[Sun May 08 17:07:22 2016]  say: ^0Ðàrk^2^1Qµàkè: sry
+[Sun May 08 17:07:24 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 17:07:40 2016]  say: ^1M^7r ^1Ð^7innertime: LOL
+[Sun May 08 17:07:42 2016]  say: ^1M^7r ^1Ð^7innertime: too fast
+[Sun May 08 17:09:44 2016]  say: ^1M^7r ^1Ð^7innertime: omg
+[Sun May 08 17:09:59 2016]  say: ^1M^7r ^1Ð^7innertime: I just thought of a way to use cvarset to toggle a script loop on and off
+[Sun May 08 17:10:05 2016]  say: ^1M^7r ^1Ð^7innertime: :D :D
+[Sun May 08 17:10:13 2016]  say: ^0Ðàrk^2^1Qµàkè: cool haha
+[Sun May 08 17:13:37 2016]  say: ^0Ðàrk^2^1Qµàkè: :(
+[Sun May 08 17:13:47 2016]  say: ^1M^7r ^1Ð^7innertime: ? :D
+[Sun May 08 17:14:25 2016]  say: ^0Ðàrk^2^1Qµàkè: so.. how do I keep these bounds? :D
+[Sun May 08 17:14:37 2016]  say: ^0Ðàrk^2^1Qµàkè: oh
+[Sun May 08 17:14:41 2016]  say: ^0Ðàrk^2^1Qµàkè: sorts haha
+[Sun May 08 17:14:48 2016]  say: ^0Ðàrk^2^1Qµàkè: sorta* it's bobbing
+[Sun May 08 17:15:05 2016]  say: ^0Ðàrk^2^1Qµàkè: seems legit
+[Sun May 08 17:15:12 2016]  say: ^1M^7r ^1Ð^7innertime: D
+[Sun May 08 17:15:13 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 17:15:17 2016]  say: ^1M^7r ^1Ð^7innertime: what are you trying to do?
+[Sun May 08 17:15:22 2016]  say: ^0Ðàrk^2^1Qµàkè: lift them up
+[Sun May 08 17:15:45 2016]  say: ^1M^7r ^1Ð^7innertime: O_o
+[Sun May 08 17:15:47 2016]  say: ^0Ðàrk^2^1Qµàkè: it should work as it is, but doesn't
+[Sun May 08 17:16:02 2016]  say: ^1M^7r ^1Ð^7innertime: try using negative mscale ^^
+[Sun May 08 17:16:19 2016]  say: ^0Ðàrk^2^1Qµàkè: um ok haha
+[Sun May 08 17:16:21 2016]  say: ^1M^7r ^1Ð^7innertime: it messes up the boundary boxes allowing you to have something tiny with a big hitbox
+[Sun May 08 17:16:37 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 17:16:38 2016]  say: ^0Ðàrk^2^1Qµàkè: lolwat
+[Sun May 08 17:16:45 2016]  say: ^0Ðàrk^2^1Qµàkè: oh I get it I think
+[Sun May 08 17:18:02 2016]  say: ^0Ðàrk^2^1Qµàkè: well this just sticks me into place, doesn't lift
+[Sun May 08 17:18:31 2016]  say: ^1M^7r ^1Ð^7innertime: hmm
+[Sun May 08 17:19:13 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun May 08 17:19:14 2016]  say: ^1M^7r ^1Ð^7innertime: HEY
+[Sun May 08 17:19:15 2016]  say: ^1M^7r ^1Ð^7innertime: look XD
+[Sun May 08 17:19:19 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 17:19:25 2016]  say: ^1M^7r ^1Ð^7innertime: come join me
+[Sun May 08 17:19:27 2016]  say: ^1M^7r ^1Ð^7innertime: up here
+[Sun May 08 17:19:32 2016]  say: ^1M^7r ^1Ð^7innertime: stand next to me :D
+[Sun May 08 17:19:42 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 17:19:48 2016]  say: ^0Ðàrk^2^1Qµàkè: nice!!
+[Sun May 08 17:19:50 2016]  say: ^1M^7r ^1Ð^7innertime: look how riny it is
+[Sun May 08 17:19:51 2016]  say: ^1M^7r ^1Ð^7innertime: tiny** :D
+[Sun May 08 17:19:53 2016]  say: ^0Ðàrk^2^1Qµàkè: you're a genius haha
+[Sun May 08 17:19:59 2016]  say: ^1M^7r ^1Ð^7innertime: I just know a few tricks :p
+[Sun May 08 17:20:08 2016]  say: ^0Ðàrk^2^1Qµàkè: can you share? :)
+[Sun May 08 17:20:16 2016]  say: ^1M^7r ^1Ð^7innertime: I used to share my own scripts for other people's knowledge fragments :p
+[Sun May 08 17:20:18 2016]  say: ^1M^7r ^1Ð^7innertime: but yeah xD
+[Sun May 08 17:20:41 2016]  say: ^1M^7r ^1Ð^7innertime: ok
+[Sun May 08 17:20:42 2016]  say: ^1M^7r ^1Ð^7innertime: let's see
+[Sun May 08 17:20:42 2016]  say: ^0Ðàrk^2^1Qµàkè: cool thx :) Will save me trying to use several catwalks lol
+[Sun May 08 17:21:02 2016]  say: ^1M^7r ^1Ð^7innertime: comparing size =]
+[Sun May 08 17:21:41 2016]  say: ^1M^7r ^1Ð^7innertime: ok
+[Sun May 08 17:21:45 2016]  say: ^1M^7r ^1Ð^7innertime: it's the equivalent of mscale 10
+[Sun May 08 17:21:54 2016]  say: ^1M^7r ^1Ð^7innertime: XD
+[Sun May 08 17:21:57 2016]  say: ^0Ðàrk^2^1Qµàkè: alright nice :)
+[Sun May 08 17:22:00 2016]  say: ^0Ðàrk^2^1Qµàkè: that's plenty haha
+[Sun May 08 17:22:02 2016]  say: ^1M^7r ^1Ð^7innertime: this is -10.23
+[Sun May 08 17:22:11 2016]  say: ^1M^7r ^1Ð^7innertime: increase that in 0.10 increments to make the box smaller
+[Sun May 08 17:22:11 2016]  say: ^1M^7r ^1Ð^7innertime: :P
+[Sun May 08 17:22:31 2016]  say: ^0Ðàrk^2^1Qµàkè: oh I get it, that's important haha
+[Sun May 08 17:22:33 2016]  say: ^1M^7r ^1Ð^7innertime: ^^
+[Sun May 08 17:22:36 2016]  say: ^0Ðàrk^2^1Qµàkè: 1 sec I'll note that but I gotta go
+[Sun May 08 17:22:39 2016]  say: ^0Ðàrk^2^1Qµàkè: I'll try later :)
+[Sun May 08 17:22:41 2016]  say: ^1M^7r ^1Ð^7innertime: sure :p cya
+[Sun May 08 17:22:54 2016]  say: ^0Ðàrk^2^1Qµàkè: bye! I'm just gonna note from the console first ^^
+[Sun May 08 17:23:20 2016]  ClientDisconnect: 0
+[Sun May 08 17:28:15 2016]  say: ^1M^7r ^1Ð^7innertime: qit
+[Sun May 08 17:28:16 2016]  ClientDisconnect: 1
+[Sun May 08 18:32:42 2016]  ClientConnect: 0
+[Sun May 08 18:32:42 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sun May 08 18:33:18 2016]  ClientBegin: 0
+[Sun May 08 20:06:31 2016]  ClientDisconnect: 0
+[Sun May 08 20:14:56 2016]  ClientConnect: 0
+[Sun May 08 20:14:56 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sun May 08 20:15:23 2016]  ClientBegin: 0
+[Sun May 08 20:16:29 2016]  ClientDisconnect: 0
+[Sun May 08 20:18:28 2016]  ClientConnect: 0
+[Sun May 08 20:18:28 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sun May 08 20:18:55 2016]  ClientBegin: 0
+[Sun May 08 20:20:04 2016]  ClientDisconnect: 0
+[Sun May 08 20:24:07 2016]  ClientConnect: 0
+[Sun May 08 20:24:07 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sun May 08 20:24:34 2016]  ClientBegin: 0
+[Sun May 08 20:27:13 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 20:27:34 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 20:28:13 2016]  ClientDisconnect: 0
+[Sun May 08 20:34:01 2016]  ClientConnect: 0
+[Sun May 08 20:34:01 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sun May 08 20:34:28 2016]  ClientBegin: 0
+[Sun May 08 20:35:18 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 20:35:37 2016]  ClientDisconnect: 0
+[Sun May 08 20:36:35 2016]  ------------------------------------------------------------
+[Sun May 08 20:36:35 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 08 20:36:50 2016]  ClientConnect: 0
+[Sun May 08 20:36:50 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sun May 08 20:37:14 2016]  ClientBegin: 0
+[Sun May 08 20:37:25 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 20:38:35 2016]  ClientDisconnect: 0
+[Sun May 08 20:38:55 2016]  ShutdownGame:
+[Sun May 08 20:38:55 2016]  ------------------------------------------------------------
+[Sun May 08 20:38:56 2016]  ------------------------------------------------------------
+[Sun May 08 20:38:56 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 08 20:39:25 2016]  ClientConnect: 0
+[Sun May 08 20:39:25 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sun May 08 20:39:49 2016]  ClientBegin: 0
+[Sun May 08 21:46:13 2016]  ClientDisconnect: 0
+[Sun May 08 21:47:39 2016]  ShutdownGame:
+[Sun May 08 21:47:39 2016]  ------------------------------------------------------------
+[Sun May 08 21:47:39 2016]  ------------------------------------------------------------
+[Sun May 08 21:47:39 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 08 21:47:52 2016]  ClientConnect: 0
+[Sun May 08 21:47:52 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sun May 08 21:48:16 2016]  ClientBegin: 0
+[Sun May 08 21:48:51 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 21:50:17 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 21:51:55 2016]  ClientDisconnect: 0
+[Sun May 08 21:52:54 2016]  ------------------------------------------------------------
+[Sun May 08 21:52:54 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 08 21:53:07 2016]  ClientConnect: 0
+[Sun May 08 21:53:07 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29070 
+[Sun May 08 21:53:31 2016]  ClientBegin: 0
+[Sun May 08 21:53:39 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 21:55:47 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 21:58:12 2016]  ClientDisconnect: 0
+[Sun May 08 21:58:26 2016]  ------------------------------------------------------------
+[Sun May 08 21:58:26 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 08 21:59:01 2016]  ClientConnect: 0
+[Sun May 08 21:59:01 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sun May 08 21:59:25 2016]  ClientBegin: 0
+[Sun May 08 22:00:12 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 22:20:10 2016]  ------------------------------------------------------------
+[Sun May 08 22:20:10 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 08 22:20:19 2016]  ClientConnect: 0
+[Sun May 08 22:20:19 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sun May 08 22:20:47 2016]  ClientBegin: 0
+[Sun May 08 22:21:25 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 22:21:42 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 22:21:49 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 22:21:52 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 22:23:05 2016]  ClientDisconnect: 0
+[Sun May 08 22:23:05 2016]  ClientDisconnect: 0
+[Sun May 08 22:23:05 2016]  ClientConnect: 0
+[Sun May 08 22:23:05 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Sun May 08 22:23:14 2016]  ClientBegin: 0
+[Sun May 08 22:30:46 2016]  ShutdownGame:
+[Sun May 08 22:30:46 2016]  ------------------------------------------------------------
+[Sun May 08 22:30:47 2016]  ------------------------------------------------------------
+[Sun May 08 22:30:47 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\hoth3\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 08 22:30:53 2016]  ClientConnect: 0
+[Sun May 08 22:31:01 2016]  ClientBegin: 0
+[Sun May 08 22:32:24 2016]  ShutdownGame:
+[Sun May 08 22:32:24 2016]  ------------------------------------------------------------
+[Sun May 08 22:32:24 2016]  ------------------------------------------------------------
+[Sun May 08 22:32:24 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 08 22:32:26 2016]  ClientConnect: 0
+[Sun May 08 22:32:34 2016]  ClientBegin: 0
+[Sun May 08 22:33:28 2016]  ShutdownGame:
+[Sun May 08 22:33:28 2016]  ------------------------------------------------------------
+[Sun May 08 22:33:29 2016]  ------------------------------------------------------------
+[Sun May 08 22:33:29 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\hoth2\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun May 08 22:33:37 2016]  ClientConnect: 0
+[Sun May 08 22:33:44 2016]  ClientBegin: 0
+[Sun May 08 22:51:41 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 23:00:59 2016]  Kill: 0 0 39: ^0Ðàrk^2^1Qµàkè killed ^0Ðàrk^2^1Qµàkè by MOD_SUICIDE
+[Sun May 08 23:14:42 2016]  Kill: 1022 0 6: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_BLASTER
+[Sun May 08 23:15:12 2016]  Kill: 1022 0 6: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_BLASTER
+[Sun May 08 23:46:46 2016]  ClientDisconnect: 0
+[Mon May 09 05:24:31 2016]  ClientConnect: 0
+[Mon May 09 05:24:31 2016]  mlog:Player ^3M^0aple^4D^0rop, connected. With IP - 137.28.230.251:-5204 
+[Mon May 09 05:24:40 2016]  ClientBegin: 0
+[Mon May 09 05:25:11 2016]  ClientDisconnect: 0
+[Mon May 09 11:15:11 2016]  ClientConnect: 0
+[Mon May 09 11:15:11 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon May 09 11:15:25 2016]  ClientBegin: 0
+[Mon May 09 11:17:54 2016]  ClientDisconnect: 0
+[Mon May 09 11:21:41 2016]  ClientConnect: 0
+[Mon May 09 11:21:41 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon May 09 11:21:56 2016]  ClientBegin: 0
+[Mon May 09 11:22:09 2016]  ClientDisconnect: 0
+[Mon May 09 11:38:44 2016]  ClientConnect: 0
+[Mon May 09 11:38:44 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon May 09 11:38:58 2016]  ClientBegin: 0
+[Mon May 09 11:59:59 2016]  ClientDisconnect: 0
+[Mon May 09 12:01:30 2016]  ClientConnect: 0
+[Mon May 09 12:01:30 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon May 09 12:01:44 2016]  ClientBegin: 0
+[Mon May 09 12:04:10 2016]  ClientDisconnect: 0
+[Mon May 09 12:05:41 2016]  ClientConnect: 0
+[Mon May 09 12:05:41 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon May 09 12:05:56 2016]  ClientBegin: 0
+[Mon May 09 12:08:00 2016]  Kill: 1022 0 6: <world> killed ^0Ðàrk^2^1Qµàkè by MOD_BLASTER
+[Mon May 09 12:10:12 2016]  ClientDisconnect: 0
+[Mon May 09 12:12:39 2016]  ClientConnect: 0
+[Mon May 09 12:12:39 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon May 09 12:12:54 2016]  ClientBegin: 0
+[Mon May 09 12:16:03 2016]  ClientDisconnect: 0
+[Mon May 09 12:17:03 2016]  ClientConnect: 0
+[Mon May 09 12:17:03 2016]  mlog:Player ^0Ðàrk^2^1Qµàkè, connected. With IP - 192.168.1.2:29071 
+[Mon May 09 12:17:17 2016]  ClientBegin: 0
+[Mon May 09 12:21:36 2016]  ClientDisconnect: 0

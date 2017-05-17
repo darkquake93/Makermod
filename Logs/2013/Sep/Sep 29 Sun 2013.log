@@ -1,0 +1,675 @@
+[Sun Sep 29 00:17:02 2013]  ------------------------------------------------------------
+[Sun Sep 29 00:17:02 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 00:17:04 2013]  ClientConnect: 0
+[Sun Sep 29 00:17:22 2013]  ClientBegin: 0
+[Sun Sep 29 01:04:58 2013]  ClientConnect: 1
+[Sun Sep 29 01:04:58 2013]  mlog:Player Padawan, connected. With IP - 75.94.222.14:29070 
+[Sun Sep 29 01:05:21 2013]  ClientConnect: 2
+[Sun Sep 29 01:05:21 2013]  mlog:Player ^7T^2he^7Lonely.^2J^7awa, connected. With IP - 78.82.82.254:-6177 
+[Sun Sep 29 01:05:30 2013]  ClientBegin: 2
+[Sun Sep 29 01:06:33 2013]  ClientDisconnect: 2
+[Sun Sep 29 01:06:36 2013]  ClientBegin: 1
+[Sun Sep 29 01:06:40 2013]  say: newcomer: hi
+[Sun Sep 29 01:07:06 2013]  say: ^7Ghost^3True^7Capitalist: Hello
+[Sun Sep 29 01:08:03 2013]  print "^7Ghost^3True^7Capitalist^7 @@@PLRENAME ^7[^1REICH^7]^7^7Pony-^2killing^5-C
+"[Sun Sep 29 01:08:20 2013]  say: ^7[^1REICH^7]^7^7Pony-^2killing^5-C: ^1howdy
+[Sun Sep 29 01:08:36 2013]  say: ^7[^1REICH^7]^7^7Pony-^2killing^5-C: ?god
+[Sun Sep 29 01:08:56 2013]  say: newcomer: how
+[Sun Sep 29 01:09:00 2013]  say: newcomer: * hi
+[Sun Sep 29 01:09:01 2013]  say: ^7[^1REICH^7]^7^7Pony-^2killing^5-C: what do you mean?
+[Sun Sep 29 01:09:04 2013]  say: ^7[^1REICH^7]^7^7Pony-^2killing^5-C: oh
+[Sun Sep 29 01:09:07 2013]  say: ^7[^1REICH^7]^7^7Pony-^2killing^5-C: Hi
+[Sun Sep 29 01:09:27 2013]  print "^7[^1REICH^7]^7^7Pony-^2killing^5-C^7 @@@PLRENAME ^7[^1REICH^7]^7^7Pony^7^4^5Killer
+"[Sun Sep 29 01:09:58 2013]  Item: 0 weapon_blaster
+[Sun Sep 29 01:10:08 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: ^1He won't bite.
+[Sun Sep 29 01:10:34 2013]  say: newcomer: yes
+[Sun Sep 29 01:10:55 2013]  say: newcomer: i dont know, maybe you use notarget?
+[Sun Sep 29 01:11:01 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: No
+[Sun Sep 29 01:11:05 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: No notarget
+[Sun Sep 29 01:11:11 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: ^1It is a non-hostile npc
+[Sun Sep 29 01:13:05 2013]  Item: 1 weapon_repeater
+[Sun Sep 29 01:13:47 2013]  say: newcomer: are you use god?
+[Sun Sep 29 01:13:53 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: I use god
+[Sun Sep 29 01:13:54 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: yes.
+[Sun Sep 29 01:14:11 2013]  say: newcomer: ok)
+[Sun Sep 29 01:16:59 2013]  Exit: Timelimit hit.
+[Sun Sep 29 01:16:59 2013]  score: 14  ping: 77  client: 0 newcomer
+[Sun Sep 29 01:16:59 2013]  score: 0  ping: 227  client: 1 ^7[^1REICH^7]^7^7Pony^7^4^5Killer
+[Sun Sep 29 01:17:03 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: gg
+[Sun Sep 29 01:17:11 2013]  ShutdownGame:
+[Sun Sep 29 01:17:11 2013]  ------------------------------------------------------------
+[Sun Sep 29 01:17:11 2013]  ------------------------------------------------------------
+[Sun Sep 29 01:17:11 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 01:17:12 2013]  ClientConnect: 0
+[Sun Sep 29 01:17:12 2013]  ClientConnect: 1
+[Sun Sep 29 01:17:31 2013]  ClientBegin: 0
+[Sun Sep 29 01:17:34 2013]  say: newcomer: gg
+[Sun Sep 29 01:18:09 2013]  ClientBegin: 1
+[Sun Sep 29 01:18:24 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: explode
+[Sun Sep 29 01:18:25 2013]  Kill: 1 1 39: ^7[^1REICH^7]^7^7Pony^7^4^5Killer killed ^7[^1REICH^7]^7^7Pony^7^4^5Killer by MOD_SUICIDE
+[Sun Sep 29 01:19:26 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: origin?
+[Sun Sep 29 01:19:31 2013]  say: newcomer: My origin is: (-1556 -1170 -471) - You can teleport here with /mtelelast
+
+[Sun Sep 29 01:19:45 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: Nice.
+[Sun Sep 29 01:19:52 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: I like to create storym issions
+[Sun Sep 29 01:19:55 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: want to do that mate?
+[Sun Sep 29 01:20:02 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: I can build a maze with npc's and stuff
+[Sun Sep 29 01:20:08 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: and you fight threw it? no god mode, no cheats
+[Sun Sep 29 01:20:13 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: no scripts?
+[Sun Sep 29 01:20:53 2013]  say: newcomer: no, thanks)
+[Sun Sep 29 01:33:55 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: ^1HELP ME! MY HOUSE IS ON FIRE D:
+[Sun Sep 29 01:34:00 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: My origin is: (10960 -2858 -258) - You can teleport here with /mtelelast
+
+[Sun Sep 29 01:34:25 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: ^1try the windows!
+[Sun Sep 29 01:36:31 2013]  say: newcomer: cool :)
+[Sun Sep 29 01:36:44 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: ^1Danke
+[Sun Sep 29 01:37:49 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: windows on the side
+[Sun Sep 29 01:37:53 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: did you see them?
+[Sun Sep 29 01:38:17 2013]  say: newcomer: yes
+[Sun Sep 29 01:38:25 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: ^1welp
+[Sun Sep 29 01:38:29 2013]  say: ^7[^1REICH^7]^7^7Pony^7^4^5Killer: ^3im going to leave..
+[Sun Sep 29 01:38:53 2013]  ClientDisconnect: 1
+[Sun Sep 29 01:38:56 2013]  say: newcomer: bye
+[Sun Sep 29 01:47:25 2013]  ClientDisconnect: 0
+[Sun Sep 29 03:21:18 2013]  ------------------------------------------------------------
+[Sun Sep 29 03:21:18 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 04:21:12 2013]  Exit: Timelimit hit.
+[Sun Sep 29 07:29:35 2013]  ClientConnect: 0
+[Sun Sep 29 07:29:35 2013]  mlog:Player Padawan, connected. With IP - 46.39.244.66:-6645 
+[Sun Sep 29 07:29:59 2013]  ClientBegin: 0
+[Sun Sep 29 07:30:05 2013]  ShutdownGame:
+[Sun Sep 29 07:30:05 2013]  ------------------------------------------------------------
+[Sun Sep 29 07:30:06 2013]  ------------------------------------------------------------
+[Sun Sep 29 07:30:06 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\60\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 07:30:06 2013]  ClientConnect: 0
+[Sun Sep 29 07:30:20 2013]  ClientBegin: 0
+[Sun Sep 29 07:46:40 2013]  ClientDisconnect: 0
+[Sun Sep 29 08:30:05 2013]  Exit: Timelimit hit.
+[Sun Sep 29 09:19:42 2013]  ClientConnect: 0
+[Sun Sep 29 09:19:42 2013]  mlog:Player Padawan, connected. With IP - 46.39.244.66:-2960 
+[Sun Sep 29 09:19:54 2013]  ClientBegin: 0
+[Sun Sep 29 09:20:00 2013]  ShutdownGame:
+[Sun Sep 29 09:20:00 2013]  ------------------------------------------------------------
+[Sun Sep 29 09:20:01 2013]  ------------------------------------------------------------
+[Sun Sep 29 09:20:01 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\60\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 09:20:02 2013]  ClientConnect: 0
+[Sun Sep 29 09:20:12 2013]  ClientBegin: 0
+[Sun Sep 29 09:20:15 2013]  say: maxim: .ïùâ
+[Sun Sep 29 09:29:24 2013]  ClientDisconnect: 0
+[Sun Sep 29 10:20:00 2013]  Exit: Timelimit hit.
+[Sun Sep 29 12:25:14 2013]  ClientConnect: 0
+[Sun Sep 29 12:25:14 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.41:-12524 
+[Sun Sep 29 12:25:33 2013]  ClientBegin: 0
+[Sun Sep 29 12:25:35 2013]  ShutdownGame:
+[Sun Sep 29 12:25:35 2013]  ------------------------------------------------------------
+[Sun Sep 29 12:25:35 2013]  ------------------------------------------------------------
+[Sun Sep 29 12:25:35 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\60\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 12:25:36 2013]  ClientConnect: 0
+[Sun Sep 29 12:25:46 2013]  ClientBegin: 0
+[Sun Sep 29 12:26:19 2013]  ClientDisconnect: 0
+[Sun Sep 29 12:27:33 2013]  ClientConnect: 0
+[Sun Sep 29 12:27:33 2013]  mlog:Player ^3C^0I^3E^0N^3A, connected. With IP - 213.251.210.41:-10205 
+[Sun Sep 29 12:27:39 2013]  ClientBegin: 0
+[Sun Sep 29 12:28:38 2013]  ClientDisconnect: 0
+[Sun Sep 29 12:34:35 2013]  ClientConnect: 0
+[Sun Sep 29 12:34:35 2013]  mlog:Player DETH, connected. With IP - 213.251.210.41:-14683 
+[Sun Sep 29 12:34:41 2013]  ClientBegin: 0
+[Sun Sep 29 12:34:48 2013]  ClientDisconnect: 0
+[Sun Sep 29 12:35:54 2013]  ClientConnect: 0
+[Sun Sep 29 12:35:54 2013]  mlog:Player ^3C^0I^3E^0N^3A, connected. With IP - 213.251.210.41:-14683 
+[Sun Sep 29 12:36:00 2013]  ClientBegin: 0
+[Sun Sep 29 12:37:08 2013]  ClientDisconnect: 0
+[Sun Sep 29 12:38:23 2013]  ClientConnect: 0
+[Sun Sep 29 12:38:23 2013]  mlog:Player DETH, connected. With IP - 213.251.210.41:-14683 
+[Sun Sep 29 12:38:29 2013]  ClientBegin: 0
+[Sun Sep 29 12:40:34 2013]  ClientDisconnect: 0
+[Sun Sep 29 12:42:08 2013]  ClientConnect: 0
+[Sun Sep 29 12:42:08 2013]  mlog:Player ^3C^0I^3E^0N^3A, connected. With IP - 213.251.210.41:-1202 
+[Sun Sep 29 12:42:14 2013]  ClientBegin: 0
+[Sun Sep 29 12:42:19 2013]  ClientDisconnect: 0
+[Sun Sep 29 13:25:35 2013]  Exit: Timelimit hit.
+[Sun Sep 29 13:41:46 2013]  ClientConnect: 0
+[Sun Sep 29 13:41:46 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29070 
+[Sun Sep 29 13:42:06 2013]  ClientBegin: 0
+[Sun Sep 29 13:49:34 2013]  say: ^0ÐàrkQµàkè: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0ÐàrkQµàkè
+[Sun Sep 29 13:49:35 2013]  say: ^0ÐàrkQµàkè: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sun Sep 29 13:49:40 2013]  ShutdownGame:
+[Sun Sep 29 13:49:40 2013]  ------------------------------------------------------------
+[Sun Sep 29 13:49:41 2013]  ------------------------------------------------------------
+[Sun Sep 29 13:49:41 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\60\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 13:49:42 2013]  ClientConnect: 0
+[Sun Sep 29 13:49:56 2013]  ClientBegin: 0
+[Sun Sep 29 13:50:36 2013]  Kill: 0 0 39: ^0ÐàrkQµàkè killed ^0ÐàrkQµàkè by MOD_SUICIDE
+[Sun Sep 29 13:53:06 2013]  say: ^0ÐàrkQµàkè: sleep
+[Sun Sep 29 13:58:03 2013]  ClientDisconnect: 0
+[Sun Sep 29 14:04:16 2013]  ClientConnect: 0
+[Sun Sep 29 14:04:16 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29070 
+[Sun Sep 29 14:04:40 2013]  ClientBegin: 0
+[Sun Sep 29 14:04:40 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 14:05:58 2013]  ClientDisconnect: 0
+[Sun Sep 29 14:06:16 2013]  ClientConnect: 0
+[Sun Sep 29 14:06:16 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29070 
+[Sun Sep 29 14:06:41 2013]  ClientBegin: 0
+[Sun Sep 29 14:06:41 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 14:06:45 2013]  say: ^0ÐàrkQµàkè: test
+[Sun Sep 29 14:06:51 2013]  say: ^0ÐàrkQµàkè: !chatstyle darkquake
+[Sun Sep 29 14:06:51 2013]  tell: ^0ÐàrkQµàkè to ^0ÐàrkQµàkè: ^3Chatstyles ^2- ^7Chatstyle set to ^2Darkquake
+[Sun Sep 29 14:06:54 2013]  say: ^0ÐàrkQµàkè: ^0<<^4test^0>>
+[Sun Sep 29 14:52:49 2013]  ClientConnect: 1
+[Sun Sep 29 14:52:49 2013]  mlog:Player ^0Ny^1hm, connected. With IP - 83.10.233.254:-3282 
+[Sun Sep 29 14:53:29 2013]  ClientBegin: 1
+[Sun Sep 29 14:53:36 2013]  say: ^0Ny^1hm: hi
+[Sun Sep 29 14:53:40 2013]  say: ^0ÐàrkQµàkè: ^0<<^4hi^0>>
+[Sun Sep 29 14:54:23 2013]  say: ^0Ny^1hm: interesting set of shaders
+[Sun Sep 29 14:54:48 2013]  say: ^0ÐàrkQµàkè: ^0<<^4thx, my friend Exodus thought them up^0>>
+[Sun Sep 29 14:56:23 2013]  say: ^0Ny^1hm: somehow this platform reminds me of Force Unleashed.
+[Sun Sep 29 14:56:39 2013]  say: ^0ÐàrkQµàkè: ^0<<^4yeah :p^0>>
+[Sun Sep 29 14:56:45 2013]  say: ^0ÐàrkQµàkè: ^0<<^4I love those games^0>>
+[Sun Sep 29 14:56:52 2013]  say: ^0Ny^1hm: ^_^
+[Sun Sep 29 14:57:05 2013]  say: ^0ÐàrkQµàkè: ^0<<^4Hoping for a third one but I dunno now that Disney's taken over^0>>
+[Sun Sep 29 14:57:31 2013]  say: ^0Ny^1hm: right... they're planing CW season 6
+[Sun Sep 29 14:58:26 2013]  say: ^0ÐàrkQµàkè: ^0<<^4oh right^0>>
+[Sun Sep 29 14:58:53 2013]  say: ^0ÐàrkQµàkè: ^0<<^4I've barely watched any Clone Wars actually lol so that's a whole separate story I don't know about :p^0>>
+[Sun Sep 29 15:00:34 2013]  say: ^0Ny^1hm: he's what?
+[Sun Sep 29 15:00:37 2013]  say: ^0Ny^1hm: O.o
+[Sun Sep 29 15:00:38 2013]  say: ^0ÐàrkQµàkè: ^0<<^4trying to make the spawner go by the bacta tank^0>>
+[Sun Sep 29 15:00:44 2013]  say: ^0ÐàrkQµàkè: ^0<<^4He's a Jedi lol^0>>
+[Sun Sep 29 15:01:09 2013]  say: ^0Ny^1hm: ahhh yes after i watched s03e17 of CW i think that jedi is a problem of entrire war
+[Sun Sep 29 15:01:16 2013]  say: ^0ÐàrkQµàkè: ^0<<^4lol^0>>
+[Sun Sep 29 15:01:21 2013]  say: ^0Ny^1hm: its explained
+[Sun Sep 29 15:02:01 2013]  say: ^0ÐàrkQµàkè: ^0<<^4lol^0>>
+[Sun Sep 29 15:02:01 2013]  say: ^0Ny^1hm: :O
+[Sun Sep 29 15:02:10 2013]  say: ^0ÐàrkQµàkè: ^0<<^4I did npc kill all^0>>
+[Sun Sep 29 15:02:13 2013]  say: ^0ÐàrkQµàkè: ^0<<^4just after you kicked^0>>
+[Sun Sep 29 15:02:17 2013]  say: ^0Ny^1hm: xD
+[Sun Sep 29 15:02:23 2013]  say: ^0ÐàrkQµàkè: ^0<<^4anyway I had this working well..^0>>
+[Sun Sep 29 15:02:25 2013]  say: ^0ÐàrkQµàkè: ^0<<^4one sec^0>>
+[Sun Sep 29 15:02:48 2013]  say: ^0ÐàrkQµàkè: ^0<<^4that's a bit better^0>>
+[Sun Sep 29 15:03:04 2013]  say: ^0ÐàrkQµàkè: ^0<<^4the bacta tank goes down^0>>
+[Sun Sep 29 15:03:07 2013]  say: ^0ÐàrkQµàkè: ^0<<^4and the platform up^0>>
+[Sun Sep 29 15:03:28 2013]  say: ^0ÐàrkQµàkè: ^0<<^4so I just need the jedi to be in the center^0>>
+[Sun Sep 29 15:03:35 2013]  say: ^0ÐàrkQµàkè: ^0<<^4using mspawner^0>>
+[Sun Sep 29 15:04:03 2013]  say: ^0Ny^1hm: so i can't move in here :v
+[Sun Sep 29 15:04:10 2013]  say: ^0ÐàrkQµàkè: ^0<<^4not yet^0>>
+[Sun Sep 29 15:04:16 2013]  say: ^0ÐàrkQµàkè: ^0<<^4oh I think I'm onto something^0>>
+[Sun Sep 29 15:04:22 2013]  say: ^0ÐàrkQµàkè: ^0<<^4the catwalk should be a spawner now^0>>
+[Sun Sep 29 15:04:28 2013]  say: ^0ÐàrkQµàkè: ^0<<^4but I need a different destination^0>>
+[Sun Sep 29 15:04:34 2013]  say: ^0ÐàrkQµàkè: ^0<<^4watch, when I kill this guy^0>>
+[Sun Sep 29 15:04:40 2013]  say: ^0ÐàrkQµàkè: ^0<<^4he should respawn here^0>>
+[Sun Sep 29 15:04:50 2013]  say: ^0ÐàrkQµàkè: ^0<<^4:)^0>>
+[Sun Sep 29 15:04:51 2013]  say: ^0ÐàrkQµàkè: ^0<<^4good^0>>
+[Sun Sep 29 15:04:57 2013]  say: ^0ÐàrkQµàkè: ^0<<^4so I need him to spawn here^0>>
+[Sun Sep 29 15:05:03 2013]  say: ^0ÐàrkQµàkè: ^0<<^4by doing /mdest (position)^0>>
+[Sun Sep 29 15:05:32 2013]  say: ^0Ny^1hm: so after mdest i could write position?! >.<
+[Sun Sep 29 15:05:45 2013]  say: ^0ÐàrkQµàkè: ^0<<^4It's my script :p^0>>
+[Sun Sep 29 15:05:49 2013]  say: ^0ÐàrkQµàkè: ^0<<^4so I decide the position^0>>
+[Sun Sep 29 15:05:58 2013]  say: ^0ÐàrkQµàkè: ^0<<^4but I'll teach you to make your own spawner soon if you like^0>>
+[Sun Sep 29 15:06:10 2013]  say: ^0ÐàrkQµàkè: ^0<<^4dad's gonna help me move my website to a local machine today^0>>
+[Sun Sep 29 15:06:19 2013]  say: ^0ÐàrkQµàkè: ^0<<^4and after that I'll add tutorials etc for beginners^0>>
+[Sun Sep 29 15:06:21 2013]  say: ^0Ny^1hm: ik i just didn't know that you can make mdest x y z
+[Sun Sep 29 15:06:27 2013]  say: ^0ÐàrkQµàkè: ^0<<^4well^0>>
+[Sun Sep 29 15:06:28 2013]  say: ^0Ny^1hm: only mdest your pos
+[Sun Sep 29 15:06:47 2013]  say: ^0ÐàrkQµàkè: ^0<<^4it's the destination for the objects^0>>
+[Sun Sep 29 15:06:51 2013]  say: ^0ÐàrkQµàkè: ^0<<^4it's under /minfo wip^0>>
+[Sun Sep 29 15:07:17 2013]  say: ^0ÐàrkQµàkè: ^0<<^4there :p^0>>
+[Sun Sep 29 15:07:22 2013]  say: ^0ÐàrkQµàkè: ^0<<^4so far so good^0>>
+[Sun Sep 29 15:07:34 2013]  say: ^0Ny^1hm: does jawa model allowed?
+[Sun Sep 29 15:07:37 2013]  say: ^0ÐàrkQµàkè: ^0<<^4hm can no longer move the catwalk though^0>>
+[Sun Sep 29 15:07:41 2013]  say: ^0ÐàrkQµàkè: ^0<<^4yeah any npc model^0>>
+[Sun Sep 29 15:07:44 2013]  say: ^0Ny^1hm: ^0Ja^1wa ^3mode ^2activated
+[Sun Sep 29 15:07:50 2013]  say: ^0Ny^1hm: :O
+[Sun Sep 29 15:08:14 2013]  say: ^0ÐàrkQµàkè: ^0<<^4lol how are you making the jawa sounds?^0>>
+[Sun Sep 29 15:08:21 2013]  say: ^0Ny^1hm: D: secret
+[Sun Sep 29 15:08:31 2013]  say: ^0ÐàrkQµàkè: ^0<<^4cmon this game is so old now^0>>
+[Sun Sep 29 15:08:35 2013]  say: ^0Ny^1hm: im making objs
+[Sun Sep 29 15:08:36 2013]  say: ^0ÐàrkQµàkè: ^0<<^4it's unfair to keep secrets :p^0>>
+[Sun Sep 29 15:08:38 2013]  say: ^0Ny^1hm: :P
+[Sun Sep 29 15:08:49 2013]  say: ^0Ny^1hm: msound or something like that
+[Sun Sep 29 15:08:55 2013]  say: ^0ÐàrkQµàkè: ^0<<^4oh right^0>>
+[Sun Sep 29 15:09:41 2013]  say: ^0Ny^1hm: sry
+[Sun Sep 29 15:09:52 2013]  say: ^0ÐàrkQµàkè: ^0<<^4I haven't heard of msound or a similar command^0>>
+[Sun Sep 29 15:09:56 2013]  say: ^0Ny^1hm: ^0Build^1er ^3mode ^2activated
+[Sun Sep 29 15:09:57 2013]  say: ^0Ny^1hm: ^0Storm^1trooper ^3mode ^2activated
+[Sun Sep 29 15:10:22 2013]  say: ^0ÐàrkQµàkè: ^0<<^4gotta fix this catwalk^0>>
+[Sun Sep 29 15:10:57 2013]  say: ^0Ny^1hm: sript...
+[Sun Sep 29 15:11:00 2013]  say: ^0Ny^1hm: msaveobs Nyhm wasthere;;mplacefx tripmine/glowbit 100000; mdrop; mtouchable;msoundsw chars\stofficer1\misc\suspicious5 ;mplacefx tripmine/glowbit 100
+[Sun Sep 29 15:11:05 2013]  say: ^0Ny^1hm: xD
+[Sun Sep 29 15:11:10 2013]  say: ^0Ny^1hm: forgot pass
+[Sun Sep 29 15:11:11 2013]  say: ^0ÐàrkQµàkè: ^0<<^4ahh I see^0>>
+[Sun Sep 29 15:11:13 2013]  say: ^0ÐàrkQµàkè: ^0<<^4sound switch^0>>
+[Sun Sep 29 15:11:42 2013]  say: ^0ÐàrkQµàkè: ^0<<^4haha^0>>
+[Sun Sep 29 15:11:53 2013]  say: ^0ÐàrkQµàkè: ^0<<^4I recommend to use scripts for all your building^0>>
+[Sun Sep 29 15:12:02 2013]  say: ^0ÐàrkQµàkè: ^0<<^4cause yeah if you forget a saveobs pass then it's just lost^0>>
+[Sun Sep 29 15:12:07 2013]  say: ^0Ny^1hm: but u have to make two objs, or other players wouldn't hear u
+[Sun Sep 29 15:12:44 2013]  say: ^0Ny^1hm: xD
+[Sun Sep 29 15:13:04 2013]  say: ^0Ny^1hm: huh?
+[Sun Sep 29 15:13:09 2013]  say: ^0ÐàrkQµàkè: ^0<<^4what?^0>>
+[Sun Sep 29 15:13:19 2013]  say: ^0ÐàrkQµàkè: ^0<<^4yeah it's not all ready yet^0>>
+[Sun Sep 29 15:13:21 2013]  say: ^0ÐàrkQµàkè: ^0<<^4ofc^0>>
+[Sun Sep 29 15:13:27 2013]  say: ^0ÐàrkQµàkè: ^0<<^4I'm gonna put the bacta higher^0>>
+[Sun Sep 29 15:13:32 2013]  say: ^0ÐàrkQµàkè: ^0<<^4but first I'm fixing the catwalk^0>>
+[Sun Sep 29 15:13:41 2013]  say: ^0Ny^1hm: its broken >.<
+[Sun Sep 29 15:13:46 2013]  say: ^0ÐàrkQµàkè: ^0<<^4yeah I'm working on it^0>>
+[Sun Sep 29 15:13:52 2013]  say: ^0ÐàrkQµàkè: ^0<<^4I need one catwalk to be the spawner^0>>
+[Sun Sep 29 15:13:57 2013]  say: ^0ÐàrkQµàkè: ^0<<^4and another to be the platform^0>>
+[Sun Sep 29 15:15:39 2013]  say: ^0Ny^1hm: he have to die
+[Sun Sep 29 15:15:48 2013]  say: ^0ÐàrkQµàkè: ^0<<^4lol^0>>
+[Sun Sep 29 15:16:46 2013]  say: ^0ÐàrkQµàkè: ^0<<^4Oh I think I know how to fix it^0>>
+[Sun Sep 29 15:18:02 2013]  say: ^0Ny^1hm: why clone troopers look so dumb, i liked clone troopers constumes
+[Sun Sep 29 15:18:06 2013]  say: ^0Ny^1hm: D:
+[Sun Sep 29 15:18:19 2013]  say: ^0Ny^1hm: w8 what?
+[Sun Sep 29 15:18:27 2013]  say: ^0ÐàrkQµàkè: ^0<<^4haven't changed that^0>>
+[Sun Sep 29 15:18:32 2013]  say: ^0ÐàrkQµàkè: ^0<<^4I'm trying to fix the 2nd switch^0>>
+[Sun Sep 29 15:18:40 2013]  say: ^0ÐàrkQµàkè: ^0<<^4I'm testing a connection to this platform^0>>
+[Sun Sep 29 15:18:46 2013]  say: ^0ÐàrkQµàkè: ^0<<^4then gonna move it into the bacta tank^0>>
+[Sun Sep 29 15:19:09 2013]  -8<------- Crash Information ------->8-
+[Sun Sep 29 15:19:09 2013]      Please forward to Scooper 
+[Sun Sep 29 15:19:09 2013]  ---------------------------------------
+[Sun Sep 29 15:19:09 2013]  Version: MakerMod Win32
+[Sun Sep 29 15:19:09 2013]  Build Date: Dec 27 2010[Sun Sep 29 15:19:09 2013]  Build Time: 23:45:02[Sun Sep 29 15:19:09 2013]  Map: t2_trip
+[Sun Sep 29 15:19:09 2013]  Exception: Access violation (0xc0000005)
+[Sun Sep 29 15:19:09 2013]  Exception Address: 0x200616df
+[Sun Sep 29 15:19:09 2013]  DLL Information:
+[Sun Sep 29 15:19:09 2013]  0x00400000	jampDed
+[Sun Sep 29 15:19:09 2013]  0x77380000	ntdll
+[Sun Sep 29 15:19:09 2013]  0x75390000	kernel32
+[Sun Sep 29 15:19:09 2013]  0x769b0000	KERNELBASE
+[Sun Sep 29 15:19:09 2013]  0x721c0000	WSOCK32
+[Sun Sep 29 15:19:09 2013]  0x74b90000	WS2_32
+[Sun Sep 29 15:19:09 2013]  0x76a00000	msvcrt
+[Sun Sep 29 15:19:09 2013]  0x74d70000	RPCRT4
+[Sun Sep 29 15:19:09 2013]  0x74a60000	SspiCli
+[Sun Sep 29 15:19:09 2013]  0x74a50000	CRYPTBASE
+[Sun Sep 29 15:19:09 2013]  0x75c20000	sechost
+[Sun Sep 29 15:19:09 2013]  0x75c40000	NSI
+[Sun Sep 29 15:19:09 2013]  0x717a0000	WINMM
+[Sun Sep 29 15:19:09 2013]  0x75080000	USER32
+[Sun Sep 29 15:19:09 2013]  0x74fe0000	GDI32
+[Sun Sep 29 15:19:09 2013]  0x75070000	LPK
+[Sun Sep 29 15:19:09 2013]  0x75220000	USP10
+[Sun Sep 29 15:19:09 2013]  0x74ac0000	ADVAPI32
+[Sun Sep 29 15:19:09 2013]  0x755c0000	IMM32
+[Sun Sep 29 15:19:09 2013]  0x752c0000	MSCTF
+[Sun Sep 29 15:19:09 2013]  0x72160000	mswsock
+[Sun Sep 29 15:19:09 2013]  0x72150000	wshtcpip
+[Sun Sep 29 15:19:09 2013]  0x6e920000	NLAapi
+[Sun Sep 29 15:19:09 2013]  0x6dce0000	napinsp
+[Sun Sep 29 15:19:09 2013]  0x6d0e0000	pnrpnsp
+[Sun Sep 29 15:19:09 2013]  0x718a0000	DNSAPI
+[Sun Sep 29 15:19:09 2013]  0x6d0d0000	winrnr
+[Sun Sep 29 15:19:09 2013]  0x6cf60000	WLIDNSP
+[Sun Sep 29 15:19:09 2013]  0x77350000	PSAPI
+[Sun Sep 29 15:19:09 2013]  0x74e60000	SHLWAPI
+[Sun Sep 29 15:19:09 2013]  0x6cf50000	wshbth
+[Sun Sep 29 15:19:09 2013]  0x6ce40000	mdnsNSP
+[Sun Sep 29 15:19:09 2013]  0x71fe0000	Iphlpapi
+[Sun Sep 29 15:19:09 2013]  0x71fd0000	WINNSI
+[Sun Sep 29 15:19:09 2013]  0x6cf90000	fwpuclnt
+[Sun Sep 29 15:19:09 2013]  0x6cf40000	rasadhlp
+[Sun Sep 29 15:19:09 2013]  0x20000000	jampgamex86
+[Sun Sep 29 15:19:09 2013]  0x74b60000	IMAGEHLP
+[Sun Sep 29 15:19:09 2013]  0x6bc60000	dbghelp
+[Sun Sep 29 15:19:09 2013]  Backtrace:
+[Sun Sep 29 15:19:09 2013]  (0) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x200616df]
+[Sun Sep 29 15:19:09 2013]  (1) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x2005d987]
+[Sun Sep 29 15:19:09 2013]  (2) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x200699f9]
+[Sun Sep 29 15:19:09 2013]  (3) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll [0x20080f42]
+[Sun Sep 29 15:19:09 2013]  (4) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(vmMain+0xca) [0x2009f63a]
+[Sun Sep 29 15:19:09 2013]  (5) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x004226ff]
+[Sun Sep 29 15:19:09 2013]  (6) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0043c45e]
+[Sun Sep 29 15:19:09 2013]  (7) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x00444213]
+[Sun Sep 29 15:19:09 2013]  (8) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0043c45e]
+[Sun Sep 29 15:19:09 2013]  (9) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x00444213]
+[Sun Sep 29 15:19:09 2013]  (10) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0043c1e0]
+[Sun Sep 29 15:19:09 2013]  (11) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\jampDed.exe [0x0044c751]
+[Sun Sep 29 15:19:09 2013]  (12) Unknown [0x64656420]
+[Sun Sep 29 15:19:09 2013]  (13) Unknown [0x74616369]
+[Sun Sep 29 15:19:09 2013]  (14) Unknown [0x32206465]
+[Sun Sep 29 15:19:09 2013]  (15) Unknown [0x65730020]
+[Sun Sep 29 15:19:09 2013]  (16) Unknown [0x73662074]
+[Sun Sep 29 15:19:09 2013]  (17) Unknown [0x6d61675f]
+[Sun Sep 29 15:19:09 2013]  (18) Unknown [0x616d2065]
+[Sun Sep 29 15:19:09 2013]  (19) Unknown [0x6d72656b]
+[Sun Sep 29 15:19:09 2013]  (20) Unknown [0x0020646f]
+[Sun Sep 29 15:19:09 2013]  (21) Unknown [0x63657865]
+[Sun Sep 29 15:19:09 2013]  (22) Unknown [0x6b616d20]
+[Sun Sep 29 15:19:09 2013]  (23) Unknown [0x6f6d7265]
+[Sun Sep 29 15:19:09 2013]  (24) Unknown [0x66632e64]
+[Sun Sep 29 15:19:09 2013]  (25) Unknown [0x73002067]
+[Sun Sep 29 15:19:09 2013]  (26) Unknown [0x6e207465]
+[Sun Sep 29 15:19:09 2013]  (27) Unknown [0x705f7465]
+[Sun Sep 29 15:19:09 2013]  (28) I:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\makermod\jampgamex86.dll(dllEntry+0x68549f) [0x2074726f]
+[Sun Sep 29 15:19:09 2013]  (29) Unknown [0x37303932]
+[Sun Sep 29 15:19:09 2013]  -8<--------------------------------->8-
+
+[Sun Sep 29 15:19:09 2013]  Attempting to clean up.
+[Sun Sep 29 15:19:09 2013]  ShutdownGame:
+[Sun Sep 29 15:19:09 2013]  ------------------------------------------------------------
+[Sun Sep 29 15:19:10 2013]  ------------------------------------------------------------
+[Sun Sep 29 15:19:10 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 15:19:29 2013]  ClientConnect: 0
+[Sun Sep 29 15:19:29 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29070 
+[Sun Sep 29 15:19:34 2013]  ClientBegin: 0
+[Sun Sep 29 15:19:34 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 15:19:55 2013]  ClientConnect: 1
+[Sun Sep 29 15:19:55 2013]  mlog:Player ^0Ny^1hm, connected. With IP - 83.10.233.254:-3282 
+[Sun Sep 29 15:20:09 2013]  ClientBegin: 1
+[Sun Sep 29 15:20:16 2013]  say: ^0Ny^1hm: what happend?
+[Sun Sep 29 15:20:25 2013]  say: ^0ÐàrkQµàkè: ^0<<^4sorry I dunno^0>>
+[Sun Sep 29 15:20:33 2013]  say: ^0ÐàrkQµàkè: ^0<<^4lost connection on client, but the server didn't crash^0>>
+[Sun Sep 29 15:24:22 2013]  say: ^0Ny^1hm: will this protect him?
+[Sun Sep 29 15:24:35 2013]  say: ^0Ny^1hm: no?
+[Sun Sep 29 15:25:14 2013]  say: ^0Ny^1hm: w8! I though that he's spawning with ...
+[Sun Sep 29 15:25:38 2013]  say: ^0Ny^1hm: musable
+[Sun Sep 29 15:25:43 2013]  say: ^0ÐàrkQµàkè: ^0<<^4no^0>>
+[Sun Sep 29 15:25:48 2013]  say: ^0ÐàrkQµàkè: ^0<<^4he's spawning with mspawner^0>>
+[Sun Sep 29 15:25:56 2013]  say: ^0ÐàrkQµàkè: ^0<<^4you can make an object keep spawning an npc^0>>
+[Sun Sep 29 15:26:06 2013]  say: ^0ÐàrkQµàkè: ^0<<^4so that's what the bacta tank does^0>>
+[Sun Sep 29 15:26:06 2013]  say: ^0Ny^1hm: ik
+[Sun Sep 29 15:28:05 2013]  say: ^0ÐàrkQµàkè: ^0<<^4ok finally^0>>
+[Sun Sep 29 15:28:15 2013]  say: ^0ÐàrkQµàkè: ^0<<^4one for the platform^0>>
+[Sun Sep 29 15:28:18 2013]  say: ^0ÐàrkQµàkè: ^0<<^4another for the bacta tank^0>>
+[Sun Sep 29 15:28:21 2013]  say: ^0ÐàrkQµàkè: ^0<<^4and he keeps spawning^0>>
+[Sun Sep 29 15:28:31 2013]  say: ^0ÐàrkQµàkè: ^0<<^4so now to just move the platform in place^0>>
+[Sun Sep 29 15:28:52 2013]  say: ^0ÐàrkQµàkè: ^0<<^4and the bacta tank higher^0>>
+[Sun Sep 29 15:30:52 2013]  say: ^0Ny^1hm: ups
+[Sun Sep 29 15:31:42 2013]  say: ^0ÐàrkQµàkè: ^0<<^4bit better^0>>
+[Sun Sep 29 15:31:44 2013]  say: ^0Ny^1hm: do npc kill all
+[Sun Sep 29 15:31:56 2013]  say: ^0ÐàrkQµàkè: ^0<<^4lol my switch..^0>>
+[Sun Sep 29 15:32:22 2013]  say: ^0ÐàrkQµàkè: ^0<<^4oh I see why^0>>
+[Sun Sep 29 15:32:23 2013]  say: ^0ÐàrkQµàkè: ^0<<^4my bad^0>>
+[Sun Sep 29 15:32:33 2013]  say: ^0Ny^1hm: its not moving
+[Sun Sep 29 15:33:33 2013]  say: ^0ÐàrkQµàkè: ^0<<^4that's good^0>>
+[Sun Sep 29 15:33:58 2013]  say: ^0ÐàrkQµàkè: ^0<<^4almost got it^0>>
+[Sun Sep 29 15:34:59 2013]  say: ^0ÐàrkQµàkè: ^0<<^4lol..^0>>
+[Sun Sep 29 15:35:22 2013]  ClientConnect: 2
+[Sun Sep 29 15:35:22 2013]  mlog:Player Maestro Hispano ^3Amras, connected. With IP - 85.219.4.121:29070 
+[Sun Sep 29 15:35:27 2013]  say: ^0ÐàrkQµàkè: ^0<<^4Ok I guess the bacta tank can't be a platform and a spawner^0>>
+[Sun Sep 29 15:35:32 2013]  say: ^0ÐàrkQµàkè: ^0<<^4I'll go back to a catwalk^0>>
+[Sun Sep 29 15:35:44 2013]  ClientBegin: 2
+[Sun Sep 29 15:35:55 2013]  say: Maestro Hispano ^3Amras: hola hi
+[Sun Sep 29 15:36:01 2013]  say: ^0ÐàrkQµàkè: ^0<<^4hello^0>>
+[Sun Sep 29 15:36:04 2013]  say: ^0Ny^1hm: hi
+[Sun Sep 29 15:36:28 2013]  say: ^0Ny^1hm: o.o
+[Sun Sep 29 15:36:38 2013]  say: ^0Ny^1hm: i though its spawning another after he dies
+[Sun Sep 29 15:36:45 2013]  say: ^0ÐàrkQµàkè: ^0<<^4it is^0>>
+[Sun Sep 29 15:36:59 2013]  say: ^0Ny^1hm: nope
+[Sun Sep 29 15:37:01 2013]  say: Maestro Hispano ^3Amras: where are u? xD
+[Sun Sep 29 15:37:07 2013]  say: ^0ÐàrkQµàkè: ^0<<^4well a bit buggy^0>>
+[Sun Sep 29 15:37:10 2013]  say: ^0ÐàrkQµàkè: My origin is: (13255 7798 1592) - You can teleport here with /mtelelast
+
+[Sun Sep 29 15:37:22 2013]  say: ^0ÐàrkQµàkè: ^0<<^4lol :p^0>>
+[Sun Sep 29 15:37:25 2013]  say: Maestro Hispano ^3Amras: xDDDDDDDDDDDDDDDD
+[Sun Sep 29 15:38:04 2013]  say: ^0Ny^1hm: >.<
+[Sun Sep 29 15:38:22 2013]  say: ^0Ny^1hm: this rocks are cheap
+[Sun Sep 29 15:38:24 2013]  say: ^0Ny^1hm: >.<
+[Sun Sep 29 15:38:50 2013]  say: ^0Ny^1hm: that will...
+[Sun Sep 29 15:38:51 2013]  say: ^0Ny^1hm: what?
+[Sun Sep 29 15:40:30 2013]  Item: 2 item_ysalimari
+[Sun Sep 29 15:40:30 2013]  Item: 2 item_ysalimari
+[Sun Sep 29 15:40:30 2013]  Item: 2 item_ysalimari
+[Sun Sep 29 15:40:30 2013]  Item: 2 item_ysalimari
+[Sun Sep 29 15:40:30 2013]  Item: 2 item_ysalimari
+[Sun Sep 29 15:40:31 2013]  Item: 2 item_ysalimari
+[Sun Sep 29 15:40:31 2013]  Item: 2 item_ysalimari
+[Sun Sep 29 15:40:31 2013]  Item: 2 item_ysalimari
+[Sun Sep 29 15:40:31 2013]  Item: 2 item_ysalimari
+[Sun Sep 29 15:40:31 2013]  Item: 2 item_ysalimari
+[Sun Sep 29 15:40:52 2013]  say: ^0Ny^1hm: what?
+[Sun Sep 29 15:41:25 2013]  say: ^0Ny^1hm: to much?
+[Sun Sep 29 15:41:29 2013]  say: ^0ÐàrkQµàkè: ^0<<^4yeah^0>>
+[Sun Sep 29 15:41:48 2013]  say: ^0ÐàrkQµàkè: ^0<<^4alright that's good^0>>
+[Sun Sep 29 15:42:00 2013]  say: ^0Ny^1hm: ohhh he's going to glitch...
+[Sun Sep 29 15:42:01 2013]  Kill: 1022 0 2: <world> killed ^0ÐàrkQµàkè by MOD_MELEE
+[Sun Sep 29 15:42:05 2013]  say: ^0ÐàrkQµàkè: ^0<<^4yeah I know :p^0>>
+[Sun Sep 29 15:43:54 2013]  say: ^0ÐàrkQµàkè: ^0<<^4this is good^0>>
+[Sun Sep 29 15:44:02 2013]  Kill: 2 0 5: Maestro Hispano ^3Amras killed ^0ÐàrkQµàkè by MOD_BRYAR_PISTOL_ALT
+[Sun Sep 29 15:44:02 2013]  tell: ^0ÐàrkQµàkè to Maestro Hispano ^3Amras: ^2^7Maestro Hispano ^3Amras, ^7you killed me
+[Sun Sep 29 15:44:04 2013]  say: Maestro Hispano ^3Amras: lol
+[Sun Sep 29 15:44:05 2013]  say: Maestro Hispano ^3Amras: sry
+[Sun Sep 29 15:44:08 2013]  say: ^0Ny^1hm: -_-
+[Sun Sep 29 15:44:11 2013]  say: ^0ÐàrkQµàkè: ^0<<^4np :p^0>>
+[Sun Sep 29 15:44:13 2013]  say: ^0ÐàrkQµàkè: ^0<<^4god on now haha^0>>
+[Sun Sep 29 15:44:20 2013]  say: Maestro Hispano ^3Amras: hahahahhahahah 
+[Sun Sep 29 15:46:47 2013]  say: ^0Ny^1hm: xD
+[Sun Sep 29 15:46:56 2013]  say: ^0ÐàrkQµàkè: ^0<<^4hm so it doesn't move him up lol^0>>
+[Sun Sep 29 15:47:00 2013]  say: ^0Ny^1hm: no
+[Sun Sep 29 15:47:04 2013]  say: ^0ÐàrkQµàkè: ^0<<^4but it moves him down..^0>>
+[Sun Sep 29 15:47:05 2013]  say: ^0Ny^1hm: i just moved both
+[Sun Sep 29 15:47:06 2013]  say: ^0ÐàrkQµàkè: ^0<<^4strange^0>>
+[Sun Sep 29 15:47:10 2013]  say: ^0ÐàrkQµàkè: ^0<<^4ohh^0>>
+[Sun Sep 29 15:47:12 2013]  say: ^0ÐàrkQµàkè: ^0<<^4right^0>>
+[Sun Sep 29 15:47:20 2013]  say: ^0Ny^1hm: o.o
+[Sun Sep 29 15:47:25 2013]  say: ^0Ny^1hm: maybe ur right
+[Sun Sep 29 15:47:27 2013]  say: ^0ÐàrkQµàkè: ^0<<^4bacta should still be a bit higher^0>>
+[Sun Sep 29 15:47:31 2013]  say: ^0ÐàrkQµàkè: ^0<<^4nah it's working well^0>>
+[Sun Sep 29 15:47:41 2013]  say: ^0ÐàrkQµàkè: ^0<<^4just a few other changes^0>>
+[Sun Sep 29 15:47:53 2013]  say: ^0ÐàrkQµàkè: ^0<<^4ok so he spawns there^0>>
+[Sun Sep 29 15:48:03 2013]  say: ^0Ny^1hm: kill all?
+[Sun Sep 29 15:49:11 2013]  say: ^0ÐàrkQµàkè: ^0<<^4almost^0>>
+[Sun Sep 29 15:49:11 2013]  say: ^0Ny^1hm: where's platform?
+[Sun Sep 29 15:49:15 2013]  say: ^0ÐàrkQµàkè: ^0<<^4it's here^0>>
+[Sun Sep 29 15:49:18 2013]  say: ^0ÐàrkQµàkè: ^0<<^4it's meant to be really tiny^0>>
+[Sun Sep 29 15:49:24 2013]  say: ^0ÐàrkQµàkè: ^0<<^4look^0>>
+[Sun Sep 29 15:49:28 2013]  say: ^0Ny^1hm: ohh
+[Sun Sep 29 15:49:29 2013]  say: ^0ÐàrkQµàkè: ^0<<^4two really small catwalks^0>>
+[Sun Sep 29 15:49:29 2013]  say: ^0Ny^1hm: xD
+[Sun Sep 29 15:49:31 2013]  say: ^0ÐàrkQµàkè: ^0<<^4one is the spawner^0>>
+[Sun Sep 29 15:49:35 2013]  say: ^0ÐàrkQµàkè: ^0<<^4the other the platform :)^0>>
+[Sun Sep 29 15:49:46 2013]  say: ^0ÐàrkQµàkè: ^0<<^4wait for it^0>>
+[Sun Sep 29 15:49:52 2013]  say: ^0Ny^1hm: xD
+[Sun Sep 29 15:49:54 2013]  say: ^0Ny^1hm: like a fly
+[Sun Sep 29 15:50:02 2013]  say: ^0ÐàrkQµàkè: ^0<<^4hm he's not spawning^0>>
+[Sun Sep 29 15:51:01 2013]  say: ^0Ny^1hm: ^0Fo^1rce ^3mode ^2activated
+[Sun Sep 29 15:51:52 2013]  say: ^0ÐàrkQµàkè: ^0<<^4siiiigh^0>>
+[Sun Sep 29 15:52:04 2013]  say: ^0ÐàrkQµàkè: ^0<<^4oh I see^0>>
+[Sun Sep 29 15:52:08 2013]  say: ^0ÐàrkQµàkè: ^0<<^4he is actually there^0>>
+[Sun Sep 29 15:52:15 2013]  say: ^0ÐàrkQµàkè: ^0<<^4but I've executed the script too many times^0>>
+[Sun Sep 29 15:52:21 2013]  say: ^0Ny^1hm: hehe
+[Sun Sep 29 15:52:23 2013]  say: ^0ÐàrkQµàkè: ^0<<^4sometimes things go invisible^0>>
+[Sun Sep 29 15:52:40 2013]  say: ^0ÐàrkQµàkè: ^0<<^4goood^0>>
+[Sun Sep 29 15:52:41 2013]  say: ^0ÐàrkQµàkè: ^0<<^4ok watch^0>>
+[Sun Sep 29 15:52:44 2013]  say: ^0ÐàrkQµàkè: ^0<<^4wait^0>>
+[Sun Sep 29 15:52:48 2013]  say: ^0ÐàrkQµàkè: ^0<<^4my switch is gone..^0>>
+[Sun Sep 29 15:53:32 2013]  say: ^0ÐàrkQµàkè: ^0<<^4wooo^0>>
+[Sun Sep 29 15:53:33 2013]  say: ^0ÐàrkQµàkè: ^0<<^4success^0>>
+[Sun Sep 29 15:53:39 2013]  say: ^0Ny^1hm: xD
+[Sun Sep 29 15:53:47 2013]  say: ^0ÐàrkQµàkè: ^0<<^4ok that's a good milestone^0>>
+[Sun Sep 29 15:53:52 2013]  say: ^0ÐàrkQµàkè: ^0<<^4gonna have lunch an I'll be back^0>>
+[Sun Sep 29 15:54:14 2013]  say: ^0ÐàrkQµàkè: ^0<<^4Here's the whole base now :)^0>>
+[Sun Sep 29 15:54:32 2013]  say: ^0Ny^1hm: why is this block's down on just 3s?
+[Sun Sep 29 15:54:49 2013]  say: ^0Ny^1hm: damn
+[Sun Sep 29 15:54:49 2013]  say: ^0ÐàrkQµàkè: ^0<<^4what?^0>>
+[Sun Sep 29 15:55:15 2013]  say: ^0Ny^1hm: he was invisible..
+[Sun Sep 29 15:55:22 2013]  say: ^0ÐàrkQµàkè: ^0<<^4no he was here^0>>
+[Sun Sep 29 15:55:31 2013]  say: ^0ÐàrkQµàkè: ^0<<^4press the switch twice^0>>
+[Sun Sep 29 15:55:37 2013]  say: ^0ÐàrkQµàkè: ^0<<^4there's a first time activation thing^0>>
+[Sun Sep 29 15:55:53 2013]  say: ^0ÐàrkQµàkè: ^0<<^4meh^0>>
+[Sun Sep 29 15:55:56 2013]  say: ^0ÐàrkQµàkè: ^0<<^4I'll fix it later^0>>
+[Sun Sep 29 15:55:59 2013]  say: ^0ÐàrkQµàkè: ^0<<^4but had it working..^0>>
+[Sun Sep 29 15:56:02 2013]  say: ^0ÐàrkQµàkè: ^0<<^4cya l8r^0>>
+[Sun Sep 29 15:56:08 2013]  say: ^0Ny^1hm: b
+[Sun Sep 29 15:56:11 2013]  say: ^0Ny^1hm: bb
+[Sun Sep 29 15:56:59 2013]  ClientConnect: 3
+[Sun Sep 29 15:56:59 2013]  mlog:Player ^4Rra^3zv^2^1an1, connected. With IP - 83.166.208.200:-911 
+[Sun Sep 29 15:57:32 2013]  ClientBegin: 3
+[Sun Sep 29 15:57:38 2013]  say: Maestro Hispano ^3Amras: hola hi
+[Sun Sep 29 15:58:06 2013]  Kill: 3 3 39: ^3^4Sky^1Terror killed ^3^4Sky^1Terror by MOD_SUICIDE
+[Sun Sep 29 15:58:38 2013]  say: ^3^4Sky^1Terror: -mempower
+[Sun Sep 29 15:58:44 2013]  say: Maestro Hispano ^3Amras: xD can u see me?
+[Sun Sep 29 15:59:09 2013]  Kill: 2 2 39: Maestro Hispano ^3Amras killed Maestro Hispano ^3Amras by MOD_SUICIDE
+[Sun Sep 29 15:59:49 2013]  Kill: 1022 2 2: <world> killed Maestro Hispano ^3Amras by MOD_MELEE
+[Sun Sep 29 16:00:04 2013]  say: ^3^4Sky^1Terror: -npc spawn vehicle
+[Sun Sep 29 16:00:04 2013]  say: ^0Ny^1hm: disco...
+[Sun Sep 29 16:00:07 2013]  ClientDisconnect: 1
+[Sun Sep 29 16:00:11 2013]  say: Maestro Hispano ^3Amras: /q...
+[Sun Sep 29 16:01:04 2013]  ClientDisconnect: 3
+[Sun Sep 29 16:08:56 2013]  Kill: 2 2 39: Maestro Hispano ^3Amras killed Maestro Hispano ^3Amras by MOD_SUICIDE
+[Sun Sep 29 16:11:18 2013]  ClientDisconnect: 2
+[Sun Sep 29 16:39:51 2013]  say: ^0ÐàrkQµàkè: ^0<<^4!remaps^0>>
+[Sun Sep 29 16:43:28 2013]  ClientDisconnect: 0
+[Sun Sep 29 16:47:27 2013]  ClientConnect: 0
+[Sun Sep 29 16:47:27 2013]  mlog:Player ^0ÐàrkQµàkè, connected. With IP - 192.168.1.3:29070 
+[Sun Sep 29 16:47:51 2013]  ClientBegin: 0
+[Sun Sep 29 16:47:51 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 16:47:54 2013]  say: ^0ÐàrkQµàkè: ^0<<^4test^0>>
+[Sun Sep 29 16:50:32 2013]  ShutdownGame:
+[Sun Sep 29 16:50:32 2013]  ------------------------------------------------------------
+[Sun Sep 29 16:50:32 2013]  ------------------------------------------------------------
+[Sun Sep 29 16:50:32 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\999\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 16:50:33 2013]  ClientConnect: 0
+[Sun Sep 29 16:50:43 2013]  ClientBegin: 0
+[Sun Sep 29 16:50:43 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 16:51:21 2013]  ShutdownGame:
+[Sun Sep 29 16:51:21 2013]  ------------------------------------------------------------
+[Sun Sep 29 16:51:22 2013]  ------------------------------------------------------------
+[Sun Sep 29 16:51:22 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 16:51:23 2013]  ClientConnect: 0
+[Sun Sep 29 16:51:29 2013]  ClientBegin: 0
+[Sun Sep 29 16:51:29 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 16:52:05 2013]  ShutdownGame:
+[Sun Sep 29 16:52:05 2013]  ------------------------------------------------------------
+[Sun Sep 29 16:52:05 2013]  ------------------------------------------------------------
+[Sun Sep 29 16:52:05 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 16:52:06 2013]  ClientConnect: 0
+[Sun Sep 29 16:52:11 2013]  ClientBegin: 0
+[Sun Sep 29 16:52:11 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 16:53:34 2013]  ShutdownGame:
+[Sun Sep 29 16:53:34 2013]  ------------------------------------------------------------
+[Sun Sep 29 16:53:34 2013]  ------------------------------------------------------------
+[Sun Sep 29 16:53:34 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 16:53:35 2013]  ClientConnect: 0
+[Sun Sep 29 16:53:36 2013]  ClientConnect: 1
+[Sun Sep 29 16:53:36 2013]  mlog:Player Padawan, connected. With IP - 200.83.111.139:29070 
+[Sun Sep 29 16:53:39 2013]  ClientBegin: 0
+[Sun Sep 29 16:53:39 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 16:53:42 2013]  ClientDisconnect: 1
+[Sun Sep 29 16:53:42 2013]  ClientConnect: 1
+[Sun Sep 29 16:53:42 2013]  mlog:Player Padawan, connected. With IP - 200.83.111.139:29070 
+[Sun Sep 29 16:53:45 2013]  ClientDisconnect: 1
+[Sun Sep 29 16:53:45 2013]  ClientConnect: 1
+[Sun Sep 29 16:53:45 2013]  mlog:Player Padawan, connected. With IP - 200.83.111.139:29070 
+[Sun Sep 29 16:53:48 2013]  ClientDisconnect: 1
+[Sun Sep 29 16:53:48 2013]  ClientConnect: 1
+[Sun Sep 29 16:53:48 2013]  mlog:Player Padawan, connected. With IP - 200.83.111.139:29070 
+[Sun Sep 29 16:53:51 2013]  ClientDisconnect: 1
+[Sun Sep 29 16:53:51 2013]  ClientConnect: 1
+[Sun Sep 29 16:53:51 2013]  mlog:Player Padawan, connected. With IP - 200.83.111.139:29070 
+[Sun Sep 29 16:53:54 2013]  ClientDisconnect: 1
+[Sun Sep 29 16:53:54 2013]  ClientConnect: 1
+[Sun Sep 29 16:53:54 2013]  mlog:Player Padawan, connected. With IP - 200.83.111.139:29070 
+[Sun Sep 29 16:54:23 2013]  ClientDisconnect: 1
+[Sun Sep 29 16:54:23 2013]  ClientConnect: 1
+[Sun Sep 29 16:54:23 2013]  mlog:Player Padawan, connected. With IP - 200.83.111.139:29070 
+[Sun Sep 29 16:59:49 2013]  ShutdownGame:
+[Sun Sep 29 16:59:49 2013]  ------------------------------------------------------------
+[Sun Sep 29 16:59:49 2013]  ------------------------------------------------------------
+[Sun Sep 29 16:59:49 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 16:59:50 2013]  ClientConnect: 0
+[Sun Sep 29 16:59:50 2013]  ClientConnect: 1
+[Sun Sep 29 16:59:55 2013]  ClientBegin: 0
+[Sun Sep 29 16:59:55 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 17:01:22 2013]  ShutdownGame:
+[Sun Sep 29 17:01:22 2013]  ------------------------------------------------------------
+[Sun Sep 29 17:01:22 2013]  ------------------------------------------------------------
+[Sun Sep 29 17:01:22 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 17:01:23 2013]  ClientConnect: 0
+[Sun Sep 29 17:01:23 2013]  ClientConnect: 1
+[Sun Sep 29 17:01:27 2013]  ClientBegin: 0
+[Sun Sep 29 17:01:27 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 17:02:52 2013]  ShutdownGame:
+[Sun Sep 29 17:02:52 2013]  ------------------------------------------------------------
+[Sun Sep 29 17:02:52 2013]  ------------------------------------------------------------
+[Sun Sep 29 17:02:52 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 17:02:53 2013]  ClientConnect: 0
+[Sun Sep 29 17:02:53 2013]  ClientConnect: 1
+[Sun Sep 29 17:02:58 2013]  ClientBegin: 0
+[Sun Sep 29 17:02:58 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 17:05:40 2013]  ShutdownGame:
+[Sun Sep 29 17:05:40 2013]  ------------------------------------------------------------
+[Sun Sep 29 17:05:40 2013]  ------------------------------------------------------------
+[Sun Sep 29 17:05:40 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 17:05:41 2013]  ClientConnect: 0
+[Sun Sep 29 17:05:41 2013]  ClientConnect: 1
+[Sun Sep 29 17:05:45 2013]  ClientBegin: 0
+[Sun Sep 29 17:05:45 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 17:06:13 2013]  ShutdownGame:
+[Sun Sep 29 17:06:13 2013]  ------------------------------------------------------------
+[Sun Sep 29 17:06:13 2013]  ------------------------------------------------------------
+[Sun Sep 29 17:06:13 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 17:06:14 2013]  ClientConnect: 0
+[Sun Sep 29 17:06:14 2013]  ClientConnect: 1
+[Sun Sep 29 17:06:18 2013]  ClientBegin: 0
+[Sun Sep 29 17:06:19 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 17:13:50 2013]  ClientConnect: 2
+[Sun Sep 29 17:13:50 2013]  mlog:Player Padawan, connected. With IP - 75.94.222.14:29070 
+[Sun Sep 29 17:16:23 2013]  ClientBegin: 2
+[Sun Sep 29 17:17:51 2013]  Kill: 2 0 3: ^7[^1REICH^7]^7^7Pony^7^4^5Killer killed ^0ÐàrkQµàkè by MOD_SABER
+[Sun Sep 29 17:17:51 2013]  tell: ^0ÐàrkQµàkè to ^7[^1REICH^7]^7^7Pony^7^4^5Killer: ^2^7^7[^1REICH^7]^7^7Pony^7^4^5Killer, ^7you killed me
+[Sun Sep 29 17:19:11 2013]  ClientDisconnect: 2
+[Sun Sep 29 17:38:14 2013]  ShutdownGame:
+[Sun Sep 29 17:38:14 2013]  ------------------------------------------------------------
+[Sun Sep 29 17:38:14 2013]  ------------------------------------------------------------
+[Sun Sep 29 17:38:14 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\60\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 17:38:15 2013]  ClientConnect: 0
+[Sun Sep 29 17:38:15 2013]  ClientConnect: 1
+[Sun Sep 29 17:38:19 2013]  ClientBegin: 0
+[Sun Sep 29 17:38:20 2013]  say: ^0ÐàrkQµàkè: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Sep 29 17:38:33 2013]  ClientConnect: 2
+[Sun Sep 29 17:38:33 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 109.152.1.113:29070 
+[Sun Sep 29 17:39:05 2013]  ClientBegin: 2
+[Sun Sep 29 17:39:43 2013]  say: ^4^0Quakes Assassin: hi all
+[Sun Sep 29 17:39:53 2013]  Kill: 2 2 39: ^4^0Quakes Assassin killed ^4^0Quakes Assassin by MOD_SUICIDE
+[Sun Sep 29 17:39:53 2013]  setteam:  2 FREE SPECTATOR
+[Sun Sep 29 17:39:53 2013]  ClientBegin: 2
+[Sun Sep 29 17:40:01 2013]  setteam:  2 SPECTATOR FREE
+[Sun Sep 29 17:40:01 2013]  ClientBegin: 2
+[Sun Sep 29 17:40:20 2013]  Kill: 2 0 3: ^4^0Quakes Assassin killed ^0ÐàrkQµàkè by MOD_SABER
+[Sun Sep 29 17:40:20 2013]  tell: ^0ÐàrkQµàkè to ^4^0Quakes Assassin: ^2^7^4^0Quakes Assassin, ^7you killed me
+[Sun Sep 29 17:41:21 2013]  print "^4^0Quakes Assassin^7 @@@PLRENAME ^4Da^5n Pla^0yes SWMCAP
+"[Sun Sep 29 17:42:18 2013]  say: ^4Da^5n Pla^0yes SWMCAP: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sun Sep 29 17:42:19 2013]  say: ^4Da^5n Pla^0yes SWMCAP: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sun Sep 29 17:42:26 2013]  say: ^4Da^5n Pla^0yes SWMCAP: die know
+[Sun Sep 29 17:42:29 2013]  say: ^4Da^5n Pla^0yes SWMCAP: ^1FIRE BALL!
+[Sun Sep 29 17:42:35 2013]  say: ^4Da^5n Pla^0yes SWMCAP: damn missed
+[Sun Sep 29 17:42:36 2013]  ClientDisconnect: 0
+[Sun Sep 29 17:42:38 2013]  say: ^4Da^5n Pla^0yes SWMCAP: ^1FIRE BALL!
+[Sun Sep 29 17:46:30 2013]  ------------------------------------------------------------
+[Sun Sep 29 17:46:30 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 18:04:16 2013]  ClientConnect: 0
+[Sun Sep 29 18:04:16 2013]  mlog:Player newcomer, connected. With IP - 37.204.213.252:29070 
+[Sun Sep 29 18:05:19 2013]  ClientBegin: 0
+[Sun Sep 29 18:26:12 2013]  print "newcomer^7 @@@PLRENAME newcomer [âðåìåííî îòîøåë]
+"[Sun Sep 29 18:26:33 2013]  print "newcomer [âðåìåííî îòîøåë]^7 @@@PLRENAME ^1newcomer
+"[Sun Sep 29 18:46:25 2013]  Exit: Timelimit hit.
+[Sun Sep 29 18:46:25 2013]  score: 9  ping: 83  client: 0 ^1newcomer
+[Sun Sep 29 18:46:31 2013]  ShutdownGame:
+[Sun Sep 29 18:46:31 2013]  ------------------------------------------------------------
+[Sun Sep 29 18:46:31 2013]  ------------------------------------------------------------
+[Sun Sep 29 18:46:31 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\60\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 18:46:32 2013]  ClientConnect: 0
+[Sun Sep 29 18:46:59 2013]  ClientBegin: 0
+[Sun Sep 29 18:47:19 2013]  Kill: 1022 0 36: <world> killed ^1newcomer by MOD_CRUSH
+[Sun Sep 29 18:53:18 2013]  Kill: 1022 0 36: <world> killed ^1newcomer by MOD_CRUSH
+[Sun Sep 29 19:07:16 2013]  ClientDisconnect: 0
+[Sun Sep 29 19:08:46 2013]  ClientConnect: 0
+[Sun Sep 29 19:08:46 2013]  mlog:Player ^1newcomer, connected. With IP - 37.204.213.252:29070 
+[Sun Sep 29 19:09:30 2013]  ClientBegin: 0
+[Sun Sep 29 19:17:20 2013]  Kill: 1022 0 36: <world> killed ^1newcomer by MOD_CRUSH
+[Sun Sep 29 19:43:08 2013]  say: ^1newcomer: My origin is: (11662 -1669 -487) - You can teleport here with /mtelelast
+
+[Sun Sep 29 19:46:30 2013]  Exit: Timelimit hit.
+[Sun Sep 29 19:46:30 2013]  score: -1  ping: 98  client: 0 ^1newcomer
+[Sun Sep 29 19:47:46 2013]  ShutdownGame:
+[Sun Sep 29 19:47:46 2013]  ------------------------------------------------------------
+[Sun Sep 29 19:47:47 2013]  ------------------------------------------------------------
+[Sun Sep 29 19:47:47 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\60\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 29 19:47:48 2013]  ClientConnect: 0
+[Sun Sep 29 19:48:18 2013]  ClientBegin: 0
+[Sun Sep 29 20:21:10 2013]  ClientDisconnect: 0
+[Sun Sep 29 20:47:46 2013]  Exit: Timelimit hit.
+[Mon Sep 30 03:59:35 2013]  ClientConnect: 0
+[Mon Sep 30 03:59:35 2013]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.247.110:29070 
+[Mon Sep 30 04:00:11 2013]  ClientBegin: 0
+[Mon Sep 30 04:00:15 2013]  ShutdownGame:
+[Mon Sep 30 04:00:15 2013]  ------------------------------------------------------------

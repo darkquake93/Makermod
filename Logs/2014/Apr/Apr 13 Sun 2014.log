@@ -1,0 +1,131 @@
+[Sun Apr 13 12:20:34 2014]  ------------------------------------------------------------
+[Sun Apr 13 12:20:34 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Apr 13 12:20:37 2014]  ClientConnect: 0
+[Sun Apr 13 12:21:02 2014]  ClientBegin: 0
+[Sun Apr 13 12:22:52 2014]  ClientDisconnect: 0
+[Sun Apr 13 13:58:31 2014]  ClientConnect: 0
+[Sun Apr 13 13:58:31 2014]  mlog:Player n^4T^7w rzr, connected. With IP - 77.11.99.197:29070 
+[Sun Apr 13 13:58:42 2014]  ClientBegin: 0
+[Sun Apr 13 13:59:06 2014]  ClientDisconnect: 0
+[Sun Apr 13 14:20:32 2014]  Exit: Timelimit hit.
+[Sun Apr 13 17:19:18 2014]  ClientConnect: 0
+[Sun Apr 13 17:19:18 2014]  mlog:Player T^2a^7ni^2C, connected. With IP - 92.252.42.42:-578 
+[Sun Apr 13 17:19:32 2014]  ClientBegin: 0
+[Sun Apr 13 17:19:45 2014]  ShutdownGame:
+[Sun Apr 13 17:19:45 2014]  ------------------------------------------------------------
+[Sun Apr 13 17:19:49 2014]  ------------------------------------------------------------
+[Sun Apr 13 17:19:49 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Apr 13 17:19:51 2014]  ClientConnect: 0
+[Sun Apr 13 17:20:06 2014]  ClientBegin: 0
+[Sun Apr 13 17:22:13 2014]  Kill: 1022 0 39: <world> killed T^2a^7ni^2C by MOD_SUICIDE
+[Sun Apr 13 17:22:26 2014]  Kill: 1022 0 2: <world> killed T^2a^7ni^2C by MOD_MELEE
+[Sun Apr 13 17:22:36 2014]  Kill: 1022 0 6: <world> killed T^2a^7ni^2C by MOD_BLASTER
+[Sun Apr 13 17:22:43 2014]  Kill: 1022 0 2: <world> killed T^2a^7ni^2C by MOD_MELEE
+[Sun Apr 13 17:25:50 2014]  Kill: 1022 0 39: <world> killed T^2a^7ni^2C by MOD_SUICIDE
+[Sun Apr 13 17:26:41 2014]  Kill: 0 0 39: T^2a^7ni^2C killed T^2a^7ni^2C by MOD_SUICIDE
+[Sun Apr 13 17:28:44 2014]  ClientDisconnect: 0
+[Sun Apr 13 17:28:44 2014]  ClientDisconnect: 0
+[Sun Apr 13 17:28:44 2014]  ClientConnect: 0
+[Sun Apr 13 17:28:44 2014]  mlog:Player T^2a^7ni^2C, connected. With IP - 92.252.42.42:-578 
+[Sun Apr 13 17:28:57 2014]  ClientBegin: 0
+[Sun Apr 13 17:29:36 2014]  ClientDisconnect: 0
+[Sun Apr 13 18:47:15 2014]  ClientConnect: 0
+[Sun Apr 13 18:47:15 2014]  mlog:Player ^5»^0SK^5|||^0WØLF^5«^0™, connected. With IP - 177.102.205.64:29070 
+[Sun Apr 13 18:48:43 2014]  ClientBegin: 0
+[Sun Apr 13 18:49:50 2014]  Kill: 1022 0 6: <world> killed ^5»^0SK^5|||^0WØLF^5«^0™ by MOD_BLASTER
+[Sun Apr 13 18:50:01 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: hmm server?
+[Sun Apr 13 18:50:12 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: are u there?
+[Sun Apr 13 18:50:42 2014]  ClientConnect: 1
+[Sun Apr 13 18:50:42 2014]  mlog:Player bitch, connected. With IP - 213.155.49.98:29070 
+[Sun Apr 13 18:50:58 2014]  Item: 0 weapon_melee
+[Sun Apr 13 18:51:39 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7<^0-LOL-^7>
+[Sun Apr 13 18:51:55 2014]  ClientBegin: 1
+[Sun Apr 13 18:52:02 2014]  say: ^0T^1ro££: braaaaaaaaaaaaaap
+[Sun Apr 13 18:52:08 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: .
+[Sun Apr 13 18:52:11 2014]  Kill: 1 1 39: ^0T^1ro££ killed ^0T^1ro££ by MOD_SUICIDE
+[Sun Apr 13 18:52:11 2014]  setteam:  1 FREE SPECTATOR
+[Sun Apr 13 18:52:11 2014]  ClientBegin: 1
+[Sun Apr 13 18:52:18 2014]  setteam:  1 SPECTATOR FREE
+[Sun Apr 13 18:52:18 2014]  ClientBegin: 1
+[Sun Apr 13 18:52:35 2014]  say: ^0T^1ro££: WTF
+[Sun Apr 13 18:52:47 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: chat doens work
+[Sun Apr 13 18:52:59 2014]  say: ^0T^1ro££: hey
+[Sun Apr 13 18:53:04 2014]  say: ^0T^1ro££: do you know how to remap?
+[Sun Apr 13 18:53:17 2014]  say: ^0T^1ro££: ?
+[Sun Apr 13 18:53:30 2014]  say: ^0T^1ro££: mg
+[Sun Apr 13 18:53:32 2014]  say: ^0T^1ro££: you are kid?
+[Sun Apr 13 18:53:46 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7<^0-LOL-^7>
+[Sun Apr 13 18:53:58 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: !chatstyle 0
+[Sun Apr 13 18:54:00 2014]  say: ^0T^1ro££: what the fuck is that
+[Sun Apr 13 18:54:07 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: fuck it
+[Sun Apr 13 18:54:14 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: chating no respond
+[Sun Apr 13 18:54:14 2014]  say: ^0T^1ro££: bedrooms?
+[Sun Apr 13 18:54:19 2014]  say: ^0T^1ro££: WHAT THE HELL
+[Sun Apr 13 18:54:32 2014]  say: ^0T^1ro££: HOLY SHIT
+[Sun Apr 13 18:54:57 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: My origin is: (-5671 -20958 1481) - You can teleport here with /mtelelast
+
+[Sun Apr 13 18:55:27 2014]  ClientDisconnect: 0
+[Sun Apr 13 18:55:27 2014]  ClientDisconnect: 0
+[Sun Apr 13 18:55:27 2014]  ClientConnect: 0
+[Sun Apr 13 18:55:27 2014]  mlog:Player ^5»^0SK^5|||^0WØLF^5«^0™, connected. With IP - 177.102.205.64:29070 
+[Sun Apr 13 18:55:55 2014]  ClientBegin: 0
+[Sun Apr 13 18:56:00 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: .
+[Sun Apr 13 18:56:02 2014]  say: ^0T^1ro££: WAHT
+[Sun Apr 13 18:56:09 2014]  say: ^0T^1ro££: LOl
+[Sun Apr 13 18:56:16 2014]  say: ^0T^1ro££: WHO BUILD THIS SHIT
+[Sun Apr 13 18:56:17 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: b
+[Sun Apr 13 18:56:26 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: spe
+[Sun Apr 13 18:56:34 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: talk
+[Sun Apr 13 18:56:34 2014]  say: ^0T^1ro££: what
+[Sun Apr 13 18:57:07 2014]  say: ^0T^1ro££: BRAAAAAAAAAAP
+[Sun Apr 13 18:58:01 2014]  Item: 0 weapon_melee
+[Sun Apr 13 18:58:03 2014]  say: ^0T^1ro££: shit
+[Sun Apr 13 18:58:05 2014]  say: ^0T^1ro££: hea
+[Sun Apr 13 18:58:13 2014]  say: ^0T^1ro££: do you know how to talk?
+[Sun Apr 13 18:58:27 2014]  say: ^0T^1ro££: hey
+[Sun Apr 13 18:58:29 2014]  say: ^0T^1ro££: idiot
+[Sun Apr 13 18:58:32 2014]  Kill: 0 1 36: ^5»^0SK^5|||^0WØLF^5«^0™ killed ^0T^1ro££ by MOD_CRUSH
+[Sun Apr 13 18:58:35 2014]  say: ^0T^1ro££: suck my dick
+[Sun Apr 13 18:58:43 2014]  Kill: 0 1 0: ^5»^0SK^5|||^0WØLF^5«^0™ killed ^0T^1ro££ by MOD_UNKNOWN
+[Sun Apr 13 18:59:05 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: /MKILLALL
+[Sun Apr 13 18:59:25 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: I CAN'T SEE CHAT
+[Sun Apr 13 18:59:45 2014]  ClientDisconnect: 0
+[Sun Apr 13 18:59:55 2014]  ClientDisconnect: 1
+[Sun Apr 13 19:19:46 2014]  Exit: Timelimit hit.
+[Sun Apr 13 20:29:37 2014]  ClientConnect: 0
+[Sun Apr 13 20:29:37 2014]  mlog:Player Robert, connected. With IP - 84.43.129.14:29070 
+[Sun Apr 13 20:29:51 2014]  ClientDisconnect: 0
+[Sun Apr 13 20:36:34 2014]  ClientConnect: 0
+[Sun Apr 13 20:36:34 2014]  mlog:Player Robert, connected. With IP - 84.43.129.14:29070 
+[Sun Apr 13 20:36:45 2014]  ClientDisconnect: 0
+[Sun Apr 13 20:37:03 2014]  ClientConnect: 0
+[Sun Apr 13 20:37:03 2014]  mlog:Player Robert, connected. With IP - 84.43.129.14:29070 
+[Sun Apr 13 20:37:14 2014]  ClientDisconnect: 0
+[Sun Apr 13 20:37:26 2014]  ClientConnect: 0
+[Sun Apr 13 20:37:26 2014]  mlog:Player Robert, connected. With IP - 84.43.129.14:29070 
+[Sun Apr 13 20:38:40 2014]  ClientDisconnect: 0
+[Sun Apr 13 20:38:47 2014]  ClientConnect: 0
+[Sun Apr 13 20:38:47 2014]  mlog:Player ^5D^2e^5liS^2a^5uce^2*, connected. With IP - 24.192.91.192:29070 
+[Sun Apr 13 20:38:50 2014]  ClientConnect: 1
+[Sun Apr 13 20:38:50 2014]  mlog:Player Robert, connected. With IP - 84.43.129.14:29070 
+[Sun Apr 13 20:39:10 2014]  ClientBegin: 0
+[Sun Apr 13 20:39:16 2014]  ShutdownGame:
+[Sun Apr 13 20:39:16 2014]  ------------------------------------------------------------
+[Sun Apr 13 20:39:17 2014]  ------------------------------------------------------------
+[Sun Apr 13 20:39:17 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Apr 13 20:39:18 2014]  ClientConnect: 0
+[Sun Apr 13 20:39:18 2014]  ClientConnect: 1
+[Sun Apr 13 20:39:29 2014]  ClientDisconnect: 1
+[Sun Apr 13 20:39:51 2014]  ClientConnect: 1
+[Sun Apr 13 20:39:51 2014]  mlog:Player Robert, connected. With IP - 84.43.129.14:29070 
+[Sun Apr 13 20:40:01 2014]  ClientDisconnect: 1
+[Sun Apr 13 20:40:05 2014]  ClientDisconnect: 0
+[Sun Apr 13 22:39:16 2014]  Exit: Timelimit hit.
+[Mon Apr 14 02:58:09 2014]  ClientConnect: 0
+[Mon Apr 14 02:58:09 2014]  mlog:Player reven, connected. With IP - 68.117.203.176:29070 
+[Mon Apr 14 03:02:27 2014]  ClientDisconnect: 0
+[Mon Apr 14 21:39:29 2014]  ClientConnect: 0
+[Mon Apr 14 21:39:29 2014]  mlog:Player Solidus, connected. With IP - 46.249.171.150:29070 
+[Mon Apr 14 21:40:02 2014]  ClientBegin: 0
+[Mon Apr 14 21:41:41 2014]  ShutdownGame:
+[Mon Apr 14 21:41:41 2014]  ------------------------------------------------------------

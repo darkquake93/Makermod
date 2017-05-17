@@ -1,0 +1,186 @@
+[Mon May 05 00:10:42 2014]  ------------------------------------------------------------
+[Mon May 05 00:10:42 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 05 00:10:43 2014]  ClientConnect: 0
+[Mon May 05 00:10:43 2014]  ClientConnect: 1
+[Mon May 05 00:10:51 2014]  ClientBegin: 1
+[Mon May 05 00:10:52 2014]  ClientBegin: 0
+[Mon May 05 00:15:02 2014]  ClientDisconnect: 0
+[Mon May 05 00:15:10 2014]  ClientDisconnect: 1
+[Mon May 05 01:40:09 2014]  ClientConnect: 0
+[Mon May 05 01:40:09 2014]  mlog:Player LukeSolo, connected. With IP - 76.245.213.166:29070 
+[Mon May 05 01:42:44 2014]  ClientDisconnect: 0
+[Mon May 05 02:10:41 2014]  Exit: Timelimit hit.
+[Mon May 05 02:29:45 2014]  ClientConnect: 0
+[Mon May 05 02:29:45 2014]  mlog:Player Padawan, connected. With IP - 71.188.124.126:29070 
+[Mon May 05 02:29:55 2014]  ClientBegin: 0
+[Mon May 05 02:30:04 2014]  ShutdownGame:
+[Mon May 05 02:30:04 2014]  ------------------------------------------------------------
+[Mon May 05 02:30:05 2014]  ------------------------------------------------------------
+[Mon May 05 02:30:05 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 05 02:30:06 2014]  ClientConnect: 0
+[Mon May 05 02:30:17 2014]  ClientBegin: 0
+[Mon May 05 02:30:32 2014]  ClientConnect: 1
+[Mon May 05 02:30:32 2014]  mlog:Player Master G, connected. With IP - 68.46.1.139:29070 
+[Mon May 05 02:30:44 2014]  ClientBegin: 1
+[Mon May 05 02:30:58 2014]  ClientConnect: 2
+[Mon May 05 02:30:58 2014]  mlog:Player ^6{P}^0Fu^5l^0sy^6{A}^3{Merc}, connected. With IP - 24.61.25.128:29071 
+[Mon May 05 02:31:10 2014]  ClientBegin: 2
+[Mon May 05 02:31:40 2014]  ClientConnect: 3
+[Mon May 05 02:31:40 2014]  mlog:Player Gustov34, connected. With IP - 173.61.180.182:29070 
+[Mon May 05 02:31:46 2014]  Kill: 0 1 5: Omar killed Master G by MOD_BRYAR_PISTOL_ALT
+[Mon May 05 02:31:55 2014]  ClientBegin: 3
+[Mon May 05 02:32:11 2014]  Kill: 1 0 5: Master G killed Omar by MOD_BRYAR_PISTOL_ALT
+[Mon May 05 02:32:44 2014]  Kill: 0 3 3: Omar killed Gustov34 by MOD_SABER
+[Mon May 05 02:32:56 2014]  Kill: 3 1 3: Gustov34 killed Master G by MOD_SABER
+[Mon May 05 02:33:01 2014]  Kill: 3 0 3: Gustov34 killed Omar by MOD_SABER
+[Mon May 05 02:33:34 2014]  Kill: 3 1 3: Gustov34 killed Master G by MOD_SABER
+[Mon May 05 02:33:39 2014]  Kill: 0 3 3: Omar killed Gustov34 by MOD_SABER
+[Mon May 05 02:33:40 2014]  Kill: 3 1 37: Gustov34 killed Master G by MOD_TELEFRAG
+[Mon May 05 02:34:06 2014]  Kill: 1 3 3: Master G killed Gustov34 by MOD_SABER
+[Mon May 05 02:34:07 2014]  Kill: 1 0 3: Master G killed Omar by MOD_SABER
+[Mon May 05 02:34:29 2014]  Kill: 0 1 3: Omar killed Master G by MOD_SABER
+[Mon May 05 02:34:31 2014]  Kill: 0 3 3: Omar killed Gustov34 by MOD_SABER
+[Mon May 05 02:34:32 2014]  Kill: 1 3 37: Master G killed Gustov34 by MOD_TELEFRAG
+[Mon May 05 02:34:37 2014]  say: Omar: tttttttt
+[Mon May 05 02:34:41 2014]  Kill: 3 1 3: Gustov34 killed Master G by MOD_SABER
+[Mon May 05 02:34:47 2014]  Kill: 3 0 3: Gustov34 killed Omar by MOD_SABER
+[Mon May 05 02:35:19 2014]  Kill: 1 3 3: Master G killed Gustov34 by MOD_SABER
+[Mon May 05 02:35:26 2014]  Kill: 1 0 3: Master G killed Omar by MOD_SABER
+[Mon May 05 02:35:35 2014]  Kill: 0 3 37: Omar killed Gustov34 by MOD_TELEFRAG
+[Mon May 05 02:35:41 2014]  ClientDisconnect: 0
+[Mon May 05 02:36:06 2014]  Kill: 1 3 3: Master G killed Gustov34 by MOD_SABER
+[Mon May 05 02:36:12 2014]  Kill: 1022 2 38: <world> killed ^6{P}^0Fu^5l^0sy^6{A} by MOD_FALLING
+[Mon May 05 02:36:29 2014]  ClientDisconnect: 3
+[Mon May 05 02:36:33 2014]  ClientDisconnect: 1
+[Mon May 05 02:37:08 2014]  ClientDisconnect: 2
+[Mon May 05 03:26:09 2014]  ClientConnect: 0
+[Mon May 05 03:26:09 2014]  mlog:Player Padawan, connected. With IP - 68.105.104.130:29070 
+[Mon May 05 03:26:22 2014]  ClientBegin: 0
+[Mon May 05 03:26:37 2014]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Mon May 05 03:26:37 2014]  setteam:  0 FREE SPECTATOR
+[Mon May 05 03:26:37 2014]  ClientBegin: 0
+[Mon May 05 03:27:13 2014]  setteam:  0 SPECTATOR FREE
+[Mon May 05 03:27:13 2014]  ClientBegin: 0
+[Mon May 05 03:32:35 2014]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Mon May 05 03:32:35 2014]  setteam:  0 FREE SPECTATOR
+[Mon May 05 03:32:35 2014]  ClientBegin: 0
+[Mon May 05 03:32:50 2014]  ClientConnect: 1
+[Mon May 05 03:32:50 2014]  mlog:Player Padawan, connected. With IP - 74.192.236.169:29106 
+[Mon May 05 03:33:08 2014]  ClientBegin: 1
+[Mon May 05 03:33:14 2014]  setteam:  0 SPECTATOR FREE
+[Mon May 05 03:33:14 2014]  ClientBegin: 0
+[Mon May 05 03:33:24 2014]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Mon May 05 03:34:45 2014]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Mon May 05 03:35:01 2014]  Kill: 1 0 3: Padawan killed Padawan by MOD_SABER
+[Mon May 05 03:35:16 2014]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Mon May 05 03:35:19 2014]  tell: Padawan to Padawan: douche
+[Mon May 05 03:35:30 2014]  tell: Padawan to Padawan: waaait
+[Mon May 05 03:36:22 2014]  say: Padawan: colby?
+[Mon May 05 03:36:49 2014]  print "Padawan^7 @@@PLRENAME darth cobra
+"[Mon May 05 03:38:48 2014]  Kill: 0 1 31: Padawan killed darth cobra by MOD_FORCE_DARK
+[Mon May 05 03:38:59 2014]  Kill: 1022 0 38: <world> killed Padawan by MOD_FALLING
+[Mon May 05 03:39:45 2014]  Kill: 1 0 3: darth cobra killed Padawan by MOD_SABER
+[Mon May 05 03:40:28 2014]  Kill: 1 0 3: darth cobra killed Padawan by MOD_SABER
+[Mon May 05 03:41:17 2014]  Kill: 0 1 3: Padawan killed darth cobra by MOD_SABER
+[Mon May 05 03:41:34 2014]  print "Padawan^7 @@@PLRENAME super7
+"[Mon May 05 03:41:51 2014]  say: darth cobra: dude so there is a mod for this called movie fights and it makes literaly everything better
+[Mon May 05 03:42:47 2014]  Kill: 0 1 31: super7 killed darth cobra by MOD_FORCE_DARK
+[Mon May 05 03:43:00 2014]  tell: darth cobra to super7: aw
+[Mon May 05 03:43:08 2014]  say: super7: hahaha
+[Mon May 05 03:43:59 2014]  Kill: 1 0 3: darth cobra killed super7 by MOD_SABER
+[Mon May 05 03:44:09 2014]  Kill: 0 1 31: super7 killed darth cobra by MOD_FORCE_DARK
+[Mon May 05 03:44:24 2014]  Kill: 0 1 3: super7 killed darth cobra by MOD_SABER
+[Mon May 05 03:45:10 2014]  Kill: 0 1 3: super7 killed darth cobra by MOD_SABER
+[Mon May 05 03:45:24 2014]  say: super7: how do those work exactly?
+[Mon May 05 03:46:25 2014]  tell: darth cobra to super7: holy crap dude you knocked my lightsaber out of my hand i had to use force pull to get it back!
+[Mon May 05 03:46:42 2014]  Kill: 0 1 31: super7 killed darth cobra by MOD_FORCE_DARK
+[Mon May 05 03:48:04 2014]  Kill: 0 1 3: super7 killed darth cobra by MOD_SABER
+[Mon May 05 03:49:04 2014]  Kill: 0 1 3: super7 killed darth cobra by MOD_SABER
+[Mon May 05 03:49:35 2014]  Kill: 1 0 3: darth cobra killed super7 by MOD_SABER
+[Mon May 05 03:50:25 2014]  Kill: 1 0 5: darth cobra killed super7 by MOD_BRYAR_PISTOL_ALT
+[Mon May 05 03:50:34 2014]  say: super7: battlefront?
+[Mon May 05 03:50:39 2014]  tell: super7 to darth cobra: KGN<C.U.NJ
+[Mon May 05 03:50:55 2014]  tell: darth cobra to super7: sure
+[Mon May 05 03:51:01 2014]  ClientDisconnect: 0
+[Mon May 05 03:52:25 2014]  ClientDisconnect: 1
+[Mon May 05 04:30:03 2014]  Exit: Timelimit hit.
+[Mon May 05 05:07:42 2014]  ClientConnect: 0
+[Mon May 05 05:07:42 2014]  mlog:Player Falgonour, connected. With IP - 173.245.67.101:29070 
+[Mon May 05 05:07:54 2014]  ClientBegin: 0
+[Mon May 05 05:08:11 2014]  ClientConnect: 1
+[Mon May 05 05:08:11 2014]  mlog:Player Flavius, connected. With IP - 67.170.15.69:29070 
+[Mon May 05 05:08:24 2014]  ShutdownGame:
+[Mon May 05 05:08:24 2014]  ------------------------------------------------------------
+[Mon May 05 05:08:25 2014]  ------------------------------------------------------------
+[Mon May 05 05:08:25 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 05 05:08:26 2014]  ClientConnect: 0
+[Mon May 05 05:08:26 2014]  ClientConnect: 1
+[Mon May 05 05:08:33 2014]  ClientBegin: 0
+[Mon May 05 05:08:34 2014]  ClientBegin: 1
+[Mon May 05 05:10:24 2014]  ClientConnect: 2
+[Mon May 05 05:10:24 2014]  mlog:Player AssPenitratorian, connected. With IP - 50.170.51.117:29070 
+[Mon May 05 05:10:36 2014]  ClientBegin: 2
+[Mon May 05 05:12:44 2014]  Kill: 1022 1 38: <world> killed Flavius by MOD_FALLING
+[Mon May 05 05:12:47 2014]  Kill: 0 2 3: Falgonour killed AssClown by MOD_SABER
+[Mon May 05 05:13:28 2014]  Kill: 1 0 2: Flavius killed Falgonour by MOD_MELEE
+[Mon May 05 05:14:52 2014]  Kill: 2 0 3: AssClown killed Falgonour by MOD_SABER
+[Mon May 05 05:15:53 2014]  Kill: 1 0 3: Flavius killed Falgonour by MOD_SABER
+[Mon May 05 05:16:18 2014]  Kill: 0 2 3: Falgonour killed AssClown by MOD_SABER
+[Mon May 05 05:16:47 2014]  say: AssClown: tttttttttttta
+[Mon May 05 05:17:04 2014]  ClientDisconnect: 0
+[Mon May 05 05:17:33 2014]  Kill: 1 2 3: Flavius killed AssClown by MOD_SABER
+[Mon May 05 05:17:33 2014]  Kill: 1022 1 39: <world> killed Flavius by MOD_SUICIDE
+[Mon May 05 05:17:51 2014]  ClientDisconnect: 2
+[Mon May 05 05:17:56 2014]  ClientDisconnect: 1
+[Mon May 05 07:08:24 2014]  Exit: Timelimit hit.
+[Mon May 05 10:38:01 2014]  ClientConnect: 0
+[Mon May 05 10:38:01 2014]  mlog:Player WhiteMagicRaven, connected. With IP - 92.113.197.212:29070 
+[Mon May 05 10:38:09 2014]  ClientDisconnect: 0
+[Mon May 05 12:47:16 2014]  ClientConnect: 0
+[Mon May 05 12:47:16 2014]  mlog:Player Master, connected. With IP - 178.88.88.232:10637 
+[Mon May 05 12:47:25 2014]  ClientBegin: 0
+[Mon May 05 12:47:55 2014]  ShutdownGame:
+[Mon May 05 12:47:55 2014]  ------------------------------------------------------------
+[Mon May 05 12:47:56 2014]  ------------------------------------------------------------
+[Mon May 05 12:47:56 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 05 12:47:59 2014]  ClientConnect: 0
+[Mon May 05 12:48:03 2014]  ClientDisconnect: 0
+[Mon May 05 14:47:54 2014]  Exit: Timelimit hit.
+[Mon May 05 17:17:03 2014]  ClientConnect: 0
+[Mon May 05 17:17:03 2014]  mlog:Player Darth Pellos, connected. With IP - 217.231.251.78:29070 
+[Mon May 05 17:17:15 2014]  ClientDisconnect: 0
+[Mon May 05 17:41:07 2014]  ClientConnect: 0
+[Mon May 05 17:41:07 2014]  mlog:Player Fry, connected. With IP - 130.43.156.0:18254 
+[Mon May 05 17:41:19 2014]  ClientConnect: 1
+[Mon May 05 17:41:19 2014]  mlog:Player GentleGuy, connected. With IP - 62.31.152.40:29070 
+[Mon May 05 17:41:27 2014]  ClientBegin: 0
+[Mon May 05 17:41:37 2014]  ClientBegin: 1
+[Mon May 05 17:41:57 2014]  ShutdownGame:
+[Mon May 05 17:41:57 2014]  ------------------------------------------------------------
+[Mon May 05 17:41:58 2014]  ------------------------------------------------------------
+[Mon May 05 17:41:58 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 05 17:41:59 2014]  ClientConnect: 0
+[Mon May 05 17:41:59 2014]  ClientConnect: 1
+[Mon May 05 17:42:08 2014]  ClientBegin: 1
+[Mon May 05 17:42:08 2014]  ClientBegin: 0
+[Mon May 05 17:47:54 2014]  Kill: 1022 1 38: <world> killed GentleGuy by MOD_FALLING
+[Mon May 05 17:48:22 2014]  Kill: 1 0 3: GentleGuy killed Fry by MOD_SABER
+[Mon May 05 17:49:13 2014]  say: GentleGuy: /msavebots
+[Mon May 05 17:51:17 2014]  ClientDisconnect: 0
+[Mon May 05 17:51:57 2014]  ClientDisconnect: 1
+[Mon May 05 19:41:56 2014]  Exit: Timelimit hit.
+[Mon May 05 21:00:06 2014]  ClientConnect: 0
+[Mon May 05 21:00:06 2014]  mlog:Player Matjes, connected. With IP - 92.201.34.47:29070 
+[Mon May 05 21:00:21 2014]  ClientBegin: 0
+[Mon May 05 21:00:34 2014]  ShutdownGame:
+[Mon May 05 21:00:34 2014]  ------------------------------------------------------------
+[Mon May 05 21:00:35 2014]  ------------------------------------------------------------
+[Mon May 05 21:00:35 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon May 05 21:00:37 2014]  ClientConnect: 0
+[Mon May 05 21:00:50 2014]  ClientDisconnect: 0
+[Mon May 05 23:00:34 2014]  Exit: Timelimit hit.
+[Tue May 06 11:10:19 2014]  ClientConnect: 0
+[Tue May 06 11:10:19 2014]  mlog:Player Rainsss, connected. With IP - 176.215.221.72:29070 
+[Tue May 06 11:10:40 2014]  ClientBegin: 0
+[Tue May 06 11:10:50 2014]  ShutdownGame:
+[Tue May 06 11:10:50 2014]  ------------------------------------------------------------

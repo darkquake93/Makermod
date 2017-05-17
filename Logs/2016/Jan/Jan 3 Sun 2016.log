@@ -1,0 +1,602 @@
+[Sun Jan 03 17:39:00 2016]  ------------------------------------------------------------
+[Sun Jan 03 17:39:00 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jan 03 17:40:00 2016]  ClientConnect: 0
+[Sun Jan 03 17:40:00 2016]  mlog:Player Inariel, connected. With IP - 5.18.54.92:29070 
+[Sun Jan 03 17:40:01 2016]  ClientConnect: 1
+[Sun Jan 03 17:40:01 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Sun Jan 03 17:40:13 2016]  ClientBegin: 1
+[Sun Jan 03 17:40:20 2016]  Item: 1 weapon_melee
+[Sun Jan 03 17:40:26 2016]  ClientBegin: 0
+[Sun Jan 03 17:40:29 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Sun Jan 03 17:40:46 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Sun Jan 03 17:40:55 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Sun Jan 03 17:41:23 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Sun Jan 03 17:41:39 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Sun Jan 03 17:41:54 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Sun Jan 03 17:42:07 2016]  ClientConnect: 2
+[Sun Jan 03 17:42:07 2016]  mlog:Player Padawan, connected. With IP - 93.100.4.38:29070 
+[Sun Jan 03 17:42:24 2016]  say: ^0Shadow^5seer: give armor 99999999999999999999999999999
+[Sun Jan 03 17:42:27 2016]  ClientBegin: 2
+[Sun Jan 03 17:42:37 2016]  say: ^6b00ty^5sw4ggty: hz pochemu zaiti ne mog
+[Sun Jan 03 17:42:41 2016]  say: ^6b00ty^5sw4ggty: crash i vse
+[Sun Jan 03 17:42:47 2016]  say: ^0Shadow^5seer: € серв случайно крашнул, вызвав шаттл
+[Sun Jan 03 17:42:52 2016]  say: ^6b00ty^5sw4ggty: aaaaaaaaaa
+[Sun Jan 03 17:42:57 2016]  say: ^0Shadow^5seer: написал владельцу серва, он перезапустил
+[Sun Jan 03 17:43:16 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Sun Jan 03 17:43:20 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Sun Jan 03 17:43:37 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Sun Jan 03 17:44:03 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Sun Jan 03 17:44:10 2016]  say: ^0Shadow^5seer: /mtelesp
+[Sun Jan 03 17:44:31 2016]  say: ^6b00ty^5sw4ggty: eto ti sozdal gruppu vk
+[Sun Jan 03 17:44:37 2016]  say: ^0Shadow^5seer: группу?
+[Sun Jan 03 17:44:50 2016]  say: ^6b00ty^5sw4ggty: russian makermod community
+[Sun Jan 03 17:44:57 2016]  say: ^0Shadow^5seer: уу, хрена ты чего вспомнил
+[Sun Jan 03 17:45:02 2016]  say: ^0Shadow^5seer: мен€ в ней нет уже года три
+[Sun Jan 03 17:45:14 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Minimized
+[Sun Jan 03 17:45:18 2016]  say: ^0Shadow^5seer: ^0UU ^5- ^0JA ^5Restored
+[Sun Jan 03 17:45:38 2016]  say: ^6b00ty^5sw4ggty: kak tam eta platforma nazivaetsya?
+[Sun Jan 03 17:46:00 2016]  say: ^6b00ty^5sw4ggty: alo
+[Sun Jan 03 17:46:39 2016]  say: ^6b00ty^5sw4ggty: zachem ignorit menya
+[Sun Jan 03 17:46:50 2016]  say: ^0Shadow^5seer: сори
+[Sun Jan 03 17:46:50 2016]  say: ^6b00ty^5sw4ggty: platforma factory
+[Sun Jan 03 17:46:53 2016]  say: ^6b00ty^5sw4ggty: cho to tam
+[Sun Jan 03 17:46:54 2016]  say: ^0Shadow^5seer: € сворачивал игру
+[Sun Jan 03 17:46:54 2016]  say: Inariel: ghjcnbnt? ckexfqyj pfltkf
+[Sun Jan 03 17:47:02 2016]  say: ^0Shadow^5seer: factory/catw2_b
+[Sun Jan 03 17:47:06 2016]  say: ^6b00ty^5sw4ggty: vse
+[Sun Jan 03 17:47:07 2016]  say: ^6b00ty^5sw4ggty: sps
+[Sun Jan 03 17:47:08 2016]  say: Inariel: простите, случайно задела
+[Sun Jan 03 17:47:53 2016]  say: ^6b00ty^5sw4ggty: a kak pered soboi eto sdelat
+[Sun Jan 03 17:47:59 2016]  say: ^6b00ty^5sw4ggty: tip peremeshat
+[Sun Jan 03 17:47:59 2016]  say: ^0Shadow^5seer: /marm 100
+[Sun Jan 03 17:49:09 2016]  say: ^6b00ty^5sw4ggty: net
+[Sun Jan 03 17:49:12 2016]  say: ^6b00ty^5sw4ggty: pered soboi to kak
+[Sun Jan 03 17:49:20 2016]  say: ^0Shadow^5seer: /mgrabbing
+[Sun Jan 03 17:50:11 2016]  say: ^6b00ty^5sw4ggty: vo
+[Sun Jan 03 17:50:16 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Jan 03 17:50:38 2016]  say: ^6b00ty^5sw4ggty: a kak postavit /mdrop da?
+[Sun Jan 03 17:50:49 2016]  say: ^0Shadow^5seer: да
+[Sun Jan 03 17:50:50 2016]  say: ^6b00ty^5sw4ggty: vo
+[Sun Jan 03 17:50:54 2016]  say: ^0Shadow^5seer: вспоминай давай
+[Sun Jan 03 17:50:56 2016]  say: ^6b00ty^5sw4ggty: ya stroitel
+[Sun Jan 03 17:51:26 2016]  say: ^6b00ty^5sw4ggty: ono v kakoy to tochke spawnitsya vse ravno
+[Sun Jan 03 17:51:41 2016]  say: ^0Shadow^5seer: mgrabbing должен быть on
+[Sun Jan 03 17:54:40 2016]  say: ^6b00ty^5sw4ggty: ya vvel mrotate 90
+[Sun Jan 03 17:54:44 2016]  say: ^6b00ty^5sw4ggty: a ono ne vrashaetsya
+[Sun Jan 03 17:54:48 2016]  say: ^0Shadow^5seer: херово
+[Sun Jan 03 17:54:54 2016]  say: ^6b00ty^5sw4ggty: /mrotate 90
+[Sun Jan 03 17:54:57 2016]  say: ^0Shadow^5seer: ты наверное выделение с объекта сн€л
+[Sun Jan 03 17:54:59 2016]  Item: 0 weapon_blaster
+[Sun Jan 03 17:55:03 2016]  say: ^6b00ty^5sw4ggty: kak
+[Sun Jan 03 17:55:04 2016]  say: ^0Shadow^5seer: а еще потому что надо 90 0 0
+[Sun Jan 03 17:55:07 2016]  say: ^6b00ty^5sw4ggty: aaa
+[Sun Jan 03 17:55:15 2016]  say: ^0Shadow^5seer: не заставл€й мен€ снова учить теб€
+[Sun Jan 03 17:55:18 2016]  say: ^6b00ty^5sw4ggty: vot
+[Sun Jan 03 17:55:27 2016]  say: ^6b00ty^5sw4ggty: vsmisle
+[Sun Jan 03 17:55:31 2016]  say: ^6b00ty^5sw4ggty: a kakje eshe
+[Sun Jan 03 17:55:39 2016]  say: ^6b00ty^5sw4ggty: no way
+[Sun Jan 03 17:55:40 2016]  say: ^0Shadow^5seer: а просто
+[Sun Jan 03 17:55:43 2016]  say: ^0Shadow^5seer: сам вспоминай
+[Sun Jan 03 17:56:05 2016]  say: ^6b00ty^5sw4ggty:  ne poluchaetsya
+[Sun Jan 03 17:56:06 2016]  say: ^6b00ty^5sw4ggty: sori
+[Sun Jan 03 17:57:47 2016]  say: ^0Shadow^5seer: /mempower
+[Sun Jan 03 17:58:34 2016]  Kill: 1022 0 2: <world> killed Inariel by MOD_MELEE
+[Sun Jan 03 17:59:24 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Jan 03 17:59:59 2016]  say: ^0Shadow^5seer: :D
+[Sun Jan 03 18:00:00 2016]  say: ^6b00ty^5sw4ggty: xd
+[Sun Jan 03 18:00:06 2016]  say: ^6b00ty^5sw4ggty: skripter
+[Sun Jan 03 18:00:10 2016]  say: ^0Shadow^5seer: :)
+[Sun Jan 03 18:00:32 2016]  say: ^6b00ty^5sw4ggty: ti cho melkim stanovishya?
+[Sun Jan 03 18:00:40 2016]  say: ^0Shadow^5seer: невидимым
+[Sun Jan 03 18:00:57 2016]  say: ^6b00ty^5sw4ggty: da ya videl ten'
+[Sun Jan 03 18:01:43 2016]  say: ^6b00ty^5sw4ggty: xd
+[Sun Jan 03 18:02:22 2016]  say: ^6b00ty^5sw4ggty: da pochemu ono slepit
+[Sun Jan 03 18:02:27 2016]  say: ^0Shadow^5seer: потому что
+[Sun Jan 03 18:03:00 2016]  say: ^6b00ty^5sw4ggty: oi
+[Sun Jan 03 18:03:03 2016]  say: ^0Shadow^5seer: :D
+[Sun Jan 03 18:03:34 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Sun Jan 03 18:06:43 2016]  say: ^6b00ty^5sw4ggty: cho ti dishal v mikrofon v 2013?
+[Sun Jan 03 18:06:51 2016]  say: ^6b00ty^5sw4ggty: tak bi top obzor bil bi
+[Sun Jan 03 18:07:04 2016]  say: ^0Shadow^5seer: люд€м свойственно дышать
+[Sun Jan 03 18:07:10 2016]  say: ^6b00ty^5sw4ggty: no ne v mikrofon
+[Sun Jan 03 18:07:18 2016]  say: ^0Shadow^5seer: да хз, микрофон такой
+[Sun Jan 03 18:08:55 2016]  say: ^6b00ty^5sw4ggty: a tut nelzya smenit mapu?
+[Sun Jan 03 18:09:00 2016]  say: ^0Shadow^5seer: нельз€
+[Sun Jan 03 18:09:31 2016]  say: ^6b00ty^5sw4ggty: ti cho ti cho
+[Sun Jan 03 18:10:08 2016]  say: ^6b00ty^5sw4ggty: da facepalm
+[Sun Jan 03 18:10:11 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Sun Jan 03 18:10:40 2016]  say: ^6b00ty^5sw4ggty: MDA
+[Sun Jan 03 18:10:44 2016]  say: ^6b00ty^5sw4ggty: eshe ne sdelali
+[Sun Jan 03 18:10:47 2016]  say: ^6b00ty^5sw4ggty: norm vid
+[Sun Jan 03 18:10:58 2016]  say: ^0Shadow^5seer: cg_thirdpersonrange 1000
+[Sun Jan 03 18:11:01 2016]  say: ^0Shadow^5seer: и все
+[Sun Jan 03 18:12:13 2016]  say: ^6b00ty^5sw4ggty: xd
+[Sun Jan 03 18:19:24 2016]  Kill: 2 2 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Sun Jan 03 18:19:24 2016]  setteam:  2 FREE SPECTATOR
+[Sun Jan 03 18:19:24 2016]  ClientBegin: 2
+[Sun Jan 03 18:19:31 2016]  setteam:  2 SPECTATOR FREE
+[Sun Jan 03 18:19:31 2016]  ClientBegin: 2
+[Sun Jan 03 18:21:09 2016]  say: ^6b00ty^5sw4ggty: eto tok v makermode tak?
+[Sun Jan 03 18:21:15 2016]  say: ^0Shadow^5seer: на базе
+[Sun Jan 03 18:21:28 2016]  say: ^0Shadow^5seer: на мэйкере боева€ система базовска€
+[Sun Jan 03 18:21:37 2016]  say: ^6b00ty^5sw4ggty: da ya ponyal je
+[Sun Jan 03 18:21:42 2016]  say: ^6b00ty^5sw4ggty: uje
+[Sun Jan 03 18:27:13 2016]  say: ^6b00ty^5sw4ggty: a kuda cfg kidat?]
+[Sun Jan 03 18:27:24 2016]  say: ^0Shadow^5seer: в базу или в мэйкер
+[Sun Jan 03 18:27:49 2016]  say: ^6b00ty^5sw4ggty: a shas kogda ya zakinul pri otkritoi igre oni budut rabotat?
+[Sun Jan 03 18:27:56 2016]  say: ^0Shadow^5seer: да
+[Sun Jan 03 18:28:17 2016]  say: ^6b00ty^5sw4ggty: ^1artilerry storm
+[Sun Jan 03 18:28:21 2016]  say: ^6b00ty^5sw4ggty: xd
+[Sun Jan 03 18:28:24 2016]  say: ^6b00ty^5sw4ggty: lol
+[Sun Jan 03 18:28:25 2016]  say: ^6b00ty^5sw4ggty: ^1artilerry storm
+[Sun Jan 03 18:28:26 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Sun Jan 03 18:28:35 2016]  say: ^0Shadow^5seer: что... ты.... скачал...
+[Sun Jan 03 18:28:47 2016]  say: ^6b00ty^5sw4ggty: ehh shas bi skachat krutoy skript s ineta
+[Sun Jan 03 18:29:02 2016]  say: ^0Shadow^5seer: смотри
+[Sun Jan 03 18:29:02 2016]  say: ^6b00ty^5sw4ggty: ^1artilerry storm
+[Sun Jan 03 18:29:07 2016]  say: ^6b00ty^5sw4ggty: ahahaha
+[Sun Jan 03 18:29:11 2016]  say: ^0Shadow^5seer: ^3Requesting ^3Orbital ^3Strike!
+[Sun Jan 03 18:29:12 2016]  say: ^6b00ty^5sw4ggty: smotru
+[Sun Jan 03 18:29:23 2016]  say: ^6b00ty^5sw4ggty: a ono damajit?
+[Sun Jan 03 18:29:31 2016]  say: ^0Shadow^5seer: естественно
+[Sun Jan 03 18:29:36 2016]  say: ^6b00ty^5sw4ggty: kruto cho
+[Sun Jan 03 18:29:43 2016]  say: ^0Shadow^5seer: My origin is: (-15867 17750 1478) - You can teleport here with /mtelelast
+
+[Sun Jan 03 18:29:49 2016]  say: ^6b00ty^5sw4ggty: /mtelelast
+[Sun Jan 03 18:29:51 2016]  say: ^6b00ty^5sw4ggty: oi
+[Sun Jan 03 18:29:53 2016]  say: ^6b00ty^5sw4ggty: lol
+[Sun Jan 03 18:30:00 2016]  say: ^0Shadow^5seer: ^3Requesting ^3Orbital ^3Strike!
+[Sun Jan 03 18:30:12 2016]  say: ^0Shadow^5seer: ^3Requesting ^3Orbital ^3Strike!
+[Sun Jan 03 18:30:14 2016]  say: ^6b00ty^5sw4ggty: chustvuyu
+[Sun Jan 03 18:30:18 2016]  say: ^6b00ty^5sw4ggty: (net)
+[Sun Jan 03 18:30:22 2016]  say: ^6b00ty^5sw4ggty: a vot
+[Sun Jan 03 18:30:24 2016]  say: ^0Shadow^5seer: :D
+[Sun Jan 03 18:30:35 2016]  say: ^6b00ty^5sw4ggty: ^4super slap
+[Sun Jan 03 18:30:49 2016]  say: ^6b00ty^5sw4ggty: s russkogo klana skript
+[Sun Jan 03 18:30:55 2016]  say: ^6b00ty^5sw4ggty:  vse eti kotorie ya skachal
+[Sun Jan 03 18:30:56 2016]  say: ^6b00ty^5sw4ggty: lol
+[Sun Jan 03 18:30:56 2016]  say: ^0Shadow^5seer: € даже знаю чей
+[Sun Jan 03 18:31:06 2016]  say: ^6b00ty^5sw4ggty: s jarms
+[Sun Jan 03 18:31:11 2016]  say: ^0Shadow^5seer: sc20ka
+[Sun Jan 03 18:31:15 2016]  say: ^0Shadow^5seer: его херн€
+[Sun Jan 03 18:31:16 2016]  say: ^6b00ty^5sw4ggty: nu da
+[Sun Jan 03 18:32:17 2016]  say: ^6b00ty^5sw4ggty: neet
+[Sun Jan 03 18:32:36 2016]  Kill: 1022 0 2: <world> killed Inariel by MOD_MELEE
+[Sun Jan 03 18:32:41 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Jan 03 18:32:42 2016]  say: ^6b00ty^5sw4ggty: tut mojno rancora mutanta spawnit lol
+[Sun Jan 03 18:32:54 2016]  say: ^0Shadow^5seer: везде можно
+[Sun Jan 03 18:33:03 2016]  say: ^6b00ty^5sw4ggty: ya pomnu zapreshali
+[Sun Jan 03 18:33:13 2016]  say: ^0Shadow^5seer: он просто в плагине неверно прописан
+[Sun Jan 03 18:33:23 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Jan 03 18:33:30 2016]  say: ^6b00ty^5sw4ggty: i chto ono delaet
+[Sun Jan 03 18:33:35 2016]  say: ^0Shadow^5seer: убивает по идее
+[Sun Jan 03 18:34:10 2016]  say: ^6b00ty^5sw4ggty: kak zaspawnit melee?
+[Sun Jan 03 18:34:17 2016]  say: ^0Shadow^5seer: give melee
+[Sun Jan 03 18:34:28 2016]  say: ^6b00ty^5sw4ggty: net
+[Sun Jan 03 18:34:33 2016]  say: ^0Shadow^5seer: give melee
+[Sun Jan 03 18:34:41 2016]  say: ^6b00ty^5sw4ggty: net
+[Sun Jan 03 18:34:43 2016]  say: ^0Shadow^5seer: бл€ть да
+[Sun Jan 03 18:34:47 2016]  say: ^6b00ty^5sw4ggty: a cho ono
+[Sun Jan 03 18:34:49 2016]  say: ^6b00ty^5sw4ggty: ne spawnitsya
+[Sun Jan 03 18:34:50 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Sun Jan 03 18:34:53 2016]  say: ^0Shadow^5seer: оно уже у теб€
+[Sun Jan 03 18:34:55 2016]  say: ^6b00ty^5sw4ggty: y menya netu
+[Sun Jan 03 18:35:02 2016]  say: ^0Shadow^5seer: weapon_melee значит
+[Sun Jan 03 18:35:14 2016]  Item: 2 weapon_melee
+[Sun Jan 03 18:35:17 2016]  say: ^6b00ty^5sw4ggty: vot
+[Sun Jan 03 18:35:52 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Sun Jan 03 18:36:15 2016]  say: ^6b00ty^5sw4ggty: debiq
+[Sun Jan 03 18:36:23 2016]  say: ^6b00ty^5sw4ggty: r3l@x
+[Sun Jan 03 18:36:25 2016]  say: ^0Shadow^5seer: а нехер мен€ душить
+[Sun Jan 03 18:38:45 2016]  say: ^6b00ty^5sw4ggty: ez dodge
+[Sun Jan 03 18:40:08 2016]  say: ^6b00ty^5sw4ggty: nu ti sith
+[Sun Jan 03 18:40:10 2016]  say: ^6b00ty^5sw4ggty: (net)
+[Sun Jan 03 18:40:24 2016]  say: ^6b00ty^5sw4ggty: o net plis
+[Sun Jan 03 18:40:28 2016]  say: ^6b00ty^5sw4ggty:  y menya insult
+[Sun Jan 03 18:40:55 2016]  say: ^6b00ty^5sw4ggty: ya vot pomnu chto y menya bil meteorit
+[Sun Jan 03 18:40:58 2016]  say: ^6b00ty^5sw4ggty: ya im kidalsya
+[Sun Jan 03 18:41:05 2016]  say: ^6b00ty^5sw4ggty: eto vashe top skript bil
+[Sun Jan 03 18:41:34 2016]  say: ^0Shadow^5seer: у мен€ таких штук 20 разных
+[Sun Jan 03 18:41:43 2016]  say: ^6b00ty^5sw4ggty: cho ti vresh to
+[Sun Jan 03 18:42:16 2016]  say: ^6b00ty^5sw4ggty: ppc
+[Sun Jan 03 18:42:21 2016]  say: ^6b00ty^5sw4ggty: no eto drugoe
+[Sun Jan 03 18:42:23 2016]  say: ^0Shadow^5seer: но у мен€ они с невидимыми объектами
+[Sun Jan 03 18:42:24 2016]  say: ^6b00ty^5sw4ggty: tam on bolshe
+[Sun Jan 03 18:43:06 2016]  say: ^6b00ty^5sw4ggty: vot eto
+[Sun Jan 03 18:43:07 2016]  say: ^6b00ty^5sw4ggty: cho bilo
+[Sun Jan 03 18:43:09 2016]  say: ^6b00ty^5sw4ggty: krasnoe
+[Sun Jan 03 18:43:12 2016]  say: ^0Shadow^5seer: телепорт?
+[Sun Jan 03 18:43:15 2016]  say: ^0Shadow^5seer: а, хилка
+[Sun Jan 03 18:43:22 2016]  say: ^0Shadow^5seer: и заодно восстановление биндов
+[Sun Jan 03 18:43:27 2016]  say: ^0Shadow^5seer: и выдача брони и кулаков
+[Sun Jan 03 18:43:41 2016]  say: ^0Shadow^5seer: это активаци€ скриптпака
+[Sun Jan 03 18:45:19 2016]  say: ^6b00ty^5sw4ggty: skripti eto chiterstvo
+[Sun Jan 03 18:45:20 2016]  say: ^6b00ty^5sw4ggty: xd
+[Sun Jan 03 18:45:30 2016]  say: ^0Shadow^5seer: ага, а при заходе на сервер предупреждали
+[Sun Jan 03 18:45:42 2016]  say: ^6b00ty^5sw4ggty: hackerstvo
+[Sun Jan 03 18:47:58 2016]  say: ^6b00ty^5sw4ggty: xd
+[Sun Jan 03 18:48:36 2016]  say: ^6b00ty^5sw4ggty: ahahs
+[Sun Jan 03 18:48:44 2016]  say: ^6b00ty^5sw4ggty: lool
+[Sun Jan 03 18:49:23 2016]  say: ^6b00ty^5sw4ggty: nice strelyaesh
+[Sun Jan 03 18:49:28 2016]  say: ^6b00ty^5sw4ggty: ))))
+[Sun Jan 03 18:50:24 2016]  say: ^6b00ty^5sw4ggty: 2fast
+[Sun Jan 03 18:51:24 2016]  say: ^6b00ty^5sw4ggty: nikto iz russkih bolshe ne prihodit?
+[Sun Jan 03 18:51:32 2016]  say: ^0Shadow^5seer: € сам впервые за пол года тут
+[Sun Jan 03 18:52:46 2016]  say: ^6b00ty^5sw4ggty: 360
+[Sun Jan 03 18:52:50 2016]  say: ^6b00ty^5sw4ggty: sk11lz
+[Sun Jan 03 18:53:45 2016]  say: ^6b00ty^5sw4ggty: y vas est swtor?
+[Sun Jan 03 18:53:50 2016]  say: ^0Shadow^5seer: нахер он нужен
+[Sun Jan 03 18:53:58 2016]  say: ^6b00ty^5sw4ggty: lol
+[Sun Jan 03 18:54:06 2016]  say: ^0Shadow^5seer: он неочень же
+[Sun Jan 03 18:54:10 2016]  say: ^0Shadow^5seer: очень неочень
+[Sun Jan 03 18:54:20 2016]  say: ^6b00ty^5sw4ggty: pochemu
+[Sun Jan 03 18:54:26 2016]  say: ^0Shadow^5seer: у разрабов спроси
+[Sun Jan 03 18:54:30 2016]  say: ^0Shadow^5seer: не € ее делал
+[Sun Jan 03 18:54:33 2016]  say: ^6b00ty^5sw4ggty: xd
+[Sun Jan 03 18:55:48 2016]  say: ^0Shadow^5seer: :D
+[Sun Jan 03 18:55:50 2016]  say: ^6b00ty^5sw4ggty: gg
+[Sun Jan 03 18:56:20 2016]  say: ^6b00ty^5sw4ggty: cho za shar
+[Sun Jan 03 18:56:28 2016]  say: ^0Shadow^5seer: плазменный шар
+[Sun Jan 03 18:56:33 2016]  say: ^0Shadow^5seer: поддаетс€ силе
+[Sun Jan 03 18:56:35 2016]  say: ^6b00ty^5sw4ggty: kak y gunganov
+[Sun Jan 03 18:56:38 2016]  say: ^6b00ty^5sw4ggty: xd
+[Sun Jan 03 18:56:53 2016]  say: ^6b00ty^5sw4ggty: tut mojno pinball sdelat
+[Sun Jan 03 18:57:08 2016]  say: ^6b00ty^5sw4ggty: tok lagaet
+[Sun Jan 03 19:01:01 2016]  say: ^6b00ty^5sw4ggty: lol
+[Sun Jan 03 19:03:07 2016]  say: Inariel: xedfr? lhfgftv
+[Sun Jan 03 19:03:24 2016]  say: ^6b00ty^5sw4ggty: ya chudak?
+[Sun Jan 03 19:03:27 2016]  say: ^6b00ty^5sw4ggty: ili chto tam
+[Sun Jan 03 19:03:41 2016]  say: Inariel: чувак, удираем, его плющит х)
+[Sun Jan 03 19:03:45 2016]  say: ^6b00ty^5sw4ggty: xd
+[Sun Jan 03 19:04:13 2016]  say: Inariel: снова травы нарастил и скурил х)
+[Sun Jan 03 19:06:16 2016]  say: ^6b00ty^5sw4ggty: prestupnik
+[Sun Jan 03 19:06:29 2016]  say: Inariel: каджит не виноват
+[Sun Jan 03 19:06:38 2016]  say: ^6b00ty^5sw4ggty: a ya skina ne viju
+[Sun Jan 03 19:06:46 2016]  say: ^0Shadow^5seer: ndjb ghj,ktvs
+[Sun Jan 03 19:06:49 2016]  say: ^0Shadow^5seer: твои проблемы
+[Sun Jan 03 19:06:52 2016]  say: ^6b00ty^5sw4ggty: xd
+[Sun Jan 03 19:06:58 2016]  say: ^0Shadow^5seer: € прекрасен
+[Sun Jan 03 19:07:06 2016]  say: ^6b00ty^5sw4ggty: net
+[Sun Jan 03 19:08:49 2016]  say: ^6b00ty^5sw4ggty: nauchi delat skripti
+[Sun Jan 03 19:08:59 2016]  say: ^0Shadow^5seer: этому нельз€ научить
+[Sun Jan 03 19:09:12 2016]  say: ^0Shadow^5seer: € ж не могу научить теб€ думать
+[Sun Jan 03 19:09:13 2016]  ClientConnect: 3
+[Sun Jan 03 19:09:13 2016]  mlog:Player Padawan, connected. With IP - 98.198.112.44:29070 
+[Sun Jan 03 19:09:23 2016]  say: ^6b00ty^5sw4ggty: lol
+[Sun Jan 03 19:09:26 2016]  say: ^6b00ty^5sw4ggty: eto kak rabotat
+[Sun Jan 03 19:09:34 2016]  say: ^6b00ty^5sw4ggty: i chelovek ne umeet rabotat na etoi rabote
+[Sun Jan 03 19:09:42 2016]  ClientBegin: 3
+[Sun Jan 03 19:10:24 2016]  say: ^0Shadow^5seer: чтобы делать скрипты, надо знать, что ты хочешь получить, исход€ из знани€ того, как использовать и комбинировать известные тебе команды
+[Sun Jan 03 19:10:28 2016]  say: ^0Shadow^5seer: команды
+[Sun Jan 03 19:10:36 2016]  ClientDisconnect: 3
+[Sun Jan 03 19:10:45 2016]  say: ^0Shadow^5seer: другими словами учи команды и врубай фантазию
+[Sun Jan 03 19:13:51 2016]  Kill: 2 2 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Sun Jan 03 19:17:06 2016]  say: ^6b00ty^5sw4ggty: v makermod menushke netu npc spawnov?
+[Sun Jan 03 19:17:12 2016]  say: ^0Shadow^5seer: есть
+[Sun Jan 03 19:17:17 2016]  say: ^0Shadow^5seer: 1 5 1
+[Sun Jan 03 19:17:22 2016]  say: ^6b00ty^5sw4ggty: a
+[Sun Jan 03 19:18:46 2016]  say: ^6b00ty^5sw4ggty: 1 npc
+[Sun Jan 03 19:18:48 2016]  say: ^6b00ty^5sw4ggty: vehicle
+[Sun Jan 03 19:18:50 2016]  say: ^6b00ty^5sw4ggty: dostupen
+[Sun Jan 03 19:18:51 2016]  say: ^6b00ty^5sw4ggty: (((
+[Sun Jan 03 19:19:23 2016]  ClientDisconnect: 1
+[Sun Jan 03 19:19:32 2016]  ClientDisconnect: 0
+[Sun Jan 03 19:19:49 2016]  ClientDisconnect: 2
+[Sun Jan 03 19:21:12 2016]  ClientConnect: 0
+[Sun Jan 03 19:21:12 2016]  mlog:Player Padawan, connected. With IP - 93.100.4.38:29070 
+[Sun Jan 03 19:21:35 2016]  ClientBegin: 0
+[Sun Jan 03 19:23:50 2016]  Kill: 1022 0 3: <world> killed ^6b00ty^5sw4ggty by MOD_SABER
+[Sun Jan 03 19:24:31 2016]  ClientConnect: 1
+[Sun Jan 03 19:24:31 2016]  mlog:Player TunaBey, connected. With IP - 176.240.233.40:29070 
+[Sun Jan 03 19:24:35 2016]  ClientConnect: 2
+[Sun Jan 03 19:24:35 2016]  mlog:Player Padawan, connected. With IP - 88.233.117.108:29070 
+[Sun Jan 03 19:24:52 2016]  ClientBegin: 1
+[Sun Jan 03 19:25:08 2016]  ClientDisconnect: 0
+[Sun Jan 03 19:25:09 2016]  ClientBegin: 2
+[Sun Jan 03 19:25:19 2016]  ClientConnect: 0
+[Sun Jan 03 19:25:19 2016]  mlog:Player ^6b00ty^5sw4ggty, connected. With IP - 93.100.4.38:29070 
+[Sun Jan 03 19:25:32 2016]  ClientBegin: 0
+[Sun Jan 03 19:25:52 2016]  Kill: 1 0 3: TunaBey killed ^6b00ty^5sw4ggty by MOD_SABER
+[Sun Jan 03 19:26:11 2016]  Kill: 1022 1 36: <world> killed TunaBey by MOD_CRUSH
+[Sun Jan 03 19:26:11 2016]  Kill: 1022 2 36: <world> killed Padawan by MOD_CRUSH
+[Sun Jan 03 19:26:28 2016]  Kill: 2 1 3: Padawan killed TunaBey by MOD_SABER
+[Sun Jan 03 19:26:46 2016]  Kill: 1 2 31: TunaBey killed Padawan by MOD_FORCE_DARK
+[Sun Jan 03 19:27:01 2016]  Kill: 1022 1 3: <world> killed TunaBey by MOD_SABER
+[Sun Jan 03 19:27:14 2016]  Kill: 2 1 3: Padawan killed TunaBey by MOD_SABER
+[Sun Jan 03 19:27:29 2016]  Kill: 2 1 3: Padawan killed TunaBey by MOD_SABER
+[Sun Jan 03 19:28:08 2016]  Kill: 1022 1 3: <world> killed TunaBey by MOD_SABER
+[Sun Jan 03 19:28:23 2016]  Kill: 1022 2 3: <world> killed Padawan by MOD_SABER
+[Sun Jan 03 19:28:44 2016]  Kill: 1022 2 3: <world> killed Padawan by MOD_SABER
+[Sun Jan 03 19:28:57 2016]  Kill: 1022 1 3: <world> killed TunaBey by MOD_SABER
+[Sun Jan 03 19:28:59 2016]  Item: 0 ammo_all
+[Sun Jan 03 19:28:59 2016]  Item: 0 ammo_rockets
+[Sun Jan 03 19:28:59 2016]  Item: 0 ammo_metallic_bolts
+[Sun Jan 03 19:28:59 2016]  Item: 0 ammo_powercell
+[Sun Jan 03 19:28:59 2016]  Item: 0 ammo_blaster
+[Sun Jan 03 19:28:59 2016]  Item: 0 ammo_force
+[Sun Jan 03 19:28:59 2016]  Item: 0 ammo_detpack
+[Sun Jan 03 19:28:59 2016]  Item: 0 ammo_tripmine
+[Sun Jan 03 19:28:59 2016]  Item: 0 ammo_thermal
+[Sun Jan 03 19:28:59 2016]  Item: 0 item_ysalimari
+[Sun Jan 03 19:28:59 2016]  Item: 0 item_cloak
+[Sun Jan 03 19:28:59 2016]  Item: 0 item_eweb_holdable
+[Sun Jan 03 19:28:59 2016]  Item: 0 item_ammodisp
+[Sun Jan 03 19:28:59 2016]  Item: 0 item_healthdisp
+[Sun Jan 03 19:28:59 2016]  Item: 0 item_jetpack
+[Sun Jan 03 19:28:59 2016]  Item: 0 item_sentry_gun
+[Sun Jan 03 19:28:59 2016]  Item: 0 item_binoculars
+[Sun Jan 03 19:28:59 2016]  Item: 0 item_medpac_big
+[Sun Jan 03 19:28:59 2016]  Item: 0 item_medpac
+[Sun Jan 03 19:28:59 2016]  Item: 0 item_shield
+[Sun Jan 03 19:28:59 2016]  Item: 0 item_shield_lrg_instant
+[Sun Jan 03 19:28:59 2016]  Item: 0 weapon_demp2
+[Sun Jan 03 19:28:59 2016]  Item: 0 weapon_flechette
+[Sun Jan 03 19:28:59 2016]  Item: 0 weapon_rocket_launcher
+[Sun Jan 03 19:28:59 2016]  Item: 0 weapon_repeater
+[Sun Jan 03 19:28:59 2016]  Item: 0 weapon_bowcaster
+[Sun Jan 03 19:28:59 2016]  Item: 0 weapon_disruptor
+[Sun Jan 03 19:28:59 2016]  Item: 0 weapon_blaster
+[Sun Jan 03 19:28:59 2016]  Item: 0 weapon_concussion_rifle
+[Sun Jan 03 19:28:59 2016]  Item: 0 weapon_bryar_pistol
+[Sun Jan 03 19:28:59 2016]  Item: 0 weapon_melee
+[Sun Jan 03 19:28:59 2016]  Item: 0 weapon_stun_baton
+[Sun Jan 03 19:29:21 2016]  Kill: 1022 2 3: <world> killed Padawan by MOD_SABER
+[Sun Jan 03 19:29:53 2016]  Kill: 1 2 3: TunaBey killed Padawan by MOD_SABER
+[Sun Jan 03 19:30:21 2016]  Kill: 2 1 31: Padawan killed TunaBey by MOD_FORCE_DARK
+[Sun Jan 03 19:30:45 2016]  Kill: 2 1 31: Padawan killed TunaBey by MOD_FORCE_DARK
+[Sun Jan 03 19:30:54 2016]  say: ^6b00ty^5sw4ggty: ^0good^7Attack^5By^0Blackxxx^7Dragon
+[Sun Jan 03 19:31:26 2016]  Kill: 2 1 3: Padawan killed TunaBey by MOD_SABER
+[Sun Jan 03 19:31:55 2016]  Kill: 1 2 3: TunaBey killed Padawan by MOD_SABER
+[Sun Jan 03 19:31:59 2016]  ClientConnect: 3
+[Sun Jan 03 19:31:59 2016]  mlog:Player ^0F^4o^0x, connected. With IP - 80.55.76.218:29070 
+[Sun Jan 03 19:32:26 2016]  ClientBegin: 3
+[Sun Jan 03 19:32:44 2016]  Kill: 0 0 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Sun Jan 03 19:32:53 2016]  Kill: 1 2 31: TunaBey killed Padawan by MOD_FORCE_DARK
+[Sun Jan 03 19:33:43 2016]  say: ^6b00ty^5sw4ggty: xd
+[Sun Jan 03 19:33:44 2016]  Kill: 2 1 3: Padawan killed TunaBey by MOD_SABER
+[Sun Jan 03 19:33:44 2016]  say: ^6b00ty^5sw4ggty: you win
+[Sun Jan 03 19:33:46 2016]  say: ^0F^4o^0x: :*
+[Sun Jan 03 19:33:49 2016]  say: Padawan: tuna
+[Sun Jan 03 19:33:50 2016]  Kill: 0 0 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Sun Jan 03 19:33:55 2016]  say: Padawan: skype gitti
+[Sun Jan 03 19:33:57 2016]  say: TunaBey: efenety
+[Sun Jan 03 19:34:19 2016]  Kill: 1 2 31: TunaBey killed Padawan by MOD_FORCE_DARK
+[Sun Jan 03 19:34:21 2016]  Kill: 3 1 10: ^0F^4o^0x killed TunaBey by MOD_DISRUPTOR_SNIPER
+[Sun Jan 03 19:34:47 2016]  Kill: 0 0 39: ^6b00ty^5sw4ggty killed ^6b00ty^5sw4ggty by MOD_SUICIDE
+[Sun Jan 03 19:34:47 2016]  setteam:  0 FREE SPECTATOR
+[Sun Jan 03 19:34:47 2016]  ClientBegin: 0
+[Sun Jan 03 19:34:55 2016]  setteam:  0 SPECTATOR FREE
+[Sun Jan 03 19:34:55 2016]  ClientBegin: 0
+[Sun Jan 03 19:35:03 2016]  Kill: 3 1 20: ^0F^4o^0x killed TunaBey by MOD_ROCKET_SPLASH
+[Sun Jan 03 19:35:04 2016]  Kill: 3 2 25: ^0F^4o^0x killed Padawan by MOD_TRIP_MINE_SPLASH
+[Sun Jan 03 19:35:16 2016]  say: ^6b00ty^5sw4ggty: lol
+[Sun Jan 03 19:35:26 2016]  Kill: 3 1 30: ^0F^4o^0x killed TunaBey by MOD_CONC_ALT
+[Sun Jan 03 19:35:48 2016]  Kill: 3 1 30: ^0F^4o^0x killed TunaBey by MOD_CONC_ALT
+[Sun Jan 03 19:36:06 2016]  tell: ^6b00ty^5sw4ggty to ^0F^4o^0x: can you give me script for weapons?
+[Sun Jan 03 19:36:15 2016]  Kill: 0 2 31: ^6b00ty^5sw4ggty killed Padawan by MOD_FORCE_DARK
+[Sun Jan 03 19:36:19 2016]  Kill: 0 1 3: ^6b00ty^5sw4ggty killed TunaBey by MOD_SABER
+[Sun Jan 03 19:36:21 2016]  tell: ^0F^4o^0x to ^6b00ty^5sw4ggty: give weapons give ammo :|
+[Sun Jan 03 19:36:29 2016]  say: ^6b00ty^5sw4ggty: without jetpack
+[Sun Jan 03 19:36:32 2016]  tell: ^0F^4o^0x to ^6b00ty^5sw4ggty: yes
+[Sun Jan 03 19:36:46 2016]  say: ^6b00ty^5sw4ggty: oh lol thx
+[Sun Jan 03 19:37:04 2016]  Kill: 3 1 10: ^0F^4o^0x killed TunaBey by MOD_DISRUPTOR_SNIPER
+[Sun Jan 03 19:37:42 2016]  Kill: 1 2 3: TunaBey killed Padawan by MOD_SABER
+[Sun Jan 03 19:38:19 2016]  Kill: 3 2 10: ^0F^4o^0x killed Padawan by MOD_DISRUPTOR_SNIPER
+[Sun Jan 03 19:38:33 2016]  Kill: 3 1 10: ^0F^4o^0x killed TunaBey by MOD_DISRUPTOR_SNIPER
+[Sun Jan 03 19:38:38 2016]  Kill: 3 2 10: ^0F^4o^0x killed Padawan by MOD_DISRUPTOR_SNIPER
+[Sun Jan 03 19:38:41 2016]  ClientDisconnect: 1
+[Sun Jan 03 19:38:46 2016]  ClientDisconnect: 2
+[Sun Jan 03 19:38:49 2016]  say: ^0F^4o^0x: oh cmn
+[Sun Jan 03 19:38:55 2016]  say: ^6b00ty^5sw4ggty: XD
+[Sun Jan 03 19:38:58 2016]  say: ^6b00ty^5sw4ggty: r@g3
+[Sun Jan 03 19:39:25 2016]  say: ^0F^4o^0x: :p
+[Sun Jan 03 19:39:27 2016]  say: ^6b00ty^5sw4ggty: what
+[Sun Jan 03 19:39:29 2016]  say: ^6b00ty^5sw4ggty: the fuck
+[Sun Jan 03 19:39:30 2016]  say: ^0F^4o^0x: i like that sound
+[Sun Jan 03 19:40:54 2016]  say: ^6b00ty^5sw4ggty: lol
+[Sun Jan 03 19:41:05 2016]  say: ^6b00ty^5sw4ggty: XD
+[Sun Jan 03 19:41:15 2016]  say: ^6b00ty^5sw4ggty: let me try
+[Sun Jan 03 19:41:29 2016]  say: ^6b00ty^5sw4ggty: cool
+[Sun Jan 03 19:41:30 2016]  say: ^0F^4o^0x: P:
+[Sun Jan 03 19:41:59 2016]  say: ^0F^4o^0x: cmn :P
+[Sun Jan 03 19:42:51 2016]  say: ^6b00ty^5sw4ggty: show me your scripts
+[Sun Jan 03 19:43:26 2016]  say: ^6b00ty^5sw4ggty: show me your pussy
+[Sun Jan 03 19:43:30 2016]  say: ^0F^4o^0x: :d
+[Sun Jan 03 19:43:31 2016]  say: ^6b00ty^5sw4ggty: ey girl
+[Sun Jan 03 19:43:39 2016]  say: ^6b00ty^5sw4ggty: xd
+[Sun Jan 03 19:43:45 2016]  say: ^6b00ty^5sw4ggty: great sound
+[Sun Jan 03 19:44:14 2016]  say: ^0F^4o^0x: lol
+[Sun Jan 03 19:44:45 2016]  say: ^6b00ty^5sw4ggty: swag
+[Sun Jan 03 19:45:18 2016]  say: ^6b00ty^5sw4ggty: YOU WOT M8
+[Sun Jan 03 19:45:59 2016]  say: ^0F^4o^0x: =3
+[Sun Jan 03 19:47:35 2016]  say: ^0F^4o^0x: hue
+[Sun Jan 03 19:48:24 2016]  say: ^0F^4o^0x: dat ass
+[Sun Jan 03 19:48:29 2016]  say: ^0F^4o^0x: P:
+[Sun Jan 03 19:49:03 2016]  say: ^0F^4o^0x: ayy
+[Sun Jan 03 19:49:04 2016]  ClientDisconnect: 3
+[Sun Jan 03 19:50:46 2016]  ClientDisconnect: 0
+[Sun Jan 03 20:02:10 2016]  ClientConnect: 0
+[Sun Jan 03 20:02:10 2016]  mlog:Player iunscarred, connected. With IP - 89.151.179.89:-6893 
+[Sun Jan 03 20:02:49 2016]  ClientBegin: 0
+[Sun Jan 03 20:03:27 2016]  ClientConnect: 1
+[Sun Jan 03 20:03:27 2016]  mlog:Player Padawan, connected. With IP - 93.100.4.38:29070 
+[Sun Jan 03 20:03:51 2016]  ClientBegin: 1
+[Sun Jan 03 20:04:24 2016]  Kill: 1022 0 36: <world> killed iunscarred by MOD_CRUSH
+[Sun Jan 03 20:04:39 2016]  ClientConnect: 2
+[Sun Jan 03 20:04:39 2016]  mlog:Player Padawan, connected. With IP - 89.151.179.89:4389 
+[Sun Jan 03 20:05:28 2016]  ClientBegin: 2
+[Sun Jan 03 20:05:47 2016]  Kill: 1022 0 3: <world> killed iunscarred by MOD_SABER
+[Sun Jan 03 20:06:11 2016]  Kill: 1022 2 36: <world> killed Padawan by MOD_CRUSH
+[Sun Jan 03 20:06:13 2016]  Kill: 1022 0 36: <world> killed iunscarred by MOD_CRUSH
+[Sun Jan 03 20:06:34 2016]  Kill: 0 2 3: iunscarred killed Padawan by MOD_SABER
+[Sun Jan 03 20:08:13 2016]  ClientDisconnect: 1
+[Sun Jan 03 20:08:13 2016]  ClientConnect: 1
+[Sun Jan 03 20:08:13 2016]  mlog:Player Padawan, connected. With IP - 93.100.4.38:29070 
+[Sun Jan 03 20:08:21 2016]  ClientConnect: 3
+[Sun Jan 03 20:08:21 2016]  mlog:Player Padawan, connected. With IP - 71.163.231.208:29070 
+[Sun Jan 03 20:09:14 2016]  ClientDisconnect: 3
+[Sun Jan 03 20:09:14 2016]  ClientConnect: 3
+[Sun Jan 03 20:09:14 2016]  mlog:Player Padawan, connected. With IP - 71.163.231.208:29070 
+[Sun Jan 03 20:10:42 2016]  ClientDisconnect: 0
+[Sun Jan 03 20:10:42 2016]  ClientDisconnect: 2
+[Sun Jan 03 20:11:05 2016]  ClientDisconnect: 3
+[Sun Jan 03 20:11:05 2016]  ClientConnect: 3
+[Sun Jan 03 20:11:05 2016]  mlog:Player Padawan, connected. With IP - 71.163.231.208:29070 
+[Sun Jan 03 20:11:38 2016]  ClientDisconnect: 1
+[Sun Jan 03 20:11:54 2016]  ClientDisconnect: 3
+[Sun Jan 03 20:11:54 2016]  ClientConnect: 3
+[Sun Jan 03 20:11:54 2016]  mlog:Player Padawan, connected. With IP - 71.163.231.208:29070 
+[Sun Jan 03 20:12:20 2016]  ClientDisconnect: 3
+[Sun Jan 03 20:12:20 2016]  ClientConnect: 3
+[Sun Jan 03 20:12:20 2016]  mlog:Player Padawan, connected. With IP - 71.163.231.208:29070 
+[Sun Jan 03 20:15:45 2016]  ClientDisconnect: 3
+[Sun Jan 03 20:15:54 2016]  ClientConnect: 0
+[Sun Jan 03 20:15:54 2016]  mlog:Player Padawan, connected. With IP - 86.4.116.222:29070 
+[Sun Jan 03 20:19:19 2016]  ClientDisconnect: 0
+[Sun Jan 03 20:33:41 2016]  ClientConnect: 0
+[Sun Jan 03 20:33:41 2016]  mlog:Player Padawan, connected. With IP - 176.15.13.52:29070 
+[Sun Jan 03 20:37:06 2016]  ClientDisconnect: 0
+[Sun Jan 03 20:46:15 2016]  ClientConnect: 0
+[Sun Jan 03 20:46:15 2016]  mlog:Player Marvin, connected. With IP - 88.102.255.226:29070 
+[Sun Jan 03 20:46:22 2016]  ClientDisconnect: 0
+[Sun Jan 03 21:20:40 2016]  ClientConnect: 0
+[Sun Jan 03 21:20:40 2016]  mlog:Player lox, connected. With IP - 176.105.211.54:-10937 
+[Sun Jan 03 21:24:05 2016]  ClientDisconnect: 0
+[Sun Jan 03 21:24:42 2016]  ClientConnect: 0
+[Sun Jan 03 21:24:42 2016]  mlog:Player Raid, connected. With IP - 73.35.53.207:29070 
+[Sun Jan 03 21:25:23 2016]  ClientConnect: 1
+[Sun Jan 03 21:25:23 2016]  mlog:Player Padawan, connected. With IP - 72.218.122.86:29070 
+[Sun Jan 03 21:28:08 2016]  ClientDisconnect: 0
+[Sun Jan 03 21:28:48 2016]  ClientDisconnect: 1
+[Sun Jan 03 22:53:41 2016]  ClientConnect: 0
+[Sun Jan 03 22:53:41 2016]  mlog:Player TR-8R, connected. With IP - 93.81.242.129:29070 
+[Sun Jan 03 22:57:02 2016]  ClientDisconnect: 0
+[Sun Jan 03 23:53:31 2016]  ClientConnect: 0
+[Sun Jan 03 23:53:31 2016]  mlog:Player Padawan, connected. With IP - 95.25.79.221:29070 
+[Sun Jan 03 23:56:56 2016]  ClientDisconnect: 0
+[Mon Jan 04 10:49:23 2016]  ClientConnect: 0
+[Mon Jan 04 10:49:23 2016]  mlog:Player Over, connected. With IP - 2.134.194.223:29071 
+[Mon Jan 04 10:52:48 2016]  ClientDisconnect: 0
+[Mon Jan 04 12:13:53 2016]  ClientConnect: 0
+[Mon Jan 04 12:13:53 2016]  mlog:Player Padawan, connected. With IP - 84.122.58.218:29070 
+[Mon Jan 04 12:17:19 2016]  ClientDisconnect: 0
+[Mon Jan 04 14:39:46 2016]  ClientConnect: 0
+[Mon Jan 04 14:39:46 2016]  mlog:Player xZero, connected. With IP - 83.30.9.181:29070 
+[Mon Jan 04 14:43:11 2016]  ClientDisconnect: 0
+[Mon Jan 04 15:24:40 2016]  ClientConnect: 0
+[Mon Jan 04 15:24:40 2016]  mlog:Player MuRziLkA, connected. With IP - 188.162.167.1:29070 
+[Mon Jan 04 15:26:17 2016]  ClientConnect: 1
+[Mon Jan 04 15:26:17 2016]  mlog:Player Warha, connected. With IP - 46.42.33.16:29070 
+[Mon Jan 04 15:28:05 2016]  ClientDisconnect: 0
+[Mon Jan 04 15:29:42 2016]  ClientDisconnect: 1
+[Mon Jan 04 16:46:49 2016]  ClientConnect: 0
+[Mon Jan 04 16:46:49 2016]  mlog:Player Padawan, connected. With IP - 77.240.181.113:29070 
+[Mon Jan 04 16:50:14 2016]  ClientDisconnect: 0
+[Mon Jan 04 17:43:01 2016]  ClientConnect: 0
+[Mon Jan 04 17:43:01 2016]  mlog:Player Padawan, connected. With IP - 213.149.18.173:29070 
+[Mon Jan 04 17:46:14 2016]  ClientConnect: 1
+[Mon Jan 04 17:46:14 2016]  mlog:Player Philipp_1299, connected. With IP - 93.199.12.28:29070 
+[Mon Jan 04 17:46:26 2016]  ClientDisconnect: 0
+[Mon Jan 04 17:46:44 2016]  ClientConnect: 0
+[Mon Jan 04 17:46:44 2016]  mlog:Player Flaumongo, connected. With IP - 93.199.24.198:29070 
+[Mon Jan 04 17:49:41 2016]  ClientDisconnect: 1
+[Mon Jan 04 17:50:10 2016]  ClientDisconnect: 0
+[Mon Jan 04 18:20:44 2016]  ClientConnect: 0
+[Mon Jan 04 18:20:44 2016]  mlog:Player Padawan, connected. With IP - 98.198.112.44:29070 
+[Mon Jan 04 18:23:08 2016]  ClientDisconnect: 0
+[Mon Jan 04 18:23:08 2016]  ClientConnect: 0
+[Mon Jan 04 18:23:08 2016]  mlog:Player Padawan, connected. With IP - 98.198.112.44:29070 
+[Mon Jan 04 18:24:35 2016]  ClientDisconnect: 0
+[Mon Jan 04 18:24:35 2016]  ClientConnect: 0
+[Mon Jan 04 18:24:35 2016]  mlog:Player Padawan, connected. With IP - 98.198.112.44:29070 
+[Mon Jan 04 18:26:36 2016]  ClientDisconnect: 0
+[Mon Jan 04 18:26:36 2016]  ClientConnect: 0
+[Mon Jan 04 18:26:36 2016]  mlog:Player Padawan, connected. With IP - 98.198.112.44:29070 
+[Mon Jan 04 18:28:49 2016]  ClientConnect: 1
+[Mon Jan 04 18:28:49 2016]  mlog:Player ^4Reborn ^1BOT, connected. With IP - 188.242.195.109:29070 
+[Mon Jan 04 18:30:03 2016]  ClientDisconnect: 0
+[Mon Jan 04 18:32:15 2016]  ClientDisconnect: 1
+[Mon Jan 04 19:00:17 2016]  ClientConnect: 0
+[Mon Jan 04 19:00:17 2016]  mlog:Player ArhimeD SkyWoker, connected. With IP - 95.83.19.93:29070 
+[Mon Jan 04 19:00:19 2016]  ClientConnect: 1
+[Mon Jan 04 19:00:19 2016]  mlog:Player Cherniy, connected. With IP - 85.26.232.227:-30957 
+[Mon Jan 04 19:01:59 2016]  ClientDisconnect: 1
+[Mon Jan 04 19:01:59 2016]  ClientConnect: 1
+[Mon Jan 04 19:01:59 2016]  mlog:Player Cherniy, connected. With IP - 85.26.232.227:-30957 
+[Mon Jan 04 19:02:01 2016]  ClientDisconnect: 0
+[Mon Jan 04 19:02:01 2016]  ClientConnect: 0
+[Mon Jan 04 19:02:01 2016]  mlog:Player ArhimeD SkyWoker, connected. With IP - 95.83.19.93:29070 
+[Mon Jan 04 19:05:25 2016]  ClientDisconnect: 1
+[Mon Jan 04 19:06:16 2016]  ClientDisconnect: 0
+[Mon Jan 04 19:32:51 2016]  ClientConnect: 0
+[Mon Jan 04 19:32:51 2016]  mlog:Player Aleex, connected. With IP - 128.71.14.32:29070 
+[Mon Jan 04 19:36:16 2016]  ClientDisconnect: 0
+[Mon Jan 04 19:40:05 2016]  ClientConnect: 0
+[Mon Jan 04 19:40:05 2016]  mlog:Player SwaggaOne, connected. With IP - 155.4.101.39:29070 
+[Mon Jan 04 19:43:30 2016]  ClientDisconnect: 0
+[Mon Jan 04 19:44:50 2016]  ClientConnect: 0
+[Mon Jan 04 19:44:50 2016]  mlog:Player Padawan, connected. With IP - 83.26.251.41:14957 
+[Mon Jan 04 19:44:58 2016]  ClientDisconnect: 0
+[Mon Jan 04 20:02:57 2016]  ClientConnect: 0
+[Mon Jan 04 20:02:57 2016]  mlog:Player ReFilled, connected. With IP - 91.202.46.44:29070 
+[Mon Jan 04 20:02:58 2016]  ClientConnect: 1
+[Mon Jan 04 20:02:58 2016]  mlog:Player Alvor Ky3Heu, connected. With IP - 91.202.47.44:29070 
+[Mon Jan 04 20:03:49 2016]  ClientDisconnect: 0
+[Mon Jan 04 20:03:49 2016]  ClientConnect: 0
+[Mon Jan 04 20:03:49 2016]  mlog:Player ReFilled, connected. With IP - 91.202.46.44:29070 
+[Mon Jan 04 20:06:23 2016]  ClientDisconnect: 1
+[Mon Jan 04 20:07:15 2016]  ClientDisconnect: 0
+[Mon Jan 04 20:40:50 2016]  ClientConnect: 0
+[Mon Jan 04 20:40:50 2016]  mlog:Player Padawan, connected. With IP - 87.229.196.130:29070 
+[Mon Jan 04 20:44:22 2016]  ClientDisconnect: 0
+[Mon Jan 04 21:14:39 2016]  ClientConnect: 0
+[Mon Jan 04 21:14:39 2016]  mlog:Player Padawan, connected. With IP - 83.251.169.113:29070 
+[Mon Jan 04 21:16:48 2016]  ClientConnect: 1
+[Mon Jan 04 21:16:48 2016]  mlog:Player Darth Nass, connected. With IP - 95.27.207.200:29070 
+[Mon Jan 04 21:18:05 2016]  ClientDisconnect: 0
+[Mon Jan 04 21:18:17 2016]  ClientConnect: 0
+[Mon Jan 04 21:18:17 2016]  mlog:Player Padawan, connected. With IP - 176.14.14.219:29070 
+[Mon Jan 04 21:20:11 2016]  ClientDisconnect: 1
+[Mon Jan 04 21:21:31 2016]  ClientDisconnect: 0
+[Mon Jan 04 21:21:31 2016]  ClientConnect: 0
+[Mon Jan 04 21:21:31 2016]  mlog:Player Padawan, connected. With IP - 176.14.14.219:29070 
+[Mon Jan 04 21:24:57 2016]  ClientDisconnect: 0
+[Mon Jan 04 21:55:42 2016]  ClientConnect: 0
+[Mon Jan 04 21:55:42 2016]  mlog:Player Cool boi, connected. With IP - 90.227.209.8:-11475 
+[Mon Jan 04 21:59:07 2016]  ClientDisconnect: 0
+[Mon Jan 04 22:26:36 2016]  ClientConnect: 0
+[Mon Jan 04 22:26:36 2016]  mlog:Player OverSizedMidget, connected. With IP - 178.85.49.96:29070 
+[Mon Jan 04 22:26:36 2016]  ClientConnect: 1
+[Mon Jan 04 22:26:36 2016]  mlog:Player Tan, connected. With IP - 81.136.30.195:29070 
+[Mon Jan 04 22:30:01 2016]  ClientDisconnect: 0
+[Mon Jan 04 22:30:01 2016]  ClientDisconnect: 1
+[Tue Jan 05 00:18:44 2016]  ClientConnect: 0
+[Tue Jan 05 00:18:44 2016]  mlog:Player Padawan, connected. With IP - 188.125.142.175:29071 
+[Tue Jan 05 00:22:05 2016]  ClientDisconnect: 0
+[Tue Jan 05 00:32:05 2016]  ClientConnect: 0
+[Tue Jan 05 00:32:05 2016]  mlog:Player Padawan, connected. With IP - 172.14.137.206:29070 
+[Tue Jan 05 00:35:31 2016]  ClientDisconnect: 0
+[Tue Jan 05 09:41:53 2016]  ClientConnect: 0
+[Tue Jan 05 09:41:53 2016]  mlog:Player iunscarred, connected. With IP - 89.151.179.112:-27462 
+[Tue Jan 05 09:45:18 2016]  ClientDisconnect: 0
+[Tue Jan 05 09:46:58 2016]  ClientConnect: 0
+[Tue Jan 05 09:46:58 2016]  mlog:Player iunscarred, connected. With IP - 89.151.179.112:-27462 
+[Tue Jan 05 09:50:24 2016]  ClientDisconnect: 0
+[Tue Jan 05 09:50:33 2016]  ClientConnect: 0
+[Tue Jan 05 09:50:33 2016]  mlog:Player iunscarred, connected. With IP - 89.151.179.112:-27462 
+[Tue Jan 05 09:53:59 2016]  ClientDisconnect: 0
+[Tue Jan 05 11:51:28 2016]  ClientConnect: 0
+[Tue Jan 05 11:51:28 2016]  mlog:Player Lord Vladik, connected. With IP - 217.118.78.41:24499 
+[Tue Jan 05 11:52:00 2016]  ClientConnect: 1
+[Tue Jan 05 11:52:00 2016]  mlog:Player An-Drus-Zhilyai, connected. With IP - 77.232.15.212:-15556 
+[Tue Jan 05 11:52:26 2016]  ClientConnect: 2
+[Tue Jan 05 11:52:26 2016]  mlog:Player Swain, connected. With IP - 37.57.127.235:29070 
+[Tue Jan 05 11:53:10 2016]  ClientDisconnect: 0
+[Tue Jan 05 11:53:10 2016]  ClientConnect: 0
+[Tue Jan 05 11:53:10 2016]  mlog:Player Lord Vladik, connected. With IP - 217.118.78.41:24499 
+[Tue Jan 05 11:55:25 2016]  ClientDisconnect: 1
+[Tue Jan 05 11:55:51 2016]  ClientDisconnect: 2
+[Tue Jan 05 11:56:36 2016]  ClientDisconnect: 0
+[Tue Jan 05 14:16:39 2016]  ClientConnect: 0
+[Tue Jan 05 14:16:39 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Jan 05 14:20:04 2016]  ClientDisconnect: 0

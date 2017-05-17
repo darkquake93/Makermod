@@ -1,0 +1,443 @@
+[Sun Apr 20 15:35:01 2014]  ------------------------------------------------------------
+[Sun Apr 20 15:35:01 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Apr 20 15:35:03 2014]  ClientConnect: 0
+[Sun Apr 20 15:35:55 2014]  ClientBegin: 0
+[Sun Apr 20 15:39:18 2014]  Item: 0 weapon_melee
+[Sun Apr 20 15:39:22 2014]  Kill: 0 0 39: ^5»^0SK^5|||^0WØLF^5«^0™ killed ^5»^0SK^5|||^0WØLF^5«^0™ by MOD_SUICIDE
+[Sun Apr 20 15:39:32 2014]  Item: 0 weapon_melee
+[Sun Apr 20 15:40:33 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: .
+[Sun Apr 20 15:41:16 2014]  ClientDisconnect: 0
+[Sun Apr 20 16:08:54 2014]  ClientConnect: 0
+[Sun Apr 20 16:08:54 2014]  mlog:Player Padawan, connected. With IP - 77.129.250.203:29070 
+[Sun Apr 20 16:09:16 2014]  ClientBegin: 0
+[Sun Apr 20 16:10:00 2014]  ClientConnect: 1
+[Sun Apr 20 16:10:00 2014]  mlog:Player Padawan, connected. With IP - 90.62.196.112:29070 
+[Sun Apr 20 16:10:17 2014]  ClientBegin: 1
+[Sun Apr 20 16:10:48 2014]  Kill: 0 1 3: certicom killed Padawan by MOD_SABER
+[Sun Apr 20 16:11:02 2014]  ClientConnect: 2
+[Sun Apr 20 16:11:02 2014]  mlog:Player Cøcø, connected. With IP - 90.62.196.112:-20181 
+[Sun Apr 20 16:11:08 2014]  Kill: 1 0 3: Padawan killed certicom by MOD_SABER
+[Sun Apr 20 16:11:20 2014]  Kill: 1 0 3: Padawan killed certicom by MOD_SABER
+[Sun Apr 20 16:11:26 2014]  ClientBegin: 2
+[Sun Apr 20 16:11:35 2014]  Kill: 1 2 3: Padawan killed Cøcø by MOD_SABER
+[Sun Apr 20 16:11:37 2014]  Kill: 1 0 3: Padawan killed certicom by MOD_SABER
+[Sun Apr 20 16:11:44 2014]  Kill: 1 2 3: Padawan killed Cøcø by MOD_SABER
+[Sun Apr 20 16:11:53 2014]  Kill: 1 0 3: Padawan killed certicom by MOD_SABER
+[Sun Apr 20 16:12:00 2014]  Kill: 1 0 3: Padawan killed certicom by MOD_SABER
+[Sun Apr 20 16:12:34 2014]  Kill: 2 1 3: Cøcø killed Padawan by MOD_SABER
+[Sun Apr 20 16:12:45 2014]  Kill: 0 2 3: certicom killed Cøcø by MOD_SABER
+[Sun Apr 20 16:12:49 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:13:08 2014]  Kill: 1 2 3: Padawan killed Cøcø by MOD_SABER
+[Sun Apr 20 16:13:17 2014]  Kill: 2 1 31: Cøcø killed Padawan by MOD_FORCE_DARK
+[Sun Apr 20 16:13:34 2014]  Kill: 0 1 3: certicom killed Padawan by MOD_SABER
+[Sun Apr 20 16:13:47 2014]  ClientDisconnect: 1
+[Sun Apr 20 16:13:48 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:14:18 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:15:00 2014]  Kill: 0 2 3: certicom killed Cøcø by MOD_SABER
+[Sun Apr 20 16:15:15 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:15:24 2014]  ClientConnect: 1
+[Sun Apr 20 16:15:24 2014]  mlog:Player Padawan, connected. With IP - 90.62.196.112:29070 
+[Sun Apr 20 16:15:31 2014]  Kill: 0 2 3: certicom killed Cøcø by MOD_SABER
+[Sun Apr 20 16:15:38 2014]  ClientBegin: 1
+[Sun Apr 20 16:15:42 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:15:49 2014]  Kill: 2 1 3: Cøcø killed Padawan by MOD_SABER
+[Sun Apr 20 16:15:57 2014]  Kill: 2 1 3: Cøcø killed Padawan by MOD_SABER
+[Sun Apr 20 16:16:07 2014]  Kill: 2 1 3: Cøcø killed Padawan by MOD_SABER
+[Sun Apr 20 16:16:23 2014]  Kill: 1 2 3: Padawan killed Cøcø by MOD_SABER
+[Sun Apr 20 16:16:32 2014]  Kill: 1 0 3: Padawan killed certicom by MOD_SABER
+[Sun Apr 20 16:17:26 2014]  Kill: 0 2 3: certicom killed Cøcø by MOD_SABER
+[Sun Apr 20 16:17:35 2014]  Kill: 2 1 3: Cøcø killed Padawan by MOD_SABER
+[Sun Apr 20 16:17:41 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:17:47 2014]  Kill: 2 1 3: Cøcø killed Padawan by MOD_SABER
+[Sun Apr 20 16:18:34 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:18:52 2014]  Kill: 2 1 31: Cøcø killed Padawan by MOD_FORCE_DARK
+[Sun Apr 20 16:19:04 2014]  Kill: 2 1 3: Cøcø killed Padawan by MOD_SABER
+[Sun Apr 20 16:19:10 2014]  Kill: 2 1 3: Cøcø killed Padawan by MOD_SABER
+[Sun Apr 20 16:19:22 2014]  Kill: 2 1 3: Cøcø killed Padawan by MOD_SABER
+[Sun Apr 20 16:19:23 2014]  Kill: 0 2 3: certicom killed Cøcø by MOD_SABER
+[Sun Apr 20 16:19:28 2014]  Kill: 2 1 3: Cøcø killed Padawan by MOD_SABER
+[Sun Apr 20 16:19:28 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:19:29 2014]  Kill: 0 1 37: certicom killed Padawan by MOD_TELEFRAG
+[Sun Apr 20 16:19:34 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:19:50 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:19:56 2014]  Kill: 2 1 31: Cøcø killed Padawan by MOD_FORCE_DARK
+[Sun Apr 20 16:20:09 2014]  Kill: 0 2 31: certicom killed Cøcø by MOD_FORCE_DARK
+[Sun Apr 20 16:20:51 2014]  Kill: 2 0 31: Cøcø killed certicom by MOD_FORCE_DARK
+[Sun Apr 20 16:21:01 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:21:06 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:21:12 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:21:18 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:21:26 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:21:44 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:21:46 2014]  ClientDisconnect: 1
+[Sun Apr 20 16:22:05 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:22:12 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:22:19 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:22:33 2014]  ClientConnect: 1
+[Sun Apr 20 16:22:33 2014]  mlog:Player telshia, connected. With IP - 77.129.250.203:1024 
+[Sun Apr 20 16:22:39 2014]  Kill: 0 2 3: certicom killed Cøcø by MOD_SABER
+[Sun Apr 20 16:22:47 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:23:02 2014]  ClientBegin: 1
+[Sun Apr 20 16:23:07 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:23:14 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:23:31 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:23:37 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:24:00 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:24:08 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:24:23 2014]  say: Cøcø: t pour parler
+[Sun Apr 20 16:24:37 2014]  Kill: 2 1 31: Cøcø killed telshia by MOD_FORCE_DARK
+[Sun Apr 20 16:25:00 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:25:24 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:25:34 2014]  Kill: 0 2 31: certicom killed Cøcø by MOD_FORCE_DARK
+[Sun Apr 20 16:25:40 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:25:58 2014]  Kill: 2 0 31: Cøcø killed certicom by MOD_FORCE_DARK
+[Sun Apr 20 16:26:06 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:26:11 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:26:15 2014]  say: certicom: tu joue a l'arche ou ta une tech ?
+[Sun Apr 20 16:26:32 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:26:33 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:26:39 2014]  say: Cøcø: tech
+[Sun Apr 20 16:26:43 2014]  Kill: 0 1 3: certicom killed telshia by MOD_SABER
+[Sun Apr 20 16:26:47 2014]  Kill: 0 2 3: certicom killed Cøcø by MOD_SABER
+[Sun Apr 20 16:27:07 2014]  Kill: 0 1 3: certicom killed telshia by MOD_SABER
+[Sun Apr 20 16:27:08 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:27:19 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:27:29 2014]  Kill: 2 1 31: Cøcø killed telshia by MOD_FORCE_DARK
+[Sun Apr 20 16:27:35 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:27:42 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:27:47 2014]  Kill: 2 0 31: Cøcø killed certicom by MOD_FORCE_DARK
+[Sun Apr 20 16:27:56 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:27:56 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:28:07 2014]  Kill: 0 2 3: certicom killed Cøcø by MOD_SABER
+[Sun Apr 20 16:28:17 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:28:25 2014]  Kill: 2 1 31: Cøcø killed telshia by MOD_FORCE_DARK
+[Sun Apr 20 16:28:28 2014]  say: certicom: et c'est quoi ?
+[Sun Apr 20 16:28:31 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:28:38 2014]  Kill: 0 1 3: certicom killed telshia by MOD_SABER
+[Sun Apr 20 16:28:41 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:28:49 2014]  say: telshia: stop éclaire
+[Sun Apr 20 16:29:02 2014]  Kill: 1 2 3: telshia killed Cøcø by MOD_SABER
+[Sun Apr 20 16:29:16 2014]  Kill: 0 1 3: certicom killed telshia by MOD_SABER
+[Sun Apr 20 16:29:31 2014]  say: Cøcø: bravo premier kill dada
+[Sun Apr 20 16:29:38 2014]  Kill: 1 0 3: telshia killed certicom by MOD_SABER
+[Sun Apr 20 16:30:07 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:30:08 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:30:13 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:30:21 2014]  Kill: 2 0 3: Cøcø killed certicom by MOD_SABER
+[Sun Apr 20 16:30:45 2014]  say: certicom: go sur une map pas cheater
+[Sun Apr 20 16:30:49 2014]  ClientDisconnect: 0
+[Sun Apr 20 16:31:04 2014]  say: Cøcø: pourquoi elle est cheate ?
+[Sun Apr 20 16:31:19 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:31:33 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:31:45 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:32:16 2014]  Kill: 1 2 3: telshia killed Cøcø by MOD_SABER
+[Sun Apr 20 16:32:34 2014]  Kill: 2 1 31: Cøcø killed telshia by MOD_FORCE_DARK
+[Sun Apr 20 16:32:48 2014]  Kill: 2 1 3: Cøcø killed telshia by MOD_SABER
+[Sun Apr 20 16:32:50 2014]  ClientDisconnect: 1
+[Sun Apr 20 16:32:56 2014]  say: Cøcø: il est ou alex ?
+[Sun Apr 20 16:34:05 2014]  ClientDisconnect: 2
+[Sun Apr 20 17:34:59 2014]  Exit: Timelimit hit.
+[Sun Apr 20 21:57:11 2014]  ClientConnect: 0
+[Sun Apr 20 21:57:11 2014]  mlog:Player ^0AoS^1|^0Javimetal ^1[C], connected. With IP - 85.219.100.35:29070 
+[Sun Apr 20 21:57:39 2014]  ClientConnect: 1
+[Sun Apr 20 21:57:39 2014]  mlog:Player ^7p^0anda^3., connected. With IP - 213.60.208.166:29070 
+[Sun Apr 20 21:58:06 2014]  ClientBegin: 0
+[Sun Apr 20 21:58:07 2014]  say: ^7-^3A^7m^3r^7a^3s^7-: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Apr 20 21:58:08 2014]  ClientBegin: 1
+[Sun Apr 20 21:58:13 2014]  say: ^7-^3A^7m^3r^7a^3s^7-: ^0-= ^1mierda ^0=-
+[Sun Apr 20 21:58:17 2014]  ShutdownGame:
+[Sun Apr 20 21:58:17 2014]  ------------------------------------------------------------
+[Sun Apr 20 21:58:18 2014]  ------------------------------------------------------------
+[Sun Apr 20 21:58:18 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Apr 20 21:58:18 2014]  ClientConnect: 0
+[Sun Apr 20 21:58:18 2014]  ClientConnect: 1
+[Sun Apr 20 21:58:38 2014]  say: ^7-^3A^7m^3r^7a^3s^7-: ^0-= ^1puto mapa ^0=-
+[Sun Apr 20 21:58:38 2014]  ClientBegin: 0
+[Sun Apr 20 21:58:39 2014]  say: ^7-^3A^7m^3r^7a^3s^7-: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sun Apr 20 21:58:52 2014]  ClientBegin: 1
+[Sun Apr 20 21:58:59 2014]  say: ^7-^3A^7m^3r^7a^3s^7-: ^0-= ^1ja_hola ^0=-
+[Sun Apr 20 21:59:08 2014]  say: ^3p^7an^0D^7a^3_: ^7dios k cambio
+[Sun Apr 20 21:59:10 2014]  say: ^7-^3A^7m^3r^7a^3s^7-: ^0-= ^1XD ^0=-
+[Sun Apr 20 21:59:18 2014]  say: ^7-^3A^7m^3r^7a^3s^7-: ^1Chatstyles ^7- ^0Chatstyle set to ^1Amras
+[Sun Apr 20 21:59:19 2014]  say: ^3p^7an^0D^7a^3_: ^7jo la cfg no funciona aki D:
+[Sun Apr 20 21:59:25 2014]  say: ^7-^3A^7m^3r^7a^3s^7-: ^3+¦--^7jhajajajajaj xD es makermod^3--¦+
+[Sun Apr 20 21:59:26 2014]  say: ^3p^7an^0D^7a^3_: ^7no me deja hacer exe
+[Sun Apr 20 21:59:34 2014]  say: ^3p^7an^0D^7a^3_: ^7ahora soy god
+[Sun Apr 20 21:59:36 2014]  say: ^3p^7an^0D^7a^3_: ^7EHEHEHEHE
+[Sun Apr 20 21:59:43 2014]  say: ^7-^3A^7m^3r^7a^3s^7-: ^1Chatstyles ^7- ^0Chatstyle set to ^1Death
+[Sun Apr 20 21:59:47 2014]  say: ^7-^3A^7m^3r^7a^3s^7-: ^0»^4si, no? xD^0«
+[Sun Apr 20 21:59:49 2014]  say: ^3p^7an^0D^7a^3_: ^7donde tass
+[Sun Apr 20 22:00:06 2014]  say: ^3p^7an^0D^7a^3_: ^7te busco con noclio
+[Sun Apr 20 22:00:06 2014]  print "^7-^3A^7m^3r^7a^3s^7-^7 @@@PLRENAME ^0D^4e^0a^4t^0h
+"[Sun Apr 20 22:00:08 2014]  say: ^3p^7an^0D^7a^3_: ^7p
+[Sun Apr 20 22:00:14 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4okii^0«
+[Sun Apr 20 22:00:22 2014]  say: ^0D^4e^0a^4t^0h: mlist
+[Sun Apr 20 22:00:23 2014]  print "^3p^7an^0D^7a^3_^7 @@@PLRENAME ^5L^7i^5f^7e
+"[Sun Apr 20 22:00:24 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4dep^0«
+[Sun Apr 20 22:00:25 2014]  say: ^5L^7i^5f^7e: ^7:PP
+[Sun Apr 20 22:00:27 2014]  say: ^5L^7i^5f^7e: ^7trolol
+[Sun Apr 20 22:00:40 2014]  say: ^5L^7i^5f^7e: ^7me he perdido
+[Sun Apr 20 22:00:45 2014]  say: ^5L^7i^5f^7e: ^7he llegado a un coliseo
+[Sun Apr 20 22:00:49 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4quieta^0«
+[Sun Apr 20 22:01:07 2014]  say: ^5L^7i^5f^7e: ^7akii
+[Sun Apr 20 22:01:09 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4tu solo mira^0«
+[Sun Apr 20 22:01:20 2014]  say: ^5L^7i^5f^7e: ^7timmy va a x ti O:
+[Sun Apr 20 22:01:21 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4un minuto y mira jajajaja^0«
+[Sun Apr 20 22:01:34 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4le voy a hacer un destello final^0«
+[Sun Apr 20 22:01:36 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4de Vegeta^0«
+[Sun Apr 20 22:01:39 2014]  say: ^5L^7i^5f^7e: ^7xd
+[Sun Apr 20 22:02:10 2014]  print "^5L^7i^5f^7e^7 @@@PLRENAME ^7^0pan^7d^0a^3_
+"[Sun Apr 20 22:02:18 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4mierda no va D:^0«
+[Sun Apr 20 22:02:20 2014]  say: ^7^0pan^7d^0a^3_: ^7lol
+[Sun Apr 20 22:02:27 2014]  say: ^7^0pan^7d^0a^3_: ^7LOOL
+[Sun Apr 20 22:02:27 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4jas^0«
+[Sun Apr 20 22:02:29 2014]  say: ^7^0pan^7d^0a^3_: ^7k es eso
+[Sun Apr 20 22:02:33 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4mirale^0«
+[Sun Apr 20 22:02:37 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4mirale^0«
+[Sun Apr 20 22:02:37 2014]  say: ^7^0pan^7d^0a^3_: ^7se muere
+[Sun Apr 20 22:02:39 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4jajajajajajajajajja^0«
+[Sun Apr 20 22:02:40 2014]  say: ^7^0pan^7d^0a^3_: ^7o:
+[Sun Apr 20 22:02:44 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4acercate sin el God^0«
+[Sun Apr 20 22:02:44 2014]  say: ^7^0pan^7d^0a^3_: ^7k miedito
+[Sun Apr 20 22:02:52 2014]  Kill: 0 1 36: ^0D^4e^0a^4t^0h killed ^7^0pan^7d^0a^3_ by MOD_CRUSH
+[Sun Apr 20 22:02:55 2014]  say: ^7^0pan^7d^0a^3_: ^7lol
+[Sun Apr 20 22:03:01 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4hacer 5000 de daño^0«
+[Sun Apr 20 22:03:04 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4hace*^0«
+[Sun Apr 20 22:03:28 2014]  say: ^7^0pan^7d^0a^3_: ^7y como lo hiciste?
+[Sun Apr 20 22:03:47 2014]  say: ^7^0pan^7d^0a^3_: ^7diooos
+[Sun Apr 20 22:04:02 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4haz /npc spawn mutant_rancor^0«
+[Sun Apr 20 22:04:22 2014]  say: ^7^0pan^7d^0a^3_: ^7se mueve
+[Sun Apr 20 22:04:27 2014]  say: ^7^0pan^7d^0a^3_: ^7como el otro
+[Sun Apr 20 22:04:32 2014]  say: ^7^0pan^7d^0a^3_: ^7pero mobil
+[Sun Apr 20 22:04:37 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4mira^0«
+[Sun Apr 20 22:04:38 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XD^0«
+[Sun Apr 20 22:04:40 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4muere^0«
+[Sun Apr 20 22:04:45 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XDDDDDDDDDDDDDDDDDDDDDDD^0«
+[Sun Apr 20 22:05:03 2014]  say: ^0D^4e^0a^4t^0h: mplacefx force/rage2 1
+[Sun Apr 20 22:05:10 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XD no sale todo^0«
+[Sun Apr 20 22:05:13 2014]  say: ^7^0pan^7d^0a^3_: ^7lol
+[Sun Apr 20 22:05:17 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4ese el primer comando^0«
+[Sun Apr 20 22:05:28 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4seria:^0«
+[Sun Apr 20 22:05:52 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4/mplacefx force/rage2 1 ;mpain 5000 190 ;mdrop^0«
+[Sun Apr 20 22:05:57 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4en una misma linea^0«
+[Sun Apr 20 22:06:02 2014]  say: ^7^0pan^7d^0a^3_: ^7ah
+[Sun Apr 20 22:06:09 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XDD soy experto en makermod^0«
+[Sun Apr 20 22:06:19 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4mira^0«
+[Sun Apr 20 22:06:21 2014]  say: ^7^0pan^7d^0a^3_: ^7wooo
+[Sun Apr 20 22:06:28 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4mira la puerta^0«
+[Sun Apr 20 22:06:28 2014]  say: ^7^0pan^7d^0a^3_: ^7como se mueve
+[Sun Apr 20 22:06:30 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4la vida^0«
+[Sun Apr 20 22:06:34 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4con G^0«
+[Sun Apr 20 22:06:43 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XDD^0«
+[Sun Apr 20 22:06:49 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4con el graple^0«
+[Sun Apr 20 22:06:56 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4usa geapple parqa moverla^0«
+[Sun Apr 20 22:06:56 2014]  say: ^7^0pan^7d^0a^3_: ^7hmm no
+[Sun Apr 20 22:06:56 2014]  say: ^0D^4e^0a^4t^0h: ^1Chatstyles ^7- ^0Chatstyle set to ^1Amras
+[Sun Apr 20 22:06:58 2014]  say: ^0D^4e^0a^4t^0h: ^3+¦--^7yo tengo en G^3--¦+
+[Sun Apr 20 22:07:04 2014]  say: ^0D^4e^0a^4t^0h: ^3+¦--^7lol^3--¦+
+[Sun Apr 20 22:07:05 2014]  say: ^7^0pan^7d^0a^3_: ^7AAH
+[Sun Apr 20 22:07:15 2014]  say: ^0D^4e^0a^4t^0h: !chatstile metal
+[Sun Apr 20 22:07:19 2014]  say: ^0D^4e^0a^4t^0h: ^3+¦--^7joder^3--¦+
+[Sun Apr 20 22:07:23 2014]  say: ^0D^4e^0a^4t^0h: ^3+¦--^7XD^3--¦+
+[Sun Apr 20 22:07:25 2014]  say: ^7^0pan^7d^0a^3_: ^7LOL
+[Sun Apr 20 22:07:30 2014]  say: ^0D^4e^0a^4t^0h: ^3+¦--^7la bola es poderosa no, lo siguiente^3--¦+
+[Sun Apr 20 22:07:37 2014]  say: ^0D^4e^0a^4t^0h: ^3+¦--^7aunque hay veces que desaparecen^3--¦+
+[Sun Apr 20 22:07:44 2014]  say: ^0D^4e^0a^4t^0h: !chatstylke Death
+[Sun Apr 20 22:07:48 2014]  say: ^0D^4e^0a^4t^0h: ^3+¦--^7joder!^3--¦+
+[Sun Apr 20 22:07:53 2014]  say: ^0D^4e^0a^4t^0h: ^1Chatstyles ^7- ^0Chatstyle set to ^1Death
+[Sun Apr 20 22:08:01 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XDbuscame^0«
+[Sun Apr 20 22:08:07 2014]  say: ^7^0pan^7d^0a^3_: ^7oki
+[Sun Apr 20 22:08:17 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XDDD^0«
+[Sun Apr 20 22:08:51 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4sigue las puertas del rancor^0«
+[Sun Apr 20 22:08:54 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4rompelas todas^0«
+[Sun Apr 20 22:08:57 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4y me veras xD^0«
+[Sun Apr 20 22:09:31 2014]  say: ^7^0pan^7d^0a^3_: ^7AAA
+[Sun Apr 20 22:09:43 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4BU!^0«
+[Sun Apr 20 22:09:47 2014]  say: ^7^0pan^7d^0a^3_: ^7AY MAMA
+[Sun Apr 20 22:10:02 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4acercate y mirame^0«
+[Sun Apr 20 22:10:02 2014]  say: ^7^0pan^7d^0a^3_: ^7si acerco  el zoom veo los ojos x dentro de mi skinn
+[Sun Apr 20 22:10:04 2014]  say: ^7^0pan^7d^0a^3_: ^7WTFF
+[Sun Apr 20 22:10:06 2014]  say: ^7^0pan^7d^0a^3_: ^7K ASCO
+[Sun Apr 20 22:10:14 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4acercate al suelo^0«
+[Sun Apr 20 22:10:22 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4mira ahora^0«
+[Sun Apr 20 22:10:31 2014]  say: ^7^0pan^7d^0a^3_: ^7O:
+[Sun Apr 20 22:10:34 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XD^0«
+[Sun Apr 20 22:10:39 2014]  say: ^7^0pan^7d^0a^3_: ^7cual era el cmd?
+[Sun Apr 20 22:10:48 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4/mscaleme numero^0«
+[Sun Apr 20 22:10:51 2014]  say: ^7^0pan^7d^0a^3_: ^7ok
+[Sun Apr 20 22:10:52 2014]  say: ^7^0pan^7d^0a^3_: ^7:D
+[Sun Apr 20 22:10:56 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4/mscaleme 1 es lo normal^0«
+[Sun Apr 20 22:11:00 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4dale a 10^0«
+[Sun Apr 20 22:11:02 2014]  say: ^7^0pan^7d^0a^3_: ^7se me fue
+[Sun Apr 20 22:11:04 2014]  say: ^7^0pan^7d^0a^3_: ^7199 xDD
+[Sun Apr 20 22:11:10 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4a 10 es mas grande^0«
+[Sun Apr 20 22:11:27 2014]  say: ^7^0pan^7d^0a^3_: ^7O.O
+[Sun Apr 20 22:11:44 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XD^0«
+[Sun Apr 20 22:11:47 2014]  say: ^7^0pan^7d^0a^3_: ^7NO VEO
+[Sun Apr 20 22:11:58 2014]  say: ^7^0pan^7d^0a^3_: ^7dios mi sable es enano
+[Sun Apr 20 22:12:03 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4jajajaj si^0«
+[Sun Apr 20 22:12:06 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4hmmm^0«
+[Sun Apr 20 22:12:15 2014]  say: ^7^0pan^7d^0a^3_: ^7cual es lo normal
+[Sun Apr 20 22:12:18 2014]  say: ^7^0pan^7d^0a^3_: ^71
+[Sun Apr 20 22:12:19 2014]  say: ^7^0pan^7d^0a^3_: ^7xD
+[Sun Apr 20 22:12:25 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4sigueme^0«
+[Sun Apr 20 22:13:01 2014]  say: ^7^0pan^7d^0a^3_: ^7osea se puede hacer d todo en este server?
+[Sun Apr 20 22:13:05 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4si^0«
+[Sun Apr 20 22:13:07 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4construir^0«
+[Sun Apr 20 22:13:12 2014]  say: ^7^0pan^7d^0a^3_: ^7pero no hay ni dios D:
+[Sun Apr 20 22:13:18 2014]  say: ^7^0pan^7d^0a^3_: ^7esta poco activo
+[Sun Apr 20 22:13:20 2014]  say: ^7^0pan^7d^0a^3_: ^7no?
+[Sun Apr 20 22:13:20 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XD hay modo God^0«
+[Sun Apr 20 22:13:24 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4este si^0«
+[Sun Apr 20 22:13:35 2014]  say: ^0D^4e^0a^4t^0h: ^1Media ^7- ^0Currently playing: ^1a little peace of heaven
+[Sun Apr 20 22:13:39 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4antaño molaba mas^0«
+[Sun Apr 20 22:13:45 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4hmmm^0«
+[Sun Apr 20 22:13:48 2014]  say: ^7^0pan^7d^0a^3_: ^7hay otros como este mas activos?
+[Sun Apr 20 22:14:15 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4que va^0«
+[Sun Apr 20 22:14:22 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4ya no se lleva maker^0«
+[Sun Apr 20 22:14:25 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4yo aprendi mucho^0«
+[Sun Apr 20 22:14:29 2014]  say: ^7^0pan^7d^0a^3_: ^7te veo cerca
+[Sun Apr 20 22:14:40 2014]  say: ^7^0pan^7d^0a^3_: ^7bonitos ojos o.o
+[Sun Apr 20 22:15:04 2014]  say: ^7^0pan^7d^0a^3_: ^7woo
+[Sun Apr 20 22:15:08 2014]  say: ^7^0pan^7d^0a^3_: ^7k molon
+[Sun Apr 20 22:15:09 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4toma una taza^0«
+[Sun Apr 20 22:15:18 2014]  say: ^7^0pan^7d^0a^3_: ^7lool
+[Sun Apr 20 22:15:29 2014]  say: ^7^0pan^7d^0a^3_: ^7y lo k hagas se guarda ?
+[Sun Apr 20 22:15:33 2014]  say: ^7^0pan^7d^0a^3_: ^7d alguna forma
+[Sun Apr 20 22:15:41 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4habia una forma^0«
+[Sun Apr 20 22:15:58 2014]  say: ^7^0pan^7d^0a^3_: ^7k pena k nadie este x aki entonces
+[Sun Apr 20 22:16:01 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4si si^0«
+[Sun Apr 20 22:16:03 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4se puede^0«
+[Sun Apr 20 22:16:09 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4a ver si me acuerdo de la clave^0«
+[Sun Apr 20 22:16:17 2014]  say: ^7^0pan^7d^0a^3_: ^7hasta pone su correo
+[Sun Apr 20 22:16:19 2014]  say: ^7^0pan^7d^0a^3_: ^7lol
+[Sun Apr 20 22:16:32 2014]  say: ^7^0pan^7d^0a^3_: ^7el creador ya no juega vdad?
+[Sun Apr 20 22:16:37 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4nop^0«
+[Sun Apr 20 22:16:45 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4pero yo he visto este mismo sv repleto^0«
+[Sun Apr 20 22:16:54 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4en este mapa construiamos de todo^0«
+[Sun Apr 20 22:17:01 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4yo tenia mi oficina^0«
+[Sun Apr 20 22:17:04 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4aqui^0«
+[Sun Apr 20 22:17:05 2014]  say: ^7^0pan^7d^0a^3_: ^7jaja
+[Sun Apr 20 22:17:08 2014]  say: ^7^0pan^7d^0a^3_: ^7dunde
+[Sun Apr 20 22:17:09 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4mira ven^0«
+[Sun Apr 20 22:17:32 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4aqio^0«
+[Sun Apr 20 22:17:34 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4aqui^0«
+[Sun Apr 20 22:17:39 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4aqui tenia una silla^0«
+[Sun Apr 20 22:17:40 2014]  say: ^7^0pan^7d^0a^3_: ^7a ti no te sonara un server llamdo oxygen ?
+[Sun Apr 20 22:17:43 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4y una mesa^0«
+[Sun Apr 20 22:17:47 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4si me suena de vista^0«
+[Sun Apr 20 22:17:56 2014]  say: ^7^0pan^7d^0a^3_: ^7si eran de lugormod
+[Sun Apr 20 22:18:01 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4lugor, vale^0«
+[Sun Apr 20 22:18:08 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4los lugor no me van mucho^0«
+[Sun Apr 20 22:18:12 2014]  say: ^7^0pan^7d^0a^3_: ^7cual es la diferencia? x
+[Sun Apr 20 22:18:18 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4muy sencillo^0«
+[Sun Apr 20 22:18:21 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4lo primero^0«
+[Sun Apr 20 22:18:25 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4solo servers windows^0«
+[Sun Apr 20 22:18:31 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4osea, pagar el doble jajajaj^0«
+[Sun Apr 20 22:18:34 2014]  say: ^7^0pan^7d^0a^3_: ^7lol
+[Sun Apr 20 22:18:35 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4segundo, mucho abuse^0«
+[Sun Apr 20 22:18:42 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4pero muchiiiiiisimo^0«
+[Sun Apr 20 22:18:47 2014]  say: ^7^0pan^7d^0a^3_: ^7d admin dices?
+[Sun Apr 20 22:18:55 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4no solo admin^0«
+[Sun Apr 20 22:18:57 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XD^0«
+[Sun Apr 20 22:19:02 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4los lugor buenos^0«
+[Sun Apr 20 22:19:09 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4eran: entras sin poderes de force^0«
+[Sun Apr 20 22:19:14 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4a medida que subias de rango^0«
+[Sun Apr 20 22:19:17 2014]  say: ^7^0pan^7d^0a^3_: ^7sii
+[Sun Apr 20 22:19:19 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4te daban puntos de habilidad^0«
+[Sun Apr 20 22:19:22 2014]  say: ^7^0pan^7d^0a^3_: ^7habia k hacer cuenta
+[Sun Apr 20 22:19:25 2014]  say: ^7^0pan^7d^0a^3_: ^7 a mi me molaba
+[Sun Apr 20 22:19:26 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4y lo max era tener 100 puntos^0«
+[Sun Apr 20 22:19:28 2014]  say: ^7^0pan^7d^0a^3_: ^7habia profesiones
+[Sun Apr 20 22:19:29 2014]  say: ^7^0pan^7d^0a^3_: ^7y dinero
+[Sun Apr 20 22:19:33 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4si, la cosa es que^0«
+[Sun Apr 20 22:19:40 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4siempre siempre que he entrado^0«
+[Sun Apr 20 22:19:43 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4ni hola podia decir^0«
+[Sun Apr 20 22:19:45 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XD^0«
+[Sun Apr 20 22:19:47 2014]  say: ^7^0pan^7d^0a^3_: ^7x?
+[Sun Apr 20 22:19:55 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4porque ponian minas en respawns^0«
+[Sun Apr 20 22:19:58 2014]  say: ^7^0pan^7d^0a^3_: ^7aah
+[Sun Apr 20 22:20:00 2014]  say: ^7^0pan^7d^0a^3_: ^7lol
+[Sun Apr 20 22:20:03 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4y no hay protect chat^0«
+[Sun Apr 20 22:20:08 2014]  say: ^7^0pan^7d^0a^3_: ^7es mejor si tienen zona protect
+[Sun Apr 20 22:20:11 2014]  say: ^7^0pan^7d^0a^3_: ^7k algunos tenian
+[Sun Apr 20 22:20:15 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4tenian^0«
+[Sun Apr 20 22:20:17 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4ahora ya no^0«
+[Sun Apr 20 22:20:27 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4los lugor ya estan muy de capa caida^0«
+[Sun Apr 20 22:20:32 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4como los maker^0«
+[Sun Apr 20 22:20:33 2014]  say: ^7^0pan^7d^0a^3_: ^7todo esta de capa caida D:
+[Sun Apr 20 22:20:40 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4como los ffa^0«
+[Sun Apr 20 22:20:45 2014]  say: ^7^0pan^7d^0a^3_: ^7todo todito
+[Sun Apr 20 22:20:48 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4sep^0«
+[Sun Apr 20 22:20:48 2014]  say: ^7^0pan^7d^0a^3_: ^7este juego
+[Sun Apr 20 22:20:53 2014]  say: ^7^0pan^7d^0a^3_: ^7ya es viejo
+[Sun Apr 20 22:20:53 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4ahora se lleva solo saber^0«
+[Sun Apr 20 22:20:58 2014]  say: ^0D^4e^0a^4t^0h: ^0»^411 años tiene....^0«
+[Sun Apr 20 22:21:14 2014]  say: ^7^0pan^7d^0a^3_: ^7cuando e hizo yo tenia 5 :3
+[Sun Apr 20 22:21:16 2014]  say: ^7^0pan^7d^0a^3_: ^7se
+[Sun Apr 20 22:21:18 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4hmmm^0«
+[Sun Apr 20 22:21:22 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4me acavo de acordar^0«
+[Sun Apr 20 22:21:27 2014]  say: ^7^0pan^7d^0a^3_: ^7acavo
+[Sun Apr 20 22:21:28 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4de que puedo matar con agua^0«
+[Sun Apr 20 22:21:29 2014]  say: ^7^0pan^7d^0a^3_: ^7cavas
+[Sun Apr 20 22:21:34 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4acavo, mis dies^0«
+[Sun Apr 20 22:21:36 2014]  say: ^7^0pan^7d^0a^3_: ^7xD
+[Sun Apr 20 22:21:41 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4usare el agua para matar^0«
+[Sun Apr 20 22:21:45 2014]  say: ^7^0pan^7d^0a^3_: ^7como???
+[Sun Apr 20 22:21:52 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4pon un rancor mutant^0«
+[Sun Apr 20 22:21:54 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4mejor^0«
+[Sun Apr 20 22:21:56 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4pon 3^0«
+[Sun Apr 20 22:22:00 2014]  say: ^7^0pan^7d^0a^3_: ^7donde
+[Sun Apr 20 22:22:03 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4y haz /notarget^0«
+[Sun Apr 20 22:22:05 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4ahi^0«
+[Sun Apr 20 22:22:28 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4/notarget^0«
+[Sun Apr 20 22:22:31 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4corre^0«
+[Sun Apr 20 22:22:35 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XD^0«
+[Sun Apr 20 22:22:41 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XDDD ahora^0«
+[Sun Apr 20 22:22:45 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4viene el agua^0«
+[Sun Apr 20 22:23:19 2014]  say: ^7^0pan^7d^0a^3_: ^7lol
+[Sun Apr 20 22:23:24 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XD^0«
+[Sun Apr 20 22:23:39 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4hace 50.000 de daño^0«
+[Sun Apr 20 22:23:53 2014]  say: ^7^0pan^7d^0a^3_: ^7y te manda volando
+[Sun Apr 20 22:23:53 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4salta encima^0«
+[Sun Apr 20 22:23:57 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4y cae en medio xD^0«
+[Sun Apr 20 22:24:42 2014]  say: ^7^0pan^7d^0a^3_: ^7intentan coger el agua lol
+[Sun Apr 20 22:24:50 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4sep^0«
+[Sun Apr 20 22:24:51 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XD^0«
+[Sun Apr 20 22:24:59 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4pero la van a palmar^0«
+[Sun Apr 20 22:25:08 2014]  say: ^7^0pan^7d^0a^3_: ^7ostia
+[Sun Apr 20 22:25:57 2014]  say: ^0D^4e^0a^4t^0h: ^1Media ^7- ^0Currently playing: ^1Toxicity
+[Sun Apr 20 22:26:03 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4mola eee xD^0«
+[Sun Apr 20 22:26:08 2014]  say: ^7^0pan^7d^0a^3_: ^7nuse
+[Sun Apr 20 22:26:26 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4para  4 cosas mola^0«
+[Sun Apr 20 22:26:38 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4al menos despeja la cabeza^0«
+[Sun Apr 20 22:26:53 2014]  say: ^7^0pan^7d^0a^3_: ^7diooos
+[Sun Apr 20 22:26:56 2014]  say: ^7^0pan^7d^0a^3_: ^7k locura
+[Sun Apr 20 22:26:56 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4cuando me voy sin razon... suelo entrar a algun maker xD^0«
+[Sun Apr 20 22:27:03 2014]  say: ^7^0pan^7d^0a^3_: ^7^^
+[Sun Apr 20 22:27:11 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4me ayudan a pensar jajajaja^0«
+[Sun Apr 20 22:27:30 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4te enseño a construir?^0«
+[Sun Apr 20 22:27:30 2014]  say: ^7^0pan^7d^0a^3_: ^7yo voy a un ruso a matar a rusos
+[Sun Apr 20 22:27:33 2014]  say: ^7^0pan^7d^0a^3_: ^7ololol
+[Sun Apr 20 22:27:36 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4XD^0«
+[Sun Apr 20 22:27:38 2014]  say: ^7^0pan^7d^0a^3_: ^7ahora toy cansada pa eso :P
+[Sun Apr 20 22:27:42 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4yo ire ahora^0«
+[Sun Apr 20 22:27:48 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4voy a ver si hay alguien en AoS^0«
+[Sun Apr 20 22:27:50 2014]  say: ^7^0pan^7d^0a^3_: ^7al ruso?
+[Sun Apr 20 22:27:53 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4y entrare al ruso^0«
+[Sun Apr 20 22:27:54 2014]  say: ^0D^4e^0a^4t^0h: ^0»^4sip^0«
+[Sun Apr 20 22:28:00 2014]  say: ^7^0pan^7d^0a^3_: ^7oki te acompaño :D
+[Sun Apr 20 22:28:03 2014]  say: ^0D^4e^0a^4t^0h: ^1Chatstyles ^7- ^0Chatstyle set to ^1Metal
+[Sun Apr 20 22:28:06 2014]  say: ^0D^4e^0a^4t^0h: ^0-= ^1^^* ^0=-
+[Sun Apr 20 22:28:08 2014]  say: ^7^0pan^7d^0a^3_: ^7k parece k mejoro mi conexion
+[Sun Apr 20 22:28:08 2014]  say: ^0D^4e^0a^4t^0h: ^0-= ^1^^ ^0=-
+[Sun Apr 20 22:28:12 2014]  say: ^0D^4e^0a^4t^0h: ^0-= ^1jajajaj ^0=-
+[Sun Apr 20 22:28:17 2014]  ClientDisconnect: 0
+[Sun Apr 20 22:28:19 2014]  ClientDisconnect: 1
+[Sun Apr 20 23:58:16 2014]  Exit: Timelimit hit.
+[Mon Apr 21 00:20:50 2014]  ClientConnect: 0
+[Mon Apr 21 00:20:50 2014]  mlog:Player ^5»^0SK^5|||^0WØLF^5«^0™, connected. With IP - 201.92.196.78:29070 
+[Mon Apr 21 00:21:41 2014]  ClientBegin: 0
+[Mon Apr 21 00:21:41 2014]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Mon Apr 21 00:21:44 2014]  ShutdownGame:
+[Mon Apr 21 00:21:44 2014]  ------------------------------------------------------------

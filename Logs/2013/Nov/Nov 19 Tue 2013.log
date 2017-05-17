@@ -1,0 +1,18 @@
+[Tue Nov 19 11:38:43 2013]  ------------------------------------------------------------
+[Tue Nov 19 11:38:43 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Nov 19 11:38:44 2013]  ClientConnect: 0
+[Tue Nov 19 11:38:56 2013]  ClientBegin: 0
+[Tue Nov 19 11:44:59 2013]  Kill: 0 0 39: maxim killed maxim by MOD_SUICIDE
+[Tue Nov 19 11:45:44 2013]  Kill: 1022 0 6: <world> killed maxim by MOD_BLASTER
+[Tue Nov 19 11:59:05 2013]  ClientDisconnect: 0
+[Tue Nov 19 12:29:33 2013]  ClientConnect: 0
+[Tue Nov 19 12:29:33 2013]  mlog:Player ^2F^7R^2E^7E^2D, connected. With IP - 213.251.210.7:-2314 
+[Tue Nov 19 12:29:45 2013]  ClientBegin: 0
+[Tue Nov 19 12:29:50 2013]  ClientDisconnect: 0
+[Tue Nov 19 13:38:41 2013]  Exit: Timelimit hit.
+[Tue Nov 19 16:27:03 2013]  ------------------------------------------------------------
+[Tue Nov 19 16:27:03 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Tue Nov 19 18:26:57 2013]  Exit: Timelimit hit.
+[Tue Nov 19 22:40:58 2013]  ClientConnect: 0
+[Tue Nov 19 22:40:58 2013]  mlog:Player Darth Baggott, connected. With IP - 109.156.155.95:29070 
+[Tue Nov 19 22:41:04 2013]  ClientDisconnect: 0

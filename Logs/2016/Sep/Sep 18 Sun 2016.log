@@ -1,0 +1,1395 @@
+[Sun Sep 18 01:23:37 2016]  ------------------------------------------------------------
+[Sun Sep 18 01:23:37 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 18 01:23:39 2016]  ClientConnect: 0
+[Sun Sep 18 01:23:48 2016]  ClientBegin: 0
+[Sun Sep 18 01:29:09 2016]  ClientDisconnect: 0
+[Sun Sep 18 01:31:28 2016]  ClientConnect: 0
+[Sun Sep 18 01:31:28 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Sun Sep 18 01:31:51 2016]  ClientBegin: 0
+[Sun Sep 18 01:38:16 2016]  ClientDisconnect: 0
+[Sun Sep 18 02:21:37 2016]  ------------------------------------------------------------
+[Sun Sep 18 02:21:37 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 18 02:22:43 2016]  ClientConnect: 0
+[Sun Sep 18 02:22:43 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.151.100:29070 
+[Sun Sep 18 02:23:01 2016]  ClientBegin: 0
+[Sun Sep 18 02:24:31 2016]  ------------------------------------------------------------
+[Sun Sep 18 02:24:31 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 18 02:24:34 2016]  ClientConnect: 0
+[Sun Sep 18 02:24:34 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.151.100:29070 
+[Sun Sep 18 02:24:41 2016]  ClientBegin: 0
+[Sun Sep 18 02:28:37 2016]  ------------------------------------------------------------
+[Sun Sep 18 02:28:37 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 18 02:28:41 2016]  ClientConnect: 0
+[Sun Sep 18 02:28:41 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.151.100:29070 
+[Sun Sep 18 02:28:41 2016]  ClientConnect: 1
+[Sun Sep 18 02:28:41 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Sun Sep 18 02:28:54 2016]  ClientBegin: 0
+[Sun Sep 18 02:29:16 2016]  Item: 0 weapon_melee
+[Sun Sep 18 02:29:18 2016]  ClientBegin: 1
+[Sun Sep 18 02:30:51 2016]  say: ^0Раrk^2^1Qµаkи: teleporter to arena?
+[Sun Sep 18 02:30:58 2016]  say: ^0Shadow^5seer: theres no arena
+[Sun Sep 18 02:31:02 2016]  say: ^0Раrk^2^1Qµаkи: the thing
+[Sun Sep 18 02:31:07 2016]  say: ^0Shadow^5seer: theres nothing there
+[Sun Sep 18 02:31:21 2016]  say: ^0Shadow^5seer: i dont think its required
+[Sun Sep 18 02:31:37 2016]  say: ^0Shadow^5seer: there are some more things u didnt check out
+[Sun Sep 18 02:31:38 2016]  say: ^0Раrk^2^1Qµаkи: My origin is: (-3621 -26964 243) - You can teleport here with /mtelelast
+
+[Sun Sep 18 02:31:43 2016]  say: ^0Shadow^5seer: right
+[Sun Sep 18 02:31:44 2016]  say: ^0Раrk^2^1Qµаkи: oh
+[Sun Sep 18 02:32:16 2016]  say: ^0Shadow^5seer: id probably also remove remaps from those npcs
+[Sun Sep 18 02:32:25 2016]  say: ^0Раrk^2^1Qµаkи: oh yeah haha
+[Sun Sep 18 02:32:27 2016]  say: ^0Shadow^5seer: and theres smth more
+[Sun Sep 18 02:32:30 2016]  say: ^0Раrk^2^1Qµаkи: but the saber is cool
+[Sun Sep 18 02:32:37 2016]  say: ^0Shadow^5seer: My origin is: (20926 -22936 2650) - You can teleport here with /mtelelast
+
+[Sun Sep 18 02:32:46 2016]  say: ^0Раrk^2^1Qµаkи: woah
+[Sun Sep 18 02:33:18 2016]  say: ^0Раrk^2^1Qµаkи: nice work :)
+[Sun Sep 18 02:33:22 2016]  say: ^0Shadow^5seer: :D
+[Sun Sep 18 02:33:29 2016]  say: ^0Shadow^5seer: My origin is: (-18371 -5639 1692) - You can teleport here with /mtelelast
+
+[Sun Sep 18 02:33:37 2016]  say: ^0Shadow^5seer: not sure if u were here
+[Sun Sep 18 02:33:46 2016]  say: ^0Раrk^2^1Qµаkи: maybe at an early stage
+[Sun Sep 18 02:33:50 2016]  say: ^0Shadow^5seer: drums are working
+[Sun Sep 18 02:33:51 2016]  say: ^0Раrk^2^1Qµаkи: great relaxing feel :)
+[Sun Sep 18 02:34:02 2016]  say: ^0Раrk^2^1Qµаkи: lmao
+[Sun Sep 18 02:34:19 2016]  say: ^0Раrk^2^1Qµаkи: now just need cantina music
+[Sun Sep 18 02:34:29 2016]  say: ^0Shadow^5seer: those are actually mapobs from my old server i cant run anymore
+[Sun Sep 18 02:34:51 2016]  say: ^0Shadow^5seer: except that sanctuary bhind the cave
+[Sun Sep 18 02:35:03 2016]  say: ^0Shadow^5seer: and your logo at tht spawn of course)
+[Sun Sep 18 02:35:19 2016]  say: ^0Shadow^5seer: have you checked out the letters?
+[Sun Sep 18 02:35:22 2016]  say: ^0Shadow^5seer: right...
+[Sun Sep 18 02:35:25 2016]  say: ^0Раrk^2^1Qµаkи: these?
+[Sun Sep 18 02:35:28 2016]  say: ^0Shadow^5seer: yes
+[Sun Sep 18 02:35:28 2016]  say: ^0Раrk^2^1Qµаkи: yeh cool :)
+[Sun Sep 18 02:35:38 2016]  say: ^0Shadow^5seer: all the same as were before
+[Sun Sep 18 02:35:41 2016]  say: ^0Раrk^2^1Qµаkи: very stylish
+[Sun Sep 18 02:35:43 2016]  say: ^0Shadow^5seer: but with one more
+[Sun Sep 18 02:35:48 2016]  say: ^0Раrk^2^1Qµаkи: like they're actually holding them up
+[Sun Sep 18 02:36:01 2016]  say: ^0Раrk^2^1Qµаkи: yeh that's cool to credit yourself :)
+[Sun Sep 18 02:36:03 2016]  say: ^0Shadow^5seer: so u shall kepp them?
+[Sun Sep 18 02:36:09 2016]  say: ^0Shadow^5seer: keep*
+[Sun Sep 18 02:36:12 2016]  say: ^0Раrk^2^1Qµаkи: so just teleporter to that arena and rest is great!
+[Sun Sep 18 02:36:15 2016]  say: ^0Раrk^2^1Qµаkи: yes it's fine
+[Sun Sep 18 02:36:30 2016]  say: ^0Shadow^5seer: do we really need it? theres nothing there
+[Sun Sep 18 02:36:40 2016]  say: ^0Раrk^2^1Qµаkи: huh?
+[Sun Sep 18 02:36:46 2016]  say: ^0Shadow^5seer: on the arena
+[Sun Sep 18 02:36:50 2016]  say: ^0Раrk^2^1Qµаkи: oh
+[Sun Sep 18 02:37:00 2016]  say: ^0Раrk^2^1Qµаkи: well it's a famous extra place
+[Sun Sep 18 02:37:11 2016]  say: ^0Раrk^2^1Qµаkи: like your bar location
+[Sun Sep 18 02:37:15 2016]  say: ^0Shadow^5seer: not that famous, trust me
+[Sun Sep 18 02:37:27 2016]  say: ^0Раrk^2^1Qµаkи: all the more reason to show it haha
+[Sun Sep 18 02:37:40 2016]  say: ^0Раrk^2^1Qµаkи: they'll be like  check out this server, it's got a cool arena! 
+[Sun Sep 18 02:37:47 2016]  say: ^0Раrk^2^1Qµаkи: secret thing
+[Sun Sep 18 02:38:13 2016]  say: ^0Shadow^5seer: i mean everyone knows of it but theres nothing special in that place
+[Sun Sep 18 02:38:24 2016]  say: ^0Раrk^2^1Qµаkи: mm alright then
+[Sun Sep 18 02:38:45 2016]  say: ^0Shadow^5seer: maybe when i build smth there some time...)
+[Sun Sep 18 02:38:55 2016]  say: ^0Раrk^2^1Qµаkи: I remember on the Unreal Clan's server they had a massive treehouse here, and there were bedrooms you could pay for and stuff haha
+[Sun Sep 18 02:39:02 2016]  say: ^0Раrk^2^1Qµаkи: haha*
+[Sun Sep 18 02:39:16 2016]  say: ^0Раrk^2^1Qµаkи: Lugormod though
+[Sun Sep 18 02:39:30 2016]  say: ^0Shadow^5seer: ill think of what i could place there
+[Sun Sep 18 02:39:45 2016]  say: ^0Раrk^2^1Qµаkи: cool :)
+[Sun Sep 18 02:39:47 2016]  say: ^0Shadow^5seer: and one more thing
+[Sun Sep 18 02:39:52 2016]  say: ^0Shadow^5seer: about remap
+[Sun Sep 18 02:39:56 2016]  say: ^0Shadow^5seer: except npcs
+[Sun Sep 18 02:40:02 2016]  say: ^0Shadow^5seer: look there
+[Sun Sep 18 02:40:09 2016]  say: ^0Раrk^2^1Qµаkи: alright I'm going back to SWTOR, I'm super tired and want some action before bed
+[Sun Sep 18 02:40:11 2016]  say: ^0Раrk^2^1Qµаkи: alright
+[Sun Sep 18 02:40:22 2016]  say: ^0Shadow^5seer: the corners of skybox
+[Sun Sep 18 02:40:35 2016]  say: ^0Раrk^2^1Qµаkи: nice
+[Sun Sep 18 02:40:37 2016]  say: ^0Shadow^5seer: id suggest byss skies instead of coruscant
+[Sun Sep 18 02:40:41 2016]  say: ^0Shadow^5seer: or bounty
+[Sun Sep 18 02:40:50 2016]  say: ^0Раrk^2^1Qµаkи: alright
+[Sun Sep 18 02:41:16 2016]  say: ^0Shadow^5seer: could u do it now so you wont forget it later?
+[Sun Sep 18 02:42:07 2016]  say: ^0Shadow^5seer: byss skies shall suit better then bounty skies
+[Sun Sep 18 02:42:19 2016]  say: ^0Раrk^2^1Qµаkи: doing it
+[Sun Sep 18 02:42:51 2016]  say: ^0Раrk^2^1Qµаkи: yeah cool
+[Sun Sep 18 02:43:00 2016]  say: ^0Shadow^5seer: awesome)
+[Sun Sep 18 02:43:50 2016]  say: ^0Shadow^5seer: :O
+[Sun Sep 18 02:43:53 2016]  say: ^0Раrk^2^1Qµаkи: fun :)
+[Sun Sep 18 02:44:19 2016]  say: ^0Shadow^5seer: whats an objext that lifted up even me?
+[Sun Sep 18 02:44:24 2016]  say: ^0Shadow^5seer: object*
+[Sun Sep 18 02:44:39 2016]  say: ^0Shadow^5seer: a falcon?
+[Sun Sep 18 02:44:41 2016]  say: ^0Раrk^2^1Qµаkи: very tiny catwalk, with a size much experimented with to get it right
+[Sun Sep 18 02:45:00 2016]  say: ^0Раrk^2^1Qµаkи: seeing as this game's dead, I'll tell you haha
+[Sun Sep 18 02:45:54 2016]  say: ^0Раrk^2^1Qµаkи: mscale -10.239
+[Sun Sep 18 02:46:02 2016]  say: ^0Shadow^5seer: o_O
+[Sun Sep 18 02:46:16 2016]  say: ^0Раrk^2^1Qµаkи: it really messes with your head using negative scaling
+[Sun Sep 18 02:46:28 2016]  say: ^0Раrk^2^1Qµаkи: cause at a certain point the object gets bigger again haha
+[Sun Sep 18 02:46:35 2016]  say: ^0Shadow^5seer: i see
+[Sun Sep 18 02:46:47 2016]  say: ^0Раrk^2^1Qµаkи: that's 10
+[Sun Sep 18 02:46:57 2016]  say: ^0Раrk^2^1Qµаkи: that's 10.5
+[Sun Sep 18 02:47:02 2016]  say: ^0Раrk^2^1Qµаkи: (positive)
+[Sun Sep 18 02:47:12 2016]  say: ^0Раrk^2^1Qµаkи: -10.5
+[Sun Sep 18 02:47:20 2016]  say: ^0Раrk^2^1Qµаkи: -10.2
+[Sun Sep 18 02:47:27 2016]  say: ^0Раrk^2^1Qµаkи: stormtrooper..
+[Sun Sep 18 02:47:33 2016]  say: ^0Раrk^2^1Qµаkи: accident haha
+[Sun Sep 18 02:47:42 2016]  say: ^0Shadow^5seer: 10.25
+[Sun Sep 18 02:47:48 2016]  say: ^0Раrk^2^1Qµаkи: that
+[Sun Sep 18 02:47:50 2016]  say: ^0Раrk^2^1Qµаkи: see? :p
+[Sun Sep 18 02:47:56 2016]  say: ^0Раrk^2^1Qµаkи: so between 10.2 and 10.25
+[Sun Sep 18 02:48:17 2016]  say: ^0Раrk^2^1Qµаkи: basically you get the positive number right
+[Sun Sep 18 02:48:31 2016]  say: ^0Раrk^2^1Qµаkи: and the negative makes the bounding box huge
+[Sun Sep 18 02:48:37 2016]  say: ^0Раrk^2^1Qµаkи: once you start moving it..
+[Sun Sep 18 02:49:05 2016]  say: ^0Раrk^2^1Qµаkи: hang on. forgot my binds
+[Sun Sep 18 02:49:16 2016]  say: ^0Раrk^2^1Qµаkи: but you get the idea :p
+[Sun Sep 18 02:49:25 2016]  say: ^0Shadow^5seer: yes, sure
+[Sun Sep 18 02:49:33 2016]  say: ^0Раrk^2^1Qµаkи: oh yeah
+[Sun Sep 18 02:49:40 2016]  say: ^0Раrk^2^1Qµаkи: mmove 0 0 0 fixes it after mscale
+[Sun Sep 18 02:49:48 2016]  say: ^0Shadow^5seer: yes, i know
+[Sun Sep 18 02:49:49 2016]  say: ^0Раrk^2^1Qµаkи: so the bounding box gets set in place
+[Sun Sep 18 02:49:56 2016]  say: ^0Раrk^2^1Qµаkи: there :)
+[Sun Sep 18 02:50:20 2016]  say: ^0Раrk^2^1Qµаkи: great isn't it? haha
+[Sun Sep 18 02:50:38 2016]  say: ^0Раrk^2^1Qµаkи: so yeh just had to finetune between those values, to get the appearance smallest as possible
+[Sun Sep 18 02:50:43 2016]  say: ^0Shadow^5seer: never used it like that but cant tell i knew smth absolutely new)
+[Sun Sep 18 02:50:59 2016]  say: ^0Раrk^2^1Qµаkи: it messed with my head so much haha
+[Sun Sep 18 02:51:22 2016]  say: ^0Раrk^2^1Qµаkи: aaanyway yeh back to SWTOR
+[Sun Sep 18 02:51:26 2016]  say: ^0Раrk^2^1Qµаkи: I've saved the sky remap
+[Sun Sep 18 02:51:33 2016]  say: ^0Shadow^5seer: and npcs?
+[Sun Sep 18 02:51:36 2016]  say: ^0Раrk^2^1Qµаkи: I'll probly be on this tomorrow :)
+[Sun Sep 18 02:51:38 2016]  say: ^0Shadow^5seer: npc remaps?
+[Sun Sep 18 02:51:41 2016]  say: ^0Shadow^5seer: ok
+[Sun Sep 18 02:51:43 2016]  say: ^0Раrk^2^1Qµаkи: no sorry.. but will note it now
+[Sun Sep 18 02:51:47 2016]  say: ^0Shadow^5seer: then gl in swtor)
+[Sun Sep 18 02:52:01 2016]  say: ^0Раrk^2^1Qµаkи: thanks haha, battling Arcann XD
+[Sun Sep 18 02:52:16 2016]  say: ^0Shadow^5seer: never played it so.. idk whos that
+[Sun Sep 18 02:52:26 2016]  say: ^0Раrk^2^1Qµаkи: there's an awesome trailer for the current expansion, Knights of the Fallen Empire. google it :)
+[Sun Sep 18 02:52:33 2016]  say: ^0Раrk^2^1Qµаkи: I'll Skype you a link actually
+[Sun Sep 18 02:52:35 2016]  say: ^0Shadow^5seer: yes, i saw it
+[Sun Sep 18 02:52:43 2016]  say: ^0Shadow^5seer: but ont know names
+[Sun Sep 18 02:52:46 2016]  say: ^0Shadow^5seer: dont*
+[Sun Sep 18 02:53:11 2016]  say: ^0Shadow^5seer: i just dont like mmos)
+[Sun Sep 18 02:53:25 2016]  ClientDisconnect: 1
+[Sun Sep 18 02:53:35 2016]  ClientDisconnect: 0
+[Sun Sep 18 10:55:42 2016]  ClientConnect: 0
+[Sun Sep 18 10:55:42 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.182.5:29070 
+[Sun Sep 18 10:56:11 2016]  ClientBegin: 0
+[Sun Sep 18 10:56:20 2016]  Item: 0 weapon_melee
+[Sun Sep 18 11:02:26 2016]  ClientDisconnect: 0
+[Sun Sep 18 13:36:17 2016]  ShutdownGame:
+[Sun Sep 18 13:36:17 2016]  ------------------------------------------------------------
+[Sun Sep 18 13:36:18 2016]  ------------------------------------------------------------
+[Sun Sep 18 13:36:18 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 18 15:24:33 2016]  ClientConnect: 0
+[Sun Sep 18 15:24:33 2016]  mlog:Player Padawan, connected. With IP - 128.68.208.121:29070 
+[Sun Sep 18 15:25:14 2016]  ClientBegin: 0
+[Sun Sep 18 15:26:26 2016]  ClientConnect: 1
+[Sun Sep 18 15:26:26 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.182.5:29070 
+[Sun Sep 18 15:26:54 2016]  ClientBegin: 1
+[Sun Sep 18 15:27:01 2016]  Item: 1 weapon_melee
+[Sun Sep 18 15:29:41 2016]  ClientDisconnect: 0
+[Sun Sep 18 15:29:53 2016]  say: ^0Shadow^5seer: .ькуьфз
+[Sun Sep 18 15:42:02 2016]  ClientConnect: 0
+[Sun Sep 18 15:42:02 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Sun Sep 18 15:42:30 2016]  ClientBegin: 0
+[Sun Sep 18 15:43:09 2016]  say: ^0Раrk^2^1Qµаkи: I don't get it.. I only wanted to remove the hands for the twin cause they looked weird, the rest I want to keep
+[Sun Sep 18 15:45:17 2016]  say: ^0Shadow^5seer: ok, sorry then
+[Sun Sep 18 15:45:24 2016]  say: ^0Shadow^5seer: but theyre transparent
+[Sun Sep 18 15:45:31 2016]  say: ^0Shadow^5seer: is it ok?
+[Sun Sep 18 15:45:52 2016]  say: ^0Раrk^2^1Qµаkи: let's chat in game haha, more convenient
+[Sun Sep 18 15:46:02 2016]  say: ^0Shadow^5seer: do u think?
+[Sun Sep 18 15:46:17 2016]  say: ^0Shadow^5seer: you may turn those remaps on again and take a look
+[Sun Sep 18 15:46:33 2016]  say: ^0Shadow^5seer: youre wearing not the one i was talkin about
+[Sun Sep 18 15:46:34 2016]  say: ^0Раrk^2^1Qµаkи: yeh, I'll just exec the remaps config
+[Sun Sep 18 15:46:37 2016]  say: ^0Раrk^2^1Qµаkи: I know
+[Sun Sep 18 15:46:52 2016]  ClientDisconnect: 0
+[Sun Sep 18 15:46:53 2016]  ClientDisconnect: 1
+[Sun Sep 18 15:47:23 2016]  ------------------------------------------------------------
+[Sun Sep 18 15:47:23 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 18 15:47:32 2016]  ClientConnect: 0
+[Sun Sep 18 15:47:32 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Sun Sep 18 15:47:44 2016]  ClientConnect: 1
+[Sun Sep 18 15:47:44 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.182.5:29070 
+[Sun Sep 18 15:47:44 2016]  ClientBegin: 0
+[Sun Sep 18 15:47:57 2016]  ClientBegin: 1
+[Sun Sep 18 15:48:18 2016]  say: ^0Shadow^5seer: is that really what they should look like?
+[Sun Sep 18 15:48:22 2016]  Item: 1 weapon_melee
+[Sun Sep 18 15:48:23 2016]  say: ^0Раrk^2^1Qµаkи: yeh
+[Sun Sep 18 15:48:44 2016]  say: ^0Раrk^2^1Qµаkи: you could suggest diff effects, I just don't want defaults haha
+[Sun Sep 18 15:48:53 2016]  say: ^0Shadow^5seer: i can see his face from inside...
+[Sun Sep 18 15:49:09 2016]  say: ^0Shadow^5seer: well i have an awesome texture replacer)
+[Sun Sep 18 15:49:18 2016]  say: ^0Shadow^5seer: with a scull mask for them
+[Sun Sep 18 15:49:29 2016]  say: ^0Раrk^2^1Qµаkи: would that work for clients?
+[Sun Sep 18 15:49:44 2016]  say: ^0Shadow^5seer: perhaps if i send it to u, ull agree to remove that remap
+[Sun Sep 18 15:49:49 2016]  say: ^0Shadow^5seer: no, it wont
+[Sun Sep 18 15:50:18 2016]  say: ^0Раrk^2^1Qµаkи: that's the thing, I want clients to see it. So if you know some cool base textures I'll use them
+[Sun Sep 18 15:50:29 2016]  say: ^0Shadow^5seer: but even default reborn looks better then this transparent thing
+[Sun Sep 18 15:50:42 2016]  say: ^0Раrk^2^1Qµаkи: yeh I guess so
+[Sun Sep 18 15:50:55 2016]  say: ^0Раrk^2^1Qµаkи: was just mucking around at the time, trying to find good ones
+[Sun Sep 18 15:51:02 2016]  say: ^0Раrk^2^1Qµаkи: It takes ages to test them all
+[Sun Sep 18 15:51:30 2016]  say: ^0Shadow^5seer: still i would just leave default ones
+[Sun Sep 18 15:51:44 2016]  say: ^0Shadow^5seer: till we find something... more suitable
+[Sun Sep 18 15:51:51 2016]  say: ^0Раrk^2^1Qµаkи: I can try some I commented out
+[Sun Sep 18 15:52:00 2016]  say: ^0Раrk^2^1Qµаkи: just experimenting, one sec
+[Sun Sep 18 15:54:08 2016]  say: ^0Раrk^2^1Qµаkи: dunno
+[Sun Sep 18 15:54:17 2016]  say: ^0Раrk^2^1Qµаkи: something solid?
+[Sun Sep 18 15:54:25 2016]  say: ^0Shadow^5seer: whats the idea of a glowing transparent playermodel?
+[Sun Sep 18 15:54:33 2016]  say: ^0Раrk^2^1Qµаkи: fun
+[Sun Sep 18 15:54:38 2016]  say: ^0Shadow^5seer: definitely smth solid
+[Sun Sep 18 15:54:40 2016]  say: ^0Раrk^2^1Qµаkи: I don't know many textures
+[Sun Sep 18 15:55:06 2016]  say: ^0Shadow^5seer: it still looks weird
+[Sun Sep 18 15:55:07 2016]  say: ^0Раrk^2^1Qµаkи: rocky :p
+[Sun Sep 18 15:55:09 2016]  say: ^0Раrk^2^1Qµаkи: yeah
+[Sun Sep 18 15:55:27 2016]  say: ^0Раrk^2^1Qµаkи: lol no
+[Sun Sep 18 15:55:38 2016]  say: ^0Shadow^5seer: gotta go, will be back later
+[Sun Sep 18 15:55:42 2016]  ClientDisconnect: 1
+[Sun Sep 18 16:21:19 2016]  ClientDisconnect: 0
+[Sun Sep 18 16:21:29 2016]  ClientConnect: 0
+[Sun Sep 18 16:21:29 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Sun Sep 18 16:21:40 2016]  ClientBegin: 0
+[Sun Sep 18 16:26:46 2016]  ------------------------------------------------------------
+[Sun Sep 18 16:26:46 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 18 16:26:50 2016]  ClientConnect: 0
+[Sun Sep 18 16:26:50 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Sun Sep 18 16:27:02 2016]  ClientBegin: 0
+[Sun Sep 18 16:31:33 2016]  ClientConnect: 1
+[Sun Sep 18 16:31:33 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Sun Sep 18 16:32:14 2016]  ClientBegin: 1
+[Sun Sep 18 16:32:20 2016]  ClientConnect: 2
+[Sun Sep 18 16:32:20 2016]  mlog:Player ^0Rouf, connected. With IP - 46.39.4.45:29070 
+[Sun Sep 18 16:32:56 2016]  ClientBegin: 2
+[Sun Sep 18 16:33:40 2016]  Item: 1 weapon_melee
+[Sun Sep 18 16:34:04 2016]  say: ^0Раrk^2^1Qµаkи: hi :)
+[Sun Sep 18 16:34:07 2016]  say: s: hi
+[Sun Sep 18 16:34:09 2016]  say: ^0Rouf: q
+[Sun Sep 18 16:34:57 2016]  say: ^0Раrk^2^1Qµаkи: haven't been on in ages, and yeh aren't on long much either..
+[Sun Sep 18 16:35:16 2016]  say: ^0Раrk^2^1Qµаkи: will be a while before my next element script.. I'm just not as motivated
+[Sun Sep 18 16:36:42 2016]  say: ^0Раrk^2^1Qµаkи: ^6HALO SCRIPT ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Sun Sep 18 16:37:30 2016]  say: ^0Раrk^2^1Qµаkи: always wanted to do the inside too, and fix the bounding boxes
+[Sun Sep 18 16:37:37 2016]  say: ^0Раrk^2^1Qµаkи: yeh.. lots of unfinished things
+[Sun Sep 18 16:39:32 2016]  say: ^0Раrk^2^1Qµаkи: like the new map objects?
+[Sun Sep 18 16:39:37 2016]  say: ^0Раrk^2^1Qµаkи: my friend placed them :)
+[Sun Sep 18 16:39:57 2016]  say: ^0Rouf: dunno
+[Sun Sep 18 16:41:12 2016]  say: ^0Раrk^2^1Qµаkи: with the old trees it's better
+[Sun Sep 18 16:42:54 2016]  say: ^0Раrk^2^1Qµаkи: haha nice
+[Sun Sep 18 16:42:58 2016]  tell: s to ^0Rouf: /mplace factory/catw2_b
+[Sun Sep 18 16:46:02 2016]  say: ^0Rouf: again please
+[Sun Sep 18 16:46:05 2016]  say: ^0Rouf: what you didi
+[Sun Sep 18 16:46:06 2016]  say: ^0Раrk^2^1Qµаkи: haha
+[Sun Sep 18 16:46:07 2016]  say: ^0Rouf: did
+[Sun Sep 18 16:46:11 2016]  say: ^0Rouf: i wanna see this
+[Sun Sep 18 16:46:13 2016]  say: ^0Rouf: at me
+[Sun Sep 18 16:46:15 2016]  Kill: 1022 2 0: <world> killed ^0Rouf by MOD_UNKNOWN
+[Sun Sep 18 16:46:18 2016]  say: ^0Rouf: ow
+[Sun Sep 18 16:46:21 2016]  Kill: 1022 1 0: <world> killed s by MOD_UNKNOWN
+[Sun Sep 18 16:46:23 2016]  say: ^0Rouf: forgot god
+[Sun Sep 18 16:46:29 2016]  say: ^0Раrk^2^1Qµаkи: haha
+[Sun Sep 18 16:46:38 2016]  say: ^0Раrk^2^1Qµаkи: it uses a combo of killsw and highest mpain
+[Sun Sep 18 16:46:38 2016]  say: ^0Rouf: again
+[Sun Sep 18 16:46:45 2016]  say: ^0Раrk^2^1Qµаkи: but still don't know how to kill with god..
+[Sun Sep 18 16:46:47 2016]  Kill: 1022 2 0: <world> killed ^0Rouf by MOD_UNKNOWN
+[Sun Sep 18 16:46:53 2016]  say: ^0Rouf: it was with god
+[Sun Sep 18 16:46:58 2016]  say: ^0Раrk^2^1Qµаkи: oh cool :D
+[Sun Sep 18 16:47:03 2016]  say: ^0Раrk^2^1Qµаkи: noclip though
+[Sun Sep 18 16:47:03 2016]  say: ^0Rouf: its not..
+[Sun Sep 18 16:47:08 2016]  say: ^0Rouf: like cheat
+[Sun Sep 18 16:47:41 2016]  say: ^0Раrk^2^1Qµаkи: well an attack script is useless if it doesn't kill, that's the fun of it I reckon
+[Sun Sep 18 16:48:03 2016]  say: ^0Раrk^2^1Qµаkи: he lagged out..
+[Sun Sep 18 16:51:08 2016]  say: ^0Раrk^2^1Qµаkи: ^7HYPER^0SPACE ^6script ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1DbnІ
+[Sun Sep 18 16:51:19 2016]  say: ^0Раrk^2^1Qµаkи: ^5Constructing ^5Ship...
+[Sun Sep 18 16:51:30 2016]  say: ^0Раrk^2^1Qµаkи: ^5Teleporting ^5To ^5Ship
+[Sun Sep 18 16:51:37 2016]  Kill: 1022 2 36: <world> killed ^0Rouf by MOD_CRUSH
+[Sun Sep 18 16:51:43 2016]  say: ^0Раrk^2^1Qµаkи: ^7HYPER^0SPACE ^1IN ^4:3
+[Sun Sep 18 16:51:43 2016]  say: ^0Раrk^2^1Qµаkи: ^7HYPER^0SPACE ^1IN ^4:2
+[Sun Sep 18 16:51:44 2016]  say: ^0Раrk^2^1Qµаkи: ^7HYPER^0SPACE ^1IN ^4:1
+[Sun Sep 18 16:51:45 2016]  say: ^0Раrk^2^1Qµаkи: ^7HYPER^0SPACE!
+[Sun Sep 18 16:52:40 2016]  Kill: 1022 1 0: <world> killed s by MOD_UNKNOWN
+[Sun Sep 18 16:52:44 2016]  Kill: 1022 2 0: <world> killed ^0Rouf by MOD_UNKNOWN
+[Sun Sep 18 16:52:50 2016]  say: ^0Раrk^2^1Qµаkи: damn gotta go..
+[Sun Sep 18 16:52:52 2016]  say: ^0Раrk^2^1Qµаkи: have fun
+[Sun Sep 18 16:52:58 2016]  say: s: bye
+[Sun Sep 18 16:53:01 2016]  say: ^0Rouf: bb
+[Sun Sep 18 16:53:02 2016]  say: ^0Rouf: brb
+[Sun Sep 18 16:53:04 2016]  say: ^0Rouf: bye
+[Sun Sep 18 16:53:06 2016]  Kill: 1022 1 0: <world> killed s by MOD_UNKNOWN
+[Sun Sep 18 16:53:06 2016]  say: ^0Rouf: bye bye
+[Sun Sep 18 16:53:08 2016]  say: ^0Rouf: good bye
+[Sun Sep 18 16:53:10 2016]  say: ^0Rouf: bye
+[Sun Sep 18 16:53:54 2016]  ClientDisconnect: 0
+[Sun Sep 18 16:55:47 2016]  say: ^0Rouf: My origin is: (23195 -24899 -39) - You can teleport here with /mtelelast
+
+[Sun Sep 18 17:04:33 2016]  say: s: My origin is: (-6574 -20520 1485) - You can teleport here with /mtelelast
+
+[Sun Sep 18 17:19:05 2016]  ClientConnect: 0
+[Sun Sep 18 17:19:05 2016]  mlog:Player kosher, connected. With IP - 91.230.25.125:29070 
+[Sun Sep 18 17:19:30 2016]  ClientBegin: 0
+[Sun Sep 18 17:19:36 2016]  say: kosher: привет школьники
+[Sun Sep 18 17:19:53 2016]  Kill: 2 0 36: ^0Rouf killed kosher by MOD_CRUSH
+[Sun Sep 18 17:21:43 2016]  tell: s to ^0Rouf: 22296 -22419 2650
+[Sun Sep 18 17:22:14 2016]  Kill: 0 0 39: kosher killed kosher by MOD_SUICIDE
+[Sun Sep 18 17:22:14 2016]  setteam:  0 FREE SPECTATOR
+[Sun Sep 18 17:22:14 2016]  ClientBegin: 0
+[Sun Sep 18 17:22:24 2016]  setteam:  0 SPECTATOR FREE
+[Sun Sep 18 17:22:24 2016]  ClientBegin: 0
+[Sun Sep 18 17:25:41 2016]  say: kosher: wkolnik
+[Sun Sep 18 17:26:00 2016]  say: s: ты всерьез думаешь, что я учусь в школе?
+[Sun Sep 18 17:26:16 2016]  say: kosher: ты сказал тебе 15лет
+[Sun Sep 18 17:27:04 2016]  say: kosher: или ты не учишься нигде
+[Sun Sep 18 17:27:08 2016]  say: kosher: тебя выгнали
+[Sun Sep 18 17:27:23 2016]  say: s: нет, школу окончил уже давно
+[Sun Sep 18 17:27:31 2016]  say: ^0Rouf: ну ты то точно хуже школьника
+[Sun Sep 18 17:27:34 2016]  say: ^0Rouf: ты тупой наркоман
+[Sun Sep 18 17:27:44 2016]  say: kosher: жызнь надоел
+[Sun Sep 18 17:27:46 2016]  say: kosher: а
+[Sun Sep 18 17:27:56 2016]  say: ^0Rouf: наркоту вколишь?
+[Sun Sep 18 17:27:57 2016]  say: kosher: щас встретил дебила одного
+[Sun Sep 18 17:28:07 2016]  say: ^0Rouf: к зеркалу подошел?
+[Sun Sep 18 17:28:08 2016]  say: kosher: он говорил что дрочит и пьет
+[Sun Sep 18 17:28:13 2016]  say: kosher: нет
+[Sun Sep 18 17:28:23 2016]  say: kosher: на серваке Коф
+[Sun Sep 18 17:28:25 2016]  say: ^0Rouf: а ты не дрочишь и не пьешь?
+[Sun Sep 18 17:28:29 2016]  say: kosher: да
+[Sun Sep 18 17:28:34 2016]  say: ^0Rouf: у него наверное ник kosher
+[Sun Sep 18 17:28:35 2016]  say: s: мало ли чего он сказать мог
+[Sun Sep 18 17:28:39 2016]  say: kosher: ник Kit
+[Sun Sep 18 17:28:47 2016]  say: s: не знаю такого
+[Sun Sep 18 17:28:57 2016]  say: s: но в сети ты можешь быть кем угодно
+[Sun Sep 18 17:29:05 2016]  say: kosher: он всерьез
+[Sun Sep 18 17:29:21 2016]  say: ^0Rouf: я ему скажу, он обидиться
+[Sun Sep 18 17:29:23 2016]  say: ^0Rouf: :(
+[Sun Sep 18 17:29:28 2016]  say: s: откуда ты знаешь, всерьез он или нет
+[Sun Sep 18 17:29:29 2016]  say: kosher: знаешь его?
+[Sun Sep 18 17:29:32 2016]  say: ^0Rouf: да
+[Sun Sep 18 17:29:34 2016]  say: ^0Rouf: он мой брат
+[Sun Sep 18 17:29:39 2016]  say: kosher: KitTM?
+[Sun Sep 18 17:29:42 2016]  say: ^0Rouf: ага
+[Sun Sep 18 17:29:49 2016]  say: kosher: ему 33года?
+[Sun Sep 18 17:29:58 2016]  say: ^0Rouf: какое тебе дело до моего брата
+[Sun Sep 18 17:30:09 2016]  say: kosher: а че он говорит что одинокий
+[Sun Sep 18 17:30:11 2016]  say: ^0Rouf: брат за брата
+[Sun Sep 18 17:30:14 2016]  say: ^0Rouf: за основу взято
+[Sun Sep 18 17:30:17 2016]  say: kosher: выходит ты его не поддерживаешь
+[Sun Sep 18 17:30:25 2016]  say: ^0Rouf: мы в разных городах
+[Sun Sep 18 17:30:31 2016]  say: ^0Rouf: к сожалению
+[Sun Sep 18 17:30:38 2016]  say: kosher: он бухает потому что одинокий
+[Sun Sep 18 17:30:39 2016]  say: ^0Rouf: а так я бы не заставил его скучать
+[Sun Sep 18 17:30:41 2016]  say: ^0Rouf: ну ты понял)))
+[Sun Sep 18 17:30:44 2016]  say: ^0Rouf: ))))))0
+[Sun Sep 18 17:32:54 2016]  Kill: 0 0 39: kosher killed kosher by MOD_SUICIDE
+[Sun Sep 18 17:33:43 2016]  say: ^0Rouf: пацан
+[Sun Sep 18 17:33:44 2016]  say: ^0Rouf: ты где
+[Sun Sep 18 17:33:45 2016]  say: s: церковь строишь?
+[Sun Sep 18 17:33:48 2016]  say: ^0Rouf: пошел гей порно смотреть?
+[Sun Sep 18 17:34:22 2016]  say: kosher: вы в росии ебнутые на геях?
+[Sun Sep 18 17:34:34 2016]  say: kosher: или сами геи
+[Sun Sep 18 17:34:38 2016]  say: ^0Rouf: мы геи
+[Sun Sep 18 17:34:49 2016]  say: kosher: можете гордится)
+[Sun Sep 18 17:35:57 2016]  say: kosher: e
+[Sun Sep 18 17:36:22 2016]  say: kosher: поговорил с братом?
+[Sun Sep 18 17:36:30 2016]  say: ^0Rouf: не
+[Sun Sep 18 17:36:32 2016]  say: ^0Rouf: он спит
+[Sun Sep 18 17:37:00 2016]  say: kosher: щас еще рано
+[Sun Sep 18 17:37:09 2016]  say: ^0Rouf: смотря какой часовой пояс
+[Sun Sep 18 17:37:20 2016]  say: kosher: нормальный
+[Sun Sep 18 17:38:28 2016]  Kill: 1022 0 36: <world> killed kosher by MOD_CRUSH
+[Sun Sep 18 17:39:29 2016]  Kill: 1022 0 36: <world> killed kosher by MOD_CRUSH
+[Sun Sep 18 17:39:59 2016]  Kill: 0 0 39: kosher killed kosher by MOD_SUICIDE
+[Sun Sep 18 17:40:56 2016]  Kill: 0 0 39: kosher killed kosher by MOD_SUICIDE
+[Sun Sep 18 17:41:16 2016]  say: kosher: НОВЫЙ СКРИПТ)
+[Sun Sep 18 17:41:17 2016]  tell: ^0Rouf to kosher: -7255 20779 3024
+[Sun Sep 18 17:41:25 2016]  say: kosher: ЧЕ ЕТО
+[Sun Sep 18 17:41:58 2016]  Kill: 0 0 39: kosher killed kosher by MOD_SUICIDE
+[Sun Sep 18 17:42:11 2016]  tell: ^0Rouf to kosher: -7255 20779 3024
+[Sun Sep 18 17:42:54 2016]  say: kosher: EEEEEEEEEEEEEEEEEEEEEEEEEEE
+[Sun Sep 18 17:43:40 2016]  say: kosher: ПАЦАНЫ
+[Sun Sep 18 17:43:45 2016]  say: ^0Rouf: иди нахуй
+[Sun Sep 18 17:43:53 2016]  say: kosher: ЧТО
+[Sun Sep 18 17:45:10 2016]  Kill: 0 0 39: kosher killed kosher by MOD_SUICIDE
+[Sun Sep 18 17:45:24 2016]  say: kosher: )
+[Sun Sep 18 17:45:43 2016]  say: kosher: ЧЕ УБЕГАЕШ
+[Sun Sep 18 17:46:10 2016]  say: kosher: СПРОСИ КИТА ЧЕ ОН ДРОЧИТ
+[Sun Sep 18 17:46:11 2016]  say: ^0Rouf: а знаешь
+[Sun Sep 18 17:46:17 2016]  say: ^0Rouf: почему я такой крутой?
+[Sun Sep 18 17:46:21 2016]  say: kosher: НЕТР
+[Sun Sep 18 17:46:25 2016]  say: ^0Rouf: потому что я винкс
+[Sun Sep 18 17:46:34 2016]  say: kosher: КТО ЕТО
+[Sun Sep 18 17:46:46 2016]  say: s: все ясно с тобой
+[Sun Sep 18 17:46:51 2016]  say: kosher: ЧТ О
+[Sun Sep 18 17:46:59 2016]  say: s: все-все
+[Sun Sep 18 17:47:02 2016]  say: kosher: Я НА ВАС ЗЛЮСЬ
+[Sun Sep 18 17:47:09 2016]  say: kosher: ВЫ МЕНЯ НЕ ПРИНЯЛИ КАК ДРУГА
+[Sun Sep 18 17:47:18 2016]  say: ^0Rouf: хочешь
+[Sun Sep 18 17:47:21 2016]  say: ^0Rouf: я приму тебя 
+[Sun Sep 18 17:47:24 2016]  say: ^0Rouf: лучше чем друга
+[Sun Sep 18 17:47:24 2016]  say: kosher: ЧТО
+[Sun Sep 18 17:47:26 2016]  say: ^0Rouf: :3
+[Sun Sep 18 17:47:32 2016]  say: kosher: Я НЕ ГЭЙ
+[Sun Sep 18 17:47:45 2016]  say: s: а еще нас называешь ебнутыми на геях
+[Sun Sep 18 17:48:01 2016]  say: kosher: РОУФ СКАЗАЛ ЧТО Я СМОТРЮ ГЕЙ ПОРНО
+[Sun Sep 18 17:48:17 2016]  say: kosher: А КИТ ДРОЧИТ
+[Sun Sep 18 17:48:27 2016]  say: kosher: ДРОЧЕРСТВО ТОЖЕ САМОЕ ЧТО И ГЕЙСТВО
+[Sun Sep 18 17:48:37 2016]  say: ^0Rouf: почему
+[Sun Sep 18 17:48:41 2016]  say: s: А ВОТ ТУТ ОСМЕЛЮСЬ ВОЗРАЗИТЬ
+[Sun Sep 18 17:48:45 2016]  say: kosher: ЧТОЛ
+[Sun Sep 18 17:48:56 2016]  say: ^0Rouf: когда дрочишь ты не испытываешь к кому либо теплых чуввств
+[Sun Sep 18 17:49:00 2016]  say: s: ЕСЛИ ТЫ НЕ ДРОЧИШЬ ТО ТЫ ЕБАНАЯ ОМЕГА
+[Sun Sep 18 17:49:07 2016]  say: ^0Rouf: а при отношениях с партнеров у вас возникает тесная связь
+[Sun Sep 18 17:49:16 2016]  say: kosher: ЕСЛИ ТЫ НЕ ДРОЧИШ ТО ДРОЧИШ БОЛЬШЕ ВСЕХ
+[Sun Sep 18 17:49:25 2016]  say: ^0Rouf: 'v
+[Sun Sep 18 17:49:27 2016]  say: ^0Rouf: эм
+[Sun Sep 18 17:49:31 2016]  say: ^0Rouf: но это же не логично
+[Sun Sep 18 17:49:37 2016]  say: kosher: ЗАТО ТАК ГОВОРЯТ
+[Sun Sep 18 17:49:43 2016]  say: ^0Rouf: кличко?
+[Sun Sep 18 17:49:50 2016]  say: kosher: В ИНЕТЕ
+[Sun Sep 18 17:50:14 2016]  say: ^0Rouf: эм
+[Sun Sep 18 17:50:22 2016]  say: ^0Rouf: секретный сайт хейтеров?
+[Sun Sep 18 17:50:29 2016]  say: kosher: ХЗ
+[Sun Sep 18 17:50:41 2016]  say: kosher: В КОМЕНТАХ
+[Sun Sep 18 17:51:25 2016]  say: kosher: S ТЫ ДРОЧИШ?
+[Sun Sep 18 17:51:30 2016]  say: s: конечно
+[Sun Sep 18 17:51:34 2016]  say: ^0Rouf: ГДЕ МЯГКИЙ ЗНАК
+[Sun Sep 18 17:51:38 2016]  say: kosher: ЗНАЧИТ ТЫ НЕ МУЖИК
+[Sun Sep 18 17:51:45 2016]  say: s: чтоооо
+[Sun Sep 18 17:51:46 2016]  say: ^0Rouf: ну да
+[Sun Sep 18 17:51:48 2016]  say: ^0Rouf: он гей
+[Sun Sep 18 17:51:52 2016]  say: ^0Rouf: )
+[Sun Sep 18 17:51:56 2016]  say: kosher: МУЖЫКИ ДРОЧАТ В БАБ
+[Sun Sep 18 17:51:58 2016]  say: s: ты не дрочишь и не знаешь кто такие винкс
+[Sun Sep 18 17:52:05 2016]  say: s: это ты не мужик
+[Sun Sep 18 17:52:19 2016]  say: kosher: ВИНКС ЕТО РОЗОВЫЕ КУКЛЫ
+[Sun Sep 18 17:52:25 2016]  say: kosher: Я ВСПОМНИЛ
+[Sun Sep 18 17:52:31 2016]  say: kosher: ГДЕТО В РЕКЛАМЕ ВИДЕЛ
+[Sun Sep 18 17:52:48 2016]  say: kosher: ТАКВОТ МУЖЫКИ БЕРУТ БАБ И НАСИЛУЮТ
+[Sun Sep 18 17:52:51 2016]  say: kosher: НО НИКОГДА НЕ ДРОЧАТ
+[Sun Sep 18 17:53:15 2016]  say: kosher: А ТЕ КТО ДРОЧАТ ТЕ ТАРАКАНЫ А НЕ МУЖЫКИ
+[Sun Sep 18 17:53:29 2016]  say: ^0Rouf: но тараканы же не дрочат
+[Sun Sep 18 17:53:30 2016]  say: s: очень ошибаешься
+[Sun Sep 18 17:53:40 2016]  say: kosher: МУЖЫКОМ БЫТЬ ТРУДНО
+[Sun Sep 18 17:53:48 2016]  say: kosher: И НЕ НАДО ОПРАВДЫВАТЬСЯ
+[Sun Sep 18 17:54:08 2016]  say: s: это ты пытаешься оправдаться
+[Sun Sep 18 17:54:12 2016]  say: s: я же говорю факты
+[Sun Sep 18 17:54:20 2016]  say: kosher: какие
+[Sun Sep 18 17:54:23 2016]  say: s: если ты не дрочишь, то ты никто
+[Sun Sep 18 17:54:35 2016]  say: kosher: )
+[Sun Sep 18 17:54:41 2016]  say: kosher: КАКЭТО
+[Sun Sep 18 17:55:12 2016]  say: kosher: ПРИ СОВЕТСКОМ САЮЗЕ НЕ ДРОЧИЛИ И ОНИ ЗНАЧИТ НИКТО?
+[Sun Sep 18 17:55:20 2016]  say: ^0Rouf: КАК
+[Sun Sep 18 17:55:24 2016]  say: s: откуда ты знаешь, дрочили они или нет?
+[Sun Sep 18 17:55:25 2016]  say: ^0Rouf: КАК ТАК
+[Sun Sep 18 17:55:27 2016]  say: kosher: СПРОСИ У РОДИТЕЛЕЙ
+[Sun Sep 18 17:55:31 2016]  say: ^0Rouf: АААААААААААААААААААААААААААААА
+[Sun Sep 18 17:55:36 2016]  say: ^0Rouf: ААААААААААААААААААААААААААААААААААААААААААА
+[Sun Sep 18 17:55:41 2016]  say: s: у меня батя дрочил, пока не женился
+[Sun Sep 18 17:55:41 2016]  say: kosher: ОНИ ТЕБЯ ЕБНУТ ЕСЛИ ТАКОЕ СПРОСИШЬ
+[Sun Sep 18 17:55:49 2016]  say: kosher: ОТКУДА ЗНАЕШЬ
+[Sun Sep 18 17:56:05 2016]  say: s: А САМ ДОДУМАТЬСЯ НЕ МОЖЕШЬ?
+[Sun Sep 18 17:56:08 2016]  say: s: СПРОСИЛ
+[Sun Sep 18 17:56:14 2016]  say: kosher: )
+[Sun Sep 18 17:56:43 2016]  say: kosher: ЗНАЧИТ СЕМЬЯ ТАКАЯ
+[Sun Sep 18 17:56:48 2016]  say: kosher: ОТРАФИРОВАНАЯ
+[Sun Sep 18 17:56:49 2016]  say: ^0Rouf: ЖИЗНЬ ТАКА
+[Sun Sep 18 17:56:56 2016]  say: s: нормальная семья
+[Sun Sep 18 17:58:09 2016]  say: kosher: БЛЕАТЬ
+[Sun Sep 18 17:58:13 2016]  say: kosher: КАРОЧЕ ПОНЯТНО
+[Sun Sep 18 17:58:31 2016]  say: kosher: ЧТО ЕСЛИ Я НЕ ДРОЧУ
+[Sun Sep 18 17:59:24 2016]  say: s: ну?
+[Sun Sep 18 17:59:30 2016]  say: s: ты сделал какое-то умозаключение?
+[Sun Sep 18 17:59:42 2016]  say: kosher: ДА
+[Sun Sep 18 17:59:49 2016]  say: kosher: Я СДЕЛАЛ НОВЫЙ СКРИПТ ЗАЦЕНИТЕ
+[Sun Sep 18 18:00:02 2016]  say: kosher: СУПЕР СВЕТ
+[Sun Sep 18 18:00:09 2016]  say: s: надо крест
+[Sun Sep 18 18:00:23 2016]  say: s: а то чет не по-православному
+[Sun Sep 18 18:00:33 2016]  say: kosher: Я НЕ ПРАВОСЛАВНЫЙ
+[Sun Sep 18 18:00:38 2016]  say: kosher: Я АТЕИСТ
+[Sun Sep 18 18:00:49 2016]  say: ^0Rouf: ДА КАК ТАК
+[Sun Sep 18 18:00:54 2016]  say: kosher: ДА
+[Sun Sep 18 18:00:55 2016]  say: ^0Rouf: А КАК ЖЕ АЛЛАХ???
+[Sun Sep 18 18:01:00 2016]  say: ^0Rouf: ТЫ НЕ ВЕРИШЬ В АЛЛАХА???
+[Sun Sep 18 18:01:09 2016]  say: kosher: АЛЛАХ ИЗНАСИЛОВАЛ СВОЮ ДОЧЬ
+[Sun Sep 18 18:01:44 2016]  say: kosher: ТУТ ЛИМИТ СВЕТ :(
+[Sun Sep 18 18:01:49 2016]  say: kosher: НА СВЕТ :(
+[Sun Sep 18 18:01:51 2016]  say: kosher: ********************8
+[Sun Sep 18 18:02:06 2016]  say: kosher: КАКАЯ ТО СУКА СДЕЛАЛ БАР С СВЕТОМ
+[Sun Sep 18 18:02:15 2016]  say: kosher: УЕБОК БЛЯ
+[Sun Sep 18 18:02:33 2016]  ClientDisconnect: 0
+[Sun Sep 18 18:02:41 2016]  ClientConnect: 0
+[Sun Sep 18 18:02:41 2016]  mlog:Player kosher, connected. With IP - 91.230.25.125:29070 
+[Sun Sep 18 18:02:49 2016]  ClientDisconnect: 0
+[Sun Sep 18 18:02:49 2016]  ClientConnect: 0
+[Sun Sep 18 18:02:49 2016]  mlog:Player kosher, connected. With IP - 91.230.25.125:29070 
+[Sun Sep 18 18:03:03 2016]  ClientBegin: 0
+[Sun Sep 18 18:03:29 2016]  Kill: 0 0 39: kosher killed kosher by MOD_SUICIDE
+[Sun Sep 18 18:03:33 2016]  say: kosher: КАРОЧЕ Я ПОНЯЛ
+[Sun Sep 18 18:03:37 2016]  say: kosher: ПОЦАНЫ
+[Sun Sep 18 18:03:44 2016]  say: kosher: ТОТ КТО НЕ ДРОЧИТ ТОТ УМЕН И ТОЧЕН
+[Sun Sep 18 18:03:51 2016]  say: kosher: Я ТАКОЙ)
+[Sun Sep 18 18:03:53 2016]  say: s: наоборот
+[Sun Sep 18 18:04:04 2016]  say: ^0Rouf: это куда сложнее чем ты думаешь
+[Sun Sep 18 18:04:05 2016]  say: ^0Rouf: нуб
+[Sun Sep 18 18:04:09 2016]  say: kosher: ЧТО
+[Sun Sep 18 18:05:44 2016]  say: kosher: ВО
+[Sun Sep 18 18:05:46 2016]  Kill: 0 0 39: kosher killed kosher by MOD_SUICIDE
+[Sun Sep 18 18:05:46 2016]  setteam:  0 FREE SPECTATOR
+[Sun Sep 18 18:05:46 2016]  ClientBegin: 0
+[Sun Sep 18 18:07:04 2016]  say: s: заскринил
+[Sun Sep 18 18:07:06 2016]  say: s: спасибо
+[Sun Sep 18 18:07:11 2016]  say: kosher: НЗ
+[Sun Sep 18 18:07:16 2016]  setteam:  0 SPECTATOR FREE
+[Sun Sep 18 18:07:16 2016]  ClientBegin: 0
+[Sun Sep 18 18:07:28 2016]  say: kosher: ТОКА НЕ ДРОЧИ
+[Sun Sep 18 18:07:42 2016]  say: s: я скринил это только ради дрочки
+[Sun Sep 18 18:07:47 2016]  say: s: тебе меня не остановить
+[Sun Sep 18 18:07:54 2016]  say: kosher: :(((((((((((
+[Sun Sep 18 18:09:50 2016]  say: kosher: ГДЕ ШАДОВСИР
+[Sun Sep 18 18:10:02 2016]  say: s: церковь строит
+[Sun Sep 18 18:10:09 2016]  say: kosher: ОН КОСПЛЕЕР
+[Sun Sep 18 18:10:24 2016]  say: kosher: КОСПЛЕЕР ХУЖЕ ПИДАРАСА
+[Sun Sep 18 18:10:29 2016]  say: kosher: ТОКА НЕ ГОВОРИТЕ ЕМУ
+[Sun Sep 18 18:10:38 2016]  say: kosher: :)
+[Sun Sep 18 18:11:01 2016]  say: s: думаешь, он не очень расстроится, когда увидит этот скрин?
+[Sun Sep 18 18:11:11 2016]  Kill: 1022 0 38: <world> killed kosher by MOD_FALLING
+[Sun Sep 18 18:11:14 2016]  say: kosher: ТЫ НА НЕГО ПОДРОЧИШ ТОКА
+[Sun Sep 18 18:11:20 2016]  say: kosher:  Я ЗНАЮ:)
+[Sun Sep 18 18:11:44 2016]  say: kosher: ЕТО МЕДИСОН ЕЩЕ ГОВОРИЛ
+[Sun Sep 18 18:11:50 2016]  say: kosher: Я ЕГО ПЕРЕФРАЗИРУЮ
+[Sun Sep 18 18:13:25 2016]  say: kosher: НАДО СВЕТ
+[Sun Sep 18 18:13:59 2016]  say: s: твоему бревну не хватает кое-чего
+[Sun Sep 18 18:14:19 2016]  say: kosher: чего
+[Sun Sep 18 18:14:23 2016]  say: kosher: а
+[Sun Sep 18 18:14:25 2016]  say: s: ща
+[Sun Sep 18 18:14:25 2016]  say: kosher: свет другой
+[Sun Sep 18 18:14:35 2016]  say: kosher: желтый круче)))))))0
+[Sun Sep 18 18:14:59 2016]  say: kosher: ето пошло
+[Sun Sep 18 18:15:03 2016]  say: s: так лучше
+[Sun Sep 18 18:15:08 2016]  say: kosher: пошляк
+[Sun Sep 18 18:15:15 2016]  say: s: вообще-то это молоток
+[Sun Sep 18 18:15:21 2016]  say: kosher: нет
+[Sun Sep 18 18:15:32 2016]  say: kosher: ето обоссное все
+[Sun Sep 18 18:15:36 2016]  say: kosher: обоссали
+[Sun Sep 18 18:16:20 2016]  say: kosher: в мейкермоде хуевые возможности
+[Sun Sep 18 18:16:27 2016]  say: kosher: можно создать свет
+[Sun Sep 18 18:16:34 2016]  ClientDisconnect: 2
+[Sun Sep 18 18:16:34 2016]  say: kosher: но чтоб он мигал нельзя
+[Sun Sep 18 18:16:50 2016]  say: s: да нормально
+[Sun Sep 18 18:17:10 2016]  say: s: ты когда-нибудь видел, чтоб обоссанное бревно мигало?
+[Sun Sep 18 18:17:15 2016]  say: s: вот я не видел
+[Sun Sep 18 18:17:21 2016]  say: kosher: я хотел дискотеку
+[Sun Sep 18 18:17:35 2016]  say: s: пойдем в бар
+[Sun Sep 18 18:17:40 2016]  say: s: там это можно устроить
+[Sun Sep 18 18:17:42 2016]  say: kosher: там гавно
+[Sun Sep 18 18:17:51 2016]  say: s: и бревно свое прихвати
+[Sun Sep 18 18:18:12 2016]  say: kosher: я без звука играю
+[Sun Sep 18 18:18:12 2016]  say: s: заебись качает
+[Sun Sep 18 18:18:21 2016]  say: s: куда звук дел?
+[Sun Sep 18 18:18:27 2016]  say: kosher: наушники поломались
+[Sun Sep 18 18:19:01 2016]  say: kosher: все глючит
+[Sun Sep 18 18:19:05 2016]  say: kosher: старый движок
+[Sun Sep 18 18:19:24 2016]  say: s: просто мод не оптимизирован
+[Sun Sep 18 18:19:45 2016]  say: s: хотели сделать, чтоб объекты материальными были
+[Sun Sep 18 18:20:03 2016]  say: s: ну, можно по рогам рагноса побегать
+[Sun Sep 18 18:20:11 2016]  say: kosher: но там бокс
+[Sun Sep 18 18:20:11 2016]  say: s: по стволу, торчащему из твоего бревна
+[Sun Sep 18 18:20:20 2016]  say: kosher: коробка
+[Sun Sep 18 18:20:27 2016]  say: s: сейчас - коробка
+[Sun Sep 18 18:20:37 2016]  say: kosher: если уступ на модели то он не учитывается
+[Sun Sep 18 18:20:54 2016]  say: s: ннеее..
+[Sun Sep 18 18:21:08 2016]  say: kosher: для обычных моделей только коробка
+[Sun Sep 18 18:21:22 2016]  say: kosher: а для нпц или игроков все
+[Sun Sep 18 18:21:30 2016]  say: kosher: и бмоделей
+[Sun Sep 18 18:21:54 2016]  say: s: в любом случае, разрабы планировали реализовать то, о чем я говорил
+[Sun Sep 18 18:22:04 2016]  say: s: только до этого уже не дойдет
+[Sun Sep 18 18:22:05 2016]  say: kosher: реализовали
+[Sun Sep 18 18:22:25 2016]  say: kosher: а кроме материальных обьектов какие есть
+[Sun Sep 18 18:22:44 2016]  say: s: не совсем понял вопрос
+[Sun Sep 18 18:23:04 2016]  say: s: все объекты на мейкере относительно материальны
+[Sun Sep 18 18:23:24 2016]  say: s: только они материальны на уровне коробки, как ты говорил
+[Sun Sep 18 18:23:46 2016]  say: s: а так могли бы иметь свою форму
+[Sun Sep 18 18:23:58 2016]  say: kosher: у мд3 нет поддержки колизий
+[Sun Sep 18 18:24:02 2016]  say: s: только мейкермод рип уже давно
+[Sun Sep 18 18:24:11 2016]  say: kosher: да могут
+[Sun Sep 18 18:24:15 2016]  say: s: это надо будет проверить
+[Sun Sep 18 18:24:27 2016]  say: kosher: но для этого надо в 4 раза увеличить количество обьектов
+[Sun Sep 18 18:24:42 2016]  say: kosher: для каждой модели делать свои коробки итд
+[Sun Sep 18 18:24:51 2016]  say: kosher: подругому никак
+[Sun Sep 18 18:25:19 2016]  say: kosher: только бмодели типо дверей имеют свои формы
+[Sun Sep 18 18:25:24 2016]  say: s: по-моему, в радианте можно было замутить так, чтоб модель имела форму
+[Sun Sep 18 18:25:35 2016]  say: s: хотя хз
+[Sun Sep 18 18:25:36 2016]  say: kosher: она становится бмоделью
+[Sun Sep 18 18:25:47 2016]  say: kosher: и вставляется в бсп
+[Sun Sep 18 18:26:04 2016]  say: s: надо будет запариться за это
+[Sun Sep 18 18:26:18 2016]  say: s: глядишь и карту какую-нибудь запилю
+[Sun Sep 18 18:26:26 2016]  say: kosher: карт много
+[Sun Sep 18 18:26:32 2016]  say: kosher: никто на них не играет
+[Sun Sep 18 18:26:56 2016]  say: s: ну, это можно организовать
+[Sun Sep 18 18:27:03 2016]  say: kosher: да и исходники мекермода есть
+[Sun Sep 18 18:27:12 2016]  say: kosher: места знать надо
+[Sun Sep 18 18:27:16 2016]  say: s: серьезно?
+[Sun Sep 18 18:27:18 2016]  say: kosher: да
+[Sun Sep 18 18:27:31 2016]  say: kosher: уже как год
+[Sun Sep 18 18:27:36 2016]  say: s: значит, для мейкера еще не все потеряно
+[Sun Sep 18 18:27:48 2016]  say: kosher: но никто их не использует
+[Sun Sep 18 18:28:06 2016]  say: kosher: я помню раньше был makermod.co.cc
+[Sun Sep 18 18:28:09 2016]  say: kosher: теперь нет
+[Sun Sep 18 18:28:18 2016]  say: s: есть исходники в общем доступе - есть надежда
+[Sun Sep 18 18:28:20 2016]  say: s: хотя...
+[Sun Sep 18 18:28:23 2016]  say: kosher: нет
+[Sun Sep 18 18:28:30 2016]  say: s: выложили ведь исходники джа
+[Sun Sep 18 18:28:33 2016]  say: kosher: никому они не нужны
+[Sun Sep 18 18:28:57 2016]  say: kosher: выложили и есть опежк
+[Sun Sep 18 18:30:00 2016]  say: s: ппц, мысль потерял
+[Sun Sep 18 18:30:05 2016]  say: s: о господи
+[Sun Sep 18 18:30:11 2016]  say: s: такое облегчение для глаз
+[Sun Sep 18 18:31:46 2016]  say: kosher: жка умерла
+[Sun Sep 18 18:31:54 2016]  say: kosher: ниче нового не будет
+[Sun Sep 18 18:31:57 2016]  say: s: не сказал бы
+[Sun Sep 18 18:32:02 2016]  say: s: турниры проводят
+[Sun Sep 18 18:32:31 2016]  say: kosher: турниры для задротов
+[Sun Sep 18 18:32:42 2016]  say: kosher: с ними даже не поговришь они говорят о вигле и додже
+[Sun Sep 18 18:32:55 2016]  ClientConnect: 2
+[Sun Sep 18 18:32:55 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.182.5:29071 
+[Sun Sep 18 18:33:01 2016]  say: s: может, ты просто неправильно начинал беседу)
+[Sun Sep 18 18:33:11 2016]  say: kosher: врядли
+[Sun Sep 18 18:33:23 2016]  ClientBegin: 2
+[Sun Sep 18 18:33:30 2016]  say: s: привет
+[Sun Sep 18 18:33:48 2016]  say: kosher: о
+[Sun Sep 18 18:33:52 2016]  say: kosher: так лучше
+[Sun Sep 18 18:34:07 2016]  say: s: для бара не очень
+[Sun Sep 18 18:34:11 2016]  say: s: но красиво
+[Sun Sep 18 18:34:48 2016]  say: kosher: шадовсир го в бар
+[Sun Sep 18 18:34:48 2016]  Item: 2 weapon_melee
+[Sun Sep 18 18:34:55 2016]  say: ^0Shadow^5seer: ghbdtn
+[Sun Sep 18 18:34:58 2016]  say: ^0Shadow^5seer: привет
+[Sun Sep 18 18:35:03 2016]  say: kosher: привет
+[Sun Sep 18 18:35:06 2016]  say: ^0Shadow^5seer: как вам мапобс?)
+[Sun Sep 18 18:35:16 2016]  say: kosher: много обьектов
+[Sun Sep 18 18:35:18 2016]  say: s: где-то я этот бар уже видел)
+[Sun Sep 18 18:35:25 2016]  say: kosher: спарк?
+[Sun Sep 18 18:35:25 2016]  say: ^0Shadow^5seer: как и все остальное)
+[Sun Sep 18 18:35:34 2016]  say: ^0Shadow^5seer: это мапобс с моего серва
+[Sun Sep 18 18:35:44 2016]  say: s: с местным админом задружил?
+[Sun Sep 18 18:35:46 2016]  say: kosher: шадовсир помнишь клан рмс
+[Sun Sep 18 18:35:54 2016]  say: ^0Shadow^5seer: да давно уже задружил
+[Sun Sep 18 18:35:58 2016]  say: ^0Shadow^5seer: помню
+[Sun Sep 18 18:36:05 2016]  say: kosher: там школьники одни были
+[Sun Sep 18 18:36:21 2016]  say: kosher: у них до сих пор сайт активный
+[Sun Sep 18 18:36:25 2016]  say: ^0Shadow^5seer: я его только не могу уговорить убрать уебишный ремап моделей персонажей
+[Sun Sep 18 18:36:27 2016]  say: s: я помню, меня на рмс кто-то назвал ''предателем клана''
+[Sun Sep 18 18:36:45 2016]  say: ^0Shadow^5seer: так к чему ты это?
+[Sun Sep 18 18:36:54 2016]  say: kosher: ностальгия)
+[Sun Sep 18 18:37:00 2016]  say: ^0Shadow^5seer: ну-ну)
+[Sun Sep 18 18:37:02 2016]  say: ^0Shadow^5seer: афк
+[Sun Sep 18 18:37:16 2016]  say: s: только зашел на серв, как сразу афк
+[Sun Sep 18 18:37:17 2016]  ClientDisconnect: 2
+[Sun Sep 18 18:37:25 2016]  say: s: окей
+[Sun Sep 18 18:37:34 2016]  say: kosher: ну и че тут делать
+[Sun Sep 18 18:37:51 2016]  say: kosher: модели слишком близко
+[Sun Sep 18 18:37:57 2016]  say: kosher: дергаются
+[Sun Sep 18 18:38:07 2016]  say: s: зато ровно
+[Sun Sep 18 18:38:32 2016]  say: kosher: я мод хотел сделать
+[Sun Sep 18 18:38:38 2016]  say: kosher: но сервера нет
+[Sun Sep 18 18:38:38 2016]  say: s: что за мод?
+[Sun Sep 18 18:38:51 2016]  say: kosher: типо макермода и лугормода но круче
+[Sun Sep 18 18:39:21 2016]  say: s: отсутствие сервера - единственное, что тебя остановило перед созданием мода?
+[Sun Sep 18 18:39:31 2016]  say: kosher: да мод был готов для тестирования
+[Sun Sep 18 18:39:40 2016]  say: kosher: я даже хостил
+[Sun Sep 18 18:39:46 2016]  say: kosher: только я мог подсоединится
+[Sun Sep 18 18:39:56 2016]  say: kosher: так скучно одному
+[Sun Sep 18 18:39:59 2016]  say: s: полагаю, этого мода больше нет?
+[Sun Sep 18 18:40:03 2016]  say: kosher: почему
+[Sun Sep 18 18:40:08 2016]  say: kosher: валяется на винте
+[Sun Sep 18 18:40:11 2016]  say: s: был готов...
+[Sun Sep 18 18:40:16 2016]  say: kosher: да
+[Sun Sep 18 18:40:39 2016]  say: kosher: у всех спросил никто серв не дает
+[Sun Sep 18 18:40:42 2016]  say: s: можно локальный намутить через хамачи
+[Sun Sep 18 18:40:46 2016]  say: kosher: да
+[Sun Sep 18 18:40:51 2016]  say: kosher: но надо искать людей
+[Sun Sep 18 18:41:03 2016]  say: kosher: да и хамачи гавно
+[Sun Sep 18 18:41:07 2016]  say: s: думаю, это не такая проблема, как поиск сервера
+[Sun Sep 18 18:41:19 2016]  say: kosher: ссервером легче
+[Sun Sep 18 18:41:30 2016]  say: kosher: а ищешь людей говоришь установи хамачи итд
+[Sun Sep 18 18:41:42 2016]  say: kosher: и все игнорят тебя
+[Sun Sep 18 18:41:53 2016]  say: kosher: а скажешь \connect ip то сразу идут
+[Sun Sep 18 18:42:11 2016]  say: kosher: так что с сервером легче
+[Sun Sep 18 18:42:51 2016]  say: s: а я в свое время карты делал...
+[Sun Sep 18 18:42:57 2016]  say: kosher: какие 
+[Sun Sep 18 18:42:59 2016]  say: s: три штуки было
+[Sun Sep 18 18:43:06 2016]  say: s: только в свет не выходили они
+[Sun Sep 18 18:43:16 2016]  say: kosher: карты скучно
+[Sun Sep 18 18:43:27 2016]  say: s: да почему же
+[Sun Sep 18 18:43:31 2016]  say: s: мне кажется, норм
+[Sun Sep 18 18:43:37 2016]  say: kosher: надо знать радиант
+[Sun Sep 18 18:44:00 2016]  say: s: чтобы делать моды, нужно знать с++
+[Sun Sep 18 18:44:04 2016]  say: kosher: я знаю
+[Sun Sep 18 18:44:10 2016]  say: s: ну вот
+[Sun Sep 18 18:44:14 2016]  say: s: для всего нужны знания
+[Sun Sep 18 18:44:24 2016]  say: kosher: лучше
+[Sun Sep 18 18:44:35 2016]  say: kosher: хочешь сделать карту?
+[Sun Sep 18 18:44:52 2016]  say: kosher: сделай
+[Sun Sep 18 18:44:55 2016]  say: s: пока не определился
+[Sun Sep 18 18:44:57 2016]  say: kosher: кремль
+[Sun Sep 18 18:45:07 2016]  say: s: пфф)
+[Sun Sep 18 18:45:14 2016]  say: s: интересное предложение, конечно
+[Sun Sep 18 18:45:28 2016]  say: s: но я бы что-нибудь другое придумал)
+[Sun Sep 18 18:45:40 2016]  say: kosher: рейхстаг?
+[Sun Sep 18 18:45:56 2016]  say: s: вообще хз как он изнутри выглядит
+[Sun Sep 18 18:46:01 2016]  say: s: как и в случае с кремлем
+[Sun Sep 18 18:46:31 2016]  say: s: создавал эффекты еще
+[Sun Sep 18 18:46:41 2016]  say: kosher: ет тоже скучно
+[Sun Sep 18 18:46:43 2016]  say: s: ну, создавал и заменял существующие
+[Sun Sep 18 18:46:56 2016]  say: s: а я считаю наоборот
+[Sun Sep 18 18:47:00 2016]  say: s: полет фантазии
+[Sun Sep 18 18:47:22 2016]  say: s: конечно, есть ограничения
+[Sun Sep 18 18:47:24 2016]  say: kosher: я бы много че создал если бы у меня были друзья
+[Sun Sep 18 18:47:31 2016]  say: kosher: а так не хочется
+[Sun Sep 18 18:47:42 2016]  say: kosher: нет вдохновения
+[Sun Sep 18 18:47:45 2016]  say: s: у тебя нет друзей?
+[Sun Sep 18 18:47:47 2016]  say: kosher: да
+[Sun Sep 18 18:47:56 2016]  say: s: я не удивлен
+[Sun Sep 18 18:47:59 2016]  say: kosher: почему
+[Sun Sep 18 18:48:18 2016]  say: s: ты заходишь на сервак и спавнишь огромные объекты, дабы помешать
+[Sun Sep 18 18:48:28 2016]  say: s: вспомни реакцию роуфа
+[Sun Sep 18 18:48:32 2016]  say: kosher: так многие делали
+[Sun Sep 18 18:48:35 2016]  say: kosher: на спарке
+[Sun Sep 18 18:49:10 2016]  say: s: это не способствует заведению дружбы)
+[Sun Sep 18 18:49:20 2016]  say: kosher: в игре друзей не найдешь
+[Sun Sep 18 18:49:27 2016]  say: s: да и к тому же, довольно козлячее занятие
+[Sun Sep 18 18:49:54 2016]  say: kosher: ты из самары?
+[Sun Sep 18 18:49:58 2016]  say: s: нет
+[Sun Sep 18 18:50:04 2016]  say: kosher: был  у меня друг один
+[Sun Sep 18 18:50:06 2016]  say: kosher: из самары
+[Sun Sep 18 18:50:13 2016]  say: s: рассказывал ты уже
+[Sun Sep 18 18:50:15 2016]  say: kosher: да
+[Sun Sep 18 18:50:20 2016]  say: kosher: короче
+[Sun Sep 18 18:50:31 2016]  say: kosher: пропал
+[Sun Sep 18 18:50:43 2016]  say: s: в прошлый раз мне казалось, что ты не всерьез
+[Sun Sep 18 18:51:18 2016]  say: kosher: ето уже 3 года назад было
+[Sun Sep 18 18:51:29 2016]  say: kosher: вернее 4
+[Sun Sep 18 18:51:46 2016]  say: kosher: время быстро бежит когда его просираешь
+[Sun Sep 18 18:51:49 2016]  say: s: зачем ты делишься этим с теми, кого даже в глаза не видел?
+[Sun Sep 18 18:51:55 2016]  say: kosher: хз
+[Sun Sep 18 18:52:10 2016]  say: s: просирание времени, это беда, ага
+[Sun Sep 18 18:52:11 2016]  say: kosher: не скем больше
+[Sun Sep 18 18:52:41 2016]  say: s: нужно чем-то увлечь себя
+[Sun Sep 18 18:52:46 2016]  say: s: но это тяжело
+[Sun Sep 18 18:52:49 2016]  say: kosher: да
+[Sun Sep 18 18:52:54 2016]  say: kosher: нервные срывы
+[Sun Sep 18 18:53:10 2016]  say: s: у меня нервные срывы начались после года работы :D
+[Sun Sep 18 18:53:14 2016]  say: kosher: кем
+[Sun Sep 18 18:53:32 2016]  say: s: на почте работаю, пока вышку не получил
+[Sun Sep 18 18:53:41 2016]  say: kosher: а специальность какая
+[Sun Sep 18 18:54:07 2016]  say: s: не совсем специальность) Скажем, рабочая обязанность
+[Sun Sep 18 18:54:09 2016]  say: s: почтальон
+[Sun Sep 18 18:54:16 2016]  say: kosher: нет на кого учился
+[Sun Sep 18 18:54:30 2016]  say: s: среднее специальное окончил на повара
+[Sun Sep 18 18:54:41 2016]  say: s: сейчас учусь на айтишника
+[Sun Sep 18 18:54:47 2016]  say: kosher: зря
+[Sun Sep 18 18:54:52 2016]  say: kosher: много айтишников
+[Sun Sep 18 18:54:53 2016]  say: s: тоже так думаю
+[Sun Sep 18 18:55:17 2016]  say: s: странно, многие до тебя меня убеждали, что это необходимо
+[Sun Sep 18 18:55:19 2016]  say: kosher: надо учится на депутата
+[Sun Sep 18 18:55:41 2016]  say: kosher: на какого именно айтишника учишся
+[Sun Sep 18 18:55:51 2016]  say: s: прикладная информатика в сервисе
+[Sun Sep 18 18:55:57 2016]  say: kosher: и че там
+[Sun Sep 18 18:56:06 2016]  say: s: думаю, оно с рекламой связано
+[Sun Sep 18 18:56:21 2016]  say: kosher: если с рекламой то хз
+[Sun Sep 18 18:56:36 2016]  say: kosher: но на депутата лучше всего
+[Sun Sep 18 18:56:45 2016]  say: s: почему же?
+[Sun Sep 18 18:56:50 2016]  say: kosher: тока надо уметь заводить друзей
+[Sun Sep 18 18:57:03 2016]  say: kosher: будешь крышывать других
+[Sun Sep 18 18:57:12 2016]  say: kosher: баблосы делать
+[Sun Sep 18 18:57:42 2016]  say: kosher: на депутата не главное учится а главное чтобы приняли
+[Sun Sep 18 18:57:42 2016]  say: s: из-за таких людей, которым нужно лишь бабло, рашка и гниет
+[Sun Sep 18 18:58:11 2016]  say: s: извиняюсь, немного больная тема
+[Sun Sep 18 18:58:21 2016]  say: kosher: про рашку долго говорить
+[Sun Sep 18 18:58:26 2016]  say: s: да уж
+[Sun Sep 18 18:58:27 2016]  say: kosher: ты за путина?
+[Sun Sep 18 18:58:32 2016]  say: s: нет конечно
+[Sun Sep 18 18:58:39 2016]  say: kosher: а за кого
+[Sun Sep 18 18:58:50 2016]  say: s: да хз как-то
+[Sun Sep 18 18:58:58 2016]  say: s: кроме путина никого и не знаю
+[Sun Sep 18 18:59:01 2016]  say: kosher: за невзорова?
+[Sun Sep 18 18:59:05 2016]  say: s: :D
+[Sun Sep 18 18:59:07 2016]  say: s: нет)
+[Sun Sep 18 18:59:16 2016]  say: s: сегодня голосовать ходил
+[Sun Sep 18 18:59:24 2016]  say: kosher: за кого
+[Sun Sep 18 18:59:26 2016]  say: s: голосовал за парнас
+[Sun Sep 18 18:59:30 2016]  say: kosher: че это
+[Sun Sep 18 18:59:38 2016]  say: s: партия народной свободы
+[Sun Sep 18 18:59:43 2016]  say: s: только в думу не пройдет
+[Sun Sep 18 18:59:52 2016]  say: s: мало голосов наберет
+[Sun Sep 18 19:00:01 2016]  say: kosher: ето все херня
+[Sun Sep 18 19:00:09 2016]  say: kosher: смотри
+[Sun Sep 18 19:00:19 2016]  say: kosher: советский союз развалили
+[Sun Sep 18 19:00:29 2016]  say: kosher: и никто ниче не понял
+[Sun Sep 18 19:00:43 2016]  say: kosher: много заводов разворовали
+[Sun Sep 18 19:00:54 2016]  say: kosher: и до сих пор воруют уже остатки
+[Sun Sep 18 19:01:00 2016]  say: kosher: у россии нет будущего
+[Sun Sep 18 19:01:18 2016]  say: s: страна-то хорошая
+[Sun Sep 18 19:01:22 2016]  say: kosher: да
+[Sun Sep 18 19:01:29 2016]  say: s: жаль, власть бессовестная
+[Sun Sep 18 19:01:29 2016]  say: kosher: но народу пох на страну
+[Sun Sep 18 19:01:37 2016]  say: s: ну и народ тут..
+[Sun Sep 18 19:01:42 2016]  say: kosher: власть сделала народ патриотичным
+[Sun Sep 18 19:01:48 2016]  say: kosher: для своих целей
+[Sun Sep 18 19:01:56 2016]  say: s: так в любой стране, мне кажется
+[Sun Sep 18 19:02:02 2016]  say: s: военный патриотизм
+[Sun Sep 18 19:02:28 2016]  say: s: народ идет воевать в первую очередь за семью
+[Sun Sep 18 19:02:37 2016]  say: kosher: за територию
+[Sun Sep 18 19:02:50 2016]  say: kosher: у нас на украине за суверинитет и соборность
+[Sun Sep 18 19:02:51 2016]  say: s: я имею в виду мотивацию
+[Sun Sep 18 19:03:47 2016]  say: kosher: кароче
+[Sun Sep 18 19:03:53 2016]  say: kosher: надо менять
+[Sun Sep 18 19:03:55 2016]  say: kosher: чето
+[Sun Sep 18 19:04:00 2016]  say: kosher: или не менять
+[Sun Sep 18 19:04:09 2016]  say: kosher: не менять легче всего
+[Sun Sep 18 19:04:09 2016]  say: s: что именно менять?)
+[Sun Sep 18 19:04:37 2016]  say: kosher: если бы сталин увидил что сделали с его заводами то он бы застрелился
+[Sun Sep 18 19:05:04 2016]  say: kosher: в россии живет хуже греции
+[Sun Sep 18 19:05:09 2016]  say: kosher: россия*
+[Sun Sep 18 19:05:19 2016]  ClientConnect: 2
+[Sun Sep 18 19:05:19 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.182.5:29070 
+[Sun Sep 18 19:05:22 2016]  say: kosher: а народу пох
+[Sun Sep 18 19:05:48 2016]  say: s: можно много историй наслушаться про соседние страны
+[Sun Sep 18 19:05:50 2016]  ClientBegin: 2
+[Sun Sep 18 19:05:57 2016]  Item: 2 weapon_melee
+[Sun Sep 18 19:06:15 2016]  say: s: я тоже кучу всяких слышал про украину
+[Sun Sep 18 19:06:21 2016]  say: s: но всерьез не воспринимал
+[Sun Sep 18 19:06:25 2016]  say: kosher: ахаах
+[Sun Sep 18 19:06:57 2016]  say: s: я ж знаю, что это просто желание подосрать в ответ как бы
+[Sun Sep 18 19:06:59 2016]  ClientDisconnect: 2
+[Sun Sep 18 19:06:59 2016]  ClientDisconnect: 2
+[Sun Sep 18 19:06:59 2016]  ClientConnect: 2
+[Sun Sep 18 19:06:59 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.182.5:29070 
+[Sun Sep 18 19:07:12 2016]  ClientBegin: 2
+[Sun Sep 18 19:07:23 2016]  ClientDisconnect: 0
+[Sun Sep 18 19:07:23 2016]  ClientConnect: 0
+[Sun Sep 18 19:07:23 2016]  mlog:Player coc, connected. With IP - 91.230.25.125:29070 
+[Sun Sep 18 19:07:30 2016]  Item: 2 weapon_melee
+[Sun Sep 18 19:07:48 2016]  say: ^0Shadow^5seer: реконнекться чтоб ремап отображался корректно
+[Sun Sep 18 19:07:54 2016]  ClientDisconnect: 1
+[Sun Sep 18 19:07:54 2016]  ClientDisconnect: 1
+[Sun Sep 18 19:07:54 2016]  ClientConnect: 1
+[Sun Sep 18 19:07:54 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Sun Sep 18 19:08:10 2016]  ClientBegin: 1
+[Sun Sep 18 19:08:14 2016]  Kill: 0 1 37: kosher killed s by MOD_TELEFRAG
+[Sun Sep 18 19:08:14 2016]  ClientBegin: 0
+[Sun Sep 18 19:08:49 2016]  say: kosher: лаги
+[Sun Sep 18 19:09:03 2016]  say: kosher: коррче
+[Sun Sep 18 19:09:09 2016]  say: ^0Shadow^5seer: вот теперь это чисто мой сервер)
+[Sun Sep 18 19:09:14 2016]  say: kosher: насчет украины
+[Sun Sep 18 19:09:16 2016]  say: ^0Shadow^5seer: не считая логотипа DQ
+[Sun Sep 18 19:09:30 2016]  say: kosher: украина ето ссср
+[Sun Sep 18 19:09:49 2016]  say: kosher: ее отделяют чтобы россия была слабее
+[Sun Sep 18 19:10:02 2016]  say: kosher: если бы такое было во времена второй мировой как щас
+[Sun Sep 18 19:10:04 2016]  say: ^0Shadow^5seer: mplacefx world/waterfall
+[Sun Sep 18 19:10:09 2016]  say: ^0Shadow^5seer: попробуйте)
+[Sun Sep 18 19:10:13 2016]  say: kosher: то россия бы проиграла
+[Sun Sep 18 19:10:34 2016]  say: ^0Shadow^5seer: waterfall3
+[Sun Sep 18 19:10:38 2016]  say: ^0Shadow^5seer: кажется так
+[Sun Sep 18 19:10:40 2016]  say: ^0Shadow^5seer: во)
+[Sun Sep 18 19:10:44 2016]  say: ^0Shadow^5seer: огнепад)
+[Sun Sep 18 19:10:56 2016]  say: s: черт, аж залагал
+[Sun Sep 18 19:11:50 2016]  say: ^0Shadow^5seer: эффект меча
+[Sun Sep 18 19:11:54 2016]  say: ^0Shadow^5seer: эффект молнии
+[Sun Sep 18 19:11:58 2016]  say: kosher: ну и че
+[Sun Sep 18 19:12:12 2016]  say: ^0Shadow^5seer: просто показываю ремапы
+[Sun Sep 18 19:12:17 2016]  say: s: след от меча такой и был до этого)
+[Sun Sep 18 19:12:17 2016]  Kill: 1022 0 36: <world> killed kosher by MOD_CRUSH
+[Sun Sep 18 19:12:19 2016]  say: s: вроде
+[Sun Sep 18 19:12:27 2016]  say: s: да, огонек
+[Sun Sep 18 19:12:27 2016]  say: ^0Shadow^5seer: ну возможно
+[Sun Sep 18 19:12:50 2016]  say: s: желтый круто выглядит
+[Sun Sep 18 19:12:56 2016]  say: ^0Shadow^5seer: с желтым круче всего, потому я его и ношу)
+[Sun Sep 18 19:12:57 2016]  Kill: 1 0 3: s killed kosher by MOD_SABER
+[Sun Sep 18 19:13:01 2016]  say: s: лол
+[Sun Sep 18 19:13:09 2016]  Kill: 2 0 0: ^0Shadow^5seer killed kosher by MOD_UNKNOWN
+[Sun Sep 18 19:13:48 2016]  say: ^0Shadow^5seer: короче не нашел кому дать похостить свой сервер - изменил этот)
+[Sun Sep 18 19:13:56 2016]  ClientConnect: 3
+[Sun Sep 18 19:13:56 2016]  mlog:Player ^0Symbiote Spiderman , connected. With IP - 213.181.197.135:29070 
+[Sun Sep 18 19:14:12 2016]  say: s: хорошо иметь друзей с серваками)
+[Sun Sep 18 19:14:24 2016]  say: ^0Shadow^5seer: все как раньше, но еще и с новой постройкой зв пещерой
+[Sun Sep 18 19:14:35 2016]  say: s: еще раз реконнектнусь
+[Sun Sep 18 19:14:36 2016]  ClientDisconnect: 1
+[Sun Sep 18 19:14:43 2016]  say: ^0Shadow^5seer: а я просто всем предлагаю помощь с мапобсами и ремапом)
+[Sun Sep 18 19:14:51 2016]  say: ^0Shadow^5seer: и еще бы они отказалимь
+[Sun Sep 18 19:15:01 2016]  say: kosher: ddos?
+[Sun Sep 18 19:15:05 2016]  ClientConnect: 1
+[Sun Sep 18 19:15:05 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Sun Sep 18 19:15:06 2016]  ClientBegin: 3
+[Sun Sep 18 19:15:08 2016]  say: ^0Shadow^5seer: не должно быть
+[Sun Sep 18 19:15:12 2016]  say: ^0Shadow^5seer: я то не лагаю
+[Sun Sep 18 19:15:21 2016]  say: kosher: ддосиш если они отказывают?
+[Sun Sep 18 19:15:26 2016]  say: ^0Shadow^5seer: а, нет
+[Sun Sep 18 19:15:31 2016]  say: ^0Shadow^5seer: они просто не отказываются
+[Sun Sep 18 19:15:44 2016]  say: kosher: я бы отказался
+[Sun Sep 18 19:15:51 2016]  ClientBegin: 1
+[Sun Sep 18 19:15:52 2016]  say: kosher: и разрешил всем mremap
+[Sun Sep 18 19:15:54 2016]  say: ^0Symbiote Spiderman : OM
+[Sun Sep 18 19:15:56 2016]  say: ^0Symbiote Spiderman : I LOVE
+[Sun Sep 18 19:15:57 2016]  say: ^0Symbiote Spiderman : THIS
+[Sun Sep 18 19:15:58 2016]  say: ^0Symbiote Spiderman : SERVER
+[Sun Sep 18 19:16:01 2016]  say: ^0Shadow^5seer: вот трэш бы начался...
+[Sun Sep 18 19:16:05 2016]  say: ^0Symbiote Spiderman : hi everybody
+[Sun Sep 18 19:16:09 2016]  say: ^0Shadow^5seer: hi
+[Sun Sep 18 19:16:19 2016]  say: ^0Shadow^5seer: glad to here u like it)
+[Sun Sep 18 19:16:19 2016]  say: kosher: поставил бы лимит на 2 ремапа на человека
+[Sun Sep 18 19:16:26 2016]  Kill: 3 3 39: ^0Symbiote Spiderman  killed ^0Symbiote Spiderman  by MOD_SUICIDE
+[Sun Sep 18 19:16:27 2016]  Kill: 3 1 37: ^0Symbiote Spiderman  killed s by MOD_TELEFRAG
+[Sun Sep 18 19:16:27 2016]  say: ^0Shadow^5seer: нет такого лимита
+[Sun Sep 18 19:16:33 2016]  say: kosher: можно сделать
+[Sun Sep 18 19:16:35 2016]  say: ^0Shadow^5seer: нет такого параметра
+[Sun Sep 18 19:16:42 2016]  say: kosher: есть исходники
+[Sun Sep 18 19:16:45 2016]  say: ^0Symbiote Spiderman : what?
+[Sun Sep 18 19:16:51 2016]  say: ^0Shadow^5seer: dont mind
+[Sun Sep 18 19:17:04 2016]  ClientDisconnect: 1
+[Sun Sep 18 19:17:04 2016]  ClientConnect: 1
+[Sun Sep 18 19:17:04 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Sun Sep 18 19:17:50 2016]  ClientBegin: 1
+[Sun Sep 18 19:18:09 2016]  Kill: 1022 0 36: <world> killed kosher by MOD_CRUSH
+[Sun Sep 18 19:18:17 2016]  ClientDisconnect: 2
+[Sun Sep 18 19:18:17 2016]  ClientDisconnect: 2
+[Sun Sep 18 19:18:17 2016]  ClientConnect: 2
+[Sun Sep 18 19:18:17 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.182.5:29070 
+[Sun Sep 18 19:18:19 2016]  say: ^0Symbiote Spiderman : WTF
+[Sun Sep 18 19:18:31 2016]  ClientBegin: 2
+[Sun Sep 18 19:18:31 2016]  say: ^0Symbiote Spiderman : what is that
+[Sun Sep 18 19:18:33 2016]  say: kosher: light
+[Sun Sep 18 19:18:38 2016]  say: ^0Symbiote Spiderman : how
+[Sun Sep 18 19:18:48 2016]  Item: 2 weapon_melee
+[Sun Sep 18 19:18:55 2016]  say: ^0Shadow^5seer: я не лагал
+[Sun Sep 18 19:18:59 2016]  say: s: черт
+[Sun Sep 18 19:19:09 2016]  say: ^0Symbiote Spiderman : lol
+[Sun Sep 18 19:19:09 2016]  say: s: реконнектнулся - стало еще хуже :D
+[Sun Sep 18 19:19:11 2016]  say: ^0Symbiote Spiderman : fire are big
+[Sun Sep 18 19:19:16 2016]  say: ^0Shadow^5seer: в плане?
+[Sun Sep 18 19:19:22 2016]  Kill: 1 0 3: s killed kosher by MOD_SABER
+[Sun Sep 18 19:19:30 2016]  say: s: текстуры битые
+[Sun Sep 18 19:19:38 2016]  say: ^0Shadow^5seer: ээ?
+[Sun Sep 18 19:19:40 2016]  say: s: кошер, как ты так делаешь?
+[Sun Sep 18 19:19:48 2016]  say: ^0Symbiote Spiderman : what is this language??
+[Sun Sep 18 19:19:55 2016]  say: ^0Shadow^5seer: russian
+[Sun Sep 18 19:20:01 2016]  say: ^0Symbiote Spiderman : o.O
+[Sun Sep 18 19:20:07 2016]  say: ^0Shadow^5seer: dont mind, we talk just to each other
+[Sun Sep 18 19:20:08 2016]  Kill: 1 0 3: s killed kosher by MOD_SABER
+[Sun Sep 18 19:20:23 2016]  Kill: 1 0 3: s killed kosher by MOD_SABER
+[Sun Sep 18 19:20:43 2016]  Kill: 1 0 0: s killed kosher by MOD_UNKNOWN
+[Sun Sep 18 19:20:46 2016]  say: s: ой
+[Sun Sep 18 19:20:57 2016]  Kill: 3 0 3: ^0Symbiote Spiderman  killed kosher by MOD_SABER
+[Sun Sep 18 19:21:09 2016]  say: kosher: уныло
+[Sun Sep 18 19:21:14 2016]  Kill: 1 0 3: s killed kosher by MOD_SABER
+[Sun Sep 18 19:21:22 2016]  Kill: 3 0 3: ^0Symbiote Spiderman  killed kosher by MOD_SABER
+[Sun Sep 18 19:21:28 2016]  Kill: 1 0 3: s killed kosher by MOD_SABER
+[Sun Sep 18 19:21:44 2016]  Kill: 3 0 3: ^0Symbiote Spiderman  killed kosher by MOD_SABER
+[Sun Sep 18 19:21:59 2016]  Kill: 3 0 3: ^0Symbiote Spiderman  killed kosher by MOD_SABER
+[Sun Sep 18 19:22:09 2016]  Kill: 3 0 3: ^0Symbiote Spiderman  killed kosher by MOD_SABER
+[Sun Sep 18 19:22:24 2016]  say: kosher: это вроде вырезали из жка
+[Sun Sep 18 19:22:25 2016]  say: s: :D
+[Sun Sep 18 19:22:27 2016]  Kill: 3 0 3: ^0Symbiote Spiderman  killed kosher by MOD_SABER
+[Sun Sep 18 19:22:35 2016]  Kill: 1 0 3: s killed kosher by MOD_SABER
+[Sun Sep 18 19:22:40 2016]  Kill: 1 3 3: s killed ^0Symbiote Spiderman  by MOD_SABER
+[Sun Sep 18 19:23:10 2016]  say: s: рекон
+[Sun Sep 18 19:23:12 2016]  ClientDisconnect: 1
+[Sun Sep 18 19:24:14 2016]  Kill: 1022 3 3: <world> killed ^0Symbiote Spiderman  by MOD_SABER
+[Sun Sep 18 19:24:16 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Sep 18 19:24:22 2016]  say: ^0Symbiote Spiderman : how to
+[Sun Sep 18 19:24:58 2016]  Kill: 3 3 39: ^0Symbiote Spiderman  killed ^0Symbiote Spiderman  by MOD_SUICIDE
+[Sun Sep 18 19:25:39 2016]  Kill: 3 3 39: ^0Symbiote Spiderman  killed ^0Symbiote Spiderman  by MOD_SUICIDE
+[Sun Sep 18 19:26:27 2016]  say: ^0Symbiote Spiderman : how to do that
+[Sun Sep 18 19:26:29 2016]  say: ^0Symbiote Spiderman : pls tell
+[Sun Sep 18 19:26:31 2016]  Kill: 2 3 36: ^0Shadow^5seer killed ^0Symbiote Spiderman  by MOD_CRUSH
+[Sun Sep 18 19:26:42 2016]  say: ^0Shadow^5seer: you otta play it for years
+[Sun Sep 18 19:26:47 2016]  say: ^0Shadow^5seer: gotta*
+[Sun Sep 18 19:26:56 2016]  say: ^0Symbiote Spiderman : ...
+[Sun Sep 18 19:27:08 2016]  ClientDisconnect: 2
+[Sun Sep 18 19:27:16 2016]  Kill: 1022 3 2: <world> killed ^0Symbiote Spiderman  by MOD_MELEE
+[Sun Sep 18 19:27:38 2016]  say: ^0Symbiote Spiderman : i played this game in 6 years old
+[Sun Sep 18 19:27:38 2016]  ClientConnect: 1
+[Sun Sep 18 19:27:38 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Sun Sep 18 19:27:40 2016]  say: ^0Symbiote Spiderman : and im 12
+[Sun Sep 18 19:28:09 2016]  Kill: 1022 3 6: <world> killed ^0Symbiote Spiderman  by MOD_BLASTER
+[Sun Sep 18 19:28:19 2016]  ClientBegin: 1
+[Sun Sep 18 19:29:23 2016]  say: ^0Symbiote Spiderman : FUCK
+[Sun Sep 18 19:29:26 2016]  Kill: 3 3 39: ^0Symbiote Spiderman  killed ^0Symbiote Spiderman  by MOD_SUICIDE
+[Sun Sep 18 19:29:31 2016]  say: ^0Symbiote Spiderman : WHAT IS THAT
+[Sun Sep 18 19:29:36 2016]  Kill: 3 1 3: ^0Symbiote Spiderman  killed s by MOD_SABER
+[Sun Sep 18 19:29:47 2016]  say: kosher: no
+[Sun Sep 18 19:29:57 2016]  say: kosher: fly
+[Sun Sep 18 19:30:11 2016]  say: ^0Symbiote Spiderman : how
+[Sun Sep 18 19:30:22 2016]  Kill: 1022 3 2: <world> killed ^0Symbiote Spiderman  by MOD_MELEE
+[Sun Sep 18 19:30:22 2016]  say: kosher: use this
+[Sun Sep 18 19:30:25 2016]  ClientDisconnect: 1
+[Sun Sep 18 19:30:25 2016]  ClientConnect: 1
+[Sun Sep 18 19:30:25 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Sun Sep 18 19:30:37 2016]  Kill: 1022 3 6: <world> killed ^0Symbiote Spiderman  by MOD_BLASTER
+[Sun Sep 18 19:30:39 2016]  say: kosher: lol
+[Sun Sep 18 19:30:41 2016]  say: ^0Symbiote Spiderman : xd
+[Sun Sep 18 19:31:00 2016]  ClientBegin: 1
+[Sun Sep 18 19:31:52 2016]  Kill: 1022 0 6: <world> killed kosher by MOD_BLASTER
+[Sun Sep 18 19:32:28 2016]  Kill: 3 1 3: ^0Symbiote Spiderman  killed s by MOD_SABER
+[Sun Sep 18 19:33:30 2016]  Kill: 1022 3 2: <world> killed ^0Symbiote Spiderman  by MOD_MELEE
+[Sun Sep 18 19:33:40 2016]  Kill: 1022 3 2: <world> killed ^0Symbiote Spiderman  by MOD_MELEE
+[Sun Sep 18 19:33:59 2016]  say: ^0Symbiote Spiderman : you idiot 
+[Sun Sep 18 19:34:06 2016]  say: ^0Symbiote Spiderman : you spawned too many rancor
+[Sun Sep 18 19:34:48 2016]  ClientDisconnect: 1
+[Sun Sep 18 19:34:55 2016]  ClientConnect: 1
+[Sun Sep 18 19:34:55 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.182.5:29070 
+[Sun Sep 18 19:34:58 2016]  Kill: 1022 3 2: <world> killed ^0Symbiote Spiderman  by MOD_MELEE
+[Sun Sep 18 19:35:03 2016]  ClientConnect: 2
+[Sun Sep 18 19:35:03 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Sun Sep 18 19:35:26 2016]  Kill: 1022 3 2: <world> killed ^0Symbiote Spiderman  by MOD_MELEE
+[Sun Sep 18 19:35:28 2016]  Kill: 1022 3 39: <world> killed ^0Symbiote Spiderman  by MOD_SUICIDE
+[Sun Sep 18 19:35:31 2016]  ClientBegin: 1
+[Sun Sep 18 19:35:38 2016]  Kill: 2 1 37: s killed ^0Shadow^5seer by MOD_TELEFRAG
+[Sun Sep 18 19:35:38 2016]  ClientBegin: 2
+[Sun Sep 18 19:35:52 2016]  Kill: 1 2 37: ^0Shadow^5seer killed s by MOD_TELEFRAG
+[Sun Sep 18 19:35:54 2016]  Kill: 1022 3 2: <world> killed ^0Symbiote Spiderman  by MOD_MELEE
+[Sun Sep 18 19:35:55 2016]  Kill: 1022 3 39: <world> killed ^0Symbiote Spiderman  by MOD_SUICIDE
+[Sun Sep 18 19:35:59 2016]  Item: 1 weapon_melee
+[Sun Sep 18 19:36:18 2016]  Kill: 1022 3 2: <world> killed ^0Symbiote Spiderman  by MOD_MELEE
+[Sun Sep 18 19:36:21 2016]  say: ^0Symbiote Spiderman : fuck
+[Sun Sep 18 19:36:32 2016]  say: ^0Symbiote Spiderman : but how you do that
+[Sun Sep 18 19:36:37 2016]  say: ^0Symbiote Spiderman : command?
+[Sun Sep 18 19:36:38 2016]  Kill: 1022 3 2: <world> killed ^0Symbiote Spiderman  by MOD_MELEE
+[Sun Sep 18 19:36:43 2016]  say: kosher: \npc spawn vehicle
+[Sun Sep 18 19:36:46 2016]  say: ^0Shadow^5seer: script
+[Sun Sep 18 19:36:53 2016]  say: ^0Shadow^5seer: with lots of commands
+[Sun Sep 18 19:36:55 2016]  Kill: 3 3 39: ^0Symbiote Spiderman  killed ^0Symbiote Spiderman  by MOD_SUICIDE
+[Sun Sep 18 19:37:07 2016]  say: s: какая-то хренотень у меня
+[Sun Sep 18 19:37:10 2016]  say: ^0Symbiote Spiderman : tell me one
+[Sun Sep 18 19:37:10 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Sep 18 19:37:11 2016]  Kill: 1022 3 39: <world> killed ^0Symbiote Spiderman  by MOD_SUICIDE
+[Sun Sep 18 19:37:12 2016]  Kill: 1022 3 39: <world> killed ^0Symbiote Spiderman  by MOD_SUICIDE
+[Sun Sep 18 19:37:19 2016]  Kill: 1022 3 39: <world> killed ^0Symbiote Spiderman  by MOD_SUICIDE
+[Sun Sep 18 19:37:23 2016]  say: s: перезагрузка не помогла
+[Sun Sep 18 19:37:31 2016]  say: ^0Shadow^5seer: херово
+[Sun Sep 18 19:37:34 2016]  say: kosher: какая видеокарта
+[Sun Sep 18 19:37:39 2016]  say: s: амд
+[Sun Sep 18 19:37:40 2016]  say: ^0Symbiote Spiderman : how
+[Sun Sep 18 19:37:41 2016]  say: s: дальше забыл
+[Sun Sep 18 19:37:42 2016]  Kill: 0 0 39: kosher killed kosher by MOD_SUICIDE
+[Sun Sep 18 19:37:50 2016]  say: kosher: встроеная?
+[Sun Sep 18 19:37:54 2016]  say: s: да
+[Sun Sep 18 19:37:55 2016]  say: ^0Shadow^5seer: its hard to explain
+[Sun Sep 18 19:37:59 2016]  say: s: через ноут же
+[Sun Sep 18 19:38:12 2016]  say: kosher: и дальше плохие текстуры?
+[Sun Sep 18 19:38:15 2016]  say: ^0Symbiote Spiderman : dont worry i try to mean it
+[Sun Sep 18 19:38:16 2016]  say: ^0Shadow^5seer: and it shall take a lot of time
+[Sun Sep 18 19:38:24 2016]  say: ^0Shadow^5seer: and i dont have it
+[Sun Sep 18 19:38:24 2016]  Kill: 1022 3 2: <world> killed ^0Symbiote Spiderman  by MOD_MELEE
+[Sun Sep 18 19:38:25 2016]  say: s: да
+[Sun Sep 18 19:38:26 2016]  say: s: тоже думаю, что из-за видюхи все
+[Sun Sep 18 19:38:34 2016]  say: ^0Shadow^5seer: im here to play, not to teach
+[Sun Sep 18 19:38:36 2016]  say: kosher: виндовс 8?
+[Sun Sep 18 19:38:45 2016]  say: s: 8.1
+[Sun Sep 18 19:38:48 2016]  Kill: 1022 3 2: <world> killed ^0Symbiote Spiderman  by MOD_MELEE
+[Sun Sep 18 19:38:48 2016]  say: s: ну, д
+[Sun Sep 18 19:38:48 2016]  say: ^0Symbiote Spiderman : but why
+[Sun Sep 18 19:38:49 2016]  say: s: а
+[Sun Sep 18 19:38:51 2016]  say: kosher: хз
+[Sun Sep 18 19:39:08 2016]  say: kosher: нехватка памяти
+[Sun Sep 18 19:39:10 2016]  say: kosher: может
+[Sun Sep 18 19:39:15 2016]  say: ^0Shadow^5seer: воо, перестал лагать скрипт
+[Sun Sep 18 19:39:18 2016]  say: ^0Shadow^5seer: волны
+[Sun Sep 18 19:39:26 2016]  say: ^0Shadow^5seer: and why r u here?
+[Sun Sep 18 19:39:29 2016]  say: s: с памятью вроде норм все
+[Sun Sep 18 19:39:31 2016]  say: ^0Shadow^5seer: what for?
+[Sun Sep 18 19:39:42 2016]  say: kosher: у встроенной нет много памяти
+[Sun Sep 18 19:39:53 2016]  say: s: есть идея одна
+[Sun Sep 18 19:40:00 2016]  say: s: сейчас пробну
+[Sun Sep 18 19:40:02 2016]  ClientDisconnect: 2
+[Sun Sep 18 19:40:12 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Sep 18 19:40:18 2016]  say: ^0Shadow^5seer: кошер
+[Sun Sep 18 19:40:22 2016]  say: ^0Shadow^5seer: выебу щас
+[Sun Sep 18 19:40:35 2016]  say: kosher: гей?
+[Sun Sep 18 19:40:41 2016]  say: ^0Shadow^5seer: каратель
+[Sun Sep 18 19:40:42 2016]  ClientConnect: 2
+[Sun Sep 18 19:40:42 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Sun Sep 18 19:40:55 2016]  say: kosher: каратели не ебут
+[Sun Sep 18 19:41:03 2016]  say: ^0Shadow^5seer: не умничай
+[Sun Sep 18 19:41:13 2016]  say: ^0Shadow^5seer: а лучше просто не беси
+[Sun Sep 18 19:41:25 2016]  ClientBegin: 2
+[Sun Sep 18 19:41:30 2016]  say: ^0Symbiote Spiderman : why iam here
+[Sun Sep 18 19:41:47 2016]  say: ^0Symbiote Spiderman : wow
+[Sun Sep 18 19:42:03 2016]  say: ^0Shadow^5seer: you entered the cave
+[Sun Sep 18 19:42:13 2016]  say: ^0Shadow^5seer: and ur shooting me in my house
+[Sun Sep 18 19:42:50 2016]  say: ^0Symbiote Spiderman : press tab
+[Sun Sep 18 19:43:32 2016]  Kill: 3 0 5: ^0Symbiote Spiderman  killed kosher by MOD_BRYAR_PISTOL_ALT
+[Sun Sep 18 19:43:36 2016]  say: ^0Symbiote Spiderman : sry
+[Sun Sep 18 19:43:57 2016]  say: kosher: тебя можнл стрелят в твоем доме?
+[Sun Sep 18 19:44:08 2016]  say: ^0Shadow^5seer: не слышал вопроса глупее
+[Sun Sep 18 19:44:19 2016]  say: s: так, исправил
+[Sun Sep 18 19:44:24 2016]  say: ^0Shadow^5seer: отлично
+[Sun Sep 18 19:44:28 2016]  say: kosher: ты мертв
+[Sun Sep 18 19:44:36 2016]  Kill: 1 0 36: ^0Shadow^5seer killed kosher by MOD_CRUSH
+[Sun Sep 18 19:44:37 2016]  say: kosher: ты призрак
+[Sun Sep 18 19:44:39 2016]  Item: 2 weapon_melee
+[Sun Sep 18 19:44:41 2016]  say: ^0Symbiote Spiderman : xD
+[Sun Sep 18 19:44:42 2016]  say: ^0Shadow^5seer: нежить
+[Sun Sep 18 19:44:43 2016]  say: kosher: мстящий боксер
+[Sun Sep 18 19:44:44 2016]  say: ^0Shadow^5seer: лич
+[Sun Sep 18 19:44:55 2016]  say: kosher: я понял
+[Sun Sep 18 19:45:09 2016]  say: kosher: тебе надо переодется мстящим боксером
+[Sun Sep 18 19:45:20 2016]  say: kosher: тогда все к тебе пойдут фоткатся
+[Sun Sep 18 19:45:58 2016]  say: ^0Symbiote Spiderman : wtf
+[Sun Sep 18 19:46:06 2016]  say: kosher: корбль вдоме
+[Sun Sep 18 19:46:16 2016]  say: ^0Symbiote Spiderman : xD
+[Sun Sep 18 19:46:20 2016]  say: ^0Symbiote Spiderman : what is this
+[Sun Sep 18 19:46:27 2016]  say: kosher: cheat
+[Sun Sep 18 19:46:30 2016]  Kill: 1022 0 39: <world> killed kosher by MOD_SUICIDE
+[Sun Sep 18 19:46:34 2016]  say: ^0Symbiote Spiderman : xd
+[Sun Sep 18 19:46:46 2016]  say: kosher: ему двинацать лет
+[Sun Sep 18 19:47:12 2016]  say: ^0Shadow^5seer: кошер бля
+[Sun Sep 18 19:47:45 2016]  say: ^0Shadow^5seer: еще один коабль, и я начну злоупотреблять полномочиями
+[Sun Sep 18 19:47:59 2016]  say: kosher: шадовсир а ты не из меинкрафта 
+[Sun Sep 18 19:48:14 2016]  say: kosher: играл меинкрафт?
+[Sun Sep 18 19:48:22 2016]  say: ^0Shadow^5seer: играл в ранние версии
+[Sun Sep 18 19:48:30 2016]  say: kosher: строил там церковь?
+[Sun Sep 18 19:48:33 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Sun Sep 18 19:48:40 2016]  say: kosher: строил дом сатаны?
+[Sun Sep 18 19:48:41 2016]  say: ^0Shadow^5seer: вот ты мозгоеб
+[Sun Sep 18 19:49:03 2016]  say: ^0Shadow^5seer: иногда жалею что тут нет сайленса как на джаплюсе
+[Sun Sep 18 19:49:17 2016]  say: kosher: да
+[Sun Sep 18 19:49:27 2016]  say: kosher: я помню был плагин на мейкермод
+[Sun Sep 18 19:49:37 2016]  say: ^0Symbiote Spiderman : seer
+[Sun Sep 18 19:49:45 2016]  say: kosher: етО были времена
+[Sun Sep 18 19:49:45 2016]  say: ^0Shadow^5seer: ?
+[Sun Sep 18 19:49:47 2016]  say: ^0Symbiote Spiderman : pls teach me how to build a map like this
+[Sun Sep 18 19:49:47 2016]  say: kosher: ххххххххххххххххххххх
+[Sun Sep 18 19:49:57 2016]  say: ^0Shadow^5seer: /minfo
+[Sun Sep 18 19:50:03 2016]  say: ^0Shadow^5seer: shall teach u all
+[Sun Sep 18 19:50:10 2016]  say: ^0Shadow^5seer: as it teached me
+[Sun Sep 18 19:50:46 2016]  Kill: 3 3 39: ^0Symbiote Spiderman  killed ^0Symbiote Spiderman  by MOD_SUICIDE
+[Sun Sep 18 19:50:55 2016]  ClientDisconnect: 1
+[Sun Sep 18 19:51:20 2016]  say: ^0Symbiote Spiderman : howler/
+[Sun Sep 18 19:52:39 2016]  ClientConnect: 1
+[Sun Sep 18 19:52:39 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.182.5:29070 
+[Sun Sep 18 19:52:52 2016]  ClientBegin: 1
+[Sun Sep 18 19:53:10 2016]  Item: 1 weapon_melee
+[Sun Sep 18 19:53:20 2016]  ClientDisconnect: 2
+[Sun Sep 18 19:53:39 2016]  ClientConnect: 2
+[Sun Sep 18 19:53:39 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Sun Sep 18 19:54:15 2016]  ClientBegin: 2
+[Sun Sep 18 19:54:23 2016]  say: kosher: как делать лифты
+[Sun Sep 18 19:54:30 2016]  say: ^0Shadow^5seer: /mplatform
+[Sun Sep 18 19:54:40 2016]  say: ^0Shadow^5seer: да чего его так плющит?
+[Sun Sep 18 19:54:49 2016]  say: ^0Shadow^5seer: с
+[Sun Sep 18 19:54:50 2016]  say: kosher: хз
+[Sun Sep 18 19:54:56 2016]  say: kosher: много текстур
+[Sun Sep 18 19:54:58 2016]  say: ^0Shadow^5seer: ты чего в лагах умираешь?
+[Sun Sep 18 19:55:07 2016]  say: kosher: я нет
+[Sun Sep 18 19:55:16 2016]  say: kosher: но у меня не встроеная
+[Sun Sep 18 19:55:32 2016]  say: kosher: чето лифт не работае
+[Sun Sep 18 19:55:44 2016]  say: ^0Shadow^5seer: число задал?
+[Sun Sep 18 19:55:46 2016]  say: ^0Symbiote Spiderman : how
+[Sun Sep 18 19:55:46 2016]  say: ^0Shadow^5seer: высоту
+[Sun Sep 18 19:55:47 2016]  say: kosher: да
+[Sun Sep 18 19:55:54 2016]  say: ^0Symbiote Spiderman : i watched the list
+[Sun Sep 18 19:55:57 2016]  say: ^0Symbiote Spiderman : i cant find
+[Sun Sep 18 19:55:59 2016]  say: kosher: он сам ездит?
+[Sun Sep 18 19:56:04 2016]  say: ^0Shadow^5seer: ну хз, попробуй добавть mtouchable
+[Sun Sep 18 19:56:19 2016]  say: kosher: а как чтобы сам ездил
+[Sun Sep 18 19:56:26 2016]  say: ^0Shadow^5seer: mbobbing
+[Sun Sep 18 19:56:27 2016]  ClientDisconnect: 3
+[Sun Sep 18 19:56:35 2016]  say: ^0Shadow^5seer: но там параметров не помню
+[Sun Sep 18 19:56:47 2016]  say: kosher: так он вроде по углу
+[Sun Sep 18 19:56:48 2016]  say: ^0Shadow^5seer: никогда сам не использовал
+[Sun Sep 18 19:57:03 2016]  say: kosher: хотя нет
+[Sun Sep 18 19:57:29 2016]  say: kosher: во
+[Sun Sep 18 19:57:45 2016]  ClientDisconnect: 2
+[Sun Sep 18 19:57:45 2016]  ClientConnect: 2
+[Sun Sep 18 19:57:45 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Sun Sep 18 19:58:05 2016]  ClientBegin: 2
+[Sun Sep 18 19:58:33 2016]  say: kosher: смотри
+[Sun Sep 18 19:58:37 2016]  say: kosher: у дерева
+[Sun Sep 18 19:58:44 2016]  say: kosher: тут указатель меняется
+[Sun Sep 18 19:58:49 2016]  say: kosher: вернее прицел
+[Sun Sep 18 19:58:55 2016]  say: kosher: че ето
+[Sun Sep 18 19:58:59 2016]  say: kosher: баг ?
+[Sun Sep 18 19:59:08 2016]  say: ^0Shadow^5seer: у меня ничего не меняется
+[Sun Sep 18 19:59:16 2016]  say: kosher: если навести
+[Sun Sep 18 19:59:22 2016]  say: ^0Shadow^5seer: ну
+[Sun Sep 18 19:59:22 2016]  say: kosher: а нет
+[Sun Sep 18 19:59:29 2016]  say: kosher: если мечь
+[Sun Sep 18 19:59:30 2016]  say: kosher: у тебя
+[Sun Sep 18 19:59:33 2016]  say: ^0Shadow^5seer: с, живой?
+[Sun Sep 18 19:59:36 2016]  say: kosher: вынь мечь
+[Sun Sep 18 19:59:39 2016]  say: s: не очень
+[Sun Sep 18 19:59:48 2016]  say: ^0Shadow^5seer: а, тип толкнуть можно в оригинале
+[Sun Sep 18 19:59:51 2016]  say: ^0Shadow^5seer: или срубить
+[Sun Sep 18 19:59:58 2016]  say: kosher: толкнуть тока
+[Sun Sep 18 20:00:00 2016]  say: kosher: но ето баг
+[Sun Sep 18 20:00:01 2016]  say: ^0Shadow^5seer: ну в сингле
+[Sun Sep 18 20:00:05 2016]  say: kosher: я собирался сделать лифт
+[Sun Sep 18 20:00:29 2016]  say: ^0Shadow^5seer: а нахер такой адский свет?
+[Sun Sep 18 20:00:36 2016]  say: kosher: так красиво
+[Sun Sep 18 20:00:39 2016]  say: ^0Shadow^5seer: нет
+[Sun Sep 18 20:00:44 2016]  say: kosher: почему
+[Sun Sep 18 20:00:49 2016]  say: ^0Shadow^5seer: слишком ярко
+[Sun Sep 18 20:01:14 2016]  say: ^0Shadow^5seer: и вообще, что за светящееся бревно?
+[Sun Sep 18 20:01:31 2016]  say: kosher: у меня бревно забиндено вот и сделал
+[Sun Sep 18 20:02:13 2016]  say: kosher: во
+[Sun Sep 18 20:02:16 2016]  say: kosher: дискач
+[Sun Sep 18 20:02:18 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Sun Sep 18 20:02:23 2016]  say: kosher: супер
+[Sun Sep 18 20:02:43 2016]  say: kosher: щас надо доделать
+[Sun Sep 18 20:02:48 2016]  ClientDisconnect: 2
+[Sun Sep 18 20:02:48 2016]  ClientConnect: 2
+[Sun Sep 18 20:02:48 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Sun Sep 18 20:03:23 2016]  ClientBegin: 2
+[Sun Sep 18 20:04:14 2016]  say: kosher: супер)
+[Sun Sep 18 20:04:20 2016]  say: s: какой-то вредоносный ремап этот)
+[Sun Sep 18 20:04:27 2016]  say: ^0Shadow^5seer: да ну
+[Sun Sep 18 20:04:55 2016]  say: ^0Shadow^5seer: ну вот, вроде прошло
+[Sun Sep 18 20:05:12 2016]  say: kosher: )
+[Sun Sep 18 20:05:17 2016]  Kill: 1022 0 36: <world> killed kosher by MOD_CRUSH
+[Sun Sep 18 20:05:22 2016]  Kill: 1022 0 36: <world> killed kosher by MOD_CRUSH
+[Sun Sep 18 20:05:33 2016]  Kill: 0 0 39: kosher killed kosher by MOD_SUICIDE
+[Sun Sep 18 20:05:33 2016]  setteam:  0 FREE SPECTATOR
+[Sun Sep 18 20:05:33 2016]  ClientBegin: 0
+[Sun Sep 18 20:05:40 2016]  setteam:  0 SPECTATOR FREE
+[Sun Sep 18 20:05:40 2016]  ClientBegin: 0
+[Sun Sep 18 20:06:05 2016]  Kill: 0 0 39: kosher killed kosher by MOD_SUICIDE
+[Sun Sep 18 20:06:05 2016]  setteam:  0 FREE SPECTATOR
+[Sun Sep 18 20:06:05 2016]  ClientBegin: 0
+[Sun Sep 18 20:06:14 2016]  setteam:  0 SPECTATOR FREE
+[Sun Sep 18 20:06:14 2016]  ClientBegin: 0
+[Sun Sep 18 20:07:07 2016]  say: s: красиво
+[Sun Sep 18 20:07:29 2016]  say: kosher: ладно я пошел
+[Sun Sep 18 20:07:34 2016]  Kill: 0 0 39: kosher killed kosher by MOD_SUICIDE
+[Sun Sep 18 20:07:35 2016]  say: s: пока
+[Sun Sep 18 20:07:38 2016]  say: kosher: пока
+[Sun Sep 18 20:07:43 2016]  say: kosher: лагает
+[Sun Sep 18 20:07:44 2016]  say: ^0Shadow^5seer: пока
+[Sun Sep 18 20:07:51 2016]  ClientDisconnect: 0
+[Sun Sep 18 20:08:04 2016]  say: s: видюха дает сбой
+[Sun Sep 18 20:08:23 2016]  say: s: это не единственная игра, в которой я сталкиваюсь с подобным
+[Sun Sep 18 20:09:09 2016]  say: s: выглядит круто)
+[Sun Sep 18 20:09:31 2016]  say: s: в движении напоминает сосуды головного мозга)
+[Sun Sep 18 20:10:50 2016]  say: ^0Shadow^5seer: красный исчез
+[Sun Sep 18 20:12:30 2016]  say: ^0Shadow^5seer: афк
+[Sun Sep 18 20:20:13 2016]  say: ^0Shadow^5seer: тут
+[Sun Sep 18 20:20:25 2016]  say: ^0Shadow^5seer: дай ка я перезапущу серв через смену карты)
+[Sun Sep 18 20:20:35 2016]  say: s: ожидаю)
+[Sun Sep 18 20:20:43 2016]  ShutdownGame:
+[Sun Sep 18 20:20:43 2016]  ------------------------------------------------------------
+[Sun Sep 18 20:20:44 2016]  ------------------------------------------------------------
+[Sun Sep 18 20:20:44 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 18 20:20:46 2016]  ClientConnect: 1
+[Sun Sep 18 20:20:46 2016]  ClientConnect: 2
+[Sun Sep 18 20:20:57 2016]  ClientBegin: 1
+[Sun Sep 18 20:21:04 2016]  Item: 1 weapon_melee
+[Sun Sep 18 20:22:57 2016]  ClientDisconnect: 2
+[Sun Sep 18 20:22:57 2016]  ClientConnect: 2
+[Sun Sep 18 20:22:57 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Sun Sep 18 20:23:28 2016]  ClientBegin: 2
+[Sun Sep 18 20:23:38 2016]  say: s: ура
+[Sun Sep 18 20:23:39 2016]  say: ^0Shadow^5seer: а теперь ремап
+[Sun Sep 18 20:23:42 2016]  say: s: :с
+[Sun Sep 18 20:23:49 2016]  say: s: кстати, смотри
+[Sun Sep 18 20:23:56 2016]  say: ^0Shadow^5seer: норм)
+[Sun Sep 18 20:24:02 2016]  say: s: звук надо еще
+[Sun Sep 18 20:24:08 2016]  say: ^0Shadow^5seer: может быть
+[Sun Sep 18 20:24:53 2016]  say: ^0Shadow^5seer: ну вот и все
+[Sun Sep 18 20:25:06 2016]  say: s: голова статуи теперь с битой текстурой)
+[Sun Sep 18 20:25:14 2016]  say: s: о господи
+[Sun Sep 18 20:25:28 2016]  say: s: та стена скайбокса тоже битая
+[Sun Sep 18 20:25:42 2016]  say: s: что-то надо с видюхой делать
+[Sun Sep 18 20:27:48 2016]  say: ^0Shadow^5seer: а давно ты на ноут пересел?
+[Sun Sep 18 20:28:00 2016]  say: s: год назад где-то
+[Sun Sep 18 20:28:05 2016]  say: ^0Shadow^5seer: на этот же
+[Sun Sep 18 20:28:14 2016]  say: s: со стационарным проблемка есть
+[Sun Sep 18 20:28:21 2016]  say: ^0Shadow^5seer: и сейчас внезапно вот началось
+[Sun Sep 18 20:28:24 2016]  say: ^0Shadow^5seer: так?
+[Sun Sep 18 20:28:35 2016]  say: s: неудобно говорить об этом
+[Sun Sep 18 20:28:57 2016]  say: s: мне в свое время не повезло стать младшим ребенком в семье
+[Sun Sep 18 20:29:04 2016]  say: s: думаю, дальше объяснять не стоит)
+[Sun Sep 18 20:29:28 2016]  say: ^0Shadow^5seer: ну просто вести себя инра так стала только с моим ремапом?
+[Sun Sep 18 20:29:34 2016]  say: ^0Shadow^5seer: игра*
+[Sun Sep 18 20:29:50 2016]  say: s: видимо да..
+[Sun Sep 18 20:29:57 2016]  say: ^0Shadow^5seer: очень странно
+[Sun Sep 18 20:30:00 2016]  say: ^0Shadow^5seer: снов афк
+[Sun Sep 18 20:32:08 2016]  ClientDisconnect: 2
+[Sun Sep 18 20:32:08 2016]  ClientConnect: 2
+[Sun Sep 18 20:32:08 2016]  mlog:Player s, connected. With IP - 31.28.116.167:29070 
+[Sun Sep 18 20:32:36 2016]  ClientBegin: 2
+[Sun Sep 18 20:38:31 2016]  say: s: вот это мне больше нравится)
+[Sun Sep 18 20:38:45 2016]  say: ^0Shadow^5seer: так можно и волну тоже добавить
+[Sun Sep 18 20:38:53 2016]  say: s: мм... кстати да
+[Sun Sep 18 20:40:08 2016]  say: s: почему-то вспомнились подземелья из скайрима
+[Sun Sep 18 20:40:17 2016]  say: s: черный предел... или как его там
+[Sun Sep 18 20:40:26 2016]  say: ^0Shadow^5seer: аага, есть там такое
+[Sun Sep 18 20:40:36 2016]  say: s: вспомнилось, как там красиво
+[Sun Sep 18 20:40:39 2016]  say: ^0Shadow^5seer: так, надо порталы переделать
+[Sun Sep 18 20:41:07 2016]  say: ^0Shadow^5seer: много эффектов, затмевают молнии
+[Sun Sep 18 20:41:17 2016]  say: s: не могу вспомнить, где я видел такой портал
+[Sun Sep 18 20:41:24 2016]  say: ^0Shadow^5seer: у меня же
+[Sun Sep 18 20:41:31 2016]  say: s: да-да, я понимаю
+[Sun Sep 18 20:41:48 2016]  say: s: думаю, где-то в другой игре такое видел
+[Sun Sep 18 20:41:53 2016]  say: s: ну, подобный эффект
+[Sun Sep 18 20:41:58 2016]  say: s: а может и не видел
+[Sun Sep 18 20:47:31 2016]  say: ^0Shadow^5seer: я пойду сначала на своем серве переделаю
+[Sun Sep 18 20:47:38 2016]  say: ^0Shadow^5seer: проверю вернее
+[Sun Sep 18 20:47:41 2016]  say: ^0Shadow^5seer: как оно будет
+[Sun Sep 18 20:47:44 2016]  say: s: хорошо
+[Sun Sep 18 20:47:48 2016]  ClientDisconnect: 1
+[Sun Sep 18 21:31:44 2016]  ClientDisconnect: 2
+[Sun Sep 18 22:18:36 2016]  ClientConnect: 0
+[Sun Sep 18 22:18:36 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.182.5:29070 
+[Sun Sep 18 22:18:57 2016]  ClientBegin: 0
+[Sun Sep 18 22:19:06 2016]  Item: 0 weapon_melee
+[Sun Sep 18 22:19:25 2016]  ShutdownGame:
+[Sun Sep 18 22:19:25 2016]  ------------------------------------------------------------
+[Sun Sep 18 22:19:25 2016]  ------------------------------------------------------------
+[Sun Sep 18 22:19:25 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 18 22:19:27 2016]  ClientConnect: 0
+[Sun Sep 18 22:19:30 2016]  ClientBegin: 0
+[Sun Sep 18 22:19:37 2016]  Item: 0 weapon_melee
+[Sun Sep 18 22:26:12 2016]  ShutdownGame:
+[Sun Sep 18 22:26:12 2016]  ------------------------------------------------------------
+[Sun Sep 18 22:26:13 2016]  ------------------------------------------------------------
+[Sun Sep 18 22:26:13 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Sep 18 22:26:15 2016]  ClientConnect: 0
+[Sun Sep 18 22:26:26 2016]  ClientBegin: 0
+[Sun Sep 18 22:26:32 2016]  Item: 0 weapon_melee
+[Sun Sep 18 22:34:06 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Sun Sep 18 22:40:30 2016]  ClientDisconnect: 0
+[Mon Sep 19 11:58:37 2016]  ClientConnect: 0
+[Mon Sep 19 11:58:37 2016]  mlog:Player Padawan, connected. With IP - 87.251.101.159:29070 
+[Mon Sep 19 11:58:56 2016]  ClientBegin: 0
+[Mon Sep 19 12:01:31 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:01:33 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:01:35 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:01:39 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:01:41 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:01:43 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:01:45 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:01:58 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:02:01 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:02:02 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:02:03 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:02:04 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:03:10 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:03:12 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:03:14 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:03:17 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:03:20 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:03:27 2016]  say: ^1Jeka^2[ms]: ^1Пьёльн !
+[Mon Sep 19 12:03:45 2016]  ClientDisconnect: 0
+[Mon Sep 19 12:07:47 2016]  ClientConnect: 0
+[Mon Sep 19 12:07:47 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Mon Sep 19 12:08:28 2016]  ClientBegin: 0
+[Mon Sep 19 12:08:34 2016]  Item: 0 weapon_melee
+[Mon Sep 19 12:09:37 2016]  ClientDisconnect: 0
+[Mon Sep 19 14:33:19 2016]  ClientConnect: 0
+[Mon Sep 19 14:33:19 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.149.232:29070 
+[Mon Sep 19 14:33:48 2016]  ClientBegin: 0
+[Mon Sep 19 14:33:55 2016]  Item: 0 weapon_melee
+[Mon Sep 19 14:34:00 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 19 14:34:04 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 19 14:34:07 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 19 14:34:11 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 19 14:34:16 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 19 14:34:19 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 19 14:34:23 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 19 14:34:27 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 19 14:34:33 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 19 14:34:37 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 19 14:36:05 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 19 14:36:09 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 19 14:36:14 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Mon Sep 19 14:36:44 2016]  ClientDisconnect: 0
+[Mon Sep 19 19:27:12 2016]  ClientConnect: 0
+[Mon Sep 19 19:27:12 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.149.232:29070 
+[Mon Sep 19 19:27:34 2016]  ClientBegin: 0
+[Mon Sep 19 19:27:41 2016]  Item: 0 weapon_melee
+[Mon Sep 19 19:29:45 2016]  ShutdownGame:
+[Mon Sep 19 19:29:45 2016]  ------------------------------------------------------------

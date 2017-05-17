@@ -1,0 +1,207 @@
+[Sat Nov 30 06:00:36 2013]  ------------------------------------------------------------
+[Sat Nov 30 06:00:36 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 30 06:00:37 2013]  ClientConnect: 0
+[Sat Nov 30 06:00:48 2013]  ClientBegin: 0
+[Sat Nov 30 06:03:17 2013]  ClientConnect: 1
+[Sat Nov 30 06:03:17 2013]  mlog:Player Padawan, connected. With IP - 74.211.5.236:10638 
+[Sat Nov 30 06:03:37 2013]  ClientDisconnect: 1
+[Sat Nov 30 06:03:53 2013]  ClientConnect: 1
+[Sat Nov 30 06:03:53 2013]  mlog:Player ^1fuzzy^0wuzzy, connected. With IP - 74.211.5.236:10638 
+[Sat Nov 30 06:04:00 2013]  ClientBegin: 1
+[Sat Nov 30 06:05:04 2013]  print "^1fuzzy^0wuzzy^7 @@@PLRENAME bojack
+"[Sat Nov 30 06:09:54 2013]  Kill: 1022 1 38: <world> killed bojack by MOD_FALLING
+[Sat Nov 30 06:15:24 2013]  Kill: 1022 1 39: <world> killed bojack by MOD_SUICIDE
+[Sat Nov 30 06:16:06 2013]  Kill: 1022 0 38: <world> killed ^3S^0lammen^3S^0tan by MOD_FALLING
+[Sat Nov 30 06:17:31 2013]  say: ^3S^0lammen^3S^0tan: My origin is: (-2910 -762 167) - You can teleport here with /mtelelast
+
+[Sat Nov 30 06:17:48 2013]  say: ^3S^0lammen^3S^0tan: My origin is: (-2852 -804 -7) - You can teleport here with /mtelelast
+
+[Sat Nov 30 06:18:52 2013]  Kill: 1022 1 2: <world> killed bojack by MOD_MELEE
+[Sat Nov 30 06:19:36 2013]  Kill: 1022 0 38: <world> killed ^3S^0lammen^3S^0tan by MOD_FALLING
+[Sat Nov 30 06:20:49 2013]  say: ^3S^0lammen^3S^0tan: My origin is: (-2014 -1093 -471) - You can teleport here with /mtelelast
+
+[Sat Nov 30 06:20:52 2013]  say: ^3S^0lammen^3S^0tan: My origin is: (-1971 -716 -271) - You can teleport here with /mtelelast
+
+[Sat Nov 30 06:22:36 2013]  Kill: 1022 0 38: <world> killed ^3S^0lammen^3S^0tan by MOD_FALLING
+[Sat Nov 30 06:23:51 2013]  Kill: 0 0 39: ^3S^0lammen^3S^0tan killed ^3S^0lammen^3S^0tan by MOD_SUICIDE
+[Sat Nov 30 06:23:55 2013]  Kill: 1022 1 2: <world> killed bojack by MOD_MELEE
+[Sat Nov 30 06:24:05 2013]  Kill: 1022 0 2: <world> killed ^3S^0lammen^3S^0tan by MOD_MELEE
+[Sat Nov 30 06:25:42 2013]  Kill: 1022 1 2: <world> killed bojack by MOD_MELEE
+[Sat Nov 30 06:25:48 2013]  Item: 0 weapon_repeater
+[Sat Nov 30 06:26:05 2013]  say: bojack: wd
+[Sat Nov 30 06:26:41 2013]  Item: 1 weapon_repeater
+[Sat Nov 30 06:30:03 2013]  Kill: 0 1 6: ^3S^0lammen^3S^0tan killed bojack by MOD_BLASTER
+[Sat Nov 30 06:31:35 2013]  Kill: 0 1 25: ^3S^0lammen^3S^0tan killed bojack by MOD_TRIP_MINE_SPLASH
+[Sat Nov 30 06:31:53 2013]  Kill: 1022 1 2: <world> killed bojack by MOD_MELEE
+[Sat Nov 30 06:32:40 2013]  Kill: 0 0 25: ^3S^0lammen^3S^0tan killed ^3S^0lammen^3S^0tan by MOD_TRIP_MINE_SPLASH
+[Sat Nov 30 06:33:23 2013]  Kill: 1022 0 2: <world> killed ^3S^0lammen^3S^0tan by MOD_MELEE
+[Sat Nov 30 06:35:02 2013]  Kill: 0 1 32: ^3S^0lammen^3S^0tan killed bojack by MOD_SENTRY
+[Sat Nov 30 06:35:25 2013]  Kill: 1022 1 7: <world> killed bojack by MOD_TURBLAST
+[Sat Nov 30 06:35:28 2013]  Item: 0 weapon_bryar_pistol
+[Sat Nov 30 06:35:29 2013]  Kill: 1022 0 7: <world> killed ^3S^0lammen^3S^0tan by MOD_TURBLAST
+[Sat Nov 30 06:36:22 2013]  Kill: 1022 0 7: <world> killed ^3S^0lammen^3S^0tan by MOD_TURBLAST
+[Sat Nov 30 06:36:24 2013]  Kill: 1 1 27: bojack killed bojack by MOD_DET_PACK_SPLASH
+[Sat Nov 30 06:36:26 2013]  Kill: 1022 0 7: <world> killed ^3S^0lammen^3S^0tan by MOD_TURBLAST
+[Sat Nov 30 06:36:30 2013]  Kill: 1022 0 7: <world> killed ^3S^0lammen^3S^0tan by MOD_TURBLAST
+[Sat Nov 30 06:36:43 2013]  Kill: 1022 0 7: <world> killed ^3S^0lammen^3S^0tan by MOD_TURBLAST
+[Sat Nov 30 06:36:58 2013]  Kill: 1022 1 7: <world> killed bojack by MOD_TURBLAST
+[Sat Nov 30 06:38:36 2013]  Kill: 1022 0 3: <world> killed ^3S^0lammen^3S^0tan by MOD_SABER
+[Sat Nov 30 06:40:07 2013]  Kill: 1022 1 38: <world> killed bojack by MOD_FALLING
+[Sat Nov 30 06:44:55 2013]  ClientDisconnect: 0
+[Sat Nov 30 06:44:55 2013]  ClientDisconnect: 0
+[Sat Nov 30 06:44:55 2013]  ClientConnect: 0
+[Sat Nov 30 06:44:55 2013]  mlog:Player ^3S^0lammen^3S^0tan, connected. With IP - 74.211.5.236:29070 
+[Sat Nov 30 06:45:05 2013]  ClientBegin: 0
+[Sat Nov 30 06:45:12 2013]  ClientDisconnect: 1
+[Sat Nov 30 06:45:12 2013]  ClientDisconnect: 1
+[Sat Nov 30 06:45:12 2013]  ClientConnect: 1
+[Sat Nov 30 06:45:12 2013]  mlog:Player bojack, connected. With IP - 74.211.5.236:10638 
+[Sat Nov 30 06:45:21 2013]  ClientBegin: 1
+[Sat Nov 30 06:46:10 2013]  ClientDisconnect: 0
+[Sat Nov 30 06:47:14 2013]  ClientConnect: 0
+[Sat Nov 30 06:47:14 2013]  mlog:Player ^3S^0lammen^3S^0tan, connected. With IP - 74.211.5.236:29070 
+[Sat Nov 30 06:47:24 2013]  ClientBegin: 0
+[Sat Nov 30 06:47:54 2013]  say: ^3S^0lammen^3S^0tan: My origin is: (2290 -2290 -487) - You can teleport here with /mtelelast
+
+[Sat Nov 30 06:47:57 2013]  say: ^3S^0lammen^3S^0tan: My origin is: (2365 -2407 -487) - You can teleport here with /mtelelast
+
+[Sat Nov 30 06:49:17 2013]  Kill: 1 0 23: bojack killed ^3S^0lammen^3S^0tan by MOD_THERMAL
+[Sat Nov 30 06:49:45 2013]  Kill: 1022 1 36: <world> killed bojack by MOD_CRUSH
+[Sat Nov 30 06:49:49 2013]  Item: 0 weapon_demp2
+[Sat Nov 30 06:50:17 2013]  say: ^3S^0lammen^3S^0tan: ^0**^7Cya Loser^0**
+[Sat Nov 30 06:50:30 2013]  say: ^3S^0lammen^3S^0tan: ^0**^7Cya Loser^0**
+[Sat Nov 30 06:50:50 2013]  Kill: 1 1 27: bojack killed bojack by MOD_DET_PACK_SPLASH
+[Sat Nov 30 06:51:13 2013]  Item: 0 weapon_trip_mine
+[Sat Nov 30 06:52:31 2013]  say: ^3S^0lammen^3S^0tan: ^0**^7Cya Loser^0**
+[Sat Nov 30 06:52:31 2013]  Kill: 1 0 24: bojack killed ^3S^0lammen^3S^0tan by MOD_THERMAL_SPLASH
+[Sat Nov 30 06:53:16 2013]  Kill: 1 0 19: bojack killed ^3S^0lammen^3S^0tan by MOD_ROCKET
+[Sat Nov 30 06:53:42 2013]  Kill: 1 0 20: bojack killed ^3S^0lammen^3S^0tan by MOD_ROCKET_SPLASH
+[Sat Nov 30 06:54:36 2013]  Kill: 0 0 39: ^3S^0lammen^3S^0tan killed ^3S^0lammen^3S^0tan by MOD_SUICIDE
+[Sat Nov 30 06:54:45 2013]  Kill: 1 1 39: bojack killed bojack by MOD_SUICIDE
+[Sat Nov 30 07:00:57 2013]  Kill: 1 1 39: bojack killed bojack by MOD_SUICIDE
+[Sat Nov 30 07:02:11 2013]  say: ^3S^0lammen^3S^0tan: My origin is: (-9476 0 -487) - You can teleport here with /mtelelast
+
+[Sat Nov 30 07:03:00 2013]  Kill: 1022 1 0: <world> killed bojack by MOD_UNKNOWN
+[Sat Nov 30 07:03:21 2013]  Kill: 1022 0 40: <world> killed ^3S^0lammen^3S^0tan by MOD_TARGET_LASER
+[Sat Nov 30 07:03:40 2013]  Kill: 1022 1 40: <world> killed bojack by MOD_TARGET_LASER
+[Sat Nov 30 07:03:50 2013]  Kill: 1022 1 0: <world> killed bojack by MOD_UNKNOWN
+[Sat Nov 30 07:03:52 2013]  Item: 0 weapon_bryar_pistol
+[Sat Nov 30 07:05:41 2013]  Kill: 1022 0 40: <world> killed ^3S^0lammen^3S^0tan by MOD_TARGET_LASER
+[Sat Nov 30 07:08:01 2013]  Kill: 1022 1 0: <world> killed bojack by MOD_UNKNOWN
+[Sat Nov 30 07:08:30 2013]  say: ^3S^0lammen^3S^0tan: ^5BEGONE BEASTS!
+[Sat Nov 30 07:08:53 2013]  say: ^3S^0lammen^3S^0tan: ^7**^1OVER POWERING!^7**
+[Sat Nov 30 07:11:02 2013]  Kill: 1 0 19: bojack killed ^3S^0lammen^3S^0tan by MOD_ROCKET
+[Sat Nov 30 07:11:08 2013]  say: ^3S^0lammen^3S^0tan: ^7**^1OVER POWERING!^7**
+[Sat Nov 30 07:14:10 2013]  Kill: 1 0 20: bojack killed ^3S^0lammen^3S^0tan by MOD_ROCKET_SPLASH
+[Sat Nov 30 07:14:14 2013]  say: ^3S^0lammen^3S^0tan: ^7**^1OVER POWERING!^7**
+[Sat Nov 30 07:17:27 2013]  Kill: 0 1 31: ^3S^0lammen^3S^0tan killed bojack by MOD_FORCE_DARK
+[Sat Nov 30 07:18:06 2013]  say: ^3S^0lammen^3S^0tan: My origin is: (-10937 -642 -487) - You can teleport here with /mtelelast
+
+[Sat Nov 30 07:18:07 2013]  Kill: 1 0 37: bojack killed ^3S^0lammen^3S^0tan by MOD_TELEFRAG
+[Sat Nov 30 07:19:54 2013]  say: ^3S^0lammen^3S^0tan: ^7**^1OVER POWERING!^7**
+[Sat Nov 30 07:20:52 2013]  Kill: 1 0 27: bojack killed ^3S^0lammen^3S^0tan by MOD_DET_PACK_SPLASH
+[Sat Nov 30 07:20:52 2013]  Kill: 1 1 25: bojack killed bojack by MOD_TRIP_MINE_SPLASH
+[Sat Nov 30 07:21:02 2013]  say: ^3S^0lammen^3S^0tan: ^7**^1OVER POWERING!^7**
+[Sat Nov 30 07:21:12 2013]  Kill: 1022 1 36: <world> killed bojack by MOD_CRUSH
+[Sat Nov 30 07:21:17 2013]  Item: 0 weapon_trip_mine
+[Sat Nov 30 07:21:57 2013]  Kill: 1 1 25: bojack killed bojack by MOD_TRIP_MINE_SPLASH
+[Sat Nov 30 07:23:49 2013]  say: ^3S^0lammen^3S^0tan: ^7**^1OVER POWERING!^7**
+[Sat Nov 30 07:23:50 2013]  Kill: 1 0 25: bojack killed ^3S^0lammen^3S^0tan by MOD_TRIP_MINE_SPLASH
+[Sat Nov 30 07:23:52 2013]  say: ^3S^0lammen^3S^0tan: ^7**^1OVER POWERING!^7**
+[Sat Nov 30 07:23:52 2013]  Kill: 1 1 25: bojack killed bojack by MOD_TRIP_MINE_SPLASH
+[Sat Nov 30 07:24:31 2013]  Kill: 1022 0 3: <world> killed ^3S^0lammen^3S^0tan by MOD_SABER
+[Sat Nov 30 07:24:44 2013]  say: ^3S^0lammen^3S^0tan: ^7**^1OVER POWERING!^7**
+[Sat Nov 30 07:25:23 2013]  Kill: 1 1 20: bojack killed bojack by MOD_ROCKET_SPLASH
+[Sat Nov 30 07:28:31 2013]  Kill: 1 1 39: bojack killed bojack by MOD_SUICIDE
+[Sat Nov 30 07:28:39 2013]  Kill: 0 0 27: ^3S^0lammen^3S^0tan killed ^3S^0lammen^3S^0tan by MOD_DET_PACK_SPLASH
+[Sat Nov 30 07:29:16 2013]  Kill: 1022 1 2: <world> killed bojack by MOD_MELEE
+[Sat Nov 30 07:29:49 2013]  say: ^3S^0lammen^3S^0tan: ^7**^1OVER POWERING!^7**
+[Sat Nov 30 07:31:48 2013]  Kill: 0 1 2: ^3S^0lammen^3S^0tan killed bojack by MOD_MELEE
+[Sat Nov 30 07:32:55 2013]  Kill: 1 0 25: bojack killed ^3S^0lammen^3S^0tan by MOD_TRIP_MINE_SPLASH
+[Sat Nov 30 07:32:55 2013]  Kill: 1 1 25: bojack killed bojack by MOD_TRIP_MINE_SPLASH
+[Sat Nov 30 07:33:21 2013]  say: ^3S^0lammen^3S^0tan: ^7**^1OVER POWERING!^7**
+[Sat Nov 30 07:33:37 2013]  Item: 0 ammo_all
+[Sat Nov 30 07:35:18 2013]  Kill: 0 1 25: ^3S^0lammen^3S^0tan killed bojack by MOD_TRIP_MINE_SPLASH
+[Sat Nov 30 07:36:03 2013]  Kill: 0 1 27: ^3S^0lammen^3S^0tan killed bojack by MOD_DET_PACK_SPLASH
+[Sat Nov 30 07:36:22 2013]  Kill: 0 1 25: ^3S^0lammen^3S^0tan killed bojack by MOD_TRIP_MINE_SPLASH
+[Sat Nov 30 07:38:11 2013]  Kill: 1 0 25: bojack killed ^3S^0lammen^3S^0tan by MOD_TRIP_MINE_SPLASH
+[Sat Nov 30 07:38:48 2013]  Kill: 0 1 2: ^3S^0lammen^3S^0tan killed bojack by MOD_MELEE
+[Sat Nov 30 07:39:20 2013]  say: ^3S^0lammen^3S^0tan: ^7**^1OVER POWERING!^7**
+[Sat Nov 30 07:42:11 2013]  Kill: 0 1 31: ^3S^0lammen^3S^0tan killed bojack by MOD_FORCE_DARK
+[Sat Nov 30 07:42:25 2013]  say: ^3S^0lammen^3S^0tan: My origin is: (-7857 -1645 -359) - You can teleport here with /mtelelast
+
+[Sat Nov 30 07:44:47 2013]  Kill: 1 0 19: bojack killed ^3S^0lammen^3S^0tan by MOD_ROCKET
+[Sat Nov 30 07:45:07 2013]  Kill: 1 0 29: bojack killed ^3S^0lammen^3S^0tan by MOD_CONC
+[Sat Nov 30 07:45:46 2013]  say: ^3S^0lammen^3S^0tan: ^7**^1OVER POWERING!^7**
+[Sat Nov 30 07:46:30 2013]  Kill: 1 0 29: bojack killed ^3S^0lammen^3S^0tan by MOD_CONC
+[Sat Nov 30 07:46:33 2013]  say: ^3S^0lammen^3S^0tan: ^7**^1OVER POWERING!^7**
+[Sat Nov 30 07:46:49 2013]  Kill: 1022 1 36: <world> killed bojack by MOD_CRUSH
+[Sat Nov 30 07:46:53 2013]  Item: 0 weapon_concussion_rifle
+[Sat Nov 30 07:49:05 2013]  Kill: 0 1 2: ^3S^0lammen^3S^0tan killed bojack by MOD_MELEE
+[Sat Nov 30 07:49:05 2013]  Item: 0 weapon_blaster
+[Sat Nov 30 07:51:45 2013]  Kill: 0 1 3: ^3S^0lammen^3S^0tan killed bojack by MOD_SABER
+[Sat Nov 30 07:52:00 2013]  ClientDisconnect: 0
+[Sat Nov 30 07:53:11 2013]  ClientDisconnect: 1
+[Sat Nov 30 08:00:35 2013]  Exit: Timelimit hit.
+[Sat Nov 30 09:13:08 2013]  ClientConnect: 0
+[Sat Nov 30 09:13:08 2013]  mlog:Player WhiteMagicRaven, connected. With IP - 46.200.155.20:29070 
+[Sat Nov 30 09:13:14 2013]  ClientDisconnect: 0
+[Sat Nov 30 09:24:23 2013]  ClientConnect: 0
+[Sat Nov 30 09:24:23 2013]  mlog:Player Padawan, connected. With IP - 195.82.154.13:1024 
+[Sat Nov 30 09:24:48 2013]  ClientBegin: 0
+[Sat Nov 30 09:25:35 2013]  ShutdownGame:
+[Sat Nov 30 09:25:35 2013]  ------------------------------------------------------------
+[Sat Nov 30 09:25:36 2013]  ------------------------------------------------------------
+[Sat Nov 30 09:25:36 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 30 09:25:37 2013]  ClientConnect: 0
+[Sat Nov 30 09:25:52 2013]  ClientBegin: 0
+[Sat Nov 30 09:28:00 2013]  ClientConnect: 1
+[Sat Nov 30 09:28:00 2013]  mlog:Player Ki^7^4as, connected. With IP - 46.39.248.67:-24119 
+[Sat Nov 30 09:28:21 2013]  ClientBegin: 1
+[Sat Nov 30 09:28:29 2013]  say: ^8Ki^4as: привет
+[Sat Nov 30 09:28:31 2013]  say: ^8Ki^4as: hi
+[Sat Nov 30 09:29:21 2013]  Kill: 1 0 36: ^8Ki^4as killed Padawan by MOD_CRUSH
+[Sat Nov 30 09:29:26 2013]  say: ^8Ki^4as: hi
+[Sat Nov 30 09:29:29 2013]  ClientDisconnect: 0
+[Sat Nov 30 09:29:35 2013]  ClientDisconnect: 1
+[Sat Nov 30 09:30:12 2013]  ClientConnect: 0
+[Sat Nov 30 09:30:12 2013]  mlog:Player ^8Ki^4as, connected. With IP - 46.39.248.67:-24119 
+[Sat Nov 30 09:30:22 2013]  ClientBegin: 0
+[Sat Nov 30 09:31:38 2013]  ClientConnect: 1
+[Sat Nov 30 09:31:38 2013]  mlog:Player Padawan, connected. With IP - 110.142.202.175:22774 
+[Sat Nov 30 09:35:57 2013]  ClientDisconnect: 1
+[Sat Nov 30 09:40:26 2013]  say: ^8Ki^4as: mlistobs
+[Sat Nov 30 09:44:44 2013]  ClientDisconnect: 0
+[Sat Nov 30 09:58:48 2013]  ClientConnect: 0
+[Sat Nov 30 09:58:48 2013]  mlog:Player maxim, connected. With IP - 46.39.248.67:28540 
+[Sat Nov 30 09:59:12 2013]  ClientBegin: 0
+[Sat Nov 30 10:04:21 2013]  ClientDisconnect: 0
+[Sat Nov 30 10:08:02 2013]  ClientConnect: 0
+[Sat Nov 30 10:08:02 2013]  mlog:Player maxim, connected. With IP - 46.39.248.67:21643 
+[Sat Nov 30 10:08:26 2013]  ClientBegin: 0
+[Sat Nov 30 10:13:39 2013]  ClientDisconnect: 0
+[Sat Nov 30 11:25:35 2013]  Exit: Timelimit hit.
+[Sat Nov 30 16:38:32 2013]  ------------------------------------------------------------
+[Sat Nov 30 16:38:32 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 30 18:38:25 2013]  Exit: Timelimit hit.
+[Sat Nov 30 21:47:14 2013]  ClientConnect: 0
+[Sat Nov 30 21:47:14 2013]  mlog:Player ^0C^3o^0I^3o, connected. With IP - 159.255.234.38:29070 
+[Sat Nov 30 21:47:23 2013]  ClientBegin: 0
+[Sat Nov 30 21:47:25 2013]  ShutdownGame:
+[Sat Nov 30 21:47:25 2013]  ------------------------------------------------------------
+[Sat Nov 30 21:47:25 2013]  ------------------------------------------------------------
+[Sat Nov 30 21:47:25 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Nov 30 21:47:26 2013]  ClientConnect: 0
+[Sat Nov 30 21:50:47 2013]  ClientDisconnect: 0
+[Sat Nov 30 23:36:34 2013]  ClientConnect: 0
+[Sat Nov 30 23:36:34 2013]  mlog:Player WhiteMagicRaven, connected. With IP - 37.55.93.68:29070 
+[Sat Nov 30 23:36:39 2013]  ClientDisconnect: 0
+[Sat Nov 30 23:47:24 2013]  Exit: Timelimit hit.
+[Sun Dec 01 04:23:40 2013]  ClientConnect: 0
+[Sun Dec 01 04:23:40 2013]  mlog:Player Little Af, connected. With IP - 110.142.202.175:22515 
+[Sun Dec 01 04:23:49 2013]  ClientDisconnect: 0
+[Sun Dec 01 16:04:15 2013]  ClientConnect: 0
+[Sun Dec 01 16:04:15 2013]  mlog:Player Padawan, connected. With IP - 121.7.48.67:29070 
+[Sun Dec 01 16:04:30 2013]  ClientBegin: 0
+[Sun Dec 01 16:04:33 2013]  ShutdownGame:
+[Sun Dec 01 16:04:33 2013]  ------------------------------------------------------------

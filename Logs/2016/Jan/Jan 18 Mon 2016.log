@@ -1,0 +1,2044 @@
+[Mon Jan 18 18:14:32 2016]  ------------------------------------------------------------
+[Mon Jan 18 18:14:32 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Jan 18 18:14:36 2016]  ClientConnect: 0
+[Mon Jan 18 18:14:36 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Mon Jan 18 18:14:45 2016]  ClientBegin: 0
+[Mon Jan 18 18:14:50 2016]  ClientConnect: 1
+[Mon Jan 18 18:14:50 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Mon Jan 18 18:14:59 2016]  ClientBegin: 1
+[Mon Jan 18 18:15:01 2016]  Item: 0 weapon_melee
+[Mon Jan 18 18:15:19 2016]  say: ^0Shadow^5seer: nope, still cant see the fx
+[Mon Jan 18 18:15:29 2016]  say: ^0Раrk^2^1Qµаkи: oh ok
+[Mon Jan 18 18:15:42 2016]  say: ^0Раrk^2^1Qµаkи: well I'm using a dismemberment mod, seems the only way lol
+[Mon Jan 18 18:15:57 2016]  say: ^0Раrk^2^1Qµаkи: now I can slice up Rosh
+[Mon Jan 18 18:16:05 2016]  say: ^0Shadow^5seer: awesome
+[Mon Jan 18 18:16:09 2016]  say: ^0Shadow^5seer: and i have blood mod
+[Mon Jan 18 18:16:40 2016]  ClientConnect: 2
+[Mon Jan 18 18:16:40 2016]  mlog:Player Padawan, connected. With IP - 66.191.213.7:29070 
+[Mon Jan 18 18:16:50 2016]  ClientBegin: 2
+[Mon Jan 18 18:17:02 2016]  say: ^0Раrk^2^1Qµаkи: he's not losing limbs..
+[Mon Jan 18 18:17:04 2016]  say: ^0Shadow^5seer: doesnt seem to work
+[Mon Jan 18 18:17:39 2016]  say: ^0Раrk^2^1Qµаkи: damn
+[Mon Jan 18 18:17:44 2016]  say: ^0Раrk^2^1Qµаkи: I'm trying all the commands
+[Mon Jan 18 18:18:34 2016]  ClientDisconnect: 1
+[Mon Jan 18 18:19:14 2016]  say: ^0Shadow^5seer: beware, it causes damage
+[Mon Jan 18 18:19:31 2016]  Kill: 0 2 0: ^0Shadow^5seer killed Phil by MOD_UNKNOWN
+[Mon Jan 18 18:19:38 2016]  ClientConnect: 1
+[Mon Jan 18 18:19:38 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Mon Jan 18 18:19:39 2016]  say: ^0Shadow^5seer: right, lightnings do
+[Mon Jan 18 18:19:52 2016]  say: Phil: i'm helping mister modder find dismemberment options
+[Mon Jan 18 18:19:59 2016]  ClientBegin: 1
+[Mon Jan 18 18:20:04 2016]  say: ^0Shadow^5seer: great, good luck
+[Mon Jan 18 18:20:20 2016]  Kill: 1 2 36: ^0Раrk^2^1Qµаkи killed Phil by MOD_CRUSH
+[Mon Jan 18 18:20:22 2016]  ClientConnect: 3
+[Mon Jan 18 18:20:22 2016]  mlog:Player Arex_exe, connected. With IP - 178.140.184.30:29070 
+[Mon Jan 18 18:20:42 2016]  say: ^0Раrk^2^1Qµаkи: lol
+[Mon Jan 18 18:20:44 2016]  ClientBegin: 3
+[Mon Jan 18 18:20:47 2016]  ClientConnect: 4
+[Mon Jan 18 18:20:47 2016]  mlog:Player Edd SAW RUS, connected. With IP - 145.255.3.218:29070 
+[Mon Jan 18 18:20:55 2016]  ClientDisconnect: 4
+[Mon Jan 18 18:21:02 2016]  Kill: 1 2 0: ^0Раrk^2^1Qµаkи killed Phil by MOD_UNKNOWN
+[Mon Jan 18 18:21:04 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Mon Jan 18 18:21:10 2016]  ClientConnect: 4
+[Mon Jan 18 18:21:10 2016]  mlog:Player Edd SAW RU, connected. With IP - 145.255.3.218:29070 
+[Mon Jan 18 18:21:13 2016]  ClientDisconnect: 4
+[Mon Jan 18 18:21:13 2016]  ClientConnect: 4
+[Mon Jan 18 18:21:13 2016]  mlog:Player Edd SAW RU, connected. With IP - 145.255.3.218:29070 
+[Mon Jan 18 18:21:18 2016]  Kill: 2 3 3: Phil killed Arex_exe by MOD_SABER
+[Mon Jan 18 18:21:21 2016]  ClientDisconnect: 4
+[Mon Jan 18 18:21:33 2016]  Kill: 2 3 3: Phil killed Arex_exe by MOD_SABER
+[Mon Jan 18 18:21:37 2016]  ClientConnect: 4
+[Mon Jan 18 18:21:37 2016]  mlog:Player Edd SAW RU, connected. With IP - 145.255.3.218:29070 
+[Mon Jan 18 18:21:53 2016]  ClientBegin: 4
+[Mon Jan 18 18:21:55 2016]  Kill: 2 3 3: Phil killed Arex_exe by MOD_SABER
+[Mon Jan 18 18:22:15 2016]  Kill: 3 2 3: Arex_exe killed Phil by MOD_SABER
+[Mon Jan 18 18:22:39 2016]  Kill: 2 3 3: Phil killed Arex_exe by MOD_SABER
+[Mon Jan 18 18:22:43 2016]  Kill: 2 4 3: Phil killed Edd SAW RU by MOD_SABER
+[Mon Jan 18 18:22:44 2016]  ClientDisconnect: 3
+[Mon Jan 18 18:23:03 2016]  Kill: 2 4 3: Phil killed Edd SAW RU by MOD_SABER
+[Mon Jan 18 18:23:08 2016]  Kill: 2 4 3: Phil killed Edd SAW RU by MOD_SABER
+[Mon Jan 18 18:23:47 2016]  ClientConnect: 3
+[Mon Jan 18 18:23:47 2016]  mlog:Player Arex_exe, connected. With IP - 178.140.184.30:29070 
+[Mon Jan 18 18:23:53 2016]  Kill: 4 2 3: Edd SAW RU killed Phil by MOD_SABER
+[Mon Jan 18 18:24:00 2016]  ClientBegin: 3
+[Mon Jan 18 18:24:07 2016]  Kill: 2 3 3: Phil killed Arex_exe by MOD_SABER
+[Mon Jan 18 18:24:08 2016]  ClientDisconnect: 3
+[Mon Jan 18 18:24:17 2016]  Kill: 1 4 3: ^0Раrk^2^1Qµаkи killed Edd SAW RU by MOD_SABER
+[Mon Jan 18 18:24:25 2016]  Kill: 2 4 3: Phil killed Edd SAW RU by MOD_SABER
+[Mon Jan 18 18:24:51 2016]  ClientDisconnect: 4
+[Mon Jan 18 18:37:01 2016]  ClientDisconnect: 1
+[Mon Jan 18 18:38:09 2016]  ClientConnect: 1
+[Mon Jan 18 18:38:09 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Mon Jan 18 18:38:30 2016]  ClientBegin: 1
+[Mon Jan 18 18:38:49 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:38:59 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:39:07 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:39:16 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:39:21 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:39:25 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:39:37 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:39:52 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:39:59 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:40:05 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:41:22 2016]  say: Phil: shadow must be sooo bored XD
+[Mon Jan 18 18:41:32 2016]  say: ^0Shadow^5seer: not at all. im busy
+[Mon Jan 18 18:42:34 2016]  say: ^0Shadow^5seer: i need something even more dead then bones
+[Mon Jan 18 18:43:36 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:43:58 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:44:07 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:44:14 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:44:22 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:44:31 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:44:34 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:44:38 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:44:43 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:44:47 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:45:01 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:45:04 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:45:07 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:45:15 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:45:22 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:45:32 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:45:34 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:45:39 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:45:48 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:45:54 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:46:02 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:46:06 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:46:09 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:46:16 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:46:21 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:46:27 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 18:46:58 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:48:04 2016]  Kill: 1 1 39: ^0Раrk^2^1Qµаkи killed ^0Раrk^2^1Qµаkи by MOD_SUICIDE
+[Mon Jan 18 18:48:04 2016]  setteam:  1 FREE SPECTATOR
+[Mon Jan 18 18:48:04 2016]  ClientBegin: 1
+[Mon Jan 18 18:48:17 2016]  say: ^0Раrk^2^1Qµаkи: how are you invis?
+[Mon Jan 18 18:48:19 2016]  setteam:  1 SPECTATOR FREE
+[Mon Jan 18 18:48:19 2016]  ClientBegin: 1
+[Mon Jan 18 18:48:57 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 18:49:36 2016]  ShutdownGame:
+[Mon Jan 18 18:49:36 2016]  ------------------------------------------------------------
+[Mon Jan 18 18:49:37 2016]  ------------------------------------------------------------
+[Mon Jan 18 18:49:37 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Mon Jan 18 18:49:39 2016]  ClientConnect: 0
+[Mon Jan 18 18:49:39 2016]  ClientConnect: 1
+[Mon Jan 18 18:49:39 2016]  ClientConnect: 2
+[Mon Jan 18 18:49:47 2016]  ClientBegin: 0
+[Mon Jan 18 18:49:47 2016]  Kill: 2 0 37: Phil killed ^0Shadow^5seer by MOD_TELEFRAG
+[Mon Jan 18 18:49:47 2016]  ClientBegin: 2
+[Mon Jan 18 18:49:48 2016]  Kill: 1 2 37: ^0Раrk^2^1Qµаkи killed Phil by MOD_TELEFRAG
+[Mon Jan 18 18:49:48 2016]  ClientBegin: 1
+[Mon Jan 18 18:50:49 2016]  Kill: 2 0 37: Phil killed ^0Shadow^5seer by MOD_TELEFRAG
+[Mon Jan 18 18:51:20 2016]  Item: 0 weapon_melee
+[Mon Jan 18 18:51:44 2016]  Kill: 1 2 37: ^0Раrk^2^1Qµаkи killed Phil by MOD_TELEFRAG
+[Mon Jan 18 18:52:01 2016]  say: ^0Раrk^2^1Qµаkи: lol
+[Mon Jan 18 18:52:11 2016]  say: ^0Раrk^2^1Qµаkи: :p
+[Mon Jan 18 18:53:03 2016]  say: ^0Раrk^2^1Qµаkи: hahaha
+[Mon Jan 18 18:53:18 2016]  say: ^0Shadow^5seer: nibbler from duturama
+[Mon Jan 18 18:53:31 2016]  say: ^0Shadow^5seer: eats everything that bigger than he is
+[Mon Jan 18 18:53:45 2016]  say: ^0Shadow^5seer: futurama*
+[Mon Jan 18 18:54:39 2016]  say: ^0Раrk^2^1Qµаkи: did you change its health?
+[Mon Jan 18 18:54:45 2016]  say: ^0Shadow^5seer: nope, i cant
+[Mon Jan 18 18:55:09 2016]  say: ^0Shadow^5seer: but rancors cant be killed by huge and short damage
+[Mon Jan 18 18:55:18 2016]  say: ^0Shadow^5seer: only by long instant damage
+[Mon Jan 18 18:55:20 2016]  Kill: 1 2 36: ^0Раrk^2^1Qµаkи killed Phil by MOD_CRUSH
+[Mon Jan 18 18:55:27 2016]  say: ^0Shadow^5seer: even if its small
+[Mon Jan 18 18:55:38 2016]  say: ^0Раrk^2^1Qµаkи: why didn't my stuff kill him?
+[Mon Jan 18 18:55:38 2016]  say: ^0Shadow^5seer: look
+[Mon Jan 18 18:55:48 2016]  say: ^0Shadow^5seer: it was short damage
+[Mon Jan 18 18:55:51 2016]  say: ^0Раrk^2^1Qµаkи: oh right
+[Mon Jan 18 18:55:54 2016]  say: ^0Shadow^5seer: caused by short time
+[Mon Jan 18 18:56:03 2016]  say: ^0Shadow^5seer: look
+[Mon Jan 18 18:56:08 2016]  say: ^0Shadow^5seer: damage is 1 10
+[Mon Jan 18 18:56:10 2016]  say: ^0Раrk^2^1Qµаkи: yeh I'm here
+[Mon Jan 18 18:56:21 2016]  say: ^0Shadow^5seer: mpain 1 10
+[Mon Jan 18 18:56:29 2016]  Kill: 1 2 36: ^0Раrk^2^1Qµаkи killed Phil by MOD_CRUSH
+[Mon Jan 18 18:56:39 2016]  say: ^0Shadow^5seer: done
+[Mon Jan 18 18:56:43 2016]  say: ^0Раrk^2^1Qµаkи: :p
+[Mon Jan 18 18:56:44 2016]  ClientDisconnect: 2
+[Mon Jan 18 18:57:25 2016]  say: ^0Shadow^5seer: attacking me being invisible?
+[Mon Jan 18 18:57:28 2016]  say: ^0Shadow^5seer: and in noclip
+[Mon Jan 18 18:57:32 2016]  say: ^0Shadow^5seer: or anything else
+[Mon Jan 18 18:57:41 2016]  say: ^0Раrk^2^1Qµаkи: you were
+[Mon Jan 18 18:57:42 2016]  say: ^0Shadow^5seer: it was forbidden on my server
+[Mon Jan 18 18:57:51 2016]  say: ^0Раrk^2^1Qµаkи: I got eaten by a rancor with noclip :p
+[Mon Jan 18 18:57:55 2016]  say: ^0Shadow^5seer: oh
+[Mon Jan 18 18:58:07 2016]  say: ^0Раrk^2^1Qµаkи: you were invis before too
+[Mon Jan 18 18:58:09 2016]  say: ^0Shadow^5seer: well no mater, i made such players respawn
+[Mon Jan 18 18:58:15 2016]  ClientConnect: 2
+[Mon Jan 18 18:58:15 2016]  mlog:Player Padawan, connected. With IP - 66.191.213.7:29070 
+[Mon Jan 18 18:58:19 2016]  say: ^0Shadow^5seer: i didnt attack when invisible
+[Mon Jan 18 18:58:20 2016]  say: ^0Shadow^5seer: never
+[Mon Jan 18 18:58:29 2016]  say: ^0Раrk^2^1Qµаkи: oh sry
+[Mon Jan 18 18:58:31 2016]  ClientBegin: 2
+[Mon Jan 18 18:58:41 2016]  say: ^0Shadow^5seer: well it was my rule about using scripts
+[Mon Jan 18 18:58:49 2016]  say: ^0Shadow^5seer: i think its fair
+[Mon Jan 18 18:59:01 2016]  say: ^0Раrk^2^1Qµаkи: yeah it is
+[Mon Jan 18 18:59:10 2016]  say: ^0Shadow^5seer: wanna hunt some more rancors?
+[Mon Jan 18 18:59:39 2016]  say: ^0Раrk^2^1Qµаkи: why can't I kill vehicles with stuff either?
+[Mon Jan 18 18:59:46 2016]  say: ^0Shadow^5seer: have no idea
+[Mon Jan 18 19:00:05 2016]  Kill: 1022 1 2: <world> killed ^0Раrk^2^1Qµаkи by MOD_MELEE
+[Mon Jan 18 19:00:11 2016]  say: ^0Shadow^5seer: hellgate >:D
+[Mon Jan 18 19:00:20 2016]  say: ^0Shadow^5seer: i can even remap them inte demons
+[Mon Jan 18 19:00:26 2016]  say: ^0Shadow^5seer: or somethign
+[Mon Jan 18 19:00:27 2016]  say: ^0Раrk^2^1Qµаkи: Halo XD
+[Mon Jan 18 19:00:31 2016]  say: ^0Раrk^2^1Qµаkи: ^6HALO SCRIPT ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Mon Jan 18 19:00:45 2016]  say: ^0Shadow^5seer: nice
+[Mon Jan 18 19:01:18 2016]  say: ^0Shadow^5seer: they'll keep coming as u kill them till the gate is closed
+[Mon Jan 18 19:03:08 2016]  Kill: 1022 2 39: <world> killed Phil by MOD_SUICIDE
+[Mon Jan 18 19:04:39 2016]  Kill: 1022 1 38: <world> killed ^0Раrk^2^1Qµаkи by MOD_FALLING
+[Mon Jan 18 19:04:41 2016]  say: ^0Раrk^2^1Qµаkи: ^7HYPER^0SPACE ^6script ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1DbnІ
+[Mon Jan 18 19:05:07 2016]  say: ^0Раrk^2^1Qµаkи: ^5Constructing ^5Ship...
+[Mon Jan 18 19:06:28 2016]  say: ^0Раrk^2^1Qµаkи: come in
+[Mon Jan 18 19:06:33 2016]  say: ^0Раrk^2^1Qµаkи: it's my hyperspace ship :p
+[Mon Jan 18 19:06:39 2016]  say: ^0Раrk^2^1Qµаkи: ^7HYPER^0SPACE ^1IN ^4:3
+[Mon Jan 18 19:06:39 2016]  say: ^0Раrk^2^1Qµаkи: ^7HYPER^0SPACE ^1IN ^4:2
+[Mon Jan 18 19:06:40 2016]  say: ^0Раrk^2^1Qµаkи: ^7HYPER^0SPACE ^1IN ^4:1
+[Mon Jan 18 19:06:40 2016]  say: ^0Раrk^2^1Qµаkи: ^7HYPER^0SPACE!
+[Mon Jan 18 19:06:44 2016]  say: ^0Shadow^5seer: :D
+[Mon Jan 18 19:06:54 2016]  say: ^0Shadow^5seer: My origin is: (-8189 -19414 2232) - You can teleport here with /mtelelast
+
+[Mon Jan 18 19:07:36 2016]  say: ^0Shadow^5seer: My origin is: (-8164 -19417 2232) - You can teleport here with /mtelelast
+
+[Mon Jan 18 19:07:59 2016]  say: ^0Раrk^2^1Qµаkи: wait you're firing that?
+[Mon Jan 18 19:08:04 2016]  say: ^0Shadow^5seer: yes
+[Mon Jan 18 19:08:25 2016]  say: ^0Раrk^2^1Qµаkи: My origin is: (-9307 -19381 2315) - You can teleport here with /mtelelast
+
+[Mon Jan 18 19:08:27 2016]  Kill: 2 1 37: Phil killed ^0Раrk^2^1Qµаkи by MOD_TELEFRAG
+[Mon Jan 18 19:08:29 2016]  say: ^0Shadow^5seer: ^5Jump to hyperspace!
+[Mon Jan 18 19:08:41 2016]  say: ^0Раrk^2^1Qµаkи: u left without me lol
+[Mon Jan 18 19:08:45 2016]  say: ^0Раrk^2^1Qµаkи: crushed then left behind
+[Mon Jan 18 19:08:57 2016]  say: ^0Shadow^5seer: shields up
+[Mon Jan 18 19:08:57 2016]  say: ^0Раrk^2^1Qµаkи: oh nvm
+[Mon Jan 18 19:09:03 2016]  say: ^0Раrk^2^1Qµаkи: :O
+[Mon Jan 18 19:09:11 2016]  say: ^0Раrk^2^1Qµаkи: gogogo
+[Mon Jan 18 19:09:34 2016]  say: ^0Раrk^2^1Qµаkи: ok go
+[Mon Jan 18 19:09:39 2016]  say: ^0Shadow^5seer: you'd better dont look from outside
+[Mon Jan 18 19:09:49 2016]  say: ^0Раrk^2^1Qµаkи: why?
+[Mon Jan 18 19:09:53 2016]  say: ^0Shadow^5seer: we're kinda moving...
+[Mon Jan 18 19:10:01 2016]  say: ^0Раrk^2^1Qµаkи: um
+[Mon Jan 18 19:10:04 2016]  say: ^0Shadow^5seer: im not gonna move that huge thing
+[Mon Jan 18 19:10:16 2016]  say: ^0Shadow^5seer: too many obs can be blocked and cause lags
+[Mon Jan 18 19:10:32 2016]  say: ^0Раrk^2^1Qµаkи: then remove it :p
+[Mon Jan 18 19:10:42 2016]  say: ^0Раrk^2^1Qµаkи: oh not the whole thing
+[Mon Jan 18 19:10:45 2016]  say: ^0Раrk^2^1Qµаkи: just the big fx
+[Mon Jan 18 19:10:49 2016]  say: ^0Shadow^5seer: i meaned the ship
+[Mon Jan 18 19:10:53 2016]  say: ^0Раrk^2^1Qµаkи: oh
+[Mon Jan 18 19:10:56 2016]  say: ^0Shadow^5seer: it has many obs
+[Mon Jan 18 19:11:09 2016]  say: ^0Раrk^2^1Qµаkи: well that's why I used a cube lmao
+[Mon Jan 18 19:11:31 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:11:49 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 19:12:02 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 19:14:30 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:14:59 2016]  say: Phil: wut?
+[Mon Jan 18 19:15:03 2016]  say: ^0Shadow^5seer: ?
+[Mon Jan 18 19:15:08 2016]  say: Phil: why you sitting there?
+[Mon Jan 18 19:15:17 2016]  say: ^0Shadow^5seer: i just appeared here
+[Mon Jan 18 19:15:23 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:15:30 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:15:39 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:15:48 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 19:16:06 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 19:16:16 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:16:21 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:16:28 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:16:54 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:16:58 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 19:17:08 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:17:15 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:17:25 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 19:18:05 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 19:18:13 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 19:18:41 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 19:19:28 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:20:07 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:20:31 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:20:39 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:22:44 2016]  say: Phil: givehealth
+[Mon Jan 18 19:23:32 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:24:29 2016]  say: ^0Раrk^2^1Qµаkи: ^4JAWA ^4TENT ^4SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Mon Jan 18 19:24:33 2016]  say: ^0Раrk^2^1Qµаkи: ^4JAWA ^4TENT ^4SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S ^1- ^5PART 2
+[Mon Jan 18 19:25:29 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 19:26:14 2016]  ClientDisconnect: 0
+[Mon Jan 18 19:26:20 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:26:29 2016]  ClientConnect: 0
+[Mon Jan 18 19:26:29 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Mon Jan 18 19:26:46 2016]  ClientBegin: 0
+[Mon Jan 18 19:26:53 2016]  Item: 0 weapon_melee
+[Mon Jan 18 19:28:15 2016]  ClientDisconnect: 0
+[Mon Jan 18 19:28:40 2016]  ClientConnect: 0
+[Mon Jan 18 19:28:40 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Mon Jan 18 19:28:57 2016]  ClientBegin: 0
+[Mon Jan 18 19:29:03 2016]  Item: 0 weapon_melee
+[Mon Jan 18 19:32:30 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 19:33:14 2016]  Kill: 2 1 3: Phil killed ^0Раrk^2^1Qµаkи by MOD_SABER
+[Mon Jan 18 19:34:05 2016]  Kill: 1 1 39: ^0Раrk^2^1Qµаkи killed ^0Раrk^2^1Qµаkи by MOD_SUICIDE
+[Mon Jan 18 19:34:22 2016]  Kill: 1 1 39: ^0Раrk^2^1Qµаkи killed ^0Раrk^2^1Qµаkи by MOD_SUICIDE
+[Mon Jan 18 19:34:45 2016]  Kill: 2 1 5: Phil killed ^0Раrk^2^1Qµаkи by MOD_BRYAR_PISTOL_ALT
+[Mon Jan 18 19:35:46 2016]  Kill: 1022 1 35: <world> killed ^0Раrk^2^1Qµаkи by MOD_LAVA
+[Mon Jan 18 19:35:58 2016]  ClientConnect: 3
+[Mon Jan 18 19:35:58 2016]  mlog:Player IskalL, connected. With IP - 78.219.215.71:29070 
+[Mon Jan 18 19:36:09 2016]  Kill: 1022 1 35: <world> killed ^0Раrk^2^1Qµаkи by MOD_LAVA
+[Mon Jan 18 19:36:28 2016]  ClientBegin: 3
+[Mon Jan 18 19:37:57 2016]  Kill: 2 3 3: Phil killed IskalL by MOD_SABER
+[Mon Jan 18 19:38:04 2016]  Kill: 3 2 31: IskalL killed Phil by MOD_FORCE_DARK
+[Mon Jan 18 19:38:24 2016]  Kill: 1 3 3: ^0Раrk^2^1Qµаkи killed IskalL by MOD_SABER
+[Mon Jan 18 19:38:53 2016]  say: ^0Shadow^5seer: done)
+[Mon Jan 18 19:38:59 2016]  Kill: 1 2 3: ^0Раrk^2^1Qµаkи killed Phil by MOD_SABER
+[Mon Jan 18 19:39:05 2016]  say: ^0Shadow^5seer: or not
+[Mon Jan 18 19:39:11 2016]  Kill: 1 3 3: ^0Раrk^2^1Qµаkи killed IskalL by MOD_SABER
+[Mon Jan 18 19:39:22 2016]  Kill: 2 3 3: Phil killed IskalL by MOD_SABER
+[Mon Jan 18 19:39:24 2016]  ClientDisconnect: 1
+[Mon Jan 18 19:39:29 2016]  Kill: 2 3 3: Phil killed IskalL by MOD_SABER
+[Mon Jan 18 19:39:34 2016]  ClientDisconnect: 2
+[Mon Jan 18 19:41:21 2016]  say: IskalL: SETFORCE 1138
+[Mon Jan 18 19:43:49 2016]  say: IskalL: ,?
+[Mon Jan 18 19:44:44 2016]  say: IskalL: SPEED
+[Mon Jan 18 19:46:46 2016]  Kill: 3 3 39: IskalL killed IskalL by MOD_SUICIDE
+[Mon Jan 18 19:53:01 2016]  say: ^0Shadow^5seer: u blocked it
+[Mon Jan 18 19:53:09 2016]  say: ^0Shadow^5seer: dont touch it till its done please
+[Mon Jan 18 19:53:13 2016]  say: ^0Shadow^5seer: ok?
+[Mon Jan 18 19:53:19 2016]  say: IskalL: OK
+[Mon Jan 18 19:53:26 2016]  say: ^0Shadow^5seer: thanks
+[Mon Jan 18 19:53:40 2016]  say: IskalL: YOU ADMIN
+[Mon Jan 18 19:54:07 2016]  say: ^0Shadow^5seer: does it matter?
+[Mon Jan 18 19:55:40 2016]  say: ^0Shadow^5seer: perfect
+[Mon Jan 18 19:55:51 2016]  say: ^0Shadow^5seer: have a seat
+[Mon Jan 18 19:56:24 2016]  say: ^0Shadow^5seer: stand on the throne please
+[Mon Jan 18 19:56:27 2016]  say: ^0Shadow^5seer: or sit there
+[Mon Jan 18 19:56:35 2016]  say: ^0Shadow^5seer: have to look from here
+[Mon Jan 18 19:56:45 2016]  say: ^0Shadow^5seer: yes, its ok
+[Mon Jan 18 19:59:51 2016]  Item: 3 ammo_all
+[Mon Jan 18 19:59:53 2016]  say: ^0Shadow^5seer: i think now it looks better
+[Mon Jan 18 20:00:06 2016]  say: ^0Shadow^5seer: then green
+[Mon Jan 18 20:00:24 2016]  say: ^0Shadow^5seer: ill save it like this
+[Mon Jan 18 20:00:34 2016]  say: IskalL: yea
+[Mon Jan 18 20:01:01 2016]  say: ^0Shadow^5seer: 196 obs
+[Mon Jan 18 20:01:04 2016]  say: ^0Shadow^5seer: thats much
+[Mon Jan 18 20:02:19 2016]  say: ^0Shadow^5seer: :D
+[Mon Jan 18 20:06:49 2016]  say: ^0Shadow^5seer: if u use your force powers, i shall use my
+[Mon Jan 18 20:07:04 2016]  say: IskalL: LOL
+[Mon Jan 18 20:07:08 2016]  say: IskalL: yeah
+[Mon Jan 18 20:07:21 2016]  say: IskalL: woa
+[Mon Jan 18 20:09:33 2016]  say: ^0Shadow^5seer: and im already here)
+[Mon Jan 18 20:09:43 2016]  say: ^0Shadow^5seer: and everywhere
+[Mon Jan 18 20:10:19 2016]  say: ^0Shadow^5seer: watch the sky
+[Mon Jan 18 20:12:27 2016]  say: ^0Shadow^5seer: ok gotta go
+[Mon Jan 18 20:12:29 2016]  say: ^0Shadow^5seer: bb
+[Mon Jan 18 20:12:33 2016]  say: IskalL: bb
+[Mon Jan 18 20:12:39 2016]  ClientDisconnect: 0
+[Mon Jan 18 20:12:45 2016]  ClientDisconnect: 3
+[Mon Jan 18 22:25:30 2016]  ClientConnect: 0
+[Mon Jan 18 22:25:30 2016]  mlog:Player dernotron, connected. With IP - 108.234.121.3:29070 
+[Mon Jan 18 22:25:48 2016]  ClientBegin: 0
+[Mon Jan 18 22:26:22 2016]  ClientConnect: 1
+[Mon Jan 18 22:26:22 2016]  mlog:Player Lord AlligatorFace, connected. With IP - 68.102.205.65:29070 
+[Mon Jan 18 22:26:41 2016]  ClientBegin: 1
+[Mon Jan 18 22:26:57 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:27:41 2016]  Kill: 0 1 3: dernotron killed Lord AlligatorFace by MOD_SABER
+[Mon Jan 18 22:28:17 2016]  Kill: 0 1 3: dernotron killed Lord AlligatorFace by MOD_SABER
+[Mon Jan 18 22:28:29 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:28:53 2016]  Kill: 0 1 3: dernotron killed Lord AlligatorFace by MOD_SABER
+[Mon Jan 18 22:29:42 2016]  Kill: 0 1 3: dernotron killed Lord AlligatorFace by MOD_SABER
+[Mon Jan 18 22:29:55 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:30:09 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:30:24 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:30:48 2016]  Kill: 0 1 3: dernotron killed Lord AlligatorFace by MOD_SABER
+[Mon Jan 18 22:31:04 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:31:43 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:31:55 2016]  Kill: 0 1 3: dernotron killed Lord AlligatorFace by MOD_SABER
+[Mon Jan 18 22:32:51 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:33:04 2016]  Kill: 0 1 3: dernotron killed Lord AlligatorFace by MOD_SABER
+[Mon Jan 18 22:33:33 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:33:51 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:34:18 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:34:27 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:34:44 2016]  Kill: 0 1 3: dernotron killed Lord AlligatorFace by MOD_SABER
+[Mon Jan 18 22:34:58 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:35:23 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:35:52 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:36:29 2016]  Kill: 1 0 3: Lord AlligatorFace killed dernotron by MOD_SABER
+[Mon Jan 18 22:36:34 2016]  ClientDisconnect: 0
+[Mon Jan 18 22:37:27 2016]  ClientDisconnect: 1
+[Mon Jan 18 22:46:03 2016]  ClientConnect: 0
+[Mon Jan 18 22:46:03 2016]  mlog:Player ^3(J.N.R)^6A^7ngela^0(^6J.C^0), connected. With IP - 190.172.114.162:29070 
+[Mon Jan 18 22:46:57 2016]  ClientBegin: 0
+[Mon Jan 18 22:49:52 2016]  ClientConnect: 1
+[Mon Jan 18 22:49:52 2016]  mlog:Player ^3(J.N.R)^4Seba^0(^7AM3^0), connected. With IP - 190.55.0.207:29070 
+[Mon Jan 18 22:50:41 2016]  ClientBegin: 1
+[Mon Jan 18 22:50:52 2016]  print "^3(J.N.R)^4Seba^0(^7AM3^0)^7 @@@PLRENAME Padawan
+"[Mon Jan 18 22:50:58 2016]  say: Padawan: xd
+[Mon Jan 18 22:51:02 2016]  say: Padawan: xd
+[Mon Jan 18 22:51:08 2016]  say: Padawan: porque no queres hacerla ahora
+[Mon Jan 18 22:51:13 2016]  say: Padawan: tenia razon en preocuparme ahora ? xd
+[Mon Jan 18 22:51:19 2016]  say: Padawan: xd
+[Mon Jan 18 22:51:30 2016]  say: Padawan: tranquila
+[Mon Jan 18 22:51:33 2016]  say: Padawan: la pasaras xd
+[Mon Jan 18 22:51:39 2016]  say: Padawan: dicen tranquila loco
+[Mon Jan 18 22:51:46 2016]  say: Padawan: pero yo se que cierto nivel de salto n opaso
+[Mon Jan 18 22:51:48 2016]  say: Padawan: y es el 3
+[Mon Jan 18 22:51:53 2016]  say: Padawan: ya practique ayer
+[Mon Jan 18 22:51:58 2016]  say: Padawan: y jose se me rie y me dice
+[Mon Jan 18 22:52:01 2016]  say: Padawan: practica en fuzz
+[Mon Jan 18 22:52:06 2016]  say: Padawan: loco fuzz pase 3 lazer
+[Mon Jan 18 22:52:11 2016]  say: Padawan: ahi tenes q pasar como 6
+[Mon Jan 18 22:52:21 2016]  say: Padawan: xd
+[Mon Jan 18 22:52:22 2016]  say: Padawan: yo llegue
+[Mon Jan 18 22:52:27 2016]  say: Padawan: hasta la sala 3
+[Mon Jan 18 22:52:41 2016]  say: Padawan: nose si era la ultima esa
+[Mon Jan 18 22:52:41 2016]  say: Padawan: la 1
+[Mon Jan 18 22:52:42 2016]  say: Padawan: la hago
+[Mon Jan 18 22:52:46 2016]  say: Padawan: en menos de un min
+[Mon Jan 18 22:52:50 2016]  say: Padawan: esa es facil
+[Mon Jan 18 22:52:51 2016]  say: Padawan: la 2
+[Mon Jan 18 22:52:54 2016]  say: Padawan: ya es mas dificil xd
+[Mon Jan 18 22:53:23 2016]  say: Padawan: te mira desde spect?
+[Mon Jan 18 22:53:25 2016]  say: Padawan: ...?
+[Mon Jan 18 22:53:27 2016]  say: Padawan: ni
+[Mon Jan 18 22:53:28 2016]  say: Padawan: no 
+[Mon Jan 18 22:53:30 2016]  say: Padawan: te observa
+[Mon Jan 18 22:53:31 2016]  say: Padawan: y entonces
+[Mon Jan 18 22:53:35 2016]  say: Padawan: pero nose como 
+[Mon Jan 18 22:53:37 2016]  say: Padawan: tiene admin
+[Mon Jan 18 22:53:40 2016]  say: Padawan: jose se lo da
+[Mon Jan 18 22:53:41 2016]  say: Padawan: fuera del mapa
+[Mon Jan 18 22:53:43 2016]  say: Padawan: lol
+[Mon Jan 18 22:53:44 2016]  say: Padawan: y usa una especie de poder xd
+[Mon Jan 18 22:53:54 2016]  say: Padawan: jose configuro toda la cfg
+[Mon Jan 18 22:53:57 2016]  say: Padawan: se
+[Mon Jan 18 22:53:59 2016]  say: Padawan: yoda tiene acceso a la rcon
+[Mon Jan 18 22:53:59 2016]  say: Padawan: se hace 
+[Mon Jan 18 22:54:01 2016]  say: Padawan: invisible
+[Mon Jan 18 22:54:05 2016]  say: Padawan: asi que es pribable que te hayan leido
+[Mon Jan 18 22:54:07 2016]  say: Padawan: ya se el comando
+[Mon Jan 18 22:54:11 2016]  say: Padawan: es muy facil
+[Mon Jan 18 22:54:15 2016]  say: Padawan: es el ghost
+[Mon Jan 18 22:54:18 2016]  say: Padawan: xd
+[Mon Jan 18 22:54:19 2016]  say: Padawan: si 
+[Mon Jan 18 22:54:20 2016]  say: Padawan: pero 
+[Mon Jan 18 22:54:23 2016]  say: Padawan: tendria que salir
+[Mon Jan 18 22:54:23 2016]  say: Padawan: en jh lo usabamos
+[Mon Jan 18 22:54:33 2016]  say: Padawan: y para verlo bien debias usar truco mental al maximo
+[Mon Jan 18 22:54:36 2016]  say: Padawan: y enfocar
+[Mon Jan 18 22:55:01 2016]  say: Padawan: viste
+[Mon Jan 18 22:55:05 2016]  say: Padawan: los lazers
+[Mon Jan 18 22:55:07 2016]  say: Padawan: la prueba dos?
+[Mon Jan 18 22:55:10 2016]  say: Padawan: se
+[Mon Jan 18 22:55:21 2016]  say: Padawan: que
+[Mon Jan 18 22:55:24 2016]  say: Padawan: tiene como una c
+[Mon Jan 18 22:55:27 2016]  say: Padawan: que te trabas
+[Mon Jan 18 22:55:31 2016]  say: Padawan: como cuerno la pasas T_T
+[Mon Jan 18 22:55:33 2016]  say: Padawan: xD
+[Mon Jan 18 22:55:40 2016]  say: Padawan: me costo esa
+[Mon Jan 18 22:55:44 2016]  say: Padawan: yo a jose : esos saltoss son de jc?
+[Mon Jan 18 22:55:46 2016]  say: Padawan: no querida de js
+[Mon Jan 18 22:55:47 2016]  say: Padawan: xDD
+[Mon Jan 18 22:55:49 2016]  say: Padawan: a la mierda mi vida
+[Mon Jan 18 22:56:02 2016]  say: Padawan: tengo que hacer una prueba
+[Mon Jan 18 22:56:03 2016]  say: Padawan: los primeros lasers
+[Mon Jan 18 22:56:06 2016]  say: Padawan: que no elijo
+[Mon Jan 18 22:56:15 2016]  say: Padawan: tenes que
+[Mon Jan 18 22:56:19 2016]  say: Padawan: ir agachada
+[Mon Jan 18 22:56:22 2016]  say: Padawan: no osea
+[Mon Jan 18 22:56:25 2016]  say: Padawan: me trabo
+[Mon Jan 18 22:56:27 2016]  say: Padawan: te mando foto
+[Mon Jan 18 22:56:29 2016]  say: Padawan: do nde me trabo
+[Mon Jan 18 22:56:35 2016]  say: Padawan: queres ir ahora?
+[Mon Jan 18 22:56:44 2016]  say: Padawan: ningun sv
+[Mon Jan 18 22:56:46 2016]  say: Padawan: si xd
+[Mon Jan 18 22:56:46 2016]  say: Padawan: es seguro xd
+[Mon Jan 18 22:56:52 2016]  say: Padawan: tiene el mapa
+[Mon Jan 18 22:56:59 2016]  say: Padawan: sabran q somos nostros
+[Mon Jan 18 22:57:10 2016]  say: Padawan: y jose me dijo: no intentes a veriguar que es
+[Mon Jan 18 22:57:14 2016]  say: Padawan: porque quedaras mal xd
+[Mon Jan 18 22:57:17 2016]  say: Padawan: xd
+[Mon Jan 18 22:57:24 2016]  say: Padawan: es que xd
+[Mon Jan 18 22:57:26 2016]  say: Padawan: no quiero
+[Mon Jan 18 22:57:26 2016]  say: Padawan: te mando foto por fb xd
+[Mon Jan 18 22:57:28 2016]  say: Padawan: que falles
+[Mon Jan 18 22:57:35 2016]  say: Padawan: pero
+[Mon Jan 18 22:57:37 2016]  say: Padawan: tu pasaste xd
+[Mon Jan 18 22:57:39 2016]  say: Padawan: xd si
+[Mon Jan 18 22:57:43 2016]  say: Padawan: pero no pase
+[Mon Jan 18 22:57:45 2016]  say: Padawan: xd
+[Mon Jan 18 22:57:47 2016]  say: Padawan: la ultima parte
+[Mon Jan 18 22:57:49 2016]  say: Padawan: como no pasaste xd
+[Mon Jan 18 22:57:53 2016]  say: Padawan: no quiero hacerla T_T!
+[Mon Jan 18 22:57:54 2016]  say: Padawan: xD
+[Mon Jan 18 22:57:59 2016]  say: Padawan: habla tu solo con yoda
+[Mon Jan 18 22:58:01 2016]  say: Padawan: yo me resigno xd
+[Mon Jan 18 22:58:02 2016]  say: Padawan: no xd
+[Mon Jan 18 22:58:08 2016]  say: Padawan: no te asustes
+[Mon Jan 18 22:58:13 2016]  say: Padawan: si ve que 
+[Mon Jan 18 22:58:14 2016]  say: Padawan: que ni me asuste
+[Mon Jan 18 22:58:16 2016]  say: Padawan: me jodes
+[Mon Jan 18 22:58:17 2016]  say: Padawan: no pasaste
+[Mon Jan 18 22:58:18 2016]  say: Padawan: te esforzaste 
+[Mon Jan 18 22:58:19 2016]  say: Padawan: xD
+[Mon Jan 18 22:58:19 2016]  say: Padawan: y  debo pasar
+[Mon Jan 18 22:58:27 2016]  say: Padawan: si tu no pasas
+[Mon Jan 18 22:58:28 2016]  say: Padawan: y tuviste paciencia
+[Mon Jan 18 22:58:28 2016]  say: Padawan: significa
+[Mon Jan 18 22:58:31 2016]  say: Padawan: y honestidad 
+[Mon Jan 18 22:58:34 2016]  say: Padawan: te aprobara
+[Mon Jan 18 22:58:34 2016]  say: Padawan: que no hay esperanza para mixd
+[Mon Jan 18 22:58:37 2016]  say: Padawan: xd
+[Mon Jan 18 22:58:45 2016]  say: Padawan: jose: tu aprobaras
+[Mon Jan 18 22:58:46 2016]  say: Padawan: si yo pude
+[Mon Jan 18 22:58:47 2016]  say: Padawan: vos podes
+[Mon Jan 18 22:58:48 2016]  say: Padawan: porque no te rindes
+[Mon Jan 18 22:58:53 2016]  say: Padawan: exacto xd
+[Mon Jan 18 22:58:54 2016]  say: Padawan: yo: pero no quiero llorar
+[Mon Jan 18 22:58:57 2016]  say: Padawan: toda una noche
+[Mon Jan 18 22:59:01 2016]  say: Padawan: esa es la clave 
+[Mon Jan 18 22:59:04 2016]  say: Padawan: de como fracase xd
+[Mon Jan 18 22:59:05 2016]  say: Padawan: no rendirte
+[Mon Jan 18 22:59:06 2016]  say: Padawan: xd
+[Mon Jan 18 22:59:13 2016]  say: Padawan: pero yo no me permito el fracaso
+[Mon Jan 18 22:59:15 2016]  say: Padawan: o lo hago bien
+[Mon Jan 18 22:59:16 2016]  say: Padawan: y todo
+[Mon Jan 18 22:59:17 2016]  say: Padawan: o mal
+[Mon Jan 18 22:59:20 2016]  say: Padawan: no hay otra
+[Mon Jan 18 22:59:26 2016]  say: Padawan: yo tambien
+[Mon Jan 18 22:59:28 2016]  say: Padawan: la queria pasar
+[Mon Jan 18 22:59:29 2016]  say: Padawan: es mas 
+[Mon Jan 18 22:59:33 2016]  say: Padawan: cuando pase la parte
+[Mon Jan 18 22:59:35 2016]  say: Padawan: que me trabe
+[Mon Jan 18 22:59:38 2016]  say: Padawan: me hace teleport T_T
+[Mon Jan 18 22:59:45 2016]  say: Padawan: yo dije
+[Mon Jan 18 22:59:47 2016]  say: Padawan: al fin lpm
+[Mon Jan 18 22:59:51 2016]  say: Padawan: y veo que me manda
+[Mon Jan 18 22:59:56 2016]  say: Padawan: a donde estaba el xd
+[Mon Jan 18 23:00:30 2016]  say: Padawan: mira fb
+[Mon Jan 18 23:01:02 2016]  say: Padawan: ah ahi
+[Mon Jan 18 23:01:03 2016]  say: Padawan: a ver
+[Mon Jan 18 23:01:14 2016]  say: Padawan: me fijo ahora 
+[Mon Jan 18 23:01:18 2016]  say: Padawan: si lo veo completo me acuerdo xd
+[Mon Jan 18 23:02:27 2016]  say: Padawan: es que sabes que me irrita
+[Mon Jan 18 23:02:31 2016]  say: Padawan: que me pone triste
+[Mon Jan 18 23:02:39 2016]  say: Padawan: que toda la vida
+[Mon Jan 18 23:02:43 2016]  say: Padawan: nada me fue regalado xd
+[Mon Jan 18 23:02:44 2016]  say: Padawan: y a ti xd
+[Mon Jan 18 23:02:47 2016]  say: Padawan: no tuviste
+[Mon Jan 18 23:02:47 2016]  say: Padawan: xd
+[Mon Jan 18 23:02:49 2016]  say: Padawan: piensas 
+[Mon Jan 18 23:02:49 2016]  say: Padawan: los problemas
+[Mon Jan 18 23:02:52 2016]  say: Padawan: que me fue facil
+[Mon Jan 18 23:02:53 2016]  say: Padawan: que yo tuve xd
+[Mon Jan 18 23:02:53 2016]  say: Padawan: siempre 
+[Mon Jan 18 23:02:56 2016]  say: Padawan: xd
+[Mon Jan 18 23:03:00 2016]  say: Padawan: a comparacion de mi
+[Mon Jan 18 23:03:04 2016]  say: Padawan: de que me abusaron
+[Mon Jan 18 23:03:08 2016]  say: Padawan: como 5 vecest
+[Mon Jan 18 23:03:14 2016]  say: Padawan: y que no puedo olvidarlo
+[Mon Jan 18 23:03:14 2016]  say: Padawan: si
+[Mon Jan 18 23:03:20 2016]  say: Padawan: eso lo se 
+[Mon Jan 18 23:03:29 2016]  say: Padawan: pero yo tambien tuve problemas xd
+[Mon Jan 18 23:03:33 2016]  say: Padawan: no siempre
+[Mon Jan 18 23:03:36 2016]  say: Padawan: me fui facil todo en jnr
+[Mon Jan 18 23:03:36 2016]  say: Padawan: problemas normales
+[Mon Jan 18 23:03:38 2016]  say: Padawan: ningun rango
+[Mon Jan 18 23:03:40 2016]  say: Padawan: tuve problemas
+[Mon Jan 18 23:03:44 2016]  say: Padawan: no tuve*
+[Mon Jan 18 23:03:56 2016]  say: Padawan: te puedo nombrar
+[Mon Jan 18 23:03:59 2016]  say: Padawan: todos los rangos seba
+[Mon Jan 18 23:04:04 2016]  say: Padawan: a mi se me fue dificil
+[Mon Jan 18 23:04:07 2016]  say: Padawan: que me digan 
+[Mon Jan 18 23:04:10 2016]  say: Padawan: no te juntes seba
+[Mon Jan 18 23:04:12 2016]  say: Padawan: es una traidora
+[Mon Jan 18 23:04:21 2016]  say: Padawan: o me decian
+[Mon Jan 18 23:04:23 2016]  say: Padawan: por lo menos
+[Mon Jan 18 23:04:25 2016]  say: Padawan: seba si te juntas 
+[Mon Jan 18 23:04:26 2016]  say: Padawan: tenias en quien apoyarte xd
+[Mon Jan 18 23:04:29 2016]  say: Padawan: te haras scriptero
+[Mon Jan 18 23:04:30 2016]  say: Padawan: xd
+[Mon Jan 18 23:04:40 2016]  say: Padawan: no me fue facil
+[Mon Jan 18 23:04:41 2016]  say: Padawan: por ese motivo
+[Mon Jan 18 23:04:43 2016]  say: Padawan: siempre
+[Mon Jan 18 23:04:44 2016]  say: Padawan: no puedo hacerla
+[Mon Jan 18 23:04:47 2016]  say: Padawan: desde C 
+[Mon Jan 18 23:04:48 2016]  say: Padawan: me decian eso
+[Mon Jan 18 23:05:03 2016]  say: Padawan: necesito esta vez paz
+[Mon Jan 18 23:05:06 2016]  say: Padawan: algo que no tengo
+[Mon Jan 18 23:05:10 2016]  say: Padawan: algo que anhelo
+[Mon Jan 18 23:05:16 2016]  say: Padawan: nadie la tiene la paz
+[Mon Jan 18 23:05:16 2016]  say: Padawan: antes de entrar a jnr
+[Mon Jan 18 23:05:21 2016]  say: Padawan: se me abuso lki y lask
+[Mon Jan 18 23:05:23 2016]  say: Padawan: en padawan
+[Mon Jan 18 23:05:30 2016]  say: Padawan: fui acusada de traidora
+[Mon Jan 18 23:05:39 2016]  say: Padawan: en J
+[Mon Jan 18 23:05:53 2016]  say: Padawan: problemas internos empiezan a notarse
+[Mon Jan 18 23:05:55 2016]  say: Padawan: afecta a jose
+[Mon Jan 18 23:05:58 2016]  say: Padawan: y me afecta a mi
+[Mon Jan 18 23:06:00 2016]  say: Padawan: en C
+[Mon Jan 18 23:06:07 2016]  say: Padawan: takao se abusa de miw
+[Mon Jan 18 23:06:11 2016]  say: Padawan: dejo el clan
+[Mon Jan 18 23:06:21 2016]  say: Padawan: me involucro en un conflicto no deseado
+[Mon Jan 18 23:06:27 2016]  say: Padawan: me termino infiltrando en un clan
+[Mon Jan 18 23:06:36 2016]  say: Padawan: vuelvo a jnr con informacion
+[Mon Jan 18 23:06:39 2016]  say: Padawan: el clan se destruye
+[Mon Jan 18 23:06:54 2016]  say: Padawan: en C2 no confiaban en mi porque habia quedado  impura 
+
+[Mon Jan 18 23:07:05 2016]  say: Padawan: ''impura'' = persona q deja el clan
+[Mon Jan 18 23:07:33 2016]  say: Padawan: c3 ascenso tan rapido que no estoy lista para M
+[Mon Jan 18 23:07:41 2016]  say: Padawan: padawans celosos
+[Mon Jan 18 23:07:43 2016]  say: Padawan: de que aprendo rapido
+[Mon Jan 18 23:07:48 2016]  say: Padawan: me empiezan a odiar
+[Mon Jan 18 23:07:50 2016]  say: Padawan: y se van por mi
+[Mon Jan 18 23:07:52 2016]  say: Padawan: M
+[Mon Jan 18 23:08:04 2016]  say: Padawan: problemas con takao en el consejo primera reunion
+[Mon Jan 18 23:08:08 2016]  say: Padawan: division del clan
+[Mon Jan 18 23:08:17 2016]  say: Padawan: takao y devas vs jose carlos y plo
+[Mon Jan 18 23:08:20 2016]  say: Padawan: m2
+[Mon Jan 18 23:08:30 2016]  say: Padawan: EF
+[Mon Jan 18 23:08:40 2016]  say: Padawan: en m2 
+[Mon Jan 18 23:08:43 2016]  say: Padawan: ya estaba yo xd
+[Mon Jan 18 23:08:50 2016]  say: Padawan: xd entonces fue M xd
+[Mon Jan 18 23:08:53 2016]  say: Padawan: peor aun
+[Mon Jan 18 23:08:55 2016]  say: Padawan: me infiltro en EF
+[Mon Jan 18 23:09:02 2016]  say: Padawan: pido que me saquen del consejo
+[Mon Jan 18 23:09:10 2016]  say: Padawan: era demasiada presion y apenas podia captarlas cosas
+[Mon Jan 18 23:09:20 2016]  say: Padawan: podria aprender rapido sacar buenas notas entre comillas
+[Mon Jan 18 23:09:23 2016]  say: Padawan: pero no estaba lista 
+[Mon Jan 18 23:09:33 2016]  say: Padawan: en M2 surges tu
+[Mon Jan 18 23:09:37 2016]  say: Padawan: problemas con scripts xd
+[Mon Jan 18 23:09:39 2016]  say: Padawan: xd
+[Mon Jan 18 23:09:42 2016]  say: Padawan: q jamas use
+[Mon Jan 18 23:09:47 2016]  say: Padawan: otra vez desconfiando
+[Mon Jan 18 23:09:54 2016]  say: Padawan: luego se me acusa de roba miembros
+[Mon Jan 18 23:10:16 2016]  say: Padawan: m3 se empieza a estabilizar las cosas en jnr pero aun carlos no confiaba en mi
+[Mon Jan 18 23:10:24 2016]  say: Padawan: y yo no busco su aprobacion
+[Mon Jan 18 23:10:28 2016]  say: Padawan: pero me perjudica
+[Mon Jan 18 23:10:43 2016]  say: Padawan: maestra de academia: problemas con jvm
+[Mon Jan 18 23:10:48 2016]  say: Padawan: maestra de academia 2
+[Mon Jan 18 23:10:59 2016]  say: Padawan: pequeсos desacuerdos que n odire
+[Mon Jan 18 23:11:04 2016]  say: Padawan: y am3 jose se exilia
+[Mon Jan 18 23:11:08 2016]  say: Padawan: j.c llega saila
+[Mon Jan 18 23:11:14 2016]  say: Padawan: como si fuera poco
+[Mon Jan 18 23:11:24 2016]  say: Padawan: el clan tiene miembros insoportables
+[Mon Jan 18 23:11:35 2016]  say: Padawan: y no hacen nada
+[Mon Jan 18 23:11:37 2016]  say: Padawan: eso lo se 
+[Mon Jan 18 23:11:43 2016]  say: Padawan: y para peor:
+[Mon Jan 18 23:11:45 2016]  say: Padawan: me olvidaba
+[Mon Jan 18 23:11:50 2016]  say: Padawan: EN M todo era mi culpa
+[Mon Jan 18 23:12:09 2016]  say: Padawan: no debias volver
+[Mon Jan 18 23:12:17 2016]  say: Padawan: siempre fui un fracaso para ciertos ojos
+[Mon Jan 18 23:12:23 2016]  say: Padawan: y me canse de probar
+[Mon Jan 18 23:12:28 2016]  say: Padawan: que puedo ser alguien 
+[Mon Jan 18 23:12:29 2016]  say: Padawan: mejor
+[Mon Jan 18 23:12:38 2016]  say: Padawan: que me falta ahora
+[Mon Jan 18 23:12:40 2016]  say: Padawan: una prueba
+[Mon Jan 18 23:12:43 2016]  say: Padawan: para hablar con yoda
+[Mon Jan 18 23:12:44 2016]  say: Padawan: loco
+[Mon Jan 18 23:12:51 2016]  say: Padawan: hice que jose volviera al clan
+[Mon Jan 18 23:13:03 2016]  say: Padawan: hice que el clan no se cayera diciento que te quedes
+[Mon Jan 18 23:13:09 2016]  say: Padawan: dejenme de romper los ovarios
+[Mon Jan 18 23:13:20 2016]  say: Padawan: que mas quieren
+[Mon Jan 18 23:13:27 2016]  say: Padawan: siempre la misma historia 
+[Mon Jan 18 23:13:31 2016]  say: Padawan: mmm estamos aburridos
+[Mon Jan 18 23:13:33 2016]  say: Padawan: que haremos?
+[Mon Jan 18 23:13:35 2016]  say: Padawan: les haremos una prueba
+[Mon Jan 18 23:13:55 2016]  say: Padawan: kate ayuda
+[Mon Jan 18 23:13:59 2016]  say: Padawan: Y quien mierda
+[Mon Jan 18 23:14:00 2016]  say: Padawan: me ayuda
+[Mon Jan 18 23:14:15 2016]  say: Padawan: cuando venga jose le digo que solo iras tu
+[Mon Jan 18 23:14:19 2016]  say: Padawan: y a la bsot
+[Mon Jan 18 23:14:20 2016]  say: Padawan: bosta
+[Mon Jan 18 23:14:27 2016]  say: Padawan: te entiendo
+[Mon Jan 18 23:14:30 2016]  say: Padawan: y no te obligare
+[Mon Jan 18 23:14:34 2016]  say: Padawan: a que vayas
+[Mon Jan 18 23:15:29 2016]  say: Padawan: no hacia falta
+[Mon Jan 18 23:15:32 2016]  say: Padawan: que vuelvas 
+[Mon Jan 18 23:15:35 2016]  say: Padawan: por mi nada mas 
+[Mon Jan 18 23:15:36 2016]  say: Padawan: y si pregunta porque no vino
+[Mon Jan 18 23:15:43 2016]  say: Padawan: porque esta cansada que le toquen los ovarios con pruebas
+[Mon Jan 18 23:15:46 2016]  say: Padawan: x
+[Mon Jan 18 23:15:52 2016]  say: Padawan: que mas me quieren probar
+[Mon Jan 18 23:15:57 2016]  say: Padawan: si tengo agallas
+[Mon Jan 18 23:16:00 2016]  say: Padawan: si tengo paciencia
+[Mon Jan 18 23:16:03 2016]  say: Padawan: demostre toda esa mierda
+[Mon Jan 18 23:16:05 2016]  say: Padawan: ya esta loco
+[Mon Jan 18 23:16:08 2016]  say: Padawan: ya esta por favor
+[Mon Jan 18 23:16:58 2016]  say: Padawan: encima seguro
+[Mon Jan 18 23:17:01 2016]  say: Padawan: te la tomo windu
+[Mon Jan 18 23:17:03 2016]  say: Padawan: no 
+[Mon Jan 18 23:17:06 2016]  say: Padawan: no era windu
+[Mon Jan 18 23:17:11 2016]  say: Padawan: er aun guardian
+[Mon Jan 18 23:17:13 2016]  say: Padawan: se
+[Mon Jan 18 23:17:13 2016]  say: Padawan: del consejo
+[Mon Jan 18 23:17:18 2016]  say: Padawan: y no sabias el nombre
+[Mon Jan 18 23:17:20 2016]  say: Padawan: mejor aun
+[Mon Jan 18 23:17:32 2016]  say: Padawan: solo tenia Guardian Maestro Jedi
+[Mon Jan 18 23:18:31 2016]  say: Padawan: pero vos querias hablar con yoda?
+[Mon Jan 18 23:18:46 2016]  ClientConnect: 2
+[Mon Jan 18 23:18:46 2016]  mlog:Player The Fourth Brother, connected. With IP - 190.44.170.31:29070 
+[Mon Jan 18 23:19:05 2016]  ClientBegin: 2
+[Mon Jan 18 23:19:13 2016]  say: The Fourth Brother: hola
+[Mon Jan 18 23:19:13 2016]  tell: Padawan to Padawan: querer quiero
+[Mon Jan 18 23:19:17 2016]  say: Padawan: hola
+[Mon Jan 18 23:20:05 2016]  tell: Padawan to Padawan: tratare
+[Mon Jan 18 23:20:13 2016]  tell: Padawan to Padawan: de decirle si puedes venir
+[Mon Jan 18 23:20:36 2016]  tell: Padawan to Padawan: no trates no quiero que lo hagas no quiero dar lastima xd solo yo se porque no la hare xd
+[Mon Jan 18 23:20:47 2016]  tell: Padawan to Padawan: xd
+[Mon Jan 18 23:21:03 2016]  tell: Padawan to Padawan: y no es temor a hacerla sentir dolor y yo queria hablar con yoda para dejar de sentir dolor xd
+[Mon Jan 18 23:21:16 2016]  tell: Padawan to Padawan: hiciste muchas cosas por mi y yo no hice mucho lo maximo que puedo hacer es ayudarte al menos
+[Mon Jan 18 23:21:31 2016]  tell: Padawan to Padawan: si pero xd eso ya depende de yoda xd
+[Mon Jan 18 23:21:55 2016]  tell: Padawan to Padawan: xd lo se
+[Mon Jan 18 23:22:00 2016]  tell: Padawan to Padawan: por eso intentare
+[Mon Jan 18 23:22:16 2016]  tell: Padawan to Padawan: sos mi mejor amiga tengo que intentarlo al menos
+[Mon Jan 18 23:25:22 2016]  tell: Padawan to Padawan: fue mi culpa ponerte asi
+[Mon Jan 18 23:25:42 2016]  tell: Padawan to Padawan: no sientas culpa yo debia si decir si o no xd
+[Mon Jan 18 23:26:02 2016]  tell: Padawan to Padawan: si pero yo te dije fue re complicada esto y lo otro y te lleve a decir no
+[Mon Jan 18 23:26:07 2016]  tell: Padawan to Padawan: solo xd quedo mi responsabilidadpor favor no le digas nadie a esto xd
+[Mon Jan 18 23:26:19 2016]  tell: Padawan to Padawan: yo sabia que eran los lazer lo presentia xd
+[Mon Jan 18 23:26:23 2016]  tell: Padawan to Padawan: oculte muchas cosas de nosotros y jamas las conte xd
+[Mon Jan 18 23:27:05 2016]  tell: Padawan to Padawan: crees que jose lo entendera?
+[Mon Jan 18 23:27:28 2016]  say: The Fourth Brother: well cya
+[Mon Jan 18 23:27:36 2016]  say: The Fourth Brother: adios
+[Mon Jan 18 23:27:41 2016]  ClientDisconnect: 2
+[Mon Jan 18 23:27:42 2016]  say: Padawan: adios
+[Mon Jan 18 23:27:44 2016]  say: Padawan: xd
+[Mon Jan 18 23:27:46 2016]  say: Padawan: era el 
+[Mon Jan 18 23:27:49 2016]  say: Padawan: santos traficantes
+[Mon Jan 18 23:28:37 2016]  say: Padawan: donde estas?
+[Mon Jan 18 23:30:47 2016]  Kill: 1022 1 38: <world> killed Padawan by MOD_FALLING
+[Mon Jan 18 23:31:28 2016]  say: Padawan: estoy xd
+[Mon Jan 18 23:31:32 2016]  say: Padawan: fuera del mapa
+[Mon Jan 18 23:31:34 2016]  say: Padawan: xd
+[Mon Jan 18 23:31:45 2016]  say: Padawan: le dijiste a jose ya?
+[Mon Jan 18 23:31:49 2016]  say: Padawan: jose
+[Mon Jan 18 23:31:51 2016]  say: Padawan: vuelve a las 9
+[Mon Jan 18 23:31:55 2016]  say: Padawan: y aparte de los lazer
+[Mon Jan 18 23:31:56 2016]  say: Padawan: que era?
+[Mon Jan 18 23:32:01 2016]  say: Padawan: 1 duelo
+[Mon Jan 18 23:32:04 2016]  say: Padawan: y 1 duelo de force
+[Mon Jan 18 23:32:04 2016]  say: Padawan: xD
+[Mon Jan 18 23:32:06 2016]  say: Padawan: xD
+[Mon Jan 18 23:32:07 2016]  say: Padawan: NA
+[Mon Jan 18 23:32:08 2016]  say: Padawan: xD
+[Mon Jan 18 23:32:11 2016]  say: Padawan: a la mierda xD
+[Mon Jan 18 23:32:12 2016]  say: Padawan: SE xd
+[Mon Jan 18 23:32:20 2016]  say: Padawan: te dira
+[Mon Jan 18 23:32:22 2016]  say: Padawan: que si perdes
+[Mon Jan 18 23:32:27 2016]  say: Padawan: que te marches
+[Mon Jan 18 23:32:32 2016]  say: Padawan: y no vuelvas
+[Mon Jan 18 23:32:34 2016]  say: Padawan: PERO seguro perdiste
+[Mon Jan 18 23:32:39 2016]  say: Padawan: (? xd
+[Mon Jan 18 23:32:40 2016]  say: Padawan: en la primera si 
+[Mon Jan 18 23:32:44 2016]  say: Padawan: queiro llorar seba xd te juro xd
+[Mon Jan 18 23:32:47 2016]  say: Padawan: xdd
+[Mon Jan 18 23:32:47 2016]  say: Padawan: que lagrimeo xd
+[Mon Jan 18 23:32:53 2016]  say: Padawan: tranquila
+[Mon Jan 18 23:32:56 2016]  say: Padawan: da
+[Mon Jan 18 23:32:57 2016]  say: Padawan: xd
+[Mon Jan 18 23:32:59 2016]  say: Padawan: el lider de ES xd jugara conmigo el dia 20 xd
+[Mon Jan 18 23:32:59 2016]  say: Padawan: no queria decir eso
+[Mon Jan 18 23:33:02 2016]  say: Padawan: hasta entonces
+[Mon Jan 18 23:33:04 2016]  say: Padawan: xd que bien
+[Mon Jan 18 23:33:05 2016]  say: Padawan: desventaja e,e
+[Mon Jan 18 23:33:11 2016]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Mon Jan 18 23:33:19 2016]  say: Padawan: cada vez quieroxd
+[Mon Jan 18 23:33:22 2016]  say: Padawan: pegarme un palo xd
+[Mon Jan 18 23:33:24 2016]  say: Padawan: xd
+[Mon Jan 18 23:33:32 2016]  say: Padawan: te daria un abrazo si pudiera 
+[Mon Jan 18 23:33:35 2016]  say: Padawan: no llores?)
+[Mon Jan 18 23:33:36 2016]  say: Padawan: xd
+[Mon Jan 18 23:33:45 2016]  say: Padawan: la sebolla me hace llorar:c
+[Mon Jan 18 23:33:48 2016]  say: Padawan: xd
+[Mon Jan 18 23:34:26 2016]  say: Padawan: estoy muy angustiada xd
+[Mon Jan 18 23:34:28 2016]  say: Padawan: xd
+[Mon Jan 18 23:34:36 2016]  say: Padawan: ya esta no la haras
+[Mon Jan 18 23:34:40 2016]  say: Padawan: no tenes de que preocuparte
+[Mon Jan 18 23:34:46 2016]  say: Padawan: es que entiendexd
+[Mon Jan 18 23:34:48 2016]  say: Padawan: la force
+[Mon Jan 18 23:34:49 2016]  say: Padawan: para mi xd
+[Mon Jan 18 23:34:52 2016]  say: Padawan: es algo que se practica
+[Mon Jan 18 23:34:56 2016]  say: Padawan: con mucho esfuerzo
+[Mon Jan 18 23:35:05 2016]  say: Padawan: y mas bien 
+[Mon Jan 18 23:35:06 2016]  say: Padawan: yo no soy usuaria de la ligth
+[Mon Jan 18 23:35:10 2016]  say: Padawan: no se aprende de un dia para otro xd
+[Mon Jan 18 23:35:14 2016]  say: Padawan: en realida
+[Mon Jan 18 23:35:18 2016]  say: Padawan: en mi caso si..
+[Mon Jan 18 23:35:22 2016]  say: Padawan: bueno vos sos un caso
+[Mon Jan 18 23:35:24 2016]  say: Padawan: especial xd
+[Mon Jan 18 23:35:33 2016]  say: Padawan: por eso bakura me habia reclutado
+[Mon Jan 18 23:35:35 2016]  say: Padawan: yo tarde
+[Mon Jan 18 23:35:37 2016]  say: Padawan: porque aprendia muy rapido
+[Mon Jan 18 23:35:39 2016]  say: Padawan: porque nunca
+[Mon Jan 18 23:35:43 2016]  say: Padawan: habia jugado force en u nsv de ja+
+[Mon Jan 18 23:35:55 2016]  say: Padawan: siempre era maker
+[Mon Jan 18 23:36:01 2016]  say: Padawan: y estaba acostumbrado ahi
+[Mon Jan 18 23:36:20 2016]  say: Padawan: en maker era facil o se me hacia facil
+[Mon Jan 18 23:36:25 2016]  say: Padawan: ya en ja+ se me complico mas xd
+[Mon Jan 18 23:37:21 2016]  say: Padawan: seba: 
+[Mon Jan 18 23:37:24 2016]  say: Padawan: hare una prueba
+[Mon Jan 18 23:37:26 2016]  say: Padawan: sera facil
+[Mon Jan 18 23:37:30 2016]  say: Padawan: pum 3 lazer
+[Mon Jan 18 23:37:32 2016]  say: Padawan: y 3 duelos
+[Mon Jan 18 23:37:32 2016]  say: Padawan: xD.
+[Mon Jan 18 23:37:38 2016]  say: Padawan: con lo que me facina duelear
+[Mon Jan 18 23:37:47 2016]  say: Padawan: usaba staff? xd
+[Mon Jan 18 23:37:50 2016]  say: Padawan: xd no
+[Mon Jan 18 23:37:52 2016]  say: Padawan: single azul
+[Mon Jan 18 23:38:01 2016]  say: Padawan: en la primera perdi
+[Mon Jan 18 23:38:04 2016]  say: Padawan: por un solo golpe
+[Mon Jan 18 23:38:07 2016]  say: Padawan: que me dio que me hizo bosta
+[Mon Jan 18 23:38:16 2016]  say: Padawan: y fue con blue encima
+[Mon Jan 18 23:38:20 2016]  say: Padawan: ,,,
+[Mon Jan 18 23:38:21 2016]  say: Padawan: me dejo de 
+[Mon Jan 18 23:38:26 2016]  say: Padawan: 200
+[Mon Jan 18 23:38:28 2016]  say: Padawan: a 
+[Mon Jan 18 23:38:29 2016]  say: Padawan: 69
+[Mon Jan 18 23:38:36 2016]  say: Padawan: yo despues le pegue un par
+[Mon Jan 18 23:38:40 2016]  say: Padawan: y me pego otra ves y mori
+[Mon Jan 18 23:38:42 2016]  say: Padawan: lo deje en 
+[Mon Jan 18 23:38:43 2016]  say: Padawan: 60
+[Mon Jan 18 23:38:48 2016]  say: Padawan: despues a la otra
+[Mon Jan 18 23:38:52 2016]  say: Padawan: le gane 
+[Mon Jan 18 23:38:54 2016]  say: Padawan: con 185
+[Mon Jan 18 23:39:03 2016]  say: Padawan: despues en force
+[Mon Jan 18 23:39:06 2016]  say: Padawan: me mato con la que hace jose
+[Mon Jan 18 23:39:12 2016]  say: Padawan: me descuide y me agarro con velocidad xd
+[Mon Jan 18 23:39:14 2016]  say: Padawan: uso la dark xd?
+[Mon Jan 18 23:39:17 2016]  say: Padawan: ahh xdd
+[Mon Jan 18 23:39:20 2016]  say: Padawan: xdd
+[Mon Jan 18 23:39:24 2016]  say: Padawan: ya me asustaba xd
+[Mon Jan 18 23:39:25 2016]  say: Padawan: y despues
+[Mon Jan 18 23:39:29 2016]  say: Padawan: encima tengo que usar
+[Mon Jan 18 23:39:31 2016]  say: Padawan: la ligth
+[Mon Jan 18 23:39:34 2016]  say: Padawan: nose
+[Mon Jan 18 23:39:35 2016]  say: Padawan: la ptm...
+[Mon Jan 18 23:39:39 2016]  say: Padawan: jose te dijo que tenes que usar light?
+[Mon Jan 18 23:39:42 2016]  say: Padawan: a ver
+[Mon Jan 18 23:39:47 2016]  say: Padawan: vas a hablar con yoda
+[Mon Jan 18 23:39:54 2016]  say: Padawan: tu que cuerno crees? xd
+[Mon Jan 18 23:39:57 2016]  say: Padawan: xd
+[Mon Jan 18 23:40:17 2016]  say: Padawan: igual nose si hablare con yoda
+[Mon Jan 18 23:40:19 2016]  say: Padawan: no es seguro encima 
+[Mon Jan 18 23:40:26 2016]  say: Padawan: como
+[Mon Jan 18 23:40:28 2016]  say: Padawan: porque me pregunto
+[Mon Jan 18 23:40:29 2016]  say: Padawan: que no hablaras
+[Mon Jan 18 23:40:31 2016]  say: Padawan: porque queria hablar con yoda
+[Mon Jan 18 23:40:31 2016]  say: Padawan: porque no
+[Mon Jan 18 23:40:37 2016]  say: Padawan: yo le dije
+[Mon Jan 18 23:40:46 2016]  say: Padawan: que tenia dudas y preguntarle un par de cosas
+[Mon Jan 18 23:41:00 2016]  say: Padawan: y me dice tu no quieres aprender lo que nosotros aprendimos
+[Mon Jan 18 23:41:07 2016]  say: Padawan: y yo le digo no solo quiero aclarar mis dudas
+[Mon Jan 18 23:41:13 2016]  say: Padawan: xd
+[Mon Jan 18 23:41:14 2016]  say: Padawan: no me interesa ser el mejor o el peor
+[Mon Jan 18 23:41:20 2016]  say: Padawan: solo hago mi deber y ya
+[Mon Jan 18 23:41:24 2016]  say: Padawan: y me dice
+[Mon Jan 18 23:41:26 2016]  say: Padawan: que buena idea
+[Mon Jan 18 23:41:28 2016]  say: Padawan: entonces tendre que hablar 
+[Mon Jan 18 23:41:31 2016]  say: Padawan: con el maestro yoda 
+[Mon Jan 18 23:41:35 2016]  say: Padawan: angela: haras la prueba no no la hare pero me presento aqui
+[Mon Jan 18 23:41:37 2016]  say: Padawan: xdd
+[Mon Jan 18 23:41:42 2016]  say: Padawan: solo para demostrar que quiero hacer acto de precencia
+[Mon Jan 18 23:41:56 2016]  say: Padawan: no la hare porque mi vida es una prueba 
+[Mon Jan 18 23:42:06 2016]  say: Padawan: y solo queria hablar con yoda
+[Mon Jan 18 23:42:18 2016]  say: Padawan: para quitar cierto peso  que el me sabria responder
+[Mon Jan 18 23:42:37 2016]  say: Padawan: n otengo idea como sea la prueba pero si se que no la hare
+[Mon Jan 18 23:42:41 2016]  say: Padawan: asi que si quiere  vayase
+[Mon Jan 18 23:42:51 2016]  say: Padawan: chab
+[Mon Jan 18 23:42:54 2016]  say: Padawan: no te pongas triste xd 
+[Mon Jan 18 23:43:11 2016]  say: Padawan: te podran haber dicho de todo pero para mi no fuiste nada de eso
+[Mon Jan 18 23:43:23 2016]  say: Padawan: exacto
+[Mon Jan 18 23:43:26 2016]  say: Padawan: me llamaron traidora
+[Mon Jan 18 23:43:30 2016]  say: Padawan: lo se 
+[Mon Jan 18 23:43:36 2016]  say: Padawan: sabes si voy
+[Mon Jan 18 23:43:37 2016]  say: Padawan: no la hare
+[Mon Jan 18 23:43:41 2016]  say: Padawan: para mi sos todo lo contrario 
+[Mon Jan 18 23:43:48 2016]  say: Padawan: sos una heroina para mi xd
+[Mon Jan 18 23:43:49 2016]  say: Padawan: asi en plan te vengo a e,e
+[Mon Jan 18 23:44:02 2016]  say: Padawan: intentare
+[Mon Jan 18 23:44:10 2016]  say: Padawan: hablar con el si puedes ir sin pasar
+[Mon Jan 18 23:44:11 2016]  say: Padawan: no intentes seba
+[Mon Jan 18 23:44:12 2016]  say: Padawan: la prueba xd
+[Mon Jan 18 23:44:15 2016]  say: Padawan: tengo una maravillosa ide axd
+[Mon Jan 18 23:44:18 2016]  ClientConnect: 2
+[Mon Jan 18 23:44:18 2016]  mlog:Player ^7K^0akarot, connected. With IP - 174.64.176.93:29070 
+[Mon Jan 18 23:44:33 2016]  ClientBegin: 2
+[Mon Jan 18 23:44:34 2016]  say: Padawan: a ver xd
+[Mon Jan 18 23:44:35 2016]  tell: Padawan to Padawan: y sabes la tengo porque fui sith xd y tendre ovarios para decirle no xD
+[Mon Jan 18 23:44:44 2016]  tell: Padawan to Padawan: xd
+[Mon Jan 18 23:46:47 2016]  tell: Padawan to Padawan: kate alguna ves hice algo importante por vos?
+[Mon Jan 18 23:47:01 2016]  tell: Padawan to Padawan: Lo digo como amiga o como realista? xd
+[Mon Jan 18 23:47:10 2016]  tell: Padawan to Padawan: se sincera xd
+[Mon Jan 18 23:47:22 2016]  tell: Padawan to Padawan: xd no, siempre fuiste muy chico xd
+[Mon Jan 18 23:47:38 2016]  tell: Padawan to Padawan: y siempre ibas detras de mi xd no me importa xd que sea asi xd
+[Mon Jan 18 23:47:48 2016]  tell: Padawan to Padawan: es mejor no te emtes en lios y tu nombre no se mancha xd
+[Mon Jan 18 23:49:30 2016]  tell: Padawan to Padawan: xd
+[Mon Jan 18 23:49:58 2016]  tell: Padawan to Padawan: y que fue lo que hice para que seas mi amiga xd?
+[Mon Jan 18 23:50:22 2016]  tell: Padawan to Padawan: me ayudaste cuando todos perdieron la esperanza en mi
+[Mon Jan 18 23:50:30 2016]  tell: Padawan to Padawan: (?
+[Mon Jan 18 23:50:46 2016]  tell: Padawan to Padawan: por decirlo asi seguiste tus ideales
+[Mon Jan 18 23:51:04 2016]  tell: Padawan to Padawan: y es muy hermoso ver que alguien piensa por si mismo
+[Mon Jan 18 23:52:14 2016]  say: Padawan: :C
+[Mon Jan 18 23:52:20 2016]  say: ^7K^0akarot: :>
+[Mon Jan 18 23:52:25 2016]  tell: Padawan to Padawan: ahi se conecto jose
+[Mon Jan 18 23:54:08 2016]  tell: Padawan to Padawan: si xd hablo con el xd
+[Mon Jan 18 23:54:15 2016]  tell: Padawan to Padawan: xd
+[Mon Jan 18 23:55:52 2016]  tell: Padawan to Padawan: me hubiese gustado haber echo cosas importantes por vos xd
+[Mon Jan 18 23:56:57 2016]  tell: Padawan to Padawan: jose me dijo el motivo y le dije
+[Mon Jan 18 23:57:04 2016]  tell: Padawan to Padawan: en ese caso mandale mis saludos a yoda xD
+[Mon Jan 18 23:57:13 2016]  tell: Padawan to Padawan: xD
+[Mon Jan 18 23:57:34 2016]  tell: Padawan to Padawan: le diras la verdad de porque no quieres?
+[Tue Jan 19 00:00:26 2016]  tell: Padawan to Padawan: sabes la expresion de conejito de indias cierto?
+[Tue Jan 19 00:01:24 2016]  tell: Padawan to Padawan: xd
+[Tue Jan 19 00:01:30 2016]  tell: Padawan to Padawan: no me acuerdo
+[Tue Jan 19 00:01:50 2016]  tell: Padawan to Padawan: no sere tu conejito de indias : no sere tu experimento tu rata de laboratorio
+[Tue Jan 19 00:02:06 2016]  tell: Padawan to Padawan: eso le dijiste xd?
+[Tue Jan 19 00:07:21 2016]  tell: Padawan to Padawan: cuando te enteres el verdadero significado de la prueba
+[Tue Jan 19 00:07:30 2016]  tell: Padawan to Padawan: te querras pegar un tiro
+[Tue Jan 19 00:07:34 2016]  tell: Padawan to Padawan: xd
+[Tue Jan 19 00:08:37 2016]  tell: Padawan to Padawan: si no voy con yoda nose porque me costo un huevo pasar la prueba de los lasers
+[Tue Jan 19 00:10:11 2016]  tell: Padawan to Padawan: digamos que tu prueba es para ver como el clan enseсa si fracasabas el clan fracasa
+[Tue Jan 19 00:10:26 2016]  tell: Padawan to Padawan: ...
+[Tue Jan 19 00:10:36 2016]  tell: Padawan to Padawan: osea que no era para hablar con yoda?
+[Tue Jan 19 00:12:23 2016]  tell: Padawan to Padawan: nuu
+[Tue Jan 19 00:12:33 2016]  tell: Padawan to Padawan: era para saber como esta el clan xd
+[Tue Jan 19 00:12:41 2016]  tell: Padawan to Padawan: xd
+[Tue Jan 19 00:12:43 2016]  tell: Padawan to Padawan: da pena cierto? ser usado? que se siente? xd
+[Tue Jan 19 00:13:20 2016]  tell: Padawan to Padawan: yo di todo pensando que hablaria con yoda y al final era una prueba para ver como estaba el clan afasf
+[Tue Jan 19 00:13:30 2016]  tell: Padawan to Padawan: bakura dice: porque lloras tanto si todo eso lo sabes xD! yo se q no xdd
+[Tue Jan 19 00:13:55 2016]  tell: Padawan to Padawan: xd
+[Tue Jan 19 00:15:23 2016]  tell: Padawan to Padawan: pero que se siente ser usado xd
+[Tue Jan 19 00:15:29 2016]  tell: Padawan to Padawan: xd
+[Tue Jan 19 00:15:30 2016]  tell: Padawan to Padawan: creo que es tu primera vez xd
+[Tue Jan 19 00:15:32 2016]  tell: Padawan to Padawan: nada gracioso
+[Tue Jan 19 00:15:47 2016]  tell: Padawan to Padawan: vas con una ilusion a buscar respuestas xd
+[Tue Jan 19 00:15:56 2016]  tell: Padawan to Padawan: eso es lo que me da bronca xd
+[Tue Jan 19 00:15:58 2016]  tell: Padawan to Padawan: y te encuentras como ratita de laboratorio xd
+[Tue Jan 19 00:16:17 2016]  tell: Padawan to Padawan: nose si agarrarlo a jose y decirle porque mierda hizo eso xd
+[Tue Jan 19 00:16:26 2016]  tell: Padawan to Padawan: bobo
+[Tue Jan 19 00:16:31 2016]  tell: Padawan to Padawan: jose no fue
+[Tue Jan 19 00:16:36 2016]  tell: Padawan to Padawan: eso es lo peor
+[Tue Jan 19 00:16:40 2016]  tell: Padawan to Padawan: xd
+[Tue Jan 19 00:16:41 2016]  tell: Padawan to Padawan: fue yoda gil
+[Tue Jan 19 00:17:02 2016]  tell: Padawan to Padawan: VISTE YO TE DIJE EL PRIMER DIA Q LO CONOCI QUE NO ME CAIA BIEN E,E
+[Tue Jan 19 00:17:09 2016]  tell: Padawan to Padawan: jaja si me acuerdo
+[Tue Jan 19 00:17:22 2016]  tell: Padawan to Padawan: deberias confiar mas en mi xd o luego terminamos como ratitas xd
+[Tue Jan 19 00:17:28 2016]  tell: Padawan to Padawan: xd
+[Tue Jan 19 00:17:34 2016]  tell: Padawan to Padawan: en la persona que mas confio es en vos
+[Tue Jan 19 00:17:50 2016]  tell: Padawan to Padawan: despues carlos jose y plo
+[Tue Jan 19 00:17:54 2016]  tell: Padawan to Padawan: sabes soy una muy mala influencia xd
+[Tue Jan 19 00:18:00 2016]  tell: Padawan to Padawan: xd
+[Tue Jan 19 00:19:14 2016]  ClientConnect: 3
+[Tue Jan 19 00:19:14 2016]  mlog:Player ^7»^0Exo^1Р^0us^7«, connected. With IP - 64.111.243.214:29070 
+[Tue Jan 19 00:19:15 2016]  tell: Padawan to Padawan: como digo siempre no me arrepiento de haberme echo amigo de vos xd
+[Tue Jan 19 00:19:47 2016]  tell: Padawan to Padawan: xd debes tener cuidado porque el dolor te llevara a la decepcion xd y no podras ser jedi xd
+[Tue Jan 19 00:19:50 2016]  ClientBegin: 3
+[Tue Jan 19 00:20:02 2016]  tell: Padawan to Padawan: xd
+[Tue Jan 19 00:20:11 2016]  say: ^7K^0akarot: ay
+[Tue Jan 19 00:20:14 2016]  say: ^7»^0Exo^1Р^0us^7«: brb ffs
+[Tue Jan 19 00:20:19 2016]  tell: Padawan to Padawan: con el dolor que tuve fue suficiente creo
+[Tue Jan 19 00:20:40 2016]  say: ^7»^0Exo^1Р^0us^7«: kk
+[Tue Jan 19 00:21:13 2016]  say: ^7»^0Exo^1Р^0us^7«: Where is
+[Tue Jan 19 00:21:28 2016]  say: ^7K^0akarot: cantina
+[Tue Jan 19 00:21:30 2016]  say: ^7»^0Exo^1Р^0us^7«: aye
+[Tue Jan 19 00:21:39 2016]  tell: Padawan to Padawan: creme seba xd no voy a fracasar si la algo consegui un entrenador que jugo el mapa e.e
+[Tue Jan 19 00:21:45 2016]  tell: Padawan to Padawan: y paso hasta el nivel 4 ee
+[Tue Jan 19 00:21:49 2016]  say: ^7»^0Exo^1Р^0us^7«: I'm still a floating head?
+[Tue Jan 19 00:21:50 2016]  tell: Padawan to Padawan: xd
+[Tue Jan 19 00:22:01 2016]  say: ^7K^0akarot: with the makermoduel wh it gives you a body lol
+[Tue Jan 19 00:22:02 2016]  tell: Padawan to Padawan: entonces
+[Tue Jan 19 00:22:06 2016]  say: ^7»^0Exo^1Р^0us^7«: wtf xD
+[Tue Jan 19 00:22:06 2016]  tell: Padawan to Padawan: la haras xd?
+[Tue Jan 19 00:22:26 2016]  tell: Padawan to Padawan: quien dice que la hare solo digo que estare preparada xd
+[Tue Jan 19 00:22:31 2016]  say: ^7»^0Exo^1Р^0us^7«: Fuckin want v's up dammot
+[Tue Jan 19 00:22:36 2016]  say: ^7»^0Exo^1Р^0us^7«: augh
+[Tue Jan 19 00:22:52 2016]  say: ^7»^0Exo^1Р^0us^7«: i've still gotta finish up those map_obs, and fix his spawn protection range
+[Tue Jan 19 00:23:04 2016]  say: ^7»^0Exo^1Р^0us^7«: he's wanting it at 1000, which covers the ENTIRE spawn area in the lower hall
+[Tue Jan 19 00:23:06 2016]  say: ^7»^0Exo^1Р^0us^7«: ffs.
+[Tue Jan 19 00:23:26 2016]  tell: Padawan to Padawan: basicamente pedi el dia 22
+[Tue Jan 19 00:23:30 2016]  say: ^7K^0akarot: whats a good fx that leaves a blue trail?
+[Tue Jan 19 00:23:37 2016]  say: ^7»^0Exo^1Р^0us^7«: force/heal2, i'd think
+[Tue Jan 19 00:23:41 2016]  say: ^7»^0Exo^1Р^0us^7«: when it moves it's kinda nice
+[Tue Jan 19 00:23:41 2016]  tell: Padawan to Padawan: y tendre el 20 y 21 para que bakura me ayude (?
+[Tue Jan 19 00:23:44 2016]  tell: Padawan to Padawan: xd
+[Tue Jan 19 00:23:48 2016]  say: ^7»^0Exo^1Р^0us^7«: env/demp2 does good too
+[Tue Jan 19 00:23:49 2016]  tell: Padawan to Padawan: ok mejor
+[Tue Jan 19 00:23:53 2016]  tell: Padawan to Padawan: se que no fallaras
+[Tue Jan 19 00:23:59 2016]  tell: Padawan to Padawan: siempre cree en ti xd
+[Tue Jan 19 00:24:07 2016]  say: ^7K^0akarot: env/demp2 doesnt exist lol
+[Tue Jan 19 00:24:18 2016]  say: ^7»^0Exo^1Р^0us^7«: its demp
+[Tue Jan 19 00:24:22 2016]  say: ^7»^0Exo^1Р^0us^7«: the folder demp, derp
+[Tue Jan 19 00:24:29 2016]  say: ^7»^0Exo^1Р^0us^7«: and its not demp2, its something else
+[Tue Jan 19 00:24:31 2016]  tell: Padawan to Padawan: xd pero no es justo xd que el clan quede en mis manos xd
+[Tue Jan 19 00:24:31 2016]  say: ^7»^0Exo^1Р^0us^7«: idk
+[Tue Jan 19 00:24:36 2016]  tell: Padawan to Padawan: xd
+[Tue Jan 19 00:24:37 2016]  say: ^7»^0Exo^1Р^0us^7«: that one i think
+[Tue Jan 19 00:24:41 2016]  tell: Padawan to Padawan: yo tambien lo senti ahora
+[Tue Jan 19 00:24:43 2016]  say: ^7»^0Exo^1Р^0us^7«: when it moves it trails
+[Tue Jan 19 00:24:58 2016]  tell: Padawan to Padawan: ambos nos quedo eso xd
+[Tue Jan 19 00:25:06 2016]  tell: Padawan to Padawan: si yo la pase vos podes
+[Tue Jan 19 00:25:15 2016]  say: ^7»^0Exo^1Р^0us^7«: no..
+[Tue Jan 19 00:25:23 2016]  tell: Padawan to Padawan: tal vez no sea el mejor aconsejando xd pero hago lo que puedo para ayudarte
+[Tue Jan 19 00:25:26 2016]  say: ^7»^0Exo^1Р^0us^7«: idk then
+[Tue Jan 19 00:25:31 2016]  say: ^7»^0Exo^1Р^0us^7«: there's not a lot of blue ones
+[Tue Jan 19 00:26:00 2016]  say: ^7K^0akarot: here's a challenge
+[Tue Jan 19 00:26:03 2016]  say: ^7»^0Exo^1Р^0us^7«: ?
+[Tue Jan 19 00:26:23 2016]  say: ^7K^0akarot: come up with a way for tripmine lasers to rotate instantly to where you face
+[Tue Jan 19 00:26:29 2016]  tell: Padawan to Padawan: YO Quiero saber que hacia bakura en un mapa jedi xddd
+[Tue Jan 19 00:26:30 2016]  say: ^7K^0akarot: i want to make eye lasers so badly
+[Tue Jan 19 00:26:32 2016]  say: ^7»^0Exo^1Р^0us^7«: /mrotatet is already in the works.
+[Tue Jan 19 00:26:36 2016]  tell: Padawan to Padawan: xD
+[Tue Jan 19 00:26:39 2016]  say: ^7»^0Exo^1Р^0us^7«: ty jragonmaster lel
+[Tue Jan 19 00:26:40 2016]  tell: Padawan to Padawan: misterio de la fuerza?)
+[Tue Jan 19 00:26:47 2016]  say: ^7K^0akarot: he's making it?
+[Tue Jan 19 00:26:48 2016]  say: ^7K^0akarot: :O
+[Tue Jan 19 00:26:50 2016]  tell: Padawan to Padawan: o talvez fue un jedi y lo uso que se yo xd
+[Tue Jan 19 00:26:50 2016]  say: ^7»^0Exo^1Р^0us^7«: yeah
+[Tue Jan 19 00:26:51 2016]  tell: Padawan to Padawan: xdd se
+[Tue Jan 19 00:26:56 2016]  say: ^7»^0Exo^1Р^0us^7«: it was already made in proxymod 2.0
+[Tue Jan 19 00:26:59 2016]  say: ^7»^0Exo^1Р^0us^7«: but spior lost it
+[Tue Jan 19 00:27:00 2016]  say: ^7K^0akarot: !!!
+[Tue Jan 19 00:27:04 2016]  say: ^7K^0akarot: damn it
+[Tue Jan 19 00:27:05 2016]  tell: Padawan to Padawan: xdd puede ser que eso jamas xddd
+[Tue Jan 19 00:27:07 2016]  say: ^7»^0Exo^1Р^0us^7«: yeah
+[Tue Jan 19 00:27:10 2016]  tell: Padawan to Padawan: xdd
+[Tue Jan 19 00:27:11 2016]  say: ^7»^0Exo^1Р^0us^7«: i was wanting it too
+[Tue Jan 19 00:27:13 2016]  tell: Padawan to Padawan: era muy sith?
+[Tue Jan 19 00:27:15 2016]  say: ^7»^0Exo^1Р^0us^7«: i'm also having jrag make /morbit
+[Tue Jan 19 00:27:27 2016]  say: ^7»^0Exo^1Р^0us^7«: where a model/effect rotates around you orbitly like a seeker drone
+[Tue Jan 19 00:27:35 2016]  say: ^7»^0Exo^1Р^0us^7«: bind x.x
+[Tue Jan 19 00:27:45 2016]  tell: Padawan to Padawan: si con sith defines que me defenderia hasta la muerte, y que me ayuda en todo se
+[Tue Jan 19 00:27:46 2016]  tell: Padawan to Padawan: voy a comer xd me esperas o vas a dolby?
+[Tue Jan 19 00:27:47 2016]  say: ^7K^0akarot: X_X
+[Tue Jan 19 00:27:48 2016]  say: ^7»^0Exo^1Р^0us^7«: but it'll also allow the xyz of the angle of orbiting to change
+[Tue Jan 19 00:27:52 2016]  tell: Padawan to Padawan: xd
+[Tue Jan 19 00:27:54 2016]  say: ^7»^0Exo^1Р^0us^7«: so it'll orbit from leg to head, etc.
+[Tue Jan 19 00:27:56 2016]  tell: Padawan to Padawan: voy al dobly
+[Tue Jan 19 00:27:58 2016]  say: Padawan: e,e
+[Tue Jan 19 00:27:59 2016]  tell: Padawan to Padawan: eso no es sith desde mi punto de vista xd
+[Tue Jan 19 00:28:04 2016]  say: ^7»^0Exo^1Р^0us^7«: or left arm to right
+[Tue Jan 19 00:28:05 2016]  say: ^7»^0Exo^1Р^0us^7«: etc.
+[Tue Jan 19 00:28:08 2016]  ClientDisconnect: 0
+[Tue Jan 19 00:28:13 2016]  ClientDisconnect: 1
+[Tue Jan 19 00:28:16 2016]  say: ^7»^0Exo^1Р^0us^7«: i came up with that one
+[Tue Jan 19 00:28:20 2016]  say: ^7»^0Exo^1Р^0us^7«: just imagine the flight glitch
+[Tue Jan 19 00:28:35 2016]  say: ^7»^0Exo^1Р^0us^7«: with water effects, wind, fire, earth spinning at different angles around you
+[Tue Jan 19 00:28:41 2016]  say: ^7»^0Exo^1Р^0us^7«: and you just launch each one individually
+[Tue Jan 19 00:28:43 2016]  say: ^7»^0Exo^1Р^0us^7«: <3
+[Tue Jan 19 00:29:11 2016]  say: ^7K^0akarot: just remembered the scale xD
+[Tue Jan 19 00:29:14 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 00:29:22 2016]  say: ^7»^0Exo^1Р^0us^7«: idk if i've told you
+[Tue Jan 19 00:29:24 2016]  say: ^7»^0Exo^1Р^0us^7«: but a buddha mode
+[Tue Jan 19 00:29:29 2016]  say: ^7»^0Exo^1Р^0us^7«: with build boxes
+[Tue Jan 19 00:29:40 2016]  say: ^7K^0akarot: o:
+[Tue Jan 19 00:29:41 2016]  say: ^7»^0Exo^1Р^0us^7«: no one can kill you or build in them
+[Tue Jan 19 00:29:48 2016]  say: ^7»^0Exo^1Р^0us^7«: unless you do /mallowbuild <other player>
+[Tue Jan 19 00:29:54 2016]  say: ^7»^0Exo^1Р^0us^7«: and on top of that
+[Tue Jan 19 00:30:05 2016]  say: ^7»^0Exo^1Р^0us^7«: the box is defaultly like 500 meters
+[Tue Jan 19 00:30:13 2016]  say: ^7»^0Exo^1Р^0us^7«: but, the more players you add, the higher the size
+[Tue Jan 19 00:30:25 2016]  say: ^7»^0Exo^1Р^0us^7«: like at default, 500. add a player, goes up 30 percent
+[Tue Jan 19 00:30:30 2016]  say: ^7»^0Exo^1Р^0us^7«: etc.
+[Tue Jan 19 00:30:39 2016]  say: ^7»^0Exo^1Р^0us^7«: and placeable...
+[Tue Jan 19 00:30:43 2016]  say: ^7»^0Exo^1Р^0us^7«: spawn locations :D
+[Tue Jan 19 00:30:51 2016]  say: ^7»^0Exo^1Р^0us^7«: brb real quick ff
+[Tue Jan 19 00:30:52 2016]  say: ^7K^0akarot: nice!
+[Tue Jan 19 00:30:53 2016]  say: ^7»^0Exo^1Р^0us^7«: ffs*
+[Tue Jan 19 00:30:57 2016]  say: ^7K^0akarot: k
+[Tue Jan 19 00:32:10 2016]  say: ^7»^0Exo^1Р^0us^7«: but yeah
+[Tue Jan 19 00:32:13 2016]  say: ^7»^0Exo^1Р^0us^7«: is that not omfg
+[Tue Jan 19 00:32:29 2016]  say: ^7»^0Exo^1Р^0us^7«: the boundaries of the box(es) are marked by tripmine glow lines
+[Tue Jan 19 00:32:40 2016]  say: ^7»^0Exo^1Р^0us^7«: and it WILL take all weapons but fists in that box
+[Tue Jan 19 00:32:42 2016]  say: ^7»^0Exo^1Р^0us^7«: like an /mjail
+[Tue Jan 19 00:33:08 2016]  say: ^7»^0Exo^1Р^0us^7«: but the box owner can indeed specify whether he wants weapons or not
+[Tue Jan 19 00:33:16 2016]  say: ^7»^0Exo^1Р^0us^7«: so if he wants a dueling box, for just him and a mate
+[Tue Jan 19 00:33:29 2016]  say: ^7K^0akarot: interesting
+[Tue Jan 19 00:33:31 2016]  say: ^7»^0Exo^1Р^0us^7«: he can make it, sabers only, and only allow the weapons for the players marked
+[Tue Jan 19 00:34:08 2016]  say: ^7»^0Exo^1Р^0us^7«: and he'd place a spawn location or two in the box, so where both players upon death
+[Tue Jan 19 00:34:13 2016]  say: ^7»^0Exo^1Р^0us^7«: will spawn in that buddha box
+[Tue Jan 19 00:34:21 2016]  say: ^7»^0Exo^1Р^0us^7«: instead of server spawn
+[Tue Jan 19 00:34:28 2016]  say: ^7»^0Exo^1Р^0us^7«: so they can fight in peace lol.
+[Tue Jan 19 00:34:30 2016]  say: ^7»^0Exo^1Р^0us^7«: or build
+[Tue Jan 19 00:34:32 2016]  say: ^7»^0Exo^1Р^0us^7«: or script kill
+[Tue Jan 19 00:34:35 2016]  say: ^7»^0Exo^1Р^0us^7«: each other, ofc
+[Tue Jan 19 00:34:42 2016]  say: ^7K^0akarot: would this box be located in a void?
+[Tue Jan 19 00:34:43 2016]  say: ^7»^0Exo^1Р^0us^7«: the box prevents building outside of it if you have a box active
+[Tue Jan 19 00:34:45 2016]  say: ^7»^0Exo^1Р^0us^7«: and yes
+[Tue Jan 19 00:34:51 2016]  say: ^7»^0Exo^1Р^0us^7«: what it does
+[Tue Jan 19 00:34:57 2016]  say: ^7»^0Exo^1Р^0us^7«: is it mark's the client's feet
+[Tue Jan 19 00:35:03 2016]  say: ^7»^0Exo^1Р^0us^7«: and places a 500x500x500 box
+[Tue Jan 19 00:35:17 2016]  say: ^7»^0Exo^1Р^0us^7«: this box buddha's anything that goes in
+[Tue Jan 19 00:35:24 2016]  say: ^7»^0Exo^1Р^0us^7«: it'll disable npc spawns though
+[Tue Jan 19 00:35:42 2016]  say: ^7»^0Exo^1Р^0us^7«: and we'll try to make it where it'll stop moving objects
+[Tue Jan 19 00:35:48 2016]  say: ^7»^0Exo^1Р^0us^7«: like an asteroid that'll crush the players
+[Tue Jan 19 00:35:57 2016]  say: ^7»^0Exo^1Р^0us^7«: though it wouldnt matter, the players in the box are immortal
+[Tue Jan 19 00:36:02 2016]  say: ^7»^0Exo^1Р^0us^7«: but an admin can bypass all of this
+[Tue Jan 19 00:36:14 2016]  say: ^7K^0akarot: hmm
+[Tue Jan 19 00:36:18 2016]  say: ^7»^0Exo^1Р^0us^7«: and can even make the admin buddha box up to 2k in size
+[Tue Jan 19 00:36:29 2016]  say: ^7»^0Exo^1Р^0us^7«: and do w/e they want it to do
+[Tue Jan 19 00:36:30 2016]  say: ^7K^0akarot: this sounds like it would be a great concept for huge voids like on t3_rift
+[Tue Jan 19 00:36:33 2016]  say: ^7»^0Exo^1Р^0us^7«: ikr
+[Tue Jan 19 00:36:35 2016]  say: ^7»^0Exo^1Р^0us^7«: and get this
+[Tue Jan 19 00:36:42 2016]  say: ^7»^0Exo^1Р^0us^7«: i'll make them work on making the boxes
+[Tue Jan 19 00:36:44 2016]  say: ^7»^0Exo^1Р^0us^7«: saveable
+[Tue Jan 19 00:36:49 2016]  say: ^7»^0Exo^1Р^0us^7«: so it'll make an admin-only room
+[Tue Jan 19 00:36:53 2016]  say: ^7»^0Exo^1Р^0us^7«: for meetings
+[Tue Jan 19 00:36:55 2016]  say: ^7»^0Exo^1Р^0us^7«: or such on
+[Tue Jan 19 00:37:12 2016]  say: ^7»^0Exo^1Р^0us^7«: or a player built something amazing in there? save the contents/box in the parameters
+[Tue Jan 19 00:37:18 2016]  say: ^7»^0Exo^1Р^0us^7«: BOOM
+[Tue Jan 19 00:37:42 2016]  say: ^7»^0Exo^1Р^0us^7«: And i just thought of something
+[Tue Jan 19 00:37:47 2016]  say: ^7»^0Exo^1Р^0us^7«: why not make it
+[Tue Jan 19 00:37:53 2016]  say: ^7»^0Exo^1Р^0us^7«: where each box limits object amount
+[Tue Jan 19 00:37:54 2016]  say: ^7»^0Exo^1Р^0us^7«: AND
+[Tue Jan 19 00:38:01 2016]  say: ^7K^0akarot: would an outside player be able to teleport in and out of the box freely at will?
+[Tue Jan 19 00:38:01 2016]  say: ^7»^0Exo^1Р^0us^7«: can be invisible when viewed outside the box
+[Tue Jan 19 00:38:07 2016]  say: ^7K^0akarot: with the module
+[Tue Jan 19 00:38:15 2016]  say: ^7»^0Exo^1Р^0us^7«: probably, just depends on what the box owner specifies
+[Tue Jan 19 00:38:24 2016]  say: ^7»^0Exo^1Р^0us^7«: if they want players banned out of the box, they can
+[Tue Jan 19 00:38:28 2016]  say: ^7»^0Exo^1Р^0us^7«: or kick them out of the buddha box
+[Tue Jan 19 00:38:36 2016]  say: ^7»^0Exo^1Р^0us^7«: with /boxkick
+[Tue Jan 19 00:38:39 2016]  say: ^7»^0Exo^1Р^0us^7«: or /boxban
+[Tue Jan 19 00:38:50 2016]  say: ^7K^0akarot: would the box allow spectators to look inside?
+[Tue Jan 19 00:38:55 2016]  say: ^7»^0Exo^1Р^0us^7«: if specified
+[Tue Jan 19 00:39:04 2016]  say: ^7»^0Exo^1Р^0us^7«: /boxvisible 1/0
+[Tue Jan 19 00:39:07 2016]  say: ^7»^0Exo^1Р^0us^7«: :P
+[Tue Jan 19 00:39:22 2016]  say: ^7»^0Exo^1Р^0us^7«: /boxboundary (no players can enter the box, like a /boxban) 1/0
+[Tue Jan 19 00:39:43 2016]  say: ^7»^0Exo^1Р^0us^7«: god i'm a makermod genius. Just wish i could code this
+[Tue Jan 19 00:39:50 2016]  say: ^7»^0Exo^1Р^0us^7«: but jragon and spior are apparently working on it
+[Tue Jan 19 00:39:52 2016]  say: ^7»^0Exo^1Р^0us^7«: and they both love it
+[Tue Jan 19 00:40:19 2016]  say: ^7K^0akarot: how is this mod not as popular as lugor wtf
+[Tue Jan 19 00:40:22 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 00:40:26 2016]  say: ^7»^0Exo^1Р^0us^7«: and another thing
+[Tue Jan 19 00:40:30 2016]  say: ^7»^0Exo^1Р^0us^7«: i havent told them yet
+[Tue Jan 19 00:40:35 2016]  say: ^7»^0Exo^1Р^0us^7«: but i came up with an admin/module command
+[Tue Jan 19 00:40:49 2016]  say: ^7»^0Exo^1Р^0us^7«: where wherever the cursor aims, an effect will drag on the surface of the map
+[Tue Jan 19 00:41:04 2016]  say: ^7»^0Exo^1Р^0us^7«: thus with /mrotatet and that command, you have a laser with a hit mark =3
+[Tue Jan 19 00:41:16 2016]  say: ^7K^0akarot: thats beast
+[Tue Jan 19 00:41:19 2016]  say: ^7»^0Exo^1Р^0us^7«: ikr
+[Tue Jan 19 00:41:34 2016]  say: ^7»^0Exo^1Р^0us^7«: need to wash a dish, brb
+[Tue Jan 19 00:43:52 2016]  say: ^7»^0Exo^1Р^0us^7«: kk
+[Tue Jan 19 00:44:40 2016]  say: ^7K^0akarot: sec fixing this kamehameha script
+[Tue Jan 19 00:44:59 2016]  say: ^7K^0akarot: decided to go with marm method
+[Tue Jan 19 00:45:02 2016]  say: ^7K^0akarot: cuz fuck mmove
+[Tue Jan 19 00:45:06 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 00:45:11 2016]  say: ^7»^0Exo^1Р^0us^7«: like this...?
+[Tue Jan 19 00:45:16 2016]  say: ^7K^0akarot: yeah
+[Tue Jan 19 00:45:28 2016]  say: ^7»^0Exo^1Р^0us^7«: that wasnt full length btw
+[Tue Jan 19 00:45:33 2016]  say: ^7K^0akarot: ik
+[Tue Jan 19 00:45:33 2016]  say: ^7»^0Exo^1Р^0us^7«: i just like that being my maximum
+[Tue Jan 19 00:45:36 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 00:45:48 2016]  say: ^7K^0akarot: i havent done marm since my first scripts 
+[Tue Jan 19 00:45:50 2016]  say: ^7K^0akarot: lol
+[Tue Jan 19 00:45:57 2016]  say: ^7»^0Exo^1Р^0us^7«: i rarely use it
+[Tue Jan 19 00:46:56 2016]  say: ^7»^0Exo^1Р^0us^7«: btw, mgrabbing annoying for you?
+[Tue Jan 19 00:47:04 2016]  say: ^7K^0akarot: sorta
+[Tue Jan 19 00:47:11 2016]  say: ^7»^0Exo^1Р^0us^7«: jragon's going to make it toggle
+[Tue Jan 19 00:47:15 2016]  say: ^7»^0Exo^1Р^0us^7«: so /mgrabbing off
+[Tue Jan 19 00:47:17 2016]  say: ^7»^0Exo^1Р^0us^7«: /mgrabbing on
+[Tue Jan 19 00:47:19 2016]  say: ^7»^0Exo^1Р^0us^7«: ;D
+[Tue Jan 19 00:47:30 2016]  say: ^7»^0Exo^1Р^0us^7«: or 1/0
+[Tue Jan 19 00:49:06 2016]  say: ^7»^0Exo^1Р^0us^7«: starting marm is too close
+[Tue Jan 19 00:49:10 2016]  say: ^7»^0Exo^1Р^0us^7«: too far*
+[Tue Jan 19 00:49:17 2016]  say: ^7»^0Exo^1Р^0us^7«: it's only lasting like 3 ft
+[Tue Jan 19 00:50:02 2016]  say: ^7»^0Exo^1Р^0us^7«: trying to come up with powers
+[Tue Jan 19 00:50:05 2016]  say: ^7»^0Exo^1Р^0us^7«: not getting shit.
+[Tue Jan 19 00:50:14 2016]  say: ^7»^0Exo^1Р^0us^7«: still short
+[Tue Jan 19 00:51:02 2016]  say: ^7K^0akarot: thats the max marm though
+[Tue Jan 19 00:51:08 2016]  say: ^7K^0akarot: might not be letting the fx last enough
+[Tue Jan 19 00:51:25 2016]  say: ^7»^0Exo^1Р^0us^7«: well i mean it's starting position from your hands is too far out
+[Tue Jan 19 00:51:31 2016]  say: ^7»^0Exo^1Р^0us^7«: what do you ahve it as?
+[Tue Jan 19 00:51:40 2016]  say: ^7K^0akarot: initial marm is 30
+[Tue Jan 19 00:51:51 2016]  say: ^7»^0Exo^1Р^0us^7«: hmph, maybe the fx marker is too high
+[Tue Jan 19 00:51:57 2016]  say: ^7»^0Exo^1Р^0us^7«: so it's fading too early
+[Tue Jan 19 00:53:09 2016]  say: ^7»^0Exo^1Р^0us^7«: that seemed much better
+[Tue Jan 19 00:53:20 2016]  say: ^7K^0akarot: lengthend the wait time
+[Tue Jan 19 00:53:24 2016]  say: ^7»^0Exo^1Р^0us^7«: that'd do it
+[Tue Jan 19 00:53:26 2016]  say: ^7K^0akarot: from 10 to 30
+[Tue Jan 19 00:54:29 2016]  say: ^7K^0akarot: if i had rotatet i could probably do one of the beam fx's
+[Tue Jan 19 00:54:44 2016]  say: ^7K^0akarot: and maybe cheese it with markt
+[Tue Jan 19 00:54:50 2016]  say: ^7»^0Exo^1Р^0us^7«: yeah
+[Tue Jan 19 00:55:03 2016]  say: ^7K^0akarot: idea
+[Tue Jan 19 00:55:19 2016]  say: ^7»^0Exo^1Р^0us^7«: ?
+[Tue Jan 19 00:55:20 2016]  say: ^7K^0akarot: make command to mark a certain fx
+[Tue Jan 19 00:55:26 2016]  say: ^7K^0akarot: so explosion transitions could be better
+[Tue Jan 19 00:55:31 2016]  say: ^7»^0Exo^1Р^0us^7«: so like
+[Tue Jan 19 00:55:38 2016]  say: ^7»^0Exo^1Р^0us^7«: if fx is at location, mark fx location
+[Tue Jan 19 00:55:43 2016]  say: ^7K^0akarot: yeah
+[Tue Jan 19 00:55:45 2016]  say: ^7»^0Exo^1Р^0us^7«: nice
+[Tue Jan 19 00:55:54 2016]  say: ^7K^0akarot: say i name it ''ball1''
+[Tue Jan 19 00:56:05 2016]  say: ^7K^0akarot: should be like markfx ball1
+[Tue Jan 19 00:56:06 2016]  say: ^7»^0Exo^1Р^0us^7«: /markfx ball1
+[Tue Jan 19 00:56:08 2016]  say: ^7K^0akarot: yeah
+[Tue Jan 19 00:56:11 2016]  say: ^7»^0Exo^1Р^0us^7«: damn we good
+[Tue Jan 19 00:57:53 2016]  say: ^7K^0akarot: need moar dramatic explosion
+[Tue Jan 19 00:58:05 2016]  say: ^7K^0akarot: actually
+[Tue Jan 19 00:58:07 2016]  say: ^7K^0akarot: nvm
+[Tue Jan 19 00:58:34 2016]  say: ^7K^0akarot: i have another idea
+[Tue Jan 19 00:58:47 2016]  say: ^7K^0akarot: how do i make an fx knock back someone, but dont cause them pain
+[Tue Jan 19 00:58:55 2016]  say: ^7»^0Exo^1Р^0us^7«: /mjumpp
+[Tue Jan 19 00:59:06 2016]  say: ^7K^0akarot: would it work while moving?
+[Tue Jan 19 00:59:10 2016]  say: ^7»^0Exo^1Р^0us^7«: set it high enough they'll fly. and no.
+[Tue Jan 19 00:59:22 2016]  say: ^7»^0Exo^1Р^0us^7«: but do waits to stop the marm and use an mdrop
+[Tue Jan 19 00:59:27 2016]  say: ^7»^0Exo^1Р^0us^7«: then apply the jump
+[Tue Jan 19 00:59:31 2016]  say: ^7»^0Exo^1Р^0us^7«: then /mgrab and repeat
+[Tue Jan 19 00:59:45 2016]  say: ^7»^0Exo^1Р^0us^7«: move,drop,jump,grab,move+
+[Tue Jan 19 01:00:14 2016]  say: ^7»^0Exo^1Р^0us^7«: brb
+[Tue Jan 19 01:00:38 2016]  say: ^7K^0akarot: hmm
+[Tue Jan 19 01:00:42 2016]  say: ^7K^0akarot: ill try it on a dummy script
+[Tue Jan 19 01:01:14 2016]  say: ^7K^0akarot: :<
+[Tue Jan 19 01:02:20 2016]  say: ^7»^0Exo^1Р^0us^7«: kk
+[Tue Jan 19 01:02:33 2016]  say: ^7»^0Exo^1Р^0us^7«: HA!
+[Tue Jan 19 01:02:44 2016]  say: ^7K^0akarot: does it look smooth?
+[Tue Jan 19 01:02:45 2016]  say: ^7»^0Exo^1Р^0us^7«: looked nearly fluid, too
+[Tue Jan 19 01:02:48 2016]  say: ^7»^0Exo^1Р^0us^7«: nearly
+[Tue Jan 19 01:02:51 2016]  say: ^7»^0Exo^1Р^0us^7«: just a pinch of timing
+[Tue Jan 19 01:06:20 2016]  say: ^7K^0akarot: ._.
+[Tue Jan 19 01:06:28 2016]  say: ^7»^0Exo^1Р^0us^7«: looked fluid, bit slow, but didn't apply
+[Tue Jan 19 01:06:36 2016]  say: ^7»^0Exo^1Р^0us^7«: you want it like this:
+[Tue Jan 19 01:07:58 2016]  say: ^7»^0Exo^1Р^0us^7«: MUUUCH better
+[Tue Jan 19 01:08:01 2016]  say: ^7»^0Exo^1Р^0us^7«: i'd think it's good
+[Tue Jan 19 01:08:15 2016]  say: ^7»^0Exo^1Р^0us^7«: just increase the amount of marms
+[Tue Jan 19 01:08:22 2016]  say: ^7»^0Exo^1Р^0us^7«: if you're moving it by 25 each, try 10-15
+[Tue Jan 19 01:08:49 2016]  say: ^7»^0Exo^1Р^0us^7«: but add more arms
+[Tue Jan 19 01:08:51 2016]  say: ^7»^0Exo^1Р^0us^7«: def
+[Tue Jan 19 01:08:54 2016]  say: ^7»^0Exo^1Р^0us^7«: then call it good
+[Tue Jan 19 01:08:58 2016]  say: ^7»^0Exo^1Р^0us^7«: the timing, everything is fine
+[Tue Jan 19 01:09:22 2016]  say: ^7»^0Exo^1Р^0us^7«: Believe it or not, this advice i was giving you was enough to tick dinnertime enough to rq
+[Tue Jan 19 01:09:29 2016]  say: ^7»^0Exo^1Р^0us^7«: nearly every time
+[Tue Jan 19 01:11:25 2016]  say: ^7K^0akarot: i put max marm to 250
+[Tue Jan 19 01:11:31 2016]  say: ^7»^0Exo^1Р^0us^7«: nice
+[Tue Jan 19 01:11:45 2016]  say: ^7»^0Exo^1Р^0us^7«: too slow now lel.
+[Tue Jan 19 01:11:59 2016]  say: ^7K^0akarot: it would probably do better with ontimer
+[Tue Jan 19 01:12:03 2016]  say: ^7»^0Exo^1Р^0us^7«: definitelyt
+[Tue Jan 19 01:12:08 2016]  say: ^7»^0Exo^1Р^0us^7«:  augh binds
+[Tue Jan 19 01:12:12 2016]  say: ^7»^0Exo^1Р^0us^7«: got the module?
+[Tue Jan 19 01:12:21 2016]  say: ^7K^0akarot: yeah
+[Tue Jan 19 01:12:25 2016]  say: ^7»^0Exo^1Р^0us^7«: good, good
+[Tue Jan 19 01:13:38 2016]  say: ^7»^0Exo^1Р^0us^7«: too short of max length
+[Tue Jan 19 01:13:46 2016]  say: ^7»^0Exo^1Р^0us^7«: but seems to be good timing
+[Tue Jan 19 01:16:02 2016]  say: ^7K^0akarot: hmm
+[Tue Jan 19 01:16:06 2016]  say: ^7K^0akarot: increased to 400
+[Tue Jan 19 01:16:07 2016]  say: ^7»^0Exo^1Р^0us^7«: ?
+[Tue Jan 19 01:16:08 2016]  say: ^7»^0Exo^1Р^0us^7«: ah
+[Tue Jan 19 01:16:21 2016]  say: ^7»^0Exo^1Р^0us^7«: Nice
+[Tue Jan 19 01:16:35 2016]  say: ^7»^0Exo^1Р^0us^7«: no complaints
+[Tue Jan 19 01:16:37 2016]  say: ^7»^0Exo^1Р^0us^7«: :P
+[Tue Jan 19 01:16:49 2016]  say: ^7K^0akarot: first succesful kamehameha script ever lol
+[Tue Jan 19 01:17:04 2016]  say: ^7K^0akarot: previous ones were mmove gimmicks lol
+[Tue Jan 19 01:17:10 2016]  say: ^7»^0Exo^1Р^0us^7«: like that?
+[Tue Jan 19 01:17:15 2016]  say: ^7K^0akarot: yeah lol
+[Tue Jan 19 01:17:27 2016]  say: ^7»^0Exo^1Р^0us^7«: ka me..
+[Tue Jan 19 01:17:30 2016]  say: ^7»^0Exo^1Р^0us^7«: ha me..
+[Tue Jan 19 01:17:31 2016]  say: ^7»^0Exo^1Р^0us^7«: HAAAA
+[Tue Jan 19 01:17:34 2016]  say: ^7»^0Exo^1Р^0us^7«: hue.
+[Tue Jan 19 01:17:41 2016]  say: ^7K^0akarot: separate binds?
+[Tue Jan 19 01:17:44 2016]  say: ^7»^0Exo^1Р^0us^7«: two binds
+[Tue Jan 19 01:17:46 2016]  say: ^7»^0Exo^1Р^0us^7«: but one button
+[Tue Jan 19 01:17:50 2016]  say: ^7»^0Exo^1Р^0us^7«: uses a loop function
+[Tue Jan 19 01:18:07 2016]  say: ^7»^0Exo^1Р^0us^7«: i use q to exec my vstr scripts, and use the inside scripts to redirect
+[Tue Jan 19 01:18:16 2016]  say: ^7»^0Exo^1Р^0us^7«: that way it always goes to q
+[Tue Jan 19 01:18:21 2016]  say: ^7»^0Exo^1Р^0us^7«: and never fucks up my script lines.
+[Tue Jan 19 01:20:01 2016]  say: ^7K^0akarot: do that again
+[Tue Jan 19 01:20:02 2016]  say: ^7»^0Exo^1Р^0us^7«: dat range tho
+[Tue Jan 19 01:20:19 2016]  say: ^7K^0akarot: hmm
+[Tue Jan 19 01:20:43 2016]  say: ^7»^0Exo^1Р^0us^7«: Hue
+[Tue Jan 19 01:20:50 2016]  say: ^7K^0akarot: invisible pendulum?
+[Tue Jan 19 01:20:55 2016]  say: ^7»^0Exo^1Р^0us^7«: Not invisible
+[Tue Jan 19 01:20:57 2016]  say: ^7»^0Exo^1Р^0us^7«: just inside-out
+[Tue Jan 19 01:21:04 2016]  say: ^7»^0Exo^1Р^0us^7«: at -10.25
+[Tue Jan 19 01:21:05 2016]  say: ^7»^0Exo^1Р^0us^7«: i think.
+[Tue Jan 19 01:21:09 2016]  say: ^7»^0Exo^1Р^0us^7«: lemme see.
+[Tue Jan 19 01:21:10 2016]  say: ^7K^0akarot: ah
+[Tue Jan 19 01:21:30 2016]  say: ^7»^0Exo^1Р^0us^7«: 10.25
+[Tue Jan 19 01:21:31 2016]  say: ^7»^0Exo^1Р^0us^7«: falcon
+[Tue Jan 19 01:22:00 2016]  say: ^7K^0akarot: derp
+[Tue Jan 19 01:22:35 2016]  say: ^7»^0Exo^1Р^0us^7«: That fuckin thing i spawned is one of the few things that can actually kill me
+[Tue Jan 19 01:22:40 2016]  say: ^7»^0Exo^1Р^0us^7«: i need to replace it but out of ideas xD
+[Tue Jan 19 01:23:08 2016]  Kill: 1022 3 0: <world> killed ^7»^0Exo^1Р^0us^7« by MOD_UNKNOWN
+[Tue Jan 19 01:23:10 2016]  say: ^7K^0akarot: how do you make a looping script?
+[Tue Jan 19 01:23:11 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 01:23:16 2016]  say: ^7»^0Exo^1Р^0us^7«: very simple
+[Tue Jan 19 01:23:25 2016]  say: ^7»^0Exo^1Р^0us^7«: you bind <key> to a script
+[Tue Jan 19 01:23:41 2016]  say: ^7»^0Exo^1Р^0us^7«: at the end of the script, if it has to exec another, at the end of it, put the /bind <key> again
+[Tue Jan 19 01:24:03 2016]  say: ^7»^0Exo^1Р^0us^7«: lemme steam you an example
+[Tue Jan 19 01:24:47 2016]  say: ^7»^0Exo^1Р^0us^7«: those are my portal script.
+[Tue Jan 19 01:24:55 2016]  say: ^7»^0Exo^1Р^0us^7«: watch.
+[Tue Jan 19 01:25:15 2016]  say: ^7»^0Exo^1Р^0us^7«: O_O
+[Tue Jan 19 01:25:20 2016]  say: ^7K^0akarot: xD
+[Tue Jan 19 01:25:22 2016]  say: ^7»^0Exo^1Р^0us^7«: No portals for you then xD
+[Tue Jan 19 01:25:31 2016]  Kill: 2 3 37: ^7K^0akarot killed ^7»^0Exo^1Р^0us^7« by MOD_TELEFRAG
+[Tue Jan 19 01:25:32 2016]  say: ^7»^0Exo^1Р^0us^7«: AUGH
+[Tue Jan 19 01:25:34 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 01:25:35 2016]  say: ^7K^0akarot: LOL
+[Tue Jan 19 01:28:50 2016]  say: ^7»^0Exo^1Р^0us^7«: Mine's smokier ;D
+[Tue Jan 19 01:28:58 2016]  say: ^7K^0akarot: i need to make a super saiyan 3 script
+[Tue Jan 19 01:29:00 2016]  say: ^7K^0akarot: lol
+[Tue Jan 19 01:29:02 2016]  say: ^7»^0Exo^1Р^0us^7«: Lel
+[Tue Jan 19 01:29:11 2016]  say: ^7K^0akarot: my last one would make the server lag
+[Tue Jan 19 01:29:19 2016]  say: ^7K^0akarot: during the transformation
+[Tue Jan 19 01:29:22 2016]  say: ^7K^0akarot: just slightly
+[Tue Jan 19 01:29:25 2016]  say: ^7K^0akarot: for added effect xD
+[Tue Jan 19 01:29:27 2016]  say: ^7»^0Exo^1Р^0us^7«: Check out this transition
+[Tue Jan 19 01:29:50 2016]  say: ^7»^0Exo^1Р^0us^7«: if i flame-on after that, it'll lag us xD
+[Tue Jan 19 01:30:22 2016]  say: ^7K^0akarot: i gotta make that screeching blast 
+[Tue Jan 19 01:30:26 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 01:30:31 2016]  say: ^7»^0Exo^1Р^0us^7«: def marm on that one
+[Tue Jan 19 01:30:33 2016]  say: ^7K^0akarot: was scolling through some anims last night
+[Tue Jan 19 01:30:35 2016]  say: ^7»^0Exo^1Р^0us^7«: but the range.. augh
+[Tue Jan 19 01:31:05 2016]  say: ^7K^0akarot: oooh
+[Tue Jan 19 01:31:08 2016]  say: ^7K^0akarot: how about
+[Tue Jan 19 01:31:21 2016]  say: ^7K^0akarot: for the chargeup, ill make it sound like a howler
+[Tue Jan 19 01:31:26 2016]  say: ^7»^0Exo^1Р^0us^7«: nice
+[Tue Jan 19 01:31:58 2016]  say: ^7K^0akarot: that
+[Tue Jan 19 01:32:04 2016]  say: ^7»^0Exo^1Р^0us^7«: yeah, definitely
+[Tue Jan 19 01:32:09 2016]  say: ^7»^0Exo^1Р^0us^7«: NO
+[Tue Jan 19 01:32:11 2016]  say: ^7»^0Exo^1Р^0us^7«: a tram o_O
+[Tue Jan 19 01:32:40 2016]  say: ^7K^0akarot: that?
+[Tue Jan 19 01:32:49 2016]  say: ^7»^0Exo^1Р^0us^7«: yeah, but a little different
+[Tue Jan 19 01:32:53 2016]  say: ^7»^0Exo^1Р^0us^7«: there's the whoosh files.
+[Tue Jan 19 01:33:25 2016]  say: ^7K^0akarot: most of them after 12 sound like its submerged underwater
+[Tue Jan 19 01:33:29 2016]  say: ^7»^0Exo^1Р^0us^7«: ikr
+[Tue Jan 19 01:33:50 2016]  say: ^7»^0Exo^1Р^0us^7«: screechers are obtained from pig squeals, so there's more life in it
+[Tue Jan 19 01:33:55 2016]  say: ^7»^0Exo^1Р^0us^7«: than a moving ball of energy
+[Tue Jan 19 01:34:18 2016]  say: ^7K^0akarot: ooh
+[Tue Jan 19 01:34:21 2016]  say: ^7K^0akarot: i think i got it
+[Tue Jan 19 01:34:36 2016]  say: ^7»^0Exo^1Р^0us^7«: That'll do it lol
+[Tue Jan 19 01:34:45 2016]  say: ^7»^0Exo^1Р^0us^7«: and if you use a trick i like using
+[Tue Jan 19 01:34:49 2016]  say: ^7»^0Exo^1Р^0us^7«: then it'll make sound as it moves
+[Tue Jan 19 01:34:52 2016]  say: ^7»^0Exo^1Р^0us^7«: not at player location
+[Tue Jan 19 01:35:02 2016]  Kill: 3 3 36: ^7»^0Exo^1Р^0us^7« killed ^7»^0Exo^1Р^0us^7« by MOD_CRUSH
+[Tue Jan 19 01:35:04 2016]  say: ^7»^0Exo^1Р^0us^7«: Ow.
+[Tue Jan 19 01:35:11 2016]  say: ^7»^0Exo^1Р^0us^7«: the sound goes where the lightning is
+[Tue Jan 19 01:35:16 2016]  say: ^7»^0Exo^1Р^0us^7«: not the actual effect sound.
+[Tue Jan 19 01:35:42 2016]  say: ^7»^0Exo^1Р^0us^7«: brb real quick
+[Tue Jan 19 01:35:55 2016]  say: ^7K^0akarot: im not 100 sure waht you use for your sound tricks
+[Tue Jan 19 01:37:16 2016]  say: ^7K^0akarot: look
+[Tue Jan 19 01:37:26 2016]  say: ^7»^0Exo^1Р^0us^7«: kk
+[Tue Jan 19 01:37:32 2016]  say: ^7»^0Exo^1Р^0us^7«: nice lel
+[Tue Jan 19 01:37:48 2016]  say: ^7»^0Exo^1Р^0us^7«: i think i'm also going to have jrag fix the mattachfx delays
+[Tue Jan 19 01:38:15 2016]  say: ^7»^0Exo^1Р^0us^7«: but to explain what i do for the sound tricks
+[Tue Jan 19 01:38:28 2016]  say: ^7»^0Exo^1Р^0us^7«: is i have a tripmine at the cursor'd effect that emits the sound
+[Tue Jan 19 01:38:38 2016]  say: ^7»^0Exo^1Р^0us^7«: and i have one at my torso that's touchable that activates the emitter
+[Tue Jan 19 01:38:42 2016]  say: ^7»^0Exo^1Р^0us^7«: so i remote control the sound
+[Tue Jan 19 01:38:48 2016]  say: ^7»^0Exo^1Р^0us^7«: you'll just never see either tripmines
+[Tue Jan 19 01:38:50 2016]  say: ^7»^0Exo^1Р^0us^7«: here's an example
+[Tue Jan 19 01:38:58 2016]  say: ^7»^0Exo^1Р^0us^7«: remember my slender remap/sound scripts?
+[Tue Jan 19 01:39:10 2016]  say: ^7K^0akarot: yeah
+[Tue Jan 19 01:39:20 2016]  say: ^7»^0Exo^1Р^0us^7«: That sound is locational by where i'm aiming
+[Tue Jan 19 01:39:25 2016]  say: ^7»^0Exo^1Р^0us^7«: so i'll be up on those mountains
+[Tue Jan 19 01:39:29 2016]  say: ^7»^0Exo^1Р^0us^7«: and you'll hear it RIGHT BEHIND YOU
+[Tue Jan 19 01:39:31 2016]  say: ^7»^0Exo^1Р^0us^7«: SCARRRY
+[Tue Jan 19 01:39:32 2016]  say: ^7»^0Exo^1Р^0us^7«: lel.
+[Tue Jan 19 01:39:51 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 01:40:01 2016]  say: ^7»^0Exo^1Р^0us^7«: it uses /markt
+[Tue Jan 19 01:40:12 2016]  say: ^7»^0Exo^1Р^0us^7«: i'll give you the slender sound to give you an example.
+[Tue Jan 19 01:40:33 2016]  say: ^7»^0Exo^1Р^0us^7«: There ye go
+[Tue Jan 19 01:40:33 2016]  say: ^7K^0akarot: i love this taunt
+[Tue Jan 19 01:40:37 2016]  say: ^7»^0Exo^1Р^0us^7«: do it again
+[Tue Jan 19 01:40:49 2016]  say: ^7»^0Exo^1Р^0us^7«: Lel
+[Tue Jan 19 01:41:06 2016]  say: ^7»^0Exo^1Р^0us^7«: i hate having to hold down tab
+[Tue Jan 19 01:41:10 2016]  say: ^7»^0Exo^1Р^0us^7«: just for skin changes.
+[Tue Jan 19 01:41:19 2016]  say: ^7K^0akarot: defer player models off in options
+[Tue Jan 19 01:41:22 2016]  say: ^7»^0Exo^1Р^0us^7«: i do
+[Tue Jan 19 01:41:36 2016]  say: ^7»^0Exo^1Р^0us^7«: try it again
+[Tue Jan 19 01:41:44 2016]  say: ^7»^0Exo^1Р^0us^7«: hmph, that actually fixed it
+[Tue Jan 19 01:41:48 2016]  say: ^7»^0Exo^1Р^0us^7«: i turned it on
+[Tue Jan 19 01:41:49 2016]  say: ^7»^0Exo^1Р^0us^7«: wtf.
+[Tue Jan 19 01:41:50 2016]  say: ^7»^0Exo^1Р^0us^7«: ...
+[Tue Jan 19 01:42:03 2016]  say: ^7»^0Exo^1Р^0us^7«: oh, no, misread it
+[Tue Jan 19 01:42:04 2016]  say: ^7»^0Exo^1Р^0us^7«: it's off
+[Tue Jan 19 01:42:05 2016]  say: ^7»^0Exo^1Р^0us^7«: x'D
+[Tue Jan 19 01:42:08 2016]  say: ^7K^0akarot: lol
+[Tue Jan 19 01:42:49 2016]  say: ^7»^0Exo^1Р^0us^7«: bit of mess up on those fx's i see xD
+[Tue Jan 19 01:42:49 2016]  say: ^7K^0akarot: spawners ftl
+[Tue Jan 19 01:43:11 2016]  say: ^7»^0Exo^1Р^0us^7«: God, i remember the slender gamemode i made
+[Tue Jan 19 01:43:22 2016]  say: ^7»^0Exo^1Р^0us^7«: the pages on trees, the foggy atmosphere, my slender remap
+[Tue Jan 19 01:43:31 2016]  say: ^7»^0Exo^1Р^0us^7«: the teleportation with the teleport fx remapped off..
+[Tue Jan 19 01:43:34 2016]  say: ^7»^0Exo^1Р^0us^7«: loved it <3
+[Tue Jan 19 01:43:42 2016]  say: ^7»^0Exo^1Р^0us^7«: the sound
+[Tue Jan 19 01:43:43 2016]  say: ^7»^0Exo^1Р^0us^7«: the static
+[Tue Jan 19 01:43:44 2016]  say: ^7»^0Exo^1Р^0us^7«: omfg
+[Tue Jan 19 01:43:48 2016]  say: ^7»^0Exo^1Р^0us^7«: i loved the static
+[Tue Jan 19 01:43:54 2016]  say: ^7»^0Exo^1Р^0us^7«: pissed ppl off xD
+[Tue Jan 19 01:44:21 2016]  say: ^7»^0Exo^1Р^0us^7«: I still have that static remap too
+[Tue Jan 19 01:44:22 2016]  say: ^7K^0akarot: LOL
+[Tue Jan 19 01:44:25 2016]  say: ^7K^0akarot: lol*
+[Tue Jan 19 01:44:32 2016]  say: ^7K^0akarot: nice
+[Tue Jan 19 01:44:38 2016]  say: ^7K^0akarot: should add to v's 
+[Tue Jan 19 01:44:52 2016]  say: ^7»^0Exo^1Р^0us^7«: well the problem is
+[Tue Jan 19 01:44:57 2016]  say: ^7»^0Exo^1Р^0us^7«: every time you shoot a concussion
+[Tue Jan 19 01:45:00 2016]  say: ^7»^0Exo^1Р^0us^7«: it'll static rape you
+[Tue Jan 19 01:45:02 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 01:45:16 2016]  say: ^7K^0akarot: oh
+[Tue Jan 19 01:45:20 2016]  say: ^7K^0akarot: rip headphone users?
+[Tue Jan 19 01:45:25 2016]  say: ^7»^0Exo^1Р^0us^7«: no, eye users
+[Tue Jan 19 01:45:26 2016]  say: ^7»^0Exo^1Р^0us^7«: hue.
+[Tue Jan 19 01:45:33 2016]  say: ^7K^0akarot: o god
+[Tue Jan 19 01:45:35 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 01:45:45 2016]  say: ^7»^0Exo^1Р^0us^7«: but i'd do it at a certain range if i was close by
+[Tue Jan 19 01:45:55 2016]  say: ^7»^0Exo^1Р^0us^7«: and you'd see slight static and a slender man hiding in the distance
+[Tue Jan 19 01:45:59 2016]  say: ^7»^0Exo^1Р^0us^7«: was hilarious
+[Tue Jan 19 01:46:24 2016]  say: ^7»^0Exo^1Р^0us^7«: If i caught you i'd make you see a LOT of static, then force you to respawn after a flash of blinding red
+[Tue Jan 19 01:46:26 2016]  say: ^7»^0Exo^1Р^0us^7«: was epic.
+[Tue Jan 19 01:47:12 2016]  say: ^7K^0akarot: that would be creepy af
+[Tue Jan 19 01:47:14 2016]  say: ^7»^0Exo^1Р^0us^7«: I observed ppl finding the pages by watching. If you found a page, a flame would appear over them
+[Tue Jan 19 01:47:24 2016]  say: ^7»^0Exo^1Р^0us^7«: thus setting the flames ''on fire'' when found
+[Tue Jan 19 01:47:28 2016]  say: ^7»^0Exo^1Р^0us^7«: you'd use them :P
+[Tue Jan 19 01:47:43 2016]  say: ^7»^0Exo^1Р^0us^7«: when I saw that all 8 were activated, the players won
+[Tue Jan 19 01:47:58 2016]  say: ^7»^0Exo^1Р^0us^7«: and me being an ass, i'd make it difficult as shit, even with a lot of players xD
+[Tue Jan 19 01:48:09 2016]  say: ^7»^0Exo^1Р^0us^7«: so i'd be at slender lvl 7 hue.
+[Tue Jan 19 01:48:37 2016]  say: ^7»^0Exo^1Р^0us^7«: When someone'd find a page, i'd haunt them down with that sound and a bit of static
+[Tue Jan 19 01:48:42 2016]  say: ^7»^0Exo^1Р^0us^7«: then i'd speed up the sounds...
+[Tue Jan 19 01:48:54 2016]  say: ^7»^0Exo^1Р^0us^7«: Then kill =3
+[Tue Jan 19 01:49:07 2016]  say: ^7»^0Exo^1Р^0us^7«: Tusken came up with the idea, i finished it up lel
+[Tue Jan 19 01:50:27 2016]  say: ^7K^0akarot: we need to get tusken back
+[Tue Jan 19 01:50:30 2016]  say: ^7K^0akarot: into makermod
+[Tue Jan 19 01:51:06 2016]  say: ^7»^0Exo^1Р^0us^7«: ikr
+[Tue Jan 19 01:51:38 2016]  say: ^7K^0akarot: hmm
+[Tue Jan 19 01:51:49 2016]  say: ^7K^0akarot: you have any overexaggerated powerup scripts?
+[Tue Jan 19 01:52:13 2016]  say: ^7»^0Exo^1Р^0us^7«: not really
+[Tue Jan 19 01:52:17 2016]  say: ^7»^0Exo^1Р^0us^7«: i removed those
+[Tue Jan 19 01:52:22 2016]  say: ^7»^0Exo^1Р^0us^7«: might be in blackdragon though
+[Tue Jan 19 01:52:24 2016]  say: ^7»^0Exo^1Р^0us^7«: ^0Black^1dragon^3 ^7Beginning ^3script by ^1THE ^7»^0Exo^1Р^0us^7«^3!!
+[Tue Jan 19 01:52:29 2016]  say: ^7»^0Exo^1Р^0us^7«: Protect me!!
+[Tue Jan 19 01:52:32 2016]  say: ^7»^0Exo^1Р^0us^7«: hmph
+[Tue Jan 19 01:52:33 2016]  say: ^7»^0Exo^1Р^0us^7«: nope.
+[Tue Jan 19 01:52:42 2016]  say: ^7»^0Exo^1Р^0us^7«: Attack, BEAST!!
+[Tue Jan 19 01:52:46 2016]  say: ^7»^0Exo^1Р^0us^7«: ah shit
+[Tue Jan 19 01:52:47 2016]  say: ^7K^0akarot: xD
+[Tue Jan 19 01:53:16 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 01:53:20 2016]  Kill: 3 3 39: ^7»^0Exo^1Р^0us^7« killed ^7»^0Exo^1Р^0us^7« by MOD_SUICIDE
+[Tue Jan 19 01:53:34 2016]  say: ^7»^0Exo^1Р^0us^7«: nope, i don't
+[Tue Jan 19 01:53:57 2016]  say: ^7K^0akarot: i have yet to find a good use for markoffset
+[Tue Jan 19 01:54:01 2016]  say: ^7K^0akarot: besides a sprit bomb
+[Tue Jan 19 01:54:04 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 01:54:23 2016]  say: ^7»^0Exo^1Р^0us^7«: I don't remember what i used it for
+[Tue Jan 19 01:54:24 2016]  say: ^7»^0Exo^1Р^0us^7«: tbh.
+[Tue Jan 19 01:54:28 2016]  say: ^7»^0Exo^1Р^0us^7«: but i did like it
+[Tue Jan 19 01:54:33 2016]  say: ^7»^0Exo^1Р^0us^7«: brb
+[Tue Jan 19 01:56:18 2016]  say: ^7»^0Exo^1Р^0us^7«: aight, imma cook some dinner and take a shower, so i'll be back within the hour
+[Tue Jan 19 01:57:39 2016]  say: ^7K^0akarot: okie
+[Tue Jan 19 02:03:55 2016]  Kill: 2 3 2: ^7K^0akarot killed ^7»^0Exo^1Р^0us^7« by MOD_MELEE
+[Tue Jan 19 02:34:00 2016]  say: ^7»^0Exo^1Р^0us^7«: kkkk
+[Tue Jan 19 02:34:00 2016]  say: ^7»^0Exo^1Р^0us^7«: kkk
+[Tue Jan 19 02:34:01 2016]  say: ^7»^0Exo^1Р^0us^7«: kk
+[Tue Jan 19 02:34:02 2016]  say: ^7»^0Exo^1Р^0us^7«: k
+[Tue Jan 19 02:34:13 2016]  say: ^7K^0akarot: wb
+[Tue Jan 19 02:34:17 2016]  say: ^7»^0Exo^1Р^0us^7«: tyty
+[Tue Jan 19 02:34:26 2016]  say: ^7K^0akarot: fixed lightning
+[Tue Jan 19 02:34:39 2016]  say: ^7»^0Exo^1Р^0us^7«: i'm at cantin
+[Tue Jan 19 02:34:42 2016]  say: ^7»^0Exo^1Р^0us^7«: cantina*
+[Tue Jan 19 02:34:43 2016]  say: ^7»^0Exo^1Р^0us^7«: ffs
+[Tue Jan 19 02:34:49 2016]  say: ^7»^0Exo^1Р^0us^7«: Nice
+[Tue Jan 19 02:34:51 2016]  say: ^7»^0Exo^1Р^0us^7«: much better
+[Tue Jan 19 02:34:57 2016]  say: ^7»^0Exo^1Р^0us^7«: but spammy with the little poppers thought
+[Tue Jan 19 02:35:00 2016]  say: ^7»^0Exo^1Р^0us^7«: though*
+[Tue Jan 19 02:35:32 2016]  say: ^7»^0Exo^1Р^0us^7«: wanna saber fight
+[Tue Jan 19 02:35:39 2016]  say: ^7»^0Exo^1Р^0us^7«: No dueling though
+[Tue Jan 19 02:35:41 2016]  say: ^7»^0Exo^1Р^0us^7«: fuck dat shit
+[Tue Jan 19 02:36:17 2016]  say: ^7K^0akarot: nah im good
+[Tue Jan 19 02:36:25 2016]  say: ^7K^0akarot: i wanna chill with sabers 
+[Tue Jan 19 02:36:33 2016]  say: ^7»^0Exo^1Р^0us^7«: lel, likewise
+[Tue Jan 19 02:36:33 2016]  say: ^7K^0akarot: pwned to many bads on japlus
+[Tue Jan 19 02:36:36 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 02:36:37 2016]  say: ^7K^0akarot: gets boring
+[Tue Jan 19 02:36:47 2016]  say: ^7»^0Exo^1Р^0us^7«: I haven't saber fought in i dont even know how long
+[Tue Jan 19 02:36:54 2016]  say: ^7»^0Exo^1Р^0us^7«: specially since i went sorcerery only
+[Tue Jan 19 02:36:56 2016]  say: ^7»^0Exo^1Р^0us^7«: lol
+[Tue Jan 19 02:37:15 2016]  say: ^7»^0Exo^1Р^0us^7«: I love it when a noob comes in
+[Tue Jan 19 02:37:26 2016]  say: ^7»^0Exo^1Р^0us^7«: and they don't realize how much of a veteran you are
+[Tue Jan 19 02:37:36 2016]  say: ^7»^0Exo^1Р^0us^7«: so they're just like '' if you're so cool, then duel mah''
+[Tue Jan 19 02:37:52 2016]  say: ^7»^0Exo^1Р^0us^7«: and you're just like, ''yeah, sure'' *zap
+[Tue Jan 19 02:37:54 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 02:38:00 2016]  say: ^7K^0akarot: lol
+[Tue Jan 19 02:38:03 2016]  say: ^7K^0akarot: right?
+[Tue Jan 19 02:38:23 2016]  say: ^7»^0Exo^1Р^0us^7«: That happened the other day with one of those members from that
+[Tue Jan 19 02:38:29 2016]  say: ^7»^0Exo^1Р^0us^7«: spanish/portuguese clan
+[Tue Jan 19 02:38:35 2016]  say: ^7»^0Exo^1Р^0us^7«: that pervades the (us) servers
+[Tue Jan 19 02:38:51 2016]  say: ^7K^0akarot: JNC or some shit?
+[Tue Jan 19 02:38:53 2016]  say: ^7»^0Exo^1Р^0us^7«: yeah
+[Tue Jan 19 02:39:00 2016]  say: ^7»^0Exo^1Р^0us^7«: Then fuckin earlier today at my lunch break
+[Tue Jan 19 02:39:04 2016]  say: ^7»^0Exo^1Р^0us^7«: i'm sitting here with dq
+[Tue Jan 19 02:39:08 2016]  say: ^7»^0Exo^1Р^0us^7«: and a guy comes in
+[Tue Jan 19 02:39:09 2016]  say: ^7»^0Exo^1Р^0us^7«: and goes:
+[Tue Jan 19 02:39:11 2016]  say: ^7»^0Exo^1Р^0us^7«: Exodus
+[Tue Jan 19 02:39:14 2016]  say: ^7»^0Exo^1Р^0us^7«: Exodus, hi
+[Tue Jan 19 02:39:20 2016]  say: ^7»^0Exo^1Р^0us^7«: me, Hi, what do you want
+[Tue Jan 19 02:39:22 2016]  say: ^7»^0Exo^1Р^0us^7«: Exodus
+[Tue Jan 19 02:39:26 2016]  say: ^7»^0Exo^1Р^0us^7«: What..?
+[Tue Jan 19 02:39:33 2016]  say: ^7»^0Exo^1Р^0us^7«: Exo, come to Jenova servers
+[Tue Jan 19 02:39:41 2016]  say: ^7»^0Exo^1Р^0us^7«: offs. >_<*
+[Tue Jan 19 02:39:47 2016]  say: ^7K^0akarot: lol
+[Tue Jan 19 02:40:04 2016]  say: ^7K^0akarot: i cannot get into lugormod 
+[Tue Jan 19 02:40:09 2016]  say: ^7K^0akarot: idk i just cant be arsed to do it
+[Tue Jan 19 02:40:13 2016]  say: ^7»^0Exo^1Р^0us^7«: I tried it
+[Tue Jan 19 02:40:15 2016]  say: ^7»^0Exo^1Р^0us^7«: legit tried
+[Tue Jan 19 02:40:20 2016]  say: ^7»^0Exo^1Р^0us^7«: and it's like i turned into a genie
+[Tue Jan 19 02:40:24 2016]  say: ^7»^0Exo^1Р^0us^7«: i had the ability to use powers
+[Tue Jan 19 02:40:36 2016]  say: ^7»^0Exo^1Р^0us^7«: but i was locked in the damned lamp until someone made me use them
+[Tue Jan 19 02:40:36 2016]  say: ^7»^0Exo^1Р^0us^7«: ffs.
+[Tue Jan 19 02:40:54 2016]  say: ^7»^0Exo^1Р^0us^7«: came in at lvl 1 (like, wtf), and couldnt do shit
+[Tue Jan 19 02:40:56 2016]  say: ^7»^0Exo^1Р^0us^7«: but sit around
+[Tue Jan 19 02:40:58 2016]  say: ^7»^0Exo^1Р^0us^7«: and be bored af
+[Tue Jan 19 02:41:11 2016]  say: ^7»^0Exo^1Р^0us^7«: i talk to the admins, make connections with Disaster
+[Tue Jan 19 02:41:14 2016]  say: ^7»^0Exo^1Р^0us^7«: and he give me lvl 3
+[Tue Jan 19 02:41:18 2016]  say: ^7»^0Exo^1Р^0us^7«: and i'm like hmm, interesting
+[Tue Jan 19 02:41:22 2016]  say: ^7»^0Exo^1Р^0us^7«: still sucks balls.
+[Tue Jan 19 02:41:26 2016]  say: ^7»^0Exo^1Р^0us^7«: he's like wtf do you mean
+[Tue Jan 19 02:41:31 2016]  say: ^7»^0Exo^1Р^0us^7«: i said cmere, to joe's =3
+[Tue Jan 19 02:41:39 2016]  say: ^7»^0Exo^1Р^0us^7«: went there, and showed potential
+[Tue Jan 19 02:41:43 2016]  say: ^7»^0Exo^1Р^0us^7«: and he's like ''eh''
+[Tue Jan 19 02:42:01 2016]  say: ^7»^0Exo^1Р^0us^7«: Damned lugors.
+[Tue Jan 19 02:42:02 2016]  say: ^7»^0Exo^1Р^0us^7«: ._.
+[Tue Jan 19 02:42:21 2016]  say: ^7K^0akarot: its too rpg like, not sand box-y enough for me
+[Tue Jan 19 02:42:28 2016]  say: ^7»^0Exo^1Р^0us^7«: yeah, and with makermod
+[Tue Jan 19 02:42:43 2016]  say: ^7»^0Exo^1Р^0us^7«: it's practically illegal community-wise if a server doesn't even allow /noclip xD
+[Tue Jan 19 02:42:56 2016]  say: ^7K^0akarot: we have the scale shit tho
+[Tue Jan 19 02:43:04 2016]  say: ^7K^0akarot: but yeah
+[Tue Jan 19 02:43:05 2016]  say: ^7K^0akarot: i agree
+[Tue Jan 19 02:43:06 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 02:43:09 2016]  say: ^7K^0akarot: gotta have noclip
+[Tue Jan 19 02:43:26 2016]  say: ^7»^0Exo^1Р^0us^7«: admitedly though, with makermod, it requires actual skill, so not a lot of ppl connect with it
+[Tue Jan 19 02:43:33 2016]  say: ^7»^0Exo^1Р^0us^7«: while lugor's prebuilt lego's
+[Tue Jan 19 02:43:33 2016]  say: ^7»^0Exo^1Р^0us^7«: ffs.
+[Tue Jan 19 02:44:24 2016]  say: ^7»^0Exo^1Р^0us^7«: it babies the players with what they call ''building'', when that's only admin based
+[Tue Jan 19 02:44:36 2016]  say: ^7»^0Exo^1Р^0us^7«: when in reality, it's all about ppl sitting around, activating terminals
+[Tue Jan 19 02:44:41 2016]  say: ^7»^0Exo^1Р^0us^7«: and being bored out of their ass.
+[Tue Jan 19 02:44:42 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 02:44:47 2016]  say: ^7K^0akarot: pretty much
+[Tue Jan 19 02:44:54 2016]  say: ^7K^0akarot: jkg is a better take 
+[Tue Jan 19 02:45:00 2016]  say: ^7»^0Exo^1Р^0us^7«: jkg?
+[Tue Jan 19 02:45:11 2016]  say: ^7K^0akarot: its an mmo mod for jka
+[Tue Jan 19 02:45:14 2016]  say: ^7»^0Exo^1Р^0us^7«: hmm
+[Tue Jan 19 02:45:21 2016]  say: ^7K^0akarot: it was supposed to mirror star wars galaxies
+[Tue Jan 19 02:45:27 2016]  say: ^7»^0Exo^1Р^0us^7«: oh wait, i tried to dl that once
+[Tue Jan 19 02:45:37 2016]  say: ^7»^0Exo^1Р^0us^7«: fuckin jk3.file had that file error dl bug
+[Tue Jan 19 02:45:43 2016]  say: ^7»^0Exo^1Р^0us^7«: so i never got to try it lel
+[Tue Jan 19 02:46:00 2016]  say: ^7K^0akarot: i might have it in my 62 gb database folder
+[Tue Jan 19 02:46:11 2016]  say: ^7K^0akarot: they dont label thse mods well enough
+[Tue Jan 19 02:46:12 2016]  say: ^7»^0Exo^1Р^0us^7«: didn't it change models and stuff to be more ''hd''?
+[Tue Jan 19 02:46:12 2016]  say: ^7K^0akarot: jesus
+[Tue Jan 19 02:46:31 2016]  say: ^7K^0akarot: yeah 
+[Tue Jan 19 02:46:37 2016]  say: ^7K^0akarot: much more high def
+[Tue Jan 19 02:46:42 2016]  say: ^7K^0akarot: redesigned gun combat
+[Tue Jan 19 02:46:54 2016]  say: ^7K^0akarot: and theres supposed to be better saber combat
+[Tue Jan 19 02:46:58 2016]  say: ^7»^0Exo^1Р^0us^7«: hmm
+[Tue Jan 19 02:47:01 2016]  say: ^7K^0akarot: but i havent seen it since it got released 4 yrs ago
+[Tue Jan 19 02:47:06 2016]  say: ^7»^0Exo^1Р^0us^7«: ikr
+[Tue Jan 19 02:47:19 2016]  say: ^7K^0akarot: its so underrated and the modeers waste alot of time with it
+[Tue Jan 19 02:47:26 2016]  say: ^7»^0Exo^1Р^0us^7«: lol
+[Tue Jan 19 02:47:36 2016]  say: ^7»^0Exo^1Р^0us^7«: i've been modeling/modding for skyrim, i need to do stuff for jka
+[Tue Jan 19 02:47:42 2016]  say: ^7»^0Exo^1Р^0us^7«: i just need to find the modding materials
+[Tue Jan 19 02:47:44 2016]  say: ^7»^0Exo^1Р^0us^7«: /tools
+[Tue Jan 19 02:47:53 2016]  say: ^7K^0akarot: at this point, they need to just remake the damn game xD
+[Tue Jan 19 02:47:54 2016]  say: ^7»^0Exo^1Р^0us^7«: i've got milkshape, but that's it
+[Tue Jan 19 02:47:57 2016]  say: ^7»^0Exo^1Р^0us^7«: ikr
+[Tue Jan 19 02:48:01 2016]  say: ^7K^0akarot: or do standalone mods like half life 
+[Tue Jan 19 02:48:05 2016]  say: ^7»^0Exo^1Р^0us^7«: yeah
+[Tue Jan 19 02:48:05 2016]  say: ^7K^0akarot: like what half life modders did
+[Tue Jan 19 02:48:14 2016]  say: ^7»^0Exo^1Р^0us^7«: fuckin black mesa <3
+[Tue Jan 19 02:48:19 2016]  say: ^7K^0akarot: ^
+[Tue Jan 19 02:48:29 2016]  say: ^7»^0Exo^1Р^0us^7«: that was omfg after i tried the original
+[Tue Jan 19 02:48:40 2016]  say: ^7»^0Exo^1Р^0us^7«: fuck that end boss though
+[Tue Jan 19 02:48:41 2016]  say: ^7»^0Exo^1Р^0us^7«: jesus.
+[Tue Jan 19 02:48:55 2016]  say: ^7K^0akarot: jesus
+[Tue Jan 19 02:49:00 2016]  say: ^7K^0akarot: across the damn map
+[Tue Jan 19 02:49:02 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 02:49:14 2016]  say: ^7»^0Exo^1Р^0us^7«: that explosion was tailored by kiryu
+[Tue Jan 19 02:49:19 2016]  say: ^7»^0Exo^1Р^0us^7«: which kills me in one hit X_X
+[Tue Jan 19 02:49:31 2016]  say: ^7K^0akarot: someone needs to make a beerus model
+[Tue Jan 19 02:49:42 2016]  say: ^7»^0Exo^1Р^0us^7«: I could, i think. I've never tried to make a humanoid
+[Tue Jan 19 02:49:46 2016]  say: ^7»^0Exo^1Р^0us^7«: i'm good at weapons though
+[Tue Jan 19 02:49:48 2016]  say: ^7»^0Exo^1Р^0us^7«: really damned good
+[Tue Jan 19 02:49:54 2016]  say: ^7»^0Exo^1Р^0us^7«: lemme find my stuff to put on imgur
+[Tue Jan 19 02:52:04 2016]  say: ^7»^0Exo^1Р^0us^7«: Whatcha think
+[Tue Jan 19 02:52:31 2016]  say: ^7K^0akarot: i like the dagger
+[Tue Jan 19 02:52:35 2016]  say: ^7K^0akarot: its beautiful
+[Tue Jan 19 02:52:46 2016]  say: ^7»^0Exo^1Р^0us^7«: if you didn't read the description i had some help on that one
+[Tue Jan 19 02:52:57 2016]  say: ^7»^0Exo^1Р^0us^7«: i made the model, someone helped me texture/import
+[Tue Jan 19 02:53:05 2016]  say: ^7»^0Exo^1Р^0us^7«: he also taught me how to import and replace meshes
+[Tue Jan 19 02:53:16 2016]  say: ^7»^0Exo^1Р^0us^7«: so i've been passively working on stuff
+[Tue Jan 19 02:54:22 2016]  say: ^7»^0Exo^1Р^0us^7«: So just imagine me making saber hilts
+[Tue Jan 19 02:54:27 2016]  say: ^7»^0Exo^1Р^0us^7«: <which i need to start doing>
+[Tue Jan 19 02:54:36 2016]  say: ^7»^0Exo^1Р^0us^7«: or vehicles x3
+[Tue Jan 19 02:54:45 2016]  say: ^7K^0akarot: yeah since using custom hilts is useful now that razor made it possible
+[Tue Jan 19 02:54:49 2016]  say: ^7K^0akarot: with ja++
+[Tue Jan 19 02:54:50 2016]  say: ^7»^0Exo^1Р^0us^7«: ikr
+[Tue Jan 19 02:56:22 2016]  say: ^7K^0akarot: jesus i need to make that screeching blast script now
+[Tue Jan 19 02:56:27 2016]  say: ^7K^0akarot: i procrastinate like a mf
+[Tue Jan 19 02:57:02 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 02:57:14 2016]  say: ^7K^0akarot: i also should convert my scripts to ontimer
+[Tue Jan 19 02:57:23 2016]  say: ^7K^0akarot: ._.
+[Tue Jan 19 02:58:08 2016]  say: ^7»^0Exo^1Р^0us^7«: definitely
+[Tue Jan 19 02:58:10 2016]  say: ^7»^0Exo^1Р^0us^7«: worth it tbh
+[Tue Jan 19 03:00:41 2016]  say: ^7»^0Exo^1Р^0us^7«: Fucking looking everywhere and i cant find the tools to import to jka
+[Tue Jan 19 03:00:53 2016]  say: ^7»^0Exo^1Р^0us^7«: i have the stuff to convert a saber, but i get errors with .glm's
+[Tue Jan 19 03:01:10 2016]  say: ^7»^0Exo^1Р^0us^7«: but to apply where the beam is, to make it in the game, omfg.
+[Tue Jan 19 03:01:33 2016]  say: ^7K^0akarot: bleh
+[Tue Jan 19 03:01:57 2016]  say: ^7»^0Exo^1Р^0us^7«: i'm so lost ;_;
+[Tue Jan 19 03:04:25 2016]  say: ^7K^0akarot: ylast question
+[Tue Jan 19 03:04:34 2016]  say: ^7K^0akarot: how do i make a script that cancels a looping script?
+[Tue Jan 19 03:05:01 2016]  say: ^7»^0Exo^1Р^0us^7«: hmm..
+[Tue Jan 19 03:05:11 2016]  say: ^7»^0Exo^1Р^0us^7«: have it try to exec something that doesn't exist i think.
+[Tue Jan 19 03:05:26 2016]  say: ^7»^0Exo^1Р^0us^7«: it'd pretty much break it i think
+[Tue Jan 19 03:06:12 2016]  say: ^7K^0akarot: i dont know where would i implement that 
+[Tue Jan 19 03:06:47 2016]  say: ^7»^0Exo^1Р^0us^7«: idk either xD
+[Tue Jan 19 03:09:42 2016]  say: ^7K^0akarot: there needs to be an /mdetachfx
+[Tue Jan 19 03:09:50 2016]  say: ^7»^0Exo^1Р^0us^7«: That would be interesting
+[Tue Jan 19 03:10:06 2016]  say: ^7»^0Exo^1Р^0us^7«: i think you can just /mname the effect before it attaches
+[Tue Jan 19 03:10:10 2016]  say: ^7»^0Exo^1Р^0us^7«: then delete that one, or /mgrab it
+[Tue Jan 19 03:10:15 2016]  say: ^7»^0Exo^1Р^0us^7«: lemme test
+[Tue Jan 19 03:10:49 2016]  say: ^7»^0Exo^1Р^0us^7«: yeah
+[Tue Jan 19 03:10:50 2016]  say: ^7»^0Exo^1Р^0us^7«: that works
+[Tue Jan 19 03:11:01 2016]  say: ^7K^0akarot: the second u drop it, it will reattach
+[Tue Jan 19 03:11:07 2016]  say: ^7»^0Exo^1Р^0us^7«: True...
+[Tue Jan 19 03:11:35 2016]  say: ^7K^0akarot: my idea is for it to detach the fx at its location so it doesnt rubberband when mmoved
+[Tue Jan 19 03:11:44 2016]  say: ^7»^0Exo^1Р^0us^7«: lemme note that
+[Tue Jan 19 03:12:05 2016]  say: ^7»^0Exo^1Р^0us^7«: god, jragon's going to get a big changelog
+[Tue Jan 19 03:12:06 2016]  say: ^7»^0Exo^1Р^0us^7«: xD
+[Tue Jan 19 03:12:29 2016]  say: ^7K^0akarot: ikr?
+[Tue Jan 19 03:14:04 2016]  say: ^7»^0Exo^1Р^0us^7«: found one of the modding tools
+[Tue Jan 19 03:14:09 2016]  say: ^7»^0Exo^1Р^0us^7«: hope it's what i need
+[Tue Jan 19 03:18:46 2016]  say: ^7»^0Exo^1Р^0us^7«: ah shit, i gtg mang
+[Tue Jan 19 03:18:49 2016]  say: ^7»^0Exo^1Р^0us^7«: i'll have to catch up later
+[Tue Jan 19 03:19:01 2016]  say: ^7K^0akarot: alright later dawg
+[Tue Jan 19 03:19:05 2016]  say: ^7»^0Exo^1Р^0us^7«: ;D
+[Tue Jan 19 03:19:06 2016]  ClientDisconnect: 3
+[Tue Jan 19 03:20:30 2016]  ClientDisconnect: 2
+[Tue Jan 19 10:15:37 2016]  ClientConnect: 0
+[Tue Jan 19 10:15:37 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Jan 19 10:15:57 2016]  ClientBegin: 0
+[Tue Jan 19 10:16:05 2016]  Item: 0 weapon_melee
+[Tue Jan 19 10:30:42 2016]  ClientDisconnect: 0
+[Tue Jan 19 10:32:27 2016]  ClientConnect: 0
+[Tue Jan 19 10:32:27 2016]  mlog:Player Padawan, connected. With IP - 212.252.99.185:18449 
+[Tue Jan 19 10:32:48 2016]  ClientBegin: 0
+[Tue Jan 19 10:33:25 2016]  ClientDisconnect: 0
+[Tue Jan 19 12:57:03 2016]  ClientConnect: 0
+[Tue Jan 19 12:57:03 2016]  mlog:Player Top Gamer, connected. With IP - 46.188.125.95:5404 
+[Tue Jan 19 12:57:04 2016]  ClientConnect: 1
+[Tue Jan 19 12:57:04 2016]  mlog:Player Padawan, connected. With IP - 91.76.58.143:29070 
+[Tue Jan 19 12:57:24 2016]  ClientBegin: 1
+[Tue Jan 19 12:57:39 2016]  ClientBegin: 0
+[Tue Jan 19 12:58:13 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 12:59:28 2016]  Kill: 1 0 5: Padawan killed Top Gamer by MOD_BRYAR_PISTOL_ALT
+[Tue Jan 19 12:59:56 2016]  Kill: 0 1 3: Top Gamer killed Padawan by MOD_SABER
+[Tue Jan 19 13:00:18 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:00:30 2016]  Kill: 0 1 3: Top Gamer killed Padawan by MOD_SABER
+[Tue Jan 19 13:01:14 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:01:42 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:02:02 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:02:27 2016]  Kill: 0 1 3: Top Gamer killed Padawan by MOD_SABER
+[Tue Jan 19 13:02:42 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:03:21 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:03:59 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:04:09 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:05:03 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:05:41 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:05:48 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:05:56 2016]  Kill: 0 1 3: Top Gamer killed Padawan by MOD_SABER
+[Tue Jan 19 13:06:23 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:06:35 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:06:58 2016]  Kill: 0 1 3: Top Gamer killed Padawan by MOD_SABER
+[Tue Jan 19 13:08:06 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:08:17 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:08:37 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:09:05 2016]  Kill: 0 1 3: Top Gamer killed Padawan by MOD_SABER
+[Tue Jan 19 13:11:30 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:11:45 2016]  Kill: 0 1 31: Top Gamer killed Padawan by MOD_FORCE_DARK
+[Tue Jan 19 13:13:00 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:13:15 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:13:56 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:14:30 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:16:19 2016]  Kill: 1 0 5: Padawan killed Top Gamer by MOD_BRYAR_PISTOL_ALT
+[Tue Jan 19 13:16:55 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:17:10 2016]  Kill: 1 0 3: Padawan killed Top Gamer by MOD_SABER
+[Tue Jan 19 13:19:21 2016]  Kill: 0 1 3: Top Gamer killed Padawan by MOD_SABER
+[Tue Jan 19 13:19:29 2016]  ClientDisconnect: 1
+[Tue Jan 19 13:19:33 2016]  ClientDisconnect: 0
+[Tue Jan 19 14:20:18 2016]  ClientConnect: 0
+[Tue Jan 19 14:20:18 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Tue Jan 19 14:20:39 2016]  ClientBegin: 0
+[Tue Jan 19 14:20:46 2016]  Item: 0 weapon_melee
+[Tue Jan 19 14:23:22 2016]  ClientConnect: 1
+[Tue Jan 19 14:23:22 2016]  mlog:Player Inariel, connected. With IP - 5.18.54.91:29070 
+[Tue Jan 19 14:24:40 2016]  ClientBegin: 1
+[Tue Jan 19 14:24:51 2016]  Item: 1 weapon_melee
+[Tue Jan 19 14:25:17 2016]  say: Inariel: и посадил деде репку... хд
+[Tue Jan 19 14:25:26 2016]  say: Inariel: выросла репка большая прибольшая... хд
+[Tue Jan 19 14:26:02 2016]  say: Inariel: прикольно хд
+[Tue Jan 19 14:26:07 2016]  say: ^0Shadow^5seer: ага
+[Tue Jan 19 14:26:24 2016]  say: Inariel:  хотя дракон... хм.... похоже, будет он хочет крякнуть хд
+[Tue Jan 19 14:26:45 2016]  say: ^0Shadow^5seer: кого крякнуть?
+[Tue Jan 19 14:26:50 2016]  say: Inariel: кря
+[Tue Jan 19 14:27:29 2016]  say: ^0Shadow^5seer: ты его будто впервые увидела
+[Tue Jan 19 14:27:40 2016]  say: Inariel: просто сейчас в голтву пришло
+[Tue Jan 19 14:27:44 2016]  say: Inariel: я слоупок
+[Tue Jan 19 14:29:04 2016]  say: ^0Shadow^5seer: стоит со светом чето сделать
+[Tue Jan 19 14:29:21 2016]  say: Inariel: зачем?
+[Tue Jan 19 14:30:21 2016]  say: ^0Shadow^5seer: My origin is: (-16770 -3293 1891) - You can teleport here with /mtelelast
+
+[Tue Jan 19 14:30:34 2016]  say: ^0Shadow^5seer: эта штука, на которой сидит дракон, не освещена
+[Tue Jan 19 14:30:47 2016]  say: ^0Shadow^5seer: а на старте она освещалась другими объектами на карте
+[Tue Jan 19 14:31:03 2016]  say: Inariel: а зачем ее освещать? хд
+[Tue Jan 19 14:31:03 2016]  say: ^0Shadow^5seer: так что попробуем источник света разместить в районе его глаз
+[Tue Jan 19 14:31:15 2016]  say: ^0Shadow^5seer: ну а че она как будто с непрогрузившимися текстурами
+[Tue Jan 19 14:32:18 2016]  say: ^0Shadow^5seer: пойдет наверное
+[Tue Jan 19 14:32:36 2016]  say: ^0Shadow^5seer: да, так свет выглядит поестественнее
+[Tue Jan 19 14:32:47 2016]  say: ^0Shadow^5seer: а то раньше источником было основание подставки дракона
+[Tue Jan 19 14:32:51 2016]  say: ^0Shadow^5seer: а оно под землей
+[Tue Jan 19 14:33:11 2016]  say: Inariel: крылья б побольше, хм?...
+[Tue Jan 19 14:33:16 2016]  say: ^0Shadow^5seer: неее
+[Tue Jan 19 14:33:28 2016]  say: ^0Shadow^5seer: куда уж больше то
+[Tue Jan 19 14:33:37 2016]  say: ^0Shadow^5seer: к тому же самого дракона я не переделывал
+[Tue Jan 19 14:33:41 2016]  say: ^0Shadow^5seer: ему уже пол года наверное
+[Tue Jan 19 14:33:48 2016]  say: Inariel: ну, чтоб приобнимали прострнство вокруг трона
+[Tue Jan 19 14:33:51 2016]  say: Inariel:  ну ладно х)
+[Tue Jan 19 14:33:59 2016]  say: ^0Shadow^5seer: буду я еще их направление менять
+[Tue Jan 19 14:34:09 2016]  say: ^0Shadow^5seer: он хвостом обхватывает
+[Tue Jan 19 14:34:13 2016]  say: Inariel: ну я так, в теории
+[Tue Jan 19 14:34:23 2016]  say: ^0Shadow^5seer: это слишком сложно
+[Tue Jan 19 14:34:30 2016]  say: Inariel: ладно
+[Tue Jan 19 14:34:32 2016]  say: ^0Shadow^5seer: сложнее чем делать с нуля
+[Tue Jan 19 14:34:54 2016]  say: Inariel: бля хд
+[Tue Jan 19 14:36:32 2016]  say: Inariel: бля
+[Tue Jan 19 14:36:36 2016]  say: ^0Shadow^5seer: нет, ты не дракон
+[Tue Jan 19 14:36:37 2016]  say: Inariel: забыла азначение клавиш
+[Tue Jan 19 14:36:54 2016]  say: ^0Shadow^5seer: да, теперь у него милые зеленые глазки
+[Tue Jan 19 14:37:10 2016]  say: Inariel: да что з
+[Tue Jan 19 14:37:24 2016]  say: ^0Shadow^5seer: а еще звезда хаоса не загораживает обзор сидя на троне
+[Tue Jan 19 14:37:40 2016]  say: ^0Shadow^5seer: прям богом смерти себя чувствую
+[Tue Jan 19 14:37:41 2016]  say: Inariel: вот, накоеец
+[Tue Jan 19 14:37:47 2016]  say: Inariel: я б сказала
+[Tue Jan 19 14:37:55 2016]  say: Inariel: но ты мной кидаться начнешь хд
+[Tue Jan 19 14:38:17 2016]  say: ^0Shadow^5seer: мне для этого не нужен повод
+[Tue Jan 19 14:38:30 2016]  say: Inariel: хе
+[Tue Jan 19 14:38:43 2016]  say: Inariel: удобное местечко однако
+[Tue Jan 19 14:38:50 2016]  say: ^0Shadow^5seer: в хэллоуинском паке есть еще коса смерти с зелеными огоньками, но ее нет в базе сервера, так что она тут не работает
+[Tue Jan 19 14:39:01 2016]  say: Inariel: эаль
+[Tue Jan 19 14:39:05 2016]  say: Inariel: жаль*
+[Tue Jan 19 14:39:20 2016]  say: Inariel: муха
+[Tue Jan 19 14:39:26 2016]  say: Inariel: по стене ползет кирпич
+[Tue Jan 19 14:39:34 2016]  say: Inariel: он зеленый как варлок
+[Tue Jan 19 14:39:42 2016]  say: Inariel: муха тоже вертолет
+[Tue Jan 19 14:39:50 2016]  say: Inariel: я забыла эту хрень
+[Tue Jan 19 14:40:03 2016]  say: ^0Shadow^5seer: по реке плывет кирпич деревянный как стекло
+[Tue Jan 19 14:40:11 2016]  say: Inariel: да, что-то тип того
+[Tue Jan 19 14:40:38 2016]  say: Inariel: муха, чего ты все летаешь хд
+[Tue Jan 19 14:40:42 2016]  say: ^0Shadow^5seer: пора делать скрипт некроманта
+[Tue Jan 19 14:40:50 2016]  say: Inariel: видимо, пора драпать? хд
+[Tue Jan 19 14:41:01 2016]  say: ^0Shadow^5seer: во
+[Tue Jan 19 14:41:04 2016]  say: ^0Shadow^5seer: вписался
+[Tue Jan 19 14:41:11 2016]  say: Inariel: куда?
+[Tue Jan 19 14:41:16 2016]  say: ^0Shadow^5seer: в обстановку
+[Tue Jan 19 14:41:29 2016]  say: Inariel: о_О
+[Tue Jan 19 14:41:50 2016]  say: ^0Shadow^5seer: а скрипт оборотня так и не видела?
+[Tue Jan 19 14:41:56 2016]  say: Inariel: я ж вроде в нем
+[Tue Jan 19 14:42:00 2016]  say: ^0Shadow^5seer: скриипт
+[Tue Jan 19 14:42:07 2016]  say: Inariel: эээй
+[Tue Jan 19 14:42:17 2016]  say: Inariel: я только попыталась на подлокотник устроится
+[Tue Jan 19 14:42:35 2016]  say: Inariel: ауч
+[Tue Jan 19 14:42:54 2016]  say: ^0Shadow^5seer: несколько особых ударов, ускорение, зов стаи...
+[Tue Jan 19 14:42:58 2016]  say: ^0Shadow^5seer: вроде еще чтото там было
+[Tue Jan 19 14:43:01 2016]  say: Inariel: хм?
+[Tue Jan 19 14:43:05 2016]  say: ^0Shadow^5seer: в скрипте
+[Tue Jan 19 14:43:10 2016]  say: ^0Shadow^5seer: и превращение обратно
+[Tue Jan 19 14:43:18 2016]  say: Inariel: такого у меня вроде нет
+[Tue Jan 19 14:43:23 2016]  say: ^0Shadow^5seer: конечно нет
+[Tue Jan 19 14:43:27 2016]  say: Inariel: :(
+[Tue Jan 19 14:43:41 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Tue Jan 19 14:43:45 2016]  say: Inariel: бугага
+[Tue Jan 19 14:43:49 2016]  say: Inariel: блин
+[Tue Jan 19 14:44:08 2016]  say: ^0Shadow^5seer: ^5Banshee Scream!
+[Tue Jan 19 14:44:24 2016]  say: Inariel: чот как-то не особо хд
+[Tue Jan 19 14:46:24 2016]  say: Inariel: почему постоянно соединение теряется
+[Tue Jan 19 14:46:26 2016]  say: ^0Shadow^5seer: ты висишь
+[Tue Jan 19 14:46:31 2016]  say: ^0Shadow^5seer: это лаги
+[Tue Jan 19 14:46:35 2016]  say: Inariel: а ты кучка ткани хд
+[Tue Jan 19 14:46:39 2016]  say: ^0Shadow^5seer: при врубании скрипта
+[Tue Jan 19 14:46:55 2016]  say: ^0Shadow^5seer: во
+[Tue Jan 19 14:47:00 2016]  say: Inariel: >D
+[Tue Jan 19 14:47:11 2016]  say: ^0Shadow^5seer: криповейшая модель
+[Tue Jan 19 14:47:25 2016]  say: Inariel: рога в проеме не застревают? хд
+[Tue Jan 19 14:47:30 2016]  say: ^0Shadow^5seer: спина
+[Tue Jan 19 14:47:37 2016]  say: Inariel: да, я в нем бегала
+[Tue Jan 19 14:47:39 2016]  say: Inariel: видела
+[Tue Jan 19 14:47:56 2016]  say: Inariel: таврос, ты ли  это
+[Tue Jan 19 14:48:05 2016]  say: Inariel: зомби штурмовик?
+[Tue Jan 19 14:48:05 2016]  say: ^0Shadow^5seer: не, не слышал
+[Tue Jan 19 14:48:12 2016]  say: ^0Shadow^5seer: в этом я бегал раньше много
+[Tue Jan 19 14:48:19 2016]  say: ^0Shadow^5seer: зомбиштурмовики - канон кстати
+[Tue Jan 19 14:48:25 2016]  say: ^0Shadow^5seer: ну был до выхода 7 эпизода
+[Tue Jan 19 14:48:36 2016]  say: Inariel: о_О
+[Tue Jan 19 14:48:40 2016]  say: ^0Shadow^5seer: есть книга про зомбиштурмовиков
+[Tue Jan 19 14:48:49 2016]  say: Inariel: О_о
+[Tue Jan 19 14:48:53 2016]  say: ^0Shadow^5seer: еще они в старой ммо по зв были
+[Tue Jan 19 14:49:10 2016]  say: ^0Shadow^5seer: и это еще фигня. вот зомбиранкоры...
+[Tue Jan 19 14:49:20 2016]  say: Inariel: ранкорм этоооо
+[Tue Jan 19 14:49:23 2016]  say: Inariel: ща, вспомню
+[Tue Jan 19 14:49:29 2016]  say: Inariel: большая хрень?
+[Tue Jan 19 14:49:35 2016]  say: ^0Shadow^5seer: ага
+[Tue Jan 19 14:49:41 2016]  say: ^0Shadow^5seer: большая змобохрень
+[Tue Jan 19 14:49:49 2016]  say: ^0Shadow^5seer: зомбохрень
+[Tue Jan 19 14:50:00 2016]  say: Inariel: зомень
+[Tue Jan 19 14:50:12 2016]  say: Inariel: хремби
+[Tue Jan 19 14:50:33 2016]  say: ^0Shadow^5seer: о, у меня в троне еще и секретная комната есть
+[Tue Jan 19 14:50:42 2016]  say: Inariel: х)
+[Tue Jan 19 14:50:55 2016]  say: Inariel: сделай там сюрприз для случайно попавших хд
+[Tue Jan 19 14:50:58 2016]  say: ^0Shadow^5seer: можно сделать пол и стены, поставить тут что нибудь
+[Tue Jan 19 14:51:05 2016]  say: Inariel: или так
+[Tue Jan 19 14:51:16 2016]  say: Inariel: ....огонеееееек
+[Tue Jan 19 14:51:22 2016]  say: Inariel: ты отвлекаешь от огонька
+[Tue Jan 19 14:52:03 2016]  say: Inariel: и хвост такой в трон упол хд
+[Tue Jan 19 14:52:27 2016]  say: ^0Shadow^5seer: у меня еще гдето был пак с хищниками
+[Tue Jan 19 14:52:34 2016]  say: ^0Shadow^5seer: и их реально много
+[Tue Jan 19 14:52:42 2016]  say: Inariel: а что вот это за фигня
+[Tue Jan 19 14:52:50 2016]  say: ^0Shadow^5seer: ну там разноцветные умертвия
+[Tue Jan 19 14:52:54 2016]  say: Inariel: аааа
+[Tue Jan 19 14:52:57 2016]  say: ^0Shadow^5seer: белая смерть?
+[Tue Jan 19 14:53:10 2016]  say: ^0Shadow^5seer: с черной рожей
+[Tue Jan 19 14:53:26 2016]  say: Inariel: бгг
+[Tue Jan 19 14:53:32 2016]  say: ^0Shadow^5seer: ты на хвосте стоишь?
+[Tue Jan 19 14:53:42 2016]  say: Inariel: хрен знает хд
+[Tue Jan 19 14:53:51 2016]  say: ^0Shadow^5seer: у тебя шея до головы не достает
+[Tue Jan 19 14:54:00 2016]  say: Inariel: мм?
+[Tue Jan 19 14:54:13 2016]  say: ^0Shadow^5seer: голова висит в воздухе, шея до нее не достает
+[Tue Jan 19 14:54:22 2016]  say: ^0Shadow^5seer: вернее достает в одной точке
+[Tue Jan 19 14:54:23 2016]  say: Inariel: я не вижу хд
+[Tue Jan 19 14:54:29 2016]  say: ^0Shadow^5seer: почти безголовый ксеноморф
+[Tue Jan 19 14:55:24 2016]  say: Inariel: о!
+[Tue Jan 19 14:55:27 2016]  say: Inariel: крутяк
+[Tue Jan 19 14:55:29 2016]  say: ^0Shadow^5seer: ага
+[Tue Jan 19 14:55:39 2016]  say: Inariel: я джееек
+[Tue Jan 19 14:55:43 2016]  say: ^0Shadow^5seer: я их всех поотдельности собирал
+[Tue Jan 19 14:55:46 2016]  say: Inariel: повелитель тыыыкв хд
+[Tue Jan 19 14:56:53 2016]  say: ^0Shadow^5seer: тут что этот, что те разноцветные - это перекрашенный палпатин
+[Tue Jan 19 14:57:09 2016]  say: Inariel: о_О
+[Tue Jan 19 14:58:04 2016]  say: ^0Shadow^5seer: оно висит в воздухе =_=
+[Tue Jan 19 14:58:29 2016]  say: Inariel: охепт
+[Tue Jan 19 14:58:30 2016]  say: ^0Shadow^5seer: щас вернусь
+[Tue Jan 19 14:58:37 2016]  say: Inariel: я какая-то хрень
+[Tue Jan 19 15:03:23 2016]  say: ^0Shadow^5seer: ты десанн
+[Tue Jan 19 15:05:05 2016]  say: Inariel: ась
+[Tue Jan 19 15:05:15 2016]  say: ^0Shadow^5seer: имя персонажа
+[Tue Jan 19 15:05:17 2016]  say: ^0Shadow^5seer: десанн
+[Tue Jan 19 15:05:26 2016]  say: Inariel: не, это я уже сменила
+[Tue Jan 19 15:05:32 2016]  say: ^0Shadow^5seer: а, ок
+[Tue Jan 19 15:05:37 2016]  say: ^0Shadow^5seer: а было что?
+[Tue Jan 19 15:05:39 2016]  say: Inariel: до этого там были забавные светящие хрени
+[Tue Jan 19 15:05:54 2016]  say: ^0Shadow^5seer: а, это владелец серва херней пострадал
+[Tue Jan 19 15:06:00 2016]  say: ^0Shadow^5seer: ретекстурнутая стандартная модель
+[Tue Jan 19 15:06:03 2016]  say: Inariel: епт
+[Tue Jan 19 15:06:12 2016]  say: Inariel: я думала у меня что-то
+[Tue Jan 19 15:06:18 2016]  say: ^0Shadow^5seer: ага, вирус
+[Tue Jan 19 15:06:30 2016]  say: Inariel: вот
+[Tue Jan 19 15:06:34 2016]  say: ^0Shadow^5seer: я понял
+[Tue Jan 19 15:06:41 2016]  say: ^0Shadow^5seer: там есть еще одна подобная херь
+[Tue Jan 19 15:06:56 2016]  say: ^0Shadow^5seer: именно
+[Tue Jan 19 15:07:18 2016]  say: Inariel: что это за мигающие штуковины
+[Tue Jan 19 15:07:24 2016]  say: ^0Shadow^5seer: текстура
+[Tue Jan 19 15:08:34 2016]  say: Inariel: епт он странный
+[Tue Jan 19 15:09:11 2016]  Kill: 1 1 39: Inariel killed Inariel by MOD_SUICIDE
+[Tue Jan 19 15:09:36 2016]  Kill: 1 1 39: Inariel killed Inariel by MOD_SUICIDE
+[Tue Jan 19 15:09:36 2016]  setteam:  1 FREE SPECTATOR
+[Tue Jan 19 15:09:36 2016]  ClientBegin: 1
+[Tue Jan 19 15:09:37 2016]  say: ^0Shadow^5seer: он?
+[Tue Jan 19 15:09:49 2016]  say: Inariel: я про персов
+[Tue Jan 19 15:09:54 2016]  say: Inariel: пирамидоголовый
+[Tue Jan 19 15:10:00 2016]  say: ^0Shadow^5seer: их там два
+[Tue Jan 19 15:10:10 2016]  say: ^0Shadow^5seer: игровой и киношный
+[Tue Jan 19 15:10:17 2016]  say: Inariel: ой
+[Tue Jan 19 15:10:25 2016]  say: Inariel: ааа
+[Tue Jan 19 15:10:32 2016]  say: Inariel: вот как это работает
+[Tue Jan 19 15:10:43 2016]  say: Inariel: эхехе
+[Tue Jan 19 15:11:02 2016]  say: Inariel: осорожней летац хд
+[Tue Jan 19 15:11:08 2016]  say: Inariel: я у тебя на хвосте хд
+[Tue Jan 19 15:11:12 2016]  say: ^0Shadow^5seer: а ты не подглядывай
+[Tue Jan 19 15:11:16 2016]  say: Inariel: ишишиши
+[Tue Jan 19 15:11:21 2016]  say: Inariel: я тут не при чем
+[Tue Jan 19 15:11:28 2016]  say: Inariel: оно само подглядывается
+[Tue Jan 19 15:11:36 2016]  say: ^0Shadow^5seer: пробел и лети нафиг
+[Tue Jan 19 15:11:40 2016]  say: Inariel: неааааа
+[Tue Jan 19 15:12:08 2016]  say: ^0Shadow^5seer: да и зачем наблюдатель, когда есть телепорт?
+[Tue Jan 19 15:12:21 2016]  say: Inariel: не знаю. решила глянуть что за хрень
+[Tue Jan 19 15:12:30 2016]  say: Inariel: оказывается, веселая
+[Tue Jan 19 15:12:32 2016]  say: ^0Shadow^5seer: в общем хрень, верно
+[Tue Jan 19 15:12:40 2016]  say: Inariel: но зато можно подглядывать
+[Tue Jan 19 15:12:48 2016]  say: ^0Shadow^5seer: ну для того и служит
+[Tue Jan 19 15:12:58 2016]  say: Inariel: а если на сервере несколько человек?
+[Tue Jan 19 15:13:05 2016]  say: ^0Shadow^5seer: свеляешься в кого нибудь, ставишь ммарк, входишь в игру, телепортируешься
+[Tue Jan 19 15:13:23 2016]  say: Inariel: о.О
+[Tue Jan 19 15:13:26 2016]  say: ^0Shadow^5seer: если несколько, кнопками мыши меняешь игрока, за которым следишь
+[Tue Jan 19 15:13:40 2016]  say: Inariel: а, вот оно как
+[Tue Jan 19 15:14:43 2016]  say: ^0Shadow^5seer: надо закосплеить лича
+[Tue Jan 19 15:15:42 2016]  say: Inariel: зачем хд
+[Tue Jan 19 15:15:52 2016]  say: ^0Shadow^5seer: затем же, зачем и остальных
+[Tue Jan 19 15:15:58 2016]  say: Inariel: окей хд
+[Tue Jan 19 15:16:24 2016]  setteam:  1 SPECTATOR FREE
+[Tue Jan 19 15:16:24 2016]  ClientBegin: 1
+[Tue Jan 19 15:16:47 2016]  Item: 1 weapon_melee
+[Tue Jan 19 15:17:16 2016]  say: Inariel: My origin is: (-5568 -22057 1688) - You can teleport here with /mtelelast
+
+[Tue Jan 19 15:17:24 2016]  say: Inariel: блин, не то нжала
+[Tue Jan 19 15:19:13 2016]  say: Inariel: потерялась хд
+[Tue Jan 19 15:20:45 2016]  say: Inariel: ладно, поползу убираться
+[Tue Jan 19 15:20:58 2016]  ClientDisconnect: 1
+[Tue Jan 19 15:35:29 2016]  ClientDisconnect: 0
+[Tue Jan 19 15:42:11 2016]  ClientConnect: 0
+[Tue Jan 19 15:42:11 2016]  mlog:Player Mal, connected. With IP - 151.250.117.157:29070 
+[Tue Jan 19 15:42:48 2016]  ClientConnect: 1
+[Tue Jan 19 15:42:48 2016]  mlog:Player ^0keke, connected. With IP - 89.166.56.251:29070 
+[Tue Jan 19 15:42:53 2016]  ClientConnect: 2
+[Tue Jan 19 15:42:53 2016]  mlog:Player Alp'Eren, connected. With IP - 78.169.118.232:29070 
+[Tue Jan 19 15:42:54 2016]  ClientBegin: 0
+[Tue Jan 19 15:43:04 2016]  ClientBegin: 1
+[Tue Jan 19 15:43:23 2016]  ClientBegin: 2
+[Tue Jan 19 15:43:24 2016]  Kill: 1 0 20: ^0[^4TKOR^0]^4Kasme^0[L] killed Mal by MOD_ROCKET_SPLASH
+[Tue Jan 19 15:43:28 2016]  Kill: 1 2 20: ^0[^4TKOR^0]^4Kasme^0[L] killed Alp'Eren by MOD_ROCKET_SPLASH
+[Tue Jan 19 15:43:32 2016]  ClientDisconnect: 1
+[Tue Jan 19 15:45:31 2016]  Kill: 0 2 3: Mal killed Alp'Eren by MOD_SABER
+[Tue Jan 19 15:47:36 2016]  Kill: 2 0 3: Alp'Eren killed Mal by MOD_SABER
+[Tue Jan 19 15:52:13 2016]  say: Alp'Eren: (kill
+[Tue Jan 19 15:52:15 2016]  say: Alp'Eren: /kill
+[Tue Jan 19 15:52:18 2016]  say: Alp'Eren: kill
+[Tue Jan 19 15:52:20 2016]  say: Alp'Eren: killsene mak
+[Tue Jan 19 15:53:18 2016]  ClientDisconnect: 0
+[Tue Jan 19 15:53:26 2016]  ClientConnect: 0
+[Tue Jan 19 15:53:26 2016]  mlog:Player Mal, connected. With IP - 151.250.117.157:29070 
+[Tue Jan 19 15:53:43 2016]  ClientBegin: 0
+[Tue Jan 19 15:54:59 2016]  Kill: 2 0 3: Alp'Eren killed Mal by MOD_SABER
+[Tue Jan 19 15:55:54 2016]  Kill: 2 0 3: Alp'Eren killed Mal by MOD_SABER
+[Tue Jan 19 15:56:32 2016]  Kill: 0 2 3: Mal killed Alp'Eren by MOD_SABER
+[Tue Jan 19 15:58:26 2016]  Kill: 2 0 3: Alp'Eren killed Mal by MOD_SABER
+[Tue Jan 19 16:00:24 2016]  Kill: 0 2 3: Mal killed Alp'Eren by MOD_SABER
+[Tue Jan 19 16:00:42 2016]  ClientDisconnect: 2
+[Tue Jan 19 16:00:46 2016]  ClientDisconnect: 0
+[Tue Jan 19 17:35:19 2016]  ClientConnect: 0
+[Tue Jan 19 17:35:19 2016]  mlog:Player xandor, connected. With IP - 78.209.192.178:29070 
+[Tue Jan 19 17:38:42 2016]  ClientDisconnect: 0
+[Tue Jan 19 18:36:12 2016]  ClientConnect: 0
+[Tue Jan 19 18:36:12 2016]  mlog:Player Padawan, connected. With IP - 81.220.103.143:29070 
+[Tue Jan 19 18:36:14 2016]  ClientConnect: 1
+[Tue Jan 19 18:36:14 2016]  mlog:Player Padawan, connected. With IP - 212.194.59.86:29070 
+[Tue Jan 19 18:36:26 2016]  ClientDisconnect: 1
+[Tue Jan 19 18:36:49 2016]  ClientDisconnect: 0
+[Wed Jan 20 09:40:08 2016]  ClientConnect: 0
+[Wed Jan 20 09:40:08 2016]  mlog:Player ^1Darth^0Twin, connected. With IP - 5.141.229.245:14075 
+[Wed Jan 20 09:40:41 2016]  ClientBegin: 0
+[Wed Jan 20 09:41:30 2016]  print "Padawan^7 @@@PLRENAME Beyond the Grave
+"[Wed Jan 20 09:43:45 2016]  say: Beyond the Grave: npc spawn kyle
+[Wed Jan 20 09:46:02 2016]  ClientDisconnect: 0
+[Wed Jan 20 13:31:22 2016]  ClientConnect: 0
+[Wed Jan 20 13:31:22 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Jan 20 13:31:42 2016]  ClientBegin: 0
+[Wed Jan 20 13:31:49 2016]  Item: 0 weapon_melee
+[Wed Jan 20 13:34:35 2016]  ClientDisconnect: 0
+[Wed Jan 20 17:36:30 2016]  ClientConnect: 0
+[Wed Jan 20 17:36:30 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Jan 20 17:36:50 2016]  ClientBegin: 0
+[Wed Jan 20 17:36:58 2016]  Item: 0 weapon_melee
+[Wed Jan 20 18:03:30 2016]  ClientDisconnect: 0
+[Wed Jan 20 18:03:34 2016]  ClientConnect: 0
+[Wed Jan 20 18:03:34 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Wed Jan 20 18:03:44 2016]  ClientBegin: 0
+[Wed Jan 20 18:03:49 2016]  Item: 0 weapon_melee
+[Wed Jan 20 18:32:08 2016]  ClientDisconnect: 0
+[Wed Jan 20 20:05:17 2016]  ClientConnect: 0
+[Wed Jan 20 20:05:17 2016]  mlog:Player ^7K^0akarot, connected. With IP - 174.64.176.93:29070 
+[Wed Jan 20 20:05:28 2016]  ClientBegin: 0
+[Wed Jan 20 20:13:43 2016]  ClientConnect: 1
+[Wed Jan 20 20:13:43 2016]  mlog:Player IskalL, connected. With IP - 78.219.215.71:29070 
+[Wed Jan 20 20:14:13 2016]  ClientBegin: 1
+[Wed Jan 20 20:16:02 2016]  Kill: 1 1 39: IskalL killed IskalL by MOD_SUICIDE
+[Wed Jan 20 20:18:28 2016]  Kill: 1022 1 36: <world> killed IskalL by MOD_CRUSH
+[Wed Jan 20 20:18:48 2016]  Kill: 0 1 36: ^7K^0akarot killed IskalL by MOD_CRUSH
+[Wed Jan 20 20:19:40 2016]  Kill: 1022 1 0: <world> killed IskalL by MOD_UNKNOWN
+[Wed Jan 20 20:19:58 2016]  Kill: 0 1 0: ^7K^0akarot killed IskalL by MOD_UNKNOWN
+[Wed Jan 20 20:20:19 2016]  Kill: 1 1 39: IskalL killed IskalL by MOD_SUICIDE
+[Wed Jan 20 20:21:25 2016]  say: IskalL: command
+[Wed Jan 20 20:21:47 2016]  say: ^7K^0akarot: its alot of them lol
+[Wed Jan 20 20:23:48 2016]  Kill: 0 1 36: ^7K^0akarot killed IskalL by MOD_CRUSH
+[Wed Jan 20 20:24:08 2016]  say: IskalL: drop me all skill
+[Wed Jan 20 20:24:26 2016]  say: ^7K^0akarot: wot?
+[Wed Jan 20 20:24:27 2016]  ClientConnect: 2
+[Wed Jan 20 20:24:27 2016]  mlog:Player ^1Sexy^8Tarantula, connected. With IP - 68.49.175.199:29070 
+[Wed Jan 20 20:24:50 2016]  ClientBegin: 2
+[Wed Jan 20 20:27:00 2016]  say: IskalL: spawn luke
+[Wed Jan 20 20:27:09 2016]  say: ^7K^0akarot: cant :(
+[Wed Jan 20 20:28:32 2016]  say: ^1Sexy^8Tarantula: lol
+[Wed Jan 20 20:28:44 2016]  say: ^1Sexy^8Tarantula: That script has way too much time on it
+[Wed Jan 20 20:29:15 2016]  say: ^7K^0akarot: wouldn't be special without a little more time lol
+[Wed Jan 20 20:29:20 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:29:47 2016]  Kill: 0 1 0: ^7K^0akarot killed IskalL by MOD_UNKNOWN
+[Wed Jan 20 20:30:26 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:30:40 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:30:45 2016]  say: ^1Sexy^8Tarantula: bruh
+[Wed Jan 20 20:30:49 2016]  say: ^1Sexy^8Tarantula: those saberlocks
+[Wed Jan 20 20:30:51 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:31:10 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:31:39 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:31:54 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:32:50 2016]  Kill: 1 2 3: IskalL killed ^1Sexy^8Tarantula by MOD_SABER
+[Wed Jan 20 20:35:36 2016]  say: ^7K^0akarot: o.o
+[Wed Jan 20 20:35:44 2016]  say: ^1Sexy^8Tarantula: lol
+[Wed Jan 20 20:36:16 2016]  say: ^1Sexy^8Tarantula: lol this is no fun with god mode
+[Wed Jan 20 20:36:28 2016]  say: ^7K^0akarot: ill fix rhat
+[Wed Jan 20 20:36:34 2016]  Kill: 0 2 0: ^7K^0akarot killed ^1Sexy^8Tarantula by MOD_UNKNOWN
+[Wed Jan 20 20:36:36 2016]  Kill: 1022 1 0: <world> killed IskalL by MOD_UNKNOWN
+[Wed Jan 20 20:37:21 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:38:00 2016]  Kill: 1 2 3: IskalL killed ^1Sexy^8Tarantula by MOD_SABER
+[Wed Jan 20 20:39:15 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:39:19 2016]  say: IskalL: GG
+[Wed Jan 20 20:39:21 2016]  say: ^1Sexy^8Tarantula: gg
+[Wed Jan 20 20:40:07 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:40:33 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:41:08 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:41:11 2016]  say: ^1Sexy^8Tarantula: gg
+[Wed Jan 20 20:41:17 2016]  say: IskalL: YOU GODMOD
+[Wed Jan 20 20:41:20 2016]  say: ^1Sexy^8Tarantula: noper
+[Wed Jan 20 20:41:29 2016]  say: ^1Sexy^8Tarantula: it said i had 48 health left dude
+[Wed Jan 20 20:42:07 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:42:11 2016]  say: ^1Sexy^8Tarantula: gg
+[Wed Jan 20 20:42:14 2016]  say: IskalL: GG
+[Wed Jan 20 20:42:53 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:43:05 2016]  say: ^1Sexy^8Tarantula: Red=best
+[Wed Jan 20 20:43:39 2016]  Kill: 1 2 3: IskalL killed ^1Sexy^8Tarantula by MOD_SABER
+[Wed Jan 20 20:43:41 2016]  say: ^1Sexy^8Tarantula: see
+[Wed Jan 20 20:43:42 2016]  say: ^1Sexy^8Tarantula: lol
+[Wed Jan 20 20:43:58 2016]  say: ^7K^0akarot: im convinced
+[Wed Jan 20 20:43:58 2016]  Kill: 1 2 3: IskalL killed ^1Sexy^8Tarantula by MOD_SABER
+[Wed Jan 20 20:43:59 2016]  say: ^7K^0akarot: really
+[Wed Jan 20 20:44:28 2016]  Kill: 1 2 3: IskalL killed ^1Sexy^8Tarantula by MOD_SABER
+[Wed Jan 20 20:44:48 2016]  Kill: 2 2 39: ^1Sexy^8Tarantula killed ^1Sexy^8Tarantula by MOD_SUICIDE
+[Wed Jan 20 20:45:18 2016]  Kill: 1 2 3: IskalL killed ^1Sexy^8Tarantula by MOD_SABER
+[Wed Jan 20 20:45:56 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:46:00 2016]  Kill: 2 2 39: ^1Sexy^8Tarantula killed ^1Sexy^8Tarantula by MOD_SUICIDE
+[Wed Jan 20 20:46:45 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:46:47 2016]  say: ^1Sexy^8Tarantula: gg
+[Wed Jan 20 20:47:37 2016]  Kill: 1 2 3: IskalL killed ^1Sexy^8Tarantula by MOD_SABER
+[Wed Jan 20 20:47:58 2016]  Kill: 0 1 3: ^7K^0akarot killed IskalL by MOD_SABER
+[Wed Jan 20 20:48:29 2016]  Kill: 2 1 3: ^1Sexy^8Tarantula killed IskalL by MOD_SABER
+[Wed Jan 20 20:48:39 2016]  say: ^1Sexy^8Tarantula: why are we saberlocking so much
+[Wed Jan 20 20:48:45 2016]  say: ^7K^0akarot: its the server lol
+[Wed Jan 20 20:49:01 2016]  Kill: 1 2 3: IskalL killed ^1Sexy^8Tarantula by MOD_SABER
+[Wed Jan 20 20:49:05 2016]  say: ^1Sexy^8Tarantula: its annoying
+[Wed Jan 20 20:49:12 2016]  Kill: 1 2 3: IskalL killed ^1Sexy^8Tarantula by MOD_SABER
+[Wed Jan 20 20:49:48 2016]  Kill: 1 2 3: IskalL killed ^1Sexy^8Tarantula by MOD_SABER
+[Wed Jan 20 20:49:52 2016]  ClientDisconnect: 2
+[Wed Jan 20 20:50:33 2016]  ClientDisconnect: 0
+[Wed Jan 20 20:50:42 2016]  say: IskalL: SPEED
+[Wed Jan 20 20:51:50 2016]  ClientDisconnect: 1
+[Thu Jan 21 10:43:42 2016]  ClientConnect: 0
+[Thu Jan 21 10:43:42 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Jan 21 10:44:01 2016]  ClientBegin: 0
+[Thu Jan 21 10:44:08 2016]  Item: 0 weapon_melee
+[Thu Jan 21 11:22:53 2016]  ClientDisconnect: 0
+[Thu Jan 21 15:34:07 2016]  ClientConnect: 0
+[Thu Jan 21 15:34:07 2016]  mlog:Player Hantick, connected. With IP - 194.150.196.131:-18950 
+[Thu Jan 21 15:34:22 2016]  ClientBegin: 0
+[Thu Jan 21 15:34:24 2016]  ClientConnect: 1
+[Thu Jan 21 15:34:24 2016]  mlog:Player Padawan, connected. With IP - 193.108.220.2:29070 
+[Thu Jan 21 15:34:42 2016]  ClientBegin: 1
+[Thu Jan 21 15:34:50 2016]  print "Padawan^7 @@@PLRENAME Werdon4
+"[Thu Jan 21 15:35:32 2016]  ClientDisconnect: 1
+[Thu Jan 21 15:35:38 2016]  ClientDisconnect: 0
+[Thu Jan 21 16:51:50 2016]  ClientConnect: 0
+[Thu Jan 21 16:51:50 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 188.242.247.46:29070 
+[Thu Jan 21 16:52:10 2016]  ClientBegin: 0
+[Thu Jan 21 16:52:17 2016]  Item: 0 weapon_melee
+[Thu Jan 21 16:53:49 2016]  ClientDisconnect: 0

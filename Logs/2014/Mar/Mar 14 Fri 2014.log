@@ -1,0 +1,28 @@
+[Fri Mar 14 19:15:23 2014]  ------------------------------------------------------------
+[Fri Mar 14 19:15:23 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Mar 14 19:15:24 2014]  ClientConnect: 0
+[Fri Mar 14 19:15:37 2014]  ClientBegin: 0
+[Fri Mar 14 19:17:30 2014]  ClientConnect: 1
+[Fri Mar 14 19:17:30 2014]  mlog:Player Levante, connected. With IP - 88.25.138.116:29070 
+[Fri Mar 14 19:18:05 2014]  ClientBegin: 1
+[Fri Mar 14 19:18:31 2014]  say: Thame_Cerulian:  /god
+[Fri Mar 14 19:23:53 2014]  say: Thame_Cerulian: npc spawn jedi_random
+[Fri Mar 14 19:32:18 2014]  say: Thame_Cerulian:  /give all
+[Fri Mar 14 19:48:55 2014]  Kill: 1022 1 2: <world> killed Levánte by MOD_MELEE
+[Fri Mar 14 19:50:25 2014]  Kill: 0 0 39: Thame_Cerulian killed Thame_Cerulian by MOD_SUICIDE
+[Fri Mar 14 19:50:25 2014]  setteam:  0 FREE SPECTATOR
+[Fri Mar 14 19:50:25 2014]  ClientBegin: 0
+[Fri Mar 14 19:50:43 2014]  setteam:  0 SPECTATOR FREE
+[Fri Mar 14 19:50:43 2014]  ClientBegin: 0
+[Fri Mar 14 20:04:25 2014]  Kill: 1 0 3: Levánte killed Thame_Cerulian by MOD_SABER
+[Fri Mar 14 20:05:05 2014]  Kill: 0 0 29: Thame_Cerulian killed Thame_Cerulian by MOD_CONC
+[Fri Mar 14 20:08:24 2014]  say: Thame_Cerulian:  /mempower
+[Fri Mar 14 20:10:07 2014]  ClientDisconnect: 0
+[Fri Mar 14 20:10:15 2014]  ClientDisconnect: 1
+[Fri Mar 14 21:15:22 2014]  Exit: Timelimit hit.
+[Fri Mar 14 22:56:12 2014]  ClientConnect: 0
+[Fri Mar 14 22:56:12 2014]  mlog:Player WhiteMagicRaven, connected. With IP - 37.55.83.19:29070 
+[Fri Mar 14 22:56:17 2014]  ClientDisconnect: 0
+[Fri Mar 14 22:56:33 2014]  ClientConnect: 0
+[Fri Mar 14 22:56:33 2014]  mlog:Player Padawan, connected. With IP - 37.55.83.19:29070 
+[Fri Mar 14 22:56:42 2014]  ClientDisconnect: 0

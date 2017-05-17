@@ -1,0 +1,33 @@
+[Wed Jul 23 02:45:10 2014]  ------------------------------------------------------------
+[Wed Jul 23 02:45:10 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Jul 23 02:45:11 2014]  ClientConnect: 0
+[Wed Jul 23 02:45:34 2014]  ClientBegin: 0
+[Wed Jul 23 02:46:06 2014]  say: fail: !reminders
+[Wed Jul 23 03:07:03 2014]  say: fail: 9
+[Wed Jul 23 03:07:08 2014]  ClientDisconnect: 0
+[Wed Jul 23 04:45:08 2014]  Exit: Timelimit hit.
+[Wed Jul 23 15:58:54 2014]  ClientConnect: 0
+[Wed Jul 23 15:58:54 2014]  mlog:Player ^0Sniper ^1Assassin ^402, connected. With IP - 24.63.113.140:29070 
+[Wed Jul 23 15:59:34 2014]  ClientBegin: 0
+[Wed Jul 23 15:59:50 2014]  ShutdownGame:
+[Wed Jul 23 15:59:50 2014]  ------------------------------------------------------------
+[Wed Jul 23 15:59:51 2014]  ------------------------------------------------------------
+[Wed Jul 23 15:59:51 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Jul 23 15:59:51 2014]  ClientConnect: 0
+[Wed Jul 23 16:00:12 2014]  ClientDisconnect: 0
+[Wed Jul 23 16:16:23 2014]  ClientConnect: 0
+[Wed Jul 23 16:16:23 2014]  mlog:Player ^0Sniper ^1Assassin ^402, connected. With IP - 24.63.113.140:29070 
+[Wed Jul 23 16:16:40 2014]  ClientBegin: 0
+[Wed Jul 23 16:20:54 2014]  Kill: 0 0 39: ^0Sniper ^1Assassin ^402 killed ^0Sniper ^1Assassin ^402 by MOD_SUICIDE
+[Wed Jul 23 16:24:38 2014]  Kill: 0 0 39: ^0Sniper ^1Assassin ^402 killed ^0Sniper ^1Assassin ^402 by MOD_SUICIDE
+[Wed Jul 23 16:24:49 2014]  ClientDisconnect: 0
+[Wed Jul 23 16:44:06 2014]  ClientConnect: 0
+[Wed Jul 23 16:44:06 2014]  mlog:Player Padawan, connected. With IP - 81.183.154.241:29070 
+[Wed Jul 23 16:44:19 2014]  ClientBegin: 0
+[Wed Jul 23 16:47:17 2014]  ClientDisconnect: 0
+[Wed Jul 23 17:59:50 2014]  Exit: Timelimit hit.
+[Thu Jul 24 12:08:34 2014]  ClientConnect: 0
+[Thu Jul 24 12:08:34 2014]  mlog:Player ^0G^6ø^0g^6., connected. With IP - 188.4.180.71:29790 
+[Thu Jul 24 12:08:44 2014]  ClientBegin: 0
+[Thu Jul 24 12:08:48 2014]  ShutdownGame:
+[Thu Jul 24 12:08:48 2014]  ------------------------------------------------------------

@@ -1,0 +1,1285 @@
+[Sun Mar 27 15:23:26 2016]  ------------------------------------------------------------
+[Sun Mar 27 15:23:26 2016]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\0\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Mar 27 17:09:22 2016]  ClientConnect: 0
+[Sun Mar 27 17:09:22 2016]  mlog:Player ^7e^0Bosh, connected. With IP - 5.18.68.16:29070 
+[Sun Mar 27 17:12:43 2016]  ClientDisconnect: 0
+[Sun Mar 27 19:51:14 2016]  ClientConnect: 0
+[Sun Mar 27 19:51:14 2016]  mlog:Player Jasiekon, connected. With IP - 83.21.102.49:29070 
+[Sun Mar 27 19:51:22 2016]  ClientDisconnect: 0
+[Tue Mar 29 09:44:42 2016]  ClientConnect: 0
+[Tue Mar 29 09:44:42 2016]  mlog:Player ^1Dauren, connected. With IP - 37.150.89.77:29070 
+[Tue Mar 29 09:45:11 2016]  ClientBegin: 0
+[Tue Mar 29 09:52:21 2016]  ClientDisconnect: 0
+[Tue Mar 29 10:09:58 2016]  ClientConnect: 0
+[Tue Mar 29 10:09:58 2016]  mlog:Player ^1Dauren, connected. With IP - 37.150.89.77:29070 
+[Tue Mar 29 10:10:24 2016]  ClientBegin: 0
+[Tue Mar 29 10:10:33 2016]  say: ^1Dauren: ^7CLONE ^3TROOPER ^6SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Tue Mar 29 10:10:41 2016]  say: ^1Dauren: ^5TELEPORT SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Tue Mar 29 10:11:03 2016]  say: ^1Dauren: ^5TELEPORTING TO THE STARTING POINT!
+[Tue Mar 29 10:11:06 2016]  say: ^1Dauren: ^5TELEPORTING TO THE LAST SAID ^5ORIGIN!
+[Tue Mar 29 10:11:10 2016]  say: ^1Dauren: ^5TELEPORTING TO MY CROSSHAIR TARGET!
+[Tue Mar 29 10:11:13 2016]  say: ^1Dauren: ^5TELEPORTING TO MY CROSSHAIR TARGET!
+[Tue Mar 29 10:11:28 2016]  say: ^1Dauren: ^7CLONE ^3TROOPER ^6SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Tue Mar 29 10:11:32 2016]  say: ^1Dauren: ^5Marking current position...
+[Tue Mar 29 10:11:32 2016]  say: ^1Dauren: ^5Position marked
+[Tue Mar 29 10:11:33 2016]  say: ^1Dauren: ^5Troops, attack the enemy!
+[Tue Mar 29 10:11:35 2016]  say: ^1Dauren: ^5Stay here troops!
+[Tue Mar 29 10:11:38 2016]  say: ^1Dauren: ^5Teleporting to my marked position...
+[Tue Mar 29 10:11:43 2016]  say: ^1Dauren: ^7CLONE ^3TROOPER ^6SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Tue Mar 29 10:11:51 2016]  say: ^1Dauren: ^5Marking current position...
+[Tue Mar 29 10:11:51 2016]  say: ^1Dauren: ^5Position marked
+[Tue Mar 29 10:11:53 2016]  say: ^1Dauren: ^5Teleporting to my marked position...
+[Tue Mar 29 10:11:55 2016]  say: ^1Dauren: ^5Follow me troops!
+[Tue Mar 29 10:12:00 2016]  say: ^1Dauren: npc spawn stormtrooper
+[Tue Mar 29 10:13:23 2016]  say: ^1Dauren: ^5TELEPORT SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Tue Mar 29 10:13:29 2016]  say: ^1Dauren: ^5TELEPORTING TO MY MMARKED SPOT!
+[Tue Mar 29 10:13:32 2016]  say: ^1Dauren: ^5TELEPORTING TO THE LAST SAID ^5ORIGIN!
+[Tue Mar 29 10:13:34 2016]  say: ^1Dauren: ^5TELEPORTING TO THE STARTING POINT!
+[Tue Mar 29 10:13:58 2016]  ClientDisconnect: 0
+[Wed Mar 30 01:01:57 2016]  ClientConnect: 0
+[Wed Mar 30 01:01:57 2016]  mlog:Player Padawan, connected. With IP - 24.181.255.122:29070 
+[Wed Mar 30 01:02:15 2016]  ClientBegin: 0
+[Wed Mar 30 01:02:50 2016]  ClientConnect: 1
+[Wed Mar 30 01:02:50 2016]  mlog:Player Why, connected. With IP - 97.101.148.101:29070 
+[Wed Mar 30 01:03:08 2016]  ClientBegin: 1
+[Wed Mar 30 01:03:36 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:04:06 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:04:28 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:04:50 2016]  Kill: 0 1 31: gook killed Padawan by MOD_FORCE_DARK
+[Wed Mar 30 01:05:05 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:05:30 2016]  Kill: 0 1 31: gook killed Padawan by MOD_FORCE_DARK
+[Wed Mar 30 01:05:55 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:06:44 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:07:09 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:09:25 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:09:48 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:10:11 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:10:26 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:10:34 2016]  Kill: 0 1 31: gook killed Padawan by MOD_FORCE_DARK
+[Wed Mar 30 01:10:52 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:11:46 2016]  ClientConnect: 2
+[Wed Mar 30 01:11:46 2016]  mlog:Player Padawan, connected. With IP - 73.49.99.203:29070 
+[Wed Mar 30 01:11:53 2016]  ClientDisconnect: 2
+[Wed Mar 30 01:11:59 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:12:08 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:14:26 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:14:37 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:14:55 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:15:15 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:16:21 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:16:38 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:17:09 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:17:17 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:17:23 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:17:36 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:17:47 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:18:02 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:18:13 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:18:31 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:18:40 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:19:14 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:19:38 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:19:59 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:20:07 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:20:21 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:20:25 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:20:56 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:21:00 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:21:20 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:21:36 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:21:49 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:22:04 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:22:11 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:22:26 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:24:59 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:25:09 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:25:14 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:25:32 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:25:50 2016]  Kill: 0 1 31: gook killed Padawan by MOD_FORCE_DARK
+[Wed Mar 30 01:25:57 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:26:17 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:26:52 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:27:00 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:27:13 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:27:26 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:29:14 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:29:47 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:30:54 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:32:36 2016]  Kill: 1 0 4: Padawan killed gook by MOD_BRYAR_PISTOL
+[Wed Mar 30 01:32:53 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:33:00 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:33:06 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:33:21 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:33:37 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:33:49 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:34:09 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:34:18 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:35:06 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:35:27 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:35:59 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:36:23 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:36:35 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:36:53 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:37:20 2016]  Kill: 0 1 31: gook killed Padawan by MOD_FORCE_DARK
+[Wed Mar 30 01:37:32 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:38:15 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:38:38 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:38:55 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:39:11 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:39:50 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:40:22 2016]  Kill: 0 1 31: gook killed Padawan by MOD_FORCE_DARK
+[Wed Mar 30 01:40:34 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:40:55 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:41:29 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:41:42 2016]  Kill: 0 1 31: gook killed Padawan by MOD_FORCE_DARK
+[Wed Mar 30 01:42:02 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:42:09 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:42:25 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:43:05 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:43:16 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:43:21 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:43:29 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:43:53 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:44:04 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:44:10 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:44:26 2016]  Kill: 0 1 3: gook killed Padawan by MOD_SABER
+[Wed Mar 30 01:44:33 2016]  Kill: 1 0 3: Padawan killed gook by MOD_SABER
+[Wed Mar 30 01:44:39 2016]  ClientDisconnect: 0
+[Wed Mar 30 01:45:44 2016]  ClientDisconnect: 1
+[Wed Mar 30 18:18:00 2016]  ClientConnect: 0
+[Wed Mar 30 18:18:00 2016]  mlog:Player ^8F^9e^8t^9t, connected. With IP - 94.243.241.245:29070 
+[Wed Mar 30 18:18:16 2016]  ClientBegin: 0
+[Wed Mar 30 18:20:23 2016]  Kill: 0 0 39: ^8F^9e^8t^9t killed ^8F^9e^8t^9t by MOD_SUICIDE
+[Wed Mar 30 18:22:14 2016]  ClientDisconnect: 0
+[Sat Apr 02 17:52:27 2016]  ClientConnect: 0
+[Sat Apr 02 17:52:27 2016]  mlog:Player ^4^^7))^8E^7x^8s^7e^8s^7((, connected. With IP - 178.72.70.237:2368 
+[Sat Apr 02 17:52:52 2016]  ClientBegin: 0
+[Sat Apr 02 18:04:31 2016]  ClientDisconnect: 0
+[Sat Apr 02 19:36:01 2016]  ClientConnect: 0
+[Sat Apr 02 19:36:01 2016]  mlog:Player Padawan, connected. With IP - 37.45.191.172:18106 
+[Sat Apr 02 19:37:11 2016]  ClientBegin: 0
+[Sat Apr 02 19:41:31 2016]  ClientConnect: 1
+[Sat Apr 02 19:41:31 2016]  mlog:Player Padawan, connected. With IP - 62.182.80.11:29070 
+[Sat Apr 02 19:41:45 2016]  ClientBegin: 1
+[Sat Apr 02 19:41:51 2016]  say: cccûöóê: ýòî òû?
+[Sat Apr 02 19:41:59 2016]  say: Padawan: ne viju russkiy
+[Sat Apr 02 19:42:06 2016]  say: cccûöóê: eto ti?
+[Sat Apr 02 19:42:08 2016]  say: Padawan: da
+[Sat Apr 02 19:42:11 2016]  say: cccûöóê: ok
+[Sat Apr 02 19:42:24 2016]  say: cccûöóê: tak
+[Sat Apr 02 19:42:34 2016]  say: cccûöóê: ya seichas hochy sdelat sebe boevie scripti
+[Sat Apr 02 19:43:42 2016]  print "Padawan^7 @@@PLRENAME -[^5E^0H^5C^7]-^0V^5e^0N^5d^0y ^5AA
+"[Sat Apr 02 19:44:03 2016]  print "-[^5E^0H^5C^7]-^0V^5e^0N^5d^0y ^5AA^7 @@@PLRENAME -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA
+"[Sat Apr 02 19:44:19 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: nauchi stroit'
+[Sat Apr 02 19:44:43 2016]  say: cccûöóê: ýòî ÿ ñäåëàë óðîí
+[Sat Apr 02 19:44:46 2016]  say: cccûöóê: ýôôåêòó
+[Sat Apr 02 19:44:52 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: ne viju rus
+[Sat Apr 02 19:44:58 2016]  say: cccûöóê: eto ya sdelal yron
+[Sat Apr 02 19:44:59 2016]  say: cccûöóê: effekty
+[Sat Apr 02 19:45:07 2016]  say: cccûöóê: chto ti hochesh stroit
+[Sat Apr 02 19:45:10 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak stroit'
+[Sat Apr 02 19:45:14 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: komnatu
+[Sat Apr 02 19:45:15 2016]  say: cccûöóê: tak
+[Sat Apr 02 19:45:19 2016]  say: cccûöóê: nachnem s prostogo
+[Sat Apr 02 19:46:09 2016]  say: cccûöóê: hm
+[Sat Apr 02 19:46:25 2016]  Kill: 1 1 39: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_SUICIDE
+[Sat Apr 02 19:47:05 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak stroit'?!
+[Sat Apr 02 19:47:17 2016]  say: cccûöóê: ya ischy platformy
+[Sat Apr 02 19:48:01 2016]  say: cccûöóê: nashel
+[Sat Apr 02 19:48:05 2016]  say: cccûöóê: ti gde
+[Sat Apr 02 19:48:16 2016]  say: cccûöóê: suda
+[Sat Apr 02 19:48:30 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak?
+[Sat Apr 02 19:48:32 2016]  say: cccûöóê: tak
+[Sat Apr 02 19:48:36 2016]  say: cccûöóê: zabindi dlya nachal
+[Sat Apr 02 19:48:38 2016]  say: cccûöóê: platformy
+[Sat Apr 02 19:48:42 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak?
+[Sat Apr 02 19:48:53 2016]  say: cccûöóê:  /bind knopka mplace factory/catw2_b
+[Sat Apr 02 19:49:34 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: esli otklu4us v vk skaju po4emu
+[Sat Apr 02 19:49:42 2016]  say: cccûöóê: tak
+[Sat Apr 02 19:49:43 2016]  say: cccûöóê: teper
+[Sat Apr 02 19:49:46 2016]  say: cccûöóê: zabindi
+[Sat Apr 02 19:49:52 2016]  say: cccûöóê:  /bind knopka mdrop
+[Sat Apr 02 19:49:57 2016]  say: cccûöóê: eto chtobi stavit
+[Sat Apr 02 19:50:24 2016]  say: cccûöóê: chtobi vraschat /mrotate
+[Sat Apr 02 19:51:19 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: sdelay mne komnatu
+[Sat Apr 02 19:51:33 2016]  say: cccûöóê: tebe budet interesnee samomu sdelat
+[Sat Apr 02 19:51:37 2016]  say: cccûöóê: i ee mojno sohranit
+[Sat Apr 02 19:51:37 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: da
+[Sat Apr 02 19:51:41 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: da
+[Sat Apr 02 19:51:46 2016]  say: cccûöóê: ili daje sdelat ee kak script
+[Sat Apr 02 19:51:50 2016]  say: cccûöóê: i na lubom makermode
+[Sat Apr 02 19:51:52 2016]  say: cccûöóê: pokazivat
+[Sat Apr 02 19:52:01 2016]  say: cccûöóê: tak
+[Sat Apr 02 19:52:10 2016]  say: cccûöóê: chtobi smotret ob'ekti
+[Sat Apr 02 19:52:14 2016]  say: cccûöóê:  /mlist 
+[Sat Apr 02 19:52:16 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: davai :)
+[Sat Apr 02 19:52:30 2016]  Kill: 0 1 3: cccûöóê killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_SABER
+[Sat Apr 02 19:52:37 2016]  say: cccûöóê: chtobi vibrat ob'ekt
+[Sat Apr 02 19:52:48 2016]  say: cccûöóê: pishi /mplace fail/ob'ekt
+[Sat Apr 02 19:54:33 2016]  say: cccûöóê: mne kajetsya dlya tebya ne podoidet makermod
+[Sat Apr 02 19:54:44 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: padaidet >:(
+[Sat Apr 02 19:54:55 2016]  say: cccûöóê: ya seichas sozdam boevoi skript
+[Sat Apr 02 19:55:01 2016]  say: cccûöóê: i esli chto tebe poshlu
+[Sat Apr 02 19:56:00 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak?
+[Sat Apr 02 19:56:09 2016]  say: cccûöóê:  /mplacefx mp/drain 1
+[Sat Apr 02 19:56:21 2016]  say: cccûöóê: chtobi ydalit ob'ekti /mkillall
+[Sat Apr 02 19:56:30 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: nau4i komnadu delat'
+[Sat Apr 02 19:57:23 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: NAU4I KOMNATU DELAT'!!!
+[Sat Apr 02 19:57:36 2016]  say: cccûöóê: tak eto na tvoi vkus
+[Sat Apr 02 19:57:41 2016]  say: cccûöóê: viberi mesto
+[Sat Apr 02 19:57:46 2016]  say: cccûöóê: i stav tyda ob'ekti
+[Sat Apr 02 19:57:48 2016]  say: cccûöóê: i sohrani
+[Sat Apr 02 19:57:58 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kakie objekti?
+[Sat Apr 02 19:58:03 2016]  say: cccûöóê: /mlist
+[Sat Apr 02 19:58:30 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: esh4e raz kak povernut'?
+[Sat Apr 02 19:58:35 2016]  say: cccûöóê:  /mrotate
+[Sat Apr 02 20:00:37 2016]  say: cccûöóê: v otlichii ot dimi ti bistree naychilsya
+[Sat Apr 02 20:00:41 2016]  say: cccûöóê: ychishsya*
+[Sat Apr 02 20:01:34 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: sps
+[Sat Apr 02 20:03:58 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: san
+[Sat Apr 02 20:04:03 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: problemka :/
+[Sat Apr 02 20:04:03 2016]  say: cccûöóê: sto
+[Sat Apr 02 20:04:15 2016]  say: cccûöóê:  /mmove 0 0 10 
+[Sat Apr 02 20:04:18 2016]  say: cccûöóê: eto podnyat na 10
+[Sat Apr 02 20:04:46 2016]  say: cccûöóê: opustat' -10
+[Sat Apr 02 20:05:36 2016]  say: cccûöóê: smotri
+[Sat Apr 02 20:05:47 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: lol
+[Sat Apr 02 20:05:48 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak
+[Sat Apr 02 20:06:03 2016]  say: cccûöóê: ya sdelal script
+[Sat Apr 02 20:06:22 2016]  say: cccûöóê: pomoch?
+[Sat Apr 02 20:06:25 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: aga
+[Sat Apr 02 20:07:03 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: sps lol
+[Sat Apr 02 20:07:08 2016]  say: cccûöóê:  /mscale yvelichit
+[Sat Apr 02 20:07:26 2016]  say: cccûöóê:  /mkill ydalit poslednuu
+[Sat Apr 02 20:08:34 2016]  say: cccûöóê: kstati
+[Sat Apr 02 20:08:45 2016]  say: cccûöóê: mojno koe chto skachat 
+[Sat Apr 02 20:08:52 2016]  say: cccûöóê: ya zavtra koe chto skachau
+[Sat Apr 02 20:08:57 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: 4to
+[Sat Apr 02 20:08:58 2016]  say: cccûöóê: dom 
+[Sat Apr 02 20:09:11 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak sdelat dver?
+[Sat Apr 02 20:09:25 2016]  say: cccûöóê: znaesh
+[Sat Apr 02 20:09:31 2016]  say: cccûöóê: lychshe po drugomy sdelat
+[Sat Apr 02 20:09:33 2016]  say: cccûöóê: ydali vse
+[Sat Apr 02 20:09:41 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: vse
+[Sat Apr 02 20:11:17 2016]  say: cccûöóê: oi
+[Sat Apr 02 20:11:21 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: lol
+[Sat Apr 02 20:11:24 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: norm
+[Sat Apr 02 20:11:32 2016]  say: cccûöóê: kapec/=
+[Sat Apr 02 20:11:38 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: korabl' davai sdelaem? :D?
+[Sat Apr 02 20:11:43 2016]  say: cccûöóê: mojno
+[Sat Apr 02 20:11:52 2016]  say: cccûöóê: tolko nado bolshe
+[Sat Apr 02 20:11:53 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: ya sdelayu
+[Sat Apr 02 20:13:53 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: m/tele 0 0 10
+[Sat Apr 02 20:14:02 2016]  say: cccûöóê: lol
+[Sat Apr 02 20:14:09 2016]  Kill: 1 1 39: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_SUICIDE
+[Sat Apr 02 20:14:11 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: :/
+[Sat Apr 02 20:14:37 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: a kak tut emoti?
+[Sat Apr 02 20:14:48 2016]  say: cccûöóê:  /mlistanims
+[Sat Apr 02 20:15:37 2016]  say: cccûöóê: hz koroche
+[Sat Apr 02 20:15:40 2016]  say: cccûöóê: eto dolgo
+[Sat Apr 02 20:15:42 2016]  say: cccûöóê: davai zavtra
+[Sat Apr 02 20:15:45 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: :(
+[Sat Apr 02 20:15:48 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: T_T
+[Sat Apr 02 20:15:48 2016]  say: cccûöóê: a poka tak poigraem
+[Sat Apr 02 20:15:59 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak ti soidenyal?
+[Sat Apr 02 20:16:05 2016]  say: cccûöóê: chtobi rovno?
+[Sat Apr 02 20:16:08 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: da
+[Sat Apr 02 20:16:15 2016]  say: cccûöóê: dlya nachala nado postavit tochko
+[Sat Apr 02 20:16:17 2016]  say: cccûöóê: ydali vse
+[Sat Apr 02 20:16:23 2016]  say: cccûöóê: suda
+[Sat Apr 02 20:16:27 2016]  say: cccûöóê:  /mmark
+[Sat Apr 02 20:16:37 2016]  say: cccûöóê: sozdavai
+[Sat Apr 02 20:16:48 2016]  say: cccûöóê: esche 1 sozdai
+[Sat Apr 02 20:16:54 2016]  say: cccûöóê:  /mmove 12 0 0
+[Sat Apr 02 20:17:09 2016]  say: cccûöóê: esche sozdai
+[Sat Apr 02 20:17:15 2016]  say: cccûöóê:  /mmove -12 0 0
+[Sat Apr 02 20:17:31 2016]  say: cccûöóê: esche
+[Sat Apr 02 20:17:36 2016]  say: cccûöóê:  /mmove 12 12 0
+[Sat Apr 02 20:17:46 2016]  say: cccûöóê: esche
+[Sat Apr 02 20:17:49 2016]  say: cccûöóê:  /mmove -12 -12 0 
+[Sat Apr 02 20:17:57 2016]  say: cccûöóê: ...
+[Sat Apr 02 20:17:59 2016]  say: cccûöóê:  /mkill
+[Sat Apr 02 20:18:07 2016]  say: cccûöóê: /mkill
+[Sat Apr 02 20:18:15 2016]  say: cccûöóê: chtobi 1 ydalit
+[Sat Apr 02 20:18:25 2016]  say: cccûöóê:  sozdai
+[Sat Apr 02 20:18:31 2016]  say: cccûöóê: i pishi /mmove 12 12 0 
+[Sat Apr 02 20:18:41 2016]  say: cccûöóê: rastoyanie mejdy platformami 12
+[Sat Apr 02 20:18:48 2016]  say: cccûöóê: esche sozdai
+[Sat Apr 02 20:18:58 2016]  say: cccûöóê: esche sozdai
+[Sat Apr 02 20:19:05 2016]  say: cccûöóê:  /mmove 12 -12 0
+[Sat Apr 02 20:19:18 2016]  say: cccûöóê: esche sozda
+[Sat Apr 02 20:19:27 2016]  say: cccûöóê: horosho
+[Sat Apr 02 20:19:36 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak povernut?
+[Sat Apr 02 20:19:41 2016]  say: cccûöóê: kuda
+[Sat Apr 02 20:19:46 2016]  say: cccûöóê: hm
+[Sat Apr 02 20:19:54 2016]  say: cccûöóê: davai po drugomy
+[Sat Apr 02 20:20:12 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak vse podnyat'?
+[Sat Apr 02 20:20:22 2016]  say: cccûöóê:  /mmoveall
+[Sat Apr 02 20:20:36 2016]  say: cccûöóê: smotri koe chto
+[Sat Apr 02 20:20:43 2016]  say: cccûöóê: stop
+[Sat Apr 02 20:20:46 2016]  say: cccûöóê:  /mmoveall 0 
+[Sat Apr 02 20:21:01 2016]  say: cccûöóê: /mmoveall 0!
+[Sat Apr 02 20:21:04 2016]  say: cccûöóê: AAA
+[Sat Apr 02 20:21:11 2016]  say: cccûöóê: prekrati
+[Sat Apr 02 20:21:13 2016]  say: cccûöóê: smotri
+[Sat Apr 02 20:21:18 2016]  say: cccûöóê: navodish kamery
+[Sat Apr 02 20:21:24 2016]  say: cccûöóê: na mesto kuda hochesh poletet
+[Sat Apr 02 20:21:34 2016]  say: cccûöóê: ...
+[Sat Apr 02 20:21:38 2016]  say: cccûöóê:  /mmoveall 0 0 150
+[Sat Apr 02 20:21:45 2016]  say: cccûöóê: eto chtobi podnyat
+[Sat Apr 02 20:21:55 2016]  say: cccûöóê: /mmoveall 0
+[Sat Apr 02 20:22:05 2016]  say: cccûöóê: navedi kamery tyda
+[Sat Apr 02 20:22:07 2016]  say: cccûöóê: i pishi
+[Sat Apr 02 20:22:11 2016]  say: cccûöóê:  /mmoveall 100
+[Sat Apr 02 20:22:32 2016]  say: cccûöóê: skorost' lubyu
+[Sat Apr 02 20:22:33 2016]  say: cccûöóê: no
+[Sat Apr 02 20:22:36 2016]  say: cccûöóê: mojno viletat
+[Sat Apr 02 20:22:41 2016]  say: cccûöóê: esli bolshaya
+[Sat Apr 02 20:23:10 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak povernut'?
+[Sat Apr 02 20:23:15 2016]  say: cccûöóê: o
+[Sat Apr 02 20:23:18 2016]  say: cccûöóê: hochesh prikol
+[Sat Apr 02 20:23:26 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: KAK POCERNUT'?
+[Sat Apr 02 20:23:29 2016]  say: cccûöóê:  /mrotateall 1999 1999 1999
+[Sat Apr 02 20:23:30 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: v*
+[Sat Apr 02 20:23:37 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: net
+[Sat Apr 02 20:23:40 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: odnu
+[Sat Apr 02 20:23:46 2016]  say: cccûöóê:  /mrotate 
+[Sat Apr 02 20:24:20 2016]  say: cccûöóê:  /mrotateall 1999 1999 1999999
+[Sat Apr 02 20:24:48 2016]  say: cccûöóê: chto eto
+[Sat Apr 02 20:25:24 2016]  say: cccûöóê: nado esche sdelat
+[Sat Apr 02 20:25:25 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: bb
+[Sat Apr 02 20:25:28 2016]  say: cccûöóê: poka
+[Sat Apr 02 20:25:30 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: do zavtra :(
+[Sat Apr 02 20:25:40 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: sps 4to nau4il
+[Sat Apr 02 20:26:01 2016]  ClientDisconnect: 1
+[Sat Apr 02 20:26:03 2016]  ClientDisconnect: 0
+[Sun Apr 03 07:55:15 2016]  ClientConnect: 0
+[Sun Apr 03 07:55:15 2016]  mlog:Player Padawan, connected. With IP - 178.121.27.224:8628 
+[Sun Apr 03 07:56:06 2016]  ClientBegin: 0
+[Sun Apr 03 08:13:35 2016]  Kill: 0 0 36: cccûöóê killed cccûöóê by MOD_CRUSH
+[Sun Apr 03 08:20:15 2016]  ClientConnect: 1
+[Sun Apr 03 08:20:15 2016]  mlog:Player ^7(^5tna^7)^5S^7am, connected. With IP - 172.14.26.250:29070 
+[Sun Apr 03 08:20:38 2016]  ClientBegin: 1
+[Sun Apr 03 08:21:54 2016]  Kill: 0 0 36: cccûöóê killed cccûöóê by MOD_CRUSH
+[Sun Apr 03 08:22:20 2016]  Kill: 0 0 36: cccûöóê killed cccûöóê by MOD_CRUSH
+[Sun Apr 03 08:22:22 2016]  say: ^5S^0am: ^5S^0ams ^5B^0omb ^5S^0cript^1.
+[Sun Apr 03 08:22:23 2016]  say: ^5S^0am: ^5E^0xploading ^5I^0n ^05
+[Sun Apr 03 08:22:23 2016]  say: ^5S^0am: ^04
+[Sun Apr 03 08:22:23 2016]  say: ^5S^0am: ^03
+[Sun Apr 03 08:22:23 2016]  say: ^5S^0am: ^02
+[Sun Apr 03 08:22:23 2016]  say: ^5S^0am: ^11
+[Sun Apr 03 08:22:23 2016]  Kill: 1 1 36: ^5S^0am killed ^5S^0am by MOD_CRUSH
+[Sun Apr 03 08:22:32 2016]  Kill: 1 1 39: ^5S^0am killed ^5S^0am by MOD_SUICIDE
+[Sun Apr 03 08:22:41 2016]  say: cccûöóê: ñêàæè êàê íåâèäèìûì áûòü
+[Sun Apr 03 08:22:42 2016]  say: ^5S^0am: ^5S^0ams ^5B^0omb ^5S^0cript^1.
+[Sun Apr 03 08:22:42 2016]  say: ^5S^0am: ^5E^0xploading ^5I^0n ^05
+[Sun Apr 03 08:22:42 2016]  say: ^5S^0am: ^04
+[Sun Apr 03 08:22:42 2016]  say: ^5S^0am: ^03
+[Sun Apr 03 08:22:42 2016]  say: ^5S^0am: ^02
+[Sun Apr 03 08:22:43 2016]  say: ^5S^0am: ^11
+[Sun Apr 03 08:22:43 2016]  Kill: 1022 1 0: <world> killed ^5S^0am by MOD_UNKNOWN
+[Sun Apr 03 08:22:57 2016]  say: ^5S^0am: ^5S^0ams ^5P^0ower ^1S^0tation ^5S^0cript^1.
+[Sun Apr 03 08:23:20 2016]  Kill: 1 1 39: ^5S^0am killed ^5S^0am by MOD_SUICIDE
+[Sun Apr 03 08:23:44 2016]  Kill: 1 1 39: ^5S^0am killed ^5S^0am by MOD_SUICIDE
+[Sun Apr 03 08:24:32 2016]  say: ^5S^0am: ^5Friendly ^1P^0ave ^5L^0ow ^5I^0nbound^1.
+[Sun Apr 03 08:25:19 2016]  Kill: 1022 1 7: <world> killed ^5S^0am by MOD_TURBLAST
+[Sun Apr 03 08:26:58 2016]  say: ^5S^0am: ^5S^0ams ^5B^0omb ^5S^0cript^1.
+[Sun Apr 03 08:26:59 2016]  say: ^5S^0am: ^5E^0xploading ^5I^0n ^05
+[Sun Apr 03 08:26:59 2016]  say: ^5S^0am: ^04
+[Sun Apr 03 08:26:59 2016]  say: ^5S^0am: ^03
+[Sun Apr 03 08:26:59 2016]  say: ^5S^0am: ^02
+[Sun Apr 03 08:26:59 2016]  say: ^5S^0am: ^11
+[Sun Apr 03 08:27:00 2016]  Kill: 1022 1 0: <world> killed ^5S^0am by MOD_UNKNOWN
+[Sun Apr 03 08:28:03 2016]  say: cccûöóê: what /mascaleme
+[Sun Apr 03 08:28:06 2016]  say: cccûöóê:  10.2
+[Sun Apr 03 08:28:08 2016]  say: cccûöóê: what 
+[Sun Apr 03 08:28:11 2016]  say: cccûöóê: no
+[Sun Apr 03 08:28:18 2016]  say: cccûöóê: pls 
+[Sun Apr 03 08:28:19 2016]  say: cccûöóê: what 
+[Sun Apr 03 08:28:28 2016]  say: ^5S^0am: mscaleme?
+[Sun Apr 03 08:28:31 2016]  say: cccûöóê: mscaleme
+[Sun Apr 03 08:28:37 2016]  say: ^5S^0am: makes you bigger
+[Sun Apr 03 08:29:01 2016]  say: cccûöóê: what 
+[Sun Apr 03 08:29:05 2016]  say: ^5S^0am: yes
+[Sun Apr 03 08:29:45 2016]  Kill: 1022 0 2: <world> killed cccûöóê by MOD_MELEE
+[Sun Apr 03 08:32:38 2016]  say: ^5S^0am: ^1Hes called in the Tactical Nuke!!!!! Its all over!!!
+[Sun Apr 03 08:32:41 2016]  Kill: 1022 1 0: <world> killed ^5S^0am by MOD_UNKNOWN
+[Sun Apr 03 08:32:44 2016]  Kill: 1022 0 2: <world> killed cccûöóê by MOD_MELEE
+[Sun Apr 03 08:32:52 2016]  say: ^5S^0am: ^1Hes called in the Tactical Nuke!!!!! Its all over!!!
+[Sun Apr 03 08:33:05 2016]  say: ^5S^0am: ^5S^0ams ^5B^0omb ^5S^0cript^1.
+[Sun Apr 03 08:33:05 2016]  say: ^5S^0am: ^5E^0xploading ^5I^0n ^05
+[Sun Apr 03 08:33:06 2016]  say: ^5S^0am: ^04
+[Sun Apr 03 08:33:06 2016]  say: ^5S^0am: ^03
+[Sun Apr 03 08:33:06 2016]  say: ^5S^0am: ^02
+[Sun Apr 03 08:33:06 2016]  say: ^5S^0am: ^11
+[Sun Apr 03 08:33:11 2016]  say: ^5S^0am: ^5S^0ams ^5B^0omb ^5S^0cript^1.
+[Sun Apr 03 08:33:11 2016]  say: ^5S^0am: ^5E^0xploading ^5I^0n ^05
+[Sun Apr 03 08:33:11 2016]  say: ^5S^0am: ^04
+[Sun Apr 03 08:33:11 2016]  say: ^5S^0am: ^03
+[Sun Apr 03 08:33:12 2016]  say: ^5S^0am: ^02
+[Sun Apr 03 08:33:12 2016]  say: ^5S^0am: ^11
+[Sun Apr 03 08:33:14 2016]  say: ^5S^0am: ^5S^0ams ^5B^0omb ^5S^0cript^1.
+[Sun Apr 03 08:33:14 2016]  say: ^5S^0am: ^5E^0xploading ^5I^0n ^05
+[Sun Apr 03 08:33:15 2016]  say: ^5S^0am: ^04
+[Sun Apr 03 08:33:15 2016]  say: ^5S^0am: ^03
+[Sun Apr 03 08:33:15 2016]  say: ^5S^0am: ^02
+[Sun Apr 03 08:33:15 2016]  say: ^5S^0am: ^11
+[Sun Apr 03 08:33:58 2016]  Kill: 1022 0 3: <world> killed cccûöóê by MOD_SABER
+[Sun Apr 03 08:34:43 2016]  say: ^5S^0am: ^1Hes called in the Tactical Nuke!!!!! Its all over!!!
+[Sun Apr 03 08:35:04 2016]  say: ^5S^0am: ^5S^0ams ^5B^0omb ^5S^0cript^1.
+[Sun Apr 03 08:35:04 2016]  say: ^5S^0am: ^5E^0xploading ^5I^0n ^05
+[Sun Apr 03 08:35:05 2016]  say: ^5S^0am: ^04
+[Sun Apr 03 08:35:05 2016]  say: ^5S^0am: ^03
+[Sun Apr 03 08:35:05 2016]  say: ^5S^0am: ^02
+[Sun Apr 03 08:35:06 2016]  say: ^5S^0am: ^11
+[Sun Apr 03 08:35:12 2016]  Kill: 1022 0 3: <world> killed cccûöóê by MOD_SABER
+[Sun Apr 03 08:35:58 2016]  say: ^5S^0am: ^5S^0ams ^5B^0omb ^5S^0cript^1.
+[Sun Apr 03 08:35:58 2016]  say: ^5S^0am: ^5E^0xploading ^5I^0n ^05
+[Sun Apr 03 08:35:58 2016]  say: ^5S^0am: ^04
+[Sun Apr 03 08:35:58 2016]  say: ^5S^0am: ^03
+[Sun Apr 03 08:35:58 2016]  say: ^5S^0am: ^02
+[Sun Apr 03 08:35:59 2016]  say: ^5S^0am: ^11
+[Sun Apr 03 08:36:08 2016]  say: ^5S^0am: ^5S^0ams ^5B^0omb ^5S^0cript^1.
+[Sun Apr 03 08:36:08 2016]  say: ^5S^0am: ^5E^0xploading ^5I^0n ^05
+[Sun Apr 03 08:36:08 2016]  say: ^5S^0am: ^04
+[Sun Apr 03 08:36:08 2016]  say: ^5S^0am: ^03
+[Sun Apr 03 08:36:08 2016]  say: ^5S^0am: ^02
+[Sun Apr 03 08:36:08 2016]  say: ^5S^0am: ^11
+[Sun Apr 03 08:36:17 2016]  say: ^5S^0am: ^5S^0ams ^5B^0omb ^5S^0cript^1.
+[Sun Apr 03 08:36:17 2016]  say: ^5S^0am: ^5E^0xploading ^5I^0n ^05
+[Sun Apr 03 08:36:17 2016]  say: ^5S^0am: ^04
+[Sun Apr 03 08:36:17 2016]  say: ^5S^0am: ^03
+[Sun Apr 03 08:36:17 2016]  say: ^5S^0am: ^02
+[Sun Apr 03 08:36:18 2016]  say: ^5S^0am: ^11
+[Sun Apr 03 08:36:45 2016]  say: ^5S^0am: ^5S^0ams ^5B^0omb ^5S^0cript^1.
+[Sun Apr 03 08:36:45 2016]  say: ^5S^0am: ^5E^0xploading ^5I^0n ^05
+[Sun Apr 03 08:36:45 2016]  say: ^5S^0am: ^04
+[Sun Apr 03 08:36:45 2016]  say: ^5S^0am: ^03
+[Sun Apr 03 08:36:46 2016]  say: ^5S^0am: ^02
+[Sun Apr 03 08:36:46 2016]  say: ^5S^0am: ^11
+[Sun Apr 03 08:36:46 2016]  Kill: 1 0 36: ^5S^0am killed cccûöóê by MOD_CRUSH
+[Sun Apr 03 08:36:52 2016]  say: ^5S^0am: ^5S^0ams ^5B^0omb ^5S^0cript^1.
+[Sun Apr 03 08:36:52 2016]  say: ^5S^0am: ^5E^0xploading ^5I^0n ^05
+[Sun Apr 03 08:36:52 2016]  say: ^5S^0am: ^04
+[Sun Apr 03 08:36:52 2016]  say: ^5S^0am: ^03
+[Sun Apr 03 08:36:52 2016]  say: ^5S^0am: ^02
+[Sun Apr 03 08:36:52 2016]  say: ^5S^0am: ^11
+[Sun Apr 03 08:36:52 2016]  say: cccûöóê: what mplace bomb
+[Sun Apr 03 08:37:03 2016]  say: cccûöóê: sam
+[Sun Apr 03 08:37:07 2016]  say: ^5S^0am: its a script i made of multiple commands at once
+[Sun Apr 03 08:37:11 2016]  say: ^5S^0am: i dont remember anymore 
+[Sun Apr 03 08:37:16 2016]  say: ^5S^0am: ^5S^0ams ^5B^0omb ^5S^0cript^1.
+[Sun Apr 03 08:37:16 2016]  say: ^5S^0am: ^5E^0xploading ^5I^0n ^05
+[Sun Apr 03 08:37:16 2016]  say: ^5S^0am: ^04
+[Sun Apr 03 08:37:16 2016]  say: ^5S^0am: ^03
+[Sun Apr 03 08:37:16 2016]  say: ^5S^0am: ^02
+[Sun Apr 03 08:37:16 2016]  say: ^5S^0am: ^11
+[Sun Apr 03 08:37:17 2016]  say: cccûöóê: pls mplace bomb
+[Sun Apr 03 08:37:24 2016]  say: ^5S^0am: i dont remember
+[Sun Apr 03 08:38:31 2016]  Kill: 1 1 39: ^5S^0am killed ^5S^0am by MOD_SUICIDE
+[Sun Apr 03 08:39:04 2016]  say: ^5S^0am: ^5Friendly ^1P^0ave ^5L^0ow ^5I^0nbound^1.
+[Sun Apr 03 08:41:42 2016]  say: ^5S^0am: ^5Meditation Session Started.
+[Sun Apr 03 08:42:02 2016]  Kill: 1 0 0: ^5S^0am killed cccûöóê by MOD_UNKNOWN
+[Sun Apr 03 08:46:25 2016]  ClientDisconnect: 1
+[Sun Apr 03 08:46:28 2016]  ClientConnect: 1
+[Sun Apr 03 08:46:28 2016]  mlog:Player Padawan, connected. With IP - 172.14.26.250:29070 
+[Sun Apr 03 08:46:56 2016]  ClientBegin: 1
+[Sun Apr 03 08:47:32 2016]  say: Padawan: hello
+[Sun Apr 03 08:47:38 2016]  say: cccûöóê: hi 
+[Sun Apr 03 08:48:52 2016]  Kill: 0 1 3: cccûöóê killed Padawan by MOD_SABER
+[Sun Apr 03 08:51:06 2016]  ClientDisconnect: 0
+[Sun Apr 03 08:51:19 2016]  ClientDisconnect: 1
+[Sun Apr 03 08:51:46 2016]  ClientConnect: 0
+[Sun Apr 03 08:51:46 2016]  mlog:Player ^5A^0r^5s, connected. With IP - 62.182.80.11:29070 
+[Sun Apr 03 08:52:10 2016]  ClientBegin: 0
+[Sun Apr 03 08:56:15 2016]  ClientConnect: 1
+[Sun Apr 03 08:56:15 2016]  mlog:Player Padawan, connected. With IP - 178.121.27.224:-24674 
+[Sun Apr 03 08:57:35 2016]  ClientBegin: 1
+[Sun Apr 03 08:57:45 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: sdelai nick norm pj
+[Sun Apr 03 08:57:53 2016]  print "cccûöóê^7 @@@PLRENAME dsdew
+"[Sun Apr 03 08:57:57 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: :D
+[Sun Apr 03 08:58:12 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: pomogi s korablem pj
+[Sun Apr 03 08:58:45 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak skinut' to4ku?
+[Sun Apr 03 08:59:27 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: eto korabl'?
+[Sun Apr 03 09:00:02 2016]  say: dsdew: ^3This duel platform was made by ^1P^4etz^1I
+[Sun Apr 03 09:00:05 2016]  Kill: 0 1 3: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA killed dsdew by MOD_SABER
+[Sun Apr 03 09:00:08 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: oi
+[Sun Apr 03 09:00:10 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: sori
+[Sun Apr 03 09:00:29 2016]  say: dsdew: erynda 
+[Sun Apr 03 09:00:32 2016]  say: dsdew: polychilas
+[Sun Apr 03 09:02:09 2016]  say: dsdew: chto delat
+[Sun Apr 03 09:02:13 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: korabl'
+[Sun Apr 03 09:02:25 2016]  say: dsdew: ok
+[Sun Apr 03 09:02:35 2016]  say: dsdew: stav tochky
+[Sun Apr 03 09:02:39 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: uje
+[Sun Apr 03 09:02:55 2016]  say: dsdew: ydali
+[Sun Apr 03 09:03:03 2016]  say: dsdew: sozdai
+[Sun Apr 03 09:03:44 2016]  say: dsdew: ya budu delat krishu
+[Sun Apr 03 09:03:47 2016]  say: dsdew: a ti pol
+[Sun Apr 03 09:03:53 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: k
+[Sun Apr 03 09:06:33 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: problemka :/
+[Sun Apr 03 09:06:37 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: lol
+[Sun Apr 03 09:06:47 2016]  say: dsdew: tak
+[Sun Apr 03 09:06:59 2016]  say: dsdew: navedi kamery na ety platformy
+[Sun Apr 03 09:07:06 2016]  say: dsdew: i napishi /mselect
+[Sun Apr 03 09:07:56 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: i?
+[Sun Apr 03 09:07:59 2016]  say: dsdew:  /mkill
+[Sun Apr 03 09:08:16 2016]  say: dsdew:  /mselect videlyaet ob'ekt
+[Sun Apr 03 09:09:42 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: :/
+[Sun Apr 03 09:10:24 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: a kak ti tut sdelal?
+[Sun Apr 03 09:10:40 2016]  say: dsdew:  /mmove 0 12 0
+[Sun Apr 03 09:11:06 2016]  say: dsdew: /=
+[Sun Apr 03 09:11:15 2016]  say: dsdew: chto eto
+[Sun Apr 03 09:11:28 2016]  say: dsdew: o
+[Sun Apr 03 09:13:27 2016]  say: dsdew: nado tolko sohranit pomot
+[Sun Apr 03 09:13:30 2016]  say: dsdew:  /msaveobs 
+[Sun Apr 03 09:13:52 2016]  say: dsdew: sohranil?
+[Sun Apr 03 09:13:57 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: net
+[Sun Apr 03 09:14:01 2016]  say: dsdew: sohrani
+[Sun Apr 03 09:14:06 2016]  say: dsdew: ili esli viletish vse propadet
+[Sun Apr 03 09:14:34 2016]  say: dsdew: vse?
+[Sun Apr 03 09:14:37 2016]  say: dsdew: davai proverim
+[Sun Apr 03 09:14:40 2016]  say: dsdew: ydalya vse
+[Sun Apr 03 09:14:47 2016]  say: dsdew:  /mloadobs
+[Sun Apr 03 09:15:05 2016]  say: dsdew: vot
+[Sun Apr 03 09:15:45 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak postavit; 4toto?
+[Sun Apr 03 09:15:48 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: nu
+[Sun Apr 03 09:15:53 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: nazvanie
+[Sun Apr 03 09:15:53 2016]  say: dsdew:  /mlist
+[Sun Apr 03 09:15:59 2016]  say: dsdew: tam ob'ekti
+[Sun Apr 03 09:16:05 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: ya znayu
+[Sun Apr 03 09:16:11 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: 4to dalee?
+[Sun Apr 03 09:16:19 2016]  say: dsdew:  /mlist fail
+[Sun Apr 03 09:16:26 2016]  say: dsdew: fail vibranniy
+[Sun Apr 03 09:16:36 2016]  say: dsdew: i chtobi ob'ekt postavit
+[Sun Apr 03 09:16:42 2016]  say: dsdew:  /mplace fail/ob'ekt
+[Sun Apr 03 09:17:18 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: ni4ego :(
+[Sun Apr 03 09:17:23 2016]  say: dsdew: chto ti napisal?
+[Sun Apr 03 09:17:30 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: mlist fail/byss
+[Sun Apr 03 09:17:40 2016]  say: dsdew: che za bred?
+[Sun Apr 03 09:17:45 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: ?
+[Sun Apr 03 09:17:49 2016]  say: dsdew:  /mlist byss
+[Sun Apr 03 09:18:01 2016]  say: dsdew: tam ob'ekti iz papki
+[Sun Apr 03 09:18:35 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: mlist control_panel
+[Sun Apr 03 09:18:38 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: :(
+[Sun Apr 03 09:18:44 2016]  say: dsdew: da blin
+[Sun Apr 03 09:18:47 2016]  say: dsdew: chtobi postavit
+[Sun Apr 03 09:18:50 2016]  say: dsdew: nado pisat
+[Sun Apr 03 09:18:57 2016]  say: dsdew:  /mplace byss/control_panel
+[Sun Apr 03 09:19:00 2016]  say: dsdew: ili kak tam 
+[Sun Apr 03 09:19:06 2016]  say: dsdew:  byss-eto fail
+[Sun Apr 03 09:19:21 2016]  say: dsdew:  /mgrab
+[Sun Apr 03 09:19:31 2016]  say: dsdew:  /mgrab
+[Sun Apr 03 09:19:56 2016]  say: dsdew: a gde budet vhod?
+[Sun Apr 03 09:20:06 2016]  say: dsdew: eto?
+[Sun Apr 03 09:20:16 2016]  say: dsdew: ydali eto
+[Sun Apr 03 09:20:22 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: mselect
+[Sun Apr 03 09:22:54 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: :/
+[Sun Apr 03 09:23:50 2016]  say: dsdew: o
+[Sun Apr 03 09:23:59 2016]  say: dsdew: polychilos
+[Sun Apr 03 09:25:17 2016]  say: dsdew: kstati
+[Sun Apr 03 09:25:21 2016]  say: dsdew: ya turreli postavlu
+[Sun Apr 03 09:25:27 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: ok
+[Sun Apr 03 09:26:45 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: a mojno dobavit' npc?
+[Sun Apr 03 09:26:55 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: ?
+[Sun Apr 03 09:27:02 2016]  say: dsdew: kak hochesh
+[Sun Apr 03 09:27:15 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: shturmovikov
+[Sun Apr 03 09:27:30 2016]  say: dsdew: kak-to mojno sdelat chtobi ona strelyala
+[Sun Apr 03 09:27:35 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: :/
+[Sun Apr 03 09:27:57 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak povernut?
+[Sun Apr 03 09:28:04 2016]  say: dsdew:  /mrotate
+[Sun Apr 03 09:28:29 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: =/
+[Sun Apr 03 09:29:07 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: dodelay steni
+[Sun Apr 03 09:31:25 2016]  say: dsdew: lift
+[Sun Apr 03 09:33:00 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: dver'-lift :D
+[Sun Apr 03 09:33:12 2016]  say: dsdew: ya afk 5 min
+[Sun Apr 03 09:33:15 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: :(
+[Sun Apr 03 09:33:22 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: dostroi pj
+[Sun Apr 03 09:39:35 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak?
+[Sun Apr 03 09:39:44 2016]  say: dsdew: eto moi napisanniy skript
+[Sun Apr 03 09:40:13 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: go dal'she stroit'
+[Sun Apr 03 09:40:18 2016]  say: dsdew: da
+[Sun Apr 03 09:40:25 2016]  Kill: 0 0 39: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_SUICIDE
+[Sun Apr 03 09:40:32 2016]  say: dsdew: em
+[Sun Apr 03 09:40:37 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: lol
+[Sun Apr 03 09:40:40 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: uberi lift
+[Sun Apr 03 09:40:51 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: ili sdelay s knopkoi
+[Sun Apr 03 09:41:04 2016]  say: dsdew: s knopkoi polychilas tolko dver
+[Sun Apr 03 09:41:26 2016]  say: dsdew: davai koe chto proverim
+[Sun Apr 03 09:41:28 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: dodelai steni
+[Sun Apr 03 09:41:34 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: a ya desain :D
+[Sun Apr 03 09:41:36 2016]  say: dsdew: napishi /mmoveall 0 0 100
+[Sun Apr 03 09:41:58 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: :/
+[Sun Apr 03 09:42:33 2016]  say: dsdew:  /mmoveall 0 0 -100
+[Sun Apr 03 09:42:57 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: :/
+[Sun Apr 03 09:43:00 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: =/
+[Sun Apr 03 09:43:54 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: vse
+[Sun Apr 03 09:44:25 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: delai steni
+[Sun Apr 03 09:44:31 2016]  say: dsdew: tak
+[Sun Apr 03 09:44:34 2016]  say: dsdew: ydali ka vse
+[Sun Apr 03 09:44:44 2016]  say: dsdew: delai
+[Sun Apr 03 09:44:54 2016]  say: dsdew: t'fu ti
+[Sun Apr 03 09:44:58 2016]  say: dsdew: mi je ne sohranili togda
+[Sun Apr 03 09:45:06 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: =\
+[Sun Apr 03 09:45:19 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak postavit'?
+[Sun Apr 03 09:45:24 2016]  say: dsdew:  /mloadobs
+[Sun Apr 03 09:45:25 2016]  Kill: 1 0 36: dsdew killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_CRUSH
+[Sun Apr 03 09:46:15 2016]  Kill: 1 0 3: dsdew killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_SABER
+[Sun Apr 03 09:49:14 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: ?
+[Sun Apr 03 09:49:19 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: aaaaaaaaaaaaaaa
+[Sun Apr 03 09:50:29 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: smotri
+[Sun Apr 03 09:50:44 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: smotri
+[Sun Apr 03 09:53:11 2016]  say: dsdew:  /mscale
+[Sun Apr 03 09:53:13 2016]  say: dsdew: ymen'shi
+[Sun Apr 03 09:53:22 2016]  say: dsdew:  0.6
+[Sun Apr 03 09:53:48 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: lol
+[Sun Apr 03 09:54:04 2016]  say: dsdew: s knpkoi vhod ili bez
+[Sun Apr 03 09:54:11 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: s
+[Sun Apr 03 09:54:31 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak?
+[Sun Apr 03 09:54:38 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: tut nado postavit'
+[Sun Apr 03 09:54:45 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: nety
+[Sun Apr 03 09:54:48 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: net
+[Sun Apr 03 09:54:49 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: stoi
+[Sun Apr 03 09:54:52 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: uberi
+[Sun Apr 03 09:54:53 2016]  say: dsdew:  /mplace imperial/controlpanel
+[Sun Apr 03 09:55:00 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: uberi
+[Sun Apr 03 09:55:15 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: eto knopka budet
+[Sun Apr 03 09:56:17 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: lol
+[Sun Apr 03 09:56:20 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: ya pridumal
+[Sun Apr 03 09:56:24 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: smotri
+[Sun Apr 03 09:56:29 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: vot tut
+[Sun Apr 03 09:56:38 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: /mmove 0 0 100
+[Sun Apr 03 09:56:43 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: tut'
+[Sun Apr 03 09:56:52 2016]  say: dsdew: eto tvoi ob'ekti
+[Sun Apr 03 09:56:54 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: /mmove -80
+[Sun Apr 03 09:57:04 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: i kak ih sdelat?
+[Sun Apr 03 09:57:10 2016]  say: dsdew: chto
+[Sun Apr 03 09:57:16 2016]  say: dsdew: najimat chtobi
+[Sun Apr 03 09:57:22 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: da
+[Sun Apr 03 09:57:27 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: na etom
+[Sun Apr 03 09:57:28 2016]  say: dsdew: kakyu 
+[Sun Apr 03 09:57:37 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: /mmove 0 0 100
+[Sun Apr 03 09:57:37 2016]  say: dsdew:  /mselect
+[Sun Apr 03 09:57:39 2016]  say: dsdew: navedi na eto
+[Sun Apr 03 09:57:43 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: /mselect
+[Sun Apr 03 09:57:54 2016]  say: dsdew:  /mname ko
+[Sun Apr 03 09:58:17 2016]  say: dsdew:  /musable
+[Sun Apr 03 09:58:41 2016]  say: dsdew: teper nado soedinit s ob'ektom na kotoriy budet deistvovat eta knopka
+[Sun Apr 03 09:58:42 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: a kak 4tob ono comandu vipolnyalo?
+[Sun Apr 03 09:58:48 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: na vse
+[Sun Apr 03 09:58:58 2016]  say: dsdew: ou
+[Sun Apr 03 09:58:59 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: /mmove 0 0 100
+[Sun Apr 03 09:59:12 2016]  say: dsdew: eto nado vse videlyat i davat im imya
+[Sun Apr 03 09:59:24 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: =/
+[Sun Apr 03 09:59:31 2016]  say: dsdew: smotri naprimer
+[Sun Apr 03 09:59:38 2016]  say: dsdew: suda
+[Sun Apr 03 09:59:45 2016]  say: dsdew:  /mselect
+[Sun Apr 03 09:59:59 2016]  say: dsdew: /mname im1
+[Sun Apr 03 10:00:12 2016]  say: dsdew:  /mplatform 30
+[Sun Apr 03 10:00:26 2016]  say: dsdew:  /mselect
+[Sun Apr 03 10:00:29 2016]  say: dsdew:  /mname im2
+[Sun Apr 03 10:00:32 2016]  say: dsdew:  /mplatform 30
+[Sun Apr 03 10:00:43 2016]  say: dsdew: suda
+[Sun Apr 03 10:00:48 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak ti voshel?
+[Sun Apr 03 10:00:57 2016]  say: dsdew:  /mselect
+[Sun Apr 03 10:01:11 2016]  say: dsdew:  /mconnectto im1
+[Sun Apr 03 10:01:30 2016]  say: dsdew:  /mconnetto imp2
+[Sun Apr 03 10:01:33 2016]  say: dsdew: im*
+[Sun Apr 03 10:01:44 2016]  say: dsdew: ny vot tak primerno rabotaet
+[Sun Apr 03 10:01:55 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: =/
+[Sun Apr 03 10:02:00 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: fail
+[Sun Apr 03 10:02:59 2016]  say: dsdew: dalshe chto
+[Sun Apr 03 10:03:11 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak ih vseh sdelyat' moimi?
+[Sun Apr 03 10:03:22 2016]  say: dsdew: to chto ne ti delal nikak
+[Sun Apr 03 10:03:32 2016]  say: dsdew: tolko svoi mojno
+[Sun Apr 03 10:04:02 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: :(
+[Sun Apr 03 10:04:13 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: i 4to s etim delat'?
+[Sun Apr 03 10:04:33 2016]  say: dsdew: s chem
+[Sun Apr 03 10:04:37 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: s vsem
+[Sun Apr 03 10:04:42 2016]  say: dsdew: ne znau
+[Sun Apr 03 10:05:04 2016]  Kill: 1 0 3: dsdew killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_SABER
+[Sun Apr 03 10:05:06 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak?
+[Sun Apr 03 10:05:15 2016]  Kill: 1 0 36: dsdew killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_CRUSH
+[Sun Apr 03 10:05:24 2016]  Kill: 1 0 36: dsdew killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_CRUSH
+[Sun Apr 03 10:05:27 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: da hare
+[Sun Apr 03 10:05:30 2016]  say: dsdew: ok
+[Sun Apr 03 10:05:42 2016]  say: dsdew: letim
+[Sun Apr 03 10:05:45 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: da
+[Sun Apr 03 10:05:48 2016]  say: dsdew:  /mmoveall 0 0 100
+[Sun Apr 03 10:06:21 2016]  say: dsdew:  /mmoveall 50 0 0
+[Sun Apr 03 10:06:37 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: fail
+[Sun Apr 03 10:06:41 2016]  say: dsdew:  /mmoveall -100 0 0
+[Sun Apr 03 10:06:55 2016]  Kill: 1 0 3: dsdew killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_SABER
+[Sun Apr 03 10:07:05 2016]  say: dsdew: My origin is: (-7302 -20601 2515) - You can teleport here with /mtelelast
+
+[Sun Apr 03 10:07:08 2016]  say: dsdew:  /mtelelast
+[Sun Apr 03 10:07:17 2016]  Kill: 0 1 37: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA killed dsdew by MOD_TELEFRAG
+[Sun Apr 03 10:07:22 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: =/
+[Sun Apr 03 10:07:32 2016]  say: dsdew: nado chto-to delat
+[Sun Apr 03 10:07:37 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: letim
+[Sun Apr 03 10:07:44 2016]  say: dsdew: kakoe ti vvel
+[Sun Apr 03 10:07:46 2016]  say: dsdew: chislo
+[Sun Apr 03 10:07:49 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: -100
+[Sun Apr 03 10:08:05 2016]  Kill: 1022 0 38: <world> killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_FALLING
+[Sun Apr 03 10:08:23 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: letim opyat'
+[Sun Apr 03 10:08:30 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: -100
+[Sun Apr 03 10:09:02 2016]  say: dsdew: My origin is: (-9287 -20555 2515) - You can teleport here with /mtelelast
+
+[Sun Apr 03 10:09:32 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: sohrani
+[Sun Apr 03 10:09:45 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: xd
+[Sun Apr 03 10:09:51 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: sohranil?
+[Sun Apr 03 10:10:32 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak?
+[Sun Apr 03 10:10:37 2016]  say: dsdew: eto skript
+[Sun Apr 03 10:10:37 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: skaji kak
+[Sun Apr 03 10:10:49 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: no kak?
+[Sun Apr 03 10:11:34 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: =/
+[Sun Apr 03 10:11:55 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: skaji pj kak
+[Sun Apr 03 10:12:02 2016]  say: dsdew: eto mnogo komand
+[Sun Apr 03 10:12:31 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: kak regen pointi delat'?
+[Sun Apr 03 10:12:36 2016]  say: dsdew: potom napomni ya tebe poshlu skript
+[Sun Apr 03 10:12:52 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: go mne komnatu delat'?
+[Sun Apr 03 10:13:14 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: =/
+[Sun Apr 03 10:13:21 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: go delat
+[Sun Apr 03 10:13:36 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: na vtoroi makermod
+[Sun Apr 03 10:13:40 2016]  say: -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA: ya poshel
+[Sun Apr 03 10:13:44 2016]  ClientDisconnect: 0
+[Sun Apr 03 10:13:55 2016]  ClientDisconnect: 1
+[Sun Apr 03 12:27:26 2016]  ClientConnect: 0
+[Sun Apr 03 12:27:26 2016]  mlog:Player Padawan, connected. With IP - 178.121.27.224:12328 
+[Sun Apr 03 12:28:47 2016]  ClientBegin: 0
+[Sun Apr 03 12:28:57 2016]  say: dsdew: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sun Apr 03 12:29:00 2016]  say: dsdew: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sun Apr 03 12:29:19 2016]  say: dsdew: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sun Apr 03 12:29:22 2016]  say: dsdew: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sun Apr 03 12:29:42 2016]  say: dsdew: Platform script devoleped by ^0Neo^1b^2o^3y^480 ^2 is ^3on
+[Sun Apr 03 12:36:21 2016]  ClientDisconnect: 0
+[Sun Apr 03 13:14:39 2016]  ClientConnect: 0
+[Sun Apr 03 13:14:39 2016]  mlog:Player Padawan, connected. With IP - 89.24.132.12:29070 
+[Sun Apr 03 13:14:58 2016]  ClientBegin: 0
+[Sun Apr 03 13:15:15 2016]  ClientDisconnect: 0
+[Sun Apr 03 13:36:38 2016]  ClientConnect: 0
+[Sun Apr 03 13:36:38 2016]  mlog:Player Padawan, connected. With IP - 89.24.132.12:29070 
+[Sun Apr 03 13:36:57 2016]  ClientDisconnect: 0
+[Sun Apr 03 16:52:30 2016]  ClientConnect: 0
+[Sun Apr 03 16:52:30 2016]  mlog:Player Padawan, connected. With IP - 178.121.27.224:21092 
+[Sun Apr 03 16:53:49 2016]  ClientBegin: 0
+[Sun Apr 03 16:54:39 2016]  ClientDisconnect: 0
+[Sun Apr 03 17:39:46 2016]  ClientConnect: 0
+[Sun Apr 03 17:39:46 2016]  mlog:Player ^1M^7r ^1Ð^7innertime, connected. With IP - 165.120.247.223:29070 
+[Sun Apr 03 17:40:26 2016]  ClientBegin: 0
+[Sun Apr 03 18:12:34 2016]  ClientConnect: 1
+[Sun Apr 03 18:12:34 2016]  mlog:Player Padawan, connected. With IP - 178.121.27.224:-4466 
+[Sun Apr 03 18:13:54 2016]  ClientBegin: 1
+[Sun Apr 03 18:14:03 2016]  say: dsdew: A
+[Sun Apr 03 18:14:08 2016]  say: ^1M^7r ^1Ð^7innertime: hai
+[Sun Apr 03 18:14:09 2016]  say: dsdew: what mscaleme
+[Sun Apr 03 18:14:12 2016]  say: ^1M^7r ^1Ð^7innertime: whosa are yousa
+[Sun Apr 03 18:14:15 2016]  say: dsdew:  /msaleme 10.2?
+[Sun Apr 03 18:14:18 2016]  say: dsdew: what 
+[Sun Apr 03 18:14:20 2016]  say: dsdew: no 10.2
+[Sun Apr 03 18:14:22 2016]  say: dsdew: say pls
+[Sun Apr 03 18:14:26 2016]  say: ^1M^7r ^1Ð^7innertime: uhh?
+[Sun Apr 03 18:14:39 2016]  say: ^1M^7r ^1Ð^7innertime: I think 10 is the highest? Idk. I haven't played for months
+[Sun Apr 03 18:15:03 2016]  say: dsdew:  what
+[Sun Apr 03 18:15:34 2016]  say: dsdew: how
+[Sun Apr 03 18:15:36 2016]  say: ^1M^7r ^1Ð^7innertime: =]
+[Sun Apr 03 18:15:39 2016]  say: ^1M^7r ^1Ð^7innertime: welcome to makermod
+[Sun Apr 03 18:15:44 2016]  say: dsdew: i'm know
+[Sun Apr 03 18:15:49 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun Apr 03 18:16:29 2016]  say: dsdew: HOW
+[Sun Apr 03 18:16:32 2016]  say: dsdew: what mscaleme
+[Sun Apr 03 18:16:33 2016]  Kill: 0 1 37: ^1M^7r ^1Ð^7innertime killed dsdew by MOD_TELEFRAG
+[Sun Apr 03 18:16:35 2016]  say: ^1M^7r ^1Ð^7innertime: oops
+[Sun Apr 03 18:16:36 2016]  say: ^1M^7r ^1Ð^7innertime: LOL
+[Sun Apr 03 18:16:37 2016]  say: dsdew: what
+[Sun Apr 03 18:16:37 2016]  say: ^1M^7r ^1Ð^7innertime: sorry
+[Sun Apr 03 18:16:46 2016]  say: dsdew: how
+[Sun Apr 03 18:16:49 2016]  say: dsdew: what mscaleme!
+[Sun Apr 03 18:16:50 2016]  say: ^1M^7r ^1Ð^7innertime: teleporting xD
+[Sun Apr 03 18:16:51 2016]  say: dsdew: pls
+[Sun Apr 03 18:16:57 2016]  say: dsdew: no 
+[Sun Apr 03 18:17:00 2016]  say: dsdew: say mscaleme pls
+[Sun Apr 03 18:17:04 2016]  say: ^1M^7r ^1Ð^7innertime: I shrink myself multiple times and then noclip through the floor
+[Sun Apr 03 18:17:06 2016]  say: ^1M^7r ^1Ð^7innertime: so I'm invisible
+[Sun Apr 03 18:17:11 2016]  say: dsdew: mscaleme what???
+[Sun Apr 03 18:17:13 2016]  say: ^1M^7r ^1Ð^7innertime: ???
+[Sun Apr 03 18:17:17 2016]  say: dsdew: what???
+[Sun Apr 03 18:17:32 2016]  say: ^1M^7r ^1Ð^7innertime: I don't want to instruct you on the basics of makermod o.o... 
+[Sun Apr 03 18:17:38 2016]  say: dsdew: /=
+[Sun Apr 03 18:18:04 2016]  say: dsdew: nscaleme
+[Sun Apr 03 18:18:10 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun Apr 03 18:18:40 2016]  say: dsdew: wow
+[Sun Apr 03 18:18:40 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun Apr 03 18:19:07 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun Apr 03 18:19:10 2016]  say: ^1M^7r ^1Ð^7innertime: I made this
+[Sun Apr 03 18:20:43 2016]  Kill: 1022 0 36: <world> killed ^1M^7r ^1Ð^7innertime by MOD_CRUSH
+[Sun Apr 03 18:21:05 2016]  Kill: 1022 1 36: <world> killed dsdew by MOD_CRUSH
+[Sun Apr 03 18:21:12 2016]  say: ^1M^7r ^1Ð^7innertime: fooyung barboh
+[Sun Apr 03 18:21:18 2016]  say: ^1M^7r ^1Ð^7innertime: ooh cool. So that's how it works
+[Sun Apr 03 18:21:42 2016]  Kill: 1022 1 0: <world> killed dsdew by MOD_UNKNOWN
+[Sun Apr 03 18:21:48 2016]  say: ^1M^7r ^1Ð^7innertime: =3
+[Sun Apr 03 18:21:50 2016]  say: ^1M^7r ^1Ð^7innertime: revenge
+[Sun Apr 03 18:21:50 2016]  say: ^1M^7r ^1Ð^7innertime: :D
+[Sun Apr 03 18:21:54 2016]  say: dsdew: what manim
+[Sun Apr 03 18:21:57 2016]  say: ^1M^7r ^1Ð^7innertime: uhh
+[Sun Apr 03 18:21:59 2016]  say: ^1M^7r ^1Ð^7innertime: I forget *_*
+[Sun Apr 03 18:22:04 2016]  say: ^1M^7r ^1Ð^7innertime: I have them saved. lol
+[Sun Apr 03 18:22:11 2016]  say: ^1M^7r ^1Ð^7innertime: I don't have to type it out
+[Sun Apr 03 18:22:18 2016]  ClientDisconnect: 1
+[Sun Apr 03 21:39:39 2016]  ClientDisconnect: 0
+[Mon Apr 04 12:15:31 2016]  ClientConnect: 0
+[Mon Apr 04 12:15:31 2016]  mlog:Player ^5A^0r^5s, connected. With IP - 62.182.80.11:29070 
+[Mon Apr 04 12:15:55 2016]  ClientBegin: 0
+[Mon Apr 04 12:47:57 2016]  Item: 0 ammo_all
+[Mon Apr 04 12:58:57 2016]  Kill: 1022 0 3: <world> killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_SABER
+[Mon Apr 04 13:03:17 2016]  Kill: 1022 0 3: <world> killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_SABER
+[Mon Apr 04 13:03:43 2016]  Kill: 1022 0 3: <world> killed -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA by MOD_SABER
+[Mon Apr 04 13:26:11 2016]  ClientDisconnect: 0
+[Mon Apr 04 13:54:34 2016]  ClientConnect: 0
+[Mon Apr 04 13:54:34 2016]  mlog:Player -[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA, connected. With IP - 62.182.80.11:29070 
+[Mon Apr 04 13:54:43 2016]  ClientConnect: 1
+[Mon Apr 04 13:54:43 2016]  mlog:Player dsdew, connected. With IP - 178.121.114.199:14228 
+[Mon Apr 04 13:54:46 2016]  ClientBegin: 0
+[Mon Apr 04 13:55:42 2016]  print "-[^5E^0H^5C^7]-^0V^5e^0n^5d^0y ^5AA^7 @@@PLRENAME dino
+"[Mon Apr 04 13:56:05 2016]  ClientBegin: 1
+[Mon Apr 04 13:56:19 2016]  say: dsdew: ^1FLOATING PLATFORM SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 13:56:21 2016]  print "dino^7 @@@PLRENAME -[^5E^0H^5C^7]-^5 ^0V^5endy AA
+"[Mon Apr 04 13:56:43 2016]  Kill: 0 0 39: -[^5E^0H^5C^7]-^5 ^0V^5endy AA killed -[^5E^0H^5C^7]-^5 ^0V^5endy AA by MOD_SUICIDE
+[Mon Apr 04 13:57:32 2016]  Kill: 0 0 39: -[^5E^0H^5C^7]-^5 ^0V^5endy AA killed -[^5E^0H^5C^7]-^5 ^0V^5endy AA by MOD_SUICIDE
+[Mon Apr 04 13:57:53 2016]  say: dsdew: ^1FLOATING PLATFORM SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 13:59:06 2016]  say: dsdew: ono tolko vverh podnimaet
+[Mon Apr 04 13:59:53 2016]  say: dsdew: ybrat globus?
+[Mon Apr 04 13:59:56 2016]  say: -[^5E^0H^5C^7]-^5 ^0V^5endy AA: kak stunet
+[Mon Apr 04 13:59:58 2016]  say: -[^5E^0H^5C^7]-^5 ^0V^5endy AA: net
+[Mon Apr 04 14:00:01 2016]  say: -[^5E^0H^5C^7]-^5 ^0V^5endy AA: kak
+[Mon Apr 04 14:00:03 2016]  say: -[^5E^0H^5C^7]-^5 ^0V^5endy AA: stul?
+[Mon Apr 04 14:00:07 2016]  say: dsdew: hz
+[Mon Apr 04 14:00:13 2016]  say: -[^5E^0H^5C^7]-^5 ^0V^5endy AA: =/
+[Mon Apr 04 14:00:18 2016]  say: dsdew: eto avtomatom vse
+[Mon Apr 04 14:00:20 2016]  say: dsdew: delaetsya
+[Mon Apr 04 14:00:26 2016]  say: -[^5E^0H^5C^7]-^5 ^0V^5endy AA: ya ponyal
+[Mon Apr 04 14:00:29 2016]  say: dsdew: ya v skripte posmotru potom
+[Mon Apr 04 14:00:33 2016]  say: -[^5E^0H^5C^7]-^5 ^0V^5endy AA: polniy vpered!
+[Mon Apr 04 14:00:58 2016]  say: dsdew: pzds
+[Mon Apr 04 14:01:10 2016]  Kill: 0 0 39: -[^5E^0H^5C^7]-^5 ^0V^5endy AA killed -[^5E^0H^5C^7]-^5 ^0V^5endy AA by MOD_SUICIDE
+[Mon Apr 04 14:01:54 2016]  say: -[^5E^0H^5C^7]-^5 ^0V^5endy AA: k zamku s vodoi
+[Mon Apr 04 14:02:26 2016]  say: dsdew: toplivo
+[Mon Apr 04 14:02:34 2016]  say: -[^5E^0H^5C^7]-^5 ^0V^5endy AA: 4to?
+[Mon Apr 04 14:02:53 2016]  say: dsdew: prikolno
+[Mon Apr 04 14:03:38 2016]  say: -[^5E^0H^5C^7]-^5 ^0V^5endy AA: ei!
+[Mon Apr 04 14:03:42 2016]  say: -[^5E^0H^5C^7]-^5 ^0V^5endy AA: :(
+[Mon Apr 04 14:03:50 2016]  say: dsdew: 1 min
+[Mon Apr 04 14:04:01 2016]  say: -[^5E^0H^5C^7]-^5 ^0V^5endy AA: vse
+[Mon Apr 04 14:04:41 2016]  print "-[^5E^0H^5C^7]-^5 ^0V^5endy AA^7 @@@PLRENAME Pirate Captain
+"[Mon Apr 04 14:04:52 2016]  say: Pirate Captain: arrrrrrrrr
+[Mon Apr 04 14:04:54 2016]  say: Pirate Captain: vpered!
+[Mon Apr 04 14:05:39 2016]  say: dsdew: gotov?
+[Mon Apr 04 14:05:55 2016]  say: dsdew: suda jedaya t turmu
+[Mon Apr 04 14:07:06 2016]  say: Pirate Captain: pzds
+[Mon Apr 04 14:07:20 2016]  say: dsdew: zakrit tebya tyt?
+[Mon Apr 04 14:07:39 2016]  say: dsdew: oh
+[Mon Apr 04 14:07:41 2016]  say: Pirate Captain: ego zakriy
+[Mon Apr 04 14:08:03 2016]  say: dsdew: mojno ego kaznit
+[Mon Apr 04 14:08:11 2016]  say: Pirate Captain: net
+[Mon Apr 04 14:08:51 2016]  say: dsdew: oi
+[Mon Apr 04 14:08:54 2016]  say: Pirate Captain: =/
+[Mon Apr 04 14:09:25 2016]  say: Pirate Captain: napali!
+[Mon Apr 04 14:09:43 2016]  say: dsdew: turma otkrita
+[Mon Apr 04 14:10:56 2016]  say: dsdew: zakrivat?
+[Mon Apr 04 14:11:03 2016]  say: Pirate Captain: da
+[Mon Apr 04 14:11:54 2016]  say: Pirate Captain: polniy vpered!
+[Mon Apr 04 14:12:14 2016]  say: dsdew: polomka
+[Mon Apr 04 14:12:23 2016]  say: Pirate Captain: na giper skorost!
+[Mon Apr 04 14:12:26 2016]  say: dsdew: skorost seichas budet 500
+[Mon Apr 04 14:12:39 2016]  say: Pirate Captain: 1000
+[Mon Apr 04 14:12:43 2016]  say: dsdew: no kapitan
+[Mon Apr 04 14:12:48 2016]  say: dsdew: eto mojet povredit korabl
+[Mon Apr 04 14:12:48 2016]  say: Pirate Captain: davai!
+[Mon Apr 04 14:13:05 2016]  say: Pirate Captain: (postav panel upravleniya
+[Mon Apr 04 14:13:29 2016]  say: dsdew: vot o chem ya govoril
+[Mon Apr 04 14:13:33 2016]  say: dsdew: nado remontirovat?
+[Mon Apr 04 14:13:38 2016]  say: Pirate Captain: net
+[Mon Apr 04 14:13:40 2016]  say: dsdew: ili na dolomonnom poedem
+[Mon Apr 04 14:13:40 2016]  say: Pirate Captain: bejim
+[Mon Apr 04 14:13:54 2016]  say: Pirate Captain: (postav panel upr)
+[Mon Apr 04 14:14:21 2016]  say: dsdew: kuda
+[Mon Apr 04 14:14:36 2016]  say: Pirate Captain: i mne stul
+[Mon Apr 04 14:15:02 2016]  say: dsdew: tyt?
+[Mon Apr 04 14:15:06 2016]  say: Pirate Captain: vishe
+[Mon Apr 04 14:15:12 2016]  say: Pirate Captain: i dal'she
+[Mon Apr 04 14:15:19 2016]  say: Pirate Captain: esh4e
+[Mon Apr 04 14:15:24 2016]  say: Pirate Captain: da
+[Mon Apr 04 14:15:26 2016]  say: Pirate Captain: norm
+[Mon Apr 04 14:15:39 2016]  say: Pirate Captain: polniy vpered!
+[Mon Apr 04 14:15:47 2016]  say: Pirate Captain: k zamku!
+[Mon Apr 04 14:15:55 2016]  say: dsdew: 1000?
+[Mon Apr 04 14:15:58 2016]  say: Pirate Captain: 1500
+[Mon Apr 04 14:16:03 2016]  say: dsdew: mi slomaemsya
+[Mon Apr 04 14:16:04 2016]  say: Pirate Captain: davai!
+[Mon Apr 04 14:16:10 2016]  say: dsdew: i zakluchenniy
+[Mon Apr 04 14:16:14 2016]  say: dsdew: ok
+[Mon Apr 04 14:16:34 2016]  say: Pirate Captain: vse ok :/
+[Mon Apr 04 14:16:57 2016]  say: Pirate Captain: padaem!!!!
+[Mon Apr 04 14:16:58 2016]  say: dsdew: trebuetsya remont
+[Mon Apr 04 14:17:04 2016]  say: Pirate Captain: aaaaaaa
+[Mon Apr 04 14:17:04 2016]  say: dsdew: ili mi skoro ypadem
+[Mon Apr 04 14:17:10 2016]  say: Pirate Captain: PADAEMMM!!!!!!!!
+[Mon Apr 04 14:17:14 2016]  say: Pirate Captain: Aaaaaaaaaaaa
+[Mon Apr 04 14:17:18 2016]  say: Pirate Captain: bistree)
+[Mon Apr 04 14:17:34 2016]  say: dsdew: chto s plennim delat
+[Mon Apr 04 14:18:13 2016]  say: dsdew: ^4WATER ^3PROTECTION!
+[Mon Apr 04 14:18:28 2016]  say: dsdew: ^2ACID ^3BLAST!
+[Mon Apr 04 14:18:38 2016]  say: dsdew: ^1GRAVEL ^4SHOT!
+[Mon Apr 04 14:18:53 2016]  say: Pirate Captain: 4ini korabl'
+[Mon Apr 04 14:18:54 2016]  say: dsdew: Platform script devoleped by ^0Neo^1b^2o^3y^480 ^2 is ^3on
+[Mon Apr 04 14:19:23 2016]  say: dsdew: ^1FLOATING PLATFORM SCRIPT ^4By ^5Aayla ^4Secura (my sister)
+[Mon Apr 04 14:22:03 2016]  say: dsdew: ^1FLOATING PLATFORM SCRIPT ^4By ^5Aayla ^4Secura (my sister)
+[Mon Apr 04 14:22:20 2016]  say: dsdew: nije budet turma?
+[Mon Apr 04 14:22:27 2016]  say: Pirate Captain: net
+[Mon Apr 04 14:22:32 2016]  say: Pirate Captain: moya komnata
+[Mon Apr 04 14:22:34 2016]  say: Pirate Captain: :D
+[Mon Apr 04 14:23:05 2016]  say: dsdew: podnimatsya??
+[Mon Apr 04 14:23:38 2016]  say: dsdew: ti ne smojesh soedinit moi ob'ekt so svoim
+[Mon Apr 04 14:23:43 2016]  say: Pirate Captain: ok
+[Mon Apr 04 14:23:43 2016]  say: dsdew: esli chto
+[Mon Apr 04 14:23:48 2016]  say: Pirate Captain: stul mne dai pj
+[Mon Apr 04 14:24:24 2016]  say: dsdew: tak?
+[Mon Apr 04 14:24:27 2016]  say: Pirate Captain: tut
+[Mon Apr 04 14:24:40 2016]  say: Pirate Captain: blije
+[Mon Apr 04 14:24:48 2016]  say: Pirate Captain: esh4e
+[Mon Apr 04 14:24:55 2016]  say: Pirate Captain: i esh4e
+[Mon Apr 04 14:25:11 2016]  say: Pirate Captain: 4yt' 4yt pravee
+[Mon Apr 04 14:25:29 2016]  say: dsdew: vse?
+[Mon Apr 04 14:25:32 2016]  say: Pirate Captain: net
+[Mon Apr 04 14:25:36 2016]  say: Pirate Captain: poverni rovno
+[Mon Apr 04 14:25:46 2016]  say: Pirate Captain: blije
+[Mon Apr 04 14:25:50 2016]  say: Pirate Captain: da
+[Mon Apr 04 14:25:52 2016]  say: Pirate Captain: vse
+[Mon Apr 04 14:26:09 2016]  say: dsdew: podnimaemsya?
+[Mon Apr 04 14:26:13 2016]  say: Pirate Captain: net
+[Mon Apr 04 14:26:19 2016]  say: Pirate Captain: stul krivo =/
+[Mon Apr 04 14:27:22 2016]  say: Pirate Captain: davai
+[Mon Apr 04 14:28:01 2016]  say: dsdew: yberi
+[Mon Apr 04 14:28:17 2016]  say: dsdew: /=
+[Mon Apr 04 14:28:41 2016]  say: Pirate Captain: saaaaan
+[Mon Apr 04 14:28:45 2016]  say: Pirate Captain: =/
+[Mon Apr 04 14:29:00 2016]  say: dsdew: sam vinovat
+[Mon Apr 04 14:29:41 2016]  say: dsdew: eto nashe zaschitnoe pole?
+[Mon Apr 04 14:29:46 2016]  say: Pirate Captain: da
+[Mon Apr 04 14:29:53 2016]  say: Pirate Captain: uberi stul pj
+[Mon Apr 04 14:30:37 2016]  say: Pirate Captain: postav pj utu panel ato moya ne letit :D
+[Mon Apr 04 14:31:20 2016]  say: Pirate Captain: /mrotate 0 180 0
+[Mon Apr 04 14:31:21 2016]  say: Pirate Captain: :D
+[Mon Apr 04 14:31:31 2016]  say: Pirate Captain: krivo
+[Mon Apr 04 14:32:09 2016]  say: dsdew: mne kajetsya silovoi pole ne viderjit ydarov ob gori
+[Mon Apr 04 14:32:18 2016]  say: Pirate Captain: net =/
+[Mon Apr 04 14:33:33 2016]  say: dsdew: pole ymenshaetsya
+[Mon Apr 04 14:35:26 2016]  say: dsdew: chto delat budem
+[Mon Apr 04 14:35:28 2016]  say: dsdew: kapitan
+[Mon Apr 04 14:35:31 2016]  say: Pirate Captain: letim
+[Mon Apr 04 14:35:34 2016]  say: dsdew: kuda
+[Mon Apr 04 14:35:42 2016]  say: Pirate Captain: na.....
+[Mon Apr 04 14:35:45 2016]  say: Pirate Captain: konec
+[Mon Apr 04 14:37:10 2016]  say: dsdew: hm
+[Mon Apr 04 14:37:18 2016]  say: dsdew: tovarisch kapitan
+[Mon Apr 04 14:37:24 2016]  say: Pirate Captain: da?
+[Mon Apr 04 14:37:46 2016]  say: Pirate Captain: stul mne!
+[Mon Apr 04 14:38:14 2016]  say: Pirate Captain: stul mne!!!
+[Mon Apr 04 14:38:24 2016]  say: dsdew: nety
+[Mon Apr 04 14:38:59 2016]  say: Pirate Captain: etot
+[Mon Apr 04 14:39:08 2016]  say: dsdew: energeticheskie kristalli skoro istoschatsya
+[Mon Apr 04 14:39:13 2016]  say: dsdew: i pole padet
+[Mon Apr 04 14:39:24 2016]  say: Pirate Captain: no dai mne stul =/
+[Mon Apr 04 14:40:12 2016]  say: dsdew: nikak
+[Mon Apr 04 14:40:24 2016]  say: dsdew: ya ispolzyu sinie kristalli seichas
+[Mon Apr 04 14:40:32 2016]  say: Pirate Captain: letim!!!!
+[Mon Apr 04 14:40:41 2016]  say: dsdew: kapitan
+[Mon Apr 04 14:40:53 2016]  say: dsdew: kapitan
+[Mon Apr 04 14:40:56 2016]  say: Pirate Captain: da
+[Mon Apr 04 14:41:02 2016]  say: dsdew: ispolzovat sinie kristalli?
+[Mon Apr 04 14:41:04 2016]  say: dsdew: dlya visoti
+[Mon Apr 04 14:41:07 2016]  say: Pirate Captain: da
+[Mon Apr 04 14:41:39 2016]  say: Pirate Captain: o net
+[Mon Apr 04 14:41:47 2016]  say: Pirate Captain: EVAKUACIA!!!!
+[Mon Apr 04 14:41:58 2016]  say: dsdew: sto ne tak
+[Mon Apr 04 14:42:43 2016]  say: dsdew: aaaaa
+[Mon Apr 04 14:43:02 2016]  say: dsdew: tovarisch kapitan!!!
+[Mon Apr 04 14:43:14 2016]  say: dsdew: AAA
+[Mon Apr 04 14:43:23 2016]  say: dsdew: chto delat???
+[Mon Apr 04 14:43:26 2016]  say: Pirate Captain: ya s parashutop spustilsya
+[Mon Apr 04 14:43:34 2016]  say: dsdew: ya stou na visokom mostike
+[Mon Apr 04 14:43:42 2016]  say: dsdew: y nas nepoldaka!
+[Mon Apr 04 14:43:48 2016]  say: Pirate Captain: beri parashut i vniz!
+[Mon Apr 04 14:43:52 2016]  say: dsdew: no korabl
+[Mon Apr 04 14:43:55 2016]  say: dsdew: on je dorogoi
+[Mon Apr 04 14:44:00 2016]  say: Pirate Captain: davai!!!
+[Mon Apr 04 14:44:07 2016]  say: dsdew: aaa
+[Mon Apr 04 14:44:10 2016]  say: dsdew: ya ne mogy
+[Mon Apr 04 14:44:13 2016]  say: dsdew: mi padaem?
+[Mon Apr 04 14:44:17 2016]  say: Pirate Captain: jdi
+[Mon Apr 04 14:44:29 2016]  say: Pirate Captain: na parashut
+[Mon Apr 04 14:44:35 2016]  say: dsdew: skoro etot mostik ypadet
+[Mon Apr 04 14:44:40 2016]  say: dsdew: kristalli ne viderjivaut
+[Mon Apr 04 14:44:42 2016]  say: Pirate Captain: na parashuuut!!!!
+[Mon Apr 04 14:45:15 2016]  say: dsdew: chto proizoshlo?
+[Mon Apr 04 14:45:21 2016]  Kill: 0 0 39: Pirate Captain killed Pirate Captain by MOD_SUICIDE
+[Mon Apr 04 14:45:42 2016]  say: dsdew: chto proizoshlo?
+[Mon Apr 04 14:45:57 2016]  say: Pirate Captain: pohoje 4to eto vse sh4it
+[Mon Apr 04 14:46:12 2016]  say: dsdew: yjas
+[Mon Apr 04 14:46:22 2016]  say: dsdew: chto delat
+[Mon Apr 04 14:46:28 2016]  say: dsdew: mi bez korablya
+[Mon Apr 04 14:46:28 2016]  say: Pirate Captain: suda
+[Mon Apr 04 14:47:00 2016]  say: dsdew: nado sozdat noviy
+[Mon Apr 04 14:47:05 2016]  say: Pirate Captain: da
+[Mon Apr 04 14:47:09 2016]  say: Pirate Captain: na4ni tut
+[Mon Apr 04 14:47:13 2016]  say: dsdew: no gde naiti kristalli energii??
+[Mon Apr 04 14:47:35 2016]  say: Pirate Captain: vot
+[Mon Apr 04 14:47:39 2016]  say: Pirate Captain: ya nashel odin
+[Mon Apr 04 14:47:40 2016]  say: dsdew: ya vozmi ego
+[Mon Apr 04 14:48:55 2016]  say: Pirate Captain: (ya afk 5 min (tipa splu))
+[Mon Apr 04 14:51:13 2016]  say: Pirate Captain: ya tut
+[Mon Apr 04 14:51:32 2016]  say: dsdew: budet nemnogo krivo
+[Mon Apr 04 14:51:38 2016]  say: Pirate Captain: ni4ego
+[Mon Apr 04 14:51:57 2016]  say: Pirate Captain: ate j nado! zastryagnut v bolote!!!
+[Mon Apr 04 14:53:27 2016]  Kill: 0 0 39: Pirate Captain killed Pirate Captain by MOD_SUICIDE
+[Mon Apr 04 14:53:59 2016]  say: Pirate Captain: 4ert
+[Mon Apr 04 14:54:02 2016]  say: Pirate Captain: jedaiii!!!!!
+[Mon Apr 04 14:55:45 2016]  say: Pirate Captain: bistree!
+[Mon Apr 04 14:56:26 2016]  say: Pirate Captain: eto bil crystal?
+[Mon Apr 04 14:56:46 2016]  say: dsdew: ya seichas
+[Mon Apr 04 14:57:08 2016]  say: dsdew: ^1FLOATING PLATFORM SCRIPT ^4By ^5Aayla ^4Secura (my sister)
+[Mon Apr 04 14:58:50 2016]  say: dsdew: vozvishaemsya tyt opasno
+[Mon Apr 04 14:59:14 2016]  say: dsdew: ya seichas vkluchu schit na polnyu moschnost'
+[Mon Apr 04 14:59:17 2016]  say: dsdew: kapitan
+[Mon Apr 04 15:00:44 2016]  ClientDisconnect: 1
+[Mon Apr 04 15:01:01 2016]  ClientDisconnect: 0
+[Mon Apr 04 15:01:01 2016]  ClientConnect: 0
+[Mon Apr 04 15:01:01 2016]  mlog:Player ^5A^0r^5s, connected. With IP - 62.182.80.11:29070 
+[Mon Apr 04 15:01:26 2016]  ClientBegin: 0
+[Mon Apr 04 15:09:59 2016]  ClientConnect: 1
+[Mon Apr 04 15:09:59 2016]  mlog:Player Padawan, connected. With IP - 178.121.114.199:-15406 
+[Mon Apr 04 15:11:23 2016]  ClientBegin: 1
+[Mon Apr 04 15:11:37 2016]  say: dsdew: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 15:12:13 2016]  say: Pirate Captain: delai korabl'
+[Mon Apr 04 15:12:21 2016]  say: dsdew: ya proveru skript
+[Mon Apr 04 15:13:16 2016]  say: dsdew: gde ti
+[Mon Apr 04 15:14:24 2016]  say: Pirate Captain: lol
+[Mon Apr 04 15:14:40 2016]  say: dsdew: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Mon Apr 04 15:14:53 2016]  say: dsdew: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Mon Apr 04 15:15:05 2016]  Kill: 1022 1 0: <world> killed dsdew by MOD_UNKNOWN
+[Mon Apr 04 15:15:13 2016]  Kill: 1 1 36: dsdew killed dsdew by MOD_CRUSH
+[Mon Apr 04 15:15:17 2016]  say: dsdew: ono atakuet
+[Mon Apr 04 15:15:54 2016]  say: dsdew: norm dom?
+[Mon Apr 04 15:15:57 2016]  say: Pirate Captain: da
+[Mon Apr 04 15:15:59 2016]  say: Pirate Captain: letim
+[Mon Apr 04 15:16:08 2016]  say: dsdew: v dome?
+[Mon Apr 04 15:16:12 2016]  say: Pirate Captain: da
+[Mon Apr 04 15:16:16 2016]  say: dsdew: ya poka posmotru vse skripti
+[Mon Apr 04 15:16:20 2016]  say: dsdew: vdrug korabl naidy
+[Mon Apr 04 15:16:20 2016]  say: Pirate Captain: ;(
+[Mon Apr 04 15:16:22 2016]  say: dsdew: ih malo
+[Mon Apr 04 15:16:26 2016]  say: Pirate Captain: davai
+[Mon Apr 04 15:16:48 2016]  say: dsdew: box
+[Mon Apr 04 15:17:21 2016]  say: dsdew: box3
+[Mon Apr 04 15:17:54 2016]  say: Pirate Captain: l... letimm?
+[Mon Apr 04 15:18:13 2016]  say: dsdew: stairs2
+[Mon Apr 04 15:18:22 2016]  say: dsdew: esche 5 minut
+[Mon Apr 04 15:18:28 2016]  say: dsdew: ya nemnogo polagau seichas
+[Mon Apr 04 15:20:28 2016]  say: dsdew: ^6AIR-TAXI SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 15:20:48 2016]  say: dsdew: ^6AIR-TAXI SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 15:21:10 2016]  say: dsdew: ^6AIR-TAXI SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 15:22:09 2016]  say: Pirate Captain: davai esh4e
+[Mon Apr 04 15:22:38 2016]  say: Pirate Captain: eto vse?
+[Mon Apr 04 15:22:48 2016]  say: dsdew: ^1FLOATING PLATFORM SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 15:23:24 2016]  say: dsdew: ^4MOVE SCRIPT V3 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 15:23:31 2016]  say: dsdew: ^1MOVE ^1ALL ^1UP ^1SLOW!
+[Mon Apr 04 15:23:37 2016]  say: dsdew: ^1MOVE ^1ALL ^1RIGHT ^1SLOW!
+[Mon Apr 04 15:23:41 2016]  say: dsdew: ^1MOVE ^1ALL ^1FORWARD ^1SLOW!
+[Mon Apr 04 15:23:45 2016]  say: dsdew: ^1MOVE ^1ALL ^1FORWARD ^1SLOW!
+[Mon Apr 04 15:23:48 2016]  say: dsdew: ^1MOVE ^1ALL ^1BACK ^1SLOW!
+[Mon Apr 04 15:24:29 2016]  say: Pirate Captain: vseee???
+[Mon Apr 04 15:24:37 2016]  say: dsdew: net esche
+[Mon Apr 04 15:24:40 2016]  say: dsdew: ya dokachau skript
+[Mon Apr 04 15:25:12 2016]  Kill: 1022 0 38: <world> killed Pirate Captain by MOD_FALLING
+[Mon Apr 04 15:27:44 2016]  say: dsdew: stairs
+[Mon Apr 04 15:27:50 2016]  say: Pirate Captain: smotri
+[Mon Apr 04 15:29:03 2016]  say: Pirate Captain: pomogi korabl' postroit'
+[Mon Apr 04 15:29:30 2016]  say: dsdew: ^4JAWA ^4TENT ^4SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 15:29:32 2016]  say: Pirate Captain: san?
+[Mon Apr 04 15:29:44 2016]  say: dsdew: ^4JAWA ^4TENT ^4SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S ^1- ^5PART 2
+[Mon Apr 04 15:29:57 2016]  say: dsdew: eto dom dlya jawi
+[Mon Apr 04 15:30:07 2016]  say: dsdew: ^5TELEPORT SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 15:30:18 2016]  say: dsdew: ^5TELEPORT SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 15:30:23 2016]  say: dsdew: ^5TELEPORTING TO THE STARTING POINT!
+[Mon Apr 04 15:30:33 2016]  say: dsdew: ^5TELEPORTING TO THE LAST SAID ^5ORIGIN!
+[Mon Apr 04 15:30:41 2016]  say: dsdew: ^5TELEPORTING TO MY MMARKED SPOT!
+[Mon Apr 04 15:30:49 2016]  say: dsdew: ^5TELEPORTING TO MY CROSSHAIR TARGET!
+[Mon Apr 04 15:31:28 2016]  say: Pirate Captain: smotri
+[Mon Apr 04 15:32:05 2016]  say: dsdew: ^7CLONE ^3TROOPER ^6SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 15:32:10 2016]  say: dsdew: ^5Marking current position...
+[Mon Apr 04 15:32:16 2016]  say: dsdew: ^5Position marked
+[Mon Apr 04 15:32:19 2016]  say: dsdew: ^5Teleporting to my marked position...
+[Mon Apr 04 15:32:27 2016]  say: dsdew: ^5Follow me troops!
+[Mon Apr 04 15:32:33 2016]  say: Pirate Captain: smotri
+[Mon Apr 04 15:32:40 2016]  say: Pirate Captain: san smotri!
+[Mon Apr 04 15:32:49 2016]  say: dsdew: ya viju
+[Mon Apr 04 15:32:51 2016]  say: dsdew: ^5Follow me troops!
+[Mon Apr 04 15:32:57 2016]  say: dsdew: ^5Troops, move out!
+[Mon Apr 04 15:33:02 2016]  say: dsdew: ^5Stay here troops!
+[Mon Apr 04 15:33:06 2016]  say: dsdew: ^5Troops, attack the enemy!
+[Mon Apr 04 15:33:09 2016]  say: dsdew: ^5Marking current position...
+[Mon Apr 04 15:33:13 2016]  say: dsdew: ^5Position marked
+[Mon Apr 04 15:33:30 2016]  say: dsdew: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Mon Apr 04 15:34:24 2016]  say: dsdew: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Mon Apr 04 15:34:43 2016]  say: dsdew: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Mon Apr 04 15:34:55 2016]  say: dsdew: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Mon Apr 04 15:35:06 2016]  say: dsdew: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 3
+[Mon Apr 04 15:35:35 2016]  Kill: 1022 0 38: <world> killed Pirate Captain by MOD_FALLING
+[Mon Apr 04 15:36:26 2016]  Kill: 1 1 36: dsdew killed dsdew by MOD_CRUSH
+[Mon Apr 04 15:36:29 2016]  say: Pirate Captain: =/
+[Mon Apr 04 15:36:33 2016]  Kill: 1 1 36: dsdew killed dsdew by MOD_CRUSH
+[Mon Apr 04 15:36:35 2016]  say: Pirate Captain: go co mne
+[Mon Apr 04 15:36:38 2016]  say: Pirate Captain: afk
+[Mon Apr 04 15:37:33 2016]  say: dsdew: ^5ACTIVATING SHIELD DOORS
+[Mon Apr 04 15:38:11 2016]  say: Pirate Captain: go co mne
+[Mon Apr 04 15:38:15 2016]  say: Pirate Captain: suda :)
+[Mon Apr 04 15:38:21 2016]  say: Pirate Captain: arrrrr ;)
+[Mon Apr 04 15:38:25 2016]  say: dsdew: ^1FLOATING PLATFORM SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 15:38:32 2016]  say: dsdew: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Mon Apr 04 15:39:19 2016]  say: dsdew: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Mon Apr 04 15:39:59 2016]  Kill: 1 1 39: dsdew killed dsdew by MOD_SUICIDE
+[Mon Apr 04 15:40:38 2016]  say: dsdew: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Mon Apr 04 15:40:44 2016]  tell: Pirate Captain to dsdew: =/
+[Mon Apr 04 15:41:08 2016]  say: Pirate Captain: go korabl'?
+[Mon Apr 04 15:41:11 2016]  say: Pirate Captain: neeet!!!
+[Mon Apr 04 15:41:58 2016]  say: Pirate Captain: lol
+[Mon Apr 04 15:42:01 2016]  say: Pirate Captain: ultra drain
+[Mon Apr 04 15:42:39 2016]  say: Pirate Captain: nu za4eeem?
+[Mon Apr 04 15:42:41 2016]  say: Pirate Captain: zT_T
+[Mon Apr 04 15:42:45 2016]  Kill: 0 0 39: Pirate Captain killed Pirate Captain by MOD_SUICIDE
+[Mon Apr 04 15:42:45 2016]  setteam:  0 FREE SPECTATOR
+[Mon Apr 04 15:42:45 2016]  ClientBegin: 0
+[Mon Apr 04 15:42:56 2016]  Kill: 1 1 39: dsdew killed dsdew by MOD_SUICIDE
+[Mon Apr 04 15:42:56 2016]  setteam:  0 SPECTATOR FREE
+[Mon Apr 04 15:42:56 2016]  ClientBegin: 0
+[Mon Apr 04 15:43:08 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 15:43:19 2016]  say: Pirate Captain: kak?
+[Mon Apr 04 15:43:45 2016]  say: dsdew: chto delat budem
+[Mon Apr 04 15:43:53 2016]  say: Pirate Captain: i gde platforma???
+[Mon Apr 04 15:45:12 2016]  Kill: 0 0 39: Pirate Captain killed Pirate Captain by MOD_SUICIDE
+[Mon Apr 04 15:45:21 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:45:24 2016]  say: Pirate Captain: kak ti to delal?
+[Mon Apr 04 15:45:27 2016]  say: dsdew: chto
+[Mon Apr 04 15:45:31 2016]  say: dsdew: platformi
+[Mon Apr 04 15:45:38 2016]  say: Pirate Captain: tip obnimal
+[Mon Apr 04 15:45:45 2016]  say: dsdew: eto skript
+[Mon Apr 04 15:45:57 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 15:46:42 2016]  say: Pirate Captain: kak?
+[Mon Apr 04 15:46:53 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 15:46:54 2016]  say: Pirate Captain: god off
+[Mon Apr 04 15:47:03 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:47:07 2016]  say: Pirate Captain: da hare
+[Mon Apr 04 15:47:23 2016]  Kill: 0 1 3: Pirate Captain killed dsdew by MOD_SABER
+[Mon Apr 04 15:47:31 2016]  say: Pirate Captain: :D
+[Mon Apr 04 15:47:38 2016]  Kill: 1 0 0: dsdew killed Pirate Captain by MOD_UNKNOWN
+[Mon Apr 04 15:48:12 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 15:48:29 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 15:48:42 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:48:56 2016]  say: Pirate Captain: davai bez skriptov ok?
+[Mon Apr 04 15:49:04 2016]  say: dsdew: kak bez skriptov?
+[Mon Apr 04 15:49:04 2016]  Kill: 0 1 3: Pirate Captain killed dsdew by MOD_SABER
+[Mon Apr 04 15:49:08 2016]  say: dsdew: eto 1 iz chastei makermoda
+[Mon Apr 04 15:49:12 2016]  say: Pirate Captain: ne izpolzui ih
+[Mon Apr 04 15:49:29 2016]  Kill: 0 1 3: Pirate Captain killed dsdew by MOD_SABER
+[Mon Apr 04 15:49:34 2016]  say: Pirate Captain: da perestan!
+[Mon Apr 04 15:49:36 2016]  Kill: 1 0 0: dsdew killed Pirate Captain by MOD_UNKNOWN
+[Mon Apr 04 15:49:43 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:49:46 2016]  say: Pirate Captain: syka
+[Mon Apr 04 15:49:48 2016]  say: Pirate Captain: hare
+[Mon Apr 04 15:49:52 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:49:58 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:50:01 2016]  say: Pirate Captain: zaebal
+[Mon Apr 04 15:50:07 2016]  say: Pirate Captain: hare a
+[Mon Apr 04 15:50:19 2016]  Kill: 0 1 3: Pirate Captain killed dsdew by MOD_SABER
+[Mon Apr 04 15:51:06 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:51:23 2016]  Kill: 0 1 3: Pirate Captain killed dsdew by MOD_SABER
+[Mon Apr 04 15:51:30 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:51:36 2016]  say: Pirate Captain: DA TI ZAEBAL
+[Mon Apr 04 15:51:42 2016]  Kill: 0 1 3: Pirate Captain killed dsdew by MOD_SABER
+[Mon Apr 04 15:51:49 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:51:52 2016]  say: Pirate Captain: KARO4
+[Mon Apr 04 15:52:02 2016]  say: Pirate Captain: nu nax eto
+[Mon Apr 04 15:52:04 2016]  ClientDisconnect: 0
+[Mon Apr 04 15:52:32 2016]  ClientConnect: 0
+[Mon Apr 04 15:52:32 2016]  mlog:Player Pirate Captain, connected. With IP - 62.182.80.11:29070 
+[Mon Apr 04 15:52:44 2016]  ClientBegin: 0
+[Mon Apr 04 15:52:56 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 15:53:03 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:53:24 2016]  Kill: 0 0 39: Pirate Captain killed Pirate Captain by MOD_SUICIDE
+[Mon Apr 04 15:53:53 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 15:53:59 2016]  say: Pirate Captain: kak skol'ko hp?
+[Mon Apr 04 15:54:03 2016]  say: dsdew: 75
+[Mon Apr 04 15:54:05 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:54:11 2016]  say: Pirate Captain: ne izpol'zui
+[Mon Apr 04 15:54:16 2016]  say: Pirate Captain: kak drug
+[Mon Apr 04 15:54:28 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:54:34 2016]  say: Pirate Captain: ya je poprosil
+[Mon Apr 04 15:54:46 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 15:54:57 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 15:55:16 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 15:55:32 2016]  Kill: 0 1 3: Pirate Captain killed dsdew by MOD_SABER
+[Mon Apr 04 15:55:45 2016]  Kill: 0 1 3: Pirate Captain killed dsdew by MOD_SABER
+[Mon Apr 04 15:55:55 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:56:03 2016]  say: Pirate Captain: poprosil je
+[Mon Apr 04 15:56:08 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:56:36 2016]  say: Pirate Captain: hare begat!
+[Mon Apr 04 15:56:38 2016]  say: Pirate Captain: nub
+[Mon Apr 04 15:57:31 2016]  say: Pirate Captain: go korabl'?
+[Mon Apr 04 15:57:38 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 15:57:41 2016]  say: dsdew: kakoi
+[Mon Apr 04 15:57:47 2016]  say: Pirate Captain: prostoi
+[Mon Apr 04 15:57:55 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:58:47 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 15:59:56 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 16:00:03 2016]  say: Pirate Captain: da perestan'!
+[Mon Apr 04 16:00:42 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 16:03:06 2016]  say: Pirate Captain: perestan' ubivat'
+[Mon Apr 04 16:03:49 2016]  say: dsdew: ya sozdal skript
+[Mon Apr 04 16:03:56 2016]  say: Pirate Captain: kakoi?
+[Mon Apr 04 16:04:04 2016]  say: dsdew: on tphaet na spawn vot tak
+[Mon Apr 04 16:04:05 2016]  Kill: 1 0 36: dsdew killed Pirate Captain by MOD_CRUSH
+[Mon Apr 04 16:04:14 2016]  say: Pirate Captain: ti idiot?
+[Mon Apr 04 16:04:20 2016]  say: Pirate Captain: za4em ubil?
+[Mon Apr 04 16:04:20 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 16:04:24 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 16:04:28 2016]  say: dsdew: ti sam podoshel
+[Mon Apr 04 16:04:33 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 16:04:37 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 16:04:41 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 16:04:52 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 16:05:03 2016]  Kill: 1 0 3: dsdew killed Pirate Captain by MOD_SABER
+[Mon Apr 04 16:05:06 2016]  say: Pirate Captain: syka
+[Mon Apr 04 16:05:09 2016]  say: Pirate Captain: hare
+[Mon Apr 04 16:06:53 2016]  say: Pirate Captain: ti  dee
+[Mon Apr 04 16:06:55 2016]  say: Pirate Captain: gde
+[Mon Apr 04 16:07:30 2016]  say: Pirate Captain: san?
+[Mon Apr 04 16:07:53 2016]  Kill: 0 0 39: Pirate Captain killed Pirate Captain by MOD_SUICIDE
+[Mon Apr 04 16:07:53 2016]  setteam:  0 FREE SPECTATOR
+[Mon Apr 04 16:07:53 2016]  ClientBegin: 0
+[Mon Apr 04 16:08:00 2016]  say: Pirate Captain: ti gde?
+[Mon Apr 04 16:08:03 2016]  setteam:  0 SPECTATOR FREE
+[Mon Apr 04 16:08:03 2016]  ClientBegin: 0
+[Mon Apr 04 16:08:33 2016]  say: Pirate Captain: nu?
+[Mon Apr 04 16:08:41 2016]  say: dsdew: My origin is: (6853 -2244 1690) - You can teleport here with /mtelelast
+
+[Mon Apr 04 16:09:44 2016]  say: Pirate Captain: kak pokazat' gde ya?
+[Mon Apr 04 16:09:51 2016]  say: dsdew:  /msayorigin
+[Mon Apr 04 16:09:54 2016]  say: dsdew: Platform script devoleped by ^0Neo^1b^2o^3y^480 ^2 is ^3on
+[Mon Apr 04 16:10:02 2016]  say: Pirate Captain: My origin is: (5454 -2048 1470) - You can teleport here with /mtelelast
+
+[Mon Apr 04 16:10:36 2016]  say: dsdew: ^1FLOATING PLATFORM SCRIPT ^4By ^5Aayla ^4Secura (my sister)
+[Mon Apr 04 16:11:17 2016]  say: Pirate Captain: brb :(
+[Mon Apr 04 16:11:23 2016]  say: dsdew: b
+[Mon Apr 04 16:11:27 2016]  say: Pirate Captain: pora :(
+[Mon Apr 04 16:11:29 2016]  ClientDisconnect: 1
+[Mon Apr 04 16:15:19 2016]  ClientDisconnect: 0

@@ -1,0 +1,654 @@
+[Thu Sep 26 11:25:32 2013]  ------------------------------------------------------------
+[Thu Sep 26 11:25:32 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t3_rift\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 26 11:25:35 2013]  ClientConnect: 0
+[Thu Sep 26 11:25:44 2013]  ClientBegin: 0
+[Thu Sep 26 11:25:44 2013]  say: ^0РаrkQµаkи: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Sep 26 11:25:56 2013]  ShutdownGame:
+[Thu Sep 26 11:25:56 2013]  ------------------------------------------------------------
+[Thu Sep 26 11:25:57 2013]  ------------------------------------------------------------
+[Thu Sep 26 11:25:57 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 26 11:25:58 2013]  ClientConnect: 0
+[Thu Sep 26 11:26:03 2013]  ClientBegin: 0
+[Thu Sep 26 11:26:03 2013]  say: ^0РаrkQµаkи: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Sep 26 11:30:36 2013]  ShutdownGame:
+[Thu Sep 26 11:30:36 2013]  ------------------------------------------------------------
+[Thu Sep 26 11:30:36 2013]  ------------------------------------------------------------
+[Thu Sep 26 11:30:36 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 26 11:30:38 2013]  ClientConnect: 0
+[Thu Sep 26 11:30:38 2013]  ClientBegin: 0
+[Thu Sep 26 11:57:49 2013]  ClientDisconnect: 0
+[Thu Sep 26 11:57:49 2013]  ClientConnect: 0
+[Thu Sep 26 11:57:49 2013]  mlog:Player ^0РаrkQµаkи, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 26 11:58:10 2013]  ClientBegin: 0
+[Thu Sep 26 11:58:11 2013]  say: ^0РаrkQµаkи: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Sep 26 12:12:45 2013]  say: ^0РаrkQµаkи: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1DbnІ
+[Thu Sep 26 12:12:46 2013]  say: ^0РаrkQµаkи: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Thu Sep 26 12:21:58 2013]  ShutdownGame:
+[Thu Sep 26 12:21:58 2013]  ------------------------------------------------------------
+[Thu Sep 26 12:21:59 2013]  ------------------------------------------------------------
+[Thu Sep 26 12:21:59 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 26 12:22:00 2013]  ClientConnect: 0
+[Thu Sep 26 12:22:00 2013]  ClientBegin: 0
+[Thu Sep 26 12:37:20 2013]  ShutdownGame:
+[Thu Sep 26 12:37:20 2013]  ------------------------------------------------------------
+[Thu Sep 26 12:37:20 2013]  ------------------------------------------------------------
+[Thu Sep 26 12:37:20 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 26 12:37:22 2013]  ClientConnect: 0
+[Thu Sep 26 12:37:22 2013]  ClientBegin: 0
+[Thu Sep 26 12:53:39 2013]  G_Spawn: no free entities[Thu Sep 26 12:53:39 2013]  ShutdownGame:
+[Thu Sep 26 12:53:39 2013]  ------------------------------------------------------------
+[Thu Sep 26 12:54:03 2013]  ------------------------------------------------------------
+[Thu Sep 26 12:54:03 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 26 12:54:13 2013]  ClientConnect: 0
+[Thu Sep 26 12:54:13 2013]  mlog:Player ^0РаrkQµаkи, connected. With IP - 192.168.1.3:29070 
+[Thu Sep 26 12:54:18 2013]  ClientBegin: 0
+[Thu Sep 26 12:54:18 2013]  say: ^0РаrkQµаkи: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Sep 26 13:01:47 2013]  ClientConnect: 1
+[Thu Sep 26 13:01:47 2013]  mlog:Player Padawan, connected. With IP - 37.204.211.233:29070 
+[Thu Sep 26 13:03:27 2013]  ClientBegin: 1
+[Thu Sep 26 13:04:19 2013]  print "Padawan^7 @@@PLRENAME newcomer
+"[Thu Sep 26 13:04:40 2013]  say: newcomer: hi
+[Thu Sep 26 13:16:37 2013]  Kill: 1 1 39: newcomer killed newcomer by MOD_SUICIDE
+[Thu Sep 26 13:16:52 2013]  ClientDisconnect: 1
+[Thu Sep 26 13:46:19 2013]  ClientConnect: 1
+[Thu Sep 26 13:46:19 2013]  mlog:Player Padawan, connected. With IP - 213.251.210.41:-7177 
+[Thu Sep 26 13:46:33 2013]  ClientBegin: 1
+[Thu Sep 26 13:47:47 2013]  Kill: 1 0 12: TUBORK killed ^0РаrkQµаkи by MOD_REPEATER
+[Thu Sep 26 13:47:47 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 13:53:30 2013]  ClientConnect: 2
+[Thu Sep 26 13:53:30 2013]  mlog:Player ^1Emperor^0Palpatine-[OTF], connected. With IP - 188.16.114.43:29070 
+[Thu Sep 26 13:53:52 2013]  ClientBegin: 2
+[Thu Sep 26 13:53:53 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Sep 26 13:53:59 2013]  say: TUBORK: RE
+[Thu Sep 26 13:54:01 2013]  say: TUBORK: КУ
+[Thu Sep 26 13:54:03 2013]  say: ^1Emperor^0Palpatine-[OTF]: ку
+[Thu Sep 26 13:54:38 2013]  say: TUBORK: My origin is: (9871 8503 1498) - You can teleport here with /mtelelast
+
+[Thu Sep 26 13:55:31 2013]  say: ^1Emperor^0Palpatine-[OTF]: Я скачал скрипт
+[Thu Sep 26 13:55:35 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Sep 26 13:55:44 2013]  say: TUBORK: так себе
+[Thu Sep 26 13:56:12 2013]  say: TUBORK: рань меня но не убей
+[Thu Sep 26 13:56:23 2013]  Kill: 2 1 0: ^1Emperor^0Palpatine-[OTF] killed TUBORK by MOD_UNKNOWN
+[Thu Sep 26 13:56:24 2013]  tell: ^1Emperor^0Palpatine-[OTF] to TUBORK: ^2^7TUBORK, ^7I killed 115 people in total
+[Thu Sep 26 13:56:28 2013]  say: ^1Emperor^0Palpatine-[OTF]: Ахахах
+[Thu Sep 26 13:56:30 2013]  Kill: 1 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 13:56:31 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 13:56:43 2013]  say: TUBORK: я же сказал не убей
+[Thu Sep 26 13:56:56 2013]  say: ^1Emperor^0Palpatine-[OTF]: Я не думал что трип тебя убьет
+[Thu Sep 26 13:57:02 2013]  say: ^1Emperor^0Palpatine-[OTF]: Гуд вруби
+[Thu Sep 26 13:57:18 2013]  say: TUBORK: просто мечом рань
+[Thu Sep 26 13:57:29 2013]  say: TUBORK: во спс
+[Thu Sep 26 13:57:32 2013]  say: ^1Emperor^0Palpatine-[OTF]: Смотри
+[Thu Sep 26 13:57:49 2013]  say: TUBORK: +
+[Thu Sep 26 13:58:21 2013]  say: TUBORK: ++
+[Thu Sep 26 13:58:31 2013]  say: ^1Emperor^0Palpatine-[OTF]: погоди
+[Thu Sep 26 13:59:07 2013]  say: TUBORK: во щас смотри я щас на тебе нападу тока меня не мочи 
+[Thu Sep 26 13:59:19 2013]  say: ^1Emperor^0Palpatine-[OTF]: меня выгоняют
+[Thu Sep 26 13:59:27 2013]  say: TUBORK: кто
+[Thu Sep 26 13:59:30 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Thu Sep 26 14:00:01 2013]  say: TUBORK: _ыфиук
+[Thu Sep 26 14:02:05 2013]  Kill: 1 1 39: TUBORK killed TUBORK by MOD_SUICIDE
+[Thu Sep 26 14:02:15 2013]  Kill: 1 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 14:02:15 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 14:05:57 2013]  Kill: 1 1 39: TUBORK killed TUBORK by MOD_SUICIDE
+[Thu Sep 26 14:06:05 2013]  Kill: 1 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 14:06:05 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 14:09:33 2013]  Kill: 1022 1 3: <world> killed TUBORK by MOD_SABER
+[Thu Sep 26 14:10:12 2013]  Kill: 1022 1 3: <world> killed TUBORK by MOD_SABER
+[Thu Sep 26 14:10:24 2013]  Kill: 1 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 14:10:24 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 14:16:58 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Thu Sep 26 14:17:01 2013]  Item: 1 weapon_disruptor
+[Thu Sep 26 14:17:04 2013]  ClientDisconnect: 2
+[Thu Sep 26 14:19:15 2013]  ClientDisconnect: 1
+[Thu Sep 26 14:25:41 2013]  ClientConnect: 1
+[Thu Sep 26 14:25:41 2013]  mlog:Player ^1Emperor^0Palpatine-[OTF], connected. With IP - 188.16.114.43:29070 
+[Thu Sep 26 14:26:08 2013]  ClientBegin: 1
+[Thu Sep 26 14:26:09 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Sep 26 14:26:33 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Sep 26 14:27:25 2013]  Kill: 1 0 3: ^1Emperor^0Palpatine-[OTF] killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 14:27:26 2013]  tell: ^0РаrkQµаkи to ^1Emperor^0Palpatine-[OTF]: ^2^7^1Emperor^0Palpatine-[OTF], ^7you killed me
+[Thu Sep 26 14:27:26 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^0РаrkQµаkи: ^2^7^0РаrkQµаkи, ^7I killed 116 people in total
+[Thu Sep 26 14:32:44 2013]  Kill: 1 0 27: ^1Emperor^0Palpatine-[OTF] killed ^0РаrkQµаkи by MOD_DET_PACK_SPLASH
+[Thu Sep 26 14:32:44 2013]  tell: ^0РаrkQµаkи to ^1Emperor^0Palpatine-[OTF]: ^2^7^1Emperor^0Palpatine-[OTF], ^7you killed me
+[Thu Sep 26 14:32:44 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^0РаrkQµаkи: ^2^7^0РаrkQµаkи, ^7I killed 117 people in total
+[Thu Sep 26 14:36:11 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Thu Sep 26 14:39:53 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Thu Sep 26 14:40:28 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Thu Sep 26 14:41:18 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Thu Sep 26 14:42:06 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Thu Sep 26 14:54:53 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Thu Sep 26 14:55:38 2013]  Kill: 1 0 27: ^1Emperor^0Palpatine-[OTF] killed ^0РаrkQµаkи by MOD_DET_PACK_SPLASH
+[Thu Sep 26 14:55:38 2013]  tell: ^0РаrkQµаkи to ^1Emperor^0Palpatine-[OTF]: ^2^7^1Emperor^0Palpatine-[OTF], ^7you killed me
+[Thu Sep 26 14:55:38 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^0РаrkQµаkи: ^2^7^0РаrkQµаkи, ^7I killed 118 people in total
+[Thu Sep 26 14:58:33 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Sep 26 15:10:00 2013]  ClientDisconnect: 1
+[Thu Sep 26 15:15:32 2013]  ClientConnect: 1
+[Thu Sep 26 15:15:32 2013]  mlog:Player newcomer, connected. With IP - 37.204.211.233:29070 
+[Thu Sep 26 15:16:21 2013]  ClientBegin: 1
+[Thu Sep 26 15:16:46 2013]  say: newcomer: hi)
+[Thu Sep 26 15:20:16 2013]  ClientConnect: 2
+[Thu Sep 26 15:20:16 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.41:-12965 
+[Thu Sep 26 15:20:23 2013]  ClientBegin: 2
+[Thu Sep 26 15:20:33 2013]  say: newcomer: hi :)
+[Thu Sep 26 15:21:13 2013]  say: TUBORK: ку
+[Thu Sep 26 15:21:19 2013]  say: TUBORK: hi
+[Thu Sep 26 15:21:47 2013]  say: newcomer: were are you from?..
+[Thu Sep 26 15:21:54 2013]  say: TUBORK: moscow
+[Thu Sep 26 15:22:15 2013]  say: newcomer: ja tozhe, no u menja russkiy ne rabotaet))
+[Thu Sep 26 15:22:34 2013]  say: TUBORK: ok
+[Thu Sep 26 15:23:32 2013]  Kill: 2 0 25: TUBORK killed ^0РаrkQµаkи by MOD_TRIP_MINE_SPLASH
+[Thu Sep 26 15:23:32 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 15:26:04 2013]  say: TUBORK: ты умеешь транспорт создавать
+[Thu Sep 26 15:26:18 2013]  say: newcomer: russkie bukvy ne vizhu :(
+[Thu Sep 26 15:26:20 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 15:26:21 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 15:26:23 2013]  say: newcomer: portal :)
+[Thu Sep 26 15:26:52 2013]  say: TUBORK: ti ymeesh transport sozdavat
+[Thu Sep 26 15:27:15 2013]  say: newcomer: spauniy'?
+[Thu Sep 26 15:27:21 2013]  say: newcomer: spaunit?
+[Thu Sep 26 15:27:24 2013]  say: TUBORK: da
+[Thu Sep 26 15:27:28 2013]  say: newcomer: da
+[Thu Sep 26 15:27:37 2013]  say: newcomer: npc spawn vehicle swoop naprimer
+[Thu Sep 26 15:27:54 2013]  say: TUBORK: lalshe
+[Thu Sep 26 15:27:56 2013]  say: newcomer: atst_vehicle, wampa_vehicle, rancor_vehicle
+[Thu Sep 26 15:28:10 2013]  ClientConnect: 3
+[Thu Sep 26 15:28:10 2013]  mlog:Player ^1Emperor^0Palpatine-[OTF], connected. With IP - 188.16.114.43:29070 
+[Thu Sep 26 15:28:13 2013]  say: newcomer: hm... ne rabotaet portal
+[Thu Sep 26 15:28:24 2013]  ClientBegin: 3
+[Thu Sep 26 15:28:24 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Sep 26 15:28:28 2013]  say: TUBORK: sdelay 
+[Thu Sep 26 15:28:29 2013]  say: ^1Emperor^0Palpatine-[OTF]: re
+[Thu Sep 26 15:28:31 2013]  say: TUBORK: ку
+[Thu Sep 26 15:29:06 2013]  say: ^1Emperor^0Palpatine-[OTF]: что вы творите
+[Thu Sep 26 15:29:12 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Sep 26 15:29:13 2013]  say: TUBORK: z ytpyf.
+[Thu Sep 26 15:29:18 2013]  say: TUBORK: я не знаю
+[Thu Sep 26 15:30:31 2013]  say: ^1Emperor^0Palpatine-[OTF]: бляяяяяяяя
+[Thu Sep 26 15:30:43 2013]  say: newcomer: ja russkie bukvy ne vizhu
+[Thu Sep 26 15:30:59 2013]  say: ^1Emperor^0Palpatine-[OTF]: Tak ti russkii&
+[Thu Sep 26 15:31:02 2013]  say: TUBORK: он русските буквы не видит
+[Thu Sep 26 15:31:04 2013]  say: newcomer: aga))
+[Thu Sep 26 15:31:09 2013]  say: ^1Emperor^0Palpatine-[OTF]: ^_^
+[Thu Sep 26 15:31:22 2013]  say: newcomer: ladno, ja otojdu minut na 15
+[Thu Sep 26 15:31:29 2013]  say: ^1Emperor^0Palpatine-[OTF]: Blya ubeite rancora
+[Thu Sep 26 15:31:37 2013]  say: newcomer: ok
+[Thu Sep 26 15:31:41 2013]  say: ^1Emperor^0Palpatine-[OTF]: sps
+[Thu Sep 26 15:33:13 2013]  say: newcomer: minut cherez 15 vernus'
+[Thu Sep 26 15:33:27 2013]  say: ^1Emperor^0Palpatine-[OTF]: okay
+[Thu Sep 26 15:34:08 2013]  Kill: 3 0 27: ^1Emperor^0Palpatine-[OTF] killed ^0РаrkQµаkи by MOD_DET_PACK_SPLASH
+[Thu Sep 26 15:34:08 2013]  tell: ^0РаrkQµаkи to ^1Emperor^0Palpatine-[OTF]: ^2^7^1Emperor^0Palpatine-[OTF], ^7you killed me
+[Thu Sep 26 15:34:08 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^0РаrkQµаkи: ^2^7^0РаrkQµаkи, ^7I killed 119 people in total
+[Thu Sep 26 15:35:21 2013]  say: TUBORK: cлыш палатин ты инрал в TF или в WARFACE
+[Thu Sep 26 15:35:29 2013]  say: ^1Emperor^0Palpatine-[OTF]: Нет
+[Thu Sep 26 15:35:37 2013]  say: TUBORK: жаль
+[Thu Sep 26 15:35:39 2013]  say: ^1Emperor^0Palpatine-[OTF]: Я и8граю только в игры по зв
+[Thu Sep 26 15:35:46 2013]  say: ^1Emperor^0Palpatine-[OTF]: Остальное гавно
+[Thu Sep 26 15:35:54 2013]  say: ^1Emperor^0Palpatine-[OTF]: Кстати ты вк есть?
+[Thu Sep 26 15:36:01 2013]  say: TUBORK: ноу
+[Thu Sep 26 15:36:39 2013]  Item: 2 weapon_blaster
+[Thu Sep 26 15:37:33 2013]  Item: 2 weapon_repeater
+[Thu Sep 26 15:37:52 2013]  Kill: 1022 0 3: <world> killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 15:38:02 2013]  say: TUBORK: ахаха
+[Thu Sep 26 15:38:05 2013]  say: ^1Emperor^0Palpatine-[OTF]: ?
+[Thu Sep 26 15:38:19 2013]  say: TUBORK: он не дохнет
+[Thu Sep 26 15:38:37 2013]  say: ^1Emperor^0Palpatine-[OTF]: Это фетт не дохнет
+[Thu Sep 26 15:38:43 2013]  say: ^1Emperor^0Palpatine-[OTF]: во
+[Thu Sep 26 15:38:54 2013]  say: TUBORK: а как фета поставить
+[Thu Sep 26 15:39:01 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 15:39:01 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 15:39:09 2013]  say: TUBORK: аа
+[Thu Sep 26 15:39:15 2013]  say: ^1Emperor^0Palpatine-[OTF]: Ну фетт тут итоже дохнет
+[Thu Sep 26 15:39:22 2013]  say: ^1Emperor^0Palpatine-[OTF]: В сингле он вечен
+[Thu Sep 26 15:39:24 2013]  say: TUBORK: ну как 
+[Thu Sep 26 15:39:38 2013]  say: TUBORK: как поставитьт
+[Thu Sep 26 15:39:43 2013]  say: ^1Emperor^0Palpatine-[OTF]: /npc spawn boba_fett
+[Thu Sep 26 15:40:10 2013]  say: TUBORK: готов
+[Thu Sep 26 15:40:18 2013]  say: TUBORK: да
+[Thu Sep 26 15:40:36 2013]  say: TUBORK: во
+[Thu Sep 26 15:40:40 2013]  say: TUBORK: во
+[Thu Sep 26 15:41:06 2013]  say: ^1Emperor^0Palpatine-[OTF]: Зырь мою атаку
+[Thu Sep 26 15:41:51 2013]  say: TUBORK: он бесмертный
+[Thu Sep 26 15:41:57 2013]  say: ^1Emperor^0Palpatine-[OTF]: Бля
+[Thu Sep 26 15:42:28 2013]  say: TUBORK: попробуй убей его
+[Thu Sep 26 15:42:33 2013]  say: ^1Emperor^0Palpatine-[OTF]: Бляяяяяяяя
+[Thu Sep 26 15:42:39 2013]  say: ^1Emperor^0Palpatine-[OTF]: я в яму упал
+[Thu Sep 26 15:42:39 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 15:42:40 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 15:42:54 2013]  say: TUBORK: где выъ
+[Thu Sep 26 15:43:04 2013]  say: TUBORK: а боба где
+[Thu Sep 26 15:43:05 2013]  say: ^1Emperor^0Palpatine-[OTF]: Фетт сдох
+[Thu Sep 26 15:43:36 2013]  say: ^1Emperor^0Palpatine-[OTF]: ахахах
+[Thu Sep 26 15:43:49 2013]  say: TUBORK: без этого убей его
+[Thu Sep 26 15:43:55 2013]  say: ^1Emperor^0Palpatine-[OTF]: ок
+[Thu Sep 26 15:43:58 2013]  say: TUBORK: и без god
+[Thu Sep 26 15:44:06 2013]  say: ^1Emperor^0Palpatine-[OTF]: валяй
+[Thu Sep 26 15:44:07 2013]  say: TUBORK: готов
+[Thu Sep 26 15:44:13 2013]  say: ^1Emperor^0Palpatine-[OTF]: да
+[Thu Sep 26 15:44:27 2013]  Kill: 1022 3 35: <world> killed ^1Emperor^0Palpatine-[OTF] by MOD_LAVA
+[Thu Sep 26 15:45:02 2013]  say: TUBORK: выключи dod
+[Thu Sep 26 15:45:15 2013]  say: ^1Emperor^0Palpatine-[OTF]: Не,не я че псих чтоли?
+[Thu Sep 26 15:45:28 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 15:45:28 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 15:45:32 2013]  say: ^1Emperor^0Palpatine-[OTF]: Я от него в сингле бегал
+[Thu Sep 26 15:45:45 2013]  say: ^1Emperor^0Palpatine-[OTF]: Так веселее
+[Thu Sep 26 15:46:17 2013]  say: ^1Emperor^0Palpatine-[OTF]: Си3пио зачем?
+[Thu Sep 26 15:46:28 2013]  say: TUBORK: ghjcnj lkz rhfcjns
+[Thu Sep 26 15:46:35 2013]  say: TUBORK: для красоты
+[Thu Sep 26 15:47:01 2013]  Kill: 3 0 3: ^1Emperor^0Palpatine-[OTF] killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 15:47:02 2013]  tell: ^0РаrkQµаkи to ^1Emperor^0Palpatine-[OTF]: ^2^7^1Emperor^0Palpatine-[OTF], ^7you killed me
+[Thu Sep 26 15:47:02 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^0РаrkQµаkи: ^2^7^0РаrkQµаkи, ^7I killed 120 people in total
+[Thu Sep 26 15:47:42 2013]  say: ^1Emperor^0Palpatine-[OTF]: Узрите пердешь Бога!
+[Thu Sep 26 15:48:02 2013]  say: TUBORK: не узрили
+[Thu Sep 26 15:48:13 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 15:48:13 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 15:48:48 2013]  say: TUBORK: зырь
+[Thu Sep 26 15:49:02 2013]  say: TUBORK: слушай
+[Thu Sep 26 15:49:14 2013]  say: ^1Emperor^0Palpatine-[OTF]: лол
+[Thu Sep 26 15:49:58 2013]  say: ^1Emperor^0Palpatine-[OTF]: Ловите наркомана!
+[Thu Sep 26 15:50:27 2013]  say: ^1Emperor^0Palpatine-[OTF]: поймали
+[Thu Sep 26 15:50:41 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 15:50:41 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 15:51:10 2013]  say: ^1Emperor^0Palpatine-[OTF]: лол
+[Thu Sep 26 15:51:56 2013]  say: TUBORK: ,tub
+[Thu Sep 26 15:52:04 2013]  say: TUBORK: ааа не добежал
+[Thu Sep 26 15:52:29 2013]  say: TUBORK: ты жестокий
+[Thu Sep 26 15:52:33 2013]  say: ^1Emperor^0Palpatine-[OTF]: о да
+[Thu Sep 26 15:53:05 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 15:53:06 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 15:54:04 2013]  say: TUBORK: давай карту сменим
+[Thu Sep 26 15:54:04 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Thu Sep 26 15:54:06 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Thu Sep 26 15:54:11 2013]  say: TUBORK: на kor2
+[Thu Sep 26 15:54:16 2013]  say: ^1Emperor^0Palpatine-[OTF]: Ща
+[Thu Sep 26 15:54:37 2013]  say: ^1Emperor^0Palpatine-[OTF]: А здесь нельзя голосовать
+[Thu Sep 26 15:55:04 2013]  say: TUBORK: а как сделать
+[Thu Sep 26 15:55:11 2013]  say: ^1Emperor^0Palpatine-[OTF]: Никак
+[Thu Sep 26 15:55:17 2013]  say: ^1Emperor^0Palpatine-[OTF]: Здесь запрещено
+[Thu Sep 26 15:55:29 2013]  say: TUBORK: огнемет как у боба фета когда близка подходишь
+[Thu Sep 26 15:55:47 2013]  say: ^1Emperor^0Palpatine-[OTF]: нажимай ф10
+[Thu Sep 26 15:56:07 2013]  say: TUBORK: нето
+[Thu Sep 26 15:56:09 2013]  say: ^1Emperor^0Palpatine-[OTF]: Силу убери
+[Thu Sep 26 15:56:34 2013]  say: TUBORK: и чо
+[Thu Sep 26 15:56:43 2013]  say: ^1Emperor^0Palpatine-[OTF]: В консоли пиши
+[Thu Sep 26 15:56:47 2013]  say: ^1Emperor^0Palpatine-[OTF]: /mempower
+[Thu Sep 26 15:56:55 2013]  say: TUBORK: а дальше
+[Thu Sep 26 15:56:57 2013]  say: newcomer: ja vernulsja)
+[Thu Sep 26 15:57:04 2013]  say: ^1Emperor^0Palpatine-[OTF]: molodec
+[Thu Sep 26 15:57:12 2013]  say: TUBORK: а дальше
+[Thu Sep 26 15:57:34 2013]  say: ^1Emperor^0Palpatine-[OTF]: U tebya vse eshe forca
+[Thu Sep 26 15:57:40 2013]  say: ^1Emperor^0Palpatine-[OTF]: Uberi
+[Thu Sep 26 15:57:49 2013]  say: newcomer: ja?
+[Thu Sep 26 15:57:54 2013]  say: TUBORK: f lfkmit
+[Thu Sep 26 15:57:54 2013]  say: ^1Emperor^0Palpatine-[OTF]: Net
+[Thu Sep 26 15:57:59 2013]  say: TUBORK: f lfkmit
+[Thu Sep 26 15:58:03 2013]  say: newcomer: u menja god))
+[Thu Sep 26 15:58:03 2013]  say: ^1Emperor^0Palpatine-[OTF]: Ya tuborku
+[Thu Sep 26 15:58:04 2013]  say: TUBORK: а дальше
+[Thu Sep 26 15:58:12 2013]  say: ^1Emperor^0Palpatine-[OTF]: Shmi f10
+[Thu Sep 26 15:58:21 2013]  say: newcomer: tak, vsjo, poshel kachat' russkie bukvy
+[Thu Sep 26 15:58:32 2013]  say: ^1Emperor^0Palpatine-[OTF]: valjai
+[Thu Sep 26 15:58:38 2013]  say: TUBORK: и что
+[Thu Sep 26 15:58:39 2013]  Kill: 1 1 39: newcomer killed newcomer by MOD_SUICIDE
+[Thu Sep 26 15:58:45 2013]  ClientDisconnect: 1
+[Thu Sep 26 15:58:55 2013]  say: TUBORK: дальше что
+[Thu Sep 26 15:59:31 2013]  say: TUBORK: дальше то што
+[Thu Sep 26 15:59:37 2013]  say: ^1Emperor^0Palpatine-[OTF]: Nashal f10&
+[Thu Sep 26 15:59:42 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 15:59:42 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 15:59:42 2013]  say: ^1Emperor^0Palpatine-[OTF]: ?
+[Thu Sep 26 15:59:45 2013]  say: TUBORK: да
+[Thu Sep 26 15:59:51 2013]  say: TUBORK: но ничего
+[Thu Sep 26 15:59:52 2013]  say: ^1Emperor^0Palpatine-[OTF]: Хм...
+[Thu Sep 26 15:59:58 2013]  say: ^1Emperor^0Palpatine-[OTF]: Хз че такое(
+[Thu Sep 26 16:00:05 2013]  say: ^1Emperor^0Palpatine-[OTF]: У меня было все норм
+[Thu Sep 26 16:00:15 2013]  say: TUBORK: а ты покажи
+[Thu Sep 26 16:00:36 2013]  ClientConnect: 1
+[Thu Sep 26 16:00:36 2013]  mlog:Player Padawan, connected. With IP - 37.204.211.233:29070 
+[Thu Sep 26 16:00:48 2013]  say: ^1Emperor^0Palpatine-[OTF]: Немогу
+[Thu Sep 26 16:00:57 2013]  say: ^1Emperor^0Palpatine-[OTF]: У самого щас не выходит
+[Thu Sep 26 16:01:15 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 16:01:15 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 16:01:57 2013]  say: ^1Emperor^0Palpatine-[OTF]: уиии
+[Thu Sep 26 16:02:06 2013]  say: ^1Emperor^0Palpatine-[OTF]: уииииииииииииииии
+[Thu Sep 26 16:02:07 2013]  say: TUBORK: ахаха
+[Thu Sep 26 16:02:09 2013]  say: ^1Emperor^0Palpatine-[OTF]: бляяяяяяяяяя
+[Thu Sep 26 16:02:15 2013]  say: ^1Emperor^0Palpatine-[OTF]: Я за карту упал
+[Thu Sep 26 16:02:27 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 16:02:27 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 16:02:40 2013]  ClientBegin: 1
+[Thu Sep 26 16:03:04 2013]  say: ^1Emperor^0Palpatine-[OTF]: Снова упал
+[Thu Sep 26 16:03:23 2013]  say: newcomer: блин, не работает(
+[Thu Sep 26 16:03:28 2013]  say: newcomer: видите, что я пишу?
+[Thu Sep 26 16:03:29 2013]  say: ^1Emperor^0Palpatine-[OTF]: О
+[Thu Sep 26 16:03:31 2013]  say: ^1Emperor^0Palpatine-[OTF]: Да
+[Thu Sep 26 16:03:33 2013]  say: TUBORK: да
+[Thu Sep 26 16:03:41 2013]  say: newcomer: так понял, да... а я нет
+[Thu Sep 26 16:03:43 2013]  Kill: 2 0 25: TUBORK killed ^0РаrkQµаkи by MOD_TRIP_MINE_SPLASH
+[Thu Sep 26 16:03:43 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 16:03:52 2013]  ClientDisconnect: 2
+[Thu Sep 26 16:03:56 2013]  say: newcomer: даже что я пишу, не вижу( пойду смотреть
+[Thu Sep 26 16:04:01 2013]  say: ^1Emperor^0Palpatine-[OTF]: Щито поделать,десу
+[Thu Sep 26 16:04:23 2013]  say: ^1Emperor^0Palpatine-[OTF]: Что это?
+[Thu Sep 26 16:04:26 2013]  say: newcomer: repulse :)
+[Thu Sep 26 16:04:35 2013]  say: ^1Emperor^0Palpatine-[OTF]: Сам сделал7
+[Thu Sep 26 16:04:44 2013]  say: ^1Emperor^0Palpatine-[OTF]: Тоже хочуууууууу
+[Thu Sep 26 16:04:45 2013]  say: newcomer: ne vizhu russkie bukvy
+[Thu Sep 26 16:05:04 2013]  say: ^1Emperor^0Palpatine-[OTF]: tojhe hochu takui hren
+[Thu Sep 26 16:05:10 2013]  say: newcomer: repulse?
+[Thu Sep 26 16:05:14 2013]  say: ^1Emperor^0Palpatine-[OTF]: da
+[Thu Sep 26 16:05:22 2013]  say: newcomer: ejo legko sdelat'))
+[Thu Sep 26 16:05:38 2013]  say: ^1Emperor^0Palpatine-[OTF]: Kak
+[Thu Sep 26 16:06:17 2013]  say: ^1Emperor^0Palpatine-[OTF]: A teper u tebya krov idet
+[Thu Sep 26 16:06:23 2013]  say: newcomer: aga)
+[Thu Sep 26 16:07:12 2013]  say: newcomer: pogodi
+[Thu Sep 26 16:07:40 2013]  say: ^1Emperor^0Palpatine-[OTF]: bednii desann
+[Thu Sep 26 16:08:16 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Thu Sep 26 16:08:39 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Thu Sep 26 16:08:50 2013]  say: ^1Emperor^0Palpatine-[OTF]: blea
+[Thu Sep 26 16:09:17 2013]  say: ^1Emperor^0Palpatine-[OTF]: A ti moshjesh kachat s jediknight3&
+[Thu Sep 26 16:09:30 2013]  say: newcomer: s filefront?
+[Thu Sep 26 16:09:34 2013]  say: ^1Emperor^0Palpatine-[OTF]: da
+[Thu Sep 26 16:09:38 2013]  say: newcomer: net. no znaju, kak mozhno
+[Thu Sep 26 16:09:42 2013]  say: ^1Emperor^0Palpatine-[OTF]: kak
+[Thu Sep 26 16:11:24 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Thu Sep 26 16:11:40 2013]  say: newcomer: youtube.com/watch?v=pyNF3yurerA
+[Thu Sep 26 16:11:56 2013]  say: newcomer: tam vsjo est', programma rabotaet, ja proverjal
+[Thu Sep 26 16:12:07 2013]  Kill: 1 1 39: newcomer killed newcomer by MOD_SUICIDE
+[Thu Sep 26 16:13:22 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Thu Sep 26 16:13:38 2013]  say: ^1Emperor^0Palpatine-[OTF]: Yeshe raz
+[Thu Sep 26 16:14:26 2013]  say: ^1Emperor^0Palpatine-[OTF]: Sha posmotrim
+[Thu Sep 26 16:14:30 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Thu Sep 26 16:14:40 2013]  say: newcomer: youtube.com/watch?v=pyNF3yurerA
+[Thu Sep 26 16:14:49 2013]  say: newcomer: no tam programma zlovrednaja
+[Thu Sep 26 16:15:09 2013]  say: newcomer: ona dejstvitelno rabotaet
+[Thu Sep 26 16:15:25 2013]  say: newcomer: no vo vremja raboty postojanno kuchu reklamy suet
+[Thu Sep 26 16:19:41 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Thu Sep 26 16:20:05 2013]  say: ^1Emperor^0Palpatine-[OTF]: Tam nado snachala explorer apnut
+[Thu Sep 26 16:20:28 2013]  say: newcomer: nu v obshem u menja vsjo rabotalo
+[Thu Sep 26 16:20:48 2013]  say: ^1Emperor^0Palpatine-[OTF]: Ura ya skachau skin Ichigo!
+[Thu Sep 26 16:20:57 2013]  say: newcomer: est' eshe 2ip.ru/anonim
+[Thu Sep 26 16:21:05 2013]  say: ^1Emperor^0Palpatine-[OTF]: Et cho
+[Thu Sep 26 16:21:11 2013]  say: newcomer: tam vrode ne skachivaetsa
+[Thu Sep 26 16:21:19 2013]  say: newcomer: hotja mozhesh poprobovat
+[Thu Sep 26 16:21:25 2013]  say: newcomer: no vse skriny vidno)
+[Thu Sep 26 16:21:33 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Thu Sep 26 16:22:10 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Thu Sep 26 16:22:27 2013]  say: ^1Emperor^0Palpatine-[OTF]: Sha explorer apnu
+[Thu Sep 26 16:22:51 2013]  Kill: 3 0 30: ^1Emperor^0Palpatine-[OTF] killed ^0РаrkQµаkи by MOD_CONC_ALT
+[Thu Sep 26 16:22:52 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^0РаrkQµаkи: ^2^7^0РаrkQµаkи, ^7I killed 121 people in total
+[Thu Sep 26 16:22:52 2013]  tell: ^0РаrkQµаkи to ^1Emperor^0Palpatine-[OTF]: ^2^7^1Emperor^0Palpatine-[OTF], ^7you killed me
+[Thu Sep 26 16:23:23 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Thu Sep 26 16:23:38 2013]  say: newcomer: sejchas boevoj skript napishu))
+[Thu Sep 26 16:25:42 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Thu Sep 26 16:26:01 2013]  say: ^1Emperor^0Palpatine-[OTF]: U mena explorer apnut ne vihodit
+[Thu Sep 26 16:26:09 2013]  say: ^1Emperor^0Palpatine-[OTF]: Pishet
+[Thu Sep 26 16:26:33 2013]  say: ^1Emperor^0Palpatine-[OTF]: Operationnii iazik sistremi ne poddershiwaetsya
+[Thu Sep 26 16:27:00 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Minimized
+[Thu Sep 26 16:27:21 2013]  say: newcomer: u tebja kakoj windows?
+[Thu Sep 26 16:32:01 2013]  tell: ^1Emperor^0Palpatine-[OTF] to ^1Emperor^0Palpatine-[OTF]: ^1UU ^3- ^1JA ^6Restored
+[Thu Sep 26 16:32:08 2013]  say: ^1Emperor^0Palpatine-[OTF]: XP
+[Thu Sep 26 16:32:15 2013]  say: ^1Emperor^0Palpatine-[OTF]: 32 bit
+[Thu Sep 26 16:32:31 2013]  say: newcomer: na nego IE9 ne vstanet
+[Thu Sep 26 16:32:39 2013]  say: ^1Emperor^0Palpatine-[OTF]: (
+[Thu Sep 26 16:32:45 2013]  say: ^1Emperor^0Palpatine-[OTF]: Ladno mne pora
+[Thu Sep 26 16:32:46 2013]  say: newcomer: najdi kogo nibud' s semerkoj i poprosi
+[Thu Sep 26 16:32:57 2013]  say: ^1Emperor^0Palpatine-[OTF]: da nu nafig
+[Thu Sep 26 16:33:03 2013]  say: ^1Emperor^0Palpatine-[OTF]: vse mne pora
+[Thu Sep 26 16:33:06 2013]  say: ^1Emperor^0Palpatine-[OTF]: bb(
+[Thu Sep 26 16:33:15 2013]  ClientDisconnect: 3
+[Thu Sep 26 16:33:17 2013]  say: newcomer: udachi)
+[Thu Sep 26 17:28:36 2013]  ClientConnect: 2
+[Thu Sep 26 17:28:36 2013]  mlog:Player ^5V^7^7lad, connected. With IP - 86.35.224.239:-8217 
+[Thu Sep 26 17:28:59 2013]  ClientBegin: 2
+[Thu Sep 26 17:28:59 2013]  say: Padawan: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 15 ^7- ^5U^7ltra^5U^7tility^5.^7net^5.^7tc
+[Thu Sep 26 17:29:03 2013]  say: Padawan: hey
+[Thu Sep 26 17:29:05 2013]  say: newcomer: hello :)
+[Thu Sep 26 17:29:46 2013]  print "Padawan^7 @@@PLRENAME ^5{^7327th^5}
+"[Thu Sep 26 17:29:51 2013]  say: ^5{^7327th^5}: oh lol
+[Thu Sep 26 17:30:14 2013]  print "^5{^7327th^5}^7 @@@PLRENAME Padawan
+"[Thu Sep 26 17:30:20 2013]  say: Padawan: omg my name isn't working
+[Thu Sep 26 17:30:29 2013]  print "Padawan^7 @@@PLRENAME ^5{^7327th^5} V^7lad
+"[Thu Sep 26 17:30:32 2013]  say: ^5{^7327th^5} V^7lad: at last
+[Thu Sep 26 17:30:47 2013]  say: ^5{^7327th^5} V^7lad: hey
+[Thu Sep 26 17:31:15 2013]  say: ^5{^7327th^5} V^7lad: hey
+[Thu Sep 26 17:31:16 2013]  say: newcomer: hey
+[Thu Sep 26 17:31:27 2013]  say: ^5{^7327th^5} V^7lad: :(
+[Thu Sep 26 17:31:34 2013]  say: ^5{^7327th^5} V^7lad: sryt
+[Thu Sep 26 17:31:47 2013]  say: ^5{^7327th^5} V^7lad: lol wtf
+[Thu Sep 26 17:31:49 2013]  Kill: 2 0 3: ^5{^7327th^5} V^7lad killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 17:31:50 2013]  tell: ^0РаrkQµаkи to ^5{^7327th^5} V^7lad: ^2^7^5{^7327th^5} V^7lad, ^7you killed me
+[Thu Sep 26 17:31:53 2013]  say: ^5{^7327th^5} V^7lad: WAT?
+[Thu Sep 26 17:31:58 2013]  say: newcomer: this is makermod :)
+[Thu Sep 26 17:31:59 2013]  say: ^5{^7327th^5} V^7lad: sorry 
+[Thu Sep 26 17:32:01 2013]  say: ^5{^7327th^5} V^7lad: yeah ik
+[Thu Sep 26 17:33:12 2013]  Kill: 2 0 3: ^5{^7327th^5} V^7lad killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 17:33:13 2013]  tell: ^0РаrkQµаkи to ^5{^7327th^5} V^7lad: ^2^7^5{^7327th^5} V^7lad, ^7you killed me
+[Thu Sep 26 17:33:22 2013]  say: ^5{^7327th^5} V^7lad: rancor scaled?:C?
+[Thu Sep 26 17:33:26 2013]  say: newcomer: yes
+[Thu Sep 26 17:33:41 2013]  Kill: 2 2 39: ^5{^7327th^5} V^7lad killed ^5{^7327th^5} V^7lad by MOD_SUICIDE
+[Thu Sep 26 17:33:57 2013]  tell: ^5{^7327th^5} V^7lad to ^5{^7327th^5} V^7lad: ^3Ultra Utility ^2- ^7Jedi Academy has been ^2Minimized
+[Thu Sep 26 17:34:11 2013]  ClientDisconnect: 2
+[Thu Sep 26 17:34:45 2013]  say: newcomer: see this. force repulse :)
+[Thu Sep 26 17:35:16 2013]  say: newcomer: hm... were are you?
+[Thu Sep 26 17:35:33 2013]  say: newcomer: nu chto zh... bye
+[Thu Sep 26 17:49:19 2013]  ClientConnect: 2
+[Thu Sep 26 17:49:19 2013]  mlog:Player Padawan, connected. With IP - 213.251.210.41:-5104 
+[Thu Sep 26 17:49:37 2013]  say: newcomer: hi)
+[Thu Sep 26 17:49:37 2013]  ClientBegin: 2
+[Thu Sep 26 17:49:41 2013]  say: TUBORK: ку
+[Thu Sep 26 17:49:49 2013]  say: newcomer: My origin is: (8384 9110 1520) - You can teleport here with /mtelelast
+
+[Thu Sep 26 17:49:53 2013]  say: newcomer: smotri))
+[Thu Sep 26 17:50:12 2013]  say: TUBORK: че за..........
+[Thu Sep 26 17:50:20 2013]  say: newcomer: ja ne vizhu russkij
+[Thu Sep 26 17:50:33 2013]  say: TUBORK: che za.....................
+[Thu Sep 26 17:50:48 2013]  say: newcomer: ja sluchajno)
+[Thu Sep 26 17:50:55 2013]  say: newcomer: perezagruzhus'
+[Thu Sep 26 17:51:00 2013]  ClientDisconnect: 1
+[Thu Sep 26 17:51:58 2013]  ClientConnect: 1
+[Thu Sep 26 17:51:58 2013]  mlog:Player newcomer, connected. With IP - 37.204.211.233:29070 
+[Thu Sep 26 17:52:50 2013]  ClientBegin: 1
+[Thu Sep 26 17:53:11 2013]  say: newcomer: ура)
+[Thu Sep 26 17:53:17 2013]  say: TUBORK: да
+[Thu Sep 26 17:53:20 2013]  say: newcomer: все, вижу русский)
+[Thu Sep 26 17:53:37 2013]  say: TUBORK: стой там
+[Thu Sep 26 17:54:20 2013]  say: newcomer: где? на спауне?
+[Thu Sep 26 17:54:28 2013]  say: TUBORK: нет
+[Thu Sep 26 17:54:39 2013]  say: TUBORK: в самом начале
+[Thu Sep 26 17:54:39 2013]  say: newcomer: ага, понял)
+[Thu Sep 26 17:55:20 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 17:55:21 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 17:56:01 2013]  say: newcomer: ?
+[Thu Sep 26 17:56:34 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 17:56:34 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 17:59:10 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 17:59:11 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 18:00:25 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 18:00:25 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 18:01:59 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 18:01:59 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 18:03:04 2013]  say: newcomer: My origin is: (7554 8713 1514) - You can teleport here with /mtelelast
+
+[Thu Sep 26 18:03:09 2013]  say: newcomer: а красиво)
+[Thu Sep 26 18:03:29 2013]  say: TUBORK: blb rj vyt kexit nen rhfcbdtt
+[Thu Sep 26 18:03:34 2013]  say: TUBORK: blb rj vyt
+[Thu Sep 26 18:03:41 2013]  say: TUBORK: ко мне иди
+[Thu Sep 26 18:03:58 2013]  say: TUBORK: зырь
+[Thu Sep 26 18:04:10 2013]  say: newcomer: прикольно)
+[Thu Sep 26 18:04:27 2013]  ClientConnect: 3
+[Thu Sep 26 18:04:27 2013]  mlog:Player ^0Krack ^33000#, connected. With IP - 109.152.1.113:29070 
+[Thu Sep 26 18:05:07 2013]  ClientBegin: 3
+[Thu Sep 26 18:05:20 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 18:05:21 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 18:05:21 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: hi everyone
+[Thu Sep 26 18:05:24 2013]  Kill: 2 3 3: TUBORK killed ^5^4D^5a^0n ^4Pla^0ys..... by MOD_SABER
+[Thu Sep 26 18:05:35 2013]  say: newcomer: hi
+[Thu Sep 26 18:05:57 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: tubork stop laming doude
+[Thu Sep 26 18:06:02 2013]  say: newcomer: я так в сингле делал, но там ранкор съедал фетта
+[Thu Sep 26 18:06:10 2013]  say: TUBORK: ахаха
+[Thu Sep 26 18:06:33 2013]  Kill: 3 0 3: ^5^4D^5a^0n ^4Pla^0ys..... killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 18:06:33 2013]  tell: ^0РаrkQµаkи to ^5^4D^5a^0n ^4Pla^0ys.....: ^2^7^5^4D^5a^0n ^4Pla^0ys....., ^7you killed me
+[Thu Sep 26 18:06:52 2013]  say: newcomer: My origin is: (7622 8639 1513) - You can teleport here with /mtelelast
+
+[Thu Sep 26 18:07:14 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^0ELEMENT SCRIPT V2 ^5By ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Sep 26 18:07:17 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Thu Sep 26 18:07:49 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 18:07:49 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 18:08:59 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 18:09:00 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 18:09:36 2013]  Kill: 3 2 37: ^5^4D^5a^0n ^4Pla^0ys..... killed TUBORK by MOD_TELEFRAG
+[Thu Sep 26 18:10:07 2013]  Kill: 2 0 3: TUBORK killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 18:10:08 2013]  tell: ^0РаrkQµаkи to TUBORK: ^2^7TUBORK, ^7you killed me
+[Thu Sep 26 18:10:21 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: stop fucking trying to kill peaople tubork
+[Thu Sep 26 18:10:35 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: mmark
+[Thu Sep 26 18:10:55 2013]  Kill: 3 2 37: ^5^4D^5a^0n ^4Pla^0ys..... killed TUBORK by MOD_TELEFRAG
+[Thu Sep 26 18:10:58 2013]  say: TUBORK: он досих пор не может завалить ранкора
+[Thu Sep 26 18:11:15 2013]  say: newcomer: у ранкора 3000 хп))
+[Thu Sep 26 18:11:25 2013]  Kill: 3 0 3: ^5^4D^5a^0n ^4Pla^0ys..... killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 18:11:25 2013]  tell: ^0РаrkQµаkи to ^5^4D^5a^0n ^4Pla^0ys.....: ^2^7^5^4D^5a^0n ^4Pla^0ys....., ^7you killed me
+[Thu Sep 26 18:11:49 2013]  say: newcomer: урона нету
+[Thu Sep 26 18:12:01 2013]  say: newcomer: not mpain :)
+[Thu Sep 26 18:12:08 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: do pain
+[Thu Sep 26 18:12:10 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1KILL SELECTED OBJECT!
+[Thu Sep 26 18:12:32 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1KILL SELECTED OBJECT!
+[Thu Sep 26 18:12:41 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FIRE BALL!
+[Thu Sep 26 18:12:45 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FIRE BALL!
+[Thu Sep 26 18:13:09 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^1FIRE ^5SURROUND!
+[Thu Sep 26 18:14:17 2013]  say: newcomer: КАТООК
+[Thu Sep 26 18:14:40 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: if u talk to me im english
+[Thu Sep 26 18:14:45 2013]  say: newcomer: yes
+[Thu Sep 26 18:14:49 2013]  tell: TUBORK to newcomer: я тут
+[Thu Sep 26 18:15:01 2013]  say: newcomer: im use russian when i talk to tubork)
+[Thu Sep 26 18:15:05 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: oh
+[Thu Sep 26 18:15:28 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Раrk^1Qµаkи^2/^1S
+[Thu Sep 26 18:15:33 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: ^0TRAP!
+[Thu Sep 26 18:16:27 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: he likes being small?
+[Thu Sep 26 18:16:34 2013]  say: TUBORK: yes
+[Thu Sep 26 18:16:51 2013]  ClientConnect: 4
+[Thu Sep 26 18:16:51 2013]  mlog:Player MadBob, connected. With IP - 82.46.74.207:29070 
+[Thu Sep 26 18:17:39 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: AFK for moment
+[Thu Sep 26 18:17:41 2013]  Kill: 3 3 39: ^5^4D^5a^0n ^4Pla^0ys..... killed ^5^4D^5a^0n ^4Pla^0ys..... by MOD_SUICIDE
+[Thu Sep 26 18:17:41 2013]  setteam:  3 FREE SPECTATOR
+[Thu Sep 26 18:17:41 2013]  ClientBegin: 3
+[Thu Sep 26 18:17:54 2013]  setteam:  3 SPECTATOR SPECTATOR
+[Thu Sep 26 18:17:54 2013]  ClientBegin: 3
+[Thu Sep 26 18:17:54 2013]  print "^5^4D^5a^0n ^4Pla^0ys.....^7 @@@PLRENAME ^5^4D^5a^0n ^4Pla^0ys.AFK
+"[Thu Sep 26 18:17:58 2013]  ClientBegin: 4
+[Thu Sep 26 18:18:58 2013]  print "^5^4D^5a^0n ^4Pla^0ys.AFK^7 @@@PLRENAME ^5^4D^5a^0n ^4Pla^0ys.....
+"[Thu Sep 26 18:18:59 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: BACK
+[Thu Sep 26 18:19:01 2013]  setteam:  3 SPECTATOR FREE
+[Thu Sep 26 18:19:01 2013]  ClientBegin: 3
+[Thu Sep 26 18:19:03 2013]  Kill: 2 4 14: TUBORK killed Dark_Jedi by MOD_REPEATER_ALT_SPLASH
+[Thu Sep 26 18:19:08 2013]  Kill: 4 3 37: Dark_Jedi killed ^5^4D^5a^0n ^4Pla^0ys..... by MOD_TELEFRAG
+[Thu Sep 26 18:19:10 2013]  say: ^5^4D^5a^0n ^4Pla^0ys.....: oh hi_dark_jedi
+[Thu Sep 26 18:19:16 2013]  say: Dark_Jedi: o hi
+[Thu Sep 26 18:19:26 2013]  say: newcomer: hi
+[Thu Sep 26 18:19:34 2013]  say: Dark_Jedi: hi noobie
+[Thu Sep 26 18:19:41 2013]  Kill: 3 0 3: ^5^4D^5a^0n ^4Pla^0ys..... killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 18:19:41 2013]  tell: ^0РаrkQµаkи to ^5^4D^5a^0n ^4Pla^0ys.....: ^2^7^5^4D^5a^0n ^4Pla^0ys....., ^7you killed me
+[Thu Sep 26 18:19:44 2013]  say: newcomer: :)
+[Thu Sep 26 18:20:23 2013]  ClientDisconnect: 4
+[Thu Sep 26 18:20:23 2013]  ClientDisconnect: 3
+[Thu Sep 26 18:20:23 2013]  ClientDisconnect: 2
+[Thu Sep 26 18:20:23 2013]  ClientDisconnect: 1
+[Thu Sep 26 18:20:34 2013]  ClientConnect: 1
+[Thu Sep 26 18:20:34 2013]  mlog:Player TUBORK, connected. With IP - 213.251.210.41:-5104 
+[Thu Sep 26 18:20:37 2013]  ClientConnect: 2
+[Thu Sep 26 18:20:37 2013]  mlog:Player newcomer, connected. With IP - 37.204.211.233:29070 
+[Thu Sep 26 18:20:39 2013]  ClientConnect: 3
+[Thu Sep 26 18:20:39 2013]  mlog:Player ^5^4D^5a^0n ^4Pla^0ys....., connected. With IP - 109.152.1.113:29070 
+[Thu Sep 26 18:20:40 2013]  ClientDisconnect: 1
+[Thu Sep 26 18:20:45 2013]  ClientDisconnect: 2
+[Thu Sep 26 18:20:48 2013]  ClientDisconnect: 3
+[Thu Sep 26 18:21:20 2013]  ClientConnect: 1
+[Thu Sep 26 18:21:20 2013]  mlog:Player newcomer, connected. With IP - 37.204.211.233:29070 
+[Thu Sep 26 18:21:29 2013]  ClientDisconnect: 1
+[Thu Sep 26 18:21:36 2013]  ClientConnect: 1
+[Thu Sep 26 18:21:36 2013]  mlog:Player Padawan, connected. With IP - 213.251.210.41:-5104 
+[Thu Sep 26 18:21:50 2013]  ClientDisconnect: 1
+[Thu Sep 26 18:22:25 2013]  ClientConnect: 1
+[Thu Sep 26 18:22:25 2013]  mlog:Player MadBob, connected. With IP - 82.46.74.207:29070 
+[Thu Sep 26 18:22:54 2013]  ClientDisconnect: 1
+[Thu Sep 26 18:26:47 2013]  ClientConnect: 1
+[Thu Sep 26 18:26:47 2013]  mlog:Player Padawan, connected. With IP - 213.251.210.41:-14302 
+[Thu Sep 26 18:26:53 2013]  ClientDisconnect: 1
+[Thu Sep 26 18:28:48 2013]  ClientConnect: 1
+[Thu Sep 26 18:28:48 2013]  mlog:Player Padawan, connected. With IP - 213.251.210.41:-13563 
+[Thu Sep 26 18:28:54 2013]  ClientDisconnect: 1
+[Thu Sep 26 18:29:13 2013]  ClientConnect: 1
+[Thu Sep 26 18:29:13 2013]  mlog:Player Padawan, connected. With IP - 213.251.210.41:-13563 
+[Thu Sep 26 18:29:19 2013]  ClientDisconnect: 1
+[Thu Sep 26 18:30:48 2013]  ClientConnect: 1
+[Thu Sep 26 18:30:48 2013]  mlog:Player Padawan, connected. With IP - 213.251.210.41:-13563 
+[Thu Sep 26 18:30:54 2013]  ClientDisconnect: 1
+[Thu Sep 26 18:33:23 2013]  ClientConnect: 1
+[Thu Sep 26 18:33:23 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.41:-13563 
+[Thu Sep 26 18:33:29 2013]  ClientDisconnect: 1
+[Thu Sep 26 18:34:53 2013]  ClientConnect: 1
+[Thu Sep 26 18:34:53 2013]  mlog:Player Padawan, connected. With IP - 213.251.210.41:-13563 
+[Thu Sep 26 18:34:59 2013]  ClientDisconnect: 1
+[Thu Sep 26 18:45:37 2013]  ClientConnect: 1
+[Thu Sep 26 18:45:37 2013]  mlog:Player Padawan, connected. With IP - 94.6.168.204:29070 
+[Thu Sep 26 18:45:58 2013]  ClientDisconnect: 1
+[Thu Sep 26 18:46:06 2013]  ClientConnect: 1
+[Thu Sep 26 18:46:06 2013]  mlog:Player ^1Tobi^0-^1San, connected. With IP - 94.6.168.204:29070 
+[Thu Sep 26 18:46:13 2013]  ClientDisconnect: 1
+[Thu Sep 26 18:54:55 2013]  ClientConnect: 1
+[Thu Sep 26 18:54:55 2013]  mlog:Player ^3R^0O^3N, connected. With IP - 213.251.210.41:-13023 
+[Thu Sep 26 18:55:01 2013]  ClientDisconnect: 1
+[Thu Sep 26 19:27:00 2013]  ClientConnect: 1
+[Thu Sep 26 19:27:00 2013]  mlog:Player Padawan, connected. With IP - 94.6.168.204:29070 
+[Thu Sep 26 19:27:16 2013]  ClientDisconnect: 1
+[Thu Sep 26 19:27:41 2013]  ClientConnect: 1
+[Thu Sep 26 19:27:41 2013]  mlog:Player MadBob, connected. With IP - 82.46.74.207:29070 
+[Thu Sep 26 19:28:06 2013]  ClientDisconnect: 1
+[Thu Sep 26 19:29:58 2013]  ClientConnect: 1
+[Thu Sep 26 19:29:58 2013]  mlog:Player MadBob, connected. With IP - 82.46.74.207:29070 
+[Thu Sep 26 19:30:58 2013]  ClientBegin: 1
+[Thu Sep 26 19:32:19 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:32:47 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:33:16 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:33:57 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:34:11 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:34:23 2013]  Kill: 1022 0 3: <world> killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 19:34:30 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:34:37 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:34:44 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:34:49 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:34:52 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:34:55 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:35:00 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:35:04 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:35:08 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:35:13 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:35:16 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:35:21 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:35:26 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:35:30 2013]  Kill: 1022 0 3: <world> killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 19:35:38 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:35:42 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:35:50 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:36:06 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:36:15 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:36:33 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:36:40 2013]  Kill: 1022 0 3: <world> killed ^0РаrkQµаkи by MOD_SABER
+[Thu Sep 26 19:36:51 2013]  Kill: 1022 1 3: <world> killed MadBob by MOD_SABER
+[Thu Sep 26 19:37:41 2013]  ClientDisconnect: 1
+[Thu Sep 26 20:01:09 2013]  ClientConnect: 1
+[Thu Sep 26 20:01:09 2013]  mlog:Player newcomer, connected. With IP - 37.204.211.233:29070 
+[Thu Sep 26 20:02:02 2013]  ClientDisconnect: 1
+[Thu Sep 26 22:03:26 2013]  ShutdownGame:
+[Thu Sep 26 22:03:26 2013]  ------------------------------------------------------------
+[Thu Sep 26 22:03:26 2013]  ------------------------------------------------------------
+[Thu Sep 26 22:03:26 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 26 22:03:28 2013]  ClientConnect: 0
+[Thu Sep 26 22:03:28 2013]  ClientBegin: 0
+[Thu Sep 26 22:03:59 2013]  ShutdownGame:
+[Thu Sep 26 22:03:59 2013]  ------------------------------------------------------------
+[Thu Sep 26 22:04:00 2013]  ------------------------------------------------------------
+[Thu Sep 26 22:04:00 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu Sep 26 22:04:01 2013]  ClientConnect: 0
+[Thu Sep 26 22:04:05 2013]  ClientBegin: 0
+[Thu Sep 26 22:04:06 2013]  say: ^0РаrkQµаkи: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu Sep 26 22:47:41 2013]  ClientDisconnect: 0

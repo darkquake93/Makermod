@@ -1,0 +1,696 @@
+[Fri Sep 20 17:57:41 2013]  ------------------------------------------------------------
+[Fri Sep 20 17:57:41 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\0\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Sep 20 17:57:51 2013]  ClientConnect: 0
+[Fri Sep 20 17:57:51 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Fri Sep 20 17:57:55 2013]  ClientBegin: 0
+[Fri Sep 20 17:58:08 2013]  ClientDisconnect: 0
+[Fri Sep 20 19:12:04 2013]  ClientConnect: 0
+[Fri Sep 20 19:12:04 2013]  mlog:Player ^1Scripe^2 {E.Wolves}^4*R, connected. With IP - 81.155.187.195:29070 
+[Fri Sep 20 19:12:20 2013]  ClientBegin: 0
+[Fri Sep 20 19:15:39 2013]  say: ^0DarkNess Assassin: ^1Combat ^0Script V1.1 By ^0Jawa Hunter
+[Fri Sep 20 19:15:40 2013]  say: ^0DarkNess Assassin: ^0ARG!!!!! 
+[Fri Sep 20 19:16:24 2013]  ClientDisconnect: 0
+[Sat Sep 21 09:21:56 2013]  ClientConnect: 0
+[Sat Sep 21 09:21:56 2013]  mlog:Player ^9Darth^3Masha^9[^2OTF^9], connected. With IP - 178.123.214.251:29070 
+[Sat Sep 21 09:22:28 2013]  ClientBegin: 0
+[Sat Sep 21 09:22:38 2013]  Item: 0 weapon_melee
+[Sat Sep 21 09:22:38 2013]  say: ^5^4Anakin^9Skywalker: ^0Battle ^4Sorcerer ^5script by ^0D^3arth ^0F^3urious
+[Sat Sep 21 09:29:58 2013]  ClientConnect: 1
+[Sat Sep 21 09:29:58 2013]  mlog:Player Segwanarus, connected. With IP - 89.243.105.74:29070 
+[Sat Sep 21 09:30:36 2013]  ClientBegin: 1
+[Sat Sep 21 09:31:15 2013]  Item: 1 item_cloak
+[Sat Sep 21 09:31:15 2013]  Item: 1 item_seeker
+[Sat Sep 21 09:31:15 2013]  Item: 1 item_binoculars
+[Sat Sep 21 09:31:15 2013]  Item: 1 item_sentry_gun
+[Sat Sep 21 09:31:15 2013]  Item: 1 item_medpac
+[Sat Sep 21 09:31:15 2013]  Item: 1 item_shield
+[Sat Sep 21 09:31:15 2013]  Item: 1 item_medpac_big
+[Sat Sep 21 09:31:15 2013]  Item: 1 item_eweb_holdable
+[Sat Sep 21 09:31:47 2013]  say: ^5^4Anakin^9Skywalker: ïðèâåò
+[Sat Sep 21 09:31:52 2013]  say: Segwanarus: WHAT?
+[Sat Sep 21 09:31:57 2013]  say: ^5^4Anakin^9Skywalker: í!!!!!!!!!
+[Sat Sep 21 09:32:11 2013]  Kill: 0 1 0: ^5^4Anakin^9Skywalker killed Segwanarus by MOD_UNKNOWN
+[Sat Sep 21 09:32:12 2013]  Item: 0 weapon_blaster
+[Sat Sep 21 09:32:39 2013]  say: ^5^4Anakin^9Skywalker: rus plz!!
+[Sat Sep 21 09:34:50 2013]  say: Segwanarus: ^1Combat ^0Script V1.1 By ^0Jawa Hunter
+[Sat Sep 21 09:34:51 2013]  say: Segwanarus: ^0ARG!!!!! 
+[Sat Sep 21 09:36:45 2013]  say: Segwanarus: ^2Stage 2
+[Sat Sep 21 09:36:55 2013]  say: Segwanarus: ^3Stage 3
+[Sat Sep 21 09:37:03 2013]  say: Segwanarus: ^4Stage 4
+[Sat Sep 21 09:37:10 2013]  say: Segwanarus: ^5Stage 5
+[Sat Sep 21 09:37:21 2013]  say: ^5^4Anakin^9Skywalker: 0_0
+[Sat Sep 21 09:38:28 2013]  Item: 1 item_cloak
+[Sat Sep 21 09:38:28 2013]  Item: 1 item_seeker
+[Sat Sep 21 09:38:28 2013]  Item: 1 item_binoculars
+[Sat Sep 21 09:38:28 2013]  Item: 1 item_sentry_gun
+[Sat Sep 21 09:38:28 2013]  Item: 1 item_medpac
+[Sat Sep 21 09:38:28 2013]  Item: 1 item_shield
+[Sat Sep 21 09:38:28 2013]  Item: 1 item_medpac_big
+[Sat Sep 21 09:38:28 2013]  Item: 1 item_eweb_holdable
+[Sat Sep 21 09:44:23 2013]  say: Segwanarus: ^2Stage 2
+[Sat Sep 21 09:44:26 2013]  say: Segwanarus: ^3Stage 3
+[Sat Sep 21 09:44:28 2013]  say: Segwanarus: ^4Stage 4
+[Sat Sep 21 09:44:30 2013]  say: Segwanarus: ^5Stage 5
+[Sat Sep 21 09:44:57 2013]  say: Segwanarus: ^2Stage 2
+[Sat Sep 21 09:45:01 2013]  say: Segwanarus: ^3Stage 3
+[Sat Sep 21 09:45:04 2013]  say: Segwanarus: ^4Stage 4
+[Sat Sep 21 09:45:06 2013]  say: Segwanarus: ^5Stage 5
+[Sat Sep 21 09:46:14 2013]  say: ^5^4Anakin^9Skywalker: aaaaaa
+[Sat Sep 21 09:46:53 2013]  say: Segwanarus: ^2Stage 2
+[Sat Sep 21 09:46:56 2013]  say: Segwanarus: ^3Stage 3
+[Sat Sep 21 09:46:59 2013]  say: Segwanarus: ^4Stage 4
+[Sat Sep 21 09:47:02 2013]  say: Segwanarus: ^5Stage 5
+[Sat Sep 21 09:47:56 2013]  say: Segwanarus: ^2Stage 2
+[Sat Sep 21 09:48:00 2013]  say: Segwanarus: ^3Stage 3
+[Sat Sep 21 09:48:02 2013]  say: Segwanarus: ^4Stage 4
+[Sat Sep 21 09:48:05 2013]  say: Segwanarus: ^5Stage 5
+[Sat Sep 21 09:50:24 2013]  say: Segwanarus: ^2Stage 2
+[Sat Sep 21 09:50:27 2013]  say: Segwanarus: ^3Stage 3
+[Sat Sep 21 09:50:29 2013]  say: Segwanarus: ^4Stage 4
+[Sat Sep 21 09:50:32 2013]  say: Segwanarus: ^5Stage 5
+[Sat Sep 21 09:55:37 2013]  say: Segwanarus: TO, YTO TBI AEnaewb?
+[Sat Sep 21 09:55:46 2013]  say: ^5^4Anakin^9Skywalker: no englesh
+[Sat Sep 21 09:55:57 2013]  say: Segwanarus: what u making m8
+[Sat Sep 21 10:07:53 2013]  Kill: 1 1 39: Segwanarus killed Segwanarus by MOD_SUICIDE
+[Sat Sep 21 10:08:33 2013]  Item: 1 item_cloak
+[Sat Sep 21 10:08:33 2013]  Item: 1 item_seeker
+[Sat Sep 21 10:08:33 2013]  Item: 1 item_binoculars
+[Sat Sep 21 10:08:33 2013]  Item: 1 item_sentry_gun
+[Sat Sep 21 10:08:33 2013]  Item: 1 item_medpac
+[Sat Sep 21 10:08:33 2013]  Item: 1 item_shield
+[Sat Sep 21 10:08:33 2013]  Item: 1 item_medpac_big
+[Sat Sep 21 10:08:33 2013]  Item: 1 item_eweb_holdable
+[Sat Sep 21 10:14:08 2013]  ClientDisconnect: 0
+[Sat Sep 21 11:25:37 2013]  ClientConnect: 0
+[Sat Sep 21 11:25:37 2013]  mlog:Player NAMEHERE, connected. With IP - 81.155.187.195:29070 
+[Sat Sep 21 11:26:06 2013]  ClientBegin: 0
+[Sat Sep 21 11:26:19 2013]  say: ^0DarkNess Assassin: hello
+[Sat Sep 21 11:26:24 2013]  Kill: 0 0 39: ^0DarkNess Assassin killed ^0DarkNess Assassin by MOD_SUICIDE
+[Sat Sep 21 11:26:24 2013]  setteam:  0 FREE SPECTATOR
+[Sat Sep 21 11:26:24 2013]  ClientBegin: 0
+[Sat Sep 21 11:26:43 2013]  ClientDisconnect: 0
+[Sat Sep 21 11:45:39 2013]  ClientDisconnect: 1
+[Sat Sep 21 15:48:52 2013]  ClientConnect: 0
+[Sat Sep 21 15:48:52 2013]  mlog:Player Padawan, connected. With IP - 79.114.201.100:29070 
+[Sat Sep 21 15:49:04 2013]  ClientBegin: 0
+[Sat Sep 21 15:49:05 2013]  say: Padawan: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 21 15:51:06 2013]  say: Padawan: mmove 12 12 0
+[Sat Sep 21 16:05:51 2013]  say: Padawan: !next
+[Sat Sep 21 16:05:52 2013]  say: Padawan: ^0Media ^7- ^5Currently playing: ^0DRAMATIC SONG - Toby Turner
+[Sat Sep 21 16:05:53 2013]  say: Padawan: !next
+[Sat Sep 21 16:05:54 2013]  say: Padawan: ^0Media ^7- ^5Currently playing: ^0I CAN SWING MY SWORD! (Minecraft Song)
+[Sat Sep 21 16:05:54 2013]  say: Padawan: !next
+[Sat Sep 21 16:05:55 2013]  say: Padawan: ^0Media ^7- ^5Currently playing: ^0JJ - Still Dre (Dr. Dre ft. Snoop Dogg)
+[Sat Sep 21 16:05:56 2013]  say: Padawan: !next
+[Sat Sep 21 16:05:56 2013]  say: Padawan: ^0Media ^7- ^5Currently playing: ^0Lambada - REMIX - Dance
+[Sat Sep 21 16:05:57 2013]  say: Padawan: !next
+[Sat Sep 21 16:05:58 2013]  say: Padawan: ^0Media ^7- ^5Currently playing: ^0MICHEL TELÓ - BARÁ BERÊ [CLIPE OFICIAL]
+[Sat Sep 21 16:06:02 2013]  say: Padawan: !setrate 1.30
+[Sat Sep 21 16:06:02 2013]  say: Padawan: ^0Media ^7- ^5Playback Rate changed to ^01.30x
+[Sat Sep 21 16:06:51 2013]  ClientConnect: 1
+[Sat Sep 21 16:06:51 2013]  mlog:Player maxim, connected. With IP - 46.39.244.66:-14126 
+[Sat Sep 21 16:06:59 2013]  ClientBegin: 1
+[Sat Sep 21 16:07:28 2013]  print "Padawan^7 @@@PLRENAME maxim
+"[Sat Sep 21 16:07:59 2013]  say: maxim: hi
+[Sat Sep 21 16:08:04 2013]  say: Padawan: hihio
+[Sat Sep 21 16:08:18 2013]  say: maxim: what
+[Sat Sep 21 16:08:20 2013]  say: maxim: ?
+[Sat Sep 21 16:08:21 2013]  say: Padawan: hi lol
+[Sat Sep 21 16:08:27 2013]  say: Padawan: who'r u?
+[Sat Sep 21 16:08:53 2013]  say: maxim: kill me please
+[Sat Sep 21 16:09:08 2013]  Kill: 0 1 3: Padawan killed maxim by MOD_SABER
+[Sat Sep 21 16:09:09 2013]  tell: Padawan to maxim: ^2^7maxim, ^7I killed 1 people in total
+[Sat Sep 21 16:09:11 2013]  say: Padawan: lol
+[Sat Sep 21 16:09:14 2013]  say: Padawan: !msg
+[Sat Sep 21 16:09:14 2013]  tell: Padawan to Padawan: ^0Config ^7- ^5Message mode: ^0Private chat
+[Sat Sep 21 16:09:16 2013]  say: Padawan: !pm
+[Sat Sep 21 16:09:25 2013]  say: maxim: =()
+[Sat Sep 21 16:09:27 2013]  say: Padawan: =[]
+[Sat Sep 21 16:09:40 2013]  say: maxim: you admin&
+[Sat Sep 21 16:09:42 2013]  say: Padawan: nope
+[Sat Sep 21 16:09:58 2013]  say: Padawan: nice
+[Sat Sep 21 16:10:04 2013]  say: Padawan: so who are you?
+[Sat Sep 21 16:10:05 2013]  say: Padawan: lol
+[Sat Sep 21 16:10:19 2013]  say: maxim: give me all force pleace
+[Sat Sep 21 16:10:39 2013]  say: maxim: give me
+[Sat Sep 21 16:10:44 2013]  print "Padawan^7 @@@PLRENAME ^7{^4LR^7}^^4R^7aziel
+"[Sat Sep 21 16:10:44 2013]  say: ^7{^4LR^7}^^4R^7aziel: lol.
+[Sat Sep 21 16:11:11 2013]  print "^7{^4LR^7}^^4R^7aziel^7 @@@PLRENAME Padawan
+"[Sat Sep 21 16:11:14 2013]  say: maxim: how you do it
+[Sat Sep 21 16:11:15 2013]  say: maxim: ?
+[Sat Sep 21 16:11:18 2013]  say: Padawan: wath?
+[Sat Sep 21 16:11:19 2013]  say: Padawan: wath
+[Sat Sep 21 16:11:32 2013]  say: maxim: this si
+[Sat Sep 21 16:11:34 2013]  say: maxim: is
+[Sat Sep 21 16:11:38 2013]  say: maxim: this is
+[Sat Sep 21 16:11:43 2013]  say: Padawan: dk
+[Sat Sep 21 16:11:59 2013]  say: maxim: mmm...
+[Sat Sep 21 16:12:00 2013]  ClientConnect: 2
+[Sat Sep 21 16:12:00 2013]  mlog:Player NAMEHERE, connected. With IP - 81.155.187.195:29070 
+[Sat Sep 21 16:12:17 2013]  ClientConnect: 3
+[Sat Sep 21 16:12:17 2013]  mlog:Player ^0Darkquake is back!, connected. With IP - 192.168.1.3:29070 
+[Sat Sep 21 16:12:29 2013]  ClientBegin: 2
+[Sat Sep 21 16:12:36 2013]  say: maxim: i want ?noclip
+[Sat Sep 21 16:12:38 2013]  ClientBegin: 3
+[Sat Sep 21 16:12:39 2013]  say: ^4Falx Nine: hi all
+[Sat Sep 21 16:12:45 2013]  say: Padawan: sup sup
+[Sat Sep 21 16:12:51 2013]  say: maxim: i want /noclip
+[Sat Sep 21 16:12:52 2013]  say: Padawan: new guys to maker?
+[Sat Sep 21 16:12:53 2013]  say: Padawan: lol o,o
+[Sat Sep 21 16:13:00 2013]  Kill: 2 2 39: ^4Falx Nine killed ^4Falx Nine by MOD_SUICIDE
+[Sat Sep 21 16:13:00 2013]  setteam:  2 FREE SPECTATOR
+[Sat Sep 21 16:13:00 2013]  ClientBegin: 2
+[Sat Sep 21 16:13:08 2013]  say: ^4Falx Nine: are u darkquake
+[Sat Sep 21 16:13:09 2013]  Kill: 0 1 3: Padawan killed maxim by MOD_SABER
+[Sat Sep 21 16:13:09 2013]  tell: Padawan to maxim: ^2^7maxim, ^7I killed 2 people in total
+[Sat Sep 21 16:13:12 2013]  say: ^0Darkquake is back!: Yeah :)
+[Sat Sep 21 16:13:18 2013]  say: Padawan: darkquakzur
+[Sat Sep 21 16:13:31 2013]  say: ^4Falx Nine: BOSS OF THE SERVER  im so happy your back
+[Sat Sep 21 16:13:34 2013]  setteam:  2 SPECTATOR FREE
+[Sat Sep 21 16:13:34 2013]  ClientBegin: 2
+[Sat Sep 21 16:13:43 2013]  say: ^0Darkquake is back!: :D Thx it's great to be back!
+[Sat Sep 21 16:13:47 2013]  say: Padawan: tell me about it
+[Sat Sep 21 16:13:49 2013]  print "Padawan^7 @@@PLRENAME ^7{^4LR^7}^^4R^7aziel
+"[Sat Sep 21 16:13:51 2013]  say: ^7{^4LR^7}^^4R^7aziel: xo
+[Sat Sep 21 16:13:53 2013]  say: ^4Falx Nine: hof
+[Sat Sep 21 16:14:13 2013]  Kill: 3 1 0: ^0Darkquake is back! killed maxim by MOD_UNKNOWN
+[Sat Sep 21 16:14:15 2013]  ClientConnect: 4
+[Sat Sep 21 16:14:15 2013]  mlog:Player ^1L^3u^2L^3o^1R, connected. With IP - 89.70.8.237:-19775 
+[Sat Sep 21 16:14:31 2013]  ClientBegin: 4
+[Sat Sep 21 16:14:52 2013]  say: ^0Darkquake is back!: ^6AIR-TAXI SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sat Sep 21 16:14:54 2013]  say: maxim: i want cheats
+[Sat Sep 21 16:15:03 2013]  Kill: 4 4 39: LuLoR killed LuLoR by MOD_SUICIDE
+[Sat Sep 21 16:15:05 2013]  say: ^7{^4LR^7}^^4R^7aziel: jump
+[Sat Sep 21 16:15:09 2013]  say: ^7{^4LR^7}^^4R^7aziel: JUMP I SAID!
+[Sat Sep 21 16:15:13 2013]  say: ^7{^4LR^7}^^4R^7aziel: :D
+[Sat Sep 21 16:15:28 2013]  say: ^7{^4LR^7}^^4R^7aziel: fly it lol
+[Sat Sep 21 16:15:34 2013]  say: ^0Darkquake is back!: Lol it's been a while :p
+[Sat Sep 21 16:15:35 2013]  say: maxim: go!
+[Sat Sep 21 16:15:36 2013]  say: ^0Darkquake is back!: one sec
+[Sat Sep 21 16:15:37 2013]  print "^7{^4LR^7}^^4R^7aziel^7 @@@PLRENAME ^4P^7anda
+"[Sat Sep 21 16:15:42 2013]  say: ^0Darkquake is back!: all my mmove keys are gone haha
+[Sat Sep 21 16:15:46 2013]  say: ^4P^7anda: mmoveall 1000 (look in one direction)
+[Sat Sep 21 16:15:46 2013]  say: ^4P^7anda: lol
+[Sat Sep 21 16:15:52 2013]  say: ^0Darkquake is back!: yeah yeah I remember
+[Sat Sep 21 16:16:02 2013]  say: ^0Darkquake is back!: but I made another script for easy movement :p
+[Sat Sep 21 16:16:05 2013]  say: ^0Darkquake is back!: one sec
+[Sat Sep 21 16:16:22 2013]  say: ^4P^7anda: lulor
+[Sat Sep 21 16:16:24 2013]  say: ^4P^7anda: that name is
+[Sat Sep 21 16:16:26 2013]  say: ^4P^7anda: familiar lol
+[Sat Sep 21 16:16:30 2013]  say: LuLoR: yee
+[Sat Sep 21 16:16:32 2013]  say: LuLoR: hi
+[Sat Sep 21 16:16:34 2013]  print "^4P^7anda^7 @@@PLRENAME ^7{^4LR^7}^^4R^7aziel
+"[Sat Sep 21 16:16:35 2013]  say: LuLoR: i think i remember oyu
+[Sat Sep 21 16:16:35 2013]  say: ^4Falx Nine: hi
+[Sat Sep 21 16:16:36 2013]  say: ^7{^4LR^7}^^4R^7aziel: u remember me? lol
+[Sat Sep 21 16:16:41 2013]  say: LuLoR: sure
+[Sat Sep 21 16:16:48 2013]  say: ^7{^4LR^7}^^4R^7aziel: your name sounds familiar but i've forgotten xD
+[Sat Sep 21 16:16:53 2013]  say: LuLoR: same
+[Sat Sep 21 16:16:59 2013]  say: maxim: why it dint fly?
+[Sat Sep 21 16:17:07 2013]  say: ^7{^4LR^7}^^4R^7aziel: choz!
+[Sat Sep 21 16:17:08 2013]  say: ^0Darkquake is back!: There's so much more I could do in the new Makermod version but I haven't been active in a while :p
+[Sat Sep 21 16:17:12 2013]  say: ^7{^4LR^7}^^4R^7aziel: adios kids. <3
+[Sat Sep 21 16:17:13 2013]  ClientDisconnect: 0
+[Sat Sep 21 16:17:14 2013]  say: ^0Darkquake is back!: I'll experiment slowly over time
+[Sat Sep 21 16:17:48 2013]  say: ^0Darkquake is back!: Alright using my movement script :)
+[Sat Sep 21 16:18:13 2013]  say: maxim: up up!
+[Sat Sep 21 16:18:39 2013]  say: ^0Darkquake is back!: It's not in the script to make it move that fast :p
+[Sat Sep 21 16:18:42 2013]  Kill: 4 1 6: LuLoR killed maxim by MOD_BLASTER
+[Sat Sep 21 16:18:42 2013]  say: ^0Darkquake is back!: I'll have to add it in
+[Sat Sep 21 16:18:43 2013]  say: maxim: what you do it?
+[Sat Sep 21 16:18:58 2013]  say: ^0Darkquake is back!: Hahaha :p
+[Sat Sep 21 16:19:58 2013]  say: ^0Darkquake is back!: hmm what other old scripts do I have..
+[Sat Sep 21 16:20:35 2013]  say: ^0Darkquake is back!: ^4JAWA ^4TENT ^4SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sat Sep 21 16:20:42 2013]  say: ^0Darkquake is back!: oh nice
+[Sat Sep 21 16:20:56 2013]  say: ^4Falx Nine: do u have combat script
+[Sat Sep 21 16:21:06 2013]  say: ^0Darkquake is back!: just my element script v2
+[Sat Sep 21 16:21:08 2013]  say: ^4Falx Nine: ^1Combat ^0Script V1.1 By ^0Jawa Hunter
+[Sat Sep 21 16:21:09 2013]  say: ^4Falx Nine: ^0ARG!!!!! 
+[Sat Sep 21 16:21:16 2013]  say: ^4Falx Nine: the element is good
+[Sat Sep 21 16:21:39 2013]  say: ^4Falx Nine: when will u put your name to just darkquake
+[Sat Sep 21 16:21:52 2013]  say: ^0Darkquake is back!: When everyone knows I'm back :p
+[Sat Sep 21 16:21:54 2013]  say: ^0Darkquake is back!: hahaha
+[Sat Sep 21 16:21:56 2013]  say: ^4Falx Nine: ok
+[Sat Sep 21 16:22:00 2013]  say: ^0Darkquake is back!: it's been ages
+[Sat Sep 21 16:22:05 2013]  say: ^4Falx Nine: yeah
+[Sat Sep 21 16:22:48 2013]  say: ^4Falx Nine: ^1ARG!!!^0HELP ME!!!
+[Sat Sep 21 16:22:50 2013]  say: ^4Falx Nine: ^1AHHHHHHHH!!!!!
+[Sat Sep 21 16:24:00 2013]  say: ^0Darkquake is back!: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Sat Sep 21 16:24:13 2013]  say: ^0Darkquake is back!: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Sat Sep 21 16:24:17 2013]  say: ^0Darkquake is back!: ^1FLOATING HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 3
+[Sat Sep 21 16:24:41 2013]  Kill: 4 4 39: LuLoR killed LuLoR by MOD_SUICIDE
+[Sat Sep 21 16:24:45 2013]  say: ^4Falx Nine: doesnt look finished
+[Sat Sep 21 16:24:52 2013]  say: ^0Darkquake is back!: Nah it isn't :p
+[Sat Sep 21 16:24:58 2013]  say: ^0Darkquake is back!: I abandoned a lot of things
+[Sat Sep 21 16:25:39 2013]  say: ^4Falx Nine: when did u leave
+[Sat Sep 21 16:25:46 2013]  Kill: 4 4 39: LuLoR killed LuLoR by MOD_SUICIDE
+[Sat Sep 21 16:25:51 2013]  say: ^0Darkquake is back!: hm it's on my old site, 1 mo
+[Sat Sep 21 16:26:25 2013]  say: ^4Falx Nine: ^1ARG!!!^0HELP ME!!!
+[Sat Sep 21 16:26:25 2013]  say: ^0Darkquake is back!: I posted 31st Oct 2009 that my server was shut down :p
+[Sat Sep 21 16:26:28 2013]  say: ^4Falx Nine: ^1AHHHHHHHH!!!!!
+[Sat Sep 21 16:26:46 2013]  say: ^0Darkquake is back!: and if people wanted it up again they could say so, but there wasn't much interest
+[Sat Sep 21 16:27:16 2013]  say: ^0Darkquake is back!: But I'll keep it up now cause there's still so much to Makermod I don't know
+[Sat Sep 21 16:27:30 2013]  say: ^0Darkquake is back!: The WIP commands seemed really cool but I never really tried them all
+[Sat Sep 21 16:27:40 2013]  say: maxim: setforceall 3
+[Sat Sep 21 16:27:50 2013]  say: ^4Falx Nine: its not signle player
+[Sat Sep 21 16:27:58 2013]  say: ^0Darkquake is back!: try /mempower
+[Sat Sep 21 16:28:05 2013]  say: ^4Falx Nine: it is mempowe
+[Sat Sep 21 16:28:06 2013]  say: ^4Falx Nine: r
+[Sat Sep 21 16:28:20 2013]  ClientDisconnect: 4
+[Sat Sep 21 16:28:45 2013]  say: ^4Falx Nine: i hate rosh
+[Sat Sep 21 16:28:48 2013]  say: ^0Darkquake is back!: yeah :p
+[Sat Sep 21 16:29:01 2013]  say: ^0Darkquake is back!: lvl 2 lightning rocks
+[Sat Sep 21 16:29:07 2013]  say: ^0Darkquake is back!: you can electrocute from so far away
+[Sat Sep 21 16:30:14 2013]  say: maxim: how so far?
+[Sat Sep 21 16:30:26 2013]  say: ^0Darkquake is back!: It's part of the game haha
+[Sat Sep 21 16:30:31 2013]  say: ^0Darkquake is back!: just a feature of lvl 2 lightning
+[Sat Sep 21 16:31:24 2013]  say: ^4Falx Nine: darkqake get off rancor im lagging
+[Sat Sep 21 16:31:32 2013]  say: ^4Falx Nine: aahhahah
+[Sat Sep 21 16:31:34 2013]  say: ^0Darkquake is back!: :/
+[Sat Sep 21 16:31:37 2013]  say: ^0Darkquake is back!: crap computer?
+[Sat Sep 21 16:31:41 2013]  say: ^4Falx Nine: no
+[Sat Sep 21 16:32:35 2013]  say: maxim: cool
+[Sat Sep 21 16:33:20 2013]  say: ^0Darkquake is back!: ^4ELEMENT SCRIPT V1 ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sat Sep 21 16:33:26 2013]  say: ^0Darkquake is back!: ^5FORCE ^5BLAST!
+[Sat Sep 21 16:33:31 2013]  say: ^0Darkquake is back!: ^1FORCE DESTRUCTION!
+[Sat Sep 21 16:33:40 2013]  say: ^0Darkquake is back!: ^7SILVER ^7SUIT!
+[Sat Sep 21 16:33:45 2013]  say: ^0Darkquake is back!: Oh :p
+[Sat Sep 21 16:33:48 2013]  say: ^0Darkquake is back!: buggy haha
+[Sat Sep 21 16:33:56 2013]  say: maxim: /notarget
+[Sat Sep 21 16:33:58 2013]  say: ^0Darkquake is back!: I've gotta mute all my scripts lol
+[Sat Sep 21 16:35:16 2013]  say: ^4Falx Nine: ^1ARG!!!^0HELP ME!!!
+[Sat Sep 21 16:35:19 2013]  say: ^4Falx Nine: ^1AHHHHHHHH!!!!!
+[Sat Sep 21 16:35:31 2013]  say: ^0Darkquake is back!: :p
+[Sat Sep 21 16:35:41 2013]  ClientConnect: 0
+[Sat Sep 21 16:35:41 2013]  mlog:Player ^4Anakin^9Skywalker, connected. With IP - 178.123.214.251:29070 
+[Sat Sep 21 16:35:54 2013]  say: ^4Falx Nine: is that your script
+[Sat Sep 21 16:35:55 2013]  say: maxim: what cheat on bomb???
+[Sat Sep 21 16:36:01 2013]  say: ^0Darkquake is back!: This original element script was great
+[Sat Sep 21 16:36:05 2013]  say: ^0Darkquake is back!: Yeah :)
+[Sat Sep 21 16:36:06 2013]  say: ^4Falx Nine: i had that ones i was a cool script
+[Sat Sep 21 16:36:15 2013]  say: ^0Darkquake is back!: Still on filefront :D
+[Sat Sep 21 16:36:17 2013]  ClientBegin: 0
+[Sat Sep 21 16:36:19 2013]  say: ^0Darkquake is back!: along with v2
+[Sat Sep 21 16:36:19 2013]  say: ^4Falx Nine: yes
+[Sat Sep 21 16:36:25 2013]  Item: 0 weapon_melee
+[Sat Sep 21 16:36:25 2013]  say: ^5^4Anakin^9Skywalker: ^0Battle ^4Sorcerer ^5script by ^0D^3arth ^0F^3urious
+[Sat Sep 21 16:36:27 2013]  say: maxim: cheat on bomb
+[Sat Sep 21 16:36:34 2013]  say: ^4Falx Nine: thats a script
+[Sat Sep 21 16:36:36 2013]  say: ^5^4Anakin^9Skywalker: ýý ðóññêèå åñòü?
+[Sat Sep 21 16:36:38 2013]  say: maxim: cheat on bomb
+[Sat Sep 21 16:36:44 2013]  say: maxim: cheat on bomb
+[Sat Sep 21 16:36:50 2013]  say: ^4Falx Nine: is a script
+[Sat Sep 21 16:37:05 2013]  say: maxim: say cheat on bomb?
+[Sat Sep 21 16:37:05 2013]  say: ^0Darkquake is back!: hm that didn't work
+[Sat Sep 21 16:37:15 2013]  say: ^0Darkquake is back!: hahaha rock smash
+[Sat Sep 21 16:37:18 2013]  say: ^0Darkquake is back!: that was cool
+[Sat Sep 21 16:37:23 2013]  say: ^4Falx Nine: ^1*Uses Medpac*
+[Sat Sep 21 16:37:46 2013]  say: ^0Darkquake is back!: hey check this out
+[Sat Sep 21 16:37:49 2013]  say: ^0Darkquake is back!: forgot about this one
+[Sat Sep 21 16:37:56 2013]  say: ^0Darkquake is back!: :p
+[Sat Sep 21 16:38:07 2013]  say: ^4Falx Nine: his head got choped of
+[Sat Sep 21 16:40:02 2013]  say: ^5^4Anakin^9Skywalker: xD
+[Sat Sep 21 16:40:22 2013]  say: ^4Falx Nine: thats fun
+[Sat Sep 21 16:40:24 2013]  say: ^4Falx Nine: lol
+[Sat Sep 21 16:41:18 2013]  say: ^4Falx Nine: ^0RAGNOS'!!!! ^1WRATH!!!!!!
+[Sat Sep 21 16:41:44 2013]  Kill: 3 3 39: ^0Darkquake is back! killed ^0Darkquake is back! by MOD_SUICIDE
+[Sat Sep 21 16:42:44 2013]  say: maxim: how you do ?
+[Sat Sep 21 16:42:57 2013]  say: ^4Falx Nine: ^0RAGNOS'!!!! ^1WRATH!!!!!!
+[Sat Sep 21 16:43:13 2013]  say: ^4Falx Nine: ^1DEATH ^0BALL!!!!!
+[Sat Sep 21 16:43:28 2013]  Kill: 1 3 27: maxim killed ^0Darkquake is back! by MOD_DET_PACK_SPLASH
+[Sat Sep 21 16:43:33 2013]  say: maxim: sorry
+[Sat Sep 21 16:43:37 2013]  say: ^0Darkquake is back!: dw
+[Sat Sep 21 16:44:15 2013]  say: ^0Darkquake is back!: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 1
+[Sat Sep 21 16:44:21 2013]  say: ^0Darkquake is back!: ^1HOUSE SCRIPT ^4By ^1µ^2/Ðàrk^1Qµàkè^2/^1S - ^5PART 2
+[Sat Sep 21 16:44:34 2013]  say: ^0Darkquake is back!: I remember this :p
+[Sat Sep 21 16:44:34 2013]  say: ^4Falx Nine: this looks finished
+[Sat Sep 21 16:44:42 2013]  say: ^0Darkquake is back!: yeah a nice small house
+[Sat Sep 21 16:44:57 2013]  say: ^4Falx Nine: whats the name of this
+[Sat Sep 21 16:45:03 2013]  say: ^0Darkquake is back!: just house haha
+[Sat Sep 21 16:45:09 2013]  say: ^4Falx Nine: no this
+[Sat Sep 21 16:45:22 2013]  say: ^4Falx Nine: My origin is: (-7175 -19814 1492) - You can teleport here with /mtelelast
+
+[Sat Sep 21 16:45:29 2013]  say: ^4Falx Nine: this
+[Sat Sep 21 16:45:31 2013]  say: ^0Darkquake is back!: oh
+[Sat Sep 21 16:45:37 2013]  say: ^0Darkquake is back!: hey stop punching :p
+[Sat Sep 21 16:45:39 2013]  say: ^0Darkquake is back!: I'll do mtrace
+[Sat Sep 21 16:45:51 2013]  say: ^0Darkquake is back!: it's nar_shaddar/fishtank
+[Sat Sep 21 16:45:56 2013]  say: maxim: ho you do?????
+[Sat Sep 21 16:45:56 2013]  say: ^4Falx Nine: ok
+[Sat Sep 21 16:46:00 2013]  say: ^0Darkquake is back!: do you have the Makermod client plugin?
+[Sat Sep 21 16:46:07 2013]  say: ^0Darkquake is back!: you can easily place objects from the list
+[Sat Sep 21 16:46:19 2013]  say: ^4Falx Nine: thx
+[Sat Sep 21 16:46:32 2013]  say: ^5^4Anakin^9Skywalker: XD
+[Sat Sep 21 16:46:59 2013]  say: ^5^4Anakin^9Skywalker: lol
+[Sat Sep 21 16:47:14 2013]  say: maxim: ho you do???
+[Sat Sep 21 16:47:19 2013]  say: maxim: wow
+[Sat Sep 21 16:47:28 2013]  say: maxim: wwooow
+[Sat Sep 21 16:47:33 2013]  say: ^0Darkquake is back!: type /minfo and you'll learn everything lol
+[Sat Sep 21 16:47:50 2013]  say: ^0Darkquake is back!: first open the console with shift+tidle(key behind 1)
+[Sat Sep 21 16:47:53 2013]  say: ^0Darkquake is back!: then type /minfo
+[Sat Sep 21 16:48:18 2013]  say: ^4Falx Nine: My origin is: (-1436 -19915 3593) - You can teleport here with /mtelelast
+
+[Sat Sep 21 16:48:19 2013]  say: ^0Darkquake is back!: tilde*
+[Sat Sep 21 16:48:34 2013]  say: ^0Darkquake is back!: haha sorry about the reskin
+[Sat Sep 21 16:48:38 2013]  ClientConnect: 4
+[Sat Sep 21 16:48:38 2013]  mlog:Player ^1M^7a^1®Z, connected. With IP - 174.68.113.8:29070 
+[Sat Sep 21 16:48:39 2013]  say: ^0Darkquake is back!: you've got the intro vid here :p
+[Sat Sep 21 16:48:40 2013]  say: ^4Falx Nine: what reskin
+[Sat Sep 21 16:48:45 2013]  say: ^4Falx Nine: i know
+[Sat Sep 21 16:48:54 2013]  say: ^0Darkquake is back!: it suits the panel :)
+[Sat Sep 21 16:49:02 2013]  say: ^0Darkquake is back!: I can do it for the jawa too haha
+[Sat Sep 21 16:49:06 2013]  say: ^0Darkquake is back!: one sec
+[Sat Sep 21 16:49:06 2013]  ClientBegin: 4
+[Sat Sep 21 16:49:09 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Sat Sep 21 16:49:21 2013]  say: ^4Falx Nine: the jawa is normal
+[Sat Sep 21 16:49:41 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: hI, ALL.
+[Sat Sep 21 16:49:42 2013]  Kill: 1022 4 36: <world> killed ^2Ð^0ev^2ì^0an^2ç^0e by MOD_CRUSH
+[Sat Sep 21 16:49:44 2013]  say: ^4Falx Nine: nice
+[Sat Sep 21 16:49:44 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Hi, all*
+[Sat Sep 21 16:49:45 2013]  say: ^0Darkquake is back!: there we go
+[Sat Sep 21 16:49:48 2013]  say: ^5^4Anakin^9Skywalker: hii
+[Sat Sep 21 16:49:50 2013]  say: ^4Falx Nine: hi
+[Sat Sep 21 16:49:56 2013]  Item: 0 ammo_all
+[Sat Sep 21 16:50:01 2013]  say: ^0Darkquake is back!: check out the jawa :)
+[Sat Sep 21 16:50:13 2013]  say: maxim: how you do?????????
+[Sat Sep 21 16:50:14 2013]  say: ^4Falx Nine: be a jawa and look at skin everone
+[Sat Sep 21 16:50:22 2013]  say: ^0Darkquake is back!: or spawn one
+[Sat Sep 21 16:50:26 2013]  say: ^4Falx Nine: yeah
+[Sat Sep 21 16:50:34 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Any of you here visited JKHub.org?
+[Sat Sep 21 16:50:41 2013]  say: ^4Falx Nine: no
+[Sat Sep 21 16:50:43 2013]  say: maxim: how you do?????????
+[Sat Sep 21 16:50:45 2013]  say: maxim: how you do?????????
+[Sat Sep 21 16:50:46 2013]  say: maxim: how you do?????????
+[Sat Sep 21 16:50:56 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Uh..
+[Sat Sep 21 16:51:04 2013]  say: maxim: circle magick how????
+[Sat Sep 21 16:51:06 2013]  say: ^0Darkquake is back!: your name looks familiar
+[Sat Sep 21 16:51:10 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Mine?
+[Sat Sep 21 16:51:10 2013]  say: ^0Darkquake is back!: the style
+[Sat Sep 21 16:51:12 2013]  say: ^0Darkquake is back!: yeah
+[Sat Sep 21 16:51:15 2013]  say: maxim: circle magick how????
+[Sat Sep 21 16:51:17 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Like who's?
+[Sat Sep 21 16:51:18 2013]  say: ^0Darkquake is back!: ..stylus?
+[Sat Sep 21 16:51:22 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Nah
+[Sat Sep 21 16:51:23 2013]  say: ^0Darkquake is back!: an old friend
+[Sat Sep 21 16:51:30 2013]  Kill: 0 4 0: ^5^4Anakin^9Skywalker killed ^2Ð^0ev^2ì^0an^2ç^0e by MOD_UNKNOWN
+[Sat Sep 21 16:51:30 2013]  tell: ^2Ð^0ev^2ì^0an^2ç^0e to ^5^4Anakin^9Skywalker: ^2^7^5^4Anakin^9Skywalker, ^7you killed me
+[Sat Sep 21 16:51:32 2013]  say: ^0Darkquake is back!: nvm then :p
+[Sat Sep 21 16:51:38 2013]  say: ^0Darkquake is back!: anyway great to be back :D
+[Sat Sep 21 16:51:46 2013]  say: ^0Darkquake is back!: so much more to learn with the new MM version
+[Sat Sep 21 16:51:49 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: »SithStalkè®.
+[Sat Sep 21 16:51:55 2013]  Kill: 2 4 10: ^4Falx Nine killed ^2Ð^0ev^2ì^0an^2ç^0e by MOD_DISRUPTOR_SNIPER
+[Sat Sep 21 16:51:56 2013]  tell: ^2Ð^0ev^2ì^0an^2ç^0e to ^4Falx Nine: ^2^7^4Falx Nine, ^7you killed me
+[Sat Sep 21 16:51:56 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Or SyßrÆl
+[Sat Sep 21 16:52:06 2013]  say: ^5^4Anakin^9Skywalker: ðóññêèå!
+[Sat Sep 21 16:52:20 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Lol, for such a good MM server, wish my ping wasn't nearly 200
+[Sat Sep 21 16:52:23 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: D:
+[Sat Sep 21 16:52:30 2013]  say: ^0Darkquake is back!: Oh damn
+[Sat Sep 21 16:52:36 2013]  say: ^0Darkquake is back!: yeah can't do anything about pings
+[Sat Sep 21 16:52:48 2013]  say: ^0Darkquake is back!: no matter how good the internet connection is, it depends where the server's based
+[Sat Sep 21 16:52:52 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Yeah
+[Sat Sep 21 16:53:06 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: So darkquake, you haven't visited JKHub.org?
+[Sat Sep 21 16:53:12 2013]  say: ^5^4Anakin^9Skywalker: .òùå
+[Sat Sep 21 16:53:12 2013]  say: ^0Darkquake is back!: Hey I've got an idea though
+[Sat Sep 21 16:53:14 2013]  say: maxim: fuck
+[Sat Sep 21 16:53:14 2013]  tell: ^2Ð^0ev^2ì^0an^2ç^0e to ^2Ð^0ev^2ì^0an^2ç^0e: ^7Media ^0- ^7Currently playing: ^5Guy Sebastian ft. Lupe Fiasco - Battle Scars
+[Sat Sep 21 16:53:20 2013]  say: ^0Darkquake is back!: cause I have a comp I can use in Switzerland
+[Sat Sep 21 16:53:21 2013]  Item: 1 weapon_blaster
+[Sat Sep 21 16:53:23 2013]  say: ^0Darkquake is back!: also Australia
+[Sat Sep 21 16:53:30 2013]  say: ^4Falx Nine: ^1ARG!!!^0HELP ME!!!
+[Sat Sep 21 16:53:33 2013]  say: ^4Falx Nine: ^1AHHHHHHHH!!!!!
+[Sat Sep 21 16:53:34 2013]  say: ^0Darkquake is back!: so I could host several servers to try to get better pings for people :)
+[Sat Sep 21 16:53:38 2013]  say: ^0Darkquake is back!: I'll look into it
+[Sat Sep 21 16:53:44 2013]  say: ^0Darkquake is back!: currently I'm hosting from England
+[Sat Sep 21 16:53:46 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Cool :D
+[Sat Sep 21 16:53:53 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: I live in USA North America
+[Sat Sep 21 16:53:56 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: so...
+[Sat Sep 21 16:53:58 2013]  say: ^0Darkquake is back!: but yeah can easily host from Switzerland and Australia with Teamviewer
+[Sat Sep 21 16:54:36 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Well anyway, I'm on the JKHub forums working on a Shadowtrooper skin from DT85's new stormtrooper model
+[Sat Sep 21 16:54:49 2013]  say: ^0Darkquake is back!: ah cool
+[Sat Sep 21 16:54:52 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: If you're interested, check the WIP Trailers & Releases
+[Sat Sep 21 16:55:01 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: I came here to test shaders, also :P
+[Sat Sep 21 16:55:22 2013]  say: ^0Darkquake is back!: Fair enough :p Yeah MM is great for its easy shader remapping
+[Sat Sep 21 16:55:30 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: XD
+[Sat Sep 21 16:55:40 2013]  say: ^0Darkquake is back!: I'm just having a bit of nostalgia though opening up my old scripts :p
+[Sat Sep 21 16:55:43 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Be as it may, it's the texture file of mine that won't work out
+[Sat Sep 21 16:56:03 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Still trying to find out how to put a dynamic glow on the stormtrooper's lens
+[Sat Sep 21 16:56:14 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: A blue one, at that
+[Sat Sep 21 16:56:25 2013]  say: ^4Falx Nine: bye all got to go
+[Sat Sep 21 16:56:30 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Later man
+[Sat Sep 21 16:56:33 2013]  say: ^0Darkquake is back!: cool
+[Sat Sep 21 16:56:34 2013]  ClientDisconnect: 2
+[Sat Sep 21 16:56:44 2013]  say: ^0Darkquake is back!: hey btw guys eventually I'll get my website back up
+[Sat Sep 21 16:56:51 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: You had a website? o.o
+[Sat Sep 21 16:56:55 2013]  say: ^0Darkquake is back!: yeah :p
+[Sat Sep 21 16:56:57 2013]  say: ^0Darkquake is back!: darkquake.com
+[Sat Sep 21 16:57:00 2013]  say: maxim: i want tawion scipiter too
+[Sat Sep 21 16:57:03 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Hmm
+[Sat Sep 21 16:57:06 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: I dunt remember you
+[Sat Sep 21 16:57:12 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: But either way
+[Sat Sep 21 16:57:17 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: You seem pretty cool
+[Sat Sep 21 16:57:21 2013]  say: ^0Darkquake is back!: thx :D
+[Sat Sep 21 16:57:25 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: and we both love makermod
+[Sat Sep 21 16:57:31 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: So, that's a good mix
+[Sat Sep 21 16:57:37 2013]  Kill: 1022 4 38: <world> killed ^2Ð^0ev^2ì^0an^2ç^0e by MOD_FALLING
+[Sat Sep 21 16:57:41 2013]  say: ^0Darkquake is back!: Yeah Makermod is epic!
+[Sat Sep 21 16:57:47 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: :D
+[Sat Sep 21 16:57:59 2013]  say: ^0Darkquake is back!: strange you never heard of me, I made Element Script V2 :D It was so popular on all MM servers
+[Sat Sep 21 16:58:04 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: I used to build homes, ships, even RQ quests
+[Sat Sep 21 16:58:05 2013]  say: ^0Darkquake is back!: still on jk3files
+[Sat Sep 21 16:58:07 2013]  Kill: 1022 4 38: <world> killed ^2Ð^0ev^2ì^0an^2ç^0e by MOD_FALLING
+[Sat Sep 21 16:58:12 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Oh now I remember you
+[Sat Sep 21 16:58:15 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: RP Quests*
+[Sat Sep 21 16:58:26 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: and I loved making weaponry
+[Sat Sep 21 16:58:31 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: And bases, all of that
+[Sat Sep 21 16:58:35 2013]  say: ^0Darkquake is back!: oh you did quests that's cool! Haha thought you'd remember ^^
+[Sat Sep 21 16:58:43 2013]  say: ^0Darkquake is back!: yeah I loved making building scripts too
+[Sat Sep 21 16:58:45 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Yeah
+[Sat Sep 21 16:58:48 2013]  say: ^0Darkquake is back!: I've still got em
+[Sat Sep 21 16:59:00 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Was making a Dathomirian Clone Wars quest on Quantum MakerMod... before it shut down :/
+[Sat Sep 21 16:59:04 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Was a nice server
+[Sat Sep 21 16:59:25 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: Now idk how to reconnect with all my old MM friends
+[Sat Sep 21 16:59:31 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: They all went there and it's gone now
+[Sat Sep 21 16:59:34 2013]  say: ^0Darkquake is back!: yeah same problem
+[Sat Sep 21 16:59:40 2013]  say: ^0Darkquake is back!: well if you noticed when you joined
+[Sat Sep 21 16:59:44 2013]  say: ^0Darkquake is back!: I left my gmail address :)
+[Sat Sep 21 16:59:50 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: lul i forgot it
+[Sat Sep 21 16:59:54 2013]  say: ^0Darkquake is back!: so old friends can get in touch
+[Sat Sep 21 17:00:01 2013]  say: ^0Darkquake is back!: yeah that's why I need my website back up :p
+[Sat Sep 21 17:00:09 2013]  say: ^0Darkquake is back!: everything in one place there
+[Sat Sep 21 17:00:10 2013]  say: ^2Ð^0ev^2ì^0an^2ç^0e: :D
+[Sat Sep 21 17:00:13 2013]  say: maxim: how you do circle magick??????
+[Sat Sep 21 17:00:44 2013]  say: maxim: hey?
+[Sat Sep 21 17:00:48 2013]  say: maxim: how?
+[Sat Sep 21 17:00:52 2013]  print "^2Ð^0ev^2ì^0an^2ç^0e^7 @@@PLRENAME ^5§^0had^50^0wTroo^5P^0e^5®
+"[Sat Sep 21 17:00:53 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: :P
+[Sat Sep 21 17:00:54 2013]  say: maxim: yes
+[Sat Sep 21 17:00:59 2013]  say: maxim: ysw
+[Sat Sep 21 17:01:01 2013]  say: maxim: yes
+[Sat Sep 21 17:01:03 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: It's only appropriate since I'm making a skin of one
+[Sat Sep 21 17:01:04 2013]  say: maxim: yes
+[Sat Sep 21 17:01:09 2013]  say: maxim: how
+[Sat Sep 21 17:01:11 2013]  say: maxim: ?
+[Sat Sep 21 17:01:23 2013]  say: ^0Darkquake is back!: cosy in my box ^^
+[Sat Sep 21 17:01:28 2013]  say: ^0Darkquake is back!: early script haha
+[Sat Sep 21 17:01:30 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: XD
+[Sat Sep 21 17:01:36 2013]  say: maxim: how
+[Sat Sep 21 17:01:40 2013]  say: maxim: ?
+[Sat Sep 21 17:01:43 2013]  say: ^0Darkquake is back!: sry maxim how do you do what?
+[Sat Sep 21 17:01:51 2013]  tell: ^5§^0had^50^0wTroo^5P^0e^5® to ^0Darkquake is back!: Lol @ maxim he's so oblivious
+[Sat Sep 21 17:02:09 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: NOO
+[Sat Sep 21 17:02:26 2013]  Kill: 1022 1 0: <world> killed maxim by MOD_UNKNOWN
+[Sat Sep 21 17:02:29 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: Force choked
+[Sat Sep 21 17:02:39 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: As you can see, I script too.
+[Sat Sep 21 17:03:11 2013]  say: maxim: how
+[Sat Sep 21 17:03:12 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: ITS A BOMB!
+[Sat Sep 21 17:03:15 2013]  say: maxim: hoooowww?
+[Sat Sep 21 17:03:17 2013]  say: ^0Darkquake is back!: ^^
+[Sat Sep 21 17:03:46 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: Damn, making a shadowtrooper is HARD
+[Sat Sep 21 17:04:05 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: Skinning all of the blue onto him will be bitchier than getting the right dark grey texture
+[Sat Sep 21 17:04:17 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: And then the glows..
+[Sat Sep 21 17:04:21 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: + the shining...
+[Sat Sep 21 17:04:23 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: oh boy
+[Sat Sep 21 17:04:25 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: x.x
+[Sat Sep 21 17:04:35 2013]  say: ^0Darkquake is back!: wow :p well gl with it all
+[Sat Sep 21 17:04:43 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: Haha, thanks
+[Sat Sep 21 17:04:59 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: Would you like a link to the section I'm posting my stuff in?
+[Sat Sep 21 17:05:05 2013]  say: maxim: 1
+[Sat Sep 21 17:05:15 2013]  say: ^0Darkquake is back!: yeah sure
+[Sat Sep 21 17:05:18 2013]  say: maxim: 1
+[Sat Sep 21 17:05:29 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: Alright, page 1 shows all my development for the most part
+[Sat Sep 21 17:05:30 2013]  tell: ^5§^0had^50^0wTroo^5P^0e^5® to ^5§^0had^50^0wTroo^5P^0e^5®: ^7UU ^0- ^7JA ^5Minimized
+[Sat Sep 21 17:05:30 2013]  Kill: 3 3 39: ^0Darkquake is back! killed ^0Darkquake is back! by MOD_SUICIDE
+[Sat Sep 21 17:05:40 2013]  say: maxim: comand!
+[Sat Sep 21 17:05:54 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: ^2http://jkhub.org/topic/2653-tfu-shadow-trooper-from-xbox-360/
+[Sat Sep 21 17:05:54 2013]  say: maxim: look
+[Sat Sep 21 17:06:22 2013]  say: maxim: how comand do magick circle?
+[Sat Sep 21 17:06:46 2013]  tell: ^5§^0had^50^0wTroo^5P^0e^5® to ^5§^0had^50^0wTroo^5P^0e^5®: ^7UU ^0- ^7JA ^5Restored
+[Sat Sep 21 17:06:53 2013]  say: ^0Darkquake is back!: wow looking good
+[Sat Sep 21 17:06:58 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: Haha, thx
+[Sat Sep 21 17:07:14 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: The first skin looked like a partial Sand Trooper
+[Sat Sep 21 17:07:24 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: The next looked like a Death Trooper, than a Dark Trooper
+[Sat Sep 21 17:07:31 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: Than a mix of all
+[Sat Sep 21 17:07:36 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: And lastly, the right shadowtrooper skin
+[Sat Sep 21 17:08:10 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: Barricade24 of all people--really great skinner--now wnats to compete with me
+[Sat Sep 21 17:08:18 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: So I'd better do a topnotch job
+[Sat Sep 21 17:08:25 2013]  say: maxim: why im dont say cheats????
+[Sat Sep 21 17:08:49 2013]  Kill: 1022 1 0: <world> killed maxim by MOD_UNKNOWN
+[Sat Sep 21 17:09:16 2013]  say: ^0Darkquake is back!: Yeah that's impressive, gl :D I could never get into modelling cause it's so time-intensive lol, but if you're good at it and enjoy it then yeah you 
+[Sat Sep 21 17:09:21 2013]  Kill: 0 3 0: ^5^4Anakin^9Skywalker killed ^0Darkquake is back! by MOD_UNKNOWN
+[Sat Sep 21 17:09:28 2013]  say: ^5^4Anakin^9Skywalker: soori
+[Sat Sep 21 17:09:31 2013]  say: ^0Darkquake is back!: then that's great :D
+[Sat Sep 21 17:09:36 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: well I HAVE modeled before, yes
+[Sat Sep 21 17:09:40 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: But I'm just reskinning right there
+[Sat Sep 21 17:09:49 2013]  say: maxim: how???
+[Sat Sep 21 17:09:53 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: I never figured out how to get it into JKA
+[Sat Sep 21 17:09:55 2013]  say: maxim: comand please
+[Sat Sep 21 17:09:57 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: bleh
+[Sat Sep 21 17:09:59 2013]  say: ^0Darkquake is back!: right well modelling knowledge would come in handy
+[Sat Sep 21 17:10:03 2013]  say: ^5^4Anakin^9Skywalker: skript
+[Sat Sep 21 17:10:06 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: Yeah
+[Sat Sep 21 17:10:08 2013]  say: ^0Darkquake is back!: haha you probably will one day
+[Sat Sep 21 17:10:10 2013]  say: maxim: mod???
+[Sat Sep 21 17:10:15 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: Maybe if I...
+[Sat Sep 21 17:10:15 2013]  say: ^5^4Anakin^9Skywalker: skrept
+[Sat Sep 21 17:10:21 2013]  say: ^0Darkquake is back!: skrept :p
+[Sat Sep 21 17:10:21 2013]  say: ^5^4Anakin^9Skywalker: ^0Battle ^4Sorcerer ^5script by ^0D^3arth ^0F^3urious
+[Sat Sep 21 17:10:30 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: Somehow added HapSlash's Sandtrooper backpack to DT85's stormtrooper for a sand trooper
+[Sat Sep 21 17:10:36 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: ...
+[Sat Sep 21 17:10:38 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: hmm
+[Sat Sep 21 17:10:44 2013]  Kill: 1 3 27: maxim killed ^0Darkquake is back! by MOD_DET_PACK_SPLASH
+[Sat Sep 21 17:10:44 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: Oh wel, should focus on this projest
+[Sat Sep 21 17:10:47 2013]  say: ^5§^0had^50^0wTroo^5P^0e^5®: project*
+[Sat Sep 21 17:10:49 2013]  say: maxim: sorry
+[Sat Sep 21 17:10:52 2013]  say: maxim: sorry
+[Sat Sep 21 17:10:54 2013]  say: maxim: sorry
+[Sat Sep 21 17:10:54 2013]  say: maxim: sorry
+[Sat Sep 21 17:11:03 2013]  print "^5§^0had^50^0wTroo^5P^0e^5®^7 @@@PLRENAME ^5§^0had^50^0w
+"[Sat Sep 21 17:11:06 2013]  say: ^5§^0had^50^0w: :P
+[Sat Sep 21 17:11:16 2013]  say: maxim: flyy
+[Sat Sep 21 17:11:30 2013]  say: ^0Darkquake is back!: ^6AIR-TAXI SCRIPT ^5by ^1µ^2/^0Ðàrk^1Qµàkè^2/^1S
+[Sat Sep 21 17:11:34 2013]  say: ^5§^0had^50^0w: WHAT
+[Sat Sep 21 17:11:36 2013]  say: ^5§^0had^50^0w: O.O
+[Sat Sep 21 17:11:38 2013]  say: ^0Darkquake is back!: ^5ACTIVATING SHIELD DOORS
+[Sat Sep 21 17:11:49 2013]  say: ^5§^0had^50^0w: what an
+[Sat Sep 21 17:11:52 2013]  Kill: 0 3 36: ^5^4Anakin^9Skywalker killed ^0Darkquake is back! by MOD_CRUSH
+[Sat Sep 21 17:11:52 2013]  say: ^5§^0had^50^0w: odd vehicle xD
+[Sat Sep 21 17:12:01 2013]  say: ^0Darkquake is back!: it's an airtaxi :p
+[Sat Sep 21 17:12:04 2013]  Kill: 1022 1 0: <world> killed maxim by MOD_UNKNOWN
+[Sat Sep 21 17:12:05 2013]  say: ^0Darkquake is back!: from episode 1
+[Sat Sep 21 17:12:18 2013]  say: ^5§^0had^50^0w: Ohh yes
+[Sat Sep 21 17:12:22 2013]  Kill: 0 3 36: ^5^4Anakin^9Skywalker killed ^0Darkquake is back! by MOD_CRUSH
+[Sat Sep 21 17:12:28 2013]  Item: 4 weapon_det_pack
+[Sat Sep 21 17:12:43 2013]  say: ^5§^0had^50^0w: XD
+[Sat Sep 21 17:12:45 2013]  say: ^5§^0had^50^0w: Awzum
+[Sat Sep 21 17:13:02 2013]  say: ^0Darkquake is back!: haha move script is bugged :p
+[Sat Sep 21 17:13:06 2013]  say: ^0Darkquake is back!: oh well
+[Sat Sep 21 17:13:06 2013]  say: ^5§^0had^50^0w: xD
+[Sat Sep 21 17:13:20 2013]  say: ^0Darkquake is back!: any of you played with the sample objects much?
+[Sat Sep 21 17:13:36 2013]  say: ^5§^0had^50^0w: Like what exactly? :P
+[Sat Sep 21 17:13:40 2013]  Kill: 1022 3 36: <world> killed ^0Darkquake is back! by MOD_CRUSH
+[Sat Sep 21 17:13:54 2013]  say: ^0Darkquake is back!: like that
+[Sat Sep 21 17:14:01 2013]  say: ^5^4Anakin^9Skywalker: Xd
+[Sat Sep 21 17:14:05 2013]  say: ^5§^0had^50^0w: Whoa!
+[Sat Sep 21 17:14:12 2013]  say: ^5§^0had^50^0w: Bad ass!
+[Sat Sep 21 17:14:14 2013]  say: maxim: try /npc spawn????
+[Sat Sep 21 17:14:19 2013]  say: ^5^4Anakin^9Skywalker: yes
+[Sat Sep 21 17:14:21 2013]  say: ^0Darkquake is back!: these obs have been in Makermod forever
+[Sat Sep 21 17:14:26 2013]  say: ^5§^0had^50^0w: O.o
+[Sat Sep 21 17:14:27 2013]  say: ^0Darkquake is back!: but hardly anyone knows about them :p
+[Sat Sep 21 17:14:31 2013]  say: ^5^4Anakin^9Skywalker: /nps spawn kyle 
+[Sat Sep 21 17:14:32 2013]  say: ^0Darkquake is back!: check this one out
+[Sat Sep 21 17:14:44 2013]  Kill: 1022 1 0: <world> killed maxim by MOD_UNKNOWN
+[Sat Sep 21 17:14:50 2013]  say: ^5^4Anakin^9Skywalker: /npc spawn desann
+[Sat Sep 21 17:14:58 2013]  say: ^5§^0had^50^0w: Now, this I remember
+[Sat Sep 21 17:15:01 2013]  say: ^5§^0had^50^0w: :D
+[Sat Sep 21 17:15:03 2013]  say: ^0Darkquake is back!: :D
+[Sat Sep 21 17:15:22 2013]  say: ^5§^0had^50^0w: fking epic
+[Sat Sep 21 17:15:37 2013]  say: ^5§^0had^50^0w: I wish I knew how to activate all of these
+[Sat Sep 21 17:15:47 2013]  say: ^0Darkquake is back!: it's /mloadobs (name) sample
+[Sat Sep 21 17:15:54 2013]  say: ^5§^0had^50^0w: o.o
+[Sat Sep 21 17:15:58 2013]  say: ^5§^0had^50^0w: Like
+[Sat Sep 21 17:16:00 2013]  say: ^5§^0had^50^0w: our name?
+[Sat Sep 21 17:16:01 2013]  say: ^5§^0had^50^0w: or
+[Sat Sep 21 17:16:02 2013]  say: ^0Darkquake is back!: where (name) is exileship, furysbase etc
+[Sat Sep 21 17:16:14 2013]  say: ^0Darkquake is back!: it's in the Makermod server side readme
+[Sat Sep 21 17:16:16 2013]  say: ^5§^0had^50^0w: Is there a list of sample obs?
+[Sat Sep 21 17:16:20 2013]  say: ^5§^0had^50^0w: Oh...
+[Sat Sep 21 17:16:54 2013]  tell: ^5§^0had^50^0w to ^5§^0had^50^0w: ^7UU ^0- ^7JA ^5Minimized
+[Sat Sep 21 17:17:06 2013]  say: ^0Darkquake is back!: Hey remember the  Hyperspace coordinates  thing?
+[Sat Sep 21 17:17:15 2013]  say: ^0Darkquake is back!: you used mmoveall with massive numbers
+[Sat Sep 21 17:17:18 2013]  tell: ^5§^0had^50^0w to ^5§^0had^50^0w: ^7UU ^0- ^7JA ^5Restored
+[Sat Sep 21 17:17:25 2013]  say: ^5§^0had^50^0w: Uh..
+[Sat Sep 21 17:17:26 2013]  say: maxim: fly
+[Sat Sep 21 17:17:27 2013]  say: ^0Darkquake is back!: and your objects appeared in a certain location :p
+[Sat Sep 21 17:17:34 2013]  say: ^0Darkquake is back!: bit of maths involved
+[Sat Sep 21 17:17:37 2013]  say: ^5§^0had^50^0w: Maybe
+[Sat Sep 21 17:17:39 2013]  say: ^0Darkquake is back!: but it was so cool
+[Sat Sep 21 17:17:49 2013]  say: ^0Darkquake is back!: it was like mmoveall 49405 4303004 20393
+[Sat Sep 21 17:17:57 2013]  say: ^0Darkquake is back!: just making up numbers but it's that sort of idea :p
+[Sat Sep 21 17:18:07 2013]  say: ^0Darkquake is back!: and after like 10 seconds you appeared in a different area
+[Sat Sep 21 17:18:21 2013]  Kill: 1022 1 0: <world> killed maxim by MOD_UNKNOWN
+[Sat Sep 21 17:18:22 2013]  Item: 4 weapon_det_pack
+[Sat Sep 21 17:18:32 2013]  say: ^0Darkquake is back!: for example if you did mmoveall 0 0 10000
+[Sat Sep 21 17:18:38 2013]  say: ^0Darkquake is back!: you'd be 10000 units higher :)
+[Sat Sep 21 17:18:41 2013]  say: ^5^4Anakin^9Skywalker: bb
+[Sat Sep 21 17:18:41 2013]  say: ^5§^0had^50^0w: o.o
+[Sat Sep 21 17:18:47 2013]  ClientDisconnect: 0
+[Sat Sep 21 17:18:48 2013]  say: ^5§^0had^50^0w: bb
+[Sat Sep 21 17:19:08 2013]  say: ^0Darkquake is back!: woooo hyperspace
+[Sat Sep 21 17:19:16 2013]  say: ^0Darkquake is back!: I'm going 10000 units higher :p
+[Sat Sep 21 17:19:21 2013]  say: ^5§^0had^50^0w: O.O
+[Sat Sep 21 17:19:25 2013]  ClientConnect: 0
+[Sat Sep 21 17:19:25 2013]  mlog:Player ^5^4Anakin^9Skywalker, connected. With IP - 178.123.214.251:29070 
+[Sat Sep 21 17:19:29 2013]  say: ^0Darkquake is back!: so yeah that sort of stuff
+[Sat Sep 21 17:19:37 2013]  say: ^0Darkquake is back!: I'm on top of the map atm
+[Sat Sep 21 17:19:39 2013]  say: ^0Darkquake is back!: in the void
+[Sat Sep 21 17:19:42 2013]  ClientBegin: 0
+[Sat Sep 21 17:19:50 2013]  say: ^0Darkquake is back!: but if i do -10000
+[Sat Sep 21 17:19:50 2013]  say: ^5^4Anakin^9Skywalker: hi xD
+[Sat Sep 21 17:19:57 2013]  say: ^0Darkquake is back!: I'm back at the start now :)
+[Sat Sep 21 17:19:58 2013]  say: ^0Darkquake is back!: see?
+[Sat Sep 21 17:20:05 2013]  Kill: 0 3 3: ^5^4Anakin^9Skywalker killed ^0Darkquake is back! by MOD_SABER
+[Sat Sep 21 17:20:09 2013]  say: ^0Darkquake is back!: hop on my hyperspace ship :p
+[Sat Sep 21 17:20:11 2013]  Item: 0 weapon_melee
+[Sat Sep 21 17:20:11 2013]  say: ^5^4Anakin^9Skywalker: ^0Battle ^4Sorcerer ^5script by ^0D^3arth ^0F^3urious
+[Sat Sep 21 17:20:44 2013]  say: ^0Darkquake is back!: hyperspace anyone?
+[Sat Sep 21 17:21:12 2013]  say: ^5^4Anakin^9Skywalker: xD
+[Sat Sep 21 17:21:22 2013]  say: ^0Darkquake is back!: ^^
+[Sat Sep 21 17:21:27 2013]  say: ^0Darkquake is back!: flew off my ship haha
+[Sat Sep 21 17:21:31 2013]  say: ^0Darkquake is back!: cause it's gotta be enclosed
+[Sat Sep 21 17:21:47 2013]  say: ^0Darkquake is back!: I'll use my box
+[Sat Sep 21 17:22:00 2013]  Kill: 1022 1 0: <world> killed maxim by MOD_UNKNOWN
+[Sat Sep 21 17:22:22 2013]  say: ^5§^0had^50^0w: wat
+[Sat Sep 21 17:22:24 2013]  say: ^0Darkquake is back!: nup :p
+[Sat Sep 21 17:22:35 2013]  say: ^5§^0had^50^0w: XD
+[Sat Sep 21 17:22:46 2013]  say: ^5^4Anakin^9Skywalker: ahahahha
+[Sat Sep 21 17:22:47 2013]  say: ^0Darkquake is back!: oh cause it was all catwalks I think
+[Sat Sep 21 17:22:48 2013]  say: ^5§^0had^50^0w: You got a steam?
+[Sat Sep 21 17:22:51 2013]  say: ^0Darkquake is back!: I saw a trailer
+[Sat Sep 21 17:23:04 2013]  say: ^0Darkquake is back!: that the MM creator was working on making obs solid when they were rotated
+[Sat Sep 21 17:23:12 2013]  say: ^5§^0had^50^0w: :D
+[Sat Sep 21 17:23:12 2013]  say: ^0Darkquake is back!: yeah I have Steam
+[Sat Sep 21 17:23:14 2013]  say: ^5§^0had^50^0w: And scaled
+[Sat Sep 21 17:23:16 2013]  say: ^0Darkquake is back!: it's darkness_danielc
+[Sat Sep 21 17:23:29 2013]  say: ^5§^0had^50^0w: Im gonna go skin, but I will add you. Take care!
+[Sat Sep 21 17:23:30 2013]  ClientDisconnect: 4
+[Sat Sep 21 17:23:36 2013]  say: ^0Darkquake is back!: cool, cya l8r!
+[Sat Sep 21 17:23:46 2013]  say: ^0Darkquake is back!: I'm gonna go into hyperspace :D
+[Sat Sep 21 17:23:50 2013]  say: ^0Darkquake is back!: just need some solid obs
+[Sat Sep 21 17:24:18 2013]  say: ^0Darkquake is back!: this'll do
+[Sat Sep 21 17:28:52 2013]  ClientDisconnect: 0
+[Sat Sep 21 17:30:31 2013]  Item: 1 ammo_all
+[Sat Sep 21 17:30:35 2013]  Item: 1 ammo_all
+[Sat Sep 21 17:30:43 2013]  Item: 1 ammo_all
+[Sat Sep 21 17:30:46 2013]  Item: 1 ammo_all
+[Sat Sep 21 17:33:44 2013]  say: ^0Darkquake is back!: well great to see some life on here again, I'll be back some time :)
+[Sat Sep 21 17:33:58 2013]  say: ^0Darkquake is back!: you should learn some Makermod things, just open the console and type /minfo
+[Sat Sep 21 17:34:03 2013]  say: ^0Darkquake is back!: have a good read :)
+[Sat Sep 21 17:34:53 2013]  ClientDisconnect: 3
+[Sat Sep 21 17:35:57 2013]  ClientDisconnect: 1
+[Sat Sep 21 19:01:03 2013]  ClientConnect: 0
+[Sat Sep 21 19:01:03 2013]  mlog:Player ^1K^0iros^1[^0ILLUMINAT^1i], connected. With IP - 178.206.57.30:1024 
+[Sat Sep 21 19:01:26 2013]  ClientBegin: 0
+[Sat Sep 21 19:02:01 2013]  tell: ^1Ki^3ros to ^1Ki^3ros: ^3UU ^2- ^7JA ^2Minimized
+[Sat Sep 21 19:03:07 2013]  tell: ^1Ki^3ros to ^1Ki^3ros: ^3UU ^2- ^7JA ^2Restored
+[Sat Sep 21 19:03:59 2013]  ClientDisconnect: 0

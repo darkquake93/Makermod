@@ -1,0 +1,773 @@
+[Sat Oct 12 09:54:54 2013]  ------------------------------------------------------------
+[Sat Oct 12 09:54:54 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Oct 12 09:54:55 2013]  ClientConnect: 0
+[Sat Oct 12 09:55:20 2013]  ClientBegin: 0
+[Sat Oct 12 09:56:36 2013]  ClientDisconnect: 0
+[Sat Oct 12 09:56:36 2013]  ClientDisconnect: 0
+[Sat Oct 12 09:56:36 2013]  ClientConnect: 0
+[Sat Oct 12 09:56:36 2013]  mlog:Player ^1Z^0eratul, connected. With IP - 109.47.0.26:-8493 
+[Sat Oct 12 09:56:46 2013]  ClientBegin: 0
+[Sat Oct 12 10:06:54 2013]  ClientConnect: 1
+[Sat Oct 12 10:06:54 2013]  mlog:Player maxim, connected. With IP - 46.39.244.66:-2342 
+[Sat Oct 12 10:07:19 2013]  ClientBegin: 1
+[Sat Oct 12 10:07:52 2013]  say: maxim: хай
+[Sat Oct 12 10:08:03 2013]  say: maxim: hi
+[Sat Oct 12 10:08:59 2013]  Kill: 1 0 3: maxim killed ^1Z^0eratul by MOD_SABER
+[Sat Oct 12 10:11:55 2013]  Kill: 1 0 31: maxim killed ^1Z^0eratul by MOD_FORCE_DARK
+[Sat Oct 12 10:12:26 2013]  ClientDisconnect: 1
+[Sat Oct 12 10:20:31 2013]  ClientDisconnect: 0
+[Sat Oct 12 10:35:45 2013]  ClientConnect: 0
+[Sat Oct 12 10:35:45 2013]  mlog:Player ^2Di^3Na^9Mi^4T, connected. With IP - 178.123.140.135:29070 
+[Sat Oct 12 10:36:52 2013]  ClientBegin: 0
+[Sat Oct 12 10:37:03 2013]  ClientConnect: 1
+[Sat Oct 12 10:37:03 2013]  mlog:Player Padawan, connected. With IP - 178.123.228.39:25236 
+[Sat Oct 12 10:37:26 2013]  ClientBegin: 1
+[Sat Oct 12 10:38:16 2013]  Kill: 0 1 3: ^3Di^2Na^9Mi^4T killed Padawan by MOD_SABER
+[Sat Oct 12 10:41:48 2013]  ClientDisconnect: 1
+[Sat Oct 12 10:44:39 2013]  ClientDisconnect: 0
+[Sat Oct 12 11:22:10 2013]  ClientConnect: 0
+[Sat Oct 12 11:22:10 2013]  mlog:Player ^1PARA^5SHUT, connected. With IP - 188.92.0.200:29070 
+[Sat Oct 12 11:22:37 2013]  ClientBegin: 0
+[Sat Oct 12 11:23:02 2013]  ClientDisconnect: 0
+[Sat Oct 12 11:24:21 2013]  ClientConnect: 0
+[Sat Oct 12 11:24:21 2013]  mlog:Player Padawan, connected. With IP - 188.92.0.200:29070 
+[Sat Oct 12 11:25:12 2013]  ClientBegin: 0
+[Sat Oct 12 11:25:49 2013]  say: -=^1{^0W:K^1}^7.^1PАRA^0SHUT^7=-: ^1particle cannon
+[Sat Oct 12 11:27:39 2013]  ClientDisconnect: 0
+[Sat Oct 12 11:54:52 2013]  Exit: Timelimit hit.
+[Sat Oct 12 12:09:36 2013]  ClientConnect: 0
+[Sat Oct 12 12:09:36 2013]  mlog:Player Padawan, connected. With IP - 188.92.0.200:29070 
+[Sat Oct 12 12:10:11 2013]  ClientBegin: 0
+[Sat Oct 12 12:10:15 2013]  ShutdownGame:
+[Sat Oct 12 12:10:15 2013]  ------------------------------------------------------------
+[Sat Oct 12 12:10:15 2013]  ------------------------------------------------------------
+[Sat Oct 12 12:10:15 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Oct 12 12:10:16 2013]  ClientConnect: 0
+[Sat Oct 12 12:10:50 2013]  ClientBegin: 0
+[Sat Oct 12 12:11:46 2013]  ClientDisconnect: 0
+[Sat Oct 12 12:12:54 2013]  ClientConnect: 0
+[Sat Oct 12 12:12:54 2013]  mlog:Player -=^1{^0W:K^1}^7.^1PАRA^0SHUT^7=-, connected. With IP - 188.92.0.200:29070 
+[Sat Oct 12 12:12:59 2013]  ClientConnect: 1
+[Sat Oct 12 12:12:59 2013]  mlog:Player Padawan, connected. With IP - 46.174.248.17:29070 
+[Sat Oct 12 12:13:02 2013]  ClientBegin: 0
+[Sat Oct 12 12:13:12 2013]  ClientBegin: 1
+[Sat Oct 12 12:13:38 2013]  ClientConnect: 2
+[Sat Oct 12 12:13:38 2013]  mlog:Player maxim, connected. With IP - 46.39.244.66:-14603 
+[Sat Oct 12 12:13:48 2013]  ClientBegin: 2
+[Sat Oct 12 12:14:18 2013]  say: maxim: cjhm
+[Sat Oct 12 12:14:23 2013]  say: maxim: сорь
+[Sat Oct 12 12:14:53 2013]  say: maxim: дарк сайд
+[Sat Oct 12 12:14:59 2013]  say: maxim: =)
+[Sat Oct 12 12:15:04 2013]  ClientConnect: 3
+[Sat Oct 12 12:15:04 2013]  mlog:Player ^1Sweet.Tooth, connected. With IP - 46.242.119.238:29070 
+[Sat Oct 12 12:15:07 2013]  say: maxim: опа
+[Sat Oct 12 12:15:11 2013]  say: maxim: вот и мой друг
+[Sat Oct 12 12:15:20 2013]  Kill: 2 1 31: maxim killed Bens_192 by MOD_FORCE_DARK
+[Sat Oct 12 12:15:44 2013]  ClientBegin: 3
+[Sat Oct 12 12:15:51 2013]  say: Padawan: Хс
+[Sat Oct 12 12:15:53 2013]  say: Padawan: Хм
+[Sat Oct 12 12:15:57 2013]  say: maxim: привет
+[Sat Oct 12 12:16:00 2013]  print "Padawan^7 @@@PLRENAME ^1Sweet.Tooth
+"[Sat Oct 12 12:16:02 2013]  say: ^1Sweet.Tooth: Так
+[Sat Oct 12 12:16:05 2013]  say: maxim: я тут
+[Sat Oct 12 12:16:07 2013]  say: ^1Sweet.Tooth: Послушай.
+[Sat Oct 12 12:16:10 2013]  say: maxim: /god сразу
+[Sat Oct 12 12:16:12 2013]  say: ^1Sweet.Tooth: Я не играл никогда 
+[Sat Oct 12 12:16:17 2013]  say: maxim: /god делай
+[Sat Oct 12 12:16:19 2013]  say: ^1Sweet.Tooth: В макер
+[Sat Oct 12 12:16:22 2013]  say: ^1Sweet.Tooth: Как тут строить?
+[Sat Oct 12 12:16:26 2013]  say: maxim: в консоле
+[Sat Oct 12 12:16:34 2013]  say: maxim: сначало /god
+[Sat Oct 12 12:16:34 2013]  Kill: 1022 1 39: <world> killed Bens_192 by MOD_SUICIDE
+[Sat Oct 12 12:16:39 2013]  say: ^1Sweet.Tooth: Уже
+[Sat Oct 12 12:16:44 2013]  say: maxim: /mempower
+[Sat Oct 12 12:16:55 2013]  say: ^1Sweet.Tooth: О
+[Sat Oct 12 12:16:58 2013]  say: ^1Sweet.Tooth: А что дальше
+[Sat Oct 12 12:17:06 2013]  say: maxim: /give all
+[Sat Oct 12 12:17:21 2013]  say: ^1Sweet.Tooth: Что это мне дало?
+[Sat Oct 12 12:17:24 2013]  say: maxim: tq
+[Sat Oct 12 12:17:42 2013]  say: ^1Sweet.Tooth: А как строить то?
+[Sat Oct 12 12:17:48 2013]  say: maxim: щя
+[Sat Oct 12 12:17:54 2013]  say: maxim: раскажу все секркты
+[Sat Oct 12 12:17:58 2013]  say: maxim: .
+[Sat Oct 12 12:18:07 2013]  say: maxim: води я говорю ок?
+[Sat Oct 12 12:18:12 2013]  say: ^1Sweet.Tooth: +
+[Sat Oct 12 12:18:21 2013]  say: maxim: <->
+[Sat Oct 12 12:18:26 2013]  say: maxim: не
+[Sat Oct 12 12:18:29 2013]  say: maxim: ненадо
+[Sat Oct 12 12:18:33 2013]  say: maxim: я просто
+[Sat Oct 12 12:18:43 2013]  say: maxim: щя все с етого момета води
+[Sat Oct 12 12:19:17 2013]  say: maxim: сначало /mplace factory/catw2_b потом мышкой вверх и /mdrop
+[Sat Oct 12 12:19:20 2013]  Kill: 0 1 3: -=^1{^0W:K^1}^7.^1PАRA^0SHUT^7=- killed Bens_192 by MOD_SABER
+[Sat Oct 12 12:19:49 2013]  say: ^1Sweet.Tooth: xd
+[Sat Oct 12 12:20:01 2013]  say: maxim: или сам настрой мышкой как хош
+[Sat Oct 12 12:20:19 2013]  Kill: 1022 1 39: <world> killed Bens_192 by MOD_SUICIDE
+[Sat Oct 12 12:20:19 2013]  say: maxim: зах
+[Sat Oct 12 12:20:22 2013]  say: maxim: хахаха
+[Sat Oct 12 12:20:27 2013]  say: ^1Sweet.Tooth: Так а что дальше то?
+[Sat Oct 12 12:20:42 2013]  say: maxim: еще раз то самое введи ток мышкой сам настрой
+[Sat Oct 12 12:21:04 2013]  say: maxim: следущий урок
+[Sat Oct 12 12:21:23 2013]  say: -=^1{^0W:K^1}^7.^1PАRA^0SHUT^7=-: /mtele
+[Sat Oct 12 12:21:25 2013]  say: maxim: веди /mrotate 90 0 0 если хочешь стенкой
+[Sat Oct 12 12:21:46 2013]  say: maxim: смари
+[Sat Oct 12 12:22:05 2013]  say: ^1Sweet.Tooth: xD
+[Sat Oct 12 12:22:06 2013]  say: maxim: токо надо до /mdrop ето водить и потом ставить
+[Sat Oct 12 12:22:28 2013]  say: maxim: дав еще раз плиту потом стенкой и ставить
+[Sat Oct 12 12:23:42 2013]  say: ^1Sweet.Tooth: А эта хрень пули не пробиваемая?
+[Sat Oct 12 12:23:42 2013]  say: maxim: нет надо сначало стенкой потом токо ставить /mdrop
+[Sat Oct 12 12:23:48 2013]  say: ^1Sweet.Tooth: А
+[Sat Oct 12 12:23:51 2013]  say: ^1Sweet.Tooth: Понял
+[Sat Oct 12 12:23:53 2013]  say: maxim: ytf
+[Sat Oct 12 12:23:56 2013]  say: maxim: неа
+[Sat Oct 12 12:24:10 2013]  say: maxim: во так лучше
+[Sat Oct 12 12:24:35 2013]  say: maxim: иногда на время через стену мозно проходить потом норм
+[Sat Oct 12 12:24:47 2013]  say: maxim: дальше
+[Sat Oct 12 12:24:58 2013]  say: maxim: покачто токо плиту зделай и все
+[Sat Oct 12 12:25:05 2013]  say: maxim: дальше скажу
+[Sat Oct 12 12:25:08 2013]  say: maxim: .
+[Sat Oct 12 12:25:37 2013]  say: maxim: веди /mplatform 100 100 
+[Sat Oct 12 12:25:58 2013]  say: maxim: встань на плиту
+[Sat Oct 12 12:26:06 2013]  say: ^1Sweet.Tooth: xD
+[Sat Oct 12 12:26:07 2013]  say: maxim: уйди
+[Sat Oct 12 12:26:14 2013]  say: maxim: можно выше
+[Sat Oct 12 12:26:27 2013]  say: ^1Sweet.Tooth: Ай блятЬ!
+[Sat Oct 12 12:26:36 2013]  say: ^1Sweet.Tooth: XD
+[Sat Oct 12 12:26:40 2013]  say: maxim: место 100 100 веди 500 100
+[Sat Oct 12 12:26:42 2013]  Kill: 3 3 39: ^1Sweet.Tooth killed ^1Sweet.Tooth by MOD_SUICIDE
+[Sat Oct 12 12:26:48 2013]  say: ^1Sweet.Tooth: Сек
+[Sat Oct 12 12:27:06 2013]  say: maxim: lt,bk
+[Sat Oct 12 12:27:09 2013]  say: maxim: дебил
+[Sat Oct 12 12:27:12 2013]  say: ^1Sweet.Tooth: xD
+[Sat Oct 12 12:27:14 2013]  say: maxim: нахер 1000 1000
+[Sat Oct 12 12:27:38 2013]  say: maxim: /mkill введи
+[Sat Oct 12 12:27:47 2013]  Kill: 1022 1 36: <world> killed Bens_192 by MOD_CRUSH
+[Sat Oct 12 12:27:47 2013]  say: ^1Sweet.Tooth: Ну
+[Sat Oct 12 12:27:53 2013]  ClientDisconnect: 0
+[Sat Oct 12 12:28:02 2013]  say: ^1Sweet.Tooth: Ты де?
+[Sat Oct 12 12:28:16 2013]  ClientDisconnect: 1
+[Sat Oct 12 12:28:27 2013]  say: maxim: там же где и плиты
+[Sat Oct 12 12:28:56 2013]  say: ^1Sweet.Tooth: Как сделать все оружия?
+[Sat Oct 12 12:28:59 2013]  say: maxim: веди /noclip и летай ищи сквозь стены тоже можно
+[Sat Oct 12 12:30:10 2013]  say: ^1Sweet.Tooth: Ну и де ты?
+[Sat Oct 12 12:30:20 2013]  say: maxim: хорошо сам найду
+[Sat Oct 12 12:30:26 2013]  say: ^1Sweet.Tooth: Я около мотиков буду
+[Sat Oct 12 12:31:22 2013]  say: maxim: gkbne ddtlb
+[Sat Oct 12 12:31:27 2013]  say: maxim: плиту веди
+[Sat Oct 12 12:31:31 2013]  say: maxim: поставь
+[Sat Oct 12 12:31:48 2013]  say: maxim: и введи /mplatform 300 100
+[Sat Oct 12 12:31:56 2013]  say: maxim: cktpm cerf
+[Sat Oct 12 12:32:03 2013]  say: maxim: слезь сука
+[Sat Oct 12 12:32:05 2013]  say: maxim: ааа
+[Sat Oct 12 12:32:09 2013]  say: maxim: запорол
+[Sat Oct 12 12:32:11 2013]  say: maxim: все
+[Sat Oct 12 12:32:34 2013]  say: maxim: ладно суть понял?
+[Sat Oct 12 12:32:37 2013]  say: ^1Sweet.Tooth: +
+[Sat Oct 12 12:32:41 2013]  say: maxim: след
+[Sat Oct 12 12:32:51 2013]  say: maxim: хочешь туррели
+[Sat Oct 12 12:32:52 2013]  say: maxim: ?
+[Sat Oct 12 12:32:55 2013]  say: ^1Sweet.Tooth: Да.
+[Sat Oct 12 12:33:12 2013]  say: maxim: сначало соди команду я скажу потом мышкой и ставь
+[Sat Oct 12 12:33:36 2013]  say: maxim: вводи /mplace miniturret 
+[Sat Oct 12 12:34:28 2013]  say: maxim: ddth[
+[Sat Oct 12 12:34:31 2013]  say: maxim: верх
+[Sat Oct 12 12:34:33 2013]  say: ^1Sweet.Tooth: cto dalhe
+[Sat Oct 12 12:34:40 2013]  say: maxim: ставь
+[Sat Oct 12 12:34:51 2013]  say: maxim: класс?
+[Sat Oct 12 12:35:02 2013]  say: ^1Sweet.Tooth: Угу а хули в меня палит то?
+[Sat Oct 12 12:35:10 2013]  say: maxim: /notarget
+[Sat Oct 12 12:35:13 2013]  say: maxim: води
+[Sat Oct 12 12:35:25 2013]  say: ^1Sweet.Tooth: Ye
+[Sat Oct 12 12:35:27 2013]  say: ^1Sweet.Tooth: Ну
+[Sat Oct 12 12:35:34 2013]  say: ^1Sweet.Tooth: О xD
+[Sat Oct 12 12:35:37 2013]  say: maxim: токо в меня
+[Sat Oct 12 12:35:46 2013]  say: ^1Sweet.Tooth: Круто
+[Sat Oct 12 12:36:07 2013]  say: ^1Sweet.Tooth: Что за?
+[Sat Oct 12 12:36:22 2013]  say: ^1Sweet.Tooth: Как ты делаешь персонажей?
+[Sat Oct 12 12:36:38 2013]  say: maxim: /npc spawn и название по англ
+[Sat Oct 12 12:37:15 2013]  say: maxim: luke или kyle или stormtrooper это не ввсе еще 7000
+[Sat Oct 12 12:37:20 2013]  say: maxim: тыс
+[Sat Oct 12 12:37:24 2013]  say: maxim: персов
+[Sat Oct 12 12:37:31 2013]  say: ^1Sweet.Tooth: Моя армия =)
+[Sat Oct 12 12:37:36 2013]  say: ^1Sweet.Tooth: В сторону
+[Sat Oct 12 12:37:40 2013]  say: maxim: смари
+[Sat Oct 12 12:37:42 2013]  say: maxim: стой
+[Sat Oct 12 12:37:57 2013]  say: ^1Sweet.Tooth: О
+[Sat Oct 12 12:38:03 2013]  say: ^1Sweet.Tooth: XD
+[Sat Oct 12 12:38:13 2013]  say: maxim: дальше
+[Sat Oct 12 12:38:17 2013]  say: maxim: иди суда
+[Sat Oct 12 12:38:33 2013]  say: maxim: далее
+[Sat Oct 12 12:38:51 2013]  say: maxim: /mplace gun и тоже самое
+[Sat Oct 12 12:39:25 2013]  say: maxim: бля ты не ровно сделал
+[Sat Oct 12 12:39:50 2013]  say: maxim: твоя армия умерла
+[Sat Oct 12 12:40:34 2013]  say: ^1Sweet.Tooth: НЕ НАДО!
+[Sat Oct 12 12:40:42 2013]  say: maxim: хух
+[Sat Oct 12 12:40:50 2013]  say: ^1Sweet.Tooth: О круууто!
+[Sat Oct 12 12:40:54 2013]  say: maxim: далее
+[Sat Oct 12 12:41:02 2013]  say: maxim: ты команды то записывай
+[Sat Oct 12 12:41:06 2013]  say: maxim: в блокнот
+[Sat Oct 12 12:41:07 2013]  say: ^1Sweet.Tooth: А.
+[Sat Oct 12 12:41:10 2013]  say: ^1Sweet.Tooth: Ща достану все
+[Sat Oct 12 12:41:30 2013]  say: ^1Sweet.Tooth: Ща достану блокнот
+[Sat Oct 12 12:41:50 2013]  say: maxim: .
+[Sat Oct 12 12:42:55 2013]  say: ^1Sweet.Tooth: Так
+[Sat Oct 12 12:43:06 2013]  say: ^1Sweet.Tooth: Говори команды на турель ботов и стекло это
+[Sat Oct 12 12:44:24 2013]  say: maxim: /mplace factory/catw2_b , /mplace miniturret , /mplace gun , /npc spawn и ник
+[Sat Oct 12 12:44:36 2013]  say: maxim: ето не все
+[Sat Oct 12 12:44:45 2013]  say: maxim: еще 498 команд
+[Sat Oct 12 12:44:56 2013]  say: maxim: будем учиться 
+[Sat Oct 12 12:45:03 2013]  say: maxim: станешь строителем
+[Sat Oct 12 12:45:58 2013]  say: ^1Sweet.Tooth: А как там на все оружия?
+[Sat Oct 12 12:46:03 2013]  say: maxim: /give all
+[Sat Oct 12 12:46:08 2013]  say: maxim: магия /mempower
+[Sat Oct 12 12:46:18 2013]  say: maxim: /god бессмертие
+[Sat Oct 12 12:46:33 2013]  say: ^1Sweet.Tooth: А как все команды посмотреть?
+[Sat Oct 12 12:49:08 2013]  ClientConnect: 0
+[Sat Oct 12 12:49:08 2013]  mlog:Player Padawan, connected. With IP - 109.47.0.26:-9600 
+[Sat Oct 12 12:49:51 2013]  ClientBegin: 0
+[Sat Oct 12 12:50:01 2013]  ClientDisconnect: 2
+[Sat Oct 12 12:50:08 2013]  say: ^1Sweet.Tooth: Hi zer
+[Sat Oct 12 12:50:12 2013]  say: ^1Z^0eratul: Hi
+[Sat Oct 12 12:50:25 2013]  Item: 3 weapon_det_pack
+[Sat Oct 12 12:50:51 2013]  say: ^1Sweet.Tooth: /give all
+[Sat Oct 12 12:50:58 2013]  say: ^1Z^0eratul: i dont need cheats
+[Sat Oct 12 12:51:19 2013]  say: ^1Sweet.Tooth: Wtf
+[Sat Oct 12 12:51:37 2013]  say: ^1Sweet.Tooth: What is the command?
+[Sat Oct 12 12:51:45 2013]  say: ^1Z^0eratul: not a command
+[Sat Oct 12 12:51:54 2013]  say: ^1Sweet.Tooth: You admin?
+[Sat Oct 12 12:51:58 2013]  say: ^1Z^0eratul: /mlistadmins
+[Sat Oct 12 12:52:18 2013]  say: ^1Z^0eratul: and no i didnt download it
+[Sat Oct 12 12:52:34 2013]  say: ^1Sweet.Tooth: Come
+[Sat Oct 12 12:52:48 2013]  Kill: 3 0 3: ^1Sweet.Tooth killed ^1Z^0eratul by MOD_SABER
+[Sat Oct 12 12:52:50 2013]  say: ^1Sweet.Tooth: xD
+[Sat Oct 12 12:53:04 2013]  say: ^1Z^0eratul: do u know
+[Sat Oct 12 12:53:09 2013]  say: ^1Z^0eratul: i can break your cheap /god
+[Sat Oct 12 12:53:16 2013]  say: ^1Sweet.Tooth: ye
+[Sat Oct 12 12:53:31 2013]  Kill: 0 3 37: ^1Z^0eratul killed ^1Sweet.Tooth by MOD_TELEFRAG
+[Sat Oct 12 12:53:34 2013]  say: ^1Sweet.Tooth: ...
+[Sat Oct 12 12:53:47 2013]  say: ^1Z^0eratul: i hate it when ppl use /god
+[Sat Oct 12 12:54:26 2013]  say: ^1Sweet.Tooth: Go duel
+[Sat Oct 12 12:54:34 2013]  say: ^1Z^0eratul: where
+[Sat Oct 12 12:54:42 2013]  say: ^1Sweet.Tooth: here
+[Sat Oct 12 12:54:45 2013]  say: ^1Z^0eratul: here ...
+[Sat Oct 12 12:54:47 2013]  say: ^1Sweet.Tooth: xD
+[Sat Oct 12 12:54:48 2013]  say: ^1Z^0eratul: where is here
+[Sat Oct 12 12:54:57 2013]  say: ^1Sweet.Tooth: I dont know xD
+[Sat Oct 12 12:56:15 2013]  Kill: 0 3 3: ^1Z^0eratul killed ^1Sweet.Tooth by MOD_SABER
+[Sat Oct 12 12:56:17 2013]  say: ^1Sweet.Tooth: xD
+[Sat Oct 12 12:57:11 2013]  ClientConnect: 1
+[Sat Oct 12 12:57:11 2013]  mlog:Player maxim, connected. With IP - 46.39.244.66:-12264 
+[Sat Oct 12 12:57:36 2013]  ClientBegin: 1
+[Sat Oct 12 12:57:48 2013]  say: ^1Z^0eratul: lag
+[Sat Oct 12 12:57:54 2013]  say: ^1Sweet.Tooth: a
+[Sat Oct 12 12:58:04 2013]  Kill: 0 3 3: ^1Z^0eratul killed ^1Sweet.Tooth by MOD_SABER
+[Sat Oct 12 12:58:09 2013]  say: ^1Sweet.Tooth: -_-
+[Sat Oct 12 12:58:19 2013]  say: maxim: я вернулся! (музыка из терменатора 2)
+[Sat Oct 12 12:58:23 2013]  say: ^1Sweet.Tooth: xD
+[Sat Oct 12 12:58:33 2013]  say: maxim: =)
+[Sat Oct 12 12:58:35 2013]  say: maxim: uj lfkkt
+[Sat Oct 12 12:58:39 2013]  say: maxim: го даллее
+[Sat Oct 12 12:58:46 2013]  say: ^1Sweet.Tooth: На арене жду
+[Sat Oct 12 12:59:28 2013]  Kill: 0 3 37: ^1Z^0eratul killed ^1Sweet.Tooth by MOD_TELEFRAG
+[Sat Oct 12 12:59:40 2013]  say: maxim: взади взрыв (опять музыка из терменатора 2
+[Sat Oct 12 12:59:43 2013]  say: maxim: )
+[Sat Oct 12 12:59:45 2013]  say: ^1Sweet.Tooth: xD
+[Sat Oct 12 12:59:50 2013]  Kill: 0 1 37: ^1Z^0eratul killed maxim by MOD_TELEFRAG
+[Sat Oct 12 13:00:07 2013]  say: maxim: давай без убийств просто я его учу
+[Sat Oct 12 13:00:09 2013]  say: ^1Sweet.Tooth: Еще раз на аренку
+[Sat Oct 12 13:00:28 2013]  say: maxim: не го за мной
+[Sat Oct 12 13:00:31 2013]  say: ^1Sweet.Tooth: Зератул не русский
+[Sat Oct 12 13:00:46 2013]  say: maxim: хорошо
+[Sat Oct 12 13:01:06 2013]  say: maxim: беги
+[Sat Oct 12 13:01:17 2013]  Kill: 3 0 3: ^1Sweet.Tooth killed ^1Z^0eratul by MOD_SABER
+[Sat Oct 12 13:01:19 2013]  say: ^1Z^0eratul: kk
+[Sat Oct 12 13:01:22 2013]  say: ^1Sweet.Tooth: xD
+[Sat Oct 12 13:01:22 2013]  say: ^1Z^0eratul: i will kill u all
+[Sat Oct 12 13:01:27 2013]  say: ^1Sweet.Tooth: Yes yes yes
+[Sat Oct 12 13:01:51 2013]  Kill: 0 3 37: ^1Z^0eratul killed ^1Sweet.Tooth by MOD_TELEFRAG
+[Sat Oct 12 13:01:51 2013]  say: maxim: zeratul dont kill me and my friend please im teacher sweet.tooth
+[Sat Oct 12 13:01:55 2013]  say: ^1Sweet.Tooth: Cheater
+[Sat Oct 12 13:02:04 2013]  say: ^1Z^0eratul: u will
+[Sat Oct 12 13:02:06 2013]  say: ^1Z^0eratul: teach him?
+[Sat Oct 12 13:02:10 2013]  say: maxim: yes
+[Sat Oct 12 13:02:14 2013]  say: ^1Z^0eratul: script war
+[Sat Oct 12 13:02:17 2013]  say: ^1Z^0eratul: no cheats
+[Sat Oct 12 13:02:20 2013]  say: maxim: yes 
+[Sat Oct 12 13:02:26 2013]  say: ^1Z^0eratul: come on
+[Sat Oct 12 13:02:29 2013]  say: ^1Z^0eratul: fight me
+[Sat Oct 12 13:02:34 2013]  say: maxim: no kill me and freind please
+[Sat Oct 12 13:02:40 2013]  say: ^1Sweet.Tooth: Пишется не так
+[Sat Oct 12 13:02:47 2013]  say: ^1Sweet.Tooth: dont а не no
+[Sat Oct 12 13:02:47 2013]  say: maxim: my
+[Sat Oct 12 13:03:06 2013]  say: maxim: ты где?ъ
+[Sat Oct 12 13:03:14 2013]  say: ^1Sweet.Tooth: Около рагноса
+[Sat Oct 12 13:03:25 2013]  say: ^1Sweet.Tooth: Огромная золотая статуя
+[Sat Oct 12 13:03:44 2013]  say: maxim: далее
+[Sat Oct 12 13:03:48 2013]  say: maxim: води
+[Sat Oct 12 13:04:25 2013]  say: maxim: вводи плиту поверни и не ствь
+[Sat Oct 12 13:04:29 2013]  say: maxim: не ставь
+[Sat Oct 12 13:04:35 2013]  say: ^1Sweet.Tooth: Сек
+[Sat Oct 12 13:05:11 2013]  Kill: 0 3 37: ^1Z^0eratul killed ^1Sweet.Tooth by MOD_TELEFRAG
+[Sat Oct 12 13:05:14 2013]  say: ^1Sweet.Tooth: Nub
+[Sat Oct 12 13:05:18 2013]  say: ^1Sweet.Tooth: Нуб этот зератул
+[Sat Oct 12 13:05:19 2013]  say: ^1Z^0eratul: who got killed?
+[Sat Oct 12 13:05:25 2013]  say: ^1Sweet.Tooth: You
+[Sat Oct 12 13:05:44 2013]  say: maxim: no
+[Sat Oct 12 13:05:48 2013]  say: maxim: dont kill
+[Sat Oct 12 13:05:52 2013]  Kill: 0 1 37: ^1Z^0eratul killed maxim by MOD_TELEFRAG
+[Sat Oct 12 13:06:09 2013]  say: maxim: ты есть в вк
+[Sat Oct 12 13:06:11 2013]  say: maxim: ?
+[Sat Oct 12 13:06:12 2013]  say: ^1Sweet.Tooth: +
+[Sat Oct 12 13:06:16 2013]  say: maxim: как?
+[Sat Oct 12 13:06:22 2013]  say: ^1Sweet.Tooth: Чуть позже ок?
+[Sat Oct 12 13:06:35 2013]  Kill: 0 1 37: ^1Z^0eratul killed maxim by MOD_TELEFRAG
+[Sat Oct 12 13:07:02 2013]  say: maxim: я Максим Александрович 1999г на аве клон из стар варса город новосиб или москва
+[Sat Oct 12 13:07:05 2013]  say: maxim: найди
+[Sat Oct 12 13:07:18 2013]  say: maxim: w 
+[Sat Oct 12 13:07:24 2013]  say: ^1Z^0eratul: gg
+[Sat Oct 12 13:07:27 2013]  say: ^1Sweet.Tooth: No
+[Sat Oct 12 13:07:32 2013]  say: ^1Z^0eratul: demensions ban sweet
+[Sat Oct 12 13:07:35 2013]  say: ^1Sweet.Tooth: Stop please
+[Sat Oct 12 13:07:42 2013]  say: ^1Sweet.Tooth: Nooo!
+[Sat Oct 12 13:07:56 2013]  say: ^1Sweet.Tooth: Stop it!
+[Sat Oct 12 13:08:00 2013]  say: ^1Z^0eratul: hehe
+[Sat Oct 12 13:08:07 2013]  say: ^1Sweet.Tooth: Помоги!
+[Sat Oct 12 13:08:17 2013]  say: maxim: /noclip всегда делай
+[Sat Oct 12 13:08:22 2013]  say: maxim: и все
+[Sat Oct 12 13:08:34 2013]  say: ^1Sweet.Tooth: У меня весь экран
+[Sat Oct 12 13:08:40 2013]  say: maxim: ну
+[Sat Oct 12 13:08:43 2013]  say: maxim: /noclip
+[Sat Oct 12 13:08:46 2013]  say: ^1Sweet.Tooth: ПОМОГИ
+[Sat Oct 12 13:08:49 2013]  say: maxim: чтоб он не убил
+[Sat Oct 12 13:08:50 2013]  say: ^1Sweet.Tooth: Я ввожу мне нечего
+[Sat Oct 12 13:08:53 2013]  say: ^1Sweet.Tooth: Он меня забанил!
+[Sat Oct 12 13:09:04 2013]  say: ^1Sweet.Tooth: Убей его!
+[Sat Oct 12 13:09:08 2013]  say: maxim: что? смеешся?
+[Sat Oct 12 13:09:11 2013]  say: ^1Z^0eratul: i cant die
+[Sat Oct 12 13:09:12 2013]  say: maxim: я не мгу
+[Sat Oct 12 13:09:24 2013]  say: maxim: он по русски говорит
+[Sat Oct 12 13:09:26 2013]  say: maxim: сука
+[Sat Oct 12 13:09:32 2013]  say: ^1Sweet.Tooth: АААА черт!
+[Sat Oct 12 13:09:36 2013]  say: maxim: зератул из реальных поцонов
+[Sat Oct 12 13:09:52 2013]  say: maxim: он русский
+[Sat Oct 12 13:10:01 2013]  say: maxim: блять
+[Sat Oct 12 13:10:29 2013]  say: ^1Sweet.Tooth: Stop it zer...
+[Sat Oct 12 13:10:34 2013]  say: ^1Z^0eratul: never
+[Sat Oct 12 13:10:42 2013]  say: ^1Z^0eratul: u are banned from this demension
+[Sat Oct 12 13:10:43 2013]  say: maxim: я щя ему покажу
+[Sat Oct 12 13:10:49 2013]  say: ^1Z^0eratul: u too...
+[Sat Oct 12 13:10:55 2013]  ClientDisconnect: 1
+[Sat Oct 12 13:11:02 2013]  ClientConnect: 1
+[Sat Oct 12 13:11:02 2013]  mlog:Player maxim, connected. With IP - 46.39.244.66:-12264 
+[Sat Oct 12 13:11:09 2013]  ClientBegin: 1
+[Sat Oct 12 13:11:22 2013]  say: ^1Sweet.Tooth: Ill kill you for what ZERATUL YOU KILLED SWEET TOOTH ILL KILL YOU KILL YOU!
+[Sat Oct 12 13:11:37 2013]  say: ^1Sweet.Tooth: I AM KILL YOU ZERATUL.
+[Sat Oct 12 13:11:37 2013]  say: ^1Z^0eratul: yea hf
+[Sat Oct 12 13:11:41 2013]  say: ^1Z^0eratul: u cant
+[Sat Oct 12 13:11:45 2013]  say: ^1Z^0eratul: im a god in makermod
+[Sat Oct 12 13:11:51 2013]  say: maxim: why you kill &
+[Sat Oct 12 13:11:54 2013]  say: maxim: ?
+[Sat Oct 12 13:11:58 2013]  say: ^1Z^0eratul: your
+[Sat Oct 12 13:12:01 2013]  say: ^1Z^0eratul: friend start
+[Sat Oct 12 13:12:03 2013]  say: ^1Z^0eratul: to attack me
+[Sat Oct 12 13:12:04 2013]  say: maxim: please go build
+[Sat Oct 12 13:12:05 2013]  say: ^1Z^0eratul: with 
+[Sat Oct 12 13:12:08 2013]  say: ^1Z^0eratul: cheap cheats
+[Sat Oct 12 13:12:29 2013]  say: ^1Sweet.Tooth: AM KILL YOU IN EW
+[Sat Oct 12 13:12:29 2013]  say: maxim: im teacher sweet.toth
+[Sat Oct 12 13:12:36 2013]  say: ^1Z^0eratul: sweet u cant
+[Sat Oct 12 13:12:40 2013]  say: maxim: я щя ему покажу скрипт
+[Sat Oct 12 13:12:40 2013]  say: ^1Z^0eratul: im too strong in ew
+[Sat Oct 12 13:12:45 2013]  say: ^1Z^0eratul: DW rules EW
+[Sat Oct 12 13:12:45 2013]  say: maxim: охереешь
+[Sat Oct 12 13:12:48 2013]  say: ^1Z^0eratul: gg
+[Sat Oct 12 13:13:01 2013]  say: maxim: война так война
+[Sat Oct 12 13:13:17 2013]  say: ^1Sweet.Tooth: Если я перезайду я смогу войти или будет написано что я забанен?
+[Sat Oct 12 13:14:01 2013]  say: maxim: смари
+[Sat Oct 12 13:14:05 2013]  say: ^1Sweet.Tooth: НЕ МОГУ
+[Sat Oct 12 13:14:13 2013]  say: ^1Sweet.Tooth: У меня весь экран разрисован чем то
+[Sat Oct 12 13:14:22 2013]  say: maxim: бля выйди и зайди
+[Sat Oct 12 13:14:29 2013]  say: ^1Z^0eratul: AFK
+[Sat Oct 12 13:14:34 2013]  say: maxim: быстро еще текстуры умрут
+[Sat Oct 12 13:14:38 2013]  ClientConnect: 2
+[Sat Oct 12 13:14:38 2013]  mlog:Player Padawan, connected. With IP - 109.254.49.34:29070 
+[Sat Oct 12 13:14:56 2013]  say: ^1Sweet.Tooth: YOU KILLD A SWEET TOOTH  YOU WILL PAY!
+[Sat Oct 12 13:15:14 2013]  ClientBegin: 2
+[Sat Oct 12 13:15:19 2013]  ClientDisconnect: 3
+[Sat Oct 12 13:15:30 2013]  say: Rebenas: xD
+[Sat Oct 12 13:16:15 2013]  Kill: 2 2 39: Rebenas killed Rebenas by MOD_SUICIDE
+[Sat Oct 12 13:16:15 2013]  setteam:  2 FREE SPECTATOR
+[Sat Oct 12 13:16:15 2013]  ClientBegin: 2
+[Sat Oct 12 13:16:53 2013]  setteam:  2 SPECTATOR FREE
+[Sat Oct 12 13:16:53 2013]  ClientBegin: 2
+[Sat Oct 12 13:17:34 2013]  ClientConnect: 3
+[Sat Oct 12 13:17:34 2013]  mlog:Player Padawan, connected. With IP - 46.242.119.238:29070 
+[Sat Oct 12 13:17:45 2013]  say: ^1Z^0eratul: hi
+[Sat Oct 12 13:17:47 2013]  say: Rebenas: hi
+[Sat Oct 12 13:17:51 2013]  say: maxim: рш
+[Sat Oct 12 13:17:54 2013]  say: maxim: hi
+[Sat Oct 12 13:18:04 2013]  say: maxim: привет
+[Sat Oct 12 13:18:15 2013]  say: Rebenas: hey
+[Sat Oct 12 13:18:18 2013]  say: Rebenas: привет
+[Sat Oct 12 13:18:36 2013]  ClientBegin: 3
+[Sat Oct 12 13:18:43 2013]  say: Rebenas: о пидар приперся
+[Sat Oct 12 13:18:59 2013]  say: Rebenas: zeratul its ur maker?
+[Sat Oct 12 13:19:05 2013]  say: ^1Z^0eratul: its your maker?
+[Sat Oct 12 13:19:07 2013]  say: ^1Z^0eratul: what
+[Sat Oct 12 13:19:10 2013]  say: Rebenas: makermod
+[Sat Oct 12 13:19:15 2013]  say: ^1Z^0eratul: no lol
+[Sat Oct 12 13:19:16 2013]  say: ^1Sweet.Tooth: Ебаный зератул.
+[Sat Oct 12 13:19:22 2013]  say: Rebenas: что опять
+[Sat Oct 12 13:19:26 2013]  say: ^1Sweet.Tooth: ???
+[Sat Oct 12 13:19:30 2013]  say: maxim: убей ето
+[Sat Oct 12 13:19:31 2013]  say: ^1Sweet.Tooth: Ты еще кто такой?
+[Sat Oct 12 13:19:32 2013]  say: maxim: его
+[Sat Oct 12 13:19:35 2013]  say: maxim: зератула
+[Sat Oct 12 13:19:37 2013]  say: Rebenas: а ты догадайся
+[Sat Oct 12 13:19:40 2013]  say: ^1Z^0eratul: xD
+[Sat Oct 12 13:19:42 2013]  say: ^1Sweet.Tooth: Димка?
+[Sat Oct 12 13:19:44 2013]  say: Rebenas: xD
+[Sat Oct 12 13:19:48 2013]  say: ^1Sweet.Tooth: Исус?
+[Sat Oct 12 13:19:50 2013]  say: ^1Sweet.Tooth: Авен?
+[Sat Oct 12 13:19:53 2013]  say: Rebenas: пидрила....
+[Sat Oct 12 13:19:55 2013]  say: ^1Sweet.Tooth: А.
+[Sat Oct 12 13:20:00 2013]  say: ^1Sweet.Tooth: Вейрон чтоли?
+[Sat Oct 12 13:20:08 2013]  say: Rebenas: ебать ты тупой пидрила
+[Sat Oct 12 13:20:12 2013]  say: ^1Sweet.Tooth: Ну димка
+[Sat Oct 12 13:20:19 2013]  Kill: 3 3 39: ^1Sweet.Tooth killed ^1Sweet.Tooth by MOD_SUICIDE
+[Sat Oct 12 13:20:19 2013]  setteam:  3 FREE SPECTATOR
+[Sat Oct 12 13:20:19 2013]  ClientBegin: 3
+[Sat Oct 12 13:20:19 2013]  say: Rebenas: да тупой пидрила
+[Sat Oct 12 13:20:32 2013]  say: ^1Sweet.Tooth: Лол димка сасайка
+[Sat Oct 12 13:20:32 2013]  say: Rebenas: xD
+[Sat Oct 12 13:20:33 2013]  setteam:  3 SPECTATOR FREE
+[Sat Oct 12 13:20:33 2013]  ClientBegin: 3
+[Sat Oct 12 13:20:38 2013]  say: ^1Sweet.Tooth: Хули приперся?
+[Sat Oct 12 13:20:40 2013]  say: Rebenas: zeratul
+[Sat Oct 12 13:20:43 2013]  say: ^1Z^0eratul: ?
+[Sat Oct 12 13:20:44 2013]  say: Rebenas: а ты хули приперся
+[Sat Oct 12 13:20:48 2013]  say: Rebenas: u are admin?
+[Sat Oct 12 13:20:50 2013]  say: ^1Sweet.Tooth: Меня максим позвал.
+[Sat Oct 12 13:20:50 2013]  say: ^1Z^0eratul: nope
+[Sat Oct 12 13:20:54 2013]  say: ^1Z^0eratul: /mlistadmins
+[Sat Oct 12 13:20:57 2013]  say: ^1Z^0eratul: :)
+[Sat Oct 12 13:21:07 2013]  say: Rebenas: no
+[Sat Oct 12 13:21:11 2013]  say: Rebenas: not work
+[Sat Oct 12 13:21:16 2013]  say: ^1Z^0eratul: im not a admin :D
+[Sat Oct 12 13:21:31 2013]  say: ^1Sweet.Tooth: Как эту хуйню убрать?
+[Sat Oct 12 13:21:54 2013]  say: Rebenas: напиши /mkill
+[Sat Oct 12 13:22:03 2013]  say: ^1Sweet.Tooth: Сам пиши.
+[Sat Oct 12 13:22:13 2013]  say: ^1Sweet.Tooth: Если надо,
+[Sat Oct 12 13:22:16 2013]  say: Rebenas: капец ты тупой
+[Sat Oct 12 13:22:22 2013]  say: Rebenas: /mkill это удалить обьект
+[Sat Oct 12 13:22:23 2013]  say: ^1Sweet.Tooth: Ну а ты умный прям.
+[Sat Oct 12 13:22:25 2013]  say: Rebenas: да
+[Sat Oct 12 13:22:34 2013]  say: ^1Sweet.Tooth: Угу 
+[Sat Oct 12 13:22:40 2013]  say: ^1Sweet.Tooth: Умный ты наш.
+[Sat Oct 12 13:22:44 2013]  say: Rebenas: ато
+[Sat Oct 12 13:22:48 2013]  say: Rebenas: а то*
+[Sat Oct 12 13:22:51 2013]  say: ^1Sweet.Tooth: ЛОЛ
+[Sat Oct 12 13:23:07 2013]  Kill: 1 3 0: maxim killed ^1Sweet.Tooth by MOD_UNKNOWN
+[Sat Oct 12 13:23:20 2013]  say: maxim: горячая штучка
+[Sat Oct 12 13:23:34 2013]  say: ^1Sweet.Tooth: Гоу на аренку
+[Sat Oct 12 13:24:00 2013]  say: ^1Z^0eratul: sweet
+[Sat Oct 12 13:24:03 2013]  say: ^1Sweet.Tooth: ?
+[Sat Oct 12 13:24:15 2013]  Kill: 0 3 37: ^1Z^0eratul killed ^1Sweet.Tooth by MOD_TELEFRAG
+[Sat Oct 12 13:24:15 2013]  Item: 0 weapon_rocket_launcher
+[Sat Oct 12 13:24:18 2013]  say: ^1Sweet.Tooth: ...
+[Sat Oct 12 13:24:19 2013]  say: Rebenas: hahhahahahaha
+[Sat Oct 12 13:24:21 2013]  say: ^1Z^0eratul: anti /god kill
+[Sat Oct 12 13:24:27 2013]  say: ^1Sweet.Tooth: -_-
+[Sat Oct 12 13:24:40 2013]  say: ^1Z^0eratul: i hate cheats
+[Sat Oct 12 13:24:43 2013]  say: ^1Sweet.Tooth: I am not use /god 
+[Sat Oct 12 13:24:44 2013]  say: Rebenas: xD
+[Sat Oct 12 13:24:50 2013]  say: ^1Sweet.Tooth: -_-
+[Sat Oct 12 13:24:58 2013]  say: Rebenas: ты че по англ научился разговаривать?
+[Sat Oct 12 13:25:06 2013]  say: ^1Z^0eratul: look
+[Sat Oct 12 13:25:17 2013]  say: ^1Sweet.Tooth: пРедСтАвЬ сЕбЕ
+[Sat Oct 12 13:25:20 2013]  say: ^1Z^0eratul: look lol
+[Sat Oct 12 13:25:25 2013]  Kill: 1 3 0: maxim killed ^1Sweet.Tooth by MOD_UNKNOWN
+[Sat Oct 12 13:25:26 2013]  say: maxim: ого наркота
+[Sat Oct 12 13:25:27 2013]  say: Rebenas: ой ты небойсь через переводчик
+[Sat Oct 12 13:25:28 2013]  say: ^1Sweet.Tooth: -_-
+[Sat Oct 12 13:25:33 2013]  say: ^1Z^0eratul: xD
+[Sat Oct 12 13:25:35 2013]  say: Rebenas: zeratul
+[Sat Oct 12 13:25:36 2013]  say: ^1Z^0eratul: ?
+[Sat Oct 12 13:25:37 2013]  say: ^1Sweet.Tooth: Как я сворачиваю игру?
+[Sat Oct 12 13:25:39 2013]  say: Rebenas: come
+[Sat Oct 12 13:25:40 2013]  say: Rebenas: watch
+[Sat Oct 12 13:25:44 2013]  say: ^1Sweet.Tooth: У меня нету UU
+[Sat Oct 12 13:25:45 2013]  say: Rebenas: what is a command?
+[Sat Oct 12 13:25:52 2013]  say: ^1Z^0eratul: easy
+[Sat Oct 12 13:25:56 2013]  say: Rebenas: ?
+[Sat Oct 12 13:25:58 2013]  tell: ^1Z^0eratul to Rebenas: /mplace ammounit
+[Sat Oct 12 13:26:01 2013]  say: Rebenas: ty
+[Sat Oct 12 13:26:05 2013]  say: ^1Z^0eratul: sweet
+[Sat Oct 12 13:26:08 2013]  say: ^1Sweet.Tooth: ???
+[Sat Oct 12 13:26:17 2013]  say: ^1Z^0eratul: i mean not your name
+[Sat Oct 12 13:26:25 2013]  say: ^1Z^0eratul: this thing what maxi have is sweet
+[Sat Oct 12 13:26:29 2013]  say: Rebenas: Я буду себе дом строить
+[Sat Oct 12 13:26:31 2013]  say: ^1Sweet.Tooth: xD
+[Sat Oct 12 13:26:44 2013]  say: ^1Sweet.Tooth: Иди строй
+[Sat Oct 12 13:26:56 2013]  say: Rebenas: пошел в жопу
+[Sat Oct 12 13:26:58 2013]  say: maxim: где вы
+[Sat Oct 12 13:27:14 2013]  say: ^1Sweet.Tooth: Я ща на аренку иду
+[Sat Oct 12 13:27:35 2013]  say: ^1Sweet.Tooth: Что за гавно? -_-
+[Sat Oct 12 13:27:35 2013]  say: ^1Z^0eratul: lol
+[Sat Oct 12 13:27:50 2013]  say: ^1Z^0eratul: rebenas u are new right?
+[Sat Oct 12 13:27:55 2013]  say: Rebenas: no
+[Sat Oct 12 13:28:01 2013]  say: ^1Sweet.Tooth: Rebenas = Dima
+[Sat Oct 12 13:28:04 2013]  say: Rebenas: no
+[Sat Oct 12 13:28:05 2013]  say: Rebenas: lol
+[Sat Oct 12 13:28:07 2013]  say: ^1Sweet.Tooth: Yes.
+[Sat Oct 12 13:28:10 2013]  say: Rebenas: sweet-kayman
+[Sat Oct 12 13:28:16 2013]  say: ^1Z^0eratul: i know
+[Sat Oct 12 13:28:18 2013]  say: Rebenas: o
+[Sat Oct 12 13:28:19 2013]  say: ^1Sweet.Tooth: Yes i am kayman and?
+[Sat Oct 12 13:28:20 2013]  Kill: 0 3 37: ^1Z^0eratul killed ^1Sweet.Tooth by MOD_TELEFRAG
+[Sat Oct 12 13:28:23 2013]  say: ^1Z^0eratul: cheat fag
+[Sat Oct 12 13:28:34 2013]  say: Rebenas: а где ты научился по англ болтать?
+[Sat Oct 12 13:28:45 2013]  say: ^1Sweet.Tooth: Блять прикинь у нас в школе англ есть!
+[Sat Oct 12 13:28:51 2013]  say: Rebenas: -_-
+[Sat Oct 12 13:29:11 2013]  say: ^1Sweet.Tooth: Ебаный зератул с его ебаной админкой.
+[Sat Oct 12 13:29:25 2013]  say: ^1Z^0eratul: maxi /mkillall
+[Sat Oct 12 13:29:29 2013]  say: Rebenas: ты же 11 дней назад говорил по англ как жирный свин на велике ездит
+[Sat Oct 12 13:29:30 2013]  say: maxim: ok
+[Sat Oct 12 13:29:33 2013]  say: Rebenas: Zeratul
+[Sat Oct 12 13:29:35 2013]  say: ^1Z^0eratul: ?
+[Sat Oct 12 13:29:38 2013]  say: ^1Sweet.Tooth: Чо?
+[Sat Oct 12 13:29:45 2013]  say: ^1Sweet.Tooth: Я не говорил нечего лол
+[Sat Oct 12 13:29:50 2013]  say: Rebenas: Zeratul kayman called u that u fucker pig for russian language
+[Sat Oct 12 13:29:51 2013]  say: ^1Sweet.Tooth: Это твоя дурная фантазия
+[Sat Oct 12 13:29:56 2013]  say: Rebenas: твоя
+[Sat Oct 12 13:29:56 2013]  say: ^1Sweet.Tooth: ЛОЛ
+[Sat Oct 12 13:29:58 2013]  say: maxim: you kill my freind im not mkillall
+[Sat Oct 12 13:30:05 2013]  say: ^1Z^0eratul: maxim
+[Sat Oct 12 13:30:10 2013]  say: maxim: no
+[Sat Oct 12 13:30:11 2013]  say: ^1Z^0eratul: demension ban?
+[Sat Oct 12 13:30:18 2013]  say: ^1Sweet.Tooth: Димка харошь пиздеть ок? =)
+[Sat Oct 12 13:30:21 2013]  say: maxim: ok im mkill all
+[Sat Oct 12 13:30:22 2013]  say: Rebenas: нет
+[Sat Oct 12 13:30:31 2013]  say: ^1Z^0eratul: kk
+[Sat Oct 12 13:30:32 2013]  say: Rebenas: иванка хорош пиздеть ок?
+[Sat Oct 12 13:30:40 2013]  say: ^1Sweet.Tooth: Я Никита =)))
+[Sat Oct 12 13:30:43 2013]  say: Rebenas: нет
+[Sat Oct 12 13:30:44 2013]  say: maxim: zeratul адсин?
+[Sat Oct 12 13:30:45 2013]  say: ^1Sweet.Tooth: Дат =)
+[Sat Oct 12 13:30:48 2013]  say: maxim: админ?
+[Sat Oct 12 13:30:51 2013]  say: ^1Sweet.Tooth: Да
+[Sat Oct 12 13:30:51 2013]  say: Rebenas: дат епт
+[Sat Oct 12 13:31:02 2013]  say: ^1Sweet.Tooth: Димка ты даже не знаешь что такое епт лол
+[Sat Oct 12 13:31:12 2013]  say: Rebenas: а ты знаешь?
+[Sat Oct 12 13:31:18 2013]  say: ^1Sweet.Tooth: Конечно знаю ЛОЛ
+[Sat Oct 12 13:31:21 2013]  ClientDisconnect: 3
+[Sat Oct 12 13:31:25 2013]  say: ^1Z^0eratul: rq
+[Sat Oct 12 13:31:28 2013]  say: Rebenas: fucker pidar kayman
+[Sat Oct 12 13:31:33 2013]  say: Rebenas: guten tag
+[Sat Oct 12 13:31:38 2013]  say: Rebenas: gutan*
+[Sat Oct 12 13:31:44 2013]  say: ^1Z^0eratul: no
+[Sat Oct 12 13:31:47 2013]  say: maxim: what do teleport ? zeratul?
+[Sat Oct 12 13:31:49 2013]  say: ^1Z^0eratul: guten was right
+[Sat Oct 12 13:31:52 2013]  say: Rebenas: Aaa
+[Sat Oct 12 13:31:52 2013]  say: maxim: look!
+[Sat Oct 12 13:31:57 2013]  say: Rebenas: bb
+[Sat Oct 12 13:32:00 2013]  say: ^1Z^0eratul: bb
+[Sat Oct 12 13:32:00 2013]  say: maxim: what teleport do&
+[Sat Oct 12 13:32:01 2013]  ClientDisconnect: 2
+[Sat Oct 12 13:32:07 2013]  say: ^1Z^0eratul: look
+[Sat Oct 12 13:32:12 2013]  ClientConnect: 2
+[Sat Oct 12 13:32:12 2013]  mlog:Player ^1Sweet.Tooth, connected. With IP - 46.242.119.238:29070 
+[Sat Oct 12 13:32:16 2013]  say: ^1Z^0eratul: thats my teleporter
+[Sat Oct 12 13:32:20 2013]  say: maxim: yes 
+[Sat Oct 12 13:32:24 2013]  say: ^1Z^0eratul: what u have
+[Sat Oct 12 13:32:26 2013]  say: maxim: no what
+[Sat Oct 12 13:32:27 2013]  say: ^1Z^0eratul: isnt a teleporter
+[Sat Oct 12 13:32:29 2013]  say: maxim: teleport
+[Sat Oct 12 13:32:32 2013]  ClientBegin: 2
+[Sat Oct 12 13:32:33 2013]  say: maxim: this 
+[Sat Oct 12 13:32:34 2013]  say: ^1Z^0eratul: its dont deleteport
+[Sat Oct 12 13:32:38 2013]  say: maxim: this is
+[Sat Oct 12 13:32:43 2013]  say: ^1Z^0eratul: nope
+[Sat Oct 12 13:32:47 2013]  say: maxim: what camand?
+[Sat Oct 12 13:32:51 2013]  say: ^1Z^0eratul: commands*
+[Sat Oct 12 13:32:55 2013]  say: ^1Sweet.Tooth: Ебаный зератул
+[Sat Oct 12 13:32:59 2013]  say: maxim: im want doing
+[Sat Oct 12 13:33:06 2013]  say: maxim: commands
+[Sat Oct 12 13:33:09 2013]  say: ^1Z^0eratul: maxim
+[Sat Oct 12 13:33:11 2013]  say: ^1Z^0eratul: 1 tip
+[Sat Oct 12 13:33:13 2013]  say: ^1Z^0eratul: /minfo
+[Sat Oct 12 13:33:15 2013]  say: ^1Z^0eratul: read it
+[Sat Oct 12 13:33:16 2013]  say: ^1Sweet.Tooth: Каолче ну нахуй я валю от сюда нахуй.
+[Sat Oct 12 13:33:17 2013]  say: ^1Z^0eratul: understand it
+[Sat Oct 12 13:33:31 2013]  say: maxim: in /minfo what cammand?
+[Sat Oct 12 13:33:38 2013]  say: ^1Z^0eratul: just read
+[Sat Oct 12 13:33:40 2013]  say: ^1Z^0eratul: everything
+[Sat Oct 12 13:33:42 2013]  say: ^1Z^0eratul: in /minfo
+[Sat Oct 12 13:33:48 2013]  say: maxim: im dont undestend 
+[Sat Oct 12 13:33:54 2013]  say: maxim: read
+[Sat Oct 12 13:33:56 2013]  say: maxim: say
+[Sat Oct 12 13:33:57 2013]  say: ^1Sweet.Tooth: xD
+[Sat Oct 12 13:33:58 2013]  say: maxim: please
+[Sat Oct 12 13:34:07 2013]  Kill: 0 2 0: ^1Z^0eratul killed ^1Sweet.Tooth by MOD_UNKNOWN
+[Sat Oct 12 13:34:12 2013]  say: ^1Sweet.Tooth: Why? -_-
+[Sat Oct 12 13:34:17 2013]  say: ^1Z^0eratul: cuz dw traitor
+[Sat Oct 12 13:34:21 2013]  say: ^1Sweet.Tooth: LOL
+[Sat Oct 12 13:34:28 2013]  say: ^1Sweet.Tooth: Out tration
+[Sat Oct 12 13:34:35 2013]  say: ^1Sweet.Tooth: Lol
+[Sat Oct 12 13:34:44 2013]  say: ^1Z^0eratul: i can make myself invisible
+[Sat Oct 12 13:34:47 2013]  say: ^1Z^0eratul: maxi
+[Sat Oct 12 13:35:10 2013]  say: ^1Z^0eratul: u understand fast
+[Sat Oct 12 13:35:23 2013]  say: maxim: wow
+[Sat Oct 12 13:35:41 2013]  say: ^1Z^0eratul: lol
+[Sat Oct 12 13:35:42 2013]  say: ^1Z^0eratul: i see
+[Sat Oct 12 13:35:46 2013]  say: ^1Z^0eratul: u saw /mtele
+[Sat Oct 12 13:36:40 2013]  say: ^1Z^0eratul: maxi look
+[Sat Oct 12 13:36:49 2013]  say: maxim: wow
+[Sat Oct 12 13:36:53 2013]  say: ^1Z^0eratul: i can make myself invisible
+[Sat Oct 12 13:36:57 2013]  say: ^1Sweet.Tooth: And you have become tried with his clan i went with an outcast
+[Sat Oct 12 13:37:19 2013]  say: ^1Z^0eratul: your ''clan''
+[Sat Oct 12 13:37:20 2013]  say: ^1Z^0eratul: is crap
+[Sat Oct 12 13:37:27 2013]  say: ^1Z^0eratul: just unskilled ppl
+[Sat Oct 12 13:37:52 2013]  say: ^1Sweet.Tooth: Do not betray your fucking clan.
+[Sat Oct 12 13:37:54 2013]  say: ^1Z^0eratul: be carefull maxi
+[Sat Oct 12 13:38:11 2013]  say: ^1Z^0eratul: dont
+[Sat Oct 12 13:38:14 2013]  say: ^1Z^0eratul: touch my catw
+[Sat Oct 12 13:38:18 2013]  say: ^1Z^0eratul: or dont shoot it
+[Sat Oct 12 13:38:20 2013]  Kill: 1022 1 0: <world> killed maxim by MOD_UNKNOWN
+[Sat Oct 12 13:39:17 2013]  say: ^1Z^0eratul: hey sweet
+[Sat Oct 12 13:39:21 2013]  say: ^1Sweet.Tooth: ?
+[Sat Oct 12 13:39:51 2013]  say: ^1Sweet.Tooth: Why?
+[Sat Oct 12 13:40:02 2013]  say: maxim: wow
+[Sat Oct 12 13:40:10 2013]  say: ^1Sweet.Tooth: Ебаный он фашист!
+[Sat Oct 12 13:40:12 2013]  say: ^1Z^0eratul: hey maxi shoot it
+[Sat Oct 12 13:40:31 2013]  say: ^1Sweet.Tooth: Убей давай!
+[Sat Oct 12 13:40:34 2013]  say: ^1Sweet.Tooth: Быстрее
+[Sat Oct 12 13:40:41 2013]  say: ^1Sweet.Tooth: У меня щас жкран в жопе будет!
+[Sat Oct 12 13:40:46 2013]  say: ^1Sweet.Tooth: СКОРЕЕ!
+[Sat Oct 12 13:40:55 2013]  ClientDisconnect: 2
+[Sat Oct 12 13:41:26 2013]  ClientConnect: 2
+[Sat Oct 12 13:41:26 2013]  mlog:Player Sith Stalker, connected. With IP - 46.242.119.238:29070 
+[Sat Oct 12 13:41:45 2013]  ClientBegin: 2
+[Sat Oct 12 13:42:28 2013]  say: ^1Z^0eratul: look
+[Sat Oct 12 13:42:47 2013]  say: ^1Z^0eratul: wait maxi
+[Sat Oct 12 13:42:54 2013]  say: ^1Z^0eratul: look
+[Sat Oct 12 13:43:00 2013]  say: maxim: wow
+[Sat Oct 12 13:43:05 2013]  say: maxim: what&
+[Sat Oct 12 13:43:08 2013]  say: maxim: what?
+[Sat Oct 12 13:43:13 2013]  say: maxim: camand
+[Sat Oct 12 13:43:14 2013]  say: maxim: say
+[Sat Oct 12 13:43:16 2013]  say: maxim: please
+[Sat Oct 12 13:43:17 2013]  say: ^1Z^0eratul: commands*
+[Sat Oct 12 13:43:21 2013]  say: maxim: ok
+[Sat Oct 12 13:43:24 2013]  say: maxim: say please
+[Sat Oct 12 13:43:28 2013]  say: ^1Z^0eratul: and u need a plugin
+[Sat Oct 12 13:43:37 2013]  say: maxim: wow
+[Sat Oct 12 13:43:40 2013]  say: maxim: what&
+[Sat Oct 12 13:43:43 2013]  say: maxim: what?
+[Sat Oct 12 13:43:44 2013]  say: maxim: say
+[Sat Oct 12 13:43:46 2013]  say: maxim: say
+[Sat Oct 12 13:43:48 2013]  say: maxim: plese
+[Sat Oct 12 13:43:50 2013]  say: ^1Z^0eratul: u need a plugin!
+[Sat Oct 12 13:43:52 2013]  say: maxim: please
+[Sat Oct 12 13:44:08 2013]  tell: Sith Stalker to maxim: Тихо блять!
+[Sat Oct 12 13:44:13 2013]  Kill: 1 2 3: maxim killed Sith Stalker by MOD_SABER
+[Sat Oct 12 13:44:18 2013]  tell: Sith Stalker to maxim: Хули творишь нуб блять я свееттуф
+[Sat Oct 12 13:44:55 2013]  tell: Sith Stalker to maxim: ЗАЕБАЛ
+[Sat Oct 12 13:44:56 2013]  Kill: 0 2 3: ^1Z^0eratul killed Sith Stalker by MOD_SABER
+[Sat Oct 12 13:44:59 2013]  say: ^1Z^0eratul: hehe
+[Sat Oct 12 13:45:03 2013]  say: maxim: hehe
+[Sat Oct 12 13:45:06 2013]  say: Sith Stalker: why kill me?
+[Sat Oct 12 13:45:13 2013]  say: maxim: я не знаю
+[Sat Oct 12 13:45:16 2013]  say: maxim: просто так
+[Sat Oct 12 13:45:26 2013]  say: Sith Stalker: слыш чо убиваешь мудак блять?
+[Sat Oct 12 13:45:38 2013]  say: maxim: cyka
+[Sat Oct 12 13:45:46 2013]  say: Sith Stalker: мудак блять ебаный ты чмошник
+[Sat Oct 12 13:46:13 2013]  say: Sith Stalker: пока сука,тусуй со своим гитлером
+[Sat Oct 12 13:46:15 2013]  ClientDisconnect: 2
+[Sat Oct 12 13:46:34 2013]  say: maxim: we 1
+[Sat Oct 12 13:46:55 2013]  say: maxim: say cammands interestin
+[Sat Oct 12 13:46:57 2013]  say: maxim: please
+[Sat Oct 12 13:47:09 2013]  say: ^1Z^0eratul: maxi
+[Sat Oct 12 13:47:11 2013]  say: ^1Z^0eratul: listen
+[Sat Oct 12 13:47:15 2013]  say: maxim: ok
+[Sat Oct 12 13:47:17 2013]  say: ^1Z^0eratul: u need a plugi
+[Sat Oct 12 13:47:19 2013]  say: ^1Z^0eratul: n
+[Sat Oct 12 13:47:25 2013]  say: ^1Z^0eratul: without this u cant do it
+[Sat Oct 12 13:47:43 2013]  say: maxim: no im want cammands a force 
+[Sat Oct 12 13:47:48 2013]  say: ^1Z^0eratul: yea
+[Sat Oct 12 13:47:51 2013]  say: ^1Z^0eratul: for this forcd
+[Sat Oct 12 13:47:53 2013]  say: ^1Z^0eratul: force
+[Sat Oct 12 13:47:55 2013]  say: ^1Z^0eratul: u need a plugin
+[Sat Oct 12 13:47:56 2013]  say: maxim: im want strong force
+[Sat Oct 12 13:48:04 2013]  say: ^1Z^0eratul: and maxi
+[Sat Oct 12 13:48:07 2013]  say: ^1Z^0eratul: this are my scripts
+[Sat Oct 12 13:48:11 2013]  say: ^1Z^0eratul: for this i worked hard
+[Sat Oct 12 13:48:16 2013]  say: maxim: im litle speak english
+[Sat Oct 12 13:48:25 2013]  say: ^1Z^0eratul: stay
+[Sat Oct 12 13:48:37 2013]  say: maxim: stop&
+[Sat Oct 12 13:48:41 2013]  say: maxim: ?
+[Sat Oct 12 13:48:56 2013]  say: maxim: ti ymeesh govorit?
+[Sat Oct 12 13:49:00 2013]  say: ^1Z^0eratul: ?
+[Sat Oct 12 13:49:10 2013]  say: maxim: =(
+[Sat Oct 12 13:49:21 2013]  say: maxim: ;(
+[Sat Oct 12 13:53:25 2013]  say: ^1Z^0eratul: i go bb
+[Sat Oct 12 13:53:27 2013]  ClientDisconnect: 0
+[Sat Oct 12 13:53:32 2013]  say: maxim: wher
+[Sat Oct 12 13:53:36 2013]  ClientDisconnect: 1
+[Sat Oct 12 14:10:14 2013]  Exit: Timelimit hit.
+[Sat Oct 12 15:04:28 2013]  ClientConnect: 0
+[Sat Oct 12 15:04:28 2013]  mlog:Player ^0РаrkQµаkи, connected. With IP - 192.168.1.3:29071 
+[Sat Oct 12 15:04:45 2013]  ClientBegin: 0
+[Sat Oct 12 15:04:55 2013]  ClientDisconnect: 0
+[Sat Oct 12 15:04:55 2013]  ClientDisconnect: 0
+[Sat Oct 12 15:04:55 2013]  ClientConnect: 0
+[Sat Oct 12 15:04:55 2013]  mlog:Player ^0РаrkQµаkи, connected. With IP - 192.168.1.3:29071 
+[Sat Oct 12 15:05:01 2013]  ClientBegin: 0
+[Sat Oct 12 15:06:18 2013]  ShutdownGame:
+[Sat Oct 12 15:06:18 2013]  ------------------------------------------------------------
+[Sat Oct 12 15:06:18 2013]  ------------------------------------------------------------
+[Sat Oct 12 15:06:18 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Oct 12 15:06:20 2013]  ClientConnect: 0
+[Sat Oct 12 15:06:26 2013]  ClientBegin: 0
+[Sat Oct 12 15:08:01 2013]  say: ^0РаrkQµаkи: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0РаrkQµаkи
+[Sat Oct 12 15:08:02 2013]  say: ^0РаrkQµаkи: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Oct 12 15:08:58 2013]  say: ^0РаrkQµаkи: ^0ELEMENT SCRIPT V2 MODIFIED (Basis for V3) ^5By ^0РаrkQµаkи
+[Sat Oct 12 15:08:59 2013]  say: ^0РаrkQµаkи: ^6I call the four ^3elements: ^1Fire, ^5Air, ^4Water ^6and ^2Earth ^6to fight along side me!
+[Sat Oct 12 15:10:30 2013]  ClientDisconnect: 0
+[Sat Oct 12 16:08:25 2013]  ClientConnect: 0
+[Sat Oct 12 16:08:25 2013]  mlog:Player Padawan, connected. With IP - 109.47.0.26:-25227 
+[Sat Oct 12 16:11:46 2013]  ClientDisconnect: 0
+[Sat Oct 12 17:06:17 2013]  Exit: Timelimit hit.
+[Sat Oct 12 17:33:35 2013]  ClientConnect: 0
+[Sat Oct 12 17:33:35 2013]  mlog:Player Padawan, connected. With IP - 109.47.0.26:-22996 
+[Sat Oct 12 17:34:14 2013]  ClientBegin: 0
+[Sat Oct 12 17:34:22 2013]  ShutdownGame:
+[Sat Oct 12 17:34:22 2013]  ------------------------------------------------------------
+[Sat Oct 12 17:34:22 2013]  ------------------------------------------------------------
+[Sat Oct 12 17:34:22 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Oct 12 17:34:23 2013]  ClientConnect: 0
+[Sat Oct 12 17:34:48 2013]  ClientBegin: 0
+[Sat Oct 12 17:36:40 2013]  ClientDisconnect: 0
+[Sat Oct 12 17:36:40 2013]  ClientConnect: 0
+[Sat Oct 12 17:36:40 2013]  mlog:Player Padawan, connected. With IP - 109.47.0.26:-22996 
+[Sat Oct 12 17:37:20 2013]  ClientBegin: 0
+[Sat Oct 12 17:37:32 2013]  ClientDisconnect: 0
+[Sat Oct 12 17:45:09 2013]  ClientConnect: 0
+[Sat Oct 12 17:45:09 2013]  mlog:Player Padawan, connected. With IP - 109.47.0.26:-17999 
+[Sat Oct 12 17:45:23 2013]  ClientBegin: 0
+[Sat Oct 12 17:45:50 2013]  print "Padawan^7 @@@PLRENAME ^0Xe®a^2th
+"[Sat Oct 12 17:45:57 2013]  print "^0Xe®a^2th^7 @@@PLRENAME ^1Z^0eratul
+"[Sat Oct 12 17:48:06 2013]  ClientDisconnect: 0
+[Sat Oct 12 18:16:24 2013]  ClientConnect: 0
+[Sat Oct 12 18:16:24 2013]  mlog:Player Darth Deficente, connected. With IP - 46.151.136.8:29070 
+[Sat Oct 12 18:16:56 2013]  ClientBegin: 0
+[Sat Oct 12 18:18:49 2013]  Kill: 1022 0 38: <world> killed Deficente by MOD_FALLING
+[Sat Oct 12 18:19:08 2013]  ClientDisconnect: 0
+[Sat Oct 12 18:20:32 2013]  ClientConnect: 0
+[Sat Oct 12 18:20:32 2013]  mlog:Player ^0D^3ark ^0R^3eborn, connected. With IP - 83.166.208.200:-3437 
+[Sat Oct 12 18:20:41 2013]  ClientDisconnect: 0
+[Sat Oct 12 19:34:21 2013]  Exit: Timelimit hit.
+[Sun Oct 13 06:27:40 2013]  ClientConnect: 0
+[Sun Oct 13 06:27:40 2013]  mlog:Player 0^0^DARK, connected. With IP - 217.118.91.43:29347 
+[Sun Oct 13 06:27:58 2013]  ClientBegin: 0
+[Sun Oct 13 06:28:30 2013]  ShutdownGame:
+[Sun Oct 13 06:28:30 2013]  ------------------------------------------------------------

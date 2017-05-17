@@ -1,0 +1,201 @@
+[Thu May 08 12:46:18 2014]  ------------------------------------------------------------
+[Thu May 08 12:46:18 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu May 08 12:46:20 2014]  ClientConnect: 0
+[Thu May 08 12:46:20 2014]  ClientConnect: 1
+[Thu May 08 12:46:34 2014]  ClientBegin: 0
+[Thu May 08 12:46:37 2014]  ClientBegin: 1
+[Thu May 08 12:46:59 2014]  Kill: 0 1 3: Emil killed Padawan by MOD_SABER
+[Thu May 08 12:47:16 2014]  Kill: 1 0 3: Padawan killed Emil by MOD_SABER
+[Thu May 08 12:47:41 2014]  Kill: 1 0 3: Padawan killed Emil by MOD_SABER
+[Thu May 08 12:47:56 2014]  print "Emil^7 @@@PLRENAME Emi_ВЩС
+"[Thu May 08 12:48:44 2014]  print "Padawan^7 @@@PLRENAME Bokser*
+"[Thu May 08 12:48:53 2014]  print "Emi_ВЩС^7 @@@PLRENAME Emil_doc
+"[Thu May 08 12:48:55 2014]  Kill: 1 0 3: Bokser* killed Emil_doc by MOD_SABER
+[Thu May 08 12:49:23 2014]  Kill: 0 1 3: Emil_doc killed Bokser* by MOD_SABER
+[Thu May 08 12:50:01 2014]  ClientConnect: 2
+[Thu May 08 12:50:01 2014]  mlog:Player Lord_Rain, connected. With IP - 176.212.228.26:29070 
+[Thu May 08 12:50:25 2014]  ClientBegin: 2
+[Thu May 08 12:50:46 2014]  Kill: 2 0 31: Rainsss killed Emil_doc by MOD_FORCE_DARK
+[Thu May 08 12:50:59 2014]  Kill: 0 2 3: Emil_doc killed Rainsss by MOD_SABER
+[Thu May 08 12:51:23 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 12:51:31 2014]  Kill: 1 0 3: Bokser* killed Emil_doc by MOD_SABER
+[Thu May 08 12:51:43 2014]  Kill: 0 2 31: Emil_doc killed Rainsss by MOD_FORCE_DARK
+[Thu May 08 12:51:52 2014]  Kill: 2 0 3: Rainsss killed Emil_doc by MOD_SABER
+[Thu May 08 12:52:08 2014]  Kill: 2 1 31: Rainsss killed Bokser* by MOD_FORCE_DARK
+[Thu May 08 12:52:33 2014]  Kill: 1 0 3: Bokser* killed Emil_doc by MOD_SABER
+[Thu May 08 12:52:44 2014]  Kill: 2 0 3: Rainsss killed Emil_doc by MOD_SABER
+[Thu May 08 12:52:57 2014]  Kill: 1 2 3: Bokser* killed Rainsss by MOD_SABER
+[Thu May 08 12:53:43 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 12:53:53 2014]  Kill: 0 2 31: Emil_doc killed Rainsss by MOD_FORCE_DARK
+[Thu May 08 12:54:05 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 12:54:11 2014]  Kill: 2 0 31: Rainsss killed Emil_doc by MOD_FORCE_DARK
+[Thu May 08 12:54:22 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 12:55:26 2014]  Kill: 0 1 3: Emil_doc killed Bokser* by MOD_SABER
+[Thu May 08 12:58:46 2014]  Kill: 0 2 5: Emil_doc killed Rainsss by MOD_BRYAR_PISTOL_ALT
+[Thu May 08 12:59:00 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 12:59:08 2014]  Kill: 2 0 3: Rainsss killed Emil_doc by MOD_SABER
+[Thu May 08 12:59:41 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 13:00:05 2014]  Kill: 2 0 3: Rainsss killed Emil_doc by MOD_SABER
+[Thu May 08 13:00:29 2014]  ClientConnect: 3
+[Thu May 08 13:00:29 2014]  mlog:Player ^7Deus^1Encarmine, connected. With IP - 95.27.157.244:29070 
+[Thu May 08 13:00:37 2014]  Kill: 0 1 3: Emil_doc killed Bokser* by MOD_SABER
+[Thu May 08 13:00:37 2014]  Kill: 0 2 3: Emil_doc killed Rainsss by MOD_SABER
+[Thu May 08 13:00:52 2014]  ClientBegin: 3
+[Thu May 08 13:01:01 2014]  Kill: 2 0 31: Rainsss killed Emil_doc by MOD_FORCE_DARK
+[Thu May 08 13:01:15 2014]  Kill: 1 2 3: Bokser* killed Rainsss by MOD_SABER
+[Thu May 08 13:01:21 2014]  Kill: 3 3 39: ^7Deus^1Encarmine killed ^7Deus^1Encarmine by MOD_SUICIDE
+[Thu May 08 13:01:24 2014]  Kill: 2 0 3: Rainsss killed Emil_doc by MOD_SABER
+[Thu May 08 13:01:29 2014]  Item: 3 weapon_melee
+[Thu May 08 13:01:38 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 13:01:41 2014]  Kill: 2 0 3: Rainsss killed Emil_doc by MOD_SABER
+[Thu May 08 13:01:47 2014]  say: ^7Deus^1Encarmine: по русски говорим?
+[Thu May 08 13:01:51 2014]  say: Rainsss: Lf
+[Thu May 08 13:01:51 2014]  Kill: 1 2 3: Bokser* killed Rainsss by MOD_SABER
+[Thu May 08 13:01:54 2014]  say: Rainsss: Да
+[Thu May 08 13:01:58 2014]  say: ^7Deus^1Encarmine: хорошо
+[Thu May 08 13:01:58 2014]  say: Emil_doc: да
+[Thu May 08 13:01:59 2014]  Kill: 1 0 3: Bokser* killed Emil_doc by MOD_SABER
+[Thu May 08 13:02:02 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 13:03:02 2014]  Kill: 2 0 3: Rainsss killed Emil_doc by MOD_SABER
+[Thu May 08 13:03:09 2014]  Kill: 0 2 31: Emil_doc killed Rainsss by MOD_FORCE_DARK
+[Thu May 08 13:03:14 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 13:03:19 2014]  say: ^7Deus^1Encarmine: хотите секрет скажу?)
+[Thu May 08 13:03:22 2014]  say: Rainsss: Какой
+[Thu May 08 13:03:22 2014]  Kill: 1 2 5: Bokser* killed Rainsss by MOD_BRYAR_PISTOL_ALT
+[Thu May 08 13:03:28 2014]  say: ^7Deus^1Encarmine: /god в консоль :D
+[Thu May 08 13:03:48 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 13:04:15 2014]  Kill: 3 0 8: ^7Deus^1Encarmine killed Emil_doc by MOD_DISRUPTOR
+[Thu May 08 13:04:15 2014]  Kill: 1 2 5: Bokser* killed Rainsss by MOD_BRYAR_PISTOL_ALT
+[Thu May 08 13:04:19 2014]  say: Rainsss: Можешь клонов наспавнить?
+[Thu May 08 13:04:22 2014]  say: ^7Deus^1Encarmine: ага
+[Thu May 08 13:04:26 2014]  say: Rainsss: Давай)
+[Thu May 08 13:04:27 2014]  say: ^7Deus^1Encarmine: сами так то можете
+[Thu May 08 13:04:31 2014]  say: Rainsss: Неа)
+[Thu May 08 13:04:39 2014]  say: ^7Deus^1Encarmine: ...
+[Thu May 08 13:04:47 2014]  say: Rainsss: Ну я незнаю Как консоль открыть ...
+[Thu May 08 13:04:58 2014]  say: ^7Deus^1Encarmine: шифт + тильда
+[Thu May 08 13:04:59 2014]  Kill: 0 2 5: Emil_doc killed Rainsss by MOD_BRYAR_PISTOL_ALT
+[Thu May 08 13:05:04 2014]  say: ^7Deus^1Encarmine: /npc spawn stcommander
+[Thu May 08 13:05:06 2014]  say: ^7Deus^1Encarmine: и все
+[Thu May 08 13:05:35 2014]  Kill: 1022 0 20: <world> killed Emil_doc by MOD_ROCKET_SPLASH
+[Thu May 08 13:05:48 2014]  Kill: 1022 0 20: <world> killed Emil_doc by MOD_ROCKET_SPLASH
+[Thu May 08 13:06:04 2014]  Kill: 1022 0 20: <world> killed Emil_doc by MOD_ROCKET_SPLASH
+[Thu May 08 13:06:10 2014]  print "Bokser*^7 @@@PLRENAME Padawan
+"[Thu May 08 13:06:27 2014]  Kill: 1022 0 20: <world> killed Emil_doc by MOD_ROCKET_SPLASH
+[Thu May 08 13:06:42 2014]  Kill: 1022 0 19: <world> killed Emil_doc by MOD_ROCKET
+[Thu May 08 13:07:15 2014]  print "Padawan^7 @@@PLRENAME Bokser*
+"[Thu May 08 13:07:43 2014]  say: ^7Deus^1Encarmine: н>:)
+[Thu May 08 13:07:58 2014]  say: ^7Deus^1Encarmine: я щас вернусь
+[Thu May 08 13:08:01 2014]  ClientDisconnect: 3
+[Thu May 08 13:08:34 2014]  Kill: 2 0 3: Rainsss killed Emil_doc by MOD_SABER
+[Thu May 08 13:08:55 2014]  ClientConnect: 3
+[Thu May 08 13:08:55 2014]  mlog:Player ^7Deus^1Encarmine, connected. With IP - 95.27.157.244:29070 
+[Thu May 08 13:09:20 2014]  ClientBegin: 3
+[Thu May 08 13:09:35 2014]  Kill: 1 3 3: Bokser* killed ^7Deus^1Encarmine by MOD_SABER
+[Thu May 08 13:09:55 2014]  Item: 3 weapon_melee
+[Thu May 08 13:10:16 2014]  say: ^7Deus^1Encarmine: невежливо убивать игроков с чатом над головой
+[Thu May 08 13:11:01 2014]  say: ^7Deus^1Encarmine: :P
+[Thu May 08 13:11:46 2014]  Kill: 0 1 3: Emil_doc killed Bokser* by MOD_SABER
+[Thu May 08 13:11:56 2014]  say: ^7Deus^1Encarmine: на колени перед владыкой
+[Thu May 08 13:12:00 2014]  say: ^7Deus^1Encarmine: >:)
+[Thu May 08 13:12:01 2014]  Kill: 2 0 3: Rainsss killed Emil_doc by MOD_SABER
+[Thu May 08 13:12:08 2014]  Kill: 1 2 3: Bokser* killed Rainsss by MOD_SABER
+[Thu May 08 13:12:57 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 13:13:12 2014]  Kill: 1 2 3: Bokser* killed Rainsss by MOD_SABER
+[Thu May 08 13:13:34 2014]  Kill: 1 0 3: Bokser* killed Emil_doc by MOD_SABER
+[Thu May 08 13:13:44 2014]  say: ^7Deus^1Encarmine: скучные вы...
+[Thu May 08 13:13:47 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 13:13:53 2014]  say: Rainsss: Мы играем)
+[Thu May 08 13:13:56 2014]  say: ^7Deus^1Encarmine: я вижу)
+[Thu May 08 13:14:04 2014]  say: ^7Deus^1Encarmine: просто это мэйкермод, тут не так играют)
+[Thu May 08 13:14:05 2014]  say: Rainsss: жАль ты Джабу хата сделать не можешь(
+[Thu May 08 13:14:11 2014]  say: ^7Deus^1Encarmine: его нет в игре
+[Thu May 08 13:14:14 2014]  say: Rainsss: Я знаю(
+[Thu May 08 13:14:22 2014]  say: ^7Deus^1Encarmine: ну можно скачать при желании...
+[Thu May 08 13:14:26 2014]  say: Rainsss: )
+[Thu May 08 13:14:26 2014]  say: ^7Deus^1Encarmine: так
+[Thu May 08 13:14:31 2014]  say: ^7Deus^1Encarmine: щас то что я вызову не бить
+[Thu May 08 13:14:38 2014]  say: Rainsss: ок
+[Thu May 08 13:14:49 2014]  say: ^7Deus^1Encarmine: отойди
+[Thu May 08 13:14:54 2014]  say: Rainsss: КАК
+[Thu May 08 13:14:59 2014]  say: ^7Deus^1Encarmine: :D
+[Thu May 08 13:15:00 2014]  say: ^7Deus^1Encarmine: так
+[Thu May 08 13:15:06 2014]  say: ^7Deus^1Encarmine: он одноместный, сори
+[Thu May 08 13:15:20 2014]  say: ^7Deus^1Encarmine: ну попросил же не бить
+[Thu May 08 13:15:34 2014]  say: ^7Deus^1Encarmine: !olay
+[Thu May 08 13:15:41 2014]  say: ^7Deus^1Encarmine: !play
+[Thu May 08 13:15:48 2014]  say: Rainsss: !play
+[Thu May 08 13:15:53 2014]  Kill: 0 1 3: Emil_doc killed Bokser* by MOD_SABER
+[Thu May 08 13:15:57 2014]  say: ^7Deus^1Encarmine: у вас нету этого
+[Thu May 08 13:16:01 2014]  say: Rainsss: :C
+[Thu May 08 13:16:09 2014]  Kill: 1 2 3: Bokser* killed Rainsss by MOD_SABER
+[Thu May 08 13:16:14 2014]  say: ^7Deus^1Encarmine: мде, ну и анимация у меня...
+[Thu May 08 13:16:43 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 13:16:57 2014]  Kill: 2 0 3: Rainsss killed Emil_doc by MOD_SABER
+[Thu May 08 13:17:45 2014]  Kill: 1 2 3: Bokser* killed Rainsss by MOD_SABER
+[Thu May 08 13:17:59 2014]  say: Rainsss: о заспавни плз Ту тетку которая Марка Гагноса реснула
+[Thu May 08 13:18:00 2014]  Kill: 1022 1 3: <world> killed Bokser* by MOD_SABER
+[Thu May 08 13:18:01 2014]  say: Rainsss: если можешь
+[Thu May 08 13:18:07 2014]  say: ^7Deus^1Encarmine: этот сильнее
+[Thu May 08 13:18:08 2014]  Kill: 1022 0 3: <world> killed Emil_doc by MOD_SABER
+[Thu May 08 13:18:11 2014]  say: Rainsss: Ну плз
+[Thu May 08 13:18:49 2014]  Kill: 0 2 31: Emil_doc killed Rainsss by MOD_FORCE_DARK
+[Thu May 08 13:18:58 2014]  Kill: 1022 0 3: <world> killed Emil_doc by MOD_SABER
+[Thu May 08 13:19:31 2014]  Kill: 1022 0 3: <world> killed Emil_doc by MOD_SABER
+[Thu May 08 13:19:52 2014]  Kill: 2 1 31: Rainsss killed Bokser* by MOD_FORCE_DARK
+[Thu May 08 13:19:58 2014]  say: ^7Deus^1Encarmine: ^1MORE sculls for the Scull Throne!!!
+[Thu May 08 13:20:38 2014]  Kill: 2 0 31: Rainsss killed Emil_doc by MOD_FORCE_DARK
+[Thu May 08 13:20:47 2014]  Kill: 2 1 3: Rainsss killed Bokser* by MOD_SABER
+[Thu May 08 13:21:10 2014]  Kill: 2 0 3: Rainsss killed Emil_doc by MOD_SABER
+[Thu May 08 13:21:22 2014]  say: ^7Deus^1Encarmine: ^3Requesting ^3Orbital ^3Strike!
+[Thu May 08 13:21:31 2014]  Kill: 3 1 0: ^7Deus^1Encarmine killed Bokser* by MOD_UNKNOWN
+[Thu May 08 13:21:40 2014]  Kill: 0 2 3: Emil_doc killed Rainsss by MOD_SABER
+[Thu May 08 13:21:44 2014]  say: ^7Deus^1Encarmine: видели?)
+[Thu May 08 13:21:53 2014]  say: Emil_doc: да
+[Thu May 08 13:22:23 2014]  ClientDisconnect: 2
+[Thu May 08 13:22:30 2014]  ClientDisconnect: 1
+[Thu May 08 13:22:37 2014]  Kill: 3 0 6: ^7Deus^1Encarmine killed Emil_doc by MOD_BLASTER
+[Thu May 08 13:22:40 2014]  ClientDisconnect: 0
+[Thu May 08 13:22:43 2014]  say: ^7Deus^1Encarmine: ^5Facepalm...
+[Thu May 08 13:22:54 2014]  ClientDisconnect: 3
+[Thu May 08 14:46:17 2014]  Exit: Timelimit hit.
+[Thu May 08 14:57:21 2014]  ------------------------------------------------------------
+[Thu May 08 14:57:21 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu May 08 16:57:07 2014]  Exit: Timelimit hit.
+[Thu May 08 17:36:12 2014]  ClientConnect: 0
+[Thu May 08 17:36:12 2014]  mlog:Player Solo322, connected. With IP - 109.124.92.158:29070 
+[Thu May 08 17:40:17 2014]  ClientConnect: 1
+[Thu May 08 17:40:17 2014]  mlog:Player ^0»^1JavimetaЈ^0«, connected. With IP - 85.219.100.35:29070 
+[Thu May 08 17:41:18 2014]  ClientBegin: 1
+[Thu May 08 17:41:19 2014]  say: ^0D^4e^0a^4t^0h: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 16 ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Thu May 08 17:41:38 2014]  say: ^0D^4e^0a^4t^0h: ^0-= ^1hola? ^0=-
+[Thu May 08 17:41:48 2014]  ClientDisconnect: 1
+[Thu May 08 17:46:01 2014]  ClientDisconnect: 0
+[Thu May 08 20:42:06 2014]  ClientConnect: 0
+[Thu May 08 20:42:06 2014]  mlog:Player brendanjl, connected. With IP - 70.50.210.96:29070 
+[Thu May 08 20:42:46 2014]  ClientConnect: 1
+[Thu May 08 20:42:46 2014]  mlog:Player Tyler, connected. With IP - 99.226.232.175:29070 
+[Thu May 08 20:43:06 2014]  ClientBegin: 1
+[Thu May 08 20:43:09 2014]  ShutdownGame:
+[Thu May 08 20:43:09 2014]  ------------------------------------------------------------
+[Thu May 08 20:43:09 2014]  ------------------------------------------------------------
+[Thu May 08 20:43:09 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Thu May 08 20:43:10 2014]  ClientConnect: 0
+[Thu May 08 20:43:10 2014]  ClientConnect: 1
+[Thu May 08 20:43:21 2014]  ClientBegin: 1
+[Thu May 08 20:43:37 2014]  ClientDisconnect: 0
+[Thu May 08 20:44:11 2014]  ClientConnect: 0
+[Thu May 08 20:44:11 2014]  mlog:Player brendanjl, connected. With IP - 70.50.210.96:29070 
+[Thu May 08 20:44:15 2014]  ClientDisconnect: 0
+[Thu May 08 20:45:37 2014]  ClientConnect: 0
+[Thu May 08 20:45:37 2014]  mlog:Player brendanjl, connected. With IP - 70.50.210.96:29070 
+[Thu May 08 20:45:43 2014]  ClientDisconnect: 1
+[Thu May 08 20:46:32 2014]  ClientConnect: 1
+[Thu May 08 20:46:32 2014]  mlog:Player Tyler, connected. With IP - 99.226.232.175:29070 
+[Thu May 08 20:46:40 2014]  ClientBegin: 1
+[Thu May 08 20:48:13 2014]  ClientDisconnect: 1
+[Thu May 08 20:48:59 2014]  ClientDisconnect: 0
+[Thu May 08 22:36:55 2014]  ClientConnect: 0
+[Thu May 08 22:36:55 2014]  mlog:Player WhiteMagicRaven, connected. With IP - 37.55.242.158:29070 
+[Thu May 08 22:37:03 2014]  ClientDisconnect: 0
+[Thu May 08 22:43:08 2014]  Exit: Timelimit hit.

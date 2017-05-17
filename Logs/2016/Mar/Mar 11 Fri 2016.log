@@ -1,0 +1,100 @@
+[Fri Mar 11 16:07:21 2016]  ------------------------------------------------------------
+[Fri Mar 11 16:07:21 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Fri Mar 11 23:20:45 2016]  ClientConnect: 0
+[Fri Mar 11 23:20:45 2016]  mlog:Player Padawan, connected. With IP - 78.159.216.45:29070 
+[Fri Mar 11 23:20:53 2016]  ClientDisconnect: 0
+[Sat Mar 12 00:42:48 2016]  ClientConnect: 0
+[Sat Mar 12 00:42:48 2016]  mlog:Player Marihuanchick, connected. With IP - 95.54.76.29:29070 
+[Sat Mar 12 00:43:16 2016]  ClientBegin: 0
+[Sat Mar 12 00:43:46 2016]  print "Timmy Ren^7 @@@PLRENAME Marihuanych
+"[Sat Mar 12 00:45:27 2016]  say: Marihuanych: setforceall9
+[Sat Mar 12 00:46:28 2016]  ClientConnect: 1
+[Sat Mar 12 00:46:28 2016]  mlog:Player BABYLON420, connected. With IP - 95.52.19.216:29070 
+[Sat Mar 12 00:46:42 2016]  ClientBegin: 1
+[Sat Mar 12 00:47:18 2016]  print "SWAggERWAgON^7 @@@PLRENAME BABYLON420
+"[Sat Mar 12 00:47:46 2016]  Kill: 0 1 5: Marihuanych killed BABYLON420 by MOD_BRYAR_PISTOL_ALT
+[Sat Mar 12 00:47:49 2016]  say: BABYLON420: giveall
+[Sat Mar 12 00:47:52 2016]  say: BABYLON420: giveall
+[Sat Mar 12 00:48:56 2016]  ClientDisconnect: 1
+[Sat Mar 12 00:49:16 2016]  ClientDisconnect: 0
+[Sat Mar 12 07:50:02 2016]  ClientConnect: 0
+[Sat Mar 12 07:50:02 2016]  mlog:Player Padawan, connected. With IP - 178.121.48.4:-8198 
+[Sat Mar 12 07:51:15 2016]  ClientBegin: 0
+[Sat Mar 12 07:52:55 2016]  print "Padawan^7 @@@PLRENAME cccûöóê
+"[Sat Mar 12 07:56:19 2016]  ClientDisconnect: 0
+[Sat Mar 12 12:50:29 2016]  ClientConnect: 0
+[Sat Mar 12 12:50:29 2016]  mlog:Player Padawan, connected. With IP - 84.177.95.48:29070 
+[Sat Mar 12 12:51:08 2016]  ClientBegin: 0
+[Sat Mar 12 12:52:52 2016]  say: Heino Reiter (Story): npc spawn rebell
+[Sat Mar 12 12:57:35 2016]  ClientDisconnect: 0
+[Sat Mar 12 18:12:50 2016]  ClientConnect: 0
+[Sat Mar 12 18:12:50 2016]  mlog:Player Padawan, connected. With IP - 84.177.95.48:29070 
+[Sat Mar 12 18:13:30 2016]  ClientBegin: 0
+[Sat Mar 12 18:15:26 2016]  say: Heino Reiter (Story): giveall
+[Sat Mar 12 18:21:18 2016]  ClientDisconnect: 0
+[Sat Mar 12 18:36:18 2016]  ClientConnect: 0
+[Sat Mar 12 18:36:18 2016]  mlog:Player Padawan, connected. With IP - 84.177.95.48:29070 
+[Sat Mar 12 18:36:53 2016]  ClientBegin: 0
+[Sat Mar 12 18:40:41 2016]  ClientDisconnect: 0
+[Sun Mar 13 00:05:07 2016]  ClientConnect: 0
+[Sun Mar 13 00:05:07 2016]  mlog:Player endersteve1208, connected. With IP - 24.149.79.2:29070 
+[Sun Mar 13 00:05:41 2016]  ClientBegin: 0
+[Sun Mar 13 00:07:19 2016]  say: endersteve1208: /msaveobs
+[Sun Mar 13 00:07:25 2016]  say: endersteve1208: msaveobs
+[Sun Mar 13 00:07:52 2016]  say: endersteve1208: help
+[Sun Mar 13 00:07:55 2016]  say: endersteve1208: makemod
+[Sun Mar 13 00:08:50 2016]  Item: 0 ammo_all
+[Sun Mar 13 00:14:06 2016]  Item: 0 ammo_all
+[Sun Mar 13 00:14:15 2016]  say: endersteve1208: npc spawn galak_mech
+[Sun Mar 13 00:14:33 2016]  Kill: 0 0 39: endersteve1208 killed endersteve1208 by MOD_SUICIDE
+[Sun Mar 13 00:15:25 2016]  Kill: 0 0 39: endersteve1208 killed endersteve1208 by MOD_SUICIDE
+[Sun Mar 13 00:16:58 2016]  say: endersteve1208: npc spawn mutant_rancor
+[Sun Mar 13 00:19:49 2016]  say: endersteve1208: npc spawn reborn_new
+[Sun Mar 13 00:21:11 2016]  Kill: 1022 0 2: <world> killed endersteve1208 by MOD_MELEE
+[Sun Mar 13 00:22:21 2016]  Kill: 1022 0 3: <world> killed endersteve1208 by MOD_SABER
+[Sun Mar 13 00:22:30 2016]  say: endersteve1208: nocli[
+[Sun Mar 13 00:24:42 2016]  Kill: 0 0 39: endersteve1208 killed endersteve1208 by MOD_SUICIDE
+[Sun Mar 13 00:26:53 2016]  say: endersteve1208: killall ncp
+[Sun Mar 13 00:27:02 2016]  Kill: 0 0 39: endersteve1208 killed endersteve1208 by MOD_SUICIDE
+[Sun Mar 13 00:27:38 2016]  say: endersteve1208: npc kill all
+[Sun Mar 13 00:30:05 2016]  Kill: 1022 0 37: <world> killed endersteve1208 by MOD_TELEFRAG
+[Sun Mar 13 00:30:19 2016]  say: endersteve1208: npc spawn vehicle swoop
+[Sun Mar 13 00:30:48 2016]  say: endersteve1208: npc spawn vehicle swoop
+[Sun Mar 13 00:31:48 2016]  say: endersteve1208: npc spawn yoda
+[Sun Mar 13 00:33:02 2016]  Item: 0 ammo_all
+[Sun Mar 13 00:34:40 2016]  Item: 0 ammo_all
+[Sun Mar 13 00:34:59 2016]  Item: 0 ammo_all
+[Sun Mar 13 00:35:46 2016]  say: endersteve1208: npc kill all
+[Sun Mar 13 00:40:31 2016]  say: endersteve1208: npc kill all
+[Sun Mar 13 00:43:04 2016]  ClientDisconnect: 0
+[Sun Mar 13 18:13:02 2016]  ClientConnect: 0
+[Sun Mar 13 18:13:02 2016]  mlog:Player Idoru, connected. With IP - 95.91.247.126:5785 
+[Sun Mar 13 18:13:12 2016]  ClientDisconnect: 0
+[Mon Mar 14 17:40:45 2016]  ClientConnect: 0
+[Mon Mar 14 17:40:45 2016]  mlog:Player KöksalBaba^5'^7DT^4[^7OoF^4], connected. With IP - 176.232.20.232:29070 
+[Mon Mar 14 17:41:03 2016]  ClientBegin: 0
+[Mon Mar 14 17:45:39 2016]  ClientDisconnect: 0
+[Tue Mar 15 12:58:32 2016]  ClientConnect: 0
+[Tue Mar 15 12:58:32 2016]  mlog:Player Padawan, connected. With IP - 80.83.237.72:29070 
+[Tue Mar 15 12:58:32 2016]  ClientConnect: 1
+[Tue Mar 15 12:58:32 2016]  mlog:Player Padawan, connected. With IP - 80.83.237.72:18219 
+[Tue Mar 15 12:58:58 2016]  ClientBegin: 0
+[Tue Mar 15 12:59:03 2016]  ClientBegin: 1
+[Tue Mar 15 12:59:22 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Mar 15 13:00:28 2016]  Kill: 0 1 3: Padawan killed Padawan by MOD_SABER
+[Tue Mar 15 13:00:33 2016]  ClientDisconnect: 0
+[Tue Mar 15 13:00:39 2016]  ClientDisconnect: 1
+[Tue Mar 15 13:23:07 2016]  ClientConnect: 0
+[Tue Mar 15 13:23:07 2016]  mlog:Player apple, connected. With IP - 80.98.79.220:29070 
+[Tue Mar 15 13:23:16 2016]  ClientDisconnect: 0
+[Wed Mar 16 01:32:08 2016]  ClientConnect: 0
+[Wed Mar 16 01:32:08 2016]  mlog:Player Metalsonic, connected. With IP - 67.235.146.173:29070 
+[Wed Mar 16 01:33:13 2016]  ClientBegin: 0
+[Wed Mar 16 01:39:08 2016]  ClientDisconnect: 0
+[Thu Mar 17 00:33:14 2016]  ClientConnect: 0
+[Thu Mar 17 00:33:14 2016]  mlog:Player Foxmaster, connected. With IP - 84.3.139.189:29070 
+[Thu Mar 17 00:33:55 2016]  ClientBegin: 0
+[Thu Mar 17 00:39:47 2016]  ClientDisconnect: 0
+[Sat Mar 19 15:26:30 2016]  ClientConnect: 0
+[Sat Mar 19 15:26:30 2016]  mlog:Player ^0Ne Stinson, connected. With IP - 91.209.54.1:29070 
+[Sat Mar 19 15:29:51 2016]  ClientDisconnect: 0

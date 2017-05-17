@@ -1,0 +1,188 @@
+[Sat Sep 17 21:00:28 2016]  ------------------------------------------------------------
+[Sat Sep 17 21:00:28 2016]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Sep 17 21:05:13 2016]  ClientConnect: 0
+[Sat Sep 17 21:05:13 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.151.100:29070 
+[Sat Sep 17 21:05:31 2016]  ClientBegin: 0
+[Sat Sep 17 21:05:38 2016]  Item: 0 weapon_melee
+[Sat Sep 17 21:10:55 2016]  ClientConnect: 1
+[Sat Sep 17 21:10:55 2016]  mlog:Player Padawan, connected. With IP - 212.118.37.146:29070 
+[Sat Sep 17 21:11:59 2016]  ClientBegin: 1
+[Sat Sep 17 21:12:03 2016]  say: ^0Shadow^5seer: привет)
+[Sat Sep 17 21:12:17 2016]  say: ^2K^5eyten: привет)
+[Sat Sep 17 21:12:24 2016]  say: ^0Shadow^5seer: в общем мне это нагромождение деревьев и монитор не нравятся
+[Sat Sep 17 21:12:44 2016]  say: ^0Shadow^5seer: особенно монитор
+[Sat Sep 17 21:12:47 2016]  say: ^2K^5eyten: а, нет. я перепутал этот серв с другим похожим)
+[Sat Sep 17 21:12:52 2016]  say: ^2K^5eyten: отсда я ремап не брал
+[Sat Sep 17 21:13:06 2016]  say: ^0Shadow^5seer: ну тут он вроде раньше отличался
+[Sat Sep 17 21:13:24 2016]  say: ^0Shadow^5seer: а может и нет, не помню точно
+[Sat Sep 17 21:13:26 2016]  say: ^2K^5eyten: мм, деревья точно были
+[Sat Sep 17 21:13:28 2016]  say: ^2K^5eyten: и статуя
+[Sat Sep 17 21:13:46 2016]  Item: 1 weapon_melee
+[Sat Sep 17 21:13:48 2016]  say: ^0Shadow^5seer: деревья и статуя и у меня есть)
+[Sat Sep 17 21:14:13 2016]  say: ^2K^5eyten: ага
+[Sat Sep 17 21:14:16 2016]  say: ^0Shadow^5seer: а кое что тут и моего авторства есть
+[Sat Sep 17 21:14:19 2016]  say: ^2K^5eyten: я и забыл уже все)
+[Sat Sep 17 21:14:22 2016]  say: ^2K^5eyten: ух ты
+[Sat Sep 17 21:14:24 2016]  say: ^2K^5eyten: что?
+[Sat Sep 17 21:14:34 2016]  say: ^0Shadow^5seer: за порталом справа от спауна
+[Sat Sep 17 21:14:49 2016]  say: ^2K^5eyten: ваау
+[Sat Sep 17 21:14:53 2016]  say: ^2K^5eyten: я отвык от мейкера)
+[Sat Sep 17 21:14:56 2016]  say: ^0Shadow^5seer: тут только эффект на звезде хаоса не отображается
+[Sat Sep 17 21:15:34 2016]  say: ^0Shadow^5seer: он при сохранении в мапобс не отображается
+[Sat Sep 17 21:15:45 2016]  say: ^0Shadow^5seer: только после рестарта, но тогда исчезает ремап
+[Sat Sep 17 21:16:12 2016]  say: ^0Shadow^5seer: я б рестартнул и врубил ремап вручную, но у меня этого ремапа нет
+[Sat Sep 17 21:16:28 2016]  say: ^2K^5eyten: что-то все эффекты какие-то странные у меня сейчас)
+[Sat Sep 17 21:16:42 2016]  say: ^0Shadow^5seer: через голосование на смену карты рестартнул бы
+[Sat Sep 17 21:16:46 2016]  say: ^2K^5eyten: сейчас, перезайду с модулем
+[Sat Sep 17 21:16:51 2016]  ClientDisconnect: 1
+[Sat Sep 17 21:17:39 2016]  ClientConnect: 1
+[Sat Sep 17 21:17:39 2016]  mlog:Player Padawan, connected. With IP - 212.118.37.146:29070 
+[Sat Sep 17 21:18:24 2016]  ClientBegin: 1
+[Sat Sep 17 21:18:45 2016]  Item: 1 weapon_melee
+[Sat Sep 17 21:19:16 2016]  say: ^2K^5eyten: уф
+[Sat Sep 17 21:19:25 2016]  say: ^2K^5eyten: нормальные скрипты вернулись)
+[Sat Sep 17 21:19:43 2016]  say: ^2K^5eyten: msit
+[Sat Sep 17 21:19:58 2016]  say: ^2K^5eyten: зато команды стали писаться в консоль
+[Sat Sep 17 21:20:04 2016]  say: ^2K^5eyten: в опенжк такого нет
+[Sat Sep 17 21:21:56 2016]  say: ^0Shadow^5seer: я афк, поем и вернусь
+[Sat Sep 17 21:22:03 2016]  say: ^2K^5eyten: ок, давай)
+[Sat Sep 17 21:23:10 2016]  say: ^2K^5eyten: о, а тут лава
+[Sat Sep 17 21:24:16 2016]  Kill: 1022 1 38: <world> killed ^2K^5eyten by MOD_FALLING
+[Sat Sep 17 21:27:09 2016]  Kill: 1022 1 39: <world> killed ^2K^5eyten by MOD_SUICIDE
+[Sat Sep 17 21:30:53 2016]  Kill: 1 1 39: ^2K^5eyten killed ^2K^5eyten by MOD_SUICIDE
+[Sat Sep 17 21:31:33 2016]  say: ^2K^5eyten: mmark
+[Sat Sep 17 21:32:48 2016]  say: ^2K^5eyten: My origin is: (-17285 18285 1635) - You can teleport here with /mtelelast
+
+[Sat Sep 17 21:33:36 2016]  say: ^0Shadow^5seer: тут
+[Sat Sep 17 21:34:38 2016]  say: ^0Shadow^5seer: ооо, помню
+[Sat Sep 17 21:34:44 2016]  ClientConnect: 2
+[Sat Sep 17 21:34:44 2016]  mlog:Player ZerEX , connected. With IP - 94.21.89.146:29070 
+[Sat Sep 17 21:34:56 2016]  ClientConnect: 3
+[Sat Sep 17 21:34:56 2016]  mlog:Player Burgonya, connected. With IP - 194.38.118.193:29070 
+[Sat Sep 17 21:35:12 2016]  ClientBegin: 2
+[Sat Sep 17 21:35:20 2016]  ClientBegin: 3
+[Sat Sep 17 21:35:33 2016]  Kill: 0 3 37: ^0Shadow^5seer killed Padawan by MOD_TELEFRAG
+[Sat Sep 17 21:36:26 2016]  print "Padawan^7 @@@PLRENAME Nagyonkirбlyatapir
+"[Sat Sep 17 21:37:35 2016]  say: ZEREX: hi there m8
+[Sat Sep 17 21:39:12 2016]  Kill: 2 3 3: ZEREX killed Nagyonkirбlyatapir by MOD_SABER
+[Sat Sep 17 21:40:04 2016]  say: ^0Shadow^5seer: cmhere
+[Sat Sep 17 21:40:08 2016]  Kill: 3 2 31: Nagyonkirбlyatapir killed ZEREX by MOD_FORCE_DARK
+[Sat Sep 17 21:40:09 2016]  say: ZEREX: where?
+[Sat Sep 17 21:41:32 2016]  say: ZEREX: what are those powers?
+[Sat Sep 17 21:41:41 2016]  say: ^0Shadow^5seer: makermod cmds
+[Sat Sep 17 21:41:45 2016]  say: ZEREX: oh
+[Sat Sep 17 21:41:49 2016]  Kill: 1022 3 38: <world> killed Nagyonkirбlyatapir by MOD_FALLING
+[Sat Sep 17 21:42:35 2016]  Kill: 2 2 39: ZEREX killed ZEREX by MOD_SUICIDE
+[Sat Sep 17 21:43:57 2016]  Kill: 3 2 3: Nagyonkirбlyatapir killed ZEREX by MOD_SABER
+[Sat Sep 17 21:44:03 2016]  say: ^0Shadow^5seer: ^5Facepalm...
+[Sat Sep 17 21:44:22 2016]  say: ZEREX: nice moves 
+[Sat Sep 17 21:44:27 2016]  say: ZEREX: give into your anger
+[Sat Sep 17 21:44:31 2016]  say: ZEREX: give into your hate
+[Sat Sep 17 21:44:34 2016]  say: ZEREX: kill him
+[Sat Sep 17 21:44:41 2016]  say: ZEREX: and join the dark side
+[Sat Sep 17 21:46:07 2016]  Kill: 2 3 3: ZEREX killed Nagyonkirбlyatapir by MOD_SABER
+[Sat Sep 17 21:47:09 2016]  say: ZEREX: lad please could you teach him how to use the maker mod ? :3 i'm kinda lazy
+[Sat Sep 17 21:47:32 2016]  say: ^0Shadow^5seer: well its hard and its gonna take a long time
+[Sat Sep 17 21:47:39 2016]  say: ^0Shadow^5seer: and im lazy too
+[Sat Sep 17 21:47:42 2016]  say: ZEREX: sure he has a lot of time
+[Sat Sep 17 21:47:46 2016]  say: ^0Shadow^5seer: so not this time
+[Sat Sep 17 21:48:57 2016]  say: ^0Shadow^5seer: i can teach, but... i come here to play too, just like you, not to teach
+[Sat Sep 17 21:49:06 2016]  say: ZEREX: ok
+[Sat Sep 17 21:49:24 2016]  Kill: 2 2 39: ZEREX killed ZEREX by MOD_SUICIDE
+[Sat Sep 17 21:49:49 2016]  Kill: 0 2 36: ^0Shadow^5seer killed ZEREX by MOD_CRUSH
+[Sat Sep 17 21:49:51 2016]  say: ZEREX: lol
+[Sat Sep 17 21:50:04 2016]  say: ZEREX: stop using shamanism it's not fair 
+[Sat Sep 17 21:50:18 2016]  say: ^0Shadow^5seer: i wasnt going to kill u
+[Sat Sep 17 21:50:30 2016]  say: ^0Shadow^5seer: you just came too close in a wrong moment
+[Sat Sep 17 21:50:57 2016]  say: ^0Shadow^5seer: and makermod is not about whats fair, about killing each other etc
+[Sat Sep 17 21:51:03 2016]  say: ZEREX: so you didn't planned to kill me i was at the wrong place at the wrong time ? what the f*ck is this the frickin mafia?
+[Sat Sep 17 21:51:08 2016]  say: ^0Shadow^5seer: its for building
+[Sat Sep 17 21:51:43 2016]  say: ^0Shadow^5seer: i executed the script. then you approached
+[Sat Sep 17 21:51:54 2016]  say: ^0Shadow^5seer: and it was too late for me to stop
+[Sat Sep 17 21:52:10 2016]  say: ZEREX: ok 
+[Sat Sep 17 21:52:13 2016]  say: ZEREX: i forgive you
+[Sat Sep 17 21:52:16 2016]  say: ^0Shadow^5seer: and btw
+[Sat Sep 17 21:52:26 2016]  say: ^0Shadow^5seer: you could just use /god
+[Sat Sep 17 21:52:35 2016]  say: ZEREX: yeah
+[Sat Sep 17 21:52:43 2016]  say: ^0Shadow^5seer: it is fair here
+[Sat Sep 17 21:53:04 2016]  say: ^0Shadow^5seer: and /mempower
+[Sat Sep 17 21:53:07 2016]  Kill: 2 3 21: ZEREX killed Nagyonkirбlyatapir by MOD_ROCKET_HOMING
+[Sat Sep 17 21:53:20 2016]  say: ^2K^5eyten: lol
+[Sat Sep 17 21:53:24 2016]  Kill: 2 2 39: ZEREX killed ZEREX by MOD_SUICIDE
+[Sat Sep 17 21:53:25 2016]  say: ^2K^5eyten: Hi, Zerex
+[Sat Sep 17 21:53:27 2016]  say: ^0Shadow^5seer: c djpdhfotybtv
+[Sat Sep 17 21:53:32 2016]  say: ZEREX: hi
+[Sat Sep 17 21:53:32 2016]  say: ^0Shadow^5seer: с возвращением
+[Sat Sep 17 21:53:41 2016]  say: ^2K^5eyten: спасибо)
+[Sat Sep 17 21:53:51 2016]  say: ^0Shadow^5seer: чето тут не так
+[Sat Sep 17 21:53:54 2016]  say: ^2K^5eyten: ага
+[Sat Sep 17 21:53:58 2016]  say: ^2K^5eyten: нужно все поднять)\
+[Sat Sep 17 21:54:16 2016]  say: ^0Shadow^5seer: отошел
+[Sat Sep 17 21:55:49 2016]  say: ^0Shadow^5seer: зацени кое что новенькое
+[Sat Sep 17 21:56:00 2016]  say: ^0Shadow^5seer: My origin is: (-8228 -19936 1952) - You can teleport here with /mtelelast
+
+[Sat Sep 17 21:56:47 2016]  say: ^2K^5eyten: ух ты
+[Sat Sep 17 21:56:48 2016]  say: ^0Shadow^5seer: вперед
+[Sat Sep 17 21:57:07 2016]  say: ^2K^5eyten: вау
+[Sat Sep 17 21:57:27 2016]  say: ^0Shadow^5seer: ну домик старый, а вот все вокруг...
+[Sat Sep 17 21:57:33 2016]  say: ^2K^5eyten: ага, домик помню, да)
+[Sat Sep 17 21:59:37 2016]  say: ^2K^5eyten: круто, да)
+[Sat Sep 17 22:00:25 2016]  say: ^2K^5eyten: ладно, извини, мне тут пора, так что я убежал)
+[Sat Sep 17 22:00:48 2016]  ClientDisconnect: 1
+[Sat Sep 17 22:02:16 2016]  Kill: 1022 2 2: <world> killed ZEREX by MOD_MELEE
+[Sat Sep 17 22:04:03 2016]  Kill: 2 3 20: ZEREX killed Nagyonkirбlyatapir by MOD_ROCKET_SPLASH
+[Sat Sep 17 22:06:34 2016]  say: ZEREX: hey there
+[Sat Sep 17 22:06:41 2016]  say: ZEREX: pls get back for your own sake
+[Sat Sep 17 22:06:51 2016]  say: ^0Shadow^5seer: lol
+[Sat Sep 17 22:06:57 2016]  say: ^0Shadow^5seer: it wont hurt me
+[Sat Sep 17 22:07:28 2016]  Kill: 0 3 36: ^0Shadow^5seer killed Nagyonkirбlyatapir by MOD_CRUSH
+[Sat Sep 17 22:09:13 2016]  Kill: 1022 3 3: <world> killed Nagyonkirбlyatapir by MOD_SABER
+[Sat Sep 17 22:14:00 2016]  Kill: 1022 3 3: <world> killed Nagyonkirбlyatapir by MOD_SABER
+[Sat Sep 17 22:14:52 2016]  Kill: 1022 3 3: <world> killed Nagyonkirбlyatapir by MOD_SABER
+[Sat Sep 17 22:17:25 2016]  say: ZEREX: dude
+[Sat Sep 17 22:17:37 2016]  say: ZEREX: i don't remember how can i spawn a swooper?
+[Sat Sep 17 22:17:50 2016]  say: ^0Shadow^5seer: npa cpswn vehicle swoop_mp
+[Sat Sep 17 22:17:53 2016]  Item: 0 ammo_all
+[Sat Sep 17 22:17:53 2016]  say: ^0Shadow^5seer: npc*
+[Sat Sep 17 22:17:54 2016]  say: ZEREX: thx
+[Sat Sep 17 22:17:57 2016]  say: ^0Shadow^5seer: spawn
+[Sat Sep 17 22:18:00 2016]  say: ^0Shadow^5seer: damn
+[Sat Sep 17 22:18:40 2016]  say: ZEREX: that doesn't work
+[Sat Sep 17 22:18:56 2016]  say: ^0Shadow^5seer: here
+[Sat Sep 17 22:19:11 2016]  Kill: 0 3 0: ^0Shadow^5seer killed Nagyonkirбlyatapir by MOD_UNKNOWN
+[Sat Sep 17 22:19:25 2016]  say: ZEREX: nice
+[Sat Sep 17 22:20:01 2016]  say: ZEREX: im stuck 
+[Sat Sep 17 22:20:05 2016]  Kill: 2 2 39: ZEREX killed ZEREX by MOD_SUICIDE
+[Sat Sep 17 22:20:11 2016]  say: ^0Shadow^5seer: should have aimed higher
+[Sat Sep 17 22:20:23 2016]  Kill: 1022 3 39: <world> killed Nagyonkirбlyatapir by MOD_SUICIDE
+[Sat Sep 17 22:20:35 2016]  say: ^0Shadow^5seer: when spawning
+[Sat Sep 17 22:22:06 2016]  Kill: 1022 3 39: <world> killed Nagyonkirбlyatapir by MOD_SUICIDE
+[Sat Sep 17 22:24:00 2016]  Kill: 0 3 3: ^0Shadow^5seer killed Nagyonkirбlyatapir by MOD_SABER
+[Sat Sep 17 22:25:21 2016]  Kill: 0 3 2: ^0Shadow^5seer killed Nagyonkirбlyatapir by MOD_MELEE
+[Sat Sep 17 22:25:30 2016]  say: ZEREX: pls m8
+[Sat Sep 17 22:25:34 2016]  say: ZEREX: stop killing him
+[Sat Sep 17 22:25:43 2016]  say: ^0Shadow^5seer: it was an accident
+[Sat Sep 17 22:25:51 2016]  say: ^0Shadow^5seer: he should have used god
+[Sat Sep 17 22:26:04 2016]  say: ZEREX: yeah it looked like an accident Kappa
+[Sat Sep 17 22:26:39 2016]  Kill: 2 2 39: ZEREX killed ZEREX by MOD_SUICIDE
+[Sat Sep 17 22:27:16 2016]  say: ^0Shadow^5seer: did u know u can return to spawn without killing youself?
+[Sat Sep 17 22:28:33 2016]  Kill: 2 3 31: ZEREX killed Nagyonkirбlyatapir by MOD_FORCE_DARK
+[Sat Sep 17 22:29:06 2016]  Kill: 2 2 39: ZEREX killed ZEREX by MOD_SUICIDE
+[Sat Sep 17 22:37:01 2016]  ClientDisconnect: 3
+[Sat Sep 17 22:37:03 2016]  ClientDisconnect: 2
+[Sat Sep 17 22:37:27 2016]  ClientDisconnect: 0
+[Sun Sep 18 00:27:09 2016]  ClientConnect: 0
+[Sun Sep 18 00:27:09 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.151.100:29070 
+[Sun Sep 18 00:27:33 2016]  ClientBegin: 0
+[Sun Sep 18 00:27:40 2016]  Item: 0 weapon_melee
+[Sun Sep 18 00:33:52 2016]  ClientDisconnect: 0
+[Sun Sep 18 00:33:52 2016]  ClientDisconnect: 0
+[Sun Sep 18 00:33:52 2016]  ClientConnect: 0
+[Sun Sep 18 00:33:52 2016]  mlog:Player ^0Shadow^5seer, connected. With IP - 178.66.151.100:29070 
+[Sun Sep 18 00:34:04 2016]  ClientBegin: 0
+[Sun Sep 18 00:40:14 2016]  ClientDisconnect: 0
+[Sun Sep 18 01:13:48 2016]  ClientConnect: 0
+[Sun Sep 18 01:13:48 2016]  mlog:Player ^0Раrk^2^1Qµаkи, connected. With IP - 192.168.1.2:29071 
+[Sun Sep 18 01:14:23 2016]  ClientBegin: 0
+[Sun Sep 18 01:23:36 2016]  ShutdownGame:
+[Sun Sep 18 01:23:36 2016]  ------------------------------------------------------------

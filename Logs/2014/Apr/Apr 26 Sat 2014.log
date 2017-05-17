@@ -1,0 +1,71 @@
+[Sat Apr 26 01:36:43 2014]  ------------------------------------------------------------
+[Sat Apr 26 01:36:43 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\1\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Apr 26 03:36:37 2014]  Exit: Timelimit hit.
+[Sat Apr 26 07:09:08 2014]  ClientConnect: 0
+[Sat Apr 26 07:09:08 2014]  mlog:Player Astra, connected. With IP - 87.155.218.45:29070 
+[Sat Apr 26 07:09:30 2014]  ClientBegin: 0
+[Sat Apr 26 07:09:50 2014]  ShutdownGame:
+[Sat Apr 26 07:09:50 2014]  ------------------------------------------------------------
+[Sat Apr 26 07:09:52 2014]  ------------------------------------------------------------
+[Sat Apr 26 07:09:52 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sat Apr 26 07:09:53 2014]  ClientConnect: 0
+[Sat Apr 26 07:09:56 2014]  ClientConnect: 1
+[Sat Apr 26 07:09:56 2014]  mlog:Player ^7^1TK-^0^72439, connected. With IP - 75.94.222.14:29070 
+[Sat Apr 26 07:10:03 2014]  ClientBegin: 0
+[Sat Apr 26 07:10:24 2014]  ClientBegin: 1
+[Sat Apr 26 07:10:30 2014]  say: Astra: hi
+[Sat Apr 26 07:10:36 2014]  say: ^7^1TK-^0^72439: ^1Hello.
+[Sat Apr 26 07:10:54 2014]  say: ^7^1TK-^0^72439: .
+[Sat Apr 26 07:11:12 2014]  say: ^7^1TK-^0^72439: Where are you located?
+[Sat Apr 26 07:11:23 2014]  say: Astra: i search u
+[Sat Apr 26 07:11:28 2014]  say: ^7^1TK-^0^72439: wait
+[Sat Apr 26 07:11:31 2014]  say: ^7^1TK-^0^72439: how about
+[Sat Apr 26 07:11:34 2014]  say: ^7^1TK-^0^72439: I build you a quest?
+[Sat Apr 26 07:11:35 2014]  say: ^7^1TK-^0^72439: hm?
+[Sat Apr 26 07:11:41 2014]  say: Astra: O_o
+[Sat Apr 26 07:11:45 2014]  say: Astra: u are the builder here?
+[Sat Apr 26 07:11:47 2014]  say: ^7^1TK-^0^72439: I can make an entire mission
+[Sat Apr 26 07:11:49 2014]  say: ^7^1TK-^0^72439: yes
+[Sat Apr 26 07:11:51 2014]  say: ^7^1TK-^0^72439: i am.
+[Sat Apr 26 07:11:56 2014]  say: Astra: of all? :D
+[Sat Apr 26 07:12:03 2014]  say: ^7^1TK-^0^72439: go to the rancor place
+[Sat Apr 26 07:12:24 2014]  say: Astra: the falcon
+[Sat Apr 26 07:12:43 2014]  say: ^7^1TK-^0^72439: ^1fight the rancor
+[Sat Apr 26 07:12:54 2014]  say: ^7^1TK-^0^72439: ^1then fight the mercs
+[Sat Apr 26 07:13:02 2014]  say: Astra: the rancor was here before
+[Sat Apr 26 07:14:25 2014]  Kill: 1022 1 2: <world> killed ^7^1TK-^0^72439 by MOD_MELEE
+[Sat Apr 26 07:14:47 2014]  say: Astra: playermodel jedi
+[Sat Apr 26 07:14:54 2014]  say: Astra: mhm
+[Sat Apr 26 07:14:54 2014]  say: ^7^1TK-^0^72439: this is not single player.
+[Sat Apr 26 07:14:58 2014]  say: Astra: :D
+[Sat Apr 26 07:15:04 2014]  say: Astra: no skin xD
+[Sat Apr 26 07:15:21 2014]  say: ^7^1TK-^0^72439: stand still
+[Sat Apr 26 07:15:22 2014]  say: Astra: u like lugormod too?
+[Sat Apr 26 07:15:33 2014]  say: ^7^1TK-^0^72439: this isn't lugor mod
+[Sat Apr 26 07:15:42 2014]  say: ^7^1TK-^0^72439: My origin is: (-2535 -813 -477) - You can teleport here with /mtelelast
+
+[Sat Apr 26 07:15:47 2014]  Kill: 1 0 37: ^7^1TK-^0^72439 killed Astra by MOD_TELEFRAG
+[Sat Apr 26 07:15:53 2014]  say: Astra: :P
+[Sat Apr 26 07:16:54 2014]  Item: 1 weapon_blaster
+[Sat Apr 26 07:16:54 2014]  Item: 1 weapon_blaster
+[Sat Apr 26 07:17:15 2014]  say: ^7^1TK-^0^72439: you are going to crash teh server
+[Sat Apr 26 07:17:16 2014]  say: ^7^1TK-^0^72439: retard.
+[Sat Apr 26 07:17:18 2014]  say: ^7^1TK-^0^72439: im out.
+[Sat Apr 26 07:17:19 2014]  say: ^7^1TK-^0^72439: noob
+[Sat Apr 26 07:17:22 2014]  ClientDisconnect: 1
+[Sat Apr 26 07:18:09 2014]  ClientDisconnect: 0
+[Sat Apr 26 09:09:50 2014]  Exit: Timelimit hit.
+[Sat Apr 26 16:19:07 2014]  ClientConnect: 0
+[Sat Apr 26 16:19:07 2014]  mlog:Player DesmondTheMoonbear, connected. With IP - 37.201.149.170:29070 
+[Sat Apr 26 16:23:17 2014]  ClientDisconnect: 0
+[Sun Apr 27 22:40:43 2014]  ClientConnect: 0
+[Sun Apr 27 22:40:43 2014]  mlog:Player WhiteMagicRaven, connected. With IP - 95.132.255.52:29070 
+[Sun Apr 27 22:40:53 2014]  ClientDisconnect: 0
+[Mon Apr 28 19:56:49 2014]  ClientConnect: 0
+[Mon Apr 28 19:56:49 2014]  mlog:Player WhiteMagicRaven, connected. With IP - 92.113.197.2:29070 
+[Mon Apr 28 19:56:57 2014]  ClientDisconnect: 0
+[Mon Apr 28 20:50:33 2014]  ClientConnect: 0
+[Mon Apr 28 20:50:33 2014]  mlog:Player Padawan, connected. With IP - 68.189.241.16:29070 
+[Mon Apr 28 20:51:35 2014]  ClientBegin: 0
+[Mon Apr 28 20:52:02 2014]  ShutdownGame:
+[Mon Apr 28 20:52:02 2014]  ------------------------------------------------------------

@@ -1,0 +1,124 @@
+[Sun Jul 27 01:11:15 2014]  ------------------------------------------------------------
+[Sun Jul 27 01:11:15 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jul 27 01:11:17 2014]  ClientConnect: 0
+[Sun Jul 27 01:11:34 2014]  ClientBegin: 0
+[Sun Jul 27 01:17:39 2014]  ClientDisconnect: 0
+[Sun Jul 27 01:23:55 2014]  ClientConnect: 0
+[Sun Jul 27 01:23:55 2014]  mlog:Player Padawan, connected. With IP - 68.198.229.87:29070 
+[Sun Jul 27 01:24:13 2014]  ClientBegin: 0
+[Sun Jul 27 01:25:35 2014]  print "Padawan^7 @@@PLRENAME JEPI
+"[Sun Jul 27 01:27:49 2014]  Kill: 0 0 39: JEPI killed JEPI by MOD_SUICIDE
+[Sun Jul 27 01:27:49 2014]  setteam:  0 FREE SPECTATOR
+[Sun Jul 27 01:27:49 2014]  ClientBegin: 0
+[Sun Jul 27 01:28:13 2014]  setteam:  0 SPECTATOR FREE
+[Sun Jul 27 01:28:13 2014]  ClientBegin: 0
+[Sun Jul 27 01:29:38 2014]  ClientConnect: 1
+[Sun Jul 27 01:29:38 2014]  mlog:Player Padawan, connected. With IP - 173.63.187.6:29070 
+[Sun Jul 27 01:29:54 2014]  ClientBegin: 1
+[Sun Jul 27 01:30:08 2014]  Kill: 0 0 39: JEPI killed JEPI by MOD_SUICIDE
+[Sun Jul 27 01:30:08 2014]  setteam:  0 FREE SPECTATOR
+[Sun Jul 27 01:30:08 2014]  ClientBegin: 0
+[Sun Jul 27 01:30:17 2014]  setteam:  0 SPECTATOR FREE
+[Sun Jul 27 01:30:17 2014]  ClientBegin: 0
+[Sun Jul 27 01:31:47 2014]  Kill: 1 0 3: Padawan killed JEPI by MOD_SABER
+[Sun Jul 27 01:31:56 2014]  Kill: 1 0 3: Padawan killed JEPI by MOD_SABER
+[Sun Jul 27 01:32:05 2014]  Kill: 1 0 3: Padawan killed JEPI by MOD_SABER
+[Sun Jul 27 01:32:15 2014]  Kill: 0 1 3: JEPI killed Padawan by MOD_SABER
+[Sun Jul 27 01:32:25 2014]  Kill: 1 0 3: Padawan killed JEPI by MOD_SABER
+[Sun Jul 27 01:33:13 2014]  Kill: 0 1 3: JEPI killed Padawan by MOD_SABER
+[Sun Jul 27 01:33:38 2014]  Kill: 1 0 3: Padawan killed JEPI by MOD_SABER
+[Sun Jul 27 01:33:51 2014]  Kill: 1 0 3: Padawan killed JEPI by MOD_SABER
+[Sun Jul 27 01:34:01 2014]  Kill: 1 0 3: Padawan killed JEPI by MOD_SABER
+[Sun Jul 27 01:34:16 2014]  Kill: 1 0 3: Padawan killed JEPI by MOD_SABER
+[Sun Jul 27 01:34:22 2014]  Kill: 1 0 3: Padawan killed JEPI by MOD_SABER
+[Sun Jul 27 01:34:29 2014]  ClientDisconnect: 0
+[Sun Jul 27 01:39:13 2014]  ClientDisconnect: 1
+[Sun Jul 27 03:11:14 2014]  Exit: Timelimit hit.
+[Sun Jul 27 05:10:00 2014]  ClientConnect: 0
+[Sun Jul 27 05:10:00 2014]  mlog:Player ^3(J.N.R)^7Carlos(J.G.L), connected. With IP - 186.137.0.81:29071 
+[Sun Jul 27 05:10:16 2014]  ClientConnect: 1
+[Sun Jul 27 05:10:16 2014]  mlog:Player ^3(J.N.R)^0S^1e^0b^1a^4(C2), connected. With IP - 190.55.47.176:-3305 
+[Sun Jul 27 05:10:19 2014]  ClientBegin: 0
+[Sun Jul 27 05:10:24 2014]  ShutdownGame:
+[Sun Jul 27 05:10:24 2014]  ------------------------------------------------------------
+[Sun Jul 27 05:10:25 2014]  ------------------------------------------------------------
+[Sun Jul 27 05:10:25 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jul 27 05:10:25 2014]  ClientConnect: 0
+[Sun Jul 27 05:10:25 2014]  ClientConnect: 1
+[Sun Jul 27 05:10:39 2014]  ClientBegin: 0
+[Sun Jul 27 05:11:21 2014]  ClientBegin: 1
+[Sun Jul 27 05:11:27 2014]  say: ^3(J.N.R)^0S^1e^0b^1a^4(C2): XD
+[Sun Jul 27 05:11:41 2014]  say: ^3(J.N.R)^7Carlos(J.G.L): ayudame con esta puerta
+[Sun Jul 27 05:11:45 2014]  say: ^3(J.N.R)^0S^1e^0b^1a^4(C2): xd
+[Sun Jul 27 05:12:53 2014]  say: ^3(J.N.R)^7Carlos(J.G.L): xd
+[Sun Jul 27 05:12:55 2014]  say: ^3(J.N.R)^0S^1e^0b^1a^4(C2): xd
+[Sun Jul 27 05:13:00 2014]  say: ^3(J.N.R)^0S^1e^0b^1a^4(C2): XD
+[Sun Jul 27 05:13:08 2014]  say: ^3(J.N.R)^7Carlos(J.G.L): chan
+[Sun Jul 27 05:13:16 2014]  say: ^3(J.N.R)^0S^1e^0b^1a^4(C2): el rancon chan
+[Sun Jul 27 05:13:23 2014]  say: ^3(J.N.R)^7Carlos(J.G.L): My origin is: (-7812 -1094 -487) - You can teleport here with /mtelelast
+
+[Sun Jul 27 05:14:05 2014]  say: ^3(J.N.R)^7Carlos(J.G.L): xd
+[Sun Jul 27 05:14:07 2014]  say: ^3(J.N.R)^0S^1e^0b^1a^4(C2): xd
+[Sun Jul 27 05:14:09 2014]  say: ^3(J.N.R)^7Carlos(J.G.L): vemaos si lo tiene
+[Sun Jul 27 05:14:12 2014]  say: ^3(J.N.R)^0S^1e^0b^1a^4(C2): no
+[Sun Jul 27 05:14:14 2014]  say: ^3(J.N.R)^0S^1e^0b^1a^4(C2): se permiten
+[Sun Jul 27 05:14:17 2014]  say: ^3(J.N.R)^0S^1e^0b^1a^4(C2): votaciones xd
+[Sun Jul 27 05:14:20 2014]  say: ^3(J.N.R)^7Carlos(J.G.L): vemoas otro sv
+[Sun Jul 27 05:14:26 2014]  say: ^3(J.N.R)^7Carlos(J.G.L): ya me asusta estar aca
+[Sun Jul 27 05:14:29 2014]  say: ^3(J.N.R)^0S^1e^0b^1a^4(C2): xD
+[Sun Jul 27 05:14:32 2014]  ClientDisconnect: 0
+[Sun Jul 27 05:14:35 2014]  ClientDisconnect: 1
+[Sun Jul 27 07:10:23 2014]  Exit: Timelimit hit.
+[Sun Jul 27 13:54:11 2014]  ClientConnect: 0
+[Sun Jul 27 13:54:11 2014]  mlog:Player ^0Ownage, connected. With IP - 82.14.72.76:29070 
+[Sun Jul 27 13:54:22 2014]  ClientBegin: 0
+[Sun Jul 27 13:54:25 2014]  ShutdownGame:
+[Sun Jul 27 13:54:25 2014]  ------------------------------------------------------------
+[Sun Jul 27 13:54:25 2014]  ------------------------------------------------------------
+[Sun Jul 27 13:54:25 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jul 27 13:54:27 2014]  ClientConnect: 0
+[Sun Jul 27 13:54:38 2014]  ClientBegin: 0
+[Sun Jul 27 14:05:04 2014]  Kill: 1022 0 2: <world> killed ^0Ownage by MOD_MELEE
+[Sun Jul 27 14:05:24 2014]  Kill: 1022 0 6: <world> killed ^0Ownage by MOD_BLASTER
+[Sun Jul 27 14:05:53 2014]  ClientDisconnect: 0
+[Sun Jul 27 15:26:27 2014]  ClientConnect: 0
+[Sun Jul 27 15:26:27 2014]  mlog:Player Padawan, connected. With IP - 31.46.105.249:29070 
+[Sun Jul 27 15:27:17 2014]  ClientBegin: 0
+[Sun Jul 27 15:27:33 2014]  print "Padawan^7 @@@PLRENAME ^3J^7anek^3.
+"[Sun Jul 27 15:37:29 2014]  ClientDisconnect: 0
+[Sun Jul 27 15:54:24 2014]  Exit: Timelimit hit.
+[Sun Jul 27 16:03:18 2014]  ClientConnect: 0
+[Sun Jul 27 16:03:18 2014]  mlog:Player Padawan, connected. With IP - 201.253.217.150:29070 
+[Sun Jul 27 16:04:09 2014]  ClientBegin: 0
+[Sun Jul 27 16:04:16 2014]  print "^3(J.N.R)^1José^5(J.C.L)^7 @@@PLRENAME Padawan
+"[Sun Jul 27 16:04:18 2014]  ShutdownGame:
+[Sun Jul 27 16:04:18 2014]  ------------------------------------------------------------
+[Sun Jul 27 16:04:20 2014]  ------------------------------------------------------------
+[Sun Jul 27 16:04:20 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jul 27 16:04:21 2014]  ClientConnect: 0
+[Sun Jul 27 16:04:41 2014]  ClientBegin: 0
+[Sun Jul 27 16:12:31 2014]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Jul 27 16:18:54 2014]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Jul 27 16:20:17 2014]  say: Padawan: My origin is: (-2147483648 -2147483648 -2147483648) - You can teleport here with /mtelelast
+
+[Sun Jul 27 16:20:18 2014]  say: Padawan: My origin is: (-2147483648 -2147483648 -2147483648) - You can teleport here with /mtelelast
+
+[Sun Jul 27 16:20:19 2014]  say: Padawan: My origin is: (-2147483648 -2147483648 -2147483648) - You can teleport here with /mtelelast
+
+[Sun Jul 27 16:20:19 2014]  say: Padawan: My origin is: (-2147483648 -2147483648 -2147483648) - You can teleport here with /mtelelast
+
+[Sun Jul 27 16:20:20 2014]  say: Padawan: My origin is: (-2147483648 -2147483648 -2147483648) - You can teleport here with /mtelelast
+
+[Sun Jul 27 16:20:20 2014]  say: Padawan: My origin is: (-2147483648 -2147483648 -2147483648) - You can teleport here with /mtelelast
+
+[Sun Jul 27 16:25:04 2014]  ClientDisconnect: 0
+[Sun Jul 27 18:04:18 2014]  Exit: Timelimit hit.
+[Mon Jul 28 02:04:43 2014]  ClientConnect: 0
+[Mon Jul 28 02:04:43 2014]  mlog:Player Padawan, connected. With IP - 89.241.132.118:23713 
+[Mon Jul 28 02:04:47 2014]  ClientConnect: 1
+[Mon Jul 28 02:04:47 2014]  mlog:Player Padawan, connected. With IP - 2.96.159.248:29070 
+[Mon Jul 28 02:04:53 2014]  ClientBegin: 0
+[Mon Jul 28 02:05:02 2014]  ClientBegin: 1
+[Mon Jul 28 02:05:26 2014]  print "Padawan^7 @@@PLRENAME Gemmy
+"[Mon Jul 28 02:05:55 2014]  ShutdownGame:
+[Mon Jul 28 02:05:55 2014]  ------------------------------------------------------------

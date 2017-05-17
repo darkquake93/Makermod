@@ -1,0 +1,471 @@
+[Wed Oct 16 01:17:00 2013]  ------------------------------------------------------------
+[Wed Oct 16 01:17:00 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 16 01:17:02 2013]  ClientConnect: 0
+[Wed Oct 16 01:17:22 2013]  ClientBegin: 0
+[Wed Oct 16 01:21:52 2013]  ClientDisconnect: 0
+[Wed Oct 16 01:21:53 2013]  ClientDisconnect: 0
+[Wed Oct 16 01:21:53 2013]  ClientConnect: 0
+[Wed Oct 16 01:21:53 2013]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.247.110:29070 
+[Wed Oct 16 01:22:04 2013]  ClientBegin: 0
+[Wed Oct 16 01:22:19 2013]  ClientDisconnect: 0
+[Wed Oct 16 03:17:00 2013]  Exit: Timelimit hit.
+[Wed Oct 16 11:48:17 2013]  ClientConnect: 0
+[Wed Oct 16 11:48:17 2013]  mlog:Player Padawan, connected. With IP - 91.207.67.213:29070 
+[Wed Oct 16 11:48:56 2013]  ClientBegin: 0
+[Wed Oct 16 11:49:00 2013]  ShutdownGame:
+[Wed Oct 16 11:49:00 2013]  ------------------------------------------------------------
+[Wed Oct 16 11:49:01 2013]  ------------------------------------------------------------
+[Wed Oct 16 11:49:01 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 16 11:49:01 2013]  ClientConnect: 0
+[Wed Oct 16 11:49:13 2013]  ClientBegin: 0
+[Wed Oct 16 11:49:53 2013]  ClientDisconnect: 0
+[Wed Oct 16 11:56:48 2013]  ClientConnect: 0
+[Wed Oct 16 11:56:48 2013]  mlog:Player Padawan, connected. With IP - 91.207.67.213:29070 
+[Wed Oct 16 11:56:58 2013]  ClientBegin: 0
+[Wed Oct 16 12:03:35 2013]  ClientDisconnect: 0
+[Wed Oct 16 13:17:08 2013]  ClientConnect: 0
+[Wed Oct 16 13:17:08 2013]  mlog:Player ^3BorBorys^1), connected. With IP - 188.92.0.200:29070 
+[Wed Oct 16 13:17:33 2013]  ClientBegin: 0
+[Wed Oct 16 13:26:58 2013]  say: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-: ^2the empry house by ^5Dr^8House ^2have fun
+[Wed Oct 16 13:27:29 2013]  say: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-: ^2the empry house by ^5Dr^8House ^2have fun
+[Wed Oct 16 13:34:51 2013]  ClientDisconnect: 0
+[Wed Oct 16 13:49:00 2013]  Exit: Timelimit hit.
+[Wed Oct 16 13:57:35 2013]  ClientConnect: 0
+[Wed Oct 16 13:57:35 2013]  mlog:Player ^3BorBorys^1), connected. With IP - 188.92.0.200:29070 
+[Wed Oct 16 13:58:23 2013]  ClientBegin: 0
+[Wed Oct 16 13:58:32 2013]  ShutdownGame:
+[Wed Oct 16 13:58:32 2013]  ------------------------------------------------------------
+[Wed Oct 16 13:58:33 2013]  ------------------------------------------------------------
+[Wed Oct 16 13:58:33 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 16 13:58:34 2013]  ClientConnect: 0
+[Wed Oct 16 13:59:19 2013]  ClientBegin: 0
+[Wed Oct 16 14:06:03 2013]  ClientConnect: 1
+[Wed Oct 16 14:06:03 2013]  mlog:Player ìèñòàð âåðòàëåò, connected. With IP - 188.92.0.194:29070 
+[Wed Oct 16 14:06:39 2013]  ClientBegin: 1
+[Wed Oct 16 14:06:39 2013]  say: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=-: ^2the empry house by ^5Dr^8House ^2have fun
+[Wed Oct 16 14:08:04 2013]  print "áîññ^7 @@@PLRENAME áåçãðóäàþ ñó÷êà
+"[Wed Oct 16 14:08:31 2013]  print "áåçãðóäàþ ñó÷êà^7 @@@PLRENAME áåçãðóäÿ ñó÷êà
+"[Wed Oct 16 14:09:15 2013]  Kill: 1022 1 36: <world> killed áåçãðóäÿ ñó÷êà by MOD_CRUSH
+[Wed Oct 16 14:09:30 2013]  Kill: 1022 1 36: <world> killed áåçãðóäÿ ñó÷êà by MOD_CRUSH
+[Wed Oct 16 14:09:40 2013]  Kill: 1022 1 36: <world> killed áåçãðóäÿ ñó÷êà by MOD_CRUSH
+[Wed Oct 16 14:10:01 2013]  Kill: 1022 1 36: <world> killed áåçãðóäÿ ñó÷êà by MOD_CRUSH
+[Wed Oct 16 14:10:06 2013]  Kill: 1022 1 36: <world> killed áåçãðóäÿ ñó÷êà by MOD_CRUSH
+[Wed Oct 16 14:10:07 2013]  Kill: 1022 1 36: <world> killed áåçãðóäÿ ñó÷êà by MOD_CRUSH
+[Wed Oct 16 14:10:30 2013]  Kill: 1022 1 36: <world> killed áåçãðóäÿ ñó÷êà by MOD_CRUSH
+[Wed Oct 16 14:11:15 2013]  Kill: 0 1 19: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed áåçãðóäÿ ñó÷êà by MOD_ROCKET
+[Wed Oct 16 14:11:50 2013]  Kill: 1022 1 36: <world> killed áåçãðóäÿ ñó÷êà by MOD_CRUSH
+[Wed Oct 16 14:12:49 2013]  Kill: 1022 1 36: <world> killed áåçãðóäÿ ñó÷êà by MOD_CRUSH
+[Wed Oct 16 14:15:07 2013]  Kill: 1022 1 36: <world> killed áåçãðóäÿ ñó÷êà by MOD_CRUSH
+[Wed Oct 16 14:15:23 2013]  Kill: 1022 1 36: <world> killed áåçãðóäÿ ñó÷êà by MOD_CRUSH
+[Wed Oct 16 14:16:17 2013]  Kill: 0 1 31: -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- killed áåçãðóäÿ ñó÷êà by MOD_FORCE_DARK
+[Wed Oct 16 14:19:32 2013]  ClientDisconnect: 1
+[Wed Oct 16 14:23:31 2013]  Kill: 1022 0 6: <world> killed -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- by MOD_BLASTER
+[Wed Oct 16 14:23:58 2013]  Kill: 1022 0 6: <world> killed -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- by MOD_BLASTER
+[Wed Oct 16 14:25:04 2013]  Kill: 1022 0 6: <world> killed -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- by MOD_BLASTER
+[Wed Oct 16 14:25:35 2013]  Kill: 1022 0 6: <world> killed -=^1{^0W:K^1}^7.^1PÀRA^0SHUT^7=- by MOD_BLASTER
+[Wed Oct 16 14:25:40 2013]  ClientDisconnect: 0
+[Wed Oct 16 15:58:32 2013]  Exit: Timelimit hit.
+[Wed Oct 16 16:51:49 2013]  ClientConnect: 0
+[Wed Oct 16 16:51:49 2013]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.247.110:29070 
+[Wed Oct 16 16:52:40 2013]  ClientBegin: 0
+[Wed Oct 16 16:52:56 2013]  ShutdownGame:
+[Wed Oct 16 16:52:56 2013]  ------------------------------------------------------------
+[Wed Oct 16 16:52:57 2013]  ------------------------------------------------------------
+[Wed Oct 16 16:52:57 2013]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Wed Oct 16 16:52:57 2013]  ClientConnect: 0
+[Wed Oct 16 16:53:12 2013]  ClientBegin: 0
+[Wed Oct 16 16:53:33 2013]  ClientConnect: 1
+[Wed Oct 16 16:53:33 2013]  mlog:Player Tusken King, connected. With IP - 24.98.147.217:29070 
+[Wed Oct 16 16:53:54 2013]  ClientBegin: 1
+[Wed Oct 16 16:54:05 2013]  say: Tusken King: I Know, i've seen. ^_^
+[Wed Oct 16 16:54:32 2013]  say: Tusken King: Ah there you are. :p
+[Wed Oct 16 16:54:45 2013]  say: Tusken King: Darn modifications, need to clean these out sometime.
+[Wed Oct 16 16:54:52 2013]  say: ^7»^0Exo^1Ð^0us^7«: Test out that mini-script, tell me what you think
+[Wed Oct 16 16:54:53 2013]  say: Tusken King: it's kept me in a combat pose on idlestance.
+[Wed Oct 16 16:54:54 2013]  say: ^7»^0Exo^1Ð^0us^7«: lol
+[Wed Oct 16 16:55:02 2013]  say: Tusken King: Oh, sure, hold on while i place it together.
+[Wed Oct 16 16:56:15 2013]  say: Tusken King: Unknown on the ontime.
+[Wed Oct 16 16:56:19 2013]  say: ^7»^0Exo^1Ð^0us^7«: ?
+[Wed Oct 16 16:56:25 2013]  say: ^7»^0Exo^1Ð^0us^7«: Makermodule.
+[Wed Oct 16 16:56:28 2013]  say: Tusken King: rechecking the cmd listings.-- Ah.
+[Wed Oct 16 16:56:34 2013]  say: Tusken King: Yeah, i dont run that usually. ^_^
+[Wed Oct 16 16:56:40 2013]  say: ^7»^0Exo^1Ð^0us^7«: ._.
+[Wed Oct 16 16:56:43 2013]  say: Tusken King: I SHould more now adays with the official server's missing.
+[Wed Oct 16 16:57:13 2013]  say: Tusken King: hm..
+[Wed Oct 16 16:57:40 2013]  say: ^7»^0Exo^1Ð^0us^7«: Well.
+[Wed Oct 16 16:57:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: Derp.
+[Wed Oct 16 16:57:46 2013]  say: Tusken King: Randomly reminded myself of JC2mp for a moment.
+[Wed Oct 16 16:57:50 2013]  say: ^7»^0Exo^1Ð^0us^7«: mmm
+[Wed Oct 16 16:57:58 2013]  say: ^7»^0Exo^1Ð^0us^7«: I ought to let you have the ultimate effects mod I use
+[Wed Oct 16 16:58:02 2013]  say: Tusken King: hm.
+[Wed Oct 16 16:58:09 2013]  say: ^7»^0Exo^1Ð^0us^7«: It makes almost every effect REALISTIC
+[Wed Oct 16 16:58:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: i'm srs, env/fire is just.. wow
+[Wed Oct 16 16:58:17 2013]  say: Tusken King: Well, hold a bit for a second, im going to do a cleansweep of my own mod folder.
+[Wed Oct 16 16:58:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: kk
+[Wed Oct 16 16:58:28 2013]  ClientDisconnect: 1
+[Wed Oct 16 17:06:02 2013]  ClientConnect: 1
+[Wed Oct 16 17:06:02 2013]  mlog:Player Tusken King, connected. With IP - 24.98.147.217:29070 
+[Wed Oct 16 17:06:21 2013]  ClientBegin: 1
+[Wed Oct 16 17:06:35 2013]  say: Tusken King: Hm. let's see..
+[Wed Oct 16 17:07:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: Watch my tele
+[Wed Oct 16 17:07:44 2013]  say: Tusken King: i seen.
+[Wed Oct 16 17:08:23 2013]  say: ^7»^0Exo^1Ð^0us^7«: FKIN... need to recon
+[Wed Oct 16 17:08:27 2013]  ClientDisconnect: 0
+[Wed Oct 16 17:08:27 2013]  ClientDisconnect: 0
+[Wed Oct 16 17:08:27 2013]  ClientConnect: 0
+[Wed Oct 16 17:08:27 2013]  mlog:Player ^7»^0Exo^1Ð^0us^7«, connected. With IP - 64.111.247.110:29070 
+[Wed Oct 16 17:08:37 2013]  ClientBegin: 0
+[Wed Oct 16 17:08:53 2013]  say: ^7»^0Exo^1Ð^0us^7«: e/xec exodus
+[Wed Oct 16 17:08:56 2013]  say: ^7»^0Exo^1Ð^0us^7«: ffs.
+[Wed Oct 16 17:09:09 2013]  say: Tusken King: Not bad at all. ^_^
+[Wed Oct 16 17:09:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: I did some modifications with the saber blades.
+[Wed Oct 16 17:09:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: Made them slightly desaturated for the old saber looks
+[Wed Oct 16 17:09:36 2013]  say: Tusken King: Yeah.
+[Wed Oct 16 17:09:37 2013]  say: ^7»^0Exo^1Ð^0us^7«: as much as possible anyways.
+[Wed Oct 16 17:09:42 2013]  say: Tusken King: one of the best is the new chat sound.
+[Wed Oct 16 17:09:45 2013]  say: ^7»^0Exo^1Ð^0us^7«: ikr
+[Wed Oct 16 17:09:48 2013]  say: Tusken King: much better than the blips.
+[Wed Oct 16 17:09:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: mhm
+[Wed Oct 16 17:09:57 2013]  say: ^7»^0Exo^1Ð^0us^7«: watch this
+[Wed Oct 16 17:10:09 2013]  say: Tusken King: ranges at,... 50 fps.
+[Wed Oct 16 17:10:14 2013]  say: Tusken King: 30's... hm.
+[Wed Oct 16 17:10:23 2013]  say: Tusken King: Nice. ^_^
+[Wed Oct 16 17:10:35 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD, looks absolutely realistic, huh? xD
+[Wed Oct 16 17:10:42 2013]  say: Tusken King: Yknow im also reminded of the dbz mod awhile back.
+[Wed Oct 16 17:10:46 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Wed Oct 16 17:10:49 2013]  say: Tusken King: that thing was over top on it's effect. @_@
+[Wed Oct 16 17:10:54 2013]  say: Tusken King: least in dramatization.
+[Wed Oct 16 17:10:58 2013]  say: Tusken King: as for that, well,
+[Wed Oct 16 17:11:01 2013]  say: ^7»^0Exo^1Ð^0us^7«: mplacefx disruptor/death_smoke 50
+[Wed Oct 16 17:11:04 2013]  say: ^7»^0Exo^1Ð^0us^7«: ...
+[Wed Oct 16 17:11:09 2013]  say: Tusken King: It's in a way realistic. ^_^
+[Wed Oct 16 17:11:13 2013]  say: ^7»^0Exo^1Ð^0us^7«: Hmm, thats what i though
+[Wed Oct 16 17:11:19 2013]  say: Tusken King: For as far as jka's engine can do.
+[Wed Oct 16 17:11:21 2013]  say: ^7»^0Exo^1Ð^0us^7«: its the deathsmoke, not the fire thats realistic
+[Wed Oct 16 17:11:26 2013]  say: Tusken King: Ah.
+[Wed Oct 16 17:11:31 2013]  say: Tusken King: Nicely done.
+[Wed Oct 16 17:11:53 2013]  say: ^7»^0Exo^1Ð^0us^7«: slightly better fps
+[Wed Oct 16 17:11:56 2013]  say: Tusken King: hm.
+[Wed Oct 16 17:11:57 2013]  say: ^7»^0Exo^1Ð^0us^7«: slightly
+[Wed Oct 16 17:12:04 2013]  say: Tusken King: ranges at 40 closerange./
+[Wed Oct 16 17:12:10 2013]  say: Tusken King: around 70's far.
+[Wed Oct 16 17:12:13 2013]  say: ^7»^0Exo^1Ð^0us^7«: Yeah, i added 200 fps lag to it
+[Wed Oct 16 17:12:22 2013]  say: Tusken King: 15 at closest range.
+[Wed Oct 16 17:12:24 2013]  say: ^7»^0Exo^1Ð^0us^7«: so its 250 fps for each deathsmoke
+[Wed Oct 16 17:12:47 2013]  say: ^7»^0Exo^1Ð^0us^7«: Fkin love that new look xD
+[Wed Oct 16 17:12:51 2013]  say: Tusken King: Heh. ^_6
+[Wed Oct 16 17:13:01 2013]  say: ^7»^0Exo^1Ð^0us^7«: cmere and listen to the new lightning
+[Wed Oct 16 17:13:05 2013]  say: Tusken King: The chat sound reminds me of a old radio noise.
+[Wed Oct 16 17:13:09 2013]  say: Tusken King: Ah nice.
+[Wed Oct 16 17:13:24 2013]  say: Tusken King: wouldnt notice it over mempower.
+[Wed Oct 16 17:13:39 2013]  say: ^7»^0Exo^1Ð^0us^7«: New choking sounds and effects lol
+[Wed Oct 16 17:13:40 2013]  say: Tusken King: You'd figure you would've went with the no glow grip.
+[Wed Oct 16 17:13:44 2013]  say: Tusken King: for more of a vader feel.
+[Wed Oct 16 17:13:47 2013]  say: ^7»^0Exo^1Ð^0us^7«: Listen to the gurp when i do the choking
+[Wed Oct 16 17:13:51 2013]  say: Tusken King: i did. ^_^
+[Wed Oct 16 17:13:51 2013]  say: ^7»^0Exo^1Ð^0us^7«: fff
+[Wed Oct 16 17:14:05 2013]  say: Tusken King: Mainly a crush noise.
+[Wed Oct 16 17:14:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: I love that new dound xD
+[Wed Oct 16 17:14:25 2013]  say: ^7»^0Exo^1Ð^0us^7«: sound*
+[Wed Oct 16 17:14:31 2013]  say: Tusken King: The mempower's sort of odd though. in a way.
+[Wed Oct 16 17:14:35 2013]  say: ^7»^0Exo^1Ð^0us^7«: mhm
+[Wed Oct 16 17:14:41 2013]  say: Tusken King: you'd figure air influence would be bluelike. not yellow.
+[Wed Oct 16 17:14:49 2013]  say: ^7»^0Exo^1Ð^0us^7«: Its workable
+[Wed Oct 16 17:14:51 2013]  say: Tusken King: It makes it more of a super saiyan look to it.
+[Wed Oct 16 17:14:54 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Wed Oct 16 17:15:01 2013]  say: Tusken King: Doing a npc test:
+[Wed Oct 16 17:15:07 2013]  say: ^7»^0Exo^1Ð^0us^7«: I absolutely adore the new crosshair
+[Wed Oct 16 17:15:22 2013]  say: Tusken King: the saberflare effect is a nice add.
+[Wed Oct 16 17:15:25 2013]  say: ^7»^0Exo^1Ð^0us^7«: mhm
+[Wed Oct 16 17:15:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: Blood splatter, did you notice?
+[Wed Oct 16 17:15:48 2013]  say: Tusken King: i have all the packs in, even the noblood.
+[Wed Oct 16 17:16:04 2013]  say: ^7»^0Exo^1Ð^0us^7«: Love that xD
+[Wed Oct 16 17:16:09 2013]  say: Tusken King: XD
+[Wed Oct 16 17:16:12 2013]  say: ^7»^0Exo^1Ð^0us^7«: what
+[Wed Oct 16 17:16:13 2013]  say: ^7»^0Exo^1Ð^0us^7«: the
+[Wed Oct 16 17:16:14 2013]  say: ^7»^0Exo^1Ð^0us^7«: living
+[Wed Oct 16 17:16:14 2013]  say: Tusken King: i dont know.
+[Wed Oct 16 17:16:14 2013]  say: ^7»^0Exo^1Ð^0us^7«: fuck
+[Wed Oct 16 17:16:19 2013]  say: ^7»^0Exo^1Ð^0us^7«: i teled to you and saberlocked.
+[Wed Oct 16 17:16:21 2013]  say: ^7»^0Exo^1Ð^0us^7«: ...
+[Wed Oct 16 17:16:23 2013]  say: ^7»^0Exo^1Ð^0us^7«: wut?!
+[Wed Oct 16 17:16:29 2013]  say: Tusken King: i spawned a npc midkata,
+[Wed Oct 16 17:16:33 2013]  say: Tusken King: which you teled into after i killed,
+[Wed Oct 16 17:16:41 2013]  say: Tusken King: and on a swingforward it must've locked.
+[Wed Oct 16 17:16:47 2013]  say: ^7»^0Exo^1Ð^0us^7«: I didnt even hit a tele bind, yet i dont even have one
+[Wed Oct 16 17:16:54 2013]  say: Tusken King: XD
+[Wed Oct 16 17:17:09 2013]  say: Tusken King: Must be a highly sensitive lockfactor here.
+[Wed Oct 16 17:17:11 2013]  say: Tusken King: XD
+[Wed Oct 16 17:17:27 2013]  say: Tusken King: That's some slendermanesque work there.
+[Wed Oct 16 17:17:32 2013]  say: Tusken King: Just like lock [teleport] Hello!
+[Wed Oct 16 17:17:44 2013]  say: Tusken King: Seems similar to scorpions move.
+[Wed Oct 16 17:18:01 2013]  say: Tusken King: Where he sinks that latchable rope toss at the enemy
+[Wed Oct 16 17:18:05 2013]  say: ^7»^0Exo^1Ð^0us^7«: Yep xD
+[Wed Oct 16 17:18:06 2013]  say: Tusken King: with a ''get over here'' sound.
+[Wed Oct 16 17:18:16 2013]  say: Tusken King: i wonder if it's reversable.
+[Wed Oct 16 17:18:28 2013]  say: ^7»^0Exo^1Ð^0us^7«: Keep doing it, aim for the saber
+[Wed Oct 16 17:18:33 2013]  say: Tusken King: amusing.
+[Wed Oct 16 17:18:38 2013]  say: Tusken King: it must be some abnormal glitchup.
+[Wed Oct 16 17:18:56 2013]  say: Tusken King: Lock fold into lock.
+[Wed Oct 16 17:18:57 2013]  say: Tusken King: makes sense.
+[Wed Oct 16 17:19:15 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Wed Oct 16 17:19:16 2013]  say: Tusken King: wonder how long this goes.
+[Wed Oct 16 17:19:24 2013]  say: ^7»^0Exo^1Ð^0us^7«: Hmm, auto-breaks apparently
+[Wed Oct 16 17:19:30 2013]  say: ^7»^0Exo^1Ð^0us^7«: what if we noclipped during it?
+[Wed Oct 16 17:19:34 2013]  say: Tusken King: hm. amusing.
+[Wed Oct 16 17:19:41 2013]  say: Tusken King: mines on
+[Wed Oct 16 17:19:42 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Wed Oct 16 17:19:45 2013]  say: ^7»^0Exo^1Ð^0us^7«: same lmfao
+[Wed Oct 16 17:19:50 2013]  say: ^7»^0Exo^1Ð^0us^7«: Wut.
+[Wed Oct 16 17:19:51 2013]  say: Tusken King: should we do any--
+[Wed Oct 16 17:19:54 2013]  say: Tusken King: ah it's already going to .
+[Wed Oct 16 17:19:55 2013]  say: ^7»^0Exo^1Ð^0us^7«: Just.
+[Wed Oct 16 17:19:56 2013]  say: ^7»^0Exo^1Ð^0us^7«: wut
+[Wed Oct 16 17:20:01 2013]  say: Tusken King: ah, it ended.
+[Wed Oct 16 17:20:05 2013]  say: ^7»^0Exo^1Ð^0us^7«: Well..
+[Wed Oct 16 17:20:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: odd.
+[Wed Oct 16 17:20:09 2013]  say: Tusken King: But what if npc...
+[Wed Oct 16 17:20:18 2013]  say: ^7»^0Exo^1Ð^0us^7«: You can't beat mah strut
+[Wed Oct 16 17:20:26 2013]  say: Tusken King: it relocks?
+[Wed Oct 16 17:20:33 2013]  say: ^7»^0Exo^1Ð^0us^7«: Dis walk xD...
+[Wed Oct 16 17:20:34 2013]  say: Tusken King: amusing...
+[Wed Oct 16 17:20:43 2013]  say: Tusken King: you can be relocked in noclip afterlock.
+[Wed Oct 16 17:20:44 2013]  say: ^7»^0Exo^1Ð^0us^7«: Can't touch this...
+[Wed Oct 16 17:20:49 2013]  say: ^7»^0Exo^1Ð^0us^7«: FUUUU
+[Wed Oct 16 17:20:56 2013]  say: Tusken King: which then switches it's mode.
+[Wed Oct 16 17:21:01 2013]  say: Tusken King: Now you are on the--
+[Wed Oct 16 17:21:03 2013]  say: ^7»^0Exo^1Ð^0us^7«: FFFS
+[Wed Oct 16 17:21:09 2013]  say: Tusken King: XD
+[Wed Oct 16 17:21:22 2013]  say: Tusken King: things certainly evolved.
+[Wed Oct 16 17:21:23 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Wed Oct 16 17:21:40 2013]  say: Tusken King: it doesnt even acknowledge me now.
+[Wed Oct 16 17:21:57 2013]  say: ^7»^0Exo^1Ð^0us^7«: Hells yeah
+[Wed Oct 16 17:22:08 2013]  say: ^7»^0Exo^1Ð^0us^7«: tusk
+[Wed Oct 16 17:22:10 2013]  say: Tusken King: hm?
+[Wed Oct 16 17:22:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: we're ice skaters.
+[Wed Oct 16 17:22:14 2013]  say: Tusken King: heh. XD
+[Wed Oct 16 17:22:24 2013]  say: Tusken King: Been trying to tempt it to hit me again.
+[Wed Oct 16 17:22:36 2013]  say: ^7»^0Exo^1Ð^0us^7«: He HATES me
+[Wed Oct 16 17:22:38 2013]  say: ^7»^0Exo^1Ð^0us^7«: wtf.
+[Wed Oct 16 17:22:42 2013]  say: Tusken King: OH, what if it locks in the air?
+[Wed Oct 16 17:22:49 2013]  say: ^7»^0Exo^1Ð^0us^7«: tempting
+[Wed Oct 16 17:22:58 2013]  say: Tusken King: It'd be tricky to perform.
+[Wed Oct 16 17:23:02 2013]  say: ^7»^0Exo^1Ð^0us^7«: very
+[Wed Oct 16 17:23:06 2013]  say: ^7»^0Exo^1Ð^0us^7«: jump you little shit.
+[Wed Oct 16 17:23:11 2013]  say: Tusken King: it would have to be on a offset platform.
+[Wed Oct 16 17:23:22 2013]  say: Tusken King: rechecked my notarget, it was off this entire time.
+[Wed Oct 16 17:23:28 2013]  say: ^7»^0Exo^1Ð^0us^7«: hmm
+[Wed Oct 16 17:23:33 2013]  say: Tusken King: You must've built a ton of aggro on it.
+[Wed Oct 16 17:23:56 2013]  say: ^7»^0Exo^1Ð^0us^7«: i think its built to withstand mid-air locking
+[Wed Oct 16 17:24:00 2013]  say: Tusken King: hm.
+[Wed Oct 16 17:24:07 2013]  say: ^7»^0Exo^1Ð^0us^7«: i have an idea
+[Wed Oct 16 17:24:11 2013]  say: Tusken King: i wonder about the staffer.
+[Wed Oct 16 17:24:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: jump in mid air, i'll throw my saber
+[Wed Oct 16 17:24:22 2013]  say: ^7»^0Exo^1Ð^0us^7«: and see about locking
+[Wed Oct 16 17:24:32 2013]  say: ^7»^0Exo^1Ð^0us^7«: oh got
+[Wed Oct 16 17:24:34 2013]  say: ^7»^0Exo^1Ð^0us^7«: i'm stuck
+[Wed Oct 16 17:24:37 2013]  say: ^7»^0Exo^1Ð^0us^7«: god*
+[Wed Oct 16 17:24:37 2013]  say: Tusken King: Hold on. @_@
+[Wed Oct 16 17:24:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: I M STUCK X_X 
+
+[Wed Oct 16 17:24:46 2013]  say: ^7»^0Exo^1Ð^0us^7«: ;_;
+[Wed Oct 16 17:25:14 2013]  say: ^7»^0Exo^1Ð^0us^7«: NEI
+[Wed Oct 16 17:25:15 2013]  say: Tusken King: Geez. crazy thing.
+[Wed Oct 16 17:25:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: ;_;
+[Wed Oct 16 17:25:21 2013]  say: Tusken King: let's see..
+[Wed Oct 16 17:25:26 2013]  say: Tusken King: nope, that aint helping.
+[Wed Oct 16 17:25:32 2013]  say: Tusken King: hm..
+[Wed Oct 16 17:25:34 2013]  say: Tusken King: that worked i think.
+[Wed Oct 16 17:25:40 2013]  say: ^7»^0Exo^1Ð^0us^7«: now jump
+[Wed Oct 16 17:25:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: i'll throw
+[Wed Oct 16 17:25:47 2013]  say: Tusken King: amusing.
+[Wed Oct 16 17:25:48 2013]  say: ^7»^0Exo^1Ð^0us^7«: O-o
+[Wed Oct 16 17:25:49 2013]  say: Tusken King: it teleports me.
+[Wed Oct 16 17:25:55 2013]  say: Tusken King: what if i..
+[Wed Oct 16 17:26:06 2013]  say: Tusken King: huh.
+[Wed Oct 16 17:26:23 2013]  say: Tusken King: i think jetmode is unallowed on it.
+[Wed Oct 16 17:26:28 2013]  say: Tusken King: or i need to aim at you.
+[Wed Oct 16 17:26:36 2013]  say: Tusken King: nice. ^_^
+[Wed Oct 16 17:26:36 2013]  say: ^7»^0Exo^1Ð^0us^7«: Wut.
+[Wed Oct 16 17:26:48 2013]  say: Tusken King: it seems to agree on aiming.
+[Wed Oct 16 17:26:57 2013]  say: Tusken King: hm.
+[Wed Oct 16 17:26:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Wed Oct 16 17:27:08 2013]  ClientConnect: 2
+[Wed Oct 16 17:27:08 2013]  mlog:Player Maestro Hispano ^3Amras, connected. With IP - 85.219.4.121:29070 
+[Wed Oct 16 17:27:09 2013]  say: Tusken King: letting you try at it.
+[Wed Oct 16 17:27:11 2013]  say: Tusken King: oh, incoming.
+[Wed Oct 16 17:27:23 2013]  say: Tusken King: amusing..
+[Wed Oct 16 17:27:28 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Wed Oct 16 17:27:33 2013]  say: Tusken King: You could have some odd duels with this idea.
+[Wed Oct 16 17:27:43 2013]  ClientBegin: 2
+[Wed Oct 16 17:27:43 2013]  say: Tusken King: Now if i tried it from my angle.
+[Wed Oct 16 17:27:54 2013]  say: ^7»^0Exo^1Ð^0us^7«: lmfao
+[Wed Oct 16 17:27:54 2013]  say: Tusken King: hm.
+[Wed Oct 16 17:27:58 2013]  say: Maestro Hispano ^3Amras: hola hi
+[Wed Oct 16 17:28:00 2013]  say: Tusken King: Now you are warping instead... hm.
+[Wed Oct 16 17:28:01 2013]  say: ^7»^0Exo^1Ð^0us^7«: Hi.
+[Wed Oct 16 17:28:04 2013]  say: Tusken King: Yep. hiya.
+[Wed Oct 16 17:28:13 2013]  say: ^7»^0Exo^1Ð^0us^7«: WUT
+[Wed Oct 16 17:28:24 2013]  say: Tusken King: i wonder, if we both kata with this.. hm.
+[Wed Oct 16 17:28:31 2013]  say: ^7»^0Exo^1Ð^0us^7«: lets see then
+[Wed Oct 16 17:28:37 2013]  say: Tusken King: Setting mine to fast.
+[Wed Oct 16 17:28:42 2013]  say: Tusken King: ah!
+[Wed Oct 16 17:28:45 2013]  say: Tusken King: i didnt initiate. XD
+[Wed Oct 16 17:28:51 2013]  say: Tusken King: hm..
+[Wed Oct 16 17:28:59 2013]  say: Tusken King: seems successful.
+[Wed Oct 16 17:29:27 2013]  ClientConnect: 3
+[Wed Oct 16 17:29:27 2013]  mlog:Player ^5»^0SK^5|||^0WØLF^5«^0™, connected. With IP - 177.102.184.241:5663 
+[Wed Oct 16 17:29:32 2013]  say: Tusken King: i see skills visiting.
+[Wed Oct 16 17:29:33 2013]  say: ^7»^0Exo^1Ð^0us^7«: that was cool xD
+[Wed Oct 16 17:29:58 2013]  say: Tusken King: wha?
+[Wed Oct 16 17:29:59 2013]  say: ^7»^0Exo^1Ð^0us^7«: wait.
+[Wed Oct 16 17:30:02 2013]  say: ^7»^0Exo^1Ð^0us^7«: whut
+[Wed Oct 16 17:30:05 2013]  say: ^7»^0Exo^1Ð^0us^7«: ohai
+[Wed Oct 16 17:30:08 2013]  say: Tusken King: oh, you locked while you were, on my head.
+[Wed Oct 16 17:30:11 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Wed Oct 16 17:30:17 2013]  say: Tusken King: that is a interesting thought.
+[Wed Oct 16 17:30:34 2013]  say: ^7»^0Exo^1Ð^0us^7«: stay still.
+[Wed Oct 16 17:30:37 2013]  say: Tusken King: air locks seem. effective.
+[Wed Oct 16 17:30:50 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Minimized
+[Wed Oct 16 17:30:50 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Restored
+[Wed Oct 16 17:30:50 2013]  ClientBegin: 3
+[Wed Oct 16 17:30:51 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^1Boba^0Fett's ^3Ultra Utility ^7v3 ^5Beta 17a ^7- ^5U^7ltra^7-^5U^7tility^5.^7com
+[Wed Oct 16 17:30:53 2013]  say: Tusken King: Hi wolf.
+[Wed Oct 16 17:30:54 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: !chatstyle 0
+[Wed Oct 16 17:30:55 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0Chatstyles ^7- ^0Chatstyle set to ^5^2»^0SK^2|||^0WØLF^2«^0™
+[Wed Oct 16 17:30:58 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7yo^5|^0- ^7|||
+[Wed Oct 16 17:31:04 2013]  say: Tusken King: Been doing some amusing experiments.
+[Wed Oct 16 17:31:13 2013]  say: Tusken King: the saberlock methods here are a amusing study.
+[Wed Oct 16 17:31:19 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7you?^5|^0- ^7|||
+[Wed Oct 16 17:31:29 2013]  say: Tusken King: hm? what about me?
+[Wed Oct 16 17:31:32 2013]  say: Maestro Hispano ^3Amras: xD hi
+[Wed Oct 16 17:31:34 2013]  say: ^7»^0Exo^1Ð^0us^7«: EHEHEHE
+[Wed Oct 16 17:31:38 2013]  say: Tusken King: Nicely done exo. ^_^
+[Wed Oct 16 17:31:38 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7training?^5|^0- ^7|||
+[Wed Oct 16 17:31:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: Nope
+[Wed Oct 16 17:31:43 2013]  say: Tusken King: It's more of a research.
+[Wed Oct 16 17:31:43 2013]  say: ^7»^0Exo^1Ð^0us^7«: glitching xD
+[Wed Oct 16 17:31:51 2013]  say: Tusken King: we noticed the saberlocks here cause teleportation.
+[Wed Oct 16 17:32:21 2013]  say: Tusken King: so we have been studying it's appliance.
+[Wed Oct 16 17:32:49 2013]  say: ^7»^0Exo^1Ð^0us^7«: fff
+[Wed Oct 16 17:32:54 2013]  Item: 3 weapon_melee
+[Wed Oct 16 17:32:54 2013]  say: Tusken King: hm.
+[Wed Oct 16 17:33:10 2013]  say: ^7»^0Exo^1Ð^0us^7«: wtf
+[Wed Oct 16 17:33:12 2013]  say: Tusken King: We had somethign going there a minute. XD
+[Wed Oct 16 17:33:20 2013]  say: Tusken King: You two actually got a lock on my head.
+[Wed Oct 16 17:33:25 2013]  say: ^7»^0Exo^1Ð^0us^7«: ikr
+[Wed Oct 16 17:33:36 2013]  Kill: 3 2 37: ^5»^0SK^5|||^0WØLF^5«^0™ killed Maestro Hispano ^3Amras by MOD_TELEFRAG
+[Wed Oct 16 17:33:38 2013]  say: Tusken King: Im not sure he's filled in on what's going on.
+[Wed Oct 16 17:33:39 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Wed Oct 16 17:33:43 2013]  say: Maestro Hispano ^3Amras: xDD
+[Wed Oct 16 17:33:45 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7done :D^5|^0- ^7|||
+[Wed Oct 16 17:33:56 2013]  say: Tusken King: I'll try a c3po's method of reasoning. hold on. :p
+[Wed Oct 16 17:34:08 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7oh right exous^5|^0- ^7|||
+[Wed Oct 16 17:34:17 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7lol^5|^0- ^7|||
+[Wed Oct 16 17:34:39 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7i have one like tht ...^5|^0- ^7|||
+[Wed Oct 16 17:34:52 2013]  say: Tusken King: Hola, estamos haciendo una especie de prueba de bloqueo de sable, as que por eso l sigue saltando por encima de m, estoy usando este traductor para i
+[Wed Oct 16 17:35:10 2013]  say: Tusken King: e traductor para informarle.
+[Wed Oct 16 17:35:18 2013]  say: Tusken King: this might get the word to him clearer. :p
+[Wed Oct 16 17:35:18 2013]  say: Maestro Hispano ^3Amras: jajajaj bale bale
+[Wed Oct 16 17:35:19 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7for who?^5|^0- ^7|||
+[Wed Oct 16 17:35:25 2013]  say: ^7»^0Exo^1Ð^0us^7«: amras.
+[Wed Oct 16 17:35:28 2013]  say: Tusken King: Our hispano pal here, he's spanish.
+[Wed Oct 16 17:35:29 2013]  say: Maestro Hispano ^3Amras: yes?
+[Wed Oct 16 17:35:40 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7oh^5|^0- ^7|||
+[Wed Oct 16 17:35:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: tell him i was saying who you wer talking to lol
+[Wed Oct 16 17:35:41 2013]  say: Tusken King: Least, i think so.
+[Wed Oct 16 17:36:00 2013]  say: Tusken King: Nos informamos skillwolf que estbamos hablando con usted.
+[Wed Oct 16 17:36:13 2013]  say: Tusken King: Mentioned we were talking to skillwolf about him.
+[Wed Oct 16 17:36:15 2013]  say: ^7»^0Exo^1Ð^0us^7«: ow.
+[Wed Oct 16 17:36:20 2013]  say: Maestro Hispano ^3Amras: xDD vale vale ^^
+[Wed Oct 16 17:36:26 2013]  say: ^7»^0Exo^1Ð^0us^7«: whoa.
+[Wed Oct 16 17:37:02 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7maestro wht your from?^5|^0- ^7|||
+[Wed Oct 16 17:37:07 2013]  say: Maestro Hispano ^3Amras: spain
+[Wed Oct 16 17:37:12 2013]  say: Tusken King: He either responded voucher, or okay.
+[Wed Oct 16 17:37:13 2013]  say: Maestro Hispano ^3Amras: u?
+[Wed Oct 16 17:37:17 2013]  say: ^7»^0Exo^1Ð^0us^7«: XD
+[Wed Oct 16 17:37:19 2013]  say: ^7»^0Exo^1Ð^0us^7«: LMFAO
+[Wed Oct 16 17:37:26 2013]  say: Tusken King: Oh hi.
+[Wed Oct 16 17:37:58 2013]  say: Tusken King: far as it goes though the saberlock systems here are amusing for duels.
+[Wed Oct 16 17:38:03 2013]  say: Tusken King: with instant teleportation on use.
+[Wed Oct 16 17:38:15 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7lol^5|^0- ^7|||
+[Wed Oct 16 17:38:21 2013]  say: Tusken King: and to translate that.. 
+[Wed Oct 16 17:38:40 2013]  say: Tusken King: Hasta donde van las cosas, el sistema saberlock aqu es divertido, ya que te teletransporta directamente a ellos en la cerradura.
+[Wed Oct 16 17:38:53 2013]  say: Maestro Hispano ^3Amras: eso es 1 mod?
+[Wed Oct 16 17:39:01 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Minimized
+[Wed Oct 16 17:39:28 2013]  say: Tusken King: No, aqu nadie es un moderador, y esto no es un mod, no que yo sepa.
+[Wed Oct 16 17:39:58 2013]  say: Maestro Hispano ^3Amras: Mod de juego xD un Mod como Movie battles 2
+[Wed Oct 16 17:40:00 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Wed Oct 16 17:40:03 2013]  say: Tusken King: Oh, that.
+[Wed Oct 16 17:40:19 2013]  say: Tusken King: Oh, eso, s, he odo hablar de ese mod.
+[Wed Oct 16 17:40:21 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Restored
+[Wed Oct 16 17:40:26 2013]  say: Tusken King: si, *
+[Wed Oct 16 17:40:30 2013]  say: Maestro Hispano ^3Amras: yo no lo tengo,prefiero el clasico
+[Wed Oct 16 17:40:46 2013]  say: ^7»^0Exo^1Ð^0us^7«: xD
+[Wed Oct 16 17:41:14 2013]  say: ^7»^0Exo^1Ð^0us^7«: kk tusk, un-noclip
+[Wed Oct 16 17:41:24 2013]  say: Tusken King: Noclip is now on.
+[Wed Oct 16 17:41:29 2013]  say: Tusken King: Hm, s, no tengo ninguna preferrance del modo que a m mismo, pero puede ser divertido. ^ _ ^
+[Wed Oct 16 17:41:38 2013]  say: ^7»^0Exo^1Ð^0us^7«: urn it off while stuck in there
+[Wed Oct 16 17:41:41 2013]  say: ^7»^0Exo^1Ð^0us^7«: so you wont fly away
+[Wed Oct 16 17:41:43 2013]  say: Maestro Hispano ^3Amras: jajajaj nice
+[Wed Oct 16 17:41:51 2013]  say: Tusken King: noclip is now back off.
+[Wed Oct 16 17:41:58 2013]  say: ^7»^0Exo^1Ð^0us^7«: Hmm.
+[Wed Oct 16 17:42:08 2013]  say: Tusken King: [excusar la traduccin copiar / pegar, algo oxidado que el camino de google.]
+[Wed Oct 16 17:42:20 2013]  say: Maestro Hispano ^3Amras: hahahhaha
+[Wed Oct 16 17:42:34 2013]  say: ^7»^0Exo^1Ð^0us^7«: gtg, father's making me get off ._.
+[Wed Oct 16 17:42:40 2013]  say: Tusken King: alright, see you exo.
+[Wed Oct 16 17:42:58 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7gta 5 is the same shit just change the grafics^5|^0- ^7|||
+[Wed Oct 16 17:42:58 2013]  say: Tusken King: Voy a tener que ponerse en marcha, un placer conocerte.
+[Wed Oct 16 17:43:02 2013]  say: Tusken King: Going myself, see you skill.
+[Wed Oct 16 17:43:05 2013]  ClientDisconnect: 1
+[Wed Oct 16 17:43:05 2013]  say: Maestro Hispano ^3Amras: vaaale
+[Wed Oct 16 17:43:23 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7he's so fast :P^5|^0- ^7|||
+[Wed Oct 16 17:43:48 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7this year make 6years in jk3^5|^0- ^7|||
+[Wed Oct 16 17:45:10 2013]  ClientConnect: 1
+[Wed Oct 16 17:45:10 2013]  mlog:Player ^2Di^3Na^9Mi^4T, connected. With IP - 178.123.113.209:29070 
+[Wed Oct 16 17:46:00 2013]  ClientDisconnect: 0
+[Wed Oct 16 17:46:01 2013]  ClientBegin: 1
+[Wed Oct 16 17:46:17 2013]  say: ^3Di^2Na^9Mi^4T: hii all
+[Wed Oct 16 17:46:20 2013]  say: Maestro Hispano ^3Amras: hooola hi
+[Wed Oct 16 17:46:35 2013]  say: ^3Di^2Na^9Mi^4T: all speak englesh?
+[Wed Oct 16 17:46:43 2013]  say: Maestro Hispano ^3Amras: xD yes
+[Wed Oct 16 17:46:48 2013]  say: ^3Di^2Na^9Mi^4T: (((((((
+[Wed Oct 16 17:46:57 2013]  say: Maestro Hispano ^3Amras: i can speak spanish
+[Wed Oct 16 17:47:12 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7||| ^0-^5|^7yes u can^5|^0- ^7|||
+[Wed Oct 16 17:47:13 2013]  say: ^3Di^2Na^9Mi^4T: i speak rus
+[Wed Oct 16 17:48:35 2013]  print "^5»^0SK^5|||^0WØLF^5«^0™^7 @@@PLRENAME -=^2{^0W:K||eader^2}^7.^2W^0ØLF^7=-
+"[Wed Oct 16 17:48:59 2013]  say: ^3Di^2Na^9Mi^4T: tp
+[Wed Oct 16 17:49:08 2013]  Kill: 1022 2 39: <world> killed Maestro Hispano ^3Amras by MOD_SUICIDE
+[Wed Oct 16 17:49:08 2013]  Kill: 1 1 39: ^3Di^2Na^9Mi^4T killed ^3Di^2Na^9Mi^4T by MOD_SUICIDE
+[Wed Oct 16 17:49:13 2013]  say: -=^2{^0W:K||eader^2}^7.^2W^0ØLF^7=-: ^7||| ^0-^5|^7lol^5|^0- ^7|||
+[Wed Oct 16 17:50:03 2013]  say: -=^2{^0W:K||eader^2}^7.^2W^0ØLF^7=-: ^7||| ^0-^5|^7yea :p^5|^0- ^7|||
+[Wed Oct 16 17:50:14 2013]  say: -=^2{^0W:K||eader^2}^7.^2W^0ØLF^7=-: ^7||| ^0-^5|^7sry about your swoop^5|^0- ^7|||
+[Wed Oct 16 17:50:20 2013]  say: Maestro Hispano ^3Amras: xD no problem
+[Wed Oct 16 17:50:37 2013]  say: ^3Di^2Na^9Mi^4T: npc spawn vehicle swoop)
+[Wed Oct 16 17:50:48 2013]  say: -=^2{^0W:K||eader^2}^7.^2W^0ØLF^7=-: ^7||| ^0-^5|^7fail :P^5|^0- ^7|||
+[Wed Oct 16 17:51:08 2013]  say: ^3Di^2Na^9Mi^4T: 0_0
+[Wed Oct 16 17:51:09 2013]  say: Maestro Hispano ^3Amras: xD 
+[Wed Oct 16 17:51:15 2013]  say: ^3Di^2Na^9Mi^4T: :?
+[Wed Oct 16 17:51:23 2013]  say: -=^2{^0W:K||eader^2}^7.^2W^0ØLF^7=-: My origin is: (-1784 -819 -471) - You can teleport here with /mtelelast
+
+[Wed Oct 16 17:52:39 2013]  say: ^3Di^2Na^9Mi^4T: why!!!
+[Wed Oct 16 17:52:54 2013]  say: -=^2{^0W:K||eader^2}^7.^2W^0ØLF^7=-: ^7||| ^0-^5|^7:D^5|^0- ^7|||
+[Wed Oct 16 17:53:11 2013]  say: -=^2{^0W:K||eader^2}^7.^2W^0ØLF^7=-: ^7||| ^0-^5|^7fun^5|^0- ^7|||
+[Wed Oct 16 17:53:19 2013]  print "-=^2{^0W:K||eader^2}^7.^2W^0ØLF^7=-^7 @@@PLRENAME ^5»^0SK^5|||^0WØLF^5«^0™
+"[Wed Oct 16 17:53:32 2013]  say: ^3Di^2Na^9Mi^4T: xD
+[Wed Oct 16 17:55:04 2013]  ClientDisconnect: 1
+[Wed Oct 16 17:55:18 2013]  say: Maestro Hispano ^3Amras: take care ^^
+[Wed Oct 16 17:55:22 2013]  ClientDisconnect: 2
+[Wed Oct 16 17:57:37 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Minimized
+[Wed Oct 16 18:07:30 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^7(^0UU^7)^0: ^5..
+[Wed Oct 16 18:14:19 2013]  say: ^5»^0SK^5|||^0WØLF^5«^0™: ^0UU ^7- ^0JA ^5Restored
+[Wed Oct 16 18:14:31 2013]  ClientDisconnect: 3
+[Wed Oct 16 18:52:56 2013]  Exit: Timelimit hit.
+[Thu Oct 17 00:18:09 2013]  ClientConnect: 0
+[Thu Oct 17 00:18:09 2013]  mlog:Player ^5»^0SK^5|||^0WØLF^5«^0™, connected. With IP - 177.102.184.241:12444 
+[Thu Oct 17 00:21:34 2013]  ClientDisconnect: 0
+[Thu Oct 17 01:17:16 2013]  ClientConnect: 0
+[Thu Oct 17 01:17:16 2013]  mlog:Player ^4[aVo]Storm Surge, connected. With IP - 97.117.89.249:26871 
+[Thu Oct 17 01:17:38 2013]  ClientBegin: 0
+[Thu Oct 17 01:17:42 2013]  ShutdownGame:
+[Thu Oct 17 01:17:42 2013]  ------------------------------------------------------------

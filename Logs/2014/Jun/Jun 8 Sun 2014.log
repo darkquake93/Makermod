@@ -1,0 +1,292 @@
+[Sun Jun 08 04:46:16 2014]  ------------------------------------------------------------
+[Sun Jun 08 04:46:16 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jun 08 04:46:18 2014]  ClientConnect: 0
+[Sun Jun 08 04:46:30 2014]  ClientBegin: 0
+[Sun Jun 08 04:49:28 2014]  ClientDisconnect: 0
+[Sun Jun 08 06:46:15 2014]  Exit: Timelimit hit.
+[Sun Jun 08 07:56:07 2014]  ClientConnect: 0
+[Sun Jun 08 07:56:07 2014]  mlog:Player ^6^7^4Ki^8As, connected. With IP - 176.51.110.40:29070 
+[Sun Jun 08 07:56:34 2014]  ClientBegin: 0
+[Sun Jun 08 07:56:51 2014]  ShutdownGame:
+[Sun Jun 08 07:56:51 2014]  ------------------------------------------------------------
+[Sun Jun 08 07:56:52 2014]  ------------------------------------------------------------
+[Sun Jun 08 07:56:52 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\mp/siege_desert\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jun 08 07:56:53 2014]  ClientConnect: 0
+[Sun Jun 08 07:57:10 2014]  ClientBegin: 0
+[Sun Jun 08 08:03:00 2014]  print "Padawan^7 @@@PLRENAME ^5Darth ^3Kias
+"[Sun Jun 08 08:09:18 2014]  say: ^5Darth ^3Kias: mhelp
+[Sun Jun 08 08:09:24 2014]  say: ^5Darth ^3Kias: .ьрудз
+[Sun Jun 08 08:09:53 2014]  ClientConnect: 1
+[Sun Jun 08 08:09:53 2014]  mlog:Player veyron45, connected. With IP - 91.230.25.125:29070 
+[Sun Jun 08 08:10:09 2014]  ClientBegin: 1
+[Sun Jun 08 08:10:23 2014]  say: ^5Darth ^3Kias: здравствуй)
+[Sun Jun 08 08:10:30 2014]  say: ^5Darth ^3Kias: hi
+[Sun Jun 08 08:10:34 2014]  print "^4Sosic_xx^7 @@@PLRENAME padawan
+"[Sun Jun 08 08:10:39 2014]  say: padawan: привет
+[Sun Jun 08 08:10:50 2014]  say: ^5Darth ^3Kias: NS PYFTIM RELF PFITK&
+[Sun Jun 08 08:11:03 2014]  say: ^5Darth ^3Kias: ТЫ ЗНАЕШЬ куда щашел?
+[Sun Jun 08 08:11:07 2014]  say: padawan: нет
+[Sun Jun 08 08:11:14 2014]  say: ^5Darth ^3Kias: сматри
+[Sun Jun 08 08:11:16 2014]  say: ^5Darth ^3Kias: стой
+[Sun Jun 08 08:11:41 2014]  say: padawan: о
+[Sun Jun 08 08:12:49 2014]  say: ^5Darth ^3Kias: .
+[Sun Jun 08 08:12:55 2014]  say: ^5Darth ^3Kias: так
+[Sun Jun 08 08:12:57 2014]  say: ^5Darth ^3Kias: если
+[Sun Jun 08 08:12:59 2014]  say: ^5Darth ^3Kias: я вылечу
+[Sun Jun 08 08:13:03 2014]  say: ^5Darth ^3Kias: не выходи
+[Sun Jun 08 08:13:06 2014]  say: ^5Darth ^3Kias: и так
+[Sun Jun 08 08:13:10 2014]  say: ^5Darth ^3Kias: юнный
+[Sun Jun 08 08:13:12 2014]  say: ^5Darth ^3Kias: падаван
+[Sun Jun 08 08:13:24 2014]  Kill: 0 1 31: ^5Darth ^3Kias killed padawan by MOD_FORCE_DARK
+[Sun Jun 08 08:13:33 2014]  say: ^5Darth ^3Kias: лучше не обижай меня
+[Sun Jun 08 08:13:33 2014]  Kill: 1 1 39: padawan killed padawan by MOD_SUICIDE
+[Sun Jun 08 08:13:36 2014]  say: ^5Darth ^3Kias: или я применя
+[Sun Jun 08 08:13:38 2014]  say: ^5Darth ^3Kias: силу
+[Sun Jun 08 08:13:41 2014]  say: ^5Darth ^3Kias: которая
+[Sun Jun 08 08:13:41 2014]  say: padawan: nте скока лет
+[Sun Jun 08 08:13:46 2014]  say: ^5Darth ^3Kias: нне ведома тебе
+[Sun Jun 08 08:13:50 2014]  say: ^5Darth ^3Kias: мне 13
+[Sun Jun 08 08:13:54 2014]  say: ^5Darth ^3Kias: смари
+[Sun Jun 08 08:14:00 2014]  Kill: 1 1 36: padawan killed padawan by MOD_CRUSH
+[Sun Jun 08 08:14:01 2014]  say: ^5Darth ^3Kias: ты хочешь также?
+[Sun Jun 08 08:14:21 2014]  say: padawan: нет
+[Sun Jun 08 08:14:29 2014]  say: ^5Darth ^3Kias: ты
+[Sun Jun 08 08:14:30 2014]  say: ^5Darth ^3Kias: сука
+[Sun Jun 08 08:14:33 2014]  say: ^5Darth ^3Kias: знаешь
+[Sun Jun 08 08:14:35 2014]  say: ^5Darth ^3Kias: куда зашел
+[Sun Jun 08 08:14:38 2014]  say: ^5Darth ^3Kias: все таки
+[Sun Jun 08 08:15:04 2014]  say: ^5Darth ^3Kias: ну не надо плиз
+[Sun Jun 08 08:15:10 2014]  say: ^5Darth ^3Kias: .ьвкщз
+[Sun Jun 08 08:15:48 2014]  say: ^5Darth ^3Kias: ljcnfk
+[Sun Jun 08 08:16:04 2014]  say: ^5Darth ^3Kias: достал
+[Sun Jun 08 08:16:06 2014]  say: ^5Darth ^3Kias: не надо
+[Sun Jun 08 08:16:10 2014]  say: ^5Darth ^3Kias: гадить
+[Sun Jun 08 08:16:14 2014]  say: ^5Darth ^3Kias: на хуевке
+[Sun Jun 08 08:16:21 2014]  say: padawan: че
+[Sun Jun 08 08:16:28 2014]  say: ^5Darth ^3Kias: сука
+[Sun Jun 08 08:16:36 2014]  say: ^5Darth ^3Kias: ты фуру не видл?ъ
+[Sun Jun 08 08:16:40 2014]  say: ^5Darth ^3Kias: андрюху
+[Sun Jun 08 08:16:44 2014]  say: padawan: да
+[Sun Jun 08 08:16:52 2014]  say: ^5Darth ^3Kias: он у себя?
+[Sun Jun 08 08:16:56 2014]  say: padawan: нет
+[Sun Jun 08 08:17:05 2014]  say: ^5Darth ^3Kias: а диму?
+[Sun Jun 08 08:17:09 2014]  say: padawan: да
+[Sun Jun 08 08:17:24 2014]  say: ^5Darth ^3Kias: как у них фамилия?
+[Sun Jun 08 08:17:32 2014]  say: padawan: нормально
+[Sun Jun 08 08:18:20 2014]  say: padawan: ти где
+[Sun Jun 08 08:18:29 2014]  say: ^5Darth ^3Kias: gthtcnfytim uflbnm&
+[Sun Jun 08 08:18:29 2014]  Kill: 1 1 39: padawan killed padawan by MOD_SUICIDE
+[Sun Jun 08 08:18:29 2014]  setteam:  1 FREE SPECTATOR
+[Sun Jun 08 08:18:29 2014]  ClientBegin: 1
+[Sun Jun 08 08:18:37 2014]  say: ^5Darth ^3Kias: хаха
+[Sun Jun 08 08:18:38 2014]  setteam:  1 SPECTATOR FREE
+[Sun Jun 08 08:18:38 2014]  ClientBegin: 1
+[Sun Jun 08 08:18:42 2014]  say: ^5Darth ^3Kias: не найдешь
+[Sun Jun 08 08:19:36 2014]  say: ^5Darth ^3Kias: бесишь достал
+[Sun Jun 08 08:19:38 2014]  say: ^5Darth ^3Kias: сука
+[Sun Jun 08 08:19:45 2014]  say: ^5Darth ^3Kias: щяс уйду скучно станет
+[Sun Jun 08 08:19:48 2014]  say: ^5Darth ^3Kias: =)
+[Sun Jun 08 08:19:55 2014]  say: padawan: хорошо
+[Sun Jun 08 08:20:00 2014]  say: ^5Darth ^3Kias: пока
+[Sun Jun 08 08:20:03 2014]  ClientDisconnect: 0
+[Sun Jun 08 08:20:36 2014]  ClientDisconnect: 1
+[Sun Jun 08 08:23:40 2014]  ClientConnect: 0
+[Sun Jun 08 08:23:40 2014]  mlog:Player Макс, connected. With IP - 176.51.110.40:29070 
+[Sun Jun 08 08:23:56 2014]  ClientBegin: 0
+[Sun Jun 08 08:25:19 2014]  ClientConnect: 1
+[Sun Jun 08 08:25:19 2014]  mlog:Player veyron45, connected. With IP - 91.230.25.125:29070 
+[Sun Jun 08 08:25:24 2014]  ClientDisconnect: 1
+[Sun Jun 08 08:25:29 2014]  say: ^5Darth ^3Kias: фух
+[Sun Jun 08 08:26:10 2014]  ClientConnect: 1
+[Sun Jun 08 08:26:10 2014]  mlog:Player ALCOHOLIC, connected. With IP - 91.230.25.125:29070 
+[Sun Jun 08 08:26:39 2014]  ClientBegin: 1
+[Sun Jun 08 08:26:46 2014]  say: ^5Darth ^3Kias: ясно
+[Sun Jun 08 08:26:56 2014]  say: ^5Darth ^3Kias: не гадь плз
+[Sun Jun 08 08:27:35 2014]  Kill: 1 1 39: ALCOHOLIC killed ALCOHOLIC by MOD_SUICIDE
+[Sun Jun 08 08:27:39 2014]  Kill: 1 1 39: ALCOHOLIC killed ALCOHOLIC by MOD_SUICIDE
+[Sun Jun 08 08:27:39 2014]  setteam:  1 FREE SPECTATOR
+[Sun Jun 08 08:27:39 2014]  ClientBegin: 1
+[Sun Jun 08 08:27:48 2014]  say: ^5Darth ^3Kias: ну че ты хочешь а?
+[Sun Jun 08 08:27:52 2014]  setteam:  1 SPECTATOR FREE
+[Sun Jun 08 08:27:52 2014]  ClientBegin: 1
+[Sun Jun 08 08:27:58 2014]  say: ALCOHOLIC: денег
+[Sun Jun 08 08:28:03 2014]  say: ^5Darth ^3Kias: я тоже
+[Sun Jun 08 08:28:06 2014]  say: ^5Darth ^3Kias: xD
+[Sun Jun 08 08:28:08 2014]  Kill: 1022 1 36: <world> killed ALCOHOLIC by MOD_CRUSH
+[Sun Jun 08 08:28:36 2014]  say: ALCOHOLIC: давай двацатку
+[Sun Jun 08 08:29:02 2014]  say: ^5Darth ^3Kias: проткни свой комп дам
+[Sun Jun 08 08:29:23 2014]  say: ^5Darth ^3Kias: сука
+[Sun Jun 08 08:29:37 2014]  say: ^5Darth ^3Kias: ну не надо пожалуйста
+[Sun Jun 08 08:29:40 2014]  say: ^5Darth ^3Kias: мне
+[Sun Jun 08 08:29:44 2014]  say: ^5Darth ^3Kias: надо учить
+[Sun Jun 08 08:29:47 2014]  say: ^5Darth ^3Kias: скрипты
+[Sun Jun 08 08:29:53 2014]  say: ^5Darth ^3Kias: пойми мненя
+[Sun Jun 08 08:29:54 2014]  say: ALCOHOLIC: УЧИ УРОКИ
+[Sun Jun 08 08:30:02 2014]  say: ^5Darth ^3Kias: пфф
+[Sun Jun 08 08:30:08 2014]  say: ^5Darth ^3Kias: это ты учи уроки
+[Sun Jun 08 08:30:13 2014]  say: ^5Darth ^3Kias: школота
+[Sun Jun 08 08:30:15 2014]  say: ^5Darth ^3Kias: пля
+[Sun Jun 08 08:30:37 2014]  say: ^5Darth ^3Kias: тихо
+[Sun Jun 08 08:30:38 2014]  say: ^5Darth ^3Kias: все
+[Sun Jun 08 08:30:43 2014]  say: ^5Darth ^3Kias: да все
+[Sun Jun 08 08:30:46 2014]  say: ^5Darth ^3Kias: сказал же
+[Sun Jun 08 08:31:37 2014]  Kill: 1 1 39: ALCOHOLIC killed ALCOHOLIC by MOD_SUICIDE
+[Sun Jun 08 08:35:02 2014]  ClientDisconnect: 0
+[Sun Jun 08 08:42:07 2014]  ClientDisconnect: 1
+[Sun Jun 08 08:50:55 2014]  ClientConnect: 0
+[Sun Jun 08 08:50:55 2014]  mlog:Player Padawan, connected. With IP - 176.51.110.40:29070 
+[Sun Jun 08 08:51:26 2014]  ClientBegin: 0
+[Sun Jun 08 08:53:53 2014]  ClientDisconnect: 0
+[Sun Jun 08 09:04:19 2014]  ClientConnect: 0
+[Sun Jun 08 09:04:19 2014]  mlog:Player Padawan, connected. With IP - 176.51.110.40:29070 
+[Sun Jun 08 09:04:49 2014]  ClientBegin: 0
+[Sun Jun 08 09:09:39 2014]  ClientDisconnect: 0
+[Sun Jun 08 09:56:51 2014]  Exit: Timelimit hit.
+[Sun Jun 08 11:06:36 2014]  ClientConnect: 0
+[Sun Jun 08 11:06:36 2014]  mlog:Player 3^0 |ILLUMINATI|^7[U], connected. With IP - 89.179.70.205:29070 
+[Sun Jun 08 11:06:47 2014]  ClientDisconnect: 0
+[Sun Jun 08 11:06:47 2014]  ClientConnect: 0
+[Sun Jun 08 11:06:47 2014]  mlog:Player 3^0 |ILLUMINATI|^7[U], connected. With IP - 89.179.70.205:29070 
+[Sun Jun 08 11:06:53 2014]  ClientDisconnect: 0
+[Sun Jun 08 11:06:53 2014]  ClientConnect: 0
+[Sun Jun 08 11:06:53 2014]  mlog:Player 3^0 |ILLUMINATI|^7[U], connected. With IP - 89.179.70.205:29070 
+[Sun Jun 08 11:07:16 2014]  ClientBegin: 0
+[Sun Jun 08 11:07:24 2014]  print "3^0 |ILLUMINATI|^7[U]^7 @@@PLRENAME Padawan
+"[Sun Jun 08 11:07:25 2014]  ShutdownGame:
+[Sun Jun 08 11:07:25 2014]  ------------------------------------------------------------
+[Sun Jun 08 11:07:26 2014]  ------------------------------------------------------------
+[Sun Jun 08 11:07:26 2014]  InitGame: \dmflags\0\fraglimit\0\timelimit\120\capturelimit\0\g_privateDuel\1\g_saberLocking\1\g_maxForceRank\7\duel_fraglimit\10\g_forceBasedTeams\0\g_duelWeaponDisable\65531\sv_hostname\^3Darkquake's Makermod Server\sv_maxclients\32\sv_maxRate\5000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\0\sv_allowDownload\1\bot_minplayers\0\g_allowNPC\1\g_weaponDisable\0\g_forcePowerDisable\0\g_forceRegenTime\0\g_siegeTeamSwitch\1\g_siegeRespawn\20\g_debugMelee\1\g_noSpecMove\0\g_maxGameClients\0\g_jediVmerc\0\g_siegeTeam1\none\g_siegeTeam2\none\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jun 08 11:07:28 2014]  ClientConnect: 0
+[Sun Jun 08 11:07:54 2014]  ClientBegin: 0
+[Sun Jun 08 11:09:37 2014]  ClientDisconnect: 0
+[Sun Jun 08 11:09:37 2014]  ClientDisconnect: 0
+[Sun Jun 08 11:09:37 2014]  ClientConnect: 0
+[Sun Jun 08 11:09:37 2014]  mlog:Player Padawan, connected. With IP - 89.179.70.205:29070 
+[Sun Jun 08 11:09:47 2014]  ClientBegin: 0
+[Sun Jun 08 11:21:45 2014]  Kill: 0 0 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Jun 08 11:26:24 2014]  say: Padawan: ^0Heil ^7Hitler ^0\^7o
+[Sun Jun 08 11:28:39 2014]  ClientDisconnect: 0
+[Sun Jun 08 13:07:25 2014]  Exit: Timelimit hit.
+[Sun Jun 08 13:16:24 2014]  ShutdownGame:
+[Sun Jun 08 13:16:24 2014]  ------------------------------------------------------------
+[Sun Jun 08 13:20:55 2014]  ------------------------------------------------------------
+[Sun Jun 08 13:20:55 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jun 08 13:21:50 2014]  ClientConnect: 0
+[Sun Jun 08 13:21:50 2014]  mlog:Player ^0РаrkQµаkи, connected. With IP - 192.168.1.3:29071 
+[Sun Jun 08 13:22:20 2014]  ClientBegin: 0
+[Sun Jun 08 13:23:04 2014]  ShutdownGame:
+[Sun Jun 08 13:23:04 2014]  ------------------------------------------------------------
+[Sun Jun 08 13:23:07 2014]  ------------------------------------------------------------
+[Sun Jun 08 13:23:07 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jun 08 13:23:09 2014]  ClientConnect: 0
+[Sun Jun 08 13:23:15 2014]  ClientBegin: 0
+[Sun Jun 08 13:23:31 2014]  ClientConnect: 1
+[Sun Jun 08 13:23:31 2014]  mlog:Player ^7Deus^1Encarmine, connected. With IP - 89.178.170.244:29070 
+[Sun Jun 08 13:23:38 2014]  ShutdownGame:
+[Sun Jun 08 13:23:38 2014]  ------------------------------------------------------------
+[Sun Jun 08 13:23:41 2014]  ------------------------------------------------------------
+[Sun Jun 08 13:23:41 2014]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\1\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Jun 08 13:23:43 2014]  ClientConnect: 0
+[Sun Jun 08 13:23:43 2014]  ClientConnect: 1
+[Sun Jun 08 13:23:51 2014]  ClientBegin: 0
+[Sun Jun 08 13:24:04 2014]  ClientBegin: 1
+[Sun Jun 08 13:24:11 2014]  Item: 1 weapon_melee
+[Sun Jun 08 13:24:17 2014]  say: ^7Deus^1Encarmine: hello
+[Sun Jun 08 13:24:23 2014]  say: ^0РаrkQµаkи: hi
+[Sun Jun 08 13:24:30 2014]  say: ^7Deus^1Encarmine: whats new?
+[Sun Jun 08 13:24:49 2014]  say: ^0РаrkQµаkи: Not much, tbh I've been on Titanfall lol but I did script another attack :)
+[Sun Jun 08 13:25:06 2014]  say: ^7Deus^1Encarmine: doesnt look very pretty
+[Sun Jun 08 13:25:17 2014]  say: ^0РаrkQµаkи: nah I just test things out really
+[Sun Jun 08 13:25:25 2014]  say: ^0РаrkQµаkи: I don't spend too much time here anymore
+[Sun Jun 08 13:25:32 2014]  say: ^7Deus^1Encarmine: me neither
+[Sun Jun 08 13:25:36 2014]  say: ^0РаrkQµаkи: maybe once I've reached max level on Titanfall haha
+[Sun Jun 08 13:25:42 2014]  say: ^7Deus^1Encarmine: lol
+[Sun Jun 08 13:25:56 2014]  say: ^7Deus^1Encarmine: hope it wont crush...
+[Sun Jun 08 13:26:21 2014]  say: ^0РаrkQµаkи: hahaha wow! :D
+[Sun Jun 08 13:26:24 2014]  say: ^7Deus^1Encarmine: :D
+[Sun Jun 08 13:26:37 2014]  say: ^7Deus^1Encarmine: made it long before titanfall
+[Sun Jun 08 13:26:46 2014]  say: ^7Deus^1Encarmine: i mean before its out
+[Sun Jun 08 13:26:54 2014]  say: ^0РаrkQµаkи: nice! :)
+[Sun Jun 08 13:26:58 2014]  say: ^7Deus^1Encarmine: thanks
+[Sun Jun 08 13:27:20 2014]  say: ^7Deus^1Encarmine: i have another thing that could be called a robot
+[Sun Jun 08 13:27:32 2014]  say: ^0РаrkQµаkи: sure show me
+[Sun Jun 08 13:27:41 2014]  say: ^0РаrkQµаkи: I used to have a motorcycle and stuff but lost the scripts :p
+[Sun Jun 08 13:28:11 2014]  say: ^0РаrkQµаkи: impressive stuff :)
+[Sun Jun 08 13:28:49 2014]  say: ^7Deus^1Encarmine: got 4 types of this one
+[Sun Jun 08 13:29:55 2014]  say: ^7Deus^1Encarmine: damn, placed too much
+[Sun Jun 08 13:30:03 2014]  say: ^7Deus^1Encarmine: some parts are misiing now
+[Sun Jun 08 13:30:09 2014]  say: ^0РаrkQµаkи: remove the others :p
+[Sun Jun 08 13:30:13 2014]  say: ^0РаrkQµаkи: hopefully it'll show
+[Sun Jun 08 13:30:41 2014]  say: ^0РаrkQµаkи: well you're loaded lol
+[Sun Jun 08 13:31:18 2014]  say: ^0РаrkQµаkи: I would've loved to create lots of these scripts too but I lost motivation really
+[Sun Jun 08 13:31:27 2014]  say: ^7Deus^1Encarmine: also i got a couple tanks, a lot of ships, ect
+[Sun Jun 08 13:32:16 2014]  say: ^7Deus^1Encarmine: ^1MORE sculls for the Scull Throne!!!
+[Sun Jun 08 13:32:56 2014]  say: ^0РаrkQµаkи: Hey I could easily put them on my site if you wanna share them :) I wonder if ppl would pay for awesome scripts lol
+[Sun Jun 08 13:33:10 2014]  say: ^7Deus^1Encarmine: if i wanted to share them, i would
+[Sun Jun 08 13:33:13 2014]  say: ^0РаrkQµаkи: I doubt it though, this game is dead now :(
+[Sun Jun 08 13:33:25 2014]  say: ^7Deus^1Encarmine: but i dont want someone to use my scripts as their own
+[Sun Jun 08 13:33:39 2014]  say: ^0РаrkQµаkи: Yeah cool :) I might charge for mine once they're really good
+[Sun Jun 08 13:33:50 2014]  say: ^0РаrkQµаkи: but that's ages away
+[Sun Jun 08 13:34:11 2014]  say: ^7Deus^1Encarmine: youre the only script maker that shares his scripts
+[Sun Jun 08 13:34:21 2014]  say: ^0РаrkQµаkи: Too many things going on in life lol but I'll get em done eventually
+[Sun Jun 08 13:34:33 2014]  say: ^0РаrkQµаkи: Yeah I like to share my work :)
+[Sun Jun 08 13:34:50 2014]  say: ^0РаrkQµаkи: I don't mind helping others create their own scripts from mine
+[Sun Jun 08 13:34:56 2014]  say: ^7Deus^1Encarmine: and what if someone shall tell everyone that he made those scripts by himself?
+[Sun Jun 08 13:35:09 2014]  say: ^7Deus^1Encarmine: those you uploaded
+[Sun Jun 08 13:35:34 2014]  say: ^0РаrkQµаkи: What do you mean? Everyone knows they're mine don't they?
+[Sun Jun 08 13:35:50 2014]  say: ^7Deus^1Encarmine: some people eraise your name from them...
+[Sun Jun 08 13:36:01 2014]  say: ^7Deus^1Encarmine: and tell that they made them
+[Sun Jun 08 13:36:25 2014]  say: ^0РаrkQµаkи: Oh right, interesting
+[Sun Jun 08 13:36:35 2014]  say: ^7Deus^1Encarmine: thats why noone else shares their scripts
+[Sun Jun 08 13:36:35 2014]  say: ^0РаrkQµаkи: I'm sure I'll find a way to protect the cfg files if I need to :)
+[Sun Jun 08 13:36:42 2014]  say: ^7Deus^1Encarmine: noone wants them to be stolen
+[Sun Jun 08 13:36:45 2014]  say: ^0РаrkQµаkи: Well I don't mind really
+[Sun Jun 08 13:36:55 2014]  say: ^0РаrkQµаkи: I'll know I created them in the first place
+[Sun Jun 08 13:37:10 2014]  say: ^0РаrkQµаkи: But I'll find a way to protect my latest ones when I release them
+[Sun Jun 08 13:38:00 2014]  say: ^7Deus^1Encarmine: anyways im not gonna share my ones. especially my building ones...
+[Sun Jun 08 13:38:47 2014]  say: ^7Deus^1Encarmine: wanna take a look at smth huge?
+[Sun Jun 08 13:38:53 2014]  say: ^0РаrkQµаkи: yeah alright
+[Sun Jun 08 13:38:56 2014]  say: ^7Deus^1Encarmine: My origin is: (4712 -18099 2716) - You can teleport here with /mtelelast
+
+[Sun Jun 08 13:39:32 2014]  say: ^0РаrkQµаkи: cool :D
+[Sun Jun 08 13:39:47 2014]  say: ^7Deus^1Encarmine: this one was stolen once
+[Sun Jun 08 13:40:16 2014]  say: ^7Deus^1Encarmine: just imagine: a guy tells your friends that he made this script...
+[Sun Jun 08 13:40:35 2014]  say: ^7Deus^1Encarmine: after you trusted him and shared it to him
+[Sun Jun 08 13:41:08 2014]  say: ^0РаrkQµаkи: yeah I get how you feel, but there's always proof if you need it
+[Sun Jun 08 13:41:16 2014]  say: ^0РаrkQµаkи: like the script creation date etc
+[Sun Jun 08 13:41:59 2014]  say: ^0РаrkQµаkи: Anyway, my scripts were never this huge so I didn't mind sharing them. But if I create something like this I would make sure it's protected
+[Sun Jun 08 13:42:08 2014]  say: ^0РаrkQµаkи: protected
+[Sun Jun 08 13:42:09 2014]  say: ^7Deus^1Encarmine: but the fact that your script was stolen by a little dumb that cant make anything by his own...
+[Sun Jun 08 13:42:31 2014]  say: ^0РаrkQµаkи: Well I don't mind tbh
+[Sun Jun 08 13:42:55 2014]  say: ^0РаrkQµаkи: I'm barely on this game, if they convince people it's their script then that's up to them
+[Sun Jun 08 13:43:25 2014]  say: ^0РаrkQµаkи: Doesn't take much though to look at darkquake.com as proof they're mine, if there's any doubts
+[Sun Jun 08 13:43:45 2014]  say: ^7Deus^1Encarmine: if someone tells them to do that...
+[Sun Jun 08 13:44:00 2014]  say: ^0РаrkQµаkи: Or if they were curious
+[Sun Jun 08 13:44:05 2014]  say: ^7Deus^1Encarmine: youre not as well-known as you think...
+[Sun Jun 08 13:44:10 2014]  say: ^0РаrkQµаkи: If you just google darkquake I'm at the top
+[Sun Jun 08 13:44:19 2014]  say: ^0РаrkQµаkи: well exactly that's why it doesn't really bother me
+[Sun Jun 08 13:44:52 2014]  say: ^0РаrkQµаkи: I'm only back on here for nostalgic reasons :p
+[Sun Jun 08 13:45:01 2014]  say: ^7Deus^1Encarmine: the same)
+[Sun Jun 08 13:45:07 2014]  say: ^7Deus^1Encarmine: noone left to play with
+[Sun Jun 08 13:45:26 2014]  say: ^0РаrkQµаkи: yeah it's sad, Makermod was great with a community
+[Sun Jun 08 13:45:46 2014]  say: ^0РаrkQµаkи: anyway I'll be on Titanfall, I just hop back on here every now and then
+[Sun Jun 08 13:45:53 2014]  say: ^7Deus^1Encarmine: 2.5 years ago there was a huge clan playing here
+[Sun Jun 08 13:47:09 2014]  say: ^0РаrkQµаkи: Yeah shame they're all gone :( Anyway later on I'll dedicate whole days to scripting and push things forward
+[Sun Jun 08 13:47:17 2014]  say: ^0РаrkQµаkи: For now I'll be on Titanfall lol, cya
+[Sun Jun 08 13:47:26 2014]  say: ^0РаrkQµаkи: Awesome scripts, thanks for showing them :)
+[Sun Jun 08 13:47:33 2014]  say: ^7Deus^1Encarmine: leaving right now?
+[Sun Jun 08 13:47:59 2014]  say: ^0РаrkQµаkи: Yeah, I just checked back in to check my motd change really
+[Sun Jun 08 13:48:09 2014]  say: ^7Deus^1Encarmine: ok, gl
+[Sun Jun 08 13:48:16 2014]  say: ^7Deus^1Encarmine: btw
+[Sun Jun 08 13:48:25 2014]  say: ^7Deus^1Encarmine: i'd change a catw remap
+[Sun Jun 08 13:48:39 2014]  say: ^7Deus^1Encarmine: something not so transparent
+[Sun Jun 08 13:49:05 2014]  say: ^0РаrkQµаkи: Sure I'll keep that in mind. 
+[Sun Jun 08 13:49:22 2014]  say: ^0РаrkQµаkи: I have a few commented out I think, so I'll experiment
+[Sun Jun 08 13:49:28 2014]  say: ^0РаrkQµаkи: Anyway cya
+[Sun Jun 08 13:49:31 2014]  say: ^7Deus^1Encarmine: bb
+[Sun Jun 08 13:49:45 2014]  ClientDisconnect: 0
+[Sun Jun 08 13:50:44 2014]  ClientDisconnect: 1
+[Sun Jun 08 15:23:38 2014]  Exit: Timelimit hit.
+[Sun Jun 08 20:02:19 2014]  ClientConnect: 0
+[Sun Jun 08 20:02:19 2014]  mlog:Player Eklesiast, connected. With IP - 93.175.236.230:-24552 
+[Sun Jun 08 20:02:26 2014]  ClientDisconnect: 0

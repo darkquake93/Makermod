@@ -1,0 +1,36 @@
+[Sun Nov 10 10:40:48 2013]  ------------------------------------------------------------
+[Sun Nov 10 10:40:48 2013]  InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_jediVmerc\0\g_maxGameClients\0\g_noSpecMove\0\g_debugMelee\1\g_siegeRespawn\20\g_siegeTeamSwitch\1\g_forceRegenTime\0\g_forcePowerDisable\0\g_weaponDisable\0\g_allowNPC\1\bot_minplayers\0\sv_allowDownload\1\sv_floodProtect\0\sv_maxPing\0\sv_minPing\0\sv_maxRate\5000\sv_maxclients\32\sv_hostname\^3Darkquake's Makermod Server\g_duelWeaponDisable\65531\g_forceBasedTeams\0\duel_fraglimit\10\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\0\timelimit\120\fraglimit\0\dmflags\0\version\(internal)JAmp: v1.0.1.0 win-x86 Oct 30 2003\g_maxHolocronCarry\3\g_gametype\0\g_needpass\0\protocol\26\mapname\t2_trip\sv_privateClients\0\g_stepSlideFix\1\gamename\MakerMod\g_saberWallDamageScale\0.4\bg_fighterAltControl\0\g_showDuelHealths\0
+[Sun Nov 10 10:40:49 2013]  ClientConnect: 0
+[Sun Nov 10 10:40:49 2013]  ClientConnect: 1
+[Sun Nov 10 10:40:53 2013]  ClientBegin: 0
+[Sun Nov 10 10:41:42 2013]  ClientBegin: 1
+[Sun Nov 10 10:42:15 2013]  Kill: 1 0 3: Padawan killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 10 10:44:37 2013]  Kill: 1 1 39: Padawan killed Padawan by MOD_SUICIDE
+[Sun Nov 10 10:44:51 2013]  Kill: 1 0 3: Padawan killed ^6Pinkie Bot^7 by MOD_SABER
+[Sun Nov 10 10:47:08 2013]  say: Padawan: /
+[Sun Nov 10 10:47:16 2013]  print "Padawan^7 @@@PLRENAME ^4A^0lex^4X
+"[Sun Nov 10 10:47:36 2013]  Kill: 1022 1 6: <world> killed ^4A^0lex^4X by MOD_BLASTER
+[Sun Nov 10 10:50:14 2013]  ClientDisconnect: 1
+[Sun Nov 10 11:17:39 2013]  ClientConnect: 1
+[Sun Nov 10 11:17:39 2013]  mlog:Player maxim, connected. With IP - 46.39.248.67:4916 
+[Sun Nov 10 11:17:51 2013]  ClientBegin: 1
+[Sun Nov 10 11:18:02 2013]  ClientDisconnect: 1
+[Sun Nov 10 12:07:36 2013]  ClientConnect: 1
+[Sun Nov 10 12:07:36 2013]  mlog:Player maxim, connected. With IP - 46.39.248.67:30986 
+[Sun Nov 10 12:07:48 2013]  ClientBegin: 1
+[Sun Nov 10 12:09:07 2013]  Kill: 1 1 36: maxim killed maxim by MOD_CRUSH
+[Sun Nov 10 12:10:05 2013]  ClientDisconnect: 1
+[Sun Nov 10 12:15:55 2013]  ClientConnect: 1
+[Sun Nov 10 12:15:55 2013]  mlog:Player Padawan, connected. With IP - 46.39.248.67:-805 
+[Sun Nov 10 12:16:21 2013]  ClientBegin: 1
+[Sun Nov 10 12:22:55 2013]  ClientDisconnect: 1
+[Sun Nov 10 12:25:00 2013]  ClientConnect: 1
+[Sun Nov 10 12:25:00 2013]  mlog:Player Padawan, connected. With IP - 46.39.248.67:1309 
+[Sun Nov 10 12:25:26 2013]  ClientBegin: 1
+[Sun Nov 10 12:25:57 2013]  ClientDisconnect: 1
+[Sun Nov 10 12:26:27 2013]  ClientConnect: 1
+[Sun Nov 10 12:26:27 2013]  mlog:Player Padawan, connected. With IP - 46.39.248.67:1309 
+[Sun Nov 10 12:26:53 2013]  ClientBegin: 1
+[Sun Nov 10 12:36:27 2013]  ClientDisconnect: 1
+[Sun Nov 10 12:40:47 2013]  Exit: Timelimit hit.
+[Sun Nov 10 12:40:47 2013]  score: 0  ping: 68  client: 0 ^6Pinkie Bot^7
